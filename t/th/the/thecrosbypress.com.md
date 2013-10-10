@@ -1,115 +1,163 @@
-> *The following text is extracted and transformed from the thecrosbypress.com privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601122426id_/http%3A//www.thecrosbypress.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thecrosbypress.com privacy policy that was archived on 2013-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131010051537id_/http%3A//www.thecrosbypress.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - The Crosby Press
 
-**The Crosby Press Privacy Policy**
+Last Update: October 5, 2013
 
-We take your privacy seriously.  We are providing this Policy to inform you of our policies and procedures regarding the collection, use and disclosure of information on our service. We also want to inform you about your choices regarding information.  If you have any questions or concerns, please let us know (see “How to contact us” section below).
+Thrillist Media Group, Inc. (“ **Thrillist** ”) respects your concerns about privacy. This Privacy Policy describes the types of personal information we collect, how we use (and don’t use!) the information and with whom we share it.  We also describe, among other things, the measures we take to protect the security of the information and how you can contact us about our privacy practices.  We recognize that we must maintain and use your personal information responsibly.
 
-Note that this Policy may be modified from time to time in our sole discretion, so check back frequently.  We will notify you of any changes to the Policy by posting a new Policy and updating the “last updated” date at the top of this page.  **Please note that when you use the service, you are consenting to the collection, transfer, manipulation, storage, disclosure and other uses of your information as described in this Policy; please read it carefully**.
+When we say “ **we** ”, “ **our** ” or “ **us** ”, we mean collectively:
 
-1.  How we collect information
+-the main Thrillist site ([www.thrillist.com](http://www.thrillist.com/)) and each of our local (e.g., [www.thrillist.com/miami](http://www.thrillist.com/miami), [www.thrillist.com/london](http://www.thrillist.com/london)) and destination (e.g.,[www.thrillist.com/berlin](http://www.thrillist.com/berlin)) editions;
 
-We collect information in three basic ways:
+-the email publications prepared and delivered by us to our members;
 
-a.  We collect information that you voluntarily provide to become a registered user of our service, and when you use certain aspects of our service.
+-Jackthreads ([www.jackthreads.com](http://www.jackthreads.com/));
 
-b.  We collect information when you register to join The Crosby Press by logging into an account that you already have with certain third-party social networking sites (“ **SNS** ”) [(including, but not limited to, Facebook and Twitter) via our service. For example, our service allows you to create an account and login to the service using your Facebook account credentials through Facebook Connect.  If you are not currently registered as a user of our service and you click on “Sign in Using Facebook,” you will first be asked to enter your Facebook credentials and then be given the option to register and join The Crosby Press.]
+-The Crosby Press ([www.thecrosbypress.com](http://www.thecrosbypress.com/)) and
 
-c.  When you browse or use our service, technological tools including “Log Data” and “Cookies” collect certain information, as explained in the following section.
+-Supercompressor ([www.supercompressor.com](http://www.supercompressor.com/)).
 
-2\.  What information we collect and how we use it
+And, when we refer to “ **personal information** ”, we mean information by which you or the device you are using to connect to the Internet can be identified.
 
-a.  Personal Information. When you register with us through the service to become a registered user of The Crosby Press, we will ask you for certain information about you that can be used to contact or identify you (“ **Personal Information** ”).  Personal Information may include, but is not limited to, your name, gender, profile photo, free-form biography, location/hometown, website and email address.  If you decide to create your user account by logging into a SNS via the service, you are using the Personal Information you have already provided to the SNS (such as your “real” name, email address and other information you make publicly available via the SNS) to create your user account on our service; the information we collect may depend on the privacy settings you have with the SNS, so please consult the SNS’s privacy and data practices.  For example, by using Facebook Connect, you are allowing The Crosby Press to access the Personal Information in your Facebook account pursuant to the Facebook Terms of Use regarding your use of the service via Facebook.
+**Information We Collect**
 
-We use your Personal Information (in some cases, in conjunction with your “Non-Identifying Information,” see below) to provide the service to you. For example:
+We may obtain personal information about you from various sources, including this and our other websites, mobile applications, when you call or email us or communicate with us through social media, or when you participate in events or other promotions.  We also may obtain information about you from our business partners and other third parties.  Any personal information you provide to us is maintained on secure servers and our internal systems.
 
-  1. Account registration.  We create your user account for your use of the service based upon the Personal Information you provide.
+Our primary goal in collecting personal information is to provide you, the user, with a customized experience on our sites. This includes personalization services, interactive communications, online shopping and many other types of services, all of which are completely free to you.
 
+The types of personal information we may obtain include:
 
-  1. Communications.  We use your Personal Information to contact you with The Crosby Press newsletters, marketing or promotional materials and other information that may be of interest to you. If you decide at any time that you no longer wish to receive such communications from us, please follow the unsubscribe instructions provided in any of the communications or update your “preferences” information in your account settings. (See “Your choices regarding information,” below.)
+\- Your contact information (such as name, Twitter handle, postal and email address, or phone number);  
+-Username and password for the account you may establish on our sites;  
+-Payment details (including payment card number, security code, expiration date, cardholder name and billing address);
 
+-Shipping information (including the shipping address and phone number);
 
-  1. Customer service.  We use your Personal Information to respond to your questions and/or inquiries.
+-Demographic information (such as age, date of birth and gender);
 
+-Any content ( _e.g._ , comments, photographs, information and other materials) that you post directly on our sites (please bear in mind any personal information you submit can be read, collected or used by others; accordingly, please exercise caution when deciding to disclose any personal information in public activities or submissions);
 
-  1. Finding friends. You also have the option to import your personal contacts (including email addresses of friend lists via SNS) to the service so that you can find your friends on the service, and your friends can find you on the service.
+-Information you provide by interacting with us through social media, including photographs;
 
+-Location information, such as the real-time geographic location of the device on which you install our mobile applications (note: when you use one of our applications on your mobile device you may be able to choose not to share your geo-location details with us by adjusting the device’s location services settings.  For instructions on changing the relevant settings, please contact your service provider or device manufacturer);
 
-  1. Emailing via a The Crosby Press Account. As part of the service, The Crosby Press users may communicate with other registered and non-registered users through use of their The Crosby Press accounts. Where users have selected the option of adding one or more email addresses to an online form, the message they create in the corresponding template will be sent from The Crosby Press to those email addresses on their behalf.
+-Reading, browsing and shopping behavior and preferences, and a record of the purchases you make on our websites;
 
+-Your search queries conducted on our sites; and
 
+-Other details that you may submit to us or that may be included in the information provided to us by third parties.  
+In addition, we may use “cookies,” “device identifiers” or similar types of technology ( _e.g_., pixels tags, web beacons, clear GIFs, and local storage) to collect information about your use of our sites.  We may use this information to help us enhance the efficiency and usefulness of our sites, to customize your visit to our sites, and for other purposes to make your visit more convenient or to enable us to enhance our services.  For your information, “cookies” are files that are stored on your computer’s hard drive by a website, and “device identifiers” are files that are stored on your mobile device that identify your device.  In addition, we may use third parties to provide products and services to you through our sites.  These third parties may employ cookies, device identifiers, or similar technologies.  Note: most browsers will tell you how to stop accepting new cookies, how to be notified when you receive a new cookie, and how to disable existing cookies.  Please note, however, that without cookies you may not be able to take full advantage of all of our sites’ features.  In addition, disabling cookies may cancel opt-outs that rely on cookies, such as targeted advertising opt-outs.  Finally, your mobile device may provide you with information and choices on what data is shared with us.
 
-b.  Non-Identifying Information.  We also collect other information that you provide as part of registration, the operation, and personalization of your experience on The Crosby Press that cannot reasonably be used to identify or contact you (e.g., without limitation, age and individual preferences) (“ **Non-Identifying Information** ”). Certain Non-Identifying Information would be considered a part of your Personal Information if it were combined with other identifiers (for example, combining your zip code with your street address) in a way that enables you to be personally identified or contacted.  But the same pieces of information are considered Non-Identifying Information when they are taken alone or combined only with other Non-Identifying Information (for example, your viewing preferences).  We may combine your Personal Information with Non-Identifying Information and aggregate it with information collected from other The Crosby Press users to attempt to provide you with a better experience, to improve the quality and value of the service and to analyze and understand how our service is used. We may also use the combined information without aggregating it to serve you specifically, for instance to deliver a product to you according to your preferences or restrictions.
+When you visit our sites, we may automatically collect certain non-identifying information about you, such as the computer operating system or mobile device that you use to access our sites, your Internet Protocol address, your browser type and settings, your bandwidth speed and information about the software programs that are installed on your computer, the date and time that you access our sites, the web pages you were visiting immediately before and after you came to our sites, the domain name of the website from which you linked to our sites, search terms that visitors use to reach our sites, information on actions taken on our sites (such as page views and site navigation patterns) and links and advertisements that you click on within our sites and other technical information that assists us in improving our services.
 
-c.  mobile software.  Our mobile software allows users to access and use the service from their mobile devices.  From the mobile software, you also have the option to identify the location of user content that you wish to upload to our service. In addition, in the event that our mobile software crashes on your mobile device, we will receive information about your mobile device model, software version and device carrier, which allows us to identify and fix bugs and otherwise improve the performance of our mobile software.
+We also may use third-party website analytics tools that collect information about visitor traffic on our sites and mobile applications.
 
-d.  Log Data.  When you visit the service, whether as a registered user or a non-registered user just browsing, our servers automatically record information that your browser sends whenever you visit a website (“ **Log Data** ”).  This Log Data may include information such as the browser type or the webpage you were visiting before you came to our service, pages of our service that you visit, the time spent on those pages, information you search for on our service, access times and dates, and other statistics.  We use this information to monitor and analyze use of the service and the service’s technical administration, to increase our service’s functionality and user-friendliness, and to better tailor our service to our visitors’ needs. For example, some of this information is collected so that when you visit the service again, it will recognize you and the information could then be used to serve advertisements and other information appropriate to your interests.  We also use this information to verify that visitors to the service meet the criteria required to process their requests.
+**How We DO NOT Use the Information We Collect**
 
-e.  Cookies.  Like many online services, The Crosby Press uses “cookies” on our service to collect information.  A cookie is a small data file that we transfer to your computer or mobile device’s hard disk.  We use cookies for two purposes.  First, we utilize “persistent” cookies to save your login information for future logins to the service.  Second, we utilize “session ID” cookies to enable certain features of the service, to better understand how you interact with the service and to monitor aggregate usage by The Crosby Press users and web traffic routing on the service.  Unlike persistent cookies, session cookies are deleted from your computer when you log off from the service and then close your browser.  You can instruct your browser, by changing its settings, to stop accepting cookies or to prompt you before accepting a cookie from the websites you visit.  If you do not accept cookies, however, you may not be able to use all portions of the service or all functionality of the service. (See “Your choices regarding information,” below.)
+Apart from the extraordinary circumstance of a sale of our entire company in a merger or similar type of transaction,  **Thrillist will never rent or sell Your PERSONAL INFORMATION**.  We appreciate your enthusiasm for our products and services, and we promise not to abuse that trust.  We make this promise because we understand just how much you value your privacy.
 
-We may also use web beacons (known as clear GIFs, web bugs, pixels, or action tags). These technologies are strings of code that deliver a tiny graphic image on a web page or in an email. Web beacons can recognize certain types of information on your computer such as cookies, the time and date a page is viewed and a description of the page on which the web beacon is placed.
+**How We DO Use the Information We Collect**
 
-We use web beacons for various tracking purposes, like determining whether or not you are logged into the site and whether or not you are connected to a third-party service.
+We use the personal information you provide to us in several ways.  Some examples follow:
 
-Third parties also may use web beacons on the Site to receive auditing, research, and reporting information, or to understand your interests and select and deliver to you advertisements that are tailored to your interests.
+-Register you for membership at our websites, and manage and maintain your account on the sites;
 
-Some of the Site’s third-party partners may use Flash cookies, otherwise known as local shared objects (LSOs), to track user behaviors in various ways.  LSOs keep collections of cookie-like data stored in a directory on a user’s computer, and are installed through Adobe’s Flash video player.
+-Provide products or services you request;
 
-3\. Sharing of your information
+-Process, validate, confirm, verify, deliver and track your purchases (including by processing payment card transactions, arranging shipping and handling returns and refunds, and contacting you about your orders, including by telephone);
 
-a.  The Crosby Press users. When you register through the service and submit Personal Information to create a profile or visual collection, other The Crosby Press users will see your name.  If you choose to provide additional Personal Information in your profile, The Crosby Press users will see such additional Personal Information, including, but not limited to, your photo, location, website and biography.  Providing additional Personal Information is voluntary and should correlate with the degree of interaction you want to have with The Crosby Press users. We recommend that you guard and refrain from disclosing any information you consider sensitive and confidential.
+-Maintain a record of the purchases you make and the areas you browse on our sites;
 
-b.  Aggregate Information and Non-Identifying Information. We may share aggregated information that does not include Personal Information and we may otherwise disclose Non-Identifying Information and Log Data with third parties for industry analysis, demographic profiling and other purposes. Any aggregated information shared in these contexts will not contain your Personal Information.
+-Respond to your questions and comments and provide customer support;
 
-c.  Service Providers.  We may employ third party companies and individuals to facilitate our service, to provide the service on our behalf, to perform service-related services (e.g., maintenance services, database management, web analytics and improvement of the service’s features) or to assist us in analyzing how our service are used. These third parties have access to your Personal Information only to perform these tasks on our behalf and are obligated not to disclose or use it for any other purpose.
+-Communicate with you about our products, services, offers, events and promotions, and offer you products and services we believe may be of interest to you;
 
-d.  Social Networking Sites.  We may share the information in your The Crosby Press account (including your Personal Information) with the SNSs that you have linked to your The Crosby Press account.  These third parties have access to your Personal Information only for this purpose (unless the SNS has received your Personal Information independently of the service) and not for other purposes.  Facebook Connect and Twitter.  We allow users to link their Facebook and Twitter accounts to our service.  Users can then post recent activity on our service back to their Facebook and Twitter accounts. You will be prompted to decide whether or not your activity on the service will be shared and disclosed on your Facebook/Twitter service.  You can disable the foregoing feature at any time by logging into your profile and selecting the option to disable Facebook Connect and/or Twitter.  Further, you may be able to edit your privacy settings for the content that you post which appears on Facebook/Twitter by making selections in your “Edit Profile” settings via the service.
+-Enable you to communicate with us through our blogs, social networks and other interactive media;
 
-e.  Compliance with Laws and Law Enforcement. The Crosby Press cooperates with government and law enforcement officials and private parties to enforce and comply with the law. We can disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process including, but not limited to, subpoenas, to protect the property and rights of The Crosby Press or a third party, to protect the safety of the public or any person, or to prevent or stop activity we may consider to be, or to pose a risk of being, illegal, unethical or legally actionable activity.
+-Manage your participation in our events, sweepstakes and other promotions;
 
-f.  Business Transfers. The Crosby Press may sell, divest, transfer, assign, share or otherwise engage in a transaction that involves, some or all of our assets, including any or all of the information described in this Policy, in the course of a corporate divestiture, merger, acquisition, joint venture, bankruptcy, dissolution, reorganization, or any other similar transaction or proceeding.
+-Tailor our products and services to suit your personal interests and the manner in which visitors use our sites, applications and social media assets;
 
-4\.  Your choices regarding information
+-Operate, evaluate and improve our business and the products and services we offer;
 
-You have several choices regarding the use of information on our service:
+-Analyze and enhance our marketing communications and strategies (including by identifying when emails sent to you have been received and read);
 
-b.  Public Forums.  If you disclose any information in comment boards, discussion pages, blog posts or other public areas, it becomes public information and can be read, collected, or used by others.  Please exercise caution when disclosing any Personal Information, and refrain from publicly disclosing direct contact information such as your mailing address, phone number, or email address.
+-Analyze trends and statistics regarding visitors’ use of our sites, mobile applications and social media assets, and the purchases visitors make on our sites;
 
-b.  Email Communications.  If you decide at any time that you no longer wish to receive email communications from us, please follow the unsubscribe instructions provided in any of the communications or update your “preferences” information in your account settings
+-Protect against and prevent fraud, unauthorized transactions, claims and other liabilities, and manage risk exposure, including by identifying potential hackers and other unauthorized users;  
+-Provide, improve, test, and monitor our sites;
 
-c.  Cookies.  If you decide at any time that you no longer wish to accept cookies from our service for any of the purposes described above, then you can instruct your browser, by changing its settings, to stop accepting cookies or to prompt you before accepting a cookie from the websites you visit.  Consult your browser’s technical information.  If you do not accept cookies, however, you may not be able to use all portions of the service or all functionality of the service.  If you have any questions about how to disable or modify cookies, please let us know at the contact information provided below.
+-Diagnose or fix technology problems;
 
-d.  De-Linking SNS. If you decide at any time that you no longer wish to have your SNS account (e.g., Facebook or Twitter) linked to your The Crosby Press account, then you may de-link the SNS account in the “preferences” section in your account settings.
+-Manage our business;
 
-e.  Changing or Deleting Your Information.  All users may review, update, correct or delete the Personal Information in their user account (including any imported contacts) by contacting us or by editing their profile via the service.  If you completely delete all of your Personal Information, then your user account may become deactivated.  We will use commercially reasonable efforts to honor your request.  We may retain an archived copy of your records as required by law or for legitimate business purposes.  (For more information on how to control your user Content on the The Crosby Press service, including information regarding the use and storage of your user Content, please see the “Sharing Your Content” section in our Terms of service.)
+-Enforce our sites’ Terms and Conditions; and
 
-5\. Links to other sites and services
+-Comply with applicable legal requirements and industry standards and our policies.  
+In addition to the data uses described above, we may use the information collected through cookies and other automated means to uniquely identify the electronic shopping basket you may create on our sites and enable you to retrieve shopping baskets you previously created.  We also may use cookies to identify and authenticate visitors.
 
-Our service contains links to other third-party websites and online services. If you choose to visit another website or online service by clicking on a link, you will be directed to that third party’s website or online service. The fact that we may link to a website or online service is not an endorsement, authorization or representation of our affiliation with that third party, nor is it an endorsement of their privacy or information security policies or practices. We do not exercise control over third party websites and online services, and these third parties may place their own cookies or other files on your computer and collect data or solicit Personal Information and Non-Identifying Information from you. Other sites and online services follow different rules regarding the collection, use and/or disclosure of Personal Information and Non-Identifying Information. We encourage you to read the privacy policies or statements of the other websites or online services you visit before providing any information or using such websites or services.
+We may combine the information we collect with publicly available information and information we receive from our business partners and other third parties.  We may use that combined information to enhance and personalize your shopping and browsing experience with us, to communicate with you about products, services and events that may be of interest to you, for other promotional purposes, and for other purposes described in this Privacy Policy.
 
-6\.  How we store and protect information
+We also may use the information we obtain about you in other ways for which we provide specific notice at the time of collection.
 
-a.  Information Security.  We care about the security of your information. We use commercially reasonable safeguards to preserve the integrity and security of information collected and maintained through the service.  However, we cannot ensure or warrant the security of any information you provide to us or guarantee that information on the service may not be accessed, disclosed, altered, or destroyed by unauthorized persons.
+**Online Advertising**
 
-b.  Phishing. Identity theft and the practice currently known as “phishing” are of great concern to The Crosby Press.  Safeguarding information to help protect you from identity theft is a top priority. We do not request your credit card information, login information, or national identification numbers in a non-secure or unsolicited e-mail or telephone communication. For more information about phishing, visit the Federal Trade Commission’s website.
+In a nutshell, we use standard tracking and delivery technology to serve you relevant advertising.   For an explanation of that technology and how to control the tracking, the consumer awareness section of the Digital Advertising Alliance’s website ([www.aboutads.info/consumers](http://www.aboutads.info/consumers)) provides a good overview.
 
-c.  Breach Notification. We will make any legally required disclosures of any breach of the security, confidentiality, or integrity of stored “personal data” (as defined in applicable state statutes on security breach notification) to you via email or conspicuous posting on this service in the most expedient time possible and without unreasonable delay, insofar as consistent with (i) the legitimate needs of law enforcement or (ii) any measures necessary to determine the scope of the breach and restore the reasonable integrity of the data system.
+In a little further detail (but without limiting the generality of the foregoing), on our sites we may collect information about your online activities to provide advertising about products and services tailored to your individual interests.  You may see certain ads on this and other sites because we participate in advertising networks.  Ad networks allow us to target our advertising to users through demographic, behavioral and contextual means.  These networks track your online activities over time by collecting information through automated means, including through the use of cookies, web server logs, web beacons and other methods.  The networks use this information to show you advertisements for us and our business partners that are tailored to your individual interests.  The information our ad network vendors collect includes information about your visits to websites that participate in the vendors’ advertising networks, such as the pages or advertisements you have viewed, and the actions you take on the sites.  This data collection and ad targeting take place both on our sites and on third-party sites that participate in the ad networks.  This process also helps us track the effectiveness of our marketing efforts.
 
-d.  International Transfer. Your information may be transferred to — and maintained on — computers located outside of your state, province, country or other governmental jurisdiction where the privacy laws may not be as protective as those in your jurisdiction. If you are located outside the United States and choose to provide information to us, The Crosby Press transfers Personal Information to the United States and processes it there. Your consent to this Privacy Policy followed by your submission of such information represents your agreement to that transfer.
+**Information We Share**
 
-7\.  Our policy towards children’s information
+We do not disclose personal information about you, except as expressly described in this Privacy Policy.  For the sake of emphasis, Thrillist will never rent or sell your personal information.
 
-This service is not directed to children under 13. We do not knowingly collect personally identifiable information from children under 13. If a parent or guardian becomes aware that his or her child has provided us with Personal Information without their consent, he or she should contact us at [info@thecrosbypress.com]. If we become aware that a child under 13 has provided us with Personal Information, we will delete such information from our files.
+We may share the personal information we collect with our parent, affiliate and subsidiary companies, ad network vendors and their participants (as discussed above), and other third parties for the purposes described in this Privacy Policy, including to communicate with you about products and services, offers, events and promotions that we believe may be of interest to you.  We also may disclose your personal information to our vendors, subcontractors, and business partners, and other third parties who provide services to us.  However, they are only permitted to access your information in connection with performing such services and are not authorized by us to use the information for their own benefit.
 
-8\.  How to contact us
+We also may disclose information about you (i) if we are required to do so by law or legal process (such as a court order), (ii) in response to a request by law enforcement authorities, or (iii) when we believe disclosure is necessary or appropriate to prevent physical harm or financial loss or in connection with an investigation of suspected or actual illegal or fraudulent activity.
 
-If you have any questions about this Policy or any of the practices described herein, please contact us at 568 Broadway, Ste. 507, New York, NY, 10012, call us at 646-[insert], or send us an email at [info@thecrosbypress.com].
+**Credit Card Companies**
 
-9.  Visitors from outside the United States.
+Credit card transactions are handled by third party financial institutions and their vendors and contractors who receive credit card numbers and other personal information from us to verify the credit card numbers and process transactions. Although our treatment of this information is governed by this Privacy Policy, the use of your personal information by the third party financial institutions and their vendors and contractors will be subject to their own privacy policies.
 
-The site’s offices and data processing equipment are located in the United States.  If you visit the site from another country, please be aware that information you provide to us or that we obtain through your use of the site may be transferred to and processed in the United States and will be subject to United States law.  United States privacy and data protection laws may not be equivalent to the laws in your country of residence.  By using the site or providing us with information, you consent to the collection, transfer, storage, and processing of information to and in the United States, and acknowledge that The Crosby Press is not bound by the privacy and data protection laws of any other country.
+**Your California Privacy Rights**
 
-10.  Your California Privacy Rights
+Beginning January 1, 2005, under California law, if you are a resident of California, you may make a written request to us about how we have shared your personal information with third parties for their direct marketing purposes. In response to your written request, we will identify the categories of information shared and will include a list of the third parties and affiliates with which it was shared, along with their names and address.  Please submit a written request to the following address: California Policy Manager, Thrillist Media Group, Inc., 568 Broadway, Ste. 507, New York, NY 10012; or, email support(at)thrillist(dot)com with the subject line “California Policy” and your request in the body of your email.
 
-Under California Civil Code sections 1798.83-1798.84, California residents are entitled to ask us for a notice identifying the categories of personal customer information that we share with our affiliates and/or third parties for marketing purposes, and providing contact information for such affiliates and/or third parties. If you are a California resident and would like a copy of this notice, please submit a written request to the following address: 568 Broadway, Ste. 507, New York, NY 10012.
+**Access and Correction**
+
+You may obtain a copy of certain personal information we maintain about you or update or correct inaccuracies in that information using the online account you may establish on our websites.  In addition, if you believe other personal information we maintain about you is inaccurate, you may request that we correct or amend the information by contacting us as indicated in the “How to Contact Us” section of this Privacy Policy.  If we deny an access request, we will notify you of the reasons for the denial.
+
+**Links to Other Websites; Social Media**
+
+To enhance your experience, our websites may include links to other, unaffiliated sites.  Those websites will have their own privacy policies that you may wish to review. We have no responsibility for such linked websites or any use of those sites or those sites’ privacy practices.  Our sites may contain links to our presence on various social media platforms.  As we do not operate or control such platforms, this Privacy Policy and our Terms of Use do not apply to your use of such platforms.  In addition, you should be aware that personal information which you voluntarily include and transmit online in a publicly accessible blog, social network or other social media platform may be viewed and used by others. We are unable to control such uses of your personal information, and by using such services you assume the risk that the personal information provided by you may be viewed and used by third parties.
+
+**How to Unsubscribe to Thrillist Emails and “Allied Info”**
+
+You can unsubscribe from receiving Thrillist emails at any time. You can unsubscribe by clicking on the “Unsubscribe” link in the footer of any Thrillist email and following the instructions. You can also unsubscribe by clicking on the “Unsubscribe” link on the bottom of the Thrillist homepage and following the instructions.
+
+If you’ve been subscribing to our emails then from time to time you’ve also been receiving emails marked “Allied Info” in the subject line and in the email header.  These emails are content paid for by our sponsors (allies).
+
+You can unsubscribe from receiving Allied Info emails.  However, if you do so, you will no longer receive Thrillist emails either.  You can unsubscribe by clicking on the “Unsubscribe” link in the footer of any Thrillist email and following the instructions.  You can also unsubscribe by clicking on the “Unsubscribe” link on the bottom of the Thrillist homepage and following the instructions.
+
+**How We Protect Personal Information**
+
+We maintain administrative, technical and physical safeguards designed to assist us in protecting the personal information we collect against accidental, unlawful or unauthorized destruction, loss, alteration, access, disclosure or use. For example, we use [256-bit Secure Socket Layer (SSL) technology] to protect the security of your online order information. [SSL technology] encrypts your order information to protect it from being decoded by anyone other than us. We also limit access to personal information about you to employees or service providers who we believe reasonably need to come into contact with that personal information to provide products or services to you or in order to do their jobs.
+
+While we implement these and other security measures on our sites, please note that 100% security is not always possible.  We cannot guarantee that the security measures we have in place to safeguard personal information will never be defeated or fail, or that those measures will always be sufficient or effective.  You play a role in protecting your information as well. Because your password permits access to your personal information, please keep your password secret and do not disclose it to others.
+
+**Children’s Privacy**
+
+We are concerned about the privacy of young children.  Accordingly, we do not direct our websites to children under the age of thirteen.  We require registered users of the site to be at least eighteen years old.  If we learn that a user is under eighteen years of age, we will promptly delete any personal information that the individual has provided to us.
+
+**Updates to this Privacy Notice**
+
+This Privacy Policy may be updated periodically and without prior notice to you to reflect changes in our personal information practices. We will post a notice on our websites to notify you of any significant changes to our Privacy Policy and indicate at the top of the notice when it was most recently updated.
+
+**How to Contact Us**
+
+If you have any questions or comments about this Privacy Policy, or if you would like us to update information we have about you or your preferences, please contact us by email at support(at)thrillist(dot)com. You also may write to us at:
+
+Thrillist Media Group, Inc.  
+Attn: Chief Technology Officer  
+568 Broadway, Ste. 507  
+New York, NY 10012
