@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the expedia.com.my privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501142152id_/http%3A//www.expedia.com.my/pub/agent.dll%3Fqscr%3Dhgen%26hfnm%3DPrivacyPol.htx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the expedia.com.my privacy policy that was archived on 2013-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131010045810id_/http%3A//www.expedia.com.my/pub/agent.dll%3Fqscr%3Dhgen%26hfnm%3DPrivacyPol.htx) for the most accurate reproduction.*
 
 # Expedia, Inc. Privacy Pledge
 
@@ -131,7 +131,7 @@ We will do our best to respond to your request within 24 hours
 
 . 
 
-**Call:** Our customer service agents are ready to help with your Expedia travel needs or other questions seven days a week. You may call 1-800-815676. In addition, you may directly contact the travel supplier at the phone number or address provided on your travel itinerary 
+**Call:** Our customer service agents are ready to help with your Expedia travel needs or other questions seven days a week. You may call 0377 249 556. In addition, you may directly contact the travel supplier at the phone number or address provided on your travel itinerary 
 
 This Privacy Policy is effective as of July 06, 2012. 
 
