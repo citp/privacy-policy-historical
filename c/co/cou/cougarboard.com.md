@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cougarboard.com privacy policy that was archived on 2013-01-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130116112208id_/http%3A//www.cougarboard.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cougarboard.com privacy policy that was archived on 2013-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131010203731id_/http%3A//www.cougarboard.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - CougarBoard.com
 
@@ -7,6 +7,10 @@
 ### Personal Information
 
 The only personal information we collect is what you voluntarily offer during signup, and some basic information related to payments made on the site. We also store certain information we receive related to your use of the site, such as your IP address. Credit card numbers are never received nor stored, as all processing is handled by a third party. The personal information we do have will never be made available to others, with the following exceptions: (1) legal orders, such as subpoenas (2) repeated serious violation of site rules (3) appropriate requests from BYU compliance, licensing, legal, or other similar departments who need to contact CougarBoard users quickly and directly. Also, moderators have access to some information to enable duplicate account checking 
+
+### Social Networks
+
+If you choose to connect your CougarBoard account to a social network account (such as Facebook, Twitter, etc), we will store basic information received from your social network account. This may include account ID, real name, email, and location, along with a list of those you have connected with on that network. If you choose to allow it, we will let your social network connections who are also on CougarBoard know your CougarBoard username. 
 
 ### Cookies
 
