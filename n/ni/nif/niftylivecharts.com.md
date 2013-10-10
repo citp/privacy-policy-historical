@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the niftylivecharts.com privacy policy that was archived on 2013-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130610182121id_/http%3A//www.niftylivecharts.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the niftylivecharts.com privacy policy that was archived on 2013-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131010100104id_/http%3A//niftylivecharts.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - niftyLiveCharts.com
 
 Join BankNifty Package for 3 Months @ Rs 14,200 and Get Guaranteed Profit of 60%. Limited time offer. Call 9899555993 to know more
 
 By Accessing this site you agree to our Terms & conditions and Disclaimer Copyright © 2008 - 2015 NiftyLivecharts.com    
-[Cancellation/Refund](https://web.archive.org/web/20130610182121id_/http%3A//www.niftylivecharts.com/Cancellation-and-Refund.html) |  [Privacy Policy](https://web.archive.org/web/20130610182121id_/http%3A//www.niftylivecharts.com/privacy-policy.html) | [Terms &](https://web.archive.org/web/20130610182121id_/http%3A//www.niftylivecharts.com/terms-and-conditions.html)[ condition](https://web.archive.org/web/20130610182121id_/http%3A//www.niftylivecharts.com/terms-and-conditions.html) | [Disclaimer](https://web.archive.org/web/20130610182121id_/http%3A//www.niftylivecharts.com/disclaimer.html)  
+[Cancellation/Refund](https://web.archive.org/web/20131010100104id_/http%3A//niftylivecharts.com/Cancellation-and-Refund.html) |  [Privacy Policy](https://web.archive.org/web/20131010100104id_/http%3A//niftylivecharts.com/privacy-policy.html) | [Terms &](https://web.archive.org/web/20131010100104id_/http%3A//niftylivecharts.com/terms-and-conditions.html)[ condition](https://web.archive.org/web/20131010100104id_/http%3A//niftylivecharts.com/terms-and-conditions.html) | [Disclaimer](https://web.archive.org/web/20131010100104id_/http%3A//niftylivecharts.com/disclaimer.html)  
 Office Address : 227 - 228 RG MALL Sector 9 Rohini New Delhi 110085
 
 Our Privacy Policy ( niftyLiveCharts.com)  
