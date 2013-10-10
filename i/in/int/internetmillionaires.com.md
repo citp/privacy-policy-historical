@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the internetmillionaires.com privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601091212id_/http%3A//www.internetmillionaires.com/privacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the internetmillionaires.com privacy policy that was archived on 2013-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131010234335id_/http%3A//www.internetmillionaires.com/privacyPolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
