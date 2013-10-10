@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the skillsoft.com privacy policy that was archived on 2013-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130504074405id_/http%3A//www.skillsoft.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skillsoft.com privacy policy that was archived on 2013-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131010024443id_/http%3A//www.skillsoft.com/privacy.asp) for the most accurate reproduction.*
 
-# Skillsoft Privacy Policy and Cookies Statement - Skillsoft
+# Skillsoft Privacy Policy and Cookies Statement
 
 Last Updated: November 30, 2012
 
