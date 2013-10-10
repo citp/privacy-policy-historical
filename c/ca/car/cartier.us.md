@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cartier.us privacy policy that was archived on 2013-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130517025754id_/http%3A//www.cartier.us/privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cartier.us privacy policy that was archived on 2013-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131010131646id_/http%3A//www.cartier.us/privacy-notice-12702) for the most accurate reproduction.*
 
-# Privacy Policy - Cartier. The renowned French jeweler and fine watchmaker.
+# Privacy Notice - Cartier. The renowned French jeweler and fine watchmaker.
 
 Cartier North America, a division of Richemont North America, Inc., ( **"Cartier" or referred to herein as "us", "our" or "we"** ), a corporation organized and existing under the laws of the State of Delaware, having its executive offices and principal place of business at 653 Fifth Avenue, New York, NY 10022-5910, U.S.A. takes the privacy of its customers seriously and has established its Privacy Notice in respect of the confidence its clientele places in it.
 
