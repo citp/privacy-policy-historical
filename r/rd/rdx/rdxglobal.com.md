@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rdxglobal.com privacy policy that was archived on 2013-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130509035035id_/http%3A//www.rdxglobal.com/privacy-terms-conditions/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rdxglobal.com privacy policy that was archived on 2013-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131011011022id_/http%3A//www.rdxglobal.com/privacy-terms-conditions) for the most accurate reproduction.*
 
 # Privacy, Terms & Conditions | RDX Hotel Distribution Management Software
 
