@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the onlinegolf.co.uk privacy policy that was archived on 2013-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130609074622id_/http%3A//onlinegolf.co.uk/null/privacy-policy%2Cen_GB%2Cpg.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlinegolf.co.uk privacy policy that was archived on 2013-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131010084717id_/http%3A//www.onlinegolf.co.uk/null/privacy-policy%2Cen_GB%2Cpg.html) for the most accurate reproduction.*
 
 # Sites-OnlineGolf-GB-Site
+
+## PRIVACY POLICY
 
 ### IMPORTANT: BY SUBMITTING DATA AND/OR USING THIS WEBSITE YOU GIVE YOUR CONSENT THAT ALL PERSONAL DATA THAT YOU SUBMIT MAY BE PROCESSED IN THE MANNER AND FOR THE PURPOSES DESCRIBED IN THE FOLLOWING PRIVACY POLICY.
 
