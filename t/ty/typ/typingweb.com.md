@@ -1,23 +1,41 @@
-> *The following text is extracted and transformed from the typingweb.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218015820id_/http%3A//www.typingweb.com/knowledge/questions/21/Privacy%2BPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the typingweb.com privacy policy that was archived on 2013-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131010125713id_/http%3A//www.typingweb.com/support/privacypolicy) for the most accurate reproduction.*
 
-# TypingWeb KnowledgeBase :: Privacy Policy
+# Learn to Type | Teach Typing | Free Typing Tutor and Typing Lessons
 
-FTW Innovations, Inc. has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: TypingWeb.
+## Privacy Policy
 
-First and foremost, we do not share any information submitted to our website without prior permission. 
+**FTW Innovations, Inc.** has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: TypingWeb.
 
-We use your IP address to help diagnose problems with our server and to administer our website. 
+First and foremost, we never share any information submitted to our website without prior permission.
 
-Our site's registration form requires users to give us contact information (like their name and email address), and demographic information (like their zip code, age, or occupation). We use customer contact information from the registration form to send the user information about our company and if the user chooses, promotional material from some of our partners. The customer's contact information is also used to contact the customer when necessary. Users may opt-out of receiving future mailings through the "My Profile" menu in the TypingWeb software.   
-**  
-Public Forums**  
-This site makes message boards available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information.  
- **  
-Security**  
-This site has security measures in place to protect the loss, misuse and alteration of the information under our control. 
+We use your IP address to help diagnose problems with our server and to administer our website.
 
-**Choice/Opt-Out**  
-Users can opt out of our communications by choosing the appropriate option in the "My Profile" portion of the TypingWeb software. 
+Our site's registration form may require users to give us contact information (like their name and email address), and demographic information (like their zip code, age, or occupation), depending on the page. We use customer contact information from the registration form to send the user information about our company and if the user chooses, promotional material from some of our partners. The customer's contact information is also used to contact the customer when necessary. Users may opt-out of receiving future mailings through the "Preferences" area while logged into their TypingWeb account by unchecking the "Allow Contact" box and saving changes.
 
-**Contacting the Web Site**  
-If you have any questions about this privacy statement, please feel free to contact us. 
+  
+
+
+### Public Forums
+
+This site makes message boards available to its users (for instance the Hall of Fame and Class Scoreboards). Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information.
+
+  
+
+
+### Security
+
+This site has security measures in place to protect the loss, misuse and alteration of the information under our control.
+
+  
+
+
+### Choice/Opt-Out
+
+Users can opt out of our communications by choosing the appropriate option in the "My Profile" portion of the TypingWeb software.
+
+  
+
+
+### Contacting the Web Site
+
+If you have any questions about this privacy statement, please feel free to contact us.
