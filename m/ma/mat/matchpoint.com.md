@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the matchpoint.com privacy policy that was archived on 2013-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130608113806id_/http%3A//matchpoint.com/pp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the matchpoint.com privacy policy that was archived on 2013-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131011124655id_/http%3A//www.matchpoint.com/pp) for the most accurate reproduction.*
 
 # Matchpoint
 
