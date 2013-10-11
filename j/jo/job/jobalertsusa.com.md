@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jobalertsusa.com privacy policy that was archived on 2013-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130622035643id_/http%3A//forms.jobalertsusa.com/classic/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobalertsusa.com privacy policy that was archived on 2013-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131011203807id_/http%3A//forms.jobalertsusa.com/classic/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy - jobalertsusa.com
 
