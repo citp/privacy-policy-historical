@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the budgettravel.com privacy policy that was archived on 2013-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130426072347id_/http%3A//www.budgettravel.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the budgettravel.com privacy policy that was archived on 2013-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131011044712id_/http%3A//www.budgettravel.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Travel Deals, Travel Tips, Vacation Ideas | Budget Travel
 
