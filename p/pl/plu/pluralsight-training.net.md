@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pluralsight-training.net privacy policy that was archived on 2013-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130610175710id_/http%3A//pluralsight.com/training/About/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pluralsight-training.net privacy policy that was archived on 2013-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131012012052id_/http%3A//pluralsight.com/training/About/Privacy) for the most accurate reproduction.*
 
 # Privacy
 
