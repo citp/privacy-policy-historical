@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the dailyprofitalways.com privacy policy that was archived on 2013-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130611115427id_/https%3A//www.dailyprofitalways.com/index.php%3Fp%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailyprofitalways.com privacy policy that was archived on 2013-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131011154718id_/http%3A//www.dailyprofitalways.com/index.php%3Fp%3Dprivacy) for the most accurate reproduction.*
 
 # DailyProfitAlways
 
-##  Privacy Policy 
+## Privacy Policy
 
 This privacy policy sets out how DailyProfitAlways.com uses and protects any information that you give when you use this website. DailyProfitAlways.com is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement. DailyProfitAlways.com may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. 
 
