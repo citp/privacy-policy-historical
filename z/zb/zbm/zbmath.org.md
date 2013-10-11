@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zbmath.org privacy policy that was archived on 2013-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130429210155id_/http%3A//www.fiz-karlsruhe.de/fiz_privacy_policy.html%3F%26L%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zbmath.org privacy policy that was archived on 2013-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131011034739id_/http%3A//www.fiz-karlsruhe.de/fiz_privacy_policy.html%3F%26L%3D1) for the most accurate reproduction.*
 
 # FIZ Karlsruhe: Privacy Policy
 
