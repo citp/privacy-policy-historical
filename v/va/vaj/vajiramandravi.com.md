@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vajiramandravi.com privacy policy that was archived on 2013-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130605040510id_/http%3A//vajiramandravi.com/pp.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vajiramandravi.com privacy policy that was archived on 2013-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131011101811id_/http%3A//vajiramandravi.com/pp.html) for the most accurate reproduction.*
 
 # Vajiram & Ravi : Institute for Civil Services Examination
 
