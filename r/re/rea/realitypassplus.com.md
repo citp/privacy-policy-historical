@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the realitypassplus.com privacy policy that was archived on 2013-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130529212806id_/http%3A//realitypassplus.com/tour3/%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realitypassplus.com privacy policy that was archived on 2013-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131011074855id_/http%3A//www.realitypassplus.com/tour3/%3Fpage%3Dprivacy) for the most accurate reproduction.*
 
 # Privacy Policy Statement
 
