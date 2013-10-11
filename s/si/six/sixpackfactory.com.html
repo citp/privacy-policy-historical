@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the sixpackfactory.com privacy policy that was archived on 2013-06-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130622153518id_/http%3A//www.sixpackfactory.com/general/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the sixpackfactory.com privacy policy that was archived on 2013-10-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131011090456id_/http%3A//www.sixpackfactory.com/general/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en-US" prefix="og: http://ogp.me/ns#"><head>
 	<meta charset="UTF-8">
@@ -22,12 +22,13 @@
 <!-- / Yoast WordPress SEO plugin. -->
 
 <link rel="alternate" type="application/rss+xml" title="SixPackFactory » Privacy Policy Comments Feed" href="http://www.sixpackfactory.com/general/privacy-policy/feed/">
-<script id="twitter-wjs" src="https://platform.twitter.com/widgets.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1&amp;appId=318871764886247"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://www.sixpackfactory.com/wp-includes/js/jquery/jquery.js?ver=1.8.3"></script>
+<script id="twitter-wjs" src="https://platform.twitter.com/widgets.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1&amp;appId=318871764886247"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://www.sixpackfactory.com/wp-includes/js/jquery/jquery.js?ver=1.10.2"></script>
+<script type="text/javascript" src="http://www.sixpackfactory.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1"></script>
 <script type="text/javascript" src="http://www.sixpackfactory.com/wp-content/plugins/anti-spam/js/anti-spam.js?ver=1.2"></script>
-<script type="text/javascript" src="http://www.sixpackfactory.com/wp-content/themes/spf/js/custom.js?ver=3.5.1"></script>
+<script type="text/javascript" src="http://www.sixpackfactory.com/wp-content/themes/spf/js/custom.js?ver=3.6"></script>
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.sixpackfactory.com/xmlrpc.php?rsd">
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.sixpackfactory.com/wp-includes/wlwmanifest.xml"> 
-<meta name="generator" content="WordPress 3.5.1">
+<meta name="generator" content="WordPress 3.6">
 	<script type="text/javascript">
 		var _gaq = _gaq || [];
 		_gaq.push(['_setAccount', 'UA-12369278-2']);
@@ -48,22 +49,6 @@
   fjs.parentNode.insertBefore(js, fjs);
 }(document, 'script', 'facebook-jssdk'));</script>
 
-<script type="text/javascript">
-jQuery(document).ready(function($){
-	 innerwidth = $("#custom_popup_inner").css('width');
-	 iw=innerwidth.indexOf('px');
-	 innerwidth=innerwidth.substring(0,iw);
-	 innerheight = $("#custom_popup_inner").css('height');
-	 ih=innerheight.indexOf('px');
-	 innerheight=innerheight.substring(0,ih);
-	 innerleft = innerwidth/2;
-	 innertop = innerheight/2;
-         innertop=parseInt(innertop)+30;
-	$("#custom_popup_inner").css("margin-top",'-'+innertop+'px');
-	$("#custom_popup_inner").css("margin-left",'-'+innerleft+'px');       
-});
-</script>
-
 
 
 <div id="fb-root"></div>
@@ -80,20 +65,26 @@ jQuery(document).ready(function($){
 
 <script type="text/javascript">
 jQuery(document).ready(function($){
-  var exp_input='900';
+  var exp_input='3';
+  var change_content_text='unchange';
+  var change_content_new_len='201';
+  var change_content_old_len='201';
   cooki_control_name=getCookie('control',exp_input);
-  if(cooki_control_name=='active')
+ $("#custom_popup_inner a").attr("target",'_blank');
+  
+  ////alert('c_name='+cooki_control_name+'\n content status='+change_content_text+'\ninput time='+exp_input+'\n new length='+change_content_new_len+'\n old length='+change_content_old_len);
+  
+  if(cooki_control_name!='active'||change_content_text=='change')
   {
-          $("#custom_popup").css("display",'none');
+      $("#custom_popup").css("display",'block');
+	  $("#custom_popup_inner").css("display",'block');
+
    }
   else
   {
-          $("#custom_popup").css("display",'block');
+      $("#custom_popup").css("display",'none');
+	  $("#custom_popup_inner").css("display",'none');
 		  
-		  if(exp_input!='alltime')
-		  {  
-		    createCookie('control', 'active', parseInt(exp_input));
-		  }
    }      
 
 
@@ -102,12 +93,13 @@ function createCookie(name, value, days) {
 		if(days=='alltime')
 		{
 		   sessionStorage.setItem(name,value);
+		   eraseCookie(name);
 		}
 		else
 		{
-			//expire_time=(days * 24 * 60 * 60 * 1000);
+			
 			days=parseInt(days);
-			expire_time=(days * 1000);
+			expire_time=(days * 24 * 60 * 60 * 1000);
 			var date = new Date();
             date.setTime(date.getTime() + expire_time);
             var expires = "; expires=" + date.toGMTString();
@@ -142,28 +134,67 @@ function getCookie(c_name,days) {
 	}
 }
 
+function eraseCookie(c_name) {
+    createCookie(c_name,"",-1);
+}
+
 $('#custom_popup_inner').click(function()
 {
          $("#custom_popup").css("display",'none');
-	      if(exp_input=='alltime')
-		  {  
-		    createCookie('control', 'active', exp_input);
-		  }
+		 $("#custom_popup_inner").css("display",'none');
+		 createCookie('control', 'active', exp_input);
+		 
+		  jQuery.ajax({
+            type: 'POST',
+            url:"http://www.sixpackfactory.com/wp-admin/admin-ajax.php",
+            data: {
+                action: 'myAjax',
+                change: change_content_new_len
+            },
+			success: function(data, textStatus, XMLHttpRequest){
+            }  
+		});
+		 
+		  
 	
 });
 
 $('#custom_popup_inner > a').click(function()
 {
          $("#custom_popup").css("display",'none');
-	      if(exp_input=='alltime')
-		  {  
-		    createCookie('control', 'active', exp_input);
-		  }
+		 $("#custom_popup_inner").css("display",'none');
+		  createCookie('control', 'active', exp_input);
+		  
+		   jQuery.ajax({
+            type: 'POST',
+            url:"http://www.sixpackfactory.com/wp-admin/admin-ajax.php",
+            data: {
+                action: 'myAjax',
+                change: change_content_new_len
+            },
+			success: function(data, textStatus, XMLHttpRequest){
+            }  
+		});
+		   
+		  
 	
 });
 
-});
 
+
+	 innerwidth = $("#custom_popup_inner").css('width');
+	 iw=innerwidth.indexOf('px');
+	 innerwidth=innerwidth.substring(0,iw);
+	 innerheight = $("#custom_popup_inner").css('height');
+	 ih=innerheight.indexOf('px');
+	 innerheight=innerheight.substring(0,ih);
+	 innerleft = innerwidth/2;
+	 innertop = innerheight/2;
+     innertop=parseInt(innertop)+30;
+	$("#custom_popup_inner").css("margin-top",'-'+innertop+'px');
+	$("#custom_popup_inner").css("margin-left",'-'+innerleft+'px'); 
+
+});
 
 </script>
 
@@ -273,6 +304,7 @@ google_ad_height = 90;
 </div>
 
 <div id="pageWrapper">
+
 <div class="leftContent">
 	<h1 class="pageTitle">Privacy Policy</h1>
 	
@@ -327,7 +359,7 @@ google_ad_height = 250;
     <iframe allowtransparency="true" frameborder="0" scrolling="no" src="http://www.facebook.com/plugins/likebox.php?href=http%3A%2F%2Fwww.facebook.com%2Fsixpackfactory&amp;width=300&amp;colorscheme=light&amp;show_faces=false&amp;stream=false&amp;header=false&amp;height=70" style="border:none; overflow:hidden; width:300px; height:60px;"></iframe>
 <div style="width:300px; height: 250px; overflow:auto;">
 <iframe allowtransparency="true" frameborder="0" scrolling="true" src="http://www.facebook.com/plugins/recommendations.php?site=sixpackfactory.com&amp;width=250&amp;height=590&amp;header=false&amp;colorscheme=light&amp;font=arial&amp;border_color=%23fff" style="border:none; overflow:hidden; width:250px; height:590px;"></iframe></div></div></div>
-		</div><div class="widgetWrapper"><h3 class="widgetHeading hide">Engine Room</h3>			<div class="textwidget"><div class="engineRoomHeader"></div><div class="engineRoomContent"><h4>Viral Fitness Image Of The Day</h4><div class="fitnessImageOfTheDay"><p class="fitnessImageOfTheDayContent"><a class="fitnessImageOfTheDayContentImage" href="http://www.sixpackfactory.com/weight-loss-motivation-20/"><img width="280" height="190" src="http://www.sixpackfactory.com/wp-content/uploads/2013/06/difference1-280x190.jpg" class="attachment-fitness-image wp-post-image" alt="Weight Loss Motivation" title=""></a><span class="fitnessImageSocial"><a href="http://pinterest.com/pin/create/button/?url=http%3A%2F%2Fwww.sixpackfactory.com%2Fweight-loss-motivation-20%2F&amp;media=http%3A%2F%2Fwww.sixpackfactory.com%2Fwp-content%2Fuploads%2F2013%2F06%2Fdifference1.jpg&amp;description=Weight Loss Motivation" class="pin-it-button" count-layout="none"><img src="http://www.sixpackfactory.com/wp-content/themes/spf/images/ico_pin-it.png" title="Pin It"></a><span class="fbLikeWrapper"><span data-action="" data-send="false" data-show-faces="false" class="fb-like" data-href="http%3A%2F%2Fwww.sixpackfactory.com%2Fweight-loss-motivation-20%2F" fb-xfbml-state="rendered"></span></span><br><a href="http://www.sixpackfactory.com/weight-loss-motivation-20/#comment"><img src="http://www.sixpackfactory.com/wp-content/themes/spf/images/ico_comment.png" title="Comment"></a></span></p></div><h4>Best of Six Pack Factory</h4><ul class="bestOfSPF"><li><a href="http://www.sixpackfactory.com/extreme-home-cardio-workout-burn-belly-fat-fast/">Extreme Home Cardio Workout : Burn Belly Fat Fast</a></li><li><a href="http://www.sixpackfactory.com/the-4-most-common-mistakes-to-avoid-during-ab-exercises/">The 4 Most Common Mistakes To Avoid During Ab Exercises</a></li><li><a href="http://www.sixpackfactory.com/get-ripped-for-summer-fast-full-program/">Get Ripped for Summer Fast ( Full Program )</a></li><li><a href="http://www.sixpackfactory.com/body-fat-calculator/">Body Fat Calculator</a></li><li class="last"><a href="http://www.sixpackfactory.com/extreme-home-abs-workout-get-6-pack-abs-fast/">Extreme Home Abs Workout : Get 6 Pack Abs Fast!</a></li></ul><h4>Recent Comments</h4><ul class="engineRoomList"><li class="alt"><em>Posted by <strong>Luke</strong></em><br><a href="http://www.sixpackfactory.com/get-ripped-for-summer-fast-full-program/">Does anybody know if we will get any feed back from the recent 6 week challenge??</a></li><li><em>Posted by <strong>Oscar</strong></em><br><a href="http://www.sixpackfactory.com/create-you-own-ab-workouts/">Peter, thanks this is a great tool to stay on track and motivated.  i am starting...</a></li><li class="alt"><em>Posted by <strong>admin</strong></em><br><a href="http://www.sixpackfactory.com/powerful-6-pack-abs-workout-no-equipment-needed/">@ Farrel, look on our EX LAB for lower ab workouts and exercises</a></li><li><em>Posted by <strong>admin</strong></em><br><a href="http://www.sixpackfactory.com/extreme-home-cardio-workout-burn-belly-fat-fast/">@ Jane - 15-20 min, you don't have to unless you want to, but it can be done on its...</a></li><li class="alt"><em>Posted by <strong>admin</strong></em><br><a href="http://www.sixpackfactory.com/extreme-home-cardio-workout-burn-belly-fat-fast/">@ Kevin - 15-20 min Tabata style</a></li></ul></div></div>
+		</div><div class="widgetWrapper"><h3 class="widgetHeading hide">Engine Room</h3>			<div class="textwidget"><div class="engineRoomHeader"></div><div class="engineRoomContent"><h4>Viral Fitness Image Of The Day</h4><div class="fitnessImageOfTheDay"><p class="fitnessImageOfTheDayContent"><a class="fitnessImageOfTheDayContentImage" href="http://www.sixpackfactory.com/diet-and-fitness-motivation/"><img width="280" height="190" src="http://www.sixpackfactory.com/wp-content/uploads/2013/10/201-280x190.jpg" class="attachment-fitness-image wp-post-image" alt="Diet and Fitness Motivation" title=""></a><span class="fitnessImageSocial"><a href="http://pinterest.com/pin/create/button/?url=http%3A%2F%2Fwww.sixpackfactory.com%2Fdiet-and-fitness-motivation%2F&amp;media=http%3A%2F%2Fwww.sixpackfactory.com%2Fwp-content%2Fuploads%2F2013%2F10%2F201.jpg&amp;description=Diet and Fitness Motivation" class="pin-it-button" count-layout="none"><img src="http://www.sixpackfactory.com/wp-content/themes/spf/images/ico_pin-it.png" title="Pin It"></a><span class="fbLikeWrapper"><span data-action="" data-send="false" data-show-faces="false" class="fb-like" data-href="http%3A%2F%2Fwww.sixpackfactory.com%2Fdiet-and-fitness-motivation%2F" fb-xfbml-state="rendered"></span></span><br><a href="http://www.sixpackfactory.com/diet-and-fitness-motivation/#comment"><img src="http://www.sixpackfactory.com/wp-content/themes/spf/images/ico_comment.png" title="Comment"></a></span></p></div><h4>Best of Six Pack Factory</h4><ul class="bestOfSPF"><li><a href="http://www.sixpackfactory.com/how-to-build-bigger-bicep-at-home-no-equipment-needed/">How to Build Bigger Biceps at Home  ( No Equipment Needed )</a></li><li><a href="http://www.sixpackfactory.com/high-intensity-home-cardio-workout/">High Intensity Home Cardio Workout</a></li><li><a href="http://www.sixpackfactory.com/4-tips-for-a-great-morning-workout/">4 Tips For A Great Morning Workout</a></li><li><a href="http://www.sixpackfactory.com/super-tasty-pre-workout-shake-perfect-for-your-morning-workouts/">Super Tasty Pre Workout Shake ( Perfect for your Morning Workouts! )</a></li><li class="last"><a href="http://www.sixpackfactory.com/5-biggest-myths-about-getting-a-flat-stomach/">5 Biggest Myths About Losing Fat &amp; Getting 6 Pack Abs</a></li></ul><h4>Recent Comments</h4><ul class="engineRoomList"><li class="alt"><em>Posted by <strong>tyler</strong></em><br><a href="http://www.sixpackfactory.com/finalchecklist/">im so pumped 6w6p will be awesome but i hope to be most the way done before...</a></li><li><em>Posted by <strong>admin</strong></em><br><a href="http://www.sixpackfactory.com/3-more-fatty-foods-you-should-eat-to-get-ripped/">Once per week depending on your goals and progress!</a></li><li class="alt"><em>Posted by <strong>admin</strong></em><br><a href="http://www.sixpackfactory.com/5-biggest-myths-about-getting-a-flat-stomach/">4-5 days per week, 45-60min depending on goals, time, fitness etc</a></li><li><em>Posted by <strong>admin</strong></em><br><a href="http://www.sixpackfactory.com/how-to-build-bigger-bicep-at-home-no-equipment-needed/">Pasan, have a look at this link...</a></li><li class="alt"><em>Posted by <strong>admin</strong></em><br><a href="http://www.sixpackfactory.com/4-tips-for-a-great-morning-workout/">Great Idea!!</a></li></ul></div></div>
 		</div></div>
 
 <div class="clear"></div>
@@ -358,14 +390,19 @@ google_ad_height = 250;
 
 <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="https://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
 
-<link rel="stylesheet" id="wpfbw_pages/front/form_builder_display-css" href="http://www.sixpackfactory.com/wp-content/plugins/custom_form_builder/css/pages/front/form_builder_display.css?ver=3.5.1" type="text/css" media="all">
-<link rel="stylesheet" id="wpcwp_pages/front/workout_display-css" href="http://www.sixpackfactory.com/wp-content/plugins/custom_workout_widget/css/pages/front/workout_display.css?ver=3.5.1" type="text/css" media="all">
+<link rel="stylesheet" id="wpfbw_pages/front/form_builder_display-css" href="http://www.sixpackfactory.com/wp-content/plugins/custom_form_builder/css/pages/front/form_builder_display.css?ver=3.6" type="text/css" media="all">
+<link rel="stylesheet" id="wpcwp_pages/front/workout_display-css" href="http://www.sixpackfactory.com/wp-content/plugins/custom_workout_widget/css/pages/front/workout_display.css?ver=3.6" type="text/css" media="all">
 	<script type="text/javascript">var switchTo5x=true;</script>
 	<script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script>
-	<script type="text/javascript">stLight.options({publisher: "wp.e595bbe5-c42d-44be-bfdd-d06c03a00332"});var st_type="wordpress3.5.1";</script>
+	<script type="text/javascript">stLight.options({publisher: "wp.e595bbe5-c42d-44be-bfdd-d06c03a00332"});var st_type="wordpress3.6";</script>
 	<script type="text/javascript">var addthis_config = {"data_track_addressbar":false};</script>
 	<script type="text/javascript" src="http://s7.addthis.com/js/300/addthis_widget.js#pubid=ra-505556951235db6b"></script>
-	<script type="text/javascript" src="http://cdn.wibiya.com/Toolbars/dir_0577/Toolbar_577447/Loader_577447.js?ver=3.5.1"></script>
+	<script type="text/javascript" src="http://cdn.wibiya.com/Toolbars/dir_0577/Toolbar_577447/Loader_577447.js?ver=3.6"></script>
 
+<script type="text/javascript">
+/* <![CDATA[ */
+(function(){try{var s,a,i,j,r,c,l=document.getElementsByTagName("a"),t=document.createElement("textarea");for(i=0;l.length-i;i++){try{a=l[i].getAttribute("href");if(a&&"www.cloudflare.com/email-protection"==a.substr(7 ,35)){s='';j=43;r=parseInt(a.substr(j,2),16);for(j+=2;a.length-j&&a.substr(j,1)!='X';j+=2){c=parseInt(a.substr(j,2),16)^r;s+=String.fromCharCode(c);}j+=1;s+=a.substr(j,a.length-j);t.innerHTML=s.replace(/</g,"&lt;").replace(/>/g,"&gt;");l[i].setAttribute("href","mailto:"+t.value);}}catch(e){}}}catch(e){}})();
+/* ]]> */
+</script>
 
 </body></html>
