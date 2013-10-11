@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the koolskool.in privacy policy that was archived on 2013-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130611012632id_/http%3A//koolskool.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the koolskool.in privacy policy that was archived on 2013-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131011092124id_/http%3A//koolskool.in/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy : KOOLSKOOL.in
+# Privacy Policy - KOOLSKOOL.in
 
 This privacy policy sets out how KOOLSKOOL uses and protects any information that you give KOOLSKOOL when you use this website. KOOLSKOOL is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, you can be assured that it will only be used in accordance with this privacy statement.
 
