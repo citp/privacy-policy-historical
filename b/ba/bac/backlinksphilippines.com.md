@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the backlinksphilippines.com privacy policy that was archived on 2013-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130615150611id_/http%3A//backlinksphilippines.com/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the backlinksphilippines.com privacy policy that was archived on 2013-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131012005028id_/http%3A//backlinksphilippines.com/about-us/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy |
 
 BacklinksPhilippines.com  is committed to user privacy in its products and services.  This policy outlines our personal information handling practices. If you give us personal information, we will treat it according to this policy.
 
