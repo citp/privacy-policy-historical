@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the climateweeknyc.org privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501142723id_/http%3A//www.climateweeknyc2011.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the climateweeknyc.org privacy policy that was archived on 2013-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131012000336id_/http%3A//climateweeknyc.org/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Climate Week NYC 2011
+# Privacy Policy | Climate Week NYC 2013
 
 The Climate Change Organisation trading as The Climate Group ("We") are committed to protecting and respecting your privacy.
 
