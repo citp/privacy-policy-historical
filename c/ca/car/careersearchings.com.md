@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the careersearchings.com privacy policy that was archived on 2013-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130610134645id_/http%3A//www.careersearchings.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the careersearchings.com privacy policy that was archived on 2013-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131011022853id_/http%3A//www.careersearchings.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy « Marketing – Marketing Strategy – Marketing Plan – Marketing Careers and Jobs
 
