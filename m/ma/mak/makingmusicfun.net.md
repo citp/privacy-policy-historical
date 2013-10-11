@@ -1,11 +1,9 @@
-> *The following text is extracted and transformed from the makingmusicfun.net privacy policy that was archived on 2013-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130531004045id_/http%3A//makingmusicfun.net/htm/tos.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the makingmusicfun.net privacy policy that was archived on 2013-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131011171413id_/http%3A//www.makingmusicfun.net/htm/tos.htm) for the most accurate reproduction.*
 
 # Terms Of Use/Privacy Policy | MakingMusicFun.net
 
-| 
-
 Terms of Use  
-By accessing and using the MakingMusicFun.net (MMF!) website, you are agreeing to be legally bound by the terms and conditions of MMF! (Wave Music, LLC). If you do not agree, please do not use this site.
+By accessing and using the MakingMusicFun.net (MMF!) website, you are agreeing to be legally bound by the terms and conditions of MMF! (Wave Music, LLC). If you do not agree, please do not use this site. 
 
 MMF! is not responsible or liable for any infections or contaminations of your system, or delays, inaccuracies, errors, or omissions arising out of your use of this site or with respect to the information and materials contained on this site. The entire risk as to the quality, accuracy, adequacy, completeness, correctness and validity of any material rests with you.
 
@@ -42,11 +40,19 @@ MMF! collects the following nonpersonal information to assess the value the reso
 This information is categorized and stored. It cannot be used to personally identify visitors. 
 
 Third Party Ads and Product Images  
-MMF! (Wave Music, LLC) uses third-party companies to serve text/image ads (Google, VibrantMedia) and affiliate links/product images (SheetMusicPlus) to support this website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this website, their website, and other websites in order to present goods and services of interest to you. 
+MMF! (Wave Music, LLC) uses third-party companies to serve text/image ads (Google, InfoLinks) and affiliate links/product images (SheetMusicPlus/Amazon) to support this website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this website, their website, and other websites in order to present goods and services of interest to you. 
 
 > a) Google, as a third party vendor, uses cookies to serve ads on your site.  
 >  b) Google's use of the DART cookie enables it to serve ads to our visitors based on their visit to our site and other sites on the Internet.  
 >  c) Users may opt out of the use of the DART cookie by visiting the [Google Ad and Content Network Privacy Policy](http://www.google.com/privacy_ads.html).  
 >  d) Third party vendors may or may not collect information about each website user. Websites will often send your computer a "cookie." A cookie is a small data file that is stored on your hard drive. They are most often used to enhance your website visitor experience. Modern browsers typically allow the users to decide whether to accept cookies, but rejection makes some websites unusable. Users assume responsibility for understanding the privacy policy of theses vendor sites. 
 
-|  
+**Objectionable Ads**  
+From time to time objectionable ads are served to our site. If you come across one, please contact us with information about the ad, including the company and product advertised. Together we can keep MakingMusicFun.net a safe and enjoyable resource for everyone.
+
+  
+  
+  
+
+
+[Sign up](https://web.archive.org/web/20131011171413id_/http%3A//www.makingmusicfun.net/signup.htm) to receive the MakingMusicFun.net Newsletter so you don't miss a thing!
