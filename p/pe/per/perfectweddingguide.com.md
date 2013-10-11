@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the perfectweddingguide.com privacy policy that was archived on 2013-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130506185100id_/http%3A//www.perfectweddingguide.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the perfectweddingguide.com privacy policy that was archived on 2013-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131011025909id_/http%3A//www.perfectweddingguide.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | Perfect Wedding Guide
 
