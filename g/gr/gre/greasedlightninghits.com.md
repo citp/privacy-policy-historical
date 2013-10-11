@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the greasedlightninghits.com privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501205236id_/http%3A//www.greasedlightninghits.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greasedlightninghits.com privacy policy that was archived on 2013-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131012011013id_/http%3A//www.greasedlightninghits.com/privacy.php) for the most accurate reproduction.*
 
 # GreasedLightningHits.com
 
@@ -12,7 +12,7 @@ GreasedLightningHits may require the use of cookies to store login session infor
 
 GreasedLightningHits merely serves as a directory of other websites and is therefore not responsible for the privacy practices and/or content of those websites. 
 
-Financial information is used solely to bill the user for products and/or services. All personal, credit card, and bank account information is transferred by separate institution (i.e. PayPal.com or AlertPay) over secure SSL encrypted Internet connections and is not stored on GreasedLightningHits servers.
+Financial information is used solely to bill the user for products and/or services. All personal, credit card, and bank account information is transferred by separate institution (i.e. PayPal.com or Payza) over secure SSL encrypted Internet connections and is not stored on GreasedLightningHits servers.
 
   
 
