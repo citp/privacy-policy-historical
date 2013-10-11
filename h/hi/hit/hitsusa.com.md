@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hitsusa.com privacy policy that was archived on 2013-02-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130225180119id_/http%3A//www.hitsusa.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hitsusa.com privacy policy that was archived on 2013-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131012002311id_/http%3A//www.hitsusa.com/privacy-policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
