@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the linkdelight.com privacy policy that was archived on 2013-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130508163318id_/http%3A//www.linkdelight.com/Security-and-Privocy/security-a-privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the linkdelight.com privacy policy that was archived on 2013-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131012011415id_/http%3A//www.linkdelight.com/Security-and-Privocy/security-a-privacy.html) for the most accurate reproduction.*
 
 # Security & Privacy | Security and Privocy
 
-Written by LinkDelight  Thursday, 24 April 2008 18:56   
+Written by LinkDelight  Friday, 25 April 2008 09:56   
   
 **Data Security**
 
@@ -36,4 +36,4 @@ Customers may opt-in and opt-out of our newsletter service. Our newsletter subsc
 
 Our web site contains links to other web sites that are not operated by linkdelight.com. linkdelight.com is not responsible for the privacy practices of the Web sites that it does not operate. Some parts of the Web site are animated using various downloadable applications, such as Macromedia’s Shockwave/Flash.  
   
-Last Updated on Monday, 11 October 2010 23:32 
+Last Updated on Sunday, 09 June 2013 16:39 
