@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the free-av.de privacy policy that was archived on 2012-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121201013600id_/http%3A//www.avira.com/en/general-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the free-av.de privacy policy that was archived on 2013-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131012202259id_/http%3A//www.avira.com/en/general-privacy) for the most accurate reproduction.*
 
 # Privacy policy
 
