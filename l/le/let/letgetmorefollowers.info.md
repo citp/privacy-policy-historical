@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the letgetmorefollowers.info privacy policy that was archived on 2013-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130611093717id_/http%3A//letgetmorefollowers.info/index.php%3Fpages%3Dprivacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the letgetmorefollowers.info privacy policy that was archived on 2013-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131012064430id_/http%3A//letgetmorefollowers.info/index.php%3Fpages%3Dprivacy.php) for the most accurate reproduction.*
 
 # Let Get More Free Twitter Followers | Get More Followers on Twitter | How to Get More Twitter Followers
 
-**[Home](https://web.archive.org/web/20130611093717id_/http%3A//letgetmorefollowers.info/index.php?pages=Home) | [Privacy Policy](https://web.archive.org/web/20130611093717id_/http%3A//letgetmorefollowers.info/index.php?pages=privacy.php) | [Terms Of Use](https://web.archive.org/web/20130611093717id_/http%3A//letgetmorefollowers.info/index.php?pages=terms.php) | [FAQ](https://web.archive.org/web/20130611093717id_/http%3A//letgetmorefollowers.info/index.php?pages=faq.php) | [Remove Your Account](https://web.archive.org/web/20130611093717id_/http%3A//letgetmorefollowers.info/removeout.php)**
+**[Home](https://web.archive.org/web/20131012064430id_/http%3A//letgetmorefollowers.info/index.php?pages=Home) | [Privacy Policy](https://web.archive.org/web/20131012064430id_/http%3A//letgetmorefollowers.info/index.php?pages=privacy.php) | [Terms Of Use](https://web.archive.org/web/20131012064430id_/http%3A//letgetmorefollowers.info/index.php?pages=terms.php) | [FAQ](https://web.archive.org/web/20131012064430id_/http%3A//letgetmorefollowers.info/index.php?pages=faq.php) | [Remove Your Account](https://web.archive.org/web/20131012064430id_/http%3A//letgetmorefollowers.info/removeout.php)**
 
 * * *
 
@@ -10,64 +10,66 @@
   
 ---  
   
-[ ](http://twitter.com/atbukhari)
+[ ](http://twitter.com/razankhaldi)
 
 | 
 
-[ ](http://twitter.com/jasonmcs)
+[ ](http://twitter.com/oliviadynna)
 
 | 
 
-[ ](http://twitter.com/vineccen)
+[ ](http://twitter.com/sankesh94)
 
 | 
 
-[ ](http://twitter.com/kelshqueen)
+[ ](http://twitter.com/njmabilangan)
 
 | 
 
-[ ](http://twitter.com/bananejaunetm11)
+[ ](http://twitter.com/sandydwizugan)
 
 | 
 
-[ ](http://twitter.com/haziqnaza_)
+[ ](http://twitter.com/shopingtweet)
 
 | 
 
-[ ](http://twitter.com/amylliasabrina)
+[ ](http://twitter.com/iyadlim)
 
 | 
 
-[ ](http://twitter.com/sqm_magz)
+[ ](http://twitter.com/loutommoach)
 
 | 
 
-[ ](http://twitter.com/uhm_no_m8)
+[ ](http://twitter.com/soydelexgomez)
 
 | 
 
-[ ](http://twitter.com/caramelkaaaaa)
+[ ](http://twitter.com/liyanamysarah)
 
 | 
 
-[ ](http://twitter.com/juz10dope)
+[ ](http://twitter.com/naimflipflop)
 
 | 
 
-[ ](http://twitter.com/itsmsanchez)
+[ ](http://twitter.com/musicvillefm)
 
 | 
 
-[ ](http://twitter.com/chrisvonlucas)
+[ ](http://twitter.com/stephanregina)
 
 | 
 
-[ ](http://twitter.com/jveluz29)
+[ ](http://twitter.com/theladykidrauhl)
 
 | 
 
-[ ](http://twitter.com/paulinedglk)  
+[ ](http://twitter.com/thelastofkiki)  
   
+[](https://web.archive.org/web/20131012064430id_/http%3A//letgetmorefollowers.info/index.php?pages=paypal)
+
 **Privacy Policy**
 
 We respect and are committed to protecting your privacy. That is why we have adopted this Privacy Policy. This Privacy Policy lets you know how your personal information is processed and explains data collection and use practices for the LETGETMOREFOLLOWERS.INFO. The "LetGetMoreFollowers Network" includes all Web pages, newsletters, discussion forums and lists and opt-in announcement lists owned and operated by LetGetMoreFollowers or indirectly from the LETGETMOREFOLLOWERS.INFO (collectively the "Site") home page (collectively hereafter "LetGetMoreFollowers"). By accessing the LetGetMoreFollowers Network, you are consenting to the information collection and use practices described in this Privacy Policy.
