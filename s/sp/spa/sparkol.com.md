@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sparkol.com privacy policy that was archived on 2013-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130416013244id_/http%3A//www.sparkol.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sparkol.com privacy policy that was archived on 2013-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131012123735id_/http%3A//www.sparkol.com/privacy) for the most accurate reproduction.*
 
-# Sparkol: Privacy Policy
+# Privacy Policy - Sparkol VideoScribe
 
 Here at Sparkol® we are dedicated to safeguarding and preserving your privacy when visiting our site or communicating electronically with us. Our Privacy Policy has been provided and approved by internet law specialists LegalCentre.co.uk. 
 
@@ -82,4 +82,4 @@ The Data Protection Act 1998 gives you the right to access the information that 
 
 ### Contacting Us
 
-We welcome any queries, comments or requests you may have regarding this Privacy Policy. Please do not hesitate to [contact us](https://web.archive.org/web/20130416013244id_/http%3A//www.sparkol.com/contact.php) at [info@sparkol.com](mailto:info@sparkol.com). 
+We welcome any queries, comments or requests you may have regarding this Privacy Policy. Please do not hesitate to [contact us](https://web.archive.org/contact) at [Sparkol Answers](http://answers.sparkol.com/). 
