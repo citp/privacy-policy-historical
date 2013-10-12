@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hecklerspray.com privacy policy that was archived on 2013-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130513070255id_/http%3A//www.hecklerspray.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hecklerspray.com privacy policy that was archived on 2013-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131013012312id_/http%3A//www.hecklerspray.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -28,8 +28,5 @@ If you wish to disable cookies, you may do so through your individual browser op
 By using this website, you hereby consent to its privacy policy and agree to its terms.  
 
 
-  * [Share on Facebook.](http://www.facebook.com/sharer.php?u=http://www.hecklerspray.com/privacy&locale=en_US&t=Privacy%20Policy)
-  *   * [Share on Google+](https://plus.google.com/share?url=http://www.hecklerspray.com/privacy)
-  * [Share on Twitter.](http://twitter.com/hecklerspray)
-
+  
 
