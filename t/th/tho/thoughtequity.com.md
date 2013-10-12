@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thoughtequity.com privacy policy that was archived on 2013-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130613064550id_/http%3A//www.t3licensing.com/video/home/privacy.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thoughtequity.com privacy policy that was archived on 2013-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131012211943id_/http%3A//www.t3licensing.com/video/home/privacy.do) for the most accurate reproduction.*
 
 # Privacy Policy - T3Media (Thought Equity)
 
