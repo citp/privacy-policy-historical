@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the traveldealsfinder.com privacy policy that was archived on 2013-01-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130117040313id_/http%3A//www.traveldealsfinder.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the traveldealsfinder.com privacy policy that was archived on 2013-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131012094226id_/http%3A//www.traveldealsfinder.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Travel Deals 2013
 
@@ -24,3 +24,5 @@ Please do not send to Traveldealsfinder.com or post on Traveldealsfinder.com any
 
 Revisions  
 Traveldealsfinder.com may at any time revise the terms and conditions herein by updating this legal page. You are bound by any such revisions and should therefore periodically visit this page to review the current terms and conditions.
+
+Contact us for a Free Custom Quote
