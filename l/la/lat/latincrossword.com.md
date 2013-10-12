@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the latincrossword.com privacy policy that was archived on 2013-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130605101509id_/http%3A//latincrossword.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the latincrossword.com privacy policy that was archived on 2013-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131012030619id_/http%3A//latincrossword.com/privacypolicy.php) for the most accurate reproduction.*
 
 # Untitled Document
 
