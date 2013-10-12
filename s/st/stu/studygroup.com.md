@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the studygroup.com privacy policy that was archived on 2013-01-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130128161242id_/http%3A//www.studygroup.com/info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the studygroup.com privacy policy that was archived on 2013-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131012103700id_/http%3A//www.studygroup.com/info/privacy-policy) for the most accurate reproduction.*
 
 # Study Group: Global Leaders in International Education
 
@@ -38,4 +38,4 @@ However, no data transmission over the Internet can be guaranteed to be totally 
 
 We may update the Privacy Policy from time to time. If we need to make any changes we will post an announcement to this effect on our websites. 
 
-Updated May 2012
+Updated May 2013
