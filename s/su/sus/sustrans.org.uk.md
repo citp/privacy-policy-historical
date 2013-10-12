@@ -1,14 +1,12 @@
-> *The following text is extracted and transformed from the sustrans.org.uk privacy policy that was archived on 2013-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130331005640id_/http%3A//www.sustrans.org.uk/hidden_section/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sustrans.org.uk privacy policy that was archived on 2013-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131012065141id_/http%3A//www.sustrans.org.uk/privacy) for the most accurate reproduction.*
 
 # Privacy | Sustrans
-
-## Privacy
 
 Sustrans is committed to ensuring that your privacy is protected in compliance with the Data Protection Act, including ensuring that any personal data collected is used fairly and responsibly, kept accurate and up-to-date and held securely.
 
 Sustrans is named as the Data Controller on the public register of data controllers which is available on the Information Commissioner's website (Registration Number Z7399708).
 
-This policy applies to all the pages hosted on this site – [http://www.sustrans.org.uk](http://www.sustrans.org.uk/home). It does not apply to other organisations to which we may link and whose privacy policies may differ.
+This policy applies to all the pages hosted on this site – [http://www.sustrans.org.uk](https://web.archive.org/%5B~1~%5D). It does not apply to other organisations to which we may link and whose privacy policies may differ.
 
 #### 1\. The information we collect and how we use it
 
@@ -28,7 +26,7 @@ The Sustrans' website uses "cookies" to help personalise your online experience.
 
 We use cookies on our website and within the service for a number of reasons including:
 
-  * Tracking of user login sessions 
+  * Tracking of user login sessions
   * Tracking referrals
   * To help ensure our users are abiding by the Terms of Service
   * To track advertising and marketing activities
@@ -39,7 +37,7 @@ You have the ability to accept or decline cookies. Most web browsers automatical
 
 You may configure your browser to accept all cookies, reject all cookies, or notify you when a cookie is set. Each browser is different, so check the "Help" menu of your browser to learn how to change your cookie preferences. Click here for further information on how to prompt or block cookies on various browsers: <http://www.allaboutcookies.org/manage-cookies/index.html>
 
-[Click here to view a list of the cookies](http://www.sustrans.org.uk/hidden_section/privacy/how-we-use-cookies) that are used on the Sustrans' website.
+[Click here to view a list of the cookies](https://web.archive.org/%5B~3567~%5D) that are used on the Sustrans' website.
 
 Sustrans uses Google Analytics (which uses cookies), as a web analytics service, provided by Google, Inc ("Google"), to analyse the use of Sustrans' website.
 
@@ -71,13 +69,13 @@ We also keep your information confidential. The internal procedures of Sustrans 
 
 #### 5\. Updating your details
 
-If any of the information that you have provided to Sustrans changes, for example if you change your e-mail or postal address, please email [info@sustrans.org.uk](mailto:info@sustrans.org.uk)
+If any of the information that you have provided to Sustrans changes, for example if you change your e-mail or postal address, please email [supporters@sustrans.org.uk](mailto:info@sustrans.org.uk)
 
-If you would prefer not to receive information from Sustrans, please email [unsubscribe@sustrans.org.uk](mailto:unsubscribe@sustrans.org.uk)
+If you would prefer not to receive information from Sustrans, please email [supporters@sustrans.org.uk](mailto:unsubscribe@sustrans.org.uk)
 
 If you have any questions about the information we maintain about your supporter details, or wish to change your supporter details, please email [supporters@sustrans.org.uk](mailto:supporters@sustrans.org.uk)
 
-####  6\. Your consent
+#### 6\. Your consent
 
 By submitting your information you consent to the use of that information as set out in this policy. If we change our privacy policy we will post the changes on the Sustrans website, so that you are aware of the information we collect and how we use it at all times. We will also email you should we make any changes so that you may consent to our use of your information in that way. Continued use of the service will signify that you agree to any such changes.
 
@@ -107,7 +105,7 @@ We cannot ensure or warrant the security of any information you transmit to us o
 
 On receipt of proof of identity and a written request, we will provide you with a copy of any information that we hold about you. Please write to:
 
-Luke Burton,  
+John Richardson,  
 Sustrans,  
 2 Cathedral Square,  
 College Green,  
@@ -120,7 +118,7 @@ We will reply within forty calendar days.
 
 If you have any queries or comments about this privacy policy, please send a letter to:
 
-Luke Burton,  
+John Richardson,  
 Sustrans,  
 2 Cathedral Square,  
 College Green,  
@@ -128,5 +126,3 @@ Bristol,
 BS1 5DD
 
 Last updated April 2012
-
-[Back to Top](http://www.sustrans.org.uk/hidden_section/privacy#top)
