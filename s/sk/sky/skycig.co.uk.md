@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the skycig.co.uk privacy policy that was archived on 2013-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130328030608id_/http%3A//www.skycig.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skycig.co.uk privacy policy that was archived on 2013-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131012075358id_/http%3A//www.skycig.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - SKYCIG UK Electronic Cigarettes, E Cigarettes
 
 Effective: 25/01/2013
 
-We at Zulu Ventures (“SKYCIG”, “we”, “us”, “our”) understand that your privacy is extremely important and we would like to thank you in advance for your trust. Your personal information (hereafter referred to as “information”) is important to us as well. Our Privacy Policy covers information collection and use on our website www.skycig.co.uk products and services.
+We at Cygnet UK Trading Limited (“SKYCIG”, “we”, “us”, “our”) understand that your privacy is extremely important and we would like to thank you in advance for your trust. Your personal information (hereafter referred to as “information”) is important to us as well. Our Privacy Policy covers information collection and use on our website www.skycig.co.uk products and services.
 
-Zulu Ventures has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at [privacy@skycig.co.uk](mailto:privacy@skycig.co.uk). If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint). The TRUSTe certification only covers information collected on [www.skycig.co.uk](http://www.skycig.co.uk/). 
+Cygnet UK Trading Limited has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at [privacy@skycig.co.uk](mailto:privacy@skycig.co.uk). If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint). The TRUSTe certification only covers information collected on [www.skycig.co.uk](http://www.skycig.co.uk/). 
 
 ## Information We Collect
 
@@ -42,7 +42,9 @@ We employ or our third party tracking utility partner employs a software technol
 
 Your information is extremely important to us and our business is not about selling or sharing your information or giving it away to third parties, without your prior written approval. The information we collect from our members is intended to improve customer service. Third Party Service Providers such as companies and individuals who to help fulfil orders, send emails out on our behalf, deliver products, perform data analysis, offer guidance to our marketing department, provide customer service, fulfil shipping requests, and process credit card payments are solely performing functions on our behalf. They must have access to the information required to perform and complete their duties and functions. These companies are authorised to use your information only as necessary to provide these services to us.
 
-If you do not wish to receive promotional material or our newsletter you may ask to be removed from our mailing list at any time by following the unsubscribe link located at the bottom of each communication or by emailing us at [privacy@skycig.co.uk](mailto:privacy@skycig.co.uk). With your consent you will receive notice if and when information about you might be sent to third parties and you will have the opportunity to agree or refuse to agree to the sharing of your information at that time.
+By making a purchase and sharing your email address you will be entered on to our customer mailing list to receive product alerts, promotional material as well as our newsletter (unless otherwise indicated). We promise to always make these emails as interesting and relevant to you as we can but if you do not wish to receive promotional material or our newsletter you may ask to be removed from our mailing list at any time by following the unsubscribe link located at the bottom of each communication. Alternatively you can email us at [privacy@skycig.co.uk](mailto:privacy@skycig.co.uk) and request to be removed from our lists or access your email preferences via the account area and choose what, if anything, you would like to receive.
+
+With your consent you will receive notice if and when information about you might be sent to third parties and you will have the opportunity to agree or refuse to agree to the sharing of your information at that time.
 
 We may disclose your information as required by law, such as to comply with a witness summons, or similar legal process, when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request.
 
@@ -79,3 +81,8 @@ This privacy policy applies only to information collected by this website.
 ## Privacy Policy Notices and Revisions
 
 We may update this privacy statement to reflect changes to our information practices. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this website prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.
+
+SKYCIG  
+PO Box 24043  
+Edinburgh, UK  
+EH3 1ED 
