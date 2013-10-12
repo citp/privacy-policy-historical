@@ -1,113 +1,95 @@
-> *The following text is extracted and transformed from the isotx.com privacy policy that was archived on 2013-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130305194030id_/http%3A//isotx.com/%3Fpage_id%3D530) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the isotx.com privacy policy that was archived on 2013-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131012103010id_/http%3A//www.isotx.com/%3Fpage_id%3D530) for the most accurate reproduction.*
 
-# Privacy Policy – Home of ISOTX – Video Game Development and Game Design.
+# Privacy Policy - Home of ISOTX – Video Game Development and Game Design.
 
-**PRIVACY POLICY**  
+**PRIVACY POLICY**
+
 ISOTX  
 IPsotx Sàrl  
-41, Bd. Prince Henri  
-L-1724 Luxembourg
+Boulevard de la Foire 1  
+L-1528 Luxembourg
 
-Last revised: March 28, 2011
+Last revised: April 23, 2013
 
-IPsotx Sàrl has created this privacy policy (the “Policy”) to explain our privacy practices so you will understand when and how personal information is collected, used, disclosed and protected with respect to our software(“Software”), and Web sites (“Site”) located at [http://www.isotx.com](http://www.isotx.com/) and [http://www.igmarauders.com](http://www.igmarauders.com/). By using the Site and the Software, you consent to the privacy practices described in this Policy.
+ISOTX has created this privacy policy (the “Policy”) to explain our privacy practices so you will understand when and how personal information is collected, used, disclosed and protected with respect to our software (“Software”), and Web sites (“Site”) located at [http://www.isotx.com](http://www.isotx.com/) and all subdomains. By using the Site and the Software, you consent to the privacy practices described in this Policy.
 
-We reserve the right to change this Policy at any time. If we make any material changes to our Policy, we will post a new policy on our Site and update the “last revised” date set forth above and notify each registered user at the email address we have on file for them. The updated Policy will govern each use of the Site from the date of update forward. Therefore, we encourage you to check our Policy whenever you use the Site.
+We reserve the right to change this Policy at any time. If we make any material changes to our Policy, we will post a new policy on our Site and update the “last revised” date set forth above and notify each active user asking them to confirm their acceptance of the new policy. The updated Policy will govern each use of the Site from the date of update forward. Therefore, we encourage you to check our Policy whenever you use the Site.
 
 **INFORMATION ABOUT YOU**
 
-We collect three basic types of information with our Site and Software, namely personal information, individual usage patterns and aggregate information. Personal information is information that is directly associated with a specific person or entity such as a user’s e-mail address, usage information and user-chosen ID and password. Individual Usage Patterns includes information automatically collected by the Software about your game play (including frequency and type of games played), and usage patterns of the Site, the Software and the third party software downloaded through the Software. We may share Individual Usage Patterns with third parties for various purposes, including to help us better understand and improve our services, and for advertising and marketing purposes.
+We collect three basic types of information with our Site and Software, namely personal information, individual usage patterns and aggregate information. Personal information is information that is directly associated with a specific person or entity such as a user’s e-mail address, usage information and user-chosen ID and password.
 
-Our definition of personal information does not include “aggregate information.” Aggregate information is data we collect about a group or category of services or users from which individual user identities have been removed. In other words, information on how you use our Site and Software may be collected and combined with information about how others use the Site and Software, but no personal information will be included in the resulting data. Aggregate data helps us understand trends in our users’ needs so that we can better consider new features or otherwise tailor our services. We may share aggregate information about our users with third parties for various purposes, including to help us better understand and improve our services, and for advertising and marketing purposes.
+Individual Usage Patterns includes information automatically collected by the Software about your game play (including frequency and type of games played), and usage patterns of the Site, the Software and the third party software downloaded through the Software.
 
-Those are the types of personal and other information we collect. You should refer to the rest of this Policy to see how we use, disclose and protect this information:
+Aggregate information is data we collect about a group or category of services or users from which individual user identities have been removed. In other words, information on how you use our Site and Software may be collected and combined with information about how others use the Site and Software. Aggregate data helps us understand trends in our users’ needs so that we can better consider new features or otherwise tailor our services.
 
-**INFORMATION YOU GIVE US**
+You send us this data in two ways. First, you send data actively, either directly or through your account and privacy settings on a social networking site like Facebook. Second, your computer automatically transmits information when you use the Services. The information you send automatically consists of (a) technical information about your computer – including but not limited to IP address, MAC address, operating system, browser type, referring and exit URLs, and (b) Service usage information – including but not limited to your interaction with the Site and the Services, games played, game scores, use of virtual currency, (collectively, “Automatically Collected Information”).
 
-We collect information you give us at various times when you register with us and use our Site and the Software. For example, when you register an account on the Site, we may collect various kinds of contact information about you including, for example, your e-mail address. You will also be asked to create a user-chosen ID and password for your use when accessing certain portions of the Site. We may also collect personal information if you provide it via e-mail, message boards, or other interactive services. Please do not post any information on the message boards or other interactive services that you expect to keep private. Also, we may collect information that identifies you personally when you send us comments, questions or suggestions.
-
-**AUTOMATICALLY COLLECTED INFORMATION**
-
-We automatically receive certain types of information whenever you interact with us. For example, when you use the Site, our systems may automatically collect your IP address and the type of browser or operating system you use. In addition, as you use the Software, we will collect certain information about your game play patterns, such as how long and what times you play, the level or attributes of your characters in the game. We use such information to show the software designers how individual users interact with their programs, as well as for advertising and promotional purposes.
-
-We may also collect information pertaining to any transactions conducted by you on the Site, information pertaining to the files accessed or used by you, and standard access information, such as the time and date of accessing the Site, and usage of the Site. We use such information to help manage the effectiveness of our online advertising and to gather access information, such as counting the users who have visited those pages and compiling aggregated statistics about Site usage.
-
-In addition, we use cookies to collect information so that we can improve our Site by seeing which areas and features are most popular; to personalize the Site and improve the Site experience; and to allow you to visit the Site without re-entering your member ID and/or password. We may use also cookies and similar tools to relate your use of the Site to personal information obtained from you or a third party. For example, if you’ve asked us to provide you with information about our products or promotions, cookie and/or click stream data about your activities on the Site may allow us to limit the materials we provide you to items we think you will find interesting, based on your prior online activities and preferences. We will not coordinate your personal information and web site activity information in this manner without first obtaining your express affirmative consent.
-
-Most browsers automatically accept cookies as the default setting. You can modify the setting to reject cookies or to prompt you before accepting a cookie from the sites you visit by editing browser options. If you decide not to accept our cookies, you may not be able to use some of the Site’s features or services, and you may have a less satisfactory experience.
+Automatically Collected Information can be collected among other, through server log files, cookies and pixel tags. We may store such information in databases owned and maintained by affiliated or non-affiliated service providers.  
+This Privacy Policy does not apply to information collected in any other way than as listed above, e.g., any ideas for new products or modifications to existing products that you may email us, and other unsolicited submissions (collectively, “Unsolicited Information”). All Unsolicited Information shall be deemed to be non-confidential and ISOTX shall be free to reproduce, use, disclose, and distribute such Unsolicited Information to others without limitation or attribution.
 
 **NO INFORMATION ABOUT CHILDREN**
 
-Our Site and Software is not intended to be used by children under the age of 13, and we do not knowingly, directly or passively, collect information from children under the age of 13. If we create offers and products that make it appropriate to collect information from children under the age of 13, we will notify you of the change in this Policy.
+Our Services are not suited for children under the age of 13 and we do not allow children to access any Services. If you are under the age of 13, do not submit any information to us. We encourage parents and legal guardians to monitor their children’s Internet usage and to help enforce our Privacy Policy by instructing their children never to provide information on the Service. Children under the age of 18 using our products are assumed to have parental consent. If you have reason to believe that a child under the age of 13 has provided personal data to ISOTX through the Service, please contact us at legal@isotx.com, and we will endeavor to delete that information from our databases.
 
 **INTERNAL USE OF PERSONAL INFORMATION**
 
 All information collected is stored in our database and may be archived elsewhere.
 
-Access to your personal information other than Individual Usage Patterns will be limited to ISOTX employees and contractors. In general, we use personal information internally to serve our users and enable them to take maximum advantage of our Site. We may also combine information about you that we have with information we obtain from business partners or other companies. For example, personal information may be used to conduct marketing analysis, to create an individual profile and provide personalized services, to provide services or complete transactions you have requested, to anticipate and resolve problems with our Software and Site, to respond to customer support inquiries, and to create and inform you of new products and services from ISOTX that better meet your needs. By registering with our Site, you give consent for us to communicate with you at any of the contact points you provide to us for any of the aforementioned purposes.
+We use the information you transmit, including personal data, for a variety of reasons, including to:
 
-If a user elects to use our invite a friend feature via the ISOTX site we will automatically send this person an email. We will send an email to invite them to visit the site, download the client and add the user as a friend.
-
-You should review the following section to understand when ISOTX discloses personal information to non-affiliated third parties.
-
-**DISCLOSURE OF PERSONAL INFORMATION OTHER THAN INDIVIDUAL USAGE PATTERNS**
-
-Except for Individual Usage Patterns (discussed below) We do not rent, sell, or share personal information about you with other people or non-affiliated companies except to provide products or services you’ve requested, when we have your permission, or under the following circumstances: (i) as may be necessary to perform internal analyses and business functions; (ii) as part of a business transfer; or (iii) when required by law or permitted to protect our rights, property, or safety. The following section describes these disclosure circumstances more fully.
-
-  * **Consent.** Unless you choose to do so, we will not disclose your personal information to third parties for their direct marketing purposes. With your consent, we may disclose your personal information to third parties so that they may provide you with products and services that you have requested.
-
-
-  * **Business Functions**. We may share personal information with third-party vendors who assist us in performing internal functions necessary to operate our business. In the event that we use third-party vendors to assist us in performing these functions, the third parties may not use or disclose your personal information for any other purpose. For example, we may provide downloads of software for, or host play of, pre-release test, or “beta”, versions of games as well as partial game demonstrations, trials and full game downloads provided by the owner/publisher. In order to receive or participate in these programs, you may be required to provide personal information, which we may provide to the owner/publisher. Any personal information that you provide to game owners/publishers will be subject to the game owner’s/publisher’s privacy policy, and we have no control over the ways that game owners/publishers to whom you provide your personal information may use your personal information.
-
-
-  * **Targeted Advertising.** We may display targeted advertisements based on personal information. Advertisers (including ad serving companies) may assume that people who interact with, view, or click targeted ads meet the targeting criteria—for example, women ages 18-24 from a particular geographic area. We do not provide any personal information to the advertiser when you interact with or view a targeted ad. However, by interacting with or viewing an ad you are consenting to the possibility that the advertiser will assume that you meet the targeting criteria used to display the ad. Advertisers may include financial service providers (such as banks, insurance agents, stock brokers and mortgage lenders) and non-financial companies (such as stores, airlines, and software companies).
-
-
-  * **Internal Analysis.** We may use information about you for our own internal purposes, such as to estimate our audience size, measure aggregate traffic patterns as well as to understand demographic, customer interest, and other trends among our users. We may outsource these tasks and disclose personal information about you to third parties in aggregate, provided the use and disclosure of your personal information by these third parties is restricted to performance of such tasks.
-
-
-  * **Business Transfers.** Information about our users and the Site and Software is one of our most important business assets. Therefore, information about our users, including personal information, will be disclosed as part of any merger or acquisition, creation of a separate business to provide the Site or Software or fulfill products, sale or pledge of company assets as well as in the event of an insolvency, bankruptcy or receivership in which personal information would be transferred as one of the business assets of the company. 
-    * **Protection of ISOTX** **and Others.** We may release personal information in the good faith belief that release is appropriate and necessary to comply with legal process or authority (e.g., a lawful subpoena, warrant or court order); to enforce or apply our policies; to initiate, render, bill, and collect for amounts owed to us; to protect our rights, property, or personal safety of ISOTX, our users, our employees, or the public; or if we reasonably believe that an emergency involving immediate danger of death or serious physical injury to any person requires disclosure of communications or justifies disclosure of records without delay.
+  * communicate with you on information of interest and respond to requests,
+  * operate, maintain and improve the Site and Services;
+  * enable you to connect with friends;
+  * provide you with personalized ads and product offers;
+  * perform analytics for internal marketing and demographic studies;
+  * troubleshoot technical concerns including administrative and store related issues;
+  * develop new products;
+  * administer rewards, surveys, contests and other promotional activities;
+  * process in-game purchases;
+  * identify, research and protect against actual, potential or threatened misuse, unauthorized use, unwanted use or other forms of fraud and abuse of the Service;
+  * enable third party hosts of the Site or the Services; and
+  * as deemed necessary, in our sole discretion, to ensure the safety or integrity of our users, employees, third parties, our Site and Services.
 
 
 
-**DISCLOSURE OF INDIVIDUAL USAGE PATTERNS** ****
+**HOW WE DISCLOSE YOUR INFORMATION**  
+We share your information (including personal data) with third parties in the following circumstances:
 
-  * **Consent.** If you use the Software, it requires that you consent to our collection of your Individual Usage Patterns. We may use this information for internal and external marketing purposes as described below. We may also use the Individual Usage Patterns, along with your other Personal Information, in the manner described above.
+Business Transfers: As we develop our business, we might sell or buy businesses or assets. In the event of a corporate sale, merger, reorganization, dissolution or similar event, personal data may be part of the transferred assets.
 
+Service Providers: We provide information to distributors and affiliated and unaffiliated third parties for their use in performing services on our behalf by enabling our partners to place cookies or pixel tags on our websites, under agreements that protect the confidentiality and security of such information. These include, but are not limited to, payment processors, advertisers, providers of chat services. The information collected is not shared with third parties or used by the service provider for its own purposes.
 
-  * **Targeted Advertising.** We may display targeted advertisements based on your Personal Usage Patterns, as well as market this information to third party companies. For instance, we may provide your game play statistics to the maker of a game you use via the Site or Software. That game maker may run a promotion offering a prize for each user of the Software who attains a certain level or achieves a certain task in the game. If the game maker wishes to notify you, it will do so through your ISOTX account.
+Business Partners: ISOTX may work with advertising vendors who collect non-personally identifiable data about your visit to the Sites and other websites in order to serve you with more personalized targeted ads and to verify campaign results.  Although these companies use some anonymous information about you to display ads while you are browsing the internet, we do not permit these companies to collect any personal information about you.
 
+This Privacy Policy does not cover the collection methods or use of the information collected by Third Party Advertisers, and ISOTX cannot be held responsible for misuse of collection methods and/or abuse of collected data by affiliated and non-affiliated third parties. For this, refer to the partner’s own privacy policy. For information on how to opt-out of such cookies, go to the Network Advertising Initiative opt-out page. [You can find the opt-out page here](http://www.networkadvertising.org/managing/opt_out.asp).
 
+Legal Requirements: ISOTX may disclose your personal data if required to do so by law or in the good faith belief that such action is necessary to (i) comply with a legal obligation, (ii) protect and defend the rights or property of ISOTX, (iii) act in urgent circumstances to protect the personal safety of users of the Service or the public, or (iv) protect against legal liability.
 
-**THIRD-PARTY SITES**
+**THIRD PARTY PRIVACY PRACTICES**
 
-Please be aware that we may provide links to third-party Web sites as a service to our users. Some of these third party sites may be co-branded with an ISOTX or affiliated entity’s logo, even though they are not operated or maintained by ISOTX. The Site also carries advertisements from other companies. ISOTX is not responsible for the privacy practices of web sites operated by third parties that are linked to the Site or for the privacy practices of third party or national Internet advertising companies, which differ from ours. Specifically, our Forums section and Shopping section are run by third parties, and hosted on third party sites. Therefore, we encourage you to review and understand their policies and practices before providing them with information or visiting their sites.
+The Privacy Policy applies only to information collected by ISOTX through your use of the Service. Other websites may be accessible through links from our Site or when using the Services. Certain business partners may collect data through the use of cookies or pixel tags. This data collection is subject to the terms of their privacy policies. ISOTX is not responsible for any content appearing on those websites or any privacy or security practices for those websites.
 
 **NETWORK AND INFORMATION SECURITY**
 
-We use commercially reasonable efforts to protect your personal information, including safeguards such as firewalls, password-protected databases with limited physical or electronic access, and encryption. In addition, ISOTX may utilize secure technology such as SSL to transfer information provided by users, and additional measures in the processing of sensitive information. While we have taken efforts to guard your personal information, we cannot guarantee that your information may be not be disclosed or accessed by accidental circumstances or by the unauthorized acts of others.
-
-Your account information and access to certain portions of the Site is accessible only through the use of an individual user ID and password. To protect the confidentiality of personal information, you must keep your password confidential and not disclose it to any other person. You are responsible for all uses of our Site and Software by any person using your account user ID and password. Please advise us immediately if you believe your account user ID and password have been misused.
+To protect your personal data, ISOTX maintains reasonable safeguards to attempt to ensure the security, integrity and privacy of the personal data you have provided. However, no system can be 100% secure and there is the possibility that despite our reasonable efforts, there could be unauthorized access to your information. Therefore, you should take special care in deciding what information you send to us. Please keep this in mind when disclosing any personal data to ISOTX via the Internet. By using our Services, you assume this risk. Please note that you should keep your account and password strictly confidential at all times.
 
 **ACCESS AND CONTROL OF PERSONAL INFORMATION**
 
 If you are a registered user of our Site, you may view, correct, and delete your personal information through the Site. Generally, you should be careful when making any personal information available to the public.
 
-We reserve the right to send you certain communications relating to our Software and Site, such as customer service responses and other administrative messages.
+We reserve the right to send you certain communications relating to our Software and Site, such as but not limited to customer service responses and other administrative messages.
+
+A request to delete your account may not result in removal of information collected that has been put in aggregate form, or information that cannot, in our sole discretion, be removed without undue burden by ISOTX, including data stored on our servers and the servers of social networking services. ISOTX may also be required to retain certain purchasing information for compliance purposes.
 
 **INTERNATIONAL USERS**
 
-By using our Site and providing us with data, you acknowledge and agree that due to the international dimension of ISOTX, we may use the data collected in the course of our relationship for the purposes identified in this policy or in our other communications with you, including the transmission of information outside your resident jurisdiction. Please note that your personal information will be stored and processed on our computers in the United States. The laws on holding personal data in the United States may be less stringent than the laws of your country. If you object to your personal information being transferred or used as described in this Policy, please do not register for the Site or use the Software.
+By using our Site and providing us with data, you acknowledge and agree that due to the international dimension of ISOTX, we may use the data collected in the course of our relationship for the purposes identified in this policy or in our other communications with you, including the transmission of information outside your resident jurisdiction. IPsotx Sàrl is based in Luxembourg and operates under Luxembourg law. Please note that your personal information will be stored and processed on our computers in the United States. The laws on holding personal data in the United States may be less stringent than the laws of your country. If you object to your personal information being transferred or used as described in this Policy, please do not register for the Site or use the Software.
 
 **UPDATING THIS POLICY**
 
 We may revise and update this Policy if our practices change, as technology changes, or as we add new services or change existing ones. Any changes will be posted to this document so that you will always know what information we gather and how we use it. If we make any material changes to our Policy or how we handle your personal information, we will post an updated Policy on our site and change the date of the Policy. If we are going to use any personal information in a manner that is materially different from that stated in our Policy at the time we collected such information, we will give you a reasonable opportunity to consent to the change. We will use information in accordance with the most current privacy policy.
 
-**CALIFORNIA PRIVACY RIGHTS**
-
-California Civil Code Section 1798.83 permits customers who are California residents to request certain information regarding disclosure of personal information to third parties for their direct marketing purposes. We do not provide your personal information other than Individual Usage Patterns to any third party for their direct marketing purposes without your consent. If you would like more information with respect to your privacy rights under California law, you may contact us at the contact point below. Please reference your request as “California Disclosure Information.”
-
 **CONTACTING US**
 
-If you have any questions or comments about this Policy, the privacy practices of the Site, or your dealings with IPsotx Sàrl, please contact us at: [legal@Isotx.com](mailto:legal@Isotx.com).
+If you have any questions or comments about this Policy, the privacy practices of the Site, or your dealings with IPsotx Sàrl (ISOTX), please contact us at: [legal@isotx.com](mailto:legal@isotx.com).
