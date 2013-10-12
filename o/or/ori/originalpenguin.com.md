@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the originalpenguin.com privacy policy that was archived on 2013-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130403054347id_/http%3A//www.originalpenguin.com/privacy-policy/privacy-policy%2Cdefault%2Cpg.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the originalpenguin.com privacy policy that was archived on 2013-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131012050410id_/http%3A//www.originalpenguin.com/privacy-policy/privacy-policy.html) for the most accurate reproduction.*
 
-# eCommerce Solutions On-Demand | Demandware Privacy Policy
+# Privacy Policy
 
 ## Privacy Policy
 
