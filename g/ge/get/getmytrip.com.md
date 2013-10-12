@@ -1,10 +1,14 @@
-> *The following text is extracted and transformed from the getmytrip.com privacy policy that was archived on 2013-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130514021826id_/http%3A//getmytrip.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getmytrip.com privacy policy that was archived on 2013-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131012105441id_/http%3A//www.getmytrip.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy – All privacy policies are updated here frequently @ getmytrip.com
 
 |   
 ---  
-Privacy Policy of GetMyTrip  
+  
+|  PRIVACY POLICY OF GETMYTRIP  
+---  
+|   
+---  
 **What information do we collect?**  
   
 We collect information from you when you register on our site or place an order.
@@ -14,9 +18,6 @@ When ordering or registering on our site, as appropriate, you may be asked to en
 **What do we use your information for?**  
   
 Any of the information we collect from you may be used in one of the following ways: 
-
-  
-
 
   * **To personalize your experience**
 
@@ -70,4 +71,15 @@ Call Center No : +91 - 44-30604444.
 
   
   
-Thanking you for using GetMyTrip!!! 
+Thanking you for using GetMyTrip!!!   
+  
+  
+  
+|   
+---  
+  
+|   
+---  
+  
+|  Copyright © 2013 - www.getmytrip.com All Rights Reserved.  |   
+---|---
