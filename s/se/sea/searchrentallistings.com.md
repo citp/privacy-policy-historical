@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the searchrentallistings.com privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601054457id_/http%3A//searchrentallistings.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the searchrentallistings.com privacy policy that was archived on 2013-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131012172646id_/http%3A//searchrentallistings.com/privacy.php) for the most accurate reproduction.*
 
-# Privacy Policy
+# All About Our Rent To Own Home Program
 
 Effective: September 1, 2010
 
@@ -58,3 +58,7 @@ If you have questions concerning your account, please contact Customer Service a
 
   
 
+
+Rent To Own Houses in Alabama | Alaska | Arizona | Arkansas | California | Colorado | Connecticut | Delaware | District of Columbia | Florida | Georgia | Hawaii | Idaho | Illinois | Indiana | Iowa | Kansas | Kentucky | Louisiana | Maine | Maryland | Massachusetts | Michigan | Minnesota | Mississippi | Missouri | Montana | Nebraska | Nevada | New Hampshire | New Jersey | New Mexico | New York | North Carolina | North Dakota | Ohio | Oklahoma | Oregon | Pennsylvania | Rhode Island | South Carolina | South Dakota | Tennessee | Texas | Utah | Vermont | Virginia | Washington | West Virginia | Wisconsin | Wyoming
+
+[Privacy Policy](http://searchrentallistings.com/privacy.php) | [Terms of Use](http://searchrentallistings.com/terms.php)
