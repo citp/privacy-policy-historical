@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the avira.com privacy policy that was archived on 2011-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111214081114id_/http%3A//www.avira.com/en/general-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the avira.com privacy policy that was archived on 2013-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131012202259id_/http%3A//www.avira.com/en/general-privacy) for the most accurate reproduction.*
 
 # Privacy policy
 
@@ -105,6 +105,9 @@ With expanded online testing of files (feature Avira AntiVir ProActiv Community 
 ##  Privacy of business partners and partner brands
 
 The Avira website offers you various links to the companies we have a business relationship with. Avira is not responsible for the privacy practices of its business partners. Therefore, since their practices may differ from ours, we strongly advice you to inform yourself about the privacy declaration of these particular companies.
+
+The Avira website offers you various links to websites and services of companies we have a business relationship with. These third parties may collect information about you and your online activities, either on their website or on other websites, through cookies, web beacons, and other technologies in an effort to process your requests and to provide services to you. Avira is not responsible for the privacy practices of its business partners. Therefore, since their practices may differ from ours, we strongly advise you to inform yourself about the privacy declaration of these particular companies.   
+The service search.avira.com is hosted by our partner APN ask.com. Please be informed that Avira will neither collect nor store any personal data in context with the service search.avira.com nor will ask.com transfer any personal data from the use of the service search.avira.com to Avira. 
 
   
 
