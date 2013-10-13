@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flash-game.net privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621055422id_/http%3A//www.flash-game.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flash-game.net privacy policy that was archived on 2013-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131013021141id_/http%3A//www.flash-game.net/privacy.php) for the most accurate reproduction.*
 
 # Privacy policy by Flash Game
 
