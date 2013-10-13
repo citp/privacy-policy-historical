@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the herald.ie privacy policy that was archived on 2013-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130430154759id_/http%3A//www.herald.ie/service/privacy-and-cookie-policy-29050448.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the herald.ie privacy policy that was archived on 2013-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131013194149id_/http%3A//www.herald.ie/service/privacy-and-cookie-policy-29050448.html) for the most accurate reproduction.*
 
 # Privacy and cookie policy - Herald.ie
 
-Independent Newspapers (Ireland) Limited and its associated companies fully respect your right to privacy.
+## Independent Newspapers (Ireland) Limited and its associated companies fully respect your right to privacy.
 
  **Identity**
 
