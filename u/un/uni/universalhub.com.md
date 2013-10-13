@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the universalhub.com privacy policy that was archived on 2013-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130426185521id_/http%3A//www.universalhub.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the universalhub.com privacy policy that was archived on 2013-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131013082650id_/http%3A//www.universalhub.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy policy for Universal Hub, Boston Online and the Wicked Good Conference | Universal Hub
 
@@ -40,3 +40,7 @@ In addition to the above, our servers collect certain standard "log" information
 If you have any questions about our privacy and cookie polices, please contact Adam Gaffin at [adamg@gaffin.com](mailto:adamg@gaffin.com).
 
 _Last modified: 2/17/12._
+
+  * [](https://web.archive.org/print/privacy.html "Display a printer-friendly version of this page.")
+
+
