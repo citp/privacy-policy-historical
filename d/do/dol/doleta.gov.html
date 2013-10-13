@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the doleta.gov privacy policy that was archived on 2013-05-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130524024208id_/http%3A//www.doleta.gov/privacy.cfm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the doleta.gov privacy policy that was archived on 2013-10-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131014004033id_/http%3A//www.doleta.gov/privacy.cfm) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -17,14 +17,80 @@
 <body>
 <div id="wrapper">
    
-<script type="text/javascript" async="" src="https://web.archive.org/web/20130930042729/https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/javascript/federated-analytics.js"></script>
+ <!--Analytics Tracking Code-->
+ <!--Analytics Tracking Code-->
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" async="" src="https://web.archive.org/web/20130930042729/https://ssl.google-analytics.com/ga.js"></script><script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+<script type="text/javascript" src="/javascript/federated-analytics.js"></script>
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-42285881-1',  'doleta.gov']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+<script type="text/javascript">
+if (typeof jQuery != 'undefined') {
+  jQuery(document).ready(function($) {
+    var filetypes = /\.(zip|exe|dmg|pdf|doc.*|xls.*|ppt.*|mp3|txt|rar|wma|mov|avi|wmv|flv|wav)$/i;
+    var baseHref = '';
+    if (jQuery('base').attr('href') != undefined) baseHref = jQuery('base').attr('href');
+
+    jQuery('a').on('click', function(event) {
+      var el = jQuery(this);
+      var track = true;
+      var href = (typeof(el.attr('href')) != 'undefined' ) ? el.attr('href') :"";
+      var isThisDomain = href.match(document.domain.split('.').reverse()[1] + '.' + document.domain.split('.').reverse()[0]);
+      if (!href.match(/^javascript:/i)) {
+    	var elEv = []; elEv.value=0, elEv.non_i=false;
+        if (href.match(/^mailto\:/i)) {
+          elEv.category = "email";
+          elEv.action = "click";
+          elEv.label = href.replace(/^mailto\:/i, '');
+          elEv.loc = href;
+        }
+        else if (href.match(filetypes)) {
+          var extension = (/[.]/.exec(href)) ? /[^.]+$/.exec(href) : undefined;
+          elEv.category = "download";
+          elEv.action = "click-" + extension[0];
+          elEv.label = href.replace(/ /g,"-");
+          elEv.loc = baseHref + href;
+        }
+        else if (href.match(/^https?\:/i) && !isThisDomain) {
+          elEv.category = "external";
+          elEv.action = "click";
+          elEv.label = href.replace(/^https?\:\/\//i, '');
+          elEv.non_i = true;
+          elEv.loc = href;
+        }
+        else if (href.match(/^tel\:/i)) {
+          elEv.category = "telephone";
+          elEv.action = "click";
+          elEv.label = href.replace(/^tel\:/i, '');
+          elEv.loc = href;
+        }
+        else track = false;
+
+       	if (track) {
+          _gaq.push(['_trackEvent', elEv.category.toLowerCase(), elEv.action.toLowerCase(), elEv.label.toLowerCase(), elEv.value, elEv.non_i]);
+          if ( el.attr('target') == undefined || el.attr('target').toLowerCase() != '_blank') {
+            setTimeout(function() { location.href = elEv.loc; }, 400);
+            return false;
+	  }
+	}
+      }
+    });
+  });
+}
+</script>
+<!--CSS Styling-->
 <style>
-
-
-
 #navigation li.selected a { color: #fff; background-color: #4a7194; }
-
-
 #header_new {
 	float:left;  
 	background:url(/images/header_back_new.jpg) repeat-x; 
@@ -33,7 +99,6 @@
 	width:90.1em;
 	heigth:120px;
 }
-
 form input {
 	background-color:#FFF;
 	border:1px #333333 solid;
@@ -43,29 +108,24 @@ form input {
 	text-align:left;
 	font-weight:bold;
 	margin-top:8px;
-	}
-
+}
 #q,  #login {
 	width:190px;
 	padding:2px 5px 2px 5px;
 	font-weight:normal;
 	margin:0;
 	}
-
 #eta-text a{
 	text-decoration:none;
 	font-size:18px;
 	color:#ffffff;
 	margin:0;
-}
-
+	}
 #dol-text a{
 	text-decoration:none;
 	font-size:20px;
 	color:#ffffff;					
 }
-
-
 #top-links a, #top-links{
 	color:#FFF;
 	text-decoration:none;
@@ -74,53 +134,41 @@ form input {
 	text-align:right;
 	font-weight:bold;		
 }
-
 #search-stuff{
 	float:left;
 	width:435px;
 	margin:5px 0 8px 50px;
 	
 }
-
 #move-search-boxes{
 	text-align:right;
 	display:block;
 	margin-top:8px;
-	
-	}
-
+}
 #logo_and_name img{
 	float:left;
 	padding:1px 10px 0 0 ;	
 }
-
-
 #logo_and_name{
 	width:500px;
 	height:40px;
 	float:left;
 	margin:11px 0 8px 10px;
-	}
-
+}
 #header_new #navi { 
 	float:left; 
 	background-color:transparent; 
 	font-size:12px; 
 	margin:4px 0 0 13px;
 	width:100%;
-	
-	}
-
+}
 #header_new #navi ul li {
 	display: block; 
 	float:left; 
 	text-align:center;
 	list-style: none;
 	margin:1px 17px 0 3px;
-	}
-
-
-	
+}
 #header_new #navi ul li a {
 	text-decoration:none; 
 	color:#fff;  
@@ -129,26 +177,20 @@ form input {
 	margin:0; 
 	vertical-align:middle; 
 	padding:8px;
-	} 
-
+} 
 #header_new #navi ul li a:hover {
 	background-color:#ffffff; 
 	color:#990000; 
 	display:block;
-	}
-
-
+}
 #navi .navagation {
 	width:90px;
 	text-align:center;
-	
-	}
-
+}
 #navi .navagation a {
 	text-align:center;
 }
 #q {margin:0px; height:15px;}
-
 #search-button{
 	background-color:#ffffff; 
 	font-size:12px; 
@@ -161,6 +203,256 @@ form input {
 	}		
 </style>
 
+<style type="text/css">
+.utilitybarright {
+text-align:right;
+color:#636363;
+float:right;
+width:30%;
+}
+</style>
+
+<link href="http://webapps.dol.gov/FSPublic/Content/W_Helpful.css" rel="stylesheet">
+
+
+<!--<script src="W_Helpful.js"></script>-->
+
+
+
+<script type="text/javascript">
+var W_Helpful = (function () {
+
+	var TRACKER_URL = 'http://webapps.dol.gov/FSPublic/Data.mvc/Log';
+	var Display_ = '<div id="W_Helpful" style="float:right">'
+		+ '<input type="hidden" id="ResponseYesNo" name="ResponseYesNo" value=""/>'
+		+ '<div id="W_Helpful_question_Div"><div class="W_Helpful_message"><b>'
+		+ '<img src="//www.dol.gov/images/page-rating-star.gif" alt="Feedback Star" id="W_Helpful_Star" />'
+		+ '<a href="javascript:void(0)" id="W_Helpful_question_Link" title="Click here to give your feedback about this page">Was this page helpful?</a></b></div></div>'
+
+		+ '<div id="W_Helpful_yesORno"  style="display:none;">'
+
+		+ '<div id="W_Helpful_yes"><input type="checkbox" id="W_Helpful_accurate-yes" style="vertical-align:middle;"/>'
+		+ '<label  id="xyzYes" for="W_Helpful_accurate-yes">Yes</label>&nbsp&nbsp</div>'
+
+		+ '<div id="W_Helpful_no"><input type="checkbox" id="W_Helpful_accurate-no" style="vertical-align:middle"/>'
+		+ '<label id="xyzNo" for="W_Helpful_accurate-no">No</label>&nbsp&nbsp</div>'
+		+ '</div>'
+		+ '<form>'
+		+ '<div id="W_Helpful_comment" style="display:none;">'
+		+ '<div class="W_Helpful_message" id="W_Helpful_message"><p><label for="W_Helpful_helpful-input">How can we make better? <br />(250 Character max.)</label></p></div><br/>'
+		+ '<textarea id="W_Helpful_helpful-input"></textarea>'
+		+ '<br/><br/><input id="W_Helpful_comment-submit" type="button" value="Submit"/>&nbsp&nbsp<input id="W_Helpful_comment-skip" type="button" value="Skip"/>'
+		+ '<br/><p><hr /></p><p class="feedback">We are collecting this info under OMB clearance number <br/>1225-0059</p>'
+		+ '</div>'
+		+ '</form>'
+
+		+ '<div id="W_Helpful_confirm" style="display:none;">'
+				+ '<p class="feedback" id="FBResponse" tabindex="0" role="alert" data-valmsg-summary="true"><strong>Thank you for your feedback!</strong></p><br/>'
+		+ '<p class="feedback">Please <a href="http://www.dol.gov/dol/contact/" style="text-decoration:underline;">Contact Us</a> if you have any other comments or questions!</p><br/>'
+		+ '<div id="W_Helpful_Close-Confirmation"><p class="feedback">x <a href="javascript:document.url" id="w_Helpful_Close" style="text-decoration:underline;">Close</a></p></div>'
+		+ '</div>'
+
+		+ '</div>';
+
+	var Display_UI = function (prependTo, after) {
+		if (after) 
+		{
+			$(prependTo).prepend(Display_);
+		}
+		else 
+		{
+			$(prependTo).append(Display_);
+		}
+		$('#W_Helpful').show();
+	}
+	return {
+		init: function (prependTo) {
+			
+			var attrName = location.hostname+location.pathname +".isSurveyComplete";
+			if(sessionStorage && sessionStorage.getItem(attrName))
+			{	
+				return;
+			}
+			
+			Display_UI(prependTo);
+
+			$('#W_Helpful_helpful-input').on('keydown', function(){
+
+				var limit = 250
+				var text = $('#W_Helpful_helpful-input').val();
+				var chars = text.length;
+
+				if(chars > limit)
+				{
+					var new_text = text.substr(0, limit);
+					$('#W_Helpful_helpful-input').val(new_text);
+				}
+			});
+
+
+			$('#W_Helpful_Close-Confirmation').on('click', function () {
+				$('#W_Helpful_question_Div').removeAttr("style");
+				var cssObj1 = {
+					'cursor':'pointer',
+					'width':'170px',
+					'font-size':'12px'
+				}
+				$('#W_Helpful_question_Div').css(cssObj1);
+
+				$('#W_Helpful_helpful-input').val('');
+				$('#W_Helpful_accurate-yes').removeAttr('checked');
+				$('#W_Helpful_accurate-no').removeAttr('checked');
+				W_Helpful.Hide('#W_Helpful_confirm');
+			});
+
+			$('#W_Helpful_comment-skip').on('click', function () {
+				W_Helpful.Show('#W_Helpful_confirm');
+				W_Helpful.Hide('#W_Helpful_comment');
+				setTimeout(function() { $('#FBResponse').attr('tabindex', 0).focus(); }, 1000); //ravi focus issue change from w_Helpful_Close to W_Helpful_confirm
+				$('#W_Helpful').remove();
+				
+				var attrName = location.hostname+location.pathname +".isSurveyComplete";
+				if(sessionStorage)
+				{
+					sessionStorage.setItem(attrName,true);
+				}
+			});
+
+			$("#W_Helpful_question_Link").bind( "click keydown", function (evt) {
+				var charCode = (evt.which) ? evt.which : evt.keyCode
+				if (charCode == '13' || charCode  == '0' || charCode == '1' || charCode == undefined) 
+				{
+					/*var cookie_ls = document.cookie;
+					if (cookie_ls.indexOf(document.location) < -1) 
+					{
+						return;
+					}
+					evt.preventDefault();*/
+
+					if( $('#W_Helpful_yesORno').is(':visible')) 
+					{
+						W_Helpful.Hide('#W_Helpful_yesORno');
+						var cssObj1 = 
+						{
+							'cursor':'pointer',
+							'width':'170px',
+							'font-size':'12px'
+						}
+						$('#W_Helpful_question_Div').css(cssObj1);
+						$('#W_Helpful_question_Div').removeAttr("style");
+						return;
+					}
+
+					if( $('#W_Helpful_comment').is(':visible')) 
+					{
+						return;
+					}
+
+					if( $('#W_Helpful_confirm').is(':visible')) 
+					{
+						return;
+					}
+					
+						//document.cookie = "ThisPageHasBeenReviewed=Yes";
+					var cssObj3 = 
+					{
+						'height':'20px',
+						'cursor':'pointer',
+						'width':'170px',
+						'font-size':'12px',
+						'border': '1px solid #D8D5D4',
+						'background-color':'#FAF8CC'
+					}
+			
+					$('#W_Helpful_question_Div').css(cssObj3); 
+
+					W_Helpful.Show('#W_Helpful_yesORno');
+
+					setTimeout(function() { $('#W_Helpful_accurate-yes').focus(); }, 1000);
+				}
+			});
+
+			$('#W_Helpful_accurate-yes').bind( "click keydown", function (evt) {
+				var charCode = (evt.which) ? evt.which : evt.keyCode
+				if (charCode == '13' || charCode  == '0' || charCode == '1' || charCode == undefined) 
+				{
+					//document.cookie = window.location.href;
+					//alert(window.location.href + " from " + document.referrer + "; path=/;")
+					$('#ResponseYesNo').val('yes');
+					W_Helpful.Hide('#W_Helpful_yesORno');
+					$("#W_Helpful_message").html("<p style=font-size:12px;text-align:Center><label style=font-size:12px for=W_Helpful_helpful-input><strong>Great, can we make it even better?</strong><br />(250 Character max.)</label></p>");
+					W_Helpful.TakeResponse('yes', '', 'q');
+					W_Helpful.Show('#W_Helpful_comment');
+					setTimeout(function() { $('#W_Helpful_helpful-input').focus(); }, 1000);
+				}
+			});
+
+			$('#W_Helpful_accurate-no').bind( "click keydown", function (evt) {
+				var charCode = (evt.which) ? evt.which : evt.keyCode
+				if (charCode == '13' || charCode  == '0' || charCode == '1' || charCode == undefined) 
+				{
+					//document.cookie = window.location.href;
+					$("#W_Helpful_message").html("<p style=font-size:12px;text-align:Center><label style=font-size:12px for=W_Helpful_helpful-input><strong>How can we make it better?</strong> <br />(250 Character max.)</label></p>");
+					$('#ResponseYesNo').val('no');
+					W_Helpful.Hide('#W_Helpful_yesORno');
+					W_Helpful.TakeResponse('no', '', 'q');
+					W_Helpful.Show('#W_Helpful_comment');
+					setTimeout(function() { $('#W_Helpful_helpful-input').focus(); }, 1000);
+				}
+			});
+
+			$('#W_Helpful_comment-submit').on('click', function () {
+				if (jQuery.trim($('#W_Helpful_helpful-input').val()) != '')
+				{
+					W_Helpful.TakeResponse($('#ResponseYesNo').val(), $('#W_Helpful_helpful-input').val(), 'c');
+				}
+				W_Helpful.Hide('#W_Helpful_comment');
+				W_Helpful.Show('#W_Helpful_confirm');
+				setTimeout(function() { $('#FBResponse').attr('tabindex', 0).focus(); }, 1000); //Ravi changes from w_Helpful_Close to W_Helpful_confirm
+				$('#W_Helpful').remove();
+				
+				var attrName = location.hostname+location.pathname +".isSurveyComplete";
+				if(sessionStorage)
+				{
+					sessionStorage.setItem(attrName,true);
+				}
+				
+			});
+		},
+		TakeResponse: function (quest, commt, PostType) {
+			var logTo = TRACKER_URL;
+			var pageUrl = document.URL;
+			if (typeof XDomainRequest != 'undefined') 
+			{
+				//alert("?dolurl=" + pageUrl + "&question=" + quest + "&suggestion=" + commt + "&posttype=" + PostType);
+				var xdr = new XDomainRequest();
+				xdr.open("GET", logTo + "?question=" + quest + "&suggestion=" + commt + "&posttype=" + PostType + "&dolurl=" + pageUrl);
+				xdr.send();
+				xdr.onload = function () {/*alert('Checking IE Response');*/}
+			} 
+			else 
+			{
+				$.getJSON(logTo, { dolurl: pageUrl, question: quest, suggestion: commt, posttype: PostType });
+			}
+		},
+		Hide: function (selector) {
+			$(selector).slideUp('slow');
+		},
+
+		Show: function (selector) {
+			$(selector).slideDown('slow');
+		}
+	}
+})();
+</script>
+
+<script type="text/JavaScript">
+  $(document).ready(function() {
+   W_Helpful.init('#fbcontent');
+  });
+</script>
+
+
 <!--end head style-->
 
 <div style="display:none;"><a href="#content">Skip to content</a></div>
@@ -171,7 +463,7 @@ form input {
   
   <span id="dol-text"><a href="http://www.dol.gov">UNITED STATES DEPARTMENT OF LABOR </a></span><br>
 
-<span id="eta-text"><a href="http://www.dol.gov">Employment &amp; Training Administration</a></span>
+<span id="eta-text"><a href="http://www.dol.gov">Employment and Training Administration</a></span>
 
 </div>
 
@@ -234,8 +526,10 @@ form input {
 	        highlightHeaderTab('etainfo');
     </script>
 
- <div style="background-color:#FFF; padding-bottom:5px;" id="crumb">
+ <div style="background-color:#FFF;" id="crumb">
   
+
+
 
 &nbsp;
 
@@ -261,8 +555,12 @@ form input {
 	}
 	</script>Privacy and Security Statement
 &nbsp; 
-</div>
 
+    
+  
+
+
+</div>
 
 
 
