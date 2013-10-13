@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the joblur.com privacy policy that was archived on 2013-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130525123405id_/http%3A//joblur.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the joblur.com privacy policy that was archived on 2013-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131013054203id_/http%3A//joblur.com/Privacy) for the most accurate reproduction.*
 
 # Privacy
 
