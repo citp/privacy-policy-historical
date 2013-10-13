@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the go-dove.com privacy policy that was archived on 2013-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130528193512id_/http%3A//www.go-dove.com/en/info/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the go-dove.com privacy policy that was archived on 2013-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131013234704id_/http%3A//www.go-dove.com/en/info/privacy.asp) for the most accurate reproduction.*
 
 # GoIndustry DoveBid Privacy Policy - GoIndustry DoveBid
 
