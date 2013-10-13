@@ -1,14 +1,17 @@
-<!--The following is the downloaded HTML source of the icims.com privacy policy that was archived on 2013-01-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130126095442id_/http%3A//www.icims.com/legal_privacy_policy_2013.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the icims.com privacy policy that was archived on 2013-10-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131013093227id_/http%3A//www.icims.com/legal_privacy_policy_2013.aspx) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml"><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><link media="all" rel="stylesheet" type="text/css" href="/new-css/all.css?id=20130104">
+<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml"><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><link media="all" rel="stylesheet" type="text/css" href="/new-css/all.css?id=20130322">
 	<!--![if IE 7]>
 		<link media="all" rel="stylesheet" type="text/css" href="/new-css/ie.css" />
+	<![endif]-->
+	<!--[if IE 7]>
+		<link media="all" rel="stylesheet" type="text/css" href="/new-css/ie7.css" />
 	<![endif]-->
 	<!--[if lte IE 8]>
 		<link media="all" rel="stylesheet" type="text/css" href="/new-css/ie-opacity.css" />
 	<![endif]-->
-	<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7/jquery.min.js"></script>
+	<script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script id="twitter-wjs" src="http://platform.twitter.com/widgets.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1"></script><script async="" src="//s.btstatic.com/tag.js#site=9XRUU1O"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7/jquery.min.js"></script>
 	<script src="/new-js/main.js" type="text/javascript"></script>
 	<!-- Add mousewheel plugin (this is optional) -->
 	<script type="text/javascript" src="/new-js/jquery.mousewheel-3.0.6.pack.js"></script>
@@ -78,6 +81,7 @@
 				$('.drop-employees').hide();
 			})
 			$('.demo img').click(function() {
+				
 					var category = $(this).attr('id');
 					var parent = $(this).parent();
 					$('#s4 option[value=' + category + ']').attr('selected', 'selected');
@@ -89,14 +93,6 @@
 				  parent.parent().find('.selected').show();
 		});
 		
-		
-		$('.info-list li a').click(function() {
-			var category = $(this).attr('href').substr(1).toLowerCase().replace(/\s/g,'');
-			$(this).parent().parent().children('li').removeClass('active');
-			$(this).parent().addClass('active');
-			$('ul.customer-list').hide();
-			$('.' + category).show();
-		});
 			$('.drop li:last-child').css('background', 'none');
 			$('#nav > ul > li').hover(
 				function() {
@@ -154,16 +150,17 @@
 			<h1 class="logo"><a href="/">iCIMS Hire Expectations™</a></h1>
 			<div class="holder">
 				<nav id="nav">
-				<ul><li class="sub"><a href="#"><span>Explore <em class="nav-subtext">It</em></span></a>
+				<ul><li class="sub" id="exploreit-nav"><a href="/exploreit.aspx"><span>Explore <em class="nav-subtext">It</em></span></a>
 					<div class="drop"><ul>
-					<li><a href="/exploreit_connect.aspx">Connect</a></li>
-					<li><a href="/exploreit_recruit.aspx">Recruit</a></li>
-					<li><a href="/exploreit_onboard.aspx">Onboard</a></li>
+					<li id="explorit-connect"><a href="/exploreit_connect.aspx">Connect</a></li>
+					<li id="explorit-recruit"><a href="/exploreit_recruit.aspx">Recruit</a></li>
+					<li id="explorit-onboard"><a href="/exploreit_onboard.aspx">Onboard</a></li>
+					<li id="explorit-recruitment"><a href="/recruitment_select.aspx">Related Solutions</a></li>
 					</ul>
 				</div></li>
 <li><a href="/experienceit.aspx"><span>Experience <em class="nav-subtext">It</em></span>
 </a></li>
-<li><a href="/getit_select.aspx"><span>Get <em class="nav-subtext">It</em></span>
+<li><a href="/getit_pricing.aspx"><span>Get <em class="nav-subtext">It</em></span>
 </a></li>
 <li><a href="/loveit.aspx"><span>Love <em class="nav-subtext">It</em></span>
 </a></li>
@@ -174,6 +171,7 @@
 					<li><a href="http://twitter.com/#!/icims" target="_blank" class="twitter">twitter</a></li>
 					<li><a href="http://www.icims.com/iRSS.xml" class="rss">rss</a></li>
 				</ul>
+				<a class="header-faq" href="/resources_faqs.aspx">Help/FAQs</a>
 			</div>
 		</header>
 		
@@ -286,17 +284,21 @@
 					<footer id="footer">
 			<div class="panel-info">
 				<div class="holder">
-					<div class="frame">
+					<div id="footer-ticker" class="frame">
 						<dl>					
 							<dt><a class="newsbar" href="/news_press_releases.aspx">NEWS:</a></dt>
-							<dd><span id="ctl00_lblNewsDate">01.23.2013</span> - <a id="ctl00_lnkNewsTitle" class="newsbar" title="iCIMS to Attend Talent Management Summit for Healthcare Sector in Houston" href="/news_press_releases.aspx?id=363">iCIMS to Attend Talent Management Summit for Healthcare Sector in Houston</a></dd>
+							<dd><span id="ctl00_lblNewsDate">10.03.2013</span> - <a id="ctl00_lnkNewsTitle" class="newsbar" title="iCIMS Talent Platform 13.2: Enhancing the Candidate Experience and Putting More Power in the Hands of HR Professionals" href="/news_press_releases.aspx?id=407">iCIMS Talent Platform 13.2: Enhancing the Candidate Experience and Putting More Power in ...</a></dd>
+						</dl>
+						<dl>					
+							<dt><a class="newsbar" href="/news_press_releases.aspx">HR BUZZ:</a></dt>
+							<dd><a id="ctl01_lnkNewsTitle" class="newsbar" title="The Future Is Here: Apply for Jobs via Mobile with LinkedIn" href="/Hire-Expectations_HR-Buzz.aspx">The Future Is Here: Apply for Jobs via Mobile with LinkedIn</a></dd>
 						</dl>
 					</div>
 				</div>
 			</div>
 			<div class="footer-holder">
 				
-<p>iCIMS is the leading provider of talent acquisition software solutions for growing businesses.  iCIMS' Talent Platform, the industry's premier candidate management solution, enables organizations to manage their entire talent acquisition lifecycle from sourcing, to recruiting, to onboarding all within a single web-based application. With more than 1,400 clients worldwide, iCIMS is one of the largest and fastest-growing talent acquisition system providers with offices in North America, UK, and China. </p>
+<p>iCIMS is the leading provider of talent acquisition software solutions for growing businesses.  iCIMS' Talent Platform, the industry's premier candidate management solution, enables organizations to manage their entire talent acquisition lifecycle from sourcing, to recruiting, to onboarding all within a single web-based application. With more than 1,700 clients worldwide, iCIMS is one of the largest and fastest-growing talent acquisition system providers with offices in North America, UK, and China. </p>
 				<nav>
 					<ul>
 						<li>
@@ -305,22 +307,34 @@
 								<li><a href="/people_story.aspx">Our Story</a></li>
 								<li><a href="/people_management.aspx">Management</a></li>
 								<li><a href="/people_givingback.aspx">Giving Back</a></li>
-								<li><a href="http://www.icims.com/careers" target="_blank">Join Us</a></li>
+								<li><a href="http://www.icims.com/careers" target="_blank">Join Our Team</a></li>
 							</ul>
 						</li>
 						<li>
 							<strong>OUR DIFFERENCE</strong>
 							<ul>
 								<li><a href="/difference_icare.aspx">iCARE</a></li>
+								<li><a href="/resources_technology.aspx">Technology</a></li>
+								<li><a href="/resources_hosting.aspx">Hosting</a></li>
+								<li><a href="/resources_pure_saas.aspx">Pure SaaS</a></li>
+								<li><a href="/resources_integrations.aspx">Integrations</a></li>
 							</ul>
 						</li>
 						<li>
 							<strong>RESOURCES</strong>
 							<ul>
-								<li><a href="/resources_technology.aspx">Technology</a></li>
-								<li><a href="/resources_white_papers.aspx">White Papers</a></li>
-								<li><a href="/resources_webcasts.aspx">Webcasts</a></li>
-								<li><a href="/resources_faqs.aspx">FAQs + Glossary</a></li>
+								<li><a href="/resources_faqs.aspx">Help/FAQs</a></li>
+								<li><a href="/glossary.aspx">Glossary</a></li>
+							</ul>
+						</li>
+						<li>
+							<strong>HIRE EXPECTATIONS</strong>
+							<ul>
+								<li><a href="/Hire-Expectations.aspx">About HEI</a></li>
+								<li><a href="/Hire-Expectations_Reach.aspx">Reaching Candidates</a></li>
+								<li><a href="/Hire-Expectations_Scale.aspx">Scaling Your Systems</a></li>
+								<li><a href="/Hire-Expectations_Optimize.aspx">Optimizing Processes</a></li>
+								<li><a href="/Hire-Expectations_HR-Buzz.aspx">HR Buzz</a></li>
 							</ul>
 						</li>
 						<li>
@@ -337,8 +351,6 @@
 							<strong>CONNECT</strong>
 							<ul>
 								<li><a href="/connect_contact.aspx">Contact / Locations</a></li>
-								<li><a href="http://care.icims.com/" target="_blank">Customer Care</a></li>
-								<li><a href="http://www.icims.com/careers" target="_blank">Careers</a></li>
 								<li><a href="/connect_partners.aspx">Become a Partner</a></li>
 							</ul>
 						</li>
@@ -355,24 +367,26 @@
 			<div class="opt-in-field">
 				<input name="email" class="field" type="textbox" placeholder="Enter Email">
 			</div>
+			<div class="opt-in-match">
+				<input name="email-match" class="field" type="textbox" placeholder="Enter Email">
+			</div>
 			<div class="opt-in-submit">
 				<input name="btnSubmit" class="submit" type="submit">
 			</div>
-			<div class="privacy">
-				<p>Review our <a href="/legal_privacy_policy_2013.aspx">privacy policy</a> for more information</p>
-			</div>
 		</form>
 	</div>
-	<div id="opt-in-loading-pnl" style="display:none"></div>
-	<div id="opt-in-thanks-pnl" style="display:none">
-		<div class="opt-in-thanks">You have been subscribed to iCIMS' communications!</div>
+	<div id="opt-in-loading-pnl"></div>
+	<div id="opt-in-thanks-pnl">
+		<div class="opt-in-thanks">You have been subscribed to iCIMS' communications! Thank you for your interest.</div>
 	</div>
 </div>
+<style type="text/css">
+	.opt-in-match{
+		display:none;
+	}
+</style>
 <script type="text/javascript">
 	$(document).ready(function(){
-		$('#opt-in-loading-pnl').css('display', 'block');
-		$('#opt-in-thanks-pnl').css('display', 'block');
-	
 		$('#opt-in-error-pnl').hide();
 		$('#opt-in-pnl').show();
 		$('#opt-in-loading-pnl').hide();
@@ -420,7 +434,7 @@
 				<p class="legal">
 © Copyright 2013 <a href="http://www.icims.com">iCIMS, Inc.</a> All rights reserved.
 
-<br><a href="/legal_privacy_policy_2013.aspx">Privacy Policy</a> | <a href="/legal_terms-of-use.aspx">Terms of Use</a></p>
+<br><a href="/legal_privacy_policy_2013.aspx">Privacy Policy</a> - Our Privacy Policy contains our policies regarding cookies and other tracking processes. | <a href="/legal_terms-of-use.aspx">Terms of Use</a></p>
 			</div>
 		</footer>
 	</div>
@@ -436,6 +450,8 @@
 
   var _gaq = _gaq || [];
   _gaq.push(['_setAccount', 'UA-192328-1']);
+  var pluginUrl = '//www.google-analytics.com/plugins/ga/inpage_linkid.js';
+  _gaq.push(['_require', 'inpage_linkid', pluginUrl]);
   _gaq.push(['_setDomainName', 'www.icims.com']);
   _gaq.push(['_setAllowLinker', true]);
   _gaq.push(['_trackPageview']);
@@ -462,20 +478,6 @@ document.write(unescape("%3Cscript src='" + piProtocol + "pi.pardot.com/pi.js' t
 	piTracker();
 -->
 </script>
-
-<script type="text/javascript"> 
-var domainy = location.protocol == "https:" ? 
-"https://leads.demandbase.com" : "http://leads.demandbase.com"; 
-document.write(unescape("%3Cscript src='" + 
- domainy +"/264079.js' type='text/javascript'%3E%3C/script%3E"));</script><script src="https://leads.demandbase.com/264079.js" type="text/javascript"></script> 
-<noscript><p> 
-<img alt="Demandbase Connect" width="1" height="1" 
- src="http://leads.demandbase.com/264079ns.gif" /> 
-</p></noscript> 
-<noscript><p><a href="http://www.demandbase.com"> 
-<img src="http://www.demandbase.com/images/stream/demandbase.gif" 
-alt="Demandbase" width="1" height="1" /></a></p></noscript> 
-
 
 
 <!-- AOL retargeting -->
@@ -506,6 +508,40 @@ window.onload = function(){
 }());
 </script>
 <!-- end AdRoll -->
+
+<!-- BrightTag Pixel -->
+<script type="text/javascript">
+  (function () {
+    var tagjs = document.createElement("script");
+    var s = document.getElementsByTagName("script")[0];
+    tagjs.async = true;
+    tagjs.src = "//s.btstatic.com/tag.js#site=9XRUU1O";
+    s.parentNode.insertBefore(tagjs, s);
+  }());
+</script>
+<noscript>
+  <iframe src="//s.thebrighttag.com/iframe?c=9XRUU1O" width="1" height="1" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe>
+</noscript>
+<!-- end BrightTag -->
 </div>
+	<div id="fb-root"></div>
+	<script>(function(d, s, id) {
+	  var js, fjs = d.getElementsByTagName(s)[0];
+	  if (d.getElementById(id)) return;
+	  js = d.createElement(s); js.id = id;
+	  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+	  fjs.parentNode.insertBefore(js, fjs);
+	}(document, 'script', 'facebook-jssdk'));</script>
+	
+	<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="http://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+	<!--<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>-->
+
+	<script type="text/javascript">
+	  (function() {
+		var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+		po.src = 'https://apis.google.com/js/plusone.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+	  })();
+	</script>
 
 </body></html>
