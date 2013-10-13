@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the artistaloud.com privacy policy that was archived on 2013-04-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130425112925id_/http%3A//www.artistaloud.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the artistaloud.com privacy policy that was archived on 2013-10-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131013200047id_/http%3A//www.artistaloud.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:og="http://opengraph.org/schema/" class="cufon-active cufon-ready"><head>
  <script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
@@ -93,13 +93,59 @@ var google_remarketing_only = true;
  
 	
 	<script type="text/javascript">
+            
+            $(document).ready(function(){
+            var os = (function() {
+                var ua = navigator.userAgent.toLowerCase();
+                return {
+                    isWin2K: /windows nt 5.0/.test(ua),
+                    isXP: /windows nt 5.1/.test(ua),
+                    isVista: /windows nt 6.0/.test(ua),
+                    isWin7: /windows nt 6.1/.test(ua)
+                };
+            }());
+            function getInternetExplorerVersion() {
+
+                var rv = -1; // Return value assumes failure.
+
+                if (navigator.appName == 'Microsoft Internet Explorer') {
+
+                        var ua = navigator.userAgent;
+
+                        var re = new RegExp("MSIE ([0-9]{1,}[\.0-9]{0,})");
+
+                        if (re.exec(ua) != null)
+
+                        rv = parseFloat(RegExp.$1);
+//                        rv= rv+1;
+
+                }
+                return rv;
+
+            }
+           /* var version = getInternetExplorerVersion();
+            
+            if(os.isXP && (version == 8 || version == 9)) {
+                var txt = "<img src='/themes/aaloud/images/IE10_upgrade.png' width='180' height='16' usemap='#Map3' border='0' /><map name='Map3' id='Map3'><area shape='rect' coords='108,-3,233,16' href='http://clk.atdmt.com/INM/go/449567453/direct/01/' target='_blank' /></map>";
+             }else if(os.isWin7 && (version == 8 || version == 9)){
+                var txt = "<img src='/themes/aaloud/images/IE10_upgrade.png' width='180' height='16' usemap='#Map4' border='0' /><map name='Map4' id='Map4'><area shape='rect' coords='108,-3,233,16' href='http://clk.atdmt.com/INM/go/449567452/direct/01/' target='_blank' /></map>";
+             }else if(version == 10){
+                 var txt = "<img src='/themes/aaloud/images/IE10_learn.png' width='180' height='16' usemap='#Map1' border='0' /><map name='Map1' id='Map1'><area shape='rect' coords='109,-2,181,16' href='http://clk.atdmt.com/INM/go/449567454/direct/01/' target='_blank' /></map>";
+            }else if(navigator.appName == "Netscape"){
+                var txt = "<img src='/themes/aaloud/images/IE10.png' width='180' height='16' usemap='#Map' border='0' /><map name='Map' id='Map'><area shape='rect' coords='109,-2,181,16' href='http://clk.atdmt.com/INM/go/449567451/direct/01/' target='_blank' /></map>";
+            }*/
+            
+            //            alert(txt);
+           // $(".ie10_holder").html(txt);
+                    });
+        
         $(document).ready(function(){
           $(".radio").dgStyle();
           //$(".checkbox").dgStyle();
         });
         /*Call back for Custom font*/
         Cufon.replace('h2.title-block');
-        Cufon.replace('h2.page-title-block');
+        Cufon.replace('h1.page-title-block');
         Cufon.replace('.font-mole');
         /*Call back for scrollbar*/
         $(function()
@@ -146,7 +192,7 @@ var google_remarketing_only = true;
 	
   <script type="text/javascript">
         /*Call back for Custom font*/
-		Cufon.replace('h2.page-title-block');
+		Cufon.replace('h1.page-title-block');
 		Cufon.replace('h3.sub-page-title-block');
 		Cufon.replace('h3.art_title');
 		Cufon.replace('h2.artist-title-block');
@@ -439,7 +485,7 @@ a.jp-volume-max:hover {
   
    
    <div class="header-wrap">
-   		<div class="header">
+   		<div class="header" style="height:210px">
         <!-- Panel -->
     					
 <div id="toppanel-in">
@@ -464,7 +510,8 @@ a.jp-volume-max:hover {
     </div>
   </div>
   <!-- The tab on top -->
-  <div class="tab">
+<div class="tab">
+   
     <div class="up-image-in">
       <!--<img src="images/temp/player.png" alt="">-->
       <div id="jquery_jplayer_2" class="jp-jplayer" style="width: 290px; height: 0px;"><img id="jp_poster_0" style="width: 290px; height: 0px; display: none;"><audio id="jp_audio_0" preload="metadata"></audio></div>
@@ -511,6 +558,12 @@ a.jp-volume-max:hover {
 			
     	<!-- Panel -->
         	<div class="logo-in"><a href="/"></a></div>
+                <div class="ie10_holder" style="width:357px;height:20px;position: absolute;top:185px;padding: 0 0 0 10px;">
+				<!--Iframe Tag  -->
+				<!-- begin ZEDO for channel:  AA Homepage , publisher: Artist Aloud , Ad Dimension: BH Homepage - 357 x 15 -->
+				<iframe src="http://c2.zedo.com/jsc/c2/ff2.html?n=585;c=883;s=44;d=27;w=357;h=15" frameborder="0" marginheight="0" marginwidth="0" scrolling="no" allowtransparency="true" width="357" height="15"></iframe>
+				<!-- end ZEDO for channel:  AA Homepage , publisher: Artist Aloud , Ad Dimension: BH Homepage - 357 x 15 -->
+                </div>
 					
         	<!--<div class="rt-player"><img src="images/temp/player.png" alt=""></div>-->
 			
@@ -560,15 +613,15 @@ alert(" You have no Items in Cart! ");
             <span class="wpmega-link-title font-mole"><cufon class="cufon cufon-canvas" alt="New " style="width: 44px; height: 20px;"><canvas width="58" height="20" style="width: 58px; height: 20px; top: 1px; left: 0px;"></canvas><cufontext>New </cufontext></cufon><cufon class="cufon cufon-canvas" alt="Artists" style="width: 56px; height: 20px;"><canvas width="68" height="20" style="width: 68px; height: 20px; top: 1px; left: 0px;"></canvas><cufontext>Artists</cufontext></cufon></span>
             <ul class="sub-menu sub-menu-2">
                             
-			                  <li id="menu-item-62" class="menu-item menu-item-type-custom menu-item-object-custom ss-nav-menu-item-depth-2"><span> <a class="wpmega-link-title ml10" href="/artists/Mona-Roy/1443269">Mona Roy</a> 
+			                  <li id="menu-item-62" class="menu-item menu-item-type-custom menu-item-object-custom ss-nav-menu-item-depth-2"><span> <a class="wpmega-link-title ml10" href="/artists/saMcara/3206849">saMcara</a> 
                   </span></li>
-                              <li id="menu-item-62" class="menu-item menu-item-type-custom menu-item-object-custom ss-nav-menu-item-depth-2"><span> <a class="wpmega-link-title ml10" href="/artists/Ayaz-Ismail/1443272">Ayaz Ismail</a> 
+                              <li id="menu-item-62" class="menu-item menu-item-type-custom menu-item-object-custom ss-nav-menu-item-depth-2"><span> <a class="wpmega-link-title ml10" href="/artists/Nostalgia/2941167">Nostalgia</a> 
                   </span></li>
-                              <li id="menu-item-62" class="menu-item menu-item-type-custom menu-item-object-custom ss-nav-menu-item-depth-2"><span> <a class="wpmega-link-title ml10" href="/artists/GD-Prasad/47600">GD Prasad</a> 
+                              <li id="menu-item-62" class="menu-item menu-item-type-custom menu-item-object-custom ss-nav-menu-item-depth-2"><span> <a class="wpmega-link-title ml10" href="/artists/Chithira---Archan-Ft.-Kuhoo-and-Jash/2941168">Chithira - Archan ..</a> 
                   </span></li>
-                              <li id="menu-item-62" class="menu-item menu-item-type-custom menu-item-object-custom ss-nav-menu-item-depth-2"><span> <a class="wpmega-link-title ml10" href="/artists/Tripwire---Disenfranchised-In-India/1042133">Tripwire - Disenfr..</a> 
+                              <li id="menu-item-62" class="menu-item menu-item-type-custom menu-item-object-custom ss-nav-menu-item-depth-2"><span> <a class="wpmega-link-title ml10" href="/artists/Peddy-Jey/2277348">Peddy Jey</a> 
                   </span></li>
-                              <li id="menu-item-62" class="menu-item menu-item-type-custom menu-item-object-custom ss-nav-menu-item-depth-2"><span> <a class="wpmega-link-title ml10" href="/artists/Nigel-%26amp%3B-Madhuparna/1042629">Nigel &amp; Madhup..</a> 
+                              <li id="menu-item-62" class="menu-item menu-item-type-custom menu-item-object-custom ss-nav-menu-item-depth-2"><span> <a class="wpmega-link-title ml10" href="/artists/Metro-Tashan---Rishi-S-Ft.-Kuhoo-Gupta/2277349">Metro Tashan - Ris..</a> 
                   </span></li>
               			  
 			  
@@ -583,11 +636,11 @@ alert(" You have no Items in Cart! ");
             <span class="wpmega-link-title font-mole"><cufon class="cufon cufon-canvas" alt="Popular " style="width: 71px; height: 20px;"><canvas width="85" height="20" style="width: 85px; height: 20px; top: 1px; left: 0px;"></canvas><cufontext>Popular </cufontext></cufon><cufon class="cufon cufon-canvas" alt="Artists" style="width: 56px; height: 20px;"><canvas width="68" height="20" style="width: 68px; height: 20px; top: 1px; left: 0px;"></canvas><cufontext>Artists</cufontext></cufon></span>
             <ul class="sub-menu sub-menu-2">
                               <li id="menu-item-50" class="menu-item menu-item-type-custom menu-item-object-custom ss-nav-menu-item-depth-2"> 
-                  <a class="wpmega-link-title" href="/artists/Raja-Hasan/5614">Raja Hasan</a>                                </li><li id="menu-item-50" class="menu-item menu-item-type-custom menu-item-object-custom ss-nav-menu-item-depth-2"> 
-                  <a class="wpmega-link-title" href="/artists/Neeti-Mohan/93940">Neeti Mohan</a>                                </li><li id="menu-item-50" class="menu-item menu-item-type-custom menu-item-object-custom ss-nav-menu-item-depth-2"> 
-                  <a class="wpmega-link-title" href="/artists/Ali-Haider/95083">Ali Haider</a>                                </li><li id="menu-item-50" class="menu-item menu-item-type-custom menu-item-object-custom ss-nav-menu-item-depth-2"> 
-                  <a class="wpmega-link-title" href="/artists/Faridoon-Shahryar/36904">Faridoon Shahryar</a>                                </li><li id="menu-item-50" class="menu-item menu-item-type-custom menu-item-object-custom ss-nav-menu-item-depth-2"> 
-                  <a class="wpmega-link-title" href="/artists/Nigel-%26-Madhuparna/1042629">Nigel &amp; Madhuparna</a>                              </li><li class="detailsa pt10 pl5"><a href="/artists/popular-artists">More</a> </li>
+                  <a class="wpmega-link-title" href="/artists/Mehreen-Mahmud/42441">Mehreen Mahmud</a>                                </li><li id="menu-item-50" class="menu-item menu-item-type-custom menu-item-object-custom ss-nav-menu-item-depth-2"> 
+                  <a class="wpmega-link-title" href="/artists/Tamir-Khan/38146">Tamir Khan</a>                                </li><li id="menu-item-50" class="menu-item menu-item-type-custom menu-item-object-custom ss-nav-menu-item-depth-2"> 
+                  <a class="wpmega-link-title" href="/artists/Kuhoo-Gupta/37331">Kuhoo Gupta</a>                                </li><li id="menu-item-50" class="menu-item menu-item-type-custom menu-item-object-custom ss-nav-menu-item-depth-2"> 
+                  <a class="wpmega-link-title" href="/artists/Rashid-Ali/5952">Rashid Ali</a>                                </li><li id="menu-item-50" class="menu-item menu-item-type-custom menu-item-object-custom ss-nav-menu-item-depth-2"> 
+                  <a class="wpmega-link-title" href="/artists/Ankur-Tewari/16646">Ankur Tewari</a>                              </li><li class="detailsa pt10 pl5"><a href="/artists/popular-artists">More</a> </li>
             </ul>
           </li>
           <div style="border:1px solid #cccccc; height:184px; float:left;"></div>
@@ -651,7 +704,7 @@ alert(" You have no Items in Cart! ");
            
 <style>.pad-adjust{ padding:0px 5px 0 0 !important;}</style>
             <div style="width:280px; padding:3px 0 3px 5px;">
-              <a class="wpmega-link-title pad-adjust len-text" href="/artists/genre/Acoustic-Ballad/744">Acoustic Ballad</a><a class="wpmega-link-title pad-adjust len-text" href="/artists/genre/Acoustic-pop/691">Acoustic pop</a><a class="wpmega-link-title pad-adjust len-text" href="/artists/genre/Album-Launch/729">Album Launch</a><a class="wpmega-link-title pad-adjust len-text" href="/artists/genre/Alternative-Acoustic-Rock/809">Alternative Acoustic Rock</a><a class="wpmega-link-title pad-adjust len-text" href="/artists/genre/Alternative-Metal/788">Alternative Metal</a>            </div>
+              <a class="wpmega-link-title pad-adjust len-text" href="/artists/genre/3rd-Annual-Awards/823">3rd Annual Awards</a><a class="wpmega-link-title pad-adjust len-text" href="/artists/genre/Acoustic-Ballad/744">Acoustic Ballad</a><a class="wpmega-link-title pad-adjust len-text" href="/artists/genre/Acoustic-pop/691">Acoustic pop</a><a class="wpmega-link-title pad-adjust len-text" href="/artists/genre/Album-Launch/729">Album Launch</a><a class="wpmega-link-title pad-adjust len-text" href="/artists/genre/Alternative-Acoustic-Rock/809">Alternative Acoustic Rock</a>            </div>
             <ul class="sub-menu sub-menu-2">
               <li class="detailsa pt10 pl5"><a href="/artists/genres">All Genres</a></li>
             </ul>
@@ -664,15 +717,15 @@ alert(" You have no Items in Cart! ");
 <li id="menu-item-61" class="menu-item menu-item-type-custom menu-item-object-custom ss-nav-menu-item-depth-1"><span class="wpmega-link-title font-mole"><cufon class="cufon cufon-canvas" alt="New " style="width: 44px; height: 20px;"><canvas width="58" height="20" style="width: 58px; height: 20px; top: 1px; left: 0px;"></canvas><cufontext>New </cufontext></cufon><cufon class="cufon cufon-canvas" alt="Videos" style="width: 56px; height: 20px;"><canvas width="69" height="20" style="width: 69px; height: 20px; top: 1px; left: 0px;"></canvas><cufontext>Videos</cufontext></cufon></span>
             <ul class="sub-menu sub-menu-2">
              
-                              <li id="menu-item-62" class="menu-item menu-item-type-custom menu-item-object-custom ss-nav-menu-item-depth-2"><span><a class="wpmega-link-title ml10" href="/videos/Palkon-Ko-Bhigoyen-Kaise/1789719">Palkon Ko Bhigoyen..</a></span></li>
+                              <li id="menu-item-62" class="menu-item menu-item-type-custom menu-item-object-custom ss-nav-menu-item-depth-2"><span><a class="wpmega-link-title ml10" href="/videos/Bapu/2168724">Bapu</a></span></li>
 
-                              <li id="menu-item-62" class="menu-item menu-item-type-custom menu-item-object-custom ss-nav-menu-item-depth-2"><span><a class="wpmega-link-title ml10" href="/videos/Raja-Hasan---Episode/1769673">Raja Hasan - Episode</a></span></li>
+                              <li id="menu-item-62" class="menu-item menu-item-type-custom menu-item-object-custom ss-nav-menu-item-depth-2"><span><a class="wpmega-link-title ml10" href="/videos/Galli-Ke-Kutte/2160431">Galli Ke Kutte</a></span></li>
 
-                              <li id="menu-item-62" class="menu-item menu-item-type-custom menu-item-object-custom ss-nav-menu-item-depth-2"><span><a class="wpmega-link-title ml10" href="/videos/Live-Performance-Ghar-Aao/1769679">Live Performance G..</a></span></li>
+                              <li id="menu-item-62" class="menu-item menu-item-type-custom menu-item-object-custom ss-nav-menu-item-depth-2"><span><a class="wpmega-link-title ml10" href="/videos/Jabse-Dekha-Hai-Tujhe/2168723">Jabse Dekha Hai Tu..</a></span></li>
 
-                              <li id="menu-item-62" class="menu-item menu-item-type-custom menu-item-object-custom ss-nav-menu-item-depth-2"><span><a class="wpmega-link-title ml10" href="/videos/Live-Performance-Alha-Re-Alha/1769680">Live Performance A..</a></span></li>
+                              <li id="menu-item-62" class="menu-item menu-item-type-custom menu-item-object-custom ss-nav-menu-item-depth-2"><span><a class="wpmega-link-title ml10" href="/videos/Metro-Tashan---Rishi-S-Ft.-Kuhoo-Gupta/2126293">Metro Tashan - Ris..</a></span></li>
 
-                              <li id="menu-item-62" class="menu-item menu-item-type-custom menu-item-object-custom ss-nav-menu-item-depth-2"><span><a class="wpmega-link-title ml10" href="/videos/Live-Performance-Sudh-Budh-Khoi/1769681">Live Performance S..</a></span></li>
+                              <li id="menu-item-62" class="menu-item menu-item-type-custom menu-item-object-custom ss-nav-menu-item-depth-2"><span><a class="wpmega-link-title ml10" href="/videos/Yeh-Hindustaan-Mera/2036197">Yeh Hindustaan Mera</a></span></li>
 
                             <li class="detailsa pt10 pl5"><a href="/videos">All Video</a></li>
             </ul>
@@ -685,27 +738,27 @@ alert(" You have no Items in Cart! ");
               
                 <li id="menu-item-50" class="menu-item menu-item-type-custom menu-item-object-custom ss-nav-menu-item-depth-2">
                   <span> 
-                    <a class="wpmega-link-title" href="/videos/popular-videos/Palkon-Ko-Bhigoyen-Kaise/1789719">Palkon Ko Bhigoyen..</a></span></li>
+                    <a class="wpmega-link-title" href="/videos/popular-videos/Galli-Ke-Kutte/2160431">Galli Ke Kutte</a></span></li>
 
               
                 <li id="menu-item-50" class="menu-item menu-item-type-custom menu-item-object-custom ss-nav-menu-item-depth-2">
                   <span> 
-                    <a class="wpmega-link-title" href="/videos/popular-videos/Piya-Kahe-Tu/1778829">Piya Kahe Tu</a></span></li>
+                    <a class="wpmega-link-title" href="/videos/popular-videos/KHAYAL---Sujith-Kurian-Feat.-Kuhoo-Gupta---A-Lyrical-Painting-by-Vishwa-Deepak/2151317">KHAYAL - Sujith Ku..</a></span></li>
 
               
                 <li id="menu-item-50" class="menu-item menu-item-type-custom menu-item-object-custom ss-nav-menu-item-depth-2">
                   <span> 
-                    <a class="wpmega-link-title" href="/videos/popular-videos/Bachpan-Ki-Badami-Yadein/1769390">Bachpan Ki Badami ..</a></span></li>
+                    <a class="wpmega-link-title" href="/videos/popular-videos/Metro-Tashan---Rishi-S-Ft.-Kuhoo-Gupta/2126293">Metro Tashan - Ris..</a></span></li>
 
               
                 <li id="menu-item-50" class="menu-item menu-item-type-custom menu-item-object-custom ss-nav-menu-item-depth-2">
                   <span> 
-                    <a class="wpmega-link-title" href="/videos/popular-videos/Ja-Ja/1731046">Ja Ja</a></span></li>
+                    <a class="wpmega-link-title" href="/videos/popular-videos/Parda-Parda/1027019">Parda Parda</a></span></li>
 
               
                 <li id="menu-item-50" class="menu-item menu-item-type-custom menu-item-object-custom ss-nav-menu-item-depth-2">
                   <span> 
-                    <a class="wpmega-link-title" href="/videos/popular-videos/Control-Nai-Hundaa/1757255">Control Nai Hundaa</a></span></li>
+                    <a class="wpmega-link-title" href="/videos/popular-videos/Banjo-Ah-Duniya-Saari/1908771">Banjo Ah Duniya Sa..</a></span></li>
 
                             <li class="detailsa pt10 pl5"><a href="/videos/popular-videos">More</a> </li>
             </ul>
@@ -783,10 +836,10 @@ alert(" You have no Items in Cart! ");
       </li><li id="menu-item-108" class="menu-item menu-item-type-custom menu-item-object-custom ss-nav-menu-item-4 ss-nav-menu-item-depth-0 ss-nav-menu-mega ss-nav-menu-with-img">
 <!--          <a href="javascript:void(0)"><span class="wpmega-link-title">Specials</span></a>
         <ul class="sub-menu sub-menu-1">
-          <li id="menu-item-120" class="menu-item menu-item-type-custom menu-item-object-custom ss-nav-menu-item-depth-1"><span style="padding-left:20px;" class="wpmega-link-title font-mole ml10	">Nish B</span>
+          <li id="menu-item-120" class="menu-item menu-item-type-custom menu-item-object-custom ss-nav-menu-item-depth-1"><span style="padding-left:20px;" class="wpmega-link-title font-mole ml10	">a</span>
                           <div class="" style="margin-left:20px; margin-top:10px;">
-                <a href="http://artistaloud.com/artists/Nish-B/116311" target="_blank">
-               <img src="/images/specials/109.jpg" height="120" width="120"  alt="" />
+                <a href="a" target="_blank">
+               <img src="/images/specials/110.php7veb8f" height="120" width="120"  alt="" />
                 </a>
                  <div class="clr"></div>
               </div>
@@ -794,8 +847,8 @@ alert(" You have no Items in Cart! ");
               <ul class="sub-menu sub-menu-2">
                 <li class="detailsa_sp mycart" style="padding:0px;">
                
-                <a href="http://artistaloud.com/artists/Nish-B/116311" target="_blank">
-                    Nish B</a>
+                <a href="a" target="_blank">
+                    a</a>
                 
                     </li>
               </ul>
@@ -803,6 +856,14 @@ alert(" You have no Items in Cart! ");
           <div style="border:1px solid #cccccc; height:197px; margin-left:3px; float:left;"></div>
           <li id="menu-item-131" class="menu-item menu-item-type-custom menu-item-object-custom ss-nav-menu-item-depth-1"><span style="padding-left:20px;" class="wpmega-link-title font-mole">More Specials</span>
             <ul class="sub-menu sub-menu-2">
+                              <li id="menu-item-132" class="menu-item menu-item-type-custom menu-item-object-custom ss-nav-menu-item-depth-2 ">
+                
+                  <div style="width:150px; margin-left:15px;">
+                
+                <a href="a" target="_blank"><span class="wpmega-link-title">
+                      a</span></a>
+                      </div>
+                      </li>
                               <li id="menu-item-132" class="menu-item menu-item-type-custom menu-item-object-custom ss-nav-menu-item-depth-2 ">
                 
                   <div style="width:150px; margin-left:15px;">
@@ -835,27 +896,19 @@ alert(" You have no Items in Cart! ");
                       AA on facebook</span></a>
                       </div>
                       </li>
-                              <li id="menu-item-132" class="menu-item menu-item-type-custom menu-item-object-custom ss-nav-menu-item-depth-2 ">
-                
-                  <div style="width:150px; margin-left:15px;">
-                
-                <a href="http://www.youtube.com/artistaloud" target="_blank"><span class="wpmega-link-title">
-                      AA on YT</span></a>
-                      </div>
-                      </li>
                           </ul>
           </li>
         </ul>-->
       </li>
 
       <!-- M-Zone Removed temporarily-->
-      
+      <!--
       <div id="basic-modal-mzone1" class="fl"> 
-          <a href="http://www.appup.com/b/hl/ps/en-US,2,P,8673,0,71019" target="_blank" style="padding:8px !important;" class="basic-mzone1 menu-link">
-              <img src="/themes/aaloud/images/final_button_bg.png"> 
+          <a href="http://www.artistaloud.com/3rd-annual-awards" target="" style="padding:8px !important;" class="basic-mzone1 menu-link">
+              <img  src="/themes/aaloud/images/button_awards.PNG"> 
           </a> 
       </div>         
-
+-->
               <div id="basic-modal-signup" class="fl"> <a href="javascript: void(0)" class="basic-signup menu-link">Sign up</a>
                   </div>
         <div id="basic-modal-login" class="fl"> <a href="javascript: void(0)" class="basic menu-link">Login</a> </div>
@@ -902,7 +955,7 @@ alert(" You have no Items in Cart! ");
 								</div>
 								
                      <div class="page-title mt10 bdrbtm">
-                        <h2 class="page-title-block fl"><cufon class="cufon cufon-canvas" alt="Privacy " style="width: 115px; height: 34px;"><canvas width="139" height="34" style="width: 139px; height: 34px; top: 1px; left: -1px;"></canvas><cufontext>Privacy </cufontext></cufon><cufon class="cufon cufon-canvas" alt="Policy" style="width: 86px; height: 34px;"><canvas width="103" height="34" style="width: 103px; height: 34px; top: 1px; left: -1px;"></canvas><cufontext>Policy</cufontext></cufon></h2>
+                        <h2 class="page-title-block fl">Privacy Policy</h2>
                         <div class="share-elements fr">
                          <div class="fb-like" data-href="http://www.facebook.com/artistaloud" data-send="false" data-layout="button_count" data-width="110" data-show-faces="false" data-font="tahoma"></div>
                         </div>
@@ -1060,85 +1113,85 @@ new TWTR.Widget({
 
 					 
 								<li class="jcarousel-item jcarousel-item-horizontal jcarousel-item-1 jcarousel-item-1-horizontal" jcarouselindex="1" style="float: left; list-style: none;">
-									<a href="/artists/Mona-Roy/1443269">
-										<img alt="Mona Roy" width="50" height="50" src="http://content.hungama.com/artist/profile%20image/50x50%20gif/64215929.gif">
+									<a href="/artists/Tauseef-Akhtar/7805">
+										<img alt="Tauseef Akhtar" width="50" height="50" src="http://content.hungama.com/artist/profile%20image/50x50%20gif/69885146.gif">
 									</a>
 								</li>
 								
 								 
 								<li class="jcarousel-item jcarousel-item-horizontal jcarousel-item-2 jcarousel-item-2-horizontal" jcarouselindex="2" style="float: left; list-style: none;">
-									<a href="/artists/Ayaz-Ismail/1443272">
-										<img alt="Ayaz Ismail" width="50" height="50" src="http://content.hungama.com/artist/profile%20image/50x50%20gif/64215930.gif">
+									<a href="/artists/Ramzan-Ka-Zamana/1738056">
+										<img alt="Ramzan Ka Zamana" width="50" height="50" src="http://content.hungama.com/artist/profile%20image/50x50%20gif/68343122.gif">
 									</a>
 								</li>
 								
 								 
 								<li class="jcarousel-item jcarousel-item-horizontal jcarousel-item-3 jcarousel-item-3-horizontal" jcarouselindex="3" style="float: left; list-style: none;">
-									<a href="/artists/GD-Prasad/47600">
-										<img alt="GD Prasad" width="50" height="50" src="http://repos.hungama.org/artist/display%20image/50x50%20gif/50130979.gif">
+									<a href="/artists/Raja-Sagoo/1737234">
+										<img alt="Raja Sagoo" width="50" height="50" src="http://content.hungama.com/artist/profile%20image/50x50%20gif/68343123.gif">
 									</a>
 								</li>
 								
 								 
 								<li class="jcarousel-item jcarousel-item-horizontal jcarousel-item-4 jcarousel-item-4-horizontal" jcarouselindex="4" style="float: left; list-style: none;">
-									<a href="/artists/Tripwire---Disenfranchised-In-India/1042133">
-										<img alt="Tripwire - Disenfranchised In India" width="50" height="50" src="http://content.hungama.com/artist/profile%20image/50x50%20gif/63701048.gif">
+									<a href="/artists/Ed-DeGenaro/1737235">
+										<img alt="Ed DeGenaro" width="50" height="50" src="http://content.hungama.com/artist/profile%20image/50x50%20gif/68343121.gif">
 									</a>
 								</li>
 								
 								 
 								<li class="jcarousel-item jcarousel-item-horizontal jcarousel-item-5 jcarousel-item-5-horizontal" jcarouselindex="5" style="float: left; list-style: none;">
-									<a href="/artists/Nigel-%26-Madhuparna/1042629">
-										<img alt="Nigel &amp; Madhuparna" width="50" height="50" src="http://content.hungama.com/artist/profile%20image/50x50%20gif/63848843.gif">
+									<a href="/artists/Pervez/1733524">
+										<img alt="Pervez" width="50" height="50" src="http://content.hungama.com/artist/profile%20image/50x50%20gif/67405730.gif">
 									</a>
 								</li>
 								
 								 
 								<li class="jcarousel-item jcarousel-item-horizontal jcarousel-item-6 jcarousel-item-6-horizontal" jcarouselindex="6" style="float: left; list-style: none;">
-									<a href="/artists/JohnMpamei-%26-The-Band/386186">
-										<img alt="JohnMpamei &amp; The Band" width="50" height="50" src="http://content.hungama.com/artist/profile%20image/50x50%20gif/63542752.gif">
+									<a href="/artists/Shael-Oswal/93212">
+										<img alt="Shael Oswal" width="50" height="50" src="http://content.hungama.com/artist/profile%20image/50x50%20gif/66252066.gif">
 									</a>
 								</li>
 								
 								 
 								<li class="jcarousel-item jcarousel-item-horizontal jcarousel-item-7 jcarousel-item-7-horizontal" jcarouselindex="7" style="float: left; list-style: none;">
-									<a href="/artists/Itida/386161">
-										<img alt="Itida" width="50" height="50" src="http://content.hungama.com/artist/profile%20image/50x50%20gif/63935552.gif">
+									<a href="/artists/Sameer-Khullar/1729505">
+										<img alt="Sameer Khullar" width="50" height="50" src="http://content.hungama.com/artist/profile%20image/50x50%20gif/66321628.gif">
 									</a>
 								</li>
 								
 								 
 								<li class="jcarousel-item jcarousel-item-horizontal jcarousel-item-8 jcarousel-item-8-horizontal" jcarouselindex="8" style="float: left; list-style: none;">
-									<a href="/artists/Darshit-Nayak/386165">
-										<img alt="Darshit Nayak" width="50" height="50" src="http://content.hungama.com/artist/profile%20image/50x50%20gif/63542751.gif">
+									<a href="/artists/Amandeep-S-Sodhi/1590705">
+										<img alt="Amandeep S Sodhi" width="50" height="50" src="http://content.hungama.com/artist/profile%20image/50x50%20gif/65699803.gif">
 									</a>
 								</li>
 								
 								 
 								<li class="jcarousel-item jcarousel-item-horizontal jcarousel-item-9 jcarousel-item-9-horizontal" jcarouselindex="9" style="float: left; list-style: none;">
-									<a href="/artists/Himanshu-Sharma/85666">
-										<img alt="Himanshu Sharma" width="50" height="50" src="http://content.hungama.com/artist/profile%20image/50x50%20gif/63848841.gif">
+									<a href="/artists/Silvia-Fernandes/1590707">
+										<img alt="Silvia Fernandes" width="50" height="50" src="http://content.hungama.com/artist/profile%20image/50x50%20gif/65699804.gif">
 									</a>
 								</li>
 								
 								 
 								<li class="jcarousel-item jcarousel-item-horizontal jcarousel-item-10 jcarousel-item-10-horizontal" jcarouselindex="10" style="float: left; list-style: none;">
-									<a href="/artists/Upoma/386172">
-										<img alt="Upoma" width="50" height="50" src="http://content.hungama.com/artist/profile%20image/50x50%20gif/63701047.gif">
+									<a href="/artists/Suryaveer-with-Ehsaas/1590730">
+										<img alt="Suryaveer with Ehsaas" width="50" height="50" src="http://content.hungama.com/artist/profile%20image/50x50%20gif/65699801.gif">
 									</a>
 								</li>
 								
 								 
 								<li class="jcarousel-item jcarousel-item-horizontal jcarousel-item-11 jcarousel-item-11-horizontal" jcarouselindex="11" style="float: left; list-style: none;">
-									<a href="/artists/Vihul-Jagirdar/386173">
-										<img alt="Vihul Jagirdar" width="50" height="50" src="http://content.hungama.com/artist/profile%20image/50x50%20gif/63542753.gif">
+									<a href="/artists/Sunitha-Sarathy/12740">
+										<img alt="Sunitha Sarathy" width="50" height="50" src="http://content.hungama.com/artist/profile%20image/50x50%20gif/65588041.gif">
 									</a>
 								</li>
 								
 								 
 								<li class="jcarousel-item jcarousel-item-horizontal jcarousel-item-12 jcarousel-item-12-horizontal" jcarouselindex="12" style="float: left; list-style: none;">
-									<a href="/artists/Ali-Haider/95083">
-										<img alt="Ali Haider" width="50" height="50" src="http://content.hungama.com/artist/profile%20image/50x50%20gif/62779533.gif">
+									<a href="/artists/Ravi-Soni/100149">
+										<img alt="Ravi Soni" width="50" height="50" src="http://content.hungama.com/artist/profile%20image/50x50%20gif/65588042.gif">
 									</a>
 								</li>
 								
@@ -1152,7 +1205,7 @@ new TWTR.Widget({
 			</div>
            
            <div class="clr"></div> 
-        <div id="footer">All rights reserved. Copyrights © 2010 - 2011 Hungama Digital Media Ent. Pvt. Ltd.</div>
+        <div id="footer">All rights reserved. Copyrights © 2013 - 2014 Hungama Digital Media Ent. Pvt. Ltd.</div>
 		
 		</div>
         
@@ -2002,6 +2055,38 @@ function login(){
                       <td>Genre</td>
                       <td><select name="genre" id="genre" class="log_input wd180 fnt11">
                           <option value="">Select Genre</option>
+                                                      <option value="Alternative Pop">Alternative Pop</option>
+                                                      <option value="Alternative Raga">Alternative Raga</option>
+                                                      <option value="Alternative Rock">Alternative Rock</option>
+                                                      <option value="Bengali Pop">Bengali Pop</option>
+                                                      <option value="Bollywood Pop">Bollywood Pop</option>
+                                                      <option value="Christian Contemporary">Christian Contemporary</option>
+                                                      <option value="Classic Indi Pop">Classic Indi Pop</option>
+                                                      <option value="Club">Club</option>
+                                                      <option value="Country">Country</option>
+                                                      <option value="Demonic Metal">Demonic Metal</option>
+                                                      <option value="Devotional Pop">Devotional Pop</option>
+                                                      <option value="Electronic">Electronic</option>
+                                                      <option value="English Rock">English Rock</option>
+                                                      <option value="Fusion">Fusion</option>
+                                                      <option value="Ghazal Pop">Ghazal Pop</option>
+                                                      <option value="Global">Global</option>
+                                                      <option value="Gujarati Pop">Gujarati Pop</option>
+                                                      <option value="Hindi Pop">Hindi Pop</option>
+                                                      <option value="Hindi Rap">Hindi Rap</option>
+                                                      <option value="Hindi Rock">Hindi Rock</option>
+                                                      <option value="Indi Pop">Indi Pop</option>
+                                                      <option value="Light Music">Light Music</option>
+                                                      <option value="Malayalam Pop">Malayalam Pop</option>
+                                                      <option value="Metal">Metal</option>
+                                                      <option value="Pop">Pop</option>
+                                                      <option value="Progressive Rock">Progressive Rock</option>
+                                                      <option value="Punjabi Pop">Punjabi Pop</option>
+                                                      <option value="Punjabi Rock">Punjabi Rock</option>
+                                                      <option value="Rock">Rock</option>
+                                                      <option value="Spiritual">Spiritual</option>
+                                                      <option value="Sufi">Sufi</option>
+                                                      <option value="Urben">Urben</option>
                                                   </select>
                       </td>
                     </tr>
@@ -2018,6 +2103,18 @@ function login(){
                       <td>
                         <select name="language" id="language" class="log_input wd180 fnt11">
                           <option value="">Select Language</option>
+                                                      <option value="Assamese">Assamese</option>
+                                                      <option value="Awadhi">Awadhi</option>
+                                                      <option value="Bengali">Bengali</option>
+                                                      <option value="English">English</option>
+                                                      <option value="Gujrati">Gujrati</option>
+                                                      <option value="Hindi">Hindi</option>
+                                                      <option value="Instrumental">Instrumental</option>
+                                                      <option value="Malyalam">Malyalam</option>
+                                                      <option value="Marathi">Marathi</option>
+                                                      <option value="Oriya">Oriya</option>
+                                                      <option value="Punjabi">Punjabi</option>
+                                                      <option value="Urdu">Urdu</option>
                                                   </select>
                       </td>
                     </tr>
