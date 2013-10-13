@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wktv.com privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621041801id_/http%3A//www.wktv.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wktv.com privacy policy that was archived on 2013-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131013220950id_/http%3A//www.wktv.com/about/privacy) for the most accurate reproduction.*
 
 # NBC-WKTV News Channel 2 - Utica News, Weather, Sports - | Privacy Policy
 
