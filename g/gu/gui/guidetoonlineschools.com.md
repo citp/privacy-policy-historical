@@ -1,22 +1,22 @@
-> *The following text is extracted and transformed from the guidetoonlineschools.com privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501090435id_/http%3A//www.guidetoonlineschools.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the guidetoonlineschools.com privacy policy that was archived on 2013-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131013124746id_/http%3A//www.guidetoonlineschools.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Guide to Online Schools
 
 [GuideToOnlineSchools.com](http://www.guidetoonlineschools.com/) has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy-program-requirements/index.html) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program does not cover information that may be collected through downloadable software. The TRUSTe program covers only information that is collected through this Web site, http://www.guidetoonlineschools.com.
 
-TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us through our [contact form](http://www.guidetoonlineschools.com/contact). If you are not satisfied with our response you can contact TRUSTe [here.](http://watchdog.truste.com/pvr.php?page=complaint)
+TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us through our [contact form](http://www.guidetoonlineschools.com/contact). If you are not satisfied with our response you can contact TRUSTe [here.](https://feedback-form.truste.com/watchdog/request)
 
 Effective Date: 
 
-September 12th, 2012
+August 7, 2013
 
 The following Privacy Policy governs the online information collection practices of GuideToOnlineSchools.com (owned by Reach Network, Inc. DBA as SR Education Group). Specifically, it outlines the types of information that GuideToOnlineSchools.com (the “Site”) gathers about you while you are using the Site (the "Service"), and the ways in which this information is used or shared.
 
  **Please read this Privacy Policy carefully. By visiting the Site, you agree to the terms of this Privacy Policy.**
 
- **Because the Internet is an evolving medium, we may need to change our Privacy Policy at some point in the future. We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our home page so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.**
+ **Because the Internet is an evolving medium, we may need to change our Privacy Policy at some point in the future. We reserve the right to modify this privacy policy  at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our home page prior to the change becoming effective so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. **
 
- **By continuing to use the Site after we post any such changes, you accept the Privacy Policy as modified.**
+**By continuing to use the Site after we post any such changes, you accept the Privacy Policy as modified.**
 
  **What Information is Collected About Visitors?**
 
@@ -66,7 +66,7 @@ We will retain your information for as long as needed to provide you services. I
 
 We have implemented commercially reasonable technical and organizational measures designed to secure your personal information from accidental loss and from unauthorized access, use, alteration or disclosure. However, we cannot guarantee that unauthorized third parties will never be able to defeat those measures or use your personal information for improper purposes. If you have any questions about security on our Web site, you can contact us at the information at the end of this policy.
 
- **Children's Privacy Statement**
+ **Children's Privacy Policy**
 
 This children's privacy statement explains the Site's practices with respect to the online collection and use of personal information from children under the age of thirteen, and provides important information regarding your rights under federal law with respect to such information.
 
@@ -96,11 +96,11 @@ Our Web site includes Social Media Features, such as the Facebook Like button [a
 
  **Re-Targeted Advertising**
 
-Re-Targeted advertising uses information collected on an individual's web browsing behavior such as the pages they have visited or the searches they have made. This information is then used to display ads. The information collected is only linked to an anonymous cookie ID (alphanumeric number); it does not include any information that could be linked back to a particular person, such as their name, address or credit card number. The information used for targeted advertising either comes from GuideToOnlineSchools.com or through third party website publishers. If you would like to opt out of re-targeted advertising from GuideToOnlineSchools.com that occurs when visiting our third party advertising publishers, please click here. Please note this does not opt you out of being served advertising. You will continue to receive generic ads.
+Re-Targeted advertising uses information collected on an individual's web browsing behavior such as the pages they have visited or the searches they have made. This information is then used to display ads. The information collected is only linked to an anonymous cookie ID (alphanumeric number); it does not include any information that could be linked back to a particular person, such as their name, address or credit card number. The information used for targeted advertising either comes from GuideToOnlineSchools.com or through third party website publishers. If you would like to opt out of re-targeted advertising from GuideToOnlineSchools.com that occurs when visiting our third party advertising publishers, please click [here](http://www.networkadvertising.org/managing/opt_out.asp). Please note this does not opt you out of being served advertising. You will continue to receive generic ads.
 
  **Questions Regarding Privacy**
 
-Please direct all questions pertaining to this statement or the service to us through our [contact form](http://www.guidetoonlineschools.com/contact). In the event your inquiry goes unaddressed within a reasonable time frame, please contact [TRUSTe](http://watchdog.truste.com/pvr.php?page=complaint). TRUSTe shall then work as a liaison with us to resolve your concerns.
+Please direct all questions pertaining to this statement or the service to us through our [contact form](http://www.guidetoonlineschools.com/contact). In the event your inquiry goes unaddressed within a reasonable time frame, please contact [TRUSTe](https://feedback-form.truste.com/watchdog/request). TRUSTe shall then work as a liaison with us to resolve your concerns.
 
  **Third Party Cookies**
 
