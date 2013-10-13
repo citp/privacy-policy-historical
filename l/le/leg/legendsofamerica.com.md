@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the legendsofamerica.com privacy policy that was archived on 2013-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130430153212id_/http%3A//www.legendsofamerica.com/loa-privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the legendsofamerica.com privacy policy that was archived on 2013-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131014010212id_/http%3A//www.legendsofamerica.com/loa-privacypolicy.html) for the most accurate reproduction.*
 
 # Legends of America Privacy Policy
 
@@ -149,11 +149,11 @@ We may also use other third-party advertising companies to serve ads when you vi
 **Contact Information**  
  
 
-Legends of America  abides by the laws and guidelines of the Internet. We welcome any inquiries as to the use of collected information and cookies, product capabilities, or company methods and practices. If you have any questions, comments or corrections regarding personally identifiable information obtained through us, please e-mail to us at  [kathy@legendsofamerica.com](mailto:kathy@legendsofamerica.com).  You may also contact us at Legends of America,  28926 Cedar Hill Loop , Warsaw, MO 65355, 913-708-5119
+Legends of America  abides by the laws and guidelines of the Internet. We welcome any inquiries as to the use of collected information and cookies, product capabilities, or company methods and practices. If you have any questions, comments or corrections regarding personally identifiable information obtained through us, please e-mail to us at  [kathy@legendsofamerica.com](mailto:kathy@legendsofamerica.com).  You may also contact us at Legends of America,  28926 Cedar Hill Loop , Warsaw, MO 65355, 660-723-2550
 
 We **DO NOT** sell or rent any of the information kept in our database.     
   
-[ ](http://www.legendsofamerica.com/)[Dave and Kathy](http://www.legendsofamerica.com/aboutus.html), owners of _[Legends of America](http://www.legendsofamerica.com/)_ , and the only "employees" of this small business, want to send out a big _**Thank You**_ to all of our readers and customers! It's your support of [Legends' General Store](http://store.legendsofamerica.com/) and our [Photo Shop](http://photos.legendsofamerica.com/) that keeps us alive and continuing to provide our website content, [newsletter](http://www.legendsofamerica.com/newsletter.html), and [ blog](http://legendsofamerica.blogspot.com/) for free. We also love your feedback on our [guestbook](http://www.legendsofamerica.com/guestbook.html) and [forum](http://legends.websitetoolbox.com/), as well as the contributions to our pages that many of you provide. 
+[ ](http://www.legendsofamerica.com/)[Dave and Kathy](http://www.legendsofamerica.com/aboutus.html), owners of _[Legends of America](http://www.legendsofamerica.com/)_ , and the only "employees" of this small business, want to send out a big _**Thank You**_ to all of our readers and customers! It's your support of [Legends' General Store](http://store.legendsofamerica.com/) and our [Photo Shop](http://photos.legendsofamerica.com/) that keeps us alive and continuing to provide our website content, [newsletter](http://www.legendsofamerica.com/newsletter.html), and [ blog](http://legendsofamerica.blogspot.com/) for free. We also love your feedback on our [guestbook](http://www.legendsofamerica.com/guestbook.html)  and the many the contributions and contributions to our pages that many of you provide. 
 
 We just can't tell you how much we appreciate you! Thanks a whole big bunch!  
   
