@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the creativx.net privacy policy that was archived on 2012-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121225031925id_/http%3A//creativx.net/forums/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the creativx.net privacy policy that was archived on 2013-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131013170716id_/http%3A//creativx.net/forums/privacy_policy) for the most accurate reproduction.*
 
 # Google Adsense Privacy Policy
 
@@ -7,11 +7,7 @@
   
   
   
-
-
   
-
-
   
 
 
@@ -19,7 +15,7 @@
 
 Forum and Google Adsense Policy for   
 http://creativx.net/forums  
-Last Updated: 23'rd May 2012 
+Last Updated: 1st January 2012 
 
 |   
 ---|---  
@@ -103,14 +99,15 @@ We reserve the right to modify this privacy statement at any time, so please rev
 
 
   
-**PLEASE NOTE that opting out of the ad-serving cookie does not mean that you will stop seeing either pop up advertising or banner ads embedded in websites! You can control many pop ups by using free software available on the Internet or by disabling JavaScript on your browser. Google has no control over the use or frequency of pop-up ads employed by website publishers or software manufacturers.** For more information about pop-up ads, please [click here](http://www.google.com/policies/privacy/ads/) | **Google Opt-out Click link below**  
-[](https://www.google.com/settings/ads/onweb/?sig=ACi0TChl9L0aIDUy11U-KvbNS9YEFxrIeO26Qr_yxk_nJuB_OXmM0W2cRV9Rcs0RHrzqm9OkdTTQ9iQ9pUJyZHKZdhPcvi_gToSfATRltpn_TvPIZ0kcU4IRr9GcP572xn8QinfkCBqYUPDz5ey-OodRKKxuhR5ZxjEuz4jPEugOKhtk1-oFcC8&hl=en#display_optout)  
+**PLEASE NOTE that opting out of the ad-serving cookie does not mean that you will stop seeing either pop up advertising or banner ads embedded in websites! You can control many pop ups by using free software available on the Internet or by disabling JavaScript on your browser. DoubleClick has no control over the use or frequency of pop-up ads employed by website publishers or software manufacturers.** For more information about pop-up ads, please [click here](http://www.doubleclick.com/privacy/faq.aspx#pop-ups) | **DoubleClick Opt-out Click link below**  
+[](http://optout.doubleclick.net/cgi-bin/dclk/optout.pl)  
 ---|---  
   
-[](http://www.dragonbyte-tech.com/?referrer=408) [iFAQ and iSupport by vBcover](http://www.vbcover.com/content/ "vBulletin products by vBcover")  
-[ ](http://www.dmca.com/Protection/Status.aspx?id=247c9038-955d-407a-81ee-9afd860c645d "Website Content Protection")   
+[](http://www.dragonbyte-tech.com/?referrer=408) [ ](http://www.dmca.com/Protection/Status.aspx?id=247c9038-955d-407a-81ee-9afd860c645d "Website Content Protection")  
+[](http://creativecommons.org/licenses/by-nc-nd/3.0/deed.en_US)  
+This work is licensed under a [Creative Commons Attribution-NonCommercial-NoDerivs 3.0 Unported License](http://creativecommons.org/licenses/by-nc-nd/3.0/deed.en_US).   
 [](http://www.copyscape.com/originality-check/)
 
 CreativX is an independent web site and has not been authorized, sponsored, or otherwise approved by Microsoft Corporation.
 
-"Windows 7" and related materials are trademarks of Microsoft Corp.
+"Windows 7 & 8" and related materials are trademarks of Microsoft Corp.
