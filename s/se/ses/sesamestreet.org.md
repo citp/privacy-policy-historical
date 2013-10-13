@@ -1,83 +1,111 @@
-> *The following text is extracted and transformed from the sesamestreet.org privacy policy that was archived on 2013-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130506203944id_/http%3A//www.sesamestreet.org/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sesamestreet.org privacy policy that was archived on 2013-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131013125424id_/http%3A//www.sesamestreet.org/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy - Sesame Street
 
-## Privacy Policy
+SESAME WORKSHOP PRIVACY POLICY 
 
-Thank you for visiting our web sites located at sesameworkshop.org and sesamestreet.org which we will refer to collectively below as the “ **Sites.** ”  Through the Sites, Sesame Workshop aims to extend our mission to use educational media to help children reach their highest potential. Sesame Workshop has been trusted by parents for decades to provide safe, entertaining and educational content. We take this trust seriously and recognize the importance of privacy concerns especially in the Internet environment. With this in mind, we have adopted this Privacy Policy for the Sites.  “Sesame Workshop” also is referred to as “we,” “us” or “our” in this Privacy Policy.
+Thank you for visiting a Site owned and operated by Sesame Workshop or an App published by Sesame Workshop (from which you have linked to this Privacy Policy). "Sites" refers to Internet web sites and "Apps" refers to apps for use on mobile communication devices such as smartphones and tablets. "Platforms" refers to Sites and Apps collectively. Through the Platforms, Sesame Workshop aims to extend our mission to use educational media to help children reach their highest potential. 
 
-**Information Submitted by Users**
+"Sesame Workshop" also is referred to as "we," "us" or "our" in this Privacy Policy. 
 
-In the areas of the Sites where we collect “personally identifiable information” from users, we may explain within those areas the general purposes for collecting the information and will use the information to carry out such purposes (such as collecting your email address if you request to receive a newsletter) and as otherwise described in this Privacy Policy.  “Personally identifiable information” includes, for example, an individual’s name, home address, e-mail address, telephone number, credit card information, or any other information that can be used to identify or contact an individual, whether online or offline. 
+**
 
-On all areas of the Sites, we seek to collect personally identifiable information only from adults, not from children under 13. 
+PRIVACY PRINCIPLES
 
-Our Services Providers (as defined below) may have access to your personally identifiable information as necessary to provide their services. They are required to maintain the privacy of all such information in their possession or control and can only use the information for the purpose that we have contracted them, for example processing donations or fulfilling thank you gifts. We do not sell or exchange email addresses with third parties for their own purposes.
+Sesame Workshop has been trusted by parents for decades to provide safe, entertaining and educational content. We take this trust seriously and recognize the importance of privacy concerns especially in the digital environment. 
 
-In order to process your online donation, we will require certain personally identifiable information, including name, address, email address, credit card number and expiration date.  We will indicate which information is required and which is optional.  In addition to the uses and disclosures otherwise described in this Privacy Policy, we may on occasion share names and postal addresses collected from donors with carefully selected organizations for marketing purposes.   **If you do not want any such personally identifiable information shared with other organizations for marketing purposes, please send an email to** **[contribute@sesameworkshop.org](mailto:contribute@sesameworkshop.org) or call us at 212-875-6119 and we will put you on our do not exchange list.**
+With this in mind, we have adopted this Privacy Policy for our Platforms. On our Platforms, we collect personal information in two forms. One form is information that we expressly request you to provide in connection with certain activities. The second form is anonymous information that we automatically collect from your computer, phone or other device. 
 
-Please understand that if you choose to not receive promotional correspondence from us, we may still contact you in connection with your relationship, activities, transactions and communications with us. Also, a request to have us stop sharing your personally identifiable information with other entities for marketing purposes will only apply as of the date of your request, and we will not be responsible for any communications that you may receive from entities that received your personally identifiable information prior to such request. In these cases, please contact that entity directly. 
+Our Privacy Policy is based on the following principles: 
 
-You may be able to send information about our products and services to your friends and family members through our Sites such as by clicking on a “Send to a Friend” or similar button. In some of these cases, you may provide the name and e-mail address of your friend or family member to us. Such information will be treated in accordance with this Privacy Policy and applicable law.
+1\. You are free to choose whether or not to engage in any activity on our Platforms that involves your submission of personal information, such as your name, email address, phone number or other information that can be used to identify or contact an individual, whether online or offline. We will ask you for such information expressly. Most of the activities on our Platforms do not require you to submit any personal information. 
 
-**Information Collected Automatically**
+2\. When we ask you to submit personal information, we will explain in the sign-up or collection process how we will use the information (such as requesting an email address when you sign up for a newsletter). We will use the information only as we have stated, other than in Special Circumstances which are described below (such as in relation to law enforcement or a business transfer). 
 
-We also collect information by various technical means, without your submitting any information, in order to help us understand the usage of the Sites (such as the number of visitors to the Sites and the most popular pages) and to enhance the user experience (such as whether you have a high or low bandwidth connection to the Internet). The information collected in this way generally is not personally identifiable information.
+3\. We use the anonymous information that is automatically collected from your device, such as a computer's Internet Protocol address, a mobile device identifier, operating system, or general location such as zip code, to support internal operations so that we can understand and monitor the usage of our Platforms and improve the performance of the Platforms. 
 
-We also collect data automatically through “cookies,” “web beacons,” and “web logs” which are commonly used on the Internet. 
+4\. There is no behavioral advertising on our Platforms which means that you will not see any advertising that is targeted to you based on your combined activity on our Platforms and your activity on other sites and apps. 
 
-A “cookie” is a piece of information that a web site transfers to a user's computer for record-keeping purposes.  As a user moves from page to page at our Sites, a cookie is used to tell us that it is the same user.  We also may use a cookie to keep track of your selections.  You may set your Internet browser to accept or not accept cookies and you may delete any cookies that you have received. However, should you decide to disable any cookies we place on your computer, you may not be able to use certain services or features on the Sites. 
+5\. Third parties that we use to assist with the Platforms are required to follow this Privacy Policy. 
 
-A “web beacon” is a one-pixel image (which may be visible or transparent), which may be embedded on a web page or e-mail message, and which may also provide us with information about usage of that page or e-mail message.
+ESPECIALLY FOR CHILDREN UNDER 13
 
-We also maintain web logs that record basic information about visitors to our Sites such as the Internet Protocol (IP) address for their computers and the type of browser and operating system they use. An IP address is a number designated for your computer by your Internet service provider to provide access to the Internet. We may use your IP address to gather aggregate information on the use of the Sites, but we will only be able to identify you individually if we link the IP address to you as a particular user. 
+6\. Our collection of personal information on Platforms that are directed to children under 13 ("Children's Platforms") is intended to follow the principles of the Children's Online Privacy Protection Act ("COPPA"), a U.S. law designed to protect the online privacy of children under the age of 13. 
 
-**Additional Uses and Disclosures of Information**
+7\. We will obtain parental consent before asking for personal information on our Children's Platforms, unless the request for information falls within an exception that would be permitted under COPPA. 
 
-We may use third parties to help operate our Sites and deliver our services (our “Services Providers”), and we may share the information we collect with them, to use on our behalf, in order to help us operate our Sites and deliver our services. 
+8\. We do not make personal information collected from children publicly available nor do we enable children to so on our Platforms. We will not condition a child's participation in any activity or service on the disclosure of more personal information than is reasonably necessary to participate in an activity. 
 
-We may disclose and use the information we collect in connection with investigations of illegal or unauthorized activity or in response to requests by law enforcement agencies as well as government and other authorities.
+9\. Parents may contact us (at dotorgmail@sesameworkshop.org) to review, update or delete any of their children's personal information that we may have collected and to elect for us not to collect any additional personal information from their children. 
 
-We may disclose information to protect our rights or property or other users of the Sites.
+10\. We will update this Privacy Policy from time to time by posting the updated Privacy Policy online. We will not change how we handle previously collected information without providing notice and obtaining parental consent where necessary.
 
-In the event that Sesame Workshop, or substantially all of its assets, is acquired by one or more third parties as a result of an acquisition, merger, sale, reorganization, consolidation or liquidation, information we collect on our Sites may be one of the transferred assets. 
+**
 
-We may disclose aggregate statistics regarding user behavior as a measure of interest in, and use of, our Sites and e-mails to third parties in the form of aggregate data, such as overall patterns or demographic reports that do not describe or identify any individual user.
+The following describes our Privacy Policy as it relates to certain specific activities. 
 
-**Wireless E-mail Addresses**
+**INFORMATION WE REQUEST ON OUR CHILDREN'S PLATFORMS**
 
-If the e-mail address you provide to us is a wireless e-mail address, you agree to receive messages at such address from Sesame Workshop (unless and until you have elected not to receive such messages). You understand that your wireless carrier’s standard rates apply to these messages, and that you may change your mind at any time and elect not to receive such messages. You represent that you are the owner or authorized user of the wireless device on which messages will be received, and that you are authorized to approve the applicable charges.  ** **
+We will obtain parental consent before asking for personal information on our Children's Platforms, unless the request for information falls within an exception that would be permitted under COPPA. We will explain how we will use the information and use it only for that purpose. Here are examples of personal information that we request on our Children's Platforms: 
 
-**Security**
+• _Share With a Friend_. Visitors can provide their first name, a friend's first name and friend's email address to send a feature of a Children's Platform to the friend via email. We use such information only to fulfill the visitor's request and do not store that information for any longer than reasonably necessary to send the relevant email. 
 
-Sesame Workshop will endeavor to protect the security and integrity of sensitive information collected on the Sites. However, due to the inherent nature of the Internet as an open global communications vehicle, we cannot guarantee that information, during transmission through the Internet or while stored on our system or otherwise in our care, will be safe from intrusion by others, such as hackers. 
+• _Email Newsletters_. When visitors on our Children's Platforms wish to sign up to receive our email newsletters, we will ask for a parent's first name and email address. We will send a notification email to the parent and give the parent the option to decline the newsletter. If the newsletter is declined, we will not send the newsletter and will delete from our files any related personal information collected in the sign-up process. If the newsletter is not declined, we will send the newsletter. All newsletters contain instructions so that the recipient may unsubscribe at any time. 
 
-In some areas of the Sites, you may establish access through a username and a password. You are solely responsible for maintaining the strict confidentiality of your password. 
+**INFORMATION WE COLLECT AUTOMATICALLY**
 
-In the unlikely event that we believe that the security of your personally identifiable information in our possession or control may have been compromised, we may seek to notify you of that development. If a notification is appropriate, we would endeavor to do so as promptly as possible under the circumstances, and, to the extent we have your e-mail address, we may notify you by e-mail.  **You consent to our use of e-mail as a means of such notification.**   **If you prefer for us to use another method to notify you in this situation, please e-mail us at** **[dotorgmail@sesameworkshop.org](mailto:dotorgmail@sesameworkshop.org)** **with the alternative contact information you wish to be used.**
+We use the anonymous information that is automatically collected to support the internal operations of the Platforms. Some of this information is collected through third-party analytics tools. Internal operations include the following:
 
-**Links From the Sites to Third Party Sites**
+• to monitor metrics such as total number of visitors and traffic;
 
-When you are on our Sites, you may have the opportunity to visit, or link to, other sites, including other Sesame Workshop sites or sites operated by subsidiaries or affiliates of Sesame Workshop or by unaffiliated third parties. When you link to such third party sites, you become subject to their terms of use and privacy policies rather than ours. You should review these third party sites’ privacy policies regarding any personally identifiable information that they may collect about you at their sites. Sesame Workshop does not accept any responsibility or liability for the privacy practices of third party sites and your use of such sites is at your own risk.
+• to understand which activities and services are most popular; 
 
-The Sesame Street Store is operated by a third party – Resolution, Inc. – a licensee of ours. Resolution, Inc. has entered into an agreement with us to operate the Sesame Street Store site and to sell and ship products related to Sesame Workshop’s educational and entertainment programs.  The Sesame Street Store site is a different site than our Sites, and Resolution, Inc. has adopted a separate and distinct privacy policy for the Sesame Street Store site.  Any personally identifiable information you provide to the Sesame Street Store site is subject to the privacy policy of the Sesame Street Store site. In the event that, pursuant to the Sesame Street Store site privacy policy, your information is shared with us, we will treat such information in accordance with this Privacy Policy.
+• to understand the pages where visitors enter our Sites and the pages viewed; 
 
-**Children’s Areas of the Sesamestreet.org Site**
+• to reduce the repetition in the promotional messages that users see on our Platforms; 
 
-Sesame Workshop does not collect personally identifiable information from users who we know are under 13 on the Sites. However, there are some areas of our Sites that may be attractive to children even though they are intended for parents, such as our newsletter subscriptions and “Send to a Friend” features. Therefore, we take certain precautions to protect the privacy of our child users. 
+• to understand generally the location of our users (e.g., zip code information); 
 
-Sesame Workshop will not condition a child’s participation in a game, offering of a prize, or any other activity or service on or available through the Children’s Areas on the disclosure of more personally identifiable information than is reasonable necessary to participate in an activity. 
+• to recognize the browsers used to visit our Sites, so that the content is adapted for the relevant browser; and 
 
-Any parent of a child under 13 who has provided personally identifiable information to Sesame Workshop may request a description of the personally identifiable information that has been collected from or about that child and either limit or restrict any further maintenance or use of such information from that child and/or direct us to delete it. Also, a parent may decline to allow any future collection of personally identifiable information from that child. Such requests can be made by contacting us at  [dotorgmail@sesameworkshop.org](mailto:dotorgmail@sesameworkshop.org). **** We will take reasonable measures to verify that the requestor is, in fact, the parent or guardian of the child in question before providing a child’s personally identifiable information.
+• to diagnose and fix technology problems. 
 
-The statements in this Privacy Policy generally about our collection and use of personally identifiable information also apply to our treatment of the personally identifiable information we may collect on or through the Children’s Areas. 
+When you visit a Platform, we may use cookies and similar technologies like pixels and web beacons, to collect this anonymous information for the purpose of the internal operations of our Platforms. A "cookie" is a piece of information that a web site or an app transfers to a user's device for record-keeping purposes. As a user moves from one page or one screen to another, a cookie is used to tell us that it is the same device. We also may use a cookie to keep track of your selections. You may set your device to accept or not accept cookies and you may delete any cookies that you have received. However, should you decide to disable any cookies we place on your device, you may not be able to use certain services or features on our Platforms. A "web beacon" is a one-pixel image (which may be visible or transparent), which may be embedded on a web page or e-mail message, and which may also provide us with information about usage of that page or e-mail message.
 
-**Changes to Privacy Policy**
+**SPECIAL CIRCUMSTANCES**
 
-Whenever this Privacy Policy for our Sites changes, we will post the changes to the Sites, and such changes will be effective immediately upon posting. If you do not agree to the changes, please do not continue to use the Sites.  Under certain circumstances, we may also elect to notify you of changes or updates to our Privacy Policy by additional means, such as posting a notice on the front page of our Sites or sending you an e-mail if we have your e-mail address. 
+_Law Enforcement and Safety_. We may access, preserve and share your information when we have a good faith belief that it is necessary to: (i) respond to a legal request (like a search warrant, court order or subpoena) or otherwise to take action because we believe it is required or advisable under the law; (ii) detect, prevent and address fraud and other illegal activity; (iii) respond to your requests for customer service; or (iv) limit our legal liability or to protect the rights, property, or personal safety of ourselves, any user of our Platforms, a third party or the general public including as part of investigations.
 
-**Sesame Workshop**
+_Business Transfer_. If we sell or otherwise transfer part or the whole of Sesame Workshop or our assets to another organization (e.g., in the course of a transaction like a merger, acquisition, bankruptcy, dissolution, liquidation), your personal information, and any other information collected through our Platforms may be among the items sold or transferred. The buyer or transferee will be required to honor the commitments we have made in this Privacy Policy.
 
-The Sites are operated by Sesame Workshop, located at One Lincoln Plaza, New York, New York, 10023, USA, 212-595-3456, [dotorgmail@sesameworkshop.org](mailto:dotorgmail@sesameworkshop.org).
+_Security Notice_. In the unlikely event that we believe that the security of your personal information in our possession or control may have been compromised, we may seek to notify you of that development. If a notification is appropriate, we would endeavor to do so as promptly as possible under the circumstances, and, to the extent you have given us your e-mail address, we may notify you by e-mail. You consent to our use of e-mail as a means of such notification.
 
-**Effective date:** **August 4, 2008.**
+**SERVICE PROVIDERS**
+
+We contract with third parties to provide certain services to facilitate the operations of our Platforms ("service providers"), such as to manage the analytics information about usage of our Platforms or to process donations. Our service providers will be given access to your information only as is reasonably necessary to provide the services for which they are contracted. They will be required to abide by the terms of this Privacy Policy in their handling of personal information. 
+
+**WHERE WE STORE YOUR INFORMATION**
+
+Your information collected through a Platform may be stored and processed in the United States or any other country in which we or our service providers maintain facilities. We or our service providers may transfer information that we collect about you, including personal information across borders and from your country or jurisdiction to other countries or jurisdictions around the world. If you are located in the European Union or other regions with laws governing data collection and use that may differ from U.S. law, please note that we may transfer information, including personal information, to a country and jurisdiction that does not have the same data protection laws as your jurisdiction. By using a Platform you consent to the transfer of information to the U.S. or to any other country in which we or our service providers maintain facilities and the use and disclosure of information about you as described in this Privacy Policy.
+
+**SECURITY OF YOUR INFORMATION**
+
+We strive to maintain the security of information but cannot guarantee that information security measures are fail-safe or guarantee that information on a Platform may not be accessed, disclosed, altered, or destroyed. Our Platforms maintain technical and organizational steps to keep information collected secure, including limiting the number of people who have physical access to our database servers and use of electronic security systems and password protections to guard against unauthorized access. 
+
+**OTHER WEB SITES AND SERVICES**
+
+Our Platforms may link to other websites or apps, including content offered by third parties that we do not control and whose privacy and data collection practices may differ from ours ("Third Party Platforms"). We are not responsible for the practices employed by any websites or services linked to or from our Platforms, including the information or content contained within them.
+
+When you go via our link to Third Party Platforms, you become subject to their terms of use and privacy policies rather than ours. You should review these other website privacy policies regarding any personal information that they may collect about you. 
+
+_Sesame Street Store_. The Sesame Street Store is operated by a third party, a licensee of ours. The licensee has entered into an agreement with us to operate the Sesame Street Store site and to sell and ship products related to Sesame Workshop's educational and entertainment programs. The Sesame Street Store site is a different site and is not one of our Platforms, and the licensee has adopted a separate and distinct privacy policy for the Sesame Street Store site. Any personal information you provide to the Sesame Street Store site is subject to the licensee's privacy policy for the Sesame Street Store site. 
+
+**ONLINE SAFETY**
+
+Involvement in your family's online lives is one of the most important safety tools available. In addition, we encourage you to educate yourself and your child on privacy concerns. We recommend, as a starting point, the following guide published by the federal government, [ http://www.onguardonline.gov/articles/0031-kids-privacy.](http://www.onguardonline.gov/articles/0031-kids-privacy)
+
+**SESAME WORKSHOP INFORMATION**
+
+The Platforms are operated by Sesame Workshop, located at 1900 Broadway, New York, New York, 10023, USA, 212-595-3456, dotorgmail@sesameworkshop.org. We use the following service providers: Google, Inc. and comScore, Inc. Please contact us if you have any questions about us or our service providers.
+
+**Effective date: July 1, 2013.**
