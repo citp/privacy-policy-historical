@@ -1,137 +1,124 @@
-> *The following text is extracted and transformed from the hawthornfc.com.au privacy policy that was archived on 2013-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130504155536id_/http%3A//www.hawthornfc.com.au/club/reports-and-policies/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hawthornfc.com.au privacy policy that was archived on 2013-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131014013042id_/http%3A//www.hawthornfc.com.au/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - HAWTHORNFC.com.au
+# Privacy Policy - hawthornfc.com.au
 
-### Protecting your privacy
+Your privacy is important to the Australian Football League **(AFL)** and each of the 18 AFL Clubs listed in paragraph 13 at the end of this privacy policy **(AFL Clubs)**. This privacy statement provides information about the personal information that the AFL and AFL Clubs collect and the ways in which the AFL and AFL Clubs may use and disclose this personal information. 
 
-  
-The Hawthorn Football Club is committed to providing you with the highest levels of customer service. This includes protecting your privacy.
+The AFL may disclose your personal information to AFL Clubs, and AFL Clubs may disclose your personal information to the AFL.  Each organisation will collect and use your personal information in accordance with this privacy policy.
 
-Set out below is information that we are required to communicate to our members and customers. We recommend that you keep this information for future reference.
+Where you provide your personal information directly to one AFL Club, although it may be disclosed to the AFL, that personal information will not ordinarily be shared with a different AFL Club.  However, there may be some circumstances where this personal information is shared between AFL Clubs.  For example, if in a transaction you purchase merchandise relating to two AFL Clubs, that transaction may be shared with both AFL Clubs.
 
-### Help us to ensure we hold accurate information
+**2     Accessing AFL Online**
 
-We take all reasonable precautions to ensure that the personal information we collect, use and disclose is accurate, complete and up-to-date. 
+“AFL Online” refers to the Australian Football League website with its top-level domain located at http://www.afl.com.au/, all related sub-domains and any other AFL website (including AFL Club websites) which provides an AFL and AFL Club product, AFL and AFL Club service or AFL-related product or service. You need not disclose your identity to the AFL or AFL Club in order to visit AFL Online, except where personal information is voluntarily supplied, however the AFL or AFL Club internet server may automatically record details about any computer used to access the website (such as the IP address, domain name and browser type), the date and time of access, and details of the information downloaded. This information is used for internal statistical purposes and to improve AFL Online.
 
-However, the accuracy of that information depends to a large extent on the information you provide. That's why we recommend that you:  
-•    let us know if there are any errors in your personal information; and  
-•    keep us up-to-date with changes to your personal information such as your name or address. If you are a subscriber to one of our online products or services, you may change your personal details by using the relevant facility on our website.
+The AFL or AFL Clubs may use “cookies” on AFL Online. A cookie is a small text file that AFL Online may place on your computer. Usually, cookies are used as a means for our websites to remember your preferences and are thus designed to improve your experience of AFL Online. Cookies may collect and store personal information about you. The AFL and AFL Clubs treat personal information that may be obtained through cookies and any other information supplied to us (for example if you send us an email) in accordance with the AFL & AFL Club privacy policy below.
 
-1\.    INTRODUCTION The principal activities of the Hawthorn Football Club Limited (“HFC”) are to compete within the Australian Football League by maintaining, supporting and controlling a team of footballers bearing the name of the Hawthorn Football Club. The Hawthorn Football Club from time to time gathers information from Customers and other parties with whom we deal for a variety of reasons including, in particular, to enable us to both deliver our services and to improve the nature of the services we provide. HFC understands individuals’ concerns regarding confidentiality and takes seriously its obligations in respect of all information it gathers. To safeguard that information, HFC has implemented a program to ensure compliance with the Privacy Act 1988 (Cth) and the National Privacy Principles (“NPPs”). This Privacy Policy forms part of that compliance program and outlines how HFC deals with Personal Information.
+**3     AFL Privacy Policy**
 
-2\.    WHY HAWTHORN FOOTBALL CLUB COLLECTS PERSONAL INFORMATION  
-2.1    Nature of Information The information HFC collects in most cases relates to members and customers of HawksNest but can relate to suppliers and other parties we deal with (for the purposes of this Privacy Policy all such people are described as “Customers”). Information is gathered for a range of purposes, including the provision of ongoing Customer support and the compiling of Customer databases to enable us to provide you with the services you request and helps us plan to improve the level of our services. The type of information we collect includes such things as contact details, opinions and transactional details and may include your name, date of birth, current and previous address, telephone and facsimile number, e-mail address, bank account or credit card details and occupation. We also hold details of HFC services you hold or join including their status.  HFC treats all such information which is collected and identifiable as relating to an individual as Personal Information. It is this information which is described as “Personal Information” for the purposes of this Privacy Policy.
+This policy describes the way the AFL and AFL Clubs collect, hold and disclose personal information. Personal information is information that identifies you or could identify you. The AFL and AFL Clubs are subject to the _Privacy Act 1988 (Cth)_ , including the National Privacy Principles. The AFL may vary this policy from time to time, by posting an updated policy accessible via AFL Online. Protecting confidential information is fundamental to the AFL’s and AFL Clubs’ relationship with AFL supporters, employees and players. All information received in connection with an AFL or AFL Club product or service, or in the conduct of the AFL’s or AFL Clubs’ business, is therefore treated seriously, having regard to the AFL’s and the AFL Clubs’ legal obligations.
 
-2.2    Collection of Personal Information In accordance with the NPPs, where practical, Customers of HFC may deal with HFC on an anonymous basis. However, as a provider of a wide range of services, HFC frequently finds that it is necessary to collect Personal Information during the course of providing our services. Personal Information may be collected about Customers via the following means:  
-(a)    competition entry forms;  
-(b)    application forms;  
-(c)    email;  
-(d)    websites (including in some instances cookies);  
-(e)    online transactions;  
-(f)    networking functions (eg: business cards);  
-(g)    over the phone;  
-(h)    credit card details via credit card purchases; and  
-(i)    information collected from third parties.  
-Where any law requires HFC to collect Personal Information from the Customer, HFC will endeavour to advise you about the requirements of that law. 
+**4     Information Collected**
 
-2.3    Information given to Customers.  
-Where HFC collects Personal Information about a Customer from a third party, and the Customer has not previously consented to that third party providing the information to HFC, HFC will, where reasonable and practical, provide the Customer with the following information about that third party:  
-(a)    the third party’s contact details;  
-(b)    the purpose of collection;  
-(c)    the fact that the Customer can gain access to the Personal Information;  
-(d)    the types of organisations to which their Personal Information may be disclosed by that third party;  
-(e)    any law that requires the Personal Information to be collected; and  
-(f)    the key consequences if all or some of the information cannot be collected.
+Generally, the AFL and the AFL Clubs collect personal information directly from your use of the AFL’s website or AFL Online and any registration you make to receive information, including via email.  The personal information which the AFL and AFL Clubs collect includes:
 
-2.4    ‘sensitive information’ HFC in providing its services will need to collect certain information from you.  HFC will only ask you for information where HFC believes it is necessary to know that information in the course of providing these services.  
-HFC will not ask a Customer for information revealing racial or ethnic origin, political opinions, religious or philosophical beliefs, trade union membership, or details of health, disability or sexual activity or orientation, unless:  
-(a)    the Customer provides their consent;  
-(b)    the collection of that information is specifically authorised by law;  
-(c)    the collection is necessary to lessen a serious or imminent threat to the health or safety of a person; or  
-(d)    the collection of the information is necessary for the establishment, exercise or defense of a legal claim.
+  * your name, address, email address, gender, occupation, contact information and your favourite AFL Club;
+  * information about dealings with us and AFL Clubs, including membership history, subscriptions for AFL services;
+  * your AFL game attendance history where you purchase a ticket or use your AFL or AFL Club membership to obtain entry into a venue;
+  * your IP address and geolocation; and
+  * information derived from the use of “cookies”.
 
-2.5    Customer consent  
-Wherever practical, HFC will obtain the express consent of Customers to the collection of Personal Information.
 
-In some situations, HFC will interpret a Customer’s actions as indicating that a Customer consents to the collection of Personal Information. This may occur where the Customer has provided Personal Information for a particular purpose and that purpose cannot be achieved without HFC making use of the Customer’s Personal Information.
 
-2.6    What happens if Personal Information is not provided? Where relevant, HFC will endeavor to make Customers aware that HFC may not be able to provide a proper level of service to them if Personal Information is not provided upon request.
+In addition, you may also provide to us and we may collect additional information, such as:
 
-3\.    MAINTENANCE AND MANAGEMENT OF PERSONAL INFORMATION  
-3.1    Who may view Personal Information?   
-In general, only officers, employees or contractors of HFC may view Personal Information. HFC will only grant access to parties other than HFC’s officers, employees and contractors to view Personal Information where HFC believes that access is necessary to achieve the purpose for which the Personal Information was collected.
+  * your credit card information; and
+  * details of the items ordered or purchased from us.
 
-HFC will only disclose Personal Information to parties other than HFC’s officers, employees and contractors if:  
-(a)    That disclosure is required to give effect to the purposes for which HFC collected the Personal Information;  
-(b)    The Customer has consented to that disclosure;  
-(c)    HFC believes that the disclosure may lessen a risk of harm to the health or safety of any person;  
-(d)    HFC believes an unlawful activity is being undertaken and the Personal Information is disclosed as part of HFC’s investigation into this activity;  
-(e)    HFC is required by law to disclose the Personal Information; or  
-(f)    The disclosure is required for the enforcement of a criminal law or a law imposing a pecuniary penalty or for the protection of public revenue.
 
-3.2    Identification HFC does not use any prohibited identifiers (such as a tax file number) to identify its Customers.
 
-3.3    Storage and Security Personal Information may be stored in either hard copy form or on computer or both. Hard copy Personal Information is wherever practical, kept under locked security. Personal Information stored on computer is wherever practical, password protected.   
-Where possible and practical, HFC will endeavor to comply with recognised Australian and international standards relating to information security.   
-HFC regularly deletes and de-identifies Personal Information if the information is no longer needed by HFC.
+**(** collectively, **personal information)**
 
-3.4    Updating Personal Information HFC regularly monitors the quality and accuracy of Personal Information that it maintains and where practical, updates that information on a regular basis.   
-Customers can update their Personal Information at any time by contacting HFC’s Privacy Officer.
+By providing the AFL and AFL Clubs with personal information, you consent to that information being collected, used, disclosed and stored in accordance with this Privacy Policy.
 
-4\.    MINORS HFC has adopted the position proposed by the Privacy Commissioner that a young person is able to give their consent when he or she has a sufficient understanding and maturity to understand what is being proposed.
+If you do not give personal information to the AFL and AFL Clubs, it may affect the ability of the AFL and AFL Clubs to provide you with products and/or services.
 
-Where HFC is aware that it is gathering information from a minor, HFC will obtain consent from a legal guardian for the collection of the information. Where this is not possible, HFC staff will make a determination as to the minor’s understanding of why the Personal Information is being collected, before deciding to collect that information.
+**5     Information from Third Parties**
 
-5\.    COMPETITIONS Personal information gathered during competitions run by HFC will be governed by the principles set out in this Privacy Policy unless an express statement is made in relation to privacy in the conditions of entry for the competition.
+During the course of business, the AFL and AFL Clubs may also collect personal information that is given to them by a third party (for example, a corporate partner of the AFL or AFL Clubs or information that is on a publicly maintained record). This information forms part of the personal information. The AFL and AFL Clubs will not intentionally solicit personal information that is unintentionally disclosed.
 
-6\.    DIRECT MARKETING  
-Personal Information collected for direct marketing purposes will only be collected, used or disclosed with the consent of the relevant Customer as provided for in this Privacy Policy.   
-In circumstances where HFC cannot practically obtain the consent of a Customer, then HFC may still engage in direct marketing to that Customer, but will:  
-(a)    advise the Customer that he or she can be taken off the mailing list at any time; and  
-(b)    display its contact details clearly in each direct marketing publication.  
-Customers may be taken off any mailing list by contacting HFC‘s Privacy Officer.
+**6     Storage of Personal Information**
 
-7\.    ACCESS TO PERSONAL INFORMATION Customers may access their Personal Information by contacting HFC‘s Privacy Officer. Access is generally granted within 30 days of that request.
+Wherever reasonably practicable, the AFL and AFL Clubs will store personal information on data servers that are owned and controlled by the AFL and AFL Clubs and are located within the geographical borders of Australia. However, by providing the AFL and AFL Clubs with personal information you consent to your information being stored and processed on a data server that is owned by a third party that may be located outside Australia.
 
-HFC may impose a reasonable charge for access.
+**7     Use & Disclosure of Personal Information**
 
-8\.    WHEN HFC MAY WITHHOLD ACCESS TO PERSONAL INFORMATION  
-8.1    When access can be withheld Access to Personal Information may be withheld in a number of circumstances. These include where:  
-(a)    providing access would pose a serious and imminent threat to the life or health of a person;  
-(b)    providing access would have an unreasonable impact on the privacy of others;  
-(c)    the information is subject to confidentiality where the person who provided the information to HFC did so expressly on the condition that it remains confidential;  
-(d)    the request is vexatious or frivolous;  
-(e)    the information relates to current or anticipated legal proceedings between HFC and the person and the information would not be required to be discovered to a court;  
-(f)    HFC is in commercial negotiations with the person and the information would reveal HFC‘s intentions;  
-(g)    providing access would be unlawful or HFC is required by a law to withhold access; or  
-(h)    providing access could prejudice the investigation or detection by HFC or by a government body of an unlawful activity or some serious or improper misconduct.
+The AFL collects and discloses your personal information for purposes including, without limitation:
 
-Where HFC does withhold Personal Information, HFC may instead choose to give the Customer a summary of that information.
+  * to verify your identity;
+  * to improve AFL Online;
+  * to provide, and to assist AFL Clubs with providing products and services to you, to manage and account for the products and services, and to improve the products and services;
+  * to manage AFL and AFL Club’s relationship(s) with you;
+  * to provide you with information about events, products and/or services that may interest you;
+  * to facilitate the internal business operations of the AFL and the AFL’s Clubs;
+  * to promote and market AFL events, products or services; and
+  * to enable corporate partners and sponsors of the AFL, including AFL Clubs and the AFL’s digital rights partner Telstra, as well as their related bodies corporate, to market and promote their products and services to you.
+  * to our third party service providers in connection with any of the above.
 
-8.2    Written reasons If HFC does withhold Personal Information, HFC will provide written reasons.
 
-8.3    Third party intermediary If HFC withholds access to Personal Information, HFC will consider whether the provision of access to an independent third party will meet HFC’s and the relevant Customer’s needs.
 
-9\.    CONTRACTORS HFC may from time to time employ subcontractors to provide services to it. In these situations, Personal Information may be collected about those subcontractors. This Privacy Policy applies equally to those subcontractors.
+The AFL and AFL Clubs may also disclose personal information where it is otherwise permitted to do so by law.
 
-10\.    WHO TO CONTACT If you have any queries with respect to this Privacy Policy please contact our Privacy Officer at HFC, Stadium Circuit, Mulgrave, Victoria.
+**8     Information Security**
 
-11\.    MODIFICATIONS TO THIS DOCUMENT HFC may modify this Privacy Policy and the way it handles Personal Information at any time in its sole discretion.
+The AFL and AFL Clubs will take reasonable steps to protect all personal information within their direct control from misuse, loss, unauthorised access, modification or disclosure. The AFL and AFL Clubs will take reasonable steps to hold information securely in electronic or physical form in access controlled premises or in electronic databases requiring logins and passwords.
 
-12\.    FURTHER INFORMATION Further information on privacy can be obtained from the Privacy Commissioner at www.privacy.gov.au.
+**9     Access & Correction**
 
-13\.    COMPLAINTS ABOUT YOUR PRIVACY  
-If you have a complaint about a breach of your privacy of how your personal information is collected or used please direct your complaint to our Privacy Compliance Manager at the address detailed below. We will respond to your query or complaint as soon as possible but not more than 14 days after the complaint has been made.
+An individual may request access at any time to personal information held by the AFL and AFL Clubs by contacting the AFL’s privacy compliance officer. You will be required to provide proof of identity in order to obtain access to your personal information. The AFL may charge a fee where access is provided. The AFL may refuse to provide access if permitted to do so by law.  The AFL aims to provide access to your personal information within 30 days of a valid request.
 
-lf you are not satisfied with the response you receive you can forward concerns in writing to the CEO at the postal address detailed below. You will receive a further response within 14 business days.
+**10     No Liability**       
 
-14\.    CONTACT US  
-If you have any questions or feedback about privacy or you feel that this company is not abiding by its posted privacy policy, you should contact:
+To the maximum extent permissible by law, the AFL and AFL Clubs expressly disclaim any liability for a breach of this policy. By providing the AFL and AFL Clubs with personal information, an individual acknowledges that any damage caused to that individual or any other individual by the disclosure of that information shall be limited to the amount recoverable under applicable legislation and otherwise not be recoverable from the AFL and AFL Clubs or any of their related bodies.
 
-Privacy Officer  
-Hawthorn Football Club  
-membership@hawthornfc.com.au  
-1300 042 957
+**11     How to contact us**
 
-POLICY REVIEW  
-Last reviewed: 05/11/2009
+For further information or enquiries regarding your personal information, please contact the AFL’s Privacy Compliance Officer at [privacy@afl.com.au](mailto:privacy@afl.com.au). 
+
+**12     Privacy complaints**
+
+Please direct all privacy complaints to the AFL’s Privacy Officer.  At all times, privacy complaints:
+
+  * will be treated seriously;
+  * will be dealt with promptly;
+  * will be dealt with in a confidential manner; and
+  * will not affect your existing obligations or affect the commercial arrangements between you and the AFL.
+
+
+
+The AFL’s Privacy Officer will commence an investigation into your complaint.  You will be informed of the outcome of your complaint following completion of the investigation.
+
+**13     AFL Clubs**
+
+For the purpose of this policy, “AFL Clubs” means each of the following:
+
+  * Adelaide Football Club Limited ACN 008 101 568;
+  * Brisbane Bears – Fitzroy Football Club Limited t/a Brisbane Lions Australian Football Club ACN 054 263 473;
+  * Essendon Football Club ACN 004 286 373;
+  * Carlton Football Club Limited ACN 005 449 909;
+  * Collingwood Football Club Limited ACN 006 211 196;
+  * Fremantle Football Club Limited ACN 066 055 249;
+  * Geelong Football Club Limited ACN 005 150 818;
+  * GCFC Limited ACN 144 555 822;
+  * Western Sydney Football Club Limited ACN 130 190 242;
+  * Hawthorn Football Club Limited ACN 005 068 851;
+  * Melbourne Football Club Limited ACN 005 686 902;
+  * North Melbourne Football Club Limited ACN 006 468 962;
+  * Port Adelaide Football Club Limited ACN 068 839 547;
+  * Richmond Football Club Limited ACN 065 563 011;
+  * St Kilda Saints Football Club Limited ACN 005 174 836;
+  * Sydney Swans Limited ACN 063 349 708;
+  * West Coast Eagles a division of Indian Pacific Ltd ACN 009 178 894; and
+  * Footscray Football Club Limited t/a Western Bulldogs ACN 005 226 595
+
+
