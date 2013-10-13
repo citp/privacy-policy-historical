@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mumbrella.com.au privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601230923id_/http%3A//mumbrella.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mumbrella.com.au privacy policy that was archived on 2013-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131013132527id_/http%3A//mumbrella.com.au/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - mUmBRELLA
 
@@ -17,7 +17,7 @@ Focal Attractions Pty Ltd respects your privacy and is committed to conforming w
 
   * We will take reasonable steps to protect the personal information we hold from misuse and loss and from unauthorised access, modification or disclosure.
   * Access to personal information is restricted to authorised Focal Attractions Pty Ltd personnel only.
-  * Our system automatically captures the IP address of those who post comments. We reserve the right in circumstances such as attempts to mislead other users about a poster’s identity, to share that information. We will protect the anonymity of those who comment in good faith.
+  * Our system automatically captures the IP address of those who post comments. We reserve the right in circumstances such as attempts to mislead other users about a poster’s identity through statement or omission, to share that information. We will protect the anonymity of those who comment in good faith.
 
 
 
