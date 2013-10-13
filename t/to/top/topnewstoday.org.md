@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the topnewstoday.org privacy policy that was archived on 2013-02-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130221041133id_/http%3A//www.topnewstoday.org/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the topnewstoday.org privacy policy that was archived on 2013-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131013202714id_/http%3A//www.topnewstoday.org/privacy.html) for the most accurate reproduction.*
 
 # Top News Today Privacy Policy
 
@@ -36,17 +36,15 @@ _Note: If at any time you would like to unsubscribe from receiving future emails
 
 We implement a variety of security measures to maintain the safety of your personal information when you enter, submit, or access your personal information. 
 
-**Do we use cookies?**
-
-We do not use cookies.
-
 **Do we disclose any information to outside parties?**
 
 We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
 
-**Third party advertising**
+**Cookies & 3rd Party Advertisements**
 
-We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: <http://www.networkadvertising.org/managing/opt_out.asp>
+Google, as a third party vendor, uses cookies to serve ads on your site. Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
+
+We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit <http://www.networkadvertising.org/managing/opt_out.asp>.
 
 **Third party links**
 
@@ -72,7 +70,7 @@ By using our site, you consent to our [privacy policy](http://www.topnewstoday.
 
 If we decide to change our privacy policy, we will post those changes on this page, and/or update the Privacy Policy modification date below. 
 
-This policy was last modified on 8.5.2012
+This policy was last modified on 12.7.2013
 
 **Contacting Us**
 
