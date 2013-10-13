@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the newsday.co.zw privacy policy that was archived on 2013-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130612135913id_/http%3A//www.newsday.co.zw/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newsday.co.zw privacy policy that was archived on 2013-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131014015534id_/https%3A//www.newsday.co.zw/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | NewsDay Zimbabwe
+# Privacy Policy - NewsDay Zimbabwe
 
 This NewsDay site is covered by the policies herein.  
 Because this web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance. If you have questions or concerns regarding this statement, you should contact The Standard.
