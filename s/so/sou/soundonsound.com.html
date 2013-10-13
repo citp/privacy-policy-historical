@@ -1,15 +1,15 @@
-<!--The following is the downloaded HTML source of the soundonsound.com privacy policy that was archived on 2013-06-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130602134429id_/https%3A//www.soundonsound.com/information/SOSPrivacyPolicy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the soundonsound.com privacy policy that was archived on 2013-10-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131013214344id_/http%3A//www.soundonsound.com/information/SOSPrivacyPolicy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head>
 	<title>SOS Privacy Policy</title>
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
       <meta name="robots" content="index,follow">
   	<meta name="google-site-verification" content="ZgcdC6tZvLIVyARZf6E2d-dtVvTPA0mmwn-veNGn7vs">
-  	<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script type="text/javascript" language="javascript" src="http://media.soundonsound.com/include/combined.js?S"></script>
+  	<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script type="text/javascript" language="javascript" src="http://media.soundonsound.com/include/combined.js?T"></script>
 		<link rel="icon" href="/favicon.ico" type="image/x-icon">
 	<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
-	<style>.uk, uk{display:none !important;}</style>      <link rel="stylesheet" type="text/css" href="http://media.soundonsound.com/styles/highslide.css">
+	      <link rel="stylesheet" type="text/css" href="http://media.soundonsound.com/styles/highslide.css">
       <script language="Javascript">
         <!--//
           function PrinterFriendly() {
@@ -18,7 +18,7 @@
         $(document).ready(function () {if(hscount() > 1){hsmulti();}else{hssingle();}});
       	// -->
   	  </script>
-    <link href="http://media.soundonsound.com/styles/common_sos.css?c" rel="stylesheet" type="text/css">
+    <link href="http://media.soundonsound.com/styles/common_sos.css?d" rel="stylesheet" type="text/css">
     <script type="text/javascript">
       var googletag = googletag || {};
       googletag.cmd = googletag.cmd || [];
@@ -33,38 +33,57 @@
        })();
     </script>
     <script type="text/javascript">
+    $(document).ready(function () {
+      // See if any CSS exists for the selected region - otherwise enable English
+      $count = $(".us").length;
+      var show = 'uk';
+      var poss = new Array('uk', 'us', 'in');
+
+      if ($count > 0) {
+        show = 'us';
+      }
+
+      for (i=0; i < poss.length; i++) {
+        if (poss[i] != show) {
+          $("." + poss[i]).each(function () {
+            $(this).css('display', 'none', 'important');
+          });
+        }
+      }
+    });
+
     googletag.cmd.push(function() {
       googletag.defineSlot('/5445168/SOS_Leaderboard_728x90', [728, 90], 'bannerad')
         .addService(googletag.pubads())
-        .setTargeting('Manuf', 'SOS').setTargeting('Page', '/information/SOSPrivacyPolicy.php').setTargeting('Continent', 'North America').setTargeting('Region', 'US/Canada');
+        .setTargeting('Manuf', 'SOS').setTargeting('Page', '/information/SOSPrivacyPolicy.php').setTargeting('Continent', 'North America').setTargeting('Region', 'Americas');
 
       googletag.defineSlot('/5445168/SOS_left_bottom_120x300', [120, 300], 'SOS_left_bottom_120x300')
         .addService(googletag.pubads())
-        .setTargeting('Manuf', 'SOS').setTargeting('Page', '/information/SOSPrivacyPolicy.php').setTargeting('Continent', 'North America').setTargeting('Region', 'US/Canada');
+        .setTargeting('Manuf', 'SOS').setTargeting('Page', '/information/SOSPrivacyPolicy.php').setTargeting('Continent', 'North America').setTargeting('Region', 'Americas');
 
       googletag.defineSlot('/5445168/SOS_left_mid_120x300', [120, 300], 'SOS_left_mid_120x300')
         .addService(googletag.pubads())
-        .setTargeting('Manuf', 'SOS').setTargeting('Page', '/information/SOSPrivacyPolicy.php').setTargeting('Continent', 'North America').setTargeting('Region', 'US/Canada');
+        .setTargeting('Manuf', 'SOS').setTargeting('Page', '/information/SOSPrivacyPolicy.php').setTargeting('Continent', 'North America').setTargeting('Region', 'Americas');
 
       googletag.defineSlot('/5445168/SOS_left_top_120x600', [120, 600], 'SOS_left_top_120x600')
         .addService(googletag.pubads())
-        .setTargeting('Manuf', 'SOS').setTargeting('Page', '/information/SOSPrivacyPolicy.php').setTargeting('Continent', 'North America').setTargeting('Region', 'US/Canada');
+        .setTargeting('Manuf', 'SOS').setTargeting('Page', '/information/SOSPrivacyPolicy.php').setTargeting('Continent', 'North America').setTargeting('Region', 'Americas');
 
       googletag.defineSlot('/5445168/SOS_right_bottom_120x300', [120, 300], 'SOS_right_bottom_120x300')
         .addService(googletag.pubads())
-        .setTargeting('Manuf', 'SOS').setTargeting('Page', '/information/SOSPrivacyPolicy.php').setTargeting('Continent', 'North America').setTargeting('Region', 'US/Canada');
+        .setTargeting('Manuf', 'SOS').setTargeting('Page', '/information/SOSPrivacyPolicy.php').setTargeting('Continent', 'North America').setTargeting('Region', 'Americas');
 
       googletag.defineSlot('/5445168/SOS_right_mid_120x300', [120, 300], 'SOS_right_mid_120x300')
         .addService(googletag.pubads())
-        .setTargeting('Manuf', 'SOS').setTargeting('Page', '/information/SOSPrivacyPolicy.php').setTargeting('Continent', 'North America').setTargeting('Region', 'US/Canada');
+        .setTargeting('Manuf', 'SOS').setTargeting('Page', '/information/SOSPrivacyPolicy.php').setTargeting('Continent', 'North America').setTargeting('Region', 'Americas');
 
       googletag.defineSlot('/5445168/SOS_right_top_120x600', [120, 600], 'SOS_right_top_120x600')
         .addService(googletag.pubads())
-        .setTargeting('Manuf', 'SOS').setTargeting('Page', '/information/SOSPrivacyPolicy.php').setTargeting('Continent', 'North America').setTargeting('Region', 'US/Canada');
+        .setTargeting('Manuf', 'SOS').setTargeting('Page', '/information/SOSPrivacyPolicy.php').setTargeting('Continent', 'North America').setTargeting('Region', 'Americas');
 
       googletag.defineSlot('/5445168/SOS_global_footer_468x60', [468, 60], 'SOS_global_footer_468x60')
         .addService(googletag.pubads())
-        .setTargeting('Manuf', 'SOS').setTargeting('Page', '/information/SOSPrivacyPolicy.php').setTargeting('Continent', 'North America').setTargeting('Region', 'US/Canada');
+        .setTargeting('Manuf', 'SOS').setTargeting('Page', '/information/SOSPrivacyPolicy.php').setTargeting('Continent', 'North America').setTargeting('Region', 'Americas');
 
       
       googletag.pubads().enableSingleRequest();
@@ -73,7 +92,7 @@
   </script>
   </head>
   <body onload="">
-  <a name="top"></a><a name="Top"></a><div id="t"><div class="colmask threecol"><div class="colmid"><div class="colleft"><div class="col1"><h1 class="PageHeader">SOS Publications: Privacy Policy</h1>
+  <a name="top"></a><a name="Top"></a><div id="t"><div class="colmask threecol"><div class="colmid"><div class="colleft"><div class="col1 "><h1 class="PageHeader">SOS Publications: Privacy Policy</h1>
 
 <p>Sound On Sound Ltd is part of the SOS Publications Group (collectively, "SOS", "we" or "our"), and we understand the importance of our customers' privacy. This Privacy Policy tells you what information we collect about you when you visit this website (our "Site") or use an online application or mobile device app program. Our Privacy Policy also tells you how we use, share and protect this information; what choices you have about how this information is used; and how you can access and update this information.</p>
 
@@ -249,7 +268,8 @@ As the internet is a global environment, collecting and processing personal info
       <a href="http://www.soundonsound.com/information">Information</a> |
       <a href="http://usdigital.soundonsound.com">Digital Editions</a> |
       <a href="http://www.soundonsound.com/information/SOSPrivacyPolicy.php">Privacy Policy</a> |
-      <a href="http://www.soundonsound.com/support">Support</a>
+      <a href="http://www.soundonsound.com/support">Support</a> |
+	  <a href="http://www.soundonsound.com/subs/access-help.php">Login Help</a>
     </p>
     <div id="SOS_global_footer_468x60">
       <script type="text/javascript">googletag.cmd.push(function() { googletag.display('SOS_global_footer_468x60'); });</script>
@@ -283,7 +303,7 @@ As the internet is a global environment, collecting and processing personal info
 	<br>
 	<li><a href="/information/BusAds.php">Readers Ads: Trade or Private Status?</a></li>
 	<li><a href="/information/Cookies.php">Cookies explained</a></li>
-	<li><a href="/support">Login help</a></li>
+	<li><a href="/subs/access-help.php">Login help</a></li>
 	<li><a href="/information/SOSPrivacyPolicy.php">SOS Privacy Policy</a></li>
 	<li><a href="/information/Security.php">Site Security</a></li>
 	<br>
@@ -344,6 +364,7 @@ As the internet is a global environment, collecting and processing personal info
       <h3><a href="/articles/SoundAdvice.php">Sound Advice</a></h3>
       <h3><a href="/articles/People.php">People</a></h3>
       <h3><a href="/information/Glossary.php">Glossary</a></h3>
+	  <h3><a href="/webextras">WebExtras</a></h3>
      <h2><a href="/support">Help + Support</a></h2>
     </div>
 
@@ -396,7 +417,7 @@ As the internet is a global environment, collecting and processing personal info
   //]]> --></script>
   <div id="header">
       <div id="tlk"><a href="/">Home</a> | <a href="http://www.soundonsound.com/app">Tablet Mag</a> | <a href="/podcast">Podcasts</a> | <a href="/competitions">WIN Prizes</a> | <a href="/shop/Dept.php?DeptID=1">Subscribe</a> | <a href="/information/PrintAds.php">Advertise</a> | <a href="/information">About SOS</a> | <a href="/support">Help</a></div>
-    <div id="tlkd">Sun 2 Jun 2013</div>
+    <div id="tlkd">Sun 13 Oct 2013</div>
   	<div id="navsrch">
   <form id="minisearch" name="minisearch" action="http://www.soundonsound.com/search" method="get">
   <input type="text" id="Keyword" name="Keyword" value=" Search SOS" onclick="if (this.value==' Search SOS') this.value=''"><a id="go" href="javascript:GoSearch()">&nbsp;</a>
@@ -446,13 +467,13 @@ As the internet is a global environment, collecting and processing personal info
    </li>
    <li><a href="http://www.soundonsound.com/news">News</a></li>
    <li><a href="http://www.soundonsound.com/articles">Articles</a>
-   	<ul class="articles"><li><a href="http://www.soundonsound.com/Contents.php">Current issue: June 2013</a></li><li><a href="">Recent issues...</a>
-   		<ul><li><a href="http://www.soundonsound.com/Contents.php?Month=5&amp;Year=2013">May 2013</a></li>
+   	<ul class="articles"><li><a href="http://www.soundonsound.com/Contents.php">Current issue: October 2013</a></li><li><a href="">Recent issues...</a>
+   		<ul><li><a href="http://www.soundonsound.com/Contents.php?Month=9&amp;Year=2013">September 2013</a></li>
+<li><a href="http://www.soundonsound.com/Contents.php?Month=8&amp;Year=2013">August 2013</a></li>
+<li><a href="http://www.soundonsound.com/Contents.php?Month=7&amp;Year=2013">July 2013</a></li>
+<li><a href="http://www.soundonsound.com/Contents.php?Month=6&amp;Year=2013">June 2013</a></li>
+<li><a href="http://www.soundonsound.com/Contents.php?Month=5&amp;Year=2013">May 2013</a></li>
 <li><a href="http://www.soundonsound.com/Contents.php?Month=4&amp;Year=2013">April 2013</a></li>
-<li><a href="http://www.soundonsound.com/Contents.php?Month=3&amp;Year=2013">March 2013</a></li>
-<li><a href="http://www.soundonsound.com/Contents.php?Month=2&amp;Year=2013">February 2013</a></li>
-<li><a href="http://www.soundonsound.com/Contents.php?Month=1&amp;Year=2013">January 2013</a></li>
-<li><a href="http://www.soundonsound.com/Contents.php?Month=12&amp;Year=2012">December 2012</a></li>
 	</ul>
 	</li>
 	<li><a href="http://www.soundonsound.com/AllIssues.php">All issues</a></li><li><a href="http://www.soundonsound.com/articles/Reviews.php">Reviews</a></li>
@@ -495,11 +516,11 @@ As the internet is a global environment, collecting and processing personal info
    	</ul>
    </li>
    <li><a href="http://www.soundonsound.com/shop">Shop</a></li>
-     <li><a href="http://www.soundonsound.com/directory">Directory</a></li>
    <li><a href="http://www.soundonsound.com/readersads">Readers' Adverts</a></li>
   <li><a href="http://www.soundonsound.com/information">Information</a></li>
   <li><a href="http://www.soundonsound.com/engineers-diary">Blog</a></li>
-  </ul>
+  <li><a href="http://www.soundonsound.com/webextras">WebExtras</a>
+  </li></ul>
   </div></div>
       </div>
 </div>
