@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the squline.com privacy policy that was archived on 2013-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130613060559id_/http%3A//squline.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the squline.com privacy policy that was archived on 2013-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131014013740id_/http%3A//squline.com/privacy-policy) for the most accurate reproduction.*
 
 # Squline – Privacy Policy
 
@@ -15,7 +15,7 @@ Please note that Squline may contain links to other websites and occasionally ot
 
 HOW TO REACH US
 
-If you have any questions regarding this Privacy Policy, please contact us. If you would like to contact Squline for any other reason, please write to XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX, Attn: Customer Service, or contact us, or visit our Website at www.squline.com.
+If you have any questions regarding this Privacy Policy, please contact us. If you would like to contact Squline for any other reason, please contact our Customer Service, or visit our Website at www.squline.com.
 
 INFORMATION WE COLLECT
 
@@ -77,13 +77,7 @@ SPECIAL NOTE TO INTERNATIONAL USERS
 
 The Service is hosted in the United States. If you are a user accessing the Service from the European Union, Asia, or any other region with laws governing personal data collection, use, and disclosure, that differ from United States laws, please note that you are transferring your personal data to the United States which does not have the same data protection laws as the EU and other regions, and by providing your personal data you consent to:
 
-use of your personal data for the uses identified above in accordance with the Privacy Policy; and
-
-the transfer of your personal data to the United States as indicated above.
-
-HOW TO REVIEW, UPDATE OR DELETE YOUR REGISTRATION INFORMATION
-
-As part of your use of our Service, you are responsible for updating your submitted registration information so that it is both current and complete. In order to update your registration information, please access your Squline Account and make the desired change at www.Squline.com/profile/show-identification.do. You may also access your Squline Account in order to change your user preferences such as unsubscribing to our mailing list.
+use of your personal data for the uses identified above in accordance with the Privacy Policy.
 
 Please note that by using our Website, you signify your agreement to this Privacy Policy, as it may be amended from time to time. If you do not agree to this Privacy Policy, please do not use our Website or the services provided thereon. We reserve the right to make changes to this Privacy Policy. We will provide notice to you of any material changes by any reasonable means including sending an email to the most recently updated address in your Squline Account and/or posting such notice and the amended policy on the Squline Website. Your continued use of our Website following changes to this Privacy Policy will mean that you accept and agree to the changes and that any information collected or provided after such change will be governed by the updated Privacy Policy.
 
