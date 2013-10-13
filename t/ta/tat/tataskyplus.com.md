@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tataskyplus.com privacy policy that was archived on 2013-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130613190200id_/http%3A//tataskyplus.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tataskyplus.com privacy policy that was archived on 2013-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131013182531id_/http%3A//www.tataskyplus.com/privacy-policy.html) for the most accurate reproduction.*
 
 # HD DVR | Tata Sky+ HD | Record TV
 
