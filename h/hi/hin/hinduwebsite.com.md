@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hinduwebsite.com privacy policy that was archived on 2013-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130524200021id_/http%3A//www.hinduwebsite.com/utilities/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hinduwebsite.com privacy policy that was archived on 2013-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131013213139id_/http%3A//www.hinduwebsite.com/utilities/privacypolicy.asp) for the most accurate reproduction.*
 
 # Hinduwebsite.com Privacy Policy
 
@@ -7,6 +7,8 @@
 Hinduwebsite.com means Hinduwebsite.com and other domains pointing to the same website such as Hinduwebsite.net, Hinduwebsite.org, Hinduwebsite.info and Hinduismatoz.com.
 
 At Hinduwebsite.com we value your privacy more than anything else. We collect information directly from you, with your knowledge and consent, such as your name or email address, to send you any specific information or our newsletter you might  have requested or subscribed to. 
+
+We collect your information in different ways.: Some information we collect when you give it to us, for example when you give it to us by: Signing-up to a newsletter, or email; Entering a competition or a promotion; Ordering book or other products or services from us; Registering on one of our websites; or Completing your profile or adding a comment on one of our online communities. 
 
 #### Our Third Party Vendors Use Cookies
 
@@ -36,7 +38,7 @@ Whatever information that is provided under such circumstances is subject to the
 
 They are therefore requested to read very carefully the privacy policy guidelines of each and every website they visit through the links or information we provide, before entering into any contractual or other relationship with them or providing any personal information about themselves or others. 
 
-The visitors of Hinduwebsite.com or related websites are also requested to read our [terms of use](https://web.archive.org/web/20130524200021id_/http%3A//www.hinduwebsite.com/termsofuse.asp) before using any of the services provided by Hinduwebsite.com or the related websites and aliases, including Hinduwebsaite.org, Hinduwebsite.net, Hinduwebsite.info, Hinduismatoz.com, SDRCENTER.COM, QjMail.com, SDRCenter.Net and Saivism.Net. 
+The visitors of Hinduwebsite.com or related websites are also requested to read our [terms of use](https://web.archive.org/web/20131013213139id_/http%3A//www.hinduwebsite.com/termsofuse.asp) before using any of the services provided by Hinduwebsite.com or the related websites and aliases, including Hinduwebsaite.org, Hinduwebsite.net, Hinduwebsite.info, Hinduismatoz.com, SDRCENTER.COM, QjMail.com, SDRCenter.Net and Saivism.Net. 
 
 #### Special Information About Google Ads
 
@@ -50,11 +52,11 @@ We reserve the right to update our privacy policy terms and conditions from time
 
 | 
 
-  * [Ways to Help and Support Us](https://web.archive.org/web/20130524200021id_/http%3A//www.hinduwebsite.com/ucanhelpus.asp)
-  * [Aims and Plans of Hinduwebsite.Com](https://web.archive.org/web/20130524200021id_/http%3A//www.hinduwebsite.com/aimsplans.asp)
-  * [ Contact Us](https://web.archive.org/web/20130524200021id_/http%3A//www.hinduwebsite.com/contactForm.aspx)
-  * [Terms of User Agreement](https://web.archive.org/web/20130524200021id_/http%3A//www.hinduwebsite.com/utilities/termsofuse.asp)
-  * [What Is New At Hinduwebsite.com](https://web.archive.org/web/20130524200021id_/http%3A//www.hinduwebsite.com/whatisnew.asp)
+  * [Ways to Help and Support Us](https://web.archive.org/web/20131013213139id_/http%3A//www.hinduwebsite.com/ucanhelpus.asp)
+  * [Aims and Plans of Hinduwebsite.Com](https://web.archive.org/web/20131013213139id_/http%3A//www.hinduwebsite.com/aimsplans.asp)
+  * [ Contact Us](https://web.archive.org/web/20131013213139id_/http%3A//www.hinduwebsite.com/contactForm.aspx)
+  * [Terms of User Agreement](https://web.archive.org/web/20131013213139id_/http%3A//www.hinduwebsite.com/utilities/termsofuse.asp)
+  * [What Is New At Hinduwebsite.com](https://web.archive.org/web/20131013213139id_/http%3A//www.hinduwebsite.com/whatisnew.asp)
 
 
 
