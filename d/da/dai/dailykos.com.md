@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dailykos.com privacy policy that was archived on 2013-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130627012202id_/http%3A//www.dailykos.com/special/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailykos.com privacy policy that was archived on 2013-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131014002722id_/http%3A//www.dailykos.com/special/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
