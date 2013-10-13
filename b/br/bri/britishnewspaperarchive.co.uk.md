@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the britishnewspaperarchive.co.uk privacy policy that was archived on 2013-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130505212618id_/http%3A//www.britishnewspaperarchive.co.uk/content/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the britishnewspaperarchive.co.uk privacy policy that was archived on 2013-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131013220950id_/http%3A//www.britishnewspaperarchive.co.uk/content/privacy) for the most accurate reproduction.*
 
 # Privacy | British Newspaper Archive
 
@@ -76,7 +76,7 @@ We reserve the right to access and disclose individually identifiable informatio
 
 **Service emails:** We need to send these to administer the service. Service emails include registration and payment confirmations, warnings that we are about to charge you or that your subscription or credits are about to expire, and welcome emails that provide useful information about how to use a service or feature when you sign up or start using it. Also, if we make a fundamental change to the website or our Terms & Conditions that we think we need to make you aware of (for legal or simply for courtesy reasons), we may send you a service email.
 
-**Unsubscribing from service emails:** Because of the nature of these emails, we don’t allow you to unsubscribe, but we can switch off your account if you are no longer interested in using the website. Contact our [Customer Support team](https://web.archive.org/web/20130505212618id_/http%3A//www.britishnewspaperarchive.co.uk/help/contact "contact us") to do this.
+**Unsubscribing from service emails:** Because of the nature of these emails, we don’t allow you to unsubscribe, but we can switch off your account if you are no longer interested in using the website. Contact our [Customer Support team](https://web.archive.org/web/20131013220950id_/http%3A//www.britishnewspaperarchive.co.uk/help/contact "contact us") to do this.
 
 **Our use of cookies:**
 
@@ -86,7 +86,7 @@ Cookies: We use small text files known as “cookies” to enhance your experien
 
 -  To hold your login information (mentioned above), so that you do not need to log in each time you visit the website, and your homepage is personalised. This option can be turned off by logging out, and unticking the “Remember me” option when you next sign in;
 
--  To facilitate optimal use of our service by means of a temporary “session” cookie which helps you to navigate through the website and enhances your user experience. These cookies disappear when your browser session ends, or when you click the “Signout” link on the website homepage; and
+-  To facilitate optimal use of our service by means of a temporary “session” cookie which helps you to navigate through the website and enhances your user experience. These cookies disappear when your browser session ends, or when you click the “Log out” link on the website homepage; and
 
 -  To help us recognise you as a unique visitor by means of a “persistent” cookie when you return to our website and to allow us to tailor content or advertisements to match your preferred interests or to avoid showing you the same adverts and messages repeatedly.
 
@@ -104,26 +104,18 @@ Disabling cookies: Most internet browsers are automatically set up to accept coo
 
 **Changes to this Privacy Policy:** We might make changes to this Privacy Policy from time to time – check back here to stay up to date. If we make a major change to it, we’ll usually send you a service email describing the change and what it means for you.
 
-**Contact Us:** We hope that’s clear. If it isn’t or you have another question that isn’t covered, [please contact us](https://web.archive.org/web/20130505212618id_/http%3A//www.britishnewspaperarchive.co.uk/help/contact "contact us").
+**Contact Us:** We hope that’s clear. If it isn’t or you have another question that isn’t covered, [please contact us](https://web.archive.org/web/20131013220950id_/http%3A//www.britishnewspaperarchive.co.uk/help/contact "contact us").
 
 **Email:** ****[support@britishnewspaperarchive.co.uk](mailto:support@britishnewspaperarchive.co.uk "BNA Customer Support Email")
 
- **Address:**
-
-bright **solid** Newspaper Archive Ltd
-
-Gateway House
-
-Luna Place
-
-Dundee Technology Park
-
-Dundee
-
+**Address:**  
+bright **solid** Newspaper Archive Ltd  
+Gateway House  
+Luna Place  
+Dundee Technology Park  
+Dundee  
 DD2 1TP 
 
-** Telephone:** (01382) 210 100
+**Telephone:** (01382) 210 100
 
-** Office Opening Hours:**
-
-09:00 - 17:00 (Monday to Friday)
+**Office Opening Hours:** 09:00 - 17:00 (Monday to Friday)
