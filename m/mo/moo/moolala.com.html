@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the moolala.com privacy policy that was archived on 2013-05-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130509035830id_/http%3A//www.moolala.com/Docs/Privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the moolala.com privacy policy that was archived on 2013-10-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131013070724id_/http%3A//www.moolala.com/Docs/Privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml">
 
@@ -8,13 +8,17 @@
     <meta name="title" content="Moolala: Great Deals, Amazing Rewards">
     <meta name="description" content="Find out what all the excitement is about. Moolala offers great deals and incredible rewards."> 
     <meta property="og:title" content="Moolala: Great Deals, Amazing Rewards">
+    <meta property="og:url" content="http://www.moolala.com/Docs/Privacy">
     <meta property="og:description" content="Find out what all the excitement is about. Moolala offers great deals and incredible rewards.">
-    <meta property="og:image" content="http://files.moolala.com/images/moolala_fb.jpg">
+    <meta property="og:image" content="">
+    <meta property="og:image:width" content="400">
+    <meta property="og:image:height" content="400">
+    <meta name="p:domain_verify" content="da9c4510a1ee84c6110f2807a6285998">
     <meta charset="UTF-8">
 
     <script src="http://www.moolala.com/Scripts/jquery.min.js" type="text/javascript"></script>
     <script src="http://www.moolala.com/Scripts/cufon-yui.js" type="text/javascript"></script>
-    <script src="http://www.moolala.com/Scripts/common.js" type="text/javascript"></script>
+    <script src="http://www.moolala.com/Scripts/common.js?release=20130923" type="text/javascript"></script>
     <script src="http://www.moolala.com/Scripts/dialog.js" type="text/javascript"></script>
     <script src="http://www.moolala.com/Scripts/jquery.colorbox-min.js" type="text/javascript"></script>
 
@@ -24,8 +28,8 @@
         <script src="http://www.moolala.com/Scripts/thick_500.font.moolala.js" type="text/javascript"></script>
     
 
-    <link rel="stylesheet" href="http://www.moolala.com/Content/common.css" type="text/css">
-    <link rel="stylesheet" href="http://www.moolala.com/Content/moolala.css?release=20130220" type="text/css">
+    <link rel="stylesheet" href="http://www.moolala.com/Content/common.css?release=20130923" type="text/css">
+    <link rel="stylesheet" href="http://www.moolala.com/Content/moolala.css?release=20130923" type="text/css">
     <link rel="stylesheet" href="http://www.moolala.com/Content/colorbox_white.css" type="text/css">
     <link rel="shortcut icon" type="image/x-icon" href="http://files.moolala.com/favicon.ico">
 
@@ -39,17 +43,8 @@
         <script src="http://www.moolala.com/Scripts/html5.js"></script>
     <![endif]-->
 
-    
-    <title>Moolala - Privacy Policy</title>
-    <style type="text/css">
-        .privacy p { margin:0px; padding:0; padding-bottom:10px; }
-        .privacy p.h1 { font-weight:bold; }
-        .privacy div.indent { margin:0px; padding:0; padding-left:20px;padding-right:20px; }
-        .privacy ol { margin:0px; padding:0; padding-left:20px; }
-        .privacy ul { margin:0px; padding:0; padding-left:20px; }
-    </style>
- 
-    
+     
+            <script src="//cdn.optimizely.com/js/122344000.js"></script>
     
     <script type="text/javascript">
         var _gaq = _gaq || [];
@@ -92,9 +87,28 @@
     </script>
 
     
-            <script src="//cdn.optimizely.com/js/122344000.js"></script>
+    <title>Moolala - Privacy Policy</title>
+    <style type="text/css">
+        .privacy p { margin:0px; padding:0; padding-bottom:10px; }
+        .privacy p.h1 { font-weight:bold; }
+        .privacy div.indent { margin:0px; padding:0; padding-left:20px;padding-right:20px; }
+        .privacy ol { margin:0px; padding:0; padding-left:20px; }
+        .privacy ul { margin:0px; padding:0; padding-left:20px; }
+    </style>
+ 
     
-<script id="facebook-jssdk" async="" src="http://connect.facebook.net/en_US/all.js"></script></head>
+    <script language="javascript" type="text/javascript">
+        $(function () {
+            $(document).ready(function () { });
+
+            $('#SearchTerms').keypress(function (key) {
+                var code = key.keyCode ? key.keyCode : key.which;
+                if (code == 13)
+                    SearchDeals();
+            });
+        });
+    </script>
+<script id="facebook-jssdk" async="" src="//connect.facebook.net/en_US/all.js"></script></head>
 
 
 <body id="body" class="">
@@ -126,21 +140,62 @@
             window.fbAsyncInit = function () {
                 FB.init({
                     appId: '205328742852571', // App ID
-                    channelUrl: 'http://www.moolala.com/channel.html',
+                    channelUrl: '//www.moolala.com/channel.html',
                     status: true, // check login status
                     cookie: true, // enable cookies to allow the server to access the session
                     xfbml: true,  // parse XFBML
                     oauth: true,
                 });
 
-                // Additional initialization code here
+                /*FB.getLoginStatus(function(response) {
+                    if (response.status === 'connected') {
+                        // connected
+                        //alert('connected!');
+                        //alert(response.authResponse.userID);
+                        //alert('connected: '+ response.authResponse.accessToken);
+                        alert("/Facebook/Login?ReturnUrl=&token=" + response.authResponse.accessToken);
+                    } else if (response.status === 'not_authorized') {
+                        // not_authorized
+                        alert('not authorized');
+                        //FacebookLogin();
+                    } else {
+                        // not_logged_in
+                        alert('not logged in');
+                        //FacebookLogin();
+                    }
+                });*/
             };
+
+            /*function FacebookLogin() {
+                FB.login(function(response) {
+                    if (response.authResponse) {
+                        // connected
+                        afterFacebookConnect('')
+                    } else {
+                        // cancelled
+                        alert('cancelled');
+                    }
+                });
+            }
+
+            function Login()
+            {
+                FB.getLoginStatus();
+            }
+
+            function testAPI() {
+                console.log('Welcome!  Fetching your information.... ');
+                FB.api('/me', function(response) {
+                    console.log('Good to see you, ' + response.name + '.');
+                });
+            }*/
 
             // Load the SDK Asynchronously
             (function (d) {
                 var js, id = 'facebook-jssdk'; if (d.getElementById(id)) { return; }
                 js = d.createElement('script'); js.id = id; js.async = true;
-                js.src = "http://connect.facebook.net/en_US/all.js"; //
+                js.src = "//connect.facebook.net/en_US/all.js"; //
+                //js.src = '//connect.facebook.net/en_US/all/debug.js';
                 d.getElementsByTagName('head')[0].appendChild(js);
             } (document, 'script', 'facebook-jssdk'));
         </script>
@@ -154,7 +209,7 @@
             <div class="left topSignupFormAndResult">
                 <div id="topSignupForm" class="topSignupForm">
                     <form action="/Signup/TopSignup" id="topSignupForm" method="post">
-                        <input type="hidden" name="TopSignupReturnURL" value="/docs/privacy">
+                        <input type="hidden" name="TopSignupReturnURL" value="/Docs/Privacy">
                         
                         <div class="right">
                             <input class="topSignupButton" type="submit" value="" onclick="this.blur();return topSignupBarSubmit();">
@@ -316,18 +371,17 @@
                             
                         </div>
                         
-
-                            <div class="headernav left" style="width:300px;">
+                            <div class="headernav left" style="width:350px;margin-left:30px;">
                                 <div class="left">
                                     <div class="arrow"><div class="arrowright" onclick="location.href='http://www.moolala.com/Deals';"></div></div>
-                                    <div class="label" style="margin-right:25px;"><a href="http://www.moolala.com/Deals" onclick="this.blur();">Today's Deal</a></div>
+                                    <div class="label" style="margin-right:15px;"><a style="font-size:12px;" href="http://www.moolala.com/Deals" onclick="this.blur();">All Deals</a></div>
                                     <div class="arrow"><div class="arrowright" onclick="location.href='http://www.moolala.com/About/HowItWorks';"></div></div>
-                                    <div class="label"><a href="http://www.moolala.com/About/HowItWorks" onclick="this.blur();">How It Works</a></div>
+                                    <div class="label" style="margin-right:15px;"><a style="font-size:12px;" href="http://www.moolala.com/About/HowItWorks" onclick="this.blur();">How It Works</a></div>
+                                    
                                     <div class="clr"></div>
                                 </div>
                                 <div class="clr"></div>
                             </div>
-
                         
                     </div>
                     <a id="iPhoneAppBadge" style="" target="itunes" href="http://itunes.apple.com/us/app/moolala/id477464692?mt=8"></a>
@@ -336,7 +390,7 @@
                 <div id="headerright">
                     <div id="logininfonav">
                         
-                                <a id="LogInLink" style="margin-left:60px;" href="https://www.moolala.com/Login?ReturnUrl=/docs/privacy">LOG IN</a>
+                                <a id="LogInLink" style="margin-left:60px;" href="https://www.moolala.com/Login?ReturnUrl=/Docs/Privacy">LOG IN</a>
                                 <a href="https://www.moolala.com/Signup">SIGN UP</a>
                                
                         <div class="clr"></div>
@@ -540,6 +594,27 @@
     </div>
 </div>
 
+
+<div id="SnapABug_W"></div>
+<div id="SnapABug_WP"></div>
+<div id="SnapABug_Applet"></div>
+      
+<script type="text/javascript">
+    document.write(unescape("%3Cscript src='" + ((document.location.protocol == "https:") ? "https:" : "http:") + "//snapabug.appspot.com/snapabug.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://snapabug.appspot.com/snapabug.js" type="text/javascript"></script>
+<script type="text/javascript">
+    SnapABug.setDomain('.moolala.com');
+    SnapABug.initAsync('72b9767e-cbe7-47e4-9530-554b8b1c9179');
+
+    
+    var img = $('<img />').attr('src', ((document.location.protocol == "https:") ? "https:" : "http:") + '//snapabug.appspot.com/statusImage?w=72b9767e-cbe7-47e4-9530-554b8b1c9179').load(function() {
+        try {
+            if (this.naturalWidth <= 1)
+                $('.chat').hide();
+        } catch (err) { }            
+    });
+    
+</script>
 
 
 
