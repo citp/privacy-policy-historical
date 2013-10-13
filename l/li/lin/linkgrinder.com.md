@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the linkgrinder.com privacy policy that was archived on 2013-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130629122043id_/http%3A//www.linkgrinder.com//privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the linkgrinder.com privacy policy that was archived on 2013-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131013042515id_/http%3A//www.linkgrinder.com//privacy.cfm) for the most accurate reproduction.*
 
 # LinkGrinder - Privacy Policy A searchable, browsable, archive of articles about everything under the sun. Articles, news, information,tutorials, how-to, instruction
 
