@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the javdict.com privacy policy that was archived on 2013-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130430133946id_/http%3A//javdict.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the javdict.com privacy policy that was archived on 2013-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131013183140id_/http%3A//javdict.com/privacy.html) for the most accurate reproduction.*
 
 # Free JAV Streaming | Japanese Porn | Tube Japanese
 
