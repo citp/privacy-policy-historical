@@ -1,47 +1,89 @@
-> *The following text is extracted and transformed from the generalpants.com.au privacy policy that was archived on 2013-01-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130116072043id_/http%3A//www.generalpants.com.au/Privacy--Legals.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the generalpants.com.au privacy policy that was archived on 2013-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131013023850id_/http%3A//www.generalpants.com.au/content/privacy) for the most accurate reproduction.*
 
-# Personal Information & Privacy on this Website - General Pants Co.
+# Privacy | General Pants Online
 
-  *   *   * 
+We may collect and process personal data relating to you by you providing such personal data by filling in forms on our site or by you contacting us. This includes, but is not limited to, information provided at the time of registering to use (or become a member of) our site, subscribing to any services (e.g newsletters), purchasing products or requesting further services.  
+ 
 
+## Collection of Personal Information
 
-##### Disclaimer
+ \- From you
 
-If you are fond of visits to your local dentist, or you enjoy finding yellow A5-sized envelopes on your car windscreen as left by your unfriendly city ranger, or perhaps getting pulled over by cops rocks your world, almost as much as waking up at 5.30am to milk cows and changing busted tyres in the rain and stuff… THIS IS FOR YOU. This is our Disclaimer and Privacy Policy and so on.
+We may collect and process personal data relating to you by you providing such personal data by filling in forms on our site or by you contacting us. This includes, but is not limited to, information provided at the time of registering to use (or become a member of) our site, subscribing to any services (e.g newsletters), purchasing products or requesting further services. 
 
-Although care is taken to provide accurate information, please be aware that we cannot guarantee the accuracy of the information we post. For example, prices may be subject to change, not all styles will be available in all stores, and typographical errors are likely to occur. In the case of the discovery of an error the details on the website will be changed (or removed, if removal is deemed necessary) within a reasonable time frame. This is a manual process, however, so please realise that we may not be able to remove or edit particular parts immediately.
+\- By using cookies 
 
-Any user who discovers any misleading information on the website is encouraged to contact the editor of this site.
+In addition, we may use ‘cookies’ to collect data relating to your general internet usage. This data may include IP-addresses, browser versions, number of visits and similar such data relating to your navigation of the internet and our site. A cookie is a small text file that is placed on your computer’s hard drive. Cookies help us to improve our site and to deliver a better and more personalised service, for instance by storing information about your preferences and allowing us to recognise you when you return to our site. 
 
-##### Privacy
+You may refuse to accept cookies by activating settings on your internet browser. However, please note that if your select such settings your may be unable to access certain parts of our site. 
 
-No personal information is automatically collected from users of this site. Personally identifiable data about users are known to General Pants Co only when voluntarily submitted by users of the site. However, certain non-personal information of users (for example, the type of browser being used, the operating system used by the user and the domain name of the user's Internet service provider) is collected. This information is primarily used for internal purposes, but only in an aggregate form (individual users cannot be identified). generalpants.com.au reserves the right to modify this policy at any time.
+Unfortunately, the transmission of information via the internet is not completely secure. Any transmission is therefore at your own risk.   
+ 
 
-##### Opting in to receive communications from us
+## Use of Personal Data
 
-The information you provide in any sign-up form on the website is submitted to an email list. Submission of your email addresses and other details shall be deemed to constitute permission to communicate with you using those details. We use your details to ensure that you receive information which applies to you. We may also use the information to try to contact you (for example, if you are a prize winner). Your personal details are collected by Impact Data Pty Ltd a third party, who assists us with providing, maintaining and improving our website. We have in place with Impact Data a written agreement that they will abide by the National Privacy Principles in respect of the use, disclosure and security of your personal information.
+We use the data collected from our site in the following ways:
 
-When you subscribe, you will receive an email from us that will contain details of promotions, marketing initiatives and offers. We may also contact you regarding changes to your account, delivery information, or any other such deemed service messages.
+\- To provide you with information, products or services that you have requested from us, or which, based on your preferences, we feel you may be interest you.
 
-##### Opting out of communications from us
+\- To notify you about changes to our services.
 
-You may unsubscribe (leave) our mailing list at any time using the unsubscribe link found at the bottom of every newsletter. Alternatively, you may email editor@generalpantsgroup.com.au and request your email address be unsubscribed. Please ensure you include the email address you wish to unsubscribe. You mail also write to the following address, confirming your email address and unsubscribe request:
+\- To ensure that content from our site is presented in the most effective manner for you and for your computer.
 
-The Online Editor  
-General Pants Group  
-Unit 25  
-30-32 Beaconsfield Street  
-Alexandria  
-NSW, 2015  
+\- To carry out our obligations arising from any contracts entered into between you and us.
+
+\- To allow you to participate in interactive features of our service, when you choose to do so.
+
+If we disclose your personal information to any of our group companies, they may use it for the same purposes that we may (including so that they can update you on their latest products, news and special offers via e-mail, post or telephone).   
+ 
+
+## Disclosure of Personal Data
+
+We may disclose your personal information to any of our group companies. 
+
+We will provide personal information about our customers to third parties outside our group companies. These third parties usually help us in providing goods and services to you, and include: 
+
+– Couriers (who we arrange to deliver goods to you on our behalf). 
+
+– Organisations who carry out credit, fraud and other security checks.
+
+– Outsourced service providers (e.g. market research agencies). 
+
+We may also disclose your personal information to third parties outside our group of companies: 
+
+– Where we have your express permission to do so.
+
+– Where it can reasonably be inferred from the circumstances that you consent to the disclosure to the third parties.
+
+– In the event that General Pants sells or buys any business or assets. 
+
+– If General Pants or substantially all of its assets are acquired by a third party, in which case personal data which we hold about our customers may be one of the transferred assets. 
+
+– If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our terms and conditions; or to protect the rights, property, or safety of General Pants, our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction. 
+
+We try to limit the information we provide to third parties to the information they need to help us provide goods and services to you. We also enter into contracts with these third parties that require them to meet the privacy standards we set for ourselves in handling your personal information, and use your personal information only for the purposes that we gave it to them. 
+
+All General Pants customers have the option to opt-out of receiving marketing communications from us and/or selected third parties. If you do not wish to continue to receive marketing communications from us and/or selected third parties you should opt-out by clicking on the "unsubscribe" link in any email communications that we might send you. Alternatively, you may email editor@generalpantsgroup.com.au and request your email address to be unsubscribed. You may also write to the following address, confirming your email address and unsubscribe request:
+
+The Online Editor
+
+General Pants Group
+
+Unit 25
+
+30-32 Beaconsfield Street
+
+Alexandria
+
+NSW, 2015
+
 02 9290 0800
 
-##### Cookies
+You have a right to access the personal data we hold about you. To obtain a copy of the personal information we hold about you, please write to us at our registered address provided above.   
+ 
 
-Some of our web pages use 'cookies', which are small files that may be placed on your hard disk for record-keeping purposes. A cookie helps us to remember who you are. Cookies can make subsequent visits to the web page simpler and more seamless. You can set your browser to notify you when you receive a cookie, giving you the chance to decide whether or not to accept it. (However, by not accepting cookies some web pages may not display properly or you may not be permitted to access certain information). A server cannot find out a name or email address, or anything about you by using cookies. Cookies by themselves do not tell us your email address or other personal information. However, once you choose to provide the web site with personal information, via email or any other means this information may be linked to data stored in the cookie.
+## Changes to our privacy policy
+
+We may modify, alter or otherwise update this privacy policy at any time. We encourage you to review this policy from time to time. 
 
 If you have any questions or comments about our privacy practices please contact The Privacy Officer, by telephone (02) 9290 0800 or by email, editor@generalpantsgroup.com.au
-
-  
-generalpants.com.au reserves the right to modify this agreement at any time. 
-
-##### 
