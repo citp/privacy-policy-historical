@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the team-bhp.com privacy policy that was archived on 2013-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130630185157id_/http%3A//www.team-bhp.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the team-bhp.com privacy policy that was archived on 2013-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131013092852id_/http%3A//www.team-bhp.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Team-BHP
 
-Your privacy is of utmost importance to us. www.Team-BHP.com is fully committed to protecting your privacy. 
+Your privacy is of utmost importance to us. www.Team-BHP.com is fully committed to protecting your privacy.
 
 We will NEVER sell your personal information to third parties. Listed below is what type of information we receive and collect when you visit www.Team-BHP.com.
 
@@ -18,4 +18,8 @@ Google's use of the DoubleClick cookie enables it and its partners to serve ads 
 
 www.Team-BHP.com uses cookies to measure the performance of advertising banners, the frequency of display and clicks, as also how many clicks led to conversions. We may use cookies to estimate the total reach of an advertising campaign or frequency of display.
 
-You may opt out of the use of the DoubleClick cookie for interest-based advertising by visiting the [Ads Preference Manager](http://www.google.com/ads/preferences/). You may also opt out of a third-party vendor's use of cookies for interest-based advertising by visiting [aboutads.info](http://www.aboutads.info/). You can set your browser to decline the cookie. Do note that some www.Team-BHP.com features and services may not function properly if your cookies are disabled.
+By using the website www.Team-BHP.com, you consent to collection, storage and use of your browsing history on this website. We share this information with trusted 3rd parties that use it to show you marketing communications of interest only. While no Personally Identifiable Information is shared, we respect your right to privacy, hence this transparent disclosure. In addition, we respect your right to opt out. If you want to opt out from this program, please click on the link below and select the appropriate option on the destination page. 
+
+[Opt Out Page](http://www.adobe.com/in/privacy/opt-out.html?button=Opt-Out)
+
+You may opt out of the use of the DoubleClick cookie for interest-based advertising by visiting the [Ads Preference Manager](http://www.google.com/ads/preferences/). You may also opt out of a third-party vendor's use of cookies for interest-based advertising by visiting [aboutads.info](http://www.aboutads.info/). In addition, you can opt out of several similar programs by visiting the [Network Advertising Initiative](http://www.networkadvertising.org/choices/) gateway opt-out site. You can set your browser to decline the cookie. Do note that some www.Team-BHP.com features and services may not function properly if your cookies are disabled.
