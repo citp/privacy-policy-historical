@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the mensxp.com privacy policy that was archived on 2013-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130519073808id_/http%3A//www.mensxp.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mensxp.com privacy policy that was archived on 2013-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131013143011id_/http%3A//www.mensxp.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
-
-**PRIVACY POLICY**
 
 MensXP.com is owned and operated by Times Internet Limited, (TIL). TIL powers / manages the online properties (including MensXP and various other internet sites and community boards and services, to name a few(Indiatimes Channels) hereinafter collectively referred to as “Indiatimes Channels” .
 
@@ -62,7 +60,7 @@ We use third-party advertising companies to serve ads when you visit or use our 
 
 **GRIEVANCE REDRESSAL**
 
-In the event you have any grievance relating to the processing of information provided by you, you may contact our Grievance Officer at [copyright.infringement@indiatimes.com](mailto:copyright.infringement@indiatimes.com); or write at the following address:  
+In the event you have any grievance relating to the processing of information provided by you, you may contact our Grievance Officer at copyright.infringement@indiatimes.com; or write at the following address:  
 Grievance Redressal Officer (mention the respective website)  
 Times Internet Limited  
 4th Floor, MPD World Tower,  
