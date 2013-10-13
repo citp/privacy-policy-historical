@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nationalenquirer.com privacy policy that was archived on 2013-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130612112448id_/http%3A//www.nationalenquirer.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nationalenquirer.com privacy policy that was archived on 2013-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131014015632id_/http%3A//www.nationalenquirer.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - The National Enquirer
 
