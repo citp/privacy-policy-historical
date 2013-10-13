@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fiveguys.com privacy policy that was archived on 2013-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130625035500id_/http%3A//www.fiveguys.com/contact-us/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fiveguys.com privacy policy that was archived on 2013-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131013211109id_/http%3A//www.fiveguys.com/contact-us/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | Five Guys Burgers and Fries
 
