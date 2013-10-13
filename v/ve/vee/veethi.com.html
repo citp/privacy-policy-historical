@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the veethi.com privacy policy that was archived on 2013-04-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130407224917id_/http%3A//www.veethi.com/privacy_policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the veethi.com privacy policy that was archived on 2013-10-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131013143658id_/http%3A//www.veethi.com/privacy_policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
 <title>Privacy Policy : India Local City Business Directory Search : Indian Yellow Pages : Veethi.com</title>
@@ -73,9 +73,21 @@ jQuery().ready(function() {
 		//alert('hi');
 	});
 	jQuery("#txtSearch").result(function(event, data, formatted) {
-		if (data)
+		/*if (data)
 		var url='places/india_results-'+escape(data[1])+'.htm';
-		window.open(url,'_self');
+		window.open(url,'_self');*/
+		if (data)
+		{	if(data[3] == 'l')
+			{
+				var url='/'+data[1]+'/YP'+data[2];
+				window.open(url,'_self');
+			}
+			else
+			{
+				var url='/places/'+'india_results-'+escape(data[2])+'.htm';
+				window.open(url,'_self');
+			}
+		}
 	});
 	//for new home page====================================================================================================
 	jQuery("#txtSearch_new").autocomplete("autocomplete_search.php", {
@@ -83,9 +95,21 @@ jQuery().ready(function() {
 		selectFirst: false
 	});
 	jQuery("#txtSearch_new").result(function(event, data, formatted) {
-		if (data)
+		/*if (data)
 		var url='places/india_results-'+escape(data[1])+'.htm';
-		window.open(url,'_self');
+		window.open(url,'_self');*/
+		if (data)
+		{	if(data[3] == 'l')
+			{
+				var url='/'+data[1]+'/YP'+data[2];
+				window.open(url,'_self');
+			}
+			else
+			{
+				var url='/places/'+'india_results-'+escape(data[2])+'.htm';
+				window.open(url,'_self');
+			}
+		}
 	});
 	jQuery("#txtplacecity_new").autocomplete("places/autocomplete_placecity.php", {
 		width: 450,
@@ -424,36 +448,38 @@ jQuery(document).ready(function() {
  <!--LOGO (BEGIN)-->
         <a href="http://www.veethi.com" title="Discover the People, Places and Businesses of India"><img src="http://www.veethi.com/images/logo.jpg" alt="Veethi Logo" id="vtLogo_screen" width="205" height="75">
  <!--LOGO (END)-->
-</a><div style="float:right; padding-top:3px;"><a href="http://www.veethi.com" title="Discover the People, Places and Businesses of India">	Already have an account? </a><a href="http://www.veethi.com/user_login.html" title="Log in India Local City Business Directory">Login</a> or <a href="http://www.veethi.com/user_register.html" title="Register With India Local City Business Directory">Register</a></div><div style="margin-bottom:2px;float:right; height:90px; width:728px;  "><p><script type="text/javascript"><!--
+</a><div style="float:right; padding-top:2px;"><a href="http://www.veethi.com" title="Discover the People, Places and Businesses of India">	Already have an account? </a><a href="http://www.veethi.com/user_login.html" title="Log in India Local City Business Directory">Login</a> or <a href="http://www.veethi.com/user_register.html" title="Register With India Local City Business Directory">Register</a></div><div style="margin-bottom:5px;float:right; height:90px; width:728px;  "><p>
+<script type="text/javascript"><!--
 google_ad_client = "ca-pub-7264437082901485";
-/* Yellow Pages 728x90 */
-google_ad_slot = "7089636723";
+/* Header Leader Board 728x90, created 11/7/10 */
+google_ad_slot = "0479105868";
 google_ad_width = 728;
 google_ad_height = 90;
 //-->
 </script>
 <script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
-</script>	
+</script>
 							</p></div> <p id="slogan"><span>       </span></p></div>
   <!--MAIN SITE NAVIGATION (BEGIN)-->
     <div id="mainNav_container">
        <div class="contenth mainNavContent">
            <ul class="mainNav clearfix">
-			 <li><a href="http://www.veethi.com" class="" title="Veethi Home">Home</a></li><li><a href="http://www.veethi.com/about-india.html" class="" title="About India">About India</a></li><li><a href="http://www.veethi.com/india-people/" class="" title="India People">People</a></li><li><a href="http://www.veethi.com/places/" class="" title="India Places">Places</a></li><li><a href="http://www.veethi.com/places/india_yellowpages_list.html" class="" title="Indian Yellow Pages">Yellow Pages</a></li><li><a href="http://www.veethi.com/places/india_photos.html" class="" title="India Photos">Photos</a></li><li><a href="http://www.veethi.com/places/india_videos.html" class="" title="India Videos">Videos</a></li><li><a href="http://www.veethi.com/travel/india_travel_guide.html" class="" title="India Travel Guide">Travel Guide</a></li><li><a href="http://www.veethi.com/forum_home.html" class="" title="India Forums">Forums</a></li><li><a href="http://www.veethi.com/articles/" class="" title="India Articles">Articles</a></li>			<li class="lst"><a href="#">More&nbsp;&gt;&gt;</a>
+			 <li><a href="http://www.veethi.com" class="" title="Veethi Home">Home</a></li><li><a href="http://www.veethi.com/about-india.html" class="" title="About India">About India</a></li><li><a href="http://www.veethi.com/india-people/" class="" title="India People">People</a></li><li><a href="http://www.veethi.com/places/india_yellowpages_list.html" class="" title="Indian Yellow Pages">Yellow Pages</a></li><li><a href="http://www.veethi.com/places/india_photos.html" class="" title="India Photos">Photos</a></li><li><a href="http://www.veethi.com/places/india_videos.html" class="" title="India Videos">Videos</a></li><li><a href="http://www.veethi.com/travel/india_travel_guide.html" class="" title="India Travel Guide">Travel Guide</a></li><li><a href="http://www.veethi.com/forum_home.html" class="" title="India Forums">Forums</a></li><li><a href="http://www.veethi.com/articles/" class="" title="India Articles">Articles</a></li><li><a href="http://www.veethi.com/schools-in-india/" class="" title="Schools">Schools</a></li><li><a href="http://www.veethi.com/colleges-in-india/" class="" title="Colleges">Colleges</a></li>			<!--<li class="lst"><a href="#" >More&nbsp;>></a>
 						<ul>
 							<li><a href="http://www.veethi.com/members.html" title="Veethi Members">Members</a></li>
-							<li><a href="http://www.veethi.com/places/facts_about_india.html" title="Facts about India">Facts About India</a></li>
-							<li><a href="http://www.veethi.com/news.html" title="India News">News</a></li>
-							<li><a href="http://www.veethi.com/places/india-pin-codes.html" title="PIN Codes">PIN Codes</a></li>
-							<li><a href="http://www.veethi.com/places/india_banks-ifsc-micr-codes.html" title="Bank IFSC &amp; MICR Codes">Bank IFSC Codes</a></li>
-							<li><a href="http://www.veethi.com/places/india-std-codes.html" title="STD Codes">STD Codes</a></li>
-							<li><a href="http://www.veethi.com/places/india_complaints.html" title="Complaints">Complaints</a></li>
-							<li><a href="http://www.veethi.com/realestate/" title="Properties in India">Real Estate</a></li>
-							<li><a href="http://www.veethi.com/places/india_events.html" title="Events">Events</a></li>
-							<li><a href="http://www.veethi.com/jobs/" title="Jobs">Jobs</a></li>
-							<li><a href="http://www.veethi.com/user_login.html" title="Login">Login</a></li>
+							<li><a href="http://www.veethi.com/colleges-in-india/" title="Colleges in India">Colleges</a></li>
+							<li><a href="http://www.veethi.com/schools-in-india/" title="Schools in India">Schools</a></li>
+							<li><a href="http://www.veethi.com/places/facts_about_india.html"  title="Facts about India">Facts About India</a></li>
+							<li><a href="http://www.veethi.com/places/india-pin-codes.html"  title="PIN Codes">PIN Codes</a></li>
+							<li><a href="http://www.veethi.com/places/india_banks-ifsc-micr-codes.html"  title="Bank IFSC & MICR Codes">Bank IFSC Codes</a></li>
+							<li><a href="http://www.veethi.com/places/india-std-codes.html"  title="STD Codes">STD Codes</a></li>
+							<li><a href="http://www.veethi.com/places/india_complaints.html"  title="Complaints">Complaints</a></li>
+							<li><a href="http://www.veethi.com/realestate/" title="Properties in India"  >Real Estate</a></li>
+							<li><a href="http://www.veethi.com/places/india_events.html"  title="Events">Events</a></li>
+							<li><a href="http://www.veethi.com/jobs/"  title="Jobs">Jobs</a></li>
+							<li><a href="http://www.veethi.com/user_login.html"  title="Login">Login</a></li>
 						</ul>
-			</li>
+			</li> -->
             </ul>
         </div>
     </div>
@@ -565,10 +591,12 @@ google_ad_height = 90;
 <meta name="google-site-verification" content="qxouxd61xcC3Tduk7nzv6EnDDAUyu2Nh-qgOtLCnkts">
 <div id="footer">
 <div>
-  <p><a href="http://www.veethi.com" title="Home">Home</a> | <a href="http://www.veethi.com/about-india.html" title="About India">About India</a> | <a href="http://www.veethi.com/india-people/" title="India People">People</a> | <a href="http://www.veethi.com/places/" title="India Places">Places</a> | <a href="http://www.veethi.com/places/india_yellowpages_list.html" title="India Yellow Pages">Yellow Pages</a> |  <a href="http://www.veethi.com/places/india_photos.html" title="India Photos">India Photos</a> | <a href="http://www.veethi.com/places/india_videos.html" title="India Videos">India Videos</a> |
-        <a href="http://www.veethi.com/travel/india_travel_guide.html" title="India Travel Guide">Travel Guide</a>  |  <a href="http://www.veethi.com/forum_home.html" title="India Forum">Forum</a> |  <a href="http://www.veethi.com/colleges-in-india/" title="Colleges in India">Colleges</a> | <a href="http://www.veethi.com/schools-in-india/" title="Schools in India">Schools</a> | <a href="http://www.veethi.com/news.html" title="India News">News</a> | <a href="http://www.veethi.com/articles/" title="Indian Articles">Articles</a>  | <a href="http://www.veethi.com/places/india-pin-codes.html" title="India PIN Codes">PIN Codes</a> | 
-		<a href="http://www.veethi.com/places/india-std-codes.html" title="India STD Codes">STD Codes</a> | <a href="http://www.veethi.com/places/india_banks-ifsc-micr-codes.html" title="India Banks IFSC &amp; MICR Codes">IFSC &amp; MICR Codes</a> | <a href="http://www.veethi.com/jobs/" title="Jobs in India">Jobs in India</a> | <a href="http://www.veethi.com/realestate/" title="India Property">Real Estate</a> | <a href="http://www.veethi.com/places/india_events.html" title="India Events">India Events</a> | <a href="http://www.veethi.com/places/india_complaints.html" title="India Complaints">India Complaints</a> | <a href="http://www.veethi.com/faq.html" title="Veethi FAQs">FAQ's</a> | 
-		<a href="http://www.veethi.com/reward_points.html" title="Veethi Reward Points">Veethi Reward Points</a> | <a href="http://www.veethi.com/terms_of_use.html" title="Terms of Use">Terms of Use</a>  |  <a href="http://www.veethi.com/privacy_policy.html" title="Privacy Policy">Privacy Policy</a>  |  <a href="http://www.veethi.com/sitemap.html" title="Sitemap">Sitemap</a> | <a href="http://www.veethi.com/aboutus.html" title="About Us">About Us</a> | <a href="http://www.veethi.com/advertise.html" title="Advertise">Advertise</a> | <a href="http://www.veethi.com/user_login.html" title="Login">Login</a> | <a href="http://www.veethi.com/contactus.html" title="Contact Veethi">Contact Us</a>
+<!-- <div rel="nofollow"> <p><iframe id='a719979e' name='a719979e' src='http://uvi.co.in/www/delivery/afr.php?zoneid=108&amp;cb=V' frameborder='0' scrolling='no' width='468' height='60'><a href='http://uvi.co.in/www/delivery/ck.php?n=af27697d&amp;cb=V' target='_blank'><img src='http://uvi.co.in/www/delivery/avw.php?zoneid=108&amp;cb=V&amp;n=af27697d' border='0' alt='' /></a></iframe> </p> </div> -->
+  
+  <p><a href="http://www.veethi.com" rel="nofollow" title="Home">Home</a> | <a href="http://www.veethi.com/about-india.html" rel="nofollow" title="About India">About India</a> | <a href="http://www.veethi.com/india-people/" rel="nofollow" title="India People">People</a> | <a href="http://www.veethi.com/places/" rel="nofollow" title="India Places">Places</a> | <a href="http://www.veethi.com/places/india_yellowpages_list.html" rel="nofollow" title="India Yellow Pages">Yellow Pages</a> |  <a href="http://www.veethi.com/places/india_photos.html" rel="nofollow" title="India Photos">India Photos</a> | <a href="http://www.veethi.com/places/india_videos.html" rel="nofollow" title="India Videos">India Videos</a> |
+        <a href="http://www.veethi.com/travel/india_travel_guide.html" rel="nofollow" title="India Travel Guide">Travel Guide</a>  |  <a href="http://www.veethi.com/forum_home.html" rel="nofollow" title="India Forum">Forum</a> |  <a href="http://www.veethi.com/colleges-in-india/" rel="nofollow" title="Colleges in India">Colleges</a> | <a href="http://www.veethi.com/schools-in-india/" rel="nofollow" title="Schools in India">Schools</a> | <a href="http://www.veethi.com/members.html" rel="nofollow" title="Members">Members</a> | <a href="http://www.veethi.com/places/india-pin-codes.html" rel="nofollow" title="India PIN Codes">PIN Codes</a> | 
+		<a href="http://www.veethi.com/places/india-std-codes.html" rel="nofollow" title="India STD Codes">STD Codes</a> | <a href="http://www.veethi.com/places/india_banks-ifsc-micr-codes.html" rel="nofollow" title="India Banks IFSC &amp; MICR Codes">IFSC &amp; MICR Codes</a> | <a href="http://www.veethi.com/jobs/" rel="nofollow" title="Jobs in India">Jobs in India</a> | <a href="http://www.veethi.com/realestate/" rel="nofollow" title="India Property">Real Estate</a> | <a href="http://www.veethi.com/places/india_events.html" rel="nofollow" title="India Events">India Events</a> | <a href="http://www.veethi.com/places/india_complaints.html" rel="nofollow" title="India Complaints">India Complaints</a> | <a href="http://www.veethi.com/faq.html" rel="nofollow" title="Veethi FAQs">FAQ's</a> | 
+		<a href="http://www.veethi.com/reward_points.html" rel="nofollow" title="Veethi Reward Points">Veethi Reward Points</a> | <a href="http://www.veethi.com/terms_of_use.html" rel="nofollow" title="Terms of Use">Terms of Use</a>  |  <a href="http://www.veethi.com/privacy_policy.html" rel="nofollow" title="Privacy Policy">Privacy Policy</a>  |  <a href="http://www.veethi.com/sitemap.html" title="Sitemap">Sitemap</a> | <a href="http://www.veethi.com/aboutus.html" rel="nofollow" title="About Us">About Us</a> | <a href="http://www.veethi.com/advertise.html" rel="nofollow" title="Advertise">Advertise</a> | <a href="http://www.veethi.com/user_login.html" rel="nofollow" title="Login">Login</a> | <a href="http://www.veethi.com/contactus.html" rel="nofollow" title="Contact Veethi">Contact Us</a>
           <br>
       <br>
     Disclaimer:  Veethi does not guarantee the accuracy of any information on this site.  Use at your own risk.</p>
