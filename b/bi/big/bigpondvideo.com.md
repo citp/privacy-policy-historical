@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bigpondvideo.com privacy policy that was archived on 2013-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130619232728id_/http%3A//www.telstra.com.au/privacy/privacy-statement/%3Fref%3DNet-Footer-Corp-Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bigpondvideo.com privacy policy that was archived on 2013-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131013192640id_/http%3A//www.telstra.com.au/privacy/privacy-statement/%3Fref%3DNet-Footer-Corp-Privacy) for the most accurate reproduction.*
 
 # 
 
@@ -6,7 +6,7 @@ We are committed to providing you with the highest levels of customer service. T
 
 Set out below is information that we are required to communicate to our customers. We recommend that you keep this information for future reference.
 
-Set out below is information that we are required to communicate to our customers. We recommend that you keep this information for future reference.
+We provide a range of telecommunication services, either through a particular division within Telstra or through one of its related companies, eg the publisher of our directories.
 
 Personal information held by us may include your name, date of birth, current and previous addresses, telephone or mobile phone number, email address, bank account or credit card details, occupation, driver's licence number and your Telstra PIN, username or password. We also hold details of your Telstra services (including their status), as well as certain details about your personal interests.
 
