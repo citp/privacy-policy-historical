@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sait.ca privacy policy that was archived on 2013-01-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130120005734id_/http%3A//www.sait.ca/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sait.ca privacy policy that was archived on 2013-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131013180327id_/http%3A//www.sait.ca/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy | SAIT Polytechnic | Calgary, Alberta
 
@@ -13,6 +13,12 @@ At SAIT, we intend to give you as much control as possible over your personal in
 If you choose to give us personal information via the Internet that we or our educational partners may need - to correspond with you, process an order or provide you with a subscription, for example - it is our intent to let you know how we will use such information. If you tell us that you do not wish to have this information used as a basis for further contact with you, we will respect your wishes. We do keep track of the domains from which people visit us. We analyze this data for trends and statistics, and then we discard it.
 
 We have implemented these practices for the SAIT home page ([www.sait.ca](http://www.sait.ca/start.php)). We are also instructing our employees to include information on privacy practices everywhere information is collected on the SAIT Web, tailored to what that portion of the site does and reflecting the practices outlined here.
+
+#### Application Information
+
+The personal information you provide on the application form is collected under the authority of the Freedom of Information and Protection of Privacy Act of the Province of Alberta, Section 33(c), the Statistics Act (Canada), and the Taxation Act (Canada). It will be used to determine your eligibility for admission to program(s)/course(s) of studies at SAIT, to facilitate your enrolment, to contact you regarding SAIT programs and services, to administer and evaluate institute programs/courses, and for statistical purposes. It will form part of your record as an applicant and alumnus and will be disclosed to academic and administrative units at SAIT and to Statistics Canada and Alberta Enterprise and Advanced Education for statistical, funding, planning, and market research purposes, and to the Students' Association of SAIT and the SAIT Alumni Association for contact purposes and membership services.
+
+This information will also be maintained in a mailing list for direct marketing purposes, market research surveys or the distribution of other promotional material as approved by the Director of Student Services. Your personal information is protected by Alberta's Freedom of Information and Protection of Privacy Act and can be reviewed on request. If you have any questions about the collection or use of this information, contact the Student Services' FOIP representative at 403.284.8069.
 
 #### Business relationships
 
