@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the panopto.com privacy policy that was archived on 2013-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130619201652id_/http%3A//www.panopto.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the panopto.com privacy policy that was archived on 2013-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131013084916id_/http%3A//s172782.gridserver.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Panopto
 
@@ -54,8 +54,8 @@ We may update this privacy policy from time to time. When we do so, changes in o
 
 ##  Opting Out
 
-If when using this Site you have previously furnished us with contact information, or you want to suspend or close-out your hosted account, please use the [**Contact Us**](http://panoptosupport.com/contact) page.
+If when using this Site you have previously furnished us with contact information, or you want to suspend or close-out your hosted account, please use the [**Contact Us**](http://www.panopto.com/contact) page.
 
 ##  Contacting Us
 
-If you have any questions about this privacy policy, please use the [**Contact Us**](http://panoptosupport.com/contact) page. We welcome your questions and suggestions about our privacy policy.
+If you have any questions about this privacy policy, please use the [**Contact Us**](http://www.panopto.com/contact) page. We welcome your questions and suggestions about our privacy policy.
