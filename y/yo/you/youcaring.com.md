@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the youcaring.com privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621145653id_/http%3A//youcaring.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the youcaring.com privacy policy that was archived on 2013-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131013224530id_/http%3A//www.youcaring.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - YouCaring.com
 
