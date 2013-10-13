@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hostdeal.com privacy policy that was archived on 2013-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130531211003id_/http%3A//www.hostdeal.com/content.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hostdeal.com privacy policy that was archived on 2013-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131013234337id_/http%3A//www.hostdeal.com/content.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
 
 # Hostdeal - Privacy Policy - Value Web Hosting.
 
