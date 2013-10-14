@@ -1,20 +1,19 @@
-<!--The following is the downloaded HTML source of the gao.gov privacy policy that was archived on 2013-05-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130530071347id_/http%3A//gao.gov/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the gao.gov privacy policy that was archived on 2013-10-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131014224155id_/http%3A//www.gao.gov/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html style="height:100%"><head>
 	<meta http-equiv="content-type" content="text/html; charset=iso-8859-1">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-<title>U.S. GAO - Privacy, Legal, and Other Site Policies</title><meta name="Last-Modified" content="Fri, 09 Mar 2012 12:12:28 -0500">	<link rel="stylesheet" href="/inc/css/template.css?v1.00">
-	<link rel="stylesheet" href="/inc/css/header.css?v1.00">
-	<link rel="stylesheet" href="/inc/css/footer.css?v1.00">
-	<link rel="stylesheet" href="/inc/css/sub.css?v1.00">
-	<link rel="stylesheet" href="/inc/css/no_subnav.css?v1.00">
+<title>U.S. GAO - Privacy, Legal, and Other Site Policies</title><meta name="Last-Modified" content="Fri, 09 Mar 2012 12:12:28 -0500">	<link rel="stylesheet" href="/inc/css/template.css?v1.04">
+	<link rel="stylesheet" href="/inc/css/header.css?v1.04">
+	<link rel="stylesheet" href="/inc/css/footer.css?v1.04">
+	<link rel="stylesheet" href="/inc/css/sub.css?v1.04">
+	<link rel="stylesheet" href="/inc/css/no_subnav.css?v1.04">
 <meta property="og:title" content="Privacy, Legal, and Other Site Policies">
 <meta property="og:type" content="Website">
 <meta property="og:url" content="http://gao.gov/privacy.html">
 <meta property="og:image" content="http://www.gao.gov/img/gao_gov_icon.png">
-<link rel="apple-touch-icon-precomposed" href="/img_library/apple-touch-icon.png">
-
+<link rel="apple-touch-icon-precomposed" href="http://www.gao.gov/img_library/apple-touch-icon.png">
 <!--[if lte IE 7]> <style type="text/css">@import "/inc/css/ie7.css";</style> <![endif]-->
 <!--[if lte IE 7]> <style type="text/css">@import "/inc/css/ie7_nosubnav.css";</style> <![endif]-->
 <link rel="stylesheet" type="text/css" href="/scripts/jquery/css/jquery-ui.min.css">
@@ -32,11 +31,35 @@
 <!-- <script type="text/javascript" src="/docsearch/app_jsfuncs.js"></script> -->
 <!-- Poll function no longer needed as of 29 Sep 2008 following foresee code update -->
 <!-- <script type="text/javascript">Poll();</script> -->
+
+<script type="text/javascript">jQuery.noConflict();</script>
+<!--[if lte IE 7]>
+    <style>#main_nav li.bg-Popup a.nav_item{padding-right:36px}</style>
+    <script type="text/javascript">                
+        jQuery(document).ready(function($) {
+            // Adjust all main nav items so they are all the same height
+            // IE < 8 doesn't support css tables 
+            box_height = 0;
+            $('.nav_item').each(function() {
+                var height = $(this).outerHeight();
+                if (height>box_height) {
+                    box_height = height;
+                }		
+            });
+            $('.nav_item').each(function() {
+                if($(this).outerHeight()<box_height) {
+                    var outerHeight = $(this).outerHeight();			
+                    $(this).css('padding-top',parseInt($(this).css('padding-top'))+Math.ceil((box_height-outerHeight)/2)+'px');
+                    $(this).css('padding-bottom',parseInt($(this).css('padding-bottom'))+Math.floor((box_height-outerHeight)/2)+'px');
+                }
+            });
+        });
+    </script>
+<![endif]-->
 <script type="text/javascript">
-jQuery.noConflict();
 jQuery(document).ready(function($) {
 	// Adjust all main nav items so they are all the 
-	box_height = 0;
+	/*box_height = 0;
 	$('.nav_item').each(function() {
 		var height = $(this).outerHeight();
 		if (height>box_height) {
@@ -50,16 +73,30 @@ jQuery(document).ready(function($) {
 			$(this).css('padding-bottom',parseInt($(this).css('padding-bottom'))+Math.floor((box_height-outerHeight)/2)+'px');
 		}
 		if($(this).hasClass('current')) {$(this).css('background-color','#D9D6D6');}
-	});
+	});*/
+        
+        $('#main_nav').on('click','div.wrapper > ul > li:not(.bg-Popup)',function(e){
+            e.preventDefault();
+            document.location = $(this).children('a[href]').attr('href');
+        });
 
-	// Create Quicklinks popups if they exist
-	//if (window.location.href.indexOf('/annual_index/') <= 0) {
-		$('div.listing[content_id], div.listing[data-content_id]').QuickLinks();
-	//}
+	// Create search box placeholder for browsers that don't support it
+        $('#q').simulatePlaceholder();
+        
+        // Create the nav popups
+        $('.bg-Popup').createPopup({show_speed:200,hide_speed:200,animation_speed:300});
+
+	// Create Quicklinks popups if they exist	
+	$('div.listing[content_id], div.listing[data-content_id]').QuickLinks();
+	
 	// Create the Privacy Statement tooltip
-	$('.bg_tooltip').createTooltip();	
+	$('.bg_tooltip').createTooltip();
+
+	// Remove Resources href if javascript is running
+        $('#main_nav li.bg-Popup a.nav_item').attr('href','#');	
 });
 </script>
+
 
 
 <style type="text/css">
@@ -140,46 +177,34 @@ jQuery(document).ready(function($) {
  
 <div id="skip_nav_link" style="height:0px; margin-left:-1000px;"><a href="#skip_nav">Skip Navigation</a></div>
 <div id="super_container">
-<div id="header"><!-- <div class="column-in"> --><div id="headerInner"><div id="head_wrap"><!-- [BEGIN] Utility Bar --><div id="utilitybar"><p>
-<a id="stayconnected_link" style="background-image: url('/img/core/connect-icon.png'); background-repeat: no-repeat; padding-left: 18px; margin-bottom: 0px;">Stay Connected</a></p><div class="bg_tooltip" data="stayconnected_link">
-			<ul id="connected_list">
-				<li> <a href="http://www.facebook.com/usgao" target="_blank" onmousedown="return clk(this.href,'href');"><img width="25px" height="25px" alt="GAO on Facebook" src="/img_library/connect_facebook.png"></a></li>
-
-				<li><a href="/feeds.html" onmousedown="return clk(this.href,'href');"><img alt="GAO RSS feed" src="/img_library/connect_rss.png"></a></li>
-				<li><a href="http://twitter.com/usgao" target="_blank" onmousedown="return clk(this.href,'href');"><img src="/img_library/connect_twitter.png" alt="GAO on Twitter" height="25px" width="25px"></a></li>
-				<li><a href="http://twitter.com/usgaolegal" target="_blank" onmousedown="return clk(this.href,'href');"><img src="/img_library/connect_twitter_legal.png" alt="USGAOLegal account on Twitter" height="36px" width="25px"></a></li>
-				<li><a href="http://linkedin.com/company/usgao" target="_blank" onmousedown="return clk(this.href,'href');"><img src="/img_library/connect_linkedin.png" alt="GAO on LinkedIn" height="25px" width="25px"></a></li>
-				<li><a target="_blank" href="http://www.youtube.com/usgao" onmousedown="return clk(this.href,'href');"><img width="25px" height="25px" alt="GAO on YouTube" src="/img_library/connect_youtube.png"></a></li>
-				<li><a target="_blank" href="http://www.flickr.com/photos/usgao" onmousedown="return clk(this.href,'href');"><img width="25px" height="25px" alt="GAO on Flickr" src="/img_library/connect_flickr.png"></a></li>
-				<li><a href="/podcast/watchdog.html" onmousedown="return clk(this.href,'href');"><img width="25px" height="25px" alt="GAO Watchdog Podcast" src="/img_library/connect_podcast.png"></a></li> 
-			</ul>
-
-				
-				<p>
-				</p><div><a href="/subscribe/index.php">Receive e-mail Updates</a></div>
-				<div><a href="/about/contact.html">Contact GAO</a></div>
-				<p></p><br>		
-		</div>
-<p></p></div><!-- [END] Utility Bar -->
+<div id="header"><!-- <div class="column-in"> --><div id="headerInner"><div id="head_wrap"><!-- [BEGIN] Utility Bar --><!-- [END] Utility Bar -->
  
 <!-- [BEGIN] Search Form -->
 
 <div id="gaosearch">
  <form action="/search" method="get" id="seek1" name="seek1">
-
-  <input name="q" id="q" autocomplete="off" value="Keyword or Report #" style="color: #333333" title="Search the GAO website with a Keyword or Report number" size="26" class="formstyle_mainsearch" type="text" maxlength="255" onblur="if(this.value == '') { this.style.color='#333333'; this.value='Keyword or Report #'}" onfocus="if (this.value == 'Keyword or Report #') {this.style.color='#333333'; this.value=''}">
+  <input name="q" id="q" type="search" title="Search the GAO website with a Keyword or Report number" placeholder="Keyword or Report #">
   <input id="q_search" class="formstyle_mainsearch" type="submit" name="Submit" value="Search" onmousedown="if (document.getElementById('q').value == 'Keyword or Report #') { document.getElementById('q').value = ''; }">						
  </form>
- <a style="clear:both;" href="/search?advanced=1">Advanced Search</a>
-
- </div>
+ <a style="clear:both;" href="/search?advanced=1">Advanced Search</a></div>
 <!-- [END] Search Form -->
 <h1><a href="/index.html" style="z-index:10;"><img src="/images/logoWhite.png" id="gaologotext" height="49" width="485" border="0" alt="U.S. Government Accountability Office"></a></h1></div><!-- [END] Head Wrap -->
 <!-- [BEGIN] Main Nav -->
 
 <div id="main_nav">
+    <div class="wrapper">
 <ul>
-<li><a class="nav_item" href="/browse/date/week">Reports &amp; Testimonies</a></li><li><a class="nav_item" href="/legal/index.html">Legal Decisions<br>&amp; Bid Protests</a></li><li><a class="nav_item" href="/key_issues/overview">Key Issues</a></li><li><a class="nav_item" href="/about/index.html">About GAO</a></li><li><a class="nav_item" href="/careers/index.html">Careers</a></li><li><a class="nav_item" href="/multimedia/video">Multimedia</a></li><li><a class="nav_item" href="/resources.html">Resources For …</a></li></ul></div>
+<li><a class="nav_item" href="/browse/date/week">Reports &amp; Testimonies</a></li><li><a class="nav_item" href="/legal/index.html">Legal Decisions<br>&amp; Bid Protests</a></li><li><a class="nav_item" href="/key_issues/overview">Key Issues</a></li><li><a class="nav_item" href="/about/index.html">About GAO</a></li><li><a class="nav_item" href="/careers/index.html">Careers</a></li><li><a class="nav_item" href="/multimedia/video">Multimedia</a></li>    <li class="bg-Popup" style="z-index:1;">
+        <a class="nav_item" href="/resources.html">Resources For</a>				
+        <ul class="bg-pop_div">
+            <li><a href="/congress.html">The Congress</a></li>
+            <li><a href="/press.html">The Media</a></li>
+            <li><a href="/aac.html">The Auditing and<br>Accountability<br>Community</a></li>
+            <li><a href="/fedagencies.html">Federal Agencies</a></li>
+            <li><a href="/researchers.html">Researchers</a></li>
+        </ul>                            
+    </li>
+</ul></div></div>
 <!-- [END] Main Nav -->
 <!--	<div id='borderblue'></div> -->
 	<div id="activeTabSubBar"></div>
@@ -273,90 +298,144 @@ jQuery(document).ready(function($) {
 
 <!-- [BEGIN] Footer -->
 
-<div id="footer">
+<div id="footer" class="footerfontsize">
 
 
+   <div id="footertop">
+      <div class="footerstroke">&nbsp;</div>
+      <div id="footer_seal_wrap">
+         <img style="display:block; margin:auto;" alt="GAO seal" src="/img/footer_seal.png">
+      </div>
+      <div class="footerstroke">&nbsp;</div>
+      <div style="clear:both;"></div>
+   </div>
+   <div class="footer_social">
+      <ul>
+         <li><a class="spritely footer_facebook" href="http://www.facebook.com/usgao" target="blank"><span class="text_no_indent">Facebook</span></a></li>
+         <li>
+            <div class="spritely footer_twitter">
+               <a class="text_no_indent" href="http://twitter.com/usgao" target="blank">@usgao</a>
+               <a class="text_no_indent_second" href="http://twitter.com/usgaolegal" target="blank">@usgaolegal</a>
+            </div>
+         </li>
+         <li><a class="spritely footer_linkedin" href="http://www.linkedin.com/company/usgao" target="blank"><span class="text_no_indent">LinkedIn</span></a></li>
+         <li><a class="spritely footer_youtube" href="http://www.youtube.com/usgao" target="blank"><span class="text_no_indent">YouTube</span></a></li>
+         <li><a class="spritely footer_flickr" href="http://www.flickr.com/photos/usgao" target="blank"><span class="text_no_indent">Flickr</span></a></li>
+         <li><a class="spritely footer_rss" href="/feeds.html"><span class="text_no_indent">RSS feeds</span></a></li>
+         <li><a class="spritely footer_podcasts" href="http://www.gao.gov/podcast/watchdog.html"><span class="text_no_indent">Podcasts</span></a></li>
+         <li><a class="spritely footer_widgets" href="/widgets_reports_and_legal.html"><span class="text_no_indent">Widgets</span></a></li>
+         <li><a class="spritely footer_email" href="/subscribe/index.php"><span class="text_no_indent">E-mail</span></a></li>
+         <li><a class="spritely footer_stayconnected" href="/feeds.html"><span class="text_no_indent">Stay connected</span></a></li>
+      </ul>
+   </div>
+   
+   <div style="border-bottom:1px solid #999999;width:1015px;margin: 0 auto">&nbsp;</div>
+   
+   <div class="footer_lower">
 
-<div id="footertop">&nbsp;</div>
-
-
-	<div id="subfooter">
-		<div class="col">
-			<h4><a onmousedown="return clk(this.href,'href-footer');" href="/browse/date/week">Reports &amp; Testimonies</a></h4>
-
-			<ul>
-				<li><a onmousedown="return clk(this.href,'href-footer');" href="/browse/date">Browse By Date</a></li>
-				<li><a onmousedown="return clk(this.href,'href-footer');" href="/browse/topic">Browse By Topic</a></li>
-				<li><a onmousedown="return clk(this.href,'href-footer');" href="/browse/agency">Browse By Agency</a></li>
-			</ul>
-			
-			<h4><a onmousedown="return clk(this.href,'href-footer');" href="/key_issues/overview">Key Issues</a></h4>
-
-			<ul>
-				<li><a onmousedown="return clk(this.href,'href-footer');" href="/key_issues/overview#t=1">Browse By Topic</a></li>
-				<li><a onmousedown="return clk(this.href,'href-footer');" href="/key_issues/overview#t=2">Browse By Agency</a></li>
-				<li><a onmousedown="return clk(this.href,'href-footer');" href="/key_issues/overview#t=3">Browse Collections</a></li>
-			</ul>
-		</div>
-		<div class="col">
-			<h4><a onmousedown="return clk(this.href,'href-footer');" href="/legal/index.html">Legal Decisions &amp;<br>Bid Protests</a></h4>
-			<ul>
-				<li><a onmousedown="return clk(this.href,'href-footer');" href="/legal/genleg.html">General Legal Decisions FAQs</a></li>
-				<li><a onmousedown="return clk(this.href,'href-footer');" href="/legal/bids/bidprotest.html">Bid Protests</a></li>
-				<li><a onmousedown="return clk(this.href,'href-footer');" href="/legal/redbook/redbook.html">Red Book</a></li>
-				<li><a onmousedown="return clk(this.href,'href-footer');" href="/legal/lawresources/resources.html">Appropriations Law</a></li>
-				<li><a onmousedown="return clk(this.href,'href-footer');" href="/legal/contract/appeals.html">Contract	Appeals Board</a></li>
-				<li><a onmousedown="return clk(this.href,'href-footer');" href="/legal/fedvac/vacancies.html">Federal Vacancies Act Resources</a></li>
-				<li><a onmousedown="return clk(this.href,'href-footer');" href="/legal/congressact/congress.html">Congressional Review Act</a></li>
-			</ul>
-		</div>
-		<!--/ .col -->
-		<div class="col">
-			<h4><a onmousedown="return clk(this.href,'href-footer');" href="/resources.html">Resources For</a></h4>
-			<ul>
-				<li><a onmousedown="return clk(this.href,'href-footer');" href="/congress.html">The Congress</a></li>
-				<li><a onmousedown="return clk(this.href,'href-footer');" href="/press.html">The Media</a></li>
-				<li><a onmousedown="return clk(this.href,'href-footer');" href="/aac.html">The Auditing and Accountability Community</a></li>
-				<li><a onmousedown="return clk(this.href,'href-footer');" href="/fedagencies.html">Federal Agencies</a></li>
-				<li><a onmousedown="return clk(this.href,'href-footer');" href="/researchers.html">Researchers</a></li>
-			</ul>
-			<h4><a onmousedown="return clk(this.href,'href-footer');" href="/fraudnet/fraudnet.htm">FraudNet: Reporting Fraud</a></h4>
-		</div>
-		<!--/ .col -->
-		<div class="col">
-			<h4><a onmousedown="return clk(this.href,'href-footer');" href="/cghome/index.html">Comptroller General</a></h4>
-			<h4><a onmousedown="return clk(this.href,'href-footer');" href="/about/index.html">About GAO</a></h4>
-			<ul>
-				<li><a onmousedown="return clk(this.href,'href-footer');" href="/about/contact.html">Contact GAO</a></li>
-				<li><a onmousedown="return clk(this.href,'href-footer');" href="/careers/index.html">Careers</a></li>
-				<li><a onmousedown="return clk(this.href,'href-footer');" href="/ordering.htm">Ordering&nbsp;GAO&nbsp;Publications</a></li>				
-				<li><a onmousedown="return clk(this.href,'href-footer');" href="/about/products/foia.html">FOIA</a></li>
-				<li><a onmousedown="return clk(this.href,'href-footer');" href="/privacy.html">Privacy Policy</a></li>
-				<li><a onmousedown="return clk(this.href,'href-footer');" href="/about/workforce/nofear.html">No FEAR Act Data</a></li>
-			</ul>
-			<h4><a onmousedown="return clk(this.href,'href-footer');" href="/subscribe/index.php">E-mail Updates</a></h4>
-						
-		</div>
-		<!--/ .col -->
-		<div class="col">
-				<h4><a onmousedown="return clk(this.href,'href-footer');" href="/multimedia/video/">Multimedia</a></h4>
-				<ul>
-					<li><a onmousedown="return clk(this.href,'href-footer');" href="/podcast/watchdog.html">Podcast Gallery</a></li>
-					<li><a onmousedown="return clk(this.href,'href-footer');" href="/multimedia/video/">Video Gallery</a></li>
-				</ul>
-                <h4><a onmousedown="return clk(this.href,'href-footer');" href="/about/hcac/index.html">Health Care Advisory Committees</a></h4>
-                <h4><a onmousedown="return clk(this.href,'href-footer');" href="/using.htm">Help</a></h4>
-				<h4><a onmousedown="return clk(this.href,'href-footer');" href="/sitemap.html">Site Map</a></h4>
-		</div>
-		<div style="clear:both"></div>
-	</div>
-
-
-<div class="air">
-   <a href="/values/">ACCOUNTABILITY&nbsp;&nbsp; INTEGRITY &nbsp;&nbsp;RELIABILITY</a>
-</div>
- 
-
+      <div id="subfooter">
+         <div class="col">
+            <h4><a href="/browse/date/week">Reports&nbsp;&amp;<br>Testimonies</a></h4>
+            <ul>
+               <li><a href="/browse/date">Browse By Date</a></li>
+               <li><a href="/browse/topic">Browse By Topic</a></li>
+               <li><a href="/browse/agency">Browse By Agency</a></li>
+            </ul>
+         </div>   
+         <!--/ .col -->
+         
+         <div class="col">
+            <h4><a href="/legal/index.html">Legal&nbsp;Decisions<br>&amp;&nbsp;Bid Protests</a></h4>
+            <ul>
+               <li><a href="/legal/genleg.html">General Legal<br>Decisions&nbsp;&amp;FAQs</a></li>
+               <li><a href="/legal/bids/bidprotest.html">Bid Protests</a></li>
+               <li><a href="/legal/redbook/redbook.html">Red Book</a></li>
+               <li><a href="/legal/lawresources/resources.html">Appropriations Law</a></li>
+               <li><a href="/legal/contract/appeals.html">Contract Appeals<br>Board</a></li>
+               <li><a href="/legal/fedvac/vacancies.html">Federal Vacancies<br>Act Resources</a></li>
+               <li><a href="/legal/congressact/congress.html">Congressional<br>Review Act</a></li>
+            </ul>
+         </div>
+         <!--/ .col -->
+            
+         <div class="col">	
+            <h4><a href="/key_issues/overview">Key Issues</a></h4>
+            <ul>
+               <li><a href="/key_issues/overview#t=1">Browse By Topic</a></li>
+               <li><a href="/key_issues/overview#t=2">Browse By Agency</a></li>
+               <li><a href="/key_issues/overview#t=3">Browse Collections</a></li>
+            </ul>
+         </div>
+         <!--/ .col -->
+         
+         <div class="col">
+            <h4><a href="/about/index.html">About GAO</a></h4>
+            <ul>
+               <li><a href="/cghome/index.html">Comptroller<br>General</a></li>
+               <li><a href="/subscribe/index.php">E-mail Updates</a></li>
+               <li><a href="/about/location/">Location</a></li>
+               <li><a href="/about/workforce/">Workforce</a></li>
+               <li><a href="/about/products/">Products and<br>Services</a></li>
+               <li><a href="/about/history/">History</a></li>
+               <li><a href="/about/hcac/index.html">Health Care<br>Advisory<br>Committees</a></li>
+               <li><a href="/about/products/foia.html">FOIA</a></li>
+               <li><a href="/about/workforce/nofear.html">No&nbsp;Fear&nbsp;Act&nbsp;Data</a></li>
+               <li><a href="/fraudnet/fraudnet.htm">FraudNet:<br>Reporting Fraud</a></li>
+             </ul>
+         </div>
+         <!--/ .col -->
+         
+         <div class="col">	
+            <h4><a href="/careers/index.html">Careers</a></h4>
+            <ul>
+               <li><a href="https://www.usajobs.gov/JobSearch/Search/GetResults?OrganizationID=LG00&amp;ApplicantEligibility=all">Current Job<br>Vacancies</a></li>
+               <li><a href="/careers/apply.html">Apply for Jobs</a></li>
+               <li><a href="/careers/career.html">Career Paths</a></li>
+               <li><a href="/careers/benefits.html">Benefits</a></li>
+               <li><a href="/careers/student.html">Student and<br>Executive<br>Programs</a></li>
+               <li><a href="/careers/diversity.html">Diversity &amp;<br>Inclusion</a></li>
+            </ul>   
+         </div>
+         <!--/ .col -->
+         
+         <div class="col">
+            <h4><a href="/multimedia/video/">Multimedia</a></h4>
+            <ul>
+               <li><a href="/multimedia/video/">Video Gallery</a></li>
+               <li><a href="/podcast/watchdog.html">Podcast Gallery</a></li>
+            </ul>
+         </div>
+         <!--/ .col -->
+         
+         <div class="col">
+            <h4><a href="/resources.html">Resources For</a></h4>
+            <ul>
+               <li><a href="/congress.html">The Congress</a></li>
+               <li><a href="/press.html">The Media</a></li>
+               <li><a href="/aac.html">The Auditing<br>and&nbsp;Accountability<br>Community</a></li>
+               <li><a href="/fedagencies.html">Federal Agencies</a></li>
+               <li><a href="/researchers.html">Researchers</a></li>
+            </ul>
+         </div>
+         <!--/ .col -->
+         
+         <div style="clear:both"></div>
+      </div>
+   
+      <div class="air">
+         <a href="/values/">ACCOUNTABILITY<span class="footer_star">★</span>INTEGRITY<span class="footer_star">★</span>RELIABILITY</a>
+         <div class="footerstroke2">
+         <ul>
+            <li><a href="/privacy.html">Privacy Policy</a></li>
+            <li><a href="/ordering.htm">Ordering&nbsp;GAO&nbsp;Publications</a></li>
+            <li><a href="/about/contact.html">Contact GAO</a></li>
+            <li><a href="/sitemap.html">Site Map</a></li>
+            <li class="lastfooterlink"><a href="/using.htm">Help</a></li>
+         </ul>
+         </div>
+      </div>
+   
+   </div><!--footer_lower-->
 
 <!-- [END] Footer -->
 <script>var _gaq=[['_setAccount','UA-29643216-1'],['_setDomainName','gao.gov'],['_trackPageview']];(function(d,t){var g=d.createElement(t),s=d.getElementsByTagName(t)[0];g.src='//www.google-analytics.com/ga.js';s.parentNode.insertBefore(g,s)}(document,'script'))</script>
