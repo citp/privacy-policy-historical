@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cairns.com.au privacy policy that was archived on 2013-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130512004052id_/http%3A//www.cairns.com.au/cairns-post-privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cairns.com.au privacy policy that was archived on 2013-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131014195710id_/http%3A//www.cairns.com.au/cairns-post-privacy-policy.html) for the most accurate reproduction.*
 
 # The Cairns Post Privacy Policy - Cairns, Australia | News, Accommodation, Attractions, Sports, Beaches, Events - All about Cairns Queensland, Australia
 
