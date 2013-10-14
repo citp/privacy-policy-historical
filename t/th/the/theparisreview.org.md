@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theparisreview.org privacy policy that was archived on 2013-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130424092940id_/http%3A//www.theparisreview.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theparisreview.org privacy policy that was archived on 2013-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131014163330id_/http%3A//www.theparisreview.org/privacy-policy) for the most accurate reproduction.*
 
 # Paris Review – Writers, Quotes, Biography, Interviews, Artists
 
@@ -73,8 +73,8 @@ webmaster [at] theparisreview.org
 
 Or, write to our Postmaster at:  
 The Paris Review Foundation, Inc.  
-62 White Street  
-New York, NY 10013  
+544 West 27th Street  
+New York, NY 10001  
 Attn: Postmaster
 
 _Last updated: September 16, 2010_
