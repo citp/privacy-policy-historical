@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cfl.ca privacy policy that was archived on 2013-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130430135104id_/http%3A//www.cfl.ca/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cfl.ca privacy policy that was archived on 2013-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131015004027id_/http%3A//www.cfl.ca/page/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | CFL.ca | Official Site of the Canadian Football League
 
