@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ifc.com privacy policy that was archived on 2013-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130529182423id_/http%3A//www.ifc.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ifc.com privacy policy that was archived on 2013-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131014214602id_/http%3A//www.ifc.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – IFC
 
@@ -44,7 +44,7 @@ This Website is controlled, operated and administered entirely within the United
 
 YOUR CHOICES REGARDING MARKETING AND OPTING OUT
 
-If you have provided personally identifiable information on one of our Websites or through our Services and later decide that you would rather not have us use such data for marketing purposes in accordance with the Policy as provided herein, you can opt-out of this use at any time by: (i) going to the link provided at the bottom of any email you receive from us and opting out of receiving information from us and/or our parents, affiliates, and subsidiaries; (ii) by sending us an email at webmaster@ifc.com; or (iii) writing us at AMC Networks Inc., c/o The Independent Film Channel LLC 11 Penn Plaza, New York, NY 10001, Attn: The Independent Film Channel LLC Privacy Coordinator.
+If you have provided personally identifiable information on one of our Websites or through our Services and later decide that you would rather not have us use such data for marketing purposes in accordance with the Policy as provided herein, you can opt-out of this use at any time by: (i) going to the link provided at the bottom of any email you receive from us and opting out of receiving information from us and/or our parents, affiliates, and subsidiaries; (ii) by sending us an email at webmaster@ifc.com; or (iii) writing us at AMC Networks Inc., c/o IFC TV LLC 11 Penn Plaza, New York, NY 10001, Attn: IFC TV LLC Privacy Coordinator.
 
 UPDATING YOUR INFORMATION
 
@@ -76,13 +76,13 @@ Writing to us at:
 
 AMC Networks Inc.
 
-c/o The Independent Film Channel LLC
+c/o IFC TV LLC
 
 11 Penn Plaza
 
 New York, NY 10001
 
-Attention: The Independent Film Channel LLC Privacy Coordinator
+Attention: IFC TV LLC Privacy Coordinator
 
 webmaster@ifc.com
 
