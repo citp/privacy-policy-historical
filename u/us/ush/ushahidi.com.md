@@ -1,14 +1,12 @@
-> *The following text is extracted and transformed from the ushahidi.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101162543id_/http%3A//www.ushahidi.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ushahidi.com privacy policy that was archived on 2013-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131014050052id_/http%3A//www.ushahidi.com/privacy-policy) for the most accurate reproduction.*
 
-# Ushahidi :: Privacy Policy
+# | Ushahidi
 
-##  Privacy Policy 
-
-You are Here: [Home](http://www.ushahidi.com/) / Privacy Policy 
+## Privacy Policy
 
 The following discloses the information gathering and dissemination practices for Ushahidi's ("Ushahidi") website (the "Site").
 
-On this page: Normal Browsing | Information You Provide | Disclosure of Information | Cookies | Children's Privacy | Security | Other Websites | 
+On this page: Normal Browsing | Information You Provide | Disclosure of Information | Cookies | Children's Privacy | Security | Other Websites |
 
 We reserve the right to modify the information contained herein at anytime without prior notice. If we do make changes to our privacy policies, we will modify this page accordingly. Check this page periodically for amendments. This site and all information and materials on it are provided to you "AS IS" without warranty of any kind.
 
@@ -42,6 +40,6 @@ The Site has security measures in place to protect the loss, misuse and alterati
 
 Material on this website may link to independently run websites outside of the Ushahidi domain. Ushahidi is not responsible for the privacy practices or content of such websites. We encourage you to read the privacy policies of any websites you visit from this website.
 
-### Non-Profit Status
+### 501c3 Status
 
 Ushahidi was registered in early 2008 as a US non-profit organization and has 501c3 status with the US Government.
