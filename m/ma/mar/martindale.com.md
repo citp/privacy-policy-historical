@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the martindale.com privacy policy that was archived on 2013-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130510212044id_/http%3A//www.martindale.com/Privacy_Policy/index.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the martindale.com privacy policy that was archived on 2013-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131014100908id_/http%3A//www.martindale.com/Privacy_Policy/index.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - martindale.com
 
