@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aec.gov.au privacy policy that was archived on 2013-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130529225741id_/http%3A//aec.gov.au/footer/Privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aec.gov.au privacy policy that was archived on 2013-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131014030621id_/http%3A//aec.gov.au/footer/Privacy.htm) for the most accurate reproduction.*
 
 # Privacy - Australian Electoral Commission
 
