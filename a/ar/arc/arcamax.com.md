@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the arcamax.com privacy policy that was archived on 2013-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130527204427id_/http%3A//arcamax.com/reference/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arcamax.com privacy policy that was archived on 2013-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131014235738id_/http%3A//www.arcamax.com/reference/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Reference | ArcaMax Publishing
 
@@ -13,7 +13,7 @@ ArcaMax Publishing, Inc. is fully compliant with the 2004 Federal "CAN SPAM" act
 
 **Third Party Cookies**
 
-We, or a data provider we have engaged, may place or recognize a unique cookie on your browser to enable you to receive customized ads, content or services. No personally identifiable information is placed into these cookies. The cookies may reflect de-identified demographic or other data linked to data you voluntarily have submitted to us, e.g., your email address, in hashed, non-human readable form. To opt-out of these cookies, please go to <http://www.privacychoice.org/companies> or <http://aboutads.info/choices>.
+We, or a data provider we have engaged, may place or recognize a unique cookie on your browser to enable you to receive customized ads, content or services. No personally identifiable information is placed into these cookies. The cookies may reflect de-identified demographic or other data linked to data you voluntarily have submitted to us, e.g., your email address, in hashed, non-human readable form. To opt-out of these cookies, please go to [http://www.networkadvertising.org/choices](http://www.networkadvertising.org/choices/) or <http://aboutads.info/choices>.
 
 Additionally, emails we send may contain a bit of code known as a "web beacon." This code allows us to understand the time and date of when a user has opened an email and when he/she has utilized a link within the email to visit a website. Our web beacons do not collect personally identifiable information. Users wishing to disable our web beacons should do so by turning images "off" in their email client (e.g., Outlook, Outlook Express). Please see your email client for more information.
 
