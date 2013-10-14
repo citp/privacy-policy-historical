@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the arrl.org privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621054004id_/http%3A//www.arrl.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arrl.org privacy policy that was archived on 2013-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131014232543id_/http%3A//www.arrl.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 **  
 We Respect Your Privacy**
 
-At ARRL, we are committed to providing you with superior products and services, along with the peace of mind knowing that the security of your personal information is our top priority. We understand your concerns about guarding information about you and we want to assure you that we have taken steps and will continue to take steps, to safeguard that information.
+At [**ARRL**](http://www.arrl.org/about-arrl), we are committed to providing you with superior products and services, along with the peace of mind knowing that the security of your personal information is our top priority. We understand your concerns about guarding information about you and we want to assure you that we have taken steps and will continue to take steps, to safeguard that information.
 
 **1\. What Personal Information Do We Collect?**
 
@@ -27,11 +27,8 @@ ARRL may at any time, without notice and in its sole discretion, amend this poli
 
 **5.** **Questions or Suggestions** ****  
   
-If you have questions or suggestions about this privacy policy, or your own personal information, please e-mail us at [privacy@arrl.org](mailto:privacy@arrl.org).
+If you have questions or suggestions about this privacy policy, or your own personal information, please e-mail us at [**privacy@arrl.org**](mailto:privacy@arrl.org).
 
 Last updated: January 1, 2009
-
-  
- **_______________________________________________________________**
 
 ## ARRL Online Privacy Policy
