@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the creationkit.com privacy policy that was archived on 2013-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130424220729id_/http%3A//www.zenimax.com/legal_privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the creationkit.com privacy policy that was archived on 2013-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131014025939id_/http%3A//www.zenimax.com/legal_privacy.htm) for the most accurate reproduction.*
 
 # ZeniMax Media Inc.
 
@@ -10,7 +10,7 @@
 
 ZeniMax Media Inc. and its divisions and subsidiaries(collectively, "ZeniMax") are committed to protecting your privacy online. To further this commitment, we have adopted an Online Privacy Policy that guides how we collect, store, and use the information collected about you when you visit one of our websites (collectively "Sites") or in conjunction with your use any of the products, services, features or games available through our Sites (collectively the "Services").
 
-ZeniMax Media Inc. has received TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe’s certification covers all Sites that link to this privacy policy and display the TRUSTe certified privacy seal. The TRUSTe program does not cover information that may be collected through downloadable software. If you have questions or complaints regarding our privacy policy or practices, please contact us at [privacy04@zenimax.com](mailto:privacy04@zenimax.com). If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint).
+ZeniMax Media Inc. has received TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe’s certification covers all Sites that link to this privacy policy and display the TRUSTe certified privacy seal. The TRUSTe program does not cover information that may be collected through downloadable software. If you have questions or complaints regarding our privacy policy or practices, please contact us at [privacy10@zenimax.com](mailto:privacy10@zenimax.com). If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint).
 
 Your personal data may be transferred to and processed in countries outside of the European Economic Area. To ensure an adequate level of protection for personal information as required by European data protection law, ZeniMax is a participant in the U.S. - E.U. and the U.S. - Switzerland Safe Harbor frameworks as set forth by the U.S. Department of Commerce and agreed upon with the European Commission and the Federal Data Protection and Information Commissioner of Switzerland, respectively. ZeniMax has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view ZeniMax’s certification, please visit <http://www.export.gov/safeharbor/>.
 
@@ -50,7 +50,7 @@ In order to give you the best experience on our Sites or while using our Service
 
 For some activities, we may ask you to create a username and password, and to provide personal information such as your age and date of birth. In some instances, we combine personal and non-personal information in order to improve your in game experience, or for security, system integrity, or enforcement purposes.
 
-Additionally, we may collect information provided by you and your computer through use of our Services, embedded within messages to you, within social media, in some of our products, and otherwise. Your web browser and/or client software may transmit certain geographic information (such as IP address) or information regarding your computer (capabilities, game data processing, and so on) to ZeniMax. ZeniMax may use this information to generate aggregate statistics about our user community, personalize your experience for your geographic area and may provide such information to our service partners in order to personalize your experience on our Sites, improve your gameplay experience, including to provide tailored customer service support, security, system integrity (preventing hacking, cheats, etc.) or to enforce this Privacy Policy, our terms or our legal rights in accordance with national law. You may opt-out from the use of your data for user profile purposes by contacting [privacy04@zenimax.com](mailto:privacy04@zenimax.com).
+Additionally, we may collect information provided by you and your computer through use of our Services, embedded within messages to you, within social media, in some of our products, and otherwise. Your web browser and/or client software may transmit certain geographic information (such as IP address) or information regarding your computer (capabilities, game data processing, and so on) to ZeniMax. ZeniMax may use this information to generate aggregate statistics about our user community, personalize your experience for your geographic area and may provide such information to our service partners in order to personalize your experience on our Sites, improve your gameplay experience, including to provide tailored customer service support, security, system integrity (preventing hacking, cheats, etc.) or to enforce this Privacy Policy, our terms or our legal rights in accordance with national law. You may opt-out from the use of your data for user profile purposes by contacting [privacy10@zenimax.com](mailto:privacy10@zenimax.com).
 
 Note that, depending on the ZeniMax website that you are visiting, many of the activities listed may not be available and, as such, personal information and/or non-personal information may not be collected. Additionally, we do not require this information to gain access to our Sites; however, you will not be able to utilize certain products, Services, or features that require registration or receive materials such as newsletters unless such information is provided.
 
@@ -72,7 +72,7 @@ To register in any of our online community forums, we may ask you to provide per
 
 Some of our forums are product-specific and may require you to create a game account. In these circumstances, you are not required to play the game. However, should you use features of and/or play the game in connection with forums use, information you provide to us during the game may be combined with your forum username and demographic information.
 
-Please note that the information (e.g., email address, username, occupation, and interests) contained in your profile (i.e., that you provide when registering) may be viewable to other users of ZeniMax's Services. We cannot and do not guarantee that this information will be kept confidential or private. If you do not want the public to see this information, please leave the information blank at the time of registration or choose to make your email address and other information inaccessible to other users of the forum. To request removal of your personal information from our community forum, contact us at [privacy04@zenimax.com](mailto:privacy04@zenimax.com). In some cases, we may not be able to remove your personal information; we will let you know if we are unable to do so and why.
+Please note that the information (e.g., email address, username, occupation, and interests) contained in your profile (i.e., that you provide when registering) may be viewable to other users of ZeniMax's Services. We cannot and do not guarantee that this information will be kept confidential or private. If you do not want the public to see this information, please leave the information blank at the time of registration or choose to make your email address and other information inaccessible to other users of the forum. To request removal of your personal information from our community forum, contact us at [privacy10@zenimax.com](mailto:privacy10@zenimax.com). In some cases, we may not be able to remove your personal information; we will let you know if we are unable to do so and why.
 
   * _Tell-A-Friend_
 
@@ -210,7 +210,7 @@ Back to top.
 
 **Can I choose how my personal information is used?**
 
-If you prefer not to receive marketing information from our Sites, email notices from our message board operators, or any other communication from ZeniMax, please do not "opt-in" when you register or at the time you submit your information. If you've already opted-in, but you wish to stop any further communications, just let us know by sending an email to: [privacy04@zenimax.com](mailto:privacy04@zenimax.com) or follow the unsubscribe instructions included in each promotional email.
+If you prefer not to receive marketing information from our Sites, email notices from our message board operators, or any other communication from ZeniMax, please do not "opt-in" when you register or at the time you submit your information. If you've already opted-in, but you wish to stop any further communications, just let us know by sending an email to: [privacy10@zenimax.com](mailto:privacy10@zenimax.com) or follow the unsubscribe instructions included in each promotional email.
 
 **Service-related Announcements**
 
@@ -218,7 +218,7 @@ We will send you strictly Service-related announcements on rare occasions when i
 
 **Your California Privacy Rights**
 
-If you are a California resident, you may request a list of the third parties to which we have disclosed personally identifiable information about you for their own direct marketing purposes. You may make one request per calendar year. In your request, please attest to the fact that you are a California resident and provide a current California address for your response. You may request this information in writing by contacting us at via email at [privacy04@zenimax.com](mailto:privacy04@zenimax.com), by phone at (301) 963-2000, or by regular mail at: Privacy Coordinator, ZeniMax Media Inc., 1370 Piccard Drive, Suite 120, Rockville, MD 20850 USA. Please allow up to thirty (30) days for a response.
+If you are a California resident, you may request a list of the third parties to which we have disclosed personally identifiable information about you for their own direct marketing purposes. You may make one request per calendar year. In your request, please attest to the fact that you are a California resident and provide a current California address for your response. You may request this information in writing by contacting us at via email at [privacy10@zenimax.com](mailto:privacy10@zenimax.com), by phone at (301) 963-2000, or by regular mail at: Privacy Coordinator, ZeniMax Media Inc., 1370 Piccard Drive, Suite 120, Rockville, MD 20850 USA. Please allow up to thirty (30) days for a response.
 
 Back to top.
 
@@ -226,7 +226,7 @@ Back to top.
 
 If you have registered for a game-specific bulletin board on our website and wish to update your profile, you may do so online by visiting the "profile" section found at each game forum on our websites. You may be required to submit your login name and password before you can access your profile information.
 
-If you wish to review, update, or delete any other personal information that we may have collected about you, please send an email to our Privacy Coordinator by email at [privacy04@zenimax.com](mailto:privacy04@zenimax.com), or by regular mail at ZeniMax Media Inc., 1370 Piccard Drive, Suite 120, Rockville, MD 20850 USA. We will respond to all access requests within 30 days.
+If you wish to review, update, or delete any other personal information that we may have collected about you, please send an email to our Privacy Coordinator by email at [privacy10@zenimax.com](mailto:privacy10@zenimax.com), or by regular mail at ZeniMax Media Inc., 1370 Piccard Drive, Suite 120, Rockville, MD 20850 USA. We will respond to all access requests within 30 days.
 
 Back to top.
 
@@ -246,13 +246,13 @@ ZeniMax maintains safeguards to protect the security, integrity and privacy of t
 
 We also have security measures in place to protect against the loss, misuse and alteration of the information under our control (i.e., maintain data quality). Before we allow website users to access their personal information, for example, we verify their identity by prompting them to submit information such as their login name and password.
 
-We will retain your information for as long as permitted for legitimate business purposes. If you wish to cancel your account or request that we no longer use your information to provide you Services contact us at [privacy04@zenimax.com](mailto:privacy04@zenimax.com). We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
+We will retain your information for as long as permitted for legitimate business purposes. If you wish to cancel your account or request that we no longer use your information to provide you Services contact us at [privacy10@zenimax.com](mailto:privacy10@zenimax.com). We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
 Back to top.
 
 **How do I ask a question or file a complaint?**
 
-If you have any questions, complaints or comments regarding our Privacy Policy or practices, please contact us via email at [privacy04@zenimax.com](mailto:privacy04@zenimax.com), by phone at (301) 963-2000, or by regular mail at:
+If you have any questions, complaints or comments regarding our Privacy Policy or practices, please contact us via email at [privacy10@zenimax.com](mailto:privacy10@zenimax.com), by phone at (301) 963-2000, or by regular mail at:
 
 _Privacy Coordinator  
 ZeniMax Media Inc.  
