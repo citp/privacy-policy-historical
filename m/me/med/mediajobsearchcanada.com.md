@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mediajobsearchcanada.com privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502095114id_/http%3A//mediajobsearchcanada.com/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mediajobsearchcanada.com privacy policy that was archived on 2013-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131014073210id_/http%3A//www.mediajobsearchcanada.com/privacy_policy.asp) for the most accurate reproduction.*
 
 # Media Job Search Canada - Customer Service > Privacy Policy
 
