@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shallownation.com privacy policy that was archived on 2013-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130513234457id_/http%3A//www.shallownation.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shallownation.com privacy policy that was archived on 2013-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131014031608id_/http%3A//www.shallownation.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Shallow Nation
 
@@ -87,15 +87,5 @@ This Web site contains links to other sites. Please be aware that we are not res
 
 If you feel that this site is not following its stated privacy policy, you may contact us at the above email addresses or The Federal Trade Commission by phone at 202.FTC-HELP (202.382.4357) or electronically at http://www.ftc.gov/ftc/complaint.htm.
 
-Be Sociable, Share!
-
-  * [](http://twitter.com/intent/tweet?text=Privacy%20Policy%20-%20http%3A%2F%2Fwww.shallownation.com%2Fprivacy-policy%2F%20 "Twitter")
-  * [](http://www.facebook.com/share.php?u=http%3A%2F%2Fwww.shallownation.com%2Fprivacy-policy%2F&t=Privacy%20Policy "Facebook")
-  * [](https://mail.google.com/mail/?view=cm&fs=1&to&su=Privacy%20Policy&body=http%3A%2F%2Fwww.shallownation.com%2Fprivacy-policy%2F&ui=2&tf=1&shva=1 "email")
-  *   * [](http://www.stumbleupon.com/submit?url=http%3A%2F%2Fwww.shallownation.com%2Fprivacy-policy%2F&title=Privacy%20Policy "StumbleUpon")
-  * [](http://delicious.com/post?url=http%3A%2F%2Fwww.shallownation.com%2Fprivacy-policy%2F&title=Privacy%20Policy&notes=Privacy%20policy%0D%0A%0D%0AThis%20is%20the%20web%20site%20of%20Shallow%20Nation.%0D%0A%0D%0AWe%20can%20be%20reached%20via%20e-mail%20at%20info%20%5Bat%5D%20shallownation%20%5Bdot%5D%20com%0D%0A%0D%0ASummary%0D%0A%0D%0AThis%20site%20collects%20no%20more%20data%20about%20you%20than%20most%20other%20websites.%0D%0A%0D%0AComments%2C%20trackbacks%2C%20and%20pingbacks%20ar "Delicious")
-  * [](http://www.google.com/reader/link?url=http%3A%2F%2Fwww.shallownation.com%2Fprivacy-policy%2F&title=Privacy%20Policy&srcURL=http%3A%2F%2Fwww.shallownation.com%2Fprivacy-policy%2F&srcTitle=Shallow+Nation+Chronicling+trends+in+entertainment%2C+pop+culture%2C+politics%2C+the+arts%2C+and+the+uncategorized+et+cetera. "Google Reader")
-  * [](http://www.linkedin.com/shareArticle?mini=true&url=http%3A%2F%2Fwww.shallownation.com%2Fprivacy-policy%2F&title=Privacy%20Policy&source=Shallow+Nation+Chronicling+trends+in+entertainment%2C+pop+culture%2C+politics%2C+the+arts%2C+and+the+uncategorized+et+cetera.&summary=Privacy%20policy%0D%0A%0D%0AThis%20is%20the%20web%20site%20of%20Shallow%20Nation.%0D%0A%0D%0AWe%20can%20be%20reached%20via%20e-mail%20at%20info%20%5Bat%5D%20shallownation%20%5Bdot%5D%20com%0D%0A%0D%0ASummary%0D%0A%0D%0AThis%20site%20collects%20no%20more%20data%20about%20you%20than%20most%20other%20websites.%0D%0A%0D%0AComments%2C%20trackbacks%2C%20and%20pingbacks%20ar "LinkedIn")
-  * [](http://www.blinklist.com/index.php?Action=Blink/addblink.php&Url=http%3A%2F%2Fwww.shallownation.com%2Fprivacy-policy%2F&Title=Privacy%20Policy "BlinkList")
-  * 
+  *   *   *   *   *   * 
 
