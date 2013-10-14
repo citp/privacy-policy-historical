@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the doctorwhotv.co.uk privacy policy that was archived on 2013-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130617055027id_/http%3A//doctorwhotv.co.uk/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the doctorwhotv.co.uk privacy policy that was archived on 2013-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131014034832id_/http%3A//www.doctorwhotv.co.uk/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Doctor Who TV
 
@@ -28,4 +28,4 @@ You should consult the respective privacy policies of these third-party ad serve
 
 If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
 
-If you require any more information or have any questions about our privacy policy, please feel free to [contact us](http://doctorwhotv.co.uk/about/contact).
+If you require any more information or have any questions about our privacy policy, please feel free to [contact us](http://www.doctorwhotv.co.uk/about/contact).
