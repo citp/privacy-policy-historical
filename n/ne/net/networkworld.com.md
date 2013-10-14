@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the networkworld.com privacy policy that was archived on 2011-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110613184930id_/http%3A//www.networkworld.com/tos.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the networkworld.com privacy policy that was archived on 2013-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131014041307id_/http%3A//www.networkworld.com/aboutus/tos.html) for the most accurate reproduction.*
 
 # Terms of Service - Network World
 
