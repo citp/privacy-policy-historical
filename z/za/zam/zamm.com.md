@@ -1,6 +1,9 @@
-> *The following text is extracted and transformed from the zamm.com privacy policy that was archived on 2013-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130617131824id_/http%3A//www.zamm.com/company/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zamm.com privacy policy that was archived on 2013-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131014093824id_/http%3A//zamm.com/company/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy - Zamm.com | My Movies
+
+  
+
 
 This On-Line Privacy Policy includes details about the type of information we may collect as a result of your use of this website and the potential scope of our use of such collected information. You acknowledge and agree that ZAMM.com and/or its affiliated companies may collect, use and disclose the data collected in the course of our relationship in the manner identified in our Privacy Policy. PLEASE NOTE THAT THE PRIVACY POLICY MAY CHANGE FROM TIME TO TIME AND YOU SHOULD CHECK OUR PRIVACY POLICY FREQUENTLY FOR THE MOST CURRENT APPLICABLE TERMS.
 
