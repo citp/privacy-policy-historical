@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tate.org.uk privacy policy that was archived on 2013-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130424124054id_/http%3A//www.tate.org.uk/about/who-we-are/policies-and-procedures/website-terms-use/privacy-and-use-cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tate.org.uk privacy policy that was archived on 2013-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131014154335id_/http%3A//www.tate.org.uk/about/who-we-are/policies-and-procedures/website-terms-use/privacy-and-use-cookies) for the most accurate reproduction.*
 
 # Tate website privacy notice and use of cookies | Tate
 
@@ -15,7 +15,7 @@ When you use the Tate website, we may collect personal information about you whe
 
 We collect information about you when you create user accounts and log in to the following website services:
 
-  * Main website login used for visitor comments
+  * Main website sign in used for visitor comments
   * [Online courses](http://www.tate.org.uk/whats-on/courses-and-workshops/artists-techniques-and-methods)
   * [Tate Online Shop](http://www.tate.org.uk/shop)
   * [Working at Tate](http://workingat.tate.org.uk/Default.aspx)
@@ -37,13 +37,21 @@ We collect information about you when you use a Tate checkout to buy the followi
 
 
 
+### Signing in using social networking credentials
+
+If you sign in to our sites using a Facebook sign in as a means of authentication, you grant permission to Facebook to share your user details. This will include your name and email address which will then be used to form a Tate Digital account. Please be aware that this authentication also permits the sharing of your gender, date of birth, user ID, networks, location and any other information you may choose to share according to your Facebook account settings. If you remove the Tate app from your Facebook settings, then our access to your additional information will cease. For more information, visit [Facebook’s App Privacy Settings & Your Info](http://www.facebook.com/help/262314300536014/) page.
+
+If you sign in to our sites using a Google sign in as a means of authentication, you grant permission to Google to share your user details. This will include your name and email address, date of birth, gender and location which will then be used to form a Tate Digital account. Please be aware that this authentication also permits the sharing of your public profile URL, photo, gender, date of birth, country, language, and timezone according to your Google account settings. If you remove Tate from your Google settings, then our access to your additional information will cease. For more information, visit [Google’s Authorizing applications and sites](https://support.google.com/accounts/topic/2665423?hl=en&ref_topic=2399170) page.
+
+If you sign in to our sites using a Twitter sign in as a means of authentication, we receive your Twitter username. For more information, visit [Twitter’s Connecting or revoking third-party applications](https://support.twitter.com/articles/76052-how-to-connect-and-revoke-third-party-applications) page.
+
 ## 2\. Use of cookies
 
 Cookies are pieces of data that a website can transfer to an individual’s computer hard drive for record keeping. Cookies can make websites easier to use by storing information about your preferences on a particular website. The information may remain on your computer after the Internet session finishes and you leave the website but you can delete them using some browsers, manually or using system utilities. Most internet browsers are pre-set to accept cookies.
 
 If you prefer not to receive cookies, you can adjust your internet browser to refuse cookies or to warn you when cookies are being used. This site will work more efficiently if receipt of cookies is enabled but it will still operate correctly if you disable cookies.
 
-For more information on cookies and their uses, visit [All About Cookies](http://www.allaboutcookies.org/).
+For more information on cookies and their uses, visit  [All About Cookies](http://www.allaboutcookies.org/).
 
 ### 2.1 Google Analytics
 
@@ -55,9 +63,11 @@ The cookies collect information such as the number of visitors to the site, whic
 
 If you browse this website you may receive personalised banner advertisements whilst browsing other reputable websites. We are committed to providing you with information on products and offers which are relevant to you. The banner advertisements will relate to exhibition pages, events or products which have been viewed whilst browsing this website on your computer or other device.
 
-This service is provided by Tate via a reputable third-party specialist company called Specific Media, through the use of cookies placed on your computer or other device. Specific Media does not and cannot obtain any personal information about you, it does not know who you are and it does not store IP addresses.
+This service is provided by Tate via a reputable third-party specialist company called Media IQ, through the use of cookies placed on your computer or other device. Media IQ may choose to target you based on your Non-Personally Identifiable Information (Non-PII), this includes but is not limited to IP host address, the date and time of activity online, the pages viewed, browser type, referring URL, Internet Service Provider and operating system. Media IQ do not collect Personally Identifiable Information (PII) such as name, address, phone number, email, address, credit card information or anything else that can personally identify you.
 
-Visit the [Specific Media website](http://www.specificmedia.com/privacy) for further information on this service and on how to opt out of receiving further personalised advertisements. You may also opt out of receiving further personalised advertisements in the future by clicking on the bottom right hand corner of any advertisement you receive and following the instructions.
+Visit the [Media IQ privacy policy (pdf)](http://mediaiqdigital.com/wp-content/uploads/2012/10/privacy-policy.pdf) for more details and instructions for how to [opt out](http://www.youronlinechoices.com/opt-out).
+
+You may also opt out of receiving further personalised advertisements in the future by clicking on the bottom right hand corner of any advertisement you receive and following the instructions.
 
 ### 2.3 Third-party cookies
 
@@ -73,4 +83,4 @@ From time to time Tate may change this privacy notice. You may therefore wish to
 
 ## 5\. Contacting Tate about this privacy notice
 
-If you have any questions or comments about this privacy notice, please contact us at [webmaster@tate.org.uk](mailto:webmaster@tate.org.uk).
+If you have any questions or comments about this privacy notice, please contact us at  [webmaster@tate.org.uk](mailto:webmaster@tate.org.uk).
