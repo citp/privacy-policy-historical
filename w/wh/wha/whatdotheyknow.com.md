@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the whatdotheyknow.com privacy policy that was archived on 2013-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130518181330id_/http%3A//www.whatdotheyknow.com/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whatdotheyknow.com privacy policy that was archived on 2013-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131014154844id_/https%3A//www.whatdotheyknow.com/help/privacy) for the most accurate reproduction.*
 
 # Your privacy - WhatDoTheyKnow
 
@@ -23,7 +23,7 @@ By law, you must use your real name for the request to be a valid Freedom of Inf
 Can I make an FOI request using a pseudonym? #
     
 
-Technically, you must use your real name for your request to be a valid Freedom of Information request in law. See this [guidance from the Information Commissioner](http://www.ico.gov.uk/upload/documents/library/freedom_of_information/detailed_specialist_guides/name_of_applicant_fop083_v1.pdf) (January 2009). 
+Technically, you must use your real name for your request to be a valid Freedom of Information request in law. See this [guidance from the Information Commissioner](http://www.ico.org.uk/upload/documents/library/freedom_of_information/detailed_specialist_guides/name_of_applicant_fop083_v1.pdf) (January 2009). 
 
 However, the same guidance also says it is good practice for the public authority to still consider a request made using an obvious pseudonym. You should refer to this if a public authority refuses a request because you used a pseudonym.
 
@@ -49,7 +49,7 @@ If a public authority asks you for your full, physical address, reply to them sa
 
 The Ministry of Justice has [guidance on this](http://www.justice.gov.uk/information-access-rights/foi-guidance-for-practitioners/procedural-guidance/foi-what-constitutes) – _"As well as hard copy written correspondence, requests that are transmitted electronically (for example, in emails) are acceptable ... If a request is received by email and no postal address is given, the email address should be treated as the return address."_
 
-As if that isn't enough, the Information Commissioner's [Hints for Practitioners](http://www.ico.gov.uk/upload/documents/library/freedom_of_information/practical_application/foi_hints_for_practitioners_handing_foi_and_eir_requests_2008_final.pdf) say _"Any correspondence could include a request for information. If it is written (this includes e-mail), legible, gives the name of the applicant, an address for reply (which could be electronic), and includes a description of the information required, then it will fall within the scope of the legislation."_
+As if that isn't enough, the Information Commissioner's [Hints for Practitioners](http://www.ico.org.uk/upload/documents/library/freedom_of_information/practical_application/foi_hints_for_practitioners_handing_foi_and_eir_requests_2008_final.pdf) say _"Any correspondence could include a request for information. If it is written (this includes e-mail), legible, gives the name of the applicant, an address for reply (which could be electronic), and includes a description of the information required, then it will fall within the scope of the legislation."_
 
 No no, they need a postal address to send a paper response! #
     
