@@ -1,14 +1,16 @@
-<!--The following is the downloaded HTML source of the saintsfc.co.uk privacy policy that was archived on 2013-04-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130424231206id_/http%3A//www.saintsfc.co.uk/global/privacy-policy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the saintsfc.co.uk privacy policy that was archived on 2013-10-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131014204714id_/http%3A//www.saintsfc.co.uk/global/privacy-policy.aspx) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html lang="en" class="no-js"><!--<![endif]--><head>
+<!DOCTYPE html><html lang="en" class=" js flexbox canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths"><!--<![endif]--><head>
          <meta charset="utf-8">
 	 <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-<script type="text/javascript" async="" src="https://web.archive.org/web/20130411115901/https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
+<script type="text/javascript" async="" src="https://web.archive.org/web/20130922152132/https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
   var adlZone = 'ROS'; 
+var ionosImpressionsUrl = 'http://FLIIONOSAdCapture-173219926.eu-west-1.elb.amazonaws.com/blank.png';
+var isRequiredArticleBodyExpanded = "";	
 </script>
 
-<script type="text/javascript" src="/js/combinedHeader_CBC6FB284FFAEE051DD9D264733F7225.js"></script>
+<script type="text/javascript" src="/combinedjs/combinedHeader_CBC6FB284FFAEE051DD9D264733F7225.js"></script>
 
 <style type="text/css">
 #action #splash_box {position:absolute; display:none; padding:0px; z-index:2000; top:30px!important; width: 790px!important; height: 628px!important; }
@@ -27,7 +29,7 @@
 
 	<link rel="stylesheet" href="/css/base.css">
 	  <link rel="stylesheet" href="/css/action.css">
-	<link rel="stylesheet" href="/css/action_skin.css">
+	<link rel="stylesheet" href="/skin/action_skin.css">
         <link rel="stylesheet" href="/css/style.css">
  
 <link rel="shortcut icon" type="image/ico" href="/images/icons/favicon.ico">
@@ -46,7 +48,7 @@ var subscription_response ="<section id='newsletter_signup_popup3' class='block 
 "</section>";
  var error_response = "<section id='newsletter_signup_popup4' class='block col6 popup'><div class='clearfix'><div class='content'><p class='title'>Some error occurred while saving the subscription information. Please try again later after some time.</p></div><div class='widget_cta clearfix'> <a href='javascript:void(0)' onclick='javascript:closeDialog();' class='cta close' title='Close'>Close</a></div></div></section>";
 </script>
-<script type="text/javascript" src="/js/combinedtop_09130C896B304F82F24398D67FC53DB4.js"></script>
+<script type="text/javascript" src="/combinedjs/combinedtop_E2CCAD6FF9E13846BA0D3046EF76F908.js"></script>
 
 
 
@@ -72,6 +74,73 @@ var subscription_response ="<section id='newsletter_signup_popup3' class='block 
 
 <script language="javascript" type="text/javascript">
 
+function AdvertisementTracking(advertInfo, isClick){		
+		var advertTrackingLink ;
+		var adGAAccount = "UA-29399239-5";
+		if(isClick){
+			advertTrackingLink = '/FLiClick/'; 
+		}else{
+			advertTrackingLink = '/FLiImpression/';
+		}
+		advertTrackingLink += "Southampton : " + advertInfo;
+		trackVirtualPageview(advertTrackingLink, adGAAccount) ;
+	}
+
+        function IonosImpressionTracking(addata)
+        {
+			var controlId ="objOrders_" +  (addata.replace("#", "")).substring(0,36);
+			var orderIds = $("input[id$=" + controlId + "]").val();
+			SendOrderIds(orderIds); 			
+        }
+
+	function SendOrderIds(orderIds)
+	{
+			if(!(orderIds == null || orderIds == undefined || orderIds.length <= 1))
+			{
+				try
+				{		
+                                        var url=ionosImpressionsUrl + "?" + orderIds ;	
+                                        		
+					if ($.browser.msie && window.XDomainRequest) 
+					{	
+						var xdr = new XDomainRequest();						
+						xdr.open("get", url);																	
+						
+						xdr.onload = function () {
+							var JSON = $.parseJSON(xdr.responseText);
+							if (JSON == null || typeof (JSON) == 'undefined')
+							{
+								JSON = $.parseJSON(data.firstChild.textContent);
+							}
+
+							xdr.onprogress = function(){ };
+							xdr.ontimeout = function(){ };
+							xdr.onerror = function () { };							
+						};	
+					
+						xdr.send();
+					}
+					else
+					{
+					 
+						$.ajax({
+							url: url,																						
+							type: 'GET'  			
+						});
+					}
+				}
+				catch(e)
+				{
+					
+				}
+				
+				
+			}
+	}
+
+
+
+
     ShowSplash();
 
     function ShowSplash() {
@@ -95,7 +164,7 @@ var subscription_response ="<section id='newsletter_signup_popup3' class='block 
             console.error("Splash config error");
         }
     }   
-</script><div id="splash_mask" class="ui-widget-overlay" style="height: 6876px; opacity: 0.85; display: block; width: 1366px;"></div><div id="splash_box" style="height: 100px; width: 100px; top: 70px; left: 288px; opacity: 1; display: block; background-image: none;"><div id="splash_content" style="display: block;"><!--[if lt IE 7 ]> <html lang="en" class="no-js ie6"> <![endif]-->
+</script><div id="splash_mask" class="ui-widget-overlay" style="height: 768px; opacity: 0.85; display: block; width: 1366px;"></div><div id="splash_box" style="height: 100px; width: 100px; top: 70px; left: 288px; opacity: 1; display: block; background-image: none;"><div id="splash_content" style="display: block;"><!--[if lt IE 7 ]> <html lang="en" class="no-js ie6"> <![endif]-->
 <!--[if IE 7 ]>    <html lang="en" class="no-js ie7"> <![endif]-->
 <!--[if IE 8 ]>    <html lang="en" class="no-js ie8"> <![endif]-->
 <!--[if IE 9 ]>    <html lang="en" class="no-js ie9"> <![endif]-->
@@ -226,7 +295,7 @@ playback timings (ms):
 <input name="ctl00$Ionos_BackgroundImage_FullPage$hdnBackgroundImage" type="hidden" id="Ionos_BackgroundImage_FullPage_hdnBackgroundImage" class="hdnBackgroundImage" value="background-image:url(/cms_images/stadium-front-shot148-193173.jpg); background-repeat: no-repeat; background-position: center top">
 <input name="ctl00$Ionos_BackgroundImage_FullPage$hdnBackgroundImageUrl" type="hidden" id="Ionos_BackgroundImage_FullPage_hdnBackgroundImageUrl" class="hdnBackgroundImageUrl">
 <input name="ctl00$Ionos_BackgroundImage_FullPage$hdnBackgroundImageTrackingKey" type="hidden" id="Ionos_BackgroundImage_FullPage_hdnBackgroundImageTrackingKey" class="hdnBackgroundImageTrackingKey" value="Full Page Background">
-
+ 
 
 <div id="gradient_bg">
 <script type="text/javascript">
@@ -241,7 +310,7 @@ playback timings (ms):
 	var mfNWID = new Array(979, 1);
 	var adlPro = window.location.protocol == 'https:' ? 'https:' : 'http:';	
 	 Addjs(adlSite, adlZone, mfNWID, adlPro);
-</script>
+</script><script type="text/javascript" src="https://web.archive.org/web/20130922152132/http://js.adlink.net/js?lang=uk&amp;s=www.saintsfc.co.uk&amp;z=ROS&amp;d=1582547743454"></script>
 
 <section id="search_site" class="block">
 	<ul>
@@ -283,22 +352,50 @@ playback timings (ms):
 
 <form method="post" action="#" id="frmSiteMaster">
 <div class="aspNetHidden">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTIxMzE5MDk1NDYPZBYCZg9kFgICBA9kFgRmD2QWAmYPFgIeBFRleHQFOzxkaXYgaWQ9J0NsdWJTcG9uc29yc19sZWFndWVfc3BvbnNvcicgY2xhc3M9J2xvYWRlcic+PC9kaXY+ZAIDD2QWCmYPZBYCZg8WAh8ABU08ZGl2IGlkPSdDbHViU3BvbnNvcnNfbmV3c19zZWN0aW9uX3NlY3Rpb25fc3BvbnNvcl90b3AnIGNsYXNzPSdsb2FkZXInPjwvZGl2PmQCAQ9kFgICAQ8WAh4LXyFJdGVtQ291bnQCBhYMAgEPZBYCZg8VDgAANi9uZXdzL2FydGljbGUvcmVhZGluZy11MThzLTItMS1zYWludHMtdTE4cy03OTA1NTkuYXNweAAEbmV3cxxSZWFkaW5nIFUxOHMgMi0xIFNhaW50cyBVMThzHFJlYWRpbmcgVTE4cyAyLTEgU2FpbnRzIFUxOHNKL2Ntc19pbWFnZXMvamFzb24tZG9kZC10b3VjaGxpbmUtbWFuLXV0ZC1ob21lLWFjdGlvbjE0OC02NjAxODhfMTUweDExMy5qcGc2L25ld3MvYXJ0aWNsZS9yZWFkaW5nLXUxOHMtMi0xLXNhaW50cy11MThzLTc5MDU1OS5hc3B4ABxSZWFkaW5nIFUxOHMgMi0xIFNhaW50cyBVMThzHFJlYWRpbmcgVTE4cyAyLTEgU2FpbnRzIFUxOHNGVGhlIHlvdW5nc3RlcnMgc2F3IHRoZWlyIHNlYXNvbiBjb21lIHRvIGFuIGVuZCB3aXRoIGEgZnJ1c3RyYXRpbmcgLi4uLhM2IGhvdXJzIDQyIG1pbnMgYWdvZAICD2QWAmYPFQ4EZXZlbgA4L25ld3MvYXJ0aWNsZS9zYWludHMtc2Vjb25kLWNoYW5jZS1wcm9ncmFtbWUtNzkwMDA5LmFzcHgABG5ld3MeU2FpbnRzIFNlY29uZCBDaGFuY2UgUHJvZ3JhbW1lHlNhaW50cyBTZWNvbmQgQ2hhbmNlIFByb2dyYW1tZTMvY21zX2ltYWdlcy9uZXdzL3NpbHZlci1jcmVzdDE0OC02MDYyNTVfMTUweDExMy5qcGc4L25ld3MvYXJ0aWNsZS9zYWludHMtc2Vjb25kLWNoYW5jZS1wcm9ncmFtbWUtNzkwMDA5LmFzcHgAHlNhaW50cyBTZWNvbmQgQ2hhbmNlIFByb2dyYW1tZR5TYWludHMgU2Vjb25kIENoYW5jZSBQcm9ncmFtbWVGU291dGhhbXB0b24gRm9vdGJhbGwgQ2x1YiBpcyBkZWxpZ2h0ZWQgdG8gZ2l2ZSBpdHMgYmFja2luZyB0byBhIG5lLi4uLhQxMSBob3VycyAxMSBtaW5zIGFnb2QCAw9kFgJmDxUOAAA+L25ld3MvYXJ0aWNsZS9vbmx5LWhvc3BpdGFsaXR5LWxlZnQtZm9yLWxhc3QtbWF0Y2gtNzg4NTAwLmFzcHgABG5ld3MkT25seSBIb3NwaXRhbGl0eSBMZWZ0IEZvciBMYXN0IE1hdGNoJE9ubHkgSG9zcGl0YWxpdHkgTGVmdCBGb3IgTGFzdCBNYXRjaDQvY21zX2ltYWdlcy9tYXRjaC9zYWludHMtc3Rva2UxNDgtNzg4NDk1XzE1MHgxMTMuanBnPi9uZXdzL2FydGljbGUvb25seS1ob3NwaXRhbGl0eS1sZWZ0LWZvci1sYXN0LW1hdGNoLTc4ODUwMC5hc3B4ACRPbmx5IEhvc3BpdGFsaXR5IExlZnQgRm9yIExhc3QgTWF0Y2gkT25seSBIb3NwaXRhbGl0eSBMZWZ0IEZvciBMYXN0IE1hdGNoSEFsbCBzdGFuZGFyZCB0aWNrZXRzIGZvciBvdXIgZmluYWwgaG9tZSBnYW1lIG9mIHRoZSBzZWFzb24g4oCTIHRoZSB2Li4uLgkxIGRheSBhZ29kAgQPZBYCZg8VDgRldmVuAEEvbmV3cy9hcnRpY2xlL3RyYXZlbC1pbmZvcm1hdGlvbi1yZWRicmlkZ2Utcm91bmRhYm91dC03ODIyNDMuYXNweAAEbmV3cyhUcmF2ZWwgSW5mb3JtYXRpb246IFJlZGJyaWRnZSBSb3VuZGFib3V0KFRyYXZlbCBJbmZvcm1hdGlvbjogUmVkYnJpZGdlIFJvdW5kYWJvdXQ6L2Ntc19pbWFnZXMvb3RoZXIvc3QtbWFyeXMtZnJvbnQtNjQwMTQ4LTMwMTYzNl8xNTB4MTEzLmpwZ0EvbmV3cy9hcnRpY2xlL3RyYXZlbC1pbmZvcm1hdGlvbi1yZWRicmlkZ2Utcm91bmRhYm91dC03ODIyNDMuYXNweAAoVHJhdmVsIEluZm9ybWF0aW9uOiBSZWRicmlkZ2UgUm91bmRhYm91dChUcmF2ZWwgSW5mb3JtYXRpb246IFJlZGJyaWRnZSBSb3VuZGFib3V0RkFzIHNvbWUgc3VwcG9ydGVycyBtYXkgYmUgYXdhcmUsIHRoZXJlIGFyZSBjdXJyZW50bHkgbWFqb3Igcm9hZHdvci4uLi4KMiBkYXlzIGFnb2QCBQ9kFgJmDxUOAARsYXN0QS9uZXdzL2FydGljbGUvcGFya2luZy1pbmZvcm1hdGlvbi1zYWludHMtdnMtd2VzdC1icm9tLTc4NzM2Ny5hc3B4AARuZXdzKFBhcmtpbmcgSW5mb3JtYXRpb246IFNhaW50cyB2cyBXZXN0IEJyb20oUGFya2luZyBJbmZvcm1hdGlvbjogU2FpbnRzIHZzIFdlc3QgQnJvbTovY21zX2ltYWdlcy9vdGhlci9zdC1tYXJ5cy1mcm9udC02NDAxNDgtMzAxNjM2XzE1MHgxMTMuanBnQS9uZXdzL2FydGljbGUvcGFya2luZy1pbmZvcm1hdGlvbi1zYWludHMtdnMtd2VzdC1icm9tLTc4NzM2Ny5hc3B4AChQYXJraW5nIEluZm9ybWF0aW9uOiBTYWludHMgdnMgV2VzdCBCcm9tKFBhcmtpbmcgSW5mb3JtYXRpb246IFNhaW50cyB2cyBXZXN0IEJyb21GUGxlYXNlIG5vdGUgdGhhdCB0aGVyZSB3aWxsIGJlIG5vIEF3YXkgUGFyayAmYW1wOyBSaWRlIGF0IEJ1cnNsZWRvLi4uLgoyIGRheXMgYWdvZAIGD2QWAmYPFQ4EZXZlbgRsYXN0PGh0dHA6Ly93d3cucGxheWVyLnNhaW50c2ZjLmNvLnVrL2xhdGVzdC1uZXdzL2FydGljbGUvMzE1MzMyOQ90YXJnZXQ9J19ibGFuaycFdmlkZW8sRXh0ZW5kZWQgSGlnaGxpZ2h0czogU3dhbnNlYSAwLTAgU291dGhhbXB0b24sRXh0ZW5kZWQgSGlnaGxpZ2h0czogU3dhbnNlYSAwLTAgU291dGhhbXB0b248L2Ntc19pbWFnZXMvdmlkZW8vMzE1MzMyOS0wMTE4NjU1NDAwMDE0OC03ODY5NTlfMTUweDExMy5qcGVnPGh0dHA6Ly93d3cucGxheWVyLnNhaW50c2ZjLmNvLnVrL2xhdGVzdC1uZXdzL2FydGljbGUvMzE1MzMyOQ90YXJnZXQ9J19ibGFuaycsRXh0ZW5kZWQgSGlnaGxpZ2h0czogU3dhbnNlYSAwLTAgU291dGhhbXB0b24sRXh0ZW5kZWQgSGlnaGxpZ2h0czogU3dhbnNlYSAwLTAgU291dGhhbXB0b25GV2F0Y2ggaGlnaGxpZ2h0cyBmcm9tIHRoZSBMaWJlcnR5IFN0YWRpdW0gYXMgU2FpbnRzIHRha2Ugb24gU3dhbnNlLi4uLgoyIGRheXMgYWdvZAICD2QWAmYPFgIfAAXAATwhLS0gUGxhY2VtZW50OlJPUy1NUFUtMzAwIHggMjUwICgyNzE2NDU1KSAtLT48ZGl2IGlkPSJtZjI3MTY0NTUiIGNsYXNzPSJtZmMxNzAiPjxzY3JpcHQgdHlwZT0idGV4dC9qYXZhc2NyaXB0Ij5pZiAodHlwZW9mIGdldEhlbGlvc1RhZyA9PSdmdW5jdGlvbicpIGdldEhlbGlvc1RhZygyNzE2NDU1LCAxNzApOzwvc2NyaXB0PjwvZGl2PmQCAw9kFgICAQ8WAh8BAgUWCmYPZBYCZg8VDDYvbmV3cy9hcnRpY2xlL3JlYWRpbmctdTE4cy0yLTEtc2FpbnRzLXUxOHMtNzkwNTU5LmFzcHgABG5ld3McUmVhZGluZyBVMThzIDItMSBTYWludHMgVTE4c0ovY21zX2ltYWdlcy9qYXNvbi1kb2RkLXRvdWNobGluZS1tYW4tdXRkLWhvbWUtYWN0aW9uMTQ4LTY2MDE4OF8xNTB4MTEzLmpwZxxSZWFkaW5nIFUxOHMgMi0xIFNhaW50cyBVMThzNi9uZXdzL2FydGljbGUvcmVhZGluZy11MThzLTItMS1zYWludHMtdTE4cy03OTA1NTkuYXNweAAcUmVhZGluZyBVMThzIDItMSBTYWludHMgVTE4cxxSZWFkaW5nIFUxOHMgMi0xIFNhaW50cyBVMThzbVRoZSB5b3VuZ3N0ZXJzIHNhdyB0aGVpciBzZWFzb24gY29tZSB0byBhbiBlbmQgd2l0aCBhIGZydXN0cmF0aW5nIGRlZmVhdCBpbiBCZXJrc2hpcmUgb24gV2VkbmVzZGF5IGFmdGVybm9vbi4TNiBob3VycyA0MiBtaW5zIGFnb2QCAQ9kFgJmDxUMOC9uZXdzL2FydGljbGUvc2FpbnRzLXNlY29uZC1jaGFuY2UtcHJvZ3JhbW1lLTc5MDAwOS5hc3B4AARuZXdzHlNhaW50cyBTZWNvbmQgQ2hhbmNlIFByb2dyYW1tZTMvY21zX2ltYWdlcy9uZXdzL3NpbHZlci1jcmVzdDE0OC02MDYyNTVfMTUweDExMy5qcGceU2FpbnRzIFNlY29uZCBDaGFuY2UgUHJvZ3JhbW1lOC9uZXdzL2FydGljbGUvc2FpbnRzLXNlY29uZC1jaGFuY2UtcHJvZ3JhbW1lLTc5MDAwOS5hc3B4AB5TYWludHMgU2Vjb25kIENoYW5jZSBQcm9ncmFtbWUeU2FpbnRzIFNlY29uZCBDaGFuY2UgUHJvZ3JhbW1lhwFTb3V0aGFtcHRvbiBGb290YmFsbCBDbHViIGlzIGRlbGlnaHRlZCB0byBnaXZlIGl0cyBiYWNraW5nIHRvIGEgbmV3IGluaXRpYXRpdmUgd2hpY2ggb2ZmZXJzIDE2LTE5IHllYXItb2xkcyBhIHJvdXRlIGJhY2sgaW50byBmb290YmFsbC4UMTEgaG91cnMgMTEgbWlucyBhZ29kAgIPZBYCZg8VDD4vbmV3cy9hcnRpY2xlL29ubHktaG9zcGl0YWxpdHktbGVmdC1mb3ItbGFzdC1tYXRjaC03ODg1MDAuYXNweAAEbmV3cyRPbmx5IEhvc3BpdGFsaXR5IExlZnQgRm9yIExhc3QgTWF0Y2g0L2Ntc19pbWFnZXMvbWF0Y2gvc2FpbnRzLXN0b2tlMTQ4LTc4ODQ5NV8xNTB4MTEzLmpwZyRPbmx5IEhvc3BpdGFsaXR5IExlZnQgRm9yIExhc3QgTWF0Y2g+L25ld3MvYXJ0aWNsZS9vbmx5LWhvc3BpdGFsaXR5LWxlZnQtZm9yLWxhc3QtbWF0Y2gtNzg4NTAwLmFzcHgAJE9ubHkgSG9zcGl0YWxpdHkgTGVmdCBGb3IgTGFzdCBNYXRjaCRPbmx5IEhvc3BpdGFsaXR5IExlZnQgRm9yIExhc3QgTWF0Y2iWAUFsbCBzdGFuZGFyZCB0aWNrZXRzIGZvciBvdXIgZmluYWwgaG9tZSBnYW1lIG9mIHRoZSBzZWFzb24g4oCTIHRoZSB2aXNpdCBvZiBTdG9rZSBDaXR5IOKAkyBoYXZlIGJlZW4gc25hcHBlZCB1cCBiYXJlbHkgZm91ciBob3VycyBhZnRlciBnb2luZyBvbiBzYWxlLgkxIGRheSBhZ29kAgMPZBYCZg8VDEEvbmV3cy9hcnRpY2xlL3RyYXZlbC1pbmZvcm1hdGlvbi1yZWRicmlkZ2Utcm91bmRhYm91dC03ODIyNDMuYXNweAAEbmV3cyhUcmF2ZWwgSW5mb3JtYXRpb246IFJlZGJyaWRnZSBSb3VuZGFib3V0Oi9jbXNfaW1hZ2VzL290aGVyL3N0LW1hcnlzLWZyb250LTY0MDE0OC0zMDE2MzZfMTUweDExMy5qcGcoVHJhdmVsIEluZm9ybWF0aW9uOiBSZWRicmlkZ2UgUm91bmRhYm91dEEvbmV3cy9hcnRpY2xlL3RyYXZlbC1pbmZvcm1hdGlvbi1yZWRicmlkZ2Utcm91bmRhYm91dC03ODIyNDMuYXNweAAoVHJhdmVsIEluZm9ybWF0aW9uOiBSZWRicmlkZ2UgUm91bmRhYm91dChUcmF2ZWwgSW5mb3JtYXRpb246IFJlZGJyaWRnZSBSb3VuZGFib3V0kAFBcyBzb21lIHN1cHBvcnRlcnMgbWF5IGJlIGF3YXJlLCB0aGVyZSBhcmUgY3VycmVudGx5IG1ham9yIHJvYWR3b3JrcyB0YWtpbmcgcGxhY2Ugb24gUmVkYnJpZGdlIFJvdW5kYWJvdXQgb2ZmIHRoZSBNMjcxIGhlYWRpbmcgaW50byBTb3V0aGFtcHRvbi4KMiBkYXlzIGFnb2QCBA9kFgJmDxUMQS9uZXdzL2FydGljbGUvcGFya2luZy1pbmZvcm1hdGlvbi1zYWludHMtdnMtd2VzdC1icm9tLTc4NzM2Ny5hc3B4AARuZXdzKFBhcmtpbmcgSW5mb3JtYXRpb246IFNhaW50cyB2cyBXZXN0IEJyb206L2Ntc19pbWFnZXMvb3RoZXIvc3QtbWFyeXMtZnJvbnQtNjQwMTQ4LTMwMTYzNl8xNTB4MTEzLmpwZyhQYXJraW5nIEluZm9ybWF0aW9uOiBTYWludHMgdnMgV2VzdCBCcm9tQS9uZXdzL2FydGljbGUvcGFya2luZy1pbmZvcm1hdGlvbi1zYWludHMtdnMtd2VzdC1icm9tLTc4NzM2Ny5hc3B4AChQYXJraW5nIEluZm9ybWF0aW9uOiBTYWludHMgdnMgV2VzdCBCcm9tKFBhcmtpbmcgSW5mb3JtYXRpb246IFNhaW50cyB2cyBXZXN0IEJyb21pUGxlYXNlIG5vdGUgdGhhdCB0aGVyZSB3aWxsIGJlIG5vIEF3YXkgUGFyayAmYW1wOyBSaWRlIGF0IEJ1cnNsZWRvbiBmb3IgdmlzaXRpbmcgc3VwcG9ydGVycyBhdCB0aGlzIGdhbWUuCjIgZGF5cyBhZ29kAgQPZBYCZg8WAh8ABbgBPCEtLSBQbGFjZW1lbnQ6SGFsZiBQYWdlICgzNzc1Mjk2KSAtLT48ZGl2IGlkPSJtZjM3NzUyOTYiIGNsYXNzPSJtZmM1MjkiPjxzY3JpcHQgdHlwZT0idGV4dC9qYXZhc2NyaXB0Ij5pZiAodHlwZW9mIGdldEhlbGlvc1RhZyA9PSdmdW5jdGlvbicpIGdldEhlbGlvc1RhZygzNzc1Mjk2LCA1MjkpOzwvc2NyaXB0PjwvZGl2PmRkNdJZ8QLxhAJ7hS3Igv+lSVE1u8g=">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTIxMzE5MDk1NDYPZBYCZg9kFgICBA9kFgRmD2QWAmYPFgIeBFRleHQFOzxkaXYgaWQ9J0NsdWJTcG9uc29yc19sZWFndWVfc3BvbnNvcicgY2xhc3M9J2xvYWRlcic+PC9kaXY+ZAIDD2QWBmYPZBYCZg8WAh8ABU08ZGl2IGlkPSdDbHViU3BvbnNvcnNfbmV3c19zZWN0aW9uX3NlY3Rpb25fc3BvbnNvcl90b3AnIGNsYXNzPSdsb2FkZXInPjwvZGl2PmQCAQ9kFgICAQ8WAh4LXyFJdGVtQ291bnQCBhYMAgEPZBYCZg8VDgAAPC9uZXdzL2FydGljbGUvd2FybS11cC1pbi1ob3NwaXRhbGl0eS1mb3ItZnVsaGFtLTExMTQxODUuYXNweAAEbmV3cyFXYXJtIHVwIGluIGhvc3BpdGFsaXR5IGZvciBGdWxoYW0hV2FybSB1cCBpbiBob3NwaXRhbGl0eSBmb3IgRnVsaGFtQC9jbXNfaW1hZ2VzL25ld3MvaG9zcGl0YWxpdHktb2N0b2Jlci0yMDEzMTQ4LTExMTQxNDBfMTUweDExMy5qcGc8L25ld3MvYXJ0aWNsZS93YXJtLXVwLWluLWhvc3BpdGFsaXR5LWZvci1mdWxoYW0tMTExNDE4NS5hc3B4ACFXYXJtIHVwIGluIGhvc3BpdGFsaXR5IGZvciBGdWxoYW0hV2FybSB1cCBpbiBob3NwaXRhbGl0eSBmb3IgRnVsaGFtRkFzIHRoZSBuaWdodHMgZHJhdyBpbiBhbmQgdGhlIHRlbXBlcmF0dXJlcyBkcm9wLCBvdXIgbHV4dXJpb3VzIGhvcy4uLi4TNCBob3VycyA1MyBtaW5zIGFnb2QCAg9kFgJmDxUOBGV2ZW4AMy9uZXdzL2FydGljbGUvdGlja2V0LWJ1bGxldGluLTE0MTAyMDEzLTExMTI2MDcuYXNweAAEbmV3cxtUaWNrZXQgYnVsbGV0aW46IDE0LzEwLzIwMTMbVGlja2V0IGJ1bGxldGluOiAxNC8xMC8yMDEzNS9jbXNfaW1hZ2VzL25ld3MvdGlja2V0LW9mZmljZTE0OC0xMTAyMTIxXzE1MHgxMTMuanBnMy9uZXdzL2FydGljbGUvdGlja2V0LWJ1bGxldGluLTE0MTAyMDEzLTExMTI2MDcuYXNweAAbVGlja2V0IGJ1bGxldGluOiAxNC8xMC8yMDEzG1RpY2tldCBidWxsZXRpbjogMTQvMTAvMjAxM0hBZnRlciBhIHdlZWtlbmQgb2ZmLCBTYWludHMgZ2V0IGJhY2sgaW50byBhY3Rpb24gdGhpcyB3ZWVrZW5kIOKAkyBjaC4uLi4TMTEgaG91cnMgNiBtaW5zIGFnb2QCAw9kFgJmDxUOAAAwL25ld3MvYXJ0aWNsZS9mYW1pbHktZnVuLWZvci1mdWxoYW0tMTEwMjUzMi5hc3B4AARuZXdzFUZhbWlseSBmdW4gZm9yIEZ1bGhhbRVGYW1pbHkgZnVuIGZvciBGdWxoYW0uL2Ntc19pbWFnZXMvbmV3cy9zZmNmZmQxNDgtMTEwMjUyOV8xNTB4MTEzLmpwZzAvbmV3cy9hcnRpY2xlL2ZhbWlseS1mdW4tZm9yLWZ1bGhhbS0xMTAyNTMyLmFzcHgAFUZhbWlseSBmdW4gZm9yIEZ1bGhhbRVGYW1pbHkgZnVuIGZvciBGdWxoYW1IV2UmIzM5O3JlIHBsZWFzZWQgdG8gYW5ub3VuY2UgdGhhdCBvdXIgbmV4dCBob21lIGdhbWUg4oCTIHRoZSB2aXNpdCAuLi4uCjIgZGF5cyBhZ29kAgQPZBYCZg8VDgRldmVuADovbmV3cy9hcnRpY2xlL2ludGVybmF0aW9uYWwtcm91bmQtdXAtMTExMDIwMTMtMTExMDgxMy5hc3B4AARuZXdzIkludGVybmF0aW9uYWwgcm91bmQtdXA6IDExLzEwLzIwMTMiSW50ZXJuYXRpb25hbCByb3VuZC11cDogMTEvMTAvMjAxM0AvY21zX2ltYWdlcy9wbGF5ZXIvZGFuaS1vc3ZhbGRvLWRlbm1hcmstMjE0OC0xMTEwNzgzXzE1MHgxMTMuanBnOi9uZXdzL2FydGljbGUvaW50ZXJuYXRpb25hbC1yb3VuZC11cC0xMTEwMjAxMy0xMTEwODEzLmFzcHgAIkludGVybmF0aW9uYWwgcm91bmQtdXA6IDExLzEwLzIwMTMiSW50ZXJuYXRpb25hbCByb3VuZC11cDogMTEvMTAvMjAxM0ZBbiBleGNlbGxlbnQgc3RyaWtlIGZyb20gRGFuaSBPc3ZhbGRvIHdhcyB0aGUgaGlnaGxpZ2h0IG9mIGEgbWl4ZWQuLi4uCjIgZGF5cyBhZ29kAgUPZBYCZg8VDgAEbGFzdDovbmV3cy9hcnRpY2xlL3ZpZGVvLW5vLXJlc3QtZm9yLXNhaW50cy1zcXVhZHMtMTEwOTMyOC5hc3B4AARuZXdzIFZpZGVvOiBObyByZXN0IGZvciBTYWludHMgc3F1YWRzIFZpZGVvOiBObyByZXN0IGZvciBTYWludHMgc3F1YWRzSi9jbXNfaW1hZ2VzL3BsYXllci9qYWNrLWNvcmstaW50LWJyZWFrLW9jdG9iZXItMjAxMzE0OC0xMTA5MzEyXzE1MHgxMTMuanBnOi9uZXdzL2FydGljbGUvdmlkZW8tbm8tcmVzdC1mb3Itc2FpbnRzLXNxdWFkcy0xMTA5MzI4LmFzcHgAIFZpZGVvOiBObyByZXN0IGZvciBTYWludHMgc3F1YWRzIFZpZGVvOiBObyByZXN0IGZvciBTYWludHMgc3F1YWRzRldhdGNoIHZpZGVvIGZyb20gdGhlIHRyYWluaW5nIGdyb3VuZCBvZiB0aGUgRmlyc3QgVGVhbSBhbmQgRGV2ZWxvcC4uLi4KMyBkYXlzIGFnb2QCBg9kFgJmDxUOBGV2ZW4EbGFzdDMvbmV3cy9hcnRpY2xlL2dhbGxlcnktYnJlYWstd2hhdC1icmVhay0xMTA5MTAzLmFzcHgABG5ld3MbR2FsbGVyeTogQnJlYWs/IFdoYXQgYnJlYWs/G0dhbGxlcnk6IEJyZWFrPyBXaGF0IGJyZWFrP0YvY21zX2ltYWdlcy9uZXdzL2ludC1icmVhay1vY3RvYmVyLTIwMTMtZ2FsbGVyeTE0OC0xMTA5MTAxXzE1MHgxMTMuanBnMy9uZXdzL2FydGljbGUvZ2FsbGVyeS1icmVhay13aGF0LWJyZWFrLTExMDkxMDMuYXNweAAbR2FsbGVyeTogQnJlYWs/IFdoYXQgYnJlYWs/G0dhbGxlcnk6IEJyZWFrPyBXaGF0IGJyZWFrP0ZJbnRlcm5hdGlvbmFsIGZpeHR1cmVzIG1heSBtZWFuIFNhaW50cyBkbyBub3QgaGF2ZSBhIG1hdGNoIHRoaXMgd2UuLi4uCjMgZGF5cyBhZ29kAgMPZBYCAgEPFgIfAQIFFgpmD2QWAmYPFQw8L25ld3MvYXJ0aWNsZS93YXJtLXVwLWluLWhvc3BpdGFsaXR5LWZvci1mdWxoYW0tMTExNDE4NS5hc3B4AARuZXdzIVdhcm0gdXAgaW4gaG9zcGl0YWxpdHkgZm9yIEZ1bGhhbUAvY21zX2ltYWdlcy9uZXdzL2hvc3BpdGFsaXR5LW9jdG9iZXItMjAxMzE0OC0xMTE0MTQwXzE1MHgxMTMuanBnIVdhcm0gdXAgaW4gaG9zcGl0YWxpdHkgZm9yIEZ1bGhhbTwvbmV3cy9hcnRpY2xlL3dhcm0tdXAtaW4taG9zcGl0YWxpdHktZm9yLWZ1bGhhbS0xMTE0MTg1LmFzcHgAIVdhcm0gdXAgaW4gaG9zcGl0YWxpdHkgZm9yIEZ1bGhhbSFXYXJtIHVwIGluIGhvc3BpdGFsaXR5IGZvciBGdWxoYW24AUFzIHRoZSBuaWdodHMgZHJhdyBpbiBhbmQgdGhlIHRlbXBlcmF0dXJlcyBkcm9wLCBvdXIgbHV4dXJpb3VzIGhvc3BpdGFsaXR5IHN1aXRlcyBwcm92aWRlIHRoZSBtb3N0IGNvbWZvcnRhYmxlIHN1cnJvdW5kaW5ncyBmb3Igd2F0Y2hpbmcgU2FpbnRzIGJ1aWxkIG9uIGEgc3VwZXJiIHN0YXJ0IHRvIHRoZSBjYW1wYWlnbi4TNCBob3VycyA1MyBtaW5zIGFnb2QCAQ9kFgJmDxUMMy9uZXdzL2FydGljbGUvdGlja2V0LWJ1bGxldGluLTE0MTAyMDEzLTExMTI2MDcuYXNweAAEbmV3cxtUaWNrZXQgYnVsbGV0aW46IDE0LzEwLzIwMTM1L2Ntc19pbWFnZXMvbmV3cy90aWNrZXQtb2ZmaWNlMTQ4LTExMDIxMjFfMTUweDExMy5qcGcbVGlja2V0IGJ1bGxldGluOiAxNC8xMC8yMDEzMy9uZXdzL2FydGljbGUvdGlja2V0LWJ1bGxldGluLTE0MTAyMDEzLTExMTI2MDcuYXNweAAbVGlja2V0IGJ1bGxldGluOiAxNC8xMC8yMDEzG1RpY2tldCBidWxsZXRpbjogMTQvMTAvMjAxM6QBQWZ0ZXIgYSB3ZWVrZW5kIG9mZiwgU2FpbnRzIGdldCBiYWNrIGludG8gYWN0aW9uIHRoaXMgd2Vla2VuZCDigJMgY2hlY2sgb3V0IHRoaXMgd2VlayYjMzk7cyBUaWNrZXQgQnVsbGV0aW4gZm9yIHRpY2tldGluZyBpbmZvcm1hdGlvbiBvbiBvdXIgbmV4dCBiYXRjaCBvZiBmaXh0dXJlcy4TMTEgaG91cnMgNiBtaW5zIGFnb2QCAg9kFgJmDxUMMC9uZXdzL2FydGljbGUvZmFtaWx5LWZ1bi1mb3ItZnVsaGFtLTExMDI1MzIuYXNweAAEbmV3cxVGYW1pbHkgZnVuIGZvciBGdWxoYW0uL2Ntc19pbWFnZXMvbmV3cy9zZmNmZmQxNDgtMTEwMjUyOV8xNTB4MTEzLmpwZxVGYW1pbHkgZnVuIGZvciBGdWxoYW0wL25ld3MvYXJ0aWNsZS9mYW1pbHktZnVuLWZvci1mdWxoYW0tMTEwMjUzMi5hc3B4ABVGYW1pbHkgZnVuIGZvciBGdWxoYW0VRmFtaWx5IGZ1biBmb3IgRnVsaGFtnwFXZSYjMzk7cmUgcGxlYXNlZCB0byBhbm5vdW5jZSB0aGF0IG91ciBuZXh0IGhvbWUgZ2FtZSDigJMgdGhlIHZpc2l0IG9mIEZ1bGhhbSBsYXRlciB0aGlzIG1vbnRoIOKAkyBoYXMgYmVlbiBkZXNpZ25hdGVkIGFzIHRoZSBmaXJzdC1ldmVyIFNhaW50cyBGYW1pbHkgRnVuIERheSEKMiBkYXlzIGFnb2QCAw9kFgJmDxUMOi9uZXdzL2FydGljbGUvaW50ZXJuYXRpb25hbC1yb3VuZC11cC0xMTEwMjAxMy0xMTEwODEzLmFzcHgABG5ld3MiSW50ZXJuYXRpb25hbCByb3VuZC11cDogMTEvMTAvMjAxM0AvY21zX2ltYWdlcy9wbGF5ZXIvZGFuaS1vc3ZhbGRvLWRlbm1hcmstMjE0OC0xMTEwNzgzXzE1MHgxMTMuanBnIkludGVybmF0aW9uYWwgcm91bmQtdXA6IDExLzEwLzIwMTM6L25ld3MvYXJ0aWNsZS9pbnRlcm5hdGlvbmFsLXJvdW5kLXVwLTExMTAyMDEzLTExMTA4MTMuYXNweAAiSW50ZXJuYXRpb25hbCByb3VuZC11cDogMTEvMTAvMjAxMyJJbnRlcm5hdGlvbmFsIHJvdW5kLXVwOiAxMS8xMC8yMDEzfUFuIGV4Y2VsbGVudCBzdHJpa2UgZnJvbSBEYW5pIE9zdmFsZG8gd2FzIHRoZSBoaWdobGlnaHQgb2YgYSBtaXhlZCBldmVuaW5nIGZvciBTb3V0aGFtcHRvbiYjMzk7cyBlaWdodCBzZW5pb3IgaW50ZXJuYXRpb25hbHMuCjIgZGF5cyBhZ29kAgQPZBYCZg8VDDovbmV3cy9hcnRpY2xlL3ZpZGVvLW5vLXJlc3QtZm9yLXNhaW50cy1zcXVhZHMtMTEwOTMyOC5hc3B4AARuZXdzIFZpZGVvOiBObyByZXN0IGZvciBTYWludHMgc3F1YWRzSi9jbXNfaW1hZ2VzL3BsYXllci9qYWNrLWNvcmstaW50LWJyZWFrLW9jdG9iZXItMjAxMzE0OC0xMTA5MzEyXzE1MHgxMTMuanBnIFZpZGVvOiBObyByZXN0IGZvciBTYWludHMgc3F1YWRzOi9uZXdzL2FydGljbGUvdmlkZW8tbm8tcmVzdC1mb3Itc2FpbnRzLXNxdWFkcy0xMTA5MzI4LmFzcHgAIFZpZGVvOiBObyByZXN0IGZvciBTYWludHMgc3F1YWRzIFZpZGVvOiBObyByZXN0IGZvciBTYWludHMgc3F1YWRzhwFXYXRjaCB2aWRlbyBmcm9tIHRoZSB0cmFpbmluZyBncm91bmQgb2YgdGhlIEZpcnN0IFRlYW0gYW5kIERldmVsb3BtZW50IFNxdWFkIHdvcmtpbmcgaGFyZCBhdCBTdGFwbGV3b29kIGR1cmluZyB0aGUgaW50ZXJuYXRpb25hbCBicmVhay4KMyBkYXlzIGFnb2RkiQwAOYznyfdqky5SP+zl6acFM6s=">
 </div>
 
 <div class="aspNetHidden">
 
-	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWBgLpnc+DCwLxt6buAgKD6Zv+AwK4l9ypDQKMw8L1CQK1k/qOARK/JqJlShY1szGWW+m6zk3g5Bdg">
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWBgLrztmfCALxt6buAgKD6Zv+AwK4l9ypDQKMw8L1CQK1k/qOAf7bM8MllYUhaK9H6bDGM1Tk16DT">
 </div>
 
 <span title="skip-link" id="skip-link"><a accesskey="0" href="#content" title="Skip to main content">Skip to main content</a></span>
 <section id="top_banner">
 
-<script>
 
-   adloader.push({ "url": "/UserControls/IONOS/Ionos_High_Media.ascx", "params": { "IsCPA": 'false', "HasTitle": 'False', "HasLink": 'False',"HasDescription": 'False',"HasLink": 'False', "hasLiTags": '',"IsFooter": 'False', "AdData": '3245C556-2D2A-432F-93F9-98CCFE7ACAFD$$$pa_18$$$AlwayOn|AlwaysOn$$$1@League Sponsor', "SectionName": 'League Sponsor', "ClubName": 'Southampton' , "isCached" : '', "CacheKey": 'ClubSponsors_league_sponsor', "CombineAdRequest": 'False', "PoweredByText": '' , "PoweredInNextLine": 'False' }, "args": { "el": "#ClubSponsors_league_sponsor"} })
+
+<script type="text/javascript">
+
+var userControlUrl ="/UserControls/IONOS/Ionos_High_Media.ascx";
+if(window.location.hostname.toString().indexOf('wall.') !=-1)
+{ userControlUrl= window.location.protocol +"//" + window.location.hostname.toString().substring(5) + userControlUrl; }
+
+   adloader.push({ "url": userControlUrl, 
+   "params": { 
+    "IsCPA": 'false', 
+    "HasTitle": 'False', 
+    "HasLink": 'False',
+    "HasDescription": 'False',
+    "HasLink": 'False',
+     "hasLiTags": '',
+     "IsFooter": 'False',
+      "AdData": '3245C556-2D2A-432F-93F9-98CCFE7ACAFD$$$pa_18$$$AlwayOn|AlwaysOn$$$1@League Sponsor', 
+      "SectionName": 'League Sponsor', 
+      "ClubName": 'Southampton' ,
+       "isCached" : '',
+        "CacheKey": 'ClubSponsors_league_sponsor', "CombineAdRequest": 'False', 
+        "PoweredByText": '' , "PoweredInNextLine": 'False',
+         "IsNavigationAd" : 'False' 
+       }
+       , "callback" : "sendIonosOrderIds"
+,"args": { 
+            "el": "#ClubSponsors_league_sponsor"
+            ,"addata" : '3245C556-2D2A-432F-93F9-98CCFE7ACAFD$$$pa_18$$$AlwayOn|AlwaysOn$$$1@League Sponsor'}
+        })
 
 </script>
+
 <div id="ClubSponsors_league_sponsor" class="loader"></div>
 
 
@@ -311,8 +408,18 @@ playback timings (ms):
 <nav id="secondary" class="clearfix">
   <div class="clearfix"> 
     <ul id="secondary_navigation">
-      <li><a href="http://www.player.saintsfc.co.uk/home/" target="_blank" title="Saints Player" onclick="EventTracking('External Link','Click','Southampton Player');" class="player">Saints Player</a></li>
-      <li><a href="https://ssl.saintsfc.co.uk/" target="_blank" title="Shop" onclick="EventTracking('External Link','Click','Shop');">Shop</a></li>
+
+
+   
+
+
+      <li><a href="http://www.player.saintsfc.co.uk/home/" target="_blank" title="Saints Player" onclick="EventTracking('External Link','Click','NavBar : Southampton Player');" class="player">Saints Player</a></li>
+     
+  
+
+ <li><a href="https://ssl.saintsfc.co.uk/" target="_blank" title="Shop" onclick="EventTracking('External Link','Click','NavBar : Shop');">Shop</a></li>
+
+
       <li class="subnav"><a href="javascript:void(0)" title="Newsletter">Newsletter</a>
           <div class="subnavigation" id="newsletter_signup">
 				<fieldset>
@@ -323,9 +430,11 @@ playback timings (ms):
                         <button value="Subscribe" id="subscribe_newsletter" class="cta" onclick="return onclick_pop1('email','emailErrorText')">SUBSCRIBE</button>
 	</fieldset>
 			</div>
-      </li> 
-      <li><a href="http://southampton.betbutler.co.uk" target="_blank" onclick="EventTracking('External Link', 'Click','Bet');">Bet</a></li>
-      <li><a onclick="EventTracking('External Link', 'Click','Mobile');" href="/mobile/" title="Mobile" target="_blank">Mobile</a></li>
+      </li>
+ 
+          
+
+      <li><a onclick="EventTracking('External Link', 'Click','NavBar: Mobile');" href="/mobile/" title="Mobile" target="_blank">Mobile</a></li>
     </ul>
   </div>
 </nav>
@@ -344,16 +453,19 @@ playback timings (ms):
           <h4>In this section</h4>
           <ul>
             <li>
-              <a href="/news/club/" title="Club News">Club News</a>
+              <a href="/news/All-News/" title="Latest News">Latest News</a>
             </li>
             <li>
-              <a href="/news/premium-video/" title="Saints Player">Saints Player</a>
+              <a href="/news/FDSC-Latest/" title="FDSC News">FDSC News</a>
+            </li>
+            <li>
+              <a href="/news/galleries/" title="Galleries">Galleries</a>
             </li>
             <li>
               <a href="/news/tickets-details/" title="Ticket News">Ticket News</a>
             </li>
             <li>
-              <a href="/news/FDSC-Latest/" title="FDSC News">FDSC News</a>
+              <a href="/news/Premium-video/" title="Video News">Video News</a>
             </li>
           </ul>
         </li>
@@ -361,25 +473,25 @@ playback timings (ms):
           <h4>Features</h4>
           <ul>
             <li>
-              <a href="http://www.facebook.com/southamptonfc" title="Official Facebook Page" target="_blank">Official Facebook Page</a>
+              <a href="http://www.facebook.com/southamptonfc" title="Facebook" target="_blank">Facebook</a>
             </li>
             <li>
-              <a href="https://plus.google.com/100610791633455672379" title="Official Google+ Page" target="_blank">Official Google+ Page</a>
+              <a href="https://plus.google.com/100610791633455672379" title="Google+" target="_blank">Google+</a>
             </li>
             <li>
-              <a href="http://www.instagram.com/southamptonfc" title="Official Instagram Account" target="_blank">Official Instagram Account</a>
+              <a href="http://www.instagram.com/southamptonfc" title="Instagram" target="_blank">Instagram</a>
             </li>
             <li>
-              <a href="http://www.twitter.com/SouthamptonFC" title="Official Twitter Feed" target="_blank">Official Twitter Feed</a>
-            </li>
-            <li>
-              <a href="http://www.youtube.com/southamptonfc" title="Official YouTube Channel" target="_blank">Official YouTube Channel</a>
-            </li>
-            <li>
-              <a href="http://www.twitter.com/SouthamptonFCJP" title="日本語のツイッター" target="_blank">日本語のツイッター</a>
+              <a href="http://www.twitter.com/SouthamptonFC" title="Twitter" target="_blank">Twitter</a>
             </li>
             <li>
               <a href="https://vine.co/" title="Vine" target="_blank">Vine</a>
+            </li>
+            <li>
+              <a href="http://www.youtube.com/southamptonfc" title="YouTube" target="_blank">YouTube</a>
+            </li>
+            <li>
+              <a href="http://www.twitter.com/SouthamptonFCJP" title="日本語のツイッター" target="_blank">日本語のツイッター</a>
             </li>
           </ul>
         </li>
@@ -411,7 +523,7 @@ playback timings (ms):
               <a href="/fixtures-results/league-table/" title="League Table">League Table</a>
             </li>
             <li>
-              <a href="/fixtures-results/fixtures-list/" title="Fixtures list">Fixtures list</a>
+              <a href="/fixtures-results/fixtures-list/" title="Fixture List">Fixture List</a>
             </li>
             <li>
               <a href="/fixtures-results/match-preview/" title="Match Preview">Match Preview</a>
@@ -420,16 +532,10 @@ playback timings (ms):
               <a href="/fixtures-results/match-report/" title="Match Report">Match Report</a>
             </li>
             <li>
-              <a href="/fixtures-results/u21-fixtures/" title="U21 Fixture List">U21 Fixture List</a>
-            </li>
-            <li>
-              <a href="/fixtures-results/u21-table/" title="U21 League Table">U21 League Table</a>
-            </li>
-            <li>
               <a href="/fixtures-results/u18-fixtures/" title="U18 Fixture List">U18 Fixture List</a>
             </li>
             <li>
-              <a href="/fixtures-results/u18-table/" title="U18 League Table">U18 League Table</a>
+              <a href="/fixtures-results/u21-fixtures/" title="U21 Fixture List">U21 Fixture List</a>
             </li>
           </ul>
         </li>
@@ -437,7 +543,13 @@ playback timings (ms):
           <h4>Features</h4>
           <ul>
             <li>
-              <a href="http://www.saintsfc.co.uk/fans/match-galleries/" title="Gallery" target="_blank">Gallery</a>
+              <a href="http://www.player.saintsfc.co.uk/live-matches" title="Saints Player Live" target="_blank">Saints Player Live</a>
+            </li>
+            <li>
+              <a href="http://www.premierleague.com/en-gb/matchday/barclays-u18-premier-league-tables.html?paramYouthStage=KNOCKOUT" title="U18 League Table" target="_self">U18 League Table</a>
+            </li>
+            <li>
+              <a href="http://www.premierleague.com/en-gb/matchday/barclays-u21-premier-league-tables.html?paramYouthStage=KNOCKOUT" title="U21 League Table" target="_self">U21 League Table</a>
             </li>
           </ul>
         </li>
@@ -466,7 +578,7 @@ playback timings (ms):
           <h4>In this section</h4>
           <ul>
             <li>
-              <a href="/tickets/ticket-updates/" title="Ticket Updates">Ticket Updates</a>
+              <a href="/tickets/match-tickets/" title="Match Tickets">Match Tickets</a>
             </li>
             <li>
               <a href="/tickets/ticket-information/" title="Ticket Information">Ticket Information</a>
@@ -475,10 +587,13 @@ playback timings (ms):
               <a href="/tickets/ticket-terms/" title="Ticket T&amp;Cs">Ticket T&amp;Cs</a>
             </li>
             <li>
+              <a href="/tickets/travel-club-details/" title="Travel Club">Travel Club</a>
+            </li>
+            <li>
               <a href="/tickets/stadium-tours/" title="Stadium Tours">Stadium Tours</a>
             </li>
             <li>
-              <a href="/tickets/travel-club-details/" title="Travel Club">Travel Club</a>
+              <a href="/tickets/season-tickets/" title="Season Tickets">Season Tickets</a>
             </li>
           </ul>
         </li>
@@ -524,22 +639,10 @@ playback timings (ms):
               <a href="/team/staff-profiles/" title="Staff Profiles">Staff Profiles</a>
             </li>
             <li>
-              <a href="/team/U21s/" title="U21 Profiles">U21 Profiles</a>
-            </li>
-            <li>
-              <a href="/team/u21-stats/" title="U21 Stats">U21 Stats</a>
-            </li>
-            <li>
               <a href="/team/U18s/" title="U18 Profiles">U18 Profiles</a>
             </li>
             <li>
-              <a href="/team/u18-stats/" title="U18 Stats">U18 Stats</a>
-            </li>
-            <li>
-              <a href="/team/Saints-Academy/" title="Saints Academy">Saints Academy</a>
-            </li>
-            <li>
-              <a href="/team/match-teamsheets/" title="Match Teamsheets">Match Teamsheets</a>
+              <a href="/team/U21s/" title="U21 Profiles">U21 Profiles</a>
             </li>
           </ul>
         </li>
@@ -581,6 +684,12 @@ playback timings (ms):
             <li>
               <a href="/stats/player-stats/" title="Player Stats">Player Stats</a>
             </li>
+            <li>
+              <a href="/stats/u18-stats/" title="Under-18 Stats">Under-18 Stats</a>
+            </li>
+            <li>
+              <a href="/stats/u21-stats/" title="Under-21 Stats">Under-21 Stats</a>
+            </li>
           </ul>
         </li>
         <li class="features">
@@ -619,19 +728,19 @@ playback timings (ms):
               <a href="/fans/Contact-us/" title="Contact Us">Contact Us</a>
             </li>
             <li>
-              <a href="/fans/match-galleries/" title="Match Galleries">Match Galleries</a>
+              <a href="/fans/j-saints/" title="J-Saints">J-Saints</a>
             </li>
             <li>
-              <a href="/fans/j-saints/" title="J-Saints">J-Saints</a>
+              <a href="/fans/matchday-dedications/" title="Matchday Dedications">Matchday Dedications</a>
             </li>
             <li>
               <a href="/fans/no_smoking/" title="No Smoking Policy">No Smoking Policy</a>
             </li>
             <li>
-              <a href="/fans/supporter-services/" title="Supporter Services">Supporter Services</a>
+              <a href="/fans/opening-times/" title="Opening Times">Opening Times</a>
             </li>
             <li>
-              <a href="/fans/saintsquiz/" title="#SaintsQuiz">#SaintsQuiz</a>
+              <a href="/fans/supporter-services/" title="Supporter Services">Supporter Services</a>
             </li>
           </ul>
         </li>
@@ -642,7 +751,10 @@ playback timings (ms):
               <a href="http://www.saintsfc.co.uk/fans/supporters-charter/" title="Supporters Charter" target="_self">Supporters Charter</a>
             </li>
             <li>
-              <a href="http://www.saintsfc.co.uk/tickets/away-fans/" title="Away Fans" target="_self">Away Fans</a>
+              <a href="http://www.saintsfc.co.uk/fans/Home-supporters-information/" title="Home supporters information" target="_self">Home supporters information</a>
+            </li>
+            <li>
+              <a href="http://www.saintsfc.co.uk/tickets/away-fans/" title="Visiting supporters information" target="_self">Visiting supporters information</a>
             </li>
           </ul>
         </li>
@@ -671,25 +783,28 @@ playback timings (ms):
           <h4>In this section</h4>
           <ul>
             <li>
-              <a href="/club/visiting-st-marys/" title="Visiting St Mary's">Visiting St Mary's</a>
+              <a href="/club/Careers/" title="Careers">Careers</a>
             </li>
             <li>
               <a href="/club/history/" title="History">History</a>
             </li>
             <li>
+              <a href="/club/media/" title="Media">Media</a>
+            </li>
+            <li>
+              <a href="/club/Ownership/" title="Ownership">Ownership</a>
+            </li>
+            <li>
               <a href="/club/Safeguarding-explained/" title="Safeguarding">Safeguarding</a>
             </li>
             <li>
-              <a href="/club/Careers/" title="Careers">Careers</a>
-            </li>
-            <li>
-              <a href="/club/media/" title="Media Accreditation">Media Accreditation</a>
+              <a href="/club/sfc-sponsors/" title="Sponsors">Sponsors</a>
             </li>
             <li>
               <a href="/club/Training-Centre/" title="St Mary's Training Centre">St Mary's Training Centre</a>
             </li>
             <li>
-              <a href="/club/sfc-sponsors/" title="Sponsors">Sponsors</a>
+              <a href="/club/visiting-st-marys/" title="Transport Information">Transport Information</a>
             </li>
           </ul>
         </li>
@@ -697,13 +812,10 @@ playback timings (ms):
           <h4>Features</h4>
           <ul>
             <li>
-              <a href="http://www.saintsfoundation.co.uk" title="Saints Foundation" target="_blank">Saints Foundation</a>
-            </li>
-            <li>
               <a href="http://www.saintsfc.co.uk/club/club-records/" title="Club Records" target="_self">Club Records</a>
             </li>
             <li>
-              <a href="http://www.saintsfc.co.uk/club/ownership/" title="Ownership" target="_self">Ownership</a>
+              <a href="http://www.saintsfoundation.co.uk" title="Saints Foundation" target="_blank">Saints Foundation</a>
             </li>
           </ul>
         </li>
@@ -740,9 +852,6 @@ playback timings (ms):
             <li>
               <a href="/commercial/Sponsorship-opportunities/" title="Sponsorship Opportunities">Sponsorship Opportunities</a>
             </li>
-            <li>
-              <a href="/commercial/sfc-careers/" title="SFC Careers">SFC Careers</a>
-            </li>
           </ul>
         </li>
         <li class="features">
@@ -752,13 +861,13 @@ playback timings (ms):
               <a href="http://www.halo-ce.co.uk" title="Halo Conferences &amp; Events" target="_blank">Halo Conferences &amp; Events</a>
             </li>
             <li>
-              <a href="http://www.gbnonline.co.uk/southamptonfc" title="Personalised Gifts" target="_blank">Personalised Gifts</a>
-            </li>
-            <li>
               <a href="http://www.linkedin.com/company/southampton-football-club" title="LinkedIn" target="_blank">LinkedIn</a>
             </li>
             <li>
               <a href="https://ssl.saintsfc.co.uk/" title="Online Store" target="_blank">Online Store</a>
+            </li>
+            <li>
+              <a href="http://www.gbnonline.co.uk/southamptonfc" title="Personalised Gifts" target="_blank">Personalised Gifts</a>
             </li>
           </ul>
         </li>
@@ -1008,11 +1117,39 @@ _e_117p_0</td><td>Facebook cookies created when Facebook share or like links cli
                               </div>
                        </section>
 
-<script>
 
-   adloader.push({ "url": "/UserControls/IONOS/Ionos_High_Media.ascx", "params": { "IsCPA": 'false', "HasTitle": 'False', "HasLink": 'False',"HasDescription": 'False',"HasLink": 'False', "hasLiTags": '',"IsFooter": 'False', "AdData": '0C0D36C6-8E96-48CF-BDFA-CD1518653068$$$pa_18$$$AlwayOn|AlwaysOn$$$1', "SectionName": '', "ClubName": 'Southampton' , "isCached" : '', "CacheKey": 'ClubSponsors_news_section_section_sponsor_top', "CombineAdRequest": 'False', "PoweredByText": '' , "PoweredInNextLine": 'False' }, "args": { "el": "#ClubSponsors_news_section_section_sponsor_top"} })
+
+<script type="text/javascript">
+
+var userControlUrl ="/UserControls/IONOS/Ionos_High_Media.ascx";
+if(window.location.hostname.toString().indexOf('wall.') !=-1)
+{ userControlUrl= window.location.protocol +"//" + window.location.hostname.toString().substring(5) + userControlUrl; }
+
+   adloader.push({ "url": userControlUrl, 
+   "params": { 
+    "IsCPA": 'false', 
+    "HasTitle": 'False', 
+    "HasLink": 'False',
+    "HasDescription": 'False',
+    "HasLink": 'False',
+     "hasLiTags": '',
+     "IsFooter": 'False',
+      "AdData": '0C0D36C6-8E96-48CF-BDFA-CD1518653068$$$pa_18$$$AlwayOn|AlwaysOn$$$1', 
+      "SectionName": '', 
+      "ClubName": 'Southampton' ,
+       "isCached" : '',
+        "CacheKey": 'ClubSponsors_news_section_section_sponsor_top', "CombineAdRequest": 'False', 
+        "PoweredByText": '' , "PoweredInNextLine": 'False',
+         "IsNavigationAd" : 'False' 
+       }
+       , "callback" : "sendIonosOrderIds"
+,"args": { 
+            "el": "#ClubSponsors_news_section_section_sponsor_top"
+            ,"addata" : '0C0D36C6-8E96-48CF-BDFA-CD1518653068$$$pa_18$$$AlwayOn|AlwaysOn$$$1'}
+        })
 
 </script>
+
 <div id="ClubSponsors_news_section_section_sponsor_top" class="loader"></div>
 
 	
@@ -1029,86 +1166,86 @@ _e_117p_0</td><td>Facebook cookies created when Facebook share or like links cli
             <ul>
         
             <li class=" ">
-                <a href="/news/article/reading-u18s-2-1-saints-u18s-790559.aspx" class="news">
+                <a href="/news/article/warm-up-in-hospitality-for-fulham-1114185.aspx" class="news">
                     <span></span>
-                    <img alt="Reading U18s 2-1 Saints U18s" title="Reading U18s 2-1 Saints U18s" src="/cms_images/jason-dodd-touchline-man-utd-home-action148-660188_150x113.jpg" width="68" height="51">
+                    <img alt="Warm up in hospitality for Fulham" title="Warm up in hospitality for Fulham" src="/cms_images/news/hospitality-october-2013148-1114140_150x113.jpg" width="68" height="51">
                 </a>
-                <a href="/news/article/reading-u18s-2-1-saints-u18s-790559.aspx" title="Reading U18s 2-1 Saints U18s">
-                    <strong>Reading U18s 2-1 Saints U18s</strong>
+                <a href="/news/article/warm-up-in-hospitality-for-fulham-1114185.aspx" title="Warm up in hospitality for Fulham">
+                    <strong>Warm up in hospitality for Fulham</strong>
                 </a>
                 <p class="info">
-                    The youngsters saw their season come to an end with a frustrating ....<br>
-                    <span class="duration">6 hours 42 mins ago</span>
+                    As the nights draw in and the temperatures drop, our luxurious hos....<br>
+                    <span class="duration">4 hours 53 mins ago</span>
                 </p>
             </li>
         
             <li class="even ">
-                <a href="/news/article/saints-second-chance-programme-790009.aspx" class="news">
+                <a href="/news/article/ticket-bulletin-14102013-1112607.aspx" class="news">
                     <span></span>
-                    <img alt="Saints Second Chance Programme" title="Saints Second Chance Programme" src="/cms_images/news/silver-crest148-606255_150x113.jpg" width="68" height="51">
+                    <img alt="Ticket bulletin: 14/10/2013" title="Ticket bulletin: 14/10/2013" src="/cms_images/news/ticket-office148-1102121_150x113.jpg" width="68" height="51">
                 </a>
-                <a href="/news/article/saints-second-chance-programme-790009.aspx" title="Saints Second Chance Programme">
-                    <strong>Saints Second Chance Programme</strong>
+                <a href="/news/article/ticket-bulletin-14102013-1112607.aspx" title="Ticket bulletin: 14/10/2013">
+                    <strong>Ticket bulletin: 14/10/2013</strong>
                 </a>
                 <p class="info">
-                    Southampton Football Club is delighted to give its backing to a ne....<br>
-                    <span class="duration">11 hours 11 mins ago</span>
+                    After a weekend off, Saints get back into action this weekend – ch....<br>
+                    <span class="duration">11 hours 6 mins ago</span>
                 </p>
             </li>
         
             <li class=" ">
-                <a href="/news/article/only-hospitality-left-for-last-match-788500.aspx" class="news">
+                <a href="/news/article/family-fun-for-fulham-1102532.aspx" class="news">
                     <span></span>
-                    <img alt="Only Hospitality Left For Last Match" title="Only Hospitality Left For Last Match" src="/cms_images/match/saints-stoke148-788495_150x113.jpg" width="68" height="51">
+                    <img alt="Family fun for Fulham" title="Family fun for Fulham" src="/cms_images/news/sfcffd148-1102529_150x113.jpg" width="68" height="51">
                 </a>
-                <a href="/news/article/only-hospitality-left-for-last-match-788500.aspx" title="Only Hospitality Left For Last Match">
-                    <strong>Only Hospitality Left For Last Match</strong>
+                <a href="/news/article/family-fun-for-fulham-1102532.aspx" title="Family fun for Fulham">
+                    <strong>Family fun for Fulham</strong>
                 </a>
                 <p class="info">
-                    All standard tickets for our final home game of the season – the v....<br>
-                    <span class="duration">1 day ago</span>
+                    We're pleased to announce that our next home game – the visit ....<br>
+                    <span class="duration">2 days ago</span>
                 </p>
             </li>
         
             <li class="even ">
-                <a href="/news/article/travel-information-redbridge-roundabout-782243.aspx" class="news">
+                <a href="/news/article/international-round-up-11102013-1110813.aspx" class="news">
                     <span></span>
-                    <img alt="Travel Information: Redbridge Roundabout" title="Travel Information: Redbridge Roundabout" src="/cms_images/other/st-marys-front-640148-301636_150x113.jpg" width="68" height="51">
+                    <img alt="International round-up: 11/10/2013" title="International round-up: 11/10/2013" src="/cms_images/player/dani-osvaldo-denmark-2148-1110783_150x113.jpg" width="68" height="51">
                 </a>
-                <a href="/news/article/travel-information-redbridge-roundabout-782243.aspx" title="Travel Information: Redbridge Roundabout">
-                    <strong>Travel Information: Redbridge Roundabout</strong>
+                <a href="/news/article/international-round-up-11102013-1110813.aspx" title="International round-up: 11/10/2013">
+                    <strong>International round-up: 11/10/2013</strong>
                 </a>
                 <p class="info">
-                    As some supporters may be aware, there are currently major roadwor....<br>
+                    An excellent strike from Dani Osvaldo was the highlight of a mixed....<br>
                     <span class="duration">2 days ago</span>
                 </p>
             </li>
         
             <li class=" last">
-                <a href="/news/article/parking-information-saints-vs-west-brom-787367.aspx" class="news">
+                <a href="/news/article/video-no-rest-for-saints-squads-1109328.aspx" class="news">
                     <span></span>
-                    <img alt="Parking Information: Saints vs West Brom" title="Parking Information: Saints vs West Brom" src="/cms_images/other/st-marys-front-640148-301636_150x113.jpg" width="68" height="51">
+                    <img alt="Video: No rest for Saints squads" title="Video: No rest for Saints squads" src="/cms_images/player/jack-cork-int-break-october-2013148-1109312_150x113.jpg" width="68" height="51">
                 </a>
-                <a href="/news/article/parking-information-saints-vs-west-brom-787367.aspx" title="Parking Information: Saints vs West Brom">
-                    <strong>Parking Information: Saints vs West Brom</strong>
+                <a href="/news/article/video-no-rest-for-saints-squads-1109328.aspx" title="Video: No rest for Saints squads">
+                    <strong>Video: No rest for Saints squads</strong>
                 </a>
                 <p class="info">
-                    Please note that there will be no Away Park &amp; Ride at Bursledo....<br>
-                    <span class="duration">2 days ago</span>
+                    Watch video from the training ground of the First Team and Develop....<br>
+                    <span class="duration">3 days ago</span>
                 </p>
             </li>
         
             <li class="even last">
-                <a href="http://www.player.saintsfc.co.uk/latest-news/article/3153329" target="_blank" class="video">
+                <a href="/news/article/gallery-break-what-break-1109103.aspx" class="news">
                     <span></span>
-                    <img alt="Extended Highlights: Swansea 0-0 Southampton" title="Extended Highlights: Swansea 0-0 Southampton" src="/cms_images/video/3153329-01186554000148-786959_150x113.jpeg" width="68" height="51">
+                    <img alt="Gallery: Break? What break?" title="Gallery: Break? What break?" src="/cms_images/news/int-break-october-2013-gallery148-1109101_150x113.jpg" width="68" height="51">
                 </a>
-                <a href="http://www.player.saintsfc.co.uk/latest-news/article/3153329" target="_blank" title="Extended Highlights: Swansea 0-0 Southampton">
-                    <strong>Extended Highlights: Swansea 0-0 Southampton</strong>
+                <a href="/news/article/gallery-break-what-break-1109103.aspx" title="Gallery: Break? What break?">
+                    <strong>Gallery: Break? What break?</strong>
                 </a>
                 <p class="info">
-                    Watch highlights from the Liberty Stadium as Saints take on Swanse....<br>
-                    <span class="duration">2 days ago</span>
+                    International fixtures may mean Saints do not have a match this we....<br>
+                    <span class="duration">3 days ago</span>
                 </p>
             </li>
         
@@ -1139,7 +1276,10 @@ _e_117p_0</td><td>Facebook cookies created when Facebook share or like links cli
                         
 
 	                 <section class="mpu col4">
-		 				<!-- Placement:ROS-MPU-300 x 250 (2716455) --><div id="mf2716455" class="mfc170"><script type="text/javascript">if (typeof getHeliosTag =='function') getHeliosTag(2716455, 170);</script></div>
+		 				
+      
+          <script type="text/javascript">   document.MAX_ct0 ='INSERT_CLICK_MACRO';   var m3_u = (location.protocol=='https:'?'https://delivery.ads-creativesyndicator.com/adserver/www/delivery/ajs.php':'http://delivery.ads-creativesyndicator.com/adserver/www/delivery/ajs.php');   var m3_r = Math.floor(Math.random()*99999999999);   if (!document.MAX_used) document.MAX_used = ',';   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);   document.write ("?zoneid=2889&amp;charset=UTF-8");   document.write ('&amp;cb=' + m3_r);   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);   document.write ('&amp;charset=UTF-8');   document.write ("&amp;loc=" + escape(window.location));   document.write ("&amp;tzo=" + (new Date().getTimezoneOffset()));   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));   if (document.context) document.write ("&context=" + escape(document.context));   if ((typeof(document.MAX_ct0) != 'undefined') && (document.MAX_ct0.substring(0,4) == 'http')) {       document.write ("&amp;ct0=" + escape(document.MAX_ct0));   }   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");   document.write ("'><\/scr"+"ipt>");</script><script type="text/javascript" src="https://delivery.ads-creativesyndicator.com/adserver/www/delivery/ajs.php?zoneid=2889&amp;charset=UTF-8&amp;cb=34829525437&amp;charset=UTF-8&amp;loc=https%3A//web.archive.org/web/20131014204714id_/http%253A//www.saintsfc.co.uk/global/privacy-policy.aspx&amp;tzo=0"></script><noscript><a href='http://delivery.ads-creativesyndicator.com/adserver/www/delivery/ck.php?n=ab8b66b0&amp;cb=INSERT_RANDOM_NUMBER' target='_blank'><img src='http://delivery.ads-creativesyndicator.com/adserver/www/delivery/avw.php?zoneid=2889&amp;charset=UTF-8&amp;cb=INSERT_RANDOM_NUMBER&amp;n=ab8b66b0&amp;ct0=INSERT_CLICK_MACRO' border='0' alt='' /></a></noscript>
+      
 
 			</section>
 
@@ -1164,51 +1304,38 @@ _e_117p_0</td><td>Facebook cookies created when Facebook share or like links cli
     
             <div>
                 <div class="item">
-                    <a href="/news/article/reading-u18s-2-1-saints-u18s-790559.aspx" class="news" title="Reading U18s 2-1 Saints U18s">
+                    <a href="/news/article/warm-up-in-hospitality-for-fulham-1114185.aspx" class="news" title="Warm up in hospitality for Fulham">
                         <span></span>
-                        <img src="/cms_images/jason-dodd-touchline-man-utd-home-action148-660188_150x113.jpg" alt="Reading U18s 2-1 Saints U18s" width="68" height="51">
+                        <img src="/cms_images/news/hospitality-october-2013148-1114140_150x113.jpg" alt="Warm up in hospitality for Fulham" width="68" height="51">
                     </a>
-				    <h5><a href="/news/article/reading-u18s-2-1-saints-u18s-790559.aspx" title="Reading U18s 2-1 Saints U18s">Reading U18s 2-1 Saints U18s</a></h5>
-				    <p>The youngsters saw their season come to an end with a frustrating defeat in Berkshire on Wednesday afternoon.</p>
-				    <span class="duration">6 hours 42 mins ago</span>
+				    <h5><a href="/news/article/warm-up-in-hospitality-for-fulham-1114185.aspx" title="Warm up in hospitality for Fulham">Warm up in hospitality for Fulham</a></h5>
+				    <p>As the nights draw in and the temperatures drop, our luxurious hospitality suites provide the most comfortable surroundings for watching Saints build on a superb start to the campaign.</p>
+				    <span class="duration">4 hours 53 mins ago</span>
                     
                 </div>
             </div>
         
             <div>
                 <div class="item">
-                    <a href="/news/article/saints-second-chance-programme-790009.aspx" class="news" title="Saints Second Chance Programme">
+                    <a href="/news/article/ticket-bulletin-14102013-1112607.aspx" class="news" title="Ticket bulletin: 14/10/2013">
                         <span></span>
-                        <img src="/cms_images/news/silver-crest148-606255_150x113.jpg" alt="Saints Second Chance Programme" width="68" height="51">
+                        <img src="/cms_images/news/ticket-office148-1102121_150x113.jpg" alt="Ticket bulletin: 14/10/2013" width="68" height="51">
                     </a>
-				    <h5><a href="/news/article/saints-second-chance-programme-790009.aspx" title="Saints Second Chance Programme">Saints Second Chance Programme</a></h5>
-				    <p>Southampton Football Club is delighted to give its backing to a new initiative which offers 16-19 year-olds a route back into football.</p>
-				    <span class="duration">11 hours 11 mins ago</span>
+				    <h5><a href="/news/article/ticket-bulletin-14102013-1112607.aspx" title="Ticket bulletin: 14/10/2013">Ticket bulletin: 14/10/2013</a></h5>
+				    <p>After a weekend off, Saints get back into action this weekend – check out this week's Ticket Bulletin for ticketing information on our next batch of fixtures.</p>
+				    <span class="duration">11 hours 6 mins ago</span>
                     
                 </div>
             </div>
         
             <div>
                 <div class="item">
-                    <a href="/news/article/only-hospitality-left-for-last-match-788500.aspx" class="news" title="Only Hospitality Left For Last Match">
+                    <a href="/news/article/family-fun-for-fulham-1102532.aspx" class="news" title="Family fun for Fulham">
                         <span></span>
-                        <img src="/cms_images/match/saints-stoke148-788495_150x113.jpg" alt="Only Hospitality Left For Last Match" width="68" height="51">
+                        <img src="/cms_images/news/sfcffd148-1102529_150x113.jpg" alt="Family fun for Fulham" width="68" height="51">
                     </a>
-				    <h5><a href="/news/article/only-hospitality-left-for-last-match-788500.aspx" title="Only Hospitality Left For Last Match">Only Hospitality Left For Last Match</a></h5>
-				    <p>All standard tickets for our final home game of the season – the visit of Stoke City – have been snapped up barely four hours after going on sale.</p>
-				    <span class="duration">1 day ago</span>
-                    
-                </div>
-            </div>
-        
-            <div>
-                <div class="item">
-                    <a href="/news/article/travel-information-redbridge-roundabout-782243.aspx" class="news" title="Travel Information: Redbridge Roundabout">
-                        <span></span>
-                        <img src="/cms_images/other/st-marys-front-640148-301636_150x113.jpg" alt="Travel Information: Redbridge Roundabout" width="68" height="51">
-                    </a>
-				    <h5><a href="/news/article/travel-information-redbridge-roundabout-782243.aspx" title="Travel Information: Redbridge Roundabout">Travel Information: Redbridge Roundabout</a></h5>
-				    <p>As some supporters may be aware, there are currently major roadworks taking place on Redbridge Roundabout off the M271 heading into Southampton.</p>
+				    <h5><a href="/news/article/family-fun-for-fulham-1102532.aspx" title="Family fun for Fulham">Family fun for Fulham</a></h5>
+				    <p>We're pleased to announce that our next home game – the visit of Fulham later this month – has been designated as the first-ever Saints Family Fun Day!</p>
 				    <span class="duration">2 days ago</span>
                     
                 </div>
@@ -1216,13 +1343,26 @@ _e_117p_0</td><td>Facebook cookies created when Facebook share or like links cli
         
             <div>
                 <div class="item">
-                    <a href="/news/article/parking-information-saints-vs-west-brom-787367.aspx" class="news" title="Parking Information: Saints vs West Brom">
+                    <a href="/news/article/international-round-up-11102013-1110813.aspx" class="news" title="International round-up: 11/10/2013">
                         <span></span>
-                        <img src="/cms_images/other/st-marys-front-640148-301636_150x113.jpg" alt="Parking Information: Saints vs West Brom" width="68" height="51">
+                        <img src="/cms_images/player/dani-osvaldo-denmark-2148-1110783_150x113.jpg" alt="International round-up: 11/10/2013" width="68" height="51">
                     </a>
-				    <h5><a href="/news/article/parking-information-saints-vs-west-brom-787367.aspx" title="Parking Information: Saints vs West Brom">Parking Information: Saints vs West Brom</a></h5>
-				    <p>Please note that there will be no Away Park &amp; Ride at Bursledon for visiting supporters at this game.</p>
+				    <h5><a href="/news/article/international-round-up-11102013-1110813.aspx" title="International round-up: 11/10/2013">International round-up: 11/10/2013</a></h5>
+				    <p>An excellent strike from Dani Osvaldo was the highlight of a mixed evening for Southampton's eight senior internationals.</p>
 				    <span class="duration">2 days ago</span>
+                    
+                </div>
+            </div>
+        
+            <div>
+                <div class="item">
+                    <a href="/news/article/video-no-rest-for-saints-squads-1109328.aspx" class="news" title="Video: No rest for Saints squads">
+                        <span></span>
+                        <img src="/cms_images/player/jack-cork-int-break-october-2013148-1109312_150x113.jpg" alt="Video: No rest for Saints squads" width="68" height="51">
+                    </a>
+				    <h5><a href="/news/article/video-no-rest-for-saints-squads-1109328.aspx" title="Video: No rest for Saints squads">Video: No rest for Saints squads</a></h5>
+				    <p>Watch video from the training ground of the First Team and Development Squad working hard at Staplewood during the international break.</p>
+				    <span class="duration">3 days ago</span>
                     
                 </div>
             </div>
@@ -1273,7 +1413,7 @@ _e_117p_0</td><td>Facebook cookies created when Facebook share or like links cli
                        <script src="/js/plugins/fli.newsArchive.js" type="text/javascript"></script>
 <script>
        var monthNames = ["January","February","March","April","May","June","July","August","September","October","November","December"];
-       var currentDate= "2013,4";
+       var currentDate= "2013,10";
 </script>
 <section id="news_archive" class="block col4">
   <div class="clearfix">
@@ -1293,7 +1433,10 @@ _e_117p_0</td><td>Facebook cookies created when Facebook share or like links cli
 
 
 			<section class="mpu">
-				<!-- Placement:Half Page (3775296) --><div id="mf3775296" class="mfc529"><script type="text/javascript">if (typeof getHeliosTag =='function') getHeliosTag(3775296, 529);</script></div>
+				
+      
+          <script type="text/javascript">   document.MAX_ct0 ='INSERT_CLICK_MACRO';   var m3_u = (location.protocol=='https:'?'https://delivery.ads-creativesyndicator.com/adserver/www/delivery/ajs.php':'http://delivery.ads-creativesyndicator.com/adserver/www/delivery/ajs.php');   var m3_r = Math.floor(Math.random()*99999999999);   if (!document.MAX_used) document.MAX_used = ',';   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);   document.write ("?zoneid=2890&amp;charset=UTF-8");   document.write ('&amp;cb=' + m3_r);   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);   document.write ('&amp;charset=UTF-8');   document.write ("&amp;loc=" + escape(window.location));   document.write ("&amp;tzo=" + (new Date().getTimezoneOffset()));   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));   if (document.context) document.write ("&context=" + escape(document.context));   if ((typeof(document.MAX_ct0) != 'undefined') && (document.MAX_ct0.substring(0,4) == 'http')) {       document.write ("&amp;ct0=" + escape(document.MAX_ct0));   }   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");   document.write ("'><\/scr"+"ipt>");</script><script type="text/javascript" src="https://delivery.ads-creativesyndicator.com/adserver/www/delivery/ajs.php?zoneid=2890&amp;charset=UTF-8&amp;cb=42039229973&amp;charset=UTF-8&amp;loc=https%3A//web.archive.org/web/20131014204714id_/http%253A//www.saintsfc.co.uk/global/privacy-policy.aspx&amp;tzo=0"></script><noscript><a href='http://delivery.ads-creativesyndicator.com/adserver/www/delivery/ck.php?n=aa4e4841&amp;cb=INSERT_RANDOM_NUMBER' target='_blank'><img src='http://delivery.ads-creativesyndicator.com/adserver/www/delivery/avw.php?zoneid=2890&amp;charset=UTF-8&amp;cb=INSERT_RANDOM_NUMBER&amp;n=aa4e4841&amp;ct0=INSERT_CLICK_MACRO' border='0' alt='' /></a></noscript>
+      
 
 			</section>
 	</aside>
@@ -1317,11 +1460,39 @@ _e_117p_0</td><td>Facebook cookies created when Facebook share or like links cli
 <footer class="clearfix">
 
 
-<script>
 
-   adloader.push({ "url": "/UserControls/IONOS/Ionos_High_Media.ascx","callback":"slots", "params": { "IsCPA": 'false', "HasTitle": 'False', "HasLink": 'False',"HasDescription": 'False',"HasLink": 'False', "hasLiTags": '',"IsFooter": 'True', "AdData": '130BF5EB-388F-4DA0-AAD5-3877FE8D58D4$$$pa_18$$$AlwayOn|AlwaysOn$$$15@Bottom Section', "SectionName": 'Footer', "ClubName": 'Southampton' , "isCached" : '', "CacheKey": 'sponsors', "CombineAdRequest": 'False', "PoweredByText": '' , "PoweredInNextLine": 'False' }, "args": { "el": "#sponsors"} })
+
+<script type="text/javascript">
+
+var userControlUrl ="/UserControls/IONOS/Ionos_High_Media.ascx";
+if(window.location.hostname.toString().indexOf('wall.') !=-1)
+{ userControlUrl= window.location.protocol +"//" + window.location.hostname.toString().substring(5) + userControlUrl; }
+
+   adloader.push({ "url": userControlUrl,"callback":"slots", 
+   "params": { 
+    "IsCPA": 'false', 
+    "HasTitle": 'False', 
+    "HasLink": 'False',
+    "HasDescription": 'False',
+    "HasLink": 'False',
+     "hasLiTags": '',
+     "IsFooter": 'True',
+      "AdData": '130BF5EB-388F-4DA0-AAD5-3877FE8D58D4$$$pa_18$$$AlwayOn|AlwaysOn$$$15@Bottom Section', 
+      "SectionName": 'Footer', 
+      "ClubName": 'Southampton' ,
+       "isCached" : '',
+        "CacheKey": 'sponsors', "CombineAdRequest": 'False', 
+        "PoweredByText": '' , "PoweredInNextLine": 'False',
+         "IsNavigationAd" : 'False' 
+       }
+       
+,"args": { 
+            "el": "#sponsors"
+            ,"addata" : '130BF5EB-388F-4DA0-AAD5-3877FE8D58D4$$$pa_18$$$AlwayOn|AlwaysOn$$$15@Bottom Section'}
+        })
 
 </script>
+
 
 
 
@@ -1425,16 +1596,19 @@ _e_117p_0</td><td>Facebook cookies created when Facebook share or like links cli
     <a href="/news/" title="News">News</a>
     <ul>
       <li>
-        <a href="/news/club/" title="Club News">Club News</a>
+        <a href="/news/All-News/" title="Latest News">Latest News</a>
       </li>
       <li>
-        <a href="/news/premium-video/" title="Saints Player">Saints Player</a>
+        <a href="/news/FDSC-Latest/" title="FDSC News">FDSC News</a>
+      </li>
+      <li>
+        <a href="/news/galleries/" title="Galleries">Galleries</a>
       </li>
       <li>
         <a href="/news/tickets-details/" title="Ticket News">Ticket News</a>
       </li>
       <li>
-        <a href="/news/FDSC-Latest/" title="FDSC News">FDSC News</a>
+        <a href="/news/Premium-video/" title="Video News">Video News</a>
       </li>
     </ul>
   </li>
@@ -1445,7 +1619,7 @@ _e_117p_0</td><td>Facebook cookies created when Facebook share or like links cli
         <a href="/fixtures-results/league-table/" title="League Table">League Table</a>
       </li>
       <li>
-        <a href="/fixtures-results/fixtures-list/" title="Fixtures list">Fixtures list</a>
+        <a href="/fixtures-results/fixtures-list/" title="Fixture List">Fixture List</a>
       </li>
       <li>
         <a href="/fixtures-results/match-preview/" title="Match Preview">Match Preview</a>
@@ -1454,16 +1628,10 @@ _e_117p_0</td><td>Facebook cookies created when Facebook share or like links cli
         <a href="/fixtures-results/match-report/" title="Match Report">Match Report</a>
       </li>
       <li>
-        <a href="/fixtures-results/u21-fixtures/" title="U21 Fixture List">U21 Fixture List</a>
-      </li>
-      <li>
-        <a href="/fixtures-results/u21-table/" title="U21 League Table">U21 League Table</a>
-      </li>
-      <li>
         <a href="/fixtures-results/u18-fixtures/" title="U18 Fixture List">U18 Fixture List</a>
       </li>
       <li>
-        <a href="/fixtures-results/u18-table/" title="U18 League Table">U18 League Table</a>
+        <a href="/fixtures-results/u21-fixtures/" title="U21 Fixture List">U21 Fixture List</a>
       </li>
     </ul>
   </li>
@@ -1471,7 +1639,7 @@ _e_117p_0</td><td>Facebook cookies created when Facebook share or like links cli
     <a href="/tickets/" title="Tickets">Tickets</a>
     <ul>
       <li>
-        <a href="/tickets/ticket-updates/" title="Ticket Updates">Ticket Updates</a>
+        <a href="/tickets/match-tickets/" title="Match Tickets">Match Tickets</a>
       </li>
       <li>
         <a href="/tickets/ticket-information/" title="Ticket Information">Ticket Information</a>
@@ -1480,10 +1648,13 @@ _e_117p_0</td><td>Facebook cookies created when Facebook share or like links cli
         <a href="/tickets/ticket-terms/" title="Ticket T&amp;Cs">Ticket T&amp;Cs</a>
       </li>
       <li>
+        <a href="/tickets/travel-club-details/" title="Travel Club">Travel Club</a>
+      </li>
+      <li>
         <a href="/tickets/stadium-tours/" title="Stadium Tours">Stadium Tours</a>
       </li>
       <li>
-        <a href="/tickets/travel-club-details/" title="Travel Club">Travel Club</a>
+        <a href="/tickets/season-tickets/" title="Season Tickets">Season Tickets</a>
       </li>
     </ul>
   </li>
@@ -1497,22 +1668,10 @@ _e_117p_0</td><td>Facebook cookies created when Facebook share or like links cli
         <a href="/team/staff-profiles/" title="Staff Profiles">Staff Profiles</a>
       </li>
       <li>
-        <a href="/team/U21s/" title="U21 Profiles">U21 Profiles</a>
-      </li>
-      <li>
-        <a href="/team/u21-stats/" title="U21 Stats">U21 Stats</a>
-      </li>
-      <li>
         <a href="/team/U18s/" title="U18 Profiles">U18 Profiles</a>
       </li>
       <li>
-        <a href="/team/u18-stats/" title="U18 Stats">U18 Stats</a>
-      </li>
-      <li>
-        <a href="/team/Saints-Academy/" title="Saints Academy">Saints Academy</a>
-      </li>
-      <li>
-        <a href="/team/match-teamsheets/" title="Match Teamsheets">Match Teamsheets</a>
+        <a href="/team/U21s/" title="U21 Profiles">U21 Profiles</a>
       </li>
     </ul>
   </li>
@@ -1524,6 +1683,12 @@ _e_117p_0</td><td>Facebook cookies created when Facebook share or like links cli
       </li>
       <li>
         <a href="/stats/player-stats/" title="Player Stats">Player Stats</a>
+      </li>
+      <li>
+        <a href="/stats/u18-stats/" title="Under-18 Stats">Under-18 Stats</a>
+      </li>
+      <li>
+        <a href="/stats/u21-stats/" title="Under-21 Stats">Under-21 Stats</a>
       </li>
     </ul>
   </li>
@@ -1537,19 +1702,19 @@ _e_117p_0</td><td>Facebook cookies created when Facebook share or like links cli
         <a href="/fans/Contact-us/" title="Contact Us">Contact Us</a>
       </li>
       <li>
-        <a href="/fans/match-galleries/" title="Match Galleries">Match Galleries</a>
+        <a href="/fans/j-saints/" title="J-Saints">J-Saints</a>
       </li>
       <li>
-        <a href="/fans/j-saints/" title="J-Saints">J-Saints</a>
+        <a href="/fans/matchday-dedications/" title="Matchday Dedications">Matchday Dedications</a>
       </li>
       <li>
         <a href="/fans/no_smoking/" title="No Smoking Policy">No Smoking Policy</a>
       </li>
       <li>
-        <a href="/fans/supporter-services/" title="Supporter Services">Supporter Services</a>
+        <a href="/fans/opening-times/" title="Opening Times">Opening Times</a>
       </li>
       <li>
-        <a href="/fans/saintsquiz/" title="#SaintsQuiz">#SaintsQuiz</a>
+        <a href="/fans/supporter-services/" title="Supporter Services">Supporter Services</a>
       </li>
     </ul>
   </li>
@@ -1557,25 +1722,28 @@ _e_117p_0</td><td>Facebook cookies created when Facebook share or like links cli
     <a href="/club/" title="Club">Club</a>
     <ul>
       <li>
-        <a href="/club/visiting-st-marys/" title="Visiting St Mary's">Visiting St Mary's</a>
+        <a href="/club/Careers/" title="Careers">Careers</a>
       </li>
       <li>
         <a href="/club/history/" title="History">History</a>
       </li>
       <li>
+        <a href="/club/media/" title="Media">Media</a>
+      </li>
+      <li>
+        <a href="/club/Ownership/" title="Ownership">Ownership</a>
+      </li>
+      <li>
         <a href="/club/Safeguarding-explained/" title="Safeguarding">Safeguarding</a>
       </li>
       <li>
-        <a href="/club/Careers/" title="Careers">Careers</a>
-      </li>
-      <li>
-        <a href="/club/media/" title="Media Accreditation">Media Accreditation</a>
+        <a href="/club/sfc-sponsors/" title="Sponsors">Sponsors</a>
       </li>
       <li>
         <a href="/club/Training-Centre/" title="St Mary's Training Centre">St Mary's Training Centre</a>
       </li>
       <li>
-        <a href="/club/sfc-sponsors/" title="Sponsors">Sponsors</a>
+        <a href="/club/visiting-st-marys/" title="Transport Information">Transport Information</a>
       </li>
     </ul>
   </li>
@@ -1590,9 +1758,6 @@ _e_117p_0</td><td>Facebook cookies created when Facebook share or like links cli
       </li>
       <li>
         <a href="/commercial/Sponsorship-opportunities/" title="Sponsorship Opportunities">Sponsorship Opportunities</a>
-      </li>
-      <li>
-        <a href="/commercial/sfc-careers/" title="SFC Careers">SFC Careers</a>
       </li>
     </ul>
   </li>
@@ -1619,218 +1784,890 @@ _e_117p_0</td><td>Facebook cookies created when Facebook share or like links cli
 
 
 
-<script>
-
-   adloader.push({ "url": "/UserControls/IONOS/Ionos_High_Media.ascx", "params": { "IsCPA": 'false', "HasTitle": 'True', "HasLink": 'True',"HasDescription": 'True',"HasLink": 'True', "hasLiTags": '',"IsFooter": 'False', "AdData": '6FB4737B-A44B-42E5-ACB2-A1176290A5DE$$$pa_18$$$AlwayOn|AlwaysOn$$$1@Club Cross Sell', "SectionName": '', "ClubName": 'Southampton' , "isCached" : 'true', "CacheKey": 'navigation_club_cross_sell_1', "CombineAdRequest": 'True', "PoweredByText": '' , "PoweredInNextLine": 'False' }, "args": { "el": "#navigation_club_cross_sell_1"} })
-
-</script>
 
 
+<script type="text/javascript">
 
+var userControlUrl ="/UserControls/IONOS/Ionos_High_Media.ascx";
+if(window.location.hostname.toString().indexOf('wall.') !=-1)
+{ userControlUrl= window.location.protocol +"//" + window.location.hostname.toString().substring(5) + userControlUrl; }
 
-<script>
-
-   adloader.push({ "url": "/UserControls/IONOS/Ionos_High_Media.ascx", "params": { "IsCPA": 'false', "HasTitle": 'False', "HasLink": 'False',"HasDescription": 'True',"HasLink": 'False', "hasLiTags": '',"IsFooter": 'False', "AdData": '4FB712E3-6250-465C-A80E-249555B0CA59$$$pa_18$$$AlwayOn|AlwaysOn$$$1@Club Sponsor', "SectionName": '', "ClubName": 'Southampton' , "isCached" : 'true', "CacheKey": 'navigation_club_sponsor_1', "CombineAdRequest": 'True', "PoweredByText": '' , "PoweredInNextLine": 'False' }, "args": { "el": "#navigation_club_sponsor_1"} })
-
-</script>
-
-
-
-
-<script>
-
-   adloader.push({ "url": "/UserControls/IONOS/Ionos_High_Media.ascx", "params": { "IsCPA": 'false', "HasTitle": 'False', "HasLink": 'False',"HasDescription": 'False',"HasLink": 'False', "hasLiTags": '',"IsFooter": 'False', "AdData": 'A11FE8EF-CF13-4602-B2ED-0F50B16A4BFF$$$pa_18$$$AlwayOn|AlwaysOn$$$1@Section Sponsor', "SectionName": '', "ClubName": 'Southampton' , "isCached" : 'true', "CacheKey": 'navigation_section_sponsor_1', "CombineAdRequest": 'True', "PoweredByText": 'Powered by' , "PoweredInNextLine": 'False' }, "args": { "el": "#navigation_section_sponsor_1"} })
-
-</script>
-
-
-
-
-<script>
-
-   adloader.push({ "url": "/UserControls/IONOS/Ionos_High_Media.ascx", "params": { "IsCPA": 'false', "HasTitle": 'True', "HasLink": 'True',"HasDescription": 'True',"HasLink": 'True', "hasLiTags": '',"IsFooter": 'False', "AdData": 'E0D6E542-ADD3-44D6-81EA-E33E5742EE8F$$$pa_18$$$AlwayOn|AlwaysOn$$$1@Club Cross Sell', "SectionName": 'Fixtures and Results', "ClubName": 'Southampton' , "isCached" : 'true', "CacheKey": 'navigation_club_cross_sell_2', "CombineAdRequest": 'True', "PoweredByText": '' , "PoweredInNextLine": 'False' }, "args": { "el": "#navigation_club_cross_sell_2"} })
-
-</script>
-
-
-
-
-<script>
-
-   adloader.push({ "url": "/UserControls/IONOS/Ionos_High_Media.ascx", "params": { "IsCPA": 'false', "HasTitle": 'False', "HasLink": 'False',"HasDescription": 'True',"HasLink": 'False', "hasLiTags": '',"IsFooter": 'False', "AdData": '21AB8378-3BDA-44ED-A753-775F2B63ED6C$$$pa_18$$$AlwayOn|AlwaysOn$$$1@Club Sponsor', "SectionName": 'Fixtures and Results', "ClubName": 'Southampton' , "isCached" : 'true', "CacheKey": 'navigation_club_sponsor_2', "CombineAdRequest": 'True', "PoweredByText": '' , "PoweredInNextLine": 'False' }, "args": { "el": "#navigation_club_sponsor_2"} })
+   adloader.push({ "url": userControlUrl, 
+   "params": { 
+    "IsCPA": 'false', 
+    "HasTitle": 'True', 
+    "HasLink": 'True',
+    "HasDescription": 'True',
+    "HasLink": 'True',
+     "hasLiTags": '',
+     "IsFooter": 'False',
+      "AdData": '6FB4737B-A44B-42E5-ACB2-A1176290A5DE$$$pa_18$$$AlwayOn|AlwaysOn$$$1@Club Cross Sell', 
+      "SectionName": '', 
+      "ClubName": 'Southampton' ,
+       "isCached" : 'true',
+        "CacheKey": 'navigation_club_cross_sell_1', "CombineAdRequest": 'True', 
+        "PoweredByText": '' , "PoweredInNextLine": 'False',
+         "IsNavigationAd" : 'True' 
+       }
+       , "callback" : "sendIonosOrderIds"
+,"args": { 
+            "el": "#navigation_club_cross_sell_1"
+            ,"addata" : '6FB4737B-A44B-42E5-ACB2-A1176290A5DE$$$pa_18$$$AlwayOn|AlwaysOn$$$1@Club Cross Sell'}
+        })
 
 </script>
 
 
 
 
-<script>
-
-   adloader.push({ "url": "/UserControls/IONOS/Ionos_High_Media.ascx", "params": { "IsCPA": 'false', "HasTitle": 'False', "HasLink": 'False',"HasDescription": 'False',"HasLink": 'False', "hasLiTags": '',"IsFooter": 'False', "AdData": 'FE59E0E4-7375-4C81-92E3-CDF40BD29725$$$pa_18$$$AlwayOn|AlwaysOn$$$1@Section Sponsor', "SectionName": 'Fixtures and Results', "ClubName": 'Southampton' , "isCached" : 'true', "CacheKey": 'navigation_section_sponsor_2', "CombineAdRequest": 'True', "PoweredByText": 'Powered by' , "PoweredInNextLine": 'False' }, "args": { "el": "#navigation_section_sponsor_2"} })
-
-</script>
 
 
 
+<script type="text/javascript">
 
-<script>
+var userControlUrl ="/UserControls/IONOS/Ionos_High_Media.ascx";
+if(window.location.hostname.toString().indexOf('wall.') !=-1)
+{ userControlUrl= window.location.protocol +"//" + window.location.hostname.toString().substring(5) + userControlUrl; }
 
-   adloader.push({ "url": "/UserControls/IONOS/Ionos_High_Media.ascx", "params": { "IsCPA": 'false', "HasTitle": 'True', "HasLink": 'True',"HasDescription": 'True',"HasLink": 'True', "hasLiTags": '',"IsFooter": 'False', "AdData": '0FD217CB-0879-42DD-ACF0-607F72FD72AA$$$pa_18$$$AlwayOn|AlwaysOn$$$1@Club Cross Sell', "SectionName": 'Tickets', "ClubName": 'Southampton' , "isCached" : 'true', "CacheKey": 'navigation_club_cross_sell_3', "CombineAdRequest": 'True', "PoweredByText": '' , "PoweredInNextLine": 'False' }, "args": { "el": "#navigation_club_cross_sell_3"} })
-
-</script>
-
-
-
-
-<script>
-
-   adloader.push({ "url": "/UserControls/IONOS/Ionos_High_Media.ascx", "params": { "IsCPA": 'false', "HasTitle": 'False', "HasLink": 'False',"HasDescription": 'True',"HasLink": 'False', "hasLiTags": '',"IsFooter": 'False', "AdData": '7F69D4C0-1352-47CD-A034-EBFD6BD6D01D$$$pa_18$$$AlwayOn|AlwaysOn$$$1@Club Sponsor', "SectionName": 'Tickets', "ClubName": 'Southampton' , "isCached" : 'true', "CacheKey": 'navigation_club_sponsor_3', "CombineAdRequest": 'True', "PoweredByText": '' , "PoweredInNextLine": 'False' }, "args": { "el": "#navigation_club_sponsor_3"} })
-
-</script>
-
-
-
-
-<script>
-
-   adloader.push({ "url": "/UserControls/IONOS/Ionos_High_Media.ascx", "params": { "IsCPA": 'false', "HasTitle": 'False', "HasLink": 'False',"HasDescription": 'False',"HasLink": 'False', "hasLiTags": '',"IsFooter": 'False', "AdData": 'A683711F-3C35-4B5A-A2E7-7FE3DC188317$$$pa_18$$$AlwayOn|AlwaysOn$$$1@Section Sponsor', "SectionName": 'Tickets', "ClubName": 'Southampton' , "isCached" : 'true', "CacheKey": 'navigation_section_sponsor_3', "CombineAdRequest": 'True', "PoweredByText": 'Powered by' , "PoweredInNextLine": 'False' }, "args": { "el": "#navigation_section_sponsor_3"} })
-
-</script>
-
-
-
-
-<script>
-
-   adloader.push({ "url": "/UserControls/IONOS/Ionos_High_Media.ascx", "params": { "IsCPA": 'false', "HasTitle": 'True', "HasLink": 'True',"HasDescription": 'True',"HasLink": 'True', "hasLiTags": '',"IsFooter": 'False', "AdData": 'D8ED3FCF-F7ED-4CB6-8699-54F6EED86FEF$$$pa_18$$$AlwayOn|AlwaysOn$$$1@Club Cross Sell', "SectionName": 'Team', "ClubName": 'Southampton' , "isCached" : 'true', "CacheKey": 'navigation_club_cross_sell_4', "CombineAdRequest": 'True', "PoweredByText": '' , "PoweredInNextLine": 'False' }, "args": { "el": "#navigation_club_cross_sell_4"} })
+   adloader.push({ "url": userControlUrl, 
+   "params": { 
+    "IsCPA": 'false', 
+    "HasTitle": 'False', 
+    "HasLink": 'False',
+    "HasDescription": 'True',
+    "HasLink": 'False',
+     "hasLiTags": '',
+     "IsFooter": 'False',
+      "AdData": '4FB712E3-6250-465C-A80E-249555B0CA59$$$pa_18$$$AlwayOn|AlwaysOn$$$1@Club Sponsor', 
+      "SectionName": '', 
+      "ClubName": 'Southampton' ,
+       "isCached" : 'true',
+        "CacheKey": 'navigation_club_sponsor_1', "CombineAdRequest": 'True', 
+        "PoweredByText": '' , "PoweredInNextLine": 'False',
+         "IsNavigationAd" : 'True' 
+       }
+       , "callback" : "sendIonosOrderIds"
+,"args": { 
+            "el": "#navigation_club_sponsor_1"
+            ,"addata" : '4FB712E3-6250-465C-A80E-249555B0CA59$$$pa_18$$$AlwayOn|AlwaysOn$$$1@Club Sponsor'}
+        })
 
 </script>
 
 
 
 
-<script>
-
-   adloader.push({ "url": "/UserControls/IONOS/Ionos_High_Media.ascx", "params": { "IsCPA": 'false', "HasTitle": 'False', "HasLink": 'False',"HasDescription": 'True',"HasLink": 'False', "hasLiTags": '',"IsFooter": 'False', "AdData": '6E4E25D2-417B-426E-B5EA-559BA21C7416 $$$pa_18$$$AlwayOn|AlwaysOn$$$1@Club Sponsor', "SectionName": 'Team', "ClubName": 'Southampton' , "isCached" : 'true', "CacheKey": 'navigation_club_sponsor_4', "CombineAdRequest": 'True', "PoweredByText": '' , "PoweredInNextLine": 'False' }, "args": { "el": "#navigation_club_sponsor_4"} })
-
-</script>
 
 
 
+<script type="text/javascript">
 
-<script>
+var userControlUrl ="/UserControls/IONOS/Ionos_High_Media.ascx";
+if(window.location.hostname.toString().indexOf('wall.') !=-1)
+{ userControlUrl= window.location.protocol +"//" + window.location.hostname.toString().substring(5) + userControlUrl; }
 
-   adloader.push({ "url": "/UserControls/IONOS/Ionos_High_Media.ascx", "params": { "IsCPA": 'false', "HasTitle": 'False', "HasLink": 'False',"HasDescription": 'False',"HasLink": 'False', "hasLiTags": '',"IsFooter": 'False', "AdData": '378EB57B-8B05-4E92-A5F6-BEC21FF5F157$$$pa_18$$$AlwayOn|AlwaysOn$$$1@Section Sponsor', "SectionName": 'Team', "ClubName": 'Southampton' , "isCached" : 'true', "CacheKey": 'navigation_section_sponsor_4', "CombineAdRequest": 'True', "PoweredByText": 'Powered by' , "PoweredInNextLine": 'False' }, "args": { "el": "#navigation_section_sponsor_4"} })
-
-</script>
-
-
-
-
-<script>
-
-   adloader.push({ "url": "/UserControls/IONOS/Ionos_High_Media.ascx", "params": { "IsCPA": 'false', "HasTitle": 'True', "HasLink": 'True',"HasDescription": 'True',"HasLink": 'True', "hasLiTags": '',"IsFooter": 'False', "AdData": '77F35B91-2E44-4A1E-8C9A-0D707ABC49D9$$$pa_18$$$AlwayOn|AlwaysOn$$$1@Club Cross Sell', "SectionName": 'Stats', "ClubName": 'Southampton' , "isCached" : 'true', "CacheKey": 'navigation_club_cross_sell_5', "CombineAdRequest": 'True', "PoweredByText": '' , "PoweredInNextLine": 'False' }, "args": { "el": "#navigation_club_cross_sell_5"} })
-
-</script>
-
-
-
-
-<script>
-
-   adloader.push({ "url": "/UserControls/IONOS/Ionos_High_Media.ascx", "params": { "IsCPA": 'false', "HasTitle": 'False', "HasLink": 'False',"HasDescription": 'True',"HasLink": 'False', "hasLiTags": '',"IsFooter": 'False', "AdData": '8AD97504-7671-4766-A72C-7A84566C62E7$$$pa_18$$$AlwayOn|AlwaysOn$$$1@Club Sponsor', "SectionName": 'Stats', "ClubName": 'Southampton' , "isCached" : 'true', "CacheKey": 'navigation_club_sponsor_5', "CombineAdRequest": 'True', "PoweredByText": '' , "PoweredInNextLine": 'False' }, "args": { "el": "#navigation_club_sponsor_5"} })
-
-</script>
-
-
-
-
-<script>
-
-   adloader.push({ "url": "/UserControls/IONOS/Ionos_High_Media.ascx", "params": { "IsCPA": 'false', "HasTitle": 'False', "HasLink": 'False',"HasDescription": 'False',"HasLink": 'False', "hasLiTags": '',"IsFooter": 'False', "AdData": '513D7C29-C1BA-4E12-A2B4-AD7C552A0369$$$pa_18$$$AlwayOn|AlwaysOn$$$1@Section Sponsor', "SectionName": 'Stats', "ClubName": 'Southampton' , "isCached" : 'true', "CacheKey": 'navigation_section_sponsor_5', "CombineAdRequest": 'True', "PoweredByText": 'Powered by' , "PoweredInNextLine": 'False' }, "args": { "el": "#navigation_section_sponsor_5"} })
+   adloader.push({ "url": userControlUrl, 
+   "params": { 
+    "IsCPA": 'false', 
+    "HasTitle": 'False', 
+    "HasLink": 'False',
+    "HasDescription": 'False',
+    "HasLink": 'False',
+     "hasLiTags": '',
+     "IsFooter": 'False',
+      "AdData": 'A11FE8EF-CF13-4602-B2ED-0F50B16A4BFF$$$pa_18$$$AlwayOn|AlwaysOn$$$1@Section Sponsor', 
+      "SectionName": '', 
+      "ClubName": 'Southampton' ,
+       "isCached" : 'true',
+        "CacheKey": 'navigation_section_sponsor_1', "CombineAdRequest": 'True', 
+        "PoweredByText": 'Powered by' , "PoweredInNextLine": 'False',
+         "IsNavigationAd" : 'True' 
+       }
+       , "callback" : "sendIonosOrderIds"
+,"args": { 
+            "el": "#navigation_section_sponsor_1"
+            ,"addata" : 'A11FE8EF-CF13-4602-B2ED-0F50B16A4BFF$$$pa_18$$$AlwayOn|AlwaysOn$$$1@Section Sponsor'}
+        })
 
 </script>
 
 
 
 
-<script>
-
-   adloader.push({ "url": "/UserControls/IONOS/Ionos_High_Media.ascx", "params": { "IsCPA": 'false', "HasTitle": 'True', "HasLink": 'True',"HasDescription": 'True',"HasLink": 'True', "hasLiTags": '',"IsFooter": 'False', "AdData": 'C302E674-D2E6-42B4-BEBF-8B7C4FA4FC31$$$pa_18$$$AlwayOn|AlwaysOn$$$1@Club Cross Sell', "SectionName": 'Fans', "ClubName": 'Southampton' , "isCached" : 'true', "CacheKey": 'navigation_club_cross_sell_6', "CombineAdRequest": 'True', "PoweredByText": '' , "PoweredInNextLine": 'False' }, "args": { "el": "#navigation_club_cross_sell_6"} })
-
-</script>
 
 
 
+<script type="text/javascript">
 
-<script>
+var userControlUrl ="/UserControls/IONOS/Ionos_High_Media.ascx";
+if(window.location.hostname.toString().indexOf('wall.') !=-1)
+{ userControlUrl= window.location.protocol +"//" + window.location.hostname.toString().substring(5) + userControlUrl; }
 
-   adloader.push({ "url": "/UserControls/IONOS/Ionos_High_Media.ascx", "params": { "IsCPA": 'false', "HasTitle": 'False', "HasLink": 'False',"HasDescription": 'True',"HasLink": 'False', "hasLiTags": '',"IsFooter": 'False', "AdData": 'E8D5BD40-33D0-4B0C-8FAC-BDC0DF4889E6$$$pa_18$$$AlwayOn|AlwaysOn$$$1@Club Sponsor', "SectionName": 'Fans', "ClubName": 'Southampton' , "isCached" : 'true', "CacheKey": 'navigation_club_sponsor_6', "CombineAdRequest": 'True', "PoweredByText": '' , "PoweredInNextLine": 'False' }, "args": { "el": "#navigation_club_sponsor_6"} })
-
-</script>
-
-
-
-
-<script>
-
-   adloader.push({ "url": "/UserControls/IONOS/Ionos_High_Media.ascx", "params": { "IsCPA": 'false', "HasTitle": 'False', "HasLink": 'False',"HasDescription": 'False',"HasLink": 'False', "hasLiTags": '',"IsFooter": 'False', "AdData": '0BCF957E-D498-44A3-91BC-B22E6AB766BF$$$pa_18$$$AlwayOn|AlwaysOn$$$1@Section Sponsor', "SectionName": 'Fans', "ClubName": 'Southampton' , "isCached" : 'true', "CacheKey": 'navigation_section_sponsor_6', "CombineAdRequest": 'True', "PoweredByText": 'Powered by' , "PoweredInNextLine": 'False' }, "args": { "el": "#navigation_section_sponsor_6"} })
-
-</script>
-
-
-
-
-<script>
-
-   adloader.push({ "url": "/UserControls/IONOS/Ionos_High_Media.ascx", "params": { "IsCPA": 'false', "HasTitle": 'True', "HasLink": 'True',"HasDescription": 'True',"HasLink": 'True', "hasLiTags": '',"IsFooter": 'False', "AdData": 'F1433FDA-FB03-4C54-AA99-71E46B378539$$$pa_18$$$AlwayOn|AlwaysOn$$$1@Club Cross Sell', "SectionName": 'Fans', "ClubName": 'Southampton' , "isCached" : 'true', "CacheKey": 'navigation_club_cross_sell_7', "CombineAdRequest": 'True', "PoweredByText": '' , "PoweredInNextLine": 'False' }, "args": { "el": "#navigation_club_cross_sell_7"} })
-
-</script>
-
-
-
-
-<script>
-
-   adloader.push({ "url": "/UserControls/IONOS/Ionos_High_Media.ascx", "params": { "IsCPA": 'false', "HasTitle": 'False', "HasLink": 'False',"HasDescription": 'True',"HasLink": 'False', "hasLiTags": '',"IsFooter": 'False', "AdData": '8CC59DFE-5261-4313-B76D-70B16ED27D66$$$pa_18$$$AlwayOn|AlwaysOn$$$1@Club Sponsor', "SectionName": 'Fans', "ClubName": 'Southampton' , "isCached" : 'true', "CacheKey": 'navigation_club_sponsor_7', "CombineAdRequest": 'True', "PoweredByText": '' , "PoweredInNextLine": 'False' }, "args": { "el": "#navigation_club_sponsor_7"} })
+   adloader.push({ "url": userControlUrl, 
+   "params": { 
+    "IsCPA": 'false', 
+    "HasTitle": 'True', 
+    "HasLink": 'True',
+    "HasDescription": 'True',
+    "HasLink": 'True',
+     "hasLiTags": '',
+     "IsFooter": 'False',
+      "AdData": 'E0D6E542-ADD3-44D6-81EA-E33E5742EE8F$$$pa_18$$$AlwayOn|AlwaysOn$$$1@Club Cross Sell', 
+      "SectionName": 'Fixtures and Results', 
+      "ClubName": 'Southampton' ,
+       "isCached" : 'true',
+        "CacheKey": 'navigation_club_cross_sell_2', "CombineAdRequest": 'True', 
+        "PoweredByText": '' , "PoweredInNextLine": 'False',
+         "IsNavigationAd" : 'True' 
+       }
+       , "callback" : "sendIonosOrderIds"
+,"args": { 
+            "el": "#navigation_club_cross_sell_2"
+            ,"addata" : 'E0D6E542-ADD3-44D6-81EA-E33E5742EE8F$$$pa_18$$$AlwayOn|AlwaysOn$$$1@Club Cross Sell'}
+        })
 
 </script>
 
 
 
 
-<script>
 
-   adloader.push({ "url": "/UserControls/IONOS/Ionos_High_Media.ascx", "params": { "IsCPA": 'false', "HasTitle": 'False', "HasLink": 'False',"HasDescription": 'False',"HasLink": 'False', "hasLiTags": '',"IsFooter": 'False', "AdData": '11D1BC5F-AD4A-4B7D-BC61-9B2408701214$$$pa_18$$$AlwayOn|AlwaysOn$$$1@Section Sponsor', "SectionName": 'Fans', "ClubName": 'Southampton' , "isCached" : 'true', "CacheKey": 'navigation_section_sponsor_7', "CombineAdRequest": 'True', "PoweredByText": 'Powered by' , "PoweredInNextLine": 'False' }, "args": { "el": "#navigation_section_sponsor_7"} })
+
+
+<script type="text/javascript">
+
+var userControlUrl ="/UserControls/IONOS/Ionos_High_Media.ascx";
+if(window.location.hostname.toString().indexOf('wall.') !=-1)
+{ userControlUrl= window.location.protocol +"//" + window.location.hostname.toString().substring(5) + userControlUrl; }
+
+   adloader.push({ "url": userControlUrl, 
+   "params": { 
+    "IsCPA": 'false', 
+    "HasTitle": 'False', 
+    "HasLink": 'False',
+    "HasDescription": 'True',
+    "HasLink": 'False',
+     "hasLiTags": '',
+     "IsFooter": 'False',
+      "AdData": '21AB8378-3BDA-44ED-A753-775F2B63ED6C$$$pa_18$$$AlwayOn|AlwaysOn$$$1@Club Sponsor', 
+      "SectionName": 'Fixtures and Results', 
+      "ClubName": 'Southampton' ,
+       "isCached" : 'true',
+        "CacheKey": 'navigation_club_sponsor_2', "CombineAdRequest": 'True', 
+        "PoweredByText": '' , "PoweredInNextLine": 'False',
+         "IsNavigationAd" : 'True' 
+       }
+       , "callback" : "sendIonosOrderIds"
+,"args": { 
+            "el": "#navigation_club_sponsor_2"
+            ,"addata" : '21AB8378-3BDA-44ED-A753-775F2B63ED6C$$$pa_18$$$AlwayOn|AlwaysOn$$$1@Club Sponsor'}
+        })
 
 </script>
 
 
 
 
-<script>
 
-   adloader.push({ "url": "/UserControls/IONOS/Ionos_High_Media.ascx", "params": { "IsCPA": 'false', "HasTitle": 'True', "HasLink": 'True',"HasDescription": 'True',"HasLink": 'True', "hasLiTags": '',"IsFooter": 'False', "AdData": '0E863C0A-7D98-43F4-AACB-786F2056D75E$$$pa_18$$$AlwayOn|AlwaysOn$$$1@Club Cross Sell', "SectionName": 'Commercial', "ClubName": 'Southampton' , "isCached" : 'true', "CacheKey": 'navigation_club_cross_sell_8', "CombineAdRequest": 'True', "PoweredByText": '' , "PoweredInNextLine": 'False' }, "args": { "el": "#navigation_club_cross_sell_8"} })
+
+
+<script type="text/javascript">
+
+var userControlUrl ="/UserControls/IONOS/Ionos_High_Media.ascx";
+if(window.location.hostname.toString().indexOf('wall.') !=-1)
+{ userControlUrl= window.location.protocol +"//" + window.location.hostname.toString().substring(5) + userControlUrl; }
+
+   adloader.push({ "url": userControlUrl, 
+   "params": { 
+    "IsCPA": 'false', 
+    "HasTitle": 'False', 
+    "HasLink": 'False',
+    "HasDescription": 'False',
+    "HasLink": 'False',
+     "hasLiTags": '',
+     "IsFooter": 'False',
+      "AdData": 'FE59E0E4-7375-4C81-92E3-CDF40BD29725$$$pa_18$$$AlwayOn|AlwaysOn$$$1@Section Sponsor', 
+      "SectionName": 'Fixtures and Results', 
+      "ClubName": 'Southampton' ,
+       "isCached" : 'true',
+        "CacheKey": 'navigation_section_sponsor_2', "CombineAdRequest": 'True', 
+        "PoweredByText": 'Powered by' , "PoweredInNextLine": 'False',
+         "IsNavigationAd" : 'True' 
+       }
+       , "callback" : "sendIonosOrderIds"
+,"args": { 
+            "el": "#navigation_section_sponsor_2"
+            ,"addata" : 'FE59E0E4-7375-4C81-92E3-CDF40BD29725$$$pa_18$$$AlwayOn|AlwaysOn$$$1@Section Sponsor'}
+        })
 
 </script>
 
 
 
 
-<script>
 
-   adloader.push({ "url": "/UserControls/IONOS/Ionos_High_Media.ascx", "params": { "IsCPA": 'false', "HasTitle": 'False', "HasLink": 'False',"HasDescription": 'True',"HasLink": 'False', "hasLiTags": '',"IsFooter": 'False', "AdData": 'FB1FDE18-9BEA-4878-86E6-0CC954213EE3$$$pa_18$$$AlwayOn|AlwaysOn$$$1@Club Sponsor', "SectionName": 'Commercial', "ClubName": 'Southampton' , "isCached" : 'true', "CacheKey": 'navigation_club_sponsor_8', "CombineAdRequest": 'True', "PoweredByText": '' , "PoweredInNextLine": 'False' }, "args": { "el": "#navigation_club_sponsor_8"} })
+
+
+<script type="text/javascript">
+
+var userControlUrl ="/UserControls/IONOS/Ionos_High_Media.ascx";
+if(window.location.hostname.toString().indexOf('wall.') !=-1)
+{ userControlUrl= window.location.protocol +"//" + window.location.hostname.toString().substring(5) + userControlUrl; }
+
+   adloader.push({ "url": userControlUrl, 
+   "params": { 
+    "IsCPA": 'false', 
+    "HasTitle": 'True', 
+    "HasLink": 'True',
+    "HasDescription": 'True',
+    "HasLink": 'True',
+     "hasLiTags": '',
+     "IsFooter": 'False',
+      "AdData": '0FD217CB-0879-42DD-ACF0-607F72FD72AA$$$pa_18$$$AlwayOn|AlwaysOn$$$1@Club Cross Sell', 
+      "SectionName": 'Tickets', 
+      "ClubName": 'Southampton' ,
+       "isCached" : 'true',
+        "CacheKey": 'navigation_club_cross_sell_3', "CombineAdRequest": 'True', 
+        "PoweredByText": '' , "PoweredInNextLine": 'False',
+         "IsNavigationAd" : 'True' 
+       }
+       , "callback" : "sendIonosOrderIds"
+,"args": { 
+            "el": "#navigation_club_cross_sell_3"
+            ,"addata" : '0FD217CB-0879-42DD-ACF0-607F72FD72AA$$$pa_18$$$AlwayOn|AlwaysOn$$$1@Club Cross Sell'}
+        })
 
 </script>
 
 
 
 
-<script>
 
-   adloader.push({ "url": "/UserControls/IONOS/Ionos_High_Media.ascx", "params": { "IsCPA": 'false', "HasTitle": 'False', "HasLink": 'False',"HasDescription": 'False',"HasLink": 'False', "hasLiTags": '',"IsFooter": 'False', "AdData": '01C7A278-46B8-4AAF-A7DF-CC35656561A5$$$pa_18$$$AlwayOn|AlwaysOn$$$1@Section Sponsor', "SectionName": 'Commercial', "ClubName": 'Southampton' , "isCached" : 'true', "CacheKey": 'navigation_section_sponsor_8', "CombineAdRequest": 'True', "PoweredByText": 'Powered by' , "PoweredInNextLine": 'False' }, "args": { "el": "#navigation_section_sponsor_8"} })
+
+
+<script type="text/javascript">
+
+var userControlUrl ="/UserControls/IONOS/Ionos_High_Media.ascx";
+if(window.location.hostname.toString().indexOf('wall.') !=-1)
+{ userControlUrl= window.location.protocol +"//" + window.location.hostname.toString().substring(5) + userControlUrl; }
+
+   adloader.push({ "url": userControlUrl, 
+   "params": { 
+    "IsCPA": 'false', 
+    "HasTitle": 'False', 
+    "HasLink": 'False',
+    "HasDescription": 'True',
+    "HasLink": 'False',
+     "hasLiTags": '',
+     "IsFooter": 'False',
+      "AdData": '7F69D4C0-1352-47CD-A034-EBFD6BD6D01D$$$pa_18$$$AlwayOn|AlwaysOn$$$1@Club Sponsor', 
+      "SectionName": 'Tickets', 
+      "ClubName": 'Southampton' ,
+       "isCached" : 'true',
+        "CacheKey": 'navigation_club_sponsor_3', "CombineAdRequest": 'True', 
+        "PoweredByText": '' , "PoweredInNextLine": 'False',
+         "IsNavigationAd" : 'True' 
+       }
+       , "callback" : "sendIonosOrderIds"
+,"args": { 
+            "el": "#navigation_club_sponsor_3"
+            ,"addata" : '7F69D4C0-1352-47CD-A034-EBFD6BD6D01D$$$pa_18$$$AlwayOn|AlwaysOn$$$1@Club Sponsor'}
+        })
 
 </script>
+
+
+
+
+
+
+
+<script type="text/javascript">
+
+var userControlUrl ="/UserControls/IONOS/Ionos_High_Media.ascx";
+if(window.location.hostname.toString().indexOf('wall.') !=-1)
+{ userControlUrl= window.location.protocol +"//" + window.location.hostname.toString().substring(5) + userControlUrl; }
+
+   adloader.push({ "url": userControlUrl, 
+   "params": { 
+    "IsCPA": 'false', 
+    "HasTitle": 'False', 
+    "HasLink": 'False',
+    "HasDescription": 'False',
+    "HasLink": 'False',
+     "hasLiTags": '',
+     "IsFooter": 'False',
+      "AdData": 'A683711F-3C35-4B5A-A2E7-7FE3DC188317$$$pa_18$$$AlwayOn|AlwaysOn$$$1@Section Sponsor', 
+      "SectionName": 'Tickets', 
+      "ClubName": 'Southampton' ,
+       "isCached" : 'true',
+        "CacheKey": 'navigation_section_sponsor_3', "CombineAdRequest": 'True', 
+        "PoweredByText": 'Powered by' , "PoweredInNextLine": 'False',
+         "IsNavigationAd" : 'True' 
+       }
+       , "callback" : "sendIonosOrderIds"
+,"args": { 
+            "el": "#navigation_section_sponsor_3"
+            ,"addata" : 'A683711F-3C35-4B5A-A2E7-7FE3DC188317$$$pa_18$$$AlwayOn|AlwaysOn$$$1@Section Sponsor'}
+        })
+
+</script>
+
+
+
+
+
+
+
+<script type="text/javascript">
+
+var userControlUrl ="/UserControls/IONOS/Ionos_High_Media.ascx";
+if(window.location.hostname.toString().indexOf('wall.') !=-1)
+{ userControlUrl= window.location.protocol +"//" + window.location.hostname.toString().substring(5) + userControlUrl; }
+
+   adloader.push({ "url": userControlUrl, 
+   "params": { 
+    "IsCPA": 'false', 
+    "HasTitle": 'True', 
+    "HasLink": 'True',
+    "HasDescription": 'True',
+    "HasLink": 'True',
+     "hasLiTags": '',
+     "IsFooter": 'False',
+      "AdData": 'D8ED3FCF-F7ED-4CB6-8699-54F6EED86FEF$$$pa_18$$$AlwayOn|AlwaysOn$$$1@Club Cross Sell', 
+      "SectionName": 'Team', 
+      "ClubName": 'Southampton' ,
+       "isCached" : 'true',
+        "CacheKey": 'navigation_club_cross_sell_4', "CombineAdRequest": 'True', 
+        "PoweredByText": '' , "PoweredInNextLine": 'False',
+         "IsNavigationAd" : 'True' 
+       }
+       , "callback" : "sendIonosOrderIds"
+,"args": { 
+            "el": "#navigation_club_cross_sell_4"
+            ,"addata" : 'D8ED3FCF-F7ED-4CB6-8699-54F6EED86FEF$$$pa_18$$$AlwayOn|AlwaysOn$$$1@Club Cross Sell'}
+        })
+
+</script>
+
+
+
+
+
+
+
+<script type="text/javascript">
+
+var userControlUrl ="/UserControls/IONOS/Ionos_High_Media.ascx";
+if(window.location.hostname.toString().indexOf('wall.') !=-1)
+{ userControlUrl= window.location.protocol +"//" + window.location.hostname.toString().substring(5) + userControlUrl; }
+
+   adloader.push({ "url": userControlUrl, 
+   "params": { 
+    "IsCPA": 'false', 
+    "HasTitle": 'False', 
+    "HasLink": 'False',
+    "HasDescription": 'True',
+    "HasLink": 'False',
+     "hasLiTags": '',
+     "IsFooter": 'False',
+      "AdData": '6E4E25D2-417B-426E-B5EA-559BA21C7416 $$$pa_18$$$AlwayOn|AlwaysOn$$$1@Club Sponsor', 
+      "SectionName": 'Team', 
+      "ClubName": 'Southampton' ,
+       "isCached" : 'true',
+        "CacheKey": 'navigation_club_sponsor_4', "CombineAdRequest": 'True', 
+        "PoweredByText": '' , "PoweredInNextLine": 'False',
+         "IsNavigationAd" : 'True' 
+       }
+       , "callback" : "sendIonosOrderIds"
+,"args": { 
+            "el": "#navigation_club_sponsor_4"
+            ,"addata" : '6E4E25D2-417B-426E-B5EA-559BA21C7416 $$$pa_18$$$AlwayOn|AlwaysOn$$$1@Club Sponsor'}
+        })
+
+</script>
+
+
+
+
+
+
+
+<script type="text/javascript">
+
+var userControlUrl ="/UserControls/IONOS/Ionos_High_Media.ascx";
+if(window.location.hostname.toString().indexOf('wall.') !=-1)
+{ userControlUrl= window.location.protocol +"//" + window.location.hostname.toString().substring(5) + userControlUrl; }
+
+   adloader.push({ "url": userControlUrl, 
+   "params": { 
+    "IsCPA": 'false', 
+    "HasTitle": 'False', 
+    "HasLink": 'False',
+    "HasDescription": 'False',
+    "HasLink": 'False',
+     "hasLiTags": '',
+     "IsFooter": 'False',
+      "AdData": '378EB57B-8B05-4E92-A5F6-BEC21FF5F157$$$pa_18$$$AlwayOn|AlwaysOn$$$1@Section Sponsor', 
+      "SectionName": 'Team', 
+      "ClubName": 'Southampton' ,
+       "isCached" : 'true',
+        "CacheKey": 'navigation_section_sponsor_4', "CombineAdRequest": 'True', 
+        "PoweredByText": 'Powered by' , "PoweredInNextLine": 'False',
+         "IsNavigationAd" : 'True' 
+       }
+       , "callback" : "sendIonosOrderIds"
+,"args": { 
+            "el": "#navigation_section_sponsor_4"
+            ,"addata" : '378EB57B-8B05-4E92-A5F6-BEC21FF5F157$$$pa_18$$$AlwayOn|AlwaysOn$$$1@Section Sponsor'}
+        })
+
+</script>
+
+
+
+
+
+
+
+<script type="text/javascript">
+
+var userControlUrl ="/UserControls/IONOS/Ionos_High_Media.ascx";
+if(window.location.hostname.toString().indexOf('wall.') !=-1)
+{ userControlUrl= window.location.protocol +"//" + window.location.hostname.toString().substring(5) + userControlUrl; }
+
+   adloader.push({ "url": userControlUrl, 
+   "params": { 
+    "IsCPA": 'false', 
+    "HasTitle": 'True', 
+    "HasLink": 'True',
+    "HasDescription": 'True',
+    "HasLink": 'True',
+     "hasLiTags": '',
+     "IsFooter": 'False',
+      "AdData": '77F35B91-2E44-4A1E-8C9A-0D707ABC49D9$$$pa_18$$$AlwayOn|AlwaysOn$$$1@Club Cross Sell', 
+      "SectionName": 'Stats', 
+      "ClubName": 'Southampton' ,
+       "isCached" : 'true',
+        "CacheKey": 'navigation_club_cross_sell_5', "CombineAdRequest": 'True', 
+        "PoweredByText": '' , "PoweredInNextLine": 'False',
+         "IsNavigationAd" : 'True' 
+       }
+       , "callback" : "sendIonosOrderIds"
+,"args": { 
+            "el": "#navigation_club_cross_sell_5"
+            ,"addata" : '77F35B91-2E44-4A1E-8C9A-0D707ABC49D9$$$pa_18$$$AlwayOn|AlwaysOn$$$1@Club Cross Sell'}
+        })
+
+</script>
+
+
+
+
+
+
+
+<script type="text/javascript">
+
+var userControlUrl ="/UserControls/IONOS/Ionos_High_Media.ascx";
+if(window.location.hostname.toString().indexOf('wall.') !=-1)
+{ userControlUrl= window.location.protocol +"//" + window.location.hostname.toString().substring(5) + userControlUrl; }
+
+   adloader.push({ "url": userControlUrl, 
+   "params": { 
+    "IsCPA": 'false', 
+    "HasTitle": 'False', 
+    "HasLink": 'False',
+    "HasDescription": 'True',
+    "HasLink": 'False',
+     "hasLiTags": '',
+     "IsFooter": 'False',
+      "AdData": '8AD97504-7671-4766-A72C-7A84566C62E7$$$pa_18$$$AlwayOn|AlwaysOn$$$1@Club Sponsor', 
+      "SectionName": 'Stats', 
+      "ClubName": 'Southampton' ,
+       "isCached" : 'true',
+        "CacheKey": 'navigation_club_sponsor_5', "CombineAdRequest": 'True', 
+        "PoweredByText": '' , "PoweredInNextLine": 'False',
+         "IsNavigationAd" : 'True' 
+       }
+       , "callback" : "sendIonosOrderIds"
+,"args": { 
+            "el": "#navigation_club_sponsor_5"
+            ,"addata" : '8AD97504-7671-4766-A72C-7A84566C62E7$$$pa_18$$$AlwayOn|AlwaysOn$$$1@Club Sponsor'}
+        })
+
+</script>
+
+
+
+
+
+
+
+<script type="text/javascript">
+
+var userControlUrl ="/UserControls/IONOS/Ionos_High_Media.ascx";
+if(window.location.hostname.toString().indexOf('wall.') !=-1)
+{ userControlUrl= window.location.protocol +"//" + window.location.hostname.toString().substring(5) + userControlUrl; }
+
+   adloader.push({ "url": userControlUrl, 
+   "params": { 
+    "IsCPA": 'false', 
+    "HasTitle": 'False', 
+    "HasLink": 'False',
+    "HasDescription": 'False',
+    "HasLink": 'False',
+     "hasLiTags": '',
+     "IsFooter": 'False',
+      "AdData": '513D7C29-C1BA-4E12-A2B4-AD7C552A0369$$$pa_18$$$AlwayOn|AlwaysOn$$$1@Section Sponsor', 
+      "SectionName": 'Stats', 
+      "ClubName": 'Southampton' ,
+       "isCached" : 'true',
+        "CacheKey": 'navigation_section_sponsor_5', "CombineAdRequest": 'True', 
+        "PoweredByText": 'Powered by' , "PoweredInNextLine": 'False',
+         "IsNavigationAd" : 'True' 
+       }
+       , "callback" : "sendIonosOrderIds"
+,"args": { 
+            "el": "#navigation_section_sponsor_5"
+            ,"addata" : '513D7C29-C1BA-4E12-A2B4-AD7C552A0369$$$pa_18$$$AlwayOn|AlwaysOn$$$1@Section Sponsor'}
+        })
+
+</script>
+
+
+
+
+
+
+
+<script type="text/javascript">
+
+var userControlUrl ="/UserControls/IONOS/Ionos_High_Media.ascx";
+if(window.location.hostname.toString().indexOf('wall.') !=-1)
+{ userControlUrl= window.location.protocol +"//" + window.location.hostname.toString().substring(5) + userControlUrl; }
+
+   adloader.push({ "url": userControlUrl, 
+   "params": { 
+    "IsCPA": 'false', 
+    "HasTitle": 'True', 
+    "HasLink": 'True',
+    "HasDescription": 'True',
+    "HasLink": 'True',
+     "hasLiTags": '',
+     "IsFooter": 'False',
+      "AdData": 'C302E674-D2E6-42B4-BEBF-8B7C4FA4FC31$$$pa_18$$$AlwayOn|AlwaysOn$$$1@Club Cross Sell', 
+      "SectionName": 'Fans', 
+      "ClubName": 'Southampton' ,
+       "isCached" : 'true',
+        "CacheKey": 'navigation_club_cross_sell_6', "CombineAdRequest": 'True', 
+        "PoweredByText": '' , "PoweredInNextLine": 'False',
+         "IsNavigationAd" : 'True' 
+       }
+       , "callback" : "sendIonosOrderIds"
+,"args": { 
+            "el": "#navigation_club_cross_sell_6"
+            ,"addata" : 'C302E674-D2E6-42B4-BEBF-8B7C4FA4FC31$$$pa_18$$$AlwayOn|AlwaysOn$$$1@Club Cross Sell'}
+        })
+
+</script>
+
+
+
+
+
+
+
+<script type="text/javascript">
+
+var userControlUrl ="/UserControls/IONOS/Ionos_High_Media.ascx";
+if(window.location.hostname.toString().indexOf('wall.') !=-1)
+{ userControlUrl= window.location.protocol +"//" + window.location.hostname.toString().substring(5) + userControlUrl; }
+
+   adloader.push({ "url": userControlUrl, 
+   "params": { 
+    "IsCPA": 'false', 
+    "HasTitle": 'False', 
+    "HasLink": 'False',
+    "HasDescription": 'True',
+    "HasLink": 'False',
+     "hasLiTags": '',
+     "IsFooter": 'False',
+      "AdData": 'E8D5BD40-33D0-4B0C-8FAC-BDC0DF4889E6$$$pa_18$$$AlwayOn|AlwaysOn$$$1@Club Sponsor', 
+      "SectionName": 'Fans', 
+      "ClubName": 'Southampton' ,
+       "isCached" : 'true',
+        "CacheKey": 'navigation_club_sponsor_6', "CombineAdRequest": 'True', 
+        "PoweredByText": '' , "PoweredInNextLine": 'False',
+         "IsNavigationAd" : 'True' 
+       }
+       , "callback" : "sendIonosOrderIds"
+,"args": { 
+            "el": "#navigation_club_sponsor_6"
+            ,"addata" : 'E8D5BD40-33D0-4B0C-8FAC-BDC0DF4889E6$$$pa_18$$$AlwayOn|AlwaysOn$$$1@Club Sponsor'}
+        })
+
+</script>
+
+
+
+
+
+
+
+<script type="text/javascript">
+
+var userControlUrl ="/UserControls/IONOS/Ionos_High_Media.ascx";
+if(window.location.hostname.toString().indexOf('wall.') !=-1)
+{ userControlUrl= window.location.protocol +"//" + window.location.hostname.toString().substring(5) + userControlUrl; }
+
+   adloader.push({ "url": userControlUrl, 
+   "params": { 
+    "IsCPA": 'false', 
+    "HasTitle": 'False', 
+    "HasLink": 'False',
+    "HasDescription": 'False',
+    "HasLink": 'False',
+     "hasLiTags": '',
+     "IsFooter": 'False',
+      "AdData": '0BCF957E-D498-44A3-91BC-B22E6AB766BF$$$pa_18$$$AlwayOn|AlwaysOn$$$1@Section Sponsor', 
+      "SectionName": 'Fans', 
+      "ClubName": 'Southampton' ,
+       "isCached" : 'true',
+        "CacheKey": 'navigation_section_sponsor_6', "CombineAdRequest": 'True', 
+        "PoweredByText": 'Powered by' , "PoweredInNextLine": 'False',
+         "IsNavigationAd" : 'True' 
+       }
+       , "callback" : "sendIonosOrderIds"
+,"args": { 
+            "el": "#navigation_section_sponsor_6"
+            ,"addata" : '0BCF957E-D498-44A3-91BC-B22E6AB766BF$$$pa_18$$$AlwayOn|AlwaysOn$$$1@Section Sponsor'}
+        })
+
+</script>
+
+
+
+
+
+
+
+<script type="text/javascript">
+
+var userControlUrl ="/UserControls/IONOS/Ionos_High_Media.ascx";
+if(window.location.hostname.toString().indexOf('wall.') !=-1)
+{ userControlUrl= window.location.protocol +"//" + window.location.hostname.toString().substring(5) + userControlUrl; }
+
+   adloader.push({ "url": userControlUrl, 
+   "params": { 
+    "IsCPA": 'false', 
+    "HasTitle": 'True', 
+    "HasLink": 'True',
+    "HasDescription": 'True',
+    "HasLink": 'True',
+     "hasLiTags": '',
+     "IsFooter": 'False',
+      "AdData": 'F1433FDA-FB03-4C54-AA99-71E46B378539$$$pa_18$$$AlwayOn|AlwaysOn$$$1@Club Cross Sell', 
+      "SectionName": 'Fans', 
+      "ClubName": 'Southampton' ,
+       "isCached" : 'true',
+        "CacheKey": 'navigation_club_cross_sell_7', "CombineAdRequest": 'True', 
+        "PoweredByText": '' , "PoweredInNextLine": 'False',
+         "IsNavigationAd" : 'True' 
+       }
+       , "callback" : "sendIonosOrderIds"
+,"args": { 
+            "el": "#navigation_club_cross_sell_7"
+            ,"addata" : 'F1433FDA-FB03-4C54-AA99-71E46B378539$$$pa_18$$$AlwayOn|AlwaysOn$$$1@Club Cross Sell'}
+        })
+
+</script>
+
+
+
+
+
+
+
+<script type="text/javascript">
+
+var userControlUrl ="/UserControls/IONOS/Ionos_High_Media.ascx";
+if(window.location.hostname.toString().indexOf('wall.') !=-1)
+{ userControlUrl= window.location.protocol +"//" + window.location.hostname.toString().substring(5) + userControlUrl; }
+
+   adloader.push({ "url": userControlUrl, 
+   "params": { 
+    "IsCPA": 'false', 
+    "HasTitle": 'False', 
+    "HasLink": 'False',
+    "HasDescription": 'True',
+    "HasLink": 'False',
+     "hasLiTags": '',
+     "IsFooter": 'False',
+      "AdData": '8CC59DFE-5261-4313-B76D-70B16ED27D66$$$pa_18$$$AlwayOn|AlwaysOn$$$1@Club Sponsor', 
+      "SectionName": 'Fans', 
+      "ClubName": 'Southampton' ,
+       "isCached" : 'true',
+        "CacheKey": 'navigation_club_sponsor_7', "CombineAdRequest": 'True', 
+        "PoweredByText": '' , "PoweredInNextLine": 'False',
+         "IsNavigationAd" : 'True' 
+       }
+       , "callback" : "sendIonosOrderIds"
+,"args": { 
+            "el": "#navigation_club_sponsor_7"
+            ,"addata" : '8CC59DFE-5261-4313-B76D-70B16ED27D66$$$pa_18$$$AlwayOn|AlwaysOn$$$1@Club Sponsor'}
+        })
+
+</script>
+
+
+
+
+
+
+
+<script type="text/javascript">
+
+var userControlUrl ="/UserControls/IONOS/Ionos_High_Media.ascx";
+if(window.location.hostname.toString().indexOf('wall.') !=-1)
+{ userControlUrl= window.location.protocol +"//" + window.location.hostname.toString().substring(5) + userControlUrl; }
+
+   adloader.push({ "url": userControlUrl, 
+   "params": { 
+    "IsCPA": 'false', 
+    "HasTitle": 'False', 
+    "HasLink": 'False',
+    "HasDescription": 'False',
+    "HasLink": 'False',
+     "hasLiTags": '',
+     "IsFooter": 'False',
+      "AdData": '11D1BC5F-AD4A-4B7D-BC61-9B2408701214$$$pa_18$$$AlwayOn|AlwaysOn$$$1@Section Sponsor', 
+      "SectionName": 'Fans', 
+      "ClubName": 'Southampton' ,
+       "isCached" : 'true',
+        "CacheKey": 'navigation_section_sponsor_7', "CombineAdRequest": 'True', 
+        "PoweredByText": 'Powered by' , "PoweredInNextLine": 'False',
+         "IsNavigationAd" : 'True' 
+       }
+       , "callback" : "sendIonosOrderIds"
+,"args": { 
+            "el": "#navigation_section_sponsor_7"
+            ,"addata" : '11D1BC5F-AD4A-4B7D-BC61-9B2408701214$$$pa_18$$$AlwayOn|AlwaysOn$$$1@Section Sponsor'}
+        })
+
+</script>
+
+
+
+
+
+
+
+<script type="text/javascript">
+
+var userControlUrl ="/UserControls/IONOS/Ionos_High_Media.ascx";
+if(window.location.hostname.toString().indexOf('wall.') !=-1)
+{ userControlUrl= window.location.protocol +"//" + window.location.hostname.toString().substring(5) + userControlUrl; }
+
+   adloader.push({ "url": userControlUrl, 
+   "params": { 
+    "IsCPA": 'false', 
+    "HasTitle": 'True', 
+    "HasLink": 'True',
+    "HasDescription": 'True',
+    "HasLink": 'True',
+     "hasLiTags": '',
+     "IsFooter": 'False',
+      "AdData": '0E863C0A-7D98-43F4-AACB-786F2056D75E$$$pa_18$$$AlwayOn|AlwaysOn$$$1@Club Cross Sell', 
+      "SectionName": 'Commercial', 
+      "ClubName": 'Southampton' ,
+       "isCached" : 'true',
+        "CacheKey": 'navigation_club_cross_sell_8', "CombineAdRequest": 'True', 
+        "PoweredByText": '' , "PoweredInNextLine": 'False',
+         "IsNavigationAd" : 'True' 
+       }
+       , "callback" : "sendIonosOrderIds"
+,"args": { 
+            "el": "#navigation_club_cross_sell_8"
+            ,"addata" : '0E863C0A-7D98-43F4-AACB-786F2056D75E$$$pa_18$$$AlwayOn|AlwaysOn$$$1@Club Cross Sell'}
+        })
+
+</script>
+
+
+
+
+
+
+
+<script type="text/javascript">
+
+var userControlUrl ="/UserControls/IONOS/Ionos_High_Media.ascx";
+if(window.location.hostname.toString().indexOf('wall.') !=-1)
+{ userControlUrl= window.location.protocol +"//" + window.location.hostname.toString().substring(5) + userControlUrl; }
+
+   adloader.push({ "url": userControlUrl, 
+   "params": { 
+    "IsCPA": 'false', 
+    "HasTitle": 'False', 
+    "HasLink": 'False',
+    "HasDescription": 'True',
+    "HasLink": 'False',
+     "hasLiTags": '',
+     "IsFooter": 'False',
+      "AdData": 'FB1FDE18-9BEA-4878-86E6-0CC954213EE3$$$pa_18$$$AlwayOn|AlwaysOn$$$1@Club Sponsor', 
+      "SectionName": 'Commercial', 
+      "ClubName": 'Southampton' ,
+       "isCached" : 'true',
+        "CacheKey": 'navigation_club_sponsor_8', "CombineAdRequest": 'True', 
+        "PoweredByText": '' , "PoweredInNextLine": 'False',
+         "IsNavigationAd" : 'True' 
+       }
+       , "callback" : "sendIonosOrderIds"
+,"args": { 
+            "el": "#navigation_club_sponsor_8"
+            ,"addata" : 'FB1FDE18-9BEA-4878-86E6-0CC954213EE3$$$pa_18$$$AlwayOn|AlwaysOn$$$1@Club Sponsor'}
+        })
+
+</script>
+
+
+
+
+
+
+
+<script type="text/javascript">
+
+var userControlUrl ="/UserControls/IONOS/Ionos_High_Media.ascx";
+if(window.location.hostname.toString().indexOf('wall.') !=-1)
+{ userControlUrl= window.location.protocol +"//" + window.location.hostname.toString().substring(5) + userControlUrl; }
+
+   adloader.push({ "url": userControlUrl, 
+   "params": { 
+    "IsCPA": 'false', 
+    "HasTitle": 'False', 
+    "HasLink": 'False',
+    "HasDescription": 'False',
+    "HasLink": 'False',
+     "hasLiTags": '',
+     "IsFooter": 'False',
+      "AdData": '01C7A278-46B8-4AAF-A7DF-CC35656561A5$$$pa_18$$$AlwayOn|AlwaysOn$$$1@Section Sponsor', 
+      "SectionName": 'Commercial', 
+      "ClubName": 'Southampton' ,
+       "isCached" : 'true',
+        "CacheKey": 'navigation_section_sponsor_8', "CombineAdRequest": 'True', 
+        "PoweredByText": 'Powered by' , "PoweredInNextLine": 'False',
+         "IsNavigationAd" : 'True' 
+       }
+       , "callback" : "sendIonosOrderIds"
+,"args": { 
+            "el": "#navigation_section_sponsor_8"
+            ,"addata" : '01C7A278-46B8-4AAF-A7DF-CC35656561A5$$$pa_18$$$AlwayOn|AlwaysOn$$$1@Section Sponsor'}
+        })
+
+</script>
+
 
 
 
@@ -1850,7 +2687,7 @@ _e_117p_0</td><td>Facebook cookies created when Facebook share or like links cli
 <span id="PieChartLossColour"></span>
 <span id="PieChartDrawColour"></span>
 
- <script type="text/javascript" src="/js/combinedbottom_B4CB0841313172968D5A766025911E39.js"></script>
+ <script type="text/javascript" src="/combinedjs/combinedbottom_281AA07A55B80E079B0DC4C710789D61.js"></script>
 
 
 <!--[if lt IE 9]>
@@ -1864,7 +2701,7 @@ _e_117p_0</td><td>Facebook cookies created when Facebook share or like links cli
 <script>
 
 	var rollUpAccount = "UA-29399239-1";
-	var clubAccount = "UA-29375610-1 ";
+	var clubAccount = "UA-29375610-1 ";	
 	$(document).ready(function(){
 		var bodyTag = $("body");
 		var bodyImage = $("[id$=_hdnBackgroundImage]").val();
@@ -1883,6 +2720,7 @@ _e_117p_0</td><td>Facebook cookies created when Facebook share or like links cli
 		gatrackevent(category, action, opt_label , rollUpAccount, clubAccount) ;
 	}
 
+	
 	$(document).ready(function(){
 		window.twttr = (function (d,s,id) {			
 			var t, js, fjs = d.getElementsByTagName(s)[0];
@@ -1918,8 +2756,19 @@ _e_117p_0</td><td>Facebook cookies created when Facebook share or like links cli
 			_ga.trackFacebook();
 	});
 </script>
-
-
+<script language="javascript" type="text/javascript">
+var orderIds = "";
+		  $("input[id^=" + "objOrders_" + "]").each(
+		  function(){
+			if($(this).val().length >0)
+				{ orderIds+= $(this).val() +",";}
+		  });
+		  
+		  if(!(orderIds == null || orderIds == undefined || orderIds.length <= 1))
+			{ orderIds =orderIds.substring(0,orderIds.length-1);
+				SendOrderIds(orderIds);
+			}
+</script>
 
 </form>
 </div>
