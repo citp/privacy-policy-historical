@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the dcuniverseonline.com privacy policy that was archived on 2013-06-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130601170931id_/http%3A//www.station.sony.com/sonyonline/privacy.vm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the dcuniverseonline.com privacy policy that was archived on 2013-10-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131014134517id_/http%3A//www.station.sony.com/sonyonline/privacy.vm) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
 			<title>SOE - Privacy Policy</title>
@@ -16,7 +16,7 @@
 		<link href="/styles/tipTip.css" rel="stylesheet" type="text/css">
 						<link rel="stylesheet" href="/styles/legal.css">
 			
-		<script src="//tealium.hs.llnwd.net/o43/utag/soe/soe/dev/utag.js" type="text/javascript" async=""></script><script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
+		<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
 	<script type="text/javascript" src="/js/jquerytoolsmin.js"></script>
 	<script type="text/javascript" src="/js/cookie.js"></script>
 	<script type="text/javascript" src="/js/jqueryeasing.js"></script>
@@ -32,20 +32,58 @@
 <script type="text/javascript" src="https://www.everquest2.com/scripts/registration.js"></script></head>
 <body>
 	<script type="text/javascript">
-	DATA_TRACKER.data.page.pageName = DATA_TRACKER.getPageName("soe : mktg");
-	DATA_TRACKER.data.page.domain = document.domain;
-	DATA_TRACKER.data.page.title = document.title;
-	DATA_TRACKER.data.page.url = document.location.href;
-	DATA_TRACKER.data.page.type = "";
-	DATA_TRACKER.data.page.id = "";
-	DATA_TRACKER.data.page.theme = "soe";
-	DATA_TRACKER.data.page.env = "";
-	DATA_TRACKER.data.page.protocol = "https";
-	DATA_TRACKER.data.page.game = "soe";
-	DATA_TRACKER.data.page.locale = "en_US";
-	DATA_TRACKER.data.page.language = "en";
-	DATA_TRACKER.data.page.siteName = "soe";
-	DATA_TRACKER.data.page.platform = "full site";
+	(function() {
+		var _pageName = DTKR.getPageName("soe : mktg");
+		DTKR.page = {
+			pageName : _pageName,
+			siteName : "soe",
+			platform : "full site",
+			language : "en",
+			locale : "en_US",
+			pageId : "",
+			pageType : "",
+			campaign : cid,
+			url : document.location.href,
+			env : "",
+			domain : document.domain,
+			game : "soe"
+		};
+	})();
+</script>
+<script type="text/javascript">
+	var utag_data = {
+		pageId : ""
+	};
+	(function() {
+		var _prop;
+		for (_prop in DTKR.vst) {
+			utag_data[_prop] = DTKR.vst[_prop];
+		}
+		for (_prop in DTKR.page) {
+			utag_data[_prop] = DTKR.page[_prop];
+		}
+	})();
+	(function(a,b,c,d){
+		a='//tags.tiqcdn.com/utag/soe/soe/prod/utag.js';
+		b=document;c='script';d=b.createElement(c);d.src=a;d.type='text/java'+c;d.async=true;
+		a=b.getElementsByTagName(c)[0];a.parentNode.insertBefore(d,a);
+	})();
+	DTKR.trackPageView();
+	DTKR.eventTracker("webRegStart", function() {
+		DTKR.trackEvent({
+			eventName : "registrationStart"
+		});
+		DTKR.notify("acct_create_displayed");
+	});
+	DTKR.eventTracker("webRegComplete", function() {
+		DTKR.trackEvent({
+			eventName : "accountComplete"
+		});
+		DTKR.notify("acct_complete");
+	});
+	if (cid) {
+		$.cookie("cmpID30", cid, {expires: 30});
+	}
 </script>	
 		<div id="topBar">
 	<div id="topBarLogoAlign">
@@ -73,7 +111,7 @@
 				<ul class="sub-nav">
 					<li><a href="/news">News</a></li>
 					<li><a href="/webcasts">Webcasts</a></li>
-					<li><a href="/podcasts">Community-Casts</a></li>
+					<li><a href="/community-casts">Community-Casts</a></li>
 					<li><a href="https://player-studio.soe.com">Player Studio</a></li>
 					<li><a href="/player-direct" class="last-item">Player Direct</a></li>
 				</ul>
@@ -175,7 +213,7 @@
 				<li><a href="/termsofservice.vm?locale=en_US">Terms of Service</a></li>
 				<li><a href="/services/help/photosens.vm?locale=en_US">Photosensitive Warning</a></li>
 			</ul>
-			<a href="https://www.esrb.org/confirm/soe-confirmation.jsp" class="esrb_emblem en_US"><img src="https://www.esrb.org/seals/soe/ectcsoe.gif" width="70" height="97"></a>
+			<a href="https://www.esrb.org/confirm/soe-confirmation.jsp" class="esrb_emblem en_US"><img src="https://assets-cdn.soe.com/uploads/dcsclient/000/000/027/302.gif?v=0.0" width="76" height="102"></a>
 			<h3>Sony Online Entertainment LLC<br>PRIVACY POLICY</h3>
 			<div class="content_intro">
 				<p>(Revised July 22, 2011)</p> <p>Sony Online Entertainment LLC ("<strong>SOE</strong>" or "<strong>we</strong>" or "<strong>our</strong>") respects your privacy and is committed to protecting the Personal Information (defined below) that you may provide us while using The Station (as defined below). Your use of The Station is subject to your agreement to the terms of this privacy policy ("Privacy Policy") and our Station <a href="/termsofservice.vm">Terms of Service</a>.</p> <p>This Privacy Policy sets out the basis on which any Personal Information we collect from you, or that you provide to us, will be processed by us and is intended to provide you with notice of the following:</p>
@@ -205,7 +243,7 @@
 																		<h4><a id="YourRights" name="section_YourRights">Your Privacy Rights</a></h4>
 							<p>As further discussed in this Privacy Policy, we may from time to time provide you with the opportunity to receive information about products and services offered by the Sony Family (defined below) and/or our third party marketing partners. Since 2005, California Civil Code Section 1798.83 permits our customers who are California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. For inquiries regarding our disclosure policy, please contact us through any of the means described below:</p> <ol> <li>Via e-mail at: <a href="mailto:accounts@soe.sony.com">accounts@soe.sony.com</a></li> <li>By phone at: 858-577-3100</li> <li>By regular mail at: <br> SOE Privacy Officer<br> Sony Online Entertainment LLC<br> 8928 Terman Court<br> San Diego, California 92121<br> USA</li> </ol> <p>You can prevent future disclosures of your Personal Information to the SOE Family and/or third parties for their direct marketing purposes, at no charge, by exercising your "opt out" rights through any of the means described below:</p> <ol> <li>Via e-mail expressly making such request to <a href="mailto:accounts@soe.sony.com">accounts@soe.sony.com</a></li> <li>By regular mail at: <br> Sony Online Entertainment LLC<br> 8928 Terman Court<br> San Diego, California 92121<br> USA<br></li> <li>You can access your user profile and modify your privacy preferences by opting-out of direct marketing communications from SOE, the Sony Family and/or our third party marketing partners, or</li> <li>Upon receipt of any electronic marketing communication from SOE or from the Sony Family, you can click on a link on the bottom of such communication to "unsubscribe" to any future marketing communications from SOE or the Sony Family.</li> </ol> <p>Because we provide you with the ability to exercise your "opt out" rights as described above, we do not provide the names and addresses of third parties that received Personal Information from us for such third parties' direct marketing purposes.</p>
 																								<h4><a id="ESRBOnlinePrivacyProgram" name="section_ESRBOnlinePrivacyProgram">Our participation in and certification by online privacy programs</a></h4>
-							<p>This Privacy Policy and the certification seal located above confirm that SOE is a valid licensee and participating member in the Entertainment Software Rating Board's Privacy Online Program: ESRB Privacy Online. We have voluntarily undertaken this privacy initiative and The Station has been reviewed and certified by ESRB Privacy Online to meet established online information collection and use practices. As part of this program, we are subject to frequent audits of The Station and other enforcement and accountability mechanisms administered independently by ESRB.</p> <p>If you have any questions, complaints, or comments regarding this Privacy Policy, please contact SOE Customer Service at <a href="mailto:support@soe.sony.com" target="_blank">support@soe.sony.com</a>. For complaints, you can also contact ESRB Privacy Online directly at <a href="http://www.esrb.org/privacy/contact.jsp%20" target="_blank">http://www.esrb.org/privacy/contact.jsp</a> or by regular mail at 317 Madison Avenue, New York, NY 10017.</p>
+							<p>This Privacy Policy and the certification seal located above confirm that SOE is a valid licensee and participating member in the Entertainment Software Rating Board's Privacy Online Program: ESRB Privacy Online. We have voluntarily undertaken this privacy initiative and The Station has been reviewed and certified by ESRB Privacy Online to meet established online information collection and use practices. As part of this program, we are subject to frequent audits of The Station and other enforcement and accountability mechanisms administered independently by ESRB.</p> <p>If you have any questions, complaints, or comments regarding this Privacy Policy, please contact SOE Customer Service at <a href="mailto:support@soe.sony.com" target="_blank">support@soe.sony.com</a>. For complaints, you can also contact ESRB Privacy Online directly at <a href="http://www.esrb.org/privacy/contact.jsp" target="_blank">http://www.esrb.org/privacy/contact.jsp</a> or by regular mail at 317 Madison Avenue, New York, NY 10017.</p>
 																								<h4><a id="WebSitesAndServices" name="section_WebSitesAndServices">The web sites and services covered by this Privacy Policy</a></h4>
 							<p>We currently operate the web site located at <a href="http://www.station.com/" target="_blank">www.station.sony.com</a>, including all of its subsites (typically any web pages which end in station.sony.com, including the examples set out below) and all software, products, features, games and services made available, displayed, or offered by or through our web site or subsites (collectively, "<strong>The Station</strong>").</p> <p>In addition, we own many other domain names (e.g. <a href="http://www.soe.com/">www.soe.com</a>, www.freerealms.com, and www.everquest.com) that may redirect you to the home page of The Station and/or content-specific "subsites" of The Station, and these subsites are also considered part of The Station for purposes of this Privacy Policy.</p> <p>Examples of subsites include:</p> <blockquote> store.station.sony.com (the "<strong>Store</strong>")<br> stationexchange.station.sony.com<br> everquest.station.sony.com<br> freerealms.station.sony.com (and freerealms.com)<br> eqlive.station.sony.com<br> starwarsgalaxies.station.sony.com and<br> planetside.station.sony.com. </blockquote> <p>From time to time, we may add new subsites to The Station that may not initially be listed above, but such subsites will provide a link to this Privacy Policy and will be governed by this Policy and our <a href="http://www.station.sony.com/termsofservice.vm">Terms of Service</a>.</p>
 																								<h4><a id="Children" name="section_Children"></a><a href="https://www.esrb.org/confirm/soe-confirmation.jsp" class="esrb_emblem"><img src=" http://www.esrb.org/privacy/members/privacy_kids-2008.gif"></a>Our policies concerning Children's Personal Information</h4>
@@ -716,7 +754,6 @@
 			<li><a href="/missionstatement/?locale=en_US">Who We Are</a></li>
 			<li><a href="/history-of-soe/?locale=en_US">History of SOE</a></li>
 			<li><a href="/careers/?locale=en_US">Careers</a></li>
-			<li><a href="/sonyonline/retailassets/?locale=en_US">Retail Assets</a></li>
 			<li><a href="/executivestaff/?locale=en_US">Executive Staff</a></li>
 			<li><a href="http://www.soepress.com">SOE Press</a></li>
 	        <li><a href="/artists/?locale=en_US">SOE Artists</a></li>
@@ -739,41 +776,12 @@
 			<a href="/index.vm">
 				<img src="/images/soe_images/soelogofooter.png">
 			</a>
-			<a href="/sonyonline/privacy.vm" id="privacyCert" class="en_US">
-				<img src="https://www.esrb.org/privacy/members/privacy_certified-2008.gif">
-			</a>
+			<a href="https://www.esrb.org/confirm/soe-confirmation.jsp"><img alt="ESRB Privacy" src="https://assets-cdn.soe.com/uploads/dcsclient/000/000/027/302.gif?v=0.0" border="0"></a>
     		<div style="clear:both;"></div>
     	</div>
 		<div style="clear:both;"></div>
     </div>
 </div>
 <div class="flushit"></div>		</div><!-- end .site_wrapper -->
-		
-		<script type="text/javascript" src="/scripts/data_tracker.js"></script>
-<script type="text/javascript" src="/scripts/eventTrackers.js"></script>
-<script type="text/javascript">
-	var utag_data  = {};
-    (function(a,b,c,d){
-    a='//tealium.hs.llnwd.net/o43/utag/soe/soe/dev/utag.js';
-    b=document;c='script';d=b.createElement(c);d.src=a;d.type='text/java'+c;d.async=true;
-    a=b.getElementsByTagName(c)[0];a.parentNode.insertBefore(d,a);
-    })();
-</script>
-<script type="text/javascript">
-	DATA_TRACKER.data.page.pageName = DATA_TRACKER.getPageName("soe : mktg");
-	DATA_TRACKER.data.page.domain = document.domain;
-	DATA_TRACKER.data.page.title = document.title;
-	DATA_TRACKER.data.page.url = document.location.href;
-	DATA_TRACKER.data.page.type = "";
-	DATA_TRACKER.data.page.id = "";
-	DATA_TRACKER.data.page.theme = "soe";
-	DATA_TRACKER.data.page.env = "";
-	DATA_TRACKER.data.page.protocol = "https";
-	DATA_TRACKER.data.page.game = "soe";
-	DATA_TRACKER.data.page.locale = "en_US";
-	DATA_TRACKER.data.page.language = "en";
-	DATA_TRACKER.data.page.siteName = "soe";
-	DATA_TRACKER.data.page.platform = "full site";
-</script>
-
+	
 </body></html>
