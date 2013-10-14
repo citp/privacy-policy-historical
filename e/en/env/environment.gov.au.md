@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the environment.gov.au privacy policy that was archived on 2013-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130420115632id_/http%3A//environment.gov.au/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the environment.gov.au privacy policy that was archived on 2013-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131015015035id_/http%3A//www.environment.gov.au/about/privacy.html) for the most accurate reproduction.*
 
-# Department of Sustainability, Environment, Water, Population and Communities - Privacy Statement
+# Department of the Environment - Privacy Statement
 
 ## Scope
 
-This notice applies to the Department of Sustainability, Environment, Water, Population and Communities web site only. The web site is managed by the Australian Government Department of Sustainability, Environment, Water, Population and Communities.
+This notice applies to the Department of the Environment web site only. The web site is managed by the Australian Government Department of the Environment.
 
 ## Personal Information
 
 The use of the term "personal information" in this privacy notice means any information from which your identity is apparent or can be reasonably ascertained.
 
-The Department of Sustainability, Environment, Water, Population and Communities collects personal information that you choose to give us, for example your email address.
+The Department of the Environment collects personal information that you choose to give us, for example your email address.
 
 We do not collect identifiable personal information about you if you only browse this web site.
 
@@ -38,16 +38,16 @@ To protect your privacy and the privacy of others, we may have to gain evidence 
 
 ## Important Information
 
-This web site is bound by the _Information Privacy Principles_ under the _Privacy Act 1988_.
+This website is bound by the _Information Privacy Principles_ under the _Privacy Act 1988_.
 
 We also follow the _Guidelines for Federal and ACT Government websites_ issued by the Office of the Privacy Commissioner.
 
 ## Contact us
 
-If you have any privacy concerns with the Department of Sustainability, Environment, Water, Population and Communities web site, please contact the Privacy Contact Officer:
+If you have any privacy concerns with the Department of the Environment website, please contact the Privacy Contact Officer:
 
 Privacy Contact Officer  
-Australian Government Department of Sustainability, Environment, Water, Population and Communities  
+Australian Government Department the Environment  
 GPO Box 787  
 Canberra ACT 2601  
 Australia  
@@ -57,4 +57,4 @@ privacy@environment.gov.au
 
 ## Full privacy notice
 
-For more information about our privacy practices, see our [full privacy notice](https://web.archive.org/web/20130420115632id_/http%3A//environment.gov.au/about/privacyfull.html).
+For more information about our privacy practices, see our [full privacy notice](https://web.archive.org/web/20131015015035id_/http%3A//www.environment.gov.au/about/privacyfull.html).
