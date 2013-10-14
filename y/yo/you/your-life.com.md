@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the your-life.com privacy policy that was archived on 2013-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130516172936id_/http%3A//www.your-life.com/en/home/privacy-statement.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the your-life.com privacy policy that was archived on 2013-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131015011402id_/http%3A//www.your-life.com/scripts/pages/en/home/privacy-statement.php) for the most accurate reproduction.*
 
-# Privacy Statement
+# Privacy Statement | World Contraception Day
 
 Bayer is aware that the security of your private information from the use of our Web site is an important concern. We take the protection of your personal data very seriously. Therefore we would like you to know what data we maintain and what data we discard. With this privacy statement, we would like to inform you about our security measures.
 
