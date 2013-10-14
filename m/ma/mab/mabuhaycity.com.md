@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mabuhaycity.com privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501061207id_/http%3A//mabuhaycity.com/index.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mabuhaycity.com privacy policy that was archived on 2013-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131014142410id_/http%3A//mabuhaycity.com/index.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
 
 # Mabuhay City::Privacy
 
