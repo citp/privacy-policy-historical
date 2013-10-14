@@ -1,27 +1,28 @@
-<!--The following is the downloaded HTML source of the brecorder.com privacy policy that was archived on 2013-06-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130602102113id_/http%3A//www.brecorder.com/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the brecorder.com privacy policy that was archived on 2013-10-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131014055940id_/http%3A//www.brecorder.com/privacy-policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="en-US"><head>
-	<link rel="stylesheet" href="/templates/classic/css/reset.css?ver=122112">
-	<link rel="stylesheet" href="/templates/classic/css/grid.css?ver=122112">
-	<link rel="stylesheet" href="/templates/classic/css/colors.css?ver=122112">
-	<link rel="stylesheet" href="/templates/classic/css/slider.css?ver=122112">
-	<link rel="stylesheet" href="/templates/classic/css/nav.css?ver=122112">
-	<link rel="stylesheet" href="/templates/classic/css/style.css?ver=122112">
+	<meta name="msvalidate.01" content="42B1D1E907172FA00C9E73B270445472">
+	<link rel="stylesheet" href="/templates/classic/css/reset.css?ver=075940">
+	<link rel="stylesheet" href="/templates/classic/css/grid.css?ver=075940">
+	<link rel="stylesheet" href="/templates/classic/css/colors.css?ver=075940">
+	<link rel="stylesheet" href="/templates/classic/css/slider.css?ver=075940">
+	<link rel="stylesheet" href="/templates/classic/css/nav.css?ver=075940">
+	<link rel="stylesheet" href="/templates/classic/css/style.css?ver=075940">
 	<meta name="p:domain_verify" content="a06e540cdcb0464d74f65a204b5e30ef">
-	<script type="text/javascript" async="" src="https://pk-ssl.effectivemeasure.net/em.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script language="javascript" type="text/javascript">
+	<script type="text/javascript" async="" src="https://pk-ssl.effectivemeasure.net/em.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_GB/all.js#xfbml=1&amp;appId="></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script language="javascript" type="text/javascript">
 	var _script ={scr:[],add:function(s){this.scr.push(s);},runs:0,
 	run:function(){if(this.runs<this.scr.length){try{eval(this.scr[this.runs]);}catch(e){}
 	this.runs++;setTimeout('_script.run()',200);}}};
 	function add2start(scr){_script.add(scr);}
 	</script>
-	<script type="text/javascript" src="/templates/classic/js/jquery-1.7.2.min.js?ver=122112"></script>
+	<script type="text/javascript" src="/templates/classic/js/jquery-1.7.2.min.js?ver=075940"></script>
 	  <base href="http://www.brecorder.com/privacy-policy.html">
   <meta http-equiv="content-type" content="text/html; charset=utf-8">
   <meta name="robots" content="index, follow">
   <meta name="keywords" content="News | Business News | Current News | Latest World News | Current World News | Pakistan News">
   <meta name="title" content="Privacy Policy">
-  <meta name="description" content="Stay updated with Business News, Pakistan news, Current world news and latest world news with Business Recorder">
+  <meta name="description" content="Stay updated with Business News, Pakistan news, Current world news and latest world news with Business Recorder..">
   <title>Privacy Policy</title>
   <link href="/favicon.ico" rel="shortcut icon" type="image/x-icon">
   <link rel="stylesheet" href="/templates/classic/css/inner.css" type="text/css">
@@ -33,7 +34,7 @@
   </style>
   <script language="javascript" type="text/javascript" src="/media/system/js/mootools.js"></script>
   <script language="javascript" type="text/javascript" src="/media/system/js/caption.js"></script>
-  <script language="javascript" type="text/javascript" src="http://www.brecorder.com/modules/mod_googlebanner/googleAd.js?v=122112"></script>
+  <script language="javascript" type="text/javascript" src="http://www.brecorder.com/modules/mod_googlebanner/googleAd.js?v=075940"></script>
   <script language="javascript" type="text/javascript" src="http://www.brecorder.com/modules/mod_ticker/tick.ajax.js"></script>
   <script language="javascript" type="text/javascript" src="http://www.brecorder.com/cssjs/javascripts.js"></script>
   <script language="javascript" type="text/javascript">
@@ -66,13 +67,30 @@ legend{display:block; font-weight:bold; color:#000000;}
 div.user input{
 	display:block;
 }
+.hidBan{display:none;}
 </style>
 <script language="javascript">
 function hideMsg(){
 	document.getElementById("system-message").style.display="none";
 }setTimeout("hideMsg()",5000);
-</script>
-</head>
+var bannHidden=false;
+function hideAllBan(){
+	if(bannHidden==false){
+		jQuery(".gb").each(function(){
+			jQuery(this).addClass( "hidBan" );
+		});
+		bannHidden=true;
+	}else{
+		bannHidden=false;
+		jQuery(".gb").each(function(){
+			jQuery(this).removeClass( "hidBan" );
+		});
+	}
+}
+function hiderow(d){
+	document.getElementById(d).style.display="none";
+}
+</script></head>
 <body>
 <div class="container" style="background: #FFF;">
 		<div class="span-1000" id="top_menu_hover">
@@ -100,7 +118,7 @@ function hideMsg(){
 		<div class="span-20">&nbsp;</div>
 		<div class="span-334"><a href="/" id="top"><img src="/templates/classic/images/logo.png" alt="logo"></a></div>
 		<div class="span-50">&nbsp;</div>
-		<div class="span-350"><div class="sub_heading">Pakistan's Premier Financial Daily</div></div>
+		<div class="span-350"><div class="sub_heading" onclick="hideAllBan();">Pakistan's Premier Financial Daily</div></div>
 		<div class="span-226">
 			<form action="http://www.brecorder.com/search" method="get">
 				<input type="text" name="q" id="q" class="span-226" value="" placeholder="Search...">
@@ -109,11 +127,18 @@ function hideMsg(){
 		</div>
 		
 		<div class="social">
-			<a class="android" href="http://www.brecorder.com/android.php" title="BR Android Application" style="display:none; visibility:hidden;">BR Android Application</a>
-			<a class="android" href="#" onclick="javascript:androApp();" title="BR Android App"><img class="icon" src="/images/android.png" alt="FB"></a>
-			<a href="http://www.facebook.com/BusinessRecorder" target="_blank"><img class="icon" src="/images/fbook-icon.png" alt="FB"></a>
-			<a href="http://twitter.com/brecordernews" target="_blank"> <img class="icon" src="/images/twitter-icon.png" alt="Twitter"></a>
-			<a href="http://www.brecorder.com/home/services-a-tools/rss-news-feeds.html" target="_blank"><img class="icon" src="/images/rss-icon.png" alt="RSS"></a>
+			<a href="http://www.brecorder.com/home/services-a-tools/rss-news-feeds.html" target="_blank" title="Get Live Feed">
+				<span class="ic24 ic_rss"></span>
+			</a>		
+			<a href="http://www.facebook.com/BusinessRecorder" target="_blank" title="Like on Facebook">
+				<span class="ic24 ic_fb"></span>
+			</a>
+			<a href="http://twitter.com/brecordernews" target="_blank" title="Join us at Twitter">
+				<span class="ic24 ic_twt"></span>
+			</a>
+			<a href="https://play.google.com/store/apps/details?id=com.br.app" title="BR Android Application">
+				<span class="ic24 ic_and"></span>
+			</a>
 		</div>
 
 		<div class="userarea">
@@ -133,11 +158,23 @@ function hideMsg(){
         <li><a href="/top-stories/"><span>From the Print</span></a>
           <ul>
             <li><a href="/top-stories/"><span>Top Stories</span></a></li>
+			<li><a href="/business-and-economy/"><span>Business &amp; Economy</span></a></li>
             <li><a href="/general-news/"><span>General News</span></a></li>
             <li><a href="/editorials/"><span>Editorials</span></a></li>
             <li><a href="/company-news/"><span>Company News</span></a></li>
             <li><a href="/agriculture-a-allied/"><span>Agriculture &amp; Allied</span></a></li>
-            <li><a href="/articles-a-letters/"><span>Articles &amp; Letters</span></a></li>
+            <li><a href="/pages/articles-a-letters.html"><span>Articles &amp; Letters</span></a>
+			
+				<ul>
+            		<li><a href="/Elections2013/outlook.html"><span>Election Outlook</span></a></li>
+					<li><a href="/pages/arab-unrest.html"><span>Arab unrest: perspectives</span></a></li>
+					<li><a href="/pages/partly-facetious.html"><span>Partly Facetious</span></a></li>
+					<li><a href="/pages/need-for-national-tax-court.html"><span>Need for National Tax Court</span></a></li>
+					<li><a href="/pages/view-point.html"><span>View Point</span></a></li>
+					<li><a href="/pages/hoodwinking-dar.html"><span>Hoodwinking Dar</span></a></li>
+				</ul>
+				
+			</li>
             <li><a href="/yarn-prices/"><span>Yarn Prices</span></a></li>
             <li><a href="/cotton-a-textiles/"><span>Cotton &amp; Textiles</span></a></li>
             <li><a href="/fuel-a-energy/"><span>Fuel &amp; Energy</span></a></li>
@@ -419,7 +456,17 @@ function hideMsg(){
     <li class="level1"><a href="/arts-a-leisure.html" class="level1 topdaddy"><span>Entertainment</span></a></li>
     <li class="level1 topli"><a href="http://www.brecorder.com/budget/budgets.html" class="level1 topli topdaddy"><span>Budget</span></a>
       <ul>
-        <li><a href="/budget/proposals-2012-13.html"><span>Proposals 2012-13</span></a></li>
+        <li><a href="/pages/budget2013-14.html"><span>Budget 2013-14</span></a>
+			<ul>
+				<li><a href="/budget/budget-2013-14/budget-news.html"><span>Budget News</span></a></li>
+				<li><a href="/budget/budget-2013-14/economic-outlook.html"><span>Economic Outlook</span></a></li>
+				<li><a href="/budget/budget-2013-14/br-research.html"><span>BR Research</span></a></li>
+				<li><a href="/budget/budget-2013-14/blogs.html"><span>Blogs</span></a></li>
+			</ul>
+            <span class="hasChildren"></span>		
+		</li>
+		
+		<li><a href="/budget/proposals-2012-13.html"><span>Proposals 2012-13</span></a></li>
         <li><a href="/budget/proposals-2011-12.html"><span>Proposals 2011-12</span></a></li>
         <li><a href="/budget/budgets.html"><span>Budgets</span></a></li>
       </ul>
@@ -472,11 +519,11 @@ function hideMsg(){
 </div>
 <script language="javascript">
 var arNews = new Array();
-arNews.push(new Array("UN\ condemns\ attacks\ on\ health\ workers\ (09:12)",'/top-news/108-pakistan-top-news/122145-un-condemns-attacks-on-health-workers.html'));
-arNews.push(new Array("Rana\ Iqbal\ submits\ papers\ for\ speaker\ slot\ (09:08)",'/top-news/108-pakistan-top-news/122142-rana-iqbal-submits-papers-for-speaker-slot.html'));
-arNews.push(new Array("5.7\ quake\ injures\ 10\ in\ Philippines\ (08:34)",'/top-news/1-front-top-news/122141-57-quake-injures-10-in-philippines.html'));
-arNews.push(new Array("Thousands\ rally\ against\ nuclear\ power\ in\ Tokyo\ (08:31)",'/top-news/1-front-top-news/122140-thousands-rally-against-nuclear-power-in-tokyo.html'));
-arNews.push(new Array("Syria\ peace\ talks\ in\ Geneva\ could\ take\ place\ in\ July:\ Fabius\ (08:17)",'/top-news/108-pakistan-top-news/122139-syria-peace-talks-in-geneva-could-take-place-in-july-fabius.html'));
+arNews.push(new Array("India\ cyclone\ survivors\ return\ home\ to\ destruction\ (04:38)",'/top-news/108-pakistan-top-news/140242-india-cyclone-survivors-return-home-to-destruction.html'));
+arNews.push(new Array("Singapore\ dollar\ turns\ up\ after\ central\ bank\ stance,\ GDP;\ most\ Asia\ FX\ dip\ (04:29)",'/top-news/108-pakistan-top-news/140238-singapore-dollar-turns-up-after-central-bank-stance-gdp;-most-asia-fx-dip.html'));
+arNews.push(new Array("China\ central\ bank\ shrugs\ off\ weak\ export\ figures\ with\ record-high\ yuan\ midpoint\ (04:27)",'/top-news/108-pakistan-top-news/140236-china-central-bank-shrugs-off-weak-export-figures-with-record-high-yuan-midpoint.html'));
+arNews.push(new Array("Wheat\ up\ on\ renewed\ supply\ woes,\ soybeans\ at\ 20-month\ low\ (04:22)",'/top-news/108-pakistan-top-news/140230-wheat-up-on-renewed-supply-woes-soybeans-at-20-month-low.html'));
+arNews.push(new Array("Gold\ near\ 3-month\ low\ as\ US\ debt\ deadline\ looms\ (04:21)",'/top-news/108-pakistan-top-news/140228-gold-near-3-month-low-as-us-debt-deadline-looms.html'));
 </script>
 <script language="javascript" src="http://www.brecorder.com/modules/mod_justin/just.js"></script>
 						<hr class="space">
@@ -489,7 +536,14 @@ arNews.push(new Array("Syria\ peace\ talks\ in\ Geneva\ could\ take\ place\ in\ 
 					<div class="span-660">
 						<span class="breadcrumbs">You are here: 	<a href="http://www.brecorder.com/" class="pathway">Home</a><span class="separator">»</span><span class="last">Privacy Policy</span></span><br>
 						<br>
-						
+						<div id="fb-root"></div>
+		<script>(function(d, s, id) {
+			var js, fjs = d.getElementsByTagName(s)[0];
+			if (d.getElementById(id)) return;
+			js = d.createElement(s); js.id = id;
+			js.src = "//connect.facebook.net/en_GB/all.js#xfbml=1&appId=";
+			fjs.parentNode.insertBefore(js, fjs);}(document, 'script', 'facebook-jssdk'));
+		</script><script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
 <div class="joomla ">
 	<div class="article">
 	<p>
@@ -520,7 +574,7 @@ arNews.push(new Array("Syria\ peace\ talks\ in\ Geneva\ could\ take\ place\ in\ 
 										<span class="icon pdf"><a href="/privacy-policy.pdf" title="PDF" onclick="window.open(this.href,'win2','status=no,toolbar=no,scrollbars=yes,titlebar=no,menubar=no,resizable=yes,width=640,height=480,directories=no,location=no'); return false;" rel="nofollow"><img src="/images/M_images/pdf_button.png" alt="PDF"></a></span>
 							
 								<span class="icon views">
-					<img src="/images/M_images/views.png" title="Total Views" alt="Views:"> <a id="hits">28486</a>
+					<img src="/images/M_images/views.png" title="Total Views" alt="Views:"> <a id="hits">28737</a>
 				</span>
 			</div>
 			
@@ -531,19 +585,7 @@ arNews.push(new Array("Syria\ peace\ talks\ in\ Geneva\ could\ take\ place\ in\ 
 				
 		<p><span style="color: #000000; font-family: Arial; line-height: normal;">We do not share any data or information about you (collected for whatever reason and by whatever means or provided by you to us for whatever reason and by whatever means) with any third party.&nbsp;<strong><em>Ever</em></strong>, except when required to provide it under orders from a competent Court of Law.<br><br>There is a limited amount of information any web site can gather about its visitors without directly asking the visitors any questions. Examples of this information include: the browser you are using, the time that you spend on our web site, etc. This information is collected to keep our web site optimised to the preferences of the majority of our visitors with a view to serving them better.<br><br>Then, there is information that a visitor provides when he joins mailing lists, participates in polls, promotions and contests, or fills out surveys. Our privacy policy covers all such information. We keep this information strictly to ourselves and use it only to serve you better. This information is not and will not ever be shared with any outside party.<br><br>Our privacy policy does not and cannot be applied to information that you choose to put up in sections that are open to public, that is, classified advertisements, message boards, discussion forums, etc. Naturally our privacy policy does not and cannot cover this information. It is simply impossible for us to check others using this information for their own valid or invalid purposes.<br><br>We do not also give, lease or sell email addresses of visitors to outside parties. However, we do occasionally send to our visitors news and announcements about us, our sister web sites and the services we or our sister web sites offer. So, if you provide us your email address, for whatever reason, please expect to receive such emails from us.</span></p>
 
- <div class="joomla_add_this"><!-- AddThis Button BEGIN -->
-<script type="text/javascript">
-var addthis_product = 'jlp-1.2';
-var addthis_config =
-{pubid:'saqibsra',
-services_compact:'facebook,twitter',
-ui_hover_direction:0,
-data_track_clickback:true,
-ui_language:'en',
-ui_use_css:true}</script>
-<div class="addthis_toolbox addthis_default_style" addthis:url="http://www.brecorder.com/privacy-policy.html" addthis:title="Privacy Policy"><a class="addthis_button_facebook"></a><a class="addthis_button_twitter"></a><a class="addthis_button_blogger"></a><a class="addthis_button_stumbleupon"></a><a class="addthis_button_delicious"></a><a class="addthis_button_digg"></a><a class="addthis_button_facebook_like"></a><a class="addthis_button_expanded">Share</a></div><script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js"></script>
-<!-- AddThis Button END -->
-</div>				<p></p>
+		<table border="0" width="100%" class="social"><tbody><tr><td><div class="fb-like" data-href="http://www.brecorder.com/privacy-policy.html" data-send="false" data-layout="button_count" data-width="450" data-show-faces="false"></div></td><td><iframe allowtransparency="true" frameborder="0" scrolling="no" src="https://platform.twitter.com/widgets/tweet_button.1372833608.html#_=1373270113258&amp;count=horizontal&amp;id=twitter-widget-2&amp;lang=en&amp;original_referer=http%3A%2F%2Fwww.brecorder.com&amp;size=m&amp;text=Privacy Policy&amp;url=http%3A%2F%2Fwww.brecorder.com%2Fprivacy-policy.html" class="twitter-share-button twitter-count-horizontal" title="Twitter Tweet Button" data-twttr-rendered="true" style="width: 110px; height: 20px;"></iframe></td><td><g:plusone size="medium"></g:plusone></td></tr></tbody></table>		<p></p>
 		
 	<center><div id="googleSlot-BR_ARTICLE_AD" class="gb ad336x280">
 	<script language="javascript" type="text/javascript">
@@ -587,99 +629,99 @@ ui_use_css:true}</script>
 </div>
 <div class="span-10">&nbsp;</div>
 <div class="span-300">
-<div class="span-300 standard_tabs " id="t1077">
+<div class="span-300 standard_tabs " id="t2088">
 	<div class="span-300 ztabs">
-	<ul class="ztabs" id="t1077_ul"><li style="width:33.2%;"><a href="#" id="pan43" data-tag="43" class="selected"> World Indices </a></li><li style="width:33.2%;"><a href="#" id="pan45" data-tag="45" class=""> NY Closing </a></li><li style="width:33.2%;"><a href="#" id="pan47" data-tag="47" class=""> The Rupee </a></li>
+	<ul class="ztabs" id="t2088_ul"><li style="width:33.2%;"><a href="#" id="pan43" data-tag="43" class="selected"> World Indices </a></li><li style="width:33.2%;"><a href="#" id="pan45" data-tag="45" class=""> NY Closing </a></li><li style="width:33.2%;"><a href="#" id="pan47" data-tag="47" class=""> The Rupee </a></li>
 	</ul>
-</div>		<div class="span-285 tabs_data" id="t1077_data">
+</div>		<div class="span-285 tabs_data" id="t2088_data">
 				<div class="moduletable_ver4">
 					<table bgcolor="#FFFFFF" width="90%" border="0" cellspacing="0" cellpadding="1"> <tbody><tr><td width="7%"> </td> <td valign="middle" class="RightTablesHeading" align="left"><b>Index</b></td> <td valign="middle" class="RightTablesHeading" align="right"><b>Closing</b></td> <td valign="middle" class="RightTablesHeading" align="right" width="30%"><b>Chg% </b></td><td width="2px"></td></tr>
-<tr class="RightTables"><td valign="middle" align="center"><img src="/images/arrow_r.gif" width="5" height="5" alt="Arrow"></td> <td valign="middle" class="RightTables">DJIA</td> <td valign="middle" class="RightTables" align="right">
+<tr class="RightTables"><td valign="middle" align="center"><img src="/images/arrow_g.gif" width="5" height="5" alt="Arrow"></td> <td valign="middle" class="RightTables">DJIA</td> <td valign="middle" class="RightTables" align="right">
 
-15,115.57
+15,237.11
 
 </td><td valign="middle" class="RightTables" align="right">
 
-1.36
+0.73
 
 </td></tr>
-<tr class="RightTables"><td valign="middle" align="center"><img src="/images/arrow_r.gif" width="5" height="5" alt="Arrow"></td> <td valign="middle" class="RightTables">Nasdaq</td> <td valign="middle" class="RightTables" align="right">
+<tr class="RightTables"><td valign="middle" align="center"><img src="/images/arrow_g.gif" width="5" height="5" alt="Arrow"></td> <td valign="middle" class="RightTables">Nasdaq</td> <td valign="middle" class="RightTables" align="right">
 
-3,455.91
+3,791.87
 
 
 </td><td valign="middle" class="RightTables" align="right">
 
-1.01
+0.83
 
 </td></tr>
-<tr class="RightTables"><td valign="middle" align="center"><img src="/images/arrow_r.gif" width="5" height="5" alt="Arrow"></td> <td valign="middle" class="RightTables">S&amp;P</td><td valign="middle" class="RightTables" align="right">
+<tr class="RightTables"><td valign="middle" align="center"><img src="/images/arrow_g.gif" width="5" height="5" alt="Arrow"></td> <td valign="middle" class="RightTables">S&amp;P</td><td valign="middle" class="RightTables" align="right">
 
-1,630.74
+1,703.20
 
 </td><td valign="middle" class="RightTables" align="right">
 
-1.43
+0.63
 
 </td></tr>
-<tr class="RightTables"><td valign="middle" align="center"><img src="/images/arrow_r.gif" width="5" height="5" alt="Arrow"></td> <td valign="middle" class="RightTables">FTSE</td><td valign="middle" class="RightTables" align="right">
+<tr class="RightTables"><td valign="middle" align="center"><img src="/images/arrow_g.gif" width="5" height="5" alt="Arrow"></td> <td valign="middle" class="RightTables">FTSE</td><td valign="middle" class="RightTables" align="right">
 
-6,583.09
+6,487.19
 
 </td><td valign="middle" class="RightTables" align="right">
 
-1.11
+0.88
 
 </td></tr>
-<tr class="RightTables"><td valign="middle" align="center"><img src="/images/arrow_r.gif" width="5" height="5" alt="Arrow"></td> <td valign="middle" class="RightTables">DAX</td><td valign="middle" class="RightTables" align="right">
+<tr class="RightTables"><td valign="middle" align="center"><img src="/images/arrow_g.gif" width="5" height="5" alt="Arrow"></td> <td valign="middle" class="RightTables">DAX</td><td valign="middle" class="RightTables" align="right">
 
-8,348.84
+8,724.83
 
 </td><td valign="middle" class="RightTables" align="right">
 
-0.61
+0.45
 
 </td></tr>
-<tr class="RightTables"><td valign="middle" align="center"><img src="/images/arrow_r.gif" width="5" height="5" alt="Arrow"></td> <td valign="middle" class="RightTables">CAC-40</td><td valign="middle" class="RightTables" align="right">
+<tr class="RightTables"><td valign="middle" align="center"><img src="/images/arrow_g.gif" width="5" height="5" alt="Arrow"></td> <td valign="middle" class="RightTables">CAC-40</td><td valign="middle" class="RightTables" align="right">
 
-3,948.59
+4,219.98
 
 </td><td valign="middle" class="RightTables" align="right">
 
-1.19
+0.04
 
 </td></tr>
 <tr class="RightTables"><td valign="middle" align="center"><img src="/images/arrow_g.gif" width="5" height="5" alt="Arrow"></td> <td valign="middle" class="RightTables">Nikkei</td><td valign="middle" class="RightTables" align="right">
 
-13,774.54
+14,404.74
 
 </td><td valign="middle" class="RightTables" align="right">
 
-1.37
+1.48
 
 
 </td></tr>
-<tr class="RightTables"><td valign="middle" align="center"><img src="/images/arrow_r.gif" width="5" height="5" alt="Arrow"></td> <td valign="middle" class="RightTables">H.Seng</td><td valign="middle" class="RightTables" align="right">
+<tr class="RightTables"><td valign="middle" align="center"><img src="/images/arrow_g.gif" width="5" height="5" alt="Arrow"></td> <td valign="middle" class="RightTables">H.Seng</td><td valign="middle" class="RightTables" align="right">
 
-22,392.16
+23,218.32
 
 </td><td valign="middle" class="RightTables" align="right">
 
-0.41
+1.16
 
 </td></tr>
-<tr class="RightTables"><td valign="middle" align="center"><img src="/images/arrow_r.gif" width="5" height="5" alt="Arrow"></td> <td valign="middle" class="RightTables">Sensex</td><td valign="middle" class="RightTables" align="right">
+<tr class="RightTables"><td valign="middle" align="center"><img src="/images/arrow_g.gif" width="5" height="5" alt="Arrow"></td> <td valign="middle" class="RightTables">Sensex</td><td valign="middle" class="RightTables" align="right">
 
-19,760.30
+20,528.59
 
 </td><td valign="middle" class="RightTables" align="right">
 
-2.25
+1.26
 
 </td></tr><tr class="RightTables"><td colspan="5" valign="middle" align="center" class="small_footer"><font color="Maroon">Updated at 5:00 am Pst</font></td></tr></tbody></table>		</div>
 		</div>
 	</div>
-<script language="javascript">add2start("jQuery('ul#t1077_ul li a').click(function(){var ID = jQuery(this).attr('data-tag');jQuery('ul#t1077_ul li a').removeClass('selected');jQuery(this).addClass('selected');jQuery('#t1077_data').load('index.php?option=com_ajax&d=20130602122112&mod='+ID);return false;});");</script></div>
+<script language="javascript">add2start("jQuery('ul#t2088_ul li a').click(function(){var ID = jQuery(this).attr('data-tag');jQuery('ul#t2088_ul li a').removeClass('selected');jQuery(this).addClass('selected');jQuery('#t2088_data').load('index.php?option=com_ajax&d=20131014075940&mod='+ID);return false;});");</script></div>
 <style> #comments .toolbar img {width:16px; height:16px;} </style><br>
 							<br><div id="googleSlot-BR_Half_Banner2" class="gb ad300x60">
 	<script language="javascript" type="text/javascript">
@@ -702,121 +744,83 @@ ui_use_css:true}</script>
 	<h3>Text Ads</h3><!-- banner info 
  ID:84
  Name: China Wholesale
- Impression: 64334328
+ Impression: 87693362
  Clicks: 0 -->	<div class="banneritem_box banner84">
 	<div class="banneritem_ver1"><a href="http://www.dhgate.com" target="_blank">China Wholesale</a>
 <br><div class="clr"></div>
 </div><div class="clr"></div>
 	</div>
 <!-- banner info 
- ID:89
- Name: Online Shopping
- Impression: 42614886
- Clicks: 0 -->	<div class="banneritem_box banner89">
-	<div class="banneritem_ver1"><a href="http://www.dinodirect.com/" target="_blank">Online Shopping</a>
-<br><div class="clr"></div>
-</div><div class="clr"></div>
-	</div>
-<!-- banner info 
  ID:108
  Name: Cheap evening dresses
- Impression: 1754190
+ Impression: 25112978
  Clicks: 0 -->	<div class="banneritem_box banner108">
 	<div class="banneritem_ver1"><a href="http://www.ogotoshop.com" target="_blank">cheap evening dresses</a>
 <br><div class="clr"></div>
 </div><div class="clr"></div>
 	</div>
 <!-- banner info 
- ID:98
- Name: bryllupskjoler 
- Impression: 15270598
- Clicks: 0 -->	<div class="banneritem_box banner98">
-	<div class="banneritem_ver1"><a href="http://www.jennyjoseph.com/no/Brudekjoler-c2/" target="_blank">bryllupskjoler </a>
-<br><div class="clr"></div>
-</div><div class="clr"></div>
-	</div>
-<!-- banner info 
- ID:100
- Name: Oil Painting Reproductions
- Impression: 11269562
- Clicks: 19 -->	<div class="banneritem_box banner100">
-	<div class="banneritem_ver1"><a href="http://www.artisoo.com/oil-painting-c-66.html" target="_blank">Oil Painting Reproductions</a>
-<br><div class="clr"></div>
-</div><div class="clr"></div>
-	</div>
-<!-- banner info 
- ID:101
- Name: Game Development Company
- Impression: 7901462
- Clicks: 0 -->	<div class="banneritem_box banner101">
-	<div class="banneritem_ver1"><a href="http://www.gamecubix.com" target="_blank">Game Development Company</a>
-<br><div class="clr"></div>
-</div><div class="clr"></div>
-	</div>
-<!-- banner info 
- ID:102
- Name: China Products
- Impression: 7900933
- Clicks: 16 -->	<div class="banneritem_box banner102">
-	<div class="banneritem_ver1"><a href="http://www.globalmarket.com/hot-products.html" target="_blank">China Products</a>
-<br><div class="clr"></div>
-</div><div class="clr"></div>
-	</div>
-<!-- banner info 
- ID:103
- Name: Offshore Software Development
- Impression: 7898539
- Clicks: 0 -->	<div class="banneritem_box banner103">
-	<div class="banneritem_ver1"><a href="http://www.goodcoresoft.com" target="_blank">Offshore Software Development</a>
-<br><div class="clr"></div>
-</div><div class="clr"></div>
-	</div>
-<!-- banner info 
  ID:104
  Name: Cool Gadgets
- Impression: 5553221
- Clicks: 10 -->	<div class="banneritem_box banner104">
+ Impression: 26919951
+ Clicks: 40 -->	<div class="banneritem_box banner104">
 	<div class="banneritem_ver1"><a href="http://www.priceangels.com/" target="_blank"> Cool Gadgets</a>
 <br><div class="clr"></div>
 </div><div class="clr"></div>
 	</div>
 <!-- banner info 
- ID:105
- Name: Abendkleider
- Impression: 3380652
- Clicks: 0 -->	<div class="banneritem_box banner105">
-	<div class="banneritem_ver1"><a href="http://www.efox-shop.com/brautkleider-abendkleider-c-463_474" target="_blank">Abendkleider</a>
+ ID:111
+ Name: GetDissertation.com
+ Impression: 14217095
+ Clicks: 0 -->	<div class="banneritem_box banner111">
+	<div class="banneritem_ver1"><a href="http://getdissertation.com/" target="_blank">GetDissertation.com</a> Business Dissertation Services
 <br><div class="clr"></div>
 </div><div class="clr"></div>
 	</div>
 <!-- banner info 
- ID:106
- Name: vetement homme pas cher
- Impression: 3380560
- Clicks: 0 -->	<div class="banneritem_box banner106">
-	<div class="banneritem_ver1"><a href="http://www.myefox.fr/v-ecirc-tement-mode-v-ecirc-tements-homme-top100-c-2549_2943" target="_blank">vetement homme pas cher</a>
+ ID:113
+ Name: Herb Allen
+ Impression: 15692705
+ Clicks: 0 -->	<div class="banneritem_box banner113">
+	<div class="banneritem_ver1"><a href="http://gawker.com/550743/herb-allen" target="_blank">Herb Allen</a>
 <br><div class="clr"></div>
 </div><div class="clr"></div>
 	</div>
 <!-- banner info 
- ID:107
- Name: Business Dissertation Services
- Impression: 2635206
- Clicks: 4 -->	<div class="banneritem_box banner107">
-	<div class="banneritem_ver1"><a href="http://getdissertation.com" target="_blank">GetDissertation.com</a> - Business Dissertation Services
+ ID:115
+ Name: leatherelement
+ Impression: 10386445
+ Clicks: 0 -->	<div class="banneritem_box banner115">
+	<div class="banneritem_ver1"><a href="http://www.leatherelement.com/" target="_blank">leatherelement</a>
 <br><div class="clr"></div>
 </div><div class="clr"></div>
 	</div>
 <!-- banner info 
- ID:110
- Name: vetement femme pas cher
- Impression: 722505
- Clicks: 0 -->	<div class="banneritem_box banner110">
-	<div class="banneritem_ver1"><a href="http://www.tabouf.com/v-ecirc-tement-femme-c-6736/" target="_blank">vetement femme pas cher</a>
+ ID:119
+ Name: Billån
+ Impression: 5069638
+ Clicks: 0 -->	<div class="banneritem_box banner119">
+	<div class="banneritem_ver1"><a href="http://www.billån.no/" target="_blank">Billån</a>
 <br><div class="clr"></div>
 </div><div class="clr"></div>
 	</div>
-		 <br></div><p><br mce_bogus="1">
+<!-- banner info 
+ ID:120
+ Name: TradeTang
+ Impression: 4413747
+ Clicks: 0 -->	<div class="banneritem_box banner120">
+	<div class="banneritem_ver1"><a href="http://www.tradetang.com/" target="_blank">TradeTang</a> is a China wholesale marketplace
+<br><div class="clr"></div>
+</div><div class="clr"></div>
+	</div>
+		 <br></div><div class="bannergroup_box"><div class="banneritem_ver1"><a href="http://www.kysset.no/" mce_href="http://www.kysset.no/" target="_blank">Match</a>
+<br><div class="clr"></div>
+</div>
+
+<div class="banneritem_ver1"><a href="http://www.billån.no/" mce_href="http://www.billån.no/" target="_blank">Billån</a>
+<br><div class="clr"></div>
+</div>
+</div><p><br mce_bogus="1">
 <a href="http://www.brecorder.com/br2012.html" mce_href="/fr2012"><img src="http://www.brecorder.com/images/br2012.jpg" mce_src="/images/br2012.jpg" alt="Banking Review 2012" width="130" height="200">
 </a></p></td>
 							<td class="span-148" align="right" style="border-left:1px solid #EEE;"><center><div id="googleSlot-skycrapperwide" class="gb ad160x600">
@@ -827,63 +831,63 @@ ui_use_css:true}</script>
 </center></td>
 							</tr>
 							<tr><td colspan="2" class="span-300"><div class="span-300">
-<div class="span-300 standard_tabs " id="t2092">
+<div class="span-300 standard_tabs " id="t1787">
 	<div class="span-300 ztabs">
-	<ul class="ztabs" id="t2092_ul"><li style="width:49.7%;"><a href="#" id="pan132" data-tag="132" class="selected"> Economic Indicators </a></li><li style="width:49.7%;"><a href="#" id="pan42" data-tag="42" class=""> Market at Close </a></li>
+	<ul class="ztabs" id="t1787_ul"><li style="width:49.7%;"><a href="#" id="pan132" data-tag="132" class="selected"> Economic Indicators </a></li><li style="width:49.7%;"><a href="#" id="pan42" data-tag="42" class=""> Market at Close </a></li>
 	</ul>
-</div>		<div class="span-285 tabs_data" id="t2092_data">
+</div>		<div class="span-285 tabs_data" id="t1787_data">
 				<div class="moduletable_ver4">
-					<table bgcolor="#FFFFFF" width="90%" border="0" cellspacing="0" cellpadding="1"><tbody><tr><td width="2px"></td><td class="RightTablesHeading" align="left" width="60%"><b> Annual</b></td><td class="RightTablesHeading" align="right" width="40%"><b>2011/12</b></td><td width="2px"></td></tr>
+					<table bgcolor="#FFFFFF" width="90%" border="0" cellspacing="0" cellpadding="1"><tbody><tr><td width="2px"></td><td class="RightTablesHeading" align="left" width="60%"><b> Annual</b></td><td class="RightTablesHeading" align="right" width="40%"><b>2012/13</b></td><td width="2px"></td></tr>
 <tr class="RightTables"><td></td><td class="RightTables"> Foreign Debt</td><td class="RightTables" align="right">
 
-$65.562bn
+$60.9bn
 
 </td><td></td></tr>
 <tr class="RightTables"><td></td><td class="RightTables"> Per Cap Income</td><td class="RightTables" align="right">
 
-$1,372
+$1,368
 
 </td><td></td></tr>
 <tr class="RightTables"><td></td><td class="RightTables"> GDP Growth</td><td class="RightTables" align="right">
 
-3.7%
+3.6%
 
 </td><td></td></tr>
 <tr class="RightTables"><td></td><td class="RightTables"> Average CPI</td><td class="RightTables" align="right">
 
-10.08%
+7.5%
 
 </td><td></td></tr>
-<tr class="RightTables"><td></td><td class="RightTablesHeading" align="left"><b> Monthly</b></td><td class="RightTablesHeading" align="right"><b>April</b></td><td></td></tr><tr class="RightTables"><td></td><td class="RightTables"> Trade Balance</td><td class="RightTables" align="right">
+<tr class="RightTables"><td></td><td class="RightTablesHeading" align="left"><b> Monthly</b></td><td class="RightTablesHeading" align="right"><b>August</b></td><td></td></tr><tr class="RightTables"><td></td><td class="RightTables"> Trade Balance</td><td class="RightTables" align="right">
 
-$-1.779 bln
+$-1.576 bln
 
 </td><td></td></tr>
 <tr class="RightTables"><td></td><td class="RightTables"> Exports</td><td class="RightTables" align="right">
 
-$2.130 bln
+$1.996 bln
 
 </td></tr>
 <tr class="RightTables"><td></td><td class="RightTables"> Imports</td><td class="RightTables" align="right">
 
-$3.909 bln
+$3.572 bln
 
 </td><td></td></tr></tbody></table>
-<table bgcolor="#FFFFFF" width="90%" border="0" cellspacing="0" cellpadding="1"><tbody><tr class="RightTables"><td width="2px"></td><td class="RightTablesHeading" align="left"><b> Weekly</b></td><td class="RightTablesHeading" align="right"><b>May 27, 2013</b></td><td width="2px"></td></tr><tr class="RightTables"><td></td><td class="RightTables"> Reserves</td><td class="RightTables" align="right">
+<table bgcolor="#FFFFFF" width="90%" border="0" cellspacing="0" cellpadding="1"><tbody><tr class="RightTables"><td width="2px"></td><td class="RightTablesHeading" align="left"><b> Weekly</b></td><td class="RightTablesHeading" align="right"><b>October 10, 2013</b></td><td width="2px"></td></tr><tr class="RightTables"><td></td><td class="RightTables"> Reserves</td><td class="RightTables" align="right">
 
-$11.433 bln
+$9.127 bln
 
 </td><td></td></tr></tbody></table>		</div>
 		</div>
 	</div>
-<script language="javascript">add2start("jQuery('ul#t2092_ul li a').click(function(){var ID = jQuery(this).attr('data-tag');jQuery('ul#t2092_ul li a').removeClass('selected');jQuery(this).addClass('selected');jQuery('#t2092_data').load('index.php?option=com_ajax&d=20130602122112&mod='+ID);return false;});");</script></div>
+<script language="javascript">add2start("jQuery('ul#t1787_ul li a').click(function(){var ID = jQuery(this).attr('data-tag');jQuery('ul#t1787_ul li a').removeClass('selected');jQuery(this).addClass('selected');jQuery('#t1787_data').load('index.php?option=com_ajax&d=20131014075940&mod='+ID);return false;});");</script></div>
 <div class="span-10">&nbsp;</div>
 <div class="span-300">
-<div class="span-300 standard_tabs " id="t1892" style="height:200px">
+<div class="span-300 standard_tabs " id="t1984" style="height:200px">
 	<div class="span-300 ztabs">
-	<ul class="ztabs" id="t1892_ul"><li style="width:33.2%;"><a href="#" id="pan278" data-tag="278" class="selected"> Top Traded </a></li><li style="width:33.2%;"><a href="#" id="pan279" data-tag="279" class=""> Advancers </a></li><li style="width:33.2%;"><a href="#" id="pan280" data-tag="280" class=""> Decliners </a></li>
+	<ul class="ztabs" id="t1984_ul"><li style="width:33.2%;"><a href="#" id="pan278" data-tag="278" class="selected"> Top Traded </a></li><li style="width:33.2%;"><a href="#" id="pan279" data-tag="279" class=""> Advancers </a></li><li style="width:33.2%;"><a href="#" id="pan280" data-tag="280" class=""> Decliners </a></li>
 	</ul>
-</div>		<div class="span-285 tabs_data" id="t1892_data" style="height:155px">
+</div>		<div class="span-285 tabs_data" id="t1984_data" style="height:155px">
 				<div class="moduletable">
 					<div id="khi_result_278" class="khistocks">
 <iframe id="blockrandom" name="khi_result_278" src="http://www.khistocks.com/api/company/status/toptraded/frame.php" width="100%" height="170" scrolling="no" align="top" frameborder="0">
@@ -892,7 +896,7 @@ $11.433 bln
 		</div>
 		</div>
 	</div>
-<script language="javascript">add2start("jQuery('ul#t1892_ul li a').click(function(){var ID = jQuery(this).attr('data-tag');jQuery('ul#t1892_ul li a').removeClass('selected');jQuery(this).addClass('selected');jQuery('#t1892_data').load('index.php?option=com_ajax&d=20130602122112&mod='+ID);return false;});");</script></div>
+<script language="javascript">add2start("jQuery('ul#t1984_ul li a').click(function(){var ID = jQuery(this).attr('data-tag');jQuery('ul#t1984_ul li a').removeClass('selected');jQuery(this).addClass('selected');jQuery('#t1984_data').load('index.php?option=com_ajax&d=20131014075940&mod='+ID);return false;});");</script></div>
 </td></tr>
 						</tbody></table>
 					</div>
@@ -921,7 +925,7 @@ $11.433 bln
 					</ul>
 				</div>
 			</div>
-			<div class="span-960">
+			<!--div class="span-960">
 				<div class="span-46"><h3 class="heading_three"><a href="http://www.aaj.tv/">AAJ TV</a>:</h3>
 				</div>
 				<div class="span-914">
@@ -955,7 +959,7 @@ $11.433 bln
 						<li><a href="http://www.playtv.com.pk/videos.html">Videos</a></li>
 					</ul>
 				</div>
-			</div>
+			</div-->
 			<hr class="space">
 			<div class="span-960">			
 				<ul class="center">
@@ -988,9 +992,9 @@ $11.433 bln
 		<div class="span-20">&nbsp;</div>	
 	</div>
 </div><!-- site_footer --></div><!-- container -->
-<script type="text/javascript" src="/templates/classic/js/jquery.bxSlider.js?d=122112"></script>
-<script type="text/javascript" src="/templates/classic/js/scripts.js?ver=122112"></script>
-<script type="text/javascript" src="/templates/classic/js/jquery.effects.core.js?ver=122112"></script>
+<script type="text/javascript" src="/templates/classic/js/jquery.bxSlider.js?d=075940"></script>
+<script type="text/javascript" src="/templates/classic/js/scripts.js?ver=075940"></script>
+<script type="text/javascript" src="/templates/classic/js/jquery.effects.core.js?ver=075940"></script>
 <script type="text/javascript">
 function loadAutoScript(){_script.run();}
 try{
@@ -1010,11 +1014,6 @@ function owc(u){
 
 
 
-<script type="text/javascript">// <![CDATA[
-_qoptions={qacct:"p-00CIaxHvu6SBk"};
-// ]]></script>
-<script src="http://edge.quantserve.com/quant.js" type="text/javascript"></script>
-
 <script language="javascript" type="text/javascript">
 var _gaq = _gaq || [];_gaq.push(['_setAccount', 'UA-479483-1']);_gaq.push(['_setDomainName', '.brecorder.com']);_gaq.push(['_trackPageview']);
 (function() {var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);})();
@@ -1030,11 +1029,6 @@ var _gaq = _gaq || [];_gaq.push(['_setAccount', 'UA-479483-1']);_gaq.push(['_set
 <noscript>
 	<img src="//pk.effectivemeasure.net/em_image" alt="" style="position:absolute; left:-5px;" />
 </noscript>
-<script language="javascript" type="text/javascript">
-	function androApp(){
-		window.open("http://www.brecorder.com/android.php?dt=20130602122112","x","height=550,width=330,left=1,location=0,menubar=0,resizable=0,scrollbars=0,titlebar=0,toolbar=0");
-	}
-	
-</script>
+
 
 </div></body></html>
