@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the funnyordie.com privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621031233id_/http%3A//www.funnyordie.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the funnyordie.com privacy policy that was archived on 2013-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131014190709id_/http%3A//www.funnyordie.com/about/privacy) for the most accurate reproduction.*
 
 # Funny or Die Privacy Notice
 
@@ -101,9 +101,7 @@ This Privacy Notice may be revised periodically and this will be reflected by th
 For revisions to this Privacy Notice that may be materially less restrictive on our use or disclosure of the personal information you have already provided to us, we will attempt to obtain your consent before implementing such revisions with respect to such information.
 
 **Date Last Modified:**  
-This Privacy Notice was last modified April 11, 2007.
+This Privacy Notice was last modified July 30, 2010.
 
 **Contact Information:**  
 Please contact Funny or Die with any questions or comments about this Privacy Notice at [privacy@funnyordie.com](mailto:privacy@funnyordie.com).
-
-Copyright © 2013 Funny or Die Inc. All rights reserved. Part of the Turner Entertainment Digital Network. 
