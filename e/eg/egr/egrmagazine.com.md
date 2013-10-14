@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the egrmagazine.com privacy policy that was archived on 2013-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130605231232id_/http%3A//www.egrmagazine.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the egrmagazine.com privacy policy that was archived on 2013-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131014060942id_/http%3A//www.egrmagazine.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy - EGR Magazine
 
 **Information collection and use**  
-We collect information from our users at several different points on the website - this is for subscriptions, customer service and billing purposes, we also collect data from our users so that we can customise the site according to individual selections. [Pageant Media Limited](http://www.pageantmedia.com/) is the sole owner of the personal information collected from this site.
+We collect information from our users at several different points on the website - this is for subscriptions, customer service and billing purposes, we also collect data from our users so that we can customise the site according to individual selections. [Pageant Gaming Media Limited](http://www.pageantgamingmedia.com/) is the sole owner of the personal information collected from this site.
 
 **Registration**  
 In order to receive our daily snapshot e-newsletters, users have to complete a registration form. During registration a user is required to give contact information (such as name and e-mail address). This information is used to contact the user about the services on our site for which they have expressed interest. It is optional for the user to provide demographic information (such as business sector), and unique identifiers, but encouraged so we can provide a more personalised experience.
@@ -18,7 +18,7 @@ A cookie is a small text file written to a user’s hard drive that contains the
 We use IP addresses to analyse trends, administer the site, track user’s movement, and gather broad demographic information for aggregate use.
 
 **Links**  
-This website contains links to other sites. Please be aware that [Pageant Media Limited](http://www.pageantmedia.com/) is not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of these third party sites. This privacy statement applies solely to information collected by this website.
+This website contains links to other sites. Please be aware that [Pageant Gaming Media Limited](http://www.pageantmedia.com/)[ ](http://www.pageantgamingmedia.com/)is not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of these third party sites. This privacy statement applies solely to information collected by this website.
 
 **Surveys/ Polls**  
 From time-to-time our site requests information from users via surveys or polls. Participation in these surveys is completely voluntary and the user therefore has a choice whether or not to disclose any information requested. Information requested may include contact information (such as name and delivery address), and demographic information (such as business sector). Contact information may be used to notify participants survey/ poll results or in the case of a competition, to notify winners and award prizes.
