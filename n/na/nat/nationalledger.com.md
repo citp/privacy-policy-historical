@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nationalledger.com privacy policy that was archived on 2013-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130511190008id_/http%3A//www.nationalledger.com/about/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nationalledger.com privacy policy that was archived on 2013-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131014032152id_/http%3A//www.nationalledger.com/about/privacy.shtml) for the most accurate reproduction.*
 
 # Privacy Policy - National Ledger
 
@@ -38,7 +38,7 @@ By using The National Ledger sites and services, you signify your acceptance of 
 
 **Contact:**
 
-Direct any questions to us [via e-mail](https://web.archive.org/web/20130511190008id_/http%3A//www.nationalledger.com/about/contact.shtml).
+Direct any questions to us [via e-mail](https://web.archive.org/web/20131014032152id_/http%3A//www.nationalledger.com/about/contact.shtml).
 
 _Or mail us at:_
 
