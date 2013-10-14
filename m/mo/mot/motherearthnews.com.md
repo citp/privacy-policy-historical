@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the motherearthnews.com privacy policy that was archived on 2013-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130628112559id_/http%3A//www.motherearthnews.com/help/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the motherearthnews.com privacy policy that was archived on 2013-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131015001636id_/http%3A//www.motherearthnews.com/help/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -60,7 +60,7 @@ We use third-party advertising companies to serve ads when you visit our website
 
 If you prefer not to receive traditional mail or other off-line promotions from this or any other Ogden Publications property or any companies not owned by Ogden Publications please call 800-678-5779.
 
-If you prefer not to receive e-mail marketing from this or any other Ogden Publications property or any companies not owned by Ogden Publications, please email use at [cs@ogdenpubs.com](mailto:cs@ogdenpubs.com).
+If you prefer not to receive e-mail marketing from this or any other Ogden Publications property or any companies not owned by Ogden Publications, please email us at [cs@ogdenpubs.com](mailto:cs@ogdenpubs.com).
 
 Ogden Publications' sites will not use or transfer personally identifiable information provided to us in ways unrelated to the ones described above without also providing you with an opportunity to opt out of these unrelated uses.
 
