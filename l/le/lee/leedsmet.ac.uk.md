@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the leedsmet.ac.uk privacy policy that was archived on 2013-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130424021809id_/http%3A//www.leedsmet.ac.uk/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leedsmet.ac.uk privacy policy that was archived on 2013-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131014162832id_/http%3A//www.leedsmet.ac.uk/privacy.htm) for the most accurate reproduction.*
 
 # Privacy
 
