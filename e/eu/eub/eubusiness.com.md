@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the eubusiness.com privacy policy that was archived on 2013-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130517223608id_/http%3A//www.eubusiness.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eubusiness.com privacy policy that was archived on 2013-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131014183649id_/http%3A//www.eubusiness.com/privacy) for the most accurate reproduction.*
 
-# Privacy Statement — EU - European Union business news - EUbusiness.com
+# Privacy Statement — EUbusiness
 
 **Privacy policy updated 2012:**  
 In line with[ EU Directive 2002/58 on Privacy and Electronic Communications](http://www.eubusiness.com/topics/internet/e-privacy-directive), known as the E-Privacy Directive, we have updated this policy with new information on the cookies this website collects and uses.
