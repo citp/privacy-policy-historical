@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the airnow.gov privacy policy that was archived on 2013-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130625030631id_/http%3A//www.epa.gov/epafiles/usenotice.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the airnow.gov privacy policy that was archived on 2013-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131014044305id_/http%3A//www.epa.gov/epafiles/usenotice.htm) for the most accurate reproduction.*
 
 # Privacy and Security Notice | Web Guide | US EPA
 
