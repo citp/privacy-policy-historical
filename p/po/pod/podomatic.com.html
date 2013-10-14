@@ -1,23 +1,24 @@
-<!--The following is the downloaded HTML source of the podomatic.com privacy policy that was archived on 2013-04-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130424135645id_/http%3A//www.podomatic.com/about/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the podomatic.com privacy policy that was archived on 2013-10-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131014073916id_/http%3A//www.podomatic.com/about/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"><html xmlns:fb="https://www.facebook.com/2008/fbml" xmlns:og="http://ogp.me/ns#" xmlns="http://www.w3.org/1999/xhtml"><head><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script type="text/javascript">var NREUMQ=NREUMQ||[];NREUMQ.push(["mark","firstbyte",new Date().getTime()]);</script>
 <title>PodOmatic | Best Free Podcasts</title>
 <meta content="Best mixes on planet Earth. DJs, radio, performing artists, educators, and more. Get a free podcast, share your faves. Only on PodOmatic." name="DESCRIPTION">
 <meta content="podcast,podcasts,podcasting,free,how to,weekly,daily,live,subscribe,best,itunes,audio,music,education,house,religious,talk,politics,comedy,radio,sports,news" name="KEYWORDS">
+<meta content="app-id=648258566" name="apple-itunes-app">
 <meta name="csrf-param" content="authenticity_token">
-<meta name="csrf-token" content="SQWZLUwr4eoZzkyjI9yflNnriT/p8UnQyjnVmaDxoCg=">
+<meta name="csrf-token" content="VzyHKI2jfdo5fm1cJH6u434Dh7wGPlWCcqsh1EMo4Zw=">
 <link href="/images/PodOcon.ico" rel="shortcut icon" title="favicon" type="image/x-icon"><link href="/images/PodOcon.png" rel="icon" title="favicon" type="image/png">
 
-<link href="http://assets.podomatic.net/stylesheets/compiled/about.css?1363194956" media="screen, projection" rel="stylesheet" type="text/css">
-<link href="http://assets.podomatic.net/stylesheets/compiled/print.css?1363195058" media="print" rel="stylesheet" type="text/css">
+<link href="http://assets.podomatic.net/stylesheets/compiled/about.css?1373560651" media="screen, projection" rel="stylesheet" type="text/css">
+<link href="http://assets.podomatic.net/stylesheets/compiled/print.css?1373560752" media="print" rel="stylesheet" type="text/css">
 <!--[if lt IE 8]>
-<link href="http://assets.podomatic.net/stylesheets/compiled/ie.css?1363195007" media="screen, projection" rel="stylesheet" type="text/css" />
+<link href="http://assets.podomatic.net/stylesheets/compiled/ie.css?1373560700" media="screen, projection" rel="stylesheet" type="text/css" />
 <![endif]-->
 <script src="http://assets.podomatic.net/javascripts/jquery-tools-min-127.js?1363194937" type="text/javascript"></script>
 <script src="http://assets.podomatic.net/javascripts/jquery-validate-pack.js?1363194937" type="text/javascript"></script>
 <script src="http://assets.podomatic.net/javascripts/prototype.js?1363194937" type="text/javascript"></script>
-<script src="http://assets.podomatic.net/javascripts/main.js?1363194937" type="text/javascript"></script>
+<script src="http://assets.podomatic.net/javascripts/main.js?1363816589" type="text/javascript"></script>
 <script src="http://assets.podomatic.net/javascripts/podomatic.js?1363194937" type="text/javascript"></script>
 <script src="http://assets.podomatic.net/javascripts/dropdown.js?1363194937" type="text/javascript"></script>
 <script src="http://assets.podomatic.net/javascripts/effects.js?1363194937" type="text/javascript"></script>
@@ -73,33 +74,19 @@ googletag.enableServices();
 <script type="text/javascript">
   //<![CDATA[
     jQuery(document).ready(function() {
-      $('site-area').innerHTML='';
-      var podo_logo = '/mymedia/thumb/15/0x0_2736143.gif';
-      jQuery('#logo')[0].src=podo_logo;
+      if (typeof jQuery('site-area') != "undefined") {
+        jQuery('site-area').innerHTML='';
+      }
+      var podo_logo = 'http://assets.podomatic.net/mymedia/thumb/3542/0x0_7044476.gif';
+      if (typeof jQuery('#logo')[0] != "undefined") {
+        jQuery('#logo')[0].src=podo_logo;
+      }
       });
   //]]>
 </script>
 
 <style media="screen, projection" type="text/css">
-body.bp {
-  background-image: url('/mymedia/thumb/15/0x0_2599214.jpg');
-  background-color: #ffffff; }
-
-#site-area {
-  color: #000000; }
-
-.ctitle {
-  background-color: #edf1fc;
-  height: 30px;
-  color: #000000; }
-
-.ccontent {
-  background-color: #ffffff;
-  color: #000000; }
-
-#dir-bbox {
-  background-color: #d6eaf5;
-  background-image: none; }
+body.bp{background-image:url("http://assets.podomatic.net/mymedia/thumb/3542/0x0_7044475.jpg");background-color:#fff}#site-area{color:#000}.ctitle{background-color:#edf1fc;height:30px;color:#000}.ccontent{background-color:#fff;color:#000}#dir-bbox{background-color:#d6eaf5;background-image:none}
 
 </style>
 <style id="extracss" media="screen, projection" type="text/css">
@@ -113,6 +100,49 @@ body.bp {
 </head>
 
 <body class="bp" id="index" onload="" onresize="" onunload="">
+<div id="fb-root"></div>
+<script type="text/javascript">
+  //<![CDATA[
+    var fb_id = null;
+    var accessToken = null;
+    var fb_connected = -1 ;
+    jQuery(document).ready(function() {
+      jQuery.ajaxSetup({ cache: true} );
+      jQuery.getScript('//connect.facebook.net/en_US/all.js', function(){
+        FB.init({
+          appId      : '216756441679292',
+          channelUrl : '//www.podOmatic.com/channel.html',
+          status     : true,
+          cookie     : true,
+          xfbml      : true 
+        });
+        FB.getLoginStatus(function(response){
+          if (response.status === 'connected'){
+            fb_id = response.authResponse.userID;
+            accessToken = response.authResponse.accessToken;
+            fb_connected = true;
+            fblogin_link = jQuery('#fblogin-link');
+            if (fblogin_link.length > 0) {
+              fblogin_link.show();
+            }
+          } else if (response.status === 'not_authorized') {
+            fb_id = null;
+            accessToken = null;
+            fb_connected = false;
+            fb_nav = jQuery('#fb-nav');
+            if (fb_nav.length > 0) {
+              fb_nav.show();
+            }
+          } else {
+            fb_connected = null; 
+          }
+        });
+      });
+    });
+  //]]>
+</script>
+
+
 <div class="container">
 <div id="header">
 <div id="site-greeting">
@@ -126,7 +156,7 @@ body.bp {
   //<![CDATA[
     
     if (loggedIn()) {
-        $('site-actions').innerHTML= '<li>Welcome, ' + getName() + '</li><li><a href="http://www.podOmatic.com/mail">Mail</a></li><li><a href="https://www.podOmatic.com/user/show">My Account</a></li><li><a href="http://www.podOmatic.com/path/logout">Log Out</a></li><li><a href="http://www.podOmatic.com/help/articles">Help</a></li>' ; 
+        $('site-actions').innerHTML= '<li>Welcome, ' + getName() + '</li><li><a href="https://www.podOmatic.com/user/show">My Account</a></li><li><a href="http://www.podOmatic.com/path/logout">Log Out</a></li><li><a href="http://www.podOmatic.com/help/articles">Help</a></li>' ; 
     }     else {
         $('site-actions').innerHTML= '<li><a href="http://www.podOmatic.com/path/signup">Sign Up</a></li><li><a href="http://www.podOmatic.com/login">Log In</a></li><li><a href="/help/articles">Help</a></li>' ; 
     }
@@ -563,7 +593,7 @@ body.bp {
 <li>
 <a href="http://uploads.podOmatic.com/minicast/publish">Make a Minicast&nbsp;<img src="/images/beta_str.png" width="18" height="7" alt="beta" style="display:inline;vertical-align:middle"></a>
 <ul class="level2">
-<li class="no_kids"><a href="http://givingpsychologyaway.podomatic.com/help/article/62">What's a Minicast?</a></li>
+<li class="no_kids"><a href="http://www.podomatic.com/help/article/62">What's a Minicast?</a></li>
 </ul>
 </li>
 <li id="gopro-nav" style="display:auto"><a href="http://www.podOmatic.com/account/gopro/nav">Go&nbsp;<img src="/images/pro/pro_28x15.gif" width="28" height="15" class="pro-28x15" alt="Pro"></a></li>
@@ -741,12 +771,12 @@ NREUMQ.push(["load",new Date().getTime()]);
 var e=document.createElement("script");
 e.type="text/javascript";
 e.src=(("http:"===document.location.protocol)?"http:":"https:") + "//" +
-  "d1ros97qkrwjf5.cloudfront.net/42/eum/rum.js";
+  "js-agent.newrelic.com/nr-100.js";
 document.body.appendChild(e);
 if(NREUMQ.a)NREUMQ.a();
 };
 NREUMQ.a=window.onload;window.onload=NREUMQ.f;
 };
-NREUMQ.push(["nrfj","beacon-1.newrelic.com","ca48346479",438624,"cAsMTBMOWVQAExdSUVwRFhcRE1xOBAJB",0,54,new Date().getTime(),"","","","",""]);</script>
+NREUMQ.push(["nrfj","beacon-6.newrelic.com","ca48346479",438624,"cAsMTBMOWVQAExdSUVwRFhcRE1xOBAJB",0,41,new Date().getTime(),"","","","",""]);</script>
 
-<script type="text/javascript" src="https://d1ros97qkrwjf5.cloudfront.net/42/eum/rum.js"></script></body></html>
+<script type="text/javascript" src="https://js-agent.newrelic.com/nr-100.js"></script></body></html>
