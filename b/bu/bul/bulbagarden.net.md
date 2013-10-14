@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bulbagarden.net privacy policy that was archived on 2013-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130622045259id_/http%3A//bulbapedia.bulbagarden.net/wiki/Bulbapedia%3APrivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bulbagarden.net privacy policy that was archived on 2013-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131014090537id_/http%3A//bulbapedia.bulbagarden.net/wiki/Bulbapedia%3APrivacy_policy) for the most accurate reproduction.*
 
 # Bulbapedia:Privacy policy - Bulbapedia, the community-driven Pokémon encyclopedia
 
