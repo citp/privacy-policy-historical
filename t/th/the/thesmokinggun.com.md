@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thesmokinggun.com privacy policy that was archived on 2013-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130513205456id_/http%3A//www.thesmokinggun.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thesmokinggun.com privacy policy that was archived on 2013-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131014041515id_/http%3A//www.thesmokinggun.com/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement | The Smoking Gun
 
