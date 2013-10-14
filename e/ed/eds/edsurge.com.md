@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the edsurge.com privacy policy that was archived on 2013-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130425130624id_/https%3A//www.edsurge.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edsurge.com privacy policy that was archived on 2013-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131014223803id_/https%3A//www.edsurge.com/privacy_policy) for the most accurate reproduction.*
 
 # EdSurge Privacy Policy
 
