@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 49ers.com privacy policy that was archived on 2013-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130424122321id_/http%3A//www.49ers.com/about-us/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 49ers.com privacy policy that was archived on 2013-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131015013954id_/http%3A//www.49ers.com/about-us/privacy-policy.html) for the most accurate reproduction.*
 
 # 49ers.com | Privacy Policy
 
