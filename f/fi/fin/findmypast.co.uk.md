@@ -1,50 +1,6 @@
-> *The following text is extracted and transformed from the findmypast.co.uk privacy policy that was archived on 2013-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130622120946id_/http%3A//www.findmypast.co.uk/content/using-the-site/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the findmypast.co.uk privacy policy that was archived on 2013-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131014124754id_/http%3A//www.findmypast.co.uk/content/using-the-site/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | Findmypast.co.uk
-
-We use cookies to give you the best possible experience on our site. By continuing to use the site you agree to our use of cookies. Find out more 
-
-[](https://web.archive.org/ "back to homepage")
-
-  * [Subscribe](https://web.archive.org/select-package.jsp)
-  * [Register / Sign in](https://web.archive.org/signin.action)
-
-
-
-  * [Home](https://web.archive.org/)
-  * [My family tree](https://web.archive.org/family-tree)
-  * Search records
-    * [Search all records](https://web.archive.org/search/all-records)
-    * [Birth, marriage, death & parish records](https://web.archive.org/content/search-menu/life-events-bmds)
-    * [Census, land & surveys](https://web.archive.org/content/search-menu/census-land-and-surveys)
-    * [Education & work](https://web.archive.org/content/search-menu/education-and-work)
-    * [Institutions & organisations](https://web.archive.org/content/search-menu/institutions-and-organisations)
-    * [Military, armed forces & conflict](https://web.archive.org/content/search-menu/armed-forces-and-conflict)
-    * [Newspapers, directories & social history](https://web.archive.org/content/search-menu/newspapers-directories-social%20history)
-    * [Special collections](https://web.archive.org/content/search-menu/special-collections)
-    * [Travel & migration](https://web.archive.org/content/search-menu/travel-and-migration)
-  * [My saved records](https://web.archive.org/tools/saved-records/)
-  * News
-    * [Blog](https://web.archive.org/blog)
-    * [News](https://web.archive.org/content/news/2013)
-  * Help & advice
-    * [Getting started](https://web.archive.org/help-and-advice/getting-started/interested-family-history)
-    * [Site tour](https://web.archive.org/help-and-advice/site-tour/viewing-records)
-    * [International records](https://web.archive.org/help-and-advice/international-records/australia-new-zealand-records)
-    * [Knowledge base](https://web.archive.org/help-and-advice/knowledge-base/births-marriages-deaths/index)
-    * [Frequently asked questions](https://web.archive.org/help-and-advice/faqs/my-account)
-  * [My account](https://web.archive.org/myAccount.action)
-
-
-
-  * Using the site
-    * [Terms & Conditions](https://web.archive.org/content/using-the-site/terms-and-conditions)
-    * [Privacy Policy](https://web.archive.org/content/using-the-site/privacy-policy)
-    * [Sitemap](https://web.archive.org/content/using-the-site/sitemap)
-    * [Get help](https://web.archive.org/content/using-the-site/help-and-advice)
-    * [Contact us](https://web.archive.org/content/contact-us)
-
-
 
 This Privacy Policy applies to bright **solid** Online Publishing Limited trading as findmypast (Company Registration No. 04369607), a company registered in England and Wales and the operator of the findmypast.co.uk website. It explains how we use information that you provide us with or that we collect about you when you use the website and how we make sure it is stored and managed safely and legally.
 
