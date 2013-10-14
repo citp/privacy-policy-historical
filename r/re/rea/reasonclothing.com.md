@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the reasonclothing.com privacy policy that was archived on 2013-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130615002212id_/http%3A//www.reasonclothing.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reasonclothing.com privacy policy that was archived on 2013-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131014084005id_/http%3A//www.reasonclothing.com/privacy) for the most accurate reproduction.*
 
 # Reason Clothing
 
