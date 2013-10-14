@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ofsted.gov.uk privacy policy that was archived on 2013-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130629002317id_/http%3A//www.ofsted.gov.uk/terms-of-use/privacy-statement-and-cookie-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ofsted.gov.uk privacy policy that was archived on 2013-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131014203006id_/http%3A//www.ofsted.gov.uk/terms-of-use/privacy-statement-and-cookie-policy) for the most accurate reproduction.*
 
 # Ofsted | Privacy statement and cookie policy
 
