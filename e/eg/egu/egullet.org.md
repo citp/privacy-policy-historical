@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the egullet.org privacy policy that was archived on 2013-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130509080822id_/http%3A//forums.egullet.org/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the egullet.org privacy policy that was archived on 2013-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131014212016id_/http%3A//forums.egullet.org/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy - eGullet Forums
 
 ### Welcome to the eGullet Forums! 
 
-These forums are a service of the Society for Culinary Arts & Letters, a 501c3 nonprofit organization dedicated to advancement of the culinary arts. Anyone can read the forums, however if you would like to participate in active discussions please [join the Society](http://forums.egullet.org/index.php?app=core&module=global&section=register). 
+These forums are a service of the Society for Culinary Arts & Letters, a 501c3 nonprofit organization dedicated to advancement of the culinary arts. Anyone can read the forums, however if you would like to participate in active discussions please [join the Society](http://forums.egullet.org/index.php?app=core&module=global&section=register).
 
   
 
@@ -70,6 +70,6 @@ _This policy, which is incorporated by reference in the Society for Culinary Art
 
   1.  
   2. [Privacy Policy](http://forums.egullet.org/privacypolicy/)
-  3. [Society Member Agreement](http://forums.egullet.org/index.php/topic/31620-society-member-agreement/) · 
+  3. [Society Member Agreement](http://forums.egullet.org/index.php/topic/31620-society-member-agreement/ "Society Member Agreement") · 
 
 
