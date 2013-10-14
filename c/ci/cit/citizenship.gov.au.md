@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the citizenship.gov.au privacy policy that was archived on 2013-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130524041225id_/http%3A//www.immi.gov.au/functional/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the citizenship.gov.au privacy policy that was archived on 2013-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131014144733id_/http%3A//www.immi.gov.au/functional/privacy.htm) for the most accurate reproduction.*
 
 # Privacy
 
@@ -9,7 +9,7 @@
 
 The _Privacy Act 1988_ defines personal information as 'information or an opinion (including information or an opinion forming part of a database), whether true or not, and whether recorded in a material form or not, about an individual whose identity is apparent, or can reasonably be ascertained, from the information or opinion'.
 
-This website is managed by the Department of Immigration and Citizenship (DIAC). We take seriously our obligation to protect your privacy.
+This website is managed by the Department of Immigration and Border Protection (DIBP). We take seriously our obligation to protect your privacy.
 
 The _Privacy Act 1988_ is the key law designed to protect your rights and prevent misuse of personal information collected by government agencies such as this department. 
 
