@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the privateindianporno.com privacy policy that was archived on 2013-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130618000208id_/http%3A//www.loungesupport.com/docks/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the privateindianporno.com privacy policy that was archived on 2013-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131015000423id_/http%3A//www.loungesupport.com/docks/privacypolicy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
