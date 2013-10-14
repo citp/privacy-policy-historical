@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the whatsonxiamen.com privacy policy that was archived on 2013-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130607011723id_/http%3A//www.whatsonxiamen.com/policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whatsonxiamen.com privacy policy that was archived on 2013-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131014074254id_/http%3A//www.whatsonxiamen.com/policy.php) for the most accurate reproduction.*
 
 # Policy -- what's on xiamen
 
