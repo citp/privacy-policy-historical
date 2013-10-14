@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the reebonz.com.sg privacy policy that was archived on 2013-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130508191124id_/http%3A//www.reebonz.com.sg/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reebonz.com.sg privacy policy that was archived on 2013-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131014072332id_/http%3A//www.reebonz.com.sg/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Reebonz - Unveil The Surprise
 
