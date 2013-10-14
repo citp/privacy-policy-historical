@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tvtraxx.com privacy policy that was archived on 2013-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130614204917id_/http%3A//www.tvtraxx.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tvtraxx.com privacy policy that was archived on 2013-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131014114809id_/http%3A//www.tvtraxx.com/privacy) for the most accurate reproduction.*
 
 # Privacy | TVTraxx
 
