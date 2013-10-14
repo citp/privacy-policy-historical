@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seahawks.com privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530125125id_/http%3A//www.seahawks.com/about/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seahawks.com privacy policy that was archived on 2013-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131014025447id_/http%3A//www.seahawks.com/about/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -12,19 +12,19 @@ When this privacy policy uses the term "personally identifiable information" or 
 
 Please read the information below to learn more about our data collection policies and practices.
 
-  1. Types Of Information That May Be Collected
-  2. How Information May Be Collected
-  3. How We Use The Information Collected
-  4. With Whom The Information May Be Shared
-  5. Chat Rooms, Forums, And Message Boards
-  6. Links To Other Websites
-  7. A Special Note For Parents Concerning Privacy
-  8. Security
-  9. Notification Of Changes And Your Acceptance Of The Privacy Policy
-  10. Correcting/Updating Personal Information
-  11. Data Retention
-  12. Your California Privacy Rights
-  13. Questions About This Privacy Policy
+  1. [Types Of Information That May Be Collected](http://www.seahawks.com/about/privacy-policy.html#types)
+  2. [How Information May Be Collected](http://www.seahawks.com/about/privacy-policy.html#howcollected)
+  3. [How We Use The Information Collected](http://www.seahawks.com/about/privacy-policy.html#howweuse)
+  4. [With Whom The Information May Be Shared](http://www.seahawks.com/about/privacy-policy.html#whowesharewith)
+  5. [Chat Rooms, Forums, And Message Boards](http://www.seahawks.com/about/privacy-policy.html#chatrooms)
+  6. [Links To Other Websites](http://www.seahawks.com/about/privacy-policy.html#linkstoother)
+  7. [A Special Note For Parents Concerning Privacy](http://www.seahawks.com/about/privacy-policy.html#parents)
+  8. [Security](http://www.seahawks.com/about/privacy-policy.html#security)
+  9. [Notification Of Changes And Your Acceptance Of The Privacy Policy](http://www.seahawks.com/about/privacy-policy.html#acceptance)
+  10. [Correcting/Updating Personal Information](http://www.seahawks.com/about/privacy-policy.html#correcting)
+  11. [Data Retention](http://www.seahawks.com/about/privacy-policy.html#dataretention)
+  12. [Your California Privacy Rights](http://www.seahawks.com/about/privacy-policy.html#california)
+  13. [Questions About This Privacy Policy](http://www.seahawks.com/about/privacy-policy.html#questions)
 
 
 
