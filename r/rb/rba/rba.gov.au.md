@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rba.gov.au privacy policy that was archived on 2013-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130504230904id_/http%3A//www.rba.gov.au/privacy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rba.gov.au privacy policy that was archived on 2013-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131014194020id_/http%3A//www.rba.gov.au/privacy/index.html) for the most accurate reproduction.*
 
 # RBA: Privacy Statement
 
@@ -58,23 +58,22 @@ Personal details provided for the purpose of our e-mail service are stored on a 
 
 #### Job Applications
 
-Please do not submit your personal information if you do not want your information to be dealt with in the ways described in this statement.  
+Please do not submit your personal information if you do not want your information to be dealt with in the ways described in this statement. 
 
+By submitting an application or registering interest in employment with the Reserve Bank of Australia, you will supply us with personal information, including application data and contact details (‘your information’). 
 
-By submitting an application or registering interest in employment with the Reserve Bank of Australia, you will supply us with personal information, including application data and contact details (‘your information’).
-
-Once submitted, your personal information will be stored on a separate server owned and managed by our recruitment application service provider PageUp. Your personal information can only be accessed by authorised staff at PageUp and Reserve Bank of Australia.
+Once submitted, your personal information will be stored on a separate server owned and managed by our recruitment application service provider PageUp People. Your personal information can only be accessed by authorised staff at PageUp People and Reserve Bank of Australia. 
 
 Once submitted, Reserve Bank of Australia staff will use the information you have provided to: 
 
   * assess and administer your application for employment; 
-  * communicate with you in relation to your application;
-  * comply with any legal or regulatory obligations; and
+  * communicate with you in relation to your application; 
+  * comply with any legal or regulatory obligations; and 
   * monitor and review our recruitment practices. 
 
 
 
-If your application is unsuccessful, the Reserve Bank of Australia may retain your information on file and may contact you if a suitable employment opportunity arises. Please contact us if you do not wish the Reserve Bank of Australia to retain your information on file. If your application is successful, the Reserve Bank of Australia will retain your information as part of your employment records.
+If your application is unsuccessful, the Reserve Bank of Australia may retain your information on file and may contact you if a suitable employment opportunity arises. Please contact us if you do not wish the Reserve Bank of Australia to retain your information on file. If your application is successful, the Reserve Bank of Australia will retain your information as part of your employment records. 
 
 You may request access to your information (and for amendments to be made to your information) at any time by contacting us at [careers@rba.gov.au](mailto:careers@rba.gov.au)  
 
@@ -85,7 +84,7 @@ Search terms and phrases that you use to reach our website, including those used
 
 #### Cookies
 
-The Reserve Bank does not use 'cookies' to get information about you or your use of our website. A 'cookie' is a file that could be placed on your hard drive by a website without your knowledge to allow it to monitor how the site is used. 
+The Reserve Bank does not use ‘cookies’ to get information about you or your use of our website. A ‘cookie’ is a file that could be placed on your hard drive by a website without your knowledge to allow it to monitor how the site is used. 
 
 Any changes to our ‘cookies’ policy will be notified on this page. 
 
@@ -135,7 +134,7 @@ AUSTRALIA
 
 Your personal information will only be used for the purpose for which you provide it, and will not be added to a mailing list or provided to a third party unless you request that this be done. We will not disclose your personal information without your consent except where required or authorised by law or when authorised by Reserve Bank management in connection with investigations into possible breaches of the law. 
 
-As part of the Reserve Bank’s commitment to meeting the needs of the public for information about its policies and operations, the Reserve Bank may occasionally conduct non-compulsory surveys of users of Reserve Bank information. Prior to collecting survey results, the Reserve Bank will: 
+As part of the Reserve Bank's commitment to meeting the needs of the public for information about its policies and operations, the Reserve Bank may occasionally conduct non-compulsory surveys of users of Reserve Bank information. Prior to collecting survey results, the Reserve Bank will: 
 
   * advise survey recipients of the purpose of the survey; and 
   * offer recipients a facility to exit the survey at any time. 
@@ -144,7 +143,7 @@ As part of the Reserve Bank’s commitment to meeting the needs of the public fo
 
 ### Complaints and Enquiries
 
-If you wish to make a complaint or enquire about the Reserve Bank’s privacy policy and practices you can contact our Privacy Officer by: 
+If you wish to make a complaint or enquire about the Reserve Bank's privacy policy and practices you can contact our Privacy Officer by: 
 
 **E-mail** |  [privacy@rba.gov.au](mailto:privacy@rba.gov.au)  
 ---|---  
