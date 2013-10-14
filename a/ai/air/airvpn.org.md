@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the airvpn.org privacy policy that was archived on 2013-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130528144804id_/https%3A//airvpn.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the airvpn.org privacy policy that was archived on 2013-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131014213927id_/https%3A//airvpn.org/privacy) for the most accurate reproduction.*
 
 # Privacy - AirVPN
 
-  1. [ AirVPN ](https://www.airvpn.org/index)
+  1. [ AirVPN ](https://airvpn.org/index)
   2. → Privacy Notice and Terms
 
 
@@ -50,7 +50,7 @@ Responsible of data treatment is:
     ITALY
     
 
-  1. [AirVPN](https://www.airvpn.org/index)
+  1. [AirVPN](https://airvpn.org/index)
   2. → Privacy Notice and Terms
   3. [About us](https://web.archive.org/aboutus/)
   4. [Privacy Notice - ](https://web.archive.org/privacy/)
