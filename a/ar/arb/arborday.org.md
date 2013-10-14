@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the arborday.org privacy policy that was archived on 2013-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130527075745id_/http%3A//www.arborday.org/generalinfo/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arborday.org privacy policy that was archived on 2013-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131014155643id_/http%3A//www.arborday.org/generalinfo/privacy.cfm) for the most accurate reproduction.*
 
 # The Arbor Day Foundation
 
@@ -14,7 +14,7 @@ When you supply a mailing address, we may send you periodic mailings with inform
 
 ### Cookies
 
-Our shopping system uses temporary cookies to enable you to add items to your shopping cart. No personal data is collected through the use of cookies. [More about that.](https://web.archive.org/web/20130527075745id_/http%3A//www.arborday.org/generalinfo/nocookies.cfm)
+Our shopping system uses temporary cookies to enable you to add items to your shopping cart. No personal data is collected through the use of cookies. [More about that.](https://web.archive.org/web/20131014155643id_/http%3A//www.arborday.org/generalinfo/nocookies.cfm)
 
 ### Children
 
@@ -44,7 +44,7 @@ All refunds will be provided as a credit to the credit card used at the time of 
 
 We sometimes use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here.](https://web.archive.org/linkout.cfm?Destination=http://www.google.com/policies/privacy/ads/)
 
-Questions regarding our privacy policy may be [directed to our webmaster](https://web.archive.org/web/20130527075745id_/http%3A//www.arborday.org/generalinfo/index.cfm) or mailed to:
+Questions regarding our privacy policy may be [directed to our webmaster](https://web.archive.org/web/20131014155643id_/http%3A//www.arborday.org/generalinfo/index.cfm) or mailed to:
 
 The Arbor Day Foundation  
 211 North 12th Street  
