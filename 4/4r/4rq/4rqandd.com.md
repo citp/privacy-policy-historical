@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the 4rqandd.com privacy policy that was archived on 2013-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130615031342id_/http%3A//4rqandd.com/privecy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 4rqandd.com privacy policy that was archived on 2013-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131014160502id_/http%3A//4rqandd.com/privecy-policy.php) for the most accurate reproduction.*
 
 # :: Welcome To worldwidesolutionz ::
 
-[Join Us Now](https://web.archive.org/web/20130615031342id_/http%3A//4rqandd.com/join-us.php)  
+[Join Us Now](https://web.archive.org/web/20131014160502id_/http%3A//4rqandd.com/join-us.php)  
 ---  
 Privacy Policy :  
 What information about you do we gather and maintain?  
