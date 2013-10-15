@@ -1,15 +1,15 @@
-> *The following text is extracted and transformed from the currentscience.ac.in privacy policy that was archived on 2013-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130316093655id_/http%3A//www.currentscience.ac.in/php/policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the currentscience.ac.in privacy policy that was archived on 2013-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131016014605id_/http%3A//www.currentscience.ac.in/php/policy.php) for the most accurate reproduction.*
 
 # Current Science
 
 Editorial
 
-Bonds: Chemical, Hydrogen and Others  
-P. Balaram
+Sustainable materials based on aliphatic polyesters: teaching old chemistry some new tricks  
+S. Sivaram
 
-The chemical bond is central to chemistry. The line that connects the symbols for the elements signifies a profound and intimate union of atoms to create molecules. Chemical imagery....
+The power of chemistry was unleashed in the early fifties by the arrival of polymers as a class of new materials with a vibrant industry spawning the manufacture of myriad...
 
-[...read more](https://web.archive.org/web/20130316093655id_/http%3A//www.currentscience.ac.in/Volumes/104/05/0567.pdf)
+[...read more](https://web.archive.org/web/20131016014605id_/http%3A//www.currentscience.ac.in/Volumes/105/07/0879.pdf)
 
 Privacy Policy
 
