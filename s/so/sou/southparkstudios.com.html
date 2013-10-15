@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the southparkstudios.com privacy policy that was archived on 2013-04-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130424052020id_/http%3A//www.southparkstudios.com/about/legal/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the southparkstudios.com privacy policy that was archived on 2013-10-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131015050934id_/http%3A//www.southparkstudios.com/about/legal/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# ">
 		
@@ -79,7 +79,7 @@
 
 
 
-		<script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1&amp;appId=137822872980280"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
+		<script id="twitter-wjs" src="https://platform.twitter.com/widgets.js"></script><script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
 var _gaq = _gaq || [];
 _gaq.push(['_setAccount', 'UA-22979310-1']);
 _gaq.push(['_setDomainName', 'none']);
@@ -95,16 +95,70 @@ _gaq.push(['_trackPageview']);
 
 	</head>
 
-	<body id="legal"><div id="fb-root"></div>
+	<body id="legal" style=""><div id="fb-root"><script src="https://connect.facebook.net/en_US/all.js" async=""></script></div>
 	
 		
-		<script>(function(d, s, id) {
-			  var js, fjs = d.getElementsByTagName(s)[0];
-			  if (d.getElementById(id)) { return; }
-			  js = d.createElement(s); js.id = id;
-			  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=137822872980280";
-			  fjs.parentNode.insertBefore(js, fjs);
-			}(document, 'script', 'facebook-jssdk'));</script>
+		<script>
+		
+		    window.fbAsyncInit = function() {
+          // init the FB JS SDK
+          FB.init({
+            appId      : '',                        // App ID from the app dashboard
+            channelUrl : '//southparkstudios.com/channel.html', // Channel file for x-domain comms
+            status     : true,                                 // Check Facebook Login status
+            xfbml      : true                                  // Look for social plugins on the page
+          });
+      
+          // Additional initialization code such as adding Event Listeners goes here
+          
+          FB.Event.subscribe('edge.create',function(response) {
+            
+            console.log("------------------ Like button clicked, but need to get the url + stuff ------------------------");
+            
+            $.get(response, function(data, textStatus, jqXHR){
+			 			 
+              var titleEm = $(data).filter("title");
+              
+              //console.dir(titleEm);
+              
+              var title = $(titleEm).text();//.replace(' - South Park Studios').trim();
+              
+              var s = {};
+              
+              s.events = 'event9';
+              s.eVar9 = this.url; 
+              s.eVar16 = title;//change to page_name or video title
+              s.eVar19 = 'share_fblike';
+              s.linkName = this.url;
+              s.linkType= 'o';
+              s.pev2 = 'share';
+              
+              console.log("Sending like share to Omniture: ");
+              console.dir(s);
+              
+              mtvn.btg.Controller.sendLinkEvent(s);
+              
+              console.log("Sent omniture data;");
+              
+            });
+          });
+          
+          FB.Event.subscribe('xfbml.render', function(response) {
+            console.log("------------------ Created a Like button... I think ------------------------");
+          });
+          
+        };
+			
+			(function() {
+      	var e = document.createElement('script');
+      	e.src = document.location.protocol + '//connect.facebook.net/en_US/all.js';
+      	e.async = true;
+      	document.getElementById('fb-root').appendChild(e);
+      }());
+		
+		
+		
+		</script>
 		
 		
 			<script type="text/javascript">
@@ -120,16 +174,24 @@ _gaq.push(['_trackPageview']);
 			</script>
 		
 		<script src="http://platform.twitter.com/widgets.js" type="text/javascript"></script>
+		<script type="text/javascript">
+		  window.twttr = (function (d,s,id) {
+        var t, js, fjs = d.getElementsByTagName(s)[0];
+        if (d.getElementById(id)) return; js=d.createElement(s); js.id=id;
+        js.src="https://platform.twitter.com/widgets.js"; fjs.parentNode.insertBefore(js, fjs);
+        return window.twttr || (t = { _e: [], ready: function(f){ t._e.push(f) } });
+      }(document, "script", "twitter-wjs"));
+    </script>
+    
 	
 	
-
 		<div id="wrap">
 
 			<header id="header">
 
 				
 				<div id="logo" data-reportingname="returntohome">
-					<div id="avatar"><a href="/"><img alt="Chef-3 Face" src="http://southparkstudios.mtvnimages.com/shared/rotations/faces/chef-3.png"></a></div>
+					<div id="avatar"><a href="/"><img alt="Kenny-anime Face" src="http://southparkstudios.mtvnimages.com/shared/rotations/faces/kenny-anime.png"></a></div>
                 	<a href="/"><span class="phrase">South Park Studios</span></a>
                 </div>
 
@@ -873,25 +935,27 @@ Copyright © 2011 Viacom Media Networks, a division of Viacom International Inc.
     			<nav id="popular_links" data-reportingname="seofooter">
 			<span>Popular Episodes</span>
 			<ol>
-				<li><a href="http://www.southparkstudios.com/full-episodes/s16e12-a-nightmare-on-face-time">A Nightmare on Face Time</a></li>
-				<li><a href="http://www.southparkstudios.com/full-episodes/s16e14-obama-wins">Obama Wins!</a></li>
-				<li><a href="http://www.southparkstudios.com/full-episodes/s16e01-reverse-cowgirl">Reverse Cowgirl</a></li>
-				<li><a href="http://www.southparkstudios.com/full-episodes/s16e13-a-scause-for-applause">A Scause for Applause</a></li>
+				<li><a href="http://www.southparkstudios.com/full-episodes/s17e03-world-war-zimmerman">World War Zimmerman</a></li>
+				<li><a href="http://www.southparkstudios.com/full-episodes/s17e02-informative-murder-porn">Informative Murder Porn</a></li>
+				<li><a href="http://www.southparkstudios.com/full-episodes/s17e01-let-go-let-gov">Let Go, Let Gov</a></li>
 				<li><a href="http://www.southparkstudios.com/full-episodes/s16e10-insecurity">Insecurity</a></li>
+				<li><a href="http://www.southparkstudios.com/full-episodes/s16e09-raising-the-bar">Raising the Bar</a></li>
 			</ol>
 			<span>Popular Clips</span>
 			<ol>
-				<li><a href="http://www.southparkstudios.com/clips/155193/thanks">Thanks!</a></li>
-				<li><a href="http://www.southparkstudios.com/clips/104441/ho-tel">Ho-Tel</a></li>
-				<li><a href="http://www.southparkstudios.com/clips/104281/come-on-people-now">Come on, People Now</a></li>
+				<li><a href="http://www.southparkstudios.com/clips/48rjoy/cartmans-nightmare">Cartman's Nightmare</a></li>
+				<li><a href="http://www.southparkstudios.com/clips/nojmn4/fist-bump-bro">Fist Bump Bro</a></li>
+				<li><a href="http://www.southparkstudios.com/clips/ryc8ej/teaching-minecraft-to-adults">Teaching MINECRAFT to adults</a></li>
+				<li><a href="http://www.southparkstudios.com/clips/xlhjxs/booo-wendy">BOOO Wendy</a></li>
+				<li><a href="http://www.southparkstudios.com/clips/y2acwe/ill-be-mkay">I'll Be M'kay</a></li>
 			</ol>
 			<span>Popular Characters</span>
 			<ol>
 				<li><a href="http://www.southparkstudios.com/guide/characters/eric-cartman">Eric Cartman</a></li>
-				<li><a href="http://www.southparkstudios.com/guide/characters/lemmiwinks">Lemmiwinks</a></li>
 				<li><a href="http://www.southparkstudios.com/guide/characters/kenny-mccormick">Kenny McCormick</a></li>
 				<li><a href="http://www.southparkstudios.com/guide/characters/leopold-butters-stotch">Leopold "Butters" Stotch</a></li>
-				<li><a href="http://www.southparkstudios.com/guide/characters/kyles-cousin-kyle">Kyle's Cousin Kyle</a></li>
+				<li><a href="http://www.southparkstudios.com/guide/characters/lemmiwinks">Lemmiwinks</a></li>
+				<li><a href="http://www.southparkstudios.com/guide/characters/stan-marsh">Stan Marsh</a></li>
 			</ol>
 		</nav>
 
@@ -917,6 +981,8 @@ Copyright © 2011 Viacom Media Networks, a division of Viacom International Inc.
 									<li><a href="mailto:info@southparkstudios.com">Tech Support</a></li>
 									<li><a href="http://media.viacom.com/accessibility/">Closed Captioning Contact</a></li>
 										
+					<li><a href="javascript:void(0);" onclick="oo_feedback.show()">Feedback</a></li>
+
 		</ul>
         
         <div id="copyright">
@@ -1026,34 +1092,15 @@ mtvn.btg.Controller.placeAd({size: "6x6", isReloadable:false});
       
       
       
+      
+      
    
-
          
       
       
             
             
                   
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -1085,7 +1132,6 @@ mtvn.btg.Controller.placeAd({size: "6x6", isReloadable:false});
                         	
 		
 	
-
                      
                   
                   
@@ -1103,16 +1149,33 @@ mtvn.btg.Controller.placeAd({size: "6x6", isReloadable:false});
                
          
    
-
          
    
-
 				
 		
 	
 
 
 
+
+<!--
+OnlineOpinion v5.7
+Released: 3/6/2013. Compiled 03/06/2013 01:59:16 PM -0600
+Branch: master 8d549bbb6d7ff935b4572cf4e62e305e6cd843d7
+Components: Full
+The following code is Copyright 1998-2013 Opinionlab, Inc.  All rights reserved. Unauthorized use is prohibited. This product and other products of OpinionLab, Inc. are protected by U.S. Patent No. 6606581, 6421724, 6785717 B1 and other patents pending. http://www.opinionlab
+-->
+
+<!-- MAIN OL STYLESHEET -->
+<link rel="stylesheet" type="text/css" href="/onlineopinionV5/oo_style.css">
+<!-- MAIN OL ENGINE -->
+<script language="javascript" type="text/javascript" charset="windows-1252" src="/onlineopinionV5/oo_engine.min.js"></script>
+<!-- FEEDBACK CONFIGURATION -->
+<script language="javascript" type="text/javascript" charset="windows-1252" src="/onlineopinionV5/oo_conf.js"></script><div id="oo_tab" class="oo_tab_right" tabindex="0"><div><span></span></div><div class="screen_reader">Activate to launch comment card</div></div>
+<noscript>This JavaScript enables OnlineOpinion, a method for collecting secure feedback data.</noscript>
+<!-- END: OnlineOpinion v5.7 -->
+
+<!-- Include these files just before the close body </body> tag -->
 
 
 		<!-- PAGEOK -->
