@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nidirect.gov.uk privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601085315id_/http%3A//www.nidirect.gov.uk/index/help/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nidirect.gov.uk privacy policy that was archived on 2013-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131015121934id_/http%3A//www.nidirect.gov.uk/index/help/privacy.htm) for the most accurate reproduction.*
 
 # Your privacy | nidirect
 
@@ -26,7 +26,7 @@ If you email nidirect for advice or information that we are not able to give, yo
 
 Once you have received a reply, we will keep a record of your message for a maximum of three months for reference and audit purposes, after which it will be deleted.
 
-  * Feedback
+  * [Feedback](http://www.nidirect.gov.uk/index/feedback.htm)
 
 
 
@@ -36,8 +36,8 @@ Once you have received a reply, we will keep a record of your message for a maxi
 
 The nidirect site and some of the tools and services we link to use cookies. You can find more information on these cookies on the following nidirect pages:
 
-  * Cookies
-  * How we use cookies
+  * [Cookies](http://www.nidirect.gov.uk/index/help/cookies.htm)
+  * [How we use cookies](http://www.nidirect.gov.uk/index/help/cookies/how-we-use-cookies.htm)
 
 
 
@@ -57,7 +57,7 @@ Where you are directed to the nidirect site from another site (whether a third p
 
 If you wish to see the nidirect records of any email correspondence with you, within the last three months, or if you have a query or complaint about this privacy policy or about the site, you can contact nidirect using this email address.
 
-  * Feedback@nidirect.gov.uk
+  * [Feedback@nidirect.gov.uk](mailto:feedback@nidirect.gov.uk)
 
 
 
