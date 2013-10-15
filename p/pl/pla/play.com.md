@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the play.com privacy policy that was archived on 2013-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130525084231id_/http%3A//www.play.com/Helpdesk/General_questions_about_Play_com/Privacy_Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the play.com privacy policy that was archived on 2013-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131015095613id_/http%3A//www.play.com/Helpdesk/General_questions_about_Play_com/Privacy_Policy.aspx) for the most accurate reproduction.*
 
 # 
 
