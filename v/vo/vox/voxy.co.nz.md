@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the voxy.co.nz privacy policy that was archived on 2013-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130512002456id_/http%3A//www.voxy.co.nz/about-voxy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the voxy.co.nz privacy policy that was archived on 2013-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131015130133id_/http%3A//www.voxy.co.nz/about-voxy) for the most accurate reproduction.*
 
 # About Voxy | Voxy.co.nz
 
@@ -15,9 +15,7 @@ Voxy is owned by Wellington based online publisher Digital Advance Limited, whic
 
 ## **Contact Voxy and Submit News**
 
-To submit news tips please email  **news@fuseworksmedia.com**. For all corrections or suggested changes to content on this site please email **corrections@digitaladvance.co.nz**. 
-
-For website feedback, business development opportunities or advertising enquiries, email  **matt@digitaladvance.co.nz**. 
+To submit news tips please email  **news@fuseworksmedia.com** (NB: **corrections** sent to this address _will not reach_ Voxy editors). For all corrections or suggested changes to content on this site please email **corrections@digitaladvance.co.nz**. 
 
 For other contacts please see the [About page](http://www.digitaladvance.co.nz/about/) of Voxy publisher Digital Advance Limited.
 
