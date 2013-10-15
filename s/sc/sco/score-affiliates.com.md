@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the score-affiliates.com privacy policy that was archived on 2013-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130613100604id_/http%3A//help.ladbrokes.com/display/4/kb/article.aspx%3Faid%3D1120) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the score-affiliates.com privacy policy that was archived on 2013-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131015232728id_/http%3A//help.ladbrokes.com/display/4/kb/article.aspx%3Faid%3D1120) for the most accurate reproduction.*
 
 # LBR Customer KB
 
@@ -32,7 +32,7 @@ Accuracy and access to Information
 
 We may collect and process the following Information about you:
 
-  * Information that you provide by filling in forms on our Websites. This includes Information provided at the time of registering to use our Websites, subscribing to any of our services, posting material or requesting further services. We may also ask you for Information when you enter a competition or promotion, make a customer services enquiry or complaint or when you report a problem with our Websites; 
+  * Information that you provide by filling in forms on our Websites. This includes Information provided at the time of registering to use our Websites, subscribing to any of our services, posting material or requesting further services. We may also ask you for Information when you enter a competition or promotion, make a Customer Support enquiry or complaint or when you report a problem with our Websites; 
   * records of correspondence, if you contact us; 
   * your responses to any surveys we conduct for research purposes, although you do not have to respond to such surveys; 
   * details of bets, gaming, payments and other transactions that you conduct on our Websites and details of the fulfilment of your orders; 
@@ -71,7 +71,7 @@ All bets, gaming and account transactions are recorded on our computer system. W
 
 ## 4\. Telephone calls
 
-Your telephone conversations – either to place a bet or a customer service call - may be recorded both to assist us in training and in quality management, and to allow for the speedy resolution of queries.
+Your telephone conversations – either to place a bet or a Customer Support call - may be recorded both to assist us in training and in quality management, and to allow for the speedy resolution of queries.
 
 ## 5\. Use of Cookies
 
