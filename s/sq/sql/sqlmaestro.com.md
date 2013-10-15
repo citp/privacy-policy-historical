@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sqlmaestro.com privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530014048id_/http%3A//sqlmaestro.com/contacts/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sqlmaestro.com privacy policy that was archived on 2013-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131015054134id_/http%3A//www.sqlmaestro.com/contacts/privacy) for the most accurate reproduction.*
 
 # Database management tools for MySQL, Oracle, SQL Server, DB2, SQL Anywhere, PostgreSQL, SQLite, Firebird and MaxDB by SQL Maestro Group
 
@@ -6,9 +6,9 @@ Partners
 
 Testimonials
 
-**Alex Freeze:** "Good job! As always, MS SQL Data Wizard is at the front of my list with regards to when we advise a simple and powerful Microsoft SQL data manager".
+**Gianmarco Brundo:** "I have purchased SQLite Mestro and SQLite Data Wizard, your products are very good".
 
-**Jonathan Oakes:** "This is a lovely application. It's easy to hook into my own bespoke applications. It's very powerful, yet really quite simple to use. Thanks for this".
+**Stephen Arrowel, Database Administrator:** "We are in the process of implementing Firebird solutions at multiple levels in our international organization. We expect that SQL Maestro Group will do nothing short of revolutionize the way we develop and maintain our Firebird databases. The continuous improvement and development means that the product is extremely flexible and will grow with us. The service and responsiveness of the Support Team has been exceptional. They have devoted countless hours to understanding our needs, so that we could get a Firebird administration tool which would be so simple and effective in use. SQL Maestro Group is helping Sytrax sail into the 21st Century".
 
 [More](http://www.sqlmaestro.com/products/testimonials/)
 
@@ -71,24 +71,24 @@ If we decide to change our privacy policy, we will post those changes on our hom
 
 Company news[](http://www.sqlmaestro.com/rss.xml)
 
-May 17, 2013
+Sep 20, 2013
 
-New version comes with Report Designer, updated SQL Dump wizard, advanced data management abilities as well as with many other useful enhancements.
+New version comes with keyboard interactive SSH authentication, updated Script Runner, redesigned start page, improved SQL editors and data grids, as well as with many other useful things.
 
-May 16, 2013
+Aug 5, 2013
 
-The article shows how to add various kinds of charts to pages produced by the software.
+We are pleased to introduce a new member of Microsoft SQL Server tools family designed for SQL Server Compact database development and management.
 
-Mar 29, 2013
+Jul 8, 2013
 
-Support for sequence generators, a new reporting tool, advanced SQL Dump wizard, updated SQL Editor, enhanced data grids and a lot of other useful things.
+New version features support for foreign data management objects, keyboard-interactive SSH authentication, updated SQL Dump wizard, nullable column checker and a lot of other useful things.
 
 Feature of the day
 
-[](http://www.sqlmaestro.com/products/postgresql/phpgenerator/screenshots/common/data_export/)
+[](http://www.sqlmaestro.com/products/db2/datawizard/help/02_02_00_scheduler/)
 
-PHP Generator supports data export to PDF, XML, CVS, Excel and Word. 
+DB2 Data Wizard has an ability to schedule tasks for executing them (once or periodically) later.
 
-[](http://www.sqlmaestro.com/products/mysql/maestro/help/01_04_00_object_browser/)
+[](http://www.sqlmaestro.com/products/oracle/phpgenerator/screenshots/common/color_schemes/)
 
-SQL Maestro for MySQL provides you with Object Browser for sorting, filtering and grouping of database objects.
+PHP Generator allows you to select a standard HTML template or create your own style with CSS file. 
