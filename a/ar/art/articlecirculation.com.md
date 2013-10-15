@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the articlecirculation.com privacy policy that was archived on 2013-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130614025600id_/http%3A//www.articlecirculation.com/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articlecirculation.com privacy policy that was archived on 2013-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131015101839id_/http%3A//www.articlecirculation.com/privacy_policy.asp) for the most accurate reproduction.*
 
 # Editor Reviewed Press Release Distribution for small business. Press Release Marketing Service. Direct to Consumer Press Release Distribution.
 
