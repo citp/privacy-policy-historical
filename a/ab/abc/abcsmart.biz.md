@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the abcsmart.biz privacy policy that was archived on 2013-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130517182219id_/http%3A//www.abcsmart.biz/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the abcsmart.biz privacy policy that was archived on 2013-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131016000158id_/http%3A//abcsmart.biz/privacy.php%3Flng%3Den) for the most accurate reproduction.*
 
-# The company LANDFORD LIMITED officially presents the new project the "ABCSMART"
+# ABCSMART - Earnings up to 30 000 Euro
 
 ### Travel Lite (10 Euro Entry)
 
-[ ](http://perfectmoney.com/?ref=747939 "Make P2P and B2B payment with Perfect Money")
+[ ](http://perfectmoney.is/?ref=747939 "Make P2P and B2B payment with Perfect Money")
+
+[ ](https://merapay.com/?ref=6302978453 "MeRa")
 
 We find privacy and personal data protection as one of our most important duties and we use personal data only in full compliance with the applicable legislation. The purpose of this document is particularly to provide you with information about the type of personal data we collect and about the way we treat personal data, from what sources we obtain them and for what purposes we use them, to whom we are authorised to disclose them, where you can obtain information on your personal data processed by us, and what are the individual security options for each registered user of ABC Smart IT (hereinafter referred to as "Administrator"). 
 
