@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the acs-inc.com privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530202929id_/http%3A//www.acs-inc.com/acs-privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acs-inc.com privacy policy that was archived on 2013-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131015020330id_/http%3A//www.acs-inc.com/acs-privacy-policy.aspx) for the most accurate reproduction.*
 
 # ACS Privacy Policy | ACS
 
@@ -12,7 +12,7 @@ You may have accessed this Xerox Business Services website as a result of a link
 
 Xerox Business Services may collect personal information about you when you use our websites; place orders for products or services; request information such as quotes, newsletters, promotional materials or services from Xerox Business Services; participate in surveys or promotional activities; seek information about employment opportunities or apply for a position; or participate in other activities on our sites. The personal information we collect may include name, physical address, telephone number, email address and other personal information that you choose to provide. For certain activities, such as when you order a product or service, we may ask for your payment card information, driver’s license number, social security number or equivalent national identification number and date of birth. If you express an interest in employment with Xerox Business Services, we may ask you to provide your resume/CV and other relevant information.
 
-When you visit our site we may collect information through the use of a "cookie". A cookie is a small file that a website can send to your browser and then is stored on your computer. This type of technology is designed to tell us when you reenter our site, where you visit within our site, and the type of browser you use. You are not required to accept any cookie we might use, although some areas of a site may not be operational without the use of cookies. You can disable cookies on your computer by changing the settings in your browser. The information collected helps us identify data relating to usage and trends, address any problems with site administration, and to further improve this site. We also may automatically collect certain information relating to you, such as your Internet Protocol (IP) address, Internet service provider, type of operating system, the time and date you accessed the Site, the Uniform Resource Locator (URL) from which you arrived at our site and, if you browse away from our site by clicking on a link on our site, the URL you click on.
+When you visit our site we may collect information through the use of a "cookie". A cookie is a small file that a website can send to your browser and then is stored on your computer. This type of technology is designed to tell us when you reenter our site, where you visit within our site, and the type of browser you use. You are not required to accept any cookie we might use, although some areas of a site may not be operational without the use of cookies. You can disable cookies on your computer by changing the settings in your browser. The information collected helps us identify data relating to usage and trends, address any problems with site administration, and to further improve this site. We also may automatically collect certain information relating to you, such as your Internet Protocol (IP) address, Internet service provider, type of operating system, the time and date you accessed the Site, the Uniform Resource Locator (URL) from which you arrived at our site and, if you browse away from our site by clicking on a link on our site, the URL you click on. This is more fully described under the section entitled “Cookies, Web Beacons and AdChoices” below.
 
 We do not require you to provide your Social Security Number on our site unless a secure connection is used or the SSN is encrypted. We also do not require you to enter your SSN to access our sites without requiring additional authentication.
 
@@ -40,9 +40,40 @@ To protect the personal information we receive, Xerox Business Services uses cer
 
 Xerox Business Services may use Social Security Numbers in connection with the sale or licensing of products and services. We use security measures designed to protect the confidentiality of the SSNs while in Xerox Business Services’ possession and control. No unlawful disclosure of SSNs is permitted. Contracts with clients, suppliers or other third parties may contain additional requirements relating to the protection of SSNs. Xerox Business Services will comply with all applicable laws relating to the use, access and disclosure of SSNs.
 
-**Links to Other Websites**
+**Cookies, Web Beacons and AdChoices**
 
-Our websites may contain links to other sites, not maintained by Xerox Business Services. If you choose to access those sites, please review the privacy statement applicable to each site. The links to other sites are made available as a convenience to you and Xerox Business Services is not responsible for the privacy policies and information collection practices of those sites.
+**What is a cookie?**  
+Cookies are small text files that are placed on your computer or mobile device by websites that you visit. They are widely used in order to make websites work efficiently, as well as to provide information to the owners of the site. Cookies are useful because they allow a website to recognize your device, letting you navigate between pages efficiently, remembering your preferences, and generally improving your experience.
+
+**How does Xerox use cookies?**  
+Xerox uses cookies to recognize repeat visits to our websites and to facilitate Web navigation and online shopping. The cookies store your country and language, along with an assigned random session ID. In some cases, the cookies store name and address information so you do not have to re-enter this information in multiple forms.
+
+The cookie information that Xerox collects helps us track the number of visitors to our websites over time and determine whether these were new or repeat visits.
+
+Xerox also works with third party advertising partners that use cookies to deliver Xerox advertising on other websites and to measure the performance of our advertising campaigns.
+
+**What is a Web Beacon?**  
+A web beacon is an electronic image that can be used to recognize a cookie on your computer or other device when you view a web page or email.
+
+**How does Xerox use Web Beacons?**  
+Xerox and our third party advertising partners may use web beacons on our websites, in our emails, and in our advertisements on other websites to measure the effectiveness of our websites and our advertising. For example, web beacons may count the number of individuals who visit our websites from a particular advertisement or the number of individuals who open or act upon an email message.
+
+**Can I block cookies and web beacons?**  
+Yes, the ability to enable, disable or delete cookies can be controlled though your website browser. Consult the "Help" menu of your browser application for details. If you block the use of cookies, you will not be able to use some of the features on Xerox websites, including the shopping cart and online account management services. You can make some web beacons unusable by disabling cookies.
+
+**Links to non-Xerox websites.**  
+Other websites that may be accessed through our website, such as through social media buttons or other links, may collect certain information about you through the use of cookies, web beacons and other features. We do not have access to or control over the cookies or other features that these third party sites may use, and the information practices of these third party websites are not covered by this Online Privacy Policy. Please contact them directly for more information about their privacy practices.
+
+**AdChoices: How does Xerox use Interest-Based Advertising?**  
+Websites cooperate with online advertisers to collect information about visitors to present ads that are more useful and relevant. This is known as interest-based advertising or online behavioral advertising. Xerox and our third party advertising partners may use cookies and web beacons to deliver interest-based ads that are relevant and targeted to our customers and prospects. When delivering interest-based ads, Xerox adheres to the [Self-Regulatory Program for Online Behavioral Advertising](http://www.aboutads.info/principles/).
+
+**What information do Xerox websites collect for interest-based advertising?**  
+Xerox and our third party advertising partners may use cookies or web beacons to collect information for the purposes of interest-based advertising based on your visits to Xerox.com and other web sites. These cookies identify the pages you view, the links and ads you click on, other actions you take on those websites, and the referring website. Similarly, online advertisers use cookies to deliver advertising to you for companies other than Xerox based on your visits to Xerox.com and other websites.
+
+You can learn more about interest-based advertising at [www.aboutads.info/choices](http://www.aboutads.info/choices/).
+
+**Can I control the interest-based advertising that Xerox websites collect about me?**  
+Yes, the web site at [www.aboutads.info/choices](http://www.aboutads.info/choices/) provides you the ability to opt-out of data collection by companies that adhere to the [Self-Regulatory Program for Online Behavioral Advertising](http://www.aboutads.info/principles/).
 
 **Xerox Business Services Client Web Sites**
 
@@ -58,7 +89,7 @@ Xerox Business Services does not market its products or services to children und
 
 **Contact Information**
 
-Please direct any questions you might have about this Statement to the Xerox Business Services Chief Information Security Officer at [ciso@acs-inc.com](mailto:ciso@acs-inc.com) or you may direct your communications to::   
+Please direct any questions you might have about this Statement to the Xerox Business Services Chief Information Security Officer at [ciso@xerox.com](mailto:ciso@xerox.com) or you may direct your communications to::   
               Xerox Business Services Information Security   
               2828 N. Haskell Avenue, Bldg. 5  
               Dallas, Texas 75204
@@ -71,4 +102,4 @@ Xerox Business Services also receives certain European Personal Information abou
 
 Individuals with questions about Xerox Business Services’ handling of their Client Controlled Data should first contact the Xerox Business Services client involved. Questions about Client Contact Data or other concerns may be directed to Xerox Business Services as per the Contact Information in the section above. Or, if the individual’s questions cannot be answered directly, such persons may contact their local data protection authority for further information. More information about the U.S. Department of Commerce Safe Harbor Program can also be found at <http://www.export.gov/safeharbor/>.
 
-This Privacy Statement was last updated on June 20, 2012.
+This Privacy Statement was last updated on July 19, 2013.
