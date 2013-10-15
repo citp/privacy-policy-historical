@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the concrete5.org privacy policy that was archived on 2013-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130616140037id_/http%3A//www.concrete5.org/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the concrete5.org privacy policy that was archived on 2013-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131015192033id_/http%3A//concrete5.org/legal/privacy-policy) for the most accurate reproduction.*
 
 # concrete5 :: concrete5.org Privacy Policy
 
@@ -14,8 +14,8 @@ You have the right at all times to access and correct your personal information 
 
 Concrete CMS, Inc.  
 Attn: concrete5.org/Support  
-8203 SE 7th suite 200  
-Portland, OR 97212  
+17 se 3rd #410  
+Portland, OR 97214  
 USA
 
 Concrete5 is committed to respecting your preferences and legal rights with respect to access to, correction of, and deletion of your personal information. Except in particular circumstances described in this Privacy Policy, or where required by law, regulation, litigation, national security or law enforcement, Concrete5 will not provide your name to other companies or organizations without your consent.
@@ -74,8 +74,8 @@ If you feel that Concrete5 has failed to comply with its obligations under this 
 
 Concrete CMS, Inc.  
 Attn: concrete5.org/Support  
-8203 SE 7th suite 200  
-Portland, OR 97212  
+17 se 3rd #410  
+Portland, OR 97214  
 USA
 
 Please be specific in your complaint and provide as much detail as possible so that we can promptly address your concerns. We will investigate and respond to all complaints promptly.
