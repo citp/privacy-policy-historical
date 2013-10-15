@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jostens.com privacy policy that was archived on 2013-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130524073815id_/http%3A//www.jostens.com/apps/shop/help/shared/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jostens.com privacy policy that was archived on 2013-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131015200729id_/http%3A//www.jostens.com/apps/shop/help/shared/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -24,6 +24,9 @@ To better serve our customers, Jostens does research on customer demographics, i
 
 **Personal Preferences**   
 If you have provided your e-mail address to us, Jostens may send promotional messages about products or services that may be of interest to you. You can always send an email to service@jostens.com, letting us know that you do not want information collected from you, that you do not wish to receive promotional messages, or that you wish to review and verify any information that Jostens has collected from you.
+
+**Apps**   
+Jostens' ReplayIt® Mobile App ("App") uses location services to ascertain App users' coarse (network-based) and fine (GPS) locations. Jostens uses this location information only for the purpose of providing App users a list through the App of schools in such users' geographic areas so that such users may choose, from the provided list, a school to which to affiliate for purposes of the App. Jostens does not otherwise use or disclose such location information. App users may turn off these location services either within the App (by selecting "Turn off location services" in the application bar found at the bottom of the App's log-in page) or within the mobile device settings, depending upon the operating system of the user's mobile device. 
 
 **Children**   
 This website is not directed at children under the age of 13\. Jostens does not intend to gather personal information from children under 13, except to respond to a specific e-mail request, without parental consent.  If you are under the age of 18, be sure to ask for permission from a parent or guardian before sending us any information about yourself.  Parents can review or have deleted any personal information provided by their children by sending an e-mail to service@jostens.com.
