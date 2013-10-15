@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the men4now.com privacy policy that was archived on 2013-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130511204024id_/http%3A//men4now.com/Privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the men4now.com privacy policy that was archived on 2013-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131016010318id_/http%3A//men4now.com/Privacy.php) for the most accurate reproduction.*
 
 # Men4Now.com - Gay Sex Personals, Dating & Chat for Gay Men into Sex
 
@@ -9,7 +9,7 @@ for Solstice Group, Inc. d/b/a www.Men4Now.com
   
 Effective Date: July 23, 2012  
   
-Last Modified: July 23, 2012  
+Last Modified: May 30, 2013  
   
   1. **General**
     1. The operative parties referred to in this policy are Company and You, the User of this site.
@@ -30,7 +30,7 @@ Visitors to Our Site and services will have multiple manners of interactivity wi
     1. Passive Collection. We use cookies to collect information about You in order to enhance Your experience on the Site. The information collected includes, but is not limited to, Your User IP address, browser information, and other session data. 
     2. Active Collection. We collect information from You when You complete the registration form to sign up for Your membership on Our Site or upon actively opting-in to participate in a specific Site feature, this information will be used to generate an automatic Member account. Providing any additional information for Your Member account is optional. Locations for data collection are registration or personal account pages, but We reserve the right to add additional information collection portals. 
   5. **How We Use Your Information**
-    1. The primary use for Your information is to provide You with services You have requested. We also use Your information to deliver customized services to You. Non-personal and aggregate information, such as that collected passively is used in order to customize Our marketing efforts or to customize the use of Our Site for an aggregate group of customers. We also use Your information for market research purposes in order to increase Your (and other Users.) experience according to tracked interests, to analyze and target potential new markets, and for other marketing purposes. All such information is not shared with any third parties, without Your consent, unless required by operation of law. 
+    1. The primary use for Your information is to provide You with services You have requested. We also use Your information to deliver customized services to You. Non-personal and aggregate information, such as that collected passively is used in order to customize Our marketing efforts or to customize the use of Our Site for an aggregate group of customers. We also use Your information for market research purposes in order to increase Your (and other Users.) experience according to tracked interests, to analyze and target potential new markets, and for other marketing purposes. We may provide Your e-mail address and other contact information to third parties for the purpose of providing You with advertisements that We believe You would enjoy. However, any communication You receive resulting from Us providing Your e-mail address to a third party will provide You with the opportunity to opt-out of future advertisements, in compliance with applicable laws. 
     2. When You provide certain optional account information, or enable Site features that require specific opt-in agreement, You should consider all such information to be public, and accessible by anyone unless otherwise stated. For example, should You choose to enable Our Site.s global positioning services, You understand that Your information may be made public via Our Site and its Services. 
     3. You are aware that even if You choose not to make public any personally identifying information via Your account or specific Site features, You should understand that there is a possibility that You may still be identified through the information You provided. You understand that using this Site places You in control of all of the public information related to your membership, and You are fully responsible for any consequences arising out of such information You choose to publish or make known via Our Site and Services.
   6. **Special Cases.**
