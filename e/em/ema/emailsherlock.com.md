@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the emailsherlock.com privacy policy that was archived on 2013-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130511042307id_/http%3A//www.emailsherlock.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the emailsherlock.com privacy policy that was archived on 2013-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131015091242id_/http%3A//www.emailsherlock.com/privacy.html) for the most accurate reproduction.*
 
-# 
+# EmailSherlock.com Privacy Policy
 
 **Privacy Policy**
 
@@ -18,7 +18,7 @@ When someone conducts a search based on your email address, we do not collect th
 
 **Log Files**
 
-Information about your use of the Website is gathered automatically using third-party tracking applications such as Google Analytics. We then store this information in log files. The type of information we gather and store may include IP addresses, browser type, Internet service provider (ISP) information, operating system, date and time stamps and pages used to navigate to and from the Website. This information does not contain any personally identifying information and is only used to analyze trends, gather details about our user base and determining how best to improve the quality of EmailSherlock.com. We value your privacy and do not link this information to your personal identifying information. 
+Information about your use of the Website is gathered automatically using third-party tracking applications such as Google Analytics. We then store this information in log files. The type of information we gather and store may include IP addresses, browser type, Internet service provider (ISP) information, operating system, date and time stamps and pages used to navigate to and from the Website. This information does not contain any personally identifying information and is only used to analyse trends, gather details about our user base and determining how best to improve the quality of EmailSherlock.com. We value your privacy and do not link this information to your personal identifying information. 
 
 **Cookies**
 
