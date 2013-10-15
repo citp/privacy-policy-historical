@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the totalbeauty.com privacy policy that was archived on 2013-06-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130629050257id_/http%3A//www.totalbeauty.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the totalbeauty.com privacy policy that was archived on 2013-10-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131015115609id_/http%3A//www.totalbeauty.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" xmlns:og="http://ogp.me/ns#" xmlns:fb="http://ogp.me/ns/fb#"><head>
 
@@ -12,21 +12,20 @@
 
 <link rel="icon" href="http://images.totalbeauty.com/favicon.ico" type="image/x-icon">
 <link rel="canonical" href="http://www.totalbeauty.com/privacy">
-<link href="http://fonts.googleapis.com/css?family=Domine|Libre+Baskerville|Montserrat:400,700" rel="stylesheet" type="text/css">
-      <link rel="stylesheet" href="http://static1.totalbeauty.com/css/stylesheets/content.css?v=20130617181523" type="text/css">
+<link href="http://fonts.googleapis.com/css?family=Domine:400,700|Libre+Baskerville:400,700,400italic|Montserrat:400,700" rel="stylesheet" type="text/css">
+      <link rel="stylesheet" href="http://static1.totalbeauty.com/css/stylesheets/content.css?v=20131010175815" type="text/css">
     <!--[if lte IE 8]>
-    <link rel="stylesheet" href="http://static1.totalbeauty.com/css/stylesheets/ie8.css?v=20130617181523" type="text/css" />
+    <link rel="stylesheet" href="http://static1.totalbeauty.com/css/stylesheets/ie8.css?v=20131010175815" type="text/css" />
   <![endif]-->
-  <script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1&amp;appId=119421074773036"></script><script type="text/javascript">mobilePageAvailable=false;</script>
-  <script type="text/javascript" src="http://static1.totalbeauty.com/js/loadSpeed2013.js?v=20130617181523" id="jsLoadSpeedControl"></script>
+  <script type="text/javascript" async="" src="https://cdn.krxd.net/controltag?confid=Io5CA5ol"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1&amp;appId=119421074773036"></script><script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script type="text/javascript">mobilePageAvailable=false;</script>
+  <script type="text/javascript" src="http://static1.totalbeauty.com/js/dist/global.js?v=20131010175815" id="jsLoadSpeedControl"></script>
+  <script type="text/javascript" src="http://static1.totalbeauty.com/js/ga_asynchronous.js?v=20131010175815"></script>
     
- 
- 
- 
 <!-- ---- OAS SETUP begin ---- -->
 <!--Include OAS Analytics Setup Script -->
 <script language="JavaScript" src="http://oascentral.totalbeauty.com/Scripts/oas_analytics.js"></script>
 <script language="JavaScript">
+
 <!--
 //configuration
 OAS_url = 'http://oascentral.totalbeauty.com/RealMedia/ads/';
@@ -40,11 +39,35 @@ var OAS_taxonomy='zn=privacy&purl=www.totalbeauty.com/privacy&cat=general';
 var OAS_query='zn=privacy&cat=general';
 OAS_query == '' ? OAS_query += 'XE' + '&' + OAS_taxonomy + OAS_rdl + "&if_nt_CookieAccept=" + OAS_CA + '&XE' : OAS_query += '&XE' + '&' + OAS_taxonomy + OAS_rdl + "&if_nt_CookieAccept=" + OAS_CA + '&XE';
 
+var pdBots = ["Miva","Jema","nami","AdOn","Bluelink","Sero","eZanga"];
+var urlParams = getUrlVars();
+var utmSource = urlParams['utm_source'];
+if($.inArray(utmSource, pdBots) > -1 || _checkCookie('pdBots')) {
+  OAS_taxonomy += '&pd=y';
+  OAS_query += '&pd=y';
+  createCookie('pdBots','true');
+} else {
+  OAS_taxonomy += '&pd=n';
+  OAS_query += '&pd=n';
+}
+
+if((utmSource != undefined && utmSource != '') || _checkCookie('tbts')) {
+    if(_checkCookie('tbts')) {
+    	utmSource = readCookie('tbts')
+    }
+  OAS_taxonomy += '&ts='+ utmSource;
+  OAS_query += '&ts='+ utmSource;
+  createCookie('tbts',utmSource);
+} else {
+  OAS_taxonomy += '&ts=or';
+  OAS_query += '&ts=or';
+}
 OAS_target = '_blank';
 //end of configuration
 OAS_version = 10;
 OAS_rn = '001234567890'; OAS_rns = '1234567890';
 OAS_rn = new String (Math.random()); OAS_rns = OAS_rn.substring (2, 11);
+
 function OAS_NORMAL(pos) {
   document.write('<A HREF="' + OAS_url + 'click_nx.ads/' + OAS_sitepage + '/1' + OAS_rns + '@' + OAS_listpos + '!' + pos + '?' + OAS_query + '" TARGET=' + OAS_target + '>');
   document.write('<IMG SRC="' + OAS_url + 'adstream_nx.ads/' + OAS_sitepage + '/1' + OAS_rns + '@' + OAS_listpos + '!' + pos + '?' + OAS_query + '" BORDER=0></A>');
@@ -73,7 +96,26 @@ function OAS_AD(pos) {
 //-->
 </script>
 <!------ OAS SETUP end ------>
+       
+    <script>
+    try{
+      var _comscore = _comscore || [];
+      _comscore.push({ c1: "2", c2: "6035713" });
+      (function() {
+        var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+        s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+        el.parentNode.insertBefore(s, el);
+      })();
+    } catch(err){
+      if(console) console.log("Comscore error: " + err.message);
+    }
+    </script>
+    <noscript>
+      <img src="http://b.scorecardresearch.com/p?c1=2&c2=6035713&cv=2.0&cj=1" />
+    </noscript>  
   
+     
+      
 </head>
 <body class="package">
 
@@ -145,6 +187,7 @@ function OAS_AD(pos) {
 </script>
 
   <!-- content -->
+  <a name="top"></a>
   <div id="main" class="fullWhite">
   <div id="white" class="body_left">
     <div id="packageContent">					
@@ -329,10 +372,8 @@ For more information regarding what information Total Beauty collects and how th
     </div>   
   </div>
   <div id="brown" class="body_right">
-    
-                <div id="adSpace">
+                    <div id="adSpace">
                   <div class="rightAd">
-                  <!--ad code goes here-->
                   <div id="oas-1"><script language="JavaScript">OAS_AD('Position1');</script></div>
                   </div><!--rightAd-->
                 </div><!--adSpace-->
@@ -340,27 +381,6 @@ For more information regarding what information Total Beauty collects and how th
                   <a href="/">Home</a> » Privacy Policy
                 </div>
                 <div class="social_callouts">
-        <div class="right_column_heading_instagram">
-          <div class="line"> </div>
-          <div class="rc_title">
-            <img src="/img/v2013/icon_photo.png">
-            <p>instagram</p>
-          </div>
-        </div>        
-        <p>Behind the scenes at TotalBeauty</p>
-        <div id="instafeed"></div>
-        <script type="text/javascript">
-           var userFeed = new Instafeed({
-                get: 'user',
-                userId: 211419467,
-                limit: 8,
-                template: '<a style="margin:1px;" href="{{link}}"><img width="148" height="148" src="{{image}}" /></a>',
-                clientId: '5d08f2b17eb6429aa531844a392524ad',
-                accessToken: '211419467.467ede5.f57d17ae97ab41a3b717dac32e13232c'
-            });
-            userFeed.run();
-        </script>        
-  
         <div class="right_column_heading_pt">
           <div class="line"> </div>
           <div class="rc_title">
@@ -395,16 +415,16 @@ For more information regarding what information Total Beauty collects and how th
           <img src="http://images.totalbeauty.com/img/v2013/in_style.gif">
           <ul>
                           <li><a href="http://feeds.instyle.com/~r/instyle/thisjustin/~3/LfRUzNBW6p8/" title="Look of the Day: Olivia Palermo" target="_blank" class="affPartner" name="partner-2" rel="nofollow">Look of the Day: Olivia Palermo</a></li>
-                          <li><a href="http://feeds.instyle.com/~r/instyle/thisjustin/~3/lHoMD5Ny74c/" title="Straight From the Beauty Director: 4th of July Mani Idea" target="_blank" class="affPartner" name="partner-2" rel="nofollow">Straight From the Beauty Director: 4th of July Mani Idea</a></li>
-                          <li><a href="http://feeds.instyle.com/~r/instyle/thisjustin/~3/wPijXqdBBDw/" title="This Week's Party Pics" target="_blank" class="affPartner" name="partner-2" rel="nofollow">This Week's Party Pics</a></li>
+                          <li><a href="http://feeds.instyle.com/~r/instyle/thisjustin/~3/Dtrn4wAwYso/" title="Why Katie Holmes Really Went for Her Signature Bob" target="_blank" class="affPartner" name="partner-2" rel="nofollow">Why Katie Holmes Really Went for Her Signature Bob</a></li>
+                          <li><a href="http://feeds.instyle.com/~r/instyle/thisjustin/~3/U74FDkhgbA8/" title="Shop Danai Gurira’s Fierce Red Lipstick" target="_blank" class="affPartner" name="partner-2" rel="nofollow">Shop Danai Gurira’s Fierce Red Lipstick</a></li>
                       </ul>
         </div>
         <div class="column">
           <img src="http://images.totalbeauty.com/img/v2013/people_style_watch.gif">
           <ul>
-                          <li><a href="http://www.people.com/people/stylewatch/gallery/0,,20568925,00.html?xid=rss-totalbeauty" title="You Asked, We Found: Jessica's Caftan and More!" target="_blank" class="affPartner" name="partner-1" rel="nofollow">You Asked, We Found: Jessica's Caftan and More!</a></li>
-                          <li><a href="http://www.people.com/people/stylewatch/gallery/0,,20627175,00.html?xid=rss-totalbeauty" title="Love Her Outfit!" target="_blank" class="affPartner" name="partner-1" rel="nofollow">Love Her Outfit!</a></li>
-                          <li><a href="http://www.people.com/people/stylewatch/gallery/0,,20712198,00.html?xid=rss-totalbeauty" title="7 Summer Trends with Expiration Dates" target="_blank" class="affPartner" name="partner-1" rel="nofollow">7 Summer Trends with Expiration Dates</a></li>
+                          <li><a href="http://www.people.com/people/stylewatch/gallery/0,,20620194,00.html?xid=rss-totalbeauty" title="Obsessed or Hot Mess? Vote on These Daring Looks" target="_blank" class="affPartner" name="partner-1" rel="nofollow">Obsessed or Hot Mess? Vote on These Daring Looks</a></li>
+                          <li><a href="http://www.people.com/people/stylewatch/gallery/0,,20743675,00.html?xid=rss-totalbeauty" title="On Shelves Now: Fall Hair Products" target="_blank" class="affPartner" name="partner-1" rel="nofollow">On Shelves Now: Fall Hair Products</a></li>
+                          <li><a href="http://www.people.com/people/stylewatch/gallery/0,,20333808,00.html?xid=rss-totalbeauty" title="Exclusive Deals (aka More Excuses to Shop)" target="_blank" class="affPartner" name="partner-1" rel="nofollow">Exclusive Deals (aka More Excuses to Shop)</a></li>
                       
           </ul>
         </div>
@@ -476,6 +496,7 @@ For more information regarding what information Total Beauty collects and how th
           <ul>
             <li>+ <a href="http://pinterest.com/totalbeauty" rel="nofollow">Pinterest</a></li>
             <li>+ <a href="http://www.youtube.com/totalbeautytv" rel="nofollow">Youtube</a></li>
+            <li>+ <a href="/mobile-apps" rel="nofollow">Mobile apps</a></li>
                       </ul>
         </div>
       </div>       
@@ -499,34 +520,41 @@ For more information regarding what information Total Beauty collects and how th
       </div>
   <div id="subnav1" class="subnav advice_sub">
     <div class="subnav_cats">
-      <a href="/how-tos/hairstyles">+ HAIRSTYLES</a> 
-      <a href="/how-tos/make-up">+ MAKEUP</a> 
+      <a href="/how-tos/hairstyles">+ HAIRSTYLES</a>  
+      <a href="/how-tos/nails">+ NAILS</a>
       <a href="/how-tos/skin-care">+ SKINCARE</a><br>
-      <a href="/how-tos/nails">+ NAILS</a> 
-      <a href="/wedding">+ BRIDAL</a> 
-      <a href="/awards2013">+ BEAUTY AWARDS</a><br>
-      <a href="/samples_contests">+ SAMPLES &amp; CONTESTS</a>
+      
+      <a href="/how-tos/health-and-beauty">+ HEALTH &amp; BEAUTY</a>
+      <a href="/how-tos/hair-care">+ HAIRCARE</a>
+      <br>
+      <a href="/how-tos/make-up">+ MAKEUP</a>
+      <a href="/how-tos/perfume">+ PERFUME</a>
+      <a href="/content/series/bridal-beauty">+ BRIDAL</a><br>
+      <a href="/awards2013">+ BEAUTY AWARDS</a>
+      <a href="/samples_contests">+ SAMPLES</a>
+      <br>
+      <a href="/content/series/t-total-beauty">+ t BY TOTAL BEAUTY</a>
     </div>
         <div class="subnav_preview">
             <div class="preview_row">
-                      <a href="/content/slideshows/taylor-swift-westboro-protest"><img src="http://images.totalbeauty.com/uploads/editorial/articles/85/thumb.jpeg"></a>
+                      <a href="/content/blog/5-questions-kristen-bell"><img src="http://images.totalbeauty.com/uploads/editorial/articles/85/bell-thumb-01.jpg"></a>
                         
           <div class="text"><p class="category_heading_health-and-beauty">Health &amp; beauty</p>
-            <p class="heading"><a href="/content/slideshows/taylor-swift-westboro-protest">Wha?! Taylor Swift the "whorish face of doomed America"?</a></p>
+            <p class="heading"><a href="/content/blog/5-questions-kristen-bell">5 Questions We Ask Everyone: Kristen Bell</a></p>
           </div>
         </div>
              <div class="preview_row">
-                      <a href="/content/blog/new-japanese-skin-care-youll-flip"><img src="http://images.totalbeauty.com/uploads/editorial/articles/85/hada-labo-thumb.jpg"></a>
+                      <a href="/content/blog/revlon-nails-marchesa-collection"><img src="http://images.totalbeauty.com/uploads/editorial/articles/85/revlon-marchesa-th.jpg"></a>
                         
-          <div class="text"><p class="category_heading_skincare">Skin care</p>
-            <p class="heading"><a href="/content/blog/new-japanese-skin-care-youll-flip">The New Japanese Skin Care You'll Flip For</a></p>
+          <div class="text"><p class="category_heading_nails">Nails</p>
+            <p class="heading"><a href="/content/blog/revlon-nails-marchesa-collection">Want to Wear Marchesa? Now You Can</a></p>
           </div>
         </div>
              <div class="preview_row">
-                      <a href="/content/blog/cleanser-killing-dolphins"><img src="http://images.totalbeauty.com/uploads/editorial/articles/85/body-wash.jpg"></a>
+                      <a href="/content/blog/russian-tampax-commercial-direct-simply-"><img src="http://images.totalbeauty.com/uploads/editorial/articles/85/horse_small.png"></a>
                         
-          <div class="text"><p class="category_heading_health-and-beauty">Health &amp; beauty</p>
-            <p class="heading"><a href="/content/blog/cleanser-killing-dolphins">Is Your Cleanser Killing Dolphins?</a></p>
+          <div class="text"><p class="category_heading_body">Body</p>
+            <p class="heading"><a href="/content/blog/russian-tampax-commercial-direct-simply-">Russian Tampax Commercial: Too Direct or Simply Awesome?</a></p>
           </div>
         </div>
          </div>
@@ -537,27 +565,28 @@ For more information regarding what information Total Beauty collects and how th
       <a href="/diet-health/health">+ HEALTH</a> 
       <a href="/diet-health/fitness">+ FITNESS</a><br>
       <a href="/content/series/beauty-in-balance">+ BEAUTY IN BALANCE</a>
+      <a href="/content/article/total-beauty-perks">+ PERKS</a>
     </div>
         <div class="subnav_preview">
             <div class="preview_row">          
-                      <a href="/content/slideshows/6-strength-training-moves-park-bench"><img src="http://images.totalbeauty.com/uploads/editorial/articles/85/park-bech-workout-402.jpg"></a>
-                       
-          <div class="text"><p class="category_heading_fitness">Fitness </p>
-            <p class="heading"><a href="/content/slideshows/6-strength-training-moves-park-bench">6 Strength Training Moves You Can Do With a Park Bench</a></p>
-          </div>
-        </div>
-             <div class="preview_row">          
-                      <a href="/content/slideshows/countdown-bikini-ready"><img src="http://images.totalbeauty.com/uploads/editorial/articles/85/bikini-workout-01-402.jpg"></a>
-                       
-          <div class="text"><p class="category_heading_health-and-beauty">Fitness </p>
-            <p class="heading"><a href="/content/slideshows/countdown-bikini-ready">Countdown to Bikini Ready: Top 5 Workouts to Get that Beach Bod</a></p>
-          </div>
-        </div>
-             <div class="preview_row">          
-                      <a href="/content/blog/chilean-artist-paint"><img src="http://images.totalbeauty.com/uploads/editorial/articles/85/period-art-thumb.jpg"></a>
+                      <a href="/content/blog/inside-scoop-and-shouldnt-buy-foods"><img src="http://images.totalbeauty.com/uploads/editorial/articles/85/whole_foods_small.png"></a>
                        
           <div class="text"><p class="category_heading_health">Health </p>
-            <p class="heading"><a href="/content/blog/chilean-artist-paint">You'll Never Believe What this Artist Used as "Paint"</a></p>
+            <p class="heading"><a href="/content/blog/inside-scoop-and-shouldnt-buy-foods">Inside Scoop: What You Should (And Shouldn't) Buy at Whole Foods</a></p>
+          </div>
+        </div>
+             <div class="preview_row">          
+                      <a href="/content/blog/water-fattening-centuryold-diet-tips"><img src="http://images.totalbeauty.com/uploads/editorial/articles/85/water_small.jpg"></a>
+                       
+          <div class="text"><p class="category_heading_diet">Diet </p>
+            <p class="heading"><a href="/content/blog/water-fattening-centuryold-diet-tips">"Water is Fattening" and Other Century-Old Diet Tips</a></p>
+          </div>
+        </div>
+             <div class="preview_row">          
+                      <a href="/content/slideshows/how-to-get-skinny-gut-bacteria"><img src="http://images.totalbeauty.com/uploads/editorial/articles/85/gutbacteria-thumb-8.jpg"></a>
+                       
+          <div class="text"><p class="category_heading_health">Health </p>
+            <p class="heading"><a href="/content/slideshows/how-to-get-skinny-gut-bacteria">Is Your Gut Bacteria Making You Fat?</a></p>
           </div>
         </div>
          </div>
@@ -571,37 +600,45 @@ For more information regarding what information Total Beauty collects and how th
     </div>
       </div>
   <div id="subnav4" class="subnav shop_sub">
-    <div class="subnav_cats no_subnav_articles" style="text-align: left;">
+    <div class="subnav_cats" style="text-align: left;">
       <a href="/shops/collections?lc=TBShopTopNav">+ COLLECTIONS</a><br>
       <a href="/shops/deals?lc=TBShopTopNav">+ DEALS</a><br>
       <a href="/shops/buying-guides?lc=TBShopTopNav">+ BUYING GUIDES</a><br>
     </div>
+        <div class="subnav_preview">
+            <div class="preview_row">
+                                <a href="/shops/collections/falling-for-color"><img src="http://images.totalbeauty.com/uploads/shop/small/shops-main-409_new_2.jpg"></a>
+                                    
+          <div class="text"><p class="category_heading_makeup">Collection</p>
+            <p class="heading"><a href="/shops/collections/falling-for-color">FALLING FOR COLOR MYSTERY COLLECTION</a></p>
+          </div>
+        </div>
+         </div>
       </div>
+<div id="signupPopup">
+  <span>Sign up for our newsletter</span>
+  <form id="popup_email_form">
+    <p class="error"></p>
+    <input type="text" value="enter email address" name="popup_email" id="popup_email"><br>
+    <input type="submit" value="SUBMIT">
+    <input type="hidden" value="Popup1" name="source" class="news_source">
+  </form>
+  <input type="button" class="close" value="CLOSE">
+</div>
   
-  <div id="signupPopup">
-      <span>Sign up for our newsletter</span>
-      <form id="popup_email_form">
-        <p class="error"></p>
-        <input type="text" value="enter email address" name="popup_email" id="popup_email"><br>
-        <input type="submit" value="SUBMIT">
-      </form>
-      <input type="button" class="close" value="CLOSE">
-  </div>
-  
-  <div id="emailPopup">
-      <span>Email to a friend</span>
-      <form>
-        <input type="text" value="recipients email address"><br>
-        <input type="text" value="your email address"><br>
-        <input type="text" value="your message"><br>
-        <div class="buttonContainer">
-          <a href="#">Cancel</a>
-          <input type="submit" value="SEND">
-        </div>        
-      </form>
-  </div>
-
-  
+<div id="emailPopup">
+  <span>Email to a friend</span>
+  <form>
+    <input class="recip" type="text" name="recip" value="recipients email address"><br>
+    <input class="sender" type="text" name="sender" value="your email address"><br>
+    <input class="senderMessage" type="text" name="senderMessage" value="your message"><br>
+    <div class="errorMsg"></div>
+    <div class="buttonContainer">
+      <a href="#">Cancel</a>
+      <input type="submit" value="SEND">
+    </div>        
+  </form>
+</div>     
 	<!-- Start Quantcast tag -->
 	<noscript>
 	<a href="http://www.quantcast.com/p-f07swHXQlH6kA" title="" target="_blank"><img src="http://pixel.quantserve.com/pixel/p-f07swHXQlH6kA.gif" alt="" style="display: none;" border="0" height="1" width="1" title="Quantcast" /></a>
@@ -638,6 +675,29 @@ if (remarketingCode === true) {
       js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=119421074773036";
       fjs.parentNode.insertBefore(js, fjs);
     }(document, 'script', 'facebook-jssdk'));</script>
+
+<script type="text/javascript" src="http://static1.totalbeauty.com/js/s_code.js?v=20131010175815"></script>
+
+
+<!-- Lotame DMS -->
+<script type="text/javascript" src="http://tags.crwdcntrl.net/c/3466/cc.js?ns=_cc3466" id="LOTCC_3466"></script>
+<script type="text/javascript" language="javascript">_cc3466.bcp();</script>
+
+<!-- BEGIN Krux Control Tag for "TotalBeauty" -->
+
+<!-- Source: /snippet/controltag?confid=Io5CA5ol&site=TotalBeauty&edit=1 -->
+<script class="kxct" data-id="Io5CA5ol" data-timing="async" data-version="1.9" type="text/javascript">
+  window.Krux||((Krux=function(){Krux.q.push(arguments)}).q=[]);
+  (function(){
+    var k=document.createElement('script');k.type='text/javascript';k.async=true;
+    var m,src=(m=location.href.match(/\bkxsrc=([^&]+)/))&&decodeURIComponent(m[1]);
+    k.src = /^https?:\/\/([^\/]+\.)?krxd\.net(:\d{1,5})?\//i.test(src) ? src : src === "disable" ? "" : (location.protocol==="https:"?"https:":"http:")+"//cdn.krxd.net/controltag?confid=Io5CA5ol";
+    var s=document.getElementsByTagName('script')[0];s.parentNode.insertBefore(k,s);
+  }());
+</script>
+<!-- END Krux Controltag -->
+
+
 
 
 </body></html>
