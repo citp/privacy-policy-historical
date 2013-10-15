@@ -1,18 +1,17 @@
-> *The following text is extracted and transformed from the datingskillsreview.com privacy policy that was archived on 2012-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121012043814id_/http%3A//www.datingskillsreview.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the datingskillsreview.com privacy policy that was archived on 2013-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131015152055id_/http%3A//www.datingskillsreview.com/privacy) for the most accurate reproduction.*
 
 # Privacy
 
-**DatingSkillsReview.com  
-(Goal First Media Inc. or "GFMI")  
+**Dating Skills Review™ (Personal Upgrades Limited)  
 Privacy Policy**  
 ---  
-What information does GFMI collect from our users and how do we collect it?  
+What information does Personal Upgrades Limited collect from our users and how do we collect it?  
   
-GFMI only contacts individuals who specifically request that we do so or in the event that they have signed up to receive our free newsletters. GFMI collects personally identifying information from our users during online registration. Generally, this information includes name and e-mail address for registration to receive our free newsletters or access to content on a web site. All of this information is provided to us by you.  
+Personal Upgrades Limited only contacts individuals who specifically request that we do so or in the event that they have signed up to receive our free newsletters. Personal Upgrades Limited collects personally identifying information from our users during online registration. Generally, this information includes name and e-mail address for registration to receive our free newsletters or access to content on a web site. All of this information is provided to us by you.  
   
 How do we use this information?  
   
-This information is used for internal marketing purposes only. GFMI does not sell, exchange, or release your personal information (name, e-mail address, mailing address, credit data, etc.) Your information is not shared with any other third party or company.  
+This information is used for internal marketing purposes only. Personal Upgrades Limited does not sell, exchange, or release your personal information (name, e-mail address, mailing address, credit data, etc.) Your information is not shared with any other third party or company.  
   
 What are cookies/clear GIFs and how do we use them?  
   
@@ -24,15 +23,16 @@ Clear GIFs can "work with" existing cookies on a computer if they are both from 
   
 How do we store your information?  
   
-Your information is stored locally on our own web site database or on the list server that delivers a GFMI newsletter. Your information can only be accessed by those who help manage our internal databases and those lists in order to deliver e-mail to those who would like to receive GFMI's newsletters. 
+Your information is stored locally on our own web site database or on the list server that delivers a Personal Upgrades Limited newsletter. Your information can only be accessed by those who help manage our internal databases and those lists in order to deliver e-mail to those who would like to receive PUL's newsletters. 
 
-All of the newsletters that are sent to you by GFMI include an unsubscribe link in them. You can remove yourself at any time from our newsletters by clicking on the unsubscribe link. You can also contact us at [support@goalfirstmedia.com](mailto:support@goalfirstmedia.com) to change your information at any time.  
+All of the newsletters that are sent to you by Personal Upgrades Limited include an unsubscribe link in them. You can remove yourself at any time from our newsletters by clicking on the unsubscribe link. You can also contact us at [support@personalupgrades.com](mailto:support@personalupgrades.com) to change your information at any time.  
   
 Disclaimer  
-This policy may be changed at any time at GFMI's discretion. If we should update this policy, we will post the updates to this page on our Website. This policy was revised February 16, 2009.
+This policy may be changed at any time at PUL's discretion. If we should update this policy, we will post the updates to this page on our Website. This policy was revised February 16, 2009.
 
-If you have any questions or concerns regarding our privacy policy please direct them to [support@goalfirstmedia.com](mailto:support@goalfirstmedia.com). You may also send a letter to:
+If you have any questions or concerns regarding our privacy policy please direct them to [support@personalupgrades.com](mailto:support@personalupgrades.com). You may also send a letter to:
 
-Goal First Media Inc.  
-3980 Howard Hughes Pkwy.  
-Las Vegas, NV 89169
+Personal Upgrades Limited  
+Unit 1010, 10/F, Miramar Tower, 132 Nathan Road,  
+Tsim Sha Tsui, Kowloon,  
+Hong Kong 
