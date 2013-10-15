@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bbcgoodfood.com privacy policy that was archived on 2013-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130510165544id_/http%3A//www.bbcgoodfood.com/content/website-terms/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bbcgoodfood.com privacy policy that was archived on 2013-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131015143050id_/http%3A//www.bbcgoodfood.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Website Terms - BBC Good Food
+# Privacy policy | BBC Good Food
 
 ## Privacy Policy
 
@@ -45,7 +45,7 @@ BBCW will use your personal information for a number of purposes including the f
   * for service administration purposes, which means that BBCW may contact you for reasons related to the service you have signed up for, as set out in **section 5: When will BBCW contact me?** below (e.g. to provide you with password reminders or to notify you that a particular service has been suspended for maintenance);
   * to notify you of changes to our service;
   * to contact you about a submission you have made to our websites or other publications, including any content you provide (follow the link to our Code of Conduct at the bottom of the main pages of our websites for more details about making online submissions);
-  * to personalise or improve the way BBCW content and advertising is presented to you online: 
+  * to personalise or improve the way BBCW content and advertising is presented to you online:
     * BBCW may collect your IP address (an IP address is a number that can uniquely identify a specific computer or other network device on the internet) and place cookies (see our Cookies Policy) for the purpose of improving our sites and enhancing your user experience, sometimes including the display of selected ads which are appropriate to your browsing pattern. This information is not used to develop a personal profile of you;
     * IP addresses may also be used to identify the location of users, the number of visits from different countries and also to block disruptive use;
     * to analyse and improve the services offered by a BBCW website, e.g. to provide you with the most user-friendly navigation experience;
@@ -100,6 +100,8 @@ BBCW won't contact you for marketing purposes, or promote new services to you un
 If you post or send offensive, inappropriate or objectionable content anywhere on a BBCW website, or otherwise engage in any disruptive behaviour, BBCW may use your personal information to stop such behaviour.
 
 Where BBCW reasonably believes that you are or may be in breach of the law (e.g. because content you have posted may be defamatory), BBCW may use your personal information to inform relevant third parties such as your employer, school e-mail/Internet provider or law enforcement agencies about the content and your behaviour.
+
+Moderation of bbcgoodfood.com is carried out by third party service, Mollum. [Click here to read Mollum's privacy policy.](http://mollom.com/web-service-privacy-policy)
 
 * * *
 
