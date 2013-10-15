@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the squaretrade.com privacy policy that was archived on 2013-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130615121300id_/http%3A//www.squaretrade.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the squaretrade.com privacy policy that was archived on 2013-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131015071256id_/http%3A//www.squaretrade.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy | SquareTrade
 
 **1\. Purpose of Privacy Policy**
 
-This privacy policy (“ **Privacy Policy** ”) describes how SquareTrade, Inc. and its related companies (“ **SquareTrade** ”) collect, use, and share personal information of consumer users of their websites, www.squaretrade.com, [www.squaretrade.co.uk](https://www.squaretrade.co.uk/), and [www.squaretrade.de](https://www.squaretrade.de/) (collectively the “Sites” and each individually a “Site”). This Privacy Policy explains our online information practices regarding the collection of information that we collect about you, how we use that information and the choices that you can make regarding your personal information. This Privacy Policy does not apply to websites, applications, or services that do not display or link to this statement or that display or link to different privacy statements. 
+This privacy policy (“ **Privacy Policy** ”) describes how SquareTrade, Inc. and its related companies (“ **SquareTrade** ”) collect, use, and share personal information of consumer users of their websites, [www.squaretrade.com](https://www.squaretrade.com/), [www.squaretrade.co.uk](https://www.squaretrade.co.uk/), [http://m.squaretrade.com](http://m.squaretrade.com/) and [www.squaretrade.de](https://www.squaretrade.de/) (collectively the “Sites” and each individually a “Site”). This Privacy Policy explains our online information practices regarding the collection of information that we collect about you, how we use that information and the choices that you can make regarding your personal information. This Privacy Policy does not apply to websites, applications, or services that do not display or link to this statement or that display or link to different privacy statements. 
 
-SquareTrade, Inc. has been awarded TRUSTe's Privacy Seal signifying that our privacy policy and practices have been reviewed by TRUSTe for compliance with TRUSTe's program requirements, including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program covers only information that is collected through the Sites and does not cover information that may be collected behind the log in on our website or through our mobile apps.
+SquareTrade, Inc. has been awarded TRUSTe's Privacy Seal signifying that our privacy policy and practices have been reviewed by TRUSTe for compliance with TRUSTe's program requirements, including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program covers only information that is collected through [www.squaretrade.com](https://www.squaretrade.com/) and does not cover information that may be collected behind the log in on our website or through our mobile apps.
 
 TRUSTe's mission, as an independent third party, is to increase online trust among consumers and organizations globally through its leading privacy Trustmark and innovative trust solutions. If you have questions or complaints regarding SquareTrade's privacy policy or practices, please contact us at [privacy@squaretrade.com](mailto:privacy@squaretrade.com). If you are not satisfied with our response you can contact [TRUSTe here](http://truste.org/consumers/watchdog_complaint.php).
 
@@ -16,15 +16,16 @@ We comply with the U.S. - E.U. Safe Harbor Framework as set forth by the U.S. De
 
 **3\. Information We Collect.**
 
-We collect information about you in various ways when you use our Sites. SquareTrade may automatically collect certain non-personal information from you regarding your use of our Sites. For example, when you visit our Sites your computer's operating system, Internet Protocol (IP) address, access times, browser type and language, and the website you visited before our site are logged automatically. SquareTrade gathers this non-personal data so it can analyze how you use our Sites, improve and customize our content, product offerings, layout and services. 
+We collect information about you in various ways when you use our Sites. SquareTrade may automatically collect certain information from you regarding your use of our Sites. For example, when you visit our Sites your computer's operating system, Internet Protocol (IP) address, access times, browser type and language, and the website you visited before our site are logged automatically. SquareTrade gathers this data so it can analyze how you use our Sites, improve and customize our content, product offerings, layout and services. 
 
   * **Cookies**. We may automatically collect information using “cookies.” A cookie is a small data file stored on your hard drive by a website. Cookies help us make out Site and your visit better. We use cookies to see which parts of our Site people use and like and to count visits to our Site. Most web browsers automatically accept cookies, but you can generally change your browser's settings to display a warning before accepting a bookie, or to block all cookies. However, please note that if you choose disable the receipt of cookies, certain features of the Site may not function properly or may be unavailable. Visit [www.aboutcookies.org](https://www.aboutcookies.org/) to learn about how to delete and control cookies using the main browser types.
   * **Pixel Tags**. We may collect information using Pixel Tags. Pixel Tags are small blocks of code that may be used on our Sites or in our emails. We use Pixel Tags to deliver cookies, count visits, understand usage and campaign effectiveness and to tell if an email has been opened and acted upon.
-  * **Third Party Analytics**. We run Google Analytics on our Site which uses Cookies and Pixel Tags to collect and store information such as how users interact with our Site, how often users visit the Site, what pages they visit, and what other sites they used prior to coming to the Site. We use the information we get from Google Analytics only to improve our Site and our Services. Please see the following link for more information about Google Analytics: <http://www.google.com/analytics/tos.html>. We do not tie information gathered using Google Analytics to your personally identifiable information.
+  * **Third Party Analytics**. We work with third party analytic vendors, consultants, and other service providers on our Site, who may also use Cookies and Pixel Tags to collect and store information such as how users interact with our Site, how often users visit the Site, what pages they visit, and what other sites they used prior to coming to the Site. 
+  * **Mobile**. When you download or use apps created by SquareTrade or our subsidiaries, we may receive information about your location and your mobile device, including a unique identifier for your device. We may use this information to provide you with location-based services, such as advertising, search results, and other personalized content. Most mobile devices provide users with the ability to turn off or disable location services. Most likely, these controls are located in the device's settings menu. If you have questions about how to disable your device's location services, we recommend you contact your mobile service carrier or your device manufacturer. 
 
 
 
-We also collect personal information that you provide to SquareTrade. For example, we collect your name, mailing address, phone number, credit card information or other information you provide us on our Sites. We may also obtain information from other sources and combine that with information we collect on our Sites. In addition, SquareTrade may use and share your personal information with its affiliates, subsidiaries, and partners and with third parties for purposes of follow-up communications, notices, and/or marketing.
+Some examples of personal information that we may collect include device/browser information, your name, mailing address, phone number, credit card information, your IP address, and/or other information you provide us on our Sites. We may also obtain information from other sources and combine that with information we collect on our Sites. In addition, SquareTrade may use and share your personal information with its affiliates, subsidiaries, and partners and with third parties for purposes of follow-up communications, notices, and/or marketing.
 
 Third Party Advertisements
 
@@ -39,7 +40,7 @@ We use personal information collected through our Sites for purposes described i
   * respond to your comments and questions and provide customer service;
   * provide and deliver products and services you request;
   * to send you related information, including confirmations, invoices, technical notices, updates, security alerts, and support and administrative messages;
-  * communicate with you about promotions upcoming events, and other news about products and services offered by SquareTrade and our selected partners;
+  * communicate with you about promotions, upcoming events, and other news about products and services offered by SquareTrade and our selected partners;
   * link or combine it with other personal information we get from third parties, to help understand your needs and provide you with better service.
 
 
@@ -61,9 +62,11 @@ Our policy only addresses the use and disclosure of information we collect from 
 
 **6\. Choice/Opt Out.**
 
-You may opt out of receiving marketing and promotional emails from SquareTrade by (a) clicking on the “unsubscribe” link that appears in all of our emails or (b) by changing the communication preferences for your account by going to the My Profile page at [www.squaretrade.com/my-profile](https://web.archive.org/my-profile). If you opt out, we may still send you non-promotional emails, such as emails about your accounts, our ongoing business relations, or to respond to requests and inquiries.
+By registering on our Sites or over the phone, you agree to receive marketing communications from SquareTrade (including but not limited to newsletters, e-mail, direct mail, phone calls, etc.) and will also be automatically enrolled in SquareTrade’s Rewards Program. 
 
-You can also opt out of emails and request access to, changes, or updates to your information by contacting [privacy@squaretrade.com](mailto:privacy@squaretrade.com)
+You may opt out of receiving our newsletter and/or marketing and promotional communications from SquareTrade at any time by (a) clicking on the “unsubscribe” link that appears in all of our emails; (b) by changing the communication preferences for your account by going to the My Profile page at [www.squaretrade.com/my-profile](https://web.archive.org/my-profile) or (c) by contacting us via e-mail at [privacy@squaretrade.com](mailto:privacy@squaretrade.com). To specifically opt out of the SquareTrade Rewards Program, please contact us via e-mail at [privacy@squaretrade.com](mailto:privacy@squaretrade.com).
+
+If you opt out, we may still send you non-promotional emails, such as emails about your accounts, our ongoing business relations, or to respond to requests and inquiries.
 
 **7\. Security of Your Personal Information.**
 
@@ -71,10 +74,10 @@ We take steps to help protect personal information. No company can fully prevent
 
 **8\. Contact Information.**
 
-We welcome your comments or questions about this Privacy Policy or the practices described herein. You may contact us at SquareTrade, Inc. Attn: Legal Department, 360 Third Street, 6th Floor, San Francisco, CA 94107.
+We welcome your comments or questions about this Privacy Policy or the practices described herein. You may contact us at SquareTrade, Inc. Attn: Legal Department, 360 Third Street, 6th Floor, San Francisco, CA 94107. To request access to, changes, or updates to your information please contact us at [privacy@squaretrade.com](mailto:privacy@squaretrade.com)
 
 **9\. Modifications to this Policy.**
 
 We may change our Privacy Policy from time to time. If we make any changes to this Privacy Policy, we will change the “Last Updated” date below.
 
-Last updated 4-1-2013 
+Last updated 9-05-2013 
