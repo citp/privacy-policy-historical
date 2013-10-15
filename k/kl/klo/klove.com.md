@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the klove.com privacy policy that was archived on 2013-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130510082404id_/http%3A//www.klove.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the klove.com privacy policy that was archived on 2013-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131015100427id_/http%3A//www.klove.com/privacy.aspx) for the most accurate reproduction.*
 
-# Privacy Policy - Positive Encouraging K-LOVE
+# Privacy Policy - K-LOVE
 
 **K-LOVE is committed to safeguarding individual and corporate privacy on our website; we operate under a strict set of privacy principles:**  
 
   * The only information K-LOVE obtains about visitors to its website is information voluntarily supplied by visitors, or non-identifiable information provided by third party "cookies" to better cater your experience on klove.com.  
   * In cases when K-LOVE may need personal information to provide visitors with services tailored especially for them, or to inform them about new features or services, visitors are explicitly asked for that information. 
-  * All identifiable information provided by members (name, email or home address) will not be disclosed to anyone outside of the K-LOVE family. 
+  * All identifiable information provided by members (name, email or home address) will not be disclosed to anyone outside of the K-LOVE family unless otherwise noted in a specific contest or other entry. 
   * K-LOVE employs strict security measures to safeguard online transactions; personal information is stored in a secured database and always sent via an encrypted channel. 
   * Users may unsubscribe at any time to any of our electronic communications by following the instructions contained within the email. 
   * K-LOVE maintains a strict "no-spam" policy. Your information, including your email address will not be sold to any third party.
