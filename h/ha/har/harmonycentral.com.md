@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the harmonycentral.com privacy policy that was archived on 2013-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130509203239id_/http%3A//www.harmonycentral.com/t5/custom/page/page-id/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the harmonycentral.com privacy policy that was archived on 2013-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131015045623id_/http%3A//www.harmonycentral.com/t5/custom/page/page-id/privacy-policy) for the most accurate reproduction.*
 
-# PrivacyPolicy - Harmony Central
+# Privacy Policy - Harmony Central
 
 ## YOUR PRIVACY RIGHTS
 
