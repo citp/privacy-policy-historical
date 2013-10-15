@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onlinetv-free.com privacy policy that was archived on 2013-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130514160850id_/http%3A//www.onlinetv-free.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlinetv-free.com privacy policy that was archived on 2013-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131016001240id_/http%3A//www.onlinetv-free.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Free TV Online | Watch Live Television | Live internet TV
 
