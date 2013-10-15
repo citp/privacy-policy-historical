@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bannersusa.com privacy policy that was archived on 2013-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130508170037id_/http%3A//www.bannersusa.com/All%2520Products/Privacy%2520Policy/index.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bannersusa.com privacy policy that was archived on 2013-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131015182221id_/http%3A//www.bannersusa.com/All%2520Products/Privacy%2520Policy/index.php) for the most accurate reproduction.*
 
-# BannersUSA ll Banner Stand SetUp Guides
+# BannersUSA l Privacy Policy
 
 Your privacy is very important to us. Accordingly, we have developed this Policy in order for you to understand how we collect, use, communicate and disclose and make use of personal information. The following outlines our privacy policy. 
 
