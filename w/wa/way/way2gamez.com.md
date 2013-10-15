@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the way2gamez.com privacy policy that was archived on 2013-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130509214640id_/http%3A//way2gamez.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the way2gamez.com privacy policy that was archived on 2013-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131015122502id_/http%3A//www.way2gamez.com/privacy.html) for the most accurate reproduction.*
 
 # Play Free Online Games - Play Over 1000 + Free Flash games including Racing games, Shooting Games, Cricket , Pool , Chess , Action games, And most exciting 3D Games.
 
