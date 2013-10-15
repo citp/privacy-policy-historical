@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rbs6nations.com privacy policy that was archived on 2013-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130520231857id_/http%3A//www.rbs6nations.com/en/733.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rbs6nations.com privacy policy that was archived on 2013-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131015213524id_/http%3A//www.rbs6nations.com/en/733.php) for the most accurate reproduction.*
 
 # Official RBS 6 Nations Rugby : Privacy Policy
 
