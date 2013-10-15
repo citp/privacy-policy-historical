@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the rapidvidz.com privacy policy that was archived on 2013-01-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130119045959id_/https%3A//rapidvidz.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rapidvidz.com privacy policy that was archived on 2013-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131015061927id_/https%3A//rapidvidz.com/pages/privacy) for the most accurate reproduction.*
 
 # Privacy
-
-**Privacy Policy**
 
 Your privacy is important to Media Reel ltd, ICS INVEST LINE SRL . So we’ve developed a Privacy Policy that covers how we collect, use, disclose, transfer, and store your information. Please take a moment to familiarize yourself with our privacy practices and let us know if you have any questions.
 
