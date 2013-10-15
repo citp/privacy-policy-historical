@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rollcall.com privacy policy that was archived on 2013-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130609092743id_/http%3A//www.economistgroup.com/results_and_governance/governance/Privacy%3Fpos%3Dftr) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rollcall.com privacy policy that was archived on 2013-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131015102809id_/http%3A//www.economistgroup.com/results_and_governance/governance/Privacy%3Fpos%3Dftr) for the most accurate reproduction.*
 
 # Privacy | Economist Group
 
