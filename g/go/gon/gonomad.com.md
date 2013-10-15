@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the gonomad.com privacy policy that was archived on 2013-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130509225657id_/http%3A//www.gonomad.com/corp/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gonomad.com privacy policy that was archived on 2013-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131016004703id_/http%3A//www.gonomad.com/corp/privacy.html) for the most accurate reproduction.*
 
-# Our Privacy Statement
+# Our Privacy Statement - GoNOMAD Travel
 
-| 
+Tags: GoNOMAD
 
 **GoNOMAD.com Privacy Statement**
 
@@ -33,9 +33,8 @@ These statistics become aggregate, anonymous information (e.g. "25% of our site 
 
 If you identify yourself by sending us an e-mail containing personal information, the information collected will be solely used to respond to your message. If you provide any information in connection with a contest, survey or promotion, that information will be used for general statistical purposes and/or to contact you if you are a contest winner. To the extent that GoNOMAD.com has access to your personal information, it will disclose it when required by law enforcement or other appropriate governmental authorities, or if the personal information is pertinent in a legal proceeding or court action. 
 
-##### What about listing businesses?
+  
 
-All listing businesses are expected to follow the privacy policy of GoNOMAD.com. However, because GoNOMAD.com is not a supervisory agent or owner, listing businesses may use information gathered from you at their own site for their statistical or promotional purposes, or for other arrangements. If you are concerned about the privacy policies of any GoNOMAD BUSINESS NETWORK MEMBERS, please contact them directly. 
 
 **Cookies**
 
@@ -43,39 +42,11 @@ GoNOMAD uses cookies on this website. Cookies are small text files that contain 
 
 **Third Party Advertisers**
 
-GoNOMAD uses third party advertising companies to serve ads when you visit our site. These companies may use information about your visits to this site, (not including your name, address or other personal information) to provide advertisements on this site, other websites and other forms of media about goods and services that may be of interest to you. In providing advertisements a unique third-party cookie may be placed on your browser. GoNOMAD does not control or have access to these cookies. If you would like more information about this practice and to know your choices about not having this information used by these companies, please visit [this website](http://www.networkadvertising.org/consumer/opt_out.asp). 
+GoNOMAD uses third party advertising companies to serve ads when you visit our site. These companies may use information about your visits to this site, (not including your name, address or other personal information) to provide advertisements on this site, other websites and other forms of media about goods and services that may be of interest to you. In providing advertisements a unique third-party cookie may be placed on your browser. GoNOMAD does not control or have access to these cookies. If you would like more information about this practice and to know your choices about not having this information used by these companies, please visit [this website](http://www.networkadvertising.org/consumer/opt_out.asp).
 
-##### Public Forums
-
-GoNOMAD.com makes bulletin boards and forums available to its members. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when disclosing personal information. 
-
-#####  Email
-
-GoNOMAD.com will not send you any email if you do not wish to receive any. If you have registered as a GoNOMAD NETWORK MEMBER, you will receive e-mail newsletters that might contain promotional offers from advertisers and sponsors. Advertisers and sponsors will not contact you directly. 
+  
+**Email** GoNOMAD.com will not send you any email if you do not wish to receive any. If you have registered as a GoNOMAD NETWORK MEMBER, you will receive e-mail newsletters that might contain promotional offers from advertisers and sponsors. Advertisers and sponsors will not contact you directly. 
 
 ##### Questions?
 
-If you have any further questions or suggestions about this privacy statement, please contact [editorial at gonomad.com](mailto:editorial@gonomad.com). If you are concerned about a specific page on our site, please include the address in the email message. 
-
-  
-Like this on Facebook: 
-
-* * *
-
-[](http://sightsandsoul.com/vietnamoverview)
-
-  
-
-
-  
-| 
-
-[](http://www.gonomad.com/airfares.html)
-
-  
-[Follow @gonomad](https://twitter.com/gonomad)   
-  
-  
----|---|---  
-  
-@Copyright 2000-2013 GoNOMAD.com Travel- All Rights Reserved. 
+If you have any further questions or suggestions about this privacy statement, please contact [editorial at gonomad.com](mailto:editorial@gonomad.com). If you are concerned about a specific page on our site, please include the address in the email message.
