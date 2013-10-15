@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the isitdownrightnow.com privacy policy that was archived on 2013-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130425103651id_/http%3A//www.isitdownrightnow.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the isitdownrightnow.com privacy policy that was archived on 2013-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131015070044id_/http%3A//www.isitdownrightnow.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Is It Down Right Now
 
@@ -24,8 +24,6 @@ The DoubleClick DART cookie is used by Google in the ads served on publisher web
 
 www.isitdownrightnow.com contains links to other sites. Please be aware that we are not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every Web site that collects personally identifiable information. This privacy statement applies solely to information collected by www.isitdownrightnow.com. 
 
-Latest Sites Checked
-
 Server is up. Last checked 0 seconds ago.
 
 Server is up. Last checked 0 seconds ago.
@@ -36,15 +34,9 @@ Server is up. Last checked 0 seconds ago.
 
 Server is down. Last checked 0 seconds ago.
 
-Server is up. Last checked 0 seconds ago.
-
-Down Right Now
-
 Server is down. Last checked 0 seconds ago.
 
 Server is down. Last checked 0 seconds ago.
-
-Server is down. Last checked 1 min ago.
 
 Server is down. Last checked 1 min ago.
 
