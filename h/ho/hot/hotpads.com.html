@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the hotpads.com privacy policy that was archived on 2013-05-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130530080119id_/http%3A//hotpads.com/pages/info/privacyPolicy.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the hotpads.com privacy policy that was archived on 2013-10-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131015221106id_/http%3A//hotpads.com/pages/info/privacyPolicy.htm) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
 		<meta http-equiv="Content-type" content="text/html; charset=iso-8859-1">
@@ -11,7 +11,7 @@
 			<meta name="keywords" content="HotPads Privacy Policy">
 		
 		<title>Privacy Policy - HotPads</title>
-		<link href="/css/main_blu.css?ad0c85f9d44f27819d8c73db9b06f035" media="all" rel="stylesheet" type="text/css">	
+		<link href="/css/main_blu.css?81ead0f9dd0ec1bd5e4f5f9c40e1e80c" media="all" rel="stylesheet" type="text/css">	
 		
 		<!--[if IE 9]>
 		<link rel="stylesheet" type="text/css" href="/css/main_blu_IE9.css?ee3bf678e7723c6cfd3b068e763d112b" />	
@@ -30,11 +30,9 @@
 			}
 		</style>				
 		
-		<script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script type="text/javascript" src="/js/lib.min.js?3c718f12b37197b1cd60c05e717a12f0"></script>
-<script type="text/javascript" src="/js/core.min.js?5ce64042780dfb7879faeca9b88c0470"></script> 
+		<script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script type="text/javascript" src="/js/lib.min.js?6dc1ca1b88309328d1a401f3cd6cdcdd"></script>
+<script type="text/javascript" src="/js/core.min.js?b91e2709b708e569c7e96a15a12d0a21"></script> 
 		
-
-
 
 
 
@@ -57,22 +55,27 @@
 
 
 	<script type="text/javascript">
-		
-			var googletag = googletag || {};
-			googletag.cmd = googletag.cmd || [];
-			(function() {
-			var gads = document.createElement('script');
-				gads.async = true;
-				gads.type = 'text/javascript';
-				var useSSL = 'https:' == document.location.protocol;
-				gads.src = (useSSL ? 'https:' : 'http:') + 
-				'//www.googletagservices.com/tag/js/gpt.js';
-				var node = document.getElementsByTagName('script')[0];
-					node.parentNode.insertBefore(gads, node);
-			})();
-		
-		
+		window.GAM_TAG_LOADED = window.GAM_TAG_LOADED || false;
+		if (!window.GAM_TAG_LOADED) {
+			
+				var googletag = googletag || {};
+				googletag.cmd = googletag.cmd || [];
+				(function() {
+				var gads = document.createElement('script');
+					gads.async = true;
+					gads.type = 'text/javascript';
+					var useSSL = 'https:' == document.location.protocol;
+					gads.src = (useSSL ? 'https:' : 'http:') + 
+					'//www.googletagservices.com/tag/js/gpt.js';
+					var node = document.getElementsByTagName('script')[0];
+						node.parentNode.insertBefore(gads, node);
+				})();
+			
+			
+			window.GAM_TAG_LOADED = true;
+		} 
 	</script>
+
 	<script>
 		
 		var flashVersion = (function () {
@@ -86,6 +89,7 @@
 		})();
 
 		googletag.cmd.push(function() {
+			//googletag.pubads().disableInitialLoad();
 			
 				googletag.pubads().setTargeting("role", "anonymous");		
 			
@@ -97,11 +101,13 @@
 			googletag.pubads().enableSingleRequest();
 			
 			googletag.enableServices();
+
 		});
 	</script>
 	
+	
 	<script type="text/javascript">
-		if (typeof gam_attr == "undefined") var gam_attr = {};
+		gam_attr = {};
 		
 			gam_attr.role = "anonymous";
 		
@@ -124,8 +130,6 @@
 	
 	</script>
 
-
-	
 
 		
 	<script src="https://ssl.google-analytics.com/ga.js" async="true"></script></head>
@@ -304,7 +308,7 @@
 
 	
 		
-		<a id="loginLink" rel="nofollow" href="/login.jsp">sign in</a> <span class="blue-light-border">|</span> 
+		<a id="loginLink" rel="nofollow" href="/login.htm">sign in</a> <span class="blue-light-border">|</span> 
 		<a href="/users/newUser.htm" rel="nofollow">create an account</a>  
 	
 	
@@ -482,7 +486,7 @@ HotPads, Inc.
 				 - 
 				<a href="/list.htm">Create a Listing</a>
 				 -
-				<a href="/pages/featuredListings/about.htm">Featured Listings</a>
+				<a href="/pages/featuredListings/about.htm">Featured Properties</a>
 				 - 
 				<a href="/pages/rentersGuide/home.htm">Renters Guide</a>
 				-
@@ -598,18 +602,31 @@ HotPads, Inc.
   
   
   
+	
+  		_gaq.push(['_setCustomVar', 23, 'signedIn', 'anonymous', 2]);
+  	
+  	
+  	
   
-  _gaq.push(['_trackPageview']);
-  _gaq.push(['_trackPageLoadTime']);
 
   
-  (function() {
-    var ga = document.createElement('script');
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 
-        'http://www') + '.google-analytics.com/ga.js';
-    ga.setAttribute('async', 'true');
-    document.documentElement.firstChild.appendChild(ga);
-  })();
+  _gaq.push(['_setCustomVar', 24, 'userToken', '', 2]);
+  
+  
+    
+  _gaq.push(['_trackPageview']);
+
+  window.GA_TAG_LOADED = window.GA_TAG_LOADED || false;
+  if (!window.GA_TAG_LOADED) {
+	  (function() {
+	    var ga = document.createElement('script');
+	    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 
+	        'http://www') + '.google-analytics.com/ga.js';
+	    ga.setAttribute('async', 'true');
+	    document.documentElement.firstChild.appendChild(ga);
+	    window.GA_TAG_LOADED = true;
+	  })();
+  }
 
 </script>
 
@@ -619,11 +636,15 @@ HotPads, Inc.
 <script>
   var _comscore = _comscore || [];
   _comscore.push({ c1: "2", c2: "6036206" });
-  (function() {
-    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
-    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
-    el.parentNode.insertBefore(s, el);
-  })();
+  
+  window.COMSCORE_TAG_LOADED = window.COMSCORE_TAG_LOADED || false;
+  if (!window.COMSCORE_TAG_LOADED) {	  
+	  (function() {
+	    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+	    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+	    el.parentNode.insertBefore(s, el);
+	  })();
+  }
 </script>
 <noscript>
   <img src="http://b.scorecardresearch.com/p?c1=2&c2=6036206&cv=2.0&cj=1" />
