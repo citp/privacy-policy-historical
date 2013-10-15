@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freewarefiles.com privacy policy that was archived on 2013-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130622015731id_/http%3A//www.freewarefiles.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freewarefiles.com privacy policy that was archived on 2013-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131015172307id_/http%3A//www.freewarefiles.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Freeware Files.com
 
@@ -28,6 +28,8 @@ You may request deletion of your FreewareFiles.com account by contacting [Custom
 **Third Party Advertising**
 
 We use third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. 
+
+We may use third parties' technology to operate and manage the download and installation process of our products. For the terms of service and privacy policy of the InstallCore technology which may be used by us, please see here: <http://www.installcore.com/legal/terms-of-service/>
 
 **Third Party Cookies**
 
