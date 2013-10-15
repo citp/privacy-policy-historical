@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the jagex.com privacy policy that was archived on 2013-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130527084753id_/http%3A//www.jagex.com/privacy/privacy.ws) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jagex.com privacy policy that was archived on 2013-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131015103858id_/http%3A//www.jagex.com/privacy/privacy.ws) for the most accurate reproduction.*
 
 # Jagex Games Studio - Free Online Browser Games
 
-Effective Date: 20th February, 2013
+Effective Date: 26th September, 2013
 
 ### Privacy Policy
 
