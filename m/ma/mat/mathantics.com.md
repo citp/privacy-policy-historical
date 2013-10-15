@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mathantics.com privacy policy that was archived on 2013-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130418090332id_/http%3A//www.mathantics.com/index.php/help/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mathantics.com privacy policy that was archived on 2013-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131015104456id_/http%3A//mathantics.com/index.php/help/page/privacy) for the most accurate reproduction.*
 
-# Math Antics
+# Math Antics - Math Video Lessons for Free plus more
 
 This Privacy Policy explains our policy regarding the collection, use and disclosure of your personal information by Math Plus Motion LLC ("we", "us"). As we update and expand our services, this policy may change, so please refer back to it periodically. By accessing the Math Antics Site ("Site") you consent to these policies.
 
@@ -52,6 +52,6 @@ As we update and expand our services, we may make changes to this policy. You sh
 
 ## Contact
 
-If you have questions concerning this privacy policy, please [contact us](http://www.mathantics.com/index.php/contactus/to/questions/Privacy%20Policy).
+If you have questions concerning this privacy policy, please [contact us](http://mathantics.com/index.php/contactus/to/questions/Privacy%20Policy).
 
 Last updated: January 2011
