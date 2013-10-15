@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the michellephan.com privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602171543id_/http%3A//michellephan.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the michellephan.com privacy policy that was archived on 2013-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131015053354id_/http%3A//michellephan.com/privacy) for the most accurate reproduction.*
 
-# MichellePhan.com
+# privacy | MichellePhan.com
 
 This Policy was last changed on February 14, 2013
 
