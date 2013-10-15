@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the spore.com privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621061909id_/http%3A//www.ea.com/global/legal/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spore.com privacy policy that was archived on 2013-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131016011139id_/http%3A//www.ea.com/global/legal/privacy.jsp) for the most accurate reproduction.*
 
 # Privacy Policy
 
 ELECTRONIC ARTS PRIVACY POLICY
 
-Effective Date: September 4, 2012
+Effective Date: June 28, 2013
 
 [](http://privacy.truste.com/privacy-seal/Electronic-Arts/validation?rid=1cc8e153-d5a9-45d1-b59d-5fe13b8709c5 "TRUSTe European SafeHarbor certification")
 
@@ -137,9 +137,9 @@ EA also obtains personal and non-personal information from third parties as disc
 
 If you sign up to play EA games through a PlayStation®3 computer entertainment system, your Sony Entertainment Network account information will be provided to EA so that we can establish an Origin Account for you. You need an Origin Account to play EA's titles online. By signing up to play EA's titles, you agree that limited user account information can be transferred to EA. Information transferred to EA includes your name, email address, online ID, country, language and date of birth but does not include credit card number or other financial account information.
 
- **2\. Xbox LIVE**
+ **2\. Xbox Live**
 
-If you sign up to play EA games through Microsoft's Xbox LIVE Service, Microsoft will provide your Xbox LIVE user account information to EA so that we can establish an Origin Account for you. You need an Origin Account to play EA's Xbox LIVE titles. By signing up to play EA's Xbox LIVE titles, you agree that Microsoft can transfer your user account information to EA. Information transferred from Microsoft to EA includes your Gamertag, email address, state or province, country, language and age but does not include credit card number or other financial account information.
+If you sign up to play EA games through Microsoft's Xbox Live Service, Microsoft will provide your Xbox Live user account information to EA so that we can establish an Origin Account for you. You need an Origin Account to play EA's Xbox Live titles. By signing up to play EA's Xbox Live titles, you agree that Microsoft can transfer your user account information to EA. Information transferred from Microsoft to EA includes your Gamertag, email address, state or province, country, language and age but does not include credit card number or other financial account information.
 
  **3\. Wii U**
 
@@ -201,9 +201,9 @@ If you've granted EA access to your Facebook account information through an EA o
 
 X.    A Special Note About Children
 
-Many EA online or mobile products and services are intended for general audiences and do not knowingly collect any personal information from children. When an EA online or mobile product or service does collect age information, and users identify themselves as under 13, the product or service will either block such users from providing personal information, or will ensure consent is obtained from parents for the collection, use and sharing of their children's personal information. We will not knowingly ask children under the age of 13 to provide more information than is reasonably necessary to provide our services.
+Many EA online or mobile products and services are intended for general audiences and do not knowingly collect any personal information from children. When an EA online or mobile product or service does request age information, and users identify themselves as under 13, the product or service will either block such users from providing personal information, or we will ensure consent is obtained from parents for the collection, use and sharing of their children's personal information. At that time, we will provide a description of the information that the child may make publically available, how we will use the information and other practices. We will not knowingly ask children under the age of 13 to provide more information than is reasonably necessary to provide our services.
 
-Please note that if you grant consent for your child to use EA's online or mobile products and services, this will include such general audience communication services as email, instant messaging, and online groups, and your child will be able to communicate with, and disclose personal information to, other users of all ages. Parents can change or revoke the consent choices previously made, and review, edit or request the deletion of their children's personal information by sending an email to the appropriate Privacy Policy Administrator at [privacyadmin.ea.com](http://privacyadmin.ea.com/).
+Please note that if you grant consent for your child to use EA's online or mobile products and services, this may include such general audience communication services as email, instant messaging, and online groups, and your child will be able to communicate with, and disclose personal information to, other users of all ages. Parents can review, edit, request the deletion, or prevent further collection or use of their children's personal information or make inquiries regarding this policy by sending an email to [privacy_policy@ea.com](mailto:privacy_policy@ea.com); writing to Privacy Policy Administrator, 209 Redwood Shores Parkway, Redwood City, CA 94065; or calling (650) 628-1393.  Alternatively, you may also contact the appropriate Privacy Policy Administrator for your country listed at [privacyadmin.ea.com](http://privacyadmin.ea.com/).
 
 If we change this privacy statement in a way that expands the collection, use or disclosure of children's personal information to which a parent has previously consented, the parent will be notified and we will be required to obtain the parent's additional consent.
 
