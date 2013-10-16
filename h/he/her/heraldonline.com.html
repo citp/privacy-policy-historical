@@ -1,7 +1,9 @@
-<!--The following is the downloaded HTML source of the heraldonline.com privacy policy that was archived on 2013-05-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130522041958id_/http%3A//heraldonline.com/privacy_policy%23navlink%3Dmi_footer) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the heraldonline.com privacy policy that was archived on 2013-10-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131016141142id_/http%3A//www.heraldonline.com/privacy_policy%23navlink%3Dmi_footer) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" class="no-js"><head>
+
+    
 <title>Rock Hill Herald Online Rock Hill, SC</title>
 
 
@@ -21,9 +23,12 @@
    
    // ----- end gomez -----
 //--> 
-</script><script async="" src="https://D3FD89.r.axf8.net/mr/e.gif?info=%7Bn%3Ac%7Ca%3AD3FD89%7Ch%3A2%7Cc%3A206441268715851%7Ci%3A%7Cj%3A%7Cd%3A1%7Ce%3ARock%20Hill%7Cb%3Astatic%7Cl%3Ahttps%24*%24%2F%2Fweb.archive.org%2Fweb%2F20130522041958id_%2Fhttp%3A%2F%2Fwww.heraldonline.com%2Fprivacy_policy%2F%7Cm%3A800%7Co%3A600%7Cp%3ALinux%20x86_64%7Cg%3AChrome%7Cf%3A69.0.3494.0%7D%7Bn%3Au%7Ce%3A1%7D&amp;a=D3FD89&amp;r=1&amp;s=1" type="text/javascript"></script>
+</script><script async="" src="https://D3FD89.r.axf8.net/mr/e.gif?info=%7Bn%3Ac%7Ca%3AD3FD89%7Ch%3A2%7Cc%3A60139557669110%7Ci%3A%7Cj%3A%7Cd%3A1%7Ce%3ARock%20Hill%7Cb%3Astatic%7Cl%3Ahttps%24*%24%2F%2Fweb.archive.org%2Fweb%2F20131016141142id_%2Fhttp%3A%2F%2Fwww.heraldonline.com%2Fprivacy_policy%2F%7Cm%3A800%7Co%3A600%7Cp%3ALinux%20x86_64%7Cg%3AChrome%7Cf%3A69.0.3494.0%7D%7Bn%3Au%7Ce%3A1%7D&amp;a=D3FD89&amp;r=1&amp;s=1" type="text/javascript"></script>
 
-<link href="/mistatic/cache/stylesheets/33024e9d2dc0978205755ba1ace15e61-min.css" media="screen" rel="stylesheet" type="text/css">
+
+
+<link rel="apple-touch-icon" href="http://media.heraldonline.com/mistatic/images/icons/HeraldOnline.png">
+<link href="/mistatic/cache/stylesheets/d1a781d5c91343012439bf69ada4d25c-min.css" media="screen" rel="stylesheet" type="text/css">
 
 <link href="http://media.heraldonline.com/mistatic/stylesheets/print.css" media="print" rel="stylesheet" type="text/css">
 
@@ -74,6 +79,24 @@
 	*/
 	miAppControler.prototype.paywall = 1;
 
+        /* Yahoo CTXT ads
+         0 = disable
+         1 = enable for preview & live
+         2 = enable for preview only
+        */
+
+        miAppControler.prototype.yahooctxt = 1;
+
+        /* Google AdSense ads
+         0 = disable
+         1 = enable for preview and live
+         2 = enable for preview only
+         3 = present on preview and live with display hidden
+        */
+
+        miAppControler.prototype.googleadsense = 0;
+
+
 
 
         var pageInfo = {'version':1.0};
@@ -89,60 +112,87 @@
 
 <script type="text/javascript">
 var auth_cookie_name = "rockhillherald_user_auth";
-</script><script type="text/javascript" src="/mistatic/cache/javascripts/ccc1056db32079cd3b64c6700ac11daf-min.js"></script>
+</script><script type="text/javascript" src="/mistatic/cache/javascripts/b4e2c3231a915229507c3c9e36d2218c-min.js"></script>
 
 
 <script type="text/javascript" src="http://media.heraldonline.com/mistats/mianalytics.js"></script>
 
-<script type="text/javascript" src="http://media.heraldonline.com/static/scripts/sectionfront.js"></script>
+<script type="text/javascript">
+/**
+ * @fileOverview
+ * This is the configuration file for the affiliate. Making changes to this file could result in
+ * breaking your search. If you have any questions please submit a ticket via the Support Portal.
+ *
+ * When hyphens (-) are used in URL query params, the string "_mihyphen_" is used in place of an
+ * actual hyphen (-) in the object property names below. Hyphens can't be used in object property
+ * names.
+ *
+ *
+ *
+ * @minify true
+ * @author Jamison Kirk (jkirk [at] mcclatchyinteractive.com)
+ */
+
+
+mi.Search.prototype.searchParamConfig = function(search_type, search_text) {
+
+        this.setConf("searchSelectorType","");
+        this.setConf("defaultSearchType","site_search");
+
+        this.setConf("mi_search_dropdown_keys",$("form#search_widget_form div.arrow, form#search_widget_form ul, form#search_widget_form div.icon, form#search_widget_form input#search_keywords"));
+        this.setConf("mi_search_drop_down",$("form#search_widget_form ul"));
+        this.setConf("mi_search_drop_down_link",$("form#search_widget_form ul.search_widget_choice li a"));
+        this.setConf("mi_search_dropdown_input",$("#search_keywords"));
+        this.setConf("mi_search_widget_icon",$("#search_widget_form div.icon img"));
+        this.setConf("mi_search_selected",$("#search_widget_choice li"));
+
+        this.setConf("mi_search_drop_down_web_search_item",$("#search_widget_web_search_choice"));
+        this.setConf("yahoo_credit",$("p.yahoo_credit"));
+        
+
+        if (search_type) {
+                switch (search_type) {
+                        case "site_search":
+                                this.setConf("form_action","http://www.heraldonline.com/search_results");
+                        break;
+                        
+                        case "web_search":
+                                this.setConf("form_action","http://www.heraldonline.com/web_search");
+                        break;
+                        
+                        case "archives":
+                                this.setConf("form_action","http://www.newslibrary.com/nlsearch.asp?");
+                                this.setConf("query_fields",{search_mode:"all",
+                                                                date_mode:"year",
+                                                                year:"last+180+days",
+                                                                sort:"d%3Ah",
+                                                                nitems:"10",
+                                                                region:"rhhb",
+                                                                dbquery:search_text,
+                                                                collection:"ARCHIVES"}
+                                                );
+                        break;
+                        
+                        default:
+                                this.configErrorReporter();
+                }
+        }
+};
+</script>
+
 <script type="text/javascript">
     if (typeof(mi.Search) !== 'undefined') {
         mi.search = new mi.Search();
     }
 </script>
 
-<script type="text/javascript">
-    mi.commenting = new mi.Commenting();
-    
-    mi.commenting.setConf( "accountName", "heraldonline" );
-    
-    
-    var disqus2012cookie = new mi.Cookie(document, 'disqus2012');
-    if(disqus2012cookie.load()){
-            mi.commenting.reset_disqus_config(disqus2012cookie.disqus2012, '1i5FkqMD7y16QPLgKu9m9sfp74FwqrMuUj9ApgoSdMHetzO6vK5CLS4K6EKEON5c');
-    }
-    
-    
-    
-</script>
-
-<!--[if lte IE 7]>
-<script type="text/javascript">
-$(document).ready(function() {
-    // Dynamic padding for navigation
-    var parent_container = $('nav.primary div');
-    var target_elements = $('nav.primary div a');
-    var remainder_element = $('nav.primary div ul#analytics_based li:first-child a');
-    var border_size = (target_elements.length * 2 + 1);
-    padding(parent_container, target_elements, remainder_element, border_size, false);
-
-    // Dynamic padding for sub-navigation
-    var parent_container = $('#sub_nav');
-    var target_elements = $('#sub_nav > ul li a');
-    var remainder_element = $('#sub_nav > ul li:first-child a');
-    var border_size = (target_elements.length * 2 + 1);
-    padding(parent_container, target_elements, remainder_element, border_size, false);
-});
-</script>
-<![endif]-->
-
-
-
-	<script type="text/javascript">
-	$(document).ready(function() {
-		$("#commentCount").hide();
-	});
-	</script>
+        <script type="text/javascript">
+            mi.commenting = new mi.Commenting();
+            mi.commenting.setConf( {
+                accountName: "HeraldOnline",
+                fbapp_id:    "578157565554308"
+            });
+        </script>
 
 
 <script type="text/javascript">
@@ -170,32 +220,32 @@ $(document).ready(function() {
     googletag.pubads().setTargeting("pl", "misc");
     googletag.pubads().setTargeting("sect", "Static");
 
+
     googletag.pubads().setTargeting("ref", gpt_ref);   });
 </script> 
-
 <script>
   googletag.cmd.push(function() {
-      googletag.defineSlot("/7675/RHL.site_heraldonline/Online/SiteInformation", [960,30], "div-gpt-ad-978691142107948-1")
+      googletag.defineSlot("/7675/RHL.site_heraldonline/Online/SiteInformation", [960,30], "div-gpt-ad-611818834864479-1")
         .setTargeting("pos", "1")
         .setTargeting("atf", "y")
         .addService(googletag.pubads()); 
-      googletag.defineSlot("/7675/RHL.site_heraldonline/Online/SiteInformation", [150,25], "div-gpt-ad-978691142107948-2")
+      googletag.defineSlot("/7675/RHL.site_heraldonline/Online/SiteInformation", [150,25], "div-gpt-ad-611818834864479-2")
         .setTargeting("pos", "1")
         .setTargeting("atf", "y")
         .addService(googletag.pubads()); 
-      googletag.defineSlot("/7675/RHL.site_heraldonline/Online/SiteInformation", [100,25], "div-gpt-ad-978691142107948-3")
+      googletag.defineSlot("/7675/RHL.site_heraldonline/Online/SiteInformation", [100,25], "div-gpt-ad-611818834864479-3")
         .setTargeting("pos", "1")
         .setTargeting("atf", "y")
         .addService(googletag.pubads()); 
-      googletag.defineSlot("/7675/RHL.site_heraldonline/Online/SiteInformation", [300,250], "div-gpt-ad-978691142107948-4")
+      googletag.defineSlot("/7675/RHL.site_heraldonline/Online/SiteInformation", [300,250], "div-gpt-ad-611818834864479-4")
         .setTargeting("pos", "1")
         .setTargeting("atf", "y")
         .addService(googletag.pubads()); 
-      googletag.defineSlot("/7675/RHL.site_heraldonline/Online/SiteInformation", [300,100], "div-gpt-ad-978691142107948-5")
+      googletag.defineSlot("/7675/RHL.site_heraldonline/Online/SiteInformation", [300,100], "div-gpt-ad-611818834864479-5")
         .setTargeting("pos", "1")
         .setTargeting("atf", "n")
         .addService(googletag.pubads()); 
-      googletag.defineSlot("/7675/RHL.site_heraldonline/Online/SiteInformation", [300,250], "div-gpt-ad-978691142107948-6")
+      googletag.defineSlot("/7675/RHL.site_heraldonline/Online/SiteInformation", [300,250], "div-gpt-ad-611818834864479-6")
         .setTargeting("pos", "2")
         .setTargeting("atf", "n")
         .addService(googletag.pubads()); 
@@ -205,7 +255,6 @@ $(document).ready(function() {
     googletag.enableServices();
   });
 </script>
-
 <script language="JavaScript" type="text/javascript" src="http://media.heraldonline.com/misites/rhh/heraldonline.js"></script><!-- site specific file already loaded -->
 <script language="JavaScript" type="text/javascript">
 <!--
@@ -234,15 +283,15 @@ mistats.channel='Privacy Policy';
 </script>
 
 
+
 </head>
 
 
 <body class="section" id="section_"><div class="sbb_wrap">
     <div class="top_ads">   
         <div class="ad">
-        <div class="advertisement dart_960x30" id="dart_960x30_1"><script language="JavaScript" type="text/javascript" src="http://ad.doubleclick.net/adj/mi.rhh00/Online/SiteInformation;atf=y;dcove=d;pl=misc;sect=Static;pos=1;sz=960x30;tile=1;!c=news;gender=;year=;income=;ord=642212153981720?"></script>
-<noscript><a href="http://ad.doubleclick.net/jump/mi.rhh00/Online/SiteInformation;atf=y;dcove=d;pl=misc;sect=Static;pos=1;sz=960x30;tile=1;!c=news;gender=;year=;income=;ord=642212153981720?" target="_blank"><img src="http://ad.doubleclick.net/ad/mi.rhh00/Online/SiteInformation;atf=y;dcove=d;pl=misc;sect=Static;pos=1;sz=960x30;tile=1;!c=news;gender=;year=;income=;ord=642212153981720?" border="0" alt="Advertisement"></a></noscript> <div id="div-gpt-ad-978691142107948-1">
-<script type="text/javascript">googletag.cmd.push(function() { googletag.display('div-gpt-ad-978691142107948-1'); });</script>
+        <div class="advertisement dart_960x30" id="dart_960x30_1"><div id="div-gpt-ad-611818834864479-1">
+<script type="text/javascript">googletag.cmd.push(function() { googletag.display('div-gpt-ad-611818834864479-1'); });</script>
 </div>        </div>
 </div>
 
@@ -261,7 +310,14 @@ mistats.channel='Privacy Policy';
             <li class="jobs"><a href="/jobs/#navlink=navbar">Jobs</a></li>
             <li class="cars"><a href="/cars/#navlink=navbar">Cars</a></li>
             <li class="homes"><a href="/homes/#navlink=navbar">Homes</a></li>
-            <li class="apartments"><a href="/apartments/#navlink=navbar">Apartments</a></li><li class="legals"><a href="http://www.heraldonline.com/classified-ads/category/Legals#navlink=navbar">Legals</a></li>            <li class="place_ad last"><a href="http://rockhillherald.adperfect.com/#navlink=navbar">Place an ad</a></li>
+            <li class="apartments"><a href="/apartments/#navlink=navbar">Apartments</a></li><li class="legals"><a href="http://www.heraldonline.com/classified-ads/category/Legals#navlink=navbar">Legals</a></li>            <li class="place_ad last"><a href="http://rockhillherald.adperfect.com/#navlink=navbar">Place an ad</a>                        <ul class="place_ad_links">
+                            <li><a href="http://rockhillherald.adperfect.com/#navlink=navbar">Classifieds</a></li>
+                            <li><a href="http://rockhillherald.adperfect.com/?catid=3232">Jobs</a></li>
+                            <li><a href="http://rockhillherald.adperfect.com/?catid=3292">Cars</a></li>
+                            <li><a href="http://rockhillherald.adperfect.com/?catid=3282">Homes</a></li>
+                            <li><a href="http://rockhillherald.adperfect.com/?catid=3272">Apartments</a></li>
+                            <li><a href="http://rockhillherald.adperfect.com/#navlink=navbar">Other</a></li>
+                        </ul>            </li>
         </ul>
         
         <div id="weather">
@@ -269,18 +325,17 @@ mistats.channel='Privacy Policy';
             
 
             <div class="current">
-            <a href="/weather/"><img id="weather_icon" alt="Clear" src="http://media.heraldonline.com/mistatic/images/weather/icons/33.png"></a>
+            <a href="/weather/"><img id="weather_icon" alt="Cloudy" src="http://media.heraldonline.com/mistatic/images/weather/icons/07.png"></a>
             </div>
             <div class="temp">
-                <div id="weather_curr_temp" class="current_temp">69°</div>
+                <div id="weather_curr_temp" class="current_temp">58°</div>
                 <div class="weather_alert"><a href="?">Alert!</a></div>
                 <div class="forecast">&nbsp;<a href="/weather/">Forecast</a></div>
             </div>
         </div><!-- #weather -->
             <div class="weather_sponsor" id="dart_150x25_weather_1">
-        <script language="JavaScript" type="text/javascript" src="http://ad.doubleclick.net/adj/mi.rhh00/Online/SiteInformation;atf=y;dcove=d;pl=misc;sect=Static;pos=1;sz=150x25;tile=2;!c=news;gender=;year=;income=;ord=642212153981720?"></script>
-<noscript><a href="http://ad.doubleclick.net/jump/mi.rhh00/Online/SiteInformation;atf=y;dcove=d;pl=misc;sect=Static;pos=1;sz=150x25;tile=2;!c=news;gender=;year=;income=;ord=642212153981720?" target="_blank"><img src="http://ad.doubleclick.net/ad/mi.rhh00/Online/SiteInformation;atf=y;dcove=d;pl=misc;sect=Static;pos=1;sz=150x25;tile=2;!c=news;gender=;year=;income=;ord=642212153981720?" border="0" alt="Advertisement"></a></noscript> <div id="div-gpt-ad-978691142107948-2">
-<script type="text/javascript">googletag.cmd.push(function() { googletag.display('div-gpt-ad-978691142107948-2'); });</script>
+        <div id="div-gpt-ad-611818834864479-2">
+<script type="text/javascript">googletag.cmd.push(function() { googletag.display('div-gpt-ad-611818834864479-2'); });</script>
 </div>
             </div>
     </div><!-- end mast_top -->
@@ -317,6 +372,7 @@ mistats.channel='Privacy Policy';
                         </a>
                     </li>
                     
+                    
                     <li id="search_widget_web_search_choice" style="display: none;">
                         <a id="web_search" href="#">
                             <img src="http://media.heraldonline.com/mistatic/images/search/search_dropdown_yahoo_logo.png">Web Search
@@ -331,7 +387,9 @@ mistats.channel='Privacy Policy';
                 </ul>
             <div class="clear"></div>
             </form>
+            
             <p class="yahoo_credit">Web Search powered by <b><span class="yahoo_text">YAHOO!</span> SEARCH</b></p>
+            
             <script type="text/javascript">
                     if (typeof(mi.search) !== "undefined" || typeof(mi.search.setUp) !== "function") {
                         mi.search.setUp();
@@ -354,9 +412,8 @@ mistats.channel='Privacy Policy';
 <div id="main_nav">
     <ul>
         <li id="nav_ad">
-        <script language="JavaScript" type="text/javascript" src="http://ad.doubleclick.net/adj/mi.rhh00/Online/SiteInformation;atf=y;dcove=d;pl=misc;sect=Static;pos=1;sz=100x25;tile=3;!c=news;gender=;year=;income=;ord=642212153981720?"></script>
-<noscript><a href="http://ad.doubleclick.net/jump/mi.rhh00/Online/SiteInformation;atf=y;dcove=d;pl=misc;sect=Static;pos=1;sz=100x25;tile=3;!c=news;gender=;year=;income=;ord=642212153981720?" target="_blank"><img src="http://ad.doubleclick.net/ad/mi.rhh00/Online/SiteInformation;atf=y;dcove=d;pl=misc;sect=Static;pos=1;sz=100x25;tile=3;!c=news;gender=;year=;income=;ord=642212153981720?" border="0" alt="Advertisement"></a></noscript> <div id="div-gpt-ad-978691142107948-3">
-<script type="text/javascript">googletag.cmd.push(function() { googletag.display('div-gpt-ad-978691142107948-3'); });</script>
+        <div id="div-gpt-ad-611818834864479-3">
+<script type="text/javascript">googletag.cmd.push(function() { googletag.display('div-gpt-ad-611818834864479-3'); });</script>
 </div>
         </li>
         <li><a href="/#navlink=navbar" title="Home Page">Home</a></li>                <li><a href="/news/#navlink=navbar" title="News">News</a>
@@ -369,7 +426,7 @@ mistats.channel='Privacy Policy';
                                             <ul class="subnav">
                                                         <li><a href="/editorials/#navlink=subnav" title="">Editorial</a></li>                                <li><a href="/letters-to-the-editor/#navlink=subnav" title="">Letters to the Editor</a></li>                                <li><a href="/submit-letter/#navlink=subnav" title="">Submit a Letter</a></li>                                <li><a href="/to-the-contrary/#navlink=subnav" title="">To the Contrary</a></li>                                <li><a href="/others-views/#navlink=subnav" title="">Others' Views</a></li>                                <li><a href="/james-werrell/#navlink=subnav" title="">James Werrell</a></li>                                <li><a href="/terry-plumb/#navlink=subnav" title="">Terry Plumb</a></li>                        </ul>                </li>                <li><a href="/living/#navlink=navbar" title="Living">Living</a>
                                             <ul class="subnav">
-                                                        <li><a href="/entertainment/#navlink=subnav" title="">Entertainment</a></li>                                <li><a href="http://events.heraldonline.com/#navlink=subnav" title="">Calendar</a></li>                                <li><a href="http://events.heraldonline.com/movies#navlink=subnav" title="">Movies</a></li>                                <li><a href="/games/#navlink=subnav" title="">Games</a></li>                                <li><a href="/community/#navlink=subnav" title="">Community</a></li>                                <li><a href="/wedding/#navlink=subnav" title="">Weddings</a></li>                                <li><a href="/engagements/#navlink=subnav" title="">Engagements</a></li>                                <li><a href="/anniversaries/#navlink=subnav" title="">Anniversaries</a></li>                                <li><a href="/births/#navlink=subnav" title="">Births</a></li>                                <li><a href="/milestones/#navlink=subnav" title="">Milestones</a></li>                                <li><a href="/dash-recipes/#navlink=subnav" title="">Recipes</a></li>                                <li><a href="/religion/#navlink=subnav" title="">Religion</a></li>                                <li><a href="http://rockhill.upickem.net/#navlink=subnav" title="">Contests</a></li>                                <li><a href="https://www.formrouter.net/online01@HERAL/dashcooking/index.html#navlink=subnav" title="">Dash Cooking Show</a></li>                        </ul>                </li>                <li><a href="http://findnsave.heraldonline.com/#navlink=navbar" title="Local Deals">Local Deals</a>
+                                                        <li><a href="/entertainment/#navlink=subnav" title="">Entertainment</a></li>                                <li><a href="http://events.heraldonline.com/#navlink=subnav" title="">Calendar</a></li>                                <li><a href="http://events.heraldonline.com/movies#navlink=subnav" title="">Movies</a></li>                                <li><a href="/games/#navlink=subnav" title="">Games</a></li>                                <li><a href="/community/#navlink=subnav" title="">Community</a></li>                                <li><a href="/wedding/#navlink=subnav" title="">Weddings</a></li>                                <li><a href="/engagements/#navlink=subnav" title="">Engagements</a></li>                                <li><a href="/anniversaries/#navlink=subnav" title="">Anniversaries</a></li>                                <li><a href="/births/#navlink=subnav" title="">Births</a></li>                                <li><a href="/milestones/#navlink=subnav" title="">Milestones</a></li>                                <li><a href="/dash-recipes/#navlink=subnav" title="">Recipes</a></li>                                <li><a href="/religion/#navlink=subnav" title="">Religion</a></li>                                <li><a href="/contests/#navlink=subnav" title="">Contests</a></li>                                <li><a href="https://www.formrouter.net/online01@HERAL/taste_of_home/index.html" target="_blank" title="">Taste of Home Cooking</a></li>                        </ul>                </li>                <li><a href="http://findnsave.heraldonline.com/#navlink=navbar" title="Local Deals">Local Deals</a>
                                             <ul class="subnav">
                                                         <li><a href="http://rockhill.dealsaver.com/#navlink=subnav" title="">Today's Hot Deal</a></li>                                <li><a href="http://findnsave.heraldonline.com/Coupons#navlink=subnav" title="">Local Coupons</a></li>                                <li><a href="http://findnsave.heraldonline.com/PrintCoupons#navlink=subnav" title="">Grocery Coupons</a></li>                                <li><a href="http://findnsave.heraldonline.com/Circulars#navlink=subnav" title="">Store Circulars</a></li>                                <li><a href="http://findnsave.heraldonline.com/Local-Ads#navlink=subnav" title="">Local Ads</a></li>                                <li><a href="http://specialsections.heraldonline.com#navlink=subnav" title="">Special Sections</a></li>                        </ul>                </li>
     </ul>
@@ -501,9 +558,8 @@ mistats.channel='Privacy Policy';
         <div id="sidebar" class="grid_4">
                 <div id="sidebar_r1">
         <div class="ad">
-        <div class="advertisement dart_300x250" id="dart_300x250_1"><script language="JavaScript" type="text/javascript" src="http://ad.doubleclick.net/adj/mi.rhh00/Online/SiteInformation;atf=y;dcove=d;pl=misc;sect=Static;pos=1;sz=300x250;tile=4;!c=news;gender=;year=;income=;ord=642212153981720?"></script>
-<noscript><a href="http://ad.doubleclick.net/jump/mi.rhh00/Online/SiteInformation;atf=y;dcove=d;pl=misc;sect=Static;pos=1;sz=300x250;tile=4;!c=news;gender=;year=;income=;ord=642212153981720?" target="_blank"><img src="http://ad.doubleclick.net/ad/mi.rhh00/Online/SiteInformation;atf=y;dcove=d;pl=misc;sect=Static;pos=1;sz=300x250;tile=4;!c=news;gender=;year=;income=;ord=642212153981720?" border="0" alt="Advertisement"></a></noscript> <div id="div-gpt-ad-978691142107948-4">
-<script type="text/javascript">googletag.cmd.push(function() { googletag.display('div-gpt-ad-978691142107948-4'); });</script>
+        <div class="advertisement dart_300x250" id="dart_300x250_1"><div id="div-gpt-ad-611818834864479-4">
+<script type="text/javascript">googletag.cmd.push(function() { googletag.display('div-gpt-ad-611818834864479-4'); });</script>
 </div>        </div>
 </div>
 
@@ -513,9 +569,8 @@ mistats.channel='Privacy Policy';
 </div>
 <div id="sidebar_r3">
         <div class="ad">
-        <div class="advertisement dart_300x100" id="dart_300x100_1"><script language="JavaScript" type="text/javascript" src="http://ad.doubleclick.net/adj/mi.rhh00/Online/SiteInformation;atf=n;dcove=d;pl=misc;sect=Static;pos=1;sz=300x100;tile=5;!c=news;gender=;year=;income=;ord=642212153981720?"></script>
-<noscript><a href="http://ad.doubleclick.net/jump/mi.rhh00/Online/SiteInformation;atf=n;dcove=d;pl=misc;sect=Static;pos=1;sz=300x100;tile=5;!c=news;gender=;year=;income=;ord=642212153981720?" target="_blank"><img src="http://ad.doubleclick.net/ad/mi.rhh00/Online/SiteInformation;atf=n;dcove=d;pl=misc;sect=Static;pos=1;sz=300x100;tile=5;!c=news;gender=;year=;income=;ord=642212153981720?" border="0" alt="Advertisement"></a></noscript> <div id="div-gpt-ad-978691142107948-5">
-<script type="text/javascript">googletag.cmd.push(function() { googletag.display('div-gpt-ad-978691142107948-5'); });</script>
+        <div class="advertisement dart_300x100" id="dart_300x100_1"><div id="div-gpt-ad-611818834864479-5">
+<script type="text/javascript">googletag.cmd.push(function() { googletag.display('div-gpt-ad-611818834864479-5'); });</script>
 </div>        </div>
 </div>
 
@@ -525,9 +580,8 @@ mistats.channel='Privacy Policy';
 </div>
 <div id="sidebar_r5">
         <div class="ad">
-        <div class="advertisement dart_300x250" id="dart_300x250_2"><script language="JavaScript" type="text/javascript" src="http://ad.doubleclick.net/adj/mi.rhh00/Online/SiteInformation;atf=n;dcove=d;pl=misc;sect=Static;pos=2;sz=300x250;tile=6;!c=news;gender=;year=;income=;ord=642212153981720?"></script>
-<noscript><a href="http://ad.doubleclick.net/jump/mi.rhh00/Online/SiteInformation;atf=n;dcove=d;pl=misc;sect=Static;pos=2;sz=300x250;tile=6;!c=news;gender=;year=;income=;ord=642212153981720?" target="_blank"><img src="http://ad.doubleclick.net/ad/mi.rhh00/Online/SiteInformation;atf=n;dcove=d;pl=misc;sect=Static;pos=2;sz=300x250;tile=6;!c=news;gender=;year=;income=;ord=642212153981720?" border="0" alt="Advertisement"></a></noscript> <div id="div-gpt-ad-978691142107948-6">
-<script type="text/javascript">googletag.cmd.push(function() { googletag.display('div-gpt-ad-978691142107948-6'); });</script>
+        <div class="advertisement dart_300x250" id="dart_300x250_2"><div id="div-gpt-ad-611818834864479-6">
+<script type="text/javascript">googletag.cmd.push(function() { googletag.display('div-gpt-ad-611818834864479-6'); });</script>
 </div>        </div>
 </div>
 
@@ -550,6 +604,7 @@ mistats.channel='Privacy Policy';
 </div>
 
 <footer id="footer">
+
 
 <div id="page_footer">
     
