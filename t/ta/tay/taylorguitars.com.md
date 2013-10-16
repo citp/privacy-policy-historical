@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the taylorguitars.com privacy policy that was archived on 2013-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130623052304id_/http%3A//www.taylorguitars.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the taylorguitars.com privacy policy that was archived on 2013-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131016055547id_/http%3A//www.taylorguitars.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Taylor Guitars
 
