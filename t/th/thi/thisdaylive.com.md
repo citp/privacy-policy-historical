@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thisdaylive.com privacy policy that was archived on 2013-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130516110513id_/http%3A//www.thisdaylive.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thisdaylive.com privacy policy that was archived on 2013-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131016052139id_/http%3A//www.thisdaylive.com/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement | THISDAY LIVE
 
