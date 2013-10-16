@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the premiershiptalk.com privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502103650id_/http%3A//www.premiershiptalk.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the premiershiptalk.com privacy policy that was archived on 2013-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131016170925id_/http%3A//www.premiershiptalk.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Premiership Talk | Premier League news and views
+# Privacy Policy | Premiership Talk
 
 Premiership Talk knows that you care about how your personal information is used and shared, and we take your privacy very seriously. Please read the following to learn more about our privacy policy. By visiting our website, you are accepting the practices outlined in this Privacy Policy.
 
