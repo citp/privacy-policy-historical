@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the tagcommander.com privacy policy that was archived on 2012-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121127165456id_/http%3A//www.tagcommander.com/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tagcommander.com privacy policy that was archived on 2013-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131016072340id_/http%3A//www.tagcommander.com/en/privacy) for the most accurate reproduction.*
 
 # TAG COMMANDER Accueil
 
-  * [FR](https://web.archive.org/web/20121127165456id_/http%3A//www.tagcommander.com/fr/)
+  * [FR](https://web.archive.org/web/20131016072340id_/http%3A//www.tagcommander.com/fr/)
   * EN
 
-[Home](https://web.archive.org/web/20121127165456id_/http%3A//www.tagcommander.com/en/) [Solutions](https://web.archive.org/web/20121127165456id_/http%3A//www.tagcommander.com/en/solutions) [Partnership](https://web.archive.org/web/20121127165456id_/http%3A//www.tagcommander.com/en/partenaires) [FAQ](https://web.archive.org/web/20121127165456id_/http%3A//www.tagcommander.com/en/faq) [About us](https://web.archive.org/web/20121127165456id_/http%3A//www.tagcommander.com/en/corporate) [Contact us](https://web.archive.org/web/20121127165456id_/http%3A//www.tagcommander.com/en/contact)
+[Home](https://web.archive.org/web/20131016072340id_/http%3A//www.tagcommander.com/en/) [Solutions](https://web.archive.org/web/20131016072340id_/http%3A//www.tagcommander.com/en/solutions) [Partnership](https://web.archive.org/web/20131016072340id_/http%3A//www.tagcommander.com/en/partenaires) [FAQ](https://web.archive.org/web/20131016072340id_/http%3A//www.tagcommander.com/en/faq) [About us](https://web.archive.org/web/20131016072340id_/http%3A//www.tagcommander.com/en/corporate) [Contact us](https://web.archive.org/web/20131016072340id_/http%3A//www.tagcommander.com/en/contact)
 
 ## Privacy
 
@@ -45,4 +45,4 @@ We take appropriate measures to protect the data in our control from unauthorize
 
 **How can you contact us?**
 
-Please, go to the [contact page](https://web.archive.org/web/20121127165456id_/http%3A//www.tagcommander.com/en/contact.php) of our website
+Please, go to the [contact page](https://web.archive.org/web/20131016072340id_/http%3A//www.tagcommander.com/en/contact.php) of our website
