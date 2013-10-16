@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the militaryoneclick.com privacy policy that was archived on 2013-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130630152939id_/http%3A//www.militaryoneclick.com/wp-content/themes/kidris/PrivacyPolicy-2011.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the militaryoneclick.com privacy policy that was archived on 2013-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131016200427id_/http%3A//www.militaryoneclick.com/wp-content/themes/kidris/PrivacyPolicy-2011.pdf) for the most accurate reproduction.*
 
 # 
 
