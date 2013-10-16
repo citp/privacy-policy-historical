@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the truetwit.com privacy policy that was archived on 2013-06-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130606191909id_/http%3A//www.truetwit.com/truetwit/home/privacy.form) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the truetwit.com privacy policy that was archived on 2013-10-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131016200941id_/http%3A//truetwit.com/truetwit/home/privacy.form) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
 
@@ -52,62 +52,6 @@
   
 
 
-    <script type="text/javascript">
-        $(document).ready(function() {
-            if(isMobileBrowser()) {
-                $.ajax(
-                    {
-                        url: '/truetwit/ajax/dailydeals.form',
-                        dataType: 'json',
-                        type: 'GET',
-                        data: {},
-                        success: function(results){
-                            if(results.length > 0) {
-                                var tbl = '<p class="deal">Deals from Amazon!</p><table>';
-                                $(results).each(function(){
-                                    var dealType = "Gold Box Deal";
-                                    if(/light/i.test(this.type)) {
-                                        dealType = "Lightning Deal"
-                                    }
-                                    // for each deal draw the table
-                                    tbl = tbl + '<tr class="dealrow"><td>' +
-                                            '<img src="' +
-                                            this.image +
-                                            '"/></td><td class="dealdesc">'+
-                                            '<span class="dealtitle">' + dealType + '</span><br/>' +
-                                            '<a href="' +
-                                            this.link +
-                                            '">' +
-                                            this.title +
-                                            '</a><br/><br/><span class="dealprice">' +
-                                            this.priceString +
-                                            '</span></td></tr>';
-                                });
-                                tbl = tbl + "</table><p style='font: .50em Verdana, sans-serif;'>Amazon and the Amazon logo are trademarks of Amazon.com, Inc. or its affiliates.</p>";
-                                $(".amazonad").html(tbl);
-                            } else {
-                                $(".amazonad").html(
-                                    '<iframe src="http://rcm.amazon.com/e/cm?t=truetwcom-20&o=1&p=8&l=as1&asins=B002FK3U3C&ref=tf_til&fc1=000000&IS2=1&lt1=_blank&m=amazon&lc1=0000FF&bc1=000000&bg1=FFFFFF&f=ifr" style="width:120px;height:240px;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe>' +
-                                    '<iframe src="http://rcm.amazon.com/e/cm?t=truetwcom-20&o=1&p=8&l=as1&asins=1118269748&ref=tf_til&fc1=000000&IS2=1&lt1=_blank&m=amazon&lc1=0000FF&bc1=000000&bg1=FFFFFF&f=ifr" style="width:120px;height:240px;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe>'
-                                 );
-                            }
-                        },
-                        error: function(req, errortype, ex){
-                            $(".amazonad").html(
-                                '<iframe src="http://rcm.amazon.com/e/cm?t=truetwcom-20&o=1&p=8&l=as1&asins=B002FK3U3C&ref=tf_til&fc1=000000&IS2=1&lt1=_blank&m=amazon&lc1=0000FF&bc1=000000&bg1=FFFFFF&f=ifr" style="width:120px;height:240px;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe>' +
-                                '<iframe src="http://rcm.amazon.com/e/cm?t=truetwcom-20&o=1&p=8&l=as1&asins=1118269748&ref=tf_til&fc1=000000&IS2=1&lt1=_blank&m=amazon&lc1=0000FF&bc1=000000&bg1=FFFFFF&f=ifr" style="width:120px;height:240px;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe>'
-                             );
-                        },
-                        complete: function(req, code){
-                        }
-                });
-            } else {
-                var amazonWidget = '<OBJECT classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://fpdownload.macromedia.com/get/flashplayer/current/swflash.cab" id="Player_a8abf79c-18be-465e-82d3-8ce07ef92891"  WIDTH="300px" HEIGHT="250px"> <PARAM NAME="movie" VALUE="http://ws.amazon.com/widgets/q?ServiceVersion=20070822&MarketPlace=US&ID=V20070822%2FUS%2Ftruetwcom-20%2F8009%2Fa8abf79c-18be-465e-82d3-8ce07ef92891&Operation=GetDisplayTemplate"><PARAM NAME="quality" VALUE="high"><PARAM NAME="bgcolor" VALUE="#FFFFFF"><PARAM NAME="allowscriptaccess" VALUE="always"><embed src="http://ws.amazon.com/widgets/q?ServiceVersion=20070822&MarketPlace=US&ID=V20070822%2FUS%2Ftruetwcom-20%2F8009%2Fa8abf79c-18be-465e-82d3-8ce07ef92891&Operation=GetDisplayTemplate" id="Player_a8abf79c-18be-465e-82d3-8ce07ef92891" quality="high" bgcolor="#ffffff" name="Player_a8abf79c-18be-465e-82d3-8ce07ef92891" allowscriptaccess="always"  type="application/x-shockwave-flash" align="middle" height="250px" width="300px"></embed></OBJECT> <NOSCRIPT><A HREF="http://ws.amazon.com/widgets/q?ServiceVersion=20070822&MarketPlace=US&ID=V20070822%2FUS%2Ftruetwcom-20%2F8009%2Fa8abf79c-18be-465e-82d3-8ce07ef92891&Operation=NoScript">Amazon.com Widgets</A></NOSCRIPT>';
-                $(".amazonad").html(amazonWidget);
-            }
-        });
-    </script>
-
 </head>
 <body>
 
@@ -148,7 +92,6 @@
                                 </script>
 
                             </div>
-                            <div class="amazonad"><object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://fpdownload.macromedia.com/get/flashplayer/current/swflash.cab" id="Player_a8abf79c-18be-465e-82d3-8ce07ef92891" width="300px" height="250px"> <param name="movie" value="http://ws.amazon.com/widgets/q?ServiceVersion=20070822&amp;MarketPlace=US&amp;ID=V20070822%2FUS%2Ftruetwcom-20%2F8009%2Fa8abf79c-18be-465e-82d3-8ce07ef92891&amp;Operation=GetDisplayTemplate"><param name="quality" value="high"><param name="bgcolor" value="#FFFFFF"><param name="allowscriptaccess" value="always"><embed src="http://ws.amazon.com/widgets/q?ServiceVersion=20070822&amp;MarketPlace=US&amp;ID=V20070822%2FUS%2Ftruetwcom-20%2F8009%2Fa8abf79c-18be-465e-82d3-8ce07ef92891&amp;Operation=GetDisplayTemplate" id="Player_a8abf79c-18be-465e-82d3-8ce07ef92891" quality="high" bgcolor="#ffffff" name="Player_a8abf79c-18be-465e-82d3-8ce07ef92891" allowscriptaccess="always" type="application/x-shockwave-flash" align="middle" height="250px" width="300px"></object> <noscript><A HREF="http://ws.amazon.com/widgets/q?ServiceVersion=20070822&MarketPlace=US&ID=V20070822%2FUS%2Ftruetwcom-20%2F8009%2Fa8abf79c-18be-465e-82d3-8ce07ef92891&Operation=NoScript">Amazon.com Widgets</A></noscript></div>
                             <div class="badswrap">
                                 <div class="bad">
 
@@ -167,17 +110,17 @@
 <div class="badwrapb">
     <h3>Members</h3>
     <p>
-        150,265
+        167,111
     </p>
     <h3>Total Users Ranked</h3><p>
-    36,674,800
+    42,203,154
 </p>
     <h3>Total Followers</h3>
     <p>
-        15,957,963
+        17,146,953
     </p>
     <h3>Verified Followers</h3><p>
-    9,167,818
+    9,676,248
 </p>
 </div>
 
@@ -277,9 +220,9 @@
                     <br><br>© 2013 TrueTwit, LLC<br><br>
                     <a href="http://www.puroingles.com/">Curso de inglés</a>
                     <br><br>
-                    Version : <b>1.0.096<br></b>
+                    Version : <b>1.0.111<br></b>
 
-                    Build Date: Mon May 20 16:26:09 CDT 2013<br>
+                    Build Date: Wed Sep 25 14:43:16 CDT 2013<br>
                 </div>
             </div>
             <div class="clear"></div>
