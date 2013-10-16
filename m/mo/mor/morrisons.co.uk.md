@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the morrisons.co.uk privacy policy that was archived on 2013-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130512192731id_/http%3A//www.morrisons.co.uk/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the morrisons.co.uk privacy policy that was archived on 2013-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131016055223id_/http%3A//www.morrisons.co.uk/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy - Morrisons
 
@@ -20,7 +20,7 @@ Specifically, we may collect:
   * Full details of the purchases you make on our website or in our stores, including the time and date of purchase, the goods you purchase from us and details of any relevant payment card (such as a credit or debit card) you use.
   * Information lawfully available from social media sources which is placed in the public domain by social media networks such as Facebook and Twitter. You should review the terms and conditions and privacy policies of the social media networks you use to ensure you understand what information relating to you they will place in the public domain and how you can stop them from doing so if you are unhappy about it.
   * Your Morrisons Miles card number and related fuel transaction details.
-  * Information on what you access on our website, when and how you access it, and how you then use it. We may collect certain related technical information about the device you use to do so at the same time, for example its unique identifying code or IP address, operating system and browser and geographic location. Much of this information is collected by cookies and similar technologies used on our website and in relation to our emails. For full details please see our related cookie policy which can be accessed [here](https://web.archive.org/web/20130512192731id_/https://Privacy-Policy/Cookie-Policy/).
+  * Information on what you access on our website, when and how you access it, and how you then use it. We may collect certain related technical information about the device you use to do so at the same time, for example its unique identifying code or IP address, operating system and browser and geographic location. Much of this information is collected by cookies and similar technologies used on our website and in relation to our emails. For full details please see our related cookie policy which can be accessed [here](https://web.archive.org/web/20131016055223id_/http://Privacy-Policy/Cookie-Policy/).
   * Any information you provide to other people, where you give them permission to share that information with us, or otherwise where they can lawfully do so.
   * ‘Sensitive’ information from you, but far less frequently than the above. ‘Sensitive’ information includes your racial or ethnic origin, religious beliefs or other beliefs of a similar nature and your physical condition (e.g. if you are pregnant). You will have to provide some types of information in order to benefit from a relevant offer, competition or other activity we are running or are proposing to run, but some information is voluntary. We will make it clear which information you have to give at the point of collection. If you do not provide the minimum information we ask for, you will not be able to benefit from our related activities.
 
@@ -137,7 +137,7 @@ We are registered with the UK Information Commissioner’s Office under the Data
 
 **Contact us**
 
-If you want any further information about our use of your information, our websites in general or have any other privacy questions relating to us, we’d be happy to help you. Our contact details are set out [here](https://web.archive.org/web/20130512192731id_/https://www.morrisons.co.uk/Help-and-information/Contact-Us/).
+If you want any further information about our use of your information, our websites in general or have any other privacy questions relating to us, we’d be happy to help you. Our contact details are set out [here](https://www.morrisons.co.uk/Help-and-information/Contact-Us/).
 
 Thank you for taking the time to visit our website and reading about how we use your information.
 
