@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the indyarocks.com privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601121257id_/http%3A//www.indyarocks.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indyarocks.com privacy policy that was archived on 2013-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131016112042id_/http%3A//www.indyarocks.com/privacy) for the most accurate reproduction.*
 
 # :: Indyarocks :: Privacy Policy
 
