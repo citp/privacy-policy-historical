@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the directspecialstoday.com privacy policy that was archived on 2013-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130605162108id_/http%3A//directspecialstoday.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the directspecialstoday.com privacy policy that was archived on 2013-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131016225937id_/http%3A//directspecialstoday.com/privacy.html) for the most accurate reproduction.*
 
 # Direct Specials Today
 
-[](https://web.archive.org/web/20130605162108id_/http%3A//directspecialstoday.com/index.html)
+[](https://web.archive.org/web/20131016225937id_/http%3A//directspecialstoday.com/index.html)
 
 CSS transforms are not supported in your browser
 
@@ -66,7 +66,7 @@ Our web site may contain links to other web sites. Any personal information you 
 
 ## How Can You Correct and Update Your Personal Information or Obtain Additional Information
 
-If you have any questions or comments about this Policy or the practices relating to this Site, or you wish to verify, correct or delete any personal information we have collected, please contact us at [feedback@directspecialstoday.com](https://web.archive.org/web/20130605162108id_/http%3A//directspecialstoday.com/feedback@directspecialstoday.com) and we will endeavor to respond to your inquiry or to correct, update or remove the personal information you have provided us as you indicate. You may also contact us by mail at the following address:
+If you have any questions or comments about this Policy or the practices relating to this Site, or you wish to verify, correct or delete any personal information we have collected, please contact us at [feedback@directspecialstoday.com](https://web.archive.org/web/20131016225937id_/http%3A//directspecialstoday.com/feedback@directspecialstoday.com) and we will endeavor to respond to your inquiry or to correct, update or remove the personal information you have provided us as you indicate. You may also contact us by mail at the following address:
 
 Direct Specials Today Attn: Privacy Policy 3435 Ocean Park Blvd. #107 PMB 319 Santa Monica, CA 90405 
 
