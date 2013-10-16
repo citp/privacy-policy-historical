@@ -1,8 +1,9 @@
-<!--The following is the downloaded HTML source of the disney.co.uk privacy policy that was archived on 2013-01-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130114151546id_/https%3A//registration.disneyinternational.com/privacy.htm%3Fp%3D130%26fullScreen%3Dtrue%26) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the disney.co.uk privacy policy that was archived on 2013-10-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131016054942id_/https%3A//registration.disneyinternational.com/privacy.htm%3Fp%3D130%26fullScreen%3Dtrue%26) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 	<meta http-equiv="content-type" content="text/html; charset=utf-8">
+	
 	<title>Disney Registration</title>
 
 	<link rel="stylesheet" type="text/css" href="https://a248.e.akamai.net/f/248/1573/30m/media.registration.disneyinternational.com/skins/fullscreen5/uk/disney/fs5-disney.css">
@@ -35,7 +36,8 @@
 				<div class="character-image"></div>
 				<div id="inner-page-content">
 				<!-- BODY:  ../legal/fullscreen5_defaultLegalView.jsp -->
-				<div id="content-body" class="standalone_spanned">		
+				<div id="privacy">
+			<div id="content-body" class="standalone_spanned">		
 				<style type="text/css">
 table.privacy {
 border: #000000 solid 2px;
@@ -349,7 +351,8 @@ For questions related to children’s privacy, you may also telephone Guest Serv
                   
 <p>              End of <a href="#privacy_policy">Privacy Policy</a></p>
  
-              </div>					
+              </div>
+</div>					
 </div>
 			</div>		
 		<div id="footer">		
@@ -418,14 +421,6 @@ cto.track();//Required. Do not remove.
           	
   }
   
-  // used on modify invite page
-  function remove() {  
-	Boxy.confirm('<div id="jserror"><p></p></div>', function() {
-	  		document.member_info_form.flag.value="remove";
-  			document.member_info_form.submit();
-		});
-  }  
-  
   function expandListSection(checkBox){
 	  
 	    var section = document.getElementsByName("list_section");
@@ -440,6 +435,26 @@ cto.track();//Required. Do not remove.
 		}
 	    
   }  
+  
+  // used on modify invite page
+  
+  function removeMember() {  
+	  if( typeof Boxy!='undefined' ) {
+			Boxy.confirm('<div id="jserror"><p></p></div>', function() {
+			  		document.member_info_form.flag.value="remove";
+		  			document.member_info_form.submit();
+				});	  	  
+	  }else {
+		  if (confirm('')) {
+			  	document.member_info_form.flag.value="remove";
+		  		document.member_info_form.submit();
+		  	} else {
+		  		//this resets the button state and lets them still respond for 
+		  		//onmouseover and onmouseout
+		  		commit=0;
+		  	}
+	  } 
+  } 
 
 </script>
 
