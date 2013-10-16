@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the calltrackingmetrics.com privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530083918id_/https%3A//calltrackingmetrics.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the calltrackingmetrics.com privacy policy that was archived on 2013-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131016220215id_/https%3A//calltrackingmetrics.com/privacy) for the most accurate reproduction.*
 
-# Call Tracking Metrics Privacy Policy
+# CallTrackingMetrics Privacy Policy
 
-This privacy policy sets out how Call Tracking Metrics uses and protects any information that you provide Call Tracking Metrics when you use this website. 
+This privacy policy sets out how CallTrackingMetrics uses and protects any information that you provide CallTrackingMetrics when you use this website. 
 
-Call Tracking Metrics is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement. 
+CallTrackingMetrics is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement. 
 
-Call Tracking Metrics may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective as of February 7, 2011. 
+CallTrackingMetrics may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective as of February 7, 2011. 
 
 ### What we collect
 
@@ -68,4 +68,4 @@ If you believe that any information we are holding on you is incorrect or incomp
 
 ### Disemmination of Third Party Data
 
-It is possible that, in the course of using Call Tracking Metrics you may collect or annotate data concerning third parties. You acknowledge and agree that you assume full liability for any consequences of disclosure of that data, whether through failure of security efforts taken by Call Tracking Metrics, your own disemmination of such data or your decision to grant others access to the data. You further agree to indemnify Call Tracking Metrics against any claims by third parties arising from disclosure of data. Examples of instances in which you should strongly consider whether to disseminate or grant access to data include, but are not limited to: annotations concerning calls, recordings of calls, and data on patterns of web traffic.
+It is possible that, in the course of using CallTrackingMetrics you may collect or annotate data concerning third parties. You acknowledge and agree that you assume full liability for any consequences of disclosure of that data, whether through failure of security efforts taken by CallTrackingMetrics, your own disemmination of such data or your decision to grant others access to the data. You further agree to indemnify CallTrackingMetrics against any claims by third parties arising from disclosure of data. Examples of instances in which you should strongly consider whether to disseminate or grant access to data include, but are not limited to: annotations concerning calls, recordings of calls, and data on patterns of web traffic.
