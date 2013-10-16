@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the instantcareerfind.com privacy policy that was archived on 2010-07-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100706195911id_/http%3A//instantcareerfind.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the instantcareerfind.com privacy policy that was archived on 2013-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131016054447id_/http%3A//instantcareerfind.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
