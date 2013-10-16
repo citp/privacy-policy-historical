@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the secondcity.com privacy policy that was archived on 2013-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130423201457id_/http%3A//www.secondcity.com/page/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the secondcity.com privacy policy that was archived on 2013-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131016111833id_/http%3A//www.secondcity.com/page/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy - The Second City - 50 Years of Funny
 
