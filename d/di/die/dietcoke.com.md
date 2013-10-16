@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dietcoke.com privacy policy that was archived on 2013-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130606041815id_/http%3A//www.coca-cola.com/tcccprivacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dietcoke.com privacy policy that was archived on 2013-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131016234032id_/http%3A//www.coca-cola.com/tcccprivacypolicy) for the most accurate reproduction.*
 
 # My Coke Rewards
 
