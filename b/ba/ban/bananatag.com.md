@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bananatag.com privacy policy that was archived on 2013-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130629015214id_/http%3A//bananatag.com/community/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bananatag.com privacy policy that was archived on 2013-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131016215924id_/http%3A//bananatag.com/community/privacy-policy) for the most accurate reproduction.*
 
 # bananatag | Support Community | Privacy Policy
 
