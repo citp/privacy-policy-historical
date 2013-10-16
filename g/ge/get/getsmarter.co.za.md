@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the getsmarter.co.za privacy policy that was archived on 2013-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130527032015id_/http%3A//www.getsmarter.co.za/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getsmarter.co.za privacy policy that was archived on 2013-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131016221356id_/http%3A//www.getsmarter.co.za/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy
 
@@ -16,7 +16,7 @@ Firstly, we keep track of the user’s IP address. IP addresses are not linked t
 
 Secondly, we log browser types, access times, URLs from which visitors came to the site and URLs viewed by visitors while on the site. Except as otherwise stated in this privacy policy, we do not provide this information to third parties.
 
-Thirdly, when downloading a course information pack or registering for a course, we ask the user to provide us with personal information. This information may include, but is not limited to, the user’s name, cellphone number and email address. GetSmarter does not collect personal information about a user unless it is voluntarily provided to our company so that we can serve the user’s needs and our legitimate business purposes as stated here. For example, when the user registers for a course, we need to retain certain personal information in order to process the user’s registration form, register the user on the GetSmarter learning website, and issue a certificate upon successful completion of the course. The information will be treated confidentially within our company, as we protect all other confidential information. The user can choose not to provide certain information, but might then not be able to take advantage of our services.
+Thirdly, when downloading a course information pack or registering for a short course, we ask the user to provide us with personal information. This information may include, but is not limited to, the user’s name, cellphone number and email address. GetSmarter does not collect personal information about a user unless it is voluntarily provided to our company so that we can serve the user’s needs and our legitimate business purposes as stated here. For example, when the user registers for a course, we need to retain certain personal information in order to process the user’s registration form, register the user on the GetSmarter Learning website, and issue a certificate upon successful completion of the course. The information will be treated confidentially within our company, as we protect all other confidential information. The user can choose not to provide certain information, but might then not be able to take advantage of our services.
 
 ### With whom does GetSmarter share data?
 
@@ -46,13 +46,13 @@ If you have more questions about security issues, you are welcome to complete ou
 
 ### Registered student communications and copyright
 
-If a user registers for a course and the course has begun, we will send the user regular email and SMS updates to encourage the learning process. Registered students are not able to unsubscribe from these updates, which contain important information about the course. 
+If a user registers for a short course and the short course has begun, we will send the user regular email and SMS updates to encourage the learning process. Registered students are not able to unsubscribe from these updates, which contain important information about the short course. 
 
-Throughout the course, the registered student retains full copyright over all written pieces submitted and GetSmarter does not make any claim to these rights.
+Throughout the short course, the registered student retains full copyright over all written pieces submitted and GetSmarter does not make any claim to these rights.
 
 ### Contact information
 
-If the user has any questions about this privacy policy or about GetSmarter's information collection practices, please contact us at on the telephone number listed on www.GetSmarter.co.za.  
+If the user has any questions about this privacy policy or about GetSmarter's information collection practices, please contact us at on the telephone number listed on www.getsmarter.co.za.  
 
 
 ### The terms "the user" and "user"
