@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the malecontravel.com privacy policy that was archived on 2013-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130517025909id_/http%3A//malecontravel.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the malecontravel.com privacy policy that was archived on 2013-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131016030123id_/http%3A//www.malecontravel.com/about/privacy) for the most accurate reproduction.*
 
-# Privacy | Malecón TravelMalecón Travel
+# Privacy - Malecón Travel
 
 We have created this privacy policy to demonstrate our firm commitment to your privacy and the protection of your information.
 
