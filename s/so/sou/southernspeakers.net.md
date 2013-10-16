@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the southernspeakers.net privacy policy that was archived on 2013-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130510154832id_/http%3A//www.southernspeakers.net/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the southernspeakers.net privacy policy that was archived on 2013-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131016094450id_/http%3A//www.southernspeakers.net/p/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Southern Speakers v3.0
 
