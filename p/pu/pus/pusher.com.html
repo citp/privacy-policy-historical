@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the pusher.com privacy policy that was archived on 2013-05-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130530050151id_/http%3A//pusher.com/legal/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the pusher.com privacy policy that was archived on 2013-10-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131016205812id_/http%3A//pusher.com/legal/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
   <script type="text/javascript" async="" src="//doug1izaerwt3.cloudfront.net/05b9909e39fe138ba24d83af321324796ffdf724.1.js"></script><script type="text/javascript" async="" src="//i.kissmetrics.com/i.js"></script><script type="text/javascript" async="" src="https://tag.perfectaudience.com/serve/519a3b8368bd1dfb7800000e.js"></script><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script type="text/javascript">
@@ -45,30 +45,55 @@
   <script type="text/javascript" src="//html5shim.googlecode.com/svn/trunk/html5.js"></script>
   <![endif]-->
 
-  <script type="text/javascript" src="http://js.pusher.com/2.0.5-pre/pusher.min.js"></script>
+  <script type="text/javascript" src="http://js.pusher.com/2.1/pusher.min.js"></script>
   <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
   <script type="text/javascript" src="/fancybox/jquery.fancybox-1.3.4.js"></script>
   <!-- <script type="text/javascript" src="/javascripts/signup_popdown.js"></script> -->
   <script type="text/javascript" src="/javascripts/application.js"></script>
   <script type="text/javascript" src="/javascripts/bootstrap.min.js"></script>
+  <script type="text/javascript" src="/javascripts/jquery.jrumble.1.3.min.js"></script>
+  <link rel="stylesheet" href="/stylesheets2/bootstrap3-btn.css" type="text/css" charset="utf-8">
 
   
   
+
+   <script type="text/javascript">
+    $(document).ready(function  () {
+      
+      var rumbleStart = function(){
+        $('#hire-ad').trigger('startRumble');
+        setTimeout(rumbleStop, 300);
+      };
+
+      var rumbleStop = function(){
+        $('#hire-ad').trigger('stopRumble');
+      };
+
+      $('#hire-ad').jrumble({'speed':10});
+       setTimeout(
+        function () {
+          rumbleStart()
+        }
+        ,Math.floor((Math.random()*10000)+10)
+      )
+    })
+  </script>
 </head>
 <body id="legal-privacy" class="legal">
 
   <div class="navbar navbar-inverse navbar-fixed-top">
     <div class="navbar-inner">
       <div class="container">
-        <a class="brand" href="/"><img src="/images/logo_light.png" alt="Pusher"></a>
+        <a class="brand" href="/"><img src="/images/pusher-logo-flat-white.png" alt="Pusher"></a>
+        
         <ul class="nav">
-          <li><a href="/showcase" class="big">Showcase</a></li>
-          <li><a href="/tutorials" class="big">Tutorials</a></li>
+          <li><a href="/solutions" class="big">Solutions</a></li>
+          <li><a href="/tutorials">Tutorials</a></li>
           <li><a href="/pricing">Pricing</a></li>
           <li><a href="/docs">Docs</a></li>
-          <li><a href="/jobs">Jobs</a></li>
+          <li><a id="hire-ad" href="/jobs">Jobs</a></li>
           <li><a href="https://app.pusher.com/accounts/sign_in">Login</a></li>
-          <li><a href="/pricing" class="btn btn-success success" id="nav_signup">Sign Up</a></li>
+           <li><a href="/pricing" class="btn3 btn3-success success" id="nav_signup">Sign Up</a></li>Sign Up
         </ul>
       </div>
     </div>
@@ -92,7 +117,7 @@
     </div>
     <div class="right">
       <p class="note">Start with the <strong>free Sandbox plan</strong> and simply upgrade when you're ready. <span class="pricing_link"><a href="/pricing">View Pricing</a>.</span></p>
-      <input class="signup_button btn success btn-success large" type="submit" value="Get your free API account">
+      <input class="signup_button btn3 btn3-success btn3-lg" type="submit" value="Get your free API account">
       <p class="tandcs">By clicking 'Get your free API account' you agree to the <a href="/legal/terms" target="_blank">Terms of Service</a> and <a href="/legal/privacy" target="_blank">Privacy Policy</a>.</p>
     </div>
   </form>
@@ -223,6 +248,8 @@ London EC1R 4RP.
         <a href="/about/contact">Contact Us</a>
         &nbsp;&nbsp;|&nbsp;&nbsp;
         <a href="/legal">Legal</a>
+        &nbsp;&nbsp;|&nbsp;&nbsp;
+        <a href="https://plus.google.com/114683193321410840385" rel="publisher">Google+</a>
       </p>
       <p><small>Copyright 2012 Pusher Ltd. All rights reserved.</small></p>
     </footer>
