@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the unclebobs.com privacy policy that was archived on 2013-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130605065524id_/http%3A//www.unclebobs.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unclebobs.com privacy policy that was archived on 2013-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131017004803id_/http%3A//www.unclebobs.com/privacy.cfm) for the most accurate reproduction.*
 
 # Privacy on Unclebobs.com
 
