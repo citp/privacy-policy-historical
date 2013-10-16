@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the kqed.org privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601125659id_/http%3A//www.kqed.org/about/help/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kqed.org privacy policy that was archived on 2013-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131016051226id_/http%3A//www.kqed.org/about/help/privacy.jsp) for the most accurate reproduction.*
 
 # KQED's Privacy Policy | KQED Public Media for Northern CA
 
-## The following Privacy Policy covers KQED, KQEI, KTEH, and KQET
+## The following Privacy Policy covers KQED, KQEI, KQEH, and KQET
 
 Nothing is more important to KQED than protecting the private information of visitors to our site. Below you'll find information about our commitment to ensuring the privacy of your and your children's personally identifiable information (such as your full name, address, email address, telephone number, and/or other identifying information) and preserving the integrity of the medium. Please read the following carefully. If you have any questions or concerns, please send us an email at [webmaster@kqed.org](mailto:webmaster@kqed.org). 
 
@@ -24,24 +24,23 @@ Please also make sure to read the [KQED Public Media Website's Terms of Service]
 
 ####  Also on KQED.org this week ... 
 
-[](http://blogs.kqed.org/science/)
+[](https://web.archive.org/news/health/obamacare/obamacare-guide.jsp)
 
-##### KQED Science Site Relaunches
+##### Obamacare Explained: A Guide for Californians
 
-All of KQED's science and environment content is now aggregated in one place on KQED.org. Find everything from Astronomy to Zebras! 
+Starting Jan 1, 2014, most Americans will be required to have health insurance or pay a fine. KQED has created a simple guide to explain how the health law affects you, your family or your small business.
 
-  * [KQED Science](http://blogs.kqed.org/science/)
+  * [View the Guide](https://web.archive.org/news/health/obamacare/obamacare-guide.jsp)
+  * [En Español](https://web.archive.org/news/health/obamacare/obamacare-explicado.jsp)
 
 
 
-[](https://web.archive.org/arts/programs/sfmoma/index.jsp)
+[](http://blogs.kqed.org/lowdown/2013/10/01/closed-for-business-5-resources-explaining-the-government-shutdown/)
 
-##### SFMOMA Future Countdown Live
+##### 7 Great Resources Explaining the Government Shutdown
 
-Meet Bay Area makers and artists featured in **The Making Of...** a community collaboration by The Kitchen Sisters and KQED. Sat, June 1 and Sun, June 2, join KQED to celebrate the countdown to the close of SFMOMA with a nonstop, 24-hour live art marathon of 48 artists and performers. Can't attend? Watch the livestream on KQED.org!
+KQED's The Lowdown had gathered media resources explaining the shutdown in detail, including how we got here, where things might go and how it could affect you. 
 
-  * [Event Details](http://events.kqed.org/events/index.php?com=serieslist&sID=95cee5da1a5533a6b)
-  * [Livestream (starts June 1 at 6pm) __](https://web.archive.org/arts/programs/sfmoma/index.jsp)
-  * [The Making Of...](http://blogs.kqed.org/makingof/)
+  * [The Lowdown](http://blogs.kqed.org/lowdown/2013/10/01/closed-for-business-5-resources-explaining-the-government-shutdown/)
 
 
