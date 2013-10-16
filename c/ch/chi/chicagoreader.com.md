@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the chicagoreader.com privacy policy that was archived on 2013-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130617172834id_/http%3A//www.chicagoreader.com/chicago/PrivacyPolicy/Page) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chicagoreader.com privacy policy that was archived on 2013-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131016061149id_/http%3A//www.chicagoreader.com/chicago/PrivacyPolicy/Page) for the most accurate reproduction.*
 
 # Chicago Reader | About | PrivacyPolicy
 
 ## This Privacy Policy applies to our sites and apps
 
-We are Chicago Reader, a publication of Sun-Times Media LLC. This Policy describes how we treat personal information. This includes our websites and our mobile apps.
+We are Chicago Reader, a publication of Sun-Times Media, LLC. This Policy describes how we treat personal information. This includes our websites and our mobile apps.
 
 To download a full copy of this Privacy Policy, click here.
 
@@ -54,7 +54,7 @@ To download a full copy of this Privacy Policy, click here.
 
 ## We may share information with third parties.
 
-**We will share information within the Sun-Times family of companies, including its parent, Wrapports, LLC.**
+**We will share information within the Sun-Times Media, LLC. family of companies.**
 
 **We will share information with third parties who perform services on our behalf.** For example, we share information with vendors who send emails for us or fulfill your purchases.
 
