@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the globalforestwatch.org privacy policy that was archived on 2013-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130616105323id_/http%3A//community.wri.org/NetCommunity/Page.aspx%3Fpid%3D303) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the globalforestwatch.org privacy policy that was archived on 2013-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131016174139id_/http%3A//community.wri.org/NetCommunity/Page.aspx%3Fpid%3D303) for the most accurate reproduction.*
 
 # WRI Community: Privacy Policy - World Resources Institute
 
