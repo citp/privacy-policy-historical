@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jobsahead.com privacy policy that was archived on 2013-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130424130115id_/http%3A//www.jobsahead.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobsahead.com privacy policy that was archived on 2013-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131016112153id_/http%3A//www.jobsahead.com/privacy.html) for the most accurate reproduction.*
 
 # JobsAhead : Privacy Policy
 
