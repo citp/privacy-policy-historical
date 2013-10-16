@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pusher.com privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530050151id_/http%3A//pusher.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pusher.com privacy policy that was archived on 2013-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131016205812id_/http%3A//pusher.com/legal/privacy) for the most accurate reproduction.*
 
 # Pusher | HTML5 WebSocket Powered Realtime Messaging Service
 
