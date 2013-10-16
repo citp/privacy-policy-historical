@@ -1,62 +1,99 @@
-> *The following text is extracted and transformed from the sellamations.com privacy policy that was archived on 2013-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130517000701id_/http%3A//sellamations.com/privacy-terms-of-servic) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sellamations.com privacy policy that was archived on 2013-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131016124944id_/http%3A//sellamations.com/privacy) for the most accurate reproduction.*
 
-# Privacy | Sell-A-Mations
+# Video Scribing With Sellamations
 
-**What information do we collect?**
+Sellamations.com  
+Privacy Policy
 
-We collect information from you when you place an order, subscribe to our newsletter or fill out a form.
+Privacy Policy – Sellamations.com
 
-When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address, phone number, credit card information or social security number. You may, however, visit our site anonymously.
+(Last Updated: April 16, 2013)
 
-**What do we use your information for?**
+Sellamations.com is serious about protecting your online privacy. This Privacy Statement explains our views and practices concerning privacy, and how they may pertain to you as a user of our website.
 
-Any of the information we collect from you may be used in one of the following ways:
+“You” or “Your” means you as a participant in or as a user of the Sellamations .com website. “We” or “Our” or “Us” means Sellamations.com. “Our site” means Sellamations.com.
 
-  * To personalize your experience  
-(your information helps us to better respond to your individual needs)
-  * To improve our website  
-(we continually strive to improve our website offerings based on the information and feedback we receive from you)
-  * To improve customer service  
-(your information helps us to more effectively respond to your customer service requests and support needs)
-  * To process transactionsYour information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.
-  * To send periodic emails
+All information transmitted, printed or otherwise submitted to Sellamations.com via this website shall be deemed to be the property of Sellamations.com and Sellamations.com shall be free to use such information for any lawful purpose as detailed herein.
+
+This site may contain links to other sites and we are not responsible for the privacy practices or the content of such sites.
+
+We reserve the right to release such information to law enforcement or other governmental officials as we, in our sole and absolute discretion, deem necessary to comply with the law.
+
+**Section 1: Collected Information**  
+We automatically collect and/or track the following:
+
+  1. Web page http headers (home server domain names, IP address, type of client computer, and type of Web browser);
+  2. information knowingly provided by you through on-line forms, registration forms, surveys, and/or other entries, such as email addresses, personal, financial or demographic information;
+  3. information, user specific or aggregate, on what pages our visitors access; and
+  4. E-mail addresses of visitors that communicate with Sellamations.com via e-mail.
 
 
 
-> The email address you provide for order processing, may be used to send you information and updates pertaining to your order, in addition to receiving occasional company news, updates, related product or service information, etc.
+**Section 2: Use of Data Collected**  
+We use your personal, demographic and profile data to enhance your experience at our site and to enable us to present content we think you might be interested in. We use your contact information to send you information about our company and promotional material from our partners. We may also use your personal, demographic and profile data to improve our site, for statistical analysis, for marketing and promotional purposes, and for editorial or feedback purposes for our advertisers. Information collected by us may be added to our databases and used for future telemarketing, SMS text-messaging, e-mails or postal mailings regarding site updates, new products and services, upcoming events, and/or status of orders placed online. By using this site, you agree that you may be contacted in any manner contemplated in this section even if your number is found on a do not call registry, in-house list or similar registry.
 
-**How do we protect your information?**
+**Section 3: Disclosure of Data to Third Parties**  
+If you choose to provide personal information, it will be used for the following purposes:
 
-We implement a variety of security measures to maintain the safety of your personal information when you place an order or enter, submit, or access your personal information.
+  1. Considering you for a Sellamations.com product;
+  2. As required by law; and
+  3. For marketing products and services which we determine, in our sole judgment, that you might find of interest. We reserve the right to share, rent, sell, or otherwise disclose data we collect to third parties. Any third party we share, rent, sell, or otherwise disclose data to will be prescreened by us, determined by us to be reputable, and will use the personal data for marketing products and services which we determine, in our sole judgment, that you might find of interest.
 
-We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to?keep the information confidential.
 
-After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be kept on file for more than 60 days.
 
-**Do we disclose any information to outside parties?**
+**Section 4: Your Opt-Out Rights**  
+You may opt-out of receiving communications from us and/or our partners by not submitting your information. We also allow you to remove your information from our marketing lists. If you remove your information from our marketing lists it will no longer be used by us to send promotional correspondence to you. You can remove your information from our marketing lists by clicking on the “Unsubscribe” link at the bottom of every email we send you, or by sending your request, in writing, via email to: supportATdrivingtraffic.com (Please replace “AT” with @)
 
-We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+**Section 5: We Do Not Intend to Collect Data from Children**  
+The information and services provided to us or our affiliates, sponsors, and advertisers are not intended to be viewed by children (under 18 years old). No information collected from children is knowingly used for any marketing or promotional purposes whatsoever, either inside or outside Sellamations.com. No part of Sellamations.com’s web site is structured to attract anyone under the age of 18.
 
-**Third party links**
+**Section 6: Our Right to Contact You**  
+We reserve the right to contact you regarding your account status and changes to subscriber agreements, privacy policy, or any other policies or agreements relevant to you.
 
-Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
+**Section 7: Our Right to Change**  
+We reserve the right to change this policy at any time by notifying you of the existence and location of the new or revised privacy policy or by posting the changes online at our site.
 
-**Childrens Online Privacy Protection Act Compliance**
+**Section 8: Our Contact Information**  
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this website, you can contact us via email sent to: supportATdrivingtraffic.com (Please replace “AT” with @)
 
-We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
+**Section 9:   Anti Spam Policy. Can-Spam Act Compliance**
 
-**Terms and Conditions**
+Sellamations.com is dedicated to ensuring compliance with the ‘Can-Spam Act’, which took effect January 1, 2004. You may receive email from Sellamations.com in the following circumstances:
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at <http://sellamations.com/tos-2/>
+  1. Acknowledging your application has been received and requesting additional action
+  2. Requests for additional information to support your current application
+  3. Response to your inquiries regarding the status of your transactional requests
+  4. Thanking you for your valued business
+  5. Advertisements for our products, services, changes in services, new product availability
+  6. Advertisements for third party products and services where we have determined that such product or service may be of interest to our customers
 
-**Your Consent**
 
-By using our site, you consent to our [website’s privacy policy](http://sellamations.com/privacy-terms-of-servic/ "Privacy").
 
-**Changes to our Privacy Policy**
+To ensure compliance with the Can-Spam Act, Sellamations.com has implemented the following guidelines for email delivery:
 
-If we decide to change our privacy policy, we will post those changes on this page.
+  1. All emails sent to you by Sellamations.com will clearly identify Sellamations.com as the sender. FROM / SENDER: someone@Sellamations.com (NOTE: The actual sender will alter from department to department, but all from addresses will end with @Sellamations.com).
+  2. The Subject Line of any email you receive will always accurately describe the subject matter of the email.
+  3. Any email from Sellamations.com will include the ability to unsubscribe from future email messages.
+  4. Unsubscribing will ensure the customer is removed from ALL lists at Sellamations.com; this excludes customer service emails regarding the processing and status of a current product.
+  5. All emails sent to you directly by Sellamations.com include valid postal address information in the footer.
+  6. All third party marketing partners are required to comply with the Can-Spam Act.
+  7. Emails sent to you directly by Sellamations.com will include an email address and physical address where you can send suggestions, complaints or other correspondence.
 
-This policy was last modified on 1/26/2012
 
-To talk about how we can create a custom Sell-A-Mations animated doodle video for your business, [contact us](http://sellamations.com/contact/ "Contact Us").
+
+**Section 10: Information for ISPs**  
+Web site: Sellamations.com  
+Email Address: supportATsellamations.com  
+(Please replace “AT” with @)
+
+Sellamations.com understands consumers’ concerns over the use of their personal information. We hope this information will relieve any concerns your company may have regarding our email policies. Sellamations.com and its affiliated sites use only an “opt-in or opt out” method of obtaining customer information, and it is not our policy or desire to send unsolicited email. We obtain email addresses and personal information from third parties that follow the same set of policies. Sellamations.com email messages sent always include information about the origin of the emails and instructions on how recipients can unsubscribe from receiving future email messages.
+
+From time to time, Sellamations.com will enter into an arrangement with a third party website to allow individuals to opt into our marketing program on those third party websites. In each case the third party websites have represented and warranted to us, among other things,
+
+  1. That the data was collected voluntarily from individuals on website registrations and co-registrations,
+  2. That the sellers have a right, under any applicable privacy statements, to transfer the data to us, and
+  3. That Sellamations.com has the right to send marketing offers to the individuals.
+
+
+
+We hope this information satisfies any questions or concerns you may have regarding the email practices of Sellamations.com. If you have additional questions or wish to discuss this matter further, please contact us at: supportATsellamations.com (Please replace “AT” with @)
