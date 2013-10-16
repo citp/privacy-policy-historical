@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the promocodes.com privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530205034id_/http%3A//promocodes.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the promocodes.com privacy policy that was archived on 2013-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131016135657id_/http%3A//www.promocodes.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - PromoCodes.com
 
