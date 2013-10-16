@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the massagerooms.com privacy policy that was archived on 2013-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130624062014id_/http%3A//massagerooms.com/tour/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the massagerooms.com privacy policy that was archived on 2013-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131016140822id_/http%3A//www.massagerooms.com/tour/privacy.html) for the most accurate reproduction.*
 
 # MassageRooms.Com
 
@@ -25,7 +25,7 @@ IP Address. An IP address is a number that is assigned to your computer automati
 
 #### Types of Information
 
-Personally Identifiable Information (PII). PII is information that identifies you as an individual, such as your name, mailing address, phone number, email address, credit card information, video materials that you submit, comments you make including such information, or other information that you submit voluntarily, including, but not limited to, when you contact us by email. Massagerooms.com does not collect PII from users except for email addresses. In limited cases there are the following exceptions:  
+Personally Identifiable Information (PII). PII is information that identifies you as an individual, such as your name, mailing address, phone number, email address video materials that you submit, comments you make including such information, or other information that you submit voluntarily, including, but not limited to, when you contact us by email. Massagerooms.com does not collect PII from users except for email addresses. In limited cases there are the following exceptions:  
 User submits feedback to the Sites  
 User sends the Sites a support-related email.  
 Massagerooms.com absolutely does not distribute user email addresses to third party vendors unless necessary to solve a user-submitted support ticket.  
@@ -64,4 +64,4 @@ Effective: January_2013
   * Peace of mind with our reliable Customer Services - email us anytime and speak to our team directly. 
   * We capture real orgasms and the natural beauty of the female form. 
 
-[Instant Access](https://web.archive.org/web/20130624062014id_/http%3A//massagerooms.com/tour/join.php)
+[Instant Access](https://web.archive.org/web/20131016140822id_/http%3A//www.massagerooms.com/tour/join.php)
