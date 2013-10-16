@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myhotarticles.net privacy policy that was archived on 2013-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130509232624id_/http%3A//www.myhotarticles.net/privacy-policy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myhotarticles.net privacy policy that was archived on 2013-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131016132426id_/http%3A//www.myhotarticles.net/privacy-policy.jsp) for the most accurate reproduction.*
 
 # Privacy Policy | Articles Directory - myhotarticles.net
 
