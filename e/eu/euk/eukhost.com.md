@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eukhost.com privacy policy that was archived on 2013-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130620162801id_/http%3A//www.eukhost.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eukhost.com privacy policy that was archived on 2013-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131016132701id_/http%3A//www.eukhost.com/privacy-policy.php) for the most accurate reproduction.*
 
 # eUKhost's : Privacy Policy
 
