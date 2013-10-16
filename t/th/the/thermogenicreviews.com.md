@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thermogenicreviews.com privacy policy that was archived on 2013-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130509021929id_/http%3A//www.thermogenicreviews.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thermogenicreviews.com privacy policy that was archived on 2013-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131016154737id_/http%3A//www.thermogenicreviews.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Thermogenic Reviews - Fat Burning Research and Peer Opinion
 
