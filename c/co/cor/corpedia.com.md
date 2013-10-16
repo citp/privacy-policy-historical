@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the corpedia.com privacy policy that was archived on 2013-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130417052012id_/http%3A//corpedia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the corpedia.com privacy policy that was archived on 2013-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131017013854id_/http%3A//corpedia.com/privacy-policy) for the most accurate reproduction.*
 
 # Corpedia - Privacy Policy
 
-## [](http://www.truste.org/ivalidate.php?url=www.corpedia.com&sealid=101)
+[](https://privacy.truste.com/privacy-seal/Corpedia/validation?rid=43a288f4-03dc-4d8e-a2b4-c5d3f8bca2e9 "TRUSTe European Safe Harbor certification")
 
-Corpedia has created this privacy policy in order to demonstrate our firm commitment to protecting your privacy. This Privacy Policy explains and summarizes how we collect, use and protect your personal information as you interact with us online and through our customer and technical supports services such as our website: www.corpedia.com. If you are visiting from outside the United States, there may be special rules or limitations on your use of this Web site.
+[](https://privacy.truste.com/privacy-seal/Corpedia/validation?rid=3eadcebe-d769-4277-bf1c-292a569f25fb "Validate TRUSTe privacy certification")
+
+Corpedia has created this privacy policy in order to demonstrate our firm commitment to protecting your privacy. This Privacy Policy explains and summarizes how we collect, use and protect your personal information as you interact with us online and through our customer and technical supports services such as our website: www.corpedia.com. If you are visiting from outside the United States, there may be special rules or limitations on your use of this Web site. 
 
 Corpedia has been awarded TRUSTe’s Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe’s TRUSTed Cloud Program Requirements](http://www.truste.com/privacy-program-requirements/trusted-cloud/index.html) including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe’s mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at [privacy@corpedia.com](mailto:privacy@corpedia.com).
 
