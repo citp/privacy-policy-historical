@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the manchesterairport.co.uk privacy policy that was archived on 2013-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130515025609id_/http%3A//www.manchesterairport.co.uk/manweb.nsf/Content/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the manchesterairport.co.uk privacy policy that was archived on 2013-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131016042332id_/http%3A//www.manchesterairport.co.uk/manweb.nsf/Content/PrivacyPolicy) for the most accurate reproduction.*
 
 # Manchester Airport : Privacy Policy
 
@@ -41,11 +41,9 @@ NB: Please read our website disclaimer.
 
 If you have any questions about this privacy statement, the practices of this web site or your dealings with this web site, please use the following contact point.
 
-E-Marketing Executive  
 Marketing Department  
 Manchester Airport  
 Manchester  
 M90 1QX
 
-0161 4893181  
-[katie.arnold@manairport.co.uk](mailto:katie.arnold@manairport.co.uk)
+[Email us ](mailto:customer.relations@manaiport.co.uk)
