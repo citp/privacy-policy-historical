@@ -1,41 +1,31 @@
-> *The following text is extracted and transformed from the mountainwarehouse.com privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621055151id_/http%3A//www.mountainwarehouse.com/customer-services/privacy-policy-w52.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mountainwarehouse.com privacy policy that was archived on 2013-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131016231811id_/http%3A//www.mountainwarehouse.com/customer-services/privacy-policy-w52.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
 ## PRIVACY POLICY
 
-## Introduction
+## Privacy and Cookie Policy
 
-At Mountain Warehouse we treat customers’ personal information and details extremely seriously. This document is intended to explain how we protect and use the information supplied by you when you place an order.
+At Mountain Warehouse we treat customers’ personal information and details extremely seriously and will not share your information with any third party unless you give us explicit permission to do so. We will only use the information we collect about you lawfully (in accordance with the Data Protection Act 1998) with the primary purpose of making your shopping experience as enjoyable and easy as possible. 
 
-We comply fully with Data Protection Act 1998, and we respect the spirit of the law as well as the letter.
+## How we use your data
 
-## Accuracy of your data
+When you place an order with us we collect your name, address, payment details, e-mail and telephone number. We need this information to process your order and let you know if there are any delays or problems. We also use your email address to contact you about our latest special offers and promotions.
 
-We endeavour to keep your information accurate and up to date at all times. Should you become aware that any information held by us is inaccurate please contact us any time either by telephone, fax, post or e-mail (info@mountainwarehouse.com) informing us of the inaccuracy.
+## Keeping your data safe and accurate
 
-## Using your data
+The data we collect about you will be accurate and up to date wherever possible. You can check the information we have stored for you at the “[ _My Account_](https://www.mountainwarehouse.com/members/myaccount.aspx)” section of our website. Should you become aware that any information held by us is inaccurate please contact us any time either by telephone, fax, post or e-mail ([ _info@mountainwarehouse.com_](mailto:info@mountainwarehouse.com)) and we will correct it.
 
-When you place an order with us we will need to know your name, address and other such information including e-mail address and telephone number. We store this information for the purposes of providing you with the very best possible service. The relevant information may be used by us, our agents or sub-contractors as a method to support our relationship with you. This includes communicating with you on matters concerning new products, special offers and any other service related matters.
+We want to make sure we get in touch with you in the best way possible. If you don’t wish to receive communication via post, fax, telephone or e-mail, please let us know and we will opt you out of any of these services. 
 
-## Using your data to communicate with you
+All your data is stored on our Host Server and is password protected to make sure no unauthorised access is possible. When placing an order, sensitive data including credit card details are transmitted via Secure Socket Layer (SSL) encryption. We only process your payment at the time of dispatch and do not hold this sensitive information after your order has been processed. This is intended to give you the utmost protection and total peace of mind at all times.
 
-We undertake not to provide you with any communication that you do not require. If you don’t wish to receive communication by any of the following methods; post, fax, telephone and e-mail (info@mountainwarehouse.com), please inform us by any of the previous methods of your preference to opt-out of any of these services.
+## What are cookies?
 
-## Using your data for others to communicate with you
+When you visit our website we send your computer a ‘cookie’. Cookies help us to track basic visitor information in order that we can give you the best experience of our site as possible. Most web browsers automatically accept cookies but you can disable this function by changing your browser settings at any time. Please be aware however that this may limit your use and enjoyment of our site.
 
-Mountain Warehouse is firmly committed to respecting your privacy. We do not share your information with any third party. If you no longer wish to receive any marketing communications directly from Mountain Warehouse, please inform us by any of the following methods; post, fax, telephone and e-mail ([info@mountainwarehouse.com](mailto:info@mountainwarehouse.com))
+Cookies are a text file of information that a website transfers to the browser on your computer so that the website can remember who you are. They do not hold personal information about you such as your name, address or credit card details. They recognise the individual computer, tablet or mobile device through a secure token but you cannot be identified personally in this way.
 
-## Security of your data including credit/debit card transactions
+## Managing cookies
 
-All your data is stored on our Host Server and is password protected to ensure no unauthorised access is possible. In addition, our website is secured by ‘SSL Secured (128 bit) Encryption’ system. All credit/debit card transactions are only processed when the order has reached our Host Server and not directly from the website. Furthermore, the charging of all credit/debit card transactions only takes places at the point of despatch of your order and not on receipt of it. This is intended to give you the utmost protection and total peace of mind at all times.
-
-## Cookies
-
-When you visit our website we send your computer a ‘cookie’. Cookies help us to track basic visitor information in order that we can better tailor the site to our visitors’ needs. Most web browsers automatically accept cookies but you can disable this function by changing your browser settings if you so wish.
-
-Cookies are text-only strings of information that a website transfers to the cookie file of your browser on your computer’s hard disk so that the website can remember who you are.
-
-A cookie will typically contain the name of the domain from which the cookie has come, the "lifetime" of the cookie, and a value. Cookies may be used to compile anonymous, aggregated statistics which provide a better understanding of how a website is being used. You cannot be identified personally in this way.
-
-You can easily delete any cookies that have been installed in the cookie folder of your browser and you can also stop cookies being stored on your computer in future. In order to do this you should refer to your browser’s instructions by clicking "help" in your browser menu. Further information on deleting or controlling cookies is available at www.aboutcookies.org.
+You can easily delete any cookies that have been installed in the cookie folder of your browser and you can also stop cookies being stored on your computer in future. In order to do this you should refer to your browser’s instructions by clicking "help" in your browser menu. Further information on deleting or controlling cookies is available at [_www.aboutcookies.org_](http://www.aboutcookies.org/) .
