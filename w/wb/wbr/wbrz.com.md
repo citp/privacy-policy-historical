@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wbrz.com privacy policy that was archived on 2013-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130508073716id_/http%3A//www.wbrz.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wbrz.com privacy policy that was archived on 2013-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131016120436id_/http%3A//www.wbrz.com/pages/privacy) for the most accurate reproduction.*
 
 # WBRZ News 2 Louisiana : Baton Rouge, LA | Privacy
 
