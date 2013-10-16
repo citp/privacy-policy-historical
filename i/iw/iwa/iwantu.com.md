@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the iwantu.com privacy policy that was archived on 2013-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130615234112id_/http%3A//www.iwantu.com/static.php%3Fhtml%3Dprivacy%26s%3Ds) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iwantu.com privacy policy that was archived on 2013-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131016034928id_/http%3A//www.iwantu.com/static.php%3Fhtml%3Dprivacy%26s%3Ds) for the most accurate reproduction.*
 
 # 
 
 ### Privacy Policy
 
-(' **We** ') Nelfor Services Limited are committed to protecting and respecting your privacy.
+(' **We** ') Nelfor Services Limited are committed to protecting and respecting your privacy. Nelfor Services Limited is the data controller (for the purposes of the Data Protection Act 1998).
 
 This policy (together with our [terms and conditions of use](https://web.archive.org/helptandc.asp?s=s) and any other documents referred to on it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.
 
