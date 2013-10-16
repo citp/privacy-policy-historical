@@ -1,20 +1,14 @@
-> *The following text is extracted and transformed from the htmlbasix.com privacy policy that was archived on 2013-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130616092618id_/http%3A//htmlbasix.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the htmlbasix.com privacy policy that was archived on 2013-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131016153809id_/http%3A//www.htmlbasix.com/privacy.shtml) for the most accurate reproduction.*
 
 # HTML Basix - privacy policy
 
 Tutorials
-
-Worth a Look
-
-[](http://www.hooverwebdesign.com/templates)
 
 Webmaster Links
 
 Other Stuff
 
 Webmaster Tools
-
-[ ](http://jigsaw.w3.org/css-validator/)
 
 | 
 
@@ -36,7 +30,8 @@ Subscribe to the HTML Basix RSS feed.
   
 | 
 
-[](http://www.deadlynightshade.com.au/gifts.html?r=basix)  
+HTMLBasix fully recommends [Hostmonster](http://www.hostmonster.com/track/basix/text1) as your host of choice.   
+Masses of space, transfer, great uptime. All for a VERY affordable price!>  
   
 ---  
   
@@ -66,14 +61,14 @@ We use third-party advertising companies to serve ads when you visit our website
   
 | **Visitors**|  **Pageviews**  
 ---|---  
-Total:|  7,954,857  | Total:|  21,203,541   
-Today:|  777  | Today:|  2,728   
-Yesterday:|  791  | Yesterday:|  3,214   
-Past Month:|  24,521  | Past Month:|  99,634   
+Total:|  8,112,262  | Total:|  21,686,041   
+Today:|  118  | Today:|  426   
+Yesterday:|  1,382  | Yesterday:|  4,572   
+Past Month:|  42,842  | Past Month:|  141,732   
   
-936 visitors in the last 24 hours  
-This page has been visited 44,185 times  
-**There are currently 57 visitors online**  
+1,385 visitors in the last 24 hours  
+This page has been visited 45,879 times  
+**There are currently 14 visitors online**  
 [ _click to see where_ ](http://www.htmlbasix.com/onlinepro/usersonline.cgi)  
 most people online at once:  
  **286** visitors on **06/27/2012**  
