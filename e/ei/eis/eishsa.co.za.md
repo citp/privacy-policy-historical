@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the eishsa.co.za privacy policy that was archived on 2013-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130216022842id_/http%3A//www.eishsa.co.za/Privacy_Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eishsa.co.za privacy policy that was archived on 2013-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131016210928id_/http%3A//www.eishsa.co.za/Privacy_Policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - EishSA
 
-[](https://web.archive.org/web/20130216022842id_/http%3A//www.eishsa.co.za/script-signup.html)
+[](https://web.archive.org/web/20131016210928id_/http%3A//www.eishsa.co.za/script-signup.html)
 
   
 
