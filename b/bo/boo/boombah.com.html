@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the boombah.com privacy policy that was archived on 2013-06-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130610172908id_/http%3A//www.boombah.com/info/policies.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the boombah.com privacy policy that was archived on 2013-10-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131016222432id_/http%3A//www.boombah.com/info/policies.htm) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -10,13 +10,13 @@
    <!-- header them pre ignite -->
     <link href="https://fonts.googleapis.com/css?family=Russo+One" rel="stylesheet" type="text/css">
     <link href="https://fonts.googleapis.com/css?family=Doppio+One" rel="stylesheet" type="text/css">
-<link href="/StyleBoombah.css" rel="stylesheet" type="text/css">  
-<link href="/css/new-menu-styles.css" rel="stylesheet" type="text/css">
-<link href="/js/lightbox2.05/css/lightbox.css" rel="stylesheet" type="text/css" media="screen">
+<link href="http://www.boombah.com/StyleBoombah.css" rel="stylesheet" type="text/css">  
+<link href="http://www.boombah.com/css/new-menu-styles.css" rel="stylesheet" type="text/css">
+<link href="http://www.boombah.com/js/lightbox2.05/css/lightbox.css" rel="stylesheet" type="text/css" media="screen">
 
 <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" async="" src="https://cdn.livechatinc.com/tracking.js"></script><script src="https://ajax.googleapis.com/ajax/libs/jquery/1.6.2/jquery.min.js" type="text/javascript"></script>
 <script>
-     jQuery.noConflict();
+//     jQuery.noConflict();
 
 </script>
 
@@ -40,12 +40,15 @@ Shadowbox.init();
 <script type="text/javascript" src="/js/superfish.js"></script>
 <script type="text/javascript">
 jQuery(document).ready(function(){
-    jQuery('ul.sf-menu').superfish({ 
-            delay:       1000,                            // one second delay on mouseout 
-            speed:       'fast',                          // faster animation speed 
-            autoArrows:  false,                           // disable generation of arrow mark-up 
-            dropShadows: false                            // disable drop shadows 
-        });
+    try {
+        jQuery('ul.sf-menu').superfish({ 
+                delay:       1000,                            // one second delay on mouseout 
+                speed:       'fast',                          // faster animation speed 
+                autoArrows:  false,                           // disable generation of arrow mark-up 
+                dropShadows: false                            // disable drop shadows 
+            });
+    } catch(e){}
+    
     jQuery('img[name^="imgId_"]').click(function (event) {
             jQuery(this).css('cursor', 'wait');
         event.preventDefault();
@@ -96,13 +99,24 @@ span[id^='11custcol_customization'] { display:none; }
             <div class="customization-graphics-title">
                 <@= graphic.design @>
             </div>
-            <div class="customization-graphics-price">
-                <@= graphic.price @>
-            </div>
         </div>
     <@ } @>
 </script>
 
+<script id="customization-graphics-container-template-embroidery" type="text/template" >
+    <@ for (var i = 0; i < graphics.length; i++) { @>
+        <@ var graphic = graphics[i]; @>
+        <div class="customization-graphics-container" >
+            <a href="#" rel="<@= graphic.design @>"><img src="http://s7d4.scene7.com/is/image/boombah/<@= graphic.design @>?wid=293" /></a><br>
+            <div class="customization-graphics-title">
+                <@= graphics[i].design @>
+            </div>
+            <div class="customization-graphics-price">
+                <@= graphics[i].price @>
+            </div>
+        </div>
+    <@ } @>
+</script>
 
 <script id="customization-graphics-container-template-screen" type="text/template" >
     <@ for (var i = 0; i < graphics.length; i++) { @>
@@ -111,9 +125,6 @@ span[id^='11custcol_customization'] { display:none; }
             <a href="#" rel="<@= graphic.design @>"><img src="http://s7d4.scene7.com/is/image/boombah/<@= graphic.design @>?wid=293" /></a><br>
             <div class="customization-graphics-title">
                 <@= graphic.displayName @>
-            </div>
-            <div class="customization-graphics-price">
-                <@= graphic.displayPrice @>
             </div>
         </div>
     <@ } @>
@@ -125,7 +136,6 @@ span[id^='11custcol_customization'] { display:none; }
         
         <div id="title-price-wrapper">
             <h3 id="graphic-title"><@= design @></h3>
-            <h4 id="graphic-price"><@= price @></h4>
         </div>
         <h4 id="special-instructions-title">Special Instructions</h4>
         <p id="graphic-text">           
@@ -142,7 +152,6 @@ span[id^='11custcol_customization'] { display:none; }
         
         <div id="title-price-wrapper">
             <h3 id="graphic-title"><@= design @></h3>
-            <h4 id="graphic-price"><@= price @></h4>
         </div>
         <h4 id="special-instructions-title">Special Instructions</h4>
         <p id="graphic-text">           
@@ -174,7 +183,7 @@ span[id^='11custcol_customization'] { display:none; }
                 <@= graphics[i].design @>
             </div>
             <div class="customization-graphics-price">
-                <@= graphics[i].price @>
+                <@= graphics[i].price @> (Qty. 10+)
             </div>
         </div>
     <@ } @>
@@ -191,8 +200,25 @@ span[id^='11custcol_customization'] { display:none; }
 </script>
 
 
+            <script id="great-item-template2013" type="text/template">
+                <@ for (var i = 0; i < items.length; i++) { @>
+                    <div class="scroll-product-container" item="<@= items[i].id@>" style="cursor:pointer;">
+                    <div class="ribbon-wrapper-green <@=items[i].newArrival @>"></div>
+                    <img src="http://s7d4.scene7.com/is/image/boombah/<@= items[i].img @>?$fdThumb$" />
+                    <p class="scroll-product-text"><span class="scroll-product-text-span" style="text-decoration:underline;"><@= items[i].desc.replace("\r\n","<br/>") @></span><br><br>
+                        starting at $<@= items[i].price @> </p>
+                    </div>
+                <@ } @>
+            </script>        
 
-    <link rel="stylesheet" type="text/css" href="/f1/boombah2012hp.css">
+
+
+
+
+
+
+
+    <link rel="stylesheet" type="text/css" href="http://www.boombah.com/f1/boombah2012hp.css">
 	<link href="http://fonts.googleapis.com/css?family=Shadows+Into+Light" rel="stylesheet" type="text/css">
       <script type="text/javascript" src="/f1/js/jquery.jshowoff.min.js"></script>
       
@@ -226,7 +252,7 @@ span[id^='11custcol_customization'] { display:none; }
 <div id="hp-wrapper">
   
 <table>
-<tbody><tr>
+ <tbody><tr>
 <td style="padding-bottom:88px;">
 
 <div id="docked-menu">
@@ -241,14 +267,13 @@ span[id^='11custcol_customization'] { display:none; }
 <div id="hp-search-login"> <!-- start search and login info -->
               
           <div id="top-nav-right">
-   
-                 <form method="post" name="searchportlettag" id="Form4" onsubmit="window.location.href='/s.nl/sc.26/.f?search='+escape(document.forms['searchportlettag'].elements['search'].value);return false;">
-                 <input type="text" name="search" maxlength="40" height="27" value="SEARCH" onfocus="if (this.value == this.defaultValue) this.value = '';" class="normal" style="border:1px solid #898989; background:#eaeaea; padding:3px;">
+
+                 <form method="get" name="searchportlettag" id="Form4" action="http://search.boombah.com/search">
+                 <input type="text" name="keywords" maxlength="40" height="27" value="SEARCH" onfocus="if (this.value == this.defaultValue) this.value = '';" class="normal" style="border:1px solid #898989; background:#eaeaea; padding:3px;">
                  <input type="hidden" name="sc" value="26">
-                  <input name="submit" type="button" value="GO" width="35" height="27" class="hp-search-button" onclick="window.location.href='/s.nl/sc.26/.f?search='+escape(document.forms['searchportlettag'].elements['search'].value);return false;return false;">                 </form><br>
+                  <input name="submit" type="submit" value="GO" width="35" height="27" class="hp-search-button"></form><br>
               </div>
               <div id="top-nav-left"><table><tbody><tr><td><a onclick="_gaq.push(['_link', this.href]); return true;" class="smalltext" href="https://checkout.netsuite.com/s.nl/c.460511/sc.26/.f?login=T&amp;reset=T&amp;newcust=T&amp;noopt=T&amp;addrcountry=US&amp;gc=clear&amp;ext=F">Register</a>&nbsp;|&nbsp;<a onclick="_gaq.push(['_link', this.href]); return true;" class="smalltext" href="https://checkout.netsuite.com/s.nl/c.460511/sc.26/.f?login=T&amp;addrcountry=US&amp;reset=T&amp;gc=clear&amp;ext=F">Log&nbsp;In</a></td><td><a href="/s.nl/sc.3/.f" class="smalltext" style="color:#000;">&nbsp;&nbsp;&nbsp;&nbsp;Cart</a></td></tr></tbody></table>
-
 
 </div>
              <!-- end of search and login info --></div> 
@@ -268,7 +293,7 @@ span[id^='11custcol_customization'] { display:none; }
                             <div class="menu-column-wrapper">
 
 								<div class="menu-column">
-                                  <div style="height:150px;">
+                                  <div style="height:175px;">
                                   <h4 class="menu-category-titles">Shirts &amp; Tops</h4>
                                    
                                      <a href="/s.nl/sc.26/category.353384/.f">Compression</a><br>
@@ -291,21 +316,22 @@ span[id^='11custcol_customization'] { display:none; }
                                 
                                 </div>
 								<div class="menu-column">
-                                <div style="height:150px;">
+                                <div style="height:175px;">
                                 <h4 class="menu-category-titles">Footwear</h4>
                                    <a href="/All-Products/Metal-Cleats/">Metal Cleats</a><br>
                                      <a href="/All-Products/Molded-Cleats/">Molded Cleats</a><br>
-                                     <a href=" /s.nl/sc.26/category.326302/.f">Slides</a><br>
+                                     <a href="/All-Products/Football-Cleats/">Football Cleats</a><br>
                                      <a href="/All-Products/Soccer-Cleats/">Soccer Cleats</a><br>                                    
                                      <a href="/All-Products/Trail-Shoes/">Trail Shoes</a><br>
                                      <a href="/All-Products/Training/">Training Shoes</a><br>
                                      <a href="/All-Products/Turf-Shoes/">Turf Shoes</a><br>
+                                     <a href=" /s.nl/sc.26/category.326302/.f">Slides</a><br>
                                      <a href="/builders/ShoeBuilder2012/ShoeBuilderLanding.html">Custom Shoes</a><br>
                                      </div>
-                                     <h4 class="menu-category-titles">USSSA Apparel</h4>
-                                   
-                                     <a href="/All-Products/USSSA-Officials-Polo/">Official's Polos</a><br>
-                                     <a href="/All-Products/USSSA-Ankle-Sock/">Ankle Sock</a><br>
+                                     <h4 class="menu-category-titles">USSSA Gear</h4>
+                                     <a href="/All-Products/USSSA_Apparel/">Apparel &amp; Gear</a><br>
+                                     <a href="/All-Products/USSSA-HATS/">Hats</a><br>
+
 
                                    
                                      
@@ -319,13 +345,12 @@ span[id^='11custcol_customization'] { display:none; }
                                    <h4 class="menu-category-titles">Uniforms</h4>
                                    <a href="/All-Products/Pants/">Softball &amp; Baseball Pants</a><br>
                                     <a href="/s.nl/sc.26/category.326009/.f">Authentic Baseball Uniforms</a><br>
-                                    <a href="/Uniforms/FullDye/fulldye_basketball.htm">Authentic Basketball Uniforms</a><br>
                                     <a href="/All-Products/Football-Uniforms/">Authentic Football Uniforms</a><br>
                                     <a href="/Uniforms/FullDye/fulldye_baseball.htm">Full Dye Baseball Uniforms</a><br>
-                                    <a href="/All-Products/Basketball/">Full Dye Basketball Uniforms</a><br>
+                                    <a href="/Uniforms/FullDye/basketball.html">Full Dye Basketball Uniforms</a><br>
                                     <a href="/Uniforms/FullDye/fulldye_slowpitch.htm">Full Dye Slowpitch Uniforms</a><br>
                                     <a href="/s.nl/sc.26/category.480840/.f">In-Stock 2-Button Jerseys</a><br>
-                                    <a href="/All-Products/Boombah-In-Stock-DLUX-Uniforms/">In-Stock Basketball Uniforms</a><br>
+                                    <a href="/Uniforms/DLUX/basketball.html">In-Stock Basketball Uniforms</a><br>
                                     <a href="/All-Products/Boombah-Football-In-Stock-Uniforms/">In-Stock Football Uniforms</a><br>
                                     <a href="/s.nl/sc.26/category.480923/.f">Soccer Uniforms</a><br>
                                   </div> 
@@ -382,7 +407,7 @@ span[id^='11custcol_customization'] { display:none; }
                             <div class="menu-column-wrapper">
 
 								<div class="menu-column">
-                                  <div style="height:150px;">
+                                  <div style="height:170px;">
                                   <h4 class="menu-category-titles">Shirts &amp; Tops</h4>
                                    
                                      <a href="/All-Products/Compression/">Compression</a><br>
@@ -393,11 +418,13 @@ span[id^='11custcol_customization'] { display:none; }
                                      <a href="/All-Products/Warm-Ups_2/">Warm-Up Tops</a><br>
                                     <a href="/All-Products/Outerwear_2/">Outerwear</a><br>
                                      <a href="/branded/branded-apparel.html">Women's Graphic Apparel</a><br>
+                                     <a href="/All-Products/Sports-Bra/">Sports Bras</a><br>
                                    </div>
                                   
                                    <h4 class="menu-category-titles">Bottoms</h4>
                                    
                                    	<a href="/All-Products/Shorts_3/">Shorts</a><br>
+                                     <a href="/All-Products/Boombah-Pants/">Graphic Pants</a><br>
                                     <a href="/s.nl/sc.26/category.142336/.f">Softball Pants</a><br>
                                     <a href="/All-Products/Warm-Ups_2/">Warm-Up Pants</a><br>
                                    <a href="/All-Products/Outerwear_2/">Outerwear Pants</a><br>
@@ -410,7 +437,7 @@ span[id^='11custcol_customization'] { display:none; }
                                 <h4 class="menu-category-titles">Footwear</h4>
                                    <a href="/All-Products/Womens-Metal-Cleats/">Metal Cleats</a><br>
                                      <a href="/s.nl/sc.26/category.458848/.f">Molded Cleats</a><br>
-                                     <a href="/s.nl/sc.26/category.326302/.f">Slides</a><br>
+                                     <a href="/All-Products/Womens-Sandals/">Sandals/Slides</a><br>
                                      <a href="/All-Products/Matrix-Digital-Soccer-Cleat-Womens/">Soccer Cleats</a><br>
                                     <a href="/All-Products/Trail-Shoes/">Trail Shoes</a><br>
                                      <a href="/s.nl/sc.26/category.459543/.f">Training Shoes</a><br>
@@ -427,7 +454,7 @@ span[id^='11custcol_customization'] { display:none; }
                                    
                                    <h4 class="menu-category-titles">Uniforms</h4>
                                    <a href="/s.nl/sc.26/category.142336/.f">Softball Pants</a><br>
-                                    <a href="/All-Products/Basketball-Uniforms/">Authentic Basketball Uniforms</a><br>
+                                    <!--a href="/All-Products/Basketball-Uniforms/">Authentic Basketball Uniforms</a><br /-->
                                     <a href="/s.nl/sc.26/category.302195/.f">Authentic Fastpitch Uniforms</a><br>
                                      <a href="/s.nl/sc.26/category.456881/.f">Prime Series </a><br>
                                     <a href="/Uniforms/FullDye/fulldye_basketball.htm">Full Dye Basketball Uniforms</a><br>
@@ -490,12 +517,12 @@ span[id^='11custcol_customization'] { display:none; }
                                   <h4 class="menu-category-titles">Shirts &amp; Tops</h4>
                                    
                                      <a href="/s.nl/sc.26/category.455427/.f">Compression</a><br>
-                                     <a href="/All-Products/High-Performance_Youth/">Shirts</a><br>
+                                     <a href="/All-Products/Shirts_2/">Shirts</a><br>
                                      <a href="/All-Products/Youth-Hoodies/">Hoodies</a><br>
                                      <a href="/s.nl/sc.26/category.388115/.f">Warm-Up Tops</a><br>
                                      <a href="/All-Products/Outerwear_3/">Outerwear</a><br>
                                      <a href="/s.nl/sc.26/category.204690/.f">Fan Gear</a><br>
-                                     <a href="/All-Products/Youth-Graphic-Apparel/">Graphic Apparel</a><br>
+                                     <a href="/branded/branded-apparel.html">Graphic Apparel</a><br>
                                    </div>
                                   
                                    <h4 class="menu-category-titles">Bottoms</h4>
@@ -530,12 +557,12 @@ span[id^='11custcol_customization'] { display:none; }
                                    <h4 class="menu-category-titles">Uniforms</h4>
                                    <a href="/s.nl/sc.26/category.142335/.f">Baseball Pants</a><br>
                                     <a href="/s.nl/sc.26/category.326009/.f">Authentic Baseball Uniforms</a><br>
-                                    <a href="/Uniforms/FullDye/fulldye_basketball.htm">Authentic Basketball Uniforms</a><br>
+                                    <!--a href="/Uniforms/FullDye/fulldye_basketball.htm">Authentic Basketball Uniforms</a><br /-->
                                     <a href="/All-Products/Football-Uniforms/">Authentic Football Uniforms</a><br>
                                     <a href="/Uniforms/FullDye/fulldye_youth-baseball.htm">Full Dye Baseball Uniforms</a><br>
-                                    <a href="/All-Products/Basketball/">Full Dye Basketball Uniforms</a><br>
+                                    <a href="/Uniforms/FullDye/basketball.html">Full Dye Basketball Uniforms</a><br>
                                     <a href="/All-Products/Youth-2-Button-Jerseys/">In-Stock 2-Button Jerseys</a><br>
-                                    <a href="/All-Products/Boombah-In-Stock-DLUX-Uniforms/">In-Stock Basketball Uniforms</a><br>
+                                    <a href="/Uniforms/DLUX/basketball.html">In-Stock Basketball Uniforms</a><br>
                                     <a href="/All-Products/Boombah-Football-In-Stock-Uniforms/">In-Stock Football Uniforms</a><br>
                                     <a href="/s.nl/sc.26/category.480923/.f">Soccer Uniforms</a><br>
                                    
@@ -579,6 +606,10 @@ span[id^='11custcol_customization'] { display:none; }
                </ul>
             </li>
   <!-- END OF YOUTH MENU -->
+
+<!-- INK MENU -->
+          <li class="current"><a href="/ink/index.html">Ink</a></li>
+<!-- END OF INK MENU -->
 
 <!-- FOOTWEAR MENU -->         
             <li class="current"><a href="/s.nl/sc.26/category.142322/.f">Footwear</a>
@@ -659,7 +690,7 @@ span[id^='11custcol_customization'] { display:none; }
                                           <a href="/builders/AuthenticBuilder2012/authentic-builder.html?product=AUTH-BASE">Authentic Uniform Builder</a><br>
                                           <a href="/builders/AuthenticBuilder2012/authentic-builder.html?product=AUTH-BASE-YOUTH">Authentic Uniform Builder Youth</a><br>
 					 <a href="/Uniforms/Authentic/Authentic_baseball.htm">Authentic Full Custom</a><br>
-                                          <a href="/Uniforms/Authentic/Authentic_baseball_semicustom.htm">Authentic Semi Custom</a><br>
+                                          <!-- <a href="/Uniforms/Authentic/Authentic_baseball_semicustom.htm">Authentic Semi Custom</a><br /> -->
                                           <a href="/Uniforms/FullDye/fulldye_baseball.htm">Full Dye</a><br>
                                           <a href="/Uniforms/FullDye/fulldye_youth-baseball.htm">Full Dye Youth</a><br>
                                           <a href="/All-Products/Pants/">Baseball Pants</a><br>
@@ -684,7 +715,7 @@ span[id^='11custcol_customization'] { display:none; }
                                      <h4 class="menu-category-titles-Uniform">CUSTOM</h4>
                                       <a href="/builders/AuthenticBuilder2012/authentic-builder.html">Authentic Uniform Builder</a><br>
                               		  <a href="/Uniforms/Authentic/Authentic_fastpitch.htm">Authentic Full Custom</a><br>
-                                      <a href="/Uniforms/Authentic/Authentic_fastpitch_semicustom.htm">Authentic Semi Custom</a><br>
+                                      <!-- <a href="/Uniforms/Authentic/Authentic_fastpitch_semicustom.htm">Authentic Semi Custom</a><br /> -->
                                       <a href="/Uniforms/FullDye/fulldye_fastpitch.htm">Full Dye</a><br>
 					<a href="/All-Products/Fastpitch_2/">Pants</a><br>
                                      <h4 class="menu-category-titles-Uniform">In-Stock</h4> 
@@ -737,11 +768,12 @@ span[id^='11custcol_customization'] { display:none; }
                                    
                                         <!--a href="/packages/basketball.htm">Team Packages</a><br /-->
                                         <h4 class="menu-category-titles-Uniform">CUSTOM</h4>
-                                        <a href="/Uniforms/Authentic/Authentic_basketball_gameseries.htm">Authentic Gameseries</a><br>
-                                        <a href="/Uniforms/Authentic/Authentic_basketball_reversible.htm">Authentic Reversible</a><br>
-                                        <a href="/Uniforms/FullDye/fulldye_basketball.htm">Full Dye</a><br>
+                                        <!--a href="/Uniforms/Authentic/Authentic_basketball_gameseries.htm">Authentic Gameseries</a><br />
+                                        <a href="/Uniforms/Authentic/Authentic_basketball_reversible.htm">Authentic Reversible</a><br /-->
+                                        <a href="/Uniforms/FullDye/basketball.html">Men's Full Dye</a><br>
+                                        <a href="/Uniforms/FullDye/fulldye_basketball.htm">Women's Full Dye</a><br>
                                         <h4 class="menu-category-titles-Uniform">In-Stock</h4>
-                                        <a href="/All-Products/Boombah-In-Stock-DLUX-Uniforms/">Authentic Basketball</a><br>
+                                        <a href="/Uniforms/DLUX/basketball.html">Authentic Basketball</a><br>
                                
                                   </div>
                                   </div>   
@@ -776,8 +808,11 @@ span[id^='11custcol_customization'] { display:none; }
 
                                     <div class="menu-column-Uniform">
                                     <div style="height:245px;">
-                                    <h4 class="menu-category-titles">Officials</h4>
+                                    <h4 class="menu-category-titles">Officials <span style="display: inline-block; margin-bottom: 1px;"><a href="/All-Products/USSSA_Apparel/">View All</a></span></h4>
+                                    <a href="/All-Products/USSSA-Officials-Polo/">Polos</a><br>
+                                    <a href="/All-Products/USSSA-L-S-3-color-Explosion-Pullover/">Pullovers</a><br>
                                     <a href=" /All-Products/Mens-Umpire-Combo-Pant/">Pants</a><br>
+                                    <a href="/All-Products/USSSA-Ankle-Sock/">Socks</a><br>
                                    
 
                                      </div>
@@ -847,28 +882,6 @@ span[id^='11custcol_customization'] { display:none; }
             </li>
  <!-- END OF CLEARANCE MENU -->
 
-<!-- ATHLETES MENU -->
-           <li class="current"><a href="/Athletes/Athletes.htm">Athletes</a>
-               <ul style="display: none; visibility: hidden;">
-                   <li>
-                      <div id="athlete-menu-div">
-                        <div class="menu-column-wrapper">
-                                  <div class="menu-column">
-                            <div><h3 class="menu-header">Athletes</h3></div>
-                            <a href="/Athletes/corey-wootton.html">Corey Wootton</a><br>
-                            <a href="/Athletes/ashley-charters.html">Ashley Charters</a><br>
-                            <a href="/Athletes/francesca-enea.html">Francesca Enea</a><br>
-                            <a href="/Athletes/megan-willis.html">Megan Willis</a><br>
-                            
-
-                         </div>
-                         </div>
-                      </div>
-
-                   </li>
-               </ul>
-            </li>
-<!-- END OF ATHLETES MENU -->
 
 <!-- INFO MENU -->
             <li class="current"><a href="/info/contact.htm">Info</a>
@@ -881,18 +894,21 @@ span[id^='11custcol_customization'] { display:none; }
                                                  
 							<a href=" /info/aboutus.htm">About Us</a><br>
                             <a href="/info/contact.htm">Contact</a><br>
-                            <a href="/info/careers.htm">Careers</a><br>
-                            <a href="/discount-pricing.html">Discount Pricing</a><br>
+                            <!--a href="/info/careers.htm">Careers</a><br /-->
+                            <a href="http://boombah.atsondemand.com/">Careers</a><br>
+                            <a href="/discount-pricing.html">Discounts &amp; Promos</a><br>
                             <a href="/info/faq.htm">FAQ</a><br>                      
                             <a href="/info/returns.htm">Returns and Warranty Policies</a><br>
                             <a href="/info/shipping-policies.html">Shipping Policies</a><br>
-                            <a href="/info/store.htm">Yorkville Retail Store</a><br>
+                            <a href="/info/store-yorkville-il.html">Yorkville Outlet Store</a><br>
                             <a href="/info/store-batavia-il.html">Batavia Retail Store</a><br>
                             <a href="/info/store-naperville-il.html">Naperville Retail Store</a><br>
+                            <a href="/info/store-orlandpark-il.html">Orland Park Retail Store</a><br>
                             <a href="/info/testimonials.htm">Testimonials</a><br>
                             <a href="/s.nl/sc.10/.f">Gift Certificates</a><br>
                             <a href="/info/policies.htm">Privacy Policy</a><br>
-                            <a href="/info/terms.html">Terms of Use</a><br>     
+                            <a href="/info/terms.html">Terms of Use</a><br>
+                            <a href="/videos.html">Videos</a><br>     
 
                          </div>
                          </div>
@@ -910,6 +926,10 @@ span[id^='11custcol_customization'] { display:none; }
 </div>
 
 </td>
+</tr>
+
+<tr id="crumb" style="display:none; height:30px;">
+<td id="crumb-td">All Products&nbsp;&gt;&nbsp;</td>
 </tr>
 
 
@@ -1012,10 +1032,16 @@ Boombah may update this privacy policy from time to time, and you should take th
                 <a href="http://www.youtube.com/BoombahInc" target="_blank"><img class="social_icons" src="/f1/images/2012_hp_images/youtube_icon_footer.jpg" width="30" height="30" alt="Boombah YouTube" border="0"></a>
                                         </div>
                 
-                                        <div id="footer-container-top-left">
-                                        <a href="/info/store.htm"><img src="/f1/images/2012_hp_images/footer_map.png" width="62" height="51"></a> </div>
                                         
-                                        <div id="footer-container-top-left-text"><span class="footer-titles"><a href="/info/store.htm">Visit a Store</a></span></div>
+                                        
+                                        <div id="footer-container-top-left-text" style="text-align:center;"><span class="footer-titles" style="text-align:center;">Visit a Store<br>
+                                        
+                                        <a href="/info/store-batavia-il.html">Batavia</a> |
+                                        <a href="/info/store-naperville-il.html">Naperville</a> |
+                                        <a href="/info/store-orlandpark-il.html">Orland Park</a>
+                                        
+                                        </span>
+                                        </div>
                                         
                                         
                                         <div id="footer-container-top-right">
@@ -1100,9 +1126,9 @@ Boombah may update this privacy policy from time to time, and you should take th
                                         <p class="footer-titles-columns">Careers</p>
                                         <p>
                                         <span class="footer-titles">
-                                        <a href="/info/careers.htm">Opportunities</a><br>
+                                        <a href="http://boombah.atsondemand.com/">Opportunities</a><br>
 
-                                        <a href="/info/careers.htm">Apply</a><br>
+                                        <a href="http://boombah.atsondemand.com/">Apply</a><br>
 
                                         </span></p>
                                        
@@ -1133,7 +1159,63 @@ Boombah may update this privacy policy from time to time, and you should take th
                              </div>           
                                         
                             </div>            
-                            <div id="footer-info"><p class="footer-info">©2013 Boombah Inc. All Rights Reserved</p></div>  
+                            <div id="footer-info"><p class="footer-info">©2005-2013 Boombah Inc. All Rights Reserved</p></div>  
+
+
+
+
+<!-- modded AutoComplete Code -->
+<script type="text/javascript">
+(function() {
+     var nxt_host = (("https:" == document.location.protocol) ? "https://" : "http://"); nxt_host += "vector.nextopiasoftware.com/";
+     document.write(unescape("%3C") + "script src='" + nxt_host + "nxt-ac-js-ui-3.1-min.js' type='text/javascript'" + unescape("%3E%3C/script%3E"));
+     document.write(unescape("%3C") + "link rel='stylesheet' type='text/css' href='" + nxt_host + "ac-3.0-theme4-min.css'" + unescape("%3E"));
+})();
+</script><script src="https://vector.nextopiasoftware.com/nxt-ac-js-ui-3.1-min.js" type="text/javascript"></script><link rel="stylesheet" type="text/css" href="https://vector.nextopiasoftware.com/ac-3.0-theme4-min.css">
+
+<script type="text/javascript">
+(function() {
+     var searchBox = jQuery('input[name="keywords"]');
+     //var jnxtac = jQuery.noConflict(true);
+     //jQuery("#search_box_id").nxt_autocomplete({cid:'7e9640818dff034aea5cf7b2cc04b779'});
+     jQuery(searchBox).nxt_autocomplete({cid:'7e9640818dff034aea5cf7b2cc04b779'});
+     jQuery.ui.nxt_autocomplete.prototype._handleSectionSelect = function (d) {
+
+          var e = this.selectedItem.data("nxt-autocomplete.type");
+          var c = this.selectedItem.data("nxt-autocomplete.item");
+
+          //location.href = '//boombah.ecomm-search.com/search?keywords=' + c;
+          location.href = '//search.boombah.com/search?keywords=' + c;
+     };
+          
+     jQuery.ui.nxt_autocomplete.prototype._setPosition = function () {
+          this.ac_main_container.position({
+               my: "left top",          // position the top left of my autocomplete dropdown (valid values: top, center, bottom, left, right)
+               at: "left bottom",  // to the bottom left of 
+               of: this.element,   // my search box the autocomplete is being attached to
+               offset: "-204 2",   // adding 50 to the left positioning and 50 to the top positioning of the dropdown
+               collision: "none"   // with no collision detection
+          });
+     };   
+
+  jQuery(searchBox).nxt_autocomplete("option", "footer", '');
+  //jQuery(searchBox).attr('style', 'z-index: 10000; display: block; top: 28px; left: 593px;' );
+
+})();
+</script>
+<style>
+.nxt-ac-products-container
+{
+  //background: #FFF url('//boombah.ecomm-search.com/separator.png') no-repeat top left ;
+  background: #FFF url('//search.boombah.com/separator.png') no-repeat top left ;
+  padding-top: 10px;
+}
+.nxt-ac-item .nxt-item-txt { color:#000 !important; }
+.nxt-ac-main { padding: 0 !important; z-index:10000 !important; }
+.nxt-ac-section-container, .nxt-ac-products-container { padding: 15px 5px; }
+.nxt-ac-header { color:#000 !important;}
+</style>
+<!-- AutoComplete Code -->
 
 
 
@@ -1170,9 +1252,9 @@ function nsVoid(){return;};
 
 
 
-<!-- 233 s: 40% #33 co: 39% #77-->
-<!-- [ sh.j23.sv ] [ 2013.1.0.110 ]-->
-<!-- [ 460511 ] [  ] [ /s.nl ] [ Mon Jun 10 10:29:07 PDT 2013 ] -->
+<!-- 279 s: 32% #34 co: 45% #88-->
+<!-- [ sh.j47.sv ] [ 2013.2.0.83 ]-->
+<!-- [ 460511 ] [  ] [ /s.nl ] [ Wed Oct 16 15:24:31 PDT 2013 ] -->
 <!-- Not logging slowest SQL -->
 
-</div><iframe id="stSegmentFrame" name="stSegmentFrame" src="https://web.archive.org/web/20130112204149/https://seg.sharethis.com/getSegment.php?purl=https%3A%2F%2Fweb.archive.org%2Fweb%2F20130610172908id_%2Fhttp%253A%2F%2Fwww.boombah.com%2Finfo%2Fpolicies.htm&amp;jsref=&amp;rnd=1580497503653" frameborder="0" scrolling="no" width="0px" height="0px" style="display:none;"></iframe><div id="stwrapper" class="stwrapper" style="visibility: hidden; top: -999px; left: -999px; width: 500px; z-index: 89999999;"><div class="stCloseNew2"></div><iframe allowtransparency="true" id="stLframe" class="stLframe" name="stLframe" frameborder="0" scrolling="no" width="500px" height="430px" src="https://web.archive.org/web/20130112204149/https://ws.sharethis.com/secure5x/index.html" style="top: 0px; left: 0px;"></iframe></div><div id="stOverlay" style="height: 100%; width: 100%; background-color: rgb(0, 0, 0); opacity: 0.6; position: fixed; display: none; left: 0px; top: 0px; z-index: 89999990;"></div></body></html>
+</div><iframe id="stSegmentFrame" name="stSegmentFrame" src="https://web.archive.org/web/20130112204149/https://seg.sharethis.com/getSegment.php?purl=https%3A%2F%2Fweb.archive.org%2Fweb%2F20131016222432id_%2Fhttp%253A%2F%2Fwww.boombah.com%2Finfo%2Fpolicies.htm&amp;jsref=&amp;rnd=1580497502664" frameborder="0" scrolling="no" width="0px" height="0px" style="display:none;"></iframe><div id="stwrapper" class="stwrapper" style="visibility: hidden; top: -999px; left: -999px; width: 500px; z-index: 89999999;"><div class="stCloseNew2"></div><iframe allowtransparency="true" id="stLframe" class="stLframe" name="stLframe" frameborder="0" scrolling="no" width="500px" height="430px" src="https://web.archive.org/web/20130112204149/https://ws.sharethis.com/secure5x/index.html" style="top: 0px; left: 0px;"></iframe></div><div id="stOverlay" style="height: 100%; width: 100%; background-color: rgb(0, 0, 0); opacity: 0.6; position: fixed; display: none; left: 0px; top: 0px; z-index: 89999990;"></div></body></html>
