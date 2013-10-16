@@ -1,53 +1,101 @@
-> *The following text is extracted and transformed from the frontiertouring.com privacy policy that was archived on 2013-01-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130123141918id_/http%3A//www.frontiertouring.com/index.php%3FpageID%3D648) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the frontiertouring.com privacy policy that was archived on 2013-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131016124753id_/http%3A//www.frontiertouring.com/privacypolicy) for the most accurate reproduction.*
 
-# The Frontier Touring Company - Privacy Policy
+# Privacy Policy | Frontier Touring Australia & New Zealand
 
-## We Respect Your Privacy
+**1\. General**
 
-The Frontier Touring Company respects our customers' privacy and is committed to collect, maintain, and use customer information responsibly. This privacy statement explains our information collection, storage, and use practices for [www.frontiertouring.com](http://www.frontiertouring.com/), [www.frontiertouring.com.au](http://www.frontiertouring.com.au/) and [www.frontiertouring.co.nz](http://www.frontiertouring.co.nz/) and our other forms of online communication. 
+1.1  Protecting your personal information is important to us.
 
-The Frontier Touring Company does not control or have input into the privacy policy of third party sites that may be linked to or referred to in our site. You should refer to the individual sites for information on their privacy policy.
+1.2  This Online Privacy Policy explains:
 
-## Effective Date & Changes
+a)  what kind of information The Frontier Touring Co. Pty Ltd ACN 005 602 602 and its related body corporates (‘we’, ‘us’ or ‘our’) of 9 Dundas Lane, Albert Park, Vic, Australia 3206, collect about you when you visit and use the www.frontiertouring.com website and service (collectively referred to in this policy as ‘the Website’); and  
+b)  how that information might be used and disclosed.
 
-The Frontier Touring Company's privacy policy was most recently updated on Monday 18 August 2008. Any changes to our policy will be updated on this webpage or by communicating directly with you if we determine. 
+1.3  We are an Australian and New Zealand promoter of music and entertainment goods and services. For the purpose of this Online Privacy Policy, these are referred to as “our goods and/or services”.
 
-## How Does The Frontier Touring Company Use & Share My Information
+1.4  By using the Website and submitting your personal information to us, you agree to the collection, use and disclosure of personal information by us as set out in this Online Privacy Policy.
 
-We do not collect 'personally identifiable information' about you on this site without your knowledge, and all such information is collected directly from you. For example, we may ask you to provide your email address, name, mailing address, mobile phone number or other information about yourself in order to participate in competitions, to enter a promotion via our site, to become a Frontier Member, to access our Frontier Members area, or to receive emails from The Frontier Touring Company. You are not required to provide us with this information but, if you choose not to, you may not be able to access certain sections or participate in some of the activities on this site. If you are under thirteen (13) years old, you should only submit information about yourself with the consent of a parent or guardian. 
+1.5  We act to protect your personal information in accordance with the National Privacy Principles (“NPP”).
 
-a) Personally non-identifiable information. We do gather some collective non-identifiable information from you. This information includes: your Internet location (IP address), your Internet entry point (ISP domain name), your software and its configuration used to access this site.
+**2\. Collection of information**
 
-This data does not identify you personally and is used only to maintain our site, identify and analyse trends, administer our online products and provide us with broad demographic information.
+2.1  Two types of information may be collected through the Website:
 
-b) Personally identifiable information. We receive and store any 'personally identifiable information' you provide us via our site as set out below. We use this information to run our competitions and promotions, provide you with the benefits of being a Frontier Member and inform you of tours, competitions, pre-sales and promotional offers that may be of interest to you. If someone with access to your information has subscribed you to our site without your knowledge please [contact us](http://www.frontiertouring.com.au/contact) and we will remove your information.
+a) anonymous information; and  
+b)  personal information.
 
-c) Personalising your Frontier Members experience. In order to deliver information specific to your needs, or to make your experience more appropriate and convenient, we may use your personal information in a variety of ways to provide you with information relevant to you on our website and in our emails to you or to ask you about matters related to your use of our services, website or emails. For example, if you supply us your email address to receive updates for a particular genre of music, that address is added to the e-mail list for that music genre and we will send you information on tours that relate to your choices. On every email you receive from us, you are given the opportunity to unsubscribe, and in some cases, to change your preferences. When you unsubscribe, we remove your email address permanently from our mailing lists. In the event that you may have subscribed with more than one email address, or multiple times with one address, you will need to unsubscribe each address separately.
+2.2  Anonymous information is information that does not identify you. It includes:
 
-d) Competitions. We often run promotions/competitions in partnership with external parties. For competitions conducted on this site, we and/or our competition partner will only use the personal information you provide for the purpose of conducting the competition, contacting you if you win a prize and sending the prize to you. We we and/or our competition partner do not use contact information contained in competition entries for any purpose other than as expressly stated in the competition terms and conditions. 
+a)  analytics information – this is information that we log regarding access and use of the Website, including details of any computer used to access the Website (such as IP address, host and browser type), the date and time of access and details of webpages accessed and information downloaded; and  
+b)  profile information – this is information that you provide for your online profile, including your entertainment preferences and region.
 
-## How Does The Frontier Touring Company Protect My Information?
+2.3  Personal information is information that could identify you – for example, your name, date of birth, email address, residential, postal or billing address and telephone number.
 
-a) Data security with online registration. We use Secure Socket Layer (SSL) on pages transmitting private information. For instance when you submit your personal information when joining as a Frontier Member the SSL protocol ensures that your information is sent directly to The Frontier Touring Company and that only The Frontier Touring Company can decode it.
+2.4  We only collect personal information that you provide to us.
 
-b) Physical security of equipment storing personal information. Access to our computer equipment (servers) storing personal information is restricted to authorized personnel only. These individuals only access your information for administrative purposes or system maintenance purposes.
+2.5  You will need to disclose your personal information when you register as a subscriber or member of the Website. If you choose not to disclose your personal information you may not be able register as a Frontier member or access certain areas of the Website and we may not be able to provide you with our goods or services.
 
-## Use & Disclosure of Information - Accuracy and Security
+2.6  If you are under the age of thirteen (13) years old, you should only submit information about yourself with the consent of a parent or guardian.
 
-We try to keep the information we collect from you as current as possible, and we take steps to maintain the security of your personal information and to prevent unauthorised access to it by those who do not have a legitimate need for it. We will not post your email address or other identifying information you have provided on our site without your consent. This consent may be express or implied. 
+**3\. Use of information**
 
-We may utilize the services of third party service providers from time to time to assist with the distribution of information and marketing materials to you. Your personal information will be provided to these businesses solely for this purpose and any such third party will act in accordance with the terms of this Privacy Policy.
+3.1  We use anonymous information:
 
-You have a right to access most of the information held about you by The Frontier Touring Company, and also the ability to correct or update any of this information held about you by The Frontier Touring Company at any time
+a)  for our own statistical and internal business purposes and to improve the Website;  
+b)  to provide certain features or functionality or to improve your user experience, for example by suggesting artists or tours and displaying information about events that are local to you; and  
+c)  for advertising and business promotion purposes, for example to measure the effectiveness of any advertisements displayed on the Website.
 
-## Opting Out/Unsubscribing From Email Communications
+3.2  Personal information that you choose to disclose will only be used:
 
-On every email you receive from us, you are given the opportunity to unsubscribe, and in some cases, to change your preferences. 
+a)  to provide you with the Website and our goods or services and provide you with information in relation to our goods or services;  
+b)  for purposes incidental to the above purpose including, without limitation, for the purpose of managing its relationship with you, communicating with you effectively and identifying which of our goods and services may interest you in the future and by providing you with special offers and newsletters related to the Website, artists or other promotions as the case may;  
+c)  for a purpose for which you have authorised (including via your profile settings) including but not limited to accessing the pre-sale ticket information for Frontier members on the Website, participating in purchasing pre-sale ticket to our tours and receiving the benefits of being a registered member of the Website;  
+d)  for the purpose for which you provided it, for example, entering our competitions or promotions; and  
+e)  for any related or relevant business purposes (for example, sending you a newsletter, customer feedback survey, special offers or promotions).
 
-When you unsubscribe, we remove your email address permanently from our mailing lists. In the event that you may have subscribed with more than one email address, you will need to unsubscribe each address separately. If you experience any difficultly unsubscribing please [contact us](https://web.archive.org/web/20130123141918id_/http%3A//www.frontiertouring.com/index.php?action=feedback). 
+3.3  You agree to us using your email address to send you messages about:
 
-## Contact us
+a)  your account, the Website, our newsletter, giveaways, updates on artists tours, activities, updates about us and updates for the particular genre of music which you have ticked as your preference; and  
+b)  other goods and services that may be of interest to you.
 
-This site is managed and run by Frontier Touring Co Pty Ltd., 9 Dundas Lane, Albert Park, VIC 3206, Australia. Frontier Touring Co Pty Ltd is part of The Mushroom Group Of Companies.
+3.4  If you no longer wish to receive emails from us and you unsubscribe from receiving emails or cancel your account on the Website, you acknowledge you may not be able use the Website as a Frontier member or access certain areas of the Website and we may not be able to provide you with our goods or services, including but not limited to the opportunity to purchase pre-sales tickets. However, if you wish to unsubscribe from your receiving emails or cancel your account, we will respect your choice. 
 
-If you have questions concerning this policy, please [contact us](https://web.archive.org/web/20130123141918id_/http%3A//www.frontiertouring.com/index.php?action=feedback) to submit your enquiries. This policy may change as our site develops, so please re-visit this page as often as you wish for the latest updates. 
+**4\. Cookies**
+
+4.1  A cookie is a small file which we may store on your computer. We may use cookies to record and hold information to track your internet browser’s behavior and to enable certain website functions, such as remembering your settings or preferences. Cookies will collect only the necessary information for this purpose.
+
+4.2  If you do not want to accept cookies, you can set your browser or firewall to block them. If you block cookies you may not be able to access some interactive features or functions of the Website, if any.
+
+**5\. Disclosure of personal information**
+
+5.1  There are limited circumstances where we have to disclose your personal information to third parties, including:
+
+a)  where we are required to by law;  
+b)  where we need to in order to fulfill the purpose for which you disclosed the personal information, including but not limited to providing the information to our associated company, Frontier Touring Co. (N.Z) Ltd in New Zealand for the purposes of supplying you with information about our New Zealand tours when you have requested;  
+c)  from time to time, to other companies within the Mushroom Group that perform certain functions on our behalf. Any personal information transferred between the Mushroom Group companies in such circumstances will be handled in accordance with the NPP’s and this Privacy Policy.  
+d)  to third parties to whom we contract out specialised functions (e.g. mailing houses, printing companies and storage servers). If we do disclose personal information to third party contractors under outsourcing or contracting arrangements, we will take steps to ensure that those contractors only use your personal information in order to provide the specific services or to perform the specific functions required by us and store your personal information securely and only for as long as it is necessary to provide the required services or perform the required function; or  
+e)  you authorise us to do so (for example, through your profile settings).
+
+5.2  Other than these limited circumstances, we will not disclose your personal information to any third party (including advertisers or other companies) unless you have authorised us to do so.
+
+**6\. Third Party Sites and Sponsors**
+
+6.1  This policy only applies to the use of the website at www.frontiertouring.com and www.frontiertouring.co.nz and not to other websites that we may link to. We sometimes offer competitions and promotions that are sponsored by or require entry through identified third parties. Accordingly, these third parties may obtain personal information that users voluntarily submit to participate in the competition or promotion. We will notify you at the time of requesting personal information if a third party sponsor will obtain such information.
+
+**7\. Access and correction**
+
+If we hold your personal information, we will provide you with access to it on your reasonable request and we will take reasonable steps to ensure that it is accurate, complete and up to date. Please contact us by sending an email to info@frontiertouring.com.au
+
+**8\. Storage and security**
+
+We will take reasonable steps to keep any personal information we hold secure from unauthorised disclosure or access, including restricting access to authorised personnel only and imposing strict requirements of security and confidentiality on all third parties who store the personal information on our behalf as to how they store and handle personal information.  You agree that in order for us to provide the Website and any incidental goods and services, we may need to store or transfer your personal information to servers located outside of Australia.
+
+**9\. Questions and complaints**
+
+If you have any questions or complaints relating to this policy, please contact us by email: info@frontiertouring.com; or in writing to 9 Dundas Lane, Albert Park, Victoria 3206.
+
+Should you have a privacy complaint, please tell us about it by contacting us as set out above so that we have an opportunity to fix the problem.  We will review your complaint and endeavour to resolve your complaints at your first point of contact with us. If your complaint is not satisfactorily resolved, you may apply to the Federal Privacy Commissioner to have the concern heard and determined. For more information about how to lodge a complaint to the Office of the Australian Information Commissioner please visit http://www.oaic.gov.au.
+
+**10\. Policy changes**
+
+We may change this policy at any time by publishing the changed policy on the Website. Policy current as of 18 September 2013
