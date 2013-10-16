@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mdsol.com privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602112304id_/http%3A//mdsol.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mdsol.com privacy policy that was archived on 2013-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131016204746id_/http%3A//www.mdsol.com/privacy.htm) for the most accurate reproduction.*
 
 # Medidata Solutions: Privacy Policy
 
@@ -10,7 +10,7 @@ Medidata has selected a third party to serve as its independent recourse mechani
 
 If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by Medidata, you may contact either the E.U. DPAs panel at [ec-dppanel-secr@ec.europa.eu](mailto:ec-dppanel-secr@ec.europa.eu) or individual E.U. DPAs (see <http://ec.europa.eu/justice/data-protection/bodies/authorities/eu/index_en.htm>). The contact information for the Swiss FDPIC can be found at: <http://www.edoeb.admin.ch/kontakt/index.html?lang=en>.
 
-**Contact Information—** Some areas of our Site request or require contact and other information. During the registration process and in other instances, we may collect information such as your name, mailing address, and e-mail address. Your contact information may be used: 
+**Contact Information—** Some areas of our Site request or require contact and other information. During the registration process and in other instances, we may collect information such as your name, mailing address, and e-mail address. Your contact information may be used:
 
   * to contact you in connection with your registration or your use of the Site or our products or services;
   * to contact you in response to your inquiries, comments and suggestions;
@@ -64,4 +64,4 @@ You can also email [info@mdsol.com](mailto:info@mdsol.com).
 
 This Privacy Policy will be construed under the laws of the State of New York, U.S.A., without giving effect to any conflict of law provisions. You agree to submission of any dispute to the state and federal courts located in New York, New York, U.S.A.
 
-By providing us with your information, you consent and agree to the terms of this Privacy Policy. 
+By providing us with your information, you consent and agree to the terms of this Privacy Policy.
