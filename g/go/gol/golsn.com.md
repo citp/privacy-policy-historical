@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the golsn.com privacy policy that was archived on 2009-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090417150842id_/http%3A//support.golsn.com/docs/%3Fprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the golsn.com privacy policy that was archived on 2013-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131016024626id_/http%3A//support.golsn.com/docs/%3Fprivacy) for the most accurate reproduction.*
 
-# Go LSN - Privacy Policy - Local Sales Network!
+# Local Sales Network - Privacy Policy - Go LSN!
 
 ## Local Sales Network Privacy Policy Statement
 
@@ -76,7 +76,7 @@ Back to Top
 
 **3rd Party Advertising**
 
-We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://support.golsn.com/). 
+We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/managing/opt_out.asp). 
 
 Back to Top
 
