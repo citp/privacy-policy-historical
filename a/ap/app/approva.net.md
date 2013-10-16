@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the approva.net privacy policy that was archived on 2013-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130509025901id_/http%3A//www.infor.com/company/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the approva.net privacy policy that was archived on 2013-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131016232750id_/http%3A//www.infor.com/company/privacy) for the most accurate reproduction.*
 
 # Privacy
 
 ## Company Privacy Policy 
 
-Infor Global Solutions (the "Company") regards customers privacy as one of its most important values. The Company wants you to know how it protects the information of Company customers who make use of the services and products offered though this website (the "Company Website"). 
+Infor (the "Company") regards customers privacy as one of its most important values. The Company wants you to know how it protects the information of Company customers who make use of the services and products offered though this website (the "Company Website"). 
 
 ## Electronic Service Registration
 
@@ -41,6 +41,11 @@ Please note that the Company does not control the privacy policies or data-shari
     * **Data Integrity/Security.** The Company collects personal information that is relevant for the purpose for which it is to be used, and the Company will take reasonable precautions to ensure that such data is appropriate for its intended use. Additionally, the Company takes precautions to protect your data from loss, misuse, unauthorized access or disclosure, alteration, or destruction. 
     * **Enforcement.** If you believe the Company has not adhered to these rules, please notify us by e-mail at [Privacy.Inquiries@infor.com](mailto:Privacy.Inquiries@infor.com), and the Company will do its best to determine and correct the problem promptly. Be certain the words "Privacy Policy" are in the subject line. 
 
+
+
+## Other Measures
+
+Calls into the Company personnel for technical support and other inquiries may be recorded for quality assurance and training purposes. The Company takes precautions to protect your data from loss, misuse, unauthorized access or disclosure, alteration, or destruction.  
 
 
 [ ](http://www.infor.com/company/protected-information-incident-report/ "HIPAA - Protected Information Incident Repo")
