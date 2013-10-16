@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the prepaymania.co.uk privacy policy that was archived on 2013-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130511093313id_/http%3A//www.prepaymania.co.uk/res/145) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prepaymania.co.uk privacy policy that was archived on 2013-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131016155658id_/http%3A//www.prepaymania.co.uk/res/145) for the most accurate reproduction.*
 
-# Mobile Phones, Mobile Phone Deals, Buy Mobile Phones, Cheap Mobile Phones at Prepaymania.co.uk
+# PrePayMania Privacy Policy
 
 PrePayMania Ltd is committed to protecting our customers' personal information. We have created this Privacy Policy to help you understand how we collect, use and protect your information when you visit our website and buy our products and services.
 
