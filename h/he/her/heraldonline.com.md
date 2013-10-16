@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the heraldonline.com privacy policy that was archived on 2013-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130522041958id_/http%3A//heraldonline.com/privacy_policy%23navlink%3Dmi_footer) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the heraldonline.com privacy policy that was archived on 2013-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131016141142id_/http%3A//www.heraldonline.com/privacy_policy%23navlink%3Dmi_footer) for the most accurate reproduction.*
 
 # Rock Hill Herald Online Rock Hill, SC
 
