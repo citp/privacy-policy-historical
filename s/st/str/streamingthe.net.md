@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the streamingthe.net privacy policy that was archived on 2013-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130531210128id_/http%3A//www.streamingthe.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the streamingthe.net privacy policy that was archived on 2013-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131017045618id_/http%3A//www.streamingthe.net/privacy.php) for the most accurate reproduction.*
 
 # Free Streaming Online Radio & TV
 
@@ -43,7 +43,7 @@ Changes to this Privacy Policy
 STN may amend this Privacy Policy from time to time, at its sole discretion. Use of information we collect now is subject to the Privacy Policy in effect at the time such information is used. It is your responsibility to review our Privacy Policy from time to time to be kept up to date. If the Privacy Policy is ammended, the last updated date will be changed at the bottom of this document to reflect the last changed date. 
 
 Conditions of Use   
-If you decide to visit STN's website, your visit and any possible dispute over privacy is subject to this Privacy Policy and our Terms of Use, including limitations on damages, arbitration of disputes, and application of the laws of the State of Delaware. 
+If you decide to visit STN's website, your visit and any possible dispute over privacy is subject to this Privacy Policy and our Terms of Use, including limitations on damages, arbitration of disputes, and application of the law. 
 
 Effective Date of this Privacy Policy   
-This Privacy Policy is effective as of December 15, 2008 and was last updated on December 1, 2010. 
+This Privacy Policy is effective as of December 15, 2008 and was last updated on December 1, 2012. 
