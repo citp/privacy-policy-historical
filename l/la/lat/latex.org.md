@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the latex.org privacy policy that was archived on 2011-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110206072526id_/http%3A//www.latex.org/common/advertise/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the latex.org privacy policy that was archived on 2013-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131017032404id_/http%3A//latex.org/common/advertise/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
