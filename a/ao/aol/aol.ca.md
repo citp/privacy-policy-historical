@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aol.ca privacy policy that was archived on 2013-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130613193506id_/http%3A//canada.aol.com/portal/misc/PrivacyPolicy.adp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aol.ca privacy policy that was archived on 2013-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131017135755id_/http%3A//canada.aol.com/portal/misc/PrivacyPolicy.adp) for the most accurate reproduction.*
 
 # AOL.ca - Privacy Policy
 
