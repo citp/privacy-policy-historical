@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the merchtable.com privacy policy that was archived on 2013-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130605224255id_/http%3A//merchtable.com/docs/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the merchtable.com privacy policy that was archived on 2013-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131017125529id_/http%3A//merchtable.com/docs/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Merchtable
 
