@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the isnare.com privacy policy that was archived on 2013-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130426063808id_/http%3A//www.isnare.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the isnare.com privacy policy that was archived on 2013-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131017153908id_/http%3A//www.isnare.com/privacypolicy) for the most accurate reproduction.*
 
-# Isnare.com Free Articles Directory Privacy Policy
-
-[Index](http://www.isnare.com/) [Terms of Service](https://web.archive.org/web/20130426063808id_/http%3A//www.isnare.com/aup.php)
+# Privacy Policy: Isnare.com Free Articles
 
 **General**
 
