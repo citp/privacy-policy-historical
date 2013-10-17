@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mymathlab.com privacy policy that was archived on 2013-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130430132331id_/https%3A//register.pearsoncmg.com/w3c/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mymathlab.com privacy policy that was archived on 2013-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131017171414id_/https%3A//register.pearsoncmg.com/w3c/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Statement
 
