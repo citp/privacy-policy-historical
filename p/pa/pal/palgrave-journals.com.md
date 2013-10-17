@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the palgrave-journals.com privacy policy that was archived on 2013-03-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130301071551id_/http%3A//www.palgrave-journals.com/pal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the palgrave-journals.com privacy policy that was archived on 2013-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131018013224id_/http%3A//www.palgrave-journals.com/pal/privacy.html) for the most accurate reproduction.*
 
 # Privacy Notice: Palgrave Macmillan Journals
 
