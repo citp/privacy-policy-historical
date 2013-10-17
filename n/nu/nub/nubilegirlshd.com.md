@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nubilegirlshd.com privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502180807id_/http%3A//213.174.143.116/nhd/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nubilegirlshd.com privacy policy that was archived on 2013-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131017052201id_/http%3A//213.174.143.116/nhd/privacy.html) for the most accurate reproduction.*
 
 # PRIVACY
 
