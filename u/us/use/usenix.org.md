@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the usenix.org privacy policy that was archived on 2013-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130507131841id_/https%3A//www.usenix.org/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usenix.org privacy policy that was archived on 2013-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131017072841id_/https%3A//www.usenix.org/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement | USENIX
 
@@ -14,25 +14,25 @@ Commercial information (such as credit card numbers) is obtained using our secur
 
 ### Electronic Communication
 
-The USENIX Association does not rent or sell email addresses. USENIX may use email addresses to contact members to answer member questions or to acknowledge the receipt of membership applications and other orders, to send membership renewal notices, and to send occasional announcements about USENIX events to those members who have not opted out of receiving such announcements. These announcements are short, straightforward messages which contain pointers to online resources where members can explore the information more fully. 
+The USENIX Association does not rent or sell email addresses. USENIX may use email addresses to contact members to answer member questions or to acknowledge the receipt of membership applications and other orders, to send membership renewal notices, and to send occasional announcements about USENIX events to those members who have not opted out of receiving such announcements. These announcements are short, straightforward messages which contain pointers to online resources where members can explore the information more fully.
 
 For conference registration, our third-party vendor, Cvent, uses Web beacons in email to improve our communications with you. If you use HTML-enabled email, they track when, how often, and where you open these emails. If you would like to opt out of tracking, turn off HTML display of email for cvent.com.
 
 ### Postal Mail
 
-USENIX uses the postal addresses of its members to mail invoices, products, and announcements from USENIX and from its Corporate Supporters. The names and mailing addresses of members who have not opted out (see below) may be rented to outside organizations to send mailing packages that have been carefully screened by authorized USENIX staff for their suitability. USENIX member names and mailing addresses are never sold. 
+USENIX uses the postal addresses of its members to mail invoices, products, and announcements from USENIX and from its Corporate Supporters. The names and mailing addresses of members who have not opted out (see below) may be rented to outside organizations to send mailing packages that have been carefully screened by authorized USENIX staff for their suitability. USENIX member names and mailing addresses are never sold.
 
 ### Opt-Out
 
-Our site gives you the opportunity to opt out from receiving email communications or from having your name and address made available to anyone other than the USENIX Association. When registering for a conference, you also have the option not to have your name included on the attendee list. 
+Our site gives you the opportunity to opt out from receiving email communications or from having your name and address made available to anyone other than the USENIX Association. When registering for a conference, you also have the option not to have your name included on the attendee list.
 
 ### Change/Modify
 
-The USENIX site gives members the opportunity to change information previously provided, by using the [online form](https://db.usenix.org/cgi-bin/memb/memb.cgi?action=update), by phoning 510 528 8649, by faxing to 510 548 5738, or by sending email to [office@usenix.org](mailto:office@usenix.org). Note: Information is always updated whenever a new conference registration occurs and upon renewal of membership. 
+The USENIX site gives members the opportunity to change information previously provided, by [signing into their account](https://www.usenix.org/user), by phoning 510 528 8649, by faxing to 510 548 5738, or by sending email to [office@usenix.org](mailto:office@usenix.org). Note: Information is always updated whenever a new conference registration occurs and upon renewal of membership.
 
 ### Links
 
-This site contains links to other sites. The USENIX Association is not responsible for the privacy practices or the content of such Web sites. 
+This site contains links to other sites. The USENIX Association is not responsible for the privacy practices or the content of such Web sites.
 
 ### Contacting the Web Site
 
