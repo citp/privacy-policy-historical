@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the autoplugged.com privacy policy that was archived on 2012-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121213023921id_/http%3A//www.autoplugged.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the autoplugged.com privacy policy that was archived on 2013-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131017131926id_/http%3A//www.autoplugged.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Autoplugged
 
