@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hipvan.com privacy policy that was archived on 2013-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130606032832id_/http%3A//sg.hipvan.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hipvan.com privacy policy that was archived on 2013-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131017210854id_/http%3A//sg.hipvan.com/privacy) for the most accurate reproduction.*
 
 # HipVan | Design inspirations for everyday living.
 
@@ -48,9 +48,6 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 **Contacting us**
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at: 
-
-  
-
 
 This document was last updated on February 06, 2013 
 
