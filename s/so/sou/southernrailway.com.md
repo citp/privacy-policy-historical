@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the southernrailway.com privacy policy that was archived on 2013-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130515210821id_/http%3A//www.southernrailway.com/p/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the southernrailway.com privacy policy that was archived on 2013-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131017104130id_/http%3A//www.southernrailway.com/p/privacy) for the most accurate reproduction.*
 
 # Privacy policy : Southern
 
@@ -97,3 +97,5 @@ We automatically collect and store only the following information about your vis
 
 
 We use this information to help us identify click stream patterns, to improve our Website and to learn about the number of visitors to our Website and the types of technology our visitors use. We only use this information to ensure that our Webpages stay compatible with a selection of browsers and systems and thereby ensure that the pages appeal to a wide audience. We do not track or record information about individuals and their visits.
+
+For more information on online behavioural advertising in the UK, about cookies, and about how to opt-out of receiving targeted advertising, please visit [Your Online Choices.](http://www.youronlinechoices.com/ "Visit the Your Online Choices website")
