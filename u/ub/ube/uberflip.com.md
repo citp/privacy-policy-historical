@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the uberflip.com privacy policy that was archived on 2013-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130611004907id_/http%3A//www.uberflip.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uberflip.com privacy policy that was archived on 2013-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131017051320id_/http%3A//www.uberflip.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Uberflip
 
-###### Last Updated: March 7, 2012 (superseded Privacy Policy dated December 12, 2009)
+Last Updated: September 5, 2013 (superseded Privacy Policy dated March 7, 2012)
+
+Flyp Technologies Inc. d/b/a Uberflip ("Uberflip", "we") is committed to protecting your privacy. The following policy describes how we collect, store, use and distribute information via our website, www.uberflip.com (the "Website") and about Uberflip Service users.
 
 ## Our Privacy Policy explains:
 
@@ -12,43 +14,45 @@
 
 
 
-We've tried to keep it as simple as possible, but if you're not familiar with terms like cookies, IP addresses, pixel tags and browsers, we urge you to educate yourself on these terms. Your privacy matters to Uberflip so whether you are new to Uberflip or a long-time user, please do take the time to get to know our practices - and if you have any questions contact us. By using or accessing the Uberflip Service, you are accepting the practices described in this Privacy Policy.
+We've tried to keep it as simple as possible, but if you're not familiar with terms like cookies, IP addresses, pixel tags and browsers, we urge you to educate yourself on these terms. Your privacy matters to Uberflip so whether you are new to Uberflip or a long-time user, please do take the time to get to know our practices - and if you have any questions contact us. **By using or accessing the Uberflip Service, you are accepting the practices described in this Privacy Policy.**
 
 ## Information we collect
 
-We collect information to provide better services to all of our users - from figuring out basic stuff like which language you speak, to more complex things like which content you'll find most useful or how your readers engage in your content.  
-We collect information in two ways:
+We collect information to provide better services to all of our users - from figuring out basic stuff like which language you speak, to more complex things like which content you'll find most useful or how your readers engage in your content.
 
 ## Information you give us
 
-For example, many of our services require you to sign up for an Uberflip Account. When you do, we'll ask for personal information, like your name, email address, telephone number or credit card.  
-Information we get from your use of our services  
-We may collect information about the services that you use and how you use them, like when you visit an Uberflip Issue. This information includes:
+For example, many of our services require you to sign up for an Uberflip Account. When you do, we'll ask for personal information, like your name, email address, telephone number or credit card.
+
+## Information we get from your use of our Service
+
+We may collect information about the services that you use and how you use them, like when an Uberflip Customer's User Content ("User Content"). This information includes:
 
   * Device information - We may collect device-specific information (such as your hardware model, operating system version, unique device identifiers, and mobile network information including phone number). Uberflip may associate your device identifiers or phone number with your various Accounts.
-  * Log information - When you use our services or view content provided by Uberflip, we may automatically collect and store certain information in server logs. This may include:
+  * Log information - When you use our services or view content provided by Uberflip, we may automatically collect and store certain information in server logs. This may include: 
     * details of how you used our service, such as your search queries.
     * Internet protocol address.
     * device event information such as crashes, system activity, hardware settings, browser type, browser language, the date and time of your request and referral URL.
-    * cookies that may uniquely identify your browser or your Uberflip Account or Uberflip Issue.
+    * cookies that may uniquely identify your browser or your Uberflip Account or User Content.
   * Location information - When you use a location-enabled Uberflip service, we may collect and process information about your actual location, like GPS signals sent by a mobile device. We may also use various technologies to determine location, such as sensor data from your device that may, for example, provide information on nearby Wi-Fi access points and cell towers.
   * Unique application numbers - Certain services include a unique application number. This number and information about your installation (for example, the operating system type and application version number) may be sent to Uberflip when you install or uninstall that service or when that service periodically contacts our servers, such as for automatic updates.
   * Local storage - We may collect and store information (including personal information) locally on your device using mechanisms such as browser web storage (including HTML 5) and application data caches.
-  * Cookies and anonymous identifiers - We use various technologies to collect and store information when you visit an Uberflip Service, and this may include sending one or more cookies or anonymous identifiers to your device. We also use cookies and anonymous identifiers when you interact with services we offer to our partners, such as affiliate services that may appear on other sites.
 
 
+
+Cookies and anonymous identifiers - We use various technologies to collect and store information when you visit an Uberflip Service, and this may include sending one or more cookies or anonymous identifiers to your device. We also use cookies and anonymous identifiers when you interact with services we offer to our partners, such as affiliate services that may appear on other sites.  See further _Transparency and choice_ on your options relating to cookies.
 
 ## How we use information we collect
 
 We use the information we collect from all of our services to provide, maintain, protect and improve them, to develop new ones, and to protect Uberflip and our users. We also use this information to offer you tailored content within some of our Services.
 
-We may use the name you provide for your Uberflip profile across all of the services we offer that require an Uberflip Account. When you contact Uberflip, we may keep a record of your communication to help solve any issues you might be facing. We may use your email address to inform you about our services, such as letting you know about upcoming changes or improvements.
+We may use the name you provide for your Uberflip profile across all of the services we offer that require an Uberflip Account. When you contact Uberflip, we may keep a record of your communication to help solve any issues you might be facing. We may use your email address to inform you about our services, such as letting you know about upcoming changes or improvements unless you elect not to receive such communications or wish to unsubscribe from them at any time by providing us with written notification.
 
 We use information collected from cookies and other technologies, like pixel tags, to improve your user experience and the overall quality of our services. For example, by saving your language preferences, we'll be able to have our services appear in the language you prefer.
 
-We may combine personal information from one service with information, including personal information to make it easier to share things with people you know. We will ask for your consent before using information for a purpose other than those that are set out in this Privacy Policy.
+We may combine personal information from one service with information, including personal information to make it easier to share things with people you know. We will ask for your consent before using information for a purpose other than those that are set out in this Privacy Policy by revising this Privacy Policy and notifying you of the same.  Your continued use of the services after posted revisions to our Privacy Policy will constitute your consent to our revised data practices.
 
-Uberflip processes personal information on our servers in many countries around the world. We may process your personal information on a server located outside the country where you live.
+Uberflip processes personal information on our servers in many countries around the world. We may process your personal information on a server located outside the country where you live and accordingly may be subject to compulsion of foreign courts or government orders.
 
 ## Transparency and choice
 
@@ -56,11 +60,7 @@ People have different privacy concerns. Our goal is to be clear about what infor
 
 ## Information you share or access
 
-Many of our services let you share information with others. Remember that when you share information publicly, it may be indexed by search engines. Our services provide you with different options on sharing and removing your content.
-
-_Third-Party Content_ \- Uberflip is a digital publishing technology provider (and not a publisher) of Uberflip Issues or other content supplied by third parties. Accordingly, we have no editorial control over such content. Any opinions, advice, statements, services, offers or other information or content expressed or made available by third parties, including those made in Uberflip Issues offered by our web site, are those of the respective author(s) or publisher(s) and not of Uberflip. Neither Uberflip nor any third-party provider of information guarantees the accuracy, completeness or usefulness of any content. Under no circumstances will we be liable for any loss or damage caused by your reliance on information obtained through an Uberflip Issue. It is your own personal responsibility to evaluate the accuracy, completeness or usefulness of any information or content available through Uberflip. Uberflip may contain links to other Internet sites and third-party resources. Uberflip does not assume any responsibility or liability for any communications or materials available at such linked sites. Uberflip does not intend links in Uberflip Issues or on the Uberflip web site to be referrals or endorsements of the linked entities; they are provided for convenience only.
-
-_Intellectual Property_ \- The Uberflip website and Uberflip Issues contain copyrighted material, trademarks and other proprietary information including text, photos and graphics. Uberflip owns, or has right to use, intellectual property rights across the entire Uberflip Service, including the selection, coordination, arrangement and enhancement of the web site and the publications contained therein or delivered thereby, as well as in the content original to it. Each third-party content provider owns the copyright in content original to it including, without limitation, in the publications delivered or otherwise made available to you by Uberflip Service. You may not modify, publish, transmit, display, participate in the transfer or sale, create derivative works, or in any way exploit the content of the Uberflip web site, the Uberflip Issues, or any portion of them. Except as otherwise expressly permitted under copyright law, you may not copy, redistribute, publish, display or commercially exploit any material from the Uberflip web site or Uberflip Issues without the express permission of Uberflip and the copyright owner. In the event of any permitted copying, redistribution or publication of material from the Uberflip web site or Uberflip Issues, no changes in or deletion of author attribution, trademark, legend or copyright notice shall be made. Except as permitted by the Publication's lawful owner, you acknowledge that you do not acquire any ownership rights by reading, clipping or downloading copyrighted material. Except as permitted by Uberflip or the copyright owner, Uberflip Issues are for your personal use only and may not be modified, reverse engineered, redistributed, sold, publicly displayed, licensed, rented or otherwise provided to a third party or commercially exploited. We do not grant you any licenses, express or implied, to the intellectual property of Uberflip or our publishers except as expressly authorized by these terms. Uberflip has the right to remove any publications deemed to be inappropriate at our own discretion.
+Many of our services let you share information with others. Remember that when you share information publicly, it may be indexed by search engines and may remain on the Internet even if you delete the original posting. Accordingly you should exercise discretion in deciding what personal information or other content you share with others through use of our services.  Our services provide you with different options on sharing and removing your content.
 
 ## Accessing and updating your personal information
 
@@ -72,13 +72,13 @@ Where we can provide information access and correction, we will do so for free, 
 
 ## Information we share
 
-We use the information we collect to provide Uberflip Account holders with information on the engagement of those who access their Uberflip Issues. We do not provide individual personal audience information (outside of subscription data which is voluntarily provided by readers), but rather aggregated anonymous insight to how readers have consumed content. This may include the pages most read, time spent, zoom pattern, search terms and other engagement data. We provide these analytics through our own proprietary dashboards and through integrations with other third-party analytic platforms such as Google Analytics.
+We use the information we collect to provide Uberflip Account holders with information on the engagement of those who access User Content. We do not provide individual personal audience information (outside of subscription data which is voluntarily provided by readers), but rather aggregated anonymous insight to how readers have consumed content. This may include the pages most read, time spent, zoom pattern, search terms and other engagement data. We provide these analytics through our own proprietary dashboards and through integrations with other third-party analytic platforms such as Google Analytics.
 
 We do not share personal user information with companies, organizations and individuals outside of Uberflip unless one of the following circumstances apply:
 
   * With your consent - We will share personal information with companies, organizations or individuals outside of Uberflip when we have your consent to do so. We require opt-in consent for the sharing of any sensitive personal information.
   * For external processing - We provide personal information to our affiliates or other trusted businesses or persons to process it for us, based on our instructions and in compliance with our Privacy Policy and any other appropriate confidentiality and security measures.
-  * For legal reasons - We will share personal information with companies, organizations or individuals outside of Uberflip if we have a good-faith belief that access, use, preservation or disclosure of the information is reasonably necessary to:
+  * For legal reasons - We will share personal information with companies, organizations or individuals outside of Uberflip if we have a good-faith belief that access, use, preservation or disclosure of the information is reasonably necessary to: 
     * meet any applicable law, regulation, legal process or enforceable governmental request.
     * enforce applicable Terms of Service, including investigation of potential violations.
     * detect, prevent, or otherwise address fraud, security or technical issues.
