@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the macgamefiles.com privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603115627id_/http%3A//macgamefiles.com/policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the macgamefiles.com privacy policy that was archived on 2013-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131017075202id_/http%3A//www.macgamefiles.com/policy.php) for the most accurate reproduction.*
 
 # Macgamefiles.com: Privacy Policy
 
