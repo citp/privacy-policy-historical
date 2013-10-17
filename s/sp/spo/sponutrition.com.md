@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sponutrition.com privacy policy that was archived on 2013-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130607050211id_/http%3A//www.sponutrition.com/%3Fpage_id%3D2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sponutrition.com privacy policy that was archived on 2013-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131017023648id_/http%3A//www.sponutrition.com/%3Fpage_id%3D2) for the most accurate reproduction.*
 
-# Sponutrition.com » Privacy Policy
+# health » Privacy Policy
 
 ### About this Notice
 
