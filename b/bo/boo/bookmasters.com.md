@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bookmasters.com privacy policy that was archived on 2013-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130521053450id_/https%3A//www.bookmasters.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bookmasters.com privacy policy that was archived on 2013-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131017125959id_/http%3A//www.bookmasters.com/privacy.html) for the most accurate reproduction.*
 
 # Bookmasters - Privacy Policy
 
@@ -30,7 +30,7 @@ We may change this Privacy Policy from time to time. If this Privacy Policy chan
 
 ## How to Contact Us
 
-If you have any questions about Bookmasters’ Internet Privacy Policy, please [contact us](https://www.bookmasters.com/contact.html) at
+If you have any questions about Bookmasters’ Internet Privacy Policy, please [contact us](http://www.bookmasters.com/contact.html) at
 
 Privacy at Bookmasters  
 30 Amberwood Parkway  
