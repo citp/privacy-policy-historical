@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onlineseats.com privacy policy that was archived on 2013-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130405085003id_/http%3A//www.onlineseats.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlineseats.com privacy policy that was archived on 2013-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131017152656id_/http%3A//www.onlineseats.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
