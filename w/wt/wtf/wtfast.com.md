@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the wtfast.com privacy policy that was archived on 2013-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130424052954id_/http%3A//www.wtfast.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wtfast.com privacy policy that was archived on 2013-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131017120150id_/http%3A//www.wtfast.com/pages/privacy) for the most accurate reproduction.*
 
-# Privacy Policy Statement
+# 
+
+##  Privacy Policy Statement
 
 We collect the domain name and e-mail address (where possible) of visitors to our Web page, the e-mail addresses of those who communicate with us via e-mail, aggregate information on what pages consumers access or visit, user-specific information on what pages consumers access or visit, name and address and telephone number. Credit card information is not stored on our servers, this is processed by a 3rd party company (PayPal or Paymentech).
 
