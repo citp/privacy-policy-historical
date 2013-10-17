@@ -1,22 +1,21 @@
-> *The following text is extracted and transformed from the sneakerhead.com privacy policy that was archived on 2013-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130528123804id_/http%3A//www.sneakerhead.com/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sneakerhead.com privacy policy that was archived on 2013-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131018004454id_/http%3A//www.sneakerhead.com/policy.html) for the most accurate reproduction.*
 
-# 
+# Privacy Policy - Customer Service - Customer Service | Sneakerhead.com
 
 ## General
 
 Sneakerhead.com is committed to protecting user privacy. When you register for an account, you may be asked to supply personally identifying information, including your name, e-mail address, mailing address, and phone number. The information we collect from you may be used in one of the following ways:
 
-To improve our website: We continuously analyze and update our site to improve the Sneakerhead.com user experience based on internally developed information and user feedback provided by you.
+  1. To improve our website: We continuously analyze and update our site to improve the Sneakerhead.com user experience based on internally developed information and user feedback provided by you.
+  2. To improve customer service: We use information developed through our website and its users to help us improve customer service request responses and support inquiries.
+  3. To send periodic e-mail: We will only use the email address you provide for order processing and to send you information and updates pertaining to your order.
+  4. To administer a contest, promotion, survey or other site feature.
 
-To improve customer service: We use information developed through our website and its users to help us improve customer service request responses and support inquiries.
 
-To send periodic e-mail: We will only use the email address you provide for order processing and to send you information and updates pertaining to your order.
-
-To administer a contest, promotion, survey or other site feature.
 
 ## Cookies
 
-We employ cookies (small files transferred to your computer��s hard drive through your browser, if allowed) that enable us to recognize your browser for capturing and remembering certain information. Cookies help us remember and process items in your shopping bag and compile data about traffic and interaction on the site so we may create an improved user experience in the future. Any information collected by Sneakerhead.com via cookies is not linked to any customer's personal information collected by us.
+We employ cookies (small files transferred to your computer's hard drive through your browser, if allowed) that enable us to recognize your browser for capturing and remembering certain information. Cookies help us remember and process items in your shopping bag and compile data about traffic and interaction on the site so we may create an improved user experience in the future. Any information collected by Sneakerhead.com via cookies is not linked to any customer's personal information collected by us.
 
 ## Personal Information
 
