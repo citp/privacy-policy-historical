@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the mig33.com privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621005523id_/http%3A//www.mig33.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mig33.com privacy policy that was archived on 2013-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131017111007id_/http%3A//www.mig33.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | mig33
+# Privacy | mig33
 
 ## Introduction and Scope
 
-In this Privacy Policy, we (Project Goth, Inc., headquartered in Burlingame, California) describe how we use personally identifiable information about you that we collect through our website at [www.mig33.com](http://www.mig33.com/), through our mig33 software, through your use of our messaging and voice telephony services, and through our customer support, contact@mig33.com. This Privacy Policy does not apply to any other data, including, without limitation, data that we collect offline about our customers, data about our employees or data that others collect on websites that are linked to our website.
+In this Privacy Policy, we (Project Goth, Inc., headquartered in Palo Alto, California) describe how we use personally identifiable information about you that we collect through our website at [www.mig33.com](http://www.mig33.com/), through our mig33 software, through your use of our messaging and voice telephony services, and through our customer support, contact@mig33.com. This Privacy Policy does not apply to any other data, including, without limitation, data that we collect offline about our customers, data about our employees or data that others collect on websites that are linked to our website.
 
 ## About Children
 
@@ -27,11 +27,11 @@ mig33 displays targeted advertisements.
 
 Through the website, we receive data that you actively submit and data that we track passively.
 
- **Actively Submitted Data:** You actively send information to us if and when you sign up with us a user, register for our Merchant Program, respond to us or otherwise contact us. Depending on your choices, you may send us personally identifiable information such as your email address, name, mailing address, phone number, date of birth, gender, password, as well as credit card information.
+**Actively Submitted Data:** You actively send information to us if and when you sign up with us a user, register for our Merchant Program, respond to us or otherwise contact us. Depending on your choices, you may send us personally identifiable information such as your email address, name, mailing address, phone number, date of birth, gender, password, as well as credit card information.
 
- **Passively Tracked Data:** When you visit the website, we also track information about how our website is used by you through "cookie" technology. Cookies are pieces of information that a web site transfers to your computer's hard disk for record-keeping purposes. Cookies save your passwords, purchases, and preferences while you are using our website. The use of cookies is common on major websites and most web browsers are set to accept cookies. You may set your browser to refuse cookies but this may mean that you will not be able to take full advantage of the features available on our website. We also collect information regarding your use of our service, including calling records and records of messages sent and received.
+**Passively Tracked Data:** When you visit the website, we also track information about how our website is used by you through "cookie" technology. Cookies are pieces of information that a web site transfers to your computer's hard disk for record-keeping purposes. Cookies save your passwords, purchases, and preferences while you are using our website. The use of cookies is common on major websites and most web browsers are set to accept cookies. You may set your browser to refuse cookies but this may mean that you will not be able to take full advantage of the features available on our website. We also collect information regarding your use of our service, including calling records and records of messages sent and received.
 
- **Combinations:** Unless you also actively submit personal information such as your name or address, passively tracked data does not typically allow us to identify you personally (even though it can theoretically be done, we do not have the means or an interest to find out who you are unless you identify yourself voluntarily through an active submission of data). However, to the extent permitted by applicable law, we reserve the right to combine passively tracked data with personal data that you actively submit.
+**Combinations:** Unless you also actively submit personal information such as your name or address, passively tracked data does not typically allow us to identify you personally (even though it can theoretically be done, we do not have the means or an interest to find out who you are unless you identify yourself voluntarily through an active submission of data). However, to the extent permitted by applicable law, we reserve the right to combine passively tracked data with personal data that you actively submit.
 
 ## Purposes of Data Collection
 
@@ -63,7 +63,7 @@ If you would like to know what personal information we hold about you or if you 
 
 ## Opt-Out, Communication Preferences
 
-You may modify your communication preferences and/or opt-out from specific communications at any time. Please specify and adjust your preferences by emailing us at [support@mig33.com](mailto:support@mig33.com).
+You may modify your communication preferences and/or opt-out from specific communications at any time. Please specify and adjust your preferences by emailing us at [contact@mig33.com](mailto:contact@mig33.com).
 
 ## Changes to This Privacy Policy
 
@@ -75,6 +75,4 @@ Note also that your use of our website is subject to our [Terms of Use](https:/
 
 ## Contact Us
 
-Please feel free to contact us with any comments, questions, complaints or suggestions you might have regarding the information practices described in this privacy policy. You may send us an e-mail at [contact@mig33.com](mailto:contact@mig33.com) or write to us at Contact Us, 270 East Lane, Suite 2, Burlingame, CA 94010.
-
-[Click here](https://web.archive.org/faq) to go back to the main FAQ page
+Please feel free to contact us with any comments, questions, complaints or suggestions you might have regarding the information practices described in this privacy policy. You may send us an e-mail at [contact@mig33.com](mailto:contact@mig33.com) or write to us at 3150 Porter Drive, Palo Alto, CA 94304, USA.
