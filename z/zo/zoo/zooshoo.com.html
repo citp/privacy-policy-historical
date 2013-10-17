@@ -1,8 +1,8 @@
-<!--The following is the downloaded HTML source of the zooshoo.com privacy policy that was archived on 2013-05-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130518192605id_/http%3A//www.zooshoo.com/terms_privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the zooshoo.com privacy policy that was archived on 2013-10-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131017213541id_/http%3A//www.zooshoo.com/terms_privacy.asp) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://ogp.me/ns/fb#"><head>
-<script src="https://dnn506yrbagrg.cloudfront.net/pages/scripts/0014/3248.js?439005" async="" type="text/javascript"></script><script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script id="facebook-jssdk" async="" src="//connect.facebook.net/en_US/all.js"></script><script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script type="text/javascript" async="" src="https://cdn.livechatinc.com/tracking.js"></script><script async="" src="//connect.facebook.net/en_US/fp.js"></script><script type="text/javascript" async="" src="https://www.googlecommerce.com/trustedstores/gtmp_compiled.js"></script><script type="text/javascript" src="/a/j/milonic/milonic_src.js"></script>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html lang="en" xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://ogp.me/ns/fb#"><head>
+<script src="https://dnn506yrbagrg.cloudfront.net/pages/scripts/0014/3248.js?439005" async="" type="text/javascript"></script><script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script id="facebook-jssdk" async="" src="//connect.facebook.net/en_US/all.js"></script><script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script type="text/javascript" async="" src="https://d3rmnwi2tssrfx.cloudfront.net/a.js"></script><script type="text/javascript" async="" src="https://cdn.livechatinc.com/tracking.js"></script><script async="" src="//connect.facebook.net/en_US/fp.js"></script><script type="text/javascript" async="" src="https://www.googlecommerce.com/trustedstores/gtmp_compiled.js"></script><script type="text/javascript" src="/a/j/milonic/milonic_src.js"></script>
 <script type="text/javascript">
 if(ns4)_d.write("<scr"+"ipt src=/a/j/milonic/mmenuns4.js><\/scr"+"ipt>"); 
   else _d.write("<scr"+"ipt src=/a/j/milonic/mmenudom.js><\/scr"+"ipt>"); 
@@ -26,6 +26,7 @@ var Config_CDN_URL = '/'
 <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
 <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jqueryui/1.8.4/jquery-ui.min.js"></script>
 <link type="text/css" href="//ajax.googleapis.com/ajax/libs/jqueryui/1.8.4/themes/base/jquery-ui.css" rel="stylesheet">
+<link type="text/css" href="/a/c/default.css" rel="stylesheet">
 
 
 <script type="text/javascript">
@@ -41,7 +42,30 @@ var Config_CDN_URL = '/'
     var PageText_843 = "Subtotal";
     var PageText_844 = "items in cart";
 </script>
+<script type="text/javascript" src="/a/j/volusion.js?currentBuild"></script>
+<script type="text/javascript">
+    (function ($) {
+        volusion.ready(function () {
+            if (volusion.cart.isObservingCount()) {
+                var ts = new Date().getTime();
 
+                $.getJSON('/ajaxcart.asp?cachebust=' + ts, function (data) {
+                    var quantityTotal = 0;
+                    $.each(data.Products, function (key, val) {
+                        if (val.IsProduct === 'Y') {
+                            quantityTotal += parseInt(val.Quantity);
+                        } else if (val.IsAccessory === 'Y') {
+                            quantityTotal += parseInt(val.Quantity);
+                        }
+                    });
+                    quantityTotal = quantityTotal || '0';
+                    volusion.cart.itemCount(quantityTotal);
+                });
+
+            }
+        });
+    } (jQuery));
+</script>
 
 
 <script type="text/javascript" src="/a/j/soft_add.js"></script>
@@ -90,21 +114,85 @@ var Config_CDN_URL = '/'
 
 
 
+<!--[if lt IE 8]>
+<link rel="stylesheet" type="text/css" href="http://image.zooshoo.com/targetingDumbIEVersions.css" />
+<![endif]-->
+
+<!--[if lte IE 7]>
+<link rel="stylesheet" type="text/css" href="http://image.zooshoo.com/targetingDumbIEVersions.css" />
+<![endif]-->
+
+<meta name="p:domain_verify" content="80b0a592dcaee9e110850156830ba3c1">
 <meta name="msvalidate.01" content="0EB3577732F0D80A7B3E82E87685E645">
 <style type="text/css">
  #v65-checkout-form-table {position:relative;top:7px;}
 </style>
 
+<script type="text/javascript">
+<!--
 
+if(document.URL.indexOf("product_p") >= 0)
+{
+      document.write('<link rel="stylesheet" type="text/css" href="">')
+}
+
+//<br />
+//-->
+</script>
 
 <!-- Begin MailChimp Signup Form -->
-<link href="http://cdn-images.mailchimp.com/embedcode/classic-081711.css" rel="stylesheet" type="text/css">
-
 <style type="text/css">
+
+/* MailChimp Form Embed Code - Classic - 08/17/2011 */
+#mc_embed_signup form {display:block; position:relative; text-align:left; padding:10px 0 10px 3%}
+#mc_embed_signup h2 {font-weight:bold; padding:0; margin:15px 0; font-size:1.4em;}
+#mc_embed_signup input {border:1px solid #999; -webkit-appearance:none;}
+#mc_embed_signup input[type=checkbox]{-webkit-appearance:checkbox;}
+#mc_embed_signup input[type=radio]{-webkit-appearance:radio;}
+#mc_embed_signup input:focus {border-color:#333;}
+#mc_embed_signup .button {clear:both; background-color: #aaa; border: 0 none; border-radius:4px; color: #FFFFFF; cursor: pointer; display: inline-block; font-size:15px; font-weight: bold; height: 32px; line-height: 32px; margin: 0 5px 10px 0; padding: 0 22px; text-align: center; text-decoration: none; vertical-align: top; white-space: nowrap; width: auto;}
+#mc_embed_signup .button:hover {background-color:#777;}
+#mc_embed_signup .small-meta {font-size: 11px;}
+#mc_embed_signup .nowrap {white-space:nowrap;}
+
+#mc_embed_signup .mc-field-group {clear:left; position:relative; width:96%; padding-bottom:3%; min-height:50px;}
+#mc_embed_signup .size1of2 {clear:none; float:left; display:inline-block; width:46%; margin-right:4%;}
+* html #mc_embed_signup .size1of2 {margin-right:2%; /* Fix for IE6 double margins. */}
+#mc_embed_signup .mc-field-group label {display:block; margin-bottom:3px;}
+#mc_embed_signup .mc-field-group input {display:block; width:100%; padding:8px 0; text-indent:2%;}
+#mc_embed_signup .mc-field-group select {display:inline-block; width:99%; padding:5px 0; margin-bottom:2px;}
+
+#mc_embed_signup .datefield, #mc_embed_signup .phonefield-us{padding:5px 0;}
+#mc_embed_signup .datefield input, #mc_embed_signup .phonefield-us input{display:inline; width:60px; margin:0 2px; letter-spacing:1px; text-align:center; padding:5px 0 2px 0;}
+#mc_embed_signup .phonefield-us .phonearea input, #mc_embed_signup .phonefield-us .phonedetail1 input{width:40px;}
+#mc_embed_signup .datefield .monthfield input, #mc_embed_signup .datefield .dayfield input{width:30px;}
+#mc_embed_signup .datefield label, #mc_embed_signup .phonefield-us label{display:none;}
+
+#mc_embed_signup .indicates-required {text-align:right; font-size:11px; margin-right:4%;}
+#mc_embed_signup .asterisk {color:#c60; font-size:200%;}
+#mc_embed_signup .mc-field-group .asterisk {position:absolute; top:25px; right:10px;}        
+#mc_embed_signup .clear {clear:both;}
+
+#mc_embed_signup .mc-field-group.input-group ul {margin:0; padding:5px 0; list-style:none;}
+#mc_embed_signup .mc-field-group.input-group ul li {display:block; padding:3px 0; margin:0;}
+#mc_embed_signup .mc-field-group.input-group label {display:inline;}
+#mc_embed_signup .mc-field-group.input-group input {display:inline; width:auto; border:none;}
+
+#mc_embed_signup div#mce-responses {float:left; top:-1.4em; padding:0em .5em 0em .5em; overflow:hidden; width:90%;margin: 0 5%; clear: both;}
+#mc_embed_signup div.response {margin:1em 0; padding:1em .5em .5em 0; font-weight:bold; float:left; top:-1.5em; z-index:1; width:80%;}
+#mc_embed_signup #mce-error-response {display:none;}
+#mc_embed_signup #mce-success-response {color:#529214; display:none;}
+#mc_embed_signup label.error {display:block; float:none; width:auto; margin-left:1.05em; text-align:left; padding:.5em 0;}
+
+#mc-embedded-subscribe {clear:both; width:auto; display:block; margin:1em 0 1em 5%;}
+#mc_embed_signup #num-subscribers {font-size:1.1em;}
+#mc_embed_signup #num-subscribers span {padding:.5em; border:1px solid #ccc; margin-right:.5em; font-weight:bold;}
+
+
 #mc_embed_signup{position:absolute; top:0%; left:0%; width:100%; height:100%;background:rgba(0,0,0,.8); display:none;z-index:10000;}
 #mc_embed_signup form{position:fixed; top:30%; left:60%; width:390px; margin-left:-25%; font:normal 100% Helvetica,Arial,sans-serif; font-size:14px; border-radius:4px; border:none; padding:0px 5px; background-color:#fff; color:#000; text-align:left;max-height:400px;overflow-y:auto;overflow-x:hidden;}
-#mc_embed_signup a.mc_embed_close{background: url(http://image.zooshoo.com/images/close2.png) no-repeat; background-position-x: 10px;background-position-y: -25px; display:none; height:100px; width:130px; text-indent:-999em; position:absolute; top:5px; right:-63px; display:none; }
-#mc-embedded-subscribe {background: url(http://image.zooshoo.com/images/button.png) no-repeat;}
+#mc_embed_signup a.mc_embed_close{background: url(//www.zooshoo.com/v/vspfiles/images/close2.png) no-repeat; background-position-x: 10px;background-position-y: -25px; display:none; height:100px; width:130px; text-indent:-999em; position:absolute; top:5px; right:-63px; display:none; }
+#mc-embedded-subscribe {background: url(//www.zooshoo.com/v/vspfiles/images/button.png) no-repeat;}
 #mc-embedded-subscribe .button{background-color: #FFFFFF;}
 #mc_embed_signup .button:hover {background-color:#FFFFFF;}
 #mc_embed_signup .button {color: rgba(255, 255, 255, 0);background-color:#FFFFFF; font-size:21px;position:relative;right:7px;}
@@ -113,9 +201,9 @@ var Config_CDN_URL = '/'
 #eList #mc-embedded-subscribe-form .button{background:none;background-color:#2E7ED5;}
 </style>
 
-<script type="text/javascript" async="" src="https://upfront.thefind.com/scripts/main/utils-init-ajaxlib/upfront-badgeinit.js">thefind.upfront.init('tf_upfront_badge', '5b4d7a7bc667d166c902c68b4d7d8e7c')</script><script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head><body><div id="mc_embed_signup">
+<script type="text/javascript" async="" src="https://upfront.thefind.com/scripts/main/utils-init-ajaxlib/upfront-badgeinit.js">thefind.upfront.init('tf_upfront_badge', '5b4d7a7bc667d166c902c68b4d7d8e7c')</script><script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script><script type="text/javascript" src="https://www.upsellit.com/launch/zooshoo.jsp"></script></head><body><div id="mc_embed_signup">
 <form action="http://zooshoo.us5.list-manage.com/subscribe/post?u=aa4f5782fa1d074ddafded8b9&amp;id=ec416ce50c" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate="">
-<h2><img style="position:relative;bottom:15px;right:5px;" src="http://image.zooshoo.com/images/jointop.png"></h2>
+<h2><img style="position:relative;bottom:15px;right:5px;" src="//www.zooshoo.com/v/vspfiles/images/jointop.png"></h2>
 <div class="mc-field-group">
 	<label for="mce-EMAIL">Email Address</label>
 	<input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL">
@@ -160,7 +248,7 @@ if (!jqueryLoaded) {
 }
 var script = document.createElement('script');
 script.type = 'text/javascript';
-script.src = 'http://downloads.mailchimp.com/js/jquery.form-n-validate.js';
+script.src = '/v/vspfiles/images/jquery.form-n-validate.js';
 head.appendChild(script);
 var err_style = '';
 try{
@@ -392,7 +480,6 @@ DO NOT ADD YOUR OWN META TAGS, ONLY PUT CSS/JAVSCRIPT INCLUDES IN YOUR HEAD TAG 
 <!--[if IE]>
         <link rel="stylesheet" type="text/css" href="//dsvjail1ccxgo.cloudfront.net/v/css/ie.css" />
 <![endif]-->
-<script type="text/javascript" src="//dsvjail1ccxgo.cloudfront.net/vzoom5.js"></script>
          <script type="text/javascript">
             var addthis_config = {
                 data_track_clickback: true
@@ -415,7 +502,7 @@ jQuery(function(){
  }
  jQuery('#btn_vsharethis').after('<a href="http://pinterest.com/pin/create/button/?description=' + pin_desc + ' - ' + encodeURIComponent(jQuery('.colors_pricebox').find('.price1:last').text()) + '&url=' +pin_href + '&media=' +pin_image+ '" class="pin-it-button" count-layout="horizontal">Pin It</a>');
  jQuery('#v65-share-buttons-cell').closest('table').css('width','350px');
- jQuery.getScript('//image.zooshoo.com/volusion/js/pinit.js');
+ jQuery.getScript('//zooshoo.com/v/vspfiles/images/pinit.js');
  }
  jQuery('.vCSS_img_alternate_product_photo').click(function(){
   if (jQuery('iframe[src*="/pinit.html?"]', parent.document).length){ 
@@ -481,6 +568,22 @@ jQuery(function(){
 //-->
 </script>
 
+<script type="text/javascript">
+ var _springMetq = _springMetq || [];
+ _springMetq.push(['id', 'd56375a264']);
+ (
+  function(){
+   var s = document.createElement('script');
+   s.type = 'text/javascript';
+   s.async = true;
+   s.src = ('https:' == document.location.protocol ? 'https://d3rmnwi2tssrfx.cloudfront.net/a.js' : 'http://static.springmetrics.com/a.js');
+   var x = document.getElementsByTagName('script')[0];
+   x.parentNode.insertBefore(s, x);
+  }
+ )();
+</script>
+
+
 <script src="https://s3.amazonaws.com/192/js/jquery.easing.1.3.js" type="text/javascript" async="async"></script>
 <script type="text/javascript">
 <!--
@@ -538,7 +641,7 @@ function popup(url)
 <!-- #################### FREE TEMPLATE INFO VLIGHT WHITE-JM-DWC-062011 #################### -->
 
 
-<img onclick="window.open('https://curebit.com/x/8to6E','ZooShoo Refer!','width=600,height=400')" style="display:none;position:fixed;right:0;top:145px;" id="sidebar" src="http://image.zooshoo.com/volusion/images/REFER.png">
+<img onclick="window.open('https://curebit.com/x/8to6E','ZooShoo Refer!','width=600,height=400')" style="display:none;position:fixed;right:0;top:145px;" id="sidebar" src="//www.zooshoo.com/v/vspfiles/images/REFER.png">
 
 
 
@@ -579,14 +682,20 @@ function popup(url)
 </script>
 
 <!-- #################### HEADER #################### -->
+
+
+
 <div id="headerwrap">
+
 	<div id="freeshipping">
-            <h4><img style="position:absolute;left:-34px;bottom:-13px;height:30px;width:224px;z-index:100;" src="http://image.zooshoo.com/alwaysFreeShipping.jpg"></h4>
+            <h4><img id="freeShippingImage" style="position:absolute;left:-34px;bottom:-13px;height:30px;width:224px;z-index:1000000;" src="/v/vspfiles/images/alwaysFreeShipping.jpg"></h4>
 			
     </div>
-    <div id="header">
+    <div id="header" class="masHeader">
             <a href="http://www.zooshoo.com/"><img src="//dsvjail1ccxgo.cloudfront.net/v/logo.png"></a>
     </div>
+
+
 </div>
 <div id="headerinfo">
     <div id="headeritems">
@@ -759,41 +868,54 @@ $mainNav5.append("<li id='magic-line'></li>");
           </li>
         </ul>
       </li>
-      <li><a class="lookbook" href="http://www.zooshoo.com/Articles.asp?ID=278" style="font-size: 16px;font-family: 'Oswald',Arial;">Lookbook</a>
+      <li><a class="lookbook" href="http://www.zooshoo.com/Articles.asp?ID=288" style="font-size: 16px;font-family: 'Oswald',Arial;">Lookbook</a>
       <ul id="subNav">
 <li>
             <div class="one">
-              <h3 class="prd-name"><a class="subby" href="http://www.zooshoo.com/Articles.asp?ID=278">MAY 2013</a></h3>
+              <h3 class="prd-name"><a class="subby" href="http://www.zooshoo.com/Articles.asp?ID=288">October 2013</a></h3>
+            </div>
+          </li>
+
+<li>
+            <div class="one">
+              <h3 class="prd-name"><a class="subby" href="http://www.zooshoo.com/Articles.asp?ID=285">September 2013</a></h3>
+            </div>
+          </li>
+
+<li>
+            <div class="one">
+              <h3 class="prd-name"><a class="subby" href="http://www.zooshoo.com/Articles.asp?ID=284">August 2013</a></h3>
+            </div>
+          </li>
+
+<li>
+            <div class="one">
+              <h3 class="prd-name"><a class="subby" href="http://www.zooshoo.com/Articles.asp?ID=281">July 2013</a></h3>
             </div>
           </li>
 <li>
             <div class="one">
-              <h3 class="prd-name"><a class="subby" href="http://www.zooshoo.com/Articles.asp?ID=277">APRIL 2013</a></h3>
+              <h3 class="prd-name"><a class="subby" href="http://www.zooshoo.com/Articles.asp?ID=279">June 2013</a></h3>
             </div>
           </li>
 <li>
             <div class="one">
-              <h3 class="prd-name"><a class="subby" href="http://www.zooshoo.com/Articles.asp?ID=260">MARCH 2013</a></h3>
+              <h3 class="prd-name"><a class="subby" href="http://www.zooshoo.com/Articles.asp?ID=278">May 2013</a></h3>
             </div>
           </li>
 <li>
             <div class="one">
-              <h3 class="prd-name"><a class="subby" href="http://www.zooshoo.com/Articles.asp?ID=272">FEBRUARY 2013</a></h3>
+              <h3 class="prd-name"><a class="subby" href="http://www.zooshoo.com/Articles.asp?ID=277">April 2013</a></h3>
+            </div>
+          </li>
+<li>
+            <div class="one">
+              <h3 class="prd-name"><a class="subby" href="http://www.zooshoo.com/Articles.asp?ID=260">March 2013</a></h3>
             </div>
           </li>
  <li>
             <div class="one">
-              <h3 class="prd-name"><a class="subby" href="http://www.zooshoo.com/Articles.asp?ID=275">JANUARY 2012</a></h3>
-            </div>
-          </li>
-          <li>
-            <div class="one">
-              <h3 class="prd-name"><a class="subby" href="http://www.zooshoo.com/Articles.asp?ID=274">DECEMBER 2012</a></h3>
-            </div>
-          </li>
-          <li>
-            <div class="one">
-              <h3 class="prd-name"><a class="subby" href="http://www.zooshoo.com/Articles.asp?ID=273">NOVEMBER 2012</a></h3>
+              <h3 class="prd-name"><a class="subby" href="http://www.zooshoo.com/Articles.asp?ID=272">February 2012</a></h3>
             </div>
           </li>
          <!-- <li>
@@ -960,18 +1082,15 @@ function mSubClk2(src, popup)
             <li><a href="http://www.zooshoo.com/category_s/2057.htm">Bamboo</a></li>
 	    <li><a href="http://www.zooshoo.com/category_s/4516.htm">BC Footwear</a></li>
             <li><a href="http://www.zooshoo.com/category_s/2725.htm">Betsey Johnson</a></li>
-	    <li><a href="http://www.zooshoo.com/category_s/4514.htm">Beyond</a></li>
-            <li><a href="http://www.zooshoo.com/category_s/4480.htm">Big Buddha</a></li>
             <li><a href="http://www.zooshoo.com/category_s/4490.htm">Breckelle's</a></li>
 	    <li><a href="http://www.zooshoo.com/category_s/4517.htm">Bronx / Diba</a></li>
             <li><a href="http://www.zooshoo.com/category_s/2058.htm">Bumper</a></li>
             <li><a href="http://www.zooshoo.com/category_s/2059.htm">Chinese Laundry</a></li>
             <li><a href="http://www.zooshoo.com/category_s/2060.htm">Classified</a></li>
-            <li><a href="http://www.zooshoo.com/category_s/2061.htm">Codify</a></li>
             <li><a href="http://www.zooshoo.com/category_s/2062.htm">Delicious</a></li>
+            <li><a href="http://www.zooshoo.com/category_s/4542.htm">Delura</a></li>
             <li><a href="http://www.zooshoo.com/category_s/2689.htm">Dolce Vita</a></li>
             <li><a href="http://www.zooshoo.com/category_s/4479.htm">Dollhouse</a></li>
-	    <li><a href="http://www.zooshoo.com/category_s/4479.htm">Fahrenheit</a></li>
             <li><a href="http://www.zooshoo.com/category_s/4496.htm">Glaze</a></li>
             <li><a href="http://www.zooshoo.com/category_s/2063.htm">Madden Girl</a></li>
 	    <li><a href="http://www.zooshoo.com/category_s/4498.htm">Nature Breeze</a></li>
@@ -983,12 +1102,9 @@ function mSubClk2(src, popup)
             <li><a href="http://www.zooshoo.com/category_s/2071.htm">Red Kiss</a></li>
             <li><a href="http://www.zooshoo.com/category_s/2066.htm">Sam Edelman</a></li>
 	    <li><a href="http://www.zooshoo.com/category_s/4515.htm">Seychelle's</a></li>
-            <li><a href="http://www.zooshoo.com/category_s/4497.htm">Shully's</a></li>
-            <li><a href="http://www.zooshoo.com/category_s/2067.htm">Society86</a></li>
             <li><a href="http://www.zooshoo.com/category_s/2068.htm">Soda</a></li>
             <li><a href="http://www.zooshoo.com/category_s/2070.htm">Speed Limit 98</a></li>
             <li><a href="http://www.zooshoo.com/category_s/2069.htm">Steve Madden</a></li>
-            <li><a href="http://www.zooshoo.com/category_s/2761.htm">Sunny Feet</a></li>
             <li><a href="http://www.zooshoo.com/category_s/4521.htm">Superga</a></li>
 	    <li><a href="http://www.zooshoo.com/category_s/4499.htm">Vintage</a></li>
             <li><a href="http://www.zooshoo.com/category_s/2072.htm">Wild Rose</a></li>
@@ -1034,18 +1150,15 @@ function mSubClk2(src, popup)
             <li><a href="http://www.zooshoo.com/category_s/2057.htm">Bamboo</a></li>
 	    <li><a href="http://www.zooshoo.com/category_s/4516.htm">BC Footwear</a></li>
             <li><a href="http://www.zooshoo.com/category_s/2725.htm">Betsey Johnson</a></li>
-	    <li><a href="http://www.zooshoo.com/category_s/4514.htm">Beyond</a></li>
-            <li><a href="http://www.zooshoo.com/category_s/4480.htm">Big Buddha</a></li>
             <li><a href="http://www.zooshoo.com/category_s/4490.htm">Breckelle's</a></li>
 	    <li><a href="http://www.zooshoo.com/category_s/4517.htm">Bronx / Diba</a></li>
             <li><a href="http://www.zooshoo.com/category_s/2058.htm">Bumper</a></li>
             <li><a href="http://www.zooshoo.com/category_s/2059.htm">Chinese Laundry</a></li>
             <li><a href="http://www.zooshoo.com/category_s/2060.htm">Classified</a></li>
-            <li><a href="http://www.zooshoo.com/category_s/2061.htm">Codify</a></li>
             <li><a href="http://www.zooshoo.com/category_s/2062.htm">Delicious</a></li>
+            <li><a href="http://www.zooshoo.com/category_s/4542.htm">Delura</a></li>
             <li><a href="http://www.zooshoo.com/category_s/2689.htm">Dolce Vita</a></li>
             <li><a href="http://www.zooshoo.com/category_s/4479.htm">Dollhouse</a></li>
-	    <li><a href="http://www.zooshoo.com/category_s/4479.htm">Fahrenheit</a></li>
             <li><a href="http://www.zooshoo.com/category_s/4496.htm">Glaze</a></li>
             <li><a href="http://www.zooshoo.com/category_s/2063.htm">Madden Girl</a></li>
 	    <li><a href="http://www.zooshoo.com/category_s/4498.htm">Nature Breeze</a></li>
@@ -1057,12 +1170,9 @@ function mSubClk2(src, popup)
             <li><a href="http://www.zooshoo.com/category_s/2071.htm">Red Kiss</a></li>
             <li><a href="http://www.zooshoo.com/category_s/2066.htm">Sam Edelman</a></li>
 	    <li><a href="http://www.zooshoo.com/category_s/4515.htm">Seychelle's</a></li>
-            <li><a href="http://www.zooshoo.com/category_s/4497.htm">Shully's</a></li>
-            <li><a href="http://www.zooshoo.com/category_s/2067.htm">Society86</a></li>
             <li><a href="http://www.zooshoo.com/category_s/2068.htm">Soda</a></li>
             <li><a href="http://www.zooshoo.com/category_s/2070.htm">Speed Limit 98</a></li>
             <li><a href="http://www.zooshoo.com/category_s/2069.htm">Steve Madden</a></li>
-            <li><a href="http://www.zooshoo.com/category_s/2761.htm">Sunny Feet</a></li>
             <li><a href="http://www.zooshoo.com/category_s/4521.htm">Superga</a></li>
 	    <li><a href="http://www.zooshoo.com/category_s/4499.htm">Vintage</a></li>
             <li><a href="http://www.zooshoo.com/category_s/2072.htm">Wild Rose</a></li>
@@ -1103,12 +1213,6 @@ function mSubClk6(src, popup)
 <img src="/v/vspfiles/templates/192/images/Template/Menu6_Bullet.gif" alt="" align="absmiddle" /> <a href="http://www.zooshoo.com/Vintage_Shoes_s/4516.htm" title="Vintage Shoes">BC Footwear</a>
 </td></tr>
 <tr><td class="nav"	onmouseover="mOvr6(this);" onmouseout="mOut6(this);" onclick="mClk6(this);">
-<img src="/v/vspfiles/templates/192/images/Template/Menu6_Bullet.gif" alt="" align="absmiddle" /> <a href="http://www.zooshoo.com/category_s/4514.htm" title="">Beyond</a>
-</td></tr>
-<tr><td class="nav"	onmouseover="mOvr6(this);" onmouseout="mOut6(this);" onclick="mClk6(this);">
-<img src="/v/vspfiles/templates/192/images/Template/Menu6_Bullet.gif" alt="" align="absmiddle" /> <a href="http://www.zooshoo.com/Big_Buddha_Shoes_s/4480.htm" title="Big Buddha Shoes">Big Buddha</a>
-</td></tr>
-<tr><td class="nav"	onmouseover="mOvr6(this);" onmouseout="mOut6(this);" onclick="mClk6(this);">
 <img src="/v/vspfiles/templates/192/images/Template/Menu6_Bullet.gif" alt="" align="absmiddle" /> <a href="http://www.zooshoo.com/Breckelle_s_Shoes_s/4490.htm" title="Breckelle's Shoes">Breckelle's</a>
 </td></tr>
 <tr><td class="nav"	onmouseover="mOvr6(this);" onmouseout="mOut6(this);" onclick="mClk6(this);">
@@ -1124,16 +1228,13 @@ function mSubClk6(src, popup)
 <img src="/v/vspfiles/templates/192/images/Template/Menu6_Bullet.gif" alt="" align="absmiddle" /> <a href="http://www.zooshoo.com/Classified_Shoes_s/2060.htm" title="Classified Shoes">Classified</a>
 </td></tr>
 <tr><td class="nav"	onmouseover="mOvr6(this);" onmouseout="mOut6(this);" onclick="mClk6(this);">
-<img src="/v/vspfiles/templates/192/images/Template/Menu6_Bullet.gif" alt="" align="absmiddle" /> <a href="http://www.zooshoo.com/Codify_Shoes_s/2061.htm" title="Codify Shoes">Codify</a>
-</td></tr>
-<tr><td class="nav"	onmouseover="mOvr6(this);" onmouseout="mOut6(this);" onclick="mClk6(this);">
 <img src="/v/vspfiles/templates/192/images/Template/Menu6_Bullet.gif" alt="" align="absmiddle" /> <a href="http://www.zooshoo.com/Delicious_Shoes_s/2062.htm" title="Delicious Shoes">Delicious</a>
 </td></tr>
 <tr><td class="nav"	onmouseover="mOvr6(this);" onmouseout="mOut6(this);" onclick="mClk6(this);">
-<img src="/v/vspfiles/templates/192/images/Template/Menu6_Bullet.gif" alt="" align="absmiddle" /> <a href="http://www.zooshoo.com/Dollhouse_Shoes_s/4479.htm" title="Dollhouse Shoes">Dollhouse</a>
+<img src="/v/vspfiles/templates/192/images/Template/Menu6_Bullet.gif" alt="" align="absmiddle" /> <a href="http://www.zooshoo.com/Delura_Shoe_s/4542.htm" title="Delura Shoe">Delura</a>
 </td></tr>
 <tr><td class="nav"	onmouseover="mOvr6(this);" onmouseout="mOut6(this);" onclick="mClk6(this);">
-<img src="/v/vspfiles/templates/192/images/Template/Menu6_Bullet.gif" alt="" align="absmiddle" /> <a href="http://www.zooshoo.com/Fahrenheit_Shoes_s/4518.htm" title="Fahrenheit Shoes">Fahrenheit</a>
+<img src="/v/vspfiles/templates/192/images/Template/Menu6_Bullet.gif" alt="" align="absmiddle" /> <a href="http://www.zooshoo.com/Dollhouse_Shoes_s/4479.htm" title="Dollhouse Shoes">Dollhouse</a>
 </td></tr>
 <tr><td class="nav"	onmouseover="mOvr6(this);" onmouseout="mOut6(this);" onclick="mClk6(this);">
 <img src="/v/vspfiles/templates/192/images/Template/Menu6_Bullet.gif" alt="" align="absmiddle" /> <a href="http://www.zooshoo.com/Glaze_Shoes_s/4496.htm" title="Glaze Shoes">Glaze</a>
@@ -1166,9 +1267,6 @@ function mSubClk6(src, popup)
 <img src="/v/vspfiles/templates/192/images/Template/Menu6_Bullet.gif" alt="" align="absmiddle" /> <a href="http://www.zooshoo.com/Seychelle_s_Shoes_s/4515.htm" title="Seychelle's Shoes">Seychelle's</a>
 </td></tr>
 <tr><td class="nav"	onmouseover="mOvr6(this);" onmouseout="mOut6(this);" onclick="mClk6(this);">
-<img src="/v/vspfiles/templates/192/images/Template/Menu6_Bullet.gif" alt="" align="absmiddle" /> <a href="http://www.zooshoo.com/Society86_Shoes_s/2067.htm" title="Society86 Shoes">Society86</a>
-</td></tr>
-<tr><td class="nav"	onmouseover="mOvr6(this);" onmouseout="mOut6(this);" onclick="mClk6(this);">
 <img src="/v/vspfiles/templates/192/images/Template/Menu6_Bullet.gif" alt="" align="absmiddle" /> <a href="http://www.zooshoo.com/Soda_Shoes_s/2068.htm" title="Soda Shoes">Soda</a>
 </td></tr>
 <tr><td class="nav"	onmouseover="mOvr6(this);" onmouseout="mOut6(this);" onclick="mClk6(this);">
@@ -1193,7 +1291,22 @@ function mSubClk6(src, popup)
 </div>
         
         <div class="menutitle" style="color:; background-color:;">FilterShoeSize</div>
-        <div id="display_menu_7" class="menu"></div>
+        <div id="display_menu_7" class="menu">
+<script type="text/javascript">var breadCrumb="||";</script>
+<script type="text/javascript">
+function mOvr7(src)
+{ if (src.className != 'nav nav_hover nav_selected') src.className = 'nav nav_hover'; }
+function mOut7(src)
+{ if (src.className != 'nav nav_hover nav_selected') src.className = 'nav'; }
+function mClk7(src, popup) 
+{ if (!popup) {window.location=src.getElementsByTagName('A')[0].getAttribute('href');} else {window.open(src);} }
+</script>
+<ul>
+<li class="nav" onmouseover="mOvr7(this);" onmouseout="mOut7(this);" onclick="mClk7(this);">
+	<a href="http://www.zooshoo.com/category_s/4543.htm" title="">Size</a>
+</li>
+</ul>
+</div>
         
         -->
     
@@ -1266,49 +1379,37 @@ Our business is continually evolving, and our Privacy Notice and Terms and Condi
 
  
 </div>
-<script type="text/javascript">
-<!--
-
-var ThisDomain="http://www.zooshoo.com";
-var volusionPath='/v/vspfiles/photos/';
-var ImgServer='//cdn.zooshoo.com/';
-var images = document.getElementsByTagName("IMG");
-var numOfImages = images.length;
-var origImage;
-for(i=0;i<numOfImages;i++) {
-	origImage = images[i].src;
-	var vfilecode = origImage.substr(origImage.length - 6);
-	if((vfilecode === "-1.jpg" || vfilecode === "-0.jpg") && origImage.indexOf(volusionPath) != -1) {
-		NewImgSrc = origImage.replace(ThisDomain,ImgServer).replace(volusionPath,"");
-		document.getElementsByTagName("img")[i].src =NewImgSrc;
-	}
-}
-
-//<br />
-//-->
-</script>
 
 <script type="text/javascript">
 <!--
-if(window.location == "http://www.zooshoo.com/shoppingcart.asp")
+
+if(window.location == "http://www.zooshoo.com/ShoppingCart.asp")
 {
-	var thumbnailAbandon = document.getElementsByTagName('IMG');
+	var thumbnailAbandon = document.getElementsById('product_image');
 	for(var z = 0; z < thumbnailAbandon.length; z++)
 	{
-		if(thumbnailAbandon[z].getAttribute('src').indexOf("//cdn.zooshoo.com/") != -1)
-		{
 			var thumby = thumbnailAbandon[z].getAttribute('src');
 			thumby = thumby.replace("-0","-2T"); 
                         thumbnailAbandon[z].src = thumby;
 			thumbnailAbandon[z].style.width = "75px";
 			thumbnailAbandon[z].style.height = "100px";
-		}
 	}
 }
+
 //<br />
 //-->
-</script>
 
+
+if ( !(jQuery.browser.msie && jQuery.browser.version == 7.0) ){
+if( !(jQuery.browser.msie && jQuery.browser.version == 6.0) ){
+
+jQuery("div[itemprop=offers]").prependTo("span[itemprop=description]");
+jQuery("table.colors_pricebox:first").nextAll("table").first().prependTo("table.colors_pricebox:first");
+}
+}
+
+
+</script>
   <!-- #################### FOOTER #################### -->
   <div id="footer">
     <!-- ==========================================================================================
@@ -1318,7 +1419,7 @@ Customer has agreed per Volusion's Terms of Service (http://www.volusion.com/agr
 =========================================================================================== -->	
     <div id="footerBottom">
       <a href="http://www.zooshoo.com/terms.asp">Copyright © <script type="text/javascript">document.write((new Date()).getFullYear());</script>2020&nbsp;ZOOSHOO. All Rights Reserved.</a><br>Shopping Cart Powered by <a href="http://www.volusion.com" title="Shopping Cart Software" target="_blank">Volusion</a>.<br>
-<a class="tf_upfront_badge" href="http://www.thefind.com/store/about-zooshoo" title="TheFind Upfront" style="text-decoration:none;"><b>ZOOSHOO.COM</b> is <u>Upfront</u></a>
+<a class="tf_upfront_badge" href="http://www.thefind.com/store/about-zooshoo" title="TheFind Upfront" style="text-decoration:none;"><b>ZOOSHOO.COM</b> is <span style="text-decoration: underline;">Upfront</span></a>
   <script type="text/javascript">
     (function() {
       var upfront = document.createElement('SCRIPT'); upfront.type = "text/javascript"; upfront.async = true;
@@ -1331,8 +1432,8 @@ Customer has agreed per Volusion's Terms of Service (http://www.volusion.com/agr
       </div>
     <div id="footerTop">
        <ul>
-        <li class="title">GIVE THE GIFT OF FASHION:</li>
-        <li></li>
+        <li style="display:none;" class="title">GIVE THE GIFT OF FASHION:</li>
+        <li><a href="https://curebit.com/x/Rj3Cu" target="_blank"><img src="http://image.zooshoo.com/volusion/referafriend.jpg"></a></li>
        </ul>
 
       <ul>
@@ -1366,9 +1467,16 @@ Customer has agreed per Volusion's Terms of Service (http://www.volusion.com/agr
         </ul>
       
       </div>
+
   </div>
 </div>
-</div></div>
+</div>
+</div>
+
+
+
+
+
 <div id="stickyfooter">
 <!-- #################### MAILING LIST SECTION -->
         <div id="eList">
@@ -1384,7 +1492,7 @@ Customer has agreed per Volusion's Terms of Service (http://www.volusion.com/agr
         	<li><a class="facebook" href="http://www.facebook.com/zooshoo" target="_blank">Facebook</a></li>
             <li><a class="twitter" href="http://www.twitter.com/zooshoo" target="_blank">Twitter</a></li>
             <li><a class="tumblr" href="http://zooshoo.tumblr.com" target="_blank">Tumblr</a></li>
-            <li><a class="instagram" href="http://web.stagram.com/n/zooshoo/" target="_blank">Instagram</a></li>
+            <li><a class="instagram" href="http://instagram.com/zooshoo" target="_blank">Instagram</a></li>
             <li><a class="pinterest" href="http://pinterest.com/zooshoo/" target="_blank">Pinterest</a></li>
         </ul>
     </div>
@@ -1408,6 +1516,7 @@ Customer has agreed per Volusion's Terms of Service (http://www.volusion.com/agr
 </div>
 </div>
 <div class="clear1">&nbsp;</div>
+
 
 <!-- #################### PLEASE KEEP CODING AT BOTTOM BEFORE GOOGLE ANALYTICS & ECOM TRACKING -->
 <script type="text/javascript" language="Javascript1.2">
@@ -1456,54 +1565,6 @@ v_ga_track("UA-19860041-1");
 var merchant_id = "3547";
 
 //-->
-
-
-
-function change_product_photo(arg_photo_number) {
-	var src_part, ext, href;
-	var popup = global_Config_EnablePhotosPopup;
-	src_part =  global_Config_StoreFolderName;
-	src_part += unescape(global_src_part_Config_ProductPhotosFolder);
-	src_part += '/';
-	src_part += global_Current_ProductCode + '-';
-
-	var alternate_product_photo = document.getElementById('alternate_product_photo_' + arg_photo_number);
-	var previous_alternate_product_photo = document.getElementById('alternate_product_photo_' + previous_selected_photo);
-	var product_photo_zoom_url = document.getElementById('product_photo_zoom_url');
-	var product_photo_zoom_url2 = document.getElementById('product_photo_zoom_url2');
-	var product_photo = document.getElementById('product_photo');
-
-	//HIDE all previously open spans (if they exist)
-	if (previous_alternate_product_photo) {
-		removeClassName(previous_alternate_product_photo, 'selected');
-	}
-
-	//SHOW the selected SPAN tag + GROUP BY span tag (if they exist)
-	if (alternate_product_photo) {
-		addClassName(alternate_product_photo, 'selected');
-		ext = alternate_product_photo.src;
-		ext = ext.substr(ext.lastIndexOf('.') + 1);
-		product_photo.src = src_part.replace("/v/vspfiles/photos/","//dsvjail1ccxgo.cloudfront.net/") + arg_photo_number + 'T.' + ext;
-
-		if (popup) {
-			href = "javascript:OpenNewWindow('" + global_SEOImage + "?ShowDesc=N&PhotoNumber=" + arg_photo_number + "&ProductCode=" + global_URL_Encode_Current_ProductCode + "', 640, 480); void(0);";
-		}
-		else {
-			href = global_SEOImage_PhotoGallery + "?ProductCode=" + global_URL_Encode_Current_ProductCode + "&PhotoNumber=" + arg_photo_number;
-		}
-		
-		if (product_photo_zoom_url) {
-			product_photo_zoom_url.href  = href;
-		}
-		if (product_photo_zoom_url2) {
-			product_photo_zoom_url2.href = href;
-		}
-	}
-	
-	//SAVE the previous span to global variable for next call of this function
-	previous_selected_photo = arg_photo_number
-
-}
 
 </script>
 
@@ -1600,6 +1661,7 @@ for (var i = 0; i < els.length; i++ )
 //-->
 </script>
 
+
 <script type="text/javascript">
 <!-- //actually places the email address into the email address box on the checkout page
 if(window.location == "https://www.zooshoo.com/one-page-checkout.asp")
@@ -1685,6 +1747,10 @@ function getQueryVariable(variable)
 
 	document.cookie = 'couponTransfer='+escape(coupon)+'; expires=Fri, 6 Sep 2019 20:47:11 UTC; path=/';
       }
+if(window.location == "http://www.zooshoo.com/" || window.location == "http://www.zooshoo.com/Default.asp")
+{
+document.cookie = 'couponTransfer='+escape("monkey")+'; expires=Fri, 6 Sep 2019 20:47:11 UTC; path=/';
+}
 
       
 //<br/>
@@ -1770,6 +1836,58 @@ if(window.location == "http://www.zooshoo.com/ShoppingCart.asp")
 //<br />
 //-->
 </script>
+
+<script type="text/javascript">
+<!--
+
+if(window.location == "http://www.zooshoo.com/ShoppingCart.asp" || window.location == "http://www.zooshoo.com/ShoppingCart.asp?")
+{
+var imageTags = document.getElementsByTagName("img");
+
+for(var x=0;x<imageTags.length;x++)
+{
+     var makePictureBigger = imageTags[x].src;
+       if(makePictureBigger.search("-0.jpg") != "-1")
+        {
+        makePictureBigger = makePictureBigger.replace("-0","-2T");
+             imageTags[x].src = makePictureBigger;
+             imageTags[x].style.width = "75px";
+             imageTags[x].style.height = "100px";
+        }
+  
+}
+        
+}
+
+
+//<br/>
+//-->
+</script>
+
+
+
+<a href="https://plus.google.com/109159897643087416780" rel="publisher">Google+</a>
+
+<!-- UpSellit Tracking Code -->
+<script type="text/javascript">
+function USI_installCode() {
+var USI_headID = document.getElementsByTagName("head")[0];
+var USI_installID = document.createElement('script');
+USI_installID.type = 'text/javascript';
+USI_installID.src = 'http'+ (document.location.protocol=='https:'?'s://www':'://www')
++ '.upsellit.com/launch/zooshoo.jsp';
+USI_headID.appendChild(USI_installID);
+}
+if (window.addEventListener){
+window.addEventListener('load', USI_installCode, true);
+} else if (window.attachEvent) {
+window.attachEvent('onload', USI_installCode);
+} else {
+USI_installCode();
+
+}
+</script>
+<!-- UpSellit Tracking Code -->
 
 
 
