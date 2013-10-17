@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the precisehire.com privacy policy that was archived on 2013-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130613134011id_/http%3A//www.precisehire.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the precisehire.com privacy policy that was archived on 2013-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131017094256id_/http%3A//www.precisehire.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy - PreciseHire
 
@@ -11,3 +11,24 @@ When you visit our online web site, we may collect usage information, such as th
 Our focus on privacy and security is reflected in both our technology and the way we work.
 
 We have built our entire system so that neither customers nor employees can access company, employee or applicant information without an appropriate password. In addition, we employ SSL data encryption when data is transmitted over the Internet, and have installed firewall's to prevent external "hacking" into our system. We also periodically commission external security experts to attempt to gain unwarranted access to our system, to ensure that no security breaches exist. Our emphasis on privacy and security is equally reflected in the way we work. Each employee and all contractors of Precise Hire receive a thorough background check. In addition, security training is part of every new employment orientation
+
+  * ISO 9001:2000 Certified Data Center
+  * 256-Bit Double SSL
+  * Double Firewall
+  * Redundant Server
+  * Redundancy Power Supply
+
+
+
+  * Backed Up Real Time
+  * 24/7 Proactive Intrusion Monitoring System
+  * Secure Building
+  * Secure Office
+
+
+
+[](http://cta-redirect.hubspot.com/cta/redirect/276151/294ef0de-f519-42ba-9c99-ed7677fe8461)
+
+ 
+
+[](http://cta-redirect.hubspot.com/cta/redirect/276151/ed0c004e-297c-47b5-b073-05d1ae6b587d)
