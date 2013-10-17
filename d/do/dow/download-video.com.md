@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the download-video.com privacy policy that was archived on 2013-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130425093234id_/http%3A//www.ovguide.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the download-video.com privacy policy that was archived on 2013-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131017151707id_/http%3A//www.ovguide.com/info/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -12,7 +12,7 @@ Although OVGuide makes a very strong effort to prevent links on our site that ma
 
 When you click on a link, which takes you to another website, you assume all the risks in doing so, which is really not much different than the risk you take when clicking on a search engine results link on Google or Yahoo. 
 
-If you find a link that you feel is malicious please report it to us using our [contact](https://web.archive.org/web/20130425093234id_/http%3A//www.ovguide.com/info/contact) form.
+If you find a link that you feel is malicious please report it to us using our [contact](https://web.archive.org/web/20131017151707id_/http%3A//www.ovguide.com/info/contact) form.
 
 OVGuide respects your privacy and does not save any personal information that is not submitted by the user (such as submitting a site suggestion, premium sections, or sending a page to a friend). In the event that we do obtain your e-mail address, it will only be used for administration purposes only and will not be distributed to any third-party.
 
