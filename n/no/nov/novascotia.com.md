@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the novascotia.com privacy policy that was archived on 2013-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130503222216id_/http%3A//www.novascotia.com/en/home/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the novascotia.com privacy policy that was archived on 2013-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131017204341id_/http%3A//www.novascotia.com/en/home/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -35,4 +35,5 @@ To learn more about how Google collects and stores IP address, please see [Googl
 
   
 [Nova Scotia Government Website Privacy Policy](http://www.gov.ns.ca/govt/privacy/privacypolicy.htm)  
-[Nova Scotia Government Website Privacy Policy Statement](http://www.gov.ns.ca/govt/privacy/)
+[Nova Scotia Government Website Privacy Policy Statement](http://www.gov.ns.ca/govt/privacy/)  
+[Nova Scotia Tourism Agency](https://web.archive.org/en/home/novascotiatourismagency.ca)
