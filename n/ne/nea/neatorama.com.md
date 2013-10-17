@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the neatorama.com privacy policy that was archived on 2012-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121127033540id_/http%3A//www.neatorama.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the neatorama.com privacy policy that was archived on 2013-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131017034525id_/http%3A//www.neatorama.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Neatorama
 
@@ -6,11 +6,11 @@ At Neatorama.com, we appreciate your readership and respect your privacy. This p
 
  **Collection and Use of Personal Information**
 
-Neatorama.com has two main parts: blog and online shop. You may register a username in order to comment on the blog, though you are not required to do so (i.e. you can comment without registering a username). Regardless of whether you register a username or not, your IP address is recorded when you comment as part of our effort to combat spam and inappropriate comments.
+Neatorama.com has two main parts: blog and online shop. You are required to register a username in order to comment on the blog. Your IP address is recorded when you comment as part of our effort to combat spam and inappropriate comments.
 
 The blog has an "email this post to your friend" feature that lets you send a particular post in email format to up to 5 email addresses. To use this feature, we require that you provide your name and email addresses, as well as the names and email addresses of the persons you are sending the post. These information is recorded electronically and purged periodically. We do not keep these personal information and do not use it for any purpose other than to compile an aggregate statistical information (i.e. how many posts were emailed - not to or by whom).
 
-In order to process and ship your order, we require your personal information such as name, address, and telephone number, as well as financial information such as credit card number and expiration date. You may register a username in the online shop (for security purpose, this is separate from the blog username). This allows you to track the progress of your order. You may also place an order through a quick checkout procedure (without prior registration of a username). If we have trouble processing your order, we will use this information to contact you.
+In order to process and ship your order, we require your personal information such as name, address, and telephone number, as well as financial information such as credit card number and expiration date. You may register a username in the online shop. This allows you to track the progress of your order. You may also place an order through a quick checkout procedure (without prior registration of a username). If we have trouble processing your order, we will use this information to contact you.
 
 In addition to personal information, we may also collect aggregate information about our visitors (that does not personally identify you), such as operating system, the browser you are using, the country of you are located, referring domain, and the domain name of your internet service provider.
 
