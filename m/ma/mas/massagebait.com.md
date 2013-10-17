@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the massagebait.com privacy policy that was archived on 2013-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130504102111id_/http%3A//www.boyprofits.com/privacy/massagebait) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the massagebait.com privacy policy that was archived on 2013-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131017020147id_/http%3A//www.boyprofits.com/privacy/massagebait) for the most accurate reproduction.*
 
 # Privacy
 
