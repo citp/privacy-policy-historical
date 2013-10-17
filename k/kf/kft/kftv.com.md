@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kftv.com privacy policy that was archived on 2013-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130510121813id_/http%3A//www.wilmington.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kftv.com privacy policy that was archived on 2013-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131017213729id_/http%3A//www.wilmington.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Wilmington Group plc
 
@@ -14,7 +14,7 @@
 
 ### What does this policy cover?
 
-This policy covers the processing of personal data by Wilmington Group plc and its associated companies ("Wilmington Group") whose registered office is at 6-14 Underwood Street, London N1 7JQ. Wilmington Group can be contacted at [enquiries@wilmington.co.uk](mailto:enquiries@wilmington.co.uk).
+This policy covers the processing of personal data by Wilmington Group plc and its associated companies ("Wilmington Group") whose registered office is at 6-14 Underwood Street, London N1 7JQ. Wilmington Group can be contacted at [enquiries@wilmington.co.uk](mailto:enquiries@wilmington.co.uk) or via phone on +44 (0) 207 490 0049. 
 
 This policy will help you understand how Wilmington Group (or its successors in title) will treat your personal information. This policy may change from time to time so please check back regularly.
 
@@ -62,11 +62,15 @@ With your permission or under the specific terms and conditions of some of our W
 
 When delivering targeted advertisements, Wilmington Group acts merely as the middleman. Advertisers give us an advertisement and tell us the type of audience they want to reach (for example, GPs for pharmaceutical companies). We take the advertisement and display it to users meeting the relevant criteria.
 
-When you join one of our email newsletter services the emails you receive may include advertising material and links to advertisers' websites. This does not mean that your details have been passed to the advertiser in question. Furthermore, at the end of each newsletter you will find either a hyperlink or a description of a route to have yourself removed from further editions of that newsletter.
+When you join one of our email newsletter services the emails you receive may include advertising material and links to advertisers' websites. This does not mean that your details have been passed to the advertiser in question.
 
 Wilmington Group undertakes research on our users' demographics, interests and behaviour based on the information provided to us upon registration, during a promotion, from our server log files or from surveys. We do this to better understand and serve you, the user. This research is compiled and analysed on an aggregated basis. Wilmington Group may share this aggregated data with advertisers or business partners. We will use our reasonable endeavours to ensure, where reasonable, that our business partners and advertising customers have effective on-line privacy policies and have notified their processing under the Data Protection Act 1998 (as all of our relevant businesses have).
 
 Please be aware that Wilmington Group advertisers or websites that have links on our site may collect personally identifiable information about you. The information practices of those websites linked to Wilmington Group are not covered by this privacy statement.
+
+### What is Wilmington Group's Email Unsubscribe Policy
+
+Users who wish to no longer receive our newsletters or promotional emails may click on a link named “Unsubscribe” which is embedded with every email sent by all Wilmington Group companies. However, please note that you cannot opt-out in this way from receiving emails related to paid products services which you are subscribing to or purchasing.
 
 ### With whom does Wilmington Group share my information?
 
