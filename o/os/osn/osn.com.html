@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the osn.com privacy policy that was archived on 2013-03-12.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130312055811id_/http%3A//www.osn.com/privacy_en_gb.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the osn.com privacy policy that was archived on 2013-10-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131017070437id_/http%3A//www.osn.com/privacy_en_gb.aspx) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html class=" js rgba multiplebgs borderradius boxshadow textshadow opacity cssanimations cssgradients csstransforms csstransitions fontface generatedcontent"><head>
+<!DOCTYPE html><html class=" js rgba multiplebgs borderradius boxshadow textshadow opacity cssanimations cssgradients csstransforms csstransitions fontface generatedcontent"><head><script async="" src="https://apis.google.com/js/plusone.js?_=1582549568333"></script><script async="" src="https://connect.facebook.net/en_US/all.js?_=1582549568331"></script><script async="" src="https://platform.twitter.com/widgets.js?_=1582549568330"></script>
   <title>OSN – Privacy</title>
   <meta http-equiv="content-type" content="text/html; charset=utf-8">
   <meta name="keywords" content="">
@@ -13,7 +13,7 @@
   <link rel="stylesheet" href="/common/css/tmp.css" type="text/css" media="screen">
   <link rel="stylesheet" href="/common/css/overview.css" type="text/css" media="screen">
 
-  <script id="twitter-wjs" src="//platform.twitter.com/widgets.js"></script><script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script src="/common/js/jquery.min.js"></script>
+  <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script src="/common/js/jquery.min.js"></script>
   <script src="/common/js/modernizr.js" charset="utf-8"></script>
   <script src="/common/js/jquery.msfLightBox.js" charset="utf-8"></script>
   <script src="/common/js/scripts.js" charset="utf-8"></script>
@@ -43,7 +43,13 @@
     function openWLPopUp() {
         $("#frmWLPopUp").attr("src", "/onlineguide/programme/loading.aspx");
         $('#divWLPopUp').fadeIn();
-        $("#frmWLPopUp").attr("src", "https://myosn.osn.com/login.aspx?url=https://www.osn.com/signedintop1.aspx");
+        $("#frmWLPopUp").attr("src", "https://myosn.osn.com/login.aspx?url=https://www.osn.com/signin2.aspx");
+//       var myOsnUrl = 'https://myosn.osn.com/login.aspx';
+//        var refUrl = top.location.toString();
+//        refUrl = refUrl.replace("?", "&");
+//        console.log(refUrl);
+//        if (refUrl != null) { $("#frmWLPopUp").attr('src', myOsnUrl + '?' + refUrl); }
+//        console.log(myOsnUrl + '?' + refUrl);
     }
     /*function openPopUp() {
         $("#frmLPopUp").attr("src", "/onlineguide/programme/loading.aspx");
@@ -51,11 +57,11 @@
         $("#frmLPopUp").attr("src", "https://myosn.osn.com/login.aspx?url=https://www.osn.com/signin2.aspx");
     }*/
     
-    function openPopUp2(id, title) {
+    function openPopUp2(id, uid, title) {
         $("#frmWLPopUp").attr("src", "/onlineguide/programme/loading.aspx");
         $('#divWLPopUp').fadeIn();
-        $("#frmWLPopUp").attr("src", "https://myosn.osn.com/login.aspx?url=https://www.osn.com/signedin1.aspx");
-        $("#frmLPopback").attr("src", "/onlineguide/schedules/Headerses.aspx?id=" + id + "&title=" + title);
+        $("#frmWLPopUp").attr("src", "https://myosn.osn.com/login.aspx?url=https://www.osn.com/signin2.aspx");
+        $("#frmLPopback").attr("src", "/onlineguide/schedules/Headerses.aspx?id=" + id + "&uid=" + uid + "&title=" + title);
         CloseJQPopUp();
     }
     function openRRPopUp(id, title) {
@@ -86,7 +92,7 @@
                 <li><a href="https://privileges.osn.com/default_en_gb.aspx" class="choice">OSN Privileges</a></li>
             </ol>
 
-             <ul><li><a href="https://www.osn.com/privacy_ar_ae.aspx" class="choice" lang="ar-ae">العربية</a></li></ul>
+             <ul><li><a href="http://www.osn.com/privacy_ar_ae.aspx" class="choice" lang="ar-ae">العربية</a></li></ul>
             <ul id="logoninfo">
                 
                 <li id="Header1_btnLogin"><a href="#" onclick="openWLPopUp(); event.returnValue = false; return false;" class="link signin">Sign In</a></li>
@@ -109,13 +115,83 @@
       <a href="/onlineguide/highlights/default_en_gb.aspx">Highlights</a>
     </li>
     <li>
-      <a href="/onlineguide/topseries_en_gb.aspx">Top Series</a>
-    </li>
-    <li>
       <a href="/onlineguide/schedules/default_en_gb.aspx">Schedules</a>
     </li>
     <li>
-      <a href="/onlineguide/guide_en_gb.aspx">March TV Guide</a>
+      <a href="/onlineguide/guide_en_gb.aspx">October TV Guide</a>
+    </li>
+  </ul>
+</li>
+<li>
+  <a href="/topseries/default_en_gb.aspx" id="first">&nbsp;Top Series&nbsp;</a>
+  <ul>
+    <li>
+    </li>
+    <li>
+    </li>
+    <li>
+    </li>
+    <li>
+    </li>
+    <li>
+    </li>
+    <li>
+    </li>
+    <li>
+    </li>
+    <li>
+    </li>
+    <li>
+    </li>
+    <li>
+    </li>
+    <li>
+    </li>
+    <li>
+    </li>
+    <li>
+    </li>
+    <li>
+    </li>
+    <li>
+    </li>
+    <li>
+    </li>
+    <li>
+    </li>
+    <li>
+    </li>
+    <li>
+    </li>
+    <li>
+    </li>
+    <li>
+    </li>
+    <li>
+    </li>
+    <li>
+    </li>
+    <li>
+    </li>
+    <li>
+    </li>
+    <li>
+    </li>
+    <li>
+    </li>
+    <li>
+    </li>
+    <li>
+    </li>
+    <li>
+    </li>
+    <li>
+    </li>
+    <li>
+    </li>
+    <li>
+    </li>
+    <li>
     </li>
   </ul>
 </li>
@@ -160,13 +236,7 @@
     </nav>
 </header>
 
-<div id="divLPopUp" class="overlay" style="display:none;">
-    <div class="content" id="divMsgTxt">
-        <iframe id="frmLPopUp" name="frmPopUp" src="https://myosn.osn.com/login.aspx?url=https://web.archive.org/web/20130312055811id_/http%3A//www.osn.com/privacy_en_gb.aspx" class="signin" height="315" width="100%" frameborder="0" scrolling="no" allowtransparency="true"></iframe>
-        <iframe id="frmLPopback" name="frmLPopback" src="/onlineguide/programme/loading.aspx" height="1" width="1" frameborder="0" scrolling="no"></iframe>
-        <a href="#" onclick="CloseSchedulePopUps()" class="closesmall"></a>
-    </div>
-</div>
+
 
 <div id="divWLPopUp" class="overlay" style="display:none;">
 <div id="divPopbg">-</div>
@@ -247,68 +317,50 @@
 
 
 <footer>
-    <section class="centered">
-        <div>
-            <h3>Here to help</h3>
-            <ol>
-                <li><a href="/about_en_gb.aspx" class="footer">About OSN</a></li>
-                <li><a href="/contact_en_gb.aspx" class="footer">Contact Us</a></li>
-                <li><a href="/faqs_en_gb.aspx" class="footer">OSN Help</a></li>
-                <li><a href="/" class="footer">OSN.com</a></li>
-            </ol>
-        </div>
-        <div> </div><div> </div>
-        <div class="social">
-          <h3>Stay in contact</h3>
-          <ul>
-            <li class="button"><a href="http://www.facebook.com/osn" class="facebook">Add us on Facebook</a></li>
-            <li class="button"><a href="http://twitter.com/#!/osn" class="twitter">Follow us on Twitter</a></li>
-            <li class="button"><a href="https://plus.google.com/109480896300841182767/" class="google">Find us on google</a></li>
-            <li class="button"><a href="http://www.youtube.com/user/osnyahala" class="youtube">Watch us on YouTube</a></li>
-          </ul>
-
-          <div class="facebook">
-            <iframe src="//www.facebook.com/plugins/like.php?href=http%3A%2F%2Fosn.com&amp;send=false&amp;layout=standard&amp;width=300&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;font&amp;height=35" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:300px; height:35px;" allowtransparency="true"></iframe>
-          </div>
-
-          <div class="google">
-            <div class="g-plusone" data-annotation="none" data-href="http://osn.com"></div>
-            <!-- Place this render call where appropriate -->
-            <script type="text/javascript">
-                (function () {
-                    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
-                    po.src = 'https://apis.google.com/js/plusone.js';
-                    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
-                })();
-             </script>
-          </div>
-
-          <div class="twitter">
-            <a href="https://twitter.com/share" class="twitter-share-button" data-url="http://osn.com" data-related="osn" data-lang="en" data-count="none">Tweet</a>
-            <script>                !function (d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (!d.getElementById(id)) { js = d.createElement(s); js.id = id; js.src = "//platform.twitter.com/widgets.js"; fjs.parentNode.insertBefore(js, fjs); } } (document, "script", "twitter-wjs");</script>
-          </div>
-        </div>
-
-    </section>
-
-    <hr>
-
-    <section class="centered">
-        <p>
-            © OSN 2013. All Rights Reserved.
-            <a class="footer" href="/terms_en_gb.aspx">Terms &amp; Conditions</a>
-            <a class="footer" href="/privacy_en_gb.aspx">Privacy</a>
-            <a class="footer" href="/sitemap_en_gb.aspx">Site Map</a>
-            <a class="footer" href="/press_en_gb.aspx">Press Site</a>
-            <a class="footer" href="/career/default_en_gb.aspx">Careers</a>
-            <a class="footer" href="http://itunes.apple.com/tw/app/osnplay/id547631790" target="_blank">OSN Play iPad app</a>
-            <a class="footer" href="/country_en_gb.aspx">Change Country</a>
-        </p>
-    </section>
-    
+  <div class="top-links">
+    <ul class="osn-links">
+      <li><h4>Here to Help</h4></li>
+      <li><a href="/about_en_gb.aspx">About OSN</a></li>
+      <li><a href="/contact_en_gb.aspx">Contact Us</a></li>
+      <li><a href="/faqs_en_gb.aspx">OSN Help</a></li>
+      <li><a href="/">OSN.com</a></li>
+    </ul>
+    <ul class="social-links">
+       <h4>Stay in contact</h4>
+       <li class="social-icons">
+         <a href="http://www.facebook.com/osn" class="facebook" target="_blank">Add us on Facebook</a>
+         <a href="http://twitter.com/osn" class="twitter" target="_blank">Follow us on Twitter</a>
+         <a href="https://plus.google.com/109480896300841182767/" class="google" target="_blank">Find us on google</a>
+         <a href="http://www.youtube.com/user/osn?sub_confirmation=1" class="youtube" target="_blank">Watch us on YouTube</a>
+       </li>
+       <li class="social-apis">
+          <div class="fb-like" data-href="https://www.facebook.com/osn?fref=ts" data-send="false" data-layout="button_count" data-width="450" data-show-faces="false" data-font="tahoma"></div>
+<div class="twitter-wrapper">
+<a href="https://twitter.com/osn" class="twitter-follow-button" data-show-count="true" data-lang="en" data-width="95">Follow</a>
+<!--<a href="https://twitter.com/share" class="twitter-share-button" data-count="horizontal" data-width="95"></a>-->
+</div>
+<div class="gplus-wrapper">
+<div class="g-plusone" data-href="https://plus.google.com/109480896300841182767" data-width="80" data-size="medium"></div></div>
+       </li>
+    </ul>
+  </div>
+  <div class="bottom-links">
+    <ul>
+     <li>© OSN 2013, All rights reserved.</li>
+     <li><a href="/terms_en_gb.aspx">Terms &amp; Conditions</a></li>
+     <li><a href="/privacy_en_gb.aspx">Privacy</a></li>
+     <li><a href="/sitemap_en_gb.aspx">Site Map</a></li>
+     <li><a href="/press_en_gb.aspx">Press Site</a></li>
+     <li><a href="/career/default_en_gb.aspx">Careers</a></li>
+     <li><a href="http://itunes.apple.com/tw/app/osnplay/id547631790" target="_blank">OSN Play iPad/iPhone App</a></li>
+     <li><a href="/country_en_gb.aspx">Change Country</a></li>
+    </ul>
+  </div>
+</footer>
+   
 <script type="text/javascript">
-<!--
-    OneStat_Pageview();
+
+   // OneStat_Pageview();
 
     var _gaq = _gaq || [];
     _gaq.push(['_setAccount', 'UA-25593280-1']);
@@ -320,21 +372,43 @@
         ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
         var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
     })();
-//-->
 </script> 
 <noscript>
-<div><a href="https://www.onestat.com/aspx/login.aspx?sid=199385"><img width="1" height="1" src="https://stat.onestat.com/stat.aspx?tagver=2&amp;sid=199385&amp;js=No&amp;" alt=""  /></a></div>
+<div><a href="http://www.onestat.com/aspx/login.aspx?sid=199385"><img width="1" height="1" src="http://stat.onestat.com/stat.aspx?tagver=2&amp;sid=199385&amp;js=No&amp;" alt=""  /></a></div>
 </noscript>
-
-
-<!-- (C)2000-2012 Gemius SA - gemiusAudience / osn.com / Others -->
 <script type="text/javascript">
-<!--    //--><![CDATA[//><!--
-    var pp_gemius_identifier = new String('py2aeDMa2xYRmlBxVC9aQoYg.h6deGNM_nFBoomiM8P.b7');
-    //--><!]]>
-</script>
+$(function(){
 
-<script type="text/javascript" src="http://www.osn.com/common/js/xgemius.js"></script>
-</footer>
+  //load social buttons after page load
+  loadSocialLinks();
+
+
+});
+
+//social icons lazy load methods
+function loadSocialLinks()
+{
+    if (typeof (twttr) != 'undefined'){
+        twttr.widgets.load();
+    } else {
+        $.getScript('https://platform.twitter.com/widgets.js');
+    }
+    if (typeof (FB) != 'undefined') {
+     FB.init({ status: true, cookie: true, xfbml: true });
+    }else
+    {
+        $.getScript("https://connect.facebook.net/en_US/all.js#xfbml=true&status=0", function () {
+           FB.init({ status: true, cookie: true, xfbml: true });
+        });
+    }
+    if (typeof (gapi) != 'undefined') {
+        $(".g-plusone").each(function () {
+            gapi.plusone.render($(this).get(0));
+        });
+    } else {
+        $.getScript('https://apis.google.com/js/plusone.js');
+    }
+}
+</script>
 
 </body></html>
