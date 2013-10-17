@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the theesa.com privacy policy that was archived on 2013-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130622184827id_/http%3A//www.theesa.com/privacy/index.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theesa.com privacy policy that was archived on 2013-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131017085611id_/http%3A//www.theesa.com/privacy/index.asp) for the most accurate reproduction.*
 
 # The Entertainment Software Association- Privacy Policy
 
 ## Privacy Policy 
 
-_Last updated on October 6, 2010. Click here to print our Privacy Policy._
+_Last updated on August 15, 2013. Click here to print our Privacy Policy._
 
 ### **Our Privacy Commitment**
 
@@ -12,7 +12,7 @@ _Last updated on October 6, 2010. Click here to print our Privacy Policy._
 
 The Entertainment Software Association, and its subsidiaries and affiliates (collectively, "ESA"), respects the privacy rights of our online visitors and recognizes the importance of protecting all information that you may choose to share with us.  To further this commitment, we have adopted this Online Privacy Policy ("Privacy Policy") to guide how we collect, store and use the information you provide to us.
 
-This Privacy Statement and the certification seal shown on this page confirm that ESA is a member in good standing of ESRB's Privacy Online Program.  ESRB's Privacy Online Program is designed to ensure that our Web sites’ information disclosure practices are responsible and appropriate.  To protect your privacy, we have voluntarily undertaken this privacy initiative and all of our Web sites have been reviewed and certified by ESRB Privacy Online to meet established online information collection and use practices. As part of this privacy program, we are subject to frequent audits of our Web sites and other enforcement and accountability mechanisms administered independently by the ESRB. 
+This Privacy Statement and the certification seal shown on this page confirm that ESA is a member in good standing of ESRB's Privacy Certified Program.  ESRB's Privacy Certified Program is designed to ensure that our Web sites’ information disclosure practices are responsible and appropriate.  To protect your privacy, we have voluntarily undertaken this privacy initiative and all of our Web sites have been reviewed and certified by ESRB Privacy Certified to meet established online information collection and use practices. As part of this privacy program, we are subject to frequent audits of our Web sites and other enforcement and accountability mechanisms administered independently by the ESRB. 
 
 ### Table of Contents 
 
@@ -35,7 +35,7 @@ Q8. [How will you know if we amend this Privacy Policy?](http://www.theesa.com/p
 ####   
 What information does this Privacy Statement cover?
 
-This Privacy Policy applies only to personal information collected on the Web sites where this Privacy Policy is posted ([http://www.theesa.com](http://www.theesa.com/); [http://www.videogamevoters.org](http://www.videogamevoters.org/); [http://www.jointhecteam.com](http://www.jointhecteam.com/); [http://www.gameoverpirates.com](http://www.gameoverpirates.com/); and [http://www.e3expo.com](http://www.e3expo.com/)), and does not apply to any other information collected by ESA through any other means. 
+This Privacy Policy applies only to personal information collected on the Web sites where this Privacy Policy is posted ([http://www.theesa.com](http://www.theesa.com/); [http://www.jointhecteam.com](http://www.jointhecteam.com/); [http://www.gameoverpirates.com](http://www.gameoverpirates.com/); and [http://www.e3expo.com](http://www.e3expo.com/)), and does not apply to any other information collected by ESA through any other means. 
 
 This Privacy Policy applies to the use and sharing of personal information collected on and after the date that this Privacy Policy is posted. 
 
@@ -56,7 +56,6 @@ All of the personal information we receive comes directly from our guests.  We 
   * Participate in contests, sweepstakes, or other promotions 
   * Report piracy, offer feedback, or other business inquiries
   * Sign up to receive newsletters (such as ESA Tools and Updates)
-  * Join the Video Game Voters Network 
   * Receive customer or technical support 
 
 
@@ -157,10 +156,10 @@ If you have questions or wish to send us comments about this Privacy Policy, ple
 
 Please be assured that any personal information that you provide in communications to the above e-mail and postal mail addresses will not be used to send you promotional materials, unless you request it. 
 
-ESA is a licensee of the ESRB's Privacy Online Program.  If you believe that we have not responded to your inquiry or your inquiry has not been satisfactorily addressed, please contact ESRB at <http://www.esrb.org/privacy/contact.jsp>. 
+ESA is a licensee of the ESRB's Privacy Certified Program.  If you believe that we have not responded to your inquiry or your inquiry has not been satisfactorily addressed, please contact ESRB at <http://www.esrb.org/privacy/contact.jsp>. 
 
 > ESRB  
->  Attn.: Privacy Online Program   
+>  Attn.: Privacy Certified Program   
 >  317 Madison Avenue, 22nd Floor   
 >  New York, NY 10017   
 >  [privacy@esrb.org](mailto:privacy@esrb.org)
