@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the literotica.com privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501085408id_/http%3A//literotica.com/stories/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the literotica.com privacy policy that was archived on 2013-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131017141946id_/http%3A//www.literotica.com/stories/privacy.php) for the most accurate reproduction.*
 
 # Members.Literotica.com - To Use This Site, You Must Agree To These Terms.
 
