@@ -1,8 +1,9 @@
-> *The following text is extracted and transformed from the marketing.ai privacy policy that was archived on 2013-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130630141421id_/http%3A//www.marketing.ai/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marketing.ai privacy policy that was archived on 2013-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131017230101id_/http%3A//marketing.ai/privacy.html) for the most accurate reproduction.*
 
 # Marketing.AI Privacy Policy
 
-Effective Date: 01 November, 2012  
+Effective Date: 01 November, 2012
+
 This privacy policy (the "Privacy Policy") explains the privacy practices of Marketing.AI a product of Experts.AI Software Corp., a Vancouver-based company ("Experts.AI", "we", "us" or "our") that apply to (i) the access and use of the www.Marketing.ai website, and any related sub-domains, which are operated by Experts.AI (the "Website"), and (iii) the provision by Experts.AI of services through the Website (the "Services").
 
 EXPERTS.AI IS COMMITTED TO MAINTAINING YOUR PRIVACY PLEASE READ ALL THE TERMS OF THIS PRIVACY POLICY SO THAT YOU UNDERSTAND WHAT TYPE OF PERSONAL INFORMATION WE COLLECT AND HOW WE COLLECT IT, HOW WE USE IT AND TO WHOM WE DISCLOSE IT.
@@ -32,7 +33,7 @@ We may disclose your information if required to by law enforcement officials or 
 From time to time, we may make changes to this privacy policy. In order to ensure that you are familiar with our most updated policies and practices, you should check the effective date indicated above of this privacy policy each time you use the Marketing.AI Website. If we make any changes, we will notify you of such changes by posting the updated privacy policy on the Marketing.AI Website. We may also send you an email alerting you of such changes. You will be bound by any such changes to the policy when you use the Marketing.AI Website after those changes have been posted. If we make material revisions concern practices where we have represented that we will obtain your consent to use or disclose your personal information, we will obtain your consent before taking any action inconsistent with those representations. 
 
 Contacting Experts.AI Software Corp.  
-If you have any questions about this privacy statement, the practices of the Marketing.AI Website, or your dealings with Experts.AI, please contact us at: privacy@experts.ai or by mail at:  
+If you have any questions about this privacy statement, the practices of the Marketing.AI Website, or your dealings with Experts.AI, please contact us at: support@experts.ai or by mail at:  
 Experts.AI Software Corp.  
 422 Richards Street, #170  
 Vancouver, BC V6B 2Z4  
