@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the robertsspaceindustries.com privacy policy that was archived on 2013-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130606053037id_/http%3A//www.robertsspaceindustries.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the robertsspaceindustries.com privacy policy that was archived on 2013-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131017042839id_/https%3A//robertsspaceindustries.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Roberts Space Industries
+# Privacy Policy - Roberts Space Industries
 
 **PLEASE READ THE FOLLOWING PRIVACY POLICY CAREFULLY. WHEN YOU USE ANY ONLINE GAME, SERVICE or WEBSITE FROM CLOUD IMPERIUM GAMES CORPORATION, ITS SUBSIDIARIES OR AFFILIATES (“CLOUD IMPERIUM”) YOU ACKNOWLEDGE THAT YOU HAVE READ, UNDERSTOOD, AND AGREE TO BE BOUND BY THESE TERMS.**
 
@@ -8,7 +8,8 @@
 
 By registering for a Cloud Imperium Account, we may transfer and store your account information. By registering, you agree that Cloud Imperium may process your data in accordance with the following privacy policy and that you will abide by Cloud Imperium’s Terms of Service.
 
-BY REGISTERING FOR A CLOUD IMPERIUM ACCOUNT, USING THIS SITE, YOU AGREE TO THE CLOUD IMPERIUM ONLINE PRIVACY POLICY. IF YOU DO NOT AGREE TO THIS POLICY, PLEASE DO NOT USE ANY CLOUD IMPERIUM SITE, ONLINE PRODUCT OR SERVICE. If we change our Privacy Policy, we will post those changes to this Privacy Policy, the home page or other places so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We reserve the right to modify this Privacy Policy at any time, so please review it frequently. If we make material or significant changes to this Privacy Policy, we will notify you by email and/or by a notice at [www.robertsspaceindustries.com/privacy](http://robertsspaceindustries.com/privacy "Privacy Policy") and/or during log in. Revisions to terms affecting existing Cloud Imperium Services shall be effective thirty (30) days after posting. Your continued use of our online and mobile products and services will signify your acceptance of the changes to our Privacy Policy.
+BY REGISTERING FOR A CLOUD IMPERIUM ACCOUNT, USING THIS SITE, YOU AGREE TO THE CLOUD IMPERIUM ONLINE PRIVACY POLICY. IF YOU DO NOT AGREE TO THIS POLICY, PLEASE DO NOT USE ANY CLOUD IMPERIUM SITE, ONLINE PRODUCT OR SERVICE. If we change our Privacy Policy, we will post those changes to this Privacy Policy, the home page or other places so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We reserve the right to modify this Privacy Policy at any time, so please review it frequently. If we make material or significant changes to this Privacy Policy, we will notify you by email and/or by a notice at [www.robertsspaceindustries.com/privacy](http://robertsspaceindustries.com/privacy) and/or during log in. Revisions to terms affecting existing Cloud Imperium Services shall be effective thirty (30) days after posting. Your continued use of our online and mobile products and services will signify your acceptance of the changes to our Privacy Policy.  
+
 
 Cloud Imperium respects the privacy rights of consumers and recognizes the importance of protecting the information collected about you. We have adopted this global Privacy Policy to explain how we store and use personal and non-personal information we collect online on our websites, during your use of our website, online products and/or services (including online game play).
 
@@ -39,9 +40,13 @@ We may also use flash cookies, also known as “local shared objects,” on our 
 Please note that this privacy policy covers the use of cookies by Cloud Imperium only and does not cover the use of cookies by any advertisers.
 
 2\. Analytic Metrics Tool And Other Technologies  
-Cloud Imperium may also use its own proprietary analytic metrics tool and other analytics technologies to collect non-personal information when you use our online products and services.
+Cloud Imperium may also use its own proprietary analytic metrics tool and other analytics technologies to collect non-personal information when you use our online products and services.  
+
 
 ## IV. What Happens To The Information Cloud Imperium Collects?
+
+  
+
 
 ### A. How Cloud Imperium Uses Your Information
 
@@ -58,7 +63,7 @@ Cloud Imperium utilizes data storage facilities located in the United States.
 
 The security of your personal information is important to us. We follow generally accepted industry standards, including the guidelines developedby theOnlinePrivacy Alliance and the Federal Trade Commission to protect the personal information submitted to us, both during transmission and in storage. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially reasonable means to protect your personal information, we cannot guarantee its absolute security. If you have any questions about security on our website, please contact us at privacy@cloudimperiumgames.com.
 
-You can correct, update or delete your account information at any time by logging on our site and navigating to “My Account,” “View My Profile” or other account settings. Should you be unable to log in contact at privacy@cloudimperiumgames.com. We will be happy to review, update or remove information as appropriate. We may still retain your information in our files however, to resolve disputes, enforce our user agreement, and due to technical and legal requirements and constraints related to the security, integrity and operation of our websites.
+You can correct, update or delete your account information at any time by logging on our site and navigating to “My Account,” “View My Profile” or other account settings or contacting support@cloudimperiumgames.com. Should you be unable to log in contact at support@cloudimperiumgames.com. We will be happy to review, update or remove information as appropriate. We may still retain your information in our files however, to resolve disputes, enforce our user agreement, and due to technical and legal requirements and constraints related to the security, integrity and operation of our websites.
 
 You may choose to disclose information about yourself in the course of contributing user generated content to Cloud Imperium sites or in public online chat rooms, blogs, message boards, user “profiles” for public view or in similar forums on our sites. Information that you disclose in any of these forums is public information, and there is no expectation of privacy or confidentiality there.  
 You should be aware that any personally identifiable information you submit in the course of these public activities can be read, collected, or used by other users of these forums, and could be used to send you unsolicited messages. We are not responsible for the personally identifiable information you choose to submit in these forums.  
