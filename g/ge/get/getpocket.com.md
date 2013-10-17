@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the getpocket.com privacy policy that was archived on 2013-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130629154947id_/http%3A//getpocket.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getpocket.com privacy policy that was archived on 2013-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131017222602id_/http%3A//getpocket.com/privacy) for the most accurate reproduction.*
 
 # Pocket: Privacy
 
