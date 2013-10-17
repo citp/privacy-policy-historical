@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the castrolfootball.com privacy policy that was archived on 2013-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130511151106id_/http%3A//www.castrolfootball.com/about/uk/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the castrolfootball.com privacy policy that was archived on 2013-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131017114503id_/http%3A//www.castrolfootball.com/about/uk/privacy.php) for the most accurate reproduction.*
 
 # | Castrol Football | Official Sponsor FIFA World Cup 2014™
 
