@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the factoidz.com privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601095922id_/http%3A//knoji.com/pages/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the factoidz.com privacy policy that was archived on 2013-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131017062229id_/http%3A//knoji.com/pages/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy — Knoji
 
-Get the inside scoop on your favorite shopping websites
+Find coupons, reviews and similar sites for any retailer
 
 SEARCH
 
@@ -89,86 +89,6 @@ Knoji regularly reviews its compliance with this Policy. Please feel free to dir
 
 Please note that this Privacy Policy may change from time to time. We will not reduce your rights under this Policy without your explicit consent, and we expect most such changes will be minor. Regardless, we will post any Policy changes on this page and, if the changes are significant, we will provide a more prominent notice (including, for certain services, email notification of Policy changes). Each version of this Policy will be identified at the top of the page by its effective date, and we will also keep prior versions of this Privacy Policy in an archive for your review.
 
-Ask a Question on Knoji 
-
-x
-
-Your Question:
-
-Details (optional):
-
-All questions are moderated.
-
-Ask a question 
-
-x
-
-will be notified of your question. 
-
-Your question will also be posted as a **public question in the Knoji forums** , so be sure to phrase it as a **general question** that anyone could answer. Personal questions and private messages should be sent using the Message Me feature instead. 
-
-Confirm your recommendation
-
-x
-
-By making this recommendation, you are confirming that you would recommend ****to people you know as an expert in the topic ****.
-
-[Confirm and recommend](http://knoji.com/lets/voteuppost) Cancel 
-
-You have used your question credit for today. Please wait until midnight today for your question credits to renew.
-
-x
-
-To maintain a high standard for new discussions started, each Knoji member is limited to a certain number of questions each day. Use your questions wisely, ask quality questions and you'll get quality answers. 
-
-Credits refresh at midnight US Central time, at which time you'll receive your next day's allotment of credits. 
-
-Oops, you haven't confirmed your email yet
-
-x
-
-We've sent an email to your registration email address. You'll need to click the link in that email before you can post stuff on Knoji. 
-
-Didn't get the email? First, try checking your spam inbox. If you can't find it, click here and we'll [resend your confirmation link.](http://knoji.com/confirm-email-resend.php)
-
-Please confirm your email address
-
-x
-
-**We've sent a confirmation link** to your email address. Please **check your email** and click the link to confirm to your account. 
-
-Didn't get the email? First, try checking your spam inbox. If you can't find it, click here and we'll [resend your confirmation link.](http://knoji.com/confirm-email-resend.php)
-
-Great! Here's a preview of your question.
-
-x
-
-We've sent a confirmation link to your registration email address. Please click this link to confirm your email. 
-
-Your question will not be posted publicly until you confirm your email.
-
-Didn't get the email? First, try checking your spam inbox. If you can't find it, click here and we'll [resend your confirmation link.](http://knoji.com/confirm-email-resend.php)
-
-Your confirmation email has been resent
-
-x
-
-Please check your email (check your spam inbox too) and click on the link provided to confirm your account with Knoji. 
-
-You have received 0 answer votes on Knoji
-
-x
-
-When people like the answers you provide, they make a public acknowledgement by placing a vote for your answer. The more votes you accumulate on Knoji, the higher you move up in rank. Increased rank gives you increased capabilities, more perks and more expert cred around the site. 
-
-[Answer questions now](http://knoji.com/questions/all/needsanswers/today/1/) Learn more about user levels 
-
-Oops, you're out of question credits for today!
-
-x
-
-We limit the number of questions members can ask on Knoji each day in order to improve the quality of questions and answers. Your question credits will reset each day at midnight US Central time, so come back then to ask more questions! 
-
 User Levels on Knoji
 
 x
@@ -244,87 +164,6 @@ Must earn +50,000 votes
 +5,000 article recommendations AND +25,000 answer votes
 
 Increased earnings rate. Greater number of votes.
-
-Knoji Q&A Ambassador Program Guidelines
-
-x
-
-Asking questions
-
-Your primary job as an Ambassador is to kick off thoughtful discussion threads around products, services. Your discussions can be on any topic in Knoji's category system. Here are some examples of the types of discussions you'll be starting: 
-
-**Requests for recommendations for any type of product or service** , examples: 
-
-**Advice to solve a specific problem** , examples: 
-
-Answering questions
-
-  * People on Knoji ask questions seeking recommendations for products and services. We encourage our community members to answer questions whenever you can make a useful recommendation towards any request.
-  * When pointing to specific products, **please link to specific product pages** on [Amazon.com](http://www.amazon.com/) or [Walmart.com](http://www.walmart.com/)
-  * **UPDATE:** Ambassadors earn bonuses for answering questions, however - _only answers which include products links_ (as described above) will earn bonuses.
-  * You should **include screenshots** of the products you recommend (Ambassadors: you earn increased rewards when doing this)
-  * Try to recommend products that you've had personal experience with. If not, it is acceptable to recommend products or options based on thorough research you do online.
-
-
-
-Get started by adding to the discussion now!
-
-Q&A Ambassador Rewards Schedule
-
-x
-
-Ambassador Level
-
-Minimum Answer Votes to Qualify
-
-Reward for Asking Questions
-
-Reward for Answering Questions
-
-1
-
-+10
-
-$0.50
-
-$0.50 - $1.00
-
-2
-
-+200
-
-$0.75
-
-$0.75 - $1.25
-
-3
-
-+1,000
-
-$1.00
-
-$1.00 - $1.50
-
-Consumer Q&A Guidelines
-
-x
-
-Answering questions
-
-  * People on Knoji ask questions seeking recommendations for products and services. We encourage our community members to answer questions whenever you can make a useful recommendation towards any request.
-  * When pointing to specific products, please link to specific product pages on [Amazon.com](http://www.amazon.com/) or [Walmart.com](http://www.walmart.com/) (Ambassadors: You earn increased rewards when doing this)
-  * You should **include screenshots** of the products you recommend (Ambassadors: you earn increased rewards when doing this)
-  * Try to recommend products that you've had personal experience with. If not, it is acceptable to recommend products or options based on thorough research you do online.
-
-
-
-Asking questions
-
-On Knoji, you can ask any question about any consumer or shopping-related topic. Many questions involve **requests for recommendations for any type of product or service** , examples: 
-
-Some questions ask for **advice in solving a specific problem** , examples: 
-
-Get started by adding to the discussion now!
 
 What's a working, unique coupon?
 
