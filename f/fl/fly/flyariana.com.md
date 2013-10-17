@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flyariana.com privacy policy that was archived on 2013-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130622033715id_/http%3A//www.flyariana.com/Corp/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flyariana.com privacy policy that was archived on 2013-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131017114845id_/http%3A//www.flyariana.com/Corp/privacy.asp) for the most accurate reproduction.*
 
 # Ariana - Corporate Home page
 
