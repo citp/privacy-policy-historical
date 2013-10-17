@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gamenguide.com privacy policy that was archived on 2013-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130424160351id_/http%3A//www.gamenguide.com/aboutus/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamenguide.com privacy policy that was archived on 2013-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131017152646id_/http%3A//www.gamenguide.com/aboutus/privacy_policy.htm) for the most accurate reproduction.*
 
 # Gamenguide
 
