@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the wshome.com privacy policy that was archived on 2013-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130424175417id_/http%3A//www.williams-sonoma.com/customer-service/legal-statement.html%3Fcm_type%3Dfnav) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wshome.com privacy policy that was archived on 2013-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131017120103id_/http%3A//www.williams-sonoma.com/customer-service/legal-statement.html%3Fcm_type%3Dfnav) for the most accurate reproduction.*
 
 # Legal Statement | Williams-Sonoma
 
 Welcome to williams-sonoma.com ("Web Site")! We are part of "Williams-Sonoma, Inc. Brands" which includes Williams-Sonoma®, Pottery Barn®, pottery barn kids®, PBteen®, west elm®, Rejuvenation® and Mark and Graham®.
 
-Please take a few minutes to review these Terms and Conditions. Your purchase of products from us constitutes your agreement to follow these Terms and Conditions and to be bound by them.
+Please take a few minutes to review these Terms and Conditions. These Terms and Conditions apply to your access and use of the Web Site and our mobile applications. Your use of our Web Site or our mobile application constitutes your agreement to follow these Terms and Conditions and to be bound by them.
 
 ### These Terms and Conditions May Change
 
@@ -12,7 +12,7 @@ Williams-Sonoma, Inc. Brands reserves the right to update or modify these Terms 
 
 ### Shipping and Processing Fees
 
-Our shipping and processing charges are intended to compensate our company for the cost of processing your order, handling and packing the products you purchase and delivering them to you. We encourage you to also review detailed information about our [shipping and processing fees](http://www.williams-sonoma.com/customer-service/shipping-info.html?cm_type=fnav "shipping and processing fees").
+Our shipping and processing charges are intended to compensate our company for the cost of processing your order, handling and packing the products you purchase and delivering them to you. We encourage you to also review detailed information about our [shipping and processing fees](http://www.williams-sonoma.com/customer-service/shipping-info.html?cm_type=fnav&custSvsId=shippingInfo "shipping and processing fees").
 
 Back to Top
 
@@ -30,7 +30,7 @@ Back to Top
 
 ### Disclaimer
 
-This Web Site and all Content available on this Web Site are provided on an "as is" basis without warranties of any kind, either express or implied, including without limitation warranties of title or implied warranties of merchantability or fitness for a particular purpose. You acknowledge, by your use of this Web Site, that your use of this Web Site is at your sole risk, that you assume full responsibility for all costs associated with all necessary servicing or repairs of any equipment you use in connection with your use of this Web Site, and that Williams-Sonoma, Inc. Brands shall not be liable for any damages of any kind related to your use of this Web Site.
+This Web Site and our mobile applications, and all Content available on this Web Site, our mobile applications, or both, are provided on an "as is" and "as available" basis without warranties of any kind, whether express, implied, statutory, or otherwise, including without limitation warranties of title or implied warranties of merchantability, non-infringement, or fitness for a particular purpose. You acknowledge, by your use of this Web Site or our mobile applications, as applicable, that your use is at your sole risk, that you assume full responsibility for all costs associated with all necessary servicing or repairs of any equipment you use in connection with your use, and that Williams-Sonoma, Inc. Brands shall not be liable for any damages of any kind related to your use of this Web Site or our mobile applications. Some jurisdictions do not allow the exclusion of certain warranties or the limitation or exclusion of liability for damages. Accordingly, some of the above limitations and disclaimers may not apply to you. To the extent we may not, as a matter of applicable law, disclaim any warranty or limit our liability, the scope and duration of such warranty and the extent of our liability will be the minimum permitted under such law.
 
 ### Product Pricing Information
 
@@ -46,29 +46,27 @@ Occasionally we will offer special promotions to our customers that we refer to 
 
 From time to time there may be information on our Web Site or in our catalog that contains typographical errors, inaccuracies, or omissions that may relate to product descriptions, pricing, and availability. Williams-Sonoma, Inc. Brands reserves the right to correct any errors, inaccuracies or omissions and to change or update information at any time without prior notice (including after you have submitted your order).
 
-### Australian customers
-
-You may have rights under the _Australian Consumer Law_ that are in addition to your rights under these Terms and Conditions. Nothing in these Terms and Conditions excludes, restricts or modifies those rights. To the fullest extent permitted by law, Williams-Sonoma, Inc.'s liability for breach of any consumer guarantee, which cannot be excluded, is limited at the option of Williams-Sonoma, Inc. to: (a) In the case of services supplied or offered by Williams-Sonoma, Inc. which are not of a kind ordinarily acquired for personal, domestic or household use or consumption (i) the supply of services again, or (ii) the payment of the cost of having services supplied again; and (b) In the case of goods supplied or offered by Williams-Sonoma, Inc. which are not of a kind ordinarily acquired for personal, domestic or household use or consumption (i) replacing, or paying the cost of replacing the goods, or (ii) repairing or paying the cost of repairing the goods. To the extent that Williams-Sonoma, Inc. can exclude liability, it does so. 
-
 * * * * * * * * * *
 
 Any action relating to the use of the Web Site, catalogs or any transaction with Williams-Sonoma, Inc. must be brought in the state or federal courts located in the County of San Francisco, California.
 
-Last Updated: November 2012
+Last Updated: August 2013
 
 Back to Top
 
-We are part of the "Williams-Sonoma, Inc. Brands" which includes Williams-Sonoma, Pottery Barn, pottery barn kids, PBteen, west elm, Rejuvenation and Mark and Graham. Williams-Sonoma, Inc. Brands are committed to respecting your privacy and recognizing your need for appropriate protection and management of contact information you share with us (the phrase "contact information" means any information by which you can be contacted or identified, such as your name, mailing address, email address, telephone number, etc.). The purpose of this Privacy Policy is to inform you what information we may collect from you, how we use such information, and the choices you have regarding our use of, and your ability to review, correct and opt out of our use of, the information. By using any of our web sites or sharing your contact information with us, you are accepting and consenting to the practices described in this Privacy Policy.
+We are part of the Williams-Sonoma, Inc. Brands which includes Williams-Sonoma, Pottery Barn, pottery barn kids, PBteen, west elm, Rejuvenation and Mark and Graham. Williams-Sonoma, Inc. Brands are committed to respecting your privacy and recognizing your need for appropriate protection and management of contact information you share with us (the phrase contact information means any information by which you can be contacted or identified, such as your name, mailing address, email address, telephone number, etc.). The purpose of this Privacy Policy is to inform you what information we may collect from you, how we use such information, and the choices you have regarding our use of, and your ability to review, correct and opt out of our use of, the information. This Privacy Policy applies to information we collect about you in our stores and through our websites and mobile applications. By using any of our web sites, mobile applications, or sharing your contact information with us, you are accepting and consenting to the practices described in this Privacy Policy.
 
-As a part of our commitment to your privacy, Williams-Sonoma, Inc. Brands support and adhere to the guidelines and practices adopted by the Direct Marketing Association's "Privacy Promise to American Consumers." We have agreed to (1) provide customers with notice of their ability to opt out of information rental, sale, or exchange with other marketers; (2) honor customers' requests not to share their contact information with other marketers; and (3) honor customers' requests not to receive mail, telephone, or other solicitations from Williams-Sonoma, Inc. Brands.
+As a part of our commitment to your privacy, Williams-Sonoma, Inc. Brands support and adhere to the guidelines and practices adopted by the Direct Marketing Association's Privacy Promise to American Consumers. We have agreed to (1) provide customers with notice of their ability to opt out of information rental, sale, or exchange with other marketers; (2) honor customers' requests not to share their contact information with other marketers; and (3) honor customers' requests not to receive mail, telephone, or other solicitations from Williams-Sonoma, Inc. Brands.
 
 ### Collecting Information About You
 
-There may be times (such as when you purchase or order a product, subscribe to a service, register to receive catalogs, or to participate in contests, sweepstakes or promotions, etc.) when we ask you to provide certain contact information about yourself, such as your name, shipping/billing address, telephone number, email address, credit card information, birth date, gender, occupation, personal interests, and other information. We may also maintain a record of your product purchases.
+There may be times (such as when you purchase or order a product, subscribe to a service, register to receive catalogs, or to participate in contests, sweepstakes or promotions, etc.) when we ask you to provide certain contact information about yourself, such as your name, shipping/billing address, telephone number, email address, social media user name, credit card information, birth date, gender, occupation, personal interests, and other information. We may also maintain a record of your product purchases.
 
 Whether or not to provide such information is completely your own choice. But if you choose not to provide the information we request, you may be unable to purchase products, or access certain services, offers and content on our web sites. In addition, we may need to contact you via phone, email or mail to address questions or issues specific to your order, entry, etc., even if you have opted to not receive marketing communications from us.
 
-In general, you can visit many of our web pages without telling us who you are or revealing any contact information about yourself. We may track the Internet domain address from which people visit us and analyze this data for preferences, trends, and site usage statistics, but individual users will remain anonymous, unless you voluntarily tell us who you are.
+In general, you can visit many of our web pages without telling us who you are or revealing any contact information about yourself. We may track the Internet domain address from which people visit us and analyze this data for preferences, trends, and site usage statistics, but individual users will remain anonymous, unless you voluntarily tell us who you are. We may also receive anonymous usage data from your mobile phone or other device you use to access our web sites or our mobile applications, including location data.
+
+If you access any of our websites or mobile applications with your log-in credentials from a social networking site (e.g., facebook or twitter) or if you otherwise agree to associate your account with us with a social networking site, we may receive personal information about you from such social networking site, in accordance with the terms of use and privacy policy of the social networking site. We may add this information to the information we have already collected from you via our stores, websites and mobile applications.
 
 ### Using Information About You
 
@@ -99,10 +97,10 @@ In certain instances we may disclose your contact information when we have reaso
 
 We want to communicate with you only if you want to hear from us. If you prefer not to receive direct marketing from us or from our Select Partners, or if you would like to opt out of our rental or exchange of your information with other marketers, please let us know. In the U.S., you can call us at 800.541.1262 or send us an [email](http://www.williams-sonoma.com/customer-service/email-us/?cm_type=fnav "email"). Outside of the U.S., you can call us at 405.717.6139 or send us an [email](http://www.williams-sonoma.com/customer-service/email-us/?cm_type=fnav "email"). Please be sure to include your full name, email address, mailing address, and specifically what information you do not want to receive. If you would like to update or correct your email address, mailing address or other contact information with us please contact us the same way. If you like, you may use either of the following statements in your message to us:
 
-  * "I prefer not to receive email advertisements, such as updates regarding products and services, special promotions   
-or upcoming events."
-  * "I prefer not to receive direct mail advertisements, such as periodic catalogs and mailings regarding products and   
-services, special promotions or upcoming events."
+  * I prefer not to receive email advertisements, such as updates regarding products and services, special promotions   
+or upcoming events.
+  * I prefer not to receive direct mail advertisements, such as periodic catalogs and mailings regarding products and   
+services, special promotions or upcoming events.
 
 
 
@@ -114,11 +112,11 @@ Back to Top
 
 ### International Customer Privacy
 
-For international shipping orders, Williams-Sonoma, Inc. Brands partner with FiftyOne, Inc. ("FiftyOne"). We have contracted with FiftyOne to assure that they will carefully process your information consistent with this Privacy Policy.
+For international shipping orders, Williams-Sonoma, Inc. Brands partner with Borderfree, Inc. ("Borderfree"). We have contracted with Borderfree to assure that they will carefully process your information consistent with this Privacy Policy.
 
-When we identify that your order is one that will be shipped internationally, we work with FiftyOne to complete your order. On the checkout page, you will be required to submit credit card and contact information (name, billing address, shipping address, email address and phone number) to FiftyOne to complete your order. Upon completion of your order, FiftyOne will notify us of the approval of your order, and we will then ship approved orders to FiftyOne. Simultaneously, FiftyOne will purchase the product from us, which allows them to take title to the product(s), bill your credit card, collect and remit any duties and taxes to the appropriate taxing authority and arrange for the product to be delivered to you. In this process, FiftyOne makes the sale to you as the merchant of record. When ordering a product, you will be presented with FiftyOne's terms and conditions to which you must agree in order to receive the product(s) you ordered.
+When we identify that your order is one that will be shipped internationally, we work with Borderfree to complete your order. On the checkout page, you will be required to submit credit card and contact information (name, billing address, shipping address, email address and phone number) to Borderfree to complete your order. Upon completion of your order, Borderfree will notify us of the approval of your order, and we will then ship approved orders to Borderfree. Simultaneously, Borderfree will purchase the product from us, which allows them to take title to the product(s), bill your credit card, collect and remit any duties and taxes to the appropriate taxing authority and arrange for the product to be delivered to you. In this process, Borderfree makes the sale to you as the merchant of record. When ordering a product, you will be presented with Borderfree's terms and conditions to which you must agree in order to receive the product(s) you ordered.
 
-Once you place your order, you will be prompted to check the box to indicate if you would like to receive information from Williams-Sonoma, Inc. Brands regarding offers and promotions that may be available from time to time. If you check the box, FiftyOne will share your information with Williams-Sonoma, Inc. Brands, and we will protect and use your information in accordance with this Privacy Policy.
+Once you place your order, you will be prompted to check the box to indicate if you would like to receive information from Williams-Sonoma, Inc. Brands regarding offers and promotions that may be available from time to time. If you check the box, Borderfree will share your information with Williams-Sonoma, Inc. Brands, and we will protect and use your information in accordance with this Privacy Policy.
 
 If you choose to provide Williams-Sonoma, Inc. Brands with your information, you consent to the transfer and storage of that information on our servers located in the United States.
 
@@ -128,7 +126,7 @@ For European Union or Swiss residents, any questions or concerns regarding the u
 
 ### Cookies
 
-When you visit our web sites, we send one or more "cookies" to your computer or other device. We may also use cookies in emails that you receive from us. A "cookie" is a small data file that is placed on the hard drive of your computer when you visit a web site. A "session cookie" expires immediately when you end your session (i.e., close your browser). A "persistent cookie" stores information on the hard drive so when you end your session and return to the same web site at a later date the cookie information is still available. Generally, we use cookies to improve the quality of our service when you visit our web site and other web sites of interest to you. We also use cookies to remind us of who you are, tailor our products, services and advertising to suit the personal interests of you and others, estimate our audience size, assist our online merchants to track visits to and sales at our web sites and to process your order, track your status in our promotions, contests and sweepstakes, and/or analyze your visiting patterns.
+When you visit our web sites, we send one or more cookies to your computer or other device. We may also use cookies in emails that you receive from us. A cookie is a small data file that is placed on the hard drive of your computer when you visit a web site. A session cookie expires immediately when you end your session (i.e., close your browser). A persistent cookie stores information on the hard drive so when you end your session and return to the same web site at a later date the cookie information is still available. Generally, we use cookies to improve the quality of our service when you visit our web site and other web sites of interest to you. We also use cookies to remind us of who you are, tailor our products, services and advertising to suit the personal interests of you and others, estimate our audience size, assist our online merchants to track visits to and sales at our web sites and to process your order, track your status in our promotions, contests and sweepstakes, and/or analyze your visiting patterns.
 
 Certain of our Service Providers may use cookies and collect information on our behalf. They are prohibited by our contract with them from sharing that information with anyone other than us or our other Service Providers. However, we respect your right to choose whether to be included in such services. You may opt out of certain of these services by clicking [here](http://www.williams-sonoma.com/popup/customer-service/cm-opt-out.html?cm_type=fnav). In addition, in connection with the services that they provide to us, certain of our Service Providers may work with third parties who may use cookies to collect anonymous information to tailor advertising for you and others elsewhere on the Internet. These third parties do not have access to any contact information about you. If you would like to opt out of accepting cookies altogether, you can generally set your browser to not accept cookies or to notify you when you are sent a cookie, giving you the chance to decide whether or not to accept it. However, certain features of our web sites or other services may not work if you delete or disable cookies.
 
@@ -156,32 +154,11 @@ Our web sites may contain links to web sites operated and maintained by third pa
 
 If we decide to change our privacy policy in whole or in part, we will inform you by posting a notice on our web sites, as applicable. Those changes will go into effect on the effective date posted in the notice and at the end of the revised Privacy Policy. The new policy will apply to all current and past users of our web sites and will replace any prior policies that are inconsistent. Your continued use of our web sites or other services constitutes your acceptance of the practices described in the revised Privacy Policy.
 
-### Australian Residents
-
-In addition to the above terms, the following terms of this Privacy Policy also apply to Australian residents using this website:
-
-  * You consent to (i) the disclosure, transfer and storage of information about you (including contact information) by us to   
-our Select Partners and our Service Providers located in the United States and in other countries in accordance with   
-this Privacy Policy and (ii) all other practices and actions described in this Privacy Policy.
-  * You acknowledge that by consenting to the disclosure of information about you to our Select Partners and/or our   
-Service Providers our obligations under the Privacy Act 1988 (Cth) now or in the future (if any) to ensure that our   
-Select Partners and/or Service Providers comply with their privacy policies and/or any applicable privacy principles   
-under the Privacy Act 1988 (Cth) may cease.
-  * You acknowledge that the data privacy laws of the United States and other countries where our Select Partners and/or   
-Service Providers are located may not provide the same level of protection for your information as Australia.
-  * You consent to receive direct marketing (including electronic marketing materials) from us, until such time as you   
-unsubscribe from such, and for us to provide your details to and to receive direct marketing (including electronic   
-marketing materials) from our Select Partners and others.
-
-
-
-You may [email](mailto:international@williams-sonoma.com "email") us and request us to provide details of the information, including contact information, that we hold about you in which case we may require you to pay the reasonable cost of providing access to any such information (but we will not charge you for lodging a request for access).
-
 ### Your Feedback
 
 To help us improve our privacy policy and practice, please give us your feedback. In the U.S., you can call us at 800.541.1262 or send us an [email](http://www.williams-sonoma.com/customer-service/email-us/?cm_type=fnav "email"). Outside of the U.S., you can call us at 405.717.6139 or send us an [email](http://www.williams-sonoma.com/customer-service/email-us/?cm_type=fnav "email").
 
-Effective Date: November 8 2012
+Effective Date: August 15, 2013
 
 Back to Top
 
