@@ -1,0 +1,35 @@
+> *The following text is extracted and transformed from the unseen.is privacy policy that was archived on 2013-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131017083301id_/https%3A//unseen.is/privacy.html) for the most accurate reproduction.*
+
+# Unseen | Unseen Privacy Policy
+
+Unseen, efh. (“Unseen,” “we,” “our,” or “us”) offers a secure messaging service (the “Service”). Unseen is committed to protecting the privacy of any personally identifiable information that Unseen may collect from you when you use the website at www.unseen.is (the “Website”) or the Service. This notice sets forth Unseen’s Privacy Policy. By accessing, using or registering at the Website or using the Service you are confirming your agreement to the terms of the this Privacy Policy. You also should review the Unseen Terms of Service for more information about the policies governing your use of the Website and Service.
+
+1.  THE SERVICE.  Unseen’s Service encrypts your email messages using encryption keys that are themselves encrypted based on your passphrase.  Only you know your passphrase. The Service transmits and stores your email messages, but Unseen and its personnel cannot decrypt these email messages because to do so your passphrase is needed but is not available.  Upon a lawful demand by a court or other governmental authority, Unseen may be required to provide your encrypted email message files and your encrypted keys. Unseen, however, does not have access to your passphrase and thus is unable to provide it.
+
+2.  INFORMATION COLLECTED.  Unseen in good faith will keep the information we collect from you at the minimum necessary to provide you the Service. Use of the Service requires that when you register you share with Unseen your email address, telephone number and other personal identifying information. Unseen also collects and stores personal identifying information when you pay for the premium Service. The personal identifying information collected for the payment transaction may include your name, address, telephone number, credit card number and credit card security code.
+
+We also may automatically collect and store certain types of non-personal identifying information when you visit the Website and use the Service. For example, we may use “cookies” to obtain information when you access this website. Such information may include your internet protocol (IP) address, your browser type, the date and time of your visit, your hardware type and model, your device identifier, the operating system of your computer, network information, and the domain name of your internet service provider. This information is used to facilitate access to and improve the Website and Service and to provide the Service.
+
+3.  USE OF PERSONAL IDENTIFYING INFORMATION.  All personal identifying information, such as email address, phone number or other personal identifying information, provided to Unseen by you is private and will be used only (a) to provide the Service, (b) to provide you notices about the Service, (c) to process your payments, (d) to validate your email address or phone number, and (e) if you grant Unseen permission, to link Unseen users with each other. Unseen shall not otherwise sell or disclose your personal identifying information to any third party unless required to do so by law or in the good faith belief that such action is necessary to (a) conform to the law or comply with legal process served on Unseen, or (b) protect and defend the rights or property of Unseen. If Unseen shares personal identifying information with a third party, such as a credit card processing company, Unseen will, to the extent practical, require that the recipient protect such information in a manner consistent with this Privacy Policy, but Unseen cannot guarantee how such a third party will use personal identifying information. 
+
+Unseen also may use non-personal identifying summary or aggregate information that Unseen collects to improve the Website and Service. Personal identifying information that you provide is an asset of Unseen which may be included in assets transferred to an acquirer if Unseen is acquired by a third party.
+
+At any time, you may choose to no longer receive emails from Unseen by contacting us at support@unseen.is.
+
+It is Unseen's policy to respect the privacy of all users, but we cannot guarantee that user information will not be disclosed.
+
+4\. EMAIL MESSAGES AND KEYS.  Unseen has access to and stores only your encrypted email messages and your encrypted encryption keys. Because the encryption is based on your passphrase, to which we do not have access, Unseen cannot unencrypt your email messages.
+
+5.  LINKS TO THIRD PARTY WEBSITES.  We provide links to websites of third parties as a service to users of our Website. We cannot control and are not responsible for the information collection and privacy practices of such third-party websites, which may differ from the privacy policies of Unseen.
+
+6.  Access to and Correction of Personal Information.  By following the instructions on the Website, you may access, correct, update, and/or delete any personal identifying information that you have provided to Unseen through the Website and you may unsubscribe from the Service.
+
+7.  DISCLAIMER.  Unseen has implemented generally accepted standards of technology and operational security in order to protect personal identifying information from loss, misuse, alteration, or destruction. Only authorized Unseen personnel are provided access to personal identifying information, and such personnel are required to treat such information as confidential. Despite these precautions, Unseen cannot guarantee that unauthorized persons will not obtain access to your personal identifying information.
+
+8.  Children’s On-Line Privacy Protection.  Unseen understands the importance of protecting the privacy of children, especially in an on-line environment. The Website is not intentionally designed for or directed at children 13 years of age or younger, and Unseen will not intentionally collect or maintain information about anyone under the age of 13.
+
+9.  CONSENT, MODIFICATION.  By using the Website, you consent to the collection, use, and storage of your information by Unseen in the manner described in this Privacy Policy. Your access to and registration on the Website and use of the Service and any dispute with Unseen concerning privacy will be subject to the provisions of the this Privacy Policy and the Unseen Terms of Service. Unseen reserves the right, in its sole discretion, to change, modify, add, or remove portions of the this Privacy Policy at any time. Please check this page periodically for changes. You agree that your use of the Website and Service will be subject to and bound by the then-current version of the Unseen Privacy Policy.
+
+10.  CONTACT OUR PRIVACY DEPARTMENT.  If you have any questions about our Privacy Policy, please contact us at support@unseen.is.
+
+_May 13, 2013_
