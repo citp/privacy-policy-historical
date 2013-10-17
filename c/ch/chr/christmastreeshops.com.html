@@ -1,636 +1,159 @@
-<!--The following is the downloaded HTML source of the christmastreeshops.com privacy policy that was archived on 2013-06-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130602050017id_/http%3A//www.bedbathandbeyond.com/ctsprivacypolicy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the christmastreeshops.com privacy policy that was archived on 2013-10-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131017171938id_/http%3A//www.christmastreeshops.com/privacy) for the most accurate reproduction.-->
 
-<html><head><script language="Javascript">
-<!--
-function init()
-{
-	;
-}
-
-function onOpen()
-{
-	if ( window.focus )
-		window.focus();
-}
-
-var windowpic = null;
-var windowpic2 = null;
-var sBT = null;
-var sSubTotal = GetCookie( "subtotal" );
-if ( !sSubTotal )
-	sSubTotal = "<b>0</b>&nbsp;item(s)<br>sub-total:&nbsp;<b>$0.00</b><br>excludes&nbsp;gift&nbsp;cards";
-
-if ( GetCookie("bridal") )
-{
-	sBT = GetCookie("bt");
-	if ( !sBT )
-		sBT = 0;
-}
-
-function GetCookie( name )
-{
-	var arg = name + "=";
-	var alen = arg.length;
-	var clen = document.cookie.length;
-	var i = 0;
-
-	while (i < clen)
-	{
-		var j = i + alen;
-		if ( document.cookie.substring( i, j ) == arg )
-			return getCookieVal ( j );
-		i = document.cookie.indexOf(" ", i ) + 1;
-		if ( i == 0 )
-			break;
-	}
-
-	return null;
-}
-
-function getCookieVal( offset )
-{
-	var endstr = document.cookie.indexOf ( ";", offset );
-
-	if ( endstr == -1 )
-		endstr = document.cookie.length;
-
-	return unescape( document.cookie.substring( offset, endstr ) );
-}
-
-function getURLArgs()
-{
-	var url;
-	var parts = new Array();
-	var sArgs = "?";
-	url = document.location.href;
-	parts = url.split( "?" );
-
-	var query = new Array();
-	var param = new Array();
-	var i;
-
-	if ( parts.length > 1 )
-	{
-		query = parts[1].split( "&" );
-		i = 0;
-		while( i < query.length )
-		{
-			param = query[i].split( "=" );
-			if ( param[0].toUpperCase() == "BRN" )
-				sArgs += "BRN=" + param[1] + "&";
-			if ( param[0].toUpperCase() == "WRN" )
-				sArgs += "WRN=" + param[1] + "&";
-			if ( param[0].toUpperCase() == "MC" )
-				sArgs += "MC=" + param[1] + "&";
-			i++;
-		}
-	}
-
-	return sArgs;
-}
-
-function go()
-{
-	var sSearchText = document.search_prod.search.value;
-
-	if ( sSearchText == "enter keyword" || sSearchText == "" || sSearchText == " " )
-		return false;
-
-	var BTSmodeArgs = "";
-	if ( document.search_prod.section.value == '3' )
-		BTSmodeArgs = "BTSmode=true&";
-
-	while ( sSearchText.substring( 0, 1 ) == ' ')
-		sSearchText = sSearchText.substring( 1 );
-
-	while ( sSearchText.substring( sSearchText.length-1, sSearchText.length ) == ' ' )
-		sSearchText = sSearchText.substring( 0, sSearchText.length-1 );
-
-	document.search_prod.search.value = sSearchText
-	var len = sSearchText.length;
-	var strOut = "";
-	var i = 0;
-	var j = 0;
-	while (i < len)
-	{
-		j = sSearchText.indexOf( " ",i );
-		if (j > i)
-		{
-			strOut += sSearchText.substring( i, j ) + "+";
-			i = j + 1;
-		}
-		else
-		{
-			strOut += sSearchText.substring( i, len );
-			i = len;
-		}
-	}
-	strOut = escape( strOut );
-	
-		window.location = "/searchSKU.asp"+getURLArgs()+"SSTR="+strOut+"&go=1&"+BTSmodeArgs;
-
-	return false;
-}
-
-function OpenPopupWindow( sURL, width, height, scbar, tbar )
-{
-	if ( isNaN( width ) )
-		width=390;
-	if ( isNaN( height ) )
-		height=427;
-	if ( scbar != "yes" )
-		scbar = "no";
-	if ( tbar != "yes" )
-		tbar = "no";
-
-	var bars = "menubar=no,toolbar=no";
-	if ( tbar == "yes" )
-		bars = "menubar=no,toolbar=no";
-
-	var strwindow = "toolbar=no,width=" + width + ",height=" + height + ",directories=no,location=yes,status=no,scrollbars="+scbar+"," + bars + ",resizable=yes";
-	if ( navigator.appName == "Microsoft Internet Explorer" )
-		strwindow = "toolbar=no,width=" + (width-10) + ",height=" + (height-5) + ",directories=no,location=yes,status=no,scrollbars="+scbar+"," + bars + ",resizable=yes";
-
-	if ( window.screen )
-	{
-		var aw = screen.availWidth - 50;
-		var ah = screen.availHeight - 120;
-		var nwidth = width;
-		var nheight = height;
-		strwindow = "width=" + nwidth + ",height=" +nheight + strwindow;
-		strwindow += ",left=" + ( ( aw - nwidth ) / 2);
-		var nTop = ( ah - nheight ) / 2;
-		if (nTop < 0 )
-			nTop = 0;
-		strwindow += ",top=" + nTop;
-	}
-	
-	var sWinName = "wwchild";
-	if ( sURL == "http://bedbathandbeyond.custhelp.com" )
-		sWinName = sWinName + "2";
-	windowpic = window.open(sURL, sWinName, strwindow);	
-	windowpic.focus();
-}
-
-function OpenNewWindow( sURL, width, height, scbar, tbar )
-{
-	if ( isNaN( width ) )
-		width=390;
-	if ( isNaN( height ) )
-		height=427;
-	if ( scbar != "yes" )
-		scbar = "yes";
-	if ( tbar != "yes" )
-		tbar = "yes";
-
-	var bars = "menubar=yes,toolbar=yes";
-	if ( tbar == "yes" )
-		bars = "menubar=yes,toolbar=yes";
-
-	var strwindow = "toolbar=yes,width=" + width + ",height=" + height + ",directories=yes,location=yes,status=yes,scrollbars="+scbar+"," + bars + ",resizable=yes";
-	if ( navigator.appName == "Microsoft Internet Explorer" )
-		strwindow = "toolbar=yes,width=" + (width-10) + ",height=" + (height-5) + ",directories=yes,location=yes,status=yes,scrollbars="+scbar+"," + bars + ",resizable=yes";
-
-	if ( window.screen )
-	{
-		var aw = screen.availWidth - 50;
-		var ah = screen.availHeight - 120;
-		var nwidth = width;
-		var nheight = height;
-		strwindow = "width=" + nwidth + ",height=" +nheight + strwindow;
-		strwindow += ",left=" + ( ( aw - nwidth ) / 2);
-		var nTop = ( ah - nheight ) / 2;
-		if (nTop < 0 )
-			nTop = 0;
-		strwindow += ",top=" + nTop;
-	}
-	
-	window.open (sURL, '', strwindow);
-}
-
-
-//-->
-</script>
-<script language="Javascript">
-<!--
-	if ( top != self ) top.location = self.location;
-//-->
+<!DOCTYPE html><html lang="en"><head>
+		<meta charset="utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+		<title>Privacy Policy » Christmas Tree Shops</title>
+				<meta name="viewport" content="width=1024">
+		<link rel="dns-prefetch" href="//google-analytics.com">
+		<link rel="dns-prefetch" href="//www.google-analytics.com">
+		<link rel="dns-prefetch" href="//ajax.googleapis.com">
+		<link rel="dns-prefetch" href="//use.typekit.net">
+		
+		<link rel="shortcut icon" href="http://ab620a29e3012eadabb5-a020cb7f4965f8a3f73118dcef6ab92a.r54.cf2.rackcdn.com/favicon.ico">
+		<link rel="apple-touch-icon" href="http://ab620a29e3012eadabb5-a020cb7f4965f8a3f73118dcef6ab92a.r54.cf2.rackcdn.com/apple-touch-icon.png">
+		
+		<link rel="stylesheet" href="http://ab620a29e3012eadabb5-a020cb7f4965f8a3f73118dcef6ab92a.r54.cf2.rackcdn.com/assets/css/cached.css">
+		
+		<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="//use.typekit.net/lke3daw.js"></script>
+		<script>try{Typekit.load();}catch(e){}</script>
+		<script src="http://ab620a29e3012eadabb5-a020cb7f4965f8a3f73118dcef6ab92a.r54.cf2.rackcdn.com/assets/js/modernizr.min.js"></script>
+		<script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+		<script>window.jQuery || document.write('<script src="http://ab620a29e3012eadabb5-a020cb7f4965f8a3f73118dcef6ab92a.r54.cf2.rackcdn.com/assets/js/jquery.min.js"><\/script>')</script><script src="http://ab620a29e3012eadabb5-a020cb7f4965f8a3f73118dcef6ab92a.r54.cf2.rackcdn.com/assets/js/jquery.min.js"></script>
+		<script src="http://ab620a29e3012eadabb5-a020cb7f4965f8a3f73118dcef6ab92a.r54.cf2.rackcdn.com/assets/js/cached.js"></script>
+				
+		<!--[if IE 6]><link rel="stylesheet" href="http://ab620a29e3012eadabb5-a020cb7f4965f8a3f73118dcef6ab92a.r54.cf2.rackcdn.com/assets/css/ie6.css"><![endif]-->
+		<!--[if lte IE 7]><link rel="stylesheet" href="http://ab620a29e3012eadabb5-a020cb7f4965f8a3f73118dcef6ab92a.r54.cf2.rackcdn.com/assets/css/ie67.css"><![endif]-->
+		<!--[if lt IE 9]><link rel="stylesheet" href="http://ab620a29e3012eadabb5-a020cb7f4965f8a3f73118dcef6ab92a.r54.cf2.rackcdn.com/assets/css/ie678.css"><![endif]-->
+		<!--[if (lt IE 9) & (gte IE 7)]><link rel="stylesheet" href="http://ab620a29e3012eadabb5-a020cb7f4965f8a3f73118dcef6ab92a.r54.cf2.rackcdn.com/assets/css/ie78.css"><![endif]-->
+		
+		<script>
+	var _gaq = _gaq || [];
+	_gaq.push(['_setAccount', 'UA-1966617-7']);
+	_gaq.push(['_trackPageview']);
+	(function() {
+		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	})();
 </script>
 
+		
+	</head>
+	<body>
+		<div id="masthead">
+			<div class="wrapper">
+				<h1><a href="/"><strong>Christmas Tree Shops</strong></a></h1>
+				<nav id="top-menu">
+					<ul><li><a href="/">Home</a></li><li><a href="/featured-products">Learn</a></li><li><a href="/locations">Locations</a></li><li><a href="/about-us">About Us</a></li><li><a href="/careers">Careers</a></li></ul>
+				</nav>
+				<div id="flyer-top"></div>
+				<div id="new-store"></div>
+			</div>
+		</div>
+		<nav id="main-menu-container">
+			<div class="wrapper">
+			<ul id="main-menu"><li class="first"><a href="/seasonal">Seasonal</a></li><li><a href="/furniture">Furniture</a></li><li><a href="/home-decor">Home Décor</a></li><li><a href="/kitchen-dining">Kitchen &amp; Dining</a></li><li><a href="/gifts">Gifts</a></li><li><a href="/food">Food</a></li><li><a href="/outdoor-living">Outdoor Living</a></li></ul>
+			</div>
+		</nav>
+		<div id="ornaments">
+							<nav class="wrapper" id="breadcrumb">
+	<ul class="clearself">
+		<li><a href="/">Home</a></li>
+	
+			<li>Privacy Policy</li>
+		
+		
+	</ul>
+</nav>
 
+									<div class="wrapper" id="primary">
+							<div id="content">
+						
+<header>
+	<h1>Privacy Policy</h1>
+</header>
+<article>
+	
+	<section>
+	<h3>Policy Effective Date: This policy became effective on April 18, 2006.</h3>
+	<p>At Christmas Tree Shops we are committed to protecting the privacy of our customers, which is why we do not sell or rent any personal identifiable information regarding our customers to any third party. We hope the policy below will answer all of your questions regarding how we treat information gathered from visitors to christmastreeshops.com. Feel free to e-mail us at webmaster@christmastreeshops.com with any questions you might have.</p>
+	<h2>What Information We Collect</h2>
+	<p>In order to process your order efficiently, we collect the following information: name, billing address, shipping address, e-mail address, phone number, and credit card number ("Personal Information") when you place an order with us. We also may periodically conduct surveys of visitors to our Web site. This helps us better understand what our customers would like to see from us. We use this information for internal marketing research purposes. We may contact a visitor who responded to a survey for more information, but only if that visitor has told us that they don't mind being contacted.</p>
+	<p>With respect to emails that you may receive from us, we capture data related to the opening and click-through from these emails. This information is used for internal Christmas Tree Shops review and analysis only.</p>
+	<h2>Use of Information that You Provide</h2>
+	<p>At Christmas Tree Shops we collect Personal Information only for the purposes of fulfilling orders, providing a high level of customer service, and gaining knowledge internally regarding our customers’ needs. We do not give or sell Personal Information to any other party, except to our employees and agents whom we rely on to handle this information on our behalf in accordance with the above purposes.</p>
+	<h2>Release of Information to Protect Website and Others</h2>
+	<p>Christmas Tree Shops may release Personal Information when we believe, in good faith, that such release is necessary to comply with law, protect the rights, properties or safety of Christmas Tree Shops, our users or others, or enforce or apply the terms of any of our user agreements.</p>
+	<h2>How to Opt-out</h2>
+	<p>We ask that you tell us when you do not wish to receive periodic e-mails from us. We will only send e-mail for customer service purposes and to those visitors who have indicated that they wish to receive other types of e-mail from us. If at any time you wish to stop receiving e-mail from us, you can always remove your name from our mailing list by sending an e-mail to webmaster@christmastreeshops.com stating that you wish to unsubscribe and indicating in the subject line of the e-mail "NO E-MAIL".	</p>
+	<h2>Security of the Information You Provide	</h2>
+	<p>Among our top priorities is keeping your Personal Information secure. We use Secure Sockets Layer (SSL) technology to encrypt all of your Personal Information before it is transmitted to us. Encrypted information cannot be read or recorded as it travels over the Internet. You can tell you are sending information securely by the unbroken key icon or closed lock icon that should appear at the bottom of your internet browser's window (depending on what browser you use). These icons will appear when you are placing an order on our Web site. In addition, you will see our site address change slightly, from http: to https: indicating a secure server connection is being used. The computers that store your Personal Information are located in a separate facility, which employs the latest in firewall and security technology.</p>
+	<p>If you prefer not to disclose your credit card information online, you can always place your gift card order by calling or visiting one of our many stores. Click here to locate the store nearest you and to receive driving directions.</p>
+	<h2>Use of Cookies</h2>
+	<p>We use cookies to provide our customers with streamlined ordering and other useful features. Cookies are pieces of information that are stored by your browser on your computer's hard drive. Cookies make Web surfing easier for you by saving your customer identification information while you're at our site. The use of cookies has become an industry standard used by most major Web sites. Most Web browsers automatically accept cookies, but you can usually change your browser to prevent acceptance. Please continue to review our privacy policy from time to time so that you are aware of our current policy with respect to cookies.</p>
+	<h2>Intended Users—Use By Children</h2>
+	<p>Our gift cards and any other products we may have available for sale on the Christmas Tree Shops website are intended to be purchased by adults. We do not knowingly collect personal information from children under 13 years of age. Christmas Tree Shops will promptly delete information provided by a child. Simply contact us at webmaster@christmastreeshops.com .</p>
+	<h2>Your Acceptance of these Terms</h2>
+	<p>By using our Web site, you agree to accept the Christmas Tree Shops privacy policy. Make sure you read this policy carefully, because if you do choose to use our Web site, you automatically agree to this policy. If you do not agree to this policy, please do not use our Web site. We reserve the right, at our discretion, to change, modify, add, or remove portions of this policy at any time. If this policy changes in the future, we will let you know by posting the policy on our Web site or by sending an email to our opt-in list. Please check this page periodically for changes. Your continued use of our Web site following the posting of changes to these terms will mean you accept those changes.</p>
+</section>
+</article>
+<hr class="final">
+				</div><!-- /content -->
+		</div><!-- /wrapper -->
+				<div class="wrapper" id="end-content">
+			<!-- Hack to make the red base layer work cross-browser. -->
+		</div>
+						<div class="wrapper">
+			<div id="cta">
+				<div id="gift2">
+					<a href="/gift-cards"><em>Gift Cards</em></a>
+				</div>
+				<div class="vdot"></div>
+				<div id="join2">
+					<a href="https://app.christmastreeshops.com/prefs/pref.cfm" id="join-link"><em>Join Our E-Mail</em></a>
+					<form action="https://app.christmastreeshops.com/prefs/pref.cfm" method="get" accept-charset="utf-8" class="cts-form">
+						<label for="ejoin2">Join our E-Mail</label>
+						<input type="text" name="email" value="Enter E-Mail" id="ejoin2">
+						<input type="submit" class="invisible-button" id="submit-email" value="">
+					</form>
+				</div>
+			</div>
+					</div><!-- /wrapper -->
+		<div class="wrapper" id="footer">
+			<div id="copyright">Copyright © 2006 – 2013 <strong>Christmas Tree Shops Inc.</strong> All rights reserved.</div>
+			<div id="important">
+				
+				<a href="/privacy">Privacy Policy</a>
+				
+				<a href="/safety-recalls">Safety and Recalls</a>
+				
+				<a href="/contact">Contact Us</a>
+				
+			</div>
+		</div><!-- /footer -->
+	</div><!-- /ornaments -->
+	<script>
+	$(document).ready(function(){
+		
+		$('#flyer-top').load('/flyer/exists');
+		$('.adverts article').before('');
+		$('#new-store').load('/locations/new-store-check')
+		
+		var esi = {};
+		
+		$('#current-email').html('');
+		
+		for (var i in esi) {
+			if (i>1) break;
+			$('#email-sidebar').html("<a href='/flyer/img/"+esi[i]['enc']+"' class='colorbox' title='Valid "+esi[i]['valid']+"'><div class='esi'><img src='"+esi[i]['img']+"' alt='*'></div></a><p>Valid "+esi[i]['valid']+"</p>");
+		}
+		
+	});
+</script>
 
-<title>CHRISTMAS TREE SHOPS PRIVACY POLICY</title>
-<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-<meta name="ROBOTS" content="NOINDEX, NOFOLLOW">
-<link rel="stylesheet" href="css/cts.css" type="text/css"><style type="text/css">@import url(css/cts.css); /*IE and NN6x styles*/</style>
-</head>
-<body bgcolor="#FFFFFF">
-
-<table width="93%" border="0">
-  <tbody><tr>
-    <td width="24%"><a href="http://www.christmastreeshops.com/"><img src="/img/CTS_White-Backround-logo.jpg" width="144" height="120" border="0"></a></td>
-    <td width="76%"><div align="left"><img src="/img/cts_bargain.gif" width="439" height="44"></div></td>
-  </tr>
-</tbody></table>
-<table width="99%" border="0">
-  <tbody><tr>
-    <td><hr></td>
-  </tr>
-</tbody></table>
-<table width="93%" border="0">
-  <tbody><tr>
-    <td width="90" align="left"><div align="center"><a href="http://www.christmastreeshops.com/frames.html" class="style4"><img src="/img/cts_ornamentlarge.gif" width="12" height="18" border="0"> Home</a></div></td>
-    <td width="96" align="left"><div align="center"><a href="http://www.christmastreeshops.com/Careers.html"><img src="/img/cts_ornamentlarge.gif" width="12" height="18" border="0"> Careers </a></div></td>
-    <td width="109" align="left"><p align="center"><a href="http://www.christmastreeshops.com/giftcard_page1.html"><img src="/img/cts_ornamentlarge.gif" width="12" height="18" border="0"> Gift Cards</a></p></td>
-    <td width="118" align="left"><div align="center"><a href="http://www.christmastreeshops.com/feedback.html"><img src="/img/cts_ornamentlarge.gif" width="12" height="18" border="0"> Contact Us</a></div></td>
-    <td width="80" align="left"><div align="center"><a href="http://www.bedbathandbeyond.com/cts/tabless.html"><img src="/img/cts_ornamentlarge.gif" width="12" height="18" border="0"> Flyer </a></div></td>
-    <td width="181" align="left"><div align="center"><a href="ctsSubscribe.asp"><img src="/img/cts_ornamentlarge.gif" width="12" height="18" border="0"> Join Our e-mail List </a></div></td>
-    <td width="10"><div align="center"></div></td>
-  </tr>
-</tbody></table>
-<table width="98%" border="0" cellspacing="0" cellpadding="0">
-  <tbody><tr>
-    <th scope="col"><hr></th>
-  </tr>
-</tbody></table>
-<table width="96%" border="0" cellspacing="0" cellpadding="0">
-<tbody><tr valign="top"><td width="20%" height="275">
-	<table width="206" border="0" cellpadding="0" cellspacing="0">
-		<tbody><tr>
-			<th scope="col"><span class="style31">Locations</span></th>
-		</tr>
-		<tr>
-			<td width="206"><div align="center"><a href="http://www.christmastreeshops.com/alabama.html">Alabama</a></div></td>
-		</tr>
-		<tr>
-			<td width="206"><div align="center"><a href="http://www.christmastreeshops.com/connecticut.html">Connecticut</a></div></td>
-		</tr>
-		<tr>
-			<td width="206"><div align="center"><a href="http://www.christmastreeshops.com/delaware.html">Delaware</a></div></td>
-		</tr>
-		<tr>
-			<td width="206"><div align="center"><a href="http://www.christmastreeshops.com/florida.html">Florida</a></div></td>
-		</tr>
-		<tr>
-			<td width="206"><div align="center"><a href="http://www.christmastreeshops.com/georgia.html">Georgia</a></div></td>
-		</tr>
-		<tr>
-			<td width="206"><div align="center"><a href="http://www.christmastreeshops.com/indiana.html">Indiana</a></div></td>
-		</tr>
-		<tr>
-			<td><div align="center"><a href="http://www.christmastreeshops.com/kentucky.html">Kentucky</a></div></td>
-		</tr>
-		<tr>
-			<td><div align="center"><a href="http://www.christmastreeshops.com/maine.html">Maine</a></div></td>
-		</tr>
-		<tr>
-			<td><div align="center"><a href="http://www.christmastreeshops.com/maryland.html">Maryland</a></div></td>
-		</tr>
-		<tr>
-			<td><div align="center"><a href="http://www.christmastreeshops.com/massachusetts.html">Massachusetts</a></div></td>
-		</tr>
-		<tr>
-			<td><div align="center"><a href="http://www.christmastreeshops.com/michigan.html">Michigan</a></div></td>
-		</tr>
-		<tr>
-			<td><div align="center"><a href="http://www.christmastreeshops.com/newhampshire.html">New Hampshire</a></div></td>
-		</tr>
-		<tr>
-			<td><div align="center"><a href="http://www.christmastreeshops.com/newjersey.html">New Jersey</a></div></td>
-		</tr>
-		<tr>
-			<td><div align="center"><a href="http://www.christmastreeshops.com/newyork.html">New York</a></div></td>
-		</tr>
-		<tr>
-			<td><div align="center"><a href="http://www.christmastreeshops.com/northcarolina.html">North Carolina</a></div></td>
-		</tr>
-		<tr>
-			<td><div align="center"><a href="http://www.christmastreeshops.com/ohio.html">Ohio</a></div></td>
-		</tr>
-		<tr>
-			<td><div align="center"><a href="http://www.christmastreeshops.com/pennsylvania.html">Pennsylvania</a></div></td>
-		</tr>
-		<tr>
-			<td><div align="center"><a href="http://www.christmastreeshops.com/rhodeisland.html">Rhode Island</a></div></td>
-		</tr>
-		<tr>
-			<td><div align="center"><a href="http://www.christmastreeshops.com/texas.html">Texas</a></div></td>
-		</tr>
-		<tr>
-			<td><div align="center"><a href="http://www.christmastreeshops.com/vermont.html">Vermont</a></div></td>
-		</tr>
-		<tr>
-			<td><div align="center"><a href="http://www.christmastreeshops.com/virginia.html">Virginia</a></div></td>
-		</tr>
-	</tbody></table>
-</td>
-
-<td width="75%" valign="top">
-<table border="0" cellspacing="0" cellpadding="0">
-	<tbody><tr>
-		<td><img src="/img/i.gif" width="20" height="2" border="0"></td>
-		<td><img src="/img/i.gif" width="1" height="2" border="0"></td>
-		<td><img src="/img/i.gif" width="20" height="20" border="0"></td>
-	</tr>
-	<tr align="center">
-		<td><img src="/img/i.gif" width="1" height="1" alt="" border="0"></td>
-		<td><span align="center"><b>CHRISTMAS TREE SHOPS <br> PRIVACY POLICY</b></span></td>
-		<td><img src="/img/i.gif" width="1" height="1" alt="" border="0"></td>
-	</tr>
-	<tr>
-		<td><img src="/img/i.gif" width="20" height="10" alt="" border="0"></td>
-		<td><img src="/img/i.gif" width="1" height="10" alt="" border="0"></td>
-		<td><img src="/img/i.gif" width="20" height="10" alt="" border="0"></td>
-	</tr>
-	<tr align="center">
-		<td><img src="/img/i.gif" width="1" height="1" alt="" border="0"></td>
-		<td><span align="center"><b>Policy Effective Date: This policy became effective on April 18, 2006.</b></span></td>
-		<td><img src="/img/i.gif" width="1" height="1" alt="" border="0"></td>
-	</tr>
-	<tr>
-		<td><img src="/img/i.gif" width="20" height="1" alt="" border="0"></td>
-		<td><img src="/img/i.gif" width="1" height="1" alt="" border="0"></td>
-		<td><img src="/img/i.gif" width="20" height="1" alt="" border="0"></td>
-	</tr>
-	<tr>
-		<td><img src="/img/i.gif" width="20" height="2" border="0"></td>
-		<td><img src="/img/i.gif" width="1" height="2" border="0"></td>
-		<td><img src="/img/i.gif" width="20" height="20" border="0"></td>
-	</tr>
-	<tr>
-		<td><img src="/img/i.gif" width="20" height="1" border="0"></td>
-		<td>At Christmas Tree Shops we are committed to protecting the privacy of our customers, which is why we do not sell or rent any personal identifiable information regarding our customers to any third party. We hope the policy below will answer all of your questions regarding how we treat information gathered from visitors to christmastreeshops.com.  Feel free to e-mail us at <a href="mailto:bargains@christmastreeshops.com">bargains@christmastreeshops.com </a> with any questions you might have.</td>
-		<td><img src="/img/i.gif" width="20" height="1" border="0"></td>
-	</tr>
-	<!-- What Information We Collect -->
-	<tr>
-		<td><img src="/img/i.gif" width="20" height="1" alt="" border="0"></td>
-		<td><img src="/img/i.gif" width="1" height="1" alt="" border="0"></td>
-		<td><img src="/img/i.gif" width="20" height="1" alt="" border="0"></td>
-	</tr>
-	<tr>
-		<td><img src="/img/i.gif" width="20" height="2" border="0"></td>
-		<td><img src="/img/i.gif" width="1" height="2" border="0"></td>
-		<td><img src="/img/i.gif" width="20" height="20" border="0"></td>
-	</tr>
-	<tr align="center">
-		<td><img src="/img/i.gif" width="1" height="1" alt="" border="0"></td>
-		<td><span align="center"><b><font color="#006666">What Information We Collect</font></b></span></td>
-		<td><img src="/img/i.gif" width="1" height="1" alt="" border="0"></td>
-	</tr>
-	<tr>
-		<td><img src="/img/i.gif" width="20" height="1" alt="" border="0"></td>
-		<td><img src="/img/i.gif" width="1" height="1" alt="" border="0"></td>
-		<td><img src="/img/i.gif" width="20" height="1" alt="" border="0"></td>
-	</tr>
-	<tr>
-		<td><img src="/img/i.gif" width="20" height="2" border="0"></td>
-		<td><img src="/img/i.gif" width="1" height="2" border="0"></td>
-		<td><img src="/img/i.gif" width="20" height="20" border="0"></td>
-	</tr>
-	<tr>
-		<td><img src="/img/i.gif" width="20" height="1" border="0"></td>
-		<td>In order to process your order efficiently, we collect the following information: name, billing address, shipping address, e-mail address, phone number, and credit card number ("Personal Information") when you place an order with us. We also may periodically conduct surveys of visitors to our Web site. This helps us better understand what our customers would like to see from us. We use this information for internal marketing research purposes. We may contact a visitor who responded to a survey for more information, but only if that visitor has told us that they don't mind being contacted.<p>With respect to emails that you may receive from us, we capture data related to the opening and click-through from these emails. This information is used for internal Christmas Tree Shops review and analysis only.</p></td>
-		<td><img src="/img/i.gif" width="20" height="1" border="0"></td>
-	</tr>
-	<!-- Use of Information that You Provide -->
-	<tr>
-		<td><img src="/img/i.gif" width="20" height="1" alt="" border="0"></td>
-		<td><img src="/img/i.gif" width="1" height="1" alt="" border="0"></td>
-		<td><img src="/img/i.gif" width="20" height="1" alt="" border="0"></td>
-	</tr>
-	<tr>
-		<td><img src="/img/i.gif" width="20" height="2" border="0"></td>
-		<td><img src="/img/i.gif" width="1" height="2" border="0"></td>
-		<td><img src="/img/i.gif" width="20" height="20" border="0"></td>
-	</tr>
-	<tr align="center">
-		<td><img src="/img/i.gif" width="1" height="1" alt="" border="0"></td>
-		<td><span align="center"><b><font color="#006666">Use of Information that You Provide</font></b></span></td>
-		<td><img src="/img/i.gif" width="1" height="1" alt="" border="0"></td>
-	</tr>
-	<tr>
-		<td><img src="/img/i.gif" width="20" height="1" alt="" border="0"></td>
-		<td><img src="/img/i.gif" width="1" height="1" alt="" border="0"></td>
-		<td><img src="/img/i.gif" width="20" height="1" alt="" border="0"></td>
-	</tr>
-	<tr>
-		<td><img src="/img/i.gif" width="20" height="2" border="0"></td>
-		<td><img src="/img/i.gif" width="1" height="2" border="0"></td>
-		<td><img src="/img/i.gif" width="20" height="20" border="0"></td>
-	</tr>
-	<tr>
-		<td><img src="/img/i.gif" width="20" height="1" border="0"></td>
-		<td>At Christmas Tree Shops we collect Personal Information only for the purposes of fulfilling orders, providing a high level of customer service, and gaining knowledge internally regarding our customers’ needs. We do not give or sell Personal Information to any other party, except to our employees and agents whom we rely on to handle this information on our behalf in accordance with the above purposes</td>
-		<td><img src="/img/i.gif" width="20" height="1" border="0"></td>
-	</tr>
-	<!-- Release of Information to Protect Website and Others -->
-	<tr>
-		<td><img src="/img/i.gif" width="20" height="1" alt="" border="0"></td>
-		<td><img src="/img/i.gif" width="1" height="1" alt="" border="0"></td>
-		<td><img src="/img/i.gif" width="20" height="1" alt="" border="0"></td>
-	</tr>
-	<tr>
-		<td><img src="/img/i.gif" width="20" height="2" border="0"></td>
-		<td><img src="/img/i.gif" width="1" height="2" border="0"></td>
-		<td><img src="/img/i.gif" width="20" height="20" border="0"></td>
-	</tr>
-	<tr align="center">
-		<td><img src="/img/i.gif" width="1" height="1" alt="" border="0"></td>
-		<td><span align="center"><b><font color="#006666">Release of Information to Protect Website and Others</font></b></span></td>
-		<td><img src="/img/i.gif" width="1" height="1" alt="" border="0"></td>
-	</tr>
-	<tr>
-		<td><img src="/img/i.gif" width="20" height="1" alt="" border="0"></td>
-		<td><img src="/img/i.gif" width="1" height="1" alt="" border="0"></td>
-		<td><img src="/img/i.gif" width="20" height="1" alt="" border="0"></td>
-	</tr>
-	<tr>
-		<td><img src="/img/i.gif" width="20" height="2" border="0"></td>
-		<td><img src="/img/i.gif" width="1" height="2" border="0"></td>
-		<td><img src="/img/i.gif" width="20" height="20" border="0"></td>
-	</tr>
-	<tr>
-		<td><img src="/img/i.gif" width="20" height="1" border="0"></td>
-		<td>Christmas Tree Shops may release Personal Information when we believe, in good faith, that such release is necessary to comply with law, protect the rights, properties or safety of Christmas Tree Shops, our users or others, or enforce or apply the terms of any of our user agreements.</td>
-		<td><img src="/img/i.gif" width="20" height="1" border="0"></td>
-	</tr>
-	<!-- How to Opt-out -->
-	<tr>
-		<td><img src="/img/i.gif" width="20" height="1" alt="" border="0"></td>
-		<td><img src="/img/i.gif" width="1" height="1" alt="" border="0"></td>
-		<td><img src="/img/i.gif" width="20" height="1" alt="" border="0"></td>
-	</tr>
-	<tr>
-		<td><img src="/img/i.gif" width="20" height="2" border="0"></td>
-		<td><img src="/img/i.gif" width="1" height="2" border="0"></td>
-		<td><img src="/img/i.gif" width="20" height="20" border="0"></td>
-	</tr>
-	<tr align="center">
-		<td><img src="/img/i.gif" width="1" height="1" alt="" border="0"></td>
-		<td><span align="center"><b><font color="#006666">How to Opt-out</font></b></span></td>
-		<td><img src="/img/i.gif" width="1" height="1" alt="" border="0"></td>
-	</tr>
-	<tr>
-		<td><img src="/img/i.gif" width="20" height="1" alt="" border="0"></td>
-		<td><img src="/img/i.gif" width="1" height="1" alt="" border="0"></td>
-		<td><img src="/img/i.gif" width="20" height="1" alt="" border="0"></td>
-	</tr>
-	<tr>
-		<td><img src="/img/i.gif" width="20" height="2" border="0"></td>
-		<td><img src="/img/i.gif" width="1" height="2" border="0"></td>
-		<td><img src="/img/i.gif" width="20" height="20" border="0"></td>
-	</tr>
-	<tr>
-		<td><img src="/img/i.gif" width="20" height="1" border="0"></td>
-		<td>We ask that you tell us when you do not wish to receive periodic e-mails from us. We will only send e-mail for customer service purposes and to those visitors who have indicated that they wish to receive other types of e-mail from us. If at any time you wish to stop receiving e-mail from us, you can always remove your name from our mailing list by sending an e-mail to <a href="mailto:bargains@christmastreeshops.com">bargains@christmastreeshops.com </a> stating that you wish to unsubscribe and indicating in the subject line of the e-mail "NO E-MAIL".</td>
-		<td><img src="/img/i.gif" width="20" height="1" border="0"></td>
-	</tr>
-	<!-- Security of the Information You Provide -->
-	<tr>
-		<td><img src="/img/i.gif" width="20" height="1" alt="" border="0"></td>
-		<td><img src="/img/i.gif" width="1" height="1" alt="" border="0"></td>
-		<td><img src="/img/i.gif" width="20" height="1" alt="" border="0"></td>
-	</tr>
-	<tr>
-		<td><img src="/img/i.gif" width="20" height="2" border="0"></td>
-		<td><img src="/img/i.gif" width="1" height="2" border="0"></td>
-		<td><img src="/img/i.gif" width="20" height="20" border="0"></td>
-	</tr>
-	<tr align="center">
-		<td><img src="/img/i.gif" width="1" height="1" alt="" border="0"></td>
-		<td><span align="center"><b><font color="#006666">Security of the Information You Provide</font></b></span></td>
-		<td><img src="/img/i.gif" width="1" height="1" alt="" border="0"></td>
-	</tr>
-	<tr>
-		<td><img src="/img/i.gif" width="20" height="1" alt="" border="0"></td>
-		<td><img src="/img/i.gif" width="1" height="1" alt="" border="0"></td>
-		<td><img src="/img/i.gif" width="20" height="1" alt="" border="0"></td>
-	</tr>
-	<tr>
-		<td><img src="/img/i.gif" width="20" height="2" border="0"></td>
-		<td><img src="/img/i.gif" width="1" height="2" border="0"></td>
-		<td><img src="/img/i.gif" width="20" height="20" border="0"></td>
-	</tr>
-	<tr>
-		<td><img src="/img/i.gif" width="20" height="1" border="0"></td>
-		<td>Among our top priorities is keeping your Personal Information secure. We use Secure Sockets Layer (SSL) technology to encrypt all of your Personal Information before it is transmitted to us. Encrypted information cannot be read or recorded as it travels over the Internet. You can tell you are sending information securely by the unbroken key icon or closed lock icon that should appear at the bottom of your internet browser's window (depending on what browser you use). These icons will appear when you are placing an order on our Web site. In addition, you will see our site address change slightly, from http: to https: indicating a secure server connection is being used. 
-		    The computers that store your Personal Information are located in a separate facility, which employs the latest in firewall and security technology.<p>If you prefer not to disclose your credit card information online, you can always place your gift card order by calling or visiting one of our many stores. <a href="#">Click here </a> to locate the store nearest you and to receive driving directions.</p></td>
-		<td><img src="/img/i.gif" width="20" height="1" border="0"></td>
-	</tr>
-	<!-- Use of Cookies -->
-	<tr>
-		<td><img src="/img/i.gif" width="20" height="1" alt="" border="0"></td>
-		<td><img src="/img/i.gif" width="1" height="1" alt="" border="0"></td>
-		<td><img src="/img/i.gif" width="20" height="1" alt="" border="0"></td>
-	</tr>
-	<tr>
-		<td><img src="/img/i.gif" width="20" height="2" border="0"></td>
-		<td><img src="/img/i.gif" width="1" height="2" border="0"></td>
-		<td><img src="/img/i.gif" width="20" height="20" border="0"></td>
-	</tr>
-	<tr align="center">
-		<td><img src="/img/i.gif" width="1" height="1" alt="" border="0"></td>
-		<td><span align="center"><b><font color="#006666">Use of Cookies</font></b></span></td>
-		<td><img src="/img/i.gif" width="1" height="1" alt="" border="0"></td>
-	</tr>
-	<tr>
-		<td><img src="/img/i.gif" width="20" height="1" alt="" border="0"></td>
-		<td><img src="/img/i.gif" width="1" height="1" alt="" border="0"></td>
-		<td><img src="/img/i.gif" width="20" height="1" alt="" border="0"></td>
-	</tr>
-	<tr>
-		<td><img src="/img/i.gif" width="20" height="2" border="0"></td>
-		<td><img src="/img/i.gif" width="1" height="2" border="0"></td>
-		<td><img src="/img/i.gif" width="20" height="20" border="0"></td>
-	</tr>
-	<tr>
-		<td><img src="/img/i.gif" width="20" height="1" border="0"></td>
-		<td>We use cookies to provide our customers with streamlined ordering and other useful features. Cookies are pieces of information that are stored by your browser on your computer's hard drive. Cookies make Web surfing easier for you by saving your customer identification information while you're at our site. The use of cookies has become an industry standard used by most major Web sites. Most Web browsers automatically accept cookies, but you can usually change your browser to prevent acceptance. Please continue to review our privacy policy from time to time so that you are aware of our current policy with respect to cookies.</td>
-		<td><img src="/img/i.gif" width="20" height="1" border="0"></td>
-	</tr>
-	<!-- Intended Users- Use By Children -->
-	<tr>
-		<td><img src="/img/i.gif" width="20" height="1" alt="" border="0"></td>
-		<td><img src="/img/i.gif" width="1" height="1" alt="" border="0"></td>
-		<td><img src="/img/i.gif" width="20" height="1" alt="" border="0"></td>
-	</tr>
-	<tr>
-		<td><img src="/img/i.gif" width="20" height="2" border="0"></td>
-		<td><img src="/img/i.gif" width="1" height="2" border="0"></td>
-		<td><img src="/img/i.gif" width="20" height="20" border="0"></td>
-	</tr>
-	<tr align="center">
-		<td><img src="/img/i.gif" width="1" height="1" alt="" border="0"></td>
-		<td><span align="center"><b><font color="#006666">Intended Users- Use By Children</font></b></span></td>
-		<td><img src="/img/i.gif" width="1" height="1" alt="" border="0"></td>
-	</tr>
-	<tr>
-		<td><img src="/img/i.gif" width="20" height="1" alt="" border="0"></td>
-		<td><img src="/img/i.gif" width="1" height="1" alt="" border="0"></td>
-		<td><img src="/img/i.gif" width="20" height="1" alt="" border="0"></td>
-	</tr>
-	<tr>
-		<td><img src="/img/i.gif" width="20" height="2" border="0"></td>
-		<td><img src="/img/i.gif" width="1" height="2" border="0"></td>
-		<td><img src="/img/i.gif" width="20" height="20" border="0"></td>
-	</tr>
-	<tr>
-		<td><img src="/img/i.gif" width="20" height="1" border="0"></td>
-		<td>Our gift cards and any other products we may have available for sale on the Christmas Tree Shops website are intended to be purchased by adults.  We do not knowingly collect personal information from children under 13 years of age.  Christmas Tree Shops will promptly delete information provided by a child.  Simply contact us at <a href="mailto:bargains@christmastreeshops.com">bargains@christmastreeshops.com </a>.</td>
-		<td><img src="/img/i.gif" width="20" height="1" border="0"></td>
-	</tr>
-	<!-- Your Acceptance of these Terms -->
-	<tr>
-		<td><img src="/img/i.gif" width="20" height="1" alt="" border="0"></td>
-		<td><img src="/img/i.gif" width="1" height="1" alt="" border="0"></td>
-		<td><img src="/img/i.gif" width="20" height="1" alt="" border="0"></td>
-	</tr>
-	<tr>
-		<td><img src="/img/i.gif" width="20" height="2" border="0"></td>
-		<td><img src="/img/i.gif" width="1" height="2" border="0"></td>
-		<td><img src="/img/i.gif" width="20" height="20" border="0"></td>
-	</tr>
-	<tr align="center">
-		<td><img src="/img/i.gif" width="1" height="1" alt="" border="0"></td>
-		<td><span align="center"><b><font color="#006666">Your Acceptance of these Terms</font></b></span></td>
-		<td><img src="/img/i.gif" width="1" height="1" alt="" border="0"></td>
-	</tr>
-	<tr>
-		<td><img src="/img/i.gif" width="20" height="1" alt="" border="0"></td>
-		<td><img src="/img/i.gif" width="1" height="1" alt="" border="0"></td>
-		<td><img src="/img/i.gif" width="20" height="1" alt="" border="0"></td>
-	</tr>
-	<tr>
-		<td><img src="/img/i.gif" width="20" height="2" border="0"></td>
-		<td><img src="/img/i.gif" width="1" height="2" border="0"></td>
-		<td><img src="/img/i.gif" width="20" height="20" border="0"></td>
-	</tr>
-	<tr>
-		<td><img src="/img/i.gif" width="20" height="1" border="0"></td>
-		<td>By using our Web site, you agree to accept the Christmas Tree Shops privacy policy. Make sure you read this policy carefully, because if you do choose to use our Web site, you automatically agree to this policy. If you do not agree to this policy, please do not use our Web site. We reserve the right, at our discretion, to change, modify, add, or remove portions of this policy at any time. If this policy changes in the future, we will let you know by posting the policy on our Web site or by sending an email to our opt-in list. Please check this page periodically for changes. Your continued use of our Web site following the posting of changes to these terms will mean you accept those changes.</td>
-		<td><img src="/img/i.gif" width="20" height="1" border="0"></td>
-	</tr>
-	<tr>
-		<td colspan="3"><img src="/img/i.gif" width="20" height="20" border="0"></td>
-	</tr>
-</tbody></table>
-</td></tr></tbody></table>
-
-<div align="center"></div>
-<table width="98%" border="0" cellspacing="0" cellpadding="0">
-  <tbody><tr>
-    <td><hr></td>
-  </tr>
-</tbody></table>
-<table width="942px" border="0">
-  <tbody><tr>
-    <td>
-		<div align="center">©2006 - 2012 &nbsp;Christmas Tree Shops Inc. All rights reserved.&nbsp;</div>
-	</td>
-  </tr>
-</tbody></table>
-
+	<script src="http://ab620a29e3012eadabb5-a020cb7f4965f8a3f73118dcef6ab92a.r54.cf2.rackcdn.com/assets/js/site.js"></script>
+	
 
 </body></html>
