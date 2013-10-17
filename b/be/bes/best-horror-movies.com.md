@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the best-horror-movies.com privacy policy that was archived on 2013-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130527015050id_/http%3A//ossuary.best-horror-movies.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the best-horror-movies.com privacy policy that was archived on 2013-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131017191807id_/http%3A//ossuary.best-horror-movies.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -13,7 +13,9 @@ Because we gather certain types of information about our users, we feel you shou
 
 > **Notes:**
 
-The following privacy policy is for This Website only. If you link to other web sites, please review the privacy policies posted at those sites.
+\- The following privacy policy is for This Website only. If you link to other web sites, please review the privacy policies posted at those sites.
+
+\- We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: <http://www.networkadvertising.org/managing/opt_out.asp>
 
 INFORMATION This Website GATHERS AND TRACKS
 
