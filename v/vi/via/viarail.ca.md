@@ -1,55 +1,81 @@
-> *The following text is extracted and transformed from the viarail.ca privacy policy that was archived on 2011-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110624092836id_/http%3A//www.viarail.ca/en/our-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the viarail.ca privacy policy that was archived on 2013-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131017234855id_/http%3A//www.viarail.ca/en/our-privacy-policy) for the most accurate reproduction.*
 
 # Our Privacy Policy | VIA Rail
 
-The purpose of the VIA Rail Canada Privacy Policy is to govern the collection, use and disclosure of personal information in compliance with the requirements set out in the Federal Government’s _PRIVACY ACT_.
+VIA Rail Canada is a federal Crown corporation, and is required to abide by the _Privacy Act_ of Canada (R.S.C. 1985, c. P-21) ("the **Act** "). The Act protects your personal information against any disclosure or use that is inconsistent with the reason for which this information has been provided. Moreover, the Act gives any individual the right to access their own personal information, to request that this information be corrected or to demand that the information be withdrawn from databases or any other systems where it is stored. The aim of this VIA privacy policy is to govern the collection, use and disclosure of personal information, in accordance with the requirements of the Act, whether this information is collected through our Website or otherwise.
 
-### The Information That We Collect
+###  The information we collect
 
-VIA uses a variety of methods to collect voluntary information, including information that is provided by our customers and information that is gathered through customer surveys and general feedback.
+VIA collects information at various levels. Some information is personal, some is collected for statistical purposes and some is used to improve the navigation experience on our Website (cookie files).
 
-The types of personal information that we collect include names, contact information, identification information and credit information. Credit card information is used for billing purposes only. We may record calls to or from our Customer Service Representatives for the purposes of accuracy, performance reviews, training and general quality assurance.
+_Personal Information_
 
-### How We Use This Information
+Personal information is information that makes it possible to identify you, such as your name, mailing address, email address, telephone number, fax number, credit card number, information contained in your resume and your personal opinions. This information is collected primarily when you perform one of the following actions:
 
-The information is used to aid in the provision of our various products and services, including customer service, accounting, billing, collection and marketing of other products and services.
+  * Provide information voluntarily on our Website or to our personnel, for example, when you create a traveller profile, when buying a train ticket online, by telephone or from a ticket office, when creating a VIA Preference profile or when signing up for one of our electronic newsletters;
+  * When responding to the surveys sent to you; 
+  * When making comments on our Website, on our social media accounts or by email;
+  * When applying for a job with VIA online, whether by email or by mail;
+  * Information collected on audio tapes of calls we receive from our customers at our telephone sales offices, and calls made by our customer service representatives, when these calls are recorded. These audio tapes are used for performance assessment, training and quality assurance purposes.
 
-VIA may use aggregate or anonymous information, which cannot be linked to identifiable individuals, for a variety of purposes for its own use and for the use of third parties.
 
-### Who We Share This Information With
 
-VIA does not share personal information with any third parties, except as disclosed in this Policy. VIA may provide personal information to VIA subcontractors and professional advisors (which are bound by privacy obligations) in order to assist VIA with respect to the uses disclosed herein.
+_Depersonalized statistical information and use of Google Analytics_
 
-### Security
+Statistical information is not used to identify you and is not linked to your personal information. It is used in aggregate form to make statistical analyses on customer habits and their purchasing process, thereby enabling VIA to improve the navigation experience. This information includes, in particular, the browsers used (Internet Explorer, Safari, Chrome or others) and their language, the pages visited and the length of time they were consulted, the approximate location (city) of the IP addresses of the browsers, the external pages that referred the visitors to VIA, etc. This information is collected automatically by analytical tools when you visit our site.
 
-Personal information is stored in a combination of paper and electronic files, which are protected by security measures that are appropriate to the nature of the information.
+At the time this policy is published, we are using Google Analytics as our Web analysis tool. Google Analytics uses cookie files (see below) to optimize its analysis. It also enables VIA to display advertising and promotions on other sites, designed to target internet users who have recently visited the VIA Web site.
 
-### Access to Personal Information
+For further information regarding the confidentiality policy of Google Analytics, click [here](http://www.google.com/intl/en/policies/), and to learn how Google allows you to unsubscribe from its Analytics service, click [here](https://tools.google.com/dlpage/gaoptout?hl=en) .
 
-Individuals may review their personal information contained in VIA files by contacting the VIA Privacy Officer. If an individual believes that any of the personal information pertaining to that individual is inaccurate, VIA will make the appropriate corrections.
+_Cookie files_
 
-### Cookies
+VIA uses special files (commonly referred to as "cookies"), which are small text files automatically stored on your computer when you visit our Website. This functionality may or may not be authorized by the settings on your Web browser. VIA uses two types of cookie files: "session cookie files" and "permanent cookie files."
 
-VIA uses cookies for the convenience of our users. Cookies automatically authenticate the user. A user can access the VIA web site with the cookie feature turned off; but by doing so, the user may be required to provide username and password information on multiple occasions. VIA also uses cookies to track users’ visits, and uses that information to improve the experience for users.
+"Session cookie files" are temporary files that are automatically deleted when you close your browser. They are not kept by VIA or communicated to third parties. Session cookie files are designed to make our Website generally more user-friendly, and to make it easier to navigate in our site.
 
-### Links
+"Permanent cookie files" remain active after you have visited our site. These files are used to identify your browser from one session to the next, to simplify your browsing, to collect statistical information on the use of the VIA Website, and in certain cases to do promotions on other Websites. It is, however, important to note that our cookie files are not linked to your personal information. Consequently, they do not allow you to be identified as an individual, but only recognize that yours is the same Web browser that has already visited our site.
 
-The VIA web site may contain links to information on other web sites. When you click on one of these links, you are moving to another web site. We encourage you to read the privacy statements pertaining to these linked sites, because their privacy policy may differ from the VIA Privacy Policy.
+Most Web browsers allow you to delete cookies from your computer's hard disk, to prevent cookies from being recorded on your hard drive, or to receive a warning before they are recorded. If you delete or disable cookie files or prevent them from being recorded, your use of or ability to access certain functionalities on our Website may be affected. Please see the instructions concerning your browser or its "Help" section for further information on how to delete or disable cookie files or prevent their recording.
 
-### Right to Access and Right to Request Corrections
+By using the VIA Website without deleting or disabling cookie files or preventing them from being recorded, you implicitly consent to the collection, use and communication of the information (whether personal or not) required to implement these functionalities.
 
-In accordance with the _Privacy Act_ , you have the right to request access to all personal information pertaining to you that VIA keeps, and the right to request corrections to that personal information. You can do so by filling out the Personal Information Request Form and sending it to:
+###  Use of personal information
 
-Director, Access to Information and Privacy
+Certain personal information is required when you purchase train tickets, contact our customer service, take part in surveys or contests, or apply for a job at VIA. Credit card numbers are used exclusively for processing payments, and not for any other purpose.
 
-3 Place Ville Marie  
-Suite 500   
-Montreal (QC) H3B 2C9
+We inform you when personal information is required for a transaction, a contest or survey, or for any other VIA service. Only the requested information marked with an asterisk must be provided; the rest of the information is not mandatory.
 
-VIA has thirty (30) days to respond to your request in writing. There is no fee for requesting access to your personal information.
+###  Security
 
-### Do you have Questions or Suggestions?
+Personal information may be kept as a hard copy or in electronic form. Personal information is protected by the implementation of security measures that are suitable for each data type. Access to personal information is limited to those individuals who need it in order to provide VIA services. As far as transactions by credit card are concerned, VIA abides by the norms of the Payment Card Industry Data Security Standard (PCI DSS), which ensures the protection of personal information associated with credit cards.
 
-We invite you to contact us for any questions or suggestions that you may have with respect to this Privacy Policy or our privacy protection program.
+###  Disclosure of personal information to third parties
 
-Please contact VIA Rail Canada by e-mail, at [privacy@viarail.ca](mailto:privacy@viarail.ca).
+VIA only shares personal information with third parties in accordance with this policy. VIA may provide personal information to subcontractors and professional consultants (who are subject to personal information protection requirements by virtue of their contract with VIA), only in so much as their activities require the use of this information, and only for the purposes for which the information was collected. VIA never discloses your personal information without your consent to third parties for purposes other than those for which this information was collected, unless VIA is obliged to do so by law or by court order (i.e. in very exceptional circumstances).  
+Furthermore, under the Act, VIA has an obligation to inform the Privacy Commissioner of Canada in writing before making any disclosure or use of personal information for purposes other than those for which this information was obtained.
+
+###  Links to external Web sites
+
+VIA's Website may contain links to other Websites, outside the VIA website. By clicking on these links, you will be automatically directed to these sites. We ask you to read the privacy policies on these sites, as these policies may be different from VIA's policy. VIA cannot, under any circumstances, be held responsible for content displayed on the other sites or for any disadvantages that might arise from browsing these sites.
+
+###  Right of access and request for correction or withdrawal of information
+
+In accordance with the Act, you have the right to request access to any of your personal information that VIA possesses. You also have the right to request a correction of any information that is erroneous or incomplete, or to request that this information be withdrawn. In order to do this, you simply complete the Access to Personal Information Form and send it to the following address:
+
+VIA Rail Canada Inc.  
+Access to Information and Privacy Coordinator  
+3 Place Ville Marie, Suite 500  
+Montréal, Quebec, H3B 2C9
+
+VIA has thirty (30) days in which to respond to your request in writing. No fees are charged for this request.
+
+###  Revisions to VIA's privacy policy
+
+By using this site, you accept this policy. This policy may be amended by VIA from time to time without notice, in particular to take into account changes in VIA's activities and technological developments. We therefore advise you to consult this page periodically.
+
+###  Do you have any questions or suggestions?
+
+Please contact us with any questions or suggestions you may have concerning this policy.
+
+Please contact VIA Rail Canada by email at the following address: [privacy@viarail.ca](mailto:protection_des_renseignements_personnels@viarail.ca)
