@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mbadiscussions.com privacy policy that was archived on 2013-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130424035951id_/http%3A//mbadiscussions.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mbadiscussions.com privacy policy that was archived on 2013-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131018162928id_/http%3A//mbadiscussions.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
