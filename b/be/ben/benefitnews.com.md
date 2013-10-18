@@ -1,52 +1,162 @@
-> *The following text is extracted and transformed from the benefitnews.com privacy policy that was archived on 2013-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130626125835id_/http%3A//www.benefitnews.com/global/bn-privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the benefitnews.com privacy policy that was archived on 2013-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131018192401id_/http%3A//ebn.benefitnews.com/global/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - Employee Benefit News
 
-This Privacy Policy covers BenefitNews' treatment of information we collect when you are on our site and when you use our services. This policy also covers our treatment of any personally identifiable information our business partners share with us. This policy does not apply to the practices of companies BenefitNews does not own or control, or to individuals BenefitNews does not employ or manage, including operators of sites to which you may link from the BenefitNews Web site.
+This privacy policy covers BenefitNews's treatment of personally identifiable information we collect when you are on the BenefitNews site, located at http://www.benefitnews.com/. This policy also covers our treatment of any personally identifiable information our business partners share with us. This policy does not apply to the practices of companies BenefitNews does not own or control, or to individuals BenefitNews does not employ or manage, including operators of sites to which you may link from the BenefitNews Web site. 
 
-**What information do we gather?**
+This Web site may contain links to other sites. Please be aware that we are not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every Web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site.
 
-The only personally identifiable information we collect about you is that which you choose to share with us in registration or when responding to offers from BenefitNews or from our business partners. We also collect information about aggregate site usage. The statistics we gather about unique visits, repeat visits and page views are all based on IP addresses, and are not associated with your personal information.
+The full text of our privacy policy is available on the Web at http://www.benefitnews.com/about/privacy.html Users may go to <http://www.benefitnews.com/profile/> for information on how to opt-in or opt-out of use of their information. We invite you to contact us if you have questions about this policy: 
 
-**Why do we ask for personal information about you?**
+Email: [click here](mailto:custserv@sourcemedia.com)   
+Phone: (800) 221-1809   
+Mail to:  
+SourceMedia   
+One State Street Plaza, 27th Floor   
+New York, NY 10004   
+USA 
 
-Our goal at BenefitNews is to provide you with comprehensive news, data and tools on employee benefits that assist you in making decisions about your plan or business. The information that we ask you to share with us allows us to improve the site and still keep it free. Aggregate demographic information about our users is valuable to our advertisers, as it provides them with some important, yet anonymous information about potential customers. Without advertising support, we could not keep the site free for your use.
+#### Dispute Resolution and Privacy Seals
 
-We also collect information so that we can notify you about updates to our Web site, our electronic information products, _Employee Benefit News_ magazine, our conferences and our other services.
+We have privacy seals and/or dispute resolution mechanisms. If you think we have not followed our privacy policy in some way, please contact [customer service](mailto:custserv@sourcemedia.com) so they can help you resolve your concern. 
 
-In the near future, we expect to offer BenefitNews visitors the ability to customize certain features on our site. This will enable you to return to your personalized version each time you visit the site. To support this personalization, we need to be able to identify your account from session to session. This requires that you provide us with some information about yourself and your company. Your user name, password and e-mail address allow us to differentiate you from other users. They also allow us to contact you about developments and new products on the site.
+#### Additional Information
 
-**How to we use the information we collect?**
+This policy is valid for 1 day from the time that it is loaded by a client. 
 
-We may share aggregate site user information with our partners and advertisers at any time. We will not share your personally identifiable information with any third party unless we tell you otherwise when we collect the information. And we will always give you the opportunity to "opt out" of being contacted by BenefitNews.
+#### Data Collection
 
-When you register at our site and/or "opt in" to receive our free electronic publications, or subscribe to _Employee Benefit News_ magazine, you consent to being contacted by BenefitNews, its business partners and advertisers. Once you have "opted in" and agreed that your information may be shared with third parties or you have responded to an offer by any third party on the BenefitNews Web site, BenefitNews will not be able to update any of your personally identifiable information that has been transferred to such third parties or opt you out of such third parties so that you no longer receive their promotional and/or marketing information. Instead, you must either contact that third party or refer to their privacy policy to update your personal information or to let them know that you no longer want to receive promotional and/or marketing information about their products, services, or offerings.
+P3P policies interpret the data collected and divide it into groups (also referred to as "statements"). BenefitNews’s policy contains three data groups. The data practices of each group will be explained as follows: 
 
-The bottom line: Sometimes we want personal information from you so that we or our partners and our advertisers can send you material we think might be of interest to you. We will always tell you up front what we're going to do with your responses, and we will always give you a chance to say "no thanks."
+#### Group "Basic information"
 
-**How does BenefitNews use cookies?**
+We collect the following information: 
 
-BenefitNews uses cookies to speed up the login process for you at various points on the site. When you register with BenefitNews, we assign a unique user ID to you, and we place a cookie on your computer that will remind our system of that user ID in other areas of the site, or the next time you visit the site. This cookie allows you to access areas of the site without having to log on multiple times. If you choose to log off, this cookie we set in registration will be deleted, and we will then set another cookie like it on your computer next time you log in.
+  * Clickstream data
+  * HTTP protocol elements
+  * Search terms
 
-Please note: Nothing in a cookie allows us to identify you individually. Your computer is assigned a number and that number is tracked using the cookie. This number is only meaningful in the context of our secure database system.
 
-We also use cookies to log your activity on the site. Everything we learn from these logs will be used to enrich your experience on our site. It will help us understand what you like and don't like, so we can focus our energies more effectively and provide you with better financial news and data.
 
-The only personally identifiable information we collect about you is that which you choose to share with us in registration or when responding to offers from BenefitNews or from our business partners. As stated earlier, this information will be closely protected and used for internal purposes only, unless we tell you otherwise when we collect the information, you have consented by "opting in" to being contacted by BenefitNews, its partners and advertisers, and other third parties, or we have informed you of a change to our privacy policy so that you can then choose to opt out. We will never willfully release your personal information to any third party without providing you notice unless: you direct us to enter you in a contest; you ask us to sign you up for a service that is sponsored by one of our partners; you otherwise opt in to have your information shared with third parties; we respond to subpoenas, court orders or legal process; we find your actions on our Web site violate our Terms of Use or any of our usage guidelines for specific products or services; or we transfer your information in connection with a sale, merger, transfer, exchange, or other disposition (whether assets, stock, or otherwise), of all or a portion of a business of BenefitNews.
+This data will be used for the following purposes:
 
-**Changes to the BenefitNews Privacy Policy**
+  * Completion and support of the current activity
+  * Web site and system administration
+  * Research and development
 
-BenefitNews may amend this policy from time to time. If we make any substantial changes in the way we use your personal information, we will notify you by posting a prominent notice in our privacy policy or in other locations on our Web site or by sending you an email to inform you of our updated privacy policy.
 
-**Spam**
 
-We don't like it, we don't support it, and we don't engage in it. If you do not want to receive e-mail from us in the future, please let us know by contactingCustomer Service. Be sure to specify whether you want to be removed from a certain e-mail list or all of our product e-mail lists.
+This data will be used by BenefitNews and our agents.   
+The data in this group has been marked as non-identifiable. This means that there is no reasonable way for the site to identify the individual person this data was collected from. Data collected from all Web users: access logs and search strings (if entered).
 
-**Customer Service**
+#### Group "Cookies"
 
-[custserv@sourcemedia.com](mailto:custserv@sourcemedia.com)  
-(888) 280-4820
+At the user's option, BenefitNews will collect HTTP cookies.
 
-**Questions?**
+This data will be used for the following purposes:
 
-Send any questions about our Privacy Policy to [custserv@sourcemedia.com](mailto:custserv@sourcemedia.com).
+  * Completion and support of the current activity.
+  * Anonymous user analysis. The user must opt-in to this usage.
+  * Anonymous user profiling and decision-making. The user must opt-in to this usage.
+  * User analysis. The user must opt-in to this usage.
+  * User profiling and decision-making. The user must opt-in to this usage.
+
+
+
+This data will be used by BenefitNews and our agents.   
+The following explanation is provided for why this data is collected: Cookies are used to track visitors to our site, so we can better understand what portions of our site best serve you.
+
+#### Group "Mailing registration"
+
+At the user's option, we will collect the following data: 
+
+  * Online contact information
+  * Physical contact information
+  * Demographic data
+  * Preference data
+  * Given name (First name)
+  * Family name (Last name) 
+  * User's job title 
+  * Organization name 
+  * State or province 
+  * Postal code 
+  * Country name 
+  * Work email address
+
+
+
+This data will be used for the following purposes:
+
+  * Completion and support of the current activity. 
+  * User analysis. The user must opt-in to this usage. 
+  * White papers and Web Seminars may be sponsored material on the site. By accessing the assets the user information may be shared with the sponsors.
+
+
+
+This data will be used by BenefitNews and our agents. In addition, the following types of entities will receive this information: 
+
+  * Others following the same practices. The user must opt-in to this data sharing.
+
+
+
+The following explanation is provided for why this data is collected: This information is collected so that BenefitNews can send you valuable and useful information which is relevant to your needs and interests.
+
+#### Cookies
+
+Cookies are a technology which can be used to provide you with tailored information from a Web site. A cookie is an element of data that a Web site can send to your browser, which may then store it on your system. You can set your browser to notify you when you receive a cookie, giving you the chance to decide whether to accept it.
+
+Our site makes use of cookies. Cookies are used for the following purposes:
+
+  * Completing the user's current activity
+  * Pseudononymous analysis
+  * Pseudonym-based decision-making
+  * User analysis
+  * Individual-based decision-making
+
+
+
+#### Compact Policy Summary
+
+The compact policy which corresponds to this policy is:
+
+CP="CAO DSP LAW CURa ADMa DEVa PSAi PSDi IVAi IVDi CONi OUR SAMi BUS IND PHY ONL UNI COM NAV INT DEM STA PRE"
+
+The following table explains the meaning of each field in the compact policy.
+
+**Field**|  **Meaning**  
+---|---  
+CP=| This is the compact policy header; it indicates that what follows is a P3P compact policy.  
+CAO| Access is available to contact and other information.  
+DSP| The policy contains at least one dispute-resolution mechanism.  
+LAW| Privacy law specifies penalties for a violation of this policy.  
+CURa| The data is used for completion of the current activity.  
+ADMa| The data is used for site administration.  
+DEVa| The data is used for research and development.  
+PSAi| The data is used for pseudononymous analysis, if the user selects it.  
+PSDi| The data is used for pseudononymous decision-making, if the user selects it.  
+IVAi| The data is used for analysis, including knowledge of the visitor's identity, if the user selects it.  
+IVDi| The data is used for decision-making, including knowledge of the visitor's identity, if the user selects it.  
+CONi| The data is used for contacting the user, if the user selects it.  
+OUR| The data is given to ourselves and our agents.  
+SAMi| The data is given to other organizations following the same practices, if the user selects it.  
+BUS| Our business practices specify how long the data will be kept.  
+IND| The data will be kept indefinitely.  
+PHY| Physical contact information is collected.  
+ONL| Online contact information is collected.  
+UNI| Unique identifiers are collected.  
+COM| Computer information is collected.  
+NAV| Navigation and clickstream data is collected.  
+INT| Interactive data is collected.  
+DEM| Demographic and soc oeconomic data is collected.  
+STA| State-management data is collected  
+PRE| Preference information is collected.  
+  
+The compact policy is sent by the Web server along with the cookies it describes. For more information, see the P3P deployment guide at <http://www.w3.org/TR/p3pdeployment>.
+
+#### Policy Evaluation
+
+Microsoft Internet Explorer 6 will evaluate this policy's compact policy whenever it is used with a cookie. The actions IE will take depend on what privacy level the user has selected in their browser (Low, Medium, Medium High, or High; the default is Medium. In addition, IE will examine whether the cookie's policy is considered satisfactory or unsatisfactory, whether the cookie is a session cookie or a persistent cookie, and whether the cookie is used in a first-party or third-party context. This section will attempt to evaluate this policy's compact policy against Microsoft's stated behavior for IE6.
+
+**Note** : this evaluation is currently experimental and should not be considered a substitute for testing with a real Web browser.
+
+**Satisfactory policy** : this compact policy is considered satisfactory according to the rules defined by Internet Explorer 6. IE6 will accept cookies accompanied by this policy under the High, Medium High, Medium, Low, and Accept All Cookies settings.
