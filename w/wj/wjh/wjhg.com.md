@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wjhg.com privacy policy that was archived on 2013-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130630201736id_/http%3A//www.wjhg.com/legalverbiage/headlines/158509635.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wjhg.com privacy policy that was archived on 2013-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131018034444id_/http%3A//www.wjhg.com/legalverbiage/headlines/158509635.html) for the most accurate reproduction.*
 
 # Gray Television, Inc. PRIVACY POLICY and YOUR CALIFORNIA PRIVACY RIGHTS
 
