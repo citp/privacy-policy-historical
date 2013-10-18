@@ -1,38 +1,81 @@
-> *The following text is extracted and transformed from the bostonproper.com privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120182637id_/http%3A//www.bostonproper.com/custserv/custserv.jsp%3FareaName%3DPrivacy%26leftNavArea%3DCust%2BServ%2BLeft%2BNav) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bostonproper.com privacy policy that was archived on 2013-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131018162651id_/http%3A//www.bostonproper.com/store/page.jsp%3Fid%3D81809283) for the most accurate reproduction.*
 
-# Boston Proper | Privacy and Security
+# Privacy Policy - Boston Proper
 
-## We Are Committed To Your Privacy.
+**Revision Date: January 29th, 2013**
 
-The purpose of this Privacy Policy is to inform you about information we may collect from or about you and what we do with that information. The following document discloses our information gathering and dissemination practices for the Web site [www.bostonproper.com](http://www.bostonproper.com/).
+We know that your privacy is important to you. It is important to us. So, please read our Privacy Policy. Providing your personal information is always voluntary however, note that without certain information, we may be unable to provide our merchandise or services. If you provide your personal information, we will consider this your consent to our use. However, we will respect your preferences as to whether and how you'd like us to communicate with you and you may modify your preferences online or by contacting a Customer Service representative. (CONTACT US) If you opt-out of receiving marketing information from us, we may still contact you concerning your specific transactions and communications with us.
 
-To better protect your privacy, we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used.
+**INFORMATION WE MAY COLLECT**  
+We may collect personal information, including your name, mailing address, telephone number, email address, text message address, transaction information, credit or debit card information, and birth month.  We may collect this information when you:
 
-## The Information We Collect
+  * make a purchase at our retail store, online or by phone
+  * save your information with us online or visit our site (COOKIES)
+  * sign-up for our loyalty program, opt in for emails, or request catalogs or other marketing materials
+  * participate in a contest, sweepstakes, promotion or survey
+  * make inquiries concerning our merchandise or services
+  * participate in any geolocation services we offer
+  * are referred to us through a third-party marketing promotion
 
-This notice applies to all information collected or submitted on the bostonproper.com Web site.
 
-On some pages, you can order products, make requests, and register to receive materials. This information is maintained in private files on our secure Web server and internal systems. Our primary goal in collecting personal information about you is to provide a satisfying and customized experience while shopping our Web site. We try to use technology in a way that makes your e-shopping experience unique and pleasing. To fully utilize our services, you need to register using our online registration form. You will need to provide information including your name, address, e-mail address and answer one of four questions, which we will use to identify you if you need help remembering your password. On some pages, you can submit information about other people. For example, if you order a gift online and want it sent directly to the recipient, you need to submit the recipient's name and address.
 
-If you purchase from bostonproper.com, your name and mailing address will be added to the Boston Proper print catalog mailing list and database. We also track certain information about how you navigate our Web site. This information is used internally so that we can better serve our customers and improve the online shopping experience. We analyze and compile this information on an aggregated basis. This information is not personally identifiable and may include, but is not limited to, the URL that you came from, whether it was from our site or not, which URL you go to next, again whether or not from our site, what browser you are using and your IP address.
+To review or update personal information you've provided previously, sign on to our site and click “My Account”. You may update stored information by clicking “Account Profile”. Be sure to “Save” once you've completed your changes. You may also call or email Customer Service. 
 
-We use IP addresses to help diagnose problems with our server and to administer our Web site. We use this information internally to improve the products and services we provide to you. We may also combine it with other information about you that is available to us internally or from other sources, and we may share it with trusted third party marketing partners to help us improve the content of our Web site and to alert you to new products, services and special offers. If you do not wish to receive targeted emails with special product offers, you may opt-out at any time by clicking on the link located at the bottom of all emails.
+**CONTACT US**  
+If you purchase merchandise or a gift card for another, we may also collect personal information concerning the recipient in order to fulfill your request. We will assume that you have the recipient's permission to use his or her personal information for this limited purpose. HOW WE USE THE INFORMATION WE COLLECT   
+We may use the personal information we collect to: 
 
-This site may contain links to other sites. We are not responsible for the privacy practices or the content of other Web sites. Our site uses order forms for you to request information, products and services. We collect contact information (such as your email address), and demographic information (such as your zip code). We collect, but do not retain financial information (such as your account and credit card numbers).
+  * process, track and fulfill your order and contact you about the status of your order
+  * tell you about and administer contests, sweepstakes and promotions
+  * send you surveys about our merchandise or services 
+  * respond to your inquiries regarding our merchandise or services
+  * learn about your shopping preferences and improve your shopping experience
+  * help us address problems with and improve our site and our merchandise and services
+  * protect the security and integrity of our site
 
-Occasionally, we make customer names available to firms offering merchandise that may be of interest to you. If you prefer not to receive these mailings, please send an exact copy of your mailing label to: Mail Preference Service, P.O. Box 3048, Boca Raton, Florida 33431-0948 or send an email including your address exactly as it appears on your mailing label and your e-mail address to:  
+
+
+**HOW WE SHARE THE INFORMATION WE COLLECT**  
+We may share your personal information in the following ways: 
+
+  * With our affiliated brands. Visit [www.chicosfas.com](https://web.archive.org/web/20131018162651id_/http%3A//www.bostonproper.com/store/www.chicosfas.com) for a current list of brands owned by Chico's FAS, Inc. , which includes Chico's, White House | Black Market, Soma, and Boston Proper. In the event of the sale or a merger of Chico's FAS, Inc. or any of its affiliates, information we have collected may be among the assets transferred. 
+  * With companies who provide certain services for us, such as shipping, name and address verification, email distribution, and promotions management. We only share that information needed in order for these companies to perform the services requested and they are contractually obligated to protect this information and use it for no other purpose. 
+  * With co-sponsors of contests, sweepstakes or promotions. 
+  * With reputable companies whose products we believe will be of interest to you. We share only names and mailing addresses and do not share email addresses. 
+  * With law enforcement upon request, as required by law (such as by court order or subpoena), if necessary in connection with a fraud investigation, or to protect and defend our customers' and our interests. 
+
+
+
+**COOKIES**   
+Our site uses “cookies” which are small data files stored on your computer's hard drive or mobile device when you visit a site. Cookies may be used in a variety of ways which enhance and personalize your online browsing and shopping experience. For instance, cookies allow us to remember what's in your shopping cart, recognize you when you return to our site, track your orders, and monitor and maintain information about your visits. You may set your browser not to accept cookies or to notify you when you receive cookies. If you do not accept cookies however, you will not be able to access your account information or make purchases online. 
+
+**THIRD PARTY ADS**   
+We use a third party provider to place our internet ads.  The provider may collect anonymous information about your visits to our site and your interaction with our products and services.  The provider may also use information about your visits to this and other sites to target advertisements for merchandise and services.  This anonymous information is collected through the use of a pixel tag which is industry standard technology used by most major websites.  No personally identifiable information is collected or used in this process.  The provider does not know your name, address, phone number, email address or any of your other personally identifiable information. If you would like more information about this practice and your option to not have this anonymous information used by our third party provider, [click here](http://www.networkadvertising.org/choices/#completed). 
+
+**SECURITY**  
+We use various technologies and processes to protect your information.  Information such as your credit or debit card account number is transmitted through a secure server using Secure Sockets Layer (SSL) encryption technology.  Note however that absolute security can never be guaranteed.    
+We will never request your credit card or other personal information by email.  If you receive an email that appears to be a request from us for personal information, _do_ _not_ _respond_ as this may be a “phishing” scam designed to steal your information.  Never include your credit or debit card number or other sensitive information in an email as it is not a secure means of transmitting information.  We will only request such information during secure transactions at our site.  
+It is your responsibility to safeguard any password you create to access “My Account” and to sign-out when your visit is complete. 
+
+**LINKS TO OTHER WEBSITES**  
+Our site may contain links to sites owned by third parties.  Please review the privacy policy of any site you access through our site as we are not responsible for a third party’s privacy policy or practices.
+
+**CHILDREN'S PRIVACY**   
+Our site is not intended for use by children and we do not knowingly collect personal information from children under the age of 13.  The child’s parent or guardian should contact us if we have inadvertently collected such personal information and we will delete it from our files.
+
+**INTERNATIONAL USERS**   
+If you are located outside of the United States, please note that this site is hosted on our computer servers in the United States.  Your use of this site or submission of personal information will constitute your consent to the transfer of personal information outside of your home country.
+
+**POLICY CHANGES**  
+If our Privacy Policy changes, we will post the changes to our site with the date of revision.  Your continued use of our site will constitute your agreement with our revised Privacy Policy.  Please also note that our Privacy Policy is incorporated into our site’s [Terms of Use](https://web.archive.org/store/page.jsp?id=81809282). 
+
+**UPDATING AND MODIFYING YOUR COMMUNICATION PREFERENCES**  
+If you wish to update your information or do not wish to be contacted via email, direct mail and/or telephone, please make changes to “My Account” online or contact Customer Service.  Provide your exact name and postal or email address so that we may identify you accurately.  You may also “unsubscribe” from our email by using the link provided at the bottom of each email.  If you ask us to remove you from marketing lists, we will maintain you on a “do not contact” list to ensure that we continue to honor your request.  It may take up to 10 days to process your “do not email” request.  It may take up to 8 weeks to process your “do not mail” request because mailings are planned long in advance.  If you purchase online, we will continue to confirm your order and shipment status via email, postal address or telephone.  If you change your mind about choices you’ve previously made, make changes to “My Account” online or contact Customer Service.  (CONTACT US) 
+
+**CONTACT US**  
+Boston Proper Customer Service  
+11215 METRO PARKWAY  
+FORT MYERS, FL 33966  
+800.243.4300  
+888.550.5559 (TDD hearing impaired)  
 [customerservice@bostonproper.com](mailto:customerservice@bostonproper.com)
-
-One of the many services we offer to you when you register or purchase on our site is to notify you by email about new products and services available from us. These notices and offers will be targeted to your individual preferences and taste. Each email will provide you with the opportunity to opt-out of future emails. If you would like to learn more about third party use of this information, or to opt-out from such use, please go to [www.privacychoices.org](http://www.privacychoices.org/).
-
-## Security
-
-This site has security measures in place to protect the loss, misuse and alterations of the information under our control. All customer information (like your e-mail address and credit card information) is transferred using HTTPS (secure http) and SSL (Secure Socket Layer). Meaning, all data is encrypted by your browser and then decrypted by the Web server (our site), rendering the information unreadable.
-
-## Choice/Opt-Out
-
-Our site provides you with the opportunity to opt-out of receiving communications from us at the point that we request information about you. If you wish to change your opt-out choice, each email we send has a link enabling you to unsubscribe. Please note that if you request to be removed from our e-mail updates database you will still receive e-mail notifications and updates regarding any orders placed with Boston Proper.
-
-## Email Privacy Policy
-
-Boston Proper does not sell or rent customers' email addresses to other companies. When you sign up for email updates, we will send you announcements regarding special events and promotions. Each email we send has a link enabling you to unsubscribe. Please note that if you request to be removed from our email updates database you will still receive email notifications and updates regarding any orders placed with Boston Proper.
