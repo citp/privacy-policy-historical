@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the beautycreate.com privacy policy that was archived on 2012-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121218075448id_/http%3A//www.beautycreate.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beautycreate.com privacy policy that was archived on 2013-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131019002921id_/http%3A//www.beautycreate.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy « Women's Health: Health, Fitness, Weight Loss, Healthy Recipes & Beauty
 
@@ -14,12 +14,14 @@ At other places in this site, we ask for your feedback, opinion or suggestions, 
 
 One last area in which we ask for your name is on bulletin boards or forums–places on the site where you can participate in a discussion of a particular subject by posting written comments which are then entirely public. We ask for a name simply so that other people reading a string of comments will be able to determine which comments come from the same person. You may, therefore, provide a nickname or alias, if you prefer, so that your identity is not disclosed. You should be aware that if you do voluntarily disclose personal information (e.g. user name, e-mail address) on the bulletin boards or forums, that information can be collected and used by others and may result in unsolicited messages from other posters or parties. If you choose to participate anonymously, you should remember that you are still legally liable for the material you post, including claims of libel, invasion of privacy and copyright infringement.
 
-  * [Funky Chicken With Sesame Noodles](http://www.beautycreate.com/funky-chicken-with-sesame-noodles/)
+Google, as a third party vendor, uses cookies to serve ads on your site. Google’s use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting [the Google ad and content network privacy policy.](http://www.google.com/privacy_ads.html ".Google ad and content network privacy policy")We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit http://www.networkadvertising.org/managing/opt_out.asp.
+
   * [Heavy Metal](http://www.beautycreate.com/heavy-metal/)
-  * [Christian Yoga](http://www.beautycreate.com/christian-yoga/)
-  * [2011 Style Trend: Glitter Dresses](http://www.beautycreate.com/2011-style-trend-glitter-dresses/)
+  * [Cryotherapy Helps Mavs Win And Can Chill Your Ills](http://www.beautycreate.com/cryotherapy-helps-mavs-win-and-can-chill-your-ills/)
+  * [Women May Be Getting Unneeded Heart Imaging Tests](http://www.beautycreate.com/women-may-be-getting-unneeded-heart-imaging-tests/)
   * [Cropped Pants](http://www.beautycreate.com/cropped-pants/)
-  * [Can a Girl Get Pregnant on Her Period?](http://www.beautycreate.com/can-a-girl-get-pregnant-on-her-period/)
-  * [Laying The Foundation – Laying The Foundation For Makeup](http://www.beautycreate.com/laying-the-foundation-laying-the-foundation-for-makeup/)
+  * [The Sunshine Vitamin: Get Your Vitamin D](http://www.beautycreate.com/the-sunshine-vitamin-get-your-vitamin-d/)
+  * [Dragonfly Pose Is the Yoga Pose of the Week](http://www.beautycreate.com/dragonfly-pose-is-the-yoga-pose-of-the-week/)
+  * [Women Health Fitness](http://www.beautycreate.com/women-health-fitness/)
 
 
