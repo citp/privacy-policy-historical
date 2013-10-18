@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the isohunt.com privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603171627id_/http%3A//isohunt.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the isohunt.com privacy policy that was archived on 2013-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131018020328id_/http%3A//isohunt.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy › isoHunt › the BitTorrent & P2P search engine
 
@@ -15,7 +15,7 @@
   
 Active torrents indexed from websites and trackers across the internet, unique by info_hash
 
-  Sites: 551  •  Trackers: 225,532  •  **Active Torrents: 12,256,813**  •  Files: 268.38M  •  Size: 16,549.22 TB  •  Peers: 52.65M  
+  Sites: 555  •  Trackers: 235,847  •  **Active Torrents: 13,741,412**  •  Files: 285.62M  •  Size: 17,373.28 TB  •  Peers: 49.75M  
 
 Privacy Policy
 
@@ -30,14 +30,17 @@ We use various third-party advertising companies to serve ads when you visit our
 In the course of serving advertisements to this site, our third-party advertisers may place or recognize a unique "cookie" on your browser. This in itself will not divulge your personal information.
 
 |   
-[](http://www.v2cigs.com/2070-0-1-110.html)
+[VIP](https://isohunt.com/member.php "All proceeds goes to maintainence and development of isoHunt. Thanks for your support!")
 
-[](http://isohunt.com/a/adclick.php?bannerid=459&zoneid=1&source=&dest=http%3A%2F%2Fbtguard.com%2F%3Fa%3Disohunt)
+membership is only **$1/month** , with perks like turning off all annoying ads. We dislike ads as much as you do!
+
+[](http://isohunt.com/a/adclick.php?bannerid=88&zoneid=1&source=&dest=http%3A%2F%2Fwww.jinx.com%2Fisohunt)  
+[ **NEW** 8 Years Anniversary Tee!](http://isohunt.com/forum/viewtopic.php?t=693393)
 
 | Stats  
 ---  
-isoHunt has **41944** users online, 2308906 members registered. [Sign up](https://web.archive.org/forum/profile.php?mode=register) now to comment!  
-Welcome to our newest member: **_majolas58_**  
+isoHunt has **18851** users online, 2437690 members registered. [Sign up](https://web.archive.org/forum/profile.php?mode=register) now to comment!  
+Welcome to our newest member: **_dethrows89_**  
   
 Shout Box  
 ---  
