@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the misvecinaslesbianas.com privacy policy that was archived on 2013-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130517203952id_/http%3A//www.misvecinaslesbianas.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the misvecinaslesbianas.com privacy policy that was archived on 2013-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131019000228id_/http%3A//www.misvecinaslesbianas.com/privacy) for the most accurate reproduction.*
 
 # Mis Vecinas Lesbianas
 
