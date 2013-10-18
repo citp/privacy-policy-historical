@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the luckyorange.com privacy policy that was archived on 2013-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130605053248id_/http%3A//luckyorange.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the luckyorange.com privacy policy that was archived on 2013-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131018203131id_/http%3A//www.luckyorange.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy | Lucky Orange
 
@@ -10,8 +10,7 @@ If you would like to opt out of being tracked on all sites using Lucky Orange si
 
 Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
 
-**Server Locations** [ ](https://www.securitymetrics.com/site_certificate.adp?s=96%2e126%2e123%2e155&i=890228)  
-Currently we operate off of linode.com's server facilities in Dallas, Texas USA. Our web servers are also PCI Compliant. 
+**Server Locations** Currently we operate off of dedicated server facilities in Phoenix, Arizona USA. 
 
 **How do we protect your information?**
 
@@ -51,7 +50,7 @@ Please also visit our Terms and Conditions section establishing the use, disclai
 
 **Your Consent**
 
-By using our site, you consent to our [websites privacy policy](http://www.freeprivacypolicy.com/).
+By using our site, you consent to our website's privacy policy.
 
 **Changes to our Privacy Policy**
 
@@ -65,6 +64,6 @@ If there are any questions regarding this privacy policy you may contact us usin
 
 <http://www.luckyorange.com/contact.php>
 
-8401 West 97th Terrace  
-Overland Park, KS 66212  
-US
+8220 Travis Street Suite 210  
+Overland Park, KS 66204  
+USA
