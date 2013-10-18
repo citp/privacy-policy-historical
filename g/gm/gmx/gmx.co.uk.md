@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the gmx.co.uk privacy policy that was archived on 2013-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130622231733id_/http%3A//www.gmx.co.uk/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gmx.co.uk privacy policy that was archived on 2013-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131019010007id_/http%3A//www.gmx.co.uk/privacy.html) for the most accurate reproduction.*
 
 # Free Webmail and Email by GMX | Sign Up Now!
-
-  * Please enable Java Script in your browser and retry.
-
-
 
 ## Privacy
 
@@ -25,7 +21,7 @@ The data we collect is information that identifies you personally, and may inclu
     * Date of Birth
     * Country
 
-You can remove or modify your personal information at any time by logging in to your account at mail.com and navigating to Options -> Account -> Account Data. To delete your account in its entirety, please navigate to Options -> Account -> Delete Account and follow the instructions under “Delete Account.” For more information on managing your account see the help section in your mail.com account.
+You can remove or modify your personal information at any time by logging in to your account at GMX and navigating to Options -> Account -> Account Data. To delete your account in its entirety, please navigate to Options -> Account -> Delete Account and follow the instructions under “Delete Account.” For more information on managing your account see the help section in your GMX account.
 
 GMX may also collect information about how users access the website using a tracking ID unique to each user through the use of cookies.
 
