@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the edensavr.org privacy policy that was archived on 2013-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130604231518id_/http%3A//www.edensavr.org/static/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edensavr.org privacy policy that was archived on 2013-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131018025420id_/http%3A//www.edensavr.org/static/privacy) for the most accurate reproduction.*
 
 # Edensavr | Privacy Statement
 
