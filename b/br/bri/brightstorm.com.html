@@ -1,17 +1,18 @@
-<!--The following is the downloaded HTML source of the brightstorm.com privacy policy that was archived on 2013-05-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130514233508id_/http%3A//www.brightstorm.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the brightstorm.com privacy policy that was archived on 2013-10-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131018021734id_/http%3A//www.brightstorm.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
  
+<meta name="p:domain_verify" content="02add18e7e788764e08aac3d2f06625d">
 <meta name="apple-itunes-app" content="app-id=551417645">
  <title>Privacy Policy - Math, Science, English, Test Prep - Brightstorm</title>
 <meta http-equiv="content-type" content="text/html; charset=UTF-8">
 <meta name="description" content="Time-saving Homework Help Videos in Math (Algebra 1-2, Geometry, Trigonometry, Precalculus, Calculus) &amp; Science (Physics, Chemistry, Biology); SAT, ACT, AP &amp; PSAT">
 <meta name="keywords" content="time-saving homework help, homework help, time-saving homework help videos, math, science, algebra, geometry, trigonometry, precalculus, calculus, physics, chemistry, biology, time-saving videos, videos, time-saving, test prep, sat, act, psat, ap, brightstorm">
 <meta name="viewport" content="width=1040" id="viewpoint">
-<link rel="stylesheet" href="/static/CACHE/css/815c50c797cb.css" type="text/css"><link rel="stylesheet" href="/static/CACHE/css/c15a0fccce81.css" type="text/css" media="screen"><link rel="stylesheet" href="/static/CACHE/css/6363a853a05f.css" type="text/css">
+<link rel="stylesheet" href="/static/CACHE/css/2fd60f1356ea.css" type="text/css"><link rel="stylesheet" href="/static/CACHE/css/c15a0fccce81.css" type="text/css" media="screen"><link rel="stylesheet" href="/static/CACHE/css/6363a853a05f.css" type="text/css">
 
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.0/jquery.min.js"></script>
+<script id="twitter-wjs" src="https://platform.twitter.com/widgets.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1&amp;appId=289778901037795"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.0/jquery.min.js"></script>
 <!--[if lt IE 9]>
 <script type="text/javascript">document.createElement('header');document.createElement('hgroup');document.createElement('nav');document.createElement('menu');document.createElement('section');document.createElement('article');document.createElement('aside');document.createElement('footer');</script>
 <![endif]-->
@@ -22,6 +23,7 @@
 
 <link href="/static/img/favicon.ico" rel="shortcut icon" type="image/x-icon">
 <link href="/static/img/favicon.ico" rel="icon" type="image/x-icon">
+
 
 <link rel="stylesheet" href="/static/CACHE/css/29e5c3eaca3a.css" type="text/css">
 
@@ -36,18 +38,14 @@
         var today = new Date();
         var tomorrow = new Date(today.getTime() + (24 * 60 * 60 * 1000));
 
-        var promoSlug = $(this).parent().parent().attr("data-filter");
+        var promoSlug = $("#id_top_promotion").attr("data-filter");
         $.cookies.set( promoSlug, '1', { expiresAt: tomorrow } );
 
-        $(this).parent().parent().slideUp();
-
-        var pricingBgHeight = $(".pricing-bg").height() - 40;
-        $(".pricing-bg").height(pricingBgHeight);
+        $("#id_top_promotion").slideUp();
     }
 
     var isClosedPromo = function(promoSlug) {
         var isClosedPromo = $.cookies.get( promoSlug );
-
         if (isClosedPromo == '1') {
             return true;
         } else {
@@ -58,32 +56,100 @@
     var openPromo = function(promoSlug) {
         var pathname = window.location.pathname;
 
-        $(".alert .promo").each(function() {
-            if ($(this).attr("data-filter") == promoSlug && (!isClosedPromo(promoSlug) && pathname != '/game-changers')) {
-                $(this).slideDown();
+        if ($("#id_top_promotion").attr("data-filter") == promoSlug
+                && (!isClosedPromo(promoSlug)
+                && (pathname != '/game-changers' && pathname != '/jobs/teacher') )) {
 
-                var pricingBgHeight = $(".pricing-bg").height() + 40;
-                $(".pricing-bg").height(pricingBgHeight);
-            }
-        });
+            $("#id_top_promotion").slideDown();
+        }
     };
 
     $(function() {
-        openPromo('promo-game-changers');
-        $(".alert .close").on("click", onClosePromo);
+        //openPromo('promo-brs-for-schools');
+        //$(".alert .close").on("click", onClosePromo);
     });
 </script>
 
+<!-- add this in the header -->
+<!--[if gte IE 9]>
+  <style type="text/css">
+    .gradient {
+       filter: none;
+    }
+  </style>
+<![endif]-->
 
-<div class="row-fluid green-bg alert">
-    <div class="container">
-        <div class="promo hide" data-filter="promo-game-changers">
-            <div class="span4"><h4>Join <span class="ch-title">Game Changers!</span></h4></div>
-            <div class="span7"><strong><a href="/game-changers"><img class="owl-mini" src="/static/img/corp/game-changers-owl-mini.png" alt="">Apply Today</a></strong> <small>and receive complimentary 6 month Premium subscription!</small></div>
-            <div class="span1"><button data-dismiss="row-fluid green-bg alert" class="close" type="button">×</button></div>
+<!-- add style in the header -->
+
+<style>
+.gradient {
+    background: rgb(143,200,0); /* Old browsers */
+    /* IE9 SVG, needs conditional override of 'filter' to 'none' */
+    background: url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiA/Pgo8c3ZnIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgdmlld0JveD0iMCAwIDEgMSIgcHJlc2VydmVBc3BlY3RSYXRpbz0ibm9uZSI+CiAgPGxpbmVhckdyYWRpZW50IGlkPSJncmFkLXVjZ2ctZ2VuZXJhdGVkIiBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSIgeDE9IjAlIiB5MT0iMCUiIHgyPSIxMDAlIiB5Mj0iMCUiPgogICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iIzhmYzgwMCIgc3RvcC1vcGFjaXR5PSIxIi8+CiAgICA8c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3AtY29sb3I9IiNmZmU2NWEiIHN0b3Atb3BhY2l0eT0iMSIvPgogIDwvbGluZWFyR3JhZGllbnQ+CiAgPHJlY3QgeD0iMCIgeT0iMCIgd2lkdGg9IjEiIGhlaWdodD0iMSIgZmlsbD0idXJsKCNncmFkLXVjZ2ctZ2VuZXJhdGVkKSIgLz4KPC9zdmc+);
+    background: -moz-linear-gradient(left,  rgba(143,200,0,1) 0%, rgba(255,230,90,1) 100%); /* FF3.6+ */
+    background: -webkit-gradient(linear, left top, right top, color-stop(0%,rgba(143,200,0,1)), color-stop(100%,rgba(255,230,90,1))); /* Chrome,Safari4+ */
+    background: -webkit-linear-gradient(left,  rgba(143,200,0,1) 0%,rgba(255,230,90,1) 100%); /* Chrome10+,Safari5.1+ */
+    background: -o-linear-gradient(left,  rgba(143,200,0,1) 0%,rgba(255,230,90,1) 100%); /* Opera 11.10+ */
+    background: -ms-linear-gradient(left,  rgba(143,200,0,1) 0%,rgba(255,230,90,1) 100%); /* IE10+ */
+    background: linear-gradient(to right,  rgba(143,200,0,1) 0%,rgba(255,230,90,1) 100%); /* W3C */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#8fc800', endColorstr='#ffe65a',GradientType=1 ); /* IE6-8 */
+}
+
+.titleStyle {margin-top: 5px; margin-right: 5px; margin-left: 30px; border-right: 1px solid #BBCB66;}
+.titleLink {color:#0088CC; font-size:16px;}
+
+#id_top_promotion {margin-bottom: 0 !important;border: 0!important;display: none}
+#id_top_promotion .span1 {width: 20px;}
+
+.white {background-color: white; background-image: none;}
+.promo h3 {
+color: #064760;
+font-size: 20px;
+line-height: 1;
+margin-bottom: 0;
+margin-left: -20px;
+}
+.promo p {
+font-size: 14px;
+line-height: 23px;
+}
+
+.learn-more {
+float: right;
+margin-bottom: -6px;
+margin-left: 20px;
+margin-top: -3px;
+padding: 3px 14px;
+}
+.promo .alert {
+    margin-bottom: 0;
+}
+.alert .close {
+font-size: 26px;
+line-height: 20px;
+position: relative;
+right: -21px;
+top: 2px;
+}
+</style>
+
+<div id="id_top_promotion" class="promo hide" data-filter="promo-brs-for-schools">
+    <div class="container-fluid alert alert-info">
+        <div class="row">
+            <div class="container">
+                <div class="span"><h3>Brightstorm for Schools</h3></div>
+                <div class="span">
+                    <p> Give students a whole new experience with high quality video lessons.</p>
+                </div>
+                <div class="span"><a href="http://school.brightstorm.com" class="btn learn-more" target="_blank">Learn more</a></div>
+
+                <div class="span pull-right">
+                <button type="button" class="close" data-dismiss="row-fluid green-bg alert">×</button></div>
+            </div>
         </div>
     </div>
-</div>
+ </div>
+
 
 
 <div class="header">
@@ -413,16 +479,18 @@
         <a class="btn" href="/textbook">Textbook </a>
     </div><!-- /btn-group -->
     <div class="btn-group">
-        <a class="btn" href="/instantmath">Instant Math </a>
+        <a class="btn" href="http://blog.brightstorm.com" target="_blank">Blog </a>
     </div><!-- /btn-group -->
     <div class="btn-group">
         <button class="btn dropdown-toggle" data-toggle="dropdown">Contact <span class="caret"></span></button>
         <ul class="dropdown-menu">
             <li><a href="/about-us"><strong>About Us</strong></a></li>
             <li><a href="/faq"><strong>FAQ</strong></a></li>
+<li><a href="http://school.brightstorm.com" target="_blank"><strong>Group Accounts for Schools</strong></a></li>
         </ul>
     </div><!-- /btn-group -->
 </div>​
+
 			</div>
 			<div class="gnb-search-wrap right">
 				<form action="/search" method="get">
@@ -450,13 +518,13 @@
 
 	<div>
 		<p>
-			Last Updated: December 31, 2012
+			Last Updated: October 7, 2013
 		</p>
 		<p>
 			At Brightstorm, Inc. (Brightstorm), protecting your privacy is really important to us. Accordingly, we're providing this Privacy Policy to explain our practices regarding the collection, use and disclosure of information that we receive when you use our Services (as defined in our Terms of Service, accessible at <a href="http://www.brightstorm.com/terms-of-service">www.brightstorm.com/terms-of-service</a>. This Privacy Policy applies to the website www.brightstorm.com and services included within "Services" and doesn't apply to any third-party websites, services or applications, even if they are accessible through our Services. Also, please note that, unless we define a term in this Privacy Policy, all capitalized words used in this Privacy Policy have the same meanings as in our Terms of Service.
 		</p>
 		<p>
-			Brightstorm, Inc has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with <a href="http://www.truste.com/privacy-program-requirements/" target="_blank">TRUSTe's program requirements</a> including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program covers the web site <a href="http://www.brightstorm.com">www.brightstorm.com</a> and does not cover mobile instances of Brighstorm. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions.
+			Brightstorm, Inc has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with <a href="http://www.truste.com/privacy-program-requirements/" target="_blank">TRUSTe's program requirements</a> including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program covers the web site <a href="http://www.brightstorm.com">www.brightstorm.com</a> and does not cover mobile instances of Brightstorm. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions.
 		</p>
 		<p>
 			If you have questions or concerns regarding this Privacy Policy, you should first contact us at <a href="mailto:support@brightstorm.com">support@brightstorm.com</a>. If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact <a href="http://watchdog.truste.com/pvr.php?page=complaint" target="_blank">TRUSTe</a> here. TRUSTe will then serve as a liaison with us to resolve your concerns. 
@@ -520,13 +588,25 @@
 		
 		<p class="strong">Links to Other Sites</p>
 		<p>
-			Our Services may contain links to other websites and services. Any information that you provide on or to a third-party website or service is provided directly to the owner of the website or service and is subject to that party's privacy policy. Our Privacy Policy does not apply to such websites or services and we're not responsible for the content, privacy or security practices and policies of those websites or services. To protect your information we recommend that you carefully review the privacy policies of other websites and services that you access. 
+Our Services may contain links to other websites and services. Any information that you provide on or to a third-party website or service is provided directly to the owner of the website or service and is subject to that party's privacy policy. Our Privacy Policy does not apply to such websites or services and we're not responsible for the content, privacy or security practices and policies of those websites or services. To protect your information we recommend that you carefully review the privacy policies of other websites and services that you access.
 		</p>
-		
+
+	<p class="strong">Social Media Widgets</p>
+	<p>
+	Our Web site includes Social Media Features, such as the Facebook Like button and Widgets, such as the Share this button or interactive mini-programs that run on our site. These Features may collect your IP address, which page you are visiting on our site, and&nbsp;may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it.
+	</p>
+
+	
 		<p class="strong">Modifying Your Information</p>
 		<p>
-			You can access and modify the PII associated with your Account by viewing your account page at <a href="http://www.brightstorm.com/account">http://www.brightstorm.com/account</a> and making changes to your Account information. Some information about your Account or subscription may remain in archived/backup copies for our records or as otherwise required by law. 
+			You can access and modify, or delete the PII associated with your Account by viewing your account page at <a href="http://www.brightstorm.com/account">http://www.brightstorm.com/account</a> and making changes to your Account information. Some information about your Account or subscription may remain in archived/backup copies for our records or as otherwise required by law. 
 		</p>
+<p>
+We will retain your information for as long as your account is active or as needed to provide you services.  We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
+</p>
+<p>
+ If you wish to subscribe to our newsletter(s), we will use your name and email address to send the newsletter to you.  Out of respect for your privacy, you may choose to stop receiving our newsletter or marketing emails by following the unsubscribe instructions included in these emails, accessing the email preferences in your account settings page or you can contact us at <a href="mailto:support@brightstorm.com">support@brightstorm.com</a>.
+</p>
 		
 		<p class="strong">Facebook Connect</p>
 		<p>
@@ -547,7 +627,7 @@
 
 		<p class="strong">Changes to Privacy Policy </p>
 		<p>
-			Any information that we collect is subject to the privacy policy in effect at the time such information is collected. We may, however, modify and revise this Privacy Policy from time to time. If we make any material changes to this Privacy Policy, we'll notify you of such changes by posting them on the Services or by sending you an email or other notification, and we'll indicate when such changes will become effective. 
+Any information that we collect is subject to the privacy policy in effect at the time such information is collected. We may, however, modify and revise this Privacy Policy from time to time. If we make any material changes to this Privacy Policy, we'll notify you of such changes by posting them on the Services or by sending you an email or other notification prior to the change becoming effective. We'll indicate when such changes will become effective.
 		</p>
 
 
@@ -559,40 +639,86 @@
 			 2103 Landings Dr., <br>
 			Mountain View, CA 94043.
 		</p>
-
+<p>&nbsp;</p>
+<p>
+Any information that we collect is subject to the privacy policy in effect at the time such information is collected. We may, however, modify and revise this Privacy Policy from time to time. If we make any material changes to this Privacy Policy, we'll notify you of such changes by posting them on the Services or by sending you an email or other notification prior to the change becoming effective. We'll indicate when such changes will become effective.
+</p>
 	</div>
 </div>
 
 	<div id="clear"></div>
 </div>
 
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=289778901037795";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<style>
+    #footer .social-buttons {width:370px}
+    #footer .social-buttons div{float: left;}
+    #footer .social-buttons .sbtn {height: 20px;line-height: 20px;vertical-align:middle;}
+    #footer .social-buttons .mbtn {margin:0 10px;height: 20px;line-height: 20px;vertical-align:middle;}
+    #footer .about {margin-bottom:15px;}
+</style>
+
 <div id="footer">
     <div class="holder">
-    	<div class="left about clearfix">
-    		<p class="copyright_info">© 2013 Brightstorm, Inc. All Rights Reserved.</p>
-	        <ul>
-	            <li><a class="color_inh_footer" href="/about-us">About Us</a></li>
-	            <li>|</li>
-	            <li><a class="color_inh_footer" href="/faq">FAQ</a></li>
-	            <li>|</li>
-	            <li><a class="color_inh_footer" href="/terms-of-service">Terms Of Service</a></li>
-	            <li>|</li>
-	            <li><a class="color_inh_footer" href="/privacy-policy">Privacy Policy</a></li>
-	        </ul>
-		</div>
-			
-		 <div class="right dept clearfix">
-	        <ul>
-	            <li><a class="color_inh_footer" href="/">Home</a></li>
-	            <li>|</li>
-	            <li><a class="color_inh_footer" href="/math">Math</a></li>
-	            <li>|</li>
-	            <li><a class="color_inh_footer" href="/science">Science</a></li>
-	            <li>|</li>
-	            <li><a class="color_inh_footer" href="/test-prep">Test Prep</a></li>
-	            <li>|</li>
-	            <li><a class="color_inh_footer" href="/instantmath">Instant Math</a></li>
-	        </ul>
+        <div class="left about clearfix">
+            <p class="copyright_info">© 2013 Brightstorm, Inc. All Rights Reserved.</p>
+            <div class="social-buttons clearfix">
+                <div class="sbtn">
+                    <div class="fb-like" data-href="https://www.facebook.com/brightstorm" data-send="false" data-layout="button_count" data-width="100" data-show-faces="false"></div>
+                </div>
+
+                <div class="mbtn">
+                    <a href="https://twitter.com/brightstorm_" class="twitter-follow-button" data-show-count="false" data-show-screen-name="false">Follow @brightstorm_</a>
+                    <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+                </div>
+
+                <div class="sbtn">
+                    <a href="https://plus.google.com/107993627190433537355?prsrc=3" rel="publisher" target="_blank" style="text-decoration:none;">
+                    <img src="//ssl.gstatic.com/images/icons/gplus-16.png" alt="Google+" style="border:0;width:16px;height:16px;margin-top: 2px;">
+                    </a>
+                </div>
+            </div>
+        </div>
+
+        <div class="right dept clearfix">
+
+
+            <ul class="right">
+                <li><a class="color_inh_footer" href="/">Home</a></li>
+                <li>|</li>
+                <li><a class="color_inh_footer" href="/math">Math</a></li>
+                <li>|</li>
+                <li><a class="color_inh_footer" href="/science">Science</a></li>
+                <li>|</li>
+                <li><a class="color_inh_footer" href="/test-prep">Test Prep</a></li>
+                <li>|</li>
+                <li><a class="color_inh_footer" href="/instantmath">Instant Math</a></li>
+            </ul>
+
+            <ul>
+                <li><a class="color_inh_footer" href="/about-us">About Us</a></li>
+                <li>|</li>
+<li><a class="color_inh_footer" href="http://school.brightstorm.com" target="_blank">Brightstorm for Schools</a></li>
+<li>|</li>
+                <li><a class="color_inh_footer" href="http://blog.brightstorm.com" target="_blank">Blog</a></li>
+                <li>|</li>
+		<li><a class="color_inh_footer" href="/jobs/teacher">Jobs</a></li>
+                <li>|</li>
+                <li><a class="color_inh_footer" href="/faq">FAQ</a></li>
+                <li>|</li>
+                <li><a class="color_inh_footer" href="/terms-of-service">Terms Of Service</a></li>
+                <li>|</li>
+                <li><a class="color_inh_footer" href="/privacy-policy">Privacy Policy</a></li>
+            </ul>
+
         </div>
     </div>
 </div>
