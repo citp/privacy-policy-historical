@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the miracas.com privacy policy that was archived on 2013-05-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130503132652id_/http%3A//miracas.com/content/11-privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the miracas.com privacy policy that was archived on 2013-10-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131018174824id_/http%3A//miracas.com/content/11-privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en"><head>
 
@@ -140,6 +140,9 @@
 	<script type="text/javascript" src="/modules/infinitescroll/js/init.js"></script>
 
 	
+	<script type="text/javascript" src="/modules/darique/js/darique.js"></script>
+
+	
 
 		
         <!-- MODULE JBX_MENU -->
@@ -204,20 +207,344 @@ _gaq.push(['_trackPageview', '']);_gaq.push(['_trackPageLoadTime']);
 </script>
 <!-- BlockWishlist -->
 <script type="text/javascript" src="/modules/blockwishlist/js/ajax-wishlist.js"></script>
-<!-- END BlockWishlist --><!-- Block Home slideshow HEADER -->
-
-<link rel="stylesheet" type="text/css" href="http://miracas.com/modules/pss_slideshow/css/style.css">
-
-
-	<script src="http://miracas.com/modules/pss_slideshow/js/jquery-plugins/jquery.cross-slide.js" type="text/javascript"></script>
-
-
-<!-- Block Home slideshow HEADER -->
+<!-- END BlockWishlist -->
 <script type="text/javascript" src="http://miracas.com/modules/preorderproducts/js/jquery.countdown.js"></script>
 
 <link href="http://miracas.com/modules/preorderproducts/css/jquery.countdown.css" rel="stylesheet" type="text/css" media="all">
+<script>
+ var color = '';
 
-	<script id="facebook-jssdk" async="" src="//connect.facebook.net/en_US/all.js"></script></head>
+	$(document).ready(function() {
+		
+		$(".ds-block li").each(function(){
+			$(this).hover(
+			   function() {
+			      $(this).parent().find('li').css("opacity", "0.6");
+				  $(this).find("img").css("opacity", "1");
+				  $(this).css("opacity", "1");				  		
+			   },
+			   function() {	
+			        var display = '';
+					if( $(this).css("display") == 'none' ){ display = true; }
+					if( display == true ){ $(this).css("display", 'none'); }
+			   }
+			);
+		});
+		
+		$(".ds-block_content").bind("mouseleave",function(){
+			$(".ds-block li").css("opacity", "1");
+		});
+		
+		
+
+
+		
+		
+				
+				
+		
+	});
+
+</script>
+
+<style>
+
+
+
+	.ds-categories_block h4  {
+		background: url("themes/velvetsky/img/vs-footer.png") repeat-x scroll 0 0 transparent !important;
+		color: #E6BB3A;
+		font-size: 14px;
+    }
+	.ds-categories_block .ds-block_content  {
+		background: url("themes/velvetsky/img/vs-bg-main.png") repeat scroll 0 0 transparent !important;
+    }
+	.ds-categories_block ul li  {
+		background: url("modules/homecategory/css/images/colors/black/block.png") repeat scroll 0 0 transparent !important;
+		width: 300px;
+		height: 190px;
+    }
+	div.ds-categories_block h5  {
+		background: url("modules/homecategory/css/images/colors/black/name.png") repeat-x scroll 0 bottom transparent !important;
+		font-size: 13px;
+    }
+	div.ds-categories_block h5 a {
+		color: #ffffff;
+    }
+	div.ds-categories_block div.ds-product_desc  {
+		background: url("modules/homecategory/css/images/colors/black/description2.png") repeat-x scroll 0 bottom transparent !important;
+		color: #B6B6B6;
+		font-size: 12px;
+    }
+	div.ds-categories_block  {
+		height: 200px;
+    }
+
+
+
+/* GENERAL STYLE */
+div.ds-products_block ul {
+	height: px;
+}
+div.ds-categories_block ul {
+	height: 200px;
+}
+div.ds-block a.ds-exclusive {
+    width: 300px !important;
+}
+
+
+#ds-products_block_center, #ds-categories_block_center{
+	margin-top: 20px;
+}
+#ds-categories_block_center{
+    margin-bottom: 50px;
+}
+#ds-products_block_center {
+    margin: 0 auto !important;
+    width: 100%;
+	clear:both;
+}
+div.ds-block h4 {
+    height: 25px;
+    margin: 0;
+    padding-bottom: 0;
+    padding-left: 10px;
+    padding-top: 8px;
+    text-transform: uppercase;
+}
+.ds-block_content {
+    padding-left: 8px;
+}
+.ds-block_content ul {
+    margin: 0;
+    padding: 0;
+}
+.ds-block{
+	position:relative;
+}
+.ds-block ul li {
+    border: 1px solid #515151;
+    float: left;
+    list-style: none outside none;
+    margin: 5px 5px 5px 0;
+    padding: 0 0 1px;
+}
+.ds-block ul li img {
+    border: medium none;
+    margin: 0;
+    padding: 0;
+    z-index: 20000;	
+}
+div.ds-block h5 {
+    font-family: sans-serif;
+    margin: 0;
+    padding: 8px 2px;
+    text-align: center;
+}
+div.ds-block h5 a {
+    color: #FFFFFF;
+    font-size: 1.1em;
+    text-align: center;
+    text-decoration: none;
+	font-style: italic;
+}
+div.ds-block div.ds-product_desc {
+    height: 45px;
+    margin: 0 5px 5px;
+    overflow: hidden;
+    padding: 5px 5px 9px;
+}
+div.ds-block ul li div.ds-product_desc a {
+    background: none repeat scroll 0 0 transparent !important;
+    color: #B6B6B6;
+    font-family: sans-serif;
+    font-size: 12px;
+    font-weight: normal;
+    text-decoration: none;
+}
+div.ds-block ul li p.ds-price_container {
+    font-weight: bold;
+    height: 20px;
+    margin: 0;
+    padding-bottom: 0;
+    padding-top: 5px;
+    text-align: center;
+}
+div.ds-block ul li span.ds-price {
+    padding: 3px;
+	font-size: 18px;
+}
+div.ds-block a.ds-exclusive {
+    display: block;
+    font-family: sans-serif;
+    font-weight: bold;
+    margin: 0;
+    padding: 3px 5px 6px;
+    text-align: center;
+    text-decoration: none;
+}
+a.ds-product_image {
+    display: block;
+    position: relative !important;
+	overflow: hidden;
+}
+a.ds-product_image img {
+	background: #ffffff;
+	padding: 0px 0px 0 0px !important;
+}
+.ds-rounded_top {
+	-moz-border-radius-topleft: 7px;
+    -webkit-border-radius-topleft: 7px;
+    -khtml-border-radius-topleft: 7px;
+    border-radius-topleft: 7px;
+	-moz-border-radius-topright: 7px;
+    -webkit-border-radius-topright: 7px;
+    -khtml-border-radius-topright: 7px;
+    border-radius-topright: 7px;
+}
+.ds-rounded_bottom {
+	-moz-border-radius-bottomleft: 7px;
+    -webkit-border-radius-bottomleft: 7px;
+    -khtml-border-radius-bottomleft: 7px;
+    border-radius-bottomleft: 7px;
+	-moz-border-radius-bottomright: 7px;
+    -webkit-border-radius-bottomright: 7px;
+    -khtml-border-radius-bottomright: 7px;
+    border-radius-bottomright: 7px;
+}
+.ds-image_back {
+    bottom: 0;
+    height: 12px;
+    position: absolute;
+    width: 100%;
+    z-index: 1;
+}
+
+.shadow1 {
+	text-shadow: 0px 1px 1px #fff;
+}
+
+.shadow2 {
+	text-shadow: 0px 1px 1px #000;
+}
+
+.ds-block .ds-product_image span.ds-new {
+    -moz-transform: rotate(45deg);
+    background-color: #990000;
+    color: #FFFFFF;
+    display: block;
+    font-size: 10px;
+    padding: 1px 4px;
+    position: absolute;
+    right: -30px;
+    text-align: center;
+    text-transform: uppercase;
+    top: 15px;
+    width: 101px;
+}
+
+
+/* PAGGINATION PRODUCTS */
+
+ ol#pagination_products  {
+    position: absolute;
+    right: 8px;
+    text-align: center;
+    top: 8px;
+}
+ ol#pagination_products li{
+    
+        display:inline-block;
+        width:16px;
+        height:16px;
+        background:url(/modules/homecategory/css/images/bg_buttons.png) no-repeat 0 0;
+        text-align:left;
+        text-indent:-8000px;
+        list-style:none;
+        cursor:pointer;
+        margin:0 2px;
+		float:left;
+    
+}
+ol#pagination_products li:hover{
+    
+        background:url(/modules/homecategory/css/images/bg_buttons.png) no-repeat 0 -16px;
+    
+}
+ol#pagination_products li.current{
+    
+        olor:#f00;font-weight:bold;background:url(/modules/homecategory/css/images/bg_buttons.png) no-repeat 0 -32px;
+    
+}
+ol#pagination_products li.prev, ol#pagination_products li.next{
+    position:absolute;
+    top:-150px;
+}
+ol#pagination_products li.prev{
+    
+        left:-30px;background:url(/modules/homecategory/css/images/bg_buttons.png) no-repeat 0 -64px;
+    
+}
+ol#pagination_products li.next{
+    
+        right:-30px;background:url(/modules/homecategory/css/images/bg_buttons.png) no-repeat 0 -48px;
+    
+}
+
+/* PAGGINATION Categories */
+
+ ol#pagination_categories  {
+    position: absolute;
+    right: 8px;
+    text-align: center;
+    top: 8px;
+}
+ ol#pagination_categories li{
+    
+        display:inline-block;
+        width:16px;
+        height:16px;
+        background:url(/modules/homecategory/css/images/bg_buttons.png) no-repeat 0 0;
+        text-align:left;
+        text-indent:-8000px;
+        list-style:none;
+        cursor:pointer;
+        margin:0 2px;
+		float:left;
+    
+}
+ol#pagination_categories li:hover{
+    
+        background:url(/modules/homecategory/css/images/bg_buttons.png) no-repeat 0 -16px;
+    
+}
+ol#pagination_categories li.current{
+    
+        olor:#f00;font-weight:bold;background:url(/modules/homecategory/css/images/bg_buttons.png) no-repeat 0 -32px;
+    
+}
+ol#pagination_categories li.prev, ol#pagination_categories li.next{
+    position:absolute;
+    top:-150px;
+}
+ol#pagination_categories li.prev{
+    
+        left:-30px;background:url(/modules/homecategory/css/images/bg_buttons.png) no-repeat 0 -64px;
+    
+}
+ol#pagination_categories li.next{
+    
+        right:-30px;background:url(/modules/homecategory/css/images/bg_buttons.png) no-repeat 0 -48px;
+    
+}
+
+</style>
+        <script type="text/javascript">
+            var dariquePath = "/modules/darique/";
+        </script>
+
+	<script id="facebook-jssdk" async="" src="//connect.facebook.net/en_US/all.js"></script><script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head>
 
 	
 
@@ -313,20 +640,20 @@ _gaq.push(['_trackPageview', '']);_gaq.push(['_trackPageLoadTime']);
                             &nbsp;<span>Home</span>      </a>
   </li>
                         <li>
-  <a href="http://miracas.com/39-summer-collection" title="Summer Collection">
-                              &nbsp;Summer Collection      </a>
-  </li>
-                        <li>
   <a href="http://miracas.com/11-for-men" title="For Men" class="sf-with-ul">
                               &nbsp;For Men      <span class="sf-sub-indicator"> »</span></a>
     	<ul style="display: none; visibility: hidden;">
   	  	  		<li>
   <a href="http://miracas.com/8-polo-t-shirts" title="Polo T-shirts">
-                              &nbsp;Polo T-shirts    &nbsp;<i>(15)</i>  </a>
+                              &nbsp;Polo T-shirts    &nbsp;<i>(23)</i>  </a>
+  </li>
+  	  		<li>
+  <a href="http://miracas.com/5-woven-ties" title="High Quality Ties">
+                              &nbsp;High Quality Ties    &nbsp;<i>(4)</i>  </a>
   </li>
   	  		<li>
   <a href="http://miracas.com/17-casual-shirts" title="Casual Shirts">
-                              &nbsp;Casual Shirts    &nbsp;<i>(14)</i>  </a>
+                              &nbsp;Casual Shirts    &nbsp;<i>(42)</i>  </a>
   </li>
   	  		<li>
   <a href="http://miracas.com/27-elevator-shoes" title="Elevator Shoes">
@@ -334,15 +661,23 @@ _gaq.push(['_trackPageview', '']);_gaq.push(['_trackPageLoadTime']);
   </li>
   	  		<li>
   <a href="http://miracas.com/29-formal-shirts" title="Formal Shirts">
-                              &nbsp;Formal Shirts    &nbsp;<i>(3)</i>  </a>
+                              &nbsp;Formal Shirts    &nbsp;<i>(17)</i>  </a>
   </li>
   	  		<li>
   <a href="http://miracas.com/32-jackets-and-blazers" title="Jackets And Blazers">
-                              &nbsp;Jackets And Blazers    &nbsp;<i>(8)</i>  </a>
+                              &nbsp;Jackets And Blazers    &nbsp;<i>(22)</i>  </a>
   </li>
   	  		<li>
   <a href="http://miracas.com/37-executive-bags" title="Executive Bags">
                               &nbsp;Executive Bags    &nbsp;<i>(2)</i>  </a>
+  </li>
+  	  		<li>
+  <a href="http://miracas.com/47-watches" title="Watches">
+                              &nbsp;Watches    &nbsp;<i>(7)</i>  </a>
+  </li>
+  	  		<li>
+  <a href="http://miracas.com/50-sports-wear-for-men" title="Sports Wear For Men">
+                              &nbsp;Sports Wear For Men    &nbsp;<i>(2)</i>  </a>
   </li>
   	  	</ul>
   </li>
@@ -356,31 +691,31 @@ _gaq.push(['_trackPageview', '']);_gaq.push(['_trackPageLoadTime']);
   </li>
   	  		<li>
   <a href="http://miracas.com/9-sleep-wear" title="Sleep Wear">
-                              &nbsp;Sleep Wear    &nbsp;<i>(9)</i>  </a>
+                              &nbsp;Sleep Wear    &nbsp;<i>(14)</i>  </a>
   </li>
   	  		<li>
   <a href="http://miracas.com/10-leggings" title="Leggings">
-                              &nbsp;Leggings    &nbsp;<i>(7)</i>  </a>
+                              &nbsp;Leggings    &nbsp;<i>(12)</i>  </a>
   </li>
   	  		<li>
   <a href="http://miracas.com/19-designer-collection" title="Designer Collection">
-                              &nbsp;Designer Collection    &nbsp;<i>(46)</i>  </a>
+                              &nbsp;Designer Collection    &nbsp;<i>(74)</i>  </a>
   </li>
   	  		<li>
   <a href="http://miracas.com/16-casual-tops" title="Casual Tops">
-                              &nbsp;Casual Tops    &nbsp;<i>(107)</i>  </a>
+                              &nbsp;Casual Tops    &nbsp;<i>(178)</i>  </a>
   </li>
   	  		<li>
   <a href="http://miracas.com/24-formal-blouses-and-tops" title="Formal Wear">
-                              &nbsp;Formal Wear    &nbsp;<i>(44)</i>  </a>
+                              &nbsp;Formal Wear    &nbsp;<i>(65)</i>  </a>
   </li>
   	  		<li>
   <a href="http://miracas.com/25-trousers-and-pants" title="Trousers and Pants">
-                              &nbsp;Trousers and Pants    &nbsp;<i>(4)</i>  </a>
+                              &nbsp;Trousers and Pants    &nbsp;<i>(6)</i>  </a>
   </li>
   	  		<li>
   <a href="http://miracas.com/28-hand-bags" title="HandBags">
-                              &nbsp;HandBags    &nbsp;<i>(26)</i>  </a>
+                              &nbsp;HandBags    &nbsp;<i>(30)</i>  </a>
   </li>
   	  		<li>
   <a href="http://miracas.com/26-seasonal-sale" title="Season Sale">
@@ -388,31 +723,35 @@ _gaq.push(['_trackPageview', '']);_gaq.push(['_trackPageLoadTime']);
   </li>
   	  		<li>
   <a href="http://miracas.com/31-dresses" title="Dresses">
-                              &nbsp;Dresses    &nbsp;<i>(19)</i>  </a>
+                              &nbsp;Dresses    &nbsp;<i>(53)</i>  </a>
   </li>
   	  		<li>
   <a href="http://miracas.com/33-jumpsuits" title="Jumpsuits">
-                              &nbsp;Jumpsuits    &nbsp;<i>(5)</i>  </a>
+                              &nbsp;Jumpsuits    &nbsp;<i>(16)</i>  </a>
   </li>
   	  		<li>
   <a href="http://miracas.com/34-winter-wear-" title="Winter Wear ">
-                              &nbsp;Winter Wear     &nbsp;<i>(37)</i>  </a>
+                              &nbsp;Winter Wear     &nbsp;<i>(56)</i>  </a>
   </li>
   	  		<li>
   <a href="http://miracas.com/38-jackets-and-blazers" title="Jackets And Blazers">
-                              &nbsp;Jackets And Blazers    &nbsp;<i>(10)</i>  </a>
+                              &nbsp;Jackets And Blazers    &nbsp;<i>(31)</i>  </a>
   </li>
   	  		<li>
   <a href="http://miracas.com/35-footwear" title="Footwear">
-                              &nbsp;Footwear    &nbsp;<i>(1)</i>  </a>
+                              &nbsp;Footwear    &nbsp;<i>(5)</i>  </a>
   </li>
   	  		<li>
   <a href="http://miracas.com/39-summer-collection" title="Summer Collection">
-                              &nbsp;Summer Collection    &nbsp;<i>(67)</i>  </a>
+                              &nbsp;Summer Collection    &nbsp;<i>(121)</i>  </a>
   </li>
   	  		<li>
-  <a href="http://miracas.com/41-party-wear" title="Party And Occasion Wear">
-                              &nbsp;Party And Occasion Wear    &nbsp;<i>(15)</i>  </a>
+  <a href="http://miracas.com/46-sports-wear" title="Sports Wear">
+                              &nbsp;Sports Wear    &nbsp;<i>(6)</i>  </a>
+  </li>
+  	  		<li>
+  <a href="http://miracas.com/48-offers" title="Offers">
+                              &nbsp;Offers    &nbsp;<i>(3)</i>  </a>
   </li>
   	  	</ul>
   </li>
@@ -422,29 +761,19 @@ _gaq.push(['_trackPageview', '']);_gaq.push(['_trackPageLoadTime']);
     	<ul style="display: none; visibility: hidden;">
   	  	  		<li>
   <a href="http://miracas.com/14-laptop-sling-bags" title="Laptop Sling Bags">
-                              &nbsp;Laptop Sling Bags    &nbsp;<i>(5)</i>  </a>
+                              &nbsp;Laptop Sling Bags    &nbsp;<i>(9)</i>  </a>
   </li>
   	  		<li>
-  <a href="http://miracas.com/22-hair-accessories" title="Hair Accessories" class="sf-with-ul">
-                              &nbsp;Hair Accessories    &nbsp;<i>(0)</i>  <span class="sf-sub-indicator"> »</span></a>
-    	<ul style="display: none; visibility: hidden;">
-  	  	  		<li>
-  <a href="http://miracas.com/20-hair-pins" title="Hair Pins">
-                              &nbsp;Hair Pins    &nbsp;<i>(2)</i>  </a>
-  </li>
-  	  	</ul>
+  <a href="http://miracas.com/42-tablet-covers" title="Tablet Covers">
+                              &nbsp;Tablet Covers    &nbsp;<i>(11)</i>  </a>
   </li>
   	  		<li>
-  <a href="http://miracas.com/23-earrings" title="Earrings and Necklaces">
-                              &nbsp;Earrings and Necklaces    &nbsp;<i>(21)</i>  </a>
+  <a href="http://miracas.com/43-smart-phone-covers" title="Smart Phone Covers">
+                              &nbsp;Smart Phone Covers    &nbsp;<i>(5)</i>  </a>
   </li>
   	  		<li>
-  <a href="http://miracas.com/30-women-s-belts" title="Women's Belts">
-                              &nbsp;Women's Belts    &nbsp;<i>(1)</i>  </a>
-  </li>
-  	  		<li>
-  <a href="http://miracas.com/36-ornament-sets" title="Ornament Sets">
-                              &nbsp;Ornament Sets    &nbsp;<i>(2)</i>  </a>
+  <a href="http://miracas.com/45-tablet-pouch" title="Tablet Pouch">
+                              &nbsp;Tablet Pouch    &nbsp;<i>(1)</i>  </a>
   </li>
   	  	</ul>
   </li>
@@ -457,12 +786,32 @@ _gaq.push(['_trackPageview', '']);_gaq.push(['_trackPageLoadTime']);
                               &nbsp;Designer Collection      </a>
   </li>
                         <li>
-  <a href="http://miracas.com/40-under-1k" title="Under 1 K">
-                              &nbsp;Under 1 K      </a>
-  </li>
-                        <li>
   <a href="http://miracas.com/41-party-wear" title="Party And Occasion Wear">
                               &nbsp;Party And Occasion Wear      </a>
+  </li>
+                        <li>
+  <a href="http://miracas.com/49-home-de" title="Home Decor" class="sf-with-ul">
+                              &nbsp;Home Decor      <span class="sf-sub-indicator"> »</span></a>
+    	<ul style="display: none; visibility: hidden;">
+  	  	  		<li>
+  <a href="http://miracas.com/54-bean-bags" title="Bean Bags">
+                              &nbsp;Bean Bags    &nbsp;<i>(2)</i>  </a>
+  </li>
+  	  	</ul>
+  </li>
+                        <li>
+  <a href="http://miracas.com/55-jewellery" title="Jewellery" class="sf-with-ul">
+                              &nbsp;Jewellery      <span class="sf-sub-indicator"> »</span></a>
+    	<ul style="display: none; visibility: hidden;">
+  	  	  		<li>
+  <a href="http://miracas.com/23-earrings" title="Earrings and Necklaces">
+                              &nbsp;Earrings and Necklaces    &nbsp;<i>(34)</i>  </a>
+  </li>
+  	  		<li>
+  <a href="http://miracas.com/36-ornament-sets" title="Ornament Sets">
+                              &nbsp;Ornament Sets    &nbsp;<i>(15)</i>  </a>
+  </li>
+  	  	</ul>
   </li>
                               <li class="sf-search noBack" style="float:right">
               <form id="searchbox" action="search.php" method="get">
@@ -508,7 +857,7 @@ _gaq.push(['_trackPageview', '']);_gaq.push(['_trackPageLoadTime']);
 
 <div id="header_banner">
 
-	<a href="http://miracas.com/content/17-modelling" title="Advertising"><img src="http://miracas.com/modules/blockbanner/advertising_custom.jpg" alt="Advertising"></a>	
+	<a href="http://miracas.com/53-wall-shelves" title="Advertising"><img src="http://miracas.com/modules/blockbanner/advertising_custom.jpg" alt="Advertising"></a>	
 
 </div>
 
@@ -579,7 +928,7 @@ var removingLinkText = 'remove this product from my cart';
 		<ul class="tree dynamized" style="display: block;">
 									
 <li>
-	<span class="grower CLOSE"> </span><a href="http://miracas.com/2-bags" title="Accessories">Accessories</a>
+	<span class="grower CLOSE"> </span><a href="http://miracas.com/2-bags" title="Buy Wide Range Of Accessories">Accessories</a>
 			<ul style="display: none;">
 									
 <li>
@@ -587,35 +936,29 @@ var removingLinkText = 'remove this product from my cart';
 	</li>
 												
 <li>
-	<span class="grower CLOSE"> </span><a href="http://miracas.com/22-hair-accessories" title="Hair Accessories">Hair Accessories</a>
-			<ul style="display: none;">
-									
+	<a href="http://miracas.com/42-tablet-covers" title="Tablet Covers ">Tablet Covers</a>
+	</li>
+												
+<li>
+	<a href="http://miracas.com/43-smart-phone-covers" title="Smart Phone Covers">Smart Phone Covers</a>
+	</li>
+												
 <li class="last">
-	<a href="http://miracas.com/20-hair-pins" title="Hair Pins">Hair Pins</a>
+	<a href="http://miracas.com/45-tablet-pouch" title="Tablet Pouch">Tablet Pouch</a>
 	</li>
 							</ul>
 	</li>
 												
 <li>
-	<a href="http://miracas.com/23-earrings" title="Earrings and Necklaces">Earrings and Necklaces</a>
-	</li>
-												
-<li>
-	<a href="http://miracas.com/30-women-s-belts" title="Women's Belts">Women's Belts</a>
-	</li>
-												
-<li class="last">
-	<a href="http://miracas.com/36-ornament-sets" title="Ornament Sets">Ornament Sets</a>
-	</li>
-							</ul>
-	</li>
-												
-<li>
-	<span class="grower CLOSE"> </span><a href="http://miracas.com/11-for-men" title="For Men">For Men</a>
+	<span class="grower CLOSE"> </span><a href="http://miracas.com/11-for-men" title="Footwear - Clothing - Sports Shoes - Accessories - Jeans - Sandals">For Men</a>
 			<ul style="display: none;">
 									
 <li>
 	<a href="http://miracas.com/8-polo-t-shirts" title="Polo T-shirts">Polo T-shirts</a>
+	</li>
+												
+<li>
+	<a href="http://miracas.com/5-woven-ties" title="High quality microfiber woven ties. ">High Quality Ties</a>
 	</li>
 												
 <li>
@@ -634,14 +977,22 @@ var removingLinkText = 'remove this product from my cart';
 	<a href="http://miracas.com/32-jackets-and-blazers" title="Jackets And Blazers">Jackets And Blazers</a>
 	</li>
 												
-<li class="last">
+<li>
 	<a href="http://miracas.com/37-executive-bags" title="Executive Bags">Executive Bags</a>
+	</li>
+												
+<li>
+	<a href="http://miracas.com/47-watches" title="Watches">Watches</a>
+	</li>
+												
+<li class="last">
+	<a href="http://miracas.com/50-sports-wear-for-men" title="Sports Wear For Men">Sports Wear For Men</a>
 	</li>
 							</ul>
 	</li>
 												
 <li>
-	<span class="grower CLOSE"> </span><a href="http://miracas.com/12-for-women" title="For Women">For Women</a>
+	<span class="grower CLOSE"> </span><a href="http://miracas.com/12-for-women" title="Women Clothing - Dresses - Footwear - Accessories - Bags">For Women</a>
 			<ul style="display: none;">
 									
 <li>
@@ -704,8 +1055,12 @@ var removingLinkText = 'remove this product from my cart';
 	<a href="http://miracas.com/39-summer-collection" title="Summer Collection">Summer Collection</a>
 	</li>
 												
+<li>
+	<a href="http://miracas.com/46-sports-wear" title="Sports Wear">Sports Wear</a>
+	</li>
+												
 <li class="last">
-	<a href="http://miracas.com/41-party-wear" title="Party And Occasion Wear">Party And Occasion Wear</a>
+	<a href="http://miracas.com/48-offers" title="Offers">Offers</a>
 	</li>
 							</ul>
 	</li>
@@ -714,8 +1069,36 @@ var removingLinkText = 'remove this product from my cart';
 	<a href="http://miracas.com/15-limited-edition" title="Limited Edition Products">Limited Edition</a>
 	</li>
 												
-<li class="last">
+<li>
 	<a href="http://miracas.com/40-under-1k" title="Products costing less than 1000 INR.">Under 1K</a>
+	</li>
+												
+<li>
+	<a href="http://miracas.com/41-party-wear" title="Party And Occasion Wear">Party And Occasion Wear</a>
+	</li>
+												
+<li>
+	<span class="grower CLOSE"> </span><a href="http://miracas.com/49-home-de" title="Home Decor">Home Decor</a>
+			<ul style="display: none;">
+									
+<li class="last">
+	<a href="http://miracas.com/54-bean-bags" title="Bean Bags">Bean Bags</a>
+	</li>
+							</ul>
+	</li>
+												
+<li class="last">
+	<span class="grower CLOSE"> </span><a href="http://miracas.com/55-jewellery" title="Jewellery">Jewellery</a>
+			<ul style="display: none;">
+									
+<li>
+	<a href="http://miracas.com/23-earrings" title="Earrings and Necklaces">Earrings and Necklaces</a>
+	</li>
+												
+<li class="last">
+	<a href="http://miracas.com/36-ornament-sets" title="Ornament Sets">Ornament Sets</a>
+	</li>
+							</ul>
 	</li>
 							</ul>
 				<script type="text/javascript">
@@ -854,8 +1237,7 @@ var removingLinkText = 'remove this product from my cart';
 												<li class="item"><a href="http://miracas.com/content/3-t-c" title="T &amp; C">T &amp; C</a></li>
 												<li class="item"><a href="http://miracas.com/content/17-modelling" title="modelling">modelling</a></li>
 												<li class="item"><a href="http://miracas.com/content/19-if-you-are-a-uae-customer" title="If You are A UAE customer">If You are A UAE customer</a></li>
-												<li class="item"><a href="http://miracas.com/content/20-miracas-club-membership" title="Miracas Club Membership">Miracas Club Membership</a></li>
-							
+												
 	</ul>
 		
 	
@@ -981,7 +1363,23 @@ $(document).ready(function() {
 </script>
 
 <!-- MODULE Block facebook connect Footer -->
-<script type="text/javascript">window.$zopim||(function(d,s){var z=$zopim=function(c){z._.push(c)},$=z.s=d.createElement(s),e=d.getElementsByTagName(s)[0];z.set=function(o){z.set._.push(o)};z._=[];z.set._=[];$.async=!0;$.setAttribute('charset','utf-8');$.src='//cdn.zopim.com/?sNfDuk47QWipjtvMC94gecDVXzTHHOJy';z.t=+new Date;$.type='text/javascript';e.parentNode.insertBefore($,e)})(document,'script');</script></div>
+<script type="text/javascript">window.$zopim||(function(d,s){var z=$zopim=function(c){z._.push(c)},$=z.s=d.createElement(s),e=d.getElementsByTagName(s)[0];z.set=function(o){z.set._.push(o)};z._=[];z.set._=[];$.async=!0;$.setAttribute('charset','utf-8');$.src='//cdn.zopim.com/?sNfDuk47QWipjtvMC94gecDVXzTHHOJy';z.t=+new Date;$.type='text/javascript';e.parentNode.insertBefore($,e)})(document,'script');</script><script type="text/javascript">
+adroll_adv_id = "7SWID3X2KZFRVNK7X7BIS7";
+adroll_pix_id = "GPODE7SMPBBFJB43JDM4SP";
+(function () {
+var oldonload = window.onload;
+window.onload = function(){
+   __adroll_loaded=true;
+   var scr = document.createElement("script");
+   var host = (("https:" == document.location.protocol) ? "https://s.adroll.com" : "http://a.adroll.com");
+   scr.setAttribute('async', 'true');
+   scr.type = "text/javascript";
+   scr.src = host + "/j/roundtrip.js";
+   ((document.getElementsByTagName('head') || [null])[0] ||
+    document.getElementsByTagName('script')[0].parentNode).appendChild(scr);
+   if(oldonload){oldonload()}};
+}());
+</script></div>
 
             </div>
 			
