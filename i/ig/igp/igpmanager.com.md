@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the igpmanager.com privacy policy that was archived on 2013-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130607235558id_/http%3A//igpmanager.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the igpmanager.com privacy policy that was archived on 2013-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131018022404id_/https%3A//igpmanager.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -46,7 +46,7 @@ We use additional security measures to enhance security, such as analysing accou
 
 Although we allow you to set privacy options that limit access to your information, please be aware that no server, computer or communications network or system, or data transmission over the Internet can be guaranteed to be 100% secure.  As a result, while we strive to protect user information, we cannot ensure or warrant the security of any information you transmit to us through the use of the Game or the Site and we make no assurances about our ability to prevent any such loss or misuse to you or to any third party.  You acknowledge and agree that you provide such information and engage in such transmissions at your own risk.  You can reduce these risks by using common sense security practices such as choosing a strong password, using different passwords for different services, and using up to date antivirus software.
 
-Should you have any concern or knowledge of security violations please report them to  [support@igpmanager.com](mailto:support@igpmanager.com).
+Should you have any concern or knowledge of security violations please report them to the [iGP Manager Helpdesk](http://igpmanager.com/account/helpdesk/index/p/index/index).
 
 ##  III. WEBSITE AREAS BEYOND OUR CONTROL
 
@@ -82,7 +82,7 @@ We adhere to the European Commission’s Directive on Data Protection.
 
 **VII. ACCOUNT DEACTIVATION AND DELTETION**
 
-If you want to stop using your account you may deactivate or delete it.  When you deactivate and account, no user will be able to see your manager profile but it will not be deleted and can be reactivated.  When you delete an account it is permanently deleted from the Game and cannot be recovered.  To request deactivation or deletion of your account, contact us at [support@igpmanager.com](mailto:support@igpmanager.com).
+If you want to stop using your account you may deactivate or delete it.  When you deactivate and account, no user will be able to see your manager profile but it will not be deleted and can be reactivated.  When you delete an account it is permanently deleted from the Game and cannot be recovered.  To request deactivation or deletion of your account, contact the [iGP Manager Helpdesk](http://igpmanager.com/account/helpdesk/index/p/index/index).
 
 After you remove information from your profile or delete your account, copies of that information may remain viewable to the extent it has been shared with others, or was copied or stored by other users.  However, if you delete your account, your name will no longer be associated with that information on the Game.  For example, if you post something to another user's profile and then you delete your account, that post may remain, but be attributed to “Unknown”.
 
@@ -98,7 +98,7 @@ Consent to Collection and Processing in the United Kingdom.  By using the Game 
 
 A. Contacting Us
 
-If you have any concerns or queries about this Policy, our practices regarding your personal information related to the Site or Game, or any other matter relating to our service, please contact us at [support@igpmanager.com](mailto:support@igpmanager.com) or at iGP Games Limited, Third Floor, 207 Regent Street, London, W1B 3HH.
+If you have any concerns or queries about this Policy, our practices regarding your personal information related to the Site or Game, or any other matter relating to our service, please contact us via the [iGP Manager Helpdesk](http://igpmanager.com/account/helpdesk/index/p/index/index) or at iGP Games Limited, Third Floor, 207 Regent Street, London, W1B 3HH.
 
 B. Updates and Changes
 
