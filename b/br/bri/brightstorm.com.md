@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the brightstorm.com privacy policy that was archived on 2013-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130514233508id_/http%3A//www.brightstorm.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brightstorm.com privacy policy that was archived on 2013-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131018021734id_/http%3A//www.brightstorm.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Math, Science, English, Test Prep - Brightstorm
 
-Last Updated: December 31, 2012 
+Last Updated: October 7, 2013 
 
 At Brightstorm, Inc. (Brightstorm), protecting your privacy is really important to us. Accordingly, we're providing this Privacy Policy to explain our practices regarding the collection, use and disclosure of information that we receive when you use our Services (as defined in our Terms of Service, accessible at [www.brightstorm.com/terms-of-service](http://www.brightstorm.com/terms-of-service). This Privacy Policy applies to the website www.brightstorm.com and services included within "Services" and doesn't apply to any third-party websites, services or applications, even if they are accessible through our Services. Also, please note that, unless we define a term in this Privacy Policy, all capitalized words used in this Privacy Policy have the same meanings as in our Terms of Service. 
 
-Brightstorm, Inc has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy-program-requirements/) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program covers the web site [www.brightstorm.com](http://www.brightstorm.com/) and does not cover mobile instances of Brighstorm. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. 
+Brightstorm, Inc has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy-program-requirements/) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program covers the web site [www.brightstorm.com](http://www.brightstorm.com/) and does not cover mobile instances of Brightstorm. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. 
 
 If you have questions or concerns regarding this Privacy Policy, you should first contact us at [support@brightstorm.com](mailto:support@brightstorm.com). If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact [TRUSTe](http://watchdog.truste.com/pvr.php?page=complaint) here. TRUSTe will then serve as a liaison with us to resolve your concerns. 
 
@@ -43,9 +43,17 @@ Links to Other Sites
 
 Our Services may contain links to other websites and services. Any information that you provide on or to a third-party website or service is provided directly to the owner of the website or service and is subject to that party's privacy policy. Our Privacy Policy does not apply to such websites or services and we're not responsible for the content, privacy or security practices and policies of those websites or services. To protect your information we recommend that you carefully review the privacy policies of other websites and services that you access. 
 
+Social Media Widgets
+
+Our Web site includes Social Media Features, such as the Facebook Like button and Widgets, such as the Share this button or interactive mini-programs that run on our site. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it. 
+
 Modifying Your Information
 
-You can access and modify the PII associated with your Account by viewing your account page at <http://www.brightstorm.com/account> and making changes to your Account information. Some information about your Account or subscription may remain in archived/backup copies for our records or as otherwise required by law. 
+You can access and modify, or delete the PII associated with your Account by viewing your account page at <http://www.brightstorm.com/account> and making changes to your Account information. Some information about your Account or subscription may remain in archived/backup copies for our records or as otherwise required by law. 
+
+We will retain your information for as long as your account is active or as needed to provide you services. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. 
+
+If you wish to subscribe to our newsletter(s), we will use your name and email address to send the newsletter to you. Out of respect for your privacy, you may choose to stop receiving our newsletter or marketing emails by following the unsubscribe instructions included in these emails, accessing the email preferences in your account settings page or you can contact us at [support@brightstorm.com](mailto:support@brightstorm.com). 
 
 Facebook Connect
 
@@ -62,7 +70,7 @@ Our Services are not directed to children under 13 and we do not knowingly colle
 
 Changes to Privacy Policy 
 
-Any information that we collect is subject to the privacy policy in effect at the time such information is collected. We may, however, modify and revise this Privacy Policy from time to time. If we make any material changes to this Privacy Policy, we'll notify you of such changes by posting them on the Services or by sending you an email or other notification, and we'll indicate when such changes will become effective. 
+Any information that we collect is subject to the privacy policy in effect at the time such information is collected. We may, however, modify and revise this Privacy Policy from time to time. If we make any material changes to this Privacy Policy, we'll notify you of such changes by posting them on the Services or by sending you an email or other notification prior to the change becoming effective. We'll indicate when such changes will become effective. 
 
 Questions?
 
@@ -70,3 +78,5 @@ Please contact us at [support@brightstorm.com](mailto:support@brightstorm.com) i
 Brightstorm, Inc.  
 2103 Landings Dr.,   
 Mountain View, CA 94043. 
+
+Any information that we collect is subject to the privacy policy in effect at the time such information is collected. We may, however, modify and revise this Privacy Policy from time to time. If we make any material changes to this Privacy Policy, we'll notify you of such changes by posting them on the Services or by sending you an email or other notification prior to the change becoming effective. We'll indicate when such changes will become effective. 
