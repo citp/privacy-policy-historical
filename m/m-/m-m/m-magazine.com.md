@@ -1,149 +1,246 @@
-> *The following text is extracted and transformed from the m-magazine.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630182742id_/http%3A//customersupport.networksolutions.com/article.php%3Fid%3D306) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the m-magazine.com privacy policy that was archived on 2013-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131018200258id_/http%3A//profile.bauerpublishing.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy | Bauer Publishing Profile
 
-#### Find Answers To Your Questions:
+## Privacy Policy/Your California Privacy Rights
 
-Search by keyword or browse by category for immediate answers to frequently asked questions: 
+## Last Updated: July 1, 2013
 
-### Privacy Policy
+## Introduction
 
-**Why A Privacy Policy?**  
+Welcome! Bauer Publishing Group knows that safeguarding your privacy is serious business. Your privacy is very important to us. Please take a moment to read this privacy policy (“Privacy Policy”). It explains how Bauer Publishing Group, which includes Heinrich Bauer (USA) LLC; Heinrich Bauer North America, Inc.; Heinrich Bauer Publishing, L.P.; Bauer Magazine, L.P.; Bauer Publishing Company, L.P., and Bauer Media Group, Inc. (collectively, “Bauer Publishing” or “we,” “our,” or “us”) collects, uses, shares and protects information about our consumers (“you”). It also tells you how you can access and update your information and make certain choices about how your information is used. The Privacy Policy covers both our “online” (e.g., web and mobile services, including any web sites operated by us and mobile applications, however accessed and/or used, whether via personal computers, mobile devices or otherwise) and “offline” (e.g., collection of data through magazine subscription cards, mailings, telephone, or at in person events) activities owned, operated, provided, or made available by Bauer Publishing. Our “online” and “offline” activities are collectively referenced as the “Services.” This Privacy Policy also applies to your use of interactive features or downloads that: (i) we own or control; (ii) are available through the Services; or (iii) interact with the Services and post this Privacy Policy.
 
-  
-Network Solutions respects your individual privacy. This Privacy Policy ('Policy') embodies our commitment to its protection through adherence to fair electronic information practices. This Policy puts you, the individual, in control of how your personal information is processed. You have our promise that we will not electronically process your personal information in any way that is incompatible with this Policy.
+By using the Services or by otherwise giving us your information, you agree to this Privacy Policy. In addition, as explained below, our [Children's Privacy Policy](https://web.archive.org/childrens-privacy-policy) is also applicable to any of our online Services that target children under 13 and may be applicable to some users of our online Services that target teenagers. If you do not agree to this Privacy Policy, do not use any of our Services or give us any of your information. In addition, please review our [Terms of Use](https://web.archive.org/terms-of-use), which governs your use of any of our websites.
 
- **This Privacy Policy protects your privacy by:**
+As we update and expand our Services, the Privacy Policy might change so please check it out from time to time. If update this Privacy Policy, the “last updated” line above will be revised.
 
- **Informing you about:**
+If you have questions about our Privacy Policy, please e-mail us at [privacypolicy@bauerpublishing.com](mailto:privacypolicy@bauerpublishing.com) or write us at the address specified in section 14 below.
 
-  * The types of personal information Network Solutions collects about you through its Web sites; 
-  * How it collects that information; 
-  * The general purposes for which it collects such information; 
-  * The types of organizations to which it discloses the information; 
-  * The choices and means by which individuals may limit its use and disclosure. 
+* * *
 
+## Table of Contents
 
+  1. What Should Parents Know About Children?
+  2. What Information Do We Collect?
+    1. Information You Provide To Us
+    2. Information We Collect As You Access And Use Our Services
+    3. Information Third Parties Provide About You
+    4. Information You Provide About A Third Party
+    5. Information Collected by Mobile Applications
+  3. How Do We Use The Information Collected?
+  4. How and When Do We Disclose Information To Third Parties?
+    1. Third-Party Marketing Purposes
+    2. Third Parties Providing Services on Our Behalf
+    3. Co-branded Services
+    4. Sweepstakes, Contests And Promotions
+    5. Administrative and Legal Reasons
+    6. Business Transfer
+  5. What is Online Behavioral Advertising and How Can I Opt-out?
+  6. What About Information I Disclose Publicly?
+    1. User Generated Content and Public Information
+    2. Name and Likeness
+  7. Does Third Party Content And Links To Third Party Services Appear on Our Services?
+  8. How Do I Change My Information And Communication Preferences?
+  9. What About Consent To Transfer Information To The United States?
+  10. What About Security?
+  11. What About Changes To The Privacy Policy?
+  12. Your California Privacy Rights
+  13. What About Social Media Features and Widgets?
+  14. How Can You Contact Us?
 
-**Empowering you to choose:**
 
-  * Whether and how certain personal information you provide is used (where such use is unrelated to the uses for which you originally disclosed it); and 
-  * Whether and the manner in which a third party uses certain personal information you provide (where such use is unrelated to the uses for which you originally disclosed it). 
 
+* * *
 
+## 1\. What Should Parents Know About Children?
 
-**Assuring you that Network Solutions:**
+From time to time, we may offer three categories of online Services: (1) “General Audience Online Services,” which are our web sites and mobile applications that are intended for general audiences, and which are not intended for use by children under 13 years of age (a “Child” or “Children”); (2) “Teen Online Services,” which are web sites and mobile applications that are targeted to teenagers. We recognize that our Teen Online Services may have some users who are Children; and (3) “Children’s Online Services,” which are any web sites and mobile applications that we might operate and are targeted to Children.
 
-  * Takes reasonable precautions to protect personal information from loss, misuse, unauthorized access, disclosure, alteration or destruction; 
-  * Implements reasonable policies and procedures to ensure that personal information is kept only for the purposes for which it has been gathered; 
-  * Uses reasonable measures to ensure that we have accurately and completely recorded the personal information you have provided; and 
-  * Provides you reasonable access to your personal information as well as procedures for correcting or modifying that information where appropriate. 
+For our Teen and Children’s Online Services, we recognize the need to provide further privacy protections with respect to Personal Information we may collect from Children. For users on our Children’s Online Services and if we know a user on our Teen Online Services is a Child, we will employ different data practices as necessary to comply with applicable law and we will not engage in some of the data practices described. For additional information about our practices regarding Personal Information of Children, please read our [Children's Privacy Policy](https://web.archive.org/childrens-privacy-policy).
 
+For our General Audience Online Services, we do not knowingly accept or collect any Personal Information from Children and we will delete any Personal Information collected that we later determine to be from a Child. If you are under the age of 13, please exit our General Audience Online web site or mobile application and do not provide us with any Personal Information.
 
+If you are a parent or guardian of a Child, and believe he or she has disclosed Personal Information to us on any of our Teen Online Services without your knowledge and consent or on any of our Services, please contact us at [privacypolicy@bauerpublishing.com](mailto:privacypolicy@bauerpublishing.com).
 
-**Ensuring accountability** to individuals who believe that Network Solutions has not complied with these privacy principles. 
+## 2\. What Information Do We Collect?
 
-  
-**Third Party Advertising and Cookies**
+### (a) Information You Provide To Us
 
-We use third-party advertising companies to serve ads on our Web site and other Web sites. In the course of serving advertisements, these companies may place or recognize a unique 'cookie' on your hard drive, and may use information (not including your name, address, e-mail address, or telephone number) about your visits to this and other web sites in order to measure advertising effectiveness and to provide advertisements about goods and services of interest to you. For more information about this practice and to know your choices about not having your information used by these companies, please visit 
+We may ask you to provide us with certain categories of information such as: (1) personal information, which is information that could reasonably be used to identify you personally, such as your name, e-mail address, date of birth and physical address (“ **Personal Information** ”); and (2) demographic information, such as information about your family and pets (“ **Demographic Information** ”). We may collect this information through various forms and in various places through the Services, including online subscription or account registration forms, contact us forms, or when you otherwise interact with us. For example, we may collect Personal Information from you when you subscribe to our magazines through one of our web sites or mobile applications; sign up for services or a newsletter at one of our web sites; enter contests or sweepstakes; or contact us via e-mail.
 
-[http://www.doubleclick.net/us/corporate/privacy](http://www.doubleclick.net/us/corporate/privacy) and <http://www.accipiter.com/company/privacy.php>. 
+### (b) Information We Collect As You Access And Use Our Services
 
-Network Solutions shares Web site usage information about visitors to our Web site with a reputable third-party advertising company for the purpose of targeting our Internet banner advertisements on this site and other sites. For this purpose, we and our third-party advertising company note some of the pages you visit on our Web site through the use of pixel tags (also called clear gifs). The information collected by our third-party advertising company through the use of these pixel tags is not personally identifiable. For more information about our third-party advertiser, please click here. To opt out of the targeting program, please click 
+In addition to any Personal Information or other information that you choose to submit to us, we and our third-party service providers may use a variety of technologies that automatically (or passively) collect certain information whenever you visit or interact with the Services (“ **Usage Information** ”). This Usage Information may include the browser that you are using, the URL that referred you to our Services, all of the areas within our Services that you visit, and the time of day, among other information. We may use Usage Information for a variety of purposes, including to enhance or otherwise improve the Services. In addition, we collect your IP address or other unique identifier (“ **Device Identifier** ”) for your computer or other device used to access the Services (any, a “ **Device** ”). A Device Identifier is a number that is automatically assigned to your Device used to access the Services, and our computers identify your Device by its Device Identifier. Usage Information may be non-identifying or may be associated with you. Whenever we associate Usage Information or a Device Identifier with your Personal Information, we will treat it as Personal Information.
 
-[here](http://www.privacychoices.org/).   
-**Information Corrections or Changes**  
-You have the ability to correct or change certain information in our records, such as your address and contact information. The process for changing your information begins at <https://www.networksolutions.com/en_US/manage-it/index.jhtml>. You may change this information at any time and as often as necessary. If you need assistance or have questions about correcting information, you can contact us via e-mail at [customerservice@networksolutions.com](mailto:customerservice@networksolutions.com). 
+A few of the methods that may be used to collect Usage Information include, without limitation, the following (and subsequent technology and methods hereafter developed):
 
-**How We Put Information to Good Use**  
-We use information about you for purposes of monitoring and improving our internal operations, as well as to ensure we: (i) bill you properly, (ii) administer your account in accordance with your agreements with us, and (iii) properly perform the services you have requested.
+**_Cookies._** A cookie is a data file placed on a Device when it is used to access the Services. A Flash cookie is a data file placed on a Device via the Adobe Flash plug-in that may be built-in to or downloaded by you to your Device. Cookies and Flash cookies are standard in the industry; you’ll find them at most major websites. Cookies and Flash cookies may be used for many purposes. Among other things, they allow us to keep track of which areas or our web sites you have visited, how long you spend on a particular pages and web sites that have referred you to our web sites or applications, to track your preferences and interests. If you choose to disable cookies or Flash cookies on your Device, some features of the Services may not function properly.
 
-We also use the information we collect to monitor and improve our internal operations, as well as to improve the experience of users in our network of sites. For example, we may correlate Web site traffic information with data about individual users. This data helps us to determine how much our customers use parts of the site, allowing us to enhance it to fit the needs of as many of our customers as possible. We may also break down overall usage statistics according to customers' domain names, browser types, and MIME types by reading this information from the browser string (information contained in every user's browser).
+**_IP Address._** An IP address is a number that's automatically assigned to your computing Device whenever you’re surfing the web - your computing Device’s unique "signature." Web servers automatically identify your computing Device by its IP address. When you visit our web sites, we collect some general information about your computing Device, including its IP address, the operating system it uses (for example, Windows XP), the browser software it uses (for example, Microsoft Internet Explorer), and your Internet service provider (for example, AOL). This information helps us better understand the people who visit our web sites. Bauer Publishing collects this general information to identify the most popular areas on our web sites and to provide aggregate information to our advertisers to let them know about the number of people who have seen and clicked on.
 
-Another example of our use of information to enhance the experience of users in our network of sites is our reliance on cookie files. We use cookie files to make it easier for users to access our site or services. A cookie file is a small data file that certain Web sites write to your hard drive when you visit them. A cookie file can contain information such as a user ID that the site uses to track the pages you have visited. However, the only personal information a cookie can contain is information you supply yourself. A cookie cannot read data off your hard disk or read cookie files created by other sites. We use cookies to track user traffic patterns (as described above) when you register for Network Solutions services. When you register, we may use a cookie to store a unique, random user ID. We use this ID to identify you anonymously in our database and to track the pages you visit on our site.
+**_Web Beacons._** Small graphic images or other web programming code called web beacons (also known as “1x1 GIFs” or “clear GIFs”) may be included in our web and mobile pages and messages. Web beacons may be invisible to you, but any electronic image or other web programming code inserted into a web or mobile page or e-mail can act as a web beacon. Web beacons or similar technologies may be used for a number of purposes, including, without limitation, to assist us in delivering cookies on our online Services, to count users of the online Services, to monitor how users navigate the online Services, to count how many e-mails that were sent were actually opened or acted upon, or to count how many particular articles or links were actually viewed.
 
-If you have set your browser to warn you before accepting cookies, you will receive the warning message with each cookie. You may refuse cookies by turning them off in your browser; however, some of our sites may require a cookie for access.
+**_Embedded Scripts._** An embedded script is programming code that is designed to collect information about your interactions with the Services, such as the links you click on. The code is temporarily downloaded onto your Device from our web server or a third party service provider, is active only while you are connected to the Services, and is deactivated or deleted thereafter.
 
-Finally, we use the information we collect to direct important notices and information affecting your account or services, as well as to provide general information that may be of interest to you, including newsletters, surveys, contest and sweepstake announcements, and information about our service or product offerings or the offerings of our business affiliates. You may opt-out of receiving information from us simply by notifying us of your desire in accordance with the opt-out instructions contained in any information message you receive from us. Note, however, that in order to fulfill our service obligations to you, we must continue sending you notices and other important information affecting your account or services.
+### (c) Information Third Parties Provide About You
 
- **Getting to Know Our Customers**
+We may, from time to time, supplement the information we collect about you online with outside records from third parties in order to enhance our ability to serve you, to tailor our content to you and to offer you opportunities to purchase products or services that we believe may be of interest to you. We may combine the information we receive from those sources with information we collect through the Services. In those cases, we will apply this Privacy Policy to any Personal Information received, unless we have disclosed otherwise. 
 
-Network Solutions is in the business of putting people in touch with other people. That requires more than simply offering innovative technical services. It also requires that we understand you, our customer, and your needs. Indeed, we are the Internet's leading domain name registrar because we have taken the time to get acquainted with each one of our many customers.
+### (d) Information You Provide About A Third Party
 
-We get to know you primarily through the information you provide to us when signing up for, or using, one or more of our services. The information you provide ranges from basic contact information, to payment information, to the technical coordinates of your host servers. The application for domain name registration services found at 
+If you send someone else a communication from the Services, such as sending an invitation to a friend, the information you provide (names, e-mail addresses, etc.) is used to facilitate the communication and is not used for any other marketing purpose unless we obtain consent from that person or we explicitly say otherwise. Please be aware that when you use any send-to-a-friend functionality through our Services, your e-mail address may be included in the communication sent to your friend.
 
-[www.networksolutions.com](http://www.networksolutions.com/en_US/legal/www.networksolutions.com) is a representative illustration of the information we request of you. All of the information we request from you when purchasing our services is obligatory unless otherwise noted on the relevant form. When you purchase our services, you agree to provide and maintain accurate, complete and updated information.
+Your friend may contact us at [privacypolicy@bauerpublishing.com](mailto:privacypolicy@bauerpublishing.com) to request that we remove this information from our database.
 
-After you have signed up for our services, we may be in communication with you about your account, technical questions you may have about services provided by us, or any other matter relating to those services. Those communications are essential to our relationship with you and to our ability to provide you with quality services that are responsive to your needs. At the same time, those communications give us helpful insights about you, your preferences and the ways in which we might improve our services. We therefore may maintain this information for future use.
+### (e) Information Collected by Mobile Applications
 
-For operational and quality assurance purposes, we take note of whether and how you use the information and services that we provide, such as by recording site traffic patterns and by maintaining log files of users' access to site files.
+Certain aspects of the Services may be provided through an application on your mobile, tablet computer or similar device (“Mobile Application”). You agree that we may collect and use technical data and related information, including but not limited to, technical information about your device, system and application software, and peripherals, that is gathered periodically to facilitate the provision of software updates, product support and other services to you (if any) related to such Mobile Applications.
 
-The information we receive from or about you is stored on systems designed to prevent the loss, misuse, unauthorized access, disclosure, alteration or destruction of that information. We also encrypt your transmission of sensitive information to us (e.g., credit card numbers, account passwords) in the interest of heightened privacy protection and information integrity. Transactions within our account manager and purchase flows use Secure Sockets Layer (SSL) encryption when transmitting data from your connection to our systems. You may click the lock icon within your web browser to verify the authenticity of any or our SSL certificates. 
+When you use any of our Mobile Applications, the Mobile Application may automatically collect and store some or all of the following information from your mobile device (“Mobile Device Information”), including without limitation:
 
-**With Whom We May Share Information**  
-Pursuant to arrangements with Internet Corporation for Assigned Names and Numbers ('ICANN'), we compile and maintain a publicly accessible registration database that includes basic information about each domain name registered with us, including the names, telephone numbers and e-mail addresses of individuals designated as points of contact for a given domain name. Whether or not applicable domain name registration fees have been paid is also publicly accessible. With the gradual continued privatization of the Domain Name System, and consistent with the rules or policies applicable to that system, or to comply with any changes in law or regulation, we may, if appropriate, take steps to restrict the accessibility and amount of personally identifying information available in the registration database
+  * Your preferred language and country site (if applicable)
+  * Your phone number or other unique device identifier assigned to your mobile device
+  * The IP address of your mobile device
+  * The manufacturer and model of your mobile device
+  * Your mobile operating system
+  * The type of mobile Internet browsers you are using
+  * Information about how you interact with the Mobile Application and any of our web sites to which the Mobile Application links, such as how many times you use a specific part of the mobile application over a given time period, the amount of time you spend using the Mobile Application, how often you use the Mobile Application, actions you take in the Mobile Application and how you engage with the Mobile Application
+  * Information to allow us to personalize the services and content available through the Mobile Application
+  * Your geolocation.
 
-When you register a domain name through us, we must disclose your domain name and its associated Internet Protocol ("IP") numbers to the appropriate registry in order to make your chosen domain name a functional address on the Internet. Certain registries also require that we disclose to them the names, postal addresses, telephone and fax numbers, and e-mail addresses of individuals designated as the registrant or points of contact for a given domain name. Each registry discloses certain portions (and in some cases all) of the information we are required to provide to them about your domain name registration. For example, each registry discloses at least each registered domain name and its associated IP numbers ("TLD zone files") to TLD server administrators so that the domain name is capable of functioning as an address on the Internet. Consistent with the current rules and policies for the Domain Name System, such registries also disclose the TLD zone files to other interested persons, provided those persons agree, among other things, not to use the TLD zone files for improper purposes, including the transmission of unsolicited commercial e-mail. Similarly, each registry may compile and maintain a publicly accessible database that includes basic information about each domain name registered with that registry, including the names, telephone and fax numbers, and e-mail addresses of individuals designated as the registrant or points of contact for a given domain name. 
 
-We may share certain information about you with our vendors who are responsible for handling your account or performing other services that you require (including vendors who may update your credit card expiration date and credit card account number if you choose our auto-renew feature). Although we may share financial information (i.e., credit card numbers, banking information), security information (e.g., account passwords) and personal communications (e.g., personal e-mail messages or message board postings) with such vendors when necessary and appropriate, we will not share such information with any other third parties unless directed by you or except in response to formal requests in the form of a subpoena or court order issued in connection with civil or criminal proceedings related to a domain name registration or other services we provide, or in response to requests by law enforcement agencies when we suspect that you or your agent is using our services to cause harm or damage to us or others or adversely affect our ability to provide services to our customers
 
-Additionally, we may share the information stored on the publicly accessible registration database, as well as other information that is not of a sensitive nature, with carefully selected business partners, including those who offer services that complement those provided by us or which may otherwise be of interest to you. If you do not want us to share information about you with our business partners, you may opt-out of receiving this information through our Account Manager by following the instructions below:
+We may use information automatically collected by the Mobile Application (including the Mobile Device Information) in the following ways:
 
-a. Log into Account Manager at [www.networksolutions.com](http://www.networksolutions.com/en_US/manage-it/);
+  * To operate and improve our Mobile Applications, other Services, our company’s services, and tools;
+  * To create aggregated and anonymized information to determine which Mobile Application features are most popular and useful to users, and for other statistical analyses;
+  * To prevent, discover and investigate violations of this Privacy Policy or any applicable terms of service or terms of use for the Mobile Application;
+  * To customize the content or services on the Mobile Application for you, or the communications sent to you through the Mobile Application (if any)
+  * We may associate your unique mobile Device Identifier or Mobile Application usage information with any personally identifiable information you provide, but we will treat the combined information as personally identifiable information.
 
-b. Click “Edit User Info” in the left menu;
 
-c. Scroll to the bottom of the page;
 
-d. Select “NO” for the third statement, which reads, “I would like to receive selected and relevant information from Network Solutions partners;” and
+For purposes of your use of any of our Mobile Applications and the services offered through any Mobile Application, the Mobile Application may also collect certain information about you (including Personal Information) that you knowingly supply to the Mobile Application such as the following:
 
-e. Click “SAVE.”
+  * Your user name and any password required by the Mobile Application
+  * Age
+  * Gender
+  * Mailing or other address
+  * Zip code
+  * Telephone number
+  * Email address
+  * Photos uploaded by you
 
-  
-Please note, however, that consistent with the current rules and policies for the Domain Name System, information about you must remain available in the publicly accessible registration database.
 
- **How Do I Get My Name Removed from Bulk Access**  
-As noted above, we currently make certain information about you available to the general public via our domain name registration database look-up services. These services give users access to such data on a query-by-query basis. Pursuant to our arrangements with ICANN, qualified persons may also access such data on a bulk basis provided they agree, among other things, not to use the data to allow, enable or otherwise support the transmission by e-mail, telephone, or facsimile of mass, unsolicited, commercial advertising or solicitations to entities other than to such qualified persons’ own existing customers; or (ii) sell or redistribute the data to third parties, except insofar as the data is incorporated into a value-added product or service that does not permit the extraction of a substantial portion of the data. If you do not want your personal information disclosed on a bulk basis, you may opt-out of such disclosure through our Account Manager by following the instructions below:
 
-a. Log into Account Manager at [www.networksolutions.com](http://www.networksolutions.com/en_US/legal/www.networksolutions.com);
+Registration may be required and Personal Information may also be collected if there is content from the Mobile Application that you specifically and knowingly upload to an online community, website or to the public, e.g. uploaded photos, posted reviews. This uploaded content will also be subject to the privacy policy of the platform to which you upload the content.
 
-b. Click “Edit User Info” in the left menu;
+## 3\. How Do We Use The Information Collected?
 
-c. Scroll to the bottom of the page;
+**Use of Information by Us.** We may use your Personal Information, Demographic Information or Usage Information that we collect about you: (1) to process your registration with the Services, including verifying your information is active and valid; (2) to provide you with information or services or process transactions that you have requested or agreed to receive including to send you electronic newsletters; (3) for marketing and promotional purposes, including to provide you with special offers or promotional materials on behalf of us; (4) to enable you to participate in a variety of the Services’ features such as online entry sweepstakes, contests or other promotions; (5) to improve our Services, to customize your experience with the Services, or to serve you specific content that is most relevant to you; (6) to contact you with regard to your use of the Services and, in our discretion, changes to the Services and/or the Services’ policies; (7) for internal business purposes; and (8) for purposes disclosed at the time you provide your information or as otherwise set forth in this Privacy Policy.
 
-d. Select “NO” for the first statement, which reads, “I choose to have my name included in the Bulk WHOIS data licensed to third parties for domains for which I am the Account Holder or Primary Contact;” and
+Please note that information submitted to the Services via a “contact us” or other similar function may not receive a response.
 
-e. Click “SAVE.” 
+## 4\. How and When Do We Disclose Information to Third Parties?
 
-**Our Accountability to You**  
-By purchasing our services, you obtain the protections of, and consent to the data processing practices described in, this Privacy Policy. When you purchase our services, you also represent to us that you have provided notice to, and obtained consent from, any third party individuals whose personal data you supply to us with regard to: (i) the purposes for which such third party's personal data have been collected, (ii) the intended recipients or categories of recipients of the third party's personal data, (iii) which of the third party's data are obligatory and which data, if any, are voluntary, and (iv) how the third party can access and, if necessary, rectify the data held about them.
+We may share non-personally identifiable information, such as aggregated user statistics, with third parties. In addition, we may share the information we have collected about you, including Personal Information, as disclosed at the time you provide your information and as described below or otherwise in this Privacy Policy.
 
-In addition to the privacy protections that we provide, our employees, agents and business partners are independently responsible for ensuring compliance with this Privacy Policy, as described below. 
+### (a) For Third-Party Marketing Purposes.
 
-**Employee Accountability**  
-Only those Network Solutions employees that have a legitimate business purpose for accessing and handling personal information obtained by us are given authorization to do so. The unauthorized access or use of such information by a Network Solutions employee is prohibited and constitutes grounds for disciplinary action.
+We may rent, sell or otherwise disclose your Personal Information, Demographic Information or Usage Information to advertisers, sponsors, business partners and other third parties for their use.
 
-Additionally, our information management systems are configured in such a way as to block or inhibit employees from accessing information that they have no authority to access. 
+### (b) Third Parties Providing Services on Our Behalf.
 
-**The Accountability of Network Solutions' Agents and Business Partners**  
-Our trusted vendors and business partners are responsible for processing or handling some of the information that we receive. These vendors and business partners are not authorized to use such information for purposes beyond those specified by us and are required to preserve the confidentiality with which we treat such information.
+We may use third party vendors to perform certain aspects of the Services. For our offline Services, this may include processing subscriptions and delivery of our magazine publications. For our online Services, this may include hosting the Services, designing and/or operating the Services’ features, tracking the Services analytics, processing online subscription requests, enabling us to send you special offers, or performing other administrative services. We may provide these vendors with access to user information, including Personal Information, to carry out the services they are performing for you or for us. These third party vendors have access to the Personal Information needed to perform their functions and are obligated to maintain the confidentiality and security of that Personal Information. In addition, while we may use third party analytics service providers to evaluate and provide us with information about the use of the Services and viewing of our content, we do not share Personal Information with these analytics service providers, but they may set and access their own cookies, web beacons and embedded scripts on your Device and they may otherwise collect or have access to information about you, including non-personally identifiable information.
 
-If you feel that Network Solutions, or any of our agents, representatives or employees, is violating this Privacy Policy, please contact us via e-mail at 
+### (c) Co-branded Services.
 
-[privacy@networksolutions.com](mailto:privacy@networksolutions.com), by telephone at (703) 668-4600, or by postal mail at:
+Certain aspects of the Services may be provided to you in association with third parties (“Co-Branded Services”) such as sponsors, charities and political organizations and may require you to disclose Personal Information to them. Such Co-Branded Services will identify the third party. If you elect to register for products and/or services through the Co-Branded Services, you may be providing your information to both us and the third party. Further, if you sign-in to a Co-Branded Service with a username and password obtained through our Services, your Personal Information may be disclosed to the identified third parties for that Co-Branded Service and will be subject to their posted privacy policies.
 
-Network Solutions, LLC  
-Attention: General Counsel  
-13861 Sunrise Valley Dr   
-Suite 300   
-Herndon VA 20171   
-United States  
-(703) 668-4600 
+### (d) Sweepstakes, Contests and Promotions.
 
-**Notification of Changes**  
-We will post any changes to this Privacy Policy 30 days before their effective date so you will always know what information we collect, how we use it, and under what circumstances, if any, we disclose it. You are responsible for periodically checking our web site for changes to this Privacy Policy. You may opt-out of any posted change to our collection, use or disclosure of your personal information by sending an e-mail to 
+We may offer sweepstakes, contests, and other promotions (any, a “ **Promotion** ”) through the Services that may require registration for the Promotion. By participating in a Promotion, you are agreeing to official rules that govern that Promotion, which may contain specific requirements of you, including, allowing the sponsor of the Promotion to use your name, voice and/or likeness in advertising or marketing associated with the Promotion. If you choose to enter a Promotion, Personal Information may be disclosed to third parties or the public in connection with the administration of such Promotion, including, in connection with winner selection, prize fulfillment, and as required by law or permitted by the Promotion’s official rules, such as on a winners list.
 
-[privacy@networksolutions.com](mailto:privacy@networksolutions.com).
+### (e) Administrative and Legal Reasons.
 
- **If you have any questions regarding this Privacy Policy, please contact[ privacy@networksolutions.com](mailto:privacy@networksolutions.com).**
+We may access, use, preserve, transfer and disclose your information (including Personal Information), including disclosure to third parties, if in our good faith belief, it is required: (i) to comply with or satisfy any applicable law, regulation, subpoenas, governmental requests or legal process if in our good faith opinion such is required or permitted by law; (ii) to protect and/or defend the [Terms of Use](https://web.archive.org/terms-of-use) for any online Services or other policies applicable to any online Services, including investigation of potential violations thereof; (iii) to protect the safety, rights, property or security of Bauer Publishing, the Services, any third party person or entity, or the public (including under emergency circumstances); and/or (iv) to detect, prevent or otherwise address fraud, security or technical issues. Further, we may use IP address or other Device Identifiers to identify users, and may do so in cooperation with third parties such as copyright owners, internet service providers, wireless service providers and/or law enforcement agencies, including disclosing such information to third parties, all in our discretion. Such disclosures may be carried out without notice to you.
+
+### (f) Business Transfer.
+
+We may share your information, including your Personal Information, Demographic Information and Usage Information with our parent, subsidiaries and affiliates for internal reasons. We also reserve the right to disclose and transfer all such information: (i) to a subsequent owner, co-owner or operator of the Services or applicable database; or (ii) in connection with a corporate merger, consolidation, restructuring, the sale of substantially all of our membership interests and/or assets or other corporate change, including, during the course of any due diligence process.
+
+## 5\. What is Online Behavioral Advertising and How Can I Opt-Out?
+
+We may work with third-party advertising companies who may utilize cookies and web beacons, and data collected on our web sites, to customize advertisements to you on our online Services, as well as on other websites or Mobile Applications in their networks beyond our online Services. Among other things, these customized advertisements may advertise our products and services on websites or Mobile Applications not affiliated with us. Some of these ads are online behavioral advertising – which serve advertisements that are more likely to be of interest to you using non-personal behavioral information.  Such ads may contain cookies that allow monitoring of web sites and Mobile Applications (including our own online Services) and your response to our advertisements. Cookies or web beacons placed by these companies do not collect Personal Information, and the third-party advertising companies do not have access to or use your name, address, e-mail address, telephone number or other Personal Information; they may however, anonymously track your usage across our online Services and other websites or Mobile Applications in their networks. We limit companies that place our ads from using information for any purpose other than to assist us in our advertising efforts.
+
+For more information about these third-party advertising companies' privacy policies, visit the Network Advertising Initiative Industry’s website at www.networkadvertising.org. If you prefer to not receive targeted advertising, you can opt-out of network advertising programs that use your information. To do so, please visit: the Network Advertising Initiative industry’s [opt-out page](http://www.networkadvertising.org/choices/).
+
+Please note that if you opt out, you will still see advertisements while you are browsing online. However, the advertisements you see will not be based on your preferences or behavior, and thus may be less relevant to you and your interests. Additionally, many network advertising programs allow you to view and manage the interest categories they have compiled from your online browsing activities. These interest categories help determine the types of targeted advertisements you may receive. The NAI Opt-Out Page provides a tool that identifies its member companies that have cookies on your browser and provides links to those companies.
+
+In order for behavioral advertising opt-outs to work on your Device, your browser must be set to accept cookies. If you delete cookies, buy a new Device, access our Services from a different device, login under a different screen name, or change web browsers, you will need to opt-out again. If your browser has scripting disabled, you do not need to opt out, as online behavioral advertising technology does not work when scripting is disabled. Please check your browser's security settings to validate whether scripting is active or disabled.
+
+## 6\. What About Information I Disclose Publicly?
+
+### (a) User Generated Content and Public Information.
+
+The Services may permit you to submit ideas, photographs, user profiles, writings, music, video, audio recordings, computer graphics, pictures, data, questions, comments, suggestions or other content, including Personal Information (collectively, “User Content”). We or others may reproduce, publish, distribute or otherwise use User Content online or offline in any media or format (currently existing or hereafter developed). Others may have access to this User Content and may have the ability to share it with third parties across the Internet. Please think carefully before deciding what information you share, including Personal Information, in connection with your User Content. Please note that Bauer Publishing does not control who will have access to the information that you choose to make public, and cannot ensure that parties who have access to such publicly available information will respect your privacy or keep it secure. This Privacy Policy does not apply to any information that you disclose publicly, share with others or otherwise upload, whether through the Services or otherwise. We are not responsible for the accuracy, use or misuse of any content or information that you disclose or receive through the Services.
+
+### (b) Name and Likeness.
+
+We may also publish your name, voice, likeness and other Personal Information that is part of your User Content, and we may use the content, or any portion of the content, for advertising, marketing, publicity and promotional activities. For full terms and conditions regarding User Content you submit to the Services, please review our [Terms of Use](https://web.archive.org/terms-of-use).
+
+## 7\. Does Third Party Content And Links To Third Party Services Appear on the Services?
+
+The Services may contain content that is supplied by a third party, and those third parties may collect web site usage information and your Device Identifier when web or mobile pages from any online Services are served to your browser. In addition, when you are using the Services, you may be directed to other web sites or applications that are operated and controlled by third parties that we do not control. We are not responsible for the actions and privacy practices employed by any of these third parties and other web sites. For example, if you “click” on a banner advertisement, the “click” may take you away from one of our web sites onto a different web site. These other web sites may send their own cookies to you, independently collect data or solicit Personal Information and may or may not have their own published privacy policies. We encourage you to be aware of when you leave our online Services and to read the privacy statements of all third party web sites or applications before submitting any Personal Information to third parties. 
+
+## 8\. How Do I Change My Information And Communications Preferences?
+
+You are responsible for maintaining the accuracy of the information you submit to us, such as your contact information provided as part of registration. If you would like to correct or update Personal Information you previously provided to a particular magazine, web site or application operated by us, you can let us know by contacting us, by email or by letter, using the contact information set forth in section 14 below. In addition, the online Services may allow you to review, correct or update Personal Information you have provided through the online Services’ registration form or otherwise. We will make good faith efforts to make requested changes in our then active databases as soon as reasonably practicable.
+
+In addition, you may cancel or modify your communications that you have elected to receive from the Services by following the instructions contained within an e-mail or by logging into your user account and changing your communication preferences.
+
+## 9\. What About Consent To Transfer Information To The United States?
+
+The online Services are operated in the United States and intended for users located in the United States. We make no representation that the online Services are operated in accordance with the laws or regulations of, or governed by, other nations.
+
+If you are located anywhere outside of the United States, please be aware that information we collect, including, Personal Information, will be transferred to, processed and stored in the United States, and that collection of information pursuant to this Privacy Policy shall be governed by and construed in accordance with the laws of the United States, without giving effect to any principles of conflicts of law. The data protection laws in the United States may differ from those of the country in which you are located, and your Personal Information may be subject to access requests from governments, courts, or law enforcement in the United States according to laws of the United States. By using the Services or providing us with any information, you consent to this transfer, processing and storage of your information in the United States.
+
+## 10\. What About Security?
+
+We incorporate commercially reasonable safeguards to help protect and secure your Personal Information. While we use all reasonable efforts to safeguard the confidentiality of your information, we will have no liability for disclosure of any information obtained due to errors in transmission or the unauthorized acts of third parties. No data storage system or transmission over the Internet, wireless transmission or electronic storage of information can be guaranteed to be 100% secure. As a result, we cannot guarantee the security of any information you transmit to us. You use our Services and provide us with information at your own risk.
+
+## 11\. What About Changes To The Privacy Policy?
+
+We reserve the right to change this Privacy Policy from time to time. You agree that we may notify you of the updated Privacy Policy by posting it on our websites or mobile applications so that it is accessible via a link on the home page of the websites or via a link or tab on the Mobile Applications, and your use of the Services after we have posted the updated Privacy Policy (or engaging in such other conduct as we may reasonably specify) constitutes your agreement to the updated Privacy Policy. Therefore, you should review this Privacy Policy from time to time, and before using any of our Services. The updated Privacy Policy will be effective upon reasonable notice after posting, or such later date as may be specified in the updated Privacy Policy. 
+
+## 12\. Your California Privacy Rights
+
+California’s “Shine the Light” law, California Civil Code § 1798.83, requires certain businesses to respond to requests from California customers (those who have an established business relationship with us) asking about the business’ practices related to disclosing personal information to third parties for the third parties’ direct marketing purposes. 
+
+You may request the following information, which will be provided to you via either a writing or e-mail free of charge: (1) a list of the categories of personal disclosed by the applicable Bauer Publishing magazine or property to third parties for the third parties’ direct marketing purposes during the immediately preceding calendar year; and (2) the name and addresses of all third parties that received personal information from the applicable Bauer Publishing magazine or property for the third parties’ direct marketing purposes during the preceding calendar year and if, the nature of the third parties’ business cannot reasonably be determined from the third parties’ name, examples of the products or services marketed, if known to Bauer Publishing, sufficient to give you a reasonable indication of the nature of the third parties’ business.
+
+Requests for this information should be sent to the contact information set forth in section 14 below. You will need to identify the specific Bauer Publishing magazine(s) to which you are subscribed and/or the specific Bauer Publishing web site(s), Mobile Application(s) or other properties which you have used – and which trigger the subject of your request for information under California’s Shine the Light law.
+
+## 13\. What About Social Media Features and Widgets?
+
+Some of our web sites and Mobile Applications may include social media plug-ins and features (such as the Facebook Like button) and widgets ( such as the “Share This” button) or interactive mini-programs that run on our web sites or Mobile Applications. In addition, some of our web sites and Mobile Applications may also permit or require you to register or log into your account via a social networking platform such as Login with Facebook.
+
+These social media features and plug-ins may share with us your username and password for the social media services and other information available about you or collected from you on these social media services, in accordance with the terms and conditions (e.g., terms of use and privacy policy) of the company providing them. In addition, the companies providing these features and plug-ins may be able to collect information about you, including your IP address, your activity on our web sites and Mobile Applications, and they may notify your connections on the social networking platform about your use of our web sites and Mobile Applications. These social media services may also set a cookie to enable a feature to function properly, and employ unique identifiers which allow your activity to be monitored across multiple web sites and Mobile Applications for purposes of delivering more targeted advertising to you.
+
+Social media features and widgets are hosted by either a third-party or hosted directly on our web sites or Mobile Applications. Your interactions with these plugs-in and features are governed by the privacy policy of the company providing them.
+
+## 14\. How Can You Contact Us?
+
+To correct or update Personal Information (section 8), to request information under California’s Shine the Light law (section 12) or if you have any questions about this Privacy Policy or our data practices, you may contact us in the following ways:
+
+By e-mail: [privacypolicy@bauerpublishing.com](mailto:privacypolicy@bauerpublishing.com)
+
+By postal mail: 
+
+> Privacy Coordinator  
+>  Bauer Publishing Group  
+>  270 Sylvan Avenue  
+>  Englewood Cliffs  
+>  New Jersey 07632
+
+**In the subject line of your email or letter, please specify which of our magazine(s), web site(s) or Mobile Application(s) or other Bauer Publishing properties are the subject of your inquiry.**
