@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the quickquid.co.uk privacy policy that was archived on 2013-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130518000418id_/https%3A//www.quickquid.co.uk/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quickquid.co.uk privacy policy that was archived on 2013-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131018084247id_/https%3A//www.quickquid.co.uk/privacy_policy.html) for the most accurate reproduction.*
 
-# Payday Loans: Cash Advances & Payday Loans @ www.quickquid.co.uk
+# QuickQuid Payday Lender Privacy - Payday Loans and Cash Advances
 
 ## CashEuroNetUK, LLC Privacy Policy
 
