@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the avatarist.com privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501222018id_/http%3A//www.avatarist.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the avatarist.com privacy policy that was archived on 2013-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131019005222id_/http%3A//www.avatarist.com/privacy) for the most accurate reproduction.*
 
 # Avatarist Privacy Policy
 
