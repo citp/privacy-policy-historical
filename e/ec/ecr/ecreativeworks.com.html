@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the ecreativeworks.com privacy policy that was archived on 2013-06-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130617051643id_/http%3A//www.ecreativeworks.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ecreativeworks.com privacy policy that was archived on 2013-10-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131019012818id_/http%3A//www.ecreativeworks.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
     
@@ -25,6 +25,7 @@
     <link rel="stylesheet" type="text/css" href="css/responsive_tablet.css" media="screen">
     <link rel="stylesheet" type="text/css" href="css/responsive_mobile.css" media="screen">
     <link rel="stylesheet" type="text/css" href="css/default_print.css" media="print">
+    <link rel="stylesheet" type="text/css" media="screen" href="lib/jquery/js/Fancybox.css">
     
     <!--[if IE 7]>
 	<link rel="stylesheet" type="text/css" href="css/default_ie7.css" media="screen"/>
@@ -32,11 +33,11 @@
     
     <link rel="start" title="Home Page, shortcut key=1" href="http://www.ecreativeworks.com/">
     <link rel="prev" title="Search Results" href="http://www.ecreativeworks.com/search-results">
-    
+    <link rel="next" title="Blogs &amp; Related Sites" href="blog">
             
     
     <!-- Start: Home page jQuery slide -->
-	<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+	<script type="text/javascript" async="" src="https://www.google.com/cse/cse.js?cx=002116885461925146460:hwt8blq0x6q"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
 	<script type="text/javascript" src="lib/jquery/js/chili-1.7.pack.js"></script>
 	<script type="text/javascript" src="lib/jquery/js/jquery.cycle.all.js"></script>
 	<script type="text/javascript" src="lib/jquery/js/jquery.easing.1.3.js"></script>
@@ -46,7 +47,7 @@
        $('.slideshow').after('<div id="slide_nav">').cycle({ 
 			fx:     'fade', 
 			speed:  'slow', 
-			timeout: 5000, 
+			timeout: 3000, 
 			slideResize: false,
 			pause:   1,
 			pager:  '#slide_nav',
@@ -78,9 +79,9 @@
 	}); 
 	</script>
     
-    <!-- Start: Email Slides -->
+    <!-- Start: Email Slides | Currently Not In Use. Ask Zap before removing -->
     <script> 
-	$(document).ready(function(){
+	/*$(document).ready(function(){
 		$("#desktoptoggle").click(function(){
 			$("#desktopdocs").slideToggle("slow");
 	 	});
@@ -90,8 +91,55 @@
 		$("#mobile").click(function(){
 			$("#mobiledocs").slideToggle("slow");
 	 	});
-	});
+	});*/
 	</script>
+    
+    <!-- Start: ActOn Forms -->
+    <script type="text/javascript" src="http://resources.ecreativeworks.com/acton/form.js"></script>
+	<script type="text/javascript">
+		function formElementSerializers() { function input(element) { switch (element.type.toLowerCase()) { case 'checkbox': case 'radio': return inputSelector(element); default: return valueSelector(element); } };
+		function inputSelector(element) { return element.checked ? element.value : null; };
+		function valueSelector(element) { return element.value; };
+		function select(element) { return (element.type === 'select-one' ? selectOne : selectMany)(element); };
+		function selectOne(element) { var index = element.selectedIndex; return index < 0 ? null : optionValue(element.options[index]); };
+		function selectMany(element) { var length = element.length; if (!length) return null; var values = []; for (var i = 0; i < length; i++) { var opt = element.options[i]; if (opt.selected) values.push(optionValue(opt)); } return values; };
+		function optionValue(opt) { if (document.documentElement.hasAttribute) return opt.hasAttribute('value') ? opt.value : opt.text; var element = document.getElementById(opt); if (element && element.getAttributeNode('value')) return opt.value; else return opt.text; };
+		return { input: input, inputSelector: inputSelector, textarea: valueSelector, select: select, selectOne: selectOne, selectMany: selectMany, optionValue: optionValue, button: valueSelector };
+		};
+		var requiredFields = new Array(); var requiredFieldGroups = new Array(); addRequiredField = function (id) { requiredFields.push (id); };
+		addRequiredFieldGroup = function (id, count) { requiredFieldGroups.push ([id, count]); };
+		missing = function (fieldName) { var f = document.getElementById(fieldName); var v = formElementSerializers()[f.tagName.toLowerCase()](f); if (v) { v = v.replace (/^\s*(.*)/, "$1"); v = v.replace (/(.*?)\s*$/, "$1"); } if (!v) { f.style.backgroundColor = '#FFFFCC'; return 1; } else { f.style.backgroundColor = ''; return 0; } };
+		missingGroup = function (fieldName, count) { var result = 1; var color = '#FFFFCC'; for (var i = 0; i < count; i++) { if (document.getElementById(fieldName+'-'+i).checked) { color = ''; result = 0; break; } } for (var i = 0; i < count; i++) document.getElementById(fieldName+'-'+i).parentNode.style.backgroundColor = color; return result; };
+		var validatedFields = new Array(); addFieldToValidate = function (id, validationType, arg1, arg2) { validatedFields.push ([ id, validationType, arg1, arg2 ]); };
+		validateField = function (id, fieldValidationValue, arg1, arg2) { var field = document.getElementById(id); var name = field.name; var value = formElementSerializers()[field.tagName.toLowerCase()](field); for (var i = 0; i < validators.length; i++) { var validationDisplay = validators[i][0]; var validationValue = validators[i][1]; var validationFunction	= validators[i][2]; if (validationValue === fieldValidationValue) { if (!validationFunction (value,arg1,arg2,id)) {	 field.style.backgroundColor = '#FFFFCC'; alert (validationDisplay); return false; } else { field.style.backgroundColor = ''; } break; } } for (var i = 0; i < implicitValidators.length; i++) { var validationDisplay = implicitValidators[i][0]; var validationValue = implicitValidators[i][1]; var validationFunction	= implicitValidators[i][2]; if (validationValue === fieldValidationValue) { if (!validationFunction (value,arg1,arg2,id)) { field.style.backgroundColor = '#FFFFCC'; alert (validationDisplay); return false; } else { field.style.backgroundColor = ''; } break; } } return true; };
+		var r = ''; formElementById = function(form, id) { for (var i = 0; i < form.length; ++i) if (form[i].id === id) return form[i]; return null; };
+		doSubmit = function(form) { try { if (typeof(customSubmitProcessing) === "function") customSubmitProcessing(); } catch (err) { } var ao_jstzo = formElementById(form, "ao_jstzo"); if (ao_jstzo) ao_jstzo.value = new Date().getTimezoneOffset(); var submitButton = document.getElementById(form.id+'_ao_submit_button'); submitButton.style.visibility = 'hidden'; var missingCount = 0; for (var i = 0; i < requiredFields.length; i++) if (requiredFields[i].indexOf(form.id+'_') === 0) missingCount += missing (requiredFields[i]); for (var i = 0; i < requiredFieldGroups.length; i++) if (requiredFieldGroups[i][0].indexOf(form.id+'_') === 0) missingCount += missingGroup (requiredFieldGroups[i][0], requiredFieldGroups[i][1]); if (missingCount >
+		0) { alert ('Please fill all required fields. '); submitButton.style.visibility = 'visible'; return; } for (var i = 0; i < validatedFields.length; i++) { var ff = validatedFields[i]; if (ff[0].indexOf(form.id+'_') === 0 && !validateField (ff[0], ff[1], ff[2], ff[3])) { document.getElementById(ff[0]).focus(); submitButton.style.visibility = 'visible'; return; } } if (formElementById(form, 'ao_p').value === '1') { submitButton.style.visibility = 'visible'; return; } formElementById(form, 'ao_bot').value = 'nope'; form.submit(); };
+    </script>
+
+	<script type="text/javascript">
+	<!-- /* <! [CDATA[ */
+  	document.write (
+    	'<img src="http://resources.ecreativeworks.com/acton/bn/2946/visitor.gif?ts='+
+   		new Date().getTime()+
+    	'&ref='+escape(document.referrer) + '" mce_src="http://resources.ecreativeworks.com/acton/bn/2946/visitor.gif?ts='+
+    	new Date().getTime()+
+    	'&amp;ref='+escape(document.referrer) + '">'
+  	);
+  	/* */
+	//  &gt;
+	// -->
+	</script></head><body class="sub"><img src="http://resources.ecreativeworks.com/acton/bn/2946/visitor.gif?ts=1580511556131&amp;ref=" mce_src="http://resources.ecreativeworks.com/acton/bn/2946/visitor.gif?ts=1580511556132&amp;ref=">
+
+    <script type="text/javascript">
+        $(document).ready(function(){
+            $('#meetingcenter img').attr('src','http://www.ecreativeworks.com/images/meetingid2.png');
+
+            $('#meetingcenter input:image').attr('src','http://www.ecreativeworks.com/images/gotomeeting.png');
+
+
+}); 
+    </script>
 
 	<!-- Start: Google Analytics -->
 	<script type="text/javascript">
@@ -106,9 +154,22 @@
       })();
     </script>
     
-</head>
+    <script>
+  (function() {
+    var cx = '002116885461925146460:hwt8blq0x6q';
+    var gcse = document.createElement('script');
+    gcse.type = 'text/javascript';
+    gcse.async = true;
+    gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
+        '//www.google.com/cse/cse.js?cx=' + cx;
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(gcse, s);
+  })();
+</script>
+    
 
-<body class="sub">
+
+
  
 
 	<a name="top" rel="nofollow"></a><!-- Anchor for back to top button in the footer -->
@@ -157,11 +218,11 @@
                                         
                                                                                                                 <ul class="child">
                                         
-                                            <li><a href="http://www.ecreativeworks.com/design-process">
+                                            <li class="test"><a class="" href="http://www.ecreativeworks.com/design-process">
                             Design Process
                         </a>
                                         
-                                                                                                                </li>
+                                                                                                                                            </li>
                                     
                                             <li><a href="http://www.ecreativeworks.com/new_sites">
                             New Website Design
@@ -218,11 +279,11 @@
                                         
                                                                                                                 </li>
                                     
-                                            <li><a href="http://www.ecreativeworks.com/ecommerce">
+                                            <li class="test"><a class="" href="http://www.ecreativeworks.com/ecommerce">
                             Ecommerce Solutions
                         </a>
                                         
-                                                                                                                </li>
+                                                                                                                                                                        </li>
                                     
                                             <li><a href="http://www.ecreativeworks.com/content-management-systems">
                             Content Management Systems (CMS)
@@ -255,17 +316,17 @@
                                         
                                                                                                                 </li>
                                     
-                                            <li><a href="http://www.ecreativeworks.com/content-syndication">
+                                            <li class="test"><a class="" href="http://www.ecreativeworks.com/content-syndication">
                             Content Syndication
                         </a>
                                         
-                                                                                                                </li>
+                                                                                                                                                                                                    </li>
                                     
-                                            <li><a href="http://www.ecreativeworks.com/configurators">
+                                            <li class="test"><a class="" href="http://www.ecreativeworks.com/configurators">
                             Configurators
                         </a>
                                         
-                                                                                                                </li>
+                                                                                                                                                                                                    </li>
                                     
                                             <li><a href="http://www.ecreativeworks.com/mobile-applications">
                             Mobile Applications
@@ -304,11 +365,11 @@
                                         
                                                                                                                 </li>
                                     
-                                            <li><a href="http://www.ecreativeworks.com/optimization">
+                                            <li class="test"><a class="" href="http://www.ecreativeworks.com/optimization">
                             Search Engine Optimization
                         </a>
                                         
-                                                                                                                </li></ul>
+                                                                                                                                                                                                                                </li></ul>
                             </li>
                                         
                                             <li class="test"><a class="" href="http://www.ecreativeworks.com/industrial-marketing">
@@ -371,7 +432,7 @@
                             Resources
                         </a>
                                         
-                                                                                                                                            <ul class="child">
+                                                                                                                <ul class="child">
                                         
                                             <li><a href="http://www.ecreativeworks.com/internet-marketing-webinars">
                             Videos &amp; Webinars
@@ -391,12 +452,6 @@
                                         
                                                                                                                 </li>
                                     
-                                            <li><a href="blog">
-                            Industrial Marketing Blog
-                        </a>
-                                        
-                                                                                                                </li>
-                                    
                                             <li><a href="http://www.ecreativeworks.com/press-releases">
                             Press Releases
                         </a>
@@ -407,12 +462,6 @@
                             Case Studies
                         </a>
                                         
-                                                                                                                </li>
-                                    
-                                            <li><a href="http://www.ecreativeworks.com/product-webinars">
-                            Product Webinars
-                        </a>
-                                        
                                                                                                                 </li></ul>
                             </li>
                                         
@@ -420,7 +469,7 @@
                             About Us
                         </a>
                                         
-                                                                                                                                            <ul class="child">
+                                                                                                                <ul class="child">
                                         
                                             <li class="test"><a class="" href="http://www.ecreativeworks.com/industries">
                             Industries Served
@@ -428,23 +477,23 @@
                                         
                                                                                                                 <ul class="child">
                                         
-                                            <li><a href="http://www.ecreativeworks.com/oems">
+                                            <li class="test"><a class="" href="http://www.ecreativeworks.com/oems">
                             OEMs
                         </a>
                                         
-                                                                                                                </li>
+                                                                                                                                            </li>
                                     
-                                            <li><a href="http://www.ecreativeworks.com/distributors">
+                                            <li class="test"><a class="" href="http://www.ecreativeworks.com/distributors">
                             Distributors
                         </a>
                                         
-                                                                                                                </li>
+                                                                                                                                                                                                    </li>
                                     
-                                            <li><a href="http://www.ecreativeworks.com/contract-manufacturers">
+                                            <li class="test"><a class="" href="http://www.ecreativeworks.com/contract-manufacturers">
                             Contract Manufacturers
                         </a>
                                         
-                                                                                                                </li>
+                                                                                                                                                                        </li>
                                     
                                             <li><a href="http://www.ecreativeworks.com/consumers">
                             Consumers
@@ -453,12 +502,6 @@
                                                                                                                 </li></ul>
                             </li>
                                         
-                                            <li><a href="http://www.ecreativeworks.com/employment">
-                            Employment
-                        </a>
-                                        
-                                                                                                                </li>
-                                    
                                             <li><a href="http://www.ecreativeworks.com/business-partners-2">
                             Business Partners
                         </a>
@@ -467,6 +510,12 @@
                                     
                                             <li><a href="http://www.ecreativeworks.com/ecreativeworks-team">
                             Our Team 
+                        </a>
+                                        
+                                                                                                                </li>
+                                    
+                                            <li><a href="http://www.ecreativeworks.com/employment-opportunities">
+                            Employment
                         </a>
                                         
                                                                                                                 </li></ul>
@@ -482,7 +531,7 @@
                             Support
                         </a>
                                         
-                                                                                                                                            <ul class="child">
+                                                                                                                <ul class="child">
                                         
                                             <li><a href="http://www.ecreativeworks.com/hosting">
                             Website Hosting 
@@ -519,7 +568,13 @@
                             Contact Us
                         </a>
                                         
-                                                                                    
+                                                                                                                                            </li>
+                                    
+                                            <li><a href="blog">
+                            Blog
+                        </a>
+                                        
+                                                        
              </li>
         </ul>
 	</div>
@@ -528,34 +583,16 @@
             	<a href="#" id="topnav_pull">Menu</a> 
                 
             	<div id="search">
-                	<div id="topnav_search_divider"></div>
-                    <form id="cntnt01moduleform_1" method="post" action="http://www.ecreativeworks.com/search-results" class="cms_form">
-<div class="hidden">
-<input type="hidden" name="mact" value="Search,cntnt01,dosearch,0">
-<input type="hidden" name="cntnt01returnid" value="20">
-</div>
-
-	<table border="0" cellpadding="0" cellspacing="0">
-		<tbody><tr>    
-			<td valign="top">
-            	<input name="submit" class="searchButton" type="image" src="images/site/searchbutton.jpg" value="Search">
-            	<input type="text" id="text" name="cntnt01searchinput" maxlength="50" value="Enter Search..." class="searchText" onfocus="if(this.value==this.defaultValue) this.value='';" onblur="if(this.value=='') this.value=this.defaultValue;">
-            </td>
-  		</tr>
-	</tbody></table>
-
-	    	<input type="hidden" id="cntnt01origreturnid" name="cntnt01origreturnid" value="56">
-
-    </form>
-
+                                        
+                    <gcse:searchbox-only resultsurl="http://www.ecreativeworks.com/searchresults"></gcse:searchbox-only>
+                    
                 </div>
             </div> 
         </div>
    
 			        	<div id="subsubheader">
                 	</div>
-        <!-- This is for the category sub headers. On line 129 in the default.css file is some notes about why this is here. -->
-       	<!-- 			</div>-->
+        
         	    
     <div class="clear_floats"></div>
 
@@ -572,7 +609,31 @@
                                 
                                     <h1>Privacy Policy</h1>
                                 
-                <h2>Effective: July 1, 2004</h2>
+                
+<script type="text/javascript" src="lib/jquery/js/jquery-1.7.min.js"></script>
+<script type="text/javascript" src="lib/jquery/js/jquery.fancybox.pack.js"></script>
+<script type="text/javascript" src="lib/jquery/js/jquery.cookie.js"></script>
+<script type="text/javascript" src="lib/jquery/js/URI.js"></script>
+<script type="text/javascript">// <![CDATA[
+$(document).ready(function() {
+   var check_cookie = $.cookie('the_cookie');
+   
+   $('a.view_content').click(function() {
+      var uri = $(this).attr('href');
+      if($.cookie('the_cookie') != 'the_value'){
+         window.message = $.fancybox('<iframe width="600" height="420" src="{php}echo HTTP_ROOT_PATH;{/php}/resourcerequest2?'+uri+'" frameborder="0" allowfullscreen marginheight="0" marginwidth="0"></iframe>', {	
+            'hideOnOverlayClick' : false,
+            'showCloseButton'   : true,  
+            'enableEscapeButton' : false 
+		   });
+		   $.fancybox(message,uri);
+           return false;
+	  } //ENDS IF
+   });
+});
+// ]]></script>
+
+<h2>Effective: July 1, 2004</h2>
 <p>Ecreativeworks is committed to protecting the privacy of visitors to our website and will not sell or provide any non-public personal information to anyone without your permission.</p>
 <h3>Types of Information</h3>
 <hr>
@@ -605,22 +666,24 @@
        	</div>
             <div id="footerbg">            <div id="footer">
                 <div id="footer_contact">
-                    <div id="footer_btn_contact"><a href="contact"><img src="images/site/footer_btn_contact_up.png" alt="" border="0"></a></div>
+                    <a id="footer_btn_contact" href="contact"></a>
                 </div>
                 
-                <div id="addresses">
+                <div id="footer_address">
                     <div id="footer_minnesota">
                         <h4>Headquarters</h4>
 <p>13220 County Road 6, Suite 150<br> Plymouth, Minnesota 55441<br> 763-450-3900 • 888-234-5071</p>
-<br>
-<h4>West Coast Offices</h4>
+                    </div>
+                    
+                    <div id="footer_minnesota">
+                        <h4>West Coast Offices</h4>
 <p>7545 Irvine Center Drive, Suite 200<br> Irvine, California 92618 <br> 949-629-1171 • 800-747-7952</p>
                     </div>
                 </div>
     
                 <div id="footer_logos">
                     <a id="footer_logos_bbb" href="http://www.bbb.org/minnesota/business-reviews/web-design/ecreativeworks-in-plymouth-mn-96052175#sealclick" title="Click for the Business Review of Ecreativeworks, Inc., a Web Design in Plymouth MN" target="_blank"><img alt="Click for the BBB Business Review of this Web Design in Plymouth MN" src="http://seal-minnesota.bbb.org/seals/blue-seal-153-100-ecreativeworksinc-96052175.png" style="border: 0;"></a>
-                    <a id="footer_logos_w3c" href="http://www.w3.org/" target="_blank"><img src="images/site/w3c.jpg" alt="" border="0"></a>
+                    <!--<a id="footer_logos_w3c" href="http://www.w3.org/" target="_blank"><img src="images/site/w3c.jpg" alt="" border="0" /></a>-->
                     <img class="mia" src="images/site/made_in_america.jpg">
                 </div>
     
@@ -655,4 +718,8 @@
                 </div>
             </div>
         </div>    
+<script type="text/javascript" src="//cdn.callrail.com/companies/199948031/56147f229f2bbb29937e/12/swap.js">
+</script>
+
+
 </body></html>
