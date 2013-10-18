@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mediaspider.us privacy policy that was archived on 2013-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130518183428id_/http%3A//mediaspider.us/privacy-policy-s) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mediaspider.us privacy policy that was archived on 2013-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131018082857id_/http%3A//mediaspider.us/privacy-policy-s) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -20,6 +20,7 @@ We may collect the following information:
   * Other information relevant to customer surveys and/or offers
   * Information relating to your area(s) of business activity
   * Information relating to your website(s) and other related online activity
+  * _**All users must be 18 years old or older**_
 
 
 
@@ -73,7 +74,7 @@ If you believe that any information we are holding on you is incorrect or incomp
 
 You may contact us at:
 
-Support
+MSSupport
 
 [at]
 
