@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the tylerpaper.com privacy policy that was archived on 2013-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130531100446id_/http%3A//www.tylerpaper.com/section/PRIVACY) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tylerpaper.com privacy policy that was archived on 2013-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131018033500id_/http%3A//www.tylerpaper.com/cp/fbc-71/privacy-policy) for the most accurate reproduction.*
 
-# TylerPaper.com | Tyler Morning Telegraph
-
-Privacy Policy
+# Tyler Morning Telegraph - Privacy Policy
 
 When you visit this website, T.B. Butler Publishing Company dba tylerpaper.com ("Tyler Paper") and third parties may collect personal identifying information about you. This information may be collected in a variety of ways including, without limitation, through the use of cookies. Cookies are pieces of information that are stored by your browser on your computer.
 
@@ -12,4 +10,4 @@ Tyler Paper does not control, and is not responsible for, use or disclosure of i
 
 Tyler Paper does not knowingly request or compile personal identifying information for children under the age of 13 without the consent of the child's parent or guardian.
 
-Tyler Paper reserves the right to amend this Privacy Policy from time to time without notice. All persons who access this website agree to abide by the foregoing Privacy Policy, as may be amended from time to time without notice. 
+Tyler Paper reserves the right to amend this Privacy Policy from time to time without notice. All persons who access this website agree to abide by the foregoing Privacy Policy, as may be amended from time to time without notice.
