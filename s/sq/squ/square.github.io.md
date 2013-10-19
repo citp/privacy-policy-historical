@@ -1,12 +1,14 @@
-> *The following text is extracted and transformed from the square.github.io privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502105716id_/https%3A//squareup.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the square.github.io privacy policy that was archived on 2013-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131019092921id_/https%3A//squareup.com/legal/privacy) for the most accurate reproduction.*
 
 # Square Privacy Policy
 
   * [User Agreements](https://squareup.com/legal/ua)
   * [E-Sign Consent](https://squareup.com/legal/sign)
   * [Commercial Entity Agreement](https://squareup.com/legal/cea)
-  * Privacy Policy
+  * Privacy
   * [Notices](https://squareup.com/legal/notices)
+  * [Licenses](https://squareup.com/legal/licenses)
+  * [Government](https://squareup.com/legal/gov)
 
 
 
@@ -107,7 +109,7 @@ California law permits residents of California to request certain details about 
 Please contact our Privacy Department with any questions or concerns regarding our policy.
 
 Square, Inc.  
-901 Mission Street  
+1455 Market Street  
 San Francisco, CA 94103  
 [https://squareup.com](https://squareup.com/)  
 [Email Privacy](mailto:privacy@squareup.com)
