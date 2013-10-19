@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the getaround.com privacy policy that was archived on 2013-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130524144026id_/http%3A//www.getaround.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getaround.com privacy policy that was archived on 2013-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131019115113id_/http%3A//www.getaround.com/privacy) for the most accurate reproduction.*
 
 # Getaround - Peer-to-peer car sharing and local car rental
 
