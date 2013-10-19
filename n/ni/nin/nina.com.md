@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nina.com privacy policy that was archived on 2013-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130522223559id_/http%3A//www.nina.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nina.com privacy policy that was archived on 2013-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131019122431id_/http%3A//www.premiumpass.com/privacy.php) for the most accurate reproduction.*
 
 # Our Commitment To Privacy
 
