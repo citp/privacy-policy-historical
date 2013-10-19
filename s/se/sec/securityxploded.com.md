@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the securityxploded.com privacy policy that was archived on 2013-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130611010613id_/http%3A//securityxploded.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the securityxploded.com privacy policy that was archived on 2013-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131019211850id_/http%3A//www.securityxploded.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - www.SecurityXploded.com
 
@@ -42,54 +42,48 @@ The data collected from feedback program is not stored anywhere except that feed
   
 |  Final Note   
 ---  
-If you believe that information presented above is incorrect or incomplete, please write to the Author through our [Feedback form](https://web.archive.org/web/20130611010613id_/http%3A//securityxploded.com/sitefeedback.php). Author will be more than happy to address any of your concerns or issues.  
+If you believe that information presented above is incorrect or incomplete, please write to the Author through our [Feedback form](https://web.archive.org/web/20131019211850id_/http%3A//www.securityxploded.com/sitefeedback.php). Author will be more than happy to address any of your concerns or issues.  
 |    
 ---  
+| New Tool [»  ](https://web.archive.org/web/20131019211850id_/http%3A//www.securityxploded.com/new-tool-updates.php)  
+---  
+[](https://web.archive.org/web/20131019211850id_/http%3A//www.securityxploded.com/wifi-password-dump.php)
+
+Wi Fi Password Dump v1.0  
+  
+| Launching Soon [»  ](http://www.xenarmor.com/network-ssl-certificate-scanner.php)  
+---  
+[](http://www.xenarmor.com/network-ssl-certificate-scanner.php)
+
+NetCertScanner Enterprise Edition 2014  
+  
 | Fresh Hacking News [»  ](http://securityphresh.com/)  
 ---  
 [](http://securityphresh.com/)
 
 Get Latest Security & Hacking News  
   
-| New Tool [»  ](https://web.archive.org/web/20130611010613id_/http%3A//securityxploded.com/tools.php)  
+| 7 Million Downloads [»  ](https://web.archive.org/web/20131019211850id_/http%3A//www.securityxploded.com/statistics.php)  
 ---  
-[](https://web.archive.org/web/20130611010613id_/http%3A//securityxploded.com/dll-magic.php)
+[](https://web.archive.org/web/20131019211850id_/http%3A//www.securityxploded.com/statistics.php)
 
-DLL Magic v1.0  
-  
-| Grand Spring SALE [»  ](http://netcertscanner.com/)  
----  
-[](http://netcertscanner.com/)
-
-Get upto 50% OFF on Enterprise NetCertScanner  
-  
-| 5 Million Downloads [»  ](http://bit.ly/SJANF5)  
----  
-[](http://bit.ly/SJANF5)
-
-Five Million Downloads of Our Tools  
+Seven Million Downloads of Our Tools  
   
 | Security Training  
 ---  
-[](https://web.archive.org/web/20130611010613id_/http%3A//securityxploded.com/security-training.php)
+[](https://web.archive.org/web/20131019211850id_/http%3A//www.securityxploded.com/security-training.php)
 
 Our Free Advanced Malware Analysis Training Series  
   
-| SX Alexa Toolbar [»  ](https://s3.amazonaws.com/com.alexa.toolbar/atbp/eal1Rz/download/index.htm)  
+| Testimonials [»  ](https://web.archive.org/web/20131019211850id_/http%3A//www.securityxploded.com/testimonials.php)  
 ---  
-[](https://s3.amazonaws.com/com.alexa.toolbar/atbp/eal1Rz/download/index.htm)
-
-Install New SecurityXploded Alexa toolbar to stay Fresh & Smart...  
-  
-| Testimonials [»  ](https://web.archive.org/web/20130611010613id_/http%3A//securityxploded.com/testimonials.php)  
----  
-[](https://web.archive.org/web/20130611010613id_/http%3A//securityxploded.com/testimonials.php)
+[](https://web.archive.org/web/20131019211850id_/http%3A//www.securityxploded.com/testimonials.php)
 
 "I have found 'SecurityXploded' tools to be an invaluable asset in many of our Forensic Investigations..."  
 \- James, Police Dept, Delaware, USA  
   
-| Awards [»  ](https://web.archive.org/web/20130611010613id_/http%3A//securityxploded.com/awards.php)  
+| Awards [»  ](https://web.archive.org/web/20131019211850id_/http%3A//www.securityxploded.com/awards.php)  
 ---  
-[](https://web.archive.org/web/20130611010613id_/http%3A//securityxploded.com/awards.php)
+[](https://web.archive.org/web/20131019211850id_/http%3A//www.securityxploded.com/awards.php)
 
 Awards for our softwares from leading Download Sites
