@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sandiego.org privacy policy that was archived on 2013-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130423223543id_/http%3A//www.sandiego.org/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sandiego.org privacy policy that was archived on 2013-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131019171904id_/http%3A//www.sandiego.org/privacy-policy.aspx) for the most accurate reproduction.*
 
 # San Diego Tourism Authority Privacy Policy
 
