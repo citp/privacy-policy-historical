@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rynoxgears.com privacy policy that was archived on 2013-01-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130117164809id_/http%3A//www.rynoxgears.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rynoxgears.com privacy policy that was archived on 2013-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131019063035id_/http%3A//www.rynoxgears.com/privacy-policy.php) for the most accurate reproduction.*
 
 # RYNOX GEARS
 
@@ -9,6 +9,10 @@ Magnetic Tank Bags
 Non-Magnetic Tank Bags 
 
 Motorcycle Gloves 
+
+Motorcycle Jackets 
+
+Motorcycle Mount 
 
   
 
