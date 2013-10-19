@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the edmsauce.com privacy policy that was archived on 2013-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130420072730id_/http%3A//www.edmsauce.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edmsauce.com privacy policy that was archived on 2013-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131019102215id_/http%3A//www.edmsauce.com/privacy-policy) for the most accurate reproduction.*
 
 # EDM Sauce Privacy Policy and Disclaimers
 
@@ -31,7 +31,7 @@ We may use the information Users provide about themselves when placing an order 
   * _\- To run a promotion, contest, survey or other Site feature_  
 To send Users information they agreed to receive about topics we think will be of interest to them.
   * _\- To send periodic emails_  
-We may use the email address to send User information and updates pertaining to their order. It may also be used to respond to their inquiries, questions, and/or other requests. If User decides to opt-in to our mailing list, they will receive emails that may include company [news](http://www.edmsauce.com/electronic-dance-music-news/ "news"), updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
+We may use the email address to send User information and updates pertaining to their order. It may also be used to respond to their inquiries, questions, and/or other requests. If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
 
 
 
