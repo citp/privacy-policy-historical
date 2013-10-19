@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ipo.gov.uk privacy policy that was archived on 2013-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130628025230id_/http%3A//www.ipo.gov.uk/cookies.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ipo.gov.uk privacy policy that was archived on 2013-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131019195207id_/http%3A//www.ipo.gov.uk/cookies.htm) for the most accurate reproduction.*
 
 # Intellectual Property Office - Cookies and Privacy
 
@@ -12,7 +12,7 @@ These pieces of information are used to improve services for you through, for ex
 
 
 
-You can manage these small files and learn more about them from [Directgov: Internet browser cookies - what they are and how to manage them ](http://www.gov.uk/support/cookies "Internet browser cookies - what they are and how to manage them").
+You can manage these small files and learn more about them from [Directgov: Internet browser cookies - what they are and how to manage them ](http://www.gov.uk/help/cookies "Internet browser cookies - what they are and how to manage them").
 
 For further information on how to control and delete cookies, [visit About Cookies ](http://www.aboutcookies.org/Default.aspx?page=1 "Visit AboutCookies.org").
 
@@ -168,4 +168,4 @@ We do not allow external organisations to access, use or share any of this analy
 
 ### YouTube
 
-We embed videos from our official YouTube channel using YouTube’s privacy-enhanced mode. This mode may set cookies on your computer once you click on the YouTube video player, but YouTube will not store personally-identifiable cookie information for playbacks of embedded videos using the privacy-enhanced mode. To find out more please [visit YouTube’s information on embedding videos ](http://support.google.com/youtube/bin/answer.py?hl=en-GB&answer=171780 "Embedding YouTube videos").
+We embed videos from our official YouTube channel using YouTube’s privacy-enhanced mode. This mode may set cookies on your computer once you click on the YouTube video player, but YouTube will not store personally-identifiable cookie information for playbacks of embedded videos using the privacy-enhanced mode. To find out more please [visit YouTube’s information on embedding videos ](http://support.google.com/youtube/answer/171780?hl=en-GB "Embedding YouTube videos").
