@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freeview.co.uk privacy policy that was archived on 2013-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130529075114id_/http%3A//www.freeview.co.uk/Privacy-Cookie-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freeview.co.uk privacy policy that was archived on 2013-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131019142443id_/http%3A//www.freeview.co.uk/privacy-cookie-policy) for the most accurate reproduction.*
 
 # Privacy & Cookie Policy | Freeview
 
@@ -35,7 +35,7 @@ If you don’t want us to place cookies on your computer at all, you can set you
 If you want to remove previously-stored cookies, you can manually delete the cookies at any time. However, this will not prevent websites from placing further cookies on your computer.
 
 To find out exactly how to disable/ remove, please go to  
-[www.allaboutcookies.org/manage-cookies/index.html](https://web.archive.org/web/20130529075114id_/http%3A//www.freeview.co.uk/www.allaboutcookies.org/manage-cookies/index.html)
+[www.allaboutcookies.org/manage-cookies/index.html](https://web.archive.org/web/20131019142443id_/http%3A//www.freeview.co.uk/www.allaboutcookies.org/manage-cookies/index.html)
 
 **5\. What we do with the information we collect about you**
 
@@ -72,7 +72,7 @@ a subject access right which enables you to be told whether we hold any personal
 a right to get personal data relating to you rectified, completed, updated, blocked or erased when incomplete, unclear, obsolete or processed unlawfully;  
 a right to object to the processing of data relating to you on legitimate grounds and a right to object free of charge to the use of data for solicitation purposes.
 
-We will comply with such rights as provided under applicable law. If you wish to exercise your subject access right, please contact us in writing at DTV Services Limited, 27-29 Cursitor Street, London, EC4A 1LT with sufficient information to identify yourself and the information you require. We will respond to your request within 40 days. We reserve the right to charge £10 for complying with a subject access request.  
+We will comply with such rights as provided under applicable law. If you wish to exercise your subject access right, please contact us in writing at DTV Services Limited, The Met Building, 22 Percy Street, London, W1T 2BU with sufficient information to identify yourself and the information you require. We will respond to your request within 40 days. We reserve the right to charge £10 for complying with a subject access request.  
 **9\. Security**
 
 Except if provided to others in the circumstances set out in this Policy, the data supplied by you will be kept on the site, Facebook applications and mobile applications secured servers and computer systems, protected from outside intrusions.  
