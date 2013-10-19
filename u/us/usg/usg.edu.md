@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the usg.edu privacy policy that was archived on 2013-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130426154350id_/http%3A//www.usg.edu/siteinfo/web_privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usg.edu privacy policy that was archived on 2013-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131019113104id_/http%3A//www.usg.edu/siteinfo/web_privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy for WWW.USG.EDU - Site Information - University System of Georgia
 
