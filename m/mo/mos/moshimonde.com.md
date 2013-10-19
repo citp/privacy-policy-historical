@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the moshimonde.com privacy policy that was archived on 2013-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130630104659id_/http%3A//moshimonde.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moshimonde.com privacy policy that was archived on 2013-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131019212536id_/http%3A//www.moshimonde.com/privacy.aspx) for the most accurate reproduction.*
 
-# moshi - purveyor of electronics fashion -
+# Moshi - Premium wireless accessories for Apple, Android, Kindle -
 
 We value your privacy as much as we value your business. All information (e.g., your name and email address) submitted to Moshi is held strictly private. All your information is kept securely behind firewall protection. We do not and never will sell any customer information.
 
