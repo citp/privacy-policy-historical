@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hellokpop.com privacy policy that was archived on 2013-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130619002314id_/http%3A//www.hellokpop.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hellokpop.com privacy policy that was archived on 2013-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131019025455id_/http%3A//www.hellokpop.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Say Hello to K-pop! – Latest News and Stories
+# Privacy Policy - Say hello to K-Pop! – Latest News and Stories
 
 **Privacy Policy**
 
