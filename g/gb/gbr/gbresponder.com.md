@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gbresponder.com privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601004238id_/http%3A//www.gbresponder.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gbresponder.com privacy policy that was archived on 2013-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131019124033id_/http%3A//gbresponder.com/privacy.html) for the most accurate reproduction.*
 
 # Email Delivery | Email Marketing | Autoresponder Service for Email Marketers | GBResponder.com
 
