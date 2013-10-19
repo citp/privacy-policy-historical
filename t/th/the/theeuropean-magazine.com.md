@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theeuropean-magazine.com privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602230415id_/http%3A//www.theeuropean-magazine.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theeuropean-magazine.com privacy policy that was archived on 2013-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131019114703id_/http%3A//www.theeuropean-magazine.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - The European
 
@@ -66,51 +66,43 @@ Most Read  / Most Commented
 
   * Comment
 
-## [Germany's Energy Transition](https://web.archive.org/chris-nelder--2/6747-germanys-energy-transition)
+## [Why Transparency will save Privacy](https://web.archive.org/david-brin--2/7535-why-transparency-will-save-privacy)
 
-[](https://web.archive.org/chris-nelder--2/6747-germanys-energy-transition)
+[](https://web.archive.org/david-brin--2/7535-why-transparency-will-save-privacy)
 
-Germany's energy transition is already a success story. If only the rest of the world paid attention. [read more](https://web.archive.org/chris-nelder--2/6747-germanys-energy-transition)
+Surveillance can’t be stopped. But instead of isolating ourselves and trying to seal off our secrets we should expose them, and the snoopers surrounding us. For the illusory fa... [read more](https://web.archive.org/david-brin--2/7535-why-transparency-will-save-privacy)
+
+  * Comment
+
+## [Secrecy and the Social Self](https://web.archive.org/clare-birchall--2/7527-secrecy-and-the-social-self)
+
+[](https://web.archive.org/clare-birchall--2/7527-secrecy-and-the-social-self)
+
+To analyze the true value of secrecy, we should not look to the state or companies but to kids and their diaries. For secrets are an essential part of our human development. [read more](https://web.archive.org/clare-birchall--2/7527-secrecy-and-the-social-self)
+
+  * Comment
+
+## [The History of Secrecy ](https://web.archive.org/david-vincent--2/7529-the-history-of-secrecy)
+
+[](https://web.archive.org/david-vincent--2/7529-the-history-of-secrecy)
+
+The trouble with secrecy and transparency goes back a long way. To understand why we need secrets we must take a look at history and the British postal service of the nineteent... [read more](https://web.archive.org/david-vincent--2/7529-the-history-of-secrecy)
 
   * Column
 
-## [Italian Racism](https://web.archive.org/stefano-casertano--3/6925-italian-racism)
+## [The Advantages and Power of Bitcoin](https://web.archive.org/juliane-mendelsohn/7545-the-advantages-and-power-of-bitcoin)
 
-[](https://web.archive.org/stefano-casertano--3/6925-italian-racism)
+[](https://web.archive.org/juliane-mendelsohn/7545-the-advantages-and-power-of-bitcoin)
 
-Italian soccer clubs have a racism problem. It's indicative of the sorry state of Italian civil society that almost nobody dares to speak openly about it. [read more](https://web.archive.org/stefano-casertano--3/6925-italian-racism)
-
-  * Comment
-
-## [Energy Transition and Climate Change](https://web.archive.org/john-rhys--2/6749-energy-transition-and-climate-change)
-
-[](https://web.archive.org/john-rhys--2/6749-energy-transition-and-climate-change)
-
-Germany's irrational fears about nuclear energy have led to a resurgence of coal as an energy source. The cost of short-sighted policies: Long-term climate change. [read more](https://web.archive.org/john-rhys--2/6749-energy-transition-and-climate-change)
+Bitcoin is more than just an alternative digital currency: it is the emancipation from a financial system that whitewashes the money of drug cartels, manipulates its own rates,... [read more](https://web.archive.org/juliane-mendelsohn/7545-the-advantages-and-power-of-bitcoin)
 
   * Comment
 
-## [The Effects of Austerity](https://web.archive.org/jonathan-wiltshire/6917-the-effects-of-austerity)
+## [Protecting State Secrecy](https://web.archive.org/david-omand--2/7539-protecting-state-secrecy)
 
-[](https://web.archive.org/jonathan-wiltshire/6917-the-effects-of-austerity)
+[](https://web.archive.org/david-omand--2/7539-protecting-state-secrecy)
 
-In Greece, news of a return to economic growth is more or less meaningless to those thoroughly affected and thoroughly angered. Politicians should focus on repairing people's l... [read more](https://web.archive.org/jonathan-wiltshire/6917-the-effects-of-austerity)
-
-  * Comment
-
-## [The Future of Nuclear Energy](https://web.archive.org/mitsuru-obe--2/6748-the-future-of-nuclear-energy)
-
-[](https://web.archive.org/mitsuru-obe--2/6748-the-future-of-nuclear-energy)
-
-Fukushima produced very different reactions around the world. While Germany has abandoned nuclear power, Japan is slowing embracing it again. [read more](https://web.archive.org/mitsuru-obe--2/6748-the-future-of-nuclear-energy)
-
-  * Sponsored Column
-
-## [Desert Island Discs](https://web.archive.org/alexander-goerlach--2/6903-the-start-up-soundtrack)
-
-[](https://web.archive.org/alexander-goerlach--2/6903-the-start-up-soundtrack)
-
-The start-up experience, compressed into eight songs. [read more](https://web.archive.org/alexander-goerlach--2/6903-the-start-up-soundtrack)
+Without secrecy, the state cannot protect its citizens. The public should therefore not have a universal right to transparency. [read more](https://web.archive.org/david-omand--2/7539-protecting-state-secrecy)
 
 
 
