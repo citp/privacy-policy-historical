@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the praguepost.com privacy policy that was archived on 2013-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130625010914id_/http%3A//www.praguepost.com/services/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the praguepost.com privacy policy that was archived on 2013-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131019081917id_/http%3A//www.praguepost.com/services/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Services - The Prague Post
 
