@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freshpainted.com privacy policy that was archived on 2013-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130516042705id_/http%3A//www.freshpainted.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freshpainted.com privacy policy that was archived on 2013-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131020013743id_/http%3A//www.freshpainted.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Fresh Painted - Watch your step : Fresh Painted – Watch your step
 
@@ -8,7 +8,7 @@
 We use Google AdSense and other third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you.
 
 **Third Party Cookies**  
-In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique “cookie” on your browser.
+In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique âcookieâ on your browser.
 
 **Personal Information**  
 We do not request any personal information or collect any information that personally identifies you or allows you to be personally contacted. Since we do not collect any personal information on this Web site, we do not share any personal information with any third parties nor do we use any personal information for any purposes.
@@ -20,7 +20,7 @@ This site contains links to other sites. **Fresh Painted** is not responsible fo
 Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.
 
 **The Information We Collect:**  
-This notice applies to all information collected or submitted on the **Fresh Painted** website. On some pages, you can order products, make requests, and register to receive materials. The types of personal information collected at these pages are: Name Address, Email address, Phone number, Credit/Debit Card Information (etc.). On some pages, you can submit information about other people. For example, if you order a gift online and want it sent directly to the recipient, you will need to submit the recipient’s address. In this circumstance, the types of personal information collected are: Name, Address, Phone, Number (etc.)
+This notice applies to all information collected or submitted on the **Fresh Painted** website. On some pages, you can order products, make requests, and register to receive materials. The types of personal information collected at these pages are: Name Address, Email address, Phone number, Credit/Debit Card Information (etc.). On some pages, you can submit information about other people. For example, if you order a gift online and want it sent directly to the recipient, you will need to submit the recipientâs address. In this circumstance, the types of personal information collected are: Name, Address, Phone, Number (etc.)
 
 **The Way We Use Information:**  
 We use the information you provide about yourself when placing an order only to complete that order. We do not share this information with outside parties except to the extent necessary to complete that order.  
@@ -34,7 +34,7 @@ Finally, we never use or share the personally identifiable information provided 
 **Our Commitment To Data Security**  
 To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online.
 
-**Our Commitment To Children’s Privacy:**  
+**Our Commitment To Childrenâs Privacy:**  
 Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our website from those we actually know are under 13, and no part of our website is structured to attract anyone under 13.
 
 **How You Can Access Or Correct Your Information**  
