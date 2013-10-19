@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gortons.com privacy policy that was archived on 2013-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130622013740id_/http%3A//gortons.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gortons.com privacy policy that was archived on 2013-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131019162654id_/http%3A//gortons.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Gorton's Seafood
 
