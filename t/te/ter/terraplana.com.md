@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the terraplana.com privacy policy that was archived on 2012-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121115093129id_/http%3A//www.vivobarefoot.com/us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the terraplana.com privacy policy that was archived on 2013-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131019034619id_/http%3A//www.vivobarefoot.com/us/privacy-policy) for the most accurate reproduction.*
 
-# VIVOBAREFOOT | The original barefoot shoe | Barefoot Running | Barefoot Shoes | Privacy Policy US
-
-### Privacy Policy United States
+# Privacy Policy US
 
 We are committed to protecting your privacy. We will only use the information that we collect about you lawfully in accordance with the Data Protection Act 1998.
 
