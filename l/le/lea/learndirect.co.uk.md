@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the learndirect.co.uk privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621005328id_/http%3A//learndirect.co.uk/privacystatement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the learndirect.co.uk privacy policy that was archived on 2013-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131019113358id_/http%3A//www.learndirect.co.uk/privacystatement) for the most accurate reproduction.*
 
 # Privacy Statement | learndirect
 
