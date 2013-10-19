@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the loop21.com privacy policy that was archived on 2013-04-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130406164955id_/http%3A//www.loop21.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the loop21.com privacy policy that was archived on 2013-10-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131019211940id_/http%3A//www.loop21.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="no-js" lang="en"><!--<![endif]--><head>
 		<meta charset="utf-8">
@@ -19,9 +19,200 @@
 <link rel="shortlink" href="/node/75">
 <meta property="og:url" content="http://www.loop21.com/privacy">
 		<title>Privacy Policy | Loop21.com</title>
-		<style type="text/css" media="all">@import url("http://www.loop21.com/sites/all/themes/loop21theme/css/style.css?mh1qha");</style>
-		<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.5.2/jquery.js"></script>
-<script type="text/javascript" src="http://www.loop21.com/sites/all/themes/loop21theme/js/libs/modernizr-2.5.3.min.js?mh1qha"></script>
+		<style type="text/css" src="/sites/all/themes/loop21theme/js/nyromodal/styles/nyroModal.css"></style>
+		<style type="text/css" media="all">@import url("http://www.loop21.com/sites/all/themes/loop21theme/css/style.css?muism8");</style>
+		<script type="text/javascript" src="http://www.loop21.com/sites/all/themes/loop21theme/js/libs/modernizr-2.5.3.min.js?muism8"></script>
+
+		<script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+		<script src="//code.jquery.com/ui/1.10.3/jquery-ui.js"></script>
+		<style type="text/css" src="//code.jquery.com/ui/1.10.3/themes/smoothness/jquery-ui.css"></style>
+		<!-- nyroModal -->
+		<script type="text/javascript" src="/sites/all/themes/loop21theme/js/nyromodal/js/jquery.nyroModal.custom.js"></script>
+		
+		<!-- bxSlider -->
+		<script type="text/javascript" src="/sites/all/themes/loop21theme/js/bxslider/jquery.bxslider.min.js"></script>
+		<style type="text/css" src="/sites/all/themes/loop21theme/js/bxslider/jquery.bxslider.css"></style>
+		
+		<!-- jScroll -->
+				
+		<!-- Infinite-Scroll -->
+		<script type="text/javascript" src="/sites/all/themes/loop21theme/js/infinite-scroll/jquery.infinitescroll.js?version=20131003"></script>
+		
+		<!--[if IE 6]>
+			<script type="text/javascript" src="js/jquery.nyroModal-ie6.min.js"></script>
+		<![endif]-->
+		<script type="text/javascript">
+		$(function() {
+			$('.flipsideModal').nyroModal({
+				showCloseButton: true,
+				sizes: {
+					minW: 815,
+					minH: 600
+				}
+			});
+		  
+			$('#recent_galleries ul').bxSlider({
+				auto: true, 
+				mode: "fade",
+				randomStart: true,
+				pager: false
+			});
+		});
+
+		$(document).ready(function(){
+		
+			// Broken images
+			$('img').one('error', function() { this.src = '/sites/all/themes/loop21theme/img/broken.png'; })
+			
+// Slider for channel/topic pages
+			$('ul.channel-slides').bxSlider({
+				mode: 'horizontal',
+				captions: false,
+				controls: false,
+				auto: true,
+				pause: 7500
+			});
+		
+			// Frontpage Feature Functions (FFF)
+			ff_pagecount = 1;
+			
+			$(".ff_more").click(function(){		
+				$.ajax({
+					url: '/frontpage-scroll?page='+(ff_pagecount+1),
+				}).done(function(data)
+				{
+					ff_pagecount ++;
+					return_data = $(data).find("div.unit");
+					$("#frontpage-features div.content.clearfix").append(return_data);
+				});
+			});
+		
+			
+			function ff_page_increment()
+			{
+				ff_pagecount ++;
+				console.log("pg: "+ff_pagecount);
+				
+				if (ff_pagecount >= 3)
+				{
+					$("div.ff_more:last").css("display","block");
+				}
+			}	
+			
+// If this is Frontpage Features, get the pager element that is not located within #frontpage-features
+			
+			$('#frontpage-features div.content.clearfix').infinitescroll({
+
+				navSelector  : ".pager-box",            
+							   // selector for the paged navigation (it will be hidden)
+				nextSelector : ".pager-box a.moooore",    
+							   // selector for the NEXT link (to page 2)
+				itemSelector : "div.unit",  
+							   // selector for all items you'll retrieve
+				maxPage		 : 1,
+				
+				currentPage : -1,
+				}, 
+				function () {
+					ff_page_increment();
+				}
+			);			
+
+			// Channels
+	
+			var c_morelink = $('#channels .pager-next a').attr("href");
+			if (c_morelink != null)
+			{
+				$('#channels .pager-next a').attr("href", c_morelink.replace("channel","channel_scroll"));
+			}
+
+			var t_morelink = $('#topics .pager-next a').attr("href");
+			if (t_morelink != null)
+			{
+				// Change topics/ to topic_scroll/ if it's in the url, otherwise add it
+				if (t_morelink.substr(0,8) != "/topics/")
+					$('#topics .pager-next a').attr("href", "/topic_scroll/"+t_morelink);
+				else
+					$('#topics .pager-next a').attr("href", t_morelink.replace("/topics/","/topic_scroll/"));
+			}
+			
+			var n_morelink = $('#newsbrief .pager-next a').attr("href");
+			if (n_morelink != null)
+			{
+				$('#newsbrief .pager-next a').attr("href", n_morelink.replace("newsbrief","newsbrief_scroll"));
+			}
+						
+		  $('#channels div.top.clearfix div.col1.col1_2').infinitescroll({
+ 
+			navSelector  : ".pager-next:last",            
+						   // selector for the paged navigation (it will be hidden)
+			nextSelector : ".pager-next:last a",    
+						   // selector for the NEXT link (to page 2)
+			itemSelector : "div.unit",
+						   // selector for all items you'll retrieve
+			currentPage : 0,
+			}, function(){
+				addthis.toolbox(".addthis_toolbox");				
+			}
+		  );
+		  
+		  $('#topics div.top.clearfix div.col1.col1_2').infinitescroll({
+ 
+			navSelector  : ".pager-next:last",            
+						   // selector for the paged navigation (it will be hidden)
+			nextSelector : ".pager-next:last a",    
+						   // selector for the NEXT link (to page 2)
+			itemSelector : "div.unit",
+						   // selector for all items you'll retrieve
+			currentPage : 0,
+			}, function(){
+				addthis.toolbox(".addthis_toolbox");				
+			}
+		  );		  
+
+		  $('#newsbrief div.content.clearfix').infinitescroll({
+ 
+			navSelector  : ".pager-next:last",            
+						   // selector for the paged navigation (it will be hidden)
+			nextSelector : ".pager-next:last a",    
+						   // selector for the NEXT link (to page 2)
+			itemSelector : "div.unit",  
+						   // selector for all items you'll retrieve
+		  });		  
+
+		  // In The Loop newsletter box
+		  
+		  $("#intheloop_form .form-item-firstname input").click(function(){
+			if ($(this).attr("placeholder") == "first name")
+				$(this).attr("placeholder","");
+		  });
+
+		  $("#intheloop_form .form-item-lastname input").click(function(){
+			if ($(this).attr("placeholder") == "last name")
+				$(this).attr("placeholder","");
+		  });
+		  
+		  $("#intheloop_form .form-item-email input").click(function(){
+			if ($(this).attr("placeholder") == "email address")
+				$(this).attr("placeholder","");
+		  });
+		  
+		  // Videos / Photos infinite scrolls
+		  
+		$('#image-gallery div.content.clearfix, #video div.content.clearfix').infinitescroll({
+
+			navSelector  : ".pager-next:last",            
+						   // selector for the paged navigation (it will be hidden)
+			nextSelector : ".pager-next:last a",    
+						   // selector for the NEXT link (to page 2)
+			itemSelector : "div.unit",
+						   // selector for all items you'll retrieve
+			}, function(){				
+			}
+		);
+		  
+		});
+		</script>
 		<script type="text/javascript" src="http://partner.googleadservices.com/gampad/google_service.js"></script>
 		<script type="text/javascript">
 			GS_googleAddAdSenseService('ca-pub-8746923989318628');
@@ -76,11 +267,20 @@
 	<div id="top">
 		<div class="contain">
 			<div class="left">
-				<p>LOOP 21 <em>The power of being different</em></p>
+				<p>LOOP 21 <em>Embrace success without limits</em></p>
 			</div>
 			<div class="right">
 				<ul class="menu">
-					<li class="facebook expandable first">
+										<li class="site-search first">
+						<a data-tab="sitesearchh" class="user-overlay-search"></a>
+					</li>						
+					<li class="newsletter expandable">
+						Subscribe +
+						<div class="dropdown" style="display:none;">
+							<div class="item first"><a href="#" data-tab="newsletter" class="user-overlay-btn">Are you in the Loop yet?</a></div>
+						</div>
+					</li>
+					<li class="facebook expandable">
 						<a></a>
 						<div class="dropdown">
 							<div class="item first"><a href="https://www.facebook.com/theloop21">Visit us on Facebook</a></div>
@@ -98,9 +298,6 @@
 					<li class="rss">
 						<a href="/rss.xml"></a>
 					</li>
-					<li class="newsletter">
-						<a href="#" data-tab="newsletter" class="user-overlay-btn">Get our newsletter</a>
-					</li>
 											<li class="login last">
 							<a href="#" data-tab="login" class="user-overlay-btn">Log in</a> <em>or</em> <a href="#" data-tab="register" class="user-overlay-btn">Register</a>
 					</li>
@@ -109,60 +306,155 @@
 		</div>
 	</div>
 	<div id="head">
-		<a id="logo" href="/" title="Loop21" class=""><span class="visuallyhidden">Home</span></a>
-		<div class="ad">
-			<script type="text/javascript">
-				GA_googleFillSlot(window.ad_zone+"_728");
-			</script>
+		<a id="logo" href="/" title="Loop21"><span class="visuallyhidden">Home</span></a>
+		<div class="brandednav">
+				
+	
+			<ul class="links">
+						<style type="text/css">					
+					a.menu-27479, ul.links li.menu-27479 a 
+					{
+						background: url("/sites/all/files/menu_icon_1140.png") center no-repeat;
+						height: 69px;
+						width: 80px;
+						float: right;
+						display: inline;
+					}
+					
+					a:hover.menu-27479, ul.links li.menu-27479 a:hover
+					{
+						background: url("/sites/all/files/menu_icon_hover_1140.png") center no-repeat;
+					}
+				</style>
+				<li class="menu-27479"><a href="/enjoy" title="Enjoy" class="menu_icon menu-27479"></a></li>
+		
+						<style type="text/css">					
+					a.menu-27478, ul.links li.menu-27478 a 
+					{
+						background: url("/sites/all/files/menu_icon_1139.png") center no-repeat;
+						height: 69px;
+						width: 80px;
+						float: right;
+						display: inline;
+					}
+					
+					a:hover.menu-27478, ul.links li.menu-27478 a:hover
+					{
+						background: url("/sites/all/files/menu_icon_hover_1139.png") center no-repeat;
+					}
+				</style>
+				<li class="menu-27478"><a href="/change" title="Change" class="menu_icon menu-27478"></a></li>
+		
+						<style type="text/css">					
+					a.menu-27477, ul.links li.menu-27477 a 
+					{
+						background: url("/sites/all/files/menu_icon_1138.png") center no-repeat;
+						height: 69px;
+						width: 80px;
+						float: right;
+						display: inline;
+					}
+					
+					a:hover.menu-27477, ul.links li.menu-27477 a:hover
+					{
+						background: url("/sites/all/files/menu_icon_hover_1138.png") center no-repeat;
+					}
+				</style>
+				<li class="menu-27477"><a href="/influence" title="Influence" class="menu_icon menu-27477"></a></li>
+		
+						<style type="text/css">					
+					a.menu-27474, ul.links li.menu-27474 a 
+					{
+						background: url("/sites/all/files/menu_icon_1137.png") center no-repeat;
+						height: 69px;
+						width: 80px;
+						float: right;
+						display: inline;
+					}
+					
+					a:hover.menu-27474, ul.links li.menu-27474 a:hover
+					{
+						background: url("/sites/all/files/menu_icon_hover_1137.png") center no-repeat;
+					}
+				</style>
+				<li class="menu-27474"><a href="/succeed" title="Succeed" class="menu_icon menu-27474"></a></li>
+		
+						<style type="text/css">					
+					a.menu-27476, ul.links li.menu-27476 a 
+					{
+						background: url("/sites/all/files/menu_icon_1144.png") center no-repeat;
+						height: 69px;
+						width: 80px;
+						float: right;
+						display: inline;
+					}
+					
+					a:hover.menu-27476, ul.links li.menu-27476 a:hover
+					{
+						background: url("/sites/all/files/menu_icon_hover_1144.png") center no-repeat;
+					}
+				</style>
+				<li class="menu-27476"><a href="/start" title="Start" class="menu_icon menu-27476"></a></li>
+		
+						<style type="text/css">					
+					a.menu-27475, ul.links li.menu-27475 a 
+					{
+						background: url("/sites/all/files/menu_icon_1135.png") center no-repeat;
+						height: 69px;
+						width: 80px;
+						float: right;
+						display: inline;
+					}
+					
+					a:hover.menu-27475, ul.links li.menu-27475 a:hover
+					{
+						background: url("/sites/all/files/menu_icon_hover_1135.png") center no-repeat;
+					}
+				</style>
+				<li class="menu-27475"><a href="/newsbrief" title="Wise Up" class="menu_icon menu-27475"></a></li>
+		
+			</ul>
+		
 		</div>
 	</div>
+	
 	<div class="content">
 		<nav class="main-menu clearfix">
-	<ul class="menu"><li class="first leaf"><a href="/channel/politics" title="">Politics</a></li>
-<li class="leaf"><a href="/channel/life" title="">Life</a></li>
-<li class="leaf"><a href="/channel/culture" title="">Culture</a></li>
+	<ul class="menu"><li class="first leaf"><a href="/newsbrief" title="">News</a></li>
+<li class="leaf"><a href="/channel/careers" title="">Careers</a></li>
+<li class="leaf"><a href="/channel/money" title="">Money</a></li>
+<li class="leaf"><a href="/channel/causes" title="">Causes</a></li>
+<li class="leaf"><a href="/channel/health" title="">Health</a></li>
+<li class="leaf"><a href="/channel/relationships" title="">Relationships</a></li>
 <li class="leaf"><a href="/channel/entertainment" title="">Entertainment</a></li>
-<li class="leaf"><a href="/newsbrief" title="">News Briefs</a></li>
-<li class="expanded"><a href="/blogs" title="">Blogs</a><ul class="menu"><li class="first leaf"><a href="/blogs" title="All Blogs">All Blogs</a></li>
-<li class="leaf"><a href="/blogs/you-cant-be-serious">You Can't Be Serious</a></li>
-<li class="leaf"><a href="/blogs/bittersweet">bitterSweet</a></li>
-<li class="leaf"><a href="/blogs/entertain-me">Entertain Me</a></li>
-<li class="leaf"><a href="/blogs/fame-junkie">Fame Junkie</a></li>
-<li class="leaf"><a href="/blogs/my-skin">In My Skin</a></li>
-<li class="leaf"><a href="/blogs/right-radar">Right Radar</a></li>
-<li class="leaf"><a href="/blogs/road-2012">Road to 2012</a></li>
-<li class="leaf"><a href="/blogs/dream-job">Dream Job</a></li>
-<li class="leaf"><a href="/blogs/flick-fix">Flick Fix</a></li>
-<li class="last leaf"><a href="/blogs/mias-meta-moments">Mia's Meta Moments</a></li>
-</ul></li>
+<li class="leaf"><a href="/channel/lifestyle" title="">Lifestyle</a></li>
+<li class="leaf"><a href="/channel/technology" title="">Technology</a></li>
 <li class="leaf"><a href="/video" title="">Video</a></li>
 <li class="last leaf"><a href="/photo" title="">Photo</a></li>
 </ul></nav>
 	<div id="hot-topics" class="clearfix">
-	<h4>Hot Topics</h4>
+	<h4 class="htdefault">HOT TOPICS</h4>
 	<ul>
-					<li><a href="/topics/Women-Entrepreneurs">She Got Her Own</a></li>
-					<li><a href="/topics/loop-21-l21-success-opportunity-lane">L21 Success Lane</a></li>
+					<li><a href="/topics/obamacare">Obamacare</a></li>
+					<li><a href="/loop-latino">Loop Latino </a></li>
+					<li><a href="/topics/halloween">Halloween</a></li>
 					<li><a href="/loop-on-location">Loop on Location</a></li>
-					<li><a href="/topics/technology">Geek Out</a></li>
-					<li><a href="/topics/education">Education</a></li>
-					<li><a href="/topics/black-dating">Black Dating</a></li>
+					<li><a href="/topics/breast-cancer">Breast Cancer</a></li>
+					<li><a href="/topics/loop-21-l21-success-opportunity-lane">L21 Success Lane</a></li>
 			</ul>
 </div>
 
 
-
-	<form action="/privacy" method="post" id="search-block-form" accept-charset="UTF-8"><div><div class="container-inline">
-      <div class="form-item form-type-textfield form-item-search-block-form">
-  <input title="Enter the terms you wish to search for." placeholder="Search Loop21.." type="text" id="edit-search-block-form--2" name="search_block_form" value="" size="15" maxlength="128" class="form-text">
-</div>
-  <div class="form-actions form-wrapper" id="edit-actions"><input class="ajax-processed form-submit" type="image" id="edit-submit" name="submit" src="/sites/all/themes/loop21theme/img/search-btn.png"></div>  <input type="hidden" name="form_build_id" value="form-4CYLmkaMu1erWi4V2HM75mD_APYvrUjRgxn-8KCiBFg">
-<input type="hidden" name="form_id" value="search_block_form">
-</div></div></form>
-
-
 	</div>
+	<a name="gallery"></a>
+	<div class="admove">
+		<script type="text/javascript">
+			GA_googleFillSlot(window.ad_zone+"_728");
+		</script>
+	</div>
+	
 </header>
+
 <section id="template">
 	<div id="main" role="main">
 		<h1 class="page-title">Privacy Policy</h1>
@@ -212,246 +504,23 @@
 
 
 
+
 <div class="clearfix"></div>
 <footer>
 	
-	
-<section id="footer-channels">
-	
-	
-	
-			<div class="content clearfix">
-			
-			<div class="first">
-		
 
-<div class="unit size143x99 entertainment channel-border">
-			<a href="/channel/entertainment" class="channel">entertainment</a>
-	
-	
-	<div class="head">
-						
-								<a href="/entertainment/just-for-her-women-products-top-5-worst-dumbest"><img width="143" height="99" src="http://www.loop21.com/sites/all/files/styles/143x99/public/Screen%20shot%202013-04-05%20at%202.50.30%20PM.png"></a>
-								
-	</div>
-						
-							<div class="copy">
-										<h3><a href="/entertainment/just-for-her-women-products-top-5-worst-dumbest">The Top 5 Most Ridiculous 'Just For Her' Products Ever</a></h3>
-			</div>
-			
-	<div class="info">
-				<div class="data">
-							<p class="source"><a href="/authors/"></a></p>
-										<p class="date"><em>1 day ago</em></p>
-									<p class="small-share-count">
-													<a href="/entertainment/just-for-her-women-products-top-5-worst-dumbest#comments" title="Comments" class="num_comments triangle-right">
-																			<span>0</span>
-						</a>
-						<span title="Social Shares" class="num_likes">
-							<span>10</span>
-						</span>
-					</p>
-				
-					</div>
-				<p class="subheader">							</p>
-			</div>
-	</div>			</div>
-			
-
-<div class="unit size143x99 life channel-border">
-			<a href="/newsbrief/life" class="channel">life</a>
-	
-	
-	<div class="head">
-						
-								<a href="/life/lets-talk-roundup-dos-and-donts-social-media-business"><img width="143" height="99" src="http://www.loop21.com/sites/all/files/styles/143x99/public/7563.Business-Social-Media.png"></a>
-								
-	</div>
-						
-							<div class="copy">
-										<h3><a href="/life/lets-talk-roundup-dos-and-donts-social-media-business">Let's Talk Roundup: The Dos and Don’ts of Social Media for Business</a></h3>
-			</div>
-			
-	<div class="info">
-				<div class="data">
-							<p class="source"><a href="/authors/"></a></p>
-										<p class="date"><em>2 days ago</em></p>
-									<p class="small-share-count">
-													<a href="/life/lets-talk-roundup-dos-and-donts-social-media-business#comments" title="Comments" class="num_comments triangle-right">
-																			<span>0</span>
-						</a>
-						<span title="Social Shares" class="num_likes">
-							<span>0</span>
-						</span>
-					</p>
-				
-					</div>
-				<p class="subheader">							</p>
-			</div>
-	</div>			
-
-<div class="unit size143x99 politics channel-border">
-			<a href="/newsbrief/politics" class="channel">politics</a>
-	
-	
-	<div class="head">
-						
-								<a href="/politics/connecticut-passes-strict-gun-control-measure"><img width="143" height="99" src="http://www.loop21.com/sites/all/files/styles/143x99/public/connecticut-statehouse.jpg"></a>
-								
-	</div>
-						
-							<div class="copy">
-										<h3><a href="/politics/connecticut-passes-strict-gun-control-measure">Progress: Connecticut Passes Strict Gun Control Measure</a></h3>
-			</div>
-			
-	<div class="info">
-				<div class="data">
-							<p class="source"><a href="/authors/"></a></p>
-										<p class="date"><em>2 days ago</em></p>
-									<p class="small-share-count">
-													<a href="/politics/connecticut-passes-strict-gun-control-measure#comments" title="Comments" class="num_comments triangle-right">
-																			<span>0</span>
-						</a>
-						<span title="Social Shares" class="num_likes">
-							<span>8</span>
-						</span>
-					</p>
-				
-					</div>
-				<p class="subheader">							</p>
-			</div>
-	</div>			
-
-<div class="unit size143x99 life channel-border">
-			<a href="/newsbrief/life" class="channel">life</a>
-	
-	
-	<div class="head">
-						
-								<a href="/life/alicia-keys-spreads-her-success-keep-child-alive"><img width="143" height="99" src="http://www.loop21.com/sites/all/files/styles/143x99/public/alicia%20keys%20keep%20a%20child%20alive.jpg"></a>
-								
-	</div>
-						
-							<div class="copy">
-										<h3><a href="/life/alicia-keys-spreads-her-success-keep-child-alive">Alicia Keys Spreads Her Success with Keep a Child Alive</a></h3>
-			</div>
-			
-	<div class="info">
-				<div class="data">
-							<p class="source"><a href="/authors/"></a></p>
-										<p class="date"><em>1 day ago</em></p>
-									<p class="small-share-count">
-													<a href="/life/alicia-keys-spreads-her-success-keep-child-alive#comments" title="Comments" class="num_comments triangle-right">
-																			<span>0</span>
-						</a>
-						<span title="Social Shares" class="num_likes">
-							<span>0</span>
-						</span>
-					</p>
-				
-					</div>
-				<p class="subheader">							</p>
-			</div>
-	</div>			
-
-<div class="unit size143x99 succeed channel-border photo">
-			<a href="/photo/succeed" class="channel">succeed</a>
-	
-	
-	<div class="head">
-						
-								<a href="/succeed/6-free-mobile-apps-help-your-job-search"><img width="143" height="99" src="http://www.loop21.com/sites/all/files/styles/143x99/public/apps.jpg"></a>
-								
-	</div>
-						
-							<div class="copy">
-										<h3><a href="/succeed/6-free-mobile-apps-help-your-job-search">6 Free Mobile Apps to Help Your Job Search</a></h3>
-			</div>
-			
-	<div class="info">
-				<div class="data">
-							<p class="source"><a href="/authors/"></a></p>
-										<p class="date"><em>1 day ago</em></p>
-									<p class="small-share-count">
-													<a href="/succeed/6-free-mobile-apps-help-your-job-search#comments" title="Comments" class="num_comments triangle-right">
-																			<span>0</span>
-						</a>
-						<span title="Social Shares" class="num_likes">
-							<span>71</span>
-						</span>
-					</p>
-				
-					</div>
-				<p class="subheader">							</p>
-			</div>
-	</div>			
-
-<div class="unit size143x99 life channel-border">
-			<a href="/newsbrief/life" class="channel">life</a>
-	
-	
-	<div class="head">
-						
-								<a href="/life/lets-talk-how-turn-your-passion-into-a-profit"><img width="143" height="99" src="http://www.loop21.com/sites/all/files/styles/143x99/public/Turning-Passion-into-Profit.jpg"></a>
-								
-	</div>
-						
-							<div class="copy">
-										<h3><a href="/life/lets-talk-how-turn-your-passion-into-a-profit">Let’s Talk: How to Turn Your Passion into a Profit</a></h3>
-			</div>
-			
-	<div class="info">
-				<div class="data">
-							<p class="source"><a href="/authors/"></a></p>
-										<p class="date"><em>1 day ago</em></p>
-									<p class="small-share-count">
-													<a href="/life/lets-talk-how-turn-your-passion-into-a-profit#comments" title="Comments" class="num_comments triangle-right">
-																			<span>0</span>
-						</a>
-						<span title="Social Shares" class="num_likes">
-							<span>21</span>
-						</span>
-					</p>
-				
-					</div>
-				<p class="subheader">							</p>
-			</div>
-	</div>			</div>
-	
-	
-	
-	
-	
-</section>
-
-
-
-
-
-	<div id="content-partners" class="clearfix"><h3>Content Partners</h3><div class="feed"><h4><a href="http://www.thedailybeast.com/" title="The Daily Beast"><span class="alt">The Daily Beast</span></a></h4><ul><li class="first"><a href="http://feedproxy.google.com/~r/thedailybeast/latest/~3/JHGbBBe4CY0/stephen-antonakos-at-lori-bookstein-is-the-daily-pic-by-blake-gopnik.html" title="Chelsea's Pillow Talk">Chelsea's Pillow Talk</a></li><li><a href="http://feedproxy.google.com/~r/thedailybeast/latest/~3/Cd2MEaKbE5Y/colorado-gov-to-sign-gun-control-law.html" title="Colorado Gov. to Sign Gun Control Law">Colorado Gov. to Sign Gun Control Law</a></li><li><a href="http://feedproxy.google.com/~r/thedailybeast/latest/~3/9si0THZ6OBU/fire-all-the-consultants.html" title="Should the Republican Party Fire All the Consultants?">Should the Republican Party Fire All the Consultants?</a></li><li><a href="http://feedproxy.google.com/~r/thedailybeast/latest/~3/--XR5N5VXnA/colbert-messes-with-tapper.html" title="Colbert Messes With Tapper">Colbert Messes With Tapper</a></li><li><a href="http://feedproxy.google.com/~r/thedailybeast/latest/~3/cesLoFb2SpA/dwight-howard-gangnam-style.html" title="Dwight Howard 'Gangnam Style'">Dwight Howard 'Gangnam Style'</a></li></ul></div><div class="feed"><h4><a href="http://huffingtonpost.com/" title="The Huffington Post"><span class="alt">The Huffington Post</span></a></h4><ul><li class="first"><a href="http://www.huffingtonpost.com/2013/04/06/indonesia-earthquake-magnitude_n_3026706.html" title="Indonesia Earthquake Reported At Magnitude 7.1">Indonesia Earthquake Reported At Magnitude 7.1</a></li><li><a href="http://www.huffingtonpost.com/2013/04/06/molly-crabapple-shell-game-paintings_n_3016474.html" title="Molly Crabapple's 'Shell Game' Paintings Depict A Year In Crisis From Occupy Wall Street To Anonymous Hacks">Molly Crabapple's 'Shell Game' Paintings Depict A Year In Crisis From Occupy Wall Street To Anonymous Hacks</a></li><li><a href="http://www.huffingtonpost.com/2013/04/06/the-week-in-arts-and-culture-roundup_n_3024068.html" title="The Week In Arts&amp;Culture: Instagram Arrest, SNL Art And Delicious Art Snacks (PHOTOS)">The Week In Arts&amp;Culture: Instagram Arrest, SNL Art And Delicious Art Snacks (PHOTOS)</a></li><li><a href="http://www.huffingtonpost.com/2013/04/06/letterscapes-anna-saccani-put-typography-in-the-spotlight_n_2760305.html" title="'LetterScapes' By Anna Saccani Puts Typography In The Spotlight (PHOTOS)">'LetterScapes' By Anna Saccani Puts Typography In The Spotlight (PHOTOS)</a></li><li><a href="http://www.huffingtonpost.com/2013/04/06/indonesia-earthquake-strikes-eastern-part-of-country_n_3026262.html" title="Indonesia Earthquake: Magnitude 7.1 Quake Strikes Eastern Part Of Country">Indonesia Earthquake: Magnitude 7.1 Quake Strikes Eastern Part Of Country</a></li></ul></div><div class="feed"><h4><a href="http://newsone.com/" title="News One"><span class="alt">News One</span></a></h4><ul><li class="first"><a href="http://newsone.com/2359067/trayvon-martin-settlement/" title="Trayvon Martin: Parents Of Slain Teen Reach Settlement With Homeowners Association [VIDEO]">Trayvon Martin: Parents Of Slain Teen Reach Settlement With Homeowners Association [VIDEO]</a></li><li><a href="http://newsone.com/2358255/halle-berry-pregnant/" title="Halle Berry Pregnant With Second Child!">Halle Berry Pregnant With Second Child!</a></li><li><a href="http://newsone.com/2358059/morning-after-pill/" title="Judge Making Morning-After Pill Available To All">Judge Making Morning-After Pill Available To All</a></li><li><a href="http://newsone.com/2357240/lexington-steele-racism-porn/" title="Lexington Steele: Porn Is Only Industry That Practices Racial Exclusion">Lexington Steele: Porn Is Only Industry That Practices Racial Exclusion</a></li><li><a href="http://newsone.com/2357131/censere-mosly-wedermeyer-las-vegas/" title="Family Speaks Out About Grandfather Who Accidentally Ran Over 6-Year-Old Grandchild">Family Speaks Out About Grandfather Who Accidentally Ran Over 6-Year-Old Grandchild</a></li></ul></div><div class="feed"><h4><a href="http://uptownmagazine.com/" title="UPTOWN"><span class="alt">UPTOWN</span></a></h4><ul><li class="first"><a href="http://uptownmagazine.com/2013/04/tyler-perry-talks-fatherhood-on-the-steve-harvey-show/" title="Tyler Perry Talks Fatherhood on The Steve Harvey Show">Tyler Perry Talks Fatherhood on The Steve Harvey Show</a></li><li><a href="http://uptownmagazine.com/2013/04/settlement-reached-with-hoa-in-trayvon-martin-wrongful-death-claim/" title="Settlement Reached With HOA In Trayvon Martin Wrongful-Death Claim">Settlement Reached With HOA In Trayvon Martin Wrongful-Death Claim</a></li><li><a href="http://uptownmagazine.com/2013/04/a-baby-boy-for-halle-berry-olivier-martinez/" title="A Baby Boy For Halle Berry &amp; Olivier Martinez">A Baby Boy For Halle Berry &amp; Olivier Martinez</a></li><li><a href="http://uptownmagazine.com/2013/04/janet-jackson-retiring/" title="Janet Jackson Retiring?">Janet Jackson Retiring?</a></li><li><a href="http://uptownmagazine.com/2013/04/in-hot-water-rick-ross-twitter-apology-not-sufficient/" title="In Hot Water, Rick Ross’ Twitter Apology Not Sufficient">In Hot Water, Rick Ross’ Twitter Apology Not Sufficient</a></li></ul></div><div class="feed"><h4><a href="http://www.essence.com/" title="Essence"><span class="alt">Essence</span></a></h4><ul><li class="first"><a href="http://www.essence.com/2013/04/06/nelson-mandela-released-hospital" title="Nelson Mandela Released From Hospital">Nelson Mandela Released From Hospital</a></li><li><a href="http://www.essence.com/2013/04/06/beyonc%C3%A9-and-michelle-williams-lend-their-voice-kelly-rowland%E2%80%99s-new-album" title="Beyoncé and Michelle Williams Lend Their Voice to Kelly Rowland’s New Album">Beyoncé and Michelle Williams Lend Their Voice to Kelly Rowland’s New Album</a></li><li><a href="http://www.essence.com/2013/04/06/wesley-snipes-released-jail" title="Wesley Snipes Released From Jail">Wesley Snipes Released From Jail</a></li><li><a href="http://www.essence.com/2013/04/05/report-halle-berry-pregnant-second-child" title="Report: Halle Berry Pregnant with Second Child">Report: Halle Berry Pregnant with Second Child</a></li><li><a href="http://www.essence.com/2013/04/05/must-see-oprahs-miss-sofia-meets-tyler-perrys-madea-new-ad-own" title="Must See: Oprah's Miss Sofia Meets Tyler Perry's Madea in New Ad for OWN">Must See: Oprah's Miss Sofia Meets Tyler Perry's Madea in New Ad for OWN</a></li></ul></div></div>
-
-
-<div class="ads">
-	<div class="contain">
-		<div class="ad1">
-			<script type="text/javascript">
-				GA_googleFillSlot(window.ad_zone_footer+"");
-			</script>
-		</div>
-		<a href="/advertise" class="submit-ad">
-			<p>Advertise on Loop21</p>
-		</a>
-	</div>
-</div>
 <div id="footer-nav">
 	<nav role="footer-main" class="clearfix main-menu">
 		<div class="contain">
-			<ul class="menu"><li class="menu-516 first"><a href="/channel/politics" title="">Politics</a></li>
-<li class="menu-517"><a href="/channel/life" title="">Life</a></li>
-<li class="menu-518"><a href="/channel/culture" title="">Culture</a></li>
-<li class="menu-519"><a href="/channel/entertainment" title="">Entertainment</a></li>
-<li class="menu-747"><a href="/newsbrief" title="">News Briefs</a></li>
-<li class="menu-748"><a href="/blogs" title="">Blogs</a></li>
+			<ul class="menu"><li class="menu-747 first"><a href="/newsbrief" title="">News</a></li>
+<li class="menu-1126"><a href="/channel/careers" title="">Careers</a></li>
+<li class="menu-1133"><a href="/channel/money" title="">Money</a></li>
+<li class="menu-1135"><a href="/channel/causes" title="">Causes</a></li>
+<li class="menu-1132"><a href="/channel/health" title="">Health</a></li>
+<li class="menu-1127"><a href="/channel/relationships" title="">Relationships</a></li>
+<li class="menu-1130"><a href="/channel/entertainment" title="">Entertainment</a></li>
+<li class="menu-1131"><a href="/channel/lifestyle" title="">Lifestyle</a></li>
+<li class="menu-1134"><a href="/channel/technology" title="">Technology</a></li>
 <li class="menu-310"><a href="/video" title="">Video</a></li>
 <li class="menu-311 last"><a href="/photo" title="">Photo</a></li>
 </ul>			<a href="#" class="top">Top</a>
@@ -480,28 +549,29 @@
 	</div>
 </footer>
 
-<div id="user-overlay" class="overlay">
 
+<div id="user-overlay" class="overlay">
 	<div class="container">
 
 		<ul class="tabs clearifx">
-			<li><a href="#" data-tab="newsletter">Get newsletter</a></li>
+			<li><a href="#" data-tab="newsletter">Subscribe</a></li>
 							<li class="active"><a href="#" data-tab="login">Login</a></li>
 				<li><a href="#" data-tab="register">Register</a></li>
-					</ul>
+						<li><a href="#" data-tab="sitesearchh">Search</a></li>
+		</ul>
 
 		<button class="close ir">Close</button>
 
 		<div class="content">
 
 			<div id="user-overlay-newsletter" class="section">
-				<p>Signup to receive The Morning Loop, our daily email newsletter.</p>
+				<p><img src="/sites/all/themes/loop21theme/img/sub_happy_woman.png" class="subscribe-callout">Signup to receive The Morning Loop, our daily email newsletter.</p>
 
 				<div class="form clearfix">
 					<div id="newsletter-wrapper"><form action="/privacy" method="post" id="loop21-user-newsletter-form" accept-charset="UTF-8"><div><div class="form-item form-type-textfield form-item-email">
  <input placeholder="Enter your e-mail address" type="text" id="edit-email" name="email" value="" size="60" maxlength="128" class="form-text required">
 </div>
-<input type="submit" id="edit-submit--2" name="op" value="Sign up" class="form-submit"><input type="hidden" name="form_build_id" value="form-Q_Jdqkvh0tMNQjiIuy4SBPG1IiEXlu1bsryn4IKSp_g">
+<input type="submit" id="edit-submit" name="op" value="Sign up" class="form-submit"><input type="hidden" name="form_build_id" value="form-2q2tR1n2MLzEQJXBQOfz_NHu0Jzp9ouIixlMdZ4QQqM">
 <input type="hidden" name="form_id" value="loop21_user_newsletter_form">
 </div></form></div>				</div>
 			</div>
@@ -522,9 +592,9 @@
  <input tabindex="1" type="checkbox" id="edit-remember-me" name="remember_me" value="1" checked="checked" class="form-checkbox">  <label class="option" for="edit-remember-me">Remember me </label>
 
 </div>
-<input type="hidden" name="form_build_id" value="form-3LXZ_vTOIu3EY7TN2_p4jqKSPGHnGu6PDyj0EfLq148">
+<input type="hidden" name="form_build_id" value="form-nnvN_44_1OpAWcQzRIXG7FLMQYMx4lKsqmZKE9ytFWA">
 <input type="hidden" name="form_id" value="user_login">
-<div class="form-actions form-wrapper" id="edit-actions--3"><input tabindex="1" type="submit" id="edit-submit--3" name="op" value="Login" class="form-submit"></div></div></form></div>					</div>
+<div class="form-actions form-wrapper" id="edit-actions--2"><input tabindex="1" type="submit" id="edit-submit--2" name="op" value="Login" class="form-submit"></div></div></form></div>					</div>
 
 					<div class="fb-connect clearfix">
 						<div class="title">or Login with</div>
@@ -540,9 +610,9 @@
   <label for="edit-name--2">Forgot password <span class="form-required" title="This field is required.">*</span></label>
  <input placeholder="E-mail address" type="text" id="edit-name--2" name="name" value="" size="60" maxlength="254" class="form-text required">
 </div>
-<input type="hidden" name="form_build_id" value="form-sLJlYJUMzr7rG8WIt1vXBCTrjAUmqBkmEjRxQT9bZbo">
+<input type="hidden" name="form_build_id" value="form-QBONHUdmKtB_0bV9V3DABWVBjsiaJKmJQ4IX8BfenHc">
 <input type="hidden" name="form_id" value="user_pass">
-<div class="form-actions form-wrapper" id="edit-actions--4"><input type="submit" id="edit-submit--4" name="op" value="Submit" class="form-submit"><input type="submit" id="edit-cancel" name="op" value="Cancel" class="form-cancel"></div></div></form></div>						</div>
+<div class="form-actions form-wrapper" id="edit-actions--3"><input type="submit" id="edit-submit--3" name="op" value="Submit" class="form-submit"><input type="submit" id="edit-cancel" name="op" value="Cancel" class="form-cancel"></div></div></form></div>						</div>
 
 						<div class="fb-connect clearfix">
 							<div class="title">or Login with</div>
@@ -565,9 +635,9 @@
 				<div id="user-overlay-register" class="section">
 
 					<div class="form clearfix">
-						<div id="user-register-form-wrapper"><form class="user-info-from-cookie" enctype="multipart/form-data" action="/privacy" method="post" id="user-register-form" accept-charset="UTF-8"><div><input type="hidden" name="form_build_id" value="form-t_zeMTiGeFcOwMzVS3oCxiTSACSaJXCkb87NBWp0cnY">
+						<div id="user-register-form-wrapper"><form class="user-info-from-cookie" enctype="multipart/form-data" action="/privacy" method="post" id="user-register-form" accept-charset="UTF-8"><div><input type="hidden" name="form_build_id" value="form-KN9AOK8lj95WRqSOyg9YZzDzx87sPjZS-j8r7BXHVLY">
 <input type="hidden" name="form_id" value="user_register_form">
-<div id="edit-account" class="form-wrapper"><input class="username" type="hidden" name="name" value="8PmRAX28cQ">
+<div id="edit-account" class="form-wrapper"><input class="username" type="hidden" name="name" value="e3zfq9g6FQ">
 <div class="form-item form-type-textfield form-item-mail">
   <label for="edit-mail">E-mail <span class="form-required" title="This field is required.">*</span></label>
  <input type="text" id="edit-mail" name="mail" value="" size="60" maxlength="254" class="form-text required">
@@ -583,7 +653,7 @@
 </div>
 
 </div>
-</div><div class="form-actions form-wrapper" id="edit-actions--5"><input type="submit" id="edit-submit--5" name="op" value="Register" class="form-submit"></div></div></form></div>					</div>
+</div><div class="form-actions form-wrapper" id="edit-actions--4"><input type="submit" id="edit-submit--4" name="op" value="Register" class="form-submit"></div></div></form></div>					</div>
 
 					<div class="fb-connect clearfix">
 						<div class="title">or Register with</div>
@@ -592,29 +662,41 @@
 
 				</div>
 
-			
+						
+			<div id="user-overlay-sitesearchh" class="section">
+				<div class="form clearfix">
+					<form action="/privacy" method="post" id="search-block-form" accept-charset="UTF-8"><div><div class="container-inline">
+      <div class="form-item form-type-textfield form-item-search-block-form">
+  <input title="Enter the terms you wish to search for." placeholder="Search Loop21.." type="text" id="edit-search-block-form--2" name="search_block_form" value="" size="15" maxlength="128" class="form-text">
+</div>
+  <div class="form-actions form-wrapper" id="edit-actions--5"><input class="ajax-processed form-submit" type="image" id="edit-submit--5" name="submit" src="/sites/all/themes/loop21theme/img/search-btn.png"></div>  <input type="hidden" name="form_build_id" value="form-xOY_-xnuBd6D1cnOTXU9Cv2rW3cRgwQ-f9tGGFZ-fTI">
+<input type="hidden" name="form_id" value="search_block_form">
+</div></div></form>				</div>
+			</div>			
+
 		</div>
 
 	</div>
 
-</div>		<script type="text/javascript">
+</div>		<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.5.2/jquery.js"></script>
+<script type="text/javascript">
 <!--//--><![CDATA[//><!--
 window.jQuery || document.write("<script src='/sites/all/modules/contrib/jquery_update/replace/jquery/jquery.js'>\x3C/script>")
 //--><!]]>
 </script><script src="/sites/all/modules/contrib/jquery_update/replace/jquery/jquery.js"></script>
 <script type="text/javascript" src="http://www.loop21.com/misc/jquery.once.js?v=1.2"></script>
-<script type="text/javascript" src="http://www.loop21.com/misc/drupal.js?mh1qha"></script>
+<script type="text/javascript" src="http://www.loop21.com/misc/drupal.js?muism8"></script>
 <script type="text/javascript" src="http://www.loop21.com/sites/all/modules/contrib/jquery_update/replace/ui/external/jquery.cookie.js?v=67fb34f6a866c40d0570"></script>
 <script type="text/javascript" src="http://www.loop21.com/sites/all/modules/contrib/jquery_update/replace/misc/jquery.form.js?v=2.67"></script>
 <script type="text/javascript" src="http://www.loop21.com/misc/ajax.js?v=7.14"></script>
-<script type="text/javascript" src="http://www.loop21.com/sites/all/themes/loop21theme/js/libs/jquery.ezmark.min.js?mh1qha"></script>
-<script type="text/javascript" src="http://www.loop21.com/sites/all/themes/loop21theme/js/libs/jquery.sb.min.js?mh1qha"></script>
+<script type="text/javascript" src="http://www.loop21.com/sites/all/themes/loop21theme/js/libs/jquery.ezmark.min.js?muism8"></script>
+<script type="text/javascript" src="http://www.loop21.com/sites/all/themes/loop21theme/js/libs/jquery.sb.min.js?muism8"></script>
 <script type="text/javascript" src="http://www.loop21.com/misc/progress.js?v=7.14"></script>
-<script type="text/javascript" src="http://www.loop21.com/sites/all/modules/contrib/ctools/js/ajax-responder.js?mh1qha"></script>
-<script type="text/javascript" src="http://www.loop21.com/modules/user/user.js?mh1qha"></script>
-<script type="text/javascript" src="http://www.loop21.com/sites/all/themes/loop21theme/js/plugins.js?mh1qha"></script>
-<script type="text/javascript" src="http://www.loop21.com/sites/all/themes/loop21theme/js/script.js?mh1qha"></script>
-<script type="text/javascript" src="http://www.loop21.com/sites/all/modules/custom/lightbox/lightbox.js?mh1qha"></script>
+<script type="text/javascript" src="http://www.loop21.com/sites/all/modules/contrib/ctools/js/ajax-responder.js?muism8"></script>
+<script type="text/javascript" src="http://www.loop21.com/modules/user/user.js?muism8"></script>
+<script type="text/javascript" src="http://www.loop21.com/sites/all/themes/loop21theme/js/plugins.js?muism8"></script>
+<script type="text/javascript" src="http://www.loop21.com/sites/all/themes/loop21theme/js/script.js?muism8"></script>
+<script type="text/javascript" src="http://www.loop21.com/sites/all/modules/custom/lightbox/lightbox.js?muism8"></script>
 <script type="text/javascript">
 <!--//--><![CDATA[//><!--
 Drupal.behaviors.password = function () {};
@@ -622,7 +704,7 @@ Drupal.behaviors.password = function () {};
 </script>
 <script type="text/javascript">
 <!--//--><![CDATA[//><!--
-jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"loop21theme","theme_token":"VnkBQUA4gNBdsXs9l-K8TgwlpLQwOKxWY5F5rwOqk_g","js":{"https:\/\/ajax.googleapis.com\/ajax\/libs\/jquery\/1.5.2\/jquery.js":1}},"ajax":{"edit-submit--2":{"callback":"_loop21_user_newsletter_ajax_callback","wrapper":"newsletter-wrapper","keypress":true,"event":"click","url":"\/system\/ajax","submit":{"_triggering_element_name":"op","_triggering_element_value":"Sign up"}},"edit-submit--3":{"callback":"_loop21_user_user_login_ajax_callback","wrapper":"user-login-wrapper","keypress":true,"event":"click","url":"\/system\/ajax","submit":{"_triggering_element_name":"op","_triggering_element_value":"Login"}},"edit-submit--4":{"callback":"_loop21_user_user_pass_ajax_callback","wrapper":"user-pass-wrapper","keypress":true,"event":"click","url":"\/system\/ajax","submit":{"_triggering_element_name":"op","_triggering_element_value":"Submit"}},"edit-submit--5":{"callback":"_loop21_user_user_register_form_ajax_callback","wrapper":"user-register-form-wrapper","keypress":true,"event":"click","url":"\/system\/ajax","submit":{"_triggering_element_name":"op","_triggering_element_value":"Register"}}},"password":{"strengthTitle":"Password strength:","hasWeaknesses":"To make your password stronger:","tooShort":"Make it at least 6 characters","addLowerCase":"Add lowercase letters","addUpperCase":"Add uppercase letters","addNumbers":"Add numbers","addPunctuation":"Add punctuation","sameAsUsername":"Make it different from your username","confirmSuccess":"yes","confirmFailure":"no","weak":"Weak","fair":"Fair","good":"Good","strong":"Strong","confirmTitle":"Passwords match:","username":""}});
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"loop21theme","theme_token":"Fhqg2XLeWY-Ex_DbPqaP9CuDxe7SHC1rhF9FE3SkJGY","js":[]},"ajax":{"edit-submit":{"callback":"_loop21_user_newsletter_ajax_callback","wrapper":"newsletter-wrapper","keypress":true,"event":"click","url":"\/system\/ajax","submit":{"_triggering_element_name":"op","_triggering_element_value":"Sign up"}},"edit-submit--2":{"callback":"_loop21_user_user_login_ajax_callback","wrapper":"user-login-wrapper","keypress":true,"event":"click","url":"\/system\/ajax","submit":{"_triggering_element_name":"op","_triggering_element_value":"Login"}},"edit-submit--3":{"callback":"_loop21_user_user_pass_ajax_callback","wrapper":"user-pass-wrapper","keypress":true,"event":"click","url":"\/system\/ajax","submit":{"_triggering_element_name":"op","_triggering_element_value":"Submit"}},"edit-submit--4":{"callback":"_loop21_user_user_register_form_ajax_callback","wrapper":"user-register-form-wrapper","keypress":true,"event":"click","url":"\/system\/ajax","submit":{"_triggering_element_name":"op","_triggering_element_value":"Register"}}},"password":{"strengthTitle":"Password strength:","hasWeaknesses":"To make your password stronger:","tooShort":"Make it at least 6 characters","addLowerCase":"Add lowercase letters","addUpperCase":"Add uppercase letters","addNumbers":"Add numbers","addPunctuation":"Add punctuation","sameAsUsername":"Make it different from your username","confirmSuccess":"yes","confirmFailure":"no","weak":"Weak","fair":"Fair","good":"Good","strong":"Strong","confirmTitle":"Passwords match:","username":""}});
 //--><!]]>
 </script>
 		<script>
@@ -706,7 +788,7 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
 
 		FlashHeed.heed();
 		</script>
-	<script type="text/javascript">if(!NREUMQ.f){NREUMQ.f=function(){NREUMQ.push(["load",new Date().getTime()]);var e=document.createElement("script");e.type="text/javascript";e.src=(("http:"===document.location.protocol)?"http:":"https:")+"//"+"d1ros97qkrwjf5.cloudfront.net/42/eum/rum.js";document.body.appendChild(e);if(NREUMQ.a)NREUMQ.a();};NREUMQ.a=window.onload;window.onload=NREUMQ.f;};NREUMQ.push(["nrfj","beacon-3.newrelic.com","bb0c8921f5","1542648","Yl1UYUFVWRJYUkBbDFsXY0daG14PXVRMHBNdSA==",0,17,new Date().getTime(),"","","","",""]);</script>
+	<script type="text/javascript">if(!NREUMQ.f){NREUMQ.f=function(){NREUMQ.push(["load",new Date().getTime()]);var e=document.createElement("script");e.type="text/javascript";e.src=(("http:"===document.location.protocol)?"http:":"https:")+"//"+"js-agent.newrelic.com/nr-100.js";document.body.appendChild(e);if(NREUMQ.a)NREUMQ.a();};NREUMQ.a=window.onload;window.onload=NREUMQ.f;};NREUMQ.push(["nrfj","beacon-6.newrelic.com","bb0c8921f5","1542648","Yl1UYUFVWRJYUkBbDFsXd1ZHXVgPFl9bVgZqSFdSVmtBCFxG",0,351,new Date().getTime(),"","","","",""]);</script>
 
 
-<script type="text/javascript" src="https://d1ros97qkrwjf5.cloudfront.net/42/eum/rum.js"></script><script language="javascript" type="text/javascript" src="https://a248.e.akamai.net/chartbeat.download.akamai.com/102508/js/chartbeat.js"></script></body></html>
+<script type="text/javascript" src="https://js-agent.newrelic.com/nr-100.js"></script><script language="javascript" type="text/javascript" src="https://a248.e.akamai.net/chartbeat.download.akamai.com/102508/js/chartbeat.js"></script></body></html>
