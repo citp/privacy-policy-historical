@@ -1,10 +1,14 @@
-> *The following text is extracted and transformed from the vacationrentalplanners.com privacy policy that was archived on 2013-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130413031140id_/http%3A//www.vacationrentalplanners.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vacationrentalplanners.com privacy policy that was archived on 2013-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131019071048id_/http%3A//www.holidayrentals.com/privacy-policy.php) for the most accurate reproduction.*
 
-# Privacy Policy - Vacation Rental Planners
+# Privacy Policy - HolidayRentals.Com
 
 01\. **Collection of information and it's protection**
 
 We collect information like email addresses or other personal information required for authentication of property owners. This information is either collected through email communication or a direct phone call. This information is strictly used for owner identification and future correspondences only. We do not get involved in any information selling processes. Privacy of the information is our first priority.
+
+**Entire property details, photos and other information is provided by the property owners. HolidayRentals.com is not responsible for any data duplicacy or authenticity as it is owners copyright and their responsibilty.**
+
+We also record IP address of the visitor for statistics and analytics purposes on the listing pages of our website.
 
 02\. **Email Marketing & Messages**
 
