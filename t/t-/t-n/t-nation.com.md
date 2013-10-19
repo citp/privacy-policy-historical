@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the t-nation.com privacy policy that was archived on 2013-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130419202400id_/http%3A//www.t-nation.com/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the t-nation.com privacy policy that was archived on 2013-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131019210605id_/http%3A//www.t-nation.com/privacy.jsp) for the most accurate reproduction.*
 
 # T-Nation
 
