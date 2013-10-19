@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the texastech.edu privacy policy that was archived on 2013-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130618024134id_/http%3A//www.texastech.edu/privacy_statement.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the texastech.edu privacy policy that was archived on 2013-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131019023206id_/http%3A//www.texastech.edu/privacy_statement.php) for the most accurate reproduction.*
 
 # Texas Tech University System :: Privacy Policy
 
