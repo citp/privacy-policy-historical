@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nfltraderumors.co privacy policy that was archived on 2013-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130414180534id_/http%3A//www.nfltraderumors.co/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nfltraderumors.co privacy policy that was archived on 2013-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131019120159id_/https%3A//www.nfltraderumors.co/privacy-policy) for the most accurate reproduction.*
 
 # NFL Trade Rumors - Privacy Policy NFL Trade Rumors - |
 
@@ -75,9 +75,9 @@ www.nfltraderumors.co does use cookies to store information about visitors prefe
 **DoubleClick DART Cookie**  
 .:: Google, as a third party vendor, uses cookies to serve ads on www.nfltraderumors.co.  
 .:: Google’s use of the DART cookie enables it to serve ads to users based on their visit to www.nfltraderumors.co and other sites on the Internet.  
-.:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL - <http://www.google.com/privacy/ads/>
+.:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL - [http://www.google.com/privacy/ads/](https://www.google.com/privacy/ads/)
 
-We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: [http://www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp)
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: [http://www.networkadvertising.org/managing/opt_out.asp](https://www.networkadvertising.org/managing/opt_out.asp)
 
 Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include ….  
 Google Adsense  
