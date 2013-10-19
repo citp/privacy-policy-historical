@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the castingcallpro.com privacy policy that was archived on 2013-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130508052926id_/http%3A//www.castingcallpro.com/uk/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the castingcallpro.com privacy policy that was archived on 2013-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131020003148id_/http%3A//www.castingcallpro.com/uk/privacy.php) for the most accurate reproduction.*
 
 # Casting Call Pro - for acting jobs, agents and auditions.
+
+[](http://www.castingcallpro.com/uk/book.php)
 
 This data protection and privacy notice provides information on how Blue Compass Limited (also referred to in this notice as **"we"** or **"us"** ) uses personal data relating to users of its websites and services (referred to in this notice as **"you"** ). Our websites and services are referred to in this notice as the **"Sites"** and the **"Services"**.
 
