@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the strategy-business.com privacy policy that was archived on 2013-05-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130514002042id_/http%3A//www.strategy-business.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the strategy-business.com privacy policy that was archived on 2013-10-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131019103351id_/http%3A//www.strategy-business.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
 	<title>Privacy Statement</title>
@@ -29,12 +29,26 @@
 	<script language="javascript" src="/media/system/js/shared/AWCShared.js"></script>
 	<script language="javascript" src="http://cdn.gigya.com/js/socialize.js?apiKey=2_Uo4GRNjk7-ujy66CbUt9ZpwuqIg50tKWfbQFLEmo-IZOEijB_Bcy9C_U_nda5DMS"></script>
 	<script language="javascript" src="/media/system/js/modules/core/AWCGlobalNav/AWCGlobalNav.js"></script>
+	<script language="javascript" src="/media/system/js/shared/plugins/ui-1.10/jquery-ui.min.js"></script>
+	<script language="javascript" src="/media/file/jquery.indextank.ize.js"></script>
+	<script language="javascript" src="/media/file/jquery.indextank.autocomplete.js"></script>
 	<script language="javascript" src="/media/system/js/modules/search/AWCSearchBox.js"></script>
 	<script language="javascript" src="http://cdn.gigya.com/js/gigyaGAIntegration.js"></script>
 	<script language="javascript" src="http://partner.googleadservices.com/gampad/google_service.js"></script>
 	<script language="javascript" src="/media/file/sb-interstitial-v3.js"></script>
 	<script language="javascript" type="text/javascript">
-	jQuery(function() { AWCSearchBox.init('#SiteSearch', '', 'searchfieldgrey', 'searchfield'); });
+	jQuery(function($) {
+	  var formEl, indexName, publicApiUrl, inputEl;
+	
+	  AWCSearchBox.init('#SiteSearch', '', 'searchfieldgrey', 'searchfield');
+	
+	  inputEl = $('input#SiteSearch');
+	  publicApiUrl = 'http://dxdse.api.searchify.com';
+	  indexName = 'SBDocs';
+	  formEl = inputEl.closest('form');
+	  formEl.indextank_Ize(publicApiUrl, indexName);
+	  inputEl.indextank_Autocomplete();
+	});
 	document.write('<link rel="shortcut icon" href="/media/image/favicon.ico" />');
 	</script><link rel="shortcut icon" href="/media/image/favicon.ico">
 	<script type="text/javascript">
@@ -49,6 +63,7 @@
 	GA_googleAddSlot("ca-pub-2904603053705277", "StrategyBusiness_ROS_PageTop_728x90");
 	GA_googleAddSlot("ca-pub-2904603053705277", "StrategyBusiness_ROS_SponsorButton_120x60");
 	GA_googleAddSlot("ca-pub-2904603053705277", "StrategyBusiness_ROS_PageRightMiddle_300x250");
+	GA_googleAddSlot("ca-pub-2904603053705277", "StrategyBusiness_ROS_PageRightExtra_300x250");
 	GA_googleAddSlot("ca-pub-2904603053705277", "StrategyBusiness_ROS_PageHeader_80x90");
 	GA_googleAddSlot("ca-pub-2904603053705277", "StrategyBusiness_ROS_FloatingInterstitial");
 	GA_googleAddSlot("ca-pub-2904603053705277", "Test540x480Interstitial");
@@ -84,10 +99,15 @@
 	
 	<link rel="stylesheet" href="/media/css/sb-screen.css" type="text/css" media="all">
 	<link rel="stylesheet" href="/media/css/sb-legacy.css" type="text/css" media="all">
-	<!--[if lte IE 8]><link rel="stylesheet" href="/media/css/sb-ie-screen.css" type="text/css" media="all"/><![endif]-->
+<!--[if lte IE 8]>
+	<link rel="stylesheet" href="/media/css/sb-ie-screen.css" type="text/css" media="all"/>
+<![endif]-->
 	<link rel="stylesheet" href="/media/css/sb-print.css" type="text/css" media="print">
 	<link rel="stylesheet" href="/media/css/sb-logreg.css" type="text/css" media="all">
-	<!--[if lte IE 7]><link rel="stylesheet" href="/media/css/sb-ie67-screen.css" type="text/css" media="screen"/><![endif]-->
+<!--[if lte IE 7]>
+	<link rel="stylesheet" href="/media/css/sb-ie67-screen.css" type="text/css" media="screen"/>
+<![endif]-->
+	<link rel="stylesheet" href="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8.7/themes/flick/jquery-ui.css" type="text/css" media="all">
 	<link rel="stylesheet" href="/media/system/css/modules/core/AWCGlobalNav/awcgn-combined.css" type="text/css" media="all">
 </head>
 <body>
@@ -239,6 +259,7 @@ Start Utility Navigation =====================
 <li><a href="https://ssl.drgnetwork.com/ecom/snb/app/live/promosub?org=SNB&amp;publ=SB&amp;key=NEWWEBC" target="_blank" title="Magazine subscriptions" id="first">Subscribe</a></li>
 <li><a href="http://www.strategy-business.com/" title="strategy+business Home">Home</a></li>
 <li><a href="/current_issue" title="strategy+business Magazine">Magazine</a></li>
+<li><a href="http://www.strategy-business.com/sb-blogs" title="strategy+business Blogs">Blogs</a></li>
 <li><a href="/digital-mobile-products" title="strategy+business digital and mobile products">Digital &amp; Mobile</a></li>
 <li><a href="http://www.strategy-business.com/press/about" title="About strategy+business" id="dropdown">About</a><ul>
 <li><a href="http://www.strategy-business.com/press/about">About&nbsp;strategy+business</a></li>
@@ -277,9 +298,10 @@ Start Utility Navigation =====================
 Start Search Box =============================
 ============================================== -->
 				<div id="sb-searchbox">
-					<!-- AWCDIV:hide:begin:27765551 --><form name="top_search" method="get" action="/search">
-    <label for="search_text">Enter search keywords</label><input type="text" value="" name="q" maxlength="256" class="searchfieldgrey" id="SiteSearch"><label for="submit">Search</label><input border="0" type="image" width="41" height="17" id="submit" name="search_query__submit" title="Search" alt="Search" src="/media/image/sb-t-search_button_bg2.gif"><input type="hidden" name="client" value="sb"><input type="hidden" name="output" value="xml_no_dtd"><input type="hidden" name="proxystylesheet" value="sb"><input type="hidden" name="getfields" value="date.author.title"><input type="hidden" name="site" value="default_collection"><input type="hidden" name="filter" value="0">
-</form><!-- AWCDIV:hide:end:27765551 --></div>
+					<!-- AWCDIV:hide:begin:27765551 --><form action="/search" method="get" name="top_search">
+	<label for="search_text">Enter search keywords</label> <input class="searchfieldgrey" id="SiteSearch" maxlength="256" name="srch__q" type="text" value=""><label for="submit">Search</label> <input alt="Search" border="0" height="17" id="submit" name="search_query__submit" src="/media/image/sb-t-search_button_bg2.gif" title="Search" type="image" width="41"> <input name="srch__sortBy" type="hidden" value="relevance"> </form>
+<br>
+<!-- AWCDIV:hide:end:27765551 --></div>
 				<div class="clearboth">
 					&nbsp;</div>
 			</div>
@@ -382,7 +404,7 @@ Start Column One Indent ======================
 	<h2>
 		<a href="/current_issue">Current s+b Issue</a></h2>
 	<div>
-		<a href="/current_issue"><img src="/media/image/issue70-spring2013-thumb.gif" width="80" height="105" border="0" alt="Current Issue" title="Current Issue"></a></div>
+		<a href="/current_issue"><img src="/media/image/issue72-autumn2013-thumb.gif" width="80" height="105" border="0" alt="Current Issue" title="Current Issue"></a></div>
 	<div style="margin-top:10px;">
 		<a href="https://ssl.drgnetwork.com/ecom/snb/app/live/promosub?org=SNB&amp;publ=SB&amp;key=NEWWEBC" style="background-color: #F15B29; border: medium none; color: #FFFFFF; font-size: 12px; margin-left: 0; padding: 3px 13px;text-decoration:none;font-size:12px;font-weight:bold;font-family:Trebuchet MS,​Arial,​Helvetica,​Verdana,​sans-serif">Subscribe</a></div>
 </div>
@@ -398,10 +420,12 @@ Start Column One Indent ======================
 </ul>
 <p>
 	&nbsp;</p>
-<!-- AWCDIV:hide:end:27765553 --><!-- AWCDIV:hide:begin:30462411 --><div id="google_ads_div_StrategyBusiness_ROS_PageLeftMiddle_120x240_ad_holder"><!-- StrategyBusiness_ROS_PageLeftMiddle_120x240 -->
+<!-- AWCDIV:hide:end:27765553 --><!-- AWCDIV:hide:begin:30462411 --><div id="google_ads_div_StrategyBusiness_ROS_PageLeftMiddle_120x240_ad_holder">
+	<!-- StrategyBusiness_ROS_PageLeftMiddle_120x240 -->
 <script type="text/javascript">
 GA_googleFillSlot("StrategyBusiness_ROS_PageLeftMiddle_120x240");
-</script></div><!-- AWCDIV:hide:end:30462411 --></div>
+</script></div>
+<!-- AWCDIV:hide:end:30462411 --></div>
 			</div>
 			<!-- 
 
@@ -432,10 +456,15 @@ Start Column 2 ===============================
 <p>We reserve the right to change or otherwise update this Privacy Policy at any time. Such changes or updates are effective immediately after we give notice of the change or update, which we may do so by revising the “Last Updated” date of this Privacy Policy or by otherwise posting the changes or updates on the Web Site or by email or conventional mail, and/or by other means that provides reasonable notice. Your use of the Web Site after such notice is posted means that you accept these changes or updates. You agree that strategy+business shall not be liable to you for any damages that might result from any changes to the Privacy Policy.</p>
 <p>If you wish to change your strategy+business account settings, please <a href="http://www.strategy-business.com/registration/settings">click here</a>.</p>
 <p>Last updated December 15, 2011.</p></div>
-				<!-- AWCDIV:hide:begin:30462412 --><div id="google_ads_div_StrategyBusiness_ROS_PageCenterBottom_300x250_ad_holder"><!-- StrategyBusiness_ROS_PageCenterBottom_300x250 -->
+				<!-- AWCDIV:hide:begin:30462412 --><div id="google_ads_div_StrategyBusiness_ROS_PageCenterBottom_300x250_ad_holder">
+	<!-- StrategyBusiness_ROS_PageCenterBottom_300x250 -->
 <script type="text/javascript">
 GA_googleFillSlot("StrategyBusiness_ROS_PageCenterBottom_300x250");
-</script></div><!-- AWCDIV:hide:end:30462412 --><!-- AWCDIV:hide:begin:30462413 --><!-- AWCDIV:hide:end:30462413 --></div>
+</script></div>
+<!-- AWCDIV:hide:end:30462412 --><!-- AWCDIV:hide:begin:30462413 --><div id="google_ads_div_StrategyBusiness_ROS_PageCenterBottom_468x60_ad_holder"><!-- StrategyBusiness_ROS_PageCenterBottom_468x60 -->
+<script type="text/javascript">
+GA_googleFillSlot("StrategyBusiness_ROS_PageCenterBottom_468x60");
+</script></div><!-- AWCDIV:hide:end:30462413 --></div>
 		</div>
 		<!-- 
 
@@ -453,13 +482,15 @@ GA_googleFillSlot("StrategyBusiness_ROS_PageCenterBottom_300x250");
 Column 3 Holder ==============================
 ============================================== -->
 		<div id="sb-column3">
-			<!-- AWCDIV:hide:begin:30462414 --><div id="google_ads_div_StrategyBusiness_ROS_PageRightTop_300x250_ad_holder"><!-- StrategyBusiness_ROS_PageRightTop_300x250 -->
+			<!-- AWCDIV:hide:begin:30462414 --><div id="google_ads_div_StrategyBusiness_ROS_PageRightTop_300x250_ad_holder">
+	<!-- StrategyBusiness_ROS_PageRightTop_300x250 -->
 <script type="text/javascript">
 GA_googleFillSlot("StrategyBusiness_ROS_PageRightTop_300x250");
-</script></div><!-- AWCDIV:hide:end:30462414 --><!-- AWCDIV:hide:begin:30257494 --><div style="font: bold 11px Arial, Helvetica, sans-serif;color: #666;margin-bottom:20px;padding-bottom:20px;border-bottom: 3px double rgb(204, 204, 204)">
+</script></div>
+<!-- AWCDIV:hide:end:30462414 --><!-- AWCDIV:hide:begin:30257494 --><div style="font: bold 11px Arial, Helvetica, sans-serif;color: #666;margin-bottom:20px;padding-bottom:20px;border-bottom: 3px double rgb(204, 204, 204)">
 	<div style="float:left;padding-top:2px;">
 		Follow Us&nbsp;</div>
-	<a href="http://www.facebook.com/strategybusiness" target="_blank"><img src="/media/image/icon-16x16-facebook.gif" width="16" height="16" border="0" align="absmiddle" alt="Facebook" title="Facebook"></a> <a href="http://twitter.com/stratandbiz" target="_blank"><img src="/media/image/icon-16x16-twitter.gif" width="16" height="16" border="0" align="absmiddle" alt="Twitter" title="Twitter"></a> <a href="http://www.linkedin.com/today/strategy-business.com" target="_blank"><img src="/media/image/icon-16x16-linkedin.gif" width="16" height="16" border="0" align="absmiddle" alt="LinkedIn" title="LinkedIn"></a> <a href="https://plus.google.com/u/0/108591822074804046426" target="_blank"><img src="/media/image/icon-16x16-gplus.gif" width="16" height="16" border="0" align="absmiddle" alt="Google Plus" title="Google Plus"></a> <a href="http://www.strategy-business.com/rss" target="_blank"><img src="/media/image/icon-16x16-rss.gif" width="16" height="16" border="0" align="absmiddle" alt="RSS" title="RSS"></a> <a href="http://www.strategy-business.com/digital-mobile-products" target="_blank"><img src="/media/image/imageicon-16x16-digital2.gif" width="12" height="16" border="0" align="absmiddle" alt="strategy+business Digital and Mobile products" title="strategy+business Digital and Mobile products"></a> <a href="http://itunes.apple.com/app/strategy+business-magazine/id499952753?mt=8" target="_blank"><img src="/media/image/icon-16x16-app_store.gif" width="54" height="16" border="0" align="absmiddle" alt="App Store" title="App Store"></a></div>
+	<a href="http://www.facebook.com/strategybusiness" target="_blank"><img src="/media/image/icon-16x16-facebook.gif" width="16" height="16" border="0" align="absmiddle" alt="Facebook" title="Facebook"></a> <a href="http://twitter.com/stratandbiz" target="_blank"><img src="/media/image/icon-16x16-twitter.gif" width="16" height="16" border="0" align="absmiddle" alt="Twitter" title="Twitter"></a> <a href="http://www.linkedin.com/company/strategy-business" target="_blank"><img src="/media/image/icon-16x16-linkedin.gif" width="16" height="16" border="0" align="absmiddle" alt="LinkedIn" title="LinkedIn"></a> <a href="https://plus.google.com/u/0/108591822074804046426" target="_blank"><img src="/media/image/icon-16x16-gplus.gif" width="16" height="16" border="0" align="absmiddle" alt="Google Plus" title="Google Plus"></a> <a href="http://www.youtube.com/strategyandbusiness" target="_blank"><img src="/media/image/Icon-16x16-YouTube.gif" width="16" height="16" border="0" align="absmiddle" alt="YouTube" title="YouTube"></a> <a href="http://www.strategy-business.com/rss" target="_blank"><img src="/media/image/icon-16x16-rss.gif" width="16" height="16" border="0" align="absmiddle" alt="RSS" title="RSS"></a> <a href="http://www.strategy-business.com/digital-mobile-products" target="_blank"><img src="/media/image/imageicon-16x16-digital2.gif" width="12" height="16" border="0" align="absmiddle" alt="strategy+business Digital and Mobile products" title="strategy+business Digital and Mobile products"></a> <a href="http://itunes.apple.com/app/strategy+business-magazine/id499952753?mt=8" target="_blank"><img src="/media/image/icon-16x16-app_store.gif" width="54" height="16" border="0" align="absmiddle" alt="App Store" title="App Store"></a></div>
 <!-- AWCDIV:hide:end:30257494 --><div id="sb-mostcontainer">
 	<ul>
 		<li class="active">
@@ -470,43 +501,45 @@ GA_googleFillSlot("StrategyBusiness_ROS_PageRightTop_300x250");
 			<a href="#" id="MostCommentsLink" onclick="jQuery('#MostRead').hide(); jQuery('#MostShared').hide(); jQuery('#MostComments').show();jQuery('#MostReadLink').parent('li.active').removeClass('active');jQuery('#MostSharedLink').parent('li.active').removeClass('active');jQuery('#MostCommentsLink').parent('li').addClass('active'); ; return false;">Most Comments</a></li>
 	</ul>
 	<ol id="MostRead">
-  <li><span class="number">1.</span><a href="http://www.strategy-business.com/article/00190">The Flat World Debate Revisited</a></li>
-  <li><span class="number">2.</span><a href="http://www.strategy-business.com/article/re00234">The Fiscal Fingerprints of Corpo…</a></li>
-  <li><span class="number">3.</span><a href="http://www.strategy-business.com/article/00192">The Gorilla of Agile Business In…</a></li>
-  <li><span class="number">4.</span><a href="http://www.strategy-business.com/article/ac00048">The Manager as Maker</a></li>
-  <li><span class="number">5.</span><a href="http://www.strategy-business.com/article/00175">Turning the Tables on Success</a></li>
+  <li><span class="number">1.</span><a href="http://www.strategy-business.com/article/00217">Jonah Berger Is Over Twitter</a></li>
+  <li><span class="number">2.</span><a href="http://www.strategy-business.com/blog/Why-Keeping-It-Simple-Can-Be-a-Complicated-Mistake">Why ‟Keeping It Simple” Can Be a…</a></li>
+  <li><span class="number">3.</span><a href="http://www.strategy-business.com/article/00175">Turning the Tables on Success</a></li>
+  <li><span class="number">4.</span><a href="http://www.strategy-business.com/article/00209">An Uncommonly Cohesive Conglomer…</a></li>
+  <li><span class="number">5.</span><a href="http://www.strategy-business.com/blog/Disabling-Your-Organization-One-Piece-of-Advice-at-a-Time">Are You Disabling Your Organizat…</a></li>
   <li><span class="number">6.</span><a href="http://www.strategy-business.com/article/rr00006">10 Principles of Change Manageme…</a></li>
-  <li><span class="number">7.</span><a href="http://www.strategy-business.com/article/00168">Is China the World’s Next Rust B…</a></li>
-  <li><span class="number">8.</span><a href="http://www.strategy-business.com/article/00188">The Agility Factor</a></li>
-  <li><span class="number">9.</span><a href="http://www.strategy-business.com/article/re00235">Boosting Marketing’s Role in New…</a></li>
-  <li><span class="number">10.</span><a href="http://www.strategy-business.com/advertorial/Rosetta-Stone-Language-Means-Business">Language Means Business</a></li>
+  <li><span class="number">7.</span><a href="http://www.strategy-business.com/article/re00253">Why the Steve Jobs Approach Pays…</a></li>
+  <li><span class="number">8.</span><a href="http://www.strategy-business.com/article/00207">Life in the Matrix</a></li>
+  <li><span class="number">9.</span><a href="http://www.strategy-business.com/blog/The-Source-of-Organizational-Dysfunction-Revealed">The Source of Organizational Dys…</a></li>
+  <li><span class="number">10.</span><a href="http://www.strategy-business.com/blog/The-Fast-Changing-Face-of-US-Healthcare-A-Primer">The Fast-Changing Face of U.S. H…</a></li>
 </ol><ol id="MostShared">
-  <li><span class="number">1.</span><a href="http://www.strategy-business.com/article/00190">The Flat World Debate Revisited</a></li>
-  <li><span class="number">2.</span><a href="http://www.strategy-business.com/article/ac00048">The Manager as Maker</a></li>
-  <li><span class="number">3.</span><a href="http://www.strategy-business.com/article/re00234">The Fiscal Fingerprints of Corpo…</a></li>
-  <li><span class="number">4.</span><a href="http://www.strategy-business.com/article/00175">Turning the Tables on Success</a></li>
-  <li><span class="number">5.</span><a href="http://www.strategy-business.com/article/00188">The Agility Factor</a></li>
-  <li><span class="number">6.</span><a href="http://www.strategy-business.com/article/00192">The Gorilla of Agile Business In…</a></li>
-  <li><span class="number">7.</span><a href="http://www.strategy-business.com/article/00191">Can Best Buy Thwart the Grim Rea…</a></li>
-  <li><span class="number">8.</span><a href="http://www.strategy-business.com/article/re00235">Boosting Marketing’s Role in New…</a></li>
-  <li><span class="number">9.</span><a href="http://www.strategy-business.com/article/00173">We’re from Corporate and We’re H…</a></li>
-  <li><span class="number">10.</span><a href="http://www.strategy-business.com/article/ac00047">A Mind-Set for Success</a></li>
+  <li><span class="number">1.</span><a href="http://www.strategy-business.com/article/00217">Jonah Berger Is Over Twitter</a></li>
+  <li><span class="number">2.</span><a href="http://www.strategy-business.com/article/00209">An Uncommonly Cohesive Conglomer…</a></li>
+  <li><span class="number">3.</span><a href="http://www.strategy-business.com/blog/Why-Keeping-It-Simple-Can-Be-a-Complicated-Mistake">Why ‟Keeping It Simple” Can Be a…</a></li>
+  <li><span class="number">4.</span><a href="http://www.strategy-business.com/blog/Disabling-Your-Organization-One-Piece-of-Advice-at-a-Time">Are You Disabling Your Organizat…</a></li>
+  <li><span class="number">5.</span><a href="http://www.strategy-business.com/article/00175">Turning the Tables on Success</a></li>
+  <li><span class="number">6.</span><a href="http://www.strategy-business.com/blog/The-Source-of-Organizational-Dysfunction-Revealed">The Source of Organizational Dys…</a></li>
+  <li><span class="number">7.</span><a href="http://www.strategy-business.com/article/re00253">Why the Steve Jobs Approach Pays…</a></li>
+  <li><span class="number">8.</span><a href="http://www.strategy-business.com/blog/How-Interactive-Media-Can-Scramble-Your-Brain">How Interactive Media Can Scramb…</a></li>
+  <li><span class="number">9.</span><a href="http://www.strategy-business.com/article/00207">Life in the Matrix</a></li>
+  <li><span class="number">10.</span><a href="http://www.strategy-business.com/article/rr00006">10 Principles of Change Manageme…</a></li>
 </ol><ol id="MostComments">
-  <li><span class="number">1.</span><a href="http://www.strategy-business.com/article/00190">The Flat World Debate Revisited</a></li>
-  <li><span class="number">2.</span><a href="http://www.strategy-business.com/article/00175">Turning the Tables on Success</a></li>
-  <li><span class="number">3.</span><a href="http://www.strategy-business.com/article/ac00047">A Mind-Set for Success</a></li>
-  <li><span class="number">4.</span><a href="http://www.strategy-business.com/article/re00234">The Fiscal Fingerprints of Corpo…</a></li>
-  <li><span class="number">5.</span><a href="http://www.strategy-business.com/article/cs00006">How Leaders Mistake Execution fo…</a></li>
-  <li><span class="number">6.</span><a href="http://www.strategy-business.com/article/03406">The Four Bases of Organizational…</a></li>
-  <li><span class="number">7.</span><a href="http://www.strategy-business.com/article/00188">The Agility Factor</a></li>
-  <li><span class="number">8.</span><a href="http://www.strategy-business.com/article/cs00007">The Right Ideas in All the Wrong…</a></li>
-  <li><span class="number">9.</span><a href="http://www.strategy-business.com/article/00157">Product Management Gets Stronger</a></li>
-  <li><span class="number">10.</span><a href="http://www.strategy-business.com/article/00143">What the West Can Learn from Jug…</a></li>
+  <li><span class="number">1.</span><a href="http://www.strategy-business.com/blog/Using-Your-21st-Century-Skills-in-a-19th-Century-World">Using Your 21st-Century Skills i…</a></li>
+  <li><span class="number">2.</span><a href="http://www.strategy-business.com/blog/The-Source-of-Organizational-Dysfunction-Revealed">The Source of Organizational Dys…</a></li>
+  <li><span class="number">3.</span><a href="http://www.strategy-business.com/blog/Stop-Being-Nice-at-Work">Stop Being Nice at Work</a></li>
+  <li><span class="number">4.</span><a href="http://www.strategy-business.com/blog/How-Interactive-Media-Can-Scramble-Your-Brain">How Interactive Media Can Scramb…</a></li>
+  <li><span class="number">5.</span><a href="http://www.strategy-business.com/blog/Disabling-Your-Organization-One-Piece-of-Advice-at-a-Time">Are You Disabling Your Organizat…</a></li>
+  <li><span class="number">6.</span><a href="http://www.strategy-business.com/blog/Why-Keeping-It-Simple-Can-Be-a-Complicated-Mistake">Why ‟Keeping It Simple” Can Be a…</a></li>
+  <li><span class="number">7.</span><a href="http://www.strategy-business.com/article/00217">Jonah Berger Is Over Twitter</a></li>
+  <li><span class="number">8.</span><a href="http://www.strategy-business.com/article/00209">An Uncommonly Cohesive Conglomer…</a></li>
+  <li><span class="number">9.</span><a href="http://www.strategy-business.com/article/00210">The Thought Leader Interview: Lo…</a></li>
+  <li><span class="number">10.</span><a href="http://www.strategy-business.com/article/00206">To an Analog Banker in a Digital…</a></li>
 </ol></div>
-<!-- AWCDIV:hide:begin:30568502 --><div id="google_ads_div_StrategyBusiness_ROS_PageRightMiddle_300x250_ad_holder"><!-- StrategyBusiness_ROS_PageRightMiddle_300x250 -->
+<!-- AWCDIV:hide:begin:30568502 --><div id="google_ads_div_StrategyBusiness_ROS_PageRightMiddle_300x250_ad_holder">
+	<!-- StrategyBusiness_ROS_PageRightMiddle_300x250 -->
 <script type="text/javascript">
 GA_googleFillSlot("StrategyBusiness_ROS_PageRightMiddle_300x250");
-</script></div><!-- AWCDIV:hide:end:30568502 --></div>
+</script></div>
+<!-- AWCDIV:hide:end:30568502 --></div>
 		<div class="clearboth">
 			&nbsp;</div>
 		<!-- 
@@ -606,7 +639,7 @@ Start Footer =================================
 				<a href="http://www.booz.com/">www.booz.com</a></li>
 		</ul>
 		<div id="FooterSocial">
-			<a href="http://www.facebook.com/strategybusiness" target="_blank"><img src="/media/image/icon-16x16-facebook.gif" width="16" height="16" border="0" align="absmiddle" alt="Visit strategy+business on Facebook" title="Visit strategy+business on Facebook"></a><a href="http://twitter.com/stratandbiz" target="_blank"><img src="/media/image/icon-16x16-twitter.gif" width="16" height="16" border="0" align="absmiddle" alt="Visit strategy+business on Twitter" title="Visit strategy+business on Twitter"></a><a href="http://www.linkedin.com/today/strategy-business.com" target="_blank"><img src="/media/image/icon-16x16-linkedin.gif" width="16" height="16" border="0" align="absmiddle" alt="Visit strategy+business on LinkedIn" title="Visit strategy+business on LinkedIn"></a><a href="https://plus.google.com/u/0/108591822074804046426" target="_blank"><img src="/media/image/icon-16x16-gplus.gif" width="16" height="16" border="0" align="absmiddle" alt="Google Plus" title="Google Plus"></a><a href="http://www.strategy-business.com/rss" target="_blank"><img src="/media/image/icon-16x16-rss.gif" width="16" height="16" border="0" align="absmiddle" alt="RSS feeds from strategy+business" title="RSS feeds from strategy+business"></a><a href="http://www.strategy-business.com/digital-mobile-products" target="_blank"><img src="/media/image/imageicon-16x16-digital2.gif" width="12" height="16" border="0" align="absmiddle" alt="strategy+business Digital and Mobile products" title="strategy+business Digital and Mobile products"></a><a href="http://itunes.apple.com/app/strategy+business-magazine/id499952753?mt=8" target="_blank"><img src="/media/image/icon-16x16-app_store.gif" width="54" height="16" border="0" align="absmiddle" alt="strategy+business in the App Store" title="strategy+business in the App Store"></a></div>
+			<a href="http://www.facebook.com/strategybusiness" target="_blank"><img src="/media/image/icon-16x16-facebook.gif" width="16" height="16" border="0" align="absmiddle" alt="Visit strategy+business on Facebook" title="Visit strategy+business on Facebook"></a><a href="http://twitter.com/stratandbiz" target="_blank"><img src="/media/image/icon-16x16-twitter.gif" width="16" height="16" border="0" align="absmiddle" alt="Visit strategy+business on Twitter" title="Visit strategy+business on Twitter"></a><a href="http://www.linkedin.com/company/strategy-business" target="_blank"><img src="/media/image/icon-16x16-linkedin.gif" width="16" height="16" border="0" align="absmiddle" alt="Visit strategy+business on LinkedIn" title="Visit strategy+business on LinkedIn"></a><a href="https://plus.google.com/u/0/108591822074804046426" target="_blank"><img src="/media/image/icon-16x16-gplus.gif" width="16" height="16" border="0" align="absmiddle" alt="Google Plus" title="Google Plus"></a><a href="http://www.strategy-business.com/rss" target="_blank"><img src="/media/image/icon-16x16-rss.gif" width="16" height="16" border="0" align="absmiddle" alt="RSS feeds from strategy+business" title="RSS feeds from strategy+business"></a><a href="http://www.youtube.com/strategyandbusiness" target="_blank"><img src="/media/image/Icon-16x16-YouTube.gif" width="16" height="16" border="0" align="absmiddle" alt="YouTube" title="YouTube"></a><a href="http://www.strategy-business.com/digital-mobile-products" target="_blank"><img src="/media/image/imageicon-16x16-digital2.gif" width="12" height="16" border="0" align="absmiddle" alt="strategy+business Digital and Mobile products" title="strategy+business Digital and Mobile products"></a><a href="http://itunes.apple.com/app/strategy+business-magazine/id499952753?mt=8" target="_blank"><img src="/media/image/icon-16x16-app_store.gif" width="54" height="16" border="0" align="absmiddle" alt="strategy+business in the App Store" title="strategy+business in the App Store"></a></div>
 	</div>
 	<div class="clearboth">
 		&nbsp;</div>
@@ -650,7 +683,11 @@ var s_code=s.t();if(s_code)document.write(s_code)//--></script>
 <script language="JavaScript" type="text/javascript"><!--
 if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')
 //--></script>
-<!-- AWCDIV:hide:begin:30256317 --><!-- AWCDIV:hide:end:30256317 --><!-- AWCDIV:hide:begin:30343234 --><!-- AWCDIV:hide:end:30343234 --><!-- AWCDIV:hide:begin:30462514 --><!-- AWCDIV:hide:end:30462514 --><br><!-- AWCDIV:hide:begin:30654037 --><!-- AWCDIV:hide:end:30654037 --><!-- AWCDIV:hide:begin:30903086 --><div id="google_ads_div_StrategyBusiness_ROS_PageCenterBottom_468x60_ad_holder">
+<!-- AWCDIV:hide:begin:30256317 --><!-- AWCDIV:hide:end:30256317 --><!-- AWCDIV:hide:begin:30343234 --><!-- AWCDIV:hide:end:30343234 --><!-- AWCDIV:hide:begin:30462514 --><!-- AWCDIV:hide:end:30462514 --><script>
+/* frame buster */
+if (top!=self) { top.location.href=self.location.href; }
+</script><br>
+<!-- AWCDIV:hide:begin:30654037 --><!-- AWCDIV:hide:end:30654037 --><!-- AWCDIV:hide:begin:30903086 --><div id="google_ads_div_StrategyBusiness_ROS_PageCenterBottom_468x60_ad_holder">
 	<!-- SmartDeviceHolder -->
 <script type="text/javascript">
 GA_googleFillSlot("SmartDeviceHolder");
