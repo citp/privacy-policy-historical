@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the tickifieds.com privacy policy that was archived on 2013-01-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130118235550id_/http%3A//www.tickifieds.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tickifieds.com privacy policy that was archived on 2013-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131019031204id_/http%3A//www.tickifieds.com/privacy) for the most accurate reproduction.*
 
 # Tickifieds Privacy Policy
 
 Tickifieds is committed to safeguarding your online privacy. The following policy outlines how your personal information will be treated as you use our website.
 
-Tickifieds may update this privacy policy from time to time, in order to take into account new laws and technology or to reflect changes in our operations. All personal information held by Sell Local will be governed by Tickifieds's most recent policy which will be displayed on this site.
+Tickifieds may update this privacy policy from time to time, in order to take into account new laws and technology or to reflect changes in our operations. All personal information held by Tickifieds.com will be governed by Tickifieds's most recent policy which will be displayed on this site.
 
 ## 1\. What personal information do we collect?
 
@@ -55,38 +55,3 @@ Ultimately, you are solely responsible for maintaining the secrecy of your passw
 ## 9\. How to contact Tickifieds
 
 If you have any enquiries or wish to provide feedback about this policy, please email [admin@tickifieds.com](mailto:admin@tickifieds.com).
-
-  
-[](http://www.sb-tickets.com/super-bowl-tickets)
-
-## Popular Events in this Category
-
-| Ad Title | Event Date [](http://www.tickifieds.com/sorting/modify/item_search-showhtmllist-20576/dir/a/attr/col_11)[](http://www.tickifieds.com/sorting/modify/item_search-showhtmllist-20576/dir/d/attr/col_11)  
----|---|---  
-  
-[](http://www.tickifieds.com/nascar_tickets/155249_2013_daytona_500_campbell_box_package)
-
-|  [**2013 Daytona 500 Campbell Box Package**](http://www.tickifieds.com/nascar_tickets/155249_2013_daytona_500_campbell_box_package) |  Sun February 24, 2013   
-Buy discount tickets to the NASCAR Daytona 500 at Daytona International Speedway on. This is a CAMPBELL BOX 2 PACKAGE - PACKAGE INCLUDES CAMPBELL BOX TICKETS FOR DRIVE4COPD 300 & DAYTONA 500!
-
-PRICE ...   
-  
-[](http://www.tickifieds.com/nascar_tickets/154516_discount_2013_daytona_shootout_tickets)
-
-|  [**Discount 2013 Daytona Shootout Tickets**](http://www.tickifieds.com/nascar_tickets/154516_discount_2013_daytona_shootout_tickets) |  Sat February 16, 2013   
-Be there for the 2013 Daytona Shootout!! Buy discount tickets to Daytona Shootout at Daytona International Speedway on 2/16/2013 for your urban event ticket source, MetroSeats.com. The seats are located in ...   
-  
-[](http://www.tickifieds.com/nascar_tickets/155247_monster_truck_winter_nationals_tickets_loveland__co)
-
-|  [**Monster Truck Winter Nationals Tickets Loveland, CO**](http://www.tickifieds.com/nascar_tickets/155247_monster_truck_winter_nationals_tickets_loveland__co) |  Fri January 18, 2013   
-The Monster Truck Winter Nationals are coming to Colorado!! MetroSeats some discount tickets available to see Monster Truck Winter Nationals at Budweiser Events Center on 1/18/2013. We have a total of 6 seats ...   
-  
-[](http://www.tickifieds.com/nascar_tickets/155248_daytona_500_qualifying_tickets)
-
-|  [**Daytona 500 Qualifying Tickets**](http://www.tickifieds.com/nascar_tickets/155248_daytona_500_qualifying_tickets) |  Sun February 17, 2013   
-Be there to see who lands the pole position at the 2013 Daytona 500!! Metroseats.com is selling 9 tickets to NASCAR Daytona Qualifying at Daytona International Speedway on 2/17/2013. The tickets are for seats in ...   
-  
-[](http://www.tickifieds.com/nascar_tickets/160963_nascar_daytona_500_tickets)
-
-|  [**NASCAR Daytona 500 Tickets**](http://www.tickifieds.com/nascar_tickets/160963_nascar_daytona_500_tickets) |  Sun February 24, 2013   
-NASCAR Sprint Cup Series Tickets, Daytona 500 Tickets Daytona International Speedway Daytona Beach Florida Sun, Feb 24 2013, Looking for NASCAR Tickets Stop at 123GetaTicket.com We've Got your ticket, The ... 
