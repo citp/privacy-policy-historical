@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gainesvillesbest.com privacy policy that was archived on 2013-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130611010138id_/http%3A//gainesvillesbest.com/blog/latest/privacy-policy-3.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gainesvillesbest.com privacy policy that was archived on 2013-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131019190655id_/http%3A//gainesvillesbest.com/blog/latest/privacy-policy-3.html) for the most accurate reproduction.*
 
 # Kaspersky Coupon 2013 2014 Get 50 OFF Antivirus Internet Security - Privacy Policy
 
