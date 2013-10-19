@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fbmember.org privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602105358id_/http%3A//fbmember.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fbmember.org privacy policy that was archived on 2013-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131019110523id_/http%3A//fbmember.org/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | FB Membership Revolution
+# 
 
 PRIVACY POLICY
 
