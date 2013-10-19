@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the homewyse.com privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621084015id_/http%3A//www.homewyse.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homewyse.com privacy policy that was archived on 2013-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131019120521id_/http%3A//www.homewyse.com/privacy.html) for the most accurate reproduction.*
 
 # homewyse Privacy Statement
 
