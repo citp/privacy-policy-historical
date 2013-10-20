@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the esomar.org privacy policy that was archived on 2013-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130608045900id_/http%3A//www.esomar.org/index/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the esomar.org privacy policy that was archived on 2013-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131020161245id_/http%3A//www.esomar.org/index/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy - ESOMAR
 
@@ -16,13 +16,13 @@ ESOMAR collects and processes personal data of members and customers. ESOMAR is 
 
 ESOMAR respects the personal data of members and customers and does not sell, rent, loan, trade or otherwise transfer any personal data to any third party unless this is necessary to deliver ESOMAR’s products and services.
 
-ESOMAR does not request personal data from you, other than to process a transaction or application for ESOMAR membership and/or company listing in the ESOMAR Directory, a registration for an ESOMAR event, or an order for an ESOMAR publication, such as the online Directory of members* or for analytical research. If you have authorized ESOMAR to store and/or use credit card details provided by you via www.payment.esomar.org this information will be stored in a PCI DSS-certified e-payment solution (Payment Card Industry Data Security Standard), hosted by a 3rd party. PCI is the global security standard established by the international credit card organizations. The greatest data security and protection from non-payments is guaranteed through encryption of the data.
+ESOMAR does not request personal data from you, other than to process a transaction or application for ESOMAR membership and/or company listing in the ESOMAR Directory, a registration for an ESOMAR event, or an order for an ESOMAR publication, such as the online Directory of ESOMAR Members* or for analytical research. If you have authorized ESOMAR to store and/or use credit card details provided by you via [https://payment.esomar.org](https://payment.esomar.org/) this information will be stored in a PCI DSS-certified e-payment solution (Payment Card Industry Data Security Standard), hosted by a 3rd party. PCI is the global security standard established by the international credit card organizations. The greatest data security and protection from non-payments is guaranteed through encryption of the data.
 
 ESOMAR will also use your personal data to inform you about activities, products and services of ESOMAR and relevant third parties, unless you have notified ESOMAR that you do not to wish to receive such information.
 
 ESOMAR will only share your personal information with a third party if you expressly ask to receive information from them. Credit card details will never be shared with any third party. Please note that to stop receiving information from a third party, you will need to contact them directly.
 
-*Only Members are entitled to access the Directory of Members.
+*Only ESOMAR Members are entitled to access the ESOMAR Directory of Members.
 
 ## The use of e-mail
 
@@ -30,19 +30,19 @@ ESOMAR will only use the e-mail address of member and customers, outside the sco
 
 Receiving information by e-mail, means that you receive the latest information and updates that can have an effect on your day-by-day operation.
 
-If any customer or members’ personal data, or information provided in the ESOMAR Member Directory or the Directory of Research Organisations is incorrect or out-of-date, please contact us in writing (or email with the necessary changes): [customerservice@esomar.org](mailto:customerservice@esomar.org)
+If any customer or members’ personal data, or information provided in the ESOMAR Directory of Members or the Directory of Research Organisations is incorrect or out-of-date, please contact us in writing (or email with the necessary changes): [customerservice@esomar.org](mailto:customerservice@esomar.org)
 
 ## The Directory of ESOMAR Members
 
-The Directory of ESOMAR Members may not be used for mailings, electronic or otherwise for direct marketing purposes. Unsolicited commercial email for sales or promotional purposes is spam and is illegal in many countries. ESOMAR recognises the importance of data privacy regulations and reminds members that they are responsible for any misuse of the Directory within their organisation or by third parties contracted to provide their organisation with services.
+The ESOMAR Directory of Members may not be used for mailings, electronic or otherwise for direct marketing purposes. Unsolicited commercial email for sales or promotional purposes is spam and is illegal in many countries. ESOMAR recognises the importance of data privacy regulations and reminds members that they are responsible for any misuse of the Directory within their organisation or by third parties contracted to provide their organisation with services.
 
-Members should not send unsolicited email to other members unless it is for a specific purpose relating to that member eg to ask for a bid for a project.
+ESOMAR Members should not send unsolicited email to other members unless it is for a specific purpose relating to that member, e.g. to ask for a bid for a project.
 
-ESOMAR reserves the right to withdraw membership services from those who misuse the Directory. ESOMAR reserves also the right of seed-addresses to monitor the use of the Directory in accordance with this policy.
+ESOMAR reserves the right to withdraw membership services from those who misuse the ESOMAR Directory. ESOMAR reserves also the right of seed-addresses to monitor the use of the ESOMAR Directory in accordance with this policy.
 
 ## Links to Other Websites
 
-This privacy policy only applies to www.esomar.org. This privacy policy does not extend to third party websites.
+This privacy policy only applies to [esomar.org](http://www.esomar.org/). This privacy policy does not extend to third party websites.
 
 ## How to opt out?
 
