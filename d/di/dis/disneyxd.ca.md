@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the disneyxd.ca privacy policy that was archived on 2013-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130510155207id_/http%3A//www.disneyxd.ca/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the disneyxd.ca privacy policy that was archived on 2013-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131020165858id_/http%3A//www.disneyxd.ca/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy | Disney XD
 
-[Printer Friendly Version](https://web.archive.org/web/20130510155207id_/http%3A//www.disneyxd.ca/privacy-policy-print.php)
+[Printer Friendly Version](https://web.archive.org/web/20131020165858id_/http%3A//www.disneyxd.ca/privacy-policy-print.php)
 
 ### DisneyXD.ca PRIVACY POLICY
 
