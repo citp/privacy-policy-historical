@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sandia.gov privacy policy that was archived on 2013-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130510183135id_/http%3A//www.sandia.gov/general/privacy-security/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sandia.gov privacy policy that was archived on 2013-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131020072244id_/http%3A//www.sandia.gov/general/privacy-security/index.html) for the most accurate reproduction.*
 
 # Sandia National Laboratories: Privacy and Security
 
