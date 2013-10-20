@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the infiniteskills.com privacy policy that was archived on 2013-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130524150239id_/http%3A//www.infiniteskills.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the infiniteskills.com privacy policy that was archived on 2013-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131020060345id_/http%3A//www.infiniteskills.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Infinite Skills Privacy and Security Policy
 
@@ -35,7 +35,7 @@ If you feel that this site is not following its stated information policy, you m
 
 #### Praise for Infinite Skills
 
-Thank you for the tracking information! I am very impressed with the speed and quality of Infinite Skills' customer service! This is the first time I have placed an order with your company. I ordered a Windows Vista training DVD for my dad on Thanksgiving day. Within 15 minutes of placing the web order I received a phone call from the company stating that a physical address was needed for UPS shipping (instead of a PO Box). I said, "Wow! That was quick!" My dad had mentioned "Video Professor" products for computer training. After reading the fine print for Video Professor products, I chose the Infinite Skills' Windows Vista DVD instead. Thanks again! Rebecca
+Just wanted to let you know how very pleased I am with these training materials. The company that I work for has purchased the same set and they will soon be available to all our designers. I intend to order the [Learning Autodesk Inventor 2013] training material for my Son. You've done a great job with these videos. Thank you. Bill S.
 
 [
 
