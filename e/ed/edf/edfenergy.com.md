@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the edfenergy.com privacy policy that was archived on 2013-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130424205744id_/http%3A//www.edfenergy.com/products-services/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edfenergy.com privacy policy that was archived on 2013-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131020232147id_/http%3A//www.edfenergy.com/products-services/privacy.shtml) for the most accurate reproduction.*
 
 # Privacy Policy for www.edfenergy.com (the “Website”)
 
