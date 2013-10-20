@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the magisto.com privacy policy that was archived on 2013-05-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130528121655id_/http%3A//www.magisto.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the magisto.com privacy policy that was archived on 2013-10-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131020215806id_/http%3A//www.magisto.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" lang="en-us" xml:lang="en-us"><head>
 <title>Magisto | Privacy</title>
@@ -13,13 +13,12 @@
 <link rel="chrome-webstore-item" href="https://chrome.google.com/webstore/detail/ghmngbmfdgknokcefmkbjlcjabdklnlk">
 
 
-
-
 <meta name="description" content="Magisto - Privacy Policy">
 <link rel="canonical" href="http://www.magisto.com/privacy">
 <link rel="shortcut icon" href="http://d1ekrxlws13em5.cloudfront.net/media/images/favicon.ico" type="image/vnd.microsoft.icon">
+<link rel="apple-touch-icon" href="http://d1ekrxlws13em5.cloudfront.net/media/images/apple-touch-icon.png">
 <link rel="icon" href="http://d1ekrxlws13em5.cloudfront.net/media/images/favicon.ico" type="image/x-icon">
-<link rel="stylesheet" href="//d1ekrxlws13em5.cloudfront.net/media/cached/css/55082278e3a2.css" type="text/css">
+<link rel="stylesheet" href="//d1ekrxlws13em5.cloudfront.net/media/cached/css/f9087d7d9d2b.css" type="text/css"><link rel="stylesheet" href="//d1ekrxlws13em5.cloudfront.net/media/cached/css/553e1c79ac8d.css" type="text/css"><link rel="stylesheet" href="//d1ekrxlws13em5.cloudfront.net/media/cached/css/b39337600d8d.css" type="text/css"><link rel="stylesheet" href="//d1ekrxlws13em5.cloudfront.net/media/cached/css/ccce925733c4.css" type="text/css"><link rel="stylesheet" href="//d1ekrxlws13em5.cloudfront.net/media/cached/css/f01053ce5686.css" type="text/css"><link rel="stylesheet" href="//d1ekrxlws13em5.cloudfront.net/media/cached/css/03ec10d6c2f6.css" type="text/css"><link rel="stylesheet" href="//d1ekrxlws13em5.cloudfront.net/media/cached/css/87f54647f206.css" type="text/css">
 
 <style type="text/css">
 h1 {
@@ -58,11 +57,11 @@ h2 {
 	}
 </script>
 
-<script type="text/javascript" src="//d1ekrxlws13em5.cloudfront.net/media/cached/js/d203c3ef6a09.js"></script>
+<script type="text/javascript" src="//d1ekrxlws13em5.cloudfront.net/media/cached/js/add10747e7fc.js"></script>
 
 
 
-<script type="text/javascript" src="//d1ekrxlws13em5.cloudfront.net/media/cached/js/2bed85e6838c.js"></script>
+<script type="text/javascript" src="//d1ekrxlws13em5.cloudfront.net/media/cached/js/a5588c70eff1.js"></script>
 
 
 
@@ -76,12 +75,14 @@ h2 {
 	var _static_url = 'http://d1ekrxlws13em5.cloudfront.net/media/';	
 	var _sightera_server = 'www.magisto.com';		
 	var _protocol = 'http';	
-	var _secure_protocol = 'https';	
+	var _secure_protocol = 'https';
+	var _is_beta_tester = false;
 	var _is_authenticated = false;
 	var _is_mobile = false;
 	var _is_iphone = false;	
 	var _is_ie = false;
 	var _is_ie8 = false;
+	var _is_open_albums = true;
 	_prot_and_server = _protocol + '://' + _sightera_server;
 	
 	var _strings = {
@@ -90,7 +91,8 @@ h2 {
 		'required' : 'is required', 
 		'gerror' : 'General Error, try again later.',
 		'name_popup_comment' : 'What name would you like to add to your comment?',
-		'name_popup_like' : 'What name would you like to add to your like?'
+		'name_popup_like' : 'What name would you like to add to your like?',
+		'name_popup_join' : 'Please fill in your name to join this album'
 	};
 	
 		
@@ -128,85 +130,150 @@ h2 {
 
 
 
-<div id="footer_wrap">
+
+<div id="mobile_back_menu">
+	<div class="user_line">
+		
+		Hello Guest!
+		
+	</div>
+	<div class="menu_items">
+		
+		
+		
+		
+		<ul>
+			
+			<li>
+				<a href="javascript:Login.show_login()" onclick="track_event('Mobile Menu','Login','');"><div>Log in</div></a>
+			</li>
+			
+			<li>
+				<a href="/" onclick="track_event('Mobile Menu','Home','');"><div>Home</div></a>
+			</li>
+			
+			
+			
+			<li>
+				<a href="/featured-videos" onclick="track_event('Mobile Menu','Popular','');"><div>
+					Popular movies
+				</div></a>
+			</li>
+			
+			<li>
+				<a href="/featured-albums" onclick="track_event('Mobile Menu','FeaturedAlbums','');"><div>Featured albums</div></a>
+			</li>
+			
+			<li>
+				<a href="javascript:Login.show_login('/video/mine')" onclick="track_event('Mobile Menu','My Movies','');"><div>My movies</div></a>
+			</li>
+			<li>
+				<a href="/album/mine" onclick="track_event('Mobile Menu','My Albums','');"><div>My albums</div></a>
+			</li>
+			<li>
+				<a href="http://blog.magisto.com" target="_blank" onclick="track_event('Mobile Menu','Blog','');"><div>Blog</div></a>
+			</li>
+			
+		</ul>
+	</div>
+</div>
+
+<div id="ui_container">
+	<div id="footer_wrap">
+	
+
+
+	
+<script type="text/javascript">
+	$(function(){
+		Header.init();
+	});
+</script>
+
+
+<style type="text/css">
+	#page,
+	#main_wrap,
+	.about_cont
+	{padding-top:60px;}
+	
+	#header-gp{margin-top:75px;}
+</style>
+
+
+<div id="main_header" class="noselect trns fixed">
+	
+	
+	<div class="logo_wrapper">
+		<div class="logo">
+			<a href="/" onclick="track_event('Website Header','Logo','');"><img src="/media/images/logo_retina.png" width="100" height="40"></a>
+		</div>	
+	</div>
+	
+	
+	<div class="hdr_desktop">
+		<div class="nav_items">
+			
+			
+			
+			
+			
+			
+			<ul>
+				<li>
+					<a href="/featured-videos" onclick="track_event('Website Header','Popular','');"><div>
+						
+						Popular Movies
+						
+					</div></a>
+				</li>
+				
+				
+				<li>
+					<a href="/featured-albums" onclick="track_event('Website Header','FeaturedAlbums','');"><div>Featured Albums</div></a>
+				</li>
+				
+				
+				<li class="nav_my_movies ">
+					<a href="javascript:Login.show_login('/video/mine')" onclick="track_event('Website Header','My Movies','');"><div>My Movies</div></a>
+				</li>
+				<li>
+					<a href="/album/mine" onclick="track_event('Website Header','My Albums','');"><div>My Albums</div></a>
+				</li>
+				<li class="external">
+					<a href="http://blog.magisto.com" target="_blank" onclick="track_event('Website Header','Blog','');"><div>Blog</div></a>
+					<img class="ext_img" src="/media/images/external_url_arr.png" width="5" height="5">
+				</li>
+			</ul>
+			
+			
+		</div>
+		<div class="user_box">
+			
+			<div class="btn_create_movie">
+				<a class="button button-turquoise txt-shadow" onclick="track_event('Website Header','Create Movie','');" href="/video/upload">Create Movie</a>
+			</div>
+			
+			
+				<div class="top_login_btn">
+					<input type="button" value="Log in">
+				</div>
+			
+		</div>
+	</div>
+	
+	<div class="hdr_mobile">
+		<div class="menu_trigger"><img src="/media/images/icon_mobile_handle.png" width="22" height="16"></div>
+		
+	</div>
+	
+</div>
 
 
 
 	
-
-<div id="header-wrapper">		
-	<div id="header" class="fnt-reg">			
-		<div class="logo-container">
-			<a href="/" onclick="track_event('Website Header','Logo','');"><div class="logo"></div></a>
-		</div>						
-		
-		
-		
-		
-		
-		<div id="header-tab-user-mbl" data-header-menu="header-menu-user-mbl" class="touch"></div>
-		
-
-<div id="header-menu-user-mbl" class="menu">
-	<ul>
-		
-			<li><a href="javascript:Login.show_login()"><span>Log in</span></a></li>
-		
-		<li><a href="/featured-videos" class="fnt-reg"><span>Popular</span></a></li>
-		<li><a href="javascript:Login.show_signup('/video/mine')" class="fnt-reg"><span>My movies</span></a></li>				
-		<li><a href="/album/mine" class="fnt-reg"><span>My albums</span></a></li>					
-
-							
-						
-		
-	</ul>
-</div>
-
-<div id="header-menu-user" class="menu">
-	<ul>
-		<li id="user-info">
-			<div class="user-img user-thumb-large"><img src=""></div>
-			<div class="user-info">
-				<div class="user-title fnt-thick">Hello</div>
-				<div class="user-name fnt-reg"><span class="ellipsis_text"></span></div>
-			</div>					
-			<div style="clear:both"></div>
-		</li>
-						
-		<li><a href="/account/settings" onclick="track_event('Website Header','User Menu','Settings');"><span>Settings</span></a></li>
-		<li class="usermenu_logout"><a href="/logout" onclick="track_event('Website Header','User Menu','Log out');"><span>Log out</span></a></li>
-	</ul>
-</div>	
-
-
-		
-		<div class="tabs">
-		
-			<ul>			
-				<li id="header-tab-popular"><a href="/featured-videos" onclick="track_event('Website Header','Popular','');" class="fnt-reg"><span>POPULAR</span></a></li>
-				<li id="header-tab-my-movies"><a href="javascript:Login.show_signup('/video/mine')" onclick="track_event('Website Header','My Movies','');" class="fnt-reg"><span>MY MOVIES</span></a></li>				
-				<li id="header-tab-my-groups"><a href="/album/mine" onclick="track_event('Website Header','My Groups','');" class="fnt-reg"><span>MY ALBUMS</span></a></li>					
-				<li id="header-tab-upload"><a onclick="track_pageview('/virtual/menu/button/create_movie');track_event('Website Header','Create Movie',''); return true;" href="/video/upload" class="fnt-reg"><span>CREATE MOVIE</span></a></li>
-			</ul>
-		
-		</div>
-		
-		
-		<ul class="right-tabs">
-			<li><a href="javascript:track_event('Website Header','Log in','');Login.show_login();"><span>LOG IN</span></a></li>
-		</ul>
-		
-		
-
-		<div style="clear:both"></div>		
-	</div>
-</div>	
-
-
-
-
-<div id="page">		
-		
+	<div id="page">
+			
 	<div id="content">
 	
 <div class="md">
@@ -509,7 +576,8 @@ changes in advance.</span><p></p>
 	</div>
 	<div id="signup_connect">
 		<div>	  	  
-	  	  <a href="#" id="fb_connect" class="fb"></a>	  	  
+	  	  <a href="#" id="fb_connect" class="fb"></a>
+	  	  <div class="fb_loadingicon"></div>	  	  
 	  	  <!--<a href="#" id="g_connect" class="gplus" style="margin-left:30px;"></a>-->
 	  	  <div id="g_connect" class="g_connect gplus" style="margin-left:30px;">
 	  	  		<div class="icon-notready">
@@ -522,7 +590,7 @@ changes in advance.</span><p></p>
 	</div>
 	<div id="signup_sep" class="top_sep">Or by Email</div>
 	<div id="form_panel">
-		<form id="signup_form" method="post" action="" data-login-action="/login" data-login-ajax="yes" data-signup-action="/account/signup" data-signup-ajax="yes" data-type="login" data-ajax="no" novalidate="">
+		<form autocomplete="off" id="signup_form" method="post" action="" data-login-action="/login" data-login-ajax="yes" data-signup-action="/account/signup" data-signup-ajax="yes" data-type="login" data-ajax="no" novalidate="">
 			
 	        <div class="form_item signup_slide" style="margin:0px;height:64px;">
 	        	<div class="input_err"></div>
@@ -557,7 +625,7 @@ changes in advance.</span><p></p>
 			    				    
 					  				
 				        	
-              	<input type="hidden" name="csrfmiddlewaretoken" value="01ec3e5e0e51e96cc827f90a4dbf47ee">
+              	<input type="hidden" name="csrfmiddlewaretoken" value="bda1909740acf7ca091fec0717087d04">
               	<input type="hidden" name="currerr" id="currerr" value="">
             	<button type="submit" class="hidden_submit">Submit</button>
             </div>
@@ -586,18 +654,19 @@ changes in advance.</span><p></p>
 		
 	
 	
-	
-</div>
 
+	</div>
+	
 <div style="clear:both;"></div>
 <div id="sml_footer">
 	<div id="sml_footer_links">
+		<a href="/how-it-works" onclick="track_event('footer','how-it-works','')">How it works</a>
         <a href="/about" onclick="track_event('footer','about','')">About</a>
 		<a href="/faq" onclick="track_event('footer','faq','')">FAQ</a>
 		<a href="http://developers.magisto.com" onclick="track_event('footer','developer','')">Developers</a>
 	    <a href="#" onclick="track_event('footer','feedback','');return feedback_open()">Feedback</a>
     	<a href="http://magisto.ad-x.co.uk/API/click/MagiST3923DP/5064373496b2b" target="_blank" onclick="track_event('home','appstore','')">iPhone</a>
-		<a href="http://magisto.ad-x.co.uk/API/click/MagiST3923DP/5076bdd425d4e" target="_blank" onclick="track_event('home','playstore','')">Android</a>
+		<a href="https://play.google.com/store/apps/details?id=com.magisto&amp;referrer=utm_source%3Dwebsite%26utm_medium%3Dbadge" target="_blank" onclick="track_event('home','playstore','')">Android</a>
 		<div id="sml_footer_terms">
 			<div style="margin-bottom:5px;">® 2013 SightEra Technologies Ltd.</div>
 			<a href="/privacy" onclick="track_event('footer','privacy','')">Privacy</a>&nbsp;&nbsp;<a href="/tos" onclick="track_event('footer','terms','')">Terms of use</a>
@@ -631,20 +700,17 @@ $(function(){
 			</div>					
 			<div class="modal-box-content">		
 			
-	<style>
-		#up-alert-box .modal-box{width:350px;height:250px;color:#626263;font-size:16px;}
-		#up-alert-box .modal-box-footer{display:none;}
-		#up-alert-box .text .pad{padding:20px;font-size:14px;}
-		#up-alert-box .close{width:100%;text-align:center;position:absolute;bottom:0;}
-		#up-alert-box .close .button{font-size:14px;margin:0 auto;width:150px;height:30px;line-height:30px;}
-	</style>
-	
 	<div class="text">
 		<div class="pad">
 			<span class="up-alert-box-text"></span>
 		</div>
 	</div>
-	<div class="close"><a class="button button-turquoise txt-shadow" href="#" onclick="UP.close_overlay();return false;">Go Back</a></div>
+	<div class="close prem">
+		<a class="button button-turquoise txt-shadow" onclick="track_pageview('/virtual/create/choose-upgrade');$('#up-alert-box .close').hide();$('#up-alert-box .alert-loading').show();" href="javascript:prm_redirect(true);">Go Premium</a>
+		<a class="button button-transparent txt-shadow" href="javascript:UP.close_overlay();">Close</a>
+	</div>
+	<div class="close reg"><a class="button button-turquoise txt-shadow" href="#" onclick="UP.close_overlay();return false;">Close</a></div>
+	<div class="alert-loading"><img src="/media/images/mobile/ajax-loader.gif" style="margin:0 auto;margin-top:10px;"></div>
 	
 			</div>
 			
@@ -661,9 +727,10 @@ $(function(){
 
 
 
+	</div>
 </div>
 
- 
+
 
 
 
@@ -696,6 +763,6 @@ $(function(){
 	
 </script>
 
-<script type="text/javascript">if(!NREUMQ.f){NREUMQ.f=function(){NREUMQ.push(["load",new Date().getTime()]);var e=document.createElement("script");e.type="text/javascript";e.src=(("http:"===document.location.protocol)?"http:":"https:")+"//"+"d1ros97qkrwjf5.cloudfront.net/42/eum/rum.js";document.body.appendChild(e);if(NREUMQ.a)NREUMQ.a();};NREUMQ.a=window.onload;window.onload=NREUMQ.f;};NREUMQ.push(["nrfj","beacon-3.newrelic.com","12ef8c05cc","1184320","MQBaYkNWVkMDVRYPWghKfkNfVExZDVhNFVwBDUxTQ1YWRRZfDhUbEgBVRl1WTFVYUgsUUAURZ0JeaExVD0YOB0ED",0,51,new Date().getTime(),"","","","",""]);</script>
+<script type="text/javascript">if(!NREUMQ.f){NREUMQ.f=function(){NREUMQ.push(["load",new Date().getTime()]);var e=document.createElement("script");e.type="text/javascript";e.src=(("http:"===document.location.protocol)?"http:":"https:")+"//"+"js-agent.newrelic.com/nr-100.js";document.body.appendChild(e);if(NREUMQ.a)NREUMQ.a();};NREUMQ.a=window.onload;window.onload=NREUMQ.f;};NREUMQ.push(["nrfj","beacon-3.newrelic.com","12ef8c05cc","1184320","MQBaYkNWVkMDVRYPWghKfkNfVExZDVhNFVwBDUxTQ1YWRRZfDhUbEgBVRl1WTFVYUgsUUAURZ0JeaExVD0YOB0ED",107,59,new Date().getTime(),"","","","",""]);</script>
 
-<script type="text/javascript" src="https://d1ros97qkrwjf5.cloudfront.net/42/eum/rum.js"></script></body></html>
+<script type="text/javascript" src="https://js-agent.newrelic.com/nr-100.js"></script></body></html>
