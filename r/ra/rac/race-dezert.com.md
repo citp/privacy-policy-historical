@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the race-dezert.com privacy policy that was archived on 2013-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130611012517id_/http%3A//www.race-dezert.com/home/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the race-dezert.com privacy policy that was archived on 2013-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131020195611id_/http%3A//www.race-dezert.com/home/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy » race-deZert.com
+# Privacy Policy : race-deZert.com
 
 Browse > [Home](http://www.race-dezert.com/home "Browse to: Home") / Privacy Policy 
 
