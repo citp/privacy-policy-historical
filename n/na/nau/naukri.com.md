@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the naukri.com privacy policy that was archived on 2013-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130620165618id_/http%3A//jobsearch.naukri.com/mynaukri/mn_privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the naukri.com privacy policy that was archived on 2013-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131021005422id_/http%3A//jobsearch.naukri.com/mynaukri/mn_privacypolicy.php) for the most accurate reproduction.*
 
 # My Naukri
 
