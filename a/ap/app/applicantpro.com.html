@@ -1,28 +1,29 @@
-<!--The following is the downloaded HTML source of the applicantpro.com privacy policy that was archived on 2013-05-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130523140304id_/http%3A//www.applicantpro.com/privacy.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the applicantpro.com privacy policy that was archived on 2013-10-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131020073151id_/http%3A//www.applicantpro.com/privacy.htm) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
-<title>Privacy Policy -  ApplicantPro</title>
-<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<title>ApplicantPro Privacy Policy -  ApplicantPro</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="description" content="ApplicantPro hiring software takes very seriously the privacy of the organizations we serve and their applicants. We have taken many measures to ensure that the personal data is kept safe and secure.">
 <link rel="stylesheet" type="text/css" href="/includes/site.css?ver=1.0">
 <link rel="stylesheet" type="text/css" href="/includes/jquery-ui/jquery-ui-1.10.0.custom.css">
 <link rel="icon" href="/images/16x16fav.png" type="image/png">
-<script id="hs-analytics" src="//js.hubspot.com/analytics/1582532400000/236490.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/includes/jquery-ui/jquery-1.9.0.js"></script>
+<meta name="google-site-verification" content="QjW6PIq8SB5huqzkeAHhuBdOKyArz-0k4yRxuU7vuiY">
+<script type="text/javascript" src="https://s3.amazonaws.com/lr-sitecode/r.ldrk.it/sitecode.js?rnd=566278" id="lrSiteCode"></script><script id="hs-analytics" src="//js.hubspot.com/analytics/1582532400000/236490.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/includes/jquery-ui/jquery-1.9.0.js"></script>
 <script type="text/javascript" src="/includes/validate.min.js"></script>
 <script type="text/javascript" src="/includes/jquery-ui/jquery-ui-1.10.0.custom.min.js"></script>
 <script type="text/javascript" src="/includes/signup_forms.js"></script>
-<script type="text/javascript" src="/includes/slides.min.jquery.js"></script>
+<!--<script type="text/javascript" src="/includes/slides.min.jquery.js"></script>-->
 <script type="text/javascript">
 	jQuery(document).ready(function ($) {
-		$('#home_video').slides({
-			preload: true,
-			preloadImage: '/images/demo.jpg',
-			generatePagination: false,
-			play: 10000,
-			pause: 2500,
-			hoverPause: true,
-		});
+		//$('#home_video').slides({
+			//preload: true,
+			//preloadImage: '/images/demo.jpg',
+			//generatePagination: false,
+			//play: 10000,
+			//pause: 2500,
+			//hoverPause: true,
+		//});
 	
 		// Here are the events for the segments on the home page. On hover, the overlay is to overshadow the segment image.
 		$('.segments').hover(function () {
@@ -36,16 +37,36 @@
 				bottom: 43,
 			});
 		});
+
+		$('.learn_more_button').click(function () {
+			$('#learn_more').dialog({
+				open: function () {
+					$(this).find('iframe').attr('src', 'http://www.youtube-nocookie.com/embed/toBBvkurG-A?rel=0&showinfo=0');
+				},
+				close: function () {
+					$(this).find('iframe').attr('src','');
+				},
+				width: '700',
+				modal: true,
+			});
+		});
 	});
 </script>
+<script type="text/javascript">var switchTo5x=true;</script>
+<script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script>
+<script type="text/javascript">stLight.options({publisher: "46035b3e-60d5-4c73-809e-06221132673f", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>
 </head>
 <body style="zoom: 1;">
 <div id="wrapper">
 	<div id="header">
+		<!-- INC. 5000 badge. Of course, we flippin' rock  -->
+		<a href="http://www.inc.com/profile/applicantpro" id="inc5000_small_badge"><img src="/images/AppPro_inc5000_honors.png" alt="inc5000"></a>
 		<table>
 				<tbody>
 				<tr>
-					<td id="logo_td" rowspan="2"><a href="http://www.applicantpro.com"><img alt="logo" src="/images/logo.png"></a></td>	
+					<td id="logo_td" rowspan="2">
+						<a href="http://www.applicantpro.com"><img alt="logo" src="/images/logo.png"></a>
+					</td>	
 					<td colspan="6" id="orange_buttons">
 						<div class="header_orange_box live_demo">REQUEST LIVE DEMO</div>
 						<div class="divider"></div>
@@ -65,10 +86,13 @@
 			</tbody>
 		</table>
 	</div>
+	
+		
+	
 	<div id="dialog_form" title="How can we help you?" style="display: none">
 		<!-- BEGIN LEAD FORM -->
-		<form name="lead_form" method="post" action="">
-		<input type="hidden" name="source_url" value="">
+		<form name="lead_form" method="post" action="#">
+		<input type="hidden" name="source_url" value="www.applicantpro.com">
 		<input type="hidden" name="keywords" value="">
 		<h4 style="display: inline">How can we help you?</h4>&nbsp;
 		<select name="request_type" id="help_request">
@@ -88,11 +112,12 @@
 					<td>Name:<span>*</span></td>
 					<td><input type="text" name="name"></td>
 				</tr>
-				<!-- 
+				
 				<tr>
-					<td>Company Name:<span>*</span></td>
-					<td><input type="text" name="company_name" /></td>
+					<td>Company/Website:<span>*</span></td>
+					<td><input type="text" name="company_name"></td>
 				</tr>
+				<!-- 
 				<tr>
 					<td>Your Title:<span>*</span></td>
 					<td><input type="text" name="title" /></td>
@@ -190,11 +215,11 @@
 				name: 'name',
 				display: 'Name',
 				rules: 'required'
-			}, // {
-// 				name: 'company_name',
-// 				display: 'Company Name',
-// 				rules: 'required'
-// 			}, {
+			}, {
+ 				name: 'company_name',
+ 				display: 'Company/Website',
+ 				rules: 'required'
+ 			},//{
 // 				name: 'title',
 // 				display: 'Title',
 // 				rules: 'required'
@@ -254,6 +279,10 @@
 			validator.setMessage('required', 'Please fill out the %s field.');
 			validator.setMessage('valid_email', 'Please enter a valid email address.');
 		</script>
+	</div>
+	<!-- BEGIN "LEARN MORE" VIDEO DIALOG BOX -->
+	<div id="learn_more" title="Learn More About ApplicantPro" style="display: none; text-align: center;">
+		<iframe width="640" height="390" allowfullscreen="" style="border: 0px;"></iframe>
 	</div><div id="content">
 	<div id="privacy_main">
 		<h1>Privacy Policy</h1>
@@ -267,7 +296,7 @@
 		</div>
 	</div>
 	<div id="privacy_content">
-		<br>ApplicantPro is committed to privacy of personal information gathered during the application process and stored by the ApplicantPro Applicant Tracking System. It is our policy to respect applicant’s privacy and the privacy of corporate records concerning personal information. If you have any questions regarding our privacy policy, please direct your questions to privacy@ApplicantPro.com. <br><br>  ApplicantPro seeks to follow privacy practices adhering to the Safe Harbor standards.<br><br>  Please be aware that ApplicantPro is not responsible for the privacy and security practices of our employer clients. ApplicantPro is a system to manage and store application data, but the application information that you enter into one of our client’s sites is the property of the client.  If you have questions or concerns about the policies or procedures of a specific employer who is one of our clients, please contact them directly.  The following information pertains to the ApplicantPro system and our processing and storage of application information. It is not enforceable upon our employer clients, as they set their own privacy and security practices as to who has access to your data and how they protect and manage the security and privacy of that data.<br><br> <h2>Collecting Information </h2> Personally Identifiable information is collected in a number of sections throughout the ApplicantPro Application process. Applicants have the choice to enter information by completing an application through one of our client's online applicant tracking system. <br><br>  Applicants are not required to give any personal information during job “searching” stage of the application process. All information requested directly relates to the job “application” process. Applicant data is then stored to allow company managers to use during their hiring process and to allow for future position consideration and placement. ApplicantPro™ does not collect any Social Security numbers during any of its processes to protect the financial identity of its applicants. <br><br> <h2>Choice</h2> All applicants are given an optional choice to provide additional information with regards to EEO Compliance.  This information should not affect the applicants’ ability to be considered or hired for open positions., but it is the responsibility of the client to ensure that this policy is enforced.<br><br>  <h2>Correction/Updating Personal Information</h2> Information can be corrected and updated at any point in the application process by logging into the ApplicantPro Tracking System or by emailing the hiring manager. <br><br>  If an applicant's personally identifiable information changes ApplicantPro provides a way to correct, update, or remove that user's personal information. This can be done by logging into the client's ApplicantPro Applicant Tracking System. <br><br> <h2>Client Privacy Policies </h2> Please be aware that ApplicantPro is not responsible for the privacy and security practices of its clients. ApplicantPRO™ encourages users read the privacy statements of each and every company to which they apply. This privacy statement applies solely to the role ApplicantPro plays in collecting and storing applicant data. <br><br> <h2>Dissemination of Information </h2> ApplicantPro will not sell or otherwise transfer any personally identifying information to a 3rd party except for the specific client where an application is filled out. The ApplicantPro Tracking System allows administrators to contact applicants by e-mail or other electronic means, as well as forwarding applicants application information to other hiring managers in the company for which the applicant has applied. All e-mail generated from ApplicantPRO is integral to the use of the application. However, if you would like to opt-out of e-mail, please see the "Opting-Out" section below. <br><br>  <h2>Opting-Out </h2> If you would like to opt-out of any ApplicantPro Applicant Tracking System e-mailings, please e-mail us at privacy@ApplicantPro.com and put "Opt-out" in the subject heading.  You may also simply leave the email field blank on the application, or enter “do not email me” in the email address field. <br><br>  <h2>Security </h2> Personally identifiable information is stored on a separate server as a security precaution and our site is SSL encrypted. Since, however, no data transmission over the Internet can be guaranteed to be 100% secure, we cannot ensure or warrant the security of any information our users transmit to our Site. <br><br> All applicant information is restricted by administrative login to the ApplicantPro Applicant Tracking System and controlled by the corporate office. Only administrators who have permission are granted access to personally identifiable information. All ApplicantPro employees are kept up-to-date on security and privacy practices. Additionally, the servers that store personally identifiable information on are kept in a secure environment that can only be accessed with a secure login and badge access to the facility. <br><br> The access and use of applicant information by our individual clients’ employees who have an administrative login is controlled and regulated by the individual clients.  It is up to each of our individual clients to manage who has access to the administrative logins and to ensure that their own employees are kept up-to-date on security and privacy practices. <br><br>  For any questions regarding ApplicantPro security or privacy policy, please email us at privacy@ApplicantPro.com or call 888-633-9269. <br><br> 
+		<br>ApplicantPro is committed to privacy of personal information gathered during the application process and stored by the ApplicantPro Applicant Tracking System. It is our policy to respect applicant�s privacy and the privacy of corporate records concerning personal information. If you have any questions regarding our privacy policy, please direct your questions to privacy@ApplicantPro.com. <br><br>  ApplicantPro seeks to follow privacy practices adhering to the Safe Harbor standards.<br><br>  Please be aware that ApplicantPro is not responsible for the privacy and security practices of our employer clients. ApplicantPro is a system to manage and store application data, but the application information that you enter into one of our client�s sites is the property of the client.  If you have questions or concerns about the policies or procedures of a specific employer who is one of our clients, please contact them directly.  The following information pertains to the ApplicantPro system and our processing and storage of application information. It is not enforceable upon our employer clients, as they set their own privacy and security practices as to who has access to your data and how they protect and manage the security and privacy of that data.<br><br> <h2>Collecting Information </h2> Personally Identifiable information is collected in a number of sections throughout the ApplicantPro Application process. Applicants have the choice to enter information by completing an application through one of our client's online applicant tracking system. <br><br>  Applicants are not required to give any personal information during job �searching� stage of the application process. All information requested directly relates to the job �application� process. Applicant data is then stored to allow company managers to use during their hiring process and to allow for future position consideration and placement. ApplicantPro� does not collect any Social Security numbers during any of its processes to protect the financial identity of its applicants. <br><br> <h2>Choice</h2> All applicants are given an optional choice to provide additional information with regards to EEO Compliance.  This information should not affect the applicants� ability to be considered or hired for open positions., but it is the responsibility of the client to ensure that this policy is enforced.<br><br>  <h2>Correction/Updating Personal Information</h2> Information can be corrected and updated at any point in the application process by logging into the ApplicantPro Tracking System or by emailing the hiring manager. <br><br>  If an applicant's personally identifiable information changes ApplicantPro provides a way to correct, update, or remove that user's personal information. This can be done by logging into the client's ApplicantPro Applicant Tracking System. <br><br> <h2>Client Privacy Policies </h2> Please be aware that ApplicantPro is not responsible for the privacy and security practices of its clients. ApplicantPRO� encourages users read the privacy statements of each and every company to which they apply. This privacy statement applies solely to the role ApplicantPro plays in collecting and storing applicant data. <br><br> <h2>Dissemination of Information </h2> ApplicantPro will not sell or otherwise transfer any personally identifying information to a 3rd party except for the specific client where an application is filled out. The ApplicantPro Tracking System allows administrators to contact applicants by e-mail or other electronic means, as well as forwarding applicants application information to other hiring managers in the company for which the applicant has applied. All e-mail generated from ApplicantPRO is integral to the use of the application. However, if you would like to opt-out of e-mail, please see the "Opting-Out" section below. <br><br>  <h2>Opting-Out </h2> If you would like to opt-out of any ApplicantPro Applicant Tracking System e-mailings, please e-mail us at privacy@ApplicantPro.com and put "Opt-out" in the subject heading.  You may also simply leave the email field blank on the application, or enter �do not email me� in the email address field. <br><br>  <h2>Security </h2> Personally identifiable information is stored on a separate server as a security precaution and our site is SSL encrypted. Since, however, no data transmission over the Internet can be guaranteed to be 100% secure, we cannot ensure or warrant the security of any information our users transmit to our Site. <br><br> All applicant information is restricted by administrative login to the ApplicantPro Applicant Tracking System and controlled by the corporate office. Only administrators who have permission are granted access to personally identifiable information. All ApplicantPro employees are kept up-to-date on security and privacy practices. Additionally, the servers that store personally identifiable information on are kept in a secure environment that can only be accessed with a secure login and badge access to the facility. <br><br> The access and use of applicant information by our individual clients� employees who have an administrative login is controlled and regulated by the individual clients.  It is up to each of our individual clients to manage who has access to the administrative logins and to ensure that their own employees are kept up-to-date on security and privacy practices. <br><br>  For any questions regarding ApplicantPro security or privacy policy, please email us at privacy@ApplicantPro.com or call 888-633-9269. <br><br> 
 
 	</div>
 	</div><div id="footer">
@@ -341,16 +370,17 @@
 			<a href="/articles/">Blog</a><br>
 			<!-- <a href="/hr_whitepapers.htm">White Papers</a><br> -->
 			<a href="/webinars/">Free HRCI Webinars</a><br>
-<a href="/">Hiring Software</a><br>
+			<a href="/">Hiring Software</a><br>
+			<a href="/partners.htm">Reseller/Partner</a><br>
 		</div>
 		<div class="container no_margin top_align">
 			<div id="subscribe">
 								<form action="/privacy.htm#success" method="post" name="subscribe_email">
 				<input type="text" name="email_subscribe" id="email_subscribe" placeholder="Enter E-mail">
 				<div id="social_networking">
-					<img alt="linkedin" src="/images/linkedin.png">
-					<img alt="facebook" src="/images/facebook.png">
-					<img alt="twitter" src="/images/twitter.png"><br>
+					<a href="http://www.linkedin.com/in/hiringpro" target="_blank"><img alt="linkedin" src="/images/linkedin.png"></a>
+					<a href="https://www.facebook.com/ApplicantproSoftware" target="_blank"><img alt="facebook" src="/images/facebook.png"></a>
+					<a href="https://twitter.com/ApplicantPRO" target="_blank"><img alt="twitter" src="/images/twitter.png"></a><br>
 					<input type="submit" name="subscribe" class="button" value="SUBSCRIBE">
 					<script type="text/javascript">
 						var field = document.getElementById('email_subscribe');
@@ -367,13 +397,14 @@
 						
 						field.onfocus = function () { this.style.background = '#FFFFFF'; }
 					</script>
-				
-				</div></form>
+				</div>
+				</form>
 			</div>
 			<div id="copyright">
 				©1999-2013 JobMatch, LLC. All rights reserved.<br>
 				<a href="terms.htm">Terms of Service</a> | <a href="privacy.htm">Privacy Policy</a>
 			</div>
+			<a href="http://www.inc.com/profile/applicantpro"><img src="/images/Inc5000seal.png" id="footer-seal"></a>
 		</div>
 	</div> 
 <script type="text/javascript">
@@ -404,5 +435,6 @@
         })(document,"script","hs-analytics",300000);
     </script>
 <!-- End of Async HubSpot Analytics Code -->
+<script type="text/javascript">var rnd=Math.floor(Math.random()*1000000);(function() {var lrs = document.createElement('script'); lrs.type = 'text/javascript'; lrs.async = false;lrs.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 's3.amazonaws.com/lr-sitecode/r.ldrk.it/sitecode.js?rnd='+rnd;lrs.id = "lrSiteCode";var s = document.getElementsByTagName('script')[0];s.parentNode.insertBefore(lrs, s);})();</script>
 
 </body></html>
