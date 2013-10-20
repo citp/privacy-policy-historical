@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the interac.ca privacy policy that was archived on 2013-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130517222903id_/http%3A//www.interac.ca/index.php/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the interac.ca privacy policy that was archived on 2013-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131020215058id_/http%3A//www.interac.ca/index.php/privacy-policy) for the most accurate reproduction.*
 
 # Privacy
 
@@ -26,7 +26,7 @@ We consider your personal information confidential and we do not sell it to othe
 
 ### **Use of 'Cookies'**
 
-We uses cookie technology to track user patterns on our sites and allow the user to remain logged in after rebooting. A cookie is a small text file containing a unique identification number that identifies your browser but not you to our computer each time you visit.  We may also use Internet tags, graphic tags and similar web beacon type functions for the same purpose.  Like cookies, they do not collect your personal information.
+We make use of cookie technology to track user patterns on our sites and allow the user to remain logged in after rebooting. A cookie is a small text file containing a unique identification number that identifies your browser but not you to our computer each time you visit.  We may also use Internet tags, graphic tags and similar web beacon type functions for the same purpose.  Like cookies, they do not collect your personal information.
 
 You will find that most major websites use cookies and most major browsers are set up to accept them. You do not need cookies to visit our sites. However, if you refuse to accept cookies, you may not be able to use some of the features available on our sites.
 
