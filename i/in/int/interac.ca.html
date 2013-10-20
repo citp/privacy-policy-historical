@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the interac.ca privacy policy that was archived on 2013-05-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130517222903id_/http%3A//www.interac.ca/index.php/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the interac.ca privacy policy that was archived on 2013-10-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131020215058id_/http%3A//www.interac.ca/index.php/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-gb" lang="en-gb"><head>
 	<meta http-equiv="X-UA-Compatible" content="IE=9">
@@ -16,7 +16,7 @@
   <link href="http://www.interac.ca/en/component/search/?Itemid=116&amp;format=opensearch" rel="search" title="Search interac.ca" type="application/opensearchdescription+xml">
   <link rel="stylesheet" href="/plugins/content/fshare/fshare.css" type="text/css">
   <link rel="stylesheet" href="/media/mod_languages/css/template.css" type="text/css">
-  <script src="/media/system/js/mootools-core.js" type="text/javascript"></script>
+  <script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-WG3N7G"></script><script src="/media/system/js/mootools-core.js" type="text/javascript"></script>
   <script src="/media/system/js/core.js" type="text/javascript"></script>
   <script src="/media/system/js/caption.js" type="text/javascript"></script>
   <script type="text/javascript">
@@ -41,6 +41,7 @@ window.addEvent('load', function() {
 	<script type="text/javascript" src="/templates/common/js/mustache.js"></script>
 	<script type="text/javascript" src="/templates/common/js/interac-web.js"></script>
 	<script type="text/javascript" src="/templates/common/js/modernizr.custom.24882.js"></script>
+	<script type="text/javascript" src="/templates/common/js/json2.js"></script>
 
 	<!--[if gte IE 9]>
 		<style type="text/css">
@@ -72,16 +73,22 @@ window.addEvent('load', function() {
 	<script type="text/javascript">	
 		$(function() {
 			var assets = {mobile: ["<link rel='stylesheet' href='/templates/common/css/jquery.mobile.structure-1.1.0.css' />",
-								   "<link rel='stylesheet' href='/templates/common/css/jquery.mobile.theme-1.1.0.css' />",
-								   "<link rel='stylesheet' href='/templates/common/css/mobile.css' />",
-								   "<sc" + "ript type='text/javascript' src='/templates/common/js/jquery.mobile-1.1.0.js'></scr" + "ipt>"],
+							"<link rel='stylesheet' href='/templates/common/css/jquery.mobile.theme-1.1.0.css' />",
+							"<link rel='stylesheet' href='/templates/common/css/mobile.css' />",
+							"<sc" + "ript type='text/javascript' src='/templates/common/js/jquery.mobile-1.1.0.js'></scr" + "ipt>"],
 								    
-						  web : ["<link rel='stylesheet' href='/templates/system/css/system.css'/>",
-			               		 "<link rel='stylesheet' href='/templates/system/css/general.css' type='text/css'/>",
-			               		 "<link rel='stylesheet' href='/templates/common/css/template.css' type='text/css' />",
-			               		 "<link rel='stylesheet' href='/templates/common/css/menu.css' type='text/css' />",
-			               		"<link rel='stylesheet' href='/templates/common/css/custom-theme/jquery-ui-1.8.22.custom.css' type='text/css' />",
-			               		 "<sc" + "ript type='text/javascript' src='/templates/common/js/jquery-ui-1.8.22.custom.min.js'></scr" + "ipt>"]};
+					web : ["<link rel='stylesheet' href='/templates/system/css/system.css'/>",
+							"<link rel='stylesheet' href='/templates/system/css/general.css' type='text/css'/>",
+							"<link rel='stylesheet' href='/templates/common/css/custom-theme/jquery-ui-1.8.22.custom.css' type='text/css' />",
+							"<sc" + "ript type='text/javascript' src='/templates/common/js/jquery-ui-1.8.22.custom.min.js'></scr" + "ipt>"],
+					ie6 : [
+							"<link rel='stylesheet' href='/templates/common/css/ie6-ie7.css' type='text/css' />"
+						],
+					
+					nonie6 : [
+							"<link rel='stylesheet' href='/templates/common/css/template.css' type='text/css' />",
+							"<link rel='stylesheet' href='/templates/common/css/menu.css' type='text/css' />"
+						]};
 			                         		 
 			InteracWeb.init(assets, "en-GB");
 			InteracWeb.applyInteracMenuStyling();
@@ -92,7 +99,7 @@ window.addEvent('load', function() {
 			
 			$("nav > ul.menu > li.active.deeper").parent().parent().css('border-bottom', '40px solid #8e6c19');
 			
-			if ($("header > #corporate-nav-container > ul.menu > li.active.deeper").length > 0) {
+			if ($("#corporate-nav-container > ul.menu > li.active.deeper").length > 0) {
 				$("nav").css('margin-top', '30px');
 			}
 			
@@ -132,6 +139,15 @@ window.addEvent('load', function() {
 </head>
 
 <body>
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-WG3N7G"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-WG3N7G');</script>
+<!-- End Google Tag Manager -->
 	<div class="loader" style="display:none;">
 		<div class="loader-image"></div>
 	</div>
@@ -186,21 +202,22 @@ window.addEvent('load', function() {
 				
 				
 				<div class="product-page-dummy-carousel-controller"></div>
-				<div id="corporate-nav-container">
-					<img id="nav-curve" src="/templates/common/images/nav_curve.png" alt="" title="">
-					
-<ul class="menu">
-<li class="item-125 deeper parent"><a href="/en/news/press-releases">Media</a><ul><li class="item-250"><a href="/en/news/press-releases">Press Releases</a></li><li class="item-268"><a href="/en/news/interac-advertising">Advertising</a></li></ul></li><li class="item-126 deeper parent"><a href="/en/security">Security</a><ul><li class="item-130"><a href="/en/security/security">Fraud Prevention</a></li><li class="item-131"><a href="/en/security/what-is-chip">What is Chip?</a></li><li class="item-132"><a href="/en/security/merchant-security">Tools and Resources</a></li><li class="item-269"><a href="/en/security/security-alerts">Alerts and FAQs</a></li></ul></li><li class="item-127"><a href="/en/payments-in-canada">Payments in Canada</a></li><li class="item-128 deeper parent"><a class="research-statistics-menu-link" href="/en/total-transactions">Research and Statistics</a><ul><li class="item-262"><a class="statistics-menu-link" href="/en/total-transactions">Statistics</a></li><li class="item-263"><a href="/en/research-statistics/interac-research">Research</a></li></ul></li><li class="item-129"><a href="/en/careers">Careers</a></li></ul>
-
-				</div>
 			</header>
+
+			<div id="corporate-nav-container">
+				<img id="nav-curve" src="/templates/common/images/nav_curve.png" alt="" title="">
+				
+<ul class="menu">
+<li class="item-125 deeper parent"><a href="/en/news/press-releases">Media</a><ul><li class="item-250"><a href="/en/news/press-releases">Press Releases</a></li><li class="item-268"><a href="/en/news/interac-advertising">Advertising</a></li></ul></li><li class="item-126 deeper parent"><a href="/en/security">Security</a><ul><li class="item-130"><a href="/en/security/security">Fraud Prevention</a></li><li class="item-131"><a href="/en/security/what-is-chip">What is Chip?</a></li><li class="item-132"><a href="/en/security/merchant-security">Tools and Resources</a></li><li class="item-269"><a href="/en/security/security-alerts">Alerts and FAQs</a></li></ul></li><li class="item-127"><a href="/en/payments-in-canada">Payments in Canada</a></li><li class="item-128 deeper parent"><a class="research-statistics-menu-link" href="/en/total-transactions">Research and Statistics</a><ul><li class="item-262"><a class="statistics-menu-link" href="/en/total-transactions">Statistics</a></li><li class="item-263"><a href="/en/research-statistics/interac-research">Research</a></li></ul></li><li class="item-129"><a href="/en/careers">Careers</a></li><li class="item-502"><a href="https://interacposcentre.ca/en/">Merchant POS Centre</a></li></ul>
+
+			</div>
 
 			<nav class="gradient page-width">
 				<div class="main-nav-divider-top"></div>
 				<div class="main-nav-divider-bottom"></div>
 				
 <ul class="menu">
-<li class="item-139"><a href="/en/">HOME</a></li><li class="item-140 deeper parent"><a href="/en/interac-debit">Interac DEBIT</a><ul><li class="item-142"><a href="/en/interac-debit/interac-debit-for-consumers">Interac Debit for Consumers</a></li><li class="item-143"><a href="/en/interac-debit/interac-debit-for-merchants">Interac Debit for Merchants</a></li></ul></li><li class="item-144 deeper parent"><a href="/en/interac-flash">Interac FLASH</a><ul><li class="item-194"><a href="/en/interac-flash/interac-flash-for-consumers">Interac Flash for Consumers</a></li><li class="item-195"><a href="/en/interac-flash/interac-flash-for-merchants">Interac Flash for Merchants</a></li><li class="item-290"><a href="/en/interac-flash/flash-faq">Interac Flash FAQ</a></li></ul></li><li class="item-146 deeper parent"><a href="/en/interac-cash">Interac CASH</a><ul><li class="item-196"><a href="/en/interac-cash/interac-cash-for-consumers">Interac Cash for Consumers</a></li><li class="item-197"><a href="/en/interac-cash/interac-cash-for-merchants">Interac Cash for Merchants</a></li></ul></li><li class="item-198 deeper parent"><a href="/en/interac-etransfer/etransfer-detail">Interac e-TRANSFER</a><ul><li class="item-199"><a href="/en/interac-etransfer/etransfer-detail">Interac e-Transfer</a></li><li class="item-248"><a href="/en/interac-etransfer/invite-tool">Invite Tool</a></li><li class="item-291"><a href="/en/interac-etransfer/etransfer-faq">Interac e-Transfer FAQ</a></li><li class="item-460"><a href="/en/interac-etransfer/etransfer-participating-fis">Participating Financial Institutions</a></li><li class="item-494"><a href="/en/interac-etransfer/wu-money-transfers-via-etransfer">Western Union® money transfers via Interac e-Transfer™</a></li></ul></li><li class="item-147 deeper parent"><a href="/en/interac-online">Interac ONLINE </a><ul><li class="item-203"><a href="/en/interac-online/interac-online-for-consumers">Interac Online for Consumers</a></li><li class="item-204"><a href="/en/interac-online/interac-online-for-merchants">Interac Online for Merchants</a></li><li class="item-222"><a href="/en/interac-online/form">Merchant Guide</a></li><li class="item-294"><a href="/en/interac-online/iop-faq">FAQ</a></li><li class="item-437"><a class="display-none" href="/en/interac-online/download-merchant-form">Download merchant form</a></li><li class="item-478"><a href="/en/interac-online/iop-taxes-eng">Pay your taxes online</a></li></ul></li><li class="item-148"><a href="/en/international-services">INTERNATIONAL Services</a></li><li class="item-149 deeper parent"><a href="/en/interac-about/about-us">ABOUT Us</a><ul><li class="item-179"><a href="/en/interac-about/about-us">About Us</a></li><li class="item-181"><a href="/en/interac-about/member-lists">Membership</a></li><li class="item-183"><a href="/en/interac-about/leadership-team">Our leadership team</a></li><li class="item-184"><a href="/en/interac-about/corporate-citizenship">Corporate Social Responsibility</a></li><li class="item-266"><a href="/en/interac-about/interac-fees">Fees</a></li></ul></li></ul>
+<li class="item-139"><a href="/en/">HOME</a></li><li class="item-140 deeper parent"><a href="/en/interac-debit">Interac DEBIT</a><ul><li class="item-142"><a href="/en/interac-debit/interac-debit-for-consumers">Interac Debit for Consumers</a></li><li class="item-143"><a href="/en/interac-debit/interac-debit-for-merchants">Interac Debit for Merchants</a></li></ul></li><li class="item-144 deeper parent"><a href="/en/interac-flash">Interac FLASH</a><ul><li class="item-194"><a href="/en/interac-flash/interac-flash-for-consumers">Interac Flash for Consumers</a></li><li class="item-195"><a href="/en/interac-flash/interac-flash-for-merchants">Interac Flash for Merchants</a></li><li class="item-290"><a href="/en/interac-flash/flash-faq">Interac Flash FAQ</a></li><li class="item-511"><a href="/en/interac-flash/flash-filist">Participating Financial Institutions</a></li></ul></li><li class="item-146 deeper parent"><a href="/en/interac-cash">Interac CASH</a><ul><li class="item-196"><a href="/en/interac-cash/interac-cash-for-consumers">Interac Cash for Consumers</a></li><li class="item-197"><a href="/en/interac-cash/interac-cash-for-merchants">Interac Cash for Merchants</a></li></ul></li><li class="item-198 deeper parent"><a href="/en/interac-etransfer/etransfer-detail">Interac e-TRANSFER</a><ul><li class="item-199"><a href="/en/interac-etransfer/etransfer-detail">Interac e-Transfer</a></li><li class="item-248"><a href="/en/interac-etransfer/invite-tool">Invite Tool</a></li><li class="item-291"><a href="/en/interac-etransfer/etransfer-faq">Interac e-Transfer FAQ</a></li><li class="item-460"><a href="/en/interac-etransfer/etransfer-participating-fis">Participating Financial Institutions</a></li><li class="item-494"><a href="/en/interac-etransfer/wu-money-transfers-via-etransfer">Western Union® money transfers via Interac e-Transfer™</a></li></ul></li><li class="item-147 deeper parent"><a href="/en/interac-online">Interac ONLINE </a><ul><li class="item-203"><a href="/en/interac-online/interac-online-for-consumers">Interac Online for Consumers</a></li><li class="item-204"><a href="/en/interac-online/interac-online-for-merchants">Interac Online for Merchants</a></li><li class="item-222"><a href="/en/interac-online/form">Merchant Guide</a></li><li class="item-294"><a href="/en/interac-online/iop-faq">FAQ</a></li><li class="item-437"><a class="display-none" href="/en/interac-online/download-merchant-form">Download merchant form</a></li><li class="item-478"><a href="/en/interac-online/iop-taxes-eng">Pay your taxes online</a></li></ul></li><li class="item-148"><a href="/en/international-services">INTERNATIONAL Services</a></li><li class="item-149 deeper parent"><a href="/en/interac-about/about-us">ABOUT Us</a><ul><li class="item-179"><a href="/en/interac-about/about-us">About Us</a></li><li class="item-181"><a href="/en/interac-about/member-lists">Membership</a></li><li class="item-183"><a href="/en/interac-about/leadership-team">Our leadership team</a></li><li class="item-184"><a href="/en/interac-about/corporate-citizenship">Corporate Social Responsibility</a></li><li class="item-266"><a href="/en/interac-about/interac-fees">Fees</a></li></ul></li></ul>
 <style type="text/css">
 /* Custom CSS */
 
@@ -400,7 +417,7 @@ ul.lang-inline {
 <p>If you send us a query, we will collect your personal information to establish your identity and respond to your questions, comments or concerns or take other actions in response to your query.&nbsp; If you advise us that your query relates to a particular Interac Association member or a participant in Acxsys Corporation’s services we may, unless you instruct otherwise, disclose your personal information you provide to us to that organization so that it may respond to you directly. Please do not include any of your banking or other financial information in your communications with us.</p>
 <p>We consider your personal information confidential and we do not sell it to others. If you choose to receive them, we may periodically send you email messages describing updates, new features, or promotional offers related to our sites and services/products. You can choose to stop receiving this email at any time. Simply follow the instructions included in your email, or send a reply stating your request. If you do not explicitly choose to receive informational emails, the only email messages you will receive from us will be to respond to email inquiries that you send us.</p>
 <h3><strong>Use of 'Cookies' </strong></h3>
-<p>We uses cookie technology to track user patterns on our sites and allow the user to remain logged in after rebooting. A cookie is a small text file containing a unique identification number that identifies your browser but not you to our computer each time you visit.&nbsp; We may also use Internet tags, graphic tags and similar web beacon type functions for the same purpose.&nbsp; Like cookies, they do not collect your personal information.</p>
+<p>We make use of cookie technology to track user patterns on our sites and allow the user to remain logged in after rebooting. A cookie is a small text file containing a unique identification number that identifies your browser but not you to our computer each time you visit.&nbsp; We may also use Internet tags, graphic tags and similar web beacon type functions for the same purpose.&nbsp; Like cookies, they do not collect your personal information.</p>
 <p>You will find that most major websites use cookies and most major browsers are set up to accept them. You do not need cookies to visit our sites. However, if you refuse to accept cookies, you may not be able to use some of the features available on our sites.</p>
 <p>We also use Google Analytics for user level tracking and you are subject to their privacy policy, which is located at http://google.com/analytics/learn/privacy.html.</p>
 <h3><strong>Sites Aggregate Data </strong></h3>
@@ -431,11 +448,11 @@ ul.lang-inline {
  <!--
  var prefix = '&#109;a' + 'i&#108;' + '&#116;o';
  var path = 'hr' + 'ef' + '=';
- var addy85246 = 'PRIVACY' + '&#64;';
- addy85246 = addy85246 + 'INTERAC' + '&#46;' + 'CA';
- var addy_text85246 = 'pr&#105;v&#97;cy' + '&#64;' + '&#105;nt&#101;r&#97;c' + '&#46;' + 'c&#97;';
- document.write('<a ' + path + '\'' + prefix + ':' + addy85246 + '\'>');
- document.write(addy_text85246);
+ var addy73465 = 'PRIVACY' + '&#64;';
+ addy73465 = addy73465 + 'INTERAC' + '&#46;' + 'CA';
+ var addy_text73465 = 'pr&#105;v&#97;cy' + '&#64;' + '&#105;nt&#101;r&#97;c' + '&#46;' + 'c&#97;';
+ document.write('<a ' + path + '\'' + prefix + ':' + addy73465 + '\'>');
+ document.write(addy_text73465);
  document.write('<\/a>');
  //-->\n </script><a href="mailto:PRIVACY@INTERAC.CA">privacy@interac.ca</a><script type="text/javascript">
  <!--
@@ -543,14 +560,20 @@ $(function() {
 		}
 	});
 
+	if (InteracWeb.isOldBrowser()) {
+		// DL - This is incredibly dangerous since it assumes this module is always used with a template including InteracWeb JS.
+		$("#modns-submit").click(function() {
+			$("#modns-form").submit();
+		});
+	}
 	$("#modns-submit").hide();
 
 });
 
 </script>
 
-<div><div class="modns"><div id="subscribe-icon"><img src="/images/envelope_icon.png"></div><div id="subscribe-text">Subscribe to our e-newsletter</div><div class="subscribe-button-container"><button id="sign-up-now" style="float: right; width: 115px;">Sign up now</button></div></div></div><style type="text/css"><!--div.modns tr, div.modns td { border: none; padding: 3px; }--></style><div id="subscribe-dialog-modal"><h2>Sign up for <em>Interac</em> news and information</h2><div class="centered">For the latest <em>Interac</em> product news, tips and advice for using our services and information about upcoming promotions, subscribe to our e-newsletter today.</div><div class="modns"><form id="modns-form" action="http://www.interac.ca/en/privacy-policy" method="post">
-<div class="column-50"><div class="modns-mandatory-fields">*All fields are mandatory</div><div id="modns-form-errors"></div><input type="text" placeholder="First Name" name="m_firstName"><input type="text" placeholder="Last Name" name="m_lastName"><input type="text" placeholder="Email Address" name="m_email"></div><div style="display: inline-block"><div style="margin-top: 0.75em;">Email format:</div><input type="radio" id="htmlEmail" name="m_emailType" checked="checked" value="htmlEmail"><label for="htmlEmail">HTML</label><input type="radio" id="textEmail" name="m_emailType" value="textEmail"><label for="textEmail">Text</label></div><div class="bottom"><input type="checkbox" id="disclaimer"><label for="disclaimer">By clicking here you acknowledge that you have read and agree to <em>Interac's</em> <a target="_blank" href="/index.php/privacy-policy">Privacy Policy</a> and would like to receive <em>Interac</em> e-mail newsletters.</label><div><button id="modns-submit">SUBMIT</button></div></div></form></div></div>
+<div class="modns"><table><tbody><tr><td><div id="subscribe-icon"><img src="/images/envelope_icon.png"></div></td><td><div id="subscribe-text">Subscribe to our e-newsletter</div></td><td><div class="subscribe-button-container"><button id="sign-up-now" style="float: right; width: 115px;">Sign up now</button></div></td></tr></tbody></table></div><style type="text/css"><!--div.modns tr, div.modns td { border: none; padding: 3px; }--></style><div id="subscribe-dialog-modal"><h2>Sign up for <em>Interac</em> news and information</h2><div class="centered">For the latest <em>Interac</em> product news, tips and advice for using our services and information about upcoming promotions, subscribe to our e-newsletter today.</div><div class="modns"><form id="modns-form" action="http://www.interac.ca/en/privacy-policy" method="post">
+<div class="modns-input-fields column-50"><div class="modns-mandatory-fields">*All fields are mandatory</div><div id="modns-form-errors"></div><input type="text" placeholder="First Name" name="m_firstName"><input type="text" placeholder="Last Name" name="m_lastName"><input type="text" placeholder="Email Address" name="m_email"></div><div class="modns-html-or-text-select"><div class="modns-html-or-text-title" style="margin-top: 0.75em;">Email format:</div><input type="radio" id="htmlEmail" name="m_emailType" checked="checked" value="htmlEmail"><label for="htmlEmail">HTML</label><input type="radio" id="textEmail" name="m_emailType" value="textEmail"><label for="textEmail">Text</label></div><div class="bottom"><input type="checkbox" id="disclaimer"><label for="disclaimer">By clicking here you acknowledge that you have read and agree to <em>Interac's</em> <a target="_blank" href="/index.php/privacy-policy">Privacy Policy</a> and would like to receive <em>Interac</em> e-mail newsletters.</label><div><button id="modns-submit">SUBMIT</button></div></div></form></div></div>
 <div id="subscribe-thank-you-dialog-modal"><h2>Thanks for subscribing!</h2><div class="centered">The latest news and information from <em>Interac</em> will arrive in your inbox soon!</div></div>		</div>
 	
 				
@@ -584,7 +607,7 @@ $(function() {
 <div class="customfollow-us">
 	<p class="mobile"><a href="https://www.facebook.com/interac" title="Facebook"><img src="/images/btns_mobile_facebook_off.png" border="0" alt="Facebook" title="Facebook" onmouseover="this.src='/images/btns_mobile_facebook_on.png';" onmouseout="this.src='/images/btns_mobile_facebook_off.png';"> </a><a href="http://twitter.com/interac" title="Twitter"><img src="/images/btns_mobile_twitter_off.png" border="0" alt="Twitter" title="Twitter" onmouseover="this.src='/images/btns_mobile_twitter_on.png';" onmouseout="this.src='/images/btns_mobile_twitter_off.png';"></a> <a href="https://youtube.com/interac" title="YouTube"><img src="/images/btns_mobile_youtube_off.png" border="0" alt="Youtube" title="YouTube" onmouseover="this.src='/images/btns_mobile_youtube_on.png';" onmouseout="this.src='/images/btns_mobile_youtube_off.png';"></a></p></div>
 
-				<a class="switch-version" href="#" data-role="none">VIEW_DESKTOP_SITE</a>
+				<a class="switch-version" href="#" data-role="none">View Desktop Site</a>
 				
 <ul class="menu">
 <li class="item-113"><a href="/en/contact-us">Contact Us</a></li><li class="item-114"><a class="web" href="/en/site-map">Site Map</a></li><li class="item-115"><a href="/en/terms-of-use">Terms and Conditions</a></li><li class="item-116 current active"><a href="/en/privacy-policy">Privacy</a></li></ul>
