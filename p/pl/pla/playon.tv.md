@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the playon.tv privacy policy that was archived on 2013-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130505230459id_/https%3A//www.playon.tv/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the playon.tv privacy policy that was archived on 2013-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131021014718id_/https%3A//www.playon.tv/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | PlayOn
 
@@ -16,7 +16,7 @@ MediaMall Technologies (MMT) has created this Privacy Policy to demonstrate our 
 
   * Our blog, forum, newsletter, and trial registration forms require you to give us certain information such as your name, email address and password. You may always choose not to provide such Personally Identifiable Information; however, this may limit our ability to provide you with a specific service or particular content. At any time, you may choose to opt-out of the receipt of any promotional communications by clicking on the opt-out link provided at the bottom of each e-mail and following the instructions.
   * You may also enter usernames and passwords for use to access your accounts on other services via PlayOn and PlayLater (Hulu, Netflix, and YouTube, as examples).
-  * If you place an order for one of our products, you may be required to enter your credit card number and information, as well as your address and/or other contact information. Our credit card transaction data is processed and stored by PayPal and TrialPay — please see the section on security for more information.
+  * If you place an order for one of our products, you may be required to enter your credit card number and information, as well as your address and/or other contact information.Our credit card transaction data is processed and stored by PayPal, TrialPay and Litle — please see the section on security for more information.
 
 
 
@@ -26,7 +26,7 @@ MediaMall Technologies wants to optimize your experience by ensuring that the mo
 
 #### Pixel Tags: 
 
-MMT uses pixel tags to gather information about the emails we send to our users. Pixel tags are tiny graphic files, not visible to the human eye, that are included in our HTML-encoded email messages. When such a message is opened in an HTML-capable email program, the recipient's computer will access our email provider’s server to retrieve the pixel tag file, allowing us to record and store, along with your email address, the date and time the recipient viewed the message, and other standard logging information. The pixel tag also may see or read cookies. For more information about cookies and how to disable their use, see the section below on "Use of Cookies."
+MMT uses pixel tags to gather information about the emails we send to our users. Pixel tags are tiny graphic files, not visible to the human eye, that are included in our HTML-encoded email messages. When such a message is opened in an HTML-capable email program, the recipient's computer will access our email provider's server to retrieve the pixel tag file, allowing us to record and store, along with your email address, the date and time the recipient viewed the message, and other standard logging information. The pixel tag also may see or read cookies. For more information about cookies and how to disable their use, see the section below on "Use of Cookies."
 
 #### User Names and Passwords to Third-Party Sites:
 
@@ -72,7 +72,7 @@ It is possible that as we continue to develop the PlayOn and PlayLater Service a
 
 This site has industry standard security measures in place to protect the loss, misuse and integrity of the information under our control. 
 
-Our credit card transaction data is processed and stored by PayPal and TrialPay – third party websites with their own stringent privacy policies. To review PayPal’s privacy policies, please visit http://www.paypal.com/cgi-bin/webscr?cmd=p/gen/ua/policy_privacy-outside. To review TrialPay’s privacy policies, please visit http://www.trialpay.com/privacypolicy/. 
+Our credit card transaction data is processed and stored by PayPal, TrialPay and Litle – third party websites with their own stringent privacy policies. To review PayPal's privacy policies, please visit <http://www.paypal.com/cgi-bin/webscr?cmd=p/gen/ua/policy_privacy-outside>. To review TrialPay's privacy policies, please visit <http://www.trialpay.com/privacypolicy/>. To review Litle's privacy policies, please visit <http://www.litle.com/about-us/privacy-policy>
 
 ### Compromise of Personal Information
 
