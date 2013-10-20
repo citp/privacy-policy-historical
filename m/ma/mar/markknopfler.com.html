@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the markknopfler.com privacy policy that was archived on 2013-05-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130524031349id_/http%3A//www.markknopfler.com/info/mk_privacy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the markknopfler.com privacy policy that was archived on 2013-10-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131020030021id_/http%3A//www.markknopfler.com/info/mk_privacy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class=" js no-flexbox canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths" lang="en"><!--<![endif]--><head><meta charset="utf-8"><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"><meta name="description" content="Get the latest news and exclusive ticket presales at Mark Knopfler's official site - MarkKnopfler.com."><meta name="keywords" content="Mark Knopfler, Mark Knopfler music, Mark Knopfler tickets, tour dates, Dire Straits, Money For Nothing, Privateering"><title>
 	Privacy Policy - MarkKnopfler.com
@@ -44,59 +44,11 @@
 </script>
 </head>
 <body>
-    <form name="aspnetForm" method="post" action="mk_privacy.aspx" id="aspnetForm">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKLTE0NjczMDMxOQ9kFgJmD2QWAgIDD2QWAgIDD2QWAgIBD2QWAgIBD2QWAmYPZBYCAgEPZBYCZg8PFgQeCENzc0NsYXNzZR4EXyFTQgICFgIeB29uY2xpY2sFN3JldHVybiBtb2RhbFBvcHVwKCcvQWNjb3VudC9NaW5pTG9naW4uYXNweCcsIDQwMCwgNDAwKTtkZBe23AwpzlSQEBpiyvUxEWeEwCiKbhzR8CZeEGoXcJxg">
+    <form name="aspnetForm" method="post" action="/info/mk_privacy.aspx" id="aspnetForm">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKLTE0NjczMDMxOWRktfCVYvdVOqV1HpVnIY/nqMHmS/qTT9MTazyUOrFTsII=">
 
-<link rel="Stylesheet" type="text/css" href="/_styles/facebox.css">
-<script language="javascript" type="text/javascript" src="/_scripts/facebox.js"></script>
-<script language="javascript" type="text/javascript">
-    document.createElement("defaultcontainer"); // hack to get IE to recognize a custom tag used by DES
-    
-    $(function() {
-        $.facebox.settings.overlay = false; // going to handle the overlay ourselves, due to some strange default behavior
 
-        // hidden div that the popup will use as a template
-        $('body').append("<div id='modalPopupOverlay'></div>" + 
-                         "<div id='modalPopup'>" +
-                         "<iframe id='modalPopupFrame' frameborder='0' />" + // iframe borders defy all css in IE 
-                         "</div>");
-        
-        // attach to the facebox custom close event
-        $(document).bind('close.facebox', function() { 
-            var overlay = $('div#modalPopupOverlay');
-            overlay.unbind('click');
-            overlay.fadeOut(); 
-        });
-    });            
-
-    function modalPopup(url, width, height) {
-        var frame = $('iframe#modalPopupFrame');
-        var overlay = $('div#modalPopupOverlay');
-
-        frame.width(width);
-        frame.height(height);
-        
-        // inject the page into the popup iframe
-        frame.attr("src", url);
-        
-        overlay.fadeIn();
-        
-        // first call shows the spinner only
-        $.facebox(function() {               
-            // now that we are almost done loading, allow outside clicks to close the popup
-            overlay.click(function() {
-                $(document).trigger('close.facebox');
-            });
-
-            // second call copies from the hidden div and hides the spinner
-            $.facebox({ div: '#modalPopup' });                        
-        });       
-
-        return false; // will keep the link from firing
-    }
-</script>
 <script src="/ScriptResource.axd?d=QmR_lrAP7mGRaCw57BADZu3MgiKDYQeLJYQ6L0IhprinMa06BiZ2eRIAC9El1DzbRJFFvf3o6rkSSxVRBdP7l08kv-ZGSTyvU8P4zDHOU3ziAR_gZycBY_9kGHGWYG4oiACGp_JWxh41wnzmFRFT5NXlX4VgURtm6cJD1jUHNns1&amp;t=ffffffff940d030f" type="text/javascript"></script>
-<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWAgLG8p9mAuak78EJWYHeNG+VzltNmiFOrPVieCP38GnOuiDiJW3u/dHfrlo=">
 		
 		
 
@@ -122,11 +74,7 @@
     
     <a href="javascript:popUps('/media/flash/audioplayer.html','520','270')" class="player" id="AudioPlayer">Audio Player</a> 
    
-   <div id="Welcome">
-      
-          <a onclick="return modalPopup('/Account/MiniLogin.aspx', 400, 400);" id="ctl00_ContentBody_Header_LoginView1_SignInControl_SignInLink" href="javascript:__doPostBack('ctl00$ContentBody$Header$LoginView1$SignInControl$SignInLink','')">Sign In</a>
-          | <a href="/account/createaccount.aspx" title="Join">Join</a>
-    </div>
+
     <div class="clear"></div>
     <h1 id="Logo"><a href="/">Mark Knopfler</a></h1>
     <a id="menuBut">Menu</a>
@@ -290,7 +238,7 @@
 				 <a href="/info/contact.aspx">contact</a> | 
 				 <a href="/Search.aspx">search site</a> | 
                  
-				<a href="/help/default.aspx?general=on">help</a>
+				<a href="/help/default.aspx">help</a>
 </div>
 <div id="OCC"><a href="http://www.officialcommunity.com/" target="_blank">Powered by</a></div>
 
@@ -305,4 +253,4 @@
 
 </form>
 
-<div id="modalPopupOverlay"></div><div id="modalPopup"><iframe id="modalPopupFrame" frameborder="0"></iframe></div></body></html>
+</body></html>
