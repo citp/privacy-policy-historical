@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ingvysyabank.com privacy policy that was archived on 2013-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130423235937id_/http%3A//ingvysyabank.com/scripts/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ingvysyabank.com privacy policy that was archived on 2013-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131020154540id_/http%3A//www.ingvysyabank.com/scripts/privacypolicy.aspx) for the most accurate reproduction.*
 
 # ING | Privacy Policy
 
