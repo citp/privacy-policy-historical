@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the edfenergy.com privacy policy that was archived on 2013-04-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130424205744id_/http%3A//www.edfenergy.com/products-services/privacy.shtml) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the edfenergy.com privacy policy that was archived on 2013-10-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131020232147id_/http%3A//www.edfenergy.com/products-services/privacy.shtml) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns:java="http://xml.apache.org/xslt/java"><head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -20,14 +20,26 @@
             <div id="outer-right">
                 <div id="outer">
 <a href="/"><div id="edflogo"></div></a>
-			<div id="search">
-				<form name="SearchForm" method="get" action="/search-results.php">
-					<input name="query" value="Search" onfocus="if(this.value == 'Search'){this.value = '';}" onblur="if(this.value == ''){this.value='Search';}" type="text">
-					<p style="display:none;"><a href="/about-us/cookies/cookie-policy.shtml" title="Cookie Policy" class="lkOrange">How we use cookies</a></p>
-				</form>
-			</div>
+
+			<!-- <div id="print">
+				<h4>Page address: </h4>
+				<p id="printurl"></p>
+			</div> -->
 
 			
+			<div id="search">
+			
+				<form name="SearchForm" method="get" role="search" action="/search-results.php">
+				
+					<label for="query" class="searchLabel">Search</label>
+		
+					<input id="query" name="query" value="Search website" onfocus="if(this.value == 'Search website'){this.value = '';}" onblur="if(this.value == ''){this.value='Search website';}" type="text">
+					
+					<input type="submit" id="website-submit-button" value="" name="website-submit-button" class="website-submit-button">
+								
+				</form>
+				
+			</div> 
 
 			<div id="nav">
 	<!-- start: navigation -->
@@ -43,16 +55,14 @@
 									<li><a href="http://my.edfenergy.com/gas-electricity/your-energy-quote/retrieve" onclick="_gaq.push(['_trackEvent', 'global navigation dropdown', 'clickthru', 'Retrieve a Quote']);">Retrieve a Quote</a></li>
 									<li><a href="/products-services/for-your-home/customer-services/product-terms.shtml" onclick="_gaq.push(['_trackEvent', 'global navigation dropdown', 'clickthru', 'Tariff Prices and Terms']);">Tariff Prices and Terms</a></li>
 									<li><h3><a href="/brand/" onclick="_gaq.push(['_trackEvent', 'global navigation dropdown', 'clickthru', 'Our Campaigns']);">Our Campaigns</a></h3></li>
-									<li><a href="/brand/energy-of-the-nation/" onclick="_gaq.push(['_trackEvent', 'global navigation dropdown', 'clickthru', 'Energy of the Nation']);">Energy of the Nation</a></li>
 								</ul>
 
 								<ul>
 									<li><h3><a href="/products-services/for-your-home/my-account/" onclick="_gaq.push(['_trackEvent', 'global navigation dropdown', 'clickthru', 'Self Service']);">Self Service</a></h3></li>
 									<li><a href="/products-services/for-your-home/my-account/" onclick="_gaq.push(['_trackEvent', 'global navigation dropdown', 'clickthru', 'My Account']);">MyAccount</a></li>
-									<li><a href="https://www.edfenergyonline.co.uk/directdebitmandate/" onclick="_gaq.push(['_trackEvent', 'global navigation dropdown', 'clickthru', 'Direct Debit']);">Direct Debit</a></li>
-									<li><a href="https://my.edfenergy.com/existing-customers/forms" onclick="_gaq.push(['_trackEvent', 'global navigation dropdown', 'clickthru', 'Change your DD payment']);">Change your DD payment</a></li>
-									<li><a href="https://my.edfenergy.com/existing-customers/forms" onclick="_gaq.push(['_trackEvent', 'global navigation dropdown', 'clickthru', 'Request a paper copy of your bill']);">Request a paper copy of your bill</a></li>
-									<li><a href="https://my.edfenergy.com/existing-customers/forms" onclick="_gaq.push(['_trackEvent', 'global navigation dropdown', 'clickthru', 'Fill out our online moving home form']);">Fill out our moving home form</a></li>
+									<li><a href="https://my.edfenergy.com/existing-customers/forms/home-move" onclick="_gaq.push(['_trackEvent', 'global navigation dropdown', 'clickthru', 'Fill out our moving home form']);">Fill out our moving home form</a></li>
+									<li><a href="https://my.edfenergy.com/existing-customers/forms/change-dd-amount" onclick="_gaq.push(['_trackEvent', 'global navigation dropdown', 'clickthru', 'Change your DD payment amount']);">Change your Direct Debit amount</a></li>
+									<li><a href="https://my.edfenergy.com/existing-customers/forms/request-bill-copy" onclick="_gaq.push(['_trackEvent', 'global navigation dropdown', 'clickthru', 'Request a paper copy of your bill']);">Request a paper copy of your bill</a></li>
 									<li><a href="/products-services/for-your-home/our-products/edf-energy-pay-as-you-go.shtml" onclick="_gaq.push(['_trackEvent', 'global navigation dropdown', 'clickthru', 'Pay As You Go']);">Pay As You Go (Pre–payment)</a></li>
 									<li><a href="/products-services/for-your-home/smart-metering/" onclick="_gaq.push(['_trackEvent', 'global navigation dropdown', 'clickthru', 'Smart Metering']);">Smart Metering</a></li>
 									<li><a href="https://thankyous.edfenergy.com" onclick="_gaq.push(['_trackEvent', 'global navigation dropdown', 'clickthru', 'Thank Yous']);">Thank Yous</a></li>
@@ -61,11 +71,12 @@
 								<ul>
 									<li><h3><a href="/products-services/for-your-home/customer-services/" onclick="_gaq.push(['_trackEvent', 'global navigation dropdown', 'clickthru', 'Customer Services']);">Customer Services</a></h3></li>
 									<li><a href="/products-services/for-your-home/customer-services/contact-us.shtml" onclick="_gaq.push(['_trackEvent', 'global navigation dropdown', 'clickthru', 'Contact Us']);">Contact Us</a></li>
+									<li><a href="/products-services/for-your-home/direct-debit/direct-debit.shtml" onclick="_gaq.push(['_trackEvent', 'global navigation dropdown', 'clickthru', 'Direct Debit']);">Direct Debit</a></li>
 									<li><a href="/products-services/for-your-home/customer-commitments/" onclick="_gaq.push(['_trackEvent', 'global navigation dropdown', 'clickthru', 'Our Commitments to You']);">Our Commitments to You</a></li>
 									<li><a href="/products-services/for-your-home/my-account/moving-home.shtml" onclick="_gaq.push(['_trackEvent', 'global navigation dropdown', 'clickthru', 'Moving Home']);">Moving Home</a></li>
 									<li><a href="/products-services/for-your-home/customer-services/loss-of-supply.shtml" onclick="_gaq.push(['_trackEvent', 'global navigation dropdown', 'clickthru', 'Loss of Supply']);">Loss of Supply</a></li>
 									<li><a href="/products-services/for-your-home/customer-services/making-a-complaint.shtml" onclick="_gaq.push(['_trackEvent', 'global navigation dropdown', 'clickthru', 'Making a complaint']);">Making a complaint</a></li>
-									<li><a href="/products-services/for-your-home/customer-services/customers-with-special-requirements.shtml" onclick="_gaq.push(['_trackEvent', 'global navigation dropdown', 'clickthru', 'Customers with special requirements']);">Customers with special requirements</a></li>
+									<li><a href="/products-services/for-your-home/personalised-support-service/priority-services-register.shtml" onclick="_gaq.push(['_trackEvent', 'global navigation dropdown', 'clickthru', 'Customers with special requirements']);">Customers with special requirements</a></li>
 								</ul>
 
 								<ul>
@@ -86,12 +97,14 @@
 							<div class="contentNav">
 								<ul>
 									<li><h3><a href="/products-services/sme/why-switch/" onclick="_gaq.push(['_trackEvent', 'fb-topnav', 'ctr', 'Switching electricity supplier']);">Switching electricity supplier</a></h3></li>
-									<li><a href="https://electricity-quote.edfenergy.com/" onclick="_gaq.push(['_trackEvent', 'fb-topnav', 'ctr', 'Get an instant quote']);">Get an instant quote</a></li>
+									<li><a href="https://www.edfenergyonline.co.uk/sme-online-signup/?referId=Global-nav" onclick="_gaq.push(['_trackEvent', 'fb-topnav', 'ctr', 'Get an instant quote']);">Get an instant quote</a></li>
 
 									<li><h3><a href="/products-services/sme/energy-products/" onclick="_gaq.push(['_trackEvent', 'fb-topnav', 'ctr', 'Energy Products']);">Energy Products</a></h3></li>
-									<li><a href="/products-services/sme/energy-products/new-start.shtml" onclick="_gaq.push(['_trackEvent', 'fb-topnav', 'ctr', '>New Start']);">New Start</a></li>
+									<li><a href="/products-services/sme/energy-products/new-start.shtml" onclick="_gaq.push(['_trackEvent', 'fb-topnav', 'ctr', 'New Start']);">New Start</a></li>
+									<li><a href="/products-services/sme/energy-products/Freedom-for-business.shtml" onclick="_gaq.push(['_trackEvent', 'fb-topnav', 'ctr', 'Freedom for business']);">Freedom for business</a></li>
 									<li><a href="/products-services/sme/energy-products/blue-business.shtml" onclick="_gaq.push(['_trackEvent', 'fb-topnav', 'ctr', '>Blue for business']);">Blue for business</a></li>
-									<li><a href="/products-services/sme/energy-products/business-electricity-contracts.shtml" onclick="_gaq.push(['_trackEvent', 'fb-topnav', 'ctr', 'Business electricity contracts']);">Business electricity contracts</a></li>
+									<!--<li><a href="/products-services/sme/energy-products/business-electricity-contracts.shtml" onClick="_gaq.push(['_trackEvent', 'fb-topnav', 'ctr', 'Business electricity contracts']);">Business electricity contracts</a></li>-->
+									 <li><a href="/products-services/sme/energy-products/Fixed_Contracts.shtml" onclick="_gaq.push(['_trackEvent', 'fb-topnav', 'ctr', 'Fixed price contracts']);">Fixed price contracts</a></li> 
 									<li><a href="/products-services/sme/energy-products/the-meter-type-for-you.shtml" onclick="_gaq.push(['_trackEvent', 'fb-topnav', 'ctr', 'The meter type for you']);">The meter type for you</a></li>
 									<li><a href="/products-services/sme/energy-products/products-for-developers.shtml" onclick="_gaq.push(['_trackEvent', 'fb-topnav', 'ctr', 'Products for developers']);">Products for developers</a></li>
 									<li><a href="/products-services/for-your-home/energy-store/" onclick="_gaq.push(['_trackEvent', 'fb-topnav', 'ctr', 'Energy shop']);">Energy shop</a></li>
@@ -115,8 +128,9 @@
 									<li><a href="/products-services/sme/my-account/submit-a-meter-reading.shtml" onclick="_gaq.push(['_trackEvent', 'fb-topnav', 'ctr', 'Submit a meter reading']);">Submit a meter reading</a></li>
 									<li><a href="/products-services/sme/my-account/understanding-our-rates.shtml" onclick="_gaq.push(['_trackEvent', 'fb-topnav', 'ctr', 'Understanding your rates']);">Understanding your rates</a></li>
 									<li><a href="/products-services/sme/my-account/moving-location.shtml" onclick="_gaq.push(['_trackEvent', 'fb-topnav', 'ctr', 'Moving location']);">Moving location</a></li>
-									<li><a href="http://business-thankyous.edfenergy.com/sign-in" onclick="_gaq.push(['_trackEvent', 'fb-topnav', 'ctr', 'Business Thank yous']);">Business Thank yous</a></li>
-									<li><a href="/products-services/sme/my-account/iphone-app.shtml" onclick="_gaq.push(['_trackEvent', 'fb-topnav', 'ctr', 'iPhone app']);">iPhone app</a></li>
+									<!-- <li><a href="http://business-thankyous.edfenergy.com/sign-in" onClick="_gaq.push(['_trackEvent', 'fb-topnav', 'ctr', 'Business Thank yous']);">Business Thank yous</a></li> -->
+									<li><a href="/products-services/sme/my-account/mobile-app.shtml" onclick="_gaq.push(['_trackEvent', 'fb-topnav', 'ctr', 'mobile app']);">Mobile app</a></li>
+									<li><a href="/products-services/sme/my-account/SME_Terms_and_Conditions.shtml" onclick="_gaq.push(['_trackEvent', 'fb-topnav', 'ctr', 'SME Terms and Conditions']);">SME Terms and Conditions</a></li>
 								</ul>
 
 								<ul>
@@ -162,7 +176,6 @@
 
 									<li><h3><a href="/products-services/large-business/understanding-energy/" onclick="_gaq.push(['_trackEvent', 'lb-topnav', 'ctr', 'Understanding energy']);">Understanding energy</a></h3></li>
 									<li><a href="/products-services/large-business/understanding-energy/carbon-reduction-commitment.shtml" onclick="_gaq.push(['_trackEvent', 'lb-topnav', 'ctr', 'Carbon Reduction commitment']);">Carbon Reduction commitment</a></li>
-									<li><a href="/products-services/large-business/understanding-energy/electricity-market-reforms.shtml" onclick="_gaq.push(['_trackEvent', 'lb-topnav', 'ctr', 'Electricity Market Reforms']);">Electricity Market Reforms</a></li>
 									<li><a href="/products-services/large-business/understanding-energy/factsheets.shtml" onclick="_gaq.push(['_trackEvent', 'lb-topnav', 'ctr', 'Fact sheets']);">Fact sheets</a></li>
 									<li><a href="/products-services/large-business/understanding-energy/energy-glossary.shtml" onclick="_gaq.push(['_trackEvent', 'lb-topnav', 'ctr', 'Energy glossary']);">Energy glossary</a></li>
 									<li><a href="/products-services/large-business/understanding-energy/renewable-energy.shtml" onclick="_gaq.push(['_trackEvent', 'lb-topnav', 'ctr', 'Renewable energy']);">Renewable energy</a></li>
@@ -490,32 +503,25 @@
 							<div class="contentNav">
 								<ul>
 									<li><h3><a href="/about-us/about-edf-energy/">About EDF Energy</a></h3></li>					
+									<li><a href="/sustainability/performance-report/2012/">Annual sustainability report 2012</a></li>
 									<li><a href="/about-us/about-edf-energy/our-history.shtml">Our history</a></li>
 									<li><a href="/about-us/about-edf-energy/our-structure/">Our structure</a></li>
 									<li><a href="/about-us/mission-ambitions/index.shtml">Our mission &amp; ambitions</a></li>
-
-								  <li><a href="/about-us/about-edf-energy/who-owns-us.shtml">Who owns us</a></li>
-									<li><a href="/about-us/annual-report/2011-reporting-homepage.shtml">Our performance</a></li>
+								</ul>
+								<ul>
+									<li><h3><a href="/about-us/about-edf-energy/">About EDF Energy</a></h3></li>	
+									<li><a href="/about-us/about-edf-energy/who-owns-us.shtml">Who owns us</a></li>
+									<li><a href="/about-us/annual-report/reporting-homepage.shtml">Our performance</a></li>
 									<li><a href="/sustainability/">Sustainability</a></li>
 								</ul>
 								<ul>
 									<li><h3><a href="/about-us/shareholder-information/financial_information.shtml">Financial information</a></h3></li>
-									
-
+									<li><a href="/about-us/shareholder-information/financial_information.shtml">Financial statements &amp; reports</a></li>
 								</ul>
-								<ul>
-									<li><h3><a href="/about-us/sponsorship/">Sponsorship</a></h3></li>
-									<li><a href="/about-us/sponsorship/london-2012.shtml">London 2012</a></li>
-									<li><a href="/about-us/sponsorship/team-green-britain.shtml">Team Green Britain</a></li>
-
-									<li><a href="/about-us/sponsorship/london-eye.shtml">The London Eye</a></li>
- 								</ul>
-
  								<ul>
 									<li><h3><a href="/contact-us/">Contact us</a></h3></li>
 									<li><a href="/products-services/for-your-home/customer-services/contact-us.shtml">Home customers</a></li>
 									<li><a href="/products-services/sme/customer-services/contact-us.shtml">Small to medium sized business</a></li>
-
 									<li><a href="/products-services/large-business/contact-us/index.shtml">Large business</a></li>
 									<li><a href="/safety-emergencies/">Safety &amp; emergencies</a></li>
 
@@ -578,35 +584,31 @@
 							</div>
 						</div></div>
 					</li>
-					<li class="corpNav cmenu mm-item" style="float: left;"><a href="/media-centre/index.shtml" class="mm-item-link">Media Centre</a>
+					<li class="corpNav cmenu mm-item" style="float: left;"><a href="http://newsroom.edfenergy.com" class="mm-item-link">Media Centre</a>
 						<div style="width: 857px; display: none;" class="mm-item-content"><div class="mm-content-base">
 							<div class="contentNav">
-
 								<ul>
-
-									<li><h3><a href="/media-centre/press-news/index.shtml">News</a></h3></li>
-									<li><a href="/media-centre/contacts-cross-business/index.shtml">Media contacts</a></li>
-									<li><a href="/media-centre/press-kit/index.shtml">Press kit</a></li>
-									<li><a href="/media-centre/press-news/quest.shtml">Videos</a></li>
+									<li><h3><a href="http://newsroom.edfenergy.com/content/default.aspx?NewsAreaId=2">News</a></h3></li>
  								</ul>
 								<ul>
-									<li><h3><a href="/about-us/sponsorship/london-2012.shtml">Our sponsorship of the 2012 Olympics</a></h3></li>
-
-									<li><a href="/media-centre/media-awards/index.shtml">Media awards</a></li>
-
+									<li><h3><a href="http://newsroom.edfenergy.com/content/default.aspx?NewsAreaId=20">Media awards</a></h3></li>
+									<li><a href="http://newsroom.edfenergy.com/imagelibrary/default.aspx?NewsAreaId=28">Media library</a></li>	
  								</ul>
 								<ul>
-									<li><h3><a href="/media-centre/image-library/index.shtml">Image library</a></h3></li>
- 								</ul>
+									<li><h3><a href="http://newsroom.edfenergy.com/content/default.aspx?NewsAreaId=34">Social media</a></h3></li>								
+								</ul>
 								<ul>
-									<li><h3><a href="/safety-emergencies/index.shtml">Emergency and customer contacts</a></h3></li>								
+									<li><h3><a href="http://newsroom.edfenergy.com/content/default.aspx?NewsAreaId=30">Contact us</a></h3></li>	
+									<li><a href="http://newsroom.edfenergy.com/content/default.aspx?NewsAreaId=29">About us</a></li>	
+									
 								</ul>
 
 								<div class="clear"></div>					
 							</div>
-
 						</div></div>
 					</li><li class="clear-fix"></li>
+
+
 				</ul>
 	<!-- end: navigation -->			
 			</div></div>
@@ -781,6 +783,18 @@ if(newID.indexOf(forB) != -1) {
 </script>
 
 
+<!-- Print current page URL for print CSS -->
+<script type="text/javascript">
+
+	if(document.getElementById("printurl") != null){
+	
+		document.getElementById("printurl").innerHTML = window.location.href;
+	
+	}
+
+</script>
+<!-- End of print current page URL for print CSS -->
+
 <!--
  <script type="text/javascript" src="/zeusstatic/js/zeus-jquery.min.js"></script> -->
 
@@ -876,26 +890,6 @@ if(newID.indexOf(forB) != -1) {
     document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
 
 </script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-
-
-<!--
-Start of DoubleClick Floodlight Tag: Please do not remove
-Activity name of this tag: EcoX_EDFEnergyHP_EDFE.com_14-03-2012
-URL of the webpage where the tag is expected to be placed: http://www.edfenergy.com/
-This tag must be placed between the <body> and </body> tags, as close as possible to the opening tag.
-Creation Date: 04/18/2012
--->
-<script type="text/javascript">
-var axel = Math.random() + "";
-var a = axel * 10000000000000;
-//document.write('<iframe src="https://fls.doubleclick.net/activityi;src=1364447;type=ecoxu178;cat=ecox_855;ord=' + a + '?" width="1" height="1" frameborder="0" style="display:none"></iframe>');
-</script>
-
-<noscript>
-<iframe src="https://fls.doubleclick.net/activityi;src=1364447;type=ecoxu178;cat=ecox_855;ord=1?" width="1" height="1" frameborder="0" style="display:none"></iframe>
-</noscript>
-
-<!-- End of DoubleClick Floodlight Tag: Please do not remove -->
 
 <script type="text/javascript">
 var __stormJs = 't1.stormiq.com/dcv4/jslib/3171_71E90107_6FC7_48DB_B3F5_713D754C9B89.js';
