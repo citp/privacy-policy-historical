@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ganeshaspeaks.com privacy policy that was archived on 2013-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130527173746id_/http%3A//www.ganeshaspeaks.com/privacy-policy.action) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ganeshaspeaks.com privacy policy that was archived on 2013-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131020161912id_/http%3A//www.ganeshaspeaks.com/privacy-policy.action) for the most accurate reproduction.*
 
 # Footer Privacy Policy
 
