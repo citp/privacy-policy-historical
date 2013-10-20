@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the andro-phones.com privacy policy that was archived on 2013-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130519210254id_/http%3A//www.andro-phones.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the andro-phones.com privacy policy that was archived on 2013-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131021013139id_/http%3A//www.andro-phones.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
