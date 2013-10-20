@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kombo.com privacy policy that was archived on 2013-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130622193048id_/http%3A//www.intergi.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kombo.com privacy policy that was archived on 2013-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131020090429id_/http%3A//www.intergi.com/privacy) for the most accurate reproduction.*
 
 # Intergi | Privacy Policies
 
