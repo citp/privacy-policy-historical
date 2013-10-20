@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kaneesha.com privacy policy that was archived on 2013-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130531062342id_/http%3A//www.kaneesha.com/Privacy-Policy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kaneesha.com privacy policy that was archived on 2013-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131020170449id_/http%3A//www.kaneesha.com/Privacy-Policy.cfm) for the most accurate reproduction.*
 
 # Kaneesha - Privacy Policy
 
