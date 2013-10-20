@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ubuntugeek.com privacy policy that was archived on 2013-01-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130114225452id_/http%3A//www.ubuntugeek.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ubuntugeek.com privacy policy that was archived on 2013-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131021010031id_/http%3A//www.ubuntugeek.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Ubuntu Geek
 
@@ -28,16 +28,8 @@ Deleting cookies does not mean you are permanently opted out of any advertising 
 
 #### Incoming search terms:
 
-  * [ubuntu privacy policy](http://www.ubuntugeek.com/privacy-policy "ubuntu privacy policy")
-  * [does ubuntu 12 10 work with norton internet security](http://www.ubuntugeek.com/privacy-policy "does ubuntu 12 10 work with norton internet security")
-  * [can norton internet security be used in ubuntu](http://www.ubuntugeek.com/privacy-policy "can norton internet security be used in ubuntu")
-  * [ubuntu track websites used on server](http://www.ubuntugeek.com/privacy-policy "ubuntu track websites used on server")
-  * [ubuntu privacy terms](http://www.ubuntugeek.com/privacy-policy "ubuntu privacy terms")
-  * [ubuntu 12 10 privacy policy cookies](http://www.ubuntugeek.com/privacy-policy "ubuntu 12 10 privacy policy cookies")
-  * [targeted ads in ubuntu](http://www.ubuntugeek.com/privacy-policy "targeted ads in ubuntu")
-  * [silagra generic viagra cialis cumwithuscom](http://www.ubuntugeek.com/privacy-policy "silagra generic viagra cialis cumwithuscom")
-  * [privacy ubuntu](http://www.ubuntugeek.com/privacy-policy "privacy ubuntu")
-  * [privacy policy ubuntu](http://www.ubuntugeek.com/privacy-policy "privacy policy ubuntu")
+  * [ubuntu and privacy](http://www.ubuntugeek.com/privacy-policy "ubuntu and privacy")
+  * [ubuntu Policy entry](http://www.ubuntugeek.com/privacy-policy "ubuntu Policy entry")
 
 
 
