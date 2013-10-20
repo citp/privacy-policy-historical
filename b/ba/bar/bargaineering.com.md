@@ -1,115 +1,208 @@
-> *The following text is extracted and transformed from the bargaineering.com privacy policy that was archived on 2013-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130531230250id_/http%3A//www.bargaineering.com/articles/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bargaineering.com privacy policy that was archived on 2013-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131020173322id_/http%3A//www.bargaineering.com/articles/privacy-policy) for the most accurate reproduction.*
 
 # » Privacy Policy - Bargaineering
 
-**Last updated: February 8, 2010**
+**PRIVACY POLICY**
 
-www.bargaineering.com and its owner (“we,” “us,” or “our”) take your privacy seriously, and have published this Privacy Policy to explain how we will treat information that you may submit to www.bargaineering.com or to portions of other Web pages and Web content through which you have accessed this Privacy Policy (collectively, this “Site”). By visiting, using and/or submitting information to the Site you are accepting the practices described in this Privacy Policy and the terms and conditions of the Agreement of Terms of Use located at the URL [http://www.bargaineering.com/articles/terms-of-use] (the “Terms of Use”).
+**Last updated: October 8, 2013**
 
-Please note that this Privacy Policy does not apply to information which is submitted pursuant to a sweepstakes entry. Refer to the Official Rules and Privacy Policy for each individual sweepstakes for specific policies regarding information sharing and disclosure pursuant to a sweepstakes entry. 
+This Privacy Policy describes how we collect, use and share information when you use our Services. The terms “we,” “us,” or “our” mean Bankrate, Inc., a Delaware corporation, and its legal subsidiaries and affiliates. The term “Services,” means, collectively, various websites, applications, widgets, email notifications and other mediums, or portions of such mediums, through which you have accessed this Privacy Policy. By accessing or using our Services, you consent to the collection, transfer, manipulation, storage, disclosure and other uses of Your Information (collectively, “Use of Your Information”) as described in this Privacy Policy. 
 
-**Collection of Personally Identifiable Information**  
-Many of the features of this Site are available to you without your providing personally identifiable information. Personally identifiable information generally includes information that could be used to determine your identity, such as your name, address, phone number, e-mail address, and birth date. The following are certain situations in which we may collect personally identifiable information from you:  
-• General Registration. We collect personally identifiable information from you, such as your e-mail address and first name, if you register with this Site. The benefits of registration may include things such as the ability to collect points that may be redeemed at our store, as further described on the Site from time to time.  
-• Registration for Newsletters and Sweepstakes. We collect personally identifiable information from you if you register online for one of our newsletters and when you enter our sweepstakes. When you register online with us, we may ask for personally identifiable information such as your name, e-mail address, birth date, gender, ZIP code, occupation, industry, personal interests and other demographic information.  
-• Comments; Use of Forums. If you would like to post a comment or otherwise transmit, submit or post information through our blog, chat rooms, bulletin boards or other forums (the “Forums”), we will collect that information you provide. Specifically, we will require that you provide, and collect from you, personally identifiable information, such as your e-mail address, if you would like to post a comment or otherwise transmit, submit or post information through our Forums. We retain this information as necessary to resolve disputes, provide customer support and troubleshoot problems as permitted by law and pursuant to the Terms of Use.  
-• Registration for RSS Feed. We may collect personally identifiable information from you if you choose to receive RSS feeds from us. For example, if you would like to receive RSS feeds from us via e-mail, we will collect your e-mail address to provide you with RSS feeds at the e-mail address that you provide.  
-• Forms. We may collect personally identifiable information from you if you choose to fill out any forms, profiles, or surveys on this Site.  
-• Correspondence. If you send us personal correspondence, such as emails or letters, or if other users or third parties send us correspondence about your activities or postings on this Site, we may choose to collect such information into a file specific to you.  
-• Business Partners. We may receive your personally identifiable information from one of our business partners. 
+For purposes of this Privacy Policy, “Your Information” means information about you, which may be of a confidential nature and may include personally identifying information, medical and health history information, and/or financial information.
 
-**Use of Personally Identifiable Information**  
-We use your personally identifiable information as follows:  
-• to improve our marketing and promotional efforts, analyze site usage, improve our content and product offerings, and customize our content, layout, and services;  
-• to contact you and deliver information to you that, in some cases, is targeted to your interests, such as targeted banner advertisements, administrative notices, product offerings, and communications relevant to your use of this Site;  
-• to fulfill your requests for certain products and services, such as to send you requested newsletters or to deliver items redeemed from our store;  
-• for market research, project planning, troubleshooting problems, detecting and protecting against error, fraud or other criminal activity, to enforce the Terms of Use, for other internal purposes, and as otherwise described to you at the time of collection; and  
-• as otherwise set forth in this Privacy Policy. 
+This Privacy Policy applies to our Use of Your Information as a result of you using our Services, and does not apply to the following:
 
-You expressly agree to our use of your personally identifiable information as set forth in this Privacy Policy and the Terms of Use. 
+  * Information collected through mediums other than our Services;
+  * Information collected through our Services where a separate privacy policy applies, such as a sweepstakes entry (you should refer to the official rules and privacy policy for each individual sweepstakes for our specific policies regarding information sharing and disclosure pursuant to sweepstakes entry); or
+  * Information collected by any person or entity other than us, even if related to our Services (such as a third-party website, application, widget or lead form).
 
-**Disclosure of Personally Identifiable Information**  
-The following describes some of the ways that your personally identifiable information may be disclosed in the normal scope of business:  
-• Advertisers. We may aggregate personally identifiable information and disclose such information in a non-personally identifiable manner to advertisers and other third parties for their marketing and promotional purposes. For example, we may aggregate personally identifiable information and disclose it to network advertisers in a non-personally identifiable manner as set forth in the section entitled “Network Advertisers,” set forth below. We do not disclose your information in a personally identifiable manner to such third party advertisers without your consent.  
-• External Service Providers. There are a number of separate services offered by third parties, including, without limitation, our affiliates, that we refer to as external service providers that may be complementary to your use of this Site. If you choose to use these separate services, disclose information to the external service providers, and/or grant them permission to collect information about you, then their use of your information is governed by their privacy policy. With your consent, we may provide some of your personal information to the external service provider offering such services, for your convenience. To prevent our disclosure of your personally identifiable information to an external service provider, you can decline such consent or simply not use their services. You should evaluate the practices of external services providers before deciding to use their services. 
 
-**NOTE: If you click to use or apply for a service or product on this Site, you may be linked to an external service provider’s Web site. If you choose to use or apply for an external service provider’s service or product, then all information you disclose will be governed by the external service provider’s privacy policy. Such links to external service providers are not an endorsement by us of those external service providers and/or the products or services offered there. We are not responsible for the privacy practices of external service providers and encourage you to check the privacy policy of external service providers.**
 
-• Internal Service Providers. We may use third parties that we refer to as internal service providers to facilitate or outsource one or more aspects of our business, product and service operations that we provide to you (e.g., technology, Forums, newsletters/alerts, analytical tools, advertising campaign management) and therefore we may provide some of your personal information directly to these internal service providers. These internal service providers are subject to confidentiality agreements with us or other legal restrictions that prohibit their use of the information that we provide them for any other purpose except to facilitate the specific outsourced operation, unless you have explicitly agreed or given your prior permission to them for additional uses. In some instances, the internal service provider may collect information directly from you. In these cases, you will be notified of the involvement of the internal service provider, and all additional information you provide them and their additional uses will be strictly up to you. If you provide additional information to an internal service provider directly, then their use of your personally identifiable information is governed by their applicable privacy policy. 
+In addition to this Privacy Policy, our Services are also governed by our [Terms of Use](http://www.bargaineering.com/articles/terms-of-use "Terms of Use") and any other documents referred to in this Privacy Policy and our [Terms of Use](http://www.bargaineering.com/articles/terms-of-use "Terms of Use"). These documents describe information that we collect from you or that you provide on or to the Services and how Your Information may be used and disclosed by us. They also describe the choices available to you regarding our Use of Your Information and how you can access and update Your Information. Please read this Privacy Policy and the [Terms of Use](http://www.bargaineering.com/articles/terms-of-use "Terms of Use") carefully. 
 
-Notwithstanding the foregoing, we reserve the right (and you authorize us) to share or disclose your personally identifiable information when we determine, in our sole discretion, that the disclosure of your personally identifiable information is necessary to identify, contact, or bring legal action against you if:  
-• you are or may be violating this Privacy Policy or the Terms of Use;  
-• you are interfering with another’s rights or property, including, without limitation, our rights or property;  
-• you are violating any applicable law, rule or regulation;  
-• necessary or required by any applicable law, rule or regulation; and/or  
-• requested by authorities in the event of any act of terrorism or instance of local, regional or national emergency. 
+_**Information We Collect and Receive About You**_
 
-Personally identifiable information and other personal information collected from you may also be transferred to a third party as a result of a sale, acquisition, merger, reorganization, other transfer or bankruptcy (a “Transfer”) involving us and/or our affiliates. We specifically reserve the right to transfer personally identifiable information collected from this Site, and any of our databases, together with any personally identifiable information contained therein, to a third party in connection with a Transfer, and nothing in this Privacy Policy is intended to interfere with our ability to transfer all or part of our business and/or assets (including this Site) to an affiliate or independent third party at any time, for any purpose, without any limitation whatsoever.
+We might receive or collect several types of information about you, such as the information described below.
 
-In addition, due to the existing regulatory environment, we cannot ensure that all of your private communications and other personally identifiable information will never be disclosed in ways not otherwise described in this Privacy Policy. By way of example (without limiting the foregoing), we may be forced to disclose personal information to the government or third parties under certain circumstances or third parties may unlawfully intercept or access transmissions or private communications. Therefore, although we use industry standard practices to protect your privacy, we do not promise, and you should not expect, that your personally identifiable information or private communications will always remain private.
+Information You Provide
 
-**NOTE:** If you are submitting personally identifiable information pursuant to sweepstakes entry, we reserve the right to share, loan, rent and/or sell the personally identifiable information that you submit with our affiliates and other third parties. Please refer to the Official Rules and Privacy Policy for each individual sweepstakes for the specific guidelines regarding information sharing and disclosure.
+The following are situations in which you may provide Your Information to us:
 
-**Network Advertising**  
-We may use third-party advertising companies for marketing, advertising and promotional purposes, as well as to serve advertisements to you. Using third-party advertising companies helps us and third-party advertisers better determine which advertisements or content to serve to you. For example, the third-party advertisers may use information regarding your visits to this Site and other Web sites in order to provide advertisements about goods and services, that third party advertisers believe will be of interest to you.  
-The types of information that may be collected by third-party advertising companies include the following:  
-• the type of Internet browser you use;  
-• the type of computer operating system you use;  
-• the domain name of a Web site you visit, as well as information related to Web sites and Web pages you are viewing when an advertisement is requested;  
-• whether or not you visit specific pages of this Site or other Web sites;  
-• the location of your Internet service provider’s point of presence;  
-• the date and time of a visit to a Web site;  
-• search keywords passed from another server;  
-• the number of times you have clicked on an advertisement; and  
-• other interactions between you and a Web site. 
+  * When you fill out forms or fields through our Services;
 
-If you would like to opt-out of third-party advertising companies’ use of such information, [click here](http://www.networkadvertising.org/consumer/opt_out.asp). If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/consumer/).
+  * When you sign up for any newsletters or other materials through our Services;
 
-**Opt-Out and Changes to Personally Identifiable Information and Use Preferences**  
-You may at any time request a copy of our record of your personally identifiable information, change your personally identifiable information or use preferences, or opt-out of our use of your personally identifiable information by contacting us at privacy@bargaineering.com.
+  * When you provide information to us through a third-party application, service or website;
 
-If you would like to opt-out of third-party advertising companies’ use of your information for the network advertising purposes described above, click here.
+  * When you communicate with us or request information about us or our Services, whether via email or other means;
 
-**Newsletters and CAN-SPAM Compliance**  
-We send only verified, double-opt-in e-mail newsletters, specifically requested by our subscribers. Subscriptions to our newsletters are verified by sending an e-mail confirmation to your e-mail address, which requires a positive response before an e-mail address is added to our list. We are fully compliant with the Controlling the Assault of Non-Solicited Pornography and Marketing Act of 2003. We are not responsible for any email communications that you may receive from third parties.
+  * When you participate in online surveys;
 
-**Cookie technology**  
-“Cookies” are alphanumeric identifiers in the form of text files that are inserted and stored by your Web browser on your computer’s hard drive. We, our external service providers, internal service providers, and third-party advertising companies, may set and access cookies on your computer to track and store preferential information about you. We, and our external service providers, internal service providers, and third-party advertising companies gather anonymous information about you through cookie technology on an aggregate level only. For example, a third-party advertising company may assign a cookie (and a Web beacon, described below) to you, to limit the amount of times you see a particular advertisement or to help better determine which advertisements to serve to you. Please note that most Internet browsers will allow you to stop cookies from being stored on your computer and to delete cookies stored on your computer.
+  * When you participate in any of our marketing initiatives, including, contests, events, or promotions; and
 
-**Web beacons**  
-”Web beacons”, also called single-pixels (1×1) or clear GIFs, are electronic images that allow a Web site to access cookies and help track marketing campaigns and general usage patterns of visitors to those Web sites. Web beacons can recognize certain types of information, such as cookie numbers, time and date of a page view, and a description of the page where the Web beacon is placed. No personally identifiable information about you is shared with third parties through the use of Web beacons.  
-• Internal use of Web beacons. We may use Web beacons internally to count users and recognize users through cookies. Access to cookies helps us personalize your experience when you visit this Site.  
-• Email. We may include Web beacons in HTML-formatted email messages that we or our affiliates or agents send. Including Web beacons in email messages helps us determine your interest in and the effectiveness of such emails.  
-• External use of Web beacons. We may also use Web beacons externally. For example, we may report aggregate information about our users, such as demographic and usage information, to our partners and other third parties. We may also include other company’s Web beacons within the Site. 
+  * When you participate in forums or provide user generated content or submissions.
 
-**Security**  
-Personally identifiable information you submit to us is password-protected for your privacy and security. In certain areas we use industry-standard SSL-encryption to protect data transmissions. In the unlikely event that an unauthorized third party compromises our security measures, we will not be responsible for any damages directly or indirectly caused by an unauthorized third party’s ability to view, use or disseminate such information.
 
-**Links to Other Web sites**  
-This Site may include links to other third party Web sites. Such links are not an endorsement by us of those Web sites and/or the products or services offered there. Third party Web sites may have different privacy policies and we are not responsible for the privacy practices of those third party Web sites. If you click on a link to a third party Web site, we encourage you to check the privacy policy of that Web site, as it may differ substantially from that of this Privacy Policy.
 
-**Access and Use of this Site**  
-This Site is intended to be accessed and used only by adults and is not directed to children under the age of 18. We do not knowingly permit registration or submission of personally identifiable information by anyone under the age of 18.
 
-**Changes to this Privacy Policy**  
-We reserve the right to update, amend and/or change this Privacy Policy at any time in our sole discretion and without notice. Updates to this Privacy Policy will be posted here. Any information we collect from you online is subject only to our most current Privacy Policy. You are encouraged to revisit this Privacy Policy from time to time in order to review any changes that have been made. Your continued access and use of this Site following the posting of any such changes shall automatically be deemed your acceptance of the same.
+Information Third Parties Provide
 
-**Questions or Concerns**  
-If you have questions, comments, concerns or feedback regarding this Privacy Policy, send an e-mail to privacy@bargaineering.com.
+We may collect information about you from sources other than you, such as from social media websites (i.e., Facebook, LinkedIn, Twitter or others), blogs, other users and our business partners.
 
-**Governing Law; Arbitration**  
-You agree that: (i) this Site shall be deemed solely based in the State of Florida; and (ii) this Site shall be deemed a passive Web site that does not give rise to personal jurisdiction over us, either specific or general, in jurisdictions other than the State of Florida. This Privacy Policy is to be governed by and construed in accordance with the internal laws of the State of Florida, without regard for principles of conflicts of laws. Any civil action, claim, dispute or proceeding arising out of or relating to this Privacy Policy shall be referred to final and binding arbitration, before a single arbitrator, under the commercial arbitration rules of the American Arbitration Association in Palm Beach County, Florida. 
+General Use and Preference Information
 
-THEREFORE, YOU DO NOT HAVE THE OPPORTUNITY TO GO TO COURT TO ASSERT OR DEFEND YOUR RIGHTS AND YOU GIVE UP YOUR RIGHT TO PARTICIPATE IN OR BRING CLASS ACTIONS. BY USING THIS SITE YOU CONSENT TO THESE RESTRICTIONS.
+We may collect, receive and store information regarding your general use of our Services (such as details of how and when you used our Services, interactions with our Services, log in information, resources that you access, your Internet protocol address, your browser type, and your device type), as well as your preferences. 
 
-You and us shall select the arbitrator, and if you and us are unable to reach agreement on selection of the arbitrator within thirty (30) days after the notice of arbitration is served, then the American Arbitration Association shall select the arbitrator. Arbitration shall not commence until the party requesting it has deposited One Thousand Dollars ($1,000.00) with the arbitrator for the arbitrator’s fees and costs. The party requesting arbitration shall advance such sums as are required from time to time by the arbitrator to pay the arbitrator’s fees and costs until the prevailing party is determined or the parties have agreed in writing to an alternate allocation of fees and costs.  
-Judgment upon any award rendered by the arbitrator shall be final, binding and conclusive upon you and us and your and our respective administrators, executors, legal representatives, successors and assigns, and may be entered in any court of competent jurisdiction. Notwithstanding the previous sentence, in no event shall either you or we be entitled to punitive, special, indirect or consequential damages and both you and we hereby waive your and our respective rights to any punitive, special, indirect or consequential damages, including, but not limited to, damages for any loss of profit, revenue or business.
+Device Information
 
-Should a dispute arise and should the arbitration provisions herein become inapplicable or unenforceable, or in any instance of any lawsuit between you and us, jurisdiction over and venue of any suit shall be exclusively in the state and federal courts sitting in Palm Beach County, Florida.
+When you use our Services through your computer, mobile phone or other device, we may collect information regarding and related to your device, such as hardware models and IDs, device type, operating system version, the request type, the content of your request and basic usage information about your use of our Services, such as date and time. In addition, we may collect information regarding application-level events and associate that with your account to provide customer service. We may also collect and store information locally on your device using mechanisms such as browser web storage and application data caches.
 
-**Miscellaneous**  
-If any portion of this Privacy Policy is deemed unlawful, void or unenforceable by any arbitrator, this Privacy Policy as a whole shall not be deemed unlawful, void or unenforceable, but only that portion of this Privacy Policy that is unlawful, void or unenforceable shall be stricken from this Privacy Policy.  
-The headings contained in this Privacy Policy are for convenience of reference only, are not to be considered a part of this Privacy Policy, and shall not limit or otherwise affect in any way the meaning or interpretation of this Privacy Policy.  
-All covenants, agreements, representations and warranties made in this Privacy Policy, as may be amended by us from time to time, shall survive your acceptance of this Privacy Policy.
+Location Information
 
-This Privacy Policy and the Terms of Use represent the entire understanding and agreement between you and us regarding the subject matter of the same, and supersede all other previous agreements, understandings and/or representations regarding the same.
+If you enable the collection of location information on your device, then we may collect information about your actual location, such as your mobile device’s GPS coordinates. We may also use other technologies to determine your location (such as through the location of nearby Wi-Fi access points or cell towers), or obtain your location information from third parties. 
+
+Phone Numbers
+
+We may collect your phone number in several ways. For example, we may collect your phone number: (i) if you submit your phone number to us through our Services; (ii) by capturing your phone number if you call us; or (iii) if a third party provides your phone number to us. 
+
+Cookies and Anonymous Identifiers
+
+We and third parties use various technologies to collect and store information when you use our Services, including sending cookies, pixel tags or other anonymous identifiers to your device. “Cookies” are pieces of data stored on your computer, mobile phone or other device. A “pixel tag” is a type of technology placed within a website or email for the purpose of tracking activity, which is often used in combination with cookies. Other “anonymous identifiers” are random strings of characters used for the same purposes as cookies, such as with mobile devices where cookie technology is not available. These technologies help us know that you are logged on, provide you with features based on your preferences, understand when you are interacting with our Services, and compile other information regarding use of our Services.
+
+The information collected through these technologies, standing alone, cannot be used to determine your identity. Such information may, however, be combined in a way that makes it become personally identifiable information (i.e., information that can identify you). If this happens, we will treat the combined information as personally identifiable information.
+
+Please note that, in most cases, you can remove or block cookies (such as by using the settings in your browser), but doing so may affect your ability to use our Services. 
+
+The use of tracking technologies by our service providers, technology partners or other third party assets (such as social media) on the Services is not covered by our Privacy Policy. These third parties may use cookies, clear gifs, images, and scripts to help them better manage their content on our Services. We do not have access or control over these technologies.
+
+_**How We Use Information**_
+
+We may make Use of Your Information for various lawful business purposes. Among others, these purposes may include using Your Information to:
+
+  * _Engage in customer support_. For example, we might confirm and complete transactions requested by you, verify information you provide to us and provide you with administrative notices.
+  * _Contact you and provide you with information_. For example, we might provide or contact you through telephone, email, postal or other communications with Service updates, promotional materials, surveys, offers, quotes, personalized information and other information from us or our business partners. 
+  * _Analyze, improve and manage our Services and operations._ For example, we might obtain feedback regarding our Services, understand and anticipate your needs and preferences, better understand your use of our Services, customize and tailor Service content and advertising, improve our marketing and promotional efforts, engage in statistical analysis and provide feedback to our vendors, advertisers and other third parties.
+  * _Resolve problems and disputes, and engage in other legal and security matters_. For example, we may use Your Information to comply with, monitor compliance with and enforce this Privacy Policy, our [Terms of Use](http://www.bargaineering.com/articles/terms-of-use "Terms of Use") and any other applicable agreements and policies, meet other legal and regulatory requirements, and to protect the security and integrity of our Services.
+
+
+
+_**How We Disclose Information**_
+
+General Disclosure of Your Information
+
+We may disclose Your Information:
+
+  * To any person who, in our reasonable judgment, is authorized to receive Your Information as your agent, including as a result of your business dealings with that person (for example, your attorney);
+  * To our third-party vendors so that they may provide support for our internal and business operations, including for the handling of data processing, data verification, data storage, surveys, research, internal marketing, delivery of promotional, marketing and transaction materials, and our Services’ maintenance and security. These companies are authorized to Use Your Information only as necessary to provide these services to us and are contractually obligated to keep Your Information confidential;
+  * To third parties such as insurance providers when you use our Services to request a quote, services, or information from one or more of those third parties (“Requested Service Providers”), such as by clicking “get your quotes” or other similar buttons at the end of a form;
+  * To third parties when you engage in certain activities through our Services that are sponsored by them, such as purchasing products or services offered by a third party, electing to receive information or communications from a third party, or electing to participate in contests, sweepstakes, games or other programs sponsored, in whole or in part, by a third party. When we disclose Your Information to these third parties, Your Information will become subject to the information use and sharing practices of the third party, and the third party will not be restricted by this Privacy Policy with respect to its use and further sharing of Your Information;
+  * To third parties that are interested in contacting you or providing offers to you that may be related to our Services or about products or services you may find of interest; 
+  * As required by law or ordered by a court, regulatory, or administrative agency;
+  * As we deem necessary, in our sole discretion, if we believe that you are violating any applicable law, rule or regulation, or are otherwise interfering with another’s rights or property, including, without limitation, our rights or property;
+  * If requested by authorities in the event of any act of terrorism or instance of local, regional or national emergency;
+  * To enforce our [Terms of Use](http://www.bargaineering.com/articles/terms-of-use "Terms of Use"), this Privacy Policy, and any other applicable agreements and policies;
+  * To enforce or protect our rights;
+  * In connection with a Business Transfer, as defined below (see _Business Transfers_  below); and
+  * To our affiliated companies (i.e., companies under common control or management with us). 
+
+
+
+**If you do not want Your Information shared as described above, then you should not provide us with Your Information.**
+
+Requests for Quotes and Services from Requested Service Providers
+
+As noted above, we may share Your Information with Requested Service Providers when you use our Services to request a quote, services or information from one or more third parties (a “Request”). **IF YOU SUBMIT A REQUEST, REQUESTED SERVICE PROVIDERS MAY CONTACT YOU DIRECTLY WITH QUOTES VIA MAIL, TELEPHONE, TEXT MESSAGE, FAX, EMAIL AND OTHER MEANS OF COMMUNICATION. YOU MAY RECEIVE TELEMARKETING CALLS AS A CONSEQUENCE OF SUBMITTING A REQUEST THROUGH OUR SERVICES, EVEN IF YOU ARE ON THE NATIONAL DO NOT CALL REGISTRY OR ANY OTHER DO NOT CALL REGISTRY.**
+
+If you are matched with Requested Service Providers, you expressly consent to the Requested Service Providers conducting any research necessary to provide you with quotes for your Request. Requested Service Providers may need to share Your Information to conduct such research. As an example, if you request insurance quotes, consumer reports may be ordered in connection with your insurance application. Such reports may provide information that may assist in determining eligibility for insurance and the price you may be charged for insurance. Consumer reports may also be used for updates, renewal or extensions of this insurance. In addition, insurance companies may use third parties in connection with the development of a “insurance score” for you. **If you do not want Requested Service Providers to conduct necessary research to provide you with a quote for your Request, then you should not submit a Request**. 
+
+**Please note that if you submit a Request through our Services and we share Your Information as described above in connection with your Request, you will not have the opportunity to opt out of the disclosure of Your Information in connection with that Request.**
+
+Aggregation and De-Personalization
+
+We may take Your Information and de-indentify it either by combining it with information about other individuals (aggregating Your Information with information about other individuals), or by removing characteristics (such as your name) that make the information personally identifiable to you (de-identifying Your Information). We reserve the right to share, loan, rent, sell, or otherwise disclose such information to third parties at any time, for any lawful purpose, without notice or compensation to you.
+
+Sharing with Friends
+
+If the Services contains any functionality allowing you to send content to a friend, then please be aware that: (a) we may display your email address to your friend; and (b) we may use information you provide about your friend to facilitate the communication and as otherwise set forth in this Privacy Policy.
+
+Sweepstakes
+
+If you are submitting information to us pursuant to a sweepstakes entry, we reserve the right to share, loan, rent, sell or otherwise disclose the information that you submit with third parties at any time, for any lawful purpose without notice or compensation to you. Participation in these sweepstakes is completely voluntary and you therefore have a choice whether or not to disclose Your Information. Please refer to the official rules and privacy policy for each individual sweepstakes for our specific policies regarding information sharing and disclosure pursuant to that sweepstakes entry.
+
+Circumvention of Security Measures
+
+We cannot ensure that Your Information will only be disclosed as described in this Privacy Policy. No method of transmission or method of electronic storage, is 100% secure, and we cannot guarantee absolute security. Additionally, by way of example (without limiting the foregoing), we may be forced to disclose Your Information to the government or third parties under certain circumstances, or third parties may unlawfully intercept or access transmissions or private communications. Therefore, notwithstanding anything to the contrary within this Privacy Policy, our Terms of Use or any other applicable agreement or policy, you use our Services at your own risk and we do not promise or guarantee, and you should not expect, that Your Information will always remain private. In the event that an unauthorized third party compromises our security measures, we will not be responsible for any damages directly or indirectly caused by an unauthorized third party’s ability to view, use or disseminate Your information.
+
+Business Transfers
+
+We specifically and expressly reserve the right to disclose, lease, sell, assign or transfer Your Information collected through our Services, and any of our databases, together with any personally identifiable information contained in such databases, to third parties in connection with a Business Transfer. A “Business Transfer” means a share or asset sale, acquisition, merger, consolidation, reorganization, spin-off, bankruptcy or other corporate change involving us and/or our affiliates, even if the Business Transfer is only being contemplated and regardless of whether the Business Transfer relates to a part or a whole of our business. Nothing in this Privacy Policy is intended to interfere with our ability to transfer all or part of our business, equity, and/or assets (including our Services) to an affiliate or independent third party at any time, for any lawful purpose, without compensation to you. 
+
+_**Children’s Information**_
+
+You must be at least 13 years of age to register with or use certain portions of the Services. The Services are not intended for children under 13 years of age. No one under 13 years of age may provide any personal information to or on the Services. We do not knowingly collect personal information from children under 13. If you believe that we may have any information from or about a child, please contact us at webmaster@bankrate.com.
+
+_**Network Advertising**_
+
+From time to time, we may participate in or use advertising networks, such as third-party advertising servers, advertising agencies, technology vendors and research firms. We may use these third-party advertising networks for marketing, advertising and promotional purposes, as well as to serve advertisements to you. Advertising networks often gather data about consumers who view advertisements to make inferences about a consumer’s interests and preferences, which enables their computers to deliver advertisements directly targeted to the consumer’s specific interests. This practice is often referred to as “online behavioral advertising.” For example, a third-party advertising network might collect the type of Internet browser you use, the type of computer operating system you use, the domain name of a website you visit, whether or not you visit specific pages of a website, the location of your Internet service provider’s presence, the date and time of a visit to a website and other interactions between you and a website. Please see the “Online Behavioral Advertising” subsection of Choices About How We Use and Collect Your Information below to read about how you can prevent certain third-party advertising networks from collecting information about you.
+
+_**User Generated Content**_
+
+We offer publicly accessible blogs and other interactive media through our Services. To request removal of Your Information from our blog or community forum, contact us at webmaster@bankrate.com. In some cases, we may not be able to remove Your Informaion, in which case we will let you know if we are unable to do so and why.
+
+Some comment areas are managed by a third party application that may require you to register to post a comment. We do not have access or control of the information posted to the blog. You will need to contact or login into the third party application if you want the personal information that was posted to the comments section removed. To learn how the third party application uses your information, please review their privacy policy.
+
+You are responsible for any content, including personal information, that you contribute to be published or displayed (“posted”) on our Services, or that you transmit to other users of our Services (collectively, “User Generated Content”). Your User Generated Content is posted on and transmitted to other users of our Services at your own risk. We cannot control the actions of other users of our Services with whom you may choose to share your User Generated Content. We are not responsible for circumvention of any privacy settings or security measures of our Services. As a result, we cannot and do not guarantee that your User Generated Content will not be viewed by unauthorized persons. You understand and acknowledge that, even after removal, copies of your User Generated Content may remain viewable in cached and archived pages, or might have been copied or stored by other Service users. Proper access and use of information provided through our Services, including User Generated Content, is governed by our [Terms of Use](http://www.bargaineering.com/articles/terms-of-use "Terms of Use").
+
+_**Social Media Widgets**_
+
+Our Services may include social media features, such as the Facebook Like button or interactive mini-programs that run on our Services. These features may collect your IP address, which page you are visiting, and may set a cookie to enable the feature to function properly. Your interactions with these features are governed by the privacy policy of the third party providing it.
+
+_**Choices About How We Use and Disclose Your Information**_
+
+We strive to provide you with choices regarding the personal information you provide to us. Below are some mechanisms that provide you with control over certain information:
+
+  * _Cookies_. If you do not wish us to collect cookies, you may set your browser to refuse cookies, or to alert you when cookies are being sent. If you do so, please note that some parts of our Services may then be inaccessible or may not function properly.
+  * _Email Offers from Us._ If you do not wish to receive email offers or newsletters from us, you can opt out of receiving email information from us (other than emails related to the completion of your registration, correction of user data, change of password and other similar communications essential to your transactions through our Services) by using the unsubscribe process at the bottom of the email.
+  * _Online Behavioral Advertising_. Certain third-party advertising networks that deliver behavioral advertising are members of the Network Advertising Initiative (“NAI”). You can prevent NAI member companies from collecting preference data about you by clicking [here](http://www.networkadvertising.org/managing/opt_out.asp) and following the NAI’s directions. _Note that if you opt out through the NAI, you will still receive advertising. In addition, if you opt out through the NAI and later delete your cookies, use a different browser or buy a new computer, you will need to renew your opt out choice._
+
+
+
+_**Information You Disclose to Third Parties**_
+
+You may be presented with an opportunity to receive information and/or marketing offers from third parties in connection with our Services. All information you disclose to such third parties will be subject to the privacy policy and practices of such third parties. We are not responsible for the privacy policies and practices of such third parties and, therefore, you should review the privacy policies and practices of such third parties prior to disclosing information to them. If you later decide that you no longer want to receive communications from a third party, you will need to contact that third party directly.
+
+_**Links to Third-Party Websites**_
+
+Our Services, as well as the email messages sent with respect to our Services, may contain links or access to websites operated by third parties that are beyond our control. For example, if you click to apply for a product such as a credit card through our Services, you may be linked to a third-party website to complete an application. Links or access to third parties from our Services are not an endorsement by us of such third parties, or their websites, applications, products, services, or practices. We are not responsible for the privacy policy, terms and conditions, practices or the content of such third parties. These third-parties may send their own cookies to you and independently collect data. If you visit or access a third-party website, application or other property that is linked or accessed from our Services, we encourage you to read any privacy statements and terms and conditions of that third party before providing any personally identifiable information. If you have a question about the terms and conditions, privacy policy, practices or contents of a third party, please contact the third party directly.
+
+_**Third Party Widgets and Plug-ins**_
+
+Our Services include social media features, such as the Facebook Like button, links to our various social media pages and widgets, such as the Share this button or interactive mini-programs that run on our Services. These features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the feature to function properly. Social media features and widgets are either hosted by a third party or hosted directly through our Services. Your interactions with these features are governed by the privacy policy of the company providing it.
+
+_**Operation of our Services in the United States**_
+
+Our Services are operated in the United States. If you are located in the European Union, Canada or elsewhere outside of the United States, please be aware that any information you provide to us will be transferred to the United States. By using our Services or providing us with Your Information, you consent to this transfer.
+
+_**Changes to this Privacy Policy**_
+
+We reserve the right to update, amend and/or change this Privacy Policy at any time in our sole discretion. Amendments will take effect immediately upon us posting the updated Privacy Policy on our Services. You are encouraged to revisit this Privacy Policy from time to time in order to review any changes that have been made. The date on which this Privacy Policy was last updated will be noted immediately above this Privacy Policy. Your continued access and use of our Services following the posting of any such changes shall automatically be deemed your acceptance of all changes.
+
+_**Contacting Us**_
+
+If you have questions or concerns about our privacy practices or wish to make a request regarding Your Information, please contact us at [webmaster@bankrate.com](mailto:webmaster@bankrate.com). 
+
+**Special Notification for California Residents – Your California Privacy Rights**
+
+Individuals who are residents of California and have provided their personally identifiable information to us may request information regarding our disclosures, if any, of their personally identifiable information to third parties for direct marketing purposes. Such requests must be submitted to us at [webmaster@bankrate.com](mailto:webmaster@bankrate.com) or in writing at:
+
+Bankrate, Inc.
+
+11760 US HWY 1, Suite 200
+
+North Palm Beach, FL 33408
+
+Attention: VP, Customer Service
+
+Fax Number: (561) 625-4540
+
+California privacy rights requests must include the reference “Request for California Privacy Information” on the subject line and in the body of the message and must include the email address or mailing address, as applicable, for us to send our response. This request may be made no more than once per calendar year. We reserve the right not to respond to requests submitted other than to the address specified above.
