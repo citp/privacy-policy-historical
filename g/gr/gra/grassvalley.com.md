@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the grassvalley.com privacy policy that was archived on 2013-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130423172032id_/http%3A//www.grassvalley.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the grassvalley.com privacy policy that was archived on 2013-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131020040451id_/http%3A//www.grassvalley.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Grass Valley
 
@@ -50,7 +50,25 @@ If you do not want Grass Valley USA, LLC to make commercial use of these data, p
 You will be offered an opportunity to express your preference regarding the use and dissemination of information about you. That opportunity may be made available at the time you register on our web site or when you fill out a warranty card. You may always call our customer service units or contact us using the information listed below to share your preferences with us. While the specific preferences offered may vary from region to region across the world due to local law and/or practice, it is Grass Valley USA, LLC's goal to listen and honor our customers' preferences. Your continued trust and confidence depends upon it.
 
   
-Grass Valley USA, LLC websites may contain links to other sites; however, we are not responsible for the content or the privacy practices employed by the other sites. We encourage you to read these other privacy statements.
+
 
   
-This policy is effective January 1, 2001. We may make and post changes to this statement in an effort to ensure you are clearly informed of any changes in our information handling practices.
+Grass Valley USA, LLC websites may contain links to other sites; however, we are not responsible for the content or the privacy practices employed by the other sites. We encourage you to read these other privacy statements.
+
+Grass Valley USA, LLC complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. Grass Valley USA, LLC has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Grass Valley's certification, please visit <http://www.export.gov/safeharbor/>.
+
+Grass Valley has implemented an internal dispute resolution process for Safe Harbor complaints. For disputes that are not resolved through such process, Grass Valley agrees to submit to the jurisdictions of the EU Data Protection Authorities for unresolved disputes involving the personal information of any individual from the EU, as well as to that of the Federal Data Protection and Information Commissioner of Switzerland for unresolved disputes involving the personal information of any individual from Switzerland.
+
+For additional information, please write to us at: 
+
+Privacy Officer — Legal Department  
+Grass Valley USA, LLC  
+3030 NW Aloclek Drive  
+Hillsboro, OR 97124  
+United States of America
+
+  
+You may also email us at: [privacy@grassvalley.com](mailto:privacy@grassvalley.com)
+
+  
+This policy is effective June 21, 2013. We may make and post changes to this statement in an effort to ensure you are clearly informed of any changes in our information handling practices.
