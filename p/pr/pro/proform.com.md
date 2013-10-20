@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the proform.com privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621062618id_/http%3A//www.proform.com/webapp/wcs/stores/servlet/PrivacyPolicy_-1_14201_16002) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the proform.com privacy policy that was archived on 2013-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131021001225id_/http%3A//www.proform.com/webapp/wcs/stores/servlet/PrivacyPolicy_-1_14201_16002) for the most accurate reproduction.*
 
 # Privacy Policy at ProForm.com
 
@@ -98,7 +98,7 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at: 
 
-[www.proform.com](https://web.archive.org/web/20130621062618id_/http%3A//www.proform.com/webapp/wcs/stores/servlet/www.proform.com/)
+[www.proform.com](https://web.archive.org/web/20131021001225id_/http%3A//www.proform.com/webapp/wcs/stores/servlet/www.proform.com/)
 
 c/o Privacy Manager  
 1500 South 1000 West  
