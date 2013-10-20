@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flavorpill.com privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601105014id_/http%3A//beta.flavorpill.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flavorpill.com privacy policy that was archived on 2013-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131020081004id_/http%3A//beta.flavorpill.com/info/privacy) for the most accurate reproduction.*
 
 # Flavorpill
 
