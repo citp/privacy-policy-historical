@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the libertymutual.com privacy policy that was archived on 2013-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130425145756id_/http%3A//www.libertymutualgroup.com/omapps/ContentServer%3Fpagename%3DLMGroup/Views/lmgDisclosure%26cid%3D1138362980102) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the libertymutual.com privacy policy that was archived on 2013-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131021013023id_/http%3A//www.libertymutualgroup.com/omapps/ContentServer%3Fpagename%3DLMGroup/Views/lmgDisclosure%26cid%3D1138362980102) for the most accurate reproduction.*
 
 # Liberty Mutual
 
@@ -108,4 +108,4 @@ Boston, MA 02116
 e-mail: [corporateinfo@libertymutual.com](mailto:corporateinfo@libertymutual.com)
 
   
-Last modified on: May 11, 2012.
+Last modified on: March 05, 2013.
