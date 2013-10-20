@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thefiscaltimes.com privacy policy that was archived on 2013-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130612025753id_/http%3A//www.thefiscaltimes.com/Special-Features/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thefiscaltimes.com privacy policy that was archived on 2013-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131020113642id_/http%3A//www.thefiscaltimes.com/Special-Features/privacy-policy) for the most accurate reproduction.*
 
-# privacy-policy
+# Privacy Policy | The Fiscal Times
 
 Information Collection  
 We collect both personally identifiable information on the Website about you and non-personally identifiable information about you and your visits to the Website.
@@ -73,4 +73,4 @@ Contact Us
 If you have any questions about this Privacy Policy, please contact us at [info@thefiscaltimes.org](mailto:info@thefiscaltimes.org)  
 Back to Table of Contents
 
-Last Updated: _February 01, 2009_
+Last Updated: February 01, 2009
