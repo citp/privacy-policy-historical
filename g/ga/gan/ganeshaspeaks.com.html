@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the ganeshaspeaks.com privacy policy that was archived on 2013-05-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130527173746id_/http%3A//www.ganeshaspeaks.com/privacy-policy.action) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ganeshaspeaks.com privacy policy that was archived on 2013-10-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131020161912id_/http%3A//www.ganeshaspeaks.com/privacy-policy.action) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html dir="ltr" lang="en-US"><head>
     <meta charset="UTF-8">
@@ -10,51 +10,135 @@
 <meta name="robots" content="index, follow, noodp">
 <link rel="canonical" href="http://www.ganeshaspeaks.com/privacy-policy.action">
 
-        
-        <link rel="shortcut icon" type="image/x-icon" href="http://cdnimages.ganeshaspeaks.com/GSIMAGES/gsfavicon.ico">
+            
+            <link rel="shortcut icon" type="image/x-icon" href="http://cdnimages.ganeshaspeaks.com/GSIMAGES/gsfavicon.ico">
     <link rel="profile" href="http://gmpg.org/xfn/11">
-    <link href="http://fonts.googleapis.com/css?family=Convergence|Bree+Serif|PT+Sans+Caption" rel="stylesheet" type="text/css">
-    <link rel="stylesheet" type="text/css" media="all" href="http://cdnimages.ganeshaspeaks.com/CSS4/gs-style-4-15.css">
-    <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script src="http://cdnimages.ganeshaspeaks.com/CSS/gs_common_4_6.js" type="text/javascript"></script>
-    <script>
-    var isMobile = {
-        Android: function() {
-            return (navigator.userAgent.match(/Android/i) != undefined && navigator.userAgent.match(/Android/i) != null &&
-                    navigator.userAgent.match(/Android/i) != '');
-        },
-        BlackBerry: function() {
-            return (navigator.userAgent.match(/BlackBerry/i) != undefined && navigator.userAgent.match(/BlackBerry/i) != null
-                    && navigator.userAgent.match(/BlackBerry/i) != '');
-        },
-        iOS: function() {
-            return (navigator.userAgent.match(/iPhone|iPad|iPod/i) != undefined &&
-                    navigator.userAgent.match(/iPhone|iPad|iPod/i) != null && navigator.userAgent.match(/iPhone|iPad|iPod/i) != '');
-        },
-        Opera: function() {
-            return (navigator.userAgent.match(/Opera Mini/i) != undefined && navigator.userAgent.match(/Opera Mini/i) != null
-                    && navigator.userAgent.match(/Opera Mini/i) != '');
-        },
-        Windows: function() {
-            return (navigator.userAgent.match(/IEMobile/i) != undefined && navigator.userAgent.match(/IEMobile/i) != null &&
-                    navigator.userAgent.match(/IEMobile/i) != '');
-        },
-        any: function() {
-            return (isMobile.Android() || isMobile.BlackBerry() || isMobile.iOS() || isMobile.Opera() || isMobile.Windows());
-        }
-    };
 
-    function goToMobileSite() {
-        try {
-            if (isMobile.any() == true) {
-                var cValue = getCookieValue('usstvw');
-                if (cValue == null || cValue != 'dhks') {
-                    window.location.href = 'http://www.ganeshaspeaks.com/mobile';
-                }
+    <link rel="stylesheet" type="text/css" media="all" href="http://cdnimages.ganeshaspeaks.com/CSS4/gs-style-4-22.css">
+    <script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script src="http://cdnimages.ganeshaspeaks.com/CSS/gs_common_4_6.js" type="text/javascript"></script> 
+    <script>
+        function postAQuestion() {
+            var name = getEleValue("name_field");
+            var email = getEleValue("email_field");
+            var cate = getEleValue("category_field");
+            var problem = getEleValue("problem_field");
+            var year = getEleValue("year_field");
+            var month = getEleValue("month_field");
+            var day = getEleValue("day_field");
+
+            if (name == '' || email == '' || cate == '' || problem == '' || year == '' || month == '' || day == '') {
+                alert('Please provide all data.');
+                return false;
             }
-        } catch(err) {
+            if (validateEmail(email) == false) {
+                alert('Please provide valid email.');
+                return false;
+            }
+            if (isInValidaDOB(parseStringPatch(year), (parseStringPatch(month) - 1), parseStringPatch(day))) {
+                alert('Please provide valid Birth Date.');
+                return false;
+            }
+            var yayaya = 'yayaya';
+            var dob = year + '-' + month + '-' + day;
+            var params = [
+                {name:'txt_submit', value:yayaya},
+                {name:'txt_name', value:name},
+                {name:'txt_email', value:email},
+                {name:'txt_catagory', value:cate},
+                {name:'txt_dob', value:dob},
+                {name:'txt_problem', value:problem}
+            ];
+            callDynamicPage('problem-widget.ajax', 'footer_problem', params, '');
+            return false;
         }
-    }
-   goToMobileSite();
+
+        function parseStringPatch(i) {
+            if (i == '09') {
+                return 9;
+            } else if (i == '08') {
+                return 8;
+            } else {
+                return parseInt(i);
+            }
+        }
+
+        function isInValidaDOB(year, month, day) {
+            var objDate = new Date();
+            objDate.setTime((new Date(year, month, day, 0, 0, 0, 0)).getTime());
+            return (objDate.getFullYear() !== year || (objDate.getMonth()) !== month || objDate.getDate() !== day );
+        }
+
+        var isMobile = {
+            Android: function() {
+                return (navigator.userAgent.match(/Android/i) != undefined && navigator.userAgent.match(/Android/i) != null &&
+                    navigator.userAgent.match(/Android/i) != '');
+            },
+            BlackBerry: function() {
+                return (navigator.userAgent.match(/BlackBerry/i) != undefined && navigator.userAgent.match(/BlackBerry/i) != null
+                    && navigator.userAgent.match(/BlackBerry/i) != '');
+            },
+            iOS: function() {
+                return (navigator.userAgent.match(/iPhone|iPod/i) != undefined &&
+                    navigator.userAgent.match(/iPhone|iPod/i) != null && navigator.userAgent.match(/iPhone|iPod/i) != '');
+            },
+            iPad: function() {
+                return (navigator.userAgent.match(/iPad/i) != undefined &&
+                    navigator.userAgent.match(/iPad/i) != null && navigator.userAgent.match(/iPad/i) != '');
+            },
+            Opera: function() {
+                return (navigator.userAgent.match(/Opera Mini/i) != undefined && navigator.userAgent.match(/Opera Mini/i) != null
+                    && navigator.userAgent.match(/Opera Mini/i) != '');
+            },
+            Windows: function() {
+                return (navigator.userAgent.match(/IEMobile/i) != undefined && navigator.userAgent.match(/IEMobile/i) != null &&
+                    navigator.userAgent.match(/IEMobile/i) != '');
+            },
+            any: function() {
+                return (isMobile.Android() || isMobile.BlackBerry() || isMobile.iOS() || isMobile.Opera() || isMobile.Windows());
+            }
+        };
+
+        function getMobileUrl(url) {
+            var mainPage = "(aries|taurus|gemini|cancer|leo|virgo|libra|scorpio|sagittarius|capricorn|aquarius|pisces).action";
+            var horoPage = "(aries|taurus|gemini|cancer|leo|virgo|libra|scorpio|sagittarius|capricorn|aquarius|pisces)/(aries|taurus|gemini|cancer|leo|virgo|libra|scorpio|sagittarius|capricorn|aquarius|pisces)-(daily|weekly|monthly|yearly)-horoscope.action";
+            var abtPage = "(aries|taurus|gemini|cancer|leo|virgo|libra|scorpio|sagittarius|capricorn|aquarius|pisces)/(aries|taurus|gemini|cancer|leo|virgo|libra|scorpio|sagittarius|capricorn|aquarius|pisces)-(decans|career|romance|zodiac|nature|description|relationship|facts).action";
+            var compPage = "(aries|taurus|gemini|cancer|leo|virgo|libra|scorpio|sagittarius|capricorn|aquarius|pisces)/(aries|taurus|gemini|cancer|leo|virgo|libra|scorpio|sagittarius|capricorn|aquarius|pisces)-(aries|taurus|gemini|cancer|leo|virgo|libra|scorpio|sagittarius|capricorn|aquarius|pisces)-compatibility.action";
+
+            var match = url.match(mainPage);
+            if (match != null) {
+                return "mobile/mobile-" + match[1] + ".action";
+            }
+            var horo = url.match(horoPage);
+            if (horo != null) {
+                return ("mobile/" + horo[1] + "/mobile-" + horo[1] + "-" + horo[3] + "-horoscope.action");
+            }
+            var abt = url.match(abtPage);
+            if (abt != null) {
+                return ("mobile/" + abt[1] + "/mobile-" + abt[1] + "-" + abt[3] + ".action");
+            }
+            var como = url.match(compPage);
+            if (como != null) {
+                return("mobile/" + como[1] + "/" + como[1] + "-" + como[3] + "-compatibility.action");
+            }
+            return("mobile");
+        }
+
+        function goToMobileSite() {
+            try {
+                if (isMobile.iPad() == true && getCookieValue('BA14_ALERT') == null) {
+                    window.location.href = 'http://www.ganeshaspeaks.com/ipad-2014-zodiac-horoscope-book.action';
+                    return;
+                }
+                if (isMobile.any() == true) {
+                    var cValue = getCookieValue('usstvw');
+                    if (cValue == null || cValue != 'dhks') {
+                        window.location.href = 'http://www.ganeshaspeaks.com/' + getMobileUrl(window.location.href);
+                    }
+                }
+            } catch(err) {
+            }
+        }
+        goToMobileSite();
 
         function appMarketPage() {
             var platform = '';
@@ -73,196 +157,160 @@
                 window.location.href = "http://www.ganeshaspeaks.com" + "/2013-app-add.action?plf=" + platform + "&loc=" + window.location;
             }
         }
+
+        function footeAdv(cls) {
+            try {
+                if (cls) {
+                    var ele = getEle('advBelt');
+                    if (ele.style.display == '') {
+                        ele.style.display = 'none';
+                        getEle('showhide').src = "http://cdnimages.ganeshaspeaks.com/GSIMAGES/back-arrow.png";
+                        setCookie('sfadv', 'false', {'domain':'.ganeshaspeaks.com'});
+                    } else {
+                        ele.style.display = '';
+                        getEle('showhide').src = "http://cdnimages.ganeshaspeaks.com/GSIMAGES/pre-arrow.png";
+                        setCookie('sfadv', 'true', {'domain':'.ganeshaspeaks.com'});
+                    }
+                    return;
+                } else if(getCookieValue('sfadv') != null) {
+                    if(getCookieValue('sfadv') == 'false') {
+                        footeAdv(true);
+                    }
+                }
+            } catch(err) {
+                return;
+            }
+        }
     </script>
-    <style>
-    .va-t {
-  vertical-align:top; text-align:center;
-}
-.tp-padding{padding-top:4px; border:none; width:100%;}
-    </style>
+
 </head>
-<body onload="appMarketAlert()">
+<body>
 	<div id="gs_main_inner">
-	<!-- main_container -->
-<div id="gs_main_container">
-<!--Start Header-->
-<div id="gs_header">
-<!-- Partner Logo logc start here -->
-    <div class="gs_logo"><a href="http://www.ganeshaspeaks.com"><img src="http://cdnimages.ganeshaspeaks.com/gslogo.jpg" alt="GaneshaSpeaks.com Logo"></a></div>
-    <div class="gs_search-box">
-    <form role="search" method="get" id="searchform" name="searchform" action="http://www.ganeshaspeaks.com/">
-        <input type="text" name="s" id="s" value="">
-        <input id="searchsubmit" class="signin" type="button" onclick="javascript:searchform.submit();" value="SEARCH" name="button">
-    </form>
-</div>
-<div style="float:right; padding:2px 0px 0px 0px;"><!-- Rightside Promotion --></div>
-<div class="gs_social-icon">
- <a target="_blank" href="https://plus.google.com/b/118075513134330194020/118075513134330194020">
-        <div class="gs_googleplus-icon"></div>
-    </a>
-    <a target="_blank" href="https://www.facebook.com/pages/GaneshaSpeakscom/129217697130349">
-        <div class="gs_fb-icon"></div>
-    </a>
-    <a target="_blank" href="https://twitter.com/GaneshaSpeaks">
-        <div class="gs_tw-icon"></div>
-    </a>
-    <a target="_blank" href="https://itunes.apple.com/in/app/2013-zodiac-horoscope/id569213787?mt=8">
-        <div class="gs_ip-icon"></div>
-    </a>
-    <!-- Site Link Start-->
-<div style="float:right; padding:0px 0px 0px 0px;"><a href="http://www.ganeshaspeaks.com/guj" style="color:#F00; text-decoration:none"><img src="http://cdnimages.ganeshaspeaks.com/GSIMAGES/WEBIMAGES/Guj-Edition-but.png" alt="Ganeshaspeaks.com"></a>
-<a href="http://www.ganeshaspeaks.com/hindi" style="color:#F00; text-decoration:none"><img src="http://cdnimages.ganeshaspeaks.com/GSIMAGES/WEBIMAGES/Hindi-Edition-but.png" alt="Ganeshaspeaks.com"></a>
-</div>
-<!-- Site Link End-->
-</div>
-<div style="width:100%; height:auto; float:left">
+	    <!-- main_container -->
+    <div id="gs_main_container">
+        <!--Start Header-->
+        <div id="gs_header">
+            <!-- Partner Logo logc start here -->
+                            <div class="gs_logo"><a href="http://www.ganeshaspeaks.com"><img src="http://cdnimages.ganeshaspeaks.com/gslogo.jpg" alt="GaneshaSpeaks.com"></a></div>
+                            <div class="gs_search-box">
+                <form role="search" method="get" id="searchform" name="searchform" action="http://www.ganeshaspeaks.com/">
+                    <input type="text" name="s" id="s" value="">
+                    <input id="searchsubmit" class="signin" type="button" onclick="javascript:searchform.submit();" value="SEARCH" name="button">
+                </form>
+            </div>
+            <div style="float:right; padding:2px 0px 0px 0px;"><!-- Rightside Promotion --></div>
+            <div class="gs_social-icon">
+                <a target="_blank" href="https://plus.google.com/b/118075513134330194020/118075513134330194020">
+                    <div class="gs_googleplus-icon"></div>
+                </a>
+                <a target="_blank" href="https://www.facebook.com/pages/GaneshaSpeakscom/129217697130349">
+                    <div class="gs_fb-icon"></div>
+                </a>
+                <a target="_blank" href="https://twitter.com/GaneshaSpeaks">
+                    <div class="gs_tw-icon"></div>
+                </a>
+                <a target="_blank" href="https://play.google.com/store/apps/details?id=com.gsbook2014">
+                    <div class="gs_android-icon"></div>
+                </a>
+                <a target="_blank" href="https://itunes.apple.com/us/app/2014-zodiac-horoscope/id691896927?ls=1&amp;mt=8">
+                    <div class="gs_ip-icon"></div>
+                </a>
+                <!-- Site Link Start-->
+                <div style="float:right; padding:0px 0px 0px 0px;"><a href="http://www.ganeshaspeaks.com/guj" style="color:#F00; text-decoration:none"><img src="http://cdnimages.ganeshaspeaks.com/GSIMAGES/WEBIMAGES/Guj-Edition-but.png" alt="Gujarati Edition"></a>
+                    <a href="http://www.ganeshaspeaks.com/hindi" style="color:#F00; text-decoration:none"><img src="http://cdnimages.ganeshaspeaks.com/GSIMAGES/WEBIMAGES/Hindi-Edition-but.png" alt="Hindi Edition"></a>
+                </div>
+                <!-- Site Link End-->
+            </div>
+            <div style="width:100%; height:auto; float:left">
 
-    <div class="navi-left"><img src="http://cdnimages.ganeshaspeaks.com/CSS4/RESOURCES/navi-left-belt.jpg" width="50" height="114" alt="Ganeshaspeaks.com"></div>
-    <div class="navi-bg">
-        <table class="tp-padding va-t" cellpadding="0" cellspacing="0">
-            <tbody><tr>
-                <td class="icon-bg va-t"><a href="/"><img src="http://cdnimages.ganeshaspeaks.com/CSS4/RESOURCES/blank.png" width="46" height="33" alt="Ganeshaspeaks.com"></a></td>
-                <td class="icon-bg_1 va-t"><a href="/2013-Horoscopes.action"><img src="http://cdnimages.ganeshaspeaks.com/CSS4/RESOURCES/blank.png" width="46" height="33" alt="Ganeshaspeaks.com"></a></td>
-                <td class="icon-bg_2 va-t"><a href="/career.action"><img src="http://cdnimages.ganeshaspeaks.com/CSS4/RESOURCES/blank.png" width="46" height="33" alt="Ganeshaspeaks.com"></a></td>
-                <td class="icon-bg_3 va-t"><a href="/love.action"><img src="http://cdnimages.ganeshaspeaks.com/CSS4/RESOURCES/blank.png" width="46" height="33" alt="Ganeshaspeaks.com"></a></td>
-                <td class="icon-bg_4 va-t"><a href="/money.action"><img src="http://cdnimages.ganeshaspeaks.com/CSS4/RESOURCES/blank.png" width="46" height="33" alt="Ganeshaspeaks.com"></a></td>
-                <td class="icon-bg_5 va-t"><a href="/education.action"><img src="http://cdnimages.ganeshaspeaks.com/CSS4/RESOURCES/blank.png" width="46" height="33" alt="Ganeshaspeaks.com"></a></td>
-                <td class="icon-bg_6 va-t"><a href="/business.action"><img src="http://cdnimages.ganeshaspeaks.com/CSS4/RESOURCES/blank.png" width="46" height="33" alt="Ganeshaspeaks.com"></a></td>
-                <td class="icon-bg_7 va-t"><a href="/personals.action"><img src="http://cdnimages.ganeshaspeaks.com/CSS4/RESOURCES/blank.png" width="46" height="33" alt="Ganeshaspeaks.com"></a></td>
-                <td class="icon-bg_8 va-t"><a href="/property.action"><img src="http://cdnimages.ganeshaspeaks.com/CSS4/RESOURCES/blank.png" width="46" height="33" alt="Ganeshaspeaks.com"></a></td>
-                <td class="icon-bg_9 va-t"><a href="/books.action"><img src="http://cdnimages.ganeshaspeaks.com/CSS4/RESOURCES/blank.png" width="46" height="33" alt="Ganeshaspeaks.com"></a></td>
-                <td class="icon-bg_10 va-t"><a href="/store.action"><img src="http://cdnimages.ganeshaspeaks.com/CSS4/RESOURCES/blank.png" width="46" height="33" alt="Ganeshaspeaks.com"></a></td>
-                <td class="icon-bg_11 va-t"><a href="/blogs.action"><img src="http://cdnimages.ganeshaspeaks.com/CSS4/RESOURCES/blank.png" width="46" height="33" alt="Ganeshaspeaks.com"></a></td>
-            </tr>
-            <tr>
-                <td class="top-navi-txt va-t">
-                    <a href="/">Home</a></td>
-                <td class="top-navi-txt va-t">
-                    <a href="/2013-Horoscopes.action">2013</a></td>
-                <td class="top-navi-txt va-t">
-                    <a href="/career.action">Career</a>
-                </td>
-                <td class="top-navi-txt va-t">
-                    <a href="/love.action">Love</a></td>
-                <td class="top-navi-txt va-t">
-                    <a href="/money.action">Money</a></td>
-                <td class="top-navi-txt va-t">
-                    <a href="/education.action">Education</a></td>
-                <td class="top-navi-txt va-t">
-                    <a href="/business.action">Business</a></td>
-                <td class="top-navi-txt va-t">
-                    <a href="/personals.action">Personal</a></td>
-                <td class="top-navi-txt va-t">
-                    <a href="/property.action">Property</a></td>
-                <td class="top-navi-txt va-t">
-                    <a href="/books.action">Books</a></td>
-                <td class="top-navi-txt va-t">
-                    <a href="/store.action">Store</a></td>
-                <td class="top-navi-txt va-t">
-                    <a href="/blogs.action">Predictions</a></td>
-            </tr>
-        </tbody></table>
-    </div>
-    <div class="navi-right"><img src="http://cdnimages.ganeshaspeaks.com/CSS4/RESOURCES/navi-right-belt.jpg" width="50" height="114" alt="Ganeshaspeaks.com"></div>
-</div>
-<!-- end of navigation -->
-<!-- start of sun sign navigation -->
-<div class="sunsign-belt">
-    <div class="page-title">
-        <h1 class="color23">Privacy Policy</h1>
-        <div style="padding:0 0 0 10px"></div>
-    </div>
-    <div class="sunsign-belt-box">
-        <div class="sunsign-box1"><a href="http://www.ganeshaspeaks.com/aries.action"><img src="http://cdnimages.ganeshaspeaks.com/CSS4/RESOURCES/blank.png" width="46" height="33" title="21st March to 20th April" alt="Ganeshaspeaks.com"></a>
+                <div class="navi-left"><img src="http://cdnimages.ganeshaspeaks.com/CSS4/RESOURCES/navi-left-belt.jpg" width="50" height="114" alt="Ganeshaspeaks.com"></div>
+                <div class="navi-bg">
+                    <table class="tp-padding va-t">
+                        <tbody><tr>
+                            <td class="icon-bg va-t"><a href="/"><img src="http://cdnimages.ganeshaspeaks.com/CSS4/RESOURCES/blank.png" width="46" height="33" alt="Home"></a></td>
+                            <td class="icon-bg_1 va-t"><a href="/2014-Horoscope.action"><img src="http://cdnimages.ganeshaspeaks.com/CSS4/RESOURCES/blank.png" width="46" height="33" alt="2014"></a></td>
+                            <td class="icon-bg_2 va-t"><a href="/career.action"><img src="http://cdnimages.ganeshaspeaks.com/CSS4/RESOURCES/blank.png" width="46" height="33" alt="Career"></a></td>
+                            <td class="icon-bg_3 va-t"><a href="/love.action"><img src="http://cdnimages.ganeshaspeaks.com/CSS4/RESOURCES/blank.png" width="46" height="33" alt="Love"></a></td>
+                            <td class="icon-bg_4 va-t"><a href="/money.action"><img src="http://cdnimages.ganeshaspeaks.com/CSS4/RESOURCES/blank.png" width="46" height="33" alt="Money"></a></td>
+                            <td class="icon-bg_5 va-t"><a href="/education.action"><img src="http://cdnimages.ganeshaspeaks.com/CSS4/RESOURCES/blank.png" width="46" height="33" alt="Education"></a></td>
+                            <td class="icon-bg_6 va-t"><a href="/business.action"><img src="http://cdnimages.ganeshaspeaks.com/CSS4/RESOURCES/blank.png" width="46" height="33" alt="Business"></a></td>
+                            <td class="icon-bg_7 va-t"><a href="/personals.action"><img src="http://cdnimages.ganeshaspeaks.com/CSS4/RESOURCES/blank.png" width="46" height="33" alt="Personal"></a></td>
+                            <td class="icon-bg_8 va-t"><a href="/property.action"><img src="http://cdnimages.ganeshaspeaks.com/CSS4/RESOURCES/blank.png" width="46" height="33" alt="Property"></a></td>
+                            <td class="icon-bg_9 va-t"><a href="/books.action"><img src="http://cdnimages.ganeshaspeaks.com/CSS4/RESOURCES/blank.png" width="46" height="33" alt="Books"></a></td>
+                            <td class="icon-bg_10 va-t"><a href="/store.action"><img src="http://cdnimages.ganeshaspeaks.com/CSS4/RESOURCES/blank.png" width="46" height="33" alt="Store"></a></td>
+                            <td class="icon-bg_11 va-t"><a href="/blogs.action"><img src="http://cdnimages.ganeshaspeaks.com/CSS4/RESOURCES/blank.png" width="46" height="33" alt="Predictions"></a></td>
+                        </tr>
+                        <tr>
+                            <td class="top-navi-txt va-t">
+                                <a href="/">Home</a></td>
+                            <td class="top-navi-txt va-t">
+                                <a href="/2014-Horoscope.action" class="blink">2014</a></td>
+                            <td class="top-navi-txt va-t">
+                                <a href="/career.action">Career</a>
+                            </td>
+                            <td class="top-navi-txt va-t">
+                                <a href="/love.action">Love</a></td>
+                            <td class="top-navi-txt va-t">
+                                <a href="/money.action">Money</a></td>
+                            <td class="top-navi-txt va-t">
+                                <a href="/education.action">Education</a></td>
+                            <td class="top-navi-txt va-t">
+                                <a href="/business.action">Business</a></td>
+                            <td class="top-navi-txt va-t">
+                                <a href="/personals.action">Personal</a></td>
+                            <td class="top-navi-txt va-t">
+                                <a href="/property.action">Property</a></td>
+                            <td class="top-navi-txt va-t">
+                                <a href="/books.action">Books</a></td>
+                            <td class="top-navi-txt va-t">
+                                <a href="/store.action">Store</a></td>
+                            <td class="top-navi-txt va-t">
+                                <a href="/blogs.action">Predictions</a></td>
+                        </tr>
+                    </tbody></table>
+                </div>
+                <div class="navi-right"><img src="http://cdnimages.ganeshaspeaks.com/CSS4/RESOURCES/navi-right-belt.jpg" width="50" height="114" alt="Ganeshaspeaks.com"></div>
+            </div>
+            <!-- end of navigation -->
+            <!-- start of sun sign navigation -->
+            <div class="sunsign-belt">
+                <div class="page-title" style="max-width:none !important; width:60% !important">
+                    <h1 class="color23">Privacy Policy</h1>
+                    <div style="padding:0 0 0 10px"></div>
+                </div>
+                <div class="sunsign-belt-box" style="width:40%; font-size:13px">
 
-            <div class="sunsign-txt">
-                <a href="http://www.ganeshaspeaks.com/aries.action" title="21st March to 20th April">Aries</a>
+                    <table align="right" cellpadding="3" cellspacing="0" style="max-width:500px; width:100%; border:none">
+                        <tbody><tr>
+                            <td class="red v4-sunsign-box">
+                                <a href="http://www.ganeshaspeaks.com/aries.action" title="21st March to 20th April">Aries</a></td>
+                            <td class="color8 v4-sunsign-box">
+                                <a href="http://www.ganeshaspeaks.com/taurus.action" title="21st April to 21st May">Taurus</a></td>
+                            <td class="color14 v4-sunsign-box">
+                                <a href="http://www.ganeshaspeaks.com/gemini.action" title="22nd May to 21st June">Gemini</a></td>
+                            <td class="blue v4-sunsign-box">
+                                <a href="http://www.ganeshaspeaks.com/cancer.action" title="22nd June to 22nd July">Cancer</a></td>
+                            <td class="dark-goldrn v4-sunsign-box">
+                                <a href="http://www.ganeshaspeaks.com/leo.action" title="23rd July to 22nd August">Leo</a></td>
+                            <td class="green v4-sunsign-box-02">
+                                <a href="http://www.ganeshaspeaks.com/virgo.action" title="23rd August to 22nd September">Virgo</a>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td class="color14 v4-sunsign-box-03"> <a href="http://www.ganeshaspeaks.com/libra.action" title="23rd September to 22nd October">Libra</a></td>
+                            <td class="color6 v4-sunsign-box-03"><a href="http://www.ganeshaspeaks.com/scorpio.action" title="23rd October to 22nd November">Scorpio</a></td>
+                            <td class="red v4-sunsign-box-03"><a href="http://www.ganeshaspeaks.com/sagittarius.action" title="23rd November to 21st December">Sagittarius</a></td>
+                            <td class="green v4-sunsign-box-03"><a href="http://www.ganeshaspeaks.com/capricorn.action" title="22nd December to 20th January">Capricorn</a></td>
+                            <td class="color12 v4-sunsign-box-03"><a href="http://www.ganeshaspeaks.com/aquarius.action" title="21st January to 18th February">Aquarius</a></td>
+                            <td class="color11 v4-sunsign-box-04"><a href="http://www.ganeshaspeaks.com/pisces.action" title="19th February to 20th March">Pisces</a></td>
+                        </tr>
+                    </tbody></table>
+                </div>
+                <!-- End of sun sign navigation -->
             </div>
         </div>
-        <div class="sunsign-box2">
-            <a href="http://www.ganeshaspeaks.com/taurus.action"><img src="http://cdnimages.ganeshaspeaks.com/CSS4/RESOURCES/blank.png" width="46" height="33" title="21st April to 21st May" alt="Ganeshaspeaks.com"></a>
-
-            <div class="sunsign-txt">
-                <a href="http://www.ganeshaspeaks.com/taurus.action" title="21st April to 21st May">Taurus</a>
-            </div>
-        </div>
-        <div class="sunsign-box3">
-            <a href="http://www.ganeshaspeaks.com/gemini.action"><img src="http://cdnimages.ganeshaspeaks.com/CSS4/RESOURCES/blank.png" width="46" height="33" title="22nd May to 21st June" alt="Ganeshaspeaks.com"></a>
-
-            <div class="sunsign-txt">
-                <a href="http://www.ganeshaspeaks.com/gemini.action" title="22nd May to 21st June">Gemini</a>
-            </div>
-        </div>
-        <div class="sunsign-box4">
-            <a href="http://www.ganeshaspeaks.com/cancer.action"><img src="http://cdnimages.ganeshaspeaks.com/CSS4/RESOURCES/blank.png" width="46" height="33" title="22nd June to 22nd July" alt="Ganeshaspeaks.com"></a>
-
-            <div class="sunsign-txt">
-                <a href="http://www.ganeshaspeaks.com/cancer.action" title="22nd June to 22nd July">Cancer</a>
-            </div>
-        </div>
-        <div class="sunsign-box5">
-            <a href="http://www.ganeshaspeaks.com/leo.action"><img src="http://cdnimages.ganeshaspeaks.com/CSS4/RESOURCES/blank.png" width="46" height="33" title="23rd July to 22nd August" alt="Ganeshaspeaks.com"></a>
-
-            <div class="sunsign-txt">
-                <a href="http://www.ganeshaspeaks.com/leo.action" title="23rd July to 22nd August">Leo</a>
-            </div>
-        </div>
-        <div class="sunsign-box6">
-            <a href="http://www.ganeshaspeaks.com/virgo.action"><img src="http://cdnimages.ganeshaspeaks.com/CSS4/RESOURCES/blank.png" width="46" height="33" title="23rd August to 22nd September" alt="Ganeshaspeaks.com"></a>
-
-            <div class="sunsign-txt">
-                <a href="http://www.ganeshaspeaks.com/virgo.action" title="23rd August to 22nd September">Virgo</a>
-            </div>
-        </div>
-        <div class="sunsign-box7">
-            <a href="http://www.ganeshaspeaks.com/libra.action"><img src="http://cdnimages.ganeshaspeaks.com/CSS4/RESOURCES/blank.png" width="46" height="33" title="23rd September to 22nd October" alt="Ganeshaspeaks.com"></a>
-
-            <div class="sunsign-txt">
-                <a href="http://www.ganeshaspeaks.com/libra.action" title="23rd September to 22nd October">Libra</a>
-            </div>
-        </div>
-        <div class="sunsign-box8">
-            <a href="http://www.ganeshaspeaks.com/scorpio.action"><img src="http://cdnimages.ganeshaspeaks.com/CSS4/RESOURCES/blank.png" width="46" height="33" title="23rd October to 22nd November" alt="Ganeshaspeaks.com"></a>
-
-            <div class="sunsign-txt">
-                <a href="http://www.ganeshaspeaks.com/scorpio.action" title="23rd October to 22nd November">Scorpio</a>
-            </div>
-        </div>
-        <div class="sunsign-box9">
-            <a href="http://www.ganeshaspeaks.com/sagittarius.action"><img src="http://cdnimages.ganeshaspeaks.com/CSS4/RESOURCES/blank.png" width="46" height="33" title="23rd November to 21st December" alt="Ganeshaspeaks.com"></a>
-
-            <div class="sunsign-txt">
-                <a href="http://www.ganeshaspeaks.com/sagittarius.action" title="23rd November to 21st December">Sagittarius</a>
-            </div>
-        </div>
-
-        <div class="sunsign-box10">
-            <a href="http://www.ganeshaspeaks.com/capricorn.action"><img src="http://cdnimages.ganeshaspeaks.com/CSS4/RESOURCES/blank.png" width="46" height="33" title="22nd December to 20th January" alt="Ganeshaspeaks.com"></a>
-
-            <div class="sunsign-txt">
-                <a href="http://www.ganeshaspeaks.com/capricorn.action" title="22nd December to 20th January">Capricorn</a>
-            </div>
-        </div>
-        <div class="sunsign-box11">
-            <a href="http://www.ganeshaspeaks.com/aquarius.action"><img src="http://cdnimages.ganeshaspeaks.com/CSS4/RESOURCES/blank.png" width="46" height="33" title="21st January to 18th February" alt="Ganeshaspeaks.com"></a>
-
-            <div class="sunsign-txt">
-                <a href="http://www.ganeshaspeaks.com/aquarius.action" title="21st January to 18th February">Aquarius</a>
-            </div>
-        </div>
-        <div class="sunsign-box12">
-            <a href="http://www.ganeshaspeaks.com/pisces.action"><img src="http://cdnimages.ganeshaspeaks.com/CSS4/RESOURCES/blank.png" width="46" height="33" title="19th February to 20th March" alt="Ganeshaspeaks.com"></a>
-
-            <div class="sunsign-txt">
-                <a href="http://www.ganeshaspeaks.com/pisces.action" title="19th February to 20th March">Pisces</a>
-            </div>
-        </div>
-    </div>
-    <!-- End of sun sign navigation -->
-</div>
-</div>
-<!--End Header-->
-<div class="spacer"></div><div id="gs_body_container">
+        <!--End Header-->
+        <div class="spacer"></div><div id="gs_body_container">
 <div class="gs_container_box">
 
 	
@@ -343,54 +391,24 @@ Feel free to contact our Customer Care Executives on predictions@ganeshaspeaks.c
     
 <div class="gs_container_box-new">
   <div class="gs_box_100-new">
-    <style>
-    .hideFlipper {
-        display: none;
-    }
-
-    .showFlipper {
-        display: block;
-        opacity: 0.05;
-        filter: alpha(opacity = 5);
-    }
-</style>
-<script type="text/javascript">
+    <script type="text/javascript">
     function elementFlipper(idPrefix, count) {
         this.idPrefix = idPrefix;
         this.count = count;
-        this.opacity = 1;
         this.elementId = 1;
         this.isTimerOn = true;
         this.timer = null;
-        this.opTimer = null;
         this.doRotate = function() {
             var self = this;
-            if (this.opacity <= 100) {
-                this.opacity = this.opacity + 1;
-                this.opTimer = setTimeout(function() {
-                    self.setOpacity()
-                }, 20);
-            } else {
-                this.timer = setTimeout(function() {
-                    self.nxtElement()
-                }, 3000);
-            }
-        };
-        this.setOpacity = function() {
-            var myElement = document.getElementById(this.idPrefix + '' + this.elementId);
-            if (window.ActiveXObject) {
-                myElement.style.filter = "alpha(opacity=" + 100 + ")";
-            } else {
-                myElement.style.opacity = 100 / 100;
-            }
-            this.doRotate();
+            this.timer = setTimeout(function() {
+                self.nxtElement()
+            }, 3000);
         };
         this.doShow = function() {
             document.getElementById(this.idPrefix + this.elementId).className = 'showFlipper';
             this.doRotate(this.idPrefix + this.elementId);
         };
         this.nxtElement = function() {
-            this.opacity = 1;
             document.getElementById(this.idPrefix + '' + this.elementId).className = 'hideFlipper';
             this.elementId++;
             if (this.elementId > this.count) {
@@ -399,7 +417,6 @@ Feel free to contact our Customer Care Executives on predictions@ganeshaspeaks.c
             this.doShow();
         };
         this.preElement = function() {
-            this.opacity = 1;
             document.getElementById(this.idPrefix + '' + this.elementId).className = 'hideFlipper';
             this.elementId--;
             if (this.elementId < 1) {
@@ -412,7 +429,6 @@ Feel free to contact our Customer Care Executives on predictions@ganeshaspeaks.c
                 document.getElementById(playId).style.display = '';
                 document.getElementById(pauseId).style.display = 'none';
                 this.stopTimer();
-                document.getElementById(this.idPrefix + '' + this.elementId).style.opacity = 1;
             } else {
                 document.getElementById(pauseId).style.display = '';
                 document.getElementById(playId).style.display = 'none';
@@ -422,7 +438,6 @@ Feel free to contact our Customer Care Executives on predictions@ganeshaspeaks.c
         };
         this.stopTimer = function() {
             clearTimeout(this.timer);
-            clearTimeout(this.opTimer);
             this.isTimerOn = false;
         };
         this.nxtEL = function(playId, pauseId) {
@@ -435,14 +450,8 @@ Feel free to contact our Customer Care Executives on predictions@ganeshaspeaks.c
             if (this.elementId > this.count) {
                 this.elementId = 1;
             }
-            this.opacity = 100;
             myElement = document.getElementById(this.idPrefix + '' + this.elementId);
             myElement.className = 'showFlipper';
-            if (window.ActiveXObject) {
-                myElement.style.filter = "alpha(opacity=" + this.opacity + ")";
-            } else {
-                myElement.style.opacity = this.opacity / 100;
-            }
         };
         this.preEL = function(playId, pauseId) {
             document.getElementById(playId).style.display = '';
@@ -456,12 +465,6 @@ Feel free to contact our Customer Care Executives on predictions@ganeshaspeaks.c
             }
             myElement = document.getElementById(this.idPrefix + '' + this.elementId);
             myElement.className = 'showFlipper';
-            this.opacity = 100;
-            if (window.ActiveXObject) {
-                myElement.style.filter = "alpha(opacity=" + this.opacity + ")";
-            } else {
-                myElement.style.opacity = this.opacity / 100;
-            }
         };
     }
 </script>
@@ -473,95 +476,65 @@ Feel free to contact our Customer Care Executives on predictions@ganeshaspeaks.c
 <div class="nrml-text-new-widget">
     <div id="flipper1">
         <div id="flipper_opts">
-                        <div id="ele1" class="showFlipper" style="opacity: 1;">
-                    <h3 class="color11"><a href="http://product.ganeshaspeaks.com/orderForm.action?productId=596&amp;utm_source=Latest-offer-Dec-2012&amp;utm_medium=Website&amp;utm_campaign=Latest-offer-Dec-2012&amp;source=Latestoffer">
-                    2013 Detailed Yearly Report - <span>40% off</span></a>
+                        <div id="ele1" class="showFlipper">
+                    <h3 class="color11"><a href="https://product.ganeshaspeaks.com/orderForm.action?productId=94&amp;utm_source=Latest-offer-Dec-2012&amp;utm_medium=Website&amp;utm_campaign=Latest-offer-Dec-2012&amp;source=Latestoffer">
+                    Janampatri - <span>15% OFF</span></a>
                     </h3>
 
                     <div class="gs_listing_cont_box">
-                        <a href="http://product.ganeshaspeaks.com/orderForm.action?productId=596&amp;utm_source=Latest-offer-Dec-2012&amp;utm_medium=Website&amp;utm_campaign=Latest-offer-Dec-2012&amp;source=Latestoffer"><img src="http://cdnimages.ganeshaspeaks.com/GSPRODUCTS/PRO-IMAGES/2013/80x80/08-2013-yearly-report-detailed-80x80.jpg" alt="2013 Detailed Yearly Report"></a>
-                        <a href="http://product.ganeshaspeaks.com/orderForm.action?productId=596&amp;utm_source=Latest-offer-Dec-2012&amp;utm_medium=Website&amp;utm_campaign=Latest-offer-Dec-2012&amp;source=Latestoffer">Ignorance is bliss, but certainly not always. The 2013 Detailed Yearly Report, a well-researched package of your customised predictions.</a>
+                        <a href="https://product.ganeshaspeaks.com/orderForm.action?productId=94&amp;utm_source=Latest-offer-Dec-2012&amp;utm_medium=Website&amp;utm_campaign=Latest-offer-Dec-2012&amp;source=Latestoffer"><img src="http://cdnimages.ganeshaspeaks.com/NewGs/80x80/Personal-and-Confidence/Janampatri-80x80.jpg" alt="Janampatri"></a>
+                        <a href="https://product.ganeshaspeaks.com/orderForm.action?productId=94&amp;utm_source=Latest-offer-Dec-2012&amp;utm_medium=Website&amp;utm_campaign=Latest-offer-Dec-2012&amp;source=Latestoffer">Your birth time, date and place heavily influence your entire life. Get your Janampatri checked and know how your life path would be.</a>
                     </div>
                 </div>
-                            <div id="ele2" class="hideFlipper" style="opacity:0.0;filter:alpha(opacity=0);">
-                    <h3 class="color11"><a href="http://product.ganeshaspeaks.com/orderForm.action?productId=226&amp;utm_source=Latest-offer-Dec-2012&amp;utm_medium=Website&amp;utm_campaign=Latest-offer-Dec-2012&amp;source=Latestoffer">
-                    Varshfal - <span>25% off</span></a>
+                            <div id="ele2" class="hideFlipper">
+                    <h3 class="color11"><a href="https://product.ganeshaspeaks.com/orderForm.action?productId=9&amp;utm_source=Latest-offer-Dec-2012&amp;utm_medium=Website&amp;utm_campaign=Latest-offer-Dec-2012&amp;source=Latestoffer">
+                    Career Report 10 years - <span>25% OFF-Diwali Offer</span></a>
                     </h3>
 
                     <div class="gs_listing_cont_box">
-                        <a href="http://product.ganeshaspeaks.com/orderForm.action?productId=226&amp;utm_source=Latest-offer-Dec-2012&amp;utm_medium=Website&amp;utm_campaign=Latest-offer-Dec-2012&amp;source=Latestoffer"><img src="http://cdnimages.ganeshaspeaks.com/CELEBRITYASTROLOGERS/Jyothish-Sakuntala/Varshfal/Varshfal.jpg" alt="Varshfal"></a>
-                        <a href="http://product.ganeshaspeaks.com/orderForm.action?productId=226&amp;utm_source=Latest-offer-Dec-2012&amp;utm_medium=Website&amp;utm_campaign=Latest-offer-Dec-2012&amp;source=Latestoffer">This birthday-to-birthday all-round report expounds on the progress you are likely to make on all fronts in your life.</a>
+                        <a href="https://product.ganeshaspeaks.com/orderForm.action?productId=9&amp;utm_source=Latest-offer-Dec-2012&amp;utm_medium=Website&amp;utm_campaign=Latest-offer-Dec-2012&amp;source=Latestoffer"><img src="http://cdnimages.ganeshaspeaks.com/GSPRODUCTS/Career/Career-report/career-report-80x80.jpg" alt="Career Report 10 years"></a>
+                        <a href="https://product.ganeshaspeaks.com/orderForm.action?productId=9&amp;utm_source=Latest-offer-Dec-2012&amp;utm_medium=Website&amp;utm_campaign=Latest-offer-Dec-2012&amp;source=Latestoffer">The Career Report gives you a period-wise, in-depth analysis of your career, and thus guides you on the career path.</a>
                     </div>
                 </div>
-                            <div id="ele3" class="hideFlipper" style="opacity:0.0;filter:alpha(opacity=0);">
-                    <h3 class="color11"><a href="http://product.ganeshaspeaks.com/orderForm.action?productId=248&amp;utm_source=Latest-offer-Dec-2012&amp;utm_medium=Website&amp;utm_campaign=Latest-offer-Dec-2012&amp;source=Latestoffer">
-                    Detailed Life Prediction - <span>25% off</span></a>
+                            <div id="ele3" class="hideFlipper">
+                    <h3 class="color11"><a href="https://product.ganeshaspeaks.com/orderForm.action?productId=82&amp;utm_source=Latest-offer-Dec-2012&amp;utm_medium=Website&amp;utm_campaign=Latest-offer-Dec-2012&amp;source=Latestoffer">
+                    Personal Ask 3 questions - <span>25% OFF</span></a>
                     </h3>
 
                     <div class="gs_listing_cont_box">
-                        <a href="http://product.ganeshaspeaks.com/orderForm.action?productId=248&amp;utm_source=Latest-offer-Dec-2012&amp;utm_medium=Website&amp;utm_campaign=Latest-offer-Dec-2012&amp;source=Latestoffer"><img src="http://cdnimages.ganeshaspeaks.com/CELEBRITYASTROLOGERS/Radha-ballabh/Detailed-Life-Prediction/Detailed-Life-Prediction.jpg" alt="Detailed Life Prediction"></a>
-                        <a href="http://product.ganeshaspeaks.com/orderForm.action?productId=248&amp;utm_source=Latest-offer-Dec-2012&amp;utm_medium=Website&amp;utm_campaign=Latest-offer-Dec-2012&amp;source=Latestoffer">This can function as an ideal long-term handbook for you, as it shall give you an all-round perspective of life, plus a 20-year Dasha analysis.</a>
+                        <a href="https://product.ganeshaspeaks.com/orderForm.action?productId=82&amp;utm_source=Latest-offer-Dec-2012&amp;utm_medium=Website&amp;utm_campaign=Latest-offer-Dec-2012&amp;source=Latestoffer"><img src="http://cdnimages.ganeshaspeaks.com/NewGs/80x80/Personal-and-Confidence/Personal-Ask-3-Questions-80x80.jpg" alt="Personal Ask 3 questions"></a>
+                        <a href="https://product.ganeshaspeaks.com/orderForm.action?productId=82&amp;utm_source=Latest-offer-Dec-2012&amp;utm_medium=Website&amp;utm_campaign=Latest-offer-Dec-2012&amp;source=Latestoffer">Is your personal life no less than a roller-coaster ride? Let Ganesha guide you and help you lead a smooth life.</a>
                     </div>
                 </div>
-                            <div id="ele4" class="hideFlipper" style="opacity:0.0;filter:alpha(opacity=0);">
-                    <h3 class="color11"><a href="http://product.ganeshaspeaks.com/orderForm.action?productId=595&amp;utm_source=Latest-offer-Dec-2012&amp;utm_medium=Website&amp;utm_campaign=Latest-offer-Dec-2012&amp;source=Latestoffer">
-                    2013 Yearly Report - <span>40% off</span></a>
+                            <div id="ele4" class="hideFlipper">
+                    <h3 class="color11"><a href="https://product.ganeshaspeaks.com/orderForm.action?productId=720&amp;utm_source=Latest-offer-Dec-2012&amp;utm_medium=Website&amp;utm_campaign=Latest-offer-Dec-2012&amp;source=Latestoffer">
+                    Love and Romance / Relationship - for 1 year - <span>25% OFF</span></a>
                     </h3>
 
                     <div class="gs_listing_cont_box">
-                        <a href="http://product.ganeshaspeaks.com/orderForm.action?productId=595&amp;utm_source=Latest-offer-Dec-2012&amp;utm_medium=Website&amp;utm_campaign=Latest-offer-Dec-2012&amp;source=Latestoffer"><img src="http://cdnimages.ganeshaspeaks.com/GSPRODUCTS/PRO-IMAGES/2013/80x80/07-2013-yearly-report-80x80.jpg" alt="2013 Yearly Report"></a>
-                        <a href="http://product.ganeshaspeaks.com/orderForm.action?productId=595&amp;utm_source=Latest-offer-Dec-2012&amp;utm_medium=Website&amp;utm_campaign=Latest-offer-Dec-2012&amp;source=Latestoffer">A comprehensive report of your life in the coming year. Know the upcoming opportunities and challenges envisaged for you in 2013.</a>
+                        <a href="https://product.ganeshaspeaks.com/orderForm.action?productId=720&amp;utm_source=Latest-offer-Dec-2012&amp;utm_medium=Website&amp;utm_campaign=Latest-offer-Dec-2012&amp;source=Latestoffer"><img src="http://cdnimages.ganeshaspeaks.com/CELEBRITYASTROLOGERS/Sundeep-kataria/Love-and-Romance/Love-&amp;-Romance-Report-for-5-Years-80X80.jpg" alt="Love and Romance / Relationship - for 1 year"></a>
+                        <a href="https://product.ganeshaspeaks.com/orderForm.action?productId=720&amp;utm_source=Latest-offer-Dec-2012&amp;utm_medium=Website&amp;utm_campaign=Latest-offer-Dec-2012&amp;source=Latestoffer">What will be your love life in the next one year?</a>
                     </div>
                 </div>
-                            <div id="ele5" class="hideFlipper" style="opacity:0.0;filter:alpha(opacity=0);">
-                    <h3 class="color11"><a href="http://product.ganeshaspeaks.com/orderForm.action?productId=82&amp;utm_source=Latest-offer-Dec-2012&amp;utm_medium=Website&amp;utm_campaign=Latest-offer-Dec-2012&amp;source=Latestoffer">
-                    Personal Ask 3 questions - <span>10% off</span></a>
+                            <div id="ele5" class="hideFlipper">
+                    <h3 class="color11"><a href="https://product.ganeshaspeaks.com/orderForm.action?productId=106&amp;utm_source=Latest-offer-Dec-2012&amp;utm_medium=Website&amp;utm_campaign=Latest-offer-Dec-2012&amp;source=Latestoffer">
+                    Ask 3 Question - <span>25% OFF</span></a>
                     </h3>
 
                     <div class="gs_listing_cont_box">
-                        <a href="http://product.ganeshaspeaks.com/orderForm.action?productId=82&amp;utm_source=Latest-offer-Dec-2012&amp;utm_medium=Website&amp;utm_campaign=Latest-offer-Dec-2012&amp;source=Latestoffer"><img src="http://cdnimages.ganeshaspeaks.com/GSPRODUCTS/PRO-IMAGES/Personal/Personal 80x80/Personal-Ask-3-question80x80.jpg" alt="Personal Ask 3 questions"></a>
-                        <a href="http://product.ganeshaspeaks.com/orderForm.action?productId=82&amp;utm_source=Latest-offer-Dec-2012&amp;utm_medium=Website&amp;utm_campaign=Latest-offer-Dec-2012&amp;source=Latestoffer">Is your personal life no less than a roller-coaster ride? Let Ganesha guide you and help you lead a smooth life.</a>
-                    </div>
-                </div>
-                            <div id="ele6" class="hideFlipper" style="opacity:0.0;filter:alpha(opacity=0);">
-                    <h3 class="color11"><a href="http://product.ganeshaspeaks.com/orderForm.action?productId=222&amp;utm_source=Latest-offer-Dec-2012&amp;utm_medium=Website&amp;utm_campaign=Latest-offer-Dec-2012&amp;source=Latestoffer">
-                    Horoscope Analysis - <span>25% OFF</span></a>
-                    </h3>
-
-                    <div class="gs_listing_cont_box">
-                        <a href="http://product.ganeshaspeaks.com/orderForm.action?productId=222&amp;utm_source=Latest-offer-Dec-2012&amp;utm_medium=Website&amp;utm_campaign=Latest-offer-Dec-2012&amp;source=Latestoffer"><img src="http://cdnimages.ganeshaspeaks.com/CELEBRITYASTROLOGERS/Jyothish-Sakuntala/Horoscope-Analysis/Horoscope-Analysis.jpg" alt="Horoscope Analysis"></a>
-                        <a href="http://product.ganeshaspeaks.com/orderForm.action?productId=222&amp;utm_source=Latest-offer-Dec-2012&amp;utm_medium=Website&amp;utm_campaign=Latest-offer-Dec-2012&amp;source=Latestoffer">Find out what's in store for you in every sphere of life with the help of this report, and get the right guidance to maximise your success and happiness.</a>
-                    </div>
-                </div>
-                            <div id="ele7" class="hideFlipper" style="opacity:0.0;filter:alpha(opacity=0);">
-                    <h3 class="color11"><a href="http://product.ganeshaspeaks.com/orderForm.action?productId=91&amp;utm_source=Latest-offer-Dec-2012&amp;utm_medium=Website&amp;utm_campaign=Latest-offer-Dec-2012&amp;source=Latestoffer">
-                    Child birth related problems - <span>15% off</span></a>
-                    </h3>
-
-                    <div class="gs_listing_cont_box">
-                        <a href="http://product.ganeshaspeaks.com/orderForm.action?productId=91&amp;utm_source=Latest-offer-Dec-2012&amp;utm_medium=Website&amp;utm_campaign=Latest-offer-Dec-2012&amp;source=Latestoffer"><img src="http://cdnimages.ganeshaspeaks.com/GSPRODUCTS/PRO-IMAGES/Personal/Personal 80x80/Personal-Child-birth-related-problems80x80.jpg" alt="Child birth related problems"></a>
-                        <a href="http://product.ganeshaspeaks.com/orderForm.action?productId=91&amp;utm_source=Latest-offer-Dec-2012&amp;utm_medium=Website&amp;utm_campaign=Latest-offer-Dec-2012&amp;source=Latestoffer">Are child birth related problems becoming bothersome for your marital life? Feel free to talk about it to Ganesha and find solutions.</a>
-                    </div>
-                </div>
-                            <div id="ele8" class="hideFlipper" style="opacity:0.0;filter:alpha(opacity=0);">
-                    <h3 class="color11"><a href="http://product.ganeshaspeaks.com/orderForm.action?productId=305&amp;utm_source=Latest-offer-Dec-2012&amp;utm_medium=Website&amp;utm_campaign=Latest-offer-Dec-2012&amp;source=Latestoffer">
-                    Love &amp; Marriage Prospects - <span>25% off</span></a>
-                    </h3>
-
-                    <div class="gs_listing_cont_box">
-                        <a href="http://product.ganeshaspeaks.com/orderForm.action?productId=305&amp;utm_source=Latest-offer-Dec-2012&amp;utm_medium=Website&amp;utm_campaign=Latest-offer-Dec-2012&amp;source=Latestoffer"><img src="http://cdnimages.ganeshaspeaks.com/CELEBRITYASTROLOGERS/COMMON-CELEBS/love-and-marriage-Prospects/Love-Marriage-Prospects80.jpg" alt="Love &amp; Marriage Prospects"></a>
-                        <a href="http://product.ganeshaspeaks.com/orderForm.action?productId=305&amp;utm_source=Latest-offer-Dec-2012&amp;utm_medium=Website&amp;utm_campaign=Latest-offer-Dec-2012&amp;source=Latestoffer">Get tailor-made astrological answers to all your marriage-related doubts and problems.</a>
+                        <a href="https://product.ganeshaspeaks.com/orderForm.action?productId=106&amp;utm_source=Latest-offer-Dec-2012&amp;utm_medium=Website&amp;utm_campaign=Latest-offer-Dec-2012&amp;source=Latestoffer"><img src="http://cdnimages.ganeshaspeaks.com/CELEBRITYASTROLOGERS/COMMON-CELEBS/Ask-3-Question/Ask-3-Question80.jpg" alt="Ask 3 Question"></a>
+                        <a href="https://product.ganeshaspeaks.com/orderForm.action?productId=106&amp;utm_source=Latest-offer-Dec-2012&amp;utm_medium=Website&amp;utm_campaign=Latest-offer-Dec-2012&amp;source=Latestoffer">Get your three most prickly queries addressed by our expert celebrity astrologers to ease and enhance your life.</a>
                     </div>
                 </div>
                     </div>
                 <script type="text/javascript">
-            var flipper = new elementFlipper('ele', 8);
-            flipper.doRotate();
-        </script>
-        <div id="flipper_cont" style="text-align:center; padding:10px; color:#030; margin:0 auto; width:100%; float:left">
-            <div style="width:85%; margin:0 auto; font-size:15px; padding:3px 0;"><a href="javascript:flipper.preEL('f1_play', 'f1_pause')" style="font-size:14px; color:#872E8C">Previous</a>&nbsp;&nbsp;&nbsp;&nbsp;<a id="f1_play" href="javascript:flipper.startStopTimer('f1_play', 'f1_pause')" style="font-size:14px; color:#872E8C;display:none;">Play</a><a id="f1_pause" href="javascript:flipper.startStopTimer('f1_play','f1_pause')" style="font-size:14px; color:#872E8C;">Pause</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="javascript:flipper.nxtEL('f1_play', 'f1_pause')" style="font-size:14px; color:#872E8C">Next</a></div>
-        </div>
-        </div>
+                var flipper = new elementFlipper('ele', 5);
+                flipper.doRotate();
+            </script>
+            <div id="flipper_cont" style="text-align:center; padding:10px; color:#030; margin:0 auto; width:100%; float:left">
+                <div style="width:85%; margin:0 auto; font-size:15px; padding:3px 0;"><a href="javascript:flipper.preEL('f1_play', 'f1_pause')" style="font-size:14px; color:#872E8C">Previous</a>&nbsp;&nbsp;&nbsp;&nbsp;<a id="f1_play" href="javascript:flipper.startStopTimer('f1_play', 'f1_pause')" style="font-size:14px; color:#872E8C;display:none;">Play</a><a id="f1_pause" href="javascript:flipper.startStopTimer('f1_play','f1_pause')" style="font-size:14px; color:#872E8C;">Pause</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="javascript:flipper.nxtEL('f1_play', 'f1_pause')" style="font-size:14px; color:#872E8C">Next</a></div>
+            </div>
+            </div>
     <div class="gs_more_nobdr-new"><h2 class="color11"><a href="http://www.ganeshaspeaks.com/latest-offers.action">See all offers</a>
     </h2></div>
 </div>      </div>
@@ -590,13 +563,14 @@ Feel free to contact our Customer Care Executives on predictions@ganeshaspeaks.c
 <div class="title-text-new"><h2 class="color3">Testimonials</h2></div>
  </div>
 <div class="nrml-text-new">
-	<div class="gs_text_box">This finance report came as my savior for my small business. They gave complete analysis and predictions for my financial conditions. All the good and bad phases for my year were predicted and remedies to them were also given. This finance report is an amazing guide to...</div>
-        <div class="gs_text_box_01-new-right">Samir, Bangalore</div>
+	<div class="gs_text_box">This report has provided my business analysis more accurate than my accounts!!He he!!on the serious note I can say that this report helped me a lot to take certain decision well in advance. Thanks to the...</div>
+        <div class="gs_text_box_01-new-right">Mr. Ranka,  Mumbai</div>
 </div>  </div>
 </div>
 
-</div>	<div class="spacer"></div>
-  <div class="gs_container_box-new">
+</div>	</div>
+<div class="spacer"></div>
+<div class="gs_container_box-new-04">
     <!-- FOR FOOTER -->
 <div class="gs_box_33-new">
     <div class="img-box-icon-our-predictions"></div>
@@ -607,28 +581,27 @@ Feel free to contact our Customer Care Executives on predictions@ganeshaspeaks.c
     <div class="gs_txt_box_2-new">
 	<ul>
     		<li>
-                    <a href="http://www.ganeshaspeaks.com/blog_Roland_Garros_2013_Day2.action">                    Roland Garros Tennis Tournament 2013 - Day 2 Predictions</a>
+                    <a href="http://www.ganeshaspeaks.com/blog_COMMODITIES_PREDICTIONS_19_OCTOBER_2013.action">                    19th October 2013, Predictions - Silver, Gold and Crude Oil Market</a>
 		</li>
             		<li>
-                    <a href="http://www.ganeshaspeaks.com/blog_Roland_Garros_2013_Day1.action">                    Roland Garros Tennis Tournament 2013 - Day 1 Predictions</a>
+                    <a href="http://www.ganeshaspeaks.com/blog_IND_VS_AUS_2013_3RD_ODI.action">                    India vs Australia, 3rd ODI</a>
 		</li>
             		<li>
-                    <a href="http://www.ganeshaspeaks.com/blog_NIFTY_PREDICTIONS_SENSEX_NIFTY_2013_MARKET_SENSEX_27_MAY_2013.action">                    Jupiter transit - Its affect on the Stock Market luck of Moon Signs Aries, Taurus and Gemini</a>
+                    <a href="http://www.ganeshaspeaks.com/blog_NIFTY_COMMODITIES_PREDICTIONS_18_OCTOBER_2013.action">                    18th October 2013, Predictions - NIFTY and Silver, Gold and Crude Oil Market</a>
 		</li>
             		<li>
-                    <a href="http://www.ganeshaspeaks.com/blog_NIFTY_PREDICTIONS_SENSEX_NIFTY_2013_MARKET_SENSEX_24_MAY_2013.action">                    24th May, 2013, Nifty Predictions, Sensex Nifty, 2013 Market Sensex</a>
+                    <a href="http://www.ganeshaspeaks.com/blog_LUNAR_ECLIPSE_ON_OCTOBER_18_2013.action">                    Lunar Eclipse on October 18, 2013</a>
 		</li>
             		<li>
-                    <a href="http://www.ganeshaspeaks.com/blog_SHANI_JAYANTI_2013.action">                    Shani Jayanti</a>
+                    <a href="http://www.ganeshaspeaks.com/blog_NANDAN_NILEKANI_IN_POLITICS.action">                    Will Nandan Nilekani make a meaningful impact in Indian politics?</a>
 		</li>
             		<li>
-                    <a href="http://www.ganeshaspeaks.com/blog_NIFTY_PREDICTIONS_SENSEX_NIFTY_2013_MARKET_SENSEX_23_MAY_2013.action">                    23rd May, 2013, Nifty Predictions, Sensex Nifty, 2013 Market Sensex</a>
+                    <a href="http://www.ganeshaspeaks.com/blog_AAP_IN_DELHI_ASSEMBLY_ELECTIONS_2013.action">                    Will AAP spoil Congress and BJP's Party?</a>
 		</li>
             	</ul>
     </div>
     </div>
-</div> 
-    <!-- FOR FOOTER -->
+</div>    <!-- FOR FOOTER -->
 <div class="gs_box_33-new">
     <div class="img-box-icon-articles"></div>
 <div class="text-box-new">
@@ -638,22 +611,22 @@ Feel free to contact our Customer Care Executives on predictions@ganeshaspeaks.c
     <div class="gs_txt_box_2-new">
 	<ul>
     		<li>
-                    <a href="http://www.ganeshaspeaks.com/article/IPL-Final.action">                    Chennai Super Kings Vs Mumbai Indians, Final Match, IPL 6</a>
+                    <a href="http://www.ganeshaspeaks.com/article/TRANSITING-MARS-ENTERS-LEO.action">                    Mars enters Leo – How this transit will affect you</a>
 		</li>
             		<li>
-                    <a href="http://www.ganeshaspeaks.com/article/JUPITER-TRANSIT-THROUGH-GEMINI.action">                    Jupiter Transit through Gemini - Effects on Moon Signs and Ascendants</a>
+                    <a href="http://www.ganeshaspeaks.com/article/MISS-AMERICA-2013-NINA-DAVULURI.action">                    What do stars say about Miss America 2013 Nina Davuluri?</a>
 		</li>
             		<li>
-                    <a href="http://www.ganeshaspeaks.com/article/IPL-qualifier-2.action">                    Mumbai Indians Vs Rajasthan Royals, Qualifier 2, IPL 6</a>
+                    <a href="http://www.ganeshaspeaks.com/article/PITRUDOSHA.action">                    What is Pitrudosha?</a>
 		</li>
             		<li>
-                    <a href="http://www.ganeshaspeaks.com/article/IPL-eliminator-match.action">                    Eliminator Match, IPL 6 - Sunrisers Hyderabad Vs Rajasthan Royals</a>
+                    <a href="http://www.ganeshaspeaks.com/article/PROPERTY-PROSPECTS-IN-A-HOROSCOPE.action">                    Know your property prospects through your Kundali</a>
 		</li>
             		<li>
-                    <a href="http://www.ganeshaspeaks.com/article/IPL-qualifier-1.action">                    Chennai Super Kings Vs Mumbai Indians, Qualifier 1, IPL6</a>
+                    <a href="http://www.ganeshaspeaks.com/article/GANESHA-12-NAMES.action">                    Lord Ganesha's Names</a>
 		</li>
             		<li>
-                    <a href="http://www.ganeshaspeaks.com/article/IPL-match-72.action">                    Sunrisers Hyderabad Vs Kolkata Knight Riders, 72nd Match, IPL 6</a>
+                    <a href="http://www.ganeshaspeaks.com/article/GANESH-CHATURTHI.action">                    Ganesh Chaturthi</a>
 		</li>
             	</ul>
     </div>
@@ -668,31 +641,31 @@ Feel free to contact our Customer Care Executives on predictions@ganeshaspeaks.c
     <div class="gs_txt_box_2-new">
 	<ul>
     		<li>
-                    <a href="http://www.ganeshaspeaks.com/astro-fun/shopping-and-zodiac-signs.action">                    SHOPPING AND ZODIAC SIGNS</a>
+                    <a href="http://www.ganeshaspeaks.com/astro-fun/sun-sign-navaratri-celebrations.action">                    Know your Garba style this Navaratri!</a>
 		</li>
             		<li>
-                    <a href="http://www.ganeshaspeaks.com/astro-fun/dieting-by-sign.action">                    Dieting by Sign - Find how each Sun Sign approaches dieting</a>
+                    <a href="http://www.ganeshaspeaks.com/astro-fun/sun-sign-jewellery-sensibilities.action">                    Your Sun Sign can give you a sneak peek into your jewellery sensibilities...Read on!</a>
 		</li>
             		<li>
-                    <a href="http://www.ganeshaspeaks.com/astro-fun/zodiac-lifestyles.action">                    ZODIAC LIFESTYLES</a>
+                    <a href="http://www.ganeshaspeaks.com/astro-fun/sun-sign-coffee-preferences.action">                    What's his favourite coffee cuppa? Trust Sun Signs to bring you the right clues...</a>
 		</li>
             		<li>
-                    <a href="http://www.ganeshaspeaks.com/astro-fun/women-in-love-zodiac-signs.action">                    Women In Love - Sunsign, Horoscope For Women, Sun Signs In Love</a>
+                    <a href="http://www.ganeshaspeaks.com/astro-fun/help-your-child-with-their-homework.action">                    Trouble with your kid's homework? Take cues from their Sun Sign!</a>
 		</li>
             		<li>
-                    <a href="http://www.ganeshaspeaks.com/astro-fun/men-in-love.action">                    Men in Love - Sunsign, Love Horoscope For Men, Sun Sign Men In Love</a>
+                    <a href="http://www.ganeshaspeaks.com/astro-fun/sun-signs-celebrate.action">                    How do various Zodiac Signs celebrate New Year's Eve</a>
 		</li>
             		<li>
-                    <a href="http://www.ganeshaspeaks.com/astro-fun/proposing-tips-by-sun-signs.action">                    How To Propose - Marriage Proposal Ideas, How To Propose Marriage, Propose Love</a>
+                    <a href="http://www.ganeshaspeaks.com/astro-fun/interior-design-zodiac-signs.action">                    Interior Design Preferences of all the Zodiac Signs</a>
 		</li>
             	</ul>
     </div>
     </div>
-</div>    </div>
+</div></div>
 <!--Gs footer-->
-    <div id="gs_footer">
-            <!-- Partner Footer logic start here -->
-        <div class="gs_footer_navi-new">
+<div id="gs_footer">
+    <!-- Partner Footer logic start here -->
+    <div class="gs_footer_navi-new">
   <div class="footer-left"><img src="http://cdnimages.ganeshaspeaks.com/CSS4/RESOURCES/footer_left_img.jpg" width="101" height="94" alt="Ganeshaspeaks"></div>
   <div class="footer-bg"><a href="/">Home</a> | <a href="http://www.ganeshaspeaks.com/about-ganeshaspeaks.action">About us</a> | <a href="http://www.ganeshaspeaks.com/contact-ganeshaspeaks.action">Contact us</a> |<a href="http://www.ganeshaspeaks.com/careers.action"> Careers </a> | <a href="http://www.ganeshaspeaks.com/customer-care.action">Customer care</a> | <a href="http://www.ganeshaspeaks.com/faq.action">Faq</a> | <a href="http://www.ganeshaspeaks.com/partners.action"> Partners </a> |
                 <a href="http://www.ganeshaspeaks.com/privacy-policy.action"> Privacy Policy</a> | <a href="http://www.ganeshaspeaks.com/security.action">Security</a> | <a href="http://www.ganeshaspeaks.com/team-astrologers.action">The Team</a> | <a href="http://www.ganeshaspeaks.com/terms-of-service.action">Terms of Service</a> | <a href="http://www.ganeshaspeaks.com/sitemap.action">Sitemap</a>| <a href="http://www.drhealth.md/" target="_blank">Health</a><br>
@@ -702,19 +675,8 @@ Feel free to contact our Customer Care Executives on predictions@ganeshaspeaks.c
 </div>
 <br>
 <br>
-<div class="footer_keyword_box-new">
-<div style="font-size:16px; padding:0 0 10px 0">Payment Options:</div>
-<img src="http://cdnimages.ganeshaspeaks.com/GSIMAGES/payment-images/Mastercard.jpg" width="70" height="35" alt="Mastercard">
-<img src="http://cdnimages.ganeshaspeaks.com/GSIMAGES/payment-images/visa.jpg" width="70" height="35" alt="visa">
-<img src="http://cdnimages.ganeshaspeaks.com/GSIMAGES/payment-images/paypal.jpg" width="70" height="35" alt="paypal">
-<img src="http://cdnimages.ganeshaspeaks.com/GSIMAGES/payment-images/American-Express.jpg" width="70" height="35" alt="American-Express">
-<img src="http://cdnimages.ganeshaspeaks.com/GSIMAGES/payment-images/Citibank-E-Cards.jpg" width="70" height="35" alt="Citibank-E-Cards">
-<img src="http://cdnimages.ganeshaspeaks.com/GSIMAGES/payment-images/Diners-Club-International.jpg" width="70" height="35" alt="Diners-Club-International">
-<img src="http://cdnimages.ganeshaspeaks.com/GSIMAGES/payment-images/JCB-Cards.jpg" width="70" height="35" alt="JCB-Cards">
-<img src="http://cdnimages.ganeshaspeaks.com/GSIMAGES/payment-images/Net-Banking.jpg" width="70" height="35" alt="Net-Banking">
-<img src="http://cdnimages.ganeshaspeaks.com/GSIMAGES/payment-images/Cheque-Demand-Draft.jpg" width="70" height="35" alt="Cheque-Demand-Draft">
-<img src="http://cdnimages.ganeshaspeaks.com/GSIMAGES/payment-images/Cash-on-delivery.jpg" width="70" height="35" alt="Cash-on-delivery">
-<img src="http://cdnimages.ganeshaspeaks.com/GSIMAGES/payment-images/Pay-By-Cash.jpg" width="70" height="35" alt="Pay-By-Cash">
+<div class="footer_keyword_box-new" style="height:50px">
+
 </div>
 <br>
 <br>
@@ -734,57 +696,78 @@ Feel free to contact our Customer Care Executives on predictions@ganeshaspeaks.c
         href="http://www.ganeshaspeaks.com/article/2013-Pisces-Horoscope.action">2013 Pisces Horoscope</a>--></div>
 <br>
 
-        <div class="footer_keyword_box"></div>
-    </div>
+    <div class="footer_keyword_box" style="height:50px"></div>
 </div>
 </div>
 </div>
+<div style="width:850px; height:auto; margin:0 auto" class="footer-fixdbelt">
+    <div id="footer_problem" style="width:850px; height:auto; position:fixed; padding:3px 10px 5px 10px; bottom:8px; background:url(http://images.ganeshaspeaks.com/GS-V4/images/homewidgetbg.jpg) center -47px repeat-x #295635; z-index:99; margin:0 auto;text-align:center; -webkit-border-radius: 8px;-moz-border-radius: 8px;border-radius: 8px;"></div>
+</div>
+<script type="text/javascript">
+	callDynamicPage('/problem-widget.ajax', 'footer_problem');
+</script>
 
 <!-- Quantcast Tag -->
 <script type="text/javascript">
-var _qevents = _qevents || [];
+    var _qevents = _qevents || [];
 
-(function() {
-var elem = document.createElement('script');
-elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
-elem.async = true;
-elem.type = "text/javascript";
-var scpt = document.getElementsByTagName('script')[0];
-scpt.parentNode.insertBefore(elem, scpt);
-})();
+    (function () {
+        var elem = document.createElement('script');
+        elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+        elem.async = true;
+        elem.type = "text/javascript";
+        var scpt = document.getElementsByTagName('script')[0];
+        scpt.parentNode.insertBefore(elem, scpt);
+    })();
 
-_qevents.push({
-qacct:"p-e9t_6h75JCj_o"
-});
+    _qevents.push({
+        qacct:"p-e9t_6h75JCj_o"
+    });
 </script>
-
 <noscript>
-<div style="display:none;">
-<img src="//pixel.quantserve.com/pixel/p-e9t_6h75JCj_o.gif"  height="1" width="1" alt="Quantcast"/>
-</div>
+    <div style="display:none;">
+        <img src="//pixel.quantserve.com/pixel/p-e9t_6h75JCj_o.gif" height="1" width="1" alt="Quantcast"/>
+    </div>
 </noscript>
 <!-- End Quantcast tag -->
 <script type="text/javascript">
-var _gaq = _gaq || [];
-_gaq.push(['_setAccount', 'UA-182520-1']);
-_gaq.push(['_setDomainName', '.ganeshaspeaks.com']);
-_gaq.push(['_trackPageview']);
-(function() {
-var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-})();
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-182520-1']);
+    _gaq.push(['_setDomainName', '.ganeshaspeaks.com']);
+    _gaq.push(['_trackPageview']);
+    (function () {
+        var ga = document.createElement('script');
+        ga.type = 'text/javascript';
+        ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0];
+        s.parentNode.insertBefore(ga, s);
+    })();
 </script>
 
 
-
+<!-- Begin comScore Tag -->
+<script>
+    var _comscore = _comscore || [];
+    _comscore.push({ c1:"2", c2:"16958432" });
+    (function () {
+        var s = document.createElement("script"), el = document.getElementsByTagName("script")[0];
+        s.async = true;
+        s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+        el.parentNode.insertBefore(s, el);
+    })();
+</script>
+<noscript>
+    <img src="http://b.scorecardresearch.com/p?c1=2&c2=16958432&cv=2.0&cj=1"/>
+</noscript>
+<!-- End comScore Tag -->
 
 
 
 <!-- Performance optimized by W3 Total Cache. Learn more: http://www.w3-edge.com/wordpress-plugins/
 
 Page Caching using apc
-Database Caching 1/9 queries in 0.013 seconds using apc
-Object Caching 524/537 objects using apc
+Database Caching 1/10 queries in 0.005 seconds using apc
+Object Caching 501/516 objects using apc
 
-Served from: _ @ 2013-05-27 23:10:56 --></div></body></html>
+Served from: _ @ 2013-10-20 21:52:53 --></div></body></html>
