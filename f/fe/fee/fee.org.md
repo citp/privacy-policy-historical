@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fee.org privacy policy that was archived on 2013-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130521212745id_/http%3A//www.fee.org/about/view_privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fee.org privacy policy that was archived on 2013-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131020162800id_/http%3A//www.fee.org/about/view_privacy_policy) for the most accurate reproduction.*
 
 # View Privacy Policy : About : Foundation for Economic Education
 
@@ -72,5 +72,6 @@ If you believe that any information we are holding on you is incorrect or incomp
   * [INTERNSHIPS](http://www.fee.org/about/page/internships "lnkPgNav")
   * [STAFF](http://www.fee.org/about/page/staff "lnkPgNav")
   * [BOARD OF SCHOLARS](http://www.fee.org/about/page/board-of-scholars "lnkPgNav")
+  * [FEE ALUMNI BOARD](http://www.fee.org/about/page/fee-alumni-board "lnkPgNav")
 
 
