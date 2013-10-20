@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the warcry.com privacy policy that was archived on 2013-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130605220617id_/http%3A//www.warcry.com/codex/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the warcry.com privacy policy that was archived on 2013-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131020042934id_/http%3A//www.warcry.com/codex/privacy) for the most accurate reproduction.*
 
-# WarCry: Game Codex and Reviews : Privacy Policy
+# Privacy Policy | WarCry
 
 Thank you for visiting www.warcry.com (the "Site")! The Site is strongly committed to protecting your privacy. The purpose of this privacy policy is to inform users of the Site as to what information we collect and how and why we use such information. The Site is a website published and maintained by Alloy Digital, LLC.
 
