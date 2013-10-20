@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the prefiles.com privacy policy that was archived on 2013-01-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130115104347id_/http%3A//prefiles.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prefiles.com privacy policy that was archived on 2013-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131020063241id_/http%3A//prefiles.com/privacy.html) for the most accurate reproduction.*
 
 # PreFiles.com - Premium Files Storage
 
@@ -42,4 +42,4 @@ In the course of serving advertisements to this site, our third-party advertiser
 
 ## 10\. I still have questions, what should I do?
 
-If you still have questions regarding our services don't hesitate to contact us using our [**contact form**](https://web.archive.org/web/20130115104347id_/http%3A//prefiles.com/contact.html). 
+If you still have questions regarding our services don't hesitate to contact us using our [contact form](https://web.archive.org/web/20131020063241id_/http%3A//prefiles.com/contact.html). 
