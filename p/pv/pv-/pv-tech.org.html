@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the pv-tech.org privacy policy that was archived on 2013-01-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130117165256id_/http%3A//www.pv-tech.org/privacy_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the pv-tech.org privacy policy that was archived on 2013-10-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131020071528id_/http%3A//www.pv-tech.org/privacy_policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en" xmlns:fb="http://ogp.me/ns/fb#" xmlns:og="http://opengraphprotocol.org/schema/"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -13,21 +13,31 @@
 
 
 <!--- Webmaster tools verification END -->
-<title>Privacy Policy - PV-Tech</title>
+<script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script id="twitter-wjs" src="//platform.twitter.com/widgets.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_GB/all.js#xfbml=1&amp;appId=363356040399232"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">var NREUMQ=NREUMQ||[];NREUMQ.push(["mark","firstbyte",new Date().getTime()]);</script><title>Privacy Policy - PV-Tech</title>
 <meta name="description" content="The number one source for in-depth and up-to-the-minute news, technical articles, blogs and reviews on the international solar PV supply chain.">
 <meta name="keywords" content="photovoltaics, thin film, pv modules, fab and facilities, materials, solar, jobs, cell processing">
 <meta name="robots" content="index,follow,archive">
 
-<link rel="stylesheet" type="text/css" media="all" href="http://www.pv-tech.org/?css=lib/main.v.1358168309">
+<link rel="stylesheet" type="text/css" media="all" href="http://www.pv-tech.org/?css=lib/main.v.1382007136">
 
-<script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script id="twitter-wjs" src="//platform.twitter.com/widgets.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_GB/all.js#xfbml=1&amp;appId=363356040399232"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://cdn.pv-tech.org/js/jquery/jquery.min.js"></script>
+
+
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+<script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.10.3/jquery-ui.min.js"></script>
+
 <script type="text/javascript" src="http://cdn.pv-tech.org/js/jquery/jquery.cookie.js"></script>
-<script type="text/javascript" src="http://cdn.pv-tech.org/js/jquery/jquery-ui.min.js"></script>
 <script type="text/javascript" src="http://cdn.pv-tech.org/js/jquery/jquery.validate.js"></script> 
 <script type="text/javascript" src="http://cdn.pv-tech.org/js/jquery/jquery.validate.additional-methods.js"></script>
 <script type="text/javascript" src="http://cdn.pv-tech.org/js/jquery/jquery.cycle.all.js"></script> 
-<script type="text/javascript" src="http://cdn.pv-tech.org/js/swfobject/swfobject.js"></script>
 <script type="text/javascript" src="/assets/lib/galleria/galleria-1.2.8.min.js"></script>
+
+<script type="text/javascript" src="http://cdn.pv-tech.org/js/swfobject/swfobject.js"></script>
+
+<script type="text/javascript" src="/assets/lib/noty/jquery.noty.js"></script>
+<script type="text/javascript" src="/assets/lib/noty/layouts/top.js"></script>
+<script type="text/javascript" src="/assets/lib/noty/layouts/bottom.js"></script>
+<script type="text/javascript" src="/assets/lib/noty/layouts/bottomRight.js"></script>
+<script type="text/javascript" src="/assets/lib/noty/themes/default.js"></script>
 
 
 <!--- Shadowbox -->
@@ -72,6 +82,7 @@ GA_googleAddSlot("ca-pub-8203904773175658", "pvtech_int_footer_leaderboard_fullw
 GA_googleAddSlot("ca-pub-8203904773175658", "pvtech_int_header_leaderboard_fullwidth");
 GA_googleAddSlot("ca-pub-8203904773175658", "pvtech_int_horizontal_1");
 GA_googleAddSlot("ca-pub-8203904773175658", "pvtech_int_horizontal_2");
+GA_googleAddSlot("ca-pub-8203904773175658", "pvtech_int_horizontal_3");
 GA_googleAddSlot("ca-pub-8203904773175658", "pvtech_int_custom_skyscraper_1");
 GA_googleAddSlot("ca-pub-8203904773175658", "pvtech_int_custom_skyscraper_2_modules");
 GA_googleAddSlot("ca-pub-8203904773175658", "pvtech_int_sidebar_vertical_1");
@@ -144,15 +155,48 @@ GA_googleFetchAds();
 
 
 
+
+
+<script type="text/javascript">
+var hideNotyThree = $.cookie('hideNotyThree');
+if (hideNotyThree != 'yep'){
+	noty({
+		text: '<p style="margin: 0; font-weight: bold;">Are you a senior technician or engineer in a module manufacturing company?</p>',
+		layout: 'bottomRight',
+		closeWith: ['button'],
+		callback: {
+	        onClose: function() {
+	        	$.cookie('hideNotyThree', 'yep',
+	        	{ 
+					expires: 3, 
+					path: '/'
+				});
+	        }
+	    },
+	    buttons: [{
+	    	text: 'Hide Notice',
+	    	onClick: function($noty) {$noty.close();}	    	
+		},
+	    {
+	    	text: 'Click Here &raquo;',
+	    	onClick: function($noty) {
+	    		window.open('https://www.formstack.com/forms/solarmedia-pvifreesubapplication', '_blank');
+	    	}	    	
+		}]
+	});
+}
+</script>
+
+
+
+
 <div id="header-nav-wrapper" class="clearfix">
 	<ul id="site-nav">
 		<li class="selected"><a href="http://www.pv-tech.org/">PV-Tech</a></li>
 		<li><a href="http://www.pv-tech.cn/">PV-Tech 每日光伏新闻</a></li>
 		<li><a href="http://www.jobsinpv.com">PV-Tech Jobs</a></li>
 		<li><a href="http://directory.pv-tech.org">PV-Tech Directory</a></li>
-		<li><a href="http://www.photovoltaicsinternational.com/" title="Photovoltaics International">PVI</a></li>
-		<li><a href="http://www.solarmediastore.com/">Store</a></li>
-		<li><a href="http://dp.solarmediastore.com/read/account_titles/159579">Digital</a></li>
+		<li><a href="http://www.solarmediastore.com/journal-subscriptions.html" title="Photovoltaics International">Photovoltaics International</a></li>
 	</ul>
 	<ul id="secondary-nav">
 		<li><a rel="nofollow" href="http://www.pv-tech.org/about">About</a></li>
@@ -165,7 +209,6 @@ GA_googleFetchAds();
 			<a rel="nofollow" href="http://www.linkedin.com/groups?gid=3638342" target="_BLANK"><img src="http://cdn.pv-tech.org/images/icons/linkedin_16.png" width="16" height="16" alt="LinkedIn" title="LinkedIn"></a>
 			<a rel="nofollow" href="http://www.facebook.com/pages/PV-Tech/360525490632679" target="_BLANK"><img src="http://cdn.pv-tech.org/images/icons/facebook_16.png" width="16" height="16" alt="Facebook" title="Facebook"></a>		
 		</li>
-		
 	</ul>
 </div>
 
@@ -176,7 +219,7 @@ GA_googleFetchAds();
 	
 <!--- Global Social Widgets -->
 
-<div id="global_social_widgets" style="float: left; height: 74px; margin-left: 30px; display: none;">
+<div id="global_social_widgets" style="float: left; height: 74px; width: 237px; margin-left: 30px; display: none; overflow: hidden;">
 	<div id="facebook_global_social_widget" style="height: 24px; margin-top: 10px;">
 		<div id="fb-root"></div>
 <script>
@@ -196,8 +239,8 @@ window.fbAsyncInit = function() {
   js.src = "//connect.facebook.net/en_GB/all.js#xfbml=1&appId=363356040399232";
   fjs.parentNode.insertBefore(js, fjs);
 }(document, 'script', 'facebook-jssdk'));</script>
-		
-		<fb:like href="http://www.facebook.com/pages/PV-Tech/360525490632679" send="false" width="450" show_faces="false"></fb:like>
+
+		<fb:like href="http://www.facebook.com/pages/PV-Tech/360525490632679" width="250" layout="button_count" show_faces="false" send="false"></fb:like>
 	</div>
 	<div id="twitter_global_social_widget" style="height: 24px; margin-top: 10px;">
 		<a href="https://twitter.com/pv_tech" class="twitter-follow-button" data-show-count="true" data-lang="en">Follow @pv_tech</a>
@@ -211,17 +254,14 @@ $(document).ready(function() {$("#global_social_widgets").show();});
 
 <!--- Global Social Widgets END -->
 
-<div id="suntech_m2FBBleW" onclick="window.open('http://www.suntech-power.com','_blank');">&nbsp;</div>
-
-<div class="ad search-sponsor">
-<p>Search sponsor</p>
-<div>
-<!-- ca-pub-8203904773175658/pvtech_int_search_sponsor -->
+	
+	<div class="ad horizontal header">
+<!-- ca-pub-8203904773175658/pvtech_int_horizontal_3 -->
 <script type="text/javascript">
-GA_googleFillSlot("pvtech_int_search_sponsor");
-</script>
-</div>
-</div>
+GA_googleFillSlot("pvtech_int_horizontal_3");
+</script>	
+	</div>
+
 
 <!--- Search Form -->
 
@@ -229,9 +269,9 @@ GA_googleFillSlot("pvtech_int_search_sponsor");
 <form method="post" action="http://www.pv-tech.org/">
 <div class="hiddenFields">
 <input type="hidden" name="ACT" value="44">
-<input type="hidden" name="XID" value="fcf27554ed6e08372821ae2c15ec0b1c25eb83e6">
+<input type="hidden" name="XID" value="16879eaf809eb064e3d934424e257eed3a6de7dc">
 <input type="hidden" name="RES" value="100">
-<input type="hidden" name="meta" value="MP5FiY7Xigx4PhBab+spAaUB84P8vDXq26P55k5RCzGQPRKgHBlF63ggiv7iBjBtkLm8gUei/d+jysdA2mpMgfYOwL+4/He/PcdyV7ofQ1Ap3anYiDEU11ZKJBVGJHeBkn2KV4mypXkPkgcdKIMG7gKHsGfToaT0mdIIKysIzIYdnt0YB6FW/gXj5WdMzbnGpuIZvcrWyjVm6V3Xyv+bIqXgbZOBfC2m/72SKBvc5RNhzz8e6H7aSgvmwMHpBYjF88vVUuKkk/U8Tg7lpiP4eQYyXq91Z9frX+wszrnwQOSlfTS2YUy4BQcoJHa+gc7Y+T4HSOO6ZaR+YrdgI772VMtRvco/eqO338d4yk52Cx5h/Ll4wd8qawaWR8uMcB/M95HeDEx9l1Va1q+XlKt1GWUBwzkEuceX2uFcdgoel6TG9QVgpCCSIk528Sa0YjnYAN0qUQa/QZOae7BeCRpcNfV2PWae7lK7wH3WGSxEULjm76UKmss6Xyg0+AcE0rFB+Gyz/mUCtpZQ5UFnAiVBIy19fWJ+9V/pdE6DTjtlxdC7yyguxpH+AelEXEgvOexicNyx1qiHupaSRpTWQk7Nwg==">
+<input type="hidden" name="meta" value="MP5FiY7Xigx4PhBab+spAaUB84P8vDXq26P55k5RCzFoU3oBewFbZbJHM31Ldd9w9G4zNjE9wkx2Ws03CNxAGPYOwL+4/He/PcdyV7ofQ1Ap3anYiDEU11ZKJBVGJHeBkn2KV4mypXkPkgcdKIMG7gKHsGfToaT0mdIIKysIzIYdnt0YB6FW/gXj5WdMzbnGpuIZvcrWyjVm6V3Xyv+bIqXgbZOBfC2m/72SKBvc5RNhzz8e6H7aSgvmwMHpBYjF88vVUuKkk/U8Tg7lpiP4eQYyXq91Z9frX+wszrnwQORbNe3IV+spHMakoi6oEAZ6qqdXR2+JKiWYGAjLt9HGmltkPp1mSe+9fzq4aRyingTt+smv5ZZMS9jlyrrsTec1IbYw4mMS5EyrYKQZ+TaHlL5fq9/c5dh5ymfwm/SmSHEMLUx/6j1LWRk7vFhjbPLcWhIpnZq7lmH2Rq9F7JAPw8ufGQzyyNMXTQP0OmUopTkmdADYuZ/ezHHbYHEmu5czXDIRpCrIyHgRI1zDfO4zeeeEnTibN2MXrVjYdmN6hypsCO6q5pNAiXgERK7Gf9+FgClsx5g7gCoG8564eQn0SA==">
 <input type="hidden" name="site_id" value="1">
 </div>
 
@@ -252,11 +292,11 @@ GA_googleFillSlot("pvtech_int_search_sponsor");
 		<li><a href="http://www.pv-tech.org">Home</a></li>
 		<li><a href="http://www.pv-tech.org/news/list">News</a></li>
 		<li><a href="http://www.pv-tech.org/in_depth/list">In Depth</a></li>
+		<li><a href="http://www.pv-tech.org/tv_and_video">TV &amp; Video</a></li>
 		<li><a href="http://www.pv-tech.org/product_reviews/list">Product Reviews</a></li>
 		<li><a href="http://www.pv-tech.org/project_focus/list">Project Focus</a></li>
 		<li><a href="http://www.pv-tech.org/tariff_watch/list">Tariff Watch</a></li>
 		<li><a href="http://www.pv-tech.org/events/list">Events</a></li>
-		<li><a href="http://www.pv-tech.org/tv_and_video">TV &amp; Video</a></li>
 	</ul>
 </div>
 
@@ -374,10 +414,9 @@ $(document).ready(function() {
 <p>
 	We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.</p>
 <p>
-	You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please write to Solar Media Limited, Transworld House, 100 City Road, EC1Y 2BP, London, United Kingdom.</p>
+	You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please write to Solar Media Limited, 5 Prescot Street, London, E1 8PA, United Kingdom.</p>
 <p>
 	If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect.</p>
-
 	</div>
 </div>
 
@@ -385,15 +424,17 @@ $(document).ready(function() {
 	<div id="secondary-content">
 <!--- Newsletter Form -->
 <div id="newsletter_subscription">
-<form action="http://www.pv-tech.org/?ACT=73" accept-charset="utf-8" id="newsletter_subscription_form" method="POST"><div style="display:none">
-<input type="hidden" name="params_id" value="6392308">
-<input type="hidden" name="XID" value="e66a188d1a735806a2661ad1d43825eafee59db8">
-</div>
 	<h2 class="header light"><a href="http://www.pv-tech.org/newsletter">Newsletter</a></h2>
 
 
-		<a href="http://eepurl.com/t7lV5" target="_BLANK" id="newsletter_preview">Preview Latest</a>
+		<a href="http://eepurl.com/G92yH" target="_BLANK" id="newsletter_preview">Preview Latest</a>
 
+
+
+<form action="http://www.pv-tech.org/?ACT=73" accept-charset="utf-8" id="newsletter_subscription_form" method="post"><div style="display:none">
+<input type="hidden" name="params_id" value="38739142">
+<input type="hidden" name="XID" value="74479009d289f1029fc7be704768f44777f142d3">
+</div>
 
 	<a href="javascript:void(0)" id="newsletter_submit" class="button" style="width: 80px;"><span style="padding-left: 25px;">Subscribe</span></a>
 	<div class="fancy_textfield" id="email_field_wrapper">
@@ -426,9 +467,10 @@ $(document).ready(function() {
 			<label for="newsletter_phone_number">Phone Number (optional)</label>
 			<input type="text" name="phone_number_en" id="newsletter_phone_number" autocomplete="off">
 		</div>
+
+		
 		<div class="privacy_note">We won't share your details - <a href="http://www.pv-tech.org/privacy_policy">promise</a>!</div>
-	</div>	
-</form>
+	</div></form>	
 </div>
 
 <script type="text/javascript">
@@ -470,6 +512,8 @@ $('#newsletter_subscription_form').submit(function() {
 GA_googleFillSlot("pvtech_int_sidebar_medium_rectangle_1");
 </script>
 		</div>
+
+
 <div class="teaser-block" style="margin-top: 15px;" id="most-popular">
 	<h2 class="header"><a href="http://www.pv-tech.org/popular/list">Most Popular</a></h2>
 	<ul class="tabs clearfix">
@@ -481,65 +525,67 @@ GA_googleFillSlot("pvtech_int_sidebar_medium_rectangle_1");
 	</ul>
 	<ul class="article-list" id="most-popular-all">
 
-		<li class="first"><h3>1. <a href="http://www.pv-tech.org/news/solar_shakeout_siemens_based_polysilicon_production_at_rec_uneconomical">Solar Shakeout: Siemens-based polysilicon production at REC uneconomical</a></h3></li>
+		<li class="first"><h3>1. <a href="http://www.pv-tech.org/editors_blog/solar_2.0_a_brave_new_profitless_world_of_100gw_demand">Solar 2.0: a brave new profitless world of 100GW demand</a></h3></li>
 
-		<li><h3>2. <a href="http://www.pv-tech.org/news/gcl_poly_warns_of_large_full_year_losses_blames_polysilicon_dumping_for_woe">GCL-Poly warns of large full-year losses; blames polysilicon dumping for woes</a></h3></li>
+		<li><h3>2. <a href="http://www.pv-tech.org/newscast_videos/pv_tech_newscast_11_october_2013">PV Tech Newscast 11 October 2013</a></h3></li>
 
-		<li><h3>3. <a href="http://www.pv-tech.org/guest_blog/ingot_and_wafer_tool_suppliers_fall_off_the_pv_fiscal_cliff">Ingot and wafer tool suppliers fall off the PV fiscal cliff</a></h3></li>
+		<li><h3>3. <a href="http://www.pv-tech.org/news/world_bank_arm_plans_us250_million_fund_for_developing_world_pv">Exclusive: World Bank arm plans US$250 million backing for developing-world PV</a></h3></li>
 
-		<li><h3>4. <a href="http://www.pv-tech.org/news/gt_advanced_technologies_streamlines_management">GT Advanced Technologies streamlines management</a></h3></li>
+		<li><h3>4. <a href="http://www.pv-tech.org/news/suntech_bondholders_seek_chapter_7_bankruptcy_proceedings_to_return_funds">Suntech bondholders seek Chapter 7 bankruptcy proceedings to return funds</a></h3></li>
 
-		<li><h3>5. <a href="http://www.pv-tech.org/news/swinerton_renewable_energy_wins_epc_contract_for_250mw_tribal_land_project">Swinerton Renewable Energy wins EPC contract for 250MW tribal land project</a></h3></li>
+		<li><h3>5. <a href="http://www.pv-tech.org/news/spi_2013_motech_displaying_20.5_monocrystalline_sirius_cell">SPI 2013: Motech displaying 20.5% monocrystalline ‘Sirius’ cell</a></h3></li>
 	
 	</ul>
 	<ul class="article-list most-popular ui-tabs-hide" id="most-popular-news">
 
-		<li class="first"><h3>1. <a href="http://www.pv-tech.org/news/solar_shakeout_siemens_based_polysilicon_production_at_rec_uneconomical">Solar Shakeout: Siemens-based polysilicon production at REC uneconomical</a></h3></li>
+		<li class="first"><h3>1. <a href="http://www.pv-tech.org/news/world_bank_arm_plans_us250_million_fund_for_developing_world_pv">Exclusive: World Bank arm plans US$250 million backing for developing-world PV</a></h3></li>
 
-		<li><h3>2. <a href="http://www.pv-tech.org/news/gcl_poly_warns_of_large_full_year_losses_blames_polysilicon_dumping_for_woe">GCL-Poly warns of large full-year losses; blames polysilicon dumping for woes</a></h3></li>
+		<li><h3>2. <a href="http://www.pv-tech.org/news/suntech_bondholders_seek_chapter_7_bankruptcy_proceedings_to_return_funds">Suntech bondholders seek Chapter 7 bankruptcy proceedings to return funds</a></h3></li>
 
-		<li><h3>3. <a href="http://www.pv-tech.org/news/gt_advanced_technologies_streamlines_management">GT Advanced Technologies streamlines management</a></h3></li>
+		<li><h3>3. <a href="http://www.pv-tech.org/news/spi_2013_motech_displaying_20.5_monocrystalline_sirius_cell">SPI 2013: Motech displaying 20.5% monocrystalline ‘Sirius’ cell</a></h3></li>
 
-		<li><h3>4. <a href="http://www.pv-tech.org/news/swinerton_renewable_energy_wins_epc_contract_for_250mw_tribal_land_project">Swinerton Renewable Energy wins EPC contract for 250MW tribal land project</a></h3></li>
+		<li><h3>4. <a href="http://www.pv-tech.org/news/recurrent_energy_sells_ontario_solar_farms_totalling_108mw">Recurrent Energy sells Ontario solar farms totalling 108MW</a></h3></li>
 
-		<li><h3>5. <a href="http://www.pv-tech.org/news/new_york_to_inject_us1.5_billion_in_ny_sun_initiative_over_10_years">New York to inject US$1.5 billion in NY-Sun Initiative over 10 years</a></h3></li>
+		<li><h3>5. <a href="http://www.pv-tech.org/news/south_africa_to_get_100_million_french_loan_for_solar_projects">South Africa to get €100 million French loan for solar projects</a></h3></li>
 	
 	</ul>
 	<ul class="article-list most-popular ui-tabs-hide" id="most-popular-blogs">
 
-		<li class="first"><h3>1. <a href="http://www.pv-tech.org/chip_shots_blog/solar_short_takes_suniva_implements_ion_implantation_first_solar_turns_knob">Solar short takes: Suniva implements ion implantation, First Solar turns knobs, CIGS gets purified</a></h3></li>
+		<li class="first"><h3>1. <a href="http://www.pv-tech.org/guest_blog/would_the_leading_pv_equipment_supplier_please_stand_up">Would the leading PV equipment supplier please stand up?</a></h3></li>
 
-		<li><h3>2. <a href="http://www.pv-tech.org/guest_blog/pv_module_costs_and_924_911_prices_what_is_really_happening">PV module costs and prices–what is really happening?</a></h3></li>
+		<li><h3>2. <a href="http://www.pv-tech.org/guest_blog/hanergys_uk_thin_film_aspirations_realistic_optimistic_or_inevitable">Hanergy’s UK thin-film aspirations: realistic, optimistic or inevitable?</a></h3></li>
 
-		<li><h3>3. <a href="http://www.pv-tech.org/guest_blog/other_than_first_solar_who_holds_a_low_cost_manufacturing_benchmark">Other than First Solar, who holds a low-cost manufacturing benchmark?</a></h3></li>
+		<li><h3>3. <a href="http://www.pv-tech.org/guest_blog/uk_solar_pv_demand_reached_520mw_in_q1_2013">UK solar PV demand reached 520MW in Q1 2013</a></h3></li>
 
-		<li><h3>4. <a href="http://www.pv-tech.org/chip_shots_blog/raising_arizona_solar_suntech_bets_on_us_market_with_goodyear_module_manufa">Raising Arizona solar: Suntech bets on US market with Goodyear module manufacturing plant</a></h3></li>
+		<li><h3>4. <a href="http://www.pv-tech.org/editors_blog/will_2016_be_the_end_of_the_roof_for_third_party_lease_models">Will 2016 be the end of the roof for third party lease models?</a></h3></li>
 
-		<li><h3>5. <a href="http://www.pv-tech.org/guest_blog/pv_module_costs_and_prices_what_is_really_happening_now_5478">PV module costs and prices: what is really happening now?</a></h3></li>
+		<li><h3>5. <a href="http://www.pv-tech.org/editors_blog/solar_permitting_project_sees_red_and_awards_gold_stars">Solar permitting project sees red and awards gold stars</a></h3></li>
 	
 	</ul>
 	<ul class="article-list most-popular ui-tabs-hide" id="most-popular-videos">
 
-		<li class="first"><h3>1. <a href="http://www.pv-tech.org/solar_leaders_tv_videos/dow_corning_materials_innovation_with_polysilicon_and_thinner_wafers">Dow Corning: Materials innovation with polysilicon and thinner wafers</a></h3></li>
+		<li class="first"><h3>1. <a href="http://www.pv-tech.org/newscast_videos/pv_tech_newscast_20_september_2013">PV Tech Newscast 20 September 2013</a></h3></li>
 
-		<li><h3>2. <a href="http://www.pv-tech.org/newscast_videos/pv_tech_newscast_november_2_20122">PV-Tech Newscast – November 2, 2012</a></h3></li>
+		<li><h3>2. <a href="http://www.pv-tech.org/newscast_videos/pv_tech_newscast_27_september_2013">PV Tech Newscast 27 September 2013</a></h3></li>
 
-		<li><h3>3. <a href="http://www.pv-tech.org/newscast_videos/pv_tech_newscast_november_9_2012">PV-Tech Newscast—November 9, 2012</a></h3></li>
+		<li><h3>3. <a href="http://www.pv-tech.org/newscast_videos/pv_tech_newscast_4_october_2013">PV Tech Newscast 4 October 2013</a></h3></li>
 
-		<li><h3>4. <a href="http://www.pv-tech.org/solar_leaders_tv_videos/dow_corning_materials_innovation_shift_that_delivers_cost_per_kilowatt_hour">Dow Corning: Materials innovation shift that delivers cost per kilowatt-hour reductions</a></h3></li>
+		<li><h3>4. <a href="http://www.pv-tech.org/newscast_videos/pv_tech_newscast_11_october_2013">PV Tech Newscast 11 October 2013</a></h3></li>
 
-		<li><h3>5. <a href="http://www.pv-tech.org/newscast_videos/pv_tech_newscast_november_16_2012">PV-Tech Newscast – November 16, 2012</a></h3></li>
+		<li><h3>5. <a href="http://www.pv-tech.org/solar_leaders_tv_videos/peter_fath_rena">Peter Fath: RENA</a></h3></li>
 	
 	</ul>
 	<ul class="article-list most-popular ui-tabs-hide" id="most-popular-big-story">
 
-		<li class="first"><h3>1. <a href="http://www.pv-tech.org/topics/solar_shakeouts_2012">Solar Shakeout</a></h3></li>
+		<li class="first"><h3>1. <a href="http://www.pv-tech.org/topics/solar_power_international_2103">Solar Power International 2013</a></h3></li>
 
-		<li><h3>2. <a href="http://www.pv-tech.org/topics/intersolar_north_america">Intersolar North America</a></h3></li>
+		<li><h3>2. <a href="http://www.pv-tech.org/topics/off_grid_solar">Off-grid solar</a></h3></li>
 
-		<li><h3>3. <a href="http://www.pv-tech.org/topics/intersolar">Intersolar Conference &amp; Exhibition 2012</a></h3></li>
+		<li><h3>3. <a href="http://www.pv-tech.org/topics/pv_storage">PV storage</a></h3></li>
 
-		<li><h3>4. <a href="http://www.pv-tech.org/topics/solar_trade_war">Solar Trade War</a></h3></li>
+		<li><h3>4. <a href="http://www.pv-tech.org/topics/post_subsidy_solar">Post-subsidy solar</a></h3></li>
+
+		<li><h3>5. <a href="http://www.pv-tech.org/topics/solar_shakeouts_2012">Solar Shakeout</a></h3></li>
 	
 	</ul>
 </div>
@@ -568,37 +614,50 @@ $(function() {
 
 
 
-<!--- Publications -->
-<div class="teaser-block" style="margin-top: 15px">
-	<h2 class="header"><a href="http://dp.solarmediastore.com/">Publications</a></h2>
-	<ul class="article-list">
 
+
+
+
+
+
+
+
+
+
+<div class="teaser-block" style="margin-top: 15px">
+	<h2 class="header"><a href="http://www.solarmediastore.com/">Publications</a></h2>
+	<ul class="article-list">
+	
 		<li class="clearfix first">
 			<div class="thumbnail">
-				<a href="http://www.solarmediastore.com/journals/photovoltaics-international-18th-edition.html"><img src="/images/publication_covers/pvi-18.png" alt="Photovoltaics International 18th Edition" width="50" height="70"></a>
+				<a href="http://www.solarmediastore.com/journals/photovoltaics-international-20th-edition.html">
+					<img src="/images/made/assets/images/pvi-20-cover_50_70_c1.jpg" width="50" height="70" alt="">
+				</a>
 			</div>
-			<h3><a href="http://www.solarmediastore.com/journals/photovoltaics-international-18th-edition.html">Photovoltaics International 18th Edition</a></h3>
-			<p>Our focus here at Photovoltaics International has always been on efficiency improvement and driving down the cost per watt of modules. In this issue we take a look at some of the market dynamics driving prices in the supply chain so that you can make better decisions to help reduce your overall cost per watt and increase your efficiency at the same time.</p>
+			<h3><a href="http://www.solarmediastore.com/journals/photovoltaics-international-20th-edition.html">Photovoltaics International 20th Edition</a></h3>
+			<p>Has the latest round of consolidation in the supply chain enabled a more sustainable growth curve for the solar industry or is this a blip fuelled by subsidies? In this context Photovoltaics International has never been more relevant for your business. Whether you are a glass half empty or full person, the fact remains that orders are up across the board, new markets are coming on stream and analysts’ predictions are increasing again. Optimism is starting to creep into even the most conservative of organisations.</p>
+		</li>
+
+
+
+	
+		<li class="clearfix first">
+			<div class="thumbnail">
+				<a href="http://www.solarmediastore.com/technical-annuals/manufacturing-the-solar-future-the-2013-production-annual.html">
+					<img src="/images/made/assets/images/cover_5_50_70_c1.jpg" width="50" height="70" alt="">
+				</a>
+			</div>
+			<h3><a href="http://www.solarmediastore.com/technical-annuals/manufacturing-the-solar-future-the-2013-production-annual.html">Manufacturing The Solar Future: The 2013 Production Annual</a></h3>
+			<p>In the ever-changing global solar markets, cost reduction and measures to increase cell efficiencies are the key tools available to PV manufacturers to create new opportunities and drive your business to the next level. Manufacturing the Solar Future 2013 is the third in the Photovoltaics International PV Production Annual series, delivering the next instalment of in-depth technical manufacturing information on PV production processes designed to help you gain the competitive edge.</p>
 		</li>
 		
-		<li class="clearfix">
-			<div class="thumbnail">
-				<a href="http://dp.solarmediastore.com/i/91798" rel="external"><img src="http://www.solarbusinessfocus.com/images/made/assets/images/OFC_SBF5_50_71.jpg" width="50" height="71" alt=""></a>
-			</div>
-			<h3><a href="http://dp.solarmediastore.com/i/91798" rel="external">Solar Business Focus: Volume 5</a></h3>
-			<p>Our latest edition of Solar Business Focus offers a flicker of hope. Articles from EuPD Research and NPD Solarbuzz highlight the reasons behind shakeout insolvencies, investor nervousness and short-term supply issues within the industry, but offer solutions and reasons to remain optimistic. Things are certainly not quite as bleak as they may first appear.</p>
-		</li>
-		
-		<li class="clearfix">		
-			<div class="thumbnail">
-				<a href="http://www.photovoltaicsinternational.com/technical_annuals/manufacturing_the_solar_future_the_2012_production_annual"><img src="/images/made/images/remote/http_image.issuu.com/120411115725-2277d5c2c89f4e4f9c716dd25c3424d0/jpg/page_1_thumb_large_50_63.jpg" alt="Manufacturing The Solar Future: The 2012 Production Annual" width="50" height="63"></a>
-			</div>
-			<h3><a href="http://www.photovoltaicsinternational.com/technical_annuals/manufacturing_the_solar_future_the_2012_production_annual">Manufacturing The Solar Future: The 2012 Production Annual</a></h3>
-			<p>Manufacturing the Solar Future 2012, the second in the Photovoltaics International PV Production Annual series, delivers the next installment of in-depth technical manufacturing information on PV production processes.</p>
-		</li>
 	</ul>
 </div>
-<!--- Publications END -->
+
+
+
+
+
 
 		<div class="clearfix" style="margin-top: 15px">
 			<div class="ad square-button" style="float: left">
@@ -643,6 +702,7 @@ GA_googleFillSlot("pvtech_int_company_profile_3");
 	</ul>
 </div>
 
+
 <!--- Video Teasers -->
 <div class="teaser-block" style="margin-top: 15px">
 	<h2 class="header"><a href="http://www.pv-tech.org/tv_and_video">Latest in TV &amp; Video</a></h2>
@@ -651,36 +711,38 @@ GA_googleFillSlot("pvtech_int_company_profile_3");
 
 		<li class="first">
 			<div class="thumbnail video">
-				<a href="http://www.pv-tech.org/newscast_videos/pv_tech_newscast_january_11_2013" class="play-video" title="PV-Tech Newscast – January 11, 2013">&nbsp;</a>
-				<img src="/images/sized/images/sized/remote/img-youtube-com-vi-4D634qUi2BI-0-96x72.jpg" width="96" height="72" title="PV-Tech Newscast – January 11, 2013" alt="PV-Tech Newscast – January 11, 2013">
+				<a href="http://www.pv-tech.org/solar_leaders_tv_videos/peter_fath_rena" class="play-video" title="Peter Fath: RENA">&nbsp;</a>
+				<img src="/images/sized/images/sized/remote/img-youtube-com-vi-bmr_EhAzKU8-0-96x72.jpg" width="96" height="72" title="Peter Fath: RENA" alt="Peter Fath: RENA">
 			</div>
-			<h3><a href="http://www.pv-tech.org/newscast_videos/pv_tech_newscast_january_11_2013">PV-Tech Newscast – January 11, 2013</a> (06:40)</h3>
+			<h3><a href="http://www.pv-tech.org/solar_leaders_tv_videos/peter_fath_rena">Peter Fath: RENA</a> (02:11)</h3>
 		</li>
 
 
 
 		<li>
 			<div class="thumbnail video">
-				<a href="http://www.pv-tech.org/newscast_videos/pv_tech_newscast_january_4_2013" class="play-video" title="PV-Tech Newscast—January 4, 2013">&nbsp;</a>
-				<img src="/images/sized/images/sized/remote/img-youtube-com-vi-CR0mBVwQdhw-0-96x72.jpg" width="96" height="72" title="PV-Tech Newscast—January 4, 2013" alt="PV-Tech Newscast—January 4, 2013">
+				<a href="http://www.pv-tech.org/newscast_videos/pv_tech_newscast_11_october_2013" class="play-video" title="PV Tech Newscast 11 October 2013">&nbsp;</a>
+				<img src="/images/sized/images/sized/remote/img-youtube-com-vi-Xj6-JPJQT18-0-96x72.jpg" width="96" height="72" title="PV Tech Newscast 11 October 2013" alt="PV Tech Newscast 11 October 2013">
 			</div>
-			<h3><a href="http://www.pv-tech.org/newscast_videos/pv_tech_newscast_january_4_2013">PV-Tech Newscast—January 4, 2013</a> (06:37)</h3>
+			<h3><a href="http://www.pv-tech.org/newscast_videos/pv_tech_newscast_11_october_2013">PV Tech Newscast 11 October 2013</a> (07:08)</h3>
 		</li>
 
 
 
 		<li>
 			<div class="thumbnail video">
-				<a href="http://www.pv-tech.org/newscast_videos/pv_tech_newscast_december_21_2012" class="play-video" title="PV-Tech Newscast – December 21, 2012">&nbsp;</a>
-				<img src="/images/sized/images/sized/remote/img-youtube-com-vi-ZdAalW2_GsA-0-96x72.jpg" width="96" height="72" title="PV-Tech Newscast – December 21, 2012" alt="PV-Tech Newscast – December 21, 2012">
+				<a href="http://www.pv-tech.org/newscast_videos/pv_tech_newscast_4_october_2013" class="play-video" title="PV Tech Newscast 4 October 2013">&nbsp;</a>
+				<img src="/images/sized/images/sized/remote/img-youtube-com-vi-lFgf0fksE1g-0-96x72.jpg" width="96" height="72" title="PV Tech Newscast 4 October 2013" alt="PV Tech Newscast 4 October 2013">
 			</div>
-			<h3><a href="http://www.pv-tech.org/newscast_videos/pv_tech_newscast_december_21_2012">PV-Tech Newscast – December 21, 2012</a> (06:52)</h3>
+			<h3><a href="http://www.pv-tech.org/newscast_videos/pv_tech_newscast_4_october_2013">PV Tech Newscast 4 October 2013</a> (07:20)</h3>
 		</li>
 
 
 	</ul>
 </div>
 <!--- Video Teasers END-->
+
+
 
 
 	</div>
@@ -728,12 +790,16 @@ GA_googleFillSlot("pvtech_int_footer_leaderboard");
 		<h2>Solar Media</h2>
 		<ul class="clearfix">
 			<li><a href="http://www.design-buildsolar.com/" target="_BLANK" style="background-image:url('http://cdn.pv-tech.org/images/footer_logos/dbs.png'); padding-left: 25px;">Design-Build Solar</a></li>
-			<li><a href="http://www.solarpowerportal.co.uk/" target="_BLANK" style="background-image:url('http://cdn.pv-tech.org/images/footer_logos/spp.png'); padding-left: 40px;">Solar Power Portal</a></li>
-			<li><a href="http://www.solarsummitindia.com/" target="_BLANK" style="background-image:url('http://cdn.pv-tech.org/images/footer_logos/indian-solar.gif'); padding-left: 33px;">Indian Solar</a></li>
-			<li><a href="http://www.solarbusinessexpo.com/" target="_BLANK" style="background-image:url('http://cdn.pv-tech.org/images/footer_logos/solar-business-expo.gif'); padding-left: 50px;">Solar Business Expo</a></li>
+			<li><a href="http://www.solarpowerportal.co.uk/" target="_BLANK" style="background-image:url('http://cdn.pv-tech.org/images/footer_logos/spp.png'); padding-left: 40px;">Solar Power Portal</a></li>			
+			<li><a href="http://uk.solarenergyevents.com/" target="_BLANK" style="background-image:url('http://cdn.pv-tech.org/images/footer_logos/se-uk.gif'); padding-left: 45px;">Solar Energy UK</a></li>
+			<li><a href="http://seasia.solarenergyevents.com/" target="_BLANK" style="background-image:url('http://cdn.pv-tech.org/images/footer_logos/se-seasia.gif'); padding-left: 45px;">Solar Energy SE Asia</a></li>
+
 		</ul>
 	</div>
 </div>
+
+
+
 <div id="footer-wrapper">	
 	<div id="footer" class="clearfix">
 		<ul id="footer-nav">
@@ -756,6 +822,8 @@ GA_googleFillSlot("pvtech_int_footer_leaderboard");
 					<li><a href="http://www.pv-tech.org/news/list/category/power_generation">Power Generation</a></li>
 
 					<li><a href="http://www.pv-tech.org/news/list/category/bipv">BIPV</a></li>
+
+					<li><a href="http://www.pv-tech.org/news/list/category/market_watch">Market Watch</a></li>
 
 					<li><a href="http://www.pv-tech.org/news/list/category/finance">Finance</a></li>
 
@@ -823,6 +891,8 @@ GA_googleFillSlot("pvtech_int_footer_leaderboard");
 	</div>
 </div>
 
+
+
 <!--- Outbrain -->
 <input type="hidden" name="OBKey" value="yukEaGoSp8ywmafVDALHCg==">
 <script language="JavaScript">
@@ -856,9 +926,28 @@ _qevents.push({qacct:"p-g-UuCg-ykey-Y"});
 </noscript>
 <!-- End Quantcast tag -->
 
+<!-- Google Code for Remarketing Tag -->
+<div style="display: none">
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 982992121;
+var google_custom_params = window.google_tag_params;
+var google_remarketing_only = true;
+/* ]]> */
+</script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/982992121/?value=0&amp;guid=ON&amp;script=0"/>
+</div>
+</noscript>
+</div>
+<!-- END OF Google Code for Remarketing Tag -->
+
+<script type="text/javascript">if(!NREUMQ.f){NREUMQ.f=function(){NREUMQ.push(["load",new Date().getTime()]);var e=document.createElement("script");e.type="text/javascript";e.src=(("http:"===document.location.protocol)?"http:":"https:")+"//"+"js-agent.newrelic.com/nr-100.js";document.body.appendChild(e);if(NREUMQ.a)NREUMQ.a();};NREUMQ.a=window.onload;window.onload=NREUMQ.f;};NREUMQ.push(["nrfj","beacon-3.newrelic.com","f1f340f1f6","2053370","YlMEYkJTD0dTBRcKC1sZJ1VEWw5aHSMmTA1bUgNO",0,1245,new Date().getTime(),"","","","",""]);</script>
 
 
 
 
-
-</body></html>
+<script type="text/javascript" src="https://js-agent.newrelic.com/nr-100.js"></script></body></html>
