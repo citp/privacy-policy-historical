@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wotif.com privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530112433id_/http%3A//www.wotif.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wotif.com privacy policy that was archived on 2013-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131020100630id_/http%3A//www.wotif.com/info/privacy) for the most accurate reproduction.*
 
 # Privacy
 
