@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the manchesterconfidential.co.uk privacy policy that was archived on 2013-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130526095030id_/http%3A//www.manchesterconfidential.co.uk/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the manchesterconfidential.co.uk privacy policy that was archived on 2013-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131021011225id_/http%3A//www.manchesterconfidential.co.uk/Privacy) for the most accurate reproduction.*
 
 # Privacy | Manchester Confidential
-
-The Confidential websites will be undergoing routine updates. This may cause the sites to go offline. We apologise in advance for any inconvenience. 
 
 **Atruva; Privacy Statement**
 
@@ -13,7 +11,7 @@ The Confidential websites will be undergoing routine updates. This may cause the
 Please note that we may provide links to third-party websites for your convenience and perusal, **Atruva** is not responsible for the policies or practices of these other sites.
 
   
-Questions regarding this privacy policy should be directed to [privacy@theconfidentials.co.uk](mailto:privacy@theconfidentials.co.uk). Please contact that email address with any queries.
+Questions regarding this privacy policy should be directed to [privacy@theconfidentials.co.uk](mailto:privacy@theconfidentials.co.uk). Please contact that email address with any queries.
 
   
  **Overview**  
@@ -42,7 +40,7 @@ Our belief is that all communications must be wholly consensual and should you e
 The protection of all personal information we receive via our website visitors and subscribers is critical to our business. As such you should be assured that we have security measures in place to protect against the loss or misuse of any information we receive from you. As with any transmission over the internet there is always some risk involved. Thats why well never ask you for something we dont need and we will always treat your details as we do our own.
 
  **How can you update or correct your personal information**  
-Should you need to update your personal information at any time you can email via our contact form with any new information, again we would ask that you allow us up to 24 hours to adjust your details on our system. Any further queries may be directed to [admin@theconfidentials.co.uk](mailto:admin@theconfidentials.co.uk).
+Should you need to update your personal information at any time you can email via our contact form with any new information, again we would ask that you allow us up to 24 hours to adjust your details on our system. Any further queries may be directed to [admin@theconfidentials.co.uk](mailto:admin@theconfidentials.co.uk).
 
   
  **Communications with Us**  
@@ -50,11 +48,11 @@ We have features within the site whereby our customers can submit information to
 
   
  **Further Information**  
-For further information on our privacy policy or for specific questions about how we use your data please contact [privacy@theconfidentials.co.uk](mailto:privacy@theconfidentials.co.uk)
+For further information on our privacy policy or for specific questions about how we use your data please contact [privacy@theconfidentials.co.uk](mailto:privacy@theconfidentials.co.uk)
 
   
  **Delivery policy**  
-The majority of transactions on our websites relate to a service or experience rather than having a tangible product to deliver. In this instance a deposit is taken to secure a booking and a unique reference is provided digitally that allows the redemption of the offer. Where there are any promotions that include a tangible product the delivery details are outlined within the specific promotion. If you have any queries on this please contact [info@theconfidentials.co.uk](mailto:info@theconfidentials.co.uk)
+The majority of transactions on our websites relate to a service or experience rather than having a tangible product to deliver. In this instance a deposit is taken to secure a booking and a unique reference is provided digitally that allows the redemption of the offer. Where there are any promotions that include a tangible product the delivery details are outlined within the specific promotion. If you have any queries on this please contact [info@theconfidentials.co.uk](mailto:info@theconfidentials.co.uk)
 
   
  **Payment / Return / Refund / Cancellation Policy**
@@ -63,20 +61,20 @@ The majority of transactions on our websites relate to a service or experience r
 Membership payment policy
 
   
-When you sign up for a Hero membership a recurring payment is set up. Funds will be debited from the card provided inline with your chosen payment cycle (monthly, quarterly or annually). Should you wish to cancel your recurring payment please contact [membership@theconfidentials.co.uk](mailto:membership@theconfidentials.co.uk).
+When you sign up for a Hero membership a recurring payment is set up. Funds will be debited from the card provided inline with your chosen payment cycle (monthly, quarterly or annually). Should you wish to cancel your recurring payment please contact [membership@theconfidentials.co.uk](mailto:membership@theconfidentials.co.uk).
 
   
-Each partner with a promotion on Manchester Confidential outlines different policies; these are highlighted at the point of purchase. If there are any queries on these please address them to [info@theconfidentials.co.uk](mailto:info@theconfidentials.co.uk)
+Each partner with a promotion on Manchester Confidential outlines different policies; these are highlighted at the point of purchase. If there are any queries on these please address them to [info@theconfidentials.co.uk](mailto:info@theconfidentials.co.uk)
 
   
 As a general rule a deposit is taken for restaurant bookings and we allow cancellations up to 48 hours prior to the reservation. If a refund is issued this will take 14 working days to process.
 
   
-Membership can be cancelled by contacting [membership@theconfidentials.co.uk](mailto:membership@theconfidentials.co.uk). Cancellations need to be made prior to a recurring payment being debited. We do not offer refunds on any part of membership.
+Membership can be cancelled by contacting [membership@theconfidentials.co.uk](mailto:membership@theconfidentials.co.uk). Cancellations need to be made prior to a recurring payment being debited. We do not offer refunds on any part of membership.
 
   
  **Contact information**  
-If you have any queries on our policies please email [privacy@theconfidentials.co.uk](mailto:privacy@theconfidentials.co.uk)
+If you have any queries on our policies please email [privacy@theconfidentials.co.uk](mailto:privacy@theconfidentials.co.uk)
 
  **Rant Facility - Terms of Use**
 
