@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the imsdb.com privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502194331id_/http%3A//www.imsdb.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imsdb.com privacy policy that was archived on 2013-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131021035354id_/http%3A//www.imsdb.com/privacy) for the most accurate reproduction.*
 
 # The Internet Movie Script Database (IMSDb)
 
@@ -22,11 +22,11 @@ Genre
   
 Latest Comments   
 ---  
-[Django Unchained](https://web.archive.org/Movie%20Scripts/Django%20Unchained%20Script.html)| 10/10  
-[Usual Suspects, The](https://web.archive.org/Movie%20Scripts/Usual%20Suspects,%20The%20Script.html)| 9/10  
-[Halloween: The Curse of Michael Myers](https://web.archive.org/Movie%20Scripts/Halloween:%20The%20Curse%20of%20Michael%20Myers%20Script.html)| 10/10  
-[American Beauty](https://web.archive.org/Movie%20Scripts/American%20Beauty%20Script.html)| 10/10  
-[White Squall](https://web.archive.org/Movie%20Scripts/White%20Squall%20Script.html)| 10/10  
+[American President, The](https://web.archive.org/Movie%20Scripts/American%20President,%20The%20Script.html)| 10/10  
+[Italian Job, The](https://web.archive.org/Movie%20Scripts/Italian%20Job,%20The%20Script.html)| 10/10  
+[Star Wars: The Empire Strikes Back](https://web.archive.org/Movie%20Scripts/Star%20Wars:%20The%20Empire%20Strikes%20Back%20Script.html)| 10/10  
+[Silver Linings Playbook](https://web.archive.org/Movie%20Scripts/Silver%20Linings%20Playbook%20Script.html)| 10/10  
+[Django Unchained](https://web.archive.org/Movie%20Scripts/Django%20Unchained%20Script.html)| 8/10  
   
 | 
 
