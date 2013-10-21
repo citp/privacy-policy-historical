@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the amnesty.org.uk privacy policy that was archived on 2013-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130612014802id_/http%3A//amnesty.org.uk/content.asp%3FCategoryID%3D345) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amnesty.org.uk privacy policy that was archived on 2013-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131021124216id_/http%3A//amnesty.org.uk/content.asp%3FCategoryID%3D345) for the most accurate reproduction.*
 
 # AIUK : Privacy Policy
 
