@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the eveonline.com privacy policy that was archived on 2013-01-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130121152426id_/http%3A//community.eveonline.com/pnp/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eveonline.com privacy policy that was archived on 2013-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131021181434id_/http%3A//community.eveonline.com/pnp/privacy.asp) for the most accurate reproduction.*
 
-# EVE Online | Rules & Policies | Privacy Policy
+# EVE Online Privacy Policy - EVE Community
 
 CCP hf. ("We") are committed to protecting and respecting your privacy.
 
-This policy (together with our [terms of use](http://community.eveonline.com/pnp/termsofuse.asp) and any other documents referred to on it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it. For the purpose of any applicable data protection and privacy legislation, the data controller is CCP Hf. of Grandagardur 8, 101 Reykjavik Iceland. 
+This policy (together with our [terms of use](https://community.eveonline.com/support/policies/website-terms-of-use/) and any other documents referred to on it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it. For the purpose of any applicable data protection and privacy legislation, the data controller is CCP Hf. of Grandagardur 8, 101 Reykjavik Iceland.
 
-For the purpose of any applicable data protection and privacy legislation, the data controller is CCP Hf. of Grandagardur 8, 101 Reykjavik Iceland. 
+For the purpose of any applicable data protection and privacy legislation, the data controller is CCP Hf. of Grandagardur 8, 101 Reykjavik Iceland.
 
 **INFORMATION WE MAY COLLECT FROM YOU**
 
@@ -18,9 +18,9 @@ We may collect and process the following data about you:
 
   * We may also ask you to complete surveys that we use for research purposes, although you do not have to respond to them.
 
-  * Details of transactions you carry out through our site and of the fulfilment of your orders. Details of your visits to our site including, but not limited to, traffic data, location data, weblogs and other communication data, whether this is required for our own billing purposes or otherwise and the resources that you access. 
+  * Details of transactions you carry out through our site and of the fulfilment of your orders. Details of your visits to our site including, but not limited to, traffic data, location data, weblogs and other communication data, whether this is required for our own billing purposes or otherwise and the resources that you access.
 
-  * For some activities, we may ask you to create a username and password and/or to provide other, non-personal information such as your age, date of birth, gender, and/or game and platform preferences; and, combine such information with your personal information. In addition, your web browser or client software may transmit certain geographic information or information regarding your computer (capabilities, game data processing, etc.) to CCP. We may use this information to generate aggregate statistics about our user community and may provide such non-personal information to advertisers and/or our partners. In addition, CCP may use such information for security, system integrity (the prevention of hacking, cheats, etc.), or enforcement purposes. 
+  * For some activities, we may ask you to create a username and password and/or to provide other, non-personal information such as your age, date of birth, gender, and/or game and platform preferences; and, combine such information with your personal information. In addition, your web browser or client software may transmit certain geographic information or information regarding your computer (capabilities, game data processing, etc.) to CCP. We may use this information to generate aggregate statistics about our user community and may provide such non-personal information to advertisers and/or our partners. In addition, CCP may use such information for security, system integrity (the prevention of hacking, cheats, etc.), or enforcement purposes.
 
 
 
@@ -34,7 +34,7 @@ We may collect information about your computer, including where available your I
 
   * To speed up your searches.
 
-  * To recognise you when you return to our site. 
+  * To recognise you when you return to our site.
 
 
 
@@ -51,9 +51,9 @@ Unfortunately, the transmission of information via the internet is not completel
 
 We use information held about you in the following ways:
 
-  * To ensure that content from our site is presented in the most effective manner for you and for your computer. 
+  * To ensure that content from our site is presented in the most effective manner for you and for your computer.
 
-  * To provide you with information, products or services that you request from us or which we feel may interest you, where you have consented to be contacted for such purposes. 
+  * To provide you with information, products or services that you request from us or which we feel may interest you, where you have consented to be contacted for such purposes.
 
   * To carry out our obligations arising from any contracts entered into between you and us.
 
@@ -76,7 +76,7 @@ We may disclose your personal information to third parties:
 
   * If CCP hf. or substantially all of its assets are acquired by a third party, in which case personal data held by it about its customers will be one of the transferred assets.
 
-  * If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our [terms of use](http://community.eveonline.com/pnp/termsofuse.asp) and other agreements; or to protect the rights, property, or safety of CCP hf., our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
+  * If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our [terms of use](https://community.eveonline.com/support/policies/website-terms-of-use/) and other agreements; or to protect the rights, property, or safety of CCP hf., our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
 
 
 
@@ -93,7 +93,7 @@ You have the right to access information held about you. Please direct any acces
 
 **CHANGES TO OUR PRIVACY POLICY**
 
-By using this Website, you signify your assent to this Privacy Policy. If you do not agree to this Privacy Policy, please do not use this site. This Privacy Policy may change from time to time, so please check back periodically to ensure that you are aware of any changes. If we make a material change to this Privacy Policy, we will notify you by posting the change on this website or in this Privacy Policy and, if necessary, give you additional choices regarding such change. Your continued use of the CCP sites will signify your acceptance of these changes. 
+By using this Website, you signify your assent to this Privacy Policy. If you do not agree to this Privacy Policy, please do not use this site. This Privacy Policy may change from time to time, so please check back periodically to ensure that you are aware of any changes. If we make a material change to this Privacy Policy, we will notify you by posting the change on this website or in this Privacy Policy and, if necessary, give you additional choices regarding such change. Your continued use of the CCP sites will signify your acceptance of these changes.
 
 **CONTACT**
 
