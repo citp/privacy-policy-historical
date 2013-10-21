@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the etrade.com.au privacy policy that was archived on 2012-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120505044543id_/https%3A//invest.etrade.com.au/Privacy/EtradePrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the etrade.com.au privacy policy that was archived on 2013-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131022010853id_/https%3A//invest.etrade.com.au/Privacy/EtradePrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # E*TRADE Australia | Online Share Trading
 
@@ -27,11 +27,11 @@ Back to Top
 
 E*TRADE is an online financial services company that offers a combination of innovative value-added services through the use of leading-edge technology. We provide easy access to a secure, personalised trading environment. In the course of providing our products and service to you, E*TRADE may collect personal information about you. Personal information is information or opinion about an individual whose identity is apparent, or can reasonably be determined, from the information or opinion. The types of personal information that E*TRADE collects will depend on the nature of your dealings with us. E*TRADE collects personal information from:
 
-**Our customer  
-**E*TRADE may collect personal information about you when you become an E*TRADE shareholder, when you open an account with us or if you apply for a margin loan. This personal information we collect will include your name and address, and if you open an account with us, other contact details, the name of your bank and your bank account number and your tax file number (if you choose to provide it to us). As outlined at clause 2, E*TRADE needs this information in order to provide customers with its products and services. E*TRADE may collect other personal information from you (eg date of birth and occupation) in order to help E*TRADE establish whether you may need assistance to understand how to use our trading systems.
+**Our customer**  
+E*TRADE may collect personal information about you when you become an E*TRADE shareholder, when you open an account with us or if you apply for a margin loan. This personal information we collect will include your name and address, and if you open an account with us, other contact details, the name of your bank and your bank account number and your tax file number (if you choose to provide it to us). As outlined at clause 2, E*TRADE needs this information in order to provide customers with its products and services. E*TRADE may collect other personal information from you (eg date of birth and occupation) in order to help E*TRADE establish whether you may need assistance to understand how to use our trading systems.
 
-**Potential customer  
-**If you request information from E*TRADE (eg by using the E*TRADE website or call centre), we may collect your contact details, including your name, postal and email addresses and your telephone and fax numbers.
+**Potential customer**  
+If you request information from E*TRADE (eg by using the E*TRADE website or call centre), we may collect your contact details, including your name, postal and email addresses and your telephone and fax numbers.
 
 **Business Contacts**  
 E*TRADE may collect contact information from people with whom it does business (eg contact people in regulatory bodies, external service providers and the investment industry). If you are a “business contact” of E*TRADE, we may collect business contact information about you including your name, your position and the organisation you work for, your business telephone and fax number and your email address. As noted above, E*TRADE’s handling of business contact information is discussed at clause 7. E*TRADE only collects personal information if it is needed for the business purposes described in this privacy policy.
@@ -74,11 +74,11 @@ Back to Top
 
 E*TRADE takes reasonable steps to ensure the security of your personal information from such risks as unauthorised access, loss or misuse.
 
-**Online security**   
+**Online security**  
 All information transmitted to the E*TRADE website is stored securely (to the extent possible using existing technology). When you are trading online, your security is protected through your use of a User ID and a secure site Log On password. A Trading password must also be entered each time you place an order to buy or sell. When accessing or initiating your transactions over the Internet, all communications with E*TRADE are secured through user authentication and 128-bit enabled data encryption. To ensure ongoing security, we encourage customers to change their password regularly.
 
-**“Offline” security  
-**We utilise “state–of–the–art” technology and systems to prevent unauthorised access to the information we hold.
+**“Offline” security**  
+We utilise “state–of–the–art” technology and systems to prevent unauthorised access to the information we hold.
 
 Our IT systems are password restricted and comply with relevant security standards. Personal information provided to us in “hard copy” written form is usually imaged and stored electronically in our secure database (this enables the paper originals to be destroyed). If personal information is held in paper files prior to imaging, it is stored in locked compactuses or filing cabinets. In all cases, access to the personal information we hold about you is restricted to authorised personnel. We take steps to ensure that our staff understand that they must protect your privacy.
 
@@ -86,8 +86,8 @@ Back to Top
 
 **5\. Access and Correction**
 
-**Access  
-**If you are a customer, you already have the right to access your account information at any time, simply by logging into the website. However, you should be aware that there are now new rights of access to personal information under the Privacy Act.
+**Access**  
+If you are a customer, you already have the right to access your account information at any time, simply by logging into the website. However, you should be aware that there are now new rights of access to personal information under the Privacy Act.
 
 Under NPP6, you have the right to request access to the personal information which E*TRADE holds about you (although there are some exceptions to this). You also have the right to ask us to update or correct your personal information when it is inaccurate, incomplete or out of date.
 
@@ -105,8 +105,8 @@ Please be aware that if the relevant personal information was collected before 2
 
 E*TRADE’s Privacy Officer will contact you to discuss how we will handle your request for access to non-current records.
 
-**Correction  
-**After we have provided you with access, if you are of the view that the personal information we hold about you is not accurate, complete or up to date, please let our Privacy Officer know. Please use the contact details set out at clause 7 below.
+**Correction**  
+After we have provided you with access, if you are of the view that the personal information we hold about you is not accurate, complete or up to date, please let our Privacy Officer know. Please use the contact details set out at clause 7 below.
 
 Back to Top
 
@@ -118,8 +118,8 @@ As outlined in the introduction to this policy, E*TRADE may collect personal inf
 
 E*TRADE may collect non–personal information from you by your use of the website. For example, we might track information about the date and time you access our site, the type of web browser you use, and the website from which you connected to our site. Generally, we do not collect information which personally identifies you. Rather, this information is collected in an aggregate form, e.g. the number of users using different types of web browsers. E*TRADE does not match any personal information we have collected about you with the anonymous navigation and other non-personal information which we collect when you visit our website.
 
-**Use of information collected online  
-**Generally, E*TRADE uses and discloses personal information collected online in the same way as it uses and discloses information collected offline. If we need to disclose personal information about you which we collect online, we will make this clear in the relevant online application form.
+**Use of information collected online**  
+Generally, E*TRADE uses and discloses personal information collected online in the same way as it uses and discloses information collected offline. If we need to disclose personal information about you which we collect online, we will make this clear in the relevant online application form.
 
 **Links to other websites**  
 Sometimes our website contains links to third party websites for your convenience and information. When you access a non-E*TRADE website, please understand that E*TRADE is not responsible for the privacy practices of that site. We suggest that you review the privacy policies of each site you visit.
@@ -136,25 +136,7 @@ Back to Top
 
 The E*TRADE Privacy Policy may change from time to time. The E*TRADE Privacy Policy will be made available to anyone who requests it, whether at our offices or through our website.
 
-If you have any questions or comments about the E*TRADE Privacy Policy, or if you wish to make a complaint about how E*TRADE has handled personal information about you, please contact E*TRADE:
-
-by telephone on 1300 658 355 between 8 am to 7 pm Monday to Friday; or
-
-by facsimile to (02) 9241 7954; or
-
-by email to privacy@etrade.com.au; or
-
-by letter to:
-
-The Privacy Officer
-
-E*TRADE Australia
-
-Reply Paid 1346
-
-Royal Exchange NSW 1224
-
-Australia
+If you have any questions or comments about the E*TRADE Privacy Policy, or if you wish to make a complaint about how E*TRADE has handled personal information about you, please [contact us](https://web.archive.org/ContactUs/Default.aspx).
 
 Back to Top
 
