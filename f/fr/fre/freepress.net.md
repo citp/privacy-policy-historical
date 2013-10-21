@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freepress.net privacy policy that was archived on 2013-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130511011155id_/http%3A//www.freepress.net/privacy_copyright) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freepress.net privacy policy that was archived on 2013-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131021083755id_/http%3A//www.freepress.net/privacy_copyright) for the most accurate reproduction.*
 
 # Privacy and Copyright Policies | Free Press
 
@@ -60,7 +60,7 @@ If we are required by law to disclose any information that you have provided us,
 For any other information about our privacy practices and/or these policies, please contact info(AT)freepress.net.
 
 **Copyright Policies**  
-All original text, images and other materials hosted on freepress.net servers are copyright 2009-2012 Free Press, unless otherwise noted (e.g., news articles and licensed photos).
+All original text, images and other materials hosted on freepress.net servers are copyright 2009–2012 Free Press, unless otherwise noted (e.g., news articles and licensed photos).
 
 We encourage reproduction and distribution of original materials on this site for educational and personal use. All content on this site created by Free Press (unless otherwise noted) is available to you under a Creative Commons Attribution-NonCommercial-ShareAlike license.
 
