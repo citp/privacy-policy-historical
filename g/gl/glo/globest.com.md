@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the globest.com privacy policy that was archived on 2013-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130509122509id_/http%3A//www.globest.com/aboutus/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the globest.com privacy policy that was archived on 2013-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131021050215id_/http%3A//www.globest.com/aboutus/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - GlobeSt.com
-
-## Privacy Policy
 
 **YOUR PRIVACY**
 
