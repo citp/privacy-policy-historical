@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hereisthecity.com privacy policy that was archived on 2013-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130430164111id_/http%3A//hereisthecity.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hereisthecity.com privacy policy that was archived on 2013-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131021070124id_/http%3A//hereisthecity.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
