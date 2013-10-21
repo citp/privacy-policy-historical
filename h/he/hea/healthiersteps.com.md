@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the healthiersteps.com privacy policy that was archived on 2013-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130324003000id_/http%3A//www.healthiersteps.com/Home/tabid/41/ctl/Privacy/Default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthiersteps.com privacy policy that was archived on 2013-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131022002852id_/http%3A//healthiersteps.com/privacy.aspx) for the most accurate reproduction.*
 
 # Healthier Steps - Healing through healthy recipes, natural skin care and natural remedies
 
