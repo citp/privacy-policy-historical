@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the phonedetective.com privacy policy that was archived on 2011-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111025174836id_/http%3A//www.phonedetective.com/PD.aspx%3F_act%3DPrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the phonedetective.com privacy policy that was archived on 2013-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131021131417id_/http%3A//www.phonedetective.com/PD.aspx%3F_act%3DPrivacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy | Phone Detective
 
@@ -8,7 +8,7 @@ Effective Date: September 28, 2009
 
 [ ](http://clicktoverify.truste.com/pvr.php?page=validate&url=www.phonedetective.com&sealid=101)
 
-[Click here](https://web.archive.org/web/20111025174836id_/http%3A//www.phonedetective.com/PD.aspx?_act=PrivacyPrinciples) to learn more about how we protect your privacy and how to manage your information in our databases.
+[Click here](https://web.archive.org/web/20131021131417id_/http%3A//www.phonedetective.com/PD.aspx?_act=PrivacyPrinciples) to learn more about how we protect your privacy and how to manage your information in our databases.
 
 ## TRUSTe
 
@@ -57,7 +57,7 @@ We do not rent, sell, or share personal information about you with other people 
   * You can edit your Account Information within our members area by clicking "My Account" and then "Make Changes".
   * To exclude yourself from commercial emails and alerts sent by us, simply click the "Unsubscribe" link provided in any commercial email message.
   * We reserve the right to send you certain communications relating to our service, such as service announcements, administrative messages and customer receipts without offering you the opportunity to opt-out of receiving them.
-  * We make opting-out of our database fast, easy, and free. We believe that consumers should have the right to opt-out of any database that stores their personal information. While other companies might make the opt-out process unnecessarily difficult, we keep it simple. Just visit the [Opt-Out Request](https://web.archive.org/web/20111025174836id_/http%3A//www.phonedetective.com/PD.aspx?_act=OptOut "Opt-Out Request") page and submit the requested information. Please allow 1 to 7 business days for processing your request.
+  * We make opting-out of our database fast, easy, and free. We believe that consumers should have the right to opt-out of any database that stores their personal information. While other companies might make the opt-out process unnecessarily difficult, we keep it simple. Just visit the [Opt-Out Request](https://web.archive.org/web/20131021131417id_/http%3A//www.phonedetective.com/PD.aspx?_act=OptOut "Opt-Out Request") page and submit the requested information. Please allow 1 to 7 business days for processing your request.
 
 
 
@@ -72,8 +72,12 @@ We do not rent, sell, or share personal information about you with other people 
 
 We may update this policy. We will notify you about significant changes in the way we treat personal information by sending a notice to the primary email address specified in your account or by placing a notice on our site. 
 
-**How You Can Contact Us about Privacy Questions**
+## How You Can Contact Us about Privacy Questions
 
-If you have questions or concerns regarding this policy, you should contact us at privacy@PhoneDetective.com or by writing to us at PhoneDetective.com, Attn: Privacy Department, P.O. Box 391146, Omaha, NE 68139. PhoneDetective.com maintains offices at 101 University Avenue # 320, Palo Alto, CA.
+If you have questions or concerns regarding this policy, you can contact us by emailing [privacy@phonedetective.com](mailto:privacy@phonedetective.com), calling 888-879-2220 or writing to us at PhoneDetective.com, Attn: Privacy Department, P.O. Box 391146, Omaha, NE 68139. phonedetective.com maintains offices at 555 Twin Dolphin Drive #200, Redwood City, CA 94065. 
+
+## To Unsubscribe from Email Communications
+
+If you would like to stop receiving newsletters and marketing message emails from PhoneDetective.com, please provide us with the email address you would like to unsubscribe by emailing [privacy@phonedetective.com](mailto:privacy@phonedetective.com) or calling 888-879-2220. Please note that you may still receive account and billing notices from us, if applicable.
 
 * * *
