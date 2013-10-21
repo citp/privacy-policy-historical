@@ -1,66 +1,33 @@
-> *The following text is extracted and transformed from the studentsharez.com privacy policy that was archived on 2012-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120702154432id_/http%3A//www.studentsharez.com/thread-1279184.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the studentsharez.com privacy policy that was archived on 2013-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131021090610id_/http%3A//www.xleex.com/Thread-Privacy-Policy-for-Xleex-com-Forum) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy for Xleex.com Forum by DoctorX
 
-**What information is collected by studentsharez?
+Privacy Policy for Xleex.com Forum
 
-Standard use of the Site
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at studentsharez@gmail.com
 
-In general, you can browse the Site without telling us who you are or revealing any personal information. The only information we gather during a general navigation on the Site is the information intended for the server logs: IP (Internet Protocol) address, domain name, browser type, operating system and information such as the site from which you are connected, pages visited, and the dates and times of those visits.
+At Xleex.com we consider the privacy of our visitors to be extremely important. This privacy policy document describes in detail the types of personal information is collected and recorded by Xleex.com and how we use it.
 
-Collect of Personal Information
+Log Files  
+Like many other Web sites, Xleex.com makes use of log files. These files merely logs visitors to the site - usually a standard procedure for hosting companies and a part of hosting services's analytics. The information inside the log files includes internet protocol (IP) addresses, browser type, Internet Service Provider (ISP), date/time stamp, referring/exit pages, and possibly the number of clicks. This information is used to analyze trends, administer the site, track user's movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
 
-If you subscribe to a newsletter, log on to certain Warez-BB sites, request information, send any comments or if you join a discussion group or electronic mailing list, you will need to provide some personal information : name and e-mail address, for example. Such information is collected only with your permission and is stored in different databases and mailing lists belonging to Warez-BB. If you make a purchase over the Internet, you may be asked to provide your credit card information. These data are transferred to a secure payment online, hosted outside Warez-BB. Warez-BB does not keep credit card information.
+Cookies and Web Beacons  
+Xleex.com uses cookies to store information about visitors' preferences, to record user-specific information on which pages the site visitor accesses or visits, and to personalize or customize our web page content based upon visitors' browser type or other information that the visitor sends via their browser.
 
-The registration of personal information leads to the submission of a cookie* on certain sites of Warez-BB. By setting this cookie, Warez-BB will remember your personal details at the next visit so you do not have to re-enter the same information. This helps us to improve the quality of services that we offer.
+Third Party Privacy Policies  
+You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. Xleex.com's privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
 
-Participation in electronic discussion groups means that other participants in the group that you have chosen (including those who are not Site Administrators) will be aware of any personal information that you choose to disclose. In some open discussion groups the information is public.
+If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites.
 
-What does studentsharez do with the information it collects?
+Children's Information  
+We believe it is important to provide added protection for children online. We encourage parents and guardians to spend time online with their children to observe, participate in and/or monitor and guide their online activity. Xleex.com does not knowingly collect any personally identifiable information from children under the age of 13. If a parent or guardian believes that Xleex.com has in its database the personally-identifiable information of a child under the age of 13, please contact us immediately (using the contact in the first paragraph) and we will use our best efforts to promptly remove such information from our records.
 
-Standard use of the Site
+Online Privacy Policy Only  
+This privacy policy applies only to our online activities and is valid for visitors to our website and regarding information shared and/or collected there. This policy does not apply to any information collected offline or via channels other than this website.
 
-The information collected during the navigation in the "studentsharez.com" area is used to analyze trends and the use of the site in order to improve its usefulness. No personal information is attached there.
+Consent  
+By using our website, you hereby consent to our privacy policy and agree to its terms.
 
-Personal Information
-
-studentsharez may use such information to:
-
-* Contact you - either in response to a request or a suggestion, or to send you news, documents, publications, and so on;
-
-* Confirm your entries on the site;
-
-* "Remember" your online profile and preferences;
-
-* Statistical analysis performing.
-
-What will happen if I do not want to provide personal information?
-
-Providing personal information on the Site is optional. If you do not want to deliver information of this kind, you can always surf the Site, but you will not be able to access the entire Service and its Information.
-
-Removal or modification of information
-
-You can delete or modify your personal information at any time by returning to the page where you registered them or by contacting the coordinator of the page. If the page in question does not provide any information on this subject, you can contact privacy(at)studentsharez(dot)org for more information.
-
-If you are not the issuer of personal information that concerns you and want to have it removed, you can send your request to privacy(at)studentsharez.
-
-Security
-
-The personal data entrusted to the Site will not be sold or transferred to any third party. Any information provided to studentsharez by users of the Site is preserved with the utmost care and maximum safety. It will be used only in the manner described in this privacy policy, or according to the special rules of visited sites or in a manner to which you have explicitly consented. studentsharez uses techniques and a variety of measures to ensure the safety of information stored in its systems and protects them from loss, misuse, unauthorized access, disclosure, alteration, or destruction.
-
-All our volunteers (see "Moderators" - TOS) who have access to personal information or are associated with the processing of these data, are obliged to respect the confidentiality of every user of the Site, which covers the personal information.
-
-The Site provides links to sites outside the "studentsharez.com" area and could not be held responsible for the privacy practices or the content located on them.
-
-Modifications
-
-Any modification of these terms can be made at any time without prior publication or announcement.
-
-Contact
-
-For any questions or inquiries about our privacy policy, you can contact us at privacy(at)studentsharez.com
-
-*Cookie  
-A cookie is a small file that a Web server sends to your browser. It is normally used to assign your computer a unique identification and securely store information: identity of the user, passwords, preferences, online profiles. It is stored on the hard drive of your computer. You can refuse to have cookies delivered by studentsharez.com sites by changing the settings of your browser. Cookies installed in your computer can come from many Internet sites. To protect the confidentiality of data, your browser allows Web sites to access cookies they themselves have sent, not to those that others have sent. 
-
-**
+Update  
+This Privacy Policy was last updated on: Thursday, August 1st, 2013.  
+Should we update, amend or make any changes to our privacy policy, those changes will be posted here. 
