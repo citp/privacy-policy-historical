@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newppc.net privacy policy that was archived on 2013-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130529214335id_/http%3A//www.newppc.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newppc.net privacy policy that was archived on 2013-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131021101325id_/http%3A//newppc.net/privacy.php) for the most accurate reproduction.*
 
 # NEWPPC.NET - Quality PPC
 
