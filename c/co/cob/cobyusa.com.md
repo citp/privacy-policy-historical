@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the cobyusa.com privacy policy that was archived on 2013-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130628134634id_/http%3A//cobyusa.com/%3Fp%3Dpolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cobyusa.com privacy policy that was archived on 2013-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131021022440id_/http%3A//www.cobyusa.com/%3Fp%3Dpolicy) for the most accurate reproduction.*
 
 # Privacy Policy | COBY
 
-Your privacy is important to COBY. This statement discloses the information practices for COBY's Websites, including what type of information is gathered and tracked, how the information is used, and with whom the information is shared. **COBY reserves the right to modify this privacy policy at any time. In addition, you understand that your use of this Website is governed by Coby's** [Terms and Conditions](https://web.archive.org/web/20130628134634id_/http%3A//cobyusa.com/?p=terms).
+Your privacy is important to COBY. This statement discloses the information practices for COBY's Websites, including what type of information is gathered and tracked, how the information is used, and with whom the information is shared. **COBY reserves the right to modify this privacy policy at any time. In addition, you understand that your use of this Website is governed by Coby's** [Terms and Conditions](https://web.archive.org/web/20131021022440id_/http%3A//www.cobyusa.com/?p=terms).
 
 ### Personal Information
 
@@ -16,7 +16,7 @@ Any and all personal information collected by us is used for COBY's internal bus
 
 COBY Websites may employ "cookies" to store and sometimes track general, non-personal information about your visits (such as the type of browser you use, the files you request, the domain name, and the city, state and country from which you request information). Cookies, which will be stored in your computer's hard drive, allow COBY to determine the manner and number of internet visits to pages on its Websites, and are designed to help COBY improve its Websites to better meet your needs. If you prefer, most internet browsers can be configured to not accept cookies, or to notify you if a cookie is sent to you. 
 
-The COBY website may contain links to other internet sites. As is set forth in our [Terms and Conditions](https://web.archive.org/web/20130628134634id_/http%3A//cobyusa.com/?p=terms), we do not endorse or otherwise accept responsibility for the content or privacy policies of those sites. 
+The COBY website may contain links to other internet sites. As is set forth in our [Terms and Conditions](https://web.archive.org/web/20131021022440id_/http%3A//www.cobyusa.com/?p=terms), we do not endorse or otherwise accept responsibility for the content or privacy policies of those sites. 
 
 ### Human Resource Related Information
 
@@ -25,3 +25,5 @@ In connection with a job application or inquiry, whether advertised on a COBY We
 ### Business Partners Information
 
 If you represent a COBY Business Partner, you may visit a COBY Website intended specifically for COBY Business Partners. We may use information provided on that site to administer and develop our business relationship with you, the Business Partner you represent, and COBY Business Partners generally. For instance, this may involve using your information to send you details of COBY Business Partner programs. It may also include sharing certain information with other Business Partners (subject to any confidentiality obligations that may exist), or COBY customers or prospects. From time to time we may supplement information you give us via a COBY Website with information from other sources, such as information validating your address or other available information about businesses. This is to help us maintain the accuracy of the information we collect and to help us provide a better service. 
+
+**Warning** : Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/var/lib/php5) in **Unknown** on line **0**
