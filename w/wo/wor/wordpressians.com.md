@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wordpressians.com privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621044625id_/http%3A//www.wordpressians.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wordpressians.com privacy policy that was archived on 2013-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131021143253id_/http%3A//www.wordpressians.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - WordPressians
 
