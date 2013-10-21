@@ -1,12 +1,14 @@
-> *The following text is extracted and transformed from the mindfieldonline.com privacy policy that was archived on 2013-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130509135644id_/http%3A//mindfieldonline.com/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mindfieldonline.com privacy policy that was archived on 2013-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131021182751id_/http%3A//mindfieldonline.com/page/privacy) for the most accurate reproduction.*
 
 # MindField - What's on Your Mind?
+
+### Privacy Policy
 
 **Effective On 7/25/2012**
 
 [](http://privacy.truste.com/privacy-seal/McMillion-Research/validation?rid=87f85496-31a7-4fa3-929d-7d37d683945d "TRUSTe online privacy certification")
 
-McMillion Research has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program does not cover information that may be collected through downloadable software. The TRUSTe program covers only information that is collected through this Web site, [http://mindfieldonline.com](http://mindfieldonline.com/).
+McMillion Research has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program does not cover information that may be collected through downloadable software. The TRUSTe program covers only information that is collected through this Web site, [http://mindfieldonline.com]().
 
 TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy Trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at:
 
@@ -20,7 +22,7 @@ TRUSTe's mission, as an independent third party, is to accelerate online trust a
 304.343.6522
 
 **Postal Address:**  
-MindField Online c/o McMillion Research LLC.  
+MindField Online c/o McMillion Research LLC  
 1012 Kanawha Blvd. East, Suite 301  
 Charleston, WV 25301
 
@@ -160,9 +162,6 @@ If you have any questions or suggestions regarding our privacy policy, please co
 304.343.6522
 
 **Postal Address:**  
-MindField Online c/o McMillion Research LLC.  
+MindField Online c/o McMillion Research LLC  
 1012 Kanawha Blvd. East, Suite 301  
 Charleston, WV 25301
-
-©2004-2013 MindField Internet Panels, a division of [McMillion Research LLC](http://www.mcmillionresearch.com/). Toll free: 800.969.9235  
-All rights reserved - Site Design: The Creative Team of MindField Online & McMillion Research 
