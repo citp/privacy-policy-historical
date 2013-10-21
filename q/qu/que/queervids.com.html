@@ -1,0 +1,232 @@
+<!--The following is the downloaded HTML source of the queervids.com privacy policy that was archived on 2013-10-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131021162604id_/http%3A//queervids.com/privacy) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html><head>
+<title>QueerVids - Privacy Policy</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="robots" content="index, follow">
+<meta name="revisit-after" content="1 days">
+<link rel="Shortcut Icon" type="image/ico" href="/favicon.ico">
+<link href="/css/reset.css" media="screen" rel="stylesheet" type="text/css">
+<link href="/css/main.css" media="screen" rel="stylesheet" type="text/css">
+<link href="/css/payment_info_box.css?1298719117" media="screen" rel="stylesheet" type="text/css">
+<!--[if IE]>
+			<link href="/css/all-ie-only.css" rel="stylesheet" type="text/css" />
+	<![endif]-->
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
+		var base_url = "http://queervids.com";
+	</script>
+<script type="text/javascript">
+
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-30117232-1']);
+      _gaq.push(['_setDomainName', 'queervids.com']);
+      _gaq.push(['_trackPageview']);
+
+      (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+      })();
+
+    </script>
+<script src="/js/swfobject_modified.js" type="text/javascript"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7/jquery.min.js"></script>
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.8/jquery-ui.min.js"></script>
+<link type="text/css" rel="stylesheet" href="https://ajax.googleapis.com/ajax/libs/jqueryui/1.8/themes/base/jquery-ui.css">
+<script src="/js/jquery.cookie.js"></script>
+<script src="/js/cache.js?t=1382372765"></script>
+<script type="text/javascript">
+		var url     = '/thumbs/';
+		var timers  = new Array;
+		var images  = new Array;
+		function changeThumb( id, url, num )
+		{
+		    document.getElementById(id).src = url;
+			if (num == 20 && $('#'+id).hasClass('rotating')) $('#'+id).mouseover();
+		}
+
+		$(document).ready(function() {
+		    $("img[id*='rotate_'] ").live('mouseover', function(){
+				if (!$(this).hasClass('rotating')) {
+					$(this).addClass('rotating');
+		        	thmb_default = $(this).attr("src");
+				}
+		        var image_id    = $(this).attr("id");
+		        var id_split    = image_id.split('_');
+		        var video_id    = id_split[1];
+		        cover_split = image_id.split('-');
+		        if (cover_split[0] == 'bg') {
+		            image_id = cover_split[1];
+		        }
+		        for ( var i=1; i<=20; i++ ) {
+		            var image_url = url + video_id + '/' + i + '.jpg';
+		            images[i]     = new Image();
+		            images[i].src = image_url;
+		        }
+		        for ( var i=1; i<=20; i++ ) {
+		            timers[i] = setTimeout("changeThumb('" + image_id + "','" + url + video_id + '/' + i + '.jpg' + "', " + i + ")", i*50*10);
+		        }
+		    });
+		    $("img[id*='rotate_'] ").live('mouseout', function(){
+				$(this).removeClass('rotating');
+		        var image_id    = $(this).attr("id");
+		        var id_split    = image_id.split('_');
+		        var video_id    = id_split[1];
+		        cover_split = image_id.split('-');
+		        if (cover_split[0] == 'bg') {
+		            image_id = cover_split[1];
+		        }
+		        for ( var i=1; i<=20; i++ ) {
+		            if ( typeof timers[i] == "number" ) {
+		                clearTimeout(timers[i]);
+		            }
+		        }
+		        if ( thmb_default !== undefined ) {
+		            $('#'+image_id).attr('src', thmb_default);
+		        }
+		    });
+		});
+	</script>
+</head>
+<body>
+<div id="container">
+<div id="header">
+ 
+<div id="logo">
+<a href="http://queervids.com"><img src="/images/logo.png" alt="QueerVids"></a>
+</div>
+<div id="right">
+<div id="userlinks">
+<div class="login_block">
+<form accept-charset="UTF-8" action="https://queervids.com/login" class="new_user_session" id="new_user_session" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"><input name="authenticity_token" type="hidden" value="eokKHB/n0OqMAjUv21bWTUlR82G73VOY2ofAVckkNw4="></div>
+<div class="login_box">
+<label for="user_session_username">Email Address:</label>
+<input class="login" id="user_session_username" name="username" size="30" type="text">
+</div>
+<div class="password_box">
+<label for="user_session_password">Password:</label>
+<input class="password" id="user_session_password" name="password" size="30" type="password">
+</div>
+<div class="button_box">
+<input class="button" id="user_session_submit" name="commit" type="submit" value="Login">
+</div>
+</form>
+</div>
+</div>
+<div id="slidetabsmenu">
+<ul>
+<li><a href="/"><span>Videos</span></a></li>
+<li><a href="http://queervids.com/support"><span>Support</span></a></li>
+ 
+<li id="ul"><a><span>PayDay!</span></a>
+<ul>
+<li><a href="/contest">PayDay! Videos</a></li>
+<li><a href="/contest/details">PayDay! Details</a></li>
+<li><a href="/contest/upload">Video Upload</a></li>
+<li><a href="/contest/terms">Terms &amp; Conditions</a></li>
+</ul>
+</li>
+</ul>
+</div>
+<div class="clear_left"></div>
+</div>
+<div class="clear"></div>
+<div id="submenu">
+<p>
+<span>Want to see <strong>longer videos</strong>? →</span>
+<span id="signup">
+<a href="https://join.queervids.com" rel="nofollow">Create <strong>FREE</strong> account</a>
+<span class="left_deco"></span>
+<span class="right_deco"></span>
+</span>
+</p>
+<div class="clear"></div>
+</div>
+</div>
+<div id="main_content">
+<div id="content" class="legal">
+<br>
+<h1>Privacy Policy</h1>
+<br>
+<p>QueerVids is responsibly dedicated to maintaining your privacy and confidentiality at all times. All information we collect from you is done with your knowledge and acceptance. Email addresses (and any other contact information you may supply) are used for notification purposes regarding our website and any updates pertinent to our website. Any information we collect is considered confidential will NOT be shared, sold, or transferred to any other entity or organization for any purpose.</p>
+<br>
+<p>QueerVids has gone to great lengths to ensure your privacy concerning any and all information you supply to us. Appropriate safeguards have been incorporated into the website, and encrypted procedures are used throughout each transaction process. Built into the site are safeguards to prevent the misuse, alteration, unauthorized access to or loss of information.</p>
+</div>
+</div> 
+<div id="footer" style="clear: both;">
+Copyright © 2008-2013 <a href="http://queervids.com/">QueerVids</a> is a site of Tyton Internet Services Inc.. All Rights Reserved.<br>
+<a href="/terms" rel="nofollow">Terms and Conditions</a> ·
+<a href="/privacy" rel="nofollow">Privacy Policy</a> ·
+<a href="/dmca" rel="nofollow">DMCA</a> ·
+<a href="/2257" rel="nofollow">2257</a> ·
+<a href="http://videoclickers.com" rel="nofollow">Webmasters</a>
+</div>
+<div id="upgrade_container" style="display:none;">
+<div class="title_green">
+<h2><a href="#" onclick="$('#upgrade_container').dialog('close');">Close X</a></h2>
+</div>
+ 
+<div id="trailer">
+<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" width="430" height="362" id="FlashID" title="VIP trailer">
+<param name="movie" value="/images/vip_trailer.swf">
+<param name="quality" value="high">
+<param name="wmode" value="transparent">
+<param name="swfversion" value="11.0.0.0">
+<param name="expressinstall" value="Scripts/expressInstall.swf">
+ 
+<!--[if !IE]>-->
+<object type="application/x-shockwave-flash" data="/images/vip_trailer.swf" width="430" height="362">
+<!--<![endif]-->
+<param name="quality" value="high">
+<param name="wmode" value="transparent">
+<param name="swfversion" value="11.0.0.0">
+<param name="expressinstall" value="Scripts/expressInstall.swf">
+<!--[if !IE]>-->
+</object>
+<!--<![endif]-->
+</object>
+</div>  
+ 
+<div id="content">
+<img src="/images/pop_up_logo.jpg" alt="Queervids VIP logo">
+<p>Hello <strong id="vip_username"></strong>, Welcome to the <b>QueerVids VIP Area!</b></p>
+ 
+<div class="pop_section">
+<div class="title_green">
+<h2>As a VIP Member You Get:</h2>
+</div>
+<ul>
+<li>· Access to <b>Exclusive All-HD Videos!</b></li>
+<li>· Access to <b>Real Amateur Submissions!</b></li>
+<li>· <b>Daily Updates</b> with Over <b>300 New Videos</b> Added Monthly!</li>
+<li>· Download <b>Over 6000 Movies</b> for the Cost of <b>One!</b></li>
+</ul>
+<p><strong>Never Run out of New Content Again!</strong></p>
+</div> 
+ 
+<div class="pop_expired">
+<h2>Membership Status: <span class="red">VIP Expired</span></h2>
+<p>Reactivate Your VIP Membership for $79.95 per month <a href="/support">(Cancel Anytime)</a> by pushing the Upgrade to VIP button below.</p>
+</div>
+<button onclick="$(this).attr('disabled', 'disabled');location.href='/upgrade';" id="upgrade_button"><img src="/images/pop_up_upgrade.jpg" width="364" height="58" alt="Upgrade To VIP"></button>
+</div> 
+</div> 
+<script type="text/javascript">
+	function showUpgradePopup() {
+		$('#upgrade_container').dialog({
+			resizable: false,
+			width: 890,
+			height:500,
+			modal: true,
+			open: function() {
+				$('.ui-dialog-titlebar').remove();
+				$('.ui-widget-content').css('border', 'none').css('background', '#000');
+			}
+		});
+	}
+	</script>
+</div>
+
+
+</body></html>
