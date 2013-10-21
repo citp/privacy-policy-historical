@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ez.no privacy policy that was archived on 2013-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130528013108id_/http%3A//ez.no/Privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ez.no privacy policy that was archived on 2013-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131021102928id_/http%3A//ez.no/Privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy - Home - eZ Web Content Management
 
