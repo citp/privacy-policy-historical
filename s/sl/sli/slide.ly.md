@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the slide.ly privacy policy that was archived on 2013-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130515194248id_/http%3A//slide.ly/general/content/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the slide.ly privacy policy that was archived on 2013-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131022005735id_/http%3A//slide.ly/general/content/privacy-policy) for the most accurate reproduction.*
 
 # Slide.ly Free Photo Slideshow online, awesome slide show maker with photos and music!
 
