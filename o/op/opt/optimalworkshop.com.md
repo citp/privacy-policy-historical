@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the optimalworkshop.com privacy policy that was archived on 2013-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130607032240id_/http%3A//www.optimalworkshop.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the optimalworkshop.com privacy policy that was archived on 2013-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131021223525id_/http%3A//www.optimalworkshop.com/privacy) for the most accurate reproduction.*
 
-# Privacy | Optimal Workshop
+# Privacy Policy | Optimal Workshop
 
 Optimal Product ("Optimal") is committed to ensuring that your privacy is respected and maintained at all times. Optimal complies with the Privacy Act 1993 and the Information Privacy Principles. Optimal's Privacy Statement explains in general terms Optimal's information collection practices and of the ways in which your information may be used.
 
