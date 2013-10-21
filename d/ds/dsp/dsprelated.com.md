@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dsprelated.com privacy policy that was archived on 2013-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130513045345id_/http%3A//www.dsprelated.com/new/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dsprelated.com privacy policy that was archived on 2013-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131021175925id_/http%3A//www.dsprelated.com/new/privacypolicy.php) for the most accurate reproduction.*
 
 # Privacy Policy | DSPRelated.com
 
