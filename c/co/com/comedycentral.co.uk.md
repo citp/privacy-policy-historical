@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the comedycentral.co.uk privacy policy that was archived on 2013-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130526084322id_/http%3A//www.comedycentral.co.uk/info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the comedycentral.co.uk privacy policy that was archived on 2013-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131021173030id_/http%3A//www.comedycentral.co.uk/info/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Info | Comedy Central UK and Ireland
 
 ### Privacy Policy
 
-The Comedy Central channels and the Comedy Central Website (being www.comedycentral.co.uk) (the “Website”) are owned and operated by the Paramount UK Partnership (“Comedy Central”) of 180 Oxford Street, London W1D 1DS. 
+The Comedy Central channels and the Comedy Central Website (being www.comedycentral.co.uk) (the “Website”) are owned and operated by the Paramount UK Partnership (“Comedy Central”) of 17-29 Hawley Crescent, London, NW1 8TT. 
 
 This Privacy Policy sets out how we use any personal data that you give us, such as your name, address, telephone number or e-mail address. 
 
