@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spidersolitaire.org privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501033201id_/http%3A//www.spidersolitaire.org/PP.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spidersolitaire.org privacy policy that was archived on 2013-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131021081112id_/http%3A//www.spidersolitaire.org/PP.php) for the most accurate reproduction.*
 
 # Spider Solitaire | Play Free Spider Solitaire Online
 
