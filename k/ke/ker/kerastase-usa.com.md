@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kerastase-usa.com privacy policy that was archived on 2013-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130630074055id_/http%3A//www.kerastase-usa.com/Privacy-Security-Policy/privacy%2Cdefault%2Cpg.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kerastase-usa.com privacy policy that was archived on 2013-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131021224849id_/http%3A//www.kerastase-usa.com/Privacy-Security-Policy/privacy%2Cdefault%2Cpg.html) for the most accurate reproduction.*
 
 # Privacy Policy - Kerastase Policies On Information Collected From Website
 
