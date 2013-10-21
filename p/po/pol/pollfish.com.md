@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pollfish.com privacy policy that was archived on 2013-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130622144804id_/http%3A//www.pollfish.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pollfish.com privacy policy that was archived on 2013-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131021165939id_/http%3A//www.pollfish.com/privacy) for the most accurate reproduction.*
 
-# PollFish - Privacy policy
+# Pollfish: Privacy policy
 
 Privacy policy
 
