@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the companieshouse.gov.uk privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601052348id_/http%3A//companieshouse.gov.uk/legal/termsAndConditions.shtml%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the companieshouse.gov.uk privacy policy that was archived on 2013-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131021050633id_/http%3A//www.companieshouse.gov.uk/legal/termsAndConditions.shtml%23privacy) for the most accurate reproduction.*
 
 # Terms and Conditions
 
