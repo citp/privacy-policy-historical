@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the intuitivesurgical.com privacy policy that was archived on 2013-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130430122923id_/http%3A//www.intuitivesurgical.com/company/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the intuitivesurgical.com privacy policy that was archived on 2013-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131021183722id_/http%3A//www.intuitivesurgical.com/company/legal/privacy.html) for the most accurate reproduction.*
 
 # Intuitive Surgical - Privacy
 
@@ -33,3 +33,6 @@ You may, at any time, remove your personal identifying information from our curr
 ## Your Use
 
 By using this web site, you agree not to disrupt or intercept our electronic information posted on this web site or on any of our servers. You also agree not to attempt to circumvent any security features of our web site, and to abide by all applicable, local, state, federal and international laws. 
+
+  
+While clinical studies support the effectiveness of the _da Vinci_ Surgical System when used in minimally invasive surgery, individual results may vary. There are no guarantees of outcome. All surgeries involve the risk of major complications. **Before you decide on surgery, discuss treatment options with your doctor. Understanding the risks of each treatment can help you make the best decision for your individual situation.** Surgery with the _da Vinci_ Surgical System may not be appropriate for every individual; it may not be applicable to your condition. Always ask your doctor about all treatment options, as well as their risks and benefits. Only your doctor can determine whether _da Vinci_ Surgery is appropriate for your situation. The clinical information and opinions, including any inaccuracies expressed in this material by patients or doctor about da Vinci Surgery are not necessarily those of Intuitive Surgical, Inc. and should not be considered as substitute for medical advice provided by your doctor. All persons depicted are models unless otherwise noted. © 2013 Intuitive Surgical. All rights reserved. _Intuitive_ , _Intuitive Surgical_ , _da Vinci_ , _da Vinci S, da Vinci Si, Single-Site,  InSite_, _TilePro_ and _EndoWrist_ are trademarks or registered trademarks of Intuitive Surgical. All other product names are trademarks or registered trademarks of their respective holders. 
