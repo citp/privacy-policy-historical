@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the callfire.com privacy policy that was archived on 2013-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130616023943id_/https%3A//www.callfire.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the callfire.com privacy policy that was archived on 2013-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131021103203id_/http%3A//www.callfire.com/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | CallFire
 
