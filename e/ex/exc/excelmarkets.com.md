@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the excelmarkets.com privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502123532id_/https%3A//www.excelmarkets.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the excelmarkets.com privacy policy that was archived on 2013-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131021082131id_/http%3A//www.excelmarkets.com/privacy) for the most accurate reproduction.*
 
 # Forex Broker | Best Trading Spreads | Privacy Policy | Excel Markets
 
@@ -8,16 +8,16 @@ Global Brokers NZ Ltd. (GBL) is committed to protecting your privacy and safegua
 
 ## Article I. Information Collected by GBL
 
-The categories of nonpublic personal information which GBL shall collect include: 
+The categories of nonpublic personal information which GBL shall collect include:
 
 a) Information provided by the customer when opening an account, or to process a transaction, such as name, address, assets, bank information, prior trading experience, etc.;  
 b) Information used to verify the identity of the customer, including copies of government issued identification materials such as passports, drivers licenses, and credit reports;  
-c) Information resulting from transactions between the customer and GBL or an affiliate of GBL, such as withdrawal and deposit forms;  
-d) Information derived from customer’s navigation and usage of GBL’ website and online platforms, including account trading statements;
+c) Information resulting from transactions between the customer and GBL or an affiliate of GBL, such as withdrawal and deposit forms;   
+d) Information derived from customer's navigation and usage of GBL's website and online platforms, including account trading statements;
 
 ## Article II. Usage of Personal Information
 
-GBL may use the information collected from you to verify your identity and contact information. GBL may also use this information to establish and setup your trading or demo account, issue an account number and a secure password, maintain your account activity, and contact you with account information.  
+GBL may use the information collected from you to verify your identity and contact information. GBL may also use this information to establish and setup your trading or demo account, issue an account number and a secure password, maintain your account activity, and contact you with account information.   
 Should you close your account, GBL will retain your information, but only use it to comply with regulatory requirements and to periodically contact you to offer you the opportunity to reactivate your account or participate in other valuable offers.
 
 ## Article III. Information Disclosed by GBL and To Whom GBL Discloses the Information 
@@ -38,7 +38,7 @@ e) GBL may provide information, as permitted by law, to government or regulatory
 
 f) GBL may also disclose your nonpublic personal information if you authorize such disclosure. 
 
-If you do not wish to have GBL share nonpublic personal information with non-affiliated third parties pursuant to any of the provisions listed above, please opt out of those provisions by sending an e-mail to [compliance@excelmarkets.com](mailto:compliance@excelmarkets.com). Opting out will apply for all financial products or services you obtain through GBL. Please note that you cannot opt out of any provisions if sharing of the information is required by law. Further, please note that an opt-out election must be made for each separate account you hold at GBL or with any GBL affiliates. 
+If you do not wish to have GBL share nonpublic personal information with non-affiliated third parties pursuant to any of the provisions listed above, please opt out of those provisions by sending an e-mail to compliance@excelmarkets.com. Opting out will apply for all financial products or services you obtain through GBL. Please note that you cannot opt out of any provisions if sharing of the information is required by law. Further, please note that an opt-out election must be made for each separate account you hold at GBL or with any GBL affiliates. 
 
 ## Article IV. Confidentiality and Security Procedures 
 
@@ -48,7 +48,7 @@ GBL maintains numerous safeguards that comply with government regulations to gua
 
 GBL will continue to protect the privacy of former customers’ nonpublic personal information in the same manner as when they were customers. Unlike current customers, however, former customers will not receive annual privacy notices. 
 
-GBL will provide a notice of our privacy policy annually, as long as the customer maintains an account with GBL. GBL reserves the right to make changes to this policy. This policy may always be reviewed on [www.excelmarkets.com/privacy](http://www.excelmarkets.com/privacy "www.excelmarkets.com/privacy").
+GBL will provide a notice of our privacy policy annually, as long as the customer maintains an account with GBL. GBL reserves the right to make changes to this policy. This policy may always be reviewed on www.excelmarkets.com/privacy.
 
 ## Article V. Cookies
 
@@ -56,8 +56,8 @@ GBL may set cookies and other data capture mechanisms on your computer that allo
 
 ## Article VI. Personal Data Access
 
-Access to the Personal Data we may hold about you. You have the right to request a copy of the data we hold about you and to have any inaccurate data about you corrected. For more information, please send an email to [compliance@excelmarkets.com](mailto:compliance@excelmarkets.com).
+Access to the Personal Data we may hold about you. You have the right to request a copy of the data we hold about you and to have any inaccurate data about you corrected. For more information, please send an email to compliance@excelmarkets.com.
 
 ## Article VII. Opt Out
 
-You are not required to supply any of the personal information that we may request. However, failure to do so may result in GBL not being able to open or maintain your account. 
+You are not required to supply any of the personal information that we may request. However, failure to do so may result in GBL not being able to open or maintain your account.
