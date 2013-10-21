@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the membershiptoolkit.com privacy policy that was archived on 2012-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120429054049id_/http%3A//www.membershiptoolkit.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the membershiptoolkit.com privacy policy that was archived on 2013-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131021083448id_/http%3A//www2.membershiptoolkit.com/privacy) for the most accurate reproduction.*
 
-# Membership Toolkit
+# Privacy Policy
 
-### Privacy Policy
+**Updated: March 15, 2013**
 
 At Membership Toolkit, Inc., we are dedicated to protecting your privacy and safeguarding your personally identifiable information. Our mission is to consistently exceed our customer's expectations. We are committed to adhering to the principles of applicable data protection and privacy laws throughout the United States. Amendments to this statement will be posted to this URL and will be effective when posted.
 
@@ -16,7 +16,9 @@ We use cookies to help you navigate the Membership Toolkit website and Service a
 
 **Security and Storage**
 
-The Membership Toolkit website and Service has industry standard security measures in place to protect the loss, misuse, and alteration of the information under our control. While there is no such thing as "perfect security" on the Internet, we will take all reasonable steps to insure the safety of your information.
+The Membership Toolkit website and Service has industry standard security measures in place to protect the loss, misuse, and alteration of the information under our control. While there is no such thing as “perfect security” on the Internet, we will take all reasonable steps to insure the safety of your information. These safeguards include encryption of your data in transmission (using SSL or similar technologies).
+
+We host our system in world-class datacenters with 24-hour security, redundancy, power, all the bells and whistles. We perform periodic backups of your data (in many cases multiple times per day), and maintain offsite storage of the data for a period of time, transmitted and stored in a secure fashion, to protect against data loss. During the process of development and troubleshooting the Membership Toolkit system, it may be necessary for us to look at pieces of your data to improve the service or resolve a problem, but your data is never shared with anyone outside of Membership Toolkit.
 
 Additionally, you retain all rights of ownership to the data you have stored on the Membership Toolkit Service. We will not sell or share this data with any third parties. Your privacy and the privacy of your clients are of the utmost importance to us.
 
