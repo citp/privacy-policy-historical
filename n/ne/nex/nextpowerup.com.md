@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nextpowerup.com privacy policy that was archived on 2013-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130520132229id_/http%3A//www.nextpowerup.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nextpowerup.com privacy policy that was archived on 2013-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131022003046id_/http%3A//www.nextpowerup.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy | NextPowerUp
 
