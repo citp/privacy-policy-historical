@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the untappedcities.com privacy policy that was archived on 2013-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130424142440id_/http%3A//untappedcities.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the untappedcities.com privacy policy that was archived on 2013-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131022011408id_/http%3A//untappedcities.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy « Untapped Cities
+# Privacy Policy | Untapped Cities
 
 Your privacy is important to us at Untapped Cities  (“we”, or “our”). Accordingly, we have established and implemented information handling practices for [untappedcities.com](http://untappedcities.com/) (the “Site”) that we believe are consistent with the highest standards and best practices of organizations doing business on the Internet. This Privacy Policy describes the practices that apply to the Site, including, specifically, the information we collect about you, when and how we collect that information and what may happen to that information. We have prepared this detailed Privacy Policy because we believe you should know as much as possible about our practices so that you can make informed decisions about how you use the Site. Capitalized terms in this Privacy Policy have the meaning ascribed to them in our [Terms of Use](http://untappedcities.com/terms-of-use/).
 
