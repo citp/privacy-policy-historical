@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the younglife.org privacy policy that was archived on 2013-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130509164843id_/http%3A//www.younglife.org/Legal/PrivacyPolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the younglife.org privacy policy that was archived on 2013-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131022012927id_/http%3A//www.younglife.org/Legal/PrivacyPolicy.htm) for the most accurate reproduction.*
 
 # Young Life Privacy Policy and Conditions of Use
 
@@ -15,6 +15,14 @@ Young Life uses information you provide to better serve your requests. We do not
 **Security**
 
 To safeguard and secure the information we collect online, Young Life has applied appropriate physical, electronic and managerial procedures to prevent unauthorized access and maintain data accuracy. Internet encryption software, Secure Socket Layer (SSL) protocol, is utilized to protect sensitive data transmissions with banking or credit card information. The padlock icon in the bottom of your browser’s window or a blue line around the window signifies that a site is secure. Sometimes password protection is used to protect your privacy and security.
+
+**Third Party Disclosure**
+
+Young Life does not disclose any personal information we collect from our websites to third parties. We do use this aggregate information, which is not personally identifiable, to give us demographic information about the entire Young Life network audience in order to improve our service through our entire series of information and products. 
+
+**Links to Other Sites**
+
+The Young Life network may, from time to time, provide links to other sites not owned or controlled by Young Life. In some cases Young Life has contracted other vendors to manage a specific function such as Young Life's online store or donor giving. No assumption should be made and no representation should be inferred that Young Life is connected with, operates or controls these websites. Users who agree to link to these sites are alerted that they are leaving the Young Life network before they are linked to the other site. The privacy and data collection practices on linked websites are entirely separate from the Young Life network and are not covered by this privacy policy. 
 
 **Site Access –  Commercial Use**
 
