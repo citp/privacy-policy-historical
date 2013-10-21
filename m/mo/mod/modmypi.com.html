@@ -1,10 +1,10 @@
-<!--The following is the downloaded HTML source of the modmypi.com privacy policy that was archived on 2013-04-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130426012852id_/https%3A//www.modmypi.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the modmypi.com privacy policy that was archived on 2013-10-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131021103900id_/https%3A//www.modmypi.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="en" xml:lang="en"><head><meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 <meta name="HandheldFriendly" content="true">
 
-<title>Privacy Policy</title>
+<title>ModMyPi | Privacy Policy</title>
 <link type="text/css" rel="stylesheet" href="/min/index.php?b=catalog/view&amp;f=theme/default/stylesheet/stylesheet.css,javascript/jquery/ui/themes/ui-lightness/jquery-ui-1.8.16.custom.css,javascript/jquery/colorbox/colorbox.css" media="all">
 <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/min/index.php?b=catalog/view/javascript&amp;f=jquery/jquery-1.7.1.min.js,jquery/ui/jquery-ui-1.8.16.custom.min.js,jquery/ui/external/jquery.cookie.js,jquery/colorbox/jquery.colorbox.js,jquery/tabs.js,common.js"></script>
 <base href="https://www.modmypi.com/">
@@ -42,7 +42,129 @@ DD_belatedPNG.fix('#logo img');
     ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
   })();
-</script></head>
+</script>	<style type="text/css">
+		#smartsearch {
+			display: none;
+			background: #FFFFFF !important;
+			border: 1px solid #EEEEEE !important;
+			border-top: none !important;
+			border-radius: 0 0 7px 7px !important;
+			box-shadow: 0 2px 2px #DDD !important;
+			line-height: 1.2 !important;
+			margin: -3px 0 0 2px !important;
+			padding: 0 !important;
+			position: absolute !important;
+			white-space: normal !important;
+			width: 292px !important;
+			z-index: 9999999 !important;
+											}
+		#smartsearch a {
+			white-space: normal !important;
+		}
+		#search, .searchbox {
+			overflow: visible !important;
+			z-index: 9999999 !important;
+		}
+		.smartsearch-product {
+			border-bottom: 1px solid #EEEEEE !important;
+			color: #000000 !important;
+			display: block !important;
+			font-size: 11px !important;
+			font-weight: normal !important;
+							min-height: 50px !important;
+						padding: 5px !important;
+			text-decoration: none !important;
+		}
+		.smartsearch-product img {
+			float: left !important;
+			margin: 0 10px 0 0 !important;
+		}
+		.smartsearch-product strong {
+			font-size: 13px !important;
+			margin: 5px 5px 5px 0 !important;
+		}
+		.smartsearch-focus, .smartsearch-product:hover {
+			background: #EEFFFF !important;
+			text-decoration: none !important;
+		}
+		.smartsearch-bottom {
+			font-size: 12px !important;
+			font-weight: bold !important;
+			padding: 10px !important;
+			text-align: center !important;
+		}
+					</style>
+	<script type="text/javascript">
+		var wait;
+		
+		$(document).ready(function(){
+			$('#search input').after('<div id="smartsearch"></div>').blur(function(){
+				clearTimeout(wait);
+				wait = setTimeout(hideSmartSearch, 500);
+			}).keydown(function(e){
+				if ($('.smartsearch-product').length && e.which == 38) {
+					e.preventDefault();
+					return false;
+				}
+			}).keyup(function(e){
+				if (!$('#search input').val()) {
+					clearTimeout(wait);
+					wait = setTimeout(hideSmartSearch, 500);
+				}
+				if (e.which == 13 && $('.smartsearch-focus').length) {
+					location = $('.smartsearch-focus').attr('href');
+				}
+				if ($('#search input').val().replace(/^\s+|\s+$/g, '') && (e.which == 8 || (47 < e.which && e.which < 112) || e.which > 185)) {
+					clearTimeout(wait);
+					wait = setTimeout(showSmartSearch, 500);
+				}
+				if ($('.smartsearch-product').length && (e.which == 38 || e.which == 40)) {
+					if (!$('.smartsearch-focus').length) {
+						if (e.which == 38) $('.smartsearch-bottom').prev().addClass('smartsearch-focus');
+						if (e.which == 40) $('.smartsearch-product:first-child').addClass('smartsearch-focus');
+					} else {
+						if (e.which == 38) $('.smartsearch-focus').removeClass('smartsearch-focus').prev('a').addClass('smartsearch-focus');
+						if (e.which == 40) $('.smartsearch-focus').removeClass('smartsearch-focus').next('a').addClass('smartsearch-focus');
+					}
+				}
+			});
+		});
+		
+		function showSmartSearch() {
+			$('#smartsearch').html('<div class="smartsearch-bottom"><img src="catalog/view/theme/default/image/loading.gif" /></div>').show();
+			$.ajax({
+				url: 'index.php?route=module/smartsearch/smartsearch&search=' + $('#search input').val(),
+				dataType: 'json',
+				success: function(data) {
+					var html = '';
+					if (data.length) {
+						for (i = 0; i < data.length; i++) {
+							html += '<a class="smartsearch-product" href="' + data[i]['href'] + '&filter_name=' + encodeURIComponent($('#search input').val()) + '">';
+															html += '<img src="' + data[i]['image'] + '" />';
+														html += '<strong>' + data[i]['name'];
+																						if (data[i]['price']) {
+									var price = '<span style="color: #000000;' + (data[i]['special'] ? 'text-decoration: line-through' : '') + '">' + data[i]['price'] + '</span>';
+									var special = (data[i]['special'] ? '<span style="color: #FF0000">' + data[i]['special'] + '</span>' : '');
+									html += '<span style="float: right">' + price + ' ' + special + '</span>';
+								}
+														html += '</strong><br />';
+															html += data[i]['description'];
+														html += '</a>';
+						}
+													html += '<div class="smartsearch-bottom"><a href="https://www.modmypi.com/index.php?route=product/search&filter_name=' + encodeURIComponent($('#search input').val()) + '">View All Results</a></div>';
+											} else {
+						html = '<div class="smartsearch-bottom">No Results</div>';
+					}
+					$('#smartsearch').html(html);
+				}
+			});
+		}
+		
+		function hideSmartSearch() {
+			$('#smartsearch').hide();
+		}
+	</script>
+</head>
 <body>
 <div id="container">
 <div id="header">
@@ -87,7 +209,7 @@ google.translate.TranslateElement.InlineLayout.HORIZONTAL},
 			<li><a href="/">Home</a></li>
 			<li><a style="color:#C51F51;" href="/shop">Shop</a></li>
 			<li><a href="/the-raspberry-pi">The Raspberry Pi</a></li>
-			<li><a href="/blog">Blog</a></li>
+			<li><a href="/blog">Tutorials</a></li>
 			<li><a href="/faqs">FAQ's</a></li>
 			<li><a class="last" href="/contact-us">Contact</a></li>
 		</ul>
@@ -101,6 +223,249 @@ google.translate.TranslateElement.InlineLayout.HORIZONTAL},
 			<a href="https://www.modmypi.com/privacy-policy">Privacy Policy</a>
 	</div>
 <div class="spacer"></div>
+<div id="column-left">
+    <div class="box">
+  <div class="box-heading">Categories</div>
+  <div class="box-content">
+    <div class="box-category">
+      <ul>
+                <li>
+                    <a href="https://www.modmypi.com/shop">All</a>
+                            </li>
+                <li>
+                    <a href="https://www.modmypi.com/android-mini-PC's">Android Mini PC's</a>
+                            </li>
+                <li>
+                    <a href="https://www.modmypi.com/raspberry-pi">Raspberry Pi</a>
+                            </li>
+                <li>
+                    <a href="https://www.modmypi.com/raspberry-pi-set-up-kits">Raspberry Pi Set-Up Kits</a>
+                              <ul>
+                        <li>
+                            <a href="https://www.modmypi.com/raspberry-pi-set-up-kits/raspberry-pi-project-kits"> - Raspberry Pi Project Kits</a>
+                          </li>
+                        <li>
+                            <a href="https://www.modmypi.com/raspberry-pi-set-up-kits/basic-raspberry-pi-kit"> - Basic Raspberry Pi Kit</a>
+                          </li>
+                        <li>
+                            <a href="https://www.modmypi.com/raspberry-pi-set-up-kits/supreme-raspberry-pi-kit"> - Supreme Raspberry Pi Kit</a>
+                          </li>
+                        <li>
+                            <a href="https://www.modmypi.com/raspberry-pi-set-up-kits/ultimate-raspberry-pi-kit"> - Ultimate Raspberry Pi Kit</a>
+                          </li>
+                      </ul>
+                  </li>
+                <li>
+                    <a href="https://www.modmypi.com/raspberry-pi-cases">Raspberry Pi Cases</a>
+                              <ul>
+                        <li>
+                            <a href="https://www.modmypi.com/raspberry-pi-cases/single-colour"> - ModMyPi Single Colour</a>
+                          </li>
+                        <li>
+                            <a href="https://www.modmypi.com/raspberry-pi-cases/mix-n-match"> - ModMyPi Mix n' Match</a>
+                          </li>
+                        <li>
+                            <a href="https://www.modmypi.com/raspberry-pi-cases/multicomp-raspberry-pi-case"> - Multicomp</a>
+                          </li>
+                        <li>
+                            <a href="https://www.modmypi.com/raspberry-pi-cases/pibow-cases"> - PiBow Cases</a>
+                          </li>
+                        <li>
+                            <a href="https://www.modmypi.com/raspberry-pi-cases/cyntech-raspberry-pi-cases"> - Cyntech</a>
+                          </li>
+                        <li>
+                            <a href="https://www.modmypi.com/raspberry-pi-cases/adafruit-pi-box"> - Adafruit Pi Box</a>
+                          </li>
+                        <li>
+                            <a href="https://www.modmypi.com/raspberry-pi-cases/multi-pi"> - Multi-Pi Stacker</a>
+                          </li>
+                        <li>
+                            <a href="https://www.modmypi.com/raspberry-pi-cases/raspberry-pi-case-branding"> - Branding and Customisation</a>
+                          </li>
+                        <li>
+                            <a href="https://www.modmypi.com/raspberry-pi-cases/vesa-adaptors"> - VESA Adaptors</a>
+                          </li>
+                      </ul>
+                  </li>
+                <li>
+                    <a href="https://www.modmypi.com/raspberry-pi-accessories">Raspberry Pi Accessories</a>
+                              <ul>
+                        <li>
+                            <a href="https://www.modmypi.com/raspberry-pi-accessories/other-peripherals"> - Useful Peripherals</a>
+                          </li>
+                        <li>
+                            <a href="https://www.modmypi.com/raspberry-pi-accessories/keyboards-and-mice"> - Keyboards and Mice</a>
+                          </li>
+                        <li>
+                            <a href="https://www.modmypi.com/raspberry-pi-accessories/power-supply"> - Power Supplies</a>
+                          </li>
+                        <li>
+                            <a href="https://www.modmypi.com/raspberry-pi-accessories/raspberru-pi-usb-hubs"> - USB Hubs</a>
+                          </li>
+                        <li>
+                            <a href="https://www.modmypi.com/raspberry-pi-accessories/networking"> - WiFi Dongles</a>
+                          </li>
+                        <li>
+                            <a href="https://www.modmypi.com/raspberry-pi-accessories/bluetooth-dongles"> - Bluetooth Dongles</a>
+                          </li>
+                        <li>
+                            <a href="https://www.modmypi.com/raspberry-pi-accessories/raspberry-pi-output-adaptors"> - Output Adaptors</a>
+                          </li>
+                        <li>
+                            <a href="https://www.modmypi.com/raspberry-pi-accessories/debugging-console-cables"> - Debugging Cables</a>
+                          </li>
+                        <li>
+                            <a href="https://www.modmypi.com/raspberry-pi-accessories/video-cables"> - Video Cables</a>
+                          </li>
+                        <li>
+                            <a href="https://www.modmypi.com/raspberry-pi-accessories/raspberry-pi-usb-to-micro-usb-cables"> - USB to Micro USB Cables</a>
+                          </li>
+                        <li>
+                            <a href="https://www.modmypi.com/raspberry-pi-accessories/rj45-cables"> - RJ45 Cables</a>
+                          </li>
+                      </ul>
+                  </li>
+                <li>
+                    <a href="https://www.modmypi.com/raspberry-pi-hacking">Hacking and Prototyping</a>
+                              <ul>
+                        <li>
+                            <a href="https://www.modmypi.com/raspberry-pi-hacking/buttons-and-switches"> - Buttons &amp; Switches</a>
+                          </li>
+                        <li>
+                            <a href="https://www.modmypi.com/raspberry-pi-hacking/buzzers-and-transducers"> - Buzzers &amp; Transducers</a>
+                          </li>
+                        <li>
+                            <a href="https://www.modmypi.com/raspberry-pi-hacking/integrated-circuits"> - Integrated Circuits (IC's)</a>
+                          </li>
+                        <li>
+                            <a href="https://www.modmypi.com/raspberry-pi-hacking/leds"> - LEDs</a>
+                          </li>
+                        <li>
+                            <a href="https://www.modmypi.com/raspberry-pi-hacking/motors-and-robotics"> - Motors &amp; Robotics</a>
+                          </li>
+                        <li>
+                            <a href="https://www.modmypi.com/raspberry-pi-hacking/panel-mount-meters"> - Panel Mount Meters</a>
+                          </li>
+                        <li>
+                            <a href="https://www.modmypi.com/raspberry-pi-hacking/power-batteries-and-converters"> - Power &amp; Batteries</a>
+                          </li>
+                        <li>
+                            <a href="https://www.modmypi.com/raspberry-pi-hacking/resistors"> - Resistors</a>
+                          </li>
+                        <li>
+                            <a href="https://www.modmypi.com/raspberry-pi-hacking/wire-and-cable"> - Wire and Cable</a>
+                          </li>
+                        <li>
+                            <a href="https://www.modmypi.com/raspberry-pi-hacking/hacking-tools"> - Tools</a>
+                          </li>
+                      </ul>
+                  </li>
+                <li>
+                    <a href="https://www.modmypi.com/raspberry-pi-expansion-boards">Raspberry Pi Breakout Boards</a>
+                              <ul>
+                        <li>
+                            <a href="https://www.modmypi.com/raspberry-pi-expansion-boards/adafruit-breakout-boards"> - Adafruit</a>
+                          </li>
+                        <li>
+                            <a href="https://www.modmypi.com/raspberry-pi-expansion-boards/afterthought-software-breakout-boards"> - Afterthought Software</a>
+                          </li>
+                        <li>
+                            <a href="https://www.modmypi.com/raspberry-pi-expansion-boards/amescon"> - Amescon</a>
+                          </li>
+                        <li>
+                            <a href="https://www.modmypi.com/raspberry-pi-expansion-boards/breadboards"> - Breadboarding</a>
+                          </li>
+                        <li>
+                            <a href="https://www.modmypi.com/raspberry-pi-expansion-boards/ciseco-breakout-boards"> - Ciseco</a>
+                          </li>
+                        <li>
+                            <a href="https://www.modmypi.com/raspberry-pi-expansion-boards/cyntech-breakout-boards"> - Cyntech</a>
+                          </li>
+                        <li>
+                            <a href="https://www.modmypi.com/raspberry-pi-expansion-boards/geekroo-raspberry-pi-breakout-boards"> - GeekRoo</a>
+                          </li>
+                        <li>
+                            <a href="https://www.modmypi.com/raspberry-pi-expansion-boards/hobby-tronics-breakout-boards"> - HobbyTronics</a>
+                          </li>
+                        <li>
+                            <a href="https://www.modmypi.com/raspberry-pi-expansion-boards/kickstarter-breakout-boards"> - Kickstarter</a>
+                          </li>
+                        <li>
+                            <a href="https://www.modmypi.com/raspberry-pi-expansion-boards/mypishop-raspberry-pi-breakout-boards"> - MyPiShop</a>
+                          </li>
+                        <li>
+                            <a href="https://www.modmypi.com/raspberry-pi-expansion-boards/owfs-breakout-boards"> - OWFS 1-Wire</a>
+                          </li>
+                        <li>
+                            <a href="https://www.modmypi.com/raspberry-pi-expansion-boards/pi-supply-breakout-board"> - Pi Supply</a>
+                          </li>
+                        <li>
+                            <a href="https://www.modmypi.com/raspberry-pi-expansion-boards/piborg-raspberry-pi-breakout-boards"> - PiBorg</a>
+                          </li>
+                        <li>
+                            <a href="https://www.modmypi.com/raspberry-pi-expansion-boards/pimoroni-breakout-boards"> - Pimoroni</a>
+                          </li>
+                        <li>
+                            <a href="https://www.modmypi.com/raspberry-pi-expansion-boards/quick2wire-breakout-boards"> - Quick2Wire</a>
+                          </li>
+                        <li>
+                            <a href="https://www.modmypi.com/raspberry-pi-expansion-boards/raspberry-pi-official-breakout-boards"> - Raspberry Pi (Official)</a>
+                          </li>
+                        <li>
+                            <a href="https://www.modmypi.com/raspberry-pi-expansion-boards/rpi-spy-breakout-boards"> - RPiSpy</a>
+                          </li>
+                      </ul>
+                  </li>
+                <li>
+                    <a href="https://www.modmypi.com/raspberry-pi-camera">Raspberry Pi Camera</a>
+                            </li>
+                <li>
+                    <a href="https://www.modmypi.com/gpio-accessories">GPIO Accessories</a>
+                              <ul>
+                        <li>
+                            <a href="https://www.modmypi.com/gpio-accessories/debugging-console-cables"> - Debugging Console Cables</a>
+                          </li>
+                        <li>
+                            <a href="https://www.modmypi.com/gpio-accessories/gpio-header-extenders"> - GPIO Header Extenders</a>
+                          </li>
+                        <li>
+                            <a href="https://www.modmypi.com/gpio-accessories/gpio-jumper-wires"> - GPIO Jumper Wires</a>
+                          </li>
+                        <li>
+                            <a href="https://www.modmypi.com/gpio-accessories/ribbon-cables-and-connectors"> - Ribbon Cables</a>
+                          </li>
+                      </ul>
+                  </li>
+                <li>
+                    <a href="https://www.modmypi.com/sd-cards-and-adaptors">SD Cards and Adaptors</a>
+                            </li>
+                <li>
+                    <a href="https://www.modmypi.com/the-magpi-magazine">The MagPi Magazine</a>
+                            </li>
+                <li>
+                    <a href="https://www.modmypi.com/modmypi-stickers">ModMyPi Donation Stickers</a>
+                            </li>
+                <li>
+                    <a href="https://www.modmypi.com/raspberry-pi-books-and-user-guides">Raspberry Pi Books</a>
+                            </li>
+              </ul>
+    </div>
+  </div>
+</div>
+    
+  
+	<div class="need_help" style="margin:15px 0 0 0;border:1px solid #d9d7d7;padding:10px;">
+		<p style="font-size:20px;color:#4D4D4D;">Need help?</p>
+		<p><a style="font-size:16px;color:#5d5656;line-height:32px;background:url(/catalog/view/theme/default/image/customer_icon.png) no-repeat left center;padding:0 0 0 37px;display:block;" href="mailto:sales@modmypi.com">Customer services</a></p>
+		<p><a style="font-size:16px;color:#5d5656;line-height:32px;background:url(/catalog/view/theme/default/image/designs_icon.png) no-repeat left center;padding:0 0 0 37px;display:block;" href="mailto:design@modmypi.com">Design suggestions</a></p>
+		<p><a style="font-size:16px;color:#5d5656;line-height:32px;background:url(/catalog/view/theme/default/image/questions_icon.png) no-repeat left center;padding:0 0 0 37px;display:block;" href="mailto:info@modmypi.com">Questions or queries</a></p>
+		<p style="font-size:16px;">
+		<span style="color:#c51f51;">IRC Chat</span><br>
+		Server: chat.freenode.net<br>
+		Channel: #ModMyPi</p>
+	</div>
+  
+</div>
 <div id="content">  <h1>Privacy Policy</h1>
   <h3>
 	ModMyPi LTD Privacy Policy</h3>
@@ -190,12 +555,13 @@ google.translate.TranslateElement.InlineLayout.HORIZONTAL},
 								<li><a href="https://www.modmypi.com/returns-poilcy">Returns Policy</a></li>
 								<li><a href="https://www.modmypi.com/privacy-policy">Privacy Policy</a></li>
 								<li><a href="https://www.modmypi.com/terms-and-conditions">Terms &amp; Conditions</a></li>
-							</ul>
+				<li><a href="https://plus.google.com/113850289123856902066" rel="publisher">Find us on Google+</a></li>
+			</ul>
 		</div>
 		<div class="column">
 			<h3 id="footer_customer">Customer Service</h3>
 			<ul>
-				<li><a href="https://www.modmypi.com/index.php?route=information/contact">Contact Us</a></li>
+				<li><a href="/contact-us">Contact Us</a></li>
 				<li><a href="https://www.modmypi.com/index.php?route=account/return/insert">Returns</a></li>
 				<li><a href="https://www.modmypi.com/index.php?route=information/sitemap">Site Map</a></li>
 			</ul>
@@ -211,10 +577,10 @@ google.translate.TranslateElement.InlineLayout.HORIZONTAL},
 		</div>
 		<div class="column">
 			<h3 id="footer_loop">Keep in the loop</h3>
-			<form action="" method="post">
+			<form action="/subscribers.php" method="post">
 			<input type="text" name="footer_name" value="Your Name">
-			<input type="text" name="footer_email" value="Your Email">
-			<input style="margin:5px 47px 0 0; float:right;" type="submit" value="Submit" id="footer_submit" class="button">
+			<input type="email" name="footer_email" value="Your Email">
+			<input style="margin:5px 47px 0 0; float:right;" type="submit" value="Submit" name="footer_submit" id="footer_submit" class="button">
 			</form>
 		</div>
 		<div id="footer_payment">
