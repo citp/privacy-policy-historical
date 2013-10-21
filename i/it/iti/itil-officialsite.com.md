@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the itil-officialsite.com privacy policy that was archived on 2013-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130622035708id_/http%3A//www.itil-officialsite.com/home/Legal/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the itil-officialsite.com privacy policy that was archived on 2013-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131021171343id_/http%3A//www.itil-officialsite.com/home/Legal/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # ITIL® - Privacy Policy
 
