@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nandos.co.uk privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621041051id_/http%3A//www.nandos.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nandos.co.uk privacy policy that was archived on 2013-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131021191349id_/http%3A//www.nandos.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Nando's
 
@@ -99,7 +99,7 @@ In a nut shell we will retain any personal information you share with us, we won
 12\. **How can I find out what Personal Data the Nando’s holds about me?** To see the Personal Data we have collected through this site that relates to you, to cancel it and/or to correct or update this Personal Data, please email us at the forms in the ‘Contact us’ section. In addition, we will always give you the opportunity to update your preferences regarding our use of your Personal Data. To protect your privacy and security we will take reasonable steps to verify your identity before granting access. If you have any additional questions about Personal Data we hold about you, please contact us or visit [www.nandos.co.uk/contactus](http://www.nandos.co.uk/contactus).  
 
 
-13\. **Nando’s application and our use of Facebook user data** Nando’s has an official application for iPhone, iPad, iPod and Android, available for download via [http://www.nandos.co.uk/app](https://web.archive.org/web/20130621041051id_/http%3A//www.nandos.co.uk/app) This application will access information from user’s Facebook accounts once they give us permission to do so whilst using the Facebook-related functionality of the application. Once permission is granted, the Nando’s application accesses a user’s friends list and location only.
+13\. **Nando’s application and our use of Facebook user data** Nando’s has an official application for iPhone, iPad, iPod and Android, available for download via [http://www.nandos.co.uk/app](https://web.archive.org/web/20131021191349id_/http%3A//www.nandos.co.uk/app) This application will access information from user’s Facebook accounts once they give us permission to do so whilst using the Facebook-related functionality of the application. Once permission is granted, the Nando’s application accesses a user’s friends list and location only.
 
 The Nando's "Find Yourself" Facebook application <https://apps.facebook.com/nandosfindyourself> will access information from users' Facebook accounts once they give us permission to do so. Once permission is granted, the application accesses a user's name, gender, birthday, locale, email address and spice result.
 
