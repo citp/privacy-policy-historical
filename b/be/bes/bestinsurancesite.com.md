@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bestinsurancesite.com privacy policy that was archived on 2013-02-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130225015644id_/http%3A//www.bestinsurancesite.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bestinsurancesite.com privacy policy that was archived on 2013-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131021100739id_/http%3A//www.bestinsurancesite.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Bestinsurancesite.com
 
