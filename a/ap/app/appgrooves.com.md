@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the appgrooves.com privacy policy that was archived on 2013-01-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130127005559id_/https%3A//searchman.com/s/doc/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the appgrooves.com privacy policy that was archived on 2013-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131021062555id_/https%3A//searchman.com/s/doc/privacy.html) for the most accurate reproduction.*
 
 # 
 
