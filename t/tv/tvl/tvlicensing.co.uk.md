@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tvlicensing.co.uk privacy policy that was archived on 2013-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130606181924id_/http%3A//www.tvlicensing.co.uk/privacy-security-policies.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tvlicensing.co.uk privacy policy that was archived on 2013-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131021123335id_/http%3A//www.tvlicensing.co.uk/privacy-security-policies.aspx) for the most accurate reproduction.*
 
 # TV Licensing - TV Licensing’s privacy policy
 
