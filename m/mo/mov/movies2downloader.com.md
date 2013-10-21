@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the movies2downloader.com privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530142612id_/http%3A//www.putlockerdownloader.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the movies2downloader.com privacy policy that was archived on 2013-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131021111018id_/http%3A//www.putlockerdownloader.com/privacy.htm) for the most accurate reproduction.*
 
 # PutLockerDownloader.com - Privacy Policy
 
@@ -14,7 +14,7 @@ Our database of personal details (however we collect these details) is used by u
 
 Contacting us About Your Information:
 
-If you would like to see the information we hold about you or would like to be removed from our database and/or any mailing lists, or require another form of assistance, please contact support at: [info@smarter-downloader.com](mailto:info@smarter-downloader.com)
+If you would like to see the information we hold about you or would like to be removed from our database and/or any mailing lists, or require another form of assistance, please contact support at: [info@coolmirage.com](mailto:info@coolmirage.com)
 
 Cookies:
 
