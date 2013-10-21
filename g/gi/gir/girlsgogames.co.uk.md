@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the girlsgogames.co.uk privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230205617id_/http%3A//www.girlsgogames.co.uk/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the girlsgogames.co.uk privacy policy that was archived on 2013-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131021081548id_/http%3A//www.girlsgogames.co.uk/privacy_policy.html) for the most accurate reproduction.*
 
 # Free Online Girls Games on GirlsGoGames.co.uk
 
@@ -36,9 +36,7 @@ The information our Websites collect includes the following:
 
 2.5   SPIL may share demographic information (certain anonymous information about you as a user, such as age and country) with certain ad network providers to help them deliver more relevant advertisements through their ad networks. The use of cookies, web beacons and similar technologies by such third parties as ad network providers will be subject to their own privacy policies, and not this Privacy Policy. 
 
-2.6   Most browsers are initially set to accept cookies, but you can (re)set your browser to refuse all cookies or to indicate when a cookie is being sent. You can reset your browser to opt not to receive cookies from certain third party advertising networks. However, some features and services of the Websites may not function correctly if cookies are disabled. 
-
-**b)    ** **Personal Data, Including Your Email Address**
+2.6    Most browsers are initially set to accept cookies, but you can (re)set your browser to refuse all cookies or to indicate when a cookie is being sent. You can opt out of receiving cookies from certain third-party advertising networks by resetting your browser.You may also use the following link to the Network Advertising Initiatives cookies[ opt-out page](http://www.networkadvertising.org/choices) or the link to the European Interactive Digital Advertising Alliance (EDAA) [opt-out page](http://www.youronlinechoices.com/). However, some features and services may not function properly if cookies are disabled.
 
 2.7   You may choose to register with us to gain a better game experience and/or to create a public or semi-public profile to enable you to participate in our social gaming network. This includes, for example, overviews of high scores, achievements listings and individual game recommendations on the Websites. When you register with us, you provide us with certain personal information, such as a username, your date and month of birth and your email address, and any information you disclose may also become publicly accessible. We provide you with privacy settings that restrict other users from accessing your information and our network architecture and your privacy settings allow you to make informed choices about who has access to your information. We allow you to choose the information you provide to friends and networks through our Websites. If your privacy settings permit, other users may be able to view and supplement your profile (i.e. by posting comments).
 
@@ -96,23 +94,19 @@ _Parents of users under the age of 16_
 
 6.3   Your personal data will only be stored for a period necessary for your use of the Websites for the purposes as described in this Privacy Policy. 
 
-**7.     ** **Children**
+**7.     ** **Miscellaneous**
 
-7.1   Users under the age of 8 are not allowed to register.
+7.1   We reserve the right to amend our Privacy Policy. Amendments will be effective from the moment of publication on the Websites, so please check the Websites regularly for amendments. 
 
-**8.     ** **Miscellaneous**
+7.2   The Internet is a global environment, and using the Internet necessarily involves the collection and processing of personal data on an international basis. Therefore, by using (one or more of) our Websites, you acknowledge and agree to our processing your personal data in this way.
 
-8.1   We reserve the right to amend our Privacy Policy. Amendments will be effective from the moment of publication on the Websites, so please check the Websites regularly for amendments. 
+7.3   Our Websites may contain links to other websites. We are not responsible for the privacy practices of other websites. We encourage users to be aware of this when they leave our site, and to read the privacy statements of any other websites that collect personally identifiable information. This Privacy Policy applies solely to information collected by us. 
 
-8.2   The Internet is a global environment, and using the Internet necessarily involves the collection and processing of personal data on an international basis. Therefore, by using (one or more of) our Websites, you acknowledge and agree to our processing your personal data in this way.
+7.4   In the event of a transfer of (one of our) Websites to a third party, we may transfer to such third party all personal information that we collected about you in accordance with this Privacy Policy. In this event, users who have provided email addresses to us will be notified when information they have supplied about them is transferred and becomes subject to a different privacy policy. 
 
-8.3   Our Websites may contain links to other websites. We are not responsible for the privacy practices of other websites. We encourage users to be aware of this when they leave our site, and to read the privacy statements of any other websites that collect personally identifiable information. This Privacy Policy applies solely to information collected by us. 
+7.5   We also have Terms of Use that are applicable to your use of the Websites. In the case of a contradiction between the Terms of Use and this Privacy Policy, this Privacy Policy will prevail. 
 
-8.4   In the event of a transfer of (one of our) Websites to a third party, we may transfer to such third party all personal information that we collected about you in accordance with this Privacy Policy. In this event, users who have provided email addresses to us will be notified when information they have supplied about them is transferred and becomes subject to a different privacy policy. 
-
-8.5   We also have Terms of Use that are applicable to your use of the Websites. In the case of a contradiction between the Terms of Use and this Privacy Policy, this Privacy Policy will prevail. 
-
-8.6   This Privacy Policy shall be governed by the laws of The Netherlands and submitted to the exclusive jurisdiction of the courts in The Netherlands. 
+7.6   This Privacy Policy shall be governed by the laws of The Netherlands and submitted to the exclusive jurisdiction of the courts in The Netherlands. 
 
 If you have any additional questions or requests, please send an email to: [info@spilgames.com](mailto:info@spilgames.com).
 
