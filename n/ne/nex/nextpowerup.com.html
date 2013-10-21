@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the nextpowerup.com privacy policy that was archived on 2013-05-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130520132229id_/http%3A//www.nextpowerup.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the nextpowerup.com privacy policy that was archived on 2013-10-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131022003046id_/http%3A//www.nextpowerup.com/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
 <meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible">
@@ -15,7 +15,7 @@
 <link rel="apple-touch-icon" href="http://tpucdn.com/npu/images/apple-touch-icon-v1.png">
 <link rel="stylesheet" type="text/css" href="http://tpucdn.com/npu/css/screen-v1.css">
 <!--[if lte IE 8]><link rel="stylesheet" type="text/css" href="http://tpucdn.com/npu/css/ie-v1.css" /><![endif]-->
-<link rel="stylesheet" type="text/css" href="http://tpucdn.com/npu/css/style-v162.css"> 
+<link rel="stylesheet" type="text/css" href="http://tpucdn.com/npu/css/style-v171.css"> 
 <link rel="stylesheet" type="text/css" media="all" href="http://tpucdn.com/npu/js/navigation/quickmenu_styles-v3.css">
 <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://tpucdn.com/npu/js/navigation/quickmenu-v1.js"></script>
 <script type="text/javascript" src="http://tpucdn.com/npu/js/jquery-1.8.1.min-v1.js"></script>
@@ -23,6 +23,7 @@
 <!--[if lt IE 9]><script>window.onerror = function(){ return true; }</script><![endif]-->
 <script type="text/javascript" src="http://tpucdn.com/npu/js/popup/popup-v3.js"></script>
 <link rel="stylesheet" type="text/css" href="http://tpucdn.com/npu/js/popup/popup-v1.css">
+<noscript><style>.jsonly { display: none !important; }</style></noscript>
 </head>
 <body>
 <article id="page">
@@ -38,7 +39,7 @@
     </div>
   </div>
   <nav class="span-24">
-    <div id="time">May 20th, 2013 06:22 PDT</div>
+    <div id="time">Oct 21st, 2013 17:30 PDT</div>
     <script>
 		$(document).ready(function() {
 			$('#time').click(function(e) {
@@ -51,7 +52,9 @@
     <ul id="qm0" class="qmmc">
       <li><a href="/">HOME</a></li>
       <li><span class="qmdivider qmdividery"></span></li>
-            <li><a href="/archives">NEWS ARCHIVE</a></li>
+      <li><a href="/articles/">REVIEWS &amp; ARTICLES</a></li>
+      <li><span class="qmdivider qmdividery"></span></li>
+      <li><a href="/archives">NEWS ARCHIVE</a></li>
       <li><span class="qmdivider qmdividery"></span></li>
       <li><a href="/about.php">ABOUT</a></li>
       <li><span class="qmdivider qmdividery"></span></li>
@@ -87,9 +90,21 @@
 								if ($('#searchcontent').length==0)
 									$('<div id="searchcontent" class="container">').insertBefore($('#content'));
 								$('#searchcontent').html(data);
+								$('#searchcontent a').click(function() {
+									location.hash='#'+$('#search').val();
+								});								
 								$('#content').hide();
 							});
 						});
+						
+						window.addEventListener("hashchange", function() { 
+							var hash=location.hash.slice(1);
+							//$('#search').val(hash).keyup(); 
+						}, false);
+						var hash=location.hash.slice(1);
+						if (hash!='') {
+							$('#disabled_search').val(hash).keyup();
+						}
 					});
 				</script>        
 			</li>
@@ -294,7 +309,7 @@
     var _gaq = _gaq || [];
     _gaq.push(['_setAccount', 'UA-35679632-1']);
     _gaq.push(['_setSiteSpeedSampleRate', 25]);
-    _gaq.push(['_trackTiming','Page','Gen',6.7]);
+    _gaq.push(['_trackTiming','Page','Gen',9.5]);
     _gaq.push(['_trackPageview']);
 
     (function() {
