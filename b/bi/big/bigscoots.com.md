@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bigscoots.com privacy policy that was archived on 2013-01-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130131030608id_/http%3A//www.bigscoots.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bigscoots.com privacy policy that was archived on 2013-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131022181953id_/http%3A//www.bigscoots.com/privacy) for the most accurate reproduction.*
 
-# BigScoots - Privacy Policy
+# BigScoots - Fully Managed VPS & Dedicated Server | Virtual Machine
 
 BigScoots has developed this privacy statement in the hopes of validating our commitment to confidentiality to our clients who use the BigScoots online services. These services consist of shared web hosting, virtual private servers, web development, data backups and dedicated solutions.
 
