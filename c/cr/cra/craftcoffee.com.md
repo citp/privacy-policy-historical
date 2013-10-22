@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the craftcoffee.com privacy policy that was archived on 2013-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130511103245id_/http%3A//www.craftcoffee.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the craftcoffee.com privacy policy that was archived on 2013-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131022023112id_/https%3A//www.craftcoffee.com/privacy) for the most accurate reproduction.*
 
-# Privacy: Subscription Artisan Coffee, Delivered Monthly | Craft Coffee
+# Privacy: Coffee Subscription, Delivered Monthly | Craft Coffee
 
 We take your privacy seriously at Craft Coffee. We will never send you spam, or sell your information to marketers. For the full legalese, see below.
 
