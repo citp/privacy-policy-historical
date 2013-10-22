@@ -1,7 +1,9 @@
-> *The following text is extracted and transformed from the shareme.com privacy policy that was archived on 2013-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130531135713id_/http%3A//shareme.com/privacypage.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shareme.com privacy policy that was archived on 2013-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131022144853id_/http%3A//shareme.com/privacypage.html) for the most accurate reproduction.*
 
 # Our Privacy Policy - Shareme.com respects your right to privacy
 
+| [](http://shareme.com/) |   
+---|---  
 | 
 
   * [Business & Productivity Tools](https://web.archive.org/category/Business---Productivity-Tools.html)
@@ -23,97 +25,97 @@
 
 ####  Top Downloads
 
+  * [KeyboardNavigation ](https://web.archive.org/details/keyboardnavigation.html)
+
+Hit-a-hint equivalent for Chrome.
+
   * [Internet Download Manager ](https://web.archive.org/details/internet-download-manager.html)
 
 Internet Download Manager Free Download is now...
 
-  * [Funny Photo Maker ](https://web.archive.org/details/funny-photo-maker.html)
+  * [Free WiFi Hotspot ](https://web.archive.org/details/free-wifi-hotspot.html)
 
-Funny Photo Maker is a free photo editor...
+Super easy solution to turn laptop or notebook...
 
-  * [Isenzo Mediacaster ](https://web.archive.org/details/isenzo-mediacaster.html)
+  * [Quick Heal Virus Database 2013 ](https://web.archive.org/details/quick-heal-virus-database-2013.html)
 
-Isenzo's software simplifies the creation and...
+Offers you the latest virus definitions you can...
 
-  * [Opera Browser ](https://web.archive.org/details/opera-browser.html)
+  * [Euro Calculator ](https://web.archive.org/details/euro-calculator.html)
 
-Opera 10.10 stands out from the crowd with...
+Euro Calculator is a calculator and currency...
 
-  * [Skype ](https://web.archive.org/details/skype.html)
+  * [Photo to Cartoon ](https://web.archive.org/details/photo-to-cartoon.html)
 
-Program to make telephone calls via the...
+Converts photographs into cartoons and...
 
-  * [WinMend File Copy ](https://web.archive.org/details/winmend-file-copy.html)
+  * [pixprofit software, pixprofit captcha ](https://web.archive.org/details/pixprofit-software--pixprofit-captcha.html)
 
-WinMend File Copy is a free and excellent batch...
+the best pixprofit software,the genuine version...
 
-  * [Bluetooth Drivers For Windows 7 Utility ](https://web.archive.org/details/bluetooth-drivers-for-windows-7-utility.html)
+  * [Free WiFi Router ](https://web.archive.org/details/free-wifi-router.html)
 
-Get official Bluetooth Drivers for your Windows...
+Create a hotspot to make your laptop into a...
 
-  * [K-Browser ](https://web.archive.org/details/k-browser.html)
+  * [Aktiv Download Manager ](https://web.archive.org/details/aktiv-download-manager.html)
 
-K-browser is a web browser for Microsoft...
+Aktiv Download Manager is a most needed tool...
 
-  * [Opera web browser ](https://web.archive.org/details/opera-web-browser.html)
+  * [In-Close ](https://web.archive.org/details/in-close.html)
 
-Opera is the fastest web browser available, and...
-
-  * [Hotspot Shield ](https://web.archive.org/details/hotspot-shield.html)
-
-Access the likes of Pandora and Hulu from...
+In-Close is a fast Formal Concept miner for FCA...
 
 
 
 
 ####  New Downloads
 
-  * [MDB Open File Tool 2.0.0](https://web.archive.org/details/mdb-open-file-tool.html)
+  * [USB Network Gate 6.0](https://web.archive.org/details/usb-network-gate.html)
 
-Try MDB Open File Tool if the corruption...
+USB Network Gate is the essential solution...
 
-  * [Universal SQL Editor 1.4.8.2](https://web.archive.org/details/universal-sql-editor.html)
+  * [CloudView NMS 1.06](https://web.archive.org/details/cloudview-nms.html)
 
-Intellisense enabled SQL editor for Oracle,...
+CloudView NMS is a standards-based network...
 
-  * [Jaksta for Windows 5.0.0.89](https://web.archive.org/details/jaksta-for-windows.html)
+  * [Tanida Demo Builder 9.1.1.1](https://web.archive.org/details/tanida-demo-builder.html)
 
-Jaksta downloads Video & MP3s from virtually...
+Demo Builder is a screen recorder software that...
 
-  * [TeraCash 2013](https://web.archive.org/details/teracash.html)
+  * [Eassos System Restore 1.2.2](https://web.archive.org/details/eassos-system-restore.html)
 
-TeraCash is designed to help your company run a...
+Powerful system backup & restore software,...
 
-  * [Foxit PhantomPDF Standard 6.0.3.0524](https://web.archive.org/details/foxit-phantompdf-standard.html)
-
-Ideal for groups of all sizes, Foxit PhantomPDF...
-
-  * [CodeCompare 3.00](https://web.archive.org/details/codecompare.html)
-
-Code Compare is a free powerful tool designed...
-
-  * [Animated Screensaver Maker 3.2.3](https://web.archive.org/details/animated-screensaver-maker.html)
-
-With Animated Screensaver Maker you can...
-
-  * [Joyfax Broadcast 6.50.0529](https://web.archive.org/details/joyfax-broadcast.html)
+  * [Joyfax Broadcast 7.40.1014](https://web.archive.org/details/joyfax-broadcast.html)
 
 A personalized faxing software can reach...
 
-  * [Advanced RSS Publisher Professional 3.57.67](https://web.archive.org/details/advanced-rss-publisher-professional.html)
+  * [MySQL Data Access Components 8.1](https://web.archive.org/details/mysql-data-access-components.html)
 
-Advanced RSS Publisher allows you to...
+MyDAC (Data Access Components for MySQL) is an...
 
-  * [C-Organizer Lite 4.8](https://web.archive.org/details/c-organizer-lite.html)
+  * [Free Driver Backup 9.4.7](https://web.archive.org/details/free-driver-backup.html)
 
-C-Organizer Lite is a personal information...
+Free Driver Backup, a device driver backup...
+
+  * [Registry Optimizer Free 2.5.6.8](https://web.archive.org/details/registry-optimizer-free.html)
+
+Registry Optimizer Free is quite robust in...
+
+  * [Surf Anonymous Free 2.3.3.2](https://web.archive.org/details/surf-anonymous-free.html)
+
+Surf Anonymous Free, the ultimate Free online...
+
+  * [JimIP Switcher 3.0.0](https://web.archive.org/details/jimip-switcher.html)
+
+JimIP Switcher is a FREE ip switcher, which...
 
 
 
 
 ####  Recent Searches
 
-[54mbps Wireless Card Driver](https://web.archive.org/programs/54mbps/wireless-card-driver), [Metropolitan Ambulance Victoria](https://web.archive.org/programs/metropolitan/ambulance-victoria), [Counter Strike 1 Anthology](https://web.archive.org/programs/counter/strike-1-anthology), [Driver Reflecta X 1 Scan](https://web.archive.org/programs/driver/reflecta-x-1-scan), [Keri Russell Hot](https://web.archive.org/programs/keri/russell-hot), [Frontech E Cam Diamond Jil 2232 Driver](https://web.archive.org/programs/frontech/e-cam-diamond-jil-2232-driver), [My Phone Q21](https://web.archive.org/programs/my/phone-q21), [5233 123 Free Memory Card Games](https://web.archive.org/programs/5233/123-free-memory-card-games), [Bleach Sword Cursors](https://web.archive.org/programs/bleach/sword-cursors), [Late Fees Mortgage Amortization Schedule Excel](https://web.archive.org/programs/late/fees-mortgage-amortization-schedule-excel), [Fast Email Extract](https://web.archive.org/programs/fast/email-extract), [Line Sheet Template](https://web.archive.org/programs/line/sheet-template), [5315 Troubleshooting](https://web.archive.org/programs/5315/troubleshooting), [Infrared Lights](https://web.archive.org/programs/infrared/lights), [Medical Encyclopedia%20](https://web.archive.org/programs/medical/encyclopedia%20)
+[Ultr Surf Explorer](https://web.archive.org/programs/ultr/surf-explorer), [Dynamic Routing Linksys](https://web.archive.org/programs/dynamic/routing-linksys), [Samsung C3222 Theme](https://web.archive.org/programs/samsung/c3222-theme), [Doris Troy Guitar](https://web.archive.org/programs/doris/troy-guitar), [Op Wallpaper Ugly Windows 2000](https://web.archive.org/programs/op/wallpaper-ugly-windows-2000), [Radica Mega Byte](https://web.archive.org/programs/radica/mega-byte), [Thomson Lyra Pdp 2222 Driver](https://web.archive.org/programs/thomson/lyra-pdp-2222-driver), [Ps3 Boot Disk Usb](https://web.archive.org/programs/ps3/boot-disk-usb), [Symbian Nintendo Ds](https://web.archive.org/programs/symbian/nintendo-ds), [Mac Iphone Backup Viewer](https://web.archive.org/programs/mac/iphone-backup-viewer), [Manchesuer United](https://web.archive.org/programs/manchesuer/united), [Roma Downey Interview](https://web.archive.org/programs/roma/downey-interview), [Play Mp3 Files](https://web.archive.org/programs/play/mp3-files), [Lexmark 9500 Series Ocr](https://web.archive.org/programs/lexmark/9500-series-ocr), [Rm To Avi Vcd Svcd Dvd Converter](https://web.archive.org/programs/rm/to-avi-vcd-svcd-dvd-converter)
 
   
 | 
@@ -143,4 +145,6 @@ If you have any questions about this privacy statement, the practices of this si
 
   
   
----|---
+---|---  
+  
+Welcome to the ShareMe. Shareme is a dedicated internet portal bringing users the latest shareware & freeware from the world's best Software Authors. Shareme allows Shareware & Freeware Authors to submit their latest wares, so you the user are able to download their latest software updates all the time, after they are released! Always visit Shareme for your software needs. 
