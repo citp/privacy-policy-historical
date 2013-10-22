@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the searchwarp.com privacy policy that was archived on 2013-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130605184510id_/http%3A//searchwarp.com/Privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the searchwarp.com privacy policy that was archived on 2013-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131022051936id_/http%3A//www.searchwarp.com/Privacy.htm) for the most accurate reproduction.*
 
 # SearchWarp Privacy Policy
 
@@ -63,7 +63,7 @@ We use third-party advertising companies to serve ads when you visit our Web sit
 
 **How to Contact Us**
 
-If you have any questions regarding our privacy statement, please feel free to contact us though our [Contact Page](https://web.archive.org/web/20130605184510id_/http%3A//searchwarp.com/Contact.htm)
+If you have any questions regarding our privacy statement, please feel free to contact us though our [Contact Page](https://web.archive.org/web/20131022051936id_/http%3A//www.searchwarp.com/Contact.htm)
 
 This statement may change from time to time, so please check back periodically.
 
