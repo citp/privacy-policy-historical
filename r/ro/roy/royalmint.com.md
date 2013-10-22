@@ -1,31 +1,24 @@
-> *The following text is extracted and transformed from the royalmint.com privacy policy that was archived on 2013-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130625002057id_/http%3A//www.royalmint.com/legal-pages/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the royalmint.com privacy policy that was archived on 2013-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131022115654id_/http%3A//www.royalmint.com/legal-pages/privacypolicy) for the most accurate reproduction.*
 
-# Privacy Policy | The Royal Mint
+# Privacy & Cookies Privacy Policy | The Royal Mint
 
 The Royal Mint is committed to respecting your privacy. We may need to handle personal information about you so that we can provide services for you. This privacy statement tells you how we look after that information.
 
-## Cookies
+## Cookies 
 
 ### What are Cookies?
 
-Cookies are small text files stored on your computer when you visit particular web pages. At royalmint.com we use cookies to keep track of what you have in your basket, and to keep you logged into your account.
+Cookies are small text files stored on your computer when you visit particular web pages. At royalmint.com we use cookies to keep track of what you have in your basket, and to keep you logged into your account.  
+You need to have cookies enabled to order products on royalmint.com. You can still browse our website if you don't wish to enable cookies. By default most web browsers will have cookies enabled, but they can be turned off should you need to.  
+Cookies cannot harm your computer. We do not store personally identifiable information such as credit card details in our cookies, we do use information gathered from cookies to help improve our customer’s experience of the site. So we may make use of this information to make our campaigns more relevant, or make browsing our product range easier.  
+The Royal Mint does have relationships with select suppliers who may also set cookies during your visit to be used for marketing purposes, such as showing you our products depending on what you seem to be interested in. If you'd like to opt out, please go to the [Network Advertising Initiative website](http://www.networkadvertising.org/managing/opt_out.asp) (opens in a new window).  
+Provision of this information is part of our response to comply with recent legislation, making sure that you feel confident about your privacy while using our website.  
+We are providing you with this information to show you that we take privacy very seriously and so that you can view clearly how we use cookies when you visit our website.
 
-You need to have cookies enabled to order products on royalmint.com. You can still browse our website if you don't wish to enable cookies. By default most web browsers will have cookies enabled, but they can be turned off should you need to.
+### Our Cookies Policy 
 
-Cookies cannot harm your computer. We do not store personally identifiable information such as credit card details in our cookies, we do use information gathered from cookies to help improve our customer’s experience of the site. So we may make use of this information to make our campaigns more relevant, or make browsing our product range easier.
-
-The Royal Mint does have relationships with select suppliers who may also set cookies during your visit to be used for marketing purposes, such as showing you our products depending on what you seem to be interested in. If you'd like to opt out, please go to the [Network Advertising Initiative website](http://www.networkadvertising.org/managing/opt_out.asp) (opens in a new window).
-
-Provision of this information is part of our response to comply with recent legislation, making sure that you feel confident about your privacy while using our website. 
-
-We are providing you with this information to show you that we take privacy very seriously and so that you can view clearly how we use cookies when you visit our website. 
-
-### Our Cookies Policy
-
-Your computer, tablet or mobile device will need to accept cookies to enable the online shopping and personalised features found on royalmint.com.
-
-Cookies set by The Royal Mint don’t contain sensitive information, such as your name, or payment details. They store a generated ‘key’ which is associated with all this information. But, your browser can be used to restrict, block or delete cookies from royalmint.com or any other website, if you would prefer. How this is done differs from browser to browser, so check the ‘Help’ menu of your favoured browser (or the handset manual for your mobile phone) to find out how you can change your cookie preferences.
-
+Your computer, tablet or mobile device will need to accept cookies to enable the online shopping and personalised features found on royalmint.com.  
+Cookies set by The Royal Mint don’t contain sensitive information, such as your name, or payment details. They store a generated ‘key’ which is associated with all this information. But, your browser can be used to restrict, block or delete cookies from royalmint.com or any other website, if you would prefer. How this is done differs from browser to browser, so check the ‘Help’ menu of your favoured browser (or the handset manual for your mobile phone) to find out how you can change your cookie preferences.  
 Here's a list of the main cookies we use, and what we use them for. You'll find information about 3rd party cookies in the next section.
 
 **Name**
@@ -90,24 +83,24 @@ Some of the partners that may set cookies on royalmint.com include:
 
 Criteo and Struq are organisations that help the Royal Mint to advertise its product. The services operated by Criteo  and Struq use cookies to provide you with personalised advertisements when you visit other selected websites.
 
-The data contained in these cookies is completely anonymous and doesn’t contain any personal details. 
+The data contained in these cookies is completely anonymous and doesn’t contain any personal details.
 
 It’s easy to opt out of these adverts:
 
-If you no longer wish to be shown personalised banners from Criteo, visit <http://www.criteo.com/us/privacy-policy> and click on the opt- button.
+If you no longer wish to be shown personalised banners from Criteo, visit <http://www.criteo.com/us/privacy-policy>and click on the opt- button.
 
-If you no longer wish to be shown personalised banners from Struq, visit <http://www.struq.com/cookie_and_privacy_policy/index.php> and click on the turn off button.
+If you no longer wish to be shown personalised banners from Struq, visit<http://www.struq.com/cookie_and_privacy_policy/index.php> and click on the turn off button.
 
-Please note that these procedures will block only ads that are displayed by Criteo and Struq.      
+Please note that these procedures will block only ads that are displayed by Criteo and Struq.
 
 For more information about this service and the information collected in this cookie, please visit:  
-<http://www.criteo.com/us/privacy-policy> and <http://www.struq.com/cookie_and_privacy_policy/index.php>
+<http://www.criteo.com/us/privacy-policy> and <http://www.struq.com/cookie_and_privacy_policy/index.php>
 
 ### Flash cookies (or Local Shared Objects)
 
 On royalmint.com we display video content using Adobe Flash Player. Adobe uses Flash cookies (also known as Local Shared Objects) to help improve your experience as a user. Flash cookies are stored on your device in much the same way as usual cookies, but they're managed differently by your browser.
 
-If you wish to disable or delete a Flash cookie, see [Adobe Flashplayer Security Settings](http://www.adobe.com/special/products/flashplayer/security/index.html) (opens in a new window). Please bear in mind that if you disable Flash cookies for royalmint.com you'll unable to access certain types of content on the site, such as videos.
+If you wish to disable or delete a Flash cookie, see [Adobe Flashplayer Security Settings](http://www.adobe.com/special/products/flashplayer/security/index.html) (opens in a new window). Please bear in mind that if you disable Flash cookies for royalmint.com you'll unable to access certain types of content on the site, such as videos..
 
 ### royalmint.com 'share' tools
 
@@ -154,27 +147,27 @@ The Royal Mint considers the responsible use of personal information to be a cri
 
 When we ask you for personal information, we will ensure it is:
 
-  * handled fairly and lawfully processed 
-  * processed for limited purposes 
-  * adequate, relevant and not excessive 
-  * accurate and up to date 
-  * not kept for longer than necessary 
-  * processed in line with your rights 
-  * secure 
-  * not transferred without adequate protection 
+  * handled fairly and lawfully processed
+  * processed for limited purposes
+  * adequate, relevant and not excessive
+  * accurate and up to date
+  * not kept for longer than necessary
+  * processed in line with your rights
+  * secure
+  * not transferred without adequate protection
 
 
 
 It is important that we keep your information accurate and up-to-date and so in return, we ask you to:
 
-  * give us accurate information 
-  * tell us as soon as possible if there are any changes, such as a new address 
+  * give us accurate information
+  * tell us as soon as possible if there are any changes, such as a new address
 
 
 
 ### Controllers of information
 
-Any personal information provided to, or be gathered by, The Royal Mint Limited is controlled by the Royal Mint Limited, Llantrisant, Pontyclun, Mid Glamorgan, South Wales, United Kingdom, CF72 8YT.
+Any personal information provided to, or gathered by, The Royal Mint Limited is controlled by The Royal Mint Limited, Llantrisant, Pontyclun, Mid Glamorgan, South Wales, United Kingdom, CF72 8YT.
 
   * Telephone: 0845 60 88 300
   * e-mail: customer.services@royalmint.com 
@@ -195,13 +188,13 @@ If you supply us with your postal address you may receive periodic mailings by p
 
 Persons who supply us with their e-mail addresses may receive e-mail contact from us with information regarding orders they have placed on-line.
 
-In addition, persons who supply us with their e-mail addresses and "opt in" may receive e-mail contact from us about new products and services or upcoming events. If you decide that you no longer wish to receive e-mail communications, you can choose to "unsubscribe" by clicking the link at the footer of each e-mail or by sending an e-mail to us at the address above. You can also call us at the telephone number above or write to us at the postal address above. The Royal Mint will endeavour to respect your wishes.
+In addition, persons who supply us with their e-mail addresses and "opt in" may receive e-mail contact from us about new products and services or upcoming events. If you decide that you no longer wish to receive e-mail communications, you can choose to "unsubscribe" by clicking the link at the footer of each e-mail or by sending an e-mail to us at the address above. You can also call us at the telephone number above or write to us at the postal address above. The Royal Mint will endeavour to respect your wishes. 
 
 ### Tracking user sessions
 
 When you visit our website your IP address (the Internet address of your computer) is logged to track your session.
 
-This is automatically recognised by the Web server and is only used for system administration and to provide statistics, which the Royal Mint uses to evaluate use of the site. We do not link your IP address to anything personally identifiable to you and therefore you remain anonymous.
+This is automatically recognised by the Web server and is only used for system administration and to provide statistics, which the Royal Mint uses to evaluate use of the site. We do not link your IP address to anything personally identifiable to you and therefore you remain anonymous. 
 
 ### Tracking marketing activity
 
