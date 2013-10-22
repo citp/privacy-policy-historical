@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mostbeautifulman.com privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602043945id_/http%3A//www.mostbeautifulman.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mostbeautifulman.com privacy policy that was archived on 2013-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131022062507id_/http%3A//www.mostbeautifulman.com/privacy.shtml) for the most accurate reproduction.*
 
 # Mostbeautifulman.com -- The World's #1 Male Celebrity Site
 
