@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the techone3.in privacy policy that was archived on 2013-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130525022240id_/http%3A//techone3.in/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techone3.in privacy policy that was archived on 2013-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131022063902id_/http%3A//techone3.in/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | TechOne3
 
