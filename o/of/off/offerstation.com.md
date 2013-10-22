@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the offerstation.com privacy policy that was archived on 2013-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130531035600id_/http%3A//offerstation.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the offerstation.com privacy policy that was archived on 2013-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131022234810id_/http%3A//www.offerstation.com/privacy.php) for the most accurate reproduction.*
 
 # Contact Us | OfferStation.com
 
@@ -52,51 +52,51 @@ OfferStation reserves the right to modify, update, and change this policy at our
 
 [
 
-## Shiseido Clearance Sales
+## Kopiko Coffee Bags Giveaway 
 
-](http://www.offerstation.com/warehouse-sales/110890/shiseido-clearance-sales.htm)
-
-[
-
-## RM3 Sushi King Card Bonanza
-
-](http://www.offerstation.com/dining-food-offers/110893/rm3-sushi-king-card-bonanza.htm)
+](http://www.offerstation.com/dining-food-offers/117306/kopiko-coffee-bags-giveaway.htm)
 
 [
 
-## Aino Living GOURMET Frying Pan Promotion
+## MILO Fuel For Champions Contest
 
-](http://www.offerstation.com/offers-promotions/110956/aino-living-gourmet-frying-pan-promotion.htm)
-
-[
-
-## AEON Member Fiesta at AEON Permas Jaya 
-
-](http://www.offerstation.com/sales-warehouse-clearance/110937/aeon-member-fiesta-at-aeon-permas-jaya.htm)
+](http://www.offerstation.com/contest-prizes/118714/milo-fuel-for-champions-contest.htm)
 
 [
 
-## Clearance at warehouse by Vivencia
+## Tesco Deepavali Hamper Promotion
 
-](http://www.offerstation.com/offers-promotions/110962/clearance-at-warehouse-by-vivencia.htm)
-
-[
-
-## Guardian FREE Voucher Promotion
-
-](http://www.offerstation.com/offers-promotions/110462/guardian-free-voucher-promotion.htm)
+](http://www.offerstation.com/offers-promotions/119777/tesco-deepavali-hamper-promotion.htm)
 
 [
 
-## Aussino Shop & Win Gold Contest
+## New McCafe at McDonald's Taiping Lake Garden
 
-](http://www.offerstation.com/contest-prizes/110928/aussino-shop-and-win-gold-contest.htm)
+](http://www.offerstation.com/dining-food-offers/118269/new-mccafe-at-mcdonalds-taiping-lake-garden.htm)
 
 [
 
-## P & Co Sale
+## New Caring Pharmacy at Pearl Point Shopping mall
 
-](http://www.offerstation.com/sales-warehouse-clearance/110746/p-and-co-sale.htm)
+](http://www.offerstation.com/whats-new/118629/new-caring-pharmacy-at-pearl-point-shopping-mall.htm)
+
+[
+
+## Perodua Myvi Promotion
+
+](http://www.offerstation.com/offers-promotions/118872/perodua-myvi-promotion.htm)
+
+[
+
+## Buy 1 FREE 1 at Juice Works
+
+](http://www.offerstation.com/dining-food-offers/118631/buy-1-free-1-at-juice-works.htm)
+
+[
+
+## New Hong Leong Transformers Debit Card
+
+](http://www.offerstation.com/whats-new/118983/new-hong-leong-transformers-debit-card.htm)
 
   
 
