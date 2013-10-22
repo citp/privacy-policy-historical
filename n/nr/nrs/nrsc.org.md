@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the nrsc.org privacy policy that was archived on 2013-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130617063808id_/http%3A//www.nrsc.org/privacy-donation-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nrsc.org privacy policy that was archived on 2013-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131023000837id_/http%3A//www.nrsc.org/privacy-donation-policy) for the most accurate reproduction.*
 
-# Privacy & Donation Policy
+# | NRSC | National Republican Senatorial Committee
 
-## Donation Policies
+**DONATION POLICIES**
 
-#### Federal Law requires that you verify the following statements are true and accurate
+**WHEN DONATING, FEDERAL LAW REQUIRES THAT YOU VERIFY THE FOLLOWING STATEMENTS ARE TRUE AND ACCURATE**
 
 This contribution is made from my own funds with a personal credit card, and not with a corporate credit card or funds provided to me by another person. I am not a federal government contractor, nor am I a foreign national who lacks permanent resident status in the United States. I am at least 18 years old.
 
@@ -14,13 +14,13 @@ Contributions are not deductible for federal income tax purposes. Funds received
 
 All donations are final. Refunds and cancellations will be given at the discretion of the administration. An administration charge will be deducted from any refunds made in order to cover the cost of processing the donation.
 
-If you believe that an error has been made in connection with your online donation, contact us at [donations@nrsc.org](mailto:donations@nrsc.org) This e-mail address is being protected from spambots. You need JavaScript enabled to view it . We will endeavor to work with you to correct any such error.
+If you believe that an error has been made in connection with your online donation, contact us at donations@nrsc.org. This e-mail address is being protected from spambots. You need JavaScript enabled to view it. We will endeavor to work with you to correct any such error.
 
 **NRSC Donation Shipping & Handling Policy**
 
 All donation confirmations will be sent via email. It is your responsibility to provide a correct and valid email address.
 
-## Privacy Policy
+**PRIVACY POLICY**
 
 The National Republican Senatorial Committee (NRSC) is committed to protecting the privacy and security of visitors to our website. Outlined below is our online privacy policy for information collected through our website and e-mail lists. If you have questions about these policies, please contact us by email at info@nrsc.org This e-mail address is being protected from spambots. You need JavaScript enabled to view it or by phone at (202) 675-6000.
 
@@ -32,7 +32,7 @@ We use log files to assess the aggregate level of traffic on our site, including
 
 Our site contains numerous opportunities for a visitor to forward documents, photos, and messages to friends and family. Some features of our site may allow you to store addresses for easy retrieval and reuse at a later time. This information is stored for your convenience. We do make use of cookies to personalize and customize your interaction on our site and to provide you with the best possible online experience.
 
-This site includes very small files provided by one or more online advertising networks that help them more precisely to target advertising to users, based on users’ activity on sites within those networks. These files do not access or use information by which users can be personally identified. If you wish, you can prevent these files from using non-personal information about you by either deleting the cookie folder in your browser or by putting your browser’s Privacy setting higher, but doing so will mean that you will not be presented with advertising that reflects the way that you use our, and other, websites — and may well adversely affect your experience of websites that use cookies to enhance or personalize that experience. You find out how to make these changes to your browser at this site: <http://www.allaboutcookies.org/manage-cookies/> Users may opt out of Google’s use of cookies by visiting the [Google advertising opt-out page](http://www.google.com/privacy_ads.html).
+This site includes very small files provided by one or more online advertising networks that help them more precisely to target advertising to users, based on users’ activity on sites within those networks. These files do not access or use information by which users can be personally identified. If you wish, you can prevent these files from using non-personal information about you by either deleting the cookie folder in your browser or by putting your browser’s Privacy setting higher, but doing so will mean that you will not be presented with advertising that reflects the way that you use our, and other, websites — and may well adversely affect your experience of websites that use cookies to enhance or personalize that experience. You find out how to make these changes to your browser at this site: http://www.allaboutcookies.org/manage-cookies/ Users may opt out of Google’s use of cookies by visiting the Google advertising opt-out page.
 
 Under no circumstances will the NRSC sell your information to commercial entities. The NRSC may share information — that you provide us — with like-minded organizations committed to the principles or candidates of the Republican Party, Republican State Party organizations and local Republican groups. Occasionally, we may ask a Republican Senate campaign or state party to communicate with our e-mail activists on topics of breaking news we think would be of interest to you. The NRSC may provide your email address or other personal information to authorized third parties required to deliver a particular service. These third parties may not use said information for any other purpose than to carry out the services they are performing for the NRSC.
 
