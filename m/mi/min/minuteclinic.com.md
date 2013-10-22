@@ -1,72 +1,161 @@
-> *The following text is extracted and transformed from the minuteclinic.com privacy policy that was archived on 2012-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121107184640id_/http%3A//www.minuteclinic.com/HIPAA_Notice_of_Privacy_Practices) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the minuteclinic.com privacy policy that was archived on 2013-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131022165443id_/http%3A//www.minuteclinic.com/privacy_policy) for the most accurate reproduction.*
 
-# HIPAA Notice of Privacy Practices
+# Privacy Policy
 
-  
+Effective Date: November 30, 2012.
 
+At CVS Caremark, we are committed to ensuring your privacy, and this guides every decision we make about how, where, and when to collect your personally identifiable information.  Our goal is to provide you with clear, easy-to-read information about our privacy policy and information practices in one place.  This Privacy Policy and the other explanatory information we provide on this site apply throughout our businesses and across our websites, mobile apps and social media presences (“Our Sites”).  We welcome your questions and feedback about our Privacy Policy or our privacy commitments, and invite you to call us toll-free at 866 389-2727.
 
-###  THIS NOTICE DESCRIBES HOW MEDICAL INFORMATION ABOUT YOU MAY BE USED AND DISCLOSED AND HOW YOU CAN GET ACCESS TO THIS INFORMATION.   
-PLEASE REVIEW IT CAREFULLY
+We recognize the trust you place in us to safeguard your privacy.  Our privacy commitments are and will remain a fundamental component of our business, and will apply to everyone who has a relationship with CVS Caremark, including patients, customers, and visitors to Our Sites. 
 
-During your treatment at MinuteClinic, our caregivers may gather information about your medical history and current health. This Notice of Privacy Practices explains how that information may be used and shared with others. It also explains your privacy rights regarding this information. 
+As part of our privacy commitment to you, we want to share with you the basic components of our Privacy Policy:
 
-MinuteClinic is required by law to abide by the terms of this Notice, to make sure that information that identifies you is kept private, and to give you this Notice of our legal duties and practices with respect to medical information about you.
-
-####  Uses and Disclosures of your Health Information 
-
-  * MinuteClinic may use health information to carry out treatment, payment and health care 1. operations. 
-    1. Treatment is the provision, coordination or management of health care. For example, we may use and disclose your information to consult with a third party or to refer you to other health care providers. We will get your written consent prior to making disclosures outside MinuteClinic for treatment purposes, except in emergencies. 
-    2. Payment includes the activities necessary to obtain reimbursement for the provision of health care. For example, we may need to give your health plan information about treatment you received at MinuteClinic so your health plan will pay us or reimburse you for the treatment. We will get your written consent prior to making disclosures for payment purposes. 
-    3. Health care operations include the activities necessary for MinuteClinic to run its business operations. For example, we may use your information to review treatment and services and to evaluate the performance of our staff.
-  * We may use or disclose your health information: 
-    1. When required by federal, state, or local law. 
-    2. To support public health activities by reporting as required or authorized by state or federal law. These reports may include the reporting of exposure to a communicable disease or risk of spreading a disease or condition. 
-    3. To cooperate with law enforcement officials for certain law enforcement purposes as directed by a court order, warrant, criminal subpoena, or other lawful process. 
-    4. To report abuse or neglect.
-    5. To support health oversight activities that are authorized by law, such as administrative or criminal investigations, inspections, licensure or disciplinary actions and other similar activities necessary for appropriate oversight of government benefit programs or functions. 
-    6. When required by a coroner or medical examiner for the purpose of identifying a deceased person, determining a cause of death or other duties as required by law. 
-    7. When necessary to prevent or lessen a serious and imminent threat to the health and safety of a person or the public and the disclosure is to a person reasonably able to prevent or lessen the threat, as consistent with applicable law and standards. 
-    8. For judicial or administrative proceedings, in response to a valid court order, administrative order, a grand jury subpoena, or with your written consent. 
-    9. For research purposes, with your written authorization or as permitted by state law.
-    10. To business associates to perform functions on MinuteClinic’s behalf, if the business associate has signed an agreement to protect the confidentiality of the information. 
-  * We may disclose your health information to a family member, other relatives, or a close friend or any other person you identify if the information relates to that person’s involvement in your health care if you consent to such a disclosure. If you are unable to agree or object to the use or disclosure, we may disclose such information as necessary if we determine that it is in your best interest.
-  * In other situations, your written authorization will be obtained before MinuteClinic will use or disclose your health information to third parties outside MinuteClinic.
-  * State and federal laws may be more stringent and may prohibit certain uses and disclosures identified above. When another law is more stringent than HIPAA, we will follow the more stringent requirements. For example, some state laws require additional protection for records related to mental health treatment, drug and alcohol treatment, and HIV-related information. 
+  1. **Transparency.**   We will make our privacy commitments easy to find and easy to read. 
+  2. **Notice.**   We will notify you of changes to our Privacy Policy before they take effect. 
+  3. **Choice.**   You have choices about what information you provide to CVS and how CVS Caremark will use your information for marketing purposes. 
+  4. **Security.**   We will use state of the art security safeguards to protect your privacy and the data entrusted to us. 
+  5. **Control.**   We will not sell your personal information to anyone, for any purpose.  And when we share information with our subsidiaries or trusted service providers, they too must comply with our privacy commitments. 
+  6. **Accessibility.**   We will listen to your feedback and answer your questions about our Privacy Policy, commitments, and practices.>
 
 
 
-####  Patient Rights
+___________________________
 
-  * You may request MinuteClinic to restrict uses and disclosures of your health information. However, MinuteClinic is not required to agree to the requested restriction. These requests should be made to MinuteClinic, Privacy Office. Requests must be made in writing. In your request, you must tell us (a) what information you want to limit; (b) whether you want to limit MinuteClinic’s use, disclosure, or both, and (c) to whom you want the limits to apply, for example, if you want to prohibit disclosures to your spouse. 
-  * You have the right to request confidential communications by alternative means or at alternative 2. locations. For example, you may request that we communicate with you only by mail. We will accommodate all reasonable requests, but your request must specify how or where you wish to be contacted, and we may require you to provide information about how payment will be handled. You must request confidential communications in writing. 
-  * You have a right to inspect and obtain a copy of your health information that is used to make decisions about your care for as long as MinuteClinic maintains the information. This right does not apply to certain health information, including information compiled in reasonable anticipation of or for litigation and other information not subject to the right to access information under state law and Requests for access to health information should be made in writing to MinuteClinic, HIPAA. Privacy Office. If access is denied, you will be provided with a written explanation that sets forth the basis for the denial, a description of how you may review those rights and a description of how you may complain.
-  * You have the right to request that MinuteClinic amend your health information if it is incorrect or incomplete. Requests for amendment of information should be made in writing to MinuteClinic, Privacy Office, and you must provide a reason that supports your request to have the information changed. MinuteClinic may deny your request for an amendment if the request is not in writing and submitted to the Privacy Office. In addition, we may deny your request if you ask us to amend information that: (a) was not created by MinuteClinic (unless the person or entity that created the information is no longer available to make the amendment); (b) is not part of the medical information kept by MinuteClinic; (c) is not part of the information you would be permitted to inspect and copy; or (d) is accurate and complete.
-  * At your request, MinuteClinic will provide you with an accounting of disclosures by MinuteClinic of your health information during the six years prior to the date of your request. However, such accounting will not include disclosures made: 1) to carry out treatment, payment or health care operations; 2) directly to you or your personal representatives; 3) prior to the effective date of this notice; or 4) based on your written authorization. If you request more than one accounting within a 12-month period, MinuteClinic will charge a reasonable, cost-based fee for each subsequent accounting. Requests for a request of an accounting of disclosures should be made in writing to MinuteClinic, Privacy Office. 
-  * To obtain a paper copy of this notice, contact MinuteClinic Privacy Office.
-  * You may exercise your rights through a personal representative as permitted or required by applicable law. Your personal representative may be required to produce evidence of authority to act on your behalf before that person will be given access to your information or allowed to take any action for you. 
-  * If you believe your privacy rights have been violated you may complain to the MinuteClinic Privacy Office. You may also file a complaint with the Secretary of the U.S. Department of Health and Human Services. All complaints should be submitted in writing. You will not be penalized in any way for filing a complaint. 
+#### The CVS Caremark Privacy Policy
+
+_The Scope of this Privacy Policy_
+
+CVS Caremark Sites and Mobile Apps, including those for CVS/pharmacy, Caremark, and MinuteClinic, are owned and operated by CVS Pharmacy, Inc. 
+
+This Privacy Policy describes the choices you can make about the way your information is collected and used. Our Privacy Policy applies to the information collected on Our Sites and to any other information that CVS Caremark collects about you.
+
+**_For information about the privacy of your personal health information, please review the CVS Caremark  _**[ ** _Notice of Privacy Practices_**](https://web.archive.org/HIPAA_Notice_of_Privacy_Practices/) ** _._**
+
+_Your Consent to Use Our Sites_
+
+By using Our Sites, you signify your consent to our collection, use, and disclosure of your personal information in accordance with this Privacy Policy. If you do not agree with the practices described in this Privacy Policy, please do not use Our Sites.
+
+_The Information We Collect About Customers and Users_
+
+CVS Caremark may collect different types of personal or other information when you visit Our Sites, when you place orders with us, and in other circumstances described in this Privacy Policy.  Some examples of the information we collect include:
+
+  1. _Contact Information_ , which we use for contacting you regarding your orders or for services which may be of interest to you; 
+  2. _Billing Information_  necessary for your financial relationship with us, including payment method data you store with us for the completion of orders; 
+  3. _Protected Health Information_  necessary for filling prescription orders from CVS Caremark.   This information is also protected under our ** _ _** ** _[Notice of Privacy Practices](https://web.archive.org/HIPAA_Notice_of_Privacy_Practices/)._**
+  4. _Technical Information_  relating to your use of our Sites or mobile apps.
 
 
 
-####  MinuteClinic Duties 
+_How We Collect Information About Customers and Users_
 
-This Notice is effective beginning January 26, 2006. However, MinuteClinic reserves the right to change its privacy practices and this Notice, and to apply the changes to any health information received or maintained by MinuteClinic prior to the date of the changes. If the terms of this Notice are changed, a revised version will be available upon request and will be posted in a clear and www.MinuteClinic.com prominent location. You may access the notice by visiting our website at: [ www.MinuteClinic.com](https://web.archive.org/)
+CVS Caremark collects information in four primary ways:
 
-  
+  1. When you provide us with information when you purchase or interact with us about products or services offered by CVS Caremark; 
+  2. When you register as a user of a CVS Caremark Site; 
+  3. When we collect technical information automatically when you visit Our Sites; and 
+  4. When we obtain information about you from your employer or health care plan in connection with your prescription orders.
 
 
-####  _Complaints, Questions, and Requests_
 
-You may direct your questions about this Notice or MinuteClinic’s   
-privacy practices, requests regarding your information, or other   
-privacy or confidentiality concerns to: 
+_How We Use Information About Customers and Users_
 
-**Privacy Office MinuteClinic  
-One CVS Drive   
-Woonsocket, RI 02895 
+CVS Caremark may use the information we collect in a variety of ways to enhance our customers’ experiences, including to:
 
-Phone: (866) 389-2727
+  1. Process your orders for products or services; 
+  2. Improve customer services; 
+  3. Respond to your questions; 
+  4. Deliver you customized content, advertising and savings that may be of interest to you; 
+  5. Communicate with you regarding updates, offers, and promotions; 
+  6. Monitor and ensure Site integrity and security; 
+  7. Investigate, prevent, or take action relating to illegal activities, violations of our Terms of Service or Privacy Policy; and 
+  8. Aggregate non-identifiable information for business analysis.
 
-**
 
-* MinuteClinic includes MinuteClinic, L.L.C. and its affiliated companies and unaffiliated professional corporations not owned or operated by MinuteClinic, L.L.C. MinuteClinic, L.L.C. provides administrative services and support to the unaffiliated professional corporations. Please visit [www.MinuteClinic.com](https://web.archive.org/) for service locations. 
+
+_Online Activity Tracking and Advertising_
+
+  1. We collect information about your activity on Our Sites using technologies such as cookies, including third-party cookies, web beacons and server log files. 
+  2. We and our third party business partners use this automatically generated information, as well as other information that we or they have, to provide you with an optimal website experience.  This includes measuring the effectiveness of our ads and tailoring offers and advertisements to you for products or services you may find helpful on Our Sites and third-party sites. 
+  3. If you would prefer not to participate in interest-based advertising, you can always opt-out of this activity by visiting the Network Advertising Initiative (NAI) website by clicking [ ** _here_**](http://www.networkadvertising.org/choices/). 
+  4. Remember that even if you opt-out through the NAI website, you can still receive tailored offers through your CVS ExtraCare savings and rewards program, which can be accessed through mycvs.com. 
+
+
+
+_How We Share Personal Information_
+
+CVS Caremark will only share your personal information in manners described within this Privacy Policy.
+
+  1. _With CVS Caremark Companies:  _CVS Caremark and its subsidiaries may share your personally identifiable information with one another to ensure that your experiences as a customer or user of CVS Caremark Sites is as seamless and enjoyable as possible. 
+  2. _With Third Party Companies:  _In limited circumstances, CVS Caremark may share your personally identifiable information with third party companies to provide you with technologies, services, or content that may be of interest to you, or to assist us in fulfilling your orders.  In all instances in which CVS Caremark shares your personally identifiable information, we require that the recipient agrees to protect it in a manner consistent with this privacy policy. 
+  3. _In Other Circumstances:_  CVS Caremark may share your information in other limited circumstances, including: 
+    1. Responding to requests from law enforcement officials or judicial authorities or to otherwise cooperate with authorities pursuant to a legal matter; 
+    2. Responding to matters of personal or public safety; 
+    3. In litigation where the data is pertinent; 
+    4. To investigate security incidents; 
+    5. In the event of the sale or transfer of CVS Caremark or of some of our assets, or in the context of similar business negotiations. 
+    6. We do not sell your personal information to anyone for marketing purposes. 
+
+
+
+_Anonymous and Aggregate Information_
+
+  1. We also collect technical, non-personal information about Site users. 
+  2. CVS Caremark may also remove personally identifiable information to create anonymous data. 
+  3. This data cannot be used to identify any individual. 
+  4. CVS Caremark uses and shares this data for historical, statistical, or business planning purposes. 
+
+
+
+_Our Online Privacy Policy for Children_
+
+  1. CVS Caremark Sites are not intended or designed to attract users under the age of 13. 
+  2. We do not collect personally identifiable information from any person we know to be under the age of 13. 
+  3. We instruct users under the age of 13 not to send any information to CVS Caremark through our Sites. 
+
+
+
+_Our Data Protection and Security Policy_
+
+  1. We maintain industry standard data security measures, including SSL encryption, to protect sensitive data such as when it is stored by CVS Caremark and when you send it to us. 
+  2. We ask all third parties acting on our behalf to protect your information in accordance with this Privacy Policy and to implement comparable data protection and security policies. 
+  3. We maintain personal information for registered Site users in accordance with our Records Retention Policy and Procedure, and you have the right to change your membership information or status at any time. 
+
+
+
+_CVS Caremark Customer Privacy Choice and Control_
+
+  1. You have the ability to review, modify, or request the removal of personal information we collect about you.  Certain information may be retained, however, to satisfy legal obligations.  
+  2. You may choose to limit the types and frequency of communications you receive from CVS Caremark. 
+  3. You may choose to end your relationship with CVS Caremark at any point. 
+
+
+
+_Our Privacy Commitments to Employment Applicants_
+
+  1. We collect information, including personal contact information, education and work history, as well as Social Security numbers in order to process and consider your application. 
+  2. Your application information will not be sold to unaffiliated third-parties for marketing purposes. 
+  3. The information on your application may be shared with background services and our affiliates and used for certain regulatory, compliance and legal purposes. 
+
+
+
+_Changes to this Privacy Policy_
+
+  1. Any changes in our Privacy Policy will be prominently posted on so that you are aware of any changes in the data we collect and how we use it. 
+  2. If you register and provide us with a valid email address, we will notify you by email of any significant changes to this Privacy Policy. You will be given the opportunity to opt in to any significant new uses of personal information if that information was collected prior to the change in this policy. If you do not opt in to any significant new uses of your personal information, that information will continue to be governed by the policy in effect at the time your information was collected. 
+  3. If you do not register, we will not have your email address and cannot provide you with any notifications of Privacy Policy changes. 
+
+
+
+_Your Personal Health Information_
+
+In some circumstances, CVS Caremark’s use of your information will also be subject to the requirements of the Health Insurance Portability and Accountability Act (frequently referred to as ‘HIPAA’).  For example, when you are submitting personal health information for prescription refills, we are subject to the requirements of HIPAA.
+
+In these circumstances, the terms of CVS Caremark’s ** _ _**[ ** _Notice of Privacy Practices_**](https://web.archive.org/HIPAA_Notice_of_Privacy_Practices/) will apply.
+
+If you have questions about which policy applies to information you have provided us, please do not hesitate to contact us at Privacy Office MinuteClinic, One CVS Drive, Woonsocket, RI 02895 or call us toll-free at (866) 389-2727. 
+
+_Your California Privacy Rights_
+
+Under California Civil Code Section 1798.83, California customers are entitled to request information relating to whether a business has disclosed personal information to any third parties for the third parties’ direct marketing purposes.  As explained elsewhere in this Privacy Policy, CVS Caremark will not sell or transfer your personal information with third party companies for their direct marketing purposes without your consent.  California customers who wish to request further information about our compliance with this statute or who have questions more generally about our Privacy Policy and our privacy commitments to our customers and Site users should not hesitate to contact us at Privacy Office MinuteClinic, One CVS Drive, Woonsocket, RI 02895 or call us toll-free at (866) 389-2727.
+
+**________________________**
