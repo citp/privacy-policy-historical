@@ -1,8 +1,12 @@
-> *The following text is extracted and transformed from the phpholidays.com privacy policy that was archived on 2013-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130430151414id_/http%3A//phpholidays.com/travel-website-privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the phpholidays.com privacy policy that was archived on 2013-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131022221232id_/http%3A//www.phpholidays.com/travel-website-privacy-policy.php) for the most accurate reproduction.*
 
-# 100% Automated Realtime Online php mysql Script for Airline Tickets, Air car bus booking Hotels, Ultimate Travel tour Script
+# Web software Travel Flight Booking Engine, Hotel Reservation System, Vacation Rentals Booking Engine
+
+**
 
 Effective: July 1, 2011
+
+**
 
 Our Commitment To Privacy
 
@@ -16,10 +20,10 @@ The Information We Collect
 
 This notice applies to all information collected or submitted on any of Eicra Soft Ltd. websites. On some pages, you can order products, make requests, and register to receive materials. The types of personal information collected at these pages are:
 
-  * Name
-  * Address
-  * Email address
-  * Phone number
+  * __Name
+  * __Address
+  * __Email address
+  * __Phone number
 
 
 
