@@ -1,10 +1,7 @@
-> *The following text is extracted and transformed from the mypetwarehouse.com.au privacy policy that was archived on 2013-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130623082307id_/http%3A//www.mypetwarehouse.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mypetwarehouse.com.au privacy policy that was archived on 2013-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131022204819id_/http%3A//www.mypetwarehouse.com.au/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - My Pet Warehouse
 
-|   
----|---  
-  
 **What Personal Information About Customers Does My Pet Warehouse Gather?**  
 The information we learn from customers helps us personalize and continually improve the shopping experience at My Pet Warehouse. Here are the types of information we may gather.
 
@@ -35,9 +32,3 @@ It is important to realise that our business changes constantly, and our Privacy
 Questions regarding our Conditions of Usage, Privacy Policy, or other policy related material can be directed to our support staff by clicking on the "Contact Us" link found in our menu. Or you can email us directly at: [sales@mypetwarehouse.com.au](mailto:sales@mypetwarehouse.com.au)
 
 My Pet Warehouse knows that you care how information about you is used and shared, and we appreciate your trust and want you to feel confident in our services and security as it relates to your personal information. This policy describes our privacy policy. By visiting My Pet Warehouse, you are accepting the practices described in this Privacy Policy.
-
-**Common Search Terms:** [Pet Supplies Online](http://www.mypetwarehouse.com.au/) | Pet Accessories | Pet Food | Pet Products | Pet Supplies | Pet Grooming | [MyPetWarehouse](http://www.mypetwarehouse.com.au/about) | [Online Pet Store](http://www.mypetwarehouse.com.au/) | [Pet Barn](http://www.mypetwarehouse.com.au/pet-barn)   
-Dog Collars | Dog Food | Dog Accessories | Dog Supplies | Dog Grooming | [Petbarn](http://www.mypetwarehouse.com.au/pet-barn) | Cat Supplies | Cat Food | Cat Grooming | Vet Supplies | Pet Care
-
-Copyright © MyPetWarehouse 2012 all rights reserved. A.B.N. 21 620 597 911. All prices listed are in AUD and include GST.  
-Prices and specifications are subject to change without notice. E&OE. 
