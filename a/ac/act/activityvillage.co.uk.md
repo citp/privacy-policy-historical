@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the activityvillage.co.uk privacy policy that was archived on 2013-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130425010251id_/http%3A//www.activityvillage.co.uk/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the activityvillage.co.uk privacy policy that was archived on 2013-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131022071615id_/http%3A//www.activityvillage.co.uk/privacy-policy) for the most accurate reproduction.*
 
-# Activity Village Privacy Policy
+# Privacy Policy
 
 We have created this privacy statement in order to demonstrate our firm and continuing commitment to the privacy of personal information provided by those visiting and interacting with this web site. We hold the privacy of your personal information in the highest regard. The following discloses our information gathering and dissemination practices for this website.
 
@@ -14,7 +14,7 @@ We recognise the importance of protecting your privacy and our policy is designe
 
 When you visit this web site you may provide us with two types of information: personal information you knowingly choose to disclose that is collected on an individual basis, and Web site use information collected on an aggregate basis as you and others browse our Web site.
 
-### 1\. Personal Information You Choose to Provide 
+### 1\. Personal Information You Choose to Provide
 
 **Registration Information**  
 If you register for any of our products, services or newsletters you will provide us information about yourself.
@@ -46,17 +46,17 @@ We use third-party advertising companies to serve ads when you visit this websit
 Third party cookies may be placed when serving advertisements on this website including but not limited to those set by AOL. Read [AOL's privacy policy](http://privacy.aol.co.uk/).
 
 **DoubleClick DART cookies**  
-We also may use DART cookies for ad serving through Google’s DoubleClick, which places a cookie on your computer when you are browsing the web and visit a site using DoubleClick advertising (including some Google AdSense advertisements). This cookie is used to serve ads specific to you and your interests (”interest based targeting”). The ads served will be targeted based on your previous browsing history. DART uses “non personally identifiable information”. It does NOT track personal information about you, such as your name, email address, physical address, telephone number, social security numbers, bank account numbers or credit card numbers. You can opt-out of this ad serving on all sites using this advertising by visiting [ http://www.doubleclick.com/privacy/dart_adserving.aspx](http://www.doubleclick.com/privacy/dart_adserving.aspx). 
+We also may use DART cookies for ad serving through Google’s DoubleClick, which places a cookie on your computer when you are browsing the web and visit a site using DoubleClick advertising (including some Google AdSense advertisements). This cookie is used to serve ads specific to you and your interests (”interest based targeting”). The ads served will be targeted based on your previous browsing history. DART uses “non personally identifiable information”. It does NOT track personal information about you, such as your name, email address, physical address, telephone number, social security numbers, bank account numbers or credit card numbers. You can opt-out of this ad serving on all sites using this advertising by visiting [ http://www.doubleclick.com/privacy/dart_adserving.aspx](http://www.doubleclick.com/privacy/dart_adserving.aspx).
 
 ### Social Networks
 
-These days our visitors like to share content from Activity Village through social networks like Facebook, Twitter and Google+. We therefore have "like" and "add" buttons throughout the site that allow people to easily share to those networks. In some cases when we include these social 'plugins', it gives those sites the flexibility to use cookies. 
+These days our visitors like to share content from Activity Village through social networks like Facebook, Twitter and Google+. We therefore have "like" and "add" buttons throughout the site that allow people to easily share to those networks. In some cases when we include these social 'plugins', it gives those sites the flexibility to use cookies.
 
 ### Videos
 
-On some pages in this website we showcase YouTube videos. If you watch one of these videos, YouTube may store cookies in order to track how people are watching videos. 
+On some pages in this website we showcase YouTube videos. If you watch one of these videos, YouTube may store cookies in order to track how people are watching videos.
 
-## How Do We Use the Information That You Provide to Us? 
+## How Do We Use the Information That You Provide to Us?
 
 Broadly speaking, we use personal information for purposes of administering our business activities, providing the products and services you requested, to monitor the use of the service, our marketing and promotional efforts and improve our content and service offerings, and customize our site's content, layout, services and for other lawful purposes. These uses improve our site and better tailor it to meet your needs.
 
@@ -72,17 +72,17 @@ You can choose to disable or selectively turn off our cookies or third-party coo
 
 Deleting cookies does not mean you are permanently opted out of any advertising program. Unless you have settings that disallow cookies, the next time you visit a site running the advertisements, a new cookie will be added.
 
-**You can read more about cookies and find detailed information for managing your cookies here:  
-** [AboutCookies.org](http://www.aboutcookies.org/default.aspx?page=1%20rel=)
+**You can read more about cookies and find detailed information for managing your cookies here:**  
+[AboutCookies.org](http://www.aboutcookies.org/default.aspx?page=1%20rel=)
 
 **More information about cookies from the UK government:**  
 [Information Commissioner's Office](http://www.ico.gov.uk/for_the_public/topic_specific_guides/online/cookies.aspx)
 
 ## How Do We Use Information We Collect from Cookies?
 
-As you visit and browse this website, the site uses cookies to differentiate you from other users. In some cases, we also use cookies to prevent you from having to log in more than is necessary for security. Cookies, in conjunction with our web server's log files, allow us to calculate the aggregate number of people visiting our website and which parts of the site are most popular. This helps us gather feedback to constantly improve our website and better serve our clients. 
+As you visit and browse this website, the site uses cookies to differentiate you from other users. In some cases, we also use cookies to prevent you from having to log in more than is necessary for security. Cookies, in conjunction with our web server's log files, allow us to calculate the aggregate number of people visiting our website and which parts of the site are most popular. This helps us gather feedback to constantly improve our website and better serve our clients.
 
-We make use of a tool from Google called Google Analytics. The Google Analytics software is described [here](http://www.google.co.uk/intl/en/analytics/privacyoverview.html). To opt out of being tracked by Google Analytics across all websites, visit [here](http://tools.google.com/dlpage/gaoptout). 
+We make use of a tool from Google called Google Analytics. The Google Analytics software is described [here](http://www.google.co.uk/intl/en/analytics/privacyoverview.html). To opt out of being tracked by Google Analytics across all websites, visit [here](http://tools.google.com/dlpage/gaoptout).
 
 Cookies do not allow us to gather any personal information about you and we do not intentionally store any personal information that your browser provided to us in your cookies.
 
@@ -108,7 +108,7 @@ Please remember that when you use a link to go from our website to another web s
 
 It is easy for newsletter subscribers to unsubscribe from our newsletter at any time that they will not receive future messages. After unsubscribing we will discontinue sending the particular messages as soon as technically feasible.
 
-## A Special Note About Children 
+## A Special Note About Children
 
 Children are not eligible to use our services unsupervised and we ask that children (under the age of 14) do not submit any personal information to us. If you are a minor, you can use this service only in conjunction with permission and guidance from your parents or guardians.
 
