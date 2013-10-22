@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gogy.com privacy policy that was archived on 2011-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111112214107id_/http%3A//www.gogy.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gogy.com privacy policy that was archived on 2013-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131022155326id_/http%3A//www.gogy.com/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -31,8 +31,8 @@ This Website Privacy Statement is effective as of the date listed below. Even if
 
 ## Questions?
 
-We welcome any questions or comments you have about our privacy practices. Please feel free to contact us at: [Feedback](https://web.archive.org/web/20111112214107id_/http%3A//www.gogy.com/contact.aspx). **Effective Date: Privacy Notice last modified April 5, 2009.**
+We welcome any questions or comments you have about our privacy practices. Please feel free to contact us at: [Feedback](https://web.archive.org/web/20131022155326id_/http%3A//www.gogy.com/contact.aspx). **Effective Date: Privacy Notice last modified April 5, 2009.**
 
-© 2011 GoGy.com 
+© 2013 GoGy.com 
 
 |  
