@@ -1,22 +1,43 @@
-> *The following text is extracted and transformed from the tes.com privacy policy that was archived on 2002-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021017233705id_/http%3A//tes.com/ppolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tes.com privacy policy that was archived on 2013-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131022121840id_/http%3A//www.tes.com/security.html) for the most accurate reproduction.*
 
-# tes.comppolicy
+# TES.com - Security and Privacy
 
-Telecom Electric Supply maintains high standards for the protection of privacy over the Internet.  The purpose of this statement is to explain the types of information Telecom Electric Supply obtains about vistors to our websites, how the information is obtained, how it is used, and how vistors can restrict its use or disclosure. 
+Privacy and Security at TES.com  
+TES.com has created this privacy and security statement in order to demonstrate our firm commitment to privacy and security. The following discloses our information-gathering and dissemination practices for TES.com.
 
-The only information Telecom Electric Supply obtains about individual vistors to our website is information supplied voluntarily by the visitor.  This means that you can visit our websites without telling us who you are or revealing any information about yourself.  To gauge the effectiveness of our website, we do collect some non-individually identifiable generic information about our visitors.  Our web server automatically recognize a visitor's domain name (such as .com, .edu, etc.), the web page from which a visitor enters our site, which pages a visitor visits on each page.  This information does not reveal a visitor's identity.  We aggregate this information and use it to evaluate and improve our website. 
+Information Collection and Use  
+We request information from the user on our order form. The user must provide contact information (such as name, email, and shipping address) and financial information (such as credit card number, expiration date). This information is used for billing purposes and to fill customer’s orders. If we have trouble processing an order, the information is used to contact the user. TES.com does not sell, rent, or trade your personal information to third parties. 
 
-You can choose to provide individually-identifiable information to Telecom Electric Supply in a number of ways through our website - by ordering a service from us, sending us e-mail, registering to receive news or information about Telecom Electric Supply for a specific purpose. 
+Your IP address is used to help identify you and your shopping cart and to gather broad demographic information.
 
-"Cookies" are small pieces of information that are stored by your browser on your computer's hard drive.  Our cookies do not contain any personally identifying information, but they do enable us to provide features such as 1-Click(sm) shopping and to store items in your shopping cart between visits.  Most Web browsers automatically accept cookies, but you can usually change your browser to prevent that.  Even without a cookie, you can still use most of the features in our store, including placing items in your shopping cart and purchasing them. 
+While we do make use of cookies, it is not necessary to have them enabled in your browser to place an order with us. (A cookie is a piece of data stored on a user’s computer that is tied to information about the user.) Usage of a cookie is in no way linked to any personally identifiable information while on our site. Cookies do however save the shopper time when shopping our site. 
 
-We are committed to protecting your privacy.  We use the information we collect on the site to make shopping at Telecom Electric Supply possible and to enhance your overall shopping experience.  We do not sell, trade, or rent your personal information to others.    
- 
+This web site contains links to other sites. Please be aware that we, TES.com, are not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every Web site that collects personally identifiable information. This privacy statement applies solely to information collected by this web site, TES.com.
 
-|  | By using our Web site, you consent to the collection and use of this information by Telecom Electric Supply. If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it. 
+Choice/Opt-out  
+Our users are given the opportunity to ‘opt-out’ of having their information used for purposes not directly related to our site at the point where we ask for information. For example, our order form has an ‘opt-out’ mechanism so users who buy a product from us, but don’t want any marketing material, can keep their email address off of our lists.
 
-We do not sell or disclose individually-identifiable information obtained on-line about our visitors, to anyone outside of Telecom Electric Supply unless you specifically authorize it, it is required by law, or disclosure is necessary to protect the safety of customers, employees or property.  If you provide individually-identifiable information to us in the context of an event Telecom Electric Supply sponsors with another company, such as a contest, or if you register on a co-sponsored site or feature, you may also be providing the individually-identifiable information to the co-sponsor.  This will be made clear to you before you submit the information and you can decide whether or not to participate. 
+Users who no longer wish to receive our newsletter and promotional communications may opt-out of receiving these communications by changing their preferences in our email list software or by sending an e-mail to Frederic@tes.com. Place “REMOVE FROM LIST” in the body of the message.
 
-Telecom Electric Supply does not send unsolicited "junk" email (spam).  We may use email to communicate with our customers, to respond to visitors' emails, to confirm orders placed online, and to send information that a visitor has requested.  If you receive an unwanted email from us, you can simply use the reply feature on your browser in order to ask us not to send you future emails.  In the body of your reply, simply ask us to remove you from our list. 
+Security  
+This Web site takes every precaution to protect our users’ information. When users submit sensitive information via the web site, their information is protected both online and off-line.
 
-By using our Web site, you consent to the collection and use of this information by Telecom Electric Supply. If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it. 
+When our registration/order form asks users to enter sensitive information (such as credit card number), that information is encrypted and is protected with the best encryption software in the industry - SSL. While on a secure page, such as our order form, the lock icon on the bottom of Web browsers such as Chrome, Firefox, Safari, and Microsoft Internet Explorer becomes locked, as opposed to un-locked, or open, when users are just ‘surfing’. 
+
+TES.com guarantees that every purchase you make on our site will be 100% safe, secure, and guaranteed. This means that you pay nothing if unauthorized charges are made to your credit card as a result of shopping with us.
+
+Under the Fair Credit Billing Act, your bank can not hold you liable for more than $50 of fraudulent charges. If your bank does hold you liable for any of this $50, TESs.com will cover the entire liability for you, up to $50. TES.com will only cover this liability if the unauthorized use of your credit card resulted through no fault of your own from purchases made while using our secure server. In the event of unauthorized use of your credit card, you must notify your credit card provider in accordance with its reporting rules and procedures.
+
+If users have any questions about the security at our Web site, users can send an email to frederic@tes.com.
+
+Notification of Changes  
+If we decide to change our privacy policy, we will post those changes to this privacy statement, the homepage, and other places we deem appropriate so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We will use information in accordance with the privacy policy under which the information was collected.
+
+If, however, we are going to use users’ personally identifiable information in a manner different from that stated at the time of collection we will notify users via email. Users will have a choice as to whether or not we use their information in this different manner. However, if users have opted out of all communication with the site, they will not be contacted, nor will their personal information be used in this new manner. In addition, if we make any material changes in our privacy practices that do not affect user information already stored in our database, we will post a prominent notice on our Web site notifying users of the change. In some cases where we post a notice we will also email users, who have opted to receive communications from us, notifying them of the changes in our privacy practices.
+
+Contact Information If users have any questions or suggestions regarding our privacy policy, please contact us at:
+
+frederic@tes.com  
+1304 Capital Avenue  
+Plano, TX 75074  
+800-821-9066 
