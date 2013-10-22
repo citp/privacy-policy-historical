@@ -1,77 +1,27 @@
-> *The following text is extracted and transformed from the mobtv.sg privacy policy that was archived on 2010-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100329110204id_/http%3A//www.mobtv.sg/Info/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mobtv.sg privacy policy that was archived on 2013-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131022074524id_/http%3A//www.mobtv.sg/pp.html) for the most accurate reproduction.*
 
-# MOBTV
+# Privacy Policy | Are you a good candidate for LASIK surgery?
 
-MediaCorp Pte Ltd respects your privacy. Please read the following to learn more about our privacy policy.
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at fuji@7-field.com.
 
-**What this Privacy Policy covers**
+At mobtv.sg, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by mobtv.sg and how it is used.
 
-This Privacy Policy covers MediaCorp Pte Ltd treatment of personally identifiable information that MediaCorp Pte Ltd collects, and when you use MediaCorp Pte Ltd services.
+Log Files  
+Like many other Web sites, mobtv.sg makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
 
-This policy does not apply to the practices of companies that MediaCorp Pte Ltd does not own or control, or to people that MediaCorp Pte Ltd does not employ or manage.
+Cookies and Web Beacons  
+mobtv.sg does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser.
 
-**What is the information used for?** **  
-**  
-To provide goods and services by MediaCorp Pte Ltd or its designated representatives and/or business partners to you or parties designated by you and matters ancillary thereto;
+DoubleClick DART Cookie  
+.:: Google, as a third party vendor, uses cookies to serve ads on mobtv.sg. .:: Google's use of the DART cookie enables it to serve ads to users based on their visit to mobtv.sg and other sites on the Internet.  
+.:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL - http://www.google.com/privacy_ads.html
 
-To verify and process payment when you purchase goods and services from our sites;
+Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include ....  
+Google Adsense  
+These third-party ad servers or ad networks use technology to the advertisements and links that appear on mobtv.sg send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see.
 
-For verification and record of your personal particulars including comparing it with information from other sources and using the information to communicate with you; and
+mobtv.sg has no access to or control over these cookies that are used by third-party advertisers.
 
-To send you information, promotions and updates including marketing and advertising materials in relation to our goods and services and those of third party organizations selected by us
+You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. mobtv.sg's privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
 
-**Can you opt out?** **  
-**  
-Whenever we send you any information, we will include instructions on how to unsubscribe and a link to do so.
-
-**Will your personal information be shared with anyone?**
-
-MediaCorp Pte Ltd will not sell or rent your personal information to anyone.
-
-MediaCorp Pte Ltd will only share your personal details with a third party when
-
-We have your consent to share the information;
-
-We need to share your information to provide the product or service you have requested;
-
-We need to send the information to companies who work on behalf of MediaCorp Pte Ltd to provide a product or service to you;
-
-We respond to subpoenas, court orders or legal process; or
-
-We find that your actions on our web sites violate MediaCorp Pte Ltd terms and conditions of use or any of our usage guidelines for specific products and services.
-
-**Can you change and update your particulars?**
-
-You may update your personal information at any time, including whether you want MediaCorp Pte Ltd to contact you about promotions and new products and services.
-
-**How your data is protected**
-
-MediaCorp Pte Ltd will take reasonable steps to ensure that personal data are protected from unauthorized access. Access to ["Member Profile"] is password protected. Thus, no other party, including employees of MediaCorp Pte Ltd, can change the information. However, you must remember to log off from your account and close the browser window after use so that no unauthorized party can have access. You must not, at any time, divulge your password to any third party.
-
-All information gathered by MediaCorp Pte Ltd is stored in systems that may only be accessed by authorized staff of MediaCorp Pte Ltd using assigned user ids and passwords.
-
-In certain areas MediaCorp Pte Ltd uses industry-standard SSL-encryption to protect data transmissions.
-
-**Changes to this Privacy Policy** **  
-**  
-MediaCorp Pte Ltd may amend this policy from time to time. If we make any substantial changes in the way we use your personal information we will notify you by posting a prominent announcement on our pages. You agree that such posting will constitute sufficient and adequate notice to you of the changes
-
-You agree that your continued use of MediaCorp Pte Ltd products and services after such amendment will constitute your acceptance of and agreement to be bound by the modified policy.
-
-**Use of cookies**
-
-MediaCorp Pte Ltd uses "cookies", where a small data file is sent to your browser to store and track information about you when you enter our websites. The cookie is used to track information such as the number of users and their frequency of use, profiles of users and their preferred sites. While this cookie can tell us when you enter our sites and which pages you visit, it cannot read data off your hard disk.
-
-Release
-
-This policy is subject to any existing laws of the Republic of Singapore in relation to the protection of information and if required by any lawful authority for any legal purposes such as the enforcement of any laws or to prevent the breaching of any laws, we shall release all such information as is legally required by the requisite and lawful authority in accordance with the directions of the lawful court of the competent jurisdiction.
-
-Contact MediaCorp Pte Ltd
-
-If you would like to contact us for any reason regarding our privacy practices, please write to us at the following address:
-
-MediaCorp Pte Ltd  
-Attention: Senior Multimedia Director  
-Caldecott Broadcast Centre  
-Andrew Road  
-Singapore 299939 
+If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites. 
