@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pleasantholidays.com privacy policy that was archived on 2013-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130529151945id_/http%3A//www.pleasantholidays.com/PleasantHolidaysWeb/Security.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pleasantholidays.com privacy policy that was archived on 2013-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131022040827id_/http%3A//www.pleasantholidays.com/PleasantHolidaysWeb/Security.do) for the most accurate reproduction.*
 
 # Security and Privacy - Customer
 
@@ -99,4 +99,4 @@ If you have questions about our Privacy Statement, please send us an e-mail. [ne
   
  Copyright © 1999-2013 Pleasant Holidays, LLC. All rights reserved. CST # 1007939-10. UBI# 601 915 263. TAR#5308.  
   
-SessionId: 7llJeQFkQpb_34W-0ctIpfS| 
+SessionId: 9QUXmimrX9oXjkxn5CwE-5S| 
