@@ -1,51 +1,49 @@
-> *The following text is extracted and transformed from the ouya.tv privacy policy that was archived on 2013-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130529182418id_/http%3A//www.ouya.tv/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ouya.tv privacy policy that was archived on 2013-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131022071639id_/https%3A//www.ouya.tv/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy OUYA
 
-### Last Updated: 1/8/2013
+### Last Updated: October 8, 2013
 
-Your privacy is important to us. OUYA, Inc. (“OUYA”, “we” or “our”) has developed this Privacy Policy (“Privacy Policy”) for you to understand how we collect, use, communicate and disclose and make use of personal information. By visiting the Site and/or by registering for an OUYA account, you consent to the terms of this Privacy Policy and you to the collection, use and disclosure of your Personal Information (as defined below) in accordance with this Privacy Policy.  Capitalized terms not defined in this Privacy Policy have the meaning set forth in the Terms of Service.
+Protecting your privacy is really important to us. Really. That’s why we’re providing this Privacy Policy to explain our practices regarding the collection, use and disclosure of information that we receive when you use the Marketplace (as defined in our Discover Marketplace Terms of Use, accessible at http://www.ouya.tv/marketplace-terms-of-use). This Privacy Policy applies only to the Marketplace and doesn’t apply to the Games and Apps you can download on the Marketplace. To keep things straightforward all capitalized words have the same meaning as in our Discover Marketplace Terms of Use, unless we provide a definition in this Privacy Policy.
 
-**1\. Information We Collect**
+**1\. How do we collect and use information?**  
+Our primary goals in collecting information are to provide and improve our Marketplace, to administer your use of the Marketplace (including your Account, if you are an Account holder), and to enable you to enjoy and easily navigate our Marketplace.
 
-  * **A. Personal Information.   **We collect certain data that allows someone to identify or contact you, as well as any other non-public information about you (“Personal Information”). For example:
-  * When you create an account, we will collect certain Personal Information, including your name, email address, and mailing address.
-  * When you order Products on our Site, we will collect all information necessary to complete the transaction, including your name, credit card information, billing information and shipping information.
-  * We may also record information about your usage of the Site, such as other users you communicate with, materials and content you post, information you display about yourself and information you click on while using the Site.
-  * **B. Information Collected Automatically.**   Like many websites, our (or our third party service provider’s) servers collect information from you when you visit the Site, including your browser type, operating system, Internet Protocol address, domain name, date/time stamp for your visit, and activities performed on the Site.
-  * **C. Cookies.**  This Site uses cookies served by a third party service provider (currently Google Analytics, a web analytics service provided by Google, Inc. (“Google”)), to help us analyze how users use the Site through the collection of anonymous user information. Please see the following link (http://www.google.com/analytics/) for more information on Google’s web analytics services.
-
-
-
-**2\. How We Use Information**  
-We use your Personal Information in one or more of the following ways: facilitate the creation of your Account, identify you when you sign in to your Account, provide the Products and customer support you request, resolve any disputes, collect fees (if any) from you, troubleshoot problems, prevent potentially prohibited or illegal activities and enforce our policies, customize, measure and/or improve our Products and/or Materials, and inform you about our Products or provide Site updates.
-
-**3\. How We Share Information**  
-We do not sell, trade, or otherwise transfer to outside parties your Personal Information other than as specified below:
-
-    1. **A.  Business Transactions.  **If OUYA is involved in a bankruptcy, merger, acquisition, reorganization or sale of assets, your Personal Information may be sold or transferred as part of that transaction. The promises in this Privacy Policy will apply to your Personal Information as transferred to any new entity.
-    2. **B.  Service Providers.**  We may share your Personal Information with third parties in order to provide the services that we offer through the Site. For example, we use third parties to help with payment processing.  These third party service providers are required not to use your Personal Information other than to provide the services requested by OUYA.
-    3. **C.  Required Disclosures. ** We may disclose Personal Information if we believe in good faith that such disclosure is necessary (a) to comply with legal requirements, (b) in connection with a legal investigation and to comply with a subpoena, court order or substantially similar legal procedure, (c) to enforce our policies, or (d) protect anyone’s rights, property, or safety as appropriate. Such information will be disclosed in accordance with applicable laws and regulations. We will not otherwise sell or disclose your information to any third parties.
+  * Account Information. When you create an Account we’ll collect certain information that can be used to identify you, such as your name, email address, postal address and phone number (“Personally Identifiable Information” or “PII”). We may also collect certain information that is not PII because on its own it cannot be used by itself to identify you, such as your gender and zip code. 
+  * Information Collected Using Cookies. We collect certain information through the use of “cookies,” which are small text files that are saved when you access our Marketplace. We may use both session cookies and persistent cookies to identify that you’ve logged in to the Marketplace and to tell us how and when you interact with it. We may also use cookies to monitor aggregate usage and web traffic routing on our Marketplace and to customize and improve our Marketplace. Unlike persistent cookies, session cookies are deleted when you log off from the Marketplace and shut down your OUYA console. Some third-party services providers that we engage may also utilize their own cookies. Note that this Privacy Policy covers only our use of cookies and does not include use of cookies by such third parties.
+  * Information Related to Use of the Marketplace. Our servers automatically record certain information about how a gamer uses our Marketplace (we refer to this information as “Log Data”). Log Data may include information such as a your Internet Protocol (IP) address, the Games and Apps you were viewing in the Marketplace, the aspects or features of our Marketplace you browsed and how much time you spent, search terms, the links on our Marketplace that you clicked on and other statistics. We use this information to administer the Marketplace and we analyze (and may engage third parties to analyze) this information to improve and enhance the Marketplace by expanding our features and functionality and tailoring them to your needs and preferences. We may use a gamer’s IP address to fight spam, fraud, malware and identity theft. We may also use the IP Address to generate aggregate, non-identifying information about how our Marketplace are used. 
+  * Location Information. In some cases we collect and store information about where you are located, such as by converting your IP address into a rough geolocation. We may use location information to improve and personalize our Marketplace or other services for you.
 
 
 
-**4\. Your Choices**  
-When you receive promotional communications from us, you may “opt-out” by following the unsubscribe instructions provided in the email you receive or by changing your settings in your Account. If you opt out, we may still send you non-promotional emails, such as emails about your Account and our business dealings with you. You may access and change certain of your Personal Information by logging into your Account.
+**2\. What Information Do We Share With Third Parties?**  
+We will not share any PII that we have collected from you except as described below:
 
-**5\. How We Protect Information**  
-We use reasonable security measures to help protect against loss, misuse and alteration of Personal Information under our control. Although we will exercise reasonable care in protection your Personal Information, no company can fully prevent security risks.
+  * Information Shared with Our Marketplace Providers. We may engage third party service providers to work with us to administer and provide the Marketplace. These third-party services providers have access to your PII only for the purpose of performing services on our behalf.
+  * Information Shared with Third Parties. We may share aggregated information and non-identifying information with third parties for industry analysis, demographic profiling and other similar purposes.
+  * Information Disclosed in Connection with Business Transactions. Information that we collect from our gamers, including PII, is considered to be a business asset. As a result, if we go out of business or enter bankruptcy or if we are acquired as a result of a transaction such as a merger, acquisition or asset sale, your PII may be disclosed or transferred to the third-party acquirer in connection with the transaction.
+  * Information Disclosed for Our Protection and the Protection of Others. It is our policy to protect you from having your privacy violated through abuse of the legal systems, whether by individuals, entities or government, and to contest claims that we believe to be invalid under applicable law. However, it is also our policy to cooperate with government and law enforcement officials and private parties. Accordingly, we reserve the right to disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary: (i) to satisfy or comply with any applicable law, regulation or legal process or to respond to lawful requests, including subpoenas, warrants or court orders; (ii) to protect our property, rights and safety and the rights, property and safety of third parties or the public in general; and (iii) to prevent or stop activity we consider to be illegal or unethical.
+  * Information We Disclose With Your Consent or at Your Request. We will not your PII with third-party sites or platforms, such as social networking sites, unless you have expressly requested that we do so.
 
-**6\. Third Party Sites**  
-Our provision of a link to any other website or location, such as the PayPal payment processing website, is for your convenience and does not signify our endorsement of such other website or location or its contents.  When you click on such a link, you will leave our site and go to another site.  During this process, another entity may collect Personal Information from you.  Please be aware that the terms of this Privacy Policy do not apply to these outside websites or content, or to any collection of data after you click on links to such outside websites.
 
-**7\. Children under the Age of 13**  
-We do not intentionally collect any information from anyone under 13 years of age. Our Site, products and services are all directed to people who are at least 13 years old or older.
 
-**8\. Users Outside of the United States**  
-Your Personal Information may be processed in the country in which it was collected and in other countries, including the United States, where laws regarding processing of personal information may be less stringent than the laws in your country.
+**3\. The Security of Your Information**  
+We take reasonable measures to protect the information that we collect from or about you (including your PII) from unauthorized access, use or disclosure. Please be aware, however, that no method of transmitting information over the Internet or storing information is completely secure. Accordingly, we cannot guarantee the absolute security of any information.
 
-**9\. Changes to this Privacy Policy**  
-This Privacy Policy is subject to occasional revision, and if we make any material changes in the way we use your Personal Information, we will notify you by sending you an email to the last email address you provided to us and/or by prominently posting notice of the changes on our Site. Any changes to this Privacy Policy will be effective upon the earlier of thirty (30) calendar days following our dispatch of an e-mail notice to you or thirty (30) calendar days following our posting of notice of the changes on our Site. Once such changes become effective, your continued use of the Site will signify your acceptance of the new Privacy Policy. If you do not agree to the terms of this Privacy Policy, or any revised Privacy Policy, your sole and exclusive remedy is to discontinue using the Site.
+**4\. Links to Other Sites**  
+Our Marketplace may contain links to other websites and services. Any information that you provide on or to a third-party website or service is provided directly to the owner of the website or service and is subject to their privacy policy. Our Privacy Policy does not apply to such websites or services and we’re not responsible for the content, privacy or security practices and policies of those websites or services. To protect your information we recommend that you carefully review the privacy policies of other websites and services that you access.
 
-**10\. Contact Information**  
-If you have any questions about this Privacy Policy, please email us at: [info@ouya.tv](mailto:info@ouya.tv).
+**5\. Modifying Your Information**  
+You can access and modify the PII associated with your Account by making changes to your Account. If you want us to delete your PII and your Account, please contact us at [support@ouya.tv](mailto:support@ouya.tv) with your request. We’ll take steps to delete your information as soon as is practicable, but some information may remain in archived/backup copies for our records or as otherwise required by law.
+
+**6\. International Transfer**  
+Your PII may be transferred to, and maintained on, computers located outside of your state, province, country or other governmental jurisdiction where the privacy laws may not be as protective as those in your jurisdiction. If you’re located outside the United States and choose to provide your PII to us, we may transfer your PII to the United States and process it there. Your consent to this Privacy Policy followed by your submission of any PII represents your agreement to that transfer.
+
+**7\. Our Policy Toward Children**  
+Our Marketplace is not directed to children under 13 and we do not knowingly collect PII from children under 13. If we learn that we have collected PII of a child under 13 we will take steps to delete such information from our files as soon as possible.
+
+**8\. Changes to Privacy Policy**  
+Any information that we collect is subject to the privacy policy in effect at the time such information is collected. We may, however, modify and revise this Privacy Policy from time to time. If we make any material changes to this Privacy Policy, we’ll notify you of such changes by posting them on the Marketplace or by sending you an email or other notification, and we’ll indicate when such changes will become effective.
+
+**9\. Questions?**  
+Please contact us at [bettercallsaul@ouya.tv](mailto:bettercallsaul@ouya.tv) if you have any questions about our Privacy Policy.
