@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the famouswiki.com privacy policy that was archived on 2013-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130316082014id_/http%3A//www.famouswiki.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the famouswiki.com privacy policy that was archived on 2013-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131022035039id_/http%3A//www.famouswiki.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy and Terms of Service famouswiki.com
+# Privacy Policy and Terms of Service Famous Wiki
 
 ### Information we collect
 
-We may collect the following information when your register on or fill out a form on our site, thisdayinhistory.in : First name, last name Contact information, such as e-mail address Other information relevant to our surveys or offers
+We may collect the following information when your register on or fill out a form on our site, famouswiki.com : First name, last name Contact information, such as e-mail address Other information relevant to our surveys or offers
 
 ### Collected information uses
 
