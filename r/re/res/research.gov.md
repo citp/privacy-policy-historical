@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the research.gov privacy policy that was archived on 2013-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130617025935id_/http%3A//www.research.gov/research-portal/appmanager/base/desktop%3F_nfpb%3Dtrue%26_pageLabel%3Dresearch_privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the research.gov privacy policy that was archived on 2013-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131022225016id_/http%3A//www.research.gov/research-portal/appmanager/base/desktop%3F_nfpb%3Dtrue%26_pageLabel%3Dresearch_privacypolicy) for the most accurate reproduction.*
 
 # Research.gov - Research.gov Web Privacy Policy
 
@@ -75,4 +75,4 @@ The information you submit to us is controlled by the privacy policy in effect a
 
 ### Contact Information
 
-If you have questions or concerns about the Research.gov privacy policy, please contact Leslie Jensen, Office of the General Counsel, phone: 703-292-5065, email: [ljensen@nsf.gov](mailto:ljensen@nsf.gov).
+If you have questions or concerns about the Research.gov privacy policy, please contact Sandra Evans, Office of the General Counsel, phone: 703-292-5065, email: [sevans@nsf.gov](mailto:sevans@nsf.gov).
