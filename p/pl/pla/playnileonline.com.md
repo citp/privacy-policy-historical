@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the playnileonline.com privacy policy that was archived on 2013-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130623021924id_/http%3A//playnileonline.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the playnileonline.com privacy policy that was archived on 2013-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131022213822id_/http%3A//playnileonline.com/privacypolicy.php) for the most accurate reproduction.*
 
 # Immortal Cities: Nile Online » Ancient Egyptian browser-based Empire Builder
 
