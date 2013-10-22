@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jobsgopublic.com privacy policy that was archived on 2013-01-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130122000441id_/http%3A//www.jobsgopublic.com/pages/show/cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobsgopublic.com privacy policy that was archived on 2013-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131022231336id_/http%3A//www.jobsgopublic.com/pages/show/cookies) for the most accurate reproduction.*
 
 # cookies | jobsgopublic - Public Sector Jobs and Careers
 
@@ -15,6 +15,14 @@ It is not our practice to rent or sell your details or otherwise share them with
 This Website has security measures in place to prevent the loss, misuse and/or unauthorised alteration of personal information under our control. You can gain access to your profile and modify the information stored there by supplying a username and password. You must ensure that this information is not given to anyone else. The effectiveness of our safety measures can be enhanced by you creating passwords that cannot be accessed, guessed or reproduced easily by unauthorised persons.
 
 This Website uses SSL encryption technology to ensure personal data transmitted to our Website cannot be accessed by external parties. All employers are required to access a password protected area of the Website before being given access to your personal details, including your email address.
+
+## Non-Personal Data Collected Automatically
+
+When you access Jobsgopublic, we may automatically (i.e. not by registration) collect non-personal data (e.g. type of Internet browser and operating system used, domain name of the Web site from which you came, number of visits, average time spent on the site, pages viewed).
+
+In addition, we may advertise on the Google content network using Google’s remarketing technology. In doing so, Google will place or read a unique ad-serving cookie on your computer and will use non-personal information about your browser and your activity at this site to serve ads on their content network. The ad-serving cookie is a persistent cookie.
+
+Please [click here](http://www.google.com/policies/technologies/ads/) for more information about remarketing or to opt-out of the Google remarketing cookie.
 
 ## Changes to Privacy Statement
 
