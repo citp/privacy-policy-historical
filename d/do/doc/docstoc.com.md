@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the docstoc.com privacy policy that was archived on 2013-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130425053601id_/http%3A//www.docstoc.com/Pages/Static.aspx%3Fpage_id%3D22) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the docstoc.com privacy policy that was archived on 2013-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131022095722id_/http%3A//www.docstoc.com/Pages/Static.aspx%3Fpage_id%3D22) for the most accurate reproduction.*
 
 # Docstoc, Inc. Privacy Policy
 
@@ -96,8 +96,8 @@ Correction/Updating Personally Identifiable Information
 
 DOCSTOC provides You with the ability to review, correct, and delete any of Your user profile. Information You post in other areas of a DOCSTOC Platform cannot be deleted. If You wish to review or correct any profile information You have provided to us, You may submit a request to us at the contact email below or access Your account online.
 
-If You have any questions regarding this Privacy Policy please contact us via email at [Privacy_at_docstoc_dot_com]().  Please make sure the subject line states “Privacy Policy Question.”
+If You have any questions regarding this Privacy Policy please contact us by phone at (888) 412-3627 or via email at [Privacy_at_docstoc_dot_com]().  Please make sure the subject line states “Privacy Policy Question.”
 
-This Privacy Policy was last updated on September 5th, 2012, only by moving some text to a page linked at [this link ](http://www.docstoc.com/Pages/Static.aspx?page_id=197)(<http://www.docstoc.com/Pages/Static.aspx?page_id=197>) 
+This Privacy Policy was last updated on July 29, 2013, only by adding our phone number, and prior to that on September 5th, 2012, only by moving some text to a page linked at [this link ](http://www.docstoc.com/Pages/Static.aspx?page_id=197)(<http://www.docstoc.com/Pages/Static.aspx?page_id=197>) 
 
 This Privacy Policy is effective as of: March 13, 2012
