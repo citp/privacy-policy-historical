@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dcu-online.org privacy policy that was archived on 2013-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130622160038id_/https%3A//www.dcu.org/infodesk/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dcu-online.org privacy policy that was archived on 2013-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131022095156id_/https%3A//www.dcu.org/infodesk/privacy.html) for the most accurate reproduction.*
 
 # DCU's Privacy Policy | Massachusetts | New Hampshire
 
@@ -42,7 +42,7 @@ Here are some examples of third-party service providers we use:
 
 
 
-We may also share information with select non-affiliated third parties if: you request or authorize it, such as a deposit verification, or the information is necessary to process a transaction initiated by you, such as a Visa® Credit Card purchase, ATM withdrawal, or transaction at a CU Service Center® location. 
+We may also share information with select non-affiliated third parties if: you request or authorize it, such as a deposit verification, or the information is necessary to process a transaction initiated by you, such as a Visa® Credit Card purchase, ATM withdrawal, or transaction at a CO-OP Shared Branch® location. 
 
 DCU enters into arrangements only with businesses we believe provide a quality product or service and who follow strict confidentiality requirements to assure they are legally bound to safeguard any information that is shared with them.
 
@@ -112,7 +112,7 @@ We strive to make sure our records contain accurate information. Inaccurate info
 
 ### We Care About Your Privacy and You
 
-Again, we take our member's privacy very seriously. We do not however, have control of the privacy practices of other institutions or web sites. We strongly advise you to review the privacy policies of any other institution or web site you visit including those you've heard about through us. Learn about ways to protect yourself by visiting our [_StreetWise_ Privacy Protection and Fraud Prevention](https://web.archive.org/web/20130622160038id_/https%3A//www.dcu.org/streetwise/privacy/privacy.html) site. 
+Again, we take our member's privacy very seriously. We do not however, have control of the privacy practices of other institutions or web sites. We strongly advise you to review the privacy policies of any other institution or web site you visit including those you've heard about through us. Learn about ways to protect yourself by visiting our [_StreetWise_ Privacy Protection and Fraud Prevention](https://web.archive.org/web/20131022095156id_/https%3A//www.dcu.org/streetwise/privacy/privacy.html) site. 
 
 Our privacy policy and practices apply whether you are an active DCU member, an inactive member, or a former DCU member.
 
