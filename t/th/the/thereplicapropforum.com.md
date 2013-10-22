@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thereplicapropforum.com privacy policy that was archived on 2013-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130405135209id_/http%3A//moviepropsites.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thereplicapropforum.com privacy policy that was archived on 2013-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131022141252id_/http%3A//moviepropsites.com/privacy-policy.php) for the most accurate reproduction.*
 
 # PRIVACY POLICY | Movie Prop Sites, LLC
 
