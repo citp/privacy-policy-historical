@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bluetie.com privacy policy that was archived on 2013-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130531004037id_/http%3A//bluetie.com/legal/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bluetie.com privacy policy that was archived on 2013-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131022194205id_/http%3A//www.bluetie.com/legal/privacypolicy.php) for the most accurate reproduction.*
 
 # Privacy Policy - BlueTie
 
@@ -82,6 +82,6 @@ If you have any questions about this privacy statement, the practices of this si
 
 Privacy Policy  
 BlueTie, Inc.  
-189 N. Water Street, Suite 200  
-Rochester, NY 14604  
+2480 Browncroft Blvd, Suite 2b  
+Rochester NY 14625  
 Or, you may [contact us](http://support.bluetie.com/node/829 "Support Center") by email.
