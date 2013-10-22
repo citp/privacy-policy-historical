@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the apollocamper.com privacy policy that was archived on 2013-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130424124437id_/http%3A//www.apollocamper.com/campervan-hire-privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apollocamper.com privacy policy that was archived on 2013-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131022045551id_/http%3A//www.apollocamper.com/campervan-hire-privacy-policy.aspx) for the most accurate reproduction.*
 
 # Apollo Motorhome Holidays Privacy Policy
 
@@ -132,4 +132,4 @@ When you provide us with your personal information, you consent and agree to our
 
 ### Changes to this Policy 
 
-This is our current privacy policy outlining our personal information management practices. It replaces any other privacy policy published by us to date. We may change this policy at any time. To obtain an up to date copy of the policy, please contact Apollo (see "[Who can I contact for further information?](https://web.archive.org/web/20130424124437id_/http%3A//www.apollocamper.com/campervan-hire-privacy-policy.aspx#8)" above). 
+This is our current privacy policy outlining our personal information management practices. It replaces any other privacy policy published by us to date. We may change this policy at any time. To obtain an up to date copy of the policy, please contact Apollo (see "[Who can I contact for further information?](https://web.archive.org/web/20131022045551id_/http%3A//www.apollocamper.com/campervan-hire-privacy-policy.aspx#8)" above). 
