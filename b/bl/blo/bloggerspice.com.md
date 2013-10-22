@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bloggerspice.com privacy policy that was archived on 2013-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130525090738id_/http%3A//www.bloggerspice.com/p/privacy-policy-blogger-spice-respects.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bloggerspice.com privacy policy that was archived on 2013-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131022190559id_/http%3A//www.bloggerspice.com/p/privacy-policy-blogger-spice-respects.html) for the most accurate reproduction.*
 
-# Privacy Policy | Blogger Spice | Blogger Tips | Tricks | Widgets | SEO | Earn Money | Blogger Templates
+# Privacy Policy - Blogger Spice | Premium Blogger Tips and Tricks
 
 ##    
 Privacy Policy
