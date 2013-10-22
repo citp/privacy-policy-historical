@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bnymellon.com privacy policy that was archived on 2013-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130617015854id_/http%3A//www.bnymellon.com/privacy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bnymellon.com privacy policy that was archived on 2013-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131022143423id_/http%3A//www.bnymellon.com/privacy/index.html) for the most accurate reproduction.*
 
 # Privacy | BNY Mellon
 
@@ -29,6 +29,10 @@ Our policy is (i) to comply with all laws restricting the use and disclosure of 
 We may share Social Security numbers among our affiliated companies or with nonaffiliated parties for administrative purposes, such as to process transactions, verify identities, and service accounts. We disclose Social Security numbers as required or permitted by law, such as to the Internal Revenue Service or to credit bureaus. When necessary, we disclose Social Security numbers to regulatory agencies, law enforcement agencies, courts, and parties to lawsuits.
 
 We may share Social Security numbers among our affiliated companies for marketing purposes, but only in compliance with legal restrictions, including required opportunities to opt out of such sharing. We do not, without consent of the individual involved, share Social Security numbers with parties not affiliated with us to enable them to market their own products or services.
+
+## Information Collected from Representatives of Institutional Clients
+
+If you work for one of our institutional (business) clients, we may obtain from you or your firm your business contact information, such as your name, title, office address, business phone number and email address. We may use this information for the purpose of conducting business with your firm, managing our relationship with your firm, and advising your firm of products and services that we believe might be of interest. We may (i) share this information with affiliated companies within the BNY Mellon corporate enterprise, (ii) disclose it to service providers that we use to process the information and that have agreed to confidentiality restrictions, and (iii) export this information to the United States and other jurisdictions where we, or our service providers, do business. We may also disclose this information as required by law.
 
 ## Information Collected Through Cookies and Similar Technologies
 
