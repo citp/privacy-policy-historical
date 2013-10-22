@@ -1,0 +1,1131 @@
+<!--The following is the downloaded HTML source of the lmtclub.com privacy policy that was archived on 2013-10-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131022092714id_/http%3A//www.lmtclub.com/PagePrivacyPolicy.aspx) for the most accurate reproduction.-->
+
+<html xmlns="http://www.w3.org/1999/xhtml"><head><meta name="SKYPE_TOOLBAR" content="SKYPE_TOOLBAR_PARSER_COMPATIBLE">
+
+<meta name="description" content="We protect your personal information ">
+<link rel="SHORTCUT ICON" href="http://image2.urlforimages.com/CS/$Templates/LMTClub-ref$/@@/modules/customizable/images/favicon.ico">
+<!--
+http://image2.urlforimages.com/CS/$Templates/LMTClub-ref$/@@/Modules/Customizable/css/StyleSheetLang.css
+/Scripts/TGS_ClientScript_System.js
+-->
+<link type="text/css" rel="stylesheet" href="http://image2.urlforimages.com/CS/$Templates/LMTClub-ref$/@@/Modules/Customizable/css/master.css">
+<link type="text/css" rel="stylesheet" href="http://image2.urlforimages.com/CS/$Templates/LMTClub-ref$/@@/Modules/Customizable/css/styleOverride.css">
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script language="Javascript" type="text/javascript" src="/Scripts/ext-front.js"></script>
+<script language="Javascript" type="text/javascript" src="/Scripts/TGS.OAuthConnect.js"></script>
+<script language="Javascript" type="text/javascript" src="/Scripts/ChatNowAnimation.js"></script>
+<style type="text/css">
+.LANG_DIR
+{
+direction :ltr;
+}
+.LANG_ALIGNRIGHT
+{
+text-align:right;
+}
+.LANG_ALIGNLEFT
+{
+text-align:left;
+}
+.LANG_DIR_ALIGNLEFT
+{
+direction :ltr;text-align:left;
+}
+.LANG_DIR_ALIGNRIGHT
+{
+direction :ltr;text-align:right;
+}
+.LANG_InverseDIR
+{
+direction :rtl;
+}
+.LANG_InverseDIR_ALIGNRIGHT
+{
+direction :rtl;text-align:right;
+}
+.LANG_InverseDIR_ALIGNLEFT
+{
+direction :rtl;text-align:left;
+}
+</style>
+<script type="text/javascript">CrossDomainChanel = function(request,callBack,isValid, args)
+{
+	var CDChanel=document.createElement("script");
+	CDChanel.type="text/javascript";
+	CDChanel.language="javascript";
+	CDChanel.id="chanel_"+CrossDomainChanel.chanelID;
+	CrossDomainChanel.chanelID++;
+	CDChanel.src=request;
+	
+	if(navigator.userAgent.indexOf("IE")>=0)
+	{
+		CDChanel.onreadystatechange=function()
+		{
+			if(CDChanel&&("loaded"==CDChanel.readyState||"complete"==CDChanel.readyState))
+			{
+				CDChanel.onreadystatechange=null;
+				EndInvoke(CDChanel,callBack,args);
+			}
+		};
+	}
+	else
+	{
+		if(navigator.userAgent.indexOf("Safari")>0)
+			setTimeout( TestResults, 300 );
+		else
+			CDChanel.onload=function(){CDChanel.onload=null;EndInvoke(CDChanel,callBack, args)};
+	}
+	
+	document.getElementsByTagName("head")[0].appendChild(CDChanel);
+	
+	function TestResults()
+	{
+		if(isValid())
+		{
+			CDChanel.onload=null;EndInvoke(CDChanel,callBack)
+		}
+		else
+		{
+			setTimeout(TestResults,300);
+		}
+	}
+
+	function EndInvoke(CDChanel,callBack,args)
+	{
+	    if (args != null)
+		    callBack(args);
+		else
+		    callBack();
+		document.getElementsByTagName("head")[0].removeChild(CDChanel);
+	}
+}
+
+//Static varible used for ID generation
+CrossDomainChanel.chanelID=1;
+
+function GetXmlHttp(){var x=null;try{x=new ActiveXObject("Msxml2.XMLHTTP")}catch(e){try{x=new ActiveXObject("Microsoft.XMLHTTP")}catch(e){x=null}}if(!x&&typeof XMLHttpRequest!="undefined"){x=new XMLHttpRequest()}return x;}
+
+function addLoadEvent(func, func_first) {       
+         
+	var oldonload=window.onload;
+	if(typeof oldonload=='undefined' || oldonload==null)
+	{
+		window.onload=func;
+	}
+	else
+	{      
+		if(func_first == 'true')
+        {
+			window.onload=function()
+			{
+				func();					 
+				oldonload();
+			}
+        }
+        else
+        {
+			window.onload=function()
+			{
+				oldonload();
+				func();					 				
+			}
+        }
+	}                                            
+}
+                                                                                                         
+function $(id)                                    
+{                                                 
+	return document.getElementById(id);             
+}                                                 
+                                                  
+function $V(id)                                   
+{                                                 
+	return escape(document.getElementById(id).value);       
+}     
+
+function $Q( name )
+{
+  var regexS = "[\\?&]"+name+"=([^&#]*)";
+  var regex = new RegExp( regexS );
+  var tmpURL = window.location.href;
+  var results = regex.exec( tmpURL );
+  if( results == null )
+    return "";
+  else
+    return results[1];
+}
+
+function getMethodNameFromUrl(url,methodNamePrefix)
+{		
+	var queryparams=url.substring(url.indexOf('?')+1);
+
+	var params=queryparams.split('&');
+	
+	var methodname = methodNamePrefix || 'Get';
+	for(var i=0;i<params.length;i++)
+	{
+		methodname+=params[i].split('=')[1];
+	}
+
+	return methodname.replace(/[^a-zA-Z0-9_]/g,'_');
+}
+
+function LoadScript(script)
+{
+	var scriptTag=document.createElement("script");
+	scriptTag.type="text/javascript";
+	scriptTag.language="javascript";			
+	scriptTag.src=script;			
+	document.getElementsByTagName("head")[0].appendChild(scriptTag);
+}
+	
+//KeyPress support
+
+// corrige le code des touches
+var button_un=-1;
+var button_deux=-1;
+
+var state = 0;
+
+function eventTrigger (e)
+{
+	if (! e)
+		e = event;
+	return e.target || e.srcElement;
+}
+
+function keyCodeTriggered(e)
+{
+	if (! e)
+		e = event;
+	return e.keyCode;
+}
+
+function comboState(e)
+{		
+	var source = eventTrigger(e);	
+	if(source.nodeName == "SELECT" && state == 0)
+	{
+		state = 1;
+	}
+	else
+	{
+		state=0;
+	}	
+		
+	if (typeof(active1) != 'undefined' && active1 != 'undefined' && source.id.indexOf(active1.strCCtrlPageParentNameOut+"_"+active1.strCCtrlParentNameIn) != -1) 
+		active = active1;
+	else if (typeof(active2) != 'undefined' && active2 != 'undefined' && source.id.indexOf(active2.strCCtrlPageParentNameOut+"_"+active2.strCCtrlParentNameIn) != -1) 	
+		active = active2;
+}
+
+function codeTouche(e) {
+  var cret;
+  // if combo box is open (state = 1) don't return key code because we don't want to do 
+  // search.
+  var source = eventTrigger(e);	
+ 
+  if (source.nodeName == "SELECT" && keyCodeTriggered(e) == 13 && state == 1) {
+	state = 0;
+	return; 
+ }
+  if (window.event) {
+    if (parseInt(button_deux)>0) 
+		cret=button_deux;
+    else 
+		cret=window.event.keyCode;
+    if (window.event.type=="keypress") 
+		button_deux=window.event.keyCode;
+    if (window.event.type=="keydown") 
+		button_deux=-1;
+  } 
+  else 
+  {
+    if (parseInt(button_deux)>0) 
+		cret=button_deux;
+    else if ((parseInt(button_un)>0) && (e.which<1)) 
+		cret=button_un;
+    else 
+		cret=e.which;
+    if (e.type=="keydown")
+    {
+      button_un=e.which;
+      button_deux=-1;
+    }
+    if (e.type=="keypress") 
+		button_deux=e.which;
+  }
+  
+  if (parseInt(cret)>57000) 
+  {
+    cret = button_cor[cret-57300];
+   }
+   button_deux=-1;
+  return (parseInt(cret));
+}
+
+document.onclick = comboState;
+
+//beget
+var tgsCSSystemBaseObj = {};
+tgsCSSystemBaseObj.beget = function(o) {
+    var F = function() { };
+    F.prototype = o;
+    return new F();
+};
+
+if (typeof Function.prototype.set_method == 'undefined') {
+    Function.prototype.set_method = function(name, func) {
+        if (!this.prototype[name])
+            this.prototype[name] = func;
+        else
+            throw "function " + name + "alrady exists in Function.prototype";
+        return this;
+    };
+}
+if (typeof Function.prototype.inherits == 'undefined') {
+    Function.set_method('inherits', function(Parent) {
+        this.prototype = new Parent();
+        return this;
+    });
+}
+if (typeof Function.prototype.set_base == 'undefined') {
+    Function.set_method('set_base', function(Parent) {
+        this.prototype = Parent;
+        return this;
+    });
+}
+if (typeof TGSregisterNameSpaces == 'undefined') {
+    TGSregisterNameSpaces = function(ns, prototype) {
+        var nsParts = ns.split(".");
+        var root = window;
+
+        for (var i = 0; i < nsParts.length; i++) {
+            if (typeof root[nsParts[i]] == "undefined") {
+                if (prototype && i == nsParts.length - 1)
+                    root[nsParts[i]] = tgsCSSystemBaseObj.beget(prototype);
+                else
+                    root[nsParts[i]] = new Object();
+            }
+            root = root[nsParts[i]];
+        }
+    };
+}
+
+if (typeof IsTGSNamespaceRegistred == 'undefined') {
+    IsTGSNamespaceRegistred = function(ns) {
+        var nsParts = ns.split(".");
+        var root = window;
+
+        for (var i = 0; i < nsParts.length; i++) {
+            if (typeof root[nsParts[i]] == "undefined") {
+                return false;
+            }
+            root = root[nsParts[i]];
+        }
+        return true;
+    };
+}
+
+function LoadScriptAsync(scriptURL, scriptConst, callback) {
+    // create a script element
+    var s = document.createElement('script');
+    s.type = 'text/javascript';
+    s.language = "javascript";
+    s.async = true;
+    s.src = scriptURL;
+
+    // add script element to the head node
+    document.getElementsByTagName("head")[0].appendChild(s);
+
+    // wait for script to be loaded
+    if (scriptConst) {
+        WaitForConstLoad(scriptConst, callback);
+    }
+}
+
+function WaitForConstLoad(a_const, callback, tries) {
+    var maxWaitTime = 20000, // ms
+        tryEvery = 100;      // ms
+
+    if (window[a_const]) {
+        callback();
+    } else {
+        tries = tries || 0;
+        if (tries < maxWaitTime / tryEvery) {
+            setTimeout(function() {
+                WaitForConstLoad(a_const, callback, tries || 1);
+            }, tryEvery);
+        } else {
+            // Give up.
+        }
+    }
+}</script>
+<title>
+	Page - Privacy Policy
+</title></head>
+<body>
+
+    <script type="text/javascript">
+    function DisplayNavigationBarAndFooter()
+    {
+        document.getElementById('tblNavigationBar').style.display = '';
+        document.getElementById('tblFooter').style.display = '';
+    }
+    var FacebookLoginURL = 'https://www.facebook.com/dialog/oauth?client_id=362699220490130&redirect_uri=https://www.lmtclub.com/Secure/OAuthLanding.aspx&state=53f88f6a-fc27-4502-ab26-f418791e3d08&scope=email,publish_stream';
+    var RegistrationPromoCode = '';
+    </script>
+
+    
+    
+    <form name="aspnetForm" method="post" action="PagePrivacyPolicy.aspx" id="aspnetForm">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJOTcwNjgxNjMwD2QWAmYPDxYCHglBY3RpdmVUYWIFBEhvbWVkFgRmDxYCHglpbm5lcmh0bWwFTQo8bWV0YSBuYW1lPSJkZXNjcmlwdGlvbiIgY29udGVudD0iV2UgcHJvdGVjdCB5b3VyIHBlcnNvbmFsIGluZm9ybWF0aW9uICIgLz4KZAIDD2QWAgIBDxQrAAVkBQ1CYW5uZXJfSGVhZGVyBQhBZEJhbm5lcmdkFgwCAQ9kFgJmD2QWAgIBDw8WAh4LTmF2aWdhdGVVcmwFFmh0dHA6Ly93d3cuTE1UQ2x1Yi5jb21kZAIDDw8WAh4HVmlzaWJsZWhkFgICAw8PFiweBVZhbHVlZR4XbUNvbWJvU2VsZWN0ZWRUZXh0U3R5bGVkHgRMYW5nBQVlbi1VUx4KUm93c0Ftb3VudAIUHhRJc1JlZ2lzdGVyQnlHZXRGb2N1c2geC1JpZ2h0VG9MZWZ0aB4ObUNvbWJvQm94Q2xhc3MFDG9wZW5lZF9jb21ibx4VbUNvbWJvTm9ybWFsVGV4dFN0eWxlZB4MU2VsZWN0ZWRUZXh0ZR4SUmFpc2VFdmVudHNPbkVycm9yaB4LU2VsZWN0ZWRSb3dlHhdtQ29tYm9TZWxlY3RlZFRleHRDbGFzcwUab3BlbmVkX2NvbWJvX3NlbGVjdGVkX2xpbmUeC0pTY3JpcHRQYXRoZR4JSW5wdXRUeXBlCyl3VEdTLldlYi5FeHRyYVdlYkNvbnRyb2xzLklucHV0VHlwZXMsIFRHUy5XZWIuRXh0cmFXZWJDb250cm9scywgVmVyc2lvbj05LjcxLjkyMC42LCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPW51bGwAHg5BZGRpdGlvbmFsRGF0YTLhAgABAAAA/////wEAAAAAAAAADAIAAABSVEdTLldlYi5FeHRyYVdlYkNvbnRyb2xzLCBWZXJzaW9uPTkuNzEuOTIwLjYsIEN1bHR1cmU9bmV1dHJhbCwgUHVibGljS2V5VG9rZW49bnVsbAUBAAAAMVRHUy5XZWIuRXh0cmFXZWJDb250cm9scy5BZGRpdGlvbmFsRGF0YUNvbGxlY3Rpb24HAAAACkxvYWRGYWN0b3IHVmVyc2lvbghDb21wYXJlchBIYXNoQ29kZVByb3ZpZGVyCEhhc2hTaXplBEtleXMGVmFsdWVzAAADAwAFBQsIHFN5c3RlbS5Db2xsZWN0aW9ucy5JQ29tcGFyZXIkU3lzdGVtLkNvbGxlY3Rpb25zLklIYXNoQ29kZVByb3ZpZGVyCAIAAADsUTg/AAAAAAoKCwAAAAkDAAAACQQAAAAQAwAAAAAAAAAQBAAAAAAAAAALHg5tQ29tYm9Cb3hTdHlsZWQeFW1Db21ib05vcm1hbFRleHRDbGFzcwUcb3BlbmVkX2NvbWJvX3Vuc2VsZWN0ZWRfbGluZR4NU2VsZWN0ZWRWYWx1ZWUeBFRleHRlHg9TZXJ2ZXJDYWNoZU1vZGULKX1UR1MuV2ViLkV4dHJhV2ViQ29udHJvbHMuU2VydmVyQ2FjaGVNb2RlcywgVEdTLldlYi5FeHRyYVdlYkNvbnRyb2xzLCBWZXJzaW9uPTkuNzEuOTIwLjYsIEN1bHR1cmU9bmV1dHJhbCwgUHVibGljS2V5VG9rZW49bnVsbAAeDFN1YnNjcmliZXJJRGUeCG1Db2xvbW5zFgBkZAIFD2QWBAIBDxYCHgtfIUl0ZW1Db3VudAIQFgwCCQ8WAh8DaGQCCg8WAh8DaGQCCw8WAh8DaGQCDA8WAh8DaGQCDQ8WAh8DaGQCDg8WAh8DaGQCAg9kFgJmD2QWAgICDxYCHxoCCRYSZg9kFgICAQ8WAh4Hb25jbGljawVSd2luZG93LmxvY2F0aW9uPSdodHRwczovL3d3dy5sbXRjbHViLmNvbS9TZWN1cmUvUHJldmlvdXNSZXNlcnZhdGlvbnNEaXNwbGF5LmFzcHgnOxYCZg8WAh8WBQxSZXNlcnZhdGlvbnNkAgEPFgIfA2hkAgIPZBYCAgEPFgIfGwVFd2luZG93LmxvY2F0aW9uPSdodHRwczovL3d3dy5sbXRjbHViLmNvbS9TZWN1cmUvUGFnZVVzZXJBY291bnQuYXNweCc7FgJmDxYCHxYFCk15IEFjY291bnRkAgMPFgIfA2hkAgQPFgIfA2hkAgUPZBYCAgEPFgIfGwVCd2luZG93LmxvY2F0aW9uPSdodHRwOi8vd3d3LmxtdGNsdWIuY29tL1BhZ2VMb3lhbHR5T3ZlcnZpZXcuYXNweCc7FgJmDxYCHxYFEVRyaXBsZURpcCBQcm9ncmFtZAIGD2QWAgIBDxYCHxsFUXdpbmRvdy5sb2NhdGlvbj0naHR0cHM6Ly93d3cubG10Y2x1Yi5jb20vU2VjdXJlL1BhZ2VMb3lhbHR5QWNjb3VudEFjdGl2aXR5LmFzcHgnOxYCZg8WAh8WBRJUcmlwbGVEaXAgQWN0aXZpdHlkAgcPFgIfA2hkAggPFgIfA2hkAgYPZBYIAgIPDxYEHxYFPSZuYnNwOyZuYnNwOyZuYnNwOyZuYnNwOyZuYnNwO3wmbmJzcDsmbmJzcDsmbmJzcDsmbmJzcDsmbmJzcDsfA2dkZAIDDw8WBh8CBS1odHRwOi8vd3d3LmxtdGNsdWIuY29tL1NlY3VyZS9QYWdlTG9nT3V0LmFzcHgfFgUHTG9nIE91dB8DZ2RkAgQPDxYEHxYFPSZuYnNwOyZuYnNwOyZuYnNwOyZuYnNwOyZuYnNwO3wmbmJzcDsmbmJzcDsmbmJzcDsmbmJzcDsmbmJzcDsfA2dkZAIFDw8WBh8WBQpNeSBBY2NvdW50HwIFMmh0dHBzOi8vd3d3LmxtdGNsdWIuY29tL3NlY3VyZS9QYWdlVXNlckFjb3VudC5hc3B4HwNnZGQCBw9kFgICAQ9kFgQCAQ8WAh8WBS5Cb29rIGVhc2lseSBvbmxpbmUsIG9yIGNhbGwgYSBjcnVpc2UgZXhwZXJ0IGF0ZAIDDxYCHxYFDjEtODAwLTI1OC00MjMwZAIIDw8WAh8DaGRkZNBO2etTjv6fY/48Py8taJpZDod6">
+
+
+<script type="text/javascript">  var _gaq = _gaq || [];  _gaq.push(['_setAccount', 'UA-2080697-7']);  _gaq.push(['_trackPageview']);  (function() {    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);  })();</script>
+
+
+        <script type="text/javascript">
+        // this variable is used for InProcess and Promo modules 
+        // to display content of page after the search is finished, or promo flash finished playing.
+        // DO NOT REMOVE THIS LINE!!!
+        var g_divResults = 'MainMasterDiv';
+        </script>
+
+        <!--
+        // MainContainer and MainMasterDiv use for ModuleCampaignAlertMessage display
+        -->
+        <div id="MainContainer">
+            <div id="MainMasterDiv" style="display: block;">
+                <table id="MainTable" border="0" cellspacing="0" cellpadding="0" width="780">
+                    <tbody><tr>
+                        <td class="top_left">
+                            &nbsp;</td>
+                        <td class="top">
+                            &nbsp;</td>
+                        <td class="top_right">
+                            &nbsp;</td>
+                    </tr>
+                    <tr>
+                        <td class="left">
+                            <img alt="" border="0" src="http://image2.urlforimages.com/CS/$Templates/LMTClub-ref$/@@/modules/customizable/images/SpacerMaster.gif"><br>
+                        </td>
+                        <td valign="top" class="whitetable" style="width: 100%">
+                            <table border="0" cellpadding="0" cellspacing="0" width="100%" class="LANG_DIR" id="tblNavigationBar" style="display: ''">
+                                <tbody><tr>
+                                    <td align="center">
+                                        <!-- for ucMNB control, get read from CAC value from CACPath and replace the value of the property ShowLogo with the one from CAC; in this case it's boolean-->
+                                        
+                                        
+<script language="javascript" type="text/javascript">
+var globalMenu;
+function showIt(add, thisObj) 
+{
+    ClearTimers();
+    globalMenu = document.getElementById('layer' + add);
+    globalMenu.style.visibility = 'visible';
+    globalMenu.style.display = 'block';
+    globalMenuParent = document.getElementById('parentSubmenu');
+    
+    globalMenuParent.style.left = navBarFindPos(thisObj) + "px";
+    
+}
+function navBarFindPos(o) {
+	var l = 0;
+    if (o.offsetParent)
+        do l += o.offsetLeft > 0 ? o.offsetLeft : 0; while (o = o.offsetParent);
+    return l;
+}
+</script>
+<table cellspacing="0" cellpadding="0" border="0" class="LANG_DIR">
+    
+</table>
+<table width="100%" cellspacing="0" cellpadding="0" border="0" bordercolor="yellow" class="LANG_DIR">
+    <tbody><tr>
+        <td>
+            <table id="table" border="0" class="LANG_ALIGNLEFT" cellspacing="0" cellpadding="0" width="100%">
+                <tbody><tr>
+                    <td class="LANG_ALIGNLEFT" valign="top">
+                        
+
+
+
+<table cellspacing="0" cellpadding="0" border="0">
+	<tbody><tr>
+		<td width="225"><a id="_ctl0_ucMNB_logo_LogoHyperLink" href="http://www.LMTClub.com"><img id="_ctl0_ucMNB_logo_imgLeftPart" class="header_logo_img" src="http://image2.urlforimages.com/CS/$Templates/LMTClub-ref$/@@//Modules/Customizable/images/240x60_lmt_stacked.gif" alt="LMTClub" border="0"></a></td>
+		
+        
+	</tr>
+</tbody></table>
+
+
+
+                    </td>
+                    <td class="LANG_ALIGNLEFT" valign="middle">
+                        
+
+
+
+
+                        
+                    </td>
+                </tr>
+            </tbody></table>
+        </td>
+    </tr>
+        
+    
+        <tr>
+            <td valign="bottom" align="center">
+               <div align="left" style="display:none"><img id="_ctl0_ucMNB_popUp" width="0" height="0"></div>
+                
+                <table id="NavigationWidthTable" width="100%" border="0" cellspacing="0" cellpadding="0">
+                    <tbody><tr>                    
+                        <td width="1"><img src="http://image2.urlforimages.com/CS/$Templates/LMTClub-ref$/@@/modules/customizable/images/tabs_left.gif" class="header_nav_tab"></td>
+                        <td class="bg" align="left">                        
+                            <table border="0" cellspacing="0" cellpadding="0"><tbody><tr>
+                            
+                                    <td align="center">
+                                        <div id="_ctl0_ucMNB_repTabs__ctl0_firstImageDiv"><a id="_ctl0_ucMNB_repTabs__ctl0_hlTab" class="header_nav_tab" href="http://www.lmtclub.com/HP.aspx"><img src="http://image2.urlforimages.com/CS/$Templates/LMTClub-ref$/@@/Modules/customizable/images/021804_home_on.gif" border="0"></a></div>
+                                        <div></div>
+                                    </td>
+                                
+                                    <td align="center">
+                                        <div id="_ctl0_ucMNB_repTabs__ctl1_firstImageDiv"><a id="_ctl0_ucMNB_repTabs__ctl1_hlTab" class="header_nav_tab" href="http://www.lmtclub.com/PageHotelSearch.aspx"><img src="http://image2.urlforimages.com/CS/$Templates/LMTClub-ref$/@@/Modules/customizable/images/021804_hotels_off.gif" border="0"></a></div>
+                                        <div></div>
+                                    </td>
+                                
+                                    <td align="center">
+                                        <div id="_ctl0_ucMNB_repTabs__ctl2_firstImageDiv"><a id="_ctl0_ucMNB_repTabs__ctl2_hlTab" class="header_nav_tab" href="http://www.lmtclub.com/PageFlightSearch.aspx"><img src="http://image2.urlforimages.com/CS/$Templates/LMTClub-ref$/@@/Modules/customizable/images/021804_flights_off.gif" border="0"></a></div>
+                                        <div></div>
+                                    </td>
+                                
+                                    <td align="center">
+                                        <div id="_ctl0_ucMNB_repTabs__ctl3_firstImageDiv"><a id="_ctl0_ucMNB_repTabs__ctl3_hlTab" class="header_nav_tab" href="http://www.lmtclub.com/PageCruiseSearch.aspx"><img src="http://image2.urlforimages.com/CS/$Templates/LMTClub-ref$/@@/Modules/customizable/images/021804_cruises_off.gif" border="0"></a></div>
+                                        <div></div>
+                                    </td>
+                                
+                                    <td align="center">
+                                        <div id="_ctl0_ucMNB_repTabs__ctl4_firstImageDiv"><a id="_ctl0_ucMNB_repTabs__ctl4_hlTab" class="header_nav_tab" href="http://www.lmtclub.com/PageCarOption.aspx"><img src="http://image2.urlforimages.com/CS/$Templates/LMTClub-ref$/@@/Modules/customizable/images/021804_cars_off.gif" border="0"></a></div>
+                                        <div></div>
+                                    </td>
+                                
+                                    <td align="center">
+                                        <div id="_ctl0_ucMNB_repTabs__ctl5_firstImageDiv"><a id="_ctl0_ucMNB_repTabs__ctl5_hlTab" class="header_nav_tab" href="http://www.lmtclub.com/PagePackageSearch.aspx"><img src="http://image2.urlforimages.com/CS/$Templates/LMTClub-ref$/@@/Modules/customizable/images/021804_packages_off.gif" border="0"></a></div>
+                                        <div></div>
+                                    </td>
+                                
+                                    <td align="center">
+                                        <div id="_ctl0_ucMNB_repTabs__ctl6_firstImageDiv"><a id="_ctl0_ucMNB_repTabs__ctl6_hlTab" class="header_nav_tab" href="http://www.lmtclub.com/Activity-Search.aspx"><img src="http://image2.urlforimages.com/CS/$Templates/LMTClub-ref$/@@/Modules/customizable/images/021804_attractions_off.gif" border="0"></a></div>
+                                        <div></div>
+                                    </td>
+                                
+                                    <td align="center">
+                                        <div id="_ctl0_ucMNB_repTabs__ctl7_firstImageDiv"><a id="_ctl0_ucMNB_repTabs__ctl7_hlTab" class="header_nav_tab" href="http://www.lmtclub.com/info/deals.aspx"><img src="http://image2.urlforimages.com/CS/$Templates/LMTClub-ref$/@@/Modules/customizable/images/021804_top25deals_off.gif" border="0"></a></div>
+                                        <div></div>
+                                    </td>
+                                
+                                    <td align="center">
+                                        <div id="_ctl0_ucMNB_repTabs__ctl8_firstImageDiv"><a id="_ctl0_ucMNB_repTabs__ctl8_hlTab" class="header_nav_tab" href="http://www.lmtclub.com/PageHomeSearch.aspx"><img src="http://image2.urlforimages.com/CS/$Templates/LMTClub-ref$/@@/Modules/customizable/images/m_VacHomes_off.gif" border="0"></a></div>
+                                        <div></div>
+                                    </td>
+                                
+                                    <td align="center">
+                                        <div id="_ctl0_ucMNB_repTabs__ctl15_firstImageDiv"><a id="_ctl0_ucMNB_repTabs__ctl15_hlTab" class="header_nav_tab" onmouseover="showIt(1,this)" onmouseout="hideIt(1,this)" style="cursor:pointer; cursor:hand"><img src="http://image2.urlforimages.com/CS/$Templates/LMTClub-ref$/@@/Modules/customizable/images/021804_members_000.gif" border="0"></a></div>
+                                        <div></div>
+                                    </td>
+                                                         
+                            </tr></tbody></table>   
+                        </td>    
+                        <td width="1"><img src="http://image2.urlforimages.com/CS/$Templates/LMTClub-ref$/@@/modules/customizable/images/tabs_right.gif" class="header_nav_tab"></td>                    
+                    </tr>
+                    <tr>
+                        <td align="right" colspan="3">
+                        <div id="parentSubmenu" style="position:absolute;z-index:100;">
+                            <span id="_ctl0_ucMNB_layer1_eiExtJS"></span>
+<span id="_ctl0_ucMNB_layer1_eiTPAConnect"></span>
+
+<table id="layer1" cellspacing="0" cellpadding="0" border="0" class="submenu" onmouseover="ShowMenu('layer1');" onmouseout="hideIt();">
+    <tbody><tr><td>
+    <table cellpadding="0" class="menu_border" cellspacing="0" border="0">
+    
+        <tbody><tr>
+                <td id="_ctl0_ucMNB_layer1_rptSubmenu__ctl0_tdSubMenu" align="left" class="Option_but_submenu" onmouseover="this.className='Option_but_Over_submenu'" onmouseout="this.className='Option_but_submenu'" style="cursor:pointer" onclick="window.location='https://www.lmtclub.com/Secure/PreviousReservationsDisplay.aspx';">
+                    <img src="http://image2.urlforimages.com/CS/$Templates/LMTClub-ref$/@@/modules/customizable/images/arrow_menu.gif" alt="">&nbsp;
+                    Reservations
+            </td>
+
+        </tr>    
+        
+        <tr>
+                <td id="_ctl0_ucMNB_layer1_rptSubmenu__ctl2_tdSubMenu" align="left" class="Option_but_submenu" onmouseover="this.className='Option_but_Over_submenu'" onmouseout="this.className='Option_but_submenu'" style="cursor:pointer" onclick="window.location='https://www.lmtclub.com/Secure/PageUserAcount.aspx';">
+                    <img src="http://image2.urlforimages.com/CS/$Templates/LMTClub-ref$/@@/modules/customizable/images/arrow_menu.gif" alt="">&nbsp;
+                    My Account
+            </td>
+
+        </tr>    
+        
+        <tr>
+                <td id="_ctl0_ucMNB_layer1_rptSubmenu__ctl5_tdSubMenu" align="left" class="Option_but_submenu" onmouseover="this.className='Option_but_Over_submenu'" onmouseout="this.className='Option_but_submenu'" style="cursor:pointer" onclick="window.location='http://www.lmtclub.com/PageLoyaltyOverview.aspx';">
+                    <img src="http://image2.urlforimages.com/CS/$Templates/LMTClub-ref$/@@/modules/customizable/images/arrow_menu.gif" alt="">&nbsp;
+                    TripleDip Program
+            </td>
+
+        </tr>    
+        
+        <tr>
+                <td id="_ctl0_ucMNB_layer1_rptSubmenu__ctl6_tdSubMenu" align="left" class="Option_but_submenu" onmouseover="this.className='Option_but_Over_submenu'" onmouseout="this.className='Option_but_submenu'" style="cursor:pointer" onclick="window.location='https://www.lmtclub.com/Secure/PageLoyaltyAccountActivity.aspx';">
+                    <img src="http://image2.urlforimages.com/CS/$Templates/LMTClub-ref$/@@/modules/customizable/images/arrow_menu.gif" alt="">&nbsp;
+                    TripleDip Activity
+            </td>
+
+        </tr>    
+        
+    </tbody></table>
+    </td></tr>
+</tbody></table>
+<script type="text/javascript">
+var timerExp = 0;
+function ShowMenu(menu)
+{
+    ClearTimers();
+    globalMenu = document.getElementById(menu);
+    globalMenu.style.display='block';
+}
+
+function hideIt() 
+{
+    ClearTimers();
+    timerExp = setTimeout( "HideMenuHelper()", 500 );    
+}
+function ClearTimers()
+{
+    if(timerExp != 0)
+        clearTimeout(timerExp);
+}
+function HideMenuHelper()
+{
+    globalMenu.style.display='none';
+}
+</script>
+<script language="javascript" type="text/javascript">
+    var serverName = 'http://www.lmtclub.com/';
+</script>
+
+                        </div>
+                        </td>
+                    </tr>
+                </tbody></table>
+                
+            </td>
+        </tr>
+        
+    
+    <tr> 
+        <td style="PADDING-left: 5px" align="left">
+            
+        </td>
+    </tr>
+    
+</tbody></table>
+
+
+                                    </td>
+                                </tr>
+                            </tbody></table>
+                            <br style="font-size: 10px">
+                            
+    <style type="text/css">
+h1 {
+FONT-WEIGHT: normal;
+FONT-SIZE: 22px;
+MARGIN: 0px 0px 3px;
+padding-left:5px;
+}
+
+h2 {
+FONT-WEIGHT: normal;
+FONT-SIZE: 16px;
+MARGIN: 0px 0px 3px;
+padding-left:5px;
+}
+
+.div_text {
+FONT-SIZE: 12px;
+font-family:Arial, Helvetica, sans-serif;
+padding-left:5px
+}
+
+.div_text_link {
+FONT-SIZE: 12px;
+font-family:Arial, Helvetica, sans-serif;
+text-decoration:underline;
+}
+
+a.div_text_link {
+FONT-SIZE: 12px;
+font-family:Arial, Helvetica, sans-serif;
+text-decoration:underline;
+}
+
+a:hover.div_text_link {
+FONT-SIZE: 12px;
+font-family:Arial, Helvetica, sans-serif;
+text-decoration:underline;
+}
+
+a:active.div_text_link {
+FONT-SIZE: 12px;
+font-family:Arial, Helvetica, sans-serif;
+text-decoration:underline;
+}
+
+a:visited.div_text_link {
+FONT-SIZE: 12px;
+font-family:Arial, Helvetica, sans-serif;
+text-decoration:underline;
+}
+
+</style>
+<table width="780" border="0" cellspacing="0" cellpadding="0">
+   <tbody><tr>
+        <td>
+           <h1>Privacy Policy</h1>
+           <h2>Effective Date December 16, 2012</h2>
+        </td>
+   </tr>
+   <tr>
+        <td style="padding:15px 0px">
+         <div id="aa4d4275-ade3-4466-9a89-12effd993bbb"> <script type="text/javascript" src="//privacy-policy.truste.com/privacy-seal/Travel-Holdings,-Inc-/asc?rid=aa4d4275-ade3-4466-9a89-12effd993bbb"></script>
+         <a href="//privacy.truste.com/privacy-seal/Travel-Holdings,-Inc-/validation?rid=77a3eb4f-fb5d-49aa-b301-6e48f4e02192" title="TRUSTe online privacy certification" target="_blank">
+         <img style="border: none" src="http://privacy-policy.truste.com/privacy-seal/Travel-Holdings,-Inc-/seal?rid=77a3eb4f-fb5d-49aa-b301-6e48f4e02192" alt="TRUSTe online privacy certification"></a></div>
+        </td>
+   </tr>
+   
+  <tr>
+
+    <td class="div_text">
+<strong>Introduction</strong>
+<br>
+LMTClub.com and LMTClub, brands owned by Travel Holdings, Inc. are committed to maintain security and confidentiality of the personal information gathered and used on the www.LMTClub.com website (“hereinafter the Website”). This Privacy Statement covers <a href="http://www.LMTClub.com">www.LMTClub.com</a>.
+<br>
+ <br>
+  Travel Holdings, Inc. has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with <a href="http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html" target="_blank" class="div_text_link">TRUSTe's program requirements</a> including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program covers only information that is collected through this Web site, LMTClub.com.  
+TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy Trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at  <a href="mailto:webmaster@travelholdings.com" class="div_text_link">webmaster@travelholdings.com</a>.<br>
+ If you are not satisfied with our response you can contact <a href="http://watchdog.truste.com/pvr.php?page=complaint" target="_blank" class="div_text_link">http://watchdog.truste.com/pvr.php?page=complaint</a>
+
+ <br><br>
+       LMTClub.com and its authorized technology, marketing and service providers may gather, store, and process personal information from the Website.<br>
+  <br>
+  <strong>Information Collected</strong><br>
+      LMTClub.com collects information that you voluntarily provide to us on the Website. The types of personal identifying information (“PII”) that may be collected on the Website are customer name, names of companion travelers, mailing address, e-mail address, telephone number(s), date of birth, passport information, credit card and payment information, and weight. Non-personal data that you voluntarily provide to us may be collected on the Website during your usage of the site.   <br>
+  <br>
+        Children and individuals under 18 years of age are not permitted to register or  make purchases on our site.&nbsp; <br>
+
+  <br>
+  <strong>Information Use</strong>
+  <br>
+      LMTClub.com gathers, stores, and processes the PII in order to respond to requests for travel products and services and to improve our Website and service. LMTClub.com may share your information with its authorized technology, marketing and service providers. However, LMTClub.com does not sell, share, rent, or trade personal information to third parties for promotional purposes.  The suppliers of travel inventory (hotels, cruise lines, etc.) that receive your information may have privacy policies that are different than this Privacy Policy.  Our credit card processing uses your PII solely to facilitate the completion of your travel booking.
+<br><br>
+We may share your information you provide, including PII, with third parties in a legal proceeding, when there is reason to believe that illegal or fraudulent activity has or may occur, and/or in certain corporate transactions provided the recipients of the data in these transactions are contractually obligated to abide by this or a similar Privacy Policy. 
+<br><br>
+Non-personal information may be linked to your PII and provided to authorized, third parties to improve our Website and service.  These third parties may be located outside the USA.
+<br><br>
+LMTClub.com may automatically collect statistics about your visit to our Website when you visit the Website without registering. This information does not identify you as an individual and it is intended to gather information about your visit to our Website. The types of information that may be collected is your IP address, pages visited on the Website, addresses of websites visited that are linked to our Website or which we have a relationship, and similar information.  This information is collected through the use of tracking technologies such as log file web beacons. 
+      
+      <br>
+  <br>
+  <strong>Option To Control Information</strong><br>
+
+        PII does not have to be revealed when you visit the Website. Nevertheless, LMTClub.com may collect data about your use of the Website; this data  will be anonymous and will not be linked to any PII unless that information is  provided voluntarily. This information is collected to help us improve our  Website and service.<br>
+  <br>
+        LMTClub.com may place a “cookie” or computer file on your computer and/or  use other technologies to enable us to recognize you when you visit our site  again and to measure the effectiveness of our Website. You may instruct your  computer not to accept cookies.&nbsp; Our  cookies are linked to PII.&nbsp; Additionally,  we use a third- party tracking service that uses cookies to track non-PII about  visitors to our site.<br>
+
+  <br>
+        PII that you voluntarily provide to LMTClub.com when you register with  us can be edited or removed by accessing the Member section on our Website by  logging into “My Account” and changing your personally identifying information.  We may retain travel records for six (6) months after a request for removal to  ensure that the any existing travel arrangements are concluded and/or if we are  legally required to retain the records. If you provide LMTClub.com with additional PII, such as travel provider membership numbers or ticketing  preferences, we may retain that information. This information may be edited or  removed, as well. You may not be able to edit or remove data or information we  collect from third parties.&nbsp; You can also  send an email to <a href="mailto:webmaster@travelholdings.com" class="div_text_link">webmaster@travelholdings.com</a> to have your PII changed.<br>
+  <br>
+  <strong>Communications From The Site And How To Opt-out</strong><br>
+        You will  receive transaction or service related communications from the Website when you  purchase travel products and services through our Website.&nbsp; Additionally, you will receive promotional  communications from us if you choose to receive these communications.<p>
+    You may choose at any time during the  registration process to “opt-out” and choose not to receive promotional communications  that LMTClub.com feels may interest you. You may choose to unsubscribe  and not receive future promotional communications by accessing the unsubscribe  link on an email received by LMTClub.com. You can also “opt-out” of  receiving these newsletters by logging into your account and “opting-out” of  receiving these newsletters. <br>
+
+        <br>
+        <strong>Tell-A-Friend</strong><br>
+      If you  choose to use our referral service to tell a friend about our site, we will ask  you for your friend’s name and email address.&nbsp;  We will automatically send your friend a one-time email inviting him or  her to visit the site.&nbsp; LMTClub.com  does not store this information. 
+      <br><br>
+      
+      <strong>Blogs And Testimonials</strong><br>
+      If you  comment to a blog or post a testimonial on this Website, you should be aware  that any PII you submit can be read, collected, or used by other users on these  forums, and the PII can be used to send you unsolicited messages.&nbsp; We are not responsible for and will not  protect the privacy of the PII you choose to submit in these forums.
+<br><br>
+
+          <strong>Service Providers</strong><br>
+       We use  third parties to provide credit card processing, email services, web-analytics,  and live-chat services on our Website.&nbsp;  When you sign up for these services, we will share your PII as necessary  for the third party to provide the services.&nbsp;  These third parties are prohibited from using your PII for any other  purpose.&nbsp; We also have Widgets on this Website  which support functions that require that you to disclose certain PII depending  on your choice of participation. This information is collected in many  different ways such as: forms, surveys, contests, forums, subscribing or  unsubscribing to mailings and correcting or updating personally identifiable  information and are only used for the purpose in which they were collected.  
+<br><br>
+
+      <strong>Security  And Confidentiality</strong><br>
+        The security of your PII is important to us.&nbsp; When you enter sensitive information such as  credit card number on our registration or order forms, we encrypt that  information using secure socket layer technology (SSL). 
+        <br><br>
+        
+      We follow generally accepted industry standards to protect the PII  submitted to us, both during transmission and once we receive it.&nbsp; However, no method of transmission over the  Internet, or method of electronic storage, is 100% secure.&nbsp; Therefore, while we strive to use  commercially acceptable means to protect your PII, we cannot guarantee its  absolute security.
+      
+      <br><br>
+      
+      When you  click on any links on our Website, you leave our Website and enter the website  of a third party. Your visit to these third party websites are governed by the  privacy and security policies, if any, of those third party sites.  LMTClub.com is not responsible for security and confidentiality of  your information on third party sites.
+
+          <br><br>
+        We reserve the right to disclose your PII as required by law, when we believe  that disclosure is necessary to protect our rights, and/or to comply with a  judicial proceeding, court order, or legal process.&nbsp; In addition, LMTClub.com may  disclose certain information in cases of fraud or abuse of the Website.
+        
+        <br><br>
+      <strong>Changes  To This Privacy Statement</strong>
+          <br>
+        Changes to this Privacy Statement may be made from time to time. If any change  is unacceptable to you, you may edit or remove your information subject to the  restrictions noted herein and/or change your opt-out preference. &nbsp;&nbsp;LMTClub.com will either inform you  by email if you have registered on our Website or by means of a notice on our  home page, or another place we deem appropriate, of any material change to this  Privacy Statement so that you are aware of what information we collect, how we  use it, and under what circumstances, if any, we disclose it.&nbsp; We reserve the right to modify this Privacy  Statement at any time, so please review it frequently.&nbsp; 
+        
+        <br><br>
+
+      <strong>Contact Us</strong><br>
+        
+        If you  would like to contact us regarding this Privacy Statement, you can reach us by our  mailing address at 220 East Central Parkway, Suite 4000, Altamonte Springs, FL  32701 or by email at  <a href="mailto:webmaster@travelholdings.com" class="div_text_link">webmaster@travelholdings.com</a>.</p>
+      <h1>&nbsp;</h1>
+    </td>
+  </tr>
+</tbody></table>
+
+                            <br>
+                        </td>
+                        <td class="right">
+                            <img alt="" border="0" src="http://image2.urlforimages.com/CS/$Templates/LMTClub-ref$/@@/modules/customizable/images/SpacerMaster.gif"><br>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="bottom_left">
+                            &nbsp;</td>
+                        <td class="bottom">
+                            &nbsp;</td>
+                        <td class="bottom_right">
+                            &nbsp;</td>
+                    </tr>
+                </tbody></table>
+                <table id="tblFooter" border="0" cellspacing="0" cellpadding="0" width="780" style="display: ''">
+                    <tbody><tr>
+                        <td align="center">
+                            <span id="_ctl0_ucMFC_OnLoadFunctions"></span>
+
+<div class="divModuleFooterContentPadding" style="width: 100%">
+    <img id="_ctl0_ucMFC_footerPopUp" width="0" height="0"><table border="0" width="100%" cellpadding="0" cellspacing="0">
+        <tbody><tr>
+           
+        </tr>
+        
+        
+
+<tr><td align="left" class="footerTD">
+
+<table border="0" align="left" cellpadding="0" cellspacing="0"><tbody><tr>
+    
+            <td align="left">
+                <span style="white-space:normal"><a id="_ctl0_ucMFC_ucNavBar_repTabs__ctl0_btnLink" title="Home Page" class="footer" href="http://www.lmtclub.com/HP.aspx">Home</a></span>
+                <span class="separator">|</span>
+            </td>
+        
+            <td align="left">
+                <span style="white-space:normal"><a id="_ctl0_ucMFC_ucNavBar_repTabs__ctl1_btnLink" title="Hotels" class="footer" href="http://www.lmtclub.com/PageHotelSearch.aspx">Hotels</a></span>
+                <span class="separator">|</span>
+            </td>
+        
+            <td align="left">
+                <span style="white-space:normal"><a id="_ctl0_ucMFC_ucNavBar_repTabs__ctl2_btnLink" title="Flights" class="footer" href="http://www.lmtclub.com/PageFlightSearch.aspx">Flights</a></span>
+                <span class="separator">|</span>
+            </td>
+        
+            <td align="left">
+                <span style="white-space:normal"><a id="_ctl0_ucMFC_ucNavBar_repTabs__ctl3_btnLink" title="Cruises" class="footer" href="http://www.lmtclub.com/PageCruiseSearch.aspx">Cruises</a></span>
+                <span class="separator">|</span>
+            </td>
+        
+            <td align="left">
+                <span style="white-space:normal"><a id="_ctl0_ucMFC_ucNavBar_repTabs__ctl4_btnLink" title="Cars" class="footer" href="http://www.lmtclub.com/PageCarOption.aspx">Cars</a></span>
+                <span class="separator">|</span>
+            </td>
+        
+            <td align="left">
+                <span style="white-space:normal"><a id="_ctl0_ucMFC_ucNavBar_repTabs__ctl5_btnLink" title="Packages" class="footer" href="http://www.lmtclub.com/PagePackageSearch.aspx">Packages</a></span>
+                <span class="separator">|</span>
+            </td>
+        
+            <td align="left">
+                <span style="white-space:normal"><a id="_ctl0_ucMFC_ucNavBar_repTabs__ctl6_btnLink" title="Activities" class="footer" href="http://www.lmtclub.com/Activity-Search.aspx">Activities</a></span>
+                <span class="separator">|</span>
+            </td>
+        
+            <td align="left">
+                <span style="white-space:normal"><a id="_ctl0_ucMFC_ucNavBar_repTabs__ctl7_btnLink" title="Top 10 Deals" class="footer" href="http://www.lmtclub.com/info/deals.aspx">Deals</a></span>
+                <span class="separator">|</span>
+            </td>
+        
+            <td align="left">
+                <span style="white-space:normal"><a id="_ctl0_ucMFC_ucNavBar_repTabs__ctl8_btnLink" title="Vacation Homes" class="footer" href="http://www.lmtclub.com/PageHomeSearch.aspx">Vacation Homes</a></span>
+                <span class="separator">|</span>
+            </td>
+         
+</tr></tbody></table>
+
+</td></tr>
+
+        
+
+<tr><td align="left" class="footerTD">
+    
+    <table width="100%" border="0" cellpadding="0" cellspacing="0" align="left">
+      <tbody><tr>
+        <td align="left" style="line-height:25px;">
+        
+        
+                <nobr>
+                    <a id="_ctl0_ucMFC_ucLinks_rpL__ctl0_btnLink" class="footer" href="http://www.lmtclub.com/PagePrivacyPolicy.aspx">Privacy Policy</a>
+                <span class="separator">|</span></nobr>
+            
+                <nobr>
+                    <a id="_ctl0_ucMFC_ucLinks_rpL__ctl1_btnLink" class="footer" href="http://www.lmtclub.com/PageUserAgreement.aspx">User Agreement</a>
+                <span class="separator">|</span></nobr>
+            
+                <nobr>
+                    <a id="_ctl0_ucMFC_ucLinks_rpL__ctl2_btnLink" class="footer" href="http://www.lmtclub.com/PageAboutUs.aspx">About Us</a>
+                <span class="separator">|</span></nobr>
+            
+                <nobr>
+                    <a id="_ctl0_ucMFC_ucLinks_rpL__ctl3_btnLink" class="footer" href="http://www.lmtclub.com/info/contactus.aspx">Contact Us</a>
+                <span class="separator">|</span></nobr>
+            
+                <nobr>
+                    <a id="_ctl0_ucMFC_ucLinks_rpL__ctl4_btnLink" class="footer" href="http://www.lmtclub.com/PagePressRoom.aspx">Press Room</a>
+                <span class="separator">|</span></nobr>
+            
+                <nobr>
+                    <a id="_ctl0_ucMFC_ucLinks_rpL__ctl5_btnLink" class="footer" href="http://www.lmtclub.com/PageFaq.aspx">FAQ</a>
+                <span class="separator">|</span></nobr>
+            
+        
+        
+        
+        </td>
+      </tr>
+    </tbody></table>
+
+</td></tr>
+
+        
+        
+        
+        
+    </tbody></table>
+
+    
+
+    <span id="_ctl0_ucMFC_footerInternalToolTipControl" style="Position:absolute;display:none;">
+
+        <script type="text/javascript">
+            var redirectURL = "http://www.lmtclub.com/PageDefault.aspx?RAF";
+
+            function Redirect() {
+                hideToolTip('_ctl0_ucMFC_footerInternalToolTipControl');
+            window.location = redirectURL;
+        }
+        </script>
+
+        <table cellspacing="0" cellpadding="0" border="0" width="300" dir="ltr">
+            <tbody><tr>
+                <td width="18" height="25">
+                    <img src="http://image2.urlforimages.com/CS/$Templates/LMTClub-ref$/@@/modules/customizable/images/topleft_alert.gif" alt="" width="18" height="25" border="0"><br>
+                </td>
+                <td align="left" background="http://image2.urlforimages.com/CS/$Templates/LMTClub-ref$/@@/modules/customizable/images/topbg_alert.gif" class="title_alert" style="width: 100%;">
+                    Amend alert
+                </td>
+                <td width="18" height="25">
+                    <img src="http://image2.urlforimages.com/CS/$Templates/LMTClub-ref$/@@/modules/customizable/images/topright_alert.gif" alt="" width="18" height="25" border="0"><br>
+                </td>
+            </tr>
+            <tr>
+                <td width="18" class="alert_box_left">&nbsp;</td>
+                <td class="alert_box">
+                    <table cellspacing="0" cellpadding="0" border="0" width="100%">
+                        <tbody><tr>
+                            <td class="text_alert" style="padding-top: 3px;" align="left">
+                                Your request will stop the amendment process without saving the changes. Would you like to proceed?
+                            </td>
+                        </tr>
+                        <tr>
+                            <td style="height: 6px"></td>
+                        </tr>
+                        <tr>
+                            <td align="center">
+                                <img src="http://image2.urlforimages.com/CS/$Templates/LMTClub-ref$/@@/Modules/customizable/images/cancelButton.gif" class="cursor" alt="" style="border: 0px" onclick="hideToolTip('_ctl0_ucMFC_footerInternalToolTipControl')">
+                                &nbsp;
+                            <img src="http://image2.urlforimages.com/CS/$Templates/LMTClub-ref$/@@/Modules/customizable/images/continueButton.gif" class="cursor" alt="" style="border: 0px" onclick="Redirect()">
+                            </td>
+                        </tr>
+                    </tbody></table>
+                </td>
+                <td width="18" class="alert_box_right">&nbsp;</td>
+            </tr>
+            <tr>
+                <td width="18" height="12">
+                    <img src="http://image2.urlforimages.com/CS/$Templates/LMTClub-ref$/@@/modules/customizable/images/bottomleft_alert.gif" alt="" width="18" height="12"><br>
+                </td>
+                <td background="http://image2.urlforimages.com/CS/$Templates/LMTClub-ref$/@@/modules/customizable/images/bottombg_alert.gif">
+                    <img src="http://image2.urlforimages.com/CS/$Templates/LMTClub-ref$/@@/modules/customizable/images/bottombg_alert.gif" alt=""><br>
+                </td>
+                <td width="18" height="12">
+                    <img src="http://image2.urlforimages.com/CS/$Templates/LMTClub-ref$/@@/modules/customizable/images/bottomright_alert.gif" width="18" height="12" alt=""><br>
+                </td>
+            </tr>
+        </tbody></table>
+    </span>
+
+</div>
+
+<br>
+
+                            
+                            
+                        </td>
+                    </tr>
+                </tbody></table>
+                
+            </div>
+        </div>
+         <span id="_ctl0_ucBookAssistanceStatic_modalBox"></span>
+<div id="_ctl0_ucBookAssistanceStatic_dvSectionPad">
+    
+</div>
+<input type="hidden" name="_ctl0:ucBookAssistanceStatic:cr2:hdnContent" id="_ctl0_ucBookAssistanceStatic_cr2_hdnContent">
+
+
+    <input type="hidden" name="_ctl0:cr2:hdnContent" id="_ctl0_cr2_hdnContent">
+
+    
+
+<script type="text/javascript">
+<!--
+
+function setCookie(c_name,value,expiredays)
+{
+    var exdate=new Date();
+    exdate.setDate(exdate.getDate()+expiredays);
+    
+    document.cookie=c_name+ "=" +escape(value)+
+        ((expiredays==null) ? "" : ";expires="+exdate.toGMTString());
+}
+
+// set height and width cookies for two weeks
+if (self.screen)
+{
+    setCookie("screenResolutionWidth", screen.width , 14);
+    setCookie("screenResolutionHeight", screen.height, 14);
+}// -->
+</script>
+<script language="javascript">
+            var activeToolTip=null;
+			function showToolTip(evt,ToolTipID,Location,Mode,DeltaTop,DeltaLeft,ZOrder)
+			{
+                if (activeToolTip != null) hideToolTip(activeToolTip);
+                activeToolTip = ToolTipID;
+				var div = document.getElementById(ToolTipID); 				
+				div.style.display='';
+				div.style.zIndex = ZOrder ;
+				var position = getToolTipPosition(evt,ToolTipID,Location);
+				switch(Mode)
+				{
+				case 'Relative':
+					div.style.top = position[0];
+					div.style.left = position[1];
+				break 
+				case 'Absolute':
+					
+					div.style.top = DeltaTop + 'px';
+					div.style.left = DeltaLeft + 'px'; 
+				break
+				default:      
+					div.style.top = position[0];
+					div.style.left = position[1]; 
+				} 
+				
+			} 
+				function hideToolTip(ToolTipID) 
+				{
+                    activeToolTip = null;
+					parent.document.getElementById(ToolTipID).style.display='none';
+					
+				}
+				function getToolTipPosition(evt,ToolTipID,Location)
+				{
+				var position = [];
+				var elPos = getAbsoluteElementLocation(document.getElementById(evt));
+					switch(Location)
+					{
+					case 'TopLeft':
+						 
+						position[0] = (elPos[0] - document.getElementById(ToolTipID).offsetHeight)+'px';
+						position[1] = (elPos[1] - document.getElementById(ToolTipID).offsetWidth)+'px';
+						return position;
+					break    
+					case 'TopRight':
+						
+						position[0] = (elPos[0] - document.getElementById(ToolTipID).offsetHeight)+'px';
+						position[1] = (elPos[1] + document.getElementById(evt).offsetWidth)+'px';
+						return position;
+					break
+					case 'BottomRight':
+						
+						position[0] = (elPos[0] + document.getElementById(evt).offsetHeight)+'px';
+						position[1] = (elPos[1] + document.getElementById(evt).offsetWidth)+'px';
+						return position;	
+					break
+					case 'BottomLeft':
+						
+						position[0] = (elPos[0] + document.getElementById(evt).offsetHeight)+'px';
+						position[1] = (elPos[1] - document.getElementById(ToolTipID).offsetWidth)+'px';
+						return position;	
+					break
+					default:
+						
+						position[0] = (elPos[0] + document.getElementById(evt).offsetHeight)+'px';
+						position[1] = (elPos[1] + document.getElementById(evt).offsetWidth)+'px';
+						return position;
+					}
+							
+				} 
+				
+			function getAbsoluteElementLocation(el)
+				{
+				var pos = [];
+				var box;
+				var parent;
+				if (el.getBoundingClientRect) { // IE
+					box = el.getBoundingClientRect();
+					var scrollTop = document.documentElement.scrollTop || document.body.scrollTop;
+					var scrollLeft = document.documentElement.scrollLeft || document.body.scrollLeft;
+			 
+					return [box.top + scrollTop,box.left + scrollLeft];
+				}
+				else 
+					{ 
+					pos = [el.offsetTop,el.offsetLeft];
+					parent = el.offsetParent;
+					if (parent != el) {
+						while (parent) {
+						pos[0] += parent.offsetTop;
+						pos[1] += parent.offsetLeft;
+						parent = parent.offsetParent;
+						}
+					}
+
+				}
+				return pos;
+				} 
+				</script></form>
+    
+    
+    <div id="_ctl0_divBeforeBodyClosingTag"></div>
+
+
+
+</body></html>
