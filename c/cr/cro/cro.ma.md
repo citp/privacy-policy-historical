@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cro.ma privacy policy that was archived on 2013-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130622231735id_/http%3A//cro.ma/%3Fpage_id%3D318) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cro.ma privacy policy that was archived on 2013-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131022052724id_/http%3A//cro.ma/%3Fpage_id%3D318) for the most accurate reproduction.*
 
 # Croma - Privacy Statement
 
