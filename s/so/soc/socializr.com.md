@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the socializr.com privacy policy that was archived on 2013-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130606103236id_/http%3A//www.punchbowl.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the socializr.com privacy policy that was archived on 2013-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131022192146id_/http%3A//www.punchbowl.com/privacy-policy) for the most accurate reproduction.*
 
 # Punchbowl.com
 
@@ -14,13 +14,13 @@ _Punchbowl, Inc._ is committed to protecting your privacy and providing you the 
 
 By using Punchbowl, you consent to the data practices described in this statement. Notices of all changes that materially affect ways that your personally identifiable information may be used or shared will be posted in updates to our privacy policy. If you continue to use Punchbowl and services after these notices of changes have been posted to the site, you hereby provide your consent to the changed practices.
 
-If you have any questions regarding this Privacy Policy, please contact: [info@punchbowl.com](mailto:info@punchbowl.com).
+If you have any questions regarding this Privacy Policy, please contact: [privacy@punchbowl.com](mailto:privacy@punchbowl.com).
 
 ## Collection of your Personal Information
 
 In order to become a Punchbowl member you must first register for our service. During this registration process you are required to provide personally identifiable information, such as your e-mail address and name. Once you are a member you may provide additional information for your member profile such as home address, zip code, date of birth, gender, preferences, interests and favorites. Providing additional information beyond what is required at registration is optional, but will allow you to better identify yourself and find services at Punchbowl.
 
-_Punchbowl, Inc._ does not solicit, or knowingly collect and store personal information from anyone under the age of 13. _Punchbowl, Inc._ will immediately remove and delete any and all information from anyone under 13 if notification is provided that a person under 13 registered at Punchbowl. If you have a reason to believe information was collected about a child under 13, please contact [info@punchbowl.com](mailto:info@punchbowl.com).
+_Punchbowl, Inc._ does not solicit, or knowingly collect and store personal information from anyone under the age of 13. _Punchbowl, Inc._ will immediately remove and delete any and all information from anyone under 13 if notification is provided that a person under 13 registered at Punchbowl. If you have a reason to believe information was collected about a child under 13, please contact [privacy@punchbowl.com](mailto:privacy@punchbowl.com).
 
 There is also information about your computer hardware and software that is automatically collected by _Punchbowl, Inc._. This information can include: your IP address, browser type, domain names, access times, pages visited, features used and referring Web site addresses. This information is used by _Punchbowl, Inc._ for the operation of the service, to maintain quality of the service, and to provide general statistics regarding use of Punchbowl.
 
@@ -58,4 +58,4 @@ _Punchbowl, Inc._ will occasionally update this Privacy Policy. When we make cha
 
 ## Contact Information
 
-_Punchbowl, Inc._ welcomes your comments regarding this Privacy Policy. If you believe that _Punchbowl, Inc._ has not adhered to this Privacy Policy, please contact _Punchbowl, Inc._ at [info@punchbowl.com](mailto:info@punchbowl.com). We will use commercially reasonable efforts to promptly determine and remedy the problem.
+_Punchbowl, Inc._ welcomes your comments regarding this Privacy Policy. If you believe that _Punchbowl, Inc._ has not adhered to this Privacy Policy, please contact _Punchbowl, Inc._ at [privacy@punchbowl.com](mailto:privacy@punchbowl.com). We will use commercially reasonable efforts to promptly determine and remedy the problem.
