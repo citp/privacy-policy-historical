@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the soundcu.com privacy policy that was archived on 2013-01-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130127162540id_/https%3A//www.soundcu.com/wp-content/themes/scu/pdf/PrivacyPolicy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the soundcu.com privacy policy that was archived on 2013-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131022070841id_/https%3A//www.soundcu.com/files/Privacy-Policy_Sound.pdf) for the most accurate reproduction.*
 
 # FACTS
 
-                                                                                                          Rev. 12/2011
+                                                                                                          Rev. 11/2012
                             WHAT DOES SOUND CREDIT UNION DO WITH YOUR PERSONAL
  FACTS                      INFORMATION?
  Why?                       Financial companies choose how they share your personal information. Federal law
