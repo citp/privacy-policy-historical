@@ -1,30 +1,44 @@
-> *The following text is extracted and transformed from the pinger.com privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621041802id_/http%3A//www.pinger.com/content/company/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pinger.com privacy policy that was archived on 2013-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131023125041id_/http%3A//www.pinger.com/content/company/privacy_policy.html) for the most accurate reproduction.*
 
 # Pinger makes texting and talking free.
 
 **Overview**
 
-This Privacy Policy describes how Pinger treats information that it collects and receives related to your use of Pinger's products, services, and website. Our primary goal in collecting information is to provide and improve our products and services.
+This Privacy Policy describes how Pinger treats information that it collects and receives related to your use of Pinger's products, services, and websites. Our primary goal in collecting information is to provide and improve our products and services.
+
+**Children's Personal Information**
+
+All Pinger products, services and websites are not intended for children under the age of 13, so children under the age of 13 should not use them at any time. 
+
+Pinger complies with the Children's Online Privacy Protection Act ("COPPA"), including the COPPA rules effective July 1, 2013, and does not knowingly collect any information from children under the age of 13. In the event that Pinger discovers that is has received personal information (as defined under Section 312.2 of the COPPA rules effective July 1, 2013) from a child under the age of 13, Pinger will promptly delete such personal information in a secure manner. 
+
+**Safe Harbor Frameworks**
 
 Pinger complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland (the "Safe Harbor Frameworks"). Pinger has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Pinger's certification, please visit http://www.export.gov/safeharbor/
 
 **Information Pinger Collects and Uses**
 
-Pinger collects information when you use and access Pinger's products, services and website. The information collected includes Personal Information, App Data and Share Data (collectively, "Customer Information"). "Personal Information" is information about you that is personally identifiable, like your full name, address, email address, billing information, passwords, and home and business addresses. "App Data" is information about the nature of your usage of Pinger's website and products and services and non-personal demographic information. App Data can include: IP addresses, domain servers, referring/exit pages, operating system information, unique device identifiers, such as UDID and/or Ethernet MAC address, date/time stamp, clickstream data, messages sent and received using Pinger services, information about those messages, type of device, location information, user age and gender demographics, type of web browser, one or more cookies that identify your browser, and telecommunications carrier information. "Share Data" is data and information you provide for use with Pinger's products or services and which may be made available to third parties by your actions when using Pinger products or services which constitute your consent for Pinger's use of Share Data as so directed by you.
+Pinger collects information when you use and access Pinger's products, services and website. We categorize the information we collect into three categories (collectively referred to as "Customer Information"): Personal Information, App Data and Share Data. 
+
+"Personal Information" is information about you that is personally identifiable, including your full name, business or residential address, email address, land-line or existing mobile phone number, or billing information. 
+
+"App Data" is information about the nature of your usage of Pinger's website and products and services and non-personal demographic information. App Data can include: IP addresses, domain servers, referring/exit pages, operating system information, unique device identifiers, such as UDID and/or Ethernet MAC address, date/time stamp, clickstream data and information about actions taken by you through interaction with Pinger's products and/or advertising displayed within Pinger products, messages sent and received using Pinger services, information about those messages (date, duration, recipients, size, attachments), type of device, location information, age, gender, type of web browser, one or more cookies that identify your browser, information about and telecommunications carrier information. 
+
+"Share Data" is data and information you provide for use with Pinger's products or services, such as text, audio, and photos you make available through the Apps or contacts you add or import for use with Pinger products, and which may be made available to third parties by your actions when using Pinger products or services.
 
 **Information Sharing and Disclosure**
 
 Pinger uses Customer Information to enhance your use of the Pinger services by processing such information for various purposes, including improving and providing Pinger's products and services, product notifications, delivering advertisements and related links, for sending, sharing and storing your Share Data as you direct through use of Pinger products and services, and other purposes relating to offering you Pinger products and services.
 
-**Pinger does not rent, sell, or share any Customer Information unless we have your express consent and in the following circumstances:**
+**Pinger does not rent, sell, or share any Customer Information unless: you initiate the sharing through the Pinger products, services or website; you have provided your express consent; and in the following circumstances:**
 
-(i) Pinger may engage a trusted third party to perform limited functions on our behalf, such as fulfilling newsletter subscriptions, sending requested postal mail and e-mail, SMS, MMS, and voice communications, analyzing and processing data (such as billing information), and providing customer service. We require that these parties agree to use such information in a confidential manner and in compliance with this Privacy Policy and any other appropriate confidentiality and security measures. These third parties may have access to Personal Information needed to perform their functions, but we do not permit them to use it for other purposes.
+(i) Pinger may engage a trusted third party to perform limited functions on our behalf, such as fulfilling newsletter subscriptions, sending requested postal mail and e-mail, SMS, MMS, and voice communications, analyzing and processing data (such as billing information), and providing customer service. We require that these parties agree to use such information in a confidential manner. These third parties may have access to Personal Information needed to perform their functions, but we do not permit them to use it for other purposes.
 
-(ii) Pinger may share with third parties App Data and certain aggregated, non-personal information, but such information does not include your name, email address or information that identifies you personally.
+(ii) Pinger may share App Data and certain aggregated, non-personal information with third parties, but such information does not include your name, email address or any other Personal Information.
 
-(iii) Pinger may share Customer Information to respond to legal requirements, when legally required to do so, and at the request of governmental authorities.
+(iii) Pinger may share Customer Information to respond to legal requirements, when legally required to do so, or at the request of governmental authorities.
 
-(iv) Pinger may share Customer Information to verify or enforce compliance with user agreements and applicable laws, to protect against fraud, to detect and prevent security or technical issues, to protect against misuse or unauthorized use of the Pinger products, services, computing systems, or website, or to protect against imminent harm to the rights, property or safety of Pinger, its subscribers or the public.
+ (iv) Pinger may share Customer Information to verify or enforce compliance with user agreements and applicable laws, to protect against fraud, to detect and prevent security or technical issues, to protect against misuse or unauthorized use of the Pinger products, services, computing systems, or website, or to protect against imminent harm to the rights, property or safety of Pinger, its subscribers or the public.
 
 (v) Pinger may share Customer Information with a successor entity or in connection with a corporate merger, consolidation, sale of assets or other corporate reorganization provided that use of Customer Information is in compliance with this Privacy Policy.
 
@@ -36,11 +50,7 @@ When you visit Pinger, we may send cookies to your computer that uniquely identi
 
 **Security and Data Integrity**
 
-We have physical, electronic, and procedural safeguards to protect the loss, misuse, and alteration of the Customer Information under our control. Customer Information we collect is stored in a secure manner that is accessible only by authorized Pinger personnel, contractors, and agents bound by confidentiality obligations and is only disclosed under the provisions of this Privacy Policy. Our processing of personal information is only for the purposes for which it was collected and in accordance with this Privacy Policy. Periodically, Pinger undertakes a review of its privacy practices to ensure that that the information we collect is needed to provide or improve the services we provide.
-
-**Children's Personal Information**
-
-The Pinger website complies with the Children's Online Privacy Protection Act ("COPPA"). Pinger does not knowingly collect Personal Information from children under the age of 13 through the Pinger website. In addition, in the event that a user identifies himself or herself as a child under the age of 13, Pinger will not collect, store or use any Personal Information of such user. Further, in the event that Pinger receives Personal Information that Pinger discovers was provided by a child under the age of 13, Pinger will promptly delete such Personal Information in a secure manner.
+We have physical, electronic, and procedural safeguards to protect the loss, misuse, and alteration of the Customer Information under our control. Customer Information we collect is stored in a secure manner that is accessible only by authorized Pinger personnel, contractors, and agents bound by confidentiality obligations and is only disclosed under the provisions of this Privacy Policy. Our processing of Personal Information is only for the purposes for which it was collected and in accordance with this Privacy Policy. Periodically, Pinger undertakes a review of its privacy practices to ensure that that the information we collect is needed to provide or improve the services we provide.
 
 **Links to Third Party Sites**
 
@@ -52,7 +62,7 @@ If you want us to remove your Personal Information from our database, or would l
 
 **Modifications of Privacy Policy**
 
-Pinger reserves the right, at our discretion, to change, update or modify this Privacy Policy at any time by posting such change, update or modification on the Pinger website. Any such change, update or modification will be effective immediately upon notice, which Pinger may provide by any means, including, without limitation, posting on the Pinger website, notifications within Pinger applications, or electronic mail. Your continued use of the Pinger website and/or any Pinger products and services following the posting of changes will mean you accept those changes. Use of information that we gather is subject to the Privacy Policy in effect at the time of use.
+Pinger reserves the right, at our discretion, to change, update or modify this Privacy Policy at any time by posting such change, update or modification on the Pinger website and in the app stores from which Apps are made available. Any such change, update or modification will be effective immediately upon notice, which Pinger may provide by any means, including, without limitation, posting on the Pinger website, notifications within Pinger applications, or electronic mail. Your continued use of the Pinger website and/or any Pinger products and services following the posting of changes will mean you accept those changes. Use of information that we gather is subject to the Privacy Policy in effect at the time of use.
 
 **Contact Us**
 
@@ -62,4 +72,4 @@ If you have any questions or concerns regarding this Privacy Policy, please send
 
 If you have any complaints regarding our compliance with the Safe Harbor Frameworks, you must first contact us (as provided above). If contacting us does not resolve your complaint, Pinger will cooperate with JAMS pursuant to the JAMS International Mediation Rules. The dispute resolution process shall be conducted in English.
 
-Last updated March 1, 2013
+Last updated July 27, 2013
