@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fandor.com privacy policy that was archived on 2013-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130527020813id_/http%3A//www.fandor.com/company/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fandor.com privacy policy that was archived on 2013-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131023063328id_/http%3A//www.fandor.com/company/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | Fandor
 
@@ -6,13 +6,13 @@ Oh wow, you're actually reading this? Wait a sec, let me turn on stuffy lawyer m
 
 Revised August 6, 2012
 
-This Privacy Policy (“Policy”) explains how Our Film Festival, Inc. (“Fandor”) collects, uses, and discloses personal information in connection with Fandor’s social movie streaming service, including our software and streaming applications, our social discovery and sharing tools, and our collection of content, accessed via the Fandor site located at www.fandor.com, via Fandor applications on devices such as iPad or Roku, or via third-party sites such as Facebook (collectively, the “Service”). We provide this information so you can make an informed decision about using the Service and the audiovisual materials made available via the Service.
+This Privacy Policy ("Policy") explains how Our Film Festival, Inc. ("Fandor") collects, uses, and discloses personal information in connection with Fandor's social movie streaming service, including our software and streaming applications, our social discovery and sharing tools, and our collection of content, accessed via the Fandor site located at www.fandor.com, via Fandor applications on devices such as iPad or Roku, or via third-party sites such as Facebook (collectively, the "Service"). We provide this information so you can make an informed decision about using the Service and the audiovisual materials made available via the Service.
 
 We reserve the right to change this Policy at any time. We will alert you that changes have been made by indicating on the Policy the date it was last updated. We encourage you to review this Policy from time to time to make sure that you understand how any personal information you provide will be used.
 
 ## What Is Personal Information?
 
-“Personal information” means information that specifically identifies an individual (such as a name, address, telephone number, or e-mail address) or information about that individual that is directly linked to personally identifiable information. Personal information does not include “aggregate” information, such as data about the use of the Service or about a group or category of users where individual identities are removed. This Policy does not restrict our collection and use of aggregate information.
+"Personal information" means information that specifically identifies an individual (such as a name, address, telephone number, or e-mail address) or information about that individual that is directly linked to personally identifiable information. Personal information does not include "aggregate" information, such as data about the use of the Service or about a group or category of users where individual identities are removed. This Policy does not restrict our collection and use of aggregate information.
 
 ## What Personal Information Do We Collect?
 
@@ -20,7 +20,7 @@ Active Collection. We collect certain information you voluntarily provide to us,
 
 Passive Collection. When you use the Service, some information may also be automatically collected, such as your Internet Protocol (IP) address, your operating system, browser type, the address of a referring Web site, and your activity on the Service. We treat this information as personal information if we combine it with or link it to any of the identifying information mentioned above. Otherwise, it is used in the aggregate only.
 
-We may also automatically collect certain information through the use of “cookies” or web beacons. Cookies are small data files stored on your hard drive at the request of a Web site. Web beacons are small, invisible graphic images that may be used on the site or in emails relating to the Service to collect certain information and monitor user activity. We use these tools to help us improve the Service and your experience. If we link cookies or beacon data to any personally identifying information, we will treat this information as personal information. If you wish to block, erase, or be warned of cookies, please refer to your browser manufacturer to learn about these functions. However, choosing to remove or reject cookies could affect or disable certain features of the Service. 
+We may also automatically collect certain information through the use of "cookies" or web beacons. Cookies are small data files stored on your hard drive at the request of a Web site. Web beacons are small, invisible graphic images that may be used on the site or in emails relating to the Service to collect certain information and monitor user activity. We use these tools to help us improve the Service and your experience. If we link cookies or beacon data to any personally identifying information, we will treat this information as personal information. If you wish to block, erase, or be warned of cookies, please refer to your browser manufacturer to learn about these functions. However, choosing to remove or reject cookies could affect or disable certain features of the Service. 
 
 You may encounter ads served by third parties in your use of the Service. These third parties may use cookies, web beacons, or other means to collect non-personal information, and may use information collected to, among other things, analyze data, determine the popularity of certain content, deliver advertising targeted to your interests, and better understand the usage and visitation of the Service and the other Web sites tracked by these third parties. This policy does not apply to, and we are not responsible for, cookies or web beacons located in third-party ads. We encourage you to check the privacy policies of advertisers or ad services to learn about their use of cookies and other technology.
 
@@ -31,7 +31,7 @@ We use personal information collected through the Service for the purposes descr
   * to provide the Service or information you request, and to process and complete any related transactions
   * to request feedback from you or contact you about your use of the Service
   * to respond to your emails, submissions, questions, comments, requests, complaints, or otherwise provide customer service;
-  * to monitor and analyze Service usage and trends, to personalize and improve the Service and your experiences with it, such as content or features that match your profile or interests, and to increase the Service’s functionality and ease of use
+  * to monitor and analyze Service usage and trends, to personalize and improve the Service and your experiences with it, such as content or features that match your profile or interests, and to increase the Service's functionality and ease of use
   * to provide you with news and information about events, activities, offers, promotions, products, and services that may be of interest to you
   * to send you confirmations, updates, security alerts, and support and administrative messages, and otherwise facilitate your use and enjoyment of the Service
   * to notify you about important changes to the Service
@@ -52,7 +52,7 @@ We are not responsible for the actions of third parties, nor are we responsible 
 
 ## Links To Other Web sites
 
-The Site may contain links to other Web sites. Any personal information you provide on linked pages is provided directly to that third party and is subject to that third party’s privacy policy. This Policy does not apply to such linked web sites. Fandor is not responsible for the privacy and security practices and policies of any such site. We encourage you to learn about their privacy and security practices and policies before providing them with personal information.
+The Site may contain links to other Web sites. Any personal information you provide on linked pages is provided directly to that third party and is subject to that third party's privacy policy. This Policy does not apply to such linked web sites. Fandor is not responsible for the privacy and security practices and policies of any such site. We encourage you to learn about their privacy and security practices and policies before providing them with personal information.
 
 ## What Steps Do We Take To Protect Your Information Online?
 
