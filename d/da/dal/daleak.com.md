@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the daleak.com privacy policy that was archived on 2013-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130622081537id_/http%3A//daleak.com/terms) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the daleak.com privacy policy that was archived on 2013-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131023032550id_/http%3A//www.daleak.com/terms) for the most accurate reproduction.*
 
-# Terms of Use & Privacy Policy | DaLeak.com - Quality Hip Hop Music. Updated 24/7 Since 2007
+# Terms of Use & Privacy Policy – DaLeak.com
 
 **Terms of Use**
 
