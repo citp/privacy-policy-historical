@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the discover.com privacy policy that was archived on 2013-05-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130529181319id_/https%3A//www.discover.com/credit-cards/help-center/account/privacy-policies/index.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the discover.com privacy policy that was archived on 2013-10-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131023044735id_/https%3A//www.discover.com/credit-cards/help-center/account/privacy-policies/index.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
     <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
@@ -9,7 +9,6 @@
 	<title>Discover Card Privacy Policy | Discover Card</title>
     <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script language="javascript" type="text/javascript" src="/scripts/common.js"></script>
     <script language="javascript" type="text/javascript" src="/scripts/faq.js"></script>
-	<script type="text/javascript" language="JavaScript" src="/discover/jscripts/acquisitions/mbox.js"></script><style>.mboxDefault { visibility:hidden; }</style>
     <link href="/css/global.css" rel="stylesheet" type="text/css">
 	
     <link href="/credit-cards/help-center/css/styles.css" rel="stylesheet" type="text/css">
@@ -30,10 +29,9 @@
         <div id="global-header-wrap" class="searchable">
             <div id="global-header" class="">
                 <a href="https://www.discover.com/index.html" title="DISCOVER" class="discover-logo">DISCOVER</a>
-	<form class="global-header-search-module search-form" name="search" method="get" action="https://search.discover.com/search">
+	<form id="suggestion_form" class="global-header-search-module search-form" name="search" method="get" action="https://search.discover.com/search" autocomplete="off">
         <fieldset>
-			<input class="search-box" id="searchbox" type="text" placeholder="search" autocomplete="off" name="q" maxlength="256">
-			<a href="#searchbox" id="clear-livesearch" class="hide">x</a>
+			<input class="search-box" id="searchbox" type="text" placeholder="search" name="q" maxlength="256" onkeyup="ss_handleKey(event)">
 			<input type="hidden" name="site" value="internet_cm_corp">
 			<input type="hidden" name="getfields" value="*">
 			<input type="hidden" name="client" value="internet_cm_fe">
@@ -42,6 +40,10 @@
          <input class="search-btn" type="submit" value="">
         </fieldset>
      </form>
+	 <div id="searchbox-ss">
+<table id="search_suggest" style="visibility: hidden;"></table>
+</div>
+
                 <ul class="global-header-tabs">
                     <li class="global-header-tab-wrap">
                         <div class="global-header-tab">
@@ -75,6 +77,17 @@
                                                     <!--<li><a href="https://mystatus.homeloancenter.com/Account/HLCLogOn?ICMPGN=HDR_LOGN_HMLOAN_REG" title="Home Loans Register Now">Register Now</a></li>-->
                                                 </ul>
                                             </li> 
+											
+											
+											
+										<li>Home Equity Loans
+                                                <ul>
+                                                    <li><a href="https://dmimtg.com/UserLogin.aspx?Conn=T85{37843404-4237-4EC7-8451-0C682794D6D4}" onclick="s.linkTrackVars=s.linkTrackVars+',prop1';
+s.prop1='HDR_LOGN_HEL_TXT_HP'; s.tl(this,'o','Header:HomeEquity:Login');" title="Home Equity Loans Log In">Log In</a></li>
+                                                </ul>
+                                            </li>
+											
+											
                                             <li>Student Loans
                                                 <ul>
                                                     <li><a href="https://www.discoverstudentloans.com/MFA/EnterUsername.aspx?ReturnUrl=/THEOOnline/login.asp&amp;DEST=THEO&amp;Username=&amp;acmpgn=O_DC_PR_X_HDL01&amp;ICMPGN=HDR_LOGN_STUDLOAN_LOGN" title="Student Loans Log In">Log In</a></li>
@@ -133,14 +146,15 @@
                                             <li>Loans
                                                 <ul>
                                                     <li><a href="/home-loans/?ICMPGN=HDR_ALLPS_DHL_TXT_HP" title="Home Loans">Home Loans</a></li>
-                                                    <li><a href="http://www.discoverstudentloans.com/home.aspx?acmpgn=O_DC_PR_X_HDA01&amp;ICMPGN=HDR_ALLPS_LOAN_STUD" title="Student Loans">Student Loans</a></li>
+													<li><a href="/home-equity-loans/?ICMPGN=HDR_ALLPS_HEL_TXT_HP">Home Equity Loans</a></li>
+                                                    <li><a href="https://www.discover.com/student-loans/?acmpgn=O_DC_PR_X_HDA01" title="Student Loans">Student Loans</a></li>
                                                     <li class="last"><a href="https://www.discover.com/personal-loans/?ICMPGN=HDR_ALLPS_LOAN_PERS" title="Personal Loans">Personal Loans</a></li>
                                                 </ul>
                                             </li>
                                             <li class="last" title="Additional Products">Additional Products
                                                 <ul>
                                                     <li><a href="/gift-cards/index.shtml?ICMPGN=HDR_ALLPS_ADDI_GIFTCRD" title="Gift Cards">Gift Cards</a></li>
-                                                    <li><a href="/credit-cards/send-money/?ICMPGN=HDR_ALLPS_ADDI_MONMES" title="Money Messenger">Money Messenger</a></li>
+                                                    
 													<li><a href="/credit-cards/member-benefits/mobile/index.html?ICMPGN=HDR_ALLPS_ADDI_MOBILE" title="Discover Mobile">Discover Mobile</a></li>
 								                    <li class="last"><a href="/credit-cards/google-wallet/index.html?ICMPGN=HDR_ALLPS_ADDI_WALLET" title="Mobile Wallet">Mobile Wallet</a></li>
                                                 </ul>
@@ -178,6 +192,7 @@
                                             <li>
                                                 <ul>
                                                     <li><a href="/home-loans/?ICMPGN=HDR_CS_HELP_DHL_TXT_HP" title="Home Loans">Home Loans</a></li>
+													<li><a href="/home-equity-loans/help-center/?ICMPGN=HDR_CS_HELP_HEL_TXT_HP" title="Home Loans">Home Equity Loans</a></li>
                                                     <li><a href="https://www.discover.com/student-loans/help/customer-service.html?ICMPGN=HDR_CS_HELP_SL" title="Student Loans">Student Loans</a></li>
                                                     <li><a href="https://www.discover.com/personal-loans/help-center/?ICMPGN=HDR_CS_HELP_PERSLOAN" title="Personal Loans">Personal Loans</a></li>
                                                 </ul>
@@ -236,7 +251,7 @@
 	<!-- /header -->
 	
 	<!-- top navigation -->
-	<div class="mboxDefault" style="visibility: visible; display: block;">
+
 	<div id="global-nav">
 		<ul>
 			<li class="first"><a class="ico-home" href="/credit-cards/" title="Credit Card">Credit Card Home</a></li>
@@ -246,10 +261,8 @@
 			<li class="active"><a class="current" href="/credit-cards/help-center/" title="Help Center">Help Center</a></li>
 		</ul>
 	</div>
-	</div>
-<script type="text/javascript">
-	mboxCreate('beyond_help_center_subnav');
-</script><div id="mboxMarker-default-beyond_help_center_subnav-0" style="visibility:hidden;display:none">&nbsp;</div><script src="https://discover.tt.omtrdc.net/m2/discover/mbox/standard?mboxHost=web.archive.org&amp;mboxSession=1580433828750-433339&amp;mboxPage=1580433832482-966294&amp;mboxCount=1&amp;mbox=beyond_help_center_subnav&amp;mboxId=0&amp;mboxTime=1580433832652&amp;mboxURL=https%3A%2F%2Fweb.archive.org%2Fweb%2F20130529181319id_%2Fhttps%253A%2F%2Fwww.discover.com%2Fcredit-cards%2Fhelp-center%2Faccount%2Fprivacy-policies%2Findex.html&amp;mboxReferrer=&amp;mboxVersion=38" language="JavaScript"></script>
+	
+
 	<!-- /top navigation -->
 
 	
@@ -278,7 +291,7 @@
 				
 				<div class="article">
 					<div class="left">
-						<p id="revision-number">Rev. 8/12</p>
+						<p id="revision-number">Rev. 8/13</p>
 						<div class="policy">
 							<table border="0" cellpadding="0" cellspacing="0" class="summary">
 								<tbody>
@@ -430,7 +443,7 @@
 											<p>Who is providing this notice?</p>
 										</td>
 										<td class="last">
-											<p>This privacy policy is being provided by Discover Bank and applies to the family of Discover cards for consumers and the products and services offered in connection with those cards.</p>
+											<p>This privacy policy is being provided by Discover Bank and applies to the family of Discover cards for consumers and businesses and the products and services offered in connection with those cards.</p>
 										</td>
 									</tr>
 									<tr valign="top">
@@ -537,9 +550,9 @@ GTC Insurance Agency, Inc.</li>
 									</tr>
 									<tr valign="top">
 										<td class="no-cells">
-											<p><strong>Vermont Residents –</strong> Except as permitted by law, we will not share information we collect about you with nonaffiliates or affiliates unless you call us at <strong>1-800-347-2683</strong> and authorize us to do so.</p>
+											<p><strong>Vermont Residents –</strong> Except as permitted by law, we will not share information we collect about you with nonaffiliates or affiliates.</p>
 											<p><strong>California Residents –</strong> Except as permitted by law, we will not share information we collect about you with nonaffiliates or joint marketing partners while you are a resident of California.</p>
-											<p><strong>Nevada Residents –</strong> You may call <strong>1-800-347-2683</strong> to be placed on our Do Not Call List. For more information, mail Discover Card, P.O. Box 30943, Salt Lake City, UT 84130, or visit <a href="https://www.discover.com" title="discovercard.com">www.discovercard.com</a>. You may also contact the Bureau of Consumer Protection, Office of the Nevada Attorney General, 555 E. Washington St., Suite 3900, Las Vegas, NV 89101, call 702-486-3132, or e-mail <a href="mailto:BCPINFO@ag.state.nv.us" title="BCPINFO@ag.state.nv.us">BCPINFO@ag.state.nv.us</a>. This notice is provided pursuant to state law.</p>
+											<p><strong>Nevada Residents –</strong> You may call <strong>1-800-347-2683</strong> to be placed on our Do Not Call List. For more information, mail Discover Card, P.O. Box 30943, Salt Lake City, UT 84130, or visit <a href="https://www.discover.com" title="discover.com">www.discover.com</a>. You may also contact the Bureau of Consumer Protection, Office of the Nevada Attorney General, 555 E. Washington St., Suite 3900, Las Vegas, NV 89101, call 702-486-3132, or e-mail <a href="mailto:BCPINFO@ag.state.nv.us" title="BCPINFO@ag.state.nv.us">BCPINFO@ag.state.nv.us</a>. This notice is provided pursuant to state law.</p>
 										</td>
 									</tr>
 								</tbody>
@@ -549,13 +562,16 @@ GTC Insurance Agency, Inc.</li>
 					  </div>
 				</div>
 					<div class="right">
-						<a id="print-pdf" href="/credit-cards/help-center/account/privacy-policies/assets/PrivacyPolicy.pdf">View as PDF</a>
+						<a id="print-pdf" href="/credit-cards/help-center/account/privacy-policies/assets/PrivacyPolicy.pdf?8/13">View as PDF</a>
 						<div class="policynav">
 							<p><strong>Privacy Policies</strong></p>
 							<p>We provide our privacy policies online so you can understand the steps we have taken to safeguard your personal information. Read more by clicking the links below.</p>
 							<p class="policylink"><strong>Discover Card Privacy Policy</strong></p>
-							<p class="policylink"><a title="Discover Business Card Privacy Policy" href="/credit-cards/help-center/account/privacy-policies/business-card-policy.html">Discover Business Card Privacy Policy</a></p>
+							
 							<p class="policylink"><a title="Discover Home Loans Privacy Policy" href="https://www.discover.com/home-loans/privacy-policy/">Discover Home Loans Privacy Policy</a></p>
+							<!--Home Equity Loans link added on 9/12-->
+							<p class="policylink"><a title="Discover Home Equity Loans Privacy Policy" href="https://www.discover.com/home-equity-loans/privacy-policy">Discover Home Equity Loans Privacy Policy</a></p>
+							<!--End Home Equity Loans-->
 							<p class="policylink"><a title="Discover Personal Loans Privacy Policy" href="http://www.discoverpersonalloans.com/ploans/html/privacypolicy/ac_privacy_policy.shtml">Discover Personal Loans Privacy Policy</a></p>
 							<p class="policylink"><a title="Discover Student Loans Privacy Policy" href="http://www.discoverstudentloans.com/policies/privacy-policy.aspx">Discover Student Loans Privacy Policy</a></p>
 							<p class="policylink"><a title="Discover Savings Privacy Policy" href="http://www.discoverbank.com/privacy-policy.html">Discover Savings Privacy Policy</a></p>
@@ -577,7 +593,7 @@ GTC Insurance Agency, Inc.</li>
 	<!--BEGIN: global footer-->
         <div id="global-social-footer">
             <ul>
-                <li class="social-footer-why-discover"><a href="/why-discover/" title="Why Discover">Why Discover</a></li>
+                
 				<li class="social-footer-watch-peggy"><a href="https://www.discovercard.com/scripts/PageExit.htm?log=1&amp;ICMPGN=LAFTR_WATCHPEGGY&amp;v_eurl=http://www.youtube.com/user/Discover" title="Watch Discover on YouTube">Watch Discover</a></li>
                 <li class="social-footer-facebook"><a href="https://www.discovercard.com/scripts/PageExit.htm?log=1&amp;ICMPGN=LAFTR_FB&amp;v_eurl=http://www.facebook.com/discover" title="Find Discover on Facebook">Facebook</a></li>
                 <li class="social-footer-twitter"><a href="https://www.discovercard.com/scripts/PageExit.htm?log=1&amp;ICMPGN=LAFTR_TW&amp;v_eurl=http://twitter.com/Discover" title="Find Discover on Twitter">Twitter</a></li>
@@ -616,10 +632,10 @@ GTC Insurance Agency, Inc.</li>
                         <ul>
                             <li><a href="https://www.discover.com/online-banking/?ICMPGN=FTR_OTHER_SAVING" title="Banking">Banking</a></li>
 					<li><a href="/home-loans/?ICMPGN=FTR_OTHER_DHL_TXT_HP" title="Home Loans">Home Loans</a></li>
-                            <li><a href="http://www.discoverstudentloans.com/home.aspx?acmpgn=O_DC_PR_X_FT01" title="Student Loans">Student Loans</a></li>
+					<li><a href="/home-equity-loans/?ICMPGN=FTR_OTHER_HEL_TXT_HP" title="Home Equity Loans">Home Equity Loans</a></li>
+                            <li><a href="https://www.discover.com/student-loans/?acmpgn=O_DC_PR_X_FT01" title="Student Loans">Student Loans</a></li>
                             <li><a href="https://www.discover.com/personal-loans/?ICMPGN=FTR_OTHER_PERSLOAN" title="Personal Loans">Personal Loans</a></li>
                             <li><a href="/gift-cards/index.shtml?ICMPGN=FTR_OTHER_GIFTCRD" title="Gift Cards">Gift Cards</a></li>
-							<li><a href="/credit-cards/send-money/?gcmpgn=0311_ZZ_srch_gsap_txt" title="Money Messenger">Money Messenger</a></li>
                             <li><a href="/credit-cards/google-wallet/index.html" title="Mobile Wallet">Mobile Wallet</a></li>
 							<li><a href="/credit-cards/member-benefits/balance-transfer.html?ICMPGN=FTR_OTHER_BT" title="Balance Transfer">Balance Transfer</a></li>
                         </ul>
@@ -641,27 +657,16 @@ GTC Insurance Agency, Inc.</li>
                     <div class="link-group last">
                         <span class="ul-header" title="ABOUT US">ABOUT US</span>
                         <ul>
-                            <li><a href="http://www.discoverfinancial.com/our-company/?ICMPGN=FTR_ABTUS_ABTDISC" title="About Discover">About Discover</a></li>
-                            <li><a href="http://www.discoverfinancial.com/corporate-responsibility/financial-education/?ICMPGN=FTR_ABTUS_FINEDU" title="Financial Education">Financial Education</a></li>
+                            <li><a href="/company/?ICMPGN=FTR_ABTUS_ABTDISC" title="About Discover">About Discover</a></li>
+                            <li><a href="/company/corporate-responsibility/financial-education/?ICMPGN=FTR_ABTUS_FINEDU" title="Financial Education">Financial Education</a></li>
                             <li><a href="http://investorrelations.discoverfinancial.com/phoenix.zhtml?c=204177&amp;p=irol-IRHome&amp;ICMPGN=FTR_ABTUS_INVRELA" title="Investor Relations">Investor Relations</a></li>
-                            <li><a href="http://www.discoverfinancial.com/newsroom/?ICMPGN=FTR_ABTUS_NEWS" title="Newsroom">Newsroom</a></li>
+                            <li><a href="/company/newsroom/?ICMPGN=FTR_ABTUS_NEWS" title="Newsroom">Newsroom</a></li>
                             <li><a href="http://www.mydiscovercareer.com/?ICMPGN=FTR_ABTUS_CAR" title="Careers">Careers</a></li>
                         </ul>
                     </div>
                 </div>
                 <div class="secondary-links-wrap">
-                    <form class="global-footer-search-module search-form" method="get" action="https://search.discover.com/search">
-                        <fieldset>
-                            <input class="search-box" id="" type="text" placeholder="search" autocomplete="off" name="q" maxlength="256">
-                            <input type="hidden" name="site" value="internet_cm_corp">
-			                  <input type="hidden" name="getfields" value="*">
-   			               <input type="hidden" name="client" value="internet_cm_fe">
-	   		               <input type="hidden" name="output" value="xml_no_dtd">
-		   	               <input type="hidden" name="proxystylesheet" value="internet_cm_fe">
-                            <input class="search-btn" type="submit" value="" title="search">
-                        </fieldset>
-                    </form>
-                    <ul>
+                         <ul>
                         <li><a href="/site-map/index.html" title="Site Map">Site Map</a></li>
                         <li><a href="/credit-cards/help-center/terms-of-use.html" title="Terms of Use">Terms of Use</a></li>
                         <li><a href="/credit-cards/member-benefits/security/index.html" title="Security">Security &amp; Protection</a></li>
@@ -726,7 +731,7 @@ if(s_code)document.write(s_code);
 </div>
 <script type="text/javascript" src="/scripts/src/mcd/dom.js"></script>
 <script type="text/javascript" src="/scripts/src/mcd/event.js"></script>
-<script type="text/javascript" src="/scripts/src/discover/liveSearch.js"></script> 
+<script type="text/javascript" src="/scripts/src/discover/sSearch.js"></script> 
 <script type="text/javascript" src="/scripts/header.js"></script>
 	<!-- /footer -->
 </div>
