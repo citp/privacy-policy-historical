@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the kipp.org privacy policy that was archived on 2013-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130430154904id_/http%3A//kipp.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kipp.org privacy policy that was archived on 2013-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131024001442id_/http%3A//www.kipp.org/privacy-policy) for the most accurate reproduction.*
 
-# KIPP Public Charter Schools | Knowledge Is Power Program - Privacy Policy
+# Privacy Policy - KIPP Public Charter Schools | Knowledge Is Power Program
 
 The KIPP Foundation greatly respects the privacy of users of this web site. The current privacy policy of this web site is as follows:
 
@@ -13,7 +13,3 @@ If you write in a comment, we ask that you provide your name, e-mail address, an
 The KIPP Foundation will not sell your personally identifiable information. The KIPP Foundation may share the information, including your comments, with third parties to further the mission and purposes of the KIPP Foundation. However, if you indicate that you would like your personal information or comments kept confidential, then we will do so.
 
 By using this web site, you agree to the terms of this policy. If you do not agree with this policy, please do not access or use this web site. This policy is subject to change from time to time at the KIPP Foundation's discretion; the current policy will be posted here. Please re-check this link accordingly. Finally, please note that the KIPP Foundation is not responsible for the content or privacy practices of other sites that may link to this site, or to which this site may link.
-
-KIPP is committed to equal treatment for all individuals. KIPP does not discriminate on the basis of race, color, gender, disability, age, religion, sexual orientation, or national or ethnic origin. 
-
-Copyright © 2013 KIPP Foundation. All rights reserved. 
