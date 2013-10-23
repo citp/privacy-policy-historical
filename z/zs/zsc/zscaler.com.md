@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the zscaler.com privacy policy that was archived on 2013-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130424064353id_/http%3A//www.zscaler.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zscaler.com privacy policy that was archived on 2013-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131023101239id_/http%3A//zscaler.com/privacy-policy.php) for the most accurate reproduction.*
 
-# Zscaler Cloud Security : SaaS Web Security, Web Security, URL Filtering, Internet Security
+# Zscaler Privacy Statement | Zscaler
 
 ##### Effective May 20, 2011
 
