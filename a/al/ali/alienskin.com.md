@@ -1,50 +1,51 @@
-> *The following text is extracted and transformed from the alienskin.com privacy policy that was archived on 2005-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050923131803id_/http%3A//www.alienskin.com/about_us/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alienskin.com privacy policy that was archived on 2013-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131023100750id_/http%3A//www.alienskin.com/about_us/privacy.aspx) for the most accurate reproduction.*
 
-# Alien Skin Privacy Policy
+# Alien Skin Software Privacy Policy
 
-|   | 
+  
 
-**Alien Skin Software Privacy Policy**
 
-Unless otherwise specified below, Alien Skin Software will **not** sell, trade, rent or loan the personal information you provide us to another company without your permission, unless the cops hand us a warrant or something. We respect your right to privacy. 
+#### company
 
-**How We Collect What We Collect**  
-We collect information when you order from us, when you download demo and/or public beta software, and when you register with us. We keep two separate lists: an email list, and a postal mail list. We will never make the email list available to any other company; it is used only by Alien Skin for new product and upgrade announcements, special offers, tech support issues and the like. We do occasionally make postal mail addresses available to select partners, but only if you have given us permission. 
+| 
+
+This privacy policy governs our online store and website. Refer to our [app privacy policy](https://web.archive.org/web/20131023100750id_/http%3A//www.alienskin.com/about_us/app_privacy.aspx) for information about our software products.
+
+Below are the circumstances in which we collect contact information and an explanation of what we do with it.
 
 **When You Order from Us**  
-We collect information necessary to complete your order, including your name, company name (if applicable), email address, shipping address and phone number. 
+We collect information necessary to complete your order and deliver it to you. This usually includes your name, email address, shipping address and phone number. 
 
-When you buy our software over the phone and pay by credit card, we collect your card number and expiration date. This information is kept with your personal information in our database of registered users, and will never be shared with any other company. If you buy our software via our online store, we store only the last four digits of your card number. 
-
-When you order from our online store, you are given the choice of receiving further information from them about product updates, upgrades and special offers. If you check the relevant box, we will also place you on the Alien Skin email list. If you don't check the box, you will not be placed on Alien Skin's mailing lists (although you will still be registered with us). 
-
-When you buy software from our partner store, software created not by us, but by one of our partners, we may share your name, address and email information with the software maker. This makes it easier for you to get support in case of a problem. 
-
-**When You Download Demo and/or Public Beta Software**  
-If you download a demo or a public beta version of one of our products, we will request your email address. We will send you a reminder that you are using a demo or a public beta version and add you to our email announcement list. To have your name removed from our mailing list, simply reply to the email with the word "Remove" in the subject line. 
+If you give us a credit card number, we will only keep it around long enough to process the order. Afterward, we retain only the last four digits.
 
 **When You Register with Us**  
-If you buy one of our products elsewhere and register with us, either online or by sending in your registration card, we will keep your registration code along with your contact information: name, address, phone, email and platform. 
+If you buy one of our products elsewhere, you can register with us through our web site. During that process, we will collect your product license code along with your contact information: name, address, phone, email and platform.
 
-At the point of registration, you are free to decline to be our email list when you register with us, either online or via your mail-in registration card. We use this list to announce new product information, upgrades, patches and special deals to our users, and will not share it with anyone else without customer permission. 
+**Mailing List Use**  
+We use the list approximately once a month to e-mail our newsletter. We also use it a few times a year for new product announcements or sales. It is rarely used for anything else because we don’t want you to get sick of us.
 
-At the point of registration, we do ask if you will allow us to make your postal mail information available to a select few other companies with whom we work closely. If you decline, we will never trade or sell your postal information. 
+When you place an order in our store or register a product with us, we will send an email invitation to join our mailing list if you aren’t already on it. You will only be subscribed if you click the opt-in link in that email message. 
 
-Under no circumstances will we make your email address available to anyone else. Replying to any email we send with the word "Remove" will remove your name from our mailing list. 
+Any message sent to our mailing list has an option at the bottom for being removed from the list. Just click that link and you won’t hear from us again.
+
+**Sharing Personal Information**  
+We do not share your personal information with other companies.
+
+We may share information with the police if legally required to do so or if we are investigating illegal activities such as suspected fraud.
 
 **Updating Your Information with Us**  
-You can easily update or delete your contact information, or ask to be added or removed from our mailing list, at any time. Simply phone, fax, email or mail us with your request: 
+You can easily update or delete your contact information, or ask to be added or removed from our mailing list, at any time. Simply phone, email or mail us with your request:
 
   * Toll-free in US: 888.921.SKIN (7546)
   * Non-US callers: 1.919.832.4124
   * Fax: 919.832.4065
-  * Email: [alien-skinfo@alienskin.com](mailto:alien-skinfo@alienskin.com)
+  * Email: Contact us through our support form [here](http://support.alienskin.com/).
   * Mail: 1111 Haynes Street, Suite 113  
 Raleigh, NC 27604
 
-  
 
 
-[last modified: July 12, 2005]   
+[last modified: Nov 7, 2012] 
+
   
----|---
+
