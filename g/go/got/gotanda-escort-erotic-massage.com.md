@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gotanda-escort-erotic-massage.com privacy policy that was archived on 2013-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130625101335id_/http%3A//www.gotanda-escort-erotic-massage.com/company/pp.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gotanda-escort-erotic-massage.com privacy policy that was archived on 2013-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131023162827id_/http%3A//www.gotanda-escort-erotic-massage.com/company/pp.php) for the most accurate reproduction.*
 
 # Privacy Policy Gotanda Escort Erotic Massage Club
 
