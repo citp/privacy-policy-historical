@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the discoverbank.com privacy policy that was archived on 2013-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130424053655id_/https%3A//www.discover.com/online-banking/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the discoverbank.com privacy policy that was archived on 2013-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131023044437id_/https%3A//www.discover.com/online-banking/privacy-policy.html) for the most accurate reproduction.*
 
 # Online Banking Privacy Policy | Discover Bank
 
@@ -6,7 +6,7 @@ Facts |
 
 What Does Discover BankDo With Your Personal Information?
 
-| Rev. 10/12  
+| Rev. 09/13  
 ---|---|---  
 Why? | 
 
@@ -163,7 +163,7 @@ A formal agreement between nonaffiliated financial companies that together marke
 Other important information  
 ---  
   
-**Vermont Residents —** Except as permitted by law, we will not share information we collect about you with nonaffiliates or affiliates unless you call us at **1-866-402-1048** and authorize us to do so.
+**Vermont Residents —** Except as permitted by law, we will not share information we collect about you with nonaffiliates or affiliates.
 
 **California Residents —** Except as permitted by law, we will not share information we collect about you with nonaffiliates or joint marketing partners while you are a resident of California.
 
