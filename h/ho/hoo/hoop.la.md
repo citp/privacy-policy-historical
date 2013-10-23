@@ -1,14 +1,15 @@
-> *The following text is extracted and transformed from the hoop.la privacy policy that was archived on 2013-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130520120830id_/http%3A//socialstrata.com/docs/privacy_policy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hoop.la privacy policy that was archived on 2013-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131024012955id_/http%3A//socialstrata.com/docs/privacy_policy.pdf) for the most accurate reproduction.*
 
 # Social Strata Privacy Policy
 
 Social Strata Privacy Policy
-Last Updated: December 9, 2011
+Last Updated: September 10, 2013
 This Privacy Policy (“Policy”) applies to all products, services, and websites operated by Social Strata, Inc.
 (“Social Strata”).
 Social Strata is registered with the U.S. Department of Commerce's Safe Harbor Program. This means that
 we comply with the Safe Harbor principles of Notice, Choice, Onward Transfer, Security, Data Integrity,
-Access, and Enforcement.
+Access, and Enforcement. To learn more about the Safe Harbor program, and to view Social Strata’s
+certification, please visit http://www.export.gov/safeharbor/.
 Information That We Collect
 Information That You Provide Us
 When you sign up for any account or service operated by Social Strata, we store all information that you
@@ -38,9 +39,9 @@ Uses of Collected Information
 Social Strata uses collected information to enhance your experience online, authenticate you when you sign
 in, send notifications, fulfill your requests for services, contact you, customize the advertising or content
 that you see, and provide anonymous reporting for internal and external clients.
+
+
 Information Sharing
-
-
 Social Strata does not share personal information with other individuals, organizations, or companies
 outside of Social Strata, unless we have your consent or unless:
      • We are working with trusted partners who agree to abide by the rules of this Policy and have
@@ -70,10 +71,10 @@ we only collect, store, and process the personal information needed to provide o
 our users to update or correct their own personal information.
 Enforcement
 Social Strata periodically reviews its compliance with the Policy. If you have questions or concerns, please
-contact us at: Social Strata, Inc., ATTN: Social Strata Privacy Administrator, PO Box 1102, Isle of Palms,
-SC 29451, USA. If you contact us at this address with your concerns/questions, we will respond. Social
-Strata will also cooperate with the appropriate regulatory authorities to resolve any complaints regarding
-the transfer of personal information that cannot be resolved between Social Strata and you.
+contact us at: Social Strata, Inc., ATTN: Social Strata Privacy Administrator, 1985 Riviera Drive, Mount
+Pleasant, SC 29464, USA. If you contact us at this address with your concerns/questions, we will respond.
+Social Strata will also cooperate with the appropriate regulatory authorities to resolve any complaints
+regarding the transfer of personal information that cannot be resolved between Social Strata and you.
 Confidentiality and Security
 Social Strata restricts access to personal information to Social Strata employees, contractors, and agents
 who need to access the information in order to operate, sustain, improve, or repair our services. These
@@ -81,11 +82,11 @@ individuals are bound to confidentiality agreements and may be subject to discip
 and criminal prosecution, if they fail to meet these obligations.
 We take appropriate security measures to protect your information. These measures include physical,
 electronic, and procedural safeguards, as well as software/system security reviews.
+
+
 Updating Your Personal Information
 If you have a hoo.do account, you can edit your account information at any time online. You will need to
 sign in to edit your account information. You may also request to have your account deleted entirely. Please
-
-
 note, however, that requests for account deletion may take up to 30 days to process and archived versions
 of your information may remain in our system after deletion.
 Changes to This Policy
