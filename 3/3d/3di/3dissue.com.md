@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the 3dissue.com privacy policy that was archived on 2013-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130605044602id_/http%3A//www.3dissue.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 3dissue.com privacy policy that was archived on 2013-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131023142630id_/http%3A//www.3dissue.com/privacy-policy.html) for the most accurate reproduction.*
 
-# 3D Issue Privacy Policy | 3D Issue
+# 3D Issue Privacy Policy
 
 This Privacy Policy governs the manner in which 3D Issue collects, uses, maintains and discloses information collected from users (each, a “User”) of the http://www.3dissue.com website (“Site”). This privacy policy applies to the Site and all products and services offered by 3D Issue.
 
