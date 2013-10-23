@@ -1,69 +1,29 @@
-> *The following text is extracted and transformed from the 365celebrations.com privacy policy that was archived on 2013-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130430164850id_/http%3A//365celebrations.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 365celebrations.com privacy policy that was archived on 2013-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131023133421id_/http%3A//www.365celebrations.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy
 
 |   | 
 
-Understand Yourself  
+PhD in Yourself System   
 
-  * [Man and Woman ](https://web.archive.org/web/20130430164850id_/http%3A//365celebrations.com/articles/man_and_woman/dive_into_love.html)
-  * [The Science of Awareness](https://web.archive.org/web/20130430164850id_/http%3A//365celebrations.com/articles/science_awareness/Does_meditation_need_methods.html)
-  * [ The Power of Mind](https://web.archive.org/web/20130430164850id_/http%3A//365celebrations.com/articles/power_mind/Mind_computer.html)
-  * [Find Yourself](https://web.archive.org/web/20130430164850id_/http%3A//365celebrations.com/articles/find_yourself/Grass_greener.html)
-  * [Two-Dimensional Science ](https://web.archive.org/web/20130430164850id_/http%3A//365celebrations.com/articles/two_dimensions/Abundance_both_worlds.html)
-  * [Dive Into Life ](https://web.archive.org/web/20130430164850id_/http%3A//365celebrations.com/articles/dive_life/Perfect_imperfect_life.html)
-  * [The Phenomenon of Emotions](https://web.archive.org/web/20130430164850id_/http%3A//365celebrations.com/articles/emotions/Dive_into_anger.html)
-  * [Start From Physical Body](https://web.archive.org/web/20130430164850id_/http%3A//365celebrations.com/articles/physical_body/Allow_nature_flow.html)[  
-](https://web.archive.org/web/20130430164850id_/http%3A//365celebrations.com/articles/main.html)[   
-](https://web.archive.org/web/20130430164850id_/http%3A//365celebrations.com/articles/main.html)
+  * [What is PhD in Yourself System?](https://web.archive.org/web/20131023133421id_/http%3A//www.365celebrations.com/system/what_PhD_system.html)
+  * [Benefits of the System](https://web.archive.org/web/20131023133421id_/http%3A//www.365celebrations.com/system/benefits.html)
+  * [ How to Learn the System ](https://web.archive.org/web/20131023133421id_/http%3A//www.365celebrations.com/system/learn_system.html)
+  * [Support](https://web.archive.org/web/20131023133421id_/http%3A//www.365celebrations.com/system/support.html)
+  * [Purchase](https://web.archive.org/web/20131023133421id_/http%3A//www.365celebrations.com/purchase.html)  
+[ ](https://web.archive.org/web/20131023133421id_/http%3A//articles/main.html)[   
+](https://web.archive.org/web/20131023133421id_/http%3A//articles/main.html)
 
 
 
-Personal Success 
+Partners
 
-  * [Become a Happy Personal Achiever](https://web.archive.org/web/20130430164850id_/http%3A//365celebrations.com/Happy_Personal_Achiever/main.html)
-  * [Self-Awareness as the Foundation](https://web.archive.org/web/20130430164850id_/http%3A//365celebrations.com/Happy_Personal_Achiever/self-awareness.html)  
-\- [action exercises ](https://web.archive.org/web/20130430164850id_/http%3A//365celebrations.com/Happy_Personal_Achiever/self-awareness_exercises.html)
-  * [Developing Personality](https://web.archive.org/web/20130430164850id_/http%3A//365celebrations.com/Happy_Personal_Achiever/develop_personality.html)  
-\- [personal beliefs](https://web.archive.org/web/20130430164850id_/http%3A//365celebrations.com/Happy_Personal_Achiever/personal_beliefs_values.html)  
-\- [set strategic goals](https://web.archive.org/web/20130430164850id_/http%3A//365celebrations.com/Happy_Personal_Achiever/set_strategic_goals.html)  
-\- [develop positive attitude](https://web.archive.org/web/20130430164850id_/http%3A//365celebrations.com/Happy_Personal_Achiever/Develop_positive_attitude.html)  
-\- [boost your creativity](https://web.archive.org/web/20130430164850id_/http%3A//365celebrations.com/Happy_Personal_Achiever/boost_creativity_achieve_goals.html)  
-\- [build self-confidence](https://web.archive.org/web/20130430164850id_/http%3A//365celebrations.com/Happy_Personal_Achiever/confidence_motivation.html)  
-\- [start acting ](https://web.archive.org/web/20130430164850id_/http%3A//365celebrations.com/Happy_Personal_Achiever/Act_achieve_goals.html)
+  * [Resellers](https://web.archive.org/web/20131023133421id_/http%3A//www.365celebrations.com/Partners/resellers.html)
+  * [Coachers](https://web.archive.org/web/20131023133421id_/http%3A//www.365celebrations.com/Partners/coachers.html)
+  * [Corporations](https://web.archive.org/web/20131023133421id_/http%3A//www.365celebrations.com/Partners/corporations.html)
 
 
-  * [Find Balance in Your Life ](https://web.archive.org/web/20130430164850id_/http%3A//365celebrations.com/Happy_Personal_Achiever/balance_life.html)
-
-
-
-Professional Success 
-
-  * [Become a Happy Professional Achiever](https://web.archive.org/web/20130430164850id_/http%3A//365celebrations.com/Happy_Professional_Achiever/main.html)
-  * [The Power of Leadership  
-](https://web.archive.org/web/20130430164850id_/http%3A//365celebrations.com/Happy_Professional_Achiever/Power_leadership.html)\- [15 leadership roles](https://web.archive.org/web/20130430164850id_/http%3A//365celebrations.com/Happy_Professional_Achiever/Leadership_Management_Synergy.html)  
-\- [foundation of leadership](https://web.archive.org/web/20130430164850id_/http%3A//365celebrations.com/Happy_Professional_Achiever/Foundation_Leadership.html)  
--[ 26 leadership-management lessons](https://web.archive.org/web/20130430164850id_/http%3A//365celebrations.com/Happy_Professional_Achiever/Leadership_Management_Lessons.html)
-  * [The Power of Knowledge  
-](https://web.archive.org/web/20130430164850id_/http%3A//365celebrations.com/Happy_Professional_Achiever/Build_cross-functional_excellence.html)\- [cross-functional learning](https://web.archive.org/web/20130430164850id_/http%3A//365celebrations.com/Happy_Professional_Achiever/Build_cross-functional_excellence.html)   
-\- [learn by doing ](https://web.archive.org/web/20130430164850id_/http%3A//365celebrations.com/Happy_Professional_Achiever/Learn_by_doing.html)  
-\- [manage failures](https://web.archive.org/web/20130430164850id_/http%3A//365celebrations.com/Happy_Professional_Achiever/Manage_failures.html)   
-\- [become a strategic thinker](https://web.archive.org/web/20130430164850id_/http%3A//365celebrations.com/Happy_Professional_Achiever/Become_strategic_thinker.html)
-  * [Creative Problem Solving](https://web.archive.org/web/20130430164850id_/http%3A//365celebrations.com/Happy_Professional_Achiever/Unlock_your_creativity.html)  
-\- [unlock your creativity](https://web.archive.org/web/20130430164850id_/http%3A//365celebrations.com/Happy_Professional_Achiever/Unlock_your_creativity.html)   
-\- [power of 80/20 rule  
-](https://web.archive.org/web/20130430164850id_/http%3A//365celebrations.com/Happy_Professional_Achiever/Power_80-20_rule.html)-[ lateral thinking  
-](https://web.archive.org/web/20130430164850id_/http%3A//365celebrations.com/Happy_Professional_Achiever/Lateral_thinking.html)\- [thinking outside the box ](https://web.archive.org/web/20130430164850id_/http%3A//365celebrations.com/Happy_Professional_Achiever/Thinking_outside_the_box.html)  
--[perfect brainstorming ](https://web.archive.org/web/20130430164850id_/http%3A//365celebrations.com/Happy_Professional_Achiever/Perfect_brainstorming.html)  
-\- [idea evaluation techniques](https://web.archive.org/web/20130430164850id_/http%3A//365celebrations.com/Happy_Professional_Achiever/Idea_Evaluation_Decision_Matrix.html)  
-\- [six thinking hats](https://web.archive.org/web/20130430164850id_/http%3A//365celebrations.com/Happy_Professional_Achiever/Six_Thinking_Hats.html)
-  * [The Power of People Skills  
-](https://web.archive.org/web/20130430164850id_/http%3A//365celebrations.com/Happy_Professional_Achiever/Power_people_skills.html)\- [rules for long-term relationships](https://web.archive.org/web/20130430164850id_/http%3A//365celebrations.com/Happy_Professional_Achiever/Power_people_skills.html)   
-\- [effective communication  
-](https://web.archive.org/web/20130430164850id_/http%3A//365celebrations.com/Happy_Professional_Achiever/Effective_communication.html)\- [face-to-face communication ](https://web.archive.org/web/20130430164850id_/http%3A//365celebrations.com/Happy_Professional_Achiever/Face_face_communication.html)  
-\- [learn body language  
-](https://web.archive.org/web/20130430164850id_/http%3A//365celebrations.com/Happy_Professional_Achiever/Learn_body_language.html)\- [effective speaking and presentation](https://web.archive.org/web/20130430164850id_/http%3A//365celebrations.com/Happy_Professional_Achiever/Lessons_effective_presentation.htm)
-  * [The Power of Intuition](https://web.archive.org/web/20130430164850id_/http%3A//365celebrations.com/Happy_Professional_Achiever/Power_intuition.html)
+  * [Communities](https://web.archive.org/web/20131023133421id_/http%3A//www.365celebrations.com/Partners/communities.html)
 
 
 
@@ -105,7 +65,7 @@ The Author will normally seek a customer's consent for any new uses and disclosu
 
 Limiting the Collecting, Using, Disclosing and Keeping Personal Information 
 
-The Author limits its collection of personal information to only that information which is necessary for the Identified Purposes. The  Author's web sites do not knowingly collect personal information from children.
+The Author limits its collection of personal information to only that information which is necessary for the Identified Purposes. The Author's web sites do not knowingly collect personal information from children.
 
 The Author will not sell, share or trade your personal information with others. The Author does not disclose individual personal information to others, except if required in the course of fulfilling the identified purpose for which it was collected.  
 
@@ -114,7 +74,7 @@ The Author will not sell, share or trade your personal information with others. 
 
 The Author's web sites are committed to permission-based (opted-in) email marketing practices.
 
-The Author does not participate in spamming. Those who enter into business relationships with the Author (including, but not limited to, affiliates ) and choose to promote the  Author's  products or services, or the author's web sites affiliated products or services using spam will have their relationship with the Author immediately terminated. 
+The Author does not participate in spamming. Those who enter into business relationships with the Author (including, but not limited to, affiliates ) and choose to promote the Author's products or services, or the author's web sites affiliated products or services using spam will have their relationship with the Author immediately terminated. 
 
 The Author respects the request of any individual asking to have his/her e-mail address opted-in and opted-out of the Author's database. As well, every e-mail sent by the Author provides an automated unsubscribe option at the bottom of each e-mail. All other unsubscribe requests can easily be processed by sending an e-mail, including the e-mail address you wish to remove.
 
@@ -130,7 +90,8 @@ Access to Personal Information
 
 At the written request of individual the Author will tell him or her what personal information the Author has about the individual , what is being used for and to whom it has been disclosed.
 
-**Questions.**  
+**Questions.**
+
 Any questions and suggestions about the Author's handling of personal information should be directed to:
 
 infosite@365celebrations.com 
@@ -141,6 +102,66 @@ The Author reserves the right to change and update this Policy from time to time
 
 Your continued use of the Author's web sites following the posting of changes to these terms will mean you accept those changes.
 
-**Copyright © Oleg Moskvine, 2010-2012. All Rights Reserved.**
+** ** |  |  |   
+---  
+  
+Taste My Ideas
 
-| 
+[\- Do You Accept Yourself?](https://web.archive.org/web/20131023133421id_/http%3A//www.365celebrations.com/365Club/articles/Do_you_accept_yourself.html)
+
+[\- Man and Woman: Dive Totally Into Love](https://web.archive.org/web/20131023133421id_/http%3A//www.365celebrations.com/365Club/articles/Man_and_Woman_%20Dive_Totally_Into_Love.html)
+
+[\- The Emptiness of Greed](https://web.archive.org/web/20131023133421id_/http%3A//www.365celebrations.com/365Club/articles/Emptiness_greed.html)
+
+[\- Awareness Cannot Be Planned  
+](https://web.archive.org/web/20131023133421id_/http%3A//www.365celebrations.com/365Club/articles/Awareness_cannot_be_planned.html)  
+[\- Does Meditation Need Any Method?   
+](https://web.archive.org/web/20131023133421id_/http%3A//www.365celebrations.com/365Club/articles/Does_meditation_need_any_method.html)  
+[\- Is Life Perfect or Imperfect?](https://web.archive.org/web/20131023133421id_/http%3A//www.365celebrations.com/365Club/articles/Is_life_perfect_or_imperfect.html)
+
+[\- Can You Really Drop the Negative? **  
+** ](https://web.archive.org/web/20131023133421id_/http%3A//www.365celebrations.com/365Club/articles/Can_you_really_drop_the_negative.html)  
+[\- Dive Existentially Into the Phenomenon of Anger](https://web.archive.org/web/20131023133421id_/http%3A//www.365celebrations.com/365Club/articles/Dive_existentially_into_phenomenon_of_anger.html)  
+[  
+](https://web.archive.org/web/20131023133421id_/http%3A//www.365celebrations.com/365Club/articles/Grass_greener.html)[\- The Grass is Always Greener on Your Own Side   
+](https://web.archive.org/web/20131023133421id_/http%3A//www.365celebrations.com/365Club/articles/Grass_greener_on_your_side.html)  
+[\- The Mystery of Inner Emptiness  
+](https://web.archive.org/web/20131023133421id_/http%3A//www.365celebrations.com/365Club/articles/Mystery_of_inner_emptiness.html)  
+[\- Man and Woman: The Anthem of Love   
+](https://web.archive.org/web/20131023133421id_/http%3A//www.365celebrations.com/365Club/articles/Man_and_Woman_%20Anthem_of_Love.htm)  
+[\- Man and Woman: When Honeymoon Never Ends   
+](https://web.archive.org/web/20131023133421id_/http%3A//www.365celebrations.com/365Club/articles/Man_and_Woman_When_Honeymoon_Never_Ends.html)  
+[\- Man and Woman: The Dance of Life ](https://web.archive.org/web/20131023133421id_/http%3A//www.365celebrations.com/365Club/articles/Man_and_Woman_Dance_of_Life.htm) [  
+](https://web.archive.org/web/20131023133421id_/http%3A//www.365celebrations.com/365Club/articles/Man_and_Woman_Dance_of_Life.htm)  
+[\- Allow Nature to Flow Through You ](https://web.archive.org/web/20131023133421id_/http%3A//www.365celebrations.com/365Club/articles/Allow_nature_flow_through_you.html)[  
+](https://web.archive.org/web/20131023133421id_/http%3A//www.365celebrations.com/365Club/articles/Allow_nature_flow_through_you.html)  
+[\- Optimal Physical Activity](https://web.archive.org/web/20131023133421id_/http%3A//www.365celebrations.com/365Club/articles/Optimal_physical_activity.html)  
+  
+[\- Are You The Master of Your Mind?](https://web.archive.org/web/20131023133421id_/http%3A//www.365celebrations.com/365Club/articles/Are_you_the_master_of_your_mind.html)[  
+](https://web.archive.org/web/20131023133421id_/http%3A//www.365celebrations.com/365Club/articles/Are_you_the_master_of_your_mind.html)  
+[\- From Positive Thinking to Awareness](https://web.archive.org/web/20131023133421id_/http%3A//www.365celebrations.com/365Club/articles/From_Positive_Thinking_to_Awareness.html)
+
+[  
+](https://web.archive.org/web/20131023133421id_/http%3A//www.365celebrations.com/365Club/articles/From_Positive_Thinking_to_Awareness.html)  
+[\- A Jump Into Sudden Meditation  
+](https://web.archive.org/web/20131023133421id_/http%3A//www.365celebrations.com/365Club/articles/Jump_Into_Sudden_Meditation.html)  
+
+
+[\- A Dance of the Inner and The Outer Reality  
+](https://web.archive.org/web/20131023133421id_/http%3A//www.365celebrations.com/365Club/articles/Dance_Inner_Outer_Reality.html)  
+[\-  Whether to Fly or Remain on the Earth?  
+](https://web.archive.org/web/20131023133421id_/http%3A//www.365celebrations.com/365Club/articles/Whether_Fly_Or_Remain_On_the_Earth.html)  
+[\- Have an Abundance of Both Worlds   
+](https://web.archive.org/web/20131023133421id_/http%3A//www.365celebrations.com/365Club/articles/Have_Abundance_Both_Worlds.html)  
+
+
+|    
+---  
+   
+  
+Have a Suggestion?
+
+[Email me](https://web.archive.org/web/20131023133421id_/http%3A//www.365celebrations.com/contact.html) your ideas on how to make this site more interesting, valuable and useful for YOU.
+
+   
+ 
