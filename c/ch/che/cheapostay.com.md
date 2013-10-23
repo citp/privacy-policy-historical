@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the cheapostay.com privacy policy that was archived on 2013-01-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130118114412id_/http%3A//www.cheapostay.com/hotels/privacy-policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cheapostay.com privacy policy that was archived on 2013-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131024012659id_/http%3A//www.cheapostay.com/hotels/privacy-policy.asp) for the most accurate reproduction.*
 
 # CheapOstay Privacy Policy
 
 |    Privacy Policy | [](http://www.truste.org/ivalidate.php?url=www.cheapostay.com&sealid=101)  
 ---|---  
 CheapOstay.com is strongly committed to protecting your privacy.  
-FAREPORTAL is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build user’s trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the site [CheapOstay.com](http://www.cheapostay.com/). Because this website wants to demonstrate its commitment to your privacy, we have agreed to disclose our information practices and have our privacy practices reviewed for compliance by TRUSTe. 
+FAREPORTAL is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, organization whose mission is to build user’s trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the site [CheapOstay.com](http://www.cheapostay.com/). Because this website wants to demonstrate its commitment to your privacy, we have agreed to disclose our information practices and have our privacy practices reviewed for compliance by TRUSTe. 
 
 If you purchase a product or service from us, we request certain personally identifiable information from you on our order form. You must provide contact information, such as name, email, and shipping address, as well as financial information, such as credit card number and expiration date. 
 
@@ -80,7 +80,7 @@ To start receiving discounted hotel deals & discounts, sign up for CheapOstay's 
 
 Check your email for a special coupon! 
 
-PLUS, get $15 instantly*  
+PLUS, get $15 instantly ¹  
   
 ---  
   
