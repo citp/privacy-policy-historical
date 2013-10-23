@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the countryoutfitter.com privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621044232id_/http%3A//www.countryoutfitter.com/page/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the countryoutfitter.com privacy policy that was archived on 2013-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131023105812id_/http%3A//www.countryoutfitter.com/page/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy -
 
@@ -69,7 +69,7 @@ If you decide to visit the Country Outfitter website, your visit and any possibl
 
 ## Privacy Policy Changes
 
-Although most changes are likely to be minor and infrequent, Country Outfitter may change its Privacy Policy from time to time, and in our sole discretion. We encourages visitors to frequently check this page for any changes to its Privacy Policy. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change.
+Although most changes are likely to be minor and infrequent, Country Outfitter may change its Privacy Policy from time to time, and in our sole discretion. We encourage visitors to frequently check this page for any changes to its Privacy Policy. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change.
 
 ## Questions
 
