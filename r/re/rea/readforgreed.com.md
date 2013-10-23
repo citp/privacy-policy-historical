@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the readforgreed.com privacy policy that was archived on 2013-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130629161444id_/http%3A//www.readforgreed.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the readforgreed.com privacy policy that was archived on 2013-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131023025521id_/http%3A//www.readforgreed.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Read for Greed!
-
-[](http://www.readforgreed.com/ "Get Best Shopping Deals from Top Online Stores, Money Saving Offers, Discount Coupon Codes, Lowest Online Prices & Lots of Free Product Samples for You.")
 
 readforgreed.com take your privacy seriously. This policy describes what personal information we collect and how we use it. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.
 
