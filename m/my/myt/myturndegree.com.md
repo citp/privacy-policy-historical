@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myturndegree.com privacy policy that was archived on 2013-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130620090309id_/http%3A//myturndegree.com/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myturndegree.com privacy policy that was archived on 2013-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131023021228id_/http%3A//www.myturndegree.com/privacy_policy.asp) for the most accurate reproduction.*
 
 # MyTurnDegree
 
