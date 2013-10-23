@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the discover.com privacy policy that was archived on 2013-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130529181319id_/https%3A//www.discover.com/credit-cards/help-center/account/privacy-policies/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the discover.com privacy policy that was archived on 2013-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131023044735id_/https%3A//www.discover.com/credit-cards/help-center/account/privacy-policies/index.html) for the most accurate reproduction.*
 
 # Discover Card Privacy Policy | Discover Card
 
-Rev. 8/12
+Rev. 8/13
 
 Facts | 
 
@@ -85,7 +85,7 @@ Who is providing this notice?
 
 | 
 
-This privacy policy is being provided by Discover Bank and applies to the family of Discover cards for consumers and the products and services offered in connection with those cards.  
+This privacy policy is being provided by Discover Bank and applies to the family of Discover cards for consumers and businesses and the products and services offered in connection with those cards.  
   
 What we do  
   
@@ -164,8 +164,8 @@ A formal agreement between nonaffiliated financial companies that together marke
 Other important information  
 ---  
   
-**Vermont Residents –** Except as permitted by law, we will not share information we collect about you with nonaffiliates or affiliates unless you call us at **1-800-347-2683** and authorize us to do so.
+**Vermont Residents –** Except as permitted by law, we will not share information we collect about you with nonaffiliates or affiliates.
 
 **California Residents –** Except as permitted by law, we will not share information we collect about you with nonaffiliates or joint marketing partners while you are a resident of California.
 
-**Nevada Residents –** You may call **1-800-347-2683** to be placed on our Do Not Call List. For more information, mail Discover Card, P.O. Box 30943, Salt Lake City, UT 84130, or visit [www.discovercard.com](https://www.discover.com/ "discovercard.com"). You may also contact the Bureau of Consumer Protection, Office of the Nevada Attorney General, 555 E. Washington St., Suite 3900, Las Vegas, NV 89101, call 702-486-3132, or e-mail [BCPINFO@ag.state.nv.us](mailto:BCPINFO@ag.state.nv.us "BCPINFO@ag.state.nv.us"). This notice is provided pursuant to state law.
+**Nevada Residents –** You may call **1-800-347-2683** to be placed on our Do Not Call List. For more information, mail Discover Card, P.O. Box 30943, Salt Lake City, UT 84130, or visit [www.discover.com](https://www.discover.com/ "discover.com"). You may also contact the Bureau of Consumer Protection, Office of the Nevada Attorney General, 555 E. Washington St., Suite 3900, Las Vegas, NV 89101, call 702-486-3132, or e-mail [BCPINFO@ag.state.nv.us](mailto:BCPINFO@ag.state.nv.us "BCPINFO@ag.state.nv.us"). This notice is provided pursuant to state law.
