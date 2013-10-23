@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the heresy-online.net privacy policy that was archived on 2010-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101101085030id_/http%3A//www.heresy-online.net/forums/showpost.php%3Fp%3D622337%26postcount%3D2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the heresy-online.net privacy policy that was archived on 2013-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131023233632id_/http%3A//www.heresy-online.net/forums/showpost.php%3Fp%3D622337%26postcount%3D2) for the most accurate reproduction.*
 
-# Heresy-Online - Warhammer 40k and Fantasy Forums - View Single Post - Copyright Information
+# Heresy-Online - Wargaming Discussion and 40k Rumors Forums - View Single Post - Copyright Information
 
 **Privacy Policy**  
 This privacy policy sets out how Heresy Online uses and protects any information that you give Heresy Online when you use this website.
@@ -44,3 +44,6 @@ You may choose to restrict the collection or use of your personal information in
 We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting.
 
 If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect.
+
+**Cookies & 3rd Party Advertisements** Google, as a third party vendor, uses cookies to serve ads on your site. Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).  
+We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit <http://www.networkadvertising.org/managing/opt_out.asp>. 
