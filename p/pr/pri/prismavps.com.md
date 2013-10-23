@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the prismavps.com privacy policy that was archived on 2012-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121125232701id_/http%3A//www.prismavps.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prismavps.com privacy policy that was archived on 2013-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131023130533id_/http%3A//www.prismavps.com/privacy.php) for the most accurate reproduction.*
 
 # PrismaVPS - Budget VPS Servers - Contact Us
 
