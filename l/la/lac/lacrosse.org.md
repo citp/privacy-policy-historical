@@ -1,14 +1,20 @@
-> *The following text is extracted and transformed from the lacrosse.org privacy policy that was archived on 2012-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121130164751id_/http%3A//www.uslacrosse.org/TopNav/Membership/USLacrossePrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lacrosse.org privacy policy that was archived on 2013-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131023113537id_/http%3A//www.uslacrosse.org/TopNav/Membership/USLacrossePrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # US Lacrosse Privacy Policy
 
 If you feel that we are not abiding by our posted privacy statement, you should first contact Sara Noon, Managing Director of Membership, at [**snoon@uslacrosse.org**](mailto:snoon@uslacrosse.org) or at 410.235.6882 ext. 114.
 
-  **The organization collecting the information.**  
+* * *
+
+  
+**The organization collecting the information.**  
 US Lacrosse (USL) is the sole owner of the information collected on its sites and through other means. We will not sell, share, rent, or otherwise disclose this information to other parties other than as disclosed in this statement.
 
-Please be aware that [**www.uslacrosse.org**](http://www.uslacrosse.org/) contains links to other sites and that USL is not responsible for the privacy policies of other sites. We encourage our users to take appropriate precautions when leaving our site and read the privacy statements of each and every web site that collects personally identifiable information. This privacy statement applies solely to information collected by this web site.
+Please be aware that [**www.uslacrosse.org**](https://web.archive.org/) contains links to other sites and that USL is not responsible for the privacy policies of other sites. We encourage our users to take appropriate precautions when leaving our site and read the privacy statements of each and every web site that collects personally identifiable information. This privacy statement applies solely to information collected by this web site.
 
+* * *
+
+  
 **What personally identifiable information is collected from you through our web site and how is it used?**  
 USL collects membership information from our users at several different points throughout our web site and from other sources. This section describes these points of collection.
 
@@ -30,6 +36,9 @@ We use standard server log files to analyze trends, administer the site, and gat
 **Other Collection Points**  
 We may also collect information from people through other means such as the telephone, by e-mail, by fax, on paper, and in person. This privacy policy governs the use and disclosure of that information as well.
 
+* * *
+
+  
 **With whom may the information be shared and other kinds of disclosures.**  
 We occasionally share information with other USL entities and third parties. This section describes what information we share and with whom.
 
@@ -61,6 +70,9 @@ Elite athletes and Hall of Famers may have their biographies posted on the USL w
 **Children**  
 In cases where USL collects personally identifiable information from children under the age of 18, we require parental consent before collection is completed. For example, the USL membership application requires a parent's or guardian's "signature" before it will be accepted. The signature on the application evidences the parent's or guardian's consent to have the child's information used as an aggregate collection. Individual information about children under 18 will not be shared; however information regarding their parents (name, address, e-mail, and phone) can be shared and are subject to this policy.
 
+* * *
+
+  
 **The kind of security procedures that are in place to protect the loss, misuse, or alteration of information under USL's control**.  
 USL takes every reasonable precaution to protect users' information: however USL can not guarantee that your information is 100% secure. When users submit sensitive information, the information is protected both on- and off-line. 
 
@@ -68,9 +80,18 @@ When registration forms ask users to enter sensitive information (such as credit
 
 While we use SSL encryption to protect sensitive information online, we also make every reasonable effort to protect users' information off-line. Access to users' information, not only the sensitive information mentioned above, is restricted in our organization. Only those employees who need the information to perform their job are granted access to personally identifiable information. All employees are kept up-to-date on our security and privacy practices and are reminded about the importance we place on privacy. 
 
-USL makes every reasonable effort to safeguard sensitive information by regularly reviewing our security standards and practices to protect against unauthorized access. If you have any questions about the security of our web site, you can send an an e-mail to [blogue@uslacrosse.org](mailto:blogue@uslacrosse.org).
+USL makes every reasonable effort to safeguard sensitive information by regularly reviewing our security standards and practices to protect against unauthorized access. If you have any questions about the security of our web site, you can send an an e-mail to [**blogue@uslacrosse.org**](mailto:blogue@uslacrosse.org). 
 
-  **What choices are available to you regarding collection, use, and distribution of the information and how you can correct any inaccuracies in the information.**
+* * *
+
+  
+**Donor Privacy and Respect Policy**  
+US Lacrosse values and respects its donors’ right to privacy and donor intent, and will adhere to appropriate fundraising practices to be consistent with its mission, compatible with its organizational capacity and respectful to the interests of donors. Solicitation and promotional materials will be accurate, truthful and correctly identify the organization, its mission, and the intended use of the solicited funds. All statements made by US Lacrosse in its fundraising appeals about the use of a contribution must be honored. To read US Lacrosse's full policy regarding donor privacy, **[please click here](https://web.archive.org/TopNav/USLacrosseFoundation/Donate/DonorPrivacyPolicy.aspx)**.
+
+* * *
+
+  
+**What choices are available to you regarding collection, use, and distribution of the information and how you can correct any inaccuracies in the information.**
 
 **Choice and opting in/out**  
 We send all new members a welcoming e-mail to confirm their membership status. Members may opt out of various mailings by following the instructions provided at the bottom of e-mail messages, or by contacting our Membership Services group either by e-mailing us at [**uslacrosse@uslacrosse.org**](mailto:uslacrosse@uslacrosse.org) or by calling 410.235.6882 ext. 102. 
