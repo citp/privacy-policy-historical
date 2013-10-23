@@ -1,33 +1,17 @@
-> *The following text is extracted and transformed from the 2co.com privacy policy that was archived on 2013-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130511082148id_/https%3A//www.2checkout.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 2co.com privacy policy that was archived on 2013-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131023153656id_/https%3A//www.2checkout.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - 2Checkout Blog
-
-Last Updated March 2012 ([Previous Version](http://www.2checkout.com/documentation/privacy.20100727.html))
-
-### 1\. Introduction
-
-^ back to top
-
-2Checkout.com ("2CO") values the privacy and security of the information that you share with us. This Privacy Statement applies to information collected through www.2Checkout.com (the "website"). This Privacy Statement also applies to other information 2CO receives in the United States from Europe. This Statement describes how 2CO collects, uses, shares, protects, or otherwise processes your personal information. **By using this website, you agree to the terms of this Privacy Statement.**
-
-2CO is self-certified with the [U.S. Department of Commerce Safe Harbor Program](http://www.export.gov/safeharbor/). 2CO adheres to the Safe Harbor Principles of Notice, Choice, Onward Transfer, Security, Data Integrity, Access, and Enforcement for personal information received from the European Union, the European Economic Area, and Switzerland.
-
-* * *
-
-### 2\. Collection and Use of Information
-
-^ back to top
+# Policies - 2Checkout
 
 2CO collects personal information to set up and manage accounts for our ecommerce services and to handle orders of goods and services from 2CO.
 
-You may need to provide 2CO with personal information such as:
+You may need to provide 2CO with personal information such as: 
 
   * names; phone numbers; mailing, billing, shipping, and email addresses;
   * bank account information; credit and debit card information; dates of birth; and identification documents.
 
 
 
-2CO uses such information for:
+2CO uses such information for: 
 
   * website registration; enabling sales and other transactions; processing payments and settlement; sending payouts; handling orders; providing receipts;
   * providing customer service; providing dispute resolution, chargebacks, refunds, or related issues;
@@ -35,7 +19,7 @@ You may need to provide 2CO with personal information such as:
   * recovering debt and collections; detecting and preventing fraud; detecting and preventing violations of our legal agreements;
   * measuring, improving, and customizing our services; and
   * fulfilling other technical, logistical, financial, tax, legal, compliance, administrative, or back office functions.
-
+                          
 
 
 2CO may also collect background information and credit checks from third parties to verify your identity; deter, detect, and prevent fraud and illegal activity; make business decisions; and as a part of our legal obligations. 2CO retains such information for as long as reasonably required for business purposes or as reasonably required to comply with our legal obligations.
@@ -82,153 +66,6 @@ You may stop your browser from accepting cookies or web beacons. The Help portio
 
 2CO uses Google Analytics, a web analytics service. Google Analytics uses cookies, web beacons, and other means to help 2CO analyze how users use the site. You may find Google’s Privacy Policy at <http://www.export.gov/safeharbor/>.
 
-#### Pardot
+#### Eloqua
 
-2CO uses Pardot, an email distribution and web analytics service. Pardot uses cookies, web beacons, and other means to help 2CO distribute emails analyze how users use the site. You may find Pardot’s Privacy Statement at <http://www.pardot.com/company/legal/privacy-policy.html>.
-
-* * *
-
-### 3\. Choice
-
-^ back to top
-
-We will seek your consent prior to using your personal information in a manner incompatible with the purposes we described in our Privacy Statement at the time of collection. You may choose not to provide any personal information to 2CO, in which case we will be unable to provide services to you.
-
-* * *
-
-### 4\. Sharing of Information
-
-^ back to top
-
-2CO only shares information as described in this Privacy Statement. 2CO shares information with the following categories of third parties. Such third parties are prohibited by law or by contract from processing personal information for purposes other than those disclosed in this Privacy Statement.
-
-#### Organizations that Provide Services to Us
-
-2CO discloses personal information to other organizations that perform services on our behalf. We require such organizations to use such information solely for the purposes of providing services to us and to protect the personal information with appropriate safeguards.
-
-Such organizations include financial institutions; payment processors; money transfer service providers; acquirers; auditors; background and credit check organizations; fraud prevention service providers and anti-fraud networks; marketing service providers; database managers; customer service providers and representatives; debt collectors; and others who perform technical, logistical, financial, tax, legal, compliance, or administrative functions on our behalf.
-
-These organizations may perform functions such as processing credit and debit card payments, sending wire transfers, providing background and credit checks, providing fraud checks, providing customer service, analyzing data, supplying marketing assistance, fulfilling orders, delivering packages, sending postal mail and email, debt collections, and providing other financial, technical, logistical, tax, legal, compliance, or administrative functions.
-
-Financial institutions, payment processors, and acquirers may share the information that 2CO provides to them with other financial institutions or card networks in order to provide financial services, payment services, and to process payments. Fraud prevention service providers and anti-fraud networks may share the information 2CO discloses to them with other fraud prevention service providers and anti-fraud network participants in order to provide fraud checks.
-
-#### Sellers
-
-2CO discloses personal information to its sellers. 2CO provides payment processing services to sellers who make goods and services available to customers for purchase on those seller’s websites. We have confidentiality agreements with these sellers. We share personal information with sellers to complete transactions, resolve customer comments or complaints, and for administrative and analytical purposes like accounting, billing and audits, information system management, and other uses.
-
-#### Customers
-
-2CO discloses personal information to its customers. 2CO provides payment processing services to sellers who make goods and services available to customers for purchase on those seller’s websites. We may share personal information with customers to complete transactions, resolve customer comments or complaints, and for administrative purposes like accounting, billing and audits, and other uses.
-
-#### Business Sale or Merger
-
-2CO may share personal information in the event of a sale or merger of all or any portion of its business units. Such information remains subject to the promises made in any pre-existing Privacy Statement, unless an individual consents otherwise.
-
-#### Other
-
-2CO may disclose personal information where:
-
-  * required by law or by an order or requirement of a court, administrative agency, or other government entity, or by court rules concerning the production of records;
-  * 2CO has reasonable grounds to believe that use or disclosure is necessary to protect the rights, privacy, property, or safety of our users or others;
-  * 2CO has reasonable grounds to believe that the information relates to the breach of an agreement or violation of the law that has been, is being, or is about to be committed;
-  * it is necessary for fraud protection, risk reduction, or the establishment or collection of funds owed to us;
-  * it is necessary to enforce or apply our legal agreements, to pursue remedies, or to limit damages to 2CO;
-  * the information is public;
-  * you have provided consent or with your direction; or
-  * other reasons allow it or other laws require it.
-
-
-
-When we are required or permitted to disclose information, we will not disclose more information than is necessary to fulfill the disclosure purpose.
-
-2CO may disclose aggregate or statistical information to our business partners, for public relations purposes, or other purposes.
-
-* * *
-
-### 5\. Access
-
-^ back to top
-
-At your request, we will provide you with reasonable access to your personal information, so that you can review what we have stored and, if you choose, request corrections to it. You may request access by writing to us at the address listed in the Contact Information section below. After you request access, we will provide the personal information that you request as soon as practically possible and generally no later than thirty days following the request. If you wish to correct your personal information, please send us a written explanation of the particular information that you believe should be corrected. Where information will not or cannot be accessed or amended, we will tell you the reasons.
-
-2CO stores, collects, and otherwise processes information mainly in Columbus, Ohio, U.S.A.
-
-* * *
-
-### 6\. Security
-
-^ back to top
-
-2CO combines technical and physical safeguards with employee policies and procedures to protect your information. We work to protect your personal information during transmission by using Secure Sockets Layer software, which encrypts the information that you provide online at our website. We will use commercially reasonable efforts to protect your information. We will also continue to assess new technology for protecting information and upgrade our information security systems when appropriate.
-
-Further, we permit only authorized 2CO employees and third parties to access any personal information. If an employee misuses personal information, we may take disciplinary action, up to and including termination of employment. If any third party individual or organization misuses personal information, we will take action, up to and including termination of any agreement between 2CO and that individual or organization.
-
-* * *
-
-### 7\. Data Integrity
-
-^ back to top
-
-2CO processes personal information only for the purposes it was originally collected and in accordance with this Privacy Statement. 2CO takes commercially reasonable steps to ensure that the personal data is relevant, reliable for its intended use, accurate, complete, and current for the purposes for which it is used. 2CO retains information for as long as reasonably required for business purposes or as reasonably required to comply with our legal obligations.
-
-* * *
-
-### 8\. Children
-
-^ back to top
-
-2CO does not sell products for purchase by children, but we do sell children's products for purchase by adults. We do not knowingly collect, maintain, or use personal information from children under age 13. If you are under age 13, do not share personal information with us.
-
-* * *
-
-### 9\. Links to Other Websites
-
-^ back to top
-
-When you click on a link on this website that takes you to a website operated by another company, you will be subject to that company’s privacy practices.
-
-* * *
-
-### 10\. Controlling Unsolicited Email
-
-^ back to top
-
-We may send you information about our products and services. You may log into the Profile Center and update your Preferences to stop receiving this information. You may also opt out of 2CO's marketing list or update your information by notifying us at [privacy@2co.com](mailto:privacy@2co.com) at any time.
-
-* * *
-
-### 11\. Amendments
-
-^ back to top
-
-2CO may amend this Privacy Statement on one or more occasions by posting a revised statement on this website or a similar website that replaces this website. 2CO will amend this Privacy Statement in a manner consistent with the Safe Harbor Principles.
-
-* * *
-
-### 12\. Enforcement, Dispute Resolution, and Verification
-
-^ back to top
-
-Please contact us with any questions or concerns related to this Privacy Statement by using the address listed in the Contact Information section below. We will investigate and attempt to resolve complaints or disputes regarding personal information in accordance with this Privacy Statement. For complaints that have not been satisfactorily addressed, you may use the BBB EU Safe Harbor Program, by filing a complaint at <http://www.bbb.org/us/safe-harbor-complaints>.
-
-2CO has elected to use the self-assessment method for verifying its compliance with the U.S. Department of Commerce Safe Harbor Program.
-
-* * *
-
-### 13\. Contact Information
-
-^ back to top
-
-If you have questions or concerns related to this Privacy Statement, you may contact us by email at [privacy@2co.com](mailto:privacy@2co.com) or by writing to us at:
-
-Attn: Privacy Officer
-
-2Checkout, Inc.
-
-855 Grandview Avenue
-
-Suite 110
-
-Columbus, OH 43215
-
-USA
+2CO uses Eloqua, an email distribution and web analytics service. Eloqua uses cookies, web beacons, and other means to help 2CO distribute emails analyze how users use the site. You may find Eloqua’s Privacy Statement at <http://www.eloqua.com/trust/privacy-policy.html>.
