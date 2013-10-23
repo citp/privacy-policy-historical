@@ -1,100 +1,59 @@
-> *The following text is extracted and transformed from the hoteltrip.com privacy policy that was archived on 2012-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120314200414id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hoteltrip.com privacy policy that was archived on 2013-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131023100624id_/http%3A//hoteltrip.com/policy.html) for the most accurate reproduction.*
 
-# Legal Agreement
+# Asia Hotels Best Booking Deals Site - HotelTrip.com
 
-**Go Daddy Respects Your Privacy**
+Privacy Policy 1\. Privacy Policy Last updated on 05th June -2013 
 
-**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
+HotelTrip.com website (“Site”) is owned and operated by HotelTrip Company Limited ("HotelTrip" or "we"). By using the Site, you are consenting to the collection, use, disclosure and processing of your Personal Data as described in this Privacy Policy.   
+If you do not agree to any part of this Privacy Policy, do not use this Site. 
 
-**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
+HotelTrip collects information from you in order to provide you with a smooth, efficient and customized experience with the Site. This Privacy Policy describes how we collect, use, disclose, and otherwise process personally identifiable information that we collect about customers "Customer Data” in connection with the services available from HotelTrip through the Site.  
+References to the Site are deemed to include derivatives thereof, including but not necessarily limited to mobile websites and applications. All data that we collect and process is stored on servers located in United States of America, a country that may provide a level of data protection different from the laws in your home jurisdiction 
 
-**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
+2\. Updates to Privacy Policy HotelTrip will revise this Privacy Policy from time to time to reflect changes in the law, our Customer Data collection and use practices, the features of our Site, or advances in technology. If we make revisions that change the way we collect or use Customer Data, those changes will be posted in this Privacy Policy and the effective date will be noted at the beginning of this Privacy Policy. Therefore, you should review this Privacy Policy periodically so that you are up to date on our most current policies and practices. HotelTrip will also prominently post such material changes prior to implementing the change.
 
-**Information Collection and Use**
+If you do not agree with this Privacy Policy, including any change or modification to it, please do not continue using the Site. You will be deemed to have consented to any modification of the Privacy Policy when you use the Site after the effective date of the change or modification. 
 
-Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
+3\. Information We Collect We collect your Personal Data that you provide to us while using the Site. Customer Data may include your name, address, phone number, credit card number, email address, hotel name, hotel location and/or length of stay. We also collect non-personally identifiable information, which may be linked to Customer Data, including your log-in name, IP address, nationality and search preferences related to specific searches. 
 
-We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
+HotelTrip needs your assistance to ensure that your Personal Data is current, accurate and complete in order for you to have a smooth and efficient experience while using the Site. You may update your particulars under Customer Profile in the Site or HotelTrip Loyalty Rewards Program. 
 
-We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
+4\. Protecting Your Personal Data To prevent unauthorized access, we maintain reasonable physical, electronic and organizational procedures and safeguards, including but not limited to encryption, firewalls and Secure Socket Layer (SSL), to protect Customer Data against accidental or unlawful destruction or accidental loss, alteration, or unauthorized disclosure or access. To protect credit card transactions, HotelTrip currently uses Secure Socket Layer technology to encrypt credit card information during transit.  5\. How We Use the Information We Collect We use Personal Data and other information collected through the Site to register you with the Site and our HotelTrip Rewards program as requested by you, to provide you with the requested products and services (mainly to process your reservation), to provide you with information about our products and services on the Site or on other websites and to communicate with you to the extent necessary to provide such requested products and services, and to build features that will make the services available on the Site easier to use. This includes faster purchase requests, better customer support and timely notice of new services and special offers. From time to time, HotelTrip may contact you to request feedback on your experience in using the Site, to assist us in improving the Site, or to offer special savings or promotions to you as a Site user, where you have indicated your consent to receiving such communications. If you would prefer not to receive notices of special savings or promotions, you may simply opt out from receiving those by replying to HotelTrip using the hyperlink provided in these notices.  6\. Sharing Your Personal Data HotelTrip may share your Personal Data with third parties we employ to perform services on our behalf, such as web hosting services, data analysis, to market our products and services, also on websites of such third parties, to handle credit card transactions and to otherwise provide you with customer service. All such third parties will be under an obligation to maintain the security and confidentiality of the Personal Data, and to process the Personal Data only in accordance with our instructions. 
 
-We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
+In some cases, HotelTrip may require that you transact directly with a third party to obtain services, or when you use the Site to reserve a hotel room or obtain another product or service, we may provide your Personal Data to that hotel or other involved third party. 
 
-We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
+Save for disclosures mentioned in this Privacy Policy or as required by law in any relevant jurisdiction as mentioned below and the disclosure of your Personal Data and information required for completing your booking with the relevant hotel of your choice and the sharing of certain Personal Data with selected partners where relevant (your details will be used for reporting and analysis purposes only), we will not disclose your Personal Data to third parties without your consent. However, we reserve the right to disclose your Personal Data to our affiliated (group) companies (in and outside your home country), including our affiliated (group) companies' employees and our trusted agents and representatives who have access to this information with our permission and who need to know or have access to this information to perform the service requested by you (including customer services) and internal (audit/compliance) investigations. 
 
-Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
+HotelTrip may, in compliance with applicable law, disclose Personal Data to law enforcement agencies and governments for security or immigration purposes. 
 
-This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
+HotelTrip may, in compliance with applicable law, disclose Personal Data to protect ourselves against liability, to respond to subpoenas, judicial processes, legitimate requests by law enforcement officials, or as otherwise required or necessary in order to comply with applicable law, or to the purchasers in connection with any sale, assignment, or other transfer of all or a part of our business or company. We may also, in compliance with applicable law, disclose Personal Data to enforce or apply the terms and conditions applicable to our products and services or to protect the rights, property or safety of HotelTrip, our users or others. 
 
-**Security**
+In the situations described above, the recipient of the Customer Data may be located in a jurisdiction that may provide a level of data protection different from the laws in your home jurisdiction. 
 
-This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.
+7\. Our Policy Concerning Cookies and Pixel Tags Our Site uses session and persistent cookies as well as pixel tags (also called clear gifs) to collect and store certain information about you. A cookie is a small piece of data that is sent to your computer from the Site and stored on your computer’s hard drive. Session cookies are necessary to keep you logged in during your visit to the Site and they disappear from your computer when you close the browser. Persistent cookies remain on your computer after the browser has been closed, but can be deleted at any time through your browser settings. 
 
-**Updating Your Information**
+By visiting our Site, you consent to the usage of cookies and pixel tags as described below. If you want to prevent your browser from accepting cookies, if you want to be informed whenever a cookie is stored on your computer or if you want to delete cookies from your computer, please make the necessary changes in your Internet browser settings, typically under the sections “Help” or “Internet Options”. If you disable or delete cookies in your Internet browser settings, you might not be able to access important functions or features of this Site, you will be required to re-enter your log-in details and your use of the Site may be limited. Please also note that opting out of a third party cookie (see below) does not mean that you will no longer receive or be subject to online advertising or marketing analysis. It means that the network from which you opted out will no longer deliver ads tailored to your web preferences and usage patterns. 
 
-You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
+8\. HotelTrip Cookies and Pixel Tags HotelTrip uses a session cookie to keep you logged in throughout your visit to the Site. 
 
-        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
+HotelTrip uses persistent cookies to "personalize" the Site for each user by remembering information about the user's visit to the Site, e.g., the language you selected, your log-in details so that you do not need to re-enter them at your next visit to the Site and your search criteria and search results. 
 
-       ii.      You may send mail to Go Daddy at the following postal address:   
-               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
+HotelTrip also uses persistent cookies or pixel tags to analyze your surfing behavior and your visit to the Site enabling us to improve the Site and our services and to tailor our advertising (via email, on our Site, and on other websites) according to the interests of our users. Such cookies and pixel tags gather information about the pages you visited on the Site and the searches you performed. 
 
-      iii.      You may call us at: (480) 505-8800
+9\. Website Analytics and Opt-out Third party companies may use persistent cookies to analyze your surfing behavior on and your visit to this Site as well as other web sites enabling us to improve the Site and our services. You may set up your browser to manage cookies site-by-site basis.  10\. Third Party Advertising and Opt-out Our third party advertising companies may place cookies or pixel tags on some of the pages you visit on the Site. These cookies or pixel tags are designed to collect non-personally identifiable information in order to analyze your interests and searches when visiting our Site and to serve you advertisements specifically tailored to your interests and searches when you are visiting our Site or other websites. The non-personally identifiable information collected through cookies and pixel tags may be shared with other third parties for purpose of managing and targeting advertisements and for market research analysis. 
 
-       iv.      You may fax us at: (480) 505-8844
+If you would like more information about the information collection practices of third-party advertising companies and your choices about not having this information used by these companies or you would like to opt out of online preference marketing, click here: <http://www.networkadvertising.org/consumer/opt_out.asp> and with regard to our mobile apps, click here: <https://ad-x.co.uk/dont_track.php>
 
-**Sending Emails**
+11\. How You Can Access or Change Your Personally Identifiable Information If you wish to update any Personal Data you have previously provided, or to exercise any right of access, rectification, deletion, or opposition to the processing of your Personal Data that you may have under applicable law, please contact our Customer Service. To protect your privacy and security, we will verify your identity before granting access or making changes to your Personal Data. Any request to access your Personal Data will be answered within a reasonable timeframe. You may also object to the processing of your Personal Data for purposes of advertising and market and opinion research.
 
-We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
+If you wish to contact our customer service representatives about privacy issues via email, you may send an email to: [support@HotelTrip.com](mailto:support@HotelTrip.com)  
+Alternatively, you may send a registered letter to the HotelTrip offices at the following address:  
+**Customer Service c/o HotelTrip Company Limited Suite 10/91Trendy Office Tower, 5th Floor, 10 Sukhumvit Soi 13  
+Bangkok 10110  
+Thailand  
+**  
+You may also contact our customer service agents via:  
+Skype Live Chat: **hoteltrip_support**  
+Phone at the following number: **+66 2 126 8219 (international charges apply)** or any other number that we may advise from time to time. 
 
-The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
-
-**Compliance with Laws and Law Enforcement**
-
-We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
-
-**Third Party Service Providers**
-
-We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
-
-In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel gift or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
-
-**Supplementation of Information**
-
-In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
-
-**Contests/Surveys**
-
-From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
-
-We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
-
-**Tell-A-Friend**
-
-If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. Go Daddy will automatically send the friend a one-time email inviting them to visit our Site. Go Daddy stores this information for the sole purpose of sending this one-time email. The friend may contact Go Daddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
-
-**What Happens to my Personal Information if I Opt Out?**
-
-If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information as necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
-
-**Transfer of Data Abroad**
-
-If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
-
-**Changes in Our Practices**
-
-We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
-
-If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
-
-**Contacting Our Site**
-
-If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
-
-* * *
-
-Go Daddy   
-ATTN: Web Team   
-14455 North Hayden Rd.   
-Suite 219   
-Scottsdale, AZ, 85260, U.S.A.
+12\. A Special Note About Minors Persons under the age of 18 are not eligible to use the accommodation reservation services on our Site. Minors can normally accompany their parent(s) or legal custodians who have booked an accommodation, except where indicated otherwise in the hotel policies.  13\. Terms of Use Please consult HotelTrip [Terms of Use](http://hoteltrip.com/terms-conditions.html) for more details on using the Site. This Privacy Policy forms an integral part of our Terms of Use.  14\. Language This Privacy Policy is drawn up in the English language. In the event of any inconsistency in interpretation between the English version and any translation of this Privacy Policy, this Privacy Policy in English shall prevail. 
