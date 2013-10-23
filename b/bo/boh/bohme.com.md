@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bohme.com privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621212831id_/http%3A//bohme.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bohme.com privacy policy that was archived on 2013-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131023190333id_/http%3A//bohme.com/privacy) for the most accurate reproduction.*
 
 # Privacy - Women's Clothing and Fashion Accessories | Bohme Boutique
 
