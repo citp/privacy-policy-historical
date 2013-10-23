@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the digitalmarketer.com privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530133819id_/http%3A//digitalmarketer.com/more-info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digitalmarketer.com privacy policy that was archived on 2013-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131023235259id_/http%3A//digitalmarketer.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Digital Marketer | It's just smarter
+# Privacy Policy | | Digital Marketer
 
-Privacy Policy – DigitalMarketer.com
+Privacy Policy  DigitalMarketer.com
 
 (Last Updated: April 16, 2011)
 
 DigitalMarketer.com is serious about protecting your online privacy. This Privacy Statement explains our views and practices concerning privacy, and how they may pertain to you as a user of our website.
 
-“You” or “Your” means you as a participant in or as a user of the DigitalMarketer .com website. “We” or “Our” or “Us” means DigitalMarketer.com. “Our site” means DigitalMarketer.com.
+You or Your means you as a participant in or as a user of the DigitalMarketer .com website. We or Our or Us means DigitalMarketer.com. Our site means DigitalMarketer.com.
 
 All information transmitted, printed or otherwise submitted to DigitalMarketer.com via this website shall be deemed to be the property of DigitalMarketer.com and DigitalMarketer.com shall be free to use such information for any lawful purpose as detailed herein.
 
@@ -39,10 +39,10 @@ If you choose to provide personal information, it will be used for the following
 
 
 **Section 4: Your Opt-Out Rights**  
-You may opt-out of receiving communications from us and/or our partners by not submitting your information. We also allow you to remove your information from our marketing lists. If you remove your information from our marketing lists it will no longer be used by us to send promotional correspondence to you. You can remove your information from our marketing lists by clicking on the “Unsubscribe” link at the bottom of every email we send you, or by sending your request, in writing, via email to: supportATdrivingtrafficDOTcom (Please replace “AT” with @ and “DOT” with .)
+You may opt-out of receiving communications from us and/or our partners by not submitting your information. We also allow you to remove your information from our marketing lists. If you remove your information from our marketing lists it will no longer be used by us to send promotional correspondence to you. You can remove your information from our marketing lists by clicking on the Unsubscribe link at the bottom of every email we send you, or by sending your request, in writing, via email to: supportATdrivingtrafficDOTcom (Please replace AT with @ and DOT with .)
 
 **Section 5: We Do Not Intend to Collect Data from Children**  
-The information and services provided to us or our affiliates, sponsors, and advertisers are not intended to be viewed by children (under 18 years old). No information collected from children is knowingly used for any marketing or promotional purposes whatsoever, either inside or outside DigitalMarketer.com. No part of DigitalMarketer.com’s web site is structured to attract anyone under the age of 18.
+The information and services provided to us or our affiliates, sponsors, and advertisers are not intended to be viewed by children (under 18 years old). No information collected from children is knowingly used for any marketing or promotional purposes whatsoever, either inside or outside DigitalMarketer.com. No part of DigitalMarketer.coms web site is structured to attract anyone under the age of 18.
 
 **Section 6: Our Right to Contact You**  
 We reserve the right to contact you regarding your account status and changes to subscriber agreements, privacy policy, or any other policies or agreements relevant to you.
@@ -51,11 +51,11 @@ We reserve the right to contact you regarding your account status and changes to
 We reserve the right to change this policy at any time by notifying you of the existence and location of the new or revised privacy policy or by posting the changes online at our site.
 
 **Section 8: Our Contact Information**  
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this website, you can contact us via email sent to: supportATdrivingtrafficDOTcom (Please replace “AT” with @ and “DOT” with .)
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this website, you can contact us via email sent to: supportATdrivingtrafficDOTcom (Please replace AT with @ and DOT with .)
 
 **Section 9:   Anti Spam Policy. Can-Spam Act Compliance**
 
-DigitalMarketer.com is dedicated to ensuring compliance with the ‘Can-Spam Act’, which took effect January 1, 2004. You may receive email from DigitalMarketer.com in the following circumstances:
+DigitalMarketer.com is dedicated to ensuring compliance with the Can-Spam Act, which took effect January 1, 2004. You may receive email from DigitalMarketer.com in the following circumstances:
 
   1. Acknowledging your application has been received and requesting additional action
   2. Requests for additional information to support your current application
@@ -81,9 +81,9 @@ To ensure compliance with the Can-Spam Act, DigitalMarketer.com has implemented 
 **Section 10: Information for ISPs**  
 Web site: DigitalMarketer.com  
 Email Address: supportATdrivingtrafficDOTcom  
-(Please replace “AT” with @ and “DOT” with .)
+(Please replace AT with @ and DOT with .)
 
-DigitalMarketer.com understands consumers’ concerns over the use of their personal information. We hope this information will relieve any concerns your company may have regarding our email policies.DigitalMarketer.com and its affiliated sites use only an “opt-in or opt out” method of obtaining customer information, and it is not our policy or desire to send unsolicited email. We obtain email addresses and personal information from third parties that follow the same set of policies. DigitalMarketer.com email messages sent always include information about the origin of the emails and instructions on how recipients can unsubscribe from receiving future email messages.
+DigitalMarketer.com understands consumers concerns over the use of their personal information. We hope this information will relieve any concerns your company may have regarding our email policies.DigitalMarketer.com and its affiliated sites use only an opt-in or opt out method of obtaining customer information, and it is not our policy or desire to send unsolicited email. We obtain email addresses and personal information from third parties that follow the same set of policies. DigitalMarketer.com email messages sent always include information about the origin of the emails and instructions on how recipients can unsubscribe from receiving future email messages.
 
 From time to time, DigitalMarketer.com will enter into an arrangement with a third party website to allow individuals to opt into our marketing program on those third party websites. In each case the third party websites have represented and warranted to us, among other things,
 
@@ -93,4 +93,4 @@ From time to time, DigitalMarketer.com will enter into an arrangement with a thi
 
 
 
-We hope this information satisfies any questions or concerns you may have regarding the email practices of DigitalMarketer.com. If you have additional questions or wish to discuss this matter further, please contact us at: supportATdrivingtrafficDOTcom (Please replace “AT” with @ and “DOT” with .)
+We hope this information satisfies any questions or concerns you may have regarding the email practices of DigitalMarketer.com. If you have additional questions or wish to discuss this matter further, please contact us at: supportATdrivingtrafficDOTcom (Please replace AT with @ and DOT with .)
