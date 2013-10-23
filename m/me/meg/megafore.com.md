@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the megafore.com privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601134954id_/http%3A//www.megafore.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the megafore.com privacy policy that was archived on 2013-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131023193346id_/http%3A//www.megafore.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Megafore Privacy Policy
 
