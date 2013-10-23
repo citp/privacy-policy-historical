@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the byliner.com privacy policy that was archived on 2013-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130513034531id_/https%3A//www.byliner.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the byliner.com privacy policy that was archived on 2013-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131023120251id_/https%3A//www.byliner.com/about/privacy) for the most accurate reproduction.*
 
 # Byliner.com
 
 **Byliner Privacy Policy**
 
-Byliner Inc. (“Byliner,” “we,” or “us”) knows that you care how information about you is used and shared. This Privacy Policy explains what information of yours will be collected by Byliner when you use Byliner.com (the “site”) and related services (the “Service”), how the information will be used, and how you can control the collection, correction and/or deletion of information. We will not use or share your information with anyone except as described in this Privacy Policy.
+Byliner Inc. (“Byliner,” “we,” or “us”) knows that you care how information about you is used and shared. This Privacy Policy explains what information of yours will be collected by Byliner when you use Byliner.com or our mobile applications (such as our iPhone app) and related services (together, the “Service”), how the information will be used, and how you can control the collection, correction and/or deletion of information. We will not use or share your information with anyone except as described in this Privacy Policy.
 
 **Information We Collect**
 
@@ -13,6 +13,8 @@ You provide us information about yourself, such as your name and email address, 
 **Cookies Information**
 
 When you visit Byliner.com, we may send one or more cookies – a small text file containing a string of alphanumeric characters – to your computer that uniquely identifies your browser and lets Byliner help you log in faster and enhance your navigation through the site. A cookie does not collect personal information about you. Byliner uses both session cookies and persistent cookies. A persistent cookie remains on your hard drive after you close your browser. Persistent cookies may be used by your browser on subsequent visits to the site. Persistent cookies can be removed by following your web browser’s directions. A session cookie is temporary and disappears after you close your browser. You can reset your web browser to refuse all cookies or to indicate when a cookie is being sent. However, some features of the Service may not function properly if the ability to accept cookies is disabled.
+
+In addition, we may send one or more cookies when you open any emails sent by or on behalf of Byliner. Cookies may be used to later target advertising to you – including advertising serviced on third party networks. For example, if you open an email sent by us, then we may later serve you a Byliner advertisement while you are on Facebook.
 
 **Log File Information**
 
@@ -40,7 +42,7 @@ Byliner may develop special sites in cooperation with other companies. If you re
 
 Byliner reserves the right, but has no obligation, to monitor the User Content you post on the site. Byliner has the right to remove any such information or material for any reason or no reason, including without limitation, if in its sole opinion, such information or material violates, or may violate, any applicable law or our Terms of Use Agreement or to protect or defend its rights or property or those of any third party. Byliner also reserves the right to remove information upon the request of any third party.
 
-We use cookies, clear gifs, and log file information to: (a) remember information so that you will not have to re-enter it during your visit or the next time you visit the site; (b) provide custom, personalized content and information; (c) monitor the effectiveness of our service; (d) monitor aggregate metrics such as total number of visitors and traffic; (e) diagnose or fix technology problems reported by our users or engineers that are associated with the IP addresses controlled by a specific web company or ISP; and (f) help you efficiently access your information after you sign in.
+We use cookies, clear gifs, and log file information to: (a) remember information so that you will not have to re-enter it during your visit or the next time you visit the site; (b) provide custom, personalized content and information; (c) target and re-target advertising on the Byliner service as well as third party services; (d) monitor the effectiveness of our service; (e) monitor aggregate metrics such as total number of visitors and traffic; (f) diagnose or fix technology problems reported by our users or engineers that are associated with the IP addresses controlled by a specific web company or ISP; and (g) help you efficiently access your information after you sign in.
 
 **How We Share Your Information**
 
@@ -88,9 +90,9 @@ It is our policy to provide notifications, whether such notifications are requir
 
 If we change our privacy policies and procedures, we will post those changes on our website to keep you aware of what information we collect, how we use it and under what circumstances we may disclose it. Changes to this Privacy Policy are effective when they are posted on this page.
 
-The date of the most recent update to this Privacy Policy is November 16, 2012.
+The date of the most recent update to this Privacy Policy is September 26, 2013.
 
-If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this Web site, please contact us, or send mail to:
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this Web site, please email [hello@byliner.com](mailto:hello@byliner.com), or send mail to:
 
 Customer Care  
 Byliner Inc.  
