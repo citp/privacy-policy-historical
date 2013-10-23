@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alexanderstreet.com privacy policy that was archived on 2013-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130430130637id_/http%3A//alexanderstreet.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alexanderstreet.com privacy policy that was archived on 2013-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131023111826id_/http%3A//alexanderstreet.com/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement | Alexander Street Press
 
