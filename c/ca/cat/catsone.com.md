@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the catsone.com privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603105149id_/http%3A//www.catsone.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the catsone.com privacy policy that was archived on 2013-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131023100422id_/http%3A//www.catsone.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | CATS Applicant Tracking System
-
-## Privacy Policy
 
 This Privacy Policy is effective as of November 29, 2011.
 
