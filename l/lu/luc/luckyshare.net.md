@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the luckyshare.net privacy policy that was archived on 2013-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130423083035id_/http%3A//luckyshare.net/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the luckyshare.net privacy policy that was archived on 2013-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131023172146id_/http%3A//luckyshare.net/privacypolicy) for the most accurate reproduction.*
 
 # LuckyShare - Privacy Policy
 
