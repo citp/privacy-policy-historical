@@ -1,44 +1,25 @@
-> *The following text is extracted and transformed from the afreecodec.com privacy policy that was archived on 2010-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100202055820id_/http%3A//www.afreecodec.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the afreecodec.com privacy policy that was archived on 2013-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131023184112id_/http%3A//www.afreecodec.com/privacy.html) for the most accurate reproduction.*
 
-# afreeCodec - Privacy Policy
+# Privacy policy - afreeCodec.com
 
-**Revised: April 8th, 2009  
-Applies to afreeCodec.com **
+Privacy policy
 
-  * Google, as a third party vendor, uses cookies to serve ads on this site. 
+Afreecodec.com is serious to regard the privacy of Internet users, because our business success depends upon our ability to maintain the trust of our users.
 
+If you have any concern about our products or website's privacy policies, please click [here](http://www.afreecodec.com/contact_us.html) to contact us. We read every message submitted and try to reply to everyone promptly. We may also file your comments to improve the program and site, or review and discard the information.
 
+When does Afreecodec collect personally- identifiable information?  
+Afreecodec will collect your information if the information is licensed to us, for example new released software subscription comes for users, software submission come from authors or order come from customers. We won't collect any personally- identifiable information about you, such as your name, address, phone number or email address from this web site without your knowledge, and will take measures to protect your privacy. 
 
-We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here.
+How does Afreecodec use the information?  
+Once you licensed us provide a new released software list to you, we could send information to you via email daily, weekly or other post time. And you could easily remove your email address from our mail list.
 
-**Our Commitment To Privacy**
+Once you submit some software to our download library, we could offer the products information and other available information to the users. Because of complaints about spamming, that email address is no longer included on our web pages and does not go out in New Upload Digests, etc. However we simply MUST have that email address anyway. It is because we will be forwarding messages, complaints, etc. from users and audience to that address.
 
-Since we were founded, afree Network Entertainment. has tried to help its customers retain their privacy while they take advantage of all the Internet has to offer. We are committed to protecting your privacy that gives you the most safe, online experience. 
+And we may need to contact you about upload problems, etc. And you could easily remove your software and information from our library via email. 
 
-Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested. 
+Once you purchase products from us, additional information will be needed to fill your order. Any information provided will NOT be sold or given to any third party(ies) by any means, and will only be used for sending the Registration Information and the Free upgrade to you via email. Besides, if you send email to us for requesting help, your email address will only be used to send replies to you.
 
-**The Way We Use Information:**
+We use third-party advertising companies to serve ads when you visit our Website. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies,http://www.networkadvertising.org/managing/opt_out.asp
 
-We use return email addresses to answer the email we receive. Such addresses are not used for any other purpose and are not shared with outside parties. 
-
-We use non-identifying and aggregate information to better design our website and to share with advertisers. For example, we may tell an advertiser that _X_ number of individuals visited a certain area on our website, or that _Y_ number of men and _Z_ number of women filled out our registration form, but we would not disclose anything that could be used to identify those individuals. 
-
-Finally, we never use or share the personally identifiable information provided to us online in ways unrelated to the ones described above without also providing you an opportunity to opt-out or otherwise prohibit such unrelated uses. 
-
-**Our Commitment To Data Security**
-
-To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online. 
-
-**Our Commitment To Children's Privacy:**
-
-Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our website from those we actually know are under 13, and no part of our website is structured to attract anyone under 13. 
-
-**How You Can Access Or Correct Your Information**
-
-You can correct software and user factual errors in your personally identifiable information by sending us a request that credibly shows error. 
-
-To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections. 
-
-**How To Contact Us**
-
-Should you have other questions or concerns about these privacy policies, please[ contact us](http://www.afreecodec.com/contact/). 
+If you have any question or concern about this matter, please do not hesitate to [contact us](http://www.afreecodec.com/contact_us.html) .
