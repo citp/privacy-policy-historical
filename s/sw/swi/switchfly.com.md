@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the switchfly.com privacy policy that was archived on 2013-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130510063840id_/http%3A//www.switchfly.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the switchfly.com privacy policy that was archived on 2013-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131023070859id_/http%3A//www.switchfly.com/privacy) for the most accurate reproduction.*
 
 # Switchfly, Inc Privacy Policy | Switchfly
 
