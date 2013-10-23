@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fusioncharts.com privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502123756id_/http%3A//www.fusioncharts.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fusioncharts.com privacy policy that was archived on 2013-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131024005028id_/http%3A//www.fusioncharts.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
