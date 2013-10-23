@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pix.ie privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601074521id_/http%3A//pix.ie/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pix.ie privacy policy that was archived on 2013-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131023100029id_/http%3A//pix.ie/privacy) for the most accurate reproduction.*
 
 # Privacy Policy on Pixie Photo Sharing!
 
@@ -12,6 +12,8 @@ This document is subject to the Terms & Conditions of Use document located at <h
 
 * ### We want you to have control over the personal information you want to share.
 
+### We want you to have control over the personal information you want to share.
+
 Pixie provides you with the ability to create a personal profile. This profile contains information about you (including your photos) that you have submitted or uploaded for the purpose of sharing with others.
 
 With each feature, we normally provide you with privacy control allowing you to specify with fine details to whom and for what purpose access is granted. Privacy has three settings:
@@ -23,13 +25,19 @@ With each feature, we normally provide you with privacy control allowing you to 
 
 * ### You should have access to the information others want to share with you.
 
+### You should have access to the information others want to share with you.
+
 Sharing is a two way street! We want to make it easy for you to be able to access the photos and information that others want to share with you. As well as providing easy methods of discovering new Content, we also provide you with handy notifications whenever your Contacts want to share something with you.
 
 * ### Our Privacy Policy
 
+### Our Privacy Policy
+
 The following policy sets out what we do with the information you provide to us while visiting the Site in order to help you make an informed choice about whether or not to use this site.
 
 * ### The Information We Collect
+
+### The Information We Collect
 
 By visiting and using Pixie, you provide us with two types of information: personal information you choose to disclose when signing up or administering your profile and web site usage information collected by us as you use the Site.
 
@@ -47,6 +55,8 @@ All data is stored and processed in the Republic of Ireland.
 
 * ### Use of Information Obtained by Pixie
 
+### Use of Information Obtained by Pixie
+
 Pixie is an online community of users whose primary reason for using the service is to share information (including their photos) with others. You can make informed choices about who has access to your information by setting your own privacy options. As part of the service you may be notified when new information is available to view and to facilitate this, we may send you an email or other form of communication. Should you not wish to receive communications from us, you may opt out by setting the appropriate settings on your account. We do however reserve the right to send you notifications about your account even if you opt out of all voluntary notifications.
 
 Generally, we use the information gathered from our visitors in an aggregate form to get a better understanding of where our visitors come from and help us better design and organise the Site. In addition, we may use the information you provide to us in a variety of ways that enable us to better operate, maintain and provide you with the features and functionality of Pixie.
@@ -54,6 +64,8 @@ Generally, we use the information gathered from our visitors in an aggregate for
 We may also share information in your profile without identifying you as an individual to third parties. For example, we may provide advertisers with hints as to what might be the most appropriate advert for a certain category of user. This ultimately provides you with a more personalised service without compromising your privacy.
 
 * ### Sharing Your Information with Third Parties
+
+### Sharing Your Information with Third Parties
 
 We share your information with third parties only in limited circumstances where we believe such sharing is (a) reasonably necessary to offer the service, (b) is in our legitimate business interests, (c) legally required or (d) consented to by you. For example: Our site contains RSS feeds that syndicate your information (including photos and comments) to outside subscribers with appropriate access. Public feeds contain only "Public" information while private feeds contain information appropriate to the subscriber's account permissions.
 
@@ -63,13 +75,19 @@ In the event of merger with another company or acquisition by another company, y
 
 * ### Children
 
+### Children
+
 We take the privacy of children very seriously. Accordingly, we do not knowingly collect or maintain personal information from children on the Site. If we are informed that personally identifiable information of children has been collected without the consent of a parent or guardian, we will take reasonable steps to delete any such information.
 
 * ### Security
 
+### Security
+
 We take appropriate precautions to protect your personal information. We have physical, electronic, and procedural safeguards in place. Your account information is located on a secured server behind a firewall.
 
 * ### Your rights regarding your information
+
+### Your rights regarding your information
 
 You can modify or delete any of your profile information at any time by logging into your account. Information will be updated within a reasonable time. You can delete your Pixie account by emailing us at support@pix.ie . Be aware that even after your account has been deleted, information may persist in backup copies for a reasonable period of time but will not be generally available to other users.
 
@@ -77,11 +95,15 @@ You have the right to be given a copy of your personal data which you may have s
 
 * ### Changes to this Privacy Policy
 
+### Changes to this Privacy Policy
+
 We may update this policy at any time. Please refer to our Terms and Conditions for details.
 
 If you have any questions or suggestions please contact us at: privacy@pix.ie.
 
 * ### Glossary of technical terms 
+
+### Glossary of technical terms 
 
 **Cookies** : Small pieces of information, stored in simple text files, placed on your computer by a web site. Cookies can be read by the web site on your subsequent visits. The information stored in a cookie may relate to your browsing habits on the web page, or a unique identification number so that the web site can "remember" you on your return visit. Generally speaking, cookies do not contain personal information from which you can be identified, unless you have furnished such information to the web site.
 
