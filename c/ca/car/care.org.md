@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the care.org privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621131947id_/http%3A//www.care.org/about/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the care.org privacy policy that was archived on 2013-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131023020853id_/http%3A//www.care.org/about/privacy.asp) for the most accurate reproduction.*
 
 # CARE Privacy Statement
 
