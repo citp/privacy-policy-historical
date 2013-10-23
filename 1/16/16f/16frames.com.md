@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 16frames.com privacy policy that was archived on 2012-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121215024126id_/http%3A//www.16frames.com/PrivacyPolicy1.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 16frames.com privacy policy that was archived on 2013-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131024000744id_/http%3A//www.16frames.com/PrivacyPolicy1.aspx) for the most accurate reproduction.*
 
 # Live Streaming-Live Webcasting-Live Event Streaming-Live Event Webcasting | India | Hyderabad | Bangalore | Chennai |Vijayawada | Nellore | Tirupati | Visakhapatnam
 
