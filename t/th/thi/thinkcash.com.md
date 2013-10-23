@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thinkcash.com privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601234649id_/http%3A//plaingreenloans.com/faq/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thinkcash.com privacy policy that was archived on 2013-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131023101926id_/http%3A//www.plaingreenloans.com/faq/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy: Plain Green Loans
 
