@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the kipp.org privacy policy that was archived on 2013-04-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130430154904id_/http%3A//kipp.org/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the kipp.org privacy policy that was archived on 2013-10-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131024001442id_/http%3A//www.kipp.org/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
 
@@ -13,17 +13,22 @@
 	
 
 
-    <base href="http://kipp.org">
-    <title>KIPP Public Charter Schools | Knowledge Is Power Program - Privacy Policy</title>
-    <link href="css/default.css" rel="stylesheet" type="text/css">
+    <base href="http://www.kipp.org">
+    <title>Privacy Policy - KIPP Public Charter Schools | Knowledge Is Power Program</title>
+    <link href="/css/default.css" rel="stylesheet" type="text/css">
 
-    <link href="css/kippstyles/kippstyles.css" rel="stylesheet" type="text/css">
-    <link href="css/kippstyles/search-light.css" rel="stylesheet" type="text/css">
-    <link href="customfonts/FullerWebFont.css" rel="stylesheet" type="text/css">
-    <script src="javascript/jquery.1.7.2.min.js" type="text/javascript"></script>
+    <link href="/css/kippstyles/kippstyles.css" rel="stylesheet" type="text/css">
+    <link href="/css/kippstyles/search-light.css" rel="stylesheet" type="text/css">
+    
+    <link href="/css/MyFontsWebfontsKit.css" rel="stylesheet" type="text/css" media="all">
+
+    <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="/javascript/jquery.1.7.2.min.js" type="text/javascript"></script>
     <script src="/javascript/application.js" type="text/javascript"></script>
 
-		<script language="javascript" type="text/javascript">
+    
+	<script src="/javascript/jquery.DownloadsToAnalytics.js" type="text/javascript"></script>
+
+	<script language="javascript" type="text/javascript">
 		function checkSearch() {
 			if ( (document.searchbox.qtemp.value == "") || (document.searchbox.qtemp.value == "Search") ) {  // no action if no search key
 				document.searchbox.qtemp.value = "";
@@ -84,7 +89,8 @@
 	margin:0;
 	padding:0px;
 	background-color:#60A2D7;
-	font-family: "FullerSansDT-Regular", Calibri, Helvetica, sans-serif;
+/*	font-family: "FullerSansDT-Regular", Calibri, Helvetica, sans-serif;*/
+	font-family:"FullerSansDT",Calibri, Helvetica, sans-serif; 
 
 	font-size: 14px;
 
@@ -237,6 +243,21 @@ $(function() {
 
 </script>
 
+
+
+<script type="text/javascript">
+
+	$(document).ready(function (){
+		if ((navigator.userAgent.indexOf('Windows NT 5.') > 0) && (navigator.userAgent.indexOf('Chrome') > 0))
+		{
+			$('body').css({'font-family':'Arial, Helvetica, sans-serif'});   
+			$('body').css({'font-size':'15px'});   
+		}
+	});
+
+</script>
+
+
 <div class="menuWrapper">
     <div id="logo"><a href="/"><img width="144" height="42" border="0" src="/kippimages/logo.png"></a></div>
     <div id="menu">
@@ -272,11 +293,11 @@ $(function() {
                     <ul>
                         <li><a href="/our-approach">Our Approach</a></li>
                         <li><a href="/our-approach/five-pillars">Five Pillars</a></li>
-                        <li><a href="/our-approach/character-and-academics">Character &amp; Academics</a></li>
-                        <li><a href="/our-approach/excellent-teaching">Excellent Teaching</a></li>
-                        <li><a href="/our-approach/school-leadership">School Leadership</a></li>
-                        <li><a href="/our-approach/sharing-and-collaboration">Sharing &amp; Collaboration</a></li>
                         <li><a href="/our-approach/kipp-through-college">KIPP Through College</a></li>
+                        <li><a href="/our-approach/character">Character</a></li>
+                        <li><a href="/our-approach/visionary-leadership">Visionary Leadership</a></li>
+                        <li><a href="/our-approach/excellent-teaching">Excellent Teaching</a></li>
+                        <li><a href="/our-approach/sharing-and-collaboration">Sharing &amp; Collaboration</a></li>
                     </ul>
                </div>
             </div>
@@ -447,8 +468,6 @@ if (restore) selObj.selectedIndex=0;
 			
             <option value="/schools/school-directory?City=Blytheville">Blytheville, AR</option>
 			
-            <option value="/schools/school-directory?City=Boston">Boston, MA</option>
-			
             <option value="/schools/school-directory?City=Charlotte">Charlotte, NC</option>
 			
             <option value="/schools/school-directory?City=Chicago">Chicago, IL</option>
@@ -496,6 +515,8 @@ if (restore) selObj.selectedIndex=0;
             <option value="/schools/school-directory?City=Oklahoma City">Oklahoma City, OK</option>
 			
             <option value="/schools/school-directory?City=Philadelphia">Philadelphia, PA</option>
+			
+            <option value="/schools/school-directory?City=Roxbury">Roxbury, MA</option>
 			
             <option value="/schools/school-directory?City=San Antonio">San Antonio, TX</option>
 			
@@ -557,7 +578,8 @@ if (restore) selObj.selectedIndex=0;
       <div class="clear"></div>
       
     	
-  		
+  		</div>
+
   
   <div id="footer">
   		<div class="right"> 
@@ -611,12 +633,22 @@ if (restore) selObj.selectedIndex=0;
 
 
 
-<script type="text/javascript" src="http://www.google-analytics.com/urchin.js"> </script>
-<script type="text/javascript"> 
-_uacct = "UA-908495-1";
-urchinTracker(); 
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-908495-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
 </script>
 
+
+ 
 
   
     </div>
@@ -625,4 +657,4 @@ urchinTracker();
 
 
 
-</div></body></html>
+</body></html>
