@@ -1,16 +1,13 @@
-> *The following text is extracted and transformed from the bouldercolorado.gov privacy policy that was archived on 2013-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130629012251id_/http%3A//bouldercolorado.gov/index.php%3Foption%3Dcom_content%26task%3Dview%26id%3D10130%26Itemid%3D27) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bouldercolorado.gov privacy policy that was archived on 2013-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131023074149id_/https%3A//bouldercolorado.gov/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-[](http://www.addthis.com/bookmark.php?v=250&pub=bouldercolorado) [](https://web.archive.org/index.php?view=article&id=10130%3Aprivacy-policy&tmpl=component&print=1&layout=default&page=&option=com_content&Itemid=27 "Print")
+##  Introduction
 
-#### Introduction
+Thank you for visiting the City of Boulder, Colorado website and reviewing the Privacy Policy. We are committed to the privacy of the visitors to this website. This policy addresses the collection, use and security of information that may be obtained through use of the City of Boulder website, and access to that information.
 
-Thank you for visiting the City of Boulder, Colorado website and reviewing the Privacy Policy. We are committed to the privacy of the visitors to this website. This policy addresses the collection, use and security of information that may be obtained through use of the City of Boulder website, and access to that information. [ [City of Boulder website disclaimer](http://www.bouldercolorado.gov/index.php?option=com_content&task=view&id=7672&Itemid=27) ] 
-
-* * *
-
-#### Information Collected and How it is Used
+##    
+Information Collected and How it is Used
 
 During your visit to the City of Boulder website, the city gathers and stores the following information about your visit.  This information does not identify you personally. 
 
@@ -36,9 +33,7 @@ During your visit to the City of Boulder website, the city gathers and stores th
 This information is collected and analyzed by the City of Boulder to improve the content of our web content and services.  
  
 
-* * *
-
-#### Voluntary Information ****
+##  Voluntary Information ****
 
 The City of Boulder website does not collect personal information unless the visitor voluntarily provides information by sending an email, completing an online form or online application.  Examples of forms and applications on this website include:
 
@@ -63,51 +58,38 @@ The voluntary personal information collected using online forms depends on the f
 
 Some city projects involve collaboration with other local or state government agencies. Voluntary personal information submitted to the City of Boulder to express interest in or make comments about such projects may be shared with the other agencies involved. 
 
-* * *
+##    
+Email Subscription Lists
 
-#### Email Subscription Lists
+The City of Boulder website offers visitors the ability to subscribe to email distribution lists. Visitors are free to unsubscribe should they not want to receive future communications from the city.  A valid email address must be provided when subscribing or unsubscribing from email lists. All other personally identifiable information is optional.  Email lists are kept private and are not disclosable under the Open Records Act.
 
-The City of Boulder website offers visitors the ability to subscribe to email distribution lists. Visitors are free to unsubscribe should they not want to receive future communications from the city.  A valid email address must be provided when subscribing or unsubscribing from email lists. All other personally identifiable information is optional.  Email lists are kept private and are not disclosable under the Open Records Act. [ [City of Boulder email list page](http://www.bouldercolorado.gov/index.php?option=com_content&task=view&id=1716&Itemid=1421) ]  
-
-
-* * *
-
-#### **Public Disclosure**
+##    
+**Public Disclosure**
 
 In the state of Colorado, there are laws to ensure that government is open and transparent.  The public has a right to access appropriate records and information entrusted to the city government.
 
 Pursuant to Colorado Revised Statutes 24-72-204, all of the information collected at the City of Boulder website potentially becomes public record and may be subject to inspection and copying by members of the public, unless an exemption in the law exists. Some state laws outside the Open Records Act protect specific records. For example, certain medical records held by the Colorado Department of Public Health and Environment are specifically kept from disclosure under separate laws. Investigative records maintained by regulatory agencies and business and licensing boards may be exempt. Finally, specific federal law may govern whether certain information or documents may be disclosed. Careful legal research is required to evaluate each request for public records.
 
-In the event of a conflict between this Privacy Policy and the Colorado Open Records Act or other law(s) governing the agency's disclosure of records, the Colorado Open Records Act or other applicable law(s) will control.  
+In the event of a conflict between this Privacy Policy and the Colorado Open Records Act or other law(s) governing the agency's disclosure of records, the Colorado Open Records Act or other applicable law(s) will control.
 
-
-* * *
-
-#### **Cookies**
+##    
+**Cookies**
 
 Cookies are small text files generated by the Web server and stored on the visitor's computer.  Cookies can be read by the Web server to determine if a particular Web page has already been visited or when the visitor last accessed the website.  An example would be for an online survey where a cookie could be used to tell the Web server that a particular visitor has already completed the survey.  Cookies do not contain personal information and are not used to mine data.   
 
-* * *
-
-#### **Security Information and Disclaimer**
+##    
+**Security Information and Disclaimer**
 
 The City of Boulder uses industry standard practices to safeguard the confidentiality of your personal identifiable information, including "firewalls" and encryption (Secure Socket Layer) technology. We employ many different security techniques to protect such data from unauthorized access. "Perfect" security however, does not exist on the Internet. Unless a particular Web page on the City of Boulder website indicates that encryption technology is being used, the user should not assume that information submitted through that Web page to the City of Boulder Web server will be treated as confidential. Visual cues (an unbroken key or locked lock) report to the visitor that the online service is secure through a given Web page. If a user submits information to the City of Boulder's Web server through a Web page containing visual indicators of active encryption technology, the City of Boulder will take all reasonable precautions to safeguard the confidentiality of such information, but shall nevertheless not be held liable for any injury caused by the disclosure of that information, whether caused by security breach, accident, inadvertence or any other act resulting in disclosure.
 
 Unauthorized attempts to upload information or change information on this Web site are strictly prohibited and may be punishable under all state Computer Trespass laws and federal statutes including the Computer Fraud and Abuse Act of 1986 and the National Information Infrastructure Protection Act.  
-**  
-**
+ 
 
-* * *
+##  **Retention of Information**
 
-#### **Retention of Information**
+For specific information regarding the retention of information, please contact the City of Boulder City Clerk's Office.
 
-For specific information regarding the retention of information, please contact the [City of Boulder City Clerk's Office](http://www.bouldercolorado.gov/index.php?option=com_content&task=view&id=71&Itemid=139).  
+##    
+Feedback
 
-
-* * *
-
-#### Feedback
-
-If you have any questions or comments regarding the City of Boulder privacy policy, please [contact us](http://www.bouldercolorado.gov/index.php?option=com_content&task=view&id=1684&Itemid=2184).  The city may choose to amend the information in the privacy policy at any time without notice.  Any substantial change in the way identifying information is used will be prominently displayed on the city's website.
-
-Last Updated on Tuesday, 23 October 2012 07:19 
+If you have any questions or comments regarding the City of Boulder privacy policy, please contact us.  The city may choose to amend the information in the privacy policy at any time without notice.  Any substantial change in the way identifying information is used will be prominently displayed on the city's website.
