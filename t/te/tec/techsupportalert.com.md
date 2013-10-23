@@ -1,15 +1,6 @@
-> *The following text is extracted and transformed from the techsupportalert.com privacy policy that was archived on 2013-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130529193453id_/http%3A//www.techsupportalert.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techsupportalert.com privacy policy that was archived on 2013-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131023111058id_/http%3A//www.techsupportalert.com/privacy-policy.htm) for the most accurate reproduction.*
 
 # This Site's Privacy Policy
-
-##  Gizmo's Freeware is Recruiting
-
-We are looking for people with skills or interest in the following:  
-\- Mobile Platform Reviews  
-\- Rootkit Scanner and Remover  
-\- Streaming Media Recorder  
-\- Email Client  
-\- Archive Manager         **Interested?** [Click here](http://www.techsupportalert.com/we-need-you.htm)
 
 This is the Privacy Policy that applies to this site. It explains how we handle personal information and comply with the requirements of the privacy laws. If you have further questions relating to this policy, please contact us.
 
@@ -81,4 +72,12 @@ Changes to This Privacy Policy
   
 Our Privacy Policy may be reviewed periodically and we reserve the right to change it at any time.  We recommend you periodically check this privacy policy on the website for any possible changes.
 
-This Privacy Policy was last updated on Tuesday, June 21 2011..
+This Privacy Policy was last updated on Tuesday, June 21 2011..  
+  
+## 
+
+###  Gizmo's Freeware is Recruiting
+
+ We are looking for people with skills or interest in the following areas:  
+ -  Mobile Platform App Reviews for Android and iOS  
+ \-  Windows, Mac and Linux software reviews       **Interested?** [Click here](http://www.techsupportalert.com/we-need-you.htm)
