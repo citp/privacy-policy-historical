@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tcs.com privacy policy that was archived on 2013-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130620141843id_/http%3A//www.tcs.com/privacy/Pages/default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tcs.com privacy policy that was archived on 2013-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131023073130id_/http%3A//www.tcs.com/privacy/Pages/default.aspx) for the most accurate reproduction.*
 
 # Tata Consultancy Services: Privacy Policy
 
