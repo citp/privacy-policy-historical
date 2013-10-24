@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gotwebhost.com privacy policy that was archived on 2013-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130505014232id_/http%3A//www.gotwebhost.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gotwebhost.com privacy policy that was archived on 2013-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131024052826id_/http%3A//www.gotwebhost.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy : Got Web Host | Got Web Host - SEO and Web Hosting
 
