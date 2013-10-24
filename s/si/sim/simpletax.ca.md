@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the simpletax.ca privacy policy that was archived on 2013-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130604000738id_/http%3A//simpletax.ca/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simpletax.ca privacy policy that was archived on 2013-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131024144732id_/http%3A//simpletax.ca/privacy.html) for the most accurate reproduction.*
 
 # SimpleTax: Privacy Policy
 
@@ -22,7 +22,7 @@ This website has been validated as both secure and authentic by an independent t
 
 ### Secure Sockets Layer (SSL)
 
-Your connection between you and our application server uses SSL. The connection is encrypted using RC4_128, with SHA1 for message authentication and RSA as the key exchange mechanism. We use a Premium SSL certificate from Comodo CA Limited. You can verify the integrity of our certificate using [this SSL checker](http://www.sslshopper.com/ssl-checker.html#hostname=app.simpletax.ca).
+The connection between you and our application server (app.simpletax.ca) uses high-grade encryption (AES-256, 256 bit keys). We use a Premium SSL certificate from Comodo CA Limited. You can verify the integrity of our certificate using [this SSL checker](http://www.sslshopper.com/ssl-checker.html#hostname=app.simpletax.ca).
 
 ### Cookies
 
@@ -30,11 +30,11 @@ A cookie is a small amount of data that includes a unique identifier that does n
 
 ### Data Storage
 
-For your security, SimpleTax uses a third-party provider to store your data. Our provider, Rackspace, leads the industry with physical and operations security. You can read about their security controls here: [www.rackspace.com/security/](http://www.rackspace.com/security/).
+Your data is stored in Tier III data centre facilities located in Vancouver, BC and Toronto, ON. In other words, your data lives in Canada. Our hosting partner, Canadian Web Hosting, is 100% Canadian owned and operated and is SSAE 16 Type II and CSAE 36416 certified.
 
 ### Disclosure of Information
 
-We comply with the Canadian Personal Information Protection and Electronic Documents Act. If required by law, we may disclose your encrypted information to law enforcement officials. Your encrypted information may be available to the government of the United Sates of America under a lawful order made in that country. 
+We comply with the Canadian Personal Information Protection and Electronic Documents Act (PIPEDA). If required by law, we may disclose your encrypted information to law enforcement officials. We are unable to disclose your decrypted information.
 
 ### Aggregate Data
 
@@ -42,6 +42,6 @@ From time to time we may collect aggregate data that we will use to improve Simp
 
 ### Questions or Concerns
 
-Should you have any questions or concerns, or would simply like to better understand the way we do things at SimpleTax, please do not hesitate to contact us.
+Should you have any questions or concerns, or would simply like to better understand the way we do things at SimpleTax, please do not hesitate to [contact us](mailto:hello@simpletax.ca).
 
-We last updated our Privacy Policy on March 25, 2013.
+We last updated our Privacy Policy on October 1, 2013.
