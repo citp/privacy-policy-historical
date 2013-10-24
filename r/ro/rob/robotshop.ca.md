@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the robotshop.ca privacy policy that was archived on 2013-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130622085115id_/http%3A//www.robotshop.com/ca/security-privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the robotshop.ca privacy policy that was archived on 2013-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131024220047id_/http%3A//www.robotshop.com/ca/security-privacy.html) for the most accurate reproduction.*
 
 # Security & Privacy - the World's Leading Source for Domestic Robot Technology - Robotshop
 
