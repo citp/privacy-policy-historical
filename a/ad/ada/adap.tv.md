@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adap.tv privacy policy that was archived on 2013-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130625022454id_/http%3A//www.adap.tv/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adap.tv privacy policy that was archived on 2013-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131024142836id_/http%3A//www.adap.tv/privacy) for the most accurate reproduction.*
 
 # 
 
@@ -42,7 +42,7 @@ _Use of Cookies By Others._ Also, the Web publisher or advertiser with whom we p
 
 ##### OPT-OUT PROCEDURE AND COOKIE CONTROL
 
-Should you wish to opt-out of us placing an Aperture audience cookie on your browser, you can click [here](http://www.adap.tv/optout) to deploy an "opt-out" cookie on your browser. This cookie, when installed on your browser, will prevent us from placing a new Aperture audience cookie on that browser and from collecting data on that browser. The NAI's opt-out tool allows you to opt-out of the data collection and targeted ad programs of other NAI members. You may access the NAI opt-out tool [here](http://www.networkadvertising.org/managing/opt_out.asp).
+Should you wish to opt-out of us placing an Aperture audience cookie on your browser, you can click [here](https://adap.tv/optout) to deploy an "opt-out" cookie on your browser. This cookie, when installed on your browser, will prevent us from placing a new Aperture audience cookie on that browser and from collecting data on that browser. The NAI's opt-out tool allows you to opt-out of the data collection and targeted ad programs of other NAI members. You may access the NAI opt-out tool [here](http://www.networkadvertising.org/managing/opt_out.asp).
 
 Our opt-out tool, and the NAI opt-out tool, are cookie-based. Both opt-out tools only prevent us from collecting data pertaining to you on the browser on which they are installed, and will only function if your browser is set to accept third-party cookies. If you delete an opt-out cookie from a browser's cookie files, we may collect data and place a new cookie unless an opt-out cookie is reset on that browser. Additionally, you may prevent us from collecting data on a browser by blocking third-party cookies in that browser. If you block third-party cookies from being set on your browser, you may not be able to enjoy some features or functionality, and you may see the same content and advertisements repeatedly on some websites.
 
