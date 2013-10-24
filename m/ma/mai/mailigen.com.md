@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mailigen.com privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530090830id_/http%3A//www.mailigen.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mailigen.com privacy policy that was archived on 2013-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131024042751id_/http%3A//www.mailigen.com/privacy-policy) for the most accurate reproduction.*
 
-# Mailigen Privacy Policy | Mailigen
+# Mailigen Privacy Policy
 
 Mailigen makes a total commitment to the privacy of the information that you provide us with. We have prepared this privacy policy, so that you can understand the care with wich we intend to take care of your personal information.
 
