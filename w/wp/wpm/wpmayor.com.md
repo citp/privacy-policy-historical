@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wpmayor.com privacy policy that was archived on 2013-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130402142117id_/http%3A//www.wpmayor.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wpmayor.com privacy policy that was archived on 2013-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131024045932id_/http%3A//www.wpmayor.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy : WPMayor
 
