@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the springahead.com privacy policy that was archived on 2013-01-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130117135803id_/https%3A//springahead.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the springahead.com privacy policy that was archived on 2013-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131024095218id_/https%3A//springahead.com/privacy.php) for the most accurate reproduction.*
 
 # 
 
