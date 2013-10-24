@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the esc4.net privacy policy that was archived on 2013-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130430162522id_/http%3A//www.esc4.net/default.aspx%3Fname%3Dpi.terms) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the esc4.net privacy policy that was archived on 2013-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131025014414id_/http%3A//www.esc4.net/default.aspx%3Fname%3Dpi.terms) for the most accurate reproduction.*
 
 # 
 
