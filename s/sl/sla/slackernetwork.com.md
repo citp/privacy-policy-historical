@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the slackernetwork.com privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602214221id_/http%3A//slackernetwork.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the slackernetwork.com privacy policy that was archived on 2013-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131024123118id_/http%3A//www.slackernetwork.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy | SlackerNetwork - Slacker is a collection of the best of what the internet has to offer, showcasing funny videos, funny movies, classic TV ads, virals, silly pictures, viral marketing, digital marketing, viral seeding & deployment, interactive media, lifestyle.
 
