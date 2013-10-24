@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the cesweb.org privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601033038id_/http%3A//cesweb.org/Privacy-Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cesweb.org privacy policy that was archived on 2013-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131024094333id_/http%3A//cesweb.org/Footer-Pages/Privacy-Policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - 2014 International CES, January 7 - 10
 
-### [Please Read Carefully Prior To Using This Website ](https://web.archive.org/Privacy-Policy/Please-Read-Carefully-Prior-To-Using-This-Website.aspx)
+### [Please Read Carefully Prior To Using This Website ](https://web.archive.org/Footer-Pages/Privacy-Policy/Please-Read-Carefully-Prior-To-Using-This-Website.aspx)
 
 The Consumer Electronics Association ("CEA") is committed to protecting the privacy and security of your personal information. We want  to share with you how we treat personal information about you that we receive in connection with this Website.
 
@@ -12,7 +12,7 @@ Also, please bear in mind that use of this Website is governed by the
 
 posted on the Website. As noted in those Terms of Use, although we operate internationally, CEA is a corporation organized under the laws of the Commonwealth of Virginia, in which CEA has its headquarters.  The servers that host this Website are located in the United States, and any personal details you provide us will be processed by CEA in the United States. CEA expressly excludes any representation or warranty, express or implied, with respect to the information available on this Website. CEA makes no representation about any third-party websites that may be accessed via links from this Website.  By using this Website, you agree that the laws of the Commonwealth of Virginia, without regard to its conflict of laws principles, will govern all matters between you and CEA with respect to your use of this Website.
 
-### [Information we collect](https://web.archive.org/Privacy-Policy/Information-we-collect.aspx)
+### [Information we collect](https://web.archive.org/Footer-Pages/Privacy-Policy/Information-we-collect.aspx)
 
 In general, you can visit our Website without telling us who you are or revealing any personal information about yourself. However, you should be aware that sections of this Website (including restricted portions of this Website) allow for the submission of personal information (referred to for convenience as "Registration Pages") including your **[name, address, email address, phone number, facsimile number, credit card or account information, and information about your interests in and use of various products, programs, and services]**. We only collect your personal information if you voluntarily submit the information to us for such purposes as event registrations, contest submissions, or requests for information, products, or services. Through certain technologies employed by this Website we also collect non-personally identifiable information about you. For more details about this type of data collection, please refer to the section below on cookies.
 
@@ -26,7 +26,7 @@ or by phone at 1-866-858-1555.  In addition, at any time you can request that w
 
 with the words "UPDATE MY INFORMATION" in the subject line or by calling us at 1-866-858-1555. Please be aware that, to protect your security and privacy, CEA will take reasonable steps to verify your identity prior to making changes to your personal information.
 
-### [How we use the information we collect and who we share it with](https://web.archive.org/Privacy-Policy/How-we-use-the-information-we-collect-and-who-we-s.aspx)
+### [How we use the information we collect and who we share it with](https://web.archive.org/Footer-Pages/Privacy-Policy/How-we-use-the-information-we-collect-and-who-we-s.aspx)
 
 CEA has a policy of not disclosing the personal information of our Website visitors to third parties for direct marketing purposes in cases where our Website users have exercised their option to prevent that information from being disclosed to third parties for such purposes.  Please note, however, that unless you indicate to us that you do not want your personal information used or shared for promotional or marketing purposes, we may provide, rent and sell lists containing your name, company, title, address, phone number and/or e-mail address to third parties and our affiliates for their direct and indirect marketing purposes, and we may use your personal information for the same purposes. When we do provide mailing lists to third parties, we enter into agreements with such parties requiring them to comply with all applicable laws, prohibiting further distribution or disclosure of the lists to other parties, and limiting use of the lists to a limited number of mailings or communications, after which the lists may not be further used for such purposes. If you do not want your personal information used by us or shared with affiliates or third parties for promotional or marketing purposes, you may opt out of having this information shared or used for such purposes by some or all parties. In such case, please refer to the section below entitled Opting Out.
 
@@ -38,7 +38,7 @@ We may also collect and group demographic and preferences information, responses
 
 We may also collect general, non-personal, statistical information about the use of the Website, such as how many visitors visit a specific page on the Website, how long they stay on that page and which hyperlinks, if any, they "click" on. We collect this information through the use of "web beacons" or other tracking technologies, which are discussed in greater detail below. We collect this information in order to determine which areas of the Website are most popular and to enhance the Website for visitors. As with other aggregated data, we may disclose such data to our existing or potential business partners, affiliates, sponsors or other third parties, but this aggregate data will in no way personally identify you or any other visitors to the Website.
 
-### [Use of cookies and web beacons](https://web.archive.org/Privacy-Policy/Use-of-cookies-and-web-beacons.aspx)
+### [Use of cookies and web beacons](https://web.archive.org/Footer-Pages/Privacy-Policy/Use-of-cookies-and-web-beacons.aspx)
 
 A "cookie" is a piece of data stored on your hard drive containing non-personally identifiable information about you. We may use cookies in order to collect certain information about you, such as IP addresses (e.g., whether you are logged on from a .com, .gov, or .edu domain), domain names (the Internet address of a computer), and the type of computer and operating system being used. We may also use cookies to identify your computer when you revisit our Website, to recall your authentication information, or to track statistical information related to navigation throughout the Website. We may collect such information in order to better operate the Website so as to enhance your experience while using the Website, and to share with advertisers to provide you with a more personalized visit to the Website. Usage of a cookie is in no way linked to any personal information while on our Website. 
 
@@ -54,7 +54,7 @@ We use third-party web beacons from Yahoo! to help analyze where visitors go and
 
 .
 
-### [Opting out](https://web.archive.org/Privacy-Policy/Opting-out.aspx)
+### [Opting out](https://web.archive.org/Footer-Pages/Privacy-Policy/Opting-out.aspx)
 
 When you submit personal information to us through the Registration Pages on this Website, you will be given an opportunity to opt out at the time of submitting your personal information to us. Unless you opt out, you may be added to our list of users who will receive promotional and marketing communications from us and our partners and other third parties. You may also 
 
@@ -64,21 +64,21 @@ When you submit personal information to us through the Registration Pages on thi
 
 If you initially elect not to opt out and later decide that you would like to opt out, you may follow the opt-out procedures outlined above.  Please keep in mind that although CEA strives to update our mailing list database as frequently as possible, it may take up to ten days to process e-mail requests and four to six weeks to process postal mail requests, during which time your information might be communicated to another party in connection with a mailing list. Additionally, you should be aware that any mailing lists that have been provided to third parties prior to your election to opt out cannot be retrieved by CEA, and you cannot retroactively opt out with respect to such third parties.  As noted above, however, when we do provide mailing lists to third parties, we enter into agreements with such parties limiting use of the lists to a limited number of mailings or communications, after which the lists may not be further used for such purposes.
 
-### [Links to other sites](https://web.archive.org/Privacy-Policy/Links-to-other-sites.aspx)
+### [Links to other sites](https://web.archive.org/Footer-Pages/Privacy-Policy/Links-to-other-sites.aspx)
 
 For your convenience, this Website may from time to time include links to third-party sites whose information practices may be different than ours. Visitors should consult the other sites' privacy policies, as we have no control over information that is submitted to, or collected by, these third parties.
 
-### [Security of information and disclosures](https://web.archive.org/Privacy-Policy/Security-of-information-and-disclosures.aspx)
+### [Security of information and disclosures](https://web.archive.org/Footer-Pages/Privacy-Policy/Security-of-information-and-disclosures.aspx)
 
 CEA uses reasonable security measures to safeguard information concerning, and submitted by, users like you. Despite the security measures employed by CEA, you should be aware that it is impossible to guarantee absolute security with respect to information sent through the Internet.
 
 CEA will, to the extent possible, control your personal information, and, except as otherwise set forth in this Privacy Policy, we will not disclose your personal information to third parties. Although we are committed to maintaining the confidentiality of your personal information, if required by law, we reserve the right to disclose such information without first obtaining your consent.
 
-### [Changes to the Privacy Policy](https://web.archive.org/Privacy-Policy/Changes-to-the-Privacy-Policy.aspx)
+### [Changes to the Privacy Policy](https://web.archive.org/Footer-Pages/Privacy-Policy/Changes-to-the-Privacy-Policy.aspx)
 
 We reserve the right to modify this Privacy Policy at any time without prior notice. In the event that we update or modify this Privacy Policy, we will strive to post such updates or modifications on this Website for a period of thirty days following any such modifications, and the last date this Privacy Policy was updated will be indicated as the latest Effective Date at the top of this Privacy Policy.  Therefore, you are advised to review this Privacy Policy occasionally, or at least every thirty days. Your continued use of this Website shall constitute your acceptance of the modified Privacy Policy.
 
-### [Contacting us](https://web.archive.org/Privacy-Policy/We-reserve-the-right-to-modify-this-Privacy-Policy.aspx)
+### [Contacting us](https://web.archive.org/Footer-Pages/Privacy-Policy/We-reserve-the-right-to-modify-this-Privacy-Policy.aspx)
 
 If you have any questions or concerns relating to this Privacy Policy, please contact us by email at [_CEA@CE.org_](mailto:CEA@CE.org) or by phone at 1-866-858-1555.  
 
