@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fiercemobilecontent.com privacy policy that was archived on 2013-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130524134433id_/http%3A//www.fiercemarkets.com/about_us/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fiercemobilecontent.com privacy policy that was archived on 2013-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131024112115id_/http%3A//www.fiercemarkets.com/about_us/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | FierceMarkets
 
@@ -21,6 +21,12 @@ As part of the subscription process for our email publications, we collect basic
 
 
 We also rent our postal mailing list from time to time, albeit rarely. In doing so, we carefully screen each mailing; we use trusted (“bonded”) third-party mailing agencies; and we never give reader contact details directly to the advertiser.
+
+## **Mobile Apps**
+
+Our mobile applications do not collect personally identifiable information. Information on your use of the app is tracked anonymously and aggregated across all users of the app to help us understand how our readers use it.
+
+Please note that links within the app make take you to a web page that is displayed within the app (the browser screen will display a “Done” button at the lower left). For FierceMarkets websites, see the notes on “Websites” above and “Events & Webinars” and “Whitepapers” below. For web sites provided by third parties, see “Additional Notes” below.
 
 ## **Events & Webinars**
 
