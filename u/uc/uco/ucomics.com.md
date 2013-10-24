@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ucomics.com privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621083105id_/http%3A//www.gocomics.com/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ucomics.com privacy policy that was archived on 2013-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131024211600id_/http%3A//www.gocomics.com/help/privacy) for the most accurate reproduction.*
 
 # GoComics.com
 
@@ -70,7 +70,7 @@ The ads appearing on this Web site are delivered to you by our Web advertising p
 [Lightningcast](http://www.lightningcast.com/company/privacy.html)  
 [MaxWorldWide](http://www.maxworldwide.com/privacy_policy/index.php)  
 [MediaPlex](http://www.mediaplex.com/privacy.shtml)  
-[Meebo](http://www.meebo.com/privacy/advertising/) [Platform-A](http://www.platform-a.com/privacy-policy)  
+[AddThis](http://www.addthis.com/advertising#.Ua5aJmT8lk0) [Platform-A](http://www.platform-a.com/privacy-policy)  
 [Tribal Fusion](http://www.tribalfusion.com/TribalFusion/privacy.html)  
 [Unicast](http://www.unicast.com/company/privacy.asp)  
 [United Virtualities](http://www.unitedvirtualities.com/)  
