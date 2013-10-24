@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ibtimes.com.au privacy policy that was archived on 2013-01-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130114020412id_/http%3A//au.ibtimes.com/aboutus/policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ibtimes.com.au privacy policy that was archived on 2013-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131024115837id_/http%3A//au.ibtimes.com/aboutus/policy.htm) for the most accurate reproduction.*
 
 # :: About International Business Times ::
 
