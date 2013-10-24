@@ -1,6 +1,14 @@
-> *The following text is extracted and transformed from the harborfreight.com privacy policy that was archived on 2013-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130620160623id_/http%3A//www.harborfreight.com/security-and-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the harborfreight.com privacy policy that was archived on 2013-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131024185743id_/http%3A//www.harborfreight.com/security-and-privacy.html) for the most accurate reproduction.*
 
-# Security & Privacy Policy
+# Security and Privacy
+
+Please click [here](https://web.archive.org/protectingcustomers) for important information.
+
+We at Harbor Freight Tools (" **Harbor Freight** ") protect the Personal Information you provide us in accordance with this Privacy and Security Policy. We have prepared this Privacy and Security Policy to let you know how we collect, use, disclose and otherwise manage the Personal Information you provide to us at any of our Harbor Freight retail stores (the " **Stores** "), through any Harbor Freight customer call centers (the " **Customer Call Centers** "), through any physical mail or e-mail sent to Harbor Freight (“Mail”), through the [http://www.harborfreight.com](http://www.harborfreight.com/) website and other sites that may currently exist and/or be established by Harbor Freight (collectively the " **Sites** ").
+
+When you provide Personal Information at our Stores, to our Customer Call Centers, or through Mail or our Sites you are consenting to the manner in which Harbor Freight will collect, use, disclose and otherwise manage your Personal Information, as described below. If you do not agree with this Privacy and Security Policy, please do not provide any Personal Information.  If you choose not to provide Personal Information, you may not be able to do certain things like access particular areas of our website, enter contests or sweepstakes, request information or send Harbor Freight an email.
+
+* * *
 
 **A. Our Promise**
 
@@ -38,7 +46,7 @@ When you return previously purchased merchandise or request a refund or exchange
 
 When you call one of Harbor Freight's Customer Call Centers about a product, delivery, a billing question or for customer service, you may be asked for information that identifies you along with additional information we need to help us promptly answer your questions, such as your name, email information, mailing address and a telephone number where we might contact you. Harbor Freight may retain this information to assist you in the future or for its other business needs. ** **
 
-**3\. Online Registration/Newletters/Offers/Coupons**
+**3\. Online Registration/Newsletters/Offers/Coupons**
 
 (a) _**_Information Harbor Freight Requests_**._ Registration and/or club or program membership is an optional service provided by Harbor Freight through its Sites. You do not have to register or join to browse or shop online. When you register or join, you are asked for certain Personal Information which may be used to assist us in our provision of services.
 
@@ -132,3 +140,5 @@ ATTN: Internet Customer Service
 **I. Changes to the Privacy and Security Statement**
 
 We may change this Privacy and Security Policy at any time in our sole discretion. Any updates to our Privacy and Security Policy will be posted on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it. Continued use of our Sites, Stores, Customer Call Centers or other Harbor Freight services following our posting of the change notice or an updated Privacy and Security Policy will constitute binding acceptance of those changes.
+
+We thank you for your business.
