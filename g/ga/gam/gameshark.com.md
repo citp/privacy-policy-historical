@@ -1,62 +1,89 @@
-> *The following text is extracted and transformed from the gameshark.com privacy policy that was archived on 2000-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001203090500id_/http%3A//www.gameshark.com/static/about_privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gameshark.com privacy policy that was archived on 2013-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131024055738id_/https%3A//store.gameshark.com/privacypolicy.asp) for the most accurate reproduction.*
 
-# About Gameshark
+# Terms of Use - GameShark® Store
 
-[](http://gameshark.com/static/about.html)
+**Mad Catz Terms of Use and Conditions  
+** (Last Updated: January 13, 2003) 
 
-**Privacy Statement**
+  **Terms of Use  
+** These Terms of Use (the "Agreement") set forth the terms and conditions that apply to your use of the Mad Catz Web Sites and the services and materials on those sites offered to you by Mad Catz, Inc. The Mad Catz Web Sites and Online Stores ([www.madcatz.com](http://www.madcatz.com/), **Mad Catz Online Privacy Policy**  
+(Last Updated: April 13, 2004)    
+ 
 
-GameShark.com has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website, GameShark.com. 
+Mad Catz, Inc. may use third-party advertising companies to serve ads. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, <http://www.networkadvertising.org/managing/opt_out.asp>.
 
-GameShark.com uses your IP address to help diagnose problems with our server and to administer our Web site. We use cookies to deliver content specific to your interests and to save your password so you don't have to re-enter it each time you visit our site. 
+If you have any questions, complaints, or feedback regarding our Privacy Policy, please feel free to contact us at:
 
-Our site's registration form requires users to give us contact information (like name and email address) and demographic information (like zip code, age, or income level). We may use customer contact information from the registration form to send the user information about our company, if they wish. The customer's contact information is also used to contact the visitor when necessary. Users must opt-in as part of the registration process to receive mailings from GameShark.com. Users may opt-out of receiving future mailings (see the choice/opt-out section below). Demographic and profile data is also collected at our site. We use this data for other purposes. This information is shared with advertisers on an aggregate basis. 
+Or by Mail:  
+Mad Catz, Inc.  
+7480 Mission Valley Road  
+Suite 101  
+San Diego, California 92108
 
-GameShark.com works with a third party that serves ads to this site. To find out more about how DoubleClick manages the privacy of information in conjunction with serving ads on this site, please go to <http://www.doubleclick.net/privacy_policy/>. 
+The site operator maintains the collection of all information obtained through the website that is submitted via online forms, contests, and sweepstakes, and the uses of collected information.
 
-Our online surveys ask visitors for contact information (like name and email address) and demographic information (like zip code, age, or income level). We may use customer contact information from our surveys form to send the user information about our company, if they wish. The visitor's contact information is also used to contact the visitor when necessary. Users must opt-in as part of the registration process to receive mailings from GameShark.com and its partners. Users may opt-out of receiving future mailings (see the choice/opt-out section below). Demographic and profile data is also collected at our site. We use this data for other purposes. This information is shared with advertisers on an aggregate basis. 
+  
+_Information Collected via the Mad Catz, Inc. Web Site_
 
-We run contests on our site in which we ask visitors for contact information (like their email address) and demographic information (like their zip code, age, or income level). We use contact data from our contests to send users information about our company and promotional material from some of our partners. Users must opt-in as part of the registration process to receive mailings from GameShark.com and its partners. User information is not distributed to third parties without the consent of the user. 
+Mad Catz, Inc. may request and collect the following information from you so that you can register with us to receive up to date newsletters on our products, participate in contests and sweepstakes, receive technical support, submit your resume for job openings, receive investor or retailer information. We will use this information to notify you whether or not you are a winner. If you signup with the newsletter, we will use the information collected from you to e-mail information to you about our products from time to time, and any promotions that we feel may be of interest to you. If at anytime you would like to unsubscribe from this newsletter, simply follow the unsubscribe instructions found at the bottom of the e-mail newsletter.
 
-We use an outside ad serving company to display advertising on our site. These ads may contain cookies. While we use cookies in other parts of our Web site, our ad serving company collects cookies received with banner ads and we do not have access to this information. 
+Information directly collected may include personal information such as your full name, address, e-mail address, phone number, city, state, postal code and country. We may also collect demographical information from you such as your gender, date of birth, game systems you use, education, top 3 reasons influencing the purchase, how you heard about Mad Catz, Mad Catz products owned, who decided on the Purchase, and the UPC#. We also passively collect your IP address and Mad Catz pages visited for web traffic analysis purposes.
 
-**Public Forums**
+Unless you have given Mad Catz consent to share your information with a Mad Catz partner, such as through an online sweepstakes, Mad Catz will not share your personal information with any third parties, except as required by law enforcement or other government officials in connection with an investigation of fraud, intellectual property infringements, or other activity that is illegal or may expose you or us to legal liability.
 
-This site makes chat rooms, forums, message boards, and/or news groups available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information. GameShark.com strongly discourages releasing personal information in our discussion groups and chat rooms. 
+  
+_Technical Support_
 
-**Security**
+If you want to submit a question or problem to our technical support and customer service center, you may be asked to provide such as name, address, date of purchase and location of purchase. Information collected is solely used to assist in addressing the problem or question and therefore is not governed by this Privacy Policy.
 
-This site has security measures in place to protect the loss, misuse and alteration of the information under our control. The measures may include extensive firewall protections; secure server configurations, and efficient router security. These security systems are monitored 24 hours a day, 7 days a week by professional network engineers and security specialists. GameShark.com aggressively investigates and prosecutes any individual or organization seeking unauthorized access to these systems. 
+  
+_Job Inquiries_
 
-**Choice**
+Mad Catz allows for the submission of resumes online. Personal information is collected from these forms to be used solely for the purpose of accepting and evaluating the applicant for potential employment. Information collected from the job inquiry form may be shared within Mad Catz.
 
-GameShark.com requires users to "opt-in" to receive unsolicited emails from the company or its partners. This means that, at the time of registration, users must explicitly agree to receive such communications. Users can also change that option and "opt out" at any time as well, by changing their user registration profile. Should any user believe that they are receiving communications against their wishes and in contravention of their choice, they should contact the GameShark.com by the following means: 
+  
+_Investor Relations_
 
-  1. Send email to [gina@gameshark.com](mailto:gina@gameshark.com) with the subject line "OPT OUT OF COMMUNICATIONS". Fully describe your request in the body of your message. 
-  2. Send a letter to: 
+Mad Catz provides investor relations materials on its web site. Personal information collected on the investor relations' portion of the Mad Catz web site is used solely in a business capacity and is not governed by this Privacy Policy.
 
-User Registration  
-GameShark.com  
-PO Box 1407  
-Cockeysville, MD 21030-1407 
+  
+_Information refusal_
 
+In the event where you refuse to submit your personal information; this may limit your ability to participate in many aspects of the Mad Catz web site including the registration of products, contact forms, contests and sweepstakes, newsletters and demographic statistics. However, you do not need to directly provide information to access the web sites.
 
+Mad Catz does track Internet Protocol (IP) Addresses passively to collect information about you for safety, security and demographical reasons.
 
+  
+_Choosing how your information is used_
 
-**Correct/Update**
+If you would like to be removed from further communications from Mad Catz about its products or promotions, you can request to be removed from receiving these communications by contacting us via e-mail or by regular mail at:
 
-GameShark.com provides the following means for changing or updating information previously proviced to the site: 
+Mad Catz, Inc.  
+7480 Mission Valley Road  
+Suite 101  
+San Diego, California 92108
 
-  1. Update user registration profile. 
-  2. Send email to [gina@gameshark.com](mailto:gina@gameshark.com) with the subject line "UPDATE USER INFORMATION". Fully describe your request in the body of your message. 
-  3. Send a letter to: 
+  
+_Accessing your personal information_
 
-User Registration  
-GameShark.com  
-PO Box 1407  
-Cockeysville, MD 21030-1407 
+You have the right to view, change, or delete personal information collected about you that is stored in our database. Please contact us via e-mail or regular mail with your request at:
 
-[<< Back to About Gameshark.](http://gameshark.com/static/about.html)
+Mad Catz, Inc.  
+7480 Mission Valley Road  
+Suite 101  
+San Diego, California 92108
 
+  
+_Collecting Personal Information from Children_
 
+Acknowledging and recognizing the rights and privacy of information from young children under the age of 13, Mad Catz does not collect or store information from children 12 years of age or under.
 
+  
+_Unsubscribing to Mad Catz Newsletter_
+
+To unsubscribe to the Mad Catz Newsletter, please e-mail [madcatznews@madcatz.com](mailto:madcatznews@madcatz.com) with the subject line Unsubscribe, using the e-mail account that you are subscribed with.
+
+  
+_Changes to this Privacy Policy_
+
+Mad Catz will occasionally update this Privacy Policy to continue to be compliant with Privacy Protection laws and to further protect your information. When we do, we will also revise the last updated date stamp at the top of this privacy policy.
