@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nuzcom.com privacy policy that was archived on 2013-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130607164225id_/http%3A//nuzcom.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nuzcom.com privacy policy that was archived on 2013-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131024130948id_/http%3A//nuzcom.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
