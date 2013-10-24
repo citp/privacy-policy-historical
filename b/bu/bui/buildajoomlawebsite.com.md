@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the buildajoomlawebsite.com privacy policy that was archived on 2013-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130510060239id_/http%3A//www.buildajoomlawebsite.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buildajoomlawebsite.com privacy policy that was archived on 2013-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131024035843id_/http%3A//www.buildajoomlawebsite.com/about/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - About - Build a Joomla Website
+# Privacy Policy | About ~ Build a Joomla Website
 
 We respect your privacy and we are committed to ensuring that best practices are used throughout our website.
 
@@ -28,4 +28,4 @@ In addition, we send you follow-up emails that may include information and offer
 
 ## Contact
 
-If you have any questions or concerns regarding your privacy, please [contact us](https://web.archive.org/contact-us).
+If you have any questions or concerns regarding your privacy, please [contact us](http://www.buildajoomlawebsite.com/contact-us).
