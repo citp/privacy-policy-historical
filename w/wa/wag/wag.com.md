@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wag.com privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502220221id_/http%3A//www.wag.com/helpcenter/privacypolicy.qs) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wag.com privacy policy that was archived on 2013-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131024034306id_/http%3A//www.wag.com/helpcenter/privacypolicy.qs) for the most accurate reproduction.*
 
 # Privacy Policy: Help Center - Wag.com
 
