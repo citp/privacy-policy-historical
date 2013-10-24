@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the openlaszlo.org privacy policy that was archived on 2013-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130331063206id_/http%3A//www.openlaszlo.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the openlaszlo.org privacy policy that was archived on 2013-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131024050507id_/http%3A//www.openlaszlo.org/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | OpenLaszlo
 
