@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trumpnetwork.com privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501041452id_/http%3A//bioceutica.com/Links/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trumpnetwork.com privacy policy that was archived on 2013-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131024204305id_/http%3A//bioceutica.com/Links/Privacy.aspx) for the most accurate reproduction.*
 
 # Bioceutica
 
