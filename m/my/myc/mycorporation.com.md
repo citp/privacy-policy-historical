@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mycorporation.com privacy policy that was archived on 2013-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130507120442id_/http%3A//www.mycorporation.com/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mycorporation.com privacy policy that was archived on 2013-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131024204642id_/http%3A//www.mycorporation.com/privacy.jsp) for the most accurate reproduction.*
 
 # Privacy | MyCorporation®
 
@@ -8,7 +8,7 @@ At MyCorporation, we place the highest importance on respecting and protecting t
 
 ### We protect your information
 
-We work to protect your personal information from loss, misuse or unauthorized alteration by using industry-recognized security safeguards. We use both internal and external resources to review our security procedures. Our employees are trained and required to safeguard your information. [Tell me more](https://web.archive.org/privacy.jsp?view=protect_privacy)
+We work to protect your personal information from loss, misuse or unauthorized alteration by using industry-recognized security safeguards. We use both internal and external resources to review our security procedures. Our employees are trained and required to safeguard your information.
 
 ### We tell you how we use your information
 
@@ -35,13 +35,13 @@ At any time you may request to update or correct your personal, corporate or fin
 
 **To unsubscribe from MyCorporation marketing communications** , please email [customersupport@mycorporation.com](mailto:customersupport@mycorporation.com?subject=Unsubscribe%20Me) and include the words "Unsubscribe Me" in the subject line.
 
-## Privacy Protection
+### Privacy Protection
 
 We protect the confidentiality and security of your personal information by using industry-recognized security safeguards such as firewalls, coupled with carefully developed security procedures to protect your information from loss, misuse or unauthorized alteration. Whenever we ask for sensitive information, such as credit card numbers, we encrypt it as it is transmitted to us.
 
 Our employees are trained and required to safeguard your information and, using physical, electronic and procedural safeguards, we restrict access to personal information to those employees and agents for business purposes only. Additionally, we use internal and external resources to review the adequacy of our security procedures.
 
-## Services
+### Services
 
   * **Order Processing:** The personal information that is collected to process your order might include contact information (name, mailing address, telephone number, fax number and/or email address); corporate information (business name and description of business, information regarding directors, officers, members, stockholders and registered agent and information regarding shares of stock and par value); and financial information (checking account, name on account, credit card number and expiration date), depending upon the nature of your order.
 
@@ -51,7 +51,7 @@ The contact information, corporate information and financial information from th
 
 
 
-## Web Technology
+### Web Technology
 
 We use a variety of technologies on our Web site. Among these are cookies, which are pieces of information that our Web sites provide to your browser. Cookies allow us to track overall site usage and determine areas users prefer. Cookies also allow us to customize your visit to our Web site by recognizing you when you return. You can choose to decline cookies while at our Web site, however, this may limit your ability to access certain areas of the Web site. Most browsers accept and maintain cookies by default. Check the "Help" menu of your browser to learn how to change your cookie preference.
 
@@ -61,7 +61,7 @@ We may access and set cookies using Web beacons, also known as single-pixel GIFs
 
 Advertising networks that serve ads on our Web site may assign a different cookie to you. The information collected is anonymous and is not linked to your personal information. These cookies may be used to select which ads you see and determine the effectiveness of this advertising. You may choose to decline cookies from third-party ad servers, which MyCorporation does not control. If you would like to know more about this practice and your choices about not having this information used by third-party ad servers, please [click here](http://www.networkadvertising.org/consumer/opt_out.asp).
 
-## More about our relationships with third parties
+### More about our relationships with third parties
 
 Sometimes, we enter into contracts with third parties who assist us in servicing you such as filling customer orders or providing customer service. The contracts outline the appropriate use and handling of your information and prohibit third parties from using any of your personal information for purposes unrelated to the product or service for which they've been contracted. Vendors are required to maintain the confidentiality of the information we provide to them. We may disclose or report personal information in limited circumstances where we believe in good faith that disclosure is required under the law. For example, we may be required to disclose personal information to cooperate with regulators or law enforcement authorities, to comply with a legal process such as a court order, subpoena, search warrant, or a law enforcement dynamoRequest.
 
