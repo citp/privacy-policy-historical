@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the looxcie.com privacy policy that was archived on 2013-06-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130624110100id_/http%3A//www.looxcie.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the looxcie.com privacy policy that was archived on 2013-10-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131024042043id_/http%3A//www.looxcie.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html dir="ltr" lang="en-US"><!--<![endif]--><head>
     <meta charset="UTF-8">
@@ -15,9 +15,48 @@
 <script type="text/javascript">try{Typekit.load();}catch(e){}</script>
 
 
-<!-- This site is optimized with the Yoast WordPress SEO plugin v1.4.6 - http://yoast.com/wordpress/seo/ -->
-<link rel="canonical" href="http://www.looxcie.com/privacy-policy/">
+<!-- Set Cookie for Contest -->
+
+<script type="text/javascript">
+function getCookie(c_name) {
+	var c_value = document.cookie;
+	var c_start = c_value.indexOf(" " + c_name + "=");
+	if (c_start == -1) {
+		c_start = c_value.indexOf(c_name + "=");
+	}
+	if (c_start == -1) {
+		c_value = null;
+	}
+	else {
+	c_start = c_value.indexOf("=", c_start) + 1;
+	var c_end = c_value.indexOf(";", c_start);
+	if (c_end == -1) {
+		c_end = c_value.length;
+	}
+	c_value = unescape(c_value.substring(c_start,c_end));
+	}
+	return c_value;
+}
+
+function setCookie(c_name,value) {
+	var exdate=new Date();
+	exdate.setTime(new Date().getTime() + 60000);
+	var c_value=escape(value) + "; path=/";
+	document.cookie=c_name + "=" + c_value;
+}
+
+function checkCookie(cookieName) {
+    setCookie(cookieName,"1");
+}
+</script>
+
+
+
+
+
+<!-- This site is optimized with the Yoast WordPress SEO plugin v1.4.15 - http://yoast.com/wordpress/seo/ -->
 <meta name="robots" content="noodp,noydir">
+<link rel="canonical" href="http://www.looxcie.com/privacy-policy/">
 <!-- / Yoast WordPress SEO plugin. -->
 
 <link rel="stylesheet" id="recaptcha-fluid-css" href="http://www.looxcie.com/wp-content/plugins/recaptcha-login/recaptcha-fluid.css?ver=3.4.1" type="text/css" media="all">
@@ -156,19 +195,80 @@ $('#fancybox-auto').trigger('click');
   </head>
 <body class="page page-id-1008 page-template page-template-template_a-php template_a page-privacy-policy singular two-column right-sidebar">
 
+<!--
 <div title="Win a Looxcie HD!" id="winBalloon">
-<div id="winPopper"><img src="/wp-content/uploads/2013/04/win-balloon-x.png"></div>
-<a href="/hd-giveaway"><img src="/wp-content/uploads/2013/03/WIN2.png"></a></div>
+<div id="winPopper"><img src="/wp-content/uploads/2013/04/win-balloon-x.png" /></div>
+<a href="/hd-giveaway"><img src="/wp-content/uploads/2013/03/WIN2.png" /></a></div>
 <script type="text/javascript">
 document.getElementById("winPopper").onclick = function() {
 document.getElementById("winBalloon").style.display = "none";
 }
-</script>
+</script> -->
 
   <div class="container">
+
+
+<!-- Script for contest slide up -->
+<script type="text/javascript">
+jQuery(document).ready(function(){
+  jQuery("#giveawayImage").mouseover(function(){
+    jQuery("#panel1").slideToggle(1200);
+    jQuery("#panel1").delay(5000).slideToggle(1200);
+  }); 
+  jQuery("#giveawayImage1").mouseover(function(){
+    jQuery("#panel1").slideToggle(1200);
+    jQuery("#panel1").delay(5000).slideToggle(1200);
+  });
+  jQuery("#panel").delay(1000).slideToggle(1200);
+  jQuery("#panel").delay(5000).slideToggle(1200);
+  jQuery("#giveawayTab").delay(2000).slideToggle(1200);
+});
+</script>
+<!-- End contest slide up script -->
+
+
+
+<!-- Contest slide up -->
+<div id="contestFooter" style="position:fixed; bottom:0; z-index:10; width:1024px;">
+<div style="position:relative;">
+
+<div id="giveawayTab" style="display:none"><a href="http://www.looxcie.com/hd-giveaway/"><img id="giveawayImage" src="/wp-content/uploads/2013/06/daily_giveaway_tab.png"></a></div>
+<div id="giveawayTab1"><a href="http://www.looxcie.com/hd-giveaway/"><img style="display:none" id="giveawayImage1" src="/wp-content/uploads/2013/06/daily_giveaway_tab.png"></a></div>
+<div id="panel1"><a href="http://www.looxcie.com/hd-giveaway/"><img src="/wp-content/uploads/2013/06/contest-footer-banner3.png"></a></div>
+
+<div id="panel"><a href="http://www.looxcie.com/hd-giveaway/"><img id="panelImage" src="/wp-content/uploads/2013/06/contest-footer-banner3.png" onload="checkCookie('slideUpBanner');"></a>
+
+<script>
+var slideUpBanner=getCookie('slideUpBanner');
+if (slideUpBanner != null) {
+  document.getElementById('panelImage').style.display='none';
+  document.getElementById('giveawayImage').style.display='none';  
+  document.getElementById('giveawayImage1').style.display='inline';  
+}
+</script>
+
+</div>
+</div>
+</div>
+<!-- End contest slide up -->
+
+
+
+
+
+
+
+
+
   <!-- ADDED M CONDITION FOR MOBILE TEMPLATE -->
     <div class="header">
       <div class="main_nav">
+
+<div id="enterprise-block">
+<a style="text-decoration:none;" href="http://www.vidcie.com/"><span id="enterprise-text">Looxcie for Enterprise</span></a>
+<img style="margin-top:-5px; text-align:right" src="/wp-content/uploads/2013/07/enterprise_building.png">
+</div>
+
 <div class="promo-button" style="background-image: url(http://www.looxcie.com/wp-content/uploads/2013/03/promo-bg.png);
 display:none;
 width: 179px;
@@ -221,10 +321,10 @@ color: #444;
 
 			<div id="login-menu">
 <a href="/"><img src="http://www.looxcie.com/wp-content/themes/looxcie/images/logo_white.png" alt="Looxcie" title="Looxcie" id="logo"></a>
-<div class="menu-looxcie-container"><ul id="menu-looxcie" class="menu"><li id="menu-item-5121" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5121"><a title="Buy Looxcie Products" href="http://www.looxcie.com/products/">Products</a></li>
+<div class="menu-looxcie-container"><ul id="menu-looxcie" class="menu"><li id="menu-item-5983" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5983"><a title="Buy Looxcie Products" href="http://www.looxcie.com/products/">Products</a></li>
 <li id="menu-item-5646" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5646"><a href="http://www.looxcie.com/videos/">Videos</a></li>
-<li id="menu-item-660" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-660"><a href="http://www.looxcie.com/support/">Support</a></li>
-<li id="menu-item-4229" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4229"><a title="About Looxcie" href="http://www.looxcie.com/about/">About</a></li>
+<li id="menu-item-6357" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6357"><a href="https://support.looxcie.com">Support</a></li>
+<li id="menu-item-6957" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6957"><a href="http://www.looxcie.com/about/">About</a></li>
 </ul></div>
 </div> <!-- /login-menu -->
 
@@ -455,27 +555,29 @@ Please contact Looxcie with any questions or comments about this Privacy Notice,
 
 
 	    <table class="images"><tbody><tr style="vertical-align:middle; height:90px ">
-<td style="text-align:center;">
 
-<a onclick="MyWindow9=window.open('http://www.verizonwireless.com/b2c/storelocator/index.jsp','MyWindow9','toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=yes,resizable=yes,width=750,height=500,left=100,top=50'); return false;" href="#"><img src="/wp-content/themes/looxcie/images/verizon-logo-green.png" alt="Verizon"></a>
-
-</td>
-<td>
-
-<a onclick="MyWindow10=window.open('http://www.frys.com/product/7591766','MyWindow10','toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=yes,resizable=yes,width=1000,height=600,left=100,top=50'); return false;" href="#"><img src="/wp-content/uploads/2013/03/frys_electronics_logo_green.png" alt="Frys"></a>
-
-            </td>
 <td>
 
 <a onclick="MyWindow10=window.open('http://www.amazon.com/s/ref=nb_sb_noss_1?url=search-alias%3Daps&amp;field-keywords=looxcie+hd&amp;rh=i%3Aaps%2Ck%3Alooxcie+hd&amp;ajr=2','MyWindow10','toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=yes,resizable=yes,width=1000,height=600,left=100,top=50'); return false;" href="#"><img src="/wp-content/themes/looxcie/images/amazon-logo-green.png" alt="Amazon"></a>
 
             </td>
+
+<td>
+
+<a onclick="MyWindow10=window.open('http://www.frys.com/product/7591766','MyWindow10','toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=yes,resizable=yes,width=1000,height=600,left=100,top=50'); return false;" href="#"><img src="/wp-content/uploads/2013/03/frys_electronics_logo_green.png" alt="Frys"></a>
+
+            </td>
+
             <td>
 <a onclick="MyWindow11=window.open('http://www.bhphotovideo.com/c/search?Ntt=looxcie&amp;N=0&amp;InitialSearch=yes','MyWindow11','toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=yes,resizable=yes,width=800,height=850,left=100,top=50'); return false;" href="#"><img src="/wp-content/themes/looxcie/images/bh-logo-green.png" alt="B&amp;H Photo"></a>
             </td>
 
+			            <td>
+<a onclick="MyWindow12=window.open('http://www.adorama.com/catalog.tpl?op=itemlist&amp;cat1=Video&amp;feature1=looxcie','MyWindow12','toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=yes,resizable=yes,width=950,height=750,left=100,top=50'); return false;" href="#"><img src="/wp-content/themes/looxcie/supporting/images/adorama-logo-green.png" alt="Adorama"></a>
+			            </td>
+
             <td class="more">
-	    <a href="/about/#!about-wheretobuy"><span>Find more resellers ►</span></a>
+	    <a href="/about/wheretobuy/"><span>Find more resellers ►</span></a>
 	    </td>
        </tr></tbody></table>
 
@@ -511,10 +613,10 @@ Please contact Looxcie with any questions or comments about this Privacy Notice,
 <!-- footer-left end -->
 <div id="footer-right">
  <ul class="links">
-    <li><a href="/products/#!apps">Apps</a></li>
-    <li><a href="/about/#!careers">Careers</a></li>
-    <li><a href="/about/#!contact">Contact Us</a></li>
-    <li><a href="/about/#!enterprise">Enterprise</a></li>
+    <li><a href="/products/apps">Apps</a></li>
+    <li><a href="/about/careers">Careers</a></li>
+    <li><a href="/about/contact">Contact Us</a></li>
+    <li><a href="/about/enterprise">Enterprise</a></li>
     <li><a href="/newsroom">Newsroom</a></li>
   </ul>
 </div>
