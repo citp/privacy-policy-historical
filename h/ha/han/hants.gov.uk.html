@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the hants.gov.uk privacy policy that was archived on 2013-03-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130322021215id_/http%3A//www.hants.gov.uk/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the hants.gov.uk privacy policy that was archived on 2013-10-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131024171850id_/http%3A//www.hants.gov.uk/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 <base href="http://www3.hants.gov.uk/">
@@ -13,7 +13,7 @@
 	<meta name="DC.Title" content="Privacy">
 	<meta name="DC.Subject" content="">
 	<meta name="DC.Description" content="">
-	<meta name="DC.Date" content="22-03-2013">
+	<meta name="DC.Date" content="24-10-2013">
 	<meta name="DC.Type" content="Web Publishing System">
 	<meta name="DC.Creator" content="Hampshire County Council. The Castle, Winchester, Hampshire SO23 8UJ; info@hants.gov.uk">
 	<meta name="DC.Publisher" content="Hampshire County Council. The Castle, Winchester, Hampshire SO23 8UJ; info@hants.gov.uk">
@@ -171,8 +171,6 @@
 		
 			<li><span>Privacy</span></li>
 		
-			<li><a href="advertising.htm">Advertising</a></li>
-		
 		</ul>
 	
 			<li><a href="mediareleases">Media Releases</a></li>
@@ -268,141 +266,12 @@
 		//]]>
 		</script>
 		
-<script type="text/javascript">
-/* <![CDATA[ */
-var escapedHash = "";
-
-$(function()
-{
-	function redirectTo(url)
-	{
-        // Hack to make IE send the HTTP referrer on click
-		if($.browser.msie)
-		{
-			var referLink = document.createElement('a');
-			referLink.href = url;
-			document.body.appendChild(referLink);
-			referLink.click();
-		}
-		else location.href = url;
-	}
-	
-	/*
-	var bookmarked = Boolean();
-	if(bookmarked) alert("The page has been added to your myHantsweb bookmarks.");
-	*/
-	
-	try
-	{
-		if(location.hash) escapedHash = encodeURIComponent(location.hash);
-	}
-	catch(e){};
-	
-	$("a.myinfo-add").click(function()
-	{
-		var bolPrintList = $(this).attr("class").split(" ")[1] == "printlist-add" ? true : false;
-		$a = $(this);
-		var objParams = {};
-		var arrParams = ($a.attr("href").split("?")[1]).split("&");
-		var arrParam;
-		for(var i = 0; i < arrParams.length; i++)
-		{
-			if(arrParams[i])
-			{
-				arrParam = arrParams[i].split("=");
-				if(arrParam[0] && arrParam[1]) objParams[arrParam[0]] = unescape(arrParam[1]).replace(/\%3A/g, ":");
-			}
-		}
-		// Debugging
-		/*
-		var strParams = "";
-		for(var prop in objParams)
-		{
-			strParams += prop + ": " + objParams[prop] + "\n";
-		}
-		alert(strParams);
-		*/
-		var strBookmarkTitle = objParams.bookmarkTitle ? objParams.bookmarkTitle : objParams.title;
-		var strType = objParams.type ? objParams.type.toUpperCase() : "I";
-		$.get
-		(
-			(bolPrintList ? "addtoprintlist" : "addtomyinfo"),
-			{
-				id : objParams.id,
-			 	url : objParams.url,
-			 	query : objParams.query + location.hash,
-			 	title : objParams.title,
-				bookmarkTitle :	strBookmarkTitle,
-				type : strType,
-				ajax : "yes"
-			},
-			function(data)
-			{
-				if(parseInt(data))
-				{
-					// Debugging
-					/*
-					var strObject = "";
-					for(var prop in $a[0])
-					{
-						strObject += prop + ": " + $a[0][prop] + "\n";
-					}
-					alert(strObject);
-					*/
-					renderMsg(bolPrintList ? (strType == "E" ? 'Link' : 'Page') + " added to print list!" : "Bookmark added!", $a, bolPrintList);
-				}
-				else if(bolPrintList && data && data.split("::")[0] == "null")
-				{
-					renderMsg('You arleady have ' + data.split("::")[1]
-					          + ' ' + (strType == "E" ? 'links' : 'pages') + ' in your print list: '
-							  + '<a href="createbooklet.htm">manage print list and print</a>?',
-							  //+ (bolLagan ? '<a href="createbooklet.htm?preview=yes">manage print list and print</a>' : '<a href="createbooklet.htm">manage print list and print</a>?'),
-							  $a,
-							  bolPrintList,
-							  60000);
-				}
-				else if(!bolPrintList)
-				{
-					strBookmarkTitle = strBookmarkTitle ? "&bookmarkTitle=" + encodeURIComponent(strBookmarkTitle) : "";
-					redirectTo("myhantswebredirectnossl?target=login&returnUrl=" + encodeURIComponent(objParams.url) + escapedHash
-					           + "&returnPageName=" + encodeURIComponent(objParams.title)
-							   + "&infoType=" + encodeURIComponent(strType) + "&infoParams=" + encodeURIComponent(objParams.query) + escapedHash
-							   + "&infoId=" + encodeURIComponent(objParams.id)  + strBookmarkTitle + "&bookmark=yes");	
-				}
-			}
-		);
-		return false;
-	});
-	
-	function renderMsg(msg, $a, _printList, _speed)
-	{
-		var strPrintList  = _printList ? "ToPrintList" : "";
-		var strLeftPos  = _printList ? "40px" : "60px";
-		var bolInLaganFooter = false;
-		try
-		{
-			bolInLaganFooter = (_printList && bolLagan && $a.parent().parent().parent().attr("id") == "footer");
-		}
-		catch(e){};
-		var intSpeed = _speed === undefined ? 4000 : _speed;
-		var $msg = bolInLaganFooter ? $a.parent().parent().find("span.addedToPrintListOkay") : $a.next('span.added' + strPrintList + 'Okay');
-		$msg.addClass("activeMsg");
-		$msg.html(msg);
-		$msg.fadeOut(intSpeed, function()
-		{
-			$msg.removeClass("activeMsg");
-			$msg.html('');
-			$msg.hide();
-		});
-	}
-});
-/* ]]> */
-</script>
+<script type="text/javascript" src="addtomyinfo-ajax.js"></script>
 
 <a class="myinfo-add myhantsweb-button" rel="nofollow" href="addtomyinfo?id=115267&amp;url=http%253A%2f%2fwww3.hants.gov.uk%2fprivacy.html&amp;query=&amp;type=I&amp;title=Privacy&amp;bookmarkTitle=Privacy"><img src="ico-add-my-info.png" width="16" height="16" alt="Add to myHantsweb Information" class="myhantsweb-icon" title="Add to myHantsweb Information" style="vertical-align:middle;"></a>
 <span class="addedOkay myhantsweb-button"></span>
 <span class="printlist-container">
-	<a class="myinfo-add printlist-add" rel="nofollow" href="addtoprintlist?id=115267&amp;url=http%253A%2f%2fwww3.hants.gov.uk%2fprivacy.html&amp;query=&amp;type=I&amp;title=Privacy&amp;bookmarkTitle=Privacy"><img src="page_white_add.png" width="16" height="16" alt="add to booklet" class="vertimg" title="Add to Booklet"></a>
+	<a class="myinfo-add printlist-add" rel="nofollow" href="addtoprintlist.htm?id=115267&amp;url=http%253A%2f%2fwww3.hants.gov.uk%2fprivacy.html&amp;query=&amp;type=I&amp;title=Privacy&amp;bookmarkTitle=Privacy"><img src="page_white_add.png" width="16" height="16" alt="add to booklet" class="vertimg" title="Add to Booklet"></a>
 	<span class="addedToPrintListOkay"></span>
 </span>
 <a href="createbooklet.htm"><img src="managemybooklet.png" width="19" height="16" alt="Manage Booklet" class="vertimg" id="printlist-manage" title="Manage Booklet"></a>
