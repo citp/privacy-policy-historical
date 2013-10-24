@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mydestination.com privacy policy that was archived on 2013-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130517123245id_/http%3A//www.mydestination.com/corporate/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mydestination.com privacy policy that was archived on 2013-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131024123340id_/http%3A//www.mydestination.com/corporate/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy My Destination
 
@@ -81,4 +81,4 @@ MY DESTINATION may amend this Privacy Policy from time to time and such amendmen
 
 This Privacy Policy will be governed by English law and the parties hereby submit to the exclusive jurisdiction of the English courts.
 
-"If at some point you don't ask yourself, 'What have I gotten myself into?' then you're not doing it right" \- Roland Gau
+"The World is a book, and those who do not travel read only a page" \- Saint Augustine
