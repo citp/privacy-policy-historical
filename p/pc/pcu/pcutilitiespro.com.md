@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the pcutilitiespro.com privacy policy that was archived on 2013-01-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130121105750id_/http%3A//www.pcutilitiespro.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pcutilitiespro.com privacy policy that was archived on 2013-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131024140426id_/http%3A//www.pcutilitiespro.com/privacy.php) for the most accurate reproduction.*
 
-# PCUtilitiesPro | Policy
+# PCUtilitiesPro | Home Page
+
+﻿
 
 As you may know, Engaging in business may require the exchange of information between the parties engaging in business. Fully described herewith is our site's Privacy Policy, describing the information we may collect, the reason behind it, how we use it with and how we protect your information and yourself the consumer 
 
@@ -19,6 +21,20 @@ When purchasing one of our products, we will ask you for your full contact detai
 
 **Download:**   
 When downloading a free trial version from one of the software programs or any full version software, you will be requested for your contact information such as your email address. You may get email messages from us that relate to any transaction. The email subjects may include download referral links, activation software information, help & support alerts and upgrades for the software full version and updates as well. 
+
+We also collect technical information about your computer in order to carry out the software Service. This includes your IP Address, browser type, Operating system version, GUID Identification, and Customer Configuration. Your technical information is associated with your personal account. This information is used to understand the correct configuration for your computer, what your actual configuration contains, in order to carry out the functions of the Service that you have selected. Note: We do not make copies of your program or data files on your computer to perform the Service. 
+
+**Why do we collect Your Personal Information?**  
+We collect the personal information:  
+• To conduct repairs and maintenance on your computer as requested by you  
+• To perform archive and restoration activities requested by you  
+• Newsletter subscriptions  
+• Personalization of the user experience on the software  
+• Scientific research and improvement of the Service  
+• To notify you of our new services or changes to our existing Services  
+• To send you technical or service-related communications  
+• To enforce the Terms of Service  
+
 
 ### What we do with the information collected:
 
@@ -52,9 +68,9 @@ You as the user will always be notified should we decide to change this Policy s
 
 ### Always Feel Free To Contact Us!
 
-If there are any questions regarding this privacy policy or if you believe that this website is not following its stated privacy policy, please contact us through our [Contact Us](https://web.archive.org/contact.aspx) page. 
+If there are any questions regarding this privacy policy or if you believe that this website is not following its stated privacy policy, please contact us through our [Contact Us](https://web.archive.org/contact.php) page. 
 
-The PC Utilities Pro Team!
+The Pc Utilities Software Limited. Team!
 
-|    |   
+|   |   
 ---|---|---
