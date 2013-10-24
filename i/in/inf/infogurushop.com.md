@@ -1,11 +1,13 @@
-> *The following text is extracted and transformed from the infogurushop.com privacy policy that was archived on 2013-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130518102419id_/http%3A//www.infogurushop.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the infogurushop.com privacy policy that was archived on 2013-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131024024000id_/http%3A//www.infogurushop.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy/Terms of Use | Infogurushop
+
+## Privacy Policy
 
   
 This privacy policy sets out how Infogurushop.Com [IGS] uses and protects any information that you give Infogurushop.Com [IGS] when you use this website. Infogurushop.Com [IGS] is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement. Infogurushop.Com [IGS] may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from 1st of March, 2013.
 
-### What we collect
+## What We Collect
 
 We may collect the following information:
 
@@ -19,7 +21,11 @@ We may collect the following information:
 
 * other information relevant to customer membership, surveys and/or offers
 
-### What we do with the information we gather
+* At IGS we ONLY ask and collect such information so we can better design, profile, meet and set-up YOUR ad page or services
+
+* We will NEVER sell or disclose to any third-party your confidential information and if ever asked we will notify you by email.
+
+## What we do with the information we gather
 
 We require this information to better understand your needs and provide you with a better service, and in particular for the following reasons:
 
@@ -31,23 +37,23 @@ We require this information to better understand your needs and provide you with
 
 * From time to time, we may also use your information to contact you for market research purposes. We may contact you by email, phone, fax or mail. We may use the information to customise the website according to your interests.
 
-### Security
+## Security
 
-Inforgurushop.Com [IGS] is committed to ensuring that your information is secure. In order to prevent unauthorised access or disclosure we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online.
+Inforgurushop.Com [IGS] is committed to ensuring that your information is secure. In order to prevent unauthorised access or disclosure we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online. At IGS only the Admin Team has direct access to private and confidential user information which is guarded by Senior Management. Due to increasing Web security concerns we are trying to install ENCRYPTION into all forms, database and email services, our security is solid and we are confident encryption will further improve all files and information.
 
-### How we use cookies
+## How we use cookies
 
 At this moment in time we do not use cookies. However, this may change in time and we will update this privacy policy accordingly. A cookie is a small file which asks permission to be placed on your computer’s hard drive. Once you agree, the file is added and the cookie helps analyse web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences.We use traffic log cookies to identify which pages are being used. This helps us analyse data about webpage traffic and improve our website in order to tailor it to customer needs. We only use this information for statistical analysis purposes and then the data is removed from the system.Overall, cookies help us provide you with a better website, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us.You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website.
 
-### Links to other websites
+## Links to other websites
 
 Our website does contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.
 
-Controlling your personal information
+**Controlling your personal information**
 
 You may choose to restrict the collection or use of your personal information in the following ways:
 
-* whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes
+* whenever you are asked to fill in a form on the website, look for the box that you can ‘opt-out’ of subscribing or information to be used for email contact or any other marketing, promotional or contact purpose
 
 * if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by emailing or **writing to us.  **
 
@@ -55,9 +61,9 @@ We will not sell, distribute or lease your personal information to third parties
 
 ## Terms of Use
 
-Welcome to our website. If you continue to browse and use this website you are agreeing to comply with and be bound by the following terms and conditions of use, which together with our privacy policy govern Infogurushop.Com [IGS] relationship with you in relation to this website.The term ‘Infogurushop.Com [IGS] ’ or ‘us’ or ‘we’ refers to the owner of the website whose registered office details are available to the public at WhoIs.Net. The term ‘you’ refers to the user or viewer of our website.The use of this website is subject to the following terms of use:
+Welcome to our website. If you continue to browse and use this website you are agreeing to comply with and be bound by the following terms and conditions of use, which together with our privacy policy govern Infogurushop.Com [IGS] relationship with you in relation to this website. The term ‘Infogurushop.Com [IGS] ’ or ‘us’ or ‘we’ refers to the owner of the website whose registered office details are available to the public at WhoIs.Net. The term ‘you’ refers to the user or viewer of our website.The use of this website is subject to the following terms of use:
 
-* The content of the pages of this website is for your general information and use only. It is subject to change without notice.
+* The content of the pages of this website is for your general video advertising and information use only. It is subject to change without notice.
 
 * Neither we nor any third parties provide any warranty or guarantee as to the accuracy, timeliness, performance, completeness or suitability of the information and materials found or offered on this website for any particular purpose. You acknowledge that such information and materials may contain inaccuracies or errors and we expressly exclude liability for any such inaccuracies or errors to the fullest extent permitted by law.
 
@@ -69,10 +75,12 @@ Welcome to our website. If you continue to browse and use this website you are a
 
 * Unauthorised use of this website may give rise to a claim for damages and/or be a criminal offence.
 
-* From time to time this website may also include links to other websites. These links are provided for your convenience to provide further information. They do not signify that we endorse the website(s). We have no responsibility for the content of the linked website(s).
+*It is not [illegal](http://www.bc.edu/bc_org/avp/law/st_org/iptf/headlines/content/2000040401.html) to hypertext or link to other websites. At IGS we _always_ link directly to the originator or Copyright source. Our site contains links to external third-party websites under the over which we have no control. Thus we disclaim any warranty for these contents. The respective provider or operator of such sites is always responsible for the contents of the linked sites. The linked sites were checked at the time of linking for possible violations of law. Illegal contents were not apparent at the time of linking. A permanent control of the linked pages is unreasonable without concrete evidence of a violation.
 
-* You may not publicly or online mention or create a link to this website from another website or document without Infogurushop.Com [IGS] prior legal owners written consent.
+* Your use of this website and any dispute arising out of such use of the website is subject primarily to the governing laws of [Europe](http://ec.europa.eu/justice/data-protection/) and at best the United States of America.
 
-* Your use of this website and any dispute arising out of such use of the website is subject to the laws of Europe and the United States of America.
+_*NB  \- Our online registration forms are deliberately long as this gives IGS the information we need to start any SEO, video or advertising project. It also saves you delay and time as you will not need to send or await numerous emails. _
 
 Thank You.
+
+[](http://i1.wp.com/www.infogurushop.com/wp-content/uploads/2013/05/igs_seoseal.png)
