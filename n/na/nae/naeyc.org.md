@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the naeyc.org privacy policy that was archived on 2013-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130529175045id_/http%3A//naeyc.org/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the naeyc.org privacy policy that was archived on 2013-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131024021403id_/http%3A//www.naeyc.org/privacypolicy) for the most accurate reproduction.*
 
 # Privacy and Security Policy | National Association for the Education of Young Children | NAEYC
 
