@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the seekyt.com privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530035039id_/http%3A//seekyt.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seekyt.com privacy policy that was archived on 2013-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131025010202id_/http%3A//seekyt.com/privacy) for the most accurate reproduction.*
 
-# Privacy « Seekyt
+# Privacy
+
+Privacy Policy
+
+The following privacy policy is written in "Legal-ese." If you require some clarification on any of this information, do not hesitate to [contact](https://web.archive.org/contact/) me.
 
 * * *
 
