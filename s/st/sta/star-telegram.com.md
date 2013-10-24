@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the star-telegram.com privacy policy that was archived on 2013-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130513185833id_/http%3A//www.star-telegram.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the star-telegram.com privacy policy that was archived on 2013-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131024183540id_/http%3A//www.star-telegram.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Star-Telegram.com
 
@@ -70,7 +70,7 @@ To describe our services to prospective partners, advertisers and others, we may
 
 Star-Telegram.com is particularly concerned with providing a safe online environment for children. Children under the age 13 will not be allowed to register and become a member of Star-Telegram.com in order to access general Star-Telegram.com content, features and services. We do not knowingly collect or solicit personally identifiable information from or about children under 13 except as permitted by law. If we discover we have received any information from a child under 13 in violation of this Privacy Policy, we will delete that information immediately. If you believe we have any information from or about anyone under 13, please contact us at the address listed below.
 
-Star-Telegram.com, 400 West Seventh Street, Fort Worth, TX 76102, or 817-390-7400, or [online@star-telegram.com](mailto:online@star-telegram.com)
+Star-Telegram.com, 808 Throckmorton St., Fort Worth, TX 76102, or 817-390-7400, or [online@star-telegram.com](mailto:online@star-telegram.com)
 
 ### Member mail and e-mail offers
 
@@ -114,4 +114,4 @@ Star-Telegram.com supports P3P, the Platform for Privacy Preferences, which allo
 
 ### Contact Information
 
-If you have any questions or comments about our policies, we may be reached at Star-Telegram.com, 400 West Seventh Street, Fort Worth, TX 76102, at 817-390-7400 or at [online@star-telegram.com](mailto:online@star-telegram.com).
+If you have any questions or comments about our policies, we may be reached at Star-Telegram.com, 808 Throckmorton St., Fort Worth, TX 76102, at 817-390-7400 or at [online@star-telegram.com](mailto:online@star-telegram.com).
