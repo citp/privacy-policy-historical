@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alvicreatives.com privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501052301id_/http%3A//alvicreatives.com/t/privacyinfo) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alvicreatives.com privacy policy that was archived on 2013-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131025075007id_/http%3A//www.alvicreatives.com/t/privacyinfo) for the most accurate reproduction.*
 
 # Alvicreatives,Web Design in Atlanta,GA. Privacy Policy
 
