@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pocketfavorite.com privacy policy that was archived on 2013-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130626060301id_/http%3A//pocketfavorite.com/pages/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pocketfavorite.com privacy policy that was archived on 2013-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131025152900id_/http%3A//www.pocketfavorite.com/pages/privacy.php) for the most accurate reproduction.*
 
 # PocketFavorite.com
 
