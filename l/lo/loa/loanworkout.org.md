@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the loanworkout.org privacy policy that was archived on 2013-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130528004219id_/http%3A//loanworkout.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the loanworkout.org privacy policy that was archived on 2013-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131025090115id_/http%3A//loanworkout.org/privacy-policy) for the most accurate reproduction.*
 
 # Legal & Privacy | Loan Calculator
 
