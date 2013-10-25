@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the campusbookrentals.com privacy policy that was archived on 2013-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130513092845id_/http%3A//www.campusbookrentals.com/Home/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the campusbookrentals.com privacy policy that was archived on 2013-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131025224457id_/http%3A//www.campusbookrentals.com/privacy) for the most accurate reproduction.*
 
-# Rent a Text Book | Textbook Privacy Policy
+# Rent a Text Book | Textbook Privacy Policy | Campus Book Rentals
 
 [ ](http://www.truste.org/ivalidate.php?url=www.campusbookrentals.com&sealid=101)
 
@@ -28,13 +28,13 @@ Questions regarding this privacy policy should be directed to Campus Book Rental
 1\. Minors   
 2\. Information We Collect   
 3\. Our Use of Your Information   
-4\. Our Disclosure of Your Information   
-5\. "Refer a Friend" Services   
-6\. Control of Your Password   
-7\. Reviewing and Changing Your Personally Identifiable Information   
-8\. Other Information Collectors   
-9\. Security   
-10\. Changes to Privacy Policy 
+4\. Our Disclosure of Your Information 
+
+5\. Control of Your Password   
+6\. Reviewing and Changing Your Personally Identifiable Information   
+7\. Other Information Collectors   
+8\. Security   
+9\. Changes to Privacy Policy 
 
 **1\. Minors**   
 Children are not eligible to use our services and we ask that minors (under 18 years of age) do not submit any personal information to us. We understand that minors attend universities and require textbooks. We ask that the legal guardian complete the registration and rental process on behalf of the minor. 
@@ -86,26 +86,23 @@ As a general proposition, we do not sell or rent any personally identifiable inf
 **Legal Requests**   
 CampusBookRentals.com™ cooperates with law enforcement inquiries and other third parties to enforce laws, intellectual property and other rights. Local, and international law enforcement agents can request and may receive your personally identifiable information. 
 
-**5\. "Refer a Friend" Services**   
-CampusBookRentals.com™ offers a service whereby you can e-mail site content to a friend or colleague. This will involve entering the e-mail address of your friend. We do not use the e-mail addresses you enter for any purpose other than to send your e-mail. We do not store, rent or sell these e-mail addresses. 
-
-**6\. Control of Your Password**   
+**5\. Control of Your Password**   
 Except as specifically permitted by this section, you may not disclose your CampusBookRentals.com™ password to any third parties nor share it with any third parties. If you lose control of your password, you may lose substantial control over your personally identifiable information and may be subject to legally binding actions taken on your behalf. Therefore, if your password has been compromised for any reason, you should immediately change your password by visiting the login page on the Site. 
 
 If you wish to change your password you can do so at any time through the 'Edit Profile' section of the site. 
 
-**7\. Reviewing and Changing Your Personally Identifiable Information**   
+**6\. Reviewing and Changing Your Personally Identifiable Information**   
 You can at any time review and change the information you submitted during registration by visiting the login page on the site. 
 
 You must promptly update your information if it changes. Once posted, you cannot change or remove any public postings made in our forums or other message areas or the feedback area. 
 
-**8\. Other Information Collectors**   
+**7\. Other Information Collectors**   
 Except as otherwise expressly discussed in this Privacy Policy, this document only addresses the use and disclosure of information we collect from you. To the extent that you disclose your information to other parties, whether they are other members of the Site or other sites throughout the Internet, different rules may apply to their use or disclosure of the personal information you disclose to them. 
 
-**9\. Security**   
+**8\. Security**   
 In order to process and protect your credit card details, our payment provider, Internet Secure uses SSL (secure sockets layer) encryption. The secure server is hosted by Authorize.net and not CampusBookRentals.com™. We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it.  No method of transmission over the Internet, or method of electronic storage, is 100% secure, however.  Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security. 
 
-**10\. Changes to Privacy Policy**   
+**9\. Changes to Privacy Policy**   
 If we are going to use your personally identifiable information in a manner different from that stated at the time of collection we will notify you via email, prior to making such changes. You will have a choice as to whether or not we use your information in this different manner. In addition, if we make any material changes in our privacy practices that do not affect user information already stored in our database, we will post a prominent notice, before changes go into affect, on our web site notifying users of the change. In some cases where we post the notice we will also email users, who have opted to receive communications from us, notifying them of the changes in our privacy practices.
 
 **Physical Address**   
