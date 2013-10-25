@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the derivative.ca privacy policy that was archived on 2013-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130625004236id_/http%3A//www.derivative.ca/Agreements/PrivacyPolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the derivative.ca privacy policy that was archived on 2013-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131026004006id_/http%3A//www.derivative.ca/Agreements/PrivacyPolicy.asp) for the most accurate reproduction.*
 
-# Derivative TouchDesigner 077
+# Derivative TouchDesigner
 
 Derivative Inc. ("Derivative") respects your privacy and wants you to feel secure in your use of this Web site and Derivative’s products and services. Derivative will not collect, use or disclose your personal information other than in compliance with this privacy policy (the "Privacy Policy").
 
