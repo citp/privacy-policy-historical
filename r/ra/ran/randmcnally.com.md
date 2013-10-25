@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the randmcnally.com privacy policy that was archived on 2013-01-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130115105159id_/http%3A//www.randmcnally.com/privacyPolicy.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the randmcnally.com privacy policy that was archived on 2013-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131025165143id_/http%3A//www.randmcnally.com/legal/privacy_policy) for the most accurate reproduction.*
 
-# Privacy Policy - RandMcNally
+# Rand McNally - Privacy Policy
+
+By using this web site, you agree to the following policy:
 
 This is the Privacy Policy for RM Acquisition, LLC. d/b/a Rand McNally ("Rand McNally")
 
@@ -8,17 +10,19 @@ Shopping and obtaining information on-line has changed our lives. At Rand McNall
 
 This Privacy Policy applies only to information collected through Rand McNally's website. We suggest that you review this Privacy Policy periodically as we may update it from time to time. This Policy was last revised on June 1, 2010. 
 
-What information do we collect?  
-How do we use your information?  
-Third party merchants "Presented by Rand McNally"  
-How do you know your information is secure?  
-Children's Privacy  
-How can you update your information?  
-Changes to this Privacy Policy Statement  
-Conflict in terms  
-Additional information and how to contact us
+  * What information do we collect?
+  * How do we use your information?
+  * Third party merchants "Presented by Rand McNally"
+  * How do you know your information is secure?
+  * Children's Privacy
+  * How can you update your information?
+  * Changes to this Privacy Policy Statement
+  * Conflict in terms
+  * Additional information and how to contact us
 
-What information do we collect?
+
+
+## What information do we collect?
 
 Every time you visit our website, our Web server automatically collects the following non-personally identifiable information: your Internet service provider's address, the referring URL and information on the pages you access on our website.
 
@@ -30,8 +34,9 @@ We use a cookie to help us determine repeat visits to randmcnally.com. This cook
 
 return to top
 
-How do we use your information?
+## How do we use your information?
 
+  
 The information we collect is used: 
 
   * to generally improve the content and layout of our website
@@ -43,11 +48,11 @@ The information we collect is used:
 
 
 
-When you supply us with personal information to request a catalog or order a product, the information you provide will be added to our customer file (including your name, address, phone number and e-mail address). You may receive periodic mailings or telephone contact from us with information on new products and services, discounts, special promotions or upcoming events that we offer. If you do not want to receive such mailings from Rand McNally, then please [ Click Here](https://web.archive.org/contact.do) for information on where to reach us to remove yourself from our contact list.
+When you supply us with personal information to request a catalog or order a product, the information you provide will be added to our customer file (including your name, address, phone number and e-mail address). You may receive periodic mailings or telephone contact from us with information on new products and services, discounts, special promotions or upcoming events that we offer. If you do not want to receive such mailings from Rand McNally, then please [ Click Here](https://web.archive.org/about/contact_us) for information on where to reach us to remove yourself from our contact list.
 
-We may send you e-mail with information on new products and services, discounts, special promotions or upcoming events that are being offered. If you do not wish to receive such e-mail from us in the future, please [ Click Here](https://web.archive.org/contact.do) for information on where to contact us to remove yourself from our email list or, click on the "opt-out" link on any e-mail you receive from us. Please note that when you make a purchase and provide us with your e-mail address, we may send you confirmation of your order via e-mail even if you have chosen not to receive future email from us about our products and services. We may also contact you by mail or telephone if we have questions about your order. 
+We may send you e-mail with information on new products and services, discounts, special promotions or upcoming events that are being offered. If you do not wish to receive such e-mail from us in the future, please [ Click Here](https://web.archive.org/about/contact_us) for information on where to contact us to remove yourself from our email list or, click on the "opt-out" link on any e-mail you receive from us. Please note that when you make a purchase and provide us with your e-mail address, we may send you confirmation of your order via e-mail even if you have chosen not to receive future email from us about our products and services. We may also contact you by mail or telephone if we have questions about your order. 
 
-We may supply our customer file (including your name, address, phone number and e-mail address) to certain Rand McNally Affiliates. In addition to information provided to Rand McNally Affiliates, we may also provide your name, address and phone number (but not your e-mail address) to a select group of companies who are not Rand McNally Affiliates and whose products you may find of interest. If you do not want us to share this information with these companies, we can put you on our "do-not-share" or "do not call" lists. Please [Click Here](https://web.archive.org/contact.do) for information on where to contact us if you do not want us to share this information with Rand McNally Affiliates or other third parties. 
+We may supply our customer file (including your name, address, phone number and e-mail address) to certain Rand McNally Affiliates. In addition to information provided to Rand McNally Affiliates, we may also provide your name, address and phone number (but not your e-mail address) to a select group of companies who are not Rand McNally Affiliates and whose products you may find of interest. If you do not want us to share this information with these companies, we can put you on our "do-not-share" or "do not call" lists. Please [Click Here](https://web.archive.org/about/contact_us) for information on where to contact us if you do not want us to share this information with Rand McNally Affiliates or other third parties. 
 
 Note that Rand McNally Affiliates and other third parties with whom we share your information have their own privacy statements, and those statements apply to your personal information when it is held by such Rand McNally Affiliates or third parties. Please refer to the Rand McNally Affiliate or third party privacy statements, as applicable, for further information on how those entities treat your personal information.
 
@@ -61,7 +66,7 @@ We may buy or sell business assets or be acquired by or acquire other companies.
 
 return to top
 
-Third party merchants "Presented by Rand McNally"
+## Third party merchants "Presented by Rand McNally"
 
 If you make a purchase from a merchant site with a link originating from the Rand McNally website or a merchant catalog or website "presented by" Rand McNally, the information you provide to that merchant, such as your credit card number and contact information, is provided to the merchant and not to Rand McNally. Providing this information to the merchant enables the transaction to take place. However, you should know that the merchant may, if you do not advise them to the contrary, share your name and postal and email addresses with third parties, including Rand McNally. You should also know that these merchants have their own privacy and data collection practices and are not covered by the Rand McNally Privacy Policy Statement.
 
@@ -71,7 +76,7 @@ Merchants that have links on the Rand McNally website may collect personally ide
 
 return to top
 
-How do you know your information is secure?
+## How do you know your information is secure?
 
 When you see either a solid key icon or a locked padlock icon at the lower portion of your browser window, then your site is secured through Secure Sockets Layer. We use industry-standard encryption technologies when transferring and receiving your information on our website. If you do not see one of these icons, please contact your Internet service provider. When we transfer and receive certain types of sensitive information, such as financial information, we will redirect you to a secure server and notify you through a pop-up screen on our website. 
 
@@ -81,7 +86,7 @@ Please note that e-mail is not encrypted and is not considered a secure means of
 
 return to top
 
-Children's Privacy
+## Children's Privacy
 
 Rand McNally does not seek to solicit information from anyone under the age of thirteen (a "Child"). If a Child submits information to us through any part of our website, and we know that the person submitting the information is a Child, we delete the information as soon as we discover it and do not use it for any purpose, nor do we disclose it to third parties. If your child has submitted personal information to us and you would like to request that such information be removed from our customer lists, you may contact us using the contact us information listed below, and we will honor your request.
 
@@ -89,7 +94,7 @@ While our Rand McNally Classroom product is for use specifically by students, an
 
 return to top
 
-How can you update your information?
+## How can you update your information?
 
 We will provide you access to the following information if you send us an e-mail, call us or write to us:
 
@@ -100,11 +105,11 @@ We will provide you access to the following information if you send us an e-mail
 
 
 
-We will evaluate each request and reply in an appropriate manner and form of communication that respects the security of the information you have requested. [Click Here](https://web.archive.org/contact.do) for Contact Information.
+We will evaluate each request and reply in an appropriate manner and form of communication that respects the security of the information you have requested. [Click Here](https://web.archive.org/about/contact_us) for Contact Information.
 
 return to top
 
-Changes to this Privacy Policy Statement
+## Changes to this Privacy Policy Statement
 
 From time to time, we may use the information you provide us for new, unanticipated uses not previously addressed in our Privacy Policy Statement. If our information practices change at some time in the future, we will post the policy changes on the privacy page of our website to notify you of these changes, and the revised Privacy Policy Statement will apply to all of your personal information that we have on file, provided, however, that we will continue to honor any past requests not to share your information with third parties. You should check our website periodically for more information on how we use the data we collect.
 
@@ -112,23 +117,24 @@ If there is a material change in the manner we use data we collect, we will upda
 
 return to top
 
-Conflict in terms
+## Conflict in terms
 
 It is our goal to make our privacy practices easy to understand. We have created this easy-to-read Privacy Policy Statement with that goal in mind. Some browsers utilize privacy enhancing technology to translate our Privacy Policy Statement into a computer readable format. The technology then requires that the computer format be translated back into human readable format for you to read. This translation back into human readable format is often referred to as a "Policy Summary". It is possible that through these translations, the Policy Summary may unintentionally end up being inconsistent with the Privacy Policy Statement upon which it is based. It might fail to address an issue or it might address an issue not raised in our Privacy Policy Statement. For this reason, you should rely on our Privacy Policy Statement as the most accurate and definitive description of our practices.
 
 return to top
 
-Additional information and how to contact us
+## Additional information and how to contact us
 
 For your convenience, our website contains links to a wide variety of other websites. We do not control how these other websites gather and use information about their users. We encourage you to review the privacy policies of all websites you link to from our website.
 
 If you have any comments or questions about our Privacy Policy Statement, please feel free to contact us at:
 
-Rand McNally Consumer Affairs  
-P.O. Box 7600  
-Chicago, IL 60680-9915 
+### Rand McNally Consumer Affairs
 
-Web: Please complete our online request form at [ Click Here](https://web.archive.org/contact.do) indicating your question or comments.
+P.O. Box 7600  
+Chicago, IL 60680-9915
+
+Web: Please complete our online request form at [ Click Here](https://web.archive.org/about/contact_us) indicating your question or comments.
 
 Special Note: When you contact us, please provide us with your exact name and address as it appears on correspondence you have received from us.
 
