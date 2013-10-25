@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the winningchoice.com.au privacy policy that was archived on 2013-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130616075107id_/http%3A//www.cohort.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the winningchoice.com.au privacy policy that was archived on 2013-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131025060356id_/http%3A//www.cohort.com.au/privacy-policy) for the most accurate reproduction.*
 
 # Cohort Digital » Cohort Digital Privacy Statement
 
@@ -8,7 +8,7 @@ Cohort Digital respects your privacy and is committed to protecting it.
 
 Our Privacy Policy explains how and why we collect personal information, what we use it for, and to whom and when we disclose it. We update our policy from time to time, and you should revisit our website regularly to see the latest copy of the Privacy Policy. Any changes will come into effect when the updated Privacy Policy is posted to the website.
 
-In all cases we will treat your personal information with no less protection than that provided for by the Australian Privacy Principles and the privacy laws that are in force in Australia.
+In all cases we will treat your personal information with no less protection than that provided for by the Australian and New Zealand Privacy Principles and the privacy laws that are in force in Australia and New Zealand.
 
 **How and what Personal Information we collect about you?**
 
@@ -22,15 +22,15 @@ We may also collect information about you from our website but this information 
 *The pages accessed; and  
 *The type of browser used.
 
-No attempt is made to indentify individual users from this information.
+No attempt is made to identify individual users from this information.
 
 Before we disclose your personal information to an overseas recipient such as an advertiser or data warehouse:
 
-(a) who is not in Australia or an external Territory; and
+(a) who is not in Australia, New Zealand or an external Territory; and
 
 (b) who is not the entity or the individual;
 
-we take steps as are reasonable in the circumstances to ensure that the overseas recipient does not breach the Australian Privacy Principles in relation to your personal information.
+we take steps as are reasonable in the circumstances to ensure that the overseas recipient does not breach the Australian or New Zealand Privacy Principles in relation to your personal information.
 
 **Why we collect Personal Information and what is it used for?**
 
