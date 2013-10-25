@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thesportreview.com privacy policy that was archived on 2013-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130624221404id_/http%3A//www.thesportreview.com/tsr/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thesportreview.com privacy policy that was archived on 2013-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131025101205id_/http%3A//www.thesportreview.com/tsr/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | The Sport Review
 
