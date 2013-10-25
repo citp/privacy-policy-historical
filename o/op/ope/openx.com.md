@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the openx.com privacy policy that was archived on 2013-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130425122316id_/http%3A//www.openx.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the openx.com privacy policy that was archived on 2013-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131025153011id_/http%3A//www.openx.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | OpenX
 
@@ -10,15 +10,15 @@ It is important to remember that all publishers and other suppliers of inventory
 
 ###  OpenX Website Privacy Policy
 
-To read more about how we use the information we collect about you as you browse through our site, [click here](https://web.archive.org/web/20130425122316id_/http%3A//www.openx.com/about/openx-website-privacy-principles).
+To read more about how we use the information we collect about you as you browse through our site, [click here](https://web.archive.org/web/20131025153011id_/http%3A//www.openx.com/about/openx-website-privacy-principles).
 
 ###  OpenX Software Privacy Principles
 
-These principles, [explained here](https://web.archive.org/web/20130425122316id_/http%3A//www.openx.com/about/openx-software-privacy-principles), describe how our ad serving software and hosted service collect and use user and publisher information.
+These principles, [explained here](https://web.archive.org/web/20131025153011id_/http%3A//www.openx.com/about/openx-software-privacy-principles), describe how our ad serving software and hosted service collect and use user and publisher information.
 
 ###  OpenX Market Privacy Principles
 
-To read more about how the OpenX Market uses information collected from our member websites, [click here](https://web.archive.org/web/20130425122316id_/http%3A//www.openx.com/about/openx-market-privacy-principles).
+To read more about how the OpenX Market uses information collected from our member websites, [click here](https://web.archive.org/web/20131025153011id_/http%3A//www.openx.com/about/openx-market-privacy-principles).
 
 ###  OpenX Market Opt-Out cookie
 
@@ -30,7 +30,7 @@ The OpenX Market uses cookies to uniquely identify a browser, which gives Market
 
 ###  OpenX and the US-EU Safe Harbor for Privacy
 
-OpenX complies with the US-EU Safe Harbor Framework as set forth by the US Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries. OpenX has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, please visit [www.export.gov/safeharbor](http://www.export.gov/safeharbor).
+OpenX complies with the US-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the US Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. OpenX has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, please visit [www.export.gov/safeharbor](http://www.export.gov/safeharbor).
 
 **Privacy Complaints by European Union Citizens**
 
