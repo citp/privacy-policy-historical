@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sitcomsonline.com privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502013003id_/http%3A//sitcomsonline.com/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sitcomsonline.com privacy policy that was archived on 2013-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131025082744id_/http%3A//www.sitcomsonline.com/policy.html) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -61,6 +61,4 @@ We care about children and understand that they have special privacy needs. Ther
 ##  Contacting the Web Site 
 
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact:   
-
-
-[ todd@sitcomsonline.com ](mailto:todd@sitcomsonline.com)
+[todd@sitcomsonline.com](mailto:todd@sitcomsonline.com)
