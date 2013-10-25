@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the coventrybuildingsociety.co.uk privacy policy that was archived on 2013-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130527015509id_/http%3A//www.coventrybuildingsociety.co.uk/your-society/important-info/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coventrybuildingsociety.co.uk privacy policy that was archived on 2013-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131026011039id_/http%3A//www.coventrybuildingsociety.co.uk/terms/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy and cookies policy | Coventry Building Society
+
+To help us continually improve our website, we collect non-personal data with cookies. Cookies tell us how you have navigated to and around our website. To find out more or if you wish to opt-out please [ view our Privacy and cookies policy.](https://web.archive.org/terms/privacy-policy.aspx)
 
 As a customer of the Coventry Building Society, we take your right to privacy very seriously. We will not disclose information about you or your accounts to anyone, other than where we have your consent, or where we are compelled or allowed by law to do so.
 
