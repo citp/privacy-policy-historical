@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the infoq.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230052012id_/http%3A//www.infoq.com/PrivacyPolicy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the infoq.com privacy policy that was archived on 2013-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131025104625id_/http%3A//www.infoq.com/privacypolicy) for the most accurate reproduction.*
 
-# InfoQ - Tracking change and innovation in the enterprise software development community
+# InfoQ - Facilitating the spread of knowledge and innovation in enterprise software development
 
 **InfoQ Privacy Policy:**
 
