@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the thebay.com privacy policy that was archived on 2013-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130625040044id_/http%3A//www.thebay.com/eng/aboutUs/privacylegalinfo.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thebay.com privacy policy that was archived on 2013-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131025190924id_/http%3A//www.thebay.com/eng/aboutUs/privacylegalinfo.cfm) for the most accurate reproduction.*
 
-# the Bay
+# 
 
 **HBC is protecting your privacy**
 
 For over 335 years, Hudson's Bay Company (HBC) has been a name that means trust in this country. We value you as our customer, and want to assure you that our 70,000 associates are committed to upholding the trust you've placed in us as Canada's oldest corporation and largest department store retailer.
 
-HBC's Principles for the Protection of Personal Information were created to ensure we preserve the confidentiality, accuracy and security of your personal information. These principles guide us in the collection, use, retention and disclosure of your personal information in all of our HBC family of stores and services: the Bay, Zellers, Home Outfitters, Fields, HBC Credit, HBC Rewards and HBC Insurance.
+HBC's Principles for the Protection of Personal Information were created to ensure we preserve the confidentiality, accuracy and security of your personal information. These principles guide us in the collection, use, retention and disclosure of your personal information in all of our HBC family of stores and services: Hudson's Bay, Home Outfitters, HBC Credit, HBC Rewards and HBC Insurance.
 
 **The information that we collect**
 
