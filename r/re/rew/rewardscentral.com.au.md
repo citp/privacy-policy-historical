@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rewardscentral.com.au privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501200035id_/http%3A//rewardscentral.com.au/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rewardscentral.com.au privacy policy that was archived on 2013-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131025042406id_/http%3A//www.rewardscentral.com.au/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - RewardsCentral
 
@@ -31,9 +31,11 @@ When a user joins RewardsCentral, our computers may record their IP address. In 
 
 ##### What are cookies and why does RewardsCentral use them?
 
-A cookie is a piece of data stored on a user's computer hard drive, containing information about that user. A cookie can only be accessed across the Internet by the Web site that placed it there. Cookies are used by the RewardsCentral Web site to add functionality and security.
+A cookie is a piece of data stored on a user's computer hard drive, containing information about that user. A cookie can only be accessed across the Internet by the Web site that placed it there. Cookies are used by the RewardsCentral web site to enable web site sign in, and to track the source of new members joining the web site. The use of cookies in this way is wide-spread and commonly accepted by the Internet community. RewardsCentral also uses cookies (including third-party cookies) to gather information about users that complete surveys in order to enhance RewardsCentral's ability to compile useful data from those surveys.
 
-You may choose to reject a cookie that the RewardsCentral Web site attempts to place on your computer, however you may then be limited in your use of some areas of the Web site. The use of cookies in this way is wide-spread and commonly accepted by the Internet community.
+For example, a RewardsCentral or third party cookie may track and correlate a user's RewardsCentral ID number together with that member's visit to other web sites containing online ads. This data would then be used to enhance the selection process when inviting users to participate in a survey about those ads. In all instances, cookies used by RewardsCentral would not contain personally identifiable information such as your name or email address.
+
+You may choose to reject a cookie that the RewardsCentral Web site attempts to place on your computer, however you may then be limited in your use of some areas of the Web site.
 
 ##### What about other Web sites?
 
@@ -51,10 +53,10 @@ We respect your time and attention. We will never send to you more than fourteen
 
 Each email we send to you contains a link at the very bottom allowing you to unsubscribe.
 
-To unsubscribe now, [click here](https://web.archive.org/web/20130501200035id_/http%3A//rewardscentral.com.au/Account/Settings.aspx).
+To unsubscribe now, [click here](https://web.archive.org/web/20131025042406id_/http%3A//www.rewardscentral.com.au/Account/Settings.aspx).
 
-**If you have received unwanted email sent from RewardsCentral,** or purporting to be sent from RewardsCentral, please [contact RewardsCentral](https://web.archive.org/web/20130501200035id_/http%3A//rewardscentral.com.au/Help/Contact.aspx).
+**If you have received unwanted email sent from RewardsCentral,** or purporting to be sent from RewardsCentral, please [contact RewardsCentral](https://web.archive.org/web/20131025042406id_/http%3A//www.rewardscentral.com.au/Help/Contact.aspx).
 
-**If you have any questions** about the privacy and permission practices of the RewardsCentral Web site or your dealings with RewardsCentral Australia Pty Ltd, please [contact RewardsCentral](https://web.archive.org/web/20130501200035id_/http%3A//rewardscentral.com.au/Help/Contact.aspx). We are committed to being of service to you and resolving any issues that may arise.
+**If you have any questions** about the privacy and permission practices of the RewardsCentral Web site or your dealings with RewardsCentral Australia Pty Ltd, please [contact RewardsCentral](https://web.archive.org/web/20131025042406id_/http%3A//www.rewardscentral.com.au/Help/Contact.aspx). We are committed to being of service to you and resolving any issues that may arise.
 
-This statement should be read in conjunction with the RewardsCentral [Terms of Service](https://web.archive.org/web/20130501200035id_/http%3A//rewardscentral.com.au/Terms.aspx).
+This statement should be read in conjunction with the RewardsCentral [Terms of Service](https://web.archive.org/web/20131025042406id_/http%3A//www.rewardscentral.com.au/Terms.aspx).
