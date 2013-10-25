@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cadalyst.com privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501191857id_/http%3A//www.cadalyst.com/cadalyst/privacy-statement-12678) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cadalyst.com privacy policy that was archived on 2013-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131026000032id_/http%3A//www.cadalyst.com/cadalyst/privacy-statement-12678) for the most accurate reproduction.*
 
 # Privacy Statement | Cadalyst
 
