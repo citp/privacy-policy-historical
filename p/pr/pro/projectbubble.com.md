@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the projectbubble.com privacy policy that was archived on 2013-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130604025206id_/http%3A//projectbubble.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the projectbubble.com privacy policy that was archived on 2013-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131025084919id_/http%3A//projectbubble.com/privacy) for the most accurate reproduction.*
 
 # Privacy
 
