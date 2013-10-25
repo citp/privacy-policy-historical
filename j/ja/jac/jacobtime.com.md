@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jacobtime.com privacy policy that was archived on 2013-03-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130303015618id_/http%3A//www.jacobtime.com/osc/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jacobtime.com privacy policy that was archived on 2013-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131026013346id_/http%3A//www.jacobtime.com/osc/privacy.php) for the most accurate reproduction.*
 
 # Raymond Weil Watches | Armani Watches | Jacobtime.com
 
