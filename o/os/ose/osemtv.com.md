@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the osemtv.com privacy policy that was archived on 2013-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130617215617id_/http%3A//osemtv.com/view_page.php%3Fpid%3D2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the osemtv.com privacy policy that was archived on 2013-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131025023451id_/http%3A//osemtv.com/view_page.php%3Fpid%3D2) for the most accurate reproduction.*
 
 # Osem TV - Privacy Policy
 
