@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shopvault.com privacy policy that was archived on 2013-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130526093636id_/http%3A//www.vau.lt/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shopvault.com privacy policy that was archived on 2013-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131025061350id_/http%3A//www.shopvault.com/privacy) for the most accurate reproduction.*
 
 # VAULT - Privacy
 
@@ -13,7 +13,7 @@ To ensure the highest quality purchasing experience for you, we have relationshi
 Except as otherwise discussed in this Privacy Policy, this document only addresses the use and disclosure of information we collect from you online. For some services, we either collect and transfer personal information to a service provider you have selected, or you may visit other merchants through links on our site who may collect and use your personal information. In those cases the third-party service provider or merchant's privacy policy will govern how your information is handled. We encourage you to ask questions and to be very cautious before you disclose your personal information to others.
 
 **Attn:** Privacy Compliance Officer  
-BRAND VAULT, INC.  
+SHOPVAULT, INC.  
 85 Enterprise  
 Aliso Viejo, CA 92656
 
@@ -99,7 +99,7 @@ With whom do we share your information?
 
 What are your choices regarding collection, use, and distribution of your information?
 
-You may "opt-out," or unsubscribe from our newsletters, emails or personalized on-line advertisements by following any unsubscribe instructions in any e-mail, newsletter or personalized on-line advertisement you receive from us, or by sending an e-mail to [optout@vau.lt](mailto:optout@vau.lt). After doing so, if you have opted out of receiving all newsletters, all promotional emails or all personalized on-line ads, you will not receive future promotional emails, newsletters or personalized on-line advertisements (as applicable), unless you open a new account, enter a contest, or otherwise subsequently sign up to receive newsletters, emails or personalized on-line advertisements. **Please Note: If you agree to receive e-mails from any of our third party service providers or any third party merchants on our site, you will receive e-mails separately from them, and information that you choose to disclose to them will be subject to their privacy policy. If you later decide that you no longer want to receive their e-mails, you will need to follow their own specific opt-out instructions, as opting out to "[optout@vau.lt](mailto:optout@vau.lt) as described above will not opt you out of their promotional emails.** Ad-servers and other Content Servers: You may also set your browser so that it will not accept "cookies" to prevent assignment from the ad server of a unique identifier; however, you may experience difficulty shopping on our site and performing other transactions if you do so.
+You may "opt-out," or unsubscribe from our newsletters, emails or personalized on-line advertisements by following any unsubscribe instructions in any e-mail, newsletter or personalized on-line advertisement you receive from us, or by sending an e-mail to [optout@shopvault.com](mailto:optout@shopvault.com). After doing so, if you have opted out of receiving all newsletters, all promotional emails or all personalized on-line ads, you will not receive future promotional emails, newsletters or personalized on-line advertisements (as applicable), unless you open a new account, enter a contest, or otherwise subsequently sign up to receive newsletters, emails or personalized on-line advertisements. **Please Note: If you agree to receive e-mails from any of our third party service providers or any third party merchants on our site, you will receive e-mails separately from them, and information that you choose to disclose to them will be subject to their privacy policy. If you later decide that you no longer want to receive their e-mails, you will need to follow their own specific opt-out instructions, as opting out to "[optout@shopvault.com](mailto:optout@shopvault.com) as described above will not opt you out of their promotional emails.** Ad-servers and other Content Servers: You may also set your browser so that it will not accept "cookies" to prevent assignment from the ad server of a unique identifier; however, you may experience difficulty shopping on our site and performing other transactions if you do so.
 
 What security precautions are in place to protect against the loss, misuse, or alteration of your information?
 
@@ -132,7 +132,7 @@ Contacting VAULT about privacy questions or concerns
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact VAULT by sending a letter to:
 
 **Attn:** Privacy Compliance Officer  
-BRAND VAULT, INC.  
+SHOPVAULT, INC.  
 85 Enterprise  
 Aliso Viejo, CA 92656  
 
@@ -143,4 +143,4 @@ This Privacy Policy was last changed on October 01, 2012. If VAULT makes changes
 
 Need more help?
 
-You can find the answers to most questions in the VAULT [Help Center](http://support.vau.lt/) or contact [Customer Support](http://support.vau.lt/customer/portal/emails/new).
+You can find the answers to most questions in the VAULT [Help Center](http://support.shopvault.com/) or contact [Customer Support](http://support.shopvault.com/customer/portal/emails/new).
