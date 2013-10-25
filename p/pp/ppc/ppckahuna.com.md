@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ppckahuna.com privacy policy that was archived on 2013-01-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130131132440id_/http%3A//www.ppckahuna.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ppckahuna.com privacy policy that was archived on 2013-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131026000557id_/http%3A//www.ppckahuna.com/privacy) for the most accurate reproduction.*
 
 # PPCKahuna Elite - Privacy Policy
 
