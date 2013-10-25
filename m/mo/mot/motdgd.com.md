@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the motdgd.com privacy policy that was archived on 2013-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130626010405id_/http%3A//motdgd.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the motdgd.com privacy policy that was archived on 2013-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131025102221id_/http%3A//motdgd.com/privacy-policy) for the most accurate reproduction.*
 
 # MOTDgd » Privacy Policy
 
