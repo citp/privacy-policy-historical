@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the qiqutv.com privacy policy that was archived on 2013-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130307002346id_/http%3A//www.qiqutv.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qiqutv.com privacy policy that was archived on 2013-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131025223712id_/http%3A//qiqutv.com/privacy.html) for the most accurate reproduction.*
 
 # PRIVACY POLICY
 
