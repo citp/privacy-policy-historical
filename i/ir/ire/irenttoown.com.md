@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the irenttoown.com privacy policy that was archived on 2013-01-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130118211219id_/http%3A//www.irenttoown.com/us/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the irenttoown.com privacy policy that was archived on 2013-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131025060122id_/http%3A//www.irenttoown.com/us/privacy) for the most accurate reproduction.*
 
 # 
 
@@ -42,4 +42,4 @@ This request may be made no more than once per calendar year
 
 Effective: December 8, 2008
 
-If you have questions concerning this privacy policy, please [contact us](https://web.archive.org/web/20130118211219id_/http%3A//www.irenttoown.com/us/contact-form.do). Our mailing address is 500 3rd st. #555, San Franciso, CA 94107.
+If you have questions concerning this privacy policy, please [contact us](https://web.archive.org/web/20131025060122id_/http%3A//www.irenttoown.com/us/contact-form.do). Our mailing address is 500 3rd st. #555, San Franciso, CA 94107.
