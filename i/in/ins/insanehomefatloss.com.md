@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the insanehomefatloss.com privacy policy that was archived on 2013-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130507135953id_/http%3A//insanehomefatloss.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the insanehomefatloss.com privacy policy that was archived on 2013-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131027002224id_/http%3A//insanehomefatloss.com/page/privacypolicy) for the most accurate reproduction.*
 
-# Lose Belly Fat - Insane Home Fat Loss
+# Insane Home Fatloss - Privacy Policy
 
 You can opt-out of all email contact from us by using our [email unsubscribe page](http://app.icontact.com/icp/mmail-mprofile.pl?r=82992&l=106&s=GXBQ&m=59770&c=906767). We will only call you if you're a customer and there's a problem with your account or order -- but if you'd also like to opt-out of phone contact, you can do that through our [phone contact opt-out page](http://sixpackshortcuts.com/phone_optout.php). 
 
