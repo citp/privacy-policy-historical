@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the askgamblers.com privacy policy that was archived on 2012-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121005152917id_/http%3A//www.askgamblers.com/privacy-policy-p64) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the askgamblers.com privacy policy that was archived on 2013-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131026031221id_/http%3A//www.askgamblers.com/privacy-policy-p64) for the most accurate reproduction.*
 
-# Please read AskGamblers privacy policy | AskGamblers
+# Privacy Policy | AskGamblers
 
 ## Privacy Policy
 
@@ -13,7 +13,7 @@
 1.3. Internet users under 18 years are not allowed to register with AskGamblers.com.   
 1.4. Any user can, at any time, change his AskGamblers.com account data.   
 1.5. AskGamblers.com user can ask that we de-activate or delete his account. AskGamblers.com can retain information regarding de-activated and deleted accounts in AskGamblers.com information archives.  
-1.6. If you do not want to receive any email from AskGamblers.com in the future, please let us know by sending us email at [office@askgamblers.com](mailto:office@askgamblers.com).
+1.6. If you do not want to receive any email from AskGamblers.com in the future, please [contact us](http://www.askgamblers.com/contact-us-p65).
 
 **2\. Disclosure**
 
