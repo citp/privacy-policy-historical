@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the playrix.com privacy policy that was archived on 2013-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130627005213id_/http%3A//www.playrix.com/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the playrix.com privacy policy that was archived on 2013-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131026222430id_/http%3A//www.playrix.com/policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Playrix
 
