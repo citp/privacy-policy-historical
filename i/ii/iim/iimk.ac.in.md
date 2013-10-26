@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the iimk.ac.in privacy policy that was archived on 2013-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130511135850id_/http%3A//iimk.ac.in/PrivacyPolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iimk.ac.in privacy policy that was archived on 2013-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131026125509id_/http%3A//iimk.ac.in/PrivacyPolicy.php) for the most accurate reproduction.*
 
-# IIMK - Privacy Policy
+# Privacy Policy
 
-Privacy Policy
+**Privacy Policy**
 
 Thank you for visiting the IIM Kozhikode website operated by the Indian Institute of Management Kozhikode (IIMK). Visitors to our website ' **iimk.ac.in** ' are guaranteed privacy in their transactions. Information collected at ' **iimk.ac.in** ' is kept private and is never shared with other organizations unless mandated by law or statutory organizations. This privacy policy is to inform you about the types of information gathered and disseminated through the Website.
 
@@ -36,4 +36,4 @@ IIM Kozhikode does not utilize direct mail services or telemarketing so your inf
 
 **Contacting Us**
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Website, you may contact the official functionaries of the institute whose contact details are provided at: <http://iimk.ac.in/abtiimk/contactus.php>. 
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Website, you may contact the official functionaries of the institute whose contact details are provided at: [http://iimk.ac.in/contactus.php](https://web.archive.org/web/20131026125509id_/http%3A//iimk.ac.in/contactus.php). 
