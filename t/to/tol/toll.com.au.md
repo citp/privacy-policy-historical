@@ -1,143 +1,91 @@
-> *The following text is extracted and transformed from the toll.com.au privacy policy that was archived on 2003-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031011233921id_/http%3A//www.toll.com.au/policies.html%23personal) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toll.com.au privacy policy that was archived on 2013-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131026103110id_/http%3A//www.tollgroup.com/privacy-policy) for the most accurate reproduction.*
 
-# TOLL Group - Logistics and Transport in Australia, Australias Largest Logistics and Transport Provider
+# Toll Group - Providing Global Logistics - Privacy Policy
 
-Select from any of the links below to view the policy in more detail:
+## Overview
 
-Compliance Policy   
-Occupation Health and Safety Policy  
-Environmental Policy  
-Personal Information Management Statement (December 2001)  
-Health Information Management Statement (July 2002)
+Toll Holdings Limited and the Toll group of companies (“Toll”) values the privacy of every individual and is committed to protecting the personal data it collects in accordance with the principles set out in this Policy. 
 
-## Compliance Policy
+## Scope
 
-The Toll Group is an integrated transport and logistics company. We aim to achieve the highest possible level of service to our customers without compromising the safety of our employees or the general public. We believe the quality and reliability of our service is the basis upon which we can develop long term relationships with our customers and suppliers and as a result, achieve our objective of long term growth and security.
+In accordance with the privacy laws of the countries in which Toll operates, this Privacy Policy (“Policy”) outlines how Toll manages the collection, use, disclosure and handling of your personal data in accordance with these legal requirements.
 
-We further aim to be the leader in our chosen markets through the implementation of fully integrated Management Systems which incorporate, Environmental, Workplace Health and Safety, Government and legislative requirements and the pursuit of continuous improvement, to ensure an outstanding reputation and pre–eminent position in the market place.
+## Principles
 
-These fundamental business principles are underpinned by a Management System that requires the ongoing involvement and total commitment of all management, employees and contractors / suppliers to seek and achieve continuous improvement in everything we do.
+### Personal data
 
-Our Management Systems are designed to address the specific business requirements, whilst achieving and exceeding our customers’ needs. These systems may for example include:
+In this Policy, “personal data” means any information relating to an identified or identifiable natural person. An identifiable person is one who can be identified, directly or indirectly, in particular by reference to an identification number or to one or more factors specific to his physical, physiological, mental, economic, cultural or social identity or an opinion (including information or an opinion forming part of a database), whether true or not, and whether recorded in a material form or not, about an individual whose identity is apparent, or can reasonably by ascertained from the information or opinion. Personal data includes “sensitive personal data” (which means information or an opinion about an individual's racial or ethnic origin, political opinion, membership of a political association or trade union, religious ideological or ethical beliefs, sexual life, health, political or union related views or activities and the commission or alleged commission of offences and related proceedings including administrative or criminal sanctions). 
 
-**International Standards:**
+### Personal data collection
 
-  * ISO 9000 & ISO 14000
+To enable us to fulfil our responsibilities as an integrated provider of logistics and, in the case of our Toll People and Toll Transitions businesses, our responsibilities as a supplier of recruiting and relocation services, Toll collects personal data about its employees, clients, suppliers, sub-contractors and others with whom it deals, to enable Toll to effectively conduct its businesses. This personal data must be sufficiently detailed for Toll to effectively conduct its businesses.  Where Toll collects data on its employees, additional requirements may apply.  Please contact the data controller or HR Manager in the jurisdiction where you are employed for additional information in relation to employee information.
 
+You are not required to supply any of the personal data that we may request. However, if the personal data we request is not provided, we may not be able to provide services in the most effective or efficient manner, or at all. 
 
+We only collect personal data for our business purposes.  For example, we collect information that is necessary for the establishment and maintenance of records for our employees, clients, suppliers of goods and services, sub-contractors and others with whom we conduct business in order for Toll to work effectively with them.
 
-**Industry Based Standards:**
+Depending on the business purpose, the personal data we collect may include:
 
-  * HACCP – Hazard Analysis and Critical Control Points
-  * SQF 2000
-  * Trucksafe
-  * Mass Management
-  * Fatigue Management Programs
+  * Name, address and contact details (including phone number and email);
+  * Information relating to previous services provided by Toll; or
+  * Employment or financial information.
 
 
 
-**Customer Standards**
+We generally collect personal data directly from you in person, in writing, by telephone, email or via our websites.  For example, we may collect information when you ask us to provide services to you. 
 
-**Legislative Requirements:**
+We may also collect personal data via third parties in some cases.  For example, if we deliver a service to your organisation (such as a relocation service through Toll's specialist relocations business, Toll Transitions), we may collect personal data from the organisation purchasing the service (for example, in the case of relocation services, your destination address). 
 
-  * Occupational Health & Safety
-  * Load Restraint
-  * Road Traffic Authorities
-  * Dangerous / Hazardous Goods
-  * Customs / Quarantine
-  * Transitional Fatigue Management Scheme
-  * Environmental Management
+### Collection of information via our websites
 
-Top    
+When you visit one of our websites, information about your computer or web device is automatically recorded by our website.  This includes your IP address and associated domain name (e.g. yourcompany.com), the date and time of your visit to our site, the pages you accessed or downloaded, the address of the last site you visited, your operating system and the type of browser you used. This information may be collected by us or by a third party service provider on our behalf.   This information is collected for statistical and system administration purposes, and to improve our web based services. It does not readily identify individuals, and we will not attempt to identify individuals from the records our server generates unless it is necessary to do so for law enforcement purposes.
 
+We may also use “cookies” to assign your device a user ID.  A cookie is a small piece of information that is sent to your browser and stored on your computer's hard drive.  Cookies contain information that allows us to identify your device, understand your use of our websites and set your preferences for future visits. We may use this information to determine whether or not to display standard content. You can configure your browser to notify you when you receive a cookie, or disable cookies altogether. Please consult the [terms and conditions](http://www.tollgroup.com/terms-and-conditions "terms and conditions") of use for this website for further information about use of these cookies and how to enable them and disable them. These cookies expire when your browser window is closed.  Please note that some of the cookies we use are essential for our websites to operate, and that if you disable cookies altogether you will not be able to use all parts of our website.
 
-## Occupational Health & Safety Policy
+### Use and disclosure of personal data
 
-The Toll Group is committed to protecting the health and safety of its employees, suppliers, customers and others who may be affected by its activities.
+We will only use personal data for the purpose for which it was collected or for related purposes permitted by law. 
 
-Toll’s objective is to provide all personnel at our sites with an environment which is free of risk to their health and safety. Health and Safety at work shall be both an individual and shared responsibility.
+Toll uses personal data to provide, manage and administer the goods and services it provides.  In the normal course of our business operations we may disclose personal data to related bodies corporate and statutory entities authorised to access the information. 
 
-Commitment to safety is a team commitment involving managers, supervisors, employees and subcontractors working together through consultation and co-operation. It is unacceptable for any individual to observe non-compliance with safety standards without immediately addressing and correcting that non-compliance with the personnel concerned.
+Personal data collected is also used to facilitate distribution of corporate communications such as our financial results, annual reports and other information that is relevant to the promotion or reporting of our business activities.  Personal information may also be disclosed to our contract service providers, including but not limited to customer service staff, consultants, advisers, IT and internet service providers.
 
-Top   
+We also disclose personal data to third parties in some cases.  For example, in connection with our Toll People business, we disclose the personal data of candidates to potential employers.  We also retain the personal data of candidates who wish to be considered for future positions as and when they become available.
 
+Toll reserves the right to transfer, and you consent to Toll transferring, your personal data to another entity in the event we sell or transfer all or a portion of our business or assets. Should such a sale or transfer occur, we will use reasonable efforts to direct the transferee to use personal data you have provided to us in a manner that is consistent with the principles described in this Policy.
 
-## Environmental Policy
+### Transfer of personal data outside the country in which it was collected
 
-The Toll Group is committed to being an environmentally responsible company. Legal compliance is regarded as a minimum standard and actions beyond statutory regulations, which conserve or protect the environment and support business goals are encouraged.
+Some organisations to which we disclose personal data may be located, or may store the personal data on computer servers, outside the country in which the personal data was collected.  Pursuant to any applicable privacy / data protection laws (including, without limitation, the European Data Protection Directive 1995 and any national laws implementing the European Data Protection Directive 1995), your personal data may be disclosed, processed and transferred by Toll on a worldwide basis for the purposes of providing our services.  Personal data may be disclosed or transferred to agents or third parties authorised to act on our behalf for the purposes of providing the services. 
 
-The company participates in recycling programs, and promotes conservation of natural resources such as, electricity, fuel and gas.
+Some countries may not provide the same level of protection for your personal information as the country in which your personal data was collected.  Please note, however, that Toll maintains appropriate administrative, technical and physical safeguards designed to protect the personal information you provide against accidental, unlawful or unauthorised destruction, loss, alteration, access, disclosure or use and where required, Toll will enter into agreements with the recipients of the personal data to ensure that the recipient abides by Toll's obligations under any applicable privacy / data protection laws. 
 
-On all company premises, particular attention will be given to the storage and transport of Dangerous Goods, containment of run off from workshops and washdown areas, and the safety and integrity of underground fuel tanks.   
-The company is particularly mindful of the effect of heavy vehicles on the environment, hence promoting a policy of regular maintenance and monitoring of emissions for company vehicles.
+### Access and correction
 
-Top   
+We try to ensure that personal data we hold is accurate, complete and up to date.  You can contact the data controller (see below) if you would like details of personal data which may be held about you or if you wish to correct any personal information held.  You have the right to access the personal data we hold about you.
 
+To ensure the integrity and safety of personal data, Toll only discloses the personal data it holds to the individual concerned, their legally authorised representative, or to fulfil legal or regulatory requirements. Toll may also disclose personal data to its advisers and other parties in connection with the present and future conduct of its business. In some circumstances we may charge a fee, but we will not charge you for lodging a request for access.  To ascertain what fee we may charge, please contact the data controller in the jurisdiction where you are located (see below).
 
-## Personal Information Management Statement \- December 2001
+Toll will destroy any personal data we hold about you as soon as it is no longer reasonably required and we are legally able to do so.
 
-The Toll group of companies ("Toll") provides a range of integrated logistics services through its constituent businesses. Toll interacts with its clients and suppliers of goods and services in the conduct of those businesses and ancilliary activities.
+### Storage and security of personal data
 
-Protecting personal information provided to us is important. We hope that this Personal Information Management Statement will help you understand how Toll collects, uses and safeguards your personal information in accordance with the National Privacy Principles contained in the Privacy Act 1988. 
+Personal data is principally held in electronic databases maintained within Toll’s computer network. Toll maintains appropriate administrative, technical and physical safeguards designed to protect the personal data you provide against accidental, unlawful or unauthorised destruction, loss, alteration, access, disclosure or use.
 
-**Personal Information Collection**
+### Use of our websites
 
-In its capacity as an integrated provider of logistics, Toll collects personal information about its employees, clients, suppliers, sub-contractors and others with whom it deals, in order that it can effectively conduct its business. This personal information will include sufficent details for Toll to effectively interact with them in the conduct of its business.
+Our website may contain links to other websites that are not owned, operated or endorsed by us.  We are not responsible for the privacy practices of those websites, or for the content, product or services provided by, or contained on, those websites.
 
-**Information Use**
+## Further information
 
-The primary purpose for collecting, holding and using the personal information is for the establishment and maintenance of records for our clients, suppliers of goods and services, and others with whom we conduct business in order that we can work effectively with them. Personal information collected is also used to facilitate distribution of corporate communications, including our financial results, annual reports and other information that is relevant to the promotion or reporting of our business activities. Toll has legal and statutory obligations in relation to the collection and use of some of this personal information.
+We may amend this Policy from time to time.  Updated versions of this Policy will be placed on our website. If you are a user of our website, by accepting our terms and conditions for use of that website, you consent to us collecting, using, disclosing and handling personal data as described in this Policy, and agree to be bound by the obligations it imposes on you.  As the Policy may be amended from time to time, you should review it regularly.
 
-**Access and Correction**
+If you would like to gain access to your personal data, or if you wish to voice your concern on any matter to do with either this policy or use of your personal data, please contact the relevant data controller listed below:
 
-You can contact the Company Secretary (see below) if you would like details of personal information which may be held about you or if you wish to correct any personal information held. 
+Data Controller  
+Toll Holdings Limited  
+Level 7, 380 St Kilda Road  
+Melbourne VIC 3004  
+Email: privacy@tollgroup.com
 
-To ensure the integrity and safety of personal information, Toll will normally only disclose personal information it holds to the individual concerned or to someone having proper authorisation or authority to request such information, or to fulfill legal or regulatory requirements. Toll may also disclose personal information to its advisers and other parties in connection with the present and future conduct of its business. If deemed necessary from time to time, a fee may be charged for the provision of personal information.
-
-**Storage and Security of Personal Information**
-
-Personal information is principally held in electronic databases maintained within Toll’s computer network. We use a range of security processes to protect the confidentiality and security of personal information held. 
-
-**Changes to this statement**
-
-Any changes made to this statement from time to time will be incorporated in an updated version which will be made available on our website \- www.toll.com.au. You are also able to obtain a copy of our latest privacy statement by contacting the address below. 
-
-**Further Information**
-
-If you would like any further information or wish to voice your concern on any matter to do with either this policy or use of your personal information, please contact the Company Secretary, Toll Holdings Limited, Level 8/380 St Kilda Road, Melbourne, Vic 3004. Telephone (03)9694 2888. Facsimile (03)9694 2880. Email company_secretary@toll.com.au. 
-
-Top   
-
-
-## Health Information Management Statement - July 2002
-
-The Toll group of companies ("Toll") provides a range of integrated logistics services through its constituent businesses. Toll interacts with its clients, employees and suppliers of goods and services in the conduct of those businesses and ancilliary activities.
-
-In the course of conducting its businesses Toll at times collects, uses and may disclose health information of the kind referred to in the Victorian Health Records Act 2001 ("Health Information"). In the great majority of cases where Toll requires such information it is within the context of the normal employment relationship with its employees. 
-
-Protecting Health Information provided to us is important. This Health Information Management Statement is intended to help you understand how Toll manages Health Information in accordance with the Health Privacy Principles contained in the Health Records Act 2001 (Victoria).
-
-**Collection and Use of Health Information**
-
-In its capacity as an integrated provider of logistics and an employer, Toll collects and uses Health Information about its employees in particular, and at times about sub-contractors and others with whom it deals. In the case of its employees this occurs primarily in relation to assessing the fitness of individuals for particular tasks, and in relation to absences or incapacity due to accident, injury or illness. For non-employees, any Health Information is likely to only be collected or used in connection with personal injury or hurt to an individual which arises within the business relationship. Toll's collection and use or disclosure of Health Information is for these primary purposes. In most circumstances the Health Information relates to the provision of medical certificates or reports. Toll has legal and statutory obligations in relation to the collection and use of some of this Health Information.
-
-To ensure the integrity and confidentiality of Health Information, Toll will normally only disclose Health Information it holds to the individual concerned or to someone having proper authorisation or authority to request such information, or to fulfil legal or regulatory requirements. Toll may also disclose Health Information to its advisers and other parties in connection with the present and future conduct of its business.
-
-**Access and Correction**
-
-Toll endeavours to ensure that Health Information it collects and uses is accurate and current. Individuals can contact the Company Secretary (see below) for details of Health Information which may be held about them or to correct any Health Information held. If deemed necessary from time to time, a fee may be charged for the provision of Health Information.
-
-**Storage and Security of Health Information**
-
-Health Information is principally held within employment records in a secure and confidential environment. 
-
-**Changes to this statement**
-
-Any changes made to this statement from time to time will be incorporated in an updated version which will be made available on our website \- www.toll.com.au. A copy of the latest Toll Health Information statement may be obtained by contacting the address below. 
-
-**Further Information**
-
-If you would like any further information on any matter to do with either this policy or use of your Health Information, please contact the Company Secretary, Toll Holdings Limited, Level 8/380 St Kilda Road, Melbourne, 3004. Telephone (03)9694 2888. Facsimile (03)9694 2880. Email company_secretary@toll.com.au.  
 INCORPORATING TOLL HOLDINGS LIMITED ACN 006 592 089 AND SUBSIDIARIES
-
-Top 
