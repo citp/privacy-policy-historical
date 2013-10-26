@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the med-u.org privacy policy that was archived on 2013-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130605115950id_/http%3A//www.med-u.org/about/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the med-u.org privacy policy that was archived on 2013-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131026034041id_/http%3A//www.med-u.org/privacy-policy) for the most accurate reproduction.*
 
-# medU | About Us
+# Privacy Policy
 
-## Please review this privacy policy carefully before using the site.
+### Please review this privacy policy carefully before using the site.
 
 This site (“Site” or “case Sites”) is owned and operated by The Institute for Innovative Technology In Medical Education ("iInTIME"), a 501(c)(3) organized under the laws of the State of New Hampshire. The purpose of this Site is to make available iInTIME's virtual patient cases designed to comprehensively teach the core third-year curriculum to individuals involved in health care education and practice.
 
 iInTIME is committed to fair information practices. iInTIME also respects the privacy and security of its users. To demonstrate our commitment to your privacy, we have prepared this statement disclosing our privacy practices. Here, you will learn what personal identifying information of yours is collected, how and when we might use your information, how we protect your information, who has access to your information, and how you can correct any inaccuracies in the information. Except as otherwise described in this Privacy Policy, we will not disclose it to any person or organization outside iInTIME. However, in connection with its educational mission, iInTIME does share information of the usage of those users who are authorized to use the site because of their affiliation with a subscribing institution with such institutions. See below for more details.
 
-## Information We Collect and How We Use It
+### Information We Collect and How We Use It
 
 iInTIME collects certain information from and about its users in three ways: directly from the user, from our Web server logs, and with cookies.
 
@@ -34,7 +34,7 @@ Web server logs: When you visit a case Site, we track information to administer 
 
 Cookies: The case Sites use cookies (i.e., small bits of text that our servers place into a file on your computer's hard drive). These are used to save your preferences and login information, and provide personalized functionality. You can reject cookies by changing your browser settings, but be aware that this will disable some of the functionality on our Site.
 
-## Information Shared with Third Parties
+### Information Shared with Third Parties
 
 iInTIME will not share information it collects which personally identifies you or the personal information you provide upon subscription, registration or log-in with third parties except as follows:
 
@@ -54,9 +54,9 @@ The Site may link to sites maintained by companies that are not affiliated with 
 
 ### How to Correct Inaccuracies
 
-If you've registered for iInTIME Virtual Patient, you can access and update your information by contacting [info@i-intime.org](mailto:info@i-intime.org).
+If you've registered for iInTIME Virtual Patient, you can access and update your information by contacting [info@i-intime.org](mailto:info@i-intime.org).
 
-## Information of “Individual Subscribers” and “Authorized Users”
+### Information of “Individual Subscribers” and “Authorized Users”
 
 Individual Subscribers: Certain individuals ("Individual Subscribers") subscribe individually to receive access to the Site or portions thereof. We collect personal information from these users and track their usage of the Site but will not share such information with third parties except as described in the Section above. Such users should be aware that to receive credit for their use of the Site, they may need to share information regarding usage with institutions from which they wish to receive credit.
 
@@ -72,4 +72,4 @@ If our information practices change in a significant way, we will post and highl
 
 ### Questions?
 
-Please send an e-mail message to [info@i-intime.org](mailto:info@i-intime.org) .
+Please send an e-mail message to [info@med-u.org](mailto:info@i-intime.org).
