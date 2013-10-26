@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wiggle.co.uk privacy policy that was archived on 2013-03-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130304092333id_/http%3A//www.wiggle.co.uk/h/option/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wiggle.co.uk privacy policy that was archived on 2013-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131026131604id_/http%3A//www.wiggle.co.uk/h/option/PrivacyPolicy) for the most accurate reproduction.*
 
 # Wiggle Customer Services
 
@@ -50,7 +50,7 @@ When you place an order we need to know your name, email address, delivery addre
 
 **Newsletter Subscription**
 
-When you agree, your e-mail address will be used for our own marketing purposes until you unsubscribe. It is possible to unsubscribe at any time. If you do not wish to receive information about our products or services, please tick the appropriate box on the Wiggle Newsletter Management.
+Your e-mail address will be used for our own marketing purposes until you unsubscribe. It is possible to unsubscribe at any time. If you do not wish to receive information about our products or services you can unsubscribe by clicking the unsubscribe link, which exists at the top of all marketing emails sent by Wiggle, or by managing your subscription status in your account pages on the Wiggle website.
 
 **Your Consent**  
 By submitting information to Wiggle you consent to the collection and use of this information by Wiggle and its Service Provider (if any) in the fullfilment of your order. If we decide to change our privacy policy, we will post those changes on this page so that you are aware of what information we collect, how we use it and under what circumstances we disclose it.
@@ -69,6 +69,7 @@ Please read our  **full** [Cookie Policy](http://www.wiggle.co.uk/h/option/Cook
 **Analytic Tools**
 
   * Google Analytics is a system used by many website to record information about who visits a website. Google set five different cookies with expiry dates ranging from 1 day to 2 years. These cookies are used mainly to differentiate between first time visitors to a website and repeat visitors. They do not contain any personally identifiable information. You can find out more about how Google use cookies at http://www.google.co.uk/policies/privacy/ (English only)
+  * Wiggle may from time to time share your details with third party analytical resources for the purposes of better understanding customer behaviour and performance, website performance and any other analytical process to give Wiggle a better understanding of how to develop its offering to its customers.  These third parties will be employed solely for the purpose of the aforementioned analytical purposes, and as such Wiggle will ensure that the third party is contractually obliged to use the data only for the analytical purposes set out in the agreement between Wiggle and the third party, and Wiggle will also ensure that the third party is contractually required to maintain a level of security around the shared data, at least as safe as Wiggle itself employs.  Failure on the part of the third party to meet its contractual obligations will result in Wiggle recovering the data, and taking all reasonable actions to ensure the third party no longer has access to the shared data.
 
 
 
