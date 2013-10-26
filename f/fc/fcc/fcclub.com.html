@@ -1,373 +1,518 @@
-<!--The following is the downloaded HTML source of the fcclub.com privacy policy that was archived on 2013-02-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130221042825id_/http%3A//www.fcclub.com/index.php%3Fpage%3Dprivacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the fcclub.com privacy policy that was archived on 2013-10-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131026093751id_/http%3A//www.fcclub.com/index.php%3Fapp%3Dhome%26mod%3DPublic%26act%3Ddocument%26id%3D6) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html><head>
-<meta http-equiv="Pragma" content="no-cache">
-<meta http-equiv="Cache-Control" content="no-cache">
-<meta http-equiv="Expires" content="-1">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<meta http-equiv="content-language" content="en">
-<meta name="description" content="FC Club (Fortune Connection Club) is a very powerfull networking site. It will help you to find like minded people from all over the world. With FC Club (Fortune Connection Club) you can: 
-build your own network of contacts who share your interests 
-join FC Club (Fortune Connection Club) monthly social networking events in Shanghai and Beijing.
-use built-in communication services 
-create classified ads and get responses 
-create your own event or attend to other members' events 
-create clubs and invite people, who share your ineterests. 
-FC Club Business &amp; Finance Social Networking Evening  brings together people who work in Finace, Banking, Consulting, Real Estate, investment companies. in Shanghai and Beijing. FC Club Career Development Headhunter Social Networking Evening brings together headhunters, HRs and professionals from all different industry for monthly events in Shanghai and Beijing. ">
-<meta name="keywords" content="Welcome to FC Club (Fortune Connection Club) - Where Fortune Starts!">
-<title>FC Club (Fortune Connection Club) - Where Fortune Starts!::Privacy</title>
-<link rel="stylesheet" type="text/css" href="themes/handshakes_plain/gfx/style.css">
-<script src="http://www.fcclub.com/jscript/zxml.js" type="text/javascript"></script>
-<script language="JavaScript">
-//<![CDATA[
-var tempTimeout = 0;
-var closeTimeout = null;
-function HS_VChatRequest( type, param )
-{
-	var oXHR = zXmlHttp.createRequest();
-	oXHR.open("post", MainURL+"modules/vchat.php", true);
-	oXHR.setRequestHeader("Content-Type","application/x-www-form-urlencoded");
-	oXHR.onreadystatechange = function() {
-		if (oXHR.readyState == 4) {
-			HS_ShowVChatWindow( oXHR.responseText );
-		}
-	}
-	
-	var post = null;
-	
-	switch(type){
-		case 'invite':
-			post = "action=invite&per_id="+param;
-			break;
-		case 'cancel':
-			HS_CloseVChatWindow();
-			post = "action=cancel&session_id="+param;
-			break;
-		case 'accept':
-			HS_CloseVChatWindow();
-			post = "action=accept&session_id="+param;
-			break;
-		case 'decline':
-			HS_CloseVChatWindow();
-			post = "action=decline&session_id="+param;
-			break;
-		case 'ignore':
-			HS_CloseVChatWindow();
-			post = "action=ignore&session_id="+param;
-			break;
-		case 'invited':
-			post = "action=invited&session_id="+param;
-			break;
-		case 'unavailable':
-			post = "action=unavailable&session_id="+param;
-			break;
-		case 'open_invited':
-			post = "action=open_invited&session_id="+param;
-			break;
-		case 'open_invitee':
-			post = "action=open_invitee&session_id="+param;
-			break;
-		case 'declined':
-			post = "action=declined&session_id="+param;
-			break;
-		case 'close':
-			HS_CloseVChatWindow();
-			break;
-	}
-	
-	oXHR.send( post );
-}
-
-function HS_HandleVChatSignal( code )
-{
-	var details = code.split(".");
-	HS_VChatRequest( details[0], details[1] );
-}
-
-function HS_AlignVChatWindow()
-{
-	var ns = (document.layers)?1:0;
-	var Position = new Array;
-	if(ns){
-		Position['Left'] = window.innerWidth + window.pageXOffset - 5;
-		Position['Top']  = window.innerHeight + window.pageYOffset - 5;
-	}//if
-	else{
-		Position['Left'] = document.body.clientWidth + document.body.scrollLeft - 5;
-		Position['Top']  = document.body.clientHeight + document.body.scrollTop - 5;
-	}//else
-	var VChatWindow = document.getElementById("vchat_window");
-	VChatWindow.style.top = (Position['Top']/2) - (VChatWindow.offsetHeight/2);
-	VChatWindow.style.left = (Position['Left']/2) - (VChatWindow.offsetWidth/2);
-	if(tempTimeout)
-		setTimeout( "HS_AlignVChatWindow()", 500 );
-}
-function HS_ShowVChatWindow( content )
-{
-	if(content){
-		var element = document.getElementById( "vchat_window" );
-		element.innerHTML = content;
-		tempTimeout = 1;
-		HS_AlignVChatWindow();
-		element.style.visibility = "visible";
-	}
-}
-
-function HS_CloseVChatWindow()
-{
-	tempTimeout = 0;
-	var element = document.getElementById( "vchat_window" );
-	element.innerHTML = "";
-	element.style.visibility = "hidden";
-}
-
-function HS_LaunchVChat( session_id )
-{
-	HS_CloseVChatWindow();
-	url = MainURL+"modules/vchat.php?action=launch&session_id="+session_id;
-	var newwin = window.open(url, "vchat", "width=550,height=330,scrollbars=no,menubar=no,resizable=no,location=no");
-	newwin.focus();
-}
-
-//]]>
+<title>
+    FC Club - Connecting World Professionals.    
+</title>
+<link rel="shortcut icon" href="http://www.fcclub.com/public/themes/classic2/favicon_fc.ico">
+<meta name="keywords" content="Fortune Connection Club">
+<meta name="description" content="Where Fortune Starts!">
+<script id="facebook-jssdk" async="" src="//connect.facebook.net/en_US/all.js"></script><script>
+	var _UID_   = '0';
+	var _MID_   = '0';
+	var _ROOT_  = '';
+	var _THEME_ = 'http://www.fcclub.com/public/themes/classic2';
+	var _PUBLIC_ = 'http://www.fcclub.com/public';
 </script>
-<style type="text/css">
-<!--	
-	#BLIND {
-		position: absolute; 
-		visibility: hidden; 
-		top: 0; 
-		left: 0; 
-		width: 180px;
-		height: 115px;
-		z-index: 1;
-		opacity: 0;
-		-moz-opacity: 0;
-		-khtml-opacity: 0;
-		filter: alpha(opacity=0);
-	}
-	#blinds_panel {
-		position: absolute;
-		top: 0;
-		left: 0;
-		z-index: 1;
-	}
-	#body{
-		position: relative;
-		z-index: 2;
-	}
-	.blind{
-		width: 180;
-		height: 115;
-		opacity: 0;
-		-moz-opacity: 0;
-		-khtml-opacity: 0;
-		filter: alpha(opacity=0);
-	}
-//-->
+<!-- 全局风格CSS -->
+<link href="http://www.fcclub.com/public/themes/classic2/main.css?20110429" rel="stylesheet" type="text/css">
+<link href="http://www.fcclub.com/public/js/tbox/box.css" rel="stylesheet" type="text/css">
+<link href="/apps/home/Tpl/default/Public/login.css" rel="stylesheet" type="text/css">
+<!-- 核心JS加载 -->
+<script type="text/javascript" src="http://www.fcclub.com/public/js/jquery.js"></script>
+<script type="text/javascript" src="http://www.fcclub.com/public/js/en.js"></script>
+<script type="text/javascript" src="http://www.fcclub.com/public/js/common.js"></script>
+<script type="text/javascript" src="http://www.fcclub.com/public/js/tbox/box.js"></script>
+<script type="text/javascript" src="http://www.fcclub.com/public/js/scrolltopcontrol.js"></script>
+<script src="http://www.fcclub.com/public/js/jquery.jgrow.min.js"></script>
+
+<!-- 编辑器样式文件 -->
+<link href="http://www.fcclub.com/public/js/editor/editor/theme/base-min.css" rel="stylesheet">
+<!--[if lt IE 8]>
+<link href="http://www.fcclub.com/public/js/editor/editor/theme/cool/editor-pkg-sprite-min.css" rel="stylesheet"/>
+<![endif]-->
+<!--[if gte IE 8]><!-->
+<link href="http://www.fcclub.com/public/js/editor/editor/theme/cool/editor-pkg-min-datauri.css" rel="stylesheet">
+<!--<![endif]-->
+<style>
+    .mitem
+    {padding: 0px 10px 0px 8px;}
 </style>
-<script language="JavaScript">
-<!--
-	var NotiTimer = new Array;
-	var BlindIDCount = 0;	
-	function MM_preloadImages() { //v3.0
-		var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
-		var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
-		if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
-	}//MM_preloadImages
-	function HS_LaunchIM(){
-		url = MainURL+"modules/instant_messenger.php?action=launch";   
-		imwin = window.open(url, "HSIM_CONSOLE", "width=250,height=350,scrollbars=no,menubar=no,resizable=no,location=no");
-		imwin.focus();
-	}//HS_LaunchIM
-	function HS_LaunchChat(per_id){
-		url = MainURL+"modules/instant_messenger.php?action=chat&per_id="+per_id;
-		var newwin = window.open(url, per_id, "width=500,height=350,scrollbars=no,menubar=no,resizable=no,location=no");
-		newwin.focus();
-	}//HS_LaunchChat
-	function HS_BuildBlind(){		
-		BlindIDCount++;
-		var BlindID = "BLIND_"+BlindIDCount;
-		var BlindTemplate = document.getElementById("BLIND").innerHTML;
-		var Temp = new Array;
-		Temp = BlindTemplate.split("BLIND");
-		BlindTemplate = Temp.join(BlindID);
-		var BlindContent = "<div class='blind' id='"+BlindID+"'>"+BlindTemplate+"</div>";
-		var BlindsHandler = document.getElementById("blinds_panel");
-		if(BlindsHandler.offsetHeight >= 117){
-			BlindsHandler.style.top = parseInt(BlindsHandler.style.top) - 117;
-		}//if
-		else{
-			BlindsHandler.style.top = parseInt(BlindsHandler.style.top) - 117 + BlindsHandler.offsetHeight;
-		}//else
-		BlindsHandler.innerHTML+= BlindContent;
-		return BlindID;
-	}//HS_BuildBlind
-	function HS_BuildNotification(NotiType,NotiMessage){
-		BlindID = HS_BuildBlind();
-		switch(NotiType){
-			case 'im':
-				var Link = "<a href=\"javascript:HS_LaunchIM();\">"+NotiMessage+"</a>";
-				break;
-			case 'calendar':
-				var Link = "<a href=\"index.php?page=calendar\" target=\"_blank\">"+NotiMessage+"</a>";
-				break;
-			case 'mailbox':
-				var Link = "<a href=\"index.php?page=mailbox&section=inbox\" target=\"_blank\">"+NotiMessage+"</a>";
-				break;
-			case 'view':
-				var Link = "<a href=\"index.php?page=views\" target=\"_blank\">"+NotiMessage+"</a>";
-				break;
-		}//switch
-		var MessageHandler = document.getElementById("notification_message_"+BlindID);
-		MessageHandler.innerHTML = Link;
-		HS_FadeBlind(BlindID,"in");
-		NotiTimer[BlindID] = setTimeout("HS_FadeBlind('"+BlindID+"','out')",10000);
-	}//HS_BuildNotification
-	function HS_FadeBlind(BlindID,Direction){		
-		var Timer = 0;
-		var Speed = 50;		
-		if(Direction == "in"){
-			HS_ChangeAlign('blinds_panel',3);
-			for(var i=10;i<=100;i=i+10){
-				setTimeout("HS_ChangeOpacity(" + i + ",'" + BlindID + "')",(Timer * Speed)); 
-            	Timer++;
-			}//for
-		}//if
-		else if(Direction == "out"){			
-			for(var i=90;i>=0;i=i-10){
-				setTimeout("HS_ChangeOpacity(" + i + ",'" + BlindID + "')",(Timer * Speed)); 				
-            	Timer++;
-			}//for
-			setTimeout("HS_ChangeAlign('blinds_panel',1)",Timer * Speed);
-			setTimeout("HS_RemoveBlind('"+BlindID+"')",Timer * Speed);
-		}//else if
-	}//HS_FadeBlind
-	function HS_ChangeOpacity(OpacityValue,BlindID){		
-		var BlindObjStyle = document.getElementById(BlindID).style;
-    	BlindObjStyle.opacity = (OpacityValue / 100); 
-    	BlindObjStyle.MozOpacity = (OpacityValue / 100); 
-    	BlindObjStyle.KhtmlOpacity = (OpacityValue / 100); 
-    	BlindObjStyle.filter = "alpha(opacity=" + OpacityValue + ")"; 
-	}//HS_ChangeOpacity
-	function HS_PosBlinds(){
-		var ns = (document.layers)?1:0;
-		var Position = new Array;		
-		if(ns){
-			Position['Left'] = window.innerWidth + window.pageXOffset - 5;
-			Position['Top']  = window.innerHeight + window.pageYOffset - 5;
-		}//if
-		else{
-			Position['Left'] = document.body.clientWidth + document.body.scrollLeft - 5;
-			Position['Top']  = document.body.clientHeight + document.body.scrollTop - 5;
-		}//else
-		var BlindsPanel = document.getElementById("blinds_panel");
-		BlindsPanel.style.top = Position['Top'] - BlindsPanel.offsetHeight;
-		BlindsPanel.style.left = Position['Left'] - 180;
-		setTimeout("HS_PosBlinds()",500);
-	}//HS_PosBlinds
-	function HS_ChangeAlign(BlindID,Pos){	
-		var BlindObjStyle = document.getElementById(BlindID).style;
-		BlindObjStyle.zIndex = Pos;
-	}//HS_ChangeAlign
-	function HS_RemoveBlind(BlindID){
-		var BlindObj = document.getElementById(BlindID);
-		BlindObj.innerHTML = "";
-	}//HS_RemoveBlind
-	function HS_CloseNotification(BlindID){
-		clearTimeout(NotiTimer[BlindID]);
-		HS_FadeBlind(BlindID,'out');
-	}//HS_CloseNotification
-//-->
-</script>
-<script src="http://www.fcclub.com/jscript/AC_RunActiveContent.js" type="text/javascript"></script>
-<script src="http://www.fcclub.com/jscript/AC_ActiveX.js" type="text/javascript"></script>
-
-<script language="JavaScript">
-<!--
-	var MainURL = "./";
-//-->
-</script>
 </head>
-<body onload="HS_PosBlinds();;">
-<div id="BLIND">
-<div class="noti"><table cellpadding="0" cellspacing="0" border="0" width="180" height="115">
-	<tbody><tr height="20"><td height="20" align="center" class="noti-header">Notification [<a href="javascript:HS_CloseNotification('BLIND')">x</a>]</td></tr>
-	<tr><td align="center" style="padding:5px;" class="noti-body"><div id="notification_message_BLIND"></div></td></tr>
-</tbody></table></div>
-<div id="notification_message_BLIND"></div>
-</div>
-<div id="blinds_panel" style="top: 763px; left: 1181px;"></div>
-<iframe name="notifications_js" id="notifications_js" src="./modules/my_handshakes.php?action=notifications_js" width="0" height="0" scrolling="no" frameborder="0" border="0" style="border: none"></iframe><div id="vchat_window"></div>
-<div class="handler">
-	<div class="page">
-	<div class="top">
-		<div class="logo"><a href="./"><img src="themes/handshakes_plain/gfx/logo.gif" alt="" width="140" height="40" border="0"></a></div>
-		<div style="text-align:right">
-			<div class="topmenu"><a target="" href="./index.php?page=mailbox&amp;section=inbox">Mailbox</a>
- | <a target="" href="./index.php?page=calendar">Calendar</a>
- | <a target="" href="./index.php?page=bookmarks&amp;section=profiles">Bookmarks</a>
- | <a target="" href="./index.php?page=history">History</a>
- | <a target="" href="./">My Profile</a>
- | <a target="" href="javascript:HS_LaunchIM()">Instant Messenger</a>
- | </div>
-					</div>
-		<div style="clear:both"></div>
+<body class="body_bg">
+
+
+<div class="div_body">
+
+<script>
+$(document).ready(function(){
+	setInterval(function(){
+		if('' != $('#email_top').val())$('#_login_email_label_top').hide();
+		if('' != $('#password_top').val())$('#_login_password_label_top').hide();
+	}, 100);
+});
+</script>
+<!-- 1. Include the LinkedIn JavaScript API and define a onLoad callback function -->
+				<script type="text/javascript" src="http://platform.linkedin.com/in.js">
+				  api_key: 6wgi8b7quwaw
+				  onLoad: onLinkedInLoad
+				 //authorize: true
+				</script>
+				<!--<script type="in/Login">-->
+				<!--Hello, <?js= firstName ?> <?js= lastName ?>.-->
+				<!--</script>-->
+				<script type="text/javascript">
+				  // 2. Runs when the JavaScript framework is loaded
+				  function onLinkedInLoad() {
+				    IN.Event.on(IN, "auth", onLinkedInAuth);
+				  }
+				  // 2. Runs when the viewer has authenticated
+				  function onLinkedInAuth() {
+				    IN.API.Profile("me").result(displayProfiles).error(displayProfilesErrors);
+				  }
+				  // 2. Runs when the Profile() API call returns successfully
+				  function displayProfiles(profiles) {
+				    member = profiles.values[0];
+				    var linkid= document.getElementById("linkedin_id").value=member.id;
+				    var linkfirstname= document.getElementById("firstname").value=member.firstName;
+				    var linklastname= document.getElementById("lastname").value=member.lastName;
+				    window.location.href="http://www.fcclub.com/index.php?app=home&mod=Public&act=dolinkedinlogin&linkedin_id="+linkid+"&firstname="+linkfirstname+"&lastname="+linklastname+"";
+					 //var str=document.getElementById("profiles").innerHTML = '<form id="golinkedin" action="http://www.fcclub.com/index.php?app=home&mod=Public&act=dolinkedinlogin" method="post"> <input type="text" name="linkedin_id" value="'+member.id+'"/> <input type="text" name="firstnaem" value="'+member.firstName+'"/><input type="text" name="lastname" value="'+member.lastName+'"/><input type="submit" value="button" name="button" ></input>  <input type="hidden" name="__hash__" value="f7e74f19ff904a94a1049871e31e896c" /></form>';
+					 //document.getElementById("golinkedin").submit();
+					 //document.dolinkedinlogin_form.submit();
+				  	 //dolinkedinlogin_form.submit();
+					}
+					
+				  //Displaying multiple profiles
+				  function displayProfilesErrors(error) {
+					  profilesDiv = document.getElementById("profiles");
+					  profilesDiv.innterHTML ="<p>Oops, profile doesn't exist!</p>";
+					  console.log(error);
+				  }
+				
+
+				var theForm = document.forms['form1'];
+			//	alert(theForm);
+				if (!theForm) {
+				    theForm = document.form1;
+				}
+				function __doPostBack(eventTarget, eventArgument) {
+					if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
+						theForm.__EVENTTARGET.value = eventTarget;
+				        theForm.__EVENTARGUMENT.value = eventArgument;
+				        theForm.submit();
+				    }
+				}
+
+				////强制转换页面
+				//$(document).ready(function(){
+				//$('.profiles_main').live('click',function(){
+				//if (document.getElementById("profiles").innerHTML==null){
+				//	$('#login_form1').css("display","block");
+				//	$('#profiles').css("display","none");
+				//}else{
+				//	$('#login_form1').css("display","none");
+				//	$('#profiles').css("display","block");
+				//}
+				//})
+				//});
+				</script>
+				
+<!-- 未登录 显示中英文 -->				
+<div class="header_bg" style="border:0px solid red;width:100%;height:190px;">
+	<div style="border:0px solid red;width:100%;background: #eeeeee;">
+		 	<div class="header_top_login_1">
+		 	
+		 		<table style="width:998px;">
+			 		<tbody><tr>
+			 			<td align="right" style="line-height: 30px;">
+			 				<div class="header_top_login_font" style="text-align:center;">
+			 				
+			 				
+		<a style="color:#ffffff" href="http://www.fcclub.com/index.php?app=home&amp;mod=Public&amp;act=document&amp;id=6&amp;l=zh-cn">中文</a>&nbsp;|<!--			   if($enlang==1 & $chlang==1){-->
+<!--		$result = "<a style='color:#ffffff' href='".$url.$linkChar."l=en-us'>English</a>&nbsp;<a style='color:#ffffff' href='".$url.$linkChar."l=zh-cn'>中文</a>&nbsp;"; 	-->
+<!--}else if($enlang==1 & $chlang==0){-->
+<!--		$result = "<a style='color:#ffffff' href='".$url.$linkChar."l=en-us'>English</a>&nbsp;"; -->
+<!--}else if($enlang==0 & $chlang==1){-->
+<!--		$result = "<a style='color:#ffffff' href='".$url.$linkChar."l=zh-cn'>中文</a>&nbsp;";-->
+<!--}else{-->
+<!--		$result = "<a style='color:#ffffff' href='".$url.$linkChar."l=en-us'>English</a>&nbsp;"; 	-->
+<!--}  -->
+<!---->
+<!--	    echo $result;-->
+	    				      	<a href="http://www.fcclub.com/register"><span style="color:#ffffff">Registration</span></a>&nbsp;|&nbsp;
+							      	<a href="http://www.fcclub.com/index.php?app=home&amp;mod=Public&amp;act=tologin"><span style="color:#ffffff">Login</span></a>
+			 				</div>
+			 			</td>
+			 		</tr>
+			 	</tbody></table>
+		 	</div>
+		  	<div class="header_top_login_3">
+		 		<table width="100%" border="0">
+		 			<tbody><tr>
+		 				<td align="center">
+		 					<table style="width:1000px;" border="0">
+						 		<tbody><tr>
+						 			<td align="left" width="300px;">
+						 				 <a href="http://www.fcclub.com/home"><div class="header_logo" style="height:70px;"></div></a>
+						 			</td>
+						 			<td align="left" width="700px;">
+						 				<form action="http://www.fcclub.com/index.php?app=home&amp;mod=Public&amp;act=doLogin" method="post">
+							 				<table border="0" width="100%">
+							 					<tbody><tr>
+							 						<td align="left" width="140px" valign="bottom">
+							 							 <div class="frm" style="height:29px;*height:auto; position:relative">
+													        <label id="_login_email_label_top" class="form_label" style="display:block;width:140px;" onclick="$(this).hide();$('#email_top').focus();">Email</label>
+													        <input type="text" id="email_top" name="email" class="text" title="Email" autocomplete="off" value="" onblur="if($(this).val()=='') $('#_login_email_label_top').show();" onfocus="$('#_login_email_label_top').hide();">
+														</div>
+							 						</td>
+							 						<td align="left" width="140px" valign="bottom">
+							 							<div class="frm" style="height:29px;*height:auto; position:relative">
+															<label id="_login_password_label_top" class="form_label" style="display:block;width:140px;" onclick="$(this).hide();$('#password_top').focus();">Password</label>
+															<input type="password" title="Password" value="" id="password_top" name="password" class="text" style="display: inline;" onblur="if($(this).val()=='') $('#_login_password_label_top').show();" onfocus="$('#_login_password_label_top').hide();">
+														</div>
+							 						</td>
+							 						<td align="left" width="120px" valign="bottom">
+							 							 <div class="frm">
+															<label>
+																<input name="remember" type="checkbox" value="1">
+																Remember															</label> 
+														</div>
+														<div class="frm">
+															<a class="fuc0" style="color:#0066cc" href="http://www.fcclub.com/sendPassword">Forgot password? </a>
+														</div>
+							 						</td>
+							 						<td align="left" width="75px">
+							 							<div class="frm" style="margin:0px auto; padding:0px; width:85px">
+							 								<input type="submit" value="Sign in" class="logbtn1 hand">
+							 								<!-- Login -->
+							 							 </div>
+							 						</td>
+							 						<td align="left">
+														<table width="100%" border="0">
+							 								<tbody><tr>
+							 									<td>
+																	<div class="profiles_main" style="float:left;border:0px solid red;width:20px;overflow:hidden;margin-left:8px">
+																		<!-- 3. Displays a button to let the viewer authenticate -->
+																		<script type="IN/Login"></script>
+																	</div>
+																	<div id="profiles" style="z-index:-1;display:none">
+																		 
+																			<input type="hidden" id="linkedin_id" name="linkedin_id"> 
+																			<input type="hidden" id="firstname" name="firstname">
+																			<input type="hidden" id="lastname" name="lastname">
+																			<input type="submit" value="" name="button">
+																		<input type="hidden" name="__hash__" value="f7e74f19ff904a94a1049871e31e896c">
+																	</div>
+																</td>
+																
+																																		<td>
+																	 	<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" scrolling="no" allowtransparency="yes" width="20" height="20" src="http://www.fcclub.com/public/themes/classic2/new_twitter/connect.php"></iframe>
+																	</td>
+																	<td>
+																		 <div id="fb-root"></div>
+																	    <script>
+																	      // Load the SDK Asynchronously
+																	      (function(d){
+																	         var js, id = 'facebook-jssdk', ref = d.getElementsByTagName('script')[0];
+																	         if (d.getElementById(id)) {return;}
+																	         js = d.createElement('script'); js.id = id; js.async = true;
+																	         js.src = "//connect.facebook.net/en_US/all.js";
+																	         ref.parentNode.insertBefore(js, ref);
+																	       }(document));
+																	
+																	      // Init the SDK upon load
+																	      window.fbAsyncInit = function() {
+																	        FB.init({
+																	          appId      : '252089414894644', // App ID
+																	          channelUrl : "http://www.worldprofession.com/",//'//'+window.location.hostname+'/channel', // Path to your Channel File
+																	          status     : true, // check login status
+																	          cookie     : true, // enable cookies to allow the server to access the session
+																	          xfbml      : true  // parse XFBML
+																	        });
+																	
+																	        // listen for and handle auth.statusChange events
+																	        FB.Event.subscribe('auth.statusChange', function(response) 
+																	        {
+																	          if (response.authResponse) 
+																	          {
+																	            // user has auth'd your app and is logged into Facebook
+																	            FB.api('/me', function(me)
+																	            {
+																	              if (me.name) 
+																	              {
+				<!--														        document.getElementById("auth-displayname").innerHTML = '<form name="dofacebooklogin_form" id="dofacebooklogin_form" action="http://www.fcclub.com/index.php?app=home&mod=Public&act=dofacebooklogin_form" method="post"> <input type="text" name="facebook_id" value="'+me.id+'"/> <input type="text" name="facebook_uname" value="'+me.name+'"/><input type="text" name="facebook_email" value="'+me.email+'"/><input style="dispaly:none" type="submit" value="submit" /><input type="hidden" name="__hash__" value="f7e74f19ff904a94a1049871e31e896c" /></form>';-->
+																					var facebooks_id= me.id;
+																		            var facebooks_uname= me.name;
+																				    var facebooks_email= me.email;
+																				    window.location.href="http://www.fcclub.com/index.php?app=home&mod=Public&act=dofacebooklogin_form&facebook_id="+facebooks_id+"&uname="+facebooks_uname+"&email="+facebooks_email+"";
+				
+				
+																				    
+																		              //  document.getElementById('auth-displayname').innerHTML = me.name;// + me.id + me.email;
+																	              }
+																	            })
+																	            document.getElementById('auth-loggedout').style.display = 'none';
+																	            document.getElementById('auth-loggedin').style.display = 'block';
+																	
+																	            //改inputMsg
+				<!--																var inputMsg = 'Test Message';-->
+				<!--													            FB.api('/me/feed', 'post', { message: inputMsg }, function(response) -->
+				<!--													            {-->
+				<!--													              if (!response || response.error) {-->
+				<!--													                alert('Error occured');-->
+				<!--} -->
+				<!--													            })-->
+																	            
+																	          } else {
+																	            // user has not auth'd your app, or is not logged into Facebook
+																	            document.getElementById('auth-loggedout').style.display = 'block';
+																	            document.getElementById('auth-loggedin').style.display = 'none';
+																	          }
+																	        });
+																	
+																	        // respond to clicks on the login and logout links
+																	        document.getElementById('auth-loginlink').addEventListener('click', function(){
+																	          FB.login(function(response){},{scope:'email, publish_stream'});
+																	        });
+																	        document.getElementById('auth-logoutlink').addEventListener('click', function(){
+																	          FB.logout();
+																	        }); 
+																	      } 
+																	    </script>
+																	      <div id="auth-status">
+																	        <div id="auth-loggedout">
+																	          <a href="#" id="auth-loginlink"><img src="http://www.fcclub.com/public/themes/classic2/images/facebook.png"></a>
+																	        </div>
+																	        <div id="auth-loggedin" style="display:none">
+																	          <span id="auth-displayname"></span>  
+																	       <!--  (<a href="#" id="auth-logoutlink">logout</a>) -->
+																	      </div>
+																	    </div>
+																	</td>
+																	
+																																		
+																<td>
+																	<span style="font-weight: bolder;">Sign in</span>
+																</td>
+							 								</tr>
+							 							</tbody></table>
+							 					
+							 						</td>
+							 						
+							 					</tr>
+							 				</tbody></table>
+						 				<input type="hidden" name="__hash__" value="f7e74f19ff904a94a1049871e31e896c">
+						 			</form></td>
+						 		</tr>
+						 		<tr>
+						 			<td colspan="2" height="40px">
+						 				<div class="header_menu_main_div_bg">
+						 					<div style="float:left;border:0px solid red;width:100%;height:40px;line-height:40px;font-size:16px;text-align:center;">
+						 						<div style="float:left;border:0px solid red;height:100%;width:80px;">
+						 							<a href="http://www.fcclub.com/home"><span style="color:#ffffff">Home</span></a>
+						 						</div>
+						 						<div style="float:left;border:0px solid red;height:100%;width:3px;">
+						 							<div style="margin-top:2px"><img src="http://www.fcclub.com/public/themes/classic2/images/header_menu_line.png"></div>
+						 						</div>
+						 						
+						 						<div style="float:left;border:0px solid red;height:100%;width:120px;">
+						 							<a href="http://www.fcclub.com/index.php?app=home&amp;mod=Public&amp;act=document&amp;id=2"><span style="color:#ffffff">About Us</span></a>
+						 						</div>
+						 						<div style="float:left;border:0px solid red;height:100%;width:3px;">
+						 							<div style="margin-top:2px"><img src="http://www.fcclub.com/public/themes/classic2/images/header_menu_line.png"></div>
+						 						</div>
+						 						
+						 						<div style="float:left;border:0px solid red;height:100%;width:80px;">
+						 							<a href="http://www.fcclub.com/index.php?app=home&amp;mod=Public&amp;act=event_list"><span style="color:#ffffff">Events</span></a>
+						 						</div>
+						 						<div style="float:left;border:0px solid red;height:100%;width:3px;">
+						 							<div style="margin-top:2px"><img src="http://www.fcclub.com/public/themes/classic2/images/header_menu_line.png"></div>
+						 						</div>
+						 						
+						 						<div style="float:left;border:0px solid red;height:100%;width:140px;">
+						 							<a href="http://www.fcclub.com/index.php?app=home&amp;mod=Public&amp;act=photo"><span style="color:#ffffff">Event Photos</span></a>
+						 						</div>
+						 						<div style="float:left;border:0px solid red;height:100%;width:3px;">
+						 							<div style="margin-top:2px"><img src="http://www.fcclub.com/public/themes/classic2/images/header_menu_line.png"></div>
+						 						</div>
+						 						
+						 						<div style="float:left;border:0px solid red;height:100%;width:120px;">
+						 							<a href="http://www.fcclub.com/index.php?app=home&amp;mod=Public&amp;act=document&amp;id=4"><span style="color:#ffffff">Organizers</span></a>
+						 						</div>
+						 						<div style="float:left;border:0px solid red;height:100%;width:3px;">
+						 							<div style="margin-top:2px"><img src="http://www.fcclub.com/public/themes/classic2/images/header_menu_line.png"></div>
+						 						</div>
+						 						
+						 						<div style="float:left;border:0px solid red;height:100%;width:80px;">
+						 							<a href="http://www.fcclub.com/index.php?app=home&amp;mod=Public&amp;act=job"><span style="color:#ffffff">Jobs</span></a>
+						 						</div>
+						 						<div style="float:left;border:0px solid red;height:100%;width:3px;">
+						 							<div style="margin-top:2px"><img src="http://www.fcclub.com/public/themes/classic2/images/header_menu_line.png"></div>
+						 						</div>
+						 						
+						 						<div style="float:left;border:0px solid red;height:100%;width:120px;">
+						 							<a href="http://www.fcclub.com/register"><span style="color:#ffffff">Join Now</span></a>
+						 						</div>
+						 						
+						 					</div>
+<!--						 					<table width="100%;" border=1 cellpadding="0" cellspacing="">-->
+<!--						 						<tr>-->
+<!--						 							<td width="50px" >-->
+<!--														<table width="100%" style="height:38px;">-->
+<!--															<tr>-->
+<!--																<td width="48" class="header_menu_main_div_bg_zi" align="center"> <a href="http://www.fcclub.com/home"><span style="color:#ffffff">Home</span></a></td>-->
+<!--																<td width="2"><div style="margin-top:-3px"><img src="http://www.fcclub.com/public/themes/classic2/images/header_menu_line.png"/></div></td>-->
+<!--															</tr>-->
+<!--														</table>-->
+<!--						 							</td>-->
+<!--						 							<td width="50px" class="header_menu_main_div_bg_zi" align="center">-->
+<!--						 								<table width="100%" style="height:38px;">-->
+<!--															<tr>-->
+<!--																<td width="48" class="header_menu_main_div_bg_zi" align="center"> <a href="http://www.fcclub.com/index.php?app=home&mod=Public&act=document&id=2" ><span style="color:#ffffff">About Us</span></a></td>-->
+<!--																<td width="2"><div style="margin-top:-3px"><img src="http://www.fcclub.com/public/themes/classic2/images/header_menu_line.png"/></div></td>-->
+<!--															</tr>-->
+<!--														</table>-->
+<!--														-->
+<!--													</td>-->
+<!--													<td width="50px" class="header_menu_main_div_bg_zi" align="center">-->
+<!--						 								<table width="100%" style="height:38px;">-->
+<!--															<tr>-->
+<!--																<td width="48" class="header_menu_main_div_bg_zi" align="center"><a href="#" ><span style="color:#ffffff">Events</span></a></td>-->
+<!--																<td width="2"><div style="margin-top:-3px"><img src="http://www.fcclub.com/public/themes/classic2/images/header_menu_line.png"/></div></td>-->
+<!--															</tr>-->
+<!--														</table>-->
+<!--														-->
+<!--													</td>-->
+<!--													<td width="67px" class="header_menu_main_div_bg_zi">-->
+<!--						 								<table width="100%" style="height:38px;">-->
+<!--															<tr>-->
+<!--																<td width="65" class="header_menu_main_div_bg_zi" align="center"><a href="#" ><span style="color:#ffffff">Event Photos</span></a></td>-->
+<!--																<td width="2"><div style="margin-top:-3px"><img src="http://www.fcclub.com/public/themes/classic2/images/header_menu_line.png"/></div></td>-->
+<!--															</tr>-->
+<!--														</table>-->
+<!--														-->
+<!--													</td>-->
+<!--													<td width="50px" class="header_menu_main_div_bg_zi">-->
+<!--						 								<table width="100%" style="height:38px;">-->
+<!--															<tr>-->
+<!--																<td width="48" class="header_menu_main_div_bg_zi" align="center"><a href="http://www.fcclub.com/index.php?app=home&mod=Public&act=document&id=4" ><span style="color:#ffffff">Organizers</span></a></td>-->
+<!--																<td width="2"><div style="margin-top:-3px"><img src="http://www.fcclub.com/public/themes/classic2/images/header_menu_line.png"/></div></td>-->
+<!--															</tr>-->
+<!--														</table>-->
+<!--														-->
+<!--													</td>-->
+<!--													<td width="50px" class="header_menu_main_div_bg_zi">-->
+<!--						 								<table width="100%" style="height:38px;">-->
+<!--															<tr>-->
+<!--																<td width="48" class="header_menu_main_div_bg_zi" align="center"><a href="http://www.fcclub.com/index.php?app=job&mod=Index&act=index"><span style="color:#ffffff">Jobs</span></a></td>-->
+<!--																<td width="2"><div style="margin-top:-3px"><img src="http://www.fcclub.com/public/themes/classic2/images/header_menu_line.png"/></div></td>-->
+<!--															</tr>-->
+<!--														</table>-->
+<!--														-->
+<!--													</td>-->
+<!--													<td width="50px" class="header_menu_main_div_bg_zi">-->
+<!--						 								<table width="100%" style="height:38px;">-->
+<!--															<tr>-->
+<!--																<td width="48" class="header_menu_main_div_bg_zi" align="center"><a href="#" ><span style="color:#ffffff">Join Now</span></a></td>-->
+<!--																<td width="2"><div style="margin-top:-3px"><img src="http://www.fcclub.com/public/themes/classic2/images/header_menu_line.png"/></div></td>-->
+<!--															</tr>-->
+<!--														</table>-->
+<!--														-->
+<!--													</td>-->
+<!--						 							<td width="100px" class="header_menu_main_div_bg_zi">&nbsp;</td>-->
+<!--						 						</tr>-->
+<!--						 					</table>-->
+						 				</div>
+						 			</td>
+						 		</tr>
+						 	</tbody></table>
+		 				</td>
+		 			</tr>
+		 		</tbody></table>
+		 		
+		 	</div>
+		 	
+		 	</div>
+		 </div>
+<!-- 
+	<div class="header_bg" >
+		<div class="header" >
+	      <div id="indt" class="nav_sub br3" style="">
+	        <p>
+	        <a style='color:#ffffff' href='http://www.fcclub.com/index.php?app=home&mod=Public&act=document&id=6&l=zh-cn'>中文</a>&nbsp;|	      	<a href="http://www.fcclub.com/register">Registration</a>&nbsp;|&nbsp;
+	      	<a href="http://www.fcclub.com/login">Login</a>
+	        <p>
+	     </div>
+	      <div class="logo" style="height:60px;"><a href="http://www.fcclub.com/home">&nbsp;</a></div>
+	  </div>
 	</div>
-
-	<div class="menubar">
-
-	<a target="" href="./index.php?page=my_handshakes">My Fortune Connection</a>
- | <a target="" href="./index.php?page=events">Events</a>
- | <a target="" href="./index.php?page=clubs">Clubs</a>
- | <a target="" href="./index.php?page=blogs">Blogs</a>
- | <a target="" href="./index.php?page=classifieds">Classifieds</a>
- | <a target="" href="./index.php?page=ecards">eCards</a>
- | <a target="" href="./index.php?page=search&amp;section=members">Search</a>
- | <a target="" href="./index.php?page=chat">Chat</a>
- | <a target="" href="./index.php?page=hotornot">Rate</a>
- | <a target="" href="./index.php?page=music">Music</a>
- | <a target="" href="./index.php?page=videos">Videos</a>
- | <a target="" href="./index.php?page=forum">Forum</a>
- | <a target="" href="./index.php?page=polls">Polls</a>
-
-	</div>
-
 	
 	
-		<div class="banner-header"><a href="http://www.fcclub.com/index.php?handler=ad&amp;action=go&amp;ban_id=100000&amp;track=1" target="_blank"><img src="http://www.fcclub.com/ads/98ac9ea88ab6964.jpeg" width="770" height="226" border="0"></a></div>
-	<div class="padded">
-
-<div class="padded">
-
-	<div class="blue-header">Privacy Policy</div>
-<div class="blue-body">	
+	 --><script>
+$(document).ready(function(){
+	$("#header_dropdown_profile").hover(
+		function(){ $(this).addClass("hover"); },
+		function(){ $(this).removeClass("hover"); }
+	);
+	$("#header_dropdown_contacts").hover(
+	    function(){ $(this).addClass("hover"); },
+	    function(){ $(this).removeClass("hover"); }
+	);
+	$("#header_dropdown_events").hover(
+		function(){ $(this).addClass("hover"); },
+		function(){ $(this).removeClass("hover"); }
+	);
+	$("#header_dropdown_jobs").hover(
+	    function(){ $(this).addClass("hover"); },
+	    function(){ $(this).removeClass("hover"); }
+	);
+	$("#header_dropdown_groups").hover(
+		function(){ $(this).addClass("hover"); },
+		function(){ $(this).removeClass("hover"); }
+	);
+	$("#header_dropdown_topics").hover(
+	    function(){ $(this).addClass("hover"); },
+	    function(){ $(this).removeClass("hover"); }
+	);
+	$("#header_dropdown_message").hover(
+	    function(){ $(this).addClass("hover"); },
+	    function(){ $(this).removeClass("hover"); }
+    );
 	
-<h1 class="blue">FC Club (Fortune Connection Club) Privacy Policy</h1>
+	});
+</script>
 
-<div class="padded">Protecting your privacy is very important to our website. We will not sell, lease or exchange your personal data to third parties without first obtaining your express consent.</div>
-<div class="padded">This privacy policy describes how we collect and use your data. If you have any questions or comments regarding our privacy policy or its enforcement, please feel free to contact administrator.</div>
-<div class="padded">FC Club is an online social networking community that connects people through their personal networks and allows them to meet others, find jobs, roommates, buy and sell goods, and perform other transactions. Members create their own profiles, and those profiles are then shown to other members of this site.</div>
-<div class="padded">FC Club collects information our users submit to us such as their name and e-mail address to allow us to identify users and notify them of changes or updates to our service. We also collect personal information submitted by our users in filling out their profile on the service such as gender, location, age, etc. We collect this personal information when our users: sign up as a member; make changes to their member profile information; and send e-mail messages. Members may choose to provide additional information beyond their basic profile for their other profile sections. Providing additional information beyond what is required at registration is entirely optional, but enables our users to better identify each other and more effectively connect and interact with their network. </div>
-<div class="padded">Like many other Web sites, FC Club uses a standard technology called "cookies." Cookies are small pieces of information stored on your hard drive - not on our site. They can help make the Internet experience quicker and more convenient. Cookies allow our users to login without entering their ID and password each time they use FC Club. Members who disable cookies will not be able to use FC Club. </div>
-<div class="padded">Email address and full name are displayed only when a user invites a friend via email to join the service, when a user requests to add another user to their FC Club list, and when we send notifications to a user related to their use of the service. Except when members invite friends, full names are not shared or displayed with people outside of their Personal Network. Email addresses of FC Club members are never displayed to other users on the system. Users within a Personal Network communicate on FC Club with each other through the FC Club service without disclosing their email addresses.</div>
-<div class="padded">We will not sell, lease or exchange your personal data to third parties without first obtaining your express consent, unless required by law or to protect your membership. </div>
-<div class="padded">If you use our Invite feature to invite a friend to our service, we will ask you for your friend's email address. We'll automatically send the friend an email inviting them to join your Personal Network, as well as two reminder messages. FC Club does not sell these email addresses or use them to transmit any communication other than the invitation and reminders to join your personal Network. FC Club stores this information for the sole purpose of sending this invitation and reminders, and for tracking the success of our Invite functionality.</div>
-<div class="padded">The FC Club site may contain links to other Web sites. Please be aware that FC Club is not responsible for the privacy practices of other sites our users choose to visit. If our users provide any information directly to parties other than FC Club, different rules may apply to the use or disclosure of the personal information disclosed. We encourage you to investigate and ask questions before disclosing your personal information to third parties. </div>
-<div class="padded">Please be aware that whenever members voluntarily disclose personal information online - e.g., message boards, file uploads, events, and classifieds - that information becomes public and can be collected and used by others. By posting personal information online in public forums, members may receive unsolicited messages from other parties.</div>
-	
-	<div style="clear:both;"></div>
-</div>	
+<link rel="stylesheet" type="text/css" href="/apps/home/Tpl/default/Public/index.css">
+<div class="content"><!-- 内容 begin  --> 
+  <div class="main no_l">
+    <div class="mainbox">
+    <div class="mainbox_R">
+    	<div class="right_list">
+		        <div class="right_list_def"><div><a href="http://www.fcclub.com/index.php?app=home&amp;mod=Public&amp;act=document&amp;id=1">FC Club</a></div></div>        <div class="right_list_def"><div><a href="http://www.fcclub.com/index.php?app=home&amp;mod=Public&amp;act=document&amp;id=3">© Copyright </a></div></div>        <div class="right_list_def"><div><a href="http://www.fcclub.com/index.php?app=home&amp;mod=Public&amp;act=document&amp;id=2">About Us</a></div></div>        <div class="right_list_def"><div><a href="http://www.fcclub.com/index.php?app=home&amp;mod=Public&amp;act=document&amp;id=4">Organizers</a></div></div>        <div class="right_list_def"><div><a href="http://www.fcclub.com/index.php?app=home&amp;mod=Public&amp;act=document&amp;id=5">Terms of Use</a></div></div>        <div class="right_list_on"><div><a href="http://www.fcclub.com/index.php?app=home&amp;mod=Public&amp;act=document&amp;id=6">Privacy Policy</a></div></div>        <div class="right_list_def"><div><a href="http://www.fcclub.com/index.php?app=home&amp;mod=Public&amp;act=document&amp;id=7">Success Stories</a></div></div>        <div class="right_list_def"><div><a href="http://www.fcclub.com/index.php?app=home&amp;mod=Public&amp;act=document&amp;id=8">Press</a></div></div>        <div class="right_list_def"><div><a href="http://www.fcclub.com/index.php?app=home&amp;mod=Public&amp;act=document&amp;id=9">Blog</a></div></div>        <div class="right_list_def"><div><a href="http://www.fcclub.com/index.php?app=home&amp;mod=Public&amp;act=document&amp;id=10">Partners</a></div></div>        <div class="right_list_def"><div><a href="http://www.fcclub.com/index.php?app=home&amp;mod=Public&amp;act=document&amp;id=11">Contact Us</a></div></div>        </div>
+    </div>
+    <div class="mainbox_C">
+    <div class="reg_box">
+        <h2 class="cBlue"><strong>Privacy Policy</strong></h2>
+        <p style="padding: 5px 10px 30px;" class="cGray lineS_btm lh20 mLR15"></p><div class="ke-post" style="padding:15px"><p><span style="font-family:arial;"><span style="font-size:12px;"><span>Last Updated: March 25, 2013</span></span></span></p><p>&nbsp;</p><p><strong><span style="font-family:arial;font-size:12px;">Your privacy is our top concern. We work hard to earn and keep your trust, so we adhere to the following principles to protect your privacy:</span></strong></p><div><span style="font-size:12px;"><span style="font-family:arial;">&nbsp;</span></span></div><div><span style="font-size:12px;"><span style="font-family:arial;">• Any sensitive information that you provide will be secured using all industry standard protocols and technology</span></span></div><div><span style="font-size:12px;"><span style="font-family:arial;">&nbsp;</span></span></div><div><span style="font-size:12px;"><span style="font-family:arial;">Notice of all changes that affect ways in which your personally identifiable data may be used or shared will be posted in updates to our Privacy Policy.&nbsp;</span></span><span style="font-family:arial;font-size:12px;">If you continue to use the FC Club after notice of changes have been sent to you or published on our site, you hereby provide your consent to the changed practices</span></div><div><span style="font-size:12px;"><span style="font-family:arial;">&nbsp;</span></span></div><div><span style="font-size:12px;"><span style="font-family:arial;">Please read this privacy policy to learn more about:</span></span></div><div><span style="font-size:12px;"><span style="font-family:arial;">1. What personally identifiable information of yours is collected by FC Club&nbsp;</span></span></div><div><span style="font-size:12px;"><span style="font-family:arial;">2. How the information is used.&nbsp;</span></span></div><div><span style="font-size:12px;"><span style="font-family:arial;">3. With whom the information may be shared.&nbsp;</span></span></div><div><span style="font-size:12px;"><span style="font-family:arial;">4. How you can access and change your Account information.&nbsp;</span></span></div><div><span style="font-size:12px;"><span style="font-family:arial;">5. What security procedures are in place to protect the loss, misuse or alteration of information collected by FC Club.&nbsp;</span></span></div><div><span style="font-size:12px;"><span style="font-family:arial;">6. How to contact us.</span></span></div><div><span style="font-size:12px;"><span style="font-family:arial;">&nbsp;</span></span></div><div><span style="font-size:12px;"><span style="font-family:arial;">Information Collection</span></span></div><div><span style="font-size:12px;"><span style="font-family:arial;">&nbsp;</span></span></div><div><span style="font-size:12px;"><span style="font-family:arial;">Registration:</span></span></div><div><span style="font-size:12px;"><span style="font-family:arial;">In order to become a FC Club user, you must first create an account on this web site. To create an account you are required to provide the following contact information: full name, email address, city, country, and choose a password.</span></span></div><div><span style="font-size:12px;"><span style="font-family:arial;">&nbsp;</span></span></div><div><strong><span style="font-size:12px;"><span style="font-family:arial;">Profile Information:</span></span></strong></div><div><span style="font-size:12px;"><span style="font-family:arial;">Once a user, you may provide additional information to your account including personal, profession and education information, contact details, social preferences, events you are promoting or attending and more. Providing additional information beyond what is required at registration is entirely optional, but enables you to better promote your business and find new opportunities within the FC Club system.</span></span></div><div><span style="font-size:12px;"><span style="font-family:arial;">&nbsp;</span></span></div><div><strong><span style="font-size:12px;"><span style="font-family:arial;">Information about your Contacts</span></span></strong></div><div><span style="font-size:12px;"><span style="font-family:arial;">In order to invite others to connect with you directly on FC Club, you will enter their names and email addresses (we also provide a contact upload form for bulk invites – see below). This information will be used by FC Club to send your invitation to connect on fcclub.com</span></span></div><div><span style="font-size:12px;"><span style="font-family:arial;">&nbsp;</span></span></div><div><span style="font-size:12px;"><span style="font-family:arial;">You may also choose to manually enter or upload data about your contacts into the private “My Connections” section of our website. All information entered there will only be viewable by you and will not be searchable by others in the FC Club network without your permission.</span></span></div><div><span style="font-size:12px;"><span style="font-family:arial;">&nbsp;</span></span></div><div><span style="font-size:12px;"><span style="font-family:arial;">All information that you enter or upload about your contacts will be covered by the same terms of this privacy policy as cover your own personally identifiable information.</span></span></div><div><span style="font-size:12px;"><span style="font-family:arial;">&nbsp;</span></span></div><div><strong><span style="font-size:12px;"><span style="font-family:arial;">Cookies &amp; Log Files:</span></span></strong></div><div><span style="font-size:12px;"><span style="font-family:arial;">Like most web sites, FC Club uses cookies and web log files to track site usage. A cookie is a tiny data file which resides on your computer which allows FC Club to recognize you as a user when you return to our site using the same computer and web browser. Unfortunately, if your browser settings do not allow cookies, you will not be able to use our website. Like the information you enter at registration or in your Profile, cookie and log file data is used to customize your experience on the web site.</span></span></div><div><span style="font-size:12px;"><span style="font-family:arial;">&nbsp;</span></span></div><div><span style="font-size:12px;"><span style="font-family:arial;">One type of cookie, known as a “persistent” cookie, is set once you’ve logged in to your FC Club account. The next time you visit the FC Club web site, the persistent cookie will allow us to recognize you as an existing user so you will not need to log in before using the service. In order to access or change any of your private information (like a credit card number), however, you must log in securely again with your password even if your computer contains your persistent cookie. Additionally, if you log out of the FC Club site you will need to re-enter your password the next time you visit in order to log in to your account. Another type of cookie, called a “session” cookie, is used to identify a particular visit to the FC Club site. Session cookies expire after a short time or when you close your web browser.</span></span></div><div><span style="font-size:12px;"><span style="font-family:arial;">&nbsp;</span></span></div><div><span style="font-size:12px;"><span style="font-family:arial;">Due to the communications standards on the Internet, when you visit the FC Club web site we automatically receive the URL of the site from which you came and the site to which you are going when you leave FC Club. We also receive the Internet protocol (IP) address of your computer (or the proxy server you use to access the World Wide Web), your computer operating system and type of web browser you are using, as well as the name of your ISP. This information is used to analyze overall trends to help us improve the FC Club service. The linkage between your IP address and your personally identifiable information is never shared with third-parties without your permission or except when required by law.</span></span></div><div><span style="font-size:12px;"><span style="font-family:arial;">&nbsp;</span></span></div><div><strong><span style="font-size:12px;"><span style="font-family:arial;">Viewing Other Activiy on Your Profile</span></span></strong></div><div><span style="font-size:12px;"><span style="font-family:arial;">FC Club offers our Platinum Members the ability to view who has recently visited their profile. The service, in the spirit of business networking, allows them the unique ability to reach out to someone who may have an interest in their product or service. Similar to walking into a ‘storefront’, the Platinum Member has the ability to reach out to the ‘customer’ and offer their assistance.</span></span></div><div><span style="font-size:12px;"><span style="font-family:arial;">&nbsp;</span></span></div><div><strong><span style="font-size:12px;"><span style="font-family:arial;">Web Beacons:</span></span></strong></div><div><span style="font-size:12px;"><span style="font-family:arial;">We may allow other companies (although not presently), called ad networks, to serve advertisements to FC Club users. Ad networks include third party ad servers, ad agencies, ad technology vendors and research firms. FC Club may “target” some ads to users that fit a certain general profile — for example, “web designers looking for accountants in Shanghai, China.”</span></span></div><div><span style="font-size:12px;"><span style="font-family:arial;">&nbsp;</span></span></div><div><span style="font-size:12px;"><span style="font-family:arial;">To deliver these ads properly, FC Club may include a file, called a web beacon, from these ad networks within pages served by FC Club so the networks may provide anonymized, aggregated auditing, research and reporting for advertisers as well as to target ads to you while you visit other websites.</span></span></div><div>&nbsp;</div><div><span style="font-family:arial;font-size:12px;">Because your web browser must request these advertisements and web beacons from the ad network’s servers, these companies can view, edit or set their own cookies, just as if you had requested a web page from their site.</span></div><div><span style="font-size:12px;"><span style="font-family:arial;">&nbsp;</span></span></div><div><span style="font-size:12px;"><span style="font-family:arial;">These general targets may also be used by ad networks to display targeted ads on other websites as a substitute for random, irrelevant ads. You will never see additional ads as a result of being a FC Club user and FC Club never provides personally identifiable information to any advertiser nor any third party.</span></span></div><div><span style="font-size:12px;"><span style="font-family:arial;">&nbsp;</span></span></div><div><strong><span style="font-size:12px;"><span style="font-family:arial;">Children:</span></span></strong></div><div><span style="font-size:12px;"><span style="font-family:arial;">Children are not eligible to use our service and we ask that minors (under the age of 18) do not submit any personal information to us or use the service.</span></span></div><div><span style="font-size:12px;"><span style="font-family:arial;">&nbsp;</span></span></div><div><strong><span style="font-size:12px;"><span style="font-family:arial;">Information Use</span></span></strong></div><div><span style="font-size:12px;"><span style="font-family:arial;">FC Club is an online and offline service committed to helping professionals network and market their business effectively at one centralized location. The personally identifiable information you choose to provide on this site is used to help you describe yourself and your company to others. Other information, that does not personally identify you as an individual, is collected by FC Club Brands, Co., Ltd. from the site (such as, by way of example, patterns of utilization) and is exclusively owned by FC Club. This information can be utilized by FC Club at its sole discretion.</span></span></div><div><span style="font-size:12px;"><span style="font-family:arial;">&nbsp;</span></span></div><div><strong><span style="font-size:12px;"><span style="font-family:arial;">FC Club Communications:</span></span></strong></div><div><span style="font-size:12px;"><span style="font-family:arial;">FC Club will communicate with you through email, direct mail, telephone, mobile phone, IM and fax. These may include a series of promotional and informative emails regarding new features and services provided by FC Club. Please be aware that you will always receive certain emails from FC Club related to the proper functioning of your account, such as email notices when another user requests to connect with you. FC Club may send you promotional information unless you have opted out of receiving such information.</span></span></div><div><span style="font-size:12px;"><span style="font-family:arial;">&nbsp;</span></span></div><div><strong><span style="font-size:12px;"><span style="font-family:arial;">Customized Content:</span></span></strong></div><div><span style="font-size:12px;"><span style="font-family:arial;">Information you provide at registration or in your Profile section is also used to customize your experience on the web site. For example, when you login to your account we may partial information about you and your company on our homepage when people log-in. The intent (obviously) is to provide you with immediate and maximum exposure opportunities.</span></span></div><div><span style="font-size:12px;"><span style="font-family:arial;">&nbsp;</span></span></div><div><span style="font-size:12px;"><span style="font-family:arial;">Additionally, many users upload third-party logos to their profiles, press releases and more. FC Club neither endorses nor is affiliated with most of these third-party companies. In most cases, FC Club is not affiliated with these companies. If a company feels the logo placed on a profile is in violation of their trademark guidelines, they should contact the profile owner and/or contact FC Club directly to have the logo removed.</span></span></div><div><span style="font-size:12px;"><span style="font-family:arial;">&nbsp;</span></span></div><div><strong><span style="font-size:12px;"><span style="font-family:arial;">Information Sharing</span></span></strong></div><div><span style="font-size:12px;"><span style="font-family:arial;">Sharing Information With Third Parties:</span></span></div><div><span style="font-size:12px;"><span style="font-family:arial;">FC Club takes the privacy of our users very seriously. We will only share your personally identifiable with third parties to carry out your instructions and to provide specific services. For instance, we use a credit card processing company to bill users for subscription fees. These third parties do not retain, share, or store any personally identifiable information except to provide these services and are bound by strict confidentiality agreements which limit their use of such information.</span></span></div><div><span style="font-size:12px;"><span style="font-family:arial;">&nbsp;</span></span></div><div><span style="font-size:12px;"><span style="font-family:arial;">FC Club offers a “public profile” as well as Search Engine Optimization (SEO) features which publish portions of user’s profiles, including “name” and ‘company name’, to the public Internet. Users may opt-out of this feature, however FC Club does not warrant how third-party search engines will update their cache.</span></span></div><div><span style="font-size:12px;"><span style="font-family:arial;">&nbsp;</span></span></div><div><span style="font-size:12px;"><span style="font-family:arial;">We may provide aggregated data about the usage of our services to third-parties for such purposes as we deem, in our sole discretion, to be appropriate. We may segment our users by role (i.e. product managers, vice presidents), industry, geographic location, company. If you would like to be excluded from the aggregated research or products based upon aggregated data about our users’ activities on the site, please email customer service.</span></span></div><div><span style="font-size:12px;"><span style="font-family:arial;">&nbsp;</span></span></div><div><strong><span style="font-size:12px;"><span style="font-family:arial;">Partnering with Other Organizations to Offer Combined Services:</span></span></strong></div><div><span style="font-size:12px;"><span style="font-family:arial;">FC Club may partner with other online or offline services to give you the combined results of both services. Whenever we offer such combined services it will be your choice to make use of the combined services or not.</span></span></div><div><span style="font-size:12px;"><span style="font-family:arial;">&nbsp;</span></span></div><div><strong><span style="font-size:12px;"><span style="font-family:arial;">Communications Between Users:</span></span></strong></div><div><span style="font-size:12px;"><span style="font-family:arial;">Many emails you initiate through FC Club, an invitation sent to a non-user for instance, will list your name in the header of the message. Emails you initiate may also provide aggregate information about your network and your company. Other communications that you initiate through the FC Club, like a request for contact, will list your name as the initiator but will not include your personal contact information. Your contact information will only be shared with another user if both of you have indicated that you would like to establish contact with each other. Some basic contact information will be provided to our ‘Platinum Users’ to allow them to have a better understanding of who is visiting their profile (i.e. See Who Recently Visited My Profile’).</span></span></div><div><span style="font-size:12px;"><span style="font-family:arial;">&nbsp;</span></span></div><div><span style="font-size:12px;"><span style="font-family:arial;">FC Club merely provides the User with a platform on which to establish contact with other users, and only provides those technical applications that allow users to contact one another. As regards content, FC Club does not take part in any communication between users. If users enter into agreements with one another over FC Club websites, FC Club shall not be a contracting party to these agreements. The users alone are responsible for the execution and/or fulfillment of agreements in which they enter with one another. FC Club shall not be held liable if users are unable to contact one another over FC Club websites regarding such agreements. Furthermore, FC Club shall not be liable for breaches of duty in relation to agreements entered into between users.</span></span></div><div><span style="font-size:12px;"><span style="font-family:arial;">&nbsp;</span></span></div><div><strong><span style="font-size:12px;"><span style="font-family:arial;">Point and Rating System</span></span></strong></div><div><span style="font-size:12px;"><span style="font-family:arial;">FC Club uses a credit and rating (‘stars’) system. You may be awarded credits based upon your status within the system (Premium Member, etc…) and/or your use of the system. FC Club may adjust your credit balance or rating, change system credit values or modify the credit and rating system at any time at its discretion. Credits have no monetary value and are not redeemable.</span></span></div><div><span style="font-size:12px;"><span style="font-family:arial;">&nbsp;</span></span></div><div><strong><span style="font-size:12px;"><span style="font-family:arial;">Legal Disclaimer:</span></span></strong></div><div><span style="font-size:12px;"><span style="font-family:arial;">It is possible that we may need to disclose personal information when required by law. We will disclose such information wherein we have a good-faith belief that it is necessary to comply with a court order, ongoing judicial proceeding, or other legal process served on our company or to exercise our legal rights or defend against legal claims.</span></span></div><div><span style="font-size:12px;"><span style="font-family:arial;">&nbsp;</span></span></div><div><strong><span style="font-size:12px;"><span style="font-family:arial;">Accessing and Changing Your Account Information</span></span></strong></div><div><span style="font-size:12px;"><span style="font-family:arial;">You can review the personal information you provided us and make any desired changes to the information, or to the settings for your FC Club account, at any time by editing the information on your Profile page. You can also close your account through the FC Club website. If you close your FC Club account, we will remove your name and other personally identifiable information from our publicly viewable data. We may retain certain data contributed by you if it may be necessary to prevent fraud or future abuse, or for legitimate business purposes, such as analysis of aggregated, non-personally-identifiable data, account recovery, or if required by law. All retained data will continue to be subject to the terms of the FC Club Privacy Policy that you have previously agreed to. To request that we close your account and remove your information from the FC Club service, please send your request to info@fcclub.com. Please send your request using an email account that you have registered with FC Club under your name. You will receive a response to requests sent to info@fcclub.com usually within a few days of the receipt of the email.</span></span></div><div><span style="font-size:12px;"><span style="font-family:arial;">&nbsp;</span></span></div><div><strong><span style="font-size:12px;"><span style="font-family:arial;">Security</span></span></strong></div><div><span style="font-size:12px;"><span style="font-family:arial;">In order to secure your personal information, access to your data on FC Club is password-protected, and sensitive data (such as credit card information). At the present time, we do not have access to any detailed credit card information (unless provided directly over the telephone or at one of our events), as that is hosted entirely through our third party merchant service gateway ‘Cybersource, Inc.’.</span></span></div><div><span style="font-size:12px;"><span style="font-family:arial;">&nbsp;</span></span></div><div><strong><span style="font-size:12px;"><span style="font-family:arial;">Changes to this Privacy Policy</span></span></strong></div><div><span style="font-size:12px;"><span style="font-family:arial;">FC Club may update this privacy policy. In the event there are significant changes in the way we treat your personally identifiable information, we will display a notice on this site. Unless stated otherwise, our current Privacy Policy applies to all information that we have about you and your account.</span></span></div><div><span style="font-size:12px;"><span style="font-family:arial;">&nbsp;</span></span></div><div><strong><span style="font-size:12px;"><span style="font-family:arial;">Questions or Comments</span></span></strong></div><div><span style="font-size:12px;"><span style="font-family:arial;">If you have questions or comments about this privacy policy, please email us at info@fcclub.com or contact us at:</span></span></div><div><span style="font-size:12px;"><span style="font-family:arial;">&nbsp;</span></span></div><div><span style="font-size:12px;"><span style="font-family:arial;">FC Club (Fortune Connection Club)</span></span></div><div><span style="font-size:12px;"><span style="font-family:arial;">Attn: Privacy Policy Issues</span></span></div><div><span style="font-size:12px;"><span style="font-family:arial;">Room302, Unit A</span></span></div><div><span style="font-size:12px;"><span style="font-family:arial;">No. 1369 Changde Road&nbsp;</span></span></div><div><span style="font-size:12px;"><span style="font-family:arial;">Shanghai, China&nbsp;</span></span></div><div><span style="font-size:12px;"><span style="font-family:arial;">(200060)</span></span></div></div><p></p>
+    </div>
+    <div class="c"></div>
+    </div>
+    </div>
+  <div class="clear"></div>
+</div>
 </div>
 
-</div><div style="clear:both;height:5px;"><img src="themes/handshakes_plain/gfx/spacer.gif" alt="" width="1" height="1" border="0"></div>
+<div class="footer_bg">
 <div class="footer">
-<a href="http://www.fcclub.com/index.php?page=aboutus" target="_blank">About Us</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.fcclub.com/index.php?page=privacy" target="_blank">Privacy Policy</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.fcclub.com/index.php?page=terms" target="_blank">Terms of Use</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.fcclub.com/index.php?page=press" target="_blank">Press</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.fcclub.com/index.php?page=contactus" target="_blank">Contact Us</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.fcclub.com/index.php?page=memberfeatures" target="_blank">Member Features</a></div>
-<div class="footer">Copyright <a target="_blank" href="http://www.fcclub.com">fcclub.com</a> 2002- 2007 SHICP:05038944</div>
+	<div class="menu">
+		<a href="http://www.fcclub.com/index.php?app=home&amp;mod=Public&amp;act=document&amp;id=1" target="_blank" style="color:White;">FC Club</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.fcclub.com/index.php?app=home&amp;mod=Public&amp;act=document&amp;id=3" target="_blank" style="color:White;">© Copyright </a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.fcclub.com/index.php?app=home&amp;mod=Public&amp;act=document&amp;id=2" target="_blank" style="color:White;">About Us</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.fcclub.com/index.php?app=home&amp;mod=Public&amp;act=document&amp;id=4" target="_blank" style="color:White;">Organizers</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.fcclub.com/index.php?app=home&amp;mod=Public&amp;act=document&amp;id=5" target="_blank" style="color:White;">Terms of Use</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.fcclub.com/index.php?app=home&amp;mod=Public&amp;act=document&amp;id=6" target="_blank" style="color:White;">Privacy Policy</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.fcclub.com/index.php?app=home&amp;mod=Public&amp;act=document&amp;id=7" target="_blank" style="color:White;">Success Stories</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.fcclub.com/index.php?app=home&amp;mod=Public&amp;act=document&amp;id=8" target="_blank" style="color:White;">Press</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.fcclub.com/index.php?app=home&amp;mod=Public&amp;act=document&amp;id=9" target="_blank" style="color:White;">Blog</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.fcclub.com/index.php?app=home&amp;mod=Public&amp;act=document&amp;id=10" target="_blank" style="color:White;">Partners</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.fcclub.com/index.php?app=home&amp;mod=Public&amp;act=document&amp;id=11" target="_blank" style="color:White;">Contact Us</a>	</div>
+	<div>&nbsp;
+	</div>
 </div>
 </div>
- 
-
+</div>
 
 </body></html>
