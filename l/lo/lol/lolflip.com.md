@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lolflip.com privacy policy that was archived on 2013-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130306020046id_/http%3A//lolflip.com/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lolflip.com privacy policy that was archived on 2013-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131026064831id_/http%3A//lolflip.com/page/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - LolFlip
 
