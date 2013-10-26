@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the posist.com privacy policy that was archived on 2013-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130504014334id_/http%3A//www.posist.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the posist.com privacy policy that was archived on 2013-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131026180323id_/http%3A//www.posist.com/privacypolicy) for the most accurate reproduction.*
 
-# Privacy Policy | Posist Technologies Pvt. Ltd. Privacy Policy |
+# Posist Technologies Privacy policy for sale and product (POS) |
 
-| Privacy Policy  
+|   |  |   
 ---  
   
   * POSist Technologies Private Limited (‘POSist’, ‘We’, ‘Our’) is committed to protecting your privacy and ensuring you have a positive experience on our website, [www.POSist.com](http://www.posist.com/) (“Website”). This policy outlines our personal information handling practices for both online and offline data. If you give us personal information, we will treat it according to this policy.
@@ -67,5 +67,9 @@
     7. **Changes to this Privacy Policy**
       * POSist may update this privacy policy at any time, with or without advance notice. In the event there are significant changes in the way we treat your personally identifiable information, we will display a notice on the website or send you an email, as provided for above. Unless stated otherwise, our current Privacy Policy applies to all information that we have about you and your account.
       * If you use the POSist service after notice of changes have been sent to you or published on our site, you hereby provide your consent to the changed practices.
+
+  
+  
+  * [](https://web.archive.org/web/20131026180323id_/http://www.posist.com/privacypolicy/careers)
 
 
