@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ksl.com privacy policy that was archived on 2013-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130606235745id_/http%3A//ksl.com/index.php%3Fnid%3D250%26sid%3D95314) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ksl.com privacy policy that was archived on 2013-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131026165659id_/http%3A//ksl.com/index.php%3Fnid%3D250%26sid%3D95314) for the most accurate reproduction.*
 
 # Privacy Statement | ksl.com
 
