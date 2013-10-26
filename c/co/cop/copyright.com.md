@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the copyright.com privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603142520id_/http%3A//www.copyright.com/content/cc3/en/tools/footer/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the copyright.com privacy policy that was archived on 2013-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131026194032id_/http%3A//www.copyright.com/content/cc3/en/tools/footer/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
