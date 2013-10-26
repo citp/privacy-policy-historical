@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the glaad.org privacy policy that was archived on 2013-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130626222858id_/http%3A//www.glaad.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the glaad.org privacy policy that was archived on 2013-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131026230617id_/http%3A//www.glaad.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | GLAAD
 
 ## Constituent Privacy Statement
 
-The Gay & Lesbian Alliance Against Defamation (GLAAD) is committed to protecting the privacy of our constituents. We have created this policy to outline our policy for the protection and use of personal information collected through our website, direct marketing, special events, or other interactions with GLAAD.
+GLAAD is committed to protecting the privacy of our constituents. We have created this policy to outline our policy for the protection and use of personal information collected through our website, direct marketing, special events, or other interactions with GLAAD.
 
 We define personal information as information that can be linked to a specific individual (e.g. name, address, phone number, e-mail address or any other information provided to us by members or website users).
 
