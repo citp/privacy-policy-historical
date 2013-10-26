@@ -1,22 +1,20 @@
-> *The following text is extracted and transformed from the couriermail.com.au privacy policy that was archived on 2013-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130514151332id_/http%3A//www.couriermail.com.au/help/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the couriermail.com.au privacy policy that was archived on 2013-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131026030813id_/http%3A//www.couriermail.com.au/help/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy | The Courier-Mail
 
-**STATEMENT REGARDING PRIVACY POLICY**
+News Limited and its related companies (News) recognise the importance of protecting the privacy of personally identifiable information collected about our customers.  For the purposes of this Privacy Statement, the word customers includes visitors to our web sites, subscribers to and users of our services, purchasers of our products and advertising customers. 
 
-Queensland Newspapers Pty Ltd, News Limited and its related companies (News) recognise the importance of protecting the privacy of personally identifiable information collected about our customers.  For the purposes of this Privacy Statement, the word customers includes visitors to our web sites, subscribers to and users of our services, purchasers of our products and advertising customers. 
+We are bound by the National Privacy Principles in the Privacy Act 1988 (Cth) in relation to the handling of personal information.  Where appropriate we will handle personal information relying on the media exemption (but complying with the Australian Press Council Privacy Standards), related bodies corporate exemption and the employee exemption in the Privacy Act.
 
-We are bound by the National Privacy Principles in the Privacy Act 1988 (Cth) in relation to the handling of personal information.  Where appropriate we will handle personal information relying on the media exemption (but complying with the Australian Press Council Privacy Standards), related bodies corporate exemption and the employee exemption in the Privacy Act.  
-**  
-Personal Information**
+**Personal Information**
 
 We collect personal information when we provide our services to you.  Generally we will tell you why we are collecting information when we collect it and how we plan to use it or these things will be obvious when we collect the information.  We usually collect personal information directly from you although sometimes we may use agents or service providers to do this for us.  We may also acquire lists from other sources, both from other companies and from other public documents.  We may automatically collect personal information by collecting and tracking the unique device identifier or the universally unique identifier of the devices you use to access our services. 
 
-If you access or log-in to one of our services through a third party social media service or connect your use of our service to a third party social media service, the information we collect may also include your user ID and/or user name associated with that social media service, any information or content you have permitted the third party social media service to share with us, such as your profile picture, email address or friends lists, and any information you have disclosed in connection with that social media service.  We do not collect your passwords other than in relation to our own services.  When you access our services through third party social media services or when you connect your use of our service to third party social media services, you are authorizing us to collect, store, and use such information and content in accordance with this Privacy Policy.    
+If you access or log-in to one of our services through a third party social media service or connect your use of our service to a third party social media service, the information we collect may also include your user ID and/or user name associated with that social media service, any information or content you have permitted the third party social media service to share with us, such as your profile picture, email address or friends lists, and any information you have disclosed in connection with that social media service.  We do not collect your passwords other than in relation to our own services.  When you access our services through third party social media services or when you connect your use of our service to third party social media services, you are authorizing us to collect, store, and use such information and content in accordance with this Privacy Policy.   
 
 **Use of Information**
 
-We usually collect personal information such as your name, address, telephone number, and in some instances, your financial details.  When you are online, we collect information regarding the pages within our network which you visit and what you click on.  As a general rule we do not collect sensitive information.  However, if we do, it will usually be for the purposes of providing our goods or services and if the law requires us to, we will seek your consent to collect it.  
+We usually collect personal information such as your name, address, telephone number, and in some instances, your financial details.  When you are online, we collect information regarding the pages within our network which you visit and what you click on.  As a general rule we do not collect sensitive information.  However, if we do, it will usually be for the purposes of providing our goods or services and if the law requires us to, we will seek your consent to collect it. 
 
 We use your information to provide our services (which on digital platforms may include the display of personalised content and advertising) to you, to fulfil administrative functions associated with these services, for example billing, credit and account management, to enter into contracts with you or third parties and for marketing and client relationship purposes.  Where your personal information is contained within an advertisement which we publish for you, we may also use your information for publication of that same advertisement in other media, in accordance with the terms and conditions of the initial publication.  Where your personal information is contained in a user generated post or in a communication to an editor or journalist, we may publish your name and suburb to identify you as the author of the comment/correspondence if we choose to publish your comment/correspondence in any media. 
 
@@ -24,15 +22,15 @@ We may share your information with other companies which are related to News Lim
 
 If you log in with or connect a social media service account with any of our services, we may share your user name, picture, and likes, as well as your comments with other users of our services and with your friends associated with your social media service. We may also share the same information with the social media service provider. By logging in with or connecting your account for any of our services with a social media service, you are authorizing us to share information we collect from and about you with the social media service provider, other users and your friends and you understand that the social media service’s use of the shared information will be governed by the social media service’s privacy policy.  If you do not want your personal information shared in this way, please do not connect your social media service account with your account for any of our services and do not participate in social sharing on any of our services.
 
-We may disclose your personal information in order to comply with Australian or foreign law.  
-**  
-Use by Third Parties**
+We may disclose your personal information in order to comply with Australian or foreign law.
 
-News may disclose your information to its service providers (including technical infrastructure providers) and contractors (including mail houses or debt collection agencies) from time to time but only to help us to provide, improve and market our goods and services.  We may also share your information with third parties who provide prizes for competitions or reader offers.  If we do any of these, we generally require the third parties to protect your information at least to the same degree that we do.  
+**Use by Third Parties**
 
-If you have consented to us doing so, News may also share your information with a third party for the purpose of enabling those third parties to contact you with marketing messages.    
-**  
-Use of Aggregate Data**
+News may disclose your information to its service providers (including technical infrastructure providers) and contractors (including mail houses or debt collection agencies) from time to time but only to help us to provide, improve and market our goods and services.  We may also share your information with third parties who provide prizes for competitions or reader offers.  If we do any of these, we generally require the third parties to protect your information at least to the same degree that we do. 
+
+If you have consented to us doing so, News may also share your information with a third party for the purpose of enabling those third parties to contact you with marketing messages. 
+
+**Use of Aggregate Data**
 
 We may collect and use certain non-personal information (e.g., the identity of your Internet browser, the type of operating system you use, your IP address and the domain name of your Internet service provider) to optimise our goods and services (which on digital platforms may include the display of personalised content and advertising) including our Web pages for your computer.  We may use such non-personal information for internal purposes, including but not limited to improving the content of our sites. 
 
@@ -46,11 +44,11 @@ Unfortunately, no data transmission over the Internet can be guaranteed to be to
 
 **Access to Personal Information**
 
-You have a right to access most personal information we hold about you and if we deny access in some circumstances we will tell you why.  
+You have a right to access most personal information we hold about you and if we deny access in some circumstances we will tell you why. 
 
-To request access, please contact our privacy officer as set out at the end of this document.    
-**  
-Public Information**
+To request access, please contact our privacy officer as set out at the end of this document. 
+
+**Public Information**
 
 Any information posted on bulletin boards and/or communicated in chat areas becomes public information.  While News strives to protect and respect your privacy, we cannot guarantee the security of any information you disclose in a chat room or bulletin board. 
 
@@ -68,10 +66,17 @@ News is not responsible for the content or practices of Web sites operated by th
 
 Remember to close your browser when you have finished your user session.  This is to ensure that others cannot access your personal information and correspondence if you share a computer with someone else or are using a computer in a public place like a library or Internet café.  You as an individual are responsible for the security of and access to your own computer.
 
-Whenever you voluntarily disclose personal information over the Internet that this information can be collected and used by others.  In short, if you post personal information in publicly accessible online forums, you may receive unsolicited messages from other parties in return.  Ultimately, you are solely responsible for maintaining the secrecy of your username and passwords and any account information.  Please be careful and responsible whenever you are using the internet.  
-**  
-Further information**
+Whenever you voluntarily disclose personal information over the Internet that this information can be collected and used by others.  In short, if you post personal information in publicly accessible online forums, you may receive unsolicited messages from other parties in return.  Ultimately, you are solely responsible for maintaining the secrecy of your username and passwords and any account information.  Please be careful and responsible whenever you are using the internet.
 
-Please contact our Privacy Officer to ask for access to your information or if you have a complaint concerning your information privacy or if you would like more information about our approach to privacy.  
+**Further information**
 
-Privacy Officer, News Queensland
+Please contact our Privacy Officer to ask for access to your information or if you have a complaint concerning your information privacy or if you would like more information about our approach to privacy. 
+
+Privacy Officer, News Limited  
+[privacy@news.com.au](mailto:privacy@news.com.au)  
+2 Holt Street, Surry Hills, NSW 2010  
++612 9288 3000
+
+For enquiries not relating to privacy please call Customer Support on 1300 MY NEWS (1300 69 63 97) or email Customer Support at [newsplussupport@news.com.au](mailto:newsplussupport@news.com.au).
+
+We may amend our privacy policy from time to time and personal information held by us will be governed by the most recently stated policy.  We will post all changes on this page so you should revisit this page from time to time to see any changes.  The date of the last update will inform you as to whether there have been changes since your last visit.
