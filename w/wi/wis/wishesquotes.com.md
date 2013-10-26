@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wishesquotes.com privacy policy that was archived on 2013-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130414090555id_/http%3A//www.wishesquotes.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wishesquotes.com privacy policy that was archived on 2013-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131026202824id_/http%3A//www.wishesquotes.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Wishes Quotes
 
@@ -17,7 +17,7 @@ Wishes Quotes does use cookies to store information about visitors preferences, 
 **DoubleClick DART Cookie**  
 Google, as a third party vendor, uses cookies to serve ads on Wishes Quotes.  
 Google’s use of the DART cookie enables it to serve ads to users based on their visit to Wishes Quotes and other sites on the Internet.  
-Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – http://www.google.com/privacy_ads.html
+Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – <http://www.google.com/privacy_ads.html>
 
 Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include ….  
 Google Adsense  
