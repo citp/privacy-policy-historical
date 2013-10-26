@@ -1,27 +1,43 @@
-> *The following text is extracted and transformed from the fantage.com privacy policy that was archived on 2011-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111227050929id_/http%3A//play.fantage.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fantage.com privacy policy that was archived on 2013-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131026144116id_/http%3A//play.fantage.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Welcome to a Fantastic Age!
 
   
 **1\. What information is collected and how is it collected?**  
-As part of our registration, the only personal information we collect from our users is email address. Input of age is required so that we can identify which users are under 13 years old. Users under 13 years of age must supply the email address of a parent or legal guardian. We also have users create a username and password during registration. 
+As part of our registration, the only personal information we collect from our users is email address. Input of age is required so that we can identify which users are under 13 years old. Users under 13 years of age must supply the email address of a parent or legal guardian. We also have users create a username and password during registration.
 
-If you chooses to use our referral service to tell a friend about our site, we will ask for your friend’s email address. We will automatically send your friend a one-time email inviting them to visit the site. Fantage does not store your friend's information.
+If you chooses to use our referral service to tell a friend about our site, we will ask for your friend’s email address. We will automatically send your friend a one-time email inviting them to visit the site. Fantage does not store your friend's information including the email address.
 
-When users contact us for customer support, we will collect their user ID and email address (along with a message) so we can respond to their inquiry and resolve any issues. 
+When users contact us for customer support, we will collect their user ID and parent’s/guardian’s email address (along with a message) so we can respond to their inquiry and resolve any issues. We delete the information collected after the request has been completed. 
 
 Regardless of the feature you are using, we will not require you to give us more information than is reasonably necessary for us to provide you that activity. 
 
-**2\. Passive collection of information:** Fantage.com may collect some technical information from visitors, such as, browser type, operating system, time spent on the site, IP address (for IP geo-location), and referring websites. This information is not linked to your personal contact information (i.e., email address). Fantage collects this technical information to help us better understand our users , in order to make Fantage a more fun and exciting place. Fantage or its service providers may collect this information through the use of imbedded java scripts, cookies, web beacons, or clear gifs. Users can disable cookies on their browser ; however, if you disable cookies, some functionalities or features on our site may not work properly. 
+**2\. Passive collection of information:** Fantage.com may collect some technical information from visitors, such as, browser type, operating system, time spent on the site, IP address (for IP geo-location), and referring websites. This information is not linked to your personal contact information (i.e., email address). Fantage collects this technical information to help us better understand our users in order to make Fantage a more fun and exciting place. Fantage or its service providers may collect this information through the use of imbedded java scripts, cookies, web beacons, or clear gifs. Users can disable cookies on their browser; however, if you disable cookies, some functionalities or features on our site may not work properly.
 
-Some of our third party service providers may use their own cookies when helping us collect technical information. We have no access or control over the cookies or web beacons used by these third party companies, and this privacy policy won’t apply to their practices. 
+Some of our third party service providers may use their own cookies when helping us collect technical information. We have no access or control over the cookies or web beacons used by these third party companies, and this privacy policy won’t apply to their practices.
+
+Name of Third Party Partner  What info is shared with or collected by this partner  Partner’s purpose  Link to Partner’s privacy policy 
+
+Google Inc.  Daily Visit  Ad platform, ad network, analytics  https://www.google.com/intl/en/policies/privacy/ 
+
+Quantcast Corporation  Daily Visit  Data provider, aggregator  http://www.quantcast.com/docs/display/legal/Privacy+Policy 
+
+www.kidsafeseal.com  IP Address  Privacy verification  http://www.kidsafeseal.com/privacy_policy.html 
+
+TRUSTe Inc.  IP Address  Privacy verification  http://www.truste.com/privacy-policy 
+
+If you have any inquiries regarding our partner’s privacy practices or how they use your child’s personal information, please contact us directly at support@fantage.com. 
 
 **3\. What is personal information used for?**  
-Your registration information is used to give you access to Fantage and to communicate with you about your account. For users under 13, all communications are sent to the parent’s email address. For example, when a child signs up, we will send an email notice to the parent informing the parent about the child’s registration and giving the parent the opportunity to set up the child’s chat permissions. We provide a similar notice to users who are 13 or older. We also use the email address supplied at registration for password reset purposes, to verify changes to account settings, and to send periodic newsletters and email updates from Fantage (if the user elects to receive them). 
+Your registration information is used to give you access to Fantage and to communicate with you about your account. For users under 13, all communications are sent to the parent’s/guardian’s email address. For example, when a child signs up, we will send an email notice to the parent informing the parent about the child’s registration and giving the parent the opportunity to set up the child’s chat permissions. We provide a similar notice to users who are 13 or older. We also use the email address supplied at registration for password reset purposes, to verify changes to account settings, and to send periodic newsletters and email updates from Fantage (if the user elects to receive them). 
 
-Our Web site also offers a blog which is only accessible to logged in users. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them.. Fantage collects usernames when users post a comment on the blog. All blog comments are moderated before they are posted to assure that they don't contain any personal information, such as, first and last name combinations, addresses, contact information, etc. Blog comments are also moderated to make sure that they don't contain any offensive language. Despite these measures, if you’re concerned about a posting that was posted to our blog, please contact us at [support@fantage.com](mailto:support@fantage.com). 
+Our Web site also offers a blog which is only accessible to logged in users. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. Fantage collects usernames when users post a comment on the blog. All blog comments are moderated before they are posted to assure that they don't contain any personal information, such as, first and last name combinations, addresses, contact information, etc. Blog comments are also moderated to make sure that they don't contain any offensive language. Despite these measures, if you’re concerned about a posting that was posted to our blog, please contact us at [support@fantage.com](mailto:support@fantage.com). 
 
-We do not share, sell, trade, rent, or otherwise provide personal information about our users to independent third parties. We may disclose personal information to government or law enforcement authorities if we are required to by law, such as by a subpoena, court order, or warrant or if necessary to protect the legal rights of Fantage or the safety of our users or the public. We may share your information if we are involved in a merger, acquistion, or sale of all or a portion of our assets. 
+**Social Media (Features) and Widgets**
+
+Our Web site includes Social Media Features, such as the Facebook button. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it. 
+
+We do not share, sell, trade, rent, or otherwise provide personal information about our users to independent third parties. We may disclose personal information to government or law enforcement authorities if we are required to by law, such as by a subpoena, court order, or warrant or if necessary to protect the legal rights of Fantage or the safety of our users or the public. We may share your information if we are involved in a merger, acquisition, or sale of all or a portion of our assets. 
 
 **4\. Isn't personal information collected when a user wishes to pay for membership or order products?**  
 If you purchase a premium membership or eCoins we will collect additional information such as billing information and credit card numbers. This information is used solely to bill customers for the items/services that they purchased. Only persons 18 or older may pay for membership or order products. Payment information is not stored by our site and will be provided to our third party financial institutions or payment providers for the purpose of processing credit cards or other payments. These companies are authorized to only use your information to the extent necessary to provide their services. 
@@ -33,7 +49,7 @@ For the convenience of parents we offer three chat options:
 
   * • Fantage Chat- Chat and user messages are filtered for profanities, and other personal information such as name, address, phone number. 
   * • Safe Chat- Allows pre-selected safe sentences, users are not able to type their own messages. 
-  * • No Chat- Disables typing and viewing of chat and user messages 
+  * • No Chat- Disables typing and viewing of chat and user messages. 
 
   
 Parents are able to choose the type of chat that their child participates in by using the link provided in their notification email or by emailing us at [support@fantage.com](mailto:support@fantage.com). 
@@ -62,14 +78,18 @@ When we collect personal information from residents of the European Union, we fo
 
 **8\. Links to other websites:** This Web site contains links to other sites that are not owned or controlled by us. Please be aware that we are not responsible for the privacy practices of such other sites. We encourage you to be aware when you leave our site and to read the privacy statements of each and every Web site that collects personally identifiable information. This privacy statement applies only to information collected by this Web site.
 
-**9\. Inquiries concerning our privacy policies and parental access to children's information:** All inquiries concerning the privacy policies of Fantage should be directed to [support@fantage.com](mailto:support@fantage.com). If you would like to contact us by phone, please call (201) 944-6622. If you would like contact us by mail; please send your letter to the following address.
+**9\. Inquiries concerning our privacy policies and parental access to children's information:** All inquiries concerning the privacy policies of Fantage should be directed to [support@fantage.com](mailto:support@fantage.com). If you would like to contact us by phone, please call (201) 944-6622. If you would like to contact us by mail; please send your letter to the following address.
 
 Fantage.com, Inc  
-400 Kelby St. 15th Floor  
+400 Kelby St. 19th Floor  
 Fort Lee, NJ 07024 USA
 
 For users under 13, parents have the right to review the personal information we collect, correct factual errors, have the information deleted, or request that we no longer collect and use that information. Please contact us using the information above if you would like to make any such requests. 
 
 To opt-out from receiving our newsletter, please follow the unsubscribe link located at the bottom of each newsletter or email us at [support@fantage.com](mailto:support@fantage.com).
 
-**10\. Effective Date:** This privacy policy went into effect on December 2011 and it applies to all the information obtained thus far and to all information subsequently collected on this site, until otherwise stated. Fantage reserves the right to change its privacy policy at anytime at its sole discretion. We may update this privacy statement to reflect the changes to our information practices. If we make any material changes we will notifiy you by email (sent to the e-mail address specified in your account) prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices. If we are involved in a merger, acquistion, or sale of all or a portion of our assets, you will be notified via email and/or prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information. If we make material changes to how we use personal information collected from children under age 13, we will notify parents by email in order to obtain verifiable parental consent for the new uses of the child’s personal information 
+Data Retention
+
+We will retain yours or your child’s information for as long as yours or your child’s account is active or as needed to provide services. If you wish to cancel the account or request that we no longer use the information to provide services, contact us at the email address listed above. We will retain and use the information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. 
+
+**10\. Effective Date:** This privacy policy went into effect on June 2013 and it applies to all the information obtained thus far and to all information subsequently collected on this site, until otherwise stated. Fantage reserves the right to change its privacy policy at anytime at its sole discretion. We may update this privacy statement to reflect the changes to our information practices. If we make any material changes, we will notify you by email (sent to the e-mail address specified in your account) prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices. If we are involved in a merger, acquisition, or sale of all or a portion of our assets, you will be notified via email and/or prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information. If we make material changes to how we use personal information collected from children under age 13, we will notify parents by email in order to obtain verifiable parental consent for the new uses of the child’s personal information. 
