@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the otixo.com privacy policy that was archived on 2013-04-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130430134927id_/http%3A//otixo.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the otixo.com privacy policy that was archived on 2013-10-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131026194304id_/http%3A//otixo.com/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" class=" js svg"><head>
 	<meta http-equiv="content-type" content="text/html; charset=utf-8">
 	<title>Otixo: Privacy Policy</title>
 	
@@ -10,9 +10,9 @@
 
 	<link rel="stylesheet" href="css/reset.css">
 	<link rel="stylesheet" href="css/960.css">
-	<link rel="stylesheet" href="css/otixo_website.css?944">
-	<link rel="stylesheet" href="css/otixo_website_v2.css?446">
-	<link rel="stylesheet" href="css/header_footer_highlight.css?128">
+	<link rel="stylesheet" href="css/otixo_website.css?947">
+	<link rel="stylesheet" href="css/otixo_website_v2.css?462">
+	<link rel="stylesheet" href="css/header_footer_highlight.css?131">
 
 	<!--[if lte IE 8]>
 		<link rel="stylesheet" href="css/otixo_website_v2_ie8.css" />
@@ -22,8 +22,13 @@
 
 	<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
 	<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/swfobject/2.2/swfobject.js"></script>
+	<script type="text/javascript" src="./js/modernizr.js"></script>
 	<script type="text/javascript" src="./js/jquery.simpletip.js"></script>
 	<script type="text/javascript" src="./js/jquery.scrollTo-min.js"></script>
+	
+	<!-- Icomoon.io -->
+	<link rel="stylesheet" href="css/icomoon.css">
+	<!--[if lte IE 7]><script src="js/lte-ie7.js"></script><![endif]-->
 	
 	<!-- Google Analytics script -->
 	<script type="text/javascript">
@@ -47,6 +52,11 @@
 		
 		$(document).ready(function(){
 		
+			$("#go-up").click(function(event) {
+				event.preventDefault();
+				$.scrollTo('0px', 1000);				
+			});
+		
 			$(".dark-button.disabled").click(function(event) {
 				event.preventDefault();
 			});
@@ -55,21 +65,7 @@
 				event.preventDefault();
 
 				var surl =  appUrl + "logincheck?jsonp_callback=?";
-				/*
-				$.ajax({
-					dataType: 'jsonp',
-					data: 'id=10',
-					jsonp: 'jsonp_callback',
-					url: surl,
-					success: function (jsonp) {
-						alert(jsonp.loggedin);
-					},
-					error: function (xhr, ajaxOptions, thrownError){
-						alert(xhr.status);
-						alert(thrownError);
-					}    
-				});
-				*/
+
 				$.getJSON(surl, function(json) {
 					if (json.loggedin=="false"){
 						$('#glass-panel').css('filter', 'alpha(opacity=40)');
@@ -84,76 +80,7 @@
 						window.location.replace(appUrl + "workspace.jsp");
 					}		
 				});
-				/*
-				$.ajax({
-					url: "http://127.0.0.1:8888/logincheck",
-					crossDomain: true,
-					cache: false,
-					success: function(html){
-						if( console && console.log ) {
-							console.log(html);
-						}
-						if (html=="fail"){
-							$('#glass-panel').css('filter', 'alpha(opacity=40)');
-							$('#glass-panel').fadeIn('fast');
-							$('#login-absolute-wrapper').fadeIn('fast');		
-						}
-						else {
-							window.location.replace("https://app.otixo.com/workspace.jsp");
-						}
-					}
-				});
-				*/
-				/*
-				var xhr = new easyXDM.Rpc({
-					remote: "http://wwt.otixo.com/js/easyXDM/cors/index.html" // path to provider
-				}, {
-					remote: {
-						request: {} 
-					}
-				});
-				
-				xhr.request(
-					{
-						url: "http://127.0.0.1:8888/logincheck",  // request URL
-						method: "POST",
-						data: {}
-					}, function(response) { // deal the response
-						alert(response.status);
-						alert(response.data);
-					}
-				);
-				
-				*/
-				// if iframe not yet created
-/*				if ($('#login-form-iframe').length==0){
-					var iframeElement = $('<iframe></iframe>');
-					iframeElement.attr({
-						id: 'login-form-iframe',
-						src: 'http://127.0.0.1:8888/tiny-login-form.jsp',
-						marginheight : '0',
-						marginwidth : '0',
-						frameborder : '0',
-						'class': 'loading'
-					});
 
-					$('body').append(iframeElement);				
-
-					$('#login-form-iframe').bind('load', function( event ){
-						setTimeout(function() {
-							$('#login-form-iframe').unbind('load');
-							$('#login-form-wrapper').prepend($('#login-form-iframe'));
-							$('#login-form-iframe').removeClass("loading");
-							$('#glass-panel').css('filter', 'alpha(opacity=40)');
-							$('#glass-panel').fadeIn('fast');
-							$('#login-absolute-wrapper').fadeIn('fast');			
-						}, 5000);
-					});
-				} else {
-						$('#glass-panel').css('filter', 'alpha(opacity=40)');
-						$('#glass-panel').fadeIn('fast');
-						$('#login-absolute-wrapper').fadeIn('fast');			
-				}*/	
 				$('.login_button').addClass('pressed');
 			});
 
@@ -163,7 +90,6 @@
 				$('#login-absolute-wrapper').stop();
 				$('#login-absolute-wrapper').hide();
 				$('.login_button').removeClass('pressed');
-//				$(document).unbind('mousewheel DOMMouseScroll');
 			});
 
 			$('#login-form-wrapper').click(function(event){
@@ -183,6 +109,18 @@
 		}
 	</script>
 	
+	<!--[if gte IE 9]>
+	  <style type="text/css">
+		.gradient {
+		   filter: none;
+		}
+	  </style>
+	<![endif]-->
+	
+	
+	
+		
+				
 	</head>
 <body class="licence" id="privacy">
 
@@ -199,11 +137,8 @@
 		<div class="links_parent_container">
 			<a href="/" class="selected">Home</a>
 			<a href="product">Product</a>
-			<!--<a href="kudos">Kudos</a>-->
+			<a href="apps">Mobile Apps</a>
 			<a href="spaces">Spaces</a>		
-			<a href="photixo">Photixo</a>		
-			<!--<a href="http://blog.otixo.com">Blog</a>-->
-			<!--<a href="stories">Users&rsquo; Stories</a>-->
 			<a href="security">Security</a>
 			<a href="pricing">Pricing</a>		
 		</div>
@@ -232,7 +167,6 @@
 	<!-- end .container_12 -->
 	<div class="clear"></div>
 </div>
-
 <div class="container_12">
 	<h1 class="grid_12 heading">Online Privacy Policy</h1>
 	<!-- end .grid_12 -->
@@ -264,11 +198,15 @@
 
 		<h3>Last Updated: October 7, 2011</h3>
 
+		<div class="mygreyline haslogo"></div>
+		
 		<p class="emboss">Otixo, Inc. (“Otixo,” “we,” “our” or “us”) is committed to respecting the privacy and security of your personal information. The following U.S. online privacy policy (“Privacy Policy”) describes the information we collect and how we use it. By using this website, you consent to our Privacy Policy.</p>
 
 		<p class="emboss">We may periodically update this Privacy Policy to reflect material changes in how we collect, use, share or store your personal information. We encourage you to refer to this Privacy Policy on an ongoing basis so that you understand our current Privacy Policy.  You consent to any changes we make to this Privacy Policy if you continue to use the Otixo service after receiving a notice of the change or upon our posting of the new Privacy Policy on this website.</p>
 
-	</div>
+		<div class="mygreyline"></div>
+
+		</div>
 	<!-- end .grid_12 -->
 	<div class="clear"></div>		
 </div>
@@ -387,27 +325,27 @@
 		 
 		<h2>QUESTIONS AND FEEDBACK </h2>
 
-		<p>We welcome your questions, comments, and concerns about privacy. Please <a href="#contact" class="showcontacts">contact</a> us by mail or <a href="mailto:info@otixo.com">email</a> at:</p>
+		<p>We welcome your questions, comments, and concerns about privacy. Please contact us by mail or <a href="mailto:info@otixo.com">email</a> at:</p>
 
 		<p style="margin-left: 40px;">
 			<strong>Otixo, Inc.</strong><br>
 			Attn: Privacy Policy<br>
-			954 Pearl St.<br>
-			Suite B<br>
-			Boulder, CO 80302<br>
+			4450 Arapahoe Ave.<br>
+			Suite 100<br>
+			Boulder, CO 80304<br>
 			<a href="mailto:info@otixo.com">info@otixo.com </a>
 		</p>
 
 		<h2>COMPLAINTS</h2>
 
-		<p>If you have a data privacy complaint, please <a href="#contact" class="showcontacts">contact</a> us by mail or <a href="mailto:info@otixo.com">email</a> at:</p>
+		<p>If you have a data privacy complaint, please contact us by mail or <a href="mailto:info@otixo.com">email</a> at:</p>
 
 		<p style="margin-left: 40px;">
 			<strong>Otixo, Inc.</strong><br>
 			Attn: Privacy Policy<br>
-			954 Pearl St.<br>
-			Suite B<br>
-			Boulder, CO 80302<br>
+			4450 Arapahoe Ave.<br>
+			Suite 100<br>
+			Boulder, CO 80304<br>
 			<a href="mailto:info@otixo.com">info@otixo.com </a>
 		</p>
 
@@ -417,7 +355,7 @@
 
 		<h2>TERMS OF USE</h2>
 
-		<p>Please also visit our <a href="http://otixo.com/licence.html">Terms of Use Agreement</a> that explains other terms governing the use of our website.</p>
+		<p>Please also visit our <a href="./license.html">Terms of Use Agreement</a> that explains other terms governing the use of our website.</p>
 
 	</div>
 	<!-- end .grid_10 -->
@@ -441,10 +379,14 @@
 			<h5 class="grid_6 alpha omega section">Navigation</h5>
 			<div class="grid_6 alpha omega section-separator"></div>
 			<ul class="grid_6 alpha omega links-container">
-				<li class="grid_2 alpha"><a href="register" class="green register-link">Sign Up</a></li>
-				<li class="grid_2 fix"><a href="login" class="green login-link">Login</a></li>	
-				<div class="clear" style="height: 15px"></div>
-				<li class="grid_2 alpha"><a href="/">Home</a></li>
+				<li class="grid_2 alpha"><a href="register" class="green"><span aria-hidden="true" class="icon-user"></span>&nbsp;&nbsp;Sign Up</a></li>
+				<li class="grid_2 fix"><a href="login" class="green"><span aria-hidden="true" class="icon-circ-key"></span>&nbsp;&nbsp;Login</a></li>
+				<li class="grid_2 omega clearfix">
+					<label><select id="language-select">
+						<option selected="">English</option><option>German</option>					</select></label>​
+				</li>
+				<!-- <li class="grid_2 alpha"><a href="/">Home</a></li> -->
+				<li class="grid_2 alpha"><a href="apps">Mobile Apps</a></li>
 				<li class="grid_2 fix"><a href="kudos">Press</a></li>
 				<li class="grid_2 omega"><a href="security">Security</a></li>
 				<li class="grid_2 alpha"><a href="product">Product</a></li>
@@ -453,8 +395,8 @@
 				<li class="grid_2 alpha"><a href="spaces">Spaces</a></li>
 				<li class="grid_2 fix"><a href="pricing">Pricing</a></li>
 				<li class="grid_2 omega"><a href="license">Terms of Use</a></li>
-				<li class="grid_2 alpha"><a href="photixo">Photixo</a></li>
-				<li class="grid_2 fix">&nbsp;</li>
+				<li class="grid_2 alpha"><a href="api">Developers</a></li>
+				<li class="grid_2 fix"><a href="photixo">Photixo</a></li>
 				<li class="grid_2 omega"><a href="support">Support</a></li>
 			</ul>	
 		</div>
@@ -505,8 +447,18 @@
 	</div>
 	<!-- end .container_12 -->
 </div>
-
-
+<script type="text/javascript">
+	$("#language-select").change(function() {
+		$("#language-select option:selected").each(function () {
+			if($(this).text() == "German"){
+				window.location.hostname=window.location.hostname.replace("otixo.com", "otixo.de");
+			}
+			else {
+				window.location.hostname=window.location.hostname.replace("otixo.de", "otixo.com");
+			}
+		});
+	});		
+</script>
 
 
 </body></html>
