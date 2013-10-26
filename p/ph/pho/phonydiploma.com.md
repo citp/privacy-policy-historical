@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the phonydiploma.com privacy policy that was archived on 2013-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130507083757id_/http%3A//www.phonydiploma.com/Data-Security-and-Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the phonydiploma.com privacy policy that was archived on 2013-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131027005729id_/http%3A//www.phonydiploma.com/Data-Security-and-Privacy.aspx) for the most accurate reproduction.*
 
 # Data Security and Privacy: PhonyDiploma.com - Phonydiploma.com
 
