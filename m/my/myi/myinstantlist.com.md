@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the myinstantlist.com privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530120424id_/http%3A//myinstantlist.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myinstantlist.com privacy policy that was archived on 2013-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131026165900id_/http%3A//myinstantlist.com/privacy.php) for the most accurate reproduction.*
 
 # Free Viral List Builder
 
-[](http://myinstantlist.com/banclick.php?code=82dd5a905e59accb6f62295917517991)
+[](http://myinstantlist.com/banclick.php?code=dae3312c4c6c7000a37ecfb7b0aeb0e4)
 
 My Instant List Privacy Policy
 
@@ -34,11 +34,10 @@ What happens if the Privacy Policy Changes? We will let our Visitors and Authori
 Links: This web site contains links to other web sites. Please note that when you click on one of these links, you are moving to another web site. We encourage you to read the privacy statements of these linked sites as their privacy policies may differ from ours. 
 
   
-Copyright (c) My Instant List All Rights Reserved - Part of the [Trax Web](http://traxweb.com/)
+Copyright (c) 2010-2013 My Instant List All Rights Reserved - Part of the [Trax Web](http://traxweb.com/)
 
-[Terms and Conditions](https://web.archive.org/terms.php) | [Earnings Disclaimer](https://web.archive.org/earnings.php) | [ Spam Policy](https://web.archive.org/spam.php) | [ Privacy Policy](https://web.archive.org/privacy.php) | [ Recommended Site Of The Day](http://instantprofitlist.com/recommends.php)   
+[Terms and Conditions](https://web.archive.org/terms.php) | [Earnings Disclaimer](https://web.archive.org/earnings.php) | [ Spam Policy](https://web.archive.org/spam.php) | [ Privacy Policy](https://web.archive.org/privacy.php) | [ Recommended Site Of The Day](http://myinstantlist.com/recommends.php)   
 
 
-  
   
 
