@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the prb.org privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501185501id_/http%3A//www.prb.org/Home/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prb.org privacy policy that was archived on 2013-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131026065515id_/http%3A//www.prb.org/%7E/link.aspx%3F_id%3D11A2A1677D184053936CE705FAEDEC1D%26_z%3Dz) for the most accurate reproduction.*
 
-# Privacy Policy - Population Reference Bureau
+# Privacy Policy
 
 This privacy policy covers the Population Reference Bureau's treatment of personally identifiable information that PRB collects when you are on the PRB sites and when you use PRB's services. This policy does not apply to the practices of companies that PRB does not own or control or to people that PRB does not employ or manage.
 
