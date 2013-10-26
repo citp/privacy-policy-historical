@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the nostalgiacasino.com privacy policy that was archived on 2013-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130404101320id_/http%3A//www.nostalgiacasino.com/security/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nostalgiacasino.com privacy policy that was archived on 2013-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131026125604id_/http%3A//www.nostalgiacasino.com/privacy) for the most accurate reproduction.*
 
 # Security : Nostalgia Casino Privacy Policy
+
+[HOME](https://web.archive.org/) »  **Privacy Policy**
 
   1. **Recording of Communications**  
 To improve our services and protect the interests of our Players, all telephone calls are recorded for security purposes.
@@ -23,7 +25,7 @@ Nostalgia Casino website works by using cookies and Active X components for (but
     1. To identify the Account Holder's preferred language so it is automatically selected when the Account Holder returns to Nostalgia Casino;
     2. For analysis of the Nostalgia Casino website traffic so as to allow us to make suitable improvements.
     3. The operation of the games (such as the flash casino)
-  7. Nostalgia Casino guarantees: 
+  7. **Nostalgia Casino guarantees:**
     1. Not to sell, give away, or otherwise communicate your personal or corporate information to any other persons or companies.
     2. To use your personal data to provide you with information or materials only if you requested it.
     3. We provide all our customers with the opportunity to remove your information from our database, at your request.
