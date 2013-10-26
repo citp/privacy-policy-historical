@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the kidsonaplane.com privacy policy that was archived on 2013-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130615052445id_/http%3A//kidsonaplane.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kidsonaplane.com privacy policy that was archived on 2013-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131026035049id_/http%3A//kidsonaplane.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Kids On A Plane - Family Travel and Family Entertainment Blog
+# Privacy Policy - Kids On A Plane - A Family Travel Blog
 
 All data and information provided on this site is for informational purposes only. Kids On A Plane makes no representations as to accuracy, completeness, recentness, suitability, or validity of any information on this site and will not be liable for any errors, omissions, or delays in this information or any losses, injuries, or damages arising from its display or use.  All information is provided on an as-is basis.
 
