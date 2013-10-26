@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jobopenings.net privacy policy that was archived on 2013-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130626185603id_/http%3A//www.jobopenings.net/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobopenings.net privacy policy that was archived on 2013-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131026140123id_/http%3A//www.jobopenings.net/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy Statement for JobOpenings.net
 
