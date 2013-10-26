@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the ansh46.com privacy policy that was archived on 2013-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130426060022id_/http%3A//www.ansh46.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ansh46.com privacy policy that was archived on 2013-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131026022810id_/http%3A//www.ansh46.com/privacy) for the most accurate reproduction.*
 
-# ANSH46.COM | Privacy and Security
+# Privacy Policy | ANSH46 Designer Clothing Store
 
 PRIVACY AND SECURITY
 
-1. | DATA PROTECTION | 5. | ORDER PLACEMENT  
+1. | [DATA PROTECTION](http://www.ansh46.com/privacy#18) | 5. | [ORDER PLACEMENT](http://www.ansh46.com/privacy#22)  
 ---|---|---|---  
-2. | SECURITY POLICY | 6. | SEVERANCE  
-3. | PRIVACY POLICY | 7. | PAYMENT OBLIGATION  
-4. | THIRD PARTY RIGHTS |  |   
+2. | [SECURITY POLICY](http://www.ansh46.com/privacy#19) | 6. | [SEVERANCE](http://www.ansh46.com/privacy#23)  
+3. | [PRIVACY POLICY](http://www.ansh46.com/privacy#20) | 7. | [PAYMENT OBLIGATION](http://www.ansh46.com/privacy#24)  
+4. | [THIRD PARTY RIGHTS](http://www.ansh46.com/privacy#21) |   |    
   
 By submitting an order you agree to the processing by us of your personal information and the disclosure of that information as set out in this clause 8. Further information about the manner in which we process your information is set out in our privacy policy.
 
