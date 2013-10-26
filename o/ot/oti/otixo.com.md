@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the otixo.com privacy policy that was archived on 2013-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130430134927id_/http%3A//otixo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the otixo.com privacy policy that was archived on 2013-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131026194304id_/http%3A//otixo.com/privacy) for the most accurate reproduction.*
 
 # Otixo: Privacy Policy
 
@@ -115,9 +115,9 @@ We welcome your questions, comments, and concerns about privacy. Please contact 
 
 **Otixo, Inc.**  
 Attn: Privacy Policy  
-954 Pearl St.  
-Suite B  
-Boulder, CO 80302  
+4450 Arapahoe Ave.  
+Suite 100  
+Boulder, CO 80304  
 [info@otixo.com ](mailto:info@otixo.com)
 
 ## COMPLAINTS
@@ -126,9 +126,9 @@ If you have a data privacy complaint, please contact us by mail or [email](mailt
 
 **Otixo, Inc.**  
 Attn: Privacy Policy  
-954 Pearl St.  
-Suite B  
-Boulder, CO 80302  
+4450 Arapahoe Ave.  
+Suite 100  
+Boulder, CO 80304  
 [info@otixo.com ](mailto:info@otixo.com)
 
 Otixo's Independent Recourse Mechanism
@@ -137,4 +137,4 @@ Otixo has also established an independent recourse mechanism available to Europe
 
 ## TERMS OF USE
 
-Please also visit our [Terms of Use Agreement](http://otixo.com/licence.html) that explains other terms governing the use of our website.
+Please also visit our [Terms of Use Agreement](https://web.archive.org/web/20131026194304id_/http%3A//otixo.com/license.html) that explains other terms governing the use of our website.
