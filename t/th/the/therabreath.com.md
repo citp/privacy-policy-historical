@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the therabreath.com privacy policy that was archived on 2013-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130510044430id_/http%3A//www.therabreath.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the therabreath.com privacy policy that was archived on 2013-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131026185917id_/http%3A//www.therabreath.com/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy
 
