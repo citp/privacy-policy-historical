@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the appleseeds.com privacy policy that was archived on 2013-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130524122415id_/http%3A//appleseeds.blair.com/custserv/custserv.jsp%3FpageName%3DPrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the appleseeds.com privacy policy that was archived on 2013-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131027015622id_/http%3A//appleseeds.blair.com/custserv/custserv.jsp%3FpageName%3DPrivacy) for the most accurate reproduction.*
 
 # Privacy and Security | Appleseeds
 
-Please note that the privacy and security policies and data collection processes for these Orchard Brands family of related companies may differ from this Privacy and Security Policy published for Appleseed's, The Tog Shop, WinterSilks, LinenSource, Old Pueblo Traders, Bedford Fair, and Willow Ridge. Please refer to the website for each of these related companies for their particular privacy and security policy detailing how that affiliated company handles your privacy concerns and personal information. 
+Please note that the privacy and security policies and data collection processes for these Orchard Brands family of related companies may differ from this Privacy and Security Policy published for Appleseed's, The Tog Shop, WinterSilks, LinenSource, Blair, Old Pueblo Traders, Bedford Fair, and Willow Ridge. Please refer to the website for each of these related companies for their particular privacy and security policy detailing how that affiliated company handles your privacy concerns and personal information. 
 
 * * *
 
