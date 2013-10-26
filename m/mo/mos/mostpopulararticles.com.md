@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mostpopulararticles.com privacy policy that was archived on 2013-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130513103906id_/http%3A//www.mostpopulararticles.com/index.php%3Fview%3Dpage%26pagename%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mostpopulararticles.com privacy policy that was archived on 2013-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131026030957id_/http%3A//www.mostpopulararticles.com/index.php%3Fview%3Dpage%26pagename%3Dprivacy) for the most accurate reproduction.*
 
-# Prescott, Arizona - Most Popular Articles Online Classifieds
+# United Kingdom, Europe - Most Popular Articles Online Classifieds
 
 Mr. Lister Online  
 PRIVACY DISCLOSURES
