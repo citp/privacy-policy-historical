@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the apollomunichinsurance.com privacy policy that was archived on 2013-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130518030843id_/http%3A//www.apollomunichinsurance.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apollomunichinsurance.com privacy policy that was archived on 2013-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131026155036id_/http%3A//www.apollomunichinsurance.com/privacy-policy.aspx) for the most accurate reproduction.*
 
-# Healthcare Insurance Services,Healthcare Insurance Providers,India
+# Privacy Policy - Apollo Munich Health Insurance Company
 
 Apollo Munich Health Insurance Company Limited
 
