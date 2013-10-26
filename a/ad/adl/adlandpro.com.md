@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the adlandpro.com privacy policy that was archived on 2013-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130609135638id_/http%3A//adlandpro.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adlandpro.com privacy policy that was archived on 2013-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131026185014id_/http%3A//www.adlandpro.com/privacy.aspx) for the most accurate reproduction.*
 
-# Privacy Policy | AdlandPro
+# Privacy Policy
 
 Effective Date: October 18, 2012 
 
@@ -79,7 +79,7 @@ If you reject cookies, you may still use our site, but your ability to use some 
 
 ### 3rd Party Tracking
 
-The use of cookies by our partners, affiliates, tracking utility company, service providers is not covered by our privacy policy. We do not have access or control over these cookies. Our partners, affiliates, tracking utility company, service providers use session ID cookies to make it easier for you to navigate our site. 
+The use of cookies by our partners, affiliates, tracking utility company, service providers is not covered by our privacy policy. We do not have access or control over these cookies. Our partners, affiliates, tracking utility company, service providers use both session ID and persistent cookies to make it easier for you to navigate our site. 
 
 Our third party partners employ clear gifs (a.k.a. Web Beacons/Web Bugs), images, and scripts that help them better manage content on our site. We do not tie customer or user personally identifiable information to the information gathered. 
 
@@ -93,13 +93,17 @@ We follow generally accepted standards to protect the personally identifiable in
 
 Our Site includes links to other web sites whose privacy practices may differ from those of AdlandPro.com. If you submit personally identifiable information to any of those sites, your information is governed by their privacy policies. We encourage you to carefully read the privacy policy of any web site you visit. 
 
+## Social Media Widgets
+
+Our Web site includes Social Media Features, such as the Facebook button and Widgets, such as the Share this button or interactive mini-programs that run on our site. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it. 
+
 ## Webmail
 
 We provide the opportunity for users to create a free email account on freemail.adlandpro.com. Personal information provided in this area is governed by the Everyone.net privacy policy <http://www.everyone.net/main/html/p_policy.html>. We only have access to first name, last name and email address created, for account management purposes. 
 
 ## Testimonials
 
-We display personal testimonials of satisfied customers on our site in addition to other endorsements. With your consent we may post your testimonial along with your name. If you wish to update or delete your testimonial, please contact us. 
+We display personal testimonials of satisfied customers on our site in addition to other endorsements. With your consent we may post your testimonial along with your name. If you wish to update or delete your testimonial, please [contact us](http://www.adlandpro.com/ContactUs.aspx)
 
 ## Changes To This Policy
 
