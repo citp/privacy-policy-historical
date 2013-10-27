@@ -1,24 +1,53 @@
-> *The following text is extracted and transformed from the onceread.net privacy policy that was archived on 2011-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110102030332id_/http%3A//www.oncereadbooks.com/%3Fpage%3Dshop/privacy%26CLSN_1757%3D129393248317579b7d4bfe63adaaafe1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onceread.net privacy policy that was archived on 2013-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131027103643id_/http%3A//onceread.net/policy.html) for the most accurate reproduction.*
 
-# Once Read Books - Rare, used, and out-of-print books
+# Privacy & Policy - Once Read Article Directory
 
-  
-|   |    
+Once Read Article Directory Privacy Policy
 
+Onceread.net strives to offer its visitors the many advantages of Internet technology and to provide an interactive and personalized experience. We may use Personally Identifiable Information (your name, e-mail address, street address, telephone number) subject to the terms of this privacy policy. We will never sell, barter, or rent your email address to any unauthorized third party. Period.
 
-## Privacy Policy
+How we gather information from users
 
-Our site uses an order form for customers to request information, products, and services. We request visitor's contact information (name, address, and email address) and financial information (payment information to make purchases). Contact information from the order form is used to ship orders to customers. The customer's contact information is used to contact the customer when necessary. Financial information that is collected is used to bill the customer for products and services.The web site has security measures in place to protect the loss, misuse and alteration of the information under our control. We use 128-bit SSL encryption to protect your financial information. We do not and will not sell or lease your information to any 3rd party.We provide users the following options for removing their information from our database and to not receive any future communications from our service.
-* You can send an email to [info@OnceReadBooks.com](mailto:info@oncereadbooks.com)
-* You can send a letter to the following postal address. 
+How we collect and store information depends on the page you are visiting, the activities in which you elect to participate and the services provided. For example, you may be asked to provide information when you register for access to certain portions of our site or request certain features, such as newsletters or when you make a purchase. You may provide information when you participate in sweepstakes and contests, message boards and chat rooms, and other interactive areas of our site. Like most Web sites, Onceread.net also collects information automatically and through the use of electronic tools that may be transparent to our visitors. For example, we may log the name of your Internet Service Provider or use cookie technology to recognize you and hold information from your visit. Among other things, the cookie may store your user name and password, sparing you from having to re-enter that information each time you visit, or may control the number of times you encounter a particular advertisement while visiting our site. As we adopt additional technology, we may also gather information through other means. In certain cases, you can choose not to provide us with information, for example by setting your browser to refuse to accept cookies, but if you do you may be unable to access certain portions of the site or may be asked to re-enter your user name and password, and we may not be able to customize the site's features according to your preferences.
 
-Once Read Books  
-5422 E. Village Road  
-Long Beach, CA 90808  
-United States
+What we do with the information we collect
 
-You have the option to change and modify information previously provided by logging in through our home page and then accessing account administration.If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact.Once Read Books  
-5422 E. Village Road  
-Long Beach, CA 90808  
-United States  
-562-420-1034 
+Like other Web publishers, we collect information to enhance your visit and deliver more individualized content and advertising. We respect your privacy and do not share your information with anyone.
+
+Aggregated Information (information that does not personally identify you) may be used in many ways. For example, we may combine information about your usage patterns with similar information obtained from other users to help enhance our site and services (e.g., to learn which pages are visited most or what features are most attractive). Aggregated Information may occasionally be shared with our advertisers and business partners. Again, this information does not include any Personally Identifiable Information about you or allow anyone to identify you individually.
+
+We may use Personally Identifiable Information collected on [www.onceread.net](https://web.archive.org/web/20131027103643id_/http%3A//) to communicate with you about your registration and customization preferences; our Terms of Service and privacy policy; services and products offered by  [www.onceread.net](https://web.archive.org/web/20131027103643id_/http%3A//) and other topics we think you might find of interest.
+
+Personally Identifiable Information collected by Onceread.net may also be used for other purposes, including but not limited to site administration, troubleshooting, processing of e-commerce transactions, administration of sweepstakes and contests, and other communications with you. Certain third parties who provide technical support for the operation of our site (our Web hosting service for example) may access such information. We will use your information only as permitted by law. In addition, from time to time as we continue to develop our business, we may sell, buy, merge or partner with other companies or businesses. In such transactions, user information may be among the transferred assets. We may also disclose your information in response to a court order, at other times when we believe we are reasonably required to do so by law, in connection with the collection of amounts you may owe to us, and/or to law enforcement authorities whenever we deem it appropriate or necessary. Please note we may not provide you with notice prior to disclosure in such cases.
+
+Affiliated sites, linked sites and advertisements
+
+Onceread.net expects its partners, advertisers and affiliates to respect the privacy of our users. Be aware, however, that third parties, including our partners, advertisers, affiliates and other content providers accessible through our site, may have their own privacy and data collection policies and practices. For example, during your visit to our site you may link to, or view as part of a frame on a  [www.onceread.net](https://web.archive.org/web/20131027103643id_/http%3A//) page, certain content that is actually created or hosted by a third party. Also, through Onceread.net you may be introduced to, or be able to access, information, Web sites, features, contests or sweepstakes offered by other parties. Onceread.net is not responsible for the actions or policies of such third parties. You should check the applicable privacy policies of those third parties when providing information on a feature or page operated by a third party.
+
+While on our site, our advertisers, promotional partners or other third parties may use cookies or other technology to attempt to identify some of your preferences or retrieve information about you. For example, some of our advertising is served by third parties and may include cookies that enable the advertiser to determine whether you have seen a particular advertisement before. Other features available on our site may offer services operated by third parties and may use cookies or other technology to gather information. Onceread.net does not control the use of this technology by third parties or the resulting information, and is not responsible for any actions or policies of such third parties.
+
+We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [_click here_](http://www.networkadvertising.org/choices/).
+
+* Google, as a third party vendor, uses cookies to serve ads on [www.onceread.net](https://web.archive.org/web/20131027103643id_/http%3A//) . Google's use of the DART cookie enables it to serve ads to users based on their visit to [www.onceread.net](https://web.archive.org/web/20131027103643id_/http%3A//) and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the [_Google ad and content network privacy policy_](http://www.google.com/privacy_ads.html). 
+
+* VigLink, as a third party vendor, uses cookies to serve ads on [www.onceread.net](https://web.archive.org/web/20131027103643id_/http%3A//) . Links can sometimes be monetized by VigLink, depending on the relationship VigLink has with other vendors. This is required to be disclosed based on the "material connection" that Once Read Article Directory LLC might have with the vendor. 
+
+* SkimLinks - 
+
+If you would like to opt out of several third party ad networks at once you can visit the [_Network Advertising Initiative_](http://www.networkadvertising.org/managing/opt_out.asp)
+
+You should also be aware that if you voluntarily disclose Personally Identifiable Information on message boards or in chat areas, that information can be viewed publicly and can be collected and used by third parties without our knowledge and may result in unsolicited messages from other individuals or third parties. Such activities are beyond the control of Onceread.net and this policy. 
+
+Children
+
+Onceread.net does not knowingly collect or solicit Personally Identifiable Information from or about children under 13 except as permitted by law. If we discover we have received any information from a child under 13 in violation of this policy, we will delete that information immediately. If you believe Onceread.net has any information from or about anyone under 13, please contact us at the address listed below.
+
+Contacting Us
+
+We can be reached through the [_Contact Us_](https://web.archive.org/web/20131027103643id_/http%3A//contact.html) Page.
+
+Changes to this Policy
+
+Onceread.net reserves the right to change this policy at any time. Please check this page periodically for changes. Your continued use of our site following the posting of changes to these terms will mean you accept those changes. Information collected prior to the time any change is posted will be used according to the rules and laws that applied at the time the information was collected.
+
+This statement and the policies outlined herein are not intended to and do not create any contractual or other legal rights in or on behalf of any party.
