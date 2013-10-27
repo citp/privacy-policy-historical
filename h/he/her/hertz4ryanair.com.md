@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hertz4ryanair.com privacy policy that was archived on 2013-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130519193321id_/http%3A//www.hertz4ryanair.com/Localization/English/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hertz4ryanair.com privacy policy that was archived on 2013-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131027050456id_/http%3A//www.hertz4ryanair.com/Localization/English/privacypolicy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
