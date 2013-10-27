@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the scheels.com privacy policy that was archived on 2009-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090601231151id_/http%3A//www.scheelssports.com/webapp/wcs/stores/servlet/PrivacyView%3FlangId%3D-1%26storeId%3D10001%26catalogId%3D10101) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scheels.com privacy policy that was archived on 2013-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131027192729id_/http%3A//www.scheels.com/shop/en/scheels-catalog/privacy-policy) for the most accurate reproduction.*
 
-# Scheels | Privacy Policy
+# Privacy Policy | Scheels
 
 What information do we collect? How do we use it?  
-Through this site, you can order products, enter contests, and create personal accounts. In order to complete these services, we need to collect some information from you. We collect identity information such as name, address, phone number, and email address. This information is used to complete your product order, as well as to inform you of offers and events we feel would be of interest to you. 
+Through this site, you can order products, enter contests, share comments and media, and create personal accounts. In order to complete these services, we need to collect some information from you. We collect identity information such as name, address, phone number, and email address. This information is used to complete your product order, as well as to inform you of offers and events we feel would be of interest to you. 
 
-Also, we collect information pertaining to your Sports Passion. This is gathered by your choices on our site, including the preferences you list when you sign-up or edit your account. 
+Also, we collect information pertaining to your sports passion. This is gathered by your choices on our site, including the preferences you list when you sign-up or edit your account. 
 
-Becoming registered at scheels.com enables you to receive monthly product updates, news of upcoming sales events and exclusive offers from Scheels. It only takes a couple of seconds to become an online member and it's FREE, so... **Register your sports passions at scheels.com TODAY!**
+Becoming registered at scheels.com enables you to receive monthly product updates, news of upcoming sales events, updates related to your scheels.com community content, and exclusive offers from Scheels. It only takes a couple of seconds to become an online member and it's FREE, so... **Register your sports passions at scheels.com TODAY!**
 
 Collection of information by third-party sites and sponsors  
 Scheels will not buy, sell, trade, or share information with any other company or individual unless one of the following exceptions applies: 
@@ -27,7 +27,7 @@ Your account page shows the information. From this page, you can edit your passw
 Your password is the most important part of your account and should contain both letters and numbers. You should not share your password with anyone. Do not use common names, birthdates, pet names, or other things about you that can be easily guessed. We never close accounts without your request or ask you to verify information outside of the normal order process. 
 
 Note to parents  
-The site you are viewing is for all audiences. Scheels will never allow inappropriate content to be accessible through our website. Protecting children’s privacy on the internet is important to us and we fully abide by the Children’s online Privacy Protection Act (COPPA). This restricts Scheels from collecting information from children under the age of 13, and we will delete the information if it has been provided to us. For more information please contact us as shown below. 
+The site you are viewing is for all audiences. Scheels will never allow inappropriate content to be accessible through our website. Protecting children's privacy on the internet is important to us and we fully abide by the Children's online Privacy Protection Act (COPPA). This restricts Scheels from collecting information from children under the age of 13, and we will delete the information if it has been provided to us. For more information please contact us as shown below. 
 
 Write Us At:  
 scheels.com - Privacy Policy  
