@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the register123.com privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530010914id_/http%3A//register123.com/index.php/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the register123.com privacy policy that was archived on 2013-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131027205902id_/http%3A//register123.com/index.php/privacy-policy) for the most accurate reproduction.*
 
 # Certain Inc :: Privacy Policy
 
@@ -96,6 +96,6 @@ If you decide to use Certain software services and you provide registration info
 **Contact Us  
 ** If you have any comments or questions about this Privacy Policy, the practices of this site, or your dealings with this web site, please email us at privacy@certain.com or contact us via post mail:
 
-**_Certain, Inc. |  75 Hawthorne Street, Suite 300 | San Francisco, CA 94105_**
+**_Certain, Inc. |  75 Hawthorne Street, Suite 550  |  San Francisco, CA 94105_**
 
-Effective Date:  **11/27/2012**
+Effective Date:  **07/01/2013**
