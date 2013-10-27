@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the lens.com privacy policy that was archived on 2013-06-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130619003938id_/http%3A//www.lens.com/common/faq/privacypolicy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the lens.com privacy policy that was archived on 2013-10-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131027073514id_/http%3A//www.lens.com/common/faq/privacypolicy.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://ogp.me/ns/fb#" itemscope="" itemtype="http://schema.org/Product"><head>
 		<meta name="bitly-verification" content="841483931418">
@@ -40,108 +40,110 @@
 
 		<link rel="shortcut icon" href="/favicon.ico" title="Lens.com">
 	    
-        <link rel="stylesheet" type="text/css" media="screen" href="/include/css/min/site_v70.css"><link rel="stylesheet" type="text/css" media="screen" href="/include/css/min/lightbox_v70.css"><link rel="stylesheet" type="text/css" media="print" href="/include/css/min/print_v70.css">	
+        <link rel="stylesheet" type="text/css" media="screen" href="/include/css/min/site_v78.css"><link rel="stylesheet" type="text/css" media="screen" href="/include/css/min/lightbox_v78.css"><link rel="stylesheet" type="text/css" media="print" href="/include/css/min/print_v78.css">	
 		<!--[if lt IE 7]>
-            <link rel="stylesheet" type="text/css" media="screen" href="/include/css/min/ie6-fix_v70.css" />
+            <link rel="stylesheet" type="text/css" media="screen" href="/include/css/min/ie6-fix_v78.css" />
 		<![endif]-->
         <!--[if IE 7]>
-            <link rel="stylesheet" type="text/css" media="screen" href="/include/css/min/ie7-fix_v70.css" />
+            <link rel="stylesheet" type="text/css" media="screen" href="/include/css/min/ie7-fix_v78.css" />
         <![endif]--> 
 		<!--[if IE 8]>
-            <link rel="stylesheet" type="text/css" media="screen" href="/include/css/min/ie7-fix_v70.css" />
+            <link rel="stylesheet" type="text/css" media="screen" href="/include/css/min/ie7-fix_v78.css" />
         <![endif]-->
 		<!--[if gt IE 8]>
-            <link rel="stylesheet" type="text/css" media="screen" href="/include/css/min/ie-fix_v70.css" />
+            <link rel="stylesheet" type="text/css" media="screen" href="/include/css/min/ie-fix_v78.css" />
         <![endif]-->
 		<script type="text/javascript" language="javascript">
 			if(Function('/*@cc_on return document.documentMode===10@*/')()){
 				document.documentElement.className+='ie10';
 			}
+			
+			// Variables used by VWO
+			var gb_bShowEmailCapture = false;
+			var gb_lngEmailCaptureTime = 0;
 		</script>
-		
         <script type="text/javascript" language="javascript" src="/PublicCommon/include/js/min/jquery-plus-plugins.min.js"></script> 
-        <script type="text/javascript" language="javascript" src="/PublicCommon/include/js/min/Global.js"></script>	
+        <script type="text/javascript" language="javascript" src="/PublicCommon/include/js/min/Global.js"></script>
+
 		
-        
 		    <script type="text/javascript" language="javascript">
-		        $(document).ready(function(){
-    			
-					//Proactive Chat Test
-    			    var gb_showProactiveChat;
-    			    var gb_rand;
-					
-			        if(readCookie("showchat").length > 0)
-			        {
-			            gb_rand = readCookie("showchat");
-			        }
-			        else
-			        {
-			            // Random number (1 or 2)
-			            gb_rand = Math.floor(Math.random()*2) + 1;    
-			            
-			            document.cookie = "showchat=" + gb_rand + ";path=/";
-			        }
-    			    
-		            if(gb_rand == 1)
-		            {
-		                gb_showProactiveChat = true;
-						gfGlobal_LogGoogleEvent('Shopping Cart - Proactive Chat Test', 'Shown','Proactive Chat Shown');
+		        $(document).ready(function () {
+		            //Chat Event Tracking
+		            var gb_counter = 0;
+		            var gb_myInterval = setInterval(function () {
+		                ++gb_counter;
+		            }, 1000);
+
+		            var gb_hideChatWindow;
+		            var gb_eleProactiveChat;
+
+		            var gb_LoggedShownPopup = false;
+		            var gb_LoggedTimedOut = false;
+		            var gb_LoggedClickedLater = false;
+		            var gb_LoggedClickedAccept = false;
+		            var gb_LoggedClickedClose = false;
+
+		            var gb_showChatWindow = self.setInterval(function () {
+		                gb_eleProactiveChat = $('#proactive-wrapper');
+		                if (gb_eleProactiveChat.length) {
+		                    if (!gb_LoggedShownPopup) {
+		                        gfGlobal_LogGoogleEvent('Proactive Chat', 'Shown', 'Proactive Chat Popup', gb_showChatWindow);
+		                        gb_LoggedShownPopup = true;
+		                    }
+
+		                    if (gb_hideChatWindow === undefined) {
+		                        gb_hideChatWindow = self.setInterval(function () {
+		                            if (gb_eleProactiveChat.parent().css('visibility') == "hidden") {
+		                                if (!gb_LoggedTimedOut) {
+		                                    gfGlobal_LogGoogleEvent('Proactive Chat', 'Timed Out', 'Proactive Chat Popup', gb_showChatWindow);
+		                                    gb_LoggedTimedOut = true;
+		                                }
+		                                window.clearInterval(gb_myInterval);
+		                                window.clearInterval(gb_hideChatWindow);
+		                                window.clearInterval(gb_showChatWindow);
+		                            }
+		                        }, 500);
+		                    }
+
+		                    $('.maybelater').click(function (event) {
+		                        if (!gb_LoggedClickedLater) {
+		                            gfGlobal_LogGoogleEvent('Proactive Chat', 'Clicked', 'Maybe Later', gb_hideChatWindow);
+		                            gb_LoggedClickedLater = true;
+		                        }
+		                        window.clearInterval(gb_myInterval);
+		                        window.clearInterval(gb_hideChatWindow);
+		                        window.clearInterval(gb_showChatWindow);
+		                    });
+
+		                    $('.accept').click(function (event) {
+		                        if (!gb_LoggedClickedAccept) {
+		                            gfGlobal_LogGoogleEvent('Proactive Chat', 'Clicked', 'Accept Chat', gb_hideChatWindow);
+		                            gb_LoggedClickedAccept = true;
+		                        }
+		                        window.clearInterval(gb_myInterval);
+		                        window.clearInterval(gb_hideChatWindow);
+		                        window.clearInterval(gb_showChatWindow);
+		                    });
+
+		                    $('.close').click(function (event) {
+		                        if (!gb_LoggedClickedClose) {
+		                            gfGlobal_LogGoogleEvent('Proactive Chat', 'Clicked', 'Close', gb_hideChatWindow);
+		                            gb_LoggedClickedClose = true;
+		                        }
+		                        window.clearInterval(gb_myInterval);
+		                        window.clearInterval(gb_hideChatWindow);
+		                        window.clearInterval(gb_showChatWindow);
+		                    });
+		                }
+		            }, 500);
+
+		            function logEvent(successText, IntervaltoClear) {
+
+		                _gat._getTrackerByName('new')._trackEvent('Proactive Chat', successText, 'Time: ' + gb_counter + ' seconds');
+
+		                if (IntervaltoClear) window.clearInterval(IntervaltoClear);
 		            }
-		            else
-		            {
-		                gb_showProactiveChat = false;
-						$('body').addClass('hideChat');
-						gfGlobal_LogGoogleEvent('Shopping Cart - Proactive Chat Test', 'Hidden','Proactive Chat Hidden');
-		            }
-					
-					
-    			    //Chat Event Tracking
-			        var gb_counter = 0;
-			        var gb_myInterval = setInterval(function () {
-			          ++gb_counter;
-			        }, 1000);
-    				
-			        var gb_hideChatWindow;
-			        var gb_eleProactiveChat;
-			        
-			        var gb_showChatWindow = self.setInterval(function(){
-			            gb_eleProactiveChat = $('#proactive-wrapper');
-				        if(gb_eleProactiveChat.length) {
-							gfGlobal_LogGoogleEvent('Proactive Chat', 'Shown','Proactive Chat Popup',gb_showChatWindow);
-    						
-					        gb_hideChatWindow = self.setInterval(function(){
-						        if( gb_eleProactiveChat.parent().css('visibility') == "hidden" ) {
-									gfGlobal_LogGoogleEvent('Proactive Chat', 'Timed Out','Proactive Chat Popup',gb_showChatWindow);
-							        window.clearInterval (gb_myInterval);
-						        }
-					        },500);
-    						
-    			
-			                $('.maybelater').click(function(event) {
-								gfGlobal_LogGoogleEvent('Proactive Chat', 'Clicked','Maybe Later',gb_hideChatWindow);
-			                    window.clearInterval (gb_myInterval);
-		                    });
-    						
-		                    $('.accept').click(function(event) {
-								gfGlobal_LogGoogleEvent('Proactive Chat', 'Clicked','Accept Chat',gb_hideChatWindow);
-			                    window.clearInterval (gb_myInterval);
-		                    });
-                            
-                            $('.close').click(function(event) {
-								gfGlobal_LogGoogleEvent('Proactive Chat', 'Clicked','Close',gb_hideChatWindow);
-			                    window.clearInterval (gb_myInterval);
-		                    });
-				        }
-			        },500);
-    				
-    				
-			        function logEvent(successText, IntervaltoClear){
-                        
-				        _gat._getTrackerByName('new')._trackEvent('Proactive Chat', successText, 'Time: ' + gb_counter + ' seconds');
-    					
-				        if(IntervaltoClear)window.clearInterval (IntervaltoClear);
-			        }
-					
+
 
 		        });
 	        </script>
@@ -153,7 +155,7 @@
             document.write('<s' + 'cript src="' + _vis_opt_protocol + 
             'dev.visualwebsiteoptimizer.com/deploy/js_visitor_settings.php?v=1&a='+_vis_opt_account_id+'&url='
             +encodeURIComponent(document.URL)+'&random='+Math.random()+'" type="text/javascript">' + '<\/s' + 'cript>');
-            </script><script src="https://dev.visualwebsiteoptimizer.com/deploy/js_visitor_settings.php?v=1&amp;a=21913&amp;url=https%3A%2F%2Fweb.archive.org%2Fweb%2F20130619003938id_%2Fhttp%253A%2F%2Fwww.lens.com%2Fcommon%2Ffaq%2Fprivacypolicy.asp&amp;random=0.057264916026722235" type="text/javascript"></script>
+            </script><script src="https://dev.visualwebsiteoptimizer.com/deploy/js_visitor_settings.php?v=1&amp;a=21913&amp;url=https%3A%2F%2Fweb.archive.org%2Fweb%2F20131027073514id_%2Fhttp%253A%2F%2Fwww.lens.com%2Fcommon%2Ffaq%2Fprivacypolicy.asp&amp;random=0.2766107919493903" type="text/javascript"></script>
 
             <script type="text/javascript">
             if(typeof(_vis_opt_settings_loaded) == "boolean") { document.write('<s' + 'cript src="' + _vis_opt_protocol + 
@@ -170,12 +172,9 @@
 
 		
         <script language="javascript" type="text/javascript">
-            
-            function MyChangeLocation(b,c){if(b.elements[c].options[b.elements[c].selectedIndex].value==""){return}var a=b.elements[c].options[b.elements[c].selectedIndex].value;window.location.href=a}function changeProduct(b,c){if(b.elements[c].options[b.elements[c].selectedIndex].value==""){return}var a="http://www.lens.com/common/products.a"+"sp?prodid="+b.elements[c].options[b.elements[c].selectedIndex].value;window.location.href=a}function changeDept(b,c){if(b.elements[c].options[b.elements[c].selectedIndex].value==""){return}if(b.elements[c].options[b.elements[c].selectedIndex].value=="99"){var a="http://www.lens.com/contact-lenses/halloween-contact-lenses.asp"}else{var a="http://www.lens.com/common/departments.asp?deptid="+b.elements[c].options[b.elements[c].selectedIndex].value}window.location.href=a};
-            $(document).ready(function () {
 
-                $(".toggle h4:odd").addClass("odd"); $(".toggle h4").prepend('<span class="icon">+</span>'); $(".toggle h4").append('<span class="close">close</span>'); $(".toggle h4.active").next().show(); $(".toggle h4:not(.toggle div h4)").toggle(function () { $d = $(this).hasClass("active"); if ($d == true) { $(this).next().slideUp("slow"); $(this).removeClass("active"); $(this).children(".icon").text("+") } else { $(this).next().slideDown("slow"); $(this).addClass("active"); $(this).children(".icon").text("-") } }, function () { $d = $(this).hasClass("active"); if ($d == true) { $(this).next().slideUp("slow"); $(this).removeClass("active"); $(this).children(".icon").text("+") } else { $(this).next().slideDown("slow"); $(this).addClass("active"); $(this).children(".icon").text("-") } }); $('.tooltip').each(function () { $tool = $(this); $tool.children('.tooltext').toggle(function () { $(this).next('.tip').slideDown(250); $(this).addClass('active'); }, function () { $(this).removeClass('active'); $(this).next('.tip').slideUp(750); }); $tool.children('.tip').children('.close').click(function () { $(this).parent().prev().click(); }); $('html').click(function () { $ac = $tool.children('.tooltext').hasClass('active'); if ($ac == true) { $('.tooltip').children('.tooltext').click(); } else { } }); $('.tooltip').click(function (event) { event.stopPropagation(); }); });
-
+            function MyChangeLocation(b, c) { if (b.elements[c].options[b.elements[c].selectedIndex].value == "") { return } var a = b.elements[c].options[b.elements[c].selectedIndex].value; window.location.href = a } function changeProduct(b, c) { if (b.elements[c].options[b.elements[c].selectedIndex].value == "") { return } var a = "http://www.lens.com/common/products.a" + "sp?prodid=" + b.elements[c].options[b.elements[c].selectedIndex].value; window.location.href = a } function changeDept(b, c) { if (b.elements[c].options[b.elements[c].selectedIndex].value == "") { return } if (b.elements[c].options[b.elements[c].selectedIndex].value == "99") { var a = "http://www.lens.com/contact-lenses/halloween-contact-lenses.asp" } else { var a = "http://www.lens.com/common/departments.asp?deptid=" + b.elements[c].options[b.elements[c].selectedIndex].value } window.location.href = a };
+            function gfTBegin_SetupFancyLinks() {
                 $(".fancy").click(function () {
                     var a = $(this).attr("data-height");
                     var b = $(this).attr("data-url");
@@ -184,8 +183,14 @@
                     var e = false; // Is it a modal input?
                     if (typeof d !== "undefined" && $.ajax({ url: "/PublicCommon/AJAX/BasketItemCheck.asp?bi_id=" + escape(d), async: false }).responseText == "no") { e = true } if (a == null) { a = "auto" } else { a = parseInt(a) } if (c == null) { c = 820 } else { c = parseInt(c) } if (b == null) { b = this.href } else { b = b } $.fancybox({ autoDimensions: false, width: c, height: a, href: b, titleShow: false, transitionIn: "none", speedin: 500, transitionOut: "none", overlayColor: "#000", overlayOpacity: 0.6, centerOnScroll: true, modal: e }); return false
                 }); $(".fancybadges, .fancyframe").click(function () { var c = $(this).attr("data-width"); var a = $(this).attr("data-height"); var b = $(this).attr("data-url"); if (a == null) { a = 550 } else { a = parseInt(a) } if (c == null) { c = 820 } else { c = parseInt(c) } if (b == null) { b = this.href } else { b = b } $.fancybox({ type: "iframe", autoDimensions: false, width: c, height: a, href: b, titleShow: false, transitionIn: "none", speedin: 500, transitionOut: "none", overlayColor: "#000", overlayOpacity: 0.6, centerOnScroll: true }); return false });
+            }
+            $(document).ready(function () {
 
-                function slideOut() { $(this).animate({ left: 249 }, 750) } function slideIn() { $(this).animate({ left: 0 }, 750) } $("#chatslide").hoverIntent({ over: slideOut, timeout: 2000, out: slideIn }); $("#chatslide .clickhere").click(function () { $(this).prev("#lpchatbutton").children().children().click() }); $("#chatslide .close").click(function () { $(this).parent().animate({ left: 0 }, 750) });
+                $(".toggle h4:odd").addClass("odd"); $(".toggle h4").prepend('<span class="icon">+</span>'); $(".toggle h4").append('<span class="close">close</span>'); $(".toggle h4.active").next().show(); $(".toggle h4:not(.toggle div h4)").toggle(function () { $d = $(this).hasClass("active"); if ($d == true) { $(this).next().slideUp("slow"); $(this).removeClass("active"); $(this).children(".icon").text("+") } else { $(this).next().slideDown("slow"); $(this).addClass("active"); $(this).children(".icon").text("-") } }, function () { $d = $(this).hasClass("active"); if ($d == true) { $(this).next().slideUp("slow"); $(this).removeClass("active"); $(this).children(".icon").text("+") } else { $(this).next().slideDown("slow"); $(this).addClass("active"); $(this).children(".icon").text("-") } }); $('.tooltip').each(function () { $tool = $(this); $tool.children('.tooltext').toggle(function () { $(this).next('.tip').slideDown(250); $(this).addClass('active'); }, function () { $(this).removeClass('active'); $(this).next('.tip').slideUp(750); }); $tool.children('.tip').children('.close').click(function () { $(this).parent().prev().click(); }); $('html').click(function () { $ac = $tool.children('.tooltext').hasClass('active'); if ($ac == true) { $('.tooltip').children('.tooltext').click(); } else { } }); $('.tooltip').click(function (event) { event.stopPropagation(); }); });
+
+                gfTBegin_SetupFancyLinks();
+
+                function slideOut() { $(this).animate({ left: 249 }, 750); gfGlobal_LogGoogleEvent('Chat Tab', 'Hover','Tab Interaction'); } function slideIn() { $(this).animate({ left: 0 }, 750) } $("#chatslide").hoverIntent({ over: slideOut, timeout: 2000, out: slideIn }); $("#chatslide .clickhere").click(function () { $(this).prev("#lpchatbutton").children().children().click() }); $("#chatslide .close").click(function () { $(this).parent().animate({ left: 0 }, 750) });
 
             });
 		    	
@@ -197,10 +202,15 @@
         </script>
         
 		<script type="text/javascript" id="livepersonscript" src="/PublicCommon/include/js/lp/mtagconfig.js"></script>
+        
+        
 	<script type="text/javascript" charset="iso-8859-1" src="https://server.iad.liveperson.net/hcp/html/mTag.js?site=39316237"></script></head>
 	
 	
     <body>
+        <div id="bizrate" style="display:none;">
+			<img src="/siteimages/badges/bizrate-badge.png" alt="Bizrate Circle of Excellence 2013 Platinum">
+		</div>
 	
         <script type="text/javascript">
             // Variables submission using lpAddVars
@@ -220,7 +230,7 @@
 		</div>
         <!-- End LP Button Div-->
 
-	    
+        
     <script type="text/javascript" language="javascript">
         
     </script>
@@ -242,17 +252,17 @@
 					<h2 id="logo"><a href="http://www.lens.com/" title="contact lenses">contact lenses</a></h2>
 				
 				
-				<!-- <div class="ad">
-					<a href="http://www.lens.com/contact-lenses/halloween-contact-lenses.asp" title="Halloween Contact Lenses"><img src="/images/buttons/btn.halloween.gif" alt="Halloween Contact Lenses" /></a>
+				<div class="ad">
+					<a href="http://www.lens.com/contact-lenses/halloween-contact-lenses.asp" title="Halloween Contact Lenses"><img src="/images/buttons/btn.halloween.gif" alt="Halloween Contact Lenses"></a>
 					<div class="clearfix"></div>
-				</div> -->
+				</div>
 				
 				<div id="supernav">
 					<ul>
 					
                             <li class="login"><a href="https://www.lens.com/common/secure/login.asp" title="Login To My Account">Login To My Account</a></li>
                         
-						<li class="viewcart"><a href="https://www.lens.com/common/secure/mainbasket.asp" title="View Cart">View Cart<span class="numberitems"><img src="/siteimages/wide/newheader/cart-ico.png" alt="cart"> (0)</span></a></li>
+						<li class="viewcart"><a href="https://www.lens.com/common/secure/mainbasket.asp" title="View Cart">View Cart<span class="numberitems"><img src="/siteimages/wide/newheader/cart-ico.png" alt="cart"> (<span class="cartitemcount">0</span>)</span></a></li>
 					</ul>
 				</div>
 				
@@ -294,7 +304,9 @@
 <div id="faqid808" class="faqdetails">
 	<div id="breadcrumbs">
 		<a href="http://www.lens.com/common/faq.asp" title="Frequently Asked Questions">Frequently Asked Questions</a> &gt; 
-		<a href="http://www.lens.com/common/faq/corppolicy.asp" title="Corporate Policies">Corporate Policies</a> &gt; 
+		
+		    <a href="http://www.lens.com/common/faq/corppolicy.asp" title="Corporate Policies">Corporate Policies</a> &gt; 
+		
 		<strong>Privacy Policy</strong>
 	</div>
 	
@@ -367,24 +379,13 @@ please contact Lens.com by sending an e-mail.</p>
 					<div class="clearfix"></div>
 				</li>						
 				<li class="hasslefree">
-					<div class="hide">
-						<span class="fancy" data-url="/common/pop_hassleFreeReturns.asp?mode=static&amp;faq=808" data-height="380" data-width="745" rel="nofollow">
-						<img class="moneyback" src="/siteimages/badges/hassle-free-100x100.png" width="70px" height="70px">
-						</span>
-					
-						<p>Need to send back contact lenses? No problem, no hassles. Just give us a call.
-						<span class="fancy text" data-url="/common/pop_hassleFreeReturns.asp?mode=static&amp;faq=808" data-height="380" data-width="745" rel="nofollow">Complete Details<img class="icon" src="/siteimages/icons/ico.popup.gif" width="12px" height="11px" alt="popup"></span></p>
-						<div class="clearfix"></div>
-					</div>
-					<div class="fr">
-						<span class="fancy fr" data-url="/common/pop_FreeReturns.asp?mode=static&amp;faq=808" data-height="370" data-width="840" rel="nofollow">
-						<img class="moneyback" src="/siteimages/badges/free-returns-100x100.png" width="70px" height="70px">
-						</span>
-					
-						<p>Returning contact lenses is FREE and easy.  Simply give us a call and we'll take care of you.<br>
-						<span class="fancy text" data-url="/common/pop_FreeReturns.asp?mode=static&amp;faq=808" data-height="370" data-width="840" rel="nofollow">Complete Details<img class="icon" src="/siteimages/icons/ico.popup.gif" width="12px" height="11px" alt="popup"></span></p>
-						<div class="clearfix"></div>
-					</div>
+					<span class="fancy" data-url="/common/pop_hassleFreeReturns.asp?mode=static&amp;faq=808" data-height="380" data-width="745" rel="nofollow">
+					<img class="moneyback" src="/siteimages/badges/hassle-free-100x100.png" width="70px" height="70px">
+					</span>
+				
+					<p>Need to send back contact lenses? No problem, no hassles. Just give us a call.
+					<span class="fancy text" data-url="/common/pop_hassleFreeReturns.asp?mode=static&amp;faq=808" data-height="380" data-width="745" rel="nofollow">Complete Details<img class="icon" src="/siteimages/icons/ico.popup.gif" width="12px" height="11px" alt="popup"></span></p>
+					<div class="clearfix"></div>
 				</li>
 				<li>
 					<h4>Shop with Confidence</h4>
@@ -395,7 +396,7 @@ please contact Lens.com by sending an e-mail.</p>
 				</li>
 				<li>
 					<span class="fancybadges" data-url="https://www.scanalert.com/RatingVerify?ref=www.lens.com" rel="nofollow">
-					<img align="left" oncontextmenu="alert('Copying Prohibited by Law - HACKER SAFE is a Trademark of ScanAlert'); return false;" alt="HACKER SAFE certified sites prevent over 99.9% of hacker crime." src="//images.scanalert.com/meter/www.lens.com/13.gif" border="0"></span>
+					<img align="left" oncontextmenu="alert('Copying Prohibited by Law - HACKER SAFE is a Trademark of ScanAlert'); return false;" alt="HACKER SAFE certified sites prevent over 99.9% of hacker crime." src="//images.scanalert.com/meter/www.lens.com/13.gif?u=10%2F27%2F2013+3%3A35%3A12+AM" border="0"></span>
 					<p>We guard your information with the highest level of security tested daily.</p>
 					<div class="clearfix"></div>
 				</li>
@@ -495,7 +496,7 @@ please contact Lens.com by sending an e-mail.</p>
 <li><a href="http://www.lens.com/contact-lenses/department96.asp" title="Daily Disposable">Daily Disposable</a></li>
 <li><a href="http://www.lens.com/contact-lenses/department97.asp" title="Gas Permeable">Gas Permeable</a></li>
 <li><a href="http://www.lens.com/contact-lenses/department98.asp" title="Monthly Disposable">Monthly Disposable</a></li>
-<li><a href="http://www.lens.com/contact-lenses/halloween-contact-lenses.asp" title="Novelty Lenses">Novelty Lenses</a></li>
+<li><a href="http://www.lens.com/contact-lenses/halloween-contact-lenses.asp" title="Halloween Contact Lenses">Halloween Contact Lenses</a></li>
 <li><a href="http://www.lens.com/contact-lenses/department1249.asp" title="Silicone Hydrogel">Silicone Hydrogel</a></li>
 <li><a href="http://www.lens.com/contact-lenses/department102.asp" title="Store Brands">Store Brands</a></li>
 <li><a href="http://www.lens.com/contact-lenses/department100.asp" title="Toric Lenses">Toric Lenses</a></li>
@@ -517,6 +518,7 @@ please contact Lens.com by sending an e-mail.</p>
 <li><a href="http://www.lens.com/contact-lenses/department88.asp" title="CooperVision">CooperVision</a></li>
 <li><a href="http://www.lens.com/contact-lenses/department1235.asp" title="Hydrogel Vision Corp.">Hydrogel Vision Corp.</a></li>
 <li><a href="http://www.lens.com/contact-lenses/department89.asp" title="Johnson &amp; Johnson">Johnson &amp; Johnson</a></li>
+<li><a href="http://www.lens.com/contact-lenses/department1319.asp" title="Lombart">Lombart</a></li>
 <li><a href="http://www.lens.com/contact-lenses/department90.asp" title="Ocular Sciences">Ocular Sciences</a></li>
 <li><a href="http://www.lens.com/contact-lenses/department92.asp" title="Wesley Jessen ">Wesley Jessen </a></li>
 
@@ -668,9 +670,10 @@ please contact Lens.com by sending an e-mail.</p>
 <li><a href="http://www.lens.com/contact-lenses/lens392.asp" title="SofLens 38 (Optima FW)">SofLens 38 (Optima FW)</a></li>
 <li><a href="http://www.lens.com/contact-lenses/lens323.asp" title="SofLens 59">SofLens 59</a></li>
 <li><a href="http://www.lens.com/contact-lenses/lens550.asp" title="SofLens Daily Disposable 90PK">SofLens Daily Disposable 90PK</a></li>
+<li><a href="http://www.lens.com/contact-lenses/lens886.asp" title="Soflens Daily Disposable for Astigmatism">Soflens Daily Disposable for Astigmatism</a></li>
 <li><a href="http://www.lens.com/contact-lenses/lens126.asp" title="SofLens MultiFocal">SofLens MultiFocal</a></li>
 <li><a href="http://www.lens.com/contact-lenses/lens127.asp" title="SofLens Toric (SofLens 66 Toric)">SofLens Toric (SofLens 66 Toric)</a></li>
-<li><a href="http://www.lens.com/contact-lenses/lens154.asp" title="Softcon EW">Softcon EW</a></li>
+<li><a href="http://www.lens.com/contact-lenses/lens154.asp" title="Softcon EW 2">Softcon EW 2</a></li>
 <li><a href="http://www.lens.com/contact-lenses/lens563.asp" title="Sterling 38">Sterling 38</a></li>
 <li><a href="http://www.lens.com/contact-lenses/lens211.asp" title="Trans-aire">Trans-aire</a></li>
 <li><a href="http://www.lens.com/contact-lenses/lens390.asp" title="Vertex Sphere (Encore Sphere)">Vertex Sphere (Encore Sphere)</a></li>
