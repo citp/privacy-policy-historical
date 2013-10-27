@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moneyexpert.com privacy policy that was archived on 2013-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130508081956id_/http%3A//www.moneyexpert.com/information/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moneyexpert.com privacy policy that was archived on 2013-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131027093750id_/http%3A//www.moneyexpert.com/information/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
