@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jobs.af privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603081804id_/http%3A//www.jobs.af/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobs.af privacy policy that was archived on 2013-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131027023707id_/http%3A//www.jobs.af/privacy) for the most accurate reproduction.*
 
 # Jobs.af Privacy Policy - Jobs.af
 
