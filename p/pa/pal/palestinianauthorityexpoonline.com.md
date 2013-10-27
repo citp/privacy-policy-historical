@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the palestinianauthorityexpoonline.com privacy policy that was archived on 2013-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130629133705id_/http%3A//palestinianauthorityexpoonline.com/2012-03-27-06-48-54) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the palestinianauthorityexpoonline.com privacy policy that was archived on 2013-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131027100937id_/http%3A//www.palestinianauthorityexpoonline.com/2012-03-27-06-48-54) for the most accurate reproduction.*
 
 # Privacy Policy Overview
 
