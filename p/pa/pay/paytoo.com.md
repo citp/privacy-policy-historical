@@ -1,81 +1,52 @@
-> *The following text is extracted and transformed from the paytoo.com privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530162223id_/http%3A//paytoo.com/content/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paytoo.com privacy policy that was archived on 2013-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131027165712id_/http%3A//www.paytoo.com/content/privacy-policy) for the most accurate reproduction.*
 
 # Paytoo - Privacy Policy
 
-Thank you for visiting our website. Please read this Privacy Policy before using our website, submitting any personal data, or becoming a customer. By using this website or our services you agree to these terms. 
-
+Thank you for visiting the PayToo Website. It is important to read this privacy policy before submitting any personal data or becoming a User. By using this Website or our services you agree to these terms.  
 PayToo is committed to respecting and protecting your privacy. We value your trust and want you to understand how we protect, collect, use and disclose the personal information you share with us.
 
-**Why and What we collect:**
+**We collect:**  
+Personal information for the following purposes:  
+·  To facilitate the provision of the products and services you request from us including verification of your identity;  
+·  To provide information on our products that may be of interest to you and allow PayToo and its  subsidiaries and affiliates to provide you with information as well; and  
+·  To comply with the law.  
+By choosing to order products or services from PayToo, you will need to provide us with certain personal and identification confirmation information.  Such required information from you includes your name, the actual physical current address where you reside and/or at which you conduct your business, your valid e-mail address, your working telephone number, your date of birth, your driver's license and/or passport, together with other photographic identification as requested from time to time by PayToo. PayToo may also obtain information about your transactions with PayToo and/or subsidiaries and/or affiliates along with any other information for payment purposes or to comply with legal requirements.  
+Federal law requires PayToo to obtain, verify, and record information in order to confirm your identity. The information is provided by you and the results of the verification process will be retained by PayToo.  
+We limit the personal information to what is required to execute transactions and to meet the purposes set out in this privacy policy.
 
-We ask you for your personal information for the following purposes:
+**How we use it**  
+PayToo uses personal information to create accounts, complete transactions, administer problems that may arise, keep records, manage our relationship, assure good service, administer business records, and directly market purposes associated with PayToo products and services.   Unless you inform us that you do not wish to receive it; for market research; to manage, administer, collect or otherwise enforce accounts; to maintain business records for reasonable periods; to meet legal, regulatory, insurance, security and processing requirements; to prevent fraud and abuse and other actual and potential prohibited or illegal activities, and otherwise with consent or as permitted or required by law. As permitted by applicable law, we may collect, share and merge personal information with public information or other information received from reputable vendors, to update contact information.
 
-·  To facilitate the provision of the products and services you request from us including verification of your identity;
+**T** **hird Party Access**  
+Disclosures permitted or required by law include cooperation with criminal or government investigations, fraud prevention and detection, and responses to a court order or subpoena. If fraud is suspected in your money transfer, PayToo will share your money transfer information with relevant national, state and local law enforcement authorities in The United States of America and other countries, which may further share the information. In limited situations, our agents and/or affiliates may use information about you to offer products and services to you in compliance with their respective privacy policies. PayToo affiliates and agents are bound by appropriate data safeguarding obligations. Our agents and affiliates are located across the globe, where they may be subject to required legal disclosure of collected personal information to various governmental authorities.  
+PayToo may disclose some or all personal information to service providers for processing requested transactions or performing business support functions on our behalf.  Our agreements with service providers who may be located outside of the U.S.A. contain confidentiality provisions and restrictions on using this information for any other purposes.  
+If PayToo becomes involved in a proposed or actual merger, acquisition or any form of sale of some or all its assets, PayToo may use and disclose personal information to third parties in connection with the evaluation of the transaction. The surviving company would have access to personal information, which would continue to be subject to this privacy statement.
 
-·  To provide you with information and offers on our products and services, that we believe may be of interest to you, and in certain circumstances to allow PayToo group companies (that is, PayToo Corp subsidiaries and affiliates) to provide you with information about their own products or services; and
-
-·  To comply with the law.
-
-If you choose to order products or services from us, you will have to provide us with certain information, including personal information such as: your name, mailing and/or e-mail address, telephone number, date of birth, Driver's License or passport and/or other photographic identification. We may also obtain information about your transactions with us and/or our group companies and other information for payment purposes or to comply with legal requirements.
-
-Federal law requires us to obtain, verify and record information in order to confirm your identity. This information will include your name, address, date of birth and any other information required in order to complete the verification process. The information provided by you and the results of the verification process will be retained by PayToo Corp.
-
-We limit the personal information we collect to only that which is required to execute transactions, provide you with information about our products and services, and to meet the purposes set out in this Privacy Policy.
-
-**How we use it**
-
-We use personal information to create an account for you, to complete your transactions; to administer any problems that may arise in effecting the transactions; to keep our records up to date; to better understand and manage our ongoing relationship with you; to assure good service; to manage and administer our business and records; to administer and manage your account; for direct marketing purposes associated with PayToo products and services, unless you tell us that you would not like to receive it; for market research; to manage, administer, collect or otherwise enforce accounts; to maintain business records for reasonable periods; to meet legal, regulatory, insurance, security and processing requirements; to prevent fraud and abuse and other actual and potential prohibited or illegal activities, and otherwise with consent or as permitted or required by law. As permitted by applicable law, we may merge personal information with public information or other information received from reputable vendors, to update contact information.
-
-**Who we share it with**
-
-We may share all of the information, as described above, with our affiliates and/or our agents to assist us in our business activities for the uses described in **"How we use it"** , and for other purposes as permitted or required by applicable law. Disclosures permitted or required by law include cooperation with criminal or government investigations, fraud prevention and detection, and responses to a court order or subpoena. If fraud is suspected in your money transfer, PayToo will share your money transfer information with relevant national, state and local law enforcement in the US and other countries, which may further share the information. In limited situations, our agents and/or affiliates may use information about you to offer products and services to you in compliance with their privacy policy. PayToo affiliates and agents are bound by appropriate data safeguarding obligations. Our agents and affiliates are located across the globe, where they may be subject to required legal disclosure of collected personal information to governmental authorities.
-
-PayToo may disclose some or all of the personal information to service providers for the purposes of processing requested transactions or to perform business support functions on our behalf including marketing and similar services. Our agreements with these service providers, who may be located outside of the US, contain confidentiality provisions and restrictions on using this information for any other purposes.
-
-If PayToo becomes involved in a proposed or actual merger, acquisition or any form of sale of some or all its assets, we may use and disclose personal information to third parties in connection with the evaluation of the transaction. The surviving company would have access to personal information, which would continue to be subject to this privacy statement.
-
-**Data Security**
-
-PayToo uses physical, electronic and procedural security measures to protect against loss, misuse, and alteration of personal information under our control. PayToo uses industry–standard practices and security measures to safeguard such information.
-
+**Data Security**  
+PayToo uses physical, electronic, and procedural security measures to protect against loss, misuse, and alteration of personal information under our control. PayToo uses industry–standard practices and security measures to safeguard such information.  
 Access to personal information is restricted to employees, service providers and mandatories who need to have access to that information as described in this privacy statement. Our service providers are required to observe standards for the security, collection, uses and sharing of personal information, and to comply with applicable law.
 
-**Keeping Your Personal Information Accurate**
+**Keeping Your Personal Information Accurate**  
+PayToo takes reasonable steps to maintain the accuracy of your personal information for as long as it is being used for the purposes set out in this Privacy Policy, and you play an active role in keeping us up-to-date. Prompt notification of any changes, for example to your current physical residence and/or business mailing address, telephone number(s) and email address(es), will help us provide you with the best possible service. If you discover, upon review of your personal information, that amendments are required, please advise us. We will use our best efforts to advise others of any important amendments to your personal information, which we may have released to them.  
+This updating of your personal contact information can usually be done at the PayToo User information page or by emailing our PayToo User Support at: [compliance@paytoo.com](mailto:compliance@paytoo.com) .
 
-We take reasonable steps to maintain the accuracy of your personal information for as long as it is being used for the purposes set out in this Privacy Policy, and you play an active role in keeping us up-to-date. Prompt notification of any changes, for example to your mailing address or telephone number, will help us provide you with the best possible service. Should you discover, upon review of your personal information, that amendments are required, please advise us. We will use our best efforts to advice others of any important amendments to your personal information, which we may have released to them.
+**Retention**  
+We keep personal information for as long we need it to meet the purposes set out in this privacy policy. The length of time we retain your personal information is also affected by: (1) the type of product or service you have with us; and (2) any legal requirements we may have to meet.
 
-This can usually be done at the [member information page] or by emailing our Customer Support at:
+**Website Privacy Policy**  
+This privacy policy governs any dealings you enter into with us on the Internet. We consider any information we collect through the Internet to be personal information, and therefore only use such information in accordance with this privacy policy.  
+On PayToo Website, we may collect information about your computer, Internet Protocol (“IP”) address(es), operating system(s), and browser type(s) for system administration and to report aggregate information to our advertisers. This is statistical data about our Users' browsing actions and patterns and does not identify the individual.  
+We may also obtain usage information using a "cookie" file. Cookies are small pieces of information that are stored on your computer's hard drive by your browser. They help us improve the Website and make it possible to identify preferences. PayToo's computer server will recognize the cookie, giving us information about your previous visits. Most browsers are originally configured to accept cookies automatically.  
+You may refuse to accept cookies by activating the setting on your browser, which allows you to refuse the setting of cookies. If not configured or if altered you may not be able to use the Website. Unless your browser setting refuses cookies our system will issue cookies when you log on to the Website.
 
-[compliance@paytoo.com](mailto:compliance@paytoo.com)
-
-**Retention**
-
-We only keep your personal information for as long as and to the extent that we need it to meet the purposes set out in this Privacy Policy. The length of time we retain your personal information is also affected by: (1) the type of product or service you have with us; and (2) any legal requirements we may have to meet.
-
-**Website Privacy Policy**
-
-This Privacy Policy governs any dealings you enter into with us on the Internet. We consider any information we collect through the Internet to be personal information, and therefore only use such information in accordance with this Privacy Policy.
-
-On our Website, we may collect information about your computer, including where available, your IP address and operating system and browser type, for system administration and to report aggregate information to our advertisers. This is statistical data about our users' browsing actions and patterns, and does not identify you as an individual.
-
-For the same reason, we may obtain information about your general Internet usage by using a "cookie" file. Cookies are small pieces of information that are stored on your computer's hard drive by your browser. They help us improve the Website and make it possible for PayToo to identify some of your preferences. On revisiting the Website, PayToo's computer server will recognize the cookie, giving us information about your previous visits. Most browsers are originally configured to accept cookies automatically.
-
-You may refuse to accept cookies by activating the setting on your browser, which allows you to refuse the setting of cookies. However, if not configured or if you alter your browser to disable the acceptance of cookies, you may not be able to use the Website. Unless you have adjusted your browser setting so that it will refuse cookies, our system will issue cookies when you log on to the Website.
-
-**Change of Privacy Policy and Feedback**
-
-Any changes we make to our Privacy Policy in the future will be posted on this page. Please do check our Privacy Policy from time to time to take notice of any changes made. By using the Website and/or any service offered on the Website or by placing orders after we have changed these terms, you will be accepting these changes.
-
-If users have any questions or suggestions regarding our privacy policy, please contact us at: 
-
-PayToo Corp, Supplies & Technical Support  
+**Feedback**  
+Any changes made to the privacy policy will be posted on this page. By using our Website and/or any service offered you are accepting these changes.  
+Any questions or suggestions can be directed to:  
+PayToo Corp., Supplies & Technical Support  
 24-Hour Tech Support  
-1 (888) 363-1895
+Telephone: 1 (888) 363-1895  
+Email: [help@paytoo.com](mailto:help@paytoo.com)
 
-Email: [clients@paytoomobile.com](mailto:%20clients@paytoomobile.com)
+This Privacy Policy was last updated the September 12, 2013.
 
-**Governing Laws**
-
-Florida Laws, Broward or the appropriate laws where the providing company will be registered will govern this agreement and your use of the service. You agree to submit any dispute arising out of your use of this website to the exclusive jurisdiction of the public courts of the US, Switzerland or UK. 
-
-This Privacy Policy was last updated the June 25, 2012. 
+Copyrighted work of PAYTOO CORP. © 2005-2013 all rights reserved.
