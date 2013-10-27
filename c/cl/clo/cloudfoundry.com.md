@@ -1,111 +1,143 @@
-> *The following text is extracted and transformed from the cloudfoundry.com privacy policy that was archived on 2013-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130628173552id_/http%3A//www.vmware.com/help/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cloudfoundry.com privacy policy that was archived on 2013-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131028004115id_/http%3A//www.gopivotal.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | GoPivotal
 
-Effective Date: May 21, 2013
+## Go Pivotal Inc. Privacy Statement
 
-* * *
+##### Last Updated on July 31, 2013
 
-**General Information**
+##### General Information
 
-VMware respects the privacy of our customers, business partners and other visitors to our websites. We recognize the need for appropriate protections and management of your personal information that you provide to us. VMware has therefore established this Privacy Statement to assist you to understand what personal information we collect and how that personal information is used. This Privacy Statement applies to data collected by VMware Inc. and VMware Global ("VMware") through the vmware.com website, the My VMware mobile application, and other webpages which we operate and in which we post a direct link to this statement.
+This Privacy Statement explains what types of information GoPivotal Inc. (“Pivotal” “we,” “us,”) or our service providers may collect from or about visitors to our websites or applications (“you”), and describes our practices for collecting, using, retaining, protecting, disclosing, and transferring such information. 
 
-* * *
+##### Scope
 
-**EU-US Safe Harbor**
+This Privacy Statement applies to personal information and other information collected by Pivotal or its service providers from or about visitors to our websites or applications (collectively, “websites”) that display or link to this Privacy Statement. Unless otherwise specified below, this Privacy Statement does not apply to any other products or services or to information collected in any other way (whether online or offline) or for any other purpose. Information we may process about clients of our customers is addressed separately in the section below entitled "Personal Information of our Customers’ Clients."
 
-* * *
+##### What Personal and Other Information Does Pivotal Collect?
 
-**What personal information does VMware collect?**
+Pivotal or our service providers may collect personal information and other information from or about you when you:
 
-On VMware web sites you can order products or services, register products, request information, subscribe to marketing or support materials, register to a secure extranet site to obtain access to product information, support, services and training, or apply for jobs at VMware. VMware may collect information about individuals such as their name, address, telephone number or email address, user IDs and passwords, billing and transaction information, credit card or other financial information and contact preferences. Personal information collected online may be supplemented with information you provide to VMware through other VMware services, as well as other sources such as trade shows or seminars, and other data appending methods such as spot tags, tracking and cookies as referenced below.
+  * use our websites to order products or services, 
+  * register products, 
+  * request information, 
+  * subscribe to marketing or support materials, 
+  * download software, 
+  * enter a contest, 
+  * respond to promotional campaigns, or
+  * register to a secure extranet site to obtain access to product information, support, services, and training.
 
-* * *
 
-**How does VMware use personal information?**
 
-VMware will use personal information to provide customers, business partners and website visitors with information and services and to help us better understand your needs and interests. Specifically, we use your information to help you complete a transaction or order, to communicate with you, to deliver products/services to you, to bill you for products/services you purchased, and to provide ongoing service and support. We may also pass on your information to a third party, such as a partner, if you have asked us to do so. Occasionally we may use your information to contact you to complete surveys that we use for marketing and quality assurance purposes.
+For purposes of this Privacy Statement, “personal information” means information that can be used to personally identify you, such as your name, address, telephone number, e-mail address, user IDs and passwords, billing and transaction information, credit card or other financial information, contact preferences, and similar information.
 
-* * *
+We also may collect information that is related to you but that does not personally identify you, such as your computer’s operating system, browser, and your use of and activities on our websites. See also the discussion below of cookies and other electronic tools used for the collection of such information.
 
-**With whom does VMware share personal information?**
+##### How Does Pivotal Use Your Information?
 
-VMware contracts with third party service providers and suppliers (including distributors and resellers) to deliver certain products, services and customer solutions. VMware may share personal information with its service providers and suppliers to the extent needed to deliver the service or respond to requests for information on products or services or otherwise support the customers' business needs. Third party service providers and suppliers receiving personal information are expected to apply the same level of privacy protection as contained in this Privacy Statement. They are required to keep confidential the personal information received from VMware and may not use it for any purpose other than as originally intended.
+Pivotal or our service providers may use information that we or our service providers collect from or about you, including any personal information:
 
-Some VMware services may be co-branded and offered in conjunction with another company. If you register for or use such services, both VMware and the other company may receive information collected in conjunction with the co-branded services.
+  * to welcome you, 
+  * to help you complete a transaction or in order to deliver products or services requested by you,
+  * to bill you for products or services you purchased, 
+  * to provide ongoing service and support,
+  * to carry out our obligations and enforce our rights arising from any contracts entered into between you and us,
+  * to notify you about changes to our website or any products or services we offer or provide through it, 
+  * to improve our websites, services, and products,
+  * to contact you to complete surveys that we use for marketing or quality assurance purposes, 
+  * to e-mail or otherwise send you marketing or other promotional information about Pivotal products or services that may be of interest to you,
+  * to fulfill any other purpose for which you provide it,
+  * in any other way we may describe when you provide the information,
+  * to combat fraud or any other criminal activity, 
+  * as otherwise required or permitted by law, and/or
+  * for any other purpose with your consent.
 
-Except as described in this Privacy Statement, VMware is not in the business of selling or renting your information to others and will not share personally identifiable information with other third parties without your permission, unless required by, or in connection with, law enforcement action, subpoena or other litigation, or applicable law or in connection with a prospective or actual sale, merger, transfer or other reorganization of all or parts of our business, or within the group of affiliated VMware companies, if and to the extent legally permissible.
 
-We reserve the right to fully use and disclose any information that is not in personally identifiable form.
 
-* * *
+To assist us with the uses described in this Privacy Statement, information we or our service providers have collected from or about you through our websites, including about your use of such sites, may be combined with or enhanced by other information from or about you that we have obtained from other online or offline sources, including from our service providers or business partners.
 
-**Communication Preferences**
+Our websites may provide online newsgroups, chat forums, and blogs for our users. Any information that you disclose in these forums becomes public information, which could be read, collected, or used by other users to send you unsolicited messages. You should exercise caution when deciding to disclose your personal information. Our websites may also provide for "Live Chat" functionality, wherein Pivotal personnel can monitor the user's areas of interest in the website and engage in instant messaging with the user to provide additional information or answer any questions. By posting in our newsgroups and using "Live Chat," you explicitly consent to these uses of your information. We are not responsible for the personal information you choose to submit in these forums. For testimonials, we provide a choice as to whether a user posts his or her personal information along with the testimonial. See also the next section for an explanation of how Pivotal uses cookies, web beacons, and other electronic tools to collect other information about you for advertising and other purposes.
 
-* * *
+##### Collection of Information Using Cookies and Other Tools for Online Advertising
 
-**Access**
+Pivotal may collect and/or log your Internet Protocol address, Internet domain name, the web browser and operating system used to access our websites, the files visited, the time spent in each file, and the time and date of each visit. Pivotal may collect this information automatically as you browse our websites through the use of log files and web beacons. Pivotal may also use cookies to automatically collect information about your use of our websites. Cookies are text files that are sent from a website or application via your browser and placed on your computer's hard drive or your mobile device. Thereafter, when you visit that website or application, a message is sent back to the web server by the browser accessing the website or application, and this information about your activities is stored in the cookie. The information collected in cookies (e.g., the web pages you visit on the website and navigation patterns, the date and time of your visit, the number of links you click within the site, the functions you use on the site, the databases you view and the searches you request on the site, the data you save on, or download from, the site, and the third-party websites you visited immediately before and after visiting the websites, and when you open our e-mails or click on any of their links) may be used and analyzed to improve our service to you and to personalize your web-browsing experience by providing Pivotal with a better understanding of your interests and requirements regarding our websites. Cookies may be linked to your personal information, such as your e-mail address or password. We may also use cookies and other electronic tools placed by a third-party service provider to measure the effectiveness of our advertising and other information and help us understand what product information is of most interest to our customers and what kinds of advertising offers our customers like to see. Although the service provider logs the information coming from our websites on our behalf, Pivotal controls how that data may and may not be used. If you do not want to assist www.gopivotal.com in improving our products, offers, and marketing strategy, you can opt out of this website analysis tool by clicking here to install this plug-in <https://tools.google.com/dlpage/gaoptout>[>](https://tools.google.com/dlpage/gaoptout). You may also elect not to accept cookies by changing the designated settings on your web or mobile browser. Or you can set your browser to notify you when you are being sent a cookie, giving you the chance to decide whether or not to accept it. Likewise, most mobile devices allow you to disable the ability for geo-location information to be collected from your mobile device. The help function on most browsers and mobile devices contains instructions on how to set your browser to notify you before accepting cookies, disable cookies entirely, or disable the collection of geo-location data. However, disabling cookies in either manner may prevent you from using certain functions and features of websites, and the advertising you receive when you visit the site may not be advertisements tailored to your interests. 
 
-If you would like to request access to personal information that we may have collected from you (possibly subject to handling fees), please contact [privacy@vmware.com](mailto:privacy@vmware.com). To protect your privacy and security, we may take steps to verify your identity, such as a password and user ID, before granting access to data.
+##### With Whom Does Pivotal Share Your Information?
 
-We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us at [privacy@vmware.com](mailto:privacy@vmware.com). We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
+We may disclose information that does not identify any individual (e.g., anonymous, aggregated data) without restriction. Pivotal contracts with third-party service providers and suppliers (including distributors and resellers) to deliver certain products, services, and customer solutions. Examples of such services provided on our behalf are mail delivery, website hosting, transaction processing, and event planning. Pivotal may share your personal information with its service providers and suppliers to the extent necessary to deliver the product or service you requested, respond to your requests for information on products or services, or otherwise support your business needs. You will not have the opportunity to opt out of having your information shared with these third-party service providers and suppliers for these purposes, and they may contact you directly regarding such purposes.
 
-* * *
+Third-party service providers and suppliers receiving personal information are authorized to use your personal information only for the purpose it was originally intended or as required or permitted by law. However, unless otherwise dictated by law or agreement, Pivotal is not responsible for any improper use by such parties.
 
-**Security of Personal Information**
+We may also disclose your personal information and other information, including across country borders: 
 
-VMware is committed to taking reasonable efforts to secure the personal data you choose to provide us. To protect the privacy of any personal information you may have provided, VMware employs industry-standard controls including physical access controls, encryption, Internet firewalls, intrusion detection, and network monitoring. In addition, access to confidential information is limited to those individuals and agents having a need to know.
+  * to our subsidiaries, affiliates, and worldwide offices,
+  * to comply with the law or in response to a subpoena, court order, law enforcement or government request, or other legal process,
+  * to produce relevant documents or information in connection with litigation, arbitration, mediation, adjudication, government or internal investigations, or other legal or administrative proceedings,
+  * if Pivotal determines in its good faith judgment that such disclosure is necessary to provide its services or to protect the rights, interests, safety, or property of its business, employees, suppliers, customers, or others, 
+  * in connection with any proposed or actual sale or other transfer of some or all assets of Pivotal, and/or any proposed or actual sale or merger of Pivotal or any division of Pivotal, 
+  * to enforce the terms of any agreement with Pivotal,
+  * to combat fraud or other criminal activity,
+  * for any other purpose disclosed by us when you provide the information,
+  * as otherwise required or permitted by law, and/or 
+  * with your consent.
 
-* * *
 
-**Forums and Blogs**
 
-Some of VMware's websites allow our users to publish content via discussion forums, blogs, user-editable documents, and commenting systems. Any information that is disclosed in these forums becomes public information which could be read, collected or used by other users to send you unsolicited messages. We are not responsible for the personally identifiable information you choose to submit in these forums. You should exercise caution when deciding to disclose your personal information.
+Some Pivotal websites or services may be co-branded and offered in conjunction with another company. If you register for or use such websites/services, both Pivotal and the other company may receive information collected in conjunction with the co-branded website/services.
 
-VMware may, from time to time, send email regarding our products and services to users who have posted to our discussion forums, blogs, user-editable documents, and commenting systems. Each participant's opinion expressed is his or her own and should not be considered as reflecting the opinion of VMware. Note also that your use of these online communication tools is subject to our Terms of Use, which contain disclaimers, limitations of liability and a choice of California law. Personal information given to VMware may be transferred across state and country borders for data consolidation, storage and simplified information management.
+Unless permitted by relevant laws, Pivotal will not share, sell, trade, or lease your personal information to or with others except as provided for in this Privacy Statement. 
 
-* * *
+##### Your Marketing Choices, Right to Access Your Personal Information, and Our Retention of Your Personal Information
 
-**Cookies, Logging and Spotlight Tags**
+_Your Marketing Choices_. Your decision to provide the personal information that we may request from time to time is voluntary. However, if you do not provide the personal information requested, you may not be able to proceed with the activity or receive the benefit for which the personal information is being requested.
 
-VMware uses cookies on some of its web sites. Cookies are small amounts of data sent to your browser from a web server and stored on your computer’s hard drive. Cookies can help a website recognize repeat users, and allow a website to track web usage behavior. Cookies work by assigning a number to the user that has no meaning outside of the assigning website. If a cookie is placed, thereafter when you visit a web site, a message is sent back to the web server by the browser accessing the web site. You can set your browser to notify you when you are sent a cookie, and you may also elect not to accept cookies by changing the designated settings on your web browser. However, not utilizing cookies may prevent you from using certain functions and features of web sites.
+You can always unsubscribe or choose not to receive promotional materials from Pivotal by following the specific instructions in the e-mail or other communication you receive or by notifying us via the appropriate method(s) described below. It may take a reasonable period of time to process your request, but no longer than 30 days for direct mail and telephone promotions and 10 business days for e-mail promotions. In countries where Pivotal is required to do so by law, Pivotal will offer you the opportunity to provide opt-in consent before promotional materials are sent, or promotional calls are made, to you. This will not apply to service communications that are considered part of certain Pivotal services, which you may receive periodically unless you cancel the applicable service.
 
-VMware uses some cookies that are strictly necessary for the delivery of services on our website. Cookies that are strictly necessary allow us to improve the safety and security of our website, authenticate account users, allow you to access your private accounts on our site, allow you to sign into many portals with the use of only one login, balance the traffic on our site, and remember information that you have submitted on forms when you request services on our site. Cookies that are strictly necessary do not gather any information about you that could be used for marketing or remembering where you've been on the internet.
+_Your Access to Your Personal Information_. Pivotal strives to keep your personal information accurate. We have implemented technology, management processes, and policies to maintain data integrity. We will provide you with reasonable access to your personal information in accordance with relevant laws, including by making reasonable efforts to provide you with online access and the opportunity to update your information. To protect your privacy and security, we will take steps to verify your identity before granting access or making changes to your personal information. To request access to your personal information, follow the applicable instructions below. While we will make reasonable efforts to accommodate your request, we also reserve the right to reject such access requests or to impose certain restrictions and requirements on such requests, if required or permitted by applicable law.
 
-VMware also uses cookies to improve our service to you and personalize your web-browsing experience, such as by gaining a better understanding of your interests and requirements regarding our website. Cookies that VMware uses to improve your website experience may remember your language and site preferences, invite you to participate in surveys and evaluations, show you when you are logged into our system and allow you to remain logged-in for a period of time, provide you with support services including our live chat service, remember your login information, and prepopulate forms that you have already completed.
+_Our Retention of Your Information_. We will retain your personal information for as long as your account is active or as needed to provide you services. If you wish to cancel your account, or request that we no longer use your personal information to provide you services, contact us via the applicable information provided below. Even after we cancel your account or cease using your personal information to provide you services, we may still retain, use, and disclose your information as necessary to comply with our legal, regulatory, ethical, or document retention obligations, and any request to delete your personal information is subject to these obligations and restrictions.
 
-VMware also uses 'performance' cookies that collect information about how you use our website, including which pages you visit, and if you experience any errors. These cookies don't collect any information that could identify you and use anonymous information to provide statistics on how our website is used, help us improve our website by measuring any errors, test different designs on our site, and help us measure the traffic on our site so that we can optimize our content accordingly. VMware’s performance cookies are only used to help us improve how our website works, understand what interests our users and measure how effective our advertising is.
+##### Pivotal Contact Information for Your Marketing Choices and Your Requests for Access or Deletion: 
 
-Some VMware pages use cookies that permit select third party partners, including Google, Adobe and Demandbase, to serve you VMware-related content, including VMware advertisements, on their sites or elsewhere on the Internet. This is based on your prior visits to our site. Additionally, third parties may use cookies to allow you to link to social networking sites like Facebook and LinkedIn and may analyze your activity and your purchase selections in our online store. As noted above, you can set your browser to notify you when you receive a cookie, giving you the chance to decide whether to accept it. You can control whether or not these cookies are used, but preventing them may stop us from offering you some services. Alternatively you may use the third parties' own tools to prevent these cookies. You may also opt out of Google's use of cookies by visiting <http://www.google.com/privacy/ads/>, and you may opt out of Adobe’s use of cookies and web beacons by visiting <http://www.adobe.com/privacy/opt-out.html#4> ****
+[Unsubscribe here](http://visit.gopivotal.com/UnsubscribePage.html?mkt_unsubscribe=1&mkt_tok=3RkMMJWWfF9wsRow5%2FmYJoDpwmWGd5mht7VzDtPj1OY6hBovIr6JK1TtuMFUGpsqOOyTAg%3D%3D)
 
-As is true of most websites, VMware collects and/or logs Internet Protocol addresses, Internet domain names, the web browser and operating system used to access the VMware web site, the website visitor’s location, the files visited, the time spent in each file, and the time and date of each visit. VMware collects these through the use of log files and web beacons.
+##### Headquarters
 
-* * *
+1900 South Norfolk Street, Suite 125   
+San Mateo, CA 94403
 
-**Links to Non-VMware Websites and Third Parties**
+##### Transfer of Your Information to Other Countries
 
-The VMware web sites may provide links to third-party web sites for your convenience and information. If you access those links, you will leave the VMware website. VMware does not control those sites or their privacy practices, which may differ from VMware policy. We do not endorse or make any representations about third party web sites. The personal data you choose to give to unrelated third parties is not covered by the VMware Privacy Statement. We encourage you to review the privacy policy of any company before submitting your personal information. Some third party companies may choose to share their personal data with VMware; that sharing is governed by that third party company's privacy policy.
+In accordance with applicable law, personal and other information covered by this Privacy Statement may be transferred to, and processed and stored in, the United States or any other country in which Pivotal or its affiliates, subsidiaries, service providers, business partners, or customers maintain facilities, even if the level of data privacy required is less than that required by the European Union or under the Safe Harbor. By submitting your personal information to Pivotal or our service providers, you consent to such transfers and to the worldwide processing of your personal information.
 
-* * *
+##### Links to Non-Pivotal Websites and Third Parties
 
-**Hosted Data**
+Pivotal’s websites may provide links to third-party websites for your convenience and information. If you access those links, you will leave the Pivotal website. Pivotal does not control these third-party websites or their privacy practices, which may differ from Pivotal's. We do not endorse or make any representations about third-party websites. The personal information you choose to provide to unrelated third parties is not covered by the Pivotal Privacy Statement. We encourage you to review the privacy statement of any entity before submitting your personal information.
 
-VMware’s obligations with respect to personal data that may be accessed due to VMware’s role as a cloud services and Infrastructure-as-a-Service provider, such as personal data stored or transferred by customers using VMware’s Virtual Hybrid Cloud Service, are defined in our agreements with our customers and are not governed by this Privacy Statement.
+##### Security of Your Personal Information
 
-* * *
+Pivotal has implemented administrative, technical, and physical measures designed to protect your personal information from accidental loss and from unauthorized access, disclosure, use, alteration, or destruction. These measures include computer safeguards and secured files and buildings, Internet firewalls, intrusion detection, anti-virus protection, network monitoring, and, where appropriate and required by applicable law, Transport Layer Security (“TLS”) or similarly encrypted browsers. However, no electronic data transmission or storage of information can be guaranteed to be 100% private and secure, and you understand that Pivotal does not ensure or warrant the privacy or security of any information we collect from or about you, and that you use the Pivotal websites and other Pivotal services and provide us with information at your own risk. If a password is used to help protect your accounts and personal information, it is your responsibility to keep your password confidential. Please also be careful to avoid “phishing” scams, where someone may send you an e-mail that looks like it is from Pivotal asking for your personal information. Pivotal will never request your personal information through e-mail. 
 
-**Contact Information**
+##### Your California Privacy Rights 
 
-If you have any questions regarding this Privacy Statement or believe that the privacy of your personal information has not been respected, you may submit a complaint in writing to the attention of VMware's Office of the General Counsel, 3401 Hillview Ave, Palo Alto, California, 94304 or email: [privacy@vmware.com](mailto:privacy@vmware.com). If you have a comment or concern that cannot be resolved with VMware directly, you may contact the competent local data protection authority.
+If you are a California resident, California Civil Code Section 1798.83 permits you to request information regarding the disclosure of your personal information by Pivotal to its affiliates and/or third parties for their direct marketing purposes. To make such a request, please send an e-mail with your first name, last name, mailing address, e-mail address, and telephone number to [ ]. Please include “California Privacy Rights” in the subject line of your e-mail. You may also make such a request by writing to us at: marketing@gopivotal.com
 
-* * *
+##### Children Under the Age of 13
 
-**Changes to this Statement**
+Pivotal websites are not intended for children under 13 years of age. No one under age 13 may provide any personal information to or on our websites. We do not knowingly collect personal information from children under 13. If you are under 13, do not use or provide any information on this website or on or through any of its features/register on the website, make any purchases through the website, use any of the interactive or public comment features of this website, or provide any information about yourself to us, including your name, address, telephone number, e-mail address or any screen name or user name you may use. If we learn we have collected or received personal information from a child under 13 without verification of parental consent, we will delete that information. If you believe we might have any information from or about a child under 13, please contact us at marketing@gopivotal.com
 
-VMware will review and update this Statement periodically and will note the date of its most recent revision above. If we make material changes to this Statement, we will notify you either by prominently posting a notice of such changes prior to implementing the changes or by directly sending you a notification. We encourage you to review this Privacy Statement frequently to be informed of how VMware is protecting your information.
+##### Personal Information of our Customers' Clients
 
-* * *
+When we provide services to our customers, in some instances we process personal information about their clients ("Client Information") on their behalf. In these situations, it is our customers rather than we who decide the reasons for which the Client Information will be processed. For details of how the Client Information will be used and protected, and details of how to access or correct the information, please refer to the privacy statement of the Pivotal customer to which you submitted your personal information.
 
-**TRUSTe certification**
+##### Questions About and Enforcement of this Privacy Statement
 
-VMware has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information.  TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at [privacy@vmware.com](mailto:privacy@vmware.com). If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint) The TRUSTe program only covers information that may be collected through our website, www.vmware.com or the My VMware mobile application, if indicated by the TRUSTe seal.
+If you have questions regarding our compliance with this Privacy Statement, please contact us by making an e-mail submission to the Pivotal Legal Department at legal@gopivotal.com or by mail to
+
+1900 South Norfolk Street, Suite 125   
+San Mateo, CA 94403   
+Attn: Pivotal Legal Department
+
+##### Changes to this Privacy Statement
+
+Pivotal will review and update this Privacy Statement periodically, and will note the date of its most recent revision above. If we make material changes to this Privacy Statement, we will notify you either by prominently posting a notice of such changes prior to implementing the changes or by directly sending you a notification. We encourage you to review this Privacy Statement frequently to be informed of how Pivotal is collecting, using, retaining, protecting, disclosing, and transferring your information.
