@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the seanjohn.com privacy policy that was archived on 2013-05-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130504091548id_/http%3A//www.seanjohn.com/privacy.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the seanjohn.com privacy policy that was archived on 2013-10-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131027173557id_/http%3A//www.seanjohn.com/privacy.htm) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 	<title>Sean John - Privacy Policy</title>
@@ -43,8 +43,8 @@
 	#footer div {
 		margin:0;
 	}
-	.wf-loading {font-family: "futura-pt"; visibility: hidden;}
-	.wf-active {visibility: visible;}
+	.wf-loading {font-family: "futura-pt"; visibility: hidden}
+	.wf-active {visibility: visible; display: block}
 	a, div, input { outline: none; }
 	form, input {margin: 0; padding: 0}
 	div.absolute {position: absolute}
@@ -158,7 +158,6 @@ filter: progid:DXImageTransform.Microsoft.Shadow(Strength=2, Direction=135, Colo
 var currentindex = 0;
 $(document).ready(function(){
 	checkCenterTop();
-	checkCenterBottom();
 	var onimage = new Array();
 	i = 0;
 	$("img.largepicture").each(function() {
@@ -217,27 +216,11 @@ $(document).ready(function(){
 });
 window.onresize = setTimeout(function() {
 	if($('.picture').length>0){
-		resize($('.picture')[currentindex],'notfirst');
+		var newpos = resize($('.picture')[currentindex],'notfirst');
 	};
 	checkCenterTop();
-	checkCenterBottom();
 	},1000,true);
-
-function checkCenterTop() {
-	if ($(window).width() < 1024) {
-		$("#headerinside").css({left:'0px', marginLeft:'0px', width: 'auto'});
-	} else {
-		$("#headerinside").css({left:'50%', marginLeft:'-512px', width: '1024px'});
-	}
-}
-function checkCenterBottom() {
-	if ($(window).width() < 1024) {
-		$("#footerinside").css({left:'0px', marginLeft:'0px', width: 'auto'});
-	} else {
-		$("#footerinside").css({left:'50%', marginLeft:'-512px', width: '1024px'});
-	}
-}
-
+	
 function onState() {
 	var rollover = $(this).children();
 	var name = $(rollover).attr('name');
@@ -264,7 +247,7 @@ function offState() {
 <div id="container">
 	<div id="header">
 		<div style="position: relative; height: 75px; width: 1024px; z-index: 1; left: 50%; margin-left: -512px" id="headerinside"><div style="position: absolute; width: 100%; text-align: center; top: 5px"><img src="/images/logo.png" alt="Sean John" width="500" height="29" hspace="0" vspace="0" border="0" align="top" class="rollover" name="logo"></div>
-<div style="position: absolute; width: 100%; text-align: center; text-transform: uppercase; bottom: 10px" class="links tk-futura-pt"><a href="/Mens.htm" class="off">Mens</a><span style="margin: 0px 20px">&nbsp;</span><a href="/Suiting.htm" class="off">Suiting</a><span style="margin: 0px 20px">&nbsp;</span><a href="/Boys.htm" class="off">Boys</a><span style="margin: 0px 20px">&nbsp;</span><a href="/Accessories.htm" class="off">Accessories</a><span style="margin: 0px 20px">&nbsp;</span><a href="http://www1.macys.com/shop/mens-clothing/sean-john-coats-jackets?id=60746&amp;edge=hybrid" target="_blank" class="off">Outerwear</a><span style="margin: 0px 20px">&nbsp;</span><a href="http://www1.macys.com/shop/mens/featured-brands/sean-john/cologne?id=27577" target="_blank" class="off">Fragrances</a><span style="margin: 0px 20px">&nbsp;</span><a href="/press.htm" class="off">Press</a><span style="margin: 0px 20px">&nbsp;</span><a href="http://youtube.com/seanjohn" class="black" target="_blank">Sean John TV</a><span style="margin: 0px 20px">&nbsp;</span><a href="/join.htm" class="off">Join seanjohn.com</a><span style="margin: 0px 20px">&nbsp;</span><a href="/denimguide.htm" class="off">Denim</a></div>
+<div style="position: absolute; width: 100%; text-align: center; text-transform: uppercase; bottom: 10px" class="links tk-futura-pt"><a href="/Mens.htm" class="off">Mens</a><span style="margin: 0px 20px">&nbsp;</span><a href="/Suiting.htm" class="off">Suiting</a><span style="margin: 0px 20px">&nbsp;</span><a href="/Boys.htm" class="off">Boys</a><span style="margin: 0px 20px">&nbsp;</span><a href="/Accessories.htm" class="off">Accessories</a><span style="margin: 0px 20px">&nbsp;</span><a href="http://www1.macys.com/shop/mens-clothing/sean-john-coats-jackets?id=60746&amp;edge=hybrid" target="_blank" class="off">Outerwear</a><span style="margin: 0px 20px">&nbsp;</span><a href="/Footwear.htm" class="off">Footwear</a><span style="margin: 0px 20px">&nbsp;</span><a href="/Denim.htm" class="off">Denim</a><span style="margin: 0px 20px">&nbsp;</span><a href="/press.htm" class="off">Press</a><span style="margin: 0px 20px">&nbsp;</span><a href="http://youtube.com/seanjohn" class="black" target="_blank">Sean John TV</a><span style="margin: 0px 20px">&nbsp;</span><a href="/join.htm" class="off">Join seanjohn.com</a></div>
 <!-- <div class="small tk-futura-pt" style="position: absolute; right: 10px; bottom: 10px; text-transform: uppercase; color: #FFFFFF" id="joindiv"><form action="/search.htm" method="post" id="searchform">Search&nbsp;&nbsp;<input id="from" name="from" type="text" class="guestbook tk-futura-pt" value="Search seanjohn.com" />&nbsp;&nbsp;<a href="#" class="off" id="joinlink" style="display: none">SEARCH</a></form></div> -->
 </div>
 	</div>
