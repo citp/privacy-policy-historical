@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hdwallpaper.org privacy policy that was archived on 2013-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130626070640id_/http%3A//www.hdwallpaper.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hdwallpaper.org privacy policy that was archived on 2013-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131027070629id_/http%3A//www.hdwallpaper.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | HD Wallpaper
 
@@ -12,7 +12,7 @@ We also work with service providers who use tracking technologies to serve ads a
 
 In addition to anonymous information, we also collect personal information from you at this Website when you voluntarily submit it to us. We request personal information from you (which may include your name, address, telephone number, email address) when you:
 
-  1. Complete a [registration](http://www.hdwallpaper.org/registration "registration"), survey, application or other form;
+  1. Complete a registration, survey, application or other form;
   2. Purchase a product or service from us or from one of our vendors, suppliers or other agents;
   3. Sign-up to receive email newsletters or other correspondence;
   4. Participate in a promotion, contest, sweepstakes or similar promotional activity;
@@ -50,7 +50,7 @@ For the purpose of operating our business and providing you with certain service
 
 We also may provide your personal information to other hdwallpaper.org affiliated companies (including, but not limited to, affiliates, subsidiaries and our parent companies) who may use your personal information for any legal purposes whatsoever.
 
-We also may disclose personal information about you upon request by the government; in response to a court order; when required by law or when we believe in good faith is required by law; to enforce our Privacy Policy, terms and conditions or other agreements on this Website; upon your request; or to [contact](http://www.hdwallpaper.org/contact "contact"), identify or bring legal action against someone who may be causing injury to or interference with our or others’ rights or property. We may also share information with companies assisting in fraud protection or investigation. We do not provide information to these agencies or companies for marketing purposes.
+We also may disclose personal information about you upon request by the government; in response to a court order; when required by law or when we believe in good faith is required by law; to enforce our Privacy Policy, terms and conditions or other agreements on this Website; upon your request; or to contact, identify or bring legal action against someone who may be causing injury to or interference with our or others’ rights or property. We may also share information with companies assisting in fraud protection or investigation. We do not provide information to these agencies or companies for marketing purposes.
 
 We may also provide aggregated, non-personally identifiable information to third parties for any legal purposes whatsoever.
 
@@ -86,7 +86,7 @@ It is possible that by fraud, deception or error, we may receive information per
 
 ## Email Marketing Practices
 
-When you submit any personal information, you understand and agree that hdwallpaper.org, its partners, and affiliates may access, store, and use your customer [profile](http://www.hdwallpaper.org/profile "profile") in any of the countries in whichhdwallpaper.org and its affiliates provide services, including without limitation the United States. We collect this information for a variety of reasons, including hdwallpaper.org’s effort to inform you of new products, special offers, and other products and services from hdwallpaper.org. hdwallpaper.org recognizes and appreciates the importance of responsible use of the information you choose to provide. hdwallpaper.orgmay selectively provide certain information to other companies or organizations whose products or services we think may interest you.
+When you submit any personal information, you understand and agree that hdwallpaper.org, its partners, and affiliates may access, store, and use your customer profile in any of the countries in whichhdwallpaper.org and its affiliates provide services, including without limitation the United States. We collect this information for a variety of reasons, including hdwallpaper.org’s effort to inform you of new products, special offers, and other products and services from hdwallpaper.org. hdwallpaper.org recognizes and appreciates the importance of responsible use of the information you choose to provide. hdwallpaper.orgmay selectively provide certain information to other companies or organizations whose products or services we think may interest you.
 
 hdwallpaper.org and its partners may often sponsor contests that you can enter. Your participation in these contests is entirely optional. hdwallpaper.org may also conduct surveys online, via e-mail, or by telephone. Your participation in these surveys is entirely optional. Survey participants are anonymous unless otherwise stated in the survey.
 
