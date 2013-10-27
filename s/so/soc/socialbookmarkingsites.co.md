@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the socialbookmarkingsites.co privacy policy that was archived on 2013-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130604120926id_/http%3A//socialbookmarkingsites.co/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the socialbookmarkingsites.co privacy policy that was archived on 2013-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131027113453id_/http%3A//socialbookmarkingsites.co/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
