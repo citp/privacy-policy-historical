@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thesixfigurementors.com privacy policy that was archived on 2013-02-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130203051734id_/http%3A//thesixfigurementors.com/blog/website-privacy-cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thesixfigurementors.com privacy policy that was archived on 2013-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131027050352id_/http%3A//thesixfigurementors.com/blog/website-privacy-cookies) for the most accurate reproduction.*
 
 # Website Privacy & Cookies « Welcome to The Six Figure Mentors
 
@@ -55,5 +55,5 @@ Personal information that you submit to us through this website will only be use
 
 The information on this page applies only to **this website** and not to other sites linked to from these pages. 
 
-3   
-FEB
+27   
+OCT
