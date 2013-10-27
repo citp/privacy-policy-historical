@@ -1,37 +1,48 @@
-> *The following text is extracted and transformed from the search-quick.com privacy policy that was archived on 2003-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030507133750id_/http%3A//www.search-quick.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the search-quick.com privacy policy that was archived on 2013-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131027041914id_/http%3A//www.search-quick.com/privacy/protectedsearchprivacy.aspx) for the most accurate reproduction.*
 
-# Search-Quick.com 's Search
+# Protected Search. Better search - everywhere.
 
-**Privacy Policy**
+**_Privacy Policy_**
 
-Search-Quick.com has the following Privacy Policy with respect to information gathered on Web pages hosted by Search-Quick.com. Such information is received by Search-Quick.com. 
+Here at Protected Search we value your privacy and believe that transparency and cooperation is the only way to reach our users and provide them with the best service available. In order to allow you more information regarding your rights, and to let you know what and where is made with your information, as well as how we process it, we have set up this privacy policy.
 
-The terms "we" and "us" refer to Search-Quick.com.
+Please note that while this privacy policy covers the use of our search services, some of our partners and advertisers may have different policies and you should inspect their policies as well. We highly recommend that you check from time whether our policy has changed;.
 
-  **The Information We Collect**
+_What information do we save?_  
+We save some information in order to provide you with the best of services, and we only save the information required. Therefore, we do nor use any excess information and will not store it, nor will we store information for an excessive amount of time. We save information on your computer to better let us know your personal preferences, and some information on our servers to assist us in processing the information into aggregated, non-personally identifiable information.
 
-  This notice applies to all information collected on the Search-Quick.com Web site or submitted to Search-Quick.com at any time.
+_What do we save on your computer?_  
+In order to identify the computer you are browsing from and provide it with customized services, we store a few cookies on your computer. A cookie is a small text file which contains some information which may only be read by us and contains the following information: (i) your last few searches, (ii) your personal settings, (iii) your country and state and (iv) whether you chose private browsing mode or not.
 
-Personally Identifiable Information—When visiting Search-Quick.com and signing up for or using Search-Quick.com services, you may choose to supply Search-Quick.com with information that identifies you personally. For **End-Users** , this information may include your name and contact information, gender, birth date, occupation and industry, shipping and billing information, credit card numbers and other payment information, behavior patterns, purchase history, and other information. For **Clients** , this information may include the Client's name and contact information, the Client's Web site information (name, URL, visitors per day, page views per month, description, categorization), payment information, and user comments. 
+_What will we never save?_  
+We value your privacy and try as much as possible to refrain from any activity which may be considered as invasion of your privacy and therefore we will never: (i) use a unique ID on your user, browser or computer for any purpose other then statistical improvement of our services (ii) save or send any password you submit to any website, (iii) operate our services in any HTTPS webpage. 
 
-  **The Way We Use Information**
+Every time you browse a webpage, we receive information regarding your visit, the page you are viewing, related keywords and your cookie. Our server sends you personal preferences and information regarding the specific page you are viewing. 
 
-  We use the information you provide about yourself or others to complete the transaction for which the information is intended. Such transactions may include: administering a service, such as search, community, advertising sales, ecommerce; completing an order; replying to support requests; or contacting you if you have granted us permission to do so. Except as provided in this Privacy Policy and the End-User Agreement, we do not share this information with outside parties without your permission except to the extent that is necessary to administer the services we offer our Clients and End-Users or to comply in responding to subpoenas, court orders or other legal proceedings.
+_Where is information saved?_  
+We use encryption for information stored on our servers and servers are stored in a secure location. Only a limited number of our employees may access some information, but no employee may access personal information or view your history. Our staff receives periodical instructions regarding privacy, and updates and maintains the servers up to date with software updates and patches.
 
-  From time to time, we also use the information you provide about yourself or others to inform you of additions or improvements to the Search-Quick.com services. 
+_Can you remove your information?_  
+At Protected Search, we believe that your information is your information. Therefore, we believe that you should have the right to decide whether to allow us to store it or not. When you uninstall our application or product you may request to remove all the information we stored about your preferences.
 
-  Finally, we never use or share the personally identifiable information provided to us online in ways or for reasons unrelated to the ones described above without also providing an opportunity to opt-out or otherwise prohibit such unrelated uses.
+Please keep in mind that information which was processed to aggregated, non-personally identifiable information may still be used, but we will remove any identifiable or personal information within a short period of time.
 
-  **Our Commitment to Data Security**
+You may also manually remove our cookies from your browser's cache.
 
-  To prevent unauthorized access, maintain data accuracy, and ensure the appropriate use of information, we have put in place appropriate physical, electronic, and managerial procedures reasonably designed to safeguard and secure the information we collect online. Personnel who have access to our database are trained to maintain and secure all information.
+_Can you prevent us from saving information?_  
+Yes.
 
-   **How You Can Access or Update Your Information**
+As we believe that your information is your information, you may request that we will not store any information about you. You may do so either by (i) enabling Private Browsing Mode in your toolbar preferences, or (ii) clicking here, where we will store a cookie telling our servers not to log any information about you.
 
-  **Clients** can access their personally identifiable information that Search-Quick.com collects online and maintains by logging in to their password-protected account and selecting "Edit My Profile." 
+_When is information removed?_  
+We retain information for a short period of time and most information is not retained for more than a year. We only use the information in order to process it to aggregated, non-personally identifiable information and in order to adhere with law enforcement authorities.
 
-  To protect your privacy and security, we will take reasonable steps to verify your identity before granting access or making corrections to your information.
+_Who else can see the information?_  
+The information we process may be seen by our business partners, which receive aggregated, non-personally identifiable information regarding his users. Moreover, we process the information to our public domains.
 
-  **How to Contact Us**
+We may also, in rare cases, share information with our advertisers in cases where there are disputes in regarding to clicks or purchases.
 
-  Should you have other questions or concerns about this privacy policy, please contact us by email at Webmaster@Search-Quick.com 
+_Who should you contact in case you believe your privacy was violated?_  
+As we highly value your privacy, we appointed a privacy officer which may inquire and investigate any activity in our company and inflict sanctions. Should you believe that your privacy was violated by Protected Search, please contact privacy@Protected Search.com and we shall commence with the inquiry soon. 
+
+Updated: July, 2011 
