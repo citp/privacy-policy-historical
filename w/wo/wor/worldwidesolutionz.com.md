@@ -1,16 +1,44 @@
-> *The following text is extracted and transformed from the worldwidesolutionz.com privacy policy that was archived on 2013-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130615031342id_/http%3A//4rqandd.com/privecy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldwidesolutionz.com privacy policy that was archived on 2013-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131027100144id_/https%3A//worldwidesolutionz.com/privacy.php) for the most accurate reproduction.*
 
-# :: Welcome To worldwidesolutionz ::
+# Home
 
-[Join Us Now](https://web.archive.org/web/20130615031342id_/http%3A//4rqandd.com/join-us.php)  
----  
-Privacy Policy :  
-What information about you do we gather and maintain?  
-In order to operate this website, we need to collect and maintain your name and e-mail address, along with a password of your choosing. For administrative purposes we also make use of HTTP cookies, as explained below.  
-How do we use the information we maintain?  
-Your name, e-mail address, and password are used to uniquely indentify, and control access to, your account. We also use your e-mail address to communicate with you regarding this website, and to facilitate the upline and downline communications. Other information we track, such as HTTP cookies, are used to prevent abuse of the program.  
-With whom do we share your private information?  
-We do not rent or sell our members' names or e-mail addresses to third parties. All personal information is used solely for the purposes of administering this website. As noted above, your e-mail address will be used for upline and downline communication.  
-How do we protect your privacy?  
-Member's personal information is stored on servers which are protected by stringent security measures. We make every effort to ensure this information remains uncompromised. Individual members' information is protected by the passwords they choose, so it is essential that members choose passwords that cannot be easily guessed.  
-Please be aware, however, that this website cannot be held responsible for the privacy policies of websites to which we may link. 
+  
+
+
+**What information about you do we gather and maintain?**
+
+  * In order to operate this website, we need to collect and maintain your name and e-mail address, along with a password of your choosing. For administrative purposes we also make use of HTTP cookies.
+
+
+
+**How do we use the information we maintain?**
+
+  * Your name, e-mail address, and password are used to uniquely indentify, and control access to, your account. We also use your e-mail address to communicate with you regarding this website, and to facilitate the upline and downline communications. Other information we track, such as HTTP cookies, are used to prevent abuse of the program. 
+
+
+
+**With whom do we share your private information?**
+
+  * We do not rent or sell our members' names or e-mail addresses to third parties. All personal information is used solely for the purposes of administering this website. As noted above, your e-mail address will be used for upline and downline communication. 
+
+
+
+**How do we protect your privacy?**
+
+  * Member's personal information is stored on servers which are protected by stringent security measures. We make every effort to ensure this information remains uncompromised. Individual members' information is protected by the passwords they choose, so it is essential that members choose passwords that cannot be easily guessed. Please be aware, however, that this website cannot be held responsible for the privacy policies of websites to which we may link. 
+
+
+
+**Our Live Conference Room**   
+[www.worldwidesolutionz.com/conference](https://login.meetcheap.com/conference,worldwidesolutionz)
+
+Marelize and Ruan - Mondays, Wednesdays and Fridays @ 8pm Programme Time (2pm Eastern Time)
+
+Snoop - Tuesdays & Thursdays @ 2am - 3am Program Time (8pm - 9pm Eastern Time) 
+
+Manny (Spanish) - Tuesdays to Fridays @ 10pm – 12am Programme Time (4pm – 6pm Eastern Time)
+
+[](https://web.archive.org/web/20131027100144id_/https%3A//worldwidesolutionz.com/nb.html)
+
+  
+
