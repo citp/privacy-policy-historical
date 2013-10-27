@@ -1,11 +1,11 @@
-<!--The following is the downloaded HTML source of the dudepins.com privacy policy that was archived on 2013-05-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130516210935id_/http%3A//dudepins.com/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D6) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the dudepins.com privacy policy that was archived on 2013-10-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131027101252id_/http%3A//dudepins.com/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D6) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-gb" lang="en-gb" dir="ltr"><head>
     		  <meta http-equiv="content-type" content="text/html; charset=utf-8">
   <meta name="keywords" content="Site for men, men's website, stuff for guys, website for men">
   <meta name="author" content="Super User">
-  <meta name="description" content="Dudepins is The Site for Men to Discover &amp; Share Everything that's Manly. It's the community for the coolest pictures, videos &amp; stuff for guys. Man up. Sign up. Pin up.">
+  <meta name="description" content="Dudepins is The Site for Men to Discover, Share &amp; Buy Everything that's Manly. It's the community for the coolest pictures, videos &amp; stuff for guys. Man up. Sign up. Pin up.">
   <meta name="generator" content="Joomla! - Open Source Content Management">
   <title>The Site for Men &amp; Manly Interests. Dudepins. Discover Stuff for Guys.</title>
   <link href="/templates/socialpinboard/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon">
@@ -33,7 +33,7 @@ window.addEvent('load', function() {
     <script type="text/javascript" src="/templates/socialpinboard/js/ajaxfileupload.js"></script>
     <script type="text/javascript" src="/templates/socialpinboard/js/dropdown.js"></script>
     <script type="text/javascript" src="/templates/socialpinboard/js/socialmedia.js"></script>
-    <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=xa-4fa1db813da560ee&amp;async=1"></script>
+    <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4fa7ef6372952f6e&amp;async=1"></script>
     <script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
 
 <script type="text/javascript">
@@ -97,11 +97,12 @@ function getScrollingPosition(hello)
 }
 
 		</script>
-
+    
+        
     <script type="text/javascript">
     
     var $c = jQuery.noConflict();
-    $c(function(){
+    $c(document).ready(function(){
         
         
         $c('#close-banner').click(function(){
@@ -110,8 +111,58 @@ function getScrollingPosition(hello)
         
         
         });
+   
+        
+    var imgArray =  ["templates\/socialpinboard\/images\/banners\/general_banner_1.jpg","templates\/socialpinboard\/images\/banners\/general_banner_2.jpg","templates\/socialpinboard\/images\/banners\/general_banner_3.jpg","templates\/socialpinboard\/images\/banners\/general_banner_5.jpg","templates\/socialpinboard\/images\/banners\/general_banner_6.jpg"];
+    
+    var imgCounter = 1;
+    
+    var loadImg = setInterval(function(){
+        
+        $c('#banner-holder').append('<img src="' + imgArray[imgCounter] + '" class="home-banner banner-hide" id="banner-' + imgCounter + '" />');
+        imgCounter++;
+        
+        if(imgCounter === imgArray.length ){
+            
+            clearInterval(loadImg);
+        }
+        
+        
+    },4000);
+    
+    var slideCounter = 0;
+    
+    var slider = setInterval(function(){
+        
+        $c('#banner-'+slideCounter).fadeOut(1000, function(){
+            
+            $c(this).hide();
+        
+        });
+        
+         slideCounter++;
+    
+        if(slideCounter === $c('.home-banner').length){
+            
+            slideCounter = 0;
+            
+        }
+            
+              
+                $c('#banner-'+slideCounter).fadeIn(1000);
+        
+        
+        
+     
+        
        
         
+
+    }, 10000);
+    
+    
+   
+
         
     });
     
@@ -133,7 +184,7 @@ function getScrollingPosition(hello)
 </script>
 <!--     <script type="text/javascript">var scr = jQuery.noConflict(); </script>-->
 	</head>
-
+	
 <body id="CategoriesBarPage" data-twttr-rendered="true">
 
 <div id="wrapper">
@@ -157,6 +208,20 @@ function getScrollingPosition(hello)
 <script type="text/javascript">
 var scr = jQuery.noConflict();
 jQuery(document).ready(function($){
+    
+        
+      scr('.settings-link').click(function(e){
+          
+            e.preventDefault();
+            
+            var setting = scr(this).data('name');
+            
+            scr('.settings').hide();
+            scr('#'+setting).show();
+            
+            
+        
+        });        
 
 columnHeight = scr('.item-page').outerHeight();
 scr('.side-menu').css('height', columnHeight);
@@ -382,7 +447,7 @@ document.getElementById("Back-login").style.display='none';
             document.getElementById('boardError').innerHTML='<label id="login_error_msg" style="clear: both; margin: 0 0 0 1px; ">Select the Montage name</label>';
             return false;
         }
-        if(pinDesc == '' || pinDesc == 'Enter pin description'){
+        if(pinDesc == '' || pinDesc == 'Enter post description'){
             document.getElementById('pinError').innerHTML='<label id="login_error_msg" style="margin: 10px 0 0 -158px;display: block;clear: both;">Describe your Pin</label>';
             return false;
         }
@@ -410,7 +475,7 @@ document.getElementById("Back-login").style.display='none';
         <a href="#" class="nav about">About<span></span></a>
         <ul class="vertical-menu">
 
-            <li class="hover-me"><a href="index.php?option=com_socialpinboard&amp;view=pinit">Pin up button</a></li><li class="hover-me"><a href="index.php?option=com_content&amp;view=article&amp;id=2">Terms of Service</a></li><li class="hover-me"><a href="index.php?option=com_content&amp;view=article&amp;id=3">About us</a></li><li class="hover-me"><a href="index.php?option=com_content&amp;view=article&amp;id=4">How Dudepins works</a></li><li class="hover-me"><a href="index.php?option=com_content&amp;view=article&amp;id=5">Contact us</a></li><li class="hover-me"><a href="index.php?option=com_content&amp;view=article&amp;id=6">Privacy Policy</a></li><li class="hover-me"><a href="index.php?option=com_content&amp;view=article&amp;id=8">Copyright</a></li><li class="hover-me"><a href="http://dudepins.com/blog">Dudepins Blog</a></li>        </ul>
+            <li class="hover-me"><a href="index.php?option=com_socialpinboard&amp;view=pinit">Post up button</a></li><li class="hover-me"><a href="index.php?option=com_content&amp;view=article&amp;id=2">Terms &amp; Legal</a></li><li class="hover-me"><a href="http://dudepins.com/index.php?option=com_socialpinboard&amp;view=press">About us</a></li><li class="hover-me"><a href="index.php?option=com_content&amp;view=article&amp;id=4">How Dudepins works</a></li><li class="hover-me"><a href="index.php?option=com_content&amp;view=article&amp;id=6">Privacy Policy</a></li><li class="hover-me"><a href="http://dudepins.com/blog">Dudepins Blog</a></li><li class="hover-me"><a href="index.php?option=com_content&amp;view=article&amp;id=11">The Newsletter</a></li>        </ul>
     </li>
 
     <li style="">
@@ -769,7 +834,6 @@ document.getElementById("Back-login").style.display='none';
                     
                     
                     </script>
-
     </div> <!-- #header -->
 
     <div id="CategoriesBar" class="">
@@ -822,13 +886,15 @@ document.getElementById("Back-login").style.display='none';
     <a href="/index.php?option=com_socialpinboard&amp;view=home&amp;category=Travel">Travel</a>
 
     <a href="/index.php?option=com_socialpinboard&amp;view=home&amp;category=Dude-Stuff">Dude-Stuff</a>
+
+    <a href="/index.php?option=com_socialpinboard&amp;view=home&amp;category=Dudette(Women)">Dudette(Women)</a>
 </span>
   </li>
 </ul>
       </li>
       <li><a href="/index.php?option=com_socialpinboard&amp;view=video" class="nav">Videos</a></li>
       <li><a href="/index.php?option=com_socialpinboard&amp;view=home&amp;popular=pins" class="nav">Trending</a></li>       
-      
+      <li><a href="/index.php?option=com_socialpinboard&amp;view=shop" class="nav">Shop</a></li> 
       
 
     </ul>
@@ -858,8 +924,8 @@ document.getElementById("Back-login").style.display='none';
         
         <div class="socialPlugins">
     <div class="fb-like" data-href="https://www.facebook.com/pages/Dudepins/359764167395347" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false" data-font="lucida grande"></div>
-    <div class="tweet-it"><iframe allowtransparency="true" frameborder="0" scrolling="no" src="https://platform.twitter.com/widgets/tweet_button.1366154648.html#_=1582134332178&amp;count=horizontal&amp;id=twitter-widget-0&amp;lang=en&amp;original_referer=https%3A%2F%2Fweb.archive.org%2Fweb%2F20130516210935id_%2Fhttp%253A%2F%2Fdudepins.com%2Findex.php%253Foption%253Dcom_content%2526view%253Darticle%2526id%253D6&amp;size=m&amp;text=Dudepins%20-%20The%20Site%20for%20Men%20%26%20Manly%20Interests.%20Discover%20%26%20Share%20Everything%20that's%20Manly.&amp;url=http%3A%2F%2Fdudepins.com&amp;via=dudepins" class="twitter-share-button twitter-count-horizontal" title="Twitter Tweet Button" data-twttr-rendered="true" style="width: 106px; height: 20px;"></iframe></div>
-    <div id="___plusone_0" style="position: absolute; width: 450px; left: -10000px;"><iframe frameborder="0" hspace="0" marginheight="0" marginwidth="0" scrolling="no" style="position:absolute;top:-10000px;width:450px;margin:0px;borderStyle:none" tabindex="0" vspace="0" width="100%" id="I0_1582134332157" name="I0_1582134332157" src="https://web.archive.org/web/20130417211009/https://plusone.google.com/_/+1/fastbutton?bsv&amp;size=medium&amp;hl=en-US&amp;origin=https%3A%2F%2Fweb.archive.org&amp;url=http%3A%2F%2Fwww.dudepins.com%2F&amp;ic=1&amp;jsh=m%3B%2F_%2Fscs%2Fapps-static%2F_%2Fjs%2Fk%3Doz.gapi.en_US.2zsMQaNwvpY.O%2Fm%3D__features__%2Fam%3DUQ%2Frt%3Dj%2Fd%3D1%2Frs%3DAItRSTPwhzecmLEEHCIXAo4GMXOnFhDcEg#_methods=onPlusOne%2C_ready%2C_close%2C_open%2C_resizeMe%2C_renderstart%2Concircled%2Conload&amp;id=I0_1582134332157&amp;parent=https%3A%2F%2Fweb.archive.org&amp;rpctoken=23920353"></iframe></div><div class="g-plusone" data-size="medium" data-href="http://www.dudepins.com" data-gapiscan="true" data-onload="true" data-gapistub="true"></div>
+    <div class="tweet-it"><iframe allowtransparency="true" frameborder="0" scrolling="no" src="https://platform.twitter.com/widgets/tweet_button.1366154648.html#_=1582134331276&amp;count=horizontal&amp;id=twitter-widget-0&amp;lang=en&amp;original_referer=https%3A%2F%2Fweb.archive.org%2Fweb%2F20131027101252id_%2Fhttp%253A%2F%2Fdudepins.com%2Findex.php%253Foption%253Dcom_content%2526view%253Darticle%2526id%253D6&amp;size=m&amp;text=Dudepins%20-%20The%20Site%20for%20Men%20%26%20Manly%20Interests.%20Discover%20%26%20Share%20Everything%20that's%20Manly.&amp;url=http%3A%2F%2Fdudepins.com&amp;via=dudepins" class="twitter-share-button twitter-count-horizontal" title="Twitter Tweet Button" data-twttr-rendered="true" style="width: 106px; height: 20px;"></iframe></div>
+    <div id="___plusone_0" style="position: absolute; width: 450px; left: -10000px;"><iframe frameborder="0" hspace="0" marginheight="0" marginwidth="0" scrolling="no" style="position:absolute;top:-10000px;width:450px;margin:0px;borderStyle:none" tabindex="0" vspace="0" width="100%" id="I0_1582134331261" name="I0_1582134331261" src="https://web.archive.org/web/20130417211009/https://plusone.google.com/_/+1/fastbutton?bsv&amp;size=medium&amp;hl=en-US&amp;origin=https%3A%2F%2Fweb.archive.org&amp;url=http%3A%2F%2Fwww.dudepins.com%2F&amp;ic=1&amp;jsh=m%3B%2F_%2Fscs%2Fapps-static%2F_%2Fjs%2Fk%3Doz.gapi.en_US.2zsMQaNwvpY.O%2Fm%3D__features__%2Fam%3DUQ%2Frt%3Dj%2Fd%3D1%2Frs%3DAItRSTPwhzecmLEEHCIXAo4GMXOnFhDcEg#_methods=onPlusOne%2C_ready%2C_close%2C_open%2C_resizeMe%2C_renderstart%2Concircled%2Conload&amp;id=I0_1582134331261&amp;parent=https%3A%2F%2Fweb.archive.org&amp;rpctoken=42898361"></iframe></div><div class="g-plusone" data-size="medium" data-href="http://www.dudepins.com" data-gapiscan="true" data-onload="true" data-gapistub="true"></div>
 </div>
 
                      
@@ -892,8 +958,8 @@ document.getElementById("Back-login").style.display='none';
             
 
                  <style type="text/css">
-                     #ColumnContainer {
-                    margin: 105px auto 0;}
+/*                     #ColumnContainer {
+                    margin: 105px auto 0;}*/
                     
                   
                  </style>
@@ -916,7 +982,7 @@ document.getElementById("Back-login").style.display='none';
 
         
         
-            <li class="hover-me"><a href="index.php?option=com_socialpinboard&amp;view=pinit">Pin up button</a></li><li class="hover-me"><a href="index.php?option=com_content&amp;view=article&amp;id=2">Terms of Service</a></li><li class="hover-me"><a href="index.php?option=com_content&amp;view=article&amp;id=3">About us</a></li><li class="hover-me"><a href="index.php?option=com_content&amp;view=article&amp;id=4">How Dudepins works</a></li><li class="hover-me"><a href="index.php?option=com_content&amp;view=article&amp;id=5">Contact us</a></li><li class="hover-me"><a href="index.php?option=com_content&amp;view=article&amp;id=6">Privacy Policy</a></li><li class="hover-me"><a href="index.php?option=com_content&amp;view=article&amp;id=8">Copyright</a></li><li class="hover-me"><a href="http://dudepins.com/blog">Dudepins Blog</a></li>        
+            <li class="hover-me"><a href="index.php?option=com_socialpinboard&amp;view=pinit">Post up button</a></li><li class="hover-me"><a href="index.php?option=com_content&amp;view=article&amp;id=2">Terms &amp; Legal</a></li><li class="hover-me"><a href="http://dudepins.com/index.php?option=com_socialpinboard&amp;view=press">About us</a></li><li class="hover-me"><a href="index.php?option=com_content&amp;view=article&amp;id=4">How Dudepins works</a></li><li class="hover-me"><a href="index.php?option=com_content&amp;view=article&amp;id=6">Privacy Policy</a></li><li class="hover-me"><a href="http://dudepins.com/blog">Dudepins Blog</a></li><li class="hover-me"><a href="index.php?option=com_content&amp;view=article&amp;id=11">The Newsletter</a></li>        
     </ul>
 
 
@@ -943,10 +1009,10 @@ document.getElementById("Back-login").style.display='none';
  <!--
  var prefix = '&#109;a' + 'i&#108;' + '&#116;o';
  var path = 'hr' + 'ef' + '=';
- var addy16895 = 'l&#101;g&#97;l' + '&#64;';
- addy16895 = addy16895 + 'd&#117;dp&#105;ns' + '&#46;' + 'c&#111;m';
- document.write('<a ' + path + '\'' + prefix + ':' + addy16895 + '\'>');
- document.write(addy16895);
+ var addy98416 = 'l&#101;g&#97;l' + '&#64;';
+ addy98416 = addy98416 + 'd&#117;dp&#105;ns' + '&#46;' + 'c&#111;m';
+ document.write('<a ' + path + '\'' + prefix + ':' + addy98416 + '\'>');
+ document.write(addy98416);
  document.write('<\/a>');
  //-->\n </script><a href="mailto:legal@dudpins.com">legal@dudpins.com</a><script type="text/javascript">
  <!--
@@ -974,10 +1040,10 @@ document.getElementById("Back-login").style.display='none';
  <!--
  var prefix = '&#109;a' + 'i&#108;' + '&#116;o';
  var path = 'hr' + 'ef' + '=';
- var addy92545 = 'l&#101;g&#97;l' + '&#64;';
- addy92545 = addy92545 + 'd&#117;d&#101;p&#105;ns' + '&#46;' + 'c&#111;m';
- document.write('<a ' + path + '\'' + prefix + ':' + addy92545 + '\'>');
- document.write(addy92545);
+ var addy85952 = 'l&#101;g&#97;l' + '&#64;';
+ addy85952 = addy85952 + 'd&#117;d&#101;p&#105;ns' + '&#46;' + 'c&#111;m';
+ document.write('<a ' + path + '\'' + prefix + ':' + addy85952 + '\'>');
+ document.write(addy85952);
  document.write('<\/a>');
  //-->\n </script><a href="mailto:legal@dudepins.com">legal@dudepins.com</a><script type="text/javascript">
  <!--
@@ -995,10 +1061,10 @@ document.getElementById("Back-login").style.display='none';
  <!--
  var prefix = '&#109;a' + 'i&#108;' + '&#116;o';
  var path = 'hr' + 'ef' + '=';
- var addy83897 = 'l&#101;g&#97;l' + '&#64;';
- addy83897 = addy83897 + 'd&#117;d&#101;p&#105;ns' + '&#46;' + 'c&#111;m';
- document.write('<a ' + path + '\'' + prefix + ':' + addy83897 + '\'>');
- document.write(addy83897);
+ var addy98446 = 'l&#101;g&#97;l' + '&#64;';
+ addy98446 = addy98446 + 'd&#117;d&#101;p&#105;ns' + '&#46;' + 'c&#111;m';
+ document.write('<a ' + path + '\'' + prefix + ':' + addy98446 + '\'>');
+ document.write(addy98446);
  document.write('<\/a>');
  //-->\n </script><a href="mailto:legal@dudepins.com">legal@dudepins.com</a><script type="text/javascript">
  <!--
@@ -1041,10 +1107,10 @@ document.getElementById("Back-login").style.display='none';
  <!--
  var prefix = '&#109;a' + 'i&#108;' + '&#116;o';
  var path = 'hr' + 'ef' + '=';
- var addy9103 = 'l&#101;g&#97;l' + '&#64;';
- addy9103 = addy9103 + 'd&#117;d&#101;p&#105;ns' + '&#46;' + 'c&#111;m';
- document.write('<a ' + path + '\'' + prefix + ':' + addy9103 + '\'>');
- document.write(addy9103);
+ var addy47903 = 'l&#101;g&#97;l' + '&#64;';
+ addy47903 = addy47903 + 'd&#117;d&#101;p&#105;ns' + '&#46;' + 'c&#111;m';
+ document.write('<a ' + path + '\'' + prefix + ':' + addy47903 + '\'>');
+ document.write(addy47903);
  document.write('<\/a>');
  //-->\n </script><a href="mailto:legal@dudepins.com">legal@dudepins.com</a><script type="text/javascript">
  <!--
@@ -1091,6 +1157,4 @@ var google_conversion_value = 0;
 		
 
         
-
-
 </body></html>
