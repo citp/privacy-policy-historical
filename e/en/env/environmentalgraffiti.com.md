@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the environmentalgraffiti.com privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621100840id_/http%3A//environmentalgraffiti.com/content/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the environmentalgraffiti.com privacy policy that was archived on 2013-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131027171326id_/http%3A//www.environmentalgraffiti.com/content/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -81,9 +81,9 @@ In addition, we may disclose your personal information:
 
 (e) to any person who we reasonably believe may apply to a court or other competent authority for disclosure of that personal information where, in our reasonable opinion, such court or authority would be reasonably likely to order disclosure of that personal information.
 
-Except as provided in this privacy policy, we will not provide your information to third parties.  
- **  
-5\. International data transfers**
+Except as provided in this privacy policy, we will not provide your information to third parties.
+
+ **5\. International data transfers**
 
 Information that we collect may be stored and processed in and transferred between any of the countries in which we operate in order to enable us to use the information in accordance with this privacy policy.
 
@@ -91,19 +91,18 @@ Information which you provide may be transferred to countries which do not have 
 
 In addition, personal information that you submit for publication on the website] will be published on the internet and may be available, via the internet, around the world. We cannot prevent the use or misuse of such information by others.
 
-You expressly agree to such transfers of personal information.  
- **  
-6\. Security of your personal information  
-**  
+You expressly agree to such transfers of personal information.
+
+ **6\. Security of your personal information**  
 We will take reasonable technical and organisational precautions to prevent the loss, misuse or alteration of your personal information. 
 
 We will store all the personal information you provide on our secure (password- and firewall- protected) servers. All electronic transactions you make to or receive from us will be encrypted .
 
 Of course, data transmission over the internet is inherently insecure, and we cannot guarantee the security of data sent over the internet.
 
-You are responsible for keeping your password and user details confidential. We will not ask you for your password (except when you log in to the website).  
- **  
-7\. Policy amendments**
+You are responsible for keeping your password and user details confidential. We will not ask you for your password (except when you log in to the website).
+
+ **7\. Policy amendments**
 
 We may update this privacy policy from time-to-time by posting a new version on our website. You should check this page occasionally to ensure you are happy with any changes. 
 
@@ -131,7 +130,7 @@ Please let us know if the personal information which we hold about you needs to 
 
  **11\. Contact**
 
-If you have any questions about this privacy policy or our treatment of your personal information, please write to us by email to [email] or by post to 72-75 Red Lion Street, London, WC1R 4NA. 
+If you have any questions about this privacy policy or our treatment of your personal information, please write to us by email to editor@environmentalgraffiti.com or by post to 72-75 Red Lion Street, London, WC1R 4NA. 
 
 **12\. Data controller**
 
