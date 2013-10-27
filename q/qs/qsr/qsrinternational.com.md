@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the qsrinternational.com privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501054603id_/http%3A//qsrinternational.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qsrinternational.com privacy policy that was archived on 2013-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131027065353id_/http%3A//www.qsrinternational.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -6,7 +6,7 @@
 
 Want to know more about QSR? Read our company brochure.
 
-  * [Download PDF](https://web.archive.org/web/20130501054603id_/http%3A//qsrinternational.com/FileResourceHandler.ashx/RelatedDocuments/DocumentFile/499/QSR_Company_Brochure.pdf)
+  * [Download PDF](https://web.archive.org/web/20131027065353id_/http%3A//www.qsrinternational.com/FileResourceHandler.ashx/RelatedDocuments/DocumentFile/499/QSR_Company_Brochure.pdf)
 
 
 
@@ -31,7 +31,7 @@ We will use your personal information to provide the service(s), information or 
 In some circumstances, we may also collect other information that allows us to improve our software or services to better meet your needs:
 
   * When you visit our website, we collect information such as the type of web browser and operating system you are using, the address of any referring website or search engine, or your computer’s IP (Internet Protocol) address. This information is provided by your web browser and is stored for statistical purposes. We use it for website traffic analysis and system administration purposes only. No attempt will be made to identify users or their browsing activities.
-  * Some QSR software products give you the option to participate in a “customer experience improvement program” or report software errors to QSR. You may opt in or out of these capabilities. Refer to your software’s Help documentation for further details. Where you opt in, QSR may collect information such as how frequently particular software features are used, or details of software errors that occur. This information will not include any personal details about you or any details of the data you are working with, and will be used for the sole purpose of improving our software products.
+  * Some QSR software products give you the option to participate in a “customer experience improvement program” or report software errors to QSR. You may opt in or out of these capabilities. Refer to your software’s Help documentation for further details. Where you opt in, QSR may collect information such as how frequently particular software features are used, or details of software errors that occur, as well as your computer’s IP (Internet Protocol) address. This information will not include any personal details about you or any details of the data you are working with, and will be used for the sole purpose of improving our software products.
   * From time to time we may conduct surveys and beta testing programs to better understand your needs and your opinions about our software and services.
   * When you request support from QSR, we may ask you to send us copies of certain documents or projects in order to diagnose your problem. If you choose to do so, these documents and projects will be securely kept at QSR premises, we will take reasonable steps to destroy them when the problem is resolved, and the information contained in them will not be disclosed to third parties.
 
@@ -56,7 +56,7 @@ When you import data captured using NCapture into NVivo, you have the option to 
 
 ### With whom may QSR International share the information it collects?
 
-We may share your personal information with an authorized QSR partner, who is in your geographic region or speaks your language, to ensure that you have the best resources and information available to service your needs. Occasionally, we may collect, use or disclose your personal information to a third party for the purpose of facilitating the distribution of customer satisfaction surveys to you. Where this is the case, we will only do so after first obtaining your permission.
+We may share your personal information with an authorized QSR partner, who is in your geographic region or speaks your language, to ensure that you have the best resources and information available to service your needs. Occasionally, we may collect, use or disclose your personal information to a third party for the purpose of facilitating the distribution of customer satisfaction surveys to you. Where this is the case, we will only do so after first obtaining your permission. Registration for QSR hosted events, like workshops, eWorkshops and webinars are managed through Eventbrite, a third party event management platform. When you register for a QSR event using Eventbrite, Eventbrite may collect personal data from you as outlined in the [Eventbrite Privacy Policy](https://www.eventbrite.com/privacypolicy/).
 
 ### How does QSR International protect customer information?
 
