@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the protectedsearch.com privacy policy that was archived on 2013-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130407082448id_/http%3A//www.protectedsearch.com/privacy/protectedsearchprivacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the protectedsearch.com privacy policy that was archived on 2013-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131027165710id_/http%3A//www.protectedsearch.com/privacy/protectedsearchprivacy.aspx) for the most accurate reproduction.*
 
 # Protected Search. Better search - everywhere.
 
