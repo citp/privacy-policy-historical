@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the resumegenius.com privacy policy that was archived on 2013-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130531154253id_/http%3A//resumegenius.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the resumegenius.com privacy policy that was archived on 2013-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131027045401id_/http%3A//resumegenius.com/privacy-policy) for the most accurate reproduction.*
 
-# Resume Builder | Privacy Policy
+# Users Privacy Policy | Resume Genius
 
 ### ResumeGenius.com
 
-Version Date: Nov 16, 2012
+Version Date: May 2, 2012
 
 ## GENERAL
 
@@ -100,9 +100,17 @@ California Civil Code Section 1798.83, also known as the "Shine The Light" law, 
 
 If you have any questions regarding our Privacy Policy, please contact our privacy officer at: 
 
-Privacy Officer  
-ResumeGenius.com  
-28 2nd Street, 3rd Floor  
-San Francisco, CA 94105  
-Email: support@resumegenius.com  
-Phone: (866) 215-9048 
+U.S. Office:   
+RGO Technologies LLC   
+427 N Tatnall St #95492   
+Wilmington, DE 19801-2230   
+United States 
+
+Europe Office:   
+Su Jia Technologies Ltd. dba ResumeGenius.com   
+Karpenision, 9 Strovolos, 2021   
+Nicosia, Cyprus 
+
+Contacting us:   
+Email: support@resumegenius.com   
+Phone: (866) 215-9048 (available Monday through Friday, 10AM – 6PM EDT) 
