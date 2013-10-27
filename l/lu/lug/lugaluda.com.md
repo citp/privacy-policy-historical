@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the lugaluda.com privacy policy that was archived on 2012-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120525115657id_/http%3A//www.lugaluda.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lugaluda.com privacy policy that was archived on 2013-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131027122116id_/http%3A//www.lugaluda.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy PolicyLugaluda Blog
 
 * Google, as a third party vendor, uses cookies to serve ads on your site.  
 * Google’s use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet.  
