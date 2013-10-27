@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sitecube.com privacy policy that was archived on 2013-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130606130950id_/http%3A//sitecube.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sitecube.com privacy policy that was archived on 2013-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131027130402id_/http%3A//sitecube.com/privacy.htm) for the most accurate reproduction.*
 
 # Free Website Builder, Build a Website Easily!
 
