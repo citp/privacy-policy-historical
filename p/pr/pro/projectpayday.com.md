@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the projectpayday.com privacy policy that was archived on 2013-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130528043518id_/http%3A//www.projectpayday.com/privacy.cgi) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the projectpayday.com privacy policy that was archived on 2013-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131027045748id_/http%3A//www.projectpayday.com/privacy.cgi) for the most accurate reproduction.*
 
 # Project Payday - Realistic Extra Income for the Average Joe
 
