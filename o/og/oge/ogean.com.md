@@ -1,104 +1,96 @@
-> *The following text is extracted and transformed from the ogean.com privacy policy that was archived on 2013-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130430085728id_/http%3A//www.ogean.com/page/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ogean.com privacy policy that was archived on 2013-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131027085031id_/http%3A//ogean.com/page.php%3Fp%3D9) for the most accurate reproduction.*
 
-# privacy policy - Online Games and Free Recharge
+# OGEAN - Trending Online Video Clips
 
-### This Privacy Policy governs the manner in which OGEAN india collects, uses, maintains and discloses information collected from users (each, a "User") of the http://www.ogean.com website ("Site"). This privacy policy applies to the Site and all products and services offered by OGEAN india.
+## **1\. Overview**
 
-### Personal identification information:
+This document establishes the privacy policies of Ogean, its websites and mobile applications, as well as its compliance with specific national and international jurisdictions (including the privacy regulations and laws thereof). The publication of this document rescinds all previous privacy policies – implied, spoken or written – and establishes
 
-# We may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, register on the site, and in connection with other activities, services, features or resources we make available on our Site. Users may be asked for, as appropriate, name, phone number. Users may, however, visit our Site anonymously. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.
+## ****2\. Organization Information****
 
-### Non-personal identification information:
+The principal activities of Ogean are affiliate marketing and advertising.  
+Modern information and communication technologies play a fundamental role in the activities of Ogean.  
+Ogean is based in India  
+Ogean can be reached via e-mail at [info@ogean.com](mailto:info@points2shop.com)
 
- # We may collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Site, such as the operating system and the Internet service providers utilized and other similar information.  
+## ****3\. Anonymous Access****
 
+Visitors can access the website/application home pages and browse sites/applications without disclosing personal data.
 
-### Web browser cookies:
+## **********4\. Services and Links**********
 
- # Our Site may use "cookies" to enhance User experience. User's web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.
+Ogean websites and mobile applications allow communication with other visitors and post information that can be accessed by other visitors. Communication via these posts is voluntary. All information communicated is the responsibility and discretion of the individual and may be collected by other visitors. Ogean sites and applications may include links to third-party web/mobile service providers. Ogean is not responsible for the content, accuracy, or privacy policies of third-party web/mobile services.
 
-### How we use collected information:
+## **********************5\. Automatic Data Collection**********************
 
- # OGEAN india collects and uses Users personal information for the following purposes:
+Ogean may collect information from your computer, mobile phone or other access device. The information sent to us includes, but is not limited to, data on the pages you access, your computer IP address, referral data, device identifiers, the type of operating system you’re using, your location (GPS), mobile network information, standard web log data and other information. Web log data includes the browser type you’re using and traffic to and from our site to determine trends, administer the site, track user movement in the aggregate, and gather broad demographic information for aggregate use.
 
-\- To personalize user experience  
- We may use information in the aggregate to understand how our Users as a group use the services     and resources provided on our Site.  
-\- To improve our Site  
- We continually strive to improve our website offerings based on the information and feedback we  receive from you.  
-\- To improve customer service  
-Your information helps us to more effectively respond to your customer service requests and support needs.  
-\- To process transactions  
- We may use the information Users provide about themselves when placing an order only to provide service to that order. We do not share this information with outside parties except to the extent necessary to provide the service.  
-\- To send periodic emails  
-The email address Users provide for order processing, will only be used to send them information and updates pertaining to their order. It may also be used to respond to their inquiries, and/or other requests or questions. If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email or User may contact us via our Site.
+## **********************************************6\. Data Collection and Purpose**********************************************
 
-### How we protect your information:
+We may use the personal data supplied or provided by you to send you emails containing invitations for participation in promotions, including, but not limited to, offers and market research survey opportunities offered by our clients and/or partners. Your participation in these opportunities is completely voluntary and you can opt-out at any time.
 
- # We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Site.
+Additionally, we may share personal data and demographic information we collect from you with our clients or partners in connection with promotions like offers and market research surveys opportunities, offered by our clients or partners for several purposes, including, without limitation, facilitating your participation in a survey(s), offers, fraud detection and prevention, data validation, incentive or reward fulfillment (if applicable), identifying respondents for re-contact surveys and offers, or communications, database matching, data append, coding, data segmentation, and/or developing data insights regarding survey and offer participants.
 
-# Our Site is in compliance with PCI vulnerability standards in order to create as secure of an environment as possible for Users.
+Postal address information is used only to receive information for which the address is provided. This includes periodic contact from Ogean to enquire about customer satisfaction and the status of customer accounts.
 
-### Sharing your personal information:
+Telephone numbers collected by Ogean are used only to promote and support affairs internal to Ogean and are not shared or distributed to third parties unless required for incentive or reward fulfillment and verification purposes.
 
-# We do not sell, trade, or rent Users personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above.We may use third party service providers to help us operate our business and the Site or administer activities on our behalf, such as sending out newsletters or surveys. We may share your information with these third parties for those limited purposes provided that you have given us your permission.      
+Access to collected personal data is available upon request. You can review your personal information at any time by logging in to your account and browsing to http://www.ogean.com/memberlist.php
 
+We reserve the right to share your identity with others within the stipulations of data protection in an attempt to prevent further fraudulent activity. We may also obtain information about you from third parties such as identity verification services
 
-### Third party websites:
+## **********7\. Sharing and Cookies**********
 
- # Users may find advertising or other content on our Site that link to the sites and services of our partners, suppliers, advertisers, sponsors, licensors and other third parties. We do not control the content or links that appear on these sites and are not responsible for the practices employed by websites linked to or from our Site. In addition, these sites or services, including their content and links, may be constantly changing. These sites and services may have their own privacy policies and customer service policies. Browsing and interaction on any other website, including websites which have a link to our Site, is subject to that website's own terms and policies.  
+Most web browsers automatically accept cookies, but you can usually configure your browser to prevent this occurrence. Not accepting cookies may make certain features of ogean.com unavailable to you; though we will make every effort to ensure that users who have disabled cookies are denied access only to those portions of the website that legitimately require cookies for their functionality. To opt-out of these cookies and for more information, please visit aboutads.info/choices and/or networkadvertising.org/managing/opt_out.asp.
 
+Ogean assists clients and/or partners in recruiting for their online/mobile ad exposure programs. In connection with a client’s and/or partner’s online/mobile ad exposure program, you can participate in offers and market research surveys regarding specific online ads and promotions that our client or partner is testing for its client. To facilitate the completion of these offers and surveys, we and/or our client/partner may write, set or read third party cookies, locally shared/stored objects, flash cookies, and/or any other related technology (each a “Third Party Technology” and collectively the “Third Party Technologies”). The Third Party Technologies may be written, set or read in various locations, including and without limitation, on our and/or our client/partner’s website(s), system(s), or server(s). If you participate, a unique identification number and a source identification number may be stored in the Third Party Technology, to allow you to be re-contacted about the online ad or promotion and to determine whether you have seen, clicked on or otherwise interacted with the online ad or promotion. If you have interacted with the online ad or promotion, our client or partner will send us your unique identification number and a link to the specific survey or offer on the online ad or promotion and you will receive an email invitation to participate in and complete the survey once opt-in for email. Survey participation is completely voluntary and you can opt-out at any time. If you do not wish to participate in the Online Ad Exposure Program, please visit http://www.ogean.com.
 
-### Advertising:
+Ogean may allow other companies, called third party ad servers or ad networks, to display advertisements on Ogean.com or within our mobile applications. Some of these ad networks may place a persistent cookie on your computer. Doing this allows them to recognize your computer each time they send you an online advertisement. In this way, ad networks may compile information about where you or others, who are using your computer, saw their advertisements and determine which ads are clicked on. This information allows an ad network to deliver targeted advertisements that they believe will be of most interest to you. Ogean does not have access to or control over the cookies that may be placed by these parties on your computer, and has no control over these parties' privacy policies or information collection practices.
 
- **  # Ads appearing on our site may be delivered to Users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile non personal identification information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This privacy policy does not cover the use of cookies by any advertisers.**
+## **********************8\. Children's Privacye**********************
 
-### Google Adsense:
+Ogean does not knowingly collect personal data from individuals under the age of 13. Minors 13 to 18 are permitted to access the services of the site only with parental permission. It is the responsibility of the individual and the parent to ensure such permissions are obtained. It is possible that by fraud or deception we may receive information given to us or pertaining to children under 13. If we are notified of this and as soon as we verify the information, we will immediately delete the information from our servers.
 
-  **# Some of the ads may be served by Google. Google's use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses "non personally identifiable information" and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at http://www.google.com/privacy_ads.html  
-**  
+## **********************************************9\. Disclosure**********************************************
 
+Except as set forth herein, Ogean does not disclose personal data to subsidiaries or other organizations without your permission or where it can reasonably be inferred from the circumstances that you consent to the disclosure to the third parties. Ogean tries to limit the information it provides to third parties to the information they need to help Ogean provide goods and services to you.
 
-###  Compliance with children's online privacy protection act:
+## **********10\. Third Party Advertisements**********
 
-  **# Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our Site from those we actually know are under 13, and no part of our website is structured to attract anyone under 13.**
+The Ogean websites, mobile applications and emails contain links to various other sites that are not owned by us. While Ogean makes every effort to ensure that our advertisers post clear and complete Privacy Policies and observe appropriate data practices, each of these sites/applications has a privacy policy that may differ from that of Ogean. The privacy practices of other websites/applications and companies are not covered by this policy. Please be aware that we are not responsible for the privacy practices of such other sites/applications. We encourage you to be aware when you leave our site/application and to read the privacy statements of each and every website that collect personally identifiable information.
 
-###  Rule for Getting Points:
+Ogean may share non-personally identifiable information collected via the service in aggregate, anonymous form with advertisers or other third parties so that they may better evaluate what products and services are most appealing to different segments of the user base. Ogean does not disclose your first name/last name, address, email address or any other Personal Information to these third parties unless you give your express consent.
 
-  **# In this site,the game points are awarded to the user based on the time they spend on each game,the time and the points awarded is liable to change according to our policy,if any one   exploiting the system in any means to get more points or any other rewards,we have the right to delete that account,and ban the same user.**
+## **********************11\. Confidentiality and Security**********************
 
-### Rule for Promoters:
+Ogean does not employ the use of secure transmission methods to send personal data.
 
-  **# By the process of referring this website as a promoter ,we clearly assume that you are not doing spamming,if its been found out ,we have the right to suspend/delete the same user,apart from this the traffic to ogn is been analyzed using google analytics,and the bounce rate should be under 50% ,if its exceeds the same we have the complete discretion on paying that user .**
+Ogean has implemented security policies, rules and technical measures to protect the personal data from unauthorized access, improper use or disclosure, unauthorized modification and unlawful destruction or accidental loss.
 
-###  Account Ownership:
+Ogean employees and data processors with access or association to the processing of personal data are obliged to respect the confidentiality of visitor personal data.
 
-  **# Our policy is that ,A single user is expected to create only one account in the website,and hence we allow only one user to login from one internet connection simultaneously,if any one uses more than one account in the site,If found we have the right to delete and ban the same user .  
-**  
+Ogean does not disclose personal data to State institutions and authorities unless required by law.
 
+## **********************************************12\. Access to Personal Data**********************************************
 
-###  Changes to this privacy policy:  
+Visitors may request access to their own specific personal information collected by Ogean by visiting the member account information section of the Ogean website: http://www.ogean.com/memberlist.php
 
+Access to personal information may require proof of identity. Access to personal data is provided without charge. Personal data may be challenged or updated and, where appropriate, data will be completed, erased, rectified or amended. Ogean reserves the right to refuse access to personal data. In such a case, reasons will be given for refusal.
 
-  **# OGEAN india has the discretion to update this privacy policy at any time. When we do, we will post a notification on the main page of our Site, revise the updated date at the bottom of this page and send you an email. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.  
-**  
+You can close your account through our website. If you close your account, we will mark your account in our database as "Closed," but will keep your account information in our database. This is necessary to deter fraud or abuse of the site, by ensuring that persons who try to commit fraud or abuse of the site will not be able to avoid detection simply by closing their account and opening a new account. However, if you close your account, your personally-identifiable information will not be used by us for any further purposes, nor sold to or shared with third parties, except as necessary to prevent fraud and assist law enforcement or as required by law.
 
+## ******13\. Privacy Compliance******
 
-###  Your acceptance of these terms:
+The Ogean privacy policy is compliant with the following international and national regulations:
 
- **  # By using this Site, you signify your acceptance of this policy. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.**  
-  
+Global: OECD Privacy Guidelines on the Protection of Privacy and Transborder Flows of Personal Data Guidelines
 
+Global: United Nations Guidelines for the Regulation of Personal Data Files Adopted by General Assembly Resolution 45/95 of 14 December 1990
 
-### Contacting us:
+Privacy compliance is ensured by periodic self-assessment.
 
-  **# If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
-**  
+## ******14\. Privacy Support******
 
+Enquiries or concerns about the Ogean privacy policy can be directed to:
 
-###  OGEAN india  
-http://www.ogean.com  
-OGEAN, KSHRB Building  
-support@onlinegamesnow.in
-
-This document was last updated on March 25, 2013  
-Privacy policy created by Generate Privacy Policy.
+E-mail: [info@ogean.com](mailto:info@Points2Shop.com)
