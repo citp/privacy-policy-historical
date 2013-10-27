@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the creditcardinsider.com privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602032814id_/http%3A//www.creditcardinsider.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the creditcardinsider.com privacy policy that was archived on 2013-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131027064156id_/http%3A//www.creditcardinsider.com/about/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Credit Card Insider
+# Privacy Policy - Credit Card Insider - Resource for Credit Cards
 
 Credit Card Insider takes your privacy seriously. This privacy policy describes what personal information we collect and how we use it.
 
@@ -28,19 +28,19 @@ Concerns or questions can be directed through our [contact form](https://web.arc
 
 #### The Insider Blog
 
-## [Can You Use a Credit Card to Help Fund Your Retirement? ›](http://www.creditcardinsider.com/insider/can-you-use-a-credit-card-to-help-fund-your-retirement/)
+## [How Many Points Will Credit Card Debt Lower My Scores? ›](http://www.creditcardinsider.com/insider/how-many-points-will-credit-card-debt-lower-my-scores/)
 
-These days, credit cards are used for more than just the convenience of making purchases with plastic. They’re also used to earn rewards on purchases –from airline miles to points to cash-back. Many rewards cards also offer additional convenience perks ranging from concierge and travel booking services to extended warranty coverage on purchases.  Believe it…   
-[Continue Reading ›](http://www.creditcardinsider.com/insider/can-you-use-a-credit-card-to-help-fund-your-retirement/)
+If you are looking for a clear and concise answer to the question “How many points will credit card debt lower my scores?” then you are in for a bit of a disappointment. Credit scoring models do not just deduct 10 points for being $500 in credit card debt or 25 points for a late…   
+[Continue Reading ›](http://www.creditcardinsider.com/insider/how-many-points-will-credit-card-debt-lower-my-scores/)
 
 #### More From The Insider
 
-### [Financial Tool Review: Credit Sesame ›](http://www.creditcardinsider.com/insider/financial-tool-review-credit-sesame-2/)
+### [Some Credit Card Practices Still Concern CFPB ›](http://www.creditcardinsider.com/news/some-credit-card-practices-still-concern-cfpb/)
 
-Established in 2010, Credit Sesame is an online financial management tool founded to help members gain wealth through better decisions about loans and credit. The service, which provides a credit and debt analysis, as well as personalized savings advice, is free. Credit Sesame makes its money from advertising and commissions on referrals to products. Getting…   
-[Continue Reading ›](http://www.creditcardinsider.com/insider/financial-tool-review-credit-sesame-2/)
+The Consumer Financial Protection Bureau (CFPB) has identified several outstanding problems with how the credit card industry is conducting business in its study released Oct. 1, which assesses how the 2009 CARD Act has helped Americans in the past few years. CFPB director Richard Cordray spoke on the following issues of concern at the CARD…   
+[Continue Reading ›](http://www.creditcardinsider.com/news/some-credit-card-practices-still-concern-cfpb/)
 
-### [Can Employers Pull My Credit Scores…or My Credit Reports? ›](http://www.creditcardinsider.com/insider/can-employers-pull-my-credit-scores-or-my-credit-reports/)
+### [Someone Stole My Credit Card – What Do I Do Now? ›](http://www.creditcardinsider.com/insider/someone-stole-my-credit-card-what-do-i-do-now/)
 
-The mass confusion surrounding the question of whether or not employers use credit scores in employment screening begins and ends with the way the terms “credit report” and “credit score” are repeatedly used interchangeably in the media, online and even within the consumer credit industry. So, step one…clarify the difference between the two items. Credit…   
-[Continue Reading ›](http://www.creditcardinsider.com/insider/can-employers-pull-my-credit-scores-or-my-credit-reports/)
+Someone stole my credit card! It’s a scenario none of us wants to imagine, but it pays to be prepared and to know ahead of time how to react in case your credit card is ever stolen or lost. Though annoying, a stolen card is relatively easy to manage, and the faster you act, the…   
+[Continue Reading ›](http://www.creditcardinsider.com/insider/someone-stole-my-credit-card-what-do-i-do-now/)
