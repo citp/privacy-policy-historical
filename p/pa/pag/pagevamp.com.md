@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pagevamp.com privacy policy that was archived on 2013-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130627154312id_/http%3A//www.pagevamp.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pagevamp.com privacy policy that was archived on 2013-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131027071825id_/http%3A//www.pagevamp.com/privacypolicy) for the most accurate reproduction.*
 
-# Pagevamp
+# Privacy Policy | Pagevamp
 
 Pagevamp may collect personal information from users who use and sign up to the Service. The personal information that we collect includes names, street addresses, phone numbers and email addresses. The Site may also use google analytics and cookies to recognize visitors to [http://pagevamp.com](http://pagevamp.com/) for us to analyze general user traffic patterns. (See IP address below for more info) 
 
