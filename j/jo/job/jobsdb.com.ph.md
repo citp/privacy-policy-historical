@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jobsdb.com.ph privacy policy that was archived on 2012-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121201114247id_/http%3A//ph.jobsdb.com/PH/en/StaticContentContainer/PrivacyPolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobsdb.com.ph privacy policy that was archived on 2013-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131027040318id_/http%3A//ph.jobsdb.com/PH/en/StaticContentContainer/PrivacyPolicy.htm) for the most accurate reproduction.*
 
 # None
 
