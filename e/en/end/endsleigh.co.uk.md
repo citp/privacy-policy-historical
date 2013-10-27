@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the endsleigh.co.uk privacy policy that was archived on 2013-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130622040049id_/http%3A//www.endsleigh.co.uk/Media/pages/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the endsleigh.co.uk privacy policy that was archived on 2013-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131027194702id_/http%3A//www.endsleigh.co.uk/Media/pages/privacy_policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - Endsleigh Insurance Services Limited
 
@@ -15,15 +15,14 @@
 View your policy:**  
 
 
-[](https://web.archive.org/Pages/Login.aspx?Source=http%3A%2F%2Fwww%2Eendsleigh%2Eco%2Euk%2FMedia%2FPages%2Fprivacy%5Fpolicy%2Easpx)
+[](https://web.archive.org/Pages/Login.aspx?Source=http%3A%2F%2Fwww%2Eendsleigh%2Eco%2Euk%2FMedia%2Fpages%2Fprivacy%5Fpolicy%2Easpx)
 
 At Endsleigh we are committed to protecting your privacy. All your information is collected and handled lawfully in accordance with the Data Protection Act 1998 (as amended from time to time). 
 
-This Privacy Policy should be read in conjunction with the [Website Terms and Conditions](https://web.archive.org/about/pages/website_terms.aspx "Terms and conditions").
+This privacy policy should be read in conjunction with the [website terms and conditions](https://web.archive.org/about/pages/website_terms.aspx "Endsleigh website terms and conditions").
 
-**What information do we collect and how is it used?**
-
-We collect information that you actively provide us with, either when requesting a quote or purchasing a product or service from us. In addition, we may search external sources (e.g. the edited electoral roll, county court judgments, bankruptcy registers) to assess your insurance application and check your information is accurate. These searches may be recorded by credit agencies but won't affect your credit standing. If you proceed to purchase a policy, please be aware that these searches may be conducted again when your policy is due for renewal. 
+**What information do we collect and how is it used?  
+**We collect information that you actively provide us with, either when requesting a quote or purchasing a product or service from us. In addition, we may search external sources (e.g. the edited electoral roll, county court judgments, bankruptcy registers) to assess your insurance application and check your information is accurate. These searches may be recorded by credit agencies but won't affect your credit standing. If you proceed to purchase a policy, please be aware that these searches may be conducted again when your policy is due for renewal. 
 
 Information we hold about you may be used for the following purposes: 
 
@@ -34,14 +33,12 @@ Information we hold about you may be used for the following purposes: 
   * To assist in making decisions on any claim you may make; 
   * To carry out market analysis and customer profiling and create statistical and testing information; 
   * To help to prevent and detect fraud or loss; 
+  * To contact you in any way, where you have previously consented, about products or services offered by us or other companies within the Zurich Insurance Group (of which Endsleigh are a part).
 
 
 
-To contact you in any way, where you have previously consented, about products or services offered by us, other companies in the Endsleigh group and carefully selected third parties. 
-
-**Will Endsleigh disclose the information it collects to third parties?**
-
-Your information will only be disclosed to third parties in the following circumstances: 
+**Will Endsleigh disclose the information it collects to third parties?  
+**Your information will only be disclosed to third parties in the following circumstances: 
 
   * You have given your consent; or 
   * Disclosure is required or permitted by law or regulation; or 
@@ -51,30 +48,23 @@ Your information will only be disclosed to third parties in the following circum
 
 
 
-**Dealing with Others**
+**Dealing with others  
+**In some exceptional circumstances we may deal with people who contact us on your behalf, such as family members, although we will not disclose to them any personal information we hold about you. If you would prefer us to deal only with you, please let us know. Where you give us information on behalf of someone else you confirm that they are aware of and accept our privacy policy. 
 
-In some exceptional circumstances we may deal with people who contact us on your behalf, such as family members, although we will not disclose to them any personal information we hold about you. If you would prefer us to deal only with you, please let us know. Where you give us information on behalf of someone else you confirm that they are aware of and accept our Privacy Policy. 
+**Cookies  
+**Read our [Endsleigh cookie policy](http://www.endsleigh.co.uk/Pages/cookie-policy.aspx "Endsleigh cookie policy"). 
 
-**Cookies**
+**Storage of information  
+**Any personal information is held safely with our security systems preventing unauthorised access.
 
-Read our [Endsleigh cookie policy](http://www.endsleigh.co.uk/Pages/cookie-policy.aspx "Endsleigh cookie policy"). 
+**Does Endsleigh keep web logs?  
+**Endsleigh maintains web logs in order to evaluate the popularity of its pages and sites. These will not reveal any details about you or impact on your privacy in any way. 
 
-**Storage of information**
+**How can you prevent further contact?  
+**If you decide at any time to that you do not want to receive information about other products and services offered by us and other companies within the Zurich Insurance Group (of which Endsleigh are a part) please let us know. You can do this by phoning us on **0844 472 2592**. 
 
-Any personal information is held safely with our security systems preventing unauthorised access.
+**Changes to this policy**   
+If we change our privacy policy, we will post any changes on these pages so that you are always aware of how we use your information. 
 
-**Does Endsleigh keep web logs?**
-
-Endsleigh maintains web logs in order to evaluate the popularity of its pages and sites. These will not reveal any details about you or impact on your privacy in any way. 
-
-**How can you prevent further contact?**
-
-If you decide at any time that you do not want to receive information about other products and services offered by us, companies in our group and carefully selected third parties, please let us know. You can do this by phoning us on **0844 472 2592**. 
-
-**Changes to this policy**
-
-If we change our Privacy Policy, we will post any changes on these pages so that you are always aware of how we use your information. 
-
-**Tell us what you think**
-
+**Tell us what you think**   
 Endsleigh welcomes your comments about privacy. Please [contact us](https://web.archive.org/about/pages/ContactUs.aspx "Contact Us") with any requests or complaints on the subject. 
