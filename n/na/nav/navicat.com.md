@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the navicat.com privacy policy that was archived on 2013-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130423224123id_/http%3A//navicat.com/en/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the navicat.com privacy policy that was archived on 2013-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131027031527id_/http%3A//www.navicat.com/privacystatement) for the most accurate reproduction.*
 
-# Navicat - Privacy statement - Download the World's Best Oracle Manager, SQL Server GUI, MySQL Front End, SQLite Tool, SQL Azure, PostgreSQL GUI & MariaDB Frontend for Windows, Mac OS X & Linux - Download Now!
+# 隱私條款
 
 Privacy Statement
 
@@ -30,10 +30,7 @@ At this Site, there may be links to companies with whom we have a relationship. 
 Please remember that any information you submit in a chat group or forum will be deemed public information and is not confidential. There is a risk in such communication venues that information can be collected and used by others. Please be careful and responsible when you are online.
 
   
-If you have any questions about any of these practices, please feel free to [contact us](http://navicat.com/en/company/company_overview.html#contact-info "Contact Us").
-
-  
-GUI for MySQL, access to mysql, import data mssql to mysql, download mysql tool for free, import sql, Navicat for Windows, Mac OS X and Linux, MySQL admin, MySQL client and MySQL administrator
+If you have any questions about any of these practices, please feel free to [contact us](http://navicat.com/cht/component/content/category/2-uncategorised?layout=blog#contact-info "Contact Us").
 
   
 
