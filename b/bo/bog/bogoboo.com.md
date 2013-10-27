@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bogoboo.com privacy policy that was archived on 2013-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130628073357id_/http%3A//www.bogoboo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bogoboo.com privacy policy that was archived on 2013-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131027194924id_/http%3A//www.bogoboo.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | BoGoBoo - Funny People, Photos, And more Stuff
 
