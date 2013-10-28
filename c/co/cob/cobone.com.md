@@ -1,10 +1,13 @@
-> *The following text is extracted and transformed from the cobone.com privacy policy that was archived on 2013-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130622001134id_/http%3A//www.cobone.com/static/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cobone.com privacy policy that was archived on 2013-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131028201843id_/http%3A//www.cobone.com/static/privacypolicy) for the most accurate reproduction.*
 
 # Cobone: Privacy Policy
 
 ## Privacy Policy
 
 COBONE.com FZ-LLC ("COBONE") is totally committed to protecting the privacy of our site visitors and customers. The COBONE team members are customers themselves of other Internet sites and fully appreciate and respect the importance of privacy on the Internet. We will not disclose information about our customers to third parties except where it is part of providing a service to you - e.g. arranging for a product to be sent to you, carrying out credit and other security checks and for the purposes of customer research and profiling or where we have your express permission to do so.
+
+**Triperna**  
+We are in the process of re-branding our existing Cobone Destinations offers and relocating them. All your favourite travel specials and more will soon be available at Triperna.com Please note: we will be communicating with you via email regarding the launch of Triperna.com. You may opt out of these communications at any point, as per this privacy policy.
 
 **Your Consent**  
 When you register to Cobone.com you will be providing a limited amount of information which we will store in a secure environment. The data that we hold for each customer is used in order to serve better content to each customer. Below is a list detailing what kind of information we store:
