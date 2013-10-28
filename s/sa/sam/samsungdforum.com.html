@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the samsungdforum.com privacy policy that was archived on 2013-06-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130624094944id_/http%3A//samsungdforum.com/Main/privacypolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the samsungdforum.com privacy policy that was archived on 2013-10-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131028183628id_/http%3A//samsungdforum.com/Main/privacypolicy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html lang="en" xml:lang="en" xmlns="http://www.w3.org/1999/xhtml"><head>
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -9,14 +9,14 @@
 
 	<!-- iPhone -->
 	<meta name="apple-mobile-web-app-title" content="SDF">
-	<link rel="apple-touch-icon" href="/Content/images/apple/apple-touch-icon.png">
-	<link rel="apple-touch-icon-precomposed" href="/Content/images/apple/apple-touch-icon-precomposed.png">
-	<link rel="apple-touch-icon" sizes="57x57" href="/Content/images/apple/apple-touch-icon-57x57.png">
-	<link rel="apple-touch-icon-precomposed" sizes="57x57" href="/Content/images/apple/apple-touch-icon-57x57-precomposed.png">
-	<link rel="apple-touch-icon" sizes="72x72" href="/Content/images/apple/apple-touch-icon-72x72.png">
-	<link rel="apple-touch-icon-precomposed" sizes="72x72" href="/Content/images/apple/apple-touch-icon-72x72-precomposed.png">
-	<link rel="apple-touch-icon" sizes="144x144" href="/Content/images/apple/apple-touch-icon-144x144.png">
-	<link rel="apple-touch-icon-precomposed" sizes="144x144" href="/Content/images/apple/apple-touch-icon-144x144-precomposed.png">
+	<link rel="apple-touch-icon" href="http://djsiw1wjy8vi7.cloudfront.net/content/images/apple/apple-touch-icon.png">
+	<link rel="apple-touch-icon-precomposed" href="http://djsiw1wjy8vi7.cloudfront.net/content/images/apple/apple-touch-icon-precomposed.png">
+	<link rel="apple-touch-icon" sizes="57x57" href="http://djsiw1wjy8vi7.cloudfront.net/content/images/apple/apple-touch-icon-57x57.png">
+	<link rel="apple-touch-icon-precomposed" sizes="57x57" href="http://djsiw1wjy8vi7.cloudfront.net/content/images/apple/apple-touch-icon-57x57-precomposed.png">
+	<link rel="apple-touch-icon" sizes="72x72" href="http://djsiw1wjy8vi7.cloudfront.net/content/images/apple/apple-touch-icon-72x72.png">
+	<link rel="apple-touch-icon-precomposed" sizes="72x72" href="http://djsiw1wjy8vi7.cloudfront.net/content/images/apple/apple-touch-icon-72x72-precomposed.png">
+	<link rel="apple-touch-icon" sizes="144x144" href="http://djsiw1wjy8vi7.cloudfront.net/content/images/apple/apple-touch-icon-144x144.png">
+	<link rel="apple-touch-icon-precomposed" sizes="144x144" href="http://djsiw1wjy8vi7.cloudfront.net/content/images/apple/apple-touch-icon-144x144-precomposed.png">
 
 
 	<title>
@@ -25,13 +25,13 @@
 	</title>
 
 	
-		<meta name="description" content="SAMSUNG D Forum is a website for developers and partners who wants to develop an application for the Samsung Smart TV platform.">
+		<meta name="description" content="SAMSUNG SMART TV APPS Developer Forum is a website for developers and partners who wants to develop an application for the Samsung Smart TV platform.">
 	
-		<meta name="keyword" content="Samsungdforum, Samsung Smart TV SDK, Samsung Developer Forums, Smart TV, Samsung Smart TV Application Development">
+		<meta name="keywords" content="Samsungdforum, Samsung Smart TV SDK, Samsung Developer Forums, Smart TV, Samsung Smart TV Application Development">
 		
 
-    <link rel="shortcut icon" href="http://www.samsungdforum.com//favicon.ico" type="image/x-icon">
-    <link rel="icon" href="http://www.samsungdforum.com//favicon.ico" type="image/x-icon">
+    <link rel="shortcut icon" href="http://www.samsungdforum.com/favicon.ico" type="image/x-icon">
+    <link rel="icon" href="http://www.samsungdforum.com/favicon.ico" type="image/x-icon">
 
 	<link rel="stylesheet" type="text/css" href="/Content/editor/css/editor.css">
     
@@ -103,6 +103,64 @@
 	<script type="text/javascript">
 		var objLoginService = new Object();
 		objLoginService.IsLogin = false;
+
+
+
+         function goTwitter() {
+            var msg = $('title').html().trim();
+            var url =  location.href;
+            var tUrl = encodeURIComponent(msg + " " + url);
+
+               var param = new Object();
+
+				param.C_SITE_ID = "Twitter";
+				param.C_URL =url;
+				    
+				   
+				$.ajax({
+				    type: "POST"
+				, data: param
+				, url: "/Main/CreateSNSLogProc"
+				, dataType: "text"
+				, success: function (msg) {
+				        
+				}, cache: false
+				});
+				
+
+
+            window.open("http://twitter.com/home?status=" + tUrl, "Twitter", "");
+        }
+
+
+        function goFacebook() {
+            var msg = $('meta[name="description"]').attr('content');
+            var url =  location.href;
+            var img = "http://djsiw1wjy8vi7.cloudfront.net/content/images/img_sns.jpg";
+            var title = $('title').html().trim();
+
+
+             var param = new Object();
+
+				param.C_SITE_ID = "FaceBook";
+				param.C_URL =url;
+				    
+				   
+				$.ajax({
+				    type: "POST"
+				, data: param
+				, url: "/Main/CreateSNSLogProc"
+				, dataType: "text"
+				, success: function (msg) {
+				        
+				}, cache: false
+				});
+				
+           
+            window.open("http://www.facebook.com/sharer.php?s=100&p[url]=" + encodeURIComponent(url) + "&p[title]=" + encodeURIComponent(title) + "&p[summary]=" + encodeURIComponent(msg) + "&p[images][0]=" + encodeURIComponent(img), "FaceBook", "");
+        }
+
+
 
 		function SignInOutMaster(pType, pReturnURL)
 		{		
@@ -249,10 +307,11 @@
 		<input type="hidden" name="returnURL" value="http://www.samsungdforum.com">
 		<input type="hidden" name="registURL" value="https://www.samsungdforum.com/Sso/Regist">
 		<input type="hidden" name="emailActivationURL" value="">
+        <input type="hidden" name="ssoType" value="ENC_TK">
 	</form>	
-
+     
 	<div class="s_header">
-		<p class="logo"><a href="javascript:SignInOutMaster('Home');"><img src="/content/images/header/logo.gif" alt="Samsung D Forum"></a></p>
+		<p class="logo"><a href="javascript:SignInOutMaster('Home');"><img src="http://djsiw1wjy8vi7.cloudfront.net/content/images/header/logo.gif" alt="Samsung D Forum"></a></p>
 		<div class="gnb_area">
 			<ul class="top_menu">
 				<li><a href="javascript:SignInOutMaster('Home');">SAMSUNG SMART TV APPS DEVELOPER FORUM</a></li>
@@ -262,7 +321,17 @@
 	
 				<li class="last"><a href="/Support/FaqList">FAQ</a></li>
 				
+
+                
+
+               <!-- header sns -->
+                <li class="header_sns"><a href="javascript:goFacebook();"><img src="http://djsiw1wjy8vi7.cloudfront.net/content/images/header/btn_header_facebook.png" alt="Facebook"></a></li>
+                <li class="header_sns"><a href="javascript:goTwitter();"><img src="http://djsiw1wjy8vi7.cloudfront.net/content/images/header/btn_header_twitter.png" alt="Twitter"></a></li>
+            <!-- //header sns -->
+          
 			</ul>
+
+             
 			<!-- all menu -->
 			<p class="btn_all"><a href="javascript:;" id="open_nav_link">All Menu</a></p>
 			<div id="open_nav" style="margin-top: -227px;">
@@ -309,7 +378,6 @@
 <li><a href="/SamsungDForum/ForumDashBoard/7e2b7fa90012098b">Korean Forum</a></li>
 <li><a href="/SamsungDForum/ForumDashBoard/fc9db838bc1a1dd3">Chinese Forum</a></li>
 <li><a href="/SamsungDForum/ForumDashBoard/f0cd8ea6961d50c3">Russian Forum</a></li>
-<li><a href="/SamsungDForum/ForumDashBoard/df3455b529adf7c4">Contest Forum</a></li>
 <li><a href="/Quiz/QuizList">Quiz Challenge</a></li>
 
 							</ul>
@@ -333,7 +401,7 @@
 							</ul>
 						</div>
 
-						<p class="all_close"><a href="#" id="open_nav_close"><img src="/content/images/header/all_close.gif" alt=""></a></p>
+						<p class="all_close"><a href="#" id="open_nav_close"><img src="http://djsiw1wjy8vi7.cloudfront.net/content/images/header/all_close.gif" alt="All menu Close"></a></p>
 
 					</div>
 				</div>
@@ -344,7 +412,7 @@
 					<li id="TopMenuSub_1">
 						<a href="/Event/Index">News &amp; Event</a>
 						<div class="lnb_news" style="display: none;">
-							<img src="/content/images/header/lnb_arrow.gif" class="work_arrow" alt="">
+							<img src="http://djsiw1wjy8vi7.cloudfront.net/content/images/header/lnb_arrow.gif" class="work_arrow" alt="">
 							<ul class="lnb">
 								<li><a href="/SamsungDForum/NewsList">News</a></li>
 								<li><a href="/Event/Contest">Event</a></li>
@@ -354,7 +422,7 @@
 					<li id="TopMenuSub_2">
 						<a href="/Devtools/index">SDK</a>
 						<div class="lnb_sdk" style="display: none;">
-							<img src="/content/images/header/lnb_arrow.gif" class="work_arrow" alt="">
+							<img src="http://djsiw1wjy8vi7.cloudfront.net/content/images/header/lnb_arrow.gif" class="work_arrow" alt="">
 							<ul class="lnb">
 								<li><a href="/Devtools/SdkDownload">SDK Download</a></li>
 								<li><a href="/Devtools/Spec">Spec &amp; Features</a></li>
@@ -366,7 +434,7 @@
 					<li id="TopMenuSub_3">
 						<a href="/MainGuide">Guide</a>
 						<div class="lnb_guide" style="display: none;">
-							<img src="/content/images/header/lnb_arrow.gif" class="work_arrow" alt="">
+							<img src="http://djsiw1wjy8vi7.cloudfront.net/content/images/header/lnb_arrow.gif" class="work_arrow" alt="">
 							<ul class="lnb">
 								<li><a href="/Guide">Development Guide</a></li>
 <li><a href="/UxGuide">UX Guideline</a></li>
@@ -382,13 +450,12 @@
 					<li id="TopMenuSub_4">
 						<a href="/SamsungDForum/index">Forum</a>
 						<div class="lnb_forum" style="display: none;">
-							<img src="/content/images/header/lnb_arrow.gif" class="work_arrow" alt="">
+							<img src="http://djsiw1wjy8vi7.cloudfront.net/content/images/header/lnb_arrow.gif" class="work_arrow" alt="">
 							<ul class="lnb">
 								<li><a href="/SamsungDForum/ForumDashBoard/c305cb96c72a9e5b">English Forum</a></li>
 <li><a href="/SamsungDForum/ForumDashBoard/7e2b7fa90012098b">Korean Forum</a></li>
 <li><a href="/SamsungDForum/ForumDashBoard/fc9db838bc1a1dd3">Chinese Forum</a></li>
 <li><a href="/SamsungDForum/ForumDashBoard/f0cd8ea6961d50c3">Russian Forum</a></li>
-<li><a href="/SamsungDForum/ForumDashBoard/df3455b529adf7c4">Contest Forum</a></li>
 <li><a href="/Quiz/QuizList">Quiz Challenge</a></li>
 
 							</ul>
@@ -397,7 +464,7 @@
 					<li id="TopMenuSub_5">
 						<a href="/Support/index">Support</a>
 						<div class="lnb_support" style="display: none;">
-							<img src="/content/images/header/lnb_arrow.gif" class="work_arrow" alt="">
+							<img src="http://djsiw1wjy8vi7.cloudfront.net/content/images/header/lnb_arrow.gif" class="work_arrow" alt="">
 							<ul class="lnb">
 								<li><a href="/Support/ActivityPolicy">Activity Policy</a></li>
 <li><a href="/Support/FaqList">FAQ</a></li>
@@ -408,7 +475,7 @@
 					<li id="TopMenuSub_6">
 						<a href="javascript:SignInOutMaster('SignIn', '/MyWork/index');">My Work</a>
 						<div class="lnb_work" style="display: none;">
-							<img src="/content/images/header/lnb_arrow.gif" alt="">
+							<img src="http://djsiw1wjy8vi7.cloudfront.net/content/images/header/lnb_arrow.gif" alt="">
 							<ul class="lnb">
 								<li><a href="javascript:SignInOutMaster('SignIn', '/MyWork/DmMyToDoList');">My Application</a></li>
 								<li><a href="javascript:SignInOutMaster('SignIn', '/MyWork/MyContest');">My Contest</a></li>
@@ -419,16 +486,17 @@
 				</ul>
 			</div>
 		</div>
-		<p class="h_search"><a href="javascript:fnTopSearch();" style="cursor:pointer;"><img src="/content/images/header/btn_search.gif" alt=""></a></p>
+		<p class="h_search"><a href="javascript:fnTopSearch();" style="cursor:pointer;"><img src="http://djsiw1wjy8vi7.cloudfront.net/content/images/header/btn_search.gif" alt="Search"></a></p>
 	</div>
 	<div class="h_search_area" style="display:none;">
 		<div class="header_s">			
 			<div class="input_bg">
-                <input type="text" class="footer_input" id="_TopSearchText" onkeydown="javascript:if (event.keyCode == 13) { fnTopSearchGoGo(); }">
-                <input type="image" src="/content/images/footer/btn_search.gif" onclick="fnTopSearchGoGo()" alt="Search">
+                <label for="_TopSearchText" class="label_hd">Search</label>
+                <input type="text" class="footer_input" maxlength="30" id="_TopSearchText" onkeydown="javascript:if (event.keyCode == 13) { fnTopSearchGoGo(); }">
+                <input type="image" src="http://djsiw1wjy8vi7.cloudfront.net/content/images/footer/btn_search.gif" onclick="fnTopSearchGoGo()" alt="Search">
             </div>
 			<p class="top_search_close">
-                <a href="javascript:fnTopSearch();" style="cursor:pointer;"><img src="/content/images/footer/btn_close.gif" alt="Close"></a>
+                <a href="javascript:fnTopSearch();" style="cursor:pointer;"><img src="http://djsiw1wjy8vi7.cloudfront.net/content/images/footer/btn_close.gif" alt="Close"></a>
             </p>
 		</div>
 	</div>
@@ -450,7 +518,7 @@
 				<div class="visual_bg02">
 					<div class="s_visual02">
 						<h2 class="top_title f_left">Privacy Policy</h2>
-						<p class="line_map  f_right mt_20"><a href="/"><img src="/content/images/common/icon_home.gif"></a><span><span class="arrow">&gt;</span><a href="/Main/privacypolicy">Privacy Policy</a></span></p>	
+						<p class="line_map  f_right mt_20"><a href="/"><img src="http://djsiw1wjy8vi7.cloudfront.net/content/images/common/icon_home.gif" alt="Home"></a><span><span class="arrow">&gt;</span><a href="/Main/privacypolicy">Privacy Policy</a></span></p>	
 					</div>
 				</div>
 			</div>
@@ -458,7 +526,7 @@
 
 
 		<!-- container 영역 -->
-		<div id="#container_area" class="s_container">	
+		<div id="container_area" class="s_container">	
 			
 
             <!-- 페이지 삽입 시작 -->
@@ -677,13 +745,13 @@
 		function fnFeedbackSelectSync(SelectNum) {
 
 			for (var i = 1; i < SelectNum + 1; i++) {
-				$("#_FooterBarFeedBackSelect_" + i).attr("src", "/content/images/footer/icon_sam_on.png");
-				$("#_FooterFeedBackSelect_" + i).attr("src", "/content/images/footer/detail_on.gif");
+				$("#_FooterBarFeedBackSelect_" + i).attr("src", "http://djsiw1wjy8vi7.cloudfront.net/content/images/footer/icon_sam_on.png");
+				$("#_FooterFeedBackSelect_" + i).attr("src", "http://djsiw1wjy8vi7.cloudfront.net/content/images/footer/detail_on.gif");
 			}
 
 			for (var i = SelectNum + 1; i < 6; i++) {
-				$("#_FooterBarFeedBackSelect_" + i).attr("src", "/content/images/footer/icon_sam_off.png");
-				$("#_FooterFeedBackSelect_" + i).attr("src", "/content/images/footer/detail_off.gif");
+				$("#_FooterBarFeedBackSelect_" + i).attr("src", "http://djsiw1wjy8vi7.cloudfront.net/content/images/footer/icon_sam_off.png");
+				$("#_FooterFeedBackSelect_" + i).attr("src", "http://djsiw1wjy8vi7.cloudfront.net/content/images/footer/detail_off.gif");
 			}
 
 			if (SelectNum > 0) {
@@ -850,12 +918,12 @@
 			if ($('#_FooterForumUrl').html() == "") 
 			{
 				$("#_FooterForumUrl").html((document.location.href.length > 88) ? document.location.href.substr(0, 88) + "..." : document.location.href);
-				$("#_FooterForumUrlBtn").attr("src", "/content/images/footer/btn_clear.gif");
+				$("#_FooterForumUrlBtn").attr("src", "http://djsiw1wjy8vi7.cloudfront.net/content/images/footer/btn_clear.gif");
 			} 
 			else 
 			{
 				$('#_FooterForumUrl').html("");
-				$("#_FooterForumUrlBtn").attr("src", "/content/images/footer/btn_urladd.gif");
+				$("#_FooterForumUrlBtn").attr("src", "http://djsiw1wjy8vi7.cloudfront.net/content/images/footer/btn_urladd.gif");
 			}
 		}
 
@@ -1053,6 +1121,14 @@
 			}
 
 		}
+
+        ////////////////////////////////
+        function GoFamily()
+        {            
+            var openNewWindow = window.open("about:blank");
+            openNewWindow.location.href = $("#_FooterFamailySite").val();
+            $("#_FooterFamailySite").val("");
+        }
 	</script>
 	<form id="footerfrm" name="footerfrm" method="post" enctype="multipart/form-data">
 	<input type="hidden" id="hdnFooterFbMark" name="hdnFooterFbMark" value="0">
@@ -1077,11 +1153,11 @@
 					<div id="fb_rank_tooltip" class="tooltip" style="display:none;">Rating this page will help us to provide better service.</div>
 					<!-- //툴팁 -->
                     <p class="rank_icon">
-                        <a href="javascript:fnFooterBarFeedBackSelect('_FooterBarFeedBackSelect_1');"><img src="/content/images/footer/icon_sam_off.png" alt="" id="_FooterBarFeedBackSelect_1"></a>
-                        <a href="javascript:fnFooterBarFeedBackSelect('_FooterBarFeedBackSelect_2');"><img src="/content/images/footer/icon_sam_off.png" alt="" id="_FooterBarFeedBackSelect_2"></a>
-                        <a href="javascript:fnFooterBarFeedBackSelect('_FooterBarFeedBackSelect_3');"><img src="/content/images/footer/icon_sam_off.png" alt="" id="_FooterBarFeedBackSelect_3"></a>
-                        <a href="javascript:fnFooterBarFeedBackSelect('_FooterBarFeedBackSelect_4');"><img src="/content/images/footer/icon_sam_off.png" alt="" id="_FooterBarFeedBackSelect_4"></a>
-                        <a href="javascript:fnFooterBarFeedBackSelect('_FooterBarFeedBackSelect_5');"><img src="/content/images/footer/icon_sam_off.png" alt="" id="_FooterBarFeedBackSelect_5"></a>
+                        <a href="javascript:fnFooterBarFeedBackSelect('_FooterBarFeedBackSelect_1');"><img src="http://djsiw1wjy8vi7.cloudfront.net/content/images/footer/icon_sam_off.png" alt="Bad" id="_FooterBarFeedBackSelect_1"></a>
+                        <a href="javascript:fnFooterBarFeedBackSelect('_FooterBarFeedBackSelect_2');"><img src="http://djsiw1wjy8vi7.cloudfront.net/content/images/footer/icon_sam_off.png" alt="Not Bad" id="_FooterBarFeedBackSelect_2"></a>
+                        <a href="javascript:fnFooterBarFeedBackSelect('_FooterBarFeedBackSelect_3');"><img src="http://djsiw1wjy8vi7.cloudfront.net/content/images/footer/icon_sam_off.png" alt="Good" id="_FooterBarFeedBackSelect_3"></a>
+                        <a href="javascript:fnFooterBarFeedBackSelect('_FooterBarFeedBackSelect_4');"><img src="http://djsiw1wjy8vi7.cloudfront.net/content/images/footer/icon_sam_off.png" alt="Very Good" id="_FooterBarFeedBackSelect_4"></a>
+                        <a href="javascript:fnFooterBarFeedBackSelect('_FooterBarFeedBackSelect_5');"><img src="http://djsiw1wjy8vi7.cloudfront.net/content/images/footer/icon_sam_off.png" alt="Excellent" id="_FooterBarFeedBackSelect_5"></a>
                     </p>                    
                     <!-- 코멘트 -->
 					
@@ -1095,14 +1171,14 @@
 				<div class="feedback_area">					
 
 					<!-- Detail feedback -->
-					<div class="f_feed_area"><a href="javascript:fnFooterBarToggle('_FooterFeedBack');" class="s_link">Detail feedback <img src="/content/images/footer/icon_feedback.png" alt=""></a>
+					<div class="f_feed_area"><a href="javascript:fnFooterBarToggle('_FooterFeedBack');" class="s_link">Detail feedback <img src="http://djsiw1wjy8vi7.cloudfront.net/content/images/footer/icon_feedback.png" alt=""></a>
 						<div style="display:none;" id="_FooterFeedBack">
-							<p class="detail_on"><a href="javascript:fnFooterBarToggle('_FooterFeedBack');"><img src="/content/images/footer/detail_on.png" alt="detail feedback"></a></p>
+							<p class="detail_on"><a href="javascript:fnFooterBarToggle('_FooterFeedBack');"><img src="http://djsiw1wjy8vi7.cloudfront.net/content/images/footer/detail_on.png" alt="detail feedback"></a></p>
 							
 							<div class="footer_feedback">
 								<div class="f_top">
-									<p class="footer_title"><img src="/content/images/footer/detail_title.gif" alt="Search with in this page"></p>
-									<p class="search_close"><a href="javascript:fnFooterBarToggle('_FooterFeedBack');"><img src="/content/images/footer/btn_close.gif" alt="close"></a></p>
+									<p class="footer_title"><img src="http://djsiw1wjy8vi7.cloudfront.net/content/images/footer/detail_title.gif" alt="Detail feedback"></p>
+									<p class="search_close"><a href="javascript:fnFooterBarToggle('_FooterFeedBack');"><img src="http://djsiw1wjy8vi7.cloudfront.net/content/images/footer/btn_close.gif" alt="close"></a></p>
 								</div>
 								<p class="feed_address">
                                     <a class="url" id="_FooterFeedbackUrl" style="white-space: nowrap; overflow: hidden; text-overflow: ellipsis;"></a>                                    
@@ -1121,16 +1197,16 @@
 									</ul>
 								</div>
 								<div class="grade">
-									<p class="title_rate"><img src="/content/images/footer/title_rate.gif" alt="rate this page"></p>
+									<p class="title_rate"><img src="http://djsiw1wjy8vi7.cloudfront.net/content/images/footer/title_rate.gif" alt="rate this page"></p>
 									<p class="detail_rank">
-                                        <a href="javascript:fnFooterFeedBackSelect('_FooterFeedBackSelect_1')"><img src="/content/images/footer/detail_off.gif" alt="" id="_FooterFeedBackSelect_1"></a>
-                                        <a href="javascript:fnFooterFeedBackSelect('_FooterFeedBackSelect_2')"><img src="/content/images/footer/detail_off.gif" alt="" id="_FooterFeedBackSelect_2"></a>
-                                        <a href="javascript:fnFooterFeedBackSelect('_FooterFeedBackSelect_3')"><img src="/content/images/footer/detail_off.gif" alt="" id="_FooterFeedBackSelect_3"></a>
-                                        <a href="javascript:fnFooterFeedBackSelect('_FooterFeedBackSelect_4')"><img src="/content/images/footer/detail_off.gif" alt="" id="_FooterFeedBackSelect_4"></a>
-                                        <a href="javascript:fnFooterFeedBackSelect('_FooterFeedBackSelect_5')"><img src="/content/images/footer/detail_off.gif" alt="" id="_FooterFeedBackSelect_5"></a>
+                                        <a href="javascript:fnFooterFeedBackSelect('_FooterFeedBackSelect_1')"><img src="http://djsiw1wjy8vi7.cloudfront.net/content/images/footer/detail_off.gif" alt="Bad" id="_FooterFeedBackSelect_1"></a>
+                                        <a href="javascript:fnFooterFeedBackSelect('_FooterFeedBackSelect_2')"><img src="http://djsiw1wjy8vi7.cloudfront.net/content/images/footer/detail_off.gif" alt="Not Bad" id="_FooterFeedBackSelect_2"></a>
+                                        <a href="javascript:fnFooterFeedBackSelect('_FooterFeedBackSelect_3')"><img src="http://djsiw1wjy8vi7.cloudfront.net/content/images/footer/detail_off.gif" alt="Good" id="_FooterFeedBackSelect_3"></a>
+                                        <a href="javascript:fnFooterFeedBackSelect('_FooterFeedBackSelect_4')"><img src="http://djsiw1wjy8vi7.cloudfront.net/content/images/footer/detail_off.gif" alt="Very Good" id="_FooterFeedBackSelect_4"></a>
+                                        <a href="javascript:fnFooterFeedBackSelect('_FooterFeedBackSelect_5')"><img src="http://djsiw1wjy8vi7.cloudfront.net/content/images/footer/detail_off.gif" alt="Excellent" id="_FooterFeedBackSelect_5"></a>
                                     </p>
 									<div id="FooterFBText" class="text_rank"></div>
-									<textarea id="FooterFBTextArea" maxlength="" class="rank_write" style="overflow-y:auto;" onclick="javascript:fnFooterFBTextAreaInit();" onkeyup="javascript:fnFooterFBTextAreaChange(this);" onchange="javascript:fnFooterFBTextAreaChange(this);">Write a brief description of the problem you're reporting.</textarea>
+									<label class="hd" for="FooterFBTextArea">A brief description box</label><textarea id="FooterFBTextArea" maxlength="" class="rank_write" style="overflow-y:auto;" onclick="javascript:fnFooterFBTextAreaInit();" onkeyup="javascript:fnFooterFBTextAreaChange(this);" onchange="javascript:fnFooterFBTextAreaChange(this);">Write a brief description of the problem you're reporting.</textarea>
 									<div class="submit_area">(<div id="FooterTAreaRemainCount" style="display:inline;">1500</div>&nbsp;characters remaining)</div>
                                 </div>
                                     <span class="btn_submit"><a href="javascript:fnFooterGoTransperAjax('FooterFeedbackDesc');">Submit</a></span>								
@@ -1139,25 +1215,29 @@
 					</div>
 					<!-- //Detail feedback -->
 
-					<div class="f_forum_area"><a href="javascript:fnFooterBarToggle('_FooterForumDirect');" class="s_link">Join Forum <img src="/content/images/footer/icon_write.png" alt=""></a>
+					<div class="f_forum_area"><a href="javascript:fnFooterBarToggle('_FooterForumDirect');" class="s_link">Join Forum <img src="http://djsiw1wjy8vi7.cloudfront.net/content/images/footer/icon_write.png" alt=""></a>
 						<div style="display:none;" id="_FooterForumDirect">
-							<p class="forum_on"><a href="javascript:fnFooterBarToggle('_FooterForumDirect');"><img src="/content/images/footer/forum_on.png" alt="join forum"></a></p>
+							<p class="forum_on"><a href="javascript:fnFooterBarToggle('_FooterForumDirect');"><img src="http://djsiw1wjy8vi7.cloudfront.net/content/images/footer/forum_on.png" alt="join forum"></a></p>
 							
 							<div class="footer_forum">
                                     <div class="f_top">
-									    <p class="footer_title"><img src="/content/images/footer/forum_title.gif" alt="Write about this page on the forum "></p>
-									    <p class="search_close"><a href="javascript:fnFooterBarToggle('_FooterForumDirect');"><img src="/content/images/footer/btn_close.gif" alt="close"></a></p>
+									    <p class="footer_title"><img src="http://djsiw1wjy8vi7.cloudfront.net/content/images/footer/forum_title.gif" alt="Write about this page on the forum "></p>
+									    <p class="search_close"><a href="javascript:fnFooterBarToggle('_FooterForumDirect');"><img src="http://djsiw1wjy8vi7.cloudfront.net/content/images/footer/btn_close.gif" alt="close"></a></p>
 								    </div>
 								    <div class="url_area">
                                         <p class="url_bg">
                                             <a class="url" id="_FooterForumUrl" style="white-space: nowrap; overflow: hidden; text-overflow: ellipsis;"></a>
-                                            <a href="javascript:fnFooterForumUrl();" class="btn_clear"><img src="/content/images/footer/btn_clear.gif" id="_FooterForumUrlBtn"></a>
+                                            <a href="javascript:fnFooterForumUrl();" class="btn_clear"><img src="http://djsiw1wjy8vi7.cloudfront.net/content/images/footer/btn_clear.gif" id="_FooterForumUrlBtn" alt="URL Clear"></a>
                                         </p>
                                     </div>
 
 								    <div class="f_input_area">
-									    <p><input type="text" value="Forum Title" title="write title" class="f_forum_title" maxlength="50" id="_FooterForumTitle" name="_FooterForumTitle" onfocus="fnFooterForumFocus();" onblur="fnFooterForumBlur();" onkeyup="javascript:fnFooterForumTitleChange(this);"><br></p><div><div id="_FooterForumTitleRemain" style="display:inline;">50</div> characters remaining</div><p></p>
-									    <p><textarea class="f_forum_con" id="_FooterForumContents" name="_FooterForumContents" onfocus="fnFooterContentsForumFocus();" onblur="fnFooterContentsForumBlur();" rows="" cols="">Forum to leave a comment on this page</textarea></p>
+									    <p>
+                                            <label for="_FooterForumTitle" class="label_hd">Forum Title</label>
+                                            <input type="text" value="Forum Title" title="write title" class="f_forum_title" maxlength="50" id="_FooterForumTitle" name="_FooterForumTitle" onfocus="fnFooterForumFocus();" onblur="fnFooterForumBlur();" onkeyup="javascript:fnFooterForumTitleChange(this);"><br></p><div><div id="_FooterForumTitleRemain" style="display:inline;">50</div> characters remaining</div><p></p>
+									    <p>
+                                            <label for="_FooterForumContents" class="label_hd">Forum to leave a comment on this page</label>
+                                            <textarea class="f_forum_con" id="_FooterForumContents" name="_FooterForumContents" onfocus="fnFooterContentsForumFocus();" onblur="fnFooterContentsForumBlur();" rows="" cols="">Forum to leave a comment on this page</textarea></p>
 									    <div style="position:relative; width:592px;">
                                             <input type="text" readonly="readonly" title="write title" class="f_forum_search" id="_FooterForumFileView" style="width:500px; z-index:10; position:absolute; left:0; top:0; float:left;"> 
                                             <input type="file" id="_FooterForumFile" name="_FooterForumFile" style="cursor:pointer;filter:alpha(opacity=0); opacity:0; -moz-opacity:0; font-size:14pt; selector-dummy: expression(this.hideFocus=true); float:right; right:0px; position:absolute; z-index:5; width:339px" onchange="javascript:fnFooterForumChangeFileSearch(this);" title="Browse a file">
@@ -1165,9 +1245,11 @@
                                         </div>
 								    </div>
 								    <div class="select_area">
+                                        <label for="_FooterDdlForumCateListCommon" class="label_hd">Select Forum</label>
 									    <select id="_FooterDdlForumCateListCommon" name="_FooterDdlForumCateListCommon" onchange="javascript:fnFooterChangeForumCateSub('_FooterDdlForumBoardListByCategoryCommon', this.value);">
 										    <option value="">Select Forum</option>
 									    </select>
+                                        <label for="_FooterDdlForumBoardListByCategoryCommon" class="label_hd">Select Category</label>
 									    <select id="_FooterDdlForumBoardListByCategoryCommon" name="_FooterDdlForumBoardListByCategoryCommon">
 										    <option value="">Select Category</option>
 									    </select>
@@ -1175,23 +1257,25 @@
 								    </div>
                                     <input type="hidden" id="_FooterRelateUrl" name="_FooterRelateUrl" value="">
                                     <input type="hidden" id="_FooterForumMenuForFriends" name="_FooterForumMenuForFriends" value="">
-                                    <iframe id="_FooterUploadIFrame" name="_FooterUploadIFrame" style="display:none;" src="about:blank"></iframe>
+                                    <iframe id="_FooterUploadIFrame" name="_FooterUploadIFrame" title="" style="display:none;" src="about:blank"></iframe>
                                 
 							</div>
 						</div>
 					</div>
                     <!-- search -->
-					<div class="f_search_area"><a href="javascript:fnFooterBarToggle('_FooterSearch');" class="s_link">Search <img src="/content/images/footer/icon_search.png" alt=""></a>
+					<div class="f_search_area"><a href="javascript:fnFooterBarToggle('_FooterSearch');" class="s_link">Search <img src="http://djsiw1wjy8vi7.cloudfront.net/content/images/footer/icon_search.png" alt=""></a>
 						<div style="display:none;" id="_FooterSearch">
-							<p class="search_on"><a href="javascript:fnFooterBarToggle('_FooterSearch');"><img src="/content/images/footer/search_on.png" alt="search"></a></p>				
+							<p class="search_on"><a href="javascript:fnFooterBarToggle('_FooterSearch');"><img src="http://djsiw1wjy8vi7.cloudfront.net/content/images/footer/search_on.png" alt="search"></a></p>				
 										
 							<div class="footer_search">
 								<div class="f_top">
-									<p class="footer_title"><img src="/content/images/footer/search_title.gif" alt="Search with in this page"></p>
-									<p class="search_close"><a href="javascript:fnFooterBarToggle('_FooterSearch');"><img src="/content/images/footer/btn_close.gif" alt="close"></a></p>
+									<p class="footer_title"><img src="http://djsiw1wjy8vi7.cloudfront.net/content/images/footer/search_title.gif" alt="Search with in this page"></p>
+									<p class="search_close"><a href="javascript:fnFooterBarToggle('_FooterSearch');"><img src="http://djsiw1wjy8vi7.cloudfront.net/content/images/footer/btn_close.gif" alt="close"></a></p>
 								</div>
-								<div class="input_bg"><input type="text" id="_FooterSearchText" value="Keyword" class="footer_input" onkeydown="javascript:if (event.keyCode == 13) { fnFooterSeachGoGo(); }">
-                                    <a href="javascript:fnFooterSeachGoGo();"><img src="/content/images/footer/btn_search.gif" alt="Search"></a>
+								<div class="input_bg">
+                                    <label for="_FooterSearchText" class="label_hd">Search</label>
+                                    <input type="text" id="_FooterSearchText" value="Keyword" class="footer_input" onkeydown="javascript:if (event.keyCode == 13) { fnFooterSeachGoGo(); }">
+                                    <a href="javascript:fnFooterSeachGoGo();"><img src="http://djsiw1wjy8vi7.cloudfront.net/content/images/footer/btn_search.gif" alt="Search"></a>
                                 </div>
 							</div>
 						</div>
@@ -1204,41 +1288,53 @@
 		</div>
 
 		<div class="footer">
-			<p class="f_logo"><img src="/content/images/footer/f_logo.jpg" alt="Sumsung logo"></p>
+			<p class="f_logo"><img src="http://djsiw1wjy8vi7.cloudfront.net/content/images/footer/f_logo.jpg" alt="Sumsung logo"></p>
 			<div class="copy_area">
 				<ul>
 					<li><a href="/Main/terms">Terms and Conditions</a></li>
-					<li><a href="/Main/privacypolicy">Privacy Policy</a> &lt;<a href="/Main/privacypolicy?lang=kr">개인정보취급방침</a> · <a href="/Main/privacypolicy2?lang=kr">개인정보처리방침</a>&gt;</li>
+					<li><a href="/Main/privacypolicy">Privacy Policy</a> &lt; <a href="/Main/privacypolicy?lang=kr">개인정보취급방침</a> · <a href="/Main/privacypolicy2?lang=kr">개인정보처리방침</a>&gt;</li>
 					<li class="last"><a href="/Main/sitemap">Sitemap</a></li>
 				</ul>
 				<p class="copyright">All contents copyright ⓒ Samsung Electronics Co., Ltd</p>
 			</div>
+                <!-- footer sns -->
+
+                   
+
+            <ul class="footer_sns">
+                <li><a href="javascript:goFacebook();"><img src="http://djsiw1wjy8vi7.cloudfront.net/content/images/footer/btn_footer_facebook.png" alt="Facebook"></a></li>
+                <li><a href="javascript:goTwitter();"><img src="http://djsiw1wjy8vi7.cloudfront.net/content/images/footer/btn_footer_twitter.png" alt="Twitter"></a></li>
+            </ul>
+            <!-- //footer sns -->
+
+            
 			<div class="family_site">
-                <label for="_FooterFamailySite" style="font-size:0; visibility:hidden;">Select a Family:</label>
-				<select id="_FooterFamailySite" class="family_select" onchange="if(this.value != '') {window.open(this.value);this.selectedIndex=0;}">
+                <label for="_FooterFamailySite" style="font-size:0; visibility:hidden;">Select a Family:</label>				
+                <select id="_FooterFamailySite" class="family_select">
 					<option value="">Family Site</option>
 					<option value="http://www.samsung.com/">Samsung.com</option>
 					<option value="http://seller.samsungapps.com/">Samsung Apps</option>
 					<option value="http://developer.samsung.com/">Samsung Developers</option>					
 					<option value="http://www.samsungadhub.com/">Samsung AdHub</option>
 				</select>
+                <a href="javascript:GoFamily();"><img src="http://djsiw1wjy8vi7.cloudfront.net/content/images/btn/btn_family_go.jpg" alt="Go"></a>
 				
 			</div>
 		</div>
 
         <!-- Thank you 팝업 -->
 	    <div id="divFooterThankPopup" class="layer_thank" style="display:none;">
-		    <div class="thank_top"><h1>Thank you!</h1><span class="layer_close"><a href="javascript:fnFooterCloseFbMessage();"><img src="/content/images/layer/btn_close.png" alt="닫기버튼"></a></span></div>
+		    <div class="thank_top"><h1>Thank you!</h1><span class="layer_close"><a href="javascript:fnFooterCloseFbMessage();"><img src="http://djsiw1wjy8vi7.cloudfront.net/content/images/layer/btn_close.png" alt="닫기버튼"></a></span></div>
 
 		    <div class="content_thank">
 			    <div class="date_square">Your comment has been submitted</div>
 
 			    <div class="thank_text">Thank you for your feedback.<br>We will continue to communicate, discuss and share information with developers to make better website.<br><br><span>- SAMSUNG SMART TV APPS DEVELOPER FORUM -</span></div>
 
-			    <p class="text_center"><a href="javascript:fnFooterCloseFbMessage();"><img src="/content/images/layer/btn_thank.gif"></a></p>
+			    <p class="text_center"><a href="javascript:fnFooterCloseFbMessage();"><img src="http://djsiw1wjy8vi7.cloudfront.net/content/images/layer/btn_thank.gif" alt="Thank You"></a></p>
 		    </div>
 
-		    <p><img src="/content/images/layer/thank_bottom.png" alt=""></p>
+		    <p><img src="http://djsiw1wjy8vi7.cloudfront.net/content/images/layer/thank_bottom.png" alt=""></p>
 	    </div>
 	    <!-- //Thank you 팝업 -->
 </form>
@@ -1247,28 +1343,28 @@
 
 	<!-- 팝업 Confirm -->
 	<div class="layer_alert" id="dvConfirm" style="display:none;">
-		<div class="alret_top02"><h1>Message</h1><span class="layer_close"><a style="cursor:pointer" class="MasterPopupNo"><img src="/content/images/layer/btn_close.png" alt="닫기버튼"></a></span></div>
+		<div class="alret_top02"><h1>Message</h1><span class="layer_close"><a style="cursor:pointer" class="MasterPopupNo"><img src="http://djsiw1wjy8vi7.cloudfront.net/content/images/layer/btn_close.png" alt="닫기버튼"></a></span></div>
 		<div class="layer_content02">
 			<p class="alarm_text MasterPopupMessage"></p>
 			<p class="text_center">
-				<a style="cursor:pointer" class="MasterPopupYes"><img src="/content/images/layer/btn_ok.gif" alt="OK"></a>
-				<a style="cursor:pointer" class="ml_03 MasterPopupNo"><img src="/content/images/layer/btn_cancle.gif" alt="Cancle"></a>
+				<a style="cursor:pointer" class="MasterPopupYes"><img src="http://djsiw1wjy8vi7.cloudfront.net/content/images/layer/btn_ok.gif" alt="OK"></a>
+				<a style="cursor:pointer" class="ml_03 MasterPopupNo"><img src="http://djsiw1wjy8vi7.cloudfront.net/content/images/layer/btn_cancle.gif" alt="Cancle"></a>
 			</p>
 		</div>
-		<p><img src="/content/images/layer/layer_bottom02.png" alt=""></p>
+		<p><img src="http://djsiw1wjy8vi7.cloudfront.net/content/images/layer/layer_bottom02.png" alt=""></p>
 	</div>
 	<!-- //팝업 Confirm  -->
 
 	<!-- 팝업 Alert -->
 	<div class="layer_alert" id="dvAlert" style="display:none;">
-		<div class="alret_top02"><h1>Message</h1><span class="layer_close"><a style="cursor:pointer" class="MasterPopupYes"><img src="/content/images/layer/btn_close.png" alt="닫기버튼"></a></span></div>
+		<div class="alret_top02"><h1>Message</h1><span class="layer_close"><a style="cursor:pointer" class="MasterPopupYes"><img src="http://djsiw1wjy8vi7.cloudfront.net/content/images/layer/btn_close.png" alt="닫기버튼"></a></span></div>
 		<div class="layer_content02">
 			<p class="alarm_text MasterPopupMessage"></p>
 			<p class="text_center">
-				<a style="cursor:pointer" class="MasterPopupYes"><img src="/content/images/layer/btn_ok.gif" alt="OK"></a>
+				<a style="cursor:pointer" class="MasterPopupYes"><img src="http://djsiw1wjy8vi7.cloudfront.net/content/images/layer/btn_ok.gif" alt="OK"></a>
 			</p>
 		</div>
-		<p><img src="/content/images/layer/layer_bottom02.png" alt=""></p>
+		<p><img src="http://djsiw1wjy8vi7.cloudfront.net/content/images/layer/layer_bottom02.png" alt=""></p>
 	</div>
 	<!-- //팝업Alert -->
 
