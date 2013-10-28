@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thecomedynetwork.ca privacy policy that was archived on 2012-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120626044534id_/http%3A//www.bell.ca/shopping/PrsShpCTV_Privacy.page) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thecomedynetwork.ca privacy policy that was archived on 2013-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131028211325id_/http%3A//www.bell.ca/shopping/PrsShpCTV_Privacy.page) for the most accurate reproduction.*
 
-# Bell
+# Privacy Policy - Bell Media
 
 ## Bell Media Website Privacy Policy
 
@@ -83,7 +83,7 @@ If you decide at any time that you do not want to receive any email materials to
 
 ### QUESTIONS, COMMENTS OR SUGGESTIONS?
 
-If you have questions, comments or suggestions about this Privacy Policy or Bell Media's privacy practices that were not answered here, send us an email.
+If you have questions, comments or suggestions about this Privacy Policy or Bell Media's privacy practices that were not answered here, send us an [email](mailto:privacy@bell.ca).
 
 ### BELL MEDIA USE OF NON-PERSONAL INFORMATION
 
@@ -121,6 +121,4 @@ Cookies are used on many major web sites. Most browsers are initially set up to 
 
 Certain Bell Media Services may contain electronic images known as "Web Beacons", sometimes called single-pixel gifs, that allow Bell Media to count users who have visited those pages and to deliver co-branded services. Web Beacons are not used to access your Personal Information; they are a technique used to compile aggregated statistics about Bell Media Service usage. Web Beacons collect only a limited set of information including a Cookie number, time and date of a page view, and a description of the page on which the Web Beacon resides. Certain Bell Media Service web pages may also contain Web Beacons placed there by our advertising partners or web analytics service providers to help Bell Media determine the effectiveness of our Internet advertising campaigns.
 
- [View PDF](https://web.archive.org/web/common/en/all_regions/pdfs/ctv/bell_media_privacy.pdf) (26KB)
-
-© 2011 Bell Media All rights reserved
+ [View PDF](https://web.archive.org/pdf/en/bell_media_privacy.pdf) (26KB)
