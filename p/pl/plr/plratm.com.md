@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the plratm.com privacy policy that was archived on 2013-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130206152231id_/http%3A//www.plratm.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the plratm.com privacy policy that was archived on 2013-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131028130323id_/http%3A//www.plratm.com/privacypolicy.html) for the most accurate reproduction.*
 
 # PLR ATM
 
