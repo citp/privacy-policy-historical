@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trusper.com privacy policy that was archived on 2012-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121209012250id_/http%3A//trusper.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trusper.com privacy policy that was archived on 2013-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131028042044id_/http%3A//www.trusper.com/privacy) for the most accurate reproduction.*
 
 # Trusper
 
