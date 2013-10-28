@@ -1,101 +1,147 @@
-<!--The following is the downloaded HTML source of the universalsubtitles.org privacy policy that was archived on 2010-12-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101224093420id_/http%3A//universalsubtitles.org/w3c/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the universalsubtitles.org privacy policy that was archived on 2013-10-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131028080403id_/http%3A//www.pculture.org/pcf/websites-privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
-  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	<title>Participatory Culture Foundation - PCF - Open-source video tools for a better world.</title>
   
+  <link href=" http://fonts.googleapis.com/css?family=Droid+Sans" rel="stylesheet" type="text/css">
 
+  <style media="all" type="text/css">
+   @import '/pcf/css/960.css';
+   @import '/pcf/css/styles.css';
+	</style>
+	
+	<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="https://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js" type="text/javascript"></script>
+	
+	<script type="text/javascript"> 
+	
+	window.onload = function() {
+	  applyDefaultValue(document.getElementById('emailbox'), 'Get Email Updates');
+	}
+	
+	function applyDefaultValue(elem, val) {
+	  elem.value = val;
+	  elem.onfocus = function() {
+	    if(this.value == val) {
+	      this.value = '';
+	    }
+	  }
+	  elem.onblur = function() {
+	    if(this.value == '') {
+	      this.value = val;
+	    }
+	  }
+	}
+	
+	var user;
+	var domain = "pculture";
+	var suffix = "org";
+	function jemail(user){
+	document.write('<a class="email" href="' + 'mailto:' + user + '&#64;' + domain + '&#46;' + suffix + '">'  + user + '&#64;' + domain + '&#46;' + suffix + '<\/a>');
+	}
+	//-->
+	//  End -->
+	</script>
 
-<link href="http://s3.www.universalsubtitles.org/css/mirosubs-mainsite.css" media="all" type="text/css" rel="stylesheet">
-
-
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.3/jquery.min.js" type="text/javascript"></script>
-<script src="http://s3.www.universalsubtitles.org/js/messages.js" type="text/javascript"></script>
-<script type="text/javascript" src="/jsi18n/"></script>
-<script src="http://s3.www.universalsubtitles.org/js/jquery.form.js" type="text/javascript"></script>
-
-<link rel="shortcut icon" href="http://s3.www.universalsubtitles.org/images/favicon.ico" type="image/x-icon">
-<title>
-    Universal Subtitles - Free and open tools for creating captions, subtitles, and translations for video.
-</title>
 
 <script type="text/javascript">
-    var _gaq = _gaq || [];
-    _gaq.push(['_setAccount', 'UA-163840-22']);
-    _gaq.push(['_trackPageview']);
-    
-    (function() {
-        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-    })();      
-</script>
 
-<script type="text/javascript">
-    jQuery(function($){
-        $('#closeBut').click(function(){
-            $('#messages').remove();
-            return false;
-        });
-        $('li.search input').keypress(function(e) {
-            if ((e.which && e.which == 13) || (e.keyCode && e.keyCode == 13)) {
-                $('li.search form').submit();
-                return false;
-            }
-            else
-                return true;
-        });
-    });
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-163840-1']);
+  _gaq.push(['_setDomainName', 'none']);
+  _gaq.push(['_setAllowLinker', true]);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
 </script>
 </head>
 <body>
 
     
-
-    
-    <div class="cloud">
-    <div class="watercolor">
-
-    <div class="wrapper container_12">
-
-      
-      <div class="header grid_12">
-        <h1>
-          <a href="/">Universal Subtitles</a>
-          <span class="project">a project of the participatory culture foundation</span>
-        </h1>
-        
-        
-        
-        <ul class="nav">
-          <li class="first create_link"><a href="/videos/create/"><span>Subtitle</span> a video now</a></li>
-          <li class="videos_link"><a href="/videos/"><span>Watch</span> subbed videos</a></li>
-         <!-- <li class="last about_link last_nav"><a href="/about"><span>Volunteer</span></a></li> -->
-
-
+    <div id="header">
+      <div class="container_12">
+        <h1 class="grid_2"><a href="/">Participatory Culture Foundation</a></h1>
+    <div class="grid_10 nav_bottom">
+        <ul id="nav" class="grid_6">
+          <li><a href="/pcf/about">About</a></li>
+          <li><a href="/pcf/jobs">Jobs</a></li> 
+          <li><a href="/pcf/contact">Contact</a></li>
         </ul>
 
-  <div class="share"><div><h4>Share on</h4><a href="#" class="twitter">Twitter</a> <a href="#" class="facebook">Facebook</a></div></div>
+<div class="grid_4">
+  <form method="post" action="http://pcf8.pculture.org/interspire/form.php?form=1" id="frmSS1" onsubmit="return CheckForm1(this);">
+  <input type="text" class="emailbox" name="email" id="emailbox" value="Get Email Updates" size="15">
+  <input type="hidden" name="format" value="h">
+  <button type="submit" value="Subscribe" id="emailsubmit">Subscribe</button>
+  </form>
+  
+  <script type="text/javascript">
+  
+  
+  // <![CDATA[
+  
+       function CheckMultiple1(frm, name) {
+        for (var i=0; i < frm.length; i++)
+        {
+          fldObj = frm.elements[i];
+          fldId = fldObj.id;
+          if (fldId) {
+           var fieldnamecheck=fldObj.id.indexOf(name);
+           if (fieldnamecheck != -1) {
+             if (fldObj.checked) {
+              return true;
+             }
+           }
+          }
+        }
+        return false;
+       }
+     function CheckForm1(f) {
+       var email_re = /[a-z0-9!#$%&'*+\/=?^_`{|}~-]+(?:\.[a-z0-9!#$%&'*+\/=?^_`{|}~-]+)*@(?:[a-z0-9](?:[a-z0-9-]*[a-z0-9])?\.)+[a-z0-9](?:[a-z0-9-]*[a-z0-9])?/i;
+       if (!email_re.test(f.email.value)) {
+        alert("Please enter your email address.");
+        f.email.focus();
+        return false;
+       }
+  
+        return true;
+       }
+  
+  // ]]>
+  </script>
+  
+
+
+</div>
+
+
+          <div id="tag">A 501(c)3 non-profit organization working to build a <strong>more open, collaborative world.</strong></div>
 
 
 
-        <ul class="sub_nav">
-          
-          <li class="blog_link"><a href="http://blog.universalsubtitles.org"><span>Blog</span></a></li>
-          <li class="about_link"><a href="/about" class="about"><span>About</span></a></li>
-          <li class="faq_link"><a href="/faq"><span>FAQ</span></a></li>
-          
-              <li class="login_link"><a href="/auth/login/?next=/w3c/privacy.html"><span>Login</span></a></li>
-          
-        </ul>
+   	</div>
+
+        <a class="donate" href="https://www.miroguide.com/donate">Support Our Work. Donate to PCF.</a>
+
       </div>
+    </div>
 
-      <div class="content grid_12">
-          
-        
-                      
-      
-    <h1>Universal Subtitles Privacy Policy</h1>
+
+    <div class="content about">
+      <div class="inner_content">
+        <div class="top_lines">  
+          <div class="container_12">
+  
+           <h2 class="left_title">Privacy Policy for our websites</h2>
+			
+            <div class="grid_12">
+             <div id="main">
     <p>
 Last Updated: August 10, 2010
 </p>
@@ -115,16 +161,17 @@ Community Members
 Certain members of the PCF community (contributors, customers, etc.) choose to interact with PCF in ways that require PCF and others to know more about them. The amount and type of information that PCF gathers from those members depends on the nature of the interaction. For example, members who wish to post content to certain portions of PCF's web sites or participate in live chat session(s) are asked to provide usernames that are used to identify content as having been posted by a particular member (who is identified by the username).
 </p>
 <p>
-Developers, by comparison, are asked to provide contact information, up to and sometimes including telephone or fax numbers, so that they can be contacted as necessary. Typically, developers will be contacted by email, IRC (internet relay chat), or IM (instant messaging services). However, in the event of a time-sensitive question relating to the work the developer is doing in connection with PCF and where other means of contact have failed, a developerтАЩs phone number or fax number may be used to contact the developer. This information is available to PCF employees, contractors, subsidiaries, and potentially to other members of the community. A developer can choose not to provide a phone number or fax number. On occasion, developers and other community members are contacted by email and asked for a physical address or geographic location so that they may be sent PCF-related t-shirts and other schwag or invited to a meetup or other PCF-related gathering. In such cases, the purpose for which their physical address is sought will be made explicit.
+Developers, by comparison, are asked to provide contact information, up to and sometimes including telephone or fax numbers, so that they can be contacted as necessary. Typically, developers will be contacted by email, IRC (internet relay chat), or IM (instant messaging services). However, in the event of a time-sensitive question relating to the work the developer is doing in connection with PCF and where other means of contact have failed, a developer's phone number or fax number may be used to contact the developer. This information is available to PCF employees, contractors, subsidiaries, and potentially to other members of the community. A developer can choose not to provide a phone number or fax number. On occasion, developers and other community members are contacted by email and asked for a physical address or geographic location so that they may be sent PCF-related t-shirts and other schwag or invited to a meetup or other PCF-related gathering. In such cases, the purpose for which their physical address is sought will be made explicit.
 </p>
 <p>
 Customers of PCF stores (which sell merchandise and services on behalf of PCF) are asked to provide even more information, including billing and shipping addresses and credit card or similar information to third party vendors so that their transactions can be processed and fulfilled by PCF or a third-party fulfillment vendor.
 </p>
 <p>
-We also permit community members to provide their name and email addresses so that they can have a more direct engagement with PCF and so that PCF can send them information related to PCF, such as educational material, promotional and cross-promotional material, surveys to be completed, messages about PCF, events information, and other such information and materials. These are opt-in interactions where community members affirmatively sign-up for inclusion in a direct communication with PCF (and with an ability to unsubscribe/opt-out on any email received). These campaigns may be conducted with the help of a third-party customer relationship manager to help us manage the database of information and its analysis and use, in each case such third partyтАЩs involvement with all the data collected will be solely on PCFтАЩs behalf. As part of these marketing campaigns, we might also ask you to provide demographic information such as gender, age, job or role, country, geographic location, and areas of interest. If we ask you for this information, we will use it to customize our communication with you and to better understand those interested in PCF and its products. As part of these marketing campaigns, we may collect a campaign source ID, marketing campaign ID, and a campaign referrer ID. These types of information are used so that we may better understand your interests and the effectiveness of particular marketing campaigns. We may also use this information to customize our communications with you. For example, if a community member plans to host a PCF-themed party to promote a product launch or other event and would like to receive PCF promotional items like t-shirts, buttons, and stickers for her guests (which we call тАЬschwagтАЭ), the community member may submit her name, mailing address, and details about the event (such as date and number of anticipated guests) through Bugzilla so that we (or our service providers) can process this request. In each case, PCF collects personally identifying information only insofar as is necessary to fulfill the purpose of the community member's interaction with PCF. And in the case of a schwag request, those bugs allow you to select restricted access so that only PCF contractors and employees and the individuals listed in the bug can access your information via Bugzilla itself.
+We also permit community members to provide their name and email addresses so that they can have a more direct engagement with PCF and so that PCF can send them information related to PCF, such as educational material, promotional and cross-promotional material, surveys to be completed, messages about PCF, events information, and other such information and materials. These are opt-in interactions where community members affirmatively sign-up for inclusion in a direct communication with PCF (and with an ability to unsubscribe/opt-out on any email received). These campaigns may be conducted with the help of a third-party customer relationship manager to help us manage the database of information and its analysis and use, in each case such third party's involvement with all the data collected will be solely on PCF's behalf. As part of these marketing campaigns, we might also ask you to provide demographic information such as gender, age, job or role, country, geographic location, and areas of interest. If we ask you for this information, we will use it to customize our communication with you and to better understand those interested in PCF and its products. As part of these marketing campaigns, we may collect a campaign source ID, marketing campaign ID, and a campaign referrer ID. These types of information are used so that we may better understand your interests and the effectiveness of particular marketing campaigns. We may also use this information to customize our communications with you. For example, if a community member plans to host a PCF-themed party to promote a product launch or other event and would like to receive PCF promotional items like t-shirts, buttons, and stickers for her guests (which we call "schwag"), the community member may submit her name, mailing address, and details about the event (such as date and number of anticipated guests) through Bugzilla so that we (or our service providers) can process this request. In each case, PCF collects personally identifying information only insofar as is necessary to fulfill the purpose of the community member's interaction with PCF. And in the case of a schwag request, those bugs allow you to select restricted access so that only PCF contractors and employees and the individuals listed in the bug can access your information via Bugzilla itself.
 </p>
 <p>
 Applicants for employment with PCF are required to provide contact information, including name, street address, telephone number, and email address, as well as resume information. We use this information to process and evaluate the application for employment, and to communicate with the applicant about employment opportunities. If we elect to make an offer of employment, this information may become part of the employee file and may be used for other employment and work-related purposes.
+
 </p>
 <p>
 PCF is an open organization that believes in sharing as much information as possible about its products, its operations and its associations. Accordingly, community members should assume - as should most folks who interact with PCF - that any personally identifying information provided to PCF will be made available to the public. There are four broad exceptions to that rule:
@@ -142,6 +189,7 @@ PCF is an open organization that believes in sharing as much information as poss
 Outside those four contexts, users should assume that personally identifying information provided through PCF's web sites may be made available to the public.
 </p>
 <p>
+
 Interactive Product Features
 <br>
 Certain PCF products contain features that report, or that permit users to report, the user's usage patterns and problems - whether caused by PCF's software, third-party software, or third-party web sites - to PCF. The reports generated by these features typically include non-personally identifying information such as the configuration of the user's computer and the code running at the time the problem occurred.
@@ -159,6 +207,7 @@ Where PCF has collected personally identifying information subject to one of the
 Security
 <br>
 PCF undertakes a range of security measures including physical access restraints, technical security monitoring, and internal security reviews of the environment to help to protect your personal information from unauthorized access, alteration, disclosure, or destruction. We also have policies in place to prohibit employees from viewing personal information without business justification.
+
 </p>
 <p>
 Updating of Personally-Identifying Information
@@ -176,6 +225,7 @@ What Are Clear GIFs?
 Clear gifs (also known as web beacons) are used in combination with cookies to help web site operators understand how visitors interact with their web sites. A clear gif is typically a transparent graphic image (usually 1 pixel x 1 pixel) that is placed on a site. The use of a clear gif allows the site to measure the actions of the visitor opening the page that contains the clear gif. It makes it easer to follow and record the activities of a recognized browser, such as the path of pages visited at a web site.
 </p>
 <p>
+
 How We Use Cookies and Clear GIFs.
 <br> 
 PCF's web sites use cookies to help PCF identify and track visitors, their usage of PCF web sites, and their web site access preferences across multiple requests and visits to PCF's web sites. Our web sites, and advertisements that PCF may run occasionally on thirdparty advertising networks, also may use clear gifs for these purposes. The basic idea is to gather aggregate data about how people use PCF web sites. The term usually used to describe this is "web analytics" and the cookies and clear gifs are the tools by which a website owner collects this web analytics data.
@@ -193,139 +243,116 @@ Content from other sources that is hosted on PCF web sites may sometimes contain
 </p>
 <p>
 How to Control the Use of Cookies.
+
 <br> 
 You have the ability to accept or decline cookies. PCF visitors who do not wish to have cookies placed on their computers by PCF, its contractors, or third-party service providers should set their browsers to refuse cookies before linking to PCF's web sites. Certain features of PCF's web sites may not function properly without the aid of cookies.
 </p>
 <p>
 Opt-out Procedures
 <br>
-If you do not want to allow your session visitation information on PCF web sites to be aggregated and analyzed by PCF (or its third-party analytics providers) you may utilize the following opt-out mechanisms listed here. Additionally, if you signed up to receive but no longer wish to receive electronic marketing communications from PCF, you can opt-out from receiving these communications by following the тАЬunsubscribeтАЭ instructions in any such communication you receive.
+If you do not want to allow your session visitation information on PCF web sites to be aggregated and analyzed by PCF (or its third-party analytics providers) you may utilize the following opt-out mechanisms listed here. Additionally, if you signed up to receive but no longer wish to receive electronic marketing communications from PCF, you can opt-out from receiving these communications by following the "unsubscribe" instructions in any such communication you receive.
 </p>
 <p>
 Privacy Policy Changes
 <br>
-By using the web sites, you agree to the terms and conditions of this privacy policy. If you do not agree to the terms and conditions of this privacy policy, please do not use the web sites. PCF may change its Privacy Policy from time to time. Any and all changes will be reflected on this page. Substantive changes will also be announced through the standard mechanisms through which PCF communicates with the PCF community, including PCF's тАЬannounceтАЭ mailing list and newsgroup.
+By using the web sites, you agree to the terms and conditions of this privacy policy. If you do not agree to the terms and conditions of this privacy policy, please do not use the web sites. PCF may change its Privacy Policy from time to time. Any and all changes will be reflected on this page. Substantive changes will also be announced through the standard mechanisms through which PCF communicates with the PCF community, including PCF's "announce" mailing list and newsgroup.
+</p>
+             <div class="clear"></div>
+             </div>
+            </div>
+            <div class="grid_12 stitched fancy"></div>
+            <div class="grid_9"></div>
+           </div>
+        <div class="clear">&nbsp;</div>
+        </div>
+      </div>
+    </div>
+
+
+<div class="footer">
+  <div class="inner_footer">
+          <div class="container_12">
+            
+
+            <div class="partners">
+              <h4>Supporters and Collaborators</h4>
+
+              <ul>
+				<li>
+					<a href="http://www.macfound.org/" title="MacArthur Foundation">
+						<img src="/pcf/i/macarthur_logo.png" alt="MacArthur Foundation">
+					</a>
+				</li>
+                <li>
+					<a href="http://www.mozilla.org" title="Mozilla">
+						<img src="/pcf/i/mozilla_logo.png" alt="Mozila">
+					</a>
+				</li>
+                <li>
+					<a href="http://www.knightfoundation.org/" title="The Knight Foundation">
+						<img src="/pcf/i/tkf_logo.png" alt="The Knight Foundation">
+					</a>
+				</li>
+                <li>
+					<a href="http://www.soros.org/" title="Open Society Institute">
+						<img src="/pcf/i/osi_logo.png" alt="Open Society Institute">
+					</a>
+				</li>
+                <li>
+					<a href="http://www.surdna.org/" title="Surdna Andrus">
+						<img src="/pcf/i/san_logo.png" alt="Surdna Andrus">
+					</a>
+				</li>
+                <li>
+					<a href="http://www.wikimedia.org/" title="Wikimedia Foundation">
+						<img src="/pcf/i/wiki_logo.png" alt="Wikimedia Foundation">
+					</a>
+				</li>
+              </ul>
+            </div>
+
+
+
+
+            <div id="contact-footer" class="grid_3 alpha">
+              <h4>Contact Us</h4>
+
+
+<p>
+Participatory Culture Foundation<br>
+PO Box 55071<br>
+#20335<br>
+Boston, MA 02205-5071<br>
 </p>
 
-      </div>
-      </div>
-      
-        
-<style>
-    #feedback_email {
-        width: 300px;
-        margin: 2px;
-    }
-    #feedback_message {
-        width: 368px;
-        height: 150px;
-    }
-    #feedback_form div {
-        margin: 2px;
-    }
-    #feedback_form p.error_list {
-        color: #ff0000;
-        margin: -1px;
-    }
-    #feedback_success {
-        padding: 10px 0px;
-    }
-</style>
-   
-    <div>
-        <form method="post" action="/videos/feedback/" id="feedback_form">
-        <div style="display:none"><input type="hidden" name="csrfmiddlewaretoken" value="fb58effe0cbdc1f9fded944e49e7744d"></div>
-            <h2>
-                
-                    How are you using Universal Subtitles?  What would make it better?
-                
-            </h2>
-            
-            <p>Please let us know if you have any comments, questions, or suggestions!</p>
-            <div class="global-errors">
-                
+<p><strong>Email:</strong> feedback@pculture.org</p>
             </div>
-            <p>
-                <label for="feedback_email">Your email: </label><input type="text" name="email" id="feedback_email">
-            </p>
-            <p>
-                <input type="hidden" value="202b73bd5fbab23a6555b22714bea548c773f7ff34202d2033" name="math_captcha_question"> <label>Prove you're human. 4 - 3 =</label><input type="text" name="math_captcha_field" id="feedback_math_captcha_field">
-                
-            </p>
-            <p>
-                <label>Your Feedback</label>
-                <textarea id="feedback_message" rows="10" cols="40" name="message"></textarea>
-            </p>
-
-                <button type="submit" value="Send feedback" class="green_button big">Send Feedback</button>
-
-        </form>
-    </div>
-   
-    <div style="display: none" class="wrapper" id="feedback_success">
-        Thank you for your feedback.<br>
-        If you would like to perform some additional testing
-        please go to our <a href="http://litmus.pculture.org/run_tests.cgi">Litmus regression tests</a><br>
-        For new testers, we have <a href="http://pculture.org/devblogs/mirotesting/getting-started-guide-for-new-testers/">a getting started guide</a>
-        <br>
-        <a href="#" id="send_more_feedback">Send more feedback.</a>
-    </div>
-    
-<script type="text/javascript">
-    jQuery(document).ready(function($){
-        var ERROR_MSG = "Enter feedback please.";
-        $('#send_more_feedback').click(function(){
-           $(this).parent('div').hide().prev().show(); 
-           return false;
-        });
-        
-        $('#feedback_form').ajaxForm({
-            dataType: 'json',
-            success: function(data, status, xhr, $form){
-                if (data.success){
-                    $form.resetForm();
-                    $form.parent().hide().next().show();
-                } else {
-                    for (key in data.errors){
-                        var $field = $('input[name="'+key+'"]', $form);
-                        var error = '<p class="error_list">'+data.errors[key]+'</p>';
-                        if ($field.length){
-                            $field.before(error);
-                        }else{
-                            $('.global-errors', $form).prepend(error);
-                        }
-                    };
-                }
-            },
-            beforeSubmit: function(formData, $Form, options){
-                $('p.error_list', $Form).remove();
-                var form = $Form[0];
-                if (!form.message.value){
-                    $(form.message).before('<p class="error_list">'+ERROR_MSG+'</p>');
-                    return false;
-                }
-            }
-        });
-    });
-</script>
-
-      
-    <div class="footer">
-        <div class="floatleft">
-            Universal Subtitles is a project of <a href="http://participatoryculture.org/">PCF</a>.  
-        </div>   
-    
-        <div class="floatright">
-            <a href="http://www.facebook.com/pages/Universal-Subtitles/112574762094219">Facebook</a> 
-            <a href="http://twitter.com/universalsubs">Twitter</a>
-            <a href="mailto:universalsubtitles@pculture.org">Contact Us</a>
-            <a href="/w3c/privacy.html">Privacy Policy</a>
-            <a href="/terms">Terms of Service</a>
-        </div>      
-    </div> 
-    <div style="float: right; font-size: 0.6em; padding: 3px;">commit: milestone092/a23f04de</div>
- </div>
+          </div>
   </div>
+</div>
+
+
+<style>
+.idl{display:inline-block;position:absolute;right:0px;top:314px;z-index:1000;}
+.idl img{visibility: visible !important;}
+</style>
+
+<a href="http://internetdefenseleague.org" class="idl">
+  <img src="http://internetdefenseleague.org/images/badges/final/banner_right.png" alt="Member of The Internet Defense League">
+</a>  
+
+<script type="text/javascript">
+    window._idl = {};
+    _idl.variant = "modal";
+    (function() {
+        var idl = document.createElement('script');
+        idl.type = 'text/javascript';
+        idl.async = true;
+        idl.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'members.internetdefenseleague.org/include/?url=' + (_idl.url || '') + '&campaign=' + (_idl.campaign || '') + '&variant=' + (_idl.variant || 'banner');
+        document.getElementsByTagName('body')[0].appendChild(idl);
+    })();
+</script><script type="text/javascript" async="" src="https://members.internetdefenseleague.org/include/?url=&amp;campaign=&amp;variant=modal"></script>
+
 
 
 </body></html>
