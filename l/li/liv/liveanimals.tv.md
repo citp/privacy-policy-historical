@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the liveanimals.tv privacy policy that was archived on 2013-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130628031438id_/http%3A//liveanimals.tv/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the liveanimals.tv privacy policy that was archived on 2013-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131028150910id_/http%3A//liveanimals.tv/privacypolicy.html) for the most accurate reproduction.*
 
 # 
 
-This Privacy Policy governs the manner in which NoNiche LLC. collects, uses, maintains and discloses information collected from users (each, a "User") of the [LiveAnimals.tv](https://web.archive.org/web/20130628031438id_/http%3A//liveanimals.tv/LiveAnimals.tv) website ("Site"). This privacy policy applies to the Site and all products and services offered by NoNiche LLC..
+This Privacy Policy governs the manner in which NoNiche LLC. collects, uses, maintains and discloses information collected from users (each, a "User") of the [LiveAnimals.tv](https://web.archive.org/web/20131028150910id_/http%3A//liveanimals.tv/LiveAnimals.tv) website ("Site"). This privacy policy applies to the Site and all products and services offered by NoNiche LLC..
 
 **Personal identification information**
 
@@ -11,6 +11,10 @@ We may collect personal identification information from Users in a variety of wa
 **Non-personal identification information**
 
 We may collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Site, such as the operating system and the Internet service providers utilized and other similar information.
+
+**Interest & Demographic information**
+
+Our Google Analytics tracking system may collect demographics (age, gender) and interests (affinity categories, other categories). This data is only used to analyze our users interests to provide more relevant content.
 
 **Web browser cookies**
 
@@ -54,8 +58,8 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 **Contacting us**
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
-[NoNiche LLC.](https://web.archive.org/web/20130628031438id_/http%3A//liveanimals.tv/LiveAnimals.tv)  
-[LiveAnimals.tv](https://web.archive.org/web/20130628031438id_/http%3A//liveanimals.tv/LiveAnimals.tv)  
+[NoNiche LLC.](https://web.archive.org/web/20131028150910id_/http%3A//liveanimals.tv/LiveAnimals.tv)  
+[LiveAnimals.tv](https://web.archive.org/web/20131028150910id_/http%3A//liveanimals.tv/LiveAnimals.tv)  
 webmaster@liveanimals.tv
 
 This document was last updated on May 29, 2013
