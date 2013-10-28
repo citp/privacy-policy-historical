@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xiamenair.cn privacy policy that was archived on 2013-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130613131417id_/http%3A//www.xiamenair.com/cn/en/info/privacypolicy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xiamenair.cn privacy policy that was archived on 2013-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131028180455id_/http%3A//www.xiamenair.com/cn/en/info/privacypolicy.shtml) for the most accurate reproduction.*
 
 # 厦门航空有限公司-Privacy Policy
 
