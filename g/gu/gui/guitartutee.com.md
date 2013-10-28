@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the guitartutee.com privacy policy that was archived on 2013-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130415024905id_/http%3A//www.guitartutee.com/gt-news/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the guitartutee.com privacy policy that was archived on 2013-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131028152531id_/http%3A//www.guitartutee.com/gt-news/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy Chords Tabs Lyrics | GuitarTutee | Guitar Tutorial Videos, Chords, Tabs, Lyrics. Sing With Us.
+# Privacy Policy — GuitarTutee.com
 
 _information_  
 GuitarTutee is continuously committed to protecting the privacy of it’s visitors. We do not sell, distribute or give out any of our visitors information. The following discloses how information is collected and used on and throughout our web site. Aside from the case where you explicitly give permission to provide your contact information to a third party, any personal information you provide on this site will only be known to yourself and GuitarTutee. 
