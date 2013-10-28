@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the partitionwizard.com privacy policy that was archived on 2013-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130507135135id_/http%3A//partitionwizard.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the partitionwizard.com privacy policy that was archived on 2013-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131028085754id_/http%3A//www.partitionwizard.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy policy of MiniTool Solution Ltd.
 
@@ -38,6 +38,6 @@ If you have any questions or suggestions regarding our Privacy Policy, please em
 Vancouver, British Columbia, V7Y 1C6,  
 Canada
 
-Tel: 778 823 3233  
-Fax: 604 756 1847  
-E-Mail: [support@minitool.ca](mailto:support@minitool.ca)
+**Tel:** 1-800-789-8263  
+**Fax:** 1-800-510-1501  
+**E-Mail:** [support@minitool.ca](mailto:support@minitool.ca)
