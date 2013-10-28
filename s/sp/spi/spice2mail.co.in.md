@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spice2mail.co.in privacy policy that was archived on 2013-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130430214604id_/http%3A//www.spice2mail.co.in/member/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spice2mail.co.in privacy policy that was archived on 2013-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131028213205id_/http%3A//www.spice2mail.co.in/member/privacy_policy.php) for the most accurate reproduction.*
 
 # Spice2mail | Get Rs.100 Bonus Get Paid For Reading E-Mail & SMS Ads| Get Free Coupons |Free Online Mobile Recharge
 
