@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rinkworks.com privacy policy that was archived on 2013-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130618180933id_/http%3A//rinkworks.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rinkworks.com privacy policy that was archived on 2013-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131029004653id_/http%3A//www.rinkworks.com/privacy) for the most accurate reproduction.*
 
 # RinkWorks: Privacy Policy
 
