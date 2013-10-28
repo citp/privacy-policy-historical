@@ -1,33 +1,35 @@
-> *The following text is extracted and transformed from the problogbooster.com privacy policy that was archived on 2012-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120812163307id_/http%3A//problogbooster.blogspot.com/2009/09/privacy-policy-statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the problogbooster.com privacy policy that was archived on 2013-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131029003604id_/http%3A//www.problogbooster.com/2009/09/privacy-policy-statement.html) for the most accurate reproduction.*
 
-# PRIVACY POLICY STATEMENT | ProBlogBooster
+# Privacy Policy Statement - ProBlogBooster
 
-This policy is valid from 09 September 2009    
-This is the web site of Blogger.   
-Name Of Blog: ProBlogBooster   
-Web addresses: <http://www.problogbooster.com/>   
-Postal address:  
-Kolhapur-416008   
-Maharashtra,INDIAYou can reach us at: [Contact Me](http://www.problogbooster.com/2008/10/contact-me.html)
+This policy is valid from 09 September 2009   
+This is the web site of Blogger.
 
-[](http://problogbooster.blogspot.com/2008/10/contact-me.html)   
-This blog is a personal blog written and edited by me. For each visitor to our Web page, our Web server automatically recognizes the consumer's domain name along with IP addresses.   
+Title: ProBlogBooster -  **** **Blog Tips to Help You Make ProBlogger**  
+**Short Description :  **ProBlogBooster is a weblog dedicated to blog builders plus masters as well. We constantly publish useful tricks, tools, tutorials and advanced tips.  
+Web link: <http://www.problogbooster.com/>   
+**Address** **:** Upton Park, London, UK  
+
+
+This blog is a personal blog written and edited by me. For each visitor to our Web page, our Web server automatically recognizes the consumer's domain name along with IP addresses. 
+
+We collect only the domain name, but not the e-mail address of visitors to our Web page, the e-mail addresses of those who post messages to our bulletin board, the e-mail addresses of those who communicate with us via e-mail, the e-mail addresses of those who make postings to our chat areas, aggregate information on what pages consumers access or visit, user-specific information on what pages consumers access or visit, information volunteered by the consumer, such as survey information and/or site registrations, name and address and IP addresses. 
+
   
-We collect only the domain name, but not the e-mail address of visitors to our Web page, the e-mail addresses of those who post messages to our bulletin board, the e-mail addresses of those who communicate with us via e-mail, the e-mail addresses of those who make postings to our chat areas, aggregate information on what pages consumers access or visit, user-specific information on what pages consumers access or visit, information volunteered by the consumer, such as survey information and/or site registrations, name and address and IP addresses. 
-
 The information we collect is used for internal review and is then discarded, used to improve the content of our Web page, used to notify consumers about updates to our Web site, . 
 
 With respect to cookies: We use cookies to store visitors preferences, record session information, such as items that consumers add to their shopping cart, alert visitors to new areas that we think might be of interest to them when they return to our site, customize Web page content based on visitors' browser type or other information that the visitor sends. 
 
-If you do not want to receive e-mail from us in the future, please let us know by visiting us at [**Contact Me**](http://www.problogbooster.com/2008/10/contact-me.html).
+If you do not want to receive e-mail from us in the future, please let us know by visiting us at [**Contact Me**](http://www.problogbooster.com/2008/10/contact-me.html "Opens new window").
 
-If you supply us with your postal address on-line you may receive periodic mailings from us with information on new products and services or upcoming events. If you do not wish to receive such mailings, please let us know by visiting us at [**Contact Me**](http://www.problogbooster.com/2008/10/contact-me.html).
+If you supply us with your postal address on-line you may receive periodic mailings from us with information on new products and services or upcoming events. If you do not wish to receive such mailings, please let us know by visiting us at [**Contact Me**](http://www.problogbooster.com/2008/10/contact-me.html "Opens new window").
 
 With respect to Ad Servers: This blog accepts forms of cash advertising, sponsorship, paid insertions or other forms of compensation. To try and bring you offers that are of interest to you, we have relationships with other companies that we allow to place ads on our Web pages. As a result of your visit to our site, ad server companies may collect information such as your domain type, your IP address and click-stream information. For further information, consult the privacy policies of: 
 
-<http://www.google.co.in/>
+  * <http://www.google.co.in/>
+  * <http://www.blogger.com/>
 
-<http://www.blogger.com/>
+
 
 This blog abides by word of mouth marketing standards. We believe in honesty of relationship, opinion and identity. The compensation received may influence the advertising content, topics or posts made in this blog. That content, advertising space or post will be clearly identified as paid or sponsored content. 
 
@@ -49,7 +51,6 @@ This blog will never harm you by giving Out Trojans, Virus or any related stuff.
 
 Rest is ProBlogBooster... ... always try to get better.
 
-Just Chill… 
-
+  
   
 
