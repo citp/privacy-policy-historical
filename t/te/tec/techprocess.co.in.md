@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the techprocess.co.in privacy policy that was archived on 2013-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130629034155id_/http%3A//techprocess.co.in/privacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techprocess.co.in privacy policy that was archived on 2013-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131028182445id_/http%3A//www.techprocess.co.in/privacyPolicy.html) for the most accurate reproduction.*
 
-# Techprocess Solutions Ltd | Privacy Policy
+# TechProcess Payment Services Ltd | Privacy Policy
 
 We at TechProcess acknowledge and accept that the personal details that the customer imparts to us are to be kept in strict confidentiality and the information is to be used only in a manner that would be beneficial to our customers. We consider our relationship with our customers invaluable and strive to respect and safeguard the customer's right to privacy. 
 
@@ -26,4 +26,4 @@ Targeted advertisements may appear on web-site pages as the customer navigates t
 
 **Changes in the Privacy Statement** \- TechProcess may make changes to its Privacy Policy at any time, but it will notify the customers of any substantive or material change (by way of email) and provide them with the opportunity to opt-out.
 
-[](https://web.archive.org/web/20130629034155id_/http%3A//techprocess.co.in/servicerequisition.asp)
+[](https://web.archive.org/web/20131028182445id_/http%3A//www.techprocess.co.in/servicerequisition.asp)
