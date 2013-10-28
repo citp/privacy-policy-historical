@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seizinglife.com privacy policy that was archived on 2013-03-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130309035101id_/http%3A//seizinglife.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seizinglife.com privacy policy that was archived on 2013-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131028192217id_/http%3A//seizinglife.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Seizing Life | Privacy Policy
 
