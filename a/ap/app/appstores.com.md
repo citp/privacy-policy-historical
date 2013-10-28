@@ -1,101 +1,176 @@
-> *The following text is extracted and transformed from the appstores.com privacy policy that was archived on 2013-01-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130117181101id_/http%3A//appgalleries.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the appstores.com privacy policy that was archived on 2013-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131028220428id_/http%3A//www.inmobi.com/inmobi-privacy-policy) for the most accurate reproduction.*
 
-# AppGalleries.com - Privacy Policy
+# InMobi Privacy Policy | Mobile Advertising - InMobi
 
-MMTG Labs, Inc. (“MMTG Labs”) knows that you care about how your personal information is used and shared, and we take your privacy seriously. Please read the following to learn more about our privacy policy. By visiting the [www.AppGalleries.com](http://www.appgalleries.com/) website and domain name, or otherwise accessing any other linked pages, features, content, or services offered from time to time by MMTG Labs in connection therewith (collectively, the "Website"), you acknowledge that you accept the practices and policies outlined in this Privacy Policy. 
+##  Last Updated: 20 June 2013
 
-What Does This Privacy Policy Cover?
+InMobi is committed to respecting and protecting individuals' privacy rights. This Privacy Policy explains how InMobi Pte Ltd, its subsidiaries and affiliated companies (collectively, "InMobi" or "we", "us", "our") use end users (“you” or “your”) your personal and device-related information when (i) you view ads served by InMobi on third party websites or mobile apps (see the section below called "InMobi Ad Network"), and (ii) you visit the InMobi website at [www.inmobi.com](http://www.inmobi.com/) (see section below called "InMobi Website").
 
-This Privacy Policy covers MMTG Labs’ treatment of personally identifiable information ("Personal Information") that MMTG Labs gathers when you access the Website and when you use MMTG Labs’ services. This policy does not apply to the practices of companies that MMTG Labs does not own or control, or to individuals that MMTG Labs does not employ or manage.
+InMobi has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with TRUSTe’s [Web Privacy](http://www.truste.com/privacy-program-requirements/program_requirements_website_privacy) and [TRUSTed Data](http://www.truste.com/privacy-program-requirements/3rd-party-data-collection/) program requirements including transparency, accountability and choice regarding the collection and use of Consumer information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at [privacy@inmobi.com](mailto:privacy@inmobi.com). If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint).
 
-What Personal Information Does MMTG Labs Collect?
+The TRUSTe programs cover the collection and use of information on www.inmobi.com and by InMobi’s technology on third party mobile applications and websites.
 
-The information we gather from customers enables us to personalize and improve our services. We collect the following types of information from our customers:
+## INMOBI ADVERTISING & AUDIENCE PLATFORM
 
-**Personal Information You Provide to Us:**
+## What is the InMobi Ad Network?
 
-We may receive and store any information you enter on our website or provide to us in any other way. The types of Personal Information collected include your full name, email address, IP address, browser information, username, password and any other information necessary for us to provide our services. You can choose not to provide us with certain information, but then you may not be able to take advantage of many of our special features. The Personal Information you provide may be used for such purposes as responding to your requests for certain services, customizing the content you see, and communicating with you about new services.    
+InMobi is the world's largest independent ad network. We partner with third party website publishers and mobile app developers to serve ads on their sites and in their apps. These ads are customised to their users' interests and geographic locations, which we infer from information we collect about how those users interact with sites and apps that have partnered with InMobi (this type of advertising is often called "interest-based advertising" or "targeted advertising"). This enables our partnering publishers and developers to provide content-rich services that are more relevant to their users, often using the advertising revenues they generate to offer their services for free or at a subsidised cost.
+
+## What information do we collect?
+
+When you view an InMobi ad on a site or app which uses our services, we may collect information about your device or the ad that you have viewed. This information does not enable us to work out your identity in real life, but does enable us to recognise your device when you use other sites and apps that have partnered with us.
+
+Specifically, we may collect:
+
+(a) _Information about your device_
+
+We may collect some or all of the following information about your device: device type (e.g. smartphone, tablet, etc.), operating system (e.g. iOS, Android, Windows, Blackberry), network provider, Internet (IP) address, which mobile browser you use (e.g. Safari, Internet Explorer etc.), the carrier user ID (a number uniquely allocated to you by your network provider), platform, SDK version, timestamp, API key (identifier for application), application version, iOS Identifier for Advertising, iOS Identifier for Vendors, Media Access Control (MAC) address, International Mobile Equipment Identity (IMEI), Model, manufacture and OS version of device, session start/stop time, locale (specific location where a given language is spoken), time zone, and network status such as WiFi, the geo-location of your device (using GPS or other geo-location data) and the unique device identifier of your mobile device (a number uniquely allocated to your device by your device manufacturer).
+
+(b) _Information about the ad you have viewed_
+
+We also collect some or all of the following information about the ad you have viewed: (i) the content type of the ad (what the ad is about, e.g. games, finance, entertainment, news); (ii) the ad type (e.g. whether the ad is a text, image, or video based ad); (iii) where the ad is being served (e.g. the address of the website on which the ad appears); and (iv) certain information about post-click activity in relation to the ad (e.g. whether you proceed to purchase the product or service advertised).
+
+On occasion, our partnering mobile publishers or app developers may also disclose to us information they have separately collected about you so that we can improve the relevance of the ads we serve on their behalf. They do this in accordance with their own specific privacy policies and subject to their own applicable legal requirements. We do not use the information they provide to us for any purpose other than serving you with interest-based ads on their behalf.
+
+There is certain data that although not personally identifiable we consider sensitive, such as viewing of sites with sexual content or information indicating a users’ specific medical condition. We do not use these types of sensitive data from one site for tailoring ads at other sites across our network.
+
+(c) _InMobi Audience Platform_
+
+The InMobi Audience Platform also provides information to publishers and developers about how you use and engage with their app as well as how sites or apps are performing across different handsets, including but not limited to tracking conversions across multiple advertising networks.
+
+InMobi obtains this information as a result of data being sent via an SDK embedded by the publisher or developer in your app. 
+
+Each publisher and developer is responsible for obtaining all applicable consents to enable InMobi to collect information from your device.
+
+## How do we use information that we collect?
+
+We use the information we collect to display interest-based advertising customised to individuals’ inferred interests, preferences and locations, and to perform analysis aimed at improving our services and technologies. The information we collect also helps us to provide filtering options for publishers and developers to manage ads appearing on their sites and in their apps, and to provide targeting options for advertisers. This helps our publishers and developer clients, for example, not to present you ads that you have already seen, and helps our advertiser clients serve adverts that are most likely to be of interest to you.
+
+## Who do we share information with?
+
+_With Publishers, Developers and Advertisers_
+
+We share the information we collect from your visits to partnering sites and apps with our publisher, developer and advertiser clients. We anonymise this information using one-way hashing (i.e. scrambling) technology and encrypt it securely before sharing it. These measures preserve your anonymity and mean that our clients cannot identify you in real life from the information we share. Our clients use this anonymised information to better understand their site and app traffic usage so that they can refine and improve their services.
+
+_With InMobi Affiliates_
+
+We may also share your information among InMobi affiliates so that we can better provide advertising that is relevant to you.
+
+_Sharing Info with Third Parties_
+
+From time to time, we may need to disclose your information to third parties such as to law enforcement authorities or our legal advisers, where it is necessary to comply with the law or regulation; enforce or apply our user terms and conditions; to protect our rights, or to preserve the safety of our users. This may include exchanging information with other companies and organizations for fraud protection.
+
+We may also share your personal information in connection with any merger, a sale of InMobi assets, or a financing or acquisition of all or a portion of our business to another company. Whenever we share your personal information for this reason we will ensure that the recipient is bound by all appropriate confidentiality obligations and that it commits to using your personal information only for the purposes for which you originally provided it.
+
+## International Transfers
+
+We may share your information with clients, affiliates and other third parties described above who are based in countries outside of your country of residence (for example, if you are an EU resident, we may share your information with our non-EU clients or affiliates). While some countries may not have data protection laws that are equivalent to those of the country in which you reside, we will take all reasonable measures to protect your information in accordance with this Privacy Policy and applicable legal requirements.
+
+## How do we keep information secure?
+
+InMobi uses appropriate technical and organisational measures to protect the information it collects about you and your device. In particular, we anonymise all information we collect using one-way hashing technology and encrypt it securely before sharing it with any third parties.
+
+## How long do you keep information for?
+
+We retain information collected on third-party applications and web sites for a period of 90 days, unless otherwise required by law. After 90 days we further anonymise the data by aggregating it before storing it for analytical purposes.
+
+## Opting Out of Interest-based Advertising
+
+As described above, the information we collect does not enable us to work out your identity in real life. We use this information only to serve you with interest-based advertisements based on your inferred interests, preferences and location.
+
+If you prefer not to receive this, you can opt out of InMobi using your information for interest-based advertising purposes at any time by going to the InMobi [Opt Out](https://web.archive.org/terms/privacy-policy/opt-out/) page. 
+
+Please note that if you opt out of InMobi using your information for interest-based advertising you may still receive "generic" ads from us that are not based on your inferred interests.
+
+## Information collected on behalf of third parties
+
+InMobi may offer advertising solutions to clients that include the collection of voluntary information from you as part of an advertisement, e.g. serving an ad that contains an advertiser questionnaire. All of the information that you voluntarily provide in response to the advertisement shall be collected by InMobi and forwarded directly to the relevant client and will be governed by that client's privacy policies in place from time to time.
+
+## INMOBI WEBSITE
+
+## What information do we collect?
+
+To create an account on the InMobi website we need to collect details of your username, password, email address, country and preferred account type.
+
+You can also provide us with other optional information, such as your name, picture, postal address, phone number, social network profiles, questionnaire responses, general business information, and other personal, biographical, or demographic info. This optional information is not necessary for you to use the InMobi site or to maintain an account with us, but by sharing this information we can better serve you and improve your overall website experience.
+
+If you provide the name and email address of a friend or colleague, we will use that information to send the individual a one-time invitation to visit or register with our site.
+
+## The usage information we collect
+
+In addition to the personal information described above, we also collect certain information about your usage of the site. Specifically, our servers collect the following information automatically about your usage of the site: 
+
+  * the type of web browser you use (e.g. Internet Explorer, Mozilla Firefox, Google Chrome or another)
+  * where you travel within the site (e.g. the pages that you visit within the InMobi site)
+  * your browsing preferences, such as your screen size, resolution and other viewing preferences
+  * the links and adverts that you click on
+  * information about how you arrived at our site (e.g. whether you were directed to our site by a search engine or another third party website)
+  * information about how you leave our site (e.g. which website you visit immediately after visiting our site).
 
 
-**Personal Information Collected Automatically:**
 
-    * We receive and store certain types of information whenever you interact with our Website or use our services. MMTG Labs automatically receives and records information on our server logs from your browser including your IP address, cookie information, and the page you requested. 
-    * Generally, our service automatically collects usage information, such as the numbers and frequency of visitors to our Website and its components, similar to TV ratings that indicate how many people watched a particular show. MMTG Labs only uses this data in aggregate form, that is, as a statistical measure, and not in a manner that would identify you personally. This type of aggregate data enables us to figure out how often customers use parts of the Website or services so that we can make the Website appealing to as many customers as possible, and improve those services. As part of this use of information, we may provide aggregate information to our partners about how our customers, collectively, use our Website or services. We share this type of statistical data so that our partners also understand how often people use the Website or services, so that they, too, may provide you with an optimal online experience. Again, MMTG Labs never discloses aggregate information to a partner in a manner that would identify you personally.
+We may use cookies to help us collect and store this information, as described in more detail below in the section headed "Does InMobi use cookies?" and our [cookie policy](https://web.archive.org/terms/cookie-policy/).
 
+## How do we use the info we collect?
 
+We use the account information and other personal information you provide to manage your account, communicate with you, conduct business with you (e.g. reporting and payment), personalise the InMobi website, comply with your requests, and inform you about products and services in accordance with your marketing preferences.
 
-**E-mail Communications:**
+We use your usage information to analyse our web traffic, to figure out how often customers use parts of the site, to improve the site and generally to make it appealing to as many users as possible.
 
-We often receive a confirmation when you open an email from MMTG Labs if your computer supports this type of program. MMTG Labs uses this confirmation to help us make emails more interesting and helpful. When you receive e-mail from MMTG Labs, you can opt out of receiving further e-mails by following the included instructions to unsubscribe.
+## Who do we share information with?
 
-**What About Cookies?**
+We will share your personal information only in the ways that are described in this privacy statement. We do not sell your personal information to third parties.
 
-    * Cookies are alphanumeric identifiers that we transfer to your computer’s hard drive through your browser to enable our systems to recognize your browser and tell us how and when pages in our site are visited and by how many people. We use cookies to enhance visitors’ experiences, to learn more about their use of the Website and to improve the quality of our services. 
-    * Most browsers have an option for turning off the cookie feature, which will prevent your browser from accepting new cookies, as well as (depending on the sophistication of your browser software) allowing you to decide on acceptance of each new cookie in a variety of ways. We strongly recommend that you leave the cookies activated, however, because cookies enable you to take advantage of some of our Website’s most attractive features.
-    * Ads appearing on the Website may be delivered to users by our advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This Privacy Policy covers the use of cookies by MMTG Labs and does not cover the use of cookies by any advertisers.
+From time to time, we may need to disclose your information to third parties such as to law enforcement authorities or our legal advisers, where it is necessary to comply with the law or regulation; enforce or apply our user terms and conditions; to protect our rights, or to preserve the safety of our users. This may include exchanging information with other companies and organizations for fraud protection.
 
+We may also share your personal information to companies that provide services to help us with our business activities (e.g. processing payments or submitting emails to you on our behalf), in connection with any merger, a sale of InMobi assets, or a financing or acquisition of all or a portion of our business to another company. Whenever we share your personal information for this reason we will ensure that the recipient is bound by all appropriate confidentiality obligations and that it commits to using your personal information only for the purposes for which you originally provided it.
 
+You should also be aware that the information submitted to public areas, such as our blogs, may be read, collected, and used by others who access them.
 
-Will MMTG Labs Share Any of the Personal Information it Receives?
+If you interact with social media features on our site, such as the Facebook Like button, or use your social network credentials to comment on our blog, these features may collect information about your use of this site as well as post information about your activities on this site to your profile page. Your interactions with these Features are governed by the privacy policy of the company providing it.
 
-Personal Information about our customers is an integral part of our business. We neither rent nor sell your Personal Information to anyone. We share your Personal Information only as described below.
+## International Transfers
 
-_Affiliated Businesses We Do Not Control_ : We anticipate that we may become affiliated with a variety of businesses and work closely with them. In certain situations, these businesses may sell items to you through the Website. In other situations, MMTG Labs may provide services jointly with affiliated businesses. You can easily recognize when an affiliated business is associated with your transaction, and we will share your Personal Information that is related to such transactions with that affiliated business.
+We may share your information with our affiliates and other third parties described above who are based in countries outside of your country of residence (for example, if you are an EU resident, we may share your information with our non-EU clients or affiliates). While some countries may not have data protection laws that are equivalent to those of the country in which you reside, we will take all reasonable measures to protect your information in accordance with this Privacy Policy and applicable legal requirements.
 
-_Agents_ : We employ other companies and people to perform tasks on our behalf and need to share your information with them to provide products or services to you. Unless we tell you differently, MMTG Labs’ agents do not have any right to use Personal Information we share with them beyond what is necessary to assist us. You hereby consent to our sharing of Personal Information for the above purposes.
+## How do we keep information secure?
 
-_Promotional Offers_ : We may send offers to you on behalf of other businesses. However, when we do so, we do not give the other business your name and address. If you do not wish to receive these offers, please send an email with your request to hello@AppGalleries.com. 
+We use appropriate technical and organisational security measures to protect the information we collect. We use multiple electronic, procedural, and physical security measures to protect against unauthorised or unlawful use or alteration of information, and against any accidental loss, destruction, or damage to information. We encrypt all information we collect and maintain this encrypted information securely on our servers behind a firewall. However, no method of transmission over the Internet, or method of electronic storage, is 100% secure. Therefore, we cannot guarantee its absolute security.
 
-_Business Transfers_ : In some cases, we may choose to buy or sell assets. In these types of transactions, customer information is typically one of the business assets that are transferred. Moreover, if MMTG Labs, or substantially all of its assets were acquired, or in the unlikely event that MMTG Labs goes out of business or enters bankruptcy, customer information would be one of the assets that is transferred or acquired by a third party. You acknowledge that such transfers may occur, and that any acquirer of MMTG Labs may continue to use your Personal Information as set forth in this policy.
+## How long do you keep information for?
 
-_Protection of MMTG Labs and Others_ : We may release Personal Information when we believe in good faith that release is necessary to comply with the law; enforce or apply our conditions of use and other agreements; or protect the rights, property, or safety of MMTG Labs, our employees, our users, or others. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction.
+We retain information for only as long as is necessary to fulfil the purposes outlined in this Privacy Policy, unless otherwise required by law.
 
-_With Your Consent_ : Except as set forth above, you will be notified when your Personal Information may be shared with third parties, and will be able to prevent the sharing of this information.
+## GENERAL
 
-CONDITIONS OF USE   
+## Does InMobi use cookies?
 
+We use cookies and web beacons to help us collect some of the information we describe above, to provide website functionality and advertising to you, and to save you having to provide information you have already given us on subsequent visits to our site.
 
-If you decide to visit the MMTG Labs websites, your visit and any possible dispute over privacy is subject to this Privacy Policy and our Terms of Use, including limitations on damages, arbitration of disputes, and application of California state law.    
+For more detailed information about the technologies we use and your rights to control those cookies, please visit our [cookie policy](https://web.archive.org/terms/cookie-policy/).
 
+## What about Children?
 
-THIRD PARTY WEBSITES; APPLICATIONS   
+We do not knowingly collect any personal information about children under the age of 13. If we become aware that we have collected personal information about a child under the age of 13, that information will be immediately deleted from our database.
 
+## What about other websites?
 
-MMTG Labs services may permit you to link to other websites on the Internet, and other websites may contain links to the Websites. These other websites are not under MMTG Labs control, and such links do not constitute an endorsement by MMTG Labs of those other websites or the services offered through them. The privacy and security practices of websites linked to or from the MMTG Labs websites are not covered by this Privacy Policy, and MMTG Labs is not responsible for the privacy or security practices or the content of such websites.    
+Our website and the ads we service may contain links to other websites. You should be aware that we are not responsible for the privacy practices of such other websites as those may have different privacy policies and terms of use and are not associated with us. You agree that we cannot control these links and we shall not be responsible for any use of such websites.
 
+## Changes to this Privacy Policy
 
-**SPECIFICALLY, the Website will link to Facebook webpages and provide links to various Facebook applications. MMTG LABS HAS NO CONTROL OVER FACEBOOK’S PRIVACY PRACTICES** **OR THE PRIVACY PRACTICES OF THE OWNERS OR OPERATORS OF ANY OF THE APPLICATIONS.**   
+We may amend this Privacy Policy at any time. The amended Privacy Policy will be displayed on our site. If we make any material changes we will notify you by means of a notice on this site prior to the change becoming effective. Please check our Privacy Policy regularly to ensure you have read the latest version.
 
+## Your rights
 
-Is Personal Information About me Secure?
+Much of the information we hold is purely technical in nature, and relates to the devices that interact with our website or our ads rather than being "personal" in nature about any individual. Information on how to refuse use of this information for interest-based advertising purposes is provided above in the section "Opting Out of Interest-based Advertising" above.
 
-Your MMTG Labs account Personal Information is protected by a password for your privacy and security. You need to ensure that there is no unauthorized access to your account and Personal Information by selecting and protecting your password appropriately and limiting access to your computer and browser by signing off after you have finished accessing your account.
+Where we do hold limited personal information about you (such as personal information about an InMobi account you have with us), you can ask us for access to this personal information, to correct or update any inaccurate personal information we hold, to stop sending you direct marketing or to stop using your personal information altogether.
 
-MMTG Labs endeavors to protect user information to ensure that user account information is kept private, however, MMTG Labs cannot guarantee the security of user account information. Unauthorized entry or use, hardware or software failure, and other factors, may compromise the security of user information at any time. 
+If you would like to exercise any of these rights, you may be able to make the update within your account settings or by contacting us using the details provided below.
 
-what personal information can i access?
+## Contacting Us
 
-MMTG Labs allows you to access certain personal information about you for the purpose of viewing, and in certain situations, updating that information. Please see your account settings for more information.    
+For the purpose of applicable EU data protection laws, the “data controller” in respect of your personal information is InMobi, the UK branch of InMobi Pte Ltd. Address: Head of Privacy, InMobi, 265 Strand, London, WC2R 1BH.
 
-
-What Choices Do I Have?
-
-You may request deletion of your MMTG Labs account by sending an e-mail to hello@AppGalleries.com. Please note that some information may remain in our records after deletion of your account. 
-
-If you do not wish to receive email or other mail from us, please indicate this preference during the registration process. Please note that if you do not want to receive legal notices from us, such as this Privacy Policy, those legal notices will still govern your use of the Website, and you are responsible for reviewing such legal notices for changes.
-
-Changes to this Privacy Policy
-
-MMTG Labs may amend this Privacy Policy from time to time. Use of information we collect now is subject to the Privacy Policy in effect at the time such information is used. If we make changes in the way we use Personal Information, we will notify you by posting an announcement on our Website or sending you an email. Users are bound by any changes to the Privacy Policy when he or she uses the Website after such changes have been first posted.
-
-Questions or Concerns
-
-If you have any questions or concerns regarding privacy on our Website, please send us a detailed message at hello@AppGalleries.com. We will make every effort to resolve your concerns.
-
-Effective Date: May 1, 2010
-
-Email: hello@AppGalleries.com
-
-Phone: (415) 413-8227
-
-Address: 311 Oak St #842, Oakland, CA, 94607
+If you have any questions about this Privacy Policy, please contact us at: [privacy@inmobi.com](mailto:privacy@inmobi.com).
