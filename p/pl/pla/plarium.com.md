@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the plarium.com privacy policy that was archived on 2013-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130625053734id_/http%3A//plarium.com/Common/PrivacyPolicy/en) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the plarium.com privacy policy that was archived on 2013-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131028080400id_/http%3A//plarium.com/Common/PrivacyPolicy/en) for the most accurate reproduction.*
 
 # Privacy policy
 
@@ -68,4 +68,4 @@ Plarium does not knowingly collect nor solicit personal information from anyone 
 
 ##  Questions or Concerns
 
-If you have any questions or concerns regarding privacy at Plarium, please send us a detailed message to support@plarium.com. 
+If you have any questions or concerns regarding privacy at Plarium, please send us a detailed message to our [Support](http://plarium.com/Common/Support/en)
