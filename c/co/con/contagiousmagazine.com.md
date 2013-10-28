@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the contagiousmagazine.com privacy policy that was archived on 2013-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130626213638id_/http%3A//www.contagiousmagazine.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the contagiousmagazine.com privacy policy that was archived on 2013-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131028011444id_/http%3A//www.contagiousmagazine.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy / Contagious Magazine
 
