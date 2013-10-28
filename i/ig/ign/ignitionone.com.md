@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the ignitionone.com privacy policy that was archived on 2013-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130613235657id_/http%3A//www.ignitionone.com/en/about/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ignitionone.com privacy policy that was archived on 2013-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131028051718id_/http%3A//www.ignitionone.com/en/about/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
-**LAST UPDATED: July 3, 2012**
+**LAST UPDATED: July 11, 2013**
 
 IgnitionOne, Inc. (“IgnitionOne” or “we”) offers a suite of digital marketing services that are designed to help online advertisers generate a higher return on their marketing and media buying investment. This Privacy Policy describes our practices in connection with Personal Information that we collect through http://www.ignitionone.com/ (the "Site") Our Site is directed primarily to businesses.. This Privacy Policy does not address the collection, use or disclosure of information through our IgnitionOne behavioral advertising, optimization and analytics services; if you wish to understand our practices with respect to information we collect via our IgnitionOne behavioral advertising, optimization and analytics services, please review our **[IgnitionOne Services Privacy Policy](http://www.ignitionone.com/en/about/privacy-services.php).**
 
@@ -40,7 +40,7 @@ IgnitionOne is a member of the Network Advertising Initiative, which is a cooper
 **IP Addresses.** We use IP addresses for purposes such as calculating Site usage levels, helping diagnose server problems, administering the Site and tracking your Internet usage, including identifying your geographic location. We may also use and disclose IP Addresses for all the purposes for which we use and disclose Personal Information. Please note that we treat IP Addresses, server log files and related information as Non-Personal Information, except where we are required to do otherwise under applicable law. 
 
 **3\. How Is Personal Information Disclosed?** We may disclose Personal Information:  
-\- to our [affiliates](http://www.innovationinteractive.com/affiliates.html) so that they may use such Personal Information for the purposes described in this policy. IgnitionOne is the party responsible for the management of the jointly-used Personal Information.  
+\- to our [affiliates](http://pages.ignitionone.com/affiliates) so that they may use such Personal Information for the purposes described in this policy. IgnitionOne is the party responsible for the management of the jointly-used Personal Information.  
 \- to our third party service providers who provide services such as website hosting, data analysis, payment processing, order fulfillment, infrastructure provision, IT services, customer service, email delivery services, credit card processing and other similar services to enable them to provide services. For example, we may use third party analytics services, and they may place cookies on your computer and record data about your Site usage on our behalf.  
 \- to an affiliate or other third party in the event of any reorganization, merger, sale, joint venture, assignment, transfer or other disposition of all or any portion of our business, assets or stock (including without limitation in connection with any bankruptcy or similar proceedings).  
 \- as we believe to be appropriate: (a) under applicable law including laws outside your country of residence; (b) to comply with legal process (c) to respond to requests from public and government authorities including public and government authorities outside your country of residence; (d) to enforce our terms and conditions; (e) to protect our operations or those of any of our affiliates; (f) to protect our rights, privacy, safety or property, and/or that of our affiliates, you or others; and (g) to permit us to pursue available remedies or limit the damages that we may sustain.
@@ -72,13 +72,12 @@ In each event, you must clearly indicate the information that you wish to have c
 
 **Jurisdictional Issues.** We do not represent or warrant that the Site, or any part thereof, is appropriate or available for use in any particular jurisdiction. Those who choose to access the Site do so on their own initiative and at their own risk, and are responsible for complying with all local laws, rules and regulations. We may limit the Site's availability, in whole or in part, to any person, geographic area or jurisdiction we choose, at any time and in our sole discretion. By using the Site and submitting any Personal Information, you consent to the transfer of Personal Information to other countries, such as the United States, which may provide a different level of data security than in your country of residence.
 
-**Contacting Us.** If you have any questions regarding this Privacy Policy, please contact us by email at [privacy@ignitionone.com](mailto:privacy@ignitionone.com), or please write to the following address or fax number:
+**Contacting Us.** If you have any questions regarding this Privacy Policy, please contact us by email at [privacy@ignitionone.com](mailto:privacy@ignitionone.com), or please write to the following address:
 
 Privacy and Legal Department   
 IgnitionOne, Inc.  
-32 Avenue of the Americas, 5th floor,  
-New York, NY 10013  
-Fax: 212.703.7276
+32 Avenue of the Americas, 25th floor  
+New York, NY 10013
 
 Please note that email communications will not necessarily be secure; accordingly you should not include credit card information in your email correspondence with us.
 
