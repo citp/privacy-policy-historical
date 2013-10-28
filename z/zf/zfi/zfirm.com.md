@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zfirm.com privacy policy that was archived on 2013-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130505062702id_/http%3A//my.shiprush.com/pageblobs/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zfirm.com privacy policy that was archived on 2013-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131028140725id_/http%3A//my.shiprush.com/pageblobs/PrivacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy | My.ShipRush.com
 
