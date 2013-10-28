@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ooma.com privacy policy that was archived on 2013-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130503001221id_/http%3A//ooma.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ooma.com privacy policy that was archived on 2013-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131028195600id_/http%3A//www.ooma.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Free Internet Home Phone Service | Ooma
 
@@ -15,6 +15,8 @@ Ooma may also collect non-personally identifiable information from Customers and
 In addition to cookies, Ooma (and our third party advertisers) may also use clear gifs, web beacons, and third party cookies to improve the performance of our web sites, provide certain features, such as advertising, or to anonymously track usage of our web sites and track the online activity of users. In addition, we may use such devices in our HTML-based emails to track the usage of such emails in much the same manner as we track usage of our web sites.
 
 You may stop or restrict the placement of cookies on your computer, including third party cookies, or flush them from your browser by adjusting your web browser preferences, in which case you may still use our web site, but it may interfere with some of its functionality.
+
+Or, you can always opt-out of this activity by visiting the Network Advertising Initiative (NAI) website by clicking <http://www.networkadvertising.org/managing/opt_out.asp>
 
 ### Use of Information
 
@@ -68,4 +70,4 @@ We reserve the right, at our discretion, to change, modify, add, or remove porti
 
 ### Customer Agreement
 
-This Privacy Policy is subject to the Ooma Customer Agreement and any other agreements between you and Ooma. If you are a Customer, please refer to the Customer Agreement or other such agreements regarding certain rights and limitations with respect to your use of Ooma\'s Products and Services.
+This Privacy Policy is subject to the Ooma Customer Agreement and any other agreements between you and Ooma. If you are a Customer, please refer to the Customer Agreement or other such agreements regarding certain rights and limitations with respect to your use of Ooma\'s Products and Services. 
