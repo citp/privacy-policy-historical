@@ -1,12 +1,8 @@
-> *The following text is extracted and transformed from the ledhut.co.uk privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530030948id_/http%3A//www.ledhut.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ledhut.co.uk privacy policy that was archived on 2013-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131028203950id_/http%3A//www.ledhut.co.uk/privacy) for the most accurate reproduction.*
 
-# Privacy & Security
-
-**Privacy & Security**
+# Privacy
 
 LED HUT LTD is committed, in a fair and equitable manner, and strictly to protecting your privacy. We will only use the information that we collect about you lawfully (in accordance with Jersey Law). The information we collect about you enables us to process your order and provide you with the best service possible. We only send promotional emails with your permission, and do not pass your details onto third parties without your prior consent.
-
-    
 
 #### Your Details
 
