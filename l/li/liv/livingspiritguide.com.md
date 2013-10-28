@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the livingspiritguide.com privacy policy that was archived on 2013-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130424002343id_/http%3A//livingspiritguide.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the livingspiritguide.com privacy policy that was archived on 2013-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131028061904id_/http%3A//livingspiritguide.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - LivingSpiritGuide
 
-**Privacy Policy**  
-This policy describes how and why ADMANAGE SA, incorporated in COSTA RICA, collects non-personally identifiable data from users and website visitors to LIVING SPIRIT GUIDE (http://www.LIVINGSPIRITGUIDE.com), and how that data will be used. ADMANAGE SA is committed to respecting the privacy of non-personal identifiable data gathered. 
+This policy describes how and why ADMANAGE SA, incorporated in COSTA RICA, collects non-personally identifiable data from users and website visitors to LIVING SPIRIT GUIDE (http://www.LIVINGSPIRITGUIDE.com), and how that data will be used. ADMANAGE SA is committed to respecting the privacy of non-personal identifiable data gathered.
 
+   
 **Use of Data**  
 LIVING SPIRIT GUIDE uses non-personally identifiable data collected from users and website visitors in order to:
 
@@ -15,27 +15,26 @@ LIVING SPIRIT GUIDE uses non-personally identifiable data collected from users a
   5. To comply with any applicable law and assist law enforcement agencies as required.
   6. To conduct surveys and market researches.
   7. We may use anonymous, statistical or aggregated information about the website’s use and share, publish, post, disseminate, transmit or otherwise communicate or make available such information, to suppliers, business partners, sponsors, affiliates and any other third party, at our sole discretion.
-  8. 
 
 
-**Cookies and Log Files**  
-Cookies may be used on some pages of our site. Cookies are small text files placed on your hard drive that assist us in providing a more customized website experience. It is our policy to use cookies to make navigation of our website easier for visitors.   
-If you are concerned about cookies, most browsers permit individuals to decline cookies. A user refusing cookies can still fully navigate our website.   
-In order to properly manage our website we may anonymously log information on our systems, and identify categories of visitors by items such as domains and browser types. These statistics are used to manage the operational efficiency of our systems. 
 
-  
+**Cookies and Log Files  **  
+Cookies may be used on some pages of our site. Cookies are small text files placed on your hard drive that assist us in providing a more customized website experience. It is our policy to use cookies to make navigation of our website easier for visitors.  
+If you are concerned about cookies, most browsers permit individuals to decline cookies. A user refusing cookies can still fully navigate our website.  
+In order to properly manage our website we may anonymously log information on our systems, and identify categories of visitors by items such as domains and browser types. These statistics are used to manage the operational efficiency of our systems.
+
 **Age Limit**  
 To use this website you must be at least 18 years of age. We never knowingly collect or maintain information at or on our website from those we actually know are under 18. If you are not 18 years of age you must obtain written consent from an adult who is at least 18 years of age before using this website.
 
-  
+   
 **Changes to Policy**  
 From time to time, we may revise this Privacy Policy. Therefore, it is recommended that you read it periodically. All substantial changes made to this policy will be notified on the website, at our sole discretion, and will take effect immediately.
 
-  
+   
 **Governing Law**  
 This Privacy Policy is governed by and construed in accordance with the laws of COSTA RICA. You agree to submit any dispute arising out of your use of this Web site to the exclusive jurisdiction of the courts of COSTA RICA.
 
-  
+   
 **Contact us**
 
-Please direct all questions in connection with this Policy via e-mail to: INFO (AT) LIVINGSPIRITGUIDE (DOT) COM. 
+Please direct all questions in connection with this Policy via e-mail to: INFO (AT) LIVINGSPIRITGUIDE (DOT) COM.
