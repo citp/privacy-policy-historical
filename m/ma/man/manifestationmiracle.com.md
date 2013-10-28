@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the manifestationmiracle.com privacy policy that was archived on 2013-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130627172240id_/http%3A//manifestationmiracle.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the manifestationmiracle.com privacy policy that was archived on 2013-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131028140313id_/http%3A//www.manifestationmiracle.com/privacypolicy.php) for the most accurate reproduction.*
 
 # Manifestation Miracle | Live Your Dreams | Privacy Policy
 
