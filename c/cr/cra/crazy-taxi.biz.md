@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crazy-taxi.biz privacy policy that was archived on 2013-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130626214125id_/http%3A//crazy-taxi.biz/PrivacyPolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crazy-taxi.biz privacy policy that was archived on 2013-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131028054145id_/http%3A//www.crazy-taxi.biz/PrivacyPolicy.php) for the most accurate reproduction.*
 
 # Play Crazy Taxi Games Free Online
 
