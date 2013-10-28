@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adenandanais.com privacy policy that was archived on 2013-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130627194731id_/http%3A//www.adenandanais.com/about/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adenandanais.com privacy policy that was archived on 2013-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131028035748id_/http%3A//www.adenandanais.com/about/privacy.aspx) for the most accurate reproduction.*
 
 # aden + anais - privacy policy
 
