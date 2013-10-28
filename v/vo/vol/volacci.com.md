@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the volacci.com privacy policy that was archived on 2013-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130614213428id_/http%3A//www.volacci.com/node/1007) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the volacci.com privacy policy that was archived on 2013-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131028231039id_/https%3A//www.volacci.com/node/1007) for the most accurate reproduction.*
 
 # Volacci's Privacy Policy | Volacci
 
