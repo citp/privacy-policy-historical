@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the auntyflo.com privacy policy that was archived on 2013-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130522053259id_/http%3A//www.auntyflo.com/basic-page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the auntyflo.com privacy policy that was archived on 2013-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131028093545id_/http%3A//www.auntyflo.com/basic-page/privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy | Auntyflo.com
+# Privacy Policy | Auntyflo.com
 
 Your privacy and the security of your personal information are very important to us. We want you to be as comfortable as possible visiting our website and using our internet services.
 
