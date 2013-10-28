@@ -1,6 +1,19 @@
-> *The following text is extracted and transformed from the runforyourlives.com privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601050248id_/http%3A//www.runforyourlives.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the runforyourlives.com privacy policy that was archived on 2013-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131028094616id_/http%3A//www.runforyourlives.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Run For Your Lives
+
+## PRIVACY POLICY – COMMITMENT TO YOUR PRIVACY
+
+This site is owned and operated by Reed Street Productions. Your privacy on the Internet is of the utmost importance to us. We want to make your experience online satisfying and safe. Because we gather certain types of information about our users, we feel you should fully understand our policy and the terms and conditions surrounding the capture and use of that information. This privacy statement discloses what information we gather and how we use it.
+
+## INFORMATION REED STREET PRODUCTIONS GATHERS AND TRACKS
+
+**Reed Street Productions gathers two types of information about users:**
+
+  * Information that users provide through optional, voluntary submissions. These are voluntary submissions to receive our electronic newsletters and to share/email a friend.
+  * Information Reed Street Productions gathers through aggregated tracking information derived mainly by tallying page views throughout our sites. This information allows us to better tailor our content to readers’ needs and to help our advertisers and sponsors better understand the demographics of our audience. Under no circumstances does Reed Street Productions sell any information about an individual user to a third party.
+
+
 
 **Reed Street Productions Gathers User Information In The Following Processes:**
 
@@ -29,10 +42,23 @@ You can refuse cookies by turning them off in your browser. If you’ve set your
  **Privacy Policy Use**  
 How the information you gather is used if relevant.
 
+## USE OF INFORMATION
+
 Reed Street Productions uses any information voluntarily given by our users to enhance their experience on our website, whether to provide interactive or personalized elements on the sites or to better prepare future content based on the interests of our users.
 
 As stated above, we use information that users voluntarily provide in order to send out electronic newsletters and to enable users to participate in polls, surveys, message boards, and forums. Reed Street Productions never shares newsletter mailing lists with any third parties, including advertisers, sponsors, or partners.
 
+## OPT-OUT POLICY
+
 Reed Street Productions gives users options wherever necessary and practical. Such choices include:
 
+  * Opting not to register to receive our electronic newsletters.
+  * Opting not to participate in certain interactive areas, which completely alleviates the need to gather any personally identifiable information from our users.
+
+
+
+## YOUR CONSENT
+
 By using this site, you consent to the collection and use of this information by Reed Street Productions. We reserve the right to change this policy at any time. While we do not intend to make changes to this policy very often, it is always a good idea to double check our most current policy statement when you visit us to be sure that you have read and agree with what information we collect, how we use it, and under what circumstances we disclose it.
+
+Kimbia, Inc.Transaction Security Information can be viewed [here](http://www.kimbia.com/kimbiaEE/archive/2009/01/KIMBIA_Transaction_Security_2010.pdf). 
