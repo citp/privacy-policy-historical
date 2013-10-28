@@ -1,17 +1,17 @@
-> *The following text is extracted and transformed from the cash4gold.com privacy policy that was archived on 2012-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121105181303id_/https%3A//www.cash4gold.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cash4gold.com privacy policy that was archived on 2013-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131028091843id_/http%3A//www.cash4gold.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy « Cash4Gold.com
 
-[Home](https://www.cash4gold.com/ "Go to Home.") > Privacy Policy
+[Home](http://www.cash4gold.com/ "Go to Home.") > Privacy Policy
 
 To be removed from receiving future Cash4Gold.com emails, please [click here](https://www.cash4gold.com/unsub/unsubscribe/?cid=7162eb66f0b6c7a4ddec754eeaf25649).
 
 ## 1.         General.
 
-This privacy policy (“Privacy Policy”) is designed to inform you about the type of information that Green Bullion Financial Services, LLC (“we,” “us,” or “our” ) may gather about or collect from you in connection with your use of this site (this “Site”).  It also is intended to explain the conditions under which we use and disclose that information, and your rights in relation to that information.  
+This privacy policy (“Privacy Policy”) is designed to inform you about the type of information that C4G Holdings LLC (“we,” “us,” or “our” ) may gather about or collect from you in connection with your use of this site (this “Site”).  It also is intended to explain the conditions under which we use and disclose that information, and your rights in relation to that information.  
 The procedures for modifying or changing this Privacy Policy in the future are discussed in Section 6 of this document.
 
-If you have questions or concerns regarding this Policy, you should first contact [Privacy@cash4gold.com](mailto:Privacy@kenexa.com).  
+If you have questions or concerns regarding this Policy, you should first contact [Info@cash4gold.com](mailto:info@cash4gold.com).  
 
 
 ## 2.         Children
@@ -120,8 +120,8 @@ We post customer testimonials on our web site which may contain personally ident
 
 This policy is effective as of and was last updated on February 19 , 2010 ****  
 **You may remove yourself from all C4G communication and promotions at any time.   Methods of removal:**  
-**Electronically:[optout@cash4gold.com](mailto:optout@cash4gold.com)**   
+**Electronically:[info@cash4gold.com](mailto:info@cash4gold.com)**   
 **Written Letter:**  
 Cash4Gold  
 Opt-Out List  
-2800 Gateway Drive,Pompano  Beach, FL 33069
+PO Box 268090, Weston, FL 33326
