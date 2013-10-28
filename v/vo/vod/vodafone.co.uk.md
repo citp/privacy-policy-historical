@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vodafone.co.uk privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621140250id_/https%3A//www.vodafone.co.uk/about-this-site/our-privacy-policy/index.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vodafone.co.uk privacy policy that was archived on 2013-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131028180610id_/http%3A//www.vodafone.co.uk/about-this-site/our-privacy-policy/index.htm) for the most accurate reproduction.*
 
 # Privacy policy - Vodafone
 
