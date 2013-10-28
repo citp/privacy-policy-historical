@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the info-komen.org privacy policy that was archived on 2012-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120915035344id_/http%3A//ww5.komen.org/AboutUs/PrivacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the info-komen.org privacy policy that was archived on 2013-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131028091643id_/http%3A//ww5.komen.org/AboutUs/PrivacyPolicy.html) for the most accurate reproduction.*
 
-# Susan G. Komen for the Cure | Komen.org | Privacy Policy | Privacy Policy
+# Susan G. Komen® | Komen.org | Privacy Policy | Privacy Policy
 
 Susan G. Komen for the Cure ("Komen" or "we" or "us" or "our") is committed to responsible information handling practices. You can visit most pages on the Sites (as defined below) without giving us any information about yourself, but sometimes we need information to provide information or services that you request. This Privacy Policy explains data collection and use in those situations. By visiting the Sites, you consent to the information practices described in this Privacy Policy. 
 
