@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nsauditor.com privacy policy that was archived on 2013-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130327232856id_/http%3A//www.nsasoft.us/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nsauditor.com privacy policy that was archived on 2013-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131028152930id_/http%3A//www.nsasoft.us/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
