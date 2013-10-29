@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the britishgas.co.uk privacy policy that was archived on 2013-06-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130621055153id_/http%3A//www.britishgas.co.uk/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the britishgas.co.uk privacy policy that was archived on 2013-10-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131029060947id_/http%3A//www.britishgas.co.uk/privacy-policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" class=" js flexbox canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths"><!--[if lt IE 7 ]> <html class="no-js ie6"> <![endif]--><!--[if IE 7 ]>    <html class="no-js ie7"> <![endif]--><!--[if IE 8 ]>    <html class="no-js ie8"> <![endif]--><!--[if (gte IE 9)|!(IE)]><!--><!--<![endif]--><head>
  
@@ -42,9 +42,10 @@
 
 
 
+
 <link rel="shortcut icon" href="/etc/designs/centrica/bgas/images/favicon.ico" type="image/vnd.microsoft.icon">
 
-
+<script type="text/javascript">var device = 'desktop';</script>
 <script type="text/javascript">
 /* Cookie Handling Starts*/
 function setCookie(szName, szValue, szExpires, szPath, szDomain, bSecure) {
@@ -149,6 +150,13 @@ CQClientLibraryManager.write([{"p":"/etc/clientlibs/foundation/jquery.js","c":[]
                 <a href="/business" title="Go to our Business site"><span class="tertiary-link">Go to our Business site</span></a>
             </div>
                     
+           <div id="loginregister" class="fright loginregister">
+        <ul>
+            <li class="first"><a href="/Login/Login-Verify/" title="Login">Log in</a></li>
+            <li>or</li>
+            <li class="last"><a href="/Registration/Account-Details-Entry/Link/ID/Register/" title="Register">Register</a></li>
+        </ul>
+    </div>          
            <div id="logoutMsg" class="logout fright displaynone">
                <span class="user">Welcome <span id="titleUserName"></span></span>
                <a href="/Logout/Logout-Succesful/" title="Log out">Log out</a>
@@ -156,7 +164,7 @@ CQClientLibraryManager.write([{"p":"/etc/clientlibs/foundation/jquery.js","c":[]
 
         </div>
         
-               <div class="topnav fleft">
+               <div class="topnav fleft" id="minimal-header-menu">
             <ul class="fright">
                   <li class="first"><a href="/about-us.html" title="About Us">About us</a></li>
                   <li><a href="/Help_Advice/ContactUs/" title="Contact Us">Contact us</a></li>
@@ -173,17 +181,29 @@ CQClientLibraryManager.write([{"p":"/etc/clientlibs/foundation/jquery.js","c":[]
   
 
 
-<script>
-var currentsearchform="#site-search-form2903dcd8-90df-4469-ab50-0062743122e9";
-</script>
-<div class="topsrch fleft">
-    <form role="search" id="site-search-form2903dcd8-90df-4469-ab50-0062743122e9">
-        <input type="text" name="site_search" class="site_search srchbox fleft ac_input" id="site-search-input2903dcd8-90df-4469-ab50-0062743122e9" title="Search" value="Search" autocomplete="off">
-        <input type="image" class="fleft site-search-submit" alt="Search" title="Search" src="/etc/designs/centrica/bgas/images/btn-search-input.png" id="site-search-submit2903dcd8-90df-4469-ab50-0062743122e9">
-        <input id="uri" type="hidden" name="uri" value="/SiteSearch/">
-    </form>          
-</div>
 
+
+ 
+ 
+
+
+
+
+
+
+
+
+  <script>
+var currentsearchform="#site-search-formeb75b507-dbe2-44e6-b1f7-bb2f3046a087";
+</script>
+      <div class="topsrch fleft">
+        <form role="search" id="site-search-formeb75b507-dbe2-44e6-b1f7-bb2f3046a087">
+            <input type="text" name="site_search" class="site_search srchbox fleft ac_input" id="site-search-inputeb75b507-dbe2-44e6-b1f7-bb2f3046a087" title="Search" value="Search" autocomplete="off">
+            <input type="image" class="fleft site-search-submit" alt="Search" title="Search" src="/etc/designs/centrica/bgas/images/btn-search-input.png" id="site-search-submiteb75b507-dbe2-44e6-b1f7-bb2f3046a087">
+            <input id="uri" type="hidden" name="uri" value="/SiteSearch/">
+        </form>         
+    </div>
+    
  
 
  <script type="text/javascript">
@@ -197,8 +217,8 @@ var currentsearchform="#site-search-form2903dcd8-90df-4469-ab50-0062743122e9";
            searchindex=$(".site_search").index($(currentsearchform+" .site_search"));
           
         $(".site-search-submit").click(function(e){
-        	e.preventDefault();
-        	searchText = $(this).prev('.site_search').val();
+            e.preventDefault();
+            searchText = $(this).prev('.site_search').val();
             sitesearchResult(searchText);
            
         });
@@ -241,11 +261,11 @@ var currentsearchform="#site-search-form2903dcd8-90df-4469-ab50-0062743122e9";
        
        function sitesearchResult(searchString) {
             var uri = $("#uri").val();
-			searchString = replaceAll(searchString," ","+");
-			searchString = uri + "?q=" + searchString;
-			siteSearchURL="";
-			siteSearchURL =  siteSearchURL + searchString;
-			window.location.href=siteSearchURL ;         
+            searchString = replaceAll(searchString," ","+");
+            searchString = uri + "?q=" + searchString;
+            siteSearchURL="";
+            siteSearchURL =  siteSearchURL + searchString;
+            window.location.href=siteSearchURL ;         
         }
     
      function replaceAll(source,findString,replaceString){
@@ -286,15 +306,17 @@ var currentsearchform="#site-search-form2903dcd8-90df-4469-ab50-0062743122e9";
     });
 
     $(document).ready(function() {
-		$("body").removeAttr("onload");
-	});
+        $("body").removeAttr("onload");
+    });
 
 
 </script>
          
 
-
-</div>
+        
+ 
+   
+    </div>
 
 </div>
 
@@ -306,6 +328,11 @@ var currentsearchform="#site-search-form2903dcd8-90df-4469-ab50-0062743122e9";
            
            <div class="megamenu">
  
+
+    
+        
+ 
+
 
 <div id="mega-menu" role="navigation">
 <span class="hidden" id="menu-description">Main site navigation</span>
@@ -319,12 +346,16 @@ var currentsearchform="#site-search-form2903dcd8-90df-4469-ab50-0062743122e9";
 <h3><a href="/products-and-services/gas-and-electricity.html" role="menuitem" tabindex="-1">Gas &amp; electricity</a></h3>
 <ul>
 <li role="presentation"><a href="/GetAQuote/" role="menuitem" tabindex="-1">Get a quote</a></li>
+<li role="presentation"><a href="/products-and-services/gas-and-electricity/tariff-check/switch-to-british-gas-anonymous.html" role="menuitem" tabindex="-1">Switch to British Gas</a></li>
 <li role="presentation"><a href="/products-and-services/gas-and-electricity/our-energy-tariffs.html" role="menuitem" tabindex="-1">Our tariffs</a></li>
 <li role="presentation"><a href="/products-and-services/gas-and-electricity/tariff-check.html" role="menuitem" tabindex="-1">Tariff Check</a></li>
-<li role="presentation"><a href="/products-and-services/gas-and-electricity/energysmart.html" role="menuitem" tabindex="-1">EnergySmart™</a></li>
-<li role="presentation"><a href="/products-and-services/gas-and-electricity/new-gas-supplies.html" role="menuitem" tabindex="-1">New gas supplies</a></li>
-<li role="presentation"><a href="/products-and-services/gas-and-electricity/the-warm-home-discount.html" role="menuitem" tabindex="-1">Warm Home Discount Scheme</a></li>
+<li role="presentation"><a href="/products-and-services/gas-and-electricity/customerpacks.html" role="menuitem" tabindex="-1">Customer packs</a></li>
+<li role="presentation"><a href="/products-and-services/gas-and-electricity/energysmart.html" role="menuitem" tabindex="-1">EnergySmart™ </a></li>
+<li role="presentation"><a href="/products-and-services/gas-and-electricity/the-warm-home-discount.html" role="menuitem" tabindex="-1">Warm Home Discount</a></li>
 <li role="presentation"><a href="/products-and-services/gas-and-electricity/gas-safety.html" role="menuitem" tabindex="-1">Gas safety</a></li>
+<li role="presentation"><a href="/products-and-services/gas-and-electricity/new-connections.html" role="menuitem" tabindex="-1">New Connections</a></li>
+<li role="presentation"><a href="/products-and-services/gas-and-electricity/benefits-of-being-with-us.html" role="menuitem" tabindex="-1">The benefits of being with us</a></li>
+<li role="presentation"><a href="/products-and-services/gas-and-electricity/the-key-facts.html" role="menuitem" tabindex="-1">Key facts about British Gas</a></li>
 </ul>
 </div></div>
  
@@ -338,7 +369,7 @@ var currentsearchform="#site-search-form2903dcd8-90df-4469-ab50-0062743122e9";
 <li role="presentation"><a href="/products-and-services/boilers-and-central-heating/one-off-boiler-repairs.html" role="menuitem" tabindex="-1">One off boiler repair</a></li>
 <li role="presentation"><a href="/products-and-services/boilers-and-central-heating/boiler-service-and-safety-checks.html" role="menuitem" tabindex="-1">Boiler service &amp; safety</a></li>
 <li role="presentation"><a href="/products-and-services/boilers-and-central-heating/new-boilers.html" role="menuitem" tabindex="-1">New boilers</a></li>
-<li role="presentation"><a href="/products-and-services/boilers-and-central-heating/heating-accessories.html" role="menuitem" tabindex="-1">Heating accessories</a></li>
+<li role="presentation"><a href="/products-and-services/boilers-and-central-heating/heating-upgrades.html" role="menuitem" tabindex="-1">Heating upgrades</a></li>
 </ul>
 </div></div>
  
@@ -377,7 +408,7 @@ var currentsearchform="#site-search-form2903dcd8-90df-4469-ab50-0062743122e9";
 <h3><a href="/products-and-services/landlords.html" role="menuitem" tabindex="-1">Landlords</a></h3>
 <ul>
 <li role="presentation"><a href="/products-and-services/landlords/gas-safety-certificate.html" role="menuitem" tabindex="-1">Gas safety certificate</a></li>
-<li role="presentation"><a href="/products-and-services/landlords/landlord-services.html" role="menuitem" tabindex="-1">Landlord services</a></li>
+<li role="presentation"><a href="/products-and-services/landlords/landlord-packages.html" role="menuitem" tabindex="-1">Landlord packages</a></li>
 </ul>
 </div></div>
  
@@ -398,7 +429,6 @@ var currentsearchform="#site-search-form2903dcd8-90df-4469-ab50-0062743122e9";
 <h3><a href="/products-and-services/energy-saving.html" role="menuitem" tabindex="-1">Energy saving products</a></h3>
 <ul>
 <li role="presentation"><a href="/products-and-services/energy-saving/home-insulation/free-insulation.html" role="menuitem" tabindex="-1">Free insulation</a></li>
-<li role="presentation"><a href="/products-and-services/energy-saving/energy-savers-store.html" role="menuitem" tabindex="-1">Energy savers store</a></li>
 <li role="presentation"><a href="/products-and-services/energy-saving/electric-vehicles.html" role="menuitem" tabindex="-1">Electric vehicles</a></li>
 </ul>
 </div></div>
@@ -424,11 +454,11 @@ var currentsearchform="#site-search-form2903dcd8-90df-4469-ab50-0062743122e9";
  
 <div class="mega-column">
 <div class="mega-column-content">
-<h3><a href="/products-and-services/remote-heating-control.html" role="menuitem" tabindex="-1">Remote Heating Control</a></h3>
+<h3><a href="/products-and-services/hive-active-heating.html" role="menuitem" tabindex="-1">Hive Active Heating™</a></h3>
 <ul>
-<li role="presentation"><a href="/products-and-services/remote-heating-control/how-to-use.html" role="menuitem" tabindex="-1">How to use</a></li>
-<li role="presentation"><a href="/products-and-services/remote-heating-control/how-it-works.html" role="menuitem" tabindex="-1">How it works</a></li>
-<li role="presentation"><a href="/products-and-services/remote-heating-control/installation.html" role="menuitem" tabindex="-1">Installation</a></li>
+<li role="presentation"><a href="/products-and-services/hive-active-heating/how-to-use.html" role="menuitem" tabindex="-1">How to use</a></li>
+<li role="presentation"><a href="/products-and-services/hive-active-heating/how-it-works.html" role="menuitem" tabindex="-1">How it works</a></li>
+<li role="presentation"><a href="/products-and-services/hive-active-heating/installation.html" role="menuitem" tabindex="-1">Installation</a></li>
 </ul>
 </div></div>
  
@@ -440,7 +470,6 @@ var currentsearchform="#site-search-form2903dcd8-90df-4469-ab50-0062743122e9";
 <li role="presentation"><a href="/products-and-services/nectar/spend-points.html" role="menuitem" tabindex="-1">Spend points</a></li>
 </ul>
 </div></div>
- 
  
  
 </div></div></li></ul></li>
@@ -456,7 +485,7 @@ var currentsearchform="#site-search-form2903dcd8-90df-4469-ab50-0062743122e9";
 <li role="presentation"><a href="/smarter-living/save-energy/energy-saving-tips.html" role="menuitem" tabindex="-1">Energy saving tips</a></li>
 <li role="presentation"><a href="/smarter-living/save-energy/green-streets.html" role="menuitem" tabindex="-1">Green Streets</a></li>
 <li role="presentation"><a href="/smarter-living/save-energy/green-deal.html" role="menuitem" tabindex="-1">Green Deal</a></li>
-<li role="presentation"><a href="/smarter-living/save-energy/free-insulation-obligation.html" role="menuitem" tabindex="-1">Free insulation</a></li>
+<li role="presentation"><a href="/products-and-services/energy-saving/home-insulation/free-insulation.html" role="menuitem" tabindex="-1">Free insulation</a></li>
 </ul>
 </div></div>
  
@@ -465,7 +494,7 @@ var currentsearchform="#site-search-form2903dcd8-90df-4469-ab50-0062743122e9";
 <h3><a href="/smarter-living/control-energy.html" role="menuitem" tabindex="-1">Control energy</a></h3>
 <ul>
 <li role="presentation"><a href="/smarter-living/control-energy/smart-meters.html" role="menuitem" tabindex="-1">Smart meter upgrade</a></li>
-<li role="presentation"><a href="/smarter-living/control-energy/smart-home-revolution.html" role="menuitem" tabindex="-1">Remote Heating Control</a></li>
+<li role="presentation"><a href="/smarter-living/control-energy/hive-active-heating.html" role="menuitem" tabindex="-1">Hive Active Heating™</a></li>
 <li role="presentation"><a href="/smarter-living/control-energy/safe-and-secure.html" role="menuitem" tabindex="-1">Safe &amp; Secure</a></li>
 </ul>
 </div></div>
@@ -488,8 +517,13 @@ var currentsearchform="#site-search-form2903dcd8-90df-4469-ab50-0062743122e9";
 </div></div>
  
 <div class="mega-column">
-<div class="mega-column-content last-mega-column-content">
+<div class="mega-column-content">
 <h3><a href="/smarter-living/smart-technology-reviews.html" role="menuitem" tabindex="-1">User reviews - Smarter Homes</a></h3>
+</div></div>
+ 
+<div class="mega-column">
+<div class="mega-column-content last-mega-column-content">
+<h3><a href="/smarter-living/students.html" role="menuitem" tabindex="-1">Students - tips &amp; advice</a></h3>
 </div></div>
 </div></div></li></ul></li>
 <li role="presentation" class="menuheading"><a class="menubar-link sf-with-ul" href="/HelpAndAdvice/LookUp/" role="menuitem" tabindex="-1">Help &amp; advice<span class="sf-sub-indicator"> »</span></a>
@@ -597,6 +631,7 @@ var currentsearchform="#site-search-form2903dcd8-90df-4469-ab50-0062743122e9";
 <h3><a href="/about-us.html" role="menuitem" tabindex="-1">About us</a></h3>
 <ul>
 <li role="presentation"><a href="/about-us/about-British-Gas/customer-service-performance.html" role="menuitem" tabindex="-1">Customer service performance</a></li>
+<li role="presentation"><a href="http://www.britishgas.co.uk/mediacentre" role="menuitem" tabindex="-1">Media Centre</a></li>
 </ul>
 </div></div>
  
@@ -607,7 +642,6 @@ var currentsearchform="#site-search-form2903dcd8-90df-4469-ab50-0062743122e9";
 <li role="presentation"><a href="/Help_Advice/ContactUs/" role="menuitem" tabindex="-1">Ways to contact us</a></li>
 <li role="presentation"><a href="/help-and-advice/contactus-personal-details/emergency-numbers.html" role="menuitem" tabindex="-1">Emergency numbers</a></li>
 <li role="presentation"><a href="/help-and-advice/contactus-personal-details/contact-us.html" role="menuitem" tabindex="-1">Contact telephone numbers</a></li>
-<li role="presentation"><a href="/help-and-advice/contactus-personal-details/did-we-call-you.html" role="menuitem" tabindex="-1">Did we call you?</a></li>
 </ul>
 </div></div>
  
@@ -665,6 +699,14 @@ var currentsearchform="#site-search-form2903dcd8-90df-4469-ab50-0062743122e9";
 </ul>
 </div>
 
+  
+    
+    
+
+
+
+
+
   </div>
     
                  <script type="text/javascript">
@@ -689,8 +731,19 @@ var currentsearchform="#site-search-form2903dcd8-90df-4469-ab50-0062743122e9";
             <div class="content-wrapper">
             <div class="breadcrumb">
  
+
+
+ 
+ <!--  ********** SSRV Sprint 8 October 08 2013 release changes - start *********** -->
+
+
+
+
+
+ <!--  ********** SSRV Sprint 8 October 08 2013 release changes - End *********** -->
 <div id="breadcrumb">
 <ul>
+
 <li> 
     
         <a href="/" title="Home" class="home fleft">Home</a><span class="fleft">›</span>
@@ -698,6 +751,7 @@ var currentsearchform="#site-search-form2903dcd8-90df-4469-ab50-0062743122e9";
     
      
 </li>
+
 
 <li class="active-page"><strong>Privacy policy</strong></li>
 </ul>
@@ -718,16 +772,24 @@ var currentsearchform="#site-search-form2903dcd8-90df-4469-ab50-0062743122e9";
 	    
  
 
+
+
+
+ 
 <div id="primary-wrapper">
-    
+     
     <div id="content-wrapper-main">
-    
-	
-		<div class="title">
+        
+ 
+
+
+
+    <div class="title">
  <h1 id="h1">British Gas privacy policy</h1></div>
 
-	
-    <div class="parsys hero-panel"></div>
+
+<div class="parsys hero-panel"></div>
+
 
 
     
@@ -980,14 +1042,26 @@ If you do not want us to use cookies in your browser, you can set your browser t
     
      
 
+        
+            
+ 
 
     
-        
-            <div id="right-promo" role="complementary">
-                <div class="parsys rightpar"><div class="parbase section reference"><div style="display:inline;" class="cq-dd-paragraph"><div class="parsys panelcontainer">
+        <div id="right-promo" role="complementary">
+            <div class="parsys rightpar"><div class="parbase section reference"><div style="display:inline;" class="cq-dd-paragraph"><div class="parsys panelcontainer">
  
 
 
+
+
+
+
+    
+        
+        
+           
+        
+    
 
     
         
@@ -1000,10 +1074,11 @@ If you do not want us to use cookies in your browser, you can set your browser t
          
              
          
+         
             
             
-        <div class="grey-promo">
-                    <div class="panel-padding">
+        <div class="grey-promo ">
+         <div class="panel-padding "> 
                         
                 <div class="parsys panel-content"><div class="parbase textimage section">
  
@@ -1028,6 +1103,9 @@ If you do not want us to use cookies in your browser, you can set your browser t
                 </div>
             
             
+            
+            
+            
 			
 			
             
@@ -1038,27 +1116,30 @@ If you do not want us to use cookies in your browser, you can set your browser t
 
             
             
-			
-              
+	    
+            
         
-		
+	
 		
      
 			
-			
+			  
+            
          
-</div>
+      
+   </div>
 </div></div>
 </div>
 
-            </div>
-        
-        
-        
+        </div>
+    
+    
     
 
+
 <div class="cb"></div>
-</div>
+        
+    </div>
 </div>
     </div>
 </div>
@@ -1117,12 +1198,156 @@ If you do not want us to use cookies in your browser, you can set your browser t
                 <li><a href="http://www.britishgastoday.co.uk" class="rss" title="Latest news" target="_blank">Latest news</a></li>
                 <li><a href="http://www.facebook.com/britishgas" class="facebook" title="Facebook" target="_blank">Facebook</a></li>
                 <li><a href="http://www.twitter.com/britishgas" class="twitter" title="Twitter" target="_blank">Twitter</a></li>
-                <li><a href="http://www.youtube.com/britishgas" class="youtube" title="Youtube" target="_blank">Youtube</a></li>
+                <li><a href="http://www.youtube.com/britishgas" class="youtube" title="Youtube" target="_blank">YouTube</a></li>
              </ul>
         </div>
         <div class="cb"></div>
         <p class="copyrights"> © British Gas 2013 </p>
 		
+ <div class="globalSessionTimeOut globalSession_timeout">
+ 
+
+
+
+<div class="parsys globalSessionTimeout sessionTimeout">
+ 
+
+
+
+
+
+
+
+
+
+   
+<script>
+
+
+$(document).ready(function() {
+  initiateSessionCounter();
+});
+var secs;
+var sessionTimeOutForm; 
+var sessionTimer;
+
+function initiateSessionCounter(){    
+    sessionTimer = setTimeout("initiate()", 1140000);
+}
+
+function resetTimer(){  
+    stopTimer();
+    clearTimeout(sessionTimer);
+    initiateSessionCounter();   
+}
+
+function initiate() {   
+    openModal('timeoutoverlay-content', 'overlay', true);
+    document.getElementById('stopTimer').value = "false";
+    countLastMinute(60);
+}
+
+function countLastMinute(seconds) {
+    var secondsArray;
+    var secsString;
+    if (seconds != null && seconds != undefined){
+        if (seconds == 60) {
+            secs = seconds;
+        }
+    }
+        
+    secs--;
+    
+    if(secs == -1) {
+        secs=0;
+    } 
+   
+    document.getElementById('disp').innerHTML = secs;
+    
+    if(secs == 0 && document.sessionTimeOutForm.stopTimer.value == "false") {
+        parent.location = '/Logout/Logout-Session-Succesful/';
+    } else {
+        if (document.sessionTimeOutForm.stopTimer.value == "false") {
+            sessionTimeOutForm = setTimeout("countLastMinute()", 1000);
+        }
+    }
+}
+
+function redo11()
+{
+var secs=0;
+
+    if(secs == 0)
+    {
+        parent.location = '/Logout/Logout-Succesful/'; // redirects to specified page once timer ends
+    }
+}
+
+function stopTimer() {
+    document.getElementById('stopTimer').value = "true";    
+}
+
+$(document).ready(function() { 
+    $("#keepMeLoggedIn").click(function(){
+        keepSessionAlive();
+        closeDialog('timeoutoverlay-content');
+        resetTimer();   
+    })  
+});
+
+
+function keepSessionAlive()
+{
+    var xmlhttp=false;
+     try {
+      xmlhttp = new ActiveXObject("Msxml2.XMLHTTP");
+     } catch (e) {
+      try {
+       xmlhttp = new ActiveXObject("Microsoft.XMLHTTP");
+      } catch (E) {
+       xmlhttp = false;
+      }
+     }
+    if (!xmlhttp && typeof XMLHttpRequest!='undefined') {
+        try {
+            xmlhttp = new XMLHttpRequest();
+        } catch (e) {
+            xmlhttp=false;
+        }
+    }
+    if (!xmlhttp && window.createRequest) {
+        try {
+            xmlhttp = window.createRequest();
+        } catch (e) {
+            xmlhttp=false;
+        }
+    }
+
+     xmlhttp.open("POST", "/OnlineCustomer/jsp/SessionAlive.jsp",true);
+
+     xmlhttp.onreadystatechange=function() {
+
+      if (xmlhttp.readyState==4) {
+      }
+     }
+     xmlhttp.send(null)
+}
+
+</script>
+  
+     
+                <div id="sessiontimeOutOverlay" class="displaynone">
+                  
+    <div class="cb"></div>    
+    </div>
+    
+    
+
+ </div>
+
+</div>
+
+ 
     </div>
     </div>
    	 
@@ -1151,6 +1376,7 @@ If you do not want us to use cookies in your browser, you can set your browser t
 <script type="text/javascript" src="/etc/designs/centrica/scripts/printarea.js"></script>
 <script type="text/javascript" src="/etc/designs/centrica/scripts/slides.min.jquery.js"></script>
 <script type="text/javascript" src="/etc/designs/centrica/scripts/jsrender.js"></script>
+<script src="/etc/designs/centrica/bgas/scripts/functional/sitesearch/sitesearch.js" type="text/javascript"></script>
 
 
      <script src="/etc/designs/centrica/bgas/scripts/functions.js" type="text/javascript"></script>
@@ -1169,7 +1395,7 @@ If you do not want us to use cookies in your browser, you can set your browser t
 
 <script>
     var currentbrandName = "britishgas";
-    var currentUcrn = "null";
+    var currentUcrn = "001000233197";
     if(currentUcrn=='null'){
         currentUcrn = '';
     }
@@ -1193,6 +1419,15 @@ If you do not want us to use cookies in your browser, you can set your browser t
         if (getCookie('SE_Title') != '') {
             try{
             $("#logoutMsg").show();
+			if(currentbrandName=='britishgas'){
+            if(document.getElementById('mega-menu') || document.getElementById('minimal-header-menu')){
+                $("#logoutMsg").addClass("logout");
+            }else{
+                $("#logoutMsg").removeClass("logout");
+            }
+}
+
+            $("#loginregister").addClass("displaynone");
                 $("#titleUserName").text(getCookie('SE_Title')+" "+getCookie('SE_Lastname'));  
                 if(currentbrandName=='britishgas'){
                     $("li.last-menu div.mega-column-new").eq(1).remove();
@@ -1276,6 +1511,14 @@ If you do not want us to use cookies in your browser, you can set your browser t
                }
             catch(exception){
              }
+        }else{
+        	if(document.getElementById('mega-menu') || document.getElementById('minimal-header-menu')){
+        		if(document.getElementById('preRegistrationCompletionPage')){
+                    $("#loginregister").addClass("displaynone");
+                }else{
+                    $("#loginregister").removeClass("displaynone");
+                }
+        	}
         }
     }
 </script>
@@ -1349,7 +1592,7 @@ If you do not want us to use cookies in your browser, you can set your browser t
 <!--
 More detailed timing info is available by uncommenting some code in the timing.jsp component
 Timing chart URL:
-http://chart.apis.google.com/chart?chtt=privacy-policy.html+%28150ms%29&cht=bhs&chxt=x&chco=c6d9fd,4d89f9&chbh=a&chds=0,150,0,150&chxr=0,0,150&chd=t:10,14,15,18,117,119,121,122,128,129,129,130,131,132,133,134,134,135,140,141,142,142,142,143,143,144,144,145,145,146,146,147,148|1,3,2,97,0,0,0,23,0,0,1,1,1,0,0,0,1,5,1,0,0,0,1,0,1,0,0,0,5,4,4,3,2&chly=clickstreamcloud.jsp|globalSiteSearch.jsp|siteSearchJourney.jsp|megamenu.jsp|breadcrumb.jsp|title.jsp|parsys.jsp|parsys.jsp|heading.jsp|text.jsp|heading.jsp|text.jsp|text.jsp|heading.jsp|text.jsp|heading.jsp|text.jsp|text.jsp|heading.jsp|text.jsp|heading.jsp|text.jsp|heading.jsp|text.jsp|heading.jsp|text.jsp|heading.jsp|text.jsp|parsys.jsp|panelcontainer.jsp|reference.jsp|parsys.jsp|textimage.jsp&chs=600x500
+http://chart.apis.google.com/chart?chtt=privacy-policy.html+%281102ms%29&cht=bhs&chxt=x&chco=c6d9fd,4d89f9&chbh=a&chds=0,1102,0,1102&chxr=0,0,1102&chd=t:98,101,102,109,278,280,282,283,317,318,319,319,320,320,321,322,322,323,330,330,331,332,332,333,333,334,334,335,336,337,338,340,340,1098,1099,1100,1101|1,6,5,166,0,0,0,52,1,1,0,1,0,1,0,0,1,7,0,1,0,0,0,0,0,0,1,0,9,8,7,4,4,4,3,0,1&chly=clickstreamcloud.jsp|globalSiteSearch.jsp|siteSearchJourney.jsp|megamenu.jsp|breadcrumb.jsp|title.jsp|parsys.jsp|parsys.jsp|heading.jsp|text.jsp|heading.jsp|text.jsp|text.jsp|heading.jsp|text.jsp|heading.jsp|text.jsp|text.jsp|heading.jsp|text.jsp|heading.jsp|text.jsp|heading.jsp|text.jsp|heading.jsp|text.jsp|heading.jsp|text.jsp|parsys.jsp|reference.jsp|panelcontainer.jsp|textimage.jsp|parsys.jsp|globalSessionTimeOut.jsp|sessionTimeout.jsp|text.jsp|genericNextButton.jsp&chs=600x500
 -->
 
 
@@ -1364,4 +1607,70 @@ document.write(unescape("%3Cscript src='" + stHost + "sitetagger.co.uk/" + stAcc
 
 
 
-</div></div></body></html>
+</div></div><div class="ui-dialog ui-widget ui-widget-content ui-corner-all  ui-draggable" tabindex="-1" role="dialog" aria-labelledby="ui-dialog-title-timeoutoverlay-content" style="display: none; z-index: 1000; outline: 0px;"><div class="ui-dialog-titlebar ui-widget-header ui-corner-all ui-helper-clearfix"><span class="ui-dialog-title" id="ui-dialog-title-timeoutoverlay-content">&nbsp;</span><a href="#" class="ui-dialog-titlebar-close ui-corner-all" role="button"><span class="ui-icon ui-icon-closethick">close</span></a></div><div id="timeoutoverlay-content" class="modalDialog ui-dialog-content ui-widget-content">
+                <form name="sessionTimeOutForm" class="session-logout fleft">
+             
+
+
+                <div id="overlayTitleAndContent">
+                    <div class="text parbase overlayTitleAndContent">
+ 
+<h2>Secure connection: You are about to be logged out</h2>
+<p>Your account has been securely logged in but left inactive for a while, so we'll be logging you out shortly for security.</p>
+
+</div>
+
+                </div>
+                <input type="hidden" value="false" id="stopTimer" name="stopTimer">
+                <div class="fleft logout-time">
+                   <p class="fleft">You will be logged out in: </p><span id="disp" class="fleft">50</span> <p class="fleft">seconds</p>
+                </div>
+                <div class="cb"></div> 
+                <div class="btn-comp-img fleft">
+                    
+                    
+                    <div class="submit keepMeLoggedIn genericNextButton">
+ 
+
+
+
+
+    
+
+
+
+
+
+
+    
+        
+
+
+
+    
+
+
+
+
+
+    
+    
+
+
+<button id="keepMeLoggedIn" name="keepMeLoggedIn" type="button" title="Keep me logged in" class="btn-comp btncomp-primary ">
+   <span>
+        <span>
+            <span>Keep me logged in</span>
+        </span>
+    </span>
+</button>
+ 
+
+
+
+</div>
+
+                    <a title="Cancel" href="javascript:redo11();" alt="Cancel">Logout</a>
+                </div>
+            </form>
+       </div></div></body></html>
