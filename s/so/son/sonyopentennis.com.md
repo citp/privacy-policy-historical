@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sonyopentennis.com privacy policy that was archived on 2013-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130624110025id_/http%3A//www.sonyopentennis.com/Terms/Privacy-Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sonyopentennis.com privacy policy that was archived on 2013-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131029233944id_/http%3A//www.sonyopentennis.com/Terms/Privacy-Policy.aspx) for the most accurate reproduction.*
 
 # Tennis - Sony Open Tennis - Privacy Policy
 
