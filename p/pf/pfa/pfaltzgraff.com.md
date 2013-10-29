@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pfaltzgraff.com privacy policy that was archived on 2013-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130606085903id_/http%3A//www.pfaltzgraff.com/dinnerware-cookware/PRIVACY_SECURITY_POLICY%2Cdefault%2Cpg.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pfaltzgraff.com privacy policy that was archived on 2013-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131029073742id_/http%3A//www.pfaltzgraff.com/dinnerware-cookware/PRIVACY_SECURITY_POLICY%2Cdefault%2Cpg.html) for the most accurate reproduction.*
 
 # Pfaltzgraff Privacy Policy | Serveware, Kitchen Organizers
 
@@ -21,6 +21,10 @@ If you would like to receive online information from us regarding special sales,
 We never sell, rent or trade email addresses with any other company. If you do not wish to receive information from Lifetime Brands, please contact us by sending an email to [Consumer Services](mailto:service@pfaltzgraff.com), or call our Consumer Service Helpline at 1-800-999-2811.
 
 Additional uses of customer information do not in any way identify individuals. Instead they describe our customers as groups; for example, everyone who orders glassware or those who order only gifts. In order to develop better Web tools and services that enhance your shopping experience, we occasionally share this aggregate customer information with select third parties. From time to time we provide statistical information about our consumers, sales, traffic patterns on our Web site and site shopping information. These statistics are used in communications such as trade reports and do not identify individuals.
+
+## What happens to information that is submitted in a promotion?
+
+When you enter a promotion you may be required to provide certain information about yourself and submit a photo or video. We may use such photos or videos on our website and social media websites for promotional purposes. When we use a photo or video we may or may not give you credit for such content. When you enter a promotion through a social media website we may, if applicable, collect your profile ID and user name from the social media platform.
 
 ## How can I discontinue promotional emails?
 
