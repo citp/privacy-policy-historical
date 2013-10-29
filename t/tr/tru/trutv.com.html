@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the trutv.com privacy policy that was archived on 2013-06-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130630064217id_/http%3A//www.trutv.com/copyright/index.html%23priv) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the trutv.com privacy policy that was archived on 2013-10-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131029215501id_/http%3A//www.trutv.com/copyright/index.html%23priv) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html class="no-js" lang="en"><!--<![endif]--><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html class="no-js" xmlns="http://www.w3.org/1999/xhtml" lang="en"><!--<![endif]--><head>
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 <title>truTV Privacy Policy</title>
@@ -9,12 +9,21 @@
 <meta name="namecontroller" content="home">
 <meta name="action" content="following">
 <meta name="userid" content="-1">
- <link rel="stylesheet" href="/ui/styles/scss/global.css">
+ <!--[if lte IE 8]><link rel="stylesheet" href="/ui/styles/scss/global.css" /><![endif]-->
+<!--[if !lte IE 8]><!--><link rel="stylesheet" href="http://z.cdn.turner.com/trutv/trutv.com/ui/styles/scss/global.css?f733056"><!--<![endif]-->
+
 <!--[if lt IE 9]>
 <link rel="stylesheet" href="/ui/styles/scss/ie8.css" />
 <![endif]-->
-<link rel="stylesheet" href="/ui/styles/scss/about.css">
-<link rel="stylesheet" href="http://z.cdn.turner.com/trutv/trutv.com/img/css-img/png-icons/icons.data.svg.css?387bb8f"><script src="http://z.cdn.turner.com/trutv/trutv.com/ui/scripts/js/vendor/modernizr.min.js?cf69c6f"></script>
+
+<!--[if !lte IE 8]><!-->
+<link rel="stylesheet" href="http://z.cdn.turner.com/trutv/trutv.com/ui/styles/scss/about.css?d46a4c2">
+<!--<![endif]-->
+
+<!--[if lte IE 8]>
+<link rel="stylesheet" href="/ui/styles/scss/about.css" />
+<![endif]--><iframe src="javascript:false" style="width: 0px; height: 0px; border: 0px;"></iframe><link rel="stylesheet" href="http://z.cdn.turner.com/trutv/trutv.com/img/css-img/png-icons/icons.data.svg.css?387bb8f"><script type="text/javascript">var NREUMQ=NREUMQ||[];NREUMQ.push(["mark","firstbyte",new Date().getTime()]);</script>
+<script src="http://z.cdn.turner.com/trutv/trutv.com/ui/scripts/js/vendor/modernizr.min.js?cf69c6f"></script>
 <!-- isMobile Lib -->
 <script>
 (function(j){var e=/iPhone/i,f=/iPod/i,h=/iPad/i,b=/(?=.*\bAndroid\b)(?=.*\bMobile\b)/i,n=/Android/i,m=/BlackBerry/i,k=/Opera Mini/i,d=/IEMobile/i,a=/(?=.*\bFirefox\b)(?=.*\bMobile\b)/i,i=new RegExp("(?:Nexus 7|BNTV250|Kindle Fire|Silk|GT-P1000)","i");var g=function(o,p){return o.test(p)};var l=function(p){var o=p||navigator.userAgent;this.apple={phone:g(e,o),ipod:g(f,o),tablet:g(h,o),device:g(e,o)||g(f,o)||g(h,o)};this.android={phone:g(b,o),tablet:!g(b,o)&&g(n,o),device:g(b,o)||g(n,o)};this.other={blackberry:g(m,o),opera:g(k,o),windows:g(d,o),firefox:g(a,o),device:g(m,o)||g(k,o)||g(d,o)||g(a,o)};this.seven_inch=g(i,o);this.any=this.apple.device||this.android.device||this.other.device||this.seven_inch};var c=j.isMobile=new l();c.Class=l})(window);
@@ -24,25 +33,73 @@
 /* grunticon Stylesheet Loader | https://github.com/filamentgroup/grunticon | (c) 2012 Scott Jehl, Filament Group, Inc. | MIT license. */
 window.grunticon=function(e){if(e&&3===e.length){var t=window,n=!!t.document.createElementNS&&!!t.document.createElementNS("http://www.w3.org/2000/svg","svg").createSVGRect,A=function(A){var o=t.document.createElement("link"),r=t.document.getElementsByTagName("script")[0];o.rel="stylesheet",o.href=e[A&&n?0:A?1:2],r.parentNode.insertBefore(o,r)},o=new t.Image;o.onerror=function(){A(!1)},o.onload=function(){A(1===o.width&&1===o.height)},o.src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///ywAAAAAAQABAAACAUwAOw=="}};
 grunticon( [ "http://z.cdn.turner.com/trutv/trutv.com/img/css-img/png-icons/icons.data.svg.css?387bb8f", "http://z.cdn.turner.com/trutv/trutv.com/img/css-img/png-icons/icons.data.png.css?65a99aa", "http://z.cdn.turner.com/trutv/trutv.com/img/css-img/png-icons/icons.fallback.css?f108b46" ] );</script>
-<script>var TTV = TTV || {}; TTV.assetBase = 'http://z.cdn.turner.com/trutv/trutv.com/ui/scripts/js/';</script>
+<script>
+	var TTV = TTV || {};
+	TTV.assetBase = 'http://z.cdn.turner.com/trutv/trutv.com/ui/scripts/js/';
+	TTV.isTveProdEnv = true;
+    TTV.tomorrowishEnabled = true;
+</script>
+
+<!-- SOASTA mPulse (requires TTV object with TTV.page_group and TTV.ab_test variables set) -->
+<script>
+(function(){
+  var dom,doc,where,iframe = document.createElement('iframe');
+  iframe.src = "javascript:false";
+  (iframe.frameElement || iframe).style.cssText = "width: 0; height: 0; border: 0";
+  where = document.getElementsByTagName('script')[0];
+  where.parentNode.insertBefore(iframe, where);
+
+  try {
+    doc = iframe.contentWindow.document;
+  } catch(e) {
+    dom = document.domain;
+    iframe.src="javascript:var d=document.open();d.domain='"+dom+"';void(0);";
+    doc = iframe.contentWindow.document;
+  }
+  doc.open()._l = function() {
+    var js = this.createElement("script");
+    if(dom) this.domain = dom;
+    js.id = "boomr-if-as";
+    js.src = '//c.go-mpulse.net/boomerang/' +
+    '8BX5P-NREAY-QW5XN-M7YN3-DA8AJ';
+    BOOMR_lstart=new Date().getTime();
+    this.body.appendChild(js);
+  };
+  doc.write('<body onload="document._l();">');
+  doc.close();
+  })();
+</script>
+<!-- /SOASTA mPulse -->
+
+<script>
+window.TIMEABLE = (function() {
+    if ((typeof console === 'object') &&
+        (typeof console.time === 'function') &&
+        (typeof console.timeEnd === 'function')) {
+        return true;
+    } else {
+        return false;
+    }
+}());
+</script>
 <noscript><link href="http://z.cdn.turner.com/trutv/trutv.com/img/css-img/png-icons/icons.fallback.css?f108b46" rel="stylesheet"></noscript>
-<!--[if IE 8]><script src="http://z.cdn.turner.com/trutv/trutv.com/ui/scripts/js/vendor/respond.min.js?6a1cfc0"></script><![endif]-->
+<!--[if IE 8]><script src="/ui/scripts/js/vendor/respond.src.js"></script><![endif]-->
 </head>
 <body class="about about-privacy">
 <header id="ttvglobalheader" role="banner">
-	<h1 class="logo"><a href="/index.html"><span class="ns">truTV: Not Reality. Actuality.</span></a></h1>
+	<h1 class="logo"><a href="/index.html"><span class="ns">truTV</span></a></h1>
 	<div class="navbut"><span class="ns">Global Navigation</span></div>
 <div class="ttvmobilenav">
 	<nav class="navwrap" role="navigation">
 		<ul class="navlist">
 			<li class="ttvshows"><a href="/shows/index.html">TV Shows</a></li>
 			<li class="ttvsched"><a href="/schedule/index.html">Schedule</a></li>
-			<li class="ttv2go"><a href="/trutv2go/index.html">Full Episodes</a></li>
+			<li class="ttv2go"><a href="/full-episodes/index.html">Watch <span class="lc">tru</span>TV</a></li>
 		</ul>
 		<ul class="navlist">
 			<li class="ttvblogs"><a href="#">Blogs</a></li>
-			<li class="ttvblog-dumb indent"><a href="http://blog.trutv.com/dumb-as-a-blog/"><span>•</span> Dumb as a Blog</a></li>
-			<li class="ttvblog-conspiracy indent"><a href="http://blog.trutv.com/conspiracy/"><span>•</span> Conspiratorium</a></li>
+			<li class="ttvblog-dumb indent"><a href="http://blog.trutv.com/dumb-as-a-blog/"><span class="dot">•</span> Dumb as a Blog</a></li>
+			<li class="ttvblog-conspiracy indent"><a href="http://blog.trutv.com/conspiracy/"><span class="dot">•</span> Conspiratorium</a></li>
 		</ul>
 	</nav>
 </div>
@@ -58,64 +115,64 @@ grunticon( [ "http://z.cdn.turner.com/trutv/trutv.com/img/css-img/png-icons/icon
 		<nav class="navwrap" role="navigation">
 			<ul class="navlist">
 <li class="ttvshows ttvsection">
-	<h2 class="title"><a href="/shows/index.html" onclick="return true;">TV Shows</a></h2>
+	<h2 class="title spfont"><a href="/shows/index.html" onclick="return true;">TV Shows</a></h2>
 <!--	<div class="dropdown">
-		<h3 class="title">Hot on truTV</h3>
-		<ul class="items">
+		<h3 class="title spfont">Hot on truTV</h3>
+		<ul class="items spfont">
 			<li>
 				<a href="/shows/impractical-jokers/index.html">
-							<img src="/pictures/shows/impractical-jokers/creative/dropdown1.100p.jpg" alt="Image for show Impractical Jokers"/>
+							<img src="http://i.cdn.turner.com/trutv/trutv.com/images/shows/impractical-jokers/creative/dropdown1.jpg" alt="Impractical Jokers"/>
 
 					<span class="title">Impractical Jokers</span>
 				</a>
 			</li>
 			<li>
 				<a href="/shows/lizard-lick-towing/index.html">
-							<img src="/pictures/shows/lizard-lick-towing/creative/dropdown2.100p.jpg" alt="Image for show Lizard Lick Towing"/>
+							<img src="http://i.cdn.turner.com/trutv/trutv.com/images/shows/lizard-lick-towing/creative/dropdown2.jpg" alt="Lizard Lick Towing"/>
 
 					<span class="title">Lizard Lick Towing</span>
 				</a>
 			</li>
 			<li>
 				<a href="/shows/hardcore-pawn/index.html">
-							<img src="/pictures/shows/hardcore-pawn/creative/dropdown3.100p.jpg" alt="Image for show Hardcore Pawn"/>
+							<img src="http://i.cdn.turner.com/trutv/trutv.com/images/shows/hardcore-pawn/creative/dropdown3.jpg" alt="Hardcore Pawn"/>
 
 					<span class="title">Hardcore Pawn</span>
 				</a>
 			</li>
 			<li>
-				<a href="/shows/hardcore-pawn-chicago/index.html">
-							<img src="/pictures/shows/hardcore-pawn-chicago/creative/dropdown4.100p.jpg" alt="Image for show Hardcore Pawn: Chicago"/>
-
-					<span class="title">Hardcore Pawn: Chicago</span>
-				</a>
-			</li>
-			<li>
 				<a href="/shows/storage-hunters/index.html">
-							<img src="/pictures/shows/storage-hunters/creative/dropdown4.100p.jpg" alt="Image for show Storage Hunters"/>
+							<img src="http://i.cdn.turner.com/trutv/trutv.com/images/shows/storage-hunters/creative/dropdown4.jpg" alt="Storage Hunters"/>
 
 					<span class="title">Storage Hunters</span>
 				</a>
 			</li>
 			<li>
-				<a href="/shows/operation-repo/index.html">
-							<img src="/pictures/shows/operation-repo/creative/dropdown3.100p.jpg" alt="Image for show Operation Repo"/>
+				<a href="/shows/guinness-world-records-unleashed/index.html">
+							<img src="http://i.cdn.turner.com/trutv/trutv.com/images/shows/guinness-world-records-unleashed/creative/dropdown4.jpg" alt="Guinness World Records&amp;reg; Unleashed"/>
 
-					<span class="title">Operation Repo</span>
+					<span class="title">Guinness World Records<sup>&reg;</sup> Unleashed</span>
+				</a>
+			</li>
+			<li>
+				<a href="/shows/container-wars/index.html">
+							<img src="http://i.cdn.turner.com/trutv/trutv.com/images/shows/container-wars/creative/dropdown3.jpg" alt="Container Wars"/>
+
+					<span class="title">Container Wars</span>
 				</a>
 			</li>
 			<li>
 				<a href="/shows/south-beach-tow/index.html">
-							<img src="/pictures/shows/south-beach-tow/creative/dropdown2.100p.jpg" alt="Image for show South Beach Tow"/>
+							<img src="http://i.cdn.turner.com/trutv/trutv.com/images/shows/south-beach-tow/creative/dropdown2.jpg" alt="South Beach Tow"/>
 
 					<span class="title">South Beach Tow</span>
 				</a>
 			</li>
 			<li>
 				<a href="/shows/worlds-dumbest/index.html">
-							<img src="/pictures/shows/worlds-dumbest/creative/dropdown1.100p.jpg" alt="Image for show World&#039;s Dumbest"/>
+							<img src="http://i.cdn.turner.com/trutv/trutv.com/images/shows/worlds-dumbest/creative/dropdown1.jpg" alt="World&#039;s Dumbest"/>
 
-					<span class="title">World&#039;s Dumbest</span>
+					<span class="title">World's Dumbest</span>
 				</a>
 			</li>
 		</ul>
@@ -123,13 +180,13 @@ grunticon( [ "http://z.cdn.turner.com/trutv/trutv.com/img/css-img/png-icons/icon
 	</div> -->
 </li>
 <li class="ttvsched ttvsection">
-	<h2 class="title"><a href="/schedule/index.html">Schedule</a></h2>
+	<h2 class="title spfont"><a href="/schedule/index.html">Schedule</a></h2>
 <!--	<div class="dropdown">
-		<h3 class="title">Tonight on truTV</h3>
-		<ul class="items">
+		<h3 class="title spfont">Tonight on truTV</h3>
+		<ul class="items spfont">
 			<li>
 				<a href="/shows/hardcore-pawn/index.html" title="">
-							<img src="/pictures/shows/hardcore-pawn/creative/schedule1.100p.jpg" alt="Thumbnail for show Hardcore Pawn"/>
+							<img src="http://i.cdn.turner.com/trutv/trutv.com/pictures/shows/hardcore-pawn/creative/schedule1.100p.jpg" alt="Thumbnail for show Hardcore Pawn"/>
 
 				</a>
 				<p data-endtime="8:30 PM">
@@ -139,7 +196,7 @@ grunticon( [ "http://z.cdn.turner.com/trutv/trutv.com/img/css-img/png-icons/icon
 						</span>
 					</strong>
 					<br />
-					Gold Day in Hell
+					Cash Money Moron
 				</p>
 				<p data-endtime="9:00 PM">
 					<strong>8:30P
@@ -148,79 +205,79 @@ grunticon( [ "http://z.cdn.turner.com/trutv/trutv.com/img/css-img/png-icons/icon
 						</span>
 					</strong>
 					<br />
-					Face Off
+					Episode 724
 				</p>
 			</li>
 			<li>
-				<a href="/shows/storage-hunters/index.html" title="">
-							<img src="/pictures/shows/storage-hunters/creative/schedule2.100p.jpg" alt="Thumbnail for show Storage Hunters"/>
+				<a href="/shows/hardcore-pawn/index.html" title="">
+							<img src="http://i.cdn.turner.com/trutv/trutv.com/pictures/shows/hardcore-pawn/creative/schedule2.100p.jpg" alt="Thumbnail for show Hardcore Pawn"/>
 
 				</a>
 				<p data-endtime="9:30 PM">
 					<strong>9P
 						<span class="title">
-							<a href="/shows/storage-hunters/index.html">Storage Hunters</a>
+							<a href="/shows/hardcore-pawn/index.html">Hardcore Pawn</a>
 						</span>
 					</strong>
 					<br />
-					Burried Alive
+					Episode 725
 				</p>
 				<p data-endtime="10:00 PM">
 					<strong>9:30P
 						<span class="title">
-							<a href="/shows/storage-hunters/index.html">Storage Hunters</a>
+							<a href="/shows/hardcore-pawn/index.html">Hardcore Pawn</a>
 						</span>
 					</strong>
 					<br />
-					Episode 305
+					Les Hunts a Thief
 				</p>
 			</li>
 			<li>
-				<a href="/shows/storage-hunters/index.html" title="">
-							<img src="/pictures/shows/storage-hunters/creative/schedule3.100p.jpg" alt="Thumbnail for show Storage Hunters"/>
+				<a href="/shows/hardcore-pawn/index.html" title="">
+							<img src="http://i.cdn.turner.com/trutv/trutv.com/pictures/shows/hardcore-pawn/creative/schedule3.100p.jpg" alt="Thumbnail for show Hardcore Pawn"/>
 
 				</a>
-				<p data-endtime="10:31 PM">
+				<p data-endtime="10:30 PM">
 					<strong>10P
 						<span class="title">
-							<a href="/shows/storage-hunters/index.html">Storage Hunters</a>
+							<a href="/shows/hardcore-pawn/index.html">Hardcore Pawn</a>
 						</span>
 					</strong>
 					<br />
-					Episode 303
+					Total Meltdown
 				</p>
 				<p data-endtime="11:01 PM">
-					<strong>10:31P
+					<strong>10:30P
 						<span class="title">
-							<a href="/shows/storage-hunters/index.html">Storage Hunters</a>
+							<a href="/shows/hardcore-pawn/index.html">Hardcore Pawn</a>
 						</span>
 					</strong>
 					<br />
-					Stormy Waters
+					Fire Bomb
 				</p>
 			</li>
 			<li>
-				<a href="/shows/storage-hunters/index.html" title="">
-							<img src="/pictures/shows/storage-hunters/creative/schedule4.100p.jpg" alt="Thumbnail for show Storage Hunters"/>
+				<a href="/shows/hardcore-pawn/index.html" title="">
+							<img src="http://i.cdn.turner.com/trutv/trutv.com/pictures/shows/hardcore-pawn/creative/schedule4.100p.jpg" alt="Thumbnail for show Hardcore Pawn"/>
 
 				</a>
 				<p data-endtime="11:31 PM">
 					<strong>11:01P
 						<span class="title">
-							<a href="/shows/storage-hunters/index.html">Storage Hunters</a>
+							<a href="/shows/hardcore-pawn/index.html">Hardcore Pawn</a>
 						</span>
 					</strong>
 					<br />
-					Fuel to the Fire
+					Skulls &amp; Scoundrels
 				</p>
 				<p data-endtime="12:02 AM">
 					<strong>11:31P
 						<span class="title">
-							<a href="/shows/storage-hunters/index.html">Storage Hunters</a>
+							<a href="/shows/hardcore-pawn/index.html">Hardcore Pawn</a>
 						</span>
 					</strong>
 					<br />
-					Buyer Beware
+					Episode 303B
 				</p>
 			</li>
 		</ul>
@@ -228,43 +285,43 @@ grunticon( [ "http://z.cdn.turner.com/trutv/trutv.com/img/css-img/png-icons/icon
 	</div> -->
 </li>
 <li class="ttvblogs ttvsection">
-	<h2 class="title"><a href="#">Blogs</a></h2>
+	<h2 class="title spfont"><a href="#">Blogs</a></h2>
 <!--	<div class="dropdown">
 		<div class="blog">
-			<h3 class="title"><a href="http://blog.trutv.com/dumb-as-a-blog/">Dumb as a Blog</a></h3>
-			<ul class="items">
+			<h3 class="title spfont"><a href="http://blog.trutv.com/dumb-as-a-blog/">Dumb as a Blog</a></h3>
+			<ul class="items spfont">
 				<li>
-					<a href="http://www.trutv.com/dumb_as_a_blog/gallery/70s-80s-kids-dumb.html">
-								<img src="/pictures/blogs/70s-80s-kids-267.100p.jpg" alt=""/>
+					<a href="http://www.trutv.com/dumb_as_a_blog/gallery/dumb-halloween-costumes.html">
+								<img src="http://i.cdn.turner.com/trutv/trutv.com/pictures/blogs/halloween-267.100p.jpg" alt=""/>
 
-						<span class="info">Dumb Things Kids Did In The 70s &amp; 80s</span>
+						<span class="info">Bad Halloween Costumes For 2013</span>
 					</a>
 				</li>
 				<li>
-					<a href="http://www.trutv.com/dumb_as_a_blog/gallery/cool-art-installations.html">
-								<img src="/pictures/blogs/dumbest-art-267.100p.jpg" alt=""/>
+					<a href="http://www.trutv.com/dumb_as_a_blog/gallery/dumbest-rap-lyrics.html">
+								<img src="http://i.cdn.turner.com/trutv/trutv.com/pictures/blogs/rap-lyrics-267.100p.jpg" alt=""/>
 
-						<span class="info">The Weirdest Art Installations Ever</span>
+						<span class="info">Worst Rap Lyrics Ever</span>
 					</a>
 				</li>
 			</ul>
 			<div class="viewbut"><a href="http://blog.trutv.com/dumb-as-a-blog/"><span class="arrow ns">&gt;</span><strong class="link">View More</strong></a></div>
 		</div>
 		<div class="blog">
-			<h3 class="title"><a href="http://blog.trutv.com/conspiracy/">Conspiratorium</a></h3>
-			<ul class="items">
+			<h3 class="title spfont"><a href="http://blog.trutv.com/conspiracy/">Conspiratorium</a></h3>
+			<ul class="items spfont">
 				<li>
-					<a href="http://www.trutv.com/conspiracy/photos/biggest-scams-history-ponzi-schemes-madoff-419-nigeria/photos.html">
-								<img src="/pictures/blogs/enron-267.100p.jpg" alt=""/>
+					<a href="http://www.trutv.com/conspiracy/paranormal/halloween-legends-myths-razor-blades-poison-celtic-pagan/photos.html">
+								<img src="http://i.cdn.turner.com/trutv/trutv.com/pictures/blogs/beyond-area-51-267.100p.jpg" alt=""/>
 
-						<span class="info">The Biggest Scams Ever</span>
+						<span class="info">Halloween Myths</span>
 					</a>
 				</li>
 				<li>
-					<a href="http://www.trutv.com/conspiracy/paranormal/suppressed-inventions-cancer-cure-mind-control-invisibility/photos.html">
-								<img src="/pictures/blogs/inventions-267.100p.jpg" alt=""/>
+					<a href="http://www.trutv.com/conspiracy/photos/powerful-places-on-earth-caymans-london-monaco-vatican/photos.html">
+								<img src="http://i.cdn.turner.com/trutv/trutv.com/pictures/blogs/powerful-267.100p.jpg" alt=""/>
 
-						<span class="info">Suppressed Inventions</span>
+						<span class="info">The World&#039;s Most Powerful Places</span>
 					</a>
 				</li>
 			</ul>
@@ -273,123 +330,85 @@ grunticon( [ "http://z.cdn.turner.com/trutv/trutv.com/img/css-img/png-icons/icon
 	</div> -->
 </li>
 <li class="ttv2go ttvsection">
-	<h2 class="title"><a href="/trutv2go/index.html">Full Episodes</a></h2>
+	<h2 class="title spfont"><a href="/full-episodes/index.html">Watch <span class="lc">tru</span>TV</a></h2>
 <!--	<div class="dropdown">
-		<h3 class="title">Latest Episodes</h3>
-		<ul class="items">
-			<li class="video-item episode">
-				<a class="video-play episode-play" href="/trutv2go/index.html#!/49784/2003380/link=[referrer]" data-app-link="trutv2go://49784/2003380?source=[referrer];campaign=tve">
-					<span class="img">
-										<img src="http://i.cdn.turner.com/v5cache/TRUTV/Images/i85/TRUE1006251300005990_013_640x360.jpg" alt=""/>
-	
-						<span class="play"></span>
-					</span>
-					<span class="info">
-						<span class="title">World's Dumbest</span>
-						
-					</span>
+		<div class="live spfont">
+			<h3 class="title">Live on truTV</h3>
+			<div class="img">
+				<a href="/live/index.html">
+					<span class="graphic">		<img src="http://i.cdn.turner.com/trutv/trutv.com/pictures/general/watch-live.100p.jpg" alt="Live"/>
+</span>
+					<span class="login ns">Login to Watch Live</span>
 				</a>
-			</li>
-			<li class="video-item episode">
-				<a class="video-play episode-play" href="/trutv2go/index.html#!/340647/2002335/link=[referrer]" data-app-link="trutv2go://340647/2002335?source=[referrer];campaign=tve">
-					<span class="img">
-										<img src="http://i.cdn.turner.com/v5cache/TRUTV/Images/i85/TRUE1005211300005935_013_640x360.jpg" alt=""/>
+			</div>
+			<span class="stitle"><a href="/live/index.html">Watch <span class="lc">tru</span>TV Live</a></span>
+			<p>Choose between the East and West feeds and get the best of truTV LIVE RIGHT NOW</p>
+		</div>
+		<div class="latest">
+			<h3 class="title spfont">Latest Full Episodes</h3>
+			<ul class="items spfont">
+				<li class="video-item episode">
+					<a class="video-play episode-play" href="/full-episodes/top20-funniest/2011535/index.html" data-app-link="trutv2go://340647/2011535?source=[referrer];campaign=tve">
+						<span class="img">
+											<img src="http://i.cdn.turner.com/v5cache/TRUTV/Images/i90/TRUE1010021300006124_026_640x360.jpg" alt=""/>
 	
-						<span class="play"></span>
-					</span>
-					<span class="info">
-						<span class="title">Top 20 Funniest</span>
-						
-					</span>
-				</a>
-			</li>
-			<li class="video-item episode">
-				<a class="video-play episode-play" href="/trutv2go/index.html#!/181782/2002461/link=[referrer]" data-app-link="trutv2go://181782/2002461?source=[referrer];campaign=tve">
-					<span class="img">
-										<img src="http://i.cdn.turner.com/v5cache/TRUTV/Images/i85/TRUE1005211300005928_009_640x360.jpg" alt=""/>
+							<span class="play"></span>
+						</span>
+						<span class="info">
+							<span class="title">Top 20 Funniest</span>
+							Mistakes &amp; Mishaps
+						</span>
+					</a>
+				</li>
+				<li class="video-item episode">
+					<a class="video-play episode-play" href="/full-episodes/impractical-jokers/2005903/index.html" data-app-link="trutv2go://259634/2005903?source=[referrer];campaign=tve">
+						<span class="img">
+											<img src="http://i.cdn.turner.com/v5cache/TRUTV/Images/i90/TRUE1009301300006073_010_640x360.jpg" alt=""/>
 	
-						<span class="play"></span>
-					</span>
-					<span class="info">
-						<span class="title">South Beach Tow</span>
-						
-					</span>
-				</a>
-			</li>
-			<li class="video-item episode">
-				<a class="video-play episode-play" href="/trutv2go/index.html#!/329432/2004468/link=[referrer]" data-app-link="trutv2go://329432/2004468?source=[referrer];campaign=tve">
-					<span class="img">
-										<img src="http://i.cdn.turner.com/v5cache/TRUTV/Images/i85/TRUE1006251300005988_009_640x360.jpg" alt=""/>
+							<span class="play"></span>
+						</span>
+						<span class="info">
+							<span class="title">Impractical Jokers</span>
+							Enter the Dragons
+						</span>
+					</a>
+				</li>
+				<li class="video-item episode">
+					<a class="video-play episode-play" href="/full-episodes/impractical-jokers/2011829/index.html" data-app-link="trutv2go://259634/2011829?source=[referrer];campaign=tve">
+						<span class="img">
+											<img src="http://i.cdn.turner.com/v5cache/TRUTV/Images/i90/TRUE1009301300006071_015_640x360.jpg" alt=""/>
 	
-						<span class="play"></span>
-					</span>
-					<span class="info">
-						<span class="title">Hardcore Pawn: Chicago</span>
-						
-					</span>
-				</a>
-			</li>
-			<li class="video-item episode">
-				<a class="video-play episode-play" href="/trutv2go/index.html#!/57608/982053/link=[referrer]" data-app-link="trutv2go://57608/982053?source=[referrer];campaign=tve">
-					<span class="img">
-										<img src="http://i.cdn.turner.com/v5cache/TRUTV/Images/i85/TRUE1005211300005926_009_640x360.jpg" alt=""/>
+							<span class="play"></span>
+						</span>
+						<span class="info">
+							<span class="title">Impractical Jokers</span>
+							Impractical Jokers 210B
+						</span>
+					</a>
+				</li>
+				<li class="video-item episode">
+					<a class="video-play episode-play" href="/full-episodes/south-beach-tow/2002457/index.html" data-app-link="trutv2go://181782/2002457?source=[referrer];campaign=tve">
+						<span class="img">
+											<img src="http://i.cdn.turner.com/v5cache/TRUTV/Images/i90/TRUE1009301300006095_015_640x360.jpg" alt=""/>
 	
-						<span class="play"></span>
-					</span>
-					<span class="info">
-						<span class="title">Hardcore Pawn</span>
-						
-					</span>
-				</a>
-			</li>
-			<li class="video-item episode">
-				<a class="video-play episode-play" href="/trutv2go/index.html#!/181782/2002459/link=[referrer]" data-app-link="trutv2go://181782/2002459?source=[referrer];campaign=tve">
-					<span class="img">
-										<img src="http://i.cdn.turner.com/v5cache/TRUTV/Images/i85/TRUE1006241300005989_009_640x360.jpg" alt=""/>
-	
-						<span class="play"></span>
-					</span>
-					<span class="info">
-						<span class="title">South Beach Tow</span>
-						
-					</span>
-				</a>
-			</li>
-			<li class="video-item episode">
-				<a class="video-play episode-play" href="/trutv2go/index.html#!/240320/2003395/link=[referrer]" data-app-link="trutv2go://240320/2003395?source=[referrer];campaign=tve">
-					<span class="img">
-										<img src="http://i.cdn.turner.com/v5cache/TRUTV/Images/i85/TRUE1006211300006011_009_640x360.jpg" alt=""/>
-	
-						<span class="play"></span>
-					</span>
-					<span class="info">
-						<span class="title">Storage Hunters</span>
-						
-					</span>
-				</a>
-			</li>
-			<li class="video-item episode">
-				<a class="video-play episode-play" href="/trutv2go/index.html#!/135685/870324/link=[referrer]" data-app-link="trutv2go://135685/870324?source=[referrer];campaign=tve">
-					<span class="img">
-										<img src="http://i.cdn.turner.com/v5cache/TRUTV/Images/i85/TRUE1006211300006008_009_640x360.jpg" alt=""/>
-	
-						<span class="play"></span>
-					</span>
-					<span class="info">
-						<span class="title">Lizard Lick Towing</span>
-						
-					</span>
-				</a>
-			</li>
-		</ul>
-		<div class="viewbut"><a href="/trutv2go/index.html"><span class="arrow ns">&gt;</span><strong class="link">View All Episodes</strong></a></div>
+							<span class="play"></span>
+						</span>
+						<span class="info">
+							<span class="title">South Beach Tow</span>
+							Wide Load
+						</span>
+					</a>
+				</li>
+			</ul>
+			<div class="viewbut"><a href="/full-episodes/index.html"><span class="arrow ns">&gt;</span><strong class="link">View All Episodes</strong></a></div>
+		</div>
 	</div> -->
 </li>
 			</ul>
 		</nav>
 	</div>
 	<div class="links">
-		<div class="fll">
+		<div class="spfont fll">
 			<div class="social">
 				<h2 class="title">Follow <span class="notransform">truTV</span></h2>
 				<ul class="buttons">
@@ -404,6 +423,13 @@ grunticon( [ "http://z.cdn.turner.com/trutv/trutv.com/img/css-img/png-icons/icon
 	<ul>
 							
 						
+			
+						
+			<li><a href="/apps/index.html">Apps</a></li>
+
+								
+						
+				                        <li>|</li>
 			
 						
 			<li><a href="/games/index.html">Games</a></li>
@@ -434,7 +460,6 @@ grunticon( [ "http://z.cdn.turner.com/trutv/trutv.com/img/css-img/png-icons/icon
 </header>
 <div class="loader"></div>
 <section id="ttvmaincontent" role="main">
-<!-- <span class="hint--bottom" data-hint="Thank you!">hover me.</span> -->
 <div class="wrapper nonav">
 	<div class="content">
 <a name="priv"></a><a name="privacy"></a>
@@ -673,9 +698,9 @@ grunticon( [ "http://z.cdn.turner.com/trutv/trutv.com/img/css-img/png-icons/icon
     </div>
 </div><script src="http://z.cdn.turner.com/trutv/trutv.com/ui/scripts/js/vendor/require.js?8ac627d"></script>
 <script>
-	require(['http://z.cdn.turner.com/trutv/trutv.com/ui/scripts/js/common.js?6af7030'], function (common) {
-		require(['http://z.cdn.turner.com/trutv/trutv.com/ui/scripts/js/main-adchoices.js?118d6ec']);
-	});
+require(['http://z.cdn.turner.com/trutv/trutv.com/ui/scripts/js/common.js?6f85d67'], function (common) {
+	require(['http://z.cdn.turner.com/trutv/trutv.com/ui/scripts/js/main-adchoices.js?118d6ec']);
+});
 </script>
 <script>
 var hash = window.location.hash;
@@ -693,11 +718,12 @@ if (hash) {
 
 		baseurl:"http://www.trutv.com/copyright",		content_type:"",		cleanurl:"http://www.trutv.com/copyright/index.html",		domain:"trutv.com",		franchise:"",		fullurl:"http://www.trutv.com/copyright/index.html",		hier_level1:"http://www.trutv.com/copyright",		hier_level2:"http://www.trutv.com",		pagename:"tru:m:/copyright/",		section:"copyright",		subsection:"copyright",		template_type:"misc"	};
 </script>
-<script type="text/javascript" src="http://z.cdn.turner.com/trutv/trutv.com/ui/scripts/js/jsmd.js?520f7cc"></script>
+<script type="text/javascript" src="http://z.cdn.turner.com/trutv/trutv.com/ui/scripts/js/jsmd.js?cec5d6d"></script>
 <script type="text/javascript">
 var jsmd=_jsmd.init();
 jsmd.send();
 </script>
+<script type="text/javascript">if(!NREUMQ.f){NREUMQ.f=function(){NREUMQ.push(["load",new Date().getTime()]);var e=document.createElement("script");e.type="text/javascript";e.src=(("http:"===document.location.protocol)?"http:":"https:")+"//"+"js-agent.newrelic.com/nr-100.js";document.body.appendChild(e);if(NREUMQ.a)NREUMQ.a();};NREUMQ.a=window.onload;window.onload=NREUMQ.f;};NREUMQ.push(["nrfj","beacon-1.newrelic.com","81c4b3e977","1835664","MlFSZkQHXERYVUAICgsbZUBfSVFYSU9GCAINQB8YGA5GWlU=",0,719,new Date().getTime(),"","","","",""]);</script>
 
 
-</body></html>
+<script type="text/javascript" src="https://js-agent.newrelic.com/nr-100.js"></script></body></html>
