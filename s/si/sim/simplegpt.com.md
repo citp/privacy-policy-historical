@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the simplegpt.com privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603021356id_/http%3A//simplegpt.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simplegpt.com privacy policy that was archived on 2013-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131029023405id_/http%3A//www.simplegpt.com/privacy.php) for the most accurate reproduction.*
 
 # SimpleGPT - Privacy Policy
 
