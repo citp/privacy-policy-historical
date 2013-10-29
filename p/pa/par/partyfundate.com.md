@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the partyfundate.com privacy policy that was archived on 2012-01-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120108205530id_/http%3A//partyfundate.com/privacy.html%3Fid%3Dpartyfundate%26prg%3D1%26tour%3D1%26g%3D1%26pg%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the partyfundate.com privacy policy that was archived on 2013-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131029212940id_/http%3A//partyfundate.com/privacy.html%3Fid%3Dpartyfundate%26prg%3D1%26tour%3D1%26pg%3D1) for the most accurate reproduction.*
 
 # Partyfundate.com - World's Best Personals
 
@@ -58,7 +58,7 @@ If at any point we decide to use particular personally identifiable information 
 
 We give you the opportunity to opt-out of certain communications and modify personal information or demographic information you have provided to us, and to hide demographic information from, or make demographic information visible to, the public users of the Service, at anytime by going to the "Account Settings" in your Partyfundate.com profile of the Service. Please be aware that it may take several hours for the changes you make to take effect on the public areas of the Service. We thank you for your patience. Please note that changing or deleting your information in the "Account Settings" section of the Service, or otherwise opting-out of receipt of email communications from Partyfundate.com, will only change or delete the data in our database for purposes of future activities on the Service and for managing future communications from Partyfundate.com. These changes and deletions will not change or delete emails or information that we may have already forwarded to other users or credit card companies or any other third parties, all as provided above in this privacy policy.
 
-If you have any questions or concerns about this privacy policy, the practices of the Service, or your dealings with the Service, you can contact us at [support@gpnethelp.com](mailto:support@gpnethelp.com). You can also send us mail to: Privacy Officer,  Incorporated, 705 Washington Ave 2nd Floor Miami Beach, FL. 33139.  
+If you have any questions or concerns about this privacy policy, the practices of the Service, or your dealings with the Service, you can contact us at [support@gpnethelp.com](mailto:support@gpnethelp.com). You can also send us mail to: Privacy Officer,  Incorporated, 705 Washington Ave 2nd Floor, Miami Beach, FL. 33139.  
   
    
   |  
