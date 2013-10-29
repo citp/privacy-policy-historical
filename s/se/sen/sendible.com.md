@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sendible.com privacy policy that was archived on 2013-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130620163647id_/http%3A//sendible.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sendible.com privacy policy that was archived on 2013-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131029171510id_/http%3A//sendible.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Sendible
 
@@ -50,6 +50,6 @@ We make no guarantee that the information that you provide to us will be secure.
 
 **Questions**
 
-Any questions about this Privacy Policy should be addressed to support@sendible.com or by mail at: Sendible Ltd., 501, 100 Kingsway, London, England N12 0EQ   
+Any questions about this Privacy Policy should be addressed to support@sendible.com or by mail at: Sendible Ltd., 7th Floor, Northway House, London, England N20 9LP   
   
 ---|---
