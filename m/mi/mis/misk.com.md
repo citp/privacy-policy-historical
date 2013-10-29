@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the misk.com privacy policy that was archived on 2013-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130507115035id_/https%3A//www.misk.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the misk.com privacy policy that was archived on 2013-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131029223517id_/https%3A//www.misk.com/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Misk.com
 
-This Privacy Policy governs the ways in which Nitin Corporation d/b/a Misk.com (Misk, we or our) collects, uses, maintains and discloses information collected from our customers, visitors to our websites, and visitors to our customer’s websites (Customers, you, or your). 
+This Privacy Policy governs the ways in which Misk.com, Inc. (Misk, we or our) collects, uses, maintains and discloses information collected from our customers, visitors to our websites, and visitors to our customer’s websites (Customers, you, or your). 
 
 In the course of providing services to Customers or visitors to our website, we collect information.  Everyone has a different definition of what information they consider to be private.  The purpose of our Privacy Policy is to discuss how we handle the majority of information we collect, or which comes into our possession.  Simply because information is discussed in this policy does not mean it is necessarily considered by us to be private.  Our Privacy Policy supplements, but does not replace our [Terms of Service](https://web.archive.org/legal/terms "Terms of Service") and [Acceptable Use Policy](https://web.archive.org/legal/aup "Acceptable Use Policy").  Those policies should be read in conjunction with this policy.  If at any time, you would like to know how specific information is handled, please e-mail us at:  [privacy@misk.com](mailto:privacy@misk.com?subject=Privacy%20Policy "privacy@misk.com"). 
 
