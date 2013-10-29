@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pressreleaseping.com privacy policy that was archived on 2013-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130615091036id_/http%3A//www.pressreleaseping.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pressreleaseping.com privacy policy that was archived on 2013-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131029214549id_/http%3A//pressreleaseping.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | PressReleasePing
 
