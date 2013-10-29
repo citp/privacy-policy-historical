@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ticketweb.com privacy policy that was archived on 2013-01-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130116135129id_/http%3A//i.ticketweb.com/about/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ticketweb.com privacy policy that was archived on 2013-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131029210730id_/http%3A//i.ticketweb.com/about/privacypolicy.html) for the most accurate reproduction.*
 
 # TicketWeb - Privacy Policy
 
