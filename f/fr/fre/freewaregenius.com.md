@@ -1,11 +1,10 @@
-> *The following text is extracted and transformed from the freewaregenius.com privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501104819id_/http%3A//www.freewaregenius.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freewaregenius.com privacy policy that was archived on 2013-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131029180458id_/http%3A//www.freewaregenius.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - freewaregenius.com
 
 This is our privacy policy for Freewaregenius.com
 
-We are not lawyers, and if there is any question regarding this or information that needs to be added, please let us know. Thanks  
-
+We are not lawyers, and if there is any question regarding this or information that needs to be added, please let us know. Thanks
 
   1. We at Freewaregenius do not collect any personal information from our visitors.
   2. We use ‘Google Analytics’, a free software that collects such visitor information as your geographic location, what site you came from that may have linked to us, what the search term you used to get to our site if any, the page you first visited and the page you left from, how long you stayed on the site, what browser you were using.
