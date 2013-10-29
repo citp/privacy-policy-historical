@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the pinellascounty.org privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502074700id_/http%3A//www.pinellascounty.org/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pinellascounty.org privacy policy that was archived on 2013-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131029215619id_/http%3A//www.pinellascounty.org/privacy.htm) for the most accurate reproduction.*
 
 # Pinellas County, Florida Privacy and Security Notice
 
 **[SB 80](http://www.flsenate.gov/data/session/2006/Senate/bills/billtext/pdf/s0080c1.pdf)\- **  
-E-mail addresses are public records under Florida law and are not exempt from public-records requirements. If you do not want your e-mail address to be subject to being released pursuant to a public-records request, do not send electronic mail to this entity. Instead, contact this office by telephone or in writing, via the United States Postal Service. [view phone directory](https://web.archive.org/web/20130502074700id_/http%3A//www.pinellascounty.org/contactus_locate.htm)
+E-mail addresses are public records under Florida law and are not exempt from public-records requirements. If you do not want your e-mail address to be subject to being released pursuant to a public-records request, do not send electronic mail to this entity. Instead, contact this office by telephone or in writing, via the United States Postal Service. [view phone and address directory](https://web.archive.org/web/20131029215619id_/http%3A//www.pinellascounty.org/contactus_locate.htm)
 
 * * *
 
-Thank you for visiting the Pinellas County website and reviewing our privacy policy. We will collect no personal information about you when you visit our website unless you choose to provide that information to us.
+Thank you for visiting the Pinellas County website and reviewing our privacy and security policy. We will collect no personal information about you when you visit our website unless you choose to provide that information to us.
 
 Here is how we handle information about your visit to our website:
 
@@ -34,7 +34,7 @@ As a general rule, the County does not disclose any personally identifiable info
 You may decline participation in any activity that asks for information (i.e., surveys or emails). Your choice to not participate will have no effect on your ability to access information on the County's web sites. 
 
 **Cookies**  
-To better serve you, we occasionally use "cookies" to customize your browsing experience. Cookies are simple text files stored by your web browser and they provide a method of distinguishing among visitors to the web sites. Cookies created on your computer by using our web sites do not contain personally identifiable information and do not compromise your privacy or security. We use the cookie feature to store a randomly generated identifying tag on your computer. If you have further questions about cookies, the Computer Incident Advisory Capacity Unit that monitors computer problems for the U.S. Department of Energy issued a study on March 12, 1998, of the risks to users of cookies, titled "[Information Bulletin 1-034: Internet Cookies](http://ciac.llnl.gov/ciac/bulletins/i-034.shtml)". You can refuse the cookie or delete the cookie file from your computer at any time by using any one of a number of widely available methods.  Your choice to refuse the cookie will not inhibit your access to any of the information available on the County web site.  Your acceptance of the cookie will serve to provide you with additional functionality in choosing the information you wish to view on a regular basis.
+To better serve you, we occasionally use "cookies" to customize your browsing experience. Cookies are simple text files stored by your web browser and they provide a method of distinguishing among visitors to the web sites. Cookies created on your computer by using our web sites do not contain personally identifiable information and do not compromise your privacy or security. We use the cookie feature to store a randomly generated identifying tag on your computer.  Your acceptance of the cookie will serve to provide you with additional functionality in choosing the information you wish to view on a regular basis.
 
 **Passwords**    
 In certain instances, you will have the opportunity to receive or create a password to access or submit personal information. You should not divulge your password to anyone and the County will never ask you for your password in an unsolicited phone call or e-mail. When you are finished with those applications that are password protected, you should exit the page. 
@@ -48,5 +48,7 @@ Unauthorized attempts to upload information or change information on this servic
 
 **Links to other web sites**  
 The website has links to many other governmental agencies. In some cases we link to private organizations. Once you link to another site, you are subject to the privacy policy of the new site.
+
+Also Reference [Liability Disclaimer and User Agreement](https://web.archive.org/web/20131029215619id_/http%3A//www.pinellascounty.org/disclaimer.htm)
 
 return to top
