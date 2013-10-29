@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the grubstreet.ca privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501070549id_/http%3A//www.grubstreet.ca/articles/index/1101/grub-street-admin-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the grubstreet.ca privacy policy that was archived on 2013-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131029041702id_/http%3A//www.grubstreet.ca/articles/index/1101/grub-street-admin-privacy) for the most accurate reproduction.*
 
-# Grub Street | Grub Street Admin
+# Grubstreet.ca | Grub Street Admin
 
 GrubStreet.ca and the web sites it owns value your privacy.
 
@@ -25,6 +25,3 @@ GrubStreet.ca isn't responsible for the privacy practices of other sites. We enc
 GrubStreet.ca doesn't sell any information about its visitors or writers, under any circumstances or to anyone, ever. Any information a visitor wishes to share with GrubStreet.ca remains private. An exception to this may be comments for use in promoting GrubStreet.ca; in such cases we'll ask before acting.
 
 GrubStreet.ca retains and reserves the right to modify this privacy page from time to time, without notice and at its sole discretion. Any and all modifications take effect when posted, unless otherwise expressly stated.
-
-  
-
