@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the mycollege.in privacy policy that was archived on 2013-04-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130425005312id_/http%3A//mycollege.in/privacy-policy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the mycollege.in privacy policy that was archived on 2013-10-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131029215037id_/http%3A//mycollege.in/privacy-policy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://apis.google.com/js/plusone.js"></script>
@@ -276,13 +276,11 @@ google_ad_height = 280;
 <td align="center" class="font3"> User Comments </td></tr>
 <tr><td width="32"></td>
 <td align="center" class="row2"> 
-
-
-<form name="xx" action="addcomment.php" method="post" onsubmit="return checkMailId(document.xx.email.value);">
-<textarea name="com" rows="3" cols="60"></textarea><br>
-Name : <input type="text" name="nam"> &nbsp; &nbsp;
-Email : <input type="text" name="email" size="25">
-<input type="hidden" value="%2Fprivacy-policy.php" name="url">
+<form name="xx" action="http://mycollege.in/addcomment.php" method="post" onsubmit="return validateForm1();">
+<textarea name="com" id="address" rows="3" cols="60"></textarea><br>
+Name : <input type="text" name="nam" id="name"> &nbsp; &nbsp;
+Email : <input type="text" name="email" id="email" size="25">
+<input type="hidden" value="/privacy-policy.php" name="url">
 <input type="submit" value="add">
 </form>
 
@@ -294,9 +292,6 @@ Note: Please note that we, "mycollege.in", have no affiliation with any of the l
 
 </td></tr></tbody></table>
 <!-- main center-->
-</td></tr></tbody></table>
-
-<!--<div style="width:1017px; height:auto; border:1px solid #F00;">-->
 <table style="background:url(http://mycollege.in/images/footer.jpg) no-repeat; width:1000px; height:120px;" border="0" cellspacing="0" cellpadding="0">
 <tbody><tr>
 <td style="height:20px;width:800px;padding-top:10px;">
@@ -319,5 +314,37 @@ color:#333333;">by HIOX INDIA</span></div></td><td style="width:200px;padding-ri
 </tbody></table>
 
 
-
-</body></html>
+<script type="text/javascript">
+function validateEmail1()
+{
+		var email=$('#email').val();
+		var emailRegex = new RegExp(/^([\w\.\-]+)@([\w\-]+)((\.(\w){2,3})+)$/i);
+		var valid = emailRegex.test(email);
+		if (valid==false) {
+		    $("#email").val("");
+		    alert('Invalid Email-ID');
+		    return false;
+		 }else{return true;}
+}
+function validateEmpty1(i) {
+var cname=$('#name').val();
+var caddress=$('#address').val();
+		if(cname=="" || caddress==""){
+		alert("Fields sholud not be Empty!");
+		return false;
+		}
+		else {return true;}
+}
+function validateForm1()
+{
+	if((validateEmpty1()==true) && (validateEmail1()==true))
+	{
+		return true;
+	}
+	else
+	{
+		return false;
+	}
+}
+</script>
+</td></tr></tbody></table></body></html>
