@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rubybingo.com privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530090806id_/http%3A//www.rubybingo.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rubybingo.com privacy policy that was archived on 2013-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131029195632id_/http%3A//www.rubybingo.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy - Protection of Player Information
 
