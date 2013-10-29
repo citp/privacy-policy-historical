@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mydomain.com privacy policy that was archived on 2013-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130423151439id_/http%3A//www.mydomain.com/legal/legal_privacy.bml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mydomain.com privacy policy that was archived on 2013-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131029223156id_/http%3A//www.mydomain.com/legal/legal_privacy.bml) for the most accurate reproduction.*
 
 # MyDomain's Privacy Policy
 
@@ -80,4 +80,4 @@ Please note: MyDomain reserves the right to send you email communications that r
 
 
 
-This file was last modified December 10, 2012. 
+This file was last modified June 21, 2013. 
