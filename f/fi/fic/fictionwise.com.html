@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the fictionwise.com privacy policy that was archived on 2013-04-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130405123004id_/http%3A//www.fictionwise.com/privacy.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the fictionwise.com privacy policy that was archived on 2013-10-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131029231745id_/http%3A//www.fictionwise.com/privacy.htm) for the most accurate reproduction.-->
 
 <html><head>
 	<title>Fictionwise eBooks: Free eBooks, eBooks for your iPhone, BlackBerry, Android device, Symbian Mobile Phone, Windows Mobile Smartphone, Palm handheld, PC, Mac and more!</title>
@@ -24,7 +24,7 @@ pic1.src="http://fictionwise.com/Images/horrorsale_bg_01.png";
 
 <body bgcolor="#FFFFFF" leftmargin="0" topmargin="0" marginheight="0" marginwidth="0">
 
-<table id="fwbar" width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="#000086" style="margin-top: 100px;">
+<table id="fwbar" width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="#000086">
 <tbody><tr>
     <td width="140"><img alt="ebooks" name="logotop" src="/images/logo_topnew5.gif" width="140" height="28"></td>
     <td bgcolor="#000086" width="285">&nbsp;</td>
@@ -537,91 +537,11 @@ A Barnes &amp; Noble Company</font>
 </tbody></table>
 
 <!-- A Barnes and Noble Compnay -->
-<div id="bn_bug" style="margin-top: 100px;"><img src="/Images/bn_fw.png"></div>
+<div id="bn_bug"><img src="/Images/bn_fw.png"></div>
 
 <!--topblurb-->
-<script>
-function checkLiveDates(livedate, expiredate) {
-	
-	var isLive="none";
-		   
-	var today = new Date();       
-	var hour        = today.getHours(); //0 - 24
-	var minute      = today.getMinutes(); //0 - 60
-	var second      = today.getSeconds(); //0 - 60
-	var monthnumber = today.getMonth(); //0 - 11
-	var monthday    = today.getDate(); //1-31
-	var year        = today.getYear(); //2009 = 109
-	
-	if (hour <10) {
-		hour = "0" + hour;
-	}
-	
-	if (minute <10) {
-		minute = "0" + minute;
-	}
-	
-	if (second <10) {
-		second = "0" + second;
-	}
-	
-	monthnumber = monthnumber + 1; //1 - 12
-	
-	if (monthnumber <10) {
-		monthnumber = "0" + monthnumber;
-	}
-	
-	if (monthday <10) {
-		monthday = "0" + monthday;
-	}
+<b>Error processing SSI file</b><br>
 
-	year = "" + year;
-	year = year.substr(year.length-2,2);
-	
-	var now = "" + year + monthnumber + monthday + hour + minute;
-	
-	//alert(now+ " > " + livedate + " && now < " + expiredate); 
-	
-	now=now-0; //converts to number
-	
-	livedate = livedate-0;
-	
-	expiredate = expiredate-0; //1093101000
-
-	//alert(now+ " > " + livedate + " && now < " + expiredate);  
-	
-	if (now > livedate && now < expiredate) {
-	isLive = "block";
-	//alert(isLive);
-	}
-	
-	return isLive;
-
-}
-
-//document.write(checkLiveDates(111270000,1112150000));
-
-</script>
-
-<script>
-
-	var fwbar = document.getElementById("fwbar");
-	
-	if (fwbar != null || fwbar != undefined) {
-	
-		fwbar.style.marginTop = "100px";
-		
-		var bn_bug = document.getElementById("bn_bug");
-		
-		bn_bug.style.marginTop = "100px";
-	
-	
-		document.write('<div id="header-banner" style="background:#fff; width:100%; position:absolute; top:0; z-index:1000; left:0; text-align:center; display:block"><div style="padding-top:5px"><a href="http://www.barnesandnoble.com/nook/index.asp?PID=34323&cds2Pid=35700&cm_mmc=fictionwise-_-nook-_-728x90-_-na" target="_blank"><img src="http://www.fictionwise.com/images/26290_fictionwise_banner_728_90_v2.jpg" border="0" /></a></div><div>');
-	}
-</script><div id="header-banner" style="background:#fff; width:100%; position:absolute; top:0; z-index:1000; left:0; text-align:center; display:block"><div style="padding-top:5px"><a href="http://www.barnesandnoble.com/nook/index.asp?PID=34323&amp;cds2Pid=35700&amp;cm_mmc=fictionwise-_-nook-_-728x90-_-na" target="_blank"><img src="http://www.fictionwise.com/images/26290_fictionwise_banner_728_90_v2.jpg" border="0"></a></div><div>
-
-
-<!--<div id="header-banner" style="background:#e2e2e2; width:100%; position:absolute; top:0; z-index:1000; left:0; text-align:center; display:block"><div style="padding-top:5px"><a href="http://www.barnesandnoble.com/u/nook1-overview/379002696?PID=34323&cds2Pid=35700&cm_mmc=ereader-_-nook-_-728x90-_-na" target="_blank"><img src="http://www.fictionwise.com/images/728x90%20nook%202.11.11.png" border="0" /></a></div><div>-->
 <!-- end topblurb-->
 
 <!--Google tracking -->
@@ -639,4 +559,4 @@ pageTracker._trackPageview();
 
 
 
-</div></div></body></html>
+</body></html>
