@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yourdailyscoop.com privacy policy that was archived on 2013-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130630011719id_/http%3A//www.yourdailyscoop.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yourdailyscoop.com privacy policy that was archived on 2013-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131029221528id_/http%3A//www.yourdailyscoop.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy for YourDailyScoop.com
 
@@ -57,7 +57,7 @@ When you register with YourDailyScoop.com, you can elect to sign up with some of
 
  **INFORMATION CHOICES AND CHANGES**
 
-Our emails include instructions on how to “opt-out.” By following these instructions you can discontinue receiving emails from YourDailyScoop.com. To do so now, please visit our [unsubscribe page](http://weheartfreebies.us4.list-manage.com/unsubscribe?u=d3fe1726a2d3543a1355172b6&id=5ae7995254).
+Our emails include instructions on how to “opt-out.” By following these instructions you can discontinue receiving emails from YourDailyScoop.com. To do so now, please visit our [unsubscribe page](http://www.yourdailyscoop.com/manage-newsletters).
 
 You may send requests about personal information to our Contact Information below. You can request to change contact choices, opt-out of our sharing with others, and update your personal information.
 
