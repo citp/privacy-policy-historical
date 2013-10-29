@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the miami-dadeclerk.com privacy policy that was archived on 2013-05-13.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130513194143id_/http%3A//www.miamidade.gov/info/privacy_and_security.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the miami-dadeclerk.com privacy policy that was archived on 2013-10-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131029232622id_/http%3A//www.miamidade.gov/info/privacy_and_security.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
 <meta charset="UTF-8">
@@ -7,6 +7,10 @@
 <meta name="description" content=" ">
 <meta name="keywords" content=" ">
 <title>Miami-Dade County - Information - Privacy and Security Notice</title>
+
+
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+
 
 <link rel="shortcut icon" href="http://www.miamidade.gov/images/md.ico">
 <!-- general styles -->
@@ -16,25 +20,33 @@
 <![endif]-->
 <link href="css/local-styles.css" rel="stylesheet" type="text/css">
 <!-- scripts used by all pages -->
-<script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js" type="text/javascript"></script>
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js" type="text/javascript"></script>
 <script src="http://ajax.aspnetcdn.com/ajax/modernizr/modernizr-1.7-development-only.js" type="text/javascript"></script>
+
+<!-- for local access policy users -->
+<script>window.jQuery || document.write('<script src="http://www.miamidade.gov/global_assets/templates_v6/js/jquery.min.js"><\/script>')</script><script src="http://www.miamidade.gov/global_assets/templates_v6/js/jquery.min.js"></script>
+
 <script type="text/javascript" src="http://www.miamidade.gov/global_assets/templates_v6/js/jquery.url.js"></script>
 
 <script src="http://www.miamidade.gov/global_assets/templates_v6/js/jquery.jSuggest.1.0.js" language="javascript" type="text/javascript"></script>
 <script src="http://www.miamidade.gov/global_assets/templates_v6/js/jquery.jcrumb.js" type="text/javascript"></script>
 <script src="http://www.miamidade.gov/global_assets/templates_v6/js/jquery.json.js"></script>
 
+<script type="text/javascript" src="http://www.miamidade.gov/global_assets/templates_v6/js/analytics/lunametrics-modified.js"></script> 
+ 
+<script type="text/javascript" src="http://www.miamidade.gov/global_assets/templates_v6/js/analytics/analyzeEvents.js"></script>  
+
 <script type="text/javascript" src="http://www.miamidade.gov/global_assets/templates_v6/js/functions.js"></script>
 
- <script type="text/javascript" src="http://www.miamidade.gov/global_assets/templates_v6/js/persist-min.js"></script> 
+<script type="text/javascript" src="http://www.miamidade.gov/global_assets/templates_v6/js/persist-min.js"></script> 
 
-
+ 
 <script type="text/javascript" src="js/local.js"></script>
 
 <!--[if lt IE 9]>
 <script src="//html5shim.googlecode.com/svn/trunk/html5.js"></script>
 <![endif]-->
-<meta http-equiv="X-UA-Compatible" content="IE=edge">
+
 
 
 
@@ -283,6 +295,9 @@ margin-bottom:10px
 <!-- Google Analytics code -->
 <script type="text/javascript"> 
 
+	var branchName = window.location.href.split('/')[3];
+
+
 	var _gaq = _gaq || []; 
 	_gaq.push(['_setAccount', 'UA-22131309-1']);
 	_gaq.push(['_setDomainName', 'miamidade.gov']);
@@ -291,11 +306,11 @@ margin-bottom:10px
 	{
 
 		var pageTracker = _gat._getTrackerByName('UA-22131309-1');
-		pageTracker._setVar(AJMBranch.toLowerCase());
+		pageTracker._setVar(branchName.toLowerCase());
 
 	});
 
-	_gaq.push(['_setCustomVar', 1, 'branch', AJMBranch.toLowerCase()]);
+	_gaq.push(['_setCustomVar', 1, 'branch', branchName.toLowerCase()]);
 	//pageTracker._setCustomVar(1, "branch", $.url().segment(1), 2);
 	_gaq.push(['_trackPageview']); 
 
