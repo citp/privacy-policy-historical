@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the defensereview.com privacy policy that was archived on 2013-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130606035250id_/http%3A//www.defensereview.com/privacy-policy-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the defensereview.com privacy policy that was archived on 2013-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131029044755id_/http%3A//www.defensereview.com/privacy-policy-2) for the most accurate reproduction.*
 
-# Defense Review - Privacy Policy
+# Privacy Policy | Defense Review
 
-## Privacy Policy
+[](http://www.printfriendly.com/print?url=http://www.defensereview.com/privacy-policy-2/)
 
 **DefenseReview.Com** takes your privacy seriously. This privacy policy describes what personal information we collect and how we use it. See this [privacy policy primer](http://www.synclastic.com/privacy/privacy-policies/) to learn more about privacy policies in general.
 
@@ -27,8 +27,3 @@ Any advertisements served by Google, Inc., and affiliated companies may be contr
 ## Contact Information
 
 Concerns or questions about this privacy policy can be directed to usdefcon@gmail.com for further clarification.
-
-#### Search terms for the article:
-
-[DefenseReview-PrivacyPolicy](http://www.defensereview.com/search/defensereview-privacypolicy/ "DefenseReview-PrivacyPolicy")
-
