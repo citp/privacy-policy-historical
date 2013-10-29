@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 4wd.com privacy policy that was archived on 2013-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130618113137id_/http%3A//www.4wd.com/info/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 4wd.com privacy policy that was archived on 2013-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131029065211id_/http%3A//www.4wd.com/info/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Privacy and Site Security Policies
 
@@ -71,7 +71,7 @@ We warranty all merchandise for a minimum of 30 days against defects in workmans
 
 ### Backorders
 
-Sometimes it becomes necessary to cancel orders for a backorder or discontinued part. Therefore, we reserve the right to cancel these orders. There is no additional shipping charge on backorder shipments.
+Sometimes it becomes necessary to cancel orders for a backorder or discontinued part. Therefore, we reserve the right to cancel these orders. Backorders will be billed at the time the order is received. There is no additional shipping charge on backorder shipments.
 
 ### Product Installation Policy
 
