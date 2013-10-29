@@ -1,17 +1,17 @@
-> *The following text is extracted and transformed from the signupgenius.com privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530111250id_/http%3A//www.signupgenius.com/about/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the signupgenius.com privacy policy that was archived on 2013-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131029042511id_/http%3A//www.signupgenius.com/about/privacy.cfm) for the most accurate reproduction.*
 
 # Privacy Policy
 
 Let’s face it. You came to this page because you are concerned about your privacy. You don’t know us and honestly… you just don’t trust us. Am I right? That’s perfectly understandable. There are a lot of fraudulent sites on the internet.
 
-We started this company to help churches, temples, schools, soccer moms, coaches, room parents, and people just like us organize their lives. We want to be a company with integrity that will simplify life for our users, not take advantage them. So if any of the items below are unclear or you want to discuss them with us, please contact us.
+We started this company to help churches, temples, schools, soccer moms, coaches, room parents, and people just like us organize their lives. We want to be a company with integrity that will simplify life for our users, not take advantage them. So if any of the items below are unclear or you have further questions, please contact us.
 
 SignUpGenius  
-8440 Rea Rd., Suite J  
+7825 Ballantyne Commons Pkwy  
+Suite 350  
 Charlotte, NC 28277  
-704-329-9530  
 Co-Owners: Mike Vadini, Dan Rutledge  
-[Email Our Team](https://web.archive.org/help)
+[Email Us](https://web.archive.org/help)
 
 ##    
 Our Policy:
@@ -23,7 +23,7 @@ Our Policy:
 **We promise not to bother you with unwanted emails, and we allow you to control what emails you receive.** You will, of course, receive emails as part of the SignUpGenius service including invites to sign up forms, status updates, and reminder notifications. In addition, we have an email newsletter that is sent out periodically to members that have created sign ups in order to inform them of new features. Users can unsubscribe from any of these emails in their account settings.
 
 **For our online advertisements, we do our best to avoid inappropriate or offensive ads.**  
-Rather than selling to individual advertisers, we work with several high-profile advertising networks that manage the ads for us. Our primary ad network is Google Adsense, a well-known advertising solution in use by hundreds of thousands of websites worldwide. We are not able to preview every Adsense advertisement beforehand, but we have setup our Adsense account to filter out sensitive or controversial categories. In addition, we do our best to monitor the advertising and we try to immediately block any advertisement that seems in anyway offensive or inappropriate. We are in no way responsible for the content of an advertiser’s website if you choose to click on an advertisement. We also offer a [no-advertising version](https://web.archive.org/index.cfm?go=o.DisplayProducts) for those that need it.  In addition to Google Adsense, we utilize advertising solutions from Criteo and Solve Media. Advertisers do not have access to your personal information from our website, but may try to provide the most relevant ads by leveraging the text on our pages and/or your web browsing and search history.  
+Rather than selling to individual advertisers, we work with several high-profile advertising networks that manage the ads for us. Our primary ad network is Google Adsense, a well-known advertising solution in use by hundreds of thousands of websites worldwide. We are not able to preview every Adsense advertisement beforehand, but we have setup our Adsense account to filter out sensitive or controversial categories. In addition, we do our best to monitor the advertising and we try to immediately block any advertisement that seems in anyway offensive or inappropriate. We are in no way responsible for the content of an advertiser’s website if you choose to click on an advertisement. We also offer a [no-advertising version](https://web.archive.org/index.cfm?go=o.DisplayProducts) for those that need it.  In addition to Google Adsense, we utilize advertising solutions  Solve Media. Advertisers do not have access to your personal information from our website, but may try to provide the most relevant ads by leveraging the text on our pages and/or your web browsing and search history.  
 
 **We give the creator of the sign up choices about the privacy of his/her sign up form and what data he/she will collect.** We offer multiple security settings that the sign up creator can choose to determine who can see a sign up page, who can sign up on the page, and what is required to sign up for something. We let the sign up creator make the choices. SignUpGenius does not require contact information from members in order for them to participate on a sign up, however, we do give the sign up creator the ability to require contact information. The type of data collected may include:
 
@@ -100,7 +100,7 @@ Yes
 
 No  
   
-Creating a SignUpGenius Password
+Creating a SignUpGenius Account
 
 | 
 
@@ -152,10 +152,4 @@ For exact details on Google Adsense and their privacy policy, see the [Google Pr
 **Google Analytics**  
 Beyond our own programming, some of our aggregrate statistics are provided using the Google Analytics tool. For exact details on the Google Analytics privacy policy, see the [Google Privacy Center](http://www.google.com/privacy.html).
 
-Last Updated: 11/06/2012
-
-THE GENIUS BLOG
-
-[](https://web.archive.org/blog)  
-[End of School Specials!](https://web.archive.org/blog)  
-You’re in the home stretch and on course to end the school year strong. Now is the perfect time to take advantage of 3 SignUpGenius offers to position yourself for a winning next year.... [[Read More]](https://web.archive.org/blog)
+Last Updated: 07/27/2013
