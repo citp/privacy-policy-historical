@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the unblock-us.com privacy policy that was archived on 2013-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130629170316id_/http%3A//www.unblock-us.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unblock-us.com privacy policy that was archived on 2013-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131029213521id_/http%3A//www.unblock-us.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | Unblock-Us - smarter faster VPN
 
 ## The Information We Collect
 
-UnblockUs Inc. may collect personally identifiable information from Users in a variety of ways, including through online forms for ordering products and services, and other instances where Users are invited to volunteer such information. UnblockUs Inc. may also collect information about how Users use our Web site, for example, by tracking the number of unique views received by the pages of the Web site or the domains from which Users originate. We may use "cookies" to track how Users use our Web site. A cookie is a piece of software that a Web server can store on the Users' PC and use to identify the User should they visit the Web site again. While not all of the information that we collect from Users is personally identifiable, it may be associated with personally identifiable information that Users provide us through our Web site.
+Netprotect Inc. may collect personally identifiable information from Users in a variety of ways, including through online forms for ordering products and services, and other instances where Users are invited to volunteer such information. Netprotect Inc. may also collect information about how Users use our Web site, for example, by tracking the number of unique views received by the pages of the Web site or the domains from which Users originate. We may use "cookies" to track how Users use our Web site. A cookie is a piece of software that a Web server can store on the Users' PC and use to identify the User should they visit the Web site again. While not all of the information that we collect from Users is personally identifiable, it may be associated with personally identifiable information that Users provide us through our Web site.
 
 ## How We Use Information
 
-UnblockUs Inc. will use personally identifiable information collected through our Web site to contact Users regarding products and services offered by UnblockUs Inc., we however will NOT share this information with trusted affiliates, independent contractors, business partners or outside entities.
+Netprotect Inc. will use personally identifiable information collected through our Web site to contact Users regarding products and services offered by Netprotect Inc., we however will NOT share this information with trusted affiliates, independent contractors, business partners or outside entities.
 
 ## Maintenance of Information
 
