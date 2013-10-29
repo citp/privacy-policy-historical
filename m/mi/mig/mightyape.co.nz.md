@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mightyape.co.nz privacy policy that was archived on 2013-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130618124911id_/http%3A//www.mightyape.co.nz/help/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mightyape.co.nz privacy policy that was archived on 2013-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131029054047id_/http%3A//www.mightyape.co.nz/help/privacy-policy) for the most accurate reproduction.*
 
 # Help - Privacy Policy at Mighty Ape NZ
 
@@ -66,3 +66,9 @@ Mighty Ape uses Remarketing with Google Analytics to advertise online. Third-par
 Ourselves and third-party vendors, including Google, use first-party cookies (such as the Google Analytics cookie) and third-party cookies (such as the DoubleClick cookie) together to inform, optimize, and serve ads based on visits to our website.
 
 If you have any questions regarding our privacy policy, please contact us.
+
+### Email marketing
+
+Mighty Ape sends marketing emails to recipients who have created a Mighty Ape account or have provided their email address to a marketing partner of Mighty Ape.
+
+If you no longer wish to receive marketing emails from Mighty Ape, you may click the “unsubscribe” link in the email, [manage your subscriptions](https://web.archive.org/my-account/subscriptions/newsletters) or [contact us](https://web.archive.org/help/contact).
