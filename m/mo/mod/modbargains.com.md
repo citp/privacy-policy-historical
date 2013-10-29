@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the modbargains.com privacy policy that was archived on 2013-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130618235448id_/http%3A//www.modbargains.com/Privacy-Policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the modbargains.com privacy policy that was archived on 2013-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131029135541id_/http%3A//www.modbargains.com/Privacy-Policy.htm) for the most accurate reproduction.*
 
 # ModBargains.com Privacy Policy
 
