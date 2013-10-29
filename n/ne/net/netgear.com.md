@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the netgear.com privacy policy that was archived on 2013-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130531084144id_/http%3A//netgear.com/about/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netgear.com privacy policy that was archived on 2013-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131029070008id_/http%3A//www.netgear.com/about/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -14,7 +14,7 @@ This policy describes how NETGEAR, Inc. and its subsidiaries and affiliates ("NE
 
  **Contact information.** For example, we might collect your name and street address. We might also collect your phone number or email address.
 
- **Payment information.** For example, we collect your credit card number when you buy a subscription to use VueZone, for shipping services related to a warranty replacement, or when you buy/license an application from the genie+ Marketplace.
+ **Payment information.** For example, we collect your credit card number when you buy a subscription to use VueZone, for shipping services related to a warranty replacement, or when you buy/license an application from the NETGEAR App Marketplace.
 
  **Demographic information.** We may collect information about your interests or hobbies. We might also ask your sex or age.
 
