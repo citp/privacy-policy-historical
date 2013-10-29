@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the titleseo.com privacy policy that was archived on 2013-06-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130625160212id_/http%3A//www.titleseo.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the titleseo.com privacy policy that was archived on 2013-10-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131029090755id_/http%3A//www.titleseo.com/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"><html><head>
 <title>TitleSEO Privacy Policy | Refund Policy</title>	
@@ -15,11 +15,48 @@
 <link rel="stylesheet" href="css/prettyPhoto.css" type="text/css" media="screen" title="prettyPhoto main stylesheet" charset="utf-8">
 <link href="http://fonts.googleapis.com/css?family=Bad+Script" rel="stylesheet" type="text/css">
 
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1"></script><script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script type="text/javascript" async="" src="https://cdn.livechatinc.com/tracking.js"></script><script type="text/javascript" src="js/jquery-1.6.1.min.js"></script>
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1"></script><script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script type="text/javascript" async="" src="https://cdn.livechatinc.com/tracking.js"></script><script type="text/javascript" src="js/jquery-1.8.2.min.js"></script>
+<script type="text/javascript" src="js/jquery.dd.min.js"></script>
+<script type="text/javascript" src="js/jquery.flexslider.js"></script>
+<script type="text/javascript">
+$(function(){
+  SyntaxHighlighter.all();
+});
+$(window).load(function(){
+	$('#carousel').flexslider({
+		animation: "slide",
+		controlNav: false,
+		animationLoop: false,
+		slideshow: false,
+		itemWidth: 86,
+		itemMargin: 9,
+		asNavFor: '#slider'
+	});
+	
+	$('#slider').flexslider({
+		animation: "slide",
+		controlNav: false,
+		animationLoop: false,
+		slideshow: false,
+		sync: "#carousel",
+		start: function(slider){
+		  $('body').removeClass('loading');
+		}
+	});
+ 
+	$("body select").msDropdown({visibleRows:4});
+});
+</script>
+<!-- <script type="text/javascript" src="js/jquery-1.6.1.min.js"></script>-->
 <script type="text/javascript" src="js/jquery.tools.min.js"></script>
 <script type="text/javascript" src="js/functions_home.js"></script>
 <script type="text/javascript" src="js/header.js"></script>
 <script type="text/javascript" src="js/header_ga.js"></script>
+
+
+<link rel="stylesheet" href="css/flexslider.css" type="text/css" media="screen">
+<link href="css/dd.css" rel="stylesheet" type="text/css">
+<link href="css/style_new.css" rel="stylesheet" type="text/css">
 
 <script type="text/javascript">
   var __lc = {};
@@ -611,7 +648,7 @@ fjs.parentNode.insertBefore(js, fjs);
 			<div id="footer">
 				<div class="footer_top">
 					<div class="footer_nav">
-						<div class="footHighlight">Main Links</div>
+						<div class="footHighlight">Main Link</div>
 						<ul>
 							<li><a href="http://www.titleseo.com/">Home</a></li>
 							<li><a rel="nofollow" href="contactus.php">Contact Us</a></li>
@@ -625,7 +662,7 @@ fjs.parentNode.insertBefore(js, fjs);
 					</div>
 					
 					<div class="footer_nav footer_nav2">
-						<div class="footHighlight">SEO Services</div>
+						<div class="footHighlight">Link Building Service</div>
 						<ul class="fltleft padd">
 						<li><a rel="nofollow" href="social-bookmarking-service.php">Social Bookmarking <br>Submission</a></li>
 						<li><a rel="nofollow" href="directory-submission-service.php">Directory Submission</a></li>
@@ -699,7 +736,7 @@ fjs.parentNode.insertBefore(js, fjs);
 					
 					<div class="clear"></div>
 				</div>
-					<div class="copyright">Copyright ©2009 - 2013. All rights reserved, Legal &amp; <a href="privacy.php" style="color:#fff;">Privacy Policy</a> - <a rel="nofollow" href="refund-policy.php" style="color:#fff;">Refund Policy.</a></div>
+					<div class="copyright">Copyright ©2009 - 2013. All rights reserved, Legal &amp; <a rel="nofollow" href="privacy.php" style="color:#fff;">Privacy Policy</a> - <a rel="nofollow" href="refund-policy.php" style="color:#fff;">Refund Policy.</a></div>
 				</div><!--end footer-->
 			</div>
 		</div><!--end content-->
