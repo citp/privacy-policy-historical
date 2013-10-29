@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clueleads.com privacy policy that was archived on 2013-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130629234512id_/http%3A//www.clueleads.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clueleads.com privacy policy that was archived on 2013-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131029155215id_/http%3A//www.clueleads.com/Privacy.aspx) for the most accurate reproduction.*
 
 # mlm,India mlm news,mlm classifieds,India mlm companies,networker views,mlm articles,mlm directory,mlm software,Network marketing in Andhrapradesh,India
 
@@ -20,8 +20,4 @@ This Site contains links to other websites, such as websites providing national 
 We protect against the loss, misuse and alteration of personal information with security measures appropriate to the sensitivity of the information. However, it is possible that any information transmitted via the Internet may be intercepted by unknown third parties.   
 Corrections/Contact  
 Users of this Site may contact [clueleads.com](http://www.clueleads.com/) to modify or correct any of their personal information that is under our control. An individual may also direct a written complaint regarding compliance with this Privacy Statement to us and, within a reasonable time upon receiving the written complaint, we will conduct an investigation into the matter, and we will take necessary measure/s to rectify the source of the complaint, as appropriate.  
-   
-|   
----  
-  
-[](http://www.royalrecharge.in/)
+ 
