@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the physicsforums.com privacy policy that was archived on 2013-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130616050736id_/http%3A//www.physicsforums.com/showthread.php%3Ft%3D131804) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the physicsforums.com privacy policy that was archived on 2013-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131029222152id_/http%3A//www.physicsforums.com/showthread.php%3Ft%3D131804) for the most accurate reproduction.*
 
 # Physicsforums.com Privacy Policy
 
@@ -41,8 +41,6 @@ Every time you visit a web page, you send a lot of information to the web server
 These logs are used to produce the site statistics pages; the raw log data is not made public, and is normally discarded after about two weeks.
 
 Here's a sample of what's logged for one page view:
-
-Code:
     
     
     64.164.82.142 - - [21/Oct/2003:02:03:19 +0000]
