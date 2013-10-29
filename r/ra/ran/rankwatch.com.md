@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rankwatch.com privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530041623id_/http%3A//rankwatch.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rankwatch.com privacy policy that was archived on 2013-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131029014447id_/http%3A//rankwatch.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Rankwatch - Privacy Policy
 
