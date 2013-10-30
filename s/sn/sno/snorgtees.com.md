@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the snorgtees.com privacy policy that was archived on 2013-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130516052247id_/http%3A//www.snorgtees.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the snorgtees.com privacy policy that was archived on 2013-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131030052209id_/http%3A//www.snorgtees.com/privacy) for the most accurate reproduction.*
 
 # Privacy | SnorgTees
 
@@ -10,7 +10,7 @@ You don't like spam. We don't like spam. Because of this, we only send our newsl
 
 #### **Your Personal Information**
 
-We collect your personal information when you provide it to us as you place your order, including your name, shipping and billing address, credit card number, and email address. We use this information to process your order, provide you with support, and update you on your order. We do not sell your personal information to other parties.
+We collect your personal information when you provide it to us as you place your order, including your name, shipping and billing address, credit card number, and email address. We use this information to process your order, provide you with support, and update you on your order. We may also use this information to send out a SnorgTees catalog. We do not sell your personal information to other parties.
 
 #### **Anonymous Information**
 
