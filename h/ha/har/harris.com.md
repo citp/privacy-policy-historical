@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the harris.com privacy policy that was archived on 2013-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130430132745id_/http%3A//www.harris.com/about/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the harris.com privacy policy that was archived on 2013-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131030150828id_/http%3A//www.harris.com/about/privacy_policy.aspx) for the most accurate reproduction.*
 
 # Harris Corporation -- Privacy Policy
 
