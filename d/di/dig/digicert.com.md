@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the digicert.com privacy policy that was archived on 2013-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130401145446id_/http%3A//www.digicert.com/digicert-privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digicert.com privacy policy that was archived on 2013-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131030025936id_/http%3A//www.digicert.com/digicert-privacy-policy.htm) for the most accurate reproduction.*
 
 # DigiCert SSL Certificate Authority | Security | Privacy Policy
 
 ## DigiCert Privacy Policy
 
-[](https://clicktoverify.truste.com/pvr.php?page=validate&url=www.digicert.com&sealid=101)
+[](https://privacy.truste.com/privacy-seal/DigiCert/validation?rid=606159ea-c140-4704-a656-7765661cb882 "TRUSTe online privacy certification")
 
 Introduction
 
@@ -22,7 +22,9 @@ Regardless of the source, DigiCert protects personal information as confidential
 
 Updating Personal Information
 
-Generally, a customer can review and update personal information through its DigiCert account interface by clicking edit under the Account Profile tab. Alternatively, customers may make request changes to personal information by sending an email to [admin@digicert.com](mailto:admin@digicert.com) or by mailing DigiCert at the address listed in this policy. Emailed and mailed requests are subject to DigiCert's satisfaction about the authenticity of the request.
+Generally, a customer can review, delete inaccuracies and update personal information through its DigiCert account interface by clicking edit under the Account Profile tab. Alternatively, customers may make request changes to personal information by sending an email to [support@digicert.com](mailto:support@digicert.com) or by mailing DigiCert at the address listed in this policy. Emailed and mailed requests are subject to DigiCert's satisfaction about the authenticity of the request.
+
+DigiCert retains information about customers while the customer’s account is active, while a certificate remains unexpired, and in accordance with industry standards. A customer may request account cancellation or request that DigiCert no longer provide services by emailing [support@digicert.com](mailto:support@digicert.com). DigiCert may retain customer information after receiving a request to cancel services or disable account as necessary to comply with industry standards, legal obligations, resolve disputes, and enforce customer agreements.
 
 Personal information embedded in a digital certificate cannot be directly edited. Customers wishing to update personal information in a digital certificate must submit a change request through the customer account. DigiCert may require that the updated information be verified for accuracy prior to accepting the change request. In addition, even if information is updated in DigiCert's databases, the information will generally not be updated in the issued digital certificate. If information embedded in a digital certificate needs updating, DigiCert may require revocation of the digital certificate.
 
@@ -44,7 +46,7 @@ DigiCert may send out promotional emails (such as a newsletter) to individuals w
 
 DigiCert also sends out advisory emails. Advisory emails are related to the primary purpose for which the information was collected and are used to respond to inquiries, provide support and validation services, provide upgrade information and security updates, and inform the customer about ordered products and services. Because advisory emails contain essential information related to the use and security of DigiCert's products and services, customers may not unsubscribe from advisory emails.
 
-DigiCert may use third parties, with which it has a confidentiality agreement, to send promotional or advisory emails. However, DigiCert restricts its partners from sending spam associated with DigiCert's site, brand, or products. If you receive an unsolicited email related to DigiCert's products and services, please forward the entire message and headers to [legal@digicert.com](mailto:legal@digicert.com).
+DigiCert may use third parties, with which it has a confidentiality agreement, to send promotional or advisory emails. However, DigiCert restricts its partners from sending spam associated with DigiCert's site, brand, or products. A customer receiving an unsolicited email related to DigiCert's products and services should forward the entire message and headers to [legal@digicert.com](mailto:legal@digicert.com).
 
 Third Parties
 
@@ -55,6 +57,14 @@ DigiCert uses a third party to process credit card payments and may provide cred
 DigiCert also uses a third party to provide its chat-based support. The support software allows users to input information, including an email address, to request support and clarify their problem. The software provider does not share inputted information with anyone other than DigiCert.
 
 DigiCert may disclose information when required by law or when disclosure is necessary to protect DigiCert's rights and/or comply with a judicial proceeding, court order, or legal process.
+
+Testimonials
+
+With prior permission from the customer, DigiCert displays [personal testimonials](http://www.digicert.com/welcome/customer-praise.htm) of satisfied customers on its website in addition to other endorsements. Customers wishing to update or delete a testimonial may contact DigiCert at [support@digicert.com](mailto:support@digicert.com).
+
+Social Media Widgets
+
+The DigiCert website includes social media features, such as a Facebook “Like” button and widgets, such as a share button or interactive mini-programs. These features may collect the user’s IP address, may collect the pages visited on DigiCert’s site, and may set a cookie to enable the feature to function properly. Social media features are either hosted by a third party or hosted directly on DigiCert’s site. Interactions with these features are governed by the privacy policy of the corresponding social media company.
 
 Security
 
@@ -68,9 +78,9 @@ DigiCert complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe
 
 TRUSTe Licensee Statement
 
-DigiCert, Inc. is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent organization whose mission is to build users trust and confidence in the Internet by promoting disclosure and informed consent. TRUSTe issues its site seal to participants who undergo a compliance review of their privacy policy.
+DigiCert, Inc. has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of personal information. The TRUSTe program covers only information that is collected through the [www.digicert.com](http://www.digicert.com/) site.
 
-If you have questions or concerns regarding this statement, you should first contact DigiCert at [privacy@digicert.com](mailto:privacy@digicert.com). If you do not receive acknowledgement of inquiry or if your inquiry is not satisfactorily addressed, please contact TRUSTe at <http://www.truste.org/consumers/watchdog_complaint.php>. TRUSTe will act as a liaison between you and DigiCert in resolving the issue.
+TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy Trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at [privacy@digicert.com](mailto:privacy@digicert.com). If you are not satisfied with our response you can contact [TRUSTe here](https://feedback-form.truste.com/watchdog/request).
 
 Applicability
 
@@ -84,13 +94,14 @@ DigiCert may modify its privacy policy and related practices at any time. DigiCe
 
 Contact
 
-If you have any questions or concerns about this privacy policy, please contact DigiCert at:
+Please contact DigiCert with any questions or concerns about this privacy policy:
 
 By mail:
 
 DigiCert, Inc.  
-355 South 520 West, Suite 200  
-Lindon, Utah 84042
+2600 West Executive Parkway  
+Suite 500  
+Lehi, Utah 84043
 
 By phone or fax:
 
@@ -103,15 +114,15 @@ By email:
 
 [privacy@digicert.com](mailto:privacy@digicert.com)
 
-For assistance with technical difficulties, including problems with accessing or using your customer account, please email [admin@digicert.com](mailto:admin@digicert.com).
+For assistance with technical difficulties, including problems with accessing or using your customer account, please email [support@digicert.com](mailto:support@digicert.com).
 
 Effective Date of Privacy Policy
 
-Effective Date: 06/1/2012  
-Last Updated: 5/1/2012
+Effective Date: 08/15/2013  
+Last Updated: 07/05/2013
 
 ## DigiCert Legal Repository
 
-You can view the DigiCert Legal Repository by clicking here: [DigiCert Legal Repository](http://www.digicert.com/ssl-cps-repository.htm)
+The DigiCert Legal Repository is available at: [DigiCert Legal Repository](http://www.digicert.com/ssl-cps-repository.htm)
 
-[](https://www.digicert.com/order/order-1.php)
+[BUY NOW](https://www.digicert.com/order/order-1.php)
