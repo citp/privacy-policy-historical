@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sccu.com privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530140446id_/http%3A//www.sccu.com/help/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sccu.com privacy policy that was archived on 2013-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131030164319id_/http%3A//www.sccu.com/help/privacypolicy.asp) for the most accurate reproduction.*
 
 # Space Coast Credit Union Privacy Notice
 
@@ -28,4 +28,4 @@ We may disclose all of the information that we collect, as described above, to c
 
 We restrict access to information about you to those employees who need to know that information to provide products or services to you. We maintain physical, electronic, and procedural safeguards that comply with federal and state laws and regulations to guard your information. 
 
-We recognize the need to provide additional privacy protections for children who visit our site. [Learn more about our privacy policy for children who are under the age of 13 by clicking here.](https://web.archive.org/web/20130530140446id_/http%3A//www.sccu.com/help/kids-privacypolicy.asp)
+We recognize the need to provide additional privacy protections for children who visit our site. [Learn more about our privacy policy for children who are under the age of 13 by clicking here.](https://web.archive.org/web/20131030164319id_/http%3A//www.sccu.com/help/kids-privacypolicy.asp)
