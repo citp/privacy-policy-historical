@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the drfuhrman.com privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621024927id_/http%3A//www.drfuhrman.com/company/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drfuhrman.com privacy policy that was archived on 2013-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131030112903id_/http%3A//www.drfuhrman.com/company/privacy.aspx) for the most accurate reproduction.*
 
 # Company | Privacy Policy | DrFuhrman.com
 
