@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xemarkets.com privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502100956id_/http%3A//www.xemarkets.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xemarkets.com privacy policy that was archived on 2013-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131030224300id_/http%3A//www.xm.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -33,18 +33,24 @@ Personal information may also be disclosed to credit reporting or reference agen
 
 ## Updating your information
 
-You may inform **XEMarkets** at any time that your personal details have changed or that you wish **XEMarkets** to delete personal information we hold about you by e-mailing us to info@xemarkets.com.
+You may inform **XM** at any time that your personal details have changed or that you wish **XM** to delete personal information we hold about you by e-mailing us to info@xm.com.
 
-**XEMarkets** will change or delete your personal information in accordance with your instructions, except when we are required to hold your personal information for regulatory or legal purposes, or to provide you with the services you have requested, or to maintain adequate business records.
+**XM** will change or delete your personal information in accordance with your instructions, except when we are required to hold your personal information for regulatory or legal purposes, or to provide you with the services you have requested, or to maintain adequate business records.
 
 ## Use of Cookies
 
-If you open an account with us, you will need to use our trading software, which enables us to use cookies when you access our website. Cookies are small files of information, which often include a unique identification number or value, which are stored on your computer’s hard drive as a result of you using this trading software and accessing this website. The purpose of this information is to provide you with a more relevant and effective experience of our website, including the presentation of our web pages according to your needs or preferences. Cookies are frequently used on many websites on the Internet and you can choose if and how a cookie will be accepted by changing your preferences and options in your browser. You may not be able to access some parts of our website if you choose to disable the cookie acceptance in your browser, particularly the secure parts of the website. We therefore recommend you to enable cookie acceptance in order to benefit from all the services on our website.
+If you open an account with us, you will need to use our trading software, which enables us to use cookies when you access our website. Cookies are small files of information, which often include a unique identification number or value, which are stored on your computer’s hard drive as a result of you using this trading software and accessing this website. The purpose of this information is to provide you with a more relevant and effective experience of our website, including the presentation of our web pages according to your needs or preferences. 
+
+Cookies are frequently used on many websites on the Internet and you can choose if and how a cookie will be accepted by changing your preferences and options in your browser. You may not be able to access some parts of our website if you choose to disable the cookie acceptance in your browser, particularly the secure parts of the website. We therefore recommend you to enable cookie acceptance in order to benefit from all the services on our website.
+
+Furthermore, we use cookies for remarketing features in order to allow us to reach out to users who have previously visited our website and have shown an interest in our products and services. From time to time, we may use third party vendors, such as Google and DoubleClick, to display our ads over the internet to you, based on your previous use of our website. You can opt out of this particular use of cookies at any time by visiting [Google’s Ads Settings](http://www.google.com/settings/ads) and the [ DoubleClick opt-out page](https://www.google.com/settings/ads/onweb#display_optout).
 
 ## What are your rights?
 
-You have (subject to certain exceptions) the right to obtain any personal information which **XEMarkets** holds about you and inform **XEMarkets** of any perceived inaccuracy. To make a request, please write to us, verifying your identity and specifying what information you require. We may charge a fee to cover the cost of verifying the application and locating, retrieving, reviewing and copying any material requested. We will acknowledge your request and respond to it within 40 days of receipt of your application and any applicable fee.
+You have (subject to certain exceptions) the right to obtain any personal information which **XM** holds about you and inform **XM** of any perceived inaccuracy. To make a request, please write to us, verifying your identity and specifying what information you require. We may charge a fee to cover the cost of verifying the application and locating, retrieving, reviewing and copying any material requested. We will acknowledge your request and respond to it within 40 days of receipt of your application and any applicable fee.
 
 ## Amendments to policy
 
 We reserve the right to change this policy at any time. If any changes are made, an updated version will be posted on this page.
+
+**Risk Warning:** Forex, Commodities, Options and CFDs (OTC Trading) are leveraged products that carry a substantial risk of loss up to your invested capital and may not be suitable for everyone. Please ensure that you fully understand the risks involved and do not invest money you cannot afford to lose. Please refer to our full [Risk Disclosure](https://web.archive.org/assets/pdf/docs/XM_Risk-Disclosures-for-Financial-Instruments.pdf).
