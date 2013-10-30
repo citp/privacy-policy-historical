@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the sketchup.com privacy policy that was archived on 2013-05-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130530190025id_/http%3A//www.trimble.com/privacy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the sketchup.com privacy policy that was archived on 2013-10-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131030015233id_/http%3A//www.trimble.com/privacy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3c.org/TR/1999/REC-html401-19991224/loose.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
     <title>Trimble - Online Privacy</title>
@@ -8,7 +8,14 @@
 	<meta name="abstract" content="Trimble provides positioning solutions enabling professionals in engineering and construction"> 
 	<meta name="keywords" content="trimble, engineering and construction, precision agriculture, field and mobile worker, advanced devices, surveying, agriculture, fleet management and field service, construction, construction asset management, mining, surveying, network infrastructure, agriculture, automated steering, GPS guidance systems, water management, mapping and GIS, public safety, rugged handheld computers, utilities field solutions, Fleet Management Solutions, embedded systems, defense, precise timing">
     	<link rel="shortcut icon" href="favicon.ico">
-	<script type="text/javascript" src="/js/google_analytics.js"></script>    
+	<script type="text/javascript" src="/js/jQuery-1.7.1.min.js"></script>
+	<script type="text/javascript" src="/js/google_analytics.js"></script>
+	
+	<!-- for sli searh added by JM-->
+	<link rel="stylesheet" type="text/css" href="//assets.resultspage.com/js/rac/sli-rac.1.5.css">
+	<link rel="stylesheet" type="text/css" href="//trimble.resultspage.com/rac/sli-rac.css">
+	<!-- end for sli searh -->
+    
 	<link href="http://fonts.googleapis.com/css?family=Oswald" rel="stylesheet" type="text/css">
     <link rel="stylesheet" type="text/css" href="/theme/global_theme.css" media="all">
     <link rel="stylesheet" type="text/css" href="/theme/global_wrapper.css" media="all">
@@ -41,167 +48,239 @@
 </head>
 <body>
     <div class="globalcontent"> 
-		  	<!--globalheader-->
-  	<div class="globalheader">        
-        <table style="width:100%" cellpadding="5" cellspacing="4" border="0">
-			<tbody><tr style="vertical-align:middle;">
-				<td align="left" style="padding:5px;"><a href="/"><img src="/graphics/trimblelogo_hp.jpg" border="0" alt="Trimble"></a></td>
-				<td align="center" style="padding:10px;" width="12%"><a href="/worldwide.aspx"><img src="/graphics/icon_worldwide.png" alt="Trimble Worldwide" border="0"></a><br><span><a href="http://www.trimble.com/worldwide.aspx" style="font-size:9px; text-decoration:none; color:#33aaff;">Trimble Worldwide</a></span></td>
-				<td align="center" style="padding:10px;" width="12%"><a href="http://dealerlocator.trimble.com"><img src="/graphics/icon_where_to_buy.png" border="0" alt="Dealer Locator/Where to buy" style="vertical-align:middle;"></a><br><span><a href="http://dealerlocator.trimble.com" style="font-size:9px; text-decoration:none; color:#33aaff;">Where to Buy</a></span></td>
-				<td align="center" style="padding:10px;" width="12%"><a href="http://splocator.trimble.com/locator"><img src="/graphics/icon_service_locator.png" border="0" alt="Service Provider Locator" style="vertical-align:middle;"></a><br><span><a href="http://splocator.trimble.com/locator/" style="font-size:9px; text-decoration:none; color:#33aaff;">Service Centers</a></span></td>
-				<td align="right" valign="middle" style="padding:15px 10px 0px 0px;">
-               	<form accept-charset="iso-8859-1" action="http://trimble.resultspage.com/search" method="get" name="seek1" style="vertical-align:middle; margin:0px; padding:0px;">
-					<input type="hidden" name="p" value="Q"><input type="hidden" name="ts" value="custom">
-					<input type="text" name="w" size="16" value="" style="height:12px; font-size:11px;width:">
-					<span style="">
-					<a style="font-size:10px; text-decoration:none; color:#33aaff;" href="javascript:self.document.seek1.submit()" onmouseover="parent.status='Search Trimble'; return true;" onmouseout="parent.status=''; return true;">
-					Search</a></span><br><a style="font-size:10px; text-decoration:none; color:#33aaff;" href="http://trimble.resultspage.com/">Popular Searches</a>
-				</form>
-                </td>
-            </tr>
-		</tbody></table>
+		<!--This is intentionally left EMPTY for future use--> 
+
+<link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Titillium+Web">
+<link rel="stylesheet" type="text/css" href="/theme/includes/menu/styles/header.css">
+<link rel="stylesheet" type="text/css" href="/theme/includes/menu/styles/main_menu.css">
+
+<script type="text/javascript" src="/theme/includes/menu/js/jquery_002.js"></script>
+<script>
+		jQuery(function() {
+			$('.topsearch .search').focus(function () {
+			    if (this.value == 'Search...') {
+			      this.value = '';
+			    }
+		    });
+			$('.topsearch .search').blur(function () {
+			    if (this.value == '') {
+			      this.value = 'Search...';
+			    }
+			});
+			$('.topsearch .search').on('keydown',function(e){
+			    if( e.which == 13)
+			        startSearch();
+			});
+			$('.topsearch input[name="Submit"]').click(function () {
+			    startSearch();
+			});
+			$('.menuTemplate1 .dropimg img').hover( swapImage, restoreImage);
+		});
+		function startSearch(){
+		  window.location.href = 'http://trimble.resultspage.com/search?p=Q&ts=custom&Submit=Submit+Query&w='+ $('.topsearch .search').val();
+		}
+		function swapImage(){
+		  $(this).attr('src', $(this).parent().data('hover-icon'));
+		}
+		
+		function restoreImage(){
+		  $(this).attr('src', $(this).parent().data('icon'));
+		}
+</script>
+<div style="width:auto; background-color:#fff; display:block;">
+<!-- ******************************** Header ******************************** -->
+  <div id="container_top">
+    <div class="container">
+      <div id="partners"><a href="http://www.trimble.com/partners/partners/">partners</a></div>
+      <div class="top_links"><a href="http://www.trimble.com/worldwide.aspx">trimble worldwide</a></div>
+      <div class="trimble_worldwide header_icon"></div>
+      <div class="top_links"><a href="http://splocator.trimble.com/locator" target="_blank">service centers</a></div>
+      <div class="service_center header_icon"></div>
+      <div class="top_links"><a href="http://dealerlocator.trimble.com/" target="_blank">dealer locator</a></div>
+      <div class="dealer_locator header_icon"></div>
     </div>
-    <!--end of globalheader-->    <link rel="stylesheet" type="text/css" href="/theme/global_menu.css">
-    <!--menu-->
-    <div id="tnav">
-        <div id="tnavmenu">
-            <ul id="nav">
-                <li id="header01">PRODUCTS &amp; SOLUTIONS
-                    <ul id="pssize">
-                      <li><a href="/products_az.aspx">Product A-Z List</a></li>
-                      <li><a href="/product_types.aspx">Product Types</a></li>
-                      <li><a href="/global-services/">Global Services</a></li>
-                      <li><a href="/locator/locator.aspx">Where to Buy Products</a></li>
-                      <li><a href="/termsofsale/">Terms and Conditions of Sales</a></li>
-                      <li class="subheader"><strong>Engineering &amp; Construction</strong></li>
-                      <li class="subheaderlnk"><a href="/alignment/">Alignment Planning</a></li>
-                      <li class="subheaderlnk"><a href="/construction/building-construction/">Building Construction</a></li>
-                      <li class="subheaderlnk"><a href="/construction/heavy-civil/">Heavy Civil Construction</a></li>
-                      <li class="subheaderlnk"><a href="/tcl/">Construction Logistics</a></li>
-                        <li class="subheaderlnk"><a href="/construction/construction-project-management/">Construction Project Management</a></li>
-                      <li class="subheaderlnk"><a href="/construction-tools/">Construction Tools</a></li>
-                      <li class="subheaderlnk"><a href="/energysolutions/">Energy Solutions</a></li>
-                      <li class="subheaderlnk"><a href="/environmental-solutions/">Environmental Solutions</a></li>
-                      <li class="subheaderlnk"><a href="/imaging/">Imaging</a></li>
-                      <li class="subheaderlnk"><a href="/infrastructure/">Infrastructure</a></li>
-                      <li class="subheaderlnk"><a href="/land-administration/">Land Administration</a></li>
-                      <li class="subheaderlnk"><a href="/construction/marine/">Marine Construction</a></li>
-                      <li class="subheaderlnk"><a href="/mining/">Mining</a></li>
-                      <li class="subheaderlnk"><a href="/oil-gas-chemical/">Oil, Gas and Chemical</a></li>
-                      <li class="subheaderlnk"><a href="/positioning-services/">Positioning Services</a></li>
-                      <li class="subheaderlnk"><a href="/rail/">Railway Solutions</a></li>
-                      <li class="subheaderlnk"><a href="/survey/">Surveying</a></li>
-                      <li class="subheaderlnk"><a href="/utilities/">Utilities</a></li>
-                      <li class="subheader"><strong>Agriculture Solutions</strong></li>
-                      <li class="subheaderlnk"><a href="/agriculture/">Precision Agriculture</a></li>
-                      <li class="subheaderlnk"><a href="/agriculture/Guidance_and_Steering.aspx">Guidance and Steering</a></li>
-                      <li class="subheaderlnk"><a href="/agriculture/info-management.aspx">Information Management</a></li>
-                      <li class="subheaderlnk"><a href="/agriculture/Planting_Pest_Nutrient_Management.aspx">Planting, Pest/Nutrient Management</a></li>
-                      <li class="subheaderlnk"><a href="/agriculture/harvest.aspx">Harvest</a></li>
-                      <li class="subheaderlnk"><a href="/agriculture/water-management.aspx">Water Management</a></li>
-                      <li class="subheader"><strong>Field and Mobile Worker</strong></li>
-                      <li class="subheaderlnk"><a href="/mappingGIS/">Mapping &amp; GIS</a></li>
-                      <li class="subheaderlnk"><a href="/public-safety/">Public Safety</a></li>
-                      <li class="subheaderlnk"><a href="/Outdoor-Rugged-Computers/">Rugged Handheld Computers</a></li>
-                      <li class="subheaderlnk"><a href="/utilities_field_solutions/">Utilities Field Solutions</a></li>
-                      <li class="subheaderlnk"><a href="/fsm/">Field Service Management</a></li>
-                       <li class="subheaderlnk"><a href="/forestry/">Forestry</a></li>
-                      <li class="subheaderlnk"><a href="/trimble-retail-services/">Trimble Retail Services</a></li>
-                       <li class="subheaderlnk"><a href="/transportation-logistics/">Transportation &amp; Logistics</a></li>
-                       <li class="subheaderlnk"><a href="/localgovernment/">Local Government</a></li>
-                      <li class="subheader"><strong>Advanced Devices</strong></li>
-                      <li class="subheaderlnk"><a href="/embeddedsystems/">Embedded Systems</a></li>
-                      <li class="subheaderlnk"><a href="/defense/">Defense</a></li>
-                      <li class="subheaderlnk"><a href="/timing/">Time &amp; Frequency</a></li>
-                      <li class="subheaderlnk"><a href="/gnss-inertial/">Precision GNSS + Inertial</a></li>
-                      <li class="subheaderlnk"><a href="/Indoor-Mobile-Mapping-Solution/">Indoor Mobile Mapping Solution</a></li>
-                      <li class="subheader"><strong>Government</strong></li>
-                      <li class="subheaderlnk"><a href="/federal-government/">U.S. Federal Government</a></li>
-                    </ul>
-                </li>
-                
-                <li id="header02">SUPPORT &amp; TRAINING
-                    <ul id="stsize">
-                      <li class="subheader"><strong>Support</strong></li>
-                      <li class="subheaderlnk"><a href="/register/">Customer Product Registration</a></li>
-                      <li class="subheaderlnk"><a href="/support/technical_support.aspx">Technical Support</a></li>
-                      <li class="subheaderlnk"><a href="/support/Regional_Service_Centers.aspx">Repair Services</a></li>
-                      <li class="subheaderlnk"><a href="/support/Order_Fulfillment.aspx">Order Fulfillment</a></li>
-                      <li class="subheaderlnk"><a href="/locator/locator.aspx">Find a Dealer</a></li>
-                      <li class="subheaderlnk"><a href="/serviceproviderlocator/">Find a Service Provider</a></li>
-                      <li class="subheaderlnk"><a href="/support/support_az.aspx">Support A-Z List</a></li>
-                      <li class="subheaderlnk"><a href="/global-services/">Global Services</a></li>
-                      <li class="subheaderlnk"><a href="/MRMSupportandServices/">MRM Support and Services</a></li>
-                      <li class="subheader"><strong>Trimble Knowledge Network</strong></li>
-                      <li class="subheaderlnk"><a href="/tkn/"><strong>Trimble Knowledge Network</strong></a></li>
-                      <li class="subheaderlnk"><a href="http://tknlc.trimble.com/" target="_blank"><strong>Learning Center</strong></a></li>
-                      <li class="subheaderlnk"><a href="http://tknsc.trimble.com/" target="_blank"><strong>Solution Center</strong></a></li>
-                      <li class="subheader"><strong>Trimble Assistant</strong></li>
-                      <li class="subheaderlnk"><a href="/tkn/trimble-assistant.aspx"><strong>Trimble Assistant</strong></a></li>
-                      <li class="subheader"><strong>Training</strong></li>
-                      <li class="subheaderlnk"><a href="/global-services/training.aspx">Training</a></li>
-                      <li class="subheaderlnk"><a href="/contacts/certified_training.aspx">Find a Trainer</a></li>
-                      <li class="subheader"><strong>Partners</strong></li>
-                      <li class="subheaderlnk"><a href="/partners.aspx">Partners Site</a></li>
-                      <li class="subheader"><strong>Reference Information</strong></li>
-                      <li class="subheaderlnk"><a href="/findbeacon.asp">Beacon Reference Station List</a></li>
-                      <li class="subheaderlnk"><a href="/findtrs.asp">Global Reference Station List</a></li>
-                      <li class="subheaderlnk"><a href="/gpsdataresources.shtml">GPS Data Resources</a></li>
-					  <li class="subheaderlnk"><a href="/gps_tutorial">GPS Tutorial</a></li>
-                    </ul>
-                </li>
-                
-                <li id="header03">ABOUT&nbsp;TRIMBLE
-                    <ul id="atsize">
-                      <li><a href="/corporate/about_trimble.aspx">About Trimble</a></li>
-                      <li><a href="/corporate/about_at_glance.aspx">Quick Facts</a></li>
-                      <li><a href="/corporate/about_technology.aspx">Trimble Technology</a></li>
-                      <li><a href="/corporate/about_executives.aspx">Executive Team</a></li>
-                      <li><a href="/corporate/about_board_of_directors.aspx">Board of Directors</a></li>
-                      <li><a href="/corporate/about_locations.aspx">Locations</a></li>
-                      <li><a href="/corporate/about_history.aspx">History</a></li>
-                      <li><a href="/corporate/about_companies.aspx">Trimble Companies</a></li>
-                      <li><a href="/careers/">Careers</a></li>
-                      <li><a href="/trimbleevents.shtml">Events</a></li>
-                      <li><a href="/small_business">Small Business</a></li>
-                      <li><a href="/corporate/about_environmental_compliance.aspx">Environmental Compliance</a></li>
-                      <li><a href="/corporate/about_trade_compliance.aspx">Trade Compliance</a></li>
-                      <li><a href="/contacts">Contact Us</a></li>
-                    </ul>
-                </li>
-                  
-                <li id="header04">INVESTORS
-                    <ul id="isize">
-                      <li><a href="http://investor.trimble.com/">Investor Relations</a></li>
-                      <li><a href="http://investor.trimble.com/releases.cfm">Financial Releases</a></li>
-                      <li><a href="http://investor.trimble.com/faq.cfm">Frequently Asked Questions</a></li>
-                      <li><a href="http://investor.trimble.com/annuals.cfm">Annual Reports</a></li>
-                    </ul>
-                </li>
-                  
-                <li id="header05">NEWS&nbsp;ROOM
-                    <ul id="nrsize">
-                  <li><a href="/news/releases.aspx">
-                  <script type="text/javascript">
-                    <!-- 
-                    var theDate = new Date();
-                    document.write(theDate.getFullYear());
-                    //-->
-                  </script>2020 News Releases</a></li>
-                      <li><a href="/corporate/newsroom.aspx">News Room</a></li>
-                    </ul>
-                </li>
-            </ul>
-        </div>
+  </div>
+  <div id="container_header">
+    <div id="logo">
+      <a href="http://www.trimble.com">
+        <img src="http://www.trimble.com/theme/includes/menu/images/trimble_logo.png" alt="Trimble">
+      </a>
+      <div class="tag-line"><span class="orange">Transforming </span><span class="blue">the way the world works</span></div>
     </div>
-	<!--end of menu-->       
+    <div class="topsearch">
+      <div class="form">
+        <!--<input name="w" value="Search..." class="input search" />-->
+		<input type="text" name="w" size="16" value="Search..." onfocus="this.value=''" id="sli_search_1" autocomplete="off" class="input search">
+        <input name="Submit" type="submit" class="button">
+      </div>
+    </div>
+    <div class="navigationmenu">
+      <ul class="menuTemplate1 decor1_1" license="mylicense">
+        <li>
+          <a href="" class="arrow">Industries</a>
+          <div class="drop decor1_1 full-width">
+            <div class="left">
+              <div class="dropimg">
+                <a href="http://www.trimble.com/Agriculture/index.aspx" data-icon="http://www.trimble.com/theme/includes/menu/images/simpleFullWidth/thumbs/AgBanner_global.jpg" data-hover-icon="http://www.trimble.com/theme/includes/menu/images/simpleFullWidth/thumbs/AgBanner_global.jpg">
+                  <img src="http://www.trimble.com/theme/includes/menu/images/simpleFullWidth/thumbs/AgBanner_global.jpg" alt="Agriculture"></a><br><a href="http://www.trimble.com/Agriculture/index.aspx" class="link">Agriculture</a></div>
+            </div>
+            
+            <div class="left">
+              <div class="dropimg">
+                <a href="http://www.trimble.com/Industries/Construction/index.aspx" data-icon="http://www.trimble.com/theme/includes/menu/images/simpleFullWidth/thumbs/TrimbleInfrastructureAndBuildingsBanner_global.jpg" data-hover-icon="http://www.trimble.com/theme/includes/menu/images/simpleFullWidth/thumbs/TrimbleInfrastructureAndBuildingsBanner_global.jpg"><img src="http://www.trimble.com/theme/includes/menu/images/simpleFullWidth/thumbs/TrimbleInfrastructureAndBuildingsBanner_global.jpg" alt="Construction"></a><br><a href="http://www.trimble.com/Industries/Construction/index.aspx" class="link">Construction</a>
+              </div>
+            </div>           
+            
+            <div class="left">
+              <div class="dropimg">
+                <a href="http://www.trimble.com/Industries/GeoSpatial/index.aspx" data-icon="http://www.trimble.com/theme/includes/menu/images/simpleFullWidth/thumbs/GeospatialBanner_global.jpg" data-hover-icon="http://www.trimble.com/theme/includes/menu/images/simpleFullWidth/thumbs/GeospatialBanner_global.jpg"><img src="http://www.trimble.com/theme/includes/menu/images/simpleFullWidth/thumbs/GeospatialBanner_global.jpg" alt="Geospatial"></a><br><a href="http://www.trimble.com/Industries/GeoSpatial/index.aspx" class="link">Geospatial</a>
+              </div>
+            </div>
+            
+            <div class="left">
+              <div class="dropimg">
+                <a href="http://www.trimble.com/Industries/Natural_Resources/index.aspx" data-icon="http://www.trimble.com/theme/includes/menu/images/simpleFullWidth/thumbs/NaturalResourcesGovBanner_global.jpg" data-hover-icon="http://www.trimble.com/theme/includes/menu/images/simpleFullWidth/thumbs/NaturalResourcesGovBanner_global.jpg"><img src="http://www.trimble.com/theme/includes/menu/images/simpleFullWidth/thumbs/NaturalResourcesGovBanner_global.jpg" alt="Natural Resources, Utilities &amp; Government"></a><br><a href="http://www.trimble.com/Industries/Natural_Resources/index.aspx" class="link">Natural Resources,<br>Utilities &amp; Government</a>
+              </div>
+            </div>
+            <div class="left">
+              <div class="dropimg">
+                <a href="http://www.trimble.com/Industries/Transportation_Logistics/index.aspx" data-icon="http://www.trimble.com/theme/includes/menu/images/simpleFullWidth/thumbs/TLBanner_global.jpg" data-hover-icon="http://www.trimble.com/theme/includes/menu/images/simpleFullWidth/thumbs/TLBanner_global.jpg"><img src="http://www.trimble.com/theme/includes/menu/images/simpleFullWidth/thumbs/TLBanner_global.jpg" alt="Transportation &amp; Logistics"></a><br><a href="http://www.trimble.com/Industries/Transportation_Logistics/index.aspx" class="link">Transportation &amp;<br>Logistics</a>
+              </div>
+            </div>
+            <div class="left">
+              <div class="dropimg">
+                <a href="http://www.trimble.com/Industries/More/index.aspx" data-icon="http://www.trimble.com/theme/includes/menu/images/simpleFullWidth/thumbs/all_industry_thumb.jpg" data-hover-icon="http://www.trimble.com/theme/includes/menu/images/simpleFullWidth/thumbs/all_industry_thumb.jpg"><img src="http://www.trimble.com/theme/includes/menu/images/simpleFullWidth/thumbs/all_industry_thumb.jpg" alt="All Industries &amp; Applicaitons"></a><br><a href="http://www.trimble.com/Industries/More/index.aspx" class="link">All Industries &amp;<br>Applications</a>
+              </div>
+            </div>
+          </div>
+        </li>
+        <li>
+          <a href="http://www.trimble.com/Product/products_main.aspx" class="arrow">Products</a>
+          <div class="drop decor1_2 dropToLeft2 full-width lpad10">
+            <div class="left">
+              <p class="leftbold"><a href="http://www.trimble.com/Product/products_main.aspx">Products by Industry</a></p>
+            </div>
+            <div class="left">
+              <p class="leftbold"><a href="http://www.trimble.com/Product/Product_Segments.aspx">Products by Segment</a></p>
+            </div>
+          </div>
+        </li>
+        <li>
+          <a href="" class="arrow">Investors</a>
+          <div class="drop decor1_2 dropToLeft2 full-width lpad10">
+            <div class="left">
+              <p class="leftbold"><a href="http://investor.trimble.com/" target="_blank">Investor Relations </a></p>
+            </div>
+            <div class="left">
+              <p class="leftbold"><a href="http://investor.trimble.com/annuals.cfm" target="_blank">Financial Releases </a></p>
+            </div>
+            <div class="left">
+              <p class="leftbold"><a href="http://investor.trimble.com/annuals.cfm" target="_blank">Annual Reports </a></p>
+            </div>
+            <div class="left">
+              <p class="leftbold"><a href="http://investor.trimble.com/faq.cfm" target="_blank">Investor FAQs</a></p>
+            </div>
+          </div>
+        </li>
+        <li>
+          <a href="" class="arrow">Support &amp; Training</a>
+          <div class="drop decor1_2 dropToLeft1 full-width lpad10">
+            <div class="left">
+              <p class="leftbold"><a href="http://www.trimble.com/Support/Index_Support.aspx">Global Support</a></p>
+            </div>           	
+            <div class="left">
+              <p class="leftbold"><a href="http://www.trimble.com/Support/Index_Training.aspx">Global Training </a></p>
+            </div>
+            <div class="left">
+              <p class="leftbold"><a href="http://www.trimble.com/global-services/default.aspx">Global Services </a></p>
+            </div>            
+            <div class="left">
+              <p class="leftbold"><a href="http://www.trimble.com/tkn/">Trimble Knowledge Network</a></p>
+            </div>            
+            <div class="left">
+              <p class="leftbold"><a href="http://www.trimble.com/Support/Support_AZ.aspx">Support A-Z</a></p>
+            </div>
+            <div class="left">
+              <p class="leftbold"><a href="http://www.trimble.com/Support/order_fulfillment.aspx">Order Fullfillment </a></p>
+            </div>
+            <div class="left">
+              <p class="leftbold"><a href="https://login.trimble.com/cas/login?service=http%3a%2f%2fsupport.trimble.com%2fCPRS%2fModules%2fLogon%2fcas.aspx%3fa%3db%26ReturnUrl%3d%2fCPRS%2fhome.aspx" target="_blank">Product Registration</a></p>
+            </div>         
+        </div></li>       
+        
+        <li>
+          <a href="" class="arrow">Careers</a>
+          <div class="drop decor1_2 dropToLeft3 full-width lpad10">
+            <div class="left">
+              <p class="leftbold"><a href="http://www.trimble.com/careers/">Trimble Careers </a></p>
+            </div>
+            <div class="left">
+              <p class="leftbold"><a href="http://www.trimble.com/careers/">Find a Job </a></p>
+            </div>
+            <div class="left">
+              <p class="leftbold"><a href="http://www.trimble.com/careers/Recent-Graduates.aspx">Recent Graduates </a></p>
+            </div>
+            <div class="left">
+              <p class="leftbold"><a href="http://www.trimble.com/careers/trimble-values.aspx">Trimble Values </a></p>
+            </div>
+            <div class="left">
+              <p class="leftbold"><a href="http://www.trimble.com/careers/College-and-Intern.aspx">University And Intern </a></p>
+            </div>
+            <div class="left">
+              <p class="leftbold"><a href="http://www.trimble.com/careers/faq.aspx">FAQ </a></p>
+            </div>
+          </div>
+        </li>
+        <li>
+          <a href="" class="arrow">About</a>
+          <div class="drop decor1_2 dropToLeft4 full-width lpad10">
+            <div class="left">
+              <p class="leftbold"><a href="http://www.trimble.com/Corporate/About_Trimble.aspx">About Trimble</a></p>
+            </div>
+            <div class="left">
+              <p class="leftbold"><a href="http://www.trimble.com/Corporate/About_at_Glance.aspx">At a Glance</a></p>
+            </div>
+            <div class="left">
+              <p class="leftbold"><a href="http://www.trimble.com/Corporate/About_Locations.aspx">Locations</a></p>
+            </div>
+            <div class="left">
+              <p class="leftbold"><a href="http://www.trimble.com/Corporate/About_Companies.aspx">Companies </a></p>
+            </div>
+            <div class="left">
+              <p class="leftbold"><a href="http://www.trimble.com/Corporate/Environmental_Compliance.aspx">Compliances </a></p>
+            </div>           
+            <div class="left">
+              <p class="leftbold"><a href="http://www.trimble.com/Corporate/About_History.aspx">Company History </a></p>
+            </div>
+            <div class="left">
+              <p class="leftbold"><a href="http://www.trimble.com/Corporate/Newsroom.aspx">News Room</a></p>
+            </div>
+            <div class="left">
+              <p class="leftbold"><a href="http://www.trimble.com/Corporate/About_Executives.aspx">Leadership</a></p>
+            </div>
+            <div class="left">
+              <p class="leftbold"><a href="http://www.trimble.com/Corporate/Small_Business.aspx">Small Business </a></p>
+            </div>            
+            <div class="left">
+              <p class="leftbold"><a href="http://www.trimble.com/Corporate/About_Technology.aspx">Technology</a></p>
+            </div>
+             <div class="left">
+              <p class="leftbold"><a href="http://www.trimble.com/Corporate/Contacts.aspx">Contacts</a></p>
+            </div>            
+          </div>
+        </li>             
+      </ul>
+    </div>
+  </div>
+</div>       
 		<div class="pagetitle">
             <h1>Online Privacy</h1>
             <div class="bc"><a href="/index.aspx">Trimble Home</a> &gt; Online Privacy</div>
         </div><!-- end pageTitle -->
         <div id="container_body"> 
-            <div style="width: 900px; margin: 10px auto 0px auto;">                
-                <div class="fullbody" style="margin:5px 12px 0px 12px;">
+            <div class="sub_content">
+				<br>   
+            	<div style="width: 900px; margin: 10px auto 0px auto;"> 
                 	<h3 style="">Trimble's Commitment to Online Privacy</h3>
 
                     <p>Last updated: May 10, 2012</p>
@@ -235,6 +314,8 @@
                     <a href="http://trimble.training.learn.com" target="_new">http://trimble.training.learn.com</a><br>
                     <a href="https://vrsnowstore.trimble.com" target="_new">https://vrsnowstore.trimble.com</a><br>
                     <a href="http://www.trimble-productivity.com" target="_new">http://www.trimble-productivity.com</a><br>
+                    <a href="http://www.trimble-terraflex.com" target="_new">http://www.trimble-terraflex.com</a> <br>
+                    
 					<a href="http://www.thingmagic.com" target="_new">http://www.thingmagic.com</a><br>
                     <br>
                     <br>
@@ -497,291 +578,139 @@
         
             <div style="clear:both"></div>
         </div><!-- end ContainerBody --> 
-        	<!-- globalfooter --> 
-    <div class="globalfooter">
-        <div class="bnav">
-            <a href="/sitemap.aspx">SITE MAP</a>
-            <a href="http://www.trimble.com/careers/">CAREERS</a>
-            <a href="/contacts">CONTACTS</a>
-            <a href="/privacy.aspx">PRIVACY STATEMENT</a>
-            <a href="/legal.aspx">TERMS OF USE</a>
-            <a href="/copyrights.aspx">© COPYRIGHT 
-            <script type="text/javascript" language="JavaScript">
-            <!-- Begin
-            Stamp = new Date();
-            year = Stamp.getYear();
-            if (year < 2000) year = 1900 + year;
-            document.write(year);
-            // End -->
-            </script>2020, TRIMBLE NAVIGATION LIMITED</a>
+        
+<link rel="stylesheet" type="text/css" href="/theme/includes/menu/styles/footer.css">
+<script type="text/javascript" src="/theme/includes/menu/js/jquery_002.js"></script>
+<script>
+		jQuery(function() {
+		      $('.container_footer').show();
+		      $('.socialicons-container ul.socialicons li a img').hover( swapImage, restoreImage);
+		});
+		function swapImage(){
+		  $(this).attr('src', $(this).parent().data('hover-icon'));
+		}
+		
+		function restoreImage(){
+		  $(this).attr('src', $(this).parent().data('icon'));
+		}
+</script>
+
+
+
+<!-- ********************************  Footer ******************************** -->
+
+<div class="container_footer" style="display:block">
+    <div class="container">
+      <div class="footer_heading">About Trimble
+        <div class="padd8"></div>
+        <div class="footer_links">
+          <ul class="footerli">
+            <li><a href="/Corporate/About_at_Glance.aspx">Trimble at a Glance</a></li>
+            <li><a href="/Corporate/About_Executives.aspx">Executive Team</a></li>
+            <li><a href="/Corporate/About_History.aspx">History</a></li>
+            <li><a href="/Corporate/About_Companies.aspx">Trimble Companies</a></li>
+          </ul>
         </div>
+      </div>
+      <div class="footer_heading margl10">Investors
+        <div class="padd8"></div>
+        <div class="footer_links">
+          <ul class="footerli">
+            <li><a href="http://investor.trimble.com/" target="_blank">Investor Relations</a></li>
+            <li><a href="http://investor.trimble.com/releases.cfm" target="_blank">Financial Releases</a></li>
+            <li><a href="http://investor.trimble.com/annuals.cfm" target="_blank">Annual Reports</a></li>
+            <li><a href="http://investor.trimble.com/faq.cfm" target="_blank">FAQ</a></li>           
+           
+          </ul>
+        </div>
+      </div>
+      <div class="footer_heading margl10">Support
+        <div class="padd8"></div>
+        <div class="footer_links">
+          <ul class="footerli">
+            <li><a href="/Support/Support_AZ.aspx">Support A-Z</a></li>
+            <li><a href="/tkn/">Trimble Knowledge Network</a></li>
+            <li><a href="/Support/Protected.aspx">Trimble Protected</a></li>
+            <li><a href="https://login.trimble.com/cas/login?service=http%3a%2f%2fsupport.trimble.com%2fCPRS%2fModules%2fLogon%2fcas.aspx%3fa%3db%26ReturnUrl%3d%2fCPRS%2fhome.aspx" target="_blank">Product Registration</a></li>
+          </ul>
+        </div>
+      </div>
+      <div class="footer_heading margl10">News Room
+        <div class="padd8"></div>
+        <div class="footer_links">
+          <ul class="footerli">
+            <li><a href="/news/releases.aspx">News Releases</a></li>
+            <li><a href="/Corporate/Newsroom.aspx">News Room</a>
+          </li></ul>
+        </div>
+      </div>
+      <div class="footer_heading margl10">Contact Us
+        <div class="padd8"></div>
+        <div class="footer_links">
+          <ul class="footerli">
+            <li><a href="/Support/Technical_Support.aspx">Technical Support</a></li>
+            <li><a href="/Corporate/Public_Relations.aspx">Public Relations</a></li>
+            <li><a href="mailto:willa_mcmanmon@trimble.com">Investor Relations</a></li>
+            <li><a href="/global-services/training.aspx">Product Training</a></li>
+            <li><a href="/corporate/about_locations.aspx">Trimble Locations</a></li>
+             <li><a href="http://dealerlocator.trimble.com/" target="_blank">Sales</a></li>            
+          </ul>
+        </div>
+      </div>
+      
+      <div class="clear-both"></div>
+      <div class="footer_menu">
+    <div class="links">
+        <a class="sitemap" href="/privacy.aspx">Privacy Statement</a>
+        <a class="sitemap" href="/legal.aspx">Terms Of Use</a>
+        <a class="sitemap" href="/Corporate/Contacts.aspx">Contacts</a>
+		<a class="sitemap" href="/copyrights.aspx">© Copyright <span id="scfooter_3_lblCopyright">2013</span>, Trimble Navigation Limited</a>
+      
+       </div>
+	</div>
+      <!-- <div class="copyrights">
+        
+      </div>
+       -->
+      <div class="socialicons-container">
+        <ul class="socialicons marginLeft10">
+          <li>
+            <a href="http://www.facebook.com/TrimbleCorporate" target="_blank" data-icon="/theme/includes/menu/images/facebook.png" data-hover-icon="/theme/includes/menu/images/facebook_m.png">
+              <img src="/theme/includes/menu/images/facebook.png" alt="Facebook" name="fbicon" id="fbicon">
+            </a>
+          </li>
+          <li>
+            <a href="http://twitter.com/TrimbleCorpNews" target="_blank" data-icon="/theme/includes/menu/images/twitter.png" data-hover-icon="/theme/includes/menu/images/twitter_m.png">
+              <img src="/theme/includes/menu/images/twitter.png" alt="Twitter" name="twittericon" id="twittericon">
+            </a>
+          </li>
+          <li>
+            <a href="http://www.linkedin.com/company/trimble-navigation" target="_blank" data-icon="/theme/includes/menu/images/linkedin.png" data-hover-icon="/theme/includes/menu/images/linkedin_m.png">
+              <img src="/theme/includes/menu/images/linkedin.png" alt="Linkedin" name="linkedinicon" id="linkedinicon">
+            </a>
+          </li>
+          <!--<li>
+            <a href="#" data-icon="/theme/includes/menu/images/youtube.png" data-hover-icon="/theme/includes/menu/images/youtube_m.png">
+              <img src="/theme/includes/menu/images/youtube.png" alt="Youtube" name="youtubeicon" id="youtubeicon">
+            </a>
+          </li>-->
+          <li>
+            <a href="/contacts/index.aspx" data-icon="/theme/includes/menu/images/mail.png" data-hover-icon="/theme/includes/menu/images/mail_m.png">
+              <img src="/theme/includes/menu/images/mail.png" alt="Mail">
+            </a>
+          </li>
+          
+        </ul>
+      </div>
+      <div class="clear-both"></div>
     </div>
-    <!-- end globalfooter -->
-	<!-- START OF SmartSource Data Collector TAG -->
-	<!-- Copyright (c) 1996-2005 WebTrends Inc.  All rights reserved. -->
-	<!-- V7.5 -->
-	<!-- $DateTime$ -->
-	<script language="Javascript" type="text/javascript"><!--
-	gVersion="1.0";
-	//-->
-	</script>
-	<script language="Javascript1.1" type="text/javascript"><!--
-	gVersion="1.1";
-	//-->
-	</script>
-	<script language="Javascript1.2" type="text/javascript"><!--
-	gVersion="1.2";
-	var RE={"%09":/\t/g,"%20":/ /g,"%23":/\#/g,"%26":/\&/g,"%2B":/\+/g,"%3F":/\?/g,"%5C":/\\/g};
-	//-->
-	</script>
-	<script language="Javascript1.3" type="text/javascript"><!--
-	gVersion="1.3";
-	if (window.ActiveXObject){
-		var gFV="";
-		for (var gVer=2;gVer<=10;gVer++){
-			try{
-				var gFlash = eval("new ActiveXObject('ShockwaveFlash.ShockwaveFlash."+gVer+"');");
-				if (gFlash){
-					gFV=gVer+".0";
-					break;
-				}
-			}
-			catch(e){
-			}
-		}
-	}
-	//-->
-	</script>
-	<script language="Javascript1.4" type="text/javascript"><!--
-	gVersion="1.4";
-	//-->
-	</script>
-	<script language="Javascript1.5" type="text/javascript"><!--
-	gVersion="1.5";
-	//-->
-	</script>
-	<script language="JavaScript" type="text/javascript"><!--
-	var gImages=new Array;
-	var gIndex=0;
-	var DCS=new Object();
-	var WT=new Object();
-	var DCSext=new Object();
-	var gQP=new Array();
-	
-	var gDomain="sdc.trimble.com";
-	var gDcsId="dcs1boi9gm7t49qu10z8zfxdh_3r7v";
-	
-	function dcsMultiTrack(){
-		if (arguments.length%2==0){
-			for (var i=0;i<arguments.length;i+=2){
-				if (arguments[i].indexOf('WT.')==0){
-				WT[arguments[i].substring(3)]=
-				arguments[i+1];
-				}
-				else if (arguments[i].indexOf('DCS.')==0){
-				DCS[arguments[i].substring(4)]=
-				arguments[i+1];
-				}
-				else if (arguments[i].indexOf('DCSext.')==0){
-				DCSext[arguments[i].substring(7)]=
-				arguments[i+1];
-				}
-			}
-			var dCurrent=new Date();
-			DCS.dcsdat=dCurrent.getTime();
-			dcsTag();
-		}
-	}
-		// End dcsMultiTrack Function
-	
-	if ((typeof(gConvert)!="undefined")&&gConvert&&(document.cookie.indexOf(gFpc+"=")==-1)){
-		document.write("<SCR"+"IPT Language='JavaScript' SRC='"+"http://"+gDomain+"/"+gDcsId+"/wtid.js"+"'><\/SCR"+"IPT>");
-	}
-	//-->
-	</script>
-	<script language="Javascript" type="text/javascript"><!--
-	function dcsVar(){
-		var dCurrent=new Date();
-		WT.tz=dCurrent.getTimezoneOffset()/60*-1;
-		if (WT.tz==0){
-			WT.tz="0";
-		}
-		WT.bh=dCurrent.getHours();
-		WT.ul=navigator.appName=="Netscape"?navigator.language:navigator.userLanguage;
-		if (typeof(screen)=="object"){
-			WT.cd=navigator.appName=="Netscape"?screen.pixelDepth:screen.colorDepth;
-			WT.sr=screen.width+"x"+screen.height;
-		}
-		if (typeof(navigator.javaEnabled())=="boolean"){
-			WT.jo=navigator.javaEnabled()?"Yes":"No";
-		}
-		if (document.title){
-			WT.ti=document.title;
-		}
-		WT.js="Yes";
-		if (typeof(gVersion)!="undefined"){
-			WT.jv=gVersion;
-		}
-		if (document.body&&document.body.addBehavior){
-			document.body.addBehavior("#default#clientCaps");
-			if (document.body.connectionType){
-				WT.ct=document.body.connectionType;
-			}
-			document.body.addBehavior("#default#homePage");
-			WT.hp=document.body.isHomePage(location.href)?"1":"0";
-		}
-		if (parseInt(navigator.appVersion)>3){
-			if ((navigator.appName=="Microsoft Internet Explorer")&&document.body){
-				WT.bs=document.body.offsetWidth+"x"+document.body.offsetHeight;
-			}
-			else if (navigator.appName=="Netscape"){
-				WT.bs=window.innerWidth+"x"+window.innerHeight;
-			}
-		}
-		WT.fi="No";
-		if (window.ActiveXObject){
-			if ((typeof(gFV)!="undefined")&&(gFV.length>0)){
-				WT.fi="Yes";
-				WT.fv=gFV;
-			}
-		}
-		else if (navigator.plugins&&navigator.plugins.length){
-			for (var i=0;i<navigator.plugins.length;i++){
-				if (navigator.plugins[i].name.indexOf('Shockwave Flash')!=-1){
-					WT.fi="Yes";
-					WT.fv=navigator.plugins[i].description.split(" ")[2];
-					break;
-				}
-			}
-		}
-		WT.sp="@@SPLITVALUE@@";
-		DCS.dcsdat=dCurrent.getTime();
-		DCS.dcssip=window.location.hostname;
-		DCS.dcsuri=window.location.pathname;
-		if (window.location.search){
-			DCS.dcsqry=window.location.search;
-			if (gQP.length>0){
-				for (var i=0;i<gQP.length;i++){
-					var pos=DCS.dcsqry.indexOf(gQP[i]);
-					if (pos!=-1){
-						var front=DCS.dcsqry.substring(0,pos);
-						var end=DCS.dcsqry.substring(pos+gQP[i].length,DCS.dcsqry.length);
-						DCS.dcsqry=front+end;
-					}
-				}
-			}
-		}
-		if ((window.document.referrer!="")&&(window.document.referrer!="-")){
-			if (!(navigator.appName=="Microsoft Internet Explorer"&&parseInt(navigator.appVersion)<4)){
-				DCS.dcsref=window.document.referrer;
-			}
-		}
-	}
-	
-	function A(N,V){
-		return "&"+N+"="+dcsEscape(V);
-	}
-	
-	function dcsEscape(S){
-		if (typeof(RE)!="undefined"){
-			var retStr = new String(S);
-			for (R in RE){
-				retStr = retStr.replace(RE[R],R);
-			}
-			return retStr;
-		}
-		else{
-			return escape(S);
-		}
-	}
-	
-	function dcsLoadHref(evt){
-		if ((typeof(gHref)!="undefined")&&(gHref.length>0)){
-			window.location=gHref;
-			gHref="";
-		}
-	}
-	
-	function dcsCreateImage(dcsSrc){
-		if (document.images){
-			gImages[gIndex]=new Image;
-			if ((typeof(gHref)!="undefined")&&(gHref.length>0)){
-				gImages[gIndex].onload=gImages[gIndex].onerror=dcsLoadHref;
-			}
-			gImages[gIndex].src=dcsSrc;
-			gIndex++;
-		}
-		else{
-			document.write('<img style="border:none;width:1;height:1;" name="DCSIMG" src="'+dcsSrc+'">');
-		}
-	}
-	
-	function dcsMeta(){
-		var elems;
-		if (document.all){
-			elems=document.all.tags("meta");
-		}
-		else if (document.documentElement){
-			elems=document.getElementsByTagName("meta");
-		}
-		if (typeof(elems)!="undefined"){
-			for (var i=1;i<=elems.length;i++){
-				var meta=elems.item(i-1);
-				if (meta.name){
-					if (meta.name.indexOf('WT.')==0){
-						WT[meta.name.substring(3)]=meta.content;
-					}
-					else if (meta.name.indexOf('DCSext.')==0){
-						DCSext[meta.name.substring(7)]=meta.content;
-					}
-					else if (meta.name.indexOf('DCS.')==0){
-						DCS[meta.name.substring(4)]=meta.content;
-					}
-				}
-			}
-		}
-	}
-	
-	function dcsTag(){
-		var P="http"+(window.location.protocol.indexOf('https:')==0?'s':'')+"://"+gDomain+(gDcsId==""?'':'/'+gDcsId)+"/dcs.gif?";
-		for (N in DCS){
-			if (DCS[N]) {
-				P+=A(N,DCS[N]);
-			}
-		}
-		for (N in WT){
-			if (WT[N]) {
-				P+=A("WT."+N,WT[N]);
-			}
-		}
-		for (N in DCSext){
-			if (DCSext[N]) {
-				P+=A(N,DCSext[N]);
-			}
-		}
-		if (P.length>2048&&navigator.userAgent.indexOf('MSIE')>=0){
-			P=P.substring(0,2040)+"&WT.tu=1";
-		}
-		dcsCreateImage(P);
-	}
-	
-	function dcsFunc(func){
-		if (typeof(window[func])=="function"){
-			window[func]();
-		}
-	}
-	
-	dcsVar();
-	dcsMeta();
-	dcsFunc("dcsAdv");
-	dcsTag();
-	//-->
-	</script>
-	
-	<noscript>
-	<img alt="" style="border:none;width:1;height:1;" name="DCSIMG" src="http://sdc.trimble.com/dcs1boi9gm7t49qu10z8zfxdh_3r7v/njs.gif?dcsuri=/nojavascript&amp;WT.js=No" />
-	</noscript>
-<!-- END OF SmartSource Data Collector  TAG -->	
+  </div>
+<!-- ******************************** End Of Footer ******************************** -->
+
+<!-- for sli searh added by JM-->
+<script type="text/javascript" src="//trimble.resultspage.com/rac/sli-rac.config.js"></script>
+<!-- end sli searh -->
+
      
     </div><!-- end globalContent -->
 
