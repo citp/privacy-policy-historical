@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the enterprisenation.com privacy policy that was archived on 2012-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120615165513id_/http%3A//www.enterprisenation.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the enterprisenation.com privacy policy that was archived on 2013-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131030155205id_/http%3A//www.enterprisenation.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy | Enterprise Nation, the small business community
+# Privacy policy | Enterprise Nation: Small business support
 
 ### What information do we collect?
 
@@ -9,12 +9,6 @@ We collect information from you when you register on our site, place an order, s
 When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address, phone number or credit card information.
 
 We do not store credit card or any other financial information about our customers.
-
-Google, as a third party vendor, uses cookies to serve ads on your site.
-
-Google’s use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet.
-
-Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
 
 ### What do we use your information for?
 
@@ -77,7 +71,7 @@ Enterprise Nation has put in place physical, electronic and managerial procedure
 
 ### Financial Information
 
-Customer payment information (credit cards, social security numbers, financials, etc.) are all processed securely through the PayPal® (Website Payments Pro) service. Enterprise Nation does not store any Customer financial information on it’s own servers, OR in it’s own databases; regardless of whether you enter your financial information at Bitsy or directly through PayPal®. For more information about PayPal® and their privacy policies, please visit: ( www.paypal.com ).
+Customer payment information (credit cards, social security numbers, financials, etc.) are all processed securely through the PayPal® (Website Payments Pro) service. Enterprise Nation does not store any Customer financial information on it’s own servers, OR in it’s own databases; regardless of whether you enter your financial information on Enterprise Nation or directly through PayPal®. For more information about PayPal® and their privacy policies, please visit: ( www.paypal.com ).
 
 ### Third party links
 
@@ -107,12 +101,18 @@ If there are any questions regarding this privacy policy you may contact us usin
 
 http://www.enterprisenation.com
 
-9 Town Walls
+2nd Floor
 
-Shrewsbury, Shropshire SY1 1TW
+Berkeley Square House
+
+Berkeley Square
+
+City of Westminster
+
+London
+
+W1J 6BD
 
 United Kingdom
-
-info@enterprisenation.com
 
 01743 272555
