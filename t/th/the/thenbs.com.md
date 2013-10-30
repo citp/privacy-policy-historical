@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thenbs.com privacy policy that was archived on 2012-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121010192826id_/http%3A//www.thenbs.com/corporate/privacyPolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thenbs.com privacy policy that was archived on 2013-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131031003807id_/http%3A//www.thenbs.com/corporate/privacyPolicy.asp) for the most accurate reproduction.*
 
 # NBS | National Building Specification | Privacy Policy
 
@@ -46,5 +46,9 @@ We employ security measures to protect your information from access by unauthori
 
 BackToTop
 
+[ ](http://surveys.ribaenterprises.com/wh/s.asp?k=137847786486 "Tell us what you think about theNBS.com")|
+
 **Receive regular email  
 updates from NBS**
+
+[](https://twitter.com/TheNBS)
