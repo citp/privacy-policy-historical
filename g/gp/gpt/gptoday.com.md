@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gptoday.com privacy policy that was archived on 2013-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130629173026id_/http%3A//gptoday.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gptoday.com privacy policy that was archived on 2013-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131030212049id_/http%3A//www.gptoday.com/privacypolicy.php) for the most accurate reproduction.*
 
-# F1, Formula 1: GPToday.com - Privacy Policy
+# F1, Formula 1: GPToday.com- Privacy Policy
 
 GP Today, and its advertisers and affiliates are deeply committed to protecting the privacy of Internet users.
 
