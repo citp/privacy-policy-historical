@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the judgepedia.org privacy policy that was archived on 2013-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130527224733id_/http%3A//judgepedia.org/index.php/Judgepedia%3APrivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the judgepedia.org privacy policy that was archived on 2013-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131030213931id_/http%3A//judgepedia.org/index.php/Judgepedia%3APrivacy_policy) for the most accurate reproduction.*
 
 # Judgepedia:Privacy policy - Judgepedia
 
@@ -9,7 +9,8 @@ Policies
 [Image use policies](https://web.archive.org/index.php/Judgepedia:Image_use_policy "Judgepedia:Image use policy")  
 [User name policies](https://web.archive.org/index.php/Judgepedia:User_name_policies "Judgepedia:User name policies")  
 [Blocking policies](https://web.archive.org/index.php/Judgepedia:Blocking_policy "Judgepedia:Blocking policy")  
-**Privacy policies**  
+ **Privacy policies**  
+[Criminal behavior & scandal](https://web.archive.org/index.php/Judgepedia:Criminal_behavior_and_scandal_policies "Judgepedia:Criminal behavior and scandal policies")  
 Guidelines  
 [Writing Guidelines](https://web.archive.org/index.php/Portal:Writing_guidelines "Portal:Writing guidelines")  
   
