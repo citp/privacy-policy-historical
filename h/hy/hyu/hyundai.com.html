@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the hyundai.com privacy policy that was archived on 2012-10-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121003020410id_/https%3A//www.hyundaiusa.com/privacy-policy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the hyundai.com privacy policy that was archived on 2013-10-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131030072723id_/https%3A//www.hyundaiusa.com/privacy-policy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><meta http-equiv="Content-Type" content="text/html;charset=utf-8"><link rel="icon" href="/favicon.ico">
 	
@@ -12,15 +12,15 @@
 <link rel="stylesheet" type="text/css" charset="utf-8" href="/css/hyundai-sifr-alt.css" media="all">
 
 <link rel="stylesheet" type="text/css" charset="utf-8" href="/css/hyundai_print.css" media="print">
-<!--<link href="http://fast.fonts.com/cssapi/f2e67b03-da23-439d-9373-cb18369a7cd8.css" rel="stylesheet" type="text/css" />-->
+<!--<link href="https://fast.fonts.com/cssapi/f2e67b03-da23-439d-9373-cb18369a7cd8.css" rel="stylesheet" type="text/css" />-->
 <link href="https://fast.fonts.com/cssapi/05bdb5b9-d6dc-4f94-a0c8-e8d19c47db2a.css" rel="stylesheet" type="text/css">
 	
 <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/js/environment.js"></script>
 <script type="text/javascript" src="/js/swfobject/swfobject.js"></script>
-<script type="text/javascript" src="/js/flash-detect.js"></script>
+<!--<script type="text/javascript" src="/js/flash-detect.js"></script>-->
 
 <script type="text/javascript" src="/js/jquery/jquery-1.3.2.min.js"></script>
-<script type="text/javascript" src="/js/js-compressed.js"></script>
+<script type="text/javascript" src="/js/js-compressed.js?v=313"></script>
 <script type="text/javascript" src="/js/js-home-compressed.js"></script>
 
 
@@ -35,41 +35,75 @@
 	
         <!-- BEGIN HEADER INCLUDE -->
         <div id="header">
-            
-<link href="/css/unify/hyundai-main.css" rel="stylesheet" type="text/css">        
+                  
 
+
+<link href="/css/unify/hyundai-main.css?v=1" rel="stylesheet" type="text/css">     
 
 
 <script type="text/javascript" src="/js/unify/classes/HN.Scroller.js"></script>
-<script type="text/javascript" src="/js/unify/jquery/plugins/jquery.nav.js"></script>
+<script type="text/javascript" src="/js/unify/jquery/plugins/jquery.nav.js?v=1"></script>
 <script type="text/javascript" src="/js/unify/jquery/plugins/jquery.tinyscrollbar.js"></script>
+<script type="text/javascript" src="/js/unify/jquery/plugins/jquery.tween.js"></script>
+<script type="text/javascript" src="/ipad/js/fix-layout.js"></script>
 
 <div id="topNavContainer" style="height:74px;">
     <div id="navigation" class="en" style="height:74px;">    
         <div id="globalNavUtility">
             <div class="search">
-                <form id="globalSearchForm" action="search.aspx" method="POST" name="globalSearchForm">
-                    <input type="text" name="hyundaiSearch" id="hyundaiSearch" value="Search">
+                <form id="globalSearchForm" action="/search.aspx" method="get" name="globalSearchForm">
+                    <input type="text" name="q" id="hyundaiSearch" value="Search">
                     <a id="hyundaiSearchSubmit" href="javascript:void(0);"><img src="/ipad/images/navigation/search-button.png"></a>
+                 
+                   <script type="text/javascript">
+                   $(document).ready(function () {
+                      $('input[type=text]').bind('paste', function (e) {
+                         e.preventDefault();
+                      }); 
+                      
+                      //hook up the event here
+                        $('input[type=text]').bind('keypress', function (e) {
+                        var unicode = e.charCode ? e.charCode : e.keyCode
+                        //alert(unicode);
+                        if (unicode != 8) { //if the key isn't the backspace key (which we should allow)
+                            if (unicode == 60 || unicode == 62) //if not a number
+                                return false //disable key press
+                        }
+                        });
+                        
+                         //hook up the event here
+                        $('input[type=textarea]').bind('keypress', function (e) {
+                        var unicode = e.charCode ? e.charCode : e.keyCode
+                        //alert(unicode);
+                        if (unicode != 8) { //if the key isn't the backspace key (which we should allow)
+                            if (unicode == 60 || unicode == 62) //if not a number
+                                return false //disable key press
+                        }
+                        });
+                        
+                      
+                   });
+                </script>
+
+                
+                
+                
                 </form>
             </div>
 	    <div class="global_nav">
-	        
-	        <span style="line-height:24px"><a href="/espanol/" class="item">Espanol</a></span>
-		<span class="separator">&nbsp;</span>
+	    <span><a class="item" href="http://hyundaimpginfo.com" target="_blank">MPG Reimbursement</a></span>
+	    <span class="separator">&nbsp;</span>
+		
+	    
+		<div class="drop_down"><a href="javascript:void(0);" class="item" style="padding:0px;margin:0px;">English<span class="indicator lang_arrow_down"></span></a><ul>
+        
+           <li><a href="/espanol/" class="item">Espanol</a></li><li><a href="/korean/" class="item">Korean</a></li><li><a href="/chinese/" class="item">Chinese</a></li>
+        
+        </ul></div>
+
+                <span class="separator" style="display:inline-block;">&nbsp;</span>
                 
-	        <span style="line-height:24px"><a href="/korean/" class="item">Korean</a></span>
-		<span class="separator">&nbsp;</span>
-                
-	        <span style="line-height:24px"><a href="/chinese/" class="item">Chinese</a></span>
-		<span class="separator">&nbsp;</span>
-                
-                <span><a href="http://www.hyundaicertified.com/" target="_blank" class="item">Certified Pre-Owned</a></span>
-                <span class="separator">&nbsp;</span>
-                
-                    <span class="owner_register" style="display:inline-block;"><a href="javascript:HN.ownerRegister()" class="item">Register</a></span>
-                    <span class="separator owner_login" style="display:inline-block;">&nbsp;</span>
-                    <span class="owner_login" style="display:inline-block;"><a href="javascript:HN.ownerLogin()" class="item">Login</a></span>
+                    <span class="owner_login" style="display:inline-block; vertical-align: middle;"><a href="javascript:HN.ownerLogin();" class="item">My Hyundai</a></span>
                 
 	    </div>
         </div>
@@ -116,705 +150,343 @@
 	    <div id="topNavWrapper">
 <div id="hyundaiLogo" class="hyperlink"><a href="/index.aspx" title="" class="hyundai-logo"></a></div>
 <div id="ipadNav" class="second-nav">
-<ul id="leftNav">
-<input type="hidden" name="dockedSectionIn" id="dockedSectionIn" value="">
-<input type="hidden" name="currentPageIn" id="currentPageIn" value="">
-<li id="vehiclesTop" class="top-nav-item"><strong><a target="_self" href="/vehicle-lineup/" title="" class="top-nav-text">VEHICLES</a></strong>
-<ul id="vehiclesTopSecondNav" class="ipad-sub-menu first-nav" style="display:none;">
-<li id="see all" class="second-nav-item"><a href="/vehicle-lineup/"><span class="typo-text">SEE ALL</span></a>
-<ul class="car-types" style="display:none">
-<li class="hyperlink">
-<h3 class="category">Compacts</h3>
-<a class="vehicle-item" style="padding-top:28px" href="/accent/" title="">
-<img src="/images/navigation/vehicles/MY/2013/2013_accent_gls_n.png" alt="Accent">
-<p class="model-price"><span class="car-model">ACCENT</span> From $14,545</p>
-</a>
-</li>
-<li class="hyperlink">
-<a class="vehicle-item" style="padding-top:28px" href="/elantra/" title="">
-<img src="/images/navigation/vehicles/MY/2013/2013_elantra_n.png" alt="Elantra">
-<p class="model-price"><span class="car-model">ELANTRA</span> From $16,695</p>
-</a>
-</li>
-<li class="hyperlink">
-<a class="vehicle-item" style="padding-top:28px" href="/elantra-coupe/" title="">
-<img src="/images/navigation/vehicles/MY/2013/2013_elantra_coupe_n.png" alt="Elantra Coupe">
-<p class="model-price"><span class="car-model">ELANTRA COUPE</span> From $17,445</p>
-</a>
-</li>
-<li class="hyperlink">
-<a class="vehicle-item" style="padding-top:28px" href="/elantra-gt/" title="">
-<img src="/images/navigation/vehicles/MY/2013/2013_elantra_gt_n.png" alt="Elantra GT">
-<p class="model-price"><span class="car-model">ELANTRA GT</span> From $18,395</p>
-</a>
-</li>
-<li class="hyperlink">
-<a class="vehicle-item" style="padding-top:28px" href="/veloster/" title="">
-<img src="/images/navigation/vehicles/MY/2013/2013_veloster_n.png" alt="Veloster">
-<p class="model-price"><span class="car-model">VELOSTER</span> From $17,450</p>
-</a>
-</li>
-<li class="hyperlink">
-<h3 class="category">Sedans</h3>
-<a class="vehicle-item" style="padding-top:28px" href="/sonata/" title="">
-<img src="/images/navigation/vehicles/MY/2012/2012_sonata_n.png" alt="Sonata">
-<p class="model-price"><span class="car-model">SONATA</span> From $20,895</p>
-</a>
-</li>
-<li class="hyperlink">
-<a class="vehicle-item" style="padding-top:28px" href="/azera/" title="">
-<img src="/images/navigation/vehicles/MY/2012/2012_azera_n.png" alt="Azera">
-<p class="model-price"><span class="car-model">AZERA</span> From $32,250</p>
-</a>
-</li>
-<li class="hyperlink">
-<h3 class="category">Hybrid</h3>
-<a class="vehicle-item" style="padding-top:28px" href="/sonata-hybrid/" title="">
-<img src="/images/navigation/vehicles/MY/2011/2011_yf_hybrid_n.png" alt="Sonata Hybrid">
-<p class="model-price"><span class="car-model">
-SONATA <img style="padding:0px;margin:0px 0px -5px;" src="/ipad/images/vehicle/hybrid18.png">
-</span> From $25,850</p>
-</a>
-</li>
-
-<li class="nohighlight" style="width:384px"></li>
-<li class="hyperlink">
-<h3 class="category">Crossovers</h3>
-<a class="vehicle-item" style="padding-top:28px" href="/tucson/" title="">
-<img src="/images/navigation/vehicles/MY/2013/2013_tucson_n.png" alt="Tucson">
-<p class="model-price"><span class="car-model">TUCSON</span> From $19,245</p>
-</a>
-</li>
-<li class="hyperlink">
-<a class="vehicle-item" style="padding-top:28px" href="/santa-fe/" title="">
-<img src="/images/navigation/vehicles/MY/2013/2013_santa_fe_n.png" alt="Santa Fe">
-<p class="model-price"><span class="car-model">SANTA FE</span> From $24,450</p>
-</a>
-</li>
-<li class="hyperlink">
-<a class="vehicle-item" style="padding-top:28px" href="/veracruz/" title="">
-<img src="/images/navigation/vehicles/MY/2012/2012_veracruz_n.png" alt="Veracruz">
-<p class="model-price"><span class="car-model">VERACRUZ</span> From $28,345</p>
-</a>
-</li>
-<li class="nohighlight" style="width:384px"></li>
-<li class="hyperlink">
-<h3 class="category">Premium /Performance</h3>
-<a class="vehicle-item" style="padding-top:28px" href="/genesis-coupe/" title="">
-<img src="/images/navigation/vehicles/MY/2013/2013_genesis_coupe_n.png" alt="Genesis Coupe">
-<p class="model-price"><span class="car-model">GENESIS COUPE</span> From $24,250</p>
-</a>
-</li>
-<li class="hyperlink">
-<a class="vehicle-item" style="padding-top:28px" href="/genesis/" title="">
-<img src="/images/navigation/vehicles/MY/2013/2013_genesis_n.png " alt="Genesis">
-<p class="model-price"><span class="car-model">GENESIS</span> From $34,200</p>
-</a>
-</li>
-<li class="hyperlink">
-<a class="vehicle-item" style="padding-top:28px" href="/equus/" title="">
-<img src="/images/navigation/vehicles/MY/2012/2012_equus_n.png" alt="Equus">
-<p class="model-price"><span class="car-model">EQUUS</span> From $59,250</p>
-</a>
-</li>
-<li class="nohighlight" style="width:384px"></li>
-</ul>
-</li>
-
-<li id="compacts" class="second-nav-item"><a href="/vehicle-lineup/compacts.aspx"><span class="typo-text">COMPACTS</span></a>
-<ul class="car-types" style="display: none;">
-<li id="accent-2013-en-US">
-<a class="vehicle-item" style="padding-top:12px" href="/accent/" title="">
-<img class="nav_vehicle_img" src="/images/navigation/vehicles/MY/2013/2013_accent_gls_n.png" alt="Accent">
-<p class="model-price"><span class="car-model">Accent</span> From $14,545</p>
-</a>
-<div id="accent-2013-en-USInfo" class="car-short-info" style="display:none;">
-<div class="typo-intro" style="padding-top:20px">
-<h3>2013 Accent <span class="typo-from">From</span> <span class="typo-price">$14,545</span></h3>
-<span class="available-trims">
-<a href="/financial-tools/special-offers.aspx?vehicle=accent">Lease starting at $169/month for 36 months </a>
+<ul id="leftNav" data="500|300|250|100">
+<li id="vehiclesTop" class="top-nav-item"><strong><a target="_self" href="javascript:void(0);" title="" class="top-nav-text">VEHICLES</a></strong>
+<ul id="vehiclesTopSecondNav" class="vehicle-listing-panel">
+<li class="left-shadow-bg"></li><li class="right-shadow-bg"></li><li class="bottom-shadow-bg"></li>
+<li class="panel">
+<ul class="vehicle-listing-decor">
+<li class="vehicle-catagory-panel">
+<ul>
+<li id="accent-2013-en-US" class="vehicle-box hyperlink">
+<a class="vehicle-item" href="/accent/" title="">
+<p class="vehicle-category">Compacts</p>
+<span class="vehicle-thumb">
+<img src="/images/navigation/vehicles/MY/2013_New/2013_accent_gls_n.png" alt="Accent">
 </span>
-<div class="typo-quotes">
-"King of the Five-Door Subcompacts"
-<p class="typo-quote-by">
-- Motor Trend
-</p>
-</div>
-<div class="buttons">
-<a href="/accent/" class="blue-button hyperlink">LEARN MORE</a>
-<a href="/build-your-hyundai/?vehicle=accent&amp;year=2013" class="blue-button hyperlink">BUILD &amp; PRICE</a>
-<a href="/competitive-comparisons/?vehicle=accent&amp;year=2013" class="blue-button hyperlink">COMPARE VEHICLES</a>
-<a href="/research-tools/reviews-awards.aspx?model=accent&amp;year=2013" class="blue-button hyperlink">VEHICLE REVIEWS</a>
-</div>
-</div>
-<div class="image-large">
-<img src="/images/navigation/vehicles/flyout/2013_Accent.png" alt="2013 Accent">
-</div>
-</div>
-</li>
-<li id="elantra-2013-en-US">
-<a class="vehicle-item" style="padding-top:12px" href="/elantra/" title="">
-<img class="nav_vehicle_img" src="/images/navigation/vehicles/MY/2013/2013_elantra_n.png" alt="Elantra">
-<p class="model-price"><span class="car-model">Elantra</span> From $16,695</p>
+<p class="vehicle-model-year">2013</p>
+<p class="vehicle-model-title">Accent</p>
+<p class="vehicle-model-price">From $14,545 <span></span></p>
 </a>
-<div id="elantra-2013-en-USInfo" class="car-short-info" style="display:none;">
-<div class="typo-intro" style="padding-top:20px">
-<h3>2013 Elantra <span class="typo-from">From</span> <span class="typo-price">$16,695</span></h3>
-<span class="available-trims">
-</span>
-<div class="typo-quotes">
-"2012 North American Car of the Year"
-<p class="typo-quote-by">
-</p>
-</div>
-<div class="buttons">
-<a href="/elantra/" class="blue-button hyperlink">LEARN MORE</a>
-<a href="/build-your-hyundai/?vehicle=elantra&amp;year=2013" class="blue-button hyperlink">BUILD &amp; PRICE</a>
-<a href="/competitive-comparisons/?vehicle=elantra&amp;year=2013" class="blue-button hyperlink">COMPARE VEHICLES</a>
-<a href="/research-tools/reviews-awards.aspx?model=elantra&amp;year=2013" class="blue-button hyperlink">VEHICLE REVIEWS</a>
-</div>
-</div>
-<div class="image-large">
-<img src="/images/navigation/vehicles/flyout/2013_Elantra.png&#10;" alt="2013 Elantra">
-</div>
-</div>
 </li>
-<li id="elantra-coupe-2013-en-US">
-<a class="vehicle-item" style="padding-top:12px" href="/elantra-coupe/" title="">
-<img class="nav_vehicle_img" src="/images/navigation/vehicles/MY/2013/2013_elantra_coupe_n.png" alt="Elantra Coupe">
-<p class="model-price"><span class="car-model">Elantra Coupe</span> From $17,445</p>
-</a>
-<div id="elantra-coupe-2013-en-USInfo" class="car-short-info" style="display:none;">
-<div class="typo-intro" style="padding-top:20px">
-<h3>2013 Elantra Coupe <span class="typo-from">From</span> <span class="typo-price">$17,445</span></h3>
-<span class="available-trims">
+<li id="elantra-2013-en-US" class="vehicle-box hyperlink">
+<a class="vehicle-item" href="/elantra/" title="">
+<span class="vehicle-thumb">
+<img src="/images/navigation/vehicles/MY/2013_New/2013_elantra_n.png" alt="Elantra">
 </span>
-<div class="typo-quotes">
-"The best aspects of the Hyundai Elantra, minus a couple of doors."
-<p class="typo-quote-by">
-- Cars.com
-</p>
-</div>
-<div class="buttons">
-<a href="/elantra-coupe/" class="blue-button hyperlink">LEARN MORE</a>
-<a href="/build-your-hyundai/?vehicle=elantra-coupe&amp;year=2013" class="blue-button hyperlink">BUILD &amp; PRICE</a>
-<a href="/competitive-comparisons/?vehicle=elantra-coupe&amp;year=2013" class="blue-button hyperlink">COMPARE VEHICLES</a>
-<a href="/research-tools/reviews-awards.aspx?model=elantra-coupe&amp;year=2013" class="blue-button hyperlink">VEHICLE REVIEWS</a>
-</div>
-</div>
-<div class="image-large">
-<img src="/images/navigation/vehicles/flyout/2013_elantra_coupe.png" alt="2013 Elantra Coupe">
-</div>
-</div>
+<p class="vehicle-model-year">2013</p>
+<p class="vehicle-model-title">Elantra</p>
+<p class="vehicle-model-price">From $16,965 <span></span></p>
+</a>
 </li>
-<li id="elantra-gt-2013-en-US">
-<a class="vehicle-item" style="padding-top:12px" href="/elantra-gt/" title="">
-<img class="nav_vehicle_img" src="/images/navigation/vehicles/MY/2013/2013_elantra_gt_n.png" alt="Elantra GT">
-<p class="model-price"><span class="car-model">Elantra GT</span> From $18,395</p>
-</a>
-<div id="elantra-gt-2013-en-USInfo" class="car-short-info" style="display:none;">
-<div class="typo-intro" style="padding-top:20px">
-<h3>2013 Elantra GT <span class="typo-from">From</span> <span class="typo-price">$18,395</span></h3>
-<span class="available-trims">
+<li id="elantra-coupe-2013-en-US" class="vehicle-box hyperlink">
+<a class="vehicle-item" href="/elantra-coupe/" title="">
+<span class="vehicle-thumb">
+<img src="/images/navigation/vehicles/MY/2013_New/2013_elantra_coupe_n.png" alt="Elantra Coupe">
 </span>
-<div class="typo-quotes">
-"... a practical five-door hatch version of<br>award-winning Elantra sedan"
-<p class="typo-quote-by">
-- MotorAuthority.com
-</p>
-</div>
-<div class="buttons">
-<a href="/elantra-gt/" class="blue-button hyperlink">LEARN MORE</a>
-<a href="/build-your-hyundai/?vehicle=elantra-gt&amp;year=2013" class="blue-button hyperlink">BUILD &amp; PRICE</a>
-<a href="/competitive-comparisons/?vehicle=elantra-gt&amp;year=2013" class="blue-button hyperlink">COMPARE VEHICLES</a>
-<a href="/research-tools/reviews-awards.aspx?model=elantra-gt&amp;year=2013" class="blue-button hyperlink">VEHICLE REVIEWS</a>
-</div>
-</div>
-<div class="image-large">
-<img src="/images/navigation/vehicles/flyout/2013_elantra_gt.png" alt="2013 Elantra GT">
-</div>
-</div>
+<p class="vehicle-model-year">2013</p>
+<p class="vehicle-model-title">Elantra Coupe</p>
+<p class="vehicle-model-price">From $17,595 <span></span></p>
+</a>
 </li>
-<li id="veloster-2013-en-US">
-<a class="vehicle-item" style="padding-top:12px" href="/veloster/" title="">
-<img class="nav_vehicle_img" src="/images/navigation/vehicles/MY/2013/2013_veloster_n.png" alt="Veloster">
-<p class="model-price"><span class="car-model">Veloster</span> From $17,450</p>
-</a>
-<div id="veloster-2013-en-USInfo" class="car-short-info" style="display:none;">
-<div class="typo-intro" style="padding-top:20px">
-<h3>2013 Veloster <span class="typo-from">From</span> <span class="typo-price">$17,450</span></h3>
-<span class="available-trims">
-<a href="/financial-tools/special-offers.aspx?vehicle=veloster">Lease starting at $179/month for 36 months</a>
+<li id="elantra-gt-2013-en-US" class="vehicle-box hyperlink">
+<a class="vehicle-item" href="/elantra-gt/" title="">
+<span class="vehicle-thumb">
+<img src="/images/navigation/vehicles/MY/2013_New/2013_elantra_gt_n.png" alt="Elantra GT">
 </span>
-<div class="typo-quotes">
-"2012 International Sporty Coupe of the Year"
-<p class="typo-quote-by">
-- The International Car of the Year Awards (ICOTY)
-</p>
-</div>
-<div class="buttons">
-<a href="/veloster/" class="blue-button hyperlink">LEARN MORE</a>
-<a href="/build-your-hyundai/?vehicle=veloster&amp;year=2013" class="blue-button hyperlink">BUILD &amp; PRICE</a>
-<a href="/competitive-comparisons/?vehicle=veloster&amp;year=2013" class="blue-button hyperlink">COMPARE VEHICLES</a>
-<a href="/research-tools/reviews-awards.aspx?model=veloster&amp;year=2013" class="blue-button hyperlink">VEHICLE REVIEWS</a>
-</div>
-</div>
-<div class="image-large">
-<img src="/images/navigation/vehicles/flyout/2013_veloster.png" alt="2013 Veloster">
-</div>
-</div>
+<p class="vehicle-model-year">2013</p>
+<p class="vehicle-model-title">Elantra GT</p>
+<p class="vehicle-model-price">From $18,545 <span></span></p>
+</a>
+</li>
+<li id="veloster-2013-en-US" class="vehicle-box hyperlink">
+<a class="vehicle-item" href="/veloster/" title="">
+<span class="vehicle-thumb">
+<img src="/images/navigation/vehicles/MY/2013_New/2013_veloster_n.png" alt="Veloster">
+</span>
+<p class="vehicle-model-year">2013</p>
+<p class="vehicle-model-title">Veloster</p>
+<p class="vehicle-model-price">From $17,600 <span></span></p>
+</a>
 </li>
 
 </ul>
 </li>
-<li id="sedans" class="second-nav-item"><a href="/vehicle-lineup/family-sedans.aspx "><span class="typo-text">SEDANS</span></a>
-<ul class="car-types" style="display: none;">
-<li id="sonata-2013-en-US">
-<a class="vehicle-item" style="padding-top:12px" href="/sonata/" title="">
-<img class="nav_vehicle_img" src="/images/navigation/vehicles/MY/2012/2012_sonata_n.png" alt="Sonata">
-<p class="model-price"><span class="car-model">Sonata</span> From $20,895</p>
+<li class="vehicle-catagory-panel">
+<ul>
+<li id="sonata-2014-en-US" class="vehicle-box hyperlink">
+<a class="vehicle-item" href="/sonata/" title="">
+<p class="vehicle-category">Sedans / Hybrid</p>
+<span class="vehicle-thumb">
+<img src="/images/navigation/vehicles/MY/2012_New/2012_sonata_n.png" alt="Sonata">
+</span>
+<p class="vehicle-model-year">2014</p>
+<p class="vehicle-model-title">Sonata</p>
+<p class="vehicle-model-price">From $21,350 <span></span></p>
 </a>
-<div id="sonata-2013-en-USInfo" class="car-short-info" style="display:none;">
-<div class="typo-intro" style="padding-top:20px">
-<h3>2013 Sonata <span class="typo-from">From</span> <span class="typo-price">$20,895</span></h3>
-<span class="available-trims">
-<a href="/financial-tools/special-offers.aspx?vehicle=sonata">Lease starting at $255/month for 36 months with<br> $0 due at lease signing </a>
-</span>
-<div class="typo-quotes">
-Hyundai Values Outperform Segment; Sonata Recently<br>Breaks into Top 10 Most-Researched New Vehicles List
-<p class="typo-quote-by">
-- Kelley Blue Book
-</p>
-</div>
-<div class="buttons">
-<a href="/sonata/" class="blue-button hyperlink">LEARN MORE</a>
-<a href="/build-your-hyundai/?vehicle=sonata&amp;year=2013" class="blue-button hyperlink">BUILD &amp; PRICE</a>
-<a href="/competitive-comparisons/?vehicle=sonata&amp;year=2013" class="blue-button hyperlink">COMPARE VEHICLES</a>
-<a href="/research-tools/reviews-awards.aspx?model=sonata&amp;year=2013" class="blue-button hyperlink">VEHICLE REVIEWS</a>
-</div>
-</div>
-<div class="image-large">
-<img src="/images/navigation/vehicles/flyout/2013_sonata.png" alt="2013 Sonata">
-</div>
-</div>
 </li>
-<li id="azera-2013-en-US">
-<a class="vehicle-item" style="padding-top:12px" href="/azera/" title="">
-<img class="nav_vehicle_img" src="/images/navigation/vehicles/MY/2012/2012_azera_n.png" alt="Azera">
-<p class="model-price"><span class="car-model">Azera</span> From $32,250</p>
+<li id="azera-2013-en-US" class="vehicle-box hyperlink">
+<a class="vehicle-item" href="/azera/" title="">
+<span class="vehicle-thumb">
+<img src="/images/navigation/vehicles/MY/2012_New/2012_azera_n.png" alt="Azera">
+</span>
+<p class="vehicle-model-year">2013</p>
+<p class="vehicle-model-title">Azera</p>
+<p class="vehicle-model-price">From $32,250 <span></span></p>
 </a>
-<div id="azera-2013-en-USInfo" class="car-short-info" style="display:none;">
-<div class="typo-intro" style="padding-top:20px">
-<h3>2013 Azera <span class="typo-from">From</span> <span class="typo-price">$32,250</span></h3>
-<span class="available-trims">
+</li>
+<li id="sonata-hybrid-2013-en-US" class="vehicle-box hyperlink">
+<a class="vehicle-item" href="/sonata-hybrid/" title="">
+<span class="vehicle-thumb">
+<img src="/images/navigation/vehicles/MY/2013_New/2013_yf_hybrid_n.png" alt="Sonata Hybrid">
 </span>
-<div class="typo-quotes">
-"The Azera's striking new sheetmetal and interior should be<br>enough to lure customers into the showroom."
-<p class="typo-quote-by">
-- Car and Driver
-</p>
-</div>
-<div class="buttons">
-<a href="/azera/" class="blue-button hyperlink">LEARN MORE</a>
-<a href="/build-your-hyundai/?vehicle=azera&amp;year=2013" class="blue-button hyperlink">BUILD &amp; PRICE</a>
-<a href="/competitive-comparisons/?vehicle=azera&amp;year=2013" class="blue-button hyperlink">COMPARE VEHICLES</a>
-<a href="/research-tools/reviews-awards.aspx?model=azera&amp;year=2013" class="blue-button hyperlink">VEHICLE REVIEWS</a>
-</div>
-</div>
-<div class="image-large">
-<img src="/images/navigation/vehicles/flyout/2012_azera.png" alt="2013 Azera">
-</div>
-</div>
+<p class="vehicle-model-year">2013</p>
+<p class="vehicle-model-title">Sonata Hybrid</p>
+<p class="vehicle-model-price">From $25,650 <span></span></p>
+</a>
 </li>
-<li class="nohighlight" style="width:570px;border-right:0px;"></li>
-</ul>
-</li>
-<li id="hybrid" class="second-nav-item"><a href="/vehicle-lineup/hybrid.aspx"><span class="typo-text">HYBRID</span></a>
-<ul class="car-types" style="display: none;">
-<li id="sonata-hybrid-2012-en-US" style="border:0px;background:transparent;">
-<div id="sonata-hybrid-2012-en-USInfo" class="hybrid-info car-short-info" style="display:none;">
-<div class="typo-intro" style="padding-top:20px">
-<h3>Sonata <img style="padding:0px;margin:0px 0px -10px;" src="/ipad/images/vehicle/hybrid.png"> <span class="typo-from">From</span> <span class="typo-price">$25,850</span></h3>
-<span class="available-trims">
-<a href="/financial-tools/special-offers.aspx?vehicle=sonata-hybrid">Lease starting at $299/month for 36 months with<br> $0 due at lease signing</a>
-</span>
-<div class="typo-quotes">
-THE 2012 SONATA HYBRID WAS NAMED A<br>"2012 IIHS TOP SAFETY PICK"
-<p class="typo-quote-by">
-- IIHS, 2012
-</p>
-</div>
-<div class="buttons">
-<a href="/sonata-hybrid/" class="blue-button hyperlink">LEARN MORE</a>
-<a href="/build-your-hyundai/?vehicle=sonata-hybrid&amp;year=2012" class="blue-button hyperlink">BUILD &amp; PRICE</a>
-<a href="/competitive-comparisons/?vehicle=sonata-hybrid&amp;year=2012" class="blue-button hyperlink">COMPARE VEHICLES</a>
-<a href="/research-tools/reviews-awards.aspx?model=sonata-hybrid&amp;year=2012" class="blue-button hyperlink">VEHICLE REVIEWS</a>
-</div>
-</div>
-<div class="image-large">
-<img src="/images/navigation/vehicles/flyout/2012_sonata_hybrid.png" alt="Sonata Hybrid">
-</div>
-</div>
-</li>
+<li class="vehicle-box vehicle-empty-box hyperlink"></li>
+<li class="vehicle-box vehicle-empty-box hyperlink"></li>
 
 </ul>
 </li>
-<li id="crossovers" class="second-nav-item"><a href="/vehicle-lineup/crossovers.aspx"><span class="typo-text">CROSSOVERS</span></a>
-<ul class="car-types" style="display: none;">
-<li id="tucson-2013-en-US">
-<a class="vehicle-item" style="padding-top:12px" href="/tucson/" title="">
-<img class="nav_vehicle_img" src="/images/navigation/vehicles/MY/2013/2013_tucson_n.png" alt="Tucson">
-<p class="model-price"><span class="car-model">Tucson</span> From $19,245</p>
-</a>
-<div id="tucson-2013-en-USInfo" class="car-short-info" style="display:none;">
-<div class="typo-intro" style="padding-top:20px">
-<h3>2013 Tucson <span class="typo-from">From</span> <span class="typo-price">$19,245</span></h3>
-<span class="available-trims">
+<li class="vehicle-catagory-panel">
+<ul>
+<li id="tucson-2014-en-US" class="vehicle-box hyperlink">
+<a class="vehicle-item" href="/tucson/" title="">
+<p class="vehicle-category">Crossovers</p>
+<span class="vehicle-thumb">
+<img src="/images/navigation/vehicles/MY/2014/2014-tucson_n.png" alt="Tucson">
 </span>
-<div class="typo-quotes">
-"TOP 10 CARS WITH BEST RESALE VALUE"
-<p class="typo-quote-by">
-- Kelley Blue Book's kbb.com
-</p>
-</div>
-<div class="buttons">
-<a href="/tucson/" class="blue-button hyperlink">LEARN MORE</a>
-<a href="/build-your-hyundai/?vehicle=tucson&amp;year=2013" class="blue-button hyperlink">BUILD &amp; PRICE</a>
-<a href="/competitive-comparisons/?vehicle=tucson&amp;year=2013" class="blue-button hyperlink">COMPARE VEHICLES</a>
-<a href="/research-tools/reviews-awards.aspx?model=tucson&amp;year=2013" class="blue-button hyperlink">VEHICLE REVIEWS</a>
-</div>
-</div>
-<div class="image-large">
-<img src="/images/navigation/vehicles/flyout/2013_tucson.png" alt="2013 Tucson">
-</div>
-</div>
-</li>
-<li id="santa-fe-2013-en-US">
-<a class="vehicle-item" style="padding-top:12px" href="/santa-fe/" title="">
-<img class="nav_vehicle_img" src="/images/navigation/vehicles/MY/2013/2013_santa_fe_n.png" alt="Santa Fe">
-<p class="model-price"><span class="car-model">Santa Fe</span> From $24,450</p>
+<p class="vehicle-model-year">2014</p>
+<p class="vehicle-model-title">Tucson</p>
+<p class="vehicle-model-price">From $21,450 <span></span></p>
 </a>
-<div id="santa-fe-2013-en-USInfo" class="car-short-info" style="display:none;">
-<div class="typo-intro" style="padding-top:20px">
-<h3>2013 Santa Fe <span class="typo-from">From</span> <span class="typo-price">$24,450</span></h3>
-<span class="available-trims">
-</span>
-<div class="typo-quotes">
-Fuel-efficient, superbly designed and safe, the Santa Fe is set to impress.
-<p class="typo-quote-by">
-</p>
-</div>
-<div class="buttons">
-<a href="/santa-fe/" class="blue-button hyperlink">LEARN MORE</a>
-<a href="/build-your-hyundai/?vehicle=santa-fe&amp;year=2013" class="blue-button hyperlink">BUILD &amp; PRICE</a>
-<a href="/competitive-comparisons/?vehicle=santa-fe&amp;year=2013" class="blue-button hyperlink">COMPARE VEHICLES</a>
-<a href="/research-tools/reviews-awards.aspx?model=santa-fe&amp;year=2013" class="blue-button hyperlink">VEHICLE REVIEWS</a>
-</div>
-</div>
-<div class="image-large">
-<img src="/images/navigation/vehicles/flyout/2013_santa-fe.png" alt="2013 Santa Fe">
-</div>
-</div>
 </li>
-<li id="veracruz-2012-en-US">
-<a class="vehicle-item" style="padding-top:12px" href="/veracruz/" title="">
-<img class="nav_vehicle_img" src="/images/navigation/vehicles/MY/2012/2012_veracruz_n.png" alt="Veracruz">
-<p class="model-price"><span class="car-model">Veracruz</span> From $28,345</p>
+<li id="santa-fe-sport-2014-en-US" class="vehicle-box hyperlink">
+<a class="vehicle-item" href="/santa-fe-sport/" title="">
+<span class="vehicle-thumb">
+<img src="/images/navigation/vehicles/MY/2013_New/vnav-SFsport.png" alt="Santa Fe Sport">
+</span>
+<p class="vehicle-model-year">2014</p>
+<p class="vehicle-model-title">Santa Fe Sport</p>
+<p class="vehicle-model-price">From $24,750 <span></span></p>
 </a>
-<div id="veracruz-2012-en-USInfo" class="car-short-info" style="display:none;">
-<div class="typo-intro" style="padding-top:20px">
-<h3>2012 Veracruz <span class="typo-from">From</span> <span class="typo-price">$28,345</span></h3>
-<span class="available-trims">
-<a href="/financial-tools/special-offers.aspx?vehicle=veracruz">Lease starting at $299/month for 36 months</a>
-</span>
-<div class="typo-quotes">
-"Its full assortment of standard and optional luxury features, <br>fine attention to detail, high quality materials and rich, <br>upscale styling will finally turn nonbelievers into advocates."
-<p class="typo-quote-by">
-- Automobile.com 
-</p>
-</div>
-<div class="buttons">
-<a href="/veracruz/" class="blue-button hyperlink">LEARN MORE</a>
-<a href="/build-your-hyundai/?vehicle=veracruz&amp;year=2012" class="blue-button hyperlink">BUILD &amp; PRICE</a>
-<a href="/competitive-comparisons/?vehicle=veracruz&amp;year=2012" class="blue-button hyperlink">COMPARE VEHICLES</a>
-<a href="/research-tools/reviews-awards.aspx?model=veracruz&amp;year=2012" class="blue-button hyperlink">VEHICLE REVIEWS</a>
-</div>
-</div>
-<div class="image-large">
-<img src="/images/navigation/vehicles/flyout/2012_veracruz.png" alt="2012 Veracruz">
-</div>
-</div>
 </li>
-<li class="nohighlight" style="width:380px;border-right:0px;"></li>
+<li id="santa-fe-2013-en-US" class="vehicle-box hyperlink">
+<a class="vehicle-item" href="/santa-fe/" title="">
+<span class="vehicle-thumb">
+<img src="/images/navigation/vehicles/MY/2013_New/vnav-SFlwb.png" alt="Santa Fe">
+</span>
+<p class="vehicle-model-year">2013</p>
+<p class="vehicle-model-title">Santa Fe</p>
+<p class="vehicle-model-price">From $28,600 <span></span></p>
+</a>
+</li>
+<li class="vehicle-box vehicle-empty-box hyperlink"></li>
+<li class="vehicle-box vehicle-empty-box hyperlink"></li>
+
 </ul>
 </li>
-<li id="premium /<br>performance" class="second-nav-item"><a href="/vehicle-lineup/premium-performance.aspx"><span class="typo-text">PREMIUM / PERFORMANCE</span></a>
-<ul class="car-types" style="display: none;">
-<li id="genesis-coupe-2013-en-US">
-<a class="vehicle-item" style="padding-top:12px" href="/genesis-coupe/" title="">
-<img class="nav_vehicle_img" src="/images/navigation/vehicles/MY/2013/2013_genesis_coupe_n.png" alt="Genesis Coupe">
-<p class="model-price"><span class="car-model">Genesis Coupe</span> From $24,250</p>
-</a>
-<div id="genesis-coupe-2013-en-USInfo" class="car-short-info" style="display:none;">
-<div class="typo-intro" style="padding-top:20px">
-<h3>2013 Genesis Coupe <span class="typo-from">From</span> <span class="typo-price">$24,250</span></h3>
-<span class="available-trims">
+<li class="vehicle-catagory-panel">
+<ul>
+<li id="genesis-coupe-2013-en-US" class="vehicle-box hyperlink">
+<a class="vehicle-item" href="/genesis-coupe/" title="">
+<p class="vehicle-category">Premium / Performance</p>
+<span class="vehicle-thumb">
+<img src="/images/navigation/vehicles/MY/2013_New/2013_genesis_coupe_n.png" alt="Genesis Coupe">
 </span>
-<div class="typo-quotes">
-"...the 2013 Hyundai Genesis Coupe looks to<br>be a better performance bargain than ever."
-<p class="typo-quote-by">
-- MotorAuthority.com
-</p>
-</div>
-<div class="buttons">
-<a href="/genesis-coupe/" class="blue-button hyperlink">LEARN MORE</a>
-<a href="/build-your-hyundai/?vehicle=genesis-coupe&amp;year=2013" class="blue-button hyperlink">BUILD &amp; PRICE</a>
-<a href="/competitive-comparisons/?vehicle=genesis-coupe&amp;year=2013" class="blue-button hyperlink">COMPARE VEHICLES</a>
-<a href="/research-tools/reviews-awards.aspx?model=genesis-coupe&amp;year=2013" class="blue-button hyperlink">VEHICLE REVIEWS</a>
-</div>
-</div>
-<div class="image-large">
-<img src="/images/navigation/vehicles/flyout/2013_Genesis_Coupe.png" alt="2013 Genesis Coupe">
-</div>
-</div>
-</li>
-<li id="genesis-2013-en-US">
-<a class="vehicle-item" style="padding-top:12px" href="/genesis/" title="">
-<img class="nav_vehicle_img" src="/images/navigation/vehicles/MY/2013/2013_genesis_n.png " alt="Genesis">
-<p class="model-price"><span class="car-model">Genesis</span> From $34,200</p>
+<p class="vehicle-model-year">2013</p>
+<p class="vehicle-model-title">Genesis Coupe</p>
+<p class="vehicle-model-price">From $24,250 <span></span></p>
 </a>
-<div id="genesis-2013-en-USInfo" class="car-short-info" style="display:none;">
-<div class="typo-intro" style="padding-top:20px">
-<h3>2013 Genesis <span class="typo-from">From</span> <span class="typo-price">$34,200</span></h3>
-<span class="available-trims">
-<a href="/financial-tools/special-offers.aspx?vehicle=genesis">Lease starting at $389/month for 48 months with<br>$0 due at lease signing </a>
-</span>
-<div class="typo-quotes">
-"Most Dependable Midsize Premium Car"
-<p class="typo-quote-by">
-- J.D. Power and Associates, 2012 
-</p>
-</div>
-<div class="tooltip_launch">
-<div class="tooltip_pop_cont">
-<div class="tooltip_pop_top"><div class="close"></div></div>
-<div class="tooltip_pop_middle">
-The Hyundai Genesis received the lowest number of problems per 100 vehicles among midsize premium cars in the proprietary J.D. Power and Associates 2012 Vehicle Dependability Study(SM). Study based on 31,325 consumer responses measuring problems consumers experienced in the past 12 months with three-year-old vehicles (2009 model-year cars and trucks). Proprietary study results are based on experiences and perceptions of consumers surveyed October - December 2011. Your experiences may vary. Visit jdpower.com.
-</div>
-<div class="tooltip_pop_bottom"></div>
-</div>
-</div>
-<div class="tooltip_shell legal"><span>Legal</span></div>
-<div class="image-award">
-<img src="/images/vehicle/genesis/JDPower_flyout_award_jd_03.png" alt="2013 Genesis">
-</div>
-<div class="buttons">
-<a href="/genesis/" class="blue-button hyperlink">LEARN MORE</a>
-<a href="/build-your-hyundai/?vehicle=genesis&amp;year=2013" class="blue-button hyperlink">BUILD &amp; PRICE</a>
-<a href="/competitive-comparisons/?vehicle=genesis&amp;year=2013" class="blue-button hyperlink">COMPARE VEHICLES</a>
-<a href="/research-tools/reviews-awards.aspx?model=genesis&amp;year=2013" class="blue-button hyperlink">VEHICLE REVIEWS</a>
-</div>
-</div>
-<div class="image-large">
-<img src="/images/navigation/vehicles/flyout/2013_Genesis.png" alt="2013 Genesis">
-</div>
-</div>
 </li>
-<li id="equus-2013-en-US">
-<a class="vehicle-item" style="padding-top:12px" href="/equus/" title="">
-<img class="nav_vehicle_img" src="/images/navigation/vehicles/MY/2012/2012_equus_n.png" alt="Equus">
-<p class="model-price"><span class="car-model">Equus</span> From $59,250</p>
+<li id="genesis-2013-en-US" class="vehicle-box hyperlink">
+<a class="vehicle-item" href="/genesis/" title="">
+<span class="vehicle-thumb">
+<img src="/images/navigation/vehicles/MY/2013_New/2013_genesis_n.png " alt="Genesis">
+</span>
+<p class="vehicle-model-year">2013</p>
+<p class="vehicle-model-title">Genesis</p>
+<p class="vehicle-model-price">From $34,200 <span></span></p>
 </a>
-<div id="equus-2013-en-USInfo" class="car-short-info" style="display:none;">
-<div class="typo-intro" style="padding-top:20px">
-<h3>2013 Equus <span class="typo-from">From</span> <span class="typo-price">$59,250</span></h3>
-<span class="available-trims">
-<a href="/financial-tools/special-offers.aspx?vehicle=equus">Lease starting at $759/month for 48 months with<br>$0 due at lease signing</a>
-</span>
-<div class="typo-quotes">
-The 2012 Equus was named a<br> "2012 IIHS Top Safety Pick"
-<p class="typo-quote-by">
-- IIHS, 2012
-</p>
-</div>
-<div class="buttons">
-<a href="/equus/" class="blue-button hyperlink">LEARN MORE</a>
-<a href="/build-your-hyundai/?vehicle=equus&amp;year=2013" class="blue-button hyperlink">BUILD &amp; PRICE</a>
-<a href="/competitive-comparisons/?vehicle=equus&amp;year=2013" class="blue-button hyperlink">COMPARE VEHICLES</a>
-<a href="/research-tools/reviews-awards.aspx?model=equus&amp;year=2013" class="blue-button hyperlink">VEHICLE REVIEWS</a>
-</div>
-</div>
-<div class="image-large">
-<img src="/images/navigation/vehicles/flyout/2012_equus.png" alt="2013 Equus">
-</div>
-</div>
 </li>
-<li class="nohighlight" style="width:380px;border-right:0px;"></li>
+<li id="equus-2014-en-US" class="vehicle-box hyperlink">
+<a class="vehicle-item" href="/equus/" title="">
+<span class="vehicle-thumb">
+<img src="/images/navigation/vehicles/MY/2014/2014_equus_n.png" alt="Equus">
+</span>
+<p class="vehicle-model-year">2014</p>
+<p class="vehicle-model-title">Equus</p>
+<p class="vehicle-model-price">From $61,000 <span></span></p>
+</a>
+</li>
+<li class="vehicle-box vehicle-empty-box hyperlink"></li>
+<li class="vehicle-box vehicle-empty-box hyperlink"></li>
+
 </ul>
 </li>
-<li class="second-nav-separator" style="margin-left:3px;margin-right:3px;"></li>
-<li><a class="hyperlink" href="/vehicles/future-cars/2013/santa-fe/index.aspx"><span class="typo-text">FUTURE CARS</span></a></li>
-</ul></li><li id="researchTop" class="top-nav-item"><strong><a target="_self" href="/research-tools/" title="" class="top-nav-text">RESEARCH TOOLS</a></strong>
-<ul id="researchTopSecondNav" class="ipad-sub-menu first-nav" style="display:none;">
-<li class="hyperlink second-nav-item">
+</ul>
+</li>
+</ul>
+</li>
+<li id="shoppingtoolsTop" class="top-nav-item"><strong><a target="_self" href="javascript:void(0);" title="" class="top-nav-text">SHOPPING TOOLS</a></strong>
+<ul id="shoppingtoolsTopSecondNav" class="menu-listing-panel">
+<li class="left-shadow-bg" style="background-position:0px 90%"></li><li class="right-shadow-bg" style="background-position:0px 90%"></li><li class="bottom-shadow-bg"></li>
+<li class="panel">
+<ul class="menu-listing-decor">
+<li class="menu-item-box hyperlink">
 <a href="/build-your-hyundai/">
 <span class="typo-text">BUILD &amp; PRICE</span>
 </a>
 </li>
-<li class="hyperlink second-nav-item">
-<a href="/competitive-comparisons/">
-<span class="typo-text">COMPARE</span>
-</a>
-</li>
-<li class="hyperlink second-nav-item">
-<a href="/research-tools/reviews-awards.aspx">
-<span class="typo-text">AWARDS &amp; REVIEWS</span>
-</a>
-</li>
-<li class="hyperlink second-nav-item">
-<a href="/shopping-tools/ebrochure/">
-<span class="typo-text">E-BROCHURES</span>
-</a>
-</li>
-<li class="hyperlink second-nav-item">
-<a href="/research-tools/why-hyundai.aspx">
-<span class="typo-text">WHY HYUNDAI</span>
-</a>
-</li>
-<li class="hyperlink second-nav-item">
-<a href="/shopping-tools/schedule-test-drive.aspx">
-<span class="typo-text">TEST DRIVE</span>
-</a>
-</li>
-</ul></li><li id="financeTop" class="top-nav-item"><strong><a target="_self" href="/financial-tools/" title="" class="top-nav-text">FINANCIAL TOOLS</a></strong>
-<ul id="financeTopSecondNav" class="ipad-sub-menu first-nav" style="display:none;">
-<li class="hyperlink second-nav-item">
-<a href="/financial-tools/payment-calculator.aspx">
-<span class="typo-text">CALCULATE &amp; COMPARE</span>
-</a>
-</li>
-<li class="hyperlink second-nav-item">
-<a href="/financial-tools/leasing-buying.aspx">
-<span class="typo-text">LEASING VS. BUYING</span>
-</a>
-</li>
-<li class="hyperlink second-nav-item">
+<li class="menu-item-box hyperlink">
 <a href="/shopping-tools/request-quote.aspx">
-<span class="typo-text">DEALER QUOTE</span>
+<span class="typo-text">REQUEST A QUOTE</span>
 </a>
 </li>
-<li class="hyperlink second-nav-item">
+<li class="menu-item-box hyperlink">
+<a href="/inventory-search/">
+<span class="typo-text">SEARCH INVENTORY</span>
+</a>
+</li>
+<li class="menu-item-box hyperlink">
 <a href="/financial-tools/special-offers.aspx">
-<span class="typo-text">SPECIAL OFFERS</span>
+<span class="typo-text">LOCAL OFFERS</span>
 </a>
 </li>
-<li class="hyperlink second-nav-item">
+<li class="menu-item-box hyperlink">
+<a href="/competitive-comparisons/">
+<span class="typo-text">COMPARE VEHICLES</span>
+</a>
+</li>
+<li class="menu-item-box hyperlink">
+<a href="/financial-tools/payment-calculator.aspx">
+<span class="typo-text">PAYMENT CALCULATOR</span>
+</a>
+</li>
+<li class="menu-item-box hyperlink">
 <a href="/shopping-tools/trade-in-estimate.aspx">
-<span class="typo-text">TRADE-IN APPRAISAL</span>
+<span class="typo-text">TRADE-IN ESTIMATE</span>
 </a>
 </li>
-<li class="hyperlink second-nav-item">
-<a target="_blank" href="https://www.hyundaimotorfinance.com/">
-<span class="typo-text">HYUNDAI MOTOR FINANCE </span>
+<li class="menu-item-box hyperlink">
+<a href="/shopping-tools/ebrochure/">
+<span class="typo-text">E-BROCHURE</span>
 </a>
 </li>
-</ul></li><li id="newthinkingTop" class="top-nav-item"><strong><a target="_self" href="/new-thinking/" title="" class="top-nav-text">NEW THINKING</a></strong>
-<ul id="newthinkingTopSecondNav" class="ipad-sub-menu first-nav" style="display:none;">
-<li class="hyperlink second-nav-item">
+<li class="menu-item-box hyperlink">
+<a href="/shopping-tools/schedule-test-drive.aspx">
+<span class="typo-text">SCHEDULE A TEST DRIVE</span>
+</a>
+</li>
+<li class="menu-item-box hyperlink">
+<a target="_blank" href="https://www.hmfusa.com/">
+<span class="typo-text">HYUNDAI MOTOR FINANCE</span>
+</a>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li id="whyhyundaiTop" class="top-nav-item"><strong><a target="_self" href="javascript:void(0);" title="" class="top-nav-text">WHY HYUNDAI</a></strong>
+<ul id="whyhyundaiTopSecondNav" class="menu-listing-panel">
+<li class="left-shadow-bg" style="background-position:0px 90%"></li><li class="right-shadow-bg" style="background-position:0px 90%"></li><li class="bottom-shadow-bg"></li>
+<li class="panel">
+<ul class="menu-listing-decor">
+<li class="menu-item-box hyperlink">
 <a href="/new-thinking/">
 <span class="typo-text">OVERVIEW</span>
 </a>
 </li>
-<li class="hyperlink second-nav-item">
+<li class="menu-item-box hyperlink">
 <a href="/new-thinking/quality.aspx ">
 <span class="typo-text">QUALITY</span>
 </a>
 </li>
-<li class="hyperlink second-nav-item">
+<li class="menu-item-box hyperlink">
 <a href="/new-thinking/innovation-technology.aspx ">
-<span class="typo-text">TECHNOLOGY &amp; INNOVATION</span>
+<span class="typo-text">TECHNOLOGY</span>
 </a>
 </li>
-<li class="hyperlink second-nav-item">
+<li class="menu-item-box hyperlink">
 <a href="/new-thinking/design.aspx">
 <span class="typo-text">DESIGN</span>
 </a>
 </li>
-<li class="hyperlink second-nav-item">
+<li class="menu-item-box hyperlink">
 <a href="/new-thinking/safety.aspx">
 <span class="typo-text">SAFETY</span>
 </a>
 </li>
-<li class="hyperlink second-nav-item">
+<li class="menu-item-box hyperlink">
 <a href="/new-thinking/built-in-usa.aspx ">
 <span class="typo-text">BUILT IN USA</span>
 </a>
 </li>
-<li class="hyperlink second-nav-item">
+<li class="menu-item-box hyperlink">
 <a href="/new-thinking/environment.aspx ">
 <span class="typo-text">ENVIRONMENT</span>
 </a>
 </li>
-<li class="hyperlink second-nav-item">
+<li class="menu-item-box hyperlink">
 <a href="/new-thinking/csr.aspx/">
 <span class="typo-text">SOCIAL RESPONSIBILITY</span>
 </a>
 </li>
-</ul></li><li id="assuranceTop" class="top-nav-item"><strong><a target="_self" href="/assurance/" title="" class="top-nav-text">ASSURANCE</a></strong>
-<ul id="assuranceTopSecondNav" class="ipad-sub-menu first-nav" style="display:none;">
-<li class="hyperlink second-nav-item">
-<a href="/assurance/trade-value.aspx">
-<span class="typo-text">TRADE-IN VALUE GUARANTEE</span>
+<li class="menu-item-box hyperlink">
+<a href="/technology/bluelink/">
+<span class="typo-text">BLUE LINK</span>
 </a>
 </li>
-<li class="hyperlink second-nav-item">
+</ul>
+</li>
+</ul>
+</li>
+<li id="assuranceTop" class="top-nav-item"><strong><a target="_self" href="javascript:void(0);" title="" class="top-nav-text">ASSURANCE</a></strong>
+<ul id="assuranceTopSecondNav" class="menu-listing-panel">
+<li class="left-shadow-bg" style="background-position:0px 90%"></li><li class="right-shadow-bg" style="background-position:0px 90%"></li><li class="bottom-shadow-bg"></li>
+<li class="panel">
+<ul class="menu-listing-decor">
+<li class="menu-item-box hyperlink">
+<a href="/assurance/index.aspx">
+<span class="typo-text">OVERVIEW</span>
+</a>
+</li>
+<li class="menu-item-box hyperlink">
+<a href="/assurance/connected-care.aspx">
+<span class="typo-text">CONNECTED CARE</span>
+</a>
+</li>
+<li class="menu-item-box hyperlink">
 <a href="/assurance/america-best-warranty.aspx">
 <span class="typo-text">AMERICA'S BEST WARRANTY</span>
 </a>
 </li>
-<li class="hyperlink second-nav-item">
+<li class="menu-item-box hyperlink">
 <a href="/assurance/roadside-assistance.aspx">
 <span class="typo-text">24/7 ROADSIDE ASSISTANCE</span>
 </a>
 </li>
-</ul></li><li id="bluelinkTop" class="top-nav-item"><strong><a target="_self" href="/technology/bluelink/" title="" class="top-nav-text">BLUE LINK</a></strong>
-<ul id="bluelinkTopSecondNav" class="ipad-sub-menu first-nav" style="display:none;">
-<li class="hyperlink second-nav-item">
-<a href="/technology/bluelink/">
-<span class="typo-text">OVERVIEW</span>
+<li class="menu-item-box hyperlink">
+<a href="/assurance/car-care.aspx">
+<span class="typo-text">CAR CARE</span>
 </a>
 </li>
-<li class="hyperlink second-nav-item">
-<a href="/technology/bluelink/features/navigation.aspx">
-<span class="typo-text">FEATURES</span>
-</a>
+</ul>
 </li>
-<li class="hyperlink second-nav-item">
-<a href="/technology/bluelink/access.aspx">
-<span class="typo-text">BLUE LINK ACCESS</span>
-</a>
+</ul>
 </li>
-<li class="hyperlink second-nav-item">
-<a href="/technology/bluelink/get.aspx">
-<span class="typo-text">GET BLUE LINK</span>
-</a>
-</li>
-<li class="hyperlink second-nav-item">
-<a href="/technology/bluelink/faq.aspx">
-<span class="typo-text">FAQ &amp; HOW-TO</span>
-</a>
-</li>
-<li class="hyperlink second-nav-item">
-<a href="/myhyundai/">
-<span class="typo-text">OWNER SUPPORT</span>
-</a>
-</li>
-</ul></li><li id="ownersTop" class="top-nav-item"><strong><a target="_self" href="/myhyundai/" title="" class="top-nav-text">MYHYUNDAI</a></strong>
+<li id="bestwarrantyTop" class="top-nav-item"><strong><a target="_self" href="/assurance/america-best-warranty.aspx" title="" class="top-nav-text">AMERICA'S BEST WARRANTY</a></strong>
 </li>
 <li class="top-right-nav">
-<ul id="rightNav" class="right-nav-menu"><li class="dealer_locator"><a class="item" href="javascript:void(0);">FIND A DEALER</a></li><li><a class="item" href="/build-your-hyundai/">BUILD &amp; PRICE</a></li></ul></li>
+<ul id="rightNav" class="right-nav-menu">
+<li class="u_dealer_locator"><a class="item" href="javascript:void(0);">FIND A DEALER</a></li>
 </ul>
-</div></div>
+</li>
+</ul>
+</div>
+</div>
 		
 	</div>		
 </div>
@@ -855,7 +527,14 @@ The 2012 Equus was named a<br> "2012 IIHS Top Safety Pick"
             $('#globalNavUtility .owner_well .owner_name').html(parts[1]);
 
         }
-        $('#topNavWrapper #rightNav .dealer_locator .item').bind('click', function () {
+
+        // rsy 10/28/13 #205 - preselect Equus-only when on Equus pages
+        if (window.location.pathname.toLowerCase().indexOf("equus") > -1) {
+            $("#chkEquusDealer").attr("checked", "checked");
+        }
+
+        $('#topNavWrapper #rightNav .u_dealer_locator .item').bind('click', function () {
+            
             if ($(this).hasClass('down')) {
                 //fix issue on ie 7
 
@@ -864,15 +543,19 @@ The 2012 Equus was named a<br> "2012 IIHS Top Safety Pick"
                     $('#navUtility').css({ 'top': '0px' });
                 }
                 });
-            } else {
+        } else {
                 $(this).addClass('down')
                 $('#navUtility').css({ 'top': '74px' });
                 $('#navUtility .dealer_locator').find('.drop_down').slideDown({ duration: 700, easing: 'easeOutExpo' });
             }
         });
+
+
+        
+        
         $('#navUtility li.dealer_locator a.close').unbind('click');
         $('#navUtility li.dealer_locator a.close').click(function () {
-            $('#topNavWrapper #rightNav .dealer_locator .item').removeClass('down');
+            $('#topNavWrapper #rightNav .u_dealer_locator .item').removeClass('down');
             $('#navUtility .dealer_locator').find('.drop_down:visible').slideUp({ duration: 700, easing: 'easeOutExpo' });
             return false;
         });
@@ -882,8 +565,9 @@ The 2012 Equus was named a<br> "2012 IIHS Top Safety Pick"
         });
         $('#globalNavUtility #globalSearchForm').submit(function () {
             var $input = $('#globalNavUtility #hyundaiSearch');
-            if ($input.val() != '')
-                window.location.href = '/search.aspx?q=' + escape($input.val());
+            if ($input.val() != '') {
+                return true;
+            }
             return false;
         });
         if ($('.tooltip_shell').length > 0) {
@@ -904,16 +588,37 @@ The 2012 Equus was named a<br> "2012 IIHS Top Safety Pick"
         if (title.length > 0) {
             $('#page #wrapper').prepend(title);
         }
+
+        $('#globalNavUtility .drop_down').click(function () {
+            
+            var ul = $(this).find('> ul');
+            var ind = $(this).find('.indicator');
+
+            if ($(this).hasClass('down')) {
+                ul.slideUp({ duration: 700, easing: 'easeOutExpo',
+                    complete: function () {
+                        ul.parent().removeClass('down');
+                    }
+                });
+
+            } else {
+                ul.slideDown({ duration: 700, easing: 'easeOutExpo',
+                    complete: function () {
+                        ul.parent().addClass('down');
+                    }
+                });
+            }
+        });
+
+
         HN.Scroller.inject('miniDealerLocatorResult', 'dealers', '190');
-        HN.Scroller.inject('quoteDealerLocatorResult', 'dealer_list', '225');
+        //HN.Scroller.inject('quoteDealerLocatorResult', 'dealer_list', '170');
     });
 </script>
-
-
-
-
-
-
+<style type="text/css">
+.myhyundai-lbContainer {z-index: 99999999;}
+.myhyundai-lbOverlay {z-index: 9999999;}
+</style>
             <div id="navDock"></div>
 
 			
@@ -1346,6 +1051,7 @@ The 2012 Equus was named a<br> "2012 IIHS Top Safety Pick"
 	
 				</div><!-- /mainContent -->
 			</div><!-- /content -->
+			
         </div>
         <!-- END CONTENT AREA INCLUDE -->
 		
@@ -1361,19 +1067,19 @@ The 2012 Equus was named a<br> "2012 IIHS Top Safety Pick"
 					<li><a href="/build-your-hyundai/" title="Build &amp; Price">Build &amp; Price</a></li>
 					
 					
-					<li><a href="/competitive-comparisons/" title="Compare">Compare</a></li>
-					
-					
-					<li><a href="/dealer-locator/" title="Find a Dealer">Find a Dealer</a></li>
-					
-					
 					<li><a href="/shopping-tools/request-quote.aspx" title="Request a Quote">Request a Quote</a></li>
 					
 					
-					<li><a href="/shopping-tools/schedule-test-drive.aspx" title="Schedule a Test-Drive">Schedule a Test-Drive</a></li>
+					<li><a href="/inventory-search/" title="Search Inventory">Search Inventory</a></li>
 					
 					
-					<li><a href="http://www.hyundaicertified.com " target="_blank" title="Certified Pre-Owned">Certified Pre-Owned</a></li>
+					<li><a href="/financial-tools/special-offers.aspx" title="Local Offers">Local Offers</a></li>
+					
+					
+					<li><a href="/competitive-comparisons/" title="Compare Vehicles">Compare Vehicles</a></li>
+					
+					
+					<li><a href="/dealer-locator/" title="Find a Dealer">Find a Dealer</a></li>
 					
 					
 					<li><a href="/financial-tools/payment-calculator.aspx" title="Payment Calculator">Payment Calculator</a></li>
@@ -1382,15 +1088,21 @@ The 2012 Equus was named a<br> "2012 IIHS Top Safety Pick"
 					<li><a href="/shopping-tools/trade-in-estimate.aspx" title="Trade-In Estimate">Trade-In Estimate</a></li>
 					
 					
-					<li><a href="/financial-tools/special-offers.aspx" title="Special Offers">Special Offers</a></li>
-					
-					
 					<li><a href="/shopping-tools/ebrochure/" title="Download a Brochure">Download a Brochure</a></li>
+					
+					
+					<li><a href="/shopping-tools/schedule-test-drive.aspx" title="Schedule a Test-Drive">Schedule a Test-Drive</a></li>
+					
+					
+					<li><a href="http://www.hyundaigiftstore.com" target="_blank" title="Shop Merchandise">Shop Merchandise</a></li>
+					
+					
+					<li><a href="http://www.hyundaicertified.com " target="_blank" title="Certified Pre-Owned">Certified Pre-Owned</a></li>
 					
 				</ul>
 			</li>
 			
-			<li>NEW THINKING
+			<li>WHY HYUNDAI
 				<ul>
 					
 					
@@ -1406,7 +1118,7 @@ The 2012 Equus was named a<br> "2012 IIHS Top Safety Pick"
 					<li><a href="/new-thinking/safety.aspx&#10;" title="Safety">Safety</a></li>
 					
 					
-					<li><a href="/new-thinking/built-in-usa.aspx" title="Built in U.S.A">Built in U.S.A</a></li>
+					<li><a href="/new-thinking/built-in-usa.aspx" title="Built in U.S.A.">Built in U.S.A.</a></li>
 					
 					
 					<li><a href="/new-thinking/environment.aspx" title="Environment">Environment</a></li>
@@ -1417,26 +1129,44 @@ The 2012 Equus was named a<br> "2012 IIHS Top Safety Pick"
 				</ul>
 			</li>
 			
-			<li>WHY HYUNDAI
+			<li>ASSURANCE
 				<ul>
 					
 					
-					<li><a href="/assurance/index.aspx" title="Hyundai Assurance">Hyundai Assurance</a></li>
+					<li><a href="/assurance/" title="Overview">Overview</a></li>
 					
 					
-					<li><a href="/assurance/trade-value.aspx" title="Trade-In Value Guarantee">Trade-In Value Guarantee</a></li>
+					<li><a href="/assurance/connected-care.aspx" title="Connected Care">Connected Care</a></li>
 					
 					
-					<li><a href="/assurance/america-best-warranty.aspx" title="America\'s Best Warranty">America's Best Warranty</a></li>
+					<li><a href="/assurance/america-best-warranty.aspx" title="America's Best Warranty">America's Best Warranty</a></li>
 					
 					
 					<li><a href="/assurance/roadside-assistance.aspx" title="24/7 Roadside Assistance">24/7 Roadside Assistance</a></li>
 					
 					
-					<li><a href="/technology/bluelink/index.aspx" title="Blue Link®">Blue Link<sup>®</sup></a></li>
+					<li><a href="/assurance/car-care.aspx" title="Car care">Car care</a></li>
+					
+				</ul>
+			</li>
+			
+			<li>Blue link<sup>®</sup>
+				<ul>
 					
 					
-					<li><a href="/research-tools/reviews-awards.aspx" title="Awards &amp; Reviews">Awards &amp; Reviews</a></li>
+					<li><a href="/technology/bluelink/" title="Overview">Overview</a></li>
+					
+					
+					<li><a href="/technology/bluelink/features/safety.aspx" title="Features">Features</a></li>
+					
+					
+					<li><a href="/technology/bluelink/access.aspx" title="Blue Link Access">Blue Link Access</a></li>
+					
+					
+					<li><a href="/technology/bluelink/get.aspx" title="Get Blue link">Get Blue link</a></li>
+					
+					
+					<li><a href="/technology/bluelink/faq.aspx" title="FAQ">FAQ</a></li>
 					
 				</ul>
 			</li>
@@ -1445,37 +1175,31 @@ The 2012 Equus was named a<br> "2012 IIHS Top Safety Pick"
 				<ul>
 					
 					
-					<li><a href="/myhyundai/" title="My Hyundai">My Hyundai</a></li>
+					<li><a href="/myhyundai" title="My Hyundai">My Hyundai</a></li>
 					
 					
-					<li><a href="/maintenance-schedule/" title="Maintenance Schedule">Maintenance Schedule</a></li>
+					<li><a href="/maintenance-schedule/" title="Maintenance Schedules">Maintenance Schedules</a></li>
 					
 					
-					<li><a href="/BlueTooth/" title="Bluetooth Support">Bluetooth Support</a></li>
-					
-				</ul>
-			</li>
-			
-			<li>LET US HELP
-				<ul>
+					<li><a href="http://www.surecritic.com/hyundai-dealer" target="_blank" title="Owner Service Reviews">Owner Service Reviews</a></li>
 					
 					
-					<li><a href="/contact-us.aspx" title="Contact Us">Contact Us</a></li>
+					<li><a href="/BlueTooth/" title="Bluetooth Compatibility">Bluetooth Compatibility</a></li>
 					
 					
-					<li><a href="/help-faq.aspx" title="FAQ/Help">FAQ/Help</a></li>
+					<li><a href="http://www.hma-accessories.com/" target="_blank" "="" title="Vehicle Accessories">Vehicle Accessories</a></li>
 					
 					
-					<li><a href="/technology/bluelink/faq.aspx" title="Blue Link FAQ">Blue Link FAQ</a></li>
-					
-					
-					<li><a href="http://www.hyundaigiftstore.com/" rel="#modalExternalSiteCluetip" target="_blank" title="Shop Merchandise">Shop Merchandise</a></li>
+					<li><a href="http://www.hmfusa.com/" target="_blank" "="" title="Hyundai Motor Finance">Hyundai Motor Finance</a></li>
 					
 				</ul>
 			</li>
 			
 			<li>ABOUT HYUNDAI
 				<ul>
+					
+					
+					<li><a href="/research-tools/reviews-awards.aspx" title="Award &amp; reviews">Award &amp; reviews</a></li>
 					
 					
 					<li><a href="/about-hyundai/our-company/" title="Our Company">Our Company</a></li>
@@ -1498,6 +1222,12 @@ The 2012 Equus was named a<br> "2012 IIHS Top Safety Pick"
 					
 					<li><a href="http://www.hmmausa.com/?page_id=151" rel="#modalExternalSiteCluetip" target="_blank" title="Tour Our Alabama Plant">Tour Our Alabama Plant</a></li>
 					
+					
+					<li><a href="/contact-us.aspx" title="Contact Us">Contact Us</a></li>
+					
+					
+					<li><a href="/help-faq.aspx" title="FAQ/HELP">FAQ/HELP</a></li>
+					
 				</ul>
 			</li>
 			
@@ -1511,14 +1241,13 @@ The 2012 Equus was named a<br> "2012 IIHS Top Safety Pick"
 				
 			<li class="twitter"><a href="https://twitter.com/HYUNDAI" target="_blank">Follow us on Twitter</a></li>
 			<li class="youtube"><a href="https://www.youtube.com/HyundaiUSA" target="_blank">See our videos on YouTube</a></li>
-            
-             <li class="email"><a href="/shopping-tools/email-updates.aspx" target="_self">Sign up for Email Updates</a></li>
-             
+			<li class="google"><a href="https://plus.google.com/110188696589707609601" rel="publisher" target="_blank">Google+</a></li>
+             		<li class="email"><a href="/myhyundai/myaccount/communication-preferences-notloggedon" target="_self">Sign up for Email Updates</a></li>
 		    </ul>
 		</div>
 		<img src="/images/global/logo_footer.gif" width="303" height="32" alt="">
 		<div id="footerCopy">Hyundai is a registered trademark of Hyundai Motor Company.
-All rights reserved. © 2012 Hyundai Motor America</div>
+All rights reserved. © 2013 Hyundai Motor America</div>
 		</div>
 	</div>
 	<ul id="footerSubNav">
@@ -1555,9 +1284,7 @@ All rights reserved. © 2012 Hyundai Motor America</div>
 		
 		
 		
-		
-		             <li><a href="/shopping-tools/email-updates.aspx" title="E-mail Updates">E-mail Updates</a></li>
-		             
+		<li><a href="/myhyundai/myaccount/communication-preferences-notloggedon" title="E-mail Updates">E-mail Updates</a></li>
 		
 		
 		
@@ -1570,7 +1297,7 @@ All rights reserved. © 2012 Hyundai Motor America</div>
 		<li><a href="/terms-conditions.aspx" title="Terms of Use">Terms of Use</a></li>
 		
 		
-		<li class="last"><a id="_bapw-link" style="=cursor:pointer !important;"><img id="_bapw-icon" style="display:inline !important;vertical-align:middle !important" src="/images/icons/icon1.png"> <span style="vertical-align:middle !important">AdChoices</span></a><script>(function(){var e=document,b,a=(e.location.protocol=="https:"?"https":"http"),c=(a=="https"?"https://info.evidon.com/c/betrad/pub/":"http://cdn.betrad.com/pub/");
+		<li class="last"><a id="_bapw-link" style="=cursor:pointer !important;"><img id="_bapw-icon" style="display:inline !important;vertical-align:middle !important" src="/images/icons/icon1.png"> <span style="vertical-align:middle !important">AdChoices</span></a><script>(function(){var e=document,b,a=(e.location.protocol=="https:"?"https":"http"),c=(a=="https"?"https://info.evidon.com/c/betrad/pub/":"https://cdn.betrad.com/pub/");
 //		e.getElementById("_bapw-icon").src=c+"icon1.png";
 		e.getElementById("_bapw-link").onclick=function(){var f=this;function d(i,l){var j=e.getElementsByTagName("head")[0]||e.documentElement,h=false,g=e.createElement("script");function k(){g.onload=g.onreadystatechange=null;j.removeChild(g);l()}g.src=i;g.onreadystatechange=function(){if(!h&&(this.readyState=="loaded"||this.readyState=="complete")){h=true;k()}};g.onload=k;j.insertBefore(g,j.firstChild)}this.onclick="return false";d(a+"://ajax.googleapis.com/ajax/libs/jquery/1.4.4/jquery.min.js",function(){d(c+"pub1.js",function(){BAPW.i(f,{pid:147,ocid:930},false)})});return false};b=new Image();b.src=a+"://l.betrad.com/pub/p.gif?pid=147&ocid=930&ii=1&r="+Math.random()}());</script></li>		
 	</ul>
@@ -1623,9 +1350,9 @@ All rights reserved. © 2012 Hyundai Motor America</div>
 					</p> 
 					<div class="dealer_links">
 						<a class="quote receive_lead_{{ReceiveLead}}" href="##{{languagePath}}/shopping-tools/request-quote.aspx?dealer={{DealerCode}}&amp;zip={{Zip}}">Request Quote</a>&nbsp;&nbsp;i
-						<a class="dealer_url" target="dealer-site" href="##http://{{DealerUrl}}?cs:e=hma">Website <span style="text-decoration:none">&nbsp;i</span></a>
+						<a class="dealer_url" target="dealer-site" href="##http://{{DealerUrl}}/?cs:e=hma">Website <span style="text-decoration:none">&nbsp;i</span></a>
 						<a class="directions" href="##{{languagePath}}/dealer-locator/">Directions</a>
-						<br><a class="dealer_Xtimeurl" target="dealer-site" href="##{{XTIME_CONSUMER_URL}}&amp;cs:e=hma">Schedule Service</a>&nbsp;&nbsp;
+						<br><a class="dealer_Xtimeurl" target="dealer-site" href="##http://{{DealerUrl}}/ServiceApptForm/?cs:e=hma">Schedule Service</a>&nbsp;&nbsp;
 						<a class="dealer_url" target="dealer-site" href="##http://{{CobaltDealerURL}}&amp;cs:e=hma">Search Inventory</a>
 					</div>
 				</div>
@@ -1646,8 +1373,8 @@ All rights reserved. © 2012 Hyundai Motor America</div>
 					<div class="dealer_links">
 						<a class="quote receive_lead_{{ReceiveLead}}" href="##{{languagePath}}/shopping-tools/request-quote.aspx?dealer={{DealerCode}}&amp;zip={{Zip}}">Request Quote</a>&nbsp;&nbsp;i
 						<a class="test_drive receive_lead_{{ReceiveLead}}" href="##{{languagePath}}/shopping-tools/schedule-test-drive.aspx?dealer={{DealerCode}}&amp;zip={{Zip}}">Test Drive</a>&nbsp;&nbsp;i
-						<a class="dealer_url" target="dealer-site" href="##http://{{DealerUrl}}?cs:e=hma">Website</a>
-						<br><a class="dealer_Xtimeurl" target="dealer-site" href="##{{XTIME_CONSUMER_URL}}&amp;cs:e=hma">Schedule Service <span style="text-decoration:none">&nbsp;&nbsp;i</span></a>
+						<a class="dealer_url" target="dealer-site" href="##http://{{DealerUrl}}/?cs:e=hma">Website</a>
+						<br><a class="dealer_Xtimeurl" target="dealer-site" href="##http://{{DealerUrl}}/ServiceApptForm/?cs:e=hma">Schedule Service <span style="text-decoration:none">&nbsp;&nbsp;i</span></a>
 						<a class="dealer_CobaltDealerUrl" target="dealer-site" href="##http://{{CobaltDealerURL}}&amp;cs:e=hma">Search Inventory</a>
 					</div>
 				</div>
@@ -1668,13 +1395,25 @@ All rights reserved. © 2012 Hyundai Motor America</div>
 					<div class="dealer_links">
 						<a class="quote receive_lead_{{ReceiveLead}}" href="##{{languagePath}}/shopping-tools/request-quote.aspx?dealer={{DealerCode}}&amp;zip={{Zip}}">Request Quote</a>&nbsp;&nbsp;i
 						<a class="test_drive receive_lead_{{ReceiveLead}}" href="##{{languagePath}}/shopping-tools/schedule-test-drive.aspx?dealer={{DealerCode}}&amp;zip={{Zip}}">Test Drive <span style="text-decoration:none;">&nbsp;&nbsp;i</span></a>
-						<a class="dealer_url" target="dealer-site" href="##http://{{DealerUrl}}?cs:e=hma">Website</a>
-						<br><a class="dealer_Xtimeurl" target="dealer-site" href="##{{XTIME_CONSUMER_URL}}&amp;cs:e=hma">Schedule Service <span style="text-decoration:none;">&nbsp;&nbsp;i</span></a>
+						<a class="dealer_url" target="dealer-site" href="##http://{{DealerUrl}}/?cs:e=hma">Website</a>
+						<br><a class="dealer_Xtimeurl" target="dealer-site" href="##http://{{DealerUrl}}/ServiceApptForm/?cs:e=hma">Schedule Service <span style="text-decoration:none;">&nbsp;&nbsp;i</span></a>
 						<a class="dealer_CobaltDealerUrl" target="dealer-site" href="##http://{{CobaltDealerURL}}&amp;cs:e=hma">Search Inventory</a>
 					</div>
 				</div>
 			</li>
 		</ul>
+		<ul class="RAQDealerLocator">
+			<li id="{{DealerCode}}">
+				<div class="dealer_info">
+					<div class="dealer_marker"></div>
+					<strong class="dealer_name">{{DealerName}}</strong> <span id="EquusLabelQuote" style="display:none;font-weight:normal;color:#000000;">{{EquusInd}}</span>
+					<p class="dealer_address"> {{Address1}}<br>
+					{{City}}, {{State}} {{Zip}} ({{DistanceFromVisitor}} Miles)<br>
+					<span class="dealer_languages">{{LanguagesSpoken:join(' | ')}}</span> </p>
+				</div>
+			</li>
+		</ul>
+		
 		<div class="info_window">
 			<p class="dealer_name">{{DealerName}}</p>
 			<p class="dealer_address">
@@ -1847,7 +1586,8 @@ s.eVar30=""
 //--></script>
 <script type="text/javascript">
   var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-30573015-1']);
+  _gaq.push(['_setAccount', 'UA-20856123-6']);
+  _gaq.push(['_setDomainName', 'hyundaiusa.com']);
   _gaq.push(['_trackPageview']);
   (function() {
     var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
@@ -1855,7 +1595,6 @@ s.eVar30=""
     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
   })();
 </script>
-<script type="text/javascript" src="/js/iperceptions_lib.js"></script><div><div id="UIF-8807" style="display: block; position: fixed; cursor: pointer; margin: 0px !important; padding: 0px !important; border: 0px !important; z-index: 2147483647 !important; text-align: right !important; vertical-align: bottom !important; background-color: transparent !important; height: 78px; right: 0px; bottom: 0px;"><img id="UIF-IMG-8807" src="/images/IPLIB_icon.png"></div></div>
 	
 	<script type="text/javascript">
 	s.pageName="en-US : hmausa : Privacy Policy";
