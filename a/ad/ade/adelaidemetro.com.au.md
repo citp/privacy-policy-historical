@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adelaidemetro.com.au privacy policy that was archived on 2013-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130608181851id_/http%3A//www.adelaidemetro.com.au/Terms-and-Conditions%23Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adelaidemetro.com.au privacy policy that was archived on 2013-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131030165629id_/http%3A//www.adelaidemetro.com.au/Terms-and-Conditions%23Privacy) for the most accurate reproduction.*
 
 # Adelaide Metro - Terms and Conditions
 
@@ -12,7 +12,7 @@ The Government of South Australia supports and encourages the dissemination and 
 
 #### Enquiries
 
-Use the [contact form](http://www.sa.gov.au/feedback "Go to the SA Government website") to make an enquiry about the use of Government of South Australia material on sa.gov.au. 
+Use the [contact form](https://web.archive.org/Contact-Us "Go to the SA Government website") to make an enquiry about the use of Government of South Australia material. 
 
 ## Disclaimer 
 
@@ -94,7 +94,7 @@ Adelaide Metro will record your email address and your mobile phone number and a
 
 Adelaide Metro may use this information to conduct research and in the improvement of service to customers. Information you provide may be disclosed to our service providers to provide you with the information you have requested but will not be disclosed for any other purpose without your content. 
 
-### Privacy and metrocard
+### Privacy and metrocard 
 
 ### Registered metrocards
 
@@ -141,7 +141,7 @@ Phone Number  |  No  |  Ticket Machine Recharge  |  Yes
 Email Address  |  No  |  Online Metrocard Management  |  No   
 Metrocard Number  |  Yes  |  Metrocard Protection  |  No   
   
-### Seniors Cards
+### Seniors Cards 
 
 The Seniors Card is issued by the Seniors Card Unit of the Office for the Ageing and entitles card holders to discounts, and benefits from businesses around the state. Your South Australian Seniors Card also serves as a Seniors metrocard, providing card holder’s public transport fare concessions. 
 
@@ -168,7 +168,7 @@ Email Address  |  Optional, required for online metrocard management  |  Online 
 Metrocard Number  |  Yes  |  Metrocard Protection  |  Yes   
 Seniors Card number  |  Yes  |    |     
   
-### Unregistered Seniors Cards
+### Anonymised Seniors Cards
 
 The Seniors Card is issued by the Seniors Card Unit of the Office for the Ageing.  
 At any time you can choose not to consent to personal information held by the Seniors Card Unit to be provided to us (The Department for Planning Transport and Infrastructure). 
