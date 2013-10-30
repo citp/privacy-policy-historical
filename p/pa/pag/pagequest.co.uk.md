@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the pagequest.co.uk privacy policy that was archived on 2013-01-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130130011540id_/http%3A//www.pagequest.co.uk/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pagequest.co.uk privacy policy that was archived on 2013-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131030015615id_/http%3A//www.pagequest.co.uk/privacy_policy) for the most accurate reproduction.*
 
-# Privacy Policy | Pagequest UK Article Directory
+# Privacy Policy | UK Article Directory
+
+**0** Flares Twitter 0 Facebook 0 Google+ 0 **0** Flares ×
 
 Your privacy is very important to us. Accordingly, we have developed this Policy in order for you to understand how we collect, use, communicate and make use of personal information. The following outlines our Privacy Policy. 
 
@@ -59,3 +61,5 @@ Contact**
 If you have any questions regarding this Policy, or your dealings with our web site, please contact us.
 
 ray@pagequest.co.uk
+
+### Share and Enjoy
