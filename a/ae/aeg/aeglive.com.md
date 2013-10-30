@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aeglive.com privacy policy that was archived on 2013-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130622040118id_/http%3A//www.aeglive.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aeglive.com privacy policy that was archived on 2013-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131031002410id_/http%3A//www.aeglive.com/privacy) for the most accurate reproduction.*
 
 # AEG Live | Privacy
 
@@ -141,7 +141,7 @@ By using this Site, you signify your agreement to the terms of our Privacy Polic
 
 ### Opting out of Registration.
 
-If you are a registered subscriber and no longer wish to receive our email communications, you may opt out. Choosing to opt out means we will remove your personal data from our database and you will not receive further communications from us. You may opt out by utilizing one of the following methods: (i) emailing us at [privacypolicy@aegworldwide.com](mailto:privacypolicy@aegworldwide.com) or (ii) using an option out message contained in an email from us.
+If you are a registered subscriber and no longer wish to receive our email communications, you may opt out. Choosing to opt out means we will remove your personal data from our database and you will not receive further communications from us. You may opt out by utilizing one of the following methods: (i) emailing us at [privacypolicy@aegworldwide.com](mailto:privacypolicy@aegworldwide.com), (ii) using an option out message contained in an email from us, or (iii) calling us at 888-929-7849.
 
 ### Whom do I contact with questions or concerns about this privacy policy?
 
