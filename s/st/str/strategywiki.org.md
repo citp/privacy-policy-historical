@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the strategywiki.org privacy policy that was archived on 2013-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130509184910id_/http%3A//strategywiki.org/wiki/StrategyWiki%3APrivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the strategywiki.org privacy policy that was archived on 2013-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131030071000id_/http%3A//strategywiki.org/wiki/StrategyWiki%3APrivacy_policy) for the most accurate reproduction.*
 
 # StrategyWiki:Privacy policy — StrategyWiki, the video game walkthrough and strategy guide wiki
 
