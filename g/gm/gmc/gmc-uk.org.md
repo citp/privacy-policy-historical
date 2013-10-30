@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gmc-uk.org privacy policy that was archived on 2013-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130525114701id_/http%3A//www.gmc-uk.org/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gmc-uk.org privacy policy that was archived on 2013-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131030031056id_/http%3A//www.gmc-uk.org/privacy_policy.asp) for the most accurate reproduction.*
 
 # GMC | Privacy and Cookies policy
 
@@ -9,7 +9,8 @@ This statement outlines how we will use and protect information that you provide
   1. 1\. How we use your personal data
   2. 2\. Your rights under the Data Protection Act 1998
   3. 3\. Our use of cookies
-  4. 4\. Website security: how we protect your information
+  4. 4\. Social media
+  5. 5\. Website security: how we protect your information
 
 
 
@@ -182,7 +183,29 @@ Name | Purpose | Cookie type
 WEBTRENDS_ID | This is our analytics provider Webtrends’ cookie used to collect information about which pages are popular and number of visitors to our site. We use the information to compile reports and to help us improve the site. | Persistent  
 ACOOKIE | This is our analytics provider Webtrends’ cookie used to collect information about which pages are popular and number of visitors to our site. We use the information to compile reports and to help us improve the site. | Persistent  
   
-## 4\. Website security: how we protect your information
+## 4\. Social media
+
+We use several social media sites to raise awareness of our work and promote good medical practice. Please note that your use of these sites will be subject to each one’s terms and conditions. Please read their Privacy and Cookie notices carefully and check your personal settings where appropriate to ensure you are happy with how your information will be used by the social media site. We don’t actively collect data you submit to any third party websites, but may collect aggregated information (that doesn’t identify you) in order to help us monitor access to our content. We use the following social media sites:
+
+  * [Twitter](https://www.twitter.com/gmcuk)
+  * [Facebook](https://www.facebook.com/GMCUK)
+  * [Google+](https://plus.google.com/u/0/103853150037270723033)
+  * [LinkedIn](http://www.linkedin.com/company/general-medical-council "Opens in a new window")
+  * [Wordpress](http://gmcuk.wordpress.com/ "Opens in a new window")
+  * [Storify](http://storify.com/GMCUK "Opens in a new window")
+  * [YouTube](http://www.youtube.com/user/GMCUKtv "Opens in a new window")
+  * [Pinterest](http://www.pinterest.com/gmcuk/ "Opens in a new window")
+  * [Flickr](http://www.flickr.com/photos/generalmedicalcouncil "Opens in a new window")
+  * [Audioboo](http://audioboo.fm/GMC-UK "Opens in a new window")
+  * [Slideshare](http://www.slideshare.net/GMCUK/ "Opens in a new window")
+  * [Issuu](http://issuu.com/gmcuk "Opens in a new window")
+  * [Prezi](http://prezi.com/user/GMCUK/ "Opens in a new window")
+
+
+
+Read more about our [social media sites](https://web.archive.org/about/contactus/14342.asp).
+
+## 5\. Website security: how we protect your information
 
 We are careful to guard the security of your personal data and the details of any transactions you make with us over the Internet.
 
@@ -199,4 +222,4 @@ There are a number of things you can do to help protect yourself from Internet f
 
 
 
-If you have any comments on how we can improve the website, please let us know
+If you have any comments on how we can improve the website, please let us know.
