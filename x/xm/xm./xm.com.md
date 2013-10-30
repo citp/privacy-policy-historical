@@ -1,31 +1,56 @@
-> *The following text is extracted and transformed from the xm.com privacy policy that was archived on 2010-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100414172624id_/http%3A//www.xm.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xm.com privacy policy that was archived on 2013-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131030224300id_/http%3A//www.xm.com/privacy-policy) for the most accurate reproduction.*
 
-# 
+# Privacy Policy
 
-Thank you for visiting our web site. This privacy policy tells you how we use personal information collected at this site. Please read this privacy policy before using the site or submitting any personal information. By using the site, you are accepting the practices described in this privacy policy. These practices may be changed, but any changes will be posted and changes will only apply to activities and information on a going forward, not retroactive basis. You are encouraged to review the privacy policy whenever you visit the site to make sure that you understand how any personal information you provide will be used.  
-Note: the privacy practices set forth in this privacy policy are for this web site only. If you link to other web sites, please review the privacy policies posted at those sites.
+We are committed to preserving the privacy of all visitors and users of this website. Please read the following privacy policy to understand how we use and protect the information that you provide to us. We will only use your personal information in accordance with the present Privacy Policy.
 
-### Collection of Information
+Our Privacy Policy Statement will be reviewed from time to time to take into account new laws and technology, changes to our operations and practices, and to ensure it remains appropriate to the changing environment. By using this website, you consent to us using your personal information as set out below.
 
-We collect personally identifiable information, like names, postal addresses, email addresses, etc., when voluntarily submitted by our visitors. The information you provide is used to fulfill you specific request. This information is only used to fulfill your specific request, unless you give us permission to use it in another manner, for example to add you to one of our mailing lists.
+## What personal information do we collect?
 
-### Cookie/Tracking Technology
+If you decide to apply to open an account with us, there is certain information that we will require from you in order to do so. This information includes but is not limited to personal details such as name, address, date of birth, contact details, employment details, assets and liabilities and other necessary financial information. From time to time we may also request further information to help us improve our services to you.
 
-The Site may use cookie and tracking technology depending on the features offered. Cookie and tracking technology are useful for gathering information such as browser type and operating system, tracking the number of visitors to the Site, and understanding how visitors use the Site. Cookies can also help customize the Site for visitors. Personal information cannot be collected via cookies and other tracking technology, however, if you previously provided personally identifiable information, cookies may be tied to such information. Aggregate cookie and tracking information may be shared with third parties.
+We obtain most of the information directly from our customers through application or other forms, and from maintaining records of information provided in the course of ongoing customer service. We may also collect information about your use of the website, such as pages visited, frequency and duration of visits and trading activities.
 
-### Distribution of Information
+## How do we use this information?
 
-We may share information with governmental agencies or other companies assisting us in fraud prevention or investigation. We may do so when: (1) permitted or required by law; or, (2) trying to protect against or prevent actual or potential fraud or unauthorized transactions; or, (3) investigating fraud which has already taken place. The information is not provided to these companies for marketing purposes. 
+We will use information collected from you to provide the information and services requested by you and to improve the quality of our services. Unless you are informed otherwise, the personal information we hold is used for:
 
-### Commitment to Data Security
+  * Establishing and managing your account;
+  * Reviewing your ongoing needs;
+  * Enhancing customer service and products;
+  * Giving you ongoing information or opportunities that we believe may be relevant to you.
 
-Your personally identifiable information is kept secure. Only authorized employees, agents and contractors (who have agreed to keep information secure and confidential) have access to this information. All emails and newsletters from this site allow you to opt out of further mailings.
 
-### Privacy Contact Information
 
-If you have any questions, concerns, or comments about our privacy policy you may contact us using the information below:
+## Disclosure of Information
 
-By e-mail:  
-By Phone:
+Depending on the product or service concerned and particular restrictions on sensitive information, this means that personal information may be disclosed to our service providers and specialist advisers who have been contracted to provide us with administrative, financial, insurance, research or other services; introducing brokers with whom we have a mutual relationship (any of whom may be within or outside the European Economic Area), credit providers, courts, tribunals and regulatory authorities as agreed or authorized by law.
 
-We reserve the right to make changes to this policy. Any changes to this policy will be posted. 
+## Credit reporting or reference agencies
+
+Personal information may also be disclosed to credit reporting or reference agencies, or to anyone authorized by an individual, as specified by that individual or the contract. In the case that you do not want us to use your personal information, please let us know in writing. If you decide to do so, we may not be able to continue to provide information, services and/or products requested by you and we will have no liability to you in respect of the same.
+
+## Updating your information
+
+You may inform **XM** at any time that your personal details have changed or that you wish **XM** to delete personal information we hold about you by e-mailing us to info@xm.com.
+
+**XM** will change or delete your personal information in accordance with your instructions, except when we are required to hold your personal information for regulatory or legal purposes, or to provide you with the services you have requested, or to maintain adequate business records.
+
+## Use of Cookies
+
+If you open an account with us, you will need to use our trading software, which enables us to use cookies when you access our website. Cookies are small files of information, which often include a unique identification number or value, which are stored on your computer’s hard drive as a result of you using this trading software and accessing this website. The purpose of this information is to provide you with a more relevant and effective experience of our website, including the presentation of our web pages according to your needs or preferences. 
+
+Cookies are frequently used on many websites on the Internet and you can choose if and how a cookie will be accepted by changing your preferences and options in your browser. You may not be able to access some parts of our website if you choose to disable the cookie acceptance in your browser, particularly the secure parts of the website. We therefore recommend you to enable cookie acceptance in order to benefit from all the services on our website.
+
+Furthermore, we use cookies for remarketing features in order to allow us to reach out to users who have previously visited our website and have shown an interest in our products and services. From time to time, we may use third party vendors, such as Google and DoubleClick, to display our ads over the internet to you, based on your previous use of our website. You can opt out of this particular use of cookies at any time by visiting [Google’s Ads Settings](http://www.google.com/settings/ads) and the [ DoubleClick opt-out page](https://www.google.com/settings/ads/onweb#display_optout).
+
+## What are your rights?
+
+You have (subject to certain exceptions) the right to obtain any personal information which **XM** holds about you and inform **XM** of any perceived inaccuracy. To make a request, please write to us, verifying your identity and specifying what information you require. We may charge a fee to cover the cost of verifying the application and locating, retrieving, reviewing and copying any material requested. We will acknowledge your request and respond to it within 40 days of receipt of your application and any applicable fee.
+
+## Amendments to policy
+
+We reserve the right to change this policy at any time. If any changes are made, an updated version will be posted on this page.
+
+**Risk Warning:** Forex, Commodities, Options and CFDs (OTC Trading) are leveraged products that carry a substantial risk of loss up to your invested capital and may not be suitable for everyone. Please ensure that you fully understand the risks involved and do not invest money you cannot afford to lose. Please refer to our full [Risk Disclosure](https://web.archive.org/assets/pdf/docs/XM_Risk-Disclosures-for-Financial-Instruments.pdf).
