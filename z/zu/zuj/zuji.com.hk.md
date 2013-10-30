@@ -1,18 +1,8 @@
-> *The following text is extracted and transformed from the zuji.com.hk privacy policy that was archived on 2013-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130630200840id_/http%3A//www.zuji.com.hk/site/help/corporate/privacy_policy.html%3Fskin%3Denhk.zuji.com.hk) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zuji.com.hk privacy policy that was archived on 2013-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131030215030id_/http%3A//www.zuji.com.hk/site/help/corporate/privacy_policy.html%3Fskin%3Denhk.zuji.com.hk) for the most accurate reproduction.*
 
 # ZUJI Hong Kong: Your Online Travel Guru
 
 ##   Privacy Policy  
-  26 November 2012
-
-## Contents
-
-  1. Who we are.
-  2. ZUJI protects your privacy.
-  3. What information is collected and how do we use it?
-  4. Who do we share your information with?
-  5. You have control over your information!
-
 
 
 ## A. Who we are
@@ -33,19 +23,21 @@ Back to Top
 
 ZUJI is committed to protecting your privacy in accordance with the highest consumer protection standards.
 
-Our Privacy Policy is designed with you in mind, and it is integral that you have a comprehensive understanding of our Personal Information collection and usage practices, as well as full confidence that ultimately, you have control of your Personal Information provided to ZUJI. For the purposes of this Privacy Policy, “Personal Information” shall mean any information that can be linked to a specific individual including without limitation, information such as name, address, telephone number, e-mail address and credit card number.
+Our Privacy Policy is designed with you in mind, and it is integral that you have a comprehensive understanding of our Personal Information collection and usage practices, as well as full confidence that ultimately, you have control of your Personal Information provided to ZUJI. For the purposes of this Privacy Policy, "Personal Information" shall mean any information that can be linked to a specific individual including without limitation, information such as name, address, telephone number, e-mail address and credit card number.
 
-By using our Websites and/or making Bookings, you are deemed to have read, acknowledged and accepted all the provisions stated herein this Privacy Policy, including any changes that we may make from time to time.
+Before using and continuing in using our Websites and/or making Bookings, you must have read, acknowledged and accepted all the provisions stated herein this Privacy Policy, including any changes that we may make from time to time.
 
-In summary, while you should read each provision in this Privacy Policy, you note that by using our Websites and/or making Bookings:
+In summary, while you should read each provision in this Privacy Policy, you note that by using and continuing in using our Websites and/or making Bookings:
 
   1. You agree that if you disclose your Personal Information to us, we may create a database record about you; 
-  2. If you register on our Websites, make Bookings, download any materials or conduct any other transaction, you agree for us to collect any Personal Information necessary to provide you with the service you have requested, and you agree that such Personal Information may be disclosed to service partners (who may be third parties) for those purposes;
-  3. You agree for us to use cookies on your browser (unless you remove them); 
-  4. You agree that we can contact you with information about products and services which may be of interest to you (unless you have stated you do not wish to receive these communications); and 
+  2. If you register on our Websites, make Bookings, download any materials or conduct any other transaction, you agree for us to collect any Personal Information necessary to provide you with the service you have requested, and with your explicit consent* such Personal Information may be disclosed to service partners (who may be third parties) for those purposes;
+  3. You agree for us to use cookies on your browser (pieces of information relating to your preferences sent by the Website to your browser and stored on your computer hard-drive). However, if you do not want to receive cookies you can disable this function by changing your browser settings. ; 
+  4. You agree that we can contact you with information about products and services offered by ZUJI which may be of interest to you (unless you have stated you do not wish to receive these communications); and 
   5. Your continued use of our Websites and/or by continually making Bookings indicates your agreement with any future changes in this Privacy Policy. 
 
 
+
+* Note: We will not sell, share or otherwise disclose or transfer your Personal Information to third parties for direct marketing purposes without your written consent. You may refer to section D below for details. 
 
 Back to Top
 
@@ -69,7 +61,7 @@ We collect the above information for the following purposes:
     4. To send you email confirmations for your reservations and purchases on ZUJI.
     5. For our customer service agents to contact you when necessary.
     6. To send you our optional periodical updates and/or newsletters, if you have signed up for them.
-    7. To send you information about products and services which may be of interest to you.
+    7. To send you information about products and services which may be of interest to you (unless you indicate to us that you do not wish to receive marketing communications from us including latest updates and promotional materials including discounts and offers from ZUJI. Please see Section D below for details.)
 
 
 
@@ -90,7 +82,7 @@ After registering as a member with ZUJI on our Websites or during the Bookings p
     2. Your travel preferences will allow you to customize your experience on ZUJI, for example, in some circumstances, ZUJI will display your local currency.
     3. To further confirm your identity.
     4. To prevent credit card fraud.
-    5. To send you information about products and services which may be of interest to you.
+    5. To send you information about products and services which may be of interest to you (unless you indicate to us that you do not wish to receive marketing communications from us including latest updates and promotional materials including discounts and offers from ZUJI. Please see Section D below for details).
 
 
 
@@ -100,8 +92,8 @@ After registering as a member with ZUJI on our Websites or during the Bookings p
   1. What information is collected? 
     1. Any time you make a purchased reservation, on hold reservation or save an itinerary while planning your trip on our Websites, your purchased reservation, on hold reservation or saved itinerary details will be saved into "My ZUJI".
   2. Why do we collect it? 
-    1. For your convenience, ZUJI stores your purchased reservation, on hold reservation or saved itinerary information in "My ZUJI", so that you may easily refer to your trip plans or complete your purchase. You are able to search your reservations using your Trip ID. 
-    2. To send you information about products and services which may be of interest to you.
+    1. For your convenience, ZUJI stores your purchased reservation, on hold reservation or saved itinerary information in "My ZUJI", so that you may easily refer to your trip plans or complete your purchase. You are able to search your reservations using your Trip ID.
+    2. To send you information about products and services which may be of interest to you (unless you indicate to us that you do not wish to receive marketing communications from us including latest updates and promotional materials including discounts and offers from ZUJI. Please see Section D below for details)
 
 
 
@@ -112,7 +104,7 @@ After registering as a member with ZUJI on our Websites or during the Bookings p
     1. From time to time, ZUJI may employ the services of a third party to conduct market research surveys on our behalf. You may choose to participate in our surveys, and your answers to our survey, as well as your Personal Information may be kept on record, and will be protected in a manner that is consistent with this Privacy Policy. Please note that the Personal Information you provide through our surveys will be used on an aggregated basis unless we inform you otherwise beforehand. 
   2. Why do we collect it? 
     1. ZUJI conducts market research surveys in order to learn from you how improvements can be made to our Websites.
-    2. To send you information about products and services which may be of interest to you.
+    2. To send you information about products and services which may be of interest to you (unless you indicate to us that you do not wish to receive marketing communications from us including latest updates and promotional materials including discounts and offers from ZUJI. Please see Section D below for details.
 
 
 
@@ -163,32 +155,62 @@ Cookies, when stored on your computer, facilitate the following:
 
 Back to Top
 
-## D. Who do we share your information with?
+## D. Use of Data in Direct Marketing 
+
+We intend to continue to use your Personal Information collected and held by us for the aforesaid purposes through various communication channels such as direct mail, email or mobile phone for use in direct marketing but we cannot so use your Personal Information without your consent. In this connection, please note that:
+
+  1. your name, address, telephone number, e-mail address, transaction pattern and behavior and demographic data held by us from time to time may be used by us in direct marketing;
+  2. the following classes of services, products and subjects may be marketed: 
+    1. related services and products offered by ZUJI and ZUJI’s co-branding partners (the names of such co-branding partners will be provided during the application of the relevant services and products, as the case may be);
+    2. reward, loyalty, privileges or co-branding programmes and related services and products; and
+    3. donations and contributions for charitable and/or non-profit making purposes.
+  3. the above services, products and subjects may be provided by:- 
+    1. ZUJI Pte Limited, its subsidaries and its co-branding partners;
+    2. third party services providers;
+    3. third party reward, loyalty, privileges or co-branding programme providers; and
+    4. charitable or non-profit making organisations.
+  4. In addition to marketing the above products or services, we also intend to provide the data described in paragraph D (i) to ZUJI Pte Limited, its subsidiaries, and the co-branding partners or associates of any of the foregoing for use by them in marketing those products or services but we will require your written consent (which includes an indication of no objection) for that purpose.
+    1. indicate your choice by checking either one of the tick boxes below: OR
+    2. E-mail us at [privacy@zuji.com](mailto:privacy@zuji.com), making either of the indications aforesaid. 
+
+OR
+
+    3. exercise your opt-out right by notifying us, and also making either of the indications aforesaid. Please refer to Section E below for details regarding your opt-out right. 
+Please allow some time for this request to be processed. 
+
+You always have the right to make subsequent changes on your choice of receiving further marketing materials by sending a written unsubsribe request to ZUJI Limited at any time.
+
+
+
+
+Back to Top
+
+## E. Who do we share your information with?
 
   1. ZUJI is the owner of all the Personal Information collected on our Websites or via the Bookings. We do not sell or rent any Personal Information to third parties.
   2. In making a travel booking on our Websites, you may choose the option to send your itinerary to a friend, in which case an email with your trip details, such as hotel information, is sent to the email address that you specify. Your friend's email address will be used solely for the purpose specified above.
   3. We may disclose your Personal Information on occasion to third parties. Some of these third parties may be located outside your home country. For example, such countries may include, without limitation, Singapore, Malaysia, Australia, New Zealand, Hong Kong, Taiwan, Brunei and the US. The Personal Information will be protected in a manner that is consistent with this Privacy Policy. Disclosure may include without limitation, the following scenarios: 
     1. To successfully complete your travel reservations or purchases or otherwise implement our terms of service, your Personal Information is provided as needed to third party product and service providers and distributors including without limitation the airlines, hotels, car rental agencies, travel insurance agencies or other third parties authorised by ZUJI, whenever you purchase or reserve travel with ZUJI.
-    2. When third parties have been authorised by ZUJI to perform projects such as market research surveys on our behalf or to offer you additional products and services.
-    3. When required by law to disclose the Personal Information.
-    4. With your prior express consent.
-    5. To protect the rights and property of ZUJI.
-  4. ZUJI may share your Personal Information with third parties when you engage in certain activities on our Websites that are sponsored by third parties, such as electing to receive information or communications from a third party (such as a hotel company or a tourism board for a particular destination), or electing to participate in promotions, contests, sweepstakes, games or other programs sponsored in whole or in part by a third party. ZUJI may also share your Personal Information when you respond to promotional materials from ZUJI and authorize a third party to use your Personal Information for purposes such as, for example, sending you additional promotional materials, providing you a product or service, or entering you in a contest, sweepstakes or game. We refer to all of these activities and requests as "Sponsored Activities." When you participate in Sponsored Activities, you will either be required or requested to agree that ZUJI may send your Personal Information (such as, in some cases, your mailing address or e-mail address) to the sponsor, and the sponsor may use your Personal Information in accordance with the sponsor's privacy practices. **In each case described in this section, ZUJI will only share your Personal Information after receiving your consent.** You should know that when ZUJI shares your Personal Information with a third party under any circumstance described in this section, your Personal Information will become permanently subject to the information use and sharing practices of the third party, and the third party will not be restricted by ZUJI's Privacy Policy with respect to its use and further sharing of your Personal Information.
+    2. When required by law to disclose the Personal Information.
+    3. With your prior express consent.
+    4. To protect the rights and property of ZUJI.
+  4. ZUJI may share your Personal Information with third parties when you engage in certain activities on our Websites that are sponsored by third parties, such as electing to receive information or communications from a third party (such as a hotel company or a tourism board for a particular destination), or electing to participate in promotions, contests, sweepstakes, games or other programs sponsored in whole or in part by a third party. ZUJI may also share your Personal Information when you respond to promotional materials from ZUJI and authorize a third party to use your Personal Information for purposes such as, for example, sending you additional promotional materials, providing you a product or service, or entering you in a contest, sweepstakes or game. We refer to all of these activities and requests as "Sponsored Activities." When you participate in Sponsored Activities, you will either be required or requested to agree that ZUJI may send your Personal Information (such as, in some cases, your mailing address or e-mail address) to the sponsor, and the sponsor may use your Personal Information in accordance with the sponsor's privacy practices. _**In each case described in this section, ZUJI will only share your Personal Information after receiving your written consent.**_ You should know that when ZUJI shares your Personal Information with a third party under any circumstance described in this section, your Personal Information will become permanently subject to the information use and sharing practices of the third party, and the third party will not be restricted by ZUJI's Privacy Policy with respect to its use and further sharing of your Personal Information.
   5. Links may be present on our Websites which result in you leaving our Websites and being taken to other third party websites. You should note that any Personal Information that you provide to these third party websites are not subject to this Privacy Policy, and we strongly recommend that you be aware of their respective privacy and security policies.
   6. ZUJI may also work with third parties that serve advertisements to our Websites and across the Internet on our behalf. Such third parties may (a) collect anonymous information about your visits to our Websites, and your interaction with our products and services, and (b) use information about your visits to our Websites and other websites to target advertisements for goods and services. This anonymous information is collected through the use of web beacons such as but not limited to pixel tags, which is industry standard technology used by most major websites. The web beacons may be used with cookies to compile aggregated statistics to analyze how our Websites are being used and may also be used on some of our emails to let us know which emails and links have been opened by the recipient. This allows us to gauge and monitor the effectiveness of our customer communications, advertisements and marketing campaigns on our Websites and across the Internet. No Personal Information is collected or used in this process. If you would like more information about this practice and to know your choices about not having this anonymous information used by our third party service providers, please click [here](http://www.networkadvertising.org/managing/opt_out.asp). You can also read more about online marketing practices and the technologies that support them by visiting the Network Advertising Initiative's website by clicking [here](http://www.networkadvertising.org/).
   7. You should also note that the processing of Personal Information on our Websites and the transmission of transaction messages relating to your travel reservations or purchases or Bookings, including your Personal Information, may involve transmissions over various networks (which may not be secure) and to various countries (including the US) and further processing and storage of data in such countries.
-  8. We may also disclose your Personal Information to our affiliates and non-affiliated business partners for their use both on our behalf and for their own business purposes. For example, our affiliates and business partners may use such Personal Information to send you information about their products, services, other information, and materials that may be of interest to you.
+  8. We may also disclose your Personal Information to our affiliates and non-affiliated business partners for their use both on our behalf and for their own business purposes but only with your written consent. For example, our affiliates and business partners may, after obtaining your written consent, use such Personal Information to send you information about their products, services, other information, and materials that may be of interest to you.
   9. To effect a corporate transaction, in connection with the sale, merger, acquisition, spin-off, or other corporate reorganization of our corporation, where your Personal Information may be disclosed, shared or transferred to the new controlling entity or other such authorised third party in the regular course of business.
 
 
 
 Back to Top
 
-## E. You have control over your information!
+## F. You have control over your information!
 
-  1. Opt-In and Opt-Out Policy 
+  1. Opt-In and Opt-Out Policy  
+
     1. While ZUJI hopes that you benefit from our product and service offers, at any time, you always have the option to opt-in or opt-out (as the case may be) to or from participating in ZUJI's product and service offers. For example, you will be given the option to unsubscribe to newsletters by unchecking the respective box. Please allow some time for this request to be processed.
-    2. We also offer you the ability to opt-in or opt-out (as the case may be) to or from receiving information of our products and services, by accessing and changing your Personal Information or by sending an e-mail to us at [subscribe@zuji.com](mailto:subscribe@zuji.com) or [unsubscribe@zuji.com](mailto:unsubscribe@zuji.com) (as the case may be). Please allow some time for this request to be processed.
+    2. b. We also offer you the ability to opt-in or opt-out (as the case may be) to or from receiving information of our products and services, by accessing and changing your Personal Information or by sending an e-mail to us at [subscribe@zuji.com](mailto:subscribe@zuji.com) or [unsubscribe@zuji.com](mailto:unsubscribe@zuji.com) (as the case may be). Please allow some time for this request to be processed.
     3. If you do not want us to use your Personal Information or to share your Personal Information with third parties that are ZUJI's partners, please e-mail us at [privacy@zuji.com](mailto:privacy@zuji.com). Please allow some time for this request to be processed.
     4. If you decide that you do not want ZUJI to use your Personal Information or to share your Personal Information with third parties, you understand and accept that this may in some cases impact on the availability of services and the quality of services that ZUJI may provide to you and may mean that the services provided to you (if possible at all) by ZUJI may not be customised for your use, may be less user-friendly and less efficient.
   2. Accessing your Personal Information and retention of Personal Information 
@@ -203,7 +225,7 @@ Back to Top
   3. Minors 
     * As we cannot distinguish the age of persons who access our Websites, a blanket privacy policy is applied. ZUJI does not seek or intend to seek to receive any Personal Information from minors (i.e. children younger than thirteen years of age). Should a parent or guardian have reason to believe that a minor has provided ZUJI with Personal Information without their prior consent, please contact us to ensure that the Personal Information is removed and unsubscribe them from any promotional contact opportunities. 
   4. Tell-A-Friend 
-    * If you choose to use our referral service to tell a friend about our Websites, we will ask you for your friend's Personal Information including without limitation, name and email address. We will automatically send your friend a one-time email inviting him or her to visit our Websites. ZUJI stores such Personal Information for the sole purpose of sending this one-time email and tracking the success of our referral program. 
+    * If you choose to use our referral service to tell a friend about our Websites, we will ask you for your friend's Personal Information including without limitation, name and email address. We will automatically send your friend a one-time email inviting him or her to visit our Websites. ZUJI stores such Personal Information for the sole purpose of sending this one-time email and tracking the success of our referral program. You agree that you shall have obtained on our behalf the consent of your friend in our so using his Personal Information. 
   5. Security 
     1. ZUJI has implemented technology and security features to safeguard the privacy of your Personal Information. A secure server protects your Personal Information. Additionally you can be assured that the information you provide to ZUJI is transmitted using Secure Socket Layer (SSL) encryption. If you become aware of any security breach, please let us know as soon as possible. 
     2. We have internal procedures in place requiring our employees and data processors to respect the confidentiality of any Personal Information held by ZUJI. 
@@ -218,7 +240,5 @@ Back to Top
     * ZUJI may amend this Privacy Policy from time to time. If we make any substantial changes in any way we use your Personal Information, we will notify you by posting a prominent announcement on our Websites or by way of an e-mail and you will have a choice as to whether or not we may use the Personal Information in this different manner. 
 
 
-
-Thank you for taking the time to understand our Privacy Policy.
 
 Back to Top
