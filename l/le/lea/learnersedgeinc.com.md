@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the learnersedgeinc.com privacy policy that was archived on 2013-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130630000946id_/http%3A//learnersedgeinc.com/aboutus-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the learnersedgeinc.com privacy policy that was archived on 2013-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131030064805id_/http%3A//www.learnersedgeinc.com/aboutus-privacy) for the most accurate reproduction.*
 
 # 
 
