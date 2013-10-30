@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the metacrawler.com privacy policy that was archived on 2013-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130513124448id_/http%3A//www.metacrawler.com/support/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the metacrawler.com privacy policy that was archived on 2013-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131030060316id_/http%3A//www.metacrawler.com/support/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -68,7 +68,7 @@ In the event InfoSpace goes through a business transition, such as a merger, bei
 
 ### Choice/Opt-out
 
-We desire to keep you in control of the personal information you provide to us. Accordingly, you can review, correct, change or remove the personal registration information you provide to InfoSpace and that InfoSpace controls. In order to elect not to receive future communications from us, please [Contact us](https://web.archive.org/support/contactus)
+We desire to keep you in control of the personal information you provide to us. Accordingly, you can review, correct, change or remove the personal registration information you provide to InfoSpace and that InfoSpace controls. In order to elect not to receive future communications from us, please [Contact us](https://web.archive.org/mczoo/support/contactus)
 
 ### Notification of Changes
 
@@ -94,6 +94,6 @@ Bellevue, Washington 98004 USA
 \+ (1) 425.201.6100 phone   
 \+ (1) 425.201.6150 fax 
 
-E-mail: [Contact us](https://web.archive.org/support/contactus)
+E-mail: [Contact us](https://web.archive.org/mczoo/support/contactus)
 
 Policy effective Oct 11, 2007
