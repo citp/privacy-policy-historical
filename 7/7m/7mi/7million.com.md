@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 7million.com privacy policy that was archived on 2013-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130512222755id_/http%3A//www.deepsilver.com/terms-of-use-privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 7million.com privacy policy that was archived on 2013-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131030095112id_/http%3A//www.deepsilver.com/terms-of-use-privacy-statement) for the most accurate reproduction.*
 
 # Terms of use - Footer - Deep Silver
 
