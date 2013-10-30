@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the review-australia.com privacy policy that was archived on 2013-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130629011422id_/http%3A//www.review-australia.com/customer-service%23terms) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the review-australia.com privacy policy that was archived on 2013-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131030190647id_/http%3A//www.review-australia.com/customer-service%23terms) for the most accurate reproduction.*
 
 # Customer Service | Review Australia | Dresses, Tops, Skirts, Knitwear, Pants, Jackets, Coats, Accessories, Daywear, Party, Wedding, Career
 
@@ -64,10 +64,14 @@ To return an item:
 
 5.) Send to:
 
-Review Online  
-17 Hardner Road  
-Mt Waverley   VIC   3149  
-Australia ** ** ** **
+_Review Ecommerce Returns Department_  
+ _Fastline_  
+ _Window 3_  
+ _309 Fitzgerald Road_  
+ _Derrimut, 3030_  
+ _Australia_  
+ ** **  
+
 
 **Faulty Garments**
 
@@ -85,13 +89,20 @@ Our goods come with guarantees that cannot be excluded under the Australian Cons
 
 **Payment Methods**
 
-We accept all major credit cards including, Visa, Mastercard, American Express and Diners. We also allow payments via PayPal and BPAY. Please note, as BPAY payments can take up to 3 business days to clear, orders will not be dispatched until payment is received.
+We accept all major credit cards including, Visa, Mastercard and American Express. We also allow payments via PayPal.
 
 **Website Security**
 
 Protecting your personal information is a top priority at Review online. You can order with confidence as we have a completely secure transaction process. We use Secure Sockets Layer (SSL) technology. This encrypts and protects data, including your credit card and personal information passed from you to Review online.  
 
 ## Sizing
+
+  * [Terms of Use and Sale](https://web.archive.org/terms-of-use-and-sale)
+  * [Intellectual Property](https://web.archive.org/intellectual-property/)
+  * [Accessibility   
+](https://web.archive.org/web/20131030190647id_/http%3A//www.review-australia.com/accessibility-policy)
+
+
 
 ## Terms & Privacy
 
