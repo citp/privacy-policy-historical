@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the deliaonline.com privacy policy that was archived on 2013-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130508013629id_/http%3A//www.deliaonline.com/home/our-privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the deliaonline.com privacy policy that was archived on 2013-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131030075304id_/http%3A//www.deliaonline.com/home/our-privacy-policy.html) for the most accurate reproduction.*
 
 # Our Privacy and Cookie Policy - from Delia Online
 
-[Return to listing](https://web.archive.org/recipes/main-ingredient/game/)
+[Return to listing](https://web.archive.org/recipes/type-of-dish/chutney/)
 
 At Delia Online we are committed to protecting your privacy. Any personal information we request from you will be safeguarded under the Data Protection Act 1998. This Act regulates the processing of information relating to individuals, including the holding, use or disclosure of such information. Our data is stored in a secure database protected by a number of access controls. 
 
@@ -23,7 +23,7 @@ We may also share non-personal, non-individual information in aggregate form wit
 
 By using this website you agree that we may collect and use data as described above. We will always make it clear how we do this and allow you to select whether, and to whom, your details may be disclosed. 
 
-Should your personal information change, or you no longer require the services you have consented to, please e-mail us via [privacy@deliaonline.com ](mailto:privacy@deliaonline.com)and we will ensure that your records are updated with immediate effect. 
+Should your personal information change, or you no longer require the services you have consented to, please e-mail us via feedback@deliaonline.com[ ](mailto:privacy@deliaonline.com)and we will ensure that your records are updated with immediate effect. 
 
 Delia Online reserves the right to share any information provided in response to a legal process, such as a court order or subpoena. 
 
@@ -68,14 +68,10 @@ A comprehensive audit of the site in terms of the main cookies that Delia Online
 
 If you have any questions or comments about the information contained in this this privacy policy please contact: 
 
-Nikki Dance   
-Delia Online   
-PO Box 1124   
-Knaphill   
-GU21 9AA   
 Email: [enquiries@deliaonline.com](mailto:enquiries@deliaonline.com)
 
 Last updated: 23 May 2012
 
-[Return to Homepage](https://web.archive.org/home "/home")  
-[Have you looked at the Delia Online Cookery School](https://web.archive.org/ "Have you looked at the Delia Online Cookery School")
+[Return to Homepage](https://web.archive.org/home "/home")   
+[Visit the Delia Online Cookery School with Waitrose](https://web.archive.org/ "Visit the Delia Online Cookery School with Waitrose")   
+[Click here to go to Waitrose.com](http://www.waitrose.com/ "Click here to go to Waitrose.com")
