@@ -1,9 +1,6 @@
-> *The following text is extracted and transformed from the krreddy.com privacy policy that was archived on 2013-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130627081653id_/http%3A//www.krreddy.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the krreddy.com privacy policy that was archived on 2013-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131030215359id_/http%3A//www.krreddy.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Krreddy.com | Post Free Classified Ads Online In India
-
-**Warning** : file_get_contents(http://feeds.delicious.com/v2/json/urlinfo/data?url=http%3A%2F%2Fwww.krreddy.com%2Fprivacy-policy%2F) [[function.file-get-contents](https://web.archive.org/web/20130627081653id_/http://www.krreddy.com/privacy-policy/function.file-get-contents)]: failed to open stream: HTTP request failed! HTTP/1.1 502 Bad Gateway in **/home/krreddyc/public_html/wp-content/plugins/digg-digg/include/dd-class.php** on line **1588**  
-
 
 Our Privacy Policy explains how the information we collect about you (users) while you are browsing/using our website is being used, processed and stored by our systems. Your use of this Site(s) constitutes acknowledgment and agreement with our privacy policy. You further acknowledge and agree that The Site may use your personal information in the manner described below which we have termed Our Privacy Policy for this Site
 
