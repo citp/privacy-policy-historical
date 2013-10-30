@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the driverupdate.net privacy policy that was archived on 2013-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130627172237id_/http%3A//www.driverupdate.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the driverupdate.net privacy policy that was archived on 2013-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131030062819id_/http%3A//www.driverupdate.net/privacy.php) for the most accurate reproduction.*
 
 # DriverUpdate.net - Update Drivers for Windows 7, XP, and Vista
 
