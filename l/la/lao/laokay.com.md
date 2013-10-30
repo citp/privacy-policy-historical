@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the laokay.com privacy policy that was archived on 2013-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130425142345id_/http%3A//www.laokay.com/PrivacyPolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the laokay.com privacy policy that was archived on 2013-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131030131108id_/http%3A//www.laokay.com/PrivacyPolicy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -20,7 +20,7 @@ In some cases, we may collect information about you that isn't personally identi
 If LAokay.com is sold, the information we have obtained from you through your voluntary participation in our site may transfer to the new owner as a part of the salient order that the service being provided to you may continue. In that event, you will receive notice through our website of that change in control and practices, and we will make reasonable efforts to ensure that the purchaser honors any opt-out requests you might make of them.
 
 **How You Can Correct or Remove Personal Information**  
-We provide this privacy policy as a statement to you of our commitment to protect your personal information. If you have submitted personal information through our website and would like that information deleted from our records or would like to update or correct that information, please feel free to [Contact Us](https://web.archive.org/web/20130425142345id_/http%3A//www.laokay.com/ContactUs.htm "Contact Us").
+We provide this privacy policy as a statement to you of our commitment to protect your personal information. If you have submitted personal information through our website and would like that information deleted from our records or would like to update or correct that information, please feel free to [Contact Us](https://web.archive.org/web/20131030131108id_/http%3A//www.laokay.com/ContactUs.htm "Contact Us").
 
 **Updates and Effective Date**  
 LAokay.com reserves the right to make changes in this policy. If there is a material change in our privacy practices, we will publish them here immediately. We encourage you to periodically review this policy so that you will know what information we collect and how we use it.
