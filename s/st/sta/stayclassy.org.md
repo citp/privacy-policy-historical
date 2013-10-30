@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stayclassy.org privacy policy that was archived on 2013-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130616081522id_/https%3A//www.stayclassy.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stayclassy.org privacy policy that was archived on 2013-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131030161023id_/https%3A//www.stayclassy.org/privacy) for the most accurate reproduction.*
 
 # 
 
