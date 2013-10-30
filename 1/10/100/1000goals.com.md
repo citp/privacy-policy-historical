@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 1000goals.com privacy policy that was archived on 2013-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130511045028id_/http%3A//www.1000goals.com/privacy-policy%23.UDeK5dYgdRY) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 1000goals.com privacy policy that was archived on 2013-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131030011126id_/http%3A//www.1000goals.com/privacy-policy%23.UDeK5dYgdRY) for the most accurate reproduction.*
 
 # Privacy | Football highlights - 1000Goals
 
@@ -18,30 +18,22 @@ This site contains links to other sites. 1000goals.com is not responsible for th
 
 ### Latest Football News
 
-[ ](http://www.1000goals.com/news/mazzari-coy-on-future-with-napoli)
+[ ](http://www.1000goals.com/news/steven-gerrard-100-premier-league-goals)
 
-Napoli may have already secured their spot for next season Champions League football, but they apparently still haven't secure the future of their current tactician Walter Mazzarri as the head coach recently coy on whether he will stay or not at San Paolo next season. Speaking to the press in recent press conference, Mazzarri revealed…
+Liverpool might fail to pick up all three points from their latest English Premier League fixture against Newcaslte United last weekend as they were held into a 2-2 draw, but there was still a little bit celebration going on as the Anfield gang's skipper, Steven Gerrard celebrated his 100th league goals for his team on…
 
-[ ](http://www.1000goals.com/news/alex-unsure-about-ancelottis-future-at-psg)
+[ ](http://www.1000goals.com/news/former-milan-star-alessandro-nesta-set-to-retire-from-football)
 
-Paris Saint-Germain are close to seal their French League 1 title this season, but the future of their current tactician, Carlo Ancelotti remains unclear as rumors are running high stating on his potential departure. Things aren't getting any clearer when PSG players themselves don't really know much about the situation, just as what Brazilian defender,…
+Another Italian legendary defender is setting up to fully retire from football as former AC Milan and Lazio star, Alessandro Nesta, recently confirmed about his plan of becoming a coach right after finishing his current MLS season with Montreal Impact. Nesta stated that after such a long footballing career, he believes that after the season…
 
-[ ](http://www.1000goals.com/news/thiago-wants-barcelona-players-to-focus-on-clinching-la-liga-title)
+[ ](http://www.1000goals.com/news/milan-looking-forward-for-fascinating-barcelona-battle)
 
-Barcelona failure in reaching the final stage of Champions League after being demolished by Bayern Munich triggered several rumors about potential departure next summer, but the Catalan young talent, Thiago Alcantara refused to comment about the media freenzy as he stated his team are fully focusing on confirming their La Liga win this weekend. Alcantara…
+AC Milan are gearing up for another 'regular' Champions League battle against Spanish giant, Barcelona on Tuesday and ahead of that clash, Rossoneri head coach, Massimiliano Allegri hails the upcoming encounter, stating it will be a fascinating match. Allegri also urged his players to put on a strong and solid performance if they want to…
 
-[ ](http://www.1000goals.com/news/man-united-confirmed-moyes-fergusons-replacement)
+[ ](http://www.1000goals.com/news/barcelona-hopeful-that-messi-will-be-fit-for-match-with-ac-milan)
 
-It's been something that many people have been predicting, but still an official confirmation was needed to confirm David Moyes' role as new manager for Manchester United, in place of Sir Alex Ferguson. After being tipped for quite some time, United have finally revealed that Moyes will indeed be in charged of the Red Devils…
+Spanish giant, Barcelona will face another familiar and tricky test on their Champions League campaign as the Catalan side set to face AC Milan at San Siro this Tuesday. Speaking ahead of that encounter, Barca's head coach, Gerardo Martino admitted that his side must try to play their normal football and limit Rossoneri's attacking threat.…
 
-[ ](http://www.1000goals.com/news/man-utd-keen-on-keeping-rooney-at-old-trafford)
+[ ](http://www.1000goals.com/news/milan-suffered-balotelli-injury-scare)
 
-The resigning of Sir Alex Ferguson has been causing plenty of news in recent days and topping that off there were another reports stating that Wayne Rooney has once again asking to leave the club soon after Fergie's retiring confirmation occurred. However, Man United have immediately washed away that rumors, stating that their star striker…
-
-### Be Our Facebook Fan
-
-[](http://www.kitdos.com/ "Dedicated and VPS servers")
-
-### Football Scores & Highlights
-
-### Latest Football Highlights
+Just when things seems to be getting better for AC Milan with some of their absentees regaining fitness, another disappointing news arrived after the Italian giant confirmed that their star striker, Mario Balotelli suffered a problem in his thigh during their latest training session. The Italian international will have further examination to determine the length…
