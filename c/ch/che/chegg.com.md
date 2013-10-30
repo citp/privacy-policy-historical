@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chegg.com privacy policy that was archived on 2013-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130628050416id_/http%3A//www.chegg.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chegg.com privacy policy that was archived on 2013-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131030152831id_/http%3A//www.chegg.com/privacypolicy) for the most accurate reproduction.*
 
 # Chegg.com
 
@@ -27,7 +27,7 @@ Please read this Privacy Policy to learn more about:
     5. Sweepstakes, Contests and Promotions
   * THIRD PARTY AD NETWORKS AND ANALYTICS PROVIDERS
   * MOBILE USE
-  * UPDATING YOUR ACCOUNT INFORMATION AND CONTROL OVER YOUR PROFILE
+  * UPDATING YOUR ACCOUNT INFORMATION AND CONTROL OVER CHEGG EMAILS
   * CLOSING YOUR ACCOUNT
   * THIRD PARTY CONTENT, LINKS TO OTHER SITES, AND CHEGG CONTENT FOUND OUTSIDE OF THE SERVICES
   * SECURITY
@@ -139,13 +139,13 @@ We may share Usage Information about visitors with third party advertising compa
 
 If you use the Services through a mobile device or our mobile application, your mobile device ID, your mobile carrier, and your physical (GPS) location may be transmitted to Chegg. You agree that Chegg may store and use that information for security purposes (for example, for user verification and to ensure that Chegg's APIs are being used appropriately) and, if available, for purposes of assisting you in locating nearby shipping stores, schools or other places of interest. If you wish to no longer allow Chegg to track your physical locations you may turn this off within your device settings. When you place an order through the Services, you may be able to opt-in to receiving text messaging reminders from Chegg. If you choose to do so, you must provide to Chegg your telephone number, which Chegg will store and use to send reminders to you. You may always opt-out by replying "STOP" to one of the text messages received. You also acknowledge and agree that use of the Services through a mobile device may cause data to be displayed on and through your mobile device which may be viewed by your mobile carrier or other access provider.
 
-**UPDATING YOUR ACCOUNT INFORMATION AND CONTROL OVER YOUR PROFILE**
+**UPDATING YOUR ACCOUNT INFORMATION AND CONTROL OVER CHEGG EMAILS**
 
-You may be able to review the information you provided to us on a Service and make any desired changes to the information, or to the settings for your account on that Service, by logging in to your account for that Service and editing or deleting the information. You also may be able to limit the information you receive from us by adjusting your settings. However, we reserve the right to send you information on our behalf and on behalf of third parties in connection with providing the Services. If you no longer want to receive information from us, you will need to close your account for that Service.
+You may be able to review the information you provided to us on a Service and make any desired changes to the information, or to the settings for your account on that Service, by logging in to your account for that Service and editing or deleting the information. You also may be able to limit the information you receive from us by adjusting your settings [here](https://www.chegg.com/my/preferences). All changes to your email settings and preferences must be made in your account preferences page which can be accessed through this link, or by using the unsubscribe button at the bottom of the Chegg email. However, we reserve the right to send you information on our behalf and on behalf of third parties in connection with providing the Services. If you no longer want to receive information from us, you will need to close your account for that Service.
 
 **CLOSING YOUR ACCOUNT**
 
-If you wish to close your account with one of our Services, please send your request to [legaldept@chegg.com](mailto:legaldept@chegg.com) and we will remove your Personal Information and Profile, if applicable, from the active databases for the Service(s) you request. Please let us know which Service(s) you wish to close and send your request using an email account that you have registered with Chegg under your name. You typically will receive a response to a request sent to [legaldept@chegg.com](mailto:legaldept@chegg.com) within five business days of our receiving it.
+If you wish to close your account with one of our Services, please send your request to closemyaccount@chegg.com and we will remove your Personal Information and Profile, if applicable, from the active databases for the Service(s) you request. Please let us know which Service(s) you wish to close and send your request using an email account that you have registered with Chegg under your name. You typically will receive a response to a request sent to closemyaccount@chegg.com within five business days of our receiving it. Requests to change your email preferences or unsubscribe from all emails may not be made through this email address, but rather must be submitted through one of the channels set out in the previous section.
 
 Even if your account is closed, information may remain in backup records and we may retain certain data if it may be necessary to prevent fraud or future abuse or for legitimate business purposes, such as analysis of aggregated, non-personally-identifiable data, account recovery or if required by law. All retained data will continue to be subject to the applicable privacy policy for the Service. Also, if you have posted content on or through the Services, such as in Community Forums, we may not be able to delete it.
 
