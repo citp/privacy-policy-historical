@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the soul-source.co.uk privacy policy that was archived on 2013-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130509185356id_/http%3A//www.soul-source.co.uk/soulforum/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the soul-source.co.uk privacy policy that was archived on 2013-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131030155143id_/http%3A//www.soul-source.co.uk/soulforum/privacypolicy) for the most accurate reproduction.*
 
 # Cookies/Privacy Policy - Soul Source Rare and Northern Soul
 
