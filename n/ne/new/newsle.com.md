@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the newsle.com privacy policy that was archived on 2011-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110902010918id_/http%3A//www.newsle.com/static/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newsle.com privacy policy that was archived on 2013-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131030172938id_/http%3A//newsle.com/privacy) for the most accurate reproduction.*
 
-# newsle - privacy policy
+# newsle: privacy policy
 
 ## Privacy Policy
 
@@ -12,19 +12,21 @@ Like most website operators, Newsle collects non-personally-identifying informat
 
 Newsle also collects potentially personally-identifying information like Internet Protocol (IP) addresses for logged in users. Newsle only discloses IP addresses under the same circumstances that it uses and discloses personally-identifying information as described below.
 
-### Gathering of Personally-Identifying Information
-
-Some features of the Newsle service require Newsle to gather personally-identifying information. The amount and type of information that Newsle gathers depends on the nature of the interaction. For example, we gather basic information about a user and his or her contacts if the user chooses to connect his or her account to services such as Facebook, LinkedIn, or Twitter. In each case, Newsle collects such information only insofar as is necessary or appropriate to fulfill the purpose of the visitor’s interaction with the service. We never store your login credentials to any third party websites. Newsle does not disclose personally-identifying information other than as described below. And visitors can always refuse to supply personally-identifying information, with the caveat that it may prevent them from engaging in certain features of the service.
-
-If you grant Newsle access to your Facebook, LinkedIn, or Twitter account, Newsle will collect certain information about you and the people you are connected to on the account. This information is limited by the privacy settings of you and your connections, which you set through your accounts on those services. Newsle uses this information to disambiguate between people with similar names, and will not make public any of the information gathered from these services, with the exception of the name, public photo, and account ID of you and your connections, which are already publicly available.
-
-If you grant Newsle permission to do so, Newsle may post content to your Facebook wall. Newsle will not post content except in response to your specific actions on Newsle. This may include one post when you sign up using your Facebook account, and one post each time you "Congratulate" one of your Facebook friends.
-
 ### Content in the Service
 
-The Newsle service automatically groups news information, images, videos, and other publicly-available content based on people who are related to the content. Newsle does not guarantee that the groupings will be correct; there will be circumstances in which content is incorrectly linked to a person.
+Newsle automatically groups news articles, blog posts, and other publicly-available content based on people who are related to the content. Newsle does not guarantee that the groupings will be correct. There will be circumstances in which content is incorrectly linked to a person.
 
-While the content in the Newsle service may reference users by name, Newsle only aggregates content that is publicly available on other websites and indexable by a search engine.
+While the content in the Newsle service may reference users by name, Newsle only aggregates content that is publicly available on other websites and indexable by a search engine. We do not search for personal records, criminal records, phone numbers, addresses, or other private information.
+
+### Gathering of Personally-Identifying Information
+
+Some features of the Newsle service require Newsle to gather personally-identifying information. The amount and type of information that Newsle gathers depends on the nature of the interaction. For example, we gather basic information about a user and his or her contacts if the user chooses to connect his or her account to services such as Facebook, LinkedIn, Twitter, or email. In each case, Newsle collects such information only insofar as is necessary or appropriate to fulfill the purpose of the visitor’s interaction with the service. We never store your login credentials to any third party websites. Newsle does not disclose personally-identifying information other than as described below. And visitors can always refuse to supply personally-identifying information, with the caveat that it may prevent them from engaging in certain features of the service.
+
+### Use of Personally-Identifying Information
+
+If you grant Newsle access to your Facebook, LinkedIn, Twitter, or email account, Newsle will collect certain information about you and the people you are connected to on the account. This information is limited by the privacy settings of you and your connections, which you set through your accounts on those services. Newsle uses this information to disambiguate between people with similar names, and will not make public any of the information gathered from these services, with the exception of the name, public photo, and account ID of you and your connections, which are already publicly available.
+
+If you grant Newsle permission to do so, Newsle may post activity to your Facebook account via Facebook Open Graph that corresponds to actions you take on Newsle. Newsle will not post activity to Facebook except in response to your specific actions on Newsle. By submitting contacts from any service, you authorize Newsle to contact those individuals on your behalf.
 
 ### Aggregated Statistics
 
@@ -36,7 +38,7 @@ Newsle discloses potentially personally-identifying and personally-identifying i
 
 ### Deleting Your Account
 
-To delete your account, click on the "unsubscribe" link, which is included at the bottom of your confirmation email and other emails from Newsle. The unsubscribe page has an option to delete your account. To revoke Newsle's permission to access your Facebook, LinkedIn, or Twitter account, use that service's privacy settings interface for external applications.
+To delete your account, go to newsle.com/settings and click "Delete My Account" at the bottom of the settings dialog. To revoke Newsle's permission to access your Facebook, LinkedIn, Twitter, or email account, use that service's privacy settings interface for external applications.
 
 ### Cookies
 
