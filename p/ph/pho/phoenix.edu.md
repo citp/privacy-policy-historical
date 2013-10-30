@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the phoenix.edu privacy policy that was archived on 2013-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130620142418id_/http%3A//www.phoenix.edu/copyright-legal/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the phoenix.edu privacy policy that was archived on 2013-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131030065953id_/http%3A//www.phoenix.edu/copyright-legal/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - University of Phoenix
 
