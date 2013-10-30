@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the tokyo2020.org privacy policy that was archived on 2013-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130609224031id_/http%3A//tokyo2020.jp/en/other/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tokyo2020.org privacy policy that was archived on 2013-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131030042622id_/http%3A//tokyo2020.jp/en/other/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy>>TOKYO 2020 CANDIDATE CITY
-
-## Privacy Policy
+# Privacy Policy>>TOKYO 2020
 
 ### Specified Nonprofit Corporation Tokyo 2020 Bid Committee Personal Information Protection Policies
 
