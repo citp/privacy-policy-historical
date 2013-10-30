@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the target.ca privacy policy that was archived on 2013-02-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130220015701id_/http%3A//www.target.ca/en/privacy%3Flnk%3Dfnav) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the target.ca privacy policy that was archived on 2013-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131030141838id_/http%3A//www.target.ca/en/privacy%3Flnk%3Dfnav) for the most accurate reproduction.*
 
 # Target Canada | privacy policy
 
