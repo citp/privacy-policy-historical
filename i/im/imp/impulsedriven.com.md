@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the impulsedriven.com privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621105118id_/http%3A//impulsedriven.com/support/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the impulsedriven.com privacy policy that was archived on 2013-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131030064313id_/http%3A//www.impulsedriven.com/support/privacy) for the most accurate reproduction.*
 
 # GameStop PC Downloads : Support : Privacy Policy
+
+Last updated: July 8, 2013
 
 GameStop is aware of your concerns about use of your personal information. We attempt to use and share personal information that we collect online carefully and sensibly. This notice describes our privacy policy. By visiting Impulsedriven.com, you are accepting the practices described in this privacy notice. 
 
@@ -88,9 +90,23 @@ Our website may contain links to other websites. If you choose to visit other we
 
 Whether or not you have viewed our terms and conditions of use of this website, or this privacy notice, and whether or not you have chosen to not receive notices from us, those terms and notices will still govern your use of Impulsedriven.com. We may update or change our terms of use and this privacy notice at any time and from time to time, as we determine is appropriate. 
 
-## Use of Our Website by Child
+## Use of Our Website by Children
 
-Impulsedriven.com does not sell products for purchase by children. We sell children's products for purchase by adults. If you are under 18, you may use Impulsedriven.com only with the involvement of a parent or guardian. We do not knowingly collect or store any personal information, even in the aggregate, about children under the age of 13. 
+Our websites, services and applications are designed for and directed at people 13 years of age or older. We do not knowingly collect information from children under 13. If GameStop learns that a child under the age of 13 has submitted personally identifiable information online in contravention of these measures, it will take all reasonable measures to delete such information from its databases and to not use such information for any purpose (except where necessary to protect the safety of the child or other as required or allowed by law). If you become aware of any personal information we have collected from children under 13, please contact us at: 
+
+GameStop.com Customer Service  
+Legal Department  
+625 Westport Pkwy  
+Grapevine, TX 76051  
+
+
+For additional tips on how to help children stay safe on the Internet, we recommend that you visit the following sites: 
+
+  * [www.ftc.gov/privacy/privacyinitiatives/childrens.html](http://www.ftc.gov/privacy/privacyinitiatives/childrens.html)
+  * [www.ftc.gov/bcp/edu/pubs/consumer/tech/tec14.shtm](http://www.ftc.gov/bcp/edu/pubs/consumer/tech/tec14.shtm)
+  * <http://www.onguardonline.gov/features/feature-0002-featured-info-parents>
+
+
 
 ## Terms and Conditions of Use, Notices, and Revisions
 
