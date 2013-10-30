@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the artofliving.org privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621112210id_/http%3A//www.artofliving.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the artofliving.org privacy policy that was archived on 2013-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131030075040id_/http%3A//www.artofliving.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The Art Of Living Global
 
