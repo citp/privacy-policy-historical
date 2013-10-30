@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rdg.ac.uk privacy policy that was archived on 2013-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130420081037id_/http%3A//www.reading.ac.uk/about/about-privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rdg.ac.uk privacy policy that was archived on 2013-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131030094922id_/https%3A//www.reading.ac.uk/about/about-privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy and Cookies Information for the University of Reading WebsiteDRAFT - University of Reading
 
@@ -135,6 +135,18 @@ PHPSESSID
 Automatically set when visiting any pages running on the PHP platform -essential for the running of web sites using PHP such as our blogs at blogs.reading.ac.uk.
 
 | This cookie contains a randomly generated number - your session ID  
+  
+**X-CMS-Server  cookie**
+
+| 
+
+ROUTEID
+
+| Until you close your browser | 
+
+This is given to a user on the first request to a CMS server via the load balancer; it is required to ensure that subsequent request are always forwarded to the same frontend CMS server to maintain sessions.
+
+| The cookie will have the value of either .cms1 or .cms2.  
   
 #### Google Analytics 
 
