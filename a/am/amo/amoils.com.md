@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the amoils.com privacy policy that was archived on 2013-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130527171533id_/http%3A//www.amoils.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amoils.com privacy policy that was archived on 2013-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131030124951id_/http%3A//www.amoils.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Healing Natural Oils - Amoils.com
 
@@ -30,7 +30,6 @@
     * [Moles](http://www.amoils.com/mole-removal.html "Moles")
     * [Nail Fungus](http://www.amoils.com/nail-fungus-treatment.html "Nail Fungus")
     * [Psoriasis](http://www.amoils.com/psoriasis.html "Psoriasis")
-    * [Restless Legs](http://www.amoils.com/restless-leg-syndrome-rls.html "Restless Legs")
     * [Rosacea](http://www.amoils.com/rosacea-treatment.html "Rosacea")
     * [Scars](http://www.amoils.com/scars.html "Scars")
     * [Skin Tags](http://www.amoils.com/skin-tags-removal.html "Skin Tags")
