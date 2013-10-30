@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the extrapackofpeanuts.com privacy policy that was archived on 2012-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120914004433id_/http%3A//www.extrapackofpeanuts.com/privacy-policy-3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the extrapackofpeanuts.com privacy policy that was archived on 2013-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131030042818id_/http%3A//www.extrapackofpeanuts.com/privacy-policy-3) for the most accurate reproduction.*
 
-# Privacy Policy | Extra Pack of Peanuts | Extra Pack of Peanuts
+# Privacy Policy
 
 **Extra Pack of Peanuts Privacy Policy**
 
