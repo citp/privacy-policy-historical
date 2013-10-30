@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nokiavnn.com privacy policy that was archived on 2013-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130630232331id_/http%3A//www.nokiavnn.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nokiavnn.com privacy policy that was archived on 2013-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131030014308id_/http%3A//www.nokiavnn.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy PolicyNokia N8 808 PureView C7 X7 E7 E6 N9 Asha Lumia | Nokia N8 808 PureView C7 X7 E7 E6 N9 Asha Lumia
 
