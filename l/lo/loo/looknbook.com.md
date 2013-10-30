@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the looknbook.com privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501121331id_/http%3A//looknbook.com/Privacy_Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the looknbook.com privacy policy that was archived on 2013-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131030235625id_/http%3A//looknbook.com/Privacy_Policy.aspx) for the most accurate reproduction.*
 
 # www.looknbook.com
 
 ##  Privacy Policy
-
-is a wholly owned subsidiary of Spring Travels (P) Ltd.
 
 is committed to protecting our customer’s privacy. We employ the highest levels of security to keep the personal information of our valued customers strictly confidential. We will not disclose or sell any of your personal information, including your name, address, credit card details or transaction history to any third party without your permission. We do not use cookies
 
