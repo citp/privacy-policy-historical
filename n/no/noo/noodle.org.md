@@ -1,109 +1,107 @@
-> *The following text is extracted and transformed from the noodle.org privacy policy that was archived on 2013-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130630232026id_/http%3A//www.noodle.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the noodle.org privacy policy that was archived on 2013-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131030042555id_/http%3A//www.noodle.org/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Noodle Education
+# Privacy Policy | Noodle
 
-Noodle.org connects people with educational options and opportunities. To do a good job at this, we learn about you by asking you questions, paying attention to what you do on the site, and, with your consent, by bringing over information from Facebook or other social networks. If you request us to, we will forward some of this information to education providers. As with most sites, you may also elect to be contacted by service providers we think offer you something of value, without having to select that option each time. 
+Noodle is a comprehensive education search engine, helping users find the best schools, tutors, coaches, content, and more. Everything you find on Noodle is based on your unique educational preferences; however, that requires that we know a bit about you. 
 
-Noodle also offers tutoring services, and allows you to enroll in our programs as well as those of others. Enrolling in a course or program may require additional information related specifically to that transaction. 
+In this Privacy Policy, we will explain how we collect, transfer, store, disclose, and use your information to make Noodle both helpful and safe. Remember, by visiting Noodle.org and using Noodle’s services, you are consenting to the use of your information in ways described in this Privacy Policy. 
 
-Finally, we allow all our users to share with others (on Noodle and on social networks like Facebook) information about themselves, the results of their Noodle activities, and to invite their friends to join them. Whether and how much to participate is up to you. 
+###  What information do we collect? 
 
-In this document, we’ll attempt to explain as clearly as possible what we do with your personal information, and how you can control those uses. 
+####  Signing up for a Noodle Account 
 
-### What information do we collect?
+Registering for a free account on Noodle is the best way to engage with the features that we offer. To register, we may ask you for a valid email address, your name, your gender, whether you are a student, parent, or educator, your zip code, and other questions that help us to get to know you. By setting up an account, we have somewhere to save your information, which we then use to personalize your experience on Noodle. 
 
-You don’t have to register to use the site, but many of its features require an account to which we can save information about you. When you attempt to use one of those features, you’ll be asked to register. 
+You also have the option to sign up for Noodle with your Facebook account or other third party websites. If you choose to do so, you are linking that account with your Noodle account, which allows us to collect and store personally identifying information that you have provided to Facebook and other third party websites. 
 
-We collect information from you when you register, and then as you engage in Noodle searches. Setting up an account requires a valid email address, and a name by which we can address you. We may also ask what sex you are, whether you’re a student, a parent, or an educator, and your zip code, so we can get a sense of who you are, and tailor your experience more closely to your needs. 
+#### Interacting with the site
 
-Depending on what you’re searching for (an elementary school or test prep for your child, a college or grad school for yourself, study abroad, etc.) we may ask questions about where you live, what your needs or interests are, and other similar things. In some searches we may ask you a question that seems strange. (“If you were a flower, how would you smell?”) Almost always it’s because the answer says something about what you’ll find rewarding or enjoyable in an educational experience. All of these questions are optional, though the more you answer the better our suggestions become. 
+We record and store the ways you interact and engage with the features on the Noodle site. That way, we know what you like, what you don’t, and what else you might find interesting. By collecting this information, we can tune the recommendations we make, the content we share, and the search results we generate; the more you interact with the site, the better our recommendations become. 
 
-### Cookies and Tracking
+On Noodle, we allow you to parametrize your search based on your educational preferences. These parameters are different depending on whether you are searching for a preschool, a college, after school activities, online courses, test prep, or anything else. We collect this information about your preferences and link them to your profile; the more you tell us, the more we can help. 
 
-Cookies are small files that a site or its service provider transfers to your computer through your Web browser that enables the sites to recognize your browser and capture and remember certain information in order to track visits, gather general visitor information, and customize and enhance your experience. 
+Noodle also helps make your educational experience social. We’ve created Boards and other tools that allow you to share information with other Noodle users and to respond to what others have posted. Be careful about sharing Personally Identifiable Information (PII) with people you do not know. 
 
-Every browser allows you to control which cookies you’ll accept, or to reject them entirely. As with many sites, Noodle requires you to accept cookies in order to perform its most useful functions. 
+#### Other ways we collect information
 
-### What do we use your information for?
+When you contact Noodle’s customer service for any reason, we record and save the contents of the exchange in order to improve our site and to better serve you and our other users in the future. 
 
-The information we collect from you may be used in one of the following ways: 
+As Noodle grows, it is possible that we will expand the scope of user profiles and features. This means that you will have the ability to add more personal information to your account. This information will be collected and stored. 
 
-  * To personalize your experience.
+We also store some non-personally identifying information while you use our site. This information is collected automatically. Examples of such information include your internet protocol address, your computer’s operating system, your internet browser information, and your navigation path while using Noodle. 
 
+#### Cookies and more
 
+In order to keep your experience on Noodle consistent, we use a technology called cookies. Cookies are small files that a site or its service provider transfers to your computer through your Web browser that enables the site to recognize your browser and to remember certain information about you. We also use technologies like web beacons, pixel tags, and ad tags, which helps Noodle understand your interactions with the site. 
 
-If we know you’re interested in grad schools we won’t waste your time with college info. If you tell us you’re a parent, we’ll try to show you educational opportunities your kids will enjoy. 
+In order to keep your experience on Noodle consistent, we use a technology called cookies. Cookies are small files that a site or its service provider transfers to your computer through your Web browser that enables the site to recognize your browser and to remember certain information about you. We also use technologies like web beacons, pixel tags, and ad tags, which helps Noodle understand your interactions with the site. 
 
-  * To make Noodle better.
+#### Click-throughs
 
+When you click from a search engine, blog, or other site on to Noodle’s site, we record that. Then, when you click from Noodle’s site off to another site, we record that too. We like knowing how you come and go because it helps us optimize your experience while you are here. 
 
+That being said, once you leave Noodle’s website (even if it’s via a link found on our site), we no longer control the ways in which your personal information is collected. Our Privacy Policy only applies to Noodle’s site and services and does not apply to non-Noodle services that you choose to access through Noodle. When we partner with other providers, we take their privacy practices into consideration, but we cannot and do not take responsibility for anyone else’s privacy policies. Make sure you read over the privacy policies of any other services you access. 
 
-We continually strive to improve our service based on what our users tell us and how they use the site. 
+### How do we use your personal information?
 
-  * To send you periodic emails.
+#### Personalization
 
+Noodle understands that education should be a personal and unique experience, so we’ve built our site to offer you this type of experience. To do this, we use the personal information you provide or that we gather by observing your site use. We use this information to customize the content and advertisements we show you, the search results we generate from your queries, and the recommendations we make based on your preferences. 
 
+#### Sharing Information with Affiliates
 
-With your permission, we may send you information and updates pertaining to what you’re looking for. We may also send occasional company news, updates, promotions, related product or service information, etc. You can tell us not to at any time by going here and we also include detailed unsubscribe instructions at the bottom of each email we send. You can also get these updates through our Twitter feed or Facebook page rather than by email. 
+Noodle aggregates thousands of educational providers and opportunities, so that our users have the most ways to complete their educational goals. As a result, we work with many partners and affiliates. These affiliates may offer online courses, study abroad programs, test prep services, or a variety of other services and content. If you express interest in one of our affiliates while using our site (via a form, button, or other opt-in feature), we will share your basic contact information and any other relevant information that is needed to help you connect with that affiliate. We may also share information in aggregate about user behavior and preferences with our affiliates and partners if appropriate. 
 
-  * To stay in business.
+#### Sharing Information with Third Parties 
 
+We do not rent or sell your personal information to third parties, except during transactions you request (as per above), which we carry out with third parties that we identify as reputable and safe. 
 
+Sometimes, we may use a third party service provider to help us with our business operations, including data processing and marketing and technology services. These services providers are under contract and may only use your information to complete the services they perform for us and not for their own benefit. 
 
-Noodle makes money by matching people who are looking for an education-related service with the most appropriate providers. When you click the “Contact” or “I’m Interested” button, we forward relevant information about you, including what you’re looking for, where you live, and how to get in touch with you. Depending on what you’re seeking (particularly in the case of colleges and grad schools) we may send more, like the name of your high school, your interests, GPA, etc. You can control what we send here; in general the more info you share, the more interested (and, potentially, interesting) schools will consider you, and treat you accordingly. 
+In order to comply with legal requirements or processes, we could be asked to share your information. Such legal requirements include, but are not limited to, court orders, criminal and civil subpoenas, or other compulsory disclosures. Disclosure would be limited to only that personal information Noodle is required by law to disclose. 
 
-For service providers like prep courses, tutors, summer camps, and the like we send your basic contact information along with what you’re seeking. If you enroll with a provider on our site (including with Noodle’s own tutors) we may ask for payment information, typically a credit card, so we can complete the transaction. 
+#### Communication
 
-### How do we protect your information?
+With your permission, we will send you periodic emails with company news, updates, promotions, related products or services, education news, surveys, etc. These emails are meant to be useful to you while helping us improve our user experience. With each such email, we provide very clear unsubscribe instructions, so you never have to hear from us again. If you want updates, but prefer to keep your email inbox uncluttered, you should check out our Twitter feed and Facebook page. 
 
-We implement a variety of security measures to maintain the safety of your personal information when you access your personal information. 
+#### Communication
 
-These security measures include: password protected directories and databases to safeguard your information and SSL (Secure Sockets Layered) technology to ensure that your information is fully encrypted and sent across the Internet securely. 
+As we continue to develop our business, Noodle may expand the sites and services we offer by launching “Noodle companies”. In such a case, user information is transferred to these new companies as a business asset. In the unlikely case that Noodle is acquired, changes control, or sells a majority of its assets to a third party, user information is one of the transferred assets. 
 
-We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our database to be only accessed by those authorized with special access rights to our systems, and are required to keep the information confidential. 
+#### Advertising
 
-No credit card numbers are stored on our site.
+Noodle is a free service for our users, and like many free services, we host advertisements on our site. These ads can come in many forms including featured content and integrated content, and advertisers may be our affiliates or third parties. So, everything we mentioned about sharing information with affiliates and third parties holds for advertisers as well. 
 
-### Third-party links
+Noodle is a free service for our users, and like many free services, we host advertisements on our site. These ads can come in many forms including featured content and integrated content, and advertisers may be our affiliates or third parties. So, everything we mentioned about sharing information with affiliates and third parties holds for advertisers as well. 
 
-On our site you’ll find links to information providers and partners. These third-party sites have separate and independent privacy policies that may differ from ours, and we have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our users and welcome any feedback about these sites that you can provide. 
+### How can users control their personal information?
 
-California Online Privacy Protection Act Compliance
+#### User choices and rights
 
-Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent. 
+Noodle collects and uses your personal information to make your experience on our site unique and valuable. We protect your privacy and your personal information in many ways, as described above. Yet, even with all these considerations, you still may not want us collecting your personal information. Well, that’s no problem. If you don’t give it to us, we can’t collect it. 
 
-Children’s Online Privacy Protection Act Compliance
+Noodle collects and uses your personal information to make your experience on our site unique and valuable. We protect your privacy and your personal information in many ways, as described above. Yet, even with all these considerations, you still may not want us collecting your personal information. Well, that’s no problem. If you don’t give it to us, we can’t collect it. 
 
-We are in compliance with the requirements of COPPA (Children’s Online Privacy Protection Act) and do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older. 
+#### Data Retention
 
-### Your Consent, and changes to our Privacy Policy
+While your account is active, we retain your personal information. If you close your account, we may retain your personal information for reasons including, but not limited to, complying with our legal obligations, meeting regulatory requirements, improving our site and services, or enforcing this Privacy Policy. If requested by law enforcement, we may retain personal information for a limited time. 
 
-If we decide to change our privacy policy, we will post those changes on this page and on our Twitter and Facebook accounts, send an email notifying you of any changes, and/or update the Privacy Policy modification date below. Policy changes will apply only to information collected after the date of the change. 
+### Other important information
 
-This policy was last modified on 01/18/11
+#### Minimum Age
 
-### Contacting us
+Education is important for people of all ages. Nevertheless, our site and services are in compliance with the requirements of the Children’s Online Privacy Protection Act. Therefore, we do not collect any information from anyone under 13 years of age, and our website, products, and services are all directed to people who are at least 13 years old. Additionally, by using our site and services, you are implicitly confirming that you are 13 years old or older. 
 
-If there are any questions regarding this privacy policy, please contact us at mailto:privacy@noodle.org or: 
+### Changes to the Privacy Policy
 
-Noodle Education, Inc.
+If we decide to change our Privacy Policy, we will post those changes on this page and on our Twitter and Facebook accounts, send an email notifying you of any changes, and/or update the Privacy Policy modification date below. Policy changes will apply only to information collected after the date of the change. 
 
-515 West 20th, 7thFloor,
+This Privacy Policy was last modified on July 31, 2013.
 
-New York, New York 10011
+### Security
 
-USA
+We implement a variety of security measures to maintain the safety of your personal information when you access it. These security measures include password protected directories and databases to safeguard your information and SSL (Secure Sockets Layered) technology to ensure that your information is fully encrypted and sent across the Internet securely. No data transmission over the Internet or any wireless network can be guaranteed to be secure. As a result, while we take sophisticated measures to protect your personal information, we cannot ensure or guarantee the security of any information you send to us and you do so at your own risk. 
 
-### Privacy Policy Customer Pledge
+### Questions?
 
-We pledge to you, our customer, that we have made a dedicated effort to bring our privacy policy in line with the following important privacy laws and initiatives: 
-
-• Federal Trade Commission Fair Information Practices
-
-• Children’s Online Privacy Protection Act
-
-• Privacy Alliance
-
-Respectfully,
-
-The Noodle Team
+[Contact us!](mailto:feedback@noodle.org)
