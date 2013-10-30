@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mdlinx.com privacy policy that was archived on 2013-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130511002212id_/http%3A//usa.m3.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mdlinx.com privacy policy that was archived on 2013-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131030083242id_/http%3A//usa.m3.com/privacy-policy.html) for the most accurate reproduction.*
 
 # M3 USA - Privacy Policy
 
@@ -40,7 +40,7 @@ Your email address will not be sold to a third party if you sign up for one of o
 
 #### Usage Tracking and Cookies
 
-Usage Tracking: M3 uses traffic analysis software on our servers to track user traffic patterns throughout the Services. M3 uses this data to break down overall usage statistics according to IP address, domain name, browser type, and MIME type by reading this information from the data automatically sent by the browser whenever a web page is requested. Additionally, solely in connection with your voluntary participation in a market research study, your computer may be tracked by digital fingerprinting or watermarking to help ensure unique responders to a survey. 
+Usage Tracking: M3 uses traffic analysis software to track user traffic patterns throughout the Services. M3 uses this data to break down overall usage statistics according to IP address, domain name, browser type, and MIME type by reading this information from the data automatically sent by the browser whenever a web page is requested. Additionally, solely in connection with your voluntary participation in a market research study, your computer may be tracked by digital fingerprinting or watermarking to help ensure unique responders to a survey. 
 
 Cookies: : A cookie is a small text file that resides only on your own computer and that can be accessed only by the server that originally created the cookie. A cookie cannot store or send back any information to us that you have not specifically and voluntarily provided while on a Site, or that is not among the information mentioned above that is contained in every user's browser (e.g.., domain name, browser type). M3 uses cookies to monitor and manage Service development and deliver, and potentially to permit greater personalization of the Service to your preferences and specifications. We may assign cookies to devices that access our Services to help us dynamically generate advertising and content to users of the Services. Most browser software can be set to reject all cookies. If your browser is set to reject cookies, websites that are cookie-enabled will not recognize you when you return to the website, and some website functionality may be lost. The Help section of your browser will tell you about your options for managing your cookies. 
 
