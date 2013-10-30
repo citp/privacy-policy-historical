@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mbarendezvous.com privacy policy that was archived on 2013-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130507151655id_/http%3A//www.mbarendezvous.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mbarendezvous.com privacy policy that was archived on 2013-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131030113231id_/http%3A//www.mbarendezvous.com/privacypolicy.php) for the most accurate reproduction.*
 
-# MBARendezvous.com Privacy Policy | MBARendezvous.com India's only Content Lead Portal
+# 
 
 | 
 
@@ -8,7 +8,7 @@ Privacy Policy
   
 ---  
    
-Introduction
+**Introduction**
 
 MBARendezvous.com is an internet service that allows users to create personal web profiles and communicate and share content with friends and other users. To help our members identify and interact with each other, we request and display some personal information to other members and visitors. MBARendezvous.com members can change their profile information at any time and can control how other members and the service communicates with them.
 
