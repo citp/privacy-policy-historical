@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seniormbp.com privacy policy that was archived on 2013-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130510014319id_/http%3A//verio.com/about/legal/privacy%3Futm_source%3DParkedpages%26utm_medium%3Dveriosites%26utm_campaign%3DParked1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seniormbp.com privacy policy that was archived on 2013-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131030101907id_/http%3A//verio.com/about/legal/privacy%3Futm_source%3DParkedpages%26utm_medium%3Dveriosites%26utm_campaign%3DParked1) for the most accurate reproduction.*
 
 # Verio Privacy Policy
 
