@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the metapress.com privacy policy that was archived on 2013-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130323232038id_/http%3A//public.metapress.com/download/common/MetaPress_Privacy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the metapress.com privacy policy that was archived on 2013-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131030162606id_/http%3A//public.metapress.com/download/common/MetaPress_Privacy.pdf) for the most accurate reproduction.*
 
 # Metapress Website Privacy Policy
 
