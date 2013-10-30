@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the play-asia.com privacy policy that was archived on 2013-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130424123502id_/http%3A//www.play-asia.com/paOS-00-3-privacy-49-en.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the play-asia.com privacy policy that was archived on 2013-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131030193841id_/http%3A//www.play-asia.com/paOS-00-3-privacy-49-en-45-1.html) for the most accurate reproduction.*
 
 # Play-Asia.com Privacy Policy
 
 **_PRIVACY POLICY_**
 
-**1\. Introduction**
+ **1\. Introduction**
 
 > 1.1.  
 > Play-Asia.com knows that how your information is used and shared is important to you. Please read this Privacy Policy to learn about the ways in which we use and protect your personal information. 
