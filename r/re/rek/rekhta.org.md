@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rekhta.org privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621145520id_/http%3A//rekhta.org/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rekhta.org privacy policy that was archived on 2013-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131030154714id_/http%3A//rekhta.org/PrivacyPolicy) for the most accurate reproduction.*
 
 # Privacy policy
 
