@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the providentcu.org privacy policy that was archived on 2013-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130614131211id_/http%3A//providentcu.org/AFrames/MembershipFrames/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the providentcu.org privacy policy that was archived on 2013-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131030081116id_/http%3A//www.providentcu.org/AFrames/MembershipFrames/Privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -51,7 +51,7 @@ To limit our sharing
 | 
 
   * Call (800) 632-4600 and select "0" to speak with a representative.
-  * [Click here](https://web.archive.org/web/20130614131211id_/http%3A//providentcu.org/AFrames/MembershipFrames/PrivacyForm.html) for an online [Privacy Form](https://web.archive.org/web/20130614131211id_/http%3A//providentcu.org/AFrames/MembershipFrames/PrivacyForm.html) that can be filled out, printed, and mailed.
+  * [Click here](https://web.archive.org/web/20131030081116id_/http%3A//www.providentcu.org/AFrames/MembershipFrames/PrivacyForm.html) for an online [Privacy Form](https://web.archive.org/web/20131030081116id_/http%3A//www.providentcu.org/AFrames/MembershipFrames/PrivacyForm.html) that can be filled out, printed, and mailed.
 
 
 
@@ -110,4 +110,4 @@ Joint marketing | A formal agreement between nonaffiliated financial companies t
 
   
   
-[Privacy Form](https://web.archive.org/web/20130614131211id_/http%3A//providentcu.org/AFrames/MembershipFrames/PrivacyForm.html)
+[Privacy Form](https://web.archive.org/web/20131030081116id_/http%3A//www.providentcu.org/AFrames/MembershipFrames/PrivacyForm.html)
