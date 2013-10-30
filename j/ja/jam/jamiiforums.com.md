@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jamiiforums.com privacy policy that was archived on 2013-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130526225543id_/http%3A//www.jamiiforums.com/policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jamiiforums.com privacy policy that was archived on 2013-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131030103421id_/http%3A//www.jamiiforums.com/policy.php) for the most accurate reproduction.*
 
 # JamiiForums Privacy Policy
 
@@ -51,3 +51,6 @@
 >> 
 >> **Contacting Us**  
 >  If you have any questions or comments about our Privacy Policy, please e-mail us at **support@jamiiforums.com**
+>> 
+>> **Refund Policy**  
+>  If you are not 100% satisfied with your purchase (Subscription), within 120 days from the purchase date, we will fully refund the cost of your order. 
