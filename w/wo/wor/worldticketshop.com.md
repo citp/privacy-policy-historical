@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the worldticketshop.com privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502230103id_/http%3A//www.worldticketshop.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldticketshop.com privacy policy that was archived on 2013-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131030135413id_/http%3A//www.worldticketshop.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy Worldticketshop
 
@@ -64,9 +64,10 @@ If your personally identifiable information changes, you may correct or update i
 If you have any questions about this privacy policy or the security practices of this site, please contact: 
 
 Worldticketshop.com  
-Hofstraat 16   
-9712 JB Groningen  
-The Netherlands  
+Heresingel 4b  
+9711 ES Groningen  
+The Netherlands
+
 Phone: +31 (0) 50 201 1524  
 Email:
 
