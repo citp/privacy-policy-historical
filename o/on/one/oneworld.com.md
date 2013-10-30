@@ -1,15 +1,10 @@
-> *The following text is extracted and transformed from the oneworld.com privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602184629id_/http%3A//www.oneworld.com/general/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oneworld.com privacy policy that was archived on 2013-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131030191449id_/http%3A//www.oneworld.com/general/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - oneworld
-
-## Protecting your privacy
-
-At oneworld®, we do everything possible to protect your privacy and personal details.   
-This Privacy Policy outlines the personal information we collect, how we use it, when it is shared with others and how we safeguard its confidentiality and security.
+# Privacy policy - oneworld
 
 ## Who we are
 
-oneworld is an alliance of 11 International airlines, including airberlin, American Airlines, British Airways, Cathay Pacific, Finnair, Iberia, Japan Airlines, LAN, Malaysia Airlines, Qantas, Royal Jordanian and S7 Airlines.
+oneworld is an alliance of 13 International airlines, including airberlin, American Airlines, British Airways, Cathay Pacific, Finnair, Iberia, Japan Airlines, LAN, Malaysia Airlines, Qantas, Qatar Airways, Royal Jordanian and S7 Airlines.
 
 As an alliance, oneworld and its members share information, including personal details of our customers.
 
@@ -48,7 +43,7 @@ This information helps us improve the functionality and navigation of our sites 
 
 oneworld websites contain links to other sites. Please note that **one** world's Privacy Policy applies solely to information collected by oneworld.
 
-We are not responsible for the content or privacy practices of external sites, therefore we encourage you to read the privacy statements contained on each of these sites regarding the collection of your personal information. 
+We are not responsible for the content or privacy practices of external sites, therefore we encourage you to read the privacy statements contained on each of these sites regarding the collection of your personal information.
 
 ## Children under 16 years
 
@@ -56,17 +51,13 @@ Children under the age of 16 should not provide personal information to oneworld
 
 If oneworld learns that you are under 16 years of age, we will not maintain or use any personally identifiable information about you without the consent of your parent or guardian, except as allowed by law.
 
-## Who do we share your personal information with?
-
-Your personal information is shared with oneworld member airlines and their subsidiaries. Occasionally, we may share your personal information with third parties who have been engaged to process information on our behalf.
-
-oneworld requires these third parties to comply with our Privacy Policy and principles when using this information. We may also share anonymous, non-personal aggregated information with third parties. oneworld does not sell your name or other personal information to third parties.
-
 ## Can I find out what personal information has been collected?
 
 Yes, you can request the personal information we have collected from you, what it is being used for and to whom it has been disclosed at any time.
 
 Please contact the oneworld Privacy Officer at [privacyofficer@oneworld.com](mailto:privacyofficer@oneworld.com)
+
+## Can I change inaccurate personal information?
 
 ## How long does oneworld keep my personal information?
 
@@ -81,15 +72,3 @@ Furthermore, your personal information is only available to the **one** world em
 ## What if I have any concerns or complaints regarding my privacy?
 
 If you have any questions, concerns or complaints about the way in which your personal information is collected or used by oneworld, please contact the oneworld Privacy Officer at [privacyofficer@oneworld.com](mailto:privacyofficer@oneworld.com)
-
-## Marketing communication and promotions
-
-oneworld and third parties acting on our behalf will only contact you with marketing communication and promotional offers if you have indicated that you would like to receive them.
-
-You can choose to opt out of future oneworld marketing communications by contacting the oneworld  Privacy Officer at [privacyofficer@oneworld.com](mailto:privacyofficer@oneworld.com)
-
-## Round-the-world booking tool
-
-Our round-the-world booking tool collects your personal information to provide access to the booking system and facilitate payment. In booking your travel via the round-the-world booking tool, you consent to the collection and storage of your personal information and the use of that information by oneworld and its member carriers to help provide services relevant to your trip.
-
-**Please note:** oneworld reserves the right to modify or update this Privacy Policy at any time without prior notice. Revised policies will be posted here, and any modifications will apply to all information collected by oneworld, including previously collected information. This Privacy Policy does not apply to corporate information (unless it is about any identifiable person) or other websites accessed via a link from our websites.
