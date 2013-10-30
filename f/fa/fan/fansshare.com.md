@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fansshare.com privacy policy that was archived on 2013-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130529160058id_/http%3A//fansshare.com/network/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fansshare.com privacy policy that was archived on 2013-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131030015255id_/http%3A//fansshare.com/network/privacy) for the most accurate reproduction.*
 
 # Fans Share | Privacy
 
@@ -29,7 +29,7 @@ A cookie is a small text file that is stored on a user's computer for record-kee
 
 We use session ID cookies and persistent cookies. We use session cookies to make it easier for you to navigate our site. A session ID cookie expires when you close you browser. A persistent cookie remains on your hard drive for an extended period of time. You can remove persistent cookies by following directions provided in your Internet browser's "help" file. We set a persistent cookie to store your passwords, so you don't have to enter it more than once. Persistent cookies also enable us to track and target the interests of our users to enhance the experience on our site. If you reject cookies, you may still use our site, but your ability to use some areas of our site, such as contests or surveys, will be limited. Some of our business partners (e.g., advertisers) use cookies on our site. We have no access to or control over these cookies. See "Third Party Advertisers."
 
-This privacy statement covers the use of cookies by SoleCollector.com only and does not cover the use of cookies by any advertisers. [See the "Third Party Advertisers" section.]
+This privacy statement covers the use of cookies by FansShare.com only and does not cover the use of cookies by any advertisers. [See the "Third Party Advertisers" section.]
 
 **Third-Party Advertisers**  
 The ads appearing on this Web site are delivered to users by Open Ad Stream (OAS), our ad server, and other third-party advertisers. We share Web site usage information about users with reputable third parties for the purpose of targeting our Internet banner advertisements on this site.
@@ -37,98 +37,98 @@ The ads appearing on this Web site are delivered to users by Open Ad Stream (OAS
 OAS uses cookies and clear GIFs on this site, which allow it to recognize a user's cookie when a user visits this site. The information that OAS collects and shares through this technology is not personally identifiable.   
 
 
-Cobie Smulders
+Bunny Wailer
 
-Photo Shared By cornelia36
+Photo Shared By leslie_42
 
-[](https://web.archive.org/gallery/photos/160799/Cobie-Disney-Expo-Cobie-Smulders-Word/)
+[](https://web.archive.org/gallery/photos/11114123/bunny-wailer-maritime-hall-bunny-livingston/)
 
-Diddy � Dirty Money
+Wesley Matthews
 
-Photo Shared By ketti
+Photo Shared By mikael_41
 
-[](https://web.archive.org/gallery/photos/10958869/kgrhqjhge-j-bkhl-bo-zzkmq-jpg-diddy-dirty-money-jacket/)
+[](https://web.archive.org/gallery/photos/11354198/wes-walker-wallpaper-wallpaper/)
 
-Mario Lopez
+Ali Fedotowsky
 
-Photo Shared By drud_486
+Photo Shared By bendite_30
 
-[](https://web.archive.org/gallery/photos/242369/Mario-Lopez-Photos/)
+[](https://web.archive.org/gallery/photos/10869668/ali-fedotowsky-vjnj/)
 
-The Hobbit
+Sergi Roberto
 
-Photo Shared By cacilia21
+Photo Shared By art_9
 
-[](https://web.archive.org/gallery/photos/10700658/the-hobbit-movie-film/)
+[](https://web.archive.org/gallery/photos/11181456/la-fotov-jpg-wallpaper/)
 
-Rurouni Kenshin 
+Boogiepop Phantom
 
-Photo Shared By yoshi
+Photo Shared By heather
 
-[](https://web.archive.org/gallery/photos/10698665/rurouni-kenshin-wallpaper-jpeg/)
+[](https://web.archive.org/gallery/photos/11207303/boogiepopphantomfull/)
 
-Eva Pigford
+Nozomi Sasaki
 
-Photo Shared By tod
+Photo Shared By denys470
 
-[](https://web.archive.org/gallery/photos/370383/Eva-Pigford-Shared-Picture/)
+[](https://web.archive.org/gallery/photos/11043757/nozomi-sasaki/)
 
-Callum Blue
+Subway
 
-Photo Shared By gwendolen_36
+Photo Shared By chloe
 
-[](https://web.archive.org/gallery/photos/301554/Xy-To-Chris-Chris-Vance-Big/)
+[](https://web.archive.org/gallery/photos/10794477/subway-jpg/)
 
-Matthew Perry
+Ansel Elgort
 
-Photo Shared By christan
+Photo Shared By pavia
 
-[](https://web.archive.org/gallery/photos/233421/Hua-Normal/)
+[](https://web.archive.org/gallery/photos/11463080/dc-cdb-double-anselelgort-copy-tfios/)
 
-Kat Dennings
+Nathalia Ramos
 
-Photo Shared By jada11
+Photo Shared By tonya38
 
-[](https://web.archive.org/gallery/photos/10612289/kat-dennings-public-apperance-uknown-norah/)
+[](https://web.archive.org/gallery/photos/11261649/nathalia-ramos-at-th-annual-nickelodeon-kids-choice-awards-in-los-angeles/)
 
-Zach Roerig
+Ted Williams
 
-Photo Shared By herc
+Photo Shared By thorvald
 
-[](https://web.archive.org/gallery/photos/523896/zach-roerig/)
+[](https://web.archive.org/gallery/photos/11078307/photo-requests-ted-williams-red-sox-red-sox/)
 
-Sydney Lynch
+Donnie Wahlberg
 
-Photo Shared By stirling19
+Photo Shared By leonidas
 
-[](https://web.archive.org/gallery/photos/10874639/sydney-lynch-necklace/)
+[](https://web.archive.org/gallery/photos/10790385/donnie-donnie-wahlberg/)
 
-Movie 43
+Aluna George
 
-Photo Shared By shayna30
+Photo Shared By flossy
 
-[](https://web.archive.org/gallery/photos/10750063/movie-wallpaper/)
+[](https://web.archive.org/gallery/photos/11247961/aluna-george-you-know-you-like-it/)
 
-Matt Damon
+Steel Pulse
 
-Photo Shared By lynnell
+Photo Shared By imojean
 
-[](https://web.archive.org/gallery/photos/24797/Matt-Damon-Rugby/)
+[](https://web.archive.org/gallery/photos/11047453/cd-steel-pulse-true-democracy-importado-mlb-true-democracy/)
 
-Avril Lavigne
+Juice
 
-Photo Shared By claudianus39
+Photo Shared By abelard21
 
-[](https://web.archive.org/gallery/photos/100646/Avril-Lavigne-Album/)
+[](https://web.archive.org/gallery/photos/10786491/fresh/)
 
-Sophie Turner
+Arsenio Hall
 
-Photo Shared By phedra
+Photo Shared By anselma872
 
-[](https://web.archive.org/gallery/photos/10774828/nyc-exhibition-sophie-turner-game-of-thrones/)
+[](https://web.archive.org/gallery/photos/10743629/starsearch/)
 
-Chuck Berry
+Btooom!
 
-Photo Shared By justin-23
+Photo Shared By shurlocke21
 
-[](https://web.archive.org/gallery/photos/10831587/jpg-johnny-goode/)
+[](https://web.archive.org/gallery/photos/10759120/btooom/)
