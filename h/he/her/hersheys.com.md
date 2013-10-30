@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hersheys.com privacy policy that was archived on 2013-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130516142142id_/http%3A//www.thehersheycompany.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hersheys.com privacy policy that was archived on 2013-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131030154746id_/http%3A//www.thehersheycompany.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # The Hershey Company | Privacy Policy
 
