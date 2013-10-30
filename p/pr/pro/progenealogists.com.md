@@ -1,43 +1,91 @@
-> *The following text is extracted and transformed from the progenealogists.com privacy policy that was archived on 2013-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130609100220id_/http%3A//www.progenealogists.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the progenealogists.com privacy policy that was archived on 2013-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131030223704id_/http%3A//www.progenealogists.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Statement | ProGenealogists
 
-ProGenealogists, Inc. has created this privacy statement in order to demonstrate its firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site: [ProGenealogists](http://www.progenealogists.com/).
+##  **ProGenealogists Privacy Statement**
 
-### Advertisers
+ProGenealogists is firmly commited to protecting your privacy choices. We are dedicated to creating, preserving and marketing high quality, detailed and scholarly family history research and tools, while maintaining a constant commitment to client care and service. This often involves the collecting, processing, storing and sharing of personal information and we want to ensure that this is done in a responsible, transparent and secure environment that fosters your trust and confidence. By using this website and the Services and Products available therein you consent to the collection, use, storage and disclosure of your personal information in accordance with this Privacy Statement.  In this Privacy Statement, “ProGenealogists” and “Ancestry” shall mean TGN Services, LLC and its parent Ancestry.com Operations Inc. of 360 W, 4800 N, Provo, UT 84604 (also referred to “us”, “our” or “we”). Ancestry complies with the U.S. – E.U. and U.S. – Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use and retention of personal data from European Union member countries and Switzerland.  Ancestry has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Ancestry’s certification, please visit <http://www.export.gov/safeharbor>.
 
-We use an outside ad company to display ads on our site. These ads may contain cookies. While our server may use cookies in other parts of our Web site, cookies received with banner ads are collected by our ad company, and we do not have access to this information.
+1.  What personal information is collected?
 
-### Order Forms
+ We primarily use your personal information to provide you with the relevant Services and to let you know about new features or other offers of interest from Ancestry, or to address customer service needs and requests. When you provide us with any personal information, that personal information may be transferred to and stored and processed in other countries which may provide a different level of protection for personal data than in your country of residence. By providing us with personal information, you specifically consent to the transfer, storage and processing of personal information.
 
-Our site uses an order form and registration forms for customers to request information, products, and services. We collect contact information (like their email address), financial information (like their account or credit card numbers), unique identifiers (like their social security number), and demographic information (like their zip code, age, or income level).  Contact information from the order forms is used to ship purchases or to provide information about our company. The customer's contact information is also used to get in touch with the visitor when necessary.
+ Here is a list of the type of personal information we may request, collect or you provide:
 
-Information collected regarding an individual's ancestry on order forms, estimate forms, or in the course of research is used only for the purpose of conducting research for that client's or potential client's purposes. Researchers in our firm are not employees of the LDS Church and ancestral information collected by ProGenealogists is not passed on to the LDS church for their use, except in instances where a specific request to that effect has been made by the client.
+ i) Name, Contact Information and Payment Details: Ancestry asks for your name and e-mail address, gender, and age when you register. In addition we will need to know your postal address and payment details to facilitate payment and fulfillment for any subscription or purchases you may choose to make through the Website. We may ask for similar information at other times, such as when you enter sweepstakes or other promotions sponsored by Ancestry and/or any company with which we may co-sponsor an activity.
 
-Users may opt-out of receiving future mailings; see the choice/opt-out section below. Financial information that is collected is used to bill the user for products and services. Unique identifiers (such as social security numbers) are collected from Web site visitors to verify the user's identity.
+ ii) Your Background and Interests: As a member of Ancestry, you can also choose to share certain information about yourself, your background and interests with other members. The amount and type of profile information you share in this way is entirely your choice. Information about some of your activity on the Website, such as historical records you save, may also be shared with other members in order to help you connect with others researching similar ancestors.
 
-Demographic and profile data is also sometimes collected at our site. We use this data to tailor our visitor's experience at our site showing them content that we think they might be interested in, and displaying the content according to their preferences.
+ iii) Your Family and Others: You may also post additional personal information about yourself and others in the course of doing your, or others’, family research on our Website, e.g., adding a photo or birth record to a tree or sharing it with someone through our Service.
 
-### External Links
+iv) Your Opinions and Comments: If you participate in community discussions, chats, communications between us or between you and other members, in disputes and while communicating with member services, we will capture that information.   You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your personal information from our blog or community forum, contact us here and we will consider it for removal.  As a reminder, by registering with the Website you are becoming part of the “Ancestry Community” a collaborative resource in which our users and their relatives participate and it comprises the users of the Website and other websites and platforms owned or operated by Ancestry.com and its group companies (“Group Companies”) (including such sites as ancestry.com, ancestry.co.uk, ancestry.com.au, archives.com, ancestry.ca, rootsweb.com, genealogy.com, mundia.com).
+
+ v) Your Use of the Website: While you use our Website, we may collect information based on your interaction with our Website or from the devices or computers you use to access the Websites, including web log information, page views and IP addresses on an anonymized basis.
+
+ vi) Mobile Devices: If you access the Website using a mobile device (for example, phones, tablets, iPads etc.), we collect mobile device identifiers such as the device type, IP address and the operating system. If you use your mobile device to take a photo through our Ancestry application, we will ask if you wish to include your location. If you agree to this request, we will add your location to the photo. We will also occasionally send you push notifications to provide you information about our services. You may opt-out of these notifications at the device level.
+
+ 2.  How Does Ancestry use your personal information?
+
+ i) To provide the Service: We primarily use your personal information to provide you with relevant information such as appropriate search results, information about content releases or other users activity. Ancestry may also use registration information to let you know about new features or other offers of interest from Ancestry, or to address customer service needs and requests. We also use your data to fulfill the purposes for which you have provided the personal information, such as processing your order.  So that you get the most out of the Service we will also use your personal information to serve you hints about possible matches in your tree, to enable you and other members of the Ancestry Community to contact each other (on an anonymous basis if you choose), as well as to provide product and Website updates and newsletters, for your Public Profile, using Member Connect etc.
+
+ii) To verify your identity: to verify and carry out financial transactions relating to payments you make online.
+
+iii) For internal business purposes: such as data analysis, carrying out internal research on how our Website is used, audits, developing new products and services, improving our services, identifying usage trends and determining the effectiveness of promotional campaigns.
+
+iv) To communicate with you: Ancestry may communicate with you for the purpose of informing you of issues with your membership or changes to Ancestry or of any Ancestry-related products and services. Our communication with you will generally be via email, but may be made via telephone or another method of communication in select circumstances. You can also choose to receive promotional offers from third parties trusted by Ancestry. If you do not want to continue to receive such emails, you may opt by following the instructions below.
+
+ v) To distribute advertisements: We do not provide advertisers with access to individual account information. Ancestry does not sell, rent or otherwise distribute the personal information you provide us to these advertisers unless you have given us your consent to do so. Ancestry strives to display relevant advertisements. To that end, we use aggregated demographic information (such as women between the ages of 45-60), anonymized data compared to data from third parties, or the placement of cookies (as discussed in more detail below). In these ways, Ancestry can display relevant ads to appropriate users either on our Website or on third party websites.
+
+ 3.  Will Ancestry disclose any of my personal information to third parties?
+
+ (i) Ancestry will not disclose any of your personal information to third parties except in very limited circumstances.  For example, Ancestry may disclose your personal information to third parties are: (a) with your knowledge and any relevant consents; (b) as described in this statement; (c) where personal information is collected through this Website; (d) as may be required by law, regulatory authorities, legal process or to protect the rights or property of Ancestry or other users (including outside your country of residence); (e) to enforce our terms and conditions; (f) to protect our rights, privacy, safety, confidentiality, reputation or property, and/or that of our Group Companies, you or others; (g) to prevent fraud or cybercrime; or (h) to permit us to pursue available remedies or limit the damages that we may sustain.
+
+ ii) To Group Companies: to our Group Companies so that they may use personal information for the purposes described in this Privacy Statement. Ancestry is responsible for the management of the jointly used personal information. Additionally, as our business continues to grow and change, we might restructure, buy, or sell subsidiaries or business units. In these transactions, customer information is often one of the transferred assets, remaining subject to promises made in then prevailing privacy statements. Also, in the event that Ancestry, or substantially all of its assets or stock are acquired, transferred, disposed of (in whole or part and including in connection with any bankruptcy or similar proceedings), personal information will as a matter of course be one of the transferred assets;
+
+ iii) Third-party service providers: Under the protection of appropriate agreements, we use third parties to perform various tasks for us including for the purposes of data storage, consolidation, retrieval, analysis or the effective management of customer information. For example, we use third parties to process payments from you and to help manage our Website and relationships with you. These third-parties are only given access to that information needed to perform their support functions, and are prohibited from using it for other purposes. Processors include affiliated and unaffiliated service providers in in the United States, Europe and in other jurisdictions. With respect to processors outside Europe, we attempt to ensure adequate safeguards for your personal information, as required by applicable law and endeavour to confirm that they have adopted, are subject to, or are contractually obligated to comply with the principles and objectives of this Privacy Statement.
+
+Please note:   If you click away from our Website to visit the site of any third party advertiser or sponsor, you may be asked for your payment card or other personal information in order to purchase or use products and services offered. These companies have their own privacy and data collection practices. We have no responsibility or liability for these independent policies. You should therefore review their privacy notices carefully if you have concerns about how your information may be used.
+
+4.  What about non-personal information, "cookies", IP addresses and tracking technologies?
+
+We (either ourselves or our appointed third parties) place cookies, small files, on your computer, to optimize and customize the Website and your experience. Our cookies do not extract any contact information or other private or personal information from your computer's memory, but rather record only information your computer sends us when you visit our Website. Cookies enable our server to recognize or "remember" who you are each time you return. Ancestry may make limited use of cookies to deliver content specific to your interests. For instance, they may be used to retain your personal preferences, hold session information for a "shopping basket," or save your password so it doesn't have to be re-entered each time you login. They may also be used to see how you move around and interact with the Website or may be used to show you relevant products/services ad either on or off the Website.
+
+You can erase or block cookies from your computer if you want to (your help screen or manual should tell you how to do this), but certain Ancestry services may not work correctly or at all if you set your browser not to accept cookies.  To learn more about our use of Cookies and other tracking technologies please visit our Privacy Center located here.  Or to learn more about cookies in general, please click <http://www.allaboutcookies.org/>.
+
+When you visit our Website, we may automatically collect non-personal information about you, such as the website from which you have come to our Website, your Media Access Control address, your computer type, screen resolution, Operating System version and Internet browser. We may also collect non-personal information such as demographic data, for example your geographic area. Non-personal information also includes personal information that has been aggregated in a manner such that the end-product does not personally identify you or any other user of the Website, for example, by using personal information to calculate the percentage of our users who have a particular telephone area code or who are female. Because non-personal information does not personally identify you, we may use such non-personal information for any purpose. In addition, we reserve the right to share such non-personal information, with our Group Companies and with other third parties, for any purpose. In some instances, we may combine non-personal information with personal information (such as combining your name with your geographical location). If we do combine any non-personal information with personal information, the combined information will be treated by us as personal information, as long as it is combined, and its use by us will be subject to this Privacy Statement.
+
+"IP addresses"
+
+We need your IP address to deliver the Website and our service to you and to help diagnose problems with our server. Your IP address is also used to gather broad demographic information such as geographic distribution of our members.
+
+Because occasionally the Website may be partially advertiser supported, you may not "turn off" the advertising that appears on Ancestry pages. These third-parties may employ cookies and action tags (also known as single pixel gifs or web beacons) to measure advertising effectiveness (they do not collect personal information) and to provide in information about your activity on this Website and other Websites to provide targeted advertising based upon your interests.  If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by clicking here and here (you must do both to adequately opt-out). Please note this does not opt you out of being served advertising.  You will continue to receive generic ads.
+
+5.  External Links
 
 This site contains links to other sites. ProGenealogists is not responsible for the privacy practices or the content of such Web sites.
 
-### Public Forums
+6.  Choice.Opt-Out
 
-This site makes chat rooms, forums, message boards, and/or news groups available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information.
+Our site provides users the opportunity to opt-out of receiving promotional/marketing information from us.  Please send an email stating your choice to opt-out to [ _support@progenealogists.com_](mailto:support@progenealogists.com). 
 
-### Choice/Opt-Out
+7.  Data Quality/Access
 
-Our site provides users the opportunity to opt-out of receiving promotional/marketing information from us.  Please send an email stating your choice to opt-out to [web@progenealogists.com](mailto:web@progenealogists.com). 
+This site gives users the following options for changing and modifying information previously provided:  Please send an email to [ _support@progenealogists.com_](mailto:support@progenealogists.com). 
 
-### Data Quality/Access
+8.  Changes, updates, consent
 
-This site gives users the following options for changing and modifying information previously provided:  Please send an email to [support@progenealogists.com](mailto:support@progenealogists.com). 
+ If we decide to change our Privacy Statement, we will issue an updated version of this Statement with an updated date legend and/or notify you via e-mail, via this Website or mobile application or by other appropriate means prior to the change becoming effective if it is a significant change so that you will be aware of what information we collect, how we use it and under what circumstances we disclose it in accordance with applicable law. If you do not consent to any changes to our privacy statement and as a result you would like us not to use or hold your information in accordance with the revised terms, you may notify us here so we can decide whether to continue to apply the previous statement or delete your information and/or account.
 
-### Contacting the Web Site
+ 9.  Contacting us
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact ProGenealogists, Inc.:  [web@progenealogists.com](mailto:web@progenealogists.com). 
+ If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact ProGenealogists, Inc.:  [ _support@progenealogists.com_](mailto:support@progenealogists.com). 
 
-### Child Safe Surf Site
+You may also reach us at:
 
-This site has rated with the Recreational Software Advisory Council on the Internet.
+Call 1-801-990-5650
+
+Or go to our Privacy Center for more on Privacy
+
+Or Contact Us
+
+Or write to us at ProGenealogists, PO Box 900188, Sandy, UT 84090-0188
