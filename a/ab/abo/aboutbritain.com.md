@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aboutbritain.com privacy policy that was archived on 2013-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130424165401id_/http%3A//www.aboutbritain.com/Privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aboutbritain.com privacy policy that was archived on 2013-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131030222124id_/http%3A//www.aboutbritain.com/Privacy.htm) for the most accurate reproduction.*
 
 # AboutBritain.com - Privacy
 
@@ -28,6 +28,3 @@ Cookies are important devices for both serving more relevant ads to users and me
 AboutBritain.com contains many links to external sites operated by third parties. We have no control over those sites, and are not responsible for the privacy practices or content of third-party sites. 
 
 If you have any questions regarding our privacy policy, please [contact AboutBritain.com](https://web.archive.org/Contacts.asp)
-
- [Copyright](http://www.aboutbritain.com/TermsAndCopyright.htm) © 1999-2013 Excelsior Information Systems Ltd. All rights reserved.  
-[About Us](http://www.aboutbritain.com/AboutUs.asp)  [Press Room](http://www.aboutbritain.com/PressRoom.asp)  [Terms of Use](http://www.aboutbritain.com/TermsAndCopyright.htm)  [Privacy](http://www.aboutbritain.com/Privacy.htm)  [Link to Us](http://www.aboutbritain.com/LinkToUs.asp)  [Index](http://www.aboutbritain.com/index/index-a.asp)  [Site Map](http://www.aboutbritain.com/sitemap.asp)  [Contact Us](http://www.aboutbritain.com/Contacts.asp)
