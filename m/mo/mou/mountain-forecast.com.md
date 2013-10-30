@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mountain-forecast.com privacy policy that was archived on 2013-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130425114133id_/http%3A//www.mountain-forecast.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mountain-forecast.com privacy policy that was archived on 2013-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131030015339id_/http%3A//www.mountain-forecast.com/pages/privacy) for the most accurate reproduction.*
 
 # Privacy Statement for Mountain-Forecast.com
 
