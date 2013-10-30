@@ -1,57 +1,64 @@
-> *The following text is extracted and transformed from the twingalaxies.com privacy policy that was archived on 2004-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040210004826id_/http%3A//www.twingalaxies.com/cgi-perl/help_privacypolicy.pl) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the twingalaxies.com privacy policy that was archived on 2013-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131030143759id_/http%3A//www.twingalaxies.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Statement for Twingalaxies.com
+# Privacy Policy | Twin Galaxies - The official keepers of video game World Records for over 30 years
 
-  |  The following statement outlines Twin Galaxies' commitment to protecting your privacy online and details how Twin Galaxies collects and uses personal information that you provide. This policy is subject to change at any time. Please visit this page periodically to review any changes. If you have any questions, please contact us at [privacy@twingalaxies.com.](mailto:privacy@twingalaxies.com)
+This website is owned and operated by Twin Galaxies, LLC, a Wyoming Limited Liability Company. Your privacy and security on our website is of the utmost importance to us. At Twin Galaxies, we want to make your experience on our website is both satisfying and safe.
 
-## Information Collected
+Because we gather certain types of information about our users, we feel you should fully understand our policy and the terms and conditions surrounding the capture and use of that information. This privacy statement discloses what information we gather and how we use it.
 
-Most of the areas of the Twin Galaxies web site are freely available to all visitors. However, use of certain areas of the web site, such as Live Chat and Discussions require registration with Twin Galaxies. Our registration form requires you to provide contact information (your name and address) and demographic information (your gender and age). As a registered user you can correct and update your user information at any time by following the link marked "Member Info."
+**Your information**
 
-This site supplements the information you provide with information received from third parties. We also use your IP address to help diagnose problems with our server, to administer the web site, and to gather broad demographic information (for example, what percent of our users come to us through AOL). 
+Information that users provide through optional, voluntary submissions. These are voluntary submissions to:
 
-## Use of Information Collected
+  * Registration information that’s required when you sign up on our website including name, date of birth, email address, and gender.
+  * Subscribing to our email list
+  * Becoming a content contributor
+  * Information you choose to share on our website, such as status updates, comments, photos, blogs and forum posts, and non-required profile information
+  * Submitting scores to our online scoreboard
+  * Purchasing our products or services
+  * Applying for employment
 
-This web site has security measures in place to protect against the loss, misuse, and alteration of the information under our control.
 
-Your contact information is used to send you information about Twin Galaxies and promotional materials from some of our partner companies. It is also used to contact you directly when necessary. You may decline to receive future mailings: see the "Decline Communications" section below.
 
-Demographic and profile data is also collected by Twin Galaxies. This data is used to tailor your Twin Galaxies experience, including showing content we think you may be interested in viewing, displaying content according to your preferences, and for other purposes. This demographic and profile data is shared with our advertisers on an aggregate basis.
+Your birthday allows us to do things like show you age-appropriate content and advertisements.
 
-In special cases, we may disclose user information when we have reason to believe that disclosing this information is necessary to identify, contact, or bring legal action against someone who may be violating Twin Galaxies' Terms of Service or may be causing injury to or interference with (either intentionally or unintentionally) the Twin Galaxies web site, other Twin Galaxies users, or anyone else who could be harmed by such activities. Twin Galaxies may disclose or access user information when we believe in good faith that the law requires it. 
+Information Twin Galaxies gathers through aggregated tracking information derived mainly by tallying page views throughout our sites. This information allows us to better tailor our content to members’ needs and to help us better understand the demographics of our audience. Under no circumstances does Twin Galaxies divulge any private, confidential, or personal information about an individual user to a third party.
 
-## Contests and Surveys
+**Usage tracking**
 
-We occasionally run contests on our site in which we ask visitors for contact information, such as e-mail address, and demographic information, such as zip code or age. We use this data to send users information about Twin Galaxies and promotional materials from some of our partner companies. It is also used to contact the visitor when necessary. Our online surveys ask visitors for demographic information such as zip code or age.
+Twin Galaxies tracks user traffic patterns throughout our website. however, we do not correlate this information with data about individual users. Twin Galaxies does break down overall usage statistics according to a user’s domain name, browser type, and mime type by reading this information from the browser string (information contained in every user’s browser).
 
-Some of the contests or surveys running on Twin Galaxies may be sponsored by third-party companies or may be co-sponsored by Twin Galaxies and a third-party company. In such cases, the third-party company may need to collect personal identifier information from you. If the contest or survey is being co-sponsored, some or all of the data collected may be shared with the co-sponsor. If data will be shared, you will be notified prior to the time of data collection or transfer. If you do not want your personal information handled by other companies, you can choose not to participate in the contest or survey. 
+Twin Galaxies sometimes tracks and catalogs the search terms that users enter in our search function, but this tracking is never associated with individual users. We use tracking information to determine which areas of our sites users like and don’t like based on traffic to those areas. We do not track what individual users read, but rather how well each page performs overall. This helps us continue to build a better service for you.
 
-## Cookies
+**Cookies**
 
-Twin Galaxies uses cookies (small files that are stored on your computer's hard drive and are accessible by our web server) to store and sometimes track information about you. For example, we use cookies to ensure that you do not see the same advertisements repeatedly. We also use cookies to deliver content that is specific to your interests and to save your password so you do not need to re-enter it each time you visit our site.
+We place a text file called a “cookie” in the browser files of your computer. The cookie itself does not contain any personal information although it will enable us to relate your use of this site to information that you have specifically and knowingly provided. But the only personal information a cookie can contain is information you supply yourself. A cookie can’t read data off your hard disk or read cookie files created by other sites. Twin Galaxies uses cookies to track user traffic patterns (as described above).
 
-Outside companies display their advertising on our site. These ads may contain cookies, which are collected and maintained by the advertising company. Twin Galaxies does not have access to these cookies. Some of the customer data collected by Twin Galaxies is shared with the advertising companies.
+You can refuse cookies by turning them off in your browser. If you’ve set your browser to warn you before accepting cookies, you will receive the warning message with each cookie. You do not need to have cookies turned on to use this site, but will not have access to some features. 
 
-Most web browsers default to accepting cookies from web servers. If you choose, you can set your browser to refuse all cookies or to notify you when a cookie is being sent. Please be aware that some parts of the Twin Galaxies web site may not function properly or may operate at a slower speed if you refuse to accept cookies. 
+**Sharing of the information  **
 
-## Links to Other Sites
+Twin Galaxies does not share information about individual users with any third party, except to comply with applicable law or valid legal process.
 
-Twin Galaxies occasionally provides links to third-party web sites. Twin Galaxies is not responsible for the privacy practices or the content of such third-party web sites. 
+**Security**
 
-## Public Forums
+Twin Galaxies operates secure data networks protected by use the industry standard secure sockets layer (SSL) protocol that encrypts personal information being transferred over the internet and industry standard firewall and password protection systems. Our security and privacy policies are periodically reviewed and enhanced as necessary and only authorized individuals have access to the information provided by our members.
 
-Twin Galaxies makes chat rooms, forums, message boards, and/or newsgroups available to its users. Please remember that any information disclosed in these areas becomes public information and you should exercise caution when revealing personal details. Such information can be collected and used by people not affiliated with Twin Galaxies, and therefore we cannot guarantee the security of any information disclosed in these public forums. 
+**Opt-out policy**
 
-## Children's Guidelines
+We give users options wherever necessary and practical. Such choices include:
 
-Twin Galaxies cares about the safety of children online. This site is a general audience web site that complies with the Children's Online Privacy Protection Act (COPPA). We only collect personal information from members. Users under the age of 13 are not allowed to become members of Twin Galaxies, but are permitted to use the site with the same level of access to services as any other non-member visitor.
+  * Opting not to register to receive our electronic newsletters.
+  * Opting not to participate in certain interactive areas, which completely alleviates the need to gather any personally identifiable information from our users
 
-Under COPPA, no web site operator is permitted to require a child under the age of 13 to disclose more information than is reasonably necessary for participation in a web site's activity. Twin Galaxies abides by this requirement. 
 
-## Decline Communications
 
-Our site provides you the opportunity to decline to receive e-mail and other communications from us and our partner companies. This choice can be made at the point where we collect your personal information. If you would prefer not to receive future communications then please modify your account information from the "Member Info" page link. If you would like to terminate your user account, please e-mail us at info@twingalaxies.com. 
+**Your consent**
 
-## Contacting Twin Galaxies
+By using this site, you consent to the collection and use of this information by Twin Galaxies. If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it.
 
-If you have any questions regarding this privacy policy statement, the information practices of this web site, or your dealings with this web site, please contact:Twin Galaxies, LLC Attn: Paul Stokstad 2000 155th Street Fairfield, IA 52556 Phone: (641) 472-3882 x112 Facsimile: (641) 469-6576 E-mail: [paul@twingalaxies.com](mailto:paul@twingalaxies.com)
+**Privacy Policy updates**
+
+Twin Galaxies may make changes to this policy at any time. We will publish updates to our privacy policy on this page at: [www.twingalaxies.com/privacy-policy/](http://www.twingalaxies.com/privacy-policy/)
+
+Last updated 05/20/2013
