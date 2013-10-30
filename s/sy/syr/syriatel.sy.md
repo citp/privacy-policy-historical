@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the syriatel.sy privacy policy that was archived on 2013-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130424003727id_/http%3A//www.syriatel.sy/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the syriatel.sy privacy policy that was archived on 2013-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131030062843id_/https%3A//www.syriatel.sy/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Syriatel
 
@@ -17,7 +17,8 @@ While visiting our Website, the server used by Web Host will record the followin
 
 
 
-Links   
+Links
+
 Our Website may contain links to other websites. Syriatel will not be responsible for contents of other websites including their data collection practices and privacy policies.
 
 Contents  
