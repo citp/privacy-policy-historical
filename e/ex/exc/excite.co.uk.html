@@ -1,22 +1,22 @@
-<!--The following is the downloaded HTML source of the excite.co.uk privacy policy that was archived on 2013-06-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130619183040id_/http%3A//info.excite.co.uk/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the excite.co.uk privacy policy that was archived on 2013-10-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131030130910id_/http%3A//info.excite.co.uk/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN" "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
         <title>Excite UK</title>
-<meta http-equiv="expires" content="Wed, 19 Jun 2013 20:30:41 +0200">
+<meta http-equiv="expires" content="Wed, 30 Oct 2013 14:09:11 +0100">
 <meta http-equiv="pragma" content="no-cache">
 <meta http-equiv="Cache-Control" content="no-cache">
 <meta http-equiv="Content-type" content="text/html;charset=utf-8">
-<link href="http://static.excite.co.uk/v2/css/common/structure/master.css?v16" media="screen" rel="stylesheet" type="text/css">
+<link href="http://static.excite.co.uk/v2/css/common/structure/master.css?v16bis" media="screen" rel="stylesheet" type="text/css">
 <link href="http://static.excite.co.uk/v2/css/common/structure/staticpage.css?v6" media="screen" rel="stylesheet" type="text/css">
 <link href="http://webfeeds.excite.co.uk/rss/info" rel="alternate" type="application/rss+xml" title="Excite RSS Feed">
 <link href="http://info.excite.co.uk/privacy" rel="canonical">
 <script type="text/javascript" async="" src="https://ssl.google-analytics.com/u/ga.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_GB/all.js"></script><script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
 <script type="text/javascript" src="http://static.excite.co.uk/v2/js/jquery/plugins/jquery.cookie.js"></script>
 <script type="text/javascript" src="http://ajax.aspnetcdn.com/ajax/jquery.templates/beta1/jquery.tmpl.min.js"></script>
-<script type="text/javascript" src="http://static.excite.co.uk/v2/js/common/redirect_cpa_fixer.js"></script>
 <script type="text/javascript" src="/jsi18n/loader.php?params[file][]=languages/en_GB.js"></script>
 <script type="text/javascript" src="http://static.excite.co.uk/v2/js/translations/translationsHandler.js?v1"></script>
+<script type="text/javascript" src="http://c.ad6media.fr/l.js"></script>
 <script type="text/javascript">
     //<![CDATA[
     var globalCountry = "uk";    //]]>
@@ -32,7 +32,7 @@ OAS_urlClick = '/1c/';
 OAS_sitepage = 'www.excite.co.uk/info/article';
 OAS_listpos = 'TopRight';
 OAS_listtags = '';
-OAS_query = 'kw=http%3A%2F%2Finfo.excite.co.uk%2Fprivacy&country=US&region=New+York&district=Jamaica&city=Jamaica&nielsen-area='+ OAS_listtags;
+OAS_query = 'kw=http%3A%2F%2Finfo.excite.co.uk%2Fprivacy&country=US&region=New+York&district=Jamaica&city=Jamaica&nielsen-area=&seo=true'+ OAS_listtags;
  OAS_target = '_top';
 //end of configuration
 OAS_version = 10;
@@ -54,7 +54,7 @@ if (OAS_version >= 11){
     document.write('<SCR' + 'IPT LANGUAGE=JavaScript1.1 SRC="' + OAS_baseUrl + OAS_urlAd + OAS_sitepage + '/1' + OAS_rns + '@' + OAS_listpos + '?' + OAS_query + '"><\/SCRIPT>');//-->
 }
   sdw =  OAS_baseUrl + OAS_urlAd + OAS_sitepage + '/1' + OAS_rns + '@' + OAS_listpos + '?' + OAS_query ;
-</script><script language="JavaScript1.1" src="http://oas.populisengage.com/4/www.excite.co.uk/info/article/1063124714@TopRight?kw=http%3A%2F%2Finfo.excite.co.uk%2Fprivacy&amp;country=US&amp;region=New+York&amp;district=Jamaica&amp;city=Jamaica&amp;nielsen-area="></script><script language="JavaScript"> 
+</script><script language="JavaScript1.1" src="http://oas.populisengage.com/4/www.excite.co.uk/info/article/1458139173@TopRight?kw=http%3A%2F%2Finfo.excite.co.uk%2Fprivacy&amp;country=US&amp;region=New+York&amp;district=Jamaica&amp;city=Jamaica&amp;nielsen-area=&amp;seo=true"></script><script language="JavaScript"> 
 <!--  
 document.write('');  
 function OAS_AD(pos) {  
@@ -68,15 +68,19 @@ else{
 var OASPositions = OAS_listpos.split(',');
 var positions;
 function reloadAdv(){
+
+    var country = 'uk';
+    
     var now = (new Date()).getTime();
         var pos = '';
         try{
             if(!(OASPositions instanceof Array ) || ((OASPositions instanceof Array ) && OASPositions.length <= 0)){
                 return;
             }
-            var oasUrl =  OAS_baseUrl + OAS_urlAd + OAS_sitepage + '/1' + OAS_rns + '@TopLeft?' + OAS_query ;
+            var newPos =  (country === 'de') ? 'Position2' : 'TopLeft';     
+            var oasUrl =  OAS_baseUrl + OAS_urlAd + OAS_sitepage + '/1' + OAS_rns + '@'+newPos+'?' + OAS_query ;
             //            positions = OASPositions.slice(0);
-            positions = new Array('TopLeft');
+            positions = new Array(newPos);
             $.getScript(oasUrl, function(data){writeAdv(data)});
         }catch(e){
             console.log(e);        }
@@ -104,7 +108,9 @@ function writeAdv(data){
             document.write = _write; document.writeln = _writeln;
             var html = $.writeCapture.sanitize(sdw);
             $('#' + pos).empty();
-                            if(pos == 'TopLeft'){
+                //console.log(pos + ':' + html);
+                            //console.log(pos + ':' + html);
+                if(pos == 'TopLeft'){
                     $('#TopRight').html(html);
                 }
                 else{
@@ -182,7 +188,7 @@ function writeAdv(data){
                 <li><a title="Feedback" href="http://info.excite.co.uk/feedback">Feedback »</a></li>
             </ul>
 </div>
-                    </div>
+                                            </div>
                 </div>
                 <div class="clearfix" id="footer">
     <div class="g_9 directory-col">
@@ -193,6 +199,7 @@ function writeAdv(data){
                                             <li><a title="EntertainMe" href="http://entertainme.excite.co.uk">EntertainMe</a></li>
                                             <li><a title="Music" href="http://music.excite.co.uk">Music</a></li>
                                             <li><a title="Sportscene" href="http://sportscene.excite.co.uk">Sportscene</a></li>
+                                            <li><a title="Sexploits" href="http://sexploits.excite.co.uk">Sexploits</a></li>
                                     </ul>
                             </div>
                      
@@ -312,7 +319,9 @@ function writeAdv(data){
 </noscript>
 <!-- End comScore Tag -->
         <script type="text/javascript" src="http://static.excite.co.uk/v2/js/common/social_tracking.min.js?v6"></script>
-<script type="text/javascript" src="http://static.excite.co.uk/v2/js/common/social_action.js?v3"></script>        <div id="fb-root"></div>
+<script type="text/javascript" src="http://static.excite.co.uk/v2/js/common/social_action.js?v3"></script>
+<script type="text/javascript">
+    ad6is('17eryhiur7');</script>        <div id="fb-root"></div>
 <script>
 var socialConfig = {'partner' : {'facebook' : 1, 'twitter' : 2, 'googleplus' : 3}, 'action' : {'like' : 1, 'tweet' : 2, 'plusone' : 3, 'comment' : 4, 'unlike' : 5, 'uncomment' : 6, 'unplusone' : 7 },'idContent' :-1 };
 (function(d, s, id) {
