@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the edexcelonline.com privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601050240id_/http%3A//uk.pearson.com/pearson-privacy/policy/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edexcelonline.com privacy policy that was archived on 2013-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131030042603id_/http%3A//uk.pearson.com/pearson-privacy/policy/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy : Pearson UK
 
