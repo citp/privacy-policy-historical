@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the londonist.com privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530115853id_/http%3A//londonist.com/cookies-and-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the londonist.com privacy policy that was archived on 2013-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131030215618id_/http%3A//londonist.com/cookies-and-privacy) for the most accurate reproduction.*
 
 # Cookie Information and Privacy Policy | Londonist
 
@@ -18,7 +18,7 @@ By setting a cookie on a Londonist Ltd Site, users will not have to log in a pas
 
 Londonist utilises third-party software for statistics on our website usage, advertising and for social media plugin functionality. A list of these and their relevant privacy policies are listed below:
 
-  *  **Google Analytics**. We use this for general website statistics.  
+  * **Google Analytics**. We use this for general website statistics.  
 <http://www.google.com/policies/privacy/>
   * **Google Doubleclick for Publishers**. Londonist Ltd utilises this software for rendering its advertising. <http://www.google.com/policies/privacy/>
   * **Criteo**. This enables extra affiliate links for our content. <http://www.criteo.com/us/privacy-policy>
@@ -67,3 +67,21 @@ Whenever Londonist Ltd changes its privacy policy, we will post those changes to
 ## Contact Information
 
 If you have any questions or suggestions regarding our privacy policy, please contact the editor of the Londonist Ltd site in question, or send an email to hello@londonist.com or mail us at Londonist Ltd, 72-74 Paul Street, London EC2A 4NA, United Kingdom.
+
+[ ](http://londonist.com/2013/10/seasonal-skating-london-ice-rink-round-up-2013.php)
+
+[ ](http://londonist.com/2013/10/nick-brandts-beautifully-stark-images-of-a-fragile-environment.php)
+
+[ ](http://londonist.com/2013/10/explore-the-national-theatre-archive.php)
+
+[ ](http://londonist.com/2013/10/will-architecture-save-the-future-futures-in-the-making-at-architecture-foundation.php)
+
+[ ](http://londonist.com/2013/10/london-short-fiction-harvest-festival.php)
+
+[ ](http://londonist.com/2013/10/kristin.php)
+
+[ ](http://londonist.com/2013/10/take-a-twilight-tour-of-the-tower.php)
+
+[ ](http://londonist.com/2013/10/things-to-do-in-london-this-weekend-2-3-november-2013.php)
+
+[ ](http://londonist.com/2013/10/two-war-photography-exhibitions-at-imperial-war-museum.php)
