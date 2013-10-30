@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dorlingkindersley-uk.co.uk privacy policy that was archived on 2013-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130523183145id_/http%3A//www.dk.co.uk/static/cs/uk/11/copyright/privacy_adults.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dorlingkindersley-uk.co.uk privacy policy that was archived on 2013-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131030065424id_/http%3A//www.dk.co.uk/static/cs/uk/11/copyright/privacy_adults.html) for the most accurate reproduction.*
 
 # Privacy Policy Adults - Help & Advice - DK Books
 
