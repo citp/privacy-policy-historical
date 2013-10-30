@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pcci.edu privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621071614id_/http%3A//www.pcci.edu/PrivacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pcci.edu privacy policy that was archived on 2013-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131030162534id_/https%3A//www.pcci.edu/PrivacyPolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy :: Pensacola Christian College
 
@@ -6,7 +6,7 @@ PCCI.edu is operated by Pensacola Christian College, Inc. (“PCC”).
 
 We respect the privacy of our users and the importance of the information they entrust to us. We summarize below the basic information policies and practices in place on the PCCI.edu website and related applications.
 
-Last Updated: November 4, 2009
+Last Updated: October 10, 2013
 
 ## Information we may collect
 
@@ -47,6 +47,8 @@ We will not share your personal information with others except as indicated belo
 
 
 We may share aggregated, non-personal information.
+
+We may allow third-party companies, including AddThis, Google, and DoubleClick, to collect certain anonymous information when you visit our website in part to inform, optimize, and serve ads based on your past visits to our website. These companies may use non-personally identifiable information during your visits to this and other websites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or a third party web beacon to collect this information. We may use Remarketing with Google Analytics to advertise online. Third-party vendors, including Google, may show our ads on sites across the Internet. To learn more about this behavioral advertising practice, you can visit [www.networkadvertising.org](http://www.networkadvertising.org/).
 
 ## Your choices
 
