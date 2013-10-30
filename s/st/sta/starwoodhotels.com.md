@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the starwoodhotels.com privacy policy that was archived on 2013-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130609054241id_/http%3A//www.starwoodhotels.com/corporate/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the starwoodhotels.com privacy policy that was archived on 2013-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131030225526id_/http%3A//www.starwoodhotels.com/corporate/privacy_policy.html) for the most accurate reproduction.*
 
 # Starwood Hotels & Resorts
 
@@ -27,6 +27,7 @@ We have provided this Privacy Statement as an explanation of the information we 
   * CONTACT US
   * UPDATES TO THE PRIVACY STATEMENT
 
+  
 
 
 ## THE WORLD OF STARWOOD:
