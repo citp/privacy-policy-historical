@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the incent.ly privacy policy that was archived on 2013-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130607080550id_/http%3A//incent.ly/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the incent.ly privacy policy that was archived on 2013-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131030095710id_/http%3A//incent.ly/privacy.php) for the most accurate reproduction.*
 
 # incent.ly - Privacy Policy
 
