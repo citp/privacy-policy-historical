@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mbaknol.com privacy policy that was archived on 2013-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130605181346id_/http%3A//www.mbaknol.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mbaknol.com privacy policy that was archived on 2013-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131031165709id_/http%3A//www.mbaknol.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | MBA Knowledge Base
 
