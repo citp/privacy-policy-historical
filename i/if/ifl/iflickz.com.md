@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iflickz.com privacy policy that was archived on 2013-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130525013921id_/http%3A//www.iflickz.com/about) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iflickz.com privacy policy that was archived on 2013-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131031143443id_/http%3A//www.iflickz.com/about) for the most accurate reproduction.*
 
 # Privacy - iFlickz
 
@@ -31,10 +31,6 @@ This site contains links to other sites. iFlickz.com is not responsible for the 
 **Security**
 
 This site has security measures in place to protect the loss, misuse, and alteration of the information under our control. We make every effort to maintain quality of service and prevent misuse.
-
-**Children’s Guidelines ( Children under 13 )**
-
-This site collects and uses personally identifiable information without prior verifiable parental consent. This site allows children to post or distribute any personally identifiable information without first obtaining verifiable parental consent.
 
 **Contact Us**
 
