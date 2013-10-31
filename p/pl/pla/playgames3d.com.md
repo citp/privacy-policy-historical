@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the playgames3d.com privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601214137id_/http%3A//www.playgames3d.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the playgames3d.com privacy policy that was archived on 2013-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131031221737id_/http%3A//www.playgames3d.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
