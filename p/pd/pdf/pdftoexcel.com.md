@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the pdftoexcel.com privacy policy that was archived on 2012-01-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120114125222id_/http%3A//www.pdftoexcel.com/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pdftoexcel.com privacy policy that was archived on 2013-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131031010008id_/http%3A//www.pdftoexcel.com/privacy_policy.htm) for the most accurate reproduction.*
 
 # Convert PDF to Excel - Free Trial
-
-Investintech.com Inc. Privacy Practices on the Web
 
 Your privacy is important to Investintech.com Inc. ("Investintech"). This statement discloses the information practices for the Investintech website, including what type of information is gathered and tracked, how the information is used, and with whom the information is shared. We respect your right to privacy and we recognize the trust you are placing in us through your dealings with us. As such we do everything we can to maintain that trust.
 
@@ -16,7 +14,7 @@ If you request something from the Investintech Web site, for example, a product 
 
 We intend to protect your personal information and to maintain its quality. We implement appropriate measures and processes, such as using encryption when transmitting certain sensitive information, to help us to keep your information secure and to maintain its quality.
 
-If you have a question about this statement, you can send an email to the Investintech privacy officer who is also our President. His e-mail address is [dave@investintech.com](mailto:dave@investintech.com?subject=Privacy%20Policy%20Question). You can also contact us at this address if you have a question about Investintech's handling of your information, if you wish to obtain a copy of particular information you provided to Investintech, or if you become aware the information is incorrect and you would like us to correct it. Before Investintech is able to provide you with any information or correct any inaccuracies, however, we may ask you to verify your identity and for other details to help us to respond to your request. We will endeavor to respond within an appropriate timeframe. 
+If you have a question about this statement, you can send an email to the Investintech privacy officer who is also our President. His e-mail address is [dave@investintech.com](mailto:dave@investintech.com?subject=Privacy%20Policy%20Question). You can also contact us at this address if you have a question about Investintech's handling of your information, if you wish to obtain a copy of particular information you provided to Investintech, or if you become aware the information is incorrect and you would like us to correct it. Before Investintech is able to provide you with any information or correct any inaccuracies, however, we may ask you to verify your identity and for other details to help us to respond to your request. We will endeavor to respond within an appropriate timeframe.
 
 If you believe we have breached your privacy rights in any way, or you would like to discuss any issues about our privacy policy please contact our Privacy Officer. We will try to satisfy any questions that you have and correct any errors on our part.
 
