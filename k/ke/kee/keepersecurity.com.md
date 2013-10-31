@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the keepersecurity.com privacy policy that was archived on 2013-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130625070732id_/http%3A//keepersecurity.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the keepersecurity.com privacy policy that was archived on 2013-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131031062710id_/https%3A//keepersecurity.com/privacy) for the most accurate reproduction.*
 
 # Keeper - Privacy Policy
 
@@ -7,15 +7,17 @@
 
 ## General
 
-Keeper Security, Inc. (“Keeper Security”) values your privacy. Keeper Security has created this Privacy Policy to demonstrate our commitment to protecting your privacy and to disclose our information and privacy practices for https://keepersecurity.com and its services. We reserve the right to change this Policy and will notify you of such changes via email or our website. If you have questions or concerns regarding this Privacy Policy, you may contact us at support@keepersecurity.com. 
+Keeper Security, Inc. (“Keeper Security”) values your privacy. Keeper Security has created this Privacy Policy to demonstrate our commitment to protecting your privacy and to disclose our information and privacy practices for https://keepersecurity.com and its services. We reserve the right to change this Policy and will notify you of such changes via email or our website. If you have questions or concerns regarding this Privacy Policy, you may contact us at support@keepersecurity.com. If you are not satisfied with our response you can contact TRUSTe at <http://watchdog.truste.com/pvr.php?page=complaint>. 
+
+Keeper Security, Inc. complies with the U.S.–E.U. and U.S.–Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use and retention of personal data from European Union member countries and Switzerland. Keeper Security, Inc. has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Keeper Security, Inc.'s certification, please visit <http://www.export.gov/safeharbor>. 
 
 ## Security
 
 Keeper Security stores its servers in a highly secure server environment with 24 X 7 monitoring, surveillance and support to prevent unauthorized access and data security. Advanced security measures including firewalls, security guards and surveillance are taken to ensure the continued service and protection of your data from natural disaster, intruders and disruptive events. 
 
-Smartphones and Tablets are unsecure from a security perspective. With typically unsecure or weak logic access to data in the calendar, contact list, email database and notes - they represent a massive flaw in many internal security and control systems. When a user’s Smartphone or Tablet is lost or stolen, the data on that device is subject to theft and misappropriation. The result can be devastating in terms of risk exposure and financial loss. 
+Smartphones and Tablets are insecure from a security perspective. With typically unsecure or weak logic access to data in the calendar, contact list, email database and notes - they represent a massive flaw in many internal security and control systems. When a user’s Smartphone or Tablet is lost or stolen, the data on that device is subject to theft and misappropriation. The result can be devastating in terms of risk exposure and financial loss. 
 
-Keeper software serves a massive, positive movement in Mobile Device Security. Keeper was pioneered to run on the widest platform base using a feature-rich mobile security application. Keeper runs on iPhone*, iPad*, iPod*, Android*, Android Tablets*, BlackBerry*, Windows Mobile* and all primary PC platforms - Windows*, Mac OS* and Linux*. Keeper uses a proprietary encryption method using 128-bit AES cipher which operates throughout the storage and data stream when posting and retrieving end user data from the Cloud Security Vault. (*Note: These trade names are protected by the registered trademarks of their respective owners. Keeper and Password Keeper are U.S. registered trademarks of Keeper Security, Inc.). 
+Keeper software serves a massive, positive movement in Mobile Device Security. Keeper was pioneered to run on the widest platform base using a feature-rich mobile security application. Keeper runs on iPhone*, iPad*, iPod*, Android*, Android Tablets*, BlackBerry*, Windows Phone* and all primary PC platforms - Windows*, Mac OS* and Linux*. Keeper uses 256-bit AES encryption and PBKDF2 key derivation. Please refer to our [Security Disclosure](https://keepersecurity.com/security) page for detailed information about our security and encryption practices. (*Note: These trade names are protected by the registered trademarks of their respective owners. Keeper and Password Keeper are U.S. registered trademarks of Keeper Security, Inc.). 
 
 Keeper protects “Micro Data.” Micro Data consists of small strings of information, usually 50 characters or less, used by every consumer of a Smartphone, Tablet or PC. Examples include: Social Security Numbers, Bank Account and Routing Information, Client Account Numbers, Vendor Account Numbers, Customer Purchasing Information, Credit Limit Terms, Log In Passwords, Encryption Codes, Alarm Codes, Access Codes, Employee ID Numbers, etc. Micro Data is the small strings of information that although small, represent the most important element of an end user’s identity. Micro Data is the target for any thief, spy or hacker. Too often, Micro Data is kept by professionals and end users in sticky notes, paper notebooks, envelopes, file folders and email note tabs on mobile devices and computers. More often than not, they are easily accessible by an unwanted user and are the primary target for today’s identity and financial thieves. By example, from a corporate risk perspective, an employee’s mobile device may have a cost value of $195 but the information on that device may be worth several million dollars. 
 
@@ -23,7 +25,7 @@ Keeper is one of the most downloaded password security applications for storing,
 
 ## U.S. Government Approval & Encryption Level 
 
-Keeper utilizes strong encryption using the 128-bit AES cipher. Keeper is approved for export to unrestricted countries* by the U.S. Department of Commerce Bureau of Industry and Security under classification #5D992 (*See [Terms & Conditions](https://web.archive.org/terms)). 
+Keeper utilizes strong encryption using the 256-bit AES cipher. Keeper is approved for export to unrestricted countries* by the U.S. Department of Commerce Bureau of Industry and Security under classification #5D992 (*See [Terms & Conditions](https://keepersecurity.com/terms)). 
 
 ## Information We Collect
 
@@ -55,6 +57,4 @@ When customers and users access and use Keeper Security, there may be links to w
 
 ## Further Questions
 
-If you have further questions about our Privacy Policy, email us at support@keepersecurity.com. 
-
-If you have any questions about the rights and restrictions above, please contact Keeper Security by email at support@keepersecurity.com. 
+If you have further questions about our Privacy Policy, email us at [support@keepersecurity.com](mailto:support@keepersecurity.com). 
