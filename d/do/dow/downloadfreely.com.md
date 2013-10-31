@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the downloadfreely.com privacy policy that was archived on 2013-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130529105751id_/http%3A//downloadfreely.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the downloadfreely.com privacy policy that was archived on 2013-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131031195126id_/http%3A//downloadfreely.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Download Freely
 
@@ -6,11 +6,11 @@
 
 ATTENTION ALL USERS OF WEBSITES OWNED AND OPERATED BY DOWNLOAD FREELY, LLC:
 
-This Privacy Statement explains how Download Freely, LLC, a limited liability company under the laws of the State of Delaware, U.S.A. (“Download Freely” “we,” or “us”), collects and uses the information concerning users (“Users” or “you”) of its downloadfreely.com and openfreely.com websites (the “Websites”).
+This Privacy Statement explains how Download Freely, LLC, a limited liability company under the laws of the State of Delaware, U.S.A. ("Download Freely" "we," or "us"), collects and uses the information concerning users ("Users" or "you") of its downloadfreely.com and openfreely.com websites (the "Websites").
 
 This policy applies to the Websites only. Download Freely owns, manages, and is responsible for all pages of the Websites. Users with privacy questions should send an email to contract@downloadfreely.com.
 
-YOU AGREE TO ALL OF THE TERMS AND CONDITIONS OF THIS PRIVACY STATEMENT WHEN YOU USE THE WEBSITE. IF YOU DON’T AGREE WITH THIS PRIVACY STATEMENT, DON’T USE THE WEBSITE. WE MAY REVISE THIS POLICY AT ANY TIME. WE WILL ONLY NOTIFY USERS VIA THE WEBSITE IF THIS PRIVACY STATEMENT IS CHANGED. CHECK THE WEBSITE FREQUENTLY FOR CHANGES. CHANGES WILL BE EFFECTIVE WHEN POSTED. USE OF THE WEBSITE AFTER CHANGES HAVE BEEN POSTED WILL BE CONSIDERED TO BE THE ACCEPTANCE AND AGREEMENT TO THE CHANGES.
+YOU AGREE TO ALL OF THE TERMS AND CONDITIONS OF THIS PRIVACY STATEMENT WHEN YOU USE THE WEBSITE. IF YOU DON'T AGREE WITH THIS PRIVACY STATEMENT, DON'T USE THE WEBSITE. WE MAY REVISE THIS POLICY AT ANY TIME. WE WILL ONLY NOTIFY USERS VIA THE WEBSITE IF THIS PRIVACY STATEMENT IS CHANGED. CHECK THE WEBSITE FREQUENTLY FOR CHANGES. CHANGES WILL BE EFFECTIVE WHEN POSTED. USE OF THE WEBSITE AFTER CHANGES HAVE BEEN POSTED WILL BE CONSIDERED TO BE THE ACCEPTANCE AND AGREEMENT TO THE CHANGES.
 
 **The Information and Content Covered by this Privacy Statement**  
 This Privacy Statement applies to all information we collect on the Websites and all information you may provide to us via the Websites. The Websites may include message areas that allow the posting or submission of information to us or the Websites. If a User posts information other Users may be able to view the information. Be careful when posting personal or personally identifiable information. Other users who can view the information may misuse it. We do not have any direct control over the use that other users may make of information you post to our Websites for public viewing.
