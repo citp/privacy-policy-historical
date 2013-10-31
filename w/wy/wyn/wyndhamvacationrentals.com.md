@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wyndhamvacationrentals.com privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501050944id_/http%3A//www.wyndhamvacationrentals.com/vacation-rentals/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wyndhamvacationrentals.com privacy policy that was archived on 2013-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131031062545id_/http%3A//www.wyndhamvacationrentals.com/vacation-rentals/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy - ResortQuest by Wyndham Vacation Rentals
 
@@ -74,7 +74,7 @@ _Transfer in the Event of Sale or Change of Control_ :  If the ownership of all
 
 **Opting Out; How Can You Control the Use of Information?**
 
-Should you decide you want to opt out from WVR's use of any Personal Information you previously provided to (and/or authorized for use by) WVR, or if any of your Personal Information (such as your zip code or email address) changes, you may follow the procedure below. WVR makes periodic efforts to verify the accuracy of your Personal Information and to correct and update its databases based on the information available to it. In the event you believe any Personal Information held by WVR is inaccurate or outdated, WVR, upon notification and sufficient time for verification, will take all reasonable steps to correct any inaccuracy or update outdated Personal Information of which it is made aware. WVR also gives you the opportunity to control or opt out from the communications WVR directs to you.
+Should you decide you want to opt out from WVR's use of any Personal Information you previously provided to (and/or authorized for use by) WVR, or if any of your Personal Information (such as your zip code or email address) changes, you may follow the procedure below. WVR makes periodic efforts to verify the accuracy of your Personal Information and to correct and update its databases based on the information available to it. In the event you believe any Personal Information held by WVR is inaccurate or outdated, WVR, upon notification and sufficient time for verification, will take all reasonable steps to correct any inaccuracy or update outdated Personal Information of which it is made aware. WVR also gives you the opportunity to control or opt out from the communications WVR directs to you. You may not be able to opt out concerning retention of certain Personal Information you previously provided that WVR needs for business or legal purposes, including without limit Personal Information submitted in connection with a reservation, or that relates to your use of any products or services.
 
 You can also ask to access any of the Personal Information we hold about you. These rights are in addition to your rights to request that your Personal Information is updated or corrected or is not used for direct marketing purposes.
 
@@ -82,9 +82,9 @@ If you would like to opt out from any use or communication described in this Pri
 
 > **Mailing:**  
 >  Vice President Marketing  
->  Wyndham Vacation Rentals  
->  7 Sylvan Way  
->  Parsippany, NJ 07054
+>  14 Sylvan Way  
+>  Parsippany, NJ  
+>  07054
 
 **What Happens When You Link to a Third Party Site?**
 
@@ -100,4 +100,4 @@ All Personal Information will be processed and stored by WVR in the United State
 
 The security of all Information associated with users of this Website is an important concern to WVR. WVR exercises reasonable care in providing secure transmission of your Information from your computer to WVR's servers and databases. Unfortunately, no data transmission over the Internet can be guaranteed to be 100% secure. As a result, while WVR strives to protect your Information, WVR cannot ensure or warrant the security of any Information you transmit to WVR, and you do so at your own risk. Once you complete the transmission of, and WVR receives, your Information, WVR uses industry standard efforts and practices to safeguard the confidentiality of your Personal Information, and uses commercially reasonable efforts to collect and secure such Personal Information consistent with all applicable laws and regulations. WVR takes commercially reasonable efforts to use a variety of different security measures (such as firewalls and Secure Socket Layers) designed to protect Personal Information from access by unauthorized users both inside and outside of WVR, and to protect against the unauthorized or improper alteration or destruction of such Personal Information. WVR's communication system, software and database practices have been designed to aid in supporting authenticity, integrity and confidentiality. However, as described above, "perfect security" does not exist on the Internet and, despite these reasonable efforts by WVR to maintain data and Information security, WVR cannot guarantee the security of data or Information.
 
-Effective date: This policy was last updated on July 27, 2012.
+Effective date: This policy was last updated on October 8, 2013.
