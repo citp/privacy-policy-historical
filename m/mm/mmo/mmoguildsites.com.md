@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mmoguildsites.com privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602195002id_/http%3A//www.shivtr.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mmoguildsites.com privacy policy that was archived on 2013-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131031030035id_/http%3A//www.shivtr.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy for Shivtr
 
