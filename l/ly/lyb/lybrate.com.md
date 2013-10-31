@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lybrate.com privacy policy that was archived on 2013-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130610000344id_/http%3A//www.lybrate.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lybrate.com privacy policy that was archived on 2013-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131031144358id_/http%3A//www.lybrate.com/privacy) for the most accurate reproduction.*
 
 # Lybrate - Privacy Policy
 
@@ -88,6 +88,6 @@ The [Terms of Service](http://www.lybrate.com/terms) Agreement is incorporated h
 **f. what is lybrate's contact address for privacy questions**
 
   1. **Consent to This Policy**  
-Should You have questions about this policy or Lybrate's information collection, use and disclosure practices, You may contact us at the address Lybrate Pte Ltd, 10, Changi Business Park, Central 2, Singapore 486030. We will use reasonable efforts to respond promptly to requests, questions or concerns You may have regarding our use of personal information about You. Except where required by law, Lybrate cannot ensure a response to questions or comments regarding topics unrelated to this policy or Lybrate's privacy practices. 
+Should You have questions about this policy or Lybrate's information collection, use and disclosure practices, You may contact us at the address Matrix India Inc, 199 Sector 15A, Faridabad, Haryana 121007. We will use reasonable efforts to respond promptly to requests, questions or concerns You may have regarding our use of personal information about You. Except where required by law, Lybrate cannot ensure a response to questions or comments regarding topics unrelated to this policy or Lybrate's privacy practices. 
 
 
