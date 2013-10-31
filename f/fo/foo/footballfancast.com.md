@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the footballfancast.com privacy policy that was archived on 2013-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130630102344id_/http%3A//www.footballfancast.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the footballfancast.com privacy policy that was archived on 2013-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131031024547id_/http%3A//www.footballfancast.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | FootballFanCast.com
 
 *****Please read all of this Privacy Policy as well as the Terms and Conditions very carefully prior to commencing use of this web site and on each and every occasion that you use this web site in the future to check for updates.**
 
-SN&CK Media Limited process personal information only in strict compliance with the Data Protection Act 1998 (as amended), the Privacy and Electronic Communications (EC Directive) Regulations 2003 and other associated data protection legislation. Any personal information provided or gathered via this web site is controlled primarily by SN&CK Media Limited of 173 Friern Barnet Lane, Whetstone, London,N20 0NN.
+SN&CK Media Limited process personal information only in strict compliance with the Data Protection Act 1998 (as amended), the Privacy and Electronic Communications (EC Directive) Regulations 2003 and other associated data protection legislation. Any personal information provided or gathered via this web site is controlled primarily by SN&CK Media Limited of 2nd Floor Asta House, 65 Whitfield Street, London, W1T 4HE.
 
 Your visiting this web site constitutes acceptance of and consent to the practices set out in this Privacy Policy. If you do not agree with any of the terms as set out in this Privacy Policy then you should cease using this web site immediately.
 
@@ -13,6 +13,8 @@ SN&CK Media Limited reserves the rights to change this Privacy Policy at any tim
 ### WHAT INFORMATION DO SN&CK MEDIA LIMITED COLLECT?
 
 Your personal information is not collected from you automatically, simply as a result of your accessing this web site. It is only collected on a voluntary basis, resulting from your own input of this information. The only information that is collected automatically when you access this web site is the IP address of the computer that you are using. For more information on IP addresses, please see below.
+
+We will also collect information on our server logs from your browser including your IP address, web-browser details, operating system details, and your activities whilst on the Website together with information about other websites that you have visited either before or after you have entered onto the Website.
 
 If you register your personal details with this web site, it is only known to SN&CK Media Limited and trusted third party suppliers of related services. If you choose to register, SN&CK Media Limited will request information such as your name, email address, address, telephone number or other contact details as required. This information will then be held by SN&CK Media Limited as it is necessary for SN&CK Media Limited to carry out the services for which you registered. SN&CK Media Limited also use this information to improve the function of the web site and to prevent any abuse to the web site. This information will not be kept indefinitely, only for the statutory period allowed under the Data Protection Act 1998 (as amended).
 
@@ -24,7 +26,7 @@ We use third-party advertising companies to serve ads when you visit our Web sit
 
 All the information that SN&CK Media Limited collect via the web site or correspondence is used to help SN&CK Media Limited understand more about who uses the web site and to help improve the web site and the services that it offers. It will also help SN&CK Media Limited to send communications to you that may be of interest.
 
-As a general principle, your personal data will NOT be passed or sold to any third party except for as set out in this Privacy Policy or with your express permission. However, your personal data may be passed to a third party in any one of these circumstances:-
+We do share information about users with third parties order to promote, sell or enhance the products and services we provide but we only disclose such information in an aggregated or anonymised form so that the information is incapable of identifying you as an individual. We take the privacy of our users very seriously, we do not rent, sell or share your personal data with other people. However, your personal data may be passed to a third party in any one of these circumstances:-
 
   * If SN&CK Media Limited have a duty to do so or if the law allows or requires SN&CK Media Limited to do so;
   * If SN&CK Media Limited or its assets are sold to or purchased by another company or person;
@@ -74,4 +76,4 @@ London,
 
 W1T4HE.
 
-This Privacy Policy was last updated on 12th February 2007.
+This Privacy Policy was last updated on 10th September 2013.
