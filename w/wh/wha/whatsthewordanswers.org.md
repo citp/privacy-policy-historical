@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the whatsthewordanswers.org privacy policy that was archived on 2013-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130619000557id_/http%3A//www.whatsthewordanswers.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whatsthewordanswers.org privacy policy that was archived on 2013-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131031183559id_/http%3A//www.whatsthewordanswers.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy PolicyWhat's the Word Answers | What's the Word Answers
+
+Dear visitors of our website! We are glad you are already here. This means either you are looking for answers (you cheating) or you have stumbled across our website and you would like to play the addictive game of whats the word. Our website is updated daily with various levels and answers. You are kindly requested to double check your version of the game because different updates have different level numbers. We would propose you to check the images and try to locate the answers from them. In case you are stuck on a level and you cannot seem to find the solution on our website, drop us a message on our Facebook page (found on the right)
 
 Privacy Policy for www.whatsthewordanswers.org 
 
