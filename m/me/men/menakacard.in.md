@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the menakacard.in privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530065528id_/http%3A//menakacard.in/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the menakacard.in privacy policy that was archived on 2013-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131031080040id_/http%3A//menakacard.in/privacypolicy.php) for the most accurate reproduction.*
 
 # Menaka Card - Online Wedding Card Shop | Hindu Wedding Card|Christian Wedding Card|Muslim Wedding Card|Indian Wedding Card Portal
 
@@ -14,16 +14,40 @@ The site does not share the e-mail addresses and postal addresses with any other
 
 We have proper security arrangements in place to protect against the loss, misuse or alteration of information that we have collected from our customers. If you find that the site is not following above stated privacy policy, you may contact us by sending us e-mail at [online@menakacard.in](mailto:%6f%6e%6c%69%6e%65@%6d%65%6e%61%6b%61%63%61%72%64.%69%6e). 
 
-##### Refund & Cancellation Policy
+##### Terms & Conditions
 
-Only Blank cards can be exchanged. In case of exchange, shipping costs from India to the destination point will be deducted. Also 3% of the total costs incurred will be retained as processing fee
+**ORDER BOOKING :**
 
-Shipping costs to send the goods to us are to be borne by you. Refunds will be initiated after receipt of the goods in good condition. Exchange amount is original amount paid less costs of shipping original order. All items must be returned in their original packaging along with a copy of the invoice and these must be packed together in a secure, tamper-proof box. We do not accept partial or used packs of supplies or items returned in envelopes. 
+Once Ordered; No Cancellation No Exchange(As soon as order is booked the production process will start immediately). 
 
-Mail to: online@menakacard.in. Kindly send via couriers with tracking facilities. Do not send via certified or registered mail. 
+**PROOF READING :**
 
-In case you are planning to place a bulk order with us, it is recommended that you purchase a sample first. No returns/refunds are entertained on grounds of your not liking the design and/or product, paper, color,size variation from the online samples. In such circumstances only exchange requests as per our `exchange policies' shall be entertained. Our site has a facility that allows you to buy a sample for your perusal and we strongly recommend that you purchase a sample before ordering bulk quantities. We shall be pleased to send you your selected samples for approval, and the cost of the same will be reimbursed against your order(s). Before placing your confirmed order, make sure that you are satisfied with the sample.Colors displayed on your monitor may vary from the actual printed card. Handmade paper tends to vary both in gsm (grams per square meter) and color. A variation of ±10% is an acceptable norm worldwide. There might be minor variations in paper of other grades too. Though we try our best to supply cards of the same size as specified on our website, there can be circumstances when the size of the printed card may vary slightly from the sizes mentioned therein. In our endeavor to provide you with the best cards, we reserve our rights to make slight alterations in their size. Cards once supplied shall not be taken back on grounds of alterations from the samples displayed online. Products will be returned only if there is a gross variation from the online sample. In case you want to return the cards, please send an email to online@menakacard.in along with details of why the cards should be returned. Our personnel will try to resolve your problems and in case no solutions can be reached at, your money will be refunded. 
+Customers are requested to check the proof thoroughly and approve it at the specified time. If not, the delivery date will be postponed. 
 
-Unused packs of invitation supplies may be returned for a refund within 7 days of receiving the material. Shipping cost incurred in sending the cards to you are non-refundable. All items must be returned in their original packaging along with a copy of the invoice and these must be packed together in a secure, tamper-proof box. We do not accept partial or used packs of supplies or items returned in envelopes. 
+**DELIVERY SCHEDULE :**
 
-Mail to: online@menakacard.in. Kindly send via couriers with tracking facilities. Do not send via certified or registered mail. 7 working days are required from the date of receipt of goods to process the refund order. 
+OUR AIM IS TO DELIVER THE GOODS ON TIME. Sometime it may also change due to disturbances of nature. 
+
+**PRINTING MATTERS :**
+
+Please give us correct and complete matter at the first instance. 
+
+**MATERIALS :**
+
+There will be slight variation in shade & weight of the Paper/Board from the Mill/Handmade unit. 
+
+**PRINTING COLOURS :**
+
+We take utmost care in executing your valued orders. There will be slight variation in printing colours which is due to various raw material inputs. 
+
+**MATERIAL WASTAGE :**
+
+In the process of printing there is likely a wastage of 2% to 3% will occur which cannot be avoided. It is globally accepted. 
+
+**COMPLAINTS :**
+
+Please inform us if any complaint within 24 hours of your delivery. 
+
+**KIND ATTENTION :**
+
+All boards (Metallic, Handmade, Imported Boards & Papers) will tend to unavoidable variations such as colors,shades,thickness,stiffness and bulkness due to various raw material input while manufacturing. So, Kindly bear with us for the inconvenience. 
