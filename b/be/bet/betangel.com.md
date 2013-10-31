@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the betangel.com privacy policy that was archived on 2013-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130423212118id_/http%3A//www.betangel.com/about/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the betangel.com privacy policy that was archived on 2013-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131031202353id_/http%3A//www.betangel.com/about/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Bet Angel Professional - Betfair software for the betting exchanges.
 
-## Privacy Policy
+## Privacy Policy & Your Security
 
 This privacy policy sets out how Bet Angel Limited uses and protects any information that you give Bet Angel Limited when you use this website.
 
@@ -72,4 +72,4 @@ You may request details of personal information which we hold about you under th
 
 If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible at the above address. We will promptly correct any information found to be incorrect.
 
-We are ICO registered and will only pass on your details if legally obliged to do so.
+We are [ICO registered](http://www.ico.org.uk/) and will only pass on your details if legally obliged to do so.
