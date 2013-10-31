@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tvweb.com privacy policy that was archived on 2013-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130425025737id_/http%3A//www.tvweb.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tvweb.com privacy policy that was archived on 2013-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131031210311id_/http%3A//www.tvweb.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - TVweb.com
+# Privacy Policy
 
 Pipeline Media Labs, LLC, Inc. has created this privacy statement to describe our firm commitment to your privacy. The following discloses our information gathering and dissemination practices for this website: "Pipeline Media Labs, LLC.com" at [http://www.tvweb.com](http://www.tvweb.com/).  We seek to protect your private information so that you have a pleasurable viewing experience on our Web site. We will not sell, rent, trade, or disclose your personally identifiable information to anyone except as explained in this policy. Please return to this page from time to time, as we will be updating this statement as our services continue to grow. We welcome and encourage questions, comments, and suggestions. Please contact us at [webmaster@tvweb.com](mailto:webmaster@tvweb.com) with any questions.
 
