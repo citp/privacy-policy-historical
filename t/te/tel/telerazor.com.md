@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the telerazor.com privacy policy that was archived on 2012-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121013153928id_/http%3A//www.telerazor.com/static/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the telerazor.com privacy policy that was archived on 2013-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131031031553id_/http%3A//www.retop-led.com/static/privacy) for the most accurate reproduction.*
 
-# Report Spam Call Online - Privacy Static
+# RetopLed Online - Privacy Static
 
 **What information do we collect?**
 
@@ -46,7 +46,7 @@ This online privacy policy applies only to information collected through our web
 
  **Terms and Conditions**
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [www.telerazor.com](http://www.telerazor.com/)
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [www.retop-led.com](http://www.retop-led.com/)
 
  **Your Consent**
 
@@ -60,4 +60,4 @@ If we decide to change our privacy policy, we will post those changes on this pa
 
 If there are any questions regarding this privacy policy you may contact us using the information below. 
 
-www.telerazor.com
+www.retop-led.com
