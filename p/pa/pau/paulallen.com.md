@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the paulallen.com privacy policy that was archived on 2013-01-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130115084113id_/http%3A//paulallen.com/TemplateGeneric.aspx%3FcontentId%3D8) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paulallen.com privacy policy that was archived on 2013-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131031125055id_/http%3A//www.paulallen.com/TemplateGeneric.aspx%3FcontentId%3D8) for the most accurate reproduction.*
 
 # Idea Man - Privacy Policy
 
