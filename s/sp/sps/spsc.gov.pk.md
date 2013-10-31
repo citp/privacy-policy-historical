@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spsc.gov.pk privacy policy that was archived on 2013-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130430233905id_/http%3A//spsc.gov.pk/privacy-statement.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spsc.gov.pk privacy policy that was archived on 2013-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131031082529id_/http%3A//spsc.gov.pk/privacy-statement.htm) for the most accurate reproduction.*
 
 # Sindh Public Service Commission
 
