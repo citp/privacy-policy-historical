@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the corkcicle.com privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502013235id_/http%3A//corkcicle.com/support/privacy-policylegal) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the corkcicle.com privacy policy that was archived on 2013-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131031110247id_/http%3A//corkcicle.com/support/privacy-policylegal) for the most accurate reproduction.*
 
 # Privacy | Corkcicle Support | Corkcicle
 
@@ -26,4 +26,10 @@ By using the Corkcicle.com website, you consent to our Privacy Policy.
 
 We will change, amend and update this Privacy Policy from time to time to reflect changes in our privacy practices, technology, products and services, general business operations and industry. In the event of any such change, we will post a revised policy on this Web site and revise the “Last Updated” date of such policy. We reserve the right to change, amend and update this Privacy Policy at any time in our sole and absolute discretion, and such changes will be effective upon posting of the revised policy. In the event of a material change in our information collection and use practices, we will provide more prominent notice of such change along with the revision to the effective date of the policy. You should check this Privacy Policy on a regular basis to ensure you have reviewed and are familiar with the most current policy. Contact us for any questions or concerns you may have regarding this Privacy Policy and our information and data collection and use practices. Please email [info@corkcicle.com.](mailto:info@corkcicle.com)
 
-### Last Updated 2012-07-13
+### Terms of Use
+
+The purpose of this site is to learn about products offered by Hewy Wine Chillers, LLC (DBA – Corkcicle), purchase these products for personal use, or learn how to contact Corkcicle for other manners related to partnerships in retail or distribution.
+
+Corkcicle has the right to cancel, refund, and/or not fulfill any orders placed on this site for any reason, at any time.  Corkcicle strictly prohibits the resale of product purchased on this site (www.corkcicle.com) for resale on any other third party websites or retail outlets.  Any violation or perceived violation of this policy warrants Corkcicle the full right to cancel and refund, without fulfilling the order, upon any suspicious behavior that is believed to be a violation of this policy.
+
+### Last Updated 2013-04-13
