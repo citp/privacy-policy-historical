@@ -1,80 +1,74 @@
-> *The following text is extracted and transformed from the sydney.edu.au privacy policy that was archived on 2013-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130630184549id_/http%3A//sydney.edu.au/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sydney.edu.au privacy policy that was archived on 2013-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131031032423id_/http%3A//sydney.edu.au/privacy.shtml) for the most accurate reproduction.*
 
-# University Web Sites Privacy Statement - Help - The University of Sydney
+# Privacy and University websites - Help - The University of Sydney
 
-## 1\. Collection of Information
+The following describes how the University of Sydney (“the University”) deals with personal information collected through its websites, and should be read in conjunction with the University’s [Privacy Policy](http://sydney.edu.au/policies/showdoc.aspx?recnum=PDOC2011/81&RendNum=0) and [Privacy Management Plan](http://sydney.edu.au/arms/privacy/pmp.pdf). 
 
-**Information Automatically Logged**  
----  
-      | The University may make a record of your visit and logs any of the following information for statistical and business purposes - the user's server address, the user's domain name, IP address, the date and time of the visit, the pages accessed and documents downloaded, the previous site visited and the type of browser used. 
+Personal information collected by the University is handled in accordance with the _Privacy and Personal Information Protection Act 1998_ and the _Health Records and Information Privacy Protection Act 2002_ (“the Acts”). Staff and students of the University should also refer to the University’s Policy on the Use of University Information and Communications Technology Resources (ICT Resources). 
 
-If you are not a University student or a University staff member and you send us a message, the University will record your e-mail address.  
-  
-**Security Information**  
-  | University sites have security measures in place to protect against the loss, misuse, and alteration of the information as defined in the University IT Security Policy . 
+The University’s websites automatically collect a certain amount of personal information about you when you are browsing or otherwise using the website. This is described below. This privacy statement deals primarily with the automatic collection of data about you. 
 
-A login name and password are required to visit secure areas, and before personal information (such as Examination Results) are published on the site, visitors are required to enter their student or staff number as well. This is to ensure that the information are displayed only to the intended person. You should ensure that your password is kept securely and cannot be discovered by anyone else.  
-  
-**Cookies**  
-  | A cookie is information that a Web site puts on your hard disk so that it can remember something about you at a later time. (More technically, it is information for future use that is stored by the server on the client side of a client/server communication.) It is possible to disable the accepting of cookies by your web browser, however doing so may restrict your ability to access some web pages. 
+The University also explicitly collects personal information through its interactions with you – for example, applying for places or jobs, enrolling in units of study, completing a survey etc.
 
-Some University sites are access restricted. These sites may use cookies to deliver content specific to your interest. Cookies may also be used for authentication purposes, and to improve security during a visitor's session online.
+_For explicit collection of personal information please refer to the privacy statement specific to that website and that particular interaction._
 
-Cookies may store the following information: session (numbered key) and duration. A numbered key is a unique server generated number used to identify the current session. The session key can be linked back to a user's login identification.
+## 1\. Collection of information automatically logged
 
-Unique identifiers (such as login identification) are collected from Web site visitors to verify the user's identity, and for use as account numbers in our record system.
+**Automated collection of information** – The University may collect personal information and other data about you from your computer as you browse or otherwise interact with our websites. The various mechanisms used include server logs, proxy logs, and cookies.
 
-Unique identifiers are also used to store information about visitor's preferences, to enable the dynamic display of the site according to your preferences when you return.  
-  
-**Surveys**  
-  | All academic / research surveys conducted by University staff and / or students, which involve the collection of personal information, will have received approval from the University Ethics Committee. Contact details for the Ethics Committee will be included in each survey instrument. 
+ **Cookies** – A cookie is a package of data which a website requests be stored temporarily on your computer (or in memory) to identify you as a visitor to that website. You can choose to disallow cookies by changing settings on your web browser. However, if you reject all cookies you may not be able to use some of the University’s websites. 
 
-Some of our online surveys ask visitors for unique identifiers (like login identification).
+The information collected by these various mechanisms includes:
 
-Contact information from the surveys may be used to get in touch with the visitor when necessary, for example to follow up on any issues identified by the visitor.  
-  
-**Registration Forms**  
-  | If personal information is collected via a website this will be done by sufficiently secure means. 
-
-Individuals will be provided with alternative means of providing personal information to the University, other than via the website.
-
-For certain applications, our site's registration forms require users to give contact information (like name and email address), and unique identifiers (like login identification and student number).  
-  
-**External Links**  
-  | Some University sites contain links to other sites. The University is not responsible for the privacy practices or the content of such Web sites.  
-  
+  * the IP (Internet Protocol) address of the machine which has accessed the website;
+  * the dates and times of each interaction on the website;
+  * the pages accessed and documents downloaded;
+  * sometimes, the previous site visited and the type of browser used.
 
 
-## 2\. Use of personal information
 
-| Personal information you supply on-line will be used by University staff in conducting the business of the University. Such uses include matters related to student administration, provision of services and the dissemination of information to staff, prospective and current students and remaining in contact with graduates. The University may also use your IP address to help diagnose problems with a server and to administer a Web site. It is sometimes used to set up individual sessions to provide secure logins. 
+Cookies may also store the following information: session (numbered key) and duration. A numbered key is a unique server-generated number used to identify the current session. The session key can be linked back to a user's login identification.
 
-Contact information from registration forms is used to get in touch with the visitor to a website when necessary, for example when the visitor is requesting the publication of notice of an event or seeking information about a course offered by the University. For certain applications, for example the online calendar of events, a user's details will be published when they are indicated to be the contact person for a particular event.
+Because some University sites have access restricted to staff or students, you may be required to use your secure login, (ie, to use your Unikey – your University user name – and password). Unique identifiers (such as your login identification) are collected from website visitors to verify the user’s identity. 
 
-Survey data will be used only for stated purposes, as approved by the University Human Ethics Committee.  
-  
----|---  
-  
+Unique identifiers are also used to store information about users’ preferences, to enable the dynamic display of the site according to your preferences when you return.
 
+The University uses the data collected for statistical and business purposes such as diagnosing a fault and improving our services or when required to, for investigations. The data is generally not accessible except to authorised ICT staff for these purposes. Information which is automatically collected may be published as aggregated (de-identified) information to assist with improving the services offered by the University through the website. 
 
-## 3\. Disclosure of personal information
+## 2\. Storage and security of information
 
-       |  The University will not disclose personal information concerning you, including your email address, to parties outside the University except in accordance with its [Privacy Policy](http://www.usyd.edu.au/senate/policies/Privacy.pdf) (pdf) which conforms to the requirements of the [NSW Privacy and Personal Information Protection Act](http://www.austlii.edu.au/au/legis/nsw/consol_act/papipa1998464/index.html) . Details regarding disclosure of personal information by the University may be found in the Privacy Management Plan . 
+Information automatically collected by the University through our websites is held primarily but not only by our [Information and Communications Technology](http://sydney.edu.au/ict/) (ICT) division. The University also uses the services of third party service providers who store information in their systems.
 
-Student users may opt-in to having their name and email addresses published as part of the on-line directory of students. The University supplies Email facilities so that it can keep in contact with its students and staff in a timely and cost effective manner   
-  
----|---  
-**Public Forums**  
-  |  Some University sites may have chat rooms, forums, message boards, and/or news groups available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information.   
-  
+The University’s ICT Division has in place security measures based on a risk assessment process to protect against the loss, misuse, and alteration of the information.The University also encrypts some information and transactions. 
 
+Where you can access a University website only by using the secure login issued to you (to all staff, students and affiliates) the information about you which is held, or you add or amend, on that website, is protected by restricting access through that login. Accordingly, you must ensure that your password is not disclosed or made available to others. 
 
-## 4\. Data Quality/Access
+Relevant technical staff are able to access the logs created by servers for the purposes of collecting statistics, dealing with faults and improving the service and investigations.
 
-      | The University will always try to maintain accurate, complete and up-to-date information regarding students and staff. The necessary procedures are in place to facilitate amendments and verification of personal information. If you think that your personal information retained by the University require changing please contact the [Student Centre](http://www.usyd.edu.au/studentcentre/) and / or [Sydney People](http://www.usyd.edu.au/sydneypeople/) as appropriate. 
+## 3\. Use and disclosure
 
-Full details regarding the means of access to, and correction of, personal information is set out in the University's [Privacy Management Plan](http://www.usyd.edu.au/arms/privacy/privacy_mgmt_plan.shtml).   
-  
----|---  
-  
+Information collected by the University through automated mechanisms will only be used for the purpose for which it was collected in accord with this Privacy Statement. 
 
+The information held by the University’s third party services providers will be used and disclosed in accord with the terms of the service contract. 
+
+The University will not disclose this information concerning you to parties outside the University except with your consent, or where required or authorised by law. Details regarding how and when the University disclosures personal information can be found in the University's [Privacy Management Plan](http://sydney.edu.au/arms/privacy/privacy_mgmt_plan.shtml). 
+
+Personal information collected through the University’s websites and which is no longer required by the University, nor required by law to be retained, will be destroyed, as authorised by the disposal authorities issued under the NSW [State Records Act 1998](http://www.austlii.edu.au/au/legis/nsw/consol_act/sra1998156/).
+
+## 4\. Access to and correction of personal information
+
+You have a right to request access to, and correction of, your personal information held by the University. Full details are set out in the University's [Privacy Management Plan](http://sydney.edu.au/arms/privacy/privacy_mgmt_plan.shtml). The University’s [privacy website](http://sydney.edu.au/arms/privacy/forms.shtml) includes forms to seek access and correct personal information. If you require more information about privacy in the University, please contact the University’s [Privacy Officer](http://sydney.edu.au/arms/privacy/contact.shtml).
+
+## 5\. Privacy complaints
+
+If you wish to make a complaint about the way the University has handled your personal information, please contact the University’s [Privacy Officer](http://sydney.edu.au/arms/privacy/contact.shtml). You are able to make a formal complaint under the Privacy Acts.
+
+## 6\. Breaches of security of University systems
+
+If you have an urgent concern that a University IT system has been breached and personal information is not properly secure please notify the ICT Help Desk immediately:
+
+Phone: (02) 9351 1600
+
+Email: [ict.support@sydney.edu.au](mailto:ict.support@sydney.edu.au)
+
+ **System breaches are critical events and should be reported to the ICT Help Desk at any time.**
