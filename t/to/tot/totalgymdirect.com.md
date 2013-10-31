@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the totalgymdirect.com privacy policy that was archived on 2013-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130518120306id_/http%3A//www.totalgymdirect.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the totalgymdirect.com privacy policy that was archived on 2013-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131031123213id_/http%3A//www.totalgymdirect.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Statement for Total Gym Fitness, LLC
 
@@ -61,8 +61,9 @@ Should you have any questions or concerns about these privacy policies, if you w
 
 
 > Total Gym Fitness, LLC  
->  1230 American Blvd.  
->  West Chester, PA 19380 USA  
+>  835 Springdale Drive  
+>  Suite 206  
+>  Exton, PA 19341 USA  
 > 
 
 _Updated: November 2008_
