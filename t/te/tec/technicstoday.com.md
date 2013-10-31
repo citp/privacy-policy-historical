@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the technicstoday.com privacy policy that was archived on 2013-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130614071949id_/http%3A//www.technicstoday.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the technicstoday.com privacy policy that was archived on 2013-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131031130507id_/http%3A//www.technicstoday.com/privacy-policy) for the most accurate reproduction.*
 
-# Technics Today.com Privacy Policy | Technicstoday.com
+# Technicstoday.comTechnics Today.com Privacy Policy
 
 **Technics Today.com Privacy Policy**
 
