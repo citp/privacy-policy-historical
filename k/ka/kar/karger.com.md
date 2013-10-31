@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the karger.com privacy policy that was archived on 2013-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130627052527id_/http%3A//karger.com/Info/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the karger.com privacy policy that was archived on 2013-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131031205333id_/http%3A//www.karger.com/Info/PrivacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy - Karger Publishers
 
