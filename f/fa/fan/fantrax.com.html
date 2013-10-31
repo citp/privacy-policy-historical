@@ -1,12 +1,17 @@
-<!--The following is the downloaded HTML source of the fantrax.com privacy policy that was archived on 2013-03-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130309023238id_/http%3A//www6.fantrax.com/showPage.go%3Fpage%3DprivacyPolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the fantrax.com privacy policy that was archived on 2013-10-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131031074750id_/http%3A//www7.fantrax.com/showPage.go%3Fpage%3DprivacyPolicy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html id="htMain"><head>
 <meta name="google" content="notranslate">
-
+<script>	
+	var pageLoaded = false;
+	var fxPageLoaded = false;
+	var fxFullPageLoaded = false;
+	var fxCssLoaded = false;
+</script>
 		<link rel="shortcut icon" href="/fantrax2.ico" type="image/x-icon" title="Fantrax">
 	
-<link rel="stylesheet" type="text/css" href="/css/style.cass?id=0virpberhdzove61" title="Fantrax">
+<link rel="stylesheet" type="text/css" href="/css/style.cass?id=ess3smvyhmy0o7rx" title="Fantrax">
 
 
 <style>
@@ -21,7 +26,7 @@
 .titleBarContainer .off {margin:10px 4px 0px 8px; float:right; background:url(http://img.fantrax.com/icons/progressOffStd.gif) no-repeat; width:24px; height:24px;}
 */
 
-.titleBarContainer {width:820px; margin-left:5px;height:38px; background: #5c5b60; /* Old browsers */ background: -moz-linear-gradient(top,  #5c5b60 0%, #6a696e 51%, #5a595e 100%); /* FF3.6+ */ background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#5c5b60), color-stop(51%,#6a696e), color-stop(100%,#5a595e)); /* Chrome,Safari4+ */ background: -webkit-linear-gradient(top,  #5c5b60 0%,#6a696e 51%,#5a595e 100%); /* Chrome10+,Safari5.1+ */ background: -o-linear-gradient(top,  #5c5b60 0%,#6a696e 51%,#5a595e 100%); /* Opera 11.10+ */ background: -ms-linear-gradient(top,  #5c5b60 0%,#6a696e 51%,#5a595e 100%); /* IE10+ */ background: linear-gradient(to bottom,  #5c5b60 0%,#6a696e 51%,#5a595e 100%); /* W3C */ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#5c5b60', endColorstr='#5a595e',GradientType=0 ); /* IE6-9 */ border-radius: 8px; -moz-border-radius: 8px; -webkit-border-radius: 8px; }
+.titleBarContainer {width:820px; margin-left:5px; margin-bottom:7px; height:38px; background: #5c5b60; /* Old browsers */ background: -moz-linear-gradient(top,  #5c5b60 0%, #6a696e 51%, #5a595e 100%); /* FF3.6+ */ background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#5c5b60), color-stop(51%,#6a696e), color-stop(100%,#5a595e)); /* Chrome,Safari4+ */ background: -webkit-linear-gradient(top,  #5c5b60 0%,#6a696e 51%,#5a595e 100%); /* Chrome10+,Safari5.1+ */ background: -o-linear-gradient(top,  #5c5b60 0%,#6a696e 51%,#5a595e 100%); /* Opera 11.10+ */ background: -ms-linear-gradient(top,  #5c5b60 0%,#6a696e 51%,#5a595e 100%); /* IE10+ */ background: linear-gradient(to bottom,  #5c5b60 0%,#6a696e 51%,#5a595e 100%); /* W3C */ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#5c5b60', endColorstr='#5a595e',GradientType=0 ); /* IE6-9 */ border-radius: 8px; -moz-border-radius: 8px; -webkit-border-radius: 8px; }
 .titleBarContainer .on {margin:7px 4px 0px 8px; float:right; background:url(http://img.fantrax.com/icons/progressOnStd1.gif) no-repeat; width:25px; height:25px;}
 .titleBarContainer .off {margin:8px 4px 0px 8px; float:right; background:url(http://img.fantrax.com/icons/progressOffStd1.png) no-repeat; width:24px; height:24px;}
 
@@ -48,7 +53,7 @@ background:url(http://img.fantrax.com/bg/bgMain.jpg) no-repeat center top #02132
       sgi_tile=1;
     </script>
     
-    <script type="text/javascript" src="/js/trax.jas?id=epzjfwchhdzove32"></script>
+    <script type="text/javascript" src="/js/trax.jas?id=prknehcshlj4xopj"></script>
   
 
 <script>
@@ -90,32 +95,41 @@ function tagMe(idName,tag,value) {
 	var userAgent = navigator.userAgent.toLowerCase();
 	var alertPopupDlg = null;
 	var fxOverlay = null;
+	var fading = false;
+	var imageBaseUrl = 'http://img.fantrax.com';
 
 	if ((userAgent.indexOf('firefox')!=-1) || (userAgent.indexOf('safari')!=-1) || (userAgent.indexOf('chrome')!=-1))
 		detectMacXFF=true;
 	else
 		detectMacXFF=false;
 
-	jQuery.fn.center = function () 
+	function centerElement(element) 
 	{
-	    this.css("position","absolute");
+		if (typeof(element) == 'undefined' || element == null || element.length == 0)
+			return;
+
+	    element.css("position","absolute");
 	    
 	        var topAdjustment = 165;
 	        var leftAdjustment = 60;
 	      
 	    
-	    var top = ($(window).height() - this[0].offsetHeight )  / 2+$(window).scrollTop() - topAdjustment + "px";
-	    var left = ($(window).width() - this[0].offsetWidth ) / 2+$(window).scrollLeft() - leftAdjustment + "px";
+	    var top = ($(window).height() - element[0].offsetHeight )  / 2+$(window).scrollTop() - topAdjustment + "px";
+	    var left = ($(window).width() - element[0].offsetWidth ) / 2+$(window).scrollLeft() - leftAdjustment + "px";
 	    
 	    //alert(top);
-	    this.css("top", top);
-	    this.css("left", left);
-	    this.css("z-index", "999999");
+	    element.css("top", top);
+	    element.css("left", left);
+	    element.css("z-index", "999999");
 	    
 		  fxOverlay = $('<div class="darkOverlay"></div>').prependTo('body');
 		  fxOverlay.height($(document).height());
 		
-	    return this;
+	}
+	
+	function setFading(busy)
+	{
+		fading = busy;
 	}
 
 	function alertMeFull(title, str, buttons, img, funcs, keepOpen)
@@ -140,7 +154,8 @@ function tagMe(idName,tag,value) {
 
 	function __closeAlertPopup()
 	{
-		$('#dvAlertBox').hide();
+		fading = true;
+		$('#dvAlertBox').fadeOut(340, function() {setFading(false);});
 		$(fxOverlay).remove();
 	}
 
@@ -155,8 +170,18 @@ function tagMe(idName,tag,value) {
 /**
  * This should never be called directly. The "alertMeFull()" should be called instead, which calls this.
  */
-function alertMeHelper(title, str, buttons, img, imgBaseUrl, funcs, keepOpen) 
+function alertMeHelper(tempTitle, str, buttons, img, imgBaseUrl, funcs, keepOpen) 
 {
+	var title = null;
+	if (typeof(tempTitle) != 'undefined')
+		title = tempTitle;
+
+	if (fading)
+	{
+		//$('#dvLeeor').html($('#dvLeeor').html() + "<br/>delaying: fading=" + fading);
+		setTimeout(function() {alertMeHelper(title, str, buttons, img, imgBaseUrl, funcs, keepOpen)}, 100);
+		return;
+	}
 	var alertDiv = $('#dvAlertBox'); //$(document.createElement('div'));
 	//alertDiv.id = 'dvAlertPopup';
 	if  (img.toUpperCase() == 'SUCCESS')
@@ -212,8 +237,14 @@ function alertMeHelper(title, str, buttons, img, imgBaseUrl, funcs, keepOpen)
 	$('#dvAlertBoxTitle').html(title);
 	$('#dvAlertBoxTitle').show();
 	$('#dvAlertBoxContent').show();
-	alertDiv.show();
-	alertDiv.center();
+
+	fading = true;
+	alertDiv.fadeIn(340, function() {setFading(false);});
+	centerElement(alertDiv);
+	alertDiv.draggable({
+		handle: '#dvAlertBoxTitle',
+		scroll: false
+	});
 	
 	
 
@@ -289,15 +320,15 @@ function alertPrompt(str, yesText, noText, funcs)
 	alertMeFull(null, str, yesText + '|' + noText, 'PROMPT', funcs, false);
 }
 
-	
+function alertPromptTitle(title, str, yesText, noText, funcs)
+{
+	alertMeFull(title, str, yesText + '|' + noText, 'PROMPT', funcs, false);
+}
 
 	if (userAgent.indexOf('chrome')!=-1)
 		isChrome = true;
 		
 	var numErrorsSent = 0; // Only allow 3 errors per page, to avoid mass alerts.
-		
-	var pageLoaded = false; // Gets set to true after page load function complete
-
 	function shouldSendError()
 	{
 		return true;
@@ -520,27 +551,9 @@ function alertPrompt(str, yesText, noText, funcs)
 		if (typeof onPageLoaded == 'function')
 			onPageLoaded();
 
-		//if (typeof(__enableLcButtons) == 'function')
-			//__enableLcButtons();
-
 		pageLoaded = true;
-		//if (screen.width <= 1032)
-			//changeClass("globalContainer","globalContainer");
+		fxFullPageLoaded = true;
 
-		//if (detectMacXFF) 
-		//{
-  			//if (isChrome) 
-	 			//winH = document.documentElement.scrollHeight;
-			//else
-	 			//winH = window.innerHeight;
-		//}
-		//else
-  			//winH = document.documentElement.clientHeight;
-
-		//var leftoverHeight = getHeight("topnavBlock")+getHeight("extraBlock")+getHeight("breakingnews")+getHeight("header");
-		//if (getHeight("globalContainer") < winH)
-			//setHeight("contentContainer",winH-leftoverHeight);
-			
 		var warnRepost = getQueryParam('warnRepost');
 		if (isTrue(warnRepost))
 			alertInfo('The page you are on is out of date. It could be due to a recent critical update on the system. If you\'ve just submitted data, you may need to resubmit it in order for your changes to take effect.', 'OK');
@@ -664,9 +677,17 @@ function alertPrompt(str, yesText, noText, funcs)
 	var __random_number = a;
 	function __headerSearch()
 	{
+		var searchType='-1';
 		var searchText = document.getElementById("globalSearchText").value;
 		window.location='/search.go?type=' + searchType + '&str=' + searchText;
 	}
+	
+	function __headerSearchKeyPressed(evt)
+	{
+		if (isEnterPressed(evt))
+			__headerSearch();
+	}
+
 </script>
 
 	<!-- <div class="topnavBlur"></div> -->
@@ -679,17 +700,19 @@ function alertPrompt(str, yesText, noText, funcs)
 		<td><a href="/sendFeedback.go" class="myriad" style="font-weight:bold; color:#7CFC00">SUPPORT / FEEDBACK</a></td>
 		<td><a href="/fantasy/faq.go" class="myriad">HELP/FAQ</a></td>
 		<td><a href="/allForums.go" class="myriad">FORUMS</a></td>
-		<td><a href="/showPage.go?page=newFeatures" class="myriad">NEW FEATURES</a></td>
+		
+		    <td><a href="/showPage.go?page=newFeatures" class="myriad" style="color:#ff4444">NEW FEATURES</a></td>
+		  
 		<td><div class="searchContainer curve1">
 				<div class="searchBox curve1">
 					<form target="searchFrame" id="headerSearchForm" name="headerSearchForm" onsubmit="__headerSearch()" method="post"> 
-						<input type="text" name="" id="globalSearchText" value="Search" onfocus="clearMe(this,'Search');"><a href="#" onclick="__headerSearch();"><img src="http://img.fantrax.com/graphics/searchIcon.gif" align="absmiddle" border="0" <="" a="">
+						<input type="text" name="" id="globalSearchText" value="Search" onfocus="clearMe(this,'Search');" onkeypress="__headerSearchKeyPressed(event)"><a href="#" onclick="__headerSearch();"><img src="http://img.fantrax.com/graphics/searchIcon.gif" align="absmiddle" border="0"></a>
 						<input type="hidden" class="globalSearchOption" name="globalSearchOption" value="player">
-					
+					</form>
 					<iframe src="about:blank" width="1" height="1" style="position:absolute; display:none;" name="searchFrame" border="0" frameborder="0"></iframe>
-				</a></form></div><a href="#" onclick="__headerSearch();">
-			</a></div><a href="#" onclick="__headerSearch();">
-		</a></td>
+				</div>
+			</div>
+		</td>
 		</tr>
 		</tbody></table>
 		<div class="utilityRight">
@@ -714,11 +737,11 @@ function alertPrompt(str, yesText, noText, funcs)
 						<div class="loginLeft">
 							<div class="loginDesc myriad">Enter your username and password to sign in to your Fantrax account.</div>
 							<div class="fields">
-								<div class="n myriad" title="Username" style="font-weight:bold">Username:</div>
+								<div class="n myriad" title="Username" style="font-weight:bold">Username:<br><span style="font-size:13px">(or email)</span></div>
 								<div class="v"><input tabindex="1" type="text" id="j_username" name="j_username" value="" class="tb" title="Username"></div>
 							</div>
 							<div class="fields">
-								<div class="n myriad" title="Password" style="font-weight:bold">Password:</div>
+								<div class="n myriad" title="Password" style="font-weight:bold; padding-top:6px">Password:</div>
 								<div class="v"><input tabindex="2" type="password" id="realPassword" name="j_password" value="" class="tb" onkeypress="return enterToSubmit(this.form, event);" title="Password"></div>
 							</div>
 							<div class="fieldsActions">
@@ -764,13 +787,20 @@ function loginFlyin() {
 	
 <div class="header" id="header">
 	  
-						<div class="logo "><a href="/"><img src="http://img.fantrax.com/graphics/logo.png" width="236" height="91" alt="" border="0"></a><!-- <img src="http://img.fantrax.com/icons/logo.jpg" usemap="#logo" border="0" alt="Fantrax fantasy sports "> --></div>	        
+				<div class="logo "><a href="/home.go"><img src="http://img.fantrax.com/graphics/logo.png" width="236" height="91" alt="" border="0"></a><!-- <img src="http://img.fantrax.com/icons/logo.jpg" usemap="#logo" border="0" alt="Fantrax fantasy sports "> --></div>	        
 	        
 	  <div class="topSda ">	    
 		    
-						<iframe marginwidth="0" marginheight="0" name="adFrame" id="adFrame" border="0" scrolling="no" frameborder="0" width="728" height="90" src="/ajaxAd.go?size=728X90&amp;adb=1,2"></iframe>
-						<form id="ajaxAdForm" action="/ajaxAd.go?sport=&amp;size=728X90" method="post" target="adFrame">
-						</form>
+				<script type="text/javascript"><!--
+				google_ad_client = "ca-pub-1265055087905438";
+				/* Top Banner */
+				google_ad_slot = "7331645268";
+				google_ad_width = 728;
+				google_ad_height = 90;
+				//-->
+				</script>
+				<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+				</script>
 		      
 		</div>
 	</div>
@@ -781,20 +811,15 @@ function loginFlyin() {
 			
 	</map>
 
-<script>
-
-	function __headerSearch()
-	{
-		var searchType = getCheckedValue(document.getElementsByName("globalSearchOption"));
-		var searchText = document.getElementById("globalSearchText").value;
-		window.location='/search.go?type=' + searchType + '&str=' + searchText;
-	}
-</script>
-
 	<!-- /header -->
 <div class="globalContainer globalContainerShade" id="globalContainer">
-<div id="dvAlertBox" class="alertBox2 ui-corner-all">
-  <div id="dvAlertBoxTitle" style="margin:4px; padding:6px; text-align: left" class="ui-widget ui-widget-header ui-corner-all"></div>
+
+<style>
+  
+  .ui-widget-header2 { border: 0px solid #062841; background: #062841 url(http://img.fantrax.com/ui/widgetHeader.png) 50% 50% repeat-x; color: #ffffff; font-weight: bold; }
+</style>
+<div id="dvAlertBox" class="alertBox2 ui-corner-all ridgeBorder">
+  <div id="dvAlertBoxTitle" style="margin:4px; padding:6px; text-align: left; cursor:move" class="ui-widget ui-widget-header2 ui-corner-all"></div>
   <div id="dvAlertBoxContent" style="padding:10px"></div>
 </div>
 <div id="promoBox" class="alertPromoContainer"></div>
@@ -867,15 +892,77 @@ function topnavFlyin(sport) {
 <div class="topnav" id="topnav">
 	<ul>
 	<li class="topnavItem" id="topnavItem_MyLeagues" onmouseover="topnavFlyout('MyLeagues');" onmouseout="topnavFlyin('MyLeagues');">
-	<a href="/fantasy/leagueHistory.go" title="MY LEAGUES" id="topnavItemLink_MyLeagues" class="myLeagues topnavMyriadMyLeagues curve1">MY LEAGUES</a>
+	<a href="/fantasy/leagueHistory.go" id="topnavItemLink_MyLeagues" class="myLeagues topnavMyriadMyLeagues curve1">MY LEAGUES</a>
 		<div class="topnavFlyoutContainer topnavFlyoutContainerMyLeagues" id="topnavFlyoutContainer_MyLeagues" style="display:none;">
 			<div class="topnavFlyout curve0222">
-				
-								<div class="flyoutHeader flyoutHeaderNone myriad curve0200"><p>Not Logged In</p></div>
+		        
+								<div class="flyoutHeader flyoutHeaderNone myriad curve0200"><p><a href="/login.go?loginMsgId=b" class="defaultLink">Click to log in</a></p></div>
 							
 			</div>
 		</div>
 	</li>
+	
+		<li class="topnavItem " id="topnavItem_NFL" onmouseover="topnavFlyout('NFL');" onmouseout="topnavFlyin('NFL');">
+		<a id="topnavItemLink_NFL" href="/NFL/home.go" class="topnavMyriadNFL">NFL</a>
+			<div class="topnavFlyoutContainer" id="topnavFlyoutContainer_NFL" style="display:none;">
+				<div class="topnavFlyout curve0222">
+					
+							<div class="curve3" onmouseover="this.className='curve3 on curve0200';" onmouseout="this.className='curve3';"><p><a href="/NFL/home.go" class="topnavMyriadNFL">Home</a></p></div>
+								
+							<div class="curve3" onmouseover="this.className='curve3 on ';" onmouseout="this.className='curve3';"><p><a href="/NFL/scores.go" class="topnavMyriadNFL">Scores</a></p></div>
+								
+							<div class="curve3" onmouseover="this.className='curve3 on ';" onmouseout="this.className='curve3';"><p><a href="/NFL/standings.go" class="topnavMyriadNFL">Standings</a></p></div>
+								
+							<div class="curve3" onmouseover="this.className='curve3 on ';" onmouseout="this.className='curve3';"><p><a href="/NFL/statsPlayers.go" class="topnavMyriadNFL">Stats</a></p></div>
+								
+							<div class="curve3" onmouseover="this.className='curve3 on ';" onmouseout="this.className='curve3';"><p><a href="/NFL/schedules.go" class="topnavMyriadNFL">Schedules</a></p></div>
+								
+							<div class="curve3" onmouseover="this.className='curve3 on ';" onmouseout="this.className='curve3';"><p><a href="/NFL/teams.go" class="topnavMyriadNFL">Teams</a></p></div>
+								
+							<div class="curve3" onmouseover="this.className='curve3 on ';" onmouseout="this.className='curve3';"><p><a href="/NFL/players.go" class="topnavMyriadNFL">Players</a></p></div>
+								
+							<div class="curve3" onmouseover="this.className='curve3 on ';" onmouseout="this.className='curve3';"><p><a href="/leaguePlayerNews.go?sport=NFL" class="topnavMyriadNFL">Player News</a></p></div>
+								
+							<div class="curve3" onmouseover="this.className='curve3 on ';" onmouseout="this.className='curve3';"><p><a href="/NFL/injuries.go" class="topnavMyriadNFL">Injuries</a></p></div>
+								
+							<div class="curve3" onmouseover="this.className='curve3 on ';" onmouseout="this.className='curve3';"><p><a href="/NFL/transactions.go" class="topnavMyriadNFL">Transactions</a></p></div>
+								
+							<div class="curve3" onmouseover="this.className='curve3 on ';" onmouseout="this.className='curve3';"><p><a href="/columnsHome.go?sport=NFL" class="topnavMyriadNFL">Fantasy Columns</a></p></div>
+								
+							<div class="curve3" onmouseover="this.className='curve3 on curve0022';" onmouseout="this.className='curve3';"><p><a href="/NFL/viewAllGames.go" class="topnavMyriadNFL">Fantasy Games</a></p></div>
+								
+				</div>
+			</div>
+		</li>
+	
+		<li class="topnavItem " id="topnavItem_NCAAF" onmouseover="topnavFlyout('NCAAF');" onmouseout="topnavFlyin('NCAAF');">
+		<a id="topnavItemLink_NCAAF" href="/NCAAF/home.go" class="topnavMyriadNCAAF">NCAAF</a>
+			<div class="topnavFlyoutContainer" id="topnavFlyoutContainer_NCAAF" style="display:none;">
+				<div class="topnavFlyout curve0222">
+					
+							<div class="curve3" onmouseover="this.className='curve3 on curve0200';" onmouseout="this.className='curve3';"><p><a href="/NCAAF/home.go" class="topnavMyriadNCAAF">Home</a></p></div>
+								
+							<div class="curve3" onmouseover="this.className='curve3 on ';" onmouseout="this.className='curve3';"><p><a href="/NCAAF/scores.go" class="topnavMyriadNCAAF">Scores</a></p></div>
+								
+							<div class="curve3" onmouseover="this.className='curve3 on ';" onmouseout="this.className='curve3';"><p><a href="/NCAAF/standings.go" class="topnavMyriadNCAAF">Standings</a></p></div>
+								
+							<div class="curve3" onmouseover="this.className='curve3 on ';" onmouseout="this.className='curve3';"><p><a href="/NCAAF/statsPlayers.go" class="topnavMyriadNCAAF">Stats</a></p></div>
+								
+							<div class="curve3" onmouseover="this.className='curve3 on ';" onmouseout="this.className='curve3';"><p><a href="/NCAAF/schedules.go" class="topnavMyriadNCAAF">Schedules</a></p></div>
+								
+							<div class="curve3" onmouseover="this.className='curve3 on ';" onmouseout="this.className='curve3';"><p><a href="/NCAAF/teams.go" class="topnavMyriadNCAAF">Teams</a></p></div>
+								
+							<div class="curve3" onmouseover="this.className='curve3 on ';" onmouseout="this.className='curve3';"><p><a href="/NCAAF/players.go" class="topnavMyriadNCAAF">Players</a></p></div>
+								
+							<div class="curve3" onmouseover="this.className='curve3 on ';" onmouseout="this.className='curve3';"><p><a href="/leaguePlayerNews.go?sport=NCAAF" class="topnavMyriadNCAAF">Player News</a></p></div>
+								
+							<div class="curve3" onmouseover="this.className='curve3 on ';" onmouseout="this.className='curve3';"><p><a href="/columnsHome.go?sport=NCAAF" class="topnavMyriadNCAAF">Fantasy Columns</a></p></div>
+								
+							<div class="curve3" onmouseover="this.className='curve3 on curve0022';" onmouseout="this.className='curve3';"><p><a href="/NCAAF/viewAllGames.go" class="topnavMyriadNCAAF">Fantasy Games</a></p></div>
+								
+				</div>
+			</div>
+		</li>
 	
 		<li class="topnavItem " id="topnavItem_MLB" onmouseover="topnavFlyout('MLB');" onmouseout="topnavFlyin('MLB');">
 		<a id="topnavItemLink_MLB" href="/MLB/home.go" class="topnavMyriadMLB">MLB</a>
@@ -943,58 +1030,6 @@ function topnavFlyin(sport) {
 			</div>
 		</li>
 	
-		<li class="topnavItem " id="topnavItem_NASCAR" onmouseover="topnavFlyout('NASCAR');" onmouseout="topnavFlyin('NASCAR');">
-		<a id="topnavItemLink_NASCAR" href="/NASCAR/home.go" class="topnavMyriadNASCAR">NASCAR</a>
-			<div class="topnavFlyoutContainer" id="topnavFlyoutContainer_NASCAR" style="display:none;">
-				<div class="topnavFlyout curve0222">
-					
-							<div class="curve3" onmouseover="this.className='curve3 on curve0200';" onmouseout="this.className='curve3';"><p><a href="/NASCAR/home.go" class="topnavMyriadNASCAR">Home</a></p></div>
-								
-							<div class="curve3" onmouseover="this.className='curve3 on ';" onmouseout="this.className='curve3';"><p><a href="/NASCAR/scores.go" class="topnavMyriadNASCAR">Scores</a></p></div>
-								
-							<div class="curve3" onmouseover="this.className='curve3 on ';" onmouseout="this.className='curve3';"><p><a href="/NASCAR/standings.go" class="topnavMyriadNASCAR">Standings</a></p></div>
-								
-							<div class="curve3" onmouseover="this.className='curve3 on ';" onmouseout="this.className='curve3';"><p><a href="/NASCAR/statsPlayers.go" class="topnavMyriadNASCAR">Stats</a></p></div>
-								
-							<div class="curve3" onmouseover="this.className='curve3 on ';" onmouseout="this.className='curve3';"><p><a href="/NASCAR/schedules.go" class="topnavMyriadNASCAR">Schedules</a></p></div>
-								
-							<div class="curve3" onmouseover="this.className='curve3 on ';" onmouseout="this.className='curve3';"><p><a href="/NASCAR/players.go" class="topnavMyriadNASCAR">Players</a></p></div>
-								
-							<div class="curve3" onmouseover="this.className='curve3 on ';" onmouseout="this.className='curve3';"><p><a href="/leaguePlayerNews.go?sport=NASCAR" class="topnavMyriadNASCAR">Player News</a></p></div>
-								
-							<div class="curve3" onmouseover="this.className='curve3 on ';" onmouseout="this.className='curve3';"><p><a href="/columnsHome.go?sport=NASCAR" class="topnavMyriadNASCAR">Fantasy Columns</a></p></div>
-								
-							<div class="curve3" onmouseover="this.className='curve3 on curve0022';" onmouseout="this.className='curve3';"><p><a href="/NASCAR/viewAllGames.go" class="topnavMyriadNASCAR">Fantasy Games</a></p></div>
-								
-				</div>
-			</div>
-		</li>
-	
-		<li class="topnavItem " id="topnavItem_NCAAB" onmouseover="topnavFlyout('NCAAB');" onmouseout="topnavFlyin('NCAAB');">
-		<a id="topnavItemLink_NCAAB" href="/NCAAB/home.go" class="topnavMyriadNCAAB">NCAAB</a>
-			<div class="topnavFlyoutContainer" id="topnavFlyoutContainer_NCAAB" style="display:none;">
-				<div class="topnavFlyout curve0222">
-					
-							<div class="curve3" onmouseover="this.className='curve3 on curve0200';" onmouseout="this.className='curve3';"><p><a href="/NCAAB/home.go" class="topnavMyriadNCAAB">Home</a></p></div>
-								
-							<div class="curve3" onmouseover="this.className='curve3 on ';" onmouseout="this.className='curve3';"><p><a href="/NCAAB/scores.go" class="topnavMyriadNCAAB">Scores</a></p></div>
-								
-							<div class="curve3" onmouseover="this.className='curve3 on ';" onmouseout="this.className='curve3';"><p><a href="/NCAAB/standings.go" class="topnavMyriadNCAAB">Standings</a></p></div>
-								
-							<div class="curve3" onmouseover="this.className='curve3 on ';" onmouseout="this.className='curve3';"><p><a href="/NCAAB/statsPlayers.go" class="topnavMyriadNCAAB">Stats</a></p></div>
-								
-							<div class="curve3" onmouseover="this.className='curve3 on ';" onmouseout="this.className='curve3';"><p><a href="/NCAAB/schedules.go" class="topnavMyriadNCAAB">Schedules</a></p></div>
-								
-							<div class="curve3" onmouseover="this.className='curve3 on ';" onmouseout="this.className='curve3';"><p><a href="/NCAAB/teams.go" class="topnavMyriadNCAAB">Teams</a></p></div>
-								
-							<div class="curve3" onmouseover="this.className='curve3 on ';" onmouseout="this.className='curve3';"><p><a href="/NCAAB/players.go" class="topnavMyriadNCAAB">Players</a></p></div>
-								
-							<div class="curve3" onmouseover="this.className='curve3 on curve0022';" onmouseout="this.className='curve3';"><p><a href="/NCAAB/viewAllGames.go" class="topnavMyriadNCAAB">Fantasy Games</a></p></div>
-								
-				</div>
-			</div>
-		</li>
-	
 		<li class="topnavItem " id="topnavItem_NBA" onmouseover="topnavFlyout('NBA');" onmouseout="topnavFlyin('NBA');">
 		<a id="topnavItemLink_NBA" href="/NBA/home.go" class="topnavMyriadNBA">NBA</a>
 			<div class="topnavFlyoutContainer" id="topnavFlyoutContainer_NBA" style="display:none;">
@@ -1028,6 +1063,60 @@ function topnavFlyin(sport) {
 			</div>
 		</li>
 	
+		<li class="topnavItem " id="topnavItem_NCAAB" onmouseover="topnavFlyout('NCAAB');" onmouseout="topnavFlyin('NCAAB');">
+		<a id="topnavItemLink_NCAAB" href="/NCAAB/home.go" class="topnavMyriadNCAAB">NCAAB</a>
+			<div class="topnavFlyoutContainer" id="topnavFlyoutContainer_NCAAB" style="display:none;">
+				<div class="topnavFlyout curve0222">
+					
+							<div class="curve3" onmouseover="this.className='curve3 on curve0200';" onmouseout="this.className='curve3';"><p><a href="/NCAAB/home.go" class="topnavMyriadNCAAB">Home</a></p></div>
+								
+							<div class="curve3" onmouseover="this.className='curve3 on ';" onmouseout="this.className='curve3';"><p><a href="/NCAAB/scores.go" class="topnavMyriadNCAAB">Scores</a></p></div>
+								
+							<div class="curve3" onmouseover="this.className='curve3 on ';" onmouseout="this.className='curve3';"><p><a href="/NCAAB/standings.go" class="topnavMyriadNCAAB">Standings</a></p></div>
+								
+							<div class="curve3" onmouseover="this.className='curve3 on ';" onmouseout="this.className='curve3';"><p><a href="/NCAAB/statsPlayers.go" class="topnavMyriadNCAAB">Stats</a></p></div>
+								
+							<div class="curve3" onmouseover="this.className='curve3 on ';" onmouseout="this.className='curve3';"><p><a href="/NCAAB/schedules.go" class="topnavMyriadNCAAB">Schedules</a></p></div>
+								
+							<div class="curve3" onmouseover="this.className='curve3 on ';" onmouseout="this.className='curve3';"><p><a href="/NCAAB/teams.go" class="topnavMyriadNCAAB">Teams</a></p></div>
+								
+							<div class="curve3" onmouseover="this.className='curve3 on ';" onmouseout="this.className='curve3';"><p><a href="/NCAAB/players.go" class="topnavMyriadNCAAB">Players</a></p></div>
+								
+							<div class="curve3" onmouseover="this.className='curve3 on ';" onmouseout="this.className='curve3';"><p><a href="/leaguePlayerNews.go?sport=NCAAB" class="topnavMyriadNCAAB">Player News</a></p></div>
+								
+							<div class="curve3" onmouseover="this.className='curve3 on curve0022';" onmouseout="this.className='curve3';"><p><a href="/NCAAB/viewAllGames.go" class="topnavMyriadNCAAB">Fantasy Games</a></p></div>
+								
+				</div>
+			</div>
+		</li>
+	
+		<li class="topnavItem " id="topnavItem_NASCAR" onmouseover="topnavFlyout('NASCAR');" onmouseout="topnavFlyin('NASCAR');">
+		<a id="topnavItemLink_NASCAR" href="/NASCAR/home.go" class="topnavMyriadNASCAR">NASCAR</a>
+			<div class="topnavFlyoutContainer" id="topnavFlyoutContainer_NASCAR" style="display:none;">
+				<div class="topnavFlyout curve0222">
+					
+							<div class="curve3" onmouseover="this.className='curve3 on curve0200';" onmouseout="this.className='curve3';"><p><a href="/NASCAR/home.go" class="topnavMyriadNASCAR">Home</a></p></div>
+								
+							<div class="curve3" onmouseover="this.className='curve3 on ';" onmouseout="this.className='curve3';"><p><a href="/NASCAR/scores.go" class="topnavMyriadNASCAR">Scores</a></p></div>
+								
+							<div class="curve3" onmouseover="this.className='curve3 on ';" onmouseout="this.className='curve3';"><p><a href="/NASCAR/standings.go" class="topnavMyriadNASCAR">Standings</a></p></div>
+								
+							<div class="curve3" onmouseover="this.className='curve3 on ';" onmouseout="this.className='curve3';"><p><a href="/NASCAR/statsPlayers.go" class="topnavMyriadNASCAR">Stats</a></p></div>
+								
+							<div class="curve3" onmouseover="this.className='curve3 on ';" onmouseout="this.className='curve3';"><p><a href="/NASCAR/schedules.go" class="topnavMyriadNASCAR">Schedules</a></p></div>
+								
+							<div class="curve3" onmouseover="this.className='curve3 on ';" onmouseout="this.className='curve3';"><p><a href="/NASCAR/players.go" class="topnavMyriadNASCAR">Players</a></p></div>
+								
+							<div class="curve3" onmouseover="this.className='curve3 on ';" onmouseout="this.className='curve3';"><p><a href="/leaguePlayerNews.go?sport=NASCAR" class="topnavMyriadNASCAR">Player News</a></p></div>
+								
+							<div class="curve3" onmouseover="this.className='curve3 on ';" onmouseout="this.className='curve3';"><p><a href="/columnsHome.go?sport=NASCAR" class="topnavMyriadNASCAR">Fantasy Columns</a></p></div>
+								
+							<div class="curve3" onmouseover="this.className='curve3 on curve0022';" onmouseout="this.className='curve3';"><p><a href="/NASCAR/viewAllGames.go" class="topnavMyriadNASCAR">Fantasy Games</a></p></div>
+								
+				</div>
+			</div>
+		</li>
+	
 		<li class="topnavItem " id="topnavItem_PGA" onmouseover="topnavFlyout('PGA');" onmouseout="topnavFlyin('PGA');">
 		<a id="topnavItemLink_PGA" href="/PGA/home.go" class="topnavMyriadPGA">PGA</a>
 			<div class="topnavFlyoutContainer" id="topnavFlyoutContainer_PGA" style="display:none;">
@@ -1049,68 +1138,6 @@ function topnavFlyin(sport) {
 			</div>
 		</li>
 	
-		<li class="topnavItem " id="topnavItem_NFL" onmouseover="topnavFlyout('NFL');" onmouseout="topnavFlyin('NFL');">
-		<a id="topnavItemLink_NFL" href="/NFL/home.go" class="topnavMyriadNFL">NFL</a>
-			<div class="topnavFlyoutContainer" id="topnavFlyoutContainer_NFL" style="display:none;">
-				<div class="topnavFlyout curve0222">
-					
-							<div class="curve3" onmouseover="this.className='curve3 on curve0200';" onmouseout="this.className='curve3';"><p><a href="/NFL/home.go" class="topnavMyriadNFL">Home</a></p></div>
-								
-							<div class="curve3" onmouseover="this.className='curve3 on ';" onmouseout="this.className='curve3';"><p><a href="/NFL/scores.go" class="topnavMyriadNFL">Scores</a></p></div>
-								
-							<div class="curve3" onmouseover="this.className='curve3 on ';" onmouseout="this.className='curve3';"><p><a href="/NFL/standings.go" class="topnavMyriadNFL">Standings</a></p></div>
-								
-							<div class="curve3" onmouseover="this.className='curve3 on ';" onmouseout="this.className='curve3';"><p><a href="/NFL/statsPlayers.go" class="topnavMyriadNFL">Stats</a></p></div>
-								
-							<div class="curve3" onmouseover="this.className='curve3 on ';" onmouseout="this.className='curve3';"><p><a href="/NFL/schedules.go" class="topnavMyriadNFL">Schedules</a></p></div>
-								
-							<div class="curve3" onmouseover="this.className='curve3 on ';" onmouseout="this.className='curve3';"><p><a href="/NFL/teams.go" class="topnavMyriadNFL">Teams</a></p></div>
-								
-							<div class="curve3" onmouseover="this.className='curve3 on ';" onmouseout="this.className='curve3';"><p><a href="/NFL/players.go" class="topnavMyriadNFL">Players</a></p></div>
-								
-							<div class="curve3" onmouseover="this.className='curve3 on ';" onmouseout="this.className='curve3';"><p><a href="/leaguePlayerNews.go?sport=NFL" class="topnavMyriadNFL">Player News</a></p></div>
-								
-							<div class="curve3" onmouseover="this.className='curve3 on ';" onmouseout="this.className='curve3';"><p><a href="/NFL/injuries.go" class="topnavMyriadNFL">Injuries</a></p></div>
-								
-							<div class="curve3" onmouseover="this.className='curve3 on ';" onmouseout="this.className='curve3';"><p><a href="/NFL/transactions.go" class="topnavMyriadNFL">Transactions</a></p></div>
-								
-							<div class="curve3" onmouseover="this.className='curve3 on ';" onmouseout="this.className='curve3';"><p><a href="/columnsHome.go?sport=NFL" class="topnavMyriadNFL">Fantasy Columns</a></p></div>
-								
-							<div class="curve3" onmouseover="this.className='curve3 on curve0022';" onmouseout="this.className='curve3';"><p><a href="/NFL/viewAllGames.go" class="topnavMyriadNFL">Fantasy Games</a></p></div>
-								
-				</div>
-			</div>
-		</li>
-	
-		<li class="topnavItem " id="topnavItem_NCAAF" onmouseover="topnavFlyout('NCAAF');" onmouseout="topnavFlyin('NCAAF');">
-		<a id="topnavItemLink_NCAAF" href="/NCAAF/home.go" class="topnavMyriadNCAAF">NCAAF</a>
-			<div class="topnavFlyoutContainer" id="topnavFlyoutContainer_NCAAF" style="display:none;">
-				<div class="topnavFlyout curve0222">
-					
-							<div class="curve3" onmouseover="this.className='curve3 on curve0200';" onmouseout="this.className='curve3';"><p><a href="/NCAAF/home.go" class="topnavMyriadNCAAF">Home</a></p></div>
-								
-							<div class="curve3" onmouseover="this.className='curve3 on ';" onmouseout="this.className='curve3';"><p><a href="/NCAAF/scores.go" class="topnavMyriadNCAAF">Scores</a></p></div>
-								
-							<div class="curve3" onmouseover="this.className='curve3 on ';" onmouseout="this.className='curve3';"><p><a href="/NCAAF/standings.go" class="topnavMyriadNCAAF">Standings</a></p></div>
-								
-							<div class="curve3" onmouseover="this.className='curve3 on ';" onmouseout="this.className='curve3';"><p><a href="/NCAAF/statsPlayers.go" class="topnavMyriadNCAAF">Stats</a></p></div>
-								
-							<div class="curve3" onmouseover="this.className='curve3 on ';" onmouseout="this.className='curve3';"><p><a href="/NCAAF/schedules.go" class="topnavMyriadNCAAF">Schedules</a></p></div>
-								
-							<div class="curve3" onmouseover="this.className='curve3 on ';" onmouseout="this.className='curve3';"><p><a href="/NCAAF/teams.go" class="topnavMyriadNCAAF">Teams</a></p></div>
-								
-							<div class="curve3" onmouseover="this.className='curve3 on ';" onmouseout="this.className='curve3';"><p><a href="/NCAAF/players.go" class="topnavMyriadNCAAF">Players</a></p></div>
-								
-							<div class="curve3" onmouseover="this.className='curve3 on ';" onmouseout="this.className='curve3';"><p><a href="/leaguePlayerNews.go?sport=NCAAF" class="topnavMyriadNCAAF">Player News</a></p></div>
-								
-							<div class="curve3" onmouseover="this.className='curve3 on ';" onmouseout="this.className='curve3';"><p><a href="/columnsHome.go?sport=NCAAF" class="topnavMyriadNCAAF">Fantasy Columns</a></p></div>
-								
-							<div class="curve3" onmouseover="this.className='curve3 on curve0022';" onmouseout="this.className='curve3';"><p><a href="/NCAAF/viewAllGames.go" class="topnavMyriadNCAAF">Fantasy Games</a></p></div>
-								
-				</div>
-			</div>
-		</li>
-	
 		<li class="topnavItem " id="topnavItem_CFL" onmouseover="topnavFlyout('CFL');" onmouseout="topnavFlyin('CFL');">
 		<a id="topnavItemLink_CFL" class="topnavMyriadCFL">CFL</a>
 			<div class="topnavFlyoutContainer" id="topnavFlyoutContainer_CFL" style="display:none;">
@@ -1125,120 +1152,122 @@ function topnavFlyin(sport) {
 		  <li class="topnavItem " id="topnavItem_SOCCER" onmouseover="topnavFlyout('SOCCER');" onmouseout="topnavFlyin('SOCCER');">
 		  <a id="topnavItemLink_SOCCER" class="topnavMyriad">SOCCER</a>
 			<div class="topnavFlyoutContainer" id="topnavFlyoutContainer_SOCCER" style="display:none;">
-				<div class="topnavFlyout curve2022" style="height:168px; width:660px;margin-left:-573px;">
+				<div class="topnavFlyout curve2022" style="height:195px; width:660px;margin-left:-573px;">
 		      <ul style="z-index:2; margin:0px; padding:0px; position:absolute;" id="subSOCCER">
 	               
 	                 <li style="width:110px; clear:none !important; float:left !important;">
-										<div class="curve3 topnavMyriad" style="padding-left:13px;;"><b>Premier League</b><p></p></div>
-	                 	<div>
-												
-													<div class="curve3" onmouseover="this.className='curve3 on '" onmouseout="this.className='curve3'"><p><a href="/EPL/scores.go" class="topnavMyriad">Scores</a></p></div>
-												
-													<div class="curve3" onmouseover="this.className='curve3 on '" onmouseout="this.className='curve3'"><p><a href="/EPL/standings.go" class="topnavMyriad">Standings</a></p></div>
-												
-													<div class="curve3" onmouseover="this.className='curve3 on '" onmouseout="this.className='curve3'"><p><a href="/EPL/statsPlayers.go" class="topnavMyriad">Stats</a></p></div>
-												
-													<div class="curve3" onmouseover="this.className='curve3 on '" onmouseout="this.className='curve3'"><p><a href="/EPL/schedules.go" class="topnavMyriad">Schedules</a></p></div>
-												
-													<div class="curve3" onmouseover="this.className='curve3 on '" onmouseout="this.className='curve3'"><p><a href="/EPL/players.go" class="topnavMyriad">Players</a></p></div>
-												
-													<div class="curve3" onmouseover="this.className='curve3 on curve0002'" onmouseout="this.className='curve3'"><p><a href="/EPL/viewAllGames.go" class="topnavMyriad">Fantasy Games</a></p></div>
-												
+										<div class="curve3 topnavMyriad" style="padding-left:13px;;"><b>Premier League</b></div>
+	                 					<div>
+											
+												<div class="curve3" onmouseover="this.className='curve3 on '" onmouseout="this.className='curve3'"><p><a href="/EPL/scores.go" class="topnavMyriad">Scores</a></p></div>
+											
+												<div class="curve3" onmouseover="this.className='curve3 on '" onmouseout="this.className='curve3'"><p><a href="/EPL/standings.go" class="topnavMyriad">Standings</a></p></div>
+											
+												<div class="curve3" onmouseover="this.className='curve3 on '" onmouseout="this.className='curve3'"><p><a href="/EPL/statsPlayers.go" class="topnavMyriad">Stats</a></p></div>
+											
+												<div class="curve3" onmouseover="this.className='curve3 on '" onmouseout="this.className='curve3'"><p><a href="/EPL/schedules.go" class="topnavMyriad">Schedules</a></p></div>
+											
+												<div class="curve3" onmouseover="this.className='curve3 on '" onmouseout="this.className='curve3'"><p><a href="/EPL/players.go" class="topnavMyriad">Players</a></p></div>
+											
+												<div class="curve3" onmouseover="this.className='curve3 on '" onmouseout="this.className='curve3'"><p><a href="/leaguePlayerNews.go?sport=EPL" class="topnavMyriad">Player News</a></p></div>
+											
+												<div class="curve3" onmouseover="this.className='curve3 on curve0002'" onmouseout="this.className='curve3'"><p><a href="/EPL/viewAllGames.go" class="topnavMyriad">Fantasy Games</a></p></div>
+											
 										</div>
 								  </li>
 	               
 	                 <li style="width:110px; clear:none !important; float:left !important;">
-										<div class="curve3 topnavMyriad" style="padding-left:13px;;"><b>Bundesliga</b><p></p></div>
-	                 	<div>
-												
-													<div class="curve3" onmouseover="this.className='curve3 on '" onmouseout="this.className='curve3'"><p><a href="/BUND/scores.go" class="topnavMyriad">Scores</a></p></div>
-												
-													<div class="curve3" onmouseover="this.className='curve3 on '" onmouseout="this.className='curve3'"><p><a href="/BUND/standings.go" class="topnavMyriad">Standings</a></p></div>
-												
-													<div class="curve3" onmouseover="this.className='curve3 on '" onmouseout="this.className='curve3'"><p><a href="/BUND/statsPlayers.go" class="topnavMyriad">Stats</a></p></div>
-												
-													<div class="curve3" onmouseover="this.className='curve3 on '" onmouseout="this.className='curve3'"><p><a href="/BUND/schedules.go" class="topnavMyriad">Schedules</a></p></div>
-												
-													<div class="curve3" onmouseover="this.className='curve3 on '" onmouseout="this.className='curve3'"><p><a href="/BUND/players.go" class="topnavMyriad">Players</a></p></div>
-												
-													<div class="curve3" onmouseover="this.className='curve3 on '" onmouseout="this.className='curve3'"><p><a href="/BUND/viewAllGames.go" class="topnavMyriad">Fantasy Games</a></p></div>
-												
+										<div class="curve3 topnavMyriad" style="padding-left:13px;;"><b>Bundesliga</b></div>
+	                 					<div>
+											
+												<div class="curve3" onmouseover="this.className='curve3 on '" onmouseout="this.className='curve3'"><p><a href="/BUND/scores.go" class="topnavMyriad">Scores</a></p></div>
+											
+												<div class="curve3" onmouseover="this.className='curve3 on '" onmouseout="this.className='curve3'"><p><a href="/BUND/standings.go" class="topnavMyriad">Standings</a></p></div>
+											
+												<div class="curve3" onmouseover="this.className='curve3 on '" onmouseout="this.className='curve3'"><p><a href="/BUND/statsPlayers.go" class="topnavMyriad">Stats</a></p></div>
+											
+												<div class="curve3" onmouseover="this.className='curve3 on '" onmouseout="this.className='curve3'"><p><a href="/BUND/schedules.go" class="topnavMyriad">Schedules</a></p></div>
+											
+												<div class="curve3" onmouseover="this.className='curve3 on '" onmouseout="this.className='curve3'"><p><a href="/BUND/players.go" class="topnavMyriad">Players</a></p></div>
+											
+												<div class="curve3" onmouseover="this.className='curve3 on '" onmouseout="this.className='curve3'"><p><a href="/BUND/viewAllGames.go" class="topnavMyriad">Fantasy Games</a></p></div>
+											
 										</div>
 								  </li>
 	               
 	                 <li style="width:110px; clear:none !important; float:left !important;">
-										<div class="curve3 topnavMyriad" style="padding-left:13px;;"><b>La Liga</b><p></p></div>
-	                 	<div>
-												
-													<div class="curve3" onmouseover="this.className='curve3 on '" onmouseout="this.className='curve3'"><p><a href="/LIGA/scores.go" class="topnavMyriad">Scores</a></p></div>
-												
-													<div class="curve3" onmouseover="this.className='curve3 on '" onmouseout="this.className='curve3'"><p><a href="/LIGA/standings.go" class="topnavMyriad">Standings</a></p></div>
-												
-													<div class="curve3" onmouseover="this.className='curve3 on '" onmouseout="this.className='curve3'"><p><a href="/LIGA/statsPlayers.go" class="topnavMyriad">Stats</a></p></div>
-												
-													<div class="curve3" onmouseover="this.className='curve3 on '" onmouseout="this.className='curve3'"><p><a href="/LIGA/schedules.go" class="topnavMyriad">Schedules</a></p></div>
-												
-													<div class="curve3" onmouseover="this.className='curve3 on '" onmouseout="this.className='curve3'"><p><a href="/LIGA/players.go" class="topnavMyriad">Players</a></p></div>
-												
-													<div class="curve3" onmouseover="this.className='curve3 on '" onmouseout="this.className='curve3'"><p><a href="/LIGA/viewAllGames.go" class="topnavMyriad">Fantasy Games</a></p></div>
-												
+										<div class="curve3 topnavMyriad" style="padding-left:13px;;"><b>La Liga</b></div>
+	                 					<div>
+											
+												<div class="curve3" onmouseover="this.className='curve3 on '" onmouseout="this.className='curve3'"><p><a href="/LIGA/scores.go" class="topnavMyriad">Scores</a></p></div>
+											
+												<div class="curve3" onmouseover="this.className='curve3 on '" onmouseout="this.className='curve3'"><p><a href="/LIGA/standings.go" class="topnavMyriad">Standings</a></p></div>
+											
+												<div class="curve3" onmouseover="this.className='curve3 on '" onmouseout="this.className='curve3'"><p><a href="/LIGA/statsPlayers.go" class="topnavMyriad">Stats</a></p></div>
+											
+												<div class="curve3" onmouseover="this.className='curve3 on '" onmouseout="this.className='curve3'"><p><a href="/LIGA/schedules.go" class="topnavMyriad">Schedules</a></p></div>
+											
+												<div class="curve3" onmouseover="this.className='curve3 on '" onmouseout="this.className='curve3'"><p><a href="/LIGA/players.go" class="topnavMyriad">Players</a></p></div>
+											
+												<div class="curve3" onmouseover="this.className='curve3 on '" onmouseout="this.className='curve3'"><p><a href="/LIGA/viewAllGames.go" class="topnavMyriad">Fantasy Games</a></p></div>
+											
 										</div>
 								  </li>
 	               
 	                 <li style="width:110px; clear:none !important; float:left !important;">
-										<div class="curve3 topnavMyriad" style="padding-left:13px;;"><b>Serie A</b><p></p></div>
-	                 	<div>
-												
-													<div class="curve3" onmouseover="this.className='curve3 on '" onmouseout="this.className='curve3'"><p><a href="/ITA/scores.go" class="topnavMyriad">Scores</a></p></div>
-												
-													<div class="curve3" onmouseover="this.className='curve3 on '" onmouseout="this.className='curve3'"><p><a href="/ITA/standings.go" class="topnavMyriad">Standings</a></p></div>
-												
-													<div class="curve3" onmouseover="this.className='curve3 on '" onmouseout="this.className='curve3'"><p><a href="/ITA/statsPlayers.go" class="topnavMyriad">Stats</a></p></div>
-												
-													<div class="curve3" onmouseover="this.className='curve3 on '" onmouseout="this.className='curve3'"><p><a href="/ITA/schedules.go" class="topnavMyriad">Schedules</a></p></div>
-												
-													<div class="curve3" onmouseover="this.className='curve3 on '" onmouseout="this.className='curve3'"><p><a href="/ITA/players.go" class="topnavMyriad">Players</a></p></div>
-												
-													<div class="curve3" onmouseover="this.className='curve3 on '" onmouseout="this.className='curve3'"><p><a href="/ITA/viewAllGames.go" class="topnavMyriad">Fantasy Games</a></p></div>
-												
+										<div class="curve3 topnavMyriad" style="padding-left:13px;;"><b>Serie A</b></div>
+	                 					<div>
+											
+												<div class="curve3" onmouseover="this.className='curve3 on '" onmouseout="this.className='curve3'"><p><a href="/ITA/scores.go" class="topnavMyriad">Scores</a></p></div>
+											
+												<div class="curve3" onmouseover="this.className='curve3 on '" onmouseout="this.className='curve3'"><p><a href="/ITA/standings.go" class="topnavMyriad">Standings</a></p></div>
+											
+												<div class="curve3" onmouseover="this.className='curve3 on '" onmouseout="this.className='curve3'"><p><a href="/ITA/statsPlayers.go" class="topnavMyriad">Stats</a></p></div>
+											
+												<div class="curve3" onmouseover="this.className='curve3 on '" onmouseout="this.className='curve3'"><p><a href="/ITA/schedules.go" class="topnavMyriad">Schedules</a></p></div>
+											
+												<div class="curve3" onmouseover="this.className='curve3 on '" onmouseout="this.className='curve3'"><p><a href="/ITA/players.go" class="topnavMyriad">Players</a></p></div>
+											
+												<div class="curve3" onmouseover="this.className='curve3 on '" onmouseout="this.className='curve3'"><p><a href="/ITA/viewAllGames.go" class="topnavMyriad">Fantasy Games</a></p></div>
+											
 										</div>
 								  </li>
 	               
 	                 <li style="width:110px; clear:none !important; float:left !important;">
-										<div class="curve3 topnavMyriad" style="padding-left:13px;;"><b>Ligue 1</b><p></p></div>
-	                 	<div>
-												
-													<div class="curve3" onmouseover="this.className='curve3 on '" onmouseout="this.className='curve3'"><p><a href="/LIG1/scores.go" class="topnavMyriad">Scores</a></p></div>
-												
-													<div class="curve3" onmouseover="this.className='curve3 on '" onmouseout="this.className='curve3'"><p><a href="/LIG1/standings.go" class="topnavMyriad">Standings</a></p></div>
-												
-													<div class="curve3" onmouseover="this.className='curve3 on '" onmouseout="this.className='curve3'"><p><a href="/LIG1/statsPlayers.go" class="topnavMyriad">Stats</a></p></div>
-												
-													<div class="curve3" onmouseover="this.className='curve3 on '" onmouseout="this.className='curve3'"><p><a href="/LIG1/schedules.go" class="topnavMyriad">Schedules</a></p></div>
-												
-													<div class="curve3" onmouseover="this.className='curve3 on '" onmouseout="this.className='curve3'"><p><a href="/LIG1/players.go" class="topnavMyriad">Players</a></p></div>
-												
-													<div class="curve3" onmouseover="this.className='curve3 on '" onmouseout="this.className='curve3'"><p><a href="/LIG1/viewAllGames.go" class="topnavMyriad">Fantasy Games</a></p></div>
-												
+										<div class="curve3 topnavMyriad" style="padding-left:13px;;"><b>Ligue 1</b></div>
+	                 					<div>
+											
+												<div class="curve3" onmouseover="this.className='curve3 on '" onmouseout="this.className='curve3'"><p><a href="/LIG1/scores.go" class="topnavMyriad">Scores</a></p></div>
+											
+												<div class="curve3" onmouseover="this.className='curve3 on '" onmouseout="this.className='curve3'"><p><a href="/LIG1/standings.go" class="topnavMyriad">Standings</a></p></div>
+											
+												<div class="curve3" onmouseover="this.className='curve3 on '" onmouseout="this.className='curve3'"><p><a href="/LIG1/statsPlayers.go" class="topnavMyriad">Stats</a></p></div>
+											
+												<div class="curve3" onmouseover="this.className='curve3 on '" onmouseout="this.className='curve3'"><p><a href="/LIG1/schedules.go" class="topnavMyriad">Schedules</a></p></div>
+											
+												<div class="curve3" onmouseover="this.className='curve3 on '" onmouseout="this.className='curve3'"><p><a href="/LIG1/players.go" class="topnavMyriad">Players</a></p></div>
+											
+												<div class="curve3" onmouseover="this.className='curve3 on '" onmouseout="this.className='curve3'"><p><a href="/LIG1/viewAllGames.go" class="topnavMyriad">Fantasy Games</a></p></div>
+											
 										</div>
 								  </li>
 	               
 	                 <li style="width:110px; clear:none !important; float:left !important;">
-										<div class="curve3 topnavMyriad" style="padding-left:13px;;"><b>MLS</b><p></p></div>
-	                 	<div>
-												
-													<div class="curve3" onmouseover="this.className='curve3 on '" onmouseout="this.className='curve3'"><p><a href="/MLS/scores.go" class="topnavMyriad">Scores</a></p></div>
-												
-													<div class="curve3" onmouseover="this.className='curve3 on '" onmouseout="this.className='curve3'"><p><a href="/MLS/standings.go" class="topnavMyriad">Standings</a></p></div>
-												
-													<div class="curve3" onmouseover="this.className='curve3 on '" onmouseout="this.className='curve3'"><p><a href="/MLS/statsPlayers.go" class="topnavMyriad">Stats</a></p></div>
-												
-													<div class="curve3" onmouseover="this.className='curve3 on '" onmouseout="this.className='curve3'"><p><a href="/MLS/schedules.go" class="topnavMyriad">Schedules</a></p></div>
-												
-													<div class="curve3" onmouseover="this.className='curve3 on '" onmouseout="this.className='curve3'"><p><a href="/MLS/players.go" class="topnavMyriad">Players</a></p></div>
-												
-													<div class="curve3" onmouseover="this.className='curve3 on curve0020'" onmouseout="this.className='curve3'"><p><a href="/MLS/viewAllGames.go" class="topnavMyriad">Fantasy Games</a></p></div>
-												
+										<div class="curve3 topnavMyriad" style="padding-left:13px;;"><b>MLS</b></div>
+	                 					<div>
+											
+												<div class="curve3" onmouseover="this.className='curve3 on '" onmouseout="this.className='curve3'"><p><a href="/MLS/scores.go" class="topnavMyriad">Scores</a></p></div>
+											
+												<div class="curve3" onmouseover="this.className='curve3 on '" onmouseout="this.className='curve3'"><p><a href="/MLS/standings.go" class="topnavMyriad">Standings</a></p></div>
+											
+												<div class="curve3" onmouseover="this.className='curve3 on '" onmouseout="this.className='curve3'"><p><a href="/MLS/statsPlayers.go" class="topnavMyriad">Stats</a></p></div>
+											
+												<div class="curve3" onmouseover="this.className='curve3 on '" onmouseout="this.className='curve3'"><p><a href="/MLS/schedules.go" class="topnavMyriad">Schedules</a></p></div>
+											
+												<div class="curve3" onmouseover="this.className='curve3 on '" onmouseout="this.className='curve3'"><p><a href="/MLS/players.go" class="topnavMyriad">Players</a></p></div>
+											
+												<div class="curve3" onmouseover="this.className='curve3 on curve0020'" onmouseout="this.className='curve3'"><p><a href="/MLS/viewAllGames.go" class="topnavMyriad">Fantasy Games</a></p></div>
+											
 										</div>
 								  </li>
 	               
@@ -1265,6 +1294,8 @@ function topnavFlyin(sport) {
 	
 		
 	<div class="main clearfix">
+		
+			<div class="fantasyMainContainer">
 		
 
 <div class="mainContainer">
@@ -1346,6 +1377,14 @@ function topnavFlyin(sport) {
 
 
 
+	<div style="width:100%; text-align:center; padding-top:12px; clear:both; ">
+	  <iframe marginwidth="0" marginheight="0" name="adFrame" id="adFrame" scrolling="no" frameborder="0" width="728" height="90" src="/ajaxAd.go?size=728X90&amp;adb=1,2"></iframe>
+	</div>
+		
+
+			</div>
+		
+
 
 <div class="rightContainer">
 	<div class="rightNavContainer">
@@ -1412,41 +1451,35 @@ function rightOut(t,cName) {
 							
 				</li>
 		  
-				  <li id="ico_62" class="rightMenuItem rFlyout ico_62" onmouseover="showRightFlyout(this,'rightMenuItem rFlyout ico_62');rightOver(this,'rightMenuItem rFlyout ico_62',true);" onmouseout="hideRightFlyout(this,'rightMenuItem rFlyout ico_62');rightOut(this,'rightMenuItem rFlyout ico_62');">
-					<div class="rItemHeader">Create League</div>
+				  <li id="ico_62" class="rightMenuItem  ico_62" onmouseover="showRightFlyout(this,'rightMenuItem  ico_62');rightOver(this,'rightMenuItem  ico_62',true);" onmouseout="hideRightFlyout(this,'rightMenuItem  ico_62');rightOut(this,'rightMenuItem  ico_62');">
+					<div class="rItemHeader"><img src="http://img.fantrax.com/graphics/rightFlyoutArrow.png">&nbsp;Create League</div>
 						<div class="rItemFlyout curve2022">
 <ul>
-<li id="flyoutMenuItem_5_1" onmouseover="this.className='curve2000 flyoutFirst rFlyOn'" onmouseout="this.className='curve2000 flyoutFirst'" class="curve2000 flyoutFirst"><a class="myriadRight" href="/fantasy/createLeagueStart.go?x=y&amp;gameId=605">March Madness Bracket (FREE)</a></li>
-<li id="flyoutMenuItem_5_2" onmouseover="this.className=' rFlyOn'" onmouseout="this.className=''" class=""><a class="myriadRight" href="/fantasy/createLeagueStart.go?x=y&amp;gameId=604">March Madness Commissioner (FREE)</a></li>
-<li id="flyoutMenuItem_5_3" onmouseover="this.className=' rFlyOn'" onmouseout="this.className=''" class=""><a class="myriadRight" href="/fantasy/createLeagueStart.go?x=y&amp;gameId=700">NASCAR Commissioner (FREE)</a></li>
-<li id="flyoutMenuItem_5_4" onmouseover="this.className=' rFlyOn'" onmouseout="this.className=''" class=""><a class="myriadRight" href="/fantasy/createLeagueStart.go?x=y&amp;gameId=200">MLB Commissioner (FREE)</a></li>
-<li id="flyoutMenuItem_5_5" onmouseover="this.className=' rFlyOn'" onmouseout="this.className=''" class=""><a class="myriadRight" href="/fantasy/createLeagueStart.go?x=y&amp;gameId=800">PGA Commissioner (FREE)</a></li>
-<li id="flyoutMenuItem_5_6" onmouseover="this.className=' rFlyOn'" onmouseout="this.className=''" class=""><a class="myriadRight" href="/fantasy/createLeagueStart.go?x=y&amp;gameId=400">NHL Commissioner (FREE)</a></li>
-<li id="flyoutMenuItem_5_7" onmouseover="this.className=' rFlyOn'" onmouseout="this.className=''" class=""><a class="myriadRight" href="/fantasy/createLeagueStart.go?x=y&amp;gameId=300">NBA Commissioner (FREE)</a></li>
-<li id="flyoutMenuItem_5_8" onmouseover="this.className=' rFlyOn'" onmouseout="this.className=''" class=""><a class="myriadRight" href="/fantasy/createLeagueStart.go?x=y&amp;gameId=104">NFL Playoff Commissioner</a></li>
-<li id="flyoutMenuItem_5_9" onmouseover="this.className=' rFlyOn'" onmouseout="this.className=''" class=""><a class="myriadRight" href="/fantasy/createLeagueStart.go?x=y&amp;gameId=100">NFL Commissioner (FREE)</a></li>
-<li id="flyoutMenuItem_5_10" onmouseover="this.className=' rFlyOn'" onmouseout="this.className=''" class=""><a class="myriadRight" href="/fantasy/createLeagueStart.go?x=y&amp;gameId=600">NCAAB Commissioner (FREE)</a></li>
-<li id="flyoutMenuItem_5_11" onmouseover="this.className=' rFlyOn'" onmouseout="this.className=''" class=""><a class="myriadRight" href="/fantasy/createLeagueStart.go?x=y&amp;gameId=500">NCAAF Commissioner (FREE)</a></li>
-<li id="flyoutMenuItem_5_12" onmouseover="this.className=' rFlyOn'" onmouseout="this.className=''" class=""><a class="myriadRight" href="/fantasy/createLeagueStart.go?x=y&amp;gameId=900">Premier League Commissioner (FREE) (Beta)</a></li>
-<li id="flyoutMenuItem_5_13" onmouseover="this.className=' rFlyOn'" onmouseout="this.className=''" class=""><a class="myriadRight" href="/fantasy/createLeagueStart.go?x=y&amp;gameId=1600">Bundesliga Commissioner (FREE) (Beta)</a></li>
-<li id="flyoutMenuItem_5_14" onmouseover="this.className=' rFlyOn'" onmouseout="this.className=''" class=""><a class="myriadRight" href="/fantasy/createLeagueStart.go?x=y&amp;gameId=1700">La Liga Commissioner (FREE) (Beta)</a></li>
-<li id="flyoutMenuItem_5_15" onmouseover="this.className=' rFlyOn'" onmouseout="this.className=''" class=""><a class="myriadRight" href="/fantasy/createLeagueStart.go?x=y&amp;gameId=1200">Serie A Commissioner (FREE) (Beta)</a></li>
-<li id="flyoutMenuItem_5_16" onmouseover="this.className=' rFlyOn'" onmouseout="this.className=''" class=""><a class="myriadRight" href="/fantasy/createLeagueStart.go?x=y&amp;gameId=1300">Ligue 1 Commissioner (FREE) (Beta)</a></li>
-<li id="flyoutMenuItem_5_17" onmouseover="this.className=' rFlyOn'" onmouseout="this.className=''" class="flyoutLast curve0022"><a class="myriadRight" href="/fantasy/createLeagueStart.go?x=y&amp;gameId=1800">MLS Commissioner (FREE) (Beta)</a></li>
+<li style="white-space:nowrap" id="flyoutMenuItem_5_1" onmouseover="this.className='curve2000 flyoutFirst rFlyOn'" onmouseout="this.className='curve2000 flyoutFirst'" class="curve2000 flyoutFirst" onclick="goHere('/fantasy/createLeagueStart.go?x=y&amp;gameId=800')"><a class="myriadRight">PGA Commissioner (FREE)</a></li>
+<li style="white-space:nowrap" id="flyoutMenuItem_5_2" onmouseover="this.className=' rFlyOn'" onmouseout="this.className=''" class="" onclick="goHere('/fantasy/createLeagueStart.go?x=y&amp;gameId=300')"><a class="myriadRight">NBA Commissioner (FREE)</a></li>
+<li style="white-space:nowrap" id="flyoutMenuItem_5_3" onmouseover="this.className=' rFlyOn'" onmouseout="this.className=''" class="" onclick="goHere('/fantasy/createLeagueStart.go?x=y&amp;gameId=600')"><a class="myriadRight">NCAAB Commissioner (FREE)</a></li>
+<li style="white-space:nowrap" id="flyoutMenuItem_5_4" onmouseover="this.className=' rFlyOn'" onmouseout="this.className=''" class="" onclick="goHere('/fantasy/createLeagueStart.go?x=y&amp;gameId=400')"><a class="myriadRight">NHL Commissioner (FREE)</a></li>
+<li style="white-space:nowrap" id="flyoutMenuItem_5_5" onmouseover="this.className=' rFlyOn'" onmouseout="this.className=''" class="" onclick="goHere('/fantasy/createLeagueStart.go?x=y&amp;gameId=204')"><a class="myriadRight">MLB Playoff Commissioner</a></li>
+<li style="white-space:nowrap" id="flyoutMenuItem_5_6" onmouseover="this.className=' rFlyOn'" onmouseout="this.className=''" class="" onclick="goHere('/fantasy/createLeagueStart.go?x=y&amp;gameId=100')"><a class="myriadRight">NFL Commissioner (FREE)</a></li>
+<li style="white-space:nowrap" id="flyoutMenuItem_5_7" onmouseover="this.className=' rFlyOn'" onmouseout="this.className=''" class="" onclick="goHere('/fantasy/createLeagueStart.go?x=y&amp;gameId=500')"><a class="myriadRight">NCAAF Commissioner (FREE)</a></li>
+<li style="white-space:nowrap" id="flyoutMenuItem_5_8" onmouseover="this.className=' rFlyOn'" onmouseout="this.className=''" class="" onclick="goHere('/fantasy/createLeagueStart.go?x=y&amp;gameId=200')"><a class="myriadRight">MLB Commissioner (FREE)</a></li>
+<li style="white-space:nowrap" id="flyoutMenuItem_5_9" onmouseover="this.className=' rFlyOn'" onmouseout="this.className=''" class="" onclick="goHere('/fantasy/createLeagueStart.go?x=y&amp;gameId=900')"><a class="myriadRight">Premier League Commissioner (FREE) (Beta)</a></li>
+<li style="white-space:nowrap" id="flyoutMenuItem_5_10" onmouseover="this.className=' rFlyOn'" onmouseout="this.className=''" class="" onclick="goHere('/fantasy/createLeagueStart.go?x=y&amp;gameId=700')"><a class="myriadRight">NASCAR Commissioner (FREE)</a></li>
+<li style="white-space:nowrap" id="flyoutMenuItem_5_11" onmouseover="this.className=' rFlyOn'" onmouseout="this.className=''" class="flyoutLast curve0022" onclick="goHere('/fantasy/createLeagueStart.go?x=y&amp;gameId=1800')"><a class="myriadRight">MLS Commissioner (FREE) (Beta)</a></li>
 </ul>
 </div>
-<script>tagMe('flyoutMenuItem_5_17','className','flyoutLast curve0022');</script>
+<script>tagMe('flyoutMenuItem_5_11','className','flyoutLast curve0022');</script>
 	
 				</li>
 		  
-				  <li id="ico_65" class="rightMenuItem rFlyout ico_65" onmouseover="showRightFlyout(this,'rightMenuItem rFlyout ico_65');rightOver(this,'rightMenuItem rFlyout ico_65',true);" onmouseout="hideRightFlyout(this,'rightMenuItem rFlyout ico_65');rightOut(this,'rightMenuItem rFlyout ico_65');">
-					<div class="rItemHeader">Join League (FREE!)</div>
+				  <li id="ico_65" class="rightMenuItem  ico_65" onmouseover="showRightFlyout(this,'rightMenuItem  ico_65');rightOver(this,'rightMenuItem  ico_65',true);" onmouseout="hideRightFlyout(this,'rightMenuItem  ico_65');rightOut(this,'rightMenuItem  ico_65');">
+					<div class="rItemHeader"><img src="http://img.fantrax.com/graphics/rightFlyoutArrow.png">&nbsp;Join League (FREE!)</div>
 						<div class="rItemFlyout curve2022">
 <ul>
-<li id="flyoutMenuItem_6_1" onmouseover="this.className='curve2000 flyoutFirst rFlyOn'" onmouseout="this.className='curve2000 flyoutFirst'" class="curve2000 flyoutFirst"><a class="myriadRight" href="/viewAllGames.go">$$ Money Leagues $$</a></li>
-<li id="flyoutMenuItem_6_2" onmouseover="this.className=' rFlyOn'" onmouseout="this.className=''" class=""><a class="myriadRight" href="/mockDraftLobby.go">Mock Drafts</a></li>
-<li id="flyoutMenuItem_6_3" onmouseover="this.className=' rFlyOn'" onmouseout="this.className=''" class=""><a class="myriadRight" href="/publicLeagues.go">Published</a></li>
-<li id="flyoutMenuItem_6_4" onmouseover="this.className=' rFlyOn'" onmouseout="this.className=''" class="flyoutLast curve0022"><a class="myriadRight" href="/fantasy/joinLeague.go">Private</a></li>
+<li style="white-space:nowrap" id="flyoutMenuItem_6_1" onmouseover="this.className='curve2000 flyoutFirst rFlyOn'" onmouseout="this.className='curve2000 flyoutFirst'" class="curve2000 flyoutFirst" onclick="goHere('/viewAllGames.go')"><a class="myriadRight">$$ Money Leagues $$</a></li>
+<li style="white-space:nowrap" id="flyoutMenuItem_6_2" onmouseover="this.className=' rFlyOn'" onmouseout="this.className=''" class="" onclick="goHere('/mockDraftLobby.go')"><a class="myriadRight">Mock Drafts</a></li>
+<li style="white-space:nowrap" id="flyoutMenuItem_6_3" onmouseover="this.className=' rFlyOn'" onmouseout="this.className=''" class="" onclick="goHere('/publicLeagues.go')"><a class="myriadRight">Listed Commissioner League</a></li>
+<li style="white-space:nowrap" id="flyoutMenuItem_6_4" onmouseover="this.className=' rFlyOn'" onmouseout="this.className=''" class="flyoutLast curve0022" onclick="goHere('/fantasy/joinLeague.go')"><a class="myriadRight">Private Commissioner League</a></li>
 </ul>
 </div>
 <script>tagMe('flyoutMenuItem_6_4','className','flyoutLast curve0022');</script>
@@ -1461,16 +1494,15 @@ function rightOut(t,cName) {
 		<div class="adContainer curve1">
 
 
-
-		<script type="text/javascript"><!--
+		  <script type="text/javascript"><!--
 			google_ad_client = "ca-pub-1265055087905438";
 			/* Right Vertical - Top */
 			google_ad_slot = "1948101739";
 			google_ad_width = 160;
 			google_ad_height = 600;
 			//-->
-		</script>
-		<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js"></script>
+		  </script>
+		  <script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js"></script>
 		
 		<div style="height:8px"></div>
 
@@ -1486,12 +1518,15 @@ function rightOut(t,cName) {
 </div>
 	
 
-	</div>	
-	
+	</div>
 	</div>
 </div>
 
 
+<style>
+  
+  .footerContainer2 {min-width:1008px; max-width:100%;background:url(http://img.fantrax.com/graphics/footerBG.jpg) repeat-x; height:241px;}
+</style>
 <script>
 	function __showComingSoonOpp()
 	{
@@ -1509,7 +1544,7 @@ function rightOut(t,cName) {
   </div>
 
 
-<div class="footerContainer">
+<div class="footerContainer2">
 	<div class="footer">
 		<div class="footerLinks">
 		    <a href="/showPage.go?page=aboutUs">About Us</a> |
@@ -1522,18 +1557,18 @@ function rightOut(t,cName) {
 	    </div>
 		
 			
-		</div>
-		<div class="footerCopy">
-		<p class="copyright">Copyright © 2013, 
-			
-					Fantrax &nbsp; &nbsp; &nbsp; &nbsp;  
-				Fri Mar 08 21:32:38 EST 2013<br>
-		  Your free and premium fantasy sports commissioner and games service<br><br>
-			Some Content Provided by Rotoworld.<br>
-		<br>Part of the USA Today Sports Media Group
-		</p></div>
 	</div>
-
+	<div class="footerCopy">
+	  <p class="copyright">Copyright © 2013,
+		
+				Fantrax &nbsp; &nbsp; &nbsp; &nbsp;
+			Thu Oct 31, 3:47 AM EDT<br>
+	    Your free and premium fantasy sports commissioner and games service<br><br>
+		  Some Content Provided by Rotoworld.<br>
+		<br>Part of the USA Today Sports Media Group
+	  </p>
+	</div>
+</div>
 
 
 <!-- Google Analytics -->
@@ -1548,11 +1583,26 @@ if (typeof(_gat) == 'object')
 	pageTracker._trackPageview(utmp);
 }
 </script>
+<div id="dvCssBeacon"></div>
 
 
 
 <script>
-	//var fileLoadChecker = setInterval("__checkFileLoadCompletion('__doPageLoadSiteLayout()')", 300);
-</script>
-	
-</body></html>
+var beaconFunc = function()
+{
+	if (fxFullPageLoaded || fxCssLoaded || document.getElementById('dvCssBeacon').clientWidth == 6) 
+	{
+		fxCssLoaded = true;
+		//alert(commonJsFinished);
+		if (fxFullPageLoaded || (typeof(commonJsFinished) != 'undefined' && commonJsFinished == true))
+		{
+    		window.clearInterval(handle);
+    		if (typeof(onFxPageLoaded) == 'function')
+    			onFxPageLoaded();
+
+    		fxPageLoadedDone = true;
+		}
+	}
+};
+var handle = window.setInterval(beaconFunc, 200);
+</script></body></html>
