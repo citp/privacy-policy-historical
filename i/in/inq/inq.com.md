@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the inq.com privacy policy that was archived on 2013-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130630105705id_/http%3A//www.touchcommerce.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inq.com privacy policy that was archived on 2013-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131031014607id_/http%3A//www.touchcommerce.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy
 
@@ -6,7 +6,7 @@
 
 **Last updated: 2013-04-17**
 
-TouchCommerce has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program does not cover information that may be collected through downloadable software. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at [here](https://web.archive.org/web/20130630105705id_/http%3A//www.touchcommerce.com/support@touchcommerce.com). If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint).
+TouchCommerce has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program does not cover information that may be collected through downloadable software. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at [here](https://web.archive.org/web/20131031014607id_/http%3A//www.touchcommerce.com/support@touchcommerce.com). If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint).
 
 TouchCommerce complies with the U.S. – E.U. Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use and retention of personal data from the European Union member countries. TouchCommerce has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view TouchCommerce’s certification, please visit <http://www.export.gov/safeharbor/>.
 
@@ -72,15 +72,15 @@ We use a third-party tracking service that uses images, scripts and other tracki
 
 ### 5\. Security
 
-The security of your personal information is important to us. When you enter sensitive information (such as a credit card number) on our order forms, we encrypt the transmission of that information using secure socket layer technology (SSL). We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security. If you have any questions about security on our Web site, you can contact us at [here.](https://web.archive.org/web/20130630105705id_/http%3A//www.touchcommerce.com/support@touchcommerce.com)
+The security of your personal information is important to us. When you enter sensitive information (such as a credit card number) on our order forms, we encrypt the transmission of that information using secure socket layer technology (SSL). We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security. If you have any questions about security on our Web site, you can contact us at [here.](https://web.archive.org/web/20131031014607id_/http%3A//www.touchcommerce.com/support@touchcommerce.com)
 
 ### 6\. Testimonials
 
-We post customer testimonials/comments/reviews on our web site which may contain personally identifiable information. We do obtain the customer's consent via email prior to posting the testimonial to post their name along with their testimonial. If you wish to update or delete your testimonial, you can contact us at [here.](https://web.archive.org/web/20130630105705id_/http%3A//www.touchcommerce.com/support@touchcommerce.com)
+We post customer testimonials/comments/reviews on our web site which may contain personally identifiable information. We do obtain the customer's consent via email prior to posting the testimonial to post their name along with their testimonial. If you wish to update or delete your testimonial, you can contact us at [here.](https://web.archive.org/web/20131031014607id_/http%3A//www.touchcommerce.com/support@touchcommerce.com)
 
 ### 7.Blogs
 
-Our Web site offers publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your personal information from our blog or community forum, contact us at [here](https://web.archive.org/web/20130630105705id_/http%3A//www.touchcommerce.com/support@touchcommerce.com). In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why. 
+Our Web site offers publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your personal information from our blog or community forum, contact us at [here](https://web.archive.org/web/20131031014607id_/http%3A//www.touchcommerce.com/support@touchcommerce.com). In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why. 
 
 ### 8\. Social Media Widgets
 
@@ -88,15 +88,15 @@ Our Web site includes Social Media Features, such as the Facebook button and Wid
 
 ### 9\. Accessing Web Account Information
 
-If your personally identifiable information changes, or if you no longer desire our service, you may correct, update, amend, delete/remove or deactivate it by making the change on our member information page or by emailing our Customer Support at [here](https://web.archive.org/web/20130630105705id_/http%3A//www.touchcommerce.com/support@touchcommerce.com) or by contacting us by telephone or postal mail at the contact information listed below. 
+If your personally identifiable information changes, or if you no longer desire our service, you may correct, update, amend, delete/remove or deactivate it by making the change on our member information page or by emailing our Customer Support at [here](https://web.archive.org/web/20131031014607id_/http%3A//www.touchcommerce.com/support@touchcommerce.com) or by contacting us by telephone or postal mail at the contact information listed below. 
 
 We will respond to your request to access within 2 weeks
 
-If you wish to subscribe to our newsletter(s), we will use your name and email address to send the newsletter to you. Out of respect for your privacy, you may choose to stop receiving our newsletter or marketing emails by following the unsubscribe instructions included in these emails, accessing the email preferences in your account settings page or you can contact us at [here](https://web.archive.org/web/20130630105705id_/http%3A//www.touchcommerce.com/support@touchcommerce.com).
+If you wish to subscribe to our newsletter(s), we will use your name and email address to send the newsletter to you. Out of respect for your privacy, you may choose to stop receiving our newsletter or marketing emails by following the unsubscribe instructions included in these emails, accessing the email preferences in your account settings page or you can contact us at [here](https://web.archive.org/web/20131031014607id_/http%3A//www.touchcommerce.com/support@touchcommerce.com).
 
 ### 10\. Data Retention
 
-We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us [here](https://web.archive.org/web/20130630105705id_/http%3A//www.touchcommerce.com/support@touchcommerce.com). We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements 
+We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us [here](https://web.archive.org/web/20131031014607id_/http%3A//www.touchcommerce.com/support@touchcommerce.com). We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements 
 
 ### 11\. Information collected for our Clients through our Service
 
