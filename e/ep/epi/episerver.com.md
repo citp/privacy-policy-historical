@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the episerver.com privacy policy that was archived on 2013-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130615020219id_/http%3A//episerver.com/Footer/Privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the episerver.com privacy policy that was archived on 2013-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131031170729id_/http%3A//www.episerver.com/Footer/Privacy-statement) for the most accurate reproduction.*
 
-# Privacy statement - EPiServer Enterprise .NET CMS and Commerce
+# Privacy statement - EPiServer Enterprise .NET CMS | E-Commerce...
 
 EPiServer AB is committed to protecting your integrity. This privacy statement describes how data is collected and used on the website www.episerver.com.
 
