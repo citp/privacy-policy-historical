@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the animeonhand.com privacy policy that was archived on 2013-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130613113312id_/http%3A//www.animeonhand.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the animeonhand.com privacy policy that was archived on 2013-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131031191513id_/http%3A//www.animeonhand.com/info/privacy) for the most accurate reproduction.*
 
 # Watch Mobile Anime on iPhone, iPad, iPod, & Android Devices | AnimeOnHand
 
