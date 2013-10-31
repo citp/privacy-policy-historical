@@ -1,8 +1,17 @@
-> *The following text is extracted and transformed from the action8cricket.com privacy policy that was archived on 2013-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130630044742id_/http%3A//www.action8cricket.com/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the action8cricket.com privacy policy that was archived on 2013-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131031151105id_/http%3A//action8cricket.com/privacy_policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
-|  |   
+|   
+  
+### Action 8 Cricket
+
+The sport of cricket attracts plenty of eyeballs across the world and is particularly popular in the Asian sub-continent, home to more than one fifth of the world's population. Cricket's marquee tournament, the World Cup, is only next to the Football World Cup and the Summer Olympics in terms of viewers across the world. We at Action8cricket.com love the game as much as you do and we've tried our best to make this site a one stop resource for live cricket scores and cricket news.   
+---  
+  
+Get all the updates with latest fixtures and cricket scores online..  
+  
+|   
   
   
 Watch Live Cricket, their owners and subsidiaries abide by the privacy policy outlined below..
@@ -32,14 +41,14 @@ If anybody feels that Watch Live Cricket is not adhering to its privacy policy i
 ---  
 | Recent Cricket Matches  
 ---  
-| [Tuesday, Jul 09 2013](https://web.archive.org/web/20130630044742id_/http%3A//www.action8cricket.com/cricketshowdate-09_jul_2013.htm)  
+| [Sunday, Nov 10 2013](https://web.archive.org/web/20131031151105id_/http%3A//action8cricket.com/cricketshowdate-10_nov_2013.htm)  
 ---  
-[Sunday, Jul 07 2013](https://web.archive.org/web/20130630044742id_/http%3A//www.action8cricket.com/cricketshowdate-07_jul_2013.htm)  
-[Friday, Jul 05 2013](https://web.archive.org/web/20130630044742id_/http%3A//www.action8cricket.com/cricketshowdate-05_jul_2013.htm)  
-[Thursday, Jul 04 2013](https://web.archive.org/web/20130630044742id_/http%3A//www.action8cricket.com/cricketshowdate-04_jul_2013.htm)  
-[Tuesday, Jul 02 2013](https://web.archive.org/web/20130630044742id_/http%3A//www.action8cricket.com/cricketshowdate-02_jul_2013.htm)  
-[Sunday, Jun 30 2013](https://web.archive.org/web/20130630044742id_/http%3A//www.action8cricket.com/cricketshowdate-30_jun_2013.htm)  
-[Friday, Jun 28 2013](https://web.archive.org/web/20130630044742id_/http%3A//www.action8cricket.com/cricketshowdate-28_jun_2013.htm)  
-[Thursday, Jun 27 2013](https://web.archive.org/web/20130630044742id_/http%3A//www.action8cricket.com/cricketshowdate-27_jun_2013.htm)  
-[Tuesday, Jun 25 2013](https://web.archive.org/web/20130630044742id_/http%3A//www.action8cricket.com/cricketshowdate-25_jun_2013.htm)  
-[Sunday, Jun 23 2013](https://web.archive.org/web/20130630044742id_/http%3A//www.action8cricket.com/cricketshowdate-23_jun_2013.htm)
+[Friday, Nov 08 2013](https://web.archive.org/web/20131031151105id_/http%3A//action8cricket.com/cricketshowdate-08_nov_2013.htm)  
+[Wednesday, Nov 06 2013](https://web.archive.org/web/20131031151105id_/http%3A//action8cricket.com/cricketshowdate-06_nov_2013.htm)  
+[Sunday, Nov 03 2013](https://web.archive.org/web/20131031151105id_/http%3A//action8cricket.com/cricketshowdate-03_nov_2013.htm)  
+[Saturday, Nov 02 2013](https://web.archive.org/web/20131031151105id_/http%3A//action8cricket.com/cricketshowdate-02_nov_2013.htm)  
+[Friday, Nov 01 2013](https://web.archive.org/web/20131031151105id_/http%3A//action8cricket.com/cricketshowdate-01_nov_2013.htm)  
+[Thursday, Oct 31 2013](https://web.archive.org/web/20131031151105id_/http%3A//action8cricket.com/cricketshowdate-31_oct_2013.htm)  
+[Wednesday, Oct 30 2013](https://web.archive.org/web/20131031151105id_/http%3A//action8cricket.com/cricketshowdate-30_oct_2013.htm)  
+[Tuesday, Oct 29 2013](https://web.archive.org/web/20131031151105id_/http%3A//action8cricket.com/cricketshowdate-29_oct_2013.htm)  
+[Saturday, Oct 26 2013](https://web.archive.org/web/20131031151105id_/http%3A//action8cricket.com/cricketshowdate-26_oct_2013.htm)
