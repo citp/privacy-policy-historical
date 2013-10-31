@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hollywoodgames.net privacy policy that was archived on 2013-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130517231244id_/http%3A//www.hollywoodgames.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hollywoodgames.net privacy policy that was archived on 2013-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131031183335id_/http%3A//www.hollywoodgames.net/privacy-policy) for the most accurate reproduction.*
 
 # PRIVACY POLICY - Hollywood celebrity Girls Games
 
