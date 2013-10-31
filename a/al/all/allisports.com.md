@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the allisports.com privacy policy that was archived on 2013-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130531170153id_/http%3A//www.allisports.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allisports.com privacy policy that was archived on 2013-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131031233413id_/http%3A//www.allisports.com/privacy) for the most accurate reproduction.*
 
-# PRIVACY POLICY AND YOUR CALIFORNIA PRIVACY RIGHTS | Alli Sports Action Sports
+# PRIVACY POLICY AND YOUR CALIFORNIA PRIVACY RIGHTS | Lucas Oil Pro Motocross
 
 **This is the privacy policy (“ _Privacy Policy_ ”) for allisports.com (" _Site_ ," " _we_ ," " _us_ ," or " _our_ "), an Internet website** **provided by ALLI, Alliance of Action Sports, LLC (f/k/a Action Sports Tour, LLC) (“ _ALLI_ ”)**. ** **   
 
