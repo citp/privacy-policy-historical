@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the breakingnews.ie privacy policy that was archived on 2012-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121213121639id_/http%3A//www.breakingnews.ie/info/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the breakingnews.ie privacy policy that was archived on 2013-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131031185235id_/http%3A//www.breakingnews.ie/info/privacypolicy) for the most accurate reproduction.*
 
-# Privacy Policy | BreakingNews.ie
+# Confidentiality and Privacy Policy | BreakingNews.ie
 
 **Updated 07/04/11**
 
@@ -12,20 +12,20 @@ Please review this statement periodically as we will amend and update it from ti
 
 Please note that the Site may contain links to other websites. For example, if you click on a banner or advertisement on the site and link to another website, then this privacy policy will not apply to any information collected on that website. We recommend that you read the privacy policies of each website that you visit.
 
-We endeavour to comply with the guidelines laid out by Irelandâ€™s Data Commissioner in the collection, protection and distribution of data we may collect about you on our website. You should be aware of your rights and your right to contact us;
+We endeavour to comply with the guidelines laid out by Ireland's Data Commissioner in the collection, protection and distribution of data we may collect about you on our website. You should be aware of your rights and your right to contact us;
 
-Data Protection Officer,  
-BreakingNews.ie,  
-City Quarter,  
-Lapps Quay,  
-Cork.  
-helpdesk@tch.ie
+Data Protection Officer,   
+BreakingNews.ie,   
+City Quarter,   
+Lapps Quay,   
+Cork.   
+helpdesk@landmarkdigital.ie
 
 By using our website you consent to our online/website privacy policy.
 
 **Children under the age of 13**
 
-BreakingNews.ie is not directed at users under the age of 13. We do not to the best of our knowledge collect information from or relating to children under the age of 13. If we discover that we have collected personal information from a child below the age of 13 without verifiable parental consent we will delete that information as quickly as possible. If you believe we might have any information from or about a child under 13, please contact us at helpdesk@tch.ie.
+BreakingNews.ie is not directed at users under the age of 13. We do not to the best of our knowledge collect information from or relating to children under the age of 13. If we discover that we have collected personal information from a child below the age of 13 without verifiable parental consent we will delete that information as quickly as possible. If you believe we might have any information from or about a child under 13, please contact us at helpdesk@landmarkdigital.ie
 
 **What information do we collect?**
 
@@ -33,7 +33,7 @@ You are not required to provide information directly to us in order to view the 
 
 When you register to advertise on our site, you may be asked to enter your name, postal address, email address, phone number, business name and/or photographs. We store this information to present it to our users and you enter this information voluntarily. In entering this information you expressly agree to have it listed online.
 
-If you share or comment on an article you do this via IntenseDebate.com - click here to view the [commenting terms and conditions](http://breakingnews.ie/info/commentterms.aspx). 
+If you share or comment on an article you do this via Disqus.com - click here to view the commenting house rules.
 
 We may also keep a record of any contact you have with us.
 
@@ -59,13 +59,13 @@ Your information, whether public or private will not be sold, exchanged, transfe
 
 **Information you post**
 
-Any personal information which you volunteer in your public profile either through IntenseDebate.com or which you post as a comment will be available worldwide to anyone with access to the website. 
+Any personal information which you volunteer in your public profile either through IntenseDebate.com or which you post as a comment will be available worldwide to anyone with access to the website.
 
-Please do not post any information you are not happy to leave up indefinitely. Please do not post any offensive or discriminatory information (click here to view the commenting terms and conditions. http://breakingnews.ie/info/commentterms.aspx) We recommend you do not post your name, address, telephone number, email address or anything else that may lead someone to identify you if this is something you would not wish to have publicly accessible.
+Please do not post any information you are not happy to leave up indefinitely. Please do not post any offensive or discriminatory information (commenting house rules.) We recommend you do not post your name, address, telephone number, email address or anything else that may lead someone to identify you if this is something you would not wish to have publicly accessible.
 
 Please note that certain information (such as photographs) which you may choose to provide might reveal your gender, ethnic origin, nationality, religion and/or sexual orientation.
 
-You are free (if you wish) to choose a username via IntenseDebate.com which does not reflect your real name. However please be aware that we cannot guarantee that others will not be able to determine your identity.
+You are free (if you wish) to choose a username via Disqus.com which does not reflect your real name. However please be aware that we cannot guarantee that others will not be able to determine your identity.
 
 **Site Security**
 
@@ -87,4 +87,4 @@ If you access us via a mobile browser or our App we may identify the location of
 
 **Who is BreakingNews.ie?**
 
-We are owned by Thomas Crosbie Holdings, you can find further information about them and us on www.tch.ie.
+We are owned by Landmark Digital, you can find further information about them and us on www.landmarkdigital.ie
