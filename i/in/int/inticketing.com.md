@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the inticketing.com privacy policy that was archived on 2012-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121010085356id_/http%3A//www.inticketing.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inticketing.com privacy policy that was archived on 2013-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131031051621id_/http%3A//www.inticketing.com/privacy.php) for the most accurate reproduction.*
 
 # Your privacy
 
