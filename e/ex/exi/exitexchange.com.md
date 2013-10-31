@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the exitexchange.com privacy policy that was archived on 2013-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130425074258id_/http%3A//www.exitexchange.com/company/terms/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the exitexchange.com privacy policy that was archived on 2013-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131031172237id_/http%3A//www.exitexchange.com/company/terms/privacy.php) for the most accurate reproduction.*
 
 # Exit Exchange: Free, Targeted, Pop-Under Advertising
 
-[Terms of Use](https://web.archive.org/web/20130425074258id_/http%3A//www.exitexchange.com/company/terms/terms.php) | Privacy | [Copyright](https://web.archive.org/web/20130425074258id_/http%3A//www.exitexchange.com/company/terms/copyright.php) | [Affiliate Agreement](https://web.archive.org/web/20130425074258id_/http%3A//www.exitexchange.com/company/terms/terms_affiliate.php) | [Quality Acceptance](https://web.archive.org/web/20130425074258id_/http%3A//www.exitexchange.com/company/terms/acceptance.php)
+[Terms of Use](https://web.archive.org/web/20131031172237id_/http%3A//www.exitexchange.com/company/terms/terms.php) | Privacy | [Copyright](https://web.archive.org/web/20131031172237id_/http%3A//www.exitexchange.com/company/terms/copyright.php) | [Affiliate Agreement](https://web.archive.org/web/20131031172237id_/http%3A//www.exitexchange.com/company/terms/terms_affiliate.php) | [Quality Acceptance](https://web.archive.org/web/20131031172237id_/http%3A//www.exitexchange.com/company/terms/acceptance.php)
 
 Web pages rely on advertising to provide you with content that is free of charge or at a nominal cost. Advertising also plays an important role in helping consumers make informed decisions about products and services. 
 
