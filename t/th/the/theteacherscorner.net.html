@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the theteacherscorner.net privacy policy that was archived on 2013-06-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130602043420id_/http%3A//www.theteacherscorner.net/privacypolicy.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the theteacherscorner.net privacy policy that was archived on 2013-10-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131031083506id_/http%3A//www.theteacherscorner.net/privacypolicy.htm) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
 <title>Privacy Policy</title>
@@ -7,11 +7,24 @@
 <meta name="Keywords" content="back to school, projects, lesson plans, activities, teacher resources, back to school activities">
 <meta charset="UTF-8">
 <link rel="shortcut icon" href="http://www.theteacherscorner.net/favicon.ico" type="image/x-icon">
-<link rel="stylesheet" href="http://www.theteacherscorner.net/includes/ttc.css?ver=back" type="text/css">
-<script type="text/javascript" async="" src="http://assets.pinterest.com/js/pinit.js"></script><script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script type="text/javascript" async="" src="http://platform.twitter.com/widgets.js"></script><script type="text/javascript" async="" src="//api.viglink.com/api/vglnk.js"></script><script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
+<link rel="stylesheet" href="http://www.theteacherscorner.net/includes/ttc.css?ver=comp2" type="text/css">
+<!--[if lte IE 7]>
+<link rel="stylesheet" href="http://www.theteacherscorner.net/includes/ttc_ie7.css?ver=complete" type="text/css">
+<![endif]-->
+<script type="text/javascript" async="" src="http://assets.pinterest.com/js/pinit.js"></script><script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script type="text/javascript" async="" src="http://platform.twitter.com/widgets.js"></script><script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
 function docwriteemail(linktext, subject) {var dom="gmail";var ext=".com";var name="theteacherscorner.net";var atsign="@";if(subject!="") {var subj="?subject="+subject;}else{var subj="";}
 var str=name+atsign+dom+ext+subj;
 document.write("<a href='mailto:"+str+"'>"+linktext+"<\/a>"); }
+window.onload = function() {
+	if(screen.width <= '1111') {
+document.getElementById('pagelinks').style.zIndex = '0';
+}
+}
+window.onresize=function(){
+	if(screen.width <= '1111') {
+document.getElementById('pagelinks').style.zIndex = '0';	
+}
+}
 </script>
 <script type="text/javascript">
   var _gaq = _gaq || [];
@@ -24,21 +37,7 @@ document.write("<a href='mailto:"+str+"'>"+linktext+"<\/a>"); }
     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
   })();
 </script>
-<link href="https://plus.google.com/104022892749699022418/" rel="publisher"><!--Hotchalk lightbox-->        
-<script type="text/javascript" src="http://partner.googleadservices.com/gampad/google_service.js">
-</script>
-<script type="text/javascript">
-GS_googleAddAdSenseService("ca-pub-5197455941898387");
-GS_googleEnableAllServices();
-</script>
-<script type="text/javascript">
-GA_googleAddSlot("ca-pub-5197455941898387", "TheTeachersCorner-DLB");
-</script>
-<script type="text/javascript">
-GA_googleFetchAds();
-</script>
-<!--/Hotchalk lightbox-->
-
+<link href="https://plus.google.com/104022892749699022418/" rel="publisher"><script async="" src="http://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 
 <style type="text/css">
 <!--
@@ -48,47 +47,9 @@ GA_googleFetchAds();
 </head>
 <body>
 <div style="max-width:1100px;margin-left:auto;margin-right:auto;">
+<div id="wrap" style="width:955px;box-shadow:0 0 30px #666633;margin:0 auto;border:1px solid black;">
 <script type="text/javascript">
 google_analytics_domain_name=".theteacherscorner.net";
-//doesn't block the load event
-function createIframe(){
-  /* Remove the top ad
-  var top = document.createElement("iframe");
-  top.src = "http://www.theteacherscorner.net/includes/aLead.php";
-  top.scrolling = "no";
-  top.style.border = "0px";
-  top.width = "728px";
-  top.height = "90px";
-  top.style.overflow = "hidden";
-  document.getElementById("top_position").appendChild(top);*/
-	if ( document.getElementById("right_column") != null) {
-	  var right = document.createElement("iframe");
-	  right.src = "http://www.theteacherscorner.net/includes/aSky.php";
-	  right.scrolling = "no";
-	  right.style.border = "0px";
-	  right.width = "160px";
-	  right.height = "600px";
-	  right.style.overflow = "hidden";
-	  document.getElementById("right_column").appendChild(right);
-	}
-	if ( document.getElementById("box_middle") != null) {
-	  var box = document.createElement("iframe");
-	  box.src = "http://www.theteacherscorner.net/includes/aBox.php";
-	  box.scrolling = "no";
-	  box.style.border = "0px";
-	  box.width = "300px";
-	  box.height = "250px";
-	  box.style.overflow = "hidden";
-	  document.getElementById("box_middle").appendChild(box);
-	} 
-  
-};
-// Check for browser support of event handling capability
-if (window.addEventListener)
-window.addEventListener("load", createIframe, false);
-else if (window.attachEvent)
-window.attachEvent("onload", createIframe);
-else window.onload = createIframe;
 </script>
 <div id="fb-root"></div>
 <script>(function(d, s, id) {
@@ -109,172 +70,149 @@ else window.onload = createIframe;
   })();
 </script>
 <noscript>
-  <img src="http://b.scorecardresearch.com/p?c1=2&amp;c2=6034644&amp;cv=2.0&amp;cj=1" alt="scorecard" />
+  <img src="http://b.scorecardresearch.com/p?c1=2&amp;c2=6034644&amp;cv=2.0&amp;cj=1" alt="scorecard">
 </noscript>
 <!-- End comScore Tag -->
-<div id="width_container">
-<div id="header">
-<div id="remove_cache" style="display:none"></div>
-				<div id="tops">
-                <div id="top_position"><div id="azk63469"></div></div>
-				</div>	
-				<a href="http://www.theteacherscorner.net"><img src="http://static.theteacherscorner.net/images/ttcsmall.gif" alt="The Teacher's Corner" width="334" height="82" id="ttc"><img src="http://static.theteacherscorner.net/images/header/flower.png" alt="Lesson plans, seasonal activities and worksheets" width="135" height="145" id="spring"><img src="http://static.theteacherscorner.net/images/header/chair_small.jpg" alt="Teacher's Corner header image" width="100" height="193" id="header_left_image"></a>
-                
-<div id="header_bar_cap"><span class="sprites" id="chalk_png"></span></div>
-				<div id="header_bar">
-<form action="http://www.theteacherscorner.net/search_results.php" id="cse-search-box">
-  <div>
-    <input type="hidden" name="cx" value="partner-pub-6353310788608549:8qgxnkq6yvi">
-    <input type="hidden" name="cof" value="FORID:10">
-    <input type="hidden" name="ie" value="ISO-8859-1">
-    <input type="text" name="q" size="54">
-    <input type="submit" name="sa" value="Search">
-  </div>
-</form>
-
 <script type="text/javascript" src="http://www.google.com/coop/cse/brand?form=cse-search-box&amp;lang=en"></script>
-                </div>	
-				<ul id="menu">
-					<li id="panel1" onmouseover="MM_showHideLayers('lessonplans','','show');" onmouseout="MM_showHideLayers('lessonplans','','hide');"><a href="http://lesson-plans.theteacherscorner.net/"></a></li>			
-					<li id="panel2" onmouseover="MM_showHideLayers('thematicunits','','show');" onmouseout="MM_showHideLayers('thematicunits','','hide');"><a href="http://thematicunits.theteacherscorner.net/"></a></li>
-					<li id="panel3" onmouseover="MM_showHideLayers('seasonalitems','','show');" onmouseout="MM_showHideLayers('seasonalitems','','hide');"><a href="http://seasonal.theteacherscorner.net/"></a></li>
-					<li id="panel4" onmouseover="MM_showHideLayers('bulletinboards','','show');" onmouseout="MM_showHideLayers('bulletinboards','','hide');"><a href="http://bulletinboards.theteacherscorner.net/"></a></li>
-					<li id="panel5" onmouseover="MM_showHideLayers('teacherresources','','show');" onmouseout="MM_showHideLayers('teacherresources','','hide');"><a href="http://www.theteacherscorner.net/teacher-resources/"></a></li>
-					<li id="panel6" onmouseover="MM_showHideLayers('printableworksheets','','show');" onmouseout="MM_showHideLayers('printableworksheets','','hide');"><a href="http://worksheets.theteacherscorner.net/"></a></li>
-                    <li id="panel7"><a href="http://www.theteacherscorner.net/collaboration-projects/"></a></li>
-					<li id="panel8" onmouseover="MM_showHideLayers('teacherslounge','','show');" onmouseout="MM_showHideLayers('teacherslounge','','hide');"><a href="http://www.theteacherscorner.net/lounge/"></a></li>
-					<li id="panel9"><a href="http://books.theteacherscorner.net/" rel="nofollow"></a></li>
-					<li id="panel10"><a href="http://www.theteacherscorner.net/teacher-resources/teaching-jobs.php"></a></li>
-					<li id="panel11"><a href="http://forums.theteacherscorner.net/forum.php"></a></li>
-				</ul> 
-                 				<div id="lessonplans" onmouseover="MM_showHideLayers('lessonplans','','show');" onmouseout="MM_showHideLayers('lessonplans','','hide');">
-					<ul class="submenu">
-					  <li><a href="http://lesson-plans.theteacherscorner.net/art/">Arts &amp; Crafts Lessons</a></li>
-						<li><a href="http://lesson-plans.theteacherscorner.net/health/">Health &amp; Nutrition Lessons</a></li>
-						<li><a href="http://lesson-plans.theteacherscorner.net/math/">Math Lesson Plans</a></li>
-						<li><a href="http://lesson-plans.theteacherscorner.net/music/">Music Lesson Plans</a></li>
-						<li><a href="http://lesson-plans.theteacherscorner.net/pe/">Physical Education Lessons</a></li>
-						<li><a href="http://lesson-plans.theteacherscorner.net/reading/">Reading Lesson Plans</a></li>
-						<li><a href="http://lesson-plans.theteacherscorner.net/science/">Science Lesson Plans</a></li>
-						<li><a href="http://lesson-plans.theteacherscorner.net/socialstudies/">Social Studies Lessons</a></li>
-						<li><a href="http://lesson-plans.theteacherscorner.net/technology/">Technology Lesson Plans</a></li>
-						<li><a href="http://lesson-plans.theteacherscorner.net/writing/">Writing Lesson Plans</a></li>
-					</ul>
-				</div>
-               
-    <div id="thematicunits" onmouseover="MM_showHideLayers('thematicunits','','show');" onmouseout="MM_showHideLayers('thematicunits','','hide');">
-                  <ul class="submenu">
-                    <li><a href="http://lesson-plans.theteacherscorner.net/writing/poetry/">Poetry</a></li>                    
-                  </ul>
-  </div>
-<div id="seasonalitems" onmouseover="MM_showHideLayers('seasonalitems','','show');" onmouseout="MM_showHideLayers('seasonalitems','','hide');">
-				  <ul class="submenu">
-                 	<li onmouseover="MM_showHideLayers('seasonalactivities','','show');" onmouseout="MM_showHideLayers('seasonalactivities','','hide');"><a href="http://www.theteacherscorner.net/calendars/june.php">
-               	    June 
-               	    Events</a></li>
-                  	<li><a href="http://www.theteacherscorner.net/calendars/july.php">July Events</a></li>
-                  	<li onmouseover="MM_showHideLayers('dailywritingprompts','','show');" onmouseout="MM_showHideLayers('dailywritingprompts','','hide');"><a href="http://www.theteacherscorner.net/daily-writing-prompts/">Daily Writing Prompts</a></li>
-					<li><a href="http://worksheets.theteacherscorner.net/seasonal/">Journal &amp; Coloring Pages</a></li>
-					<li onmouseover="MM_showHideLayers('monthlyresources','','show');" onmouseout="MM_showHideLayers('monthlyresources','','hide');"><a href="http://www.theteacherscorner.net/monthly-resources/">Monthly Units, Lesson Plans &amp; Activities</a></li>
-				  </ul>
-  </div>
-<div id="seasonalactivities" onmouseover="MM_showHideLayers('seasonalactivities','','show');MM_showHideLayers('seasonalitems','','show');" onmouseout="MM_showHideLayers('seasonalactivities','','hide');MM_showHideLayers('seasonalitems','','hide');">
-  <ul class="submenu">
-        <li><a href="http://seasonal.theteacherscorner.net/earth-day/">Earth Day</a></li>
-        <li><a href="http://seasonal.theteacherscorner.net/spring/">Spring</a></li>
-        <li><a href="http://seasonal.theteacherscorner.net/baseball/">Baseball</a></li>
-      </ul>
-  </div>
-<div id="dailywritingprompts" onmouseover="MM_showHideLayers('dailywritingprompts','','show');MM_showHideLayers('seasonalitems','','show');" onmouseout="MM_showHideLayers('dailywritingprompts','','hide');MM_showHideLayers('seasonalitems','','hide');">
-                              <ul class="submenu">
-                              <li><a href="http://www.theteacherscorner.net/daily-writing-prompts/june/">June Writing Prompts</a></li>
-                              <li><a href="http://www.theteacherscorner.net/daily-writing-prompts/july/">July Writing Prompts</a></li>
-    </ul>
-                                
-  </div>
-<div id="monthlyresources" onmouseover="MM_showHideLayers('monthlyresources','','show');MM_showHideLayers('seasonalitems','','show');" onmouseout="MM_showHideLayers('monthlyresources','','hide');MM_showHideLayers('seasonalitems','','hide');">
-  <ul class="submenu">
-  <li><a href="http://www.theteacherscorner.net/monthly-resources/june.php">June Activities &amp; Lessons</a></li> 
-  <li><a href="http://www.theteacherscorner.net/monthly-resources/july.php">July Activities &amp; Lessons</a></li>                            
-  </ul>
-                                
-  </div>
-<div id="bulletinboards" onmouseover="MM_showHideLayers('bulletinboards','','show');" onmouseout="MM_showHideLayers('bulletinboards','','hide');">
-					<ul class="submenu">
-					  <li onmouseover="MM_showHideLayers('bulletinboardmonths','','show');" onmouseout="MM_showHideLayers('bulletinboardmonths','','hide');"><a href="http://bulletinboards.theteacherscorner.net/monthly/">Bulletin Boards by Month</a></li>
-						<li><a href="http://bulletinboards.theteacherscorner.net/subject/">Bulletin Boards by Subject</a></li>
-						<li><a href="http://bulletinboards.theteacherscorner.net/theme/">Bulletin Boards by Theme</a></li>
-                        <li><a href="http://bulletinboards.theteacherscorner.net/materials/">Bulletin Board Materials</a></li>
-					</ul>
-</div>
-                            <div id="bulletinboardmonths" onmouseover="MM_showHideLayers('bulletinboardmonths','','show');MM_showHideLayers('bulletinboards','','show');" onmouseout="MM_showHideLayers('bulletinboardmonths','','hide');MM_showHideLayers('bulletinboards','','hide');">
-                                <ul class="submenu">
-                                  <li><a href="http://bulletinboards.theteacherscorner.net/monthly/june/">June                                  Bulletin Boards</a></li>
-                                  <li><a href="http://bulletinboards.theteacherscorner.net/monthly/july/">July                                  Bulletin Boards</a></li>
-                              </ul>
-  </div>
-    <div id="teacherresources" onmouseover="MM_showHideLayers('teacherresources','','show');" onmouseout="MM_showHideLayers('teacherresources','','hide');">
-					<ul class="submenu">
-					  <li><a href="http://www.theteacherscorner.net/penpals/">Key Pals &amp; Pen Pals</a></li>
-						<li><a href="http://www.theteacherscorner.net/classroom-management/">Classroom Management</a></li>
-						<li><a href="http://www.theteacherscorner.net/teacher-resources/teachhelp.php">Teacher Tips</a></li>
-					</ul>
-  				</div>
-<div id="printableworksheets" onmouseover="MM_showHideLayers('printableworksheets','','show');" onmouseout="MM_showHideLayers('printableworksheets','','hide');">
-					<ul class="submenu">
-						<li onmouseover="MM_showHideLayers('puzzleworksheets','','show');" onmouseout="MM_showHideLayers('puzzleworksheets','','hide');"><a href="http://worksheets.theteacherscorner.net/">Puzzle Worksheets</a></li>
-                        <li onmouseover="MM_showHideLayers('printablecalendar','','show');" onmouseout="MM_showHideLayers('printablecalendar','','hide');"><a href="http://worksheets.theteacherscorner.net/printable-calendar/">Printable Calendars</a></li>
-						<li onmouseover="MM_showHideLayers('mathworksheets','','show');" onmouseout="MM_showHideLayers('mathworksheets','','hide');"><a href="http://worksheets.theteacherscorner.net/make-your-own/math-worksheets/">Printable Math Worksheets</a></li>
-                        <li><a href="http://worksheets.theteacherscorner.net/coloring-pages/">Coloring Pages</a></li>
-                        <li><a href="http://worksheets.theteacherscorner.net/make-your-own/telling-time/">Time Worksheets</a></li>
-                        <li><a href="http://worksheets.theteacherscorner.net/make-your-own/money-worksheets/">Money Worksheets</a></li>
-                      <li><a href="http://worksheets.theteacherscorner.net/maps/">Printable Maps</a></li>
-					</ul>
-</div>
-                            <div id="printablecalendar" onmouseover="MM_showHideLayers('printablecalendar','','show');MM_showHideLayers('printableworksheets','','show');" onmouseout="MM_showHideLayers('printablecalendar','','hide');MM_showHideLayers('printableworksheets','','hide');">
-                                <ul class="submenu">
-                                    <li><a href="http://worksheets.theteacherscorner.net/printable-calendar/june/">Printable June Calendar</a> </li>
-                                    <li><a href="http://worksheets.theteacherscorner.net/printable-calendar/july/">Printable July Calendar</a></li>
-                                </ul>
-                            </div>
-                            <div id="mathworksheets" onmouseover="MM_showHideLayers('mathworksheets','','show');MM_showHideLayers('printableworksheets','','show');" onmouseout="MM_showHideLayers('mathworksheets','','hide');MM_showHideLayers('printableworksheets','','hide');">
-                                <ul class="submenu">
-                                    <li><a href="http://worksheets.theteacherscorner.net/make-your-own/math-worksheets/">Basic Math Worksheets</a></li>
-                                    <li><a href="http://worksheets.theteacherscorner.net/make-your-own/math-worksheets/number-sense/comparing-numbers.php">Number Sense Worksheets</a></li>
-                                    <li><a href="http://worksheets.theteacherscorner.net/make-your-own/math-worksheets/">Algebra Worksheets</a></li>
-                                    <li><a href="http://worksheets.theteacherscorner.net/make-your-own/money-worksheets/">Money Worksheets</a></li>
-                                    <li><a href="http://worksheets.theteacherscorner.net/make-your-own/graphs/">Graph Worksheets</a></li>
-                                </ul>
-                            </div>
-                            <div id="puzzleworksheets" onmouseover="MM_showHideLayers('puzzleworksheets','','show');MM_showHideLayers('printableworksheets','','show');" onmouseout="MM_showHideLayers('puzzleworksheets','','hide');MM_showHideLayers('printableworksheets','','hide');">
-                                <ul class="submenu">
-                                    <li><a href="http://worksheets.theteacherscorner.net/make-your-own/word-search/">Word Search Maker</a></li>
-                                    <li><a href="http://worksheets.theteacherscorner.net/make-your-own/crossword/">Crossword Maker</a></li>
-                                    <li><a href="http://worksheets.theteacherscorner.net/make-your-own/fill-in-the-blank/">Cloze / Fill in the Blank</a></li>
-                                    <li><a href="http://worksheets.theteacherscorner.net/make-your-own/word-scramble/">Word Scramble Maker</a></li>
-                                    <li><a href="http://worksheets.theteacherscorner.net/make-your-own/match-up/">Match-up Worksheets</a></li>
-                                    <li><a href="http://worksheets.theteacherscorner.net/make-your-own/maze/">Maze Maker</a></li>
-                                    <li><a href="http://worksheets.theteacherscorner.net/make-your-own/sudoku/">Printable Sudoku</a></li>
-                                  <li><a href="http://worksheets.theteacherscorner.net/make-your-own/brain-teasers/">Brain Teasers</a></li>
-                                </ul>
-                            </div>
-                            
-                                <div id="facebook"><div class="fb-like" data-href="http://www.facebook.com/theteacherscorner" data-send="false" data-layout="button_count" data-width="10" data-show-faces="false" data-font="arial"></div></div>
-                <div id="link_thanks">Keep us FREE!  Link to us <span class="sprites" id="icon7_gif"></span></div>
-                <div id="googleplus"><a href="https://plus.google.com/104022892749699022418/" style="text-decoration:none;"><img src="https://ssl.gstatic.com/images/icons/gplus-16.png" alt="Google+" style="border:0;width:16px;height:16px;"></a></div>
-                </div>
-                
-</div>
-<div id="main">
+<div id="main_header">
+
+<div><a href="http://www.theteacherscorner.net" style="text-decoration:none">
+<span id="site_title">The Teachers Corner</span>
+<span id="apple"></span></a>
+<a href="http://worksheets.theteacherscorner.net" style="text-decoration:none"><img src="http://www.theteacherscorner.net/images/world-famous-seal.png" width="148" height="110" alt="World Famous Puzzle and Worksheet Makers" style="position:absolute;float:right;margin-left:80px"></a>
+</div></div><div id="main">
 	<div id="breadcrumb_container">
 		<ul id="breadcrumbs">
-			<li><a href="/">Home :</a></li>
+			<li><a href="/">Home</a></li>
 			<li class="current">Privacy Policy</li>
 		</ul>
 	</div>
 <table class="main_table">
 	<tbody><tr>
-		<td class="left_column">
+		<td valign="top" class="navigation_column"><div id="navigation">
+    <ul class="top-level">
+        <li><span id="sprite_printable" class="sprite"></span><a href="http://worksheets.theteacherscorner.net">Printable Worksheets</a>
+            <ul class="sub-level">
+                <li><a href="http://worksheets.theteacherscorner.net">Puzzle Worksheets</a>
+                    <ul class="sub-level">
+                        <li><a href="http://worksheets.theteacherscorner.net/make-your-own/crossword/">Crossword Maker</a></li>
+                        <li><a href="http://worksheets.theteacherscorner.net/make-your-own/word-search/">Word Search Maker</a></li>
+                        <li><a href="http://worksheets.theteacherscorner.net/make-your-own/word-scramble/">Word Scramble Maker</a></li>
+                        <li><a href="http://worksheets.theteacherscorner.net/make-your-own/fill-in-the-blank/">Cloze / Fill in the Blank</a></li>
+                        <li><a href="http://worksheets.theteacherscorner.net/make-your-own/sudoku/">Printable Sudoku Puzzles</a></li>
+                        <li><a href="http://worksheets.theteacherscorner.net/make-your-own/match-up/">Match up Maker</a></li>
+                        <li><a href="http://worksheets.theteacherscorner.net/make-your-own/brain-teasers/">Brain Teasers</a></li>
+                        <li><a href="http://worksheets.theteacherscorner.net/make-your-own/maze/">Maze Maker</a></li>
+                    </ul>
+                </li>
+                <li><a href="http://worksheets.theteacherscorner.net/printable-calendar/">Printable Calendar</a></li>
+                <li><a href="http://worksheets.theteacherscorner.net/make-your-own/math-worksheets/">Math Worksheets</a>
+                	<ul class="sub-level">
+                    	<li><a href="http://worksheets.theteacherscorner.net/make-your-own/math-worksheets/">Basic Math Worksheets</a></li>
+                        <li><a href="http://worksheets.theteacherscorner.net/make-your-own/math-worksheets/number-sense/comparing-numbers.php">Number Sense Worksheets</a></li>
+                        <li><a href="http://worksheets.theteacherscorner.net/make-your-own/math-worksheets/">Algebra Worksheets</a></li>
+                        <li><a href="http://worksheets.theteacherscorner.net/make-your-own/money-worksheets/">Money Worksheets</a></li>
+                        <li><a href="http://worksheets.theteacherscorner.net/make-your-own/graphs/">Graph Worksheets</a></li>
+                    </ul>
+                </li>
+                <li><a href="http://worksheets.theteacherscorner.net/make-your-own/telling-time/">Telling Time Worksheets</a></li>
+                <li><a href="http://worksheets.theteacherscorner.net/make-your-own/money-worksheets/">Money Worksheets</a></li>
+                <li><a href="http://worksheets.theteacherscorner.net/coloring-pages/">Coloring Pages</a></li>
+            </ul>
+        </li>
+        <li><span id="sprite_lessons" class="sprite"></span><a href="http://lesson-plans.theteacherscorner.net">Lesson Plans</a>
+        	<ul class="sub-level">
+                <li><a href="http://lesson-plans.theteacherscorner.net/art/">Arts &amp; Crafts</a></li>
+                <li><a href="http://lesson-plans.theteacherscorner.net/health/">Health Lesson Plans</a></li>
+                <li><a href="http://lesson-plans.theteacherscorner.net/math/">Math Lesson Plans</a></li>
+                <li><a href="http://lesson-plans.theteacherscorner.net/music/">Music Lesson Plans</a></li>
+                <li><a href="http://lesson-plans.theteacherscorner.net/pe/">Physical Ed. Lessons</a></li>
+                <li><a href="http://lesson-plans.theteacherscorner.net/reading/">Reading Lesson Plans</a></li>
+                <li><a href="http://lesson-plans.theteacherscorner.net/science/">Science Lesson Plans</a></li>
+                <li><a href="http://lesson-plans.theteacherscorner.net/socialstudies/">Social Studies Lessons</a></li>
+                <li><a href="http://lesson-plans.theteacherscorner.net/technology/">Technology Lesson Plans</a></li>
+                <li><a href="http://lesson-plans.theteacherscorner.net/writing/">Writing Lesson Plans</a></li>
+            </ul>
+        </li>
+        <li><span id="sprite_seasonal" class="sprite"></span><a href="http://seasonal.theteacherscorner.net">Seasonal Items</a>
+        	<ul class="sub-level">
+                <li><a href="http://www.theteacherscorner.net/calendars/october.php">October Events</a></li>
+                <li><a href="http://www.theteacherscorner.net/calendars/november.php">November Events</a></li>
+                <li><a href="http://seasonal.theteacherscorner.net/halloween/">Halloween Activities</a></li>
+                <li><a href="http://www.theteacherscorner.net/daily-writing-prompts/">Daily Writing Prompts</a>
+                	<ul class="sub-level">
+                        <li><a href="http://www.theteacherscorner.net/daily-writing-prompts/october/">October Writing Prompts</a></li>
+                    	<li><a href="http://www.theteacherscorner.net/daily-writing-prompts/november/">November Writing Prompts</a></li>
+                    </ul>
+                </li>
+                <li><a href="http://www.theteacherscorner.net/monthly-resources/">Monthly Activities &amp; Lessons</a>
+            		<ul class="sub-level">
+                		<li><a href="http://www.theteacherscorner.net/monthly-resources/october.php">October Activities &amp; Lessons</a></li> 
+  <li><a href="http://www.theteacherscorner.net/monthly-resources/november.php">November Activities &amp; Lessons</a></li> 
+  					</ul>
+               	</li> 
+            </ul>
+        </li>
+        <li><span id="sprite_bulletin" class="sprite"></span><a href="http://bulletinboards.theteacherscorner.net">Bulletin Boards</a>
+        	<ul class="sub-level">
+                <li><a href="http://bulletinboards.theteacherscorner.net/monthly/">Bulletin Boards by Month</a>
+                	<ul class="sub-level">
+                        <li><a href="http://bulletinboards.theteacherscorner.net/monthly/october/">October Bulletin Boards</a></li>
+                        <li><a href="http://bulletinboards.theteacherscorner.net/monthly/november/">November Bulletin Boards</a></li>
+                    </ul>
+                </li>
+                <li><a href="http://bulletinboards.theteacherscorner.net/subject/">Bulletin Boards by Subject</a></li>
+                <li><a href="http://bulletinboards.theteacherscorner.net/theme/">Bulletin Boards by Theme</a></li>
+                <li><a href="http://bulletinboards.theteacherscorner.net/materials/">Bulletin Board Materials</a></li>
+            </ul>
+        </li>
+        <li><span id="sprite_collaboration" class="sprite"></span><a href="http://www.theteacherscorner.net/collaboration-projects/">Collaboration Projects</a></li>
+        <li><span id="sprite_resources" class="sprite"></span><a href="http://www.theteacherscorner.net/teacher-resources/">Teacher Resources</a>
+        	<ul class="sub-level">
+                <li><a href="http://www.theteacherscorner.net/penpals/">Pen Pals &amp; Key Pals</a></li>
+                <li><a href="http://www.theteacherscorner.net/classroom-management/">Classroom Management</a></li>
+                <li><a href="http://www.theteacherscorner.net/teacher-resources/teachhelp.php">Teacher Tips</a></li>
+                <li><a href="http://www.theteacherscorner.net/teacher-resources/teaching-jobs.php">Teaching Jobs</a></li>
+            </ul>
+        </li>
+        <li><span id="sprite_thematic" class="sprite"></span><a href="http://thematicunits.theteacherscorner.net/">Thematic Units</a></li>
+        <li><span id="sprite_forum" class="sprite"></span><a href="http://forums.theteacherscorner.net/forum.php">Message Boards</a></li>
+        <li style="background-image:linear-gradient(to right, #666633, #9c9c4e);padding:5px 10px 10px 12px;border-bottom:1px solid black;">
+        	Search our site:<br>
+            <form action="http://www.theteacherscorner.net/search_results.php" id="cse-search-box">
+            <input type="hidden" name="cx" value="partner-pub-6353310788608549:8qgxnkq6yvi">
+            <input type="hidden" name="cof" value="FORID:10">
+            <input type="hidden" name="ie" value="ISO-8859-1">
+            <div style="width:184px;margin:0 auto;">
+            <input type="text" name="q" style="width:150px;font-size:18px;position:absolute;float:left">
+            <button type="submit" name="sa" value="Search" id="sprite_search"></button>
+            </div>
+            </form>
+		</li>
+    </ul>
+</div>
+<div style="text-align:center">
+<div style="background-color:#666632;border-bottom:1px solid black">
+<ins class="adsbygoogle" style="display:inline-block;width:200px;height:200px" data-ad-client="ca-pub-6353310788608549" data-ad-slot="4657243946"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>
+<table style="width:100%;border-collapse:collapse">
+  <tbody><tr>
+    <td><div style="text-align:center">Follow us on</div></td>
+    <td><div style="text-align:center">Like Us on</div></td>
+  </tr>
+  <tr>
+    <td><div style="text-align:center"><a href="http://twitter.com/teachercorner" target="_blank" rel="nofollow"><span class="sprites" id="sprite_twitter"></span></a></div></td>
+    <td><div style="text-align:center"><a href="http://www.facebook.com/theteacherscorner" target="_blank" rel="nofollow"><span class="sprites" id="sprite_facebook"></span></a></div></td>
+  </tr>
+</tbody></table>
+<div id="right_column"></div>
+
+</div>
+</td>
+        <td valign="top" class="content_column">
         	<div class="cell_pad">
 		<h1>Privacy Policy </h1> 
 		<p><strong>The Teacher's Corner respects your privacy.<br>
@@ -299,64 +237,22 @@ As with most other websites, we collect and use the data contained in  log files
               </div>
 
 	  </td>
-			<td class="right_column"><div class="cell_pad"><div style="text-align:center">
-<p style="height:180px;"></p>
-<table style="width:100%;border-collapse:collapse">
-	
-  <tbody><tr>
-  	<td colspan="2"><div style="text-align:center">
-  	  <a href="http://www.amazon.com" target="_blank"><img src="http://www.theteacherscorner.net/images/amazon.png" border="0" alt="Shop at Amazon" rel="nofollow"></a>
-      </div></td>
-  </tr>
-  <tr>
-    <td><div style="text-align:center">Follow us on</div></td>
-    <td><div style="text-align:center">Like Us on</div></td>
-  </tr>
-  <tr>
-    <td><div style="text-align:center"><a href="http://twitter.com/teachercorner" target="_blank" rel="nofollow"><span class="sprites" id="twitter_button_png"></span></a></div></td>
-    <td><div style="text-align:center"><a href="http://www.facebook.com/theteacherscorner" target="_blank" rel="nofollow"><span class="sprites" id="facebook_png"></span></a></div></td>
-  </tr>
-</tbody></table>
-<div id="right_column"><iframe src="http://www.theteacherscorner.net/includes/aSky.php" scrolling="no" width="160px" height="600px" style="border: 0px; overflow: hidden;"></iframe></div>
-
-</div>
-</div></td>
 	</tr>	
 	<tr>
-		<td class="left_column">
+		<td class="navigation_column"></td> 
+        <td class="content_column">
 		<div style="text-align:center;"><img src="http://www.theteacherscorner.net/images/hotchalk_glam_300x40.gif" width="300" height="40" alt="Hotchalk | Glam"></div>
         <div class="cell_pad" style="text-align:center"><span class="cell_pad" style="text-align:center">Quick Links: <br>
               <a href="http://www.theteacherscorner.net/contact/contact.php" rel="nofollow">Contact Us</a> | <a href="http://www.theteacherscorner.net/credits/banner.php" rel="nofollow">Carry Our Banner</a> | <a href="http://www.theteacherscorner.net/privacypolicy.htm" rel="nofollow">Privacy Policy</a> | <a href="http://www.theteacherscorner.net/terms.php" rel="nofollow">Terms of Use</a> | <a href="http://www.theteacherscorner.net/ads/" target="_blank" rel="nofollow">Advertise</a></span></div></td>
-		<td class="right_column"><div class="cell_pad">
-        </div></td> 
 	</tr>
 </tbody></table>
-
 <div id="footer">Copyright © 1998-2013 The Teacher's Corner™.  All Rights Reserved</div>
+<div id="facebook"><div class="fb-like" data-href="http://www.facebook.com/theteacherscorner" data-send="false" data-layout="button_count" data-width="10" data-show-faces="false" data-font="arial"></div></div>
+                <div id="link_thanks">Keep us FREE!  Link to us <span class="sprites" id="sprite_smiley"></span></div>
+                <div id="googleplus"><a href="https://plus.google.com/104022892749699022418/" style="text-decoration:none;"><span class="sprites" id="sprite_googleplus"></span></a></div>
 </div><!--Closes width_container -->
-<script type="text/javascript">
-function MM_findObj(n,d){var p,i,x;if(!d)d=document;if((p=n.indexOf("?"))>0&&parent.frames.length){d=parent.frames[n.substring(p+1)].document;n=n.substring(0,p);}
-if(!(x=d[n])&&d.all)x=d.all[n];for(i=0;!x&&i<d.forms.length;i++)x=d.forms[i][n];for(i=0;!x&&d.layers&&i<d.layers.length;i++)x=MM_findObj(n,d.layers[i].document);if(!x&&d.getElementById)x=d.getElementById(n);return x;}
-function MM_showHideLayers(){var i,p,v,obj,args=MM_showHideLayers.arguments;for(i=0;i<(args.length-2);i+=3)if((obj=MM_findObj(args[i]))!=null){v=args[i+2];if(obj.style){obj=obj.style;v=(v=='show')?'visible':(v=='hide')?'hidden':v;}
-obj.visibility=v;}}
-</script>
-<script type="text/javascript">
-  var vglnk = { api_url: '//api.viglink.com/api',
-                key: 'ad42bf6e47aacf3a586044fa84294c6d' };
-
-  (function(d, t) {
-    var s = d.createElement(t); s.type = 'text/javascript'; s.async = true;
-    s.src = ('https:' == document.location.protocol ? vglnk.api_url :
-             '//cdn.viglink.com/api') + '/vglnk.js';
-    var r = d.getElementsByTagName(t)[0]; r.parentNode.insertBefore(s, r);
-  }(document, 'script'));
-</script><!--Hotchalk lightbox-->
-<!-- TheTeachersCorner-DLB -->
-<script type="text/javascript">
-GA_googleFillSlot("TheTeachersCorner-DLB");
-</script>
-<!--/Hotchalk lightbox-->
-<div id="pagelinks" style="z-index:2;position:fixed;padding:5px; top: 200px;width:58px;background-color:white;border:1px solid #860404; border-radius:5px;text-align:center">
+</div><!--wrap close-->
+<div id="pagelinks" style="z-index: 0; position: fixed; padding: 3px; top: 110px; width: 58px; background-color: rgb(102, 102, 51); border: 1px solid rgb(0, 0, 0); border-radius: 5px 0px 0px 5px; text-align: center; background-image: linear-gradient(to right, rgb(102, 102, 51), rgb(156, 156, 78));">
     <div class="twitter-box">
 		<a href="https://twitter.com/teachercorner" data-url="http://www.theteacherscorner.net/privacypolicy.htm" class="twitter-share-button" data-via="teachercorner" data-count="vertical" data-lang="en">Follow</a>
 		<script type="text/javascript">
@@ -428,7 +324,7 @@ GA_googleFillSlot("TheTeachersCorner-DLB");
     <hr style="width:90%;border-top:1px solid #860404;margin-bottom:5px">
     <div class="diigo-box" style="margin-top:10px">
     	
-	<a href="http://www.diigo.com" style="text-decoration:none" rel="nofollow" onclick="var s=document.createElement('script');s.type='text/javascript';s.src='http://www.diigo.com/javascripts/webtoolbar/diigolet_b_h_b.js';document.body.appendChild(s);return false;"><img src="http://www.diigo.com/images/diigo-icon/16.png" alt="Add to Diigo" width="16" height="16" style="margin-bottom:5px"></a>
+	<a href="http://www.diigo.com" style="text-decoration:none" rel="nofollow" onclick="var s=document.createElement('script');s.type='text/javascript';s.src='http://www.diigo.com/javascripts/webtoolbar/diigolet_b_h_b.js';document.body.appendChild(s);return false;"><span class="sprites" id="sprite_diigo"></span></a>
     </div>
 </div></div>	
 
