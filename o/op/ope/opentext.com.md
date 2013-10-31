@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the opentext.com privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603191100id_/http%3A//www.opentext.com/2/global/site-privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the opentext.com privacy policy that was archived on 2013-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131031192558id_/http%3A//www.opentext.com/2/global/site-privacy.html) for the most accurate reproduction.*
 
 # Privacy and Security Policy | OpenText
 
@@ -71,6 +71,16 @@ We are committed to ensuring that your Personal Data is secure. In order to prev
 
 
 
+### Reporting a Security Vulnerability 
+
+OpenText reviews all reports of security vulnerabilities affecting OpenText products and services.
+
+If you are an OpenText customer or partner, please contact [Customer Support](http://www.opentext.com/2/global/services/services-support.htm) with details of the vulnerability.
+
+If you are not an OpenText customer or partner, please send details about the vulnerability you have discovered via email to [otst@opentext.com](mailto:otst@opentext.com). 
+
+Please click [here](http://www.opentext.com/2/global/company/security-acknowledgements.htm) to view a list of people and organizations that have kindly reported vulnerabilities to OpenText.
+
 ### Safe Harbor
 
 The U.S. Department of Commerce and the European Commission have agreed on a set of data protection principles and frequently asked questions (FAQs) ("the U.S.-EU Safe Harbor Framework") to enable U.S. companies to satisfy European Union (EU) law requirements for adequate protection of personal information transferred from the EU to the United States. The U.S. Department of Commerce and the Federal Data Protection and Information Commissioner of Switzerland have agreed on a similar set of data protection principles and frequently asked questions (FAQs) ("the U.S.-Swiss Safe Harbor Framework") to enable U.S. companies to satisfy Swiss law requirements for adequate protection of personal information transferred from Switzerland to the United States.
@@ -86,5 +96,3 @@ Open Text Corporation, Waterloo, Canada
 ### Questions
 
 Contact [itsecuritycompliance@opentext.com](mailto:itsecuritycompliance@opentext.com)
-
-[Convert this page to PDF](http://www.opentext.com/2/global/site-privacy.html?sys_generate=pdf)
