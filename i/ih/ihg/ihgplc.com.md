@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the ihgplc.com privacy policy that was archived on 2013-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130629234828id_/http%3A//ihgplc.com/index.asp%3Fpageid%3D863) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ihgplc.com privacy policy that was archived on 2013-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131031190102id_/http%3A//www.ihgplc.com/index.asp%3Fpageid%3D863) for the most accurate reproduction.*
 
 # InterContinental Hotels Group PLC : Services - Privacy and cookies
 
-This privacy policy explains the way in which InterContinental Hotels Group PLC and its subsidiaries may use the information collected from or provided by you via our website at [www.ihgplc.com](http://www.ihgplc.com/ "External link").
+This privacy policy explains the way in which InterContinental Hotels Group PLC and its subsidiaries may use the information collected from or provided by you via our website at [www.ihgplc.com](http://www.ihgplc.com/).
 
 ## Use of your personal information
 
@@ -48,7 +48,7 @@ We know that people have concerns about cookies, but we believe that the benefit
 
 You can delete the files that contain cookies – those files are stored as part of your internet browser. If you wish to restrict or block the cookies which are set by ihgplc.com, or indeed any other website, or if you wish to receive notification of cookie placement requests or decline cookies completely, you can do this through your browser settings. The Help function within your browser should tell you how. Please be aware that declining or denying cookies may prevent you from being able to use the website to its highest capability.
 
-Alternatively, you may wish to visit [www.aboutcookies.org](http://www.aboutcookies.org/ "External link") which contains comprehensive information on how to do this on a wide variety of browsers. You will also find details on how to delete cookies from your computer as well as more general information about cookies. For information on how to do this on the browser of your mobile device you will need to refer to your manual.
+Alternatively, you may wish to visit [www.aboutcookies.org](http://www.aboutcookies.org/) which contains comprehensive information on how to do this on a wide variety of browsers. You will also find details on how to delete cookies from your computer as well as more general information about cookies. For information on how to do this on the browser of your mobile device you will need to refer to your manual.
 
 This is a list of the main cookies, hosted by ihgplc.com and set by the InterContinental Hotels Group PLC website, and what each is used for: 
 
@@ -107,7 +107,7 @@ The website may contain links to other sites which are outside our control and n
 
 ## Your rights
 
-InterContinental Hotels Group PLC is required to comply with the provisions of the Data Protection Act 1998. This provides amongst other things that the data we hold about you should be processed lawfully and fairly. It should be accurate, relevant and not excessive. The information should be kept up to date, where necessary, and not retained for longer than is necessary. It should be kept securely to prevent unauthorised access by other people. You have the right to see what is held about you and for any inaccuracies to be corrected by [contacting us directly](https://web.archive.org/web/20130629234828id_/http%3A//ihgplc.com/index.asp?pageid=11).
+InterContinental Hotels Group PLC is required to comply with the provisions of the Data Protection Act 1998. This provides amongst other things that the data we hold about you should be processed lawfully and fairly. It should be accurate, relevant and not excessive. The information should be kept up to date, where necessary, and not retained for longer than is necessary. It should be kept securely to prevent unauthorised access by other people. You have the right to see what is held about you and for any inaccuracies to be corrected by [contacting us directly](https://web.archive.org/web/20131031190102id_/http%3A//www.ihgplc.com/index.asp?pageid=11).
 
 ## Changes to our policy 
 
