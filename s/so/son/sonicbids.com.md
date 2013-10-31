@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sonicbids.com privacy policy that was archived on 2013-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130618151012id_/http%3A//www.sonicbids.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sonicbids.com privacy policy that was archived on 2013-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131031120318id_/http%3A//www.sonicbids.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Sonicbids
 
@@ -111,7 +111,7 @@ Please feel free to send an email to [needhelp@sonicbids.com](mailto:needhelp@so
 | If you wish further information concerning privacy policies in general, concerning online social networking and safety, and concerning the Children’s Online Privacy Protection Act, you should visit the following sites:[http://www.safeteens.com](http://www.safeteens.com/)  
 <http://www.ftc.gov/privacy/index.html>  
 [ http://www.ftc.gov/privacy/privacyinitiatives/childrens_educ.html/a>  
-](http://www.ftc.gov/privacy/privacyinitiatives/childrens_educ.html)[ http://www.ftc.gov/bcp/conline/edcams/kidzprivacy/index.html](https://web.archive.org/web/20130618151012id_/http%3A//www.sonicbids.com/onclick=)  
+](http://www.ftc.gov/privacy/privacyinitiatives/childrens_educ.html)[ http://www.ftc.gov/bcp/conline/edcams/kidzprivacy/index.html](https://web.archive.org/web/20131031120318id_/http://www.sonicbids.com/privacy-policy/onclick=)  
 <http://www.wiredsafety.org/internet101/blogs.html>  
 <http://www.netsmartz.org/netteens.htm>  
 [ http://www.isafe.org/channels/sub.php?ch=op&sub_id=media_tips](http://www.isafe.org/channels/sub.php?ch=op&sub_id=media_tips)  
