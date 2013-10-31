@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shagbook.com privacy policy that was archived on 2013-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130506093645id_/http%3A//vip.shagbook.com/help/privacy.cfm%3Fwldsite%3D4869) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shagbook.com privacy policy that was archived on 2013-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131031044831id_/http%3A//vip.shagbook.com/help/privacy.cfm%3Fwldsite%3D4869) for the most accurate reproduction.*
 
 # Shagbook® :: Shagbook® Member Privacy Policy
 
@@ -6,7 +6,7 @@ _Last updated on Wednesday 16th January, 2013_
 
 ### Data Controller
 
-For the purposes of the Data Protection Act 1998 we confirm that the data controller of the website (the "Website") is Global Personals Limited, a company registered under the laws of England, whose registered office is Minton Place, Victoria Street, Windsor, Berkshire, SL4 1EG. Global Personals can be contacted via the contact section on the Website or by writing to our registered address. We may also share data with 12208 Cross Fence Trail,Tyler,TX,75706,US who shall be a joint data controller (Global Personals and SNRG Ventures are referred to as "we," "us," "our"). We offer all dating and networking services via the site (the "Service").
+For the purposes of the Data Protection Act 1998 we confirm that the data controller of the website (the "Website") is Global Personals Limited, a company registered under the laws of England, whose registered office is Minton Place, Victoria Street, Windsor, Berkshire, SL4 1EG. Global Personals can be contacted via the contact section on the Website or by writing to our registered address. We may also share data with UK No: 02035297812 1200 Main St.,Tyler,TX,75706,US who shall be a joint data controller (Global Personals and SNRG Ventures are referred to as "we," "us," "our"). We offer all dating and networking services via the site (the "Service").
 
 We respect the privacy of each user accessing the Website ("you," "your") and are committed to protecting your privacy. We have structured the Website so that, in general, it is necessary to provide log-in information and identify yourself to access the Website. We ensure that any personal information provided by you will be processed in accordance with the eight principles of the Data Protection Act 1998 and the Privacy Policy set out below. Global Personals is registered with the Information Commissioner in accordance with the Data Protection Act 1998. 
 
