@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the heo.com privacy policy that was archived on 2013-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130627054243id_/http%3A//www.heo.com/dse.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the heo.com privacy policy that was archived on 2013-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131031121916id_/http%3A//www.heo.com/dse.php) for the most accurate reproduction.*
 
 # heo - distribution & wholesale of merchandising, action figures, statues, toys, games, plushes, replica, jewelry from the domains of cinema, TV, comic, anime, music and video games
 
