@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ncbex.org privacy policy that was archived on 2013-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130630180044id_/http%3A//ncbex.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ncbex.org privacy policy that was archived on 2013-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131031045420id_/http%3A//www.ncbex.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -12,7 +12,7 @@ NCBE has physical, electronic, and procedural safeguards in conformance to indus
 
 NCBE's web server monitors traffic by automatically recording every visitor's host, domain name, pages visited, length of user sessions, browser type, and/or IP address. The information we collect includes the number of times the site is visited, how many visitors come to the site, which parts of the site visitors frequent, and the length of time of each visit. This information is limited to pages visited within our website, does not contain personally identifying information, and is used to evaluate areas of interest and to improve the NCBE website. NCBE does not share this information with any other organizations.
 
-When you use the Standard NCBE Character and Fitness Electronic Application, the MBE Score Services Online Request Form, the UBE Score Transcript Online Request Form, the NCBE Number Request, or the NCBE Online Store, we collect personal information such as name, address, Social Security number, residences, and/or employers. We also collect personal information in an optional survey when you purchase an Online Practice Exam. All information solicited and received in these situations is treated confidentially by NCBE and restricted to official use by NCBE and/or the proper admitting authorities.
+When you use the NCBE Character and Fitness Application, the MBE Score Services Request Form, the MPRE Score Services Request Form, the UBE Score Transcript Request Form, the NCBE Study Aids Store, or when you create an NCBE account, we collect personal information such as name, address, Social Security number, residences, and/or employers. We also collect personal information in an optional survey when you purchase an Online Practice Exam. All information solicited and received in these situations is treated confidentially by NCBE and restricted to official use by NCBE and/or the proper admitting authorities.
 
 #### Credit Card Transactions
 
@@ -26,7 +26,7 @@ Cookies are used by NCBE to keep track of your login information while you are l
 
 Within our website, we offer the ability to change your password and other account preferences and information.
 
-If you wish to delete your NCBE Character and Fitness Electronic Application account, please contact us and we will remove all of your information from our website. Below is the policy used in determining when an application is deleted from our server:
+If you wish to delete your NCBE Character and Fitness Application, please contact us and we will remove all of your information from our website. Below is the policy used in determining when an application is deleted from our server:
 
   * An unused application will be deleted after 90 days. 
   * An application that is never received by NCBE will be deleted after 1 year of disuse. 
