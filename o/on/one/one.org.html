@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the one.org privacy policy that was archived on 2013-05-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130502153129id_/http%3A//www.one.org/us/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the one.org privacy policy that was archived on 2013-10-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131031034503id_/http%3A//www.one.org/us/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns:fb="http://ogp.me/ns/fb#"><head>
 
@@ -17,9 +17,11 @@
                 <meta property="og:url" content="http://www.one.org/us/privacy/">
         <meta property="og:site_name" content="ONE">
                 <meta property="og:image" content="http://www.one.org/international/img/logo.png">
+        <meta itemprop="image" content="http://www.one.org/international/img/logo.png">
                         <meta property="og:title" content="Privacy Policy">
+        <meta itemprop="name" content="Privacy Policy">
                         <meta property="article:published_time" content="2012-09-19 21:08:58">
-        <meta property="article:modified_time" content="2013-04-16 19:03:20">
+        <meta property="article:modified_time" content="2013-09-05 14:08:20">
 
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
@@ -34,12 +36,13 @@
         <script type="text/javascript">try{Typekit.load();}catch(e){}</script>
 
         <!-- Javascript -->
+        <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
+        <script type="text/javascript" src="http://www.one.org/us/wp-content/themes/one/static/bootstrap/js/bootstrap.min.js"></script>
+        
                 <script type="text/javascript" src="http://www.one.org/us/wp-content/themes/one/static/javascripts/vendor/modernizr.custom.js"></script>
-                        <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
-        <script src="http://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/2.2.1/bootstrap.min.js"></script>
-        <script src="http://twitter.github.com/bootstrap/assets/js/bootstrap-modal.js"></script>
-        <script type="text/javascript" src="http://www.one.org/us/wp-content/themes/one/static/javascripts/vendor/jquery.cookie.min.js"></script>
-    
+                        
+                        <script type="text/javascript" src="http://www.one.org/us/wp-content/themes/one/static/javascripts/vendor/jquery.cookie.min.js"></script>
+        <script type="text/javascript" src="http://www.one.org/us/wp-content/themes/one/assets/js/dashboard.js"></script>
 
         <script type="text/javascript" src="http://act.one.org/samples/actionkit.js"></script>
         <script type="text/javascript">
@@ -121,6 +124,241 @@
                                 jQuery('.lg-share-dark').each(function(index,element) {
                                     new Oneorg.ShareButton(element);
                                 });
+                                jQuery('.invite-friends').each(function(index,element) {
+                                    new Oneorg.ShareButton(element);
+                                });
+                                
+
+                                jQuery('.invite .button-a.facebook').click(function(e){
+                                     var friends = {
+                                        targets : [],
+                                        hit : []
+                                    };
+                                    
+
+                                  FB.login(function(response) {
+                                    if (response && response.status != "not_authorized") {
+                                        var userId = response.authResponse.userID;
+                                        FB.api('/me/permissions', function(response){
+                                            var perms = response.data[0];      
+                                            if (perms.hasOwnProperty('xmpp_login')) {
+                                                jQuery('#invitePopup').modal('show');
+
+                                          
+                                                jQuery.getJSON('http://www.one.org/us/api/invite_facebook_friends/get_already_invited_friends', {"fb_id" : userId }, function(data){
+
+                                                    var dnd = data.invited_friends;
+                                                    
+                                                    jQuery.getJSON('http://www.one.org/us/api/invite_facebook_friends/get_facebook_friends', function(data){
+                                                        if (data.hasOwnProperty('friends')) {
+
+                                                            function sortAsc(a,b){ return a - b; };
+                                                            function sortDesc(a,b){ return b - a; };
+                                                            Array.prototype.deepSort = function(ind, desc){ 
+                                                              //ind = property in child object (or index in child array) whose value we'll sort by
+                                                              //desc set to true will sort in descending order
+                                                              var src = [];
+                                                              var temp = [];
+                                                              var fin = [];
+                                                              for (var i=0; i<this.length; i++){
+                                                                src.push(this[i]);
+                                                                temp.push(this[i][ind]);
+                                                              }                                                            
+                                                              desc ? temp.sort(sortDesc) : temp.sort(sortAsc);
+                                                              do {
+                                                                for (var i=0; i<src.length; i++){
+                                                                  if (src[i][ind]==temp[0]){
+                                                                    fin.push(src.splice(i,1)[0]);        
+                                                                    temp.shift();
+                                                                    break;
+                                                                  }
+                                                                }
+                                                              } while (fin.length<this.length);
+                                                              return fin;
+                                                            };
+
+                                                            function friendsHTML(target) { //generate markup for listing friends elligible to invite
+
+                                                                var f = ['<li data-id="'+target.id+'">'];
+                                                                f.push('<a class="friends-x" href="javascript:void(0)">&nbsp;</a>');
+                                                                f.push('<img src="https://graph.facebook.com/'+target.id+'/picture?type=square" alt="'+target.name+'">');
+                                                                f.push('<div class="friend-info">');
+                                                                f.push('<h5>'+target.name+'</h5>');
+                                                                f.push('<div class="message-box">');
+                                                                f.push('<input type="text" name="message" value="" placeholder="Add message..." />');
+                                                                f.push('<a class="send-invite">Invite</a>');
+                                                                f.push('</div></div></li>');
+
+                                                                return f;
+                                                            }
+
+                                                            function removeTarget(parent, targetId, sent) {
+                                                                if (!sent) sent = false;
+
+                                                                if (sent) { //add sent friend to hit list, remove from elligible targets
+                                                                   for (var i=0; i<friends.targets.length; i++) { 
+                                                                        if (friends.targets[i].id === targetId) {
+                                                                            friends.hit.push(friends.targets[i]);
+                                                                            friends.targets.splice(i, 1);
+                                                                            
+                                                                        }
+                                                                        
+                                                                    } 
+                                                                    hitListHTML();
+                                                                }
+
+                                                                parent.animate({opacity:0}, 500, function(){ //swap friend out of list, replace with another at random
+                                                                    var index = parent.index();
+                                                                    parent.remove(); 
+                                                                    if (friends.targets.length) {
+                                                                       var target = friends.targets[(Math.floor(Math.random()*friends.targets.length))];
+                                                                        var f = friendsHTML(target);
+                                                                        jQuery('#invitePopup.modal ul.targets-list li:nth-child('+(index+1)+')').before(f.join('')); 
+                                                                    }
+                                                                    
+                                                                });
+                                                            }
+
+                                                            function hitListHTML() { // generate/refresh markup for grid of avatars showing friends user has invited
+                                                                
+                                                                jQuery('ul.hit-list').empty();
+                                                                
+                                                                var hitsDump = [];
+                                                                for (var d =0; d<friends.hit.length; d++) { //carbon copy of friends.hit so splices don't affect the original list
+                                                                    hitsDump.push(friends.hit[d]);
+                                                                }
+
+                                                                for (var i=0; i<42; i++) {
+                                                                    var hit = ['<li>'];
+                                                                    if (hitsDump.length){
+                                                                        hit.push('<img src="https://graph.facebook.com/'+hitsDump[hitsDump.length-1].id+'/picture?type=square" width="50" height="50" alt="'+hitsDump[hitsDump.length-1].name+'"/>');
+                                                                        hitsDump.splice(hitsDump.length-1,1);
+                                                                    }
+                                                                    hit.push('</li>');
+                                                                    jQuery('ul.hit-list').append(hit.join(''));
+                                                                }
+                                                                
+                                                            }
+
+                                                            function loadDefaultList() {
+                                                                var lim = (friends.targets.length > 5) ? 5 : friends.targets.length;             
+                                                                jQuery('#invitePopup.modal ul.targets-list').empty();
+                                                                for (var y=0; y<lim; y++) {
+                                                                    var f = friendsHTML(friends.targets[(Math.floor(Math.random()*friends.targets.length))]);
+                                                                    jQuery('#invitePopup.modal ul.targets-list').append(f.join(''));
+                                                                }
+                                                            }
+
+
+
+                                                            if (!dnd) {
+                                                                friends.targets = data.friends;
+                                                            } else {
+                                                                for (var i=0; i<data.friends.length; i++) {
+                                                                    var bud = data.friends[i];
+                                                                    var x = 0;
+                                                                    var addToHit = false;
+                                                                    for (x=0; x<dnd.length; x++) {
+                                                                        if (bud.id === dnd[x]) {
+                                                                            friends.hit.push(bud); 
+                                                                            addToHit = true;
+                                                                            break;
+                                                                        }
+                                                                    }
+                                                                    if (!addToHit) 
+                                                                        friends.targets.push(bud);
+                                                                }
+                                                            }
+
+                                                            loadDefaultList();
+                                                             
+                                                            hitListHTML();
+
+                                                            jQuery('#invitePopup.modal input[name="friends_search"]').keyup(function(){ 
+                                                                var query = jQuery(this).val().split(" ");
+                                                                if (query.length) {
+                                                                    var matches = [];
+                                                                    for (var i=0; i<=query.length; i++) {
+                                                                        if (query[i] && query[i].length > 2) {
+                                                                            for (var n=0; n<friends.targets.length; n++) {
+                                                                                //console.log('matches for '+friends.targets[n].name+' against '+query[i]);                                                                                                                                
+                                                                                if (friends.targets[n].name.toLowerCase().match(query[i].toLowerCase()))
+                                                                                    matches.push(friends.targets[n]);
+                                                                            }
+                                                                        }
+                                                                    }
+
+                                                                    var rankMatches = [];
+                                                                    //basic search ranking - prioritize results appearing with highest frequency in array "matches"
+                                                                    for (var i=0; i<matches.length; i++) { 
+                                                                        if (i==0) {
+                                                                            rankMatches.push({ "friend" : matches[i], "count" : 1});
+                                                                        } else {
+                                                                            var tallied = false;
+                                                                            for (var n=0; n<rankMatches.length; n++) {
+                                                                                if (matches[i].id == rankMatches[n].friend.id) {
+                                                                                    rankMatches[n].count++;
+                                                                                    tallied = true;
+                                                                                }
+                                                                            }
+                                                                            if (!tallied)
+                                                                                rankMatches.push({ "friend" : matches[i], "count" : 1});
+                                                                        }
+                                                                    }
+                                                                    var ranked = rankMatches.deepSort("count", true);
+
+                                                                    var lim = (ranked.length > 5) ? 5 : ranked.length;   
+                                                                    jQuery('#invitePopup.modal ul.targets-list').empty();
+                                                                    for (var i=0; i<lim; i++) {
+                                                                        var f = friendsHTML(ranked[i].friend);
+                                                                        jQuery('#invitePopup.modal ul.targets-list').append(f.join(''));
+                                                                    }
+                                                                } else {
+                                                                    loadDefaultList(); 
+                                                                }
+
+                                                            }).focusout(function(){ 
+                                                                if (jQuery(this).val() == "")
+                                                                    loadDefaultList(); 
+                                                            });
+
+                                                            jQuery('#invitePopup.modal .send-invite').live('click',function(){                                                                
+                                                                var parent = jQuery(this).parents('li');
+                                                                var targetId = parent.attr('data-id');
+                                                                var message = parent.find('input[name="message"]').val();
+                                                                var getObj = {
+                                                                    'send_message' : encodeURIComponent(message),
+                                                                    'sender_id' : userId,
+                                                                    'recipient_id' : targetId
+                                                                };
+                                                                jQuery(this).parent('.message-box').html('<a class="wait">Sending</a>');
+                                                                jQuery.get('http://www.one.org/us/api/invite_facebook_friends/send_facebook_message', getObj, function(data){
+                                                                    removeTarget(parent, targetId, true);
+                                                                });
+                                                            });
+
+                                                            jQuery('#invitePopup.modal .friends-x').live('click', function(){
+                                                                var parent = jQuery(this).parents('li');
+                                                                var targetId = parent.attr('data-id');
+                                                                removeTarget(parent, targetId);
+                                                            });
+
+                                                        }
+                                                    });  
+                                                });
+                                            } else {
+                                                alert('Please authorize the ONE Facebook app to invite your friends and try again.');
+                                            }
+                                        });
+                                    } else {
+                                      alert('Please authorize the ONE Facebook app to invite your friends and try again.');
+                                    }
+                                    }, {scope:'xmpp_login'});
+                                });
+                                
+                                
+                                
+                                
 
                             });
                         }
@@ -129,6 +367,30 @@
             }());
         </script>
   <style>
+  /* Inside ONE additional styles */
+  div#footer-content div.menu-footer-sub-nav-menu-container #menu-footer-sub-nav-menu li.menu-item.item_6 {width: 87px;}
+  div#footer-content div.menu-footer-sub-nav-menu-container #menu-footer-sub-nav-menu li.menu-item.item_1000 {text-align:right;width:75px;}
+#about-us-landing p, #about-us-landing ul li {font-size: .96em;line-height: 1.74em;color: #3f3f3f;}
+  /* modal */
+  .modal {z-index: 10000;}/* makes it stack up above the horizontal main nav */
+  /* inputs on special shareworthy pages */
+#shareworthy-post input[type=submit], button {
+    font-size: 17px;
+    padding: 6px 15px;
+    text-transform: uppercase;}
+  /* background for new masthead */
+  #masthead-home .masthead-background {
+        background-image: url('https://s3.amazonaws.com/one.org/images/one_home_masthead_paintedlookv6x1920x1080.jpg');
+        height: 100%;
+        position: absolute;
+        width: 100%;
+}
+#masthead-home .masthead-content .masthead-headline h1 span {color:#000;}
+ /* ak styles */
+  #ak-errors, .ak-errors {color:red;background-color: none;font-weight: bold;margin-bottom: 10px;} input.ak-error {border-color:red;}
+  /* mobile vertical spacing fixes - decreases the height of scroll by >1700px */
+  @media only screen and (min-width : 320px) and (max-width : 568px){#top-text h1{font-size:20px;padding:23px 0;}#masthead-home .masthead-content .masthead-headline{padding-top:15px;padding-bottom:0;}#masthead-home .masthead-content .masthead-headline h1 span{font-size:25px;line-height:30px;}#masthead-home .masthead-content .masthead-logo-wrapper{padding-bottom:80px;padding-top:20px;}.arrow-down-wrapper{height:35px;}#responsibility{background-image:url(http://i.imgur.com/3nE7iYR.png);padding-bottom:65px;padding-top:150px;}#responsibility .headline{margin-bottom:25px;margin-top:105px;}#responsibility .homepage-text{margin-bottom:30px;}#responsibility .subheadline{margin-top:40px;}#one-billion .headline{margin-bottom:35px;}#one-billion .headline.lower p{margin-top:1.5em;}#answer{padding-bottom:50px;}#answer .headline{margin-bottom:42px;margin-top:50px;}#one-logo .headline.span8{margin-bottom:55px;margin-top:35px;}#homepage-carousel .homepage-text{margin-bottom:35px;margin-top:52px;}#homepage-carousel .sub-text{margin-bottom:35px;line-height:35px;}#homepage-carousel{padding-bottom:25px;}#voice .big-headline{margin-bottom:35px;margin-top:35px;}#join-now{padding-bottom:35px;}#join-now h1{margin-top:45px;margin-bottom:25px;}#justice,#voice{padding-bottom:40px;}#justice .headline,#one-logo .big-headline{margin-bottom:20px;margin-top:25px;}}
+  /* mobile fixes end here */
   /* h2 title style for policy and press archive pages */
   article h2.press-post-title,article h2.policy-post-title{font-weight:400;font-size:1.25em;line-height:1.35em;margin:0 0 1.15em;}article h2.press-post-title a,article h2.policy-post-title a{text-decoration:none;font-family:SupriaSans-Medium,Helvetica,Arial,sans-serif;}article h2.press-post-title a:link,article h2.press-post-title a:visited,article h2.policy-post-title a:link,article h2.policy-post-title a:visited{color:#000;}
   li.press-post, li.policy-post {margin-top:4em;}
@@ -194,7 +456,8 @@ Get the plugin at: http://www.g-loaded.eu/2006/01/05/add-meta-tags-wordpress-plu
           })();
 
         </script>
-            </head>
+                
+    </head>
     <body class="page page-id-301 page-template-default">
                 <script type="text/javascript">
             jQuery(function() {
@@ -212,10 +475,18 @@ Get the plugin at: http://www.g-loaded.eu/2006/01/05/add-meta-tags-wordpress-plu
               fjs.parentNode.insertBefore(js, fjs);
             }(document, 'script', 'facebook-jssdk'));
         </script>
-<!-- like splash box -->
-
+<!-- Modal --> 
+<div id="onegoatPopup" class="modal hide fade" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true" style="border:none;">
+  <div class="modal-header">
+    <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
+    <!-- <h3 id="myModalLabel"><a href="http://www.one.org/us/elizabeth-glaser/">Join the Fight.</a></h3> -->
+  </div>
+  <div class="modal-body">
+    <p><a href="https://donations.heifer.org/one-goat?msource=WOOCJ13OG0001"><img src="https://s3.amazonaws.com/one.org/images/heifer_ONE_lightbox_adjusted_20131023_1.png" alt=""></a></p>
+  </div>
+</div> 
         <header id="site-header">
-            <div class="container">
+            <div class="container wrap">
                 <div class="row">
                     <nav id="home-menu" class="span2">
                         <div class="menu-home-menu-container"><ul id="menu-home-menu" class="menu"><li id="menu-item-710" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-710"><a title="Home" href="http://www.one.org/us/">Home</a></li>
@@ -282,8 +553,8 @@ Get the plugin at: http://www.g-loaded.eu/2006/01/05/add-meta-tags-wordpress-plu
                                 <span class="text text-hide">Hide Menu</span>
                             </a>
                         </div>
-                        <div class="menu-header-menu-main-nav-container"><ul id="menu-header-menu-main-nav" class="menu"><li id="menu-item-649" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-649"><a title="About Us" href="http://www.one.org/us/">About Us</a></li>
-<li id="menu-item-69222" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-69222"><a title="Take Action" href="http://www.one.org/us/food/">Take Action</a></li>
+                        <div class="menu-header-menu-main-nav-container"><ul id="menu-header-menu-main-nav" class="menu"><li id="menu-item-74410" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-74410"><a title="About ONE" href="http://www.one.org/us/inside-one/">About</a></li>
+<li id="menu-item-75467" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-75467"><a title="Take Action" href="http://www.one.org/us/transparency/">Take Action</a></li>
 <li id="menu-item-674" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-674"><a title="Stories" href="http://www.one.org/us/stories/top-stories/">Stories</a></li>
 </ul></div>                    </nav>
                 </div>
@@ -345,13 +616,13 @@ Get the plugin at: http://www.g-loaded.eu/2006/01/05/add-meta-tags-wordpress-plu
                     <div id="footer-stats">
                         <ul>
                             <li class="lg">
-                                <p><span class="num">3,332,119</span>Global Members</p>
+                                <p><span class="num">3,797,550</span>Global Members</p>
                             </li>
                             <li class="md">
                                 <p><span class="num">60<sub>M</sub></span>Petition Signatures</p>
                             </li>
                             <li class="sm">
-                                <p><span class="num">187</span>Countries</p>
+                                <p><span class="num">190</span>Countries</p>
                             </li>
                         </ul>
                     </div>
@@ -363,13 +634,13 @@ Get the plugin at: http://www.g-loaded.eu/2006/01/05/add-meta-tags-wordpress-plu
                 
         
                         <li class="inside-one-nav-head">
-                <h6 class="item_1"><a href="http://www.one.org/us/inside-one/"><span class="text">Inside ONE</span><span class="arrow"> </span></a></h6>
+                <h6 class="item_1"><a href="http://www.one.org/us/inside-one/"><span class="text">About ONE</span><span class="arrow"> </span></a></h6>
             </li>
             
         
             
             <li id="menu-item-695" class="menu-item item_2">
-                <a href="http://www.one.org/us/inside-one/policy/">Issues</a>
+                <a href="http://www.one.org/us/inside-one/policy/">Policy</a>
             </li>
 
             
@@ -401,7 +672,10 @@ Get the plugin at: http://www.g-loaded.eu/2006/01/05/add-meta-tags-wordpress-plu
             </li>
 
             
-        
+                    <li id="menu-item-10000" class="menu-item item_1000">
+                <a href="http://campus.one.org/">Campus</a>
+            </li>
+
     
     </ul>
 </div>
@@ -413,48 +687,28 @@ Get the plugin at: http://www.g-loaded.eu/2006/01/05/add-meta-tags-wordpress-plu
                         </form>
                     </div>
                     <div id="footer-site-nav">
-                       <div class="menu-footer-main-nav-menu-container"><ul id="menu-footer-main-nav-menu" class="menu"><li id="menu-item-309" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-309"><a title="Sitemap" href="http://www.one.org/us/sitemap/">Sitemap</a></li>
-<li id="menu-item-307" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-301 current_page_item menu-item-307"><a title="Privacy" href="http://www.one.org/us/privacy/">Privacy</a></li>
+                       <div class="menu-footer-main-nav-menu-container"><ul id="menu-footer-main-nav-menu" class="menu"><li id="menu-item-307" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-301 current_page_item menu-item-307"><a title="Privacy" href="http://www.one.org/us/privacy/">Privacy</a></li>
 <li id="menu-item-1041" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1041"><a href="http://www.one.org/us/contact/">Contact Us</a></li>
-<li id="menu-item-1067" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1067"><a href="http://www.one.org/us/unsubscribe/">Unsubscribe</a></li>
+<li id="menu-item-70280" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-70280"><a href="http://one.actionkit.com/unsubscribe/unsubscribe_us">Unsubscribe</a></li>
 </ul></div>                    </div>
                     <div id="footer-social-links" class="one-social-links">
                         <ul>
-                            <li>Connect with us</li>
-                            <li>
-                                <a href="https://www.facebook.com/ONE" target="_blank" class="facebook">
-                                    <span class="icon"> </span>
-                                </a>
-                            </li>
-                            <li>
-                                <a href="http://twitter.com/onecampaign" target="_blank" class="twitter">
-                                    <span class="icon"> </span>
-                                </a>
-                            </li>
-                            <li>
-                                <a href="http://www.linkedin.com/groups/ONE-Campaign-47730" target="_blank" class="linkedin">
-                                    <span class="icon"> </span>
-                                </a>
-                            </li>
-                            <li>
-                                <a href="http://pinterest.com/onecampaign/" target="_blank" class="pinterest">
-                                    <span class="icon"> </span>
-                                </a>
-                            </li>
-                            <li>
-                                <a href="http://plus.google.com/u/0/+ONE/posts" target="_blank" class="googleplus">
-                                    <span class="icon"> </span>
-                                </a>
-                            </li>
-                        </ul>
+                            <li>Connect with us on FlipBoard</li>
+                            <li><style>.fl-w- { display: inline-block; } .fl-w- img { visibility: hidden; } 
+.fl-w-30 { width: 30px; height: 30px; background: url(//cdn.flipboard.com/web/widget/img/fl-widget-sprite-30.png) no-repeat 0 0;padding-bottom: 17px;margin-top: -7px; }
+.fl-w-:hover { background-position: 0 -30px; } .fl-w-:active { background-position: 0 -60px; }
+@media only screen and (-webkit-min-device-pixel-ratio: 2), only screen and (min--moz-device-pixel-ratio: 2), only screen and (min-device-pixel-ratio: 2), only screen and (min-resolution: 192dpi), only screen and (min-resolution: 2dppx) {
+.fl-w-30 { background-image: url(//cdn.flipboard.com/web/widget/img/fl-widget-sprite-30@2x.png); background-size: 30px 90px; }
+} </style><a href="http://flip.it/onecampaign" class="fl-w- fl-w-30" onclick="_gaq.push(['_trackEvent', 'flipboard', 'flipboard-btn-footer', 'FlipBoard button click']);"><img src="//cdn.flipboard.com/web/widget/img/fl-widget-30.png" alt="Flipboard"></a></li>
+                                                    </ul>
                     </div>
                 </div>
             </div>
         </footer>
-         <p id="b-top" style="display:none;">
+        <p id="b-top" style="display:none;">
             <a class="linkTopBtn" href="#top"><span></span></a>
         </p>
-                        <script>var socialBoxWrapClosed=false;$(document).ready(function(){$(window).scroll(function(){if($(this).scrollTop()>1500){$('#b-top').fadeIn()}else{$('#b-top').fadeOut()}if($(this).scrollTop()>50&!socialBoxWrapClosed){$('#socialBoxWrap').fadeIn()}});$('#b-top a').click(function(){$('body,html').animate({scrollTop:0},800);return false})});$("#socialBoxWrap span.close-b a").click(function(e){e.preventDefault();console.log("box close...");$('#socialBoxWrap').hide();socialBoxWrapClosed=true});</script><script type="text/javascript">$(function(){var COOKIE_NAME='spone';$go=$.cookie(COOKIE_NAME);if($go==null){$.cookie(COOKIE_NAME,'kone',{path:'/'});$('#bonoPopup').modal('show');}else{}});$(function(){});$(function(){var count=20;countdown=setInterval(function(){$("p.countdown").html("");if(count==0){$('#likePopup').modal('hide');clearInterval(countdown)}count--},1000)});</script>
+                                <script>var socialBoxWrapClosed=false;$(document).ready(function(){$(window).scroll(function(){if($(this).scrollTop()>1500){$('#b-top').fadeIn()}else{$('#b-top').fadeOut()}if($(this).scrollTop()>50&!socialBoxWrapClosed){$('#socialBoxWrap').fadeIn()}});$('#b-top a').click(function(){$('body,html').animate({scrollTop:0},800);return false})});$("#socialBoxWrap span.close-b a").click(function(e){e.preventDefault();console.log("box close...");$('#socialBoxWrap').hide();socialBoxWrapClosed=true});</script><script type="text/javascript">$(function(){var COOKIE_NAME='ogone';$go=$.cookie(COOKIE_NAME);if($go==null){$.cookie(COOKIE_NAME,'onegtone',{path:'/'});$('#onegoatPopup').modal('show');}else{}}); $(function(){});$(function(){var count=20;countdown=setInterval(function(){$("p.countdown").html("");if(count==0){$('#likePopup').modal('hide');clearInterval(countdown)}count--},1000)});</script>
         <script type="text/javascript">
         $(function(){});$(function(){var count=20;countdown=setInterval(function(){$("p.countdown").html("");if(count==0){$('#likePopup').modal('hide');clearInterval(countdown)}count--;},1000)});
         </script>
@@ -463,6 +717,36 @@ Get the plugin at: http://www.g-loaded.eu/2006/01/05/add-meta-tags-wordpress-plu
             var b=document.getElementsByTagName("script")[0];
             a.src=document.location.protocol+"//dnn506yrbagrg.cloudfront.net/pages/scripts/0011/3942.js?"+Math.floor(new Date().getTime()/3600000);
             a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
+        </script>
+        <script type="text/javascript">
+            if (typeof jQuery != 'undefined') {
+                jQuery(document).ready(function($) {
+                   var filetypes = /\.(zip|exe|pdf|mobi|epub|azw|doc*|xls*|ppt*|mp3)$/i;
+                    var baseHref = '';
+                    if (jQuery('base').attr('href') != undefined)
+                        baseHref = jQuery('base').attr('href');
+                    jQuery('a').each(function() {
+                        var href = jQuery(this).attr('href');
+                        if (href && href.match(/^mailto\:/i)) {
+                            jQuery(this).click(function() {
+                                var mailLink = href.replace(/^mailto\:/i, '');
+                                _gaq.push(['_trackEvent', 'Email', 'Click', mailLink]);
+                            });
+                        }
+                        else if (href && href.match(filetypes)) {
+                            jQuery(this).click(function() {
+                                var extension = (/[.]/.exec(href)) ? /[^.]+$/.exec(href) : undefined;
+                                var filePath = href;
+                                _gaq.push(['_trackEvent', 'Download', 'Click-' + extension, filePath]);
+                                if (jQuery(this).attr('target') != undefined && jQuery(this).attr('target').toLowerCase() != '_blank') {
+                                    setTimeout(function() { location.href = baseHref + href; }, 200);
+                                    return false;
+                                }
+                            });
+                        }
+                    });
+                });
+            }
         </script>
     
 
