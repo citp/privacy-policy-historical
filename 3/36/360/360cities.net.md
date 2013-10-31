@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 360cities.net privacy policy that was archived on 2013-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130610093332id_/http%3A//www.360cities.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 360cities.net privacy policy that was archived on 2013-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131031202033id_/http%3A//www.360cities.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -10,7 +10,8 @@ We may collect, store and use the following kinds of personal data:
 
   * 1\. information about your computer and about your visits to and use of this website (including your IP address, geographical location, browser type, referral source, length of visit, number of page views and searches you make);
   * 2\. information relating to any transactions carried out in this website, or in relation to this website, including information relating to any purchases or requests you make of third party's goods or services using this website; and
-  * 3\. any other information that you choose to send to us.
+  * 3\. location data used to assign a location to images created by users of 360Cities mobile apps, and to display nearby images. Users can disable location services in the mobile app settings.
+  * 4\. any other information that you choose to send to us.
 
 
 
@@ -105,7 +106,11 @@ The website contains links to other websites, and, upon your request, transmit y
 
 Please let us know if the personal information which we hold about you needs to be corrected or updated. 
 
-##  (11) Contact 
+##  (11) Editing your account 
+
+You can edit your 360Cities account, information and preferences at any time. New categories of marketing communications might be added to the preferences page from time to time. You can delete your 360Cities account at any time. 
+
+##  (12) Contact 
 
 If you have any questions about this privacy policy or our treatment of your personal data, please write to us by email to info@360cities.com. 
 
