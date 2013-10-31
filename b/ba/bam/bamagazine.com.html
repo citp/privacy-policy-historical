@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the bamagazine.com privacy policy that was archived on 2013-05-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130514191745id_/http%3A//www.bamagazine.com/Privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bamagazine.com privacy policy that was archived on 2013-10-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131031044536id_/http%3A//www.bamagazine.com/privacy) for the most accurate reproduction.-->
 
 <html><head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
@@ -13,6 +13,7 @@
 <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
 <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jqueryui/1.8.4/jquery-ui.min.js"></script>
 <link type="text/css" href="//ajax.googleapis.com/ajax/libs/jqueryui/1.8.4/themes/base/jquery-ui.css" rel="stylesheet">
+<link type="text/css" href="/a/c/default.css" rel="stylesheet">
 
 
 <script type="text/javascript">
@@ -28,7 +29,30 @@
     var PageText_843 = "Subtotal";
     var PageText_844 = "items in cart";
 </script>
+<script type="text/javascript" src="/a/j/volusion.js?currentBuild"></script>
+<script type="text/javascript">
+    (function ($) {
+        volusion.ready(function () {
+            if (volusion.cart.isObservingCount()) {
+                var ts = new Date().getTime();
 
+                $.getJSON('/ajaxcart.asp?cachebust=' + ts, function (data) {
+                    var quantityTotal = 0;
+                    $.each(data.Products, function (key, val) {
+                        if (val.IsProduct === 'Y') {
+                            quantityTotal += parseInt(val.Quantity);
+                        } else if (val.IsAccessory === 'Y') {
+                            quantityTotal += parseInt(val.Quantity);
+                        }
+                    });
+                    quantityTotal = quantityTotal || '0';
+                    volusion.cart.itemCount(quantityTotal);
+                });
+
+            }
+        });
+    } (jQuery));
+</script>
 <script type="text/javascript" src="/a/j/javascripts.js?6_5_currentBuild"></script>
 
 <script type="text/javascript">
@@ -75,14 +99,7 @@ googletag.enableServices();
 
 <div id="mainwrap">
 		<div id="masthead">
-<div id="ad" style="text-align: center; height: 102px; margin-left: 60px;">
-<!-- BAHeaderBanner_Top_728x90 -->
-<div id="div-gpt-ad-1350344149047-0" style="width:728px; height:90px;">
-<script type="text/javascript">
-googletag.cmd.push(function() { googletag.display('div-gpt-ad-1350344149047-0'); });
-</script>
-</div>
-</div><!--end ad-->	
+
 
 <div id="header">
 			<a href="http://www.bamagazine.com/"><img src="/v/vspfiles/assets/images/covermedia/ba_logoHR.gif" height="138" width="531" alt="" border="0"></a><a id="Top" name="Top"></a></div>
@@ -90,13 +107,14 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1350344149047-0');
 	<ul id="listmenu">
 	 <li><a href="/myaccount.asp">Sign in</a> | <a href="/Subscribe/">Subscribe</a></li>
 	<li id="navspace">
-<a href="http://www.bamagazine.com">Home</a></li>
+<a href="/articles/">PDF articles</a></li>
 <li><a href="/PDFissues/">PDF issues</a></li>
 <li><a href="/Issues/">Print issues</a></li>
 <li><a href="/bundles/">Bundles</a></li>
-	 <li><a href="/videos/">Videos</a></li>
+	 <li><a href="/videodvds/">Videos</a></li>
+<li><a href="/videos/">Free stuff</a></li>
 	 <li><a href="/elist/">Join our e-list</a></li>
-	 <li><a href="/FAQs/">FAQ</a></li>
+ <li><a href="/FAQs/">FAQ</a></li>
 <li><a href="/Letters/">Fan mail</a></li>
 	 <li><a href="/BAContact/">Contact us</a></li>
 	</ul>
@@ -158,12 +176,78 @@ function addbookmark()
 }
 //--> 
 </script>
-
 	<div id="footer">
-	© 2013 Before &amp; After | <a href="/Subscribe/">Subscribe</a> | <a href="/BAContact/">Contact us</a> | <a href="/FAQs/">FAQs</a> | <a href="/Privacy/">Privacy</a>| <a href="/ShoppingCart.asp">View cart</a><br>
-	<span class="small-text">Volusion <a href="http://www.volusion.com" target="_blank">Shopping Cart</a> and <a href="http://www.volusion.com/ecommerce/web-hosting.asp">Hosting</a></span>
 	</div><!--end footer-->
-</div><!--end mainwrap-->
+</div></div><!--end mainwrap-->
+<div id="footer_background">
+<div id="footer_content">
+<ul class="products1">
+<li><strong>Products</strong></li>
+<li><a href="/BuyingGuide/">Buying guide</a></li>
+<li><a href="/mastercollectionDVD/">Master Collection</a></li>
+<li><a href="/articles/">PDF articles</a></li>
+<li><a href="/PDFissues/">PDF issues</a></li>
+<li><a href="/bundles/">PDF bundles</a></li>
+</ul>
+
+<ul class="products2">
+<li><a href="/Issues/">Print issues</a></li>
+<li><a href="/TheGrid/">The Grid</a></li>
+<li><a href="/Books/">Books</a></li>
+<li><a href="/videodvds/">Videos</a></li>
+<li><a href="/videos/">Free stuff</a></li>
+<li><a href="/ShoppingCart.asp">View cart</a></li>
+</ul>
+
+<ul class="legal">
+<li><strong>Legal</strong></li>
+<li><a href="/privacy/">Privacy</a></li>
+<li><a href="http://www.bamagazine.com/terms.asp">Terms</a></li>
+</ul>
+
+<ul class="social">
+<li><strong>Social</strong></li>
+<li><a href="/DesignTalk/">Design Talk</a></li>
+<li><a href="/Letters/">Fan mail</a></li>
+<li><a href="/BAContact/">Contact us</a></li>
+<li><a href="/FAQs/">FAQs</a></li>
+</ul>
+
+<ul class="socialmedia2">
+
+<li><a href="http://www.youtube.com/user/bamagazine" title="Before &amp; After's YouTube channel" target="blank"><img src="/v/vspfiles/assets/images/covermedia/youtube32x32.png"></a></li>
+
+<li><a href="http://itunes.apple.com/us/podcast/before-after-how-to-design/id402514872" title="Before &amp; After's Podcast listing" target="blank"><img src="/v/vspfiles/assets/images/covermedia/podcast32x32.png"></a></li>
+
+<li><a href="http://www.facebook.com/pages/Before-After-magazine/83669057302" title="Like Before &amp; After's facebook page" target="blank"><img src="/v/vspfiles/assets/images/covermedia/facebook32x32.png"></a></li>
+
+<li><a href="http://www.twitter.com/bamagazine" title="Follow Before &amp; After at twitter" target="blank"><img src="/v/vspfiles/assets/images/covermedia/twitter32x32.png"></a></li>
+
+</ul>
+
+<div id="freeupdate2">
+<form method="post" action="http://i.ms00.net/subscribe">
+<p><strong>Free updates!</strong><br>
+Keep up with new announcements</p> 
+          <input type="text" size="26" name="email_address" style="font-family: Verdana; font-size: 12px; color: gray; margin-top: 9px;" value="E-mail address" onfocus="if (this.value == 'E-mail address') {this.value = '';}" onblur="if (this.value == '') {this.value = 'E-mail address';}"><br> 
+          <input type="submit" name="server_action:subscribe" value="Submit" style="font-family: Verdana; font-size: 11px; margin-top: 9px; ">
+
+<input type="hidden" name="list" value="b4after">
+<input type="hidden" name="msgid" value="_MSGID_">
+<input type="hidden" name="template" value="bamagazine">
+<input type="hidden" name="redirect" value="http://www.bamagazine.com/thanx2.asp">
+<input type="hidden" name="sublist" value="20">
+<input type="hidden" name="old_address">
+<input type="hidden" name="text" value="Sign up for our email newsletter!">
+<input type="hidden" name="font" value="1">
+<input type="hidden" name="border" value="1">
+<input type="hidden" name="align_in_table" value="1">
+<input type="hidden" name="subscribe_button_name" value="Join">  
+</form>
+</div><!--end freeupdate2-->
+</div><!--end footer_content-->
+<p class="copyright">© 2013 Before &amp; After<br>
+<span class="small-text">Volusion <a href="http://www.volusion.com" target="_blank">Shopping Cart</a> and <a href="http://www.volusion.com/ecommerce/web-hosting.asp">Hosting</a></span></p>
 
 <script type="text/javascript" src="https://dnn506yrbagrg.cloudfront.net/pages/scripts/0006/1230.js"> </script>
 <script type="text/javascript">
