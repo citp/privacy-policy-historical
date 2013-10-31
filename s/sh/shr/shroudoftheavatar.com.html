@@ -1,8 +1,8 @@
-<!--The following is the downloaded HTML source of the shroudoftheavatar.com privacy policy that was archived on 2013-05-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130507123832id_/http%3A//www.portalarium.com/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D114%26Itemid%3D498) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the shroudoftheavatar.com privacy policy that was archived on 2013-10-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131031235545id_/http%3A//www.portalarium.com/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D114%26Itemid%3D498) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-gb" lang="en-gb"><head>
-  <base href="http://www.portalarium.com/index.php">
+  <base href="https://www.portalarium.com/index.php">
   <meta http-equiv="content-type" content="text/html; charset=utf-8">
   <meta name="robots" content="index, follow">
   <meta name="keywords" content="portalarium, facebook games, social games, social network, facebook, poker, rpg, ultimate rpg, ultima, richard garriot, video game, console, pc mac, free games, port casino, ultimate collector, garage sale">
@@ -11,8 +11,8 @@
   <link href="/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon">
   <link rel="stylesheet" href="/plugins/system/modalizer/modals/lytebox/lytebox.css" type="text/css">
   <link rel="stylesheet" href="/plugins/system/modalizer/modals/lytebox/styles/black/style.css" type="text/css">
-  <link rel="stylesheet" href="http://www.portalarium.com/modules/mod_maximenu_CK/themes/default/css/moo_maximenuH_CK.css" type="text/css">
-  <link rel="stylesheet" href="http://www.portalarium.com/modules/mod_maximenu_CK/themes/default/css/maximenuH_CK.php?monid=maximenuCK" type="text/css">
+  <link rel="stylesheet" href="https://www.portalarium.com/modules/mod_maximenu_CK/themes/default/css/moo_maximenuH_CK.css" type="text/css">
+  <link rel="stylesheet" href="https://www.portalarium.com/modules/mod_maximenu_CK/themes/default/css/maximenuH_CK.php?monid=maximenuCK" type="text/css">
   <style type="text/css">
 
   </style>
@@ -21,8 +21,8 @@
   <script src="/media/system/js/caption.js" type="text/javascript"></script>
   <script src="/plugins/system/modalizer/modals/lytebox/lytebox.js" type="text/javascript"></script>
   <script src="/media/system/js/mootools-more.js" type="text/javascript"></script>
-  <script src="http://www.portalarium.com/modules/mod_maximenu_CK/assets/moo_maximenu_CK.js" type="text/javascript"></script>
-  <script src="http://www.portalarium.com/modules/mod_maximenu_CK/themes/default/js/maximenu_addon_CK.js" type="text/javascript"></script>
+  <script src="https://www.portalarium.com/modules/mod_maximenu_CK/assets/moo_maximenu_CK.js" type="text/javascript"></script>
+  <script src="https://www.portalarium.com/modules/mod_maximenu_CK/themes/default/js/maximenu_addon_CK.js" type="text/javascript"></script>
   <script type="text/javascript">
 
 			if (window.addEventListener) {
@@ -70,55 +70,55 @@ img, div, a, input { behavior: url(/templates/portalarium/iepngfix.htc) }
 <meta name="description" content="Portalarium, Inc. develops and publishes social games, virtual worlds and related services and products.">
 <script>
 
-$(document).ready(function() {  
+$(document).ready(function() {	
 
-  //select all the a tag with name equal to modal
-  $('a[name=modal]').click(function(e) {
-    //Cancel the link behavior
-    e.preventDefault();
-    
-    //Get the A tag
-    var id = $(this).attr('href');
-  
-    //Get the screen height and width
-    var maskHeight = $(document).height();
-    var maskWidth = $(window).width();
-  
-    //Set heigth and width to mask to fill up the whole screen
-    $('#mask').css({'width':maskWidth,'height':maskHeight});
-    
-    //transition effect    
-    $('#mask').fadeIn(700);  
-    $('#mask').fadeTo("slow",0.2);  
-  
-    //Get the window height and width
-    var winH = $(window).height();
-    var winW = $(window).width();
+	//select all the a tag with name equal to modal
+	$('a[name=modal]').click(function(e) {
+		//Cancel the link behavior
+		e.preventDefault();
+		
+		//Get the A tag
+		var id = $(this).attr('href');
+	
+		//Get the screen height and width
+		var maskHeight = $(document).height();
+		var maskWidth = $(window).width();
+	
+		//Set heigth and width to mask to fill up the whole screen
+		$('#mask').css({'width':maskWidth,'height':maskHeight});
+		
+		//transition effect		
+		$('#mask').fadeIn(700);	
+		$('#mask').fadeTo("slow",0.2);	
+	
+		//Get the window height and width
+		var winH = $(window).height();
+		var winW = $(window).width();
               
-    //Set the popup window to center
-    $(id).css('top',  winH/2-$(id).height()/2);
-    $(id).css('left', winW/2-$(id).width()/2);
-  
-    //transition effect
-    $(id).fadeIn(600); 
-  
-  });
-  
-  //if close button is clicked
-  $('.window .close').click(function (e) {
-    //Cancel the link behavior
-    e.preventDefault();
-    
-    $('#mask').hide();
-    $('.window').hide();
-  });    
-  
-  //if mask is clicked
-  $('#mask').click(function () {
-    $(this).hide();
-    $('.window').hide();
-  });      
-  
+		//Set the popup window to center
+		$(id).css('top',  winH/2-$(id).height()/2);
+		$(id).css('left', winW/2-$(id).width()/2);
+	
+		//transition effect
+		$(id).fadeIn(600); 
+	
+	});
+	
+	//if close button is clicked
+	$('.window .close').click(function (e) {
+		//Cancel the link behavior
+		e.preventDefault();
+		
+		$('#mask').hide();
+		$('.window').hide();
+	});		
+	
+	//if mask is clicked
+	$('#mask').click(function () {
+		$(this).hide();
+		$('.window').hide();
+	});			
+	
 });
 
 </script>
@@ -133,25 +133,17 @@ $(document).ready(function() {
 
  <div id="header" class="gainlayout">   
       <div id="logo" class="gainlayout">
-         <a href="http://www.portalarium.com/" title="PORTALARIUM"><img src="http://www.portalarium.com/templates/portalarium/images/portlogo.png" alt="Portalarium" hspace="10" vspace="10"></a>
+         <a href="https://www.portalarium.com/" title="PORTALARIUM"><img src="/templates/portalarium/images/portlogo.png" alt="Portalarium" hspace="10" vspace="10"></a>
       </div>
-    <div id="headerright" class="gainlayout">
-          <div id="topmenu" class="gainlayout">
-        		<div class="moduletable">
+	  <div id="headerright" class="gainlayout">
+					<div id="topmenu" class="gainlayout">
+						<div class="moduletable">
 					<h3>TopNav</h3>
-					
-<!-- debut maximenu_CK, par cedric keiflin sur http://www.joomlack.fr -->
-
-
+					<!-- debut maximenu_CK, par cedric keiflin sur http://www.joomlack.fr -->
         <div class="maximenuCKH" id="maximenuCK" style="z-index:10;">
-
-
         <div class="maxiRoundedleft"></div>
-
         <div class="maxiRoundedcenter">
-
             <ul class="menu maximenuCK" style="">
-
 <li class="maximenuCK first item464 level0 " style="z-index : 12000;"><a class="maximenuCK " href="/" title=""><span class="titreCK">Home</span></a>
 		</li>
 <li class="maximenuCK first item465 parent level0 " style="z-index : 11999;"><a class="maximenuCK " href="/index.php/about" title=""><span class="titreCK">About</span></a>
@@ -160,83 +152,69 @@ $(document).ready(function() {
 		</li>
 <li class="maximenuCK item467 level1 " style="z-index : 11997;"><a class="maximenuCK " href="/index.php/about/management" title=""><span class="titreCK">Management</span></a>
 		</li>
-<li class="maximenuCK item468 level1 " style="z-index : 11996;"><a class="maximenuCK " href="/index.php/about/defined" title=""><span class="titreCK">Portalarium Defined</span></a>
-		</li>
-<li class="maximenuCK item469 level1 " style="z-index : 11995;"><a class="maximenuCK " href="/index.php/about/culture" title=""><span class="titreCK">Company Culture</span></a>
-		</li>
-<li class="maximenuCK item470 last level1 " style="z-index : 11994;"><a class="maximenuCK " href="/index.php/about/vision" title=""><span class="titreCK">The Grand Vision</span></a>
+<li class="maximenuCK item469 last level1 " style="z-index : 11996;"><a class="maximenuCK " href="/index.php/about/culture" title=""><span class="titreCK">Company Culture</span></a>
 	</li>
 	</ul>
 	<div class="clr"></div></div><div class="clr"></div></div></div><div class="maxidrop-bottom"><div class="maxidrop-bottom2"></div></div></div>
-	</li><li class="maximenuCK item471 parent level0 " style="z-index : 11993;"><a class="maximenuCK " href="/index.php/products" title=""><span class="titreCK">Products</span></a>
+	</li><li class="maximenuCK item471 parent level0 " style="z-index : 11995;"><a class="maximenuCK " href="/index.php/products" title=""><span class="titreCK">Products</span></a>
 	<div class="floatCK"><div class="maxidrop-top"><div class="maxidrop-top2"></div></div><div class="maxidrop-main"><div class="maxidrop-main2"><div class="maximenuCK2 first ">
-	<ul class="maximenuCK2"><li class="maximenuCK first item476 level1 " style="z-index : 11992;"><a class="maximenuCK " href="/index.php/products/products" title=""><span class="titreCK">Product Overview</span></a>
+	<ul class="maximenuCK2"><li class="maximenuCK first item476 level1 " style="z-index : 11994;"><a class="maximenuCK " href="/index.php/products/products" title=""><span class="titreCK">Product Overview</span></a>
 		</li>
-<li class="maximenuCK item472 level1 " style="z-index : 11991;"><a class="maximenuCK " href="/index.php/products/port-casino-poker" title=""><span class="titreCK">Port Casino Poker</span></a>
+<li class="maximenuCK item472 level1 " style="z-index : 11993;"><a class="maximenuCK " href="/index.php/products/port-casino-poker" title=""><span class="titreCK">Port Casino Poker</span></a>
 		</li>
-<li class="maximenuCK item473 level1 " style="z-index : 11990;"><a class="maximenuCK " href="/index.php/products/port-casino-blackjack" title=""><span class="titreCK">Port Casino Blackjack</span></a>
-		</li>
-<li class="maximenuCK item475 last level1 " style="z-index : 11989;"><a class="maximenuCK " href="/index.php/products/ultimate-rpg" title=""><span class="titreCK">Shroud of the Avatar</span></a>
+<li class="maximenuCK item475 last level1 " style="z-index : 11992;"><a class="maximenuCK " href="/index.php/products/ultimate-rpg" title=""><span class="titreCK">Shroud of the Avatar</span></a>
 	</li>
 	</ul>
 	<div class="clr"></div></div><div class="clr"></div></div></div><div class="maxidrop-bottom"><div class="maxidrop-bottom2"></div></div></div>
-	</li><li class="maximenuCK item488 parent level0 " style="z-index : 11988;"><a class="maximenuCK " href="/index.php/2011-11-12-08-56-35" title=""><span class="titreCK">News</span></a>
+	</li><li class="maximenuCK item488 parent level0 " style="z-index : 11991;"><a class="maximenuCK " href="/index.php/2011-11-12-08-56-35" title=""><span class="titreCK">News</span></a>
 	<div class="floatCK"><div class="maxidrop-top"><div class="maxidrop-top2"></div></div><div class="maxidrop-main"><div class="maxidrop-main2"><div class="maximenuCK2 first ">
-	<ul class="maximenuCK2"><li class="maximenuCK first item514 level1 " style="z-index : 11987;"><a class="maximenuCK " href="/index.php/2011-11-12-08-56-35/media" title=""><span class="titreCK">Media</span></a>
+	<ul class="maximenuCK2"><li class="maximenuCK first item514 level1 " style="z-index : 11990;"><a class="maximenuCK " href="/index.php/2011-11-12-08-56-35/media" title=""><span class="titreCK">Media</span></a>
 		</li>
-<li class="maximenuCK item531 level1 " style="z-index : 11986;"><a class="maximenuCK " href="/index.php/2011-11-12-08-56-35/announcements" title=""><span class="titreCK">Announcements</span></a>
+<li class="maximenuCK item531 level1 " style="z-index : 11989;"><a class="maximenuCK " href="/index.php/2011-11-12-08-56-35/announcements" title=""><span class="titreCK">Announcements</span></a>
 		</li>
-<li class="maximenuCK item532 last level1 " style="z-index : 11985;"><a class="maximenuCK " href="/index.php/2011-11-12-08-56-35/pr" title=""><span class="titreCK">Press Releases</span></a>
+<li class="maximenuCK item532 last level1 " style="z-index : 11988;"><a class="maximenuCK " href="/index.php/2011-11-12-08-56-35/pr" title=""><span class="titreCK">Press Releases</span></a>
 	</li>
 	</ul>
 	<div class="clr"></div></div><div class="clr"></div></div></div><div class="maxidrop-bottom"><div class="maxidrop-bottom2"></div></div></div>
-	</li><li class="maximenuCK item489 parent level0 " style="z-index : 11984;"><a class="maximenuCK " href="/index.php/opportunities" title=""><span class="titreCK">Opportunities</span></a>
+	</li><li class="maximenuCK item489 parent level0 " style="z-index : 11987;"><a class="maximenuCK " href="/index.php/opportunities" title=""><span class="titreCK">Opportunities</span></a>
 	<div class="floatCK"><div class="maxidrop-top"><div class="maxidrop-top2"></div></div><div class="maxidrop-main"><div class="maxidrop-main2"><div class="maximenuCK2 first ">
-	<ul class="maximenuCK2"><li class="maximenuCK first item490 level1 " style="z-index : 11983;"><a class="maximenuCK " href="/index.php/opportunities/jobs" title=""><span class="titreCK">Jobs/Individuals</span></a>
+	<ul class="maximenuCK2"><li class="maximenuCK first item490 level1 " style="z-index : 11986;"><a class="maximenuCK " href="/index.php/opportunities/jobs" title=""><span class="titreCK">Jobs/Individuals</span></a>
 		</li>
-<li class="maximenuCK item491 level1 " style="z-index : 11982;"><a class="maximenuCK " href="/index.php/opportunities/publishing" title=""><span class="titreCK">Studios/Publishing</span></a>
+<li class="maximenuCK item491 level1 " style="z-index : 11985;"><a class="maximenuCK " href="/index.php/opportunities/publishing" title=""><span class="titreCK">Studios/Publishing</span></a>
 		</li>
-<li class="maximenuCK item492 level1 " style="z-index : 11981;"><a class="maximenuCK " href="/index.php/opportunities/partners" title=""><span class="titreCK">Strategic Partners</span></a>
+<li class="maximenuCK item492 level1 " style="z-index : 11984;"><a class="maximenuCK " href="/index.php/opportunities/partners" title=""><span class="titreCK">Strategic Partners</span></a>
 		</li>
-<li class="maximenuCK item493 last level1 " style="z-index : 11980;"><a class="maximenuCK " href="/index.php/opportunities/investors" title=""><span class="titreCK">Investors</span></a>
+<li class="maximenuCK item493 last level1 " style="z-index : 11983;"><a class="maximenuCK " href="/index.php/opportunities/investors" title=""><span class="titreCK">Investors</span></a>
 	</li>
 	</ul>
 	<div class="clr"></div></div><div class="clr"></div></div></div><div class="maxidrop-bottom"><div class="maxidrop-bottom2"></div></div></div>
-	</li><li class="maximenuCK item498 current active parent level0 " style="z-index : 11979;"><a class="maximenuCK " href="/index.php/contact" title=""><span class="titreCK">Contact</span></a>
+	</li><li class="maximenuCK item498 current active parent level0 " style="z-index : 11982;"><a class="maximenuCK " href="/index.php/contact" title=""><span class="titreCK">Contact</span></a>
 	<div class="floatCK"><div class="maxidrop-top"><div class="maxidrop-top2"></div></div><div class="maxidrop-main"><div class="maxidrop-main2"><div class="maximenuCK2 first ">
-	<ul class="maximenuCK2"><li class="maximenuCK first item499 level1 " style="z-index : 11978;"><a class="maximenuCK " href="/index.php/contact/customer-service" title=""><span class="titreCK">Customer Service</span></a>
+	<ul class="maximenuCK2"><li class="maximenuCK first item499 level1 " style="z-index : 11981;"><a class="maximenuCK " href="/index.php/contact/customer-service" title=""><span class="titreCK">Customer Service</span></a>
 		</li>
-<li class="maximenuCK item500 level1 " style="z-index : 11977;"><a class="maximenuCK " href="/index.php/contact/media" title=""><span class="titreCK">Media Relations</span></a>
+<li class="maximenuCK item500 level1 " style="z-index : 11980;"><a class="maximenuCK " href="/index.php/contact/media" title=""><span class="titreCK">Media Relations</span></a>
 		</li>
-<li class="maximenuCK item501 level1 " style="z-index : 11976;"><a class="maximenuCK " href="/index.php/contact/product-development" title=""><span class="titreCK">Product Development</span></a>
+<li class="maximenuCK item501 level1 " style="z-index : 11979;"><a class="maximenuCK " href="/index.php/contact/product-development" title=""><span class="titreCK">Product Development</span></a>
 		</li>
-<li class="maximenuCK item502 level1 " style="z-index : 11975;"><a class="maximenuCK " href="/index.php/contact/business-development" title=""><span class="titreCK">Business Development</span></a>
+<li class="maximenuCK item502 level1 " style="z-index : 11978;"><a class="maximenuCK " href="/index.php/contact/business-development" title=""><span class="titreCK">Business Development</span></a>
 		</li>
-<li class="maximenuCK item503 level1 " style="z-index : 11974;"><a class="maximenuCK " href="/index.php/contact/legal" title=""><span class="titreCK">Legal</span></a></li>
+<li class="maximenuCK item503 level1 " style="z-index : 11977;"><a class="maximenuCK " href="/index.php/contact/legal" title=""><span class="titreCK">Legal</span></a></li>
 	</ul>
-	<div class="clr"></div></div><div class="clr"></div></div></div><div class="maxidrop-bottom"><div class="maxidrop-bottom2"></div></div></div></li>
-            </ul>
-
+	<div class="clr"></div></div><div class="clr"></div></div></div><div class="maxidrop-bottom"><div class="maxidrop-bottom2"></div></div></div></li>            </ul>
         </div>
-
         <div class="maxiRoundedright"></div>
-
         <div style="clear:both;"></div>
-
     </div>
-
     <div style="clear:both;"></div>
-
     <!-- fin maximenuCK -->
-
 		</div>
 	
-      <div class="clr"></div>
-      </div> 
-            <div class="clr"></div>
+			<div class="clr"></div>
+			</div> 
+		        <div class="clr"></div>
       </div>
       <div class="clr"></div>
-  </div>  
+  </div>	
   
  
 
@@ -254,12 +232,12 @@ $(document).ready(function() {
   </div>
     <div id="content60" style="width:650px;">    
 
-              <div class="error">
-          
+      				<div class="error">
+					
 <div id="system-message-container">
 </div>
-        </div>
-          <div id="content" class="gainlayout">
+				</div>
+	        <div id="content" class="gainlayout">
       <div class="item-page">
 
 	<h2>
@@ -296,10 +274,10 @@ $(document).ready(function() {
  <!--
  var prefix = '&#109;a' + 'i&#108;' + '&#116;o';
  var path = 'hr' + 'ef' + '=';
- var addy39036 = 's&#117;pp&#111;rt' + '&#64;';
- addy39036 = addy39036 + 'p&#111;rt&#97;l&#97;r&#105;&#117;m' + '&#46;' + 'c&#111;m';
- document.write('<a ' + path + '\'' + prefix + ':' + addy39036 + '\'>');
- document.write(addy39036);
+ var addy34521 = 's&#117;pp&#111;rt' + '&#64;';
+ addy34521 = addy34521 + 'p&#111;rt&#97;l&#97;r&#105;&#117;m' + '&#46;' + 'c&#111;m';
+ document.write('<a ' + path + '\'' + prefix + ':' + addy34521 + '\'>');
+ document.write(addy34521);
  document.write('<\/a>');
  //-->\n </script></a><a href="mailto:support@portalarium.com">support@portalarium.com</a><script type="text/javascript">
  <!--
@@ -316,11 +294,11 @@ $(document).ready(function() {
  <!--
  var prefix = '&#109;a' + 'i&#108;' + '&#116;o';
  var path = 'hr' + 'ef' + '=';
- var addy86463 = 's&#117;pp&#111;rt' + '&#64;';
- addy86463 = addy86463 + 'p&#111;rt&#97;l&#97;r&#105;&#117;m' + '&#46;' + 'c&#111;m';
- var addy_text86463 = 's&#117;pp&#111;rt' + '&#64;' + 'p&#111;rt&#97;l&#97;r&#105;&#117;m' + '&#46;' + 'c&#111;m';
- document.write('<a ' + path + '\'' + prefix + ':' + addy86463 + '\'>');
- document.write(addy_text86463);
+ var addy94370 = 's&#117;pp&#111;rt' + '&#64;';
+ addy94370 = addy94370 + 'p&#111;rt&#97;l&#97;r&#105;&#117;m' + '&#46;' + 'c&#111;m';
+ var addy_text94370 = 's&#117;pp&#111;rt' + '&#64;' + 'p&#111;rt&#97;l&#97;r&#105;&#117;m' + '&#46;' + 'c&#111;m';
+ document.write('<a ' + path + '\'' + prefix + ':' + addy94370 + '\'>');
+ document.write(addy_text94370);
  document.write('<\/a>');
  //-->\n </script><a href="mailto:support@portalarium.com">support@portalarium.com</a><script type="text/javascript">
  <!--
@@ -342,10 +320,10 @@ $(document).ready(function() {
  <!--
  var prefix = '&#109;a' + 'i&#108;' + '&#116;o';
  var path = 'hr' + 'ef' + '=';
- var addy80469 = 's&#117;pp&#111;rt' + '&#64;';
- addy80469 = addy80469 + 'p&#111;rt&#97;l&#97;r&#105;&#117;m' + '&#46;' + 'c&#111;m';
- document.write('<a ' + path + '\'' + prefix + ':' + addy80469 + '\'>');
- document.write(addy80469);
+ var addy7709 = 's&#117;pp&#111;rt' + '&#64;';
+ addy7709 = addy7709 + 'p&#111;rt&#97;l&#97;r&#105;&#117;m' + '&#46;' + 'c&#111;m';
+ document.write('<a ' + path + '\'' + prefix + ':' + addy7709 + '\'>');
+ document.write(addy7709);
  document.write('<\/a>');
  //-->\n </script></a><a href="mailto:support@portalarium.com">support@portalarium.com</a><script type="text/javascript">
  <!--
@@ -362,11 +340,11 @@ $(document).ready(function() {
  <!--
  var prefix = '&#109;a' + 'i&#108;' + '&#116;o';
  var path = 'hr' + 'ef' + '=';
- var addy92101 = 's&#117;pp&#111;rt' + '&#64;';
- addy92101 = addy92101 + 'p&#111;rt&#97;l&#97;r&#105;&#117;m' + '&#46;' + 'c&#111;m';
- var addy_text92101 = 's&#117;pp&#111;rt' + '&#64;' + 'p&#111;rt&#97;l&#97;r&#105;&#117;m' + '&#46;' + 'c&#111;m';
- document.write('<a ' + path + '\'' + prefix + ':' + addy92101 + '\'>');
- document.write(addy_text92101);
+ var addy92603 = 's&#117;pp&#111;rt' + '&#64;';
+ addy92603 = addy92603 + 'p&#111;rt&#97;l&#97;r&#105;&#117;m' + '&#46;' + 'c&#111;m';
+ var addy_text92603 = 's&#117;pp&#111;rt' + '&#64;' + 'p&#111;rt&#97;l&#97;r&#105;&#117;m' + '&#46;' + 'c&#111;m';
+ document.write('<a ' + path + '\'' + prefix + ':' + addy92603 + '\'>');
+ document.write(addy_text92603);
  document.write('<\/a>');
  //-->\n </script><a href="mailto:support@portalarium.com">support@portalarium.com</a><script type="text/javascript">
  <!--
@@ -395,9 +373,7 @@ $(document).ready(function() {
    <!--start of subcontent-->
   <div id="subcontent">
   <div id="bgsep" style="height:9px">&nbsp;</div>
-   
-  
-    
+      
   <!--end of subcontent--><br><br>
   </div>
 
@@ -411,7 +387,7 @@ $(document).ready(function() {
   <!--start of footer-->
   <div id="footerwrap" class="gainlayout" style="width:950px;"> 
      <div id="footer" align="center">  
-         
+       	
          		<div class="moduletable_footerwrapper">
 					
 <ul class="menu_footer">
