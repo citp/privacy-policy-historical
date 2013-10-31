@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the mycouponworld.com privacy policy that was archived on 2010-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100403081612id_/http%3A//mycouponworld.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mycouponworld.com privacy policy that was archived on 2013-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131031050606id_/http%3A//mycouponworld.com/privacy.html) for the most accurate reproduction.*
 
 # MyCouponWorld
 
-| [](https://web.archive.org/web/20100403081612id_/http%3A//mycouponworld.com/about.html) | [](https://web.archive.org/web/20100403081612id_/http%3A//mycouponworld.com/about.html)  
+| [](https://web.archive.org/web/20131031050606id_/http%3A//mycouponworld.com/about.html) | [](https://web.archive.org/web/20131031050606id_/http%3A//mycouponworld.com/about.html)  
 ---|---  
-[](https://web.archive.org/web/20100403081612id_/http%3A//mycouponworld.com/privacy.html) | [](https://web.archive.org/web/20100403081612id_/http%3A//mycouponworld.com/privacy.html)  
-| [](https://web.archive.org/web/20100403081612id_/http%3A//mycouponworld.com/subscribe.html)  
-| [](https://web.archive.org/web/20100403081612id_/http%3A//mycouponworld.com/unsubscribe.html)  
-| [](https://web.archive.org/web/20100403081612id_/http%3A//mycouponworld.com/contact.html)  
+[](https://web.archive.org/web/20131031050606id_/http%3A//mycouponworld.com/privacy.html) | [](https://web.archive.org/web/20131031050606id_/http%3A//mycouponworld.com/privacy.html)  
+| [](https://web.archive.org/web/20131031050606id_/http%3A//mycouponworld.com/subscribe.html)  
+| [](https://web.archive.org/web/20131031050606id_/http%3A//mycouponworld.com/unsubscribe.html)  
+| [](https://web.archive.org/web/20131031050606id_/http%3A//mycouponworld.com/contact.html)  
 |   
   | 
 
