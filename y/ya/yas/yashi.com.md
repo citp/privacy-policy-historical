@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yashi.com privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501001231id_/http%3A//www.yashi.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yashi.com privacy policy that was archived on 2013-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131031082240id_/http%3A//www.yashi.com/privacy) for the most accurate reproduction.*
 
 # Privacy - Yashi Media Video Ad Network
 
@@ -10,7 +10,7 @@ Our postal address is:
 81 East Water Street  
 Toms River, NJ 08753
 
-We can be reached via [eMail](http://www.yashi.com/contact/ "Contact") or you can reach us by telephone at (800) 979-126. For each visitor to our Web page, our Web server automatically recognizes no information regarding the domain or e-mail address.
+We can be reached through [our contact form](http://www.yashi.com/contact/ "Contact") or you can reach us by telephone at (800) 979-1262. For each visitor to our Web page, our Web server automatically recognizes no information regarding the domain or e-mail address.
 
 We collect the e-mail addresses of those who communicate with us via e-mail, aggregate information on what pages consumers access or visit, information volunteered by the consumer, such as survey information and/or site registrations, name and address, telephone number.
 
