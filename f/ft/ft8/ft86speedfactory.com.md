@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ft86speedfactory.com privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501120207id_/http%3A//ft86speedfactory.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ft86speedfactory.com privacy policy that was archived on 2013-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131031220328id_/http%3A//ft86speedfactory.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Notice : FT-86 SpeedFactory, Your exclusive source for FR-S / BRZ / GT-86 parts!
 
@@ -15,26 +15,26 @@ Any and all the information collected on this site will be kept strictly confide
 
 [Specials](http://ft86speedfactory.com/specials/)
 
-[](http://ft86speedfactory.com/beatrush-oil-catch-tank-rhd-702.html)
+[](http://ft86speedfactory.com/greddy-x-rocket-bunny-wide-body-535.html)
 
-$368.00  $349.60  
-Save: $18.40 off[](http://ft86speedfactory.com/beatrush-oil-catch-tank-rhd-702.html)
+$3,121.87  $2,938.23  
+Save: $183.64 off[](http://ft86speedfactory.com/greddy-x-rocket-bunny-wide-body-535.html)
 
-[Beatrush Oil Catch Tank (RHD)](http://ft86speedfactory.com/beatrush-oil-catch-tank-rhd-702.html)
+[Greddy X Rocket Bunny Wide Body](http://ft86speedfactory.com/greddy-x-rocket-bunny-wide-body-535.html)
 
-[](http://ft86speedfactory.com/t1r-blue-wide-mirrors-344.html)
+[](http://ft86speedfactory.com/zeta-silicone-intake-pipe-w-sound-black-1211.html)
 
-$109.99  $99.99  
-Save: $10.00 off[](http://ft86speedfactory.com/t1r-blue-wide-mirrors-344.html)
+$278.49  $129.99  
+Save: $148.50 off[](http://ft86speedfactory.com/zeta-silicone-intake-pipe-w-sound-black-1211.html)
 
-[T1R Blue Wide Mirrors](http://ft86speedfactory.com/t1r-blue-wide-mirrors-344.html)
+[Zeta Silicone Intake Pipe W/Sound - Black](http://ft86speedfactory.com/zeta-silicone-intake-pipe-w-sound-black-1211.html)
 
-[](http://ft86speedfactory.com/cusco-close-gear-ratio-set-705.html)
+[](http://ft86speedfactory.com/zeta-silicone-intake-pipe-w-sound-purple-1213.html)
 
-$2,460.00  $2,376.00  
-Save: $84.00 off[](http://ft86speedfactory.com/cusco-close-gear-ratio-set-705.html)
+$278.49  $129.99  
+Save: $148.50 off[](http://ft86speedfactory.com/zeta-silicone-intake-pipe-w-sound-purple-1213.html)
 
-[Cusco Close Gear Ratio Set](http://ft86speedfactory.com/cusco-close-gear-ratio-set-705.html)
+[Zeta Silicone Intake Pipe W/Sound - Purple](http://ft86speedfactory.com/zeta-silicone-intake-pipe-w-sound-purple-1213.html)
 
 Information 
 
