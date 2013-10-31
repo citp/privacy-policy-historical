@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mmaglobal.com privacy policy that was archived on 2013-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130514225748id_/http%3A//www.mmaglobal.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mmaglobal.com privacy policy that was archived on 2013-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131031091447id_/http%3A//www.mmaglobal.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Statement | Mobile Marketing Association
 
@@ -47,3 +47,13 @@ To maintain compliance with MMA Privacy Guidelines, the MMA will undergo a priva
 
 **Mobile Marketing Association Contacts**  
 We can be reached via e-mail at [mma@mmaglobal.com](mailto:mma@mmaglobal.com) with privacy in the subject matter line.
+
+**Mobile Terms & Conditions**  
+The short code 30364 is used by the Mobile Marketing Association to promote industry news and alerts. You may opt-in by submitting the keyword "MMA" to 30364. 4 msgs/month. Message&Data Rates May Apply.
+
+For additional information, text “ **HELP** ” to short code 30364. You may opt-out at any time by sending **STOP** to short code 30364. Contact us at [866-375-7854](tel:8663757854) or email us at [marketing@mmagloba.com](mailto:marketing@mmagloba.com).
+
+**Available only on participating wireless carriers:** ALLTEL, Appalachian Wireless, AT&T, Bluegrass Cellular, Boost, Cellcom, Cellular One, Cellular One of East Central Illinois, Cellular South, Centennial Wireless, Cincinnati Bell, Cox Wireless, Dobson, ECIT, GCI, Illinois Valley IVC, Immix Wireless, Inland Cellular, iWireless, LongLines Wireless, Nex-Tech, Nextel, NTelos, Revol Wireless, Simmetry, Sprint, SunCom, T-Mobile, Unicel, United Wireless, U.S. Cellular, Verizon Wireless, Virgin Mobile USA, West Central Wireless and other carriers that may be added from time to time.
+
+**PRIVACY POLICY**  
+The Mobile Marketing Association respects your privacy. We will not share or use your mobile number for any other purpose. We will only use information you provide to transmit your text message. Nonetheless, we reserve the right at all times to disclose any information as necessary to satisfy any law, regulation or governmental request, to avoid liability, or to protect our rights or property. When you complete forms online or otherwise provide us information in connection with the Service, you agree to provide accurate, complete and true information. You agree not to use a false or misleading name or a name that you are not authorized to use. If we, in our sole discretion, believe that any such information is untrue, inaccurate or incomplete, we may refuse you access to the Service and pursue any appropriate legal remedies.
