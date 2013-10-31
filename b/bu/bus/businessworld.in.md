@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the businessworld.in privacy policy that was archived on 2013-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130529151108id_/http%3A//businessworld.in/en/storypage/-/bw/privacy-policy/442474.0/page/0) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the businessworld.in privacy policy that was archived on 2013-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131031201849id_/http%3A//www.businessworld.in/privacy-policy) for the most accurate reproduction.*
 
-# PRIVACY POLICY
+# 
 
  Technical and routing information about the customer's computer is collected when he/she visits Businessworld site. This facilitates use of the site by the customer. For example, the Internet Protocol address of the customer's originating Internet Service Provider may be recorded, to ensure the best possible service and use the customer's IP address to track his/her use of the site. Businessworld also records search requests and results to ensure the accuracy and efficiency of its search engine. 
 
