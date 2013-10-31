@@ -1,17 +1,10 @@
-> *The following text is extracted and transformed from the musicbuzz.info privacy policy that was archived on 2013-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130522162710id_/http%3A//www.musicbuzz.info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the musicbuzz.info privacy policy that was archived on 2013-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131101005506id_/http%3A//www.musicbuzz.info/privacy-policy) for the most accurate reproduction.*
 
 # Musicbuzz Privacy Policy
 
 ## Privacy Statement For Musicbuzz.info
 
 Musicbuzz.info has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this web site: Musicbuzz.info
-
-  
-
-
-## Downloading MP3 Files are Strictly Not Allowed! 
-
-The mp3 files and video files Uses on this site for evaluation use only. Downloading MP3 Files and Video files are strictly not allowed. If you like the songs or videos please go out and buy you an original copy at the shops. This website, its webmasters or its isp cannot be held responsible for the consequences. 
 
   
 
