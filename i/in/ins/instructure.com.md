@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the instructure.com privacy policy that was archived on 2013-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130507114520id_/http%3A//www.instructure.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the instructure.com privacy policy that was archived on 2013-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131031050511id_/http%3A//www.instructure.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Canvas by Instructure
 
@@ -14,9 +14,9 @@ Instructure, Inc. has been awarded TRUSTe’s Privacy Seal signifying that this 
 
 TRUSTe’s mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy Trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at [privacy@instructure.com](mailto:privacy@instructure.com). If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint).
 
-### U.S — E.U and U.S — Swiss Safe Harbor.
+### U.S.—E.U. and U.S.—Swiss Safe Harbor.
 
-Instructure, Inc. complies with the U.S. – E.U. Safe Harbor framework and the U.S. - Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from European Union member countries and Switzerland. Instructure has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Instructure’s certification, please visit <http://www.export.gov/safeharbor/>
+Instructure, Inc. complies with the U.S.—E.U. Safe Harbor framework and the U.S.—Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from European Union member countries and Switzerland. Instructure has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Instructure’s certification, please visit <http://www.export.gov/safeharbor/>
 
 ### Data You Provide to Us.
 
