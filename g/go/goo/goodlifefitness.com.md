@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goodlifefitness.com privacy policy that was archived on 2013-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130612015144id_/http%3A//www.goodlifefitness.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goodlifefitness.com privacy policy that was archived on 2013-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131031234717id_/http%3A//goodlifefitness.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - GoodLife Fitness
 
@@ -40,7 +40,7 @@ GoodLife Fitness may ask you for contact information such as your telephone, mob
 
 Your knowledge and consent are required for the collection, use, or disclosure of your personal information. When you become a member of GoodLife Fitness, you consent to the use of your personal information for the purposes listed above. You may refuse or withdraw your consent at any time; however we may not then be able to provide you with our full range of services. We will advise you when you refuse or withdraw your consent of the impact that will have on what we are able to provide. For information on withdrawing your consent, please contact our Chief Privacy Officer.
 
-#### Third Party Disclosure
+#### Third Party Disclosure 
 
 GoodLife Fitness is not in the business of selling member information to others. We do contract with trusted companies to act on our behalf to fulfill certain functions. We may use third party service providers to process or handle personal information on our behalf and to assist us with various services such as data processing, printing, mail distribution and marketing. Some of our service providers are located outside of Canada. As a result, your personal information may be accessible to regulatory authorities in accordance with the law of these jurisdictions. We will take steps to ensure that such parties adhere to our policy with respect to the protection of your personal information. 
 
@@ -54,7 +54,7 @@ Except as set out in this policy or as required or permitted by law, GoodLife Fi
 • in emergency situations in which we believe that the life, health or safety of a member or other person may be in danger   
 • to an agent retained by GoodLife in connection with the collection of your account 
 
-#### Retention
+#### Retention 
 
 We will only retain your personal information as long as is necessary for the fulfillment of the purposes for which it was collected or as required by law. Personal information is securely stored until such time as it is no longer required, after which it is destroyed.
 
