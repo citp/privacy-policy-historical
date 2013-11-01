@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the fundable.com privacy policy that was archived on 2013-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130511175925id_/http%3A//www.fundable.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fundable.com privacy policy that was archived on 2013-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131101012008id_/http%3A//www.fundable.com/privacy-policy) for the most accurate reproduction.*
 
-# Crowdfunding for Startup Businesses on Fundable
+# Privacy Policy | Fundable
+
+* * *
 
 The privacy of Fundable users and their information is extremely important to Fundable LLC and we take this matter very seriously.
 
@@ -14,7 +16,7 @@ Upon registering as a Fundable user, certain contact information such as your na
 
 **Fundable.com**
 
-Fundable.com is an online service that allows startups to connect with individuals who are interested in helping to support them by pledging money in exchange for a reward upon a successful fundraise. Only users who are manually approved will be able to launch a campaign on the site. All startups are thoroughly vetted prior to launching a campaign and they are coached on creating proper expectations and calculating use of proceeds.
+Fundable.com is an online service that allows startups to connect with individuals who are interested in helping to support them by pledging money in exchange for a reward upon a successful fundraise. Only users who are manually approved will be able to launch a campaign on the site. 
 
 **System Emails**
 
@@ -26,7 +28,7 @@ Startups will receive the email addresses of their backers if the project is suc
 
 **Internet**
 
-As part of our efforts to provide better services to Fundable users, Fundable Media collects certain information related to the Internet and your computer. In order for us to analyze trends and provide superior service to our users, Fundable Media retrieves the web address (URL) of both the website that you visited directly before and directly after visiting the Fundable site. We also receive certain other information about your personal computer such as the unique IP address. Fundable Media also follows a standard practice of using cookies and logs to analyze website usage. Cookies a extremely small files that are stored on your computer and help us to provide you with a better experience by automatically recalling your preferences each time you visit our site. Cookies will not harm your computer in any way and can be deleted at any time.
+As part of our efforts to provide better services to Fundable users, Fundable LLC collects certain information related to the Internet and your computer. In order for us to analyze trends and provide superior service to our users, Fundable LLC retrieves the web address (URL) of both the website that you visited directly before and directly after visiting the Fundable site. We also receive certain other information about your personal computer such as the unique IP address. Fundable LLC also follows a standard practice of using cookies and logs to analyze website usage. Cookies a extremely small files that are stored on your computer and help us to provide you with a better experience by automatically recalling your preferences each time you visit our site. Cookies will not harm your computer in any way and can be deleted at any time.
 
 **Profile**
 
@@ -39,8 +41,6 @@ You may make changes to your Fundable account and any associated preferences at 
 **Startups**
 
 By entering into our User Agreement, Fundable Startups agree to not abuse other users' personal information. Abuse is defined as using personal information for any purpose other than those explicitly specified in the Startup’s Project, or is not related to fulfilling delivery of a product or service explicitly specified in the Project Creator’s Project.
-
-Fundable Startups never receive users' credit card information.
 
 **Affiliate Services**
 
