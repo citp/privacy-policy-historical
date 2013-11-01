@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the everythingandroid.org privacy policy that was archived on 2013-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130615105121id_/http%3A//www.everythingicafe.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the everythingandroid.org privacy policy that was archived on 2013-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131101063731id_/http%3A//www.everythingandroid.org/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -57,7 +57,7 @@ We may use third-party advertising companies to serve ads when you visit our Web
 
 **Your Consent**
 
-By using our site, you consent to our [privacy policy](http://www.freeprivacypolicy.com/).
+By using our site, you consent to our privacy policy.
 
 **Changes to our Privacy Policy**
 
@@ -67,6 +67,6 @@ If we decide to change our privacy policy, we will post those changes on this pa
 
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
-http://www.everythingicafe.com
+http://www.everythingandroid.org
 
-info@everythingicafe.com
+info@everythingandroid.org
