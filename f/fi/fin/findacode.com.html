@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the findacode.com privacy policy that was archived on 2013-05-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130510021603id_/http%3A//www.findacode.com/aboutus/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the findacode.com privacy policy that was archived on 2013-11-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131101202834id_/http%3A//www.findacode.com/aboutus/privacy-policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 <script src="https://c.compete.com/bootstrap/4636535d1f8315afea3131fb5009868c/bootstrap.js" type="text/javascript" async=""></script><script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
@@ -75,7 +75,7 @@ $(document).ready(function() {
   }
 
   //Date setter (quarter picker)
-  $('#viewing_date').attr('size',10).datepicker({dateFormat:'yy-mm-dd',buttonImage:'/static/images/calendar2.gif',buttonImageOnly:true,showOn:'both',minDate:'2010-01-1',maxDate:'2013-06-30'});
+  $('#viewing_date').attr('size',10).datepicker({dateFormat:'yy-mm-dd',buttonImage:'/static/images/calendar2.gif',buttonImageOnly:true,showOn:'both',minDate:'2010-01-1',maxDate:'2013-12-31'});
   $('#quarter_date_picker').dialog({
     autoOpen:false,
     modal:true,
@@ -106,143 +106,10 @@ $(document).ready(function() {
   
   
   $('a:contains(Sign In)').click(function(){return signin_popopen();});
-  });
-$(function(){
-  //better... but what if screen width isn't even 600? any way for it to still work then? I want it to be at most 600 but stretch to as much of that width as possible.
-  var dialogWidth = 600;
-  var dialogMargin = 20;
-  $("#mycodes_dialog").dialog({modal:true,autoOpen:false,width:dialogWidth,height:$(window).height()-(dialogMargin*2),position:[($(window).width()-dialogWidth)/2,dialogMargin]});
-//  $(window).resize(function(){
-//    $('#mycodes_dialog').dialog({position:[($(window).width()-dialogWidth)/2,dialogMargin],height:$(window).height()-(dialogMargin*2)});
-//  });
-  $('#mycodes_dialog_launcher').click(function(){
-    if ($('#mycodes_dialog_contents').html() == '') {
-      $('#mycodes_dialog').dialog('option','title','Code Lists').dialog('open').show();
-      load_codelist_list();
-    } else {
-      $('#mycodes_dialog').dialog('open');
-    }
-    return false;
-  });
-  $('.ui-widget-button').addClass('ui-state-default ui-corner-all').hover(
-    function() { $(this).addClass('ui-state-hover'); },
-    function() { $(this).removeClass('ui-state-hover'); }
-  );
+  
   $('#password_dialog').dialog({'modal':true,'autoOpen':false});
 });
-function load_codelist_list() {
-  $('#mycodes_dialog_contents').fadeTo('fast',.01);
-  $.get('/ajax/ajax-mycodes-codelists.php', {'user_id':"0"}, function(response){
-    if (!response) {
-      alert('Invalid JSON response.');
-    } else if (!response.success) {
-      alert(response.message);
-    } else {
-      var content = "";
-      if (response.data.count > 0) {
-        content += "<ul class='fac_buttonlist'>";
-        $.each(response.data.code_lists, function(){
-          content += "<li class='fac_bl_item'><a href='#' onclick=\"load_codelist('"+this.list_id+"');return false;\">" + this.title + "</a></li>";
-        });
-        content += "</ul>";
-      } else {
-        content += "<p>No code lists to show.</p>";
-      }
-      
-      $('#mycodes_dialog')
-        .dialog('option','title','Code Lists').dialog('open')
-        .dialog('option','buttons',{
-          "New" : function(){window.location='/tools/code-list-edit.php?l=0'},
-          "Edit" : function(){window.location='/tools/code-lists-manage.php'},
-          "Close" : function(){$(this).dialog('close')}
-        });
-      $('#mycodes_dialog_contents').html(content).fadeTo('fast',1);
-    }
-  });
-}
-function load_codelist(list_id) {
-  $('#mycodes_dialog_contents').fadeTo('fast',.01);
-  $.get('/ajax/ajax-mycodes-codelist-codes.php', {'user_id':"0",'list_id':list_id}, function(response){
-    if (!response) {
-      alert('Invalid JSON response.');
-    } else if (!response.success) {
-      alert(response.message);
-    } else {
-      var content = "";
-      content += "<button href='#' onclick=\"load_codelist_list(); return false;\">&larr; Back</button><br />";
-      if (response.data.count > 0) {
-        content += "<ul class='fac_buttonlist'>";
-        $.each(response.data.codes, function(){
-          content += "<li class='fac_bl_item'>";
-          if (this.has_notes == 'Y') {
-            content += "<span class='fac_bl_item_r'><a href='#' onclick=\"load_code_notes('"+list_id+"','"+this.code_set+"','"+this.code+"');return false;\"><b>Notes</b></a></span>";
-          }
-          content += "<a href='/code.php?set="+this.code_set+"&c="+this.code+"'><b>"+this.code_set + "&nbsp;" + this.code + "</b></br>";
-          content += (this.descr || "");
-          content += "</a>";
-          content += "</li>";
-        });
-        content += "</ul>";
-      } else {
-        content += "<p>No codes to show.</p>";
-      }
-      
-      //Set up buttons (detect if code is in current list and make add/remove button accordingly)
-      var buttons = {};
-      var _code_set = "";
-      var _code = "";
-      if (_code_set != '' && _code != '' ) {
-        var code_exists_in_list = $.grep(response.data.codes, function(c){ return (c.code_set == _code_set && c.code == _code); }).length;
-        if (code_exists_in_list) {
-          buttons["Remove "+_code_set+" "+_code] = function(){
-            $.get('/ajax/ajax-mycodes-codelist-code-remove.php', {'user_id':"0",'list_id':list_id,'code_set':_code_set,'code':_code}, function(){
-              load_codelist(list_id);
-            });
-          };
-        } else {
-          buttons["Add "+_code_set+" "+_code] = function(){
-            $.get('/ajax/ajax-mycodes-codelist-code-add.php', {'user_id':"0",'list_id':list_id,'code_set':_code_set,'code':_code}, function(){
-              load_codelist(list_id);
-            });
-          };
-        }
-      }
-      buttons["Edit"] = function(){window.location="/tools/code-list-edit.php?l="+list_id;};
-      buttons["Close"] = function(){$(this).dialog('close')};
-      
-      $('#mycodes_dialog')
-        .dialog('option','title',response.data.code_list.title)
-        .dialog('option','buttons',buttons)
-        .scrollTop(0);
-      $('#mycodes_dialog_contents').html(content).fadeTo('fast',1);
-    }
-  });
-}
-function load_code_notes(list_id, code_set, code) {
-  $('#mycodes_dialog_contents').fadeTo('fast',.01);
-  $.get('/ajax/ajax-mycodes-codelist-code-notes.php', {'user_id':"0",'list_id':list_id,'code_set':code_set,'code':code}, function(response){
-    if (!response) {
-      alert('Invalid JSON response.');
-    } else if (!response.success) {
-      alert(response.message);
-    } else {
-      var content = "";
-      content += "<button href='#' onclick=\"load_codelist('"+list_id+"');return false;\">&larr; Back</button>";
-      content += "<h2>My Notes</h2>";
-      content += response.data.notes.my_notes || "<i>No notes to show.</i>";
-      content += "<h2>Admin Notes</h2>";
-      content += response.data.notes.admin_notes || "<i>No notes to show.</i>";
-      
-      $('#mycodes_dialog')
-        .dialog('option','title',response.data.code.code_set+" "+response.data.code.code+" "+(response.data.code.descr || ""))
-        .dialog('option','buttons',{
-          "Edit" : function(){window.location="/my-codes-edit.php?set="+response.data.code.code_set+"&c="+response.data.code.code;},
-          "Close" : function(){$(this).dialog('close')}
-        });
-      $('#mycodes_dialog_contents').html(content).fadeTo('fast',1);
-    }
-  });
-}
+
 function signin_popopen(no_animate) {
     header_height = '225px'; body_top_padding = '225px';
   $('#header_signin').show();
@@ -336,14 +203,14 @@ ul#menu li.mega div.menu_pop {
   ICD-9-CM <small>- Volumes 1 &amp; 2</small>
 </a>
 <a href="/icd-10-cm/icd-10-cm-diagnosis-codes-set.html" class="page_box_link" title="ICD-10-CM Diagnosis Codes">
-  ICD-10-CM <small>- New for 2013!</small>
+  ICD-10-CM <small>- 2014 Code Set</small> <span class="new_item">NEW!</span>
 </a>
 <a href="/drg/drg-diagnosis-related-group-codes.html" class="page_box_link" title="DRG - Diagnosis Related Groups">
   DRG <small>- Diagnosis Related Groups</small>
 </a>
 
 <div class="page_category">
-  <span class="fac-icon fac-icon-syringe2-22"></span>&nbsp;Procedure (Tx)&nbsp;
+  <span class="fac-icon fac-icon-syringe2-22"></span>&nbsp;Procedure (Tx) &amp; Drugs (Rx)&nbsp;
 </div>
 <a href="/cpt/cpt-procedure-codes.html" class="page_box_link" title="CPT Procedure Codes">
   CPT<small><sup>®</sup></small> <small>- Level I Codes &amp; Modifiers</small>
@@ -358,11 +225,15 @@ ul#menu li.mega div.menu_pop {
   CDT<small><sup>®</sup></small> Codes <small>- Dental "D" Codes</small>
 </a>
 <a href="/icd-10-pcs/icd-10-pcs-procedure-codes-set.html" class="page_box_link" title="ICD-10-PCS Procedure Codes">
-  ICD-10-PCS <small>- Sneak peak!</small>
+  ICD-10-PCS <small>- 2014 Code Set</small> <span class="new_item">NEW!</span>
 </a>
 <a href="/apc/apc-ambulatory-payment-classification-codes.html" class="page_box_link" title="APC - Ambulatory Patient Classifications">
   APC <small>- Ambulatory Payment Classifications</small>
 </a>
+<a href="/ndc" class="page_box_link" title="NDC - National Drug Codes">
+  NDC <small>- National Drug Codes</small>
+</a>
+
 
 <div class="page_category">
   <span class="fac-icon fac-icon-other-code-sets"></span>&nbsp;Other Code Sets&nbsp;
@@ -372,13 +243,24 @@ ul#menu li.mega div.menu_pop {
 </a>
 
 <div class="page_category">
-  <span class="fac-icon fac-icon-tool_clipboard"></span>&nbsp;Claim Forms&nbsp;
+  <span class="fac-icon fac-icon-tool_clipboard"></span>&nbsp;Forms&nbsp;
 </div>
 <a href="/cms1500-claim-form/cms1500-claim-form.html" class="page_box_link" title="CMS1500 Claim Form">
   CMS1500 - <small>Claim Form, Codes, &amp; Info</small>
 </a>
 <a href="/ub04-claim-form/ub04-cms1450-claim-form.html" class="page_box_link" title="UB04/CMS1450 Claim Form">
   UB04/CMS1450 - <small>Form, Codes, &amp; Info</small>
+</a>
+<a href="http://www.instacode.com/hipaa-compliance3?category_id=56" class="page_box_link" target="_blank" title="HIPAA Forms">HIPAA Forms - <small>45 New Forms!</small> <span class="new_item">NEW!</span>
+</a>
+<a href="/medicare/forms/abn.html" class="page_box_link" title="Medicare Advance Beneficiary Notification of Noncoverage Form">
+  ABN - <small>Advance Beneficiary Notification</small> <span class="new_item">NEW!</span>
+</a>
+<a href="/medicare/forms/appeals.html" class="page_box_link" title="Medicare Appeals Forms">
+  Medicare Appeals Forms <span class="new_item">NEW!</span>
+</a>
+<a href="/medicare/forms/index.html" class="page_box_link" title="Other Medicare Forms">
+  Other Medicare Forms <span class="new_item">NEW!</span>
 </a>      </div>
       </li>
       <li class="mega" style="width:90px;">
@@ -387,42 +269,41 @@ ul#menu li.mega div.menu_pop {
 <div class="page_category page_category_first">
   <span class="fac-icon fac-icon-khelpcenter"></span>&nbsp; Helps &amp; Guides&nbsp;
 </div>
-<a href="/aboutus/pdf-tutorials.html" class="page_box_link" title="Find-A-Code Tutorials">
+<a href="/aboutus/tutorials.html" class="page_box_link" title="Find-A-Code Tutorials">
   Find-A-Code™ Tutorials
 </a>
-<a href="/cms1500-claim-form/cms1500-guide.html" class="page_box_link" title="CMS1500 Claim Form Guide with NUCC &amp; Medicare Instructions + Tips">
-  CMS1500 Guide <small>- NUCC &amp; Medicare Instr.</small>
+<a href="/cms1500-claim-form/cms1500-claim-form.html" class="page_box_link" title="CMS1500 Claim Form Guides and Instructions">
+  CMS1500 Instructions <small>02/12 Form</small> <span class="new_item">NEW!</span>
 </a>    
 <a href="/icd-9/icd-9-cm-guidelines.html" class="page_box_link" title="ICD-9-CM Official Guidelines for Coding and Reporting">
   ICD-9-CM Official Guidelines
 </a>
+<a href="/e&amp;m-codes.html" class="page_box_link" title="E&amp;M Guidelines, AMA E/M Guidelines, Medicare Evaluation and Management Codes Guide">
+  E&amp;M Guides <small>- AMA Green Pages, etc.</small> 
+</a>
+<!--
 <a href="/cpt/cpt-e-m-guidelines-manuals.html" class="page_box_link" title="AMA E and M Guidelines">
   AMA's E&amp;M Guidelines&nbsp;<small><small>(Green Pages)</small></small> 
 </a>
 <a href="/cpt/integrating-npp-into-e-m.html" class="page_box_link" title="Integrating NPP into E/M for Compliance and Quality Care Guide">
-  Integrating NPP into E/M
+  Integrating NPP into E&amp;M
 </a>
+-->
 <div class="page_category">
   <span class="fac-icon fac-icon-knode"></span>&nbsp;Newsletters&nbsp;
 </div>
 <a href="/cpt/cpt-assistant/index.html" class="page_box_link" title="AMA's CPT Assistant Newsletter">
-  CPT Assistant <small>+Archives</small>
+  CPT<sup><small>®</small></sup> Assistant <small>+Archives</small>
 </a>
 <a href="/medicare/medicare-quarterly-provider-compliance-newsletter.html" class="page_box_link" title="Medicare's Provider Compliance Newsletter">
   Medicare Provider Compliance
 </a>
 <a href="/aha-coding-clinic/" class="page_box_link" style="white-space:nowrap;">
-  AHA Coding Clinic® <small>ICD9 &amp; HCPCS</small> <sup style="font-weight:bold;color:red;font-size:8pt;line-height:0;"><span>NEW!</span></sup>
+  AHA Coding Clinic<sup><small>®</small></sup> <small>ICD9 &amp; HCPCS</small>
 </a>
-<a href="/decision-health/" class="page_box_link">
-  DecisionHealth® <small>Articles </small> <sup style="font-weight:bold;color:red;font-size:8pt;line-height:0;"><span>NEW!</span></sup>
+<a href="/decision-health/" class="page_box_link" title="Decision Health Newsletter Archive - Coder Pink Sheets, Part-B News, Answer Books">
+  DecisionHealth<sup><small>®</small></sup> <small>- Pink Sheets, Part B</small>
 </a>
-
-<!--
-<a href="/medicare/mln-newsletter.html" class="page_box_link" title="Medicare's MLN Newsletter">
-  Medicare MLN Newsletter
-</a>
--->
 
 <div class="page_category">
   <span class="fac-icon fac-icon-bookcase"></span>&nbsp;Medicare Manuals &amp; Guides&nbsp;
@@ -434,7 +315,7 @@ ul#menu li.mega div.menu_pop {
   E&amp;M Guidelines &amp; Procedures
 </a>
 <a href="/medicare/policies-guidelines/medicare-contractor-list.php" class="page_box_link" title="Medicare Contractors, LCDs (Local Coverage Determinations, and Articles">
-  Medicare Contractors <small>- LCDs &amp; Articles</small>
+  LCDs &amp; Articles <small>- by Contractor</small>
 </a>
 <a href="/medicare/ncd-national-coverage-determinations.html" class="page_box_link" title="Medicare NCDs (National Coverage Determinations)">
   NCDs <small>- National Coverage Determinations</small>
@@ -457,6 +338,9 @@ ul#menu li.mega div.menu_pop {
 </a>
 <a href="/dictionaries/stedmans-appendices.html" class="page_box_link" title="Stedmans Dictionary Appendices">
   Stedman's Dictionary Appendices
+</a>
+<a href="/medical-coding-resources.html" class="page_box_link" title="Medical Coding and Billing Links and Resources">
+  More Links and Resources
 </a>        </div>
       </li>
       <li class="mega" style="width:99px;">
@@ -493,14 +377,14 @@ ul#menu li.mega div.menu_pop {
   My Code Notes <small>- Your code notes.</small>
 </a-->
 <a href="/tools/code-lists-manage.php" class="page_box_link" title="Customized Lists of Medical Codes">
-  Manage Code Lists <small></small> <sup style="line-height:0px;"><span style="font-weight:bold;color:red;font-size:8pt;">NEW!</span></sup>
+  Manage Code Lists
 </a>
 <a href="/account/index.php" class="page_box_link" title="My Find-A-Code Account">
   My Account <small>- Personalize Find-A-Code.</small>
 </a>
-<a href="/pqri-wizard/" class="page_box_link" title="PQRIwizard(SM)">
-  PQRI<i>wizard</i><sup style="line-height:0px"> <small>SM</small></sup> - <small>Submit to PQRS online!</small>
-</a>
+<!-- <a href="/pqri-wizard/" class="page_box_link" title="PQRIwizard(SM)">
+  PQRI<i>wizard</i><sup style='line-height:0px'> <small>SM</small></sup> - <small>Submit to PQRS online!</small>
+</a> -->
 <!--<a href="/tools/my-notes.php" class="page_box_link" title="Custom Medical Coding Notes">
   My Other Notes <small>- Your other notes.</small>
 </a>-->
@@ -508,8 +392,14 @@ ul#menu li.mega div.menu_pop {
 <div class="page_category">
   <span class="fac-icon fac-icon-korgac"></span> Scrubbing &amp; Validation&nbsp;
 </div>
+<a href="/tools/code-a-note" class="page_box_link" title="Code-A-Note - Code Suggestion Engine">
+  Code-A-Note™ <small>- Suggestion Engine</small> <span class="new_item">NEW!</span>
+</a>
+<a href="/tools/drg-grouper/" class="page_box_link" title="MS-DRG Grouper">
+  DRG-Grouper <small>- Suggestion Engine</small> <span class="new_item">NEW!</span>
+</a>
 <a href="/scrubber/scrubber.php" class="page_box_link" title="Scrub-A-Claim™ Professional Grade Claim Scrubber">
-  Scrub-A-Claim™ <sup style="line-height:0px;"><span style="font-weight:bold;color:red;font-size:8pt;">NEW!</span></sup> <small>- Claim Scrubber</small>
+  Scrub-A-Claim™ <small>- Claim Scrubber</small>
 </a>
 <a href="/tools/ncci-check.php" class="page_box_link" title="NCCI Edits Validation for Medical Billing Codes - Non-Facility">
   NCCI Edit Validator <small>- NON-Facility Edition</small>
@@ -525,7 +415,7 @@ ul#menu li.mega div.menu_pop {
   Anatomy/Physiology Online for Coders
 </a>
 <a href="/medical-coding-billing-courses.html" class="page_box_link" title="Medical Coding and Billing Courses and Training">
-  Coding Courses <sup style="font-weight:bold;color:red;font-size:8pt;line-height:0;"><span>NEW!</span></sup>
+  Coding Courses
 </a>
 <a href="/anatomy-and-physiology.html" class="page_box_link" title="Anatomy and Physiology Study Guides, Tools and Games">
   Anatomy &amp; Physiology
@@ -641,7 +531,7 @@ ul#menu li.mega div.menu_pop {
       </div>
 
       <div class="header_body_right" style="padding:0;margin-top:8px;">
-&nbsp;Guest<br>Viewing: &nbsp;May 9, 2013
+&nbsp;Guest<br>Viewing: &nbsp;Nov 1, 2013
     </div>
  
     <div id="header_signin" style="display:none;clear:both;text-align:center;height:155px;width:900px;border:1px solid #aaa;margin:10px auto;background-image: url('/static/v1a/images/green-gradient.jpg') !important; background-repeat: repeat-x;">
@@ -669,7 +559,7 @@ ul#menu li.mega div.menu_pop {
       <div style="float:right;width:350px;border:0px solid blue;margin-right:50px;">
         <h2>Or</h2>
         <button type="button" onclick="window.location='/account/subscribe.php';" style="margin-bottom:5px;font-size:15px;font-weight:bold;padding:3px 10px;"> Subscribe </button><br>
-        Subscribe to Find-A-Code starting at only $14.95 per month.&nbsp; Purchase a year at a time or select an affordable monthly payment.
+        Subscribe to Find-A-Code starting from $4.99 per month.&nbsp; Purchase a year at a time or select an affordable monthly payment.
       </div>
       <div style="clear:both;"></div>
     </div>
@@ -963,8 +853,8 @@ document.write('<a href="mail'+'to:'+userxname+'@'+hostxname+params+'"'+classcod
       <input type="hidden" name="FirstName" value="">
       <input type="hidden" name="LastName" value="Guest">
       <input type="hidden" name="Email" value="guest@findacode.com">
-      <input type="hidden" name="Date" value="Thursday 9th of May 2013 08:16:54 PM">
-      <input type="hidden" name="Browser" value="Mozilla/5.0 (compatible; archive.org_bot +http://www.archive.org/details/archive.org_bot)">
+      <input type="hidden" name="Date" value="Friday 1st of November 2013 02:28:58 PM">
+      <input type="hidden" name="Browser" value="ia_archiver (+http://www.alexa.com/site/help/webmasters; crawler@alexa.com)">
       <input type="hidden" name="Cur_Page" value="/aboutus/privacy-policy.html">
       <input type="hidden" name="Cur_Uid" value="0">
       <input type="hidden" name="Cur_Aid" value="0">
