@@ -1,72 +1,175 @@
-> *The following text is extracted and transformed from the rotary.org privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616063253id_/http%3A//rotary.org/en/AboutUs/SiteTools/Legal/Pages/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rotary.org privacy policy that was archived on 2013-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131101020835id_/https%3A//www.rotary.org/en/privacy-policy) for the most accurate reproduction.*
 
-# Rotary.org: Copyright
+# Privacy Policy | Rotary
 
-##  RI privacy policy
+### ROTARY’S WEBSITE PRIVACY POLICY
 
-At its November 2007 meeting, the Board of Directors adopted the following policy:
+#### Introduction
 
-Rotary International is a worldwide organization of business and professional leaders that provides  
-humanitarian service, encourages high ethical standards in all vocations, and helps build goodwill and peace in the world. Approximately 1.2 million Rotarians belong to more than 32,000 clubs in more than 200 countries and geographical areas. 
+Rotary International and The Rotary Foundation of Rotary International ("Rotary") respect your privacy and are committed to protecting it through our compliance with this website privacy policy (“Policy”). Maintaining protection of the information entrusted to our care by our constituents is of the utmost importance to Rotary.
 
-The Rotary Foundation of Rotary International is a not-for-profit corporation that is supported solely by voluntary contributions from Rotarians and friends of the Foundation who share its vision of a better world.
+This Policy describes the types of information we may collect from you or that you may provide when you visit our website www.rotary.org (our "Website") and our practices for collecting, using, protecting and disclosing that information.
 
-Together, these two entities are collectively referred to as “RI” in this privacy statement. In the course of fulfilling its mission of supporting Rotarians and their Rotary clubs, RI collects personal information regarding the individuals it serves. RI is committed to maintaining the privacy of these individuals. 
+This Policy applies to information we collect:
 
-RI has adopted this privacy statement to affirm this commitment and to assure transparency in how it collects, retains and uses personal information.
-
-### What is personal information?
-
-Personal information is information that identifies or describes a Rotarian or other individual, including but not limited to name, contact information and email address.
-
-### Why RI collects personal information
-
-RI collects personal information to be used for the following purposes:
-
-  * Financial processing including but not limited to billing and payments. 
-  * Supporting The Rotary Foundation including but not limited to fund development,grants,awards, recognition, and promotion. 
-  * Tracking membership trends,identifying Rotarians for appointments to leadership positions and  
-supporting membership retention. 
-  * Communicating key organizational messages through RI publications and appropriate club and district officers. 
-  * Facilitating the planning and operation of international conventions and other meetings and special events. 
-  * Supporting and further developing programs and service activities. 
-  * Facilitating participation in programs and activities. 
-  * Communicating information to non-Rotarians including but not limited to alumni and licensees. 
+  * On our Website.
+  * In e-mail, text and other electronic messages between you and our Website.
+  * Through mobile and desktop applications you download from our Website, which provide dedicated non-browser-based interaction between you and our Website.
+  * When you interact with our advertising and applications on third-party websites and services, if those applications or advertising include links to this Policy.
 
 
 
-### When RI may disclose personal information to others
+It does not apply to information collected by:
 
-RI may disclose personal information about Rotarians and other individuals to others as necessary to facilitate the purposes of RI.
-
-For instance, RI may provide personal information to organizations that perform administrative services on its behalf. In such cases, RI requires these organizations to implement specific protections to safeguard this information.
-
-Further, at the direction of the RI Board of Directors and the Trustees of the Rotary Foundation, RI may occasionally participate in special advertising and/or marketing initiatives that involve the release of personal information. RI will notify affected Rotarians about these initiatives and give them the opportunity to decline participation.
-
-RI may also disclose personal information when:
-
-  * Such information is already otherwise available to the public. 
-  * Such disclosure may be required by law. 
-  * When necessary to protect the rights, privacy, safety or property of an individual or group. 
+  * Us offline or through any other means including on any other website operated by any third party; or
+  * Any third party, including through any application or content (including advertising) that may link to or be accessible from, or on, our Website.
 
 
 
-### Protection of personal information
+This Policy outlines our policies and practices regarding your information and how we will treat it. If you do not agree with our policies and practices, you should not use our Website. By accessing or using our Website, you agree to this Policy. This Policy may change from time to time (see _Changes to our Privacy Policy)_. Your continued use of our Website after we make changes is deemed to be acceptance of those changes, so please check the Policy periodically for updates. If any questions arise about the meaning or interpretation of this Policy, the English-language version of this Policy is the official text.
 
-RI will implement appropriate controls to monitor and assure compliance with this privacy statement, including the utilization of reasonable security measures to prevent unauthorized access to or inappropriate use of personal information. RI will immediately respond to any unauthorized access to or inappropriate use of personal information or any other violation of this privacy statement.
+#### Information We Collect About You and How We Collect It
 
-### Personal information on www.rotary.org
+We collect several types of information from and about users of our Website, including information:
 
-RI will protect the security of personal information on Rotary.org by using password-protected areas and other appropriate security measures. RI will restrict access to personal information available on Rotary.org to appropriate persons.
+  * by which you may be personally identified, including your  name, postal address, e-mail address or telephone number ("personal information");
+  * that is about you but individually does not identify you, such as age, gender, language preferences, expertise, date of birth; and/or
+  * about your internet connection, the equipment you use to access our Website and usage details.
 
-### Accuracy of personal information
 
-RI will take reasonable steps to ensure that personal information it retains is accurate. RI will provide reasonable access to individuals seeking to confirm or correct their personal information.
 
-### RI’s privacy statement
+We collect this information:
 
-In its efforts to ensure that RI is following appropriate privacy standards, RI will periodically review and update as appropriate its privacy policy.
+  * Directly from you when you provide it to us.
+  * Automatically as you navigate through the Website. Information collected automatically may include usage details, IP addresses and information collected through cookies, and other tracking technologies.
+  * From third parties we contract with to provide services on our behalf.
 
-If you have concerns or questions about this policy, please contact RI at [privacy@rotary.org](mailto:privacy@rotary.org).
 
-Read more about the [November 2007 Board of Directors meeting](https://web.archive.org/RIdocuments/en_pdf/board_minutes0711_en.pdf).
+
+#### Information You Provide to Us.
+
+We collect information you provide to us on or through our Website including:
+
+  * Information that you provide by filling in forms on our Website. This includes information provided at the time of registering to Rotary.org through Member Access, donating to The Rotary Foundation, subscribing to services available on our Website, including ideas.rotary.org, posting material or requesting further services. We may also ask you for information when you enter a contest or promotion sponsored by us, and when you report a problem with our Website.
+  * Records and copies of your correspondence (including e-mail addresses), if you contact us.
+  * Your responses to surveys that we might ask you to complete for research purposes.
+  * Details of transactions you carry out through our Website and of the fulfillment of your orders. You may be required to provide financial information before placing an order through our Website.
+  * Your search queries on our Website.
+  * There may be features that are developed in the future that may result in the collection of additional new information. 
+
+
+
+You also may provide information to be published or displayed (hereinafter, " **posted** ") on public areas of the Website, or transmitted to other users of the Website or third parties (collectively, "User Content"). Your User Content is posted on and transmitted to others at your own risk. Although we limit access to certain pages and you may set certain privacy settings for such information by logging into your account profile, please be aware that no security measures are perfect or impenetrable. Additionally, we cannot control the actions of other users of the Website with whom you may choose to share your User Content.
+
+#### Usage Details, IP Addresses, Cookies and Other Technologies.
+
+As you navigate through and interact with our Website, we may automatically collect certain information about your equipment, browsing actions and patterns, including:
+
+  * Details of your visits to our Website, including traffic data, location data, logs and other communication data and the resources that you access and use on our Website.
+  * Information about your computer and internet connection, including your IP address, operating system and browser type.
+
+
+
+The information we collect automatically is statistical data, and does not identify any individual. It helps us to improve our Website and to deliver a better and more personalized service by enabling us to:
+
+  * Estimate our audience size, browser statistics, popularity of content and usage patterns.
+  * Speed up your searches.
+  * Recognize you when you return to our Website.
+
+
+
+The technologies we use for this automatic data collection may include:
+
+  * **Cookies (or browser cookies).** A cookie is a small file placed on the hard drive of your computer. You may refuse to accept browser cookies by activating the appropriate setting on your browser. However, if you select this setting you may be unable to access certain parts of our Website. Unless you have adjusted your browser setting so that it will refuse cookies, our system will issue cookies when you direct your browser to our Website.
+
+
+
+We do not collect personal information automatically, but we may tie this information to personal information about you that we collect from other sources or you provide to us. 
+
+#### Third-party Advertiser Use of Cookies and Other Tracking Technologies
+
+Some advertisements on shop.rotary.org may be served by third-party advertisers, ad networks and ad servers. These third parties may use cookies alone or in conjunction with other tracking technologies to collect information about our users. We do not control these third parties' tracking technologies or how they may be used. In addition, shop.rotary.org is powered by Amazon. If you have any questions about an advertisement, you should contact the responsible advertiser directly or visit Amazon.com. For information about how you can opt out of receiving targeted advertising from these providers, see _Choices About How We Use and Disclose Your Information_
+
+#### How We Use Your Information
+
+We use information that we collect about you or that you provide to us, including any personal information:
+
+  * To present our Website and its contents to you.
+  * To provide you with information, products or services that you request from us.
+  * To offer and fulfill our core business purposes.
+  * To fulfill any other purpose for which you provide it.
+  * To carry out our obligations and enforce our rights arising from any contracts entered into between you and us, including for billing and collection.
+  * To notify you about changes to our Website or any products or services we offer or provide though it.
+  * To allow you to participate in interactive features on our Website.
+  * Store information about your preferences, allowing us to customize our Website according to your individual interests.
+  * In any other way we may describe when you provide the information.
+  * For any other purpose with your consent.
+
+
+
+We may also use your information to contact you about our own and third-parties' goods and services that may be of interest to you. Rotary confirms that it will not sell or trade its membership data without the prior approval of the Rotary Board of Directors. If you do not want us to use your information in this way, you may opt-out of these contacts by notifying us.  For more information, see _Choices About How We Use and Disclose Your Information_
+
+#### Disclosure of Your Information
+
+We may disclose aggregated information about our users, and information that does not identify any individual, without restriction.
+
+We may disclose personal information that we collect or you provide as described in this Policy:
+
+  * To contractors, service providers and other third parties we use to support our business and who are bound by contractual obligations to keep personal information confidential and use it only for the purposes for which we disclose it to them.
+  * To third parties to market their products or services to you if you have consented to these disclosures. We contractually require these third parties to keep personal information confidential and use it only for the purposes for which we disclose it to them. For more information, see _Choices About How We Use and Disclose Your Information_.
+  * To fulfill the purpose for which you provide it.
+  * For any other purpose disclosed by us when you provide the information.
+  * With your consent.
+
+
+
+We may also disclose your personal information:
+
+  * To comply with any court order, law or legal process, including to respond to any government or regulatory request.
+  * If we believe disclosure is necessary or appropriate to protect the rights, property, or safety of Rotary, Rotarians, Rotary clubs, Rotary districts or others. This includes exchanging information with other companies and organizations for the purposes of fraud protection and credit risk reduction.
+
+
+
+#### Choices About How We Use and Disclose Your Information
+
+We strive to provide you with choices regarding the personal information you provide to us. We have created mechanisms to provide you with the following control over your information:
+
+  * **Tracking Technologies and Advertising.** You can set your browser to refuse all or some browser cookies, or to alert you when cookies are being sent. If you disable or refuse cookies, please note that some parts of this site may then be inaccessible or not function properly.
+  * **Disclosure of Your Information for Third-Party Advertising.** If you do not want us to share your personal information with unaffiliated or non-agent third parties for promotional purposes, for some third-party advertisers you can opt-out by logging into our Website and adjusting your user preferences in your account profile by checking or unchecking the relevant boxes. Otherwise you can send us an e-mail stating your request to Contact.Center@Rotary.org.
+  * Promotional Offers. If you do not wish to have your contact information used by Rotary to promote our own or third parties' products or services, for some third parties’ products or services you can opt-out by logging into our Website and adjusting your user preferences in your account profile by checking or unchecking the relevant boxes. Otherwise you can send us an e-mail stating your request to Contact.Center@Rotary.org. If we have sent you a promotional e-mail, you may send us a return e-mail asking to be omitted from future e-mail distributions.
+
+
+
+#### Accessing and Correcting Your Information
+
+You can review and change your personal information by logging into our Website and visiting your account profile page on Member Access.
+
+You may also send us an e-mail at Contact.Center@Rotary.org to request access to, correct or delete any personal information that you have provided to us. We cannot delete your personal information except by also deleting your user account. We may not accommodate a request to change information if we believe the change would violate any law or legal requirement or cause the information to be incorrect.
+
+If you delete your User Content from the Website, copies of your User Content may remain viewable in cached and archived pages, or might have been copied or stored by other Website users. Proper access and use of information provided on our Website, including User Content, is governed by our [Terms of Use](https://web.archive.org/en/rotary-international-website-terms-use "Rotary International Website Terms of Use"). 
+
+#### Children Under the Age of 13
+
+Our Website is not intended for children under 13 years of age. No one under age 13 may provide any personal information to or on our Website. We do not knowingly collect personal information from children under 13. If you are under 13, do not use or provide any information on our Website or on or through any of its features/register on our Website, make any purchases through our Website, use any of the interactive or public comment features of our Website or provide any information about yourself to us, including your name, address, telephone number, e-mail address or any screen name or user name you may use. If we learn we have collected or received personal information from a child under 13 without verification of parental consent, we will delete that information. If you believe we might have any information from or about a child under 13, please contact us at Contact.Center@Rotary.org.
+
+#### California Privacy Rights
+
+California state law permits users of our Website that are California residents to request certain information regarding our disclosure of personal information (if any) to third parties for their direct marketing purposes. To make such a request, please send an e-mail to Contact.Center@Rotary.org.
+
+#### Data Security
+
+We have implemented measures designed to secure your personal information from accidental loss and from unauthorized access, use, alteration and disclosure.  All information you provide to us is stored on our secure servers behind firewalls.
+
+The safety and security of your information also depends on you. Where we have given you (or where you have chosen) a password for access to certain parts of our Website, you are responsible for keeping this password confidential. Passwords registered with our Website are encrypted to ensure protection against unauthorized access to your personal information. We ask you not to share your password with anyone. We urge you to be careful about giving out information in public areas of our Website. The information you share in public areas may be viewed by any user of our Website.
+
+Unfortunately, the transmission of information via the internet is not completely secure. Although we do our best to protect your personal information, we cannot guarantee the security of your personal information transmitted to our Website. Any transmission of personal information is at your own risk. We are not responsible for circumvention of any privacy settings or security measures contained on our Website.
+
+#### Changes to Our Privacy Policy
+
+Rotary may change, add, modify or remove portions of this Policy at any time, which shall become effective immediately upon posting on this page. The date the Policy was last revised is identified at the bottom of the page. It is your responsibility to review this Policy for any changes. By continuing to use our Website, you agree to any changes in the Policy.
+
+Contact Information
+
+If you have any questions about Rotary’s privacy protection practices or believe we have not adhered to this Policy, please contact us at [Contact.Center@rotary.org](mailto:Contact.Center@rotary.org)
+
+Last modified: 19 August 2013
