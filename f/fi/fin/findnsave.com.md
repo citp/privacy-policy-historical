@@ -1,18 +1,16 @@
-> *The following text is extracted and transformed from the findnsave.com privacy policy that was archived on 2013-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130503033735id_/http%3A//www.findnsave.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the findnsave.com privacy policy that was archived on 2013-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131101193042id_/http%3A//www.findnsave.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Find&Save
+# Find&Save | Privacy Policy
 
-##  Privacy Policy 
+##  Last Updated: February 26, 2013 
 
-###  Last Updated: February 26, 2013 
-
-Protecting your privacy is really important to FindnSave. Accordingly, we're providing this Privacy Policy to explain our practices regarding the collection, use and disclosure of information that we receive when you use our Services (as defined in our Terms of Service, accessible at [findnsave.com/terms](http://findnsave.com/terms)). This Privacy Policy applies only to those websites, services and applications included within "Services" and doesn't apply to any third-party websites, services or applications, even if they are accessible through our Services. 
+Protecting your privacy is really important to FindnSave. Accordingly, we're providing this Privacy Policy to explain our practices regarding the collection, use and disclosure of information that we receive when you use our Services (as defined in our Terms of Service, accessible at [findnsave.com/terms](https://web.archive.org/terms/)). This Privacy Policy applies only to those websites, services and applications included within "Services" and doesn't apply to any third-party websites, services or applications, even if they are accessible through our Services. 
 
 AS NOTED IN OUR TERMS OF SERVICE, WHEN YOU ACCESS THE SERVICES VIA THE FINDNSAVE-BRANDED SECTION OF A THIRD PARTY WEBSITE, ADDITIONAL THIRD PARTY TERMS MAY GOVERN YOUR USE OF THE THIRD PARTY WEBSITE ITSELF. IF YOU PROVIDE ANY INFORMATION TO THE THIRD PARTY WEBSITES, THEN THE PRIVACY POLICIES OF THE THIRD PARTY WEBSITES GOVERN THE THIRD PARTIES' USE OF THAT INFORMATION. FINDNSAVE IS NOT RESPONSIBLE FOR THE THIRD PARTY WEBSITES OR THE PRIVACY POLICIES OF ANY SUCH THIRD PARTIES AND DISCLAIMS ALL LIABILITY IN THIS REGARD. 
 
 Also, please note that, unless we define a term in this Privacy Policy, all capitalized words used in this Privacy Policy have the same meanings as in our Terms of Service. 
 
-###  How do we collect and use information? 
+##  How do we collect and use information? 
 
 Our primary goals in collecting information are to provide and improve our Services, to administer your use of the Services (including your Account, if you are an Account holder), and to enable you to enjoy and easily navigate our Services. 
 
@@ -26,7 +24,7 @@ _Location Information_. In some cases we collect and store information about whe
 
 _Promotions_. From time to time we may provide you the opportunity to participate in surveys, contests or sweepstakes (collectively, **"Promotions"** ) on the Services. If you decide to participate, we will request certain PII from you. Participation in these Promotions is completely voluntary and you have a choice whether or not to disclose this information. We use this information to administer your participation in each Promotion. 
 
-###  What Information Do We Share With Third Parties? 
+##  What Information Do We Share With Third Parties? 
 
 We will not share any PII that we have collected from you except as described below: 
 
@@ -42,30 +40,38 @@ _Information Disclosed for Our Protection and the Protection of Others_. It is o
 
 _Information We Disclose With Your Consent or at Your Request_. We will share your PII and information contained in your Account with third-party sites or platforms, such as your SNS Accounts, in accordance with the selections you make via the Services. 
 
-###  The Security of Your Information 
+##  The Security of Your Information 
 
 We take reasonable measures to protect the information that we collect from or about you (including your PII) from unauthorized access, use or disclosure. Please be aware, however, that no method of transmitting information over the Internet or storing information is completely secure. Accordingly, we cannot guarantee the absolute security of any information. 
 
-###  Links to Other Sites 
+##  Links to Other Sites 
 
 Our Services may contain links to other websites and services. Any information that you provide on or to a third-party website or service is provided directly to the owner of the website or service and is subject to that party's privacy policy, including as noted above, the third party website in which there is a Findnsave-branded section. Our Privacy Policy does not apply to such websites or services and we're not responsible for the content, privacy or security practices and policies of those websites or services. To protect your information we recommend that you carefully review the privacy policies of other websites and services that you access. 
 
-###  Modifying Your Information 
+##  Modifying Your Information 
 
 You can access and modify the PII associated with your Account via the "Edit Profile" section of the Services. If you want us to delete your PII and your Account, please contact us at [support@findnsave.com](mailto:support@findnsave.com) with your request. We'll take steps to delete your information as soon as is practicable, but some information may remain in archived/backup copies for our records or as otherwise required by law. 
 
-###  International Transfer 
+##  International Transfer 
 
 Your PII may be transferred to, and maintained on, computers located outside of your state, province, country or other governmental jurisdiction where the privacy laws may not be as protective as those in your jurisdiction. If you're located outside the United States and choose to provide your PII to us, we may transfer your PII to the United States and process it there. 
 
-###  Our Policy Toward Children 
+##  Our Policy Toward Children 
 
 Our Services are not directed to children under 13 and we do not knowingly collect PII from children under 13. If we learn that we have collected PII of a child under 13 we will take steps to delete such information from our files as soon as possible. 
 
-###  Changes to Privacy Policy 
+##  Changes to Privacy Policy 
 
 Any information that we collect is subject to the privacy policy in effect at the time such information is collected. We may, however, modify and revise this Privacy Policy from time to time. If we make any material changes to this Privacy Policy, we'll notify you of such changes by posting them on the Services or by sending you an email or other notification, and we'll indicate when such changes will become effective. 
 
-###  Questions? 
+##  Questions? 
 
 Please contact us at FindnSave Inc., 100 Los Gatos-Saratoga Rd., Suite A, Los Gatos, CA 95032 or via email at [support@findnsave.com](mailto:support@findnsave.com) if you have any questions about our Privacy Policy. 
+
+  * ✓Find local sales at your favorite stores
+  * ✓Follow stores and get notified of new sales
+  * ✓Create and save shopping lists online
+
+
+
+* * *
