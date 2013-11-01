@@ -1,11 +1,12 @@
-<!--The following is the downloaded HTML source of the cugj.com privacy policy that was archived on 2013-04-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130430231702id_/http%3A//directory.cugj.com/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the cugj.com privacy policy that was archived on 2013-11-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131101143839id_/http%3A//directory.cugj.com/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <title>CUGJ </title>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <link rel="stylesheet" type="text/css" href="http://images.ientrymail.com/tomld/www.cugj.com/main.css">
 <meta name="generator" content="PHP Link Directory 2.1.2">
+<script src="/jquery-1.10.2.js"></script>
 </head>
 <body><script src="http://www.ientry.com/ustream_header.php" type="text/javascript"></script>
 <table width="100%" border="0" cellspacing="0" cellpadding="0">
@@ -34,14 +35,24 @@
 </tbody></table>
 </td>
 </tr>
-</tbody></table><table width="780" height="40" border="0" align="center" cellpadding="0" cellspacing="0" class="topbar"><tbody><tr><td width="560"> Cugj </td><td width="20"><div align="right"> </div></td><td width="200"> <form action="/search.html" method="post"><table width="195" border="0" align="right" cellpadding="0" cellspacing="0"><tbody><tr><td> <input type="text" name="q" size="26" class="input"></td><td width="21"> <input name="search-btn" type="image" id="search-btn3" src="http://images.ientrymail.com/tomld/www.cugj.com/images/search.gif" alt="Search"></td></tr></tbody></table></form></td></tr></tbody></table> <br> <table width="780" border="0" align="center" cellpadding="0" cellspacing="0" style="padding-left: 25px;"><tbody><tr> 
+</tbody></table><table width="780" height="40" border="0" align="center" cellpadding="0" cellspacing="0" class="topbar"><tbody><tr><td width="560"> Cugj </td><td width="20"><div align="right"> </div></td><td width="200"> <form id="search-submit" method="post"><table width="195" border="0" align="right" cellpadding="0" cellspacing="0"><tbody><tr><td> <input type="text" id="qu" size="26" class="input"></td><td width="21"> <input name="search-btn" type="image" id="search-btn3" src="http://images.ientrymail.com/tomld/www.cugj.com/images/search.gif" alt="Search"></td></tr></tbody></table></form></td></tr></tbody></table> <br> <table width="780" border="0" align="center" cellpadding="0" cellspacing="0" style="padding-left: 25px;"><tbody><tr> 
 <td valign="top"><table width="185" border="0" cellpadding="0" cellspacing="7" bgcolor="#F6F6F6" class="sponsor-link">
 <tbody><tr> 
 <td>
 <center><script language="JavaScript" src="http://aj.600z.com/aj/45010/0/vj?z=1&amp;ch=35778&amp;dim=145"></script></center>
 </td>
 </tr>
-</tbody></table></td><td valign="top"><b style="font-size: 16px;" class="mainarticle">Privacy Policy</b>
+</tbody></table></td><td valign="top">
+<script>
+    $("#search-submit").submit(function(e){
+                e.preventDefault();
+                var qq = $('#qu').val();
+              window.location.href = '/sch' + '.html' + '?q=' + qq;
+              return FALSE;
+            });
+
+  </script>
+<b style="font-size: 16px;" class="mainarticle">Privacy Policy</b>
 
 <br><br>
 iEntry reserves the right to change this policy at any time by notifying users through a notice posted on iEntry.com or by email, of the existence of a new privacy policy or any updates. 
