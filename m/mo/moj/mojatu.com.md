@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mojatu.com privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502192823id_/http%3A//www.mojatu.com/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mojatu.com privacy policy that was archived on 2013-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131101153333id_/http%3A//www.mojatu.com/policy) for the most accurate reproduction.*
 
 # Privacy Policy » Mojatu.com » Your Life Connected | Connecting Africans Globally
 
