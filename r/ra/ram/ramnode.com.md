@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ramnode.com privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502062443id_/https%3A//clientarea.ramnode.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ramnode.com privacy policy that was archived on 2013-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131101204046id_/https%3A//clientarea.ramnode.com/privacy.php) for the most accurate reproduction.*
 
 # Client Area - RamNode
 
@@ -38,7 +38,7 @@ We will not provide any personally identifiable information about you to any oth
   * a law enforcement or regulatory agency at their request;
   * a person or company who acquires our business;
   * third parties who perform services on our behalf (such as payment processing), subject to the third party agreeing with us that it will keep your personally identifiable information confidential;
-  * as otherwise needed to protect or enforce or rights or the rights of others.
+  * as otherwise needed to protect or enforce the rights of others.
 
 
 
