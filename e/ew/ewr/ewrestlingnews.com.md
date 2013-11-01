@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ewrestlingnews.com privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502234314id_/http%3A//www.ewrestlingnews.com/site/page%3Fview%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ewrestlingnews.com privacy policy that was archived on 2013-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131101211136id_/http%3A//www.ewrestlingnews.com/site/page%3Fview%3Dprivacy) for the most accurate reproduction.*
 
 # eWrestlingNews.com - Privacy
 
