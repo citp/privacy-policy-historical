@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the realtyusa.com privacy policy that was archived on 2012-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120701015028id_/http%3A//www.realtyusa.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realtyusa.com privacy policy that was archived on 2013-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131101182614id_/http%3A//realtyusa.com/privacy.asp) for the most accurate reproduction.*
 
 # RealtyUSA - Privacy
 
