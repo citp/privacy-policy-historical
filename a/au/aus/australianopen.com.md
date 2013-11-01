@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the australianopen.com privacy policy that was archived on 2013-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130404031631id_/http%3A//www.australianopen.com/en_AU/info/privacy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the australianopen.com privacy policy that was archived on 2013-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131101025441id_/http%3A//www.australianopen.com/en_AU/info/privacy/index.html) for the most accurate reproduction.*
 
 # Privacy - Australian Open Tennis Championships 2013 - Official Site by IBM
 
