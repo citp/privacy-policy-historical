@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the businessnameusa.com privacy policy that was archived on 2013-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130515182813id_/http%3A//www.businessnameusa.com/Contacts/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the businessnameusa.com privacy policy that was archived on 2013-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131101103528id_/http%3A//www.businessnameusa.com/Contacts/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # www.BusinessNameUSA.com Privacy Notice
 
