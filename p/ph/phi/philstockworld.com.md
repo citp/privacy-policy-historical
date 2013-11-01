@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the philstockworld.com privacy policy that was archived on 2013-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130503052634id_/http%3A//www.philstockworld.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the philstockworld.com privacy policy that was archived on 2013-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131101203652id_/http%3A//www.philstockworld.com/about/privacy) for the most accurate reproduction.*
 
 # PhilStockWorld.com Privacy Policy | Phil’s Stock World
 
