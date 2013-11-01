@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the greenmountaincoffee.com privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501121926id_/http%3A//www.greenmountaincoffee.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greenmountaincoffee.com privacy policy that was archived on 2013-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131101212349id_/http%3A//www.greenmountaincoffee.com/privacy-policy.aspx) for the most accurate reproduction.*
 
-# Privacy Policy - Green Mountain Coffee
+# 
 
   * [Café Express](https://web.archive.org/mbrSignIn.aspx)
   * [For Business](https://web.archive.org/ForBusiness)
