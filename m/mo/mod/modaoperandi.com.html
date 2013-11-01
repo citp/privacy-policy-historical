@@ -1,24 +1,25 @@
-<!--The following is the downloaded HTML source of the modaoperandi.com privacy policy that was archived on 2013-06-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130621054059id_/http%3A//modaoperandi.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the modaoperandi.com privacy policy that was archived on 2013-11-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131101092036id_/http%3A//modaoperandi.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class=" js flexbox flexboxlegacy canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths"><head>
             <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="format-detection" content="telephone=no">
     <meta charset="utf-8">
     <script type="text/javascript">var NREUMQ=NREUMQ||[];NREUMQ.push(["mark","firstbyte",new Date().getTime()]);</script>
 <link href="https://plus.google.com/110247044913210817399" rel="publisher">
-    <title>Moda Operandi</title>
+    <title>Privacy - Moda Operandi</title>
 	<meta name="author" content="Moda Operandi: Tomorrow's Fashion Today">
-	<meta name="title" content="Moda Operandi">
+	<meta name="title" content="Privacy - Moda Operandi">
 	<meta name="description" content="Preorder designer collections straight from the runway and shop our expertly curated selection of in-season items, only at Moda Operandi.">
 	<meta name="keywords" content="">
 	<meta name="viewport" content="user-scalable=no, initial-scale=1, maximum-scale=1, width=device-width">
-	<meta property="og:title" content="Moda Operandi">
+	<meta property="og:title" content="Privacy - Moda Operandi">
 	<meta property="og:description" content="Preorder designer collections straight from the runway and shop our expertly curated selection of in-season items, only at Moda Operandi.">
 
-    <link rel="stylesheet" href="/css/modaoperandi_1371672057.css">
+    <link rel="stylesheet" href="/css/modaoperandi_1383247342.css">
                         
-        <link rel="stylesheet" href="/css/main_1371672058.css"><link rel="stylesheet" href="/css/met_gala.css">
-
+    <link rel="stylesheet" href="/css/main_1383247342.css">    <link rel="stylesheet" href="/css/main2.css?ver=1383247328">
+    <link rel="stylesheet" href="/css/met_gala.css">
 <!-- this is scripts/_header.php -->
 <!-- these files are also in the partials/_scripts file. Why are they loaded again?-->
 <script src="/js/libs/modernizr.js"></script>
@@ -36,33 +37,28 @@
     'logged-in': MO.viewModel.customer.authenticated() &amp;&amp; MO.viewModel.customer.user_status() != 'guest'
 }">
 <!--[if lt IE 7]><p class=chromeframe>Your browser is <em>ancient!</em> <a href="http://browsehappy.com/">Upgrade to a different browser</a> or <a href="http://www.google.com/chromeframe/?redirect=true">install Google Chrome Frame</a> to experience this site.</p><![endif]-->
-<header class="main-header">
+<header class="main-header old-header">
 
     <!-- ko stopBinding: true -->
 <nav class="account-nav clearfix">
     <div class="nav-container">
         <ul class="account-nav-left">
-            <li class="account-holder" style="display: none;" data-bind="visible: customer.user_status() === 'accountholder'">
-                <p>Welcome, <span data-bind="text: customer.name_first">Shopper</span></p>
-            </li>
             <li class="navlink-account dropdown-link" style="display: none;" data-bind="visible: customer.user_status() === 'accountholder'">
-                <p><span class="toggle">My</span> Account <i class="icon-solid_arrow_down"></i></p>
+                <p><span class="desktop"><strong data-bind="text: customer.name_first">Shopper</strong></span><span class="mobile">Account</span><i class="icon-solid_arrow_down"></i></p>
                 <ul class="dropdown">
-                    <li><a href="/account/orders">Orders</a></li>
-                    <li><a href="/account/returns">Returns</a></li>
-                    <li><a href="/account/profile">Profile</a></li>
-                    <li><a href="/account/email">Email Preferences</a></li>
-                    <li><a href="/account/addresses">Addresses</a></li>
-                    <li><a href="/account/payment">Payment Methods</a></li>
-                    <li><a href="/account/promotions">Credits &amp; Promotions</a></li>
-                    <li><a class="logout" href="#">Logout</a></li>
+                    <li class="mobile"><span class="mobile-welcome">Welcome, <strong data-bind="text: customer.name_first">Shopper</strong></span><span class="icon-solid_arrow_up"></span></li>
+                    <li class="menu-link"><a href="/account">My Account</a></li>
+                    <li class="menu-link"><a href="/account/orders">Order History</a></li>
+                    <li class="separator"><div class="line"></div></li>
+                    <li class="promo-table-container desktop autoheight" data-bind="html: customer.promo_table"></li>
+                    <li class="menu-link"><a class="logout" href="#">Logout</a></li>
                 </ul>
             </li>
 
             <li class="navlink-sign-in" data-bind="visible: customer.user_status() !== 'accountholder'"><p><span class="toggle navlink-sign-in register">Register |</span> <span class="navlink-sign-in sign-in">Sign&nbsp;In</span></p></li>
 
-            <li class="navlink-countries dropdown-link" data-bind="visible: customer.user_status() !== 'accountholder'">
-                <p><span data-bind="text: prefCountry.name" class="SL_block"></span> <i class="icon-solid_arrow_down"></i></p>
+            <li class="navlink-countries dropdown-link">
+                <p class="selected-country"><span data-bind="text: prefCountry.name" class="SL_block">&nbsp;</span><i class="icon-solid_arrow_down"></i></p>
                 <ul class="dropdown">
                     <li class="us-site site-select selected">
                         <span>United States Site <i class="icon-line_arrow_up"></i></span>
@@ -94,18 +90,18 @@
                     </li>
                 </ul>
             </li>
-
         </ul>
+
+        <div class="small-logo-container hidden">
+            <h1 class="small-logo"><a href="/"><img src="/img/mo-logo@2x.png" alt="Moda Operandi"></a></h1>
+        </div>
 
         <ul class="account-nav-right">
             <li class="navlink-shopping-bag dropdown-link">
                 <p>
-                    <a href="/bag">
-                        <span class="toggle">Shopping</span>
-                        Bag
-                        <span class="mobile-bag-counter" data-bind="text: shoppingBag.count()"></span>
-                        <span class="shopping-bag-count" data-bind="text: shoppingBag.count()">0</span> <i class="icon-solid_arrow_down"></i>
-                    </a>
+                    <span class="toggle">Shopping</span>
+                    Bag
+                    <span class="shopping-bag-count" data-bind="text: shoppingBag.count()">0</span> <i class="icon-solid_arrow_down"></i>
                 </p>
                 <div class="dropdown">
                     
@@ -120,7 +116,7 @@
             ship now
         </header>
         <ul class="cart-renderer boutique" data-bind="foreach: { data: shoppingBag.boutique() }">
-            <li class="cart-product" data-bind="attr: { 'data-id_cartitem': cartitem.id_cartitem, 'data-upc_code': cartitem.product.upc_code}">
+            <li class="cart-product" data-bind="attr: { 'data-id_cartitem': cartitem.id_cartitem, 'data-upc_code': cartitem.product.upc_code}, css: {'has-shipping-restriction': MO.Checkout.Restrictions.hasRestriction(cartitem)}">
     <a class="cart-product-image" data-bind="attr: { href: cartitem.product.url }">
         <img data-bind="attr: { src: cartitem.product.img_thumbnail }">
     </a>
@@ -130,32 +126,23 @@
         </a>
         <p class="product-name" data-bind="text: cartitem.product.name"></p>
         <p>
-            <span class="product-price usd" data-bind="text: '$'+MO.Utils.number_format(cartitem.product.price(),0,'.',','), css: {sale: cartitem.product.price_us.price_level_code != 'R'}"></span>
-            <span class="product-price usd" data-bind="css: {sale: cartitem.product.price_us.price_level_code() != 'R'}">
-                <span class="retail" data-bind="text: '$'+MO.Utils.number_format(cartitem.product.full_price_us.retail_USD_wh1(),0,'.',',')"></span>
-            </span>
+            <span class="product-price usd" data-bind="text: '$'+MO.Utils.number_format(cartitem.product.price(),0,'.',',')"></span>
             <span class="usd deposit" data-bind="text: '($'+MO.Utils.number_format(cartitem.product.required_deposit_USD(),0,'.',',')+' deposit)'"></span>
         </p>
         <p>
-            <span class="product-price eur" data-bind="text: '€'+MO.Utils.number_format(cartitem.product.retail_EUR_wh2(),0,'.',','), css: {sale: cartitem.product.price_intl.price_level_code != 'R'}"></span>
-            <span class="product-price eur" data-bind="css: {sale: cartitem.product.price_intl.price_level_code() != 'R'}">
-                <span class="retail" data-bind="text: '$'+MO.Utils.number_format(cartitem.product.full_price_intl.retail_EUR_wh2(),0,'.',',')"></span>
-            </span>
+            <span class="product-price eur" data-bind="text: '€'+MO.Utils.number_format(cartitem.product.retail_EUR_wh2(),0,'.',',')"></span>
             <span class="eur deposit" data-bind="text: '(€'+MO.Utils.number_format(cartitem.product.required_deposit_EUR(),0,'.',',')+' deposit)'"></span>
         </p>
         <p>
-            <span class="product-price eur-pretax" data-bind="text: '€'+MO.Utils.number_format(cartitem.product.pretax_retail_EUR_wh2(),0,'.',','), css: {sale: cartitem.product.price_intl.price_level_code != 'R'}"></span>
-            <span class="product-price eur-pretax" data-bind="css: {sale: cartitem.product.price_intl.price_level_code() != 'R'}">
-                <span class="retail" data-bind="text: '$'+MO.Utils.number_format(cartitem.product.full_price_intl.pretax_retail_EUR_wh2(),0,'.',',')"></span>
-            </span>
+            <span class="product-price eur-pretax" data-bind="text: '€'+MO.Utils.number_format(cartitem.product.pretax_retail_EUR_wh2(),0,'.',',')"></span>
             <span class="eur-pretax deposit" data-bind="text: '(€'+MO.Utils.number_format(cartitem.product.required_deposit_pretax_EUR(),0,'.',',')+' deposit)'"></span>
         </p>
         <p class="color-size-info">
-            <span data-bind="text: cartitem.product.chosenColor().color"></span>, <span data-bind="text: cartitem.product.chosenSize().size"></span>
+            <span data-bind="text: cartitem.product.color"></span>, <span data-bind="text: cartitem.product.size"></span>
         </p>
-        <div class="shipping-restrictions" data-bind="text: MO.restrictions.update(cartitem.product,MO.viewModel.customer.address_country(),MO.viewModel.customer.address_region())"></div>
         <i class="icon-close remove-item"></i>
-</div>
+    </div>
+    <div class="shipping-restriction-message">This item does not ship to your selected country. Please enter a new address.</div>
 </li>        </ul>
     </div>
     <div id="shopping-bag-trunkshow" data-bind="visible: shoppingBag.trunkshow().length">
@@ -164,7 +151,7 @@
             preorder
         </header>
         <ul class="cart-renderer trunkshow" data-bind="foreach: { data: shoppingBag.trunkshow() }">
-            <li class="cart-product" data-bind="attr: { 'data-id_cartitem': cartitem.id_cartitem, 'data-upc_code': cartitem.product.upc_code}">
+            <li class="cart-product" data-bind="attr: { 'data-id_cartitem': cartitem.id_cartitem, 'data-upc_code': cartitem.product.upc_code}, css: {'has-shipping-restriction': MO.Checkout.Restrictions.hasRestriction(cartitem)}">
     <a class="cart-product-image" data-bind="attr: { href: cartitem.product.url }">
         <img data-bind="attr: { src: cartitem.product.img_thumbnail }">
     </a>
@@ -174,32 +161,23 @@
         </a>
         <p class="product-name" data-bind="text: cartitem.product.name"></p>
         <p>
-            <span class="product-price usd" data-bind="text: '$'+MO.Utils.number_format(cartitem.product.price(),0,'.',','), css: {sale: cartitem.product.price_us.price_level_code != 'R'}"></span>
-            <span class="product-price usd" data-bind="css: {sale: cartitem.product.price_us.price_level_code() != 'R'}">
-                <span class="retail" data-bind="text: '$'+MO.Utils.number_format(cartitem.product.full_price_us.retail_USD_wh1(),0,'.',',')"></span>
-            </span>
+            <span class="product-price usd" data-bind="text: '$'+MO.Utils.number_format(cartitem.product.price(),0,'.',',')"></span>
             <span class="usd deposit" data-bind="text: '($'+MO.Utils.number_format(cartitem.product.required_deposit_USD(),0,'.',',')+' deposit)'"></span>
         </p>
         <p>
-            <span class="product-price eur" data-bind="text: '€'+MO.Utils.number_format(cartitem.product.retail_EUR_wh2(),0,'.',','), css: {sale: cartitem.product.price_intl.price_level_code != 'R'}"></span>
-            <span class="product-price eur" data-bind="css: {sale: cartitem.product.price_intl.price_level_code() != 'R'}">
-                <span class="retail" data-bind="text: '$'+MO.Utils.number_format(cartitem.product.full_price_intl.retail_EUR_wh2(),0,'.',',')"></span>
-            </span>
+            <span class="product-price eur" data-bind="text: '€'+MO.Utils.number_format(cartitem.product.retail_EUR_wh2(),0,'.',',')"></span>
             <span class="eur deposit" data-bind="text: '(€'+MO.Utils.number_format(cartitem.product.required_deposit_EUR(),0,'.',',')+' deposit)'"></span>
         </p>
         <p>
-            <span class="product-price eur-pretax" data-bind="text: '€'+MO.Utils.number_format(cartitem.product.pretax_retail_EUR_wh2(),0,'.',','), css: {sale: cartitem.product.price_intl.price_level_code != 'R'}"></span>
-            <span class="product-price eur-pretax" data-bind="css: {sale: cartitem.product.price_intl.price_level_code() != 'R'}">
-                <span class="retail" data-bind="text: '$'+MO.Utils.number_format(cartitem.product.full_price_intl.pretax_retail_EUR_wh2(),0,'.',',')"></span>
-            </span>
+            <span class="product-price eur-pretax" data-bind="text: '€'+MO.Utils.number_format(cartitem.product.pretax_retail_EUR_wh2(),0,'.',',')"></span>
             <span class="eur-pretax deposit" data-bind="text: '(€'+MO.Utils.number_format(cartitem.product.required_deposit_pretax_EUR(),0,'.',',')+' deposit)'"></span>
         </p>
         <p class="color-size-info">
-            <span data-bind="text: cartitem.product.chosenColor().color"></span>, <span data-bind="text: cartitem.product.chosenSize().size"></span>
+            <span data-bind="text: cartitem.product.color"></span>, <span data-bind="text: cartitem.product.size"></span>
         </p>
-        <div class="shipping-restrictions" data-bind="text: MO.restrictions.update(cartitem.product,MO.viewModel.customer.address_country(),MO.viewModel.customer.address_region())"></div>
         <i class="icon-close remove-item"></i>
-</div>
+    </div>
+    <div class="shipping-restriction-message">This item does not ship to your selected country. Please enter a new address.</div>
 </li>        </ul>
     </div>
     <div id="shopping-bag-sold-out" data-bind="visible: shoppingBag.sold_out().length">
@@ -210,7 +188,7 @@
         <div class="list-overlay-wrapper">
             <div class="overlay"></div>
             <ul class="cart-renderer sold-out" data-bind="foreach: { data: shoppingBag.sold_out() }">
-                <li class="cart-product" data-bind="attr: { 'data-id_cartitem': cartitem.id_cartitem, 'data-upc_code': cartitem.product.upc_code}">
+                <li class="cart-product" data-bind="attr: { 'data-id_cartitem': cartitem.id_cartitem, 'data-upc_code': cartitem.product.upc_code}, css: {'has-shipping-restriction': MO.Checkout.Restrictions.hasRestriction(cartitem)}">
     <a class="cart-product-image" data-bind="attr: { href: cartitem.product.url }">
         <img data-bind="attr: { src: cartitem.product.img_thumbnail }">
     </a>
@@ -220,37 +198,27 @@
         </a>
         <p class="product-name" data-bind="text: cartitem.product.name"></p>
         <p>
-            <span class="product-price usd" data-bind="text: '$'+MO.Utils.number_format(cartitem.product.price(),0,'.',','), css: {sale: cartitem.product.price_us.price_level_code != 'R'}"></span>
-            <span class="product-price usd" data-bind="css: {sale: cartitem.product.price_us.price_level_code() != 'R'}">
-                <span class="retail" data-bind="text: '$'+MO.Utils.number_format(cartitem.product.full_price_us.retail_USD_wh1(),0,'.',',')"></span>
-            </span>
+            <span class="product-price usd" data-bind="text: '$'+MO.Utils.number_format(cartitem.product.price(),0,'.',',')"></span>
             <span class="usd deposit" data-bind="text: '($'+MO.Utils.number_format(cartitem.product.required_deposit_USD(),0,'.',',')+' deposit)'"></span>
         </p>
         <p>
-            <span class="product-price eur" data-bind="text: '€'+MO.Utils.number_format(cartitem.product.retail_EUR_wh2(),0,'.',','), css: {sale: cartitem.product.price_intl.price_level_code != 'R'}"></span>
-            <span class="product-price eur" data-bind="css: {sale: cartitem.product.price_intl.price_level_code() != 'R'}">
-                <span class="retail" data-bind="text: '$'+MO.Utils.number_format(cartitem.product.full_price_intl.retail_EUR_wh2(),0,'.',',')"></span>
-            </span>
+            <span class="product-price eur" data-bind="text: '€'+MO.Utils.number_format(cartitem.product.retail_EUR_wh2(),0,'.',',')"></span>
             <span class="eur deposit" data-bind="text: '(€'+MO.Utils.number_format(cartitem.product.required_deposit_EUR(),0,'.',',')+' deposit)'"></span>
         </p>
         <p>
-            <span class="product-price eur-pretax" data-bind="text: '€'+MO.Utils.number_format(cartitem.product.pretax_retail_EUR_wh2(),0,'.',','), css: {sale: cartitem.product.price_intl.price_level_code != 'R'}"></span>
-            <span class="product-price eur-pretax" data-bind="css: {sale: cartitem.product.price_intl.price_level_code() != 'R'}">
-                <span class="retail" data-bind="text: '$'+MO.Utils.number_format(cartitem.product.full_price_intl.pretax_retail_EUR_wh2(),0,'.',',')"></span>
-            </span>
+            <span class="product-price eur-pretax" data-bind="text: '€'+MO.Utils.number_format(cartitem.product.pretax_retail_EUR_wh2(),0,'.',',')"></span>
             <span class="eur-pretax deposit" data-bind="text: '(€'+MO.Utils.number_format(cartitem.product.required_deposit_pretax_EUR(),0,'.',',')+' deposit)'"></span>
         </p>
         <p class="color-size-info">
-            <span data-bind="text: cartitem.product.chosenColor().color"></span>, <span data-bind="text: cartitem.product.chosenSize().size"></span>
+            <span data-bind="text: cartitem.product.color"></span>, <span data-bind="text: cartitem.product.size"></span>
         </p>
-        <div class="shipping-restrictions" data-bind="text: MO.restrictions.update(cartitem.product,MO.viewModel.customer.address_country(),MO.viewModel.customer.address_region())"></div>
         <i class="icon-close remove-item"></i>
-</div>
+    </div>
+    <div class="shipping-restriction-message">This item does not ship to your selected country. Please enter a new address.</div>
 </li>            </ul>
         </div>
     </div>
 </div>
-
                                         <div class="checkout-area" data-bind="visible: shoppingBag.count()">
                         <table>
                             <tbody><tr class="subtotal">
@@ -262,285 +230,116 @@
                                 <td data-bind="text: MO.format.currency( shoppingBag.totals.total_pay_now(), shoppingBag.currency(), false, true )"></td>
                             </tr>
                         </tbody></table>
-
-                        <a href="https://modaoperandi.com/checkout/" class="button dark-red-button">Check Out</a>
+                        <a href="https://modaoperandi.com/checkout/" class="button dark-red-button">Go to Checkout</a>
                     </div>
                     <a href="/bag" class="view-all" data-bind="visible: shoppingBag.count() > 0">View shopping bag (<span data-bind="text: shoppingBag.count()">0</span><span data-bind="if: shoppingBag.count() === 1, visible: shoppingBag.count() === 1"> item</span><span data-bind="if: shoppingBag.count() > 1, visible: shoppingBag.count() > 1"> items</span>)</a>
                 </div>
             </li>
-            <li class="navlink-checkout" style="display: none;" data-bind="visible : shoppingBag.count() > 0"><a href="https://modaoperandi.com/checkout/">Checkout</a></li>
+            <li class="navlink-checkout" style="display: none;" data-bind="visible : shoppingBag.count() > 0"><a href="https://modaoperandi.com/checkout/">Go to checkout</a></li>
         </ul>
     </div>
 </nav>
 <!-- /ko -->
-    <h1 class="hclass"><a href="/"><img src="/img/mo-logo.png" class="replace_2x" data-img-highres="/img/mo-logo@2x.png" alt="Moda Operandi"></a></h1>
+    <h1 class="hclass"><a href="/"><img src="/img/mo-logo.png" class="replace_2x" data-img-highres="/img/mo-logo@2x.png" alt="Moda Operandi" border="0"></a></h1>
     
 <div id="optimizely-banner" class="top-banner"></div>
 
 <nav class="sections-nav">
-	<ul class="navigation">
+    <ul class="navigation">
         <li class=" navlink-designers-new navhover">
-            <a href="/designers">Designers</a>
-            <div class="dropdown">
-    <div class="drop-title">Shop by Designer</div>
-    <p>Select your favorite designers</p>
-
-    <div class="nav-leftcol">
-        <div class="textlist">
-            <ul>
-                <li><a href="/thom-browne">Thom Browne</a></li>
-                <li><a href="/charlotte-olympia">Charlotte Olympia</a></li>
-                <li><a href="/marni">Marni</a></li>
-                <li><a href="/valentino">Valentino</a></li>
-                <li><a href="/nicholas-kirkwood">Nicholas Kirkwood</a></li>
-                <li><a href="/rochas">Rochas</a></li>
-                <li><a href="/marc-jacobs">Marc Jacobs</a></li>
-                <li><a href="/givenchy">Givenchy</a></li>
-                <li><a href="/equipment">Equipment</a></li>
-                <li><a href="/vivienne-westwood">Vivienne Westwood</a></li>
-                <li><a href="/rodarte">Rodarte</a></li>
-            </ul>
-            <a href="/designers" class="seeall">View All Designers ›</a>
-        </div>
-
-        <div class="navlink-campaign">
-            <h2>EXCLUSIVE COLLECTIONS</h2>
-            <ul>
-                <li><a href="/view-all?f=110104-10001-110049">Givenchy</a></li>
-                <li><a href="/view-all?f=110104-10001-110050">Balmain</a></li>
-                <li><a href="/view-all?f=110104-10001-70461">Thom Browne</a></li>
-                <li><a href="/view-all?f=110104-10001-110052">Vivienne Westwood</a></li>
-            </ul>
-        </div>
+            <a href="/designers">
+                <span class="main-title">Designers</span><br>
+                <span class="sub-title">View all</span>
+            </a>
+            <div class="nav-dropdown designers">
+    <div class="nav-dropdown-left">
+        <a href="/trunkshows" class="nav-dropdown-title-link">
+            <p class="nav-dropdown-title">Latest Trunkshows</p>
+            <p class="nav-dropdown-subtitle">Next season's collections</p>
+        </a>
+        <ul class="nav-dropdown-list">
+                        <li class="nav-dropdown-list-item"><a href="http://modaoperandi.com/timo-weiland/ss14/rtw-2179/">Timo Weiland</a></li>
+                        <li class="nav-dropdown-list-item"><a href="http://modaoperandi.com/delfina-delettrez/ss14/jewelry-2178/">Delfina Delettrez</a></li>
+                        <li class="nav-dropdown-list-item"><a href="http://modaoperandi.com/vbh/ss14/accessories-2167/">VBH</a></li>
+                        <li class="nav-dropdown-list-item"><a href="http://modaoperandi.com/vivetta/ss14/rtw-2209/">Vivetta</a></li>
+                        <li class="nav-dropdown-list-item"><a href="http://modaoperandi.com/barbara-casasola/ss14/rtw-2180/">Barbara Casasola</a></li>
+                        <li class="nav-dropdown-list-item"><a href="http://modaoperandi.com/fausto-puglisi/ss14/rtw-2103/">Fausto Puglisi</a></li>
+                        <li class="nav-dropdown-list-item"><a href="http://modaoperandi.com/salvatore-ferragamo/sp13/accessories-2101/">Salvatore Ferragamo Limited Edition Collection</a></li>
+                        <li class="nav-dropdown-list-item"><a href="http://modaoperandi.com/tibi/ss14/rtw-2114/">Tibi</a></li>
+                        <li class="nav-dropdown-list-item"><a href="http://modaoperandi.com/clements-ribiero/ss14/rtw-2111/">Clements Ribeiro</a></li>
+                        <li class="nav-dropdown-list-item"><a href="http://modaoperandi.com/daniela-villegas/ss14/jewelry-2144/">Daniela Villegas</a></li>
+                    </ul>
+        <a href="/trunkshows" class="nav-dropdown-see-all">All Trunkshows &gt;</a>
     </div>
-
-    <a href="/designers">
-        <img data-src="http://img.modaoperandi.com/media/img/category_banners/thombrowne_pf13-480_small.jpg" src="/img/product-placeholder.gif">
+    <div class="nav-dropdown-right">
+        <a href="/boutique" class="nav-dropdown-title-link">
+            <p class="nav-dropdown-title">Featured Boutique</p>
+            <p class="nav-dropdown-subtitle">Ready to ship now</p>
+        </a>
+        <ul class="nav-dropdown-list">
+                        <li class="nav-dropdown-list-item"><a href="/charlotte-olympia">Charlotte Olympia</a></li>
+                        <li class="nav-dropdown-list-item"><a href="/kenzo">Kenzo</a></li>
+                        <li class="nav-dropdown-list-item"><a href="/marc-jacobs">Marc Jacobs</a></li>
+                        <li class="nav-dropdown-list-item"><a href="/marni">Marni</a></li>
+                        <li class="nav-dropdown-list-item"><a href="/nina-ricci">Nina Ricci</a></li>
+                        <li class="nav-dropdown-list-item"><a href="/oscar-de-la-renta">Oscar de la Renta</a></li>
+                        <li class="nav-dropdown-list-item"><a href="/prabal-gurung">Prabal Gurung</a></li>
+                        <li class="nav-dropdown-list-item"><a href="/rochas">Rochas</a></li>
+                        <li class="nav-dropdown-list-item"><a href="/thom-browne">Thom Browne</a></li>
+                        <li class="nav-dropdown-list-item"><a href="/valentino">Valentino</a></li>
+                    </ul>
+        <a href="/designers" class="nav-dropdown-see-all">All boutique designers &gt;</a>
+    </div>
+</div>        </li><!-- no white space here, display: inline-block renders it --><li class=" navlink-trunkshows navhover">
+            <a href="/trunkshows">
+                <span class="main-title">Trunkshows</span><br>
+                <span class="sub-title">Preorder</span>
+            </a>
+            <div class="nav-dropdown trunkshows">
+    <a href="/trunkshows" class="nav-dropdown-title-link">
+        <p class="nav-dropdown-title">Preorder Designer Trunkshows</p>
+        <p class="nav-dropdown-subtitle">Exclusive access to next season's collections</p>
     </a>
-
+    <div class="nav-dropdown-content">
+        <ul class="nav-dropdown-list clearfix">
+            <div class="ts-list-left clearfix">
+                                <li class="nav-dropdown-list-item"><a href="http://modaoperandi.com/timo-weiland/ss14/rtw-2179/">Timo Weiland</a></li>
+                                <li class="nav-dropdown-list-item"><a href="http://modaoperandi.com/delfina-delettrez/ss14/jewelry-2178/">Delfina Delettrez</a></li>
+                                <li class="nav-dropdown-list-item"><a href="http://modaoperandi.com/vbh/ss14/accessories-2167/">VBH</a></li>
+                                <li class="nav-dropdown-list-item"><a href="http://modaoperandi.com/vivetta/ss14/rtw-2209/">Vivetta</a></li>
+                                <li class="nav-dropdown-list-item"><a href="http://modaoperandi.com/barbara-casasola/ss14/rtw-2180/">Barbara Casasola</a></li>
+                            </div>
+            <div class="ts-list-right clearfix">
+                                <li class="nav-dropdown-list-item"><a href="http://modaoperandi.com/fausto-puglisi/ss14/rtw-2103/">Fausto Puglisi</a></li>
+                                <li class="nav-dropdown-list-item"><a href="http://modaoperandi.com/salvatore-ferragamo/sp13/accessories-2101/">Salvatore Ferragamo Limited Edition Collection</a></li>
+                                <li class="nav-dropdown-list-item"><a href="http://modaoperandi.com/tibi/ss14/rtw-2114/">Tibi</a></li>
+                                <li class="nav-dropdown-list-item"><a href="http://modaoperandi.com/clements-ribiero/ss14/rtw-2111/">Clements Ribeiro</a></li>
+                                <li class="nav-dropdown-list-item"><a href="http://modaoperandi.com/daniela-villegas/ss14/jewelry-2144/">Daniela Villegas</a></li>
+                            </div>
+        </ul>
+        <a href="/trunkshows" class="nav-dropdown-see-all">All Trunkshows &gt;</a>
+    </div>
+</div>        </li><!-- no white space here, display: inline-block renders it --><li class=" navlink-boutique navhover">
+            <a href="/boutique">
+                <span class="main-title">Boutique</span><br>
+                <span class="sub-title">Shop now</span>
+            </a>
+            <div class="nav-dropdown boutique">
+    <a href="/boutique" class="nav-dropdown-title-link">
+        <p class="nav-dropdown-title">Shop Boutique</p>
+        <p class="nav-dropdown-subtitle">In-season selection ready to ship now</p>
+    </a>
+    <div class="nav-dropdown-content">
+        <ul class="nav-dropdown-list clearfix">
+            <li class="nav-dropdown-list-item"><a href="/whats-new">What's new</a></li>
+            <li class="nav-dropdown-list-item"><a href="/clothing">All clothing</a></li>
+            <li class="nav-dropdown-list-item"><a href="/bags">All handbags</a></li>
+            <li class="nav-dropdown-list-item"><a href="/shoes">All shoes</a></li>
+            <li class="nav-dropdown-list-item"><a href="/accessories">All accessories</a></li>
+        </ul>
+        <a href="/view-all" class="nav-dropdown-see-all">View all products &gt;</a>
+    </div>
 </div>        </li>
-
-		<li class=" navlink-trunkshows navhover">
-			<a href="/trunkshows">Trunkshows</a>
-			<div class="dropdown" data-tracking="Trunkshows">
-    <div class="drop-title">
-        Preorder Designer Trunkshows
-    </div>
-    <p>Exclusive access to next season’s collections</p>
-    <ul class="thumbnails">
-        <li>
-            <a href="http://modaoperandi.com/thakoon/resort-2014/rtw-1737/">
-                 <img data-src="http://img.modaoperandi.com/media/img/sales/2013/June/thakoon-resort-2014/480x480/h-1737-lkenSUFStMd9.jpg" src="/img/missing-trunkshow-square.jpg" nopin="nopin" class="ll ll-init">
-                <header>
-                    <hgroup class="hero-details">
-                        <h2 class="hero-title"><span>Thakoon<span></span></span></h2>
-                        <h3 class="hero-name">Resort 2014</h3>
-                    </hgroup>
-                    <div class="shadow-left"></div>
-                    <div class="shadow-right"></div>
-                </header>
-            </a>
-        </li>
-        <li>
-            <a href="http://modaoperandi.com/thakoon-addition/resort-2014/rtw-1738/">
-                 <img data-src="http://img.modaoperandi.com/media/img/sales/2013/June/thakoon-addition-resort-2014/480x480/h-1738-Y3dLqo4gHJ0q.jpg" src="/img/missing-trunkshow-square.jpg" nopin="nopin" class="ll ll-init">
-                <header>
-                    <hgroup class="hero-details">
-                        <h2 class="hero-title"><span>Thakoon Addition<span></span></span></h2>
-                        <h3 class="hero-name">Resort 2014</h3>
-                    </hgroup>
-                    <div class="shadow-left"></div>
-                    <div class="shadow-right"></div>
-                </header>
-            </a>
-        </li>
-        <li>
-            <a href="http://modaoperandi.com/cushnie-et-ochs/resort-2014/rtw-1676/">
-                 <img data-src="http://img.modaoperandi.com/media/img/sales/2013/June/cushnie-et-ochs-resort-2014/480x480/h-1676-fZYQ0U212Jwb.jpg" src="/img/missing-trunkshow-square.jpg" nopin="nopin" class="ll ll-init">
-                <header>
-                    <hgroup class="hero-details">
-                        <h2 class="hero-title"><span>Cushnie et Ochs<span></span></span></h2>
-                        <h3 class="hero-name">Resort 2014</h3>
-                    </hgroup>
-                    <div class="shadow-left"></div>
-                    <div class="shadow-right"></div>
-                </header>
-            </a>
-        </li>
-        <li>
-            <a href="http://modaoperandi.com/pierre-hardy/resort-2014/accessories-1728/">
-                 <img data-src="http://img.modaoperandi.com/media/img/sales/2013/June/pierre-hardy-resort-2014/480x480/h-1728-f9fjPwofVYtP.jpg" src="/img/missing-trunkshow-square.jpg" nopin="nopin" class="ll ll-init">
-                <header>
-                    <hgroup class="hero-details">
-                        <h2 class="hero-title"><span>Pierre Hardy<span></span></span></h2>
-                        <h3 class="hero-name">Resort 2014</h3>
-                    </hgroup>
-                    <div class="shadow-left"></div>
-                    <div class="shadow-right"></div>
-                </header>
-            </a>
-        </li>
-        <li>
-            <a href="http://modaoperandi.com/mother-pearl/resort-2014/rtw-1674/">
-                 <img data-src="http://img.modaoperandi.com/media/img/sales/2013/June/mother-of-pearl-resort-2014/480x480/h-1674-Y1iBIEKg3x3s.jpg" src="/img/missing-trunkshow-square.jpg" nopin="nopin" class="ll ll-init">
-                <header>
-                    <hgroup class="hero-details">
-                        <h2 class="hero-title"><span>Mother of Pearl<span></span></span></h2>
-                        <h3 class="hero-name">Resort 2014</h3>
-                    </hgroup>
-                    <div class="shadow-left"></div>
-                    <div class="shadow-right"></div>
-                </header>
-            </a>
-        </li>
-        <li>
-            <a href="http://modaoperandi.com/peter-pilotto/resort-2014/rtw-1675/">
-                 <img data-src="http://img.modaoperandi.com/media/img/sales/2013/June/peter-pilotto-pre-spring-2014/480x480/h-1675-NXdb6KZwoTjX.jpg" src="/img/missing-trunkshow-square.jpg" nopin="nopin" class="ll ll-init">
-                <header>
-                    <hgroup class="hero-details">
-                        <h2 class="hero-title"><span>Peter Pilotto<span></span></span></h2>
-                        <h3 class="hero-name">Resort 2014</h3>
-                    </hgroup>
-                    <div class="shadow-left"></div>
-                    <div class="shadow-right"></div>
-                </header>
-            </a>
-        </li>
-        <li>
-            <a href="http://modaoperandi.com/nicholas-kirkwood/resort-2014/accessories-1726/">
-                 <img data-src="http://img.modaoperandi.com/media/img/sales/2013/June/nicholas-kirkwood-resort-2014/480x480/h-1726-ZZgHWyaXS4W2.jpg" src="/img/missing-trunkshow-square.jpg" nopin="nopin" class="ll ll-init">
-                <header>
-                    <hgroup class="hero-details">
-                        <h2 class="hero-title"><span>Nicholas Kirkwood<span></span></span></h2>
-                        <h3 class="hero-name">Resort 2014</h3>
-                    </hgroup>
-                    <div class="shadow-left"></div>
-                    <div class="shadow-right"></div>
-                </header>
-            </a>
-        </li>
-        <li>
-            <a href="http://modaoperandi.com/nina-ricci/resort-2014/rtw-1727/">
-                 <img data-src="http://img.modaoperandi.com/media/img/sales/2013/June/nina-ricci-resort-2014/480x480/h-1727-qruDv0c7VCWJ.jpg" src="/img/missing-trunkshow-square.jpg" nopin="nopin" class="ll ll-init">
-                <header>
-                    <hgroup class="hero-details">
-                        <h2 class="hero-title"><span>Nina Ricci<span></span></span></h2>
-                        <h3 class="hero-name">Resort 2014</h3>
-                    </hgroup>
-                    <div class="shadow-left"></div>
-                    <div class="shadow-right"></div>
-                </header>
-            </a>
-        </li>
-        <li>
-            <a href="http://modaoperandi.com/derek-lam/resort-2014/rtw-1666/">
-                 <img data-src="http://img.modaoperandi.com/media/img/sales/2013/June/derek-lam-resort-2014/480x480/h-1666-nJJGOcreVDX3.jpg" src="/img/missing-trunkshow-square.jpg" nopin="nopin" class="ll ll-init">
-                <header>
-                    <hgroup class="hero-details">
-                        <h2 class="hero-title"><span>Derek Lam<span></span></span></h2>
-                        <h3 class="hero-name">Resort 2014</h3>
-                    </hgroup>
-                    <div class="shadow-left"></div>
-                    <div class="shadow-right"></div>
-                </header>
-            </a>
-        </li>
-        <li>
-            <a href="http://modaoperandi.com/alexander-wang/resort-2014/rtw-1672/">
-                 <img data-src="http://img.modaoperandi.com/media/img/sales/2013/June/alexander-wang-resort-2014/480x480/h-1672-rooRWER3z2vR.jpg" src="/img/missing-trunkshow-square.jpg" nopin="nopin" class="ll ll-init">
-                <header>
-                    <hgroup class="hero-details">
-                        <h2 class="hero-title"><span>Alexander Wang<span></span></span></h2>
-                        <h3 class="hero-name">Resort 2014</h3>
-                    </hgroup>
-                    <div class="shadow-left"></div>
-                    <div class="shadow-right"></div>
-                </header>
-            </a>
-        </li>
-    </ul>
-    <a class="button seeall" href="/trunkshows">View All Trunkshows ›</a>
-</div>		</li>
-
-        <li class=" navlink-boutique navhover">
-    		<a href="/boutique">Boutique</a>
-			<div class="dropdown">
-
-    <div class="drop-title">Shop Boutique</div>
-
-    <p>In-season selection ready to ship now</p>
-
-    <div class="nav-leftcol">
-        <div class="textlist">
-            <h2>by category</h2>
-            <ul>
-                <li><a href="/whats-new">What's New</a></li>
-                <li><a href="/clothing">All Clothing</a></li>
-                <li><a href="/bags">All Handbags</a></li>
-                <li><a href="/shoes">All Shoes</a></li>
-                <li><a href="/accessories">All Accessories</a></li>
-            </ul>
-            <a href="/view-all" class="seeall">View All Products ›</a>
-        </div>
-    </div>
-
-    <!-- linked image -->
-    <a href="/view-all">
-        <img data-src="http://img.modaoperandi.com/media/img/category_banners/boutique_dropdown_new.jpg" src="/img/product-placeholder.gif">
-    </a>
-
-</div>    	</li>
-
-        <li class="navlink-magazine navhover" title="View our MEM'O">
-            <a href="http://magazine.modaoperandi.com/" target="_blank">
-                MEM'O
-            </a>
-        </li>
-
-        <li class=" navlink-exclusive navhover">
-
-
-            <a href="/chaostocouture">Exclusive</a>
-            <div class="tooltip-container">
-                <a class="tooltip-punk" href="/chaostocouture"><img src="/img/met_gala/punk.png"></a>
-            </div>
-            <div class="dropdown">
-
-    <a href="/chaostocouture/exclusive/view-all"><div class="drop-title">PUNK SHOP</div></a>
-
-    <a href="/chaostocouture/exclusive/view-all"><p>Shop the Exclusive Collection</p></a>
-
-    <div class="nav-leftcol">
-        <div class="textlist">
-            <h2>BY CATEGORY</h2>
-            <ul>
-                <li><a href="/chaostocouture/exclusive/looks">Looks</a></li>
-                <li><a href="/chaostocouture/exclusive/clothing">Clothing</a></li>
-                <li><a href="/chaostocouture/exclusive/jewelry">Jewelry</a></li>
-                <li><a href="/chaostocouture/exclusive/accessories">Accessories</a></li>
-                <li><a href="/chaostocouture/exclusive/art-and-objects">Art &amp; Objects</a></li>
-                <li><a href="/spotlight-met-gala/fallwinter-2013/rtw-1603/looks/">Spotlight</a></li>
-            </ul>
-            <a href="/chaostocouture/exclusive/view-all" class="seeall">View All ›</a>
-        </div>
-        <div class="navlink-campaign">
-            <h2>BY DESIGNER</h2>
-            <ul>
-                <li><a href="/chaostocouture/exclusive/givenchy">Givenchy</a></li>
-                <li><a href="/view-all?f=110104-10001-110050">Balmain</a></li>
-                <li><a href="/view-all?f=110104-10001-70461">Thom Browne</a></li>
-                <li><a href="/view-all?f=110104-10001-110052">Vivienne Westwood</a></li>
-            </ul>
-        </div>
-    </div>
-
-    <!-- linked image -->
-    <a href="/chaostocouture/exclusive/view-all">
-        <img src="/img/product-placeholder.gif" data-src="/img/met_gala/met-nav-hat.jpg">
-    </a>
-
-</div>
-        </li>
 
     </ul>
 </nav>
@@ -552,10 +351,78 @@
         <li><a href="/shoes">All Shoes</a></li>
         <li><a href="/accessories">All Accessories</a></li>
     </ul>
-</nav>
+</nav><div class="mobile-bag" id="mobile-bag">
+    <script id="cart-item-template" type="text/x-jsrender">
+    <a class="cart-product-image" href={{:product.url}}>
+        <img src={{:product.img_thumbnail}} />
+    </a>
+    <div class="cart-product-info">
+        <a href={{:product.url}}>
+            <h2 class="product-designer">{{:product.vendor.name}}</h2>
+        </a>
+        <p class="product-name">{{:product.name}}</p>
+        <p>
+            <span class="product-price usd">${{:product.price}}</span>
+            <span class="usd deposit">(${{:product.required_deposit_USD}} deposit)</span>
+        </p>
+        <p>
+            <span class="product-price eur">&euro;{{:product.retail_EUR_wh2}}</span>
+            <span class="eur deposit">(&euro;{{:product.required_deposit_EUR}} deposit)</span>
+        </p>
+        <p>
+            <span class="product-price eur-pretax">&euro;{{:product.pretax_retail_EUR_wh2}}</span>
+            <span class="eur-pretax deposit">(&euro;{{:product.required_deposit_pretax_EUR}} deposit)</span>
+        </p>
+        <p class="color-size-info">
+            <span>{{:product.color}}</span>, <span>{{:product.size}}</span>
+        </p>
+        <i class="icon-close remove-item"></i>
+    </div>
+</script>    <div class="shopping-bag clearfix">
+        <h2 class="shopping-bag-title">
+            Shopping Bag
+            <span class="arrow"></span>
+        </h2>
+        <header class="cart-header cart-header-empty hidden">
+            <em>Your shopping bag is currently empty.</em>
+        </header>
+
+        <div id="shopping-bag-boutique" class="hidden">
+            <header class="cart-header">
+                <em>Items below </em>
+                ship now
+            </header>
+            <ul class="cart-renderer boutique">
+            </ul>
+        </div>
+
+        <div id="shopping-bag-trunkshow" class="hidden">
+            <header class="cart-header">
+                <em>Items below available for</em>
+                preorder
+            </header>
+            <ul class="cart-renderer trunkshow">
+            </ul>
+        </div>
+        <div id="shopping-bag-sold-out" class="hidden">
+            <header class="cart-header">
+                <em>Items below no longer available</em>
+                removed from bag
+            </header>
+            <div class="list-overlay-wrapper clearfix">
+                <div class="overlay"></div>
+                <ul class="cart-renderer sold-out">
+                </ul>
+            </div>
+        </div>
+        <div style="text-align: center; margin-top: 10px;">
+            <a href="https://modaoperandi.com/checkout/" class="button dark-red-button">proceed to Checkout</a>
+        </div>
+    </div>
+</div>
 </header>
 <div class="main-content">
-<div class="static-header">
+    <div class="static-header">
     <h2>PRIVACY</h2>
 </div>
 <div class="spacer"></div>
@@ -610,8 +477,7 @@
     <p><strong>How to Contact Us</strong><br>
     If you wish to contact us about this Privacy Policy, you may reach us by email at <a href="mailto:info@modaoperandi.com" onclick="var x=&quot;.tl(&quot;;s_objectID=&quot;mailto:info@modaoperandi.com_1&quot;;return this.s_oc?this.s_oc(e):true">info@modaoperandi.com</a> or by telephone at 1 (212) 729-0984 · 1 (800) 707-9898.</p>
 
-    </div>
-</div>
+    </div></div>
 
 <footer class="main-footer">
 	<section class="upcoming-trunkshows">
@@ -620,37 +486,31 @@
 		</header>
 		<ul class="upcoming-trunkshows-dates">
 				    <li>
-				        Thursday - June 20
+				        Friday - November 01
 				        <ul class="upcoming-trunkshows-date-items">
 				            <li>
-				                <p>Thakoon</p>
-				            </li>
-				            <li>
-				                <p>Thakoon Addition</p>
+				                <p>Isa Arfen</p>
 				            </li>
 				        </ul>
 				    </li>				    <li>
-				        Friday - June 21
+				        Saturday - November 02
 				        <ul class="upcoming-trunkshows-date-items">
 				            <li>
-				                <p>3.1 Phillip Lim</p>
+				                <p>Oscar de la Renta Childrenswear</p>
 				            </li>
 				        </ul>
 				    </li>				    <li>
-				        Saturday - June 22
+				        Sunday - November 03
 				        <ul class="upcoming-trunkshows-date-items">
 				            <li>
-				                <p>Wes Gordon</p>
-				            </li>
-				            <li>
-				                <p>Sophie Hulme</p>
+				                <p>Bibhu Mohapatra</p>
 				            </li>
 				        </ul>
 				    </li>				    <li>
-				        Monday - June 24
+				        Monday - November 04
 				        <ul class="upcoming-trunkshows-date-items">
 				            <li>
-				                <p>Valentino</p>
+				                <p>Sara Battaglia</p>
 				            </li>
 				        </ul>
 				    </li>		</ul>
@@ -672,7 +532,7 @@
 
 			<div class="contact-block">
 				<h2>CONSULT WITH A PERSONAL STYLIST:</h2>
-				1 (800) 707-9898 OR 1 (212) 729-0984
+				1 (888) 530-4953 OR 1 (212) 229-2075
 				<a href="mailto:stylist@modaoperandi.com">STYLIST@MODAOPERANDI.COM</a>
 			</div>
 		</div>
@@ -687,6 +547,8 @@
 			<li><a href="/contact">Contact&nbsp;Us</a></li>
 			<li><a href="/terms">Terms&amp;Conditions</a></li>
 			<li><a href="/privacy">Privacy</a></li>
+			<li class="magazine-footer-link"><a href="http://magazine.modaoperandi.com/" target="_blank">MEM'O</a></li>
+			<li class="hidden"><a href="/app">APP</a></li>
 		</ul>
 
 		<ul class="footer-links-social">
@@ -702,7 +564,7 @@
 </footer>
 <div class="to-top"><span class="icon icon-solid_arrow_up"></span>Back to top</div>
         <script>
-    var IN_PRODUCTION = true;var OMNITURE_ACCOUNT = "modaprod";var SERVER_NAME = "modaoperandi.com";var MOID = '3k92jw12fwka92jef82dkka92fu48gjs';var NANIGANS_APPID = 21713;var CUSTOMER_ID = -1;var IPADDRESS = '174.129.228.67';var SOFTGATE_ENABLED = false;
+    var IN_PRODUCTION = true;var OMNITURE_ACCOUNT = "modaprod";var SERVER_NAME = "modaoperandi.com";var MOID = '3k92jw12fwka92jef82dkka92fu48gjs';var IPADDRESS = '207.241.237.211';var SOFTGATE_ENABLED = false;
         COOKIE_PARAMS = {path: "/", domain: ".modaoperandi.com"}
     </script>
 
@@ -710,13 +572,13 @@
     <script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.10.0/jquery-ui.min.js"></script>
     <script src="//ajax.aspnetcdn.com/ajax/knockout/knockout-2.2.1.js"></script>
 
-    <script src="/js/modaoperandi_1371672047.js"></script>
+    <script src="/js/modaoperandi_1383247329.js"></script>
     <!--[if lt IE 10]><script type="text/javascript" src="/js/libs/PIE.js"></script><![endif]-->
     <!-- designer.js must come before filters.js -->
-    <script type="text/javascript" src="//assets.pinterest.com/js/pinit.js"></script><script>
+    <script>
     MO.OmnitureInformation = {"channel":"Info Pages","hier1":"Info Pages","hier2":"Info Pages","hier3":"Info Pages"};
 </script>
-<script type="text/javascript">if(!NREUMQ.f){NREUMQ.f=function(){NREUMQ.push(["load",new Date().getTime()]);var e=document.createElement("script");e.type="text/javascript";e.src=(("http:"===document.location.protocol)?"http:":"https:")+"//"+"rpm-images.newrelic.com/42/eum/rum.js";document.body.appendChild(e);if(NREUMQ.a)NREUMQ.a();};NREUMQ.a=window.onload;window.onload=NREUMQ.f;};NREUMQ.push(["nrfj","beacon-4.newrelic.com","038ac4c341","2262424","ZwZbMUFZVxIAAU0MXF5MbBdaF1APBQdBS0NYEw==",0,297,new Date().getTime(),"","","","",""]);</script>
+<script type="text/javascript">if(!NREUMQ.f){NREUMQ.f=function(){NREUMQ.push(["load",new Date().getTime()]);var e=document.createElement("script");e.type="text/javascript";e.src=(("http:"===document.location.protocol)?"http:":"https:")+"//"+"js-agent.newrelic.com/nr-100.js";document.body.appendChild(e);if(NREUMQ.a)NREUMQ.a();};NREUMQ.a=window.onload;window.onload=NREUMQ.f;};NREUMQ.push(["nrfj","beacon-6.newrelic.com","038ac4c341","2262429","ZwZbMUFZVxIAAU0MXF5MbBdaF1APBQdBS0NYEw==",0,320,new Date().getTime(),"","","","",""]);</script>
 
 
-<script type="text/javascript" src="https://rpm-images.newrelic.com/42/eum/rum.js"></script></body></html>
+<script type="text/javascript" src="https://js-agent.newrelic.com/nr-100.js"></script></body></html>
