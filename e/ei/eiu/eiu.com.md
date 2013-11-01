@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eiu.com privacy policy that was archived on 2013-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130512142218id_/http%3A//economistgroup.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eiu.com privacy policy that was archived on 2013-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131101234653id_/http%3A//economistgroup.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Economist Group
 
@@ -16,7 +16,6 @@
   * Bazian
   * Clearstate
   * EuroFinance Conferences
-  * European Voice
   * TVC Group
 
 
