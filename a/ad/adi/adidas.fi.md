@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adidas.fi privacy policy that was archived on 2013-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130523095305id_/http%3A//www.adidas.fi/Privacy-Policy/help-topics-privacy_policy%2Cfi_FI%2Cpg.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adidas.fi privacy policy that was archived on 2013-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131101013425id_/http%3A//www.adidas.fi/Privacy-Policy/help-topics-privacy_policy%2Cfi_FI%2Cpg.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -208,7 +208,7 @@ Netherlands
 
 You can send an [email ](http://adidas-group-gb.custhelp.com/app/adidas_FI_en_ask)to our Customer Service
 
-Or you can call Customer Service at 00800 3STRIPES (00800 37 87 47 37)(FREE PHONE).
+Or you can call Customer Service at 0800-915445 (FREE PHONE).
 
 Alternatively you can contact the Group Data Protection Officer at 
 
