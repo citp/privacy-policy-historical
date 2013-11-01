@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newbusiness.co.uk privacy policy that was archived on 2013-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130531220040id_/http%3A//www.newbusiness.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newbusiness.co.uk privacy policy that was archived on 2013-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131101180459id_/http%3A//www.newbusiness.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | New Business
 
@@ -39,4 +39,4 @@ Because newbusiness.co.uk operates globally, we make information we collect avai
 
 **6\. Contact Information**
 
-Comments and questions regarding this Privacy Policy should be directed to [info@newbusiness.co.uk](mailto:info@newbusiness.co.uk)
+Comments and questions regarding this Privacy Policy should be directed to [chris.bradshaw@newbusiness.co.uk](mailto:chris.bradshaw@newbusiness.co.uk)
