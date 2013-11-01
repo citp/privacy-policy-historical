@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the clickthecity.com privacy policy that was archived on 2013-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130611085238id_/http%3A//www.clickthecity.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clickthecity.com privacy policy that was archived on 2013-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131101215202id_/http%3A//www.clickthecity.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy @ ClickTheCity.com
+# ClickTheCity.com Privacy Policy
 
 This privacy policy sets out how Surf Shop uses and protects any information that you give Surf Shop when you use this website.
 
