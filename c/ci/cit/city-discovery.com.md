@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the city-discovery.com privacy policy that was archived on 2013-01-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130117000207id_/http%3A//www.city-discovery.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the city-discovery.com privacy policy that was archived on 2013-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131101113051id_/http%3A//www.city-discovery.com/privacy_policy.php) for the most accurate reproduction.*
 
 # City-Discovery.com Privacy Statement
 
@@ -51,45 +51,3 @@ T: +1 866-988-8687 F: 419-243-0221
 Last Updated on: 10/04/06 
 
 If we decide to change our privacy policy, we will post those changes to this privacy statement, the homepage, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our homepage. 
-
-Why Choose City Discovery?
-
-  
-
-
-**Flexibility** **All inclusive** **Save time and money**
-
-Call Us!
-
-  
-
-
-USA/CANADA TOLL FREE:
-
-**+1866-988-8687**
-
-London / UK : +44 20 7193 8320  
-Paris / France : +33 9 7044 5290  
-Hong Kong : +852 8173 6120  
-Australia : +61 2 8003 4300  
-Italy : +39 06 9481 6990  
-Brazil : +552140425056
-
-You can also [request a call back](http://server.iad.liveperson.net/hc/42623859/?cmd=file&file=visitorWantsToTalk&site=42623859&byhref=1&imageUrl=http://server.iad.liveperson.net/hcp/Gallery/CallButton-Gallery/English/General/1a). 
-
-Some Facts About Us
-
-\- 6 million website visitors yearly  
-\- 200,000 customers  
-\- 6,000 tours and activities  
-\- 400+ destinations  
-\- 13,000 registered travel agencies  
-\- 700+ airports available for airport-transfer  
-\- 16 languages in customer service   
-\- 4 stars out of 5 average customers review   
-\- Best Price Guarantee Low, low prices from trusted tour operators ****  
-\- 24 hours live support on weekdays and office hours on weekends 
-
-Fax your inquiry 
-
-Global fax number : +33172703558 
