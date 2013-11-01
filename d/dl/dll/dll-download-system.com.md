@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dll-download-system.com privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502045927id_/http%3A//www.dll-download-system.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dll-download-system.com privacy policy that was archived on 2013-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131101153149id_/http%3A//www.dll-download-system.com/privacy-policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy - free dlls download
 
