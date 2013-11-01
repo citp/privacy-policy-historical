@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gfxfuture.net privacy policy that was archived on 2013-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130305173940id_/http%3A//www.gfxfuture.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gfxfuture.net privacy policy that was archived on 2013-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131101203833id_/http%3A//www.gfxfuture.org/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy » Free Download Stock Vector Image After Effects 3d Model via Rapidshare Torrents From GFXFuture.com
+# Privacy Policy » Free Download Stock Vector Image After Effects 3d Model via Rapidshare Torrents From GFXFuture.org
 
 ## Privacy Policy
 
