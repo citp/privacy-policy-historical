@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mrctv.org privacy policy that was archived on 2013-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130513112857id_/http%3A//www.mrctv.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mrctv.org privacy policy that was archived on 2013-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131101095232id_/http%3A//www.mrctv.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | MRCTV
 
