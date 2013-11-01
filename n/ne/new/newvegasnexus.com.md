@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the newvegasnexus.com privacy policy that was archived on 2013-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130624085049id_/http%3A//newvegas.nexusmods.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newvegasnexus.com privacy policy that was archived on 2013-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131101213516id_/http%3A//newvegas.nexusmods.com/about/privacy) for the most accurate reproduction.*
 
-# Fallout New Vegas Nexus - New Vegas mods and community
+# Fallout New Vegas - mods and community
 
 We collect only the domain name, but not the e-mail address of visitors to our Web page, the e-mail addresses of those who post messages to our bulletin board, the e-mail addresses of those who communicate with us via e-mail, aggregate information on what pages consumers access or visit and information volunteered by the consumer, such as survey information and/or site registrations.
 
