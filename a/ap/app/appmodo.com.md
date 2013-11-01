@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the appmodo.com privacy policy that was archived on 2013-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130529182301id_/http%3A//appmodo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the appmodo.com privacy policy that was archived on 2013-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131101122049id_/http%3A//appmodo.com/privacy) for the most accurate reproduction.*
 
 # Privacy : Appmodo
 
