@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the careermitra.com privacy policy that was archived on 2013-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130503003340id_/http%3A//careermitra.com//privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the careermitra.com privacy policy that was archived on 2013-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131101221754id_/http%3A//careermitra.com//privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Career Mitra
 
