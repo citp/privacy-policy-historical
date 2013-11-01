@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nust.edu.pk privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502231021id_/http%3A//nust.edu.pk/Pages/Privacy-Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nust.edu.pk privacy policy that was archived on 2013-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131101115728id_/http%3A//nust.edu.pk/Pages/Privacy-Policy.aspx) for the most accurate reproduction.*
 
 # Privacy Statement
 
