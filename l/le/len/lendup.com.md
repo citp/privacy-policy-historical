@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the lendup.com privacy policy that was archived on 2013-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130204134048id_/https%3A//www.lendup.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lendup.com privacy policy that was archived on 2013-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131101080825id_/https%3A//www.lendup.com/en/privacy) for the most accurate reproduction.*
 
-# LendUp - Privacy & Security
+# Privacy & Security - LendUp
 
 We take our customer privacy very seriously and are committed to our customers' privacy. We have undertaken to disclose our information practices and have them reviewed and certified to the best in class privacy standards for our customers.
 
