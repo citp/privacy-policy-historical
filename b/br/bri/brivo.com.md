@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brivo.com privacy policy that was archived on 2013-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130509062001id_/http%3A//www.brivo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brivo.com privacy policy that was archived on 2013-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131101010351id_/http%3A//www.brivo.com/privacy) for the most accurate reproduction.*
 
 # Brivo Systems LLC Privacy Statement | Privacy Policy
 
@@ -97,8 +97,8 @@ If we decide to change our privacy policy, we will post those changes to this pr
 We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our home page.
 
 Brivo Systems LLC  
-4330 East West Highway  
-Suite 250  
+7700 Old Georgetown Road  
+Suite 300  
 Bethesda, MD  20814
 
 [marketing@brivo.com](mailto:marketing@brivo.com)  
