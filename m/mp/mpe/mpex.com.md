@@ -1,57 +1,94 @@
-> *The following text is extracted and transformed from the mpex.com privacy policy that was archived on 2011-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110502080812id_/http%3A//www.mpex.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mpex.com privacy policy that was archived on 2013-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131101203959id_/http%3A//mpex.com/privacy-policy-cookie-restriction-mode) for the most accurate reproduction.*
 
-# Privacy Policy
+# Midwest Photo Exchange Privacy Policy
 
-* * *
+Please replace this text with you Privacy Policy. Please add any additional cookies your website uses below (e.g., Google Analytics) 
 
-**Effective Date: October 29, 2007**
+This privacy policy sets out how Midwest Photo Exchange uses and protects any information that you give Midwest Photo Exchange when you use this website. Midwest Photo Exchange is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement. Midwest Photo Exchange may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. 
 
-Midwest Photo Exchange values the users of our website (the "Website"). Your privacy and trust are very important to us. We recognize that you may be concerned about our collection, use, and disclosure of the personally identifiable information ("Personal Information") that we collect when you use the Website and the services offered on the Website. This Privacy Policy describes the information that we collect from you, how we collect this information, and what we do with it after we collect it. By using the Website you are accepting the practices described in this Privacy Policy.
+## What we collect
 
-**Types of Information Collected:**
+We may collect the following information:
 
-Personal Information. We collect Personal Information that you provide to us, such as your name, mailing address, phone number, email address, credit card number, and financial information. 
+  * name
+  * contact information including email address
+  * demographic information such as postcode, preferences and interests
+  * other information relevant to customer surveys and/or offers
 
-Non-Personal Information. We also collect non-personal information from you, such as your browser type, the URL of the previous website you visited, your ISP, operating system, and your Internet protocol (IP) Address ("Non-Personal Information"). Non-Personal Information cannot be easily used to personally identify you. 
 
-**Use of information:**
 
-Personal Information. **We use Personal Information for our own internal purposes only,** such as providing, maintaining, evaluating, and improving our Services and the Website, fulfilling requests for information, producing and shipping the products that you order, and providing customer support, and informing you of specials, rebates and other offers we think might be of interest to you. You can request to opt out of our email and/or mail list by making the change to your account online, or by sending a request to [mpx@mpex.com](mailto:mpx@mpex.com).
+For the exhaustive list of cookies we collect see the List of cookies we collect section. 
 
-Non-Personal Information. We use Non-Personal Information to track the use of the Website and for other internal purposes, such as providing, maintaining, evaluating, and improving or services and Website. 
+## What we do with the information we gather
 
-**Disclosure of Information to Third Parties:**
+We require this information to understand your needs and provide you with a better service, and in particular for the following reasons: 
 
-Disclosure to Unaffiliated Third Parties. We may disclose your Personal Information to prevent an emergency, to prevent harm to others, to respond to legal requirements, to protect or enforce our rights and policies, to protect or enforce the rights of a third party, or as required or permitted by law (including, without limitation, to comply with a subpoena or court order).
+  * Internal record keeping.
+  * We may use the information to improve our products and services.
+  * We may periodically send promotional emails about new products, special offers or other information which we think you may find interesting using the email address which you have provided. 
+  * From time to time, we may also use your information to contact you for market research purposes. We may contact you by email, phone, fax or mail. We may use the information to customise the website according to your interests. 
 
-Disclosure of Non-Personal Information. We will disclose Non-Personal Information, in aggregate form, to potential strategic partners, advertisers, investors, customers, and others. 
 
-**Website Cookies:**
 
-A cookie is a small file placed on the hard drive of your computer. Most websites use cookies. We use cookies to track your use of the Website and our services, provide you with a more personalized user experience, and to allow you to login and begin use of the Website services automatically when you visit the Website. 
+## Security
 
-**Protecting Your Personal Information:**
+We are committed to ensuring that your information is secure. In order to prevent unauthorised access or disclosure, we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online. 
 
-Personal Information. Whenever we obtain your Personal Information, we use commercially reasonable efforts to protect it from unauthorized access or disclosure. However, we are not insurers of the security of your Personal Information. Accordingly, we assume no liability for any disclosure of data due to errors in transmission, unauthorized third party access or other acts of third parties, or acts or omissions beyond our reasonable control. 
+## How we use cookies
 
-Website Content. Depending on your method of connectivity, the content that you transmit on or through the Website, may be accessed by other users, including people that you do not know. We are not responsible for the actions of others. We urge you to take caution how and where you transmit data to and from our and other internet Websites. 
+A cookie is a small file which asks permission to be placed on your computer's hard drive. Once you agree, the file is added and the cookie helps analyse web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences. 
 
-**Security**
+We use traffic log cookies to identify which pages are being used. This helps us analyse data about web page traffic and improve our website in order to tailor it to customer needs. We only use this information for statistical analysis purposes and then the data is removed from the system. 
 
-The security of your Personal Information is important to us. When you enter sensitive information such as a credit card number and/or social security number on our registration or order forms, we encrypt that information using secure socket layer technology (SSL). 
+Overall, cookies help us provide you with a better website, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us. You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website. 
 
-We follow generally accepted industry standards to protect the Personal Information submitted to us, both during transmission and once we receive it. However, no method of transmission over the Internet, or method of electronic storage, is 100% secure. Therefore, while we strive to use commercially acceptable means to protect your Personal Information, we cannot guarantee its absolute security. 
+## Links to other websites
 
-**Policy Apply and Accessing Third Party Websites** :
+Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question. 
 
-You may be able to access third party websites directly from the Website. This Privacy Policy does not apply when you access third party websites. We cannot control how third parties may use Personal Information you disclose to them, so you should carefully review the privacy policy of any third party website you visit before using it or disclosing your Personal Information to its provider. 
+## Controlling your personal information
 
-**Opt-Out From Receiving Communications:**
+You may choose to restrict the collection or use of your personal information in the following ways:
 
-We provide you the opportunity to opt-out of having your Personal Information used for certain purposes. For example, if you purchase a product/service but do not wish to receive any additional marketing material from us, you can indicate your preference by making a note on your order form or changing the preference in your Website account. 
+  * whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes 
+  * if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us at dipti@mpex.com 
 
-If you no longer wish to receive our newsletters and promotional communications, you may opt-out of receiving them by following the instructions included in each newsletter or communication or by emailing us at [mpx@mpex.com](mailto:mpx@mpex.com) or by calling 614-261-1264.
 
-**Changes to its Privacy Policy:**
 
-We may make changes to the Privacy Policy from time to time. We will notify you of any changes by sending you an email, posting a notice in this section or on the home page of the Website.
+We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen. 
+
+You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please write to 3313 North High Street Columbus, Ohio 43202. 
+
+If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect. 
+
+## List of cookies we collect
+
+The table below lists the cookies we collect and what information they store.
+
+COOKIE name | COOKIE Description  
+---|---  
+CART | The association with your shopping cart.  
+CATEGORY_INFO | Stores the category info on the page, that allows to display pages more quickly.  
+COMPARE | The items that you have in the Compare Products list.  
+CURRENCY | Your preferred currency  
+CUSTOMER | An encrypted version of your customer id with the store.  
+CUSTOMER_AUTH | An indicator if you are currently logged into the store.  
+CUSTOMER_INFO | An encrypted version of the customer group you belong to.  
+CUSTOMER_SEGMENT_IDS | Stores the Customer Segment ID  
+EXTERNAL_NO_CACHE | A flag, which indicates whether caching is disabled or not.  
+FRONTEND | You sesssion ID on the server.  
+GUEST-VIEW | Allows guests to edit their orders.  
+LAST_CATEGORY | The last category you visited.  
+LAST_PRODUCT | The most recent product you have viewed.  
+NEWMESSAGE | Indicates whether a new message has been received.  
+NO_CACHE | Indicates whether it is allowed to use cache.  
+PERSISTENT_SHOPPING_CART | A link to information about your cart and viewing history if you have asked the site.  
+POLL | The ID of any polls you have recently voted in.  
+POLLN | Information on what polls you have voted on.  
+RECENTLYCOMPARED | The items that you have recently compared.   
+STF | Information on products you have emailed to friends.  
+STORE | The store view or language you have selected.  
+USER_ALLOWED_SAVE_COOKIE | Indicates whether a customer allowed to use cookies.  
+VIEWED_PRODUCT_IDS | The products that you have recently viewed.  
+WISHLIST | An encrypted list of products added to your Wishlist.  
+WISHLIST_CNT | The number of items in your Wishlist.
