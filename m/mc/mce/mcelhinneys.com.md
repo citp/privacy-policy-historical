@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mcelhinneys.com privacy policy that was archived on 2013-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130626153241id_/http%3A//www.mcelhinneys.com/privacy-policy-%2115-cms.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mcelhinneys.com privacy policy that was archived on 2013-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131101235457id_/http%3A//www.mcelhinneys.com/privacy-policy-%2115-cms.html) for the most accurate reproduction.*
 
 # Privacy Policy | McElhinneys Department Store
 
