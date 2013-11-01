@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the simbagames.com privacy policy that was archived on 2013-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130616101740id_/http%3A//www.simbagames.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simbagames.com privacy policy that was archived on 2013-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131101133626id_/http%3A//www.simbagames.com/privacy-policy.html) for the most accurate reproduction.*
 
 # SimbaGames.com - Privacy Policy
 
