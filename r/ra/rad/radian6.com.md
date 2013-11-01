@@ -1,22 +1,21 @@
-> *The following text is extracted and transformed from the radian6.com privacy policy that was archived on 2013-02-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130223012313id_/http%3A//www.radian6.com/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the radian6.com privacy policy that was archived on 2013-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131101204526id_/http%3A//www.salesforcemarketingcloud.com/privacy-policy) for the most accurate reproduction.*
 
-# Radian6 – Privacy - Salesforce Marketing Cloud
+# Salesforce.com Marketing Cloud – Privacy - Salesforce Marketing Cloud
 
-Last Updated July 23, 2012
+##### Last Updated February 26, 2013
 
-Salesforce.com Canada Corporation (the “ **Company** ,” “ **we** ” or “ **us** ”) is committed to responsible information-handling practices in relation to its Radian6 business.
+* * *
 
-The following privacy statements describe the different types of personal information we handle relating to the Radian6 Web Site and the Radian6 Services and our privacy practices with respect to such personal information:
+Salesforce.com Inc. and its affiliates (“salesforce.com” or the “Company,”) are committed to responsible information-handling practices in relation to its Marketing Cloud business.
 
-The [Web Site Privacy Statement](http://www.radian6.com/radian6-web-site-privacy-statement "Web Site Privacy Statement") addresses our handling of personal information collected by visitors to our Radian6 Web site and users of our Radian6 Services.
+The following privacy statements describe the different types of personal information the Company handles relating to the Marketing Cloud Web sites and the Marketing Cloud Services and the Company’s privacy practices with respect to such personal information:
 
-The [Social Media Content Privacy Statement](http://www.radian6.com/social-media-content-privacy-statement "Social Media Content Privacy Statement") addresses our handling of information, including personal information, obtained from the Internet through our Radian6 Services. 
+The [Web Site Privacy Statement](http://www.salesforcemarketingcloud.com/privacy-policy/website-privacy-statement/) addresses the Company’s handling of personal information collected by visitors to the Marketing Cloud Web sites and users of the Marketing Cloud Services.
 
-Questions about our information-handling practices as they relate to the Radian6 Web site and Radian6 Services should be directed to Radian6’s Privacy Office:
+The [Indexed Content Privacy Statement](http://www.salesforcemarketingcloud.com/privacy-policy/indexed-content-privacy-statement/) addresses the Company’s handling of information, including personal information, obtained from the Internet through the Marketing Cloud Services.
 
-E-mail address: [privacy@radian6.com  
-](mailto:privacy@radian6.com)Phone: 506.452.9039  
-Fax: 506.452.2938  
-Mail: Radian6 Privacy, 30 Knowledge Park Drive, Fredericton, New Brunswick E3C 2R2
+Questions about the Company’s information-handling practices as they relate to the Marketing Cloud Web sites and Marketing Cloud Services should be directed to salesforce.com Privacy Office:
 
-**Please Note:** this privacy policy was updated on July 23, 2012. To read the previous privacy policy [click here](http://www.radian6.com/privacy-policy-september-1-2010). 
+E-mail address: [privacy@salesforce.com](mailto:privacy@salesforce.com)
+
+Mail:  The Landmark @ One Market Street, Suite 300, San Francisco, CA 94105.
