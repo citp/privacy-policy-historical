@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the jadelouisedesigns.com privacy policy that was archived on 2013-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130629032720id_/http%3A//jadelouisedesigns.com/privacy-policy-jadelouise-designs) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jadelouisedesigns.com privacy policy that was archived on 2013-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131101234112id_/http%3A//jadelouisedesigns.com/privacy-policy-jadelouise-designs) for the most accurate reproduction.*
 
-# Privacy Policy for JadeLouise Designs - Jade Louise Designs| A Family Lifestyle Blog
+# Privacy Policy for JadeLouise Designs - Jade Louise Designs
 
-**0** Flares **0** Flares ×
+**0** Flares Twitter 0 Facebook 0 Google+ 0 Reddit 0 StumbleUpon 0 LinkedIn 0 Email \-- Filament.io **0** Flares ×
 
 ### Privacy
 
@@ -10,7 +10,7 @@
 
 Any personal information you provide to us including and similar to your name, address, telephone number and e-mail address will not be released, sold, or rented to any entities or individuals outside of JadeLouise Designs.
 
-Any information gathered for Giveaways is used solely for the purpose of contacting the winner to claim their prize and to allow the sponsor to award the prize to the winner. No other purpose for your information will be used. 
+Any information gathered for Giveaways is used solely for the purpose of contacting the winner to claim their prize and to allow the sponsor to award the prize to the winner. No other purpose for your information will be used.
 
 **Credit card details**
 
@@ -20,9 +20,11 @@ JadeLouise Designs will never ask for Credit Card details and request that you d
 
 JadeLouise Designs is not responsible for the content of external internet sites. You are advised to read the privacy policy of external sites before disclosing any personal information.
 
+We allow third party companies to serve ads and/or collect certain anonymous information when you visit our Web site.  These companies may use non-personally identifiable information (e.g. click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you.  These companies typically use a cookie or third party webeacon to collect this information.  To learn more about this behavioral advertising practice visit the NAI at [http://www.networkadvertising.org](http://www.networkadvertising.org/).  To opt-out of this type of advertising, you can visit <http://www.aboutads.info/choices>.
+
 **Cookies**
 
-A "cookie" is a small data text file that is placed in your browser and allows JadeLouise Designs to recognize you each time you visit this site(customisation etc). Cookies themselves do not contain any personal information, and JadeLouise Designs does not use cookies to collect personal information. Cookies may also be used by 3rd party content providers such as newsfeeds.
+A “cookie” is a small data text file that is placed in your browser and allows JadeLouise Designs to recognize you each time you visit this site(customisation etc). Cookies themselves do not contain any personal information, and JadeLouise Designs does not use cookies to collect personal information. Cookies may also be used by 3rd party content providers such as newsfeeds.
 
 **Remember The Risks Whenever You Use The Internet**
 
@@ -34,4 +36,4 @@ For any other information email [webmaster](mailto:amber@jadelouisedesigns.com)�
 
 This privacy policy is subject to change without notice.
 
-**0** Flares Twitter 0 Facebook 0 Google+ 0 Reddit 0 StumbleUpon 0 LinkedIn 0 Email \-- [Email to a friend](mailto:?body=Check%20out%20this%20article%20I%20found%20on%20Jade%20Louise%20Designs%7C%20A%20Family%20Lifestyle%20Blog%3A%0D%0A%0D%0APrivacy%20Policy%20for%20JadeLouise%20Designs%0D%0Ahttp%3A%2F%2Fjadelouisedesigns.com%2Fprivacy-policy-jadelouise-designs%2F&subject=Check%20out%20this%20article%20I%20found%20on%20Jade%20Louise%20Designs%7C%20A%20Family%20Lifestyle%20Blog "Email to a friend") **0** Flares ×
+**0** Flares Twitter 0 Facebook 0 Google+ 0 Reddit 0 StumbleUpon 0 LinkedIn 0 Email \-- Filament.io **0** Flares ×
