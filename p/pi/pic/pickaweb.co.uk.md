@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pickaweb.co.uk privacy policy that was archived on 2011-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110621064020id_/http%3A//www.pickaweb.co.uk/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pickaweb.co.uk privacy policy that was archived on 2013-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131101190817id_/http%3A//www.pickaweb.co.uk/privacy-policy.htm) for the most accurate reproduction.*
 
-# Privacy Policy | UK Web Hosting Company | Pickaweb.co.uk
+# Web Hosting Privacy Policy
 
 To contact Pickaweb regarding privacy you can e-mail us at [info@pickaweb.co.uk](mailto:info@pickaweb.co.uk)
 
