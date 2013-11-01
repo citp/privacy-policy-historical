@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 9game.com privacy policy that was archived on 2013-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130428015228id_/http%3A//a.9game.com/tpl/android/state.html%3Ftext%3DAndroid_state) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 9game.com privacy policy that was archived on 2013-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131101105027id_/http%3A//a.9game.com/tpl/android/state.html%3Ftext%3DAndroid_state) for the most accurate reproduction.*
 
 # 9Game - Android games free download
 
