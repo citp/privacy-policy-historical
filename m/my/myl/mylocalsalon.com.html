@@ -1,13 +1,13 @@
-<!--The following is the downloaded HTML source of the mylocalsalon.com privacy policy that was archived on 2012-06-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120621121940id_/http%3A//www.mylocalsalon.com.au/privacystatement) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the mylocalsalon.com privacy policy that was archived on 2013-11-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131101063546id_/http%3A//www.mylocalsalon.com.au/privacystatement) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head id="ctl00_Head1"><title>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://ogp.me/ns/fb#" xmlns:og="http://ogp.me/ns#"><head id="ctl00_Head1"><title>
 	
 	Privacy Statement - mylocalsalon
 
 </title><link type="text/css" media="screen" rel="stylesheet" href="/content/jquery-ui-1.8.2.custom.min.css">
-    <link href="/Content/combined.min.css?v=2.1.0" rel="stylesheet" type="text/css">
-    <script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/scripts/combined.min.js?v=2.1.0"></script>
+    <link href="/Content/combined.min.css?v=4.0.4" rel="stylesheet" type="text/css">
+    <script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/scripts/combined.min.js?v=4.0.4"></script>
 
     <script type="text/javascript" src="/scripts/jquery-ui-1.8.2.custom.min.js"></script>   
     <link rel="SHORTCUT ICON" href="/Images/favicon.ico"><link rel="image_src" href="http://www.mylocalsalon.com.au/images/logo.jpg"><meta name="robots" content="index,follow"><meta name="google-site-verification" content="9C0PknOqR5yTj4xPeFn0XKdVmLTwPEIOFaa0tJX2-kI">
@@ -25,9 +25,55 @@
         })();
 
     </script>
-</head>
+<script id="facebook-jssdk" async="" src="//connect.facebook.net/en_US/all.js"></script></head>
 
 <body>
+    <div id="fb-root"></div>
+    <script>
+        var loginModalOpen = false;
+        window.fbAsyncInit = function () {
+            FB._https = true;
+            FB.init({
+                appId: '330680377017685',
+                status: true,
+                cookie: true,
+                xfbml: true,
+                oauth: true
+            });
+
+            // If we have an account registered with facebook, log in automatically
+            FB.getLoginStatus(function (response) {
+                if (response.status === 'connected') {
+                    $.ajax({
+                        type: 'GET',
+                        url: "/user/jsonisloggedin",
+                        success: function (data) {
+                            if (!data.loggedIn) {
+                                LoginByFacebook(response, "#");
+                            }
+                        }
+                    });
+                }
+            });
+
+            // Subscribe so we know when we have logged in to FB
+            FB.Event.subscribe('auth.login', function (response) {
+                var returnUrl = GetParameterByName("returnurl")
+                if (loginModalOpen || !returnUrl) {
+                    LoginByFacebook(response, "#");
+                } else {
+                    LoginByFacebook(response, GetParameterByName("returnurl"));
+                }
+            });
+
+        };
+    (function(d){
+        var js, id = 'facebook-jssdk'; if (d.getElementById(id)) {return;}
+        js = d.createElement('script'); js.id = id; js.async = true;
+        js.src = "//connect.facebook.net/en_US/all.js";
+        d.getElementsByTagName('head')[0].appendChild(js);
+    }(document));
+    </script>
     
     <div id="MenuBar">
       <div id="MenuBarContent">
@@ -37,15 +83,18 @@
         <div class="MenuBarItem"><a href="/about">About</a></div>
         <div class="MenuBarItem"><a href="http://blog.mylocalsalon.com.au">Blog</a></div>
         <div class="MenuBarItem"><a href="/iphone">iPhone</a></div>
-        <div class="Profile">
-        <a href="/signon?ReturnUrl=%2F" rel="nofollow">Sign in</a>
-          
+        <div id="AccountControls">
+            
+    <div class="Profile">
+        <a href="/signon?returnurl=http%3A%2F%2Fwww.mylocalsalon.com.au%2Fprivacystatement" rel="nofollow">Sign in</a>
+    </div>
+
         </div>
         <div class="Profile">
-            <script src="http://connect.facebook.net/en_US/all.js#xfbml=1"></script>
+            <script src="http://connect.facebook.net/en_US/all.js"></script>
             <fb:like href="http://www.facebook.com/mylocalsalon" show_faces="false" layout="button_count"></fb:like>
             <script type="text/javascript">
-                FB.Event.subscribe('edge.create', function(targetUrl) {
+                FB.Event.subscribe('edge.create', function (targetUrl) {
                     _gaq.push(['_trackSocial', 'facebook', 'like', targetUrl]);
                 });
             </script>
@@ -55,7 +104,11 @@
     <div class="page">
         <div id="header">
             <div id="title">
-                <a href="/" title="mylocalsalon"><img src="/Images/Title.png" alt="mylocalsalon" width="268" height="47"></a>
+                <a href="/">
+                    
+                        <img src="/Images/Title.png" title="mylocalsalon" width="268" height="47">
+                    
+                </a>
             </div>
             
     <h1>Hair, Beauty and Spa Directory</h1>
@@ -80,7 +133,7 @@ google_ad_height = 60;
     
     <form action="/search/" id="SearchHeaderForm" method="get">
     <input id="LookForType" name="LookForType" type="hidden" value="">
-    <input id="NearId" name="NearId" type="hidden" value="">
+    <input id="LocationRef" name="LocationRef" type="hidden" value="">
     <input id="LocationType" name="LocationType" type="hidden" value="">
         <div id="HContainer">
             <div id="SubpageTop">
@@ -105,6 +158,7 @@ google_ad_height = 60;
         </div>
         </div>
     </form>
+
     <div id="ContentContainer">
        <h2>Policies &amp; Disclaimers</h2>
 <strong>Website Disclaimer</strong><br>
@@ -157,21 +211,14 @@ google_ad_height = 60;
          <div id="MainFooter">
             
             <div id="PartnerLogos">
-                <img src="/images/anthill.png" width="68" height="74" alt="Anthill Smart 100 site" style="margin-right:10px;">
-                <a href="http://www.primped.com.au/" rel="nofollow" title="Primped - The go-to for the how-to in beauty" target="_blank" id="PrimpedLogo"><img src="/images/primped-logo.png" alt="Primped" width="116" height="51"></a>
+                <img src="/images/anthill.png" width="68" height="74" alt="Anthill Smart 100 site">
             </div>
-<script type="text/javascript">
-    $(document).ready(function() {
-        $("#PrimpedLogo").click(function() {
-            TrackPage('/clicktracking/partners/primped');
-        });
-    });
-</script>
+
             <div id="Social"><table border="0"><tbody><tr><td style="width:25px;"><a href="http://www.facebook.com/mylocalsalon" target="_blank" title="Follow us on Facebook" class="FacebookIcon"></a></td><td style="vertical-align:middle;">Follow us on Facebook</td></tr></tbody></table></div>
-            <div id="FooterLogos"><a href="http://www.shortcuts.com.au" target="_blank"><img src="/Images/24OnShortcutsLogo.jpg" width="149" height="51" alt="Shortcuts Software 24 On"></a></div>
+            <div id="FooterLogos"><a href="http://www.shortcuts.com.au" target="_blank"><img src="/Images/shortcuts-logo.gif" width="149" height="31" alt="Shortcuts Software 24 On"></a></div>
             <div id="FooterLinks">
                 <div id="CopyRight">© Shortcuts Software. All rights reserved</div>            
-                <div id="Links"><a href="/">Home</a> | <a href="/about">About</a>  | <a href="/privacystatement" rel="nofollow">Privacy Statement</a> | <a href="/resources" rel="nofollow">Resources</a> | <a href="http://www.shortcuts.com.au" target="_blank">Shortcuts Software</a> | <a href="/contactus" rel="nofollow">Contact Us</a></div>
+                <div id="Links"><a href="/">Home</a> | <a href="/about">About</a>  | <a href="/privacystatement" rel="nofollow">Privacy Statement</a> | <a href="http://www.shortcuts.com.au" target="_blank">Shortcuts Software</a> | <a href="/contactus" rel="nofollow">Contact Us</a></div>
             </div>
          </div>
         <div id="MainBottom"></div>
@@ -200,6 +247,22 @@ _qevents.push({ qacct:"p-31ALleAS5g_Hc" });
     </div>
 </noscript>
 <!-- End Quantcast tag -->
+    <script type="text/javascript">
+        $(function () {
+            $("#signout").bind("click", function () {
+                FB.getLoginStatus(function (response) {
+                    if (response.status === "connected") {
+                        FB.logout(function () {
+                            window.location.href = "/user/logout";
+                        });
+                    } else {
+                        window.location.href = "/user/logout";
+                    }
+                });
 
+                return false;
+            });
+        });
+    </script>
 
 </body></html>
