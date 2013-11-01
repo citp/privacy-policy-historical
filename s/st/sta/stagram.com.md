@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stagram.com privacy policy that was archived on 2013-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130629105915id_/http%3A//web.stagram.com/pp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stagram.com privacy policy that was archived on 2013-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131102004529id_/http%3A//web.stagram.com/pp) for the most accurate reproduction.*
 
 # WEBSTAGRAM PRIVACY POLICY | Webstagram - the best Instagram viewer
 
