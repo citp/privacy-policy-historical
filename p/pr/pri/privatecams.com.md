@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the privatecams.com privacy policy that was archived on 2013-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130430103241id_/http%3A//privatecams.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the privatecams.com privacy policy that was archived on 2013-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131101070646id_/http%3A//www.privatecams.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - PrivateCams.com
 
