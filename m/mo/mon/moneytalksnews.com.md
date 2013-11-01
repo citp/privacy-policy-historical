@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moneytalksnews.com privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501084158id_/http%3A//www.moneytalksnews.com/info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moneytalksnews.com privacy policy that was archived on 2013-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131101190419id_/http%3A//www.moneytalksnews.com/info/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Money Talks News
 
