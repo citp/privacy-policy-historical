@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the biggcerealheroes.com privacy policy that was archived on 2013-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130614093532id_/http%3A//generalmills.com/home/Privacy_Policy/kids_privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the biggcerealheroes.com privacy policy that was archived on 2013-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131101210111id_/http%3A//generalmills.com/home/Privacy_Policy/kids_privacy_policy.aspx) for the most accurate reproduction.*
 
 # General Mills: kids_privacy_policy
 
