@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the canon.com.my privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230221413id_/http%3A//www.canon.com.my/personal/web/privacy%3FlanguageCode%3DEN) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the canon.com.my privacy policy that was archived on 2013-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131101200627id_/http%3A//www.canon.com.my/personal/web/privacy%3FlanguageCode%3DEN) for the most accurate reproduction.*
 
 # Privacy policy - Canon Malaysia - Personal
 
@@ -66,7 +66,7 @@ Canon strives to ensure that our systems are secure and that they meet industry 
 
 Top
 
-### Right to Amend our Website Privacy Statement
+### Right to Amend our Online Privacy Statement
 
 Canon reserves the right to amend this Statement at any time. Changes will be effective immediately upon posting on the Website.
 
@@ -80,7 +80,7 @@ CORPORATE HEAD OFFICE, SHOWROOM & SERVICE CENTRE
 Block D, Peremba Square, Saujana Resort, Section U2,  
 40150 Shah Alam, Selangor.  
 Tel: 603-7844 6000, 603-7845 0055  
-Fax: 603-7845 0505  
+Fax: 603-7847 7222  
 E-mail: [helpdesk@cmm.canon.com.my ](mailto:helpdesk@cmm.canon.com.my)
 
 Top
