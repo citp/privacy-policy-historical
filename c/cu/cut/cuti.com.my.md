@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cuti.com.my privacy policy that was archived on 2012-01-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120111070938id_/http%3A//www.cuti.com.my/link.htm%3Fdoit%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cuti.com.my privacy policy that was archived on 2013-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131101180446id_/http%3A//www.cuticuti.com/link.htm%3Fdoit%3Dprivacy) for the most accurate reproduction.*
 
 # CUTI Malaysia: A travel reservation and information gateway of Malaysia
 
@@ -29,7 +29,7 @@ We partner with another party to provide specific services. When the user signs 
 These parties are not allowed to use personally identifiable information except for the purpose of providing these services.
 
 **Links**  
-This web site contains links to other sites. Please be aware that we [NB Travel Sdn Bhd](http://www.cuti.com.my/) are not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site.
+This web site contains links to other sites. Please be aware that we [NB Travel Sdn Bhd](http://www.cuti.my/) are not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site.
 
 **Newsletter**  
 If a user wishes to subscribe to our newsletter, we ask for contact information such as name and email address. 
@@ -38,7 +38,7 @@ If a user wishes to subscribe to our newsletter, we ask for contact information 
 From time-to-time our site requests information from users via surveys or contests. Participation in these surveys or contests is completely voluntary and the user therefore has a choice whether or not to disclose this information. Information requested may include contact information (such as name and shipping address), and demographic information (such as zip code, age level). Contact information will be used to notify the winners and award prizes. Survey information will be used for purposes of monitoring or improving the use and satisfaction of this site.
 
 **Tell-Your-Friend**  
-If a user elects to use our referral service for informing a friend about our site, we ask them for your name, email and friends' email address. NB Travel Sdn Bhd will automatically send the friend a one-time email inviting them to visit the site. [NB Travel Sdn Bhd](http://www.cuti.com.my/) stores this information for the sole purpose of sending this one-time email. The friend may contact [NB Travel Sdn Bhd](http://www.cuti.com.my/) at [http://www.cuti.com.my](http://www.cuti.com.my/) to request the removal of this information from their database.
+If a user elects to use our referral service for informing a friend about our site, we ask them for your name, email and friends' email address. NB Travel Sdn Bhd will automatically send the friend a one-time email inviting them to visit the site. [NB Travel Sdn Bhd](http://www.cuti.my/) stores this information for the sole purpose of sending this one-time email. The friend may contact [NB Travel Sdn Bhd](http://www.cuti.my/) at [http://www.cuti.my](http://www.cuti.my/) to request the removal of this information from their database.
 
 **Security**  
 This website takes every precaution to protect our users' information. When users submit sensitive information via the website, your information is protected both online and off-line.
@@ -47,7 +47,7 @@ When our registration/order form asks users to enter sensitive information (such
 
 While we use SSL encryption to protect sensitive information online, we also do everything in our power to protect user-information off-line. All of our users' information, not just the sensitive information mentioned above, is restricted in our offices. Only employees who need the information to perform a specific job (for example, our billing clerk or a customer service representative) are granted access to personally identifiable information. Our employees must use password-protected screen-savers when they leave their desk. When they return, they must re-enter their password to re-gain access to your information. Furthermore, ALL employees are kept up-to-date on our security and privacy practices. Every quarter, as well as any time new policies are added, our employees are notified and/or reminded about the importance we place on privacy, and what they can do to ensure our customers' information is protected. Finally, the servers that we store personally identifiable information on are kept in a secure environment, behind a locked cage.
 
-If you have any questions about the security at our website, you can send an email to [support@cuti.com.my](mailto:support@cuti.com.my?subject=security_n_privacy).
+If you have any questions about the security at our website, you can send an email to [support@cuti.my](mailto:support@cuti.my?subject=security_n_privacy).
 
 **Supplementation of Information**  
 In order for this website to properly fulfill its obligation to our customers, it is necessary for us to supplement the information we receive with information from 3rd party sources.
@@ -70,7 +70,7 @@ If a user's personally identifiable information changes (such as your zip code),
 **Choice/Opt-out**  
 Our users are given the opportunity to 'opt-out' of having their information used for purposes not directly related to our site at the point where we ask for the information. For example, our order form has an 'opt-out' mechanism so users who buy a product from us, but don't want any marketing material, can keep their email address off of our lists. 
 
-Users who no longer wish to receive our newsletter or promotional materials from our partners may opt-out of receiving these communications by replying to unsubscribe in the subject line in the email or email us at support@cuti.com.my.
+Users who no longer wish to receive our newsletter or promotional materials from our partners may opt-out of receiving these communications by replying to unsubscribe in the subject line in the email or email us at support@cuti.my
 
 Users of our site are always notified when their information is being collected by any outside parties. We do this so our users can make an informed choice as to whether they should proceed with services that require an outside party, or not.
 
@@ -84,4 +84,4 @@ Selangor Darul Ehsan, Malaysia.
 Call : +60.3.3343.2884  
 Fax : +60.3.3345.3997  
 or  
-send an email to [support@cuti.com.my](mailto:support@cuti.com.my?subject=term_n_cond)
+send an email to [support@cuti.my](mailto:support@cuti.my?subject=term_n_cond)
