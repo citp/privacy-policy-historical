@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the foothill.edu privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501184709id_/http%3A//www.foothill.edu/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foothill.edu privacy policy that was archived on 2013-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131101221130id_/http%3A//www.foothill.edu/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -41,4 +41,4 @@ Los Altos Hills, CA
 94022-4599  
 [hueg@fhda.edu](mailto:hueg@fhda.edu)
 
-Last updated on: Mon April 26, 2010 10:56 
+Last updated on: Wed May 22, 2013 02:24 
