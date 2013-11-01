@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the herbsandoilsworld.com privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603060645id_/http%3A//www.herbsandoilsworld.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the herbsandoilsworld.com privacy policy that was archived on 2013-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131101134520id_/http%3A//www.herbsandoilsworld.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -42,6 +42,13 @@ We use traffic log cookies to identify which pages are being used. This helps us
 Overall, cookies help us provide you with a better website, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us.
 
 You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website.
+
+**Third party vendors**
+
+Third party vendors, such as Google, use cookies to serve ads based on a user’s prior visits to a website. Google uses the DoubleClick cookie to enable it and its partners to serve ads based on your visit to this site and/or other sites across the Internet.
+
+You may opt out of using the DoubleClick cookie for interest-based advertising by visiting [this page.](https://www.google.com/settings/u/0/ads?hl=en&sig=ACi0TCgNjkpinxr1YBc8SUtD_cs136pU0A0Lg61C9Jein5KPk13u2tI8xbfbac_OhKO7yJ-e8CRv_Gls1nucLA1O6Xiz2oR7YofFQ9ouzBtlk7wu_0390VmbQJyq3PQs2YiRlPT4T8P86OUzgqY_Uc7K5iLJ3q4smDyri1_UQxZvaeGpnXkIO7rfUBFQs5CC1WX7OgkTdOjUDtMDqQS742hZK5p0-d8hBjLujIbdCIILgZmgVXavlq8lI2uUGClVIsZCuu_pmFWxTX-nOFtCAe2pt1k0FDoWRw)[  
+](https://www.google.com/settings/u/0/ads?hl=en&sig=ACi0TCgNjkpinxr1YBc8SUtD_cs136pU0A0Lg61C9Jein5KPk13u2tI8xbfbac_OhKO7yJ-e8CRv_Gls1nucLA1O6Xiz2oR7YofFQ9ouzBtlk7wu_0390VmbQJyq3PQs2YiRlPT4T8P86OUzgqY_Uc7K5iLJ3q4smDyri1_UQxZvaeGpnXkIO7rfUBFQs5CC1WX7OgkTdOjUDtMDqQS742hZK5p0-d8hBjLujIbdCIILgZmgVXavlq8lI2uUGClVIsZCuu_pmFWxTX-nOFtCAe2pt1k0FDoWRw)
 
 **Links to other websites**
 
