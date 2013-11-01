@@ -1,11 +1,11 @@
-<!--The following is the downloaded HTML source of the akc.org privacy policy that was archived on 2013-05-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130528051402id_/http%3A//www.akc.org/about/site/privacystatement.cfm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the akc.org privacy policy that was archived on 2013-11-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131101184031id_/http%3A//www.akc.org/about/site/privacystatement.cfm) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" style=""><head><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1"></script><script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script type="text/javascript">/* <![CDATA[ */_cf_loadingtexthtml="<img alt=' ' src='/CFIDE/scripts/ajax/resources/cf/images/loading.gif'/>";
 _cf_contextpath="";
 _cf_ajaxscriptsrc="/CFIDE/scripts/ajax";
 _cf_jsonprefix='//';
-_cf_clientid='5CDF6AB6A1420B2DA804E73B09E4FB00';/* ]]> */</script><script type="text/javascript" src="/CFIDE/scripts/ajax/messages/cfmessage.js"></script>
+_cf_clientid='6BF9239F7845015F1037EE15A808B094';/* ]]> */</script><script type="text/javascript" src="/CFIDE/scripts/ajax/messages/cfmessage.js"></script>
 <script type="text/javascript" src="/CFIDE/scripts/ajax/package/cfajax.js"></script>
 <script type="text/javascript" src="/CFIDE/scripts/cfform.js"></script>
 <script type="text/javascript" src="/CFIDE/scripts/masks.js"></script>
@@ -65,6 +65,7 @@ qacct:"p-0eXam7IyheRCk"
 <img src="//secure.quantserve.com/pixel/p-0eXam7IyheRCk.gif" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/>
 </noscript>
 <!-- End Quantcast tag -->
+
 
 
 
@@ -319,6 +320,13 @@ el.parentNode.insertBefore(s, el);
 <img src="http://b.scorecardresearch.com/p?c1=2&c2=16415808&cv=2.0&cj=1" />
 </noscript>
 <!-- End comScore Tag -->
+			
+<!-- Begin Munchkin Tag -->
+<script type="text/javascript">
+document.write(unescape("%3Cscript src='//munchkin.marketo.net/munchkin.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="//munchkin.marketo.net/munchkin.js" type="text/javascript"></script>
+<script>Munchkin.init('545-BAT-472');</script>
+<!-- End Munchkin Tag -->
 		
 				<!-- JQuery package version management - for use with JQueryManager -->
 				<script type="text/javascript" src="/libraries/jquery/versions.js">
@@ -406,109 +414,140 @@ el.parentNode.insertBefore(s, el);
 //-->
 </script>
 						
-            <script> 
+           
+
+
+
+
+	 <script> 
+
+
+            function toggleLoginBox(){
+                $("#myAkcLogin_overlay_wrapper").slideToggle("10");
+                if( $("#myAkcLoginLink").hasClass("un_clicked")){                     
+                     $("#myAkcLoginLink").attr("class","myAkcLoginLink");
+                      $("#user_name").focus();
+                     $("#user_name").val("").attr("class","user_name_start");
+                     $("#password").val("").attr("class","password_start") ;
+                }
+                else{
+                    $("#myAkcLoginLink").attr("class","un_clicked");                        
+                }
+            }
+
+
+            function togglePassword(){
+                if( $("#password").hasClass("password_start") || $("#password").hasClass("password_error")){         
+                   $("#password").attr("class","myAkcFormField");      
+                }
+            }
+
+
+
+            function toggleUsername(){
+                if( $("#user_name").hasClass("user_name_start") || $("#user_name").hasClass("user_name_error")){         
+                    $("#user_name").attr("class","myAkcFormField");      
+                }
+            }
+
+
+
+
+            function hideMyAkcLogin(){
+                if( $("#myAkcLoginLink").hasClass("myAkcLoginLink")){
+                    $("#myAkcLogin_overlay_wrapper").slideToggle("10");
+                    $("#myAkcLoginLink").attr("class","un_clicked");           
+                } 
+            }
+
+
+
+            function toggleFields(){
+		toggleUsername();
+		togglePassword();
+            }
+
+
+
+
             $(document).ready(function(){
                         
-              
-				$("#myAkcLogin_overlay_wrapper").keyup(function(e) {
-					if (e.which == 13)  {
-						$("#myAkcLoginFormButton").click();
-					}
-				});
-			
-			// close the login form if you click outside the box 
-			$(document).click(function() {
-			     hideMyAkcLogin();
-			});
-			// dont close the login form if you click inside the box 
-			$("#myAkcLogin_overlay_wrapper").click(function(e) {
-			    e.stopPropagation(); 			    
-			});
-			$("#myAkcLoginLink").click(function(e) {
-			    e.stopPropagation(); 
-			    
-			});
-			// close the login form if you press esc
-			$(document).keyup(function(e) { 
-			    if (e.which == 27) {  hideMyAkcLogin(); }  // esc   
-			});
-			
-			$("#user_name").val("");
-			$("#password").val("");   	
-			$("#myAkcMessage").hide();
-			$("#user_name").focus(function(){
-           	   	toggleUsername();
-           	   	togglePassword();
-           		});   
-           	$("#user_name").keypress(function(){
-           	   	togglePassword();
-           		});   
-           	$("#password").focus(function(){
-           	   	togglePassword();
-           		});  
-           	$("#password").keypress(function(){
-           	   	togglePassword();
-           		}); 	 
-           	 $("#myAkcLoginLink").click(function(){
-       			toggleLoginBox();              
-            	});	
-            		  
-             $("#myAkcLoginFormButton").click(function(){
-                  isError="";        
-                 if($("#password").val() == ""){
-                   $("#password").attr("class","password_error");  
-                   isError="yes";
-                               
-                 } 
-                  if($("#user_name").val() == ""){
-                   $("#user_name").attr("class","user_name_error");  
-                   isError="yes";     
-                   
-                 } 
-                 if (isError != ""){
-                     return false; 
-                     // $('#myAkcLoginForm').submit();            
-                 }
-                         
-       			toggleLoginBox();              
-            	});
-			
-			 //alert( $("#myAkcLoginLink").attr('class'));
-               function myAkc(){
-                // window.location = 'https://classic.akc.org/online_accounts/index.cfm';  
-				 window.location = '/online_accounts'; 
-               } 
-               function togglePassword(){
-                  if( $("#password").hasClass("password_start") || $("#password").hasClass("password_error")){         
-                  		$("#password").attr("class","myAkcFormField");      
-               		}
-               }
-               function toggleUsername(){
-                    if( $("#user_name").hasClass("user_name_start") || $("#user_name").hasClass("user_name_error")){         
-                  		$("#user_name").attr("class","myAkcFormField");      
-               		}
-               }
-               
-                function toggleLoginBox(){
-                   $("#myAkcLogin_overlay_wrapper").slideToggle("10");
-	               if( $("#myAkcLoginLink").hasClass("un_clicked")){  					 					$("#myAkcLoginLink").attr("class","myAkcLoginLink");
-	               		$("#user_name").val("").attr("class","user_name_start");
-	               		$("#password").val("").attr("class","password_start") ;
-	               		       
-	               }
-	               else{
-	                     $("#myAkcLoginLink").attr("class","un_clicked");                        
-	               }
-               }
-               
-               function hideMyAkcLogin(){
-                    if( $("#myAkcLoginLink").hasClass("myAkcLoginLink")){
-				     	$("#myAkcLogin_overlay_wrapper").slideToggle("10");
-				     	$("#myAkcLoginLink").attr("class","un_clicked");   		     
-				     } 
-               }
-            });
+             
+
+                    $("#myAkcLoginLink").click(function(e){
+                       toggleLoginBox(); 
+                       e.stopPropagation(); 
+                    }); 
+
+
+
+                    $("#myAkcLoginLink").parent().keyup(function(e){
+                       if (e.which == 13) {$("#myAkcLoginLink").click();}
+                    }); 
+
+
+
+                    $("#myAkcLoginFormButton").click(function(e){                        
+                        isError="";        
+                        if($("#password").val() == ""){
+                            $("#password").attr("class","password_error");  
+                            isError="yes";
+                        } 
+                        if($("#user_name").val() == ""){
+                            $("#user_name").attr("class","user_name_error");  
+                            isError="yes";     
+                        } 
+
+                        if (isError != ""){
+                            return false;
+                        }
+                    });
+
+
+            	    //bind fields' events focus and keypress to toggle function
+                    $("#user_name").focus(function(){
+                        toggleFields();
+                    }).keypress(function(){
+                        toggleFields();
+                    });
+
+                    $("#password").focus(function(){
+                        toggleFields();
+                    }).keypress(function(){
+                        toggleFields();
+                    }); 
+
+
+
+
+                    // close the login form if you click outside the box 
+                    $(document).click(function() {
+                        hideMyAkcLogin();
+                    }); // but dont close the login form if you click inside the box 
+                        $("#myAkcLogin_overlay_wrapper").click(function(e) {
+                            e.stopPropagation();          
+                        });
+
+
+                    // close the login form if you press esc
+                    $(document).keyup(function(e) { 
+                        if (e.which == 27) {  hideMyAkcLogin(); }  // esc   
+                    });
+
+                     
+
+
+            }); // end document.ready
         </script>
+
+<!--[if IE]>
+<style>
+#utility_nav #li-myAKC {
+position: relative;
+left: 4px;
+}
+</style>
+<![endif]-->
 		 
         <!-- end homepage style/script -->   
     
@@ -638,13 +677,13 @@ fjs.parentNode.insertBefore(js, fjs);
 <li><a href="/shop/index.cfm" class="utility_nav_link">store</a> </li> 
 
 <li><a href="/press_center/index.cfm" class="utility_nav_link">press</a>  </li>                              
-<li><a href="javascript:void(0);" class="utility_nav_link"><div class="un_clicked" id="myAkcLoginLink">MY AKC LOGIN</div></a> </li>
+<li id="li-myAKC"><a href="javascript:void(0);" class="utility_nav_link"><div class="un_clicked" id="myAkcLoginLink">MY AKC LOGIN</div></a> </li>
 </ul>
 </span>  
             
             
 			<div id="myAkcLoggedIn">
-			<div id="myAkcMessage" style="display: none;"></div>
+			<div id="myAkcMessage"></div>
 			
 	
 			</div>     
@@ -735,12 +774,17 @@ fjs.parentNode.insertBefore(js, fjs);
     </ul>
 </div>
 
+
 <div id="puppy" class="menu">
     <a id="a_puppy_sub_menu_1" href="/breeds/index.cfm">Breeds</a>
     <a id="a_puppy_sub_menu_2" href="/classified/search/landing_breed.cfm">Find a Puppy</a>
     <a id="a_puppy_sub_menu_3" href="/puppies/registration/index.cfm" menu="puppy_sub_menu_3">Register Your Puppy</a>
     <a id="a_puppy_sub_menu_4" href="/puppies/training/index.cfm" menu="puppy_sub_menu_4">Training &amp; Socialization Resources</a>
-	<a id="a_puppy_sub_menu_12" href="/offer/helpline.cfm">GoodDog!<sup>SM</sup> Helpline</a>
+    <a id="a_puppy_sub_menu_13" href="/puppies/training/star/index.cfm">AKC S.T.A.R. Puppy®</a>
+    <a id="a_puppy_sub_menu_14" href="/dogowner/training/canine_good_citizen/index.cfm">Canine Good Citizen®</a>
+    <a id="a_puppy_sub_menu_15" href="/dogowner/training/akc_community_canine/links.cfm">AKC Community Canine<span class="servicemark">sm</span></a>
+	<a id="a_puppy_sub_menu_12" href="/offer/helpline.cfm">GoodDog!<span class="servicemark">sm</span> Helpline</a>
+	<a id="a_puppy_sub_menu_16" href="/offer/bffbox_akcmenu.cfm">New BFF Product Box</a>
     <a id="a_puppy_sub_menu_5" href="/puppies/responsible_dog_ownership/index.cfm" menu="puppy_sub_menu_5">Responsible Dog Ownership</a>
     <a id="a_puppy_sub_menu_6" href="/breederinfo/breeder_search.cfm">Breeder Referral</a>
     <a id="a_puppy_sub_menu_7" href="/classified/pick_a_puppy.pdf">How to Pick a Puppy</a>
@@ -749,6 +793,7 @@ fjs.parentNode.insertBefore(js, fjs);
     <a id="a_puppy_sub_menu_10" href="/pdfs/public_education/GAINF3.pdf">Welcome to the AKC</a>
 	<a id="a_puppy_sub_menu_11" href="/pdfs/masterform.cfm">Downloadable Forms</a>
 </div>
+
 
 <div id="puppy_sub_menu_3" class="menu">
     <a href="/dogreg/index.cfm">Register Online</a>
@@ -782,19 +827,24 @@ fjs.parentNode.insertBefore(js, fjs);
 </div>
 
 
+
 <div id="dog_owners" class="menu">
 	<a id="a_dog_owners_sub_menu_1" href="/breeds/index.cfm">Breeds</a>  
 	<a id="a_dog_owners_sub_menu_2" href="/dogowner/registration/index.cfm" menu="dog_owners_sub_menu_8">Register Your Dog</a>
 	<a id="a_dog_owners_sub_menu_3" href="/dogowner/keep_dog_healthy/index.cfm" menu="dog_owners_sub_menu_3">Keep Your Dog Healthy</a>
 	<a id="a_dog_owners_sub_menu_4" href="/dogowner/training/index.cfm" menu="dog_owners_sub_menu_4">Training &amp; Socialization Resources</a>
-	<a id="a_dog_owners_sub_menu_17" href="/offer/helpline.cfm">GoodDog!<sup>SM</sup> Helpline</a>
+    <a id="a_dog_owners_sub_menu_18" href="/puppies/training/star/index.cfm">AKC S.T.A.R. Puppy®</a>
+    <a id="a_dog_owners_sub_menu_19" href="/dogowner/training/canine_good_citizen/index.cfm">Canine Good Citizen®</a>
+    <a id="a_dog_owners_sub_menu_20" href="/dogowner/training/akc_community_canine/links.cfm">AKC Community Canine<span class="servicemark">sm</span></a>
+	<a id="a_dog_owners_sub_menu_17" href="/offer/helpline.cfm">GoodDog!<span class="servicemark">sm</span> Helpline</a>
+	<a id="a_dog_owners_sub_menu_21" href="/offer/bffbox_akcmenu.cfm">New BFF Product Box</a>
 	<a id="a_dog_owners_sub_menu_5" href="/classified/search/landing_breed.cfm">Find a Puppy</a>
 	<a id="a_dog_owners_sub_menu_6" href="/dogowner/responsible_dog_ownership/index.cfm" menu="dog_owners_sub_menu_6">Responsible Dog Ownership</a>
 	<a id="a_dog_owners_sub_menu_7" href="/pubs/index.cfm">AKC Magazines</a>
 	<a id="a_dog_owners_sub_menu_12" href="/dogowner/therapy/index.cfm" menu="dog_owners_sub_menu_12">AKC Therapy Dog™ Program</a>
 	<a id="a_dog_owners_sub_menu_10" href="/mixedbreeds/index.cfm">AKC Canine Partners Program</a>
 	<a id="a_dog_owners_sub_menu_11" href="/pdfs/Dog_Shows.pdf">Getting Started in Events  (PDF)</a>
-	<a id="a_dog_owners_sub_menu_8" href="/public_education/kids_corner/kidscorner.cfm">Kids’ Corner</a>
+	
 	<a id="a_dog_owners_sub_menu_9" href="/reg/ilpex.cfm">Purebred Alternative Listing</a>
 	<a id="a_dog_owners_sub_menu_13" href="/pdfs/masterform.cfm">Downloadable Forms</a>
 	<a id="a_breeders_sub_menu_14" href="/reg/fee_schedule.cfm">Fee Schedule</a>
@@ -883,7 +933,7 @@ fjs.parentNode.insertBefore(js, fjs);
 	<a href="/mixedbreeds/listing_benefits.cfm">Canine Partners Listing</a>	 
 	<a href="/mixedbreeds/listing_info.cfm">Canine Parnters Listing Information</a>
 	<a href="/mixedbreeds/index.cfm">AKC Canine Partners Program</a>
-	<a href="/public_education/kids_corner/kidscorner.cfm">Kids' Corner</a>
+	
 	<a href="/reg/ilpex.cfm">Purebred Alternative Listing</a>
 </div>
 
@@ -910,6 +960,7 @@ fjs.parentNode.insertBefore(js, fjs);
     <a href="/governmentrelations/usda_aphis.cfm">USDA/APHIS Resources</a>
 </div> <div id="breeders" class="menu">
     <a id="a_breeders_sub_menu_1" href="/breeders/reg_a_litter/index.cfm" menu="breeders_sub_menu_1">Register a Litter</a>
+	<a id="a_breeders_sub_menu_18" href="/ezreg">E-Z Reg</a>
     <a id="a_breeders_sub_menu_2" href="/breeders/reg_your_puppy/index.cfm" menu="breeders_sub_menu_2">Register Your Puppy</a>
     <a id="a_breeders_sub_menu_3" href="/services/breeder_records.cfm">Online Recordkeeping</a>
     <a id="a_breeders_sub_menu_4" href="/breeders/breeder_education/index.cfm" menu="breeders_sub_menu_4">Breeder Education</a>
@@ -942,6 +993,7 @@ fjs.parentNode.insertBefore(js, fjs);
 
 <div id="breeders_sub_menu_2" class="menu">
     <a href="/dogreg/index.cfm">Register Online</a>
+	<a href="/ezreg">E-Z Reg</a>
     <a href="/reg/registeradog.cfm">Register by Mail</a>
     <a href="/reg/pedigree_overview.cfm">Pedigree Overview</a>
     <a href="/reg/pedigree_order_hardcopy.cfm">Order Certified Pedigree</a>
@@ -1157,8 +1209,7 @@ fjs.parentNode.insertBefore(js, fjs);
     <a href="/clubs/rdod/events/index.cfm">Find an Event in Your Area</a>
     <a href="/clubs/rdod/add_events/account.cfm">Event Coordinator Log-In</a>
     <a href="/clubs/rdod/2005/publicize_event.cfm">Publicize an Event</a>
-    <a href="/clubs/rdod/2011/NC.cfm">Raleigh Flagship RDOD Event</a>
-    <a href="//images.akc.org/pdf/clubs/rdod/2011/recap_2011.pdf" target="_blank">Nationwide Evets</a>
+    <a href="/clubs/rdod/2013/index.cfm">Raleigh Flagship RDOD Event</a>
     <a href="/clubs/rdod/past_events.cfm">Past Events</a>
 </div>
 <div id="shows" class="menu">
@@ -1183,7 +1234,7 @@ fjs.parentNode.insertBefore(js, fjs);
     <a href="/events/search/index.cfm?action=refresh_index&amp;active_tab_row=3&amp;active_tab_col=3&amp;fixed_tab=13">Event Calendar</a>
     <a href="/store/reports/dog/index.cfm?report_cde=CMPREC&amp;report_category_cde=DOG">Points &amp; Awards</a>
 	<a href="/events/conformation/weekly_wins/index.cfm">Weekly Wins</a>
-    <a href="/invitational/2012/index.cfm?text_event_number=2012277101">AKC/Eukanuba National Championship</a>
+    <a href="/nationalchampionship/2013/">AKC/Eukanuba National Championship</a>
     <a href="/judges_directory/index.cfm?action=conf">Judges Directory</a>
     <a href="/rules/index.cfm">Rules &amp; Regulations</a>
     <a href="/pdfs/masterform.cfm">Downloadable Forms</a>
@@ -1202,10 +1253,9 @@ fjs.parentNode.insertBefore(js, fjs);
 <div id="shows_sub_menu_2" class="menu">
 	<a href="/events/search/index.cfm?action=refresh_index&amp;active_tab_row=3&amp;active_tab_col=4&amp;fixed_tab=14">Event Calendar</a>
     <a href="/store/reports/dog/index.cfm?report_cde=CMPREC&amp;report_category_cde=DOG">Points &amp; Awards</a>
-    <a href="/events/obedience/national_obedience_invitational/index.cfm">AKC National Obedience Invitational</a>
-	<a href="/events/obedience/national_obedience_championship/index.cfm">AKC National Obedience Championship</a>
-	<a href="/events/obedience/national_obedience_invitational/2012/junior_competition.cfm">AKC National Juniors Obedience Competition</a>
-	<a href="/events/obedience/noc_classic.cfm">AKC Obedience Classic</a>
+    <a href="/events/obedience/national_obedience_championship/index.cfm">AKC National Obedience Championship</a>
+	<a href="/events/obedience/classic/2013/junior_competition.cfm">AKC National Juniors Obedience Competition</a>
+	<a href="/events/obedience/classic/">AKC Obedience Classic</a>
     <a href="/dog_shows_trials/obedience/links.cfm">Obedience Resource Center</a>
     <a href="/events/obedience/what_is_obedience.cfm">What is Obedience?</a>
 	<a href="/events/obedience/faqs.cfm">FAQs</a>
@@ -1230,7 +1280,7 @@ fjs.parentNode.insertBefore(js, fjs);
     <a href="/rules/index.cfm" target="_blank">Rules &amp; Regulations</a>
 	<a href="/dog_shows_trials/rally/resource_center.cfm">AKC Rally® Resource Center</a>
 	<a href="/events/rally/getting_started.cfm">What is AKC Rally®?</a>
-	<a href="/events/rally/faqs.cfm">FAQs</a>
+	<a href="/events/rally/faqs_main.cfm">FAQs</a>
 	<a href="/pdfs/masterform.cfm">Downloadable Forms</a>
 	<a href="/dog_shows_trials/rally/judging_information.cfm">Judging Resource Center</a>
 	<a href="/events/obedience/field_reps.cfm">Field Representatives</a>
@@ -1249,7 +1299,7 @@ fjs.parentNode.insertBefore(js, fjs);
 	<a href="/dog_shows_trials/agility/links.cfm">Agility Statistics</a>
     <a href="/events/agility/in_the_zone_newsletter.cfm">"In the Zone" Newsletter</a>
 	<a href="/dog_shows_trials/agility/links.cfm">Jump Height Cards</a>
-	<a href="/events/agility/invitational/2012/junior_competition.cfm">AKC Juniors Agility Competition</a> 
+	<a href="/events/agility/invitational/2013/junior_competition.cfm">AKC Juniors Agility Competition</a> 
 	<a href="/dog_shows_trials/agility/links.cfm">Junior Handlers</a>
     <a href="/dog_shows_trials/agility/links.cfm">Regulations and Forms</a>
       <a href="/dog_shows_trials/agility/links.cfm">Trial Secretaries/Trial Committees</a>
@@ -1486,7 +1536,7 @@ fjs.parentNode.insertBefore(js, fjs);
 
 <p><strong>What information do we collect? How do we use it?</strong></p>
 
-<p>An account is required for you to utilize certain services on our Web site, such as making purchases in our Online Store, using Your AKC, and donating to the AKC CAR Canine Support and Relief Fund. When you create an account, we ask for personally identifiable information, that is, information which tells us specifically who you are. We need to know your name, mailing address, phone number, email address, credit card number and expiration date so that we can process and fulfill your purchase orders and notify you of your order status. We also ask for other non-personally identifiable information, such as whether you own an AKC registered dog. We use the information we collect to customize your experience and provide services and features that most likely meet your needs so that your use of our Web site is more enjoyable.</p>
+<p>An account is required for you to utilize certain services on our Web site, such as making purchases in our Online Store, using Your AKC, and donating to the AKC Reunite Canine Support and Relief Fund. When you create an account, we ask for personally identifiable information, that is, information which tells us specifically who you are. We need to know your name, mailing address, phone number, email address, credit card number and expiration date so that we can process and fulfill your purchase orders and notify you of your order status. We also ask for other non-personally identifiable information, such as whether you own an AKC registered dog. We use the information we collect to customize your experience and provide services and features that most likely meet your needs so that your use of our Web site is more enjoyable.</p>
 
 <p>In addition to creating an account with us, we may ask you for personally identifiable information at other times, including when you register a dog or litter through our online system. We use this information to process your application. We also may ask you for personally identifiable information when you sign up for email message groups and newsletters. We use this information to send you the email newsletters you request, to notify you of changes to our Web site, of new products in our Online Store and of other promotions.</p>
 
@@ -1579,22 +1629,22 @@ AKC welcomes your questions and comments about privacy and our Web site. Please 
     <div class="rightads ads" id="TopRightAd" style="margin-bottom: 50px;">
         <script type="text/javascript">
 			jsAd('TopRight');
-        </script><script language="JavaScript1.1" src="https://oasc11.247realmedia.com/RealMedia/ads/adstream_jx.ads/www.akc.org/web/20130528051402id_/http%3A//www.akc.org/about/site/privacystatement.cfm/366076671@Right2,Middle,Right3,Bottom3,Right1,TopRight,Bottom2,Bottom1!TopRight"></script>
+        </script><script language="JavaScript1.1" src="https://oasc11.247realmedia.com/RealMedia/ads/adstream_jx.ads/www.akc.org/web/20131101184031id_/http%3A//www.akc.org/about/site/privacystatement.cfm/357863068@Right2,Middle,Right3,Bottom3,Right1,TopRight,Bottom2,Bottom1!TopRight"></script>
     </div>
     <div class="rightads ads" id="RightAd1">
         <script type="text/javascript">
             jsAd('Right1');
-        </script><script language="JavaScript1.1" src="https://oasc11.247realmedia.com/RealMedia/ads/adstream_jx.ads/www.akc.org/web/20130528051402id_/http%3A//www.akc.org/about/site/privacystatement.cfm/366076671@Right2,Middle,Right3,Bottom3,Right1,TopRight,Bottom2,Bottom1!Right1"></script>
+        </script><script language="JavaScript1.1" src="https://oasc11.247realmedia.com/RealMedia/ads/adstream_jx.ads/www.akc.org/web/20131101184031id_/http%3A//www.akc.org/about/site/privacystatement.cfm/357863068@Right2,Middle,Right3,Bottom3,Right1,TopRight,Bottom2,Bottom1!Right1"></script>
     </div>
     <div class="rightads ads" id="RightAd2">
         <script type="text/javascript">
             jsAd('Right2');
-        </script><script language="JavaScript1.1" src="https://oasc11.247realmedia.com/RealMedia/ads/adstream_jx.ads/www.akc.org/web/20130528051402id_/http%3A//www.akc.org/about/site/privacystatement.cfm/366076671@Right2,Middle,Right3,Bottom3,Right1,TopRight,Bottom2,Bottom1!Right2"></script>
+        </script><script language="JavaScript1.1" src="https://oasc11.247realmedia.com/RealMedia/ads/adstream_jx.ads/www.akc.org/web/20131101184031id_/http%3A//www.akc.org/about/site/privacystatement.cfm/357863068@Right2,Middle,Right3,Bottom3,Right1,TopRight,Bottom2,Bottom1!Right2"></script>
     </div>
     <div class="rightads ads" id="RightAd3">
         <script type="text/javascript">
             jsAd('Right3');
-        </script><script language="JavaScript1.1" src="https://oasc11.247realmedia.com/RealMedia/ads/adstream_jx.ads/www.akc.org/web/20130528051402id_/http%3A//www.akc.org/about/site/privacystatement.cfm/366076671@Right2,Middle,Right3,Bottom3,Right1,TopRight,Bottom2,Bottom1!Right3"></script>
+        </script><script language="JavaScript1.1" src="https://oasc11.247realmedia.com/RealMedia/ads/adstream_jx.ads/www.akc.org/web/20131101184031id_/http%3A//www.akc.org/about/site/privacystatement.cfm/357863068@Right2,Middle,Right3,Bottom3,Right1,TopRight,Bottom2,Bottom1!Right3"></script>
     </div>
 </div>
 
@@ -1634,7 +1684,16 @@ $(document).ready(function(){
 <div id="footer" class="no_print">
 
     <div id="ads_div" class="footer">
-        <div style="clear:both;"></div>
+        
+
+<style>
+	#footer #smalladcontent {
+		max-width: 728px;
+	}
+</style>
+
+
+<div style="clear:both;"></div>
 <div id="adBlockWrapper" class="no_print">
     <div id="adBlock">
     
@@ -1645,54 +1704,60 @@ $(document).ready(function(){
 					 
 					 jsAd('Middle'); 
 				
-					
             
-                </script><script language="JavaScript1.1" src="https://oasc11.247realmedia.com/RealMedia/ads/adstream_jx.ads/www.akc.org/web/20130528051402id_/http%3A//www.akc.org/about/site/privacystatement.cfm/366076671@Right2,Middle,Right3,Bottom3,Right1,TopRight,Bottom2,Bottom1!Middle"></script>            
+                </script><script language="JavaScript1.1" src="https://oasc11.247realmedia.com/RealMedia/ads/adstream_jx.ads/www.akc.org/web/20131101184031id_/http%3A//www.akc.org/about/site/privacystatement.cfm/357863068@Right2,Middle,Right3,Bottom3,Right1,TopRight,Bottom2,Bottom1!Middle"></script>            
             </div>
         </div>
     
       
       
+ 
       
-      
-      <div id="smalladcontent">
+    </div>
+    
+    
+          <div id="smalladcontent">
 
              <div class="smallad ads" id="smallad1">
                   <script type="text/javascript">
-                 	  
-					
-					 
 					  jsAd('Bottom2'); 
-                </script><script language="JavaScript1.1" src="https://oasc11.247realmedia.com/RealMedia/ads/adstream_jx.ads/www.akc.org/web/20130528051402id_/http%3A//www.akc.org/about/site/privacystatement.cfm/366076671@Right2,Middle,Right3,Bottom3,Right1,TopRight,Bottom2,Bottom1!Bottom2"></script> 
+                </script><script language="JavaScript1.1" src="https://oasc11.247realmedia.com/RealMedia/ads/adstream_jx.ads/www.akc.org/web/20131101184031id_/http%3A//www.akc.org/about/site/privacystatement.cfm/357863068@Right2,Middle,Right3,Bottom3,Right1,TopRight,Bottom2,Bottom1!Bottom2"></script> 
             </div>
 
-           
-            
+
             <div class="smallad ads" id="smallad2">
                   <script type="text/javascript">
-                 	 
-					
-					
-					jsAd('Bottom1');
-                </script><script language="JavaScript1.1" src="https://oasc11.247realmedia.com/RealMedia/ads/adstream_jx.ads/www.akc.org/web/20130528051402id_/http%3A//www.akc.org/about/site/privacystatement.cfm/366076671@Right2,Middle,Right3,Bottom3,Right1,TopRight,Bottom2,Bottom1!Bottom1"></script>              
+					 jsAd('Bottom1');
+                </script><script language="JavaScript1.1" src="https://oasc11.247realmedia.com/RealMedia/ads/adstream_jx.ads/www.akc.org/web/20131101184031id_/http%3A//www.akc.org/about/site/privacystatement.cfm/357863068@Right2,Middle,Right3,Bottom3,Right1,TopRight,Bottom2,Bottom1!Bottom1"></script>              
             </div>
-
             
             <div class="smallad ads" id="smallad3">
                   <script type="text/javascript">
-                 	
-					
-					 
 					 jsAd('Bottom3');
-                </script><script language="JavaScript1.1" src="https://oasc11.247realmedia.com/RealMedia/ads/adstream_jx.ads/www.akc.org/web/20130528051402id_/http%3A//www.akc.org/about/site/privacystatement.cfm/366076671@Right2,Middle,Right3,Bottom3,Right1,TopRight,Bottom2,Bottom1!Bottom3"></script>              
+                </script><script language="JavaScript1.1" src="https://oasc11.247realmedia.com/RealMedia/ads/adstream_jx.ads/www.akc.org/web/20131101184031id_/http%3A//www.akc.org/about/site/privacystatement.cfm/357863068@Right2,Middle,Right3,Bottom3,Right1,TopRight,Bottom2,Bottom1!Bottom3"></script>              
             </div>
+         
+         
+         	
+		 
+               
+               
+				                
+                
 
-		<span class="stretch"></span>
+			<span class="stretch"></span>
         </div> 
 
     
         <div style="clear:both;"></div>
-    </div>
+
+    
+    
+    
+    
+    
+    
+    
 </div>
 
 
@@ -1746,10 +1811,14 @@ $(document).ready(function(){
 	});
 });
 </script>
+
+
+
     </div>
 
     <div id="soc_media_div" class="footer">
         
+
 <div id="tweets">
     <div id="tweetBoxWrapper">
         <div id="twitterboxtop"><img src="//images.akc.org/twitter_box_top.png" id="img_twitter_box_top"></div>
@@ -1782,6 +1851,8 @@ $(document).ready(function(){
 <div id="s_media_div">
     <ul id="navlist">
 
+      <li id="blog"><a target="_blank" title="AKC Dog Lovers | We're more than champion dogs. We're the dog's champion." href="http://www.akcdoglovers.com/"></a></li>
+
       <li id="podcast"><a target="_blank" title="AKC's Pick of the Litter Podcast" href="http://akcpickofthelitter.libsyn.com/webpage/category/general"></a></li>
         
       <li id="twitter"><a target="_blank" title="AKC Twitter Feed" href="http://twitter.com/akcdoglovers"></a></li>
@@ -1809,7 +1880,7 @@ $(document).ready(function(){
         &nbsp;&nbsp;
         <a href="/about/telephone_directory.cfm" class="footer_nav_link" title="Contact Us">Contact Us</a>
         &nbsp;&nbsp;
-        <a href="//images.akc.org/pdf/about/site/2012_AKC_Media_Kit.pdf" target="_blank" class="footer_nav_link" title="Corporate Advertising">Corporate Advertising</a>
+        <a href="//images.akc.org/pdf/about/site/AKC_Media_Kit.pdf" target="_blank" class="footer_nav_link" title="Corporate Advertising">Corporate Advertising</a>
         &nbsp;&nbsp;
         <a href="/about/site/privacystatement.cfm" class="footer_nav_link" title="Privacy Statement">Privacy Statement</a>
         &nbsp;&nbsp;
@@ -1836,12 +1907,28 @@ $(document).ready(function(){
 
 <div id="copyright_notice">© 2013 American Kennel Club. All rights reserved.</div>
 
-		<span id="machinename">webprod3</span>
+		<span id="machinename">webprod1</span>
+
+
+            
+            
+            
+
+
     </div>
+
+
+
+
+
 </div>
 
 
 	
+
+ 
+
+
 
     
  </body></html>
