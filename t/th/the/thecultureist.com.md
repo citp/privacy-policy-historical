@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thecultureist.com privacy policy that was archived on 2013-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130515085907id_/http%3A//www.thecultureist.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thecultureist.com privacy policy that was archived on 2013-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131101182752id_/http%3A//www.thecultureist.com/privacy-policy) for the most accurate reproduction.*
 
 # The Culture-ist Privacy Policy
 
@@ -55,3 +55,5 @@ If you have any questions or concerns regarding privacy using the Services, plea
 
 _Effective date: September 1, 2011_  
 _This policy was last modified on March 15, 2013_
+
+[](http://pinterest.com/pin/create/button/?url=http%3A%2F%2Fwww.thecultureist.com%2Fprivacy-policy%2F&media=&description=The+Culture-ist+Privacy+Policy)[](http://www.stumbleupon.com/submit?url=http%3A%2F%2Fwww.thecultureist.com%2Fprivacy-policy%2F)[](http://www.tumblr.com/share/link?url=http%3A%2F%2Fwww.thecultureist.com%2Fprivacy-policy%2F&name=The+Culture-ist+Privacy+Policy)[](http://www.reddit.com/submit?url=http%3A%2F%2Fwww.thecultureist.com%2Fprivacy-policy%2F)[](mailto:?subject=The%20Culture-ist%20Privacy%20Policy&body=http://www.thecultureist.com/privacy-policy/)[](http://www.linkedin.com/shareArticle?mini=true&url=http%3A%2F%2Fwww.thecultureist.com%2Fprivacy-policy%2F&title=The+Culture-ist+Privacy+Policy)[](http://digg.com/submit?url=http%3A%2F%2Fwww.thecultureist.com%2Fprivacy-policy%2F&title=The+Culture-ist+Privacy+Policy)[ ](https://www.linksalpha.com/social/mobile)
