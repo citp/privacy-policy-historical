@@ -1,26 +1,23 @@
-> *The following text is extracted and transformed from the myamcat.com privacy policy that was archived on 2013-03-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130312132954id_/http%3A//www.myamcat.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myamcat.com privacy policy that was archived on 2013-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131101030443id_/https%3A//www.myamcat.com/privacy-policy) for the most accurate reproduction.*
 
-# AMCAT - Fresher Jobs Off Campus Freshers Walkin Aptitude/Career Test MBA Jobs, First Job - Employability Test
+# AMCAT - Freshers Job Employability Assessment Test in India
 
 We respect the privacy of our customers which is very important to us. Information about our customers is an important part of our business, and we are not in the business of selling it to others. We gather and store any information entered by you on our website or during the assessment or given to us by you in any other way.
 
-**Josh Technology Group**   
-
-
 Role: 
 
-Software Developer
+Junior Software Engineer
 
 Salary: 
 
-Rs 500000 p.a.
+Rs 280000 p.a.
 
   
 
 
-Nethravathi. S
+Kishore Peddisetty
 
-I appeared for the test at my campus during the final year. I believe that the test consisted of both easy and tough.....
+I got very good score in AMCAT. The scores had leveraged my analytical and reasoning skills which was the basic.....
 
 Access to some areas of our website may require appropriate authorization. A unique user ID and password are required for the purpose. We use the information provided by you this way for purposes such as responding to your requests, customizing future shopping for you, communicating with you and improving our stores. The information provided by you helps us personalize and improve your experience at www.myamcat.com.
 
