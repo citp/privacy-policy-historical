@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the repairpal.com privacy policy that was archived on 2009-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090416125309id_/http%3A//repairpal.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the repairpal.com privacy policy that was archived on 2013-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131101031844id_/http%3A//repairpal.com/privacy_policy) for the most accurate reproduction.*
 
-# Privacy Policy : RepairPal
+# Privacy Policy
 
-This privacy policy was last modified on June 2, 2008.
+This privacy policy was last modified on October 11, 2012.
 
 RepairPal, Inc. ("Company," "we," or "us") knows that you care how information about you is used and shared. This Privacy Policy explains what information of yours will be collected by RepairPal when you use RepairPal.com and related services (the “Service”), how the information will be used, and how you can control the collection, correction and/or deletion of information. We will not use or share your information with anyone except as described in this Privacy Policy.
 
@@ -40,6 +40,10 @@ RepairPal reserves the right, but has no obligation, to monitor the User Content
 
 We use cookies, clear gifs, and log file information to: (a) remember information so that you will not have to re-enter it during your visit or the next time you visit the site; (b) provide custom, personalized content and information; (c) monitor the effectiveness of our service; (d) monitor aggregate metrics such as total number of visitors and traffic; (e) diagnose or fix technology problems reported by our users or engineers that are associated with the IP addresses controlled by a specific web company or ISP; and (f) help you efficiently access your information after you sign in.
 
+RepairPal uses one or more companies to place advertisements for our products and services and those of third parties on our Site and third-party sites. Cookies and other technologies such as Web beacons or tags are used to measure the effectiveness of our ads and to determine the display of content and advertising to you based on your interests both on our site, as well as on third-party sites where you may visit. To support this interest based advertising solution, we, and companies who we have contracted with, may use anonymous information about your visits to our and other Web sites.
+
+Although it is our hope that you find the display of advertising to you based on your anonymous interests valuable, you can also generally opt-out of receiving personalized ads from third party advertisers and ad networks who are members of the [Network Advertising Initiative (NAI)](http://www.networkadvertising.org/managing/opt_out.asp "Network Advertising Initiative \(NAI\)") or who follow the [Digital Advertising Alliance’s Self-Regulatory Principles for Online Behavioral Advertising](http://www.aboutads.info/choices/ "Digital Advertising Alliance’s Self-Regulatory Principles for Online Behavioral Advertising") by visiting the opt-out pages on the NAI website and DAA website.
+
 ##   
 How We Share Your Information
 
@@ -51,12 +55,13 @@ Except as otherwise described in this privacy statement, RepairPal will not disc
 
 Non-Personally Identifiable Information: We may share non-personally identifiable information (such as anonymous usage data, referring/exit pages and URLs, platform types, number of clicks, etc.) with interested third parties to help them understand the usage patterns for certain RepairPal services.
 
-RepairPal allows other companies, called third-party ad servers or ad networks, to serve advertisements on the RepairPal site. These third-party ad servers or ad networks use technology to send, directly to your browser, the advertisements and links that appear on RepairPal. They automatically receive your IP address when this happens. They may also use other technologies (such as cookies, JavaScript, or Web  
-Beacons) to measure the effectiveness of their advertisements and to personalize the advertising content.
+RepairPal allows other companies, called third-party ad servers or ad networks, to serve advertisements on the RepairPal site. These third-party ad servers or ad networks use technology to send, directly to your browser, the advertisements and links that appear on RepairPal. They automatically receive your IP address when this happens. They may also use other technologies (such as cookies, JavaScript, or Web Beacons) to measure the effectiveness of their advertisements and to personalize the advertising content.
 
 RepairPal does not provide any personally identifiable information to these third-party ad servers or ad networks without your consent. However, please note that if an advertiser asks RepairPal to show an advertisement to a certain audience and you respond to that advertisement, the advertiser or ad-server may conclude that you fit the description of the audience they are trying to reach.
 
 You should consult the respective privacy policies of these third-party ad servers or ad networks. The RepairPal privacy policy does not apply to, and we cannot control the activities of, such advertisers.
+
+As a customer of a Repairpal subscriber, we will not sell, rent, or lease your personal information to third parties. We may disclose your personal information to our professional advisors, contractors, business associates, related companies, and others who have agreed to treat your personal information in accordance with this privacy policy. We may share information with governmental agencies or other companies assisting us in fraud prevention or investigation. We may do so when: (1) permitted or required by law; or, (2) trying to protect against or prevent actual or potential fraud or unauthorized transactions; or, (3) investigating fraud which has already taken place. The information is not provided to these companies for marketing purposes.
 
 ##   
 How We Protect Your Information
@@ -92,9 +97,9 @@ Notification Procedures
 
 It is our policy to provide notifications, whether such notifications are required by law or are for marketing or other business related purposes, to you via email notice, written or hard copy notice, or through conspicuous posting of such notice on our Website page, as determined by RepairPal in its sole discretion. We reserve the right to determine the form and means of providing notifications to you, provided that you may opt out of certain means of notification as described in this Privacy Policy.
 
-RepairPal is a licensee of the TRUSTe Web Privacy Seal Program.  TRUSTe is an independent, non-profit organization whose mission is to build user’s trust and confidence in the Internet by promoting the use of fair information practices.  This privacy statement covers the Web site [www.repairpal.com].  Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
+RepairPal is a licensee of the TRUSTe Web Privacy Seal Program.  TRUSTe is an independent organization whose mission is to build user’s trust and confidence in the Internet by promoting the use of fair information practices.  This privacy statement covers the Web site [www.repairpal.com].  Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
 
-If you have questions or concerns regarding this statement, you should first contact David Esser at [team@repairpal.com](mailto:team@repairpal.com "team@repairpal.com").  If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at <http://www.truste.org/consumers/watchdog_complaint.php> TRUSTe will then serve as a liaison with us to resolve your concerns.
+If you have questions or concerns regarding this statement, you should first contact [team@repairpal.com](mailto:team@repairpal.com "team@repairpal.com").  If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at <http://www.truste.org/consumers/watchdog_complaint.php> TRUSTe will then serve as a liaison with us to resolve your concerns.
 
 ##   
 Changes in this Privacy Statement
@@ -106,6 +111,5 @@ Changes to this Privacy Policy are effective when they are posted on this page.
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this Web site, please contact us at [team@repairpal.com](mailto:team@repairpal.com "team@repairpal.com").
 
 RepairPal  
-5900 Hollis Street  
-Suite G  
-Emeryville, CA 94608
+85 Federal St. 2nd Floor   
+San Francisco, CA 94107
