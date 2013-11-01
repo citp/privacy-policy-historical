@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adsensemasterscourse.com privacy policy that was archived on 2013-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130402203513id_/http%3A//adsensemasterscourse.com/%3Fpage_id%3D15) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adsensemasterscourse.com privacy policy that was archived on 2013-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131101213728id_/http%3A//adsensemasterscourse.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
