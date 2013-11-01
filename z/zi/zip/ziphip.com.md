@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ziphip.com privacy policy that was archived on 2013-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130606114419id_/http%3A//www.ziphip.com/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ziphip.com privacy policy that was archived on 2013-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131101230855id_/http%3A//www.ziphip.com/privacypolicy.aspx) for the most accurate reproduction.*
 
-# Hoboken Yellow Pages
+# Los Angeles Yellow Pages
 
 Last Updated: January 2013
 
