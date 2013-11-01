@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ourmatch.net privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501083808id_/http%3A//www.ourmatch.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ourmatch.net privacy policy that was archived on 2013-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131101185905id_/http%3A//ourmatch.net/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Ourmatch - Latest Football Goals And Highlights
+# Privacy Policy | Ourmatch - Latest Football Highlights
 
 This Privacy Policy governs the manner in which OurMatch.net collects, uses, maintains and discloses information collected from users (each, a “User”) of the http://www.ourmatch.net website (“Site”). This privacy policy applies to the Site and all products and services offered by Ourmatch.net.
 
