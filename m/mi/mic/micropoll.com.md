@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the micropoll.com privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502183132id_/http%3A//support.micropoll.com/faqs/account/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the micropoll.com privacy policy that was archived on 2013-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131101190439id_/http%3A//support.micropoll.com/faqs/account/privacy-policy) for the most accurate reproduction.*
 
 # MicroPoll Privacy Policy / Account / Knowledge Base - micropoll Support
 
