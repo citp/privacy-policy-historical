@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the patriotledger.com privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501083249id_/http%3A//www.gatehousemedia.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the patriotledger.com privacy policy that was archived on 2013-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131101160747id_/http%3A//www.gatehousemedia.com/privacy) for the most accurate reproduction.*
 
 # GateHouse Media, Inc. Publications
 
