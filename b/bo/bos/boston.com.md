@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the boston.com privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603200223id_/http%3A//www.boston.com/help/privacy_policy/%3Fp1%3DFoot_ContactBostonCom_PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boston.com privacy policy that was archived on 2013-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131101111722id_/http%3A//www.boston.com/help/privacy_policy) for the most accurate reproduction.*
 
 # Boston.com's Privacy Policy - Boston.com
 
-This policy was last updated on **December 31, 2012**.
+This policy was last updated on **October 12, 2013**.
 
-This policy discloses the privacy practices for Boston.com, BostonGlobe.com, The Boston Globe newspaper, the Boston Globe Services Web site, Globe Reader, and our mobile messaging services and smartphone applications (collectively, the "Services"). For the purposes of this Privacy Policy, unless otherwise noted, all references to "The Boston Globe" include Boston.com, BostonGlobe.com, The Boston Globe newspaper, and Boston Globe Services.
+This policy discloses the privacy practices for Boston.com, BostonGlobe.com, The Boston Globe newspaper, the Boston Globe Services Web site, Globe Reader, and our mobile messaging services and smartphone applications (collectively, the "Services"). For the purposes of this Privacy Policy, unless otherwise noted, all references to "The Boston Globe" include Boston.com, BDCwire.com, BostonGlobe.com, The Boston Globe newspaper, and Boston Globe Services.
 
 [](https://privacy.truste.com/privacy-seal/The-New-York-Times/validation?rid=0535a645-62f9-4350-be83-d820d8f37ad0 "TRUSTe online privacy certification")
 
@@ -78,7 +78,7 @@ Occasionally, The Boston Globe will run contests that registered members can ent
 
 We use a commercial advertising server to display ads on our sites and we use cookies to manage the display and frequency of advertisements that we sell and/or serve. 
 
-We also reserve the right to place a New York Times Company cookie on your computer with a unique anonymous number to ensure that your browser does not see the same ad over and over again, to sequence ads in a series, and to measure the number of unique visitors that have viewed a particular ad or visited a particular webpage.
+We also reserve the right to place a Boston Globe Media Partners LLC cookie on your computer with a unique anonymous number to ensure that your browser does not see the same ad over and over again, to sequence ads in a series, and to measure the number of unique visitors that have viewed a particular ad or visited a particular webpage.
 
 We use clear gifs in our HTML-based e-mails to let us know which e-mails have been opened by recipients. This allows us to gauge the effectiveness of certain communications and the effectiveness of our marketing campaigns.
 
@@ -88,7 +88,7 @@ All data collected by Omniture on behalf of our websites is owned and used by Th
 
 We use Localytics and Flurry to track usage and browsing patterns on some of our mobile applications. For more information about Localytics and its privacy policy, please go to <http://www.localytics.com/privacy-policy>. For more information about Flurry and its privacy policy, please go to <http://www.flurry.com/about-us/legal/privacy.html>. Flurry and Localytics may independently record the type of device and operating system you are using, general location information, as well as events that occur within our apps, such as how often you use our apps. We do not receive that information.
 
-The Boston Globe currently uses Google Analytics, a third party, to track and analyze non-personally identifiable usage and volume statistical information from our Globe Reader users. We also use Google Analytics to track and analyze non-personally identifiable usage and volume statistical information from our Boston Deals users. We use this information to track the traffic, usability, performance, and effectiveness of our programs. We reserve the right to publish non-personally identifiable, summary information regarding our online visitors for promotional purposes and as a representative audience for advertisers. Please note that this is not personal information, only general summaries of the activities of our visitors and customers in aggregate.
+The Boston Globe currently uses Google Analytics, a third party, to track and analyze non-personally identifiable usage and volume statistical information from our Globe Reader users. We also use Google Analytics to track and analyze non-personally identifiable usage and volume statistical information from our Boston.com Finds users. We use this information to track the traffic, usability, performance, and effectiveness of our programs. We reserve the right to publish non-personally identifiable, summary information regarding our online visitors for promotional purposes and as a representative audience for advertisers. Please note that this is not personal information, only general summaries of the activities of our visitors and customers in aggregate.
 
 We reserve the right to change the vendors who provide us with usage data. If such a change takes place, updated information will be posted here in this Privacy Policy.
 
