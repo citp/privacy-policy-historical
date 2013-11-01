@@ -1,226 +1,218 @@
-<!--The following is the downloaded HTML source of the mohela.com privacy policy that was archived on 2012-12-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121208145701id_/http%3A//www.mohela.com/DL/common/internetprivacy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the mohela.com privacy policy that was archived on 2013-11-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131101155229id_/https%3A//www.mohela.com/DL/common/internetprivacy.aspx) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head id="ctl00_Head1"><title>
-	MOHELA Internet Privacy Notice
-</title><link id="ctl00_Link1" rel="stylesheet" type="text/css" href="../../includes/main.css">
-    <!--[if IE]>
-    <link rel="Stylesheet" type="text/css" href="../controls/css/ie.css" media="all" />    
-    <![endif]-->
-    <script language="javascript" type="text/javascript" src="includes/jquery-1.4.2.min.js"></script>
-    <script language="javascript" type="text/javascript" src="includes/common.js"></script>
-    <script language="javascript" type="text/javascript">
-     function exitAlert(linkName)  {
-               var str;
-               str='By clicking on this link you will leave the MOHELA website and proceed to the selected site. MOHELA is not affiliated with '
-                     + linkName + ' nor does it endorse its sponsor(s) nor any of the policies, activities, products or services offered on the site or any advertiser or other sponsor on the site. By selecting the '
-                     + linkName + ' site, you will be entering into a third party site. In addition, MOHELA is not responsible in any way for, nor does it endorse, the web site, its content, privacy policy or level of security.'
-               if (confirm(str)) 
-                  {
-                      return true;
-                  }
-               else
-                  {
-                      return false;
-                  }
-              
-    }
-   </script>
-</head>
-<body onkeydown="EnterKeySubmit()" onload="ClientFocus()">
-<script language="javascript" type="text/javascript">
-     function EnterKeySubmit() {
-      
-    }
+<!DOCTYPE html><html class=" js rgba borderradius boxshadow textshadow opacity cssgradients csstransforms generatedcontent boxsizing details" style=""><head>
    
-   function ClientFocus() {
+<title>
+	MOHELA Internet Privacy Notice
+</title><meta name="viewport" content="width=device-width"><link rel="stylesheet" href="/font/stylesheet.css"><link rel="stylesheet" href="/includes/css/normalize.css"><link rel="stylesheet" href="/includes/css/typography.css?x=2"><link rel="stylesheet" href="/includes/css/main.css?r=8">
+      <script src="/includes/js/modernizr.min.js"></script>
+      <script src="/includes/js/modernizr-elem-details.js"></script>
+      <script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
+      <script src="/includes/js/jquery.details.min.js"></script>
+   
+   <script type="text/javascript">
+   function CheckBrowser() {
+         if (is_mobile()) {
+            //document.getElementById('mUI').style.display = 'none';
+            var r = confirm("Would you like to browse MOHELA's mobile friendly site instead?");
+            if (r == true) {
+               privateBrowsing();
+               //set a cookie here to store this preference?
+            } else {
+
+            }
+         } 
+      }
+
+      function is_mobile() {
+         if (navigator.userAgent.match(/(iPhone|iPod|Android|BlackBerry|Silk)/)) {
+            return true;
+         }
+         return false;
+      }
       
-    } 
-       
-    </script>
-<form name="aspnetForm" method="post" action="internetprivacy.aspx" id="aspnetForm">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKLTMxOTcyMzM5Nw9kFgJmD2QWAgIBD2QWFAIBDxYCHgRocmVmBQ5+L0RlZmF1bHQuYXNweGQCAw9kFgQCAQ8PFgIeC1Bvc3RCYWNrVXJsBTRodHRwOi8vd3d3Lm1vaGVsYS5jb20vREwvY29tbW9uL2ludGVybmV0cHJpdmFjeS5hc3B4ZGQCAg8PFgIfAQU0aHR0cDovL3d3dy5tb2hlbGEuY29tL0RML2NvbW1vbi9pbnRlcm5ldHByaXZhY3kuYXNweGRkAgcPZBYCAgEPFgIeCWlubmVyaHRtbAUxPiA8YSBocmVmPS9kZWZhdWx0LmFzcHg+SG9tZTwvYT4gPiBQcml2YWN5IE5vdGljZWQCCQ8WAh8ABRZ+L0RML2NvbW1vbi9hYm91dC5hc3B4ZAILDxYCHwAFGn4vREwvY29tbW9uL2NvbnRhY3RVcy5hc3B4ZAINDxYCHwAFI34vREwvY29tbW9uL0VtcGxveW1lbnQvRGVmYXVsdC5hc3B4ZAIPDxYCHwAFDn4vRGVmYXVsdC5hc3B4ZAIRDxYCHwAFIH4vREwvY29tbW9uL2ludGVybmV0cHJpdmFjeS5hc3B4ZAITDxYCHwAFGH4vREwvY29tbW9uL3NpdGVtYXAuYXNweGQCFQ8WBB8CBQVsb2dpbh8ABSN+L0RML3NlY3VyZS9hY2NvdW50L2xvZ2luU3RlcDEuYXNweGRk0Cs91YJmRoZFkDxzQtTgnzsQzD0=">
+      function privateBrowsing() {
+         try {
+            localStorage.setItem('testKey', '1');
+            window.location = 'https://www.mohela.com/mobile/';
+         } catch (error) {
+            if (error.code === DOMException.QUOTA_EXCEEDED_ERR) {
+               alert('This site does not function with private browsing enabled');
+            } else {
+               throw error;
+            }
+         }
+      }
+      
+      </script>
+   
+   <link rel="stylesheet" href="/includes/css/subpage.css">
+   <!--[if lte IE 8]>
+   <style>
+      #rightColBg { background-color: #E9EFF2; overflow: hidden; }
+      .input-wrapper { background-color: #000; }
+      
+      #rightColBg .ieglow {
+       position: absolute; left: 0; top: 0; z-index: 0; width: 100%; height: 100%; background-color: #FFF; zoom: 1; }
 
-<input type="hidden" name="__PREVIOUSPAGE" id="__PREVIOUSPAGE" value="a9ABL0jPVCrI-UNQD-sbl1urHKcNKbaKEcnKoAfeXwSFHROwXr9cMFB5FXAYuTTc7oQ7bV5GpfWLa2FLqZ6QWV99-u39Q2V9ememq26MJqeOFlXK0">
-<div id="wrapper">
-    <div id="main">
-        <div class="reveal" style="padding-left: 10px;"><a href="#MainContent" style="font-size:xx-small;">Skip to Main Content</a></div>
-        <div id="header">
-            <a href="../../Default.aspx" id="ctl00_logo" class="logo"><img id="ctl00_imgMohela" src="../../images/logo.png" alt="Mohela" border="0"></a>
-        </div>
-        <div id="ctl00_divADALinks" class="container">
-            <div id="fontSize">Text Size: <a id="ctl00_lbInc" href='javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions("ctl00$lbInc", "", false, "", "http://www.mohela.com/DL/common/internetprivacy.aspx", false, true))'><img id="ctl00_imgPlus" src="../../images/plus.png" alt="Increase" border="0"></a><a id="ctl00_lbDec" href='javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions("ctl00$lbDec", "", false, "", "http://www.mohela.com/DL/common/internetprivacy.aspx", false, true))'><img id="ctl00_imgMinus" src="../../images/minus.png" alt="Decrease" border="0"></a></div>
-        </div>
-        <!--start of leftNav-->
-        <div id="leftNav" class="subs">
-            <div class="leftNavLinks">
-                
-                <table cellspacing="0" border="0" id="ctl00_grd">
-	<tbody><tr>
-		<td>
-                            <table id="ctl00_grd_ctl02_tblMain" border="0">
-			<tbody><tr id="ctl00_grd_ctl02_tblRow">
-				<td id="ctl00_grd_ctl02_tblCell"><table cellspacing="0" border="0" id="ctl00_grd_ctl02_tempGrid">
-					<tbody><tr>
-						<td>
-                                                    <div id="ctl00_grd_ctl02_tempGrid_ctl24_divText" class="label" align="left" style="width:204px;">Account Management</div>
-                                                </td>
-					</tr><tr>
-						<td>
-                                                    <div id="ctl00_grd_ctl02_tempGrid_ctl25_divText" class="leftNav" align="left" style="width:204px;"><a href="/DL/secure/borrower/AccountSummary.aspx">Account Summary</a></div>
-                                                </td>
-					</tr><tr>
-						<td>
-                                                    <div id="ctl00_grd_ctl02_tempGrid_ctl26_divText" class="leftNav" align="left" style="width:204px;"><a href="/DL/secure/borrower/profile.aspx">Profile</a></div>
-                                                </td>
-					</tr><tr>
-						<td>
-                                                    <div id="ctl00_grd_ctl02_tempGrid_ctl27_divText" class="leftNav" align="left" style="width:204px;"><a href="/DL/secure/borrower/AutoDebit/default.aspx">Auto Debit Information</a></div>
-                                                </td>
-					</tr><tr>
-						<td>
-                                                    <div id="ctl00_grd_ctl02_tempGrid_ctl28_divText" class="leftNav" align="left" style="width:204px;"><a href="../secure/borrower/onlinePayment/OLPPaymentScheduling.aspx">Pay Online</a></div>
-                                                </td>
-					</tr><tr>
-						<td>
-                                                    <div id="ctl00_grd_ctl02_tempGrid_ctl29_divText" class="leftNav" align="left" style="width:204px;"><a href="/DL/secure/borrower/calculator/earlyPayoffCalculator.aspx">Pay-Off Amount</a></div>
-                                                </td>
-					</tr><tr>
-						<td>
-                                                    <div id="ctl00_grd_ctl02_tempGrid_ctl30_divText" class="leftNav" align="left" style="width:204px;"><a href="/DL/secure/borrower/paperless/Sign-up.aspx">Go Paperless</a></div>
-                                                </td>
-					</tr><tr>
-						<td>
-                                                    <div id="ctl00_grd_ctl02_tempGrid_ctl31_divText" class="leftNav" align="left" style="width:204px;"><a href="/DL/secure/messages/GPLMessagesDefault.aspx">My Messages</a></div>
-                                                </td>
-					</tr>
-				</tbody></table></td>
-			</tr>
-		</tbody></table>
-                            </td>
-	</tr><tr>
-		<td>
-                            <table id="ctl00_grd_ctl03_tblMain" border="0">
-			<tbody><tr id="ctl00_grd_ctl03_tblRow">
-				<td id="ctl00_grd_ctl03_tblCell"><table cellspacing="0" border="0" id="ctl00_grd_ctl03_tempGrid">
-					<tbody><tr>
-						<td>
-                                                    <div id="ctl00_grd_ctl03_tempGrid_ctl22_divText" class="label" align="left" style="width:204px;">Payment Assistance</div>
-                                                </td>
-					</tr><tr>
-						<td>
-                                                    <div id="ctl00_grd_ctl03_tempGrid_ctl23_divText" class="leftNav" align="left" style="width:204px;"><a href="/DL/secure/decisionTree/default.aspx">My Options</a></div>
-                                                </td>
-					</tr><tr>
-						<td>
-                                                    <div id="ctl00_grd_ctl03_tempGrid_ctl24_divText" class="leftNav" align="left" style="width:204px;"><a href="/DL/common/repaymentoptions.aspx">Repayment Options</a></div>
-                                                </td>
-					</tr><tr>
-						<td>
-                                                    <div id="ctl00_grd_ctl03_tempGrid_ctl25_divText" class="leftNav" align="left" style="width:204px;"><a href="/DL/FAQs/DefermentFAQ.aspx">Deferments</a></div>
-                                                </td>
-					</tr><tr>
-						<td>
-                                                    <div id="ctl00_grd_ctl03_tempGrid_ctl26_divText" class="leftNav" align="left" style="width:204px;"><a href="/DL/FAQs/ForbearanceFAQ.aspx">Forbearances</a></div>
-                                                </td>
-					</tr><tr>
-						<td>
-                                                    <div id="ctl00_grd_ctl03_tempGrid_ctl27_divText" class="leftNav" align="left" style="width:204px;"><a href="http://www.nslds.ed.gov/nslds_SA/" onclick="return exitAlert('NSLDS');" target="_blank">Loan Finder (NSLDS)</a></div>
-                                                </td>
-					</tr><tr>
-						<td>
-                                                    <div id="ctl00_grd_ctl03_tempGrid_ctl28_divText" class="leftNav" align="left" style="width:204px;"><a href="/DL/calculators/loanRepayForm.aspx">Repayment Calculator</a></div>
-                                                </td>
-					</tr>
-				</tbody></table></td>
-			</tr>
-		</tbody></table>
-                            </td>
-	</tr><tr>
-		<td>
-                            <table id="ctl00_grd_ctl04_tblMain" border="0">
-			<tbody><tr id="ctl00_grd_ctl04_tblRow">
-				<td id="ctl00_grd_ctl04_tblCell"><table cellspacing="0" border="0" id="ctl00_grd_ctl04_tempGrid">
-					<tbody><tr>
-						<td>
-                                                    <div id="ctl00_grd_ctl04_tempGrid_ctl22_divText" class="label" align="left" style="width:204px;">Electronic Services</div>
-                                                </td>
-					</tr><tr>
-						<td>
-                                                    <div id="ctl00_grd_ctl04_tempGrid_ctl23_divText" class="leftNav" align="left" style="width:204px;"><a href="/DL/secure/borrower/findForm.aspx">Forms</a></div>
-                                                </td>
-					</tr><tr>
-						<td>
-                                                    <div id="ctl00_grd_ctl04_tempGrid_ctl24_divText" class="leftNav" align="left" style="width:204px;"><a href="/DL/secure/Messages/GPLSendSecureEmail.aspx?subject=I have a question about a form">Secure Form Upload</a></div>
-                                                </td>
-					</tr><tr>
-						<td>
-                                                    <div id="ctl00_grd_ctl04_tempGrid_ctl25_divText" class="leftNav" align="left" style="width:204px;"><a href="/DL/secure/borrower/taxinfo.aspx">2011 TAX INFO</a></div>
-                                                </td>
-					</tr><tr>
-						<td>
-                                                    <div id="ctl00_grd_ctl04_tempGrid_ctl26_divText" class="leftNav" align="left" style="width:204px;"><a href="/DL/secure/borrower/mortgageverification/printorfax.aspx">Mortgage Verification</a></div>
-                                                </td>
-					</tr><tr>
-						<td>
-                                                    <div id="ctl00_grd_ctl04_tempGrid_ctl27_divText" class="leftNav" align="left" style="width:204px;"><a href="/DL/secure/borrower/requestPaymentHistory/ShowPaymentHistory.aspx">Payment History</a></div>
-                                                </td>
-					</tr><tr>
-						<td>
-                                                    <div id="ctl00_grd_ctl04_tempGrid_ctl28_divText" class="leftNav" align="left" style="width:204px;"><a href="/DL/secure/borrower/eSignedDocuments.aspx">My Documents</a></div>
-                                                </td>
-					</tr>
-				</tbody></table></td>
-			</tr>
-		</tbody></table>
-                            </td>
-	</tr><tr>
-		<td>
-                            <table id="ctl00_grd_ctl05_tblMain" border="0">
-			<tbody><tr id="ctl00_grd_ctl05_tblRow">
-				<td id="ctl00_grd_ctl05_tblCell"><table cellspacing="0" border="0" id="ctl00_grd_ctl05_tempGrid">
-					<tbody><tr>
-						<td>
-                                                    <div id="ctl00_grd_ctl05_tempGrid_ctl14_divText" class="label" align="left" style="width:204px;">Financial Planning</div>
-                                                </td>
-					</tr><tr>
-						<td>
-                                                    <div id="ctl00_grd_ctl05_tempGrid_ctl15_divText" class="leftNav" align="left" style="width:204px;"><a href="/DL/calculators/Default.aspx">Calculators</a></div>
-                                                </td>
-					</tr><tr>
-						<td>
-                                                    <div id="ctl00_grd_ctl05_tempGrid_ctl16_divText" class="leftNav" align="left" style="width:204px;"><a href="/DL/resourceCenter/default.aspx">Resources</a></div>
-                                                </td>
-					</tr>
-				</tbody></table></td>
-			</tr>
-		</tbody></table>
-                            </td>
-	</tr>
-</tbody></table>
+   </style>
+   <![endif]-->
+   
+</head>
+<body>
+   <form method="post" action="internetprivacy.aspx" onsubmit="javascript:return WebForm_OnSubmit();" id="form1">
+<div class="aspNetHidden">
+<input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="">
+<input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKLTMxOTcyMzM5Nw9kFgJmD2QWAmYPZBYCAgMPZBYIAgQPFgIeBGhyZWYFFS9zY2hvb2xzL2RlZmF1bHQuYXNweGQCBQ9kFgRmDw8WAh4EVGV4dAUGU2VhcmNoFgYeCW9ua2V5ZG93bgVHRW5hYmxlRW50ZXIoKHdpbmRvdy5ldmVudCkgPyB3aW5kb3cuZXZlbnQgOiBhcmd1bWVudHNbMF0sJ2N0bDA5X2N0bDAwJykeB29uZm9jdXMFKGlmICh0aGlzLnZhbHVlPT0nU2VhcmNoJykgdGhpcy52YWx1ZT0nJzseBm9uYmx1cgUoaWYgKHRoaXMudmFsdWU9PScnKSB0aGlzLnZhbHVlPSdTZWFyY2gnO2QCAg8QZGQWAWZkAgYPZBYCAgEPZBYGAgEPDxYCHgdWaXNpYmxlZ2QWAgIEDw9kFgIeB29uY2xpY2sFEWdldERldmljZVByaW50KCk7ZAIDD2QWBgIBD2QWAmYPFgIeCWlubmVyaHRtbAUURmluYW5jaWFsIFN0YXRlbWVudHNkAgMPZBYCZg8WAh8HBRRJbnZlc3RvciBJbmZvcm1hdGlvbmQCBQ9kFgJmDxYCHwcFC1Byb2N1cmVtZW50ZAIFD2QWCgIBD2QWBgIBD2QWAmYPFgIfBwUTUGF5bWVudCBJbmZvcm1hdGlvbmQCAw9kFgJmDxYCHwcFDExvYW4gU3VtbWFyeWQCBQ9kFgJmDxYCHwcFE1BheS1vZmYgSW5mb3JtYXRpb25kAgMPZBYKAgEPZBYCZg8WAh8HBRFQYXltZW50IFNjaGVkdWxlcmQCAw9kFgJmDxYCHwcFE1dlYiBQYXltZW50IEhpc3RvcnlkAgUPZBYCZg8WAh8HBRBQYXltZW50IEFjY291bnRzZAIHD2QWAmYPFgIfBwUVUGF5bWVudCBOb3RpZmljYXRpb25zZAIJD2QWAmYPFgIfBwUERkFRc2QCBQ9kFgoCAQ9kFgJmDxYCHwcFB1N1bW1hcnlkAgMPZBYCZg8WAh8HBQdQcm9maWxlZAIFD2QWAmYPFgIfBwUITWVzc2FnZXNkAgcPZBYCZg8WAh8HBQ5Gb3JtcyBSZWNlaXZlZGQCCQ9kFgJmDxYCHwcFDVRheCBEb2N1bWVudHNkAgcPZBYKAgEPZBYCZg8WAh8HBQpQYXkgT25saW5lZAIDD2QWAmYPFgIfBwUOUGF5LU9mZiBBbW91bnRkAgUPZBYCZg8WAh8HBQpBdXRvIERlYml0ZAIHD2QWAmYPFgIfBwUPUGF5bWVudCBIaXN0b3J5ZAIJD2QWAmYPFgIfBwUNTG93ZXIgUGF5bWVudGQCCQ9kFgYCAQ9kFgJmDxYEHwAFIn4vREwvc2VjdXJlL2JvcnJvd2VyL2ZpbmRGb3JtLmFzcHgfBwUFRm9ybXNkAgMPZBYCZg8WBB8ABTl+L0RML3NlY3VyZS9ib3Jyb3dlci9tb3J0Z2FnZXZlcmlmaWNhdGlvbi9wcmludG9yZmF4LmFzcHgfBwUVTW9ydGdhZ2UgVmVyaWZpY2F0aW9uZAIFD2QWAmYPFgQfAAUrfi9ETC9zZWN1cmUvYm9ycm93ZXIvcGFwZXJsZXNzL1NpZ24tdXAuYXNweB8HBQxHbyBQYXBlcmxlc3NkAgcPFgIfAAUVL3NjaG9vbHMvZGVmYXVsdC5hc3B4ZBgBBR5fX0NvbnRyb2xzUmVxdWlyZVBvc3RCYWNrS2V5X18WAQUqY3RsMDAkY3RsMDAkY3BoQ29udGVudCRjaGtSZW1lbWJlclVzZXJOYW1l">
+</div>
+
+<script type="text/javascript">
+//<![CDATA[
+var theForm = document.forms['form1'];
+if (!theForm) {
+    theForm = document.form1;
+}
+function __doPostBack(eventTarget, eventArgument) {
+    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
+        theForm.__EVENTTARGET.value = eventTarget;
+        theForm.__EVENTARGUMENT.value = eventArgument;
+        theForm.submit();
+    }
+}
+//]]>
+</script>
+
+
+<script src="/WebResource.axd?d=I0xMtaWLrfNFNyCrw6CixT1HDVp4ofPU5iueTAbJh5zAUY4rTVjnOICBlScSxkKaDNa9nvnOIiivoY0HWbr-X39J7oOmDi3ncr5WgmYR9X01&amp;t=635086430580000000" type="text/javascript"></script>
+
+<script type="text/javascript">
+<!--
+function GetEvntKeyCode(evnt){return evnt.keyCode ? evnt.keyCode : evnt.charCode ? evnt.charCode : evnt.which ? evnt.which : void 0;}
+function EnableEnter(evnt,clientId){if(GetEvntKeyCode(evnt)==13){document.getElementById(clientId).focus();}}//-->
+</script>
+
+<script src="/WebResource.axd?d=oBw7HJyb4WvqHNTbaDs2drYAc--2Fi5p45KNlc_VA-LLjrp0zH1eSCnsuuqglZRx2tJRRE2dNDGgPL5oam_7p-zRfnlbyMS2tSbCNOCptCM1&amp;t=635086430580000000" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+function WebForm_OnSubmit() {
+if (typeof(ValidatorOnSubmit) == "function" && ValidatorOnSubmit() == false) return false;
+return true;
+}
+//]]>
+</script>
+
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__SCROLLPOSITIONX" id="__SCROLLPOSITIONX" value="0">
+	<input type="hidden" name="__SCROLLPOSITIONY" id="__SCROLLPOSITIONY" value="0">
+</div>
+      <div id="container">
+         <header>
+            <div id="skipToMainContent"><a tabindex="1" href="#MainContent">Skip to Main Content</a></div>
+            <div class="inner">
+               <a id="logo" href="javascript:__doPostBack('ctl00$ctl00$logo','')">
+                  <img src="/images/site/logo.png" alt="MOHELA"></a>
+               
+               
             </div>
-        </div>
-        <!--end of leftNav-->
-            
-        <div id="content">
-            <div id="contentTop"></div>
-            <div id="ctl00_cont1" class="contentContainer">
-                <div id="ctl00_divBreadCrumb" class="breadCrumb">&gt; <a href="/default.aspx">Home</a> &gt; Privacy Notice</div>
-                <div id="pageContentTop"></div>
-                <div id="pageContent">
-                    <a name="MainContent"> </a> 
-                    
+         </header>
+         <div id="navbar">
+            <div class="inner ui-helper-clearfix">
+               <nav>
+                  <ul class="horizontal-nav ui-helper-clearfix">
+                     <li><a href="/DL/common/about.aspx">About Us</a></li>
+                     <li><a href="/DL/common/contactUs.aspx">Contact Us</a></li>
+                     <li><a href="/schools/default.aspx" id="aNavBarSchools">Schools</a></li>
+                     <li><a href="/DL/FAQs/DLNewUser.aspx">New to MOHELA</a></li>
+                     <li><a href="/DL/secure/borrower/findForm.aspx">Forms</a></li>
+                     <li><a href="/DL/resourceCenter/default.aspx">Resources</a></li>
+                  </ul>
+               </nav>
 
+                <span id="ultimateSearchInput" class="searchBox ui-helper-clearfix">
+<!-- Karamasoft UltimateSearch for ASP.NET -->
+<input name="ctl00$ctl00$ctl08" type="text" value="Search" onkeydown="EnableEnter((window.event) ? window.event : arguments[0],'ctl09_ctl00')" onfocus="if (this.value=='Search') this.value='';" onblur="if (this.value=='') this.value='Search';"><span><input type="submit" name="ctl00$ctl00$ctl09$ctl00" value="Go" id="ctl09_ctl00"></span></span>
+
+            </div>
+         </div>
+         <div id="content-wrapper">
+            
+            
+   <script language="javascript" type="text/javascript" src="/includes/pm_fp.js"></script>
+   <script type="text/javascript">
+      function getDevicePrint() {
+         var f = document.getElementById('cphContent_hdndevicePrint');
+         f.value = add_deviceprint();
+      }
+   </script>
+
+   <div style="position: relative;">
+      <div id="cphContent_divLeftColBg">
+         <div id="leftColBg"></div>
+      </div>
+      <div id="rightColBg">
+         <div class="ieglow"></div>
+      </div>
+      <div class="inner" style="position: relative; z-index: 2">
+         <div class="two-column ui-helper-clearfix">
+            <section id="cphContent_NavigationContainer" class="column left">
+
+               <div id="cphContent_pnLeftNavAnnoymous" class="pnLeftNavAnnoymous" onkeypress="javascript:return WebForm_FireDefaultButton(event, 'cphContent_btnLogin')">
+	
+                  <h2>Login to Your <span style="color: #437C30;">MOHELA Account!</span></h2>
+                  <div class="editor-row" style="margin-bottom: 1.25em">
+                     <div class="editor-field full">
+                        <span id="cphContent_rfvUsername" class="validator" style="visibility:hidden;">Required</span>
+                        <label for="cphContent_txtUsername" id="cphContent_lblUserName" class="editor-label">
+                           <span class="label-text">User Name</span>
+                        </label>
+                        <input name="ctl00$ctl00$cphContent$txtUsername" type="text" maxlength="50" id="cphContent_txtUsername" class="editor-input textbox" autocomplete="off">
+                        <div class="editor-chkbox">
+                            <small><input id="cphContent_chkRememberUserName" type="checkbox" name="ctl00$ctl00$cphContent$chkRememberUserName"><label for="cphContent_chkRememberUserName"> Remember Me</label></small>
+                        </div>
+                        <br>
+                        <input type="submit" name="ctl00$ctl00$cphContent$btnLogin" value="LOGIN" onclick="getDevicePrint();WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$ctl00$cphContent$btnLogin&quot;, &quot;&quot;, true, &quot;Login&quot;, &quot;&quot;, false, false))" id="cphContent_btnLogin" class="twoColorButtonSmall">
+                     </div>
+                  </div>
+                  <div class="editor-row">
+                     <a href="/LoginHelp.aspx" class="with-icon lifesaver"><small>Need Help Logging In?</small></a>
+                  </div>
+                  <div class="editor-row">
+                     <a href="/SecurityInformation.aspx" class="with-icon lock"><small>MOHELA Security Information</small></a>
+                  </div>
+                  <hr>
+                  <h2>Not Registered Yet? <span style="color: #437C30;">Sign Up Now</span></h2>
+                  <div class="editor-row">
+                     <input type="submit" name="ctl00$ctl00$cphContent$btnRegister" value="NEW BORROWER" id="cphContent_btnRegister" class="twoColorButtonMediumSmall">
+                  </div>
+               
+</div>
+
+               
+
+               
+
+               
+
+            </section>
+            <div>
+               <a name="MainContent"></a>
+            </div>
+            <section class="column right">
+               
+   <br>
    <p class="subpageHeading">MOHELA Internet Privacy Notice</p>
    <p class="subpageContent">Effective Date: August 12, 2010</p>
    <p class="subpageContent"><b>Our Commitment</b></p>
    <p class="subpageContent">MOHELA is committed to protecting and respecting the privacy of our customers. We will strive to maintain your privacy and ensure the confidentiality of the information you submit to us.</p>
    <p class="subpageContent">
-   </p><table id="ctl00_cphMainForm_tblMain" border="0">
+   </p><table id="cphContent_cphMainForm_tblMain">
 	<tbody><tr>
-		<td><table id="ctl00_cphMainForm_tblOne" rules="all" border="1">
+		<td><table id="cphContent_cphMainForm_tblOne" rules="all" border="1">
 			<tbody><tr>
-				<th align="left"><b>FACTS</b></th><th align="left"><b>WHAT DOES MOHELA DO WITH YOUR PERSONAL INFORMATION?</b></th>
+				<th align="left" style="font-weight:bold;">FACTS</th><th align="left" style="font-weight:bold;">WHAT DOES MOHELA DO WITH YOUR PERSONAL INFORMATION?</th>
 			</tr><tr>
 				<td valign="top">Why?</td><td valign="top">Financial companies choose how they share your personal information. Federal law gives consumers the right to limit some but not all sharing. Federal law also requires us to tell you how we collect, share, and protect your personal information. Please read this notice carefully to understand what we do.</td>
 			</tr><tr>
@@ -237,9 +229,9 @@
 			</tr>
 		</tbody></table>
             <br><br>
-            <table id="ctl00_cphMainForm_tblTwo" rules="all" border="1">
+            <table id="cphContent_cphMainForm_tblTwo" rules="all" border="1">
 			<tbody><tr>
-				<th align="left"><b>Reasons we can share your personal Information</b></th><th align="left"><b>Does MOHELA Share?</b></th><th align="left"><b>Can you limit this sharing?</b></th>
+				<th align="left" style="font-weight:bold;">Reasons we can share your personal Information</th><th align="left" style="font-weight:bold;">Does MOHELA Share?</th><th align="left" style="font-weight:bold;">Can you limit this sharing?</th>
 			</tr><tr>
 				<td valign="top"><b>For our everyday business purposes</b> - <br>such as to process your transactions, maintain your account(s), respond to court orders and legal investigations, or report to credit bureaus</td><td valign="top">Yes</td><td valign="top">No</td>
 			</tr><tr>
@@ -253,9 +245,9 @@
 			</tr><tr>
 				<td valign="top"><b>For nonaffiliated to market to you</b></td><td valign="top">No</td><td valign="top">We don't share</td>
 			</tr>
-		</tbody></table><table id="ctl00_cphMainForm_tblThree" rules="all" border="1">
+		</tbody></table><table id="cphContent_cphMainForm_tblThree" rules="all" border="1">
 			<tbody><tr>
-				<th align="left" colspan="2"><b>What we do</b></th>
+				<th align="left" colspan="2" style="font-weight:bold;">What we do</th>
 			</tr><tr>
 				<td valign="top"><b>How does MOHELA protect my personal information?</b></td><td valign="top">To protect your personal information from unauthorized access and use, we use security measures that comply with federal law. These measures include computer safeguards and secured files and buildings.</td>
 			</tr><tr>
@@ -277,9 +269,9 @@
                         State laws and individual companies may give you additional rights to limit sharing.
                     </td>
 			</tr>
-		</tbody></table><table id="ctl00_cphMainForm_tblFour" rules="all" border="1">
+		</tbody></table><table id="cphContent_cphMainForm_tblFour" rules="all" border="1">
 			<tbody><tr>
-				<th align="left" colspan="2"><b>Definitions</b></th>
+				<th align="left" colspan="2" style="font-weight:bold;">Definitions</th>
 			</tr><tr>
 				<td valign="top"><b>Affiliates</b></td><td valign="top">Companies related by common ownership or control. They can be financial and nonfinancial companies.
                         <ul class="subpageIndent"><br>
@@ -308,23 +300,90 @@
    <p class="subpageContent"><a href="termsOfUse.aspx">Site Disclaimer</a></p>
 <br>
 
-                    <div class="clear"></div>
-                </div>
-                <p class="bottom"><a href="../secure/borrower/paperless/Sign-up.aspx" id="ctl00_A1"><img id="ctl00_imgBottom" src="../../images/gopaperless.png" alt="bottomimage" border="0"></a></p>
+            </section>
+         </div>
+      </div>
+   </div>
+   <input name="ctl00$ctl00$cphContent$hdndevicePrint" type="hidden" id="cphContent_hdndevicePrint" value="my value">
+   <input name="ctl00$ctl00$cphContent$hdnCategory" type="hidden" id="cphContent_hdnCategory">
+   <input name="ctl00$ctl00$cphContent$hdnFailReason" type="hidden" id="cphContent_hdnFailReason">
+   <input name="ctl00$ctl00$cphContent$hdnStatus" type="hidden" id="cphContent_hdnStatus">
+   <input name="ctl00$ctl00$cphContent$hdnLoginID" type="hidden" id="cphContent_hdnLoginID">
+
+         </div>
+         <footer>
+            <div class="inner">
+               <ul class="horizontal-nav ui-helper-clearfix" id="footer">
+                  <li><a href="/DL/common/about.aspx">About Us</a></li>
+                  <li class="separator">|</li>
+                  <li><a href="/DL/common/contactUs.aspx">Contact Us</a></li>
+                  <li class="separator">|</li>
+                  <li><a href="/schools/default.aspx" id="aFooterSchools">Schools</a></li>
+                  <li id="aSeparatorSchools" class="separator">|</li>
+                  <li><a href="/DL/common/employment/Default.aspx">Employment</a></li>
+                  <li class="separator">|</li>
+                  <li><a href="/DL/secure/borrower/findForm.aspx">Forms</a></li>
+                  <li class="separator">|</li>
+                  <li><a href="/DL/resourceCenter/default.aspx">Resources</a></li>
+                  <li class="separator">|</li>
+                  <li><a href="/DL/common/internetprivacy.aspx">Privacy</a></li>
+                  <li class="separator">|</li>
+                  <li><a href="mailto:webmaster@mohela.com">Webmaster</a></li>
+               </ul>
+               <small>Copyright © 2013 MOHELA. All Rights Reserved.</small>
             </div>
-            <div id="contentBottom"></div>
-        </div>
-        <div class="clear"></div>
-        <div id="footer">
-            <div id="footerContent">
-                <p class="bottom"><a href="about.aspx" id="ctl00_aAbout">about us</a>|<a href="contactUs.aspx" id="ctl00_aContact">contact us</a>|<a href="Employment/Default.aspx" id="ctl00_aEmp">employment</a>|<a href="../../Default.aspx" id="ctl00_aHome">home</a>|<a href="internetprivacy.aspx" id="ctl00_aPrivacy">privacy</a>|<a href="sitemap.aspx" id="ctl00_aSitemap">sitemap</a>|<a href="../secure/account/loginStep1.aspx" id="ctl00_aLogin" class="last">login</a></p>
-                <p class="small bottom">copyright 2010 MOHELA. All Rights Reserved.</p>
-            </div>
-        </div>
-    </div>
-    <div class="clear"></div>
-</div>
+         </footer>
+      </div>
+   
+<script type="text/javascript">
+//<![CDATA[
+var Page_Validators =  new Array(document.getElementById("cphContent_rfvUsername"));
+//]]>
+</script>
+
+<script type="text/javascript">
+//<![CDATA[
+var cphContent_rfvUsername = document.all ? document.all["cphContent_rfvUsername"] : document.getElementById("cphContent_rfvUsername");
+cphContent_rfvUsername.controltovalidate = "cphContent_txtUsername";
+cphContent_rfvUsername.focusOnError = "t";
+cphContent_rfvUsername.validationGroup = "Login";
+cphContent_rfvUsername.evaluationfunction = "RequiredFieldValidatorEvaluateIsValid";
+cphContent_rfvUsername.initialvalue = "";
+//]]>
+</script>
+
+
+<script type="text/javascript">
+//<![CDATA[
+
+var Page_ValidationActive = false;
+if (typeof(ValidatorOnLoad) == "function") {
+    ValidatorOnLoad();
+}
+
+function ValidatorOnSubmit() {
+    if (Page_ValidationActive) {
+        return ValidatorCommonOnSubmit();
+    }
+    else {
+        return true;
+    }
+}
+        
+theForm.oldSubmit = theForm.submit;
+theForm.submit = WebForm_SaveScrollPositionSubmit;
+
+theForm.oldOnSubmit = theForm.onsubmit;
+theForm.onsubmit = WebForm_SaveScrollPositionOnSubmit;
+//]]>
+</script>
 </form>
+   <script>
+      $(function () {
+         $('details').details();
+      });
+     
+   </script>
 
 
 </body></html>
