@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gsmarc.com privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501084253id_/http%3A//www.gsmarc.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gsmarc.com privacy policy that was archived on 2013-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131101190049id_/http%3A//www.gsmarc.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - GSMArc.com
 
@@ -14,7 +14,7 @@ The revised version will be effective at the time we post it and, following such
 
 
 
-## **Our privacy policy covers the following topics:**
+##  **Our privacy policy covers the following topics:**
 
   * Our collection of your personal information
   * Our use of your personal information
@@ -28,7 +28,7 @@ The revised version will be effective at the time we post it and, following such
 
 
 
-## **Our collection of your personal information**
+##  **Our collection of your personal information**
 
 As part of your registration on the Site, you will be asked to provide us with certain personal information, such as your name, shipping address, email address and/or telephone number and other similar information as well as some additional information about you such as your date of birth or other identifying information.  
 Additionally, in order for us to verify your identity, we may need to request from you valid proof of identification (e.g. in the form of a copy of your passport, resident’s visa or permit, national ID card and/or driver’s license).  
@@ -41,7 +41,7 @@ Additionally, in order for us to verify your identity, we may need to request fr
 
 
 
-## **Our use of your personal information**
+##  **Our use of your personal information**
 
 We only use your personal information to provide services and customer support to you; to measure and improve our services to you; to prevent illegal activities and implement our user agreement with you ("User Agreement"); troubleshoot problems, provide you with promotional emails and verify information you give us with third parties.
 
@@ -56,7 +56,7 @@ By registering on the Site, you give us your express consent to receive promotio
 
 Additionally, we do use comments made by you about the Site for marketing purposes and by making such comments you expressly consent to our using such comments for marketing purposes.
 
-### **Your use of your and other users’ personal information**
+###  **Your use of your and other users’ personal information**
 
 Site members may need to share personal information (including financial information) with each other to complete transactions on the Site. You should respect, at all times, the privacy of other Site members.
 
@@ -66,15 +66,15 @@ This privacy policy does not cover your release of your personal information to 
 
 You acknowledge and agree and you shall use personal information received from another Site member in accordance with all applicable laws.
 
-## **Accessing, reviewing and amending your personal information**
+##  **Accessing, reviewing and amending your personal information**
 
 You can access and review your personal information in the My Account section of the Site. If your personal information changes in any way or is incorrectly presented on the Site you should immediately update or correct your personal information (as applicable) by accessing the My Account section on the Site.
 
-## **Third party website links**
+##  **Third party website links**
 
 The Site may contain links to other websites. Please be aware that we are not responsible for the privacy practices of such other websites. We encourage you when you leave the Site to read the privacy statements of each and every website you visit if you intend to provide personal information to that website. Our privacy policy applies solely to your personal information that we collect on the Site.
 
-## **Cookies**
+##  **Cookies**
 
 Like many websites, the Site uses 'cookie' technology (small computer files placed on your computer’s hard drive). When you go to particular website pages on the Site, the cookie identifies your browser with a unique, random number.
 
@@ -86,14 +86,14 @@ Google's use of the DART cookie enables it and its partners to serve ads to your
 
 Users may opt out of the use of the DART cookie for interest-based advertising by visiting the ads preference manager. (Alternatively, you can direct users to opt out of a third-party vendor's use of cookies by visiting the Network Advertising Initiative opt-out page.)
 
-## **No spam or spoof emails**
+##  **No spam or spoof emails**
 
 We do not tolerate spam. To report Site related spam or spoof emails, please forward the email to. You may not use our communication tools to send spam or otherwise send content that would violate our User Agreement. We automatically scan and may manually filter messages to check for spam, viruses, phishing attacks and other malicious activity or illegal or prohibited content.
 
-## **Protecting your personal information**
+##  **Protecting your personal information**
 
 We hold your personal information on servers located in the Canada. All personal information is encrypted. However, the Internet is not a secure medium and we cannot guarantee the privacy of your personal information. You must enter your username and password each time you want to access your account or make Reviews on the Site. Choose your password carefully using unique numbers, letters and special characters. Never share your username and password with anyone.If you are concerned that your username or password has been compromised, please immediately and ensure you change your password by logging onto the My Account section of the Site.
 
-## **How you can contact us about privacy questions**
+##  **How you can contact us about privacy questions**
 
 If you have questions or concerns about our collection and use of your personal information, please contact our email at the bottom of the Site Privacy Policy webpage.
