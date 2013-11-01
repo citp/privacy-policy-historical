@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tsunami.gov privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230051305id_/http%3A//www.weather.gov/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tsunami.gov privacy policy that was archived on 2013-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131101022126id_/http%3A//www.weather.gov/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -23,7 +23,19 @@ Dispute Resolution**
 
 ##  Site Management Data
 
-NWS Web servers [automatically collect information](http://www.weather.gov/collected_info.html) for site management and for statistical purposes. This government computer system uses software programs to create summary statistics, which are used for such purposes as assessing what information is of most and least interest, determining technical design specifications, and identifying system performance or problem areas.
+For each HTTP (which is what your Web browser generates when you request a page or part of a page from a Web site) request received, we collect and store only the following information:
+
+  * the date and time
+  * the originating IP address
+  * the type of browser and operating system used (if provided by the browser)
+  * the URL of the referring page (if provided by the browser)
+  * the object requested
+  * completion status of the request
+  * pages visited
+
+
+
+We use the information that we collect to measure the number of visitors to the different areas of our sites, and to help us make our sites more useful to visitors. This includes analyzing these logs periodically to determine the traffic through our servers, the number of pages served, and the level of demand for pages and topics of interest. The logs may be preserved indefinitely and used at any time and in any way necessary to prevent security breaches and to ensure the integrity of the data on our servers.
 
 Top of Page
 
