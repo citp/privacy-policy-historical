@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hairboutique.com privacy policy that was archived on 2013-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130616025433id_/http%3A//www.hairboutique.com/static/static.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hairboutique.com privacy policy that was archived on 2013-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131101184313id_/http%3A//www.hairboutique.com/static/static.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
 
 # HairBoutique Privacy Policy
 
@@ -52,6 +52,10 @@ Richardson, TX 75081
 webmaster@hairboutique.com  
 
 
-|  | **Daily Hair Tip**  
+| 
+
+[](http://mp.hairboutique.com/PHYTO/B/38/C/106)
+
+| **Daily Hair Tip**  
 ---  
 To protect against potential heat damage to your hair, always use a blow drier on the coolest setting and make sure to apply a good leave in conditioner that will protect the hair shaft from the dryer. 
