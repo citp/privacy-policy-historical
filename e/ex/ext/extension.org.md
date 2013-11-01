@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the extension.org privacy policy that was archived on 2013-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130524124945id_/http%3A//www.extension.org/main/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the extension.org privacy policy that was archived on 2013-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131101030102id_/http%3A//www.extension.org/main/privacy) for the most accurate reproduction.*
 
-# eXtension - Privacy Policy
+# Privacy Policy - eXtension
 
 Your privacy is important to eXtension Foundation. This privacy statement provides you with information regarding the personal information collected during your visits to the eXtension web site, how it is used, with whom it may be shared and what choices you have regarding collection and distribution of your personal information.
 
