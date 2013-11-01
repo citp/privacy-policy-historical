@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blueservo.net privacy policy that was archived on 2013-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130406061104id_/http%3A//www.blueservo.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blueservo.net privacy policy that was archived on 2013-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131101152208id_/http%3A//www.blueservo.net/privacy.php) for the most accurate reproduction.*
 
 # BlueServo
 
