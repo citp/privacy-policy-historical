@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sainsburysentertainment.co.uk privacy policy that was archived on 2013-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130503092729id_/http%3A//www.sainsburysentertainment.co.uk/en/Privacy-Policy/page.html%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sainsburysentertainment.co.uk privacy policy that was archived on 2013-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131101092111id_/http%3A//www.sainsburysentertainment.co.uk/en/Privacy-Policy/page.html%3Fpage%3Dprivacy) for the most accurate reproduction.*
 
 # Sainsbury's Entertainment | Privacy Policy
 
@@ -74,7 +74,7 @@ The dynamics of the Internet may mean that information is sent electronically ou
 
 "Cookies" are small pieces of information that are stored by your browser on your computer's hard-drive. Most Web browsers automatically accept cookies, but you can usually change your browser to prevent that. We only use cookies to keep track of the pages you visit on the Website and to tell us whether you have visited the Website previously so that, in order to serve you better, we understand how you and other visitors use the Website. By modifying your browser preferences, you have the choice to accept all cookies, to be notified when a cookie is set, or to reject all cookies. We have sought to set up our Website so as to notify you before a cookie is used. However, if you choose to reject all cookies, you may be unable to use parts of the Website. 
 
-To view our Cookie Policy, please click [ here.](https://web.archive.org/web/20130503092729id_/http%3A//www.sainsburysentertainment.co.uk/en/Privacy-Policy/en/Sainsbury-s-Entertainment-Cookie-Policy/page.html?page=Cookies)
+To view our Cookie Policy, please click [ here.](https://web.archive.org/web/20131101092111id_/http%3A//www.sainsburysentertainment.co.uk/en/Privacy-Policy/en/Sainsbury-s-Entertainment-Cookie-Policy/page.html?page=Cookies)
 
 **Your Consent**
 
