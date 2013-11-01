@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the builtlean.com privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501082635id_/http%3A//www.builtlean.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the builtlean.com privacy policy that was archived on 2013-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131101154449id_/http%3A//www.builtlean.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - BuiltLean
 
@@ -13,25 +13,26 @@ BuiltLean may change this policy from time to time by updating this page. You sh
 
 We may collect the following information:
 
-• Name and fitness goals  
-• Contact information including email address  
-• Demographic information such as postcode, preferences, and interests  
-• Other information relevant to customer surveys and/or offers
+* Name and fitness goals 
+* Contact information including email address 
+* Demographic information such as postcode, preferences, and interests 
+* Other information relevant to customer surveys and/or offers
 
 ### What we do with the information we gather
 
 We require this information to understand your needs and provide you with a better service, and in particular for the following reasons:
 
-• Internal record keeping  
-• We may use the information to improve our products and services  
-• We may periodically send promotional email about new products, special offers or other information such as our BuiltLean Newsletter which we think you may find interesting using the email address which you have provided  
-• From time to time, we may also use your information to contact you for market research purposes. We may contact you by email, phone, fax or mail.  
-• We may use the information to customize the website according to your interests  
-• We will never sell your information
+* Internal record keeping 
+* We may use the information to improve our products and services 
+* We may periodically send promotional email about new products, special offers or other information such as our BuiltLean Newsletter which we think you may find interesting using the email address which you have provided 
+* From time to time, we may also use your information to contact you for market research purposes. We may contact you by email, phone, fax or mail. 
+* We may use the information to customize the website according to your interests 
+* We will never sell your information
 
 ### How the company transfers data to third-party companies
 
-We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen. Our email, shopping cart, affiliate, and customer relationship management systems are through Infusionsoft, which is a market leading software solution for small businesses.
+We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen. Our email, shopping cart, affiliate, and customer relationship management systems are through Infusionsoft, which is a market leading software solution for small businesses.  
+
 
 ### How to modify, or delete your personal information or opt-out
 
@@ -62,7 +63,7 @@ You may choose to restrict the collection or use of your personal information in
 • Whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes  
 • If you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us using our [contact form](http://www.builtlean.com/contact/).
 
-You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please write to 184 Lexington Ave., New York, NY, 10016 Attn: BuiltLean Support.
+You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please write to 145 4th Ave., #7L, New York, NY 10003 Attn: BuiltLean Support.
 
 If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect.
 
@@ -73,4 +74,4 @@ Click the links below, which verifies the identity of BuiltLean.com, demonstrate
 | [](http://www.bbb.org/new-york-city/business-reviews/personal-trainers/builtlean-in-new-york-ny-128703/#bbbonlineclick "Built Lean BBB Business Review")  
 ---|---  
   
-_Last modified: February 15, 2013_
+_Last modified: July 24, 2013_
