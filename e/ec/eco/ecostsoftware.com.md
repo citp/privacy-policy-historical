@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ecostsoftware.com privacy policy that was archived on 2013-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130524093248id_/http%3A//www.ecostsoftware.com/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ecostsoftware.com privacy policy that was archived on 2013-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131101194524id_/http%3A//www.ecostsoftware.com/help/privacy) for the most accurate reproduction.*
 
 # Privacy Policy : Help Portal :: eCostSoftware.com - UK Software Supplier
 
