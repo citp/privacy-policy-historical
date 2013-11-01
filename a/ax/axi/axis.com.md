@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the axis.com privacy policy that was archived on 2013-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130527014936id_/http%3A//www.axis.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the axis.com privacy policy that was archived on 2013-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131101014855id_/http%3A//www.axis.com/privacy.htm) for the most accurate reproduction.*
 
 # Axis Communications - Privacy policy
 
 Axis Communications AB (“Axis”) and its subsidiaries are committed to protecting your online privacy. We have designed our web sites in a way that will enable you to visit and access most of the available information and material without having to submit any personal data unless you choose to. However, in order to take part in some of the functions and activities and to get access to some of Axis’ services, it will be necessary for you to provide personal data on certain areas of the web sites. 
 
-By accessing or using an Axis web site, you agree to the collection, use and transfer of personal data according to the terms of this Axis online privacy policy. We are posting Axis’ privacy policy online to clearly explain our intentions and create a sound basis for a mutual relationship. If you do not agree to these terms, please do not access or use Axis’ web sites. Axis reserves the right to change the online privacy policy from time to time at its sole discretion. Your use of the web sites will be subject to the most current version of the online privacy policy, published at the time of such use. 
+By accessing or using an Axis web site, online service or application, you agree to the collection, use and transfer of personal data according to the terms of this Axis online privacy policy. We are posting Axis’ privacy policy online to clearly explain our intentions and create a sound basis for a mutual relationship. If you do not agree to these terms, please do not access or use Axis’ web sites. Axis reserves the right to change the online privacy policy from time to time at its sole discretion. Your use of the web sites will be subject to the most current version of the online privacy policy, published at the time of such use. 
 
 The Axis web sites are published and maintained by Axis Communications AB, with its principal place of business at Emdalavägen 14, SE-223 69 Lund, Sweden. 
 
