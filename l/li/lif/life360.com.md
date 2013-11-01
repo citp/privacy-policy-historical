@@ -1,120 +1,116 @@
-> *The following text is extracted and transformed from the life360.com privacy policy that was archived on 2013-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130503003524id_/http%3A//www.life360.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the life360.com privacy policy that was archived on 2013-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131101164520id_/http%3A//www.life360.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Life360 - The New Family Circle
 
-Effective on October 21, 2009
+This Privacy Policy was last modified on September 4th, 2013.
 
-Life360 is committed to protecting your privacy. This privacy policy describes how Life360 collects and uses the personal information you provide on our website: [www.life360.com](https://www.life360.com/). It also describes the choices available to you regarding Life360′s use of your personal information and the steps you can take to access this information and to request that we correct or update it.
+Life360 (“Life360,” “we,” or “us”) are committed to protecting your privacy. This Privacy Policy explains our practices regarding the collection, use, disclosure, and protection of information that is collected through our mobile app and our website (collectively, our “Service”), as well as your choices regarding the collection and use of information. Capitalized terms that are not defined in this Privacy Policy have the meaning given them in our [Terms of Use.](https://web.archive.org/terms_of_use)
 
-**TRUSTe**  
-Life360 has been awarded TRUSTe’s Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe’s program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program does not cover information that may be collected through downloadable software or the collection of PII on mobile phones. TRUSTe’s mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at[support@life360.com](https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=support@life360.com). If you are not satisfied with our response you can contact [TRUSTe here.](http://watchdog.truste.com/pvr.php?page=complaint)
+##### Click on the links below to jump to each section:
 
-**Collection and Use of Personal Information**  
-We collect the following personal information from you.
-
-  * Contact Information such as name, email address, mailing address, phone number
-  * Billing Information such as credit card number, expiration date, billing address
-  * Preferences Information such as product wish lists, order history, marketing preferences
-  * Unique Identifiers such as user name, ID number, account number, password
-
-
-
-We collect this information when you
-
-  * Set up an account
-  * Sign up for our newsletter or email list
-  * Contact us with questions or request more information about our products or services
+  1. How We Collect and Use Information
+  2. Sharing of Your Information
+  3. How We Protect Your Information
+  4. Your Choices About Your Information
+  5. Children’s Privacy
+  6. Links to Other Websites and Services
+  7. Changes to Our Privacy Policy
+  8. Your California Privacy Rights
+  9. Contact Us
 
 
 
-We use this information to
+##### 1\. How We Collect and Use Information
 
-  * Fulfill your order
-  * Send you an order confirmation
-  * Assess the needs of your business to determine which products best meet those needs
-  * Send you requested product or service information
-  * Send product updates or warranty information
-  * Respond to customer service requests
-  * Administer your account
-  * Send you a newsletter
-  * Respond to your questions and concerns
-  * Improve our website and marketing efforts
+We collect the following types of information about you:
 
+###### Information we collect from you directly:
 
+**Registration and Profile Information.** When you create an account, we may collect your personal information such as your username, first and last name, birth date, email address, mobile phone number and a photo, if you chose to have a photo associated with your account. If you want to add a child or family member’s name to your account, we collect the child or family member’s name, email address, and mobile phone number. We may collect billing information when you sign up for Premium service. We may collect additional information from a parent in order to obtain verifiable parental consent to allow a child to use our Service. Please see our Kid’s Privacy Policy for more information.
 
-**Information Sharing**  
-We will share your personal information with third parties only in the ways that are described in this privacy statement. We do not sell, rent, trade, or otherwise share your personal information with third parties without first providing you notice and choice.
+**Data collected through use of the Service.** After you set up your account, we may ask for other profile and demographic information, such as personal emergency instructions and information, and nickname.
 
-We may provide your personal information to agents or service providers acting on our behalf for limited purposes. For example, we may share personal information with our agents or service providers to ship your order, or send you email on our behalf. These third parties are authorized to use your personal information _only_  to perform the service they are providing for us.
+**Geolocation.** We collect your unique user identifier and your location through GPS, WiFi, or wireless network triangulation in order to obtain your location for the purposes of providing our Service. We collect the location of your designated “Places” to provide alerts when family members arrive and leave. If you turn off location sharing in one or more of your circles, we will not share your location with such circles; however, while you are logged in to your account, we will continue to collect your location information in order to provide the Service (for example, to provide our emergency services or to share your location with the circles you allow to see your location). We maintain location information only so long as is reasonable to provide the Service and then destroy the location data.
 
-We reserve the right to disclose your personal information as required by law (e.g., to comply with a subpoena, warrant, court order, or legal process served on our website) and when we believe that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, and/or respond to a government request.
+**Messages and User Content.** We collect information when you message other members of your Family through use of the service. We may also retain any messages you send to us.
 
-In the event Life360 goes through a business transition, such as a merger, acquisition by another company, or sale of all or a portion of its assets, your personally identifiable information will likely be among the assets transferred. You will be notified via email and/or a prominent notice on our website of any such change in ownership or control of your personal information, as well as any choices you may have regarding your personal information.
+We use this information to operate, maintain, and provide to you the features and functionality of the Service and to communicate directly with you, such as to send you alerts on the movements of your Family members, crime alerts in your neighborhood, etc. You can control your receipt of email and text alerts by visiting “Settings” and “Alert Options” within the mobile app. We may also send you Service-related emails (e.g., account verification, parental consent notification, order confirmations, change or updates to features of the Service, technical and security notices). You may not opt-out of Service-related e-mails.
 
-_Third Party E-Commerce Solutions Provider_
+###### Information we receive about you from others:
 
-Our shopping cart is hosted by our e-commerce solutions provider. They host our ordering system, and collect your billing information directly from you for the purpose of processing your order. This company does not use your information for any other purpose.
+**Social Media.** When you interact with our site through various social media, such as when you Like us on Facebook or post a comment to our Facebook page, we may receive information from the social network such as your profile information, profile picture, gender, user name, user ID associated with your social media account, age range, language, country, friends list, and any other information you permit the social network to share with third parties. The data we receive is dependent upon your privacy settings with the social network. You should always review, and if necessary, adjust your privacy settings on third-party websites and services before linking or connecting them to Life360’s website or Service.
 
-**Choice/Opt-Out**  
-You may opt-out of receiving our newsletter or marketing emails from us by following the unsubscribe instructions included in each newsletter or marketing email or you can contact us at [support@life360.com](https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=support@life360.com).
+###### Information we collect automatically through the use of technology:
 
-**Cookies and Other Tracking Technologies**  
-_Cookies_
+When you visit our website or use our mobile app, we and our business partners may collect certain information about your computer or device through technology such as cookies, web beacons, log files, or other tracking/recording tools. The information we collect through the use of tracking technologies includes, but is not limited to, IP address, browser information, referring/exit pages and URLs, click stream data and how you interact with links on the website, mobile app, or Service, domain names, landing pages, page views, cookie data that allows us to uniquely identify your browser, browsing behavior on our site, mobile device type, mobile device IDs or other persistent identifiers, and location data collected from your mobile device. Some or all of this data may be combined with other personally identifying information described above. We use this information to:
 
-Cookies are very small text files that are stored on your computer when you visit certain web pages. We use cookies on our site to
-
-  * Keep track of login name and password
-  * Personalize your experience
+  * Remember information so that you will not have to re-enter it during your visit or the next time you visit the site or mobile app,
+  * Provide custom, personalized content and information,
+  * Monitor the effectiveness of our Service and our marketing campaigns,
+  * Monitor aggregate metrics such as total number of visitors, users, traffic, and demographic patterns,
+  * Diagnose or fix technology problems reported by our Users or engineers that are associated with certain IP addresses or User IDs, and
+  * Automatically update our mobile application on your system and related devices.
+  * You can reset your web browser to refuse all cookies or to indicate when a cookie is being sent. However, some features of the Service may not function properly if the ability to accept cookies is disabled. To learn more about cookies, clear gifs/web beacons and related technologies, you may wish to visit the Network Advertising Initiative’s online resources, at [http://www.networkadvertising.org](http://www.networkadvertising.org/). 
 
 
 
-_Log Files_
+##### 2\. Sharing of Your Information
 
-As is true of most websites, we gather certain information automatically and store it in log files. This information may include internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and/or page views.
+**Personal Information:** We will not rent or sell your personal information to third parties outside the Company and its controlled subsidiaries and affiliates without your consent, except as noted below:
 
-We use this information, which does not usually identify individual users, to analyze trends, to administer the site, to track users’ movements around the site and to gather demographic information about our user base as a whole.
+  * We share your information, including name, email and location, with others within your Life360 Family and other Life360 circles.
+  * We may share your personal information with our third-party business partners, vendors and consultants who perform services on our behalf, such as accounting, managerial, technical, marketing or analytic services. These business partners will be given access to your information as necessary to deliver the Service under reasonable confidentiality terms. 
+  * Any information or content that you voluntarily post to the website or to our Facebook page will automatically be available to the public. We may publicly post your reviews and comments online on our website or mobile app, or link your reviews to third party websites. 
 
-We may record your IP addresses when you place an order through our site in order to detect and prevent fraud.
 
-_Web Beacons_
 
-A web beacon is an electronic image placed on a web page that can serve many of the same purposes that cookies serve, For example, recording the pages you visit on our site. We or third parties may use web beacons to track the traffic patterns of users from one page to another.
+We may aggregate or otherwise strip data of all personally identifying characteristics of our data and may share that aggregated, anonymized data with third parties.
 
-We or our third party service provider may use web beacons in some of our emails to let us know which emails have been opened by recipients or track click-through rates. This allows us to gauge the effectiveness of our communications to customers and our marketing campaigns.
+  * We may at any time buy or sell/divest the company, or any combination of its products, services, assets and/or businesses. Personal information such as customer names and email addresses, and other user information related to the Service will likely be one of the items transferred in these types of transactions. We may also transfer or assign such information in the course of corporate divestitures, mergers, acquisitions, bankruptcies, dissolutions or similar transactions or proceedings. 
+  * Except as described above, we will not disclose personal information to third parties (including law enforcement, other government entity, or civil litigant; excluding our subcontractors) unless required to do so by law or subpoena or if in our sole discretion, we determine it is necessary to (a) conform to the law, comply with legal process, or investigate, prevent, or take action regarding suspected or actual illegal activities; (b) to enforce our [Terms of Use](https://web.archive.org/terms_of_use), take precautions against liability, to investigate and defend ourselves against any claims or allegations, or to protect the security or integrity of our site; and/or (c) to exercise or protect the rights, property, or personal safety of Life360, our Users or others. 
 
-**Correcting and Updating Your Personal Information**  
-To review and update your personal information to ensure it is accurate, contact us at [support@life360.com](https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=support@life360.com).
 
-**Flash LSOs**  
-We use local shared objects, also known as Flash cookies, to store your preferences such as volume control or high game score, or display content based upon what you view on our site to personalize your visit. Third Parties, with whom we partner to provide certain features on our site or to display advertising based upon your Web browsing activity, use Flash cookies to collect and store information.
 
-Flash cookies are different from browser cookies because of the amount of, type of, and how data is stored. Cookie management tools provided by your browser will not remove Flash cookies. To learn how to manage privacy and storage settings for Flash cookies [click here](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html#117118):
+##### 3\. How We Protect Your Information
 
-**Links to Other Web Sites**  
-Our Site includes links to other Web sites whose privacy practices may differ from those of Life360. If you submit personal information to any of those sites, your information is governed by their privacy statements. We encourage you to carefully read the privacy statement of any Web site you visit.
+Life360 cares about the security of your information and uses commercially reasonable physical, administrative, and technological safeguards to preserve the integrity and security of all information we collect and that we share with our service providers. However, no security system is impenetrable and we cannot guarantee the security of our systems 100%. In the event that any information under our control is compromised as a result of a breach of security, we will take reasonable steps to investigate the situation and where appropriate, notify those individuals whose information may have been compromised and take other steps, in accordance with any applicable laws and regulations.
 
-**Updating/Accessing/Amending/Correcting Personally Identifiable Information**  
-If your personally identifiable information changes, or if you no longer desire our service, you may [correct, update, amend, delete/remove or deactivate it] by making the change on our member information page [or by emailing our Customer Support at [support@life360.com](https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=support@life360.com)]
+##### 4\. Your Choices About Your Information
 
-**Widgets**  
-Our website includes Widgets, which are interactive mini-programs that run on our site and are designed to provide single-purpose services (e.g. displaying the latest news, opinions, music, etc). These Widgets are hosted by a third party. Personal information, such as your email address, may be collected through the Widget. Cookies may also be set by the Widget to enable certain features of the Widget to function properly. The information collected by this Widget is subject to the Widget’s privacy policy. Life360 is not responsible for personal information you choose to provide through the Widget.
+You may, of course, decline to submit any personal information through the Service, in which case Life360 may not be able to provide its Services to you.
 
-Our website offers blogs or community forums to allow you to learn more about us. You should be aware that any personally identifiable information you provide in these areas may be read, collected, and used by others who access them. We are not responsible for any personally identifiable information you choose to submit in blogs, forums, chat areas, instant message services, bulletin boards, or any other publicly accessible service or website.
+**Modifying Your Account Information and Settings:** You may modify your account information, update or amend your personal information, or change your password at any time by logging in to your account. You can also stop receiving promotional email communications from us by clicking on the “unsubscribe link” provided in such communications. We make every effort to promptly process all unsubscribe requests. As noted above, you may not opt out of Service-related communications (e.g., account verification, parental consent notification, order confirmations, change or updates to features of the Service, technical and security notices). If you have any questions about reviewing or modifying your account information, you can contact us directly at [support@life360.com](mailto:support@life360.com).
 
-**Data Retention**  
-We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us at [support@life360.com](https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=support@life360.com). We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
+**Delete Your Account and Personal Information:** We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account, please contact us at [support@life360.com](mailto:support@life360.com).
 
-**Security**  
-When we collect personal information directly from you, we follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security. If you have any questions about security on our website, you can contact us at[support@life360.com](https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=support@life360.com).
+**Opting Out of Collection of Tracking Data:** The only way to completely “opt out” of the collection of any information through cookies or other tracking technology is to actively manage the settings on your browser. Please refer to your browser’s technical information for instructions on how to delete and disable cookies, and other tracking/recording tools. (To learn more about cookies, clear gifs/web beacons and related technologies, you may wish to visit the Network Advertising Initiative’s online resources, at [http://www.networkadvertising.org](http://www.networkadvertising.org/).) Depending on your mobile device, you may not be able to control tracking technologies through browser settings but you can uninstall the app if you no longer wish to participate in our Service.
 
-In order to make a purchase from us, you must use our shopping cart provider to finalize and pay for your order. Its privacy statement and security practices will also apply to your information. If you use our shopping cart, the transmission of sensitive information collected on our order form is encrypted using secure socket layer technology (SSL). If you choose to use a third party payment option to pay for your order, its privacy statement and security practices will apply to your information. We encourage you to read that privacy statement before providing your information.
+##### 5\. Children’s Privacy
 
-**Notification of Privacy Statement Changes**  
-We may update this policy from time to time as our information practices are modified or changed. If we make any material changes to this policy that affect your personal information, we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change. We encourage you to periodically review this page for the latest information on our privacy practices.
+Our Service allows parents to keep track of their children’s location on mobile devices that the Parent has added to the Family account. The Service is intended to be used by children under 13 only with significant parental involvement and approval. If a Parent wishes to add a User who is under 13 to the Family account, the Parent must first complete the [Parental Consent Form](https://web.archive.org/pdf/consent.pdf) and return it via mail, fax or email. If you believe that we might have inadvertently collected information from a child under 13 without parental consent, please contact us at [support@life360.com](mailto:support@life360.com).
 
-**Contact Information**  
-You can contact us by writing or email us at the address below.  
+##### 6\. Links to Other Web Sites and Services
+
+We are not responsible for the practices employed by websites or services linked to or from the Service, nor the information or content contained therein. Please remember that when you use a link to go from the Service to another website, our Privacy Policy does not apply to third-party websites or services. Your browsing and interaction on any third-party website or service, including those that have a link on our website, are subject to that third party’s own rules and policies. Please read over those rules and policies before proceeding.
+
+##### 7\. Changes to Our Privacy Policy
+
+Life360 may, in its sole discretion, modify or update this Privacy Policy from time to time, and so you should review this page periodically. When we change the policy, we will update the ‘last modified’ date at the top of this page. If there are material changes to this Privacy Policy or in how Life360 will use your personal information, we will notify you either by prominently posting a notice of such changes prior to implementing the change or by directly sending you a notification.
+
+##### 8\. Your California Privacy Rights
+
+Life360 collects various types of personal information about you both online and offline, as described in this privacy policy. Under California law, Life360 customers who are residents of California may request certain information about our disclosure of personal information during the prior calendar year to third parties for their direct marketing purposes. To make such a request, please write to us at the following address:
+
 Life360  
-78 1st Street 6th Floor  
-San Francisco, CA 94105  
-[support@life360.com](https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=support@life360.com)
+78 First Street, 6th Floor  
+San Francisco, CA 94105
+
+Alternatively, you may send us an email at [support@life360.com](mailto:support@life360.com) with the words “California Privacy Rights” in the subject line.
+
+##### 9\. How to Contact Us
+
+If you have any questions about this Privacy Policy or the Service, please contact us at [support@life360.com](mailto:support@life360.com)
+
+Life360  
+78 First Street, 6th Floor  
+San Francisco, CA 94105
