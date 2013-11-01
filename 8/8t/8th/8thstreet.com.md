@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 8thstreet.com privacy policy that was archived on 2013-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130403031947id_/http%3A//www.8thstreet.com/security-and-privacy-policies.8th) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 8thstreet.com privacy policy that was archived on 2013-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131101060400id_/http%3A//www.8thstreet.com/security-and-privacy-policies.8th) for the most accurate reproduction.*
 
 # 8thstreet.com Security and Privacy Policies | The Original Online Music Superstore | 1-800-878-8882
 
