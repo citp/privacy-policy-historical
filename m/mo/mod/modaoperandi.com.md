@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the modaoperandi.com privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621054059id_/http%3A//modaoperandi.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the modaoperandi.com privacy policy that was archived on 2013-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131101092036id_/http%3A//modaoperandi.com/privacy) for the most accurate reproduction.*
 
-# Moda Operandi
+# Privacy - Moda Operandi
 
 We at Moda Operandi have created this Privacy Policy because we know you care about how the information you provide us with is used and shared. This Privacy Policy describes how we gather information from you when you visit the Moda Operandi website located at www.modaoperandi.com (the “Site”), and how we may use and share that information. By visiting our Site, you are accepting the practices described in this Privacy Policy and the accompanying [Terms of Use](https://web.archive.org/terms).
 
