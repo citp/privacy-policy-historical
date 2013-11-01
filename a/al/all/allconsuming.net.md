@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allconsuming.net privacy policy that was archived on 2013-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130625183738id_/http%3A//www.allconsuming.net/about/view/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allconsuming.net privacy policy that was archived on 2013-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131101215912id_/http%3A//www.allconsuming.net/about/view/privacy) for the most accurate reproduction.*
 
 # All Consuming Privacy Policy on All Consuming
 
@@ -84,4 +84,4 @@ Examples of the information we collect and analyze include the Internet protocol
 
 ## Privacy Companies
 
-Privacy companies include: [www.anonymizer.com](http://www.anonymizer.com/), [www.idzap.com](http://www.idzap.com/), [www.somebody.net](http://www.somebody.net/), and [www.zeroknowledge.com](http://www.zeroknowledge.com/en/). We cannot vouch for the effectiveness of any of these products.All Consuming
+Privacy companies include: [www.anonymizer.com](http://www.anonymizer.com/), [www.idzap.com](http://www.idzap.com/), [www.somebody.net](http://www.somebody.net/), and [www.zeroknowledge.com](http://www.zeroknowledge.com/en/). We cannot vouch for the effectiveness of any of these products.
