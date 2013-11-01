@@ -1,33 +1,47 @@
-> *The following text is extracted and transformed from the ipaidabribenaija.com privacy policy that was archived on 2012-08-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120821200555id_/http%3A//www.ipaidabribenaija.com/index.php/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ipaidabribenaija.com privacy policy that was archived on 2013-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131101173754id_/http%3A//www.ipaidabribenaija.com/privacy) for the most accurate reproduction.*
 
-# iPaid-a-bribe Nigeria | Privacy Policy
+# Privacy
 
-Privacy Policy
+##  [ Privacy Policy](http://ipaidabribenaija.com/privacy)
 
-Terms and Conditions
+JACOM_CONTENT_ARTICLE_INFO
+     Last Updated on 20 October 2013 
+     Hits: 6115
 
-This website is a platform for you to post your reports on and comment on the blog. All viewpoints are welcome, but please be constructive.
+I Paid A Bribe Naija may collect information from our users at several different points on the site. I Paid A Bribe Naija is the sole owner of the information collected on ipaidabribenaija.com
 
-Privacy Policy
+**Comments and Posts**
 
-We at ipaidabribenaija.com are committed to protecting your privacy as a visitor to our website and take your personal information very seriously. By using this website, you consent to the terms of our privacy policy for the collection and use of information posted by you in a manner ipaidabribenaija.com deems fit for which you shall have no objection. We do not collect, use or disclose your personal information for any purpose other than those to further/ promote the objectives of ipaidabribenaija.com & its projects.
+_I Paid A Bribe Naija_  users can choose to write comments or posts on the site. To leave a comment, users must submit information including a valid email address.  _I Paid A Bribe Naija_  uses this information to screen out users who leave comments prohibited by our terms and conditions of use, and will not pass this information to any other organization.
 
-INFORMATION COLLECTION:
+**Newsletters**
 
-You may post reports, perform searches and queries, share and transmit information and carry out a whole bunch of interactive activities. You may provide us with your email address by registering for updates on the website.
+_I Paid A Bribe Naija_  offers email newsletters. To sign up to receive regular emails, users must submit information including a valid email address. This information will be used in aggregate form to assess general user interest in various internal and third party products and services, and your personal and contact information will not be passed to any other organization. Users who choose to sign up for a mailing list will receive regular emails, including new articles added to the site.
 
-SHARING YOUR INFORMATION WITH THIRD PARTIES:
+**Log Files**
 
-We will not share your information with any third parties, except for law enforcement agencies or courts of competent jurisdiction in accordance with the procedure prescribed by law and for purposes stated hereinabove.
+Like most standard Web site servers we use log files. These include internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks.  We use this information to analyze trends, administer the site, track user movement in the aggregate, and gather broad demographic information for aggregate use.  IP addresses, etc. are not linked to personally identifiable information. We may use a tracking utility that uses log files to analyze user movement.
 
-SECURITY FOR YOUR DATA:
+**Legal Disclaimer**
 
-We will take all the appropriate precautions and the requisite security measures that are technically feasible to protect your information to prevent any unauthorized use, loss, misuse or alteration/ abuse of your information. We restrict access of your personal information to our employees, contractors and agents who need to know this information in order to operate, develop or improve our services.
+Though we make every effort to [Cialis](http://21cparks.org/the-parklands/) preserve user privacy,  _I Paid A Bribe Naija_  may need to disclose personal information when required by law wherein we have a good-faith belief that such action is necessary to comply with a current judicial proceeding, a court order or legal process.
 
-THIRD PARTY LINKS:
+**Business Transitions**
 
-This Website may contain links to third party websites that are not controlled by ipaidabribenaija.com. These third party links are available to you as a convenience and you agree to use these links at your own risk. Please be aware that ipaidabribenaija.com is not responsible for the content of third party websites linked to the ipaidabribenaija.com.
+In the event  _I Paid A Bribe Naija_  goes through a business transition, such as a merger, acquisition by another company, or sale of a portion of its assets, users’ personal information will, in most instances, be part of the assets transferred.
 
-CHANGES TO THIS PRIVACY POLICY:
+**Links**
 
-Any changes to the Website's Privacy Policy will be promptly communicated on this website. All changes to the privacy policy will be made without prior notice and by accessing this website it is deemed that you are aware of the new/changed privacy policy and that you have consented to it. You are requested to regularly visit this page to update yourself of the current and prevailing policy. If you have any questions about our privacy policy or wish to update any of the information you have provided to us, please contact our representative at ipaidabribenaija.com.
+_I Paid A Bribe Naija_  contains links to other sites. Please be aware that _  I Paid A Bribe Naija_ is not responsible for the privacy practices or content of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every Web site that collects personally identifiable information. This privacy statement applies solely to information collected by  _I Paid A Bribe Naija_.
+
+**Third Party Advertising**
+
+The ads appearing on this Web site are delivered to users by Google, among other services. Information about users’ visit to this site, such as number of times they have viewed an ad (but not username, date of birth, or any other personal information), is used to serve ads to users on this site.
+
+**Notification of Changes**
+
+Whenever  _I Paid A Bribe Naija_  changes its privacy policy, we will post those changes to this privacy statement, and other places we deem appropriate.
+
+**Contact Information**
+
+If you have any questions or suggestions regarding our privacy policy, please end an email to  **[info@ipaidabribenaija.com](mailto:info@ipaidabribenaija.com)**
