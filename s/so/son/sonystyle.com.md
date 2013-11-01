@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sonystyle.com privacy policy that was archived on 2012-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121026115859id_/https%3A//products.sel.sony.com/SEL/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sonystyle.com privacy policy that was archived on 2013-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131101182721id_/https%3A//products.sel.sony.com/SEL/legal/privacy.html) for the most accurate reproduction.*
 
 # Sony Electronics Inc
 
