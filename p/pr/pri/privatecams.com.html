@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the privatecams.com privacy policy that was archived on 2013-04-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130430103241id_/http%3A//privatecams.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the privatecams.com privacy policy that was archived on 2013-11-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131101070646id_/http%3A//www.privatecams.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -8,7 +8,7 @@
 <meta name="keywords" content="">
 <title>Privacy Policy - PrivateCams.com</title>
 
-  <link rel="stylesheet" href="http://ccstatic.highwebmedia.com/static/CACHE5/css/415203ca949c.css" type="text/css"><link rel="stylesheet" href="http://ccstatic.highwebmedia.com/static/CACHE5/css/35233cf02ff5.css" type="text/css" media="all">
+  <link rel="stylesheet" href="http://ccstatic.highwebmedia.com/static/CACHE5/css/3333b43df1bc.css" type="text/css"><link rel="stylesheet" href="http://ccstatic.highwebmedia.com/static/CACHE5/css/40e4aad16813.css" type="text/css" media="all">
   
     <link rel="stylesheet" href="http://ccstatic.highwebmedia.com/static/CACHE5/css/a8c025e8b244.css" type="text/css" media="all">
   
@@ -78,11 +78,11 @@
 <span class="pagename">PrivateCams.com Login</span>
 <h2>Please sign in using the form below</h2>
 <form method="post" action="/auth/login/?next=/privacy/">
-  <div style="display:none"><input type="hidden" name="csrfmiddlewaretoken" value="CfA9c2vkxWNHPx0fC4xLoSylaCmPkUmi"></div>
+  <div style="display:none"><input type="hidden" name="csrfmiddlewaretoken" value="4dImim9LGXMiiBDyCdmMbmqoJ8SsqUKY"></div>
   <label for="id_username">Username:</label>
   <input id="id_username" type="text" name="username" maxlength="30">
   <label for="id_password">Password:</label>
-  <input type="password" name="password" id="id_password">
+  <input id="id_password" type="password" name="password" maxlength="4096">
   <label for="id_rememberme">Keep me logged in:</label> <input type="checkbox" name="rememberme" id="id_rememberme">
   <input type="submit" value="login" class="button">
   <input type="hidden" name="next" value="/privacy/">
@@ -263,7 +263,8 @@
     <p>© Copyright Privatecams.com 2011 - 2013 . All Rights Reserved.</p>
     <p style="margin-top: 15px;">
         <img src="http://ccstatic.highwebmedia.com/static/images/badges/safelabeling.gif">
-        <a href="http://www.rtalabel.org/"><img src="http://ccstatic.highwebmedia.com/static/images/badges/88x31_RTA-5042-1996-1400-1577-RTA_a.gif"></a>
+        <a href="http://www.rtalabel.org/"><img src="http://ccstatic.highwebmedia.com/static/images/badges/88x31_RTA-5042-1996-1400-1577-RTA_a.gif" style="margin: 0 10px;"></a>
+        <a href="http://www.asacp.org/ASACP.php/"><img src="http://ccstatic.highwebmedia.com/static/images/badges/ApprovedASACPmember.gif"></a>
     </p>
   
   <p class="highlight"><a href="http://www.internetmodeling.com/">Webcam Models
@@ -282,19 +283,12 @@
 
 
 <script type="text/javascript" src="/jsi18n/"></script>
-<script type="text/javascript" src="http://ccstatic.highwebmedia.com/static/CACHE5/js/c9bc827a85fc.js"></script>
+<script type="text/javascript" src="http://ccstatic.highwebmedia.com/static/CACHE5/js/6517edee7824.js"></script>
 
 <script type="text/javascript">
 $.facebox.settings.loadingImage = 'http://ccstatic.highwebmedia.com/static/facebox/loading.gif';
 $.facebox.settings.closeImage = 'http://ccstatic.highwebmedia.com/static/facebox/closelabel.png';
 $(document).ready(function() {
-  $('a.join_fanclub').click(function() {
-    var popupwindow = window.open($(this).attr('href'), '_blank',
-            'status=0,toolbar=0,menubar=0,directories=0,resizable=1,' +
-                    'scrollbars=1,height=615,width=850');
-    popupwindow.focus();
-    return false;
-  });
   $('.purchase_tokens a, a.purchase_tokens').click(function() {
     var popupwindow = window.open("/tipping/purchase_tokens/", '_blank',
             'status=0,toolbar=0,menubar=0,directories=0,resizable=1,' +
@@ -356,7 +350,7 @@ $(document).ready(function(){
     if (!should_link_accounts()){
         return false;
     }
-    var oldval = mySwfStore.get('usernames');
+    var oldval = mySwfStore.get('usernames2');
     if (oldval == null | oldval == '') {
       var usernames = [""];
     } else {
@@ -373,7 +367,7 @@ $(document).ready(function(){
         usernames.push("");
       }
     }
-    mySwfStore.set('usernames', usernames.join(','));
+    mySwfStore.set('usernames2', usernames.join(','));
     $.cookie('latest_linked_timestamp', new Date().getTime(), {expires: 1, path: '/'});
     $.cookie('latest_linked_username', '', {expires: 1, path: '/'});
   }
@@ -386,6 +380,28 @@ function recordOutboundLink(link, category, action) {
     setTimeout('document.location = "' + link.href + '"', 100)
   }catch(err){}
 }
+
+$(document).ready(function(){
+    var fwcookie = $.cookie('fraudWarning05202013_');
+    if (!fwcookie) {
+        $('#fraud_warning').show();
+        $('#fraud_warning a.dismiss').click(function() {
+            $('#fraud_warning').hide();
+            $.cookie('fraudWarning05202013_', 1, 3628800);
+        });
+    }
+});
+
+$(document).ready(function(){
+    var achdismisscookie = $.cookie('ach_dismiss_');
+    if (!achdismisscookie) {
+        $('#direct_deposit_warning').show();
+        $('#direct_deposit_warning a.dismiss').click(function() {
+            $('#direct_deposit_warning').hide();
+            $.cookie('ach_dismiss_', 1, 31557600);
+        });
+    }
+});
 
 </script>
 
@@ -407,11 +423,17 @@ $.show_login_box = function(){
     $("#login-box").show();
     $("#id_username").focus();
     $("#id_username").select();
+    if ($.mydefchatconn) {
+        $.mydefchatconn('disable_html5_video_controls');
+    }
 }
 
 $.hide_login_box = function(){
     $("#login-overlay").hide();
     $("#login-box").hide();
+    if ($.mydefchatconn) {
+        $.mydefchatconn('enable_html5_video_controls');
+    }
 }
 
 $(document).ready(function(){
