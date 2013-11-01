@@ -1,10 +1,16 @@
-> *The following text is extracted and transformed from the kumc.edu privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501124208id_/http%3A//www.kumc.edu/x794.xml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kumc.edu privacy policy that was archived on 2013-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131101223550id_/http%3A//www.kumc.edu/x794.xml) for the most accurate reproduction.*
 
 # KU Medical Center's Privacy Statement
 
 ## Notice of Privacy Practices for Patients at KU Medical Center
 
 Our [Notice of Privacy Practices](http://www.kumc.edu/Documents/hipaa/KUMCNoticeofPrivacyPractices.pdf) (115k [Acrobat](http://www.adobe.com/products/acrobat/readermain.html) file) details the way in which medical information about you may be used and disclosed and how you can get access to this information.
+
+  * [KUMC Privacy Statement (Spanish)](http://www.kumc.edu/Documents/hipaa/NPP-Spanish-070113.pdf "KUMC Privacy Statement \(Spanish\)")
+  * [KUMC Privacy Statement (Russian)](http://www.kumc.edu/Documents/hipaa/NPP-Russian-070113.pdf "KUMC Privacy Statement \(Russian\)")
+  * [KUMC Privacy Statement (Nepali) ](http://www.kumc.edu/Documents/hipaa/NPP-Nepali-070113.pdf "KUMC Privacy Statement \(Nepali\)")
+
+
 
 ### Online Privacy
 
@@ -18,4 +24,4 @@ Certain forms on our site solicit personal information when necessary to provide
 
 Questions regarding this privacy statement or the practices of this site may be submitted to [internetdev@kumc.edu](mailto:internetdev@kumc.edu).
 
-Last modified: Feb 05, 2013
+Last modified: Jul 12, 2013
