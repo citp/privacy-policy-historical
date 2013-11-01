@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the porntack.com privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502012629id_/http%3A//porntack.com/About/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the porntack.com privacy policy that was archived on 2013-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131101082218id_/http%3A//www.porntack.com/About/Privacy) for the most accurate reproduction.*
 
 # Porntack.com | Create your own porn collections and explore new porn
 
