@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shutterbug.com privacy policy that was archived on 2013-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130313133822id_/http%3A//privacy.sourceinterlinkmedia.com/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shutterbug.com privacy policy that was archived on 2013-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131101165939id_/http%3A//privacy.sourceinterlinkmedia.com/index.html) for the most accurate reproduction.*
 
 # Source Interlink Companies Privacy Policy
 
@@ -63,7 +63,7 @@ We believe that choice in how and when you are contacted is key to customer sati
   1. If you have an online account at one of our websites, you may be able to log on and update or change your contact or account information. Check the site for further information.
   2. If you are a subscriber to one of our magazines, you may be able to log on and update or change your contact or account information by contacting us at <https://www.circsource.com/> and clicking on Customer Service.
   3. You may unsubscribe to any of our online e-mail updates or newsletters by following the unsubscribe instructions in the body of any e-mail message.
-  4. If you do not wish to have your personal information shared with third parties or with other entities in the Source corporate family, please [click here](http://unsub.sourceinterlinkmedia.com/).
+  4. If you do not wish to have your personal information shared with third parties or with other entities in the Source corporate family, please [click here](http://www.sourceinterlink.com/unsubscribe/).
   5. You also may write to us directly if you wish to: (a) update or delete your contact information; (b) ask that we not share your personal information with third parties; or (c) request that we cease sending you promotional or other information via mail or e-mail. Such written requests should be sent to Source Interlink Companies, Inc., 27500 Riverview Center Blvd., Bonita Springs, FL 34134, attn: General Counsel. In those instances, we will retain your information in a "do not promote" file in our database, and you will receive no further communications from us.
   6. You may also contact us at [privacypolicy@sorc.com](mailto:privacypolicy@sorc.com) for any inquiry or request regarding our privacy policy or the handling of your personal information.
 
