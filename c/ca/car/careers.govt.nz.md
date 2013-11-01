@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the careers.govt.nz privacy policy that was archived on 2013-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130604020803id_/http%3A//www.careers.govt.nz/about-career-services/about-this-site/website-policies/%23c22459) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the careers.govt.nz privacy policy that was archived on 2013-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131101160700id_/http%3A//www.careers.govt.nz/about-career-services/about-this-site/website-policies/%23c22459) for the most accurate reproduction.*
 
 # Website policies
 
@@ -144,7 +144,9 @@ We reserve the right, at our discretion, to update or revise these Terms of use.
 
 ### Pay information
 
- Pay information is provided as a guide only. Sources we use include:
+Pay information is provided as a guide only. People's individual pay rates may vary according to their skills, experience and qualifications and their employer.
+
+Sources we use may include:
 
   * published data on pay rates, such as Multi-Employer Collective Agreements
   * Statistics New Zealand’s population census data
