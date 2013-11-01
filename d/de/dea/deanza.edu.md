@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the deanza.edu privacy policy that was archived on 2013-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130515200830id_/http%3A//deanza.edu/policies/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the deanza.edu privacy policy that was archived on 2013-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131101133438id_/http%3A//www.deanza.edu/policies/privacy.html) for the most accurate reproduction.*
 
 # De Anza College :: Policies :: Privacy Statement
 
