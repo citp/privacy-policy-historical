@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pricell.com privacy policy that was archived on 2013-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130531161142id_/http%3A//pricell.com/static/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pricell.com privacy policy that was archived on 2013-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131101132107id_/http%3A//pricell.com/static/privacy) for the most accurate reproduction.*
 
 # Buy And Sell Websites On Pricell.com - Website Auction Marketplace
 
