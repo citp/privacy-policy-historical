@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the browardpalmbeach.com privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502135636id_/http%3A//www.browardpalmbeach.com/about/privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the browardpalmbeach.com privacy policy that was archived on 2013-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131101211338id_/http%3A//www.browardpalmbeach.com/about/privacyPolicy) for the most accurate reproduction.*
 
 # Fort Lauderdale and Palm Beach Privacy Policy
 
