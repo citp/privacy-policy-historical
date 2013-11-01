@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clevertraining.com privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602135654id_/http%3A//www.clevertraining.com/t-privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clevertraining.com privacy policy that was archived on 2013-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131101061543id_/http%3A//www.clevertraining.com/t-privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -14,6 +14,8 @@ As part of your order process, we collect only the information necessary to proc
   * Purchase information, including credit card number, billing and/or shipping information
 
 
+
+* Please note that we have the ability to retain any data that you provide on this website, even if you do not complete your transaction by clicking ‘place order.’ Such contact details and data may be used to contact you to inquire why you did not complete your transaction
 
 **How That Information Is Used:**
 
