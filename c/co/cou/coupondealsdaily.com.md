@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coupondealsdaily.com privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601200606id_/http%3A//www.coupondealsdaily.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coupondealsdaily.com privacy policy that was archived on 2013-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131101190131id_/http%3A//www.coupondealsdaily.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Coupon Deals Daily
 
