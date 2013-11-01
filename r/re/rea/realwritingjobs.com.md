@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the realwritingjobs.com privacy policy that was archived on 2010-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100209020226id_/http%3A//www.realwritingjobs.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realwritingjobs.com privacy policy that was archived on 2013-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131101061141id_/http%3A//realwritingjobs.com/cb/privacy.php) for the most accurate reproduction.*
 
 # Real Writing Jobs - Privacy Policy
 
@@ -23,6 +23,8 @@ While both of these activities depend on the use of a "cookie," visitors to this
 Information Gathering 
 
 This web site collects online contact information in various ways, including inquiry forms and registration forms. The information collected may be used to send the user information about our company, or to get in touch with the user when necessary. 
+
+Telemarketing. We may use your Personal Information to advertise, directly or indirectly, to individuals using direct mail marketing or telemarketing using telephones and cell phones. You may have your telephone number or cell phone number listed on a state or federal do not call registry. By registering and using this Site, you agree that such act constitutes a purchase, an inquiry and/or an application for purposes of the Amended Telemarketing Sales Rule, 16 CFR §310 et seq. (the "ATSR"). Notwithstanding that your telephone number may be listed on the Federal Trade Commission's Do-Not-Call List, you have authorized us to contact you via telemarketing in accordance with the ATSR. Moreover, by registering with, or requesting information from, a third-party advertiser at or through the Website or other advertisement media made available by us (e.g., email marketing), you agree that such action shall constitute a purchase, an inquiry and/or an application with the respective third-party advertiser for purposes of the ATSR and you may be contacted via email, direct mail and/or telemarketing by such third-party advertiser in accordance with the ATSR. We may use Personal Information to provide the services you've requested, including services that display customized content and advertising. 
 
 Users may opt-out of receiving future mailings; see the opt-out/modify section below. 
 
