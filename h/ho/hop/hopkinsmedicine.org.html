@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the hopkinsmedicine.org privacy policy that was archived on 2013-06-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130606050503id_/http%3A//www.hopkinsmedicine.org/Privacy/index.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the hopkinsmedicine.org privacy policy that was archived on 2013-11-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131101155755id_/http%3A//www.hopkinsmedicine.org/Privacy/index.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en"><head>
 <meta http-equiv="content-type" content="text/html;charset=utf-8">
@@ -8,13 +8,15 @@
 <meta name="keywords" content="hopkins,disclaimer, privacy policy">
 <meta name="generator" content="SiteExecutive v2012">
 <meta name="date" content="2013-01-29T11:28:30-04:00">
-<meta name="title" content="Privacy Policy and Disclaimer"> 
+<meta name="title" content="Privacy Policy and Disclaimer">
+<meta property="og:url" content="http://www.hopkinsmedicine.org/Privacy/index.html">
+<meta property="og:title" content="Privacy Policy and Disclaimer">
+<meta property="og:type" content="article"> 
 	<link id="csspage" rel="stylesheet" type="text/css" media="screen,handheld,aural,braille,embossed,projection,tty,tv" href="/se/styles/out/6411EAFCF3CB2B5E9ABF9D09985C7818.css">
 	
 	<link id="csstemplate" rel="stylesheet" type="text/css" media="screen,handheld,aural,braille,embossed,projection,tty,tv" href="/se/styles/out/E542BD4BB3C314D77AAA712C0F655F04.css">
 	<link rel="stylesheet" type="text/css" media="print" href="/se/styles/out/DBAADB817110AD4962E7AF79ECB523C3.css"> 
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/se/util/setracker.cfm"></script> 
-<script type="text/javascript">
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
 //<![CDATA[
 function openFriendlyVersion()
 {
@@ -25,6 +27,7 @@ function openFriendlyVersion()
 }
 //]]>
 </script> 
+<script type="text/javascript" src="/se/util/setracker.cfm"></script>
 
 	
 	<!-- template head text -->
@@ -32,6 +35,8 @@ function openFriendlyVersion()
 <link href="/sebin/n/z/template.css" rel="stylesheet" type="text/css" media="screen">
 <link href="/sebin/n/n/widgets.css" rel="stylesheet" type="text/css" media="screen">
 <link href="http://cloud.webtype.com/css/2df57fb0-cf14-4bb6-a55e-a3e27b0d2c14.css" rel="stylesheet" type="text/css">
+<!-- css to support for flex styles -->
+<link rel="stylesheet" href="http://www.hopkinsmedicine.org/_templates/external_css/flex_content.css" type="text/css" media="screen">
 <link href="/sebin/p/c/thincrust-fixed.css" rel="stylesheet" type="text/css">
 <!--[if lte IE 6]>
 <link href="/sebin/n/o/ie6.css" rel="stylesheet" type="text/css" />
@@ -108,9 +113,14 @@ define('jhmContext', function () {
 									<li><a href="http://www.hopkinsmedicine.org/patient_care/hospital_locations.html" class="subLink">Hospitals &amp; Patient Care Locations</a></li>
 									<li><a href="http://www.hopkinsmedicine.org/healthlibrary/conditions/adult/" class="subLink">Conditions &amp; Treatments</a></li>
 									<li><a href="http://www.hopkinsmedicine.org/health_professionals/index.html" class="subLink">For Health Professionals</a></li>
-									<li><a href="http://www.hopkinsmedicine.org/doctors/index.html" class="subLink">Find a Doctor</a></li>
+									<li><a href="http://www.hopkinsmedicine.org/profiles/" class="subLink">Find a Doctor</a></li>
 									<li><a href="http://www.hopkinsmedicine.org/health_professionals/physicians.html" class="subLink">Refer a Patient</a></li>
 									<li><a href="http://www.hopkinsmedicine.org/patient_care/johns_hopkins_medicine_request_appointment.html" class="subLink">Request an Appointment</a></li>
+
+
+
+									<li><a href="http://www.hopkinsmedicine.org/international/patients" class="subLink">International Patients</a></li>
+
 									<li><a href="http://www.hopkinsmedicine.org/patient_care/pay_bill/pay_bill.html" class="subLink">Pay Your Bill</a></li>
 									<li><a href="http://trials.johnshopkins.edu/" class="subLink">Search Clinical Trials</a></li>
 									<li><a href="http://www.hopkinsmedicine.org/healthseminars/" class="subLink">Attend a Health Seminar</a></li>
@@ -141,6 +151,7 @@ define('jhmContext', function () {
 									<li><a href="http://www.hopkinsmedicine.org/education/johns_hopkins_alumni.html" class="subLink">Alumni &amp; Friends</a></li>
 									<li><a href="http://www.hopkinsmedicine.org/education/johns_hopkins_schools.html" class="subLink">Schools</a></li>
 									<li><a href="http://www.hopkinsmedicine.org/education/academic_research_departments.html" class="subLink">Departments</a></li>
+                                    <li><a href="http://www.hopkinsmedicine.org/institute_nursing/index.html" class="subLink">Institute for Nursing</a></li>
 									<li><a href="http://www.hopkinsmedicine.org/education/apply_to_johns_hopkins.html" class="subLink">Apply For Admissions</a></li>
 								</ul>
 							</li>
@@ -150,14 +161,113 @@ define('jhmContext', function () {
 			</div>
 		</div>
 	</div>
-</div><!-- thincrust responsive end --><div id="bannerWrapper">
+</div><!-- thincrust responsive end --><script>
+var siteSearch = require.config({
+	paths: {
+		jquery: 'jquery-1.8.3.min',
+		resjs: 'thincrust-fixed'
+	},
+	shim: { 
+		resjs: {
+			deps: ['jquery'],
+			exports: 'jquery'
+		}
+	}
+});
+siteSearch(['jquery','jhmContext','resjs'], function ( $, c, res) {
+	if(typeof c.gsa !== 'undefined') {
+		var searchOptDiv = document.createElement('div'),
+			jhmInpOpt = document.createElement('input'),
+			subSiteInpOpt = document.createElement('input'),
+			sitesearchInpOpt = document.createElement('input');
+		
+		$(jhmInpOpt).attr({
+			id: 'subSiteSearchOptMain',
+			value: 'site',
+			name: 'subSiteSearchFlag',
+			type: 'radio'
+		});
+		
+		$(subSiteInpOpt).attr({
+			id: 'subSiteSearchOptSub',
+			value: 'sitesearch',
+			name: 'subSiteSearchFlag',
+			type: 'radio'
+		});
+		
+		$(sitesearchInpOpt).attr({
+			value: c.gsa.subsiteurl,
+			name: 'sitesearch',
+			type: 'hidden'
+		});
+		
+		if(c.gsa.defaultToSubSite) {
+			$(subSiteInpOpt).attr('checked',true);
+		} else {
+			$(jhmInpOpt).attr('checked',true);
+		}
+		
+		if(typeof c.gsa.external !== 'undefined') {
+			$('#jhmSubSiteSearch').attr('action',c.gsa.external);
+		}
+		
+		if(typeof c.gsa.inputName !== 'undefined') {
+			$('#subsite-search-field').attr('name',c.gsa.inputName);
+		}
+		
+		$(searchOptDiv).addClass('search-options')
+			.appendTo($('.search-field-wrapper'))
+			.append(jhmInpOpt)
+			.append('<label>Johns Hopkins Medicine</label>')
+			.append(subSiteInpOpt)
+			.append('<label>' + c.gsa.display + '</label>');
+			
+		$('#jhmSubSiteSearch').append(sitesearchInpOpt);
+	}
+	
+	res.setupSearchFunctions();
+});	
+</script>
+
+<div id="bannerWrapper">
     <div id="banner">
         <div id="logoAndTabs">
             <a title="Johns Hopkins Medicine" href="http://www.hopkinsmedicine.org/"><img src="http://www.hopkinsmedicine.org/sebin/z/j/johns_hopkins_medicine.png" alt="Johns Hopkins Medicine"></a>
         </div>
+		<div id="jhm-search">
+			<form method="get" id="jhmSiteSearch" action="http://www.hopkinsmedicine.org/search">
+				<input type="hidden" name="client" value="hopkinsmedicine_frontend">
+				<input type="hidden" name="proxystylesheet" value="hopkinsmedicine_frontend">
+				<input type="hidden" name="output" value="xml_no_dtd">
+				<input type="hidden" name="site" value="hopkinsmedicine_collection">
+				<div class="search-box">
+					<div class="search-field-wrapper">
+						<div class="search-field-inner"></div>
+						<a class="search-logo">Search</a>
+						<input name="q" id="search-field" size="30" maxlength="256" title="Enter your search" type="text">
+					</div>
+					<button class="bannerSearchButton" name="btnG" type="submit" value="Search">Search</button>
+				</div>
+			</form>
+			<form method="get" id="jhmSubSiteSearch" action="http://www.hopkinsmedicine.org/search" style="display:none;">
+					<input type="hidden" name="q" id="subsite-search-field" size="30" maxlength="256">
+			        <input type="hidden" name="client" value="hopkinsmedicine_frontend">
+					<input type="hidden" name="proxystylesheet" value="hopkinsmedicine_frontend">
+					<input type="hidden" name="output" value="xml_no_dtd">
+					<input type="hidden" name="site" value="hopkinsmedicine_collection">	
+			</form>
+		</div>
     </div>
-</div><div id="wrapper-canvas"><div><!-- skip navigation removed from included pages --></div><div id="JHHTitleWrapper"><div class="Header_6" id="JHHTitle"><h6 id="jhh"><div><!-- skip navigation removed from included pages --></div></h6></div></div><div id="bodyWrapper"><div class="wrapperTop"><div class="wtLeft">&nbsp;</div><div class="wtMiddle">&nbsp;</div><div class="wtRight">&nbsp;</div><div class="reset">&nbsp;</div></div><div class="wrapperBody"><div class="contentMainSub"><div class="wrapperContent"><div><!-- skip navigation removed from included pages --></div><div class="parentLeft3Col"><!-- skip navigation removed from included pages --><div class="pageBanner"></div><div class="reset">&nbsp;</div><div id="toolBar"><div id="fontfloat"><div class="fontsizeImg"><script type="text/javascript">
+</div><div id="wrapper-canvas"><div><!-- skip navigation removed from included pages --></div><div id="JHHTitleWrapper"><div class="Header_6" id="JHHTitle"><h6 id="jhh"><div><!-- skip navigation removed from included pages --></div></h6></div></div><div id="bodyWrapper"><div class="wrapperTop"><div class="wtLeft">&nbsp;</div><div class="wtMiddle">&nbsp;</div><div class="wtRight">&nbsp;</div><div class="reset">&nbsp;</div></div><div class="wrapperBody"><div class="contentMainSub"><div class="wrapperContent"><div><!-- skip navigation removed from included pages --></div><div class="parentLeft3Col"><!-- skip navigation removed from included pages --><div class="pageBanner"><!-- skip navigation removed from included pages --></div><div class="reset">&nbsp;</div><div id="toolBar"><div id="fontfloat"><div class="fontsizeImg"><script type="text/javascript">
 <!-- //
+// Holy globals, batman!!!
+if (typeof changeTextSize == 'undefined' || !jQuery.isFunction(changeTextSize)) {
+	function changeTextSize(sheetIndex){
+		jQuery("head link[href*=fontSize]").remove();
+		jQuery("head").append('<link rel="stylesheet" type="text/css" href="' + ["/sebin/p/v/fontSizeSmall.css","/sebin/p/x/fontSizeMedium.css","/sebin/t/d/fontSizeLarge.css"][sheetIndex] + '"/>');
+	}
+}
+
 fontSize = function() {}
 fontSize.level = -1;
 fontSize.change = function(direction)
@@ -206,7 +316,7 @@ fontSize.change = function(direction)
 <a class="addthis_button_facebook"></a>
 <a class="addthis_button_expanded"> More</a>
 </div>
-<!-- AddThis Button END --></div><div class="reset">&nbsp;</div><div class="mainBodyContentSub2Col"><div class="breadCrumb3col"><span class=""><a class="" href="http://www.hopkinsmedicine.org/">Home</a>&nbsp;&gt;&nbsp;<a class="" href="http://www.hopkinsmedicine.org/Privacy/">Privacy Practices</a></span></div><h1 class="mainBodyContentTitle"><span class="">Privacy Policy and Disclaimer</span></h1><div class="mainBodyContentData"><div><a name="Skip"></a></div><p><span class="Body_Text">All health and health-related information contained within this Johns Hopkins Medicin</span><span class="Body_Text">e Web site is intended to be general in nature and should not be used as a substitute for a visit with a health care professional. The advice is intended to offer only a general basis for individuals to discuss their medical condition with their health care provider. Your health care provider should be consulted regarding matters concerning the medical condition, treatment and needs of you and your family.</span></p><p><span class="Body_Text">Although every effort is made to ensure that the material within this Johns Hopkins Medicine Web site is accurate and timely, it is provided for the convenience of the Web site user and should not be considered official. Users of this Web site are advised to refer to and rely upon the official version of information when making significant decisions, including decisions related to employment opportunities at Hopkins.</span></p><h2>See Also:</h2><ul><li><span class="subhead"><a href="#privacy">Privacy Information</a></span></li><li><span class="subhead"><a title="Patient Privacy" href="http://www.hopkinsmedicine.org/Privacy/patients.html">Patient Privacy Information</a></span><span class="Body_Text"><br></span></li></ul><hr><h2><a name="privacy"></a>Stored Information</h2><p><span class="Body_Text">Please be aware most information transmitted over the Internet is not secure; thus, confidentiality cannot be guaranteed.</span></p><p><span class="Body_Text">Of the information we learn about you from your visit to Johns Hopkins Medicine Web sites, we store the following: the IP address from which you access the Internet, the date and time, the Internet address of the Web site from which you linked directly to our site, the name of the file or the words you searched, and the browser used to access our site. This information is used to measure the number of visitors to the various sections of our site and identify system performance or problem areas. We also use this information to help us improve features of the site and to make the site more useful.</span></p><h2>Personally Provided Information</h2><p><span class="Body_Text">If you choose to provide us with personal information by sending an email, or by filling out a form with your personal information and submitting it through our Web site, we use that information to respond to your message and to help us provide you with information or material that you request.&nbsp;We do not give, share, sell, or transfer any personal information to a third party unless required by law.</span></p><h2>Links to Other Sites</h2><p><span class="Body_Text">Please note that some pages within this Web site, for the convenience of users, are linked to Web sites not managed by Johns Hopkins Medicine. Neither The Johns Hopkins University nor The Johns Hopkins Health System review, control or take responsibility for the content of those Web sites.</span></p><p><span class="Body_Text">Links from this Web site to Web sites not managed by Johns Hopkins Medicine do not imply endorsement or credibility of the service, information or product offered through the linked sites<br></span></p><p><span class="Body_Text">Some Johns Hopkins Medicine Web sites</span> <span class="Body_Text">provide links to other internet sites that provide health information. Once you link to another site, you are subject to the privacy policy of the new site.</span></p></div></div></div><div class="right"><div class="QuickLinksBlueGrade3col"><div class="QuickLinksContentHome"><!-- skip navigation removed from included pages --><ul><li><a title="Find a Doctor" href="http://www.hopkinsmedicine.org/doctors/">Find a Doctor</a></li><li><a title="Request an Appointment" href="http://www.hopkinsmedicine.org/patient_care/johns_hopkins_medicine_request_appointment.html">Request an Appointment</a></li><li><a title="Get a Second Opinion" href="http://www.hopkinsmedicine.org/second_opinion/">Get a Second Opinion</a></li><li><a title="Patient Care Locations" href="http://www.hopkinsmedicine.org/patient_care/hospital_locations.html">Patient Care Locations</a></li><li><a title="Attend a Health Seminar" href="http://www.hopkinsmedicine.org/healthseminars/">Attend a Health Seminar</a></li><li><a title="Pay Your Bill" href="http://www.hopkinsmedicine.org/patient_care/pay_bill/pay_bill.html">Pay Your Bill</a></li><li><a target="_blank" title="Search for Clinical Trials" href="http://trials.johnshopkins.edu/">Search Clinical Trials</a></li></ul></div></div><div class="toolPane"><!-- skip navigation removed from included pages --></div><div class="sp3colRight"><!-- skip navigation removed from included pages --><!-- skip navigation removed from included pages --><div class="jhiCTAWrapper"><style type="text/css">
+<!-- AddThis Button END --></div><div class="reset">&nbsp;</div><div class="mainBodyContentSub2Col"><div class="breadCrumb3col"><span class=""><a class="" href="http://www.hopkinsmedicine.org/">Home</a>&nbsp;&gt;&nbsp;<a class="" href="http://www.hopkinsmedicine.org/Privacy/">Privacy Practices</a></span></div><h1 class="mainBodyContentTitle"><span class="">Privacy Policy and Disclaimer</span></h1><div class="mainBodyContentData"><div><a name="Skip"></a></div><p><span class="Body_Text">All health and health-related information contained within this Johns Hopkins Medicin</span><span class="Body_Text">e Web site is intended to be general in nature and should not be used as a substitute for a visit with a health care professional. The advice is intended to offer only a general basis for individuals to discuss their medical condition with their health care provider. Your health care provider should be consulted regarding matters concerning the medical condition, treatment and needs of you and your family.</span></p><p><span class="Body_Text">Although every effort is made to ensure that the material within this Johns Hopkins Medicine Web site is accurate and timely, it is provided for the convenience of the Web site user and should not be considered official. Users of this Web site are advised to refer to and rely upon the official version of information when making significant decisions, including decisions related to employment opportunities at Hopkins.</span></p><h2>See Also:</h2><ul><li><span class="subhead"><a href="#privacy">Privacy Information</a></span></li><li><span class="subhead"><a title="Patient Privacy" href="http://www.hopkinsmedicine.org/Privacy/patients.html">Patient Privacy Information</a></span><span class="Body_Text"><br></span></li></ul><hr><h2><a name="privacy"></a>Stored Information</h2><p><span class="Body_Text">Please be aware most information transmitted over the Internet is not secure; thus, confidentiality cannot be guaranteed.</span></p><p><span class="Body_Text">Of the information we learn about you from your visit to Johns Hopkins Medicine Web sites, we store the following: the IP address from which you access the Internet, the date and time, the Internet address of the Web site from which you linked directly to our site, the name of the file or the words you searched, and the browser used to access our site. This information is used to measure the number of visitors to the various sections of our site and identify system performance or problem areas. We also use this information to help us improve features of the site and to make the site more useful.</span></p><h2>Personally Provided Information</h2><p><span class="Body_Text">If you choose to provide us with personal information by sending an email, or by filling out a form with your personal information and submitting it through our Web site, we use that information to respond to your message and to help us provide you with information or material that you request.&nbsp;We do not give, share, sell, or transfer any personal information to a third party unless required by law.</span></p><h2>Links to Other Sites</h2><p><span class="Body_Text">Please note that some pages within this Web site, for the convenience of users, are linked to Web sites not managed by Johns Hopkins Medicine. Neither The Johns Hopkins University nor The Johns Hopkins Health System review, control or take responsibility for the content of those Web sites.</span></p><p><span class="Body_Text">Links from this Web site to Web sites not managed by Johns Hopkins Medicine do not imply endorsement or credibility of the service, information or product offered through the linked sites<br></span></p><p><span class="Body_Text">Some Johns Hopkins Medicine Web sites</span> <span class="Body_Text">provide links to other internet sites that provide health information. Once you link to another site, you are subject to the privacy policy of the new site.</span></p></div></div></div><div class="right"><div class="QuickLinksBlueGrade3col"><div class="QuickLinksContentHome"><!-- skip navigation removed from included pages --><ul><li><a title="Find a Doctor" href="http://www.hopkinsmedicine.org/profiles/index.html">Find a Doctor</a></li><li><a title="Request an Appointment" href="http://www.hopkinsmedicine.org/patient_care/johns_hopkins_medicine_request_appointment.html">Request an Appointment</a></li><li><a title="Get a Second Opinion" href="http://www.hopkinsmedicine.org/second_opinion/">Get a Second Opinion</a></li><li><a title="Patient Care Locations" href="http://www.hopkinsmedicine.org/patient_care/hospital_locations.html">Patient Care Locations</a></li><li><a title="Attend a Health Seminar" href="http://www.hopkinsmedicine.org/healthseminars/">Attend a Health Seminar</a></li><li><a title="Pay Your Bill" href="http://www.hopkinsmedicine.org/patient_care/pay_bill/bills/index.html">Pay Your Bill</a></li><li><a target="_blank" title="Search for Clinical Trials" href="http://trials.johnshopkins.edu/">Search Clinical Trials</a></li></ul></div></div><div class="toolPane"><!-- skip navigation removed from included pages --></div><div class="sp3colRight"><!-- skip navigation removed from included pages --><!-- skip navigation removed from included pages --><!-- skip navigation removed from included pages --><style type="text/css">
 .jhiCTAWrapper {position:relative;max-width:234px; float:left; font-size:12px; line-height:1.35em; color: #333; margin:4% 0;background: #fbf7e6;
 background: url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiA/Pgo8c3ZnIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgdmlld0JveD0iMCAwIDEgMSIgcHJlc2VydmVBc3BlY3RSYXRpbz0ibm9uZSI+CiAgPGxpbmVhckdyYWRpZW50IGlkPSJncmFkLXVjZ2ctZ2VuZXJhdGVkIiBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSIgeDE9IjAlIiB5MT0iMCUiIHgyPSIxMDAlIiB5Mj0iMTAwJSI+CiAgICA8c3RvcCBvZmZzZXQ9IjAlIiBzdG9wLWNvbG9yPSIjZjllYWEzIiBzdG9wLW9wYWNpdHk9IjEiLz4KICAgIDxzdG9wIG9mZnNldD0iMTAwJSIgc3RvcC1jb2xvcj0iI2ZiZjhlNCIgc3RvcC1vcGFjaXR5PSIxIi8+CiAgPC9saW5lYXJHcmFkaWVudD4KICA8cmVjdCB4PSIwIiB5PSIwIiB3aWR0aD0iMSIgaGVpZ2h0PSIxIiBmaWxsPSJ1cmwoI2dyYWQtdWNnZy1nZW5lcmF0ZWQpIiAvPgo8L3N2Zz4=);
 background: -moz-linear-gradient(-45deg, #f9eaa3 0%, #fbf8e4 100%);
@@ -230,7 +340,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f9eaa3', end
 .jhiCTAlinksBox ul {list-style-image:url(http://hopkinsmedicine.org/sebin/b/r/link-arrow.png);padding-left:15px;margin:0 0 4% 0;}
 .discoverHeading {font-size:1em; font-weight:700; margin-bottom:2%;}
 .jhiCTAinfoBox img {width:100%;height:auto;}
-</style> <div class="jhiCTAinfoBox"><h1><span class="bold">Traveling</span> for care?</h1><div class="jhiCTAinfoBoxImg"><img src="/sebin/z/v/suitcase.png" alt="blue suitcase"></div><p>Whether crossing the country or the globe, we make it easy to access world-class care at Johns Hopkins.</p></div><div class="jhiCTACentered"><div class="jhiCTAnumbersBox"><p>Maryland <strong>410-955-5464</strong><br> U.S. <strong>1-410-464-6713 (toll free)</strong><br> International <strong>+1-410-614-6424</strong></p></div></div><div class="jhiCTAlinksBox"><p class="discoverHeading">Ease your journey with our Medical Concierge Services:</p><ul><li><a href="http://www.hopkinsmedicine.org/usa/patient_information/">U.S. Patients (outside of Maryland)</a></li><li><a href="http://www.hopkinsmedicine.org/international/patients/">International Patients</a></li></ul></div></div><p><span>&nbsp;</span></p></div></div><div class="reset">&nbsp;</div><!-- skip navigation removed from included pages --><div class="contentFooter"><div class="footerLeft"><ul><li><a href="http://www.hopkinsmedicine.org/index.html"><strong>Home</strong></a></li><li><a href="http://www.hopkinsmedicine.org/about/">About Johns Hopkins Medicine</a></li><li><a href="http://www.hopkinsmedicine.org/ContactUs/">Contact Johns Hopkins Medicine</a></li><li><a href="http://www.hopkinsmedicine.org/about/centers_departments/">Centers &amp; Departments</a></li><li><a href="http://www.hopkinsmedicine.org/directions/">Maps &amp; Directions</a></li><li><a href="http://www.hopkinsmedicine.org/doctors/index.html">Find a Doctor</a></li><li><a href="http://www.hopkinsmedicine.org/patient_care/">Patient Care</a></li><li><a href="http://www.hopkinsmedicine.org/education/">Education</a></li><li><a href="http://www.hopkinsmedicine.org/Research/">Research</a></li><li><a href="http://www.hopkinsmedicine.org/news/">News</a></li><li><a href="http://www.hopkinsmedicine.org/employment/index.html">Careers</a></li><li><a href="http://www.hopkinsmedicine.org/site_map.html">Site Map</a></li></ul></div><div class="footerMiddle"><p><a href="http://www.hopkinsmedicine.org/social_media/"><strong>Connect with Johns Hopkins Medicine</strong></a></p><div class="socialIcons"><a href="http://www.hopkinsmedicine.org/social_media/facebook.html"><img src="/sebin/d/k/icon_facebook.png" alt="Facebook Icon" height="23" hspace="0" vspace="0" width="23"> Facebook</a> <a href="http://www.hopkinsmedicine.org/social_media/twitter.html"><img src="/sebin/f/p/icon_twitter.png" alt="Twitter Icon" height="23" hspace="0" vspace="0" width="23"> Twitter</a> <a href="http://www.hopkinsmedicine.org/social_media/sharecare.html"><img src="/sebin/v/j/sharecare_icon.jpg" alt="Sharecare Icon" height="23" hspace="0" vspace="0" width="23"> Sharecare</a> <a href="http://www.hopkinsmedicine.org/social_media/blogs.html"><img src="/sebin/b/j/icon_blog.png" alt="Blog Icon" height="23" hspace="0" vspace="0" width="23"> Blogs</a> <a href="http://www.hopkinsmedicine.org/social_media/youtube.html"><img src="/sebin/r/d/icon_youtube.png" alt="YouTube Icon" height="23" hspace="0" vspace="0" width="23"> YouTube</a></div><br> <p><strong>Subscribe to Johns Hopkins Medicine News</strong></p><div class="socialIcons"><a href="http://www.hopkinsmedicine.org/news/RSSinstructions.html"><img src="/sebin/v/t/icon_rss.png" alt="RSS Icon" height="23" hspace="0" vspace="0" width="23"> RSS</a> <a href="http://www.hopkinsmedicine.org/news/audio/podcasts/"><img src="/sebin/d/i/icon_podcasts.png" alt="Podcast Icon" height="23" hspace="0" vspace="0" width="23"> Podcasts</a></div></div><div class="footerRight"><p><a title="Awards and Recognitions" href="http://www.hopkinsmedicine.org/about/awards_recognitions.html"><strong>Johns Hopkins Recent Recognitions</strong></a></p><p>&nbsp;&nbsp;<a title="Magnet Recognition" href="http://www.hopkinsmedicine.org/news/media/releases/The_Johns_Hopkins_Hospital_Earns_National_Recognition_for_Nursing_Excellence"><img src="/sebin/b/x/magnet1.png" alt="Magnet Recognition logo" height="66" hspace="0" vspace="0" width="79"></a></p></div><div class="reset">&nbsp;&nbsp;</div></div><div class="reset">&nbsp;</div><div class="reset">&nbsp;</div></div></div></div><div class="wrapperBottom"><div class="wbLeft">&nbsp;</div><div class="wbMiddle">&nbsp;</div><div class="wbRight">&nbsp;</div><div class="reset">&nbsp;</div></div><div class="footerNav"><!-- skip navigation removed from included pages --><p class="floatleft">© The Johns Hopkins University, The Johns Hopkins Hospital, and Johns Hopkins Health System. All rights reserved.</p><p class="floatright"><a href="http://www.hopkinsmedicine.org/Privacy/index.html">Privacy Policy and Disclaimer</a></p></div></div></div></div></div> 
+</style> <div class="jhiCTAWrapper"><div class="jhiCTAinfoBox"><h1><span class="bold">Traveling</span> for care?</h1><div class="jhiCTAinfoBoxImg"><img src="/sebin/z/v/suitcase.png" alt="blue suitcase"></div><p>Whether crossing the country or the globe, we make it easy to access world-class care at Johns Hopkins.</p></div><div class="jhiCTACentered"><div class="jhiCTAnumbersBox"><p>Maryland <strong>443-997-1508</strong><br> U.S. <strong>1-410-464-6713 (toll free)</strong><br> International <strong>+1-410-614-6424</strong></p></div></div><div class="jhiCTAlinksBox"><p class="discoverHeading">Ease your journey with our Medical Concierge Services:</p><ul><li><a href="http://www.hopkinsmedicine.org/usa/patient_information/">U.S. Patients (outside of Maryland)</a></li><li><a href="http://www.hopkinsmedicine.org/international/patients/">International Patients</a></li></ul></div></div><p><span>&nbsp;</span></p></div></div><div class="reset">&nbsp;</div><!-- skip navigation removed from included pages --><div class="contentFooter"><div class="footerLeft"><ul><li><a href="http://www.hopkinsmedicine.org/index.html"><strong>Home</strong></a></li><li><a href="http://www.hopkinsmedicine.org/about/">About Johns Hopkins Medicine</a></li><li><a href="http://www.hopkinsmedicine.org/ContactUs/">Contact Johns Hopkins Medicine</a></li><li><a href="http://www.hopkinsmedicine.org/about/centers_departments/">Centers &amp; Departments</a></li><li><a href="http://www.hopkinsmedicine.org/directions/">Maps &amp; Directions</a></li><li><a href="http://www.hopkinsmedicine.org/profiles/index.html">Find a Doctor</a></li><li><a href="http://www.hopkinsmedicine.org/patient_care/">Patient Care</a></li><li><a href="http://www.hopkinsmedicine.org/education/">Education</a></li><li><a href="http://www.hopkinsmedicine.org/Research/">Research</a></li><li><a href="http://www.hopkinsmedicine.org/news/">News</a></li><li><a href="http://www.hopkinsmedicine.org/employment/index.html">Careers</a></li></ul></div><div class="footerMiddle"><p><strong>Connect with Johns Hopkins Medicine</strong></p><div class="socialIcons"><a target="_blank" href="https://www.facebook.com/Johns.Hopkins.Medicine"><img src="/sebin/n/b/facebook-footer-icon.png" alt="Facebook Icon" height="23" hspace="0" vspace="0" width="23"> Facebook</a> <a target="_blank" href="https://twitter.com/HopkinsMedicine"><img src="/sebin/p/g/twitter-footer-logo.png" alt="Twitter Icon" height="23" hspace="0" vspace="0" width="23"> Twitter</a> <a target="_blank" href="http://www.youtube.com/user/JohnsHopkinsMedicine"><img src="/sebin/r/d/icon_youtube.png" alt="YouTube Icon" height="23" hspace="0" vspace="0" width="23"> YouTube</a> <a target="_blank" href="http://www.linkedin.com/company/johns-hopkins-medicine"><img src="/sebin/x/u/linkedin-footer-icon.png" alt="LinkedIn Icon" height="23" hspace="0" vspace="0" width="23"> LinkedIn</a><a target="_blank" href="https://plus.google.com/?wwc=1#117036896895720589586/about"><img src="/sebin/d/k/google-plus-footer-logo.png" alt="Google Plus Icon" height="23" hspace="0" vspace="0" width="23"> Google+</a><a target="_blank" href="http://instagram.com/hopkinsmedicine#"><img src="/sebin/h/a/instagram-footer-icon.png" alt="Instagram Icon" height="23" hspace="0" vspace="0" width="23"> Instagram</a><a target="_blank" href="http://www.sharecare.com/group/johns-hopkins-medicine"><img src="/sebin/v/j/sharecare_icon.jpg" alt="Sharecare Icon" height="23" hspace="0" vspace="0" width="23"> Sharecare</a><a href="http://www.hopkinsmedicine.org/news/e-newsletters/"><img src="/sebin/l/s/enews-footer-icon.png" alt="E-News Icon" height="23" hspace="0" vspace="0" width="23"> E-News</a><a href="http://www.hopkinsmedicine.org/news/audio/"><img src="/sebin/x/q/podcast-footer-logo.png" alt="Podcast Icon" height="23" hspace="0" vspace="0" width="23"> Podcasts</a></div><br> <p><a href="http://www.hopkinsmedicine.org/social_media/">Join Our Social Media Communities &gt;</a></p></div><div class="footerRight"><p>&nbsp;</p></div><div class="reset">&nbsp;</div></div><div class="reset">&nbsp;</div><div class="reset">&nbsp;</div></div></div></div><div class="wrapperBottom"><div class="wbLeft">&nbsp;</div><div class="wbMiddle">&nbsp;</div><div class="wbRight">&nbsp;</div><div class="reset">&nbsp;</div></div><div class="footerNav"><!-- skip navigation removed from included pages --><p class="floatleft">© The Johns Hopkins University, The Johns Hopkins Hospital, and Johns Hopkins Health System. All rights reserved.</p><p class="floatright"><a href="http://www.hopkinsmedicine.org/Privacy/index.html">Privacy Policy and Disclaimer</a></p></div></div></div></div></div> 
 
 
 </body></html>
