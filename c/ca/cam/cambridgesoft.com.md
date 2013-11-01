@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cambridgesoft.com privacy policy that was archived on 2013-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130525162848id_/http%3A//www.cambridgesoft.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cambridgesoft.com privacy policy that was archived on 2013-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131101071938id_/http%3A//www.cambridgesoft.com/privacy) for the most accurate reproduction.*
 
 # PerkinElmer Informatics Privacy Policy
 
