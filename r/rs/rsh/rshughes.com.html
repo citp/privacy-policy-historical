@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the rshughes.com privacy policy that was archived on 2013-06-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130630215253id_/http%3A//www.rshughes.com/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the rshughes.com privacy policy that was archived on 2013-11-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131102011722id_/http%3A//www.rshughes.com/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html lang="en" xml:lang="en"><head>
 <title>R.S.Hughes Privacy Policy</title>
@@ -14,7 +14,7 @@
 <link href="http://static.rshughes.com/images/favicon.ico" rel="icon">
 
 
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="http://www.rshughes.com/images/js/init.min.js?t=20130132" type="text/javascript"></script>
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="http://www.rshughes.com/images/js/dev/init.js?ts=20130132" type="text/javascript"></script>
 
 
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
@@ -26,7 +26,7 @@
 
 
 
-<script src="http://www.rshughes.com/images/js/suggest.min.js?t=20130132" type="text/javascript"></script>
+<script src="http://www.rshughes.com/images/js/dev/suggest.js?ts=2013091801" type="text/javascript"></script>
 
 
 
@@ -37,7 +37,7 @@
 
 
 
-<script src="http://www.rshughes.com/images/js/ui-support.min.js?t=2013042202" type="text/javascript"></script>
+<script src="http://www.rshughes.com/images/js/dev/ui-support.js?ts=2013042202" type="text/javascript"></script>
 
 <link href="http://www.rshughes.com/images/css/dev/styles.css?t=20130128" rel="stylesheet" type="text/css" media="all">
 <link href="http://www.rshughes.com/images/css/dev/screen.css?t=20130128" rel="stylesheet" type="text/css" media="screen,projection">
@@ -65,6 +65,8 @@ _gaq.push(['_setAccount','UA-625198-1']);
 <!--[if IE 8 ]>    <body class="msie8"> <![endif]-->
 <!--[if IE 9 ]>    <body class="msie9"> <![endif]-->
 <!--[if (gt IE 9)|!(IE)]><!--><body><!--<![endif]-->
+
+
 
 
 
@@ -196,7 +198,11 @@ $(function(){
   // Not focusing on mobile devices. Focusing forces opening their
   // on-screen keyboard.
   //
-  if(!ismobile) {
+  // Also not focusing if there is more than one text input element.
+  // This is most likely a form of some sort and it has its own focusing
+  // and element controls.
+  //
+  if(!ismobile && $('input[type="text"]').length==1) {
     $('#search-main-input').focus();
   }
 });
