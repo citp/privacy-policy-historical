@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the opentopia.com privacy policy that was archived on 2013-05-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130523042253id_/http%3A//www.opentopia.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the opentopia.com privacy policy that was archived on 2013-11-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131102043653id_/http%3A//www.opentopia.com/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html version="HTML+RDFa 1.1" lang="en"><head>
 <meta http-equiv="Content-Type" content="text/html;charset=utf-8">
@@ -20,7 +20,14 @@
 <script src="/js/jquery.loginmodal.js"></script>
 <script src="/js/jquery.forgetmodal.js"></script>
 <script src="/js/jquery.forgetsuccessmodal.js"></script>
-<script src="/js/application.js?time=1369282972"></script>
+<script src="/js/json2.js"></script>
+<script src="/js/jquery.cookie.js"></script>
+<script src="/js/websocket_rails/websocket_rails.js"></script>
+<script src="/js/websocket_rails/event.js"></script>
+<script src="/js/websocket_rails/http_connection.js"></script>
+<script src="/js/websocket_rails/websocket_connection.js"></script>
+<script src="/js/websocket_rails/channel.js"></script>
+<script src="/js/application.js?time=1383367013"></script>
 <script src="/js/tiny_mce/tiny_mce.js"></script>
 <script src="http://maps.google.com/maps/api/js?sensor=false"></script>
 <link rel="shortcut icon" href="/favicon.ico">
@@ -40,7 +47,7 @@
 			<div id="headertop">
 									<span id="welcome">Welcome, guest </span>
 					<div class="fb-login-button" data-show-faces="false" data-width="200" data-max-rows="1" style="display:inline"></div>
-					<!--<div class="fb-login-button" style="display:inline"><a href="https://www.facebook.com/dialog/oauth?client_id=102047243191178&redirect_uri=http%3A%2F%2Fwww.opentopia.com%2Fprivacy.php&state=ff9db519d4216088ce5a1ec9858440dd">FBLogin</a></div>-->
+					<!--<div class="fb-login-button" style="display:inline"><a href="https://www.facebook.com/dialog/oauth?client_id=102047243191178&redirect_uri=http%3A%2F%2Fwww.opentopia.com%2Fprivacy.php&state=5d3e6b1a0a7b117cd2decd9fb819a7fa">FBLogin</a></div>-->
 					or <a href="/login.php">Sign In</a>/<a href="/join.php">Join OpenTopia</a>
 							</div>
 			<div id="menu">
@@ -165,56 +172,35 @@
 
 <div id="fb-root"></div>
 <script>
-// Load the FB SDK Asynchronously
+// Load the FB SDK Asynchronously. http://developers.facebook.com/docs/facebook-login/getting-started-web/
 (function(d){
    var js, id = 'facebook-jssdk', ref = d.getElementsByTagName('script')[0];
    if (d.getElementById(id)) {return;}
    js = d.createElement('script'); js.id = id; js.async = true;
    js.src = "//connect.facebook.net/en_US/all.js";
    ref.parentNode.insertBefore(js, ref);
- }(document));
+}(document));
 window.fbAsyncInit = function() {
   FB.init({
     appId      : '102047243191178',
-	 channelUrl : '//www.opentopia.com/channel.html', // Channel File
+	  channelUrl : 'http://www.opentopia.com/channel.php', // Channel File
     status     : true, // check login status
     cookie     : true, // enable cookies to allow the server to access the session
     xfbml      : true,
     oauth      : true,
   });
-
+  
   FB.Event.subscribe('auth.login', function(response) {
-          window.location.reload();
+    window.location.reload();
   });
   FB.Event.subscribe('auth.logout', function(response) {
-	 Cookie.clear("mid");
-	 Cookie.clear("xid");
-	 Cookie.clear("uid");	
-    //window.location.reload();
-	 window.location.href = "/index.php?logout=1";
+    Cookie.clear("mid");
+    Cookie.clear("xid");
+    Cookie.clear("uid");	
+    window.location.href = '?logout=1';
   });
-
-
-
 
 };
-
-
-  FB.Event.subscribe('auth.sessionChange', function(response) {
-    if (response.session) {
-      // A user has logged in, and a new cookie has been saved
-		//alert('sessionChange: login');
-		Cookie.set("through","facebook");
-      window.location.reload();
-    } else {
-      // The user has logged out, and the cookie has been cleared
-		//alert('sessionChange: logout');
-		Cookie.clear("mid");
-		Cookie.clear("xid");
-		Cookie.clear("uid");	
-      window.location.reload();
-    }
-  });
 </script>
 
 <script type="text/javascript">
