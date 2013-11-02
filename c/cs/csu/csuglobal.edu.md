@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the csuglobal.edu privacy policy that was archived on 2013-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130514083835id_/http%3A//csuglobal.edu/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the csuglobal.edu privacy policy that was archived on 2013-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131102145617id_/http%3A//csuglobal.edu/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy at Colorado State University - Global Campus
 
