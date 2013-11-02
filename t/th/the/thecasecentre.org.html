@@ -1,0 +1,1357 @@
+<!--The following is the downloaded HTML source of the thecasecentre.org privacy policy that was archived on 2013-11-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131102133626id_/http%3A//www.thecasecentre.org/educators/myaccount/privacy) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" prefix="og: http://ogp.me/ns#" xmlns:og="http://opengraphprotocol.org/schema/"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta http-equiv="Content-Style-Type" content="text/css">
+<meta http-equiv="Content-Script-Type" content="text/javascript">
+<meta name="SKYPE_TOOLBAR" content="SKYPE_TOOLBAR_PARSER_COMPATIBLE">
+<meta property="og:image" content="http://www.thecasecentre.org/includes/siteimagescasecentrelogo.jpg">
+<meta property="og:image" content="http://www.thecasecentre.org//files/images/box/cstphone.jpg">
+<meta name="twitter:description" content="Details of our privacy">
+<meta name="twitter:image" content="http://www.thecasecentre.org/includes/siteimagescasecentrelogo.jpg">
+<meta name="twitter:image" content="http://www.thecasecentre.org//files/images/box/cstphone.jpg">
+<meta name="description" content="Details of our privacy">
+<meta property="article:author" content="http://www.thecasecentre.org/educators/aboutus/organisation/mission">
+<meta name="title" content="Privacy policy">
+<meta name="twitter:creator" content="@@thecasecentre">
+<meta property="og:site_name" content="thecasecentre.org">
+<meta property="og:type" content="article">
+<meta name="keywords" content="privacy policy">
+<meta name="twitter:site:id" content="267262002">
+<meta name="twitter:title" content="Privacy policy">
+<meta name="twitter:card" content="article">
+<meta name="twitter:site" content="@@thecasecentre">
+<meta property="og:description" content="Details of our privacy">
+<meta property="og:title" content="Privacy policy">
+<meta property="og:url" content="http://www.thecasecentre.org/educators/myaccount/privacy">
+<link href="/favicon.ico?tcc=1" rel="shortcut icon">
+<title>
+ Privacy policy |
+ 
+ The Case Centre, for educators
+ </title>
+<script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="/includes/js/jquery-1.9.1.min.js"></script>
+<script type="text/javascript" src="/includes/js/jquery-ui-1.10.1.min.js"></script>
+<script type="text/javascript" src="/includes/js/potato/jquery.ui.potato.menu-min.js?version=20130315j"></script>
+<script type="text/javascript" src="/includes/js/jquery.easing.1.3.js?version=20130315j"></script>
+<script type="text/javascript" src="/includes/js/jquery.ecch.menu.js?version=20130315j"></script>
+<script type="text/javascript" src="/includes/js/jquery.impromptu/jquery.impromptu.js?version=20130315j"></script>
+<script type="text/javascript" src="/includes/js/jquery.overlay.js?version=20130315j"></script>
+<script type="text/javascript" src="/includes/js/jquery.ecch.js?version=20130315j"></script>
+<script type="text/javascript" src="/includes/js/jquery.cc.js?version=?version=20130315j"></script>
+<script type="text/javascript" src="/includes/js/jquery.ecch.basket.js?version=20130315j"></script>
+<script type="text/javascript" src="/includes/js/jquery.verification/jquery.verification.js?version=20130315j"></script>
+<script type="text/javascript" src="/includes/js/facebox-1.3/src/facebox.js?version=20130315j"></script>
+<script type="text/javascript" src="/includes/js/date.js?version=20130315j"></script>
+<script type="text/javascript" src="/includes/js/jquery.form.js?version=20130315j"></script>
+<script type="text/javascript" src="/includes/js/jquery.tipsy.js?version=20130315j"></script>
+<script type="text/javascript" src="/includes/js/jquery.review.js?version=20130315j"></script>
+<script type="text/javascript" src="/includes/js/jquery.ecch.ajaxFileUpload.js?version=20130315j"></script>
+<script type="text/javascript" src="/includes/js/underscore-min.js"></script>
+<script type="text/javascript" src="/includes/js/backbone-min.js"></script>
+<script type="text/javascript">
+ function createModal(triggerElement, theURL, data, title, minWidth, theHeight) {
+ ajaxURL = theURL;
+ 
+ var rt = 0;
+ var $trig = $(triggerElement);
+ if (($trig.length >= 1) && (typeof $trig.attr('rt') != 'undefined') && ($trig.attr('rt').length)) {
+ var findRtRE = new RegExp('^.*\?rt\=.*$');
+ if (!ajaxURL.match(findRtRE))
+ ajaxURL += "?rt=" + $trig.attr('rt');
+ }
+ if (data.length > 0) {
+ if (ajaxURL.indexOf("?") > -1) {
+ ajaxURL += '&' + data;
+ } else {
+ ajaxURL += '?' + data;
+ }
+ }
+ $.facebox({
+ ajax: ajaxURL,
+ closeImage: 'http://www.thecasecentre.org/includes/siteimages/educators//delete.png',
+ loadingImage: 'http://www.thecasecentre.org/includes/siteimages//loader.gif',
+ title: title,
+ width: minWidth,
+ height: theHeight
+ })
+ }
+ </script>
+<script type="text/javascript">
+ $(document).ready(function() {
+ var modal_trigger_mode = 1; // 1 is ? and &, 2 is /
+ 
+ 
+ // AB 5-Nov-2012. Check whether we are already displaying a modal and adjust behaviour.
+ var ajaxURL = '/educators/products/ajaxView';
+ var oldajaxURL = '/educators/products/ajaxView';
+ //if ($('#facebox').length && (ajaxURL.toLowerCase().indexOf("/ordering/buying/prices") >= 0 || ajaxURL.toLowerCase().indexOf("/review/displaycomments/reviewid") >= 0)) {
+ if ($('#facebox').length && ajaxURL.toLowerCase().indexOf("/ordering/buying/prices") >= 0) {
+ var serial = '';
+ var priceGuidePos = ajaxURL.toLowerCase().indexOf("?ovrtemplate=modal");
+ 
+ if (priceGuidePos >= 0) {
+ //If we found the question mark and parameter, we need to remove them as this seems to mess things up.
+ ajaxURL = ajaxURL.substr(0, priceGuidePos);
+ }
+ 
+ 
+ if ((modal_trigger_mode == 1) && (serial.length > 0))
+ serial = "?" + serial;
+ ajaxURL += serial;
+ $('.product_modal').attr("href", ajaxURL);
+ } else {
+ $(document).on('click', '.product_modal', function(evt) {
+ var deepElement = evt.isDefaultPrevented();
+ 
+ if (!deepElement) {
+ evt.preventDefault();
+ 
+ var ajaxURL = '/educators/products/ajaxView';
+ var attribs = $.getAttributes($(this));
+ 
+ var serial = '';
+ $.each(attribs, function(name, value) {
+ if ((name != 'class') && (name != 'style') && (name != 'href')) {
+ if (modal_trigger_mode == 1)
+ serial += name + '=' + escape(value) + '&';
+ else
+ serial += '/' + name + '/' + escape(value);
+ }
+ 
+ })
+ 
+ 
+ var data = '';
+ 
+ if ((modal_trigger_mode == 1) && (serial.length > 0))
+ serial = "?" + serial;
+ ajaxURL += serial;
+ createModal(
+ $(this),
+ ajaxURL,
+ data,
+ 'Product preview',
+ 850,
+ 500
+ );
+ }
+ })
+ }
+ 
+ })
+ </script>
+<script>
+ (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+ (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+ m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+ })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ 
+ ga('create', 'UA-42157693-1', 'thecasecentre.org');
+ ga('send', 'pageview');
+ </script>
+<link href="/includes/css/combined_main.css?version=190B3923-D7B7-F606-9DD9EC716625B33B" rel="stylesheet" type="text/css">
+<link href="/includes/css/main_educators.css?i=2013110213" rel="stylesheet" type="text/css">
+<link href="/includes/css/cc/combined_main.css?version=190B3924-F42F-F16A-8C967565D02DDD64" rel="stylesheet" type="text/css">
+<link href="/includes/css/cc/main_educators.css?i=2013110213" rel="stylesheet" type="text/css">
+<!--[if IE 6]>
+<link rel="stylesheet" type="text/css" href="/includes/css/combined_ie6.css" />
+<![endif]-->
+<!--[if IE 7]>
+<link rel="stylesheet" type="text/css" href="/includes/css/combined_ie6.css" />
+<![endif]-->
+<!--[if IE 8]>
+<link rel="stylesheet" type="text/css" href="/includes/css/combined_ie6.css" />
+<![endif]-->
+<link href="/includes/js/jquery-ui-1.8.4.custom/css/ui-lightness/jquery-ui-1.8.4.custom.css" rel="stylesheet" type="text/css">
+<link rel="stylesheet" href="/includes/js/jquery.verification/jquery.verification.css">
+<link href="/includes/css/jquery_tipsy.css" rel="stylesheet" type="text/css">
+<link href="/includes/js/facebox-1.3/src/facebox.css" rel="stylesheet" type="text/css">
+<link href="/includes/js/jquery.impromptu/jquery.impromptu.css" rel="stylesheet" type="text/css">
+<link href="/includes/css/messages.css" rel="stylesheet" type="text/css">
+<link href="/includes/css/siteWide.css" rel="stylesheet" type="text/css">
+<link rel="stylesheet" href="/includes/css/font-awesome/css/font-awesome.min.css?version=190B3925-BE36-E8E9-B3C8CDF6961B8711">
+<!--[if IE 7]>
+<link rel="stylesheet" href="/includes/css/font-awesome/css/font-awesome-ie7.min.css?version=190B3926-C6B8-02FC-3E21CD7976F1C996">
+<![endif]-->
+<link href="/includes/css/jqueryuicustom.css?version=190B3927-B279-527C-DD04DD1658439139" rel="stylesheet" type="text/css">
+<!-- Standard -->
+</head>
+<body id="body-educators" class="template_Standard">
+<div class="topHeaderWrapper">
+<div class="topHeader">
+<div class="floatright">
+<form id="search_cms_form" method="post" action="/educators/search/searchCMS">
+<input type="text" name="term_1" id="term_1" value="Site search" onclick="this.value=''" original="Site search">
+<input type="hidden" name="site_id" id="site_id" value="2">
+<input type="submit" name="search_cms" id="search_cms" value="GO" class="site_colour_bg">
+</form>
+</div>
+<div class="floatright topHeaderPadded"><a href="/educators/myaccount/privacy">Privacy &amp; cookies</a>&nbsp;&nbsp;&nbsp;&nbsp;</div>
+<div class="floatright topHeaderPadded"><a href="/educators/aboutUs/people/contact">Contact us</a>&nbsp;|&nbsp;</div>
+<div class="floatright topHeaderPadded"><a href="/educators/">Home</a>&nbsp;|&nbsp;</div>
+<div class="clear"></div>
+</div>
+<div class="clear"></div>
+</div>
+<div class="clear"></div>
+<div class="headerContainer">
+<input type="hidden" name="site_root" id="site_root" value="/educators">
+<div class="headerContent">
+<div class="headerAreaNav">
+<ul>
+<li id="areaNavEducatorsOn">
+<a href="/educators/"><span>Educators</span></a>
+</li>
+<li id="areaNavProgrammeAdmins">
+<a href="/programmeAdmin/"><span>Programme Administrators</span></a>
+</li>
+<li id="areaNavCorporateCustomers">
+<a href="/corporate/"><span>Corporate Customers</span></a></li>
+<li id="areaNavStudents">
+<a href="/students/"><span>Students</span></a>
+</li>
+</ul>
+</div>
+<div class="clear"></div>
+<div id="headerLogo">
+<a href="/educators">
+<img src="/includes/siteimages/casecentrelogo.jpg" alt="The Case Centre">
+</a>
+</div>
+<div id="headerBasket" site_root="/educators">
+<div class="clear"></div>
+</div>
+<div class="headerAccount">
+<div id="headerAccount_loggedin_top" style="padding-top:2px">
+<img src="/includes/siteimages/educators/header_icon_account.gif" align="absmiddle" border="0" style="padding-right:4px">
+<a class="fake-pointer login-trigger" href="" header_login="1">login</a>&nbsp;or&nbsp;<a href="/educators/myaccount/">register</a>
+</div>
+</div>
+<div class="clear"></div>
+<script type="text/javascript">
+ $(document).ready(function() {
+ var modal_trigger_mode = 1; // 1 is ? and &, 2 is /
+ 
+ 
+ // AB 5-Nov-2012. Check whether we are already displaying a modal and adjust behaviour.
+ var ajaxURL = '/educators/myaccount/ajaxLogin';
+ var oldajaxURL = '/educators/myaccount/ajaxLogin';
+ //if ($('#facebox').length && (ajaxURL.toLowerCase().indexOf("/ordering/buying/prices") >= 0 || ajaxURL.toLowerCase().indexOf("/review/displaycomments/reviewid") >= 0)) {
+ if ($('#facebox').length && ajaxURL.toLowerCase().indexOf("/ordering/buying/prices") >= 0) {
+ var serial = '';
+ var priceGuidePos = ajaxURL.toLowerCase().indexOf("?ovrtemplate=modal");
+ 
+ if (priceGuidePos >= 0) {
+ //If we found the question mark and parameter, we need to remove them as this seems to mess things up.
+ ajaxURL = ajaxURL.substr(0, priceGuidePos);
+ }
+ 
+ 
+ if ((modal_trigger_mode == 1) && (serial.length > 0))
+ serial = "?" + serial;
+ ajaxURL += serial;
+ $('.login-trigger').attr("href", ajaxURL);
+ } else {
+ $(document).on('click', '.login-trigger', function(evt) {
+ var deepElement = evt.isDefaultPrevented();
+ 
+ if (!deepElement) {
+ evt.preventDefault();
+ 
+ var ajaxURL = '/educators/myaccount/ajaxLogin';
+ var attribs = $.getAttributes($(this));
+ 
+ var serial = '';
+ $.each(attribs, function(name, value) {
+ if ((name != 'class') && (name != 'style') && (name != 'href')) {
+ if (modal_trigger_mode == 1)
+ serial += name + '=' + escape(value) + '&';
+ else
+ serial += '/' + name + '/' + escape(value);
+ }
+ 
+ })
+ 
+ 
+ var data = '';
+ 
+ if ((modal_trigger_mode == 1) && (serial.length > 0))
+ serial = "?" + serial;
+ ajaxURL += serial;
+ createModal(
+ $(this),
+ ajaxURL,
+ data,
+ 'Login to our site',
+ 560,
+ 280
+ );
+ }
+ })
+ }
+ 
+ })
+ </script>
+<script type="text/javascript">
+ $(document).ready(function() {
+ var modal_trigger_mode = 1; // 1 is ? and &, 2 is /
+ 
+ 
+ // AB 5-Nov-2012. Check whether we are already displaying a modal and adjust behaviour.
+ var ajaxURL = '/educators/myaccount/ajaxLogin/nextstep/2/switch/true';
+ var oldajaxURL = '/educators/myaccount/ajaxLogin/nextstep/2/switch/true';
+ //if ($('#facebox').length && (ajaxURL.toLowerCase().indexOf("/ordering/buying/prices") >= 0 || ajaxURL.toLowerCase().indexOf("/review/displaycomments/reviewid") >= 0)) {
+ if ($('#facebox').length && ajaxURL.toLowerCase().indexOf("/ordering/buying/prices") >= 0) {
+ var serial = '';
+ var priceGuidePos = ajaxURL.toLowerCase().indexOf("?ovrtemplate=modal");
+ 
+ if (priceGuidePos >= 0) {
+ //If we found the question mark and parameter, we need to remove them as this seems to mess things up.
+ ajaxURL = ajaxURL.substr(0, priceGuidePos);
+ }
+ 
+ 
+ if ((modal_trigger_mode == 1) && (serial.length > 0))
+ serial = "?" + serial;
+ ajaxURL += serial;
+ $('#headerAccount_switch_org').attr("href", ajaxURL);
+ } else {
+ $(document).on('click', '#headerAccount_switch_org', function(evt) {
+ var deepElement = evt.isDefaultPrevented();
+ 
+ if (!deepElement) {
+ evt.preventDefault();
+ 
+ var ajaxURL = '/educators/myaccount/ajaxLogin/nextstep/2/switch/true';
+ var attribs = $.getAttributes($(this));
+ 
+ var serial = '';
+ $.each(attribs, function(name, value) {
+ if ((name != 'class') && (name != 'style') && (name != 'href')) {
+ if (modal_trigger_mode == 1)
+ serial += name + '=' + escape(value) + '&';
+ else
+ serial += '/' + name + '/' + escape(value);
+ }
+ 
+ })
+ 
+ 
+ var data = '';
+ 
+ if ((modal_trigger_mode == 1) && (serial.length > 0))
+ serial = "?" + serial;
+ ajaxURL += serial;
+ createModal(
+ $(this),
+ ajaxURL,
+ data,
+ 'Switch organisation',
+ 400,
+ 200
+ );
+ }
+ })
+ }
+ 
+ })
+ </script>
+<div class="clear"></div>
+</div>
+</div>
+<div class="navContainer site_colour_bg">
+<div class="navContent">
+<link rel="stylesheet" type="text/css" href="http://www.thecasecentre.org/includes/js/superfish/css/superfish.css">
+<script type="text/javascript" src="http://www.thecasecentre.org/includes/js/superfish/js/superfish.js?ts=20130710"></script>
+<ul id="main_menu" class="sf-menu" style="opacity: 1;">
+<li class="sf_menu_item sf_menu_item_level_1">
+<a href="/educators/">Home</a>
+</li>
+<li class="sf_menu_item sf_menu_item_level_1">
+<a href="#">About us</a>
+<ul>
+<li class="sf_menu_item sf_menu_item_level_2">
+<a href="#">Organisation</a>
+<ul>
+<li class="sf_menu_item sf_menu_item_level_3">
+<a href="/educators/aboutus/organisation/history">Our history</a>
+</li>
+<li class="sf_menu_item sf_menu_item_level_3">
+<a href="/educators/aboutus/organisation/whatwedo">What we do</a>
+</li>
+</ul>
+</li>
+<li class="sf_menu_item sf_menu_item_level_2">
+<a href="#">40th anniversary</a>
+<ul>
+<li class="sf_menu_item sf_menu_item_level_3">
+<a href="/educators/aboutus/40anniversary/introduction">Introduction</a>
+</li>
+<li class="sf_menu_item sf_menu_item_level_3">
+<a href="/educators/aboutus/40anniversary/40timeline">Timeline 1973-2013</a>
+</li>
+<li class="sf_menu_item sf_menu_item_level_3">
+<a href="/educators/aboutus/40anniversary/conference/overview">Anniversary conference</a>
+</li>
+</ul>
+</li>
+<li class="sf_menu_item sf_menu_item_level_2">
+<a href="#">Membership</a>
+<ul>
+<li class="sf_menu_item sf_menu_item_level_3">
+<a href="/educators/aboutus/membership/about">Find out more</a>
+</li>
+<li class="sf_menu_item sf_menu_item_level_3">
+<a href="/educators/aboutus/membership/apply">How to become a member</a>
+</li>
+<li class="sf_menu_item sf_menu_item_level_3">
+<a href="/educators/aboutus/membership/memberslist1">List of members</a>
+</li>
+</ul>
+</li>
+<li class="sf_menu_item sf_menu_item_level_2">
+<a href="#">People</a>
+<ul>
+<li class="sf_menu_item sf_menu_item_level_3">
+<a href="/educators/aboutus/people/staff">Meet our team</a>
+</li>
+<li class="sf_menu_item sf_menu_item_level_3">
+<a href="/educators/aboutus/people/executive">Executive committee</a>
+</li>
+<li class="sf_menu_item sf_menu_item_level_3">
+<a href="http://ecch-richard.blogspot.com/">Read our Director's blog</a>
+</li>
+<li class="sf_menu_item sf_menu_item_level_3">
+<a href="/educators/aboutus/people/contact">Contact us</a>
+</li>
+<li class="sf_menu_item sf_menu_item_level_3">
+<a href="/educators/aboutus/people/jobs">Job opportunities</a>
+</li>
+</ul>
+</li>
+<li class="sf_menu_item sf_menu_item_level_2">
+<a href="#">Locations</a>
+<ul>
+<li class="sf_menu_item sf_menu_item_level_3">
+<a href="/educators/aboutus/locations/ukoffice">UK office</a>
+</li>
+<li class="sf_menu_item sf_menu_item_level_3">
+<a href="/educators/aboutus/locations/usoffice">US office</a>
+</li>
+</ul>
+</li>
+<li class="sf_menu_item sf_menu_item_level_2">
+<a href="#">News &amp; press info</a>
+<ul>
+<li class="sf_menu_item sf_menu_item_level_3">
+<a href="/educators/aboutus/news/newsitems">News items</a>
+</li>
+<li class="sf_menu_item sf_menu_item_level_3">
+<a href="/educators/aboutus/news/press/facts">Facts about us</a>
+</li>
+<li class="sf_menu_item sf_menu_item_level_3">
+<a href="/educators/aboutus/news/press/casefacts">Case facts</a>
+</li>
+<li class="sf_menu_item sf_menu_item_level_3">
+<a href="/educators/aboutus/news/press/faqs">Press FAQs</a>
+</li>
+<li class="sf_menu_item sf_menu_item_level_3">
+<a href="/educators/aboutus/news/intro">Brand guidelines</a>
+</li>
+<li class="sf_menu_item sf_menu_item_level_3">
+<a href="/educators/casemethod/resources/connect">E-bulletin</a>
+</li>
+</ul>
+</li>
+<li class="sf_menu_item sf_menu_item_level_2">
+<a href="#">Website</a>
+<ul>
+<li class="sf_menu_item sf_menu_item_level_3">
+<a href="/educators/aboutus/website/feedback">Feedback</a>
+</li>
+<li class="sf_menu_item sf_menu_item_level_3">
+<a href="/educators/aboutus/website/downtime">Scheduled downtime</a>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="sf_menu_item sf_menu_item_level_1">
+<a href="#">Case method</a>
+<ul>
+<li class="sf_menu_item sf_menu_item_level_2">
+<a href="#">An introduction</a>
+<ul>
+<li class="sf_menu_item sf_menu_item_level_3">
+<a href="/educators/casemethod/introduction/whatis">What is the case method?</a>
+</li>
+<li class="sf_menu_item sf_menu_item_level_3">
+<a href="/educators/casemethod/introduction/benefits">Benefits of using cases</a>
+</li>
+<li class="sf_menu_item sf_menu_item_level_3">
+<a href="/educators/casemethod/resources/videocasemethod">Watch video clips</a>
+</li>
+</ul>
+</li>
+<li class="sf_menu_item sf_menu_item_level_2">
+<a href="#">Training</a>
+<ul>
+<li class="sf_menu_item sf_menu_item_level_3">
+<a href="/educators/casemethod/training/currentevents">Current events</a>
+</li>
+<li class="sf_menu_item sf_menu_item_level_3">
+<a href="/educators/casemethod/training/open">Open programme</a>
+</li>
+<li class="sf_menu_item sf_menu_item_level_3">
+<a href="/educators/casemethod/training/customised">Customised training</a>
+</li>
+<li class="sf_menu_item sf_menu_item_level_3">
+<a href="/educators/casemethod/training/students">Sessions for students</a>
+</li>
+<li class="sf_menu_item sf_menu_item_level_3">
+<a href="/educators/casemethod/training/tutorlist">Tutor profiles</a>
+</li>
+</ul>
+</li>
+<li class="sf_menu_item sf_menu_item_level_2">
+<a href="#">Resources</a>
+<ul>
+<li class="sf_menu_item sf_menu_item_level_3">
+<a href="/educators/casemethod/resources/books">Books</a>
+</li>
+<li class="sf_menu_item sf_menu_item_level_3">
+<a href="/educators/casemethod/resources/articles">Articles</a>
+</li>
+<li class="sf_menu_item sf_menu_item_level_3">
+<a href="/educators/casemethod/resources/videocasemethod">Video clips</a>
+</li>
+<li class="sf_menu_item sf_menu_item_level_3">
+<a href="/educators/casemethod/resources/featureslist">Features</a>
+</li>
+<li class="sf_menu_item sf_menu_item_level_3">
+<a href="/educators/casemethod/resources/freecasesoverview">Free cases</a>
+</li>
+<li class="sf_menu_item sf_menu_item_level_3">
+<a href="/educators/ordering/selecting/featured">Featured cases</a>
+</li>
+<li class="sf_menu_item sf_menu_item_level_3">
+<a href="/educators/casemethod/resources/connect">E-bulletin</a>
+</li>
+</ul>
+</li>
+<li class="sf_menu_item sf_menu_item_level_2">
+<a href="#">Research</a>
+<ul>
+<li class="sf_menu_item sf_menu_item_level_3">
+<a href="/educators/casemethod/research/projects">Existing projects</a>
+</li>
+</ul>
+</li>
+<li class="sf_menu_item sf_menu_item_level_2">
+<a href="#">Competitions</a>
+<ul>
+<li class="sf_menu_item sf_menu_item_level_3">
+<a href="/educators/casemethod/competitions/casewritingcomp/about">Our case writing competition</a>
+</li>
+<li class="sf_menu_item sf_menu_item_level_3">
+<a href="/educators/casemethod/competitions/caseteachingcomp/about">Our case teaching competition</a>
+</li>
+<li class="sf_menu_item sf_menu_item_level_3">
+<a href="/educators/casemethod/competitions/casewriting">Writing competitions</a>
+</li>
+<li class="sf_menu_item sf_menu_item_level_3">
+<a href="/educators/casemethod/competitions/students">Student competitions</a>
+</li>
+</ul>
+</li>
+<li class="sf_menu_item sf_menu_item_level_2">
+<a href="#">The Case Centre Awards</a>
+<ul>
+<li class="sf_menu_item sf_menu_item_level_3">
+<a href="/educators/casemethod/awards/about">About the Awards</a>
+</li>
+<li class="sf_menu_item sf_menu_item_level_3">
+<a href="/educators/casemethod/awards/winners/2013">2013 winners</a>
+</li>
+<li class="sf_menu_item sf_menu_item_level_3">
+<a href="/educators/casemethod/awards/previouswinners">Previous winners</a>
+</li>
+</ul>
+</li>
+<li class="sf_menu_item sf_menu_item_level_2">
+<a href="#">Conferences</a>
+<ul>
+<li class="sf_menu_item sf_menu_item_level_3">
+<a href="/educators/casemethod/conferences/events">Current events</a>
+</li>
+<li class="sf_menu_item sf_menu_item_level_3">
+<a href="/educators/aboutus/40anniversary/conference/overview">Anniversary conference</a>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="sf_menu_item sf_menu_item_level_1">
+<a href="#">Submit cases</a>
+<ul>
+<li class="sf_menu_item sf_menu_item_level_2">
+<a href="#">Submitting to us</a>
+<ul>
+<li class="sf_menu_item sf_menu_item_level_3">
+<a href="/educators/submitcases/process/why">Why submit?</a>
+</li>
+<li class="sf_menu_item sf_menu_item_level_3">
+<a href="/educators/submitcases/process/how">How to submit</a>
+</li>
+<li class="sf_menu_item sf_menu_item_level_3">
+<a href="/educators/submitcases/process/copyright">Copyright</a>
+</li>
+<li class="sf_menu_item sf_menu_item_level_3">
+<a href="/educators/submitcases/process/withdrawals">Withdrawal policy</a>
+</li>
+</ul>
+</li>
+<li class="sf_menu_item sf_menu_item_level_2">
+<a href="#">Scholarships</a>
+<ul>
+<li class="sf_menu_item sf_menu_item_level_3">
+<a href="/educators/submitcases/scholarships/about">About</a>
+</li>
+<li class="sf_menu_item sf_menu_item_level_3">
+<a href="/educators/submitcases/scholarships/apply">Apply on-line</a>
+</li>
+<li class="sf_menu_item sf_menu_item_level_3">
+<a href="/educators/submitcases/scholarships/cases">Scholarship cases</a>
+</li>
+</ul>
+</li>
+<li class="sf_menu_item sf_menu_item_level_2">
+<a href="#">Case writing guidance</a>
+<ul>
+<li class="sf_menu_item sf_menu_item_level_3">
+<a href="/educators/submitcases/guidance/resources">Resources</a>
+</li>
+<li class="sf_menu_item sf_menu_item_level_3">
+<a href="/educators/submitcases/guidance/teachingnotes">Teaching notes</a>
+</li>
+<li class="sf_menu_item sf_menu_item_level_3">
+<a href="/educators/submitcases/guidance/caserelease">Case release</a>
+</li>
+<li class="sf_menu_item sf_menu_item_level_3">
+<a href="/educators/casemethod/resources/videocasewriting">Video clips</a>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="sf_menu_item sf_menu_item_level_1">
+<a href="#">Ordering</a>
+<ul>
+<li class="sf_menu_item sf_menu_item_level_2">
+<a href="#">What's available</a>
+<ul>
+<li class="sf_menu_item sf_menu_item_level_3">
+<a href="/educators/ordering/whatsavailable/overview">An overview</a>
+</li>
+<li class="sf_menu_item sf_menu_item_level_3">
+<a href="/educators/ordering/whatsavailable/cases">Case studies</a>
+</li>
+<li class="sf_menu_item sf_menu_item_level_3">
+<a href="/educators/ordering/whatsavailable/managementarticles">Management articles</a>
+</li>
+<li class="sf_menu_item sf_menu_item_level_3">
+<a href="/educators/ordering/whatsavailable/bookchapters">Book chapters</a>
+</li>
+<li class="sf_menu_item sf_menu_item_level_3">
+<a href="/educators/ordering/whatsavailable/instructors">Instructor materials</a>
+</li>
+<li class="sf_menu_item sf_menu_item_level_3">
+<a href="/educators/casemethod/resources/books">Case method books</a>
+</li>
+<li class="sf_menu_item sf_menu_item_level_3">
+<a href="/educators/ordering/whatsavailable/multimedia">Multimedia</a>
+</li>
+<li class="sf_menu_item sf_menu_item_level_3">
+<a href="/educators/ordering/whatsavailable/dvds">DVDs</a>
+</li>
+<li class="sf_menu_item sf_menu_item_level_3">
+<a href="/educators/ordering/whatsavailable/prendismo">Video clips from Prendismo</a>
+</li>
+</ul>
+</li>
+<li class="sf_menu_item sf_menu_item_level_2">
+<a href="#">Selecting products</a>
+<ul>
+<li class="sf_menu_item sf_menu_item_level_3">
+<a href="/educators/ordering/selecting/search">Searching on-line</a>
+</li>
+<li class="sf_menu_item sf_menu_item_level_3">
+<a href="/educators/ordering/selecting/inspection">On-line inspection copies</a>
+</li>
+<li class="sf_menu_item sf_menu_item_level_3">
+<a href="/educators/ordering/selecting/keepuptodate">Keeping up to date</a>
+</li>
+<li class="sf_menu_item sf_menu_item_level_3">
+<a href="/educators/ordering/selecting/popular">Popular products</a>
+</li>
+<li class="sf_menu_item sf_menu_item_level_3">
+<a href="/educators/ordering/selecting/featured">Featured cases</a>
+</li>
+</ul>
+</li>
+<li class="sf_menu_item sf_menu_item_level_2">
+<a href="#">Info about ordering</a>
+<ul>
+<li class="sf_menu_item sf_menu_item_level_3">
+<a href="/educators/ordering/buying/how">How to order - an overview</a>
+</li>
+<li class="sf_menu_item sf_menu_item_level_3">
+<a href="/educators/ordering/buying/electroniccopies">Electronic downloads</a>
+</li>
+<li class="sf_menu_item sf_menu_item_level_3">
+<a href="/educators/ordering/buying/papercopies">Printed copies</a>
+</li>
+<li class="sf_menu_item sf_menu_item_level_3">
+<a href="/educators/ordering/buying/media">Media items</a>
+</li>
+<li class="sf_menu_item sf_menu_item_level_3">
+<a href="/educators/ordering/buying/prices">Pricing</a>
+</li>
+<li class="sf_menu_item sf_menu_item_level_3">
+<a href="/educators/ordering/buying/payment">Payment options</a>
+</li>
+<li class="sf_menu_item sf_menu_item_level_3">
+<a href="/educators/ordering/buying/shipping">Shipping options &amp; costs</a>
+</li>
+</ul>
+</li>
+<li class="sf_menu_item sf_menu_item_level_2">
+<a href="#">Copyright</a>
+<ul>
+<li class="sf_menu_item sf_menu_item_level_3">
+<a href="/educators/ordering/copyright/guidelines">Guidelines</a>
+</li>
+<li class="sf_menu_item sf_menu_item_level_3">
+<a href="/educators/ordering/copyright/translation">Requesting translations</a>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="sf_menu_item sf_menu_item_level_1">
+<a href="#">My account</a>
+<ul>
+<li class="sf_menu_item sf_menu_item_level_2">
+<a href="/educators/myaccount/account">Account options</a>
+</li>
+<li class="sf_menu_item sf_menu_item_level_2">
+<a href="#">My library</a>
+<ul>
+<li class="sf_menu_item sf_menu_item_level_3">
+<a href="/educators/myaccount/myLibrary">Options</a>
+</li>
+<li class="sf_menu_item sf_menu_item_level_3">
+<a href="/educators/myaccount/mylibrarypurchased">Purchased items</a>
+</li>
+<li class="sf_menu_item sf_menu_item_level_3">
+<a href="/educators/myaccount/mylibraryfree">Free items</a>
+</li>
+<li class="sf_menu_item sf_menu_item_level_3">
+<a href="/educators/myaccount/favourites">Favourite products</a>
+</li>
+</ul>
+</li>
+<li class="sf_menu_item sf_menu_item_level_2">
+<a href="/educators/myaccount/members/info">Get more from us</a>
+</li>
+<li class="sf_menu_item sf_menu_item_level_2">
+<a href="/educators/myaccount/my_orders">Order history</a>
+</li>
+<li class="sf_menu_item sf_menu_item_level_2">
+<a href="/educators/myaccount/my_quotes">Saved quotes</a>
+</li>
+<li class="sf_menu_item sf_menu_item_level_2">
+<a href="/educators/myaccount/mydetails">Edit profile details</a>
+</li>
+<li class="sf_menu_item sf_menu_item_level_2">
+<a href="/educators/myaccount/links/">Links to support staff</a>
+</li>
+</ul>
+</li>
+<li><a style="font-weight:bold">Product search</a>
+<ul style="width:300px">
+<li>
+<div class="navProductSearch">
+<div class="productSearchHolder" id="contentSearchBox">
+<div class="productSearchTable">
+<form action="/educators/search/results" name="side_search" id="side_search" method="post">
+<input type="hidden" name="newSearch" value="1" id="newSearch">
+<div class="fieldwrapper" id="product_type_wrapper">
+<div class="fieldlabel" style="">Search for:</div>
+<div class="fieldinput " style="
+ 
+ ">
+<select name="product_type" id="product_type" class="inputSelect product_type">
+<option value="-1" selected="">All products</option>
+<option value="6">Book</option>
+<option value="11">Book chapter</option>
+<option value="1">Case</option>
+<option value="4">DVD</option>
+<option value="3">Instructor material</option>
+<option value="2">Management article</option>
+<option value="7">Multimedia</option>
+<option value="5">Software</option>
+</select>
+<div class="clear"></div>
+</div>
+<div class="clear"></div>
+</div>
+<div class="fieldwrapper" id="field_term_1_wrapper">
+<div class="fieldlabel" style="">Search on:</div>
+<div class="fieldinput " style="
+ 
+ ">
+<select name="field_term_1" id="field_term_1" class="inputSelect field_term_1">
+<option value="all">All fields</option>
+<option value="reference">Reference no.</option>
+<option value="title">Title</option>
+<option value="authors">Authors</option>
+<option value="publisher">Publisher</option>
+<option value="author_org">Author's institution</option>
+<option value="abstract">Abstract</option>
+<option value="topics">Topic/industry</option>
+<option value="location">Location</option>
+</select>
+<div class="clear"></div>
+</div>
+<div class="clear"></div>
+</div>
+<div class="fieldwrapper term_1_wrapper" id="term_1_wrapper">
+<div class="fieldlabel" style="">
+ Keywords:
+ </div>
+<div class="fieldinput " style="
+ 
+ ">
+<input type="text" id="term_1" name="term_1" class="inputText term_1" value="Enter keywords" description="Enter keywords" original="Enter keywords">
+</div>
+<div class="clear"></div>
+</div>
+<div class="fieldvalue" style="margin:0px 0 4px 116px;font-size:9pt;padding:0">
+<div style="float:left;padding-right:4px">
+<input type="checkbox" name="exact_match" value="true">
+</div>
+<div style="float:left">
+ Exact matches only
+ </div>
+</div>
+<div class="clear"></div>
+<div class="fieldwrapper" id="teaching_note_available_wrapper">
+<div class="fieldinput" style="padding-top:5px;
+ 
+ width:90%;
+ 
+ ">
+<div class="fieldinput-option">
+<div class="fieldinput-option-box">
+<input type="checkbox" name="teaching_note_available" id="teaching_note_available_1" class="inputCheckbox " value="1">
+</div>
+<div class="fieldinput-option-label " style="
+ 
+ ">
+ Instructor material available
+ </div>
+<div class="clear"></div>
+</div>
+<div class="clear"></div>
+</div>
+<div class="fieldlabel" style="width:0px;padding:0;margin:0;border:0;height:1px"></div>
+<div class="clear"></div>
+</div>
+<div class="clear"></div>
+<div class="fieldwrapper" id="awards_wrapper">
+<div class="fieldinput" style="padding-top:5px;
+ 
+ width:90%;
+ 
+ ">
+<div class="fieldinput-option">
+<div class="fieldinput-option-box">
+<input type="checkbox" name="awards" id="awards_211,97,98,88,198,208,89,94,96,100,99,101,102,95,208,103" class="inputCheckbox " value="211,97,98,88,198,208,89,94,96,100,99,101,102,95,208,103">
+</div>
+<div class="fieldinput-option-label " style="
+ 
+ ">
+ Prize winners only
+ </div>
+<div class="clear"></div>
+</div>
+<div class="clear"></div>
+</div>
+<div class="fieldlabel" style="width:0px;padding:0;margin:0;border:0;height:1px"></div>
+<div class="clear"></div>
+</div>
+<div class="clear"></div>
+<div class="search_button">
+<img id="search_go" src="/includes/siteimages/educators/search_button.png" alt="Search" width="84" height="26">
+</div>
+<div class="advancedsearch">
+<a href="/educators/search/advanced_search">
+ Go to advanced search 
+ <img src="/includes/icons/white_arrow.gif" height="10" border="0">
+</a>
+<div class="clear"></div>
+</div>
+<div class="clear"></div>
+</form>
+<div class="clear"></div>
+</div>
+</div>
+</div>
+</li>
+</ul>
+</li>
+</ul>
+<script type="text/javascript">
+ $(document).ready(function(){
+ $('#main_menu').superfish({
+ delay : 2000,
+ speed : 'fast',
+ animation: {height:'show'}
+ })
+ });
+ </script>
+<div class="clear"></div>
+<div class="clear"></div>
+</div>
+<div class="clear"></div>
+</div>
+<div class="mainContainer">
+<div class="mainContent">
+<div class="contentPageImageStrip">
+<img src="/files/slice_images/slice2013.jpg" alt="">
+</div>
+<div class="clear"></div>
+<div class="contentPagePrintVersion" title="Environmentally-friendly print version">
+<div style="float:right"><a href="/educators/myaccount/privacy&amp;printversion=1" target="_blank" class=""><img src="http://www.thecasecentre.org/includes/icons/16x16/print_version.png" border="0" class="" width="16" style="padding:0px 0px 0px 0px;float:right;"></a></div>
+<div style="float:right;margin-left:8px;" class="smaller">
+<a href="/educators/myaccount/privacy&amp;printversion=1" target="_blank" class="">
+<span style="font-size:8pt;">Printer-friendly version&nbsp;</span>
+</a>
+</div>
+<div class="clear"></div>
+</div>
+<div class="clear"></div>
+<div class="contentPageMainColumn" style="min-height: 2483px;">
+<h1 style="float:left">Privacy policy</h1>
+<div class="clear"></div>
+<div class="content_content content_content_cms">
+<p>
+ We are committed to protecting and respecting your privacy.</p>
+<p>
+ This policy sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.</p>
+<p>
+ For the purpose of the <a href="http://www.legislation.gov.uk/ukpga/1998/29/contents" target="_blank">Data Protection Act 1998</a> (the Act), the data controller is The Case Centre.</p>
+<h2 style=":;">
+ 1. Information we may collect from you</h2>
+<table border="0" cellpadding="2" cellspacing="0" width="630">
+<tbody>
+<tr>
+<td valign="top" width="35">
+ 1.1</td>
+<td valign="top" width="595">
+ We may collect and process the following data about you:</td>
+</tr>
+<tr>
+<td valign="top" width="35">
+ 1.1.1</td>
+<td valign="top" width="595">
+ information that you provide by filling in forms on our website (our site).&nbsp; This includes information provided at the time of registering to use the site, applying to become a member of The Case Centre and seeking or obtaining services from us. We may also ask you for information when you report a problem with our site;</td>
+</tr>
+<tr>
+<td valign="top" width="35">
+ 1.1.2</td>
+<td valign="top" width="595">
+ if you contact us, we may keep a record of that correspondence;</td>
+</tr>
+<tr>
+<td valign="top" width="35">
+ 1.1.3</td>
+<td valign="top" width="595">
+ we may also ask you to complete surveys that we use for research purposes, although you do not have to respond to them;</td>
+</tr>
+<tr>
+<td valign="top" width="35">
+ 1.1.4</td>
+<td valign="top" width="595">
+ details of transactions you carry out through our site and of the fulfillment of your orders</td>
+</tr>
+</tbody>
+</table>
+<h2 style=":;">
+ 2. IP addresses and cookies</h2>
+<div>
+<table border="0" cellpadding="2" cellspacing="0" width="630">
+<tbody>
+<tr>
+<td valign="top" width="35">
+ 2.1</td>
+<td valign="top" width="595">
+ We may collect information about your computer, including where available your IP address, operating system and browser type, for system administration and to report aggregate information to our advertisers. This is statistical data about our users’ browsing actions and patterns, and does not identify any individual.</td>
+</tr>
+<tr>
+<td valign="top" width="35">
+ 2.2</td>
+<td valign="top" width="595">
+ For the same reason, we may obtain information about your general internet usage by using a cookie file which is stored on the hard drive of your computer. Cookies contain information that is transferred to your computer's hard drive. They help us to improve our site and to deliver a better and more personalised service. They enable us: to estimate our audience size and usage pattern; to store information about your preferences, and so allow us to customise our site according to your individual interests; to speed up your searches; and to recognise you when you return to our site.</td>
+</tr>
+<tr>
+<td valign="top" width="35">
+ 2.3</td>
+<td valign="top" width="595">
+ The table below explains the cookies we use and why.</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div>
+ &nbsp;</div>
+<div>
+<table border="0" cellpadding="0" cellspacing="0" width="600">
+<tbody>
+<tr>
+<td bgcolor="#b6babd" valign="top" width="600">
+<table border="0" cellpadding="2" cellspacing="1" width="631">
+<tbody>
+<tr>
+<td bgcolor="#ebedee" valign="top" width="100">
+<b>Cookie</b></td>
+<td align="left" bgcolor="#ebedee" valign="top" width="100">
+<b>Name</b></td>
+<td align="left" bgcolor="#ebedee" valign="top" width="400">
+<b>Purpose</b></td>
+</tr>
+<tr>
+<td bgcolor="#FFFFFF" valign="top" width="100">
+ ColdFusion</td>
+<td align="left" bgcolor="#FFFFFF" valign="top" width="100">
+ cfide?<br>
+ cftoken</td>
+<td align="left" bgcolor="#FFFFFF" valign="top" width="400">
+ These cookies are essential for running thecasecentre.org as ColdFusion uses them to differentiate requests from different user sessions. The first time a visitor's browser requests a page from thecasecentre.org these cookies are stored on the client machine. Neither of these cookies store any user information; they are purely system generated strings.</td>
+</tr>
+<tr>
+<td bgcolor="#ebedee" valign="top" width="100">
+ Google Analytics</td>
+<td align="left" bgcolor="#ebedee" valign="top" width="100">
+ _utma _<br>
+ _utmb_<br>
+ _utmc_<br>
+ _utmz</td>
+<td align="left" bgcolor="#ebedee" valign="top" width="400">
+ These cookies are used to collect information about how visitors use our site. We use the information to compile reports and to help us improve the site. The cookies collect information in an anonymous form, including the number of visitors to the site, where vistors have come to the site from and the pages they visited. <a href="http://www.google.co.uk/intl/en/analytics/privacyoverview.html" target="_new">Click here for an overview of privacy at Google</a></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div>
+ &nbsp;</div>
+<div>
+<p>
+ Most web browsers allow some control of most cookies through the browser settings. To find out more about cookies, including how to see what cookies have been set and how to manage and delete them, visit <a href="http://www.allaboutcookies.org/" target="_new">www.allaboutcookies.org</a>.</p>
+<p>
+ To opt out of being tracked by Google Analytics across all websites visit <a href="http://tools.google.com/dlpage/gaoptout" target="_new">http://tools.google.com/dlpage/gaoptout</a>.</p>
+</div>
+<h2>
+ 3. Where we store your personal data</h2>
+<table border="0" cellpadding="2" cellspacing="0" width="630">
+<tbody>
+<tr>
+<td valign="top" width="35">
+ 3.1</td>
+<td valign="top" width="595">
+ The data that we collect from you may be transferred to, and stored at <strong>
+</strong> either of The Case Centre's locations (UK or USA), where staff maybe engaged in, among other things, the fulfilment of your order, the processing of your payment details and the provision of support services. By submitting your personal data, you agree to this transfer, storing or processing. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this privacy policy.</td>
+</tr>
+<tr>
+<td valign="top" width="35">
+ 3.2</td>
+<td valign="top" width="595">
+ Any payment transactions will be encrypted using SSL technology</td>
+</tr>
+<tr>
+<td valign="top" width="35">
+ 3.3</td>
+<td valign="top" width="595">
+ Where we have given you (or where you have chosen) a password that enables you to access certain parts of our site, you are responsible for keeping this password confidential. We ask you not to share a password with anyone.</td>
+</tr>
+<tr>
+<td valign="top" width="35">
+ 3.4</td>
+<td valign="top" width="595">
+ Unfortunately, the transmission of information via the Internet is not completely secure. Although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to our site; any transmission is at your own risk. Once we have received your information, we will use strict procedures and security features to try to prevent unauthorised access.</td>
+</tr>
+</tbody>
+</table>
+<h2 style=":;">
+ 4. Uses made of the information</h2>
+<div>
+<table border="0" cellpadding="2" cellspacing="0" width="630">
+<tbody>
+<tr>
+<td valign="top" width="35">
+ 4.1</td>
+<td valign="top" width="595">
+ We use information held about you in the following ways:</td>
+</tr>
+<tr>
+<td valign="top" width="35">
+ 4.1.1</td>
+<td valign="top" width="595">
+ to ensure that content from our site is presented in the most effective manner for you and for your computer;</td>
+</tr>
+<tr>
+<td valign="top" width="35">
+ 4.1.2</td>
+<td valign="top" width="595">
+ to provide you with information, products or services that you request from us or which we feel may interest you, where you have consented to be contacted for such purposes;</td>
+</tr>
+<tr>
+<td valign="top" width="35">
+ 4.1.3</td>
+<td valign="top" width="595">
+ to carry out our obligations arising from any contracts entered into between you and us;</td>
+</tr>
+<tr>
+<td valign="top" width="35">
+ 4.1.4</td>
+<td valign="top" width="595">
+ to allow you to participate in interactive features of our service, when you choose to do so;</td>
+</tr>
+<tr>
+<td valign="top" width="35">
+ 4.1.5</td>
+<td valign="top" width="595">
+ to notify you about changes to our service;</td>
+</tr>
+<tr>
+<td valign="top" width="35">
+ 4.1.6</td>
+<td valign="top" width="595">
+ to process membership queries, applications, renewals and termination; and</td>
+</tr>
+<tr>
+<td valign="top" width="35">
+ 4.1.7</td>
+<td valign="top" width="595">
+ to collect all and administer subscriptions.</td>
+</tr>
+<tr>
+<td valign="top" width="35">
+ 4.2</td>
+<td valign="top" width="595">
+ If you are an existing customer, we will only contact you by electronic means (e-mail) or post with information about goods and services similar to those that were the subject of a previous sale to you.</td>
+</tr>
+</tbody>
+</table>
+</div>
+<h2>
+ 5. Disclosure of your information</h2>
+<div>
+<table border="0" cellpadding="2" cellspacing="0" width="630">
+<tbody>
+<tr>
+<td valign="top" width="35">
+ 5.1</td>
+<td valign="top" width="595">
+<p>
+ We may disclose your personal information to third parties in circumstances where we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our website terms of use or terms and conditions of supply and other agreements; or to protect the rights, property, or safety of The Case Centre, our members, our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.</p>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<h2>
+ 6. Your rights</h2>
+<div>
+<table border="0" cellpadding="2" cellspacing="0" width="630">
+<tbody>
+<tr>
+<td valign="top" width="35">
+ 6.1</td>
+<td valign="top" width="595">
+ You have the right to ask us not to process your personal data for marketing purposes. We will usually inform you (before collecting your data) if we intend to use your data for such purposes or if we intend to disclose your information to any third party for such purposes. You can exercise your right to prevent such processing by checking certain boxes on the forms we use to collect your data. You can also exercise the right at any time by contacting us at <a href="mailto:info@thecasecentre.org">info@thecasecentre.org</a>.</td>
+</tr>
+<tr>
+<td valign="top" width="35">
+ 6.2</td>
+<td valign="top" width="595">
+ Our site may, from time to time, contain links to and from the websites of our suppliers and/or customers. If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies. Please check these policies before you submit any personal data to these websites.</td>
+</tr>
+</tbody>
+</table>
+<h2 style=":;">
+ 7. Access to information</h2>
+<div>
+ The Act gives you the right to access information held about you. Your right of access can be exercised in accordance with the Act.</div>
+<h2 style=":;">
+ 8. Changes to our privacy policy</h2>
+<div>
+ Any changes we may make to our privacy policy in the future will be posted on this page.</div>
+<h2 style=":;">
+ 9. Contact</h2>
+<div>
+ Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to <a href="mailto:info@thecasecentre.org">info@thecasecentre.org</a>.<br>
+ &nbsp;</div>
+</div>
+</div>
+<h2></h2>
+<div class="content_content content_content_ebi">
+</div>
+</div>
+<div class="contentPageRightColumn" style="min-height: 2483px;">
+<div class="contentPageRightNav">
+<h1>Contact us</h1>
+<div class="contentPageRightContent">
+<div>
+<div>
+<img alt="Customer Support" src="/files/images/box/cstphone.jpg" style="width: 280px; height: 117px; "></div>
+<div>
+ &nbsp;</div>
+<div>
+<div>
+ If you have any questions please contact our friendly Customer Services Team:</div>
+<table border="0" cellpadding="0" cellspacing="0" width="280">
+<tbody>
+<tr>
+<td width="140">
+<h2>
+ UK office</h2>
+<div>
+<strong>t</strong>&nbsp;+44 (0)1234 750903<br>
+<strong>e</strong>&nbsp;<a href="mailto:info@thecasecentre.org">info@thecasecentre.org</a></div>
+<div>
+ (open 8h-17h GMT, Monday-Friday)</div>
+</td>
+<td width="140">
+<h2>
+ US office</h2>
+<div>
+<strong>t</strong>&nbsp;+1 781 239 5884<br>
+<strong>e</strong>&nbsp;<a href="mailto:info.usa@thecasecentre.org">info.usa@thecasecentre.org</a></div>
+<div>
+ (open 8h-16h EST,<br>
+ Monday-Friday)</div>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<div class="clear"></div>
+</div>
+<div class="clear"></div>
+</div>
+<div class="clear"></div>
+</div>
+<div class="clear"></div>
+</div>
+<div class="clear"></div>
+</div>
+<div class="clear"></div>
+<div class="footerContainer">
+<div class="footerContent">
+<div class="footerLinks">
+<h2>Sitemap</h2>
+<div class="footerLinksColumn footerLinksColumnLeft">
+<h4>About us</h4>
+<ul>
+<li><a href="/educators/aboutus/membership/about">Become a member</a></li>
+<li><a href="/educators/aboutus/news/intro">Brand guidelines</a></li>
+<li><a href="/educators/aboutus/news/newsitems">News</a></li>
+<li><a href="/educators/aboutus/40anniversary/introduction">Our 40th anniversary</a></li>
+<li><a href="/educators/aboutus/organisation/whatwedo">What we do</a></li>
+</ul>
+<h4>Ordering</h4>
+<ul>
+<li><a href="/educators/ordering/buying/how">How do I order?</a></li>
+<li><a href="/educators/ordering/selecting/keepuptodate">Keep up to date with e-mail updates</a></li>
+<li><a href="/educators/ordering/buying/prices">Pricing</a></li>
+<li><a href="/educators/ordering/buying/shipping">Shipping options</a></li>
+<li><a href="/educators/ordering/buying/UKterms">Terms of business</a></li>
+<li><a href="/educators/ordering/whatsavailable/overview">What's available from us?</a></li>
+</ul>
+</div>
+<div class="footerLinksColumn footerLinksColumnLeft">
+<h4>Case method</h4>
+<ul>
+<li><a href="/educators/casemethod/introduction/whatis">An introduction to the case method</a></li>
+<li><a href="/educators/casemethod/resources/books">Books &amp; articles</a></li>
+<li><a href="/educators/casemethod/competitions/casewriting">Competitions</a></li>
+<li><a href="/educators/casemethod/resources/connect">E-bulletin - The Case Centre Connect</a></li>
+<li><a href="/educators/casemethod/resources/featureslist">Features</a></li>
+<li><a href="/educators/casemethod/resources/freecasesoverview">Free cases</a></li>
+<li><a href="/educators/casemethod/awards/about">The Case Centre Awards</a></li>
+<li><a href="/educators/casemethod/training/currentevents">Training events</a></li>
+<li><a href="/educators/casemethod/resources/videocasemethod">Video clips</a></li>
+</ul>
+<h4>Product search</h4>
+<ul>
+<li><a href="/educators/search/gettingstarted">Getting started</a></li>
+<li><a href="/educators/search/advanced_search">Search for teaching materials</a></li>
+</ul>
+</div>
+<div class="footerLinksColumn footerLinksColumnLeft">
+<h4>My account</h4>
+<ul>
+<li><a href="/educators/myaccount/register">New to The Case Centre? Register</a></li>
+</ul>
+<h4>Submit to us</h4>
+<ul>
+<li><a href="/educators/submitcases/scholarships/about">Case development scholarships</a></li>
+<li><a href="/educators/submitcases/guidance/resources">Case writing resources</a></li>
+<li><a href="/educators/submitcases/process/how">How to submit your case</a></li>
+<li><a href="/educators/submitcases/process/why">Why submit your case to us?</a></li>
+</ul>
+</div>
+</div>
+<div class="footerLower">
+<div class="footerCopywrite"><h6>© Copyright The Case Centre, 2013</h6></div>
+<div class="footerHelp">
+<h6>
+<table width="648" align="left" border="0" cellpadding="2" cellspacing="0">
+<tbody><tr>
+<td width="280" align="left" valign="bottom"><h6><a href="http://www.thecasecentre.org/educators/aboutUs/people/contact">Contact</a> | <a href="http://www.thecasecentre.org/educators/myaccount/privacy">Privacy &amp; cookies</a> | <a href="http://www.thecasecentre.org/educators/myaccount/compatibility">Site compatibility</a></h6></td>
+<td width="90" valign="bottom"><h6><strong>Connect with us:</strong></h6>
+</td>
+<td align="left" valign="top" width="16px"><a href="http://www.linkedin.com/company/the-case-centre" target="_blank"><img alt="Connect with us on LinkedIn" src="/files/images/icons/linkedin.png" style="width: 16px; height: 16px; "></a>
+</td>
+<td align="left" valign="bottom" width="54"><h6><a href="http://www.linkedin.com/company/the-case-centre" target="_blank">LinkedIn</a></h6></td>
+<td align="left" valign="top" width="16px"><a href="http://www.twitter.com/thecasecentre" target="_blank"><img alt="Follow @thecasecentre on Twitter" src="/files/images/icons/t_mini-a.png" style="width: 16px; height: 16px; "></a>
+</td>
+<td align="left" valign="bottom" width="49"><h6><a href="http://www.twitter.com/thecasecentre" target="_blank">Twitter</a></h6></td>
+<td align="left" valign="top" width="16px"><a href="http://www.facebook.com/thecasecentre" target="_blank"><img alt="Like us on facebook" src="/files/images/icons/f_logo.jpg" style="width: 16px; height: 16px; "></a>
+</td>
+<td align="left" valign="bottom" width="54"><h6><a href="http://www.facebook.com/thecasecentre" target="_blank">Facebook</a></h6></td>
+<td align="left" valign="top" width="18px"><a href="http://www.youtube.com/user/ecchcases" target="_blank"><img alt="ecch YouTube channel" src="/files/images/icons/youtube.png" style="width: 18px; height: 18px; "></a>
+</td>
+<td align="left" valign="bottom" width="54"><h6><a href="http://www.youtube.com/user/ecchcases" target="_blank">YouTube</a></h6>
+</td>
+</tr>
+<tr>
+<td colspan="10" align="left" valign="bottom" class="nfpstatement">The Case Centre is a not-for-profit company limited by guarantee, registered in England No 1129396 and entered in the Register of Charities No 267516. VAT No GB 870 9608 93. It is also the trading name of The Case Centre USA, a non-profit making company. Tax ID No 04-31-43431.</td>
+</tr>
+</tbody></table>
+</h6>
+</div>
+</div>
+</div>
+</div>
+
+ </body></html>
