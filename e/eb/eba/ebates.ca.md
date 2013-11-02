@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ebates.ca privacy policy that was archived on 2013-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130511134201id_/http%3A//www.ebates.ca/help/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ebates.ca privacy policy that was archived on 2013-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131102030743id_/http%3A//www.ebates.ca/help/privacy-policy) for the most accurate reproduction.*
 
 # Coupons, Promo Codes and Cash Back Savings - Ebates Canada
 
@@ -75,7 +75,7 @@ At Ebates Canada, we know that your word is who you are and integrity is the cor
 
 ### Third-party verification
 
-Ebates is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non profit organization whose mission is to build user's trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the site Ebates.ca. Because this web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
+Ebates is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent organization whose mission is to build user's trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the site Ebates.ca. Because this web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
 
 If you have any questions or concerns regarding this statement, you should first contact customer service. If you do not receive acknowledgment of you inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe at <http://truste.org/consumers/watchdog_complaint.php>. TRUSTe will then serve as a liaison with Ebates to resolve your concerns.
 
