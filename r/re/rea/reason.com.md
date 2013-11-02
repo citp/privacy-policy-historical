@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the reason.com privacy policy that was archived on 2013-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130531132936id_/http%3A//reason.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reason.com privacy policy that was archived on 2013-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131102011404id_/http%3A//reason.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Reason.com
 
@@ -7,7 +7,7 @@ Thank you for visiting our web site. This privacy policy tells you how we use pe
 **Note:**  the privacy practices set forth in this privacy policy are for this reason.com, reason.org, and reason.tv only.
 
 **Collection of Information** **  
-**We collect personally identifiable information, like names, postal addresses, email addresses, etc., when voluntarily submitted by our visitors. The information you provide is used to fulfill your specific request. Information submitted when donating to Reason Foundation or subscribing to Reason magazine may be traded with other like-minded organizations that we feel may be of interest to you.
+**We collect personally identifiable information, like names, postal addresses, email addresses, etc., when voluntarily submitted by our visitors. The information you provide is used to fulfill your specific request. Information submitted when donating to Reason Foundation or subscribing to Reason magazine may be traded with other like-minded organizations that we feel may be of interest to you. To opt out of these mailings, please contact  [opt-out@reason.com](mailto:opt-out@reason.com).
 
 We use third-party advertising companies to serve advertisements when you visit our website. These companies may use aggregated (not personal identifying) information about your visits to this website in order to provide advertisements about goods and services that may be of interest to you.
 
