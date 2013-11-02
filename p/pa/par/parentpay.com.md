@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the parentpay.com privacy policy that was archived on 2013-01-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130115162430id_/https%3A//www.parentpay.com/ParentPay/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the parentpay.com privacy policy that was archived on 2013-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131102220155id_/https%3A//www.parentpay.com/ParentPay/Privacy-Policy) for the most accurate reproduction.*
 
 # - ParentPay
 
