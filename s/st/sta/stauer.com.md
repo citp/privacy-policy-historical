@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the stauer.com privacy policy that was archived on 2013-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130423112033id_/http%3A//www.stauer.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stauer.com privacy policy that was archived on 2013-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131102011446id_/http%3A//www.stauer.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy - Stauer
+# Stauer.com
 
 Types of personal information we collect  
 We collect and store personal information that you give us when you register on our website, submit an application, request a catalog, place an order, enroll in a promotional or rewards program, call us, or send us a letter or e–mail. This information may include your name, mailing address, e–mail address, telephone number, fax number, credit card number and expiration date, and other optional demographic information. If you respond to a sweepstakes or contest, we will ask you to verify that you are old enough to participate.
@@ -55,7 +55,10 @@ Our approach to security
 We maintain reasonable physical, technical, and procedural measures to limit access to personal information to authorized individuals with appropriate purposes. Our web site is a "Secure Site" recognized by VeriSign, a leading computer network security company. If you believe that someone has improperly used personally identifiable information about you or has made purchases that you did not authorize, please contact us immediately. We are a member of BBBOnline, the online area of the Better Business Bureau, and we will strive to resolve any customer service complaints promptly in accordance with BBB procedures.
 
 Policy changes  
-NeXtten Stauer, LLC may change its privacy policy or practices from time to time. We will post the most current version of our privacy policy online at [http://www.stauer.com/privacy.asp](https://web.archive.org/web/20130423112033id_/http%3A//www.stauer.com/privacy.asp). If policy changes materially affect our uses and disclosures of personal information that we have previously collected, we will notify you and, if appropriate, provide an opportunity to prevent us from applying the revised policy to such information.
+NeXtten Stauer, LLC may change its privacy policy or practices from time to time. We will post the most current version of our privacy policy online at [http://www.stauer.com/privacy.asp](https://web.archive.org/web/20131102011446id_/http%3A//www.stauer.com/privacy.asp). If policy changes materially affect our uses and disclosures of personal information that we have previously collected, we will notify you and, if appropriate, provide an opportunity to prevent us from applying the revised policy to such information.
 
 Effective Date: May 11, 2007  
-Last Revised Date: May 11, 2007 
+Last Revised Date: May 11, 2007
+
+**Terms of Stauer’s Coupons and Other Offers**  
+Limit one coupon or other offer per order. Monthly coupons are valid for a single use, one coupon per month. Offer excludes gift certificates, special orders, repairs, purchase of items that included the receipt of additional gift coupons, clearance merchandise and prior purchases. Offer may be used one time only and cannot be combined with any other offer (including, but not limited to, free gifts, BOGO (buy one get one), free shipping, discounts), copied, transferred or sold. Cash value of any coupon is $0.01. This offer is not redeemable for cash, except where required by law]. Any unused portion of this coupon is void. Offer applies to merchandise total only and does not apply to shipping and handling (S+H), shipping and processing (S+P), or sales tax. Applicable taxes must be paid by bearer. Void where prohibited, taxed or restricted by law. Offer only redeemable in the U.S. Offer expires on the date listed. We reserve the right to cancel an order due to unauthorized, altered or ineligible use of offer and to modify or cancel this promotion due to system error or unforeseen problems.
