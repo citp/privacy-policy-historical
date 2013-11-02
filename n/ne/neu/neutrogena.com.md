@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the neutrogena.com privacy policy that was archived on 2013-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130430040155id_/http%3A//www.neutrogena.com/category/customer%2Bservice/privacy%2Bpolicy.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the neutrogena.com privacy policy that was archived on 2013-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131102095541id_/http%3A//www.neutrogena.com/category/customer%2Bservice/privacy%2Bpolicy.do) for the most accurate reproduction.*
 
 # Privacy Policy | Neutrogena®
 
