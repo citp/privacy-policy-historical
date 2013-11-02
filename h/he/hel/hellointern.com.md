@@ -1,20 +1,20 @@
-> *The following text is extracted and transformed from the hellointern.com privacy policy that was archived on 2013-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130622131125id_/http%3A//www.hellointern.com/info.php%3Fsel%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hellointern.com privacy policy that was archived on 2013-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131102031528id_/http%3A//www.hellointern.com/info.php%3Fsel%3Dprivacy) for the most accurate reproduction.*
 
 # Hello Intern | Student Internship Program, International Internships, Find Interns
 
-**Privacy Policy**
+  
+**Privacy Policy**  
+
 
 We respect and are committed to protecting your privacy. That is why we have adopted this Privacy Policy. This Privacy Policy lets you know how your personal information is processed and explains data collection and use practices for HelloIntern . The "HelloIntern " includes all Web pages, newsletters, discussion forums and lists and opt-in announcement lists owned and operated by HelloIntern and each of its wholly-owned subsidiaries. By accessing HelloIntern , you are consenting to the information collection and use practices described in this Privacy Policy.
 
 We promise that we will use your personal information only in ways that are compatible with this Privacy Policy as follows:
 
- **What information are you collecting and how are you collecting it?**
-
- **Do you collect IP addresses?**
+**What information are you collecting and how are you collecting it? Do you collect IP addresses?**
 
 Every computer connected to the Internet is given a domain name and a set of numbers, that serve as that computer's "Internet Protocol" IP address. When a visitor requests a page from any Web site within the HelloIntern , our Web servers automatically recognize that visitor's domain name and IP address. The domain name and IP address reveal nothing personal about you other than the IP address from which you have accessed our Sites. We use this information to examine our traffic in aggregate, and to investigate misuse of the HelloIntern , its users, or to cooperate with law enforcement. We do not collect and evaluate this information for specific individuals. Our Web servers do not automatically record e-mail addresses of the visitors.
 
- **What are cookies?**
+**What are cookies?**
 
 From time to time, HelloIntern or its advertisers may send a "cookie" to your computer. A cookie is a small piece of data that is sent to your Internet browser from a Web server and stored on your computer's hard drive. A cookie can't read data off of your computer hard disk or read cookie files created by other Web sites. Cookies do not damage your system. We use cookies to identify which areas of HelloIntern SITE/ you have visited or customized, so the next time you visit, those pages may be readily accessible. Our advertisers may also use cookies to ascertain how many times you've seen an advertisement. Our advertisers and we may use this information to better personalize the content, banners, and promotions that you see on our Site. You can choose whether to accept cookies by changing the settings of your Internet browser. You can reset your browser to refuse all cookies, or allow your browser to show you when a cookie is being sent. If you choose not to accept these cookies, your experience at our Site and other Web sites may be diminished and some features may not work as intended. 
 
