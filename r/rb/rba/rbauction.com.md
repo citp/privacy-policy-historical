@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the rbauction.com privacy policy that was archived on 2013-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130518004717id_/http%3A//www.rbauction.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rbauction.com privacy policy that was archived on 2013-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131103003634id_/http%3A//www.rbauction.com/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement | Ritchie Bros. Auctioneers
-
-Menu
 
   * [Home](https://web.archive.org/ "Home")
   * [Current Inventory](https://web.archive.org/heavy-equipment/ "Current Inventory")
@@ -36,6 +34,8 @@ Menu
     * [Timed Auctions](https://web.archive.org/buying/timedauctions "Timed Auctions")
     * [Deposits & Payments](https://web.archive.org/buying/online-payment-service "Deposits & Payments")
     * [Services](https://web.archive.org/buying/services "Services")
+    * [Financing](https://web.archive.org/financing "Financing")
+    * [Terms and Conditions of Bidding](https://web.archive.org/buying/terms-and-conditions "Terms and Conditions of Bidding")
     * [FAQ: Bidding & Buying](https://web.archive.org/buying/faq-bidding-and-buying "FAQ: Bidding & Buying")
   * [Sell](https://web.archive.org/selling "Sell")
     * [Benefits of Selling](https://web.archive.org/selling/benefits-of-selling "Benefits of Selling")
@@ -61,12 +61,16 @@ Menu
     * [Watchlist](https://web.archive.org/myaccount/watchlist "Watchlist")
     * [Saved Searches](https://web.archive.org/myaccount/saved-searches "Saved Searches")
     * [Deposits & Payments](https://web.archive.org/myaccount/deposits-and-payments "Deposits & Payments")
+    * [Financing](https://web.archive.org/myaccount/financing "Financing")
     * [Subscriptions](https://web.archive.org/myaccount/subscriptions "Subscriptions")
     * [Services](https://web.archive.org/myaccount/services "Services")
     * [My Profile](https://web.archive.org/myaccount/profile "My Profile")
     * [Terms and Conditions](https://web.archive.org/myaccount/terms-and-conditions "Terms and Conditions")
   * [Blog](https://web.archive.org/blog "Blog")
-
+  * [EquipmentOne](http://www.equipmentone.com/ "EquipmentOne")
+  * [Contact Us](https://web.archive.org/contactus "Contact Us")
+  * [Careers](https://web.archive.org/careers "Careers")
+  * 
 
 
 This Privacy Statement describes the privacy practices of Ritchie Bros. Auctioneers Incorporated and its affiliates ("RBA") with respect to the collection, use, and disclosure of personal information, including in respect of RBA's web site located at [www.rbauction.com](http://www.rbauction.com/). This Privacy Statement may be supplemented or modified by agreements entered into between RBA and an individual from time to time.
