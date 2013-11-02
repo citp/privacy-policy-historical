@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the journalgazette.net privacy policy that was archived on 2013-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130620165505id_/http%3A//www.journalgazette.net/article/99999999/ABOUT04/709742840) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the journalgazette.net privacy policy that was archived on 2013-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131102172533id_/http%3A//www.journalgazette.net/article/99999999/ABOUT04/709742840) for the most accurate reproduction.*
 
 # JournalGazette.net - about us | The Journal Gazette | Fort Wayne, IN
 
