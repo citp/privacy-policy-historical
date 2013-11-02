@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nonmem.org privacy policy that was archived on 2013-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130215013119id_/http%3A//nonmem.org/index.php/cognigen/privacy_statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nonmem.org privacy policy that was archived on 2013-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131102072651id_/http%3A//nonmem.org/index.php/cognigen/privacy_statement) for the most accurate reproduction.*
 
 # Cognigen - Privacy Statement
 
