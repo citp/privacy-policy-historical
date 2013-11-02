@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the workcircle.co.uk privacy policy that was archived on 2013-05-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130501234415id_/http%3A//www.workcircle.co.uk/privacypolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the workcircle.co.uk privacy policy that was archived on 2013-11-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131102194753id_/http%3A//www.workcircle.co.uk/privacypolicy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head profile="http://a9.com/-/spec/opensearch/1.1/">
 <!-- TradeDoubler site verification 1253612 -->
@@ -15,35 +15,37 @@
 
 
 <link title="Workcircle Job Search" rel="search" type="application/opensearchdescription+xml" href="http://www.workcircle.co.uk/opensearch.xml">
-<link rel="stylesheet" type="text/css" href="/style.20130409.css">
+<link rel="stylesheet" type="text/css" href="/style.2013100801.css">
 <link rel="canonical" href="/jobs/">
 
 <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
 window.google_analytics_uacct = "UA-284929-13";
 </script>
 
-<script type="text/javascript" src="/javascript/javascript.20130409.js"></script>
+<script type="text/javascript" src="/javascript/javascript.2013100801.js"></script>
 <script type="text/javascript" src="/javascript/jquery.js"></script>
 <script type="text/javascript">
 function sticky_relocate() {
 	var window_top = $(window).scrollTop();
-	var div_top1 = $('#sticky-anchor1').offset().top;
-	var div_top2 = $('#sticky-anchor2').offset().top;
-	if (window_top > div_top1) {
-		if ( ( $(window).height() > 750 ) && ( $(window).width() > 1024 ) ) {
-			$('#sticky-element1').addClass('sticky')
-		}
+	var div_top = $('#sticky-anchor').offset().top;
+	if ( $(window).width() > 805 ) {
+	if (window_top > div_top) {
+		$('#emailinjobs').addClass('sticky')
+		$('#emailinjobs').width( $('#main').width() );
 	} else {
-		$('#sticky-element1').removeClass('sticky');
-	}
-	if (window_top > div_top2) {
-		if ( ( $(window).height() > 750 ) && ( $(window).width() > 1024 ) ) {
-			$('#sticky-element2').addClass('sticky')
-		}
+		$('#emailinjobs').removeClass('sticky');
+		$('#emailinjobs').width( $('#main').width() );
+	} 
 	} else {
-		$('#sticky-element2').removeClass('sticky');
+		$('#emailinjobs').removeClass('sticky');
+		$('#emailinjobs').width( $('#main').width() );
 	}
 }
+$(function() {
+  $(window).scroll(sticky_relocate);
+  sticky_relocate();
+});
+
 (function($,sr){
 
   // debouncing function from John Hann
@@ -76,6 +78,7 @@ function sticky_relocate() {
 $(window).smartresize(function(){
 	var window_width = $(window).width();
 
+	$('#emailinjobs').width( $('#main').width() );
 	go_adverts( 'GB', 2, '', '', '174.129.237.157');
 });
 </script>
@@ -145,7 +148,7 @@ _gaq.push(['_trackPageview']);
 <div id="register" style="display:none; position:absolute;">
 <form method="post" action="" onsubmit="jsSaveSearch( this ); return false;" id="alert" class="emailalert">
 <span class="close"><a onclick="toggle();" title="close">x</a></span>
-<p>Email me jobs matching <strong>Jobs </strong> daily</p>
+<p>Receive new <strong>Jobs </strong> daily</p>
 <input type="hidden" name="query" value="">
 <input type="hidden" name="location" value="">
 <div id="jsJustSaved2" style="display: none;"><p>This search is now saved, and we'll email you new matching jobs daily.</p></div>
@@ -154,7 +157,7 @@ _gaq.push(['_trackPageview']);
 <div id="jsSaveSearch2">
 <div id="jsError2" class="error"></div>
 <input type="hidden" name="email" value="">
-<input name="search" type="submit" value="save search" class="button orange small"></div>
+<input name="search" type="submit" value="email me!" class="button orange small"></div>
 </form>
 </div>
 
@@ -188,7 +191,31 @@ _gaq.push(['_trackPageview']);
 <p><strong> l) Opt out:</strong> You may opt-out of receiving communications from us, to do this visit <a href="/">www.workcircle.co.uk</a>, click on the log in link, log in, click on the 'Settings' link, and follow the on-screen instructions.</p>
 
 <p>&nbsp;</p></div>
-		<div id="right"><div align="center">
+		<div id="right">
+
+
+
+
+
+
+<h2>Get Qualified</h2>
+<div class="panel">
+<a href="http://www.workcircle.co.uk/click?j=150605971"><b>Get the qualifications employers are looking for.</b>
+We know what employers want. Enquire now to find out what course could be right for your career.
+<img width="50%" src="/images/reed-courses.png" style="float:right">
+</a>
+<br>
+<br>
+</div>
+
+
+
+
+
+
+
+
+
 <!-- Google Block -->
 <div id="rhs" align="left">
 <div id="narrow_ad_unit"></div>
@@ -198,60 +225,17 @@ _gaq.push(['_trackPageview']);
 <div id="sticky-anchor1"></div>
 <div id="sticky-element1">
 
-<script type="text/javascript">
-<!--//<![CDATA[
-var window_width = $(window).width();
-	if( window_width > 767 ) {
-   document.MAX_ct0 ='';
-   var m3_u = (location.protocol=='https:'?'https://cas.criteo.com/delivery/ajs.php?':'http://cas.criteo.com/delivery/ajs.php?');
-   var m3_r = Math.floor(Math.random()*99999999999);
-   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
-   document.write ("zoneid=41236");document.write("&amp;nodis=1");
-   document.write ('&amp;cb=' + m3_r);
-   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
-   document.write (document.charset ? '&amp;charset='+document.charset : (document.characterSet ? '&amp;charset='+document.characterSet : ''));
-   document.write ("&amp;loc=" + escape(window.location));
-   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
-   if (document.context) document.write ("&context=" + escape(document.context));
-   if ((typeof(document.MAX_ct0) != 'undefined') && (document.MAX_ct0.substring(0,4) == 'http')) {
-       document.write ("&amp;ct0=" + escape(document.MAX_ct0));
-   }
-   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
-   document.write ("'></scr"+"ipt>");
-	}
-//]]>--></script><script type="text/javascript" src="https://cas.criteo.com/delivery/ajs.php?zoneid=41236&amp;nodis=1&amp;cb=34639920022&amp;exclude=undefined&amp;charset=windows-1252&amp;loc=https%3A//web.archive.org/web/20130501234415id_/http%253A//www.workcircle.co.uk/privacypolicy"></script>
+
+
 
 
 
 <br>
 <br>
 
-<!--/* OpenX Javascript Tag v2.8.8 */-->
-
-<script type="text/javascript"><!--//<![CDATA[
-	var window_width = $(window).width();
-        if( window_width > 767 ) {
-
-   var m3_u = (location.protocol=='https:'?'https://ads.workcircle.com/delivery/ajs.php':'http://ads.workcircle.com/delivery/ajs.php');
-   var m3_r = Math.floor(Math.random()*99999999999);
-   if (!document.MAX_used) document.MAX_used = ',';
-   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
-   document.write ("?zoneid=2");
-   document.write ('&amp;cb=' + m3_r);
-   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
-   document.write (document.charset ? '&amp;charset='+document.charset : (document.characterSet ? '&amp;charset='+document.characterSet : ''));
-   document.write ("&amp;loc=" + escape(window.location));
-   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
-   if (document.context) document.write ("&context=" + escape(document.context));
-   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
-   document.write ("'><\/scr"+"ipt>");
-}
-//]]>--></script><script type="text/javascript" src="https://ads.workcircle.com/delivery/ajs.php?zoneid=2&amp;cb=99325943989&amp;charset=windows-1252&amp;loc=https%3A//web.archive.org/web/20130501234415id_/http%253A//www.workcircle.co.uk/privacypolicy"></script><noscript><a href='http://ads.workcircle.com/delivery/ck.php?n=adc0c83d&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://ads.workcircle.com/delivery/avw.php?zoneid=2&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=adc0c83d' border='0' alt='' /></a></noscript>
+<div class="rhsad"><h3><a href="http://ad.workcircle.com/adclick.php?bannerid=135&amp;zoneid=48&amp;source=&amp;dest=http%3A%2F%2Fwww.cv-library.co.uk%2Faff%2F100109&amp;ismap="> Click here to upload your CV</a></h3><p> and get it in front of over <strong>5,000</strong> top recruiters!<br><a href="http://ad.workcircle.com/adclick.php?bannerid=135&amp;zoneid=48&amp;source=&amp;dest=http%3A%2F%2Fwww.cv-library.co.uk%2Faff%2F100109&amp;ismap="><img src="http://www.workcircle.co.uk/images/cvlibrary-logo.png" alt="CV library" width="82" height="23"></a></p><br clear="all"></div>
 
 
-
-
-</div>
 
 </div>
 </div>
@@ -269,7 +253,7 @@ function go_adsense( indeed_count ) {
 //alert( indeed_count );
 
 
-var total_top_count=2;
+var total_top_count=3;
 
 
 
@@ -277,10 +261,20 @@ var total_top_count=2;
 
 var top_count = total_top_count - indeed_count;
 
+
+	
+		
+			
+				var mychannel = '5096178894'
+			
+		
+	
+
+
 var pageOptions = { 
   'pubId' : 'pub-8425689649080846',
   'query' : 'jobs ',
-  'channel' : '5096178894',
+  'channel' : mychannel,
   'hl' : 'en'
 };
 
@@ -364,23 +358,27 @@ var window_width = $(window).width();
 
 if( window_width > 959 ) {
 	if( top_count > 0 ) {
-		new google.ads.search.Ads(pageOptions, topblock, midblock, rhsblock, botblock);
+		//new google.ads.search.Ads(pageOptions, topblock, midblock, rhsblock, botblock);
+		new google.ads.search.Ads(pageOptions, topblock, midblock, botblock);
 		$('#top_ad_unit').show();
 		$('#top_ad_unit_spacer').show();
 		$('#mid_ad_unit_spacer').show();
 	} else {
-		new google.ads.search.Ads(pageOptions, rhsblock, botblock);
+		//new google.ads.search.Ads(pageOptions, rhsblock, botblock);
+		new google.ads.search.Ads(pageOptions, botblock);
 		$('#top_ad_unit').hide();
 		$('#top_ad_unit_spacer').hide();
 		$('#mid_ad_unit_spacer').hide();
 	}
 } else if ( window_width < 479 ) {
-	new google.ads.search.Ads(pageOptions, midblock, botblock, rhsblock, topblock);
+	//new google.ads.search.Ads(pageOptions, midblock, botblock, rhsblock, topblock);
+	new google.ads.search.Ads(pageOptions, midblock, botblock, topblock);
 	$('#top_ad_unit').hide();
 	$('#top_ad_unit_spacer').hide();
 		$('#mid_ad_unit_spacer').show();
 } else {
-	new google.ads.search.Ads(pageOptions, topblock, midblock, botblock, rhsblock);
+	//new google.ads.search.Ads(pageOptions, topblock, midblock, botblock, rhsblock);
+	new google.ads.search.Ads(pageOptions, topblock, midblock, botblock);
 	$('#top_ad_unit').show();
 	$('#top_ad_unit_spacer').show();
 	$('#mid_ad_unit_spacer').show();
@@ -452,9 +450,13 @@ phpAds_random = new String (Math.random()); phpAds_random = phpAds_random.substr
 
 <script type="text/javascript" charset="utf-8">
 
-go_adverts( 'GB', 2, '', '', '', '174.129.237.157');
 
-go_adsense( 2, 'GB', 2, '', '', '', '174.129.237.157');
+
+//go_adverts( 'GB', 2, '', '', '', '174.129.237.157');
+
+
+go_adsense( 0, 'GB', 2, '', '', '', '174.129.237.157');
+
 </script>
 
 
