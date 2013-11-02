@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the keycode.com privacy policy that was archived on 2013-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130605052251id_/http%3A//www.keycode.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the keycode.com privacy policy that was archived on 2013-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131102192334id_/http%3A//www.keycode.com/privacy.php) for the most accurate reproduction.*
 
-# Privacy Policy
+# Keycode.com's privacy policy
 
 Keycode.com is strongly committed to protecting the privacy of our site's visitors. You can visit our website and browse the pages on our site without disclosing your name, e-mail address, log-in, password or any other type of personally identifiable information. 
 
