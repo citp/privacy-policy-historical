@@ -1,12 +1,11 @@
-> *The following text is extracted and transformed from the seo4experts.com privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014195034id_/http%3A//www.seo4experts.com/view/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seo4experts.com privacy policy that was archived on 2013-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131102035350id_/http%3A//www.seo4experts.com/view/privacy) for the most accurate reproduction.*
 
 # Privacy Policy Highlights
 
 [](https://web.archive.org/view/)  
 
-[ **PR4-PR6** **Contextual Links**](https://web.archive.org/view/packages)
-
-[**Links From PR9 Sites**](http://www.forumlinkbuilding.com/view/link_building_services?seo4expertslink)
+[ **LinksManagement:  
+PR4-PR7 Backlinks**](http://www.linksmanagement.com/?seo4experts)
 
 SEO Tools   
 ♦ [Google Keyword Tracker](https://web.archive.org/view/google_keyword_tracker.php)[](https://web.archive.org/view/google_keyword_tracker.php)  
@@ -23,7 +22,7 @@ SEO Tools
 ♦ [About Us](https://web.archive.org/)  
 ♦ [SEO Jobs](https://web.archive.org/view/seo_jobs)  
 ♦ [Tools FAQ](https://web.archive.org/view/tools_faq)  
-♦ [**Prices**](http://www.seo4experts.com/view/tools_faq#subscription)  
+♦ [Prices](http://www.seo4experts.com/view/tools_faq#subscription)  
 ♦ [Contact Us](https://web.archive.org/view/contact_us)  
 ****  SEO Knowledge  
 ****♦ [SEO Articles](https://web.archive.org/view/seo_articles)  
@@ -37,23 +36,23 @@ SEO Tools
 |  |    
 
 
- [](http://www.forumlinkbuilding.com/view/link_building_services?seo4experts)
+ [](http://www.linksmanagement.com/?seo4experts)
 
-**Neenco Privacy Policy Highlights**
+**SEO4Experts Privacy Policy Highlights**
 
 January 27, 2008
 
-At Neenco we recognize that privacy is important. This document outlines the types of personal information we receive and collect when you use Neenco's services, as well as some of the steps we take to safeguard information. We hope this will help you make an informed decision about sharing personal information with us.
+At SEO4Experts we recognize that privacy is important. This document outlines the types of personal information we receive and collect when you use SEO4Experts's services, as well as some of the steps we take to safeguard information. We hope this will help you make an informed decision about sharing personal information with us.
 
 **Scope**
 
-This notice offers highlights of the full [Neenco Privacy Policy](https://web.archive.org/view/privacy_policy), which describes in detail the privacy practices that apply to Neenco's products, services and websites worldwide (collectively, Neenco's "services"). You can also get more information about the privacy practices for specific Neenco services in the navigation bar to the left of this notice.
+This notice offers highlights of the full [SEO4Experts Privacy Policy](https://web.archive.org/view/privacy_policy), which describes in detail the privacy practices that apply to SEO4Experts's products, services and websites worldwide (collectively, SEO4Experts's "services"). You can also get more information about the privacy practices for specific SEO4Experts services in the navigation bar to the left of this notice.
 
 **Personal information and other data we collect**
 
-  * Neenco collects [personal information](https://web.archive.org/web/20121014195034id_/http%3A//www.seo4experts.com/view/privacy_faq#personal_information) when you register for a Neenco service or otherwise voluntarily provide such information. We may combine personal information collected from you with information from other Neenco services or third parties to provide a better user experience, including customizing content for you.
-  * Neenco uses [cookies](https://web.archive.org/web/20121014195034id_/http%3A//www.seo4experts.com/view/privacy_faq#cookies) and other technologies to enhance your online experience and to learn about how you use Neenco services in order to improve the quality of our services.
-  * Neenco's servers automatically record information when you visit our website or use some of our products, including the URL, IP address, browser type and language, and the date and time of your request.
+  * SEO4Experts collects [personal information](https://web.archive.org/web/20131102035350id_/http%3A//www.seo4experts.com/view/privacy_faq#personal_information) when you register for a SEO4Experts service or otherwise voluntarily provide such information. We may combine personal information collected from you with information from other SEO4Experts services or third parties to provide a better user experience, including customizing content for you.
+  * SEO4Experts uses [cookies](https://web.archive.org/web/20131102035350id_/http%3A//www.seo4experts.com/view/privacy_faq#cookies) and other technologies to enhance your online experience and to learn about how you use SEO4Experts services in order to improve the quality of our services.
+  * SEO4Experts's servers automatically record information when you visit our website or use some of our products, including the URL, IP address, browser type and language, and the date and time of your request.
   * [Read more](https://web.archive.org/view/privacy_policy) in the full privacy policy. 
 
 
@@ -61,11 +60,11 @@ This notice offers highlights of the full [Neenco Privacy Policy](https://web.ar
 **Uses**
 
   * We may use personal information to provide the services you've requested, including services that display customized content and advertising.
-  * We may also use personal information for auditing, research and analysis to operate and improve Neenco technologies and services.
-  * We may share [aggregated non-personal information](https://web.archive.org/web/20121014195034id_/http%3A//www.seo4experts.com/view/privacy_faq#aggregated_info) with third parties outside of Neenco.
+  * We may also use personal information for auditing, research and analysis to operate and improve SEO4Experts technologies and services.
+  * We may share [aggregated non-personal information](https://web.archive.org/web/20131102035350id_/http%3A//www.seo4experts.com/view/privacy_faq#aggregated_info) with third parties outside of SEO4Experts.
   * When we use third parties to assist us in processing your personal information, we require that they comply with our Privacy Policy and any other appropriate confidentiality and security measures.
   * We may also share information with third parties in limited circumstances, including when complying with legal process, preventing fraud or imminent harm, and ensuring the security of our network and services.
-  * Neenco processes personal information on our servers in the Hungary and in other countries. In some cases, we process personal information on a server outside your own country.
+  * SEO4Experts processes personal information on our servers in the Hungary and in other countries. In some cases, we process personal information on a server outside your own country.
   * [Read more](https://web.archive.org/view/privacy_policy) in the full privacy policy. 
 
 
@@ -81,4 +80,7 @@ This notice offers highlights of the full [Neenco Privacy Policy](https://web.ar
 
 **More information**
 
-For more information about our privacy practices, go to the [full privacy policy](https://web.archive.org/view/privacy_policy). If you have additional questions regarding your privacy and Neenco, please [contact us here](https://web.archive.org/view/contact_us).
+For more information about our privacy practices, go to the [full privacy policy](https://web.archive.org/view/privacy_policy). If you have additional questions regarding your privacy and SEO4Experts, please [contact us here](https://web.archive.org/view/contact_us).
+
+  
+
