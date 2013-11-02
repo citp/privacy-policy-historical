@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the foodbloggerpro.com privacy policy that was archived on 2013-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130430143124id_/https%3A//www.foodbloggerpro.com/%23privacy-info) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foodbloggerpro.com privacy policy that was archived on 2013-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131102155250id_/https%3A//www.foodbloggerpro.com/%23privacy-info) for the most accurate reproduction.*
 
 # Food Blogger Pro - Start and Grow Your Food Blog
 
