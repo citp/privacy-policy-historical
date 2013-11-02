@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the albumjams.com privacy policy that was archived on 2013-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130610022739id_/http%3A//albumjams.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the albumjams.com privacy policy that was archived on 2013-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131102020029id_/http%3A//albumjams.com/privacy-statement) for the most accurate reproduction.*
 
-# AlbumJams.com – Download and Review New Albums | Privacy Statement - AlbumJams.com - Download and Review New Albums
+# Privacy Statement - AlbumJams.com - Download and Review New Albums | AlbumJams.com – Download and Review New Albums
 
 AlbumJams.com is committed to protecting your privacy online. We will not rent, sell or share your personal information with third parties, except when required by law.
 
