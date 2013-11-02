@@ -1,6 +1,11 @@
-> *The following text is extracted and transformed from the sacred-destinations.com privacy policy that was archived on 2013-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130331001742id_/http%3A//www.sacred-destinations.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sacred-destinations.com privacy policy that was archived on 2013-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131102185705id_/http%3A//www.sacred-destinations.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
+
+  1. [Sacred Destinations](https://web.archive.org/)
+  2.  __Privacy Policy
+
+
 
 The Sacred Destinations website does not collect any personally-identifiable information from visitors. No part of the site requires you to register or log in, and we don't use cookies.
 
@@ -12,17 +17,11 @@ We use Google's advertising technology to serve relevant ads when you visit our 
 
 This privacy policy covers www.sacred-destinations.com only. Other sites we link to have their own privacy policies. 
 
-[Sacred Destinations Home](http://www.sacred-destinations.com/)     [About](http://www.sacred-destinations.com/about.htm)     [Contact](http://www.sacred-destinations.com/contact)     [Using Images](http://www.sacred-destinations.com/about-images.htm)     [Advertise](http://www.sacred-destinations.com/advertise)     [Blog](http://sacred-destinations.blogspot.com/)     [Twitter](http://twitter.com/sacreddest)     [Privacy Policy](http://www.sacred-destinations.com/privacy-policy.htm)  
-Stock photos of religious art and architecture available for licensing: [Sacred Destinations Images](http://www.sacreddestinationsimages.com/)   
-Except where indicated otherwise, all content and images © 2005-10 Sacred Destinations. All rights reserved. 
+## Article Info
 
-Sacred Destinations is an online travel guide to **sacred sites** , pilgrimages, holy places, religious history, sacred places, historical religious sites, archaeological sites,   
-religious festivals, sacred sites, spiritual retreats, religious travel and spiritual journeys. 
-
-Free content for your Google homepage or website! Get the [Sacred Destinations Daily Photo Gadget](http://www.sacred-destinations.com/google-gadget.htm)
-
-Travel resources: [Spiritual Tour Directory](http://www.sacred-destinations.com/tours/), [Sightseeing Tours](http://www.partner.viator.com/en/3888), [Hotels](http://www.sacred-destinations.com/trip-planning/hotels.htm), [Travel Insurance](https://web.archive.org/web/20130331001742id_/http%3A//trip-planning/travel-insurance)  
-Popular categories: [Ancient Mysteries](http://www.sacred-destinations.com/sacred-sites/ancient-mysteries.htm), [Biblical Sites](http://www.sacred-destinations.com/categories/biblical-sites), [Cathedrals](http://www.sacred-destinations.com/categories/cathedrals), [Catholic Shrines](http://www.sacred-destinations.com/sacred-sites/catholic-shrines.htm), [Footsteps of Jesus](http://www.sacred-destinations.com/israel/footsteps-of-jesus), [Luther Sites](http://www.sacred-destinations.com/germany/luther-trail.htm)  
-Popular sacred sites: [Easter Island](http://www.sacred-destinations.com/chile/easter-island), [Lourdes](http://www.sacred-destinations.com/france/lourdes), [Notre-Dame Cathedral](http://www.sacred-destinations.com/france/paris-notre-dame-cathedral), [Oberammergau Passion Play](http://www.sacred-destinations.com/germany/oberammergau-passion-play), [Shroud of Turin](http://www.sacred-destinations.com/italy/turin-shroud), [Sistine Chapel](http://www.sacred-destinations.com/italy/rome-sistine-chapel), [St. Mark's Basilica](http://www.sacred-destinations.com/italy/venice-san-marco), [St. Peter's Basilica](http://www.sacred-destinations.com/italy/rome-st-peters-basilica), [Stonehenge](http://www.sacred-destinations.com/england/stonehenge)  
-Popular city guides: [Rome](http://www.sacred-destinations.com/italy/rome), [Ravenna](http://www.sacred-destinations.com/italy/ravenna), [Ephesus](http://www.sacred-destinations.com/turkey/ephesus), [Assisi](http://www.sacred-destinations.com/italy/assisi), [Paris](http://www.sacred-destinations.com/france/paris), [Jerusalem](http://www.sacred-destinations.com/israel/jerusalem)  
-Popular maps: [England Map](http://www.sacred-destinations.com/england/england-map), [Italy Map](http://www.sacred-destinations.com/italy/rome-map), [Jerusalem Map](http://www.sacred-destinations.com/israel/jerusalem-map), [London Map](http://www.sacred-destinations.com/england/london-map), [Paris Map](http://www.sacred-destinations.com/france/paris-map), [Rome Map](http://www.sacred-destinations.com/italy/rome-map)
+Title:| Privacy Policy  
+---|---  
+Author:| []()  
+Last updated:|   
+Permalink:| [www.sacred-destinations.com/privacy-policy](http://www.sacred-destinations.com/privacy-policy)  
+Link code:| <a href="http://www.sacred-destinations.com/privacy-policy">Privacy Policy</a>
