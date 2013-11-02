@@ -1,53 +1,89 @@
-<!--The following is the downloaded HTML source of the ironplanet.com privacy policy that was archived on 2011-11-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111101122452id_/http%3A//www.ironplanet.com/main/privacy.jsp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ironplanet.com privacy policy that was archived on 2013-11-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131102224759id_/http%3A//www.ironplanet.com/pop/terms_page.jsp%3Fid%3D4%26noh1%3Dyes) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
-	<title>IronPlanet - Privacy Statement</title>
-		
-	<!-- Meta Tag Include -->
-	<meta name="description" content="IronPlanet is a full service heavy equipment marketplace and auction offering used construction equipment online including Caterpillar dozers, Case backhoes and other heavy equipment for sale.">
-	<meta name="keywords" content="IronPlanet, used heavy equipment, used construction equipment, construction equipment auction, heavy equipment auction, heavy equipment for sale, used caterpillar equipment, used backhoes, used dozers, earthmoving, loader, excavator, skid steer, compactor, grader, scraper, tractor, crawler, Caterpillar, Komatsu, Volvo, Deere, Case, Bobcat, Blaw Knox, Dynapac, Hitachi, Ingersoll-Rand, DynCorp, IronClad, inspections">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+	<title>IronPlanet - Terms and Conditions</title>
 	
-
-	
-	<!-- Global Stylesheets -->
-	
-
 
 <link rel="stylesheet" type="text/css" href="/css/ip_styles.css">
-
 <link rel="stylesheet" type="text/css" href="/css/en/ip_styles.css">
 
 <link rel="stylesheet" type="text/css" href="/css/ip_styles_buttons.css">
 <link rel="stylesheet" type="text/css" href="/css/en/ip_styles_buttons.css">
 
 <!--[if lte IE 7]>
-  <link rel="stylesheet" type="text/css" href="/css/ip_styles_ie7.css">
-  <link rel="stylesheet" type="text/css" href="/css/en/ip_styles_ie7.css">
+<link rel="stylesheet" type="text/css" href="/css/ip_styles_ie7.css">
+<link rel="stylesheet" type="text/css" href="/css/en/ip_styles_ie7.css">
 <![endif]-->
-
-<script type="text/javascript">
-<!--
-var maxNbOfTrialItems = 0;
-
-if (navigator.platform.indexOf('Mac') >= 0) {
-  document.write('<link rel="stylesheet" type="text/css" href="/css/ip_styles_mac.css">');
-  document.write('<link rel="stylesheet" type="text/css" href="/css/en/ip_styles_mac.css">');
-}
-//-->
-</script>
 
 	
 
+	<link rel="stylesheet" href="/css/en/item.css">
+	<script language="JavaScript" src="/js/ipscripts.jsp"></script>
+	
+	
+	<style>
+		li { padding-top:0px; }		
+    @media print {
+      	.noprint { display: none; }
+		.printonly {display:block; }
+		.popup_form	{ background-image:none; background-repeat:no-repeat; }		
+    }
+    @media screen {
+      	.printonly { display: none; }
+    }
+    p {
+    	margin:7px;
+    }
+    
+    h2 {
+    	font-size:18px; 
+    	color: #444;
+    	margin:15px 0px 20px 6px;
+    }
+    
+    table.sellerFees {
+    	border-collapse:collapse;
+    	border: 1px solid black;
+    	width:100%;
+    }
+    
+    table.sellerFees tr td {
+    	border: 1px solid black;
+    	padding:2px;
+    }
+    
+	</style>
 
 	<!-- Common JavaScript -->
 	<script language="JavaScript" type="text/javascript" src="/js/ipscripts.jsp"></script> 
-
-
+	<script language="JavaScript">
+	function showTab(sectionNum) {
+	document.getElementById('section'+sectionNum+'Tab').className = 'bigActivetab';
+	document.getElementById('section'+sectionNum).style.display = 'block';
+	for(var i = 1; i <= 4; i++) {
+		if(i != sectionNum) {
+			var sTab = document.getElementById('section'+i+'Tab'); 
+			if(sTab != null) {
+				sTab.className = 'bigTab';
+			}
+			var section = document.getElementById('section'+i);
+			if(section != null) {
+				section.style.display = 'none';
+			}
+		}
+	}
+	return false;
+}
+	</script>
+	
 </head>
-<body class="wcon">
-<div style="width:765px" id="bigboy">
 
+
+
+<body class="wcon">
+<div style="width:790px" id="bigboy">
 
 
 <!-- Begin /jsp/realm/1/navbar.jsp -->
@@ -55,6 +91,11 @@ if (navigator.platform.indexOf('Mac') >= 0) {
 <script type="text/javascript" src="/js/reg_login_overlay_data.jsp?lngParam=en_US&amp;fmtPrmtr=en_US"></script>
 <script type="text/javascript" src="/js/reg_login_overlay_code.js"></script>
 <script type="text/javascript" src="/js/md5.js"></script>
+<script type="text/javascript">
+if (!window.JS_view_home_Search_1090) {
+  window.JS_view_home_Search_1090 = 'Search...';
+}
+</script>
 <script type="text/javascript" src="/js/ipnavbar.js"></script>
 <script type="text/javascript">
 <!--
@@ -62,16 +103,17 @@ var loggedIn = getCookie("loggedin");
 var loginName = getCookie("login");
 var acsLevel = getCookie("reglevel");
 var termsTips = getCookie(loginName +"-termsTips");
+var idk = getCookie('idk');
 
 if(acsLevel == 2 && !loggedIn && loginName != null && termsTips==null) {
-	var w2 = window.open('http://www.ironplanet.com/pop/terms_popup.jsp','Terms','width=695, height=435,scrollbars=yes');
+  var w2 = window.open('http://www.ironplanet.com/pop/terms_popup.jsp','Terms','width=695, height=435,scrollbars=yes');
 
-	if(w2 != null)
-		w2.focus();
+  if(w2 != null)
+    w2.focus();
 
-	var today = new Date();
-	var expiry = new Date(today.getTime() + 30 * 24 * 60 * 60 * 1000);
-	document.cookie= loginName +"-termsTips=Y" + "; expires=" + expiry.toGMTString() +"; path=/";
+  var today = new Date();
+  var expiry = new Date(today.getTime() + 30 * 24 * 60 * 60 * 1000);
+  document.cookie= loginName +"-termsTips=Y" + "; expires=" + expiry.toGMTString() +"; path=/";
 }
 
 // ========== End Login Tracking ================================
@@ -79,134 +121,85 @@ if(acsLevel == 2 && !loggedIn && loginName != null && termsTips==null) {
 // ========== Login URL -- use dynamic value here, in case someone wants to direct it to different page after login ============
 var signinurl = '/jsp/acct/login.jsp?h=4';
 
+// Live Chat
+var loadChatAttempts=0;
+var chatDeptId = 17848;
 // -->
 </script>
+
+<link rel="stylesheet" href="/css/smoothness/jquery-ui-1.8.22.custom.css" type="text/css" media="all">
+<style>
+.ui-autocomplete-loading { background: white url('/n_images/loading.gif') right center no-repeat; }
+li.ui-menu-item {text-align:left;}
+</style>
+<script type="text/javascript" src="/js/m/jquery.1.7.1.min.js"></script>
+<script type="text/javascript" src="/js/m/jquery-ui-1.9.0.custom.min.js"></script>
+<script type="text/javascript" src="/js/autocomplete.js"></script>
 
 
 <div id="motd" class="no_motd"></div>
 
 
-
-
-	<table border="0" cellpadding="0" cellspacing="0" width="100%">
-	<tbody><tr><td rowspan="2" style="width:151px;">
-        <div id="sidebar">
-            <div id="sidebar_pad">
-                <a href="http://www.ironplanet.com/index.jsp" class="replace" id="logo_new" title="IronPlanet" style="margin: 0 0 0 0;"><span></span>ironplanet</a>
-            </div>
-        </div>
-	</td>
-	<td style="vertical-align: bottom;">
-		<table width="100%">
-		<tbody><tr><td style="text-align: left;">
-          <div id="content_location">
-            <ul>
-              <li>
-                <script type="text/javascript">
-                  <!-- 
-                    if (loginName == null) loginName = "";
-                      if (loginName != "")  {
-                      	if(loggedIn) {
-                      		document.write("<span style=\"white-space:nowrap\"><a title='"+decodeUTF8(loginName)+"' href='http://www.ironplanet.com/jsp/acct/my-account.jsp'>"+"My account"+"</a> | <a href=/jsp/logout_nd.jsp>"+"Sign out"+"</a></span>");
-                      	} else {
-                      		document.write("<span style=\"white-space:nowrap\"><a href=\"#\" onclick=\"window.location.href=signinurl;\" >Sign in</a></span>");
-                      	}
-                      } else {
-	                      document.write("<span style=\"white-space:nowrap\"><a href=\"#\" onClick=\"showRegistration('window.location.reload(true)', null, true)\">Sign up</a> | <a href=\"#\" onclick=\"window.location.href=signinurl;\">"+"Sign in"+"</a></span>");
-                    }
-                  // -->
-                </script><span style="white-space:nowrap"><a href="#" onclick="showRegistration('window.location.reload(true)', null, true)">Sign up</a> | <a href="#" onclick="window.location.href=signinurl;">Sign in</a></span>
-                <noscript>
-                  <a href='/jsp/acct/my-account.jsp'>Sign in</a> or <a href="/jsp/acct/register.jsp">Sign Up Now...</a> it's quick, easy, and FREE!
-                </noscript>
-              </li>
-              <li>|</li>
-              <li><a href="http://www.ironplanet.com/main/contact.jsp" style="color: black;font-weight: normal; padding-left: 2px;"><img src="/n_images/i_phone.gif"> 888-433-5426</a></li>
-              <li>|</li>
-              <li><a href="#" style="background:url(/n_images/DownArrow_b.gif) no-repeat left 2px;padding-left:12px;">English</a>
-              <ul>
-              <li>
-                    <script type="text/javascript">
-                      document.write('<a href="#" class="selected">English</a>');
-                    </script><a href="#" class="selected">English</a>
-                    <noscript>	
-                    <a href="http://www.ironplanet.com">English</a>						  
-                    </noscript>
-                  </li>
-            <li>
-                    <script type="text/javascript">
-                      document.write('<a href="javascript:do_lang_change(\'/jsp/acct/switchLocale.jsp?loc=es_MX\');" >Español</a>');
-                    </script><a href="javascript:do_lang_change('/jsp/acct/switchLocale.jsp?loc=es_MX');">Español</a>
-                    <noscript>	
-                    <a href="http://es.ironplanet.com">Español</a>						  
-                    </noscript>
-                  </li>
-            <li>
-                    <script type="text/javascript">
-                      document.write('<a href="javascript:do_lang_change(\'/jsp/acct/switchLocale.jsp?loc=fr_CA\');" >Français</a>');
-                    </script><a href="javascript:do_lang_change('/jsp/acct/switchLocale.jsp?loc=fr_CA');">Français</a>
-                    <noscript>	
-                    <a href="http://fr.ironplanet.com">Français</a>						  
-                    </noscript>
-                  </li>
-            
-            </ul></li></ul>
-          </div> 
-        </td><td style="width:100%;height:10px">
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+  <tbody><tr><td rowspan="2" style="width:151px; vertical-align: bottom;">
+    <div id="sidebar">
+      <div id="sidebar_pad">
+        <a href="http://www.ironplanet.com/?h=" class="replace" id="logo_new" title="IronPlanet" style="margin: 0 0 0 0;"><span></span>ironplanet</a>
+      </div>
+    </div>
+  </td>
+  <td style="vertical-align: bottom;">
+    <table width="100%"><tbody><tr><td class="nav-top">
+      <div class="content_search_btn">
+        <a href="javascript:void(0);" onclick="doNavSearch(document.navbarsearch);" class="orng-button"><span><img src="/n_images/search_icon_w.png" style="width:17px;height:17px;padding-top:5px;"></span></a>
+      </div>
+      <div id="content_search">
+        <form method="POST" action="http://www.ironplanet.com/jsp/s/search.ips" id="navbarsearch" name="navbarsearch" onsubmit="return doNavbarKeywordSearch(this);">
+          <input type="hidden" name="command" value="NewSearch">
+          <input type="hidden" name="kwtag" value="NavNewSearch">
+          <input type="submit" name="go" value="go" style="display: none;">
+          <input name="q" type="text" value="" placeholder="Search..." id="nav_search" class="input_search searchbox ui-autocomplete-input" autocomplete="off" style="z-index: 150; position: relative;"><span role="status" aria-live="polite" class="ui-helper-hidden-accessible"></span>
+        </form>
+      </div>
+      <div id="content_location">
+        <ul><li>
           <script type="text/javascript">
-            var keywordInputChanged = false;
-
-            function searchKeyword1(obj) {
-              if (!keywordInputChanged) {
-                keywordInputChanged = true;
-                obj.form.changedSearchValue.value = 'Y';
-                obj.value = '';
+            <!-- 
+              if (loginName == null) loginName = "";
+                if (loginName != "") {
+                  if(loggedIn || idk) {
+                    document.write("<span><a title='"+decodeUTF8(loginName)+"' href='http://www.ironplanet.com/jsp/acct/my-account.jsp'>"+"My account"+''+"</a> <span class=\"divider\">&nbsp;|&nbsp;</span> <a href=/jsp/logout_nd.jsp>"+"Sign out"+"</a></span>");
+                  } else {
+                    document.write("<span><a href=\"#\" onclick=\"window.location.href=signinurl;\" >Sign in</a></span>");
+                  }
+                } else {
+                  document.write("<span><a href=\"#\" onClick=\"showRegistration('window.location.reload(true)', null, true)\">Sign up</a> <span class=\"divider\">&nbsp;|&nbsp;</span> <a href=\"#\" onclick=\"window.location.href=signinurl;\">"+"Sign in"+"</a></span>");
               }
-            }
-
-            function doNavbarKeywordSearch(whichform) {
-              var nowhitespace = whichform.any.value.replace(/\s/, "");
-              if (whichform.changedSearchValue.value == 'Y' &&
-                  nowhitespace != "") {
-                return true;
-              }
-              return false;
-            }
-          </script>
-            <div style="width:210px;float:right;height:10px;">
-	            <div id="content_search">
-                <form method="POST" action="http://www.ironplanet.com/jsp/find/searchresults.jsp" onsubmit="return doNavbarKeywordSearch(this);">
-                  <input type="hidden" name="changedSearchValue" value="N">
-                  <input type="hidden" name="command" value="NewSearch">
-                  <input name="any" type="text" value="Search..." id="input_search" onclick="searchKeyword1(this);" onkeydown="searchKeyword1(this);" onfocus="searchKeyword1(this);">
-                  <input type="image" src="/n_images/go.gif" id="input_search_sub" alt="Go" title="Enter anything, such as make, model, item #, or a feature, and click Go!.">
-                </form>
-              </div> 
-              <div class="clear"></div>
-            </div>
-			</td></tr>
-			</tbody></table>
-        <div id="content">
-            <div id="main_menu">
-                <table border="0" cellpadding="0" cellspacing="0">
-                  <tbody>
-                        <tr>
-                          <td>
-                            <div>
-                              <a href="http://www.ironplanet.com/index.jsp" id="navtab_0"><span style="padding-top: 3px;"><img src="/n_images/home_icon.png" style="padding-left:4px;" onclick="window.location.href='http://www.ironplanet.com/index.jsp'"></span></a>
-                            </div>
-                          </td>
-                          <td>
-                            <div>
-                              <a href="http://www.ironplanet.com/Construction" id="navtab_1"><span>CONSTRUCTION</span></a>
-                              
-
+            // -->
+          </script><span><a href="#" onclick="showRegistration('window.location.reload(true)', null, true)">Sign up</a> <span class="divider">&nbsp;|&nbsp;</span> <a href="#" onclick="window.location.href=signinurl;">Sign in</a></span>
+          <noscript>
+            <a href='/jsp/acct/my-account.jsp'>Sign in</a> or <a href="/jsp/acct/register.jsp">Sign Up Now...</a> it's quick, easy, and FREE!
+          </noscript>
+        </li></ul>
+      </div>
+    </td>
+    </tr></tbody></table>
+    <div id="content">
+      <div id="main_menu">
+        <table border="0" cellpadding="0" cellspacing="0" width="100%">
+          <tbody>
+            <tr>
+              
+              <td>
+                <div>
+                  <a href="http://www.ironplanet.com/Construction" id="navtab_1"><span>CONSTRUCTION</span></a>
+                  
 
 
 <ul><li>
 	<a href="http://www.ironplanet.com/Aerial+Work+Platforms?ct=1" style="display:block">Aerial Work Platforms</a>
 	</li><li>
-	<a href="http://www.ironplanet.com/Backhoe+Loaders?ct=1" style="display:block">Backhoe Loaders</a>
+	<a href="http://www.ironplanet.com/Asphalt+Equipment?ct=1" style="display:block">Asphalt Equipment</a>
 	</li><li>
 	<a href="http://www.ironplanet.com/Compactors?ct=1" style="display:block">Compactors</a>
 	</li><li>
@@ -216,11 +209,11 @@ var signinurl = '/jsp/acct/login.jsp?h=4';
 	</li><li>
 	<a href="http://www.ironplanet.com/Generators?ct=1" style="display:block">Generators</a>
 	</li><li>
-	<a href="http://www.ironplanet.com/Scrapers?ct=1" style="display:block">Scrapers</a>
+	<a href="http://www.ironplanet.com/Telehandlers?ct=1" style="display:block">Telehandlers</a>
 	</li><li>
 	<a href="http://www.ironplanet.com/Trucks+-+Dump?ct=1" style="display:block">Trucks - Dump</a>
 	</li><li>
-	<a href="http://www.ironplanet.com/Water+Related+Equipment?ct=1" style="display:block">Water Related Equipment</a>
+	<a href="http://www.ironplanet.com/Trucks+-+Off-Road?ct=1" style="display:block">Trucks - Off-Road</a>
 	</li><li>
 	<a href="http://www.ironplanet.com/Wheel+Loaders?ct=1" style="display:block">Wheel Loaders</a>
 	</li>
@@ -231,24 +224,118 @@ var signinurl = '/jsp/acct/login.jsp?h=4';
 
 
 
-                   
-                            </div>
-                          </td>
-                          <td>
-                            <div>
-                              <a href="http://www.ironplanet.com/Agriculture" id="navtab_2"><span>AGRICULTURE</span></a>
-                              
-
+                </div>
+              </td>
+              <td>
+                <div>
+                  <a href="http://www.ironplanet.com/Cranes" id="navtab_12"><span>CRANES</span></a>
+                  
 
 
 <ul><li>
-	<a href="http://www.ironplanet.com/Combine+Harvesters?ct=2" style="display:block">Combine Harvesters</a>
+	<a href="http://www.ironplanet.com/Cranes+-+Crawler?ct=12" style="display:block">Cranes - Crawler</a>
 	</li><li>
+	<a href="http://www.ironplanet.com/Cranes+-+Dockside+%26+Offshore?ct=12" style="display:block">Cranes - Dockside &amp; Offshore</a>
+	</li><li>
+	<a href="http://www.ironplanet.com/Cranes+-+Mobile?ct=12" style="display:block">Cranes - Mobile</a>
+	</li><li>
+	<a href="http://www.ironplanet.com/Cranes+-+Overhead?ct=12" style="display:block">Cranes - Overhead</a>
+	</li><li>
+	<a href="http://www.ironplanet.com/Cranes+-+Tower?ct=12" style="display:block">Cranes - Tower</a>
+	</li><li>
+	<a href="http://www.ironplanet.com/Trucks+-+Boom?ct=12" style="display:block">Trucks - Boom</a>
+	</li>
+ <li>&nbsp;</li>
+<li><a href="http://www.ironplanet.com/Cranes" style="display:block">ALL CRANES</a>
+</li>
+</ul>
+
+
+
+                </div>
+              </td>
+              <td>
+                <div>
+                  <a href="http://www.ironplanet.com/Mining" id="navtab_28"><span>MINING</span></a>
+                  
+
+
+<ul><li>
+	<a href="http://www.ironplanet.com/Blast+Hole+Drills?ct=28" style="display:block">Blast Hole Drills</a>
+	</li><li>
+	<a href="http://www.ironplanet.com/Bore+%2F+Trench+%2F+Drill+Equipment?ct=28" style="display:block">Bore / Trench / Drill Equipment</a>
+	</li><li>
+	<a href="http://www.ironplanet.com/Crawler+Tractors?ct=28" style="display:block">Crawler Tractors</a>
+	</li><li>
+	<a href="http://www.ironplanet.com/Excavators?ct=28" style="display:block">Excavators</a>
+	</li><li>
+	<a href="http://www.ironplanet.com/Motor+Graders+?ct=28" style="display:block">Motor Graders </a>
+	</li><li>
+	<a href="http://www.ironplanet.com/Trucks+-+Off-Road?ct=28" style="display:block">Trucks - Off-Road</a>
+	</li><li>
+	<a href="http://www.ironplanet.com/Wheel+Dozers?ct=28" style="display:block">Wheel Dozers</a>
+	</li><li>
+	<a href="http://www.ironplanet.com/Wheel+Loaders?ct=28" style="display:block">Wheel Loaders</a>
+	</li>
+ <li>&nbsp;</li>
+<li><a href="http://www.ironplanet.com/Mining" style="display:block">ALL MINING</a>
+</li>
+</ul>
+
+
+
+                </div>
+              </td>
+              <td>
+                <div>
+                  <a href="http://www.ironplanet.com/Oil+%26+Gas" id="navtab_7"><span>OIL &amp; GAS</span></a>
+                  
+
+
+<ul><li>
+	<a href="http://www.ironplanet.com/Air+Compressors?ct=7" style="display:block">Air Compressors</a>
+	</li><li>
+	<a href="http://www.ironplanet.com/Backhoe+Loaders?ct=7" style="display:block">Backhoe Loaders</a>
+	</li><li>
+	<a href="http://www.ironplanet.com/Bore+%2F+Trench+%2F+Drill+Equipment?ct=7" style="display:block">Bore / Trench / Drill Equipment</a>
+	</li><li>
+	<a href="http://www.ironplanet.com/Compactors?ct=7" style="display:block">Compactors</a>
+	</li><li>
+	<a href="http://www.ironplanet.com/Crawler+Tractors?ct=7" style="display:block">Crawler Tractors</a>
+	</li><li>
+	<a href="http://www.ironplanet.com/Generators?ct=7" style="display:block">Generators</a>
+	</li><li>
+	<a href="http://www.ironplanet.com/Skid-Steer+Loaders?ct=7" style="display:block">Skid-Steer Loaders</a>
+	</li><li>
+	<a href="http://www.ironplanet.com/Trucks+-+Flatbed?ct=7" style="display:block">Trucks - Flatbed</a>
+	</li><li>
+	<a href="http://www.ironplanet.com/Trucks+-+Service%2FUtility?ct=7" style="display:block">Trucks - Service/Utility</a>
+	</li><li>
+	<a href="http://www.ironplanet.com/Wheel+Loaders?ct=7" style="display:block">Wheel Loaders</a>
+	</li>
+ <li>&nbsp;</li>
+<li><a href="http://www.ironplanet.com/Oil+%26+Gas" style="display:block">ALL OIL &amp; GAS</a>
+</li>
+</ul>
+
+
+
+                </div>
+              </td>
+              <td>
+                <div>
+                  <a href="http://www.ironplanet.com/Agriculture" id="navtab_2"><span>AGRICULTURE</span></a>
+                  
+
+
+<ul><li>
 	<a href="http://www.ironplanet.com/Compact+Track+Loaders?ct=2" style="display:block">Compact Track Loaders</a>
 	</li><li>
 	<a href="http://www.ironplanet.com/Farm+Tractors?ct=2" style="display:block">Farm Tractors</a>
 	</li><li>
-	<a href="http://www.ironplanet.com/Fruit+%26+Vegetable+Harvesters?ct=2" style="display:block">Fruit &amp; Vegetable Harvesters</a>
+	<a href="http://www.ironplanet.com/Feed+Handling+Equipment?ct=2" style="display:block">Feed Handling Equipment</a>
+	</li><li>
+	<a href="http://www.ironplanet.com/Landscape+Loaders?ct=2" style="display:block">Landscape Loaders</a>
 	</li><li>
 	<a href="http://www.ironplanet.com/Landscaping+Equipment?ct=2" style="display:block">Landscaping Equipment</a>
 	</li><li>
@@ -269,20 +356,22 @@ var signinurl = '/jsp/acct/login.jsp?h=4';
 
 
 
-                   
-                            </div>
-                          </td>
-                          <td>
-                            <div>
-                              <a href="http://www.ironplanet.com/Trucks" id="navtab_3"><span>TRUCKS</span></a>
-                              
-
+                </div>
+              </td>
+              <td>
+                <div>
+                  <a href="http://www.ironplanet.com/Trucks" id="navtab_3"><span>TRUCKS</span></a>
+                  
 
 
 <ul><li>
 	<a href="http://www.ironplanet.com/Trailers+-+Dump?ct=3" style="display:block">Trailers - Dump</a>
 	</li><li>
-	<a href="http://www.ironplanet.com/Trailers+-+Flatbed?ct=3" style="display:block">Trailers - Flatbed</a>
+	<a href="http://www.ironplanet.com/Trailers+-+Equipment?ct=3" style="display:block">Trailers - Equipment</a>
+	</li><li>
+	<a href="http://www.ironplanet.com/Trucks+-+Cab+%26+Chassis?ct=3" style="display:block">Trucks - Cab &amp; Chassis</a>
+	</li><li>
+	<a href="http://www.ironplanet.com/Trucks+-+Conventional+Tractor?ct=3" style="display:block">Trucks - Conventional Tractor</a>
 	</li><li>
 	<a href="http://www.ironplanet.com/Trucks+-+Dump?ct=3" style="display:block">Trucks - Dump</a>
 	</li><li>
@@ -292,13 +381,9 @@ var signinurl = '/jsp/acct/login.jsp?h=4';
 	</li><li>
 	<a href="http://www.ironplanet.com/Trucks+-+Pickup?ct=3" style="display:block">Trucks - Pickup</a>
 	</li><li>
-	<a href="http://www.ironplanet.com/Trucks+-+Service?ct=3" style="display:block">Trucks - Service</a>
+	<a href="http://www.ironplanet.com/Trucks+-+Service%2FUtility?ct=3" style="display:block">Trucks - Service/Utility</a>
 	</li><li>
-	<a href="http://www.ironplanet.com/Trucks+-+Tractor?ct=3" style="display:block">Trucks - Tractor</a>
-	</li><li>
-	<a href="http://www.ironplanet.com/Waste+%26+Recycling+Equipment?ct=3" style="display:block">Waste &amp; Recycling Equipment</a>
-	</li><li>
-	<a href="http://www.ironplanet.com/Water+Related+Equipment?ct=3" style="display:block">Water Related Equipment</a>
+	<a href="http://www.ironplanet.com/Trucks+-+Water?ct=3" style="display:block">Trucks - Water</a>
 	</li>
  <li>&nbsp;</li>
 <li><a href="http://www.ironplanet.com/Trucks" style="display:block">ALL TRUCKS</a>
@@ -307,289 +392,1221 @@ var signinurl = '/jsp/acct/login.jsp?h=4';
 
 
 
-                   
-                            </div>
-                          </td>
-                          <td>
-                            <div>
-                              <a href="http://www.ironplanetmotors.com" id="navtab_13"><span>MOTORS</span></a>
+                </div>
+              </td>
+              <td>
+                <div>
+                  <a href="http://www.ironplanet.com/Motors" id="navtab_13"><span>MOTORS</span></a>
+                  
 
-                            </div>
-                          </td>
-                          <td>
-                            <div>
-                              <a href="http://www.ironplanet.com/Real+Estate" id="navtab_4"><span>REAL ESTATE</span></a>
-                                                 
-                            </div>
-                          </td>
-                          <td>
-                            <div>
-                              <a href="http://www.ironplanet.com/jsp/category/category.jsp" id="navtab_more"><span>MORE</span></a>
-                              
-                               
-                              <ul id="moreTab">
-                                
-	                                <li>
-	                                  <a href="http://www.ironplanet.com/Attachments+%26+Parts" style="display:block">Attachments &amp; Parts</a>
-	                                </li>
-                                
-	                                <li>
-	                                  <a href="http://www.ironplanet.com/Complete+Liquidations" style="display:block">Complete Liquidations</a>
-	                                </li>
-                                
-	                                <li>
-	                                  <a href="http://www.ironplanet.com/Cranes" style="display:block">Cranes</a>
-	                                </li>
-                                
-	                                <li>
-	                                  <a href="http://www.ironplanet.com/Forestry" style="display:block">Forestry</a>
-	                                </li>
-                                
-	                                <li>
-	                                  <a href="http://www.ironplanet.com/Lift+Trucks" style="display:block">Lift Trucks</a>
-	                                </li>
-                                
-	                                <li>
-	                                  <a href="http://www.ironplanet.com/Mining%2FQuarry%2FAggregate" style="display:block">Mining/Quarry/Aggregate</a>
-	                                </li>
-                                
-	                                <li>
-	                                  <a href="http://www.ironplanet.com/Oil+%26+Gas" style="display:block">Oil &amp; Gas</a>
-	                                </li>
-                                
-	                                <li>
-	                                  <a href="http://www.ironplanet.com/Rental" style="display:block">Rental</a>
-	                                </li>
-                                
-                                <li>&nbsp;</li>
-                                <li>
-                                  <a href="http://www.ironplanet.com/jsp/category/category.jsp">ALL CATEGORIES</a>
-                                </li>
-                              </ul>
-                            </div>
-                          </td>
-                      </tr>
-                  </tbody>
-                </table>
-            </div>
-        </div>
-	</td>	
-	</tr>
-	<tr style="height: 4px;">
-	<td style="padding: 0px 10px 0px 16px; vertical-align: bottom;">
-		<div style="height:4px;width:100%;background:url('/n_images/main_menu_bg.gif') repeat-x left bottom;"></div>
-	</td>
-	</tr>
-	</tbody></table>
+
+<ul><li>
+	<a href="http://www.ironplanet.com/Automobiles?ct=13" style="display:block">Automobiles</a>
+	</li><li>
+	<a href="http://www.ironplanet.com/Boats?ct=13" style="display:block">Boats</a>
+	</li><li>
+	<a href="http://www.ironplanet.com/Busses?ct=13" style="display:block">Busses</a>
+	</li><li>
+	<a href="http://www.ironplanet.com/Golf+Carts?ct=13" style="display:block">Golf Carts</a>
+	</li><li>
+	<a href="http://www.ironplanet.com/Recreational+Vehicles?ct=13" style="display:block">Recreational Vehicles</a>
+	</li><li>
+	<a href="http://www.ironplanet.com/Trucks+-+Pickup?ct=13" style="display:block">Trucks - Pickup</a>
+	</li><li>
+	<a href="http://www.ironplanet.com/Trucks+-+SUV?ct=13" style="display:block">Trucks - SUV</a>
+	</li><li>
+	<a href="http://www.ironplanet.com/Utility+Vehicles?ct=13" style="display:block">Utility Vehicles</a>
+	</li>
+ <li>&nbsp;</li>
+<li><a href="http://www.ironplanet.com/Motors" style="display:block">ALL RECREATION</a>
+</li>
+</ul>
 
 
 
+
+                </div>
+              </td>
+              <td>
+                <div>
+                  <a href="http://www.ironplanet.com/jsp/s/category.ips" id="navtab_more"><span>MORE</span></a>
+                  
+
+                  <ul id="moreTab">
+                    
+                      <li>
+                        
+
+                        <a href="http://www.ironplanet.com/Attachments+%26+Parts" style="display:block">Attachments &amp; Parts</a>
+                        
+                      </li>
+                    
+                      <li>
+                        
+
+                        <a href="http://www.ironplanet.com/Complete+Liquidations" style="display:block">Complete Liquidations</a>
+                        
+                      </li>
+                    
+                      <li>
+                        
+
+                        <a href="http://www.ironplanet.com/Forestry" style="display:block">Forestry</a>
+                        
+                      </li>
+                    
+                      <li>
+                        
+
+                        <a href="http://www.ironplanet.com/Forklifts" style="display:block">Forklifts</a>
+                        
+                      </li>
+                    
+                      <li>
+                        
+
+                        <a href="http://www.ironplanet.com/Quarry+%26+Aggregate" style="display:block">Quarry &amp; Aggregate</a>
+                        
+                      </li>
+                    
+                      <li>
+                        
+
+                          <a href="/jsp/s/howto/howtoSell.html?title=Real_Estate" style="display:block">Real Estate</a>
+                          
+                      </li>
+                    
+                      <li>
+                        
+
+                        <a href="http://www.ironplanet.com/Rental" style="display:block">Rental</a>
+                        
+                      </li>
+                    
+                    <li>&nbsp;</li>
+                    <li>
+                      <a href="http://www.ironplanet.com/jsp/s/category.ips">ALL CATEGORIES</a>
+                    </li>
+                  </ul>
+                </div>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+  </td>
+  </tr>
+  <tr class="nav-horiz-divider">
+    <td>
+      <div>&nbsp;</div>
+    </td>
+  </tr>
+</tbody></table>
 
 <table id="layout" style="width:100%" cellspacing="0" cellpadding="0" border="0">
-<tbody><tr><td class="lh_nav" style="vertical-align:top;">
+
+<tbody><tr><td class="lh_nav" style="vertical-align:top;background-repeat:repeat-x; padding-top:3px;">
+
+ 
+
+
 
 	
-	<img src="/k_images/dot.gif" width="160" height="1">
+	<div id="sidebar_item" class="sidebar_item ">
+	<h2>
+	
+	<img src="/t/text/ffffff/000000/12,130x/l/Auctions+Overview.gif" alt="Auctions Overview">
+	
+	</h2>
+		
+			<ul>
+			
+			
+					
+			
+				
+				
+					<a href="/jsp/s/howto/howtoBuy.html?title=How+it+works">How it works</a>
+				
+				
+			
+			
+			
+			</ul>
+		
+			<ul>
+			
+			
+					
+			
+				
+				
+					<a href="/jsp/s/howto/howtoBuy.html?title=Inspection+reports">Inspection reports</a>
+				
+				
+			
+			
+			
+			</ul>
+		
+			<ul>
+			
+			
+					
+			
+				
+				
+					<a href="/jsp/s/howto/howtoBuy.html?title=IronClad+Assurance%C2%AE">IronClad Assurance®</a>
+				
+				
+			
+			
+			
+			</ul>
+		
+			<ul>
+			
+			
+				
+					
+					
+					
+						<img src="/n_images/LeftArrow_b.gif">		
+					
+				
+			
+			
+					
+			
+				
+				
+					<a href="/jsp/s/howto/howtoBuy.html?title=How+to+buy">How to buy</a>
+				
+				
+			
+			
+			
+			</ul>
+		
+			<ul>
+			
+			
+				
+					
+					
+					
+						<img src="/n_images/LeftArrow_b.gif">		
+					
+				
+			
+			
+					
+			
+				
+				
+					<a href="/jsp/s/howto/howtoSell.html?title=How+to+sell">How to sell</a>
+				
+				
+			
+			
+			
+			</ul>
+		
+			<ul>
+			
+			
+					
+			
+				
+					<a href="javascript:popUp('/pop/terms.jsp','form','width=620,height=480,menubar,resizable,status,scrollbars');">Terms and Conditions</a>
+				
+				
+				
+			
+			
+			
+			</ul>
+		
+			<ul>
+			
+			
+					
+			
+				
+					<a href="javascript:popUp('/pop/terms.jsp?id=4','form','width=620,height=480,menubar,resizable,status,scrollbars');">Privacy Statement</a>
+				
+				
+				
+			
+			
+			
+			</ul>
+		
+	</div>
+	
 
 
+	
+
+
+<br><table cellpadding="0" cellspacing="0" border="0"><tbody><tr><td align="center"><a href="http://v.velaro.com/visitor/requestchat.aspx?siteid=9525&amp;showwhen=inqueue&amp;deptid=17847" target="OnlineChatSoftware" onclick="this.newWindow = window.open('http://c.velaro.com/visitor/requestchat.aspx?siteid=9525&amp;showwhen=inqueue&amp;deptid=17847&amp;forcename='+(getCookie('login')==null||getCookie('login')==''?'':getCookie('login'))+'&amp;login='+(getCookie('login')==null||getCookie('login')==''?'':getCookie('login')), 'OnlineChatSoftware', 'toolbar=no,location=no,directories=no,menubar=no,status=no,scrollbars=no,resizable=yes,replace=no,width=400,height=450');this.newWindow.focus();this.newWindow.opener=window;return false;"><img alt="" src="http://c.velaro.com/visitor/check.aspx?siteid=9525&amp;showwhen=inqueue&amp;deptid=17847" border="0" onerror="this.style.display='none';" style="display: none;"></a></td></tr><tr><td align="center"><font size="1" face="Arial"><a href="http://www.velaro.com/Online+Chat+Software?cid=146" target="Velaro" style="text-decoration: none"></a></font></td></tr></tbody></table>
+
+</td>
+<td id="main_body" class="main_body">
+
+
+
+
+
+	<table class="bigTabs" border="0" cellpadding="0" cellspacing="0">
+          <tbody><tr><td><img src="/images/space.gif" width="1" height="10" align="left" vspace="0" hspace="0"></td></tr>
+    </tbody></table>
+
+
+	<table class="bigTabs" border="0" cellpadding="0" cellspacing="0">
+<tbody><tr>
+
+  <td class="bigTab" id="section1Tab"><a href="#" onclick="showTab(1);return false;"><b>Site Usage<br>Terms and Conditions</b></a></td>
+  
+  <td class="bigTab" id="section2Tab"><a href="#" onclick="showTab(2);return false;"><b>Buyer Terms <br>and Conditions</b></a></td>
+  
+  
+  <td class="bigTab" id="section3Tab"><a href="#" onclick="showTab(3);return false;"><b>Seller Terms <br>and Conditions</b></a></td>
+  <td class="bigActivetab" id="section4Tab"><a href="#" onclick="showTab(4);return false;"><b>Privacy <br>Statement</b></a></td>
+  <td style="width:100%">&nbsp;</td>
+</tr></tbody></table>
+		
+<div id="section1" style="clear: both; display: none;">	
+	<div style="border:1px solid #999; border-top: 0px; padding:2px;">	
+	<p>
+    <span style="float:right;">Revised April 12, 2013</span>
+	</p><h2>Site Usage Terms and Conditions</h2>
+	<p></p>
+    <p>The following Site Usage Terms and Conditions ("<b>Site Usage Terms</b>") govern the use of the IronPlanet, Inc. ("<b>IronPlanet</b>") operated website(s) (e.g., www.ironplanet.com, eu.ironplanet.com and www.truckplanet.com) (each a "<b>Site</b>") and related services. For users using eu.ironplanet.com, you are contracting with IronPlanet Limited, an entity organized under the laws of Ireland.  For all other users, you are contracting with IronPlanet, Inc., a Delaware corporation.  In each case, the respective entity to which you are contracting shall be referred to as "we" or "IronPlanet". IronPlanet may, in its sole discretion, change, modify, add or remove any portion of the Site Usage Terms, in whole or in part, from time to time with or without notice to you, by posting such changes on the Site, and once posted such changes shall come into full force and effect.  Your continued use of the Site after changes are posted will constitute your agreement to such changed Site Usage Terms. The Site Usage Terms were last revised on April 12, 2013.  
+ 	</p>
+ <p>
+ <b><i>If you have any questions, please contact <a href="mailto:CustomerCare@ironplanet.com">CustomerCare@ironplanet.com</a> or <a href="mailto:EuropeCare@ironplanet.com">EuropeCare@ironplanet.com</a>.</i></b>
+ </p>
+ <p>
+<b>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;CAPACITY TO CONTRACT</b>. The Site is available only to individuals or entities that can form legally binding contracts.  Without limiting the foregoing, minors in any jurisdiction and individuals who have been suspended from the Site may not use the Site.
+</p><p>
+<b>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;REGISTRATION</b>.  Registration is required to use certain features of the Site.  IronPlanet reserves the right, in its sole discretion, to disapprove of any request to become a registered user (a "Registered User") and to suspend or terminate your authorization to use the Site for any reason. By registering with the Site, you agree to comply with these Site Usage Terms and Conditions and, when buying or selling equipment through the Site, with the <a href="/pop/terms.jsp?id=2">Buyer Terms and Conditions</a> and <a href="/pop/terms.jsp?id=3">Seller Terms and Conditions</a>, respectively. 
+</p><p>
+<b>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;LOGIN ID, PASSWORD, SECURITY</b>.  You are solely responsible for protecting the confidentiality of your login ID and password and are responsible for all use of your Site account.  You agree to notify IronPlanet immediately of any unauthorized use of any login ID and/or password or any other breach of security regarding the Site. 
+</p><p>
+<b>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;USER RESPONSIBILITIES</b>. You agree to comply with all applicable laws and regulations regarding your use of the Site.   You agree not to engage in any of the following prohibited activities:  (i) copying, distributing, or disclosing any part of the Site in any medium, including without limitation by any automated or non-automated "scraping";  (ii) using any automated system, including without limitation "robots", "spiders", "offline readers", etc., to access the Site in a manner that sends more request messages to IronPlanet's servers than a human can reasonably produce in the same period of time by using a conventional online web browser;  (iii) attempting to interfere with, compromise the system integrity or security or decipher any transmissions to or from the servers running the Site;  (iv) taking any action that imposes, or may impose at our sole discretion an unreasonable or disproportionately large load on our infrastructure;  (v) uploading invalid data, viruses, worms, or other software agents through the Site;  (vi) collecting or harvesting any personally identifiable information, including account names, from the Site;  (vii) using the Site for any commercial solicitation purposes;  (viii) impersonating another person or otherwise misrepresenting your affiliation with a person or entity, conducting fraud, hiding or attempting to hide your identity; or (ix) bypassing the measures we may use to prevent or restrict access to the Services.
+</p><p>
+<b>5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;USER INFORMATION AND PRIVACY STATEMENT</b>.  IronPlanet has made a commitment to protect the confidentiality and privacy of your personally identifiable information.  Please see IronPlanet's Privacy Statement, located at <a href="http://ironplanet.com/main/privacy.jsp">http://ironplanet.com/main/privacy.jsp</a> and incorporated herein by reference, for more information about our collection, use and protection of your personal information.  By using the Site, you are specifically consenting and agreeing to IronPlanet's Privacy Statement and, if you're located in the European Union, you expressly consent that IronPlanet may transfer, process and store your personal data within and without the European Union.
+</p><p>
+<b>6.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;THIRD PARTY LINKS</b>.  The Site may contain links to third-party websites, advertisers, or services that are not owned or controlled by IronPlanet. Where IronPlanet provides such third-party links, no representations or endorsements are made in connection with such sites.  IronPlanet has no control over, and assumes no responsibility for, the content, privacy policies, or practices of any third-party websites or services.  If you access a third-party website from the Site, you do so at your own risk, and you understand that these Site Usage Terms and IronPlanet's Privacy Statement do not apply to your use of such sites.  You expressly relieve IronPlanet from any and all liability arising from your use of any third-party website or services or third-party owned content.   Additionally, your dealings with or participation in promotions of advertisers found on the Site, including payment and delivery of goods, and any other terms (such as warranties) are solely between you and such third parties.  You agree that IronPlanet shall not be responsible for any loss or damage of any sort relating to your dealings with such third parties.  We encourage you to be aware of when you leave the Site, and to read the terms and conditions and privacy policy of any third-party website or service that you visit. 
+</p><p>
+<b>7.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;MODIFICATION AND AVAILABILITY</b>. IronPlanet may, at any time, delete, modify or supplement the content of this Site without prior notice.  IronPlanet reserves the right, for any reason, at its sole discretion, to terminate, change, suspend or discontinue any aspect of the Site, including, but not limited to, content, features or hours of availability.  IronPlanet may also impose limits on certain features of the Site or restrict your access to all or part of the Site without notice or penalty. 
+</p><p>
+<b>8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;MONITORING</b>. You agree that IronPlanet has the right, but not the obligation, to monitor at any time, for any reason at its sole discretion, all material and content on the Site and usage of the Site.   
+</p><p>
+<b>9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;SERVICE AVAILABILITY</b>. IronPlanet makes reasonable commercial efforts to make its Services and Site available.  However, IronPlanet is not responsible for any service interruptions, including, but not limited to, interruptions that may affect the receipt, processing and acceptance of bids or other aspects of an auction or sale. 
+</p><p>
+<b>10.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;SECURITY</b>. We have implemented commercially reasonable technical and organizational measures designed to secure your personal information from accidental loss and from unauthorized access, use, alteration or disclosure.  However, we cannot guarantee that unauthorized third parties will never be able to defeat those measures or use your personal information for improper purposes. You acknowledge that you provide your personal information at your own risk. 
+</p><p>
+<b>11.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;COPYRIGHT AND TRADEMARKS</b>. The trademarks, trade names, designs and all material contained on this Site or through other Services, including all portions of the website, content, site design, text, graphics, and all intellectual property rights thereto are the sole and exclusive property of IronPlanet or its licensors.  The use of any such property for any other reason, on any other website, or the modification, distribution or republication of this material without the prior written permission from IronPlanet is strictly prohibited. 
+</p><p>
+<b>12.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;TERMINATION</b>.  Without limiting any other remedies, IronPlanet shall have the right to terminate your access to the Site and features to which you may have registered at any time, without notice, in IronPlanet's sole discretion for any reason, including, without limitation, if we determine that you have violated the Site.
+</p><p>
+<b>13.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;DISCLAIMER; LIMITATION OF LIABILITY</b>
+</p><p>
+<b>13.1.&nbsp;&nbsp;&nbsp;Disclaimer</b>. THE SITE AND OTHER SERVICES, INCLUDING ALL CONTENT, FUNCTIONS, MATERIALS AND INFORMATION MADE AVAILABLE ON OR ACCESSED THROUGH THE SITE OR OTHER SERVICES (INCLUDING WITHOUT LIMITATION THE INSPECTION REPORT), ARE PROVIDED ON AN "AS IS, WHERE IS, AS AVAILABLE" BASIS WITHOUT REPRESENTATIONS OR WARRANTIES OF ANY KIND WHATSOEVER, EXPRESS OR IMPLIED, INCLUDING, WITHOUT LIMITATION, NON-INFRINGEMENT, MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE.  IRONPLANET DOES NOT WARRANT THAT THE SITE OR OTHER SERVICES, OR THE FUNCTIONS, FEATURES OR CONTENT, INCLUDING THE INSPECTION REPORT, CONTAINED THEREIN, WILL BE FUNCTIONAL, TIMELY, SECURE, UNINTERRUPTED OR ERROR FREE, OR THAT DEFECTS WILL BE CORRECTED.  IRONPLANET MAKES NO WARRANTY THAT THE SITE OR OTHER SERVICES WILL MEET YOUR REQUIREMENTS OR EXPECTATIONS. IF YOU ARE DISSATISFIED WITH THE SITE OR ANY OTHER SERVICES, YOUR SOLE REMEDY IS TO DISCONTINUE USING THE SITE AND OTHER SERVICES. TO THE EXTEND PERMITTED UNDER ANY GOVERNING LAW, NO ADVICE OR INFORMATION, WHETHER ORAL OR WRITTEN, OBTAINED BY YOU FROM IRONPLANET OR THROUGH THE SITE AND OTHER SERVICES SHALL CREATE ANY WARRANTY NOT EXPRESSLY MADE HEREIN. 
+</p><p>
+<b>13.2.&nbsp;&nbsp;&nbsp;Limitation of Liability</b>.  TO THE FULLEST EXTENT PERMITTED BY LAW, IN NO EVENT SHALL IRONPLANET BE LIABLE FOR ANY SPECIAL, INDIRECT, PUNITIVE, COVER, INCIDENTAL OR CONSEQUENTIAL DAMAGES, HOWEVER CAUSED, WHETHER IN CONTRACT OR TORT OR UNDER ANY OTHER THEORY OF LIABILITY, INCLUDING WITHOUT LIMITATION, LOSS OF REVENUE, ANTICIPATED PROFITS BUSINESS OR SALES, EVEN IF IRONPLANET OR AN AUTHORIZED REPRESENTATIVE THEREOF HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.  IN NO EVENT SHALL THE TOTAL LIABILITY OF IRONPLANET TO YOU FOR ALL DAMAGES, LOSSES, AND CAUSES OF ACTION (WHETHER IN CONTRACT OR TORT, INCLUDING, BUT NOT LIMITED TO, NEGLIGENCE, PRODUCT LIABILITY OR OTHERWISE) ARISING FROM THIS AGREEMENT OR YOUR USE OF THE SITE AND OTHER SERVICES EXCEED, IN THE AGGREGATE, $100.00. 
+</p><p>
+<b>14.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;GOVERNING LAW</b>.  For users contracting with IronPlanet, Inc., these Site Usage Terms shall be governed by the laws of the State of California.  For users contracting with IronPlanet Limited, these Site Usage Terms shall be governed by the laws of Ireland.  In each case, the Site Usage Terms shall be governed by the laws of such jurisdiction without regard to conflict of laws principles.  The United Nations Convention on Contracts for the International Sale of Goods and, if user is located in the United States, the Uniform Computer Information Transactions Act, do not apply.    
+</p><p>
+<b>15.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;NOTICES</b>.  Any notice to IronPlanet Limited must be in writing and must be sent via email to europecare@ironplanet.com <u>and</u> by registered mail or overnight courier to IronPlanet Limited, c/o IronPlanet, Inc., 3825 Hopyard Road, Suite 250, Pleasanton, CA 94588, U.S.A, Attn:  General Counsel.  Any notice to IronPlanet, Inc. must be in writing and must be sent via email to customercare@ironplanet.com <u>and</u> by registered mail or overnight courier to IronPlanet, Inc., 3825 Hopyard Road, Suite 250, Pleasanton, CA 94588, U.S.A, Attn:  General Counsel.  Any notice to you shall be given by email to the email address provided to you during registration as a Registered User, or as subsequently updated by you, or via posting on the Site, any of which you agree shall be sufficient notice to you.  Notice shall be deemed to have been given to you upon twenty-four (24) hours after it has been sent or at the time the information was posted on the Site.  If you change your email address, you are responsible for updating your account profile.  
+</p><p>
+<b>16.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;MISCELLANEOUS</b>.  If any provision of these Site Usage Terms is held by a court of competent jurisdiction to be invalid or unenforceable, then such provision shall be enforced to the maximum extent permissible so as to affect the intent of these Site Usage Terms, and the remainder of these Site Usage Terms shall continue in full force and effect.  The failure by IronPlanet to exercise or enforce any rights or provisions of these Site Usage Terms shall not constitute a waiver of such right or provision.  All provisions in these Site Usage Terms regarding representations and warranties, indemnification, disclaimers and limitations on liability shall survive any termination of these Site Usage Terms.  If a translation of these Site Usage Terms into any other language is required by law, the English version will prevail to the extent that there is any conflict or discrepancy in meaning between the English version and any translation thereof.  If these Site Usage Terms are provided to you in a language other than English, IronPlanet does so solely for your convenience.  These Site Usage Terms contain the entire agreement with respect to the use of the Site, and supersede all previous communications, representations, understandings and agreements, either oral or written, between us.  
+</p><p>
+<br>
+______________________________________________
+<br>
+</p><p>
+<b>Copyright Policy</b><br>
+</p><p>
+IronPlanet respects the intellectual property of others, and we expect our users to do the same. IronPlanet may suspend and/or terminate listings and/or the accounts of users who infringe the rights of others. If you believe that your copyrights or other intellectual property rights have been infringed by postings of others through the Site, you should provide IronPlanet's copyright agent with the following information:
+</p><p>
+</p><ul>
+ <li>an electronic or physical signature of the person authorized to act on behalf of the owner of the copyright or other intellectual property interest;
+ </li><li>a description of the copyrighted work or other intellectual property that you claim has been infringed; 
+ </li><li>a description of where the material that you claim is infringing is located on the Site; 
+ </li><li>your address, telephone number, and email address; 
+ </li><li>a statement by you that you have a good faith belief that the disputed use is not authorized by the copyright owner, its agent, or the law;
+ </li><li>a statement by you, made under penalty of perjury, that the above information in your Notice is accurate and that you are the copyright or intellectual property owner or authorized to act on the copyright or intellectual property owner's behalf.
+</li></ul>
+<p></p><p>
+<br><br>
+IronPlanet's Agent for Notice of claims of copyright or other intellectual property infringement can be reached as follows:
+<br><br>
+<u>By mail</u>:<br>
+Copyright Agent<br>
+c/o IronPlanet, Inc.<br>
+3825 Hopyard Road, Suite 250<br>
+Pleasanton, CA 94588<br>
+<u>By phone</u>: (888) 433-5426<br>
+<u>By fax</u>: (888) 433-3467<br>
+<u>By email</u>: copyright@ironplanet.com<br>
+</p>
+</div>
+</div>
+
+
+<div id="section2" style="clear: both; display: none;">	
+	<div style="border:1px solid #999; border-top: 0px; padding:2px;">	
+	
+	<p>
+    <span style="float:right;">Revised April 12, 2013</span>
+	</p><h2>Buyer Terms and Conditions</h2>
+	<p></p>
+	<p>
+	<b>KEY BUYER POINTS</b>
+</p><p>
+</p><ul>
+<li>All bids are binding and cannot be retracted.
+</li><li>Buyer is liable for all sales and use tax unless an applicable exemption certificate is provided.  To support sales tax treatment of the transaction and avoid potential sales tax liability, Buyer must provide IronPlanet with required documentation (e.g., Bills of Lading, export documents, etc.) no later than five (5) business days after Equipment is delivered.
+</li><li>A Buyer Transaction Fee will apply for each piece of Equipment purchased by Buyer.
+</li><li>Buyer shall remit full payment for purchased Equipment, applicable sales tax, VAT and the Transaction Fee within three (3) business days after the Auction closes.  Buyers from the United States must tender payments via wire transfer or certified bank check.  Wire transfers only for Buyers located outside of the United States.  
+</li><li>Buyer shall note a transportation selection in Buyer's account prior to paying for the Equipment.    
+</li><li>Buyer shall remove the Equipment no later than eight (8) business days after the Auction closes.  Failure to do so may result in relocation and/or further storage of the item at expense of Buyer.  If Buyer fails to remove the Equipment after sixty (60) days, the Equipment may be deemed abandoned, as determined by IronPlanet in its sole discretion, and disposed of as it determines.
+</li><li>Buyer is responsible for all title, registration, freight and transportation costs.  
+</li><li>Constructive Receipt of the Equipment can occur prior to physical delivery.    
+</li><li>Dispute Claims under the IronClad Assurance® inspection certification must be submitted in writing prior to Constructive Receipt and within twenty four (24) hours of delivery.    
+</li><li>A Default Fee shall be paid to IronPlanet if Buyer defaults on a closed Auction.
+</li></ul>
+<p></p><p>
+<b><i>
+The Key Buyer Points above provide an overview of the terms and conditions of our online auction marketplace and are subject to the complete Buyer Terms and Conditions below.   
+</i></b>
+</p><p>
+<b>BUYER TERMS AND CONDITIONS</b>
+</p><p>
+These Buyer Terms and Conditions ("<b>Buyer Terms</b>") of IronPlanet, Inc., a Delaware corporation ("<b>IronPlanet</b>" or "<b>we</b>") govern your use of IronPlanet-operated websites (e.g., www.ironplanet.com, eu.IronPlanet.com and www.truckplanet.com) (each a "<b>Site</b>") and related services to bid on and purchase equipment and other items ("<b>Equipment</b>").  The services provided on the Site include the opportunity to participate in Featured Auctions and the IronPlanet Daily Marketplace ("Featured Auction" and "Daily Marketplace," respectively, and together, the "Auction(s)").  For Buyers using eu.ironplanet.com, you are contracting with IronPlanet Limited, an entity organized under the laws of Ireland.  For all other Buyers, you are contracting with IronPlanet, Inc., a Delaware corporation.  In each case, the respective entity to which you are contracting shall be referred to as "<b>we</b>" or "<b>IronPlanet</b>".
+</p><p>
+The Buyer Terms, together with the Site Usage Terms and Conditions (together, the "<b>Agreement</b>"), contain the entire agreement with respect to the use of the Site and the purchase of Equipment, and supersede all previous communications, representations, understandings and agreements, either oral or written, between us.  In the event of any conflict between the Buyer Terms and the Site Usage Terms and Conditions, the Buyer Terms shall control.
+</p><p>
+IronPlanet may, in its sole discretion, change, modify, add or remove any portion of the Buyer Terms, in whole or in part, from time to time with or without notice to you, by posting such changes on the Site, which you agree is sufficient notice to you.  Once posted such changes shall come into full force and effect.  Your continued use of the Site after changes are posted will constitute your agreement to such changed Buyer Terms.  The Buyer Terms may not be otherwise amended except in a writing signed by both IronPlanet and Buyer.  As a California-based company that operates an online auction service and marketplace, IronPlanet, Inc. has a bond (#70259768) on file with the Secretary of State of California.  
+</p><p>
+The Buyer Terms were last revised on April 12, 2013.
+</p><p>
+<b>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ACCEPTANCE OF TERMS.   Before you attempt to buy any Equipment through the Site, IronPlanet requires that you read and accept the Buyer Terms.  BY CHECKING ON THE SPACE NEXT TO THE "ACCEPT TERMS &amp; CONDITIONS" TEXT, YOU HEREBY REPRESENT THAT YOU HAVE READ, UNDERSTOOD AND ACCEPTED THE BUYER TERMS AND ALL OTHER TERMS AND CONDITIONS INCORPORATED HEREIN BY REFERENCE AND THAT YOU WILL BE FINANCIALLY RESPONSIBLE FOR YOUR USE OF THE SITE AND PURCHASE OF EQUIPMENT.   If you choose not to accept the Buyer Terms, you may not bid on or purchase Equipment on the Site.  If you have any questions, please contact <a href="mailto:CustomerCare@ironplanet.com">CustomerCare@ironplanet.com</a> or <a href="mailto:EuropeCare@ironplanet.com">EuropeCare@ironplanet.com</a>. 
+</b>
+</p><p>
+<b>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;REGISTRATION AS A BIDDER</b>
+</p><p>
+<b>2.1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Capacity to Contract</b>. The Site is available only to individuals or entities that can form legally binding contracts.  If you are acting on behalf of another person or entity, you represent and warrant that such person or entity has authorized you to act and enter into legally binding contracts on its or his/her behalf.  Without limiting the foregoing, minors in any jurisdiction and individuals who have been suspended from the Site may not use the Site.  
+</p><p>
+<b>2.2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Registration</b>. To make bids and purchase Equipment using the Site, you must request bidding privileges and provide additional information to IronPlanet.  If approved by IronPlanet, we will notify you that you have become an "Approved Bidder".  You represent and warrant that (i) all information provided to IronPlanet is accurate and complete and (ii) you will update such information so that it is kept current, accurate and complete at all times.  IronPlanet reserves the right, in its sole discretion, to disapprove of any application to become an Approved Bidder and to suspend or terminate your authorization to use the Site at any time and for any reason, with or without cause.
+</p><p>
+<b>2.3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Login ID, Password, Security</b>.  You are solely responsible for protecting the confidentiality of your login ID and password and are responsible for all use of your Site account.  You agree to notify IronPlanet immediately of any unauthorized use of any login ID and/or password or any other breach of security regarding the Site.  We have implemented commercially reasonable technical and organizational measures designed to secure your personal information from accidental loss and from unauthorized access, use, alteration or disclosure.  However, we cannot guarantee that unauthorized third parties will never be able to defeat those measures or use your personal information for improper purposes.  You acknowledge that you provide your personal information at your own risk.  
+</p><p>
+<b>2.4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;User Information and Privacy</b>.  IronPlanet has made a commitment to protect the confidentiality and privacy of your personally identifiable information.  Please see IronPlanet's Privacy Statement, located at <a href="http://ironplanet.com/main/privacy.jsp">http://ironplanet.com/main/privacy.jsp</a> and incorporated herein by reference, for more information about our collection, use and protection of your personal information.  By using the Site as well as accepting these Buyer Terms, you are specifically consenting and agreeing to IronPlanet's Privacy Statement.
+</p><p>
+<b>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;AUCTIONS</b>
+</p><p>
+<b>3.1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;IronPlanet's Relationship to Users</b>.  The Site is only an online marketplace and venue for registered users who wish to list and sell Equipment ("<b>Sellers</b>") and for buyers ("<b>Buyers</b>") to make bids on and purchase Equipment.  Any agreements reached by and between Buyers, Sellers and third parties (including third party transportation carriers) are solely among such parties.  IronPlanet is not a party to any transaction relating to Equipment and makes no representations or warranties that it has title to or possesses Equipment listed on the Site unless otherwise specifically noted.    
+</p><p>
+<b>3.2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Auction Period</b>. The Auction period shall be determined solely by IronPlanet. 
+</p><p>
+<b>3.3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Buyer Conduct</b>.  Sale price manipulation of any kind, directly or indirectly, by any user is prohibited, including bidding through a secondary account, agent or representative on Equipment that you may be selling, communicating with other Buyers and Sellers or shill bidding.  
+</p><p>
+<b>3.4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Binding Offer to Purchase</b>.  Buyer acknowledges and agrees that bidding on the IronPlanet Site is the legal equivalent of a firm commitment and an irrevocable offer to purchase.  Unless the transaction is prohibited by law or regulation or the Buyer Terms, once placed a bid may not be retracted and you are obligated to complete the transaction as follows: 
+</p><p>
+</p><ul>
+<li><b>Featured Auction</b> - If you are the highest bidder at the end of a Featured Auction and have met the applicable opening bid.
+</li><li><b>Daily Marketplace</b> - If you are the highest bidder at the closing time of a Daily Marketplace and have met or exceeded the minimum price below which the Equipment will not be sold ("<b>Reserve Price</b>"), if any.
+</li><li><b>Second Chance Offer</b> - In the event an Auction ended without meeting the Reserve Price, or there was a default on an Auction and Seller offers the Equipment to you for purchase, you will have one (1) business day from the date of such offer to decide whether to accept the winner's position for the Auction.  If you accept the winner's position, you are obligated to complete the transaction.
+</li></ul>
+<p></p><p>
+<b>3.5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Winning Bids</b>.  IronPlanet is the one and only judge for the determination of winning bids ("<b>Final Sale Price</b>" or "<b>Final Selling Price</b>").  Nonetheless, IronPlanet shall not be liable for any errors or omissions relating to such determination, whether by IronPlanet or another third party.  IRONPLANET DOES NOT GUARANTEE THAT BIDS PLACED ON THE SITE WILL BE RECEIVED AND PROCESSED IN A TIMELY MANNER.
+</p><p>
+<b>3.6.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Voiding Bids</b>.  IronPlanet reserves the right to reject or void bids, whether winning or not, which it believes have not been made in good faith, are intended to manipulate the auction process or are prohibited by any applicable law or regulation.  
+</p><p>
+<b>3.7.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Postponement and Cancellation</b>. IronPlanet reserves the right to withdraw, postpone or cancel any Auction listing, or any sale resulting therefrom, in its own discretion, with or without notice.  IronPlanet shall have no liability to you as a result of any withdrawal, postponement or cancellation.  
+</p><p>
+<b>3.8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Auction Data</b>.  IronPlanet owns all right, title and interest in and to all data that is generated by the Site, including, without limitation, data that is generated during an Auction.
+</p><p>
+<b>3.9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Notification of Assignment of Rights</b>.  For Buyers in the United States IronPlanet hereby notifies you that the consigners of certain pieces of Equipment may have assigned to a qualified intermediary their rights, but not their obligations, for purposes of effecting a deferred Like-Kind Exchange under section 1031 of the Internal Revenue Code of 1986, as amended, and applicable regulations.
+</p><p>
+<b>3.10.&nbsp;&nbsp;&nbsp;&nbsp;California Off-Road Diesel Vehicle Regulation</b>. The following disclosure applies to self-propelled, diesel-fueled vehicles twenty five (25) horsepower and up that are not designed to be driven on-road:  "When operated in California, any off-road diesel vehicle may be subject to the California Air Resources Board In-Use Off-Road Diesel Vehicle Regulation. It therefore could be subject to retrofit or accelerated turnover requirements to reduce emissions of air pollutants. For more information, please visit the California Air Resources Board website at  <a href="http://www.arb.ca.gov/msprog/ordiesel/ordiesel.htm" target="_blank">http://www.arb.ca.gov/msprog/ordiesel/ordiesel.htm</a>." 
+</p><p>
+<b>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;FEES AND TAXES</b>
+</p><p>
+<b>4.1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Transaction Fee</b>.  For each piece of Equipment purchased through the Site, you agree to pay IronPlanet a transaction fee ("<b>Transaction Fee</b>").  The Transaction Fee is detailed on the Site and is incorporated herein by reference.  IronPlanet may change or add fees from time to time, in its sole discretion, with or without notice to you.    
+</p><p>
+<b>4.2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Payment and Payment Schedule</b>.  Full payment in the amount of the Final Selling Price, plus applicable sales tax or VAT and the Transaction Fee, must be posted to a secure payment account designated by IronPlanet within three (3) business days (e.g., Monday - Friday, excluding bank holidays) after the close of the Auction.  Buyers from the United States must tender payments via wire transfer or certified bank check.  <b>BUYERS FROM OUTSIDE THE UNITED STATES MUST TENDER ALL PAYMENTS VIA WIRE TRANSFER</b>.  All amounts that are due and payable must be paid prior to releasing any Equipment for pick-up or transport.
+</p><p>
+<b>4.3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sales and Use Tax</b>.  All bids and offers for Equipment must be net of any taxes imposed with respect to the purchase.  You are liable for all such taxes or for establishing to IronPlanet's satisfaction, on behalf of the Seller, a valid exemption certificate from such taxes.  You acknowledge and agree that IronPlanet is providing a service in the calculation, reporting and remittance of sales or use taxes for transactions that arise in connection with your use of the Site, and you ultimately remain liable for any sales or use tax liability.  To support sales tax treatment of the transaction, you are responsible for providing IronPlanet with any necessary documentation (e.g., Bills of Lading, export documents, etc.) no later than five (5) business days after Equipment is delivered.  
+</p><p>
+<b>4.4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;VAT</b>. For Auctions through IronPlanet Limited (including eu.ironplanet.com), the following shall apply:  All bids and offers must be net of any VAT imposed with respect to the sale or purchase transaction.  Buyers are liable for all such taxes for all purchases. IronPlanet will remit taxes to the Buyer upon receipt of either a valid exemption certificate or bill of lading. Accordingly, the amount of the successful bid in respect of any item of Equipment shall be exclusive of VAT and the price payable by the successful Buyer shall be increased by the VAT chargeable in respect of the supply of the Equipment to the Buyer. Similarly, all fees and other amounts payable to IronPlanet howsoever arising are calculated without regard to VAT so the amount payable by Buyer shall be increased by the amount of VAT which may be chargeable in respect of the relevant supply.  For the purposes of these Buyer Terms, "<b>VAT</b>" means value added tax as provided for in the Value Added Tax Acts 1972-2008 and legislation supplemental thereto or in any primary or secondary legislation promulgated by the European Union or any official body or agency thereof and any tax similar or equivalent to value added tax imposed in any country other than the Republic of Ireland and any similar or turnover tax which replaces or is introduced in addition to any of the same.
+</p><p>
+<b>5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;COMPLETION OF TRANSACTIONS</b>
+</p><p>
+<b>5.1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Removal of Equipment</b>.  You are responsible for dismantling, loading and shipping the Equipment for transportation, unless otherwise noted in the listing details for the Equipment.  You shall remove the Equipment from Seller's premises no later than eight (8) business days after the Auction closes, after which you may be responsible for payment of Storage Fees, and in some cases payment of cost to transport Equipment to an alternate location, as detailed on the Site and incorporated herein by reference.  Unless otherwise noted in the listing details for the Equipment, standard Storage Fees are as set forth on the Site.
+</p><p>
+<b>5.2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Liability for Equipment</b>.  The responsibility and risk of loss for Equipment shall be and remain at the risk of Seller (and not IronPlanet) until the earlier of:  (i) the removal of the Equipment from the posted Equipment location by Buyer or Buyer's designated transportation provider or (ii) receipt by Seller of all proceeds from the sale of Equipment.  Thereafter, the Equipment shall be and remain at the risk of you or your designated transportation provider (and not IronPlanet).
+</p><p>
+<b>5.3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Default</b>. If, after five (5) business days (which includes a two (2) business day grace period) following the close of an Auction, you have not made full payment of the Final Selling Price and all other applicable fees, you are in default and shall be subject to a Default Fee, as detailed on the Site.  In such event, as well as in regard to any other fees owed by Buyer to IronPlanet in regard to other transactions, IronPlanet reserves the right to, and you hereby consent that IronPlanet may, offset any such charges from amounts paid by you and invoice you for the remainder, with the invoice to be paid within fifteen (15) days following the date of the invoice.   
+</p><p>
+<b>5.4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Abandoned Equipment</b>.  IronPlanet may deem your failure to claim and remove Equipment within sixty (60) days following the close of an Auction to be evidence of your intention to abandon the Equipment, and IronPlanet may take action that is adverse to your interest in the Equipment, including, but not limited to, any appropriate steps under the law to dispose of the Equipment.   
+</p><p>
+<b>5.5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Freight and Transportation</b>.  You are responsible for all freight, shipping and other costs related to transporting the Equipment from the posted Equipment location to its final destination.  These costs include, but are not limited to, dismantling, special handling, loading, transportation costs and permits required to move the Equipment.  You may arrange transportation of Equipment on the Site through one of our transportation partners, however, IronPlanet shall not be liable for any acts or omissions arising from any transportation arrangements.    
+</p><p>
+<b>5.6.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Export</b>.  You are advised to have all such certificates and permits issued and completed prior to transporting the Equipment.  For Buyers in the United States, if you plan to export Equipment through U.S. Customs, we recommend that you engage the services of a U.S. forwarding agent to prepare documents that are required by U.S. Customs Control.  These documents may include a power of attorney that authorizes a forwarding agent to complete the necessary Shipper Export Declaration (SED) and filing the Automated Export System (AES) record.   For a fee, IronPlanet can provide equipment invoices or a notarized Bill of Sale to facilitate exports.  IronPlanet cannot provide Manufacturing Statements of Origin (MSO's) on used equipment bought from our website nor can we be held responsible for lack of manufacturers' identifying numbers or engine or serial numbers.   
+</p><p>
+<b>5.7.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Power of Attorney</b>.  You hereby appoint IronPlanet and its authorized representatives as your attorney-in-fact for the sole purpose of executing a Bill of Sale, if required, to finalize  transfer of ownership to you.     
+</p><p>
+<a id="ICA"></a><b>6.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;IRONCLAD ASSURANCE</b>
+</p><p>
+<b>6.1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Description</b>.  If indicated by an IronClad Assurance® inspection certification icon in an Equipment listing, a general condition inspection ("<b>Inspection</b>") of the Equipment was performed by or on behalf of IronPlanet.  Based on the Inspection, an inspection report ("<b>Inspection Report</b>") was generated that includes ratings, comments, and photos of the various components of the Equipment.  IronPlanet Inspections and the Inspection Reports are solely for the purpose of reporting on the visible condition of the Equipment's major systems and attachments on the day of the Inspection and do not include load testing or digging/lifting.  IronPlanet Inspections are <u>NOT intended</u> to detect latent or hidden defects or conditions that could only be found by dismantling the Equipment or use of diagnostic equipment or techniques.  In no event shall IronPlanet be liable for not identifying those or any other defects.  The Inspection Report may not be displayed, published, sold, reproduced, disseminated or otherwise used by you without the prior written approval from IronPlanet. 
+</p><p>
+<b>6.2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;IronClad Assurance Dispute Claims</b>.  Under the IronClad Assurance inspection certification program, if you discover that a piece of Equipment purchased by you is not substantially in the condition as represented in the Inspection Report,  and Constructive Receipt (as defined below) of the Equipment has not occurred, you may submit a written dispute claim ("<b>Dispute Claim</b>") to IronPlanet.  To be considered, the Dispute Claim must be in writing and delivered to IronPlanet as specified herein.    
+</p><p>
+<b>6.3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Constructive Receipt</b>.  For purposes of the Buyer Terms, "<b>Constructive Receipt</b>" of Equipment occurs at the first occurrence of any of the following:
+</p><p>
+</p><ul>
+<li><b>Passage of Time</b> - Ten (10) business days after the conclusion of the Auction.  
+</li><li><b>Self-Transported Equipment (e.g., vehicles or self-transported items)</b> - At the time the Equipment leaves the point of pick-up at the Seller's location for Equipment.  You are encouraged to examine the Equipment thoroughly prior to removing it from the location.  
+</li><li><b>Transported via Common Carrier</b> - Twenty-four (24) hours after delivery of the Equipment to (a) the Buyer's designated location within the United States or Canada for Equipment sold from the United States or Canada or (b) to the Buyer's designated location within the European Union member states, Switzerland and Norway for Equipment sold from such countries.  (If the expiration of the 24-hour period falls on a Saturday, Sunday or a public Holiday, Constructive Receipt on the basis of the passing of this milestone shall not occur until the sooner of (i) the first non-weekend day or (ii) the first non-public Holiday).  
+</li><li><b>Export</b> - Twenty-four (24) hours after delivery of the Equipment to the relevant port of export, if the purchased Equipment is to be delivered outside the country where the Equipment is located, subject to the Common Carrier provisions  above for Equipment located in the United States and Canada.
+</li><li><b>Disassembly</b> - At the time you or your agent or representative begins disassembly of Equipment from its "as-inspected" configuration, including disassembly for transport.  
+</li></ul>
+<p></p><p>
+<b>6.4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Dispute Conditions</b>.  Dispute Claims are subject to the following conditions: 
+</p><p>
+</p><ul>
+<li>Full payment of the Final Selling Price, including applicable sales tax and the Transaction Fee, shall have been received by IronPlanet.    
+</li><li>All Dispute Claims must be filed prior to Constructive Receipt of the Equipment.  Further, Dispute Claims must be initiated and settled prior to export.    
+</li><li>Following the closing of the Auction, Ownership of the Equipment shall not have been transferred to another buyer.  
+</li><li>The Equipment must be available for immediate re-inspection by IronPlanet upon request.  Confirmation of the accuracy of a Dispute Claim will be made only as the result of a re-inspection by IronPlanet and a comparison of the re-inspection results with the initial IronPlanet Inspection Report.   
+</li><li>Until a Dispute Claim is resolved, the Equipment may not be used, rented or leased and no changes to the condition of Equipment such as repairs or disassembly may be made.  Notwithstanding the foregoing, Buyer may move the Equipment around the lot, load/unload the Equipment, and operate the Equipment to verify the reported inspection condition after receipt of the Equipment; provided however that such operation does not result in the use of the Equipment for more than the lesser of (i) five (5) hours or (ii) ten (10) odometer miles from what is reported in the Inspection Report.    
+</li><li>IronPlanet shall not be responsible for Dispute Claims filed due to changes in Equipment condition as a result of exposure to the elements, including damage that occurs during transportation.   Without limitation, IronPlanet shall not be liable for failure of Electronic Control Modules for systems or components, electronic displays, dead batteries or inoperable lights.  
+</li><li>Only substantial inaccuracies in the items reported in the Inspection Report are covered.  In addition to items not discoverable on a general condition inspection, specific items that are not covered include  (i) conditions that can be identified only through the operation of a machine on a job site or under load capacity (e.g., digging, pulling, lifting, etc.);  (ii) operating the machine through the full range of speeds required to evaluate all forward and reverse gears;  (iii) replacement or addition of attachments to the machine;  (iv) disassembly; (v) use of diagnostic or test equipment to evaluate characteristics such as engine compression; and (vi)  electrical systems, hydraulic systems, and leaks of any kind (including fluid and tires).    
+</li><li>IronPlanet makes every effort to accurately describe Equipment using common industry terms.  However, Equipment and options and attachments can be known by different terms in different parts of the country.  You must refer to the pictures contained in the Inspection Report to clarify your understanding of specific Equipment characteristics.  IronPlanet shall not be responsible for any misinterpretation or oversight by you.  
+</li><li>Conditions visible in any of the Inspection Report pictures (including the full-size image visible through zooming), even if these conditions are not specifically mentioned in the written narrative comments, are not covered.
+</li><li>IronPlanet shall not be responsible for Equipment operating manuals or keys.    
+</li><li>The estimated total cost to fix items pursuant to a valid Dispute Claim must exceed $500, which amount shall be applied as a deductible to any settlement of a Dispute Claim.  
+</li><li>Fluid samples, if taken, will be analyzed by an independent laboratory unaffiliated with IronPlanet.  IRONPLANET MAKES NO WARRANTY OR REPRESENTATION AS TO THE ACCURACY OF SUCH LABORATORY INFORMATION.    
+</li></ul>
+<p></p><p>
+<b>6.5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Adjudication of Equipment and Dispute Claims</b>. IronPlanet shall be solely responsible for the review and adjudication of any Dispute Claims.  All determinations made by IronPlanet shall be final.    
+</p><p>
+<b>7.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;DISCLAIMER; LIMITATION OF LIABILITY; INDEMNITY</b>
+</p><p>
+<b>7.1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Disclaimer</b>.  EACH PIECE OF EQUIPMENT IS SOLD "AS IS, WHERE IS," AND IRONPLANET MAKES NO GUARANTEES, REPRESENTATIONS OR WARRANTIES, EXPRESS, IMPLIED, STATUTORY OR OTHERWISE, OF ANY KIND WHATSOEVER, INCLUDING, WITHOUT LIMITATION, NON-INFRINGEMENT, MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE.  IRONPLANET MAKES NO WARRANTY THAT THE EQUIPMENT WILL PROPERLY FUNCTION OR OPERATE WHEN DELIVERED TO YOU NOR THAT IT WILL CONTINUE TO OPERATE OR FUNCTION FOR ANY PERIOD OF TIME AFTER DELIVERY.    
+</p><p>
+<b>7.2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Limitation of Liability</b>.  TO THE FULLEST EXTENT PERMITTED BY LAW, IN NO EVENT SHALL IRONPLANET BE LIABLE FOR ANY SPECIAL, INDIRECT, PUNITIVE, COVER, INCIDENTAL OR CONSEQUENTIAL DAMAGES, HOWEVER CAUSED, WHETHER IN CONTRACT OR TORT OR UNDER ANY OTHER THEORY OF LIABILITY, INCLUDING WITHOUT LIMITATION, LOSS OF REVENUE, ANTICIPATED PROFITS BUSINESS OR SALES, EVEN IF IRONPLANET OR AN AUTHORIZED REPRESENTATIVE THEREOF HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.  IN NO EVENT SHALL THE TOTAL LIABILITY OF IRONPLANET TO YOU FOR ALL DAMAGES, LOSSES, AND CAUSES OF ACTION (WHETHER IN CONTRACT OR TORT, INCLUDING, BUT NOT LIMITED TO, NEGLIGENCE, PRODUCT LIABILITY OR OTHERWISE) ARISING FROM THIS AGREEMENT, THE PURCHASE OR USE OF EQUIPMENT, OR YOUR USE OF THE SITE AND OTHER SERVICES EXCEED, IN THE AGGREGATE, $100.00.  
+</p><p>
+<b>7.3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Indemnity</b>. You agree to defend, indemnify and hold harmless IronPlanet, and its officers, directors, agents, subsidiaries and employees from claims, suits, proceedings, costs and expenses (including reasonable attorneys' fees and costs, including costs and fees of experts), losses, liabilities, and damages, actual and consequential, of every kind and nature, to the extent arising out of or in any way connected with any breach or violation by you of the Buyer Terms, any use by you of the Site or other services, and any disputes or damages caused by or arising out of your use of or contracts formed with you through this Site or other services, including without limitation any personal injury, death or property damage caused by or arising out of the subsequent use of any Equipment sold or purchased from this Site.   
+</p><p>
+<b>7.4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Release</b>. In the event that you have a dispute with one or more users of IronPlanet's Site, you release IronPlanet (and our officers, directors, agents, subsidiaries and employees) from claims, demands and damages (actual and consequential) of  every kind and nature, known and unknown, suspected and unsuspected, disclosed and undisclosed, arising out of or in any way connected with such disputes.  If you are a California resident, you expressly waive any rights you may have under California Civil Code §1542, which says: "A general release does not extend to claims which the creditor does not know or suspect to exist in his favor at the time of executing the release, which if known by him must have materially affected his settlement with the debtor."  
+</p><p>
+<b>8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;LEGAL DISPUTES</b>
+</p><p>
+<b>8.1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Governing Law; Jurisdiction and Venue</b>.  For disputes between you and IronPlanet, Inc., these Buyer Terms shall be governed by the laws of the State of California.  For disputes between you and IronPlanet Limited, these Buyer Terms shall be governed by the laws of Ireland.  In each case, the Buyer Terms shall be governed by the laws of such jurisdiction without regard to conflict of laws principles.  The United Nations Convention on Contracts for the International Sale of Goods and, if Buyer is located in the United States, the Uniform Computer Information Transactions Act, do not apply.  You agree that the following courts maintain personal jurisdiction over you in connection with seeking equitable relief from a court of competent jurisdiction:  (i) a state or federal court in the County of San Francisco if IronPlanet, Inc. is a party to these Seller Terms, and (ii) the courts located in Dublin, Ireland if IronPlanet Limited is a party to these Buyer Terms.  
+</p><p>
+<b>8.2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Dispute Resolution and Arbitration</b>.  In the event of a dispute between you and IronPlanet, you agree to attempt to resolve the dispute with IronPlanet's Customer Care department for a period of at least ten (10) business days before taking any other action.  Following such period, you and IronPlanet agree that any dispute, claim or controversy arising out of or relating to the Agreement shall be settled by binding arbitration as specified below.  
+</p><p>
+<b>8.2.1.&nbsp;&nbsp;&nbsp;&nbsp;IronPlanet, Inc</b>.  This Section shall apply to disputes with IronPlanet, Inc.  In the event a party elects to initiate arbitration, the party shall initiate the proceeding through binding, non-appearance-based arbitration through the American Arbitration Association ("<b>AAA</b>") in accordance with the commercial arbitration rules of the AAA before a single, neutral arbitrator mutually agreed to by the parties, or if the parties cannot agree, by striking from a list of arbitrators supplied by the AAA.  In any arbitration, the parties and the AAA shall comply with the following procedures:  (a) the arbitration shall be conducted by telephone, online and/or through written submissions, the manner of which shall be selected by the party initiating arbitration; (b) the arbitration is confidential and non-public and shall not involve any personal appearance by the parties or witnesses unless otherwise mutually agreed by the parties; and (c) any judgment on the award rendered by the arbitrator may be entered in any court of competent jurisdiction.  The arbitrator shall have no power to award consequential, punitive, treble or any other manner of enhanced damages.  The arbitrator shall issue a written opinion stating the essential findings and conclusions upon which the arbitrator's award is based.  The prevailing party in any arbitration shall have the right to an award of attorneys' fees and costs.    
+</p><p>
+<b>8.2.2.&nbsp;&nbsp;&nbsp;&nbsp;IronPlanet Limited</b>.  This Section shall apply to disputes with IronPlanet Limited. Dispute resolution shall be conducted pursuant to the following procedures. Before initiating any arbitration, the parties shall engage in mediation, in the event that any dispute or claim, either party may, by notice to the other party and the International Centre for Dispute Resolution, demand mediation under the Mediation Rules of the International Centre for Dispute Resolution. If settlement is not reached within sixty (60) days after service of a written demand for mediation, any unresolved dispute or claim arising out of or relating to this terms and conditions shall be settled by arbitration in accordance with the International Arbitration Rules of the International Centre for Dispute Resolution by a sole arbitrator appointed in accordance with those Rules.  The seat of arbitration shall be Dublin, Ireland.  The language used in the arbitral proceedings shall be English.  If a translation of these Buyer Terms into any other language is required by law, the English version will prevail to the extent that there is any conflict or discrepancy in meaning between the English version and any translation thereof. If these Buyer Terms are provided to you in a language other than English, IronPlanet does so solely as a convenience for you.   
+</p><p>
+<b>8.3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Power of Arbitrator</b>.  The arbitrator shall have no power to award consequential, punitive, treble or any other manner of enhanced damages.  The arbitrator shall issue a written opinion stating the essential findings and conclusions upon which the arbitrator's award is based.  The prevailing party in any arbitration shall have the right to an award of attorneys' fees and costs.  YOU AGREE THAT ANY CLAIM ARISING OUT OF OR RELATED TO THIS AGREEMENT MUST BE COMMENCED WITHIN SIX (6) MONTHS AFTER THE DISPUTE AROSE.  OTHERWISE, SUCH CLAIM IS PERMANENTLY BARRED.    
+</p><p>
+<b>8.4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Improperly Filed Legal Disputes</b>.   Any claims that are filed or brought contrary to these Buyer Terms shall be improperly filed and of no force and effect.    
+</p><p>
+<b>9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;GENERAL PROVISIONS</b>
+</p><p>
+<b>9.1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Independent Contractors</b>.  You and IronPlanet are independent contractors, and the Buyer Terms shall not be construed to create any partnership, joint venture, franchisor-franchisee, or agency relationship between the parties.
+</p><p>
+<b>9.2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Assignment</b>.  You may not assign or transfer, by operation of law or otherwise, any of your rights under the Buyer Terms to any third party without IronPlanet's prior written consent.  In the event of a permitted transfer, this Agreement shall bind and inure to the benefit of the parties, their respective successors and permitted assigns.    
+</p><p>
+<b>9.3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Record Keeping</b>.  IronPlanet cannot guarantee the preservation or maintenance of records relating to historical Auction transactions and bidding activity and encourages you to keep individual records and an accounting of all activity conducted through the Site.
+</p><p>
+<b>9.4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Termination</b>.  Without limiting any other remedies, IronPlanet shall have the right to terminate your access to the Site at any time, without notice, in IronPlanet's sole discretion for any reason, including, without limitation, if we (a) determine that you have violated the Buyer Terms (for example, violation of the prohibition on shill bidding), or (b) are unable to verify your bidder information.  If you become dissatisfied with the Site, in any way, your only recourse is to immediately discontinue use of the Site.
+</p><p>
+<b>9.5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Export Control</b>. As applicable, all Equipment is subject to U.S., Canadian, and other foreign export control laws and regulations, including the Export Administration Regulations ("<b>EAR</b>") maintained by the U.S. Department of Commerce, trade and economic sanctions maintained by the Treasury Department's Office of Foreign Assets Control ("<b>OFAC</b>"), and the International Traffic in Arms Regulations ("<b>ITAR</b>") maintained by the Department of State. IronPlanet will not allow participation from any person nor allow sales or shipments in violation of U.S. export and re-export control laws and regulations, including EAR, OFAC, and ITAR. You represent that you are not restricted from purchasing Equipment by any such laws and that you shall not take any actions in violation of these laws and regulations or, directly or indirectly, sell, export, re-export, transfer, divert, or otherwise dispose of any Equipment to any destination, entity, or person prohibited by these laws and regulations, without obtaining prior authorization from the competent government authorities as required by those laws and regulations.  
+</p><p>
+<b>9.6.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Severability; No Waiver</b>. If any provision of this Agreement is held by a court of competent jurisdiction to be invalid or unenforceable, then such provision shall be enforced to the maximum extent permissible so as to affect the intent of this Agreement, and the remainder of this Agreement shall continue in full force and effect.  The failure by either you or IronPlanet to exercise or enforce any rights or provisions of this Agreement shall not constitute a waiver of such right or provision.      
+</p><p>
+<b>9.7.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Survival</b>.  All provisions in this Agreement regarding representations and warranties, indemnification, disclaimers and limitations on liability, and payment obligations for fees and penalties incurred in relation to the Site prior to the termination date shall survive any termination of this Agreement.  
+</p><p>
+<b>9.8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;English Controlling Language</b>.  The parties expressly agree that all performance under this Agreement and the resolution of disputes shall be conducted in the English language. If a translation of this Agreement into any other language is required by law or provided by IronPlanet, the English version shall prevail to the extent that there is any conflict or discrepancy in meaning between the English version and any translation thereof. If this Agreement is provided to you in a language other than English, IronPlanet does so solely for your convenience.  
+</p><p>
+<b>9.9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Notices</b>.  Any notice to IronPlanet Limited must be in writing and must be sent via email to <a href="mailto:europecare@ironplanet.com">europecare@ironplanet.com</a> <u>and</u> by registered mail or overnight courier to IronPlanet Limited, c/o IronPlanet, Inc., 3825 Hopyard Road, Suite 250, Pleasanton, CA 94588, U.S.A, Attn:  General Counsel.  Any notice to IronPlanet, Inc. or Entreprises IronPlanet Canada must be in writing and must be sent via email to <a href="mailto:CustomerCare@ironplanet.com">customercare@ironplanet.com</a> <u>and</u> by registered mail or overnight courier to IronPlanet, Inc., 3825 Hopyard Road, Suite 250, Pleasanton, CA 94588, U.S.A, Attn:  General Counsel.  Any notice to you shall be given by email to the email address provided to you during registration as an Approved Bidder, or as subsequently updated by you, or via posting on the Site, any of which you agree shall be sufficient notice to you.  Notice shall be deemed to have been given to you upon twenty-four (24) hours after it has been sent or at the time the information was posted on the Site.  If you change your email address, you are responsible for updating your account profile.  
+</p>
+
+	
+	
+</div>
+</div>
+
+<div id="section3" style="clear: both; display: none;">	
+	<div style="border:1px solid #999; border-top: 0px; padding:2px;">
+	<p>
+    <span style="float:right;">Revised April 12, 2013</span>
+	</p><h2>Seller Terms and Conditions</h2>
+	<p></p>	
+	
+	<p>
+<b>KEY SELLER POINTS</b> 
+</p><p>
+</p><ul>
+<li>Equipment consigned to a Featured Auction will be sold to the highest bidder.
+</li><li>Equipment consigned to the Daily Marketplace will be sold to the highest bidder who meets or exceeds the Reserve Price.
+</li><li>You are responsible for Equipment until removed from your location.
+</li><li>Equipment shall be maintained in the same condition as documented in the Listing Details and the Inspection Report.
+</li><li>Access to, and a qualified operator for, Equipment designated for inspection shall be provided
+</li><li>All lien information necessary to clear title and ownership to Buyer shall be provided.
+</li><li>All title transfer and registration documentation and information for Buyer to register Equipment shall be provided.
+</li><li>Commissions and fees are detailed in IronPlanet's fee schedule (<a href="#schedule1">Schedule 1</a>).
+</li><li>No later than one (1) business day after the sale, and as a condition to payment, Equipment shall be made available for transportation to Buyer, complete with ignition key.
+</li><li>You shall not engage in shill bidding or manipulate the price in any way.
+</li></ul>
+<p></p><p>
+<b><i>The Key Seller Points above provide an overview of our terms and conditions for participating as a seller in IronPlanet's online auction marketplace and are subject to the complete Seller Terms and Conditions below.   
+</i></b>
+</p><p>
+<b>SELLER TERMS AND CONDITIONS</b>
+</p><p>
+These Seller Terms and Conditions, including the commissions and fees detailed in <a href="#schedule1">Schedule 1</a>, ("<b>Seller Terms</b>") govern (i) the sale of equipment or other items ("<b>Equipment</b>") through direct contact with Buyers, IronPlanet-operated websites (e.g., www.ironplanet.com, eu.IronPlanet.com and www.truckplanet.com), and any third party online auction (each a "<b>Site</b>") and (ii) the provision of related services by IronPlanet.  These Seller Terms are incorporated by reference into any separate agreement for the listing of Equipment on the Site (such as IronPlanet's form of Auction Listing Agreement, Auction Services Agreement, or Preferred Provider Agreement, each a "<b>Listing Agreement</b>") entered into between you ("<b>Seller</b> or "<b>you</b>") and IronPlanet.  The auction services provided by IronPlanet include Featured Auctions, the Daily Marketplace, and auctions promoted through other channels, including third party auctions sites (together, the "<b>Auction(s)</b>").  Unless otherwise noted in a Listing Agreement, if you are a Seller located within the European Union, Norway and Switzerland, you are contracting with IronPlanet Limited, an entity organized under the laws of Ireland.  For Sellers in Canada, you are contracting with Entreprises IronPlanet Canada, a corporation organized under the laws of the Province of Alberta.  In the United States and for all other Sellers, you are contracting with IronPlanet, Inc., a Delaware corporation.
+</p><p>
+
+Prior to the commencement of any Auction Period (as defined below), you must have entered into a signed Listing Agreement with IronPlanet.  In the event of a conflict between the Seller Terms and the Listing Agreement, the Listing Agreement shall control.  The Seller Terms, together with the Listing Agreement (together, the "<b>Agreement</b>"), contain the entire agreement of the parties with respect to the sale of Equipment by IronPlanet and supersede all previous communications, representations, understandings and agreements, either oral or written, between us.  These Seller Terms supersede and replace the terms in any Seller purchase order or other ordering document and the terms and conditions of such documents shall be of no force or effect.
+</p><p>
+
+IronPlanet may, in its sole discretion, modify, add or remove any portion of these Seller Terms, in whole or in part, from time to time with or without notice to you, by posting such changes on the Site, which you agree is sufficient notice to you.  Once posted such changes shall come into full force and effect.  However, no changes shall apply retroactively to Equipment already listed in an Auction at the time of posting.  In addition to other forms of acceptance, use of the Site constitutes acceptance of these Seller Terms, and your continued use of the Site for the sale of Equipment after such changes are posted constitutes your agreement to such changed Seller Terms.  As a California-based company that operates an online auction service and marketplace, IronPlanet, Inc. has a bond (#70259768) on file with the Secretary of State of California.    
+</p><p>
+
+The Seller Terms were last revised on April 12, 2013.  
+</p><p>
+<b>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;AUTHORIZATION AND OFFER TO SELL</b>
+</p><p>
+<b>1.1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Authorization</b>.  You hereby authorize IronPlanet to sell Equipment, and IronPlanet hereby accepts the authorization and agrees to act as specified in these Seller Terms. You agree that IronPlanet may use your name, trademark, logos, service marks and other designations ("<b>Marks</b>") to list you as a reference customer and to advertise, promote and market the Equipment and the Auction, including but not limited to advertising, promotions, and similar public disclosures, and on the Site.  You hereby grant to IronPlanet, and represent and warrant that you have a right to grant, a non-exclusive, worldwide license to use, publicly display and perform, reproduce, and distribute the Marks, solely as permitted in these Seller Terms, including, but not limited to, distributing e-mails to potential Buyers that incorporate Marks.
+</p><p>
+<b>1.2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Offer to Sell</b>.  You acknowledge and agree that with each Equipment Listing you are extending an irrevocable offer to sell the Equipment (i) to the highest bidder who meets or exceeds the opening bid ("<b>Opening Bid</b>") with respect to a Featured Auction or third party auction with an opening bid, or (ii) to the highest bidder who meets or exceeds the reserve price ("<b>Reserve Price</b>") for Daily Marketplace Auctions or third party auctions where a Reserve Price is set.
+</p><p>
+<b>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;OWNERSHIP CERTIFICATION, VERIFICATION AND LIEN SEARCHES</b>.  At the time of listing Equipment, you are responsible to make full representation and disclosure in writing to IronPlanet of all liens, adverse claims and other title encumbrances and third party interests that may exist on or pertain to your Equipment.  Further, you unconditionally authorize IronPlanet to contact and verify with your creditors all outstanding encumbrance balances that may affect or compromise the assignment of the Equipment to a new Buyer. You covenant that you will, at all times at your own cost and expense, warrant and defend such title to such Equipment on behalf of such Buyer, its successors and assigns, against the claims and demands of all persons. You will cause to be promptly and duly taken, executed, acknowledged or delivered all such further acts, conveyances, documents and assurances as the Buyer may reasonably request in order to evidence and confirm such title and its conveyance.
+</p><p>
+<b>2.1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Lien Removal by IronPlanet</b>.  If you fail to remove any lien, encumbrance or adverse claim on or to any Equipment sold or fail to perform or comply with any other of its obligations under these Seller Terms, IronPlanet will remove such lien, encumbrance or adverse claim using the Seller net proceeds.  If your net proceeds from the Auction are insufficient to discharge creditor claims on the Equipment, you are fully responsible for paying the outstanding debt balance immediately.  In addition, you shall pay IronPlanet upon demand all of IronPlanet's expenses incurred in connection with any removal of any liens or the performance thereof, as the case may be, together with interest thereon at the rate of 10% per annum compounded daily.  No such payment or performance by IronPlanet shall be deemed to waive breach by you, or relieve you, of your creditor obligations. 
+</p><p>
+<b>2.2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Title and Lien Searches by IronPlanet</b>.  In its sole discretion, IronPlanet may independently carry out title and lien searches to investigate the existence of filed financing statements (such as UCC financing statements for Equipment in the United States) on the Equipment that may compromise assignment of the Equipment to a new Buyer. IronPlanet may charge the Seller an Ownership Verification and Lien Search Fee. 
+</p><p>
+<b>2.3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;IRS and SBA Liens</b>.  If the Internal Revenue Service, the Small Business Administration or any other governmental entity holds and lien or encumbrance on the Equipment, then Seller shall be responsible for the payment of any independent equipment appraisals and documentation fees required to release such liens.   Seller acknowledges and agrees, and hereby authorizes, that IronPlanet may, in is discretion, pay for such appraisals and documentation fees and deduct the same from amounts due Seller.  If amounts due Seller are insufficient to pay such amounts, Seller agrees to promptly pay IronPlanet such amounts upon receipt of IronPlanet's invoice for the same. 
+</p><p>
+<b>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;EQUIPMENT LISTINGS</b>
+</p><p>
+<b>3.1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Auction Listings and Auction Period; Exclusivity</b>.  By consigning and listing Equipment with IronPlanet (an "<b>Equipment Listing</b>") you agree that during the Auction Period, the Site shall be the exclusive listing site for the Equipment and you shall not offer for sale or sell any part of the Equipment in any other manner.  "<b>Auction Period</b>" means the period from the date of the Listing Agreement until the earlier of (i) the date such Equipment is sold on the Site or (ii) the date you withdraw the Equipment from the Site.  The Auction Period shall be no less than eight (8) weeks.  Removal of Equipment Listings during the Auction Period may be subject to additional fees as provided in these Seller Terms.  
+</p><p>
+<b>3.2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Listing Details</b>.  Any information you provide related to the Equipment ("<b>Listing Details</b>") must be complete and accurate. You shall be solely liable for any inaccuracies, errors or omissions in the Listing Details provided or omitted by you.  Any brand name or other indication of origin or manufacture included with the Listing Details must be completely accurate and not capable of misleading any Buyer. Listing Details compiled for the Site shall not be used for any purpose other than the publication of the applicable Equipment Listing on the Site.  Listing Details on the Site may not include links to, or description of, other items that you may have for sale. For Auctions with IronPlanet Limited, it is the Seller's obligation to provide a valid CE Certificate to ensure the necessary measures are taken to certify the item as required under the Machinery Directive 98/37/EC (as amended) and other applicable legislation. All costs of certifying and upgrading imported equipment will be the responsibility of Buyer. Please contact the manufacturer, dealer, or their authorized representative within the EU for details. You may not list goods that are illegal to use or possess under any applicable law, rule or regulation.  IronPlanet reserves the right, in its sole discretion, to (i) refuse to list any piece of Equipment at any time; (ii) to withdraw any Equipment Listing from the Site; or (iii) cancel any transaction that it deems to be suspicious or fraudulent and report the same to applicable authorities. 
+</p><p>
+<b>3.3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Changes to Listing Details.</b>  If at any time prior to the opening time of an Auction ("<b>Auction Opening Time</b>") the Equipment is altered or modified in any way which might affect the accuracy of the Listing Details, then (i) you shall provide prompt notice to IronPlanet; and (ii) if the Equipment was inspected previously by IronPlanet, you must have the Equipment re-inspected and pay IronPlanet a Re-Inspection Fee.  If the Equipment was not inspected, you must supply updated Listing Details to IronPlanet and pay IronPlanet an additional Listing Fee. 
+</p><p>
+<b>3.4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Restrictions on Use of Equipment</b>.  From the time of Equipment Listing and until the Buyer removes the Equipment from your location, you may not operate, lease, rent, modify, use or allow the Equipment to be altered in any way which might affect the accuracy of the Listing Details.  If IronPlanet discovers that you have violated this Section or if the Equipment has been altered without notice to IronPlanet, then in addition to any other rights and remedies IronPlanet may have, (i) you shall pay IronPlanet Unauthorized Equipment Use Fee; (ii) if the Equipment has been sold in an Auction, the transaction is subject to cancellation and additional fees as specified in <a href="#schedule1">Schedule 1</a>, including a reversal of the transaction and payment of transportation costs incurred by the Buyer; and (iii) if the Equipment has not been sold in an Auction, IronPlanet shall have the right to remove the Equipment from the Auction and you shall pay to IronPlanet the appropriate removal fee as provided in <a href="#schedule1">Schedule 1</a>.  
+</p><p>
+<b>3.5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Equipment Inspections</b>.  For Equipment that is to be inspected and to be identified with IronPlanet's IronClad Assurance icon, you agree to permit IronPlanet and/or its authorized representatives to test and inspect each piece of Equipment prior to listing at a time and place specified in the Listing Agreement or as otherwise mutually agreed.  Upon inspection, IronPlanet shall produce an inspection report ("<b>Inspection Report</b>") for each piece of Equipment, which may include ratings, comments, and photos of the various components.  The data and information from the Inspection Report will be included as part of the Listing Details for the Equipment.  IronPlanet inspections and the Inspections Reports are solely for the purpose of reporting on the visible condition of the Equipment's major systems and attachments on the day of the inspection and do not include load testing or digging/lifting.  IronPlanet inspections are NOT intended to detect latent or hidden defects or conditions that could only be found in connection with the physical dismantling of the Equipment or the use of diagnostic equipment or techniques.  In no event shall IronPlanet be liable for not identifying those or any other defects. 
+</p><p>
+<b>3.5.1.&nbsp;&nbsp;&nbsp;&nbsp;Inspection Process</b>.  If required you agree to provide certain support functions to IronPlanet during the inspection of the Equipment, including without limitation providing an Equipment operator and supplying proper safety equipment and procedures for IronPlanet to inspect the Equipment.  During the inspection process, an IronPlanet inspector will either (i) observe the operation of the Equipment by a qualified operator provided by the Seller or (ii) in the absence of such an operator, operate the Equipment as necessary to conduct the inspection.  IronPlanet reserves the right to refuse to inspect any piece of Equipment for any reason. 
+</p><p>
+<b>3.5.2.&nbsp;&nbsp;&nbsp;&nbsp;Ownership of Inspection Report</b>. The Inspection Report is the sole and exclusive property of IronPlanet.  Except as expressly stated, nothing in these Seller Terms shall be deemed to grant to any other party, by implication, estoppel or otherwise, license rights, ownership rights or any other intellectual property rights in the Inspection Report.  You cannot use the Inspection Report for any other purpose without the prior written approval from IronPlanet. 
+</p><p>
+<b>3.5.3.&nbsp;&nbsp;&nbsp;&nbsp;Maintenance of Equipment Following Inspection</b>.  Failure of you to properly maintain the Equipment between the date of inspection and the date of sale will void the inspection.  If you alter or perform repairs or other maintenance to the Equipment after the inspection, another inspection will be required and you will be subject to a Re-inspection Fee.   
+</p><p>
+<b>3.5.4&nbsp;&nbsp;&nbsp;&nbsp;Post Sale Re-inspection</b>.  IronPlanet reserves the right, in its sole discretion, to re-inspect any Equipment after the Auction Closing time at its cost. 
+</p><p>
+<b>3.6.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Delivery of Title and Documentation</b>.  Two (2) weeks prior to any Auction Opening Time, you shall deliver to IronPlanet documents evidencing your title to the Equipment, including, as applicable, the original Department of Motor Vehicles title (for the United States), any vehicle registration documents, manufacturer certificate of origin and any and all other documents required under your local law to transfer and register title and/or ownership of the Equipment to any Buyer.  Prior to delivery to IronPlanet, you shall properly endorse title documents in compliance with the applicable local law requirements. You shall either endorse such documents or execute a power of attorney in favor of IronPlanet permitting IronPlanet to execute any such documents on your behalf and authorizing IronPlanet/the Buyer to complete any registration formalities on your behalf.  
+</p><p>
+<b>3.7.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Relisting</b>.  If the Equipment has not been inspected and is not sold prior to the closing time, you may withdraw your Equipment Listing and re-list the Equipment in any Auction without additional charge.  If an inspection has been initiated or completed by or for IronPlanet and you withdraw the Equipment Listing, you will be responsible for the Listing Fee. 
+</p><p>
+<b>3.8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Equipment Availability; Delay and Default Fees</b>.  Seller agrees to have the Equipment available for transportation, complete with ignition key, to the Buyer no later than one (1) business day after the conclusion of the Auction.  If, for any reason, after IronPlanet has notified you of receipt of payment from the Buyer, you either do not have the Equipment in a "ready" condition for transport at such time or you delay the release of your Equipment to the Buyer, then in addition to any other rights and remedies IronPlanet may have, you agree to pay a Post-Closing Delay Fee.  If for any reason you fail to release the Equipment to the Buyer after an Auction has closed, in addition to any other rights or remedies IronPlanet may have, you agree to pay Seller Default Fee.  In addition, IronPlanet, in its sole discretion, may bar you from further use of the Site in the event of such delay or default.  For Equipment sold from the European Union, Equipment must be located in the European Union member state, Switzerland or Norway. 
+</p><p>
+<b>3.9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Specific Performance</b>.  In addition to any other remedies set forth herein, if you cancel an Auction and withdraw the Equipment within two (2) weeks prior to the Auction Opening Time or if you fail to have the equipment available for transportation no later than one (1) business day (pursuant to Paragraph 3.8), you hereby acknowledge and agree that (i) the damages to IronPlanet's business reputation, brand and customer are significant and irreparable, (ii) an adequate remedy at law for such breach is inadequate, and (iii) IronPlanet may seek enforcement of this Agreement by means of specific performance or injunction, without any requirement to post a bond or other security. 
+</p><p>
+<b>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;LIABILITY FOR EQUIPMENT</b>.  The responsibility and risk of loss for Equipment shall be and remain with you (and not IronPlanet) until the earlier of:  (i) the removal of the Equipment from the posted Equipment location by Buyer or Buyer's designated transportation provider or (ii) receipt by you of all proceeds from the sale of Equipment.  Thereafter, the Equipment shall be and remain at the risk of Buyer or Buyer's designated transportation provider (and not IronPlanet). 
+</p><p>
+<b>5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;NO PRICE MANIPULATION OR SHILL BIDDING</b>
+</p><p>
+<b>5.1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Price Manipulation</b>.  You may not manipulate, directly or indirectly, the price of Equipment by any means, including but not limited to, using secondary accounts and aliases, colluding with third parties or bidding on your own Equipment.  If you fail to comply with this restriction, in addition to any other rights or remedies IronPlanet may have, IronPlanet may withdraw the Equipment from Auction and you will be barred from future use of the Site.
+</p><p>
+<b>5.2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Shill Bidding Disqualification</b>.  If IronPlanet determines that a Seller or someone associated with a Seller, directly or indirectly through a third party, has bid on that seller's own item in an effort to artificially raise the price at which the Equipment will ultimately sell, ("<b>shill bidding</b>"), IronPlanet will ban the seller from future use of the IronPlanet Site and cancel any involved transaction(s), and the Seller will be charged a Shill Bidding Fee. 
+</p><p>
+<b>5.3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Opening Bid and Scheduling</b>.  IronPlanet shall set the Opening Bid for the Equipment.  IronPlanet shall control the schedule for Auction Opening Time for Featured Auctions.  You have the option of scheduling the Auction Opening Time for Equipment in the Daily Marketplace.  All Equipment in the Daily Marketplace will be scheduled to run for seven (7) consecutive days, unless the Daily Marketplace closing time falls on the day of an IronPlanet Featured Auction, in which case the Equipment listing will be scheduled to run for eight (8) consecutive days.   
+</p><p>
+<b>5.4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Reserve Price</b>.  You may not set a Reserve Price for Equipment in the Featured Auction.  You may set a Reserve Price for Equipment in the Daily Marketplace.  You have the option of lowering your Reserve Price once during an auction.  However, you may NOT add a Reserve Price after the time of Equipment Listing.
+</p><p>
+<b>6.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;FEES AND PAYMENT</b>.
+</p><p>
+<b>6.1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Fees</b>.  The fees and conditions for the applicable Auction type are set forth in <a href="#schedule1">Schedule 1</a> and incorporated herein by reference.  IronPlanet may change its fees from time to time, in its sole discretion, with or without notice to you, but no such change shall apply retroactively to Equipment already listed for an Auction at the time of such change.  It is your responsibility to check all applicable fees prior to submitting an Equipment Listing.  By submitting an Equipment Listing, you acknowledge that you have reviewed and accepted all fees as detailed in <a href="#schedule1">Schedule 1</a>.
+</p><p>
+<b>6.2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Payment of Proceeds</b>.  No monies shall be payable to Seller for any part of the Equipment until paid by the Buyer.  Once received by IronPlanet from Buyer, any monies due to the Seller, net of any fees and charges due IronPlanet, shall be disbursed within fifteen (15) business days after the date of sale.  Payments by IronPlanet shall be paid in the listing currency and shall be made by either electronic wire transfer or check (subject to additional fees for overnight courier).  If any charges are imposed as provided in these Seller Terms, whether as specified herein or as a result of additional services provided by IronPlanet at the request and authorization of Seller, IronPlanet reserves the right, and you hereby consent that IronPlanet may, offset any such charges from amounts due you and invoice you for the remainder, with the invoice to be paid within fifteen (15) days following the date of the invoice.   
+</p><p>
+<b>6.3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Taxes; VAT</b>.  You shall be responsible for the payment of any tax or duty that is your responsibility as a seller of the Equipment. The remainder of this Section shall apply for Auctions through IronPlanet Limited.  All bids and offers must be net of any VAT imposed with respect to the sale or purchase transaction. Buyers are liable for all such taxes for all purchases. IronPlanet will remit taxes to the Buyer upon receipt of either a valid exemption certificate or bill of lading. Accordingly, the amount of the successful bid in respect of any item of Equipment shall be exclusive of VAT and the price payable by the successful Buyer shall be increased by the VAT chargeable in respect of the supply of the Equipment to the Buyer. Similarly, all fees and other amounts payable to IronPlanet howsoever arising pursuant to these Seller Terms are calculated without regard to VAT so the amount payable by the user shall be increased by the amount of VAT which may be chargeable in respect of the relevant supply. In order to participate in the Services, each Seller who would otherwise be entitled to raise a VAT invoice addressed to IronPlanet in respect of the sale of Equipment at an Auction agrees not to raise such an invoice and instead to accept a VAT invoice raised by IronPlanet on its behalf in relation to Equipment sold at Auction (i.e. a self-billed invoice). IronPlanet shall promptly raise an appropriate 'self-billing' invoice after an item of Equipment is sold at Auction. Each Seller shall enter their VAT registration number on becoming a registered user and shall immediately notify IronPlanet if that number ceases to be valid for any reason. You shall indemnify IronPlanet and its Affiliates (and the officers, directors, agents and employees thereof) against any tax, cost or expense relating to your failure to satisfy any VAT chargeable in relation to a transaction. For the avoidance of doubt, it is your responsibility to satisfy yourself that any VAT charges or related obligations have been met in relation to a transaction.  For the purposes of these Seller Terms, "VAT" means value added tax as provided for in the Value Added Tax Acts 1972-2008 and legislation supplemental thereto or in any primary or secondary legislation promulgated by the European Union or any official body or agency thereof and any tax similar or equivalent to value added tax imposed in any country other than the Republic of Ireland and any similar or turnover tax which replaces or is introduced in addition to any of the same.   
+</p><p>
+<b>6.4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;No Guarantee on Proceeds</b>.  You acknowledge that despite IronPlanet's best efforts, Buyers may fail to perform or pay on a timely basis and that IronPlanet shall not have any liability to you for any act or omission of Buyers.  Further, there is no guarantee as to the gross proceeds that may be realized from the sale of Equipment through the Site.
+</p><p>
+<b>7.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;SELLER OPTIONS AFTER BUYER DEFAULT</b>.  If the Buyer does not make payments in accordance with the payment schedule set forth in the Buyer Terms and Conditions, the Buyer is considered in default ("<b>Buyer Default</b>").  In the event of a Buyer Default, you may elect any one of the following options after IronPlanet notifies you of such Buyer Default.
+</p><p>
+<b>7.1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Offer Equipment</b> to Second Highest Bidder at Second Highest Bid Price.  If there was more than one bidder for the defaulted Equipment, you may elect to offer the Equipment to the second highest bidder in the auction at the maximum bid amount entered by the second highest bidder.  By electing to extend an offer for the Equipment to the second highest bidder, you acknowledge and agree that you are extending an irrevocable offer to sell the Equipment if your offer is accepted.  The second highest bidder will have one (1) business day to decide whether to accept the winner's position for the Auction.  If the second highest bidder accepts the winner's position, your Equipment will be sold and you will receive proceeds based on that second bidder's highest bid, less any applicable commissions and fees, in accordance with the terms and conditions of these Seller Terms;
+</p><p>
+<b>7.2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Re-list the Equipment for Subsequent Auction</b>.  You may elect to list the Equipment in one subsequent Auction within the next thirty (30) days without incurring an additional Listing Fee. All other terms and conditions of these Seller Terms continue to be enforced for any such re-listing; or
+</p><p>
+<b>7.3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Withdraw the Equipment from Auction</b>.  You may elect, without penalty, to withdraw the Equipment from Auction.
+</p><p>
+<b>8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;REPRESENTATIONS AND WARRANTIES</b>. As Seller, you represent and warrant that: (i) the Equipment is in a safe condition and free of hazardous materials; (ii) all Listing Details you provide and all answers to questions from IronPlanet shall be truthful, accurate and complete, and shall accurately represent the condition of the Equipment until removed from your location by the Buyer;  (iii) no Equipment you list on the Site shall be fraudulent, stolen or counterfeit; (iv) you are duly authorized to enter into these Seller Terms and you have the legal right in your jurisdiction to list the Equipment for sale and to sell such Equipment; (v) you are solvent and have not made any assignment, proposal or other proceeding for the benefit of your creditors; and (vi) you own all right, title and interest in and to the Equipment and the Equipment is free and clear of all liens or other encumbrances, except as otherwise disclosed by you to IronPlanet in writing.   
+</p><p>
+<b>9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;INDEMNIFICATION</b>.  You agree to indemnify and hold harmless IronPlanet, its affiliated companies and their respective officers, directors, employees, agents, successors and assigns from and against any and all claims, suits, proceedings, costs and expenses (including reasonable attorneys' fees and costs, including costs and fees of experts), losses, liabilities, and damages, actual and consequential, of every kind and nature, arising out of or relating to the Equipment, or the auction or sale thereof, including but not limited to, breach of your representations, warranties and covenants set forth in these Seller Terms.  If a third party brings a claim, suit or proceeding against IronPlanet arising out of or relating to the Equipment, including without limitation its condition, or the auction or sale thereof, you will provide IronPlanet with full information and cooperation in connection.  You agree that if a Buyer takes legal action against you arising from, but not limited to, your representations, warranties and covenants listed above, IronPlanet may support such action by providing the Buyer with any relevant documentation or information.  IronPlanet shall promptly notify you in writing of any threatened or actual claim or suit and reasonably cooperate with you to facilitate the settlement or defense thereof.  You shall have sole control of the defense or settlement of any claim or suit, provided that IronPlanet, at its option and expense, may participate and appear on an equal footing with you and you shall not settle any claim or suit against without the written consent of indemnified parties, with such consent not to be unreasonably withheld or delayed.
+</p><p>
+<b>10.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;DISCLAIMER; LIMITATION OF LIABILITY </b> 
+</p><p>
+<b>10.1.&nbsp;&nbsp;&nbsp;Disclaimer</b>.  TO THE FULLEST EXTENT PERMITTED BY LAW, THE SITE AND SERVICES PROVIDED BY OR THROUGH IRONPLANET ARE PROVIDED ON AN "AS IS" BASIS WITHOUT WARRANTIES OF ANY KIND, WHETHER EXPRESS OR IMPLIED, INCLUDING, WITHOUT LIMITATION IMPLIED WARRANTIES OF NON-INFRINGEMENT, MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE. IRONPLANET EXPRESSLY DISCLAIMS ANY RESPONSIBILITY FOR ANY ACTS OR OMISSIONS OR OTHER USERS OF THE SITE. IF YOU ARE DISSATISFIED WITH THE SITE OR ANY OTHER SERVICES, YOUR SOLE REMEDY IS TO DISCONTINUE USING THE SITE AND OTHER SERVICES.  
+</p><p>
+<b>10.2.&nbsp;&nbsp;&nbsp;Limitation of Liability</b>.   TO THE FULLEST EXTENT PERMITTED BY LAW, IN NO EVENT SHALL IRONPLANET BE LIABLE FOR ANY SPECIAL, INDIRECT, PUNITIVE, COVER, INCIDENTAL OR CONSEQUENTIAL DAMAGES, HOWEVER CAUSED, WHETHER IN CONTRACT OR TORT OR UNDER ANY OTHER THEORY OF LIABILITY, INCLUDING WITHOUT LIMITATION, LOSS OF REVENUE, ANTICIPATED PROFITS, BUSINESS, OR SALES, ANY LOSS OF GOODWILL OR REPUTATION, OR THE COSTS OF SUBSTITUTE GOODS OR SERVICES, EVEN IF IRONPLANET OR AN AUTHORIZED REPRESENTATIVE THEREOF HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. IN NO EVENT SHALL THE TOTAL LIABILITY OF IRONPLANET AND ITS AUTHORIZED AGENTS ARISING FROM THIS AGREEMENT EXCEED $100.00.
+</p><p>
+<b>11.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;LEGAL DISPUTES</b>
+</p><p>
+<b>11.1.&nbsp;&nbsp;&nbsp;Governing Law; Jurisdiction and Venue</b>.  For disputes between you and IronPlanet, Inc., these Seller Terms shall be governed by the laws of the State of California.  For disputes between you and Entreprises IronPlanet Canada, these Seller Terms shall be governed by the laws of the Province of Alberta, Canada.  For disputes between you and IronPlanet Limited, these Seller Terms shall be governed by the laws of Ireland.  In all cases, the Seller Terms shall be governed by the laws of such jurisdiction without regard to conflict of laws principles.  The United Nations Convention on Contracts for the International Sale of Goods and, if Seller is located in the United States, the Uniform Computer Information Transactions Act, do not apply.  You agree that the following courts maintain personal jurisdiction over you in connection with seeking equitable relief from a court of competent jurisdiction:  (i) a state or federal court in the County of San Francisco if IronPlanet, Inc. is a party to these Seller Terms, (ii) the courts located in the Province of Alberta, Canada if Entreprises IronPlanet Canada is a party to these Seller Terms, and (iii) in the courts located in Dublin, Ireland if IronPlanet Limited is a party to these Seller Terms.  Nothing in this Section shall affect either party's ability to seek equitable relief from a court of competent jurisdiction at any time.
+</p><p>
+<b>11.2.&nbsp;&nbsp;&nbsp;Dispute Resolution and Arbitration</b>.  In the event of a dispute between you and IronPlanet, you agree to attempt to resolve the dispute with IronPlanet's Customer Care department for a period of at least ten (10) business days before taking any other action.  Following such period, you and IronPlanet agree that any dispute, claim or controversy arising out of or relating to the Agreement shall be settled by binding arbitration as specified below.  
+</p><p>
+<b>11.2.1.&nbsp;&nbsp;&nbsp;IronPlanet, Inc.</b>  This Section shall apply to disputes with IronPlanet, Inc. In the event a party elects to initiate arbitration, the party shall initiate the proceeding through the American Arbitration Association ("AAA") in accordance with the commercial arbitration rules of the AAA before a single, neutral arbitrator mutually agreed to by the parties, or if the parties cannot agree, by striking from a list of arbitrators supplied by the AAA.  The place of arbitration shall be San Francisco, California.  In any arbitration, the parties and the AAA shall comply with the following procedures:  (i) the arbitration is a confidential proceeding, closed to the general public; (ii) the procedural and substantive law to be applied shall be the laws of the State of California, except for its conflict of law principles; (iii) the arbitrator shall be empowered to hear and determine dispositive motions, including motions to dismiss and motions for summary judgment; (iv) the arbitrator shall have the right to issue injunctions and attachments and other equitable remedies and award compensatory damages; and (v) any judgment on the award enforced by the arbitrator may be rendered in any court of competent jurisdiction.   
+</p><p>
+<b>11.2.2.&nbsp;&nbsp;&nbsp;Entreprises IronPlanet Canada.</b>  This Section shall apply to disputes with Entreprises IronPlanet Canada.  All disputes arising out of or in connection with this Agreement, or in respect of any legal relationship associated with or derived from this Agreement, shall be arbitrated and finally resolved, pursuant to the the Simplified Arbitration Rules of the ADR Institute of Canada, Inc.  The place of arbitration shall be Alberta, Canada. The language of the arbitration shall be English.  If a translation of these Seller Terms into any other language is required by law, the English version will prevail to the extent that there is any conflict or discrepancy in meaning between the English version and any translation thereof. If these Seller Terms are provided to you in a language other than English, IronPlanet does so solely as a convenience for you.  
+</p><p>
+<b>11.2.3.&nbsp;&nbsp;&nbsp;IronPlanet Limited.</b>  This Section shall apply to disputes with IronPlanet Limited. Dispute resolution shall be conducted pursuant to the following procedures. Before initiating any arbitration, the parties shall engage in mediation, in the event that any dispute or claim, either party may, by notice to the other party and the International Centre for Dispute Resolution, demand mediation under the Mediation Rules of the International Centre for Dispute Resolution. If settlement is not reached within 60 days after service of a written demand for mediation, any unresolved dispute or claim arising out of or relating to this terms and conditions shall be settled by arbitration in accordance with the International Arbitration Rules of the International Centre for Dispute Resolution by a sole arbitrator appointed in accordance with those Rules. The seat of arbitration shall be Dublin, Ireland. The language used in the arbitral proceedings shall be English. If a translation of these Seller Terms into any other language is required by law, the English version will prevail to the extent that there is any conflict or discrepancy in meaning between the English version and any translation thereof. If these Seller Terms are provided to you in a language other than English, IronPlanet does so solely as a convenience for you.   
+</p><p>
+<b>11.3.&nbsp;&nbsp;&nbsp;Power of Arbitrator</b>.  The arbitrator shall have no power to award consequential, punitive, treble or any other manner of enhanced damages.  The arbitrator shall issue a written opinion stating the essential findings and conclusions upon which the arbitrator's award is based.  The prevailing party in any arbitration shall have the right to an award of attorneys' fees and costs.  YOU AGREE THAT ANY CLAIM ARISING OUT OF OR RELATED TO THIS AGREEMENT MUST BE COMMENCED WITHIN SIX (6) MONTHS AFTER THE DISPUTE AROSE.  OTHERWISE, SUCH CLAIM IS PERMANENTLY BARRED.    
+</p><p>
+<b>11.4.&nbsp;&nbsp;&nbsp;Improperly Filed Legal Disputes</b>.  Any claims that are filed or brought contrary to this Agreement shall be improperly filed and of no force and effect.      
+</p><p>
+<b>12.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;TERMINATION, RESCISSION AND DEFAULT</b>
+</p><p>
+<b>12.1.&nbsp;&nbsp;&nbsp;Right to Terminate these Seller Terms or Rescind Sale</b>.  IronPlanet shall have the right, in its sole discretion, to terminate the Agreement or rescind the sale of Equipment to a Buyer in whole or in part in the event (i) there are liens, encumbrances or adverse claim on or to any Equipment in addition to those that are listed in the Listing Agreement; (ii) the Seller's net proceeds are insufficient to discharge creditor claims and pay IronPlanet's fees after title is cleared; or (iii) Seller is in breach of the Agreement.    
+</p><p>
+<b>12.2.&nbsp;&nbsp;&nbsp;Default</b>.  In the event an Auction fails to occur as a result of your action or inaction or your representations and warranties are not true, complete and accurate in all respects, you shall be in default of these Seller Terms and shall pay IronPlanet 25% of the estimated market value of Equipment, the Listing Fee and any costs incurred by IronPlanet in addition to any other remedies available to IronPlanet.    
+</p><p>
+<b>13.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;GENERAL PROVISIONS</b>
+</p><p>
+<b>13.1.&nbsp;&nbsp;&nbsp;Independent Contractors</b>.  You and IronPlanet are independent contractors, and these Seller Terms shall not be construed to create any partnership, joint venture, franchisor-franchisee, or agency relationship between the parties.
+</p><p>
+<b>13.2.&nbsp;&nbsp;&nbsp;Assignment</b>.  You may not assign or transfer the Agreement or your obligations hereunder in whole or in part, whether by operation of law or otherwise, without IronPlanet's prior written consent.  In the event of a permitted transfer, these Seller Terms shall bind and inure to the benefit of the parties, their respective successors and permitted assigns.  To the extent any novation is required for IronPlanet to assign these Seller Terms, you hereby appoint the officers of IronPlanet as your attorney-in-fact to execute all documents necessary to effect such novation.  
+</p><p>
+<b>13.3.&nbsp;&nbsp;&nbsp;Record Keeping</b>.  IronPlanet cannot guarantee the preservation or maintenance of records relating to historical Auction transactions and bidding activity and encourages you to keep individual records and an accounting of all activity conducted through the Site.
+</p><p>
+<b>13.4.&nbsp;&nbsp;&nbsp;Severability; No Waiver</b>. If any provision of these Seller Terms is held by a court of competent jurisdiction to be invalid or unenforceable, then such provision shall be enforced to the maximum extent permissible so as to affect the intent of these Seller Terms, and the remainder of these Seller Terms shall continue in full force and effect.  The failure by either you or IronPlanet to exercise or enforce any rights or provisions of these Seller Terms shall not constitute a waiver of such right or provision.      
+</p><p>
+<b>13.5.&nbsp;&nbsp;&nbsp;Survival</b>.  All provisions in these Seller Terms regarding representations and warranties, indemnification, disclaimers and limitations on liability, and payment obligations for fees and penalties incurred in relation to the Site prior to the termination date shall survive any termination of these Seller Terms.  
+</p><p>
+<b>13.6.&nbsp;&nbsp;&nbsp;English Controlling Language</b>.  The parties expressly agree that all performance under these Seller Terms and the resolution of disputes shall be conducted in the English language. If a translation of these Seller Terms into any other language is required by law, the English version will prevail to the extent that there is any conflict or discrepancy in meaning between the English version and any translation thereof. If these Seller Terms is provided to you in a language other than English, IronPlanet does so solely for your convenience.  
+</p><p>
+<b>13.7.&nbsp;&nbsp;&nbsp;Notices</b>.  Any notice to IronPlanet Limited must be in writing and must be sent via email to europecare@ironplanet.com <u>and</u> by registered mail or overnight courier to IronPlanet Limited, c/o IronPlanet, Inc., 3825 Hopyard Road, Suite 250, Pleasanton, CA 94588, U.S.A, Attn:  General Counsel.  Any notice to IronPlanet, Inc. or Entreprises IronPlanet Canada must be in writing and must be sent via email to customercare@ironplanet.com <u>and</u> by registered mail or overnight courier to IronPlanet, Inc., 3825 Hopyard Road, Suite 250, Pleasanton, CA 94588, U.S.A, Attn:  General Counsel.  Notice to you must be in writing and shall be sent to the address provided by you on the Listing Agreement.  Notice shall be deemed to have been given upon three (3) business days after posting by registered mail or one (1) day after delivery to an overnight courier.  If you change your address, you are responsible for providing an updated address to IronPlanet.    
+</p><p>
+<b>13.8.&nbsp;&nbsp;&nbsp;Privacy</b>.  IronPlanet's Privacy Statement, located at <a href="/main/privacy.jsp">http://ironplanet.com/main/privacy.jsp</a> is hereby incorporated by reference.  By entering into the Listing Agreement, you are consenting to have your personal data transferred to and processed in the United States.
+</p><p>
+<b>13.9.&nbsp;&nbsp;&nbsp;Force Majeure</b>.  Any delay in the performance of any duties or obligations of either party will not be considered a breach of these Seller Terms if such delay is caused by a labor dispute, market shortage of materials, fire, earthquake, flood or any other event beyond the control of such party, provided that such party uses reasonable efforts, under the circumstances, to resume performance as soon as reasonably practicable.
+<br>
+<br>
+<br>
+</p>
+<a name="schedule1"></a>
+<table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse; width:100%;">
+<tbody><tr>
+<td colspan="3" style="font-weight:bold;text-align:center;"><u>SCHEDULE 1</u></td>
+</tr>
+<tr>
+<td colspan="3" style="font-weight:bold;text-align:center;">FEE SCHEDULE</td>
+</tr>
+<tr>
+<td colspan="3" style="font-weight:bold;text-align:center;">Fees noted below will be invoiced in the listing currency (USD, CAD, or EUR)</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+</tr>
+</tbody></table>
+<table class="sellerFees">
+<tbody><tr>
+	<td style="background-color:#bbb;font-weight:bold;text-align:center;">TERM</td>
+	<td style="background-color:#bbb;font-weight:bold;text-align:center;">FEATURED AUCTION</td>
+	<td style="background-color:#bbb;font-weight:bold;text-align:center;">DAILY MARKETPLACE</td>
+</tr>
+<tr style="background-color:#e8e8e8;">
+	<td colspan="3" style="font-weight:bold;">FEES</td>
+</tr>
+<tr>
+	<td style="font-weight:bold;">Listing Fee</td>
+	<td>A Listing Fee (in addition to any applicable taxes) shall apply for each piece of Equipment you list on the Site.<br>  
+      <b>Inspected Equipment:</b> As specified in Listing Agreement.<br>
+      <b>Uninspected Equipment (Photos and documentation of basic functionality):</b> 100.00 per piece of equipment when multiple pieces are at the same location; 100.00 for a single piece at a location.<br>
+      <b>Non-Powered Tools and Attachments (Photos only, no Inspection):</b> 100.00 per item when multiple items are at the same location; 100.00 for a single item at a location.
 	</td>
-	<td class="main_body"><p class="crumbtrail"><a href="/index.jsp">Home</a> &gt; Privacy Statement</p>
-	 
+	<td>Same terms as Featured Auction.</td>
+</tr>
+<tr>
+	<td style="font-weight:bold;">Lien Search Fee</td>
+	<td>35.00</td>
+	<td>Same terms as Featured Auction.</td>
+</tr>
+<tr>
+	<td style="font-weight:bold;">Title Transfer Fee</td>
+	<td>25.00</td>
+	<td>Same terms as Featured Auction.</td>
+</tr>
+<tr>
+	<td style="font-weight:bold;">Commission</td>
+	<td>As specified in Listing Agreement based on the final selling Price of the Equipment.</td>
+	<td>Same terms as Featured Auction.</td>
+</tr>
+<tr style="background-color:#e8e8e8;">
+	<td colspan="3" style="font-weight:bold;">CHARGES</td>
+</tr>
+<tr>
+	<td style="font-weight:bold;">Removal Charge </td>
+	<td>Listing Fee plus 25% of the greatest of (i) the estimated market value; (ii) the opening bid (as set by IronPlanet); or (iii) the highest bid submitted on the Equipment to the IronPlanet site. </td>
+	<td><b>Reserve not met</b>. The greater of (i) 2% of the Reserve Price (as set by the seller) or (ii) 50.<br><b>Removal after Reserve met</b>. The Commission Fee of the final selling price as if the Equipment were sold, plus the Listing Fee.</td>
+</tr>
+
+<tr>
+	<td style="font-weight:bold;">Reinspection Charge</td>
+	<td>350.00. IronPlanet reserves the right to determine the exact amount of the Reinspection Charge for any Equipment requiring reinspection in its sole discretion on a case-by-case basis.</td>
+	<td>Same terms as Featured Auction. </td>
+</tr>
+
+<tr>
+	<td style="font-weight:bold;">Shill Bidding Charge</td>
+	<td>25% of the Equipment Auction Closing Price for any involved transaction(s).</td>
+	<td>Same terms as Featured Auction.</td>
+</tr>
+
+<tr style="background-color:#e8e8e8;">
+	<td colspan="3" style="font-weight:bold;">SELLER POST-CLOSING MATTERS</td>
+</tr>
+<tr>
+	<td style="font-weight:bold;">Post-Closing Delay Charge</td>
+	<td>Charges include, but are not limited to, transportation cancellation or re-scheduling fees, transportation delay fees, hourly or daily average rental cost of equivalent replacement equipment for the buyer, including loading, unloading and transportation costs. IronPlanet may assess the Post-Closing Delay Charge at its discretion. </td>
+	<td>Same terms as Featured Auction.</td>
+</tr>
+
+<tr>
+	<td style="font-weight:bold;">Seller Default Charge </td>
+	<td>25% of the winning auction closing price, plus the Listing Fee and any costs incurred by Buyer and validated by IronPlanet.  </td>
+	<td>Same terms as Featured Auction.</td>
+</tr>
+<tr style="background-color:#e8e8e8;">
+	<td colspan="3" style="font-weight:bold;">ENHANCED SERVICES - U.S. AND CANADA ONLY</td>
+</tr>
+
+<tr>
+	<td style="font-weight:bold;">Logistics Fee-Repair Estimate</td>
+	<td>75.00 - flat fee</td>
+	<td>Same terms as Featured Auction.</td>
+</tr>
+
+<tr>
+	<td style="font-weight:bold;">Transport Fee</td>
+	<td>10% of Transport Cost</td>
+	<td>Same terms as Featured Auction.</td>
+</tr>
+
+<tr>
+	<td style="font-weight:bold;">Storage Fee</td>
+	<td>10% of Storage Cost</td>
+	<td>Same terms as Featured Auction.</td>
+</tr>
+
+<tr>
+	<td style="font-weight:bold;">Repossession Fee</td>
+	<td>10% of Repossession Cost</td>
+	<td>Same terms as Featured Auction.</td>
+</tr>
+
+<tr>
+	<td style="font-weight:bold;">Make-Ready Fee</td>
+	<td>10% of Make-Ready Cost</td>
+	<td>Same terms as Featured Auction.</td>
+</tr>
+
+<tr>
+	<td style="font-weight:bold;">Duplicate Title Service</td>
+	<td>100.00 + gov. fees</td>
+	<td>Same terms as Featured Auction.</td>
+</tr>
+
+<tr>
+	<td style="font-weight:bold;">Manufacturer's Statement of Origin (MSO) &amp; Titling Document Service</td>
+	<td>100.00 + gov. &amp; man. fees</td>
+	<td>Same terms as Featured Auction.</td>
+</tr>
+
+<tr>
+	<td style="font-weight:bold;">VIN Tag / Manufacturer's Label Service</td>
+	<td>50.00 + man. fees</td>
+	<td>Same terms as Featured Auction.</td>
+</tr>
+
+<tr>
+	<td style="font-weight:bold;">Title Transfer Service</td>
+	<td>100.00 + gov. fees</td>
+	<td>Same terms as Featured Auction.</td>
+</tr>
+
+<tr>
+	<td style="font-weight:bold;">Corrected Title Service</td>
+	<td>100.00 + gov. fees</td>
+	<td>Same terms as Featured Auction.</td>
+</tr>
+</tbody></table>
+<br>
 	
-	  <h1>Privacy Statement</h1>
+</div>
+</div>
+
+<div id="section4" style="clear: both; display: block;">	
+	<div style="border:1px solid #999; border-top: 0px; padding:2px;">	
+	<p>
+	<span style="float:right;">Revised April 12, 2013</span>
+	  </p><h2>Privacy Statement</h2>
      
-      <p>IronPlanet, Inc. (hereinafter referred to as "IronPlanet" 
-        or "we") is committed to protecting your privacy online. You 
-        are important to us, and we will take special care to maintain 
-        your trust. In order to fully understand your rights, we encourage 
-        you to read this Privacy Statement and to consult our <a href="javascript:popUp('/pop/terms.jsp','form','width=620,height=480,menubar,resizable,status,scrollbars')">Terms 
-        &amp; Conditions</a> as set forth in the IronPlanet website currently located at <a href="http://www.ironplanet.com">http://ironplanet.com</a> ("IronPlanet Site" or "Site"). 
-        Please direct questions regarding this statement to <a href="mailto:customercare@ironplanet.com">CustomerCare@ironplanet.com</a>. 
+      <p>IronPlanet (hereinafter referred to as "<b>IronPlanet</b>" or "<b>we</b>") is committed to protecting your privacy online. You are important to us,  
+        and we will take special care to maintain your trust. In order to fully understand your rights, we encourage you to read this Privacy 
+        Statement and to consult our Site Usage, Seller Terms and Buyer Terms which apply to your use of the IronPlanet web site(s) 
+        operated by IronPlanet (e.g., www.ironplanet.com, eu.ironplanet.com and www.truckplanet.com) (together the "<b>IronPlanet Site</b>"). 
+        Please direct questions regarding this Privacy Statement <a href="mailto:CustomerCare@ironplanet.com">CustomerCare@ironplanet.com</a> or 
+        <a href="mailto:EuropeCare@ironplanet.com">EuropeCare@ironplanet.com</a>.  
+        Your use of the IronPlanet Site indicates your express consent to our collection, storage, use and disclosure of your personal  
+        information in the manner described.  This Privacy Statement is effective upon acceptance. 
       </p><p><b>When does IronPlanet collect my personal information?<br>
-        </b> IronPlanet gathers information from users in three ways: 
-        voluntary registration, cookies, web beacon technology and log files. 
+        </b> IronPlanet gathers information from users in three ways: (1) voluntary registration and Equipment listing, (2) through use of cookie  
+        technology and (3) by recording IP addresses of those who browse our site and log files.  For users outside the United States, your use 
+        of the IronPlanet Site indicates your consent to the transfer of your personal information to the United States and the storage of it on 
+        our servers located there.
       </p><blockquote> 
-        <p><b>Voluntary Registration</b>. When you register with IronPlanet, 
-          we ask for certain necessary personal information. Other 
-          specific services may have additional registration requirements 
-          and may require you to provide additional information. 
-        </p><p><b>Cookies</b>. IronPlanet uses a browser cookie to remember 
-          your login name (but not your password), as a reminder to 
-          assist you the next time you log on to our Site.  A cookie helps the Site to recall
-          your specific information or subsequent visits in order to simplify the process of
-          delivering relevant content and ease site navigation.  You have the ability to 
-          accept or decline cookies by modifying your browser setting to decline cookies if you prefer.
-          If you choose to decline cookies, you may not be able to use interactive features of this or other
-          websites that depend on cookies. 
-        </p><p><b>Web Beacons</b>.  IronPlanet may user electronic images known as web beacons - sometimes called single-pixel
-        gifs - that assist in delivering cookies on our sites and allow us to count users who have visited those
-        pages and to deliver co-branded services.  We may include web beacons in promotional email messages or 
-        our newsletters in order to determine whether messages have been opened and acted upon.  IronPlanet may also
-        employ web beacons from third parties in order to help us compile aggregated statistics and determine the 
-        effectiveness of our promotional campaigns.
-        </p><p><b>Log Files</b>. IronPlanet may also log standard information about your visit, including your
-          IP address, browser type and language, access times, referring website addresses, the pages you
-          view, the links you click and other actions taken in connection with the Site for the purposes
-          of systems administration or to report information in aggregate form to our advertisers,
-          sponsors, and corporate partners.
+        <p><b>Voluntary Registration/Equipment Listing</b>. When you register with IronPlanet and/or wish to use the IronPlanet Site to  
+        buy or sell a piece of Equipment, we ask for certain necessary personal information. Other specific services which may be 
+        offered to you by IronPlanet from time to time may have additional registration requirements and may require you to 
+        provide additional information.
+        </p><p><b>Cookies</b>. IronPlanet uses a browser cookie to remember your login name (but not your password), as a reminder to assist  
+        you the next time you log on to our site. IronPlanet uses cookies to make your use of the IronPlanet Site easier. Your 
+        browser may notify you when IronPlanet attempts to put a cookie on your hard drive and you may refuse to accept it. If 
+        you refuse cookies your ability to use the IronPlanet Site may be impaired or you may not be able to access certain 
+        information.
+        </p><p><b>Web Beacons</b>. IronPlanet may use electronic images known as web beacons - sometimes called single-pixel gifs - that 
+        assist in delivering cookies on our sites and allow us to count users who have visited those pages and to deliver co-
+        branded services. We may include web beacons in promotional email messages or our newsletters in order to determine 
+        whether messages have been opened and acted upon. IronPlanet may also employ web beacons from third parties in 
+        order to help us compile aggregated statistics and determine the effectiveness of our promotional campaigns.
+        </p><p><b>Log Files and IP Address</b>. IronPlanet may also log standard information about your visit, including your IP address, 
+        browser type and language, access times, referring website addresses, the pages you view, the links you click and other 
+        actions taken in connection with the Site.  It is not possible to identify you personally from the type of information that 
+        IronPlanet gathers in this way.
       </p></blockquote>
 
-      <p><b>How is my personally identifiable information used?</b></p>
-      <p>We use the personal information you submit to operate, maintain, and provide to you the features
-      and functionality of the Site.
-      </p><blockquote> 
-        <p><b>Customized Look and Feel</b>. We user cookies, web beacons, and log fine information to:
-        (a) remember information so that you will not have to re-enter it during your visit or the next time
-        you visit the site; (b) provide a customized look and feel and personalized content and information;
-        (c) monitor the effectiveness of our service; (d) monitor aggregate metrics such as total number of 
-        visitors and traffic patterns, demographics, users' preferences, and other information in the aggregate;
-        (e) diagnose or fix technology problems reported by our users or engineers that are associated with the
-        IP addresses controlled by a specific web company or ISP; and (f) help you efficiently access your information
-        after you sign in.
-        </p><p><b>E-mail</b>. If you register with our Site, from time 
-          to time, IronPlanet may email you with informative messages 
-          about our services or third party products and services 
-          we believe may be of interest to you. 
+      <p><b>How is my personal information used?</b></p>
+      <blockquote> 
+        <p><b>Use of the IronPlanet Site</b>. Our primary purpose in obtaining your personal information is to provide you with the 
+        IronPlanet services as efficiently as possible. For example, IronPlanet uses your personal information to identify you as a 
+        customer, to set up and administer your account to take, process, and deliver your bids for Equipment, to process or 
+        obtain payment of your orders and to provide you with effective customer service and/or technical support.
+        </p><p><b>Customized Look and Feel</b>. IronPlanet gathers user information for the purpose of reviewing our users' preferences, 
+        demographics, traffic patterns, and other information in the aggregate.
+        </p><p><b>E-mail</b>. If you register with our site, from time to time, IronPlanet may email you with informative messages about our  
+        services or third party products and services we believe may be of interest to you. If you do not want to receive these 
+        types of emails please let IronPlanet know by email to <a href="mailto:CustomerCare@ironplanet.com">CustomerCare@ironplanet.com</a> 
+        or <a href="mailto:EuropeCare@ironplanet.com">EuropeCare@ironplanet.com</a>.
       </p></blockquote>
-      <p><b>With whom does IronPlanet share information?<br>
-        </b>IronPlanet may share user information with specific third 
-        parties for the purpose of providing additional services. 
-        In particular, IronPlanet has several service partners who 
-        provide services or products and as part of such operations, 
-        these companies may be provided certain of your contact information. 
-        In addition, IronPlanet also discloses aggregated user statistics 
-        in order to describe our services and reach to prospective 
-        partners, advertisers and other third parties. However aggregate 
-        data is not traceable to you specifically. Except for these 
-        situations, we will not disclose your personal information 
-        to any third parties except to the extent necessary to provide 
-        you with a requested service or under circumstances required 
-        by law. We will disclose your personal information when we 
-        believe in good faith that any applicable law, regulation 
-        or legal process requires it, or where we believe disclosure 
-        is necessary to protect or enforce our rights. 
-      </p><p>Specific uses of personal information that vary from this 
-        Privacy Statement (if any) may be found in the User Agreement 
-        or privacy policies applicable to that particular service. 
-        To the extent that you are notified of uses of your personal 
-        information which are different from those described in this 
-        Privacy Statement during your enrollment in any particular 
-        service, contest or promotion, the uses of which you are specifically 
-        notified will govern that service, sweepstakes, contest or 
-        promotion. Please note, however, that we do not control the 
-        privacy policies of our advertisers and other third party 
-        sites to which we provide banner ads and links. If you click 
-        through a banner ad or link and submit your information to 
-        an advertiser, you will be subject to their own privacy policies. 
-        IronPlanet assumes no responsibility or liability for these 
-        third party policies or the actions of non-affiliated third 
-        parties. 
+      <p><b>May I review and alter the personal information IronPlanet holds about me?<br>
+        </b>You have a right to access personal information held by IronPlanet which relates to you. You may do this by contacting IronPlanet at  
+        <a href="mailto:CustomerCare@ironplanet.com">CustomerCare@ironplanet.com</a> 
+        or <a href="mailto:EuropeCare@ironplanet.com">EuropeCare@ironplanet.com</a>. Please notify IronPlanet immediately if any of the personal 
+        information which we hold about you is out-dated or inaccurate and we will correct our records. If you think we hold personal 
+        information about you which is excessive, or that we should not retain your personal information, please contact us so that we may 
+        explain the reasons why IronPlanet retains such information. We will erase personal information when it is no longer necessary for 
+        us to retain it, having regard to your account activity and the applicable law.
+      </p><p><b>With whom does IronPlanet share information?<br>
+        </b>You also acknowledge and agree that in certain circumstances IronPlanet must share user information with specific third parties for  
+    	the purpose of providing additional services. In particular, IronPlanet has several service partners who provide services or products 
+    	and as part of such operations, these companies may be provided certain of your contact information. IronPlanet will endeavour to 
+    	ensure that any third parties to whom we disclose your personal information abide by the terms of this Privacy Statement. In other 
+    	instances we may be obliged to disclose your personal information in order to conform to any requirements of law or to comply with 
+    	any legal process, as well as to protect and defend the rights of IronPlanet, and/or our customers. IronPlanet reserves the right to 
+    	transfer information (including your personal information) to a third party in the event of a sale, merger, liquidation, receivership or 
+    	transfer of all or substantially all of the assets of IronPlanet, a subsidiary, or a line of business associated with IronPlanet.
+      </p><p>In addition, IronPlanet also discloses aggregated user statistics in order to describe our services and reach to prospective partners, 
+      	advertisers and other third parties. However aggregate data is not traceable to you specifically. Except for these situations, we will
+      	not disclose your personal information to any third parties except to the extent necessary to provide you with a requested service or
+      	under circumstances required by law. We will disclose your personal information when we believe in good faith that any applicable 
+      	law, regulation or legal process requires it, or where we believe disclosure is necessary to protect or enforce our rights.
+      </p><p>Specific uses of personal information that vary from this Privacy Statement (if any) may be found in the terms and conditions or 
+      	privacy policies applicable to that particular service. To the extent that you are notified of uses of your personal information which 
+      	are different from those described in this Privacy Statement during your enrollment in any particular service, contest or promotion, 
+      	the uses of which you are specifically notified will govern that service, sweepstakes, contest or promotion.
+      </p><p>Please note, however, that we do not control the privacy policies of our advertisers and other third party sites to which we provide 
+      	banner ads and links. If you click through a banner ad or link and submit your information to an advertiser, you will be subject to their 
+      	own privacy policies. IronPlanet assumes no responsibility or liability for these third party policies or the actions of non-affiliated third 
+      	parties.
+      </p><p><b>How does IronPlanet safeguard my privacy?<br>
+        </b> We take our responsibilities seriously and employ appropriate physical and technical measures to protect your personal information 
+        from unauthorized access. Although IronPlanet uses reasonable efforts to safeguard the privacy of your personal information, 
+        transmissions made by means of the Internet cannot be made absolutely secure. IronPlanet assumes no liability for disclosure of 
+		data due to errors in transmission or unauthorized third parties.
       </p><p><b>What else should I know about my privacy?<br>
+        </b>You should be aware that if you voluntarily disclose personal information online in a public area, that information may be collected 
+        and used by others. We do not control the actions of our visitors and registered users. If you disclose personal information in a 
+        publicly accessible place in the IronPlanet Site, you do so at your own risk and you understand that your submitted information may 
+        be collected and used by others to send you unsolicited messages, advertisements, or for other purposes.
+      </p><p>Please remember that you are solely responsible for maintaining the secrecy of any password you use to register and you should 
+       always be careful and responsible whenever disclosing information online.
+      </p><p><b>By using the IronPlanet Site and services, you signify your acceptance of this Privacy Statement. If you do not agree or are 
+      	not comfortable with any policy described in this Privacy Statement, your only remedy is to discontinue use of the 
+      	IronPlanet Site. We reserve the right to modify this Privacy Statement at any time. Your continued use of any portion of the 
+      	IronPlanet Site following notification or posting of such changes, will constitute your acceptance of those changes. If you 
+      	have questions or concerns about our specific policies, please send an e-mail to <a href="mailto:CustomerCare@ironplanet.com">CustomerCare@ironplanet.com</a> 
+        or <a href="mailto:EuropeCare@ironplanet.com">EuropeCare@ironplanet.com</a>. 
+      </b>
+	</p>
 
-        </b> You should be aware that if you voluntarily disclose 
-        personal information online in a public area, that information 
-        may be collected and used by others. We do not control the 
-        actions of our visitors and registered users. If you disclose 
-        personal information in a publicly accessible place in the 
-        IronPlanet website ("IronPlanet Site"), you do so at your 
-        own risk and you understand that your disclosed information 
-        may be collected and used by others to send you unsolicited 
-        messages, advertisements, or for other purposes.  If you remove
-        personal information from the IronPlanet Site, copies may remain 
-        viewable in cached and archived pages for a certain period of time
-        and other users may have copied or stored your personal information.
-      </p><p>Please remember that you are solely responsible for maintaining 
-        the secrecy of any password you use to register and you should 
-        always be careful and responsible whenever disclosing information 
-        online. Also, IronPlanet may store personal information in locations
-        outside the direct control of IronPlanet (for instance, on servers or
-        databases co-located with hosting providers).  Although IronPlanet uses reasonable efforts to safeguard 
-        the privacy of your personal information, transmissions made 
-        by means of the Internet cannot be made absolutely secure and are made at your own risk.
-        IronPlanet expressly disclaims any warranty that your personal information will not be
-        accessed, disclosed, altered, or destroyed by breach of any of our physical,
-        technical, or managerial safeguards.  IronPlanet assumes no liability for disclosure of data due 
-        to errors in transmission or unauthorized breach of our safeguards by third parties. 
-      </p><p><b>Acceptance of Privacy Policy</b>. By using the IronPlanet 
-        Site and services, you signify your acceptance of this Privacy 
-        Statement. If you do not agree or are not comfortable with 
-        any policy described in this Privacy Statement, your only 
-        remedy is to discontinue use of the IronPlanet Site and services. We reserve 
-        the right to modify this Privacy Statement at any time. Your 
-        continued use of any portion of the IronPlanet Site following 
-        notification or posting of such changes, will constitute your 
-        acceptance of those changes. If you have questions or concerns 
-        about our specific policies, please send an e-mail to <a href="mailto:customercare@ironplanet.com">CustomerCare@ironplanet.com</a>. 
-        
-		</p></td>
+</div>
+</div>
+
+
+<p>&nbsp;</p>
+
+
+<div id="main_find">
+  <script>
+/* <![CDATA[ */
+  function doSearch(whichform) {
+    if(document.getElementById("searchHere").getAttribute("placeholder")==document.getElementById("searchHere").value)
+      return false;
+    if ($.trim(whichform.q.value).length > 0) {
+    	whichform.method="POST";
+    	whichform.submit();
+		return true;
+    }
+    return false;
+  }
+  
+	$(function() {
+	var input = document.createElement("input");
+	if(('placeholder' in input)==false) { 
+		$('[placeholder]').each(function() {
+			var i = $(this);	
+			if(i.val() == '' || i.val() == i.attr('placeholder')) {				
+				i.addClass('placeholder').val(i.attr('placeholder'));
+			}
+		}).focus(function() {
+			var i = $(this);
+			if(i.val() == i.attr('placeholder')) {
+				i.val('').removeClass('placeholder');					
+			}
+		}).blur(function() {
+			var i = $(this);	
+			if(i.val() == '' || i.val() == i.attr('placeholder')) {				
+				i.addClass('placeholder').val(i.attr('placeholder'));
+			}
+		})
+	}
+	});
+
+  $(document).ready(function() {
+    var searchhere = $('#searchHere');
+    searchhere.removeClass('placeholder').val('');
+    searchhere.focus();
+    window.scrollTo(0,0);
+    setTimeout('window.scrollTo(0,0)', 1); //IE
+  });
+  
+/* ]]> */
+</script>
+<style type="text/css">
+input::-webkit-input-placeholder {
+	font-style: italic;
+	color: #808080;
+}
+input:-moz-placeholder {
+	font-style: italic;
+	color: #808080;
+}
+input:-ms-input-placeholder {
+	font-style: italic;
+	color: #808080;
+}
+.placeholder {
+  	font-style: italic;
+	color: #808080;
+}
+.searchbox_container {
+  padding: 20px 0 18px 20px;
+}
+
+.search_map {
+  margin: 10px 0 0 10px;
+  font-weight: bold;
+}
+</style>
+
+
+    <form name="findEquipmentForm" action="/jsp/s/search.ips?h=" method="post" onsubmit="return doSearch(this);">
+      <input type="hidden" name="command" value="NewSearch">
+      <input type="hidden" name="kwtag" value="HPTopKeyword">
+      <div class="lb">
+      <div class="rb">
+      <div class="bb"><div class="lbc"><div class="rbc">
+      <div class="tb"><div class="ltc"><div class="rtc">
+        <div class="searchbox_container" style="width:600px;">
+        <p><span>&nbsp;</span></p>
+      
+          
+          <input autocomplete="off" class="input_search searchbox ui-autocomplete-input" name="q" id="searchHere" type="text" placeholder="What equipment or vehicle are you looking for?" value="" maxlength="100" style="z-index: 150; position: relative;"><span role="status" aria-live="polite" class="ui-helper-hidden-accessible"></span>
+          
+          <a href="javascript:void(0);" onclick="doSearch(document.forms['findEquipmentForm']);" class="orng-button big-button sec-btn">
+          <span><span>Search&nbsp;</span><img src="/n_images/search_icon_white.png" style="vertical-align:middle;width:16px; height:16px;"></span>
+          </a>
+          
+          <div class="search_map"><a href="/jsp/equip/index.jsp?page=byLocation&amp;realmId=1">View map</a> to 
+search by location</div>
+          
+      </div>
+      </div></div></div></div>
+      </div></div></div></div>
+    </form>
+  </div>
+  
+
+</td>
+
 </tr>
 </tbody></table>
 
 
+  <div id="footer">
+    <div class="footer-horiz-divider">
+      <span class="links">
+        <a href="/about/about_us.jsp">About Us</a>
+        <span class="divider">&nbsp;|&nbsp;</span>
+        <a href="http://blog.ironplanet.com">Blog</a>
+        <span class="divider">&nbsp;|&nbsp;</span>
+        <a href="/main/contact.jsp">Contact Us</a>
+        <span id="liveChatDiv"><a href="https://v.velaro.com/visitor/requestchat.aspx?siteid=9525&amp;showwhen=inqueue&amp;deptid=17848" target="OnlineChatSoftware" onclick="this.newWindow = window.open('https://c.velaro.com/visitor/requestchat.aspx?siteid=9525&amp;showwhen=inqueue&amp;deptid=17848&amp;forcename='+(getCookie('login')==null||getCookie('login')==''?'':getCookie('login'))+'&amp;login='+(getCookie('login')==null||getCookie('login')==''?'':getCookie('login')), 'OnlineChatSoftware', 'toolbar=no,location=no,directories=no,menubar=no,status=no,scrollbars=no,resizable=yes,replace=no,width=400,height=450');this.newWindow.focus();this.newWindow.opener=window;return false;"><img alt="" id="chatImgId" src="https://c.velaro.com/visitor/check.aspx?siteid=9525&amp;showwhen=inqueue&amp;deptid=17848" border="0" style="vertical-align:middle" onerror="retryLiveChat(event);"></a></span>
+        <span class="divider">&nbsp;|&nbsp;</span>
+        <a href="/pop/terms_page.jsp?noh1=yes">Terms &amp; Conditions</a>
+        <span class="divider">&nbsp;|&nbsp;</span>
+        <a href="/pop/terms_page.jsp?id=4&amp;noh1=yes">Privacy</a>
+      </span>
+    </div>
+    <div>
+      <strong>Sites:</strong>&nbsp;&nbsp;
+      <a href="http://www.ironplanet.com?rp=1" class="selected">North America</a>
+      <span class="divider">&nbsp;|&nbsp;</span>
+      <a href="http://eu.ironplanet.com?rp=3">Europe&nbsp;&nbsp;Middle East</a>
+      <span class="divider">&nbsp;|&nbsp;</span>
+      <a href="http://www.ironplanet.com.au?rp=2">Asia-Pacific</a>
+      &nbsp;&nbsp;&nbsp;
+      <strong>Language:</strong>&nbsp;
+      <ul class="langchange">
+        <li>
+        <a href="javascript:void(0)" style="background:url(/n_images/DownArrow_b.gif) no-repeat left 2px;padding-left:12px;">English</a>
+        <ul><li>
+            <script type="text/javascript">
+              document.write('<a href="javascript:void(0);" class="selected">English</a>');
+            </script><a href="javascript:void(0);" class="selected">English</a>
+            <noscript>
+            <a href="http://www.ironplanet.com">English</a>
+            </noscript>
+          </li><li>
+            <script type="text/javascript">
+              document.write('<a href="javascript:do_lang_change(\'/jsp/acct/switchLocale.jsp?loc=es_MX\');" >Español</a>');
+            </script><a href="javascript:do_lang_change('/jsp/acct/switchLocale.jsp?loc=es_MX');">Español</a>
+            <noscript>
+            <a href="http://es.ironplanet.com">Español</a>
+            </noscript>
+          </li><li>
+            <script type="text/javascript">
+              document.write('<a href="javascript:do_lang_change(\'/jsp/acct/switchLocale.jsp?loc=fr_CA\');" >Français</a>');
+            </script><a href="javascript:do_lang_change('/jsp/acct/switchLocale.jsp?loc=fr_CA');">Français</a>
+            <noscript>
+            <a href="http://fr.ironplanet.com">Français</a>
+            </noscript>
+          </li>
+        </ul>
+        </li>
+      </ul>
+    </div>
 
-	<!-- New Footer -->
+    <div id="socialMedia">
+      <ul>
+      	<li onclick="window.location='http://www.truckplanet.com';" title="TruckPlanet" style="background:url(/n_images/truckplanet_social_media.jpg) no-repeat center center;background-size:47px 18px; width:47px; height:18px; margin-bottom:4px"></li>
+        <li onclick="window.open('http://www.facebook.com/pages/IronPlanet/142085815806776','_blank','resizable=yes,scrollbars=yes'); return false;" title="Facebook" style="background-position: 0px 0px;"></li>
+        <li onclick="window.open('http://www.linkedin.com/companies/64036','_blank','resizable=yes,scrollbars=yes'); return false;" title="LinkedIn" style="background-position: -24px 0px;"></li>
+        <li onclick="window.open('http://www.twitter.com/ironplanet','_blank','resizable=yes,scrollbars=yes'); return false;" title="Twitter" style="background-position: -48px 0px;"></li>
+        <li onclick="window.open('http://www.youtube.com/user/IronPlanetAuctions','_blank','resizable=yes,scrollbars=yes'); return false;" title="YouTube" style="background-position: -72px 0px;"></li>
+      </ul>
+    </div>
+  </div>
 
-	<table cellpadding="0" cellspacing="0" style="border: none; width:98%; margin-left:1%"><tbody><tr><td style="text-align:center;">
-            <div id="footer">
-                <span><a href="/index.jsp">Home</a>
-                     | 
-                    <a href="/about/about_us.jsp">About Us</a>
-                     | 
-                    <a href="/jsp/s/news/news.html">News</a>
-                     | 
-                    <a href="/main/forms.jsp">Forms</a>
-                     | 
-                    <a href="/main/contact.jsp">Contact Us</a>
-                </span>
-                <br>
-                <span>
-                North America&nbsp;&nbsp;&nbsp;&nbsp;
-                <a href="http://eu.ironplanet.com?rp=3">Europe&nbsp;&nbsp;Middle East</a>&nbsp;&nbsp;&nbsp;&nbsp;
-                <a href="http://www.ironplanet.com.au?rp=2">Asia-Pacific</a>
-                </span>
-                <div style="height:8px;"></div>
-                <span id="socialMedia">
-                <ul>
-                	<li onclick="window.open('http://www.facebook.com/pages/IronPlanet/142085815806776','_blank','resizable=yes,scrollbars=yes'); return false;" title="Facebook" style="background-position: 0px 0px;"></li>
-                	<li onclick="window.open('http://www.linkedin.com/companies/64036','_blank','resizable=yes,scrollbars=yes'); return false;" title="LinkedIn" style="background-position: -24px 0px;"></li>
-                	<li onclick="window.open('http://www.twitter.com/ironplanet','_blank','resizable=yes,scrollbars=yes'); return false;" title="Twitter" style="background-position: -48px 0px;"></li>
-                	<li onclick="window.open('http://www.youtube.com/user/IronPlanetAuctions','_blank','resizable=yes,scrollbars=yes'); return false;" title="YouTube" style="background-position: -72px 0px;"></li>
-                </ul>
-                </span>
-                <p>
-                    © 2011 IronPlanet, <a href="/pop/terms.jsp" onclick="popUp('/pop/terms.jsp','form','width=620,height=480,menubar,resizable,status,scrollbars');return false;">Terms &amp; Conditions</a>, 
-                    <a href="/main/privacy.jsp">Privacy</a>           
-                </p>
-            </div>
-  </td></tr>
-  </tbody></table>
-	
-	<!-- End New Footer -->
+  <div class="tandc">
+    Copyright © 1999-2013 IronPlanet, Inc. All Rights Reserved. IronPlanet®, TruckPlanet℠, IronClad Assurance® and Auctions you can trust® are service marks of IronPlanet, Inc. All other marks and brands are the property of their respective owners.
+  </div>
 
+  <script type="text/javascript">
+  function loadLiveChat() {
+    var vcJsHost = (("https:" == document.location.protocol) ? "https" : "http");
+    if (window.chatDeptId) {
+      var chatDeptId = window.chatDeptId;
+      document.getElementById('liveChatDiv').innerHTML='<a href="'+vcJsHost+'://v.velaro.com/visitor/requestchat.aspx?siteid=9525&showwhen=inqueue&deptid='+chatDeptId+'" target="OnlineChatSoftware" onclick="this.newWindow = window.open(\''+vcJsHost+'://c.velaro.com/visitor/requestchat.aspx?siteid=9525&showwhen=inqueue&deptid='+chatDeptId+'&forcename=\'+(getCookie(\'login\')==null||getCookie(\'login\')==\'\'?\'\':getCookie(\'login\'))+\'&login=\'+(getCookie(\'login\')==null||getCookie(\'login\')==\'\'?\'\':getCookie(\'login\')), \'OnlineChatSoftware\', \'toolbar=no,location=no,directories=no,menubar=no,status=no,scrollbars=no,resizable=yes,replace=no,width=400,height=450\');this.newWindow.focus();this.newWindow.opener=window;return false;"><img alt="" id="chatImgId" src="'+vcJsHost+'://c.velaro.com/visitor/check.aspx?siteid=9525&showwhen=inqueue&deptid='+chatDeptId+'" border="0" style="vertical-align:middle" onerror="retryLiveChat(event);"></a>';
+    }
+  }
 
+  var velaroTimer = 0;
+  function retryLiveChat() {
+    clearTimeout(velaroTimer);
+    if (loadChatAttempts < 3) {
+      loadChatAttempts++;
+      velaroTimer = setTimeout('loadLiveChat()', (loadChatAttempts*1000));
+    } else {
+      document.getElementById('liveChatDiv').style.display = 'none';
+    }
+  }
 
-<script type="text/javascript">
-if ( typeof(_noafftrack) == "undefined") {
-var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+  if (window.addEventListener) {
+    window.addEventListener('load', loadLiveChat, false);
+  } else if (window.attachEvent) {
+    window.attachEvent('onload', loadLiveChat);
+  } else if (window.onload) {
+    window.onload = loadLiveChat;
+  }
+  </script>
+<script type="text/javascript"> 
+if ( typeof(_noafftrack) == "undefined") { 
+   var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+   document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
 }
-</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-<script type="text/javascript">
-if ( typeof(_noafftrack) == "undefined") {
-    if (typeof(_gaq) != "undefined") {
-        /**  
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script> 
+<script type="text/javascript"> 
+if ( typeof(_noafftrack) == "undefined") { 
+    if (typeof(_gaq) != "undefined") { 
+        /** 
          *   this "undefined" detection is neccessary 
-         *   because IE9 with a Tracking Protection List will silently discard the request to any website on the list,
+         *   because IE9 with a Tracking Protection List will silently discard the request to any website on the list, 
          *   and at least one provider (Abines Standard Tracking Proetction List) has google-analytics on the 'ban list'.
          */
-        _gaq.push(
-            ['_setAccount', 'UA-2805818-6'],
-            ['_trackPageview']
-        );
-    }
-}
+         var ga_param = ''; 
+         try{ga_param = document.navbarsearch.gaparam.value;}catch (ex){}
+         if(ga_param != ''){
+        _gaq.push( ['_setAccount', 'UA-2805818-6'],  ['_trackPageview', '/jsp/s/search.ips?q='+ga_param] );
+         }else{
+        _gaq.push( ['_setAccount', 'UA-2805818-6'],  ['_trackPageview'] );
+        }
+ } } 
 </script>
+
 
 </div>
 
-</body></html>
+
+
+<ul class="ui-autocomplete ui-menu ui-widget ui-widget-content ui-corner-all" id="ui-id-1" tabindex="0" style="z-index: 1; display: none;"></ul><ul class="ui-autocomplete ui-menu ui-widget ui-widget-content ui-corner-all" id="ui-id-2" tabindex="0" style="z-index: 1; display: none;"></ul></body></html>
