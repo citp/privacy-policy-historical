@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sanduskyregister.com privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502233456id_/http%3A//www.tandemnetwork.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sanduskyregister.com privacy policy that was archived on 2013-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131102224534id_/http%3A//www.tandemnetwork.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Tandem Media Network
 
