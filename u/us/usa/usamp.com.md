@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the usamp.com privacy policy that was archived on 2013-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130517062712id_/http%3A//www.usamp.com/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usamp.com privacy policy that was archived on 2013-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131102203148id_/http%3A//www.usamp.com/policy) for the most accurate reproduction.*
 
 # Privacy Policy | uSamp
 
@@ -48,9 +48,7 @@ If a panel member desires to end his or her membership with an United Sample pan
 
 ## Compliance
 
-United Sample is a participant in the Safe Harbor program developed by the U.S. Department of Commerce and the European Union. United Sample adheres to adheres to the Safe Harbor Privacy Principles of Notice, Choice, Onward Transfer, Security, Data Integrity, Access and Enforcement ("Safe Harbor Principles") with respect to Personal Information transferred the European Union to the United States.
-
-We strive to conform our privacy practices, policies and/or procedures with applicable laws, regulations and rules and the industry codes, standards and regulations of various market and opinion research professional associations and/or organizations, including without limitation the ICC/ESOMAR International Code on Market and Social Research and the Code of Standards and Ethics for Survey Research of the Council of American Survey Research Organizations ("CASRO"), with whom United Sample is a member.
+We strive to conform our privacy practices, policies and/or procedures with applicable laws, regulations and rules and the industry codes, standards and regulations of various market and opinion research professional associations and/or organisations, including without limitation the ICC/ESOMAR International Code on Market and Social Research and the Code of Standards and Ethics for Survey Research of the Council of American Survey Research Organizations ("CASRO"), with whom United Sample is a member.
 
 ## DIGITAL FINGERPRINTING
 
