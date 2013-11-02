@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the istockanalyst.com privacy policy that was archived on 2013-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130608034814id_/http%3A//www.istockanalyst.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the istockanalyst.com privacy policy that was archived on 2013-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131102211317id_/http%3A//www.istockanalyst.com/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy : iStockAnalyst.com
 
@@ -25,7 +25,7 @@ You may set most browsers to notify you if you receive a cookie, or you may choo
 
 If you have set your computer to reject cookies, you may not be able to access our services. 
 
-Third-Party Cookies:  In the course of serving advertisements to this site, our third-party advertisers may place or recognize a unique "cookie" on your browser.
+Third-Party Cookies:  In the course of serving advertisements to this site, our third-party advertisers, including Google, may place or recognize a unique "cookie" on your browser. The cookie may be used to serve ads based on your prior visits to iStockAnalyst.com or other sites on the internet. You can opt out of third-party use of cookies for interest based advertising by visiting **[aboutads.info](http://www.aboutads.info/)**.
 
 Please remember, cookies do not contain confidential information such as your home address, telephone number or credit card details. We do not exchange cookies with any third party websites or external data suppliers. 
 
