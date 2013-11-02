@@ -1,19 +1,19 @@
-<!--The following is the downloaded HTML source of the guntwo.com privacy policy that was archived on 2013-05-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130502075358id_/http%3A//www.guntwo.com/Privacy-Policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the guntwo.com privacy policy that was archived on 2013-11-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131102202005id_/http%3A//www.guntwo.com/Privacy-Policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="en" xml:lang="en" itemscope="" itemtype="http://schema.org/Product"><head>
 <title>Privacy Policy</title>
 <base href="http://www.guntwo.com/">
 <link href="http://www.guntwo.com/Privacy-Policy" rel="canonical">
 <link rel="stylesheet" type="text/css" href="catalog/view/theme/moderndark/stylesheet/stylesheet.css">
-<script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1&amp;appId=159650554163037"></script><script id="twitter-wjs" src="https://platform.twitter.com/widgets.js"></script><script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="catalog/view/javascript/jquery/jquery-1.7.1.min.js"></script>
+<script type="text/javascript" async="" src="https://d31qbv1cthcecs.cloudfront.net/atrk.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1&amp;appId=159650554163037"></script><script id="twitter-wjs" src="https://platform.twitter.com/widgets.js"></script><script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="catalog/view/javascript/jquery/jquery-1.7.1.min.js"></script>
 <script type="text/javascript" src="catalog/view/javascript/jquery/ui/jquery-ui-1.8.16.custom.min.js"></script>
 <link rel="stylesheet" type="text/css" href="catalog/view/javascript/jquery/ui/themes/ui-lightness/jquery-ui-1.8.16.custom.css">
 <script type="text/javascript" src="catalog/view/javascript/jquery/ui/external/jquery.cookie.js"></script>
 <script type="text/javascript" src="catalog/view/javascript/jquery/colorbox/jquery.colorbox.js"></script>
 <link rel="stylesheet" type="text/css" href="catalog/view/javascript/jquery/colorbox/colorbox.css" media="screen">
 <script type="text/javascript" src="catalog/view/javascript/jquery/tabs.js"></script>
-<script type="text/javascript" src="catalog/view/javascript/common.js"></script>
+<script type="text/javascript" src="catalog/view/javascript/f_i_common.js"></script>
 <!--[if IE 7]>
 <link rel="stylesheet" type="text/css" href="catalog/view/theme/moderndark/stylesheet/ie7.css" />
 <![endif]-->
@@ -106,19 +106,9 @@ div.grid:active { background-position: -24px -48px; }
 	<div id="header">
 
 					<div id="logo"><a href="/"><img src="http://www.guntwo.com/image/data/SR12-032/xxxxxx.jpg" title="Mens Jewelry Store_GUNTWO" alt="Mens Jewelry Store_GUNTWO"></a></div>
-				<form action="http://www.guntwo.com/index.php?route=module/language" method="post" enctype="multipart/form-data">
-  <div id="language">
-        <img src="image/flags/us.png" alt="English" title="English" onclick="$('input[name=\'language_code\']').attr('value', 'en'); $(this).parent().parent().submit();">
-        <img src="image/flags/de.png" alt="Deutsch" title="Deutsch" onclick="$('input[name=\'language_code\']').attr('value', 'de'); $(this).parent().parent().submit();">
-        <img src="image/flags/ru.png" alt="Russian" title="Russian" onclick="$('input[name=\'language_code\']').attr('value', 'ru'); $(this).parent().parent().submit();">
-        <input type="hidden" name="language_code" value="">
-    <input type="hidden" name="redirect" value="http://www.guntwo.com/Privacy-Policy">
-  </div>
-</form>
-		<form action="http://www.guntwo.com/index.php?route=module/currency" method="post" enctype="multipart/form-data">
+						<form action="http://www.guntwo.com/index.php?route=module/currency" method="post" enctype="multipart/form-data">
   <div id="currency">
                 <a title="Euro" onclick="$('input[name=\'currency_code\']').attr('value', 'EUR'); $(this).parent().parent().submit();">€</a>
-                        <a title="Japan Yen" onclick="$('input[name=\'currency_code\']').attr('value', 'JPY'); $(this).parent().parent().submit();">¥</a>
                         <a title="Pound Sterling" onclick="$('input[name=\'currency_code\']').attr('value', 'GBP'); $(this).parent().parent().submit();">£</a>
                         <a title="US Dollar"><b>$</b></a>
                 <input type="hidden" name="currency_code" value="">
@@ -127,54 +117,58 @@ div.grid:active { background-position: -24px -48px; }
 </form>
 		<div id="cart">
   <div class="heading">
-    <h4>Shopping Cart</h4>
+<style type="text/css">
+#header #cart .heading h4 {margin:-10px 0px 3px 0 !important;}
+#header #cart .heading {margin:10px 10px 0 0 !important}
+#header #cart.active .heading {padding-top:0 !important}
+</style>
+    <img style="margin:0 -65px -30px" src="image/data/cart_empty.png">
+      <h4>Shopping Cart</h4>
     <a><span id="cart-total">0 item(s) - $0.00</span></a></div>
   <div class="content">
         <div class="empty">Your shopping cart is empty!</div>
       </div>
 </div><div id="search">
     <div class="button-search"></div>
-        <input type="text" name="filter_name" value="Search" onclick="this.value = '';" onkeydown="this.style.color = '#000000';">
+        <input type="text" name="filter_name" value="Search" onclick="this.value = '';" onkeydown="this.style.color = '#ffffff';">
       </div>
 		<div id="welcome">
-							Welcome visitor you can <a href="http://www.guntwo.com/login">login</a> or <a href="http://www.guntwo.com/register">create an account</a>.					</div>
+							Welcome visitor you can <a href="http://www.guntwo.com/login">login</a> or <a href="http://www.guntwo.com/index.php?route=account/simpleregister">create an account</a>.					</div>
  
 	</div><!-- header -->
 
 	<div id="headmenu">
 		<a href="/">Home</a>
 		<a href="http://www.guntwo.com/wishlist" id="wishlist-total">Wish List (0)</a>
-		<a href="http://www.guntwo.com/index.php?route=checkout/cart">Shopping Cart</a>
-		<a href="http://www.guntwo.com/index.php?route=checkout/checkout">Checkout</a>
+		<a href="http://www.guntwo.com/index.php?route=checkout/simplecheckout">Shopping Cart</a>
+		<a href="http://www.guntwo.com/index.php?route=checkout/simplecheckout">Checkout</a>
 
 		
 	</div>
 
 <div id="menu">
   <ul>
-        <li><a href="http://www.guntwo.com/wallet-chain">WALLET CHAINS</a>
+        <li><a href="http://www.guntwo.com/wallet-chains">WALLET CHAINS</a>
             <div>
                 <ul>
-                                        <li><a href="http://www.guntwo.com/wallet-chain/metal-wallet-chain">METAL CHAINS (105)</a></li>
-                                        <li><a href="http://www.guntwo.com/wallet-chain/leather-wallet-chain">LEATHER CHAINS (23)</a></li>
-                                        <li><a href="http://www.guntwo.com/wallet-chain/basic-wallet-chain">BASIC CHAINS (22)</a></li>
-                                        <li><a href="http://www.guntwo.com/wallet-chain/single-wallet-chain">SINGLE CHAINS (90)</a></li>
-                                        <li><a href="http://www.guntwo.com/wallet-chain/double-wallet-chain">DOUBLE CHAINS (12)</a></li>
+                                        <li><a href="http://www.guntwo.com/wallet-chains/metal-wallet-chain">METAL CHAINS (99)</a></li>
+                                        <li><a href="http://www.guntwo.com/wallet-chains/leather-wallet-chain">LEATHER CHAINS (23)</a></li>
+                                        <li><a href="http://www.guntwo.com/wallet-chains/basic-wallet-chain">BASIC CHAINS (21)</a></li>
+                                        <li><a href="http://www.guntwo.com/wallet-chains/single-wallet-chain">SINGLE CHAINS (86)</a></li>
+                                        <li><a href="http://www.guntwo.com/wallet-chains/double-wallet-chain">DOUBLE CHAINS (11)</a></li>
                             </ul>
                 <ul>
-                                        <li><a href="http://www.guntwo.com/wallet-chain/triple-wallet-chain">TRIPLE CHAINS (9)</a></li>
-                                        <li><a href="http://www.guntwo.com/wallet-chain/multiple-wallet-chain">MULTIPLE CHAINS (4)</a></li>
-                                        <li><a href="http://www.guntwo.com/wallet-chain/skull-wallet-chain">SKULL CHAINS (33)</a></li>
-                                        <li><a href="http://www.guntwo.com/wallet-chain/dragon-wallet-chain">DRAGON CHAINS (3)</a></li>
-                                        <li><a href="http://www.guntwo.com/wallet-chain/spike-wallet-chain">SPIKE CHAINS (5)</a></li>
+                                        <li><a href="http://www.guntwo.com/wallet-chains/triple-wallet-chain">TRIPLE CHAINS (9)</a></li>
+                                        <li><a href="http://www.guntwo.com/wallet-chains/multiple-wallet-chain">MULTIPLE CHAINS (4)</a></li>
+                                        <li><a href="http://www.guntwo.com/wallet-chains/skull-wallet-chain">SKULL CHAINS (33)</a></li>
+                                        <li><a href="http://www.guntwo.com/wallet-chains/dragon-wallet-chain">DRAGON CHAINS (3)</a></li>
+                                        <li><a href="http://www.guntwo.com/wallet-chains/spike-wallet-chain">SPIKE CHAINS (5)</a></li>
                             </ul>
                 <ul>
-                                        <li><a href="http://www.guntwo.com/wallet-chain/cross-wallet-chain">CROSS CHAINS (33)</a></li>
-                                        <li><a href="http://www.guntwo.com/wallet-chain/crown-wallet-chain">CROWN CHAINS (2)</a></li>
-                                        <li><a href="http://www.guntwo.com/wallet-chain/blackout-wallet-chain">BLACKOUT CHAINS (14)</a></li>
-                                        <li><a href="http://www.guntwo.com/wallet-chain/gold-plated-wallet-chain">GOLD PLATED CHAINS (4)</a></li>
-                                        <li><a href="http://www.guntwo.com/wallet-chain/white-gold-plated-wallet-chain">WHITE GOLD PLATED CHAINS (86)</a></li>
-                            </ul>
+                                        <li><a href="http://www.guntwo.com/wallet-chains/cross-wallet-chain">CROSS CHAINS (31)</a></li>
+                                        <li><a href="http://www.guntwo.com/wallet-chains/crown-wallet-chain">CROWN CHAINS (2)</a></li>
+                                        <li><a href="http://www.guntwo.com/wallet-chains/blackout-wallet-chain">BLACKOUT CHAINS (13)</a></li>
+                                                                    </ul>
               </div>
           </li>
         <li><a href="http://www.guntwo.com/mens-bracelet">BRACELETS</a>
@@ -197,7 +191,7 @@ div.grid:active { background-position: -24px -48px; }
         <li><a href="http://www.guntwo.com/men-biker-rocker-designer-necklace">NECKLACES</a>
             <div>
                 <ul>
-                                        <li><a href="http://www.guntwo.com/men-biker-rocker-designer-necklace/cross-necklaces">CROSS NECKLACES (23)</a></li>
+                                        <li><a href="http://www.guntwo.com/men-biker-rocker-designer-necklace/cross-necklaces">CROSS NECKLACES (24)</a></li>
                                         <li><a href="http://www.guntwo.com/men-biker-rocker-designer-necklace/skull-necklaces">SKULL NECKLACES (5)</a></li>
                             </ul>
                 <ul>
@@ -223,7 +217,7 @@ div.grid:active { background-position: -24px -48px; }
             <div>
                 <ul>
                                         <li><a href="http://www.guntwo.com/mens-ring/men-skull-rings">SKULL RINGS (3)</a></li>
-                                        <li><a href="http://www.guntwo.com/mens-ring/men-inger-rings">FINGER RINGS (4)</a></li>
+                                        <li><a href="http://www.guntwo.com/mens-ring/men-inger-rings">FINGER RINGS (3)</a></li>
                             </ul>
                 <ul>
                                         <li><a href="http://www.guntwo.com/mens-ring/men-tiger-ring">TIGER RINGS (1)</a></li>
@@ -242,13 +236,6 @@ div.grid:active { background-position: -24px -48px; }
                             </ul>
               </div>
           </li>
-        <li><a href="http://www.guntwo.com/Mens-Bag">MEN'S BAGS</a>
-            <div>
-                <ul>
-                                        <li><a href="http://www.guntwo.com/Mens-Bag/Shoulder-Bag-UL051">SHOULDER BAG (4)</a></li>
-                            </ul>
-              </div>
-          </li>
         <li><a href="http://www.guntwo.com/hair-pin">HAIR PINS</a>
           </li>
         <li><a href="http://www.guntwo.com/safety-pins">SAFETY PINS</a>
@@ -256,7 +243,6 @@ div.grid:active { background-position: -24px -48px; }
       </ul>
 </div>
 <div id="notification"></div>
-
 
 
 <div id="contentbox">
@@ -345,9 +331,7 @@ $('.colorbox').colorbox({
 	<div class="iWidgetWrapper">
 		<h2>Contact us</h2>
         <div class="belowTitleContainer">
-            <div class="text"><p>
-	Work days 9am - 6pm</p>
-</div>
+            <div class="text"></div>
             <ul class="iContactsListing">
     
                                 <li class="iAddress">
@@ -364,7 +348,11 @@ $('.colorbox').colorbox({
                 </li>
                    
                                 <li class="iEmail">
-                    <div class="contactItem">crediblemen@gmail.com</div>
+                    <div class="contactItem">crediblemen@gmail.com<script type="text/javascript">
+/* <![CDATA[ */
+(function(){try{var s,a,i,j,r,c,l,b=document.getElementsByTagName("script");l=b[b.length-1].previousSibling;a=l.getAttribute('data-cfemail');if(a){s='';r=parseInt(a.substr(0,2),16);for(j=2;a.length-j;j+=2){c=parseInt(a.substr(j,2),16)^r;s+=String.fromCharCode(c);}s=document.createTextNode(s);l.parentNode.replaceChild(s,l);}}catch(e){}})();
+/* ]]> */
+</script></div>
                     <div class="contactItem"></div>
                 </li>
                               
@@ -384,7 +372,11 @@ $('.colorbox').colorbox({
 <p>
 	<span style="font-size:12px;">Feel free to contact us!</span></p>
 <p>
-	<span style="font-size:12px;"><strong>crediblemen@gmail.com</strong></span></p>
+	<span style="font-size:12px;"><strong>crediblemen@gmail.com<script type="text/javascript">
+/* <![CDATA[ */
+(function(){try{var s,a,i,j,r,c,l,b=document.getElementsByTagName("script");l=b[b.length-1].previousSibling;a=l.getAttribute('data-cfemail');if(a){s='';r=parseInt(a.substr(0,2),16);for(j=2;a.length-j;j+=2){c=parseInt(a.substr(j,2),16)^r;s+=String.fromCharCode(c);}s=document.createTextNode(s);l.parentNode.replaceChild(s,l);}}catch(e){}})();
+/* ]]> */
+</script></strong></span></p>
 <p>
 	&nbsp;</p>
 <h2 style="margin: 0px 0px 12px; padding: 0px 0px 4px; font-size: 16px; font-family: 'PT Sans Narrow', 'Arial Narrow', sans-serif; color: rgb(227, 230, 232); text-rendering: optimizelegibility; line-height: 22px; border-bottom-width: 1px; border-bottom-style: groove; border-bottom-color: rgb(145, 152, 162);">
@@ -541,11 +533,12 @@ function btndisplay() {
   <div class="column grid_3">
     <h3>Information</h3>
     <ul>
-            <li><a href="http://www.guntwo.com/shipping-delivery">Shipping &amp; Delivery</a></li>
             <li><a href="http://www.guntwo.com/About-Us">About Us</a></li>
+            <li><a href="http://www.guntwo.com/shipping-delivery">Shipping &amp; Delivery</a></li>
             <li><a href="http://www.guntwo.com/Terms-Conditions">Terms &amp; Conditions</a></li>
             <li><a href="http://www.guntwo.com/Privacy-Policy">Privacy Policy</a></li>
             <li><a href="http://www.guntwo.com/agreement">Agreement</a></li>
+            <li><a href="http://www.guntwo.com/Facebook">Facebook</a></li>
           </ul>
   </div>
   <div class="column grid_3">
@@ -644,6 +637,13 @@ function btndisplay() {
   </div>
 </div>
 </div>
+<!-- Start Alexa Certify Javascript -->
+<script type="text/javascript">
+_atrk_opts = { atrk_acct:"gdOFh1aoie00wS", domain:"guntwo.com",dynamic: true};
+(function() { var as = document.createElement('script'); as.type = 'text/javascript'; as.async = true; as.src = "https://d31qbv1cthcecs.cloudfront.net/atrk.js"; var s = document.getElementsByTagName('script')[0];s.parentNode.insertBefore(as, s); })();
+</script>
+<noscript><img src="https://d5nxst8fruw4z.cloudfront.net/atrk.gif?account=gdOFh1aoie00wS" style="display:none" height="1" width="1" alt="" /></noscript>
+<!-- End Alexa Certify Javascript -->
 
 				  
 			
