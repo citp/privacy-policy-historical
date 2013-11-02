@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stardevelop.com privacy policy that was archived on 2013-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130430205812id_/http%3A//livehelp.stardevelop.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stardevelop.com privacy policy that was archived on 2013-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131102135632id_/http%3A//livehelp.stardevelop.com/privacy.htm) for the most accurate reproduction.*
 
 # Live Chat Software - Privacy Policy - Live Chat Software, Help Desk Software, Customer Support Software
 
@@ -87,6 +87,6 @@ To review and update your personal information to ensure it is accurate, contact
 We may update this privacy statement to reflect changes to our information practices. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.
 
 Stardevelop Pty Ltd  
-Post Office Box 412  
-Gold Coast, 4212  
+Post Office Box 65  
+Upper Coomera, Queensland 4209  
 Australia
