@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the misfitwearables.com privacy policy that was archived on 2013-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130610211026id_/http%3A//misfitwearables.com/legal/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the misfitwearables.com privacy policy that was archived on 2013-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131102200223id_/http%3A//misfitwearables.com/legal/privacy_policy) for the most accurate reproduction.*
 
 # Misfit Wearables
 
@@ -31,7 +31,8 @@ Personally identifiable information collected on misfitwearables.com may be used
 * Contact you if necessary in the course of processing or shipping an order for products or services  
 * Generate site analytics that improve our site layout, content, product offerings and services  
 * Compile user data that is stored in our corporate database and may be used for marketing and other purposes  
-* Match personal data collected here with data about you that we collect through other sources * Comply with legal requirements
+* Match personal data collected here with data about you that we collect through other sources  
+* Comply with legal requirements
 
 5\. Other (Non-Personally Identifiable) Information We Collect From Site Visitors:
 
