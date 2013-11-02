@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bewellbuzz.com privacy policy that was archived on 2013-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130503002414id_/http%3A//www.bewellbuzz.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bewellbuzz.com privacy policy that was archived on 2013-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131102152346id_/http%3A//www.bewellbuzz.com/privacy-policy) for the most accurate reproduction.*
 
-# privacy policy | Be Well Buzz
+# Privacy Policy - Be Well Buzz
 
 At BeWellBuzz.com we appreciate your readership and value your personal privacy. We respect the personal nature of the information you provide us on our web site and acknowledge the importance of protecting this information. In adopting this privacy policy, our intent is to balance our legitimate business interests in collecting and using your personal information with your reasonable expectations of privacy. The policy may be revised or updated at any time and we encourage you to check back often to ensure that you are familiar with the most recent version and the terms of our policy.
 
@@ -25,12 +25,3 @@ Non-personally identifiable information (such as stated above) may be shared in 
 Any information you disclose voluntarily on our comments pages or in any forums we may develop in the future becomes public information. We cannot control the actions of our site users and advise you to use your discretion in sharing information about yourself on the internet. All information sharing is optional and done so at your own risk. Privacy is a very personal matter and we encourage you to be careful and responsible when disclosing personal information online.
 
 (revised 12.15.2010)
-
-### [BeWellBuzz](http://www.bewellbuzz.com/author/Buzz%20Team/ "BeWellBuzz")
-
-The mission and goal of this site is to provide you with scientifically researched natural health and personal development information. Natural health & personal development advocates Larry Oz & his wife Oksana seek to awaken people to their highest levels of personal truth. They work tirelessly to inspire you to elevate your spirit, do more, live better, and think deeper one day at a time. When you like and share this information, you help make the world a better place. As always, please seek professional advice before implementing any recommendations. BeWellBuzz.com is brought to you by [Halcyon Publishing](http://www.halcyonpublishing.net/). Check out our magazine by [clicking here](https://itunes.apple.com/us/app/be-well-buzz-magazine/id577503787?ls=1&mt=8).
-
-[More Posts](http://www.bewellbuzz.com/author/Buzz%20Team/ "More posts by BeWellBuzz") \- [Website](http://www.bewellbuzz.com/ "BeWellBuzz")
-
-Follow Me:  
-[](http://www.twitter.com/http://twitter.com/bewellbuzz)[](http://www.facebook.com/http://www.facebook.com/bewellbuzz)
