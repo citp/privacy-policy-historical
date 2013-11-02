@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the abundanthealth4u.com privacy policy that was archived on 2013-05-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130523213814id_/http%3A//www.abundanthealth4u.com/terms_privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the abundanthealth4u.com privacy policy that was archived on 2013-11-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131103004640id_/http%3A//www.abundanthealth4u.com/terms_privacy.asp) for the most accurate reproduction.-->
 
 <html xmlns="http://www.w3.org/1999/xhtml"><head></head><body id="body">﻿
 
@@ -28,6 +28,7 @@ var Config_CDN_URL = '/'
 <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
 <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jqueryui/1.8.4/jquery-ui.min.js"></script>
 <link type="text/css" href="//ajax.googleapis.com/ajax/libs/jqueryui/1.8.4/themes/base/jquery-ui.css" rel="stylesheet">
+<link type="text/css" href="/a/c/default.css" rel="stylesheet">
 
 
 <script type="text/javascript">
@@ -43,7 +44,30 @@ var Config_CDN_URL = '/'
     var PageText_843 = "Subtotal";
     var PageText_844 = "items in cart";
 </script>
+<script type="text/javascript" src="/a/j/volusion.js?currentBuild"></script>
+<script type="text/javascript">
+    (function ($) {
+        volusion.ready(function () {
+            if (volusion.cart.isObservingCount()) {
+                var ts = new Date().getTime();
 
+                $.getJSON('/ajaxcart.asp?cachebust=' + ts, function (data) {
+                    var quantityTotal = 0;
+                    $.each(data.Products, function (key, val) {
+                        if (val.IsProduct === 'Y') {
+                            quantityTotal += parseInt(val.Quantity);
+                        } else if (val.IsAccessory === 'Y') {
+                            quantityTotal += parseInt(val.Quantity);
+                        }
+                    });
+                    quantityTotal = quantityTotal || '0';
+                    volusion.cart.itemCount(quantityTotal);
+                });
+
+            }
+        });
+    } (jQuery));
+</script>
 
 
 <script type="text/javascript" src="/a/j/soft_add.js"></script>
@@ -142,7 +166,7 @@ alert("The print ready feature is only available if you are using a newer browse
         
         <!-- #################### LIVE CHAT --> 
 <!-- Begin Volusion Live Chat -->
-<div id="VolusionLiveChat"><a href="http://www.volusion.com">Ecommerce</a></div>
+<div id="VolusionLiveChat"><a href="http://www.volusion.com" rel="nofollow"></a></div>
 <script defer="" type="text/javascript" src="https://livechat.volusion.com/script.aspx?id=380617"></script>
 <!-- End Volusion Live Chat -->
 
@@ -201,6 +225,11 @@ function mClk3(src, popup)
 	</tr>
 	<tr>
 		<td valign="middle" class="nav" onmouseover="mOvr3(this);" onmouseout="mOut3(this);" onclick="mClk3(this);" style="background-color: transparent">
+			<a href="http://www.abundanthealth4u.com/Essential_Travel_Tips_s/162.htm" title="Essential Travel Tips">Essential Travel Tips</a>
+		</td>
+	</tr>
+	<tr>
+		<td valign="middle" class="nav" onmouseover="mOvr3(this);" onmouseout="mOut3(this);" onclick="mClk3(this);" style="background-color: transparent">
 			<a href="http://www.abundanthealth4u.com/Monthly_Specials_s/63.htm" title="Monthly Specials">Monthly Specials</a>
 		</td>
 	</tr>
@@ -218,9 +247,67 @@ function mClk3(src, popup)
 </div>
         </div>
                 
-        <div id="display_promotions_999"><br><img src="/v/vspfiles/templates/208/images/logos/cc_logo1.gif" border="0"><br><style type="text/css">#volusion_ssl_seal { behavior: url(/a/iepngfix.htc); }</style><br><a href="javascript:void(0);" onclick="window.open('https://www.volusion.com/ssl.asp?url=www.AbundantHealth4u.com', 'VolusionSSL', 'top=10,left=10,menubar=0,resizable=0,scrollbars=0,width=467,height=467')"><img id="volusion_ssl_seal" src="/a/i/seal_volusion2.png" border="0" height="58" width="137"></a><br></div>        
+                <!-- #################### NAV MENU PROMOTIONS -->            
+        <div id="display_promotions_999"><br><img src="/v/vspfiles/templates/208/images/logos/cc_logo1.gif" border="0"><br><style type="text/css">#volusion_ssl_seal { behavior: url(/a/iepngfix.htc); }</style><br><a href="javascript:void(0);" onclick="window.open('https://www.volusion.com/ssl.asp?url=www.AbundantHealth4u.com', 'VolusionSSL', 'top=10,left=10,menubar=0,resizable=0,scrollbars=0,width=467,height=467')"><img id="volusion_ssl_seal" src="/a/i/seal_volusion2.png" border="0" height="58" width="137"></a><br></div>
+<div>
+<h3 style="color:#5D285F; text-align:center">Customer Feedback</h3>
+<div style="font-family: Arial; font-size: 10pt; margin-left:5px; margin-right:5px">
+<script src="/A2EB891D63C8/avg_ls_dom.js" type="text/javascript"></script><script src="/A2EB891D63C8/avg_ls_dom.js" type="text/javascript"></script><script type="text/javascript">
+// ==============================================
+// Copyright 2004 by CodeLifter.com
+// Free for all; but please leave in this header.
+// ==============================================
+
+var Quotation=new Array() // do not change this!
+
+// Set up the quotations to be shown, below.
+// To add more quotations, continue with the
+// pattern, adding to the array.  Remember
+// to increment the Quotation[x] index!
+
+Quotation[0] = "<i>&quot;Thank you for the wonderful customer service.  I will, because of this, spend more time on your website in the near future.&quot;</i> &mdash;Vicki M.";
+Quotation[1] = "<i>&quot;I will spread the word about your wonderful customer service.&quot;</i> &mdash;Robin";
+Quotation[2] = "<i>&quot;Thank you for saving me on shipping as I thought the shipping rates were exorbitant.  Love all your products and grateful for the savings on shipping.&quot;</i> &mdash;Sue";
+Quotation[3] = "<i>&quot;Thank you for saving me money on shipping.  Not many businesses would do that for a customer.&quot;</i> &mdash;Doris B.";
+Quotation[4] = "<i>&quot;Greatly appreciate you saving me money on shipping.&quot;</i> &mdash;Amy L.";
+Quotation[5] = "<i>&quot;I have two thumbs up, you are a great company to work with.  Try to save customers money any way that you can.  No other online site would check into shipping rates and give you the cheaper one.  Many thanks from the bottom of my heart.&quot;</i> &mdash;Stella G.";
+Quotation[6] = "<i>&quot;I am an Operations Manager and to save me on shipping is outstanding customer service.&quot;</i> &mdash;Stella G.";
+Quotation[7] = "<i>&quot;We are very excited to see the significant $37+ savings in shipping!  Thank you so much for taking the time to save us more money!&quot;</i> &mdash;Al and Carrie S.";
+Quotation[8] = "<i>&quot;Thank you for the savings on shipping!  That is wonderful!&quot;</i> &mdash;Maya";
+Quotation[9] = "<i>&quot;Thank you for saving me money on my order and for taking an extra step to do it!&quot;</i> &mdash;Sasannah B.";
+Quotation[10] = "<i>&quot;Taking time to save me money.  Any savings these days are great.&quot;</i> &mdash;Rashelle";
+Quotation[11] = "<i>&quot;You are the first company who has ever offered to find lower shipping rates!  Awesome!&quot;</i> &mdash;Lynn A.";
+Quotation[12] = "<i>&quot;I LOVE doing business with your company - thank you, you are awesome!&quot;</i> &mdash;Valerie R.";
+Quotation[13] = "<i>&quot;Thank you for finding a less expensive way for shipping.  I will be placing another order soon.&quot;</i> &mdash;Barbara J.";
+Quotation[14] = "<i>&quot;Order already received!  Thank you so much for your timely processing.  I will share the story of the quickness of delivery and service you provide.&quot;</i> &mdash;Angela M.";
+Quotation[15] = "<i>&quot;I certainly appreciate the extra efforts on your part, I will remember this and will recommend you to others&quot;</i> &mdash;Bonnie A.";
+Quotation[16] = "<i>&quot;Thank you for your consistently outstanding customer service.  I recommend your company to every oiler I know!&quot;</i> &mdash;Angela L.";
+Quotation[17] = "<i>&quot;You ROCK!  Thank you!&quot;</i> &mdash;Missy W.";
+Quotation[18]="<i>&quot;Thank you!  How refreshing that a company looking out for their customers first! Your correspondence goes a long way in making an impression.  Your company will be my go-to for supplies from now on!&quot;</i> &mdash;Jennifer";
+// ======================================
+// Do not change anything below this line
+// ======================================
+var Q = Quotation.length;
+var q1=Math.round(Math.random()*(Q-1));
+var q2 = q1;
+var q3 = q1;
+while (q2==q1)
+q2=Math.round(Math.random()*(Q-1));
+while (q3==q1 || q3==q2)
+q3=Math.round(Math.random()*(Q-1));
+function showQuotation(which){document.write(Quotation[which]);}
+document.write("<br />");
+showQuotation(q1);
+document.write("<br /><br />");
+showQuotation(q2);
+//document.write("<br /><br />");
+//showQuotation(q3);
+</script><br><i>"I have two thumbs up, you are a great company to work with.  Try to save customers money any way that you can.  No other online site would check into shipping rates and give you the cheaper one.  Many thanks from the bottom of my heart."</i> —Stella G.<br><br><i>"Thank you for saving me on shipping as I thought the shipping rates were exorbitant.  Love all your products and grateful for the savings on shipping."</i> —Sue
+</div>
+</div>
     </div>
-      
+    
+    <!-- #################### CONTENT AREA #################### -->  
     <div id="content_area">
     <table width="100%" border="0" cellspacing="5" cellpadding="5" align="center">
         <tbody><tr> 
@@ -281,7 +368,7 @@ function mClk3(src, popup)
 ===============================================================================================
 Customer has agreed per Volusion's Terms of Service (http://www.volusion.com/agreement_monthtomonth.asp) to maintain a text hyperlink to "http://www.volusion.com" in the footer of the website. The link must be standard html, contain no javascript, and be approved by Volusion. Removing this link breaches the Volusion agreement.-->   
 
-Ecommerce Web Site Design by <a href="http://www.volusion.com" title="Shopping Cart Software" target="_blank">Volusion</a>
+Powered with <a href="http://www.volusion.com" target="_blank">Volusion Shopping Cart Software</a>
 
 <!-- ==========================================================================================
 				VOLUSION LINK - END
