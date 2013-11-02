@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the rollbar.com privacy policy that was archived on 2013-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130605155525id_/http%3A//rollbar.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rollbar.com privacy policy that was archived on 2013-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131102065509id_/http%3A//rollbar.com/privacy) for the most accurate reproduction.*
 
 # 
 
-_Last updated February 25, 2012_
+_Last updated February 25, 2013_
 
 At Rollbar, we collect and manage user data according to the following Privacy Policy, with the goal of incorporating our company values: transparency, accessibility, sanity, usability. This document is part of Rollbar's Terms of Service, and by using rollbar.com (the "Website"), you agree to the terms of this Privacy Policy and the Terms of Service. Please read the Terms of Service in their entirety, and refer to those for definitions and contacts.
 
@@ -10,7 +10,7 @@ At Rollbar, we collect and manage user data according to the following Privacy P
 
 We collect anonymous data from every visitor of the Website to monitor traffic and fix bugs. For example, we collect information like web requests, the data sent in response to such requests, the Internet Protocol address, the browser type, the browser language, and a timestamp for the request.
 
-We ask you to log in and provide certain personal information (such as your email address and Github login) in order to be able to save your profile and the accounts, projects, and other data associated with it. In order to enable these or any other login based features, we use cookies to store session information for your convenience. Cookies are required to use the Website. In order to take advantage of certain features of the Website, you may also choose to provide us with other personal information, such as your picture or personal website, but your decision to utilize these features and provide such data will always be voluntary.
+We ask you to log in and provide certain personal information (such as your email address and GitHub login) in order to be able to save your profile and the accounts, projects, and other data associated with it. In order to enable these or any other login based features, we use cookies to store session information for your convenience. Cookies are required to use the Website. In order to take advantage of certain features of the Website, you may also choose to provide us with other personal information, such as your picture or personal website, but your decision to utilize these features and provide such data will always be voluntary.
 
 You are able to view, change and remove your data associated with your profile. Should you choose to delete your account, please contact us at support@rollbar.com and we will follow up with such request as soon as possible. You can also modify your notification preferences by clicking the appropriate link included in the footer of email notifications.
 
