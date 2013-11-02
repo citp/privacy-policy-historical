@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the income.com.sg privacy policy that was archived on 2013-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130617151327id_/http%3A//income.com.sg/others/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the income.com.sg privacy policy that was archived on 2013-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131103004452id_/http%3A//www.income.com.sg/others/privacy.asp) for the most accurate reproduction.*
 
 # NTUC Income | About Us
 
