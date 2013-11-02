@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blackapplehost.com privacy policy that was archived on 2013-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130406185232id_/http%3A//www.blackapplehost.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blackapplehost.com privacy policy that was archived on 2013-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131102203040id_/http%3A//www.blackapplehost.com/privacy.php) for the most accurate reproduction.*
 
 # Free Web Hosting
 
