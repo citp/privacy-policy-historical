@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the edinburghairport.com privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601030748id_/http%3A//www.edinburghairport.com/help/policies/privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edinburghairport.com privacy policy that was archived on 2013-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131102101451id_/http%3A//www.edinburghairport.com/help/policies/privacy-notice) for the most accurate reproduction.*
 
 # Edinburgh Airport - Privacy notice
 
@@ -77,7 +77,7 @@ EAL use the following categories of cookies on our websites:
 
 **Functionality**  \- These cookies are used to provide services or remember settings to enhance your visit for example text size or other preferences. The information these cookies collect is anonymous and does not enable us to track your browsing activity on other websites. By using our websites, you agree that we can place these types of cookies on your device.
 
-**Targeting and Advertising**  – These cookies are used by trusted third parties to deliver adverts more relevant to you and your interests. They are also used to limit the number of times you see an advertisement as well as help measure the effectiveness of the advertising campaign. Information contained in these cookies is anonymous and doesn't contain your personal information. To find out more about cookies used for targeting and advertising follow [www.youronlinechoices.com](http://www.youronlinechoices.com/) and [www.networkadvertising.org](http://www.networkadvertising.org/) or contact us at [edi_web@edinburghairport.com](mailto:edi_web@edinburghairport.com?subject=website%20query%20sent%20via%20edinburghairport.com) for further information about the trusted third parties we use.
+**Targeting and Advertising**  – These cookies are used by trusted third parties to deliver adverts more relevant to you and your interests. They are also used to limit the number of times you see an advertisement as well as help measure the effectiveness of the advertising campaign. Information contained in these cookies is anonymous and doesn't contain your personal information. To find out more about cookies used for targeting and advertising follow [www.youronlinechoices.com](http://www.youronlinechoices.com/) and [www.networkadvertising.org](http://www.networkadvertising.org/) or contact us for further information about the trusted third parties we use.
 
 ### Managing cookies
 
