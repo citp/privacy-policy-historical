@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fromthetrenchesworldreport.com privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502231128id_/http%3A//www.fromthetrenchesworldreport.com/authors-contact/privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fromthetrenchesworldreport.com privacy policy that was archived on 2013-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131102103602id_/http%3A//www.fromthetrenchesworldreport.com/authors-contact/privacy-notice) for the most accurate reproduction.*
 
 # Privacy Notice |
 
