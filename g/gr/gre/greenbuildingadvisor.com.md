@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the greenbuildingadvisor.com privacy policy that was archived on 2013-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130522102209id_/http%3A//www.greenbuildingadvisor.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greenbuildingadvisor.com privacy policy that was archived on 2013-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131102201752id_/http%3A//www.greenbuildingadvisor.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | GreenBuildingAdvisor.com
 
