@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the mastishare.com privacy policy that was archived on 2012-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121102023806id_/http%3A//www.mastishare.com/static/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mastishare.com privacy policy that was archived on 2013-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131102085217id_/http%3A//www.mastishare.com/static/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Mastishare
+# Privacy Policy - Mastishare.com indian porn, indian sex, desi
 
 ## PRIVACY POLICY
 
-This document details important information regarding the use and disclosure of User Data collected on Mastishare.com 
+This document details important information regarding the use and disclosure of User Data collected on Mastishare.com - indian porn 
 
 The security of your Data is very important to Mastishare.com and as such we take all appropriate steps to limit the risk that it may be lost, damaged or misused.
 
