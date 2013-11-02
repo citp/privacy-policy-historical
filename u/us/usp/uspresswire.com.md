@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uspresswire.com privacy policy that was archived on 2013-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130507082521id_/http%3A//www.uspresswire.com/pages/open/Privacy%2520Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uspresswire.com privacy policy that was archived on 2013-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131102203352id_/http%3A//uspresswire.com/pages/open/Privacy%2520Policy) for the most accurate reproduction.*
 
 # USA TODAY Sports Images
 
