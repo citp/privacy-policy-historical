@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the walkhighlands.co.uk privacy policy that was archived on 2013-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130619000555id_/http%3A//www.walkhighlands.co.uk/Forum/ucp.php%3Fmode%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the walkhighlands.co.uk privacy policy that was archived on 2013-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131102204913id_/http%3A//www.walkhighlands.co.uk/Forum/ucp.php%3Fmode%3Dprivacy) for the most accurate reproduction.*
 
-# User Control Panel • Privacy policy • Walkhighlands
+# Walkhighlands • User Control Panel • Privacy policy
 
 This policy explains in detail how Walkhighlands and its affiliated companies use any information collected during any session of usage by you (hereinafter “your information”).
 
