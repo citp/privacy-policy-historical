@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the itbusiness.ca privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502192424id_/http%3A//www.itbusiness.ca/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the itbusiness.ca privacy policy that was archived on 2013-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131103005805id_/http%3A//www.itbusiness.ca/privacy) for the most accurate reproduction.*
 
 # Privacy | IT Business
 
