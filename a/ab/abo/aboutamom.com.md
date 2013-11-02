@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the aboutamom.com privacy policy that was archived on 2013-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130509234610id_/http%3A//www.aboutamom.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aboutamom.com privacy policy that was archived on 2013-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131102221123id_/http%3A//www.aboutamom.com/privacy) for the most accurate reproduction.*
 
 # Privacy - About A Mom
-
-**0** Flares Twitter 0 Facebook 0 Google+ 0 StumbleUpon 0 **0** Flares ×
 
 **About A Mom Privacy Policy**  
 We do not share personal information with third-parties nor do we store information we collect about your visit to this blog for use other than to analyze content performance through the use of cookies, which you can turn off at anytime by modifying your Internet browser’s settings. We are not responsible for the republishing of the content found on this blog on other Web sites or media without our permission. This privacy policy is subject to change without notice.
