@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the worldwide-invest.org privacy policy that was archived on 2013-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130527204539id_/http%3A//worldwide-invest.org/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldwide-invest.org privacy policy that was archived on 2013-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131102124443id_/http%3A//worldwide-invest.org/privacy_policy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -79,4 +79,6 @@ We reserve the right to modify this privacy statement at any time, so please rev
   
 **PLEASE NOTE that opting out of the ad-serving cookie does not mean that you will stop seeing either pop up advertising or banner ads embedded in websites! You can control many pop ups by using free software available on the Internet or by disabling JavaScript on your browser. DoubleClick has no control over the use or frequency of pop-up ads employed by website publishers or software manufacturers.** For more information about pop-up ads, please [click here](http://worldwide-invest.org/us/about_doubleclick/privacy/faq.asp#pop-ups) **.** | **DoubleClick Opt-out Click link below**  
 [](http://optout.doubleclick.net/cgi-bin/dclk/optout.pl)  
----|---
+---|---  
+  
+
