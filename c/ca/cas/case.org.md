@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the case.org privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501080852id_/http%3A//www.case.org/Privacy_Statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the case.org privacy policy that was archived on 2013-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131102194845id_/http%3A//www.case.org/Privacy_Statement.html) for the most accurate reproduction.*
 
 # CASE - CASE Privacy Statement & Policy
 
@@ -56,13 +56,13 @@
 ** (a) This site contains links to other sites. As stated above, CASE is not responsible for the privacy practices or the content of such Web sites.
 
 **10\. How you can contact CASE  
-** (a) You can send an email to [casenetwork@case.org](mailto:casenetwork@case.org).
+** (a) You can send an email to [MemberSupportCenter@case.org](mailto:MemberSupportCenter@case.org).
 
 (b) You can send mail to the following postal address: CASE, 1307 New York Ave., NW, Suite 1000, Washington, DC 20005-Attention Member Service Center.
 
-(c) You can call the following telephone number: 202-328-CASE, and ask for the Member Service Center.
+(c) You can call the following telephone number: 202-328-CASE, and ask for the Member Support Center.
 
-In conclusion, should you have other questions or concerns about these privacy policies or other aspects of our user agreement, please send us an email at [casenetwork@case.org](mailto:casenetwork@case.org).
+In conclusion, should you have other questions or concerns about these privacy policies or other aspects of our user agreement, please send us an email at [MemberSupportCenter@case.org](http://mce_host/case/xml/MemberSupportCenter@case.org).
 
 This privacy statement is subject to change. Changes may be made by posting to the Web site and are effective upon posting or upon such other date stated in the posting.
 
