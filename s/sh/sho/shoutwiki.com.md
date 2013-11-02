@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shoutwiki.com privacy policy that was archived on 2013-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130511151058id_/http%3A//www.shoutwiki.com/wiki/Privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shoutwiki.com privacy policy that was archived on 2013-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131102194146id_/http%3A//www.shoutwiki.com/wiki/Privacy_policy) for the most accurate reproduction.*
 
 # Privacy policy - ShoutWiki Hub
 
@@ -16,7 +16,7 @@ When you login you may select the "Remember me" check box to set a persistent co
 
 ##  Collection of personal information
 
-User information is stored on servers in the state of California, USA. The only information that you need give is a username and password. The username does not need to be your real name. Therefore, any personal information you choose to give is not compulsory. No personal information should be given on the wiki by persons aged less than 13 years.
+User information is stored on servers in the state of Chicago, USA. The only information that you need give is a username and password. The username does not need to be your real name. Therefore, any personal information you choose to give is not compulsory. No personal information should be given on the wiki by persons aged less than 13 years.
 
 If you choose to enter a real name in your preferences, this will be publicly available. However, this field is optional, and there is no requirement for any user to give a real name. Users under 13 should not give their real name.
 
