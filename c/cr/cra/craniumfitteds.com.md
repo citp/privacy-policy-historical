@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the craniumfitteds.com privacy policy that was archived on 2013-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130430220909id_/http%3A//www.craniumfitteds.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the craniumfitteds.com privacy policy that was archived on 2013-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131102230948id_/http%3A//www.craniumfitteds.com/privacy.html) for the most accurate reproduction.*
 
-# Shop from the largest and best selection for fitted hats, snapback caps, beanies, New Era hats, Mitchell & Ness caps, accessories & more
+# Shop snapbacks & fitted hats at CraniumFitteds.com
 
 **What information do we collect?**
 
