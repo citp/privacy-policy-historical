@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 6arabyon.com privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602030756id_/http%3A//6arabyon.com/tarabyon.asp%3Fview%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 6arabyon.com privacy policy that was archived on 2013-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131102202205id_/http%3A//www.6arabyon.com/tarabyon.asp%3Fview%3Dprivacy) for the most accurate reproduction.*
 
 # Tarabyon | Arabic Mp3 Music Online
 
