@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the novinite.com privacy policy that was archived on 2010-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101222201311id_/http%3A//www.novinite.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the novinite.com privacy policy that was archived on 2013-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131103004527id_/http%3A//www.novinite.com/privacy) for the most accurate reproduction.*
 
-# 
+# Privacy Policy - Novinite.com - Sofia News Agency
 
 **Novinite.com (Sofia News Agency) takes your privacy extremely seriously.  
 Please read the following to learn more about our privacy policy. **
@@ -11,6 +11,8 @@ This Privacy Policy covers Novinite.com (Sofia News Agency) treatment of persona
 
 **Information Collection and Use**
 
+We collect some anonymous information each time you visit Novinite.com, for statistical purposes, so we can improve the overall quality of your online experience.
+
 We collect personal information from you through: 
 
   * the use of the registration forms  
@@ -18,6 +20,8 @@ We collect personal information from you through:
   * the forms for sending news to a friend  
 
   * every time you e-mail us your details  
+
+
 
 
 Once you register with Novinite.com (Sofia News Agency) and sign in to our services or you send news to a friend, the information you entered is not anonymous to us. 
@@ -38,4 +42,4 @@ Given that the Internet is a global environment, using the Internet to collect a
 
 **Questions or Suggestions**
 
-If you have questions or suggestions concerning your personal information or any queries with regard to these practices, please contact us by e-mail at [novinite@novinite.com](mailto:novinite@novinite.com). 
+If you have questions or suggestions concerning your personal information or any queries with regard to these practices, please contact us by e-mail [here](http://www.novinite.com/about/contact_us). 
