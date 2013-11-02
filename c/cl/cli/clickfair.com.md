@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the clickfair.com privacy policy that was archived on 2013-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130503234237id_/http%3A//www.clickfair.com/index.php%3Fview%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clickfair.com privacy policy that was archived on 2013-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131102224924id_/http%3A//www.clickfair.com/index.php%3Fview%3Dprivacy) for the most accurate reproduction.*
 
-# ClickFair.Com - Paid To Click Advertising
+# ClickFair.Com - Cheap Advertising | Complete Online Tasks & Get Paid
 
 Privacy Policy
 
