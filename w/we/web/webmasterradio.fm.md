@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the webmasterradio.fm privacy policy that was archived on 2013-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130425144322id_/http%3A//www2.webmasterradio.fm/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webmasterradio.fm privacy policy that was archived on 2013-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131102162715id_/http%3A//www2.webmasterradio.fm/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy « WebmasterRadio.FM Online Radio / Podcast Network for the B2B and Digital Marketing Industry :: WebmasterRadio.FM
+# Privacy Policy - WebmasterRadio.FM | WebmasterRadio.FM
 
 What information do we collect?
 
@@ -39,9 +39,9 @@ How do we protect your information?
 
 We implement a variety of security measures to maintain the safety of your personal information when you place an order or enter, submit, or access your personal information.
 
-We offer the use of a secure [server](http://www2.webmasterradio.fm/web_hosts). All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to?keep the information confidential.
+We offer the use of a secure [server](http://www2.webmasterradio.fm/recommends/hostgator). All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to?keep the information confidential.
 
-After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be stored on our [servers](http://www2.webmasterradio.fm/web_hosts).
+After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be stored on our [servers](http://www2.webmasterradio.fm/recommends/hostgator).
 
 Do we use cookies?
 
