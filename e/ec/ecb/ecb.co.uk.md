@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the ecb.co.uk privacy policy that was archived on 2013-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130316184551id_/http%3A//www.ecb.co.uk/privacy-policy%2C1%2CBP.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ecb.co.uk privacy policy that was archived on 2013-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131102101910id_/http%3A//www.ecb.co.uk/information/privacy-and-cookies-policy-england-and-wales-cricket-board) for the most accurate reproduction.*
 
-# Privacy and Cookies Policy | England and Wales Cricket Board
-
-Go straight to Cookies policy
+# Privacy and Cookies Policy - England and Wales Cricket Board | England and Wales Cricket Board (ECB) - The Official Website of the ECB
 
 ### ABOUT US
 
@@ -12,7 +10,7 @@ This privacy policy explains what information we collect about you, how we use i
 
 Please note this website may contain links to other websites which are provided for your convenience. We are only responsible for the privacy practices and security of this site. We recommend that you check the privacy and security policies and procedures of each and every other website that you visit.
 
-BY USING THIS WEBSITE AND GIVING PERSONAL INFORMATION TO US, YOU INDICATE THAT YOU CONSENT TO US AND [ECB PARTNERS](https://web.archive.org/ecb/partners/) COLLECTING AND USING THIS PERSONAL INFORMATION IN ACCORDANCE WITH THE TERMS SET OUT IN THIS POLICY
+BY USING THIS WEBSITE AND GIVING PERSONAL INFORMATION TO US, YOU INDICATE THAT YOU CONSENT TO US AND [ECB PARTNERS](http://www.ecb.co.uk/ecb/partners/) COLLECTING AND USING THIS PERSONAL INFORMATION IN ACCORDANCE WITH THE TERMS SET OUT IN THIS POLICY
 
 ### CHILDREN
 
@@ -24,7 +22,7 @@ We normally only send newsletters and offers and opportunities to children where
 
 In order to provide you with the services you require, the ECB will collect personal information about you from our website, telephone conversations, emails and written and verbal communications. These will include, for example, your name, address, email address, phone number and details that are relevant to the service(s) in which you are interested. Occasionally we may ask for date of birth, for example, where the service you require has age related restrictions.
 
-We may supplement the information that you provide with other information that we obtain from our dealings with you or which we receive from other organisations, such as County Cricket Boards, Cricket clubs, other cricketing organisations and [ECB Partners](https://web.archive.org/ecb/partners/).
+We may supplement the information that you provide with other information that we obtain from our dealings with you or which we receive from other organisations, such as County Cricket Boards, Cricket clubs, other cricketing organisations and [ECB Partners](http://www.ecb.co.uk/ecb/partners/).
 
 #### Information about other people
 
@@ -42,7 +40,7 @@ Our cookies are used to enable us to develop our website to reflect our customer
 
 You may get cookies (including Flash cookies) from our sponsors and advertisers if you click on their links or adverts. You should check their privacy and security policies to understand how they use these.
 
-A list of all of the cookies used on this website can be found in our [cookies list](https://web.archive.org/cookie-listing.html).
+A list of all of the cookies used on this website can be found in our [cookies list](http://www.ecb.co.uk/information/cookies-listing).
 
 #### Flash cookies
 
@@ -52,13 +50,13 @@ Adobe uses a particular type of cookie called a ‘Local Shared Object’. Typic
 
 Most browsers automatically accept cookies, but you can usually change your browser to prevent cookies being stored. With experience, you can usually choose to switch off all cookies or to allow only certain ‘trusted’ sites to place cookies.
 
- **For further information on cookies and Flash cookies and how to switch them off see the 'Cookies - advice for members of the public ' guide on the Information Commissioner’s website at[www.ico.gov.uk](http://uk.sitestat.com/ecb/ecb-website/s?home.page.wiki.www_ico_gov_uk&category=not_logged_in&ns_type=clickout&ns_url=http://www.ico.gov.uk/for_the_public/topic_specific_guides/online/cookies.aspx)** or visit [www.allaboutcookies.org](http://uk.sitestat.com/ecb/ecb-website/s?home.page.wiki.www_allaboutcookies_org&category=not_logged_in&ns_type=clickout&ns_url=http://www.allaboutcookies.org) or [www.aboutcookies.org](http://uk.sitestat.com/ecb/ecb-website/s?home.page.wiki.www_aboutcookies_org&category=not_logged_in&ns_type=clickout&ns_url=http://www.aboutcookies.org).
+**For further information on cookies and Flash cookies and how to switch them off see the 'Cookies - advice for members of the public ' guide on the Information Commissioner’s website at  [www.ico.gov.uk](http://uk.sitestat.com/ecb/ecb-website/s?home.page.wiki.www_ico_gov_uk&category=not_logged_in&ns_type=clickout&ns_url=http://www.ico.gov.uk/for_the_public/topic_specific_guides/online/cookies.aspx)** or visit [www.allaboutcookies.org](http://uk.sitestat.com/ecb/ecb-website/s?home.page.wiki.www_allaboutcookies_org&category=not_logged_in&ns_type=clickout&ns_url=http://www.allaboutcookies.org) or [www.aboutcookies.org](http://uk.sitestat.com/ecb/ecb-website/s?home.page.wiki.www_aboutcookies_org&category=not_logged_in&ns_type=clickout&ns_url=http://www.aboutcookies.org).
 
 PLEASE NOTE, IF YOU DO TURN COOKIES OFF, THIS WILL LIMIT THE SERVICE THAT WE ARE ABLE TO PROVIDE TO YOU AND MAY AFFECT YOUR USER EXPERIENCE (FOR EXAMPLE, YOU MAY HAVE TO MANUALLY RE-TYPE YOUR USERNAMES AND PASSWORDS EACH TIME YOU VISIT OUR WEBSITE)
 
 ### HOW WE WILL USE YOUR INFORMATION
 
-All personal information that we obtain about you and/or any other person whose details you provide will be recorded, used, and protected by us in accordance with current data protection legislation, our [Terms and Conditions](https://web.archive.org/terms-conditions,2,BP.html) and this Privacy Policy. We will primarily use the personal information:
+All personal information that we obtain about you and/or any other person whose details you provide will be recorded, used, and protected by us in accordance with current data protection legislation, our [Terms and Conditions](http://www.ecb.co.uk/information/terms-and-conditions) and this Privacy Policy. We will primarily use the personal information:
 
   * for registration, membership and general administration (including verification, vetting, security checking, issuing tickets, passes and permits as appropriate)
   * to provide the services you request from us
@@ -78,17 +76,16 @@ In order to provide our products and services, we may, occasionally, appoint oth
 
 The ECB teams up with a selection of carefully chosen sponsors and commercial partners such as:
 
-\- **NatWest** the ODI and International T20 sponsor, as well as grassroots sponsor of initiatives such as CricketForce  
-\- **Adidas** our shirt sponsor  
-\- **Investec** Test Match Sponsor  
-\- **Kitbag** who provides the online store  
-\- **Association of Cricket Officials** who provide support and training for umpires and scorers
+-  **NatWest**  the ODI and International T20 sponsor, as well as grassroots sponsor of initiatives such as CricketForce  
+-  **Adidas**  our shirt sponsor  
+-  **Investec**  Test Match Sponsor  
+-  **Association of Cricket Officials**  who provide support and training for umpires and scorers
 
-[For a full list of ECB Partners click here](https://web.archive.org/ecb/partners/).
+[For a full list of ECB Partners click here](http://www.ecb.co.uk/ecb/partners/).
 
 ### NEWSLETTERS, OFFERS AND OPPORTUNITIES
 
-We and the [ECB Partners](https://web.archive.org/ecb/partners/) would like to contact you and/or any person whose information you provide to us to provide newsletters and to tell you and/or them about offers and opportunities (such as match ticketing, discounts, competitions, events and hospitality) that are available and about a range of other initiatives in a number of ways, including by post, telephone, text/picture/video message or by email. Details of how to opt-in to or opt-out of receiving details of offers are on relevant pages of this website.
+We and the [ECB Partners](http://www.ecb.co.uk/ecb/partners/) would like to contact you and/or any person whose information you provide to us to provide newsletters and to tell you and/or them about offers and opportunities (such as match ticketing, discounts, competitions, events and hospitality) that are available and about a range of other initiatives in a number of ways, including by post, telephone, text/picture/video message or by email. Details of how to opt-in to or opt-out of receiving details of offers are on relevant pages of this website.
 
 #### Subscribe / Unsubscribe
 
@@ -120,6 +117,6 @@ You have the right to receive a copy of the personal information that we hold ab
 
 ### HOW TO CONTACT US
 
- **Email** \- [privacy@ecb.co.uk](mailto:privacy@ecb.co.uk)
+**Email**  - [privacy@ecb.co.uk](mailto:privacy@ecb.co.uk)
 
- **Post** \- Data Protection Officer, England and Wales Cricket Board Limited, Lord’s Cricket Ground, London NW8 8QZ
+**Post**  \- Data Protection Officer, England and Wales Cricket Board Limited, Lord’s Cricket Ground, London NW8 8QZ
