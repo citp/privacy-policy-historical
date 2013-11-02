@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kuoni.co.uk privacy policy that was archived on 2013-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130515092649id_/http%3A//www.kuoni.co.uk/kuoni-for-you/privacy-cookie-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kuoni.co.uk privacy policy that was archived on 2013-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131102182029id_/http%3A//www.kuoni.co.uk/kuoni-for-you/privacy-cookie-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Kuoni Travel
 
@@ -321,6 +321,34 @@ mec
 | 
 
 [www.google.com/doubleclick](http://www.google.com/doubleclick)  
+  
+Google
+
+| 
+
+Retargeting Tags are used to measure the effectiveness of online marketing campaigns so we can provide relevant and tailored offers to our customers based on their previous search history.
+
+| 
+
+id
+
+| 
+
+<http://www.google.co.uk/intl/en/policies/privacy/>  
+  
+Quantcast
+
+| 
+
+Retargeting Tags are used to measure the effectiveness of online marketing campaigns so we can provide relevant and tailored offers to our customers based on their previous search history.
+
+| 
+
+dmc
+
+| 
+
+<http://www.quantcast.com/privacy>  
   
 ### Social media
 
