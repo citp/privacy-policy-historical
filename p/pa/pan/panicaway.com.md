@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the panicaway.com privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602043956id_/http%3A//www.panicaway.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the panicaway.com privacy policy that was archived on 2013-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131102203234id_/http%3A//www.panicaway.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Panic Away
 
@@ -6,7 +6,7 @@ Your privacy is very important to us. We want to make your experience on the Int
 
 We have created this Privacy Policy to demonstrate our firm commitment to privacy and security. This Privacy Policy describes how our company collects information from all end users of our Internet services (the “Services”)-those who access some of our Services but do not have accounts (“Visitors”) as well as those who may purchase Products and/or pay a monthly service fee to subscribe to the Service (“Members”)-what we do with the information we collect, and the choices Visitors and Members have concerning the collection and use of such information. We request that you read this Privacy Policy carefully.
 
- **Personal Information Our Company Collects and How It Is Used**
+**Personal Information Our Company Collects and How It Is Used**
 
 Introduction. Our company collects information in different ways from Visitors and Members who access the various parts of our Services and the network of Web sites accessible through our Service. We use this information primarily to provide a customized experience as you use our Products and Services, and generally, do not share this information with third parties. However, we may disclose personal information collected if we have received your permission beforehand or in very special circumstances, such as when we believe that such disclosure is required by law or other special cases described below.
 
