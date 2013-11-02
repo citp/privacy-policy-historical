@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ratesupermarket.ca privacy policy that was archived on 2013-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130609061935id_/http%3A//www.ratesupermarket.ca/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ratesupermarket.ca privacy policy that was archived on 2013-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131102090943id_/http%3A//www.ratesupermarket.ca/privacy_policy) for the most accurate reproduction.*
 
 # Ratesupermarket.ca Privacy Policy
 
@@ -44,9 +44,7 @@ We reserve the right to use and disclose personal information to comply with app
 
 ### Security
 
-RateSupermarket.ca uses SSL (Secure Socket Layer) protocol, and GoDaddy.com certificates for securing the exchange of any and all data on the site. This security technology encrypts the information that you may send us (such as names and addresses), so that it can't be read as it is sent from your computer to the site.
-
-You can see when the SSL connection is activated as the URL in your browser will show https:// with the "s" standing for secure. Also, a key or padlock icon may appear in the bottom left corner of your browser window and in the right side of your URL field in your browser that shows the page your on.
+RateSupermarket.ca uses Norton Secured Seal powered by Verisign for securing the exchange of any and all data on the site. This security technology encrypts the information that you may send (such as names and addresses), so that it can't be read as it is sent from your computer to the site.
 
 We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security. For further information about security on the website please email: webmaster (at) RateSupermarket.ca.
 
