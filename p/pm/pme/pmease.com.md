@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pmease.com privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602021803id_/http%3A//www.pmease.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pmease.com privacy policy that was archived on 2013-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131102025508id_/http%3A//www.pmease.com/legal/privacy) for the most accurate reproduction.*
 
 # PMEase - Legal - Continuous integration and deployment solution!
 
