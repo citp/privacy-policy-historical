@@ -1,6 +1,14 @@
-> *The following text is extracted and transformed from the exedb.com privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501052951id_/http%3A//www.exedb.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the exedb.com privacy policy that was archived on 2013-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131102082824id_/http%3A//www.exedb.com/privacypolicy.html) for the most accurate reproduction.*
 
-# privacy policy Adware spyware malware virus information
+# Exedb.com
+
+##  All trademarks and registered trademarks are the property of their respective owners.
+
+_Exedb.com Privacy Policy describes how we treat personal information when you use Exe File Information and Exedb Anti MAlware Scanner product and services.  
+Information we collect  
+1.Exe File Information and Exedb Anti MAlware Scanner sends anonymous statistics of product usage for improving product.  
+2.By starting of the Security Scan or clicking to "Show File Reviews", "Read more about" or "Details" link, you agree with storage of anonymous file information (File name,MD5,size,ver,...) to public server database.   
+3.By starting of the Security Scan you agree with storage of scan report to server. Data are anonymously stored and accessible for 24 hours. You can delete the report anytime or make the report permanent._
 
 This Privacy Policy governs the manner in which Exedb.com collects, uses, maintains and discloses information collected from users (each, a "User") of the Exedb.com website ("Site"). This privacy policy applies to the Site and all products and services offered by Exedb.com.
 
@@ -51,4 +59,4 @@ Ads appearing on our site may be delivered to Users by advertising partners, who
 
 **Your acceptance of these terms**
 
-By using this Site, you signify your acceptance of this policy. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
+By using this Site or any application produced by Exedb.com, You signify your acceptance of this policy. If you do not agree to this policy, please do not use our Site or our software's. Your continued use of the Site or our software's following the posting of changes to this policy will be deemed your acceptance of those changes.
