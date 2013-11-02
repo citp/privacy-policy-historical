@@ -1,16 +1,16 @@
-<!--The following is the downloaded HTML source of the sheffield.ac.uk privacy policy that was archived on 2013-05-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130531225621id_/https%3A//www.sheffield.ac.uk/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the sheffield.ac.uk privacy policy that was archived on 2013-11-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131102104924id_/http%3A//www.sheffield.ac.uk/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><!-- Last modified: 2012-07-02 14:55:14 --><!-- Page:   1.13440 --><!-- Folder: 2.1529 --><head>
 <title>Privacy -  The University of Sheffield</title>
 <meta charset="UTF-8">
 <meta name="robots" content="noindex">  
 <link rel="shortcut icon" href="/img/sheffield/favicon.ico">
-<link rel="stylesheet" href="/css/sheffield/general.css?v=2013-02-19">
+<link rel="stylesheet" href="/css/sheffield/general.css?v=2013-07-18">
 <!--[if lt IE 9]>
 <script src="/js/sheffield/html5.js"></script>
 <![endif]-->
-<script src="/js/sheffield/jquery/jquery-1.6.4.min.js"></script>
+<script src="/js/sheffield/jquery/jquery-1.10.1.min.js"></script>
 <script src="/js/sheffield/sheffield.js"></script>
 <script>
 if ( location.hostname.match(/^(www\.)?shef(field)?\.ac\.uk/i) != null ) {
@@ -28,22 +28,22 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga
 </script>
 </head>
 <body>
-<nav id="globalNavigation">
-<!-- global navigation links -->
-<ul>
-	<li>&nbsp;<a href="/" accesskey="1">Home</a>&nbsp;&nbsp;|</li>
-	<li class="hide">&nbsp;<a href="#content" accesskey="2">Skip navigation</a>&nbsp;&nbsp;|</li>
-	<li class="hide">&nbsp;<a href="/accessibility/" accesskey="0">Accessibility information</a>&nbsp;&nbsp;|</li>
-	<li>&nbsp;<a href="/contact/" accesskey="c">Contact</a>&nbsp;&nbsp;|</li>
-	<li>&nbsp;<a href="https://portal.shef.ac.uk/" accesskey="m" rel="nofollow">Log into MUSE</a></li>
-</ul>
-<!-- // global navigation links -->
+<div id="topHeader">
+	<nav>
+		<!-- global navigation links -->
+		<ul>
+			<li><a href="/" accesskey="1">Home</a></li>
+			<li class="hide"><a href="/accessibility/" accesskey="0">Accessibility information</a></li>
+			<li><a href="/contact/" accesskey="c">Contact</a></li>
+		</ul>
+		<!-- // global navigation links -->
+	</nav>
 <!-- site search -->
-<form name="gs" method="get" action="http://google.shef.ac.uk/search" id="searchBox">
-	<fieldset>
-		<label for="searchterms">Search for</label>
-		<input type="search" name="q" size="20" maxlength="100" value=" your search" id="searchterms" onfocus="value=''">
-		<input type="submit" name="btnG" value="Search" class="submit">
+<div id="siteSearch">
+	<form name="gs" method="get" action="//google.shef.ac.uk/search" id="siteSearchBox">
+		<label class="hide" for="siteSearchTerms">Search for</label>
+		<input type="text" name="q" maxlength="100" placeholder="Search for" id="siteSearchTerms">
+		<button id="siteSearchBtn" class="icon-search" type="submit" value="Search" name="btnG">Search</button>
 		<input type="hidden" name="sort" value="date:D:L:d1">
 		<input type="hidden" name="output" value="xml_no_dtd">
 		<input type="hidden" name="ie" value="UTF-8">
@@ -51,9 +51,9 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga
 		<input type="hidden" name="client" value="default_frontend">
 		<input type="hidden" name="proxystylesheet" value="default_frontend">
 		<input type="hidden" name="site" value="default_collection">
-	</fieldset>
-</form>   
-<!-- // site search --></nav><!-- header -->
+	</form>
+</div>
+<!-- // site search --></div><!-- header -->
 <header>
 	<table>
 		<tbody><tr>
@@ -176,4 +176,20 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga
 <div id="footerRight">© 2013 The University of Sheffield</div>
 </div>
 <!-- // footer-->
+<!-- NAP -->
+<script>
+document.write('<script async src="' + (
+  location.hostname.match(/^(www\.)?shef(field)?\.ac\.uk$/i) === null ?
+  'https://' + location.hostname : 'https://www.sheffield.ac.uk') +
+  '/nap-panel/panel.js?v=87b8e3c"><\/script>');
+</script><script async="" src="https://web.archive.org/nap-panel/panel.js?v=87b8e3c"></script>
+<!-- // NAP -->
+<!-- MGMT SCHL -->
+<script>
+if (location.pathname.match(/^\/management($|\/.*$)/i) != null) {
+document.write('<script async src="/polopoly_fs/1.305111!/file/mgmt-school.js"><\/script>');
+}
+</script>
+<!-- // MGMT SCHL -->
+
 </body></html>
