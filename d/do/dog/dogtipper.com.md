@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dogtipper.com privacy policy that was archived on 2013-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130531060831id_/http%3A//www.dogtipper.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dogtipper.com privacy policy that was archived on 2013-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131102172839id_/http%3A//www.dogtipper.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy | DogTipper.com
 
@@ -75,4 +75,4 @@ This privacy policy was last updated on June 7, 2012.
 
 ### About [Paris Permenter and John Bigley](http://www.dogtipper.com/author/Paris%20and%20John "Paris Permenter and John Bigley")
 
-DogTipper publishers Paris Permenter and John Bigley are a husband-wife team of full-time writers. The couple has authored over two dozen books and 2,500+ magazine articles.
+DogTipper publishers Paris Permenter and John Bigley are a husband-wife team of full-time writers. We've authored over 30 travel and pet books and 2,500+ magazine articles. Please follow us across the web:
