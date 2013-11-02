@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the accusoft.com privacy policy that was archived on 2013-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130620202619id_/http%3A//accusoft.com/privacystatement.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the accusoft.com privacy policy that was archived on 2013-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131102142253id_/http%3A//www.accusoft.com/privacystatement.htm) for the most accurate reproduction.*
 
 # Accusoft Privacy Statement
 
-[](https://web.archive.org/web/20130620202619id_/http%3A//accusoft.com/download.htm "Download Accusoft Products")
+[](https://web.archive.org/web/20131102142253id_/http%3A//www.accusoft.com/index.htm)
 
-[](https://web.archive.org/web/20130620202619id_/http%3A//accusoft.com/purchase.htm "Purchase Accusoft Products")
+Providing the full spectrum of document, content, & imaging solutions
 
 _Last Updated 2/7/12_
 
