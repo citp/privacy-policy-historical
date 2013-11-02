@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the readyforzero.com privacy policy that was archived on 2013-01-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130119081621id_/https%3A//privacy-policy.truste.com/verified-policy/www.readyforzero.com) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the readyforzero.com privacy policy that was archived on 2013-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131102113236id_/https%3A//privacy-policy.truste.com/verified-policy/www.readyforzero.com) for the most accurate reproduction.*
 
 # Privacy Policy for www.readyforzero.com
 
 Effective on July 16, 2010 
 
-This privacy statement describes how Limbo Labs collects and uses the personal information you provide on our Web site: [www.readyforzero.com ](http://www.readyforzero.com/). It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
+This privacy statement describes how ReadyForZero collects and uses the personal information you provide on our Web site: [www.readyforzero.com ](https://www.readyforzero.com/). It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
 
 **TRUSTe**
 
-Limbo Labs is a Participant in the TRUSTe Privacy Seal Program. TRUSTe is an independent organization whose mission is to advance privacy and trust in the networked world. This Web site has agreed to have its privacy practices monitored for compliance by TRUSTe.
+ReadyForZero is a Participant in the TRUSTe Privacy Seal Program. TRUSTe is an independent organization whose mission is to advance privacy and trust in the networked world. This Web site has agreed to have its privacy practices monitored for compliance by TRUSTe.
 
 If you have questions or concerns regarding this policy, you should first contact us at [security@readyforzero.com ](mailto:security@readyforzero.com). If you do not receive acknowledgment of your inquiry, or if your inquiry has not been satisfactorily addressed, you should then contact [TRUSTe](http://www.truste.org/consumers/watchdog_complaint.php). TRUSTe will then serve as a liaison with the Web site to resolve your concerns.
 
@@ -66,7 +66,7 @@ We may also disclose your personal information
 
   * as required by law such as to comply with a subpoena, or similar legal process
   * when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request, 
-  * if Limbo Labs is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information, 
+  * if ReadyForZero is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information, 
   * to any other third party with your prior consent to do so.
 
 
@@ -87,7 +87,7 @@ We use a third party to gather information about how you and others use our Web 
 
 _Links to Other Web Sites_
 
-Our Site includes links to other Web sites whose privacy practices may differ from those of Limbo Labs. If you submit personal information to any of those sites, your information is governed by their privacy statements. We encourage you to carefully read the privacy statement of any Web site you visit. 
+Our Site includes links to other Web sites whose privacy practices may differ from those of ReadyForZero. If you submit personal information to any of those sites, your information is governed by their privacy statements. We encourage you to carefully read the privacy statement of any Web site you visit. 
 
 ## Security
 
@@ -109,7 +109,7 @@ We may update this privacy statement to reflect changes to our information pract
 
 You can contact us about this privacy statement by writing or email us at the address below:
 
-Limbo Labs 
+ReadyForZero 
 
 71 Stevenson Street #800 
 
