@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the readyseteat.com privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501132006id_/http%3A//www.conagrafoods.com/utilities/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the readyseteat.com privacy policy that was archived on 2013-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131102050952id_/http%3A//www.conagrafoods.com/utilities/privacy.jsp) for the most accurate reproduction.*
 
 # ConAgra Foods Privacy Policy | ConAgra Foods
 
@@ -39,7 +39,7 @@ Back to Top
 
 ### About Other Privacy Laws
 
-ConAgra Foods abides by many privacy laws in the United States and around the world, including the Safe Harbor framework as set forth by the United States Department of Commerce regarding the collection, use and retention of information collected from European Union countries. 
+ConAgra Foods abides by many privacy laws in the United States and around the world, including the Safe Harbor framework as set forth by the United States Department of Commerce regarding the collection, use and retention of information collected from European Union countries. To learn more about the Safe Harbor program, and to view ConAgra Foods’ certification, please visit <http://www.export.gov/safeharbor/>. 
 
 Back to Top
 
