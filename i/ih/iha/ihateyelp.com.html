@@ -1,11 +1,12 @@
-<!--The following is the downloaded HTML source of the ihateyelp.com privacy policy that was archived on 2013-05-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130501080919id_/http%3A//directory.ihateyelp.com/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ihateyelp.com privacy policy that was archived on 2013-11-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131102202027id_/http%3A//directory.ihateyelp.com/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <title>Ihateyelp - Submit Your Site </title>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <link rel="stylesheet" type="text/css" href="http://images.ientrymail.com/ihateyelp/directory/style.css">
 <meta name="generator" content="PHP Link Directory 2.1">
+<script src="/jquery-1.10.2.js"></script>
 </head>
 <body><script src="http://www.ientry.com/ustream_header.php" type="text/javascript"></script>
 <div id="page">
@@ -15,13 +16,23 @@
 <div id="search">
 <img src="http://images.ientrymail.com/ihateyelp/directory/search.gif" alt="Search">
 
-<form action="http://ihateyelp.com/search.html" method="post">
-<input type="text" class="searchtext" name="q" size="20" value=""><input type="image" src="http://images.ientrymail.com/ihateyelp/directory/searchbtn.gif">
+<form method="post" id="search-submit">
+<input type="text" class="searchtext" id="qu" size="20" value="" name="q"><input type="image" src="http://images.ientrymail.com/ihateyelp/directory/searchbtn.gif">
 </form>
 </div>
 </div>
 <br><center><script language="JavaScript" src="http://aj.600z.com/aj/72398/0/vj?z=1&amp;dim=144"></script></center><br>
-<div id="menu"><a href="http://ihateyelp.com/">Home</a>| <a href="http://ihateyelp.com/about.html">About</a>| <a href="http://ihateyelp.com/newsletter.html">Newsletter</a>| <a href="http://ihateyelp.com/advertise.html">Advertise</a>| <a href="http://ihateyelp.com/submit.html" style="color:#FF0000;">Submit Your Site</a>| <a href="http://ihateyelp.com/contact.html">Contact Us</a></div><div id="description">Ihateyelp - Submit Your Site - submit website, free directory</div><div class="blackline"></div><div id="content"><div style="float:right; width: 165px;"><br><script language="JavaScript" src="http://aj.600z.com/aj/72400/0/vj?z=1&amp;dim=145"></script><br></div></div><div class="categories" style="width: 600px;"><b style="font-size: 16px;" class="mainarticle">Privacy Policy</b>
+<div id="menu"><a href="http://ihateyelp.com/">Home</a>| <a href="http://ihateyelp.com/about.html">About</a>| <a href="http://ihateyelp.com/newsletter.html">Newsletter</a>| <a href="http://ihateyelp.com/advertise.html">Advertise</a>| <a href="http://ihateyelp.com/submit.html" style="color:#FF0000;">Submit Your Site</a>| <a href="http://ihateyelp.com/contact.html">Contact Us</a></div><div id="description">Ihateyelp - Submit Your Site - submit website, free directory</div><div class="blackline"></div><div id="content"><div style="float:right; width: 165px;"><br><script language="JavaScript" src="http://aj.600z.com/aj/72400/0/vj?z=1&amp;dim=145"></script><br></div></div><div class="categories" style="width: 600px;">
+<script>
+    $("#search-submit").submit(function(e){
+                e.preventDefault();
+                var qq = $('#qu').val();
+              window.location.href = '/sch' + '.html' + '?q=' + qq;
+              return FALSE;
+            });
+
+  </script>
+<b style="font-size: 16px;" class="mainarticle">Privacy Policy</b>
 
 <br><br>
 iEntry reserves the right to change this policy at any time by notifying users through a notice posted on iEntry.com or by email, of the existence of a new privacy policy or any updates. 
