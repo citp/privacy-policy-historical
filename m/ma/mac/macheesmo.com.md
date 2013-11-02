@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the macheesmo.com privacy policy that was archived on 2013-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130625235314id_/http%3A//www.macheesmo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the macheesmo.com privacy policy that was archived on 2013-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131102085830id_/http%3A//www.macheesmo.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Macheesmo
 
