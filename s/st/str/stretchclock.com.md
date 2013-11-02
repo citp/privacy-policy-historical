@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the stretchclock.com privacy policy that was archived on 2013-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130503002652id_/http%3A//www.stretchclock.com/more/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stretchclock.com privacy policy that was archived on 2013-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131102152629id_/http%3A//www.stretchclock.com/more/privacy) for the most accurate reproduction.*
 
 # StretchClock Privacy Policy
 
-last updated: May 29, 2012
+Last Updated October 31, 2013
 
 ###  StretchClock was built from the ground up with your privacy in mind.
 
@@ -24,8 +24,6 @@ We use this information, which does not identify individual users, to analyze tr
 
 We do not link this automatically-collected data to personally identifiable information.
 
-We use a third-party tracking service “Google Analytics” that uses cookies to track non-personally identifiable information about visitors to our site in the aggregate (e.g. usage and volume statistics for the purpose of providing enhancements to the website.)
-
 Cookies
 
 A cookie is a small text file that is stored on a user’s computer for record-keeping purposes. We use cookies on this site. We do not link the information we store in cookies to any personally identifiable information you submit while on our site.
@@ -34,17 +32,13 @@ We use both session ID cookies and persistent cookies. We use session cookies to
 
 Persistent cookies enable us to track and target interests of our users to enhance the experience on our site.
 
-If you reject cookies, you may still use our site, but your ability to use some areas of our site, such as stretches, contests or surveys, will be limited.
+If you reject cookies, you may still use parts of our site, but your ability to use some areas of our site, such as stretches, contests or surveys, will be limited.
 
-This privacy statement covers the use of cookies by StretchClock.com only and does not cover the use of cookies by any advertisers. (See the “Third Party Advertisers” section)
+Vimeo and YouTube Player
 
-Clear Gifs (Web Beacons/Web Bugs)
+Our videos use the Vimeo.com and Youtube.com embedded players to display videos. Each of these Players uses it's own cookies to enable usage of the video players. You can read their privacy policies at their websites.
 
-We sometimes employ a software technology called clear gifs (a.k.a. Web Beacons/Web Bugs), that help us better manage content on our site by informing us what content is effective.
-
-Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users. In contrast to cookies, which are stored on a user’s computer hard drive, clear gifs are embedded invisibly on Web pages and are about the size of the period at the end of this sentence.
-
-We do not tie the information gathered by clear gifs to our customers’ personally identifiable information.
+This privacy statement covers the use of cookies by StretchClock.com only and does not cover the use of cookies by third parties.
 
 Surveys or Contests
 
@@ -54,21 +48,21 @@ We use this information to notify contest winners and award prizes or personaliz
 
 We will not share the personally identifiable information you provide through a contest or survey with other third parties unless you give us permission and tell us to do so.
 
-Heal-A-Friend
+Heal-A-Friend, Tell-A-Friend, and Share 
 
-StretchClock’s Tell a Friend feature is completely anonymous. If you choose to use our referral service to tell a friend about our site, you will be launching your own email program. Therefore, StretchClock will have no knowledge of your email address or your friend’s email address.
-
-ShareThis
-
-StretchClock uses a service called ShareThis. If you use the "ShareThis feature" then you should consult their Privacy Policy
+StretchClock uses a service called AddThis for our sharing feature. If you use the feature then you should consult the AddThis.com Privacy Policy
 
 Profile
 
 We store information that we collect through cookies, log files, clear gifs, and/or third party sources to create a “profile” of your preferences. If you register for an account you may enter personal information about yourself such as your name. We do not share this private information with third parties.
 
+Google Analytics
+
+we use the google service to track our usage. This helps us gauge popularity of features and videos. It also assists us with capacity planning so that we know when to upgrade our servers.
+
 Email Subscriptions
 
-We will not rent, sell or trade your personal information (including your email address) with anyone unless you tell us to. We use aWeber for our email list service. They are pioneers in permission based email policies. Here is [the aWeber privacy policy](http://%3Ca%20href%3D%22http/www.aweber.com/privacy.htm%22%3E "aWeber.com Privacy Policy").
+We will not rent, sell or trade your personal information (including your email address) with anyone unless you tell us to. We use mailchimp.com for our email list service. They are pioneers in permission based email policies. See the privacy policy at mailchimp.com.
 
 ##  Information Sharing and Disclosure
 
@@ -82,17 +76,9 @@ We DO NOT share any Personally Identifiable Information with Third Parties unles
 
 Third Party Advertisers
 
-Some of the ads appearing on this Web site are delivered to users by our advertising partners (Commission Junction, LinkShare, and ShareASale).
+Some of the ads appearing on this Web site may be delivered to users by our advertising partners.
 
-Our advertising partners may use cookies and/or clear GIFs on this site, which allow it to recognize a user's cookie when a user visits this site. The information that our advertising partners collect is not personally identifiable.
-
-For more information about our third-party advertiser, or to learn more about the choices available to you regarding this anonymous information, please see the privacy policies of:
-
-  * [Commission Junction](http://www.cj.com/legal/privacy_web_user.html "commission junction")
-  * [Share a Sale](http://www.shareasale.com/w3c/policy.html "share a sale")
-  * [Link Share](http://www.linkshare.com/legal/privacy/ "linkshare")
-
-
+For more information about our third-party advertiser, or to learn more about the choices available to you regarding this anonymous information, please see the advertising terms of use.
 
 Links to Other Sites
 
@@ -107,7 +93,3 @@ This privacy statement applies only to information collected by this Web site.
 If we decide to change our privacy policy, we will post those changes to this privacy statement, or the homepage, or other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
 
 We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, or by email, or by means of a notice on our home page.
-
-##  Contact Us
-
-If you have any questions or suggestions regarding our privacy policy, please [contact us](http://www.stretchclock.com/more/contact-support).
