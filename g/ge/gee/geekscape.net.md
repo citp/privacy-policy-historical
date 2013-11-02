@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the geekscape.net privacy policy that was archived on 2013-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130622015549id_/http%3A//www.geekscape.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the geekscape.net privacy policy that was archived on 2013-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131102120416id_/http%3A//www.geekscape.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Geekscape
 
@@ -88,33 +88,33 @@ If we decide to change our privacy policy, we will post those changes on this pa
 
 ### **PODCASTS**
 
-  * The controversial superhero epic gets broken down by our resident comic book expert!
+  * Well, Dani had to work Comikaze so Andrew’s girlfriend Lisa Best filled in!
 
-[ Read More](http://www.geekscape.net/geekscape-295-the-man-of-steel-review-and-analysis-with-ian-kerner "Geekscape 295: ‘The Man of Steel’ Review And Analysis With Ian Kerner!")
+[ Read More](http://www.geekscape.net/geekscape-310-the-cast-of-fangasm "Geekscape 310: The Cast of ‘Fangasm’!")
 
-Published on June 21, 2013
+Published on November 1, 2013
 
-  * This Week Matt once again sits down once again with Author Dennis Finocchiaro.
+  * Because it’s Halloween Matt sat down with Joe of Harley Poe (who’s album Pagan Holiday is out now on Horrorhound Records)
 
-[ Read More](http://www.geekscape.net/the-saint-mort-show-episode-41-dennis-finocchiaro "The Saint Mort Show Episode 41: Dennis Finocchiaro")
+[ Read More](http://www.geekscape.net/the-saint-mort-show-episode-056-joe-whiteford-of-harley-poe "The Saint Mort Show Episode 056 – Joe Whiteford of Harley Poe")
 
-  * And he brings along EJ De la Pena to talk about their new project ‘CAS: Nobility’!
+  * In just one day at the New York Comic Con Saint Mort got some great interviews from the guys at VHSPS, Joe Loves Crappy Movies, Fangasm, Stan Lees Comikaze and Troma
 
-[ Read More](http://www.geekscape.net/geekscape-294-talking-e3-with-assassins-creed-revelations-actor-cas-anvar "Geekscape 294: Talking E3 With ‘Assassin’s Creed: Revelations’ Actor Cas Anvar!")
+[ Read More](http://www.geekscape.net/the-saint-mort-show-episode-055-new-york-comic-con-2013 "The Saint Mort Show Episode 055: New York Comic Con 2013")
 
-  * Lynn Ayala returns to the show and brings Grimm and Warehouse 13 Executive Producer David Simkins with her!
+  * Canyon Prince returns with his next slate of films… and he needs your help!
 
-[ Read More](http://www.geekscape.net/geekscape-293-warehouse-13-and-grimms-david-simkins-and-lilys-lynn-ayala "Geekscape 293: ‘Warehouse 13′ and ‘Grimm’s David Simkins and ‘Lily’s Lynn Ayala!")
+[ Read More](http://www.geekscape.net/geekscape-309-2-guys-and-a-film "Geekscape 309: 2 Guys And A Film!")
 
 
 
 
 ### **Community Discussion**
 
-  * [Xbox One](http://www.geekscape.net/community/t/xbox-one "Xbox One")
-  * [Random thoughts thread](http://www.geekscape.net/community/t/random-thoughts-thread "Random thoughts thread")
-  * [Battlefield 3](http://www.geekscape.net/community/t/battlefield-3 "Battlefield 3")
-  * [Wat'cha Listenin' To?](http://www.geekscape.net/community/t/watcha-listenin-to "Wat'cha Listenin' To?")
-  * [MAN OF MOTHERFUCKING STEEL (Spoilers? Spoilers.))](http://www.geekscape.net/community/t/man-of-motherfucking-steel-spoilers-spoilers "MAN OF MOTHERFUCKING STEEL \(Spoilers? Spoilers.\)\)")
+  * [Random thoughts thread](http://www.geekscape.net/community/t/random-thoughts-thread)
+  * [The last episode of The IT Crowd](http://www.geekscape.net/community/t/the-last-episode-of-the-it-crowd)
+  * [Tentacles](http://www.geekscape.net/community/t/tentacles)
+  * [video of the day](http://www.geekscape.net/community/t/video-of-the-day)
+  * [Falling Skies](http://www.geekscape.net/community/t/falling-skies-2)
 
 
