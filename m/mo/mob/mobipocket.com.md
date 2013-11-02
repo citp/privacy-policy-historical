@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mobipocket.com privacy policy that was archived on 2013-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130624043507id_/http%3A//www.mobipocket.com/en/MyMobi/Cnil.asp%3FLanguage%3DEN) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mobipocket.com privacy policy that was archived on 2013-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131102101012id_/http%3A//www.mobipocket.com/en/MyMobi/Cnil.asp%3FLanguage%3DEN) for the most accurate reproduction.*
 
 # Mobipocket.com - eBooks and ebook reader for your PC, PDA and Smartphone: Palm, Windows mobile, Symbian, Blackberry, or PocketPC.
 
