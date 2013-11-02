@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dnamagazine.com.au privacy policy that was archived on 2013-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130527163815id_/http%3A//www.dnamagazine.com.au/articles/news.asp%3Fnews_id%3D158) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dnamagazine.com.au privacy policy that was archived on 2013-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131103003657id_/http%3A//www.dnamagazine.com.au/articles/news.asp%3Fnews_id%3D158) for the most accurate reproduction.*
 
 # DNA Magazine - Privacy Policy
 
