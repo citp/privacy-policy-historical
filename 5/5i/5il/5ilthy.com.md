@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 5ilthy.com privacy policy that was archived on 2013-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130503030855id_/http%3A//5ilthy.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 5ilthy.com privacy policy that was archived on 2013-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131102195653id_/http%3A//5ilthy.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy at 5ilthy
 
