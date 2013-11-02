@@ -1,0 +1,1529 @@
+<!--The following is the downloaded HTML source of the sastasundar.com privacy policy that was archived on 2013-11-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131103003624id_/http%3A//www.sastasundar.com/index.php/pages/view/privacy_policy) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>Sasta Sundar</title>
+<link href="http://www.sastasundar.com/public/css/style.css" rel="stylesheet" type="text/css">
+<link href="http://www.sastasundar.com/public/css/menu.css" rel="stylesheet" type="text/css">
+
+
+
+<link rel="stylesheet" href="http://www.sastasundar.com/public/css/jquery-ui.css">
+
+<link rel="stylesheet" type="text/css" href="http://www.sastasundar.com/public/Carousel/scroll.css">
+<link rel="stylesheet" type="text/css" media="screen" href="http://www.sastasundar.com/public/css/reset.css">
+
+<link href="http://www.sastasundar.com/public/slide/slide.css" rel="stylesheet" type="text/css" media="screen">
+
+<!--<script language=JavaScript> var message="Function Disabled!"; function clickIE4(){ if (event.button==2){ alert(message); return false; } } function clickNS4(e){ if (document.layers||document.getElementById&&!document.all){ if (e.which==2||e.which==3){ alert(message); return false; } } } if (document.layers){ document.captureEvents(Event.MOUSEDOWN); document.onmousedown=clickNS4; } else if (document.all&&!document.getElementById){ document.onmousedown=clickIE4; } document.oncontextmenu=new Function("alert(message);return false") </script>-->
+
+<script async="" src="//www.google-analytics.com/analytics.js"></script><script src="http://www.sastasundar.com/public/js/jquery-1.8.3.min.js"></script>
+<script src="http://www.sastasundar.com/public/js/jquery-ui.js"></script>
+<link rel="shortcut icon" href="http://www.sastasundar.com/favicon.ico" type="image/x-icon">
+<link rel="icon" href="http://www.sastasundar.com/favicon.ico" type="image/x-icon">
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-2078849-57', 'sastasundar.com');
+  ga('send', 'pageview');
+
+</script></head>
+    <body ondragstart="return false" onselectstart="return false">
+
+
+<div class="outerdiv">
+
+	      <div class="maindiv">
+      		
+            <!--top login panel start-->
+      	    <div class="toppanel">
+            	  <ul>
+                  		<li class="wname">
+							                        		Welcome <span>Guest</span>
+                                                    </li>
+                        
+                        
+                        
+                                                <li style="padding-top:2px"><a href="http://www.sastasundar.com/index.php/user/login" class="button_red_small"><span>Login</span></a></li>
+                        <li class="newreg"><a href="http://www.sastasundar.com/index.php/user/registration">Register Now</a></li>
+						                                                <li class="callus"><span>033 3080 3080</span></li>
+                        <!--<li class="topcart"><a href="#" >Shopping Cart</a> <font color="#6c7a80">(<span>0</span>) Item</font></li>-->
+                        <li class="topcart">                        <a href="http://www.sastasundar.com/index.php/user/login">Shopping Cart</a> <font color="#6c7a80">(<span>0</span>) Item</font>
+                        
+                        </li>
+                                                <li style="padding-top:2px"><a href="http://www.sastasundar.com/index.php/product/my_wishlist" class="button_grey_small"><span>Wishlist</span></a></li>
+                                                <div class="clear"></div>
+                  </ul>
+                  
+                  <div class="clear"></div>
+            </div>
+            <!--top login panel ends-->
+      		<!--top login panel start-->
+      	                <!--top login panel ends-->
+            
+            <!--top logo and search panel start-->
+    		<div class="logopanel">
+            	  <div class="logo"><a href="http://www.sastasundar.com/"><img src="http://www.sastasundar.com/public/images/logo.gif" alt=""></a></div>
+                  
+                  <!--<div class="searchpanel">
+                  		<ul>
+                        	 <li><p>Search by</p></li>
+                             <li><select name="" class="searchlist">
+                               <option>Medicine name</option>
+                             </select></li>
+                             <li><input name="" type="text" class="searchbox" /></li>
+                             <li><input name="" type="button" class="searchbutton" /></li>
+                        </ul>
+                  </div>-->
+                  <script type="text/javascript" language="javascript">
+function searchformVal()
+{
+if($("#searchTextTop").val() == "")
+{
+	alert("Please provide search keyword");
+	return false;
+}
+}
+
+	/*function suggest(inputString){
+		//alert(inputString.length)
+		
+			if(inputString.length >= 3) {
+			$('#searchTextTop').addClass('load');
+			var type = $("#searchField").val();
+			
+			$.ajax({
+					type : 'GET',
+					url  : 'http://www.sastasundar.com/index.php/product/autosuggest',
+					data : 'text='+inputString+"&type="+type,
+					success : function(data){
+						$('#suggestionsTop').fadeIn();
+						$('#suggestionsListTop').html(data);
+						$('#searchTextTop').removeClass('load');
+						$('#top_medicine_search').height($('#suggestionsListTop').height())	
+						
+					}
+				
+			});
+		}
+	}*/
+	function fillTop(thisValue) {
+		$('#searchTextTop').val(thisValue);
+		setTimeout("$('#suggestionsTop').fadeOut();", 600);
+	}		
+	
+	function remove_listTop(){		
+		setTimeout("$('#suggestionsTop').fadeOut();", 50);
+	}
+	
+$(document).ready(function(){
+	$('#searchTextTop').live("blur",function(){		
+		//setTimeout("$('#suggestionsTop').fadeOut();", 600);
+	});
+	$('#suggestionsListTop li').live("click",function(){
+		$('#searchTextTop').val($(this).text());
+		setTimeout("$('#suggestionsTop').fadeOut();", 600);
+	});		
+	$('.add_medicine').live("click",function(){
+		//if(confirm("Are you sure you want to delete")){
+			//alert($(window).height()+"--"+$(document).height());
+			$('body').prepend('<div class="overlay"></div>');
+			var overlay_height = $(document).height()+"px";
+			
+			$('.js_msg').remove();
+			var html = $("#add_medicine_div").html();
+			
+			$('.overlay').after('<div class="inner_overlay">'+html+'</div>');
+			$('.overlay').css({'height':'100%' , 'opacity':'0.6'});
+			$('.opacity1').css({'opacity':'1'});
+			$('.inner_overlay').css({'height':overlay_height});
+			$('#add_medicine_btn').live("click",function(){
+				$('.js_msg').remove();
+				
+				
+					var product = $('#AM_Product').val();
+					var name = $('#AM_Name').val();
+					var email = $('#AM_Email').val();
+					var contact = $('#AM_Mobile').val();
+					var comment = $('#AM_Comment').val();
+					
+					var regMail = /^([_a-zA-Z0-9-]+)(\.[_a-zA-Z0-9-]+)*@([a-zA-Z0-9-]+\.)+([a-zA-Z]{2,3})$/;			
+					if(product == "" || name =="" || email =="" || contact ==""){
+						$('.loginbox').prepend('<div class="js_msg form_err_msg">Please fill all the fields.</div>');	
+					}else{
+					
+						if(regMail.test(email) == false){ 
+							$('.loginbox').prepend('<div class="js_msg form_err_msg">Please enter a proper email id.</div>');	
+						}else{
+							$('.js_msg').remove();
+							$.ajax({
+								type : 'POST',
+								url  : 'http://www.sastasundar.com/index.php/user/add_medicine',
+								data : 'product='+product+'&name='+name+'&email='+email+'&contact='+contact+"&comment="+comment,
+								success: function(msg){
+									//alert(msg);
+									if(msg == "success"){
+										$('.js_msg').remove();
+										$('.loginbox').prepend('<div class="js_msg succ_message">Your request message has been succesfully sent to the admin.</div>');
+										$('.loginbox ul').hide();;
+										var t=setTimeout(function(){
+											$('.overlay').remove();
+											$('.inner_overlay').remove();
+										},5000)
+										//$("#"+send_btn_id).attr('value','Close').live("click",function(){
+											//$('.overlay').remove();
+											//$('.inner_overlay').remove();	
+										//})
+										
+									}else{
+										$('.loginbox').prepend('<span class="js_msg form_err_msg">Please try again.</span>');	
+									}
+								}
+								})
+						}
+					}
+			});
+			
+			
+			return false;	
+		
+	});
+	$('.close').live("click",function(){
+		$('.overlay').remove();
+		$('.inner_overlay').remove();
+	})
+	
+	$("#searchTextTop").live("keyup", function(e){
+		var inputString = $(this).val();
+		var elem = $('#suggestionsListTop ul');
+		
+		//alert(e.keyCode)
+		
+		if(e.keyCode === 38) {
+			// up
+			var current = elem.find('li.selected'); // select current on li			                  
+			var current_index = current.index();			
+			var firstIndex = 0;
+			
+			if(firstIndex == current.index()){
+				current.parent().find('li').removeClass('selected');
+				current.parent().find('li:last-child').addClass('selected');
+				var recentvalue = $('#suggestionsListTop ul li.selected').text();
+				$('#searchTextTop').val(recentvalue)
+			}else{
+				current.parent().find('li').removeClass('selected');
+				current.prev().addClass('selected');
+				var recentvalue = $('#suggestionsListTop ul li.selected').text();
+				$('#searchTextTop').val(recentvalue)
+			}
+		}
+		else if(e.keyCode === 40) {
+			// down			
+			var current = elem.find('li.selected'); // select current on li
+			                   // Remove on from current
+			var current_index = current.index();
+			var lastIndex = $('#suggestionsListTop li:last-child').index();
+			var firstIndex = 0;
+			
+			if(lastIndex == current.index()){
+				current.parent().find('li').removeClass('selected');
+				current.parent().find('li:first-child').addClass('selected');
+				var recentvalue = $('#suggestionsListTop ul li.selected').text();
+				$('#searchTextTop').val(recentvalue)
+			}else{
+				current.parent().find('li').removeClass('selected');
+				current.next().addClass('selected');
+				var recentvalue = $('#suggestionsListTop ul li.selected').text();
+				$('#searchTextTop').val(recentvalue)
+			}
+			
+			
+		}
+		else{
+			if(inputString.length >= 3) {
+				$('#searchTextTop').addClass('load');
+				var type = $("#searchField").val();
+				
+				$.ajax({
+						type : 'GET',
+						url  : 'http://www.sastasundar.com/index.php/product/autosuggest',
+						data : 'text='+inputString+"&type="+type,
+						success : function(data){
+							$('#suggestionsTop').fadeIn();
+							$('#suggestionsListTop').html(data);
+							$('#searchTextTop').removeClass('load');
+							$('#top_medicine_search').height($('#suggestionsListTop').height())	
+							
+						}
+					
+				});	
+			}
+		}
+		
+		if(inputString.length == 0){
+			$('#suggestionsTop').hide();	
+		}
+		
+	 });
+	 
+	 /*$("#suggestionsListTop").live("blur", function(e){
+		 $('#suggestionsTop').hide();
+	 });*/
+});		
+
+</script>
+<style type="text/css">
+.li_search_auto .suggestionList {
+	background-color: #FFF !important;
+    color: #6c7a80;
+   
+    margin: 0 0 0 12px;
+    position: absolute;
+    top: 33px;
+    width: 229px !important;
+    z-index: 999;
+	border:1px solid #b0b0b0;
+	border-top:none;
+	border-bottom:none;
+	left:11px;
+}
+
+.li_search_auto .suggestionList span{
+	border-bottom:1px solid #b0b0b0;
+	padding:6px;
+	display:block;
+	width:221px;
+	margin:0px;
+}
+
+.li_search_auto .suggestionList {
+	margin: 0px;
+	padding: 0px;
+	
+}
+
+
+.li_search_auto .suggestionList ul li {
+	list-style:none;
+	margin: 0px;
+	padding: 6px;
+	border-bottom:1px solid #b0b0b0;
+	cursor: pointer;
+	width:221px;
+	color: #6c7a80;
+	font-size:11px;
+}
+.li_search_auto .suggestionList ul li:hover, 
+.li_search_auto .suggestionList ul li.selected {
+	background-color: #ccc;
+	color:#000;
+}
+
+.load{
+background-image:url(loader.gif);
+background-position:right;
+background-repeat:no-repeat;
+}
+
+#suggest {
+	position:relative;
+}
+
+
+</style>
+<script type="text/javascript" language="javascript">
+$(document).ready(function(){
+	$('#dropdown_ul').hide();
+	$('#dropdown_holder').hover(function(){
+		
+		$("#dropdown_ul").show();
+		//alert('hi')
+	},function(){		
+		$('#dropdown_ul').hide();
+		
+	});	
+	
+	$('#dropdown_ul li').click(function(){		
+		var li_value = $(this).attr('org_value');
+		var li_label = $(this).text();
+		
+		$('#dropdown_display').text(li_label);
+		$('#searchField').val(li_value);
+		
+		$(this).parent().hide();
+		
+	});
+	
+	function hide_search_dp(){
+		var li_value = $(this).attr('org_value');
+		var li_label = $(this).text();
+		
+		$('#dropdown_display').text(li_label);
+		$('#searchField').val(li_value);
+		
+		$(this).parent().hide();	
+	}
+	
+	/*$('body').click(function(){
+		if($('#suggestionsListTop').is(':visible')){
+			//alert('hi');	
+			
+			
+		}
+	});*/
+	
+	
+	if($('#searchField').val() != ""){
+		var hidden_value = $('#searchField').val();
+		var org_label = '';
+		//alert(hidden_value);
+		$('#dropdown_ul li').each(function(){	
+			//alert($(this).attr('org_value'))	
+				
+			if($(this).attr('org_value') == hidden_value){
+				//alert('hi')
+				org_label = $(this).text();
+				$('#dropdown_display').text(org_label);	
+			}
+		})
+		
+		
+		
+	}
+	
+});
+</script>
+<div class="searchpanel">
+  <form method="get" id="example1" action="http://www.sastasundar.com/index.php/product/search" onsubmit="javascript:return searchformVal()" autocomplete="off">
+    <ul>
+      <li>
+        <p>Search by</p>
+      </li>
+      <li>
+                
+        <div id="dropdown_holder">
+        <span id="dropdown_display">Product Name</span>
+        	<ul id="dropdown_ul">
+         		<li org_value="DisplayName">Product Name</li>
+                <li org_value="MfgGroup">Manufacturer Name</li>
+                <li org_value="DiseaseSymptoms">Disease</li>
+                <li org_value="SaltName">Generic Name</li>
+            </ul>    
+        </div>
+        <input type="hidden" name="searchField" id="searchField" class="searchlist" value="DisplayName">
+        <input type="hidden" name="SearchThroughTop" value="1">
+        
+      </li>
+      <li style="position:relative; z-index: 999;" class="li_search_auto" id="top_medicine_search">
+        
+        <input name="searchText" id="searchTextTop" value="" type="text" class="searchbox">
+        
+        <div class="suggestionsBox" id="suggestionsTop" style="display: none; ">         
+        <div class="suggestionList" id="suggestionsListTop"> &nbsp; </div>
+        <div class="clear"></div>
+      	</div>
+   
+      </li>
+      <li>
+        <input name="search" type="submit" value="." class="searchbutton">
+      </li>
+    </ul>
+    <input type="hidden" name="searchOrder" value="LowHigh">
+    <input type="hidden" name="per_page" value="0">
+    <input type="hidden" name="search_from_top" value="1">
+  </form>
+</div>
+
+
+  <style type="text/css">
+.overlay{
+	background:#666; position:fixed; width:130%; height:100%; z-index:9999; margin-left:-15%;
+}
+.inner_overlay{padding:10% 0 0 0; margin:0 auto; position:fixed; width:100%;z-index:9999; 	}
+.opacity1{
+	opacity:1; filter:alpha(opacity=100); /* For IE8 and earlier */	
+}
+</style>                  <div class="clear"></div>
+                  
+       	    </div>
+            <!--top logo and search panel ends-->
+            
+            <!--menu panel start-->
+            <script language="javascript" type="text/javascript" src="http://www.sastasundar.com/liveadmin/client.php?key=L1564EA38V31146FCMD430E8"></script>
+<div class="menudiv">
+            		
+                  <!--table menu start-->
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <tbody><tr>
+                    <td valign="middle" class="ordermenu"><a href="http://www.sastasundar.com/index.php/pages/view/order_by_prescription">Order by<br>Prescription</a></td>
+                    <td class="menubackdiv">
+                                           <ul id="menu">
+                                                  <li><a href="http://www.sastasundar.com/index.php/category/category_landing/1"> Medicines &amp;<br>
+Treatments</a>
+          <div class="dropdown_3columns"><div class="col_1"><a href="http://www.sastasundar.com/index.php/category/category_landing/888" class="menu_inner">Household Remedies</a><a href="http://www.sastasundar.com/index.php/category/category_landing/3" class="menu_inner">Pain &amp; Fever</a><a href="http://www.sastasundar.com/index.php/category/category_landing/5" class="menu_inner">Cardiovascular Problems</a><a href="http://www.sastasundar.com/index.php/category/category_landing/4" class="menu_inner">Digestive Care</a><a href="http://www.sastasundar.com/index.php/category/category_landing/10" class="menu_inner">Children's Health Care</a><a href="http://www.sastasundar.com/index.php/category/category_landing/2" class="menu_inner">Respiratory Care</a><a href="http://www.sastasundar.com/index.php/category/category_landing/11" class="menu_inner">Skin Diseases</a><a href="http://www.sastasundar.com/index.php/category/category_landing/12" class="menu_inner">Eye Care</a><a href="http://www.sastasundar.com/index.php/category/category_landing/13" class="menu_inner">ENT Care</a><a href="http://www.sastasundar.com/index.php/category/category_landing/14" class="menu_inner">Dental Care</a></div><div class="col_2"><a href="http://www.sastasundar.com/index.php/category/category_landing/9" class="menu_inner">Reproductive Health Care</a><a href="http://www.sastasundar.com/index.php/category/category_landing/18" class="menu_inner">Blood Disorders</a><a href="http://www.sastasundar.com/index.php/category/category_landing/8" class="menu_inner">Infections &amp; Antibiotics</a><a href="http://www.sastasundar.com/index.php/category/category_landing/16" class="menu_inner">Urology Care</a><a href="http://www.sastasundar.com/index.php/category/category_landing/7" class="menu_inner">Hormones &amp; Disorders</a><a href="http://www.sastasundar.com/index.php/category/category_landing/6" class="menu_inner">Neurology Care</a><a href="http://www.sastasundar.com/index.php/category/category_landing/19" class="menu_inner">AIDS and HIV</a><a href="http://www.sastasundar.com/index.php/category/category_landing/20" class="menu_inner">Psychiatry Care</a><a href="http://www.sastasundar.com/index.php/category/category_landing/23" class="menu_inner">Anaesthetics</a><a href="http://www.sastasundar.com/index.php/category/category_landing/21" class="menu_inner">Sleep Disorders</a></div><div class="col_3"><a href="http://www.sastasundar.com/index.php/category/category_landing/17" class="menu_inner">Orthopaedic Care</a><a href="http://www.sastasundar.com/index.php/category/category_landing/22" class="menu_inner">Poisoning &amp; Antidotes</a><a href="http://www.sastasundar.com/index.php/category/category_landing/15" class="menu_inner">Cancer Care</a><a href="http://www.sastasundar.com/index.php/category/category_landing/24" class="menu_inner">Others</a></div></div></li>                          <li><a href="http://www.sastasundar.com/index.php/category/category_landing/263"> Vitamins &amp;<br>
+Nutritional<br>
+Supplements</a>
+          <div class="dropdown_1columns"><div class="col_1"><a href="http://www.sastasundar.com/index.php/category/category_landing/264" class="menu_inner">General Wellbeing</a><a href="http://www.sastasundar.com/index.php/category/category_landing/265" class="menu_inner">Pregnancy &amp; Maternal Nutrition</a><a href="http://www.sastasundar.com/index.php/category/category_landing/266" class="menu_inner">Child Care Nutrition</a><a href="http://www.sastasundar.com/index.php/category/category_landing/267" class="menu_inner">Diabetic Nutrition</a><a href="http://www.sastasundar.com/index.php/category/category_landing/268" class="menu_inner">Old Age Care</a><a href="http://www.sastasundar.com/index.php/category/category_landing/269" class="menu_inner">Sports Nutrition</a><a href="http://www.sastasundar.com/index.php/category/category_landing/270" class="menu_inner">Others</a></div></div></li>                          <li><a href="http://www.sastasundar.com/index.php/category/category_landing/690"> Ayurvedic &amp; Herbal<br>
+Preparations</a>
+          <div class="dropdown_3columns"><div class="col_1"><a href="http://www.sastasundar.com/index.php/category/category_landing/691" class="menu_inner">Antioxidants</a><a href="http://www.sastasundar.com/index.php/category/category_landing/692" class="menu_inner">Eye Preparations</a><a href="http://www.sastasundar.com/index.php/category/category_landing/693" class="menu_inner">Dental Care</a><a href="http://www.sastasundar.com/index.php/category/category_landing/694" class="menu_inner">Skin Preparations</a><a href="http://www.sastasundar.com/index.php/category/category_landing/695" class="menu_inner">Hair Care</a><a href="http://www.sastasundar.com/index.php/category/category_landing/696" class="menu_inner">Pain Relief</a><a href="http://www.sastasundar.com/index.php/category/category_landing/697" class="menu_inner">Personal Care</a><a href="http://www.sastasundar.com/index.php/category/category_landing/698" class="menu_inner">Respiratory Care</a><a href="http://www.sastasundar.com/index.php/category/category_landing/699" class="menu_inner">Digestive Care</a><a href="http://www.sastasundar.com/index.php/category/category_landing/700" class="menu_inner">Cardiac Health</a></div><div class="col_2"><a href="http://www.sastasundar.com/index.php/category/category_landing/701" class="menu_inner">Baby Care</a><a href="http://www.sastasundar.com/index.php/category/category_landing/702" class="menu_inner">Diabetes</a><a href="http://www.sastasundar.com/index.php/category/category_landing/703" class="menu_inner">Liver &amp; Kidney</a><a href="http://www.sastasundar.com/index.php/category/category_landing/704" class="menu_inner">Sexual Health</a><a href="http://www.sastasundar.com/index.php/category/category_landing/705" class="menu_inner">ENT Preparations</a><a href="http://www.sastasundar.com/index.php/category/category_landing/706" class="menu_inner">Mental Health</a><a href="http://www.sastasundar.com/index.php/category/category_landing/942" class="menu_inner">Immunity Boosters</a><a href="http://www.sastasundar.com/index.php/category/category_landing/943" class="menu_inner">General Health</a><a href="http://www.sastasundar.com/index.php/category/category_landing/944" class="menu_inner">Women Health Care</a><a href="http://www.sastasundar.com/index.php/category/category_landing/945" class="menu_inner">Bones Health Care</a></div><div class="col_3"><a href="http://www.sastasundar.com/index.php/category/category_landing/946" class="menu_inner">Blood Deficiency and Disorders</a><a href="http://www.sastasundar.com/index.php/category/category_landing/947" class="menu_inner">Pure Plant Extract</a></div></div></li>                          <li><a href="http://www.sastasundar.com/index.php/category/category_landing/316"> Beauty &amp; Personal<br>
+Care</a>
+          <div class="dropdown_1columns"><div class="col_1"><a href="http://www.sastasundar.com/index.php/category/category_landing/317" class="menu_inner">Hair Care</a><a href="http://www.sastasundar.com/index.php/category/category_landing/318" class="menu_inner">Hand, Nail &amp; Foot Care</a><a href="http://www.sastasundar.com/index.php/category/category_landing/319" class="menu_inner">Oral Hygiene</a><a href="http://www.sastasundar.com/index.php/category/category_landing/320" class="menu_inner">Feminine Care</a><a href="http://www.sastasundar.com/index.php/category/category_landing/321" class="menu_inner">Men's Grooming</a><a href="http://www.sastasundar.com/index.php/category/category_landing/322" class="menu_inner">Children's Care</a></div></div></li>                          <li><a href="http://www.sastasundar.com/index.php/category/category_landing/411"> Home Healthcare<br>
+Products</a>
+          <div class="dropdown_1columns"><div class="col_1"><a href="http://www.sastasundar.com/index.php/category/category_landing/412" class="menu_inner">Fitness &amp; General Health Care</a><a href="http://www.sastasundar.com/index.php/category/category_landing/414" class="menu_inner">Sanitation &amp; Hygiene</a><a href="http://www.sastasundar.com/index.php/category/category_landing/415" class="menu_inner">Braces &amp; Supports</a><a href="http://www.sastasundar.com/index.php/category/category_landing/416" class="menu_inner">Home Tests</a><a href="http://www.sastasundar.com/index.php/category/category_landing/417" class="menu_inner">First Aids</a><a href="http://www.sastasundar.com/index.php/category/category_landing/413" class="menu_inner">Daily Living Aids</a></div></div></li>                          <li><a href="http://www.sastasundar.com/index.php/category/category_landing/503"> Sexual Wellness</a>
+          <div class="dropdown_1columns"><div class="col_1"><a href="http://www.sastasundar.com/index.php/category/category_landing/504" class="menu_inner">For Men</a><a href="http://www.sastasundar.com/index.php/category/category_landing/505" class="menu_inner">For Women</a></div></div></li>                          
+                       </ul>
+                    </td>
+                    <td class="moremenu" onmouseover="javascript:showHide('show','khobor_menu','khobor_link','')" onmouseout="javascript:showHide('hide','khobor_menu','khobor_link','')"><a href="#" id="khobor_link">more</a></td>
+                  </tr>
+                </tbody></table>
+
+                 <!--table menu end--> 
+                 
+                 <!--dropdown start-->
+      <div onmouseover="javascript:showHide('show','khobor_menu','khobor_link')" onmouseout="javascript:showHide('hide','khobor_menu','khobor_link','')" id="khobor_menu" class="submenu" style="display:none;">
+                  	    
+                        <div class="submenu_category1">
+					                       <p><a href="http://www.sastasundar.com/index.php/category/category_landing/674">Fluids &amp; Parenteral Care</a></p>
+                                          <p><a href="http://www.sastasundar.com/index.php/category/category_landing/545">Surgical Care &amp; Orthopaedic Aids</a></p>
+                                   
+          
+                        
+                        </div>
+                        
+                        
+                        <div class="clear"></div>
+                  </div>
+                   
+                  
+                        	 
+                        
+                  
+                 <!--dropdown end-->
+            </div>            <!--menu panel end-->
+            
+            <!--body section start-->
+           <script type="text/javascript" src="http://www.sastasundar.com/public/js/jquery.scrollTo-1.4.3.1-min.js"></script>
+<script type="text/javascript">
+	jQuery.fn.topLink = function(settings) {
+		settings = jQuery.extend({
+			min: 1,
+			fadeSpeed: 200,
+			ieOffset: 50
+		}, settings);
+		return this.each(function() {
+			//listen for scroll
+			var el = $(this);
+			el.css('display','none'); //in case the user forgot
+			$(window).scroll(function() {
+				if(!jQuery.support.hrefNormalized) {
+					el.css({
+						'position': 'absolute',
+						'top': $(window).scrollTop() + $(window).height() - settings.ieOffset
+					});
+				}
+				if($(window).scrollTop() >= settings.min)
+				{
+					el.fadeIn(settings.fadeSpeed);
+				}
+				else
+				{
+					el.fadeOut(settings.fadeSpeed);
+				}
+			});
+		});
+	};
+	
+	$(document).ready(function() {
+		$('#top-link').topLink({
+			min: 400,
+			fadeSpeed: 500
+		});
+		//smoothscroll
+		$('#top-link').click(function(e) {
+			e.preventDefault();
+			$.scrollTo(0,300);
+		});
+	});
+	
+</script><!--body section start-->
+            <div class="bodytopdiv">
+            	  <p class="breadcrumbs">You are here: <a href="http://www.sastasundar.com/">Home</a> / <span>Policies</span></p>
+            </div>
+            <div class="bodypanel">
+            <h1 class="topheading">Policies</h1>
+            	  <!--left panel start-->
+                  <div class="leftpanel">
+  <div class="pdB">
+      <div class="register_online">
+    	<h2>Register Now!</h2>
+        <p>Buy medicines, healthcare products and other useful products from our innovative digital pharmacy and healthcare store! We will deliver the products at your doorstep.</p>
+  <a href="http://www.sastasundar.com/index.php/user/registration" class="register_button"></a>
+  </div>
+    
+  </div>
+  
+  <!--<div class="pdB">
+  	<img src="http://www.sastasundar.com/public/images/special_offer.jpg">
+  </div>-->
+  
+  <div class="pdB"><a href="http://www.sastasundar.com/index.php/pages/view/how_it_works"><img src="http://www.sastasundar.com/public/images/howbanner.jpg" width="220" height="170" alt=""></a></div>
+    <div class="reachus">
+    <h2><a href="http://www.sastasundar.com/index.php/pages/view/contactus">Get in touch</a></h2>
+    <p class="phone">
+	    <img src="http://www.sastasundar.com/public/images/contactno.png">
+    </p>
+    <p class="email"><a href="mailto:care@sastasundar.com">care@sastasundar.com</a></p>
+  </div>
+  
+  
+  <div class="pdB">
+  <span id="liveadmin"></span></div>
+  
+  <!--<div class="pdB"> <a href="http://www.sastasundar.com//index.php/chat/" class="chat"><img src="http://www.sastasundar.com/public/images/chatwithus.gif" width="220" height="80" alt="" /></a> </div>-->
+  
+  <div class="pdB"> 
+    <a href="http://www.sastasundar.com/index.php/pages/view/health_buddy"><img src="http://www.sastasundar.com/public/images/joinnow.jpg" width="220" height="147" alt=""></a>
+  </div>
+  
+ <!-- <div>
+    <iframe width="220" height="124" src="http://www.youtube.com/embed/8KNoFhBb-Vc" frameborder="0" allowfullscreen></iframe>
+  </div>
+  <div class="videotext">
+    <h2><span style="color:#ed1b24">Sasta</span><span style="color:#017dc7">Sundar</span> official video</h2>
+    <p>Watch it to know more about SastaSundar! Know what it offers and how it works for the benefit of the customers.</p>
+  </div>-->
+  <div class="pdB"> 
+    <!--<a href="#"><img src="http://www.sastasundar.com/public/images/joinnow.gif" width="220" height="158" alt="" /></a>--> 
+    <a href="http://www.sastasundar.com/index.php/customer/manage_prescription" class="joinlinks"><img width="40" height="39" class="left" alt="" src="http://www.sastasundar.com/public/images/account_upload.png">Prescription digitization</a>
+     
+    <a href="http://www.sastasundar.com/index.php/customer/my_orders" class="joinlinks"><img width="40" height="39" class="left" alt="" src="http://www.sastasundar.com/public/images/account_manage_order.png">Re-order your medicine</a> 
+    
+    <a href="http://www.sastasundar.com/index.php/customer/reward_point" class="joinlinks"><img width="40" height="39" class="left" alt="" src="http://www.sastasundar.com/public/images/account_reward.png">Redeem reward points</a> 
+    <!--<a href="#" class="joinlinks">top-up e-wallet</a>--> 
+    <a href="http://www.sastasundar.com/index.php/customer/wallet_history" class="joinlinks"><img width="40" height="39" class="left" alt="" src="http://www.sastasundar.com/public/images/account_ewallet.png">View my e-wallet</a> 
+    
+    <a href="http://www.sastasundar.com/index.php/customer/my_orders" class="joinlinks"><img width="40" height="39" class="left" alt="" src="http://www.sastasundar.com/public/images/account_manage_order.png">View order status</a> </div>
+    
+    
+    <div class="tipofday">
+          <h2>Tip of the Day</h2>
+      <p>
+      
+      
+	  <img src="http://www.sastasundar.com/index.php/show_image/crop/dGlwcy9naW5naXZpdGlzLmpwZw==/194/163/e5e5e5" alt="">  
+	  <br>
+        <span>Gingivitis ( inflammation of the gums)</span> </p>
+      <div class="tiplist ">
+        <p>In a litre of boiling water add 5gm dried marigold flower heads. &nbsp;Soak the flower heads for 5 minutes and strain the decoction in a jug. Use it for gargling regularly.</p>      </div>
+      <br>
+    </div>
+	</div>
+                  <!--left panel end-->
+                  
+                  <!--Right panel start-->
+                  <div class="rightpanel">
+                        	  <div class="shadow">
+                              	    
+								   <div class="static_content">
+								   <h2>Privacy Policy</h2>
+										<p>This Privacy Policy relates solely to the user information collected by us and how that information is treated on our website, www.sastasundar.com. We recognize that many visitors and users of “SastaSundar.com” are concerned about the information they provide to us and how we use that information. This Privacy Policy has been developed to address those concerns. At www.sastasundar.com, we respect your privacy and take reasonable measures to protect your personal information and other details that you share with us.</p>
+										
+										<p>ANY ACCESS OR USE OF THIS WEBSITE (WWW.SASTASUNDAR.COM) WOULD MEAN THAT YOU HAVE READ, UNDERSTOOD AND AGREED TO ADHERE TO ALL THE TERMS OF THIS PRIVACY POLICY AND OUR WEBSITE TERMS AND CONDITIONS. 
+                                        <br><br>
+                                        IN CASE YOU DISAGREE TO ANY OR ALL OF THESE TERMS, PLEASE LEAVE THIS PAGE AND DO NOT ACCESS OR USE THE WEBSITE.
+</p>
+								   
+								  <h3>Language of the Terms</h3>
+                                  <p>The terms are incorporated herein in English language and the website does not provide you with a translation of the English language version of the Terms and if there is any contradiction between what the English language version of the Terms says and what a translation says, then the English language version shall take precedence.</p>
+                                  
+                                   <h3>Changes to Privacy Policy</h3>
+								   <p>www.sastasundar.com reserves the right to update this Privacy Policy from time to time as it may deem fit and proper without any prior notice. These changes, introduced to the Privacy Policy upon being posted on www.sastasundar.com, will take effect immediately. So do make sure you are aware of the changes; please review this page periodically to ensure you have the latest version. After such revisions take effect, your continued use of the website, www.sastasundar.com, will indicate your acceptance and acknowledgment of the terms of the revised Privacy Policy.</p>
+								   
+								   <h3>Types of Information Collected and Uses of Collected Information</h3>
+								   <p>During your use of www.sastasundar.com, we will collect and store your personal information which is provided by you from time to time. Such information is essential to guarantee you a safe, secure, proficient and personalized shopping experience.
+								   <br><br>
+Any individual can browse our website without sharing his/her personal information with us. However, if you intend to become a member, it becomes necessary to share all your personal details (as required) with us. 
+								    <br><br>
+                                    We hope that this Policy helps you understand what kind of personal data, if any, we collect at this website and how we handle and use any such personal data after collection. The various types of information that we collect from our customers are mentioned herein below:  
+</p>
+								   <p class="bold">Personally Identifiable Information</p>
+								   <p>“Personally Identifiable Information” is the information that identifies a specific End User. Such unique identification and the subsequent submission of data are directly associated with your various activities at www.sastasundar.com such as creation of account, placing an order, sharing your feedback, suggesting a product etc. However, it is for you to choose not to engage in such activities. 
+								   <br><br>
+								  Remember, once you enroll, it is mandatory to provide the required information.
+								   <br><br>
+								   Some of the information that we collect includes:
+								   </p>
+                                   <h5>Name </h5>
+                                   <h5>Mobile numbers, </h5>
+                                   <h5>Email IDs </h5>
+                                   <h5>Date of Birth</h5>
+                                   <h5>Mailing Address</h5>
+                                   <h5>Medical history </h5>
+                                   <h5>Any other personal information that may be supplied by you or collected about you from time to time according to the applicable local legislation.</h5>
+								   <p>Depending on your activity on www.sastasundar.com, some of the details we may ask are mandatory and some are optional. If you do not provide the mandatory information for a particular activity that requires it, you will not be permitted to engage in that activity.
+                                   <br><br>
+                                   The various purposes for which we need this information include, but not limited to: 
+</p>
+                                   <h5>Verifying you as a legitimate user.</h5>
+                                   <h5>Allowing you to place your orders for our products and services.</h5>
+                                   <h5>Informing you about your order status.</h5>
+                                   <h5>Delivering the ordered products.</h5>
+                                   
+                                   <p>This information may also be used to analyze Website use, enhance our services for you, improve our marketing and promotional activities, administer our website and address your shopping preferences. 
+                                   <br><br>
+                                   We may also use Personally Identifiable Information to resolve disputes, enforce our agreements with you (including our Website Terms of Use and this Privacy Policy), comply with applicable law and cooperate with law enforcement activities.
+                                    <br><br>
+                                    We assure that your Personally Identifiable Information are private and secure at www.sastasundar.com and will not be sold, rented or traded to any third party entity without your explicit consent. 
+                                     <br><br>
+                                     Only the staff, officers, employees, agents and representatives of www.sastasundar.com and the staff, officers, employees, agents and representatives at the dispensing pharmacies will view your file and the information contained therein.
+                                     <br><br>
+                                     However, we may disclose your personal information if required to do so as detailed in the ‘Sharing of Personal Information” mentioned hereinafter.
+</p>
+                                      
+								   <p class="bold">Non-Personally Identifiable Information</p>
+								   <p>“Non-Personally Identifiable Information” is just the opposite of “Personally Identifiable Information” and does not uniquely identify a unique End User. This includes some information that may be collected automatically and do not require you to submit such data. 
+								   <br><br>
+								   Your computer browser information, your IP address, the URL that you just came from and the URL you are next to visit are some examples of such information. 
+                                   <br><br>
+                                   This information is usually analyzed and assembled on an aggregate basis and is mostly used for internal research on customers, maintaining and managing the website, analyzing trends, gathering demographic information, complying with applicable law and cooperating with law enforcement agencies.
+                                   </p>
+								   
+								   <h3>Sharing of Personal Information</h3>
+								   <p>All visitors / Members of this website understand that this website does not sell, rent, or loan any identifiable information at the individual level regarding its customers to any third party. We ensure that we will not disclose your information to anyone, excepting the situations mentioned herein after. 
+                                   <br><br>
+                                   However, there may be certain instances when we will be compelled share some or all of your information with one or more agencies and/or we are also bound to cooperate fully should a situation arise where we are required by law or legal process to provide information about a customer.
+                                   
+                                   <br><br>
+                                   <strong>Such agencies and the reasons for disclosure of your information are discussed below:</strong>
+                                    </p>
+                                   
+								   <p class="bold">a) Agents</p>
+								   <p>Agents are third party companies and individuals who are employed by us to undertake certain functions on our behalf. The tasks may include processing orders, delivering consignments, customer relationship management, analyzing data, and detection of frauds or Site abuses. While performing such functions they might have to access your personal information; however, they may not use it for other purposes.
+								   
+								   <br><br>
+								   Your personal information may also be shared with our other corporate affiliates and entities, aiming to facilitate joint or co-branded services. 
+</p>
+								   
+								   <p class="bold">b) Legal Issues</p>
+								   <p>We may disclose your personal, medical and other information if required to do so by law when such disclosure is reasonably necessary to respond to subpoenas, court orders, or other legal processes. We respond to establish or exercise our legal rights or defend against legal claims. We may disclose personal information to law enforcement officers or third party right owners when such disclosure is reasonably necessary to: enforce our Terms or Privacy Policy; respond to claims that an advertisement, posting or other content violates the rights of a third party; or protect the rights, property or personal safety of our users or the general public.
+                                   <br><br>
+                                   We believe it is necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of our terms of use, or as otherwise required by law.  
+                                   <br><br>
+                                   We will transfer information about you if <strong>Microsec Health Buddy Limited</strong> is acquired by or merged with another company.
+                                   </p>
+								   
+								    <p class="bold">c) Business Transfers</p>
+									<p>In our continuous process of developing our business, we and our affiliates might sell or buy stores or assets, or merge with a third party business entity. SastaSundar.com as a business may also be re-organized, amalgamated or restructured. In such transactions, customer information is one of the transferred business assets. Also, in an absurd event when SastaSundar.com or substantially all of its assets are acquired, customer information will of course be one of the transferred assets and is permissible under law.</p>
+									
+									<p class="bold">d) Medical History &amp; Prescriptions</p>
+									<p>Your medical and prescription information will not be intentionally released to anybody other than you or your authorized representative. For the purpose of processing your order, we may also disclose your medical information to our affiliates, our agents (such as contracted fulfillment parties), your authorized representative, your prescriber or other authorized medical professional.</p>
+                                    
+                                    <p><strong>e)</strong> This also applies when we have reason to believe that disclosing the Data is necessary to identify, contact or bring legal action against someone who may be causing interference with our rights or properties, whether intentionally or otherwise, or when anyone else could be harmed by such activities.</p>
+									<p><strong>f)</strong> We may also disclose your personal information to third party rights owners, law enforcement officers, or when such disclosure is reasonably necessary to enforce our Terms or Privacy Policy; respond to claims that an advertisement posting or other content posting violates the rights of a third party; or protect the rights, property or personal safety of our users or the general public.</p>
+                                    
+                                    <h3>Data Security</h3>
+                                    <p>We take appropriate steps to protect the personal information you share with us. We have implemented reasonable technology and security features to safeguard the privacy of your personal information. 
+                                    <br><br>
+                                   However, you must appreciate and understand that complete confidentiality and security is not yet possible over the Internet, and privacy cannot be assured in your communications to us. You acknowledge that personal information is disclosed at your own risk, and may be subject to unauthorized use by others. This may result in you receiving unsolicited messages from other parties. 
+                                    <br><br>
+                                    We are and will not be responsible in any manner for direct, indirect, special or consequential damages, howsoever caused arising out of the communication of information to us.
+
+                                   <br><br>
+                                   We will permit only authorized employees, who are trained in the proper handling of customer information, to have access to that information.
+                                    </p>
+									
+                                    <h3>Release of Non- Personally Identifiable Information</h3>
+									<p>We may share or disclose Non-Personally Identifiable Information to our Partners, Affiliates and Advertisers. We may share aggregated demographic information (which does not include any Personally Identifiable Information) with “Third Party Advertising Companies” or “Third Party Advertisers”.
+									<br><br>
+									We also use Third Party Service Providers to track and analyze Non-Personally Identifiable usage and volume statistical information from our Users to administer our Website and constantly improve its quality. We may also publish this information for promotional purposes or on behalf of advertisers.
+</p>
+								   
+								   <h3>Updating Personally Identifiable Information</h3>
+								   <p>All users have the ability to access, update and delete their Personally Identifiable Information in our website. In fact, we always advise our users to update their Personally Identifiable Information from time to time. To update your information follow the steps below:</p>
+									<h5>Login to your account</h5>
+									<h5>Click on 'My Account'</h5>
+									<h5>On the Dashboard click on ‘Update your Profile’ and make the necessary changes.</h5>
+                                    <h5>On the Dashboard click on ‘Address Book’ to change your address(s)</h5>
+									
+									<p>If you would like to have some or all of your Personally Identifiable Information to be removed from our databases, please contact us via e-mail at <a href="mailto:care@sastasundar.com">care@sastasundar.com</a>. We will do the needful to remove your Personally Identifiable Information from our files.</p>
+									
+									<h3>Data Tracking</h3>
+									<p class="bold">Cookies</p> 
+									<p>"Cookies" are certain data collection devices placed on your hard drive, which we use on certain pages of the Website, www.sastasundar.com to assist us analyze our webpage flow, measure promotional effectiveness and promote trust and ensure safety. Most cookies are "session cookies" meaning that they automatically get deleted from your hard drive at the end of a session, (that is, when you sign out from www.sastasundar.com or close your web browser). You are always free to decline our cookies if your browser permits, although, in that case, you may not be able to use certain features on the website.
+									
+									<br><br>
+									Some of the features which cookies support:
+</p>
+									<h5>Measuring the effectiveness of our sites, services, content and advertising</h5>
+                                    <h5>Allowing you to enter your password less frequently during a session.</h5>
+                                    <h5>Remembering your preferences, buying behavior and presenting information that are targeted to your interests to make your experience more personalized</h5>
+                                    <h5>Providing other services and features that are available only through the use of cookies</h5>
+                                    <h5>If you choose to post messages on our message boards, chat rooms or other message areas or leave a feedback, we will collect that information from you. We retain this information as necessary to resolve disputes, provide customer support and troubleshoot problems as permitted by law.</h5>
+                                    <h5>If you send us personal correspondence such as emails or letters, or if other users or third parties send us correspondence about your activities or postings on the website, we may collect such information and maintain a file specific to you.</h5>
+                                    
+                                    <p>Additionally, you may encounter "cookies" or other similar devices on certain pages of the Website, SastaSundar.com that are placed by third parties. 
+                                    <br><br>
+                                    WE DO NOT CONTROL THE USE OF COOKIES BY THIRD PARTIES.
+                                    </p>
+									
+									<p class="bold">Beacons</p> 
+									<p>A "web beacon" is an electronic image placed in the code of a web page. We use web beacons to monitor the traffic patterns of users from one page to another and to improve site performance.
+									<br><br>
+									Periodically, SastaSundar.com may, at random, record user sessions to help improve the onsite experience of our visitors. We do not record your personal information during these sessions.
+ </p>
+									
+									<h3>Security of Personally Identifiable Information</h3>	
+									<p>SastaSundar.com has rigorous security measures in place to protect the loss, misuse and modification of your Personally Identifiable Information. We always provide you the use of a secure server that only selected personnel and contractors can access and thus, track all your account accesses and modifications. 
+									<br><br>
+									However, no data transmission over the Internet is absolutely safe and secure. Accordingly, we cannot ensure or warrant the security of any information that you transmit to us. You transmit any information over the Internet solely at your own risk.   
+									<br><br>
+									We would also like to request you to keep your user name, password and other personal information confidential to protect your account against unauthorized access. 
+                                    <br><br>
+                                    Always remember, SastaSundar.com customer service representatives will never request you for your password.
+</p>	
+									
+									<h3>Privacy Policy for Third Party Service Providers</h3>	
+									<p>At present, we use third-party advertising companies or service providers to serve advertisements on our website, www.sastasundar.com. These companies may use information (not including your name, address, email address, or telephone number) about your visits to SastaSundar.com and other websites in order to provide advertisements about goods and services that you may find interesting and rewarding.
+									
+									<br><br>
+									We may work with other companies in the future who may also place cookies or web beacons on our website. These companies will help us operate our website and also provide you additional information on varied products and services.
+</p>
+									
+									<h3>Privacy Policy for Third Party Websites</h3>
+									<p>This Privacy Policy only addresses the use and disclosure of information we collect from you. Other websites that may be accessible through www.sastasundar.com have their own privacy policies and data collection methods, uses and disclosure practices. If you link to any such website, we insist on reviewing those websites’ privacy policies. We are not responsible for the policies or practices of the third parties.</p>	
+                                    
+                                    <h3>Advertisements</h3>
+                                    <p>Some of the Services are supported by advertising revenue and may display advertisements and promotions. These advertisements may be targeted to the content of information stored on the Services, queries made through the Services or other information.
+                                    <br><br>
+                                    The manner, mode and extent of advertising by this website on the Services are subject to change without specific notice to you.
+                                    <br><br>
+                                    In consideration for the website granting you access to and use of the Services, you agree that this website may place such advertising on the Services.
+                                    </p>
+                                    
+                                    <h3>Other content</h3>
+                                    <p>The Services may include hyperlinks to other websites or content or resources. The website may have no control over other websites or resources, which are provided by companies or persons other than this website.
+                                     <br><br>
+                                     You acknowledge and agree that this website is not responsible for the availability of any such external sites or resources, and does not endorse any advertising, products or other materials on or available from such web sites or resources.
+                                     <br><br>
+                                     You acknowledge and agree that this website is not liable for any loss or damage which may be incurred by you as a result of the availability of those external websites or resources, or as a result of any reliance placed by you on the completeness, accuracy or existence of any advertising, products or other materials on, or available from, such web sites or resources.
+                                    </p>
+                                    
+									<h3>Miscellaneous Privacy Policy</h3>
+									
+									<p class="bold">Children</p>
+									<p>As mentioned in our Terms &amp; Conditions, no minors are permitted to register at or use the features of www.sastasundar.com. We do not intent to sell our services and products to them, neither do we wish to collect or maintain information from anyone known to be under 18. No part of the website, www.sastasundar.com is designed to attract anyone under the age of 18. If you are a minor but still want to purchase a product, you may do so through a parent or guardian who is a member of www.sastasundar.com.
+                                    <br><br>
+                                    Protecting the privacy of children is our primary concern. Hence, we will not knowingly collect or maintain Data on our website from those who are under 18 years of age.
+                                     <br><br>
+                                     If a minor has provided us with personal information, the parent or guardian may e-mail us, and we will remove the information and unsubscribe the child from any promotional contact opportunities.
+                                    </p>
+                                    
+                                    <p class="bold">Mindfulness and compliance with company policies</p>
+                                    <p>Our e-mail distributions will be in compliance with our current Privacy Policy. You may receive information about various products, services, promotional and special offers from us via email. This also includes information about various products, medicines, promotions and special offers from other selected companies we may work with to get the best deals for our web users. We may link the data you give us about yourself with any data we have gathered (via cookies) about your use of this website, so that we can send you information about various products and services, offered on this website, which you may find interesting.</p>
+									
+									<p class="bold">Public Areas</p>
+									<p>Certain areas on our website, www.sastasundar.com allow you to publicly post feedbacks on www.sastasundar.com. When you communicate through such platforms you must understand that such information is public and may be accessible by other consumers and companies as well. In fact, the information may appear on other websites or web searches, making it easier for others to collect, read or use your information. 
+                                    <br><br>
+                                    In case you are not interested in receiving promotional e-mails and other marketing information from us, please mail us at care@sastasundar.com. We assure you that we will execute your request at the earliest.
+                                    </p>
+									
+									<h3>Jurisdiction</h3>
+									<p>The Terms, and your relationship with this website, shall be governed by the laws of India, with regard to its conflict of laws.  
+                                    <br><br>
+                                    You and this website agree to submit to the exclusive jurisdiction of the courts located in Kolkata, West Bengal, India to resolve any legal matter arising from the terms and conditions of this Privacy Policy. 
+                                    </p>
+									
+									<h3>Precautions You Can Take</h3>
+									<p>We advice that you take the following precautions to ensure the safety of your data:</p>
+									
+									<h5>Use a complex password and do not disclose it to anyone. Change it frequently and never write it down. Remember, you will be responsible for all actions taken in the name of your account.</h5>
+									
+									<h5>Keep your computer safe by using up-to-date anti-virus security software and the latest browser.</h5>
+									<h5>Be aware of increasingly common phishing mails that use your email address to contact you and ask you for personal or sensitive information. Also know that SastaSundar.com and its representatives will not send you emails asking for personal or sensitive information. So if ever asked to provide such information, you can be certain that it is not from us.</h5>
+									
+									<h3>Others</h3>
+                                    <p>You recognize and understand that there is no compulsion on you to provide us with your personal information and any and all personal information provided by you to us is with your full consent, own volition and desire to provide such personal information. You also understand that we are under no obligation to verify the source from which the personal information about you is provided to us, and they are deemed to be provided by you, unless you demonstrate to us within a period of fifteen days from the date of providing of such information to us, to our satisfaction, that the information was provided to us without your free consent.
+                                    <br><br>
+                                    We may use technology or other means to protect the service, protect our customers, or stop you from breaching this contract.  These means may include, for example, filtering to stop spam or increase security. These means may hinder or break your use of the service.
+                                    <br><br>
+                                    You understand that this website, in performing the required technical steps to provide the Services to you, may:
+                                    
+                                    <br><br>
+                                    (a) Transmit or distribute your Content over various public networks and in various media; and 
+                                    <br>
+                                    (b) Make such changes to your Content as are necessary to conform and adapt that Content to the technical requirements of connecting networks, devices, services or media. 
+                                    </p>
+                                    
+									<h3>Contact Us</h3>	
+									<p><strong>For further details or resolving queries, mail us at : <a href="mailto:care@sastasundar.com">care@sastasundar.com</a><br>
+You can also share your feedbacks with us (about our policy) at the above email ID.
+<br><br>
+Please proceed only if you accept all the conditions enumerated herein above, out of your free will and consent.</strong>
+</p>					
+								   
+								  <a href="#top" id="top-link"></a>
+								   </div>
+                                   
+                              </div>
+                  </div>
+                  <!--Right panel end-->
+                  <div class="clear"></div>
+            </div>
+            <!--body section end-->            <!--body section end-->
+            
+   
+
+
+
+
+
+
+
+<script type="text/javascript" src="http://www.sastasundar.com/public/slide/jquery.cycle.all.min.js" defer="defer" async="async"></script>
+<script type="text/javascript" src="http://www.sastasundar.com/public/slide/scripts.js" defer="defer" async="async"></script>
+
+            
+            <!--footer section start-->
+            <!-- scroll script start -->
+	<script type="text/javascript" src="http://www.sastasundar.com/public/js/crawler.js"></script>
+    <script type="text/javascript">
+							marqueeInit({
+								uniqueid: 'mycrawler',
+								style: {
+									'padding': '0px',
+									'width': '480px',
+									'background': 'none',
+									'vaign': 'top'
+								},
+								inc: 8, //speed - pixel increment for each iteration of this marquee's movement
+								mouse: 'cursor driven', //mouseover behavior ('pause' 'cursor driven' or false)
+								moveatleast: 2,
+								neutral: 150,
+								savedirection: true
+							});
+							
+function showHide(action, menu_id, link_id,pre){
+		if(action=="show"){
+			document.getElementById(menu_id).style.display="";
+			document.getElementById(link_id).className="navactive";
+		}
+		
+		if(action=="hide"){
+			//alert(pre);
+			document.getElementById(menu_id).style.display="none";
+			if(pre!="")
+			{
+				document.getElementById(link_id).className=pre;
+			}
+			else
+			{
+				document.getElementById(link_id).className="";
+			}
+		}
+	}
+							</script>
+<!-- scroll script end -->
+<div>
+            <!--Top Brands div start-->
+                    	 
+                                            
+                   <!--Social network icon panel start-->
+                   <div class="social_nw">
+                   		<div class="social_icon">
+                        	<ul>
+                            	<li><a href="https://www.facebook.com/pages/sastasundarcom/654676574577591" target="_blank" class="facebook"></a></li>
+                                <li><a href="https://twitter.com/SastaSundar" target="_blank" class="twitter"></a></li>
+                                <li><a href="https://plus.google.com/u/4/b/106264238916627411060/106264238916627411060/posts" target="_blank" class="google"></a></li>
+                                <li><a href="http://www.linkedin.com/company/sastasundar-com" target="_blank" class="in"></a></li>
+                                <li><a href="http://www.pinterest.com/sastasundar/" target="_blank" class="pinit"></a></li>
+                                <div class="clear"></div>
+                            </ul>
+                        </div>
+                        
+                        <div class="current_service">
+                        	<div class="service_area">
+                            	We are currently servicing at :
+                            </div>
+                            <div class="servicefeed">
+                            	<div class="marquee" id="mycrawler">
+                            	 <span>700001</span> (B B D Bag,Brabourne Road,Canning Street,China Bazar,Clive Row,Fairlie Place,Hemanta Basu Sarani,India Exchange Place,Lyons Range,M G Road,N S Road,Posta,Strand Road)  <span>700002</span> (All)  <span>700003</span> (All)  <span>700004</span> (All)  <span>700005</span> (All)  <span>700006</span> (All)  <span>700007</span> (Ahiritola,Burrabazar-Bastolla,Burrabazar-Burtolla,Central Avenue,Cotton Street,Dacca Patty,Girish Park,Jora Bagan,K K Tagore Street,Kalakar Street,Kankurgachi,M D Road,M G Road,Malapara,Maniktala,Mechua,Muktaram Babu Street,N S Road,Posta,Rabindra Sarani,Rajakatra,Ram Mandir,Sova Bazar)  <span>700008</span> (All)  <span>700009</span> (All)  <span>700010</span> (All)  <span>700011</span> (All)  <span>700012</span> (All)  <span>700013</span> (All)  <span>700014</span> (All)  <span>700015</span> (All)  <span>700016</span> (All)  <span>700017</span> (Azimgunge House)  <span>700018</span> (All)  <span>700019</span> (Ballygunj)  <span>700020</span> (All)  <span>700021</span> (All)  <span>700022</span> (All)  <span>700023</span> (All)  <span>700024</span> (All)  <span>700025</span> (All)  <span>700026</span> (All)  <span>700027</span> (All)  <span>700028</span> (All)  <span>700029</span> (All)  <span>700030</span> (All)  <span>700031</span> (All)  <span>700032</span> (All)  <span>700033</span> (All)  <span>700034</span> (All)  <span>700035</span> (All)  <span>700036</span> (All)  <span>700037</span> (All)  <span>700038</span> (All)  <span>700039</span> (All)  <span>700040</span> (All)  <span>700041</span> (Banerjee Para,Kudghat,Paschim Putiary,Purba Putiary)  <span>700042</span> (All)  <span>700043</span> (All)  <span>700044</span> (All)  <span>700045</span> (All)  <span>700046</span> (All)  <span>700047</span> (All)  <span>700048</span> (All)  <span>700049</span> (All)  <span>700050</span> (All)  <span>700051</span> (All)  <span>700052</span> (Anupama Housing Complex,AWHO Apartment,Club Town,Indraprasth Apartment,Kaikhali,Kendriya Vihar,Koyla Vihar,Panchavati,Poddar Valley,Space Town,Sriram Nagar,Tegharia,VIP Road)  <span>700053</span> (All)  <span>700054</span> (All)  <span>700055</span> (All)  <span>700056</span> (All)  <span>700057</span> (All)  <span>700058</span> (All)  <span>700059</span> (All)  <span>700060</span> (All)  <span>700061</span> (All)  <span>700062</span> (All)  <span>700063</span> (All)  <span>700064</span> (All)  <span>700065</span> (All)  <span>700066</span> (All)  <span>700067</span> (All)  <span>700068</span> (All)  <span>700069</span> (All)  <span>700070</span> (All)  <span>700071</span> (All)  <span>700072</span> (All)  <span>700073</span> (All)  <span>700074</span> (All)  <span>700075</span> (All)  <span>700076</span> (All)  <span>700077</span> (All)  <span>700078</span> (All)  <span>700079</span> (All)  <span>700080</span> (All)  <span>700081</span> (All)  <span>700082</span> (All)  <span>700083</span> (All)  <span>700084</span> (All)  <span>700085</span> (All)  <span>700086</span> (All)  <span>700087</span> (All)  <span>700088</span> (All)  <span>700089</span> (All)  <span>700090</span> (All)  <span>700091</span> (Baisakhi,Charnok City,City Centre,EZCC,Infinity Building,Karunamoyee,Kwality,Labony,Mishra's,PNB Crossing,Swimming Pool,Technopolics,Wipro)  <span>700092</span> (All)  <span>700093</span> (All)  <span>700094</span> (All)  <span>700095</span> (All)  <span>700096</span> (All)  <span>700097</span> (All)  <span>700098</span> (All)  <span>700099</span> (All)  <span>700100</span> (All)  <span>700101</span> (Kestopur)  <span>700102</span> (All)  <span>700103</span> (All)  <span>700104</span> (Ananda Pally,Kabardanga,Kalitala,Keorapukur Bazar,Mission,Sukanta Pally)  <span>700105</span> (All)  <span>700106</span> (All)  <span>700107</span> (All)  <span>700108</span> (All)  <span>700109</span> (All)  <span>700110</span> (All)  <span>700111</span> (All)  <span>700112</span> (All)  <span>700113</span> (All)  <span>700114</span> (All)  <span>700115</span> (All)  <span>700116</span> (All)  <span>700117</span> (All)  <span>700118</span> (All)  <span>700119</span> (All)  <span>700120</span> (All)  <span>700121</span> (All)  <span>700122</span> (All)  <span>700123</span> (All)  <span>700124</span> (All)  <span>700125</span> (All)  <span>700126</span> (All)  <span>700127</span> (All)  <span>700128</span> (All)  <span>700129</span> (All)  <span>700130</span> (All)  <span>700131</span> (All)  <span>700132</span> (All)  <span>700133</span> (All)  <span>700134</span> (All)  <span>700135</span> (All)  <span>700136</span> (All)  <span>700137</span> (All)  <span>700138</span> (All)  <span>700139</span> (All)  <span>700140</span> (All)  <span>700141</span> (All)  <span>700142</span> (All)  <span>700143</span> (All)  <span>700144</span> (Baruipur)  <span>700145</span> (All)  <span>700146</span> (All)  <span>700147</span> (All)  <span>700148</span> (All)  <span>700149</span> (All)  <span>700150</span> (All)  <span>700151</span> (All)  <span>700152</span> (All)  <span>700153</span> (All)  <span>700154</span> (All)  <span>700155</span> (All)  <span>700156</span> (All)  <span>700157</span> (All)  <span>711101</span> (Chintamani Dey Road,Dobson Road,Fazir Bazar,Howrah AC Market,Howrah Maidan,King's Road,Mullick Fatak,Rameshwar Malia Lane,Rosemary Lane,Sandhya Bazar)  <span>711102</span> (Ganges Garden,Howrah Jute Mill,Jain Hospital,Kazipara,Shibpur Tram Depot)  <span>711202</span> (Belur Bazar,Rabindra Sarani,Supai Para)  <span>711204</span> (Abhoy Guha Road,Bada Gate &amp; Chhota Gate,Girish Ghosh Road,Liluah,Liluah Don Bosco,N S Road,Rabindra Sarani,Railway Colony,RBS Colony,Shantinagar Colony)                                 </div>
+                            </div>
+                            <div class="clear"></div>
+                        </div>
+                        <div class="clear"></div>
+                   </div>
+                   <!--Social network icon panel end-->     
+                    
+                 
+                 <div class="footer">
+                 		<div class="footer_category">
+                        	  <h2>Categories</h2>
+                                                            <p><a href="http://www.sastasundar.com/index.php/category/category_landing/1">Medicines &amp; Treatments</a></p>
+                                                            <p><a href="http://www.sastasundar.com/index.php/category/category_landing/263">Vitamins &amp; Nutritional Supplements</a></p>
+                                                            <p><a href="http://www.sastasundar.com/index.php/category/category_landing/690">Ayurvedic &amp; Herbal Preparations</a></p>
+                                                            <p><a href="http://www.sastasundar.com/index.php/category/category_landing/316">Beauty &amp; Personal Care</a></p>
+                                                            <p><a href="http://www.sastasundar.com/index.php/category/category_landing/411">Home Healthcare Products</a></p>
+                                                            <p><a href="http://www.sastasundar.com/index.php/category/category_landing/503">Sexual Wellness</a></p>
+                                                            <p><a href="http://www.sastasundar.com/index.php/category/category_landing/674">Fluids &amp; Parenteral Care</a></p>
+                                                            <p><a href="http://www.sastasundar.com/index.php/category/category_landing/545">Surgical Care &amp; Orthopaedic Aids</a></p>
+                                                      </div>
+                        
+                        <div class="footer_company">
+                        	  <h2>Company Overview</h2>
+                              <p><a href="http://www.sastasundar.com/index.php/pages/view/about_us">About Us</a></p>
+                              <p><a href="http://www.sastasundar.com/index.php/user/apply_as_hb">Career Opportunities</a></p>
+                              <!--<p><a href="http://www.sastasundar.com/index.php/pages/view/social_responsibility">Social Responsibility</a></p>-->
+                              <!--<p><a href="#">Investor Relations</a></p>-->
+                              <!--<p><a href="#">Newsletters</a></p>-->
+                              <!--<p><a href="#">Our Sites</a></p>-->
+                        </div>
+                        
+                        <div class="footer_company">
+                        	  <h2>Customer Services</h2>
+                              <!--<p><a href="#">How to Order</a></p>-->
+                              <p><a href="http://www.sastasundar.com/index.php/pages/view/health_buddy">Health Buddy</a></p>
+                              <p><a href="http://www.sastasundar.com/index.php/pages/view/contactus">Contact Us</a></p>
+                              <p><a href="http://www.sastasundar.com/index.php/user/serviceable_area">Services Available - Location</a></p>
+                              <!--<p><a href="#">Site Map</a></p>-->
+                              <!--<p><a href="#">Help</a></p>-->
+                              <!--<p><a href="#">Testimonials</a></p>-->
+                        </div>
+                        
+                        <div class="footer_policies">
+                        	  <h2>Policies</h2>
+                              <p><a href="http://www.sastasundar.com/index.php/pages/view/privacy_policy">Privacy Policy</a></p>
+                              <p><a href="http://www.sastasundar.com/index.php/pages/view/disclaimer">Disclaimer</a></p>
+                              <p><a href="http://www.sastasundar.com/index.php/pages/view/faq">F.A.Q</a></p>
+                              <p><a href="http://www.sastasundar.com/index.php/pages/view/terms_condition">Terms &amp; Conditions</a></p>
+                              <!--<p><a href="#">Refund Policy</a></p>
+                              <p><a href="http://www.sastasundar.com/index.php/pages/view/reward_policy">Reward Policy</a></p>-->
+                        </div>
+                        
+                        <div class="clear"></div>
+                 </div>
+                 
+                 <div class="popular_search">
+                 	 <p>   
+					   						<span><strong>Popular Search :</strong> </span>	
+						                        
+                       <a href="http://www.sastasundar.com/index.php/product/search?searchField=DisplayName&amp;searchText=COLAX &amp;search=.&amp;searchOrder=LowHigh&amp;per_page=0&amp;SearchThroughTop=1">COLAX </a>
+                                             
+                       
+                                               ,                        <a href="http://www.sastasundar.com/index.php/product/search?searchField=MfgGroup&amp;searchText=ZYDUS&amp;search=.&amp;searchOrder=LowHigh&amp;per_page=0&amp;SearchThroughTop=1">ZYDUS</a>
+                                             
+                       
+                                               ,                        <a href="http://www.sastasundar.com/index.php/product/search?searchField=DiseaseSymptoms&amp;searchText=fever&amp;search=.&amp;searchOrder=LowHigh&amp;per_page=0&amp;SearchThroughTop=1">fever</a>
+                                             
+                       
+                                               ,                        <a href="http://www.sastasundar.com/index.php/product/search?searchField=DisplayName&amp;searchText=CALPOL &amp;search=.&amp;searchOrder=LowHigh&amp;per_page=0&amp;SearchThroughTop=1">CALPOL </a>
+                                             
+                       
+                                               ,                        <a href="http://www.sastasundar.com/index.php/product/search?searchField=DisplayName&amp;searchText=HORLICKS &amp;search=.&amp;searchOrder=LowHigh&amp;per_page=0&amp;SearchThroughTop=1">HORLICKS </a>
+                                             
+                       
+                                               ,                        <a href="http://www.sastasundar.com/index.php/product/search?searchField=MfgGroup&amp;searchText=RANBAXY LABS&amp;search=.&amp;searchOrder=LowHigh&amp;per_page=0&amp;SearchThroughTop=1">RANBAXY LABS</a>
+                                             
+                       
+                                               ,                        <a href="http://www.sastasundar.com/index.php/product/search?searchField=DisplayName&amp;searchText=VOLINI &amp;search=.&amp;searchOrder=LowHigh&amp;per_page=0&amp;SearchThroughTop=1">VOLINI </a>
+                                             
+                       
+                                               ,                        <a href="http://www.sastasundar.com/index.php/product/search?searchField=DisplayName&amp;searchText=STAMLO &amp;search=.&amp;searchOrder=LowHigh&amp;per_page=0&amp;SearchThroughTop=1">STAMLO </a>
+                                             
+                       
+                                               ,                        <a href="http://www.sastasundar.com/index.php/product/search?searchField=DisplayName&amp;searchText=ECOSPRIN &amp;search=.&amp;searchOrder=LowHigh&amp;per_page=0&amp;SearchThroughTop=1">ECOSPRIN </a>
+                                             
+                       
+                                               ,                        <a href="http://www.sastasundar.com/index.php/product/search?searchField=DiseaseSymptoms&amp;searchText=cancer&amp;search=.&amp;searchOrder=LowHigh&amp;per_page=0&amp;SearchThroughTop=1">cancer</a>
+                                             
+                       
+                                               ,                        <a href="http://www.sastasundar.com/index.php/product/search?searchField=DisplayName&amp;searchText=LEVROXA &amp;search=.&amp;searchOrder=LowHigh&amp;per_page=0&amp;SearchThroughTop=1">LEVROXA </a>
+                                             
+                       
+                                               ,                        <a href="http://www.sastasundar.com/index.php/product/search?searchField=DisplayName&amp;searchText=ROSUVAS &amp;search=.&amp;searchOrder=LowHigh&amp;per_page=0&amp;SearchThroughTop=1">ROSUVAS </a>
+                                             
+                       
+                                               ,                        <a href="http://www.sastasundar.com/index.php/product/search?searchField=DisplayName&amp;searchText=CRANPAC &amp;search=.&amp;searchOrder=LowHigh&amp;per_page=0&amp;SearchThroughTop=1">CRANPAC </a>
+                                             
+                       
+                                               ,                        <a href="http://www.sastasundar.com/index.php/product/search?searchField=DisplayName&amp;searchText=PEDIC &amp;search=.&amp;searchOrder=LowHigh&amp;per_page=0&amp;SearchThroughTop=1">PEDIC </a>
+                                             
+                       
+                                               ,                        <a href="http://www.sastasundar.com/index.php/product/search?searchField=DisplayName&amp;searchText=DERIPHYLLIN &amp;search=.&amp;searchOrder=LowHigh&amp;per_page=0&amp;SearchThroughTop=1">DERIPHYLLIN </a>
+                                             
+                       
+                                               ,                        <a href="http://www.sastasundar.com/index.php/product/search?searchField=DisplayName&amp;searchText=CLOHEX &amp;search=.&amp;searchOrder=LowHigh&amp;per_page=0&amp;SearchThroughTop=1">CLOHEX </a>
+                                             
+                       
+                                               ,                        <a href="http://www.sastasundar.com/index.php/product/search?searchField=DisplayName&amp;searchText=ROCKBON &amp;search=.&amp;searchOrder=LowHigh&amp;per_page=0&amp;SearchThroughTop=1">ROCKBON </a>
+                                             
+                       
+                                               ,                        <a href="http://www.sastasundar.com/index.php/product/search?searchField=DisplayName&amp;searchText=OVACARE &amp;search=.&amp;searchOrder=LowHigh&amp;per_page=0&amp;SearchThroughTop=1">OVACARE </a>
+                                             
+                       
+                                               ,                        <a href="http://www.sastasundar.com/index.php/product/search?searchField=DisplayName&amp;searchText=PIOMED &amp;search=.&amp;searchOrder=LowHigh&amp;per_page=0&amp;SearchThroughTop=1">PIOMED </a>
+                                             
+                       
+                                               ,                        <a href="http://www.sastasundar.com/index.php/product/search?searchField=DisplayName&amp;searchText=RAZO &amp;search=.&amp;searchOrder=LowHigh&amp;per_page=0&amp;SearchThroughTop=1">RAZO </a>
+                                             
+                       
+                       <br><br>
+<span><strong>SastaSundar.com</strong> offers a wide range of high quality products including medicines, vitamins &amp; food supplements, nutritious food products, beauty products, ayurvedic and herbal preparations, sexual wellness products and orthopaedic &amp; surgical kits at low cost. Place your orders at SastaSundar.com and get the products delivered at your doorstep.  Keep a track of your medical records and avail numerous other benefits at our innovative digital pharmacy and healthcare store!</span>
+
+
+<br><span id="liveadmin" style="display:none;"></span>
+</p>
+                 </div>
+                 
+                 <div class="copyright">
+                 	  <p class="copytext">© Copyright 2013 <span>SastaSundar.com</span> All rights reserved.</p>
+
+
+                      <p class="callus">Call us @ <span>033 3080 3080</span></p>
+                      <!-- <p class="powered">Powered by <a href="http://www.wdc.in" target="_blank">WDC</a></p> -->
+                      <div class="clear"></div>
+                 </div>
+            </div>
+            </div>
+
+</div>
+
+<div style="position:relative; width:100%; ">
+<div style="position:absolute; bottom:0;width:100%">
+<div class="wowbar_outer">
+	 
+     <div class="wowbar" id="bb">
+     	  <p style="padding:4px 42px 0px 10px; float:left"><img src="http://www.sastasundar.com/public/images/wowshop.gif" alt=""></p>
+          <span>Free Home Delivery *</span>
+          <span>Incredible offers</span>
+          <span>Customer support</span>          
+          <!--<a href="javascript:void(0)" onclick="Live_8aed108f66b7876e92ddf8a64e061b00_Admin.StartChatPanel();" class="chat">Online Chat</a>-->
+          <a href="javascript:void(0)" onclick="Live_8aed108f66b7876e92ddf8a64e061b00_Admin.StartChatPanel();">Online Chat</a>
+     </div>
+     <div class="wowbar_button"><div style="margin:6px 0px 0px 0px; float:right; padding-right:15px;"><div class="wowbutton" id="aa"></div></div></div>
+     <div class="clear"></div>
+</div>
+</div>
+</div>
+<!--<script type="text/javascript" src="http://www.sastasundar.com/public/Carousel/jquery.jcarousel.min.js"></script>
+<link rel="stylesheet" type="text/css" href="http://www.sastasundar.com/public/Carousel/scroll.css" />
+<script type="text/javascript">
+
+jQuery(document).ready(function() {
+    jQuery('.jcarousel-skin-tango,.jcarousel-skin-tango2').jcarousel({
+    	wrap: 'circular',
+		auto: true
+    });
+	
+});
+
+</script>-->
+<script type="text/javascript">
+ $(document).ready(function() {
+	 
+	 
+	$('.reload_captcha').click(function(){
+		$.ajax({
+			type: 'POST',
+			dataType: 'json' ,
+			async: false ,
+			url : 'http://www.sastasundar.com/index.php/user/reload_captcha',
+			success: function(arr){
+				var JSONObject = arr;
+				
+				var capImage = JSONObject.image;
+				var capWord  = JSONObject.word;				
+				$('#CaptchaWord').val(capWord);
+				$('.captchaHolder').html(capImage);
+			}
+		});
+		return false;	
+	});
+	 
+	 
+$('.wowbutton').show();
+$("#aa").click(function(){
+	//$("#bb").animate({left:'toggle'},150);
+  //$("#bb").animate({width:'toggle'},350);
+  if($('#aa').hasClass('wowbutton')){
+	  
+	  var img_width = $('.wowbar p').outerWidth(); 
+	  var full_width = $('.wowbar').width();
+	  
+	  var movement_width = (parseInt(full_width) - parseInt(img_width));
+	 //alert(movement_width);
+	  
+	  $("#bb").animate({
+			marginLeft: movement_width+'px',
+			width: img_width+'px'
+			//height: 'toggle'
+		  }, 500, function() {
+			// Animation complete.
+			$('#aa').removeClass('wowbutton').addClass('wowbutton_active');
+		  });
+	  
+	}else{
+		$("#bb").animate({
+			marginLeft: '0%',
+			width: '96%'
+			//height: 'toggle'
+		  }, 500, function() {
+			// Animation complete.
+			$('#aa').removeClass('wowbutton_active').addClass('wowbutton');
+		  });
+	}
+  
+});
+
+
+$('.city_dp').keyup(function(){
+	if($('.state_city_dp').val() != ""){
+	
+		if($(this).val().length > 2){
+			$('#CitySuggestions').remove();
+			$.ajax({
+				type : 'POST',
+				url : 'http://www.sastasundar.com/index.php/user/city_autosuggest',
+				data : 'state='+$('.state_city_dp').val()+'&city='+$(this).val(),
+				success : function(msg){
+					//alert(msg)
+					$('.city_dp').after(msg);
+				}
+			})
+		}
+	}else{
+		alert('Please selet a state first');
+		$('.state_city_dp').focus();
+	}
+}).blur(function(){
+	remove_listTop();
+});
+
+
+
+});
+function FillCity(thisValue) {
+	$('.city_dp').val(thisValue);
+	setTimeout("$('.CitySuggestion').fadeOut();", 600);
+}		
+
+function remove_listTop(){		
+	setTimeout("$('.CitySuggestion').fadeOut();", 5);
+}
+</script>
+<script type="text/javascript">
+	$(document).ready(function(){	
+
+		if (!$.browser.opera) {
+    
+			// select element styling
+			$('select.select').each(function(){
+				var title = $(this).attr('title');
+				if( $('option:selected', this).val() != ''  ) title = $('option:selected',this).text();
+				$(this)
+					.css({'z-index':10,'opacity':0,'-khtml-appearance':'none'})
+					.after('<span class="select">' + title + '</span>')
+					.change(function(){
+						val = $('option:selected',this).text();
+						$(this).next().text(val);
+						})
+			});
+
+		};
+		
+		$('.WebRupee').html('`');
+		
+	});
+</script>
+<style type="text/css">
+.suggestionsBox .suggestionsBox {
+	background-color: #FFF;
+    color: #6c7a80;
+    left: 0;
+    margin: 0 0 0 12px;
+    position: absolute;
+    top: 33px;
+    width: 227px;
+    z-index: 999;
+	border:1px solid #b0b0b0;
+	border-top:none;
+	border-bottom:none;
+}
+
+.suggestionsBox .suggestionList {
+	margin: 0px;
+	padding: 0px;
+	position:absolute;
+	z-index:11;
+	border-left:1px solid #b0b0b0;
+	border-right:1px solid #b0b0b0;
+	width:278px;
+	
+}
+.suggestionsBox .suggestionList ul {
+	background:#fff;display:block;
+	width:100%; /*width:225px;*/ margin: 0px; padding: 0px;
+}
+
+.suggestionsBox .suggestionList ul li {
+	list-style:none;
+	margin: 0px;
+	padding: 4px;
+	border-bottom:1px solid #b0b0b0;
+	cursor: pointer;
+	color: #6c7a80;
+	font-size:11px;
+}
+.suggestionsBox .suggestionList ul li:hover {
+	background-color: #ccc;
+	color:#000;
+}
+
+.load{
+background-image:url(loader.gif);
+background-position:right;
+background-repeat:no-repeat;
+}
+
+#suggest {
+	position:relative;
+}
+
+
+</style>
+<script type="text/javascript">
+	
+	$(document).ready(function(){
+		$('.fs_tab').live("click",function(){
+			var div_id = $(this).attr('div_id');
+			var div_width = $("#floating_holder").outerWidth();
+			var div_right = $("#floating_holder").css('right');
+			
+			
+			if(div_right != "0px"){
+				$('.fs_tab_div').css('visibility','hidden').hide();
+				jQuery("#floating_holder").animate({right:"0px"});
+				$('#'+div_id).css('visibility','visible').show();
+				
+				
+			}else{	
+				$('.fs_tab_div').hide();
+				jQuery("#floating_holder").animate({right:"0px"});
+				$('#'+div_id).show().css('visibility','visible')		
+				//jQuery("#floating_holder").animate({right:"-402px"});	
+			}
+			return false;
+		})
+		jQuery(".feedback_CloseImg").click(function(){				
+				jQuery("#floating_holder").animate({right:"-402px"});	
+				return false;
+			}
+		);
+	});
+	
+	$(document).ready(function(){
+		
+	$('#validate_form').live("submit",function(){
+		var error = 0;
+		$('.js_error').remove();
+		$('.helptext').remove();
+		
+		var name = $('#feedback_name').val();
+		var email = $('#feedback_email').val();
+		var subject = $('#feedback_subject').val();
+		var message = $('#feedback_message').val();
+			
+		if(message == "" || name =="" || email =="" || subject ==""){
+			$('.fd').prepend('<div class="js_msg form_err_msg">Please fill all the fields.</div>');	
+		}else{
+			
+			
+			
+			$.ajax({
+					type : 'POST',
+					url  : 'http://www.sastasundar.com/index.php/user/feedback',
+					async : false,
+					data  : 'name='+name+"&email="+email+"&subject="+subject+"&message="+message,
+					success : function(msg){
+						if($.trim(msg) != "success" ){
+							$('.fd').html('<p class="fd_sp_success">Thank you for your valued feedback. Your ideas and suggestions encourage us to make further improvements. So, keep writing to us.</p>');
+							$('#feedback_name').val('');
+							$('#feedback_email').val('');
+							$('#feedback_subject').val('');
+							$('#feedback_message').val('');
+							
+						}else{
+							$('.fd').prepend('<div class="js_msg">Please try again.</div>');	
+						}
+					}
+				})
+			
+		}
+		return false;	
+	
+		
+	})
+	});
+	
+</script>
+<div id="floating_holder">
+<div class="floating_holder_inner">
+<div style="width:48px;" class="relative">
+<a href="#" class="pull_feedback fs_tab" div_id="feedback" title="Click to leave feedback"></a>
+<a href="#" class="pull_product fs_tab" div_id="suggest_product" title="Click to suggest a product"></a>
+<div class="clear"></div>
+</div>
+<div id="feedback" class="fs_tab_div">
+		
+        <span class="feedback_CloseImg" title="Close"></span>
+		
+        <h2>We expect<br> <span>your opinion</span></h2>
+                
+        <form id="validate_form" method="post">
+        <div class="fd" style="min-height:265px;">
+        <table border="0" cellspacing="0" cellpadding="2" width="349" class="no_color">
+          <tbody><tr>
+            <td valign="top"><label>Name</label></td>
+            <td align="left"><input type="text" field_required="yes" class="entercode_textbox" id="feedback_name" title="Name" value=""></td>
+          </tr>
+          <tr>
+            <td valign="top"><label>Email</label></td>
+            <td align="left"><input type="text" field_required="yes" email_validate="yes" class="entercode_textbox" title="Email" id="feedback_email" value=""></td>
+          </tr>
+          <tr>
+            <td valign="top"><label>Subject</label></td>
+            <td align="left"><input type="text" field_required="yes" class="entercode_textbox" id="feedback_subject" title="Subject"></td>
+          </tr>
+          <tr>
+            <td valign="top"><label>Message</label></td>
+            <td align="left"><textarea rows="4" class="textarea" field_required="yes" id="feedback_message" title="Message"></textarea></td>
+          </tr>
+          <!--<tr>
+            <td valign="top"><label>Suggest a product (optional)</label></td>
+            <td align="left"><input type="text" class="textbox" name="suggest_a_product" id="suggest_a_product" /></td>
+          </tr>-->
+          <tr>
+            <td>&nbsp;</td>
+            <td align="left" style="padding-top:5px"><input type="submit" value="Send" id="send_feedback" class="login_button" style="margin-left:-1px"></td>
+          </tr>
+        </tbody></table>
+        </div>
+		</form>
+		<div class="clear"></div>
+    	</div>
+        <div class="clear"></div>
+</div>
+<div id="suggest_product" class="fs_tab_div">
+		
+        <span class="feedback_CloseImg" title="Close"></span>
+        <h2>Request a Product<span></span></h2>
+                <div class="sp">
+        <form id="validate_form" method="post">
+        <div class="inner_sp" style="min-height:220px;">
+        <table border="0" cellspacing="0" cellpadding="2" width="349" class="no_color">
+          <tbody><tr>
+            <td width="139" valign="top"><label>Product</label></td>
+            <td width="202" align="left"><input type="text" class="textbox" id="S_Product" value=""></td>
+          </tr>
+          <tr>
+            <td valign="top"><label>Name</label></td>
+            <td align="left"><input type="text" class="textbox" id="S_Name" value=""></td>
+          </tr>
+          <tr>
+            <td valign="top"><label>Email</label></td>
+            <td align="left"><input type="text" class="textbox" id="S_Email" value=""></td>
+          </tr>
+          <tr>
+            <td valign="top"><label>Phone</label></td>
+            <td align="left"><input type="text" class="textbox" id="S_Mobile" maxlength="10" value=""></td>
+          </tr>
+          <tr>
+            <td width="139" valign="top"><label>Comment</label></td>
+            <td width="202" align="left"><textarea name="S_Comment" id="S_Comment" class="textarea"></textarea></td>
+          </tr>
+          <!--<tr>
+            <td valign="top"><label>Suggest a product (optional)</label></td>
+            <td align="left"><input type="text" class="textbox" name="suggest_a_product" id="suggest_a_product" /></td>
+          </tr>-->
+          <tr>
+            <td>&nbsp;</td>
+            <td align="left" style="padding-top:5px"><input type="submit" value="Send" id="suggest_product_btn" class="login_button" style="margin-left:-1px"></td>
+          </tr>
+        </tbody></table>
+        </div>
+		</form>
+        <div class="clear"></div>
+        </div>
+		<div class="clear"></div>
+</div>
+<div class="clear"></div>
+</div>
+
+
+
+
+
+
+
+<!-------------------------------------------------------------------------------------------------------------------->
+
+<script type="text/javascript">
+	
+	
+	$(document).ready(function(){
+		
+		$('#suggest_product_btn').live("click",function(){
+			
+			$('.js_msg').remove();
+			
+			var product = $('#S_Product').val();
+			var comment = $('#S_Comment').val();
+			var name 	= $('#S_Name').val();
+			var email 	= $('#S_Email').val();
+			var contact = $('#S_Mobile').val();
+			
+			var regMail = /^([_a-zA-Z0-9-]+)(\.[_a-zA-Z0-9-]+)*@([a-zA-Z0-9-]+\.)+([a-zA-Z]{2,3})$/;			
+			if(product == "" || name =="" || email =="" || contact ==""){
+				$('.sp').prepend('<div class="js_msg form_err_msg">Please fill all the fields.</div>');	
+			}else{
+			
+				if(regMail.test(email) == false){ 
+					$('.sp').prepend('<div class="js_msg form_err_msg">Please enter a proper email id.</div>');	
+				}else{
+					$.ajax({
+						type : 'POST',
+						url  : 'http://www.sastasundar.com/index.php/user/add_medicine',
+						data : 'product='+product+'&name='+name+'&email='+email+'&contact='+contact+"&comment="+comment,
+						success: function(msg){
+							//alert(msg);
+							if(msg == "success"){
+								$('.js_msg').remove();
+								//$('.sp').prepend('<div class="js_msg" style="background:#D7ECDA;border:1px solid #68B771;color:#38A244; padding:5px;">Your request message has been succesfully sent to the admin.</div>');
+								$('.inner_sp').html('<div class="fd_sp_success">Thanks for your suggestion. We will get back to you within 24 hours.</div>');								
+							}else{
+								$('.sp').prepend('<div class="js_msg">Please try again.</div>');	
+							}
+						}
+						})
+				}
+			}
+			
+		
+		return false;	
+	
+	});
+	
+	});
+	
+</script>
+
+      		<!--footer section end-->
+            
+
+
+
+
+</body></html>
