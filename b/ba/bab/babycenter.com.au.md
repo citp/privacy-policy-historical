@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the babycenter.com.au privacy policy that was archived on 2013-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130512172155id_/http%3A//www.babycenter.com.au/e7814/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the babycenter.com.au privacy policy that was archived on 2013-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131103002658id_/http%3A//www.babycenter.com.au/e7814/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - BabyCenter
 
