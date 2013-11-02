@@ -1,8 +1,11 @@
-> *The following text is extracted and transformed from the montagetalent.com privacy policy that was archived on 2012-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120512105208id_/http%3A//info.montagetalent.com/website-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the montagetalent.com privacy policy that was archived on 2013-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131102010809id_/http%3A//info.montagetalent.com/website-privacy-policy) for the most accurate reproduction.*
 
 # Website Privacy Policy
 
-Welcome to Montage.  We are committed to protecting your privacy.  We have adopted this Privacy Policy (“Policy”) to memorialize our data collection and disclosure practices for our website (the “Site”).  Montage voluntarily complies with the European Union – United States Safe Harbor Principles, and we invite you to review our Safe Harbor Privacy Statement below.
+**  
+Website Privacy Policy**
+
+Welcome to Montage Talent. We are committed to protecting your privacy. We have adopted this Privacy Policy ("Policy") to memorialize our data collection and disclosure practices for our website and service offerings (the "Services"). Montage voluntarily complies with the United States – European Union and the United States – Switzerland Safe Harbor Privacy Principles, and we invite you to review our Safe Harbor Privacy Statement below. 
 
 **Consent**
 
@@ -10,7 +13,7 @@ By using the Site, you consent to this Policy.  If you do not agree with this P
 
 **Collection of Information**
 
-We collect personally identifiable information in connection with the Site.  The types of personal information collected may include your name, user name, address, email address, phone number, IP address, use and browser information as examples.  We may also collect non-personal and anonymous information to be used in an aggregate fashion.  For example, we may collect your system-related information to be used for system administration purposes, to help diagnose problems, to monitor traffic patterns, to determine which services are used most frequently and to assess site usage.  We may retain information we gather about you indefinitely unless otherwise required by applicable law. 
+We collect personally identifiable information in connection with the Site.  The types of personal information collected may include your name, user name, address, email address, phone number, IP address, use and browser information as examples. We track conversions using Google site stats.We may also collect non-personal and anonymous information to be used in an aggregate fashion.  For example, we may collect your system-related information to be used for system administration purposes, to help diagnose problems, to monitor traffic patterns, to determine which services are used most frequently and to assess site usage.  We may retain information we gather about you indefinitely unless otherwise required by applicable law. 
 
 The Site may contain links to third party sites.  We are not responsible for the privacy policies, practices, or content of sites owned by others that you may link to or that may be linked from the Site.  We encourage you to review the privacy policies and terms and conditions of those sites so that you understand how those sites collect, use, and share your information.  This Policy applies solely to the information that we collect from our Site. 
 
@@ -41,56 +44,37 @@ We do not knowingly or specifically collect personal information from users unde
 
 We reserve the right to change this Policy at any time.  In particular, we may modify this Policy to reflect changes in the way we collect, use, or disclose information, or to reflect changes in privacy laws, regulations, and/or industry standards.  We encourage you to review this Policy when accessing the Site.  Continued use of the Site following changes indicates your acceptance of the changes. 
 
-Applicable Law
+**Applicable Law**  
+This Policy shall be governed by the laws of the State of Wisconsin, USA, without regard to conflicts of law principles, and exclusive jurisdiction and venue for any dispute arising out of this Policy shall be the state courts or federal courts located in Wisconsin unless an alternate venue is provided for under the Safe Harbor Privacy Principles to which we have agreed with respect to matters covered by the Safe Harbor Privacy Principles.
 
-This Policy shall be governed by the laws of the State of Wisconsin, USA, without regard to conflicts of law principles, and exclusive jurisdiction and venue for any dispute arising out of this Policy shall be the state courts or federal courts located in Wisconsin unless an alternate venue is provided for under the Safe Harbor Principles to which we have agreed with respect to matters covered by the Safe Harbor Principles.
+**Safe Harbor Privacy Statement**  
+Montage complies with the U.S. –EU safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use and retention of personal information from European Union member countries and Switzerland.  Montage has certified that it adheres to the Safe harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement.  To learn more about the Safe harbor program, and to view Montage’s certification, please visit <http://www.export.gov/safeharbor/>[ ](http://www.export.gov/safeharbor/ "http://www.export.gov/safeharbor/ ")
 
-EU-US Safe Harbor Privacy Statement
+As to all such personal information Montage receives from the European Economic Area and Switzerland, these are our promises to you:
 
-For personal information that Montage receives from the European Economic Area, we are committed to handling such personal information in accordance with the European Union Safe Harbor Principles.  For more information about the Safe Harbor Principles, please visit the U.S. Department of Commerce’s website at [**http://export.gov/safeharbor**](http://export.gov/safeharbor).  As to all such personal information, these are our promises to you:
-
-  * _Notice_.  When we collect your personal information, we’ll give you timely and appropriate notice describing what personal information we’re colleting, how we’ll use it, and the types of third parties with whom we may share it.
-
-
-  * _Choice_.  We’ll give you choices about the ways we use and share your personal information, and we’ll respect the choices you make.
-
-
-  * _Relevance_.  We’ll collect only as much personal information as we need for specific, identified purposes, and we won’t use it for other purposes without obtaining your consent.
-
-
-  * _Retention_.  We’ll keep your personal information only as long as we need it for the purposes for which we collected it, or as permitted by law.
-
-
-  * _Accuracy_.  We’ll take appropriate steps to make sure the personal information in our records is accurate.
-
-
-  * _Access_.  We’ll provide ways for you to access your personal information, as required by law, so you can correct inaccuracies or provide ways for you to contact us so that we can correct any inaccuracies.
-
-
-  * _Security_.  We’ll take appropriate physical, technical, and organizational measures to protect personal information from loss, misuse, unauthorized access or disclosure, alteration or destruction.
-
-
-  * _Sharing_.  Except as described in this Policy, we won’t share your personal information with third parties without your consent.
-
-
-  * _International Transfer_.  If we transfer your personal information to another country, we’ll take appropriate measures to protect your privacy and the personal information we transfer.
-
-
-  * _Enforcement_.  We’ll regularly review how we’re meeting these privacy promises, and we’ll provide an independent way to resolve complaints about our privacy practices.
+  * _Notice._ When we collect your personal information, we'll give you timely and appropriate notice describing what personal information we're colleting, how we'll use it, and the types of third parties with whom we may share it.
+  * _Choice._ We'll give you choices about the ways we use and share your personal information, and we'll respect the choices you make.
+  * _Relevance._ We'll collect only as much personal information as we need for specific, identified purposes, and we won't use it for other purposes without obtaining your consent.
+  * _Retention._ We'll keep your personal information only as long as we need it for the purposes for which we collected it, or as permitted by law.
+  * _Accuracy._ We'll take appropriate steps to make sure the personal information in our records is accurate.
+  * _Access._ We'll provide ways for you to access your personal information, as required by law, so you can correct inaccuracies.
+  * _Security._ We'll take appropriate physical, technical, and organizational measures to protect personal information from loss, misuse, unauthorized access or disclosure, alteration or destruction.
+  * _Sharing._ Except as described in this Policy, we won't share your personal information with third parties without your consent.
+  * _International Transfer._ If we transfer your personal information to another country, we'll take appropriate measures to protect your privacy and the personal information we transfer.
+  * _Enforcement._ We'll regularly review how we're meeting these privacy promises, and we'll provide an independent way to resolve complaints about our privacy practices. 
 
 
 
-U.S.-Swiss Safe Harbor
+Contact Information
 
-Montage complies with the U.S. –EU safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use and retention of personal information from European Union member countries and Switzerland.  Montage has certified that it adheres to the Safe harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement.  To learn more about the Safe harbor program, and to view Montage’s certification, please visit http://www.export.gov/safeharbor/
+To access your information, ask questions about our privacy practices, or to submit a complaint, please contact us at:
 
-Contact Information  
-To access your information, ask questions about our privacy practices, or to submit a complaint, please contact us at:   
 Montage Talent, Inc.  
 514 Wells Street, Suite C  
 Delafield, WI 53018  
 Phone:  262.264.5964  
-Fax: 262.303.4189  
+Fax: 262.303.4189
+
 Email: [privacy@montagetalent.com.com](mailto:privacy@montagetalent.com.com)
 
-Effective Date:  September 14, 2011
+Effective Date: Feburary 5, 2013
