@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the abdn.ac.uk privacy policy that was archived on 2013-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130629162631id_/http%3A//www.abdn.ac.uk/site-information/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the abdn.ac.uk privacy policy that was archived on 2013-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131102091740id_/http%3A//www.abdn.ac.uk/site-information/privacy.php) for the most accurate reproduction.*
 
 # University of Aberdeen Website: Privacy Policy and Disclaimer | The University of Aberdeen
 
