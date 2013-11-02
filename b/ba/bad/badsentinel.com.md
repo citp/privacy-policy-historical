@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the badsentinel.com privacy policy that was archived on 2013-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130503031515id_/http%3A//badsentinel.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the badsentinel.com privacy policy that was archived on 2013-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131102203109id_/http%3A//badsentinel.com/privacy-policy) for the most accurate reproduction.*
 
-# badSENTINEL » Privacy Policy
+# Privacy Policy - badSENTINEL
 
 **Privacy  Policy**
 
