@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the wiziq.com privacy policy that was archived on 2013-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130512021544id_/http%3A//www.wiziq.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wiziq.com privacy policy that was archived on 2013-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131102051641id_/http%3A//www.wiziq.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Your privacy is our top concern
 
-Last revised on November 29, 2012
+Last revised on July 24, 2013
 
 Introduction 
 
@@ -31,10 +31,10 @@ Notice of all changes that materially affect ways in which your personally ident
 1\. Personal information collection
 
 **Registration:**  
-In order to become a WizIQ user, you must first create an account on this web site. To create an account you are required to provide the general contact information like name, email address, and choose a password.
+In order to become a WizIQ user, you must first create an account on this web site. To create an account you are required to provide the general contact information like name, email address, and choose a password. 
 
 **Profile Information:**  
-We collect your personal details to maintain your user account on WizIQ. Your profile includes general details like your address information, contact phone numbers, and alternate email address. We give you full autonomy to keep this information private or public. These particulars help us maintain your up to date contact information on our records and to serve you better.
+We collect your personal details to maintain your user account on WizIQ. Your profile includes general details like your address information, contact phone numbers, and alternate email address. We give you full autonomy to keep this information private or public. These particulars help us maintain your up to date contact information on our records and to serve you better. 
 
 **Cookies & Log Files:**
 
@@ -51,7 +51,7 @@ WizIQ is an online service dedicated to helping all learners and teachers to con
 **WizIQ Communications:**  
 WizIQ will communicate with you through email and notices posted on WizIQ website. This includes a series of welcome emails (up to 5) that inform new users about various features of the service. Please be aware that you will always receive emails from WizIQ concerning the proper functioning of your account such as email notices when another user in your network sends you an opportunity. WizIQ may send you promotional information unless you have opted out of receiving such information. If you wish to opt-out of receiving promotional emails, please send a request to [support@wiziq.com.](mailto:support@wiziq.com)
 
-**SMS Alerts:**  
+**SMS Alerts:**   
 WizIQ may send you text message on your mobile phone in relation to your activity on WizIQ. By verifying your mobile number on WizIQ, you agree to receive messages from WizIQ on your mobile phone. 
 
 **Customized Content:**
@@ -71,10 +71,10 @@ WizIQ offers a “web profile” feature which allows users to publish portions 
 We may provide aggregated data about the usage of our services to third-parties for such purposes as we deem, in our sole discretion, to be appropriate. We may segment our users by role (i.e. students, adult learner), subject, geographic location, or by company. If you would like to be excluded from the aggregated research or products based upon aggregated data about our users’ activities on the site, please email WizIQ’s customer service.
 
 **Partnering with Other Organizations to Offer Combined Services:**  
-WizIQ partners with other online services to give you the combined results of both services. Whenever we offer such combined services, it will always be your choice to make use of the combined services or not. In these cases, your personally identifiable information will only be passed from WizIQ to our partner if you choose to use the combined service.
+WizIQ partners with other online services to give you the combined results of both services. Whenever we offer such combined services, it will always be your choice to make use of the combined services or not. In these cases, your personally identifiable information will only be passed from WizIQ to our partner if you choose to use the combined service. 
 
 **Communications between Users:**  
-Many emails you initiate through WizIQ, will list your email address and name in the header of the message. Other communications that you initiate through the WizIQ website, like a request for teacher, will list your name as the initiator but will not include your personal contact information. Your contact information will only be shared with another user if both of you have indicated your interest to establish contact with each other.
+Many emails you initiate through WizIQ, will list your email address and name in the header of the message. Other communications that you initiate through the WizIQ website, like a request for teacher, will list your name as the initiator but will not include your personal contact information. Your contact information will only be shared with another user if both of you have indicated your interest to establish contact with each other. 
 
 4\. Legal Disclaimer:
 
@@ -82,7 +82,7 @@ It is possible that we may need to disclose personal information when required b
 
 5\. Accessing and Changing Your Account Information
 
-You can review the personal information you provided us and make any desired changes to the information, or to the settings for your WizIQ account any time by logging into your account on the WizIQ website and editing the information on your Profile page. You can also close your account on the WizIQ website. If you close your WizIQ account, we will remove your name and other personally identifiable information from our publicly viewable data. We may retain certain data contributed by you if it may be necessary to prevent fraud or future abuse, or for legitimate business purposes, such as analysis of aggregated, non-personally-identifiable data, account recovery, or if required by law. All retained data will continue to be subject to the terms of the WizIQ Privacy Policy that you have previously agreed to. To request that we close your account and remove your information from the WizIQ service, please send your request to [support@wiziq.com](mailto:support@wiziq.com). Please send your request using an email account that you have registered with WizIQ under your name. You will receive a response to requests sent to [support@wiziq.com](mailto:support@wiziq.com) within three business days of our receiving it.
+You can review the personal information you provided us and make any desired changes to the information, or to the settings for your WizIQ account any time by logging into your account on the WizIQ website and editing the information on your Profile page. You can also close your account on the WizIQ website. If you close your WizIQ account, we will remove your name and other personally identifiable information from our publicly viewable data. We may retain certain data contributed by you if it may be necessary to prevent fraud or future abuse, or for legitimate business purposes, such as analysis of aggregated, non-personally-identifiable data, account recovery, or if required by law. All retained data will continue to be subject to the terms of the WizIQ Privacy Policy that you have previously agreed to. To request that we close your account and remove your information from the WizIQ service, please send your request to [support@wiziq.com](mailto:support@wiziq.com). Please send your request using an email account that you have registered with WizIQ under your name. You will receive a response to requests sent to [support@wiziq.com](mailto:support@wiziq.com) within three business days of our receiving it. 
 
 6\. Security
 
@@ -91,15 +91,25 @@ All private information like your address or credit card number can be accessed 
 7\. Important information
 
 **Changes to this Privacy Policy:**  
-WizIQ may update this privacy policy. In the event there are significant changes in the way we process your personally identifiable information, we will display a notice on this site. Unless stated otherwise, our current Privacy Policy applies to all information that we have about you and your account.
+WizIQ may update this privacy policy. In the event there are significant changes in the way we process your personally identifiable information, we will display a notice on this site. Unless stated otherwise, our current Privacy Policy applies to all information that we have about you and your account. 
 
 **Children:**  
-Children can only use our services under the supervision of their parents/legal guardians and we always suggest minors (under the age of 13) not to submit any personal information to us or use the service.
+Children can only use our services under the supervision of their parents/legal guardians and we always suggest minors (under the age of 13) not to submit any personal information to us or use the service. 
 
-8\. How to Contact us
+8\. Contact Information
 
-If you have questions or comments about this privacy policy, please email us at [support@wiziq.com](mailto:support@wiziq.com) or contact us at: [www.WizIQ.com](http://www.wiziq.com/)
+If you have any questions about the Privacy Policy, contact us at: 
 
-WizIQ Inc., 2 On The Common,  
-PO Box 36, Royalston, MA - 01368  
-Ph. +1-919-647-4727 | Fax: +1.919.882.9917
+**WizIQ Inc.**   
+2 On The Common  
+P O Box 36   
+Royalston, MA - 01368   
+U.S.A.  
+Phone: +1-919-647-4734│Fax: +91-988-299-17 **authorGEN Technologies Pvt. Ltd.**   
+C-133, Second Floor   
+Industrial Area, Phase – VIII   
+Mohali, Punjab – 160071   
+India   
+Phone: +91-921-649-4947 / +91-869-909-4948 │Fax: +91-988-299-17 
+
+Email: [support@wiziq.com](mailto:support@wiziq.com)Website: [www.wiziq.com](http://www.wiziq.com/)
