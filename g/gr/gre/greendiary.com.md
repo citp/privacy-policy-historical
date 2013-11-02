@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the greendiary.com privacy policy that was archived on 2013-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130520205837id_/http%3A//www.greendiary.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greendiary.com privacy policy that was archived on 2013-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131102123436id_/http%3A//www.greendiary.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Greendiary : Greendiary – Let's go green and save the environment for a sustainable future
+# Privacy Policy – Greendiary : Greendiary – Let's go green and save the environment for a sustainable future
 
 Instamedia (“Instamedia,” “we,” “us”) is concerned about online privacy issues and wants you to be familiar with how we collect, use and disclose your personally identifiable information. This Privacy Policy (the “Policy”) describes our practices in connection with personally identifiable information that we collect through our website located at www.Instamedia.com (the “Site”). This Policy does not govern our collection of information through any web site, or by any other means, other than through the Site, nor does this Policy govern the collection of information by any of our affiliates (collectively, “Affiliated Entities”).
 
