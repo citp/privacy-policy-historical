@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the magicfinds.com privacy policy that was archived on 2013-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130430171057id_/http%3A//magicfinds.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the magicfinds.com privacy policy that was archived on 2013-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131102095140id_/http%3A//magicfinds.com/privacy.php) for the most accurate reproduction.*
 
-# MagicFinds.Com
+# MagicFinds.com
 
 **Client Information Collection and Use** MagicFinds.com is the sole owner of the information collected on this website. We will not sell, share, or rent this information to any third parties in ways different from what is disclosed in this statement. MagicFinds.com collects information from its Advertisers and Traffic Partners (the "Clients") as well as from Internet users who initiate keyword searches from sites operated by our Traffic Partners (the "Internet Users") at several different points on our website.
 
