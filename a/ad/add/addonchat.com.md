@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the addonchat.com privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502211557id_/http%3A//www.addonchat.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the addonchat.com privacy policy that was archived on 2013-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131102032419id_/http%3A//www.addonchat.com/privacy.html) for the most accurate reproduction.*
 
 # addonInteractive - Privacy Policy
 
