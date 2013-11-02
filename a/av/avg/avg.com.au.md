@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the avg.com.au privacy policy that was archived on 2013-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130522094837id_/https%3A//www.avg.com.au/site/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the avg.com.au privacy policy that was archived on 2013-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131102064903id_/https%3A//www.avg.com.au/site/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | AVG Australia & New Zealand
 
@@ -78,5 +78,3 @@ AVG appreciates you informing us if you have reason to believe that personal inf
 ## Privacy Officer Contact Details
 
 Should you have any queries in relation to the above or require further information regarding AVG's collection, use and storage of your personal information please do not hesitate to contact our Privacy Officer at:
-
-> 
