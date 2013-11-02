@@ -1,0 +1,28 @@
+> *The following text is extracted and transformed from the survey-z.com privacy policy that was archived on 2013-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131102110320id_/http%3A//survey-z.com/privacy.php) for the most accurate reproduction.*
+
+# Survey-Z.Com (Paid Surveys)
+
+What Our Privacy Policy Covers  
+Please read this privacy policy to learn more about:  
+1\. What personally identifiable information of yours is collected by Survey-Z.com (“Survey-Z”) or by third-party advertisers (together, the “Third-Parties” or individually a “Third-Party” );  
+2\. How the information is used;  
+3\. How you can access and change your account information;  
+4\. How you will receive notice of changes in this privacy policy; and  
+5\. How to contact Survey-Z.  
+Information Collected by Survey-Z  
+To become a member of Survey-Z, you must join and create an account on the Survey-Z website. The only information that Survey-Z collects is the information you provide through the Survey-Z registration process, and the information you provide when you update your payment options. This information includes your first and last name, your email address, your Internet Protocol Address (“IP address”), and other contact information. Your IP address is recorded when you register, so that Survey-Z can enforce its one account per person policy and other provisions of our Terms of Service.  
+Other information, that does not personally identify you as an individual, is collected by Survey-Z from the website (such as, by way of example, patterns of utilization), and it is exclusively owned by Survey-Z. This information can be utilized by Survey-Z in such manner as Survey-Z, in its sole discretion, deems appropriate.  
+Information Sharing & Disclosure  
+In the event that you subscribe to or opt-in a Third-Party offer, Survey-Z may provide your information to the Third-Party in order to directly faciliate the relationship between you and the advertiser. Survey-Z may also, from time to time, provide your information to Third-Party advertisers who have offers that we think you'd be interested in. At any time, you can opt-out of this program simply by contacting support.  
+Your email address may also be used for tracking purposes, when you complete offers, so that Survey-Z can determine that you completed the offers. Survey-Z will also use your email address to send you the Survey-Z newsletters, unless you have opted out of receiving such newsletters by so indicating on the “E-mail Options” section of the “My Account” page, within the “Members Area” of the Survey-Z website. Survey-Z may also, from time to time,  
+Information Provided to Third-Parties or Other Users  
+Survey-Z.com (“Survey-Z”) deals in large part with the Third-Parties. You may be asked by the Third-Parties to give them your personally identifiable information, either when you complete an offer, when you use their websites, or by some other means. Survey-Z is not responsible for information you provide the Third-Parties, and you should read their privacy policies as well before providing them with any such information. Please note, unless otherwise stated, any offer you complete on Survey-Z.com will be with a Third-Party.  
+Any information you post on the Survey-Z website or send through Survey-Z’s Message Center may be available to other Survey-Z users or viewers of the Survey-Z website. Survey-Z is not responsible for the information you post on the Survey-Z website or for information you provide other Survey-Z users, all of which you do at your own risk.  
+Legal Disclaimer  
+It is possible that Survey-Z may need to disclose your personally identifiable information from time to time. Specifically, Survey-Z may disclose any information it has about you to legal authorities, your Internet Service Provider, or other harmed parties without your prior permission, if Survey-Z has a good-faith belief that such disclosure is warranted and/or necessary because: (1) you have violated Survey-Z’s Terms of Service, (2) you have undertaken actions which are illegal, fraudulent, or otherwise harmful to Survey-Z, its users, or the Third-Parties, or such disclosure is necessary (3) to conform to legal requirements or to comply with the legal process, (4) to protect and defend Survey-Z’s rights in any legal, judicial or administrative proceeding; or (5) to enforce the Terms of Service.  
+Managing Your Information  
+You can review the personal information you have provided Survey-Z and make any desired changes to that information by logging in to your account on the Survey-Z website, clicking on the “My Account” icon in the “Members Area” section of the Survey-Z website, by editing the information, and then by submitting the revised information. You should update Survey-Z on any changes that occur, which would make the information you have provided Survey-Z inaccurate or misleading.  
+Changes to this Privacy Policy  
+Notice of all changes that materially affect ways in which your personally identifiable information may be used or shared will be emailed to you or posted on the Survey-Z website. Your continued use of the Survey-Z program after such notices of changes have been sent to you or published on the Survey-Z website constitutes your consent to the changes.  
+Questions & Comments  
+Unless stated otherwise, Survey-Z’s current privacy policy applies to all information that Survey-Z has about you and your account. If you have any questions or comments regarding your privacy or this privacy policy, you should contact Survey-Z prior to providing Survey-Z any personally identifiable information.
