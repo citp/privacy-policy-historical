@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the peoplesgasdelivery.com privacy policy that was archived on 2013-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130604032906id_/http%3A//www.peoplesgasdelivery.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the peoplesgasdelivery.com privacy policy that was archived on 2013-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131102070431id_/http%3A//www.peoplesgasdelivery.com/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy (Peoples Gas)
 
