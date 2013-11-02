@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mdcomputers.in privacy policy that was archived on 2013-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130503090404id_/http%3A//mdcomputers.in/index.php%3Froute%3Dinformation/information%26information_id%3D3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mdcomputers.in privacy policy that was archived on 2013-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131102224058id_/http%3A//mdcomputers.in/index.php%3Froute%3Dinformation/information%26information_id%3D3) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - WELCOME TO MDCOMPUTERS ::::::::::The Ultimate IT Solutions::::::::::
 
   * We are committed to protecting your privacy. We will only use the information that we collect about you lawfully.
   * We collect information about you for 2 reasons: firstly, to process your order and second, to provide you with the best possible service.
@@ -15,5 +15,3 @@
  
 
 
-
-© M D COMPUTERS PVT.LTD
