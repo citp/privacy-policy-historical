@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the safc.com privacy policy that was archived on 2013-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130628134745id_/http%3A//safc.com/hygiene-pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the safc.com privacy policy that was archived on 2013-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131102060132id_/http%3A//www.safc.com/hygiene-pages/privacy-policy) for the most accurate reproduction.*
 
 # SAFC - Privacy Policy
 
@@ -17,7 +17,7 @@ When using this website you may encounter areas such as games, competitions, cha
 
 By entering information about you, you accept that we may retain your information and that it may be held by us or any third party company which processes it on our behalf.
 
-You can contact us by clicking here. Alternatively, you can write to us at the Sunderland Stadium of Light, Sunderland, Tyne & Wear SR5 1SU, England. Telephone number 0871 911 1200.
+You can [contact us by clicking here](http://www.safc.com/hygiene-pages/contact-us). Alternatively, you can write to us at the Sunderland Stadium of Light, Sunderland, Tyne & Wear SR5 1SU, England. Telephone number 0871 911 1200.
 
 The information you provide to us when using this Website will be processed for the following reasons:-
 
@@ -56,9 +56,7 @@ For example, we will often give advance notice of our fantastic sales offers so 
 
 If you subscribe to our mailing lists, you may be asked to specify the areas in which you are interested so that we can tailor the information which is sent to you to cover the subjects, topics and merchandise in which you might be interested.
 
-If at any time you wish to receive information about any other product areas which you currently do not receive, or you wish to stop receiving some or all of the information that we currently send, you may amend or remove your preferences by clicking on "Sign in" at the top of any page.
-
-We would also like to pass your details to third parties and organisations approved by us and with whom we have commercial links so that they may contact you to inform you about their products and/ or services and promotions which may be of interest to you. We will only disclose your data to third parties if you consent to us doing so. You will be asked when registering on the website to indicate if you allow us to pass your details to any third parties.
+We would also like to pass your details to third parties and organisations approved by us and with whom we have commercial links so that they may contact you to inform you about their products and/ or services and promotions which may be of interest to you. We will only disclose your data to third parties if you consent to us doing so. You may be asked when registering on the website to indicate if you allow us to pass your details to any third parties.
 
 You may refuse, at any time, any mailing or other marketing communication from us or require us, at any time, to cease to process your data for any particular purpose(s) and unsubscribe by writing to us at the above address or emailing us at [webmaster@safc.com](mailto:webmaster@safc.com).
 
@@ -106,7 +104,7 @@ Cookies enable SAFC to provide features such as remembering your address, so tha
 
 Cookies can be deleted from your hard drive if you wish. Most web browsers automatically accept cookies. You can usually change your browser so that it will not accept cookies. If you do this, you will still be able to browse around the site and use most of the features on the website but the functions that allow you to add items to your trolley, set up a new account or access an existing account will not be available. Alternatively, you can adjust your browser to tell you when a website tries to put a cookie on your computer. How you adjust your browser to stop it accepting cookies or to notify you of them, will depend on the type of internet browser programme which your computer uses.
 
-If your computer uses Microsoft Internet Explorer or Netscape Navigator, you will need to follow these instructions at this link [www.allaboutcookies.org](http://www.allaboutcookies.org/) (SAFC is not responsible for the content of external websites. This link will open a new window.)
+If your computer uses Microsoft Internet Explorer or Netscape Navigator, you will need to follow these instructions at this link [www.allaboutcookies.org](http://www.allaboutcookies.org/) (SAFC is not responsible for the content of external websites.)
 
 Go to the heading "Manage Cookies". Click onto the option you prefer, either stopping cookies being installed or notifying you of them. From the list provided, click onto the programme which your computer uses. If this is not shown on the list, click on the "help" heading on the bar at the top of this page, search for information on "cookies" - an explanation of how to delete cookies will appear, then follow those instructions.
 
@@ -124,7 +122,7 @@ We use this information to help us identify click stream patterns, to compile ag
 
 We only use this information to ensure that our Webpages stay compatible with a selection of browsers and systems and thereby ensure that the pages appeal to a wide audience.
 
-Currently our Webpages are optimised for the following Internet browsers: Internet Explorer 5.0 +, Netscape 6.0 +, Firefox, Safari, Netscape and Firefox on MACs.
+Currently our Webpages are optimised for the following Internet browsers: Internet Explorer 8.0+, Firefox, Safari, Chrome and native browsers on mobile devices and tablets.
 
 We do not use cookies to collect or store personal information such as your name or email address.
 
