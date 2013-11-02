@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the powerbalance.com privacy policy that was archived on 2013-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130324103926id_/http%3A//www.powerbalance.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the powerbalance.com privacy policy that was archived on 2013-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131102104829id_/http%3A//www.powerbalance.com/privacy-policy.asp) for the most accurate reproduction.*
 
-# Privacy Policy | Power Balance
+# Power Balance| Privacy Policy
 
 This privacy policy covers how POWER BALANCE treats Personal Information (as defined in the Terms of Use) that POWER BALANCE collects and receives on the Website, including information related to your past use of the Website. Your Personal information is information about you that may or may not be personally identifiable like your user name, password, email address, or personal profile data that is not otherwise publicly available. This policy does not apply to the practices of companies that POWER BALANCE does not own or control or to people that POWER BALANCE does not employ or manage. All Personal Information containing your email and any answers solicited from you for a Profile that is entered into the Website by you is private to you except to the extent that you opt – against our recommendation - to share such Personal Information with other members. Other than for the reasons explicitly described below, it is the policy of POWER BALANCE not to disclose Personal Information to any third party at any time.
 
