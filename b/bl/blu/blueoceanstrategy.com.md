@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the blueoceanstrategy.com privacy policy that was archived on 2013-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130629050034id_/http%3A//www.blueoceanstrategy.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blueoceanstrategy.com privacy policy that was archived on 2013-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131102100107id_/http%3A//www.blueoceanstrategy.com/privacy-2) for the most accurate reproduction.*
 
-# Blue Ocean Strategy | Privacy Statement
+# Blue Ocean Strategy | Privacy
 
 Blue Ocean Strategy (“BOS”) adheres to the following policies concerning the information BOS collects from users of this web site (the “Web Site”).
 
@@ -21,5 +21,5 @@ The foregoing policies are subject to change. We encourage you to check back for
 
 admin@blueoceanstrategy.com
 
-Last Updated: October 2012  
+Last Updated: May 2013  
 Effective Date:October 1st 2012
