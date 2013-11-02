@@ -1,9 +1,10 @@
-<!--The following is the downloaded HTML source of the reason.tv privacy policy that was archived on 2013-05-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130531132936id_/http%3A//reason.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the reason.tv privacy policy that was archived on 2013-11-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131102011404id_/http%3A//reason.com/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html><head profile="og: http://ogp.me/ns# article: http://ogp.me/ns/article# profile: http://ogp.me/ns/profile#">
+<!DOCTYPE html><html lang="en" class="responsive"><head profile="og: http://ogp.me/ns# article: http://ogp.me/ns/article# profile: http://ogp.me/ns/profile#">
 	<meta charset="utf-8">
 	<meta http-equiv="Content-Type" content="text/html;charset=utf-8">
+    <meta name="viewport" content="initial-scale=1">
 	<script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script>
 		var _sf_startpt=(new Date()).getTime();
 		var _sf_async_config = {
@@ -32,9 +33,11 @@
 
 <meta property="og:image" content="http://cloudfront-assets.reason.com/media/images/logo-s.png?r=4700">
 
+
     <link rel="stylesheet" href="http://cloudfront-assets.reason.com/media/css/reset-2.css?r=3340">
-	<link rel="stylesheet" href="http://cloudfront-assets.reason.com/media/css/960_24_col.css?r=3234">
-	<link rel="stylesheet" href="http://cloudfront-assets.reason.com/media/css/screen-2.css?r=5282">
+		<link rel="stylesheet" href="http://cloudfront-assets.reason.com/media/css/960_24_col.css?r=5526">
+	<link rel="stylesheet" href="http://cloudfront-assets.reason.com/media/css/screen-2.css?r=5822">
+	    
     <style type="text/css">
 		@-moz-document url-prefix() {
 		  #content-col .post .postcontent{
@@ -59,16 +62,17 @@ var mastheadUrl = "http://reason.com/megatopics/getMastheads";
 var cloudfront = "CLOUDFRONT";
 var liveserver = "1";
 </script>
-
-	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
 	<script src="http://cloudfront-assets.reason.com/media/js/underscore/underscore-min.js?r=4709"></script>
+	<script src="http://cloudfront-assets.reason.com/media/js/jquery.cookie.js?r=4969"></script>
 	<script src="http://cloudfront-assets.reason.com/media/js/jquery.hoverIntent.js?r=3540"></script>
 	<script src="http://cloudfront-assets.reason.com/media/js/socialite/socialite.min.js?r=4482"></script>
-	<script src="http://cloudfront-assets.reason.com/media/js/navigation.js?r=5181"></script>
+	<script src="http://cloudfront-assets.reason.com/media/js/navigation.js?r=5750"></script>
 	<script src="http://cloudfront-assets.reason.com/media/js/sharing.js?r=4482"></script>
-	<script src="http://cloudfront-assets.reason.com/media/js/mobileview.js?r=5266"></script>
 	<script src="http://cloudfront-assets.reason.com/media/js/socialite.js?r=5181"></script>
-
+	<script src="http://cloudfront-assets.reason.com/media/js/jquery.fitvids.js?r=4799"></script>
+        <script src="http://cloudfront-assets.reason.com/media/js/mobileview.js?r=5626"></script>
+    
 <script id="masthead_template" type="text/template">
 <div class="container_24 megatopic" style="display:none;">
 	<div class="grid_14 post">
@@ -149,9 +153,9 @@ $(document).bind('loginStatus', function(e, d) {
 			$("body").addClass("adminlogin");
 			window.ADMININFO = JSONObject= {
 				"baseurl":"http://reason.com/",
-				"showeditbutton":0,
-				"showadminbar":0,
-				"showcommentcontrols":0,
+				"showeditbutton":1,
+				"showadminbar":1,
+				"showcommentcontrols":1,
 				"usersettingsurl":"http://reason.com/admin/users//modify",
 				"commentactions" : 0};
 			$.getScript("/media/js/navtools.js");
@@ -239,6 +243,12 @@ ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www')
 var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
 })();					//]]>
 	</script>
+	<script>
+		window.onorientationchange = function()
+		{
+		   window.location.reload();
+		};
+	</script>
 <script type="text/javascript">
 var googletag = googletag || {};
 googletag.cmd = googletag.cmd || [];
@@ -269,12 +279,12 @@ pubservice.enableSingleRequest();
 googletag.enableServices();
 });
 </script>
-</head><body class="privacy ">	
+</head><body class="flatpage privacy ">	
 		
 	<div class="navtools"></div>
 		<div id="bg1">
 		<div id="bg2">
-			<div class="container_24">
+        				<div class="container_24">
 				<div class="grid_24" id="leaderboard">
 		<aside id="ad1">
 	  <div id="google_ads_div_Mega_Leaderboard">
@@ -290,11 +300,15 @@ googletag.cmd.push(function(){googletag.display("google_ads_div_Mega_Mini-Leader
 </div>    </aside>
 </div>
 				<div class="grid_24" id="masthead">
+	<div class="toggle-container">
+		<a id="togglerwd"></a>
+	</div>
 	<hgroup>
 		 <h3> <a href="http://reason.com/">Reason.com</a> </h3> 		 <h4> Free Minds &amp; Free Markets </h4> 	</hgroup>
 			<div id="user_login_control"></div>
 	<div id="mobile_view_control"></div>	
 	<ul id="social2">
+		<li class="instagram"><a href="http://instagram.com/reasontv">instagram</a></li>
 		<li class="facebook"><a href="http://www.facebook.com/Reason.Magazine">facebook</a></li>
 		<li class="twitter"><a href="http://twitter.com/reason">twitter</a></li>
 		<li class="youtube"><a href="http://www.youtube.com/user/ReasonTV">youtube</a></li>
@@ -323,7 +337,7 @@ googletag.cmd.push(function(){googletag.display("google_ads_div_Mega_Mini-Leader
 	
 	<nav id="nav1">
 				<div class="inner">
-						<h2>NAVIGATION</h2>
+						<h2 class="mobile-only">MENU</h2>
 						<ul>
 								<li>
 										<a href="http://reason.com/">Home</a>
@@ -342,7 +356,7 @@ googletag.cmd.push(function(){googletag.display("google_ads_div_Mega_Mini-Leader
 								</li>
 								
 								<li>
-										<a href="http://reason.com/covers">Magazine</a>
+										<a href="http://reason.com/covers/all">Magazine</a>
 								</li>
 								
 								<li>
@@ -372,8 +386,8 @@ googletag.cmd.push(function(){googletag.display("google_ads_div_Mega_Mini-Leader
 				</div>
 	</nav>
 	
-	<div class="clear"></div>
 	</div><!-- end .grid_24 -->
+    <div class="clear"></div>
 </div><!-- end .container_24 -->
 
 <div id="bg3" class="hidden">
@@ -472,7 +486,8 @@ addresses, etc., when voluntarily submitted by our visitors. The
 information you provide is used to fulfill your specific request.
 Information submitted when donating to Reason Foundation or
 subscribing to Reason magazine may be traded with other like-minded
-organizations that we feel may be of interest to you.</p>
+organizations that we feel may be of interest to you. To opt out of
+these mailings, please contact&nbsp;<a href="mailto:opt-out@reason.com">opt-out@reason.com</a>.</p>
 <p>We use third-party advertising companies to serve advertisements
 when you visit our website. These companies may use aggregated (not
 personal identifying) information about your visits to this website
@@ -507,6 +522,7 @@ By Phone: (310) 391-2245</p>
 <p>We reserve the right to make changes to this policy. Any changes
 to this policy will be posted.</p>		</div>
 				</section>														</div>
+				<div class="clear"></div>
 				
 
 								<div id="right-col" class="grid_8">
@@ -533,122 +549,121 @@ to this policy will be posted.</p>		</div>
 	<div class="inner">
 		<ul class="stories" data-category="featured">
 			<li>
-				<a href="http://reason.com/archives/2013/05/31/after-earth-and-now-you-see-me">
-					<img src="http://cloudfront-assets.reason.com/assets/db/13700059901902584_tm.jpg" width="90" height="70" alt="Automatically created thumbnail for Asset # 190258">
+				<a href="http://reason.com/archives/2013/11/01/obamacares-authoritarian-problem">
+					<img src="http://cloudfront-assets.reason.com/assets/db/13833255512604444_tm.jpg" width="90" height="70" alt="Automatically created thumbnail for Asset # 260444">
 				</a>
-				<h3><a href="http://reason.com/archives/2013/05/31/after-earth-and-now-you-see-me"><em>After Earth</em> and <em>Now You See Me</em></a></h3>
+				<h3><a href="http://reason.com/archives/2013/11/01/obamacares-authoritarian-problem">Obamacare's Authoritarian Problem</a></h3>
 				<p class="meta">
-					<time datetime="2013-05-31T13:15:00+00:00">5.31.13 9:15 am</time></p>
+					<time datetime="2013-11-01T20:30:00+00:00">11.01.13 4:30 pm</time></p>
 					<div class="clear"></div>
 			</li>
 			<li>
-				<a href="http://reason.com/reasontv/2013/05/30/what-we-saw-at-the-anti-koch-save-our-ne">
-					<img src="http://cloudfront-assets.reason.com/assets/db/13699369401898794_tm.jpg" width="90" height="70" alt="Automatically created thumbnail for Asset # 189879">
+				<a href="http://reason.com/archives/2013/11/01/inflation-is-the-last-thing-we-need">
+					<img src="http://cloudfront-assets.reason.com/assets/db/13832459722600054_tm.jpg" width="90" height="70" alt="Automatically created thumbnail for Asset # 260005">
 				</a>
-				<h3><a href="http://reason.com/reasontv/2013/05/30/what-we-saw-at-the-anti-koch-save-our-ne">Koch LA Times Buyout Enrages Protesters: What We Saw at the "Save Our News" Rally</a></h3>
+				<h3><a href="http://reason.com/archives/2013/11/01/inflation-is-the-last-thing-we-need">Inflation Is the Last Thing We Need</a></h3>
 				<p class="meta">
-					<time datetime="2013-05-30T19:30:00+00:00">5.30.13 3:30 pm</time></p>
+					<time datetime="2013-11-01T18:30:00+00:00">11.01.13 2:30 pm</time></p>
 					<div class="clear"></div>
 			</li>
 			<li>
-				<a href="http://reason.com/archives/2013/05/30/the-situation-in-syria-provides-an-unwel">
-					<img src="http://cloudfront-assets.reason.com/assets/db/13698508291892394_tm.jpg" width="90" height="70" alt="Automatically created thumbnail for Asset # 189239">
+				<a href="http://reason.com/archives/2013/11/01/not-ready-for-prime-time-renewable-energ">
+					<img src="http://cloudfront-assets.reason.com/assets/db/13832527242600954_tm.jpg" width="90" height="70" alt="Automatically created thumbnail for Asset # 260095">
 				</a>
-				<h3><a href="http://reason.com/archives/2013/05/30/the-situation-in-syria-provides-an-unwel">The Situation in Syria Provides an Unwelcome Setting For Intervention</a></h3>
+				<h3><a href="http://reason.com/archives/2013/11/01/not-ready-for-prime-time-renewable-energ">Not-Ready-for-Prime-Time Renewable Energy Technology</a></h3>
 				<p class="meta">
-					<time datetime="2013-05-30T20:30:00+00:00">5.30.13 4:30 pm</time></p>
+					<time datetime="2013-11-01T17:30:00+00:00">11.01.13 1:30 pm</time></p>
 					<div class="clear"></div>
 			</li>
 			<li>
-				<a href="http://reason.com/reasontv/2013/05/30/the-economics-in-game-of-thrones-arent-a">
-					<img src="http://cloudfront-assets.reason.com/assets/db/13694227891878124_tm.jpg" width="90" height="70" alt="Automatically created thumbnail for Asset # 187812">
+				<a href="http://reason.com/archives/2013/11/01/how-the-police-endanger-public-safety">
+					<img src="http://cloudfront-assets.reason.com/assets/db/13833110692602284_tm.jpg" width="90" height="70" alt="Automatically created thumbnail for Asset # 260228">
 				</a>
-				<h3><a href="http://reason.com/reasontv/2013/05/30/the-economics-in-game-of-thrones-arent-a">Game of Thrones' Economics: Auburn University's Matthew McCaffrey says it's not all Fantasy</a></h3>
+				<h3><a href="http://reason.com/archives/2013/11/01/how-the-police-endanger-public-safety">How the Police Endanger Public Safety</a></h3>
 				<p class="meta">
-					<time datetime="2013-05-30T14:30:00+00:00">5.30.13 10:30 am</time></p>
+					<time datetime="2013-11-01T16:00:00+00:00">11.01.13 12:00 pm</time></p>
 					<div class="clear"></div>
 			</li>
 			<li>
-				<a href="http://reason.com/archives/2013/05/30/premature-prophets">
-					<img src="http://cloudfront-assets.reason.com/assets/db/13699318261898094_tm.jpg" width="90" height="70" alt="Automatically created thumbnail for Asset # 189809">
+				<a href="http://reason.com/blog/2013/11/01/leaked-memos-reveal-that-federal-health">
+					<img src="http://cloudfront-assets.reason.com/assets/db/13833197912603284_tm.jpg" width="90" height="70" alt="Automatically created thumbnail for Asset # 260328">
 				</a>
-				<h3><a href="http://reason.com/archives/2013/05/30/premature-prophets">Premature Prophets</a></h3>
+				<h3><a href="http://reason.com/blog/2013/11/01/leaked-memos-reveal-that-federal-health">Leaked Memos Reveal that Federal Health Officials Knew Exactly How Many People Enrolled During Obamacare’s Opening Days, Despite Administration Claims to the Contrary</a></h3>
 				<p class="meta">
-					<time datetime="2013-05-30T17:30:00+00:00">5.30.13 1:30 pm</time></p>
+					<time datetime="2013-11-01T15:29:00+00:00">11.01.13 11:29 am</time></p>
 					<div class="clear"></div>
 			</li>
 		</ul>
 							<ul class="stories" data-category="viewed" style="display:none">
 							<li>
-								<a href="http://reason.com/blog/2013/05/27/high-school-teacher-faces-discipline-for"><img src="http://cloudfront-assets.reason.com/assets/db/13696732291881504_tm.jpg" width="90" height="70" alt="Automatically created thumbnail for Asset # 188150">
-</a>
-								<h3><a href="http://reason.com/blog/2013/05/27/high-school-teacher-faces-discipline-for">High School Teacher Faces Discipline for Informing Students About Their Rights</a></h3>
-								<p class="meta"><a href="http://reason.com/people/jacob-sullum/all">Jacob Sullum</a><span class="pipe"> | </span><time datetime="2013-05-27T16:55:00+00:00">5.27.13 12:55 pm</time></p>
+
+								<h3><a href="http://reason.com/archives/2004/05/24/the-death-of-david-reimer">The Death of David Reimer</a></h3>
+								<p class="meta"><a href="http://reason.com/people/jesse-walker/all">Jesse Walker</a><span class="pipe"> | </span><time datetime="2004-05-24T04:00:00+00:00">5.24.04 12:00 am</time></p>
 								<div class="clear"></div>
 							</li>
 							<li>
-								<a href="http://reason.com/blog/2013/05/29/school-board-reprimands-teacher-for-tell"><img src="http://cloudfront-assets.reason.com/assets/db/13698327171889594_tm.jpg" width="90" height="70" alt="Automatically created thumbnail for Asset # 188959">
+								<a href="http://reason.com/blog/2013/10/30/the-obama-administrations-response-to-in"><img src="http://cloudfront-assets.reason.com/assets/db/13831561082593914_tm.jpg" width="90" height="70" alt="Automatically created thumbnail for Asset # 259391">
 </a>
-								<h3><a href="http://reason.com/blog/2013/05/29/school-board-reprimands-teacher-for-tell">School Board Reprimands Teacher for Telling Students About Their Right to Remain Silent</a></h3>
-								<p class="meta"><a href="http://reason.com/people/jacob-sullum/all">Jacob Sullum</a><span class="pipe"> | </span><time datetime="2013-05-29T13:05:00+00:00">5.29.13 9:05 am</time></p>
+								<h3><a href="http://reason.com/blog/2013/10/30/the-obama-administrations-response-to-in">The Obama Administration’s Response to Insurance Plan Cancellations Is Misleading and Condescending</a></h3>
+								<p class="meta"><a href="http://reason.com/people/peter-suderman/all">Peter Suderman</a><span class="pipe"> | </span><time datetime="2013-10-30T18:01:00+00:00">10.30.13 2:01 pm</time></p>
 								<div class="clear"></div>
 							</li>
 							<li>
-								<a href="http://reason.com/blog/2013/05/29/miami-cops-beat-up-teen-for-staring-at-t"><img src="http://cloudfront-assets.reason.com/assets/db/13698641991894194_tm.jpg" width="90" height="70" alt="Automatically created thumbnail for Asset # 189419">
+								<a href="http://reason.com/blog/2013/10/31/obamacare-media-fail-did-the-president-w"><img src="http://cloudfront-assets.reason.com/assets/db/13832410692599354_tm.jpg" width="90" height="70" alt="Automatically created thumbnail for Asset # 259935">
 </a>
-								<h3><a href="http://reason.com/blog/2013/05/29/miami-cops-beat-up-teen-for-staring-at-t">Miami Cops Choke Hold Teen for Staring at Them. A Puppy is Involved.</a></h3>
-								<p class="meta"><a href="http://reason.com/people/brian-doherty/all">Brian Doherty</a><span class="pipe"> | </span><time datetime="2013-05-29T21:46:00+00:00">5.29.13 5:46 pm</time></p>
+								<h3><a href="http://reason.com/blog/2013/10/31/obamacare-media-fail-did-the-president-w">Obamacare Media Fail: Did the President ‘Work the Refs’?</a></h3>
+								<p class="meta"><a href="http://reason.com/people/matt-welch/all">Matt Welch</a><span class="pipe"> | </span><time datetime="2013-10-31T17:36:00+00:00">10.31.13 1:36 pm</time></p>
 								<div class="clear"></div>
 							</li>
 							<li>
-								<a href="http://reason.com/blog/2013/05/30/california-regulators-hide-obamacare-rat"><img src="http://cloudfront-assets.reason.com/assets/db/13699369441898844_tm.jpg" width="90" height="70" alt="Automatically created thumbnail for Asset # 189884">
+								<a href="http://reason.com/blog/2013/10/29/obamacare-defender-pissed-at-losing-her"><img src="http://cloudfront-assets.reason.com/assets/db/13830572792586554_tm.jpg" width="90" height="70" alt="Automatically created thumbnail for Asset # 258655">
 </a>
-								<h3><a href="http://reason.com/blog/2013/05/30/california-regulators-hide-obamacare-rat">California Regulators Hide Obamacare Rate Shock With Misleading Comparison</a></h3>
-								<p class="meta"><a href="http://reason.com/people/peter-suderman/all">Peter Suderman</a><span class="pipe"> | </span><time datetime="2013-05-30T18:10:00+00:00">5.30.13 2:10 pm</time></p>
+								<h3><a href="http://reason.com/blog/2013/10/29/obamacare-defender-pissed-at-losing-her">Obamacare Defender Pissed at Losing Her Policy, Paying Higher Rates</a></h3>
+								<p class="meta"><a href="http://reason.com/people/nick-gillespie/all">Nick Gillespie</a><span class="pipe"> | </span><time datetime="2013-10-29T14:34:00+00:00">10.29.13 10:34 am</time></p>
 								<div class="clear"></div>
 							</li>
 							<li>
-								<a href="http://reason.com/blog/2013/05/29/tiny-lego-gun-wielded-by-kindergardener"><img src="http://cloudfront-assets.reason.com/assets/db/13698557601893094_tm.jpg" width="90" height="70" alt="Automatically created thumbnail for Asset # 189309">
+								<a href="http://reason.com/blog/2013/10/30/white-house-propagandists-slam-obamacare"><img src="http://cloudfront-assets.reason.com/assets/db/13831630992594864_tm.jpg" width="90" height="70" alt="Automatically created thumbnail for Asset # 259486">
 </a>
-								<h3><a href="http://reason.com/blog/2013/05/29/tiny-lego-gun-wielded-by-kindergardener">Tiny Lego Gun Wielded by Kindergartner Panics Grown-Ups</a></h3>
-								<p class="meta"><a href="http://reason.com/people/katherine-mangu-ward/all">Katherine Mangu-Ward</a><span class="pipe"> | </span><time datetime="2013-05-29T19:31:00+00:00">5.29.13 3:31 pm</time></p>
+								<h3><a href="http://reason.com/blog/2013/10/30/white-house-propagandists-slam-obamacare">White House Propagandists Slam Obamacare ‘Misinformation’ While Gleefully Spreading Their Own</a></h3>
+								<p class="meta"><a href="http://reason.com/people/matt-welch/all">Matt Welch</a><span class="pipe"> | </span><time datetime="2013-10-30T19:57:00+00:00">10.30.13 3:57 pm</time></p>
 								<div class="clear"></div>
 							</li>
 					</ul>
 					<ul class="stories" data-category="commented" style="display:none">
 							<li>
-								<a href="http://reason.com/blog/2013/05/30/am-links-obama-to-nominate-bush-doj-2-to"><img src="http://cloudfront-assets.reason.com/assets/db/13699180631895794_tm.jpg" width="90" height="70" alt="Automatically created thumbnail for Asset # 189579">
+								<a href="http://reason.com/blog/2013/10/31/am-links-reports-on-obamacare-site-contr"><img src="http://cloudfront-assets.reason.com/assets/db/13832236412596764_tm.jpg" width="90" height="70" alt="Automatically created thumbnail for Asset # 259676">
 </a>
-								<h3><a href="http://reason.com/blog/2013/05/30/am-links-obama-to-nominate-bush-doj-2-to">A.M. Links: Obama to Nominate Bush DOJ #2 to FBI, Wrestler Kane May Run for Senate in Tennessee, Disneyland Employee Arrested for Allegedly Planting Dry Ice Bomb</a></h3>
-								<p class="meta"><a href="http://reason.com/people/ed-krayewski/all">Ed Krayewski</a><span class="pipe"> | </span><time datetime="2013-05-30T13:00:00+00:00">5.30.13 9:00 am</time></p>
+								<h3><a href="http://reason.com/blog/2013/10/31/am-links-reports-on-obamacare-site-contr">A.M. Links: Reports on Obamacare Site Contradict Medicare Chief’s Testimony, Rand Paul Responds To Claim Speech Included Section From Wikipedia Article, Red Sox Win World Series</a></h3>
+								<p class="meta"><a href="http://reason.com/people/matthew-feeney/all">Matthew Feeney</a><span class="pipe"> | </span><time datetime="2013-10-31T13:00:00+00:00">10.31.13 9:00 am</time></p>
 								<div class="clear"></div>
 							</li>
 							<li>
-								<a href="http://reason.com/blog/2013/05/29/am-links-pentagon-confirms-drone-crashed"><img src="http://cloudfront-assets.reason.com/assets/db/13698305571889294_tm.jpg" width="90" height="70" alt="Automatically created thumbnail for Asset # 188929">
+								<a href="http://reason.com/blog/2013/11/01/am-links-kerry-says-nsa-spying-went-too"><img src="http://cloudfront-assets.reason.com/assets/db/13833087442602134_tm.jpg" width="90" height="70" alt="Automatically created thumbnail for Asset # 260213">
 </a>
-								<h3><a href="http://reason.com/blog/2013/05/29/am-links-pentagon-confirms-drone-crashed">A.M. Links: Pentagon Confirms Drone Crashed in Somalia, German Finance Minister Warns of Welfare Reforms, Bachmann Won’t Seek Re-Election</a></h3>
-								<p class="meta"><a href="http://reason.com/people/matthew-feeney/all">Matthew Feeney</a><span class="pipe"> | </span><time datetime="2013-05-29T13:00:00+00:00">5.29.13 9:00 am</time></p>
+								<h3><a href="http://reason.com/blog/2013/11/01/am-links-kerry-says-nsa-spying-went-too">A.M. Links: Kerry Says NSA Spying Went Too Far, Only 248 Signed Up on Obamacare Site in First Two Days, Chinese Security Chief Blames Uighur Islamists For Tiananmen Attack</a></h3>
+								<p class="meta"><a href="http://reason.com/people/matthew-feeney/all">Matthew Feeney</a><span class="pipe"> | </span><time datetime="2013-11-01T13:00:00+00:00">11.01.13 9:00 am</time></p>
 								<div class="clear"></div>
 							</li>
 							<li>
-								<a href="http://reason.com/blog/2013/05/29/eric-holder-to-meet-with-the-media-irs-l"><img src="http://cloudfront-assets.reason.com/assets/db/13698573451893344_tm.jpg" width="90" height="70" alt="Automatically created thumbnail for Asset # 189334">
+								<a href="http://reason.com/blog/2013/10/31/obama-says-youre-too-stupid-to-know-what"><img src="http://cloudfront-assets.reason.com/assets/db/13832454132599954_tm.jpg" width="90" height="70" alt="Automatically created thumbnail for Asset # 259995">
 </a>
-								<h3><a href="http://reason.com/blog/2013/05/29/eric-holder-to-meet-with-the-media-irs-l">Eric Holder to Meet with the Media, IRS Leaders Did Sign Off on Investigations, Dems Pick Up a Governor: P.M. Links</a></h3>
-								<p class="meta"><a href="http://reason.com/people/scott-shackford/all">Scott Shackford</a><span class="pipe"> | </span><time datetime="2013-05-29T20:30:00+00:00">5.29.13 4:30 pm</time></p>
+								<h3><a href="http://reason.com/blog/2013/10/31/obama-says-youre-too-stupid-to-know-what">Obama Says You're Too Stupid To Know What Health Coverage Is Good For You</a></h3>
+								<p class="meta"><a href="http://reason.com/people/jd-tuccille/all">J.D. Tuccille</a><span class="pipe"> | </span><time datetime="2013-10-31T18:51:00+00:00">10.31.13 2:51 pm</time></p>
 								<div class="clear"></div>
 							</li>
 							<li>
-								<a href="http://reason.com/blog/2013/05/30/fbi-accused-of-executing-man-being-quest"><img src="http://cloudfront-assets.reason.com/assets/db/13699430341899684_tm.jpg" width="90" height="70" alt="Automatically created thumbnail for Asset # 189968">
+								<a href="http://reason.com/blog/2013/10/31/google-unhappy-with-nsa-airlines-to-beco"><img src="http://cloudfront-assets.reason.com/assets/db/13832434982599704_tm.jpg" width="90" height="70" alt="Automatically created thumbnail for Asset # 259970">
 </a>
-								<h3><a href="http://reason.com/blog/2013/05/30/fbi-accused-of-executing-man-being-quest">FBI Accused of Executing Man Being Questioned, Buffett Buys Another Newspaper, Disney Has Another Safety Incident: P.M. Links</a></h3>
-								<p class="meta"><a href="http://reason.com/people/scott-shackford/all">Scott Shackford</a><span class="pipe"> | </span><time datetime="2013-05-30T20:30:00+00:00">5.30.13 4:30 pm</time></p>
+								<h3><a href="http://reason.com/blog/2013/10/31/google-unhappy-with-nsa-airlines-to-beco">Google Unhappy with NSA, Airlines to Become Gadget-Friendlier, NYC Nannies Harder on Tobacco: P.M. Links</a></h3>
+								<p class="meta"><a href="http://reason.com/people/scott-shackford/all">Scott Shackford</a><span class="pipe"> | </span><time datetime="2013-10-31T20:30:00+00:00">10.31.13 4:30 pm</time></p>
 								<div class="clear"></div>
 							</li>
 							<li>
-								<a href="http://reason.com/archives/2013/05/30/this-is-what-happens-when-you-fear-free"><img src="http://cloudfront-assets.reason.com/assets/db/13699227371896444_tm.jpg" width="90" height="70" alt="Automatically created thumbnail for Asset # 189644">
+								<a href="http://reason.com/blog/2013/10/30/nsa-finds-way-to-bypass-fisc-overseas-pu"><img src="http://cloudfront-assets.reason.com/assets/db/13831589652594314_tm.jpg" width="90" height="70" alt="Automatically created thumbnail for Asset # 259431">
 </a>
-								<h3><a href="http://reason.com/archives/2013/05/30/this-is-what-happens-when-you-fear-free">This Is What Happens When You Fear Free Speech</a></h3>
-								<p class="meta"><a href="http://reason.com/people/david-harsanyi/all">David Harsanyi</a><span class="pipe"> | </span><time datetime="2013-05-30T16:00:00+00:00">5.30.13 12:00 pm</time></p>
+								<h3><a href="http://reason.com/blog/2013/10/30/nsa-finds-way-to-bypass-fisc-overseas-pu">NSA Finds Way to Bypass FISC Overseas, Putin Pushes Obama Aside in Power Rankings, Arpaio Wants Drones: P.M. Links</a></h3>
+								<p class="meta"><a href="http://reason.com/people/scott-shackford/all">Scott Shackford</a><span class="pipe"> | </span><time datetime="2013-10-30T20:30:00+00:00">10.30.13 4:30 pm</time></p>
 								<div class="clear"></div>
 							</li>
 					</ul>
@@ -684,7 +699,7 @@ googletag.cmd.push(function(){googletag.display("google_ads_div_Polls_Rectangle_
 		<li>
 				
 		<h3>
-			<a href="http://reason.com/poll/2013/05/29/poll-two-thirds-of-americans-want-senate">Poll: 62 Percent of Americans Want Senate to Drop Gun Control</a>
+			<a href="http://reason.com/poll/2013/10/18/who-knew-tea-partiers-know-science2">Who Knew? Tea Partiers Know Science</a>
 		</h3>
 		
 		<p class="meta">
@@ -692,28 +707,15 @@ googletag.cmd.push(function(){googletag.display("google_ads_div_Polls_Rectangle_
 					Emily Ekins				</a>
 				<span class="pipe">|</span>
 					
-			<time datetime="2013-05-29T13:30:00+00:00">
-				5.29.13 9:30 am			</time>
+			<time datetime="2013-10-18T13:10:00+00:00">
+				10.18.13 9:10 am			</time>
 		</p>
 		<div class="clear"></div>
 	</li>
 	<li>
 				
 		<h3>
-			<a href="http://reason.com/poll/2013/05/28/nick-gillespie-interviews-emily-ekins-ab">Nick Gillespie Interviews Emily Ekins about May Reason-Rupe Poll Results</a>
-		</h3>
-		
-		<p class="meta">
-					
-			<time datetime="2013-05-28T18:30:00+00:00">
-				5.28.13 2:30 pm			</time>
-		</p>
-		<div class="clear"></div>
-	</li>
-	<li>
-				
-		<h3>
-			<a href="http://reason.com/poll/2013/05/28/new-poll-32-percent-still-like-federa2">New Poll: 32 Percent Still Like Federal Health Care Law</a>
+			<a href="http://reason.com/poll/2013/10/11/cnn-shutdown-poll-americans-angry-with-2">CNN Shutdown Poll: Americans Angry with GOP, Democrats, and Obama</a>
 		</h3>
 		
 		<p class="meta">
@@ -721,8 +723,24 @@ googletag.cmd.push(function(){googletag.display("google_ads_div_Polls_Rectangle_
 					Emily Ekins				</a>
 				<span class="pipe">|</span>
 					
-			<time datetime="2013-05-28T17:46:00+00:00">
-				5.28.13 1:46 pm			</time>
+			<time datetime="2013-10-11T16:41:00+00:00">
+				10.11.13 12:41 pm			</time>
+		</p>
+		<div class="clear"></div>
+	</li>
+	<li>
+				
+		<h3>
+			<a href="http://reason.com/poll/2013/10/10/gop-favorability-plummets-tea-partiers-2">GOP Favorability Plummets, Tea Partiers Less Supportive Than Regular Republicans</a>
+		</h3>
+		
+		<p class="meta">
+							<a href="http://reason.com/people/emily-ekins">
+					Emily Ekins				</a>
+				<span class="pipe">|</span>
+					
+			<time datetime="2013-10-10T13:20:00+00:00">
+				10.10.13 9:20 am			</time>
 		</p>
 		<div class="clear"></div>
 	</li>
@@ -737,7 +755,7 @@ googletag.cmd.push(function(){googletag.display("google_ads_div_Polls_Rectangle_
 		<li>
 				
 		<h3>
-			<a href="http://reason.com/brickbat/2013/05/31/policing-their-own">Policing Their Own</a>
+			<a href="http://reason.com/brickbat/2013/11/01/big-pink">Big Pink</a>
 		</h3>
 		
 		<p class="meta">
@@ -745,15 +763,15 @@ googletag.cmd.push(function(){googletag.display("google_ads_div_Polls_Rectangle_
 					Charles Oliver				</a>
 				<span class="pipe">|</span>
 					
-			<time datetime="2013-05-31T10:00:00+00:00">
-				5.31.13 6:00 am			</time>
+			<time datetime="2013-11-01T10:00:00+00:00">
+				11.01.13 6:00 am			</time>
 		</p>
 		<div class="clear"></div>
 	</li>
 	<li>
 				
 		<h3>
-			<a href="http://reason.com/brickbat/2013/05/30/justice-is-sleepy">Justice Is Sleepy</a>
+			<a href="http://reason.com/brickbat/2013/10/31/i-cant-hear-you">I Can't Hear You</a>
 		</h3>
 		
 		<p class="meta">
@@ -761,15 +779,15 @@ googletag.cmd.push(function(){googletag.display("google_ads_div_Polls_Rectangle_
 					Charles Oliver				</a>
 				<span class="pipe">|</span>
 					
-			<time datetime="2013-05-30T11:00:00+00:00">
-				5.30.13 7:00 am			</time>
+			<time datetime="2013-10-31T10:00:00+00:00">
+				10.31.13 6:00 am			</time>
 		</p>
 		<div class="clear"></div>
 	</li>
 	<li>
 				
 		<h3>
-			<a href="http://reason.com/brickbat/2013/05/28/reach-out-and-touch-someone">Reach Out and Touch Someone</a>
+			<a href="http://reason.com/brickbat/2013/10/30/sharp-dressed-man">Sharp-Dressed Man</a>
 		</h3>
 		
 		<p class="meta">
@@ -777,8 +795,8 @@ googletag.cmd.push(function(){googletag.display("google_ads_div_Polls_Rectangle_
 					Charles Oliver				</a>
 				<span class="pipe">|</span>
 					
-			<time datetime="2013-05-28T13:30:00+00:00">
-				5.28.13 9:30 am			</time>
+			<time datetime="2013-10-30T10:00:00+00:00">
+				10.30.13 6:00 am			</time>
 		</p>
 		<div class="clear"></div>
 	</li>
@@ -800,41 +818,41 @@ googletag.cmd.push(function(){googletag.display("google_ads_div_Polls_Rectangle_
 			
 																				
 					<li>
-													<a href="http://reason.com/reasontv/2013/05/30/the-economics-in-game-of-thrones-arent-a"><img src="http://cloudfront-assets.reason.com/assets/db/13694227891878124_tm.jpg" alt="Post Image"></a>
+													<a href="http://reason.com/reasontv/2013/11/01/american-health-care-killed-my-father-da"><img src="http://cloudfront-assets.reason.com/assets/db/13833083052597014_tm.jpg" alt="Post Image"></a>
 											
 						<h3>
-							<a href="http://reason.com/reasontv/2013/05/30/the-economics-in-game-of-thrones-arent-a">Game of Thrones' Economics: Auburn University's Matthew McCaffrey says it's not all Fantasy</a>
+							<a href="http://reason.com/reasontv/2013/11/01/american-health-care-killed-my-father-da">American Health Care Killed My Father: David Goldhill on How Consumer-Driven Medicine Saves Lives</a>
 						</h3>
 					
 																					<p class="meta">
-									<a href="http://reason.com/people/tracy-oppenheimer">Tracy Oppenheimer</a>
-								</p>
-													
-						<div class="clear"></div>
-					</li>
-													
-					<li>
-													<a href="http://reason.com/reasontv/2013/05/26/libertarian-perspectives-on-abortion-w-r"><img src="http://cloudfront-assets.reason.com/assets/db/13694345741880004_tm.jpg" alt="Post Image"></a>
-											
-						<h3>
-							<a href="http://reason.com/reasontv/2013/05/26/libertarian-perspectives-on-abortion-w-r">Abortion &amp; Libertarianism: Nick Gillespie, Ronald Bailey, Mollie Hemingway, &amp; Katherine Mangu-Ward</a>
-						</h3>
-					
-																					<p class="meta">
-									<a href="http://reason.com/people/nick-gillespie">Nick Gillespie</a>
+									<a href="http://reason.com/people/kmele-foster">Kmele Foster</a>
 								</p>
 															<p class="meta">
-									<a href="http://reason.com/people/joshua-swain">Joshua Swain</a>
+									<a href="http://reason.com/people/jim-epstein">Jim Epstein</a>
 								</p>
 													
 						<div class="clear"></div>
 					</li>
 													
 					<li>
-													<a href="http://reason.com/reasontv/2013/05/28/police-peddle-stolen-iphones-arrest-buye"><img src="http://cloudfront-assets.reason.com/assets/db/13694266091879374_tm.jpg" alt="Post Image"></a>
+													<a href="http://reason.com/reasontv/2013/10/30/remy-healthcare-mash"><img src="http://cloudfront-assets.reason.com/assets/db/13831910042595964_tm.jpg" alt="Post Image"></a>
 											
 						<h3>
-							<a href="http://reason.com/reasontv/2013/05/28/police-peddle-stolen-iphones-arrest-buye">Police Peddle "Stolen" iPhones, Arrest Buyers: Don't Cops Have Better Things to Do?!</a>
+							<a href="http://reason.com/reasontv/2013/10/30/remy-healthcare-mash">Remy: Healthcare Mash</a>
+						</h3>
+					
+																					<p class="meta">
+									<a href="http://reason.com/people/-remy">Remy</a>
+								</p>
+													
+						<div class="clear"></div>
+					</li>
+													
+					<li>
+													<a href="http://reason.com/reasontv/2013/10/30/tulsa-may-ban-sex-offenders-from-hallowe"><img src="http://cloudfront-assets.reason.com/assets/db/13831404692591484_tm.jpg" alt="Post Image"></a>
+											
+						<h3>
+							<a href="http://reason.com/reasontv/2013/10/30/tulsa-may-ban-sex-offenders-from-hallowe">Tulsa May Ban Sex Offenders from Halloween … and Christmas (Nanny of the Month, 10-13)</a>
 						</h3>
 					
 																					<p class="meta">
@@ -867,6 +885,7 @@ googletag.cmd.push(function(){googletag.display("google_ads_div_Polls_Mini-Skysc
 </script>
 </div>							</aside>
 															</div>
+				<div class="clear"></div>
 							</div>
 		</div>
 	</div>
@@ -879,36 +898,17 @@ googletag.cmd.push(function(){googletag.display("google_ads_div_Polls_Mini-Skysc
 <!--Breaking up results for proper formatting-->
 					<section class="grid_6">
 <!--For rupe poll and staff reviews -->
-									<h2><a href="http://reason.com/tags/irs">IRS</a></h2>
+									<h2><a href="http://reason.com/tags/government-shutdown">Government Shutdown</a></h2>
 									<ul>
 									<li>
-		<h3><a href="http://reason.com/blog/2013/05/30/ed-krayewski-talking-irs-scandalreform-o">Ed Krayewski Talking IRS Scandal/Reform on HuffPost Live at 8:10PM ET</a></h3>
-					<p class="meta">Ed Krayewski</p>
-		</li>
-						<li>
-		<h3><a href="http://reason.com/24-7/2013/05/30/protection-of-taxpayer-info-cited-in-avo">Protection of Taxpayer Info Cited In Avoiding Answers on IRS Scandal</a></h3>
+		<h3><a href="http://reason.com/24-7/2013/11/01/government-shutdown-failed-to-impact-man">Government Shutdown Failed to Impact Manufacturing</a></h3>
 			</li>
 						<li>
-		<h3><a href="http://reason.com/blog/2013/05/30/matt-welch-talks-scandal-coverage-3d-pri">Matt Welch Talks Scandal-Coverage, 3D Printing, and More on <em>Red Eye</em></a></h3>
-					<p class="meta">Matt Welch</p>
-		</li>
-						</ul>
-			</section>
-		 
-<!--Breaking up results for proper formatting-->
-					<section class="grid_6">
-<!--For rupe poll and staff reviews -->
-									<h2><a href="http://reason.com/tags/libya">Libya</a></h2>
-									<ul>
-									<li>
-		<h3><a href="http://reason.com/24-7/2013/05/30/rnc-submits-foia-request-for-benghazi-e">RNC Submits FOIA Request for Benghazi E-Mails Between State Dept. and Obama Re-Election Campaign</a></h3>
-			</li>
-						<li>
-		<h3><a href="http://reason.com/blog/2013/05/28/rep-issa-cant-hear-enough-about-benghazi">Rep. Issa Can’t Hear Enough About Benghazi Decision-Making, Demands More</a></h3>
-					<p class="meta">Scott Shackford</p>
+		<h3><a href="http://reason.com/blog/2013/10/31/folks-such-as-nancy-pelosi-are-like-fats">"Folks such as Nancy Pelosi are like fatsos on a diet who celebrate a week's weight loss with a trip to the Cheesecake Factory."</a></h3>
+					<p class="meta">Nick Gillespie</p>
 		</li>
 						<li>
-		<h3><a href="http://reason.com/24-7/2013/05/28/issa-subpoenas-state-department-document">Issa Subpoenas State Department Documents on Benghazi</a></h3>
+		<h3><a href="http://reason.com/24-7/2013/10/30/nara-shutdown-delayed-foia-request-proce">NARA: Shutdown Delayed FOIA Request Processing</a></h3>
 			</li>
 						</ul>
 			</section>
@@ -916,33 +916,53 @@ googletag.cmd.push(function(){googletag.display("google_ads_div_Polls_Mini-Skysc
 <!--Breaking up results for proper formatting-->
 					<section class="grid_6">
 <!--For rupe poll and staff reviews -->
-									<h2><a href="http://reason.com/tags/immigration">Immigration</a></h2>
+									<h2><a href="http://reason.com/tags/government-spending">Government Spending</a></h2>
 									<ul>
 									<li>
-		<h3><a href="http://reason.com/24-7/2013/05/30/efforts-to-stop-racial-violence-cause-r">Efforts to Stop Racial Violence Cause Rifts in Greek Leadership</a></h3>
+		<h3><a href="http://reason.com/blog/2013/10/31/folks-such-as-nancy-pelosi-are-like-fats">"Folks such as Nancy Pelosi are like fatsos on a diet who celebrate a week's weight loss with a trip to the Cheesecake Factory."</a></h3>
+					<p class="meta">Nick Gillespie</p>
+		</li>
+						<li>
+		<h3><a href="http://reason.com/24-7/2013/10/29/federal-aid-slow-to-get-to-homeowners">Federal Aid Slow to Get to Homeowners</a></h3>
 			</li>
 						<li>
-		<h3><a href="http://reason.com/24-7/2013/05/29/danish-nationalist-party-warns-that-one">Danish Nationalist Party Warns That One in 700 Immigrants Could Be a Terrorist in Ad</a></h3>
-			</li>
-						<li>
-		<h3><a href="http://reason.com/24-7/2013/05/22/protection-for-gay-couples-left-out-of-i">Protection for Gay Couples Left Out of Immigration Bill</a></h3>
-			</li>
+		<h3><a href="http://reason.com/blog/2013/10/28/instapundit-obamacare-simply-most-recent">Instapundit: Obamacare Simply Most Recent in Failed Federal Mega-Projects</a></h3>
+					<p class="meta">Nick Gillespie</p>
+		</li>
 						</ul>
 			</section>
 		 
 <!--Breaking up results for proper formatting-->
 					<section class="grid_6">
 <!--For rupe poll and staff reviews -->
-									<h2><a href="http://reason.com/tags/barack-obama">Barack Obama</a></h2>
+									<h2><a href="http://reason.com/tags/debt-ceiling">Debt Ceiling</a></h2>
 									<ul>
 									<li>
-		<h3><a href="http://reason.com/24-7/2013/05/30/rnc-submits-foia-request-for-benghazi-e">RNC Submits FOIA Request for Benghazi E-Mails Between State Dept. and Obama Re-Election Campaign</a></h3>
+		<h3><a href="http://reason.com/24-7/2013/10/22/poll-government-shutdown-has-done-major">Poll: Government Shutdown Has Done Major Damage To the GOP's Image</a></h3>
 			</li>
 						<li>
-		<h3><a href="http://reason.com/24-7/2013/05/30/secret-service-ricin-tainted-letter-sent">Secret Service: Ricin-Tainted Letters Sent to Bloomberg Similar to One Sent to Obama</a></h3>
+		<h3><a href="http://reason.com/24-7/2013/10/22/greenspan-another-fiscal-stalemate-is-pe">Greenspan: Another Fiscal Stalemate is "Perfectly Conceivable"</a></h3>
 			</li>
 						<li>
-		<h3><a href="http://reason.com/24-7/2013/05/30/obamas-approval-ratings-drop-amid-scanda">Obama's Approval Ratings Drop Amid Scandals</a></h3>
+		<h3><a href="http://reason.com/archives/2013/10/20/political-class-uses-fear-of-default-to">The Political Class Uses Fear of "Default" To Get Its Way</a></h3>
+					<p class="meta">Sheldon Richman</p>
+		</li>
+						</ul>
+			</section>
+		 
+<!--Breaking up results for proper formatting-->
+					<section class="grid_6">
+<!--For rupe poll and staff reviews -->
+									<h2><a href="http://reason.com/tags/syria">Syria</a></h2>
+									<ul>
+									<li>
+		<h3><a href="http://reason.com/24-7/2013/11/01/un-syria-envoy-says-there-are-no-conditi">UN Syria Envoy Says There Are No Conditions For Peace Talks</a></h3>
+			</li>
+						<li>
+		<h3><a href="http://reason.com/24-7/2013/11/01/israel-vows-to-prevent-hezbollah-from-ge">Israel Vows To Prevent Hezbollah From Getting Weapons After Syria Raid</a></h3>
+			</li>
+						<li>
+		<h3><a href="http://reason.com/24-7/2013/11/01/syrian-refugee-camp-becoming-a-city">Syrian Refugee Camp Becoming a City</a></h3>
 			</li>
 						</ul>
 			</section>
@@ -953,19 +973,17 @@ googletag.cmd.push(function(){googletag.display("google_ads_div_Polls_Mini-Skysc
 			<div class="dividers">
 							<section class="grid_6">
 <!--For rupe poll and staff reviews -->
-									<h2><a href="http://reason.com/tags/drug-policy">Drug Policy</a></h2>
+									<h2><a href="http://reason.com/tags/immigration">Immigration</a></h2>
 									<ul>
 									<li>
-		<h3><a href="http://reason.com/blog/2013/05/30/ach-du-lieber-the-nazis-secret-pep-pill">Ach Du Lieber! The Nazi's Secret Pep Pill Was Methamphetamine</a></h3>
-					<p class="meta">Nick Gillespie</p>
-		</li>
+		<h3><a href="http://reason.com/24-7/2013/11/01/niger-may-implement-travel-ban-after-92">Niger May Implement Travel Ban After 92 Migrants Die of Thirst in the Sahara</a></h3>
+			</li>
 						<li>
-		<h3><a href="http://reason.com/blog/2013/05/30/the-drug-war-graph-is-embarrassing-so-is">The Drug War Graph Is Embarrassing. So Is Believing Obama's Promises of Reform.</a></h3>
-					<p class="meta">Jacob Sullum</p>
-		</li>
+		<h3><a href="http://reason.com/24-7/2013/10/31/at-least-92-migrants-dead-after-vehicles">At Least 92 Migrants Dead After Vehicles Broke Down in Sahara</a></h3>
+			</li>
 						<li>
-		<h3><a href="http://reason.com/blog/2013/05/30/war-on-drugs-in-fueling-hepatitis-c-pand">War on Drugs in Fueling a Hepatitis C Pandemic, Says Global Commission on Drugs</a></h3>
-					<p class="meta">Matthew Feeney</p>
+		<h3><a href="http://reason.com/archives/2013/10/31/change-stupid-immigration-laws">Change Stupid Immigration Laws</a></h3>
+					<p class="meta">Matt Welch</p>
 		</li>
 						</ul>
 			</section>
@@ -973,19 +991,18 @@ googletag.cmd.push(function(){googletag.display("google_ads_div_Polls_Mini-Skysc
 <!--Breaking up results for proper formatting-->
 					<section class="grid_6">
 <!--For rupe poll and staff reviews -->
-									<h2><a href="http://reason.com/tags/the-nanny-state">The Nanny State</a></h2>
+									<h2><a href="http://reason.com/tags/barack-obama">Barack Obama</a></h2>
 									<ul>
 									<li>
-		<h3><a href="http://reason.com/blog/2013/05/29/scotland-mulls-banning-glass-containers">Scotland Mulls Banning Glass Containers from All Pubs</a></h3>
-					<p class="meta">Scott Shackford</p>
-		</li>
-						<li>
-		<h3><a href="http://reason.com/24-7/2013/05/29/scottish-plan-to-ban-glass-alcohol-conta">Scottish Plan to Ban Glass Alcohol Containers Draws Outrage</a></h3>
+		<h3><a href="http://reason.com/24-7/2013/11/01/white-house-disputes-claim-obama-mulled">White House Disputes Claim Obama Mulled Dumping Biden</a></h3>
 			</li>
 						<li>
-		<h3><a href="http://reason.com/blog/2013/05/29/brickbat-ebony-and-ivory">Brickbat: Ebony and Ivory</a></h3>
-					<p class="meta">Charles Oliver</p>
+		<h3><a href="http://reason.com/archives/2013/11/01/obamacares-authoritarian-problem">Obamacare's Authoritarian Problem</a></h3>
+					<p class="meta">David Harsanyi</p>
 		</li>
+						<li>
+		<h3><a href="http://reason.com/24-7/2013/11/01/obama-creates-climate-change-task-force">Obama Creates Climate Change Task Force</a></h3>
+			</li>
 						</ul>
 			</section>
 		 
@@ -995,14 +1012,15 @@ googletag.cmd.push(function(){googletag.display("google_ads_div_Polls_Mini-Skysc
 									<h2><a href="http://reason.com/poll">Reason-Rupe Poll</a></h2>
 								<ul>
 									<li>
-		<h3><a href="http://reason.com/poll/2013/05/29/poll-two-thirds-of-americans-want-senate">Poll: 62 Percent of Americans Want Senate to Drop Gun Control</a></h3>
+		<h3><a href="http://reason.com/poll/2013/10/18/who-knew-tea-partiers-know-science2">Who Knew? Tea Partiers Know Science</a></h3>
 					<p class="meta">Emily Ekins</p>
 		</li>
 						<li>
-		<h3><a href="http://reason.com/poll/2013/05/28/nick-gillespie-interviews-emily-ekins-ab">Nick Gillespie Interviews Emily Ekins about May Reason-Rupe Poll Results</a></h3>
-			</li>
+		<h3><a href="http://reason.com/poll/2013/10/11/cnn-shutdown-poll-americans-angry-with-2">CNN Shutdown Poll: Americans Angry with GOP, Democrats, and Obama</a></h3>
+					<p class="meta">Emily Ekins</p>
+		</li>
 						<li>
-		<h3><a href="http://reason.com/poll/2013/05/28/new-poll-32-percent-still-like-federa2">New Poll: 32 Percent Still Like Federal Health Care Law</a></h3>
+		<h3><a href="http://reason.com/poll/2013/10/10/gop-favorability-plummets-tea-partiers-2">GOP Favorability Plummets, Tea Partiers Less Supportive Than Regular Republicans</a></h3>
 					<p class="meta">Emily Ekins</p>
 		</li>
 						</ul>
@@ -1014,16 +1032,16 @@ googletag.cmd.push(function(){googletag.display("google_ads_div_Polls_Mini-Skysc
 									<h2><a href="http://reason.com/tags/staff-reviews">Staff Reviews</a></h2>
 								<ul>
 									<li>
-		<h3><a href="http://reason.com/archives/2013/05/30/premature-prophets">Premature Prophets</a></h3>
-					<p class="meta">Brian Doherty</p>
+		<h3><a href="http://reason.com/archives/2013/11/01/dallas-buyers-club-and-enders-game"><em>Dallas Buyers Club</em> and <em>Ender’s Game</em></a></h3>
+					<p class="meta">Kurt Loder</p>
 		</li>
 						<li>
-		<h3><a href="http://reason.com/archives/2013/05/28/guantanamo-pushback">Guantanamo Pushback</a></h3>
-					<p class="meta">Harvey Silverglate</p>
+		<h3><a href="http://reason.com/archives/2013/10/27/hardhats-for-peace-students-fo">Hardhats for Peace, Students for War</a></h3>
+					<p class="meta">Jesse Walker</p>
 		</li>
 						<li>
-		<h3><a href="http://reason.com/archives/2013/05/27/battling-ma-bell">Battling Ma Bell</a></h3>
-					<p class="meta">Bryan Alexander</p>
+		<h3><a href="http://reason.com/archives/2013/10/25/blue-is-the-warmest-color-and-the-counse"><em>Blue Is the Warmest Color</em> and <em>The Counselor</em></a></h3>
+					<p class="meta">Kurt Loder</p>
 		</li>
 						</ul>
 			</section>
@@ -1083,6 +1101,7 @@ googletag.cmd.push(function(){googletag.display("google_ads_div_Polls_Mini-Skysc
 	  <li><a href="mailto:newsite@reason.com">Site Comments/Questions</a></li>
 	  <li><a href="http://reason.com//flatpage/item/media-contact">Media Inquiries</a></li>
       <li><a href="http://reason.com//flatpage/item/reprint-requests">Reprint Permissions</a></li>
+      <li><a href="http://reason.com/submissions">Submissions</a></li>
 	</ul>
 	<h3>Editorial &amp; Production Offices</h3>
 	<address>
@@ -1163,7 +1182,7 @@ qacct:"p-07wG_vRzPBWKE"
 	</footer>
 		
 	<!-- begin Buzzfeed widget -->
-	<div id="BF_WIDGET_1">&nbsp;<script type="text/javascript" src="http://ct.buzzfeed.com/wd/UserWidget?u=reason.com&amp;to=1&amp;or=vb&amp;wid=1&amp;cb=1580364347289"></script></div>
+	<div id="BF_WIDGET_1">&nbsp;<script type="text/javascript" src="http://ct.buzzfeed.com/wd/UserWidget?u=reason.com&amp;to=1&amp;or=vb&amp;wid=1&amp;cb=1580364348195"></script></div>
 	<script type="text/javascript">
 	(function( ){
 		BF_WIDGET_JS=document.createElement("script"); BF_WIDGET_JS.type="text/javascript";
