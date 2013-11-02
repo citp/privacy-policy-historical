@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the novafm.com.au privacy policy that was archived on 2013-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130629090723id_/http%3A//www.novafm.com.au/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the novafm.com.au privacy policy that was archived on 2013-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131102204356id_/http%3A//www.novafm.com.au/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement | NovaFM
 
