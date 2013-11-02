@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ihateyelp.com privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501080919id_/http%3A//directory.ihateyelp.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ihateyelp.com privacy policy that was archived on 2013-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131102202027id_/http%3A//directory.ihateyelp.com/privacy.html) for the most accurate reproduction.*
 
 # Ihateyelp - Submit Your Site
 
@@ -7,7 +7,7 @@
 
 Ihateyelp - Submit Your Site - submit website, free directory
 
- **Privacy Policy**
+**Privacy Policy**
 
 iEntry reserves the right to change this policy at any time by notifying users through a notice posted on iEntry.com or by email, of the existence of a new privacy policy or any updates. 
 
