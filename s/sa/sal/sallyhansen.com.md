@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sallyhansen.com privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231204311id_/http%3A//www.coty.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sallyhansen.com privacy policy that was archived on 2013-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131102202814id_/http%3A//www.coty.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Coty | A World of Beauty
 
