@@ -1,8 +1,12 @@
-<!--The following is the downloaded HTML source of the khl.com privacy policy that was archived on 2013-06-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130602213751id_/http%3A//www.khl.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the khl.com privacy policy that was archived on 2013-11-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131102135106id_/http%3A//www.khl.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
+<meta name="google-site-verification" content="e21AkL2EcaQ7-KMBF4h5pxgTJhp2qHNYhigvrxUSJVE">
 
+ <meta name="description" content=" KHL Group is the leading supplier of international construction information in the world. HL has expanded into digital magazines, e-newsletters, directories, the internet, new media technologies, book publishing, direct mail, list rental, exhibitions, conferences and contract publishing. ">
+   <meta name="KeyWords" content="KHL Group, independent magazine, digital magazines, e-newsletters, directories, the internet, new media technologies, book publishing, direct mail, list rental, exhibitions, conferences and contract publishing  ">
+ 
 
 
 
@@ -1739,8 +1743,11 @@ googletag.display('div-gpt-ad-1355305258074-0');
 </ul>
 </li>
 <li>
-<a href="/events/" title="KHL Group - $bundle.translate(&quot;title.events.$render_pageLocale&quot;)">Events</a>
+<a href="/events/" title="Events">Events</a>
 <ul class="magazines">
+<li>
+<a href="http://www.khl.com/events/exhibitions/" title="All Events">All Events</a>
+</li>
 <li>
 <a href="http://www.apexshow.com/" title="APEX Show">APEX Show</a>
 </li>
@@ -1760,7 +1767,7 @@ googletag.display('div-gpt-ad-1355305258074-0');
 <a href="http://www.khl-group.com/events/iapa/" title="IAPA/IPAF SUMMIT">IAPA/IPAF SUMMIT</a>
 </li>
 <li>
-<a href="http://www.khl.com/icwef " title="ICWEF">ICWEF</a>
+<a href="http://www.khl-group.com/events/icef" title="ICEF">International Construction Economic Forum (ICEF)</a>
 </li>
 <li>
 <a href="http://www.khl.com/ire/" title="International Rental Exhibition">International Rental Exhibition</a>
@@ -1776,9 +1783,6 @@ googletag.display('div-gpt-ad-1355305258074-0');
 </li>
 <li>
 <a href="http://www.khl-group.com/events/demolition-summit-2013/" title="World Demolition Summit">World Demolition Summit</a>
-</li>
-<li>
-<a href="http://www.khl.com/events/exhibitions/" title="Other Exhibitions">Other Exhibitions</a>
 </li>
 </ul>
 </li>
@@ -1798,15 +1802,6 @@ googletag.display('div-gpt-ad-1355305258074-0');
 </li>
 <li>
 <a href="/advertising/magazine/" title="KHL Advertising - Magazine">Magazine</a>
-</li>
-<li>
-<a href="/advertising/e-newsletter/" title="KHL Advertising - e-Newsletter">Digital</a>
-</li>
-<li>
-<a href="/advertising/khl-com/" title="Websites">Websites</a>
-</li>
-<li>
-<a href="/advertising/events/" title="KHL Advertising - Events">Events</a>
 </li>
 </ul>
 </li>
@@ -2013,7 +2008,7 @@ document.write('<iframe src="http://www.facebook.com/plugins/like.php?app_id=172
 						
 
 						
-							<input type="submit" name="submit-search" id="p13967Isubmit-search" value="Go" class="portlet-form-button searchButton">
+							<input type="submit" name="submit-search" id="p13967Isubmit-search" value=" Go " class="portlet-form-button searchButton">
 						
 
 						
@@ -2097,42 +2092,81 @@ document.write('<iframe src="http://www.facebook.com/plugins/like.php?app_id=172
 
 
 	
-<script>
+<script type="text/javascript">
     
     function create(file,action) {
-    var URL = window.location;
-    var download = encodeURIComponent(file);
-    document.cookie = 'detailURL='+URL+'; path=/';
-    document.cookie = 'downloadFile='+download+'; path=/';
-    window.location = 'http://www.khl.com/unauthorised?action='+action;
-    } 
+	    var URL = window.location;
+	    var download = encodeURIComponent(file);
+	    document.cookie = 'detailURL='+URL+'; path=/';
+	    document.cookie = 'downloadFileUrl='+download+'; path=/';
+	    window.location = 'http://www.khl.com/unauthorised?action='+action;
+    }
+	if(typeof KHL === typeof undefined){ var KHL = {};}
+
+	KHL.Cookie = {
+	    create: function(name,value,days){
+	      var expires = "";
+	      if (days) {
+	         var date = new Date();
+	         date.setTime(date.getTime()+(days*24*60*60*1000));
+	         expires = "; expires="+date.toGMTString();
+	      }
+	      document.cookie = name+"="+value+expires+"; path=/";
+	    },
+	    read: function(name) {
+	       var nameEQ = name + "=";
+	       var ca = document.cookie.split(';');
+	       for(var i=0;i < ca.length;i++) {
+	         var c = ca[i];
+	         while (c.charAt(0)==' ') {
+	           c = c.substring(1,c.length);
+	         }
+	         if (c.indexOf(nameEQ) == 0) {
+	           return c.substring(nameEQ.length,c.length);
+	         }
+	       }
+	       return null;
+	    },
+	    erase: function(name) {
+	      KHL.Cookie.create(name,"",-1);
+	    }
+	 };
+
+        jQuery(function(){
+	var redirectUrl = KHL.Cookie.read("downloadFileUrl");
+	if(redirectUrl){
+		KHL.Cookie.erase("downloadFileUrl");
+		document.location.href = unescape(redirectUrl);
+	}})
+
+ 	
   </script><div id="magazineList" class="mod blue bordered">
 <div class="blackHeading">LATEST KHL MAGAZINES</div>
 <div class="shaded">
 <ul>
 <li>
-<a href="/magazines/american-cranes-and-transport" title="ACT June 2013"><img class="magazineCover" alt="ACT June 2013" src="/servlet/file/content_1.pdf.0.2.jpg.2.jpg?ITEM_ENT_ID=85617&amp;COLLSPEC_ENT_ID=42&amp;ITEM_VERSION=1&amp;FILE_SERVICE_CONF_ID=33"></a><a class="underlined" href="javascript: create('/servlet/file/ACT%20June%202013.pdf?ITEM_ENT_ID=85617&amp;COLLSPEC_ENT_ID=42&amp;ITEM_VERSION=1&amp;download=1','download')">DOWNLOAD NOW</a><a class="underlined" href="/magazines/american-cranes-and-transport/pdf-archive">ISSUE ARCHIVE</a><a class="underlined" href="/subscriptions/">SUBSCRIBE</a><a class="underlined" href="/media-packs//magazines/american-cranes-and-transport">MEDIA PACK</a>
+<a href="/magazines/international-cranes-and-specialized-transport" title="IC October 2013"><img class="magazineCover" alt="IC October 2013" src="/servlet/file/image.jpg.0.0.jpg.0.jpg?ITEM_ENT_ID=89110&amp;COLLSPEC_ENT_ID=42&amp;ITEM_VERSION=2&amp;FILE_SERVICE_CONF_ID=33"></a><a class="underlined" href="javascript: create('http://www.KHL-Group.com/digital-mag/IC/2013/Oct-2013/IC-Oct-2013/index.html','view')">VIEW MAGAZINE</a><a class="underlined" href="javascript: create('/servlet/file/IC%20October%202013.pdf?ITEM_ENT_ID=89110&amp;COLLSPEC_ENT_ID=42&amp;ITEM_VERSION=2&amp;download=1','download')">DOWNLOAD NOW</a><a class="underlined" href="/magazines/international-cranes-and-specialized-transport/pdf-archive">ISSUE ARCHIVE</a><a class="underlined" href="/subscriptions/">SUBSCRIBE</a><a class="underlined" href="/media-packs//magazines/international-cranes-and-specialized-transport">MEDIA PACK</a>
 </li>
 <li>
-<a href="/magazines/access-international" title="AI May-June 2013"><img class="magazineCover" alt="AI May-June 2013" src="/servlet/file/content_1.pdf.0.2.jpg.2.jpg?ITEM_ENT_ID=85501&amp;COLLSPEC_ENT_ID=42&amp;ITEM_VERSION=1&amp;FILE_SERVICE_CONF_ID=33"></a><a class="underlined" href="javascript: create('/servlet/file/AI%20May-June%202013.pdf?ITEM_ENT_ID=85501&amp;COLLSPEC_ENT_ID=42&amp;ITEM_VERSION=1&amp;download=1','download')">DOWNLOAD NOW</a><a class="underlined" href="/magazines/access-international/pdf-archive">ISSUE ARCHIVE</a><a class="underlined" href="/subscriptions/">SUBSCRIBE</a><a class="underlined" href="/media-packs//magazines/access-international">MEDIA PACK</a>
+<a href="/magazines/international-construction" title="ICON October 2013"><img class="magazineCover" alt="ICON October 2013" src="/servlet/file/image.jpg.0.0.jpg.0.jpg?ITEM_ENT_ID=89050&amp;COLLSPEC_ENT_ID=42&amp;ITEM_VERSION=2&amp;FILE_SERVICE_CONF_ID=33"></a><a class="underlined" href="javascript: create('http://www.KHL-Group.com/digital-mag/ICON/2013/ICON-Oct-2013/ICON-Oct-2013/index.html','view')">VIEW MAGAZINE</a><a class="underlined" href="javascript: create('/servlet/file/ICON%20October%202013.pdf?ITEM_ENT_ID=89050&amp;COLLSPEC_ENT_ID=42&amp;ITEM_VERSION=2&amp;download=1','download')">DOWNLOAD NOW</a><a class="underlined" href="/magazines/international-construction/pdf-archive">ISSUE ARCHIVE</a><a class="underlined" href="/subscriptions/">SUBSCRIBE</a><a class="underlined" href="/media-packs//magazines/international-construction">MEDIA PACK</a>
 </li>
 <li>
-<a href="/magazines/access-lift-and-handlers" title="ALH May-June 2013"><img class="magazineCover" alt="ALH May-June 2013" src="/servlet/file/content_2.pdf.0.2.jpg.2.jpg?ITEM_ENT_ID=85397&amp;COLLSPEC_ENT_ID=42&amp;ITEM_VERSION=2&amp;FILE_SERVICE_CONF_ID=33"></a><a class="underlined" href="javascript: create('/servlet/file/ALH%20May-June%202013.pdf?ITEM_ENT_ID=85397&amp;COLLSPEC_ENT_ID=42&amp;ITEM_VERSION=2&amp;download=1','download')">DOWNLOAD NOW</a><a class="underlined" href="/magazines/access-lift-and-handlers/pdf-archive">ISSUE ARCHIVE</a><a class="underlined" href="/subscriptions/">SUBSCRIBE</a><a class="underlined" href="/media-packs//magazines/access-lift-and-handlers">MEDIA PACK</a>
+<a href="/magazines/international-construction-turkiye" title="ICT October 2013"><img class="magazineCover" alt="ICT October" src="/servlet/file/image.jpg.0.0.jpg.0.jpg?ITEM_ENT_ID=89059&amp;COLLSPEC_ENT_ID=42&amp;ITEM_VERSION=2&amp;FILE_SERVICE_CONF_ID=33"></a><a class="underlined" href="javascript: create('http://www.KHL-Group.com/digital-mag/ICT/Oct-2013/ICT-Oct-2013/index.html','view')">SORUNU GÖRÜNÜMÜ</a><a class="underlined" href="javascript: create('/servlet/file/ICT%20October%202013.pdf?ITEM_ENT_ID=89059&amp;COLLSPEC_ENT_ID=42&amp;ITEM_VERSION=2&amp;download=1','download')">SAYI İNDİR</a><a class="underlined" href="/magazines/international-construction-turkiye/pdf-archive">SAYI ARŞİV</a><a class="underlined" href="/subscriptions/">ABONE OL</a><a class="underlined" href="/media-packs//magazines/international-construction-turkiye">MEDYA PAKETİ</a>
 </li>
 <li>
-<a href="/magazines/demolition-and-recycling-international" title="DRI May-June 2013"><img class="magazineCover" alt="DRI May-June 2013" src="/servlet/file/content_6.pdf.0.2.jpg.2.jpg?ITEM_ENT_ID=85377&amp;COLLSPEC_ENT_ID=42&amp;ITEM_VERSION=6&amp;FILE_SERVICE_CONF_ID=33"></a><a class="underlined" href="javascript: create('http://edition.pagesuite-professional.co.uk/Launch.aspx?EID=10d25b08-97e4-4d50-8807-95cc2e09f60d','view')">VIEW MAGAZINE</a><a class="underlined" href="javascript: create('/servlet/file/DRI%20May-June%202013.pdf?ITEM_ENT_ID=85377&amp;COLLSPEC_ENT_ID=42&amp;ITEM_VERSION=6&amp;download=1','download')">DOWNLOAD NOW</a><a class="underlined" href="/magazines/demolition-and-recycling-international/pdf-archive">ISSUE ARCHIVE</a><a class="underlined" href="/subscriptions/">SUBSCRIBE</a><a class="underlined" href="/media-packs//magazines/demolition-and-recycling-international">MEDIA PACK</a>
+<a href="/magazines/international-construction-turkiye" title="VPT September-October 2013"><img class="magazineCover" alt="VPT September-October 2013" src="/servlet/file/image.jpg.0.0.jpg.0.jpg?ITEM_ENT_ID=89053&amp;COLLSPEC_ENT_ID=42&amp;ITEM_VERSION=3&amp;FILE_SERVICE_CONF_ID=33"></a><a class="underlined" href="javascript: create('http://www.KHL-Group.com/digital-mag/VPT/Oct-2013/VPT-Oct-2013/index.html','view')">SORUNU GÖRÜNÜMÜ</a><a class="underlined" href="javascript: create('/servlet/file/VPT%20September-October%202013.pdf?ITEM_ENT_ID=89053&amp;COLLSPEC_ENT_ID=42&amp;ITEM_VERSION=3&amp;download=1','download')">SAYI İNDİR</a><a class="underlined" href="/magazines/international-construction-turkiye/pdf-archive">SAYI ARŞİV</a><a class="underlined" href="/subscriptions/">ABONE OL</a><a class="underlined" href="/media-packs//magazines/international-construction-turkiye">MEDYA PAKETİ</a>
 </li>
 <li>
-<a href="/magazines/construcao-latino-americana" title="CLA Portuguese May 2013"><img class="magazineCover" alt="CLA Portuguese May 2013" src="/servlet/file/content_1.pdf.0.2.jpg.2.jpg?ITEM_ENT_ID=85297&amp;COLLSPEC_ENT_ID=42&amp;ITEM_VERSION=1&amp;FILE_SERVICE_CONF_ID=33"></a><a class="underlined" href="javascript: create('http://edition.pagesuite-professional.co.uk/Launch.aspx?EID=4bfd4443-1be6-4a53-a41d-c3bb9316bfde','view')">VER EDIÇÃO</a><a class="underlined" href="javascript: create('/servlet/file/CLA%20Portuguese%20May%202013.pdf?ITEM_ENT_ID=85297&amp;COLLSPEC_ENT_ID=42&amp;ITEM_VERSION=1&amp;download=1','download')">BAIXE A EDIÇÃO</a><a class="underlined" href="/magazines/construcao-latino-americana/pdf-archive">MEDIA PACK</a><a class="underlined" href="/subscriptions/">ASSINE</a><a class="underlined" href="/media-packs//magazines/construcao-latino-americana">MEDIA PACK</a>
+<a href="/magazines/construcao-latino-americana" title="CLA Portuguese October 2013"><img class="magazineCover" alt="CLA Portuguese October 2013" src="/servlet/file/image.jpg.0.0.jpg.0.jpg?ITEM_ENT_ID=88890&amp;COLLSPEC_ENT_ID=42&amp;ITEM_VERSION=1&amp;FILE_SERVICE_CONF_ID=33"></a><a class="underlined" href="javascript: create('http://www.KHL-Group.com/digital-mag/CLA/2013/Oct-2013-PTG/CLA-Oct-2013-PTG/index.html','view')">VER EDIÇÃO</a><a class="underlined" href="javascript: create('/servlet/file/CLA%20Portuguese%20October%202013.pdf?ITEM_ENT_ID=88890&amp;COLLSPEC_ENT_ID=42&amp;ITEM_VERSION=1&amp;download=1','download')">BAIXE A EDIÇÃO</a><a class="underlined" href="/magazines/construcao-latino-americana/pdf-archive">MEDIA PACK</a><a class="underlined" href="/subscriptions/">ASSINE</a><a class="underlined" href="/media-packs//magazines/construcao-latino-americana">MEDIA PACK</a>
 </li>
 <li>
-<a href="/magazines/construccion-latinoamericana" title="CLA Spanish May 2013"><img class="magazineCover" alt="CLA Spanish May 2013" src="/servlet/file/content_1.pdf.0.2.jpg.2.jpg?ITEM_ENT_ID=85296&amp;COLLSPEC_ENT_ID=42&amp;ITEM_VERSION=1&amp;FILE_SERVICE_CONF_ID=33"></a><a class="underlined" href="javascript: create('http://edition.pagesuite-professional.co.uk/Launch.aspx?EID=277f2fe0-292b-450a-9c70-ac611a0dfc34','view')">VEA LA EDICIÓN</a><a class="underlined" href="javascript: create('/servlet/file/CLA%20Spanish%20May%202013.pdf?ITEM_ENT_ID=85296&amp;COLLSPEC_ENT_ID=42&amp;ITEM_VERSION=1&amp;download=1','download')">DESCARGUE</a><a class="underlined" href="/magazines/construccion-latinoamericana/pdf-archive">MEDIA PACK</a><a class="underlined" href="/subscriptions/">SUSCRÍBASE</a><a class="underlined" href="/media-packs//magazines/construccion-latinoamericana">MEDIA PACK</a>
+<a href="/magazines/construccion-latinoamericana" title="CLA Spanish October 2013"><img class="magazineCover" alt="CLA Spanish October 2013" src="/servlet/file/image.jpg.0.0.jpg.0.jpg?ITEM_ENT_ID=88889&amp;COLLSPEC_ENT_ID=42&amp;ITEM_VERSION=1&amp;FILE_SERVICE_CONF_ID=33"></a><a class="underlined" href="javascript: create('http://www.KHL-Group.com/digital-mag/CLA/2013/Oct-2013-SPN/CLA-Oct-2013-SPN/index.html','view')">VEA LA EDICIÓN</a><a class="underlined" href="javascript: create('/servlet/file/CLA%20Spanish%20October%202013.pdf?ITEM_ENT_ID=88889&amp;COLLSPEC_ENT_ID=42&amp;ITEM_VERSION=1&amp;download=1','download')">ESCARGUE EDICIÓN</a><a class="underlined" href="/magazines/construccion-latinoamericana/pdf-archive">ARCHIVO EDICION</a><a class="underlined" href="/subscriptions/">SUSCRÍBASE</a><a class="underlined" href="/media-packs//magazines/construccion-latinoamericana">MEDIA PACK</a>
 </li>
 <li>
-<a href="/magazines/international-cranes-and-specialized-transport" title="IC May 2013"><img class="magazineCover" alt="IC May 2013" src="/servlet/file/content_2.pdf.0.2.jpg.2.jpg?ITEM_ENT_ID=85102&amp;COLLSPEC_ENT_ID=42&amp;ITEM_VERSION=2&amp;FILE_SERVICE_CONF_ID=33"></a><a class="underlined" href="javascript: create('http://edition.pagesuite-professional.co.uk/Launch.aspx?EID=136f0ab1-d29a-45fb-b6a2-286795dfd1d2','view')">VIEW MAGAZINE</a><a class="underlined" href="javascript: create('/servlet/file/IC%20May%202013.pdf?ITEM_ENT_ID=85102&amp;COLLSPEC_ENT_ID=42&amp;ITEM_VERSION=2&amp;download=1','download')">DOWNLOAD NOW</a><a class="underlined" href="/magazines/international-cranes-and-specialized-transport/pdf-archive">ISSUE ARCHIVE</a><a class="underlined" href="/subscriptions/">SUBSCRIBE</a><a class="underlined" href="/media-packs//magazines/international-cranes-and-specialized-transport">MEDIA PACK</a>
+<a href="/magazines/construction-europe" title="CE October 2013"><img class="magazineCover" alt="CE October 2013" src="/servlet/file/image.jpg.0.0.jpg.0.jpg?ITEM_ENT_ID=88887&amp;COLLSPEC_ENT_ID=42&amp;ITEM_VERSION=1&amp;FILE_SERVICE_CONF_ID=33"></a><a class="underlined" href="javascript: create('http://www.KHL-Group.com/digital-mag/CE/Oct-2013/CE-Oct-2013/index.html','view')">VIEW MAGAZINE</a><a class="underlined" href="javascript: create('/servlet/file/CE%20October%202013.pdf?ITEM_ENT_ID=88887&amp;COLLSPEC_ENT_ID=42&amp;ITEM_VERSION=1&amp;download=1','download')">DOWNLOAD NOW</a><a class="underlined" href="/magazines/construction-europe/pdf-archive">ISSUE ARCHIVE</a><a class="underlined" href="/subscriptions/">SUBSCRIBE</a><a class="underlined" href="/media-packs//magazines/construction-europe">MEDIA PACK</a>
 </li>
 <li>
-<a href="/magazines/international-construction" title="ICON May 2013"><img class="magazineCover" alt="ICON May 2013" src="/servlet/file/content_1.pdf.0.2.jpg.2.jpg?ITEM_ENT_ID=85078&amp;COLLSPEC_ENT_ID=42&amp;ITEM_VERSION=1&amp;FILE_SERVICE_CONF_ID=33"></a><a class="underlined" href="javascript: create('http://edition.pagesuite-professional.co.uk/Launch.aspx?EID=1521bb68-4f50-425b-8153-48de14c4d777','view')">VIEW MAGAZINE</a><a class="underlined" href="javascript: create('/servlet/file/ICON%20May%202013.pdf?ITEM_ENT_ID=85078&amp;COLLSPEC_ENT_ID=42&amp;ITEM_VERSION=1&amp;download=1','download')">DOWNLOAD NOW</a><a class="underlined" href="/magazines/international-construction/pdf-archive">ISSUE ARCHIVE</a><a class="underlined" href="/subscriptions/">SUBSCRIBE</a><a class="underlined" href="/media-packs//magazines/international-construction">MEDIA PACK</a>
+<a href="/magazines/american-cranes-and-transport" title="ACT October 2013"><img class="magazineCover" alt="ACT October 2013" src="/servlet/file/image.jpg.0.0.jpg.0.jpg?ITEM_ENT_ID=88543&amp;COLLSPEC_ENT_ID=42&amp;ITEM_VERSION=4&amp;FILE_SERVICE_CONF_ID=33"></a><a class="underlined" href="javascript: create('http://www.KHL-Group.com/digital-mag/ACT/2013/ACT-Oct-2013/index.html','view')">VIEW MAGAZINE</a><a class="underlined" href="javascript: create('/servlet/file/ACT%20October%202013.pdf?ITEM_ENT_ID=88543&amp;COLLSPEC_ENT_ID=42&amp;ITEM_VERSION=4&amp;download=1','download')">DOWNLOAD NOW</a><a class="underlined" href="/magazines/american-cranes-and-transport/pdf-archive">ISSUE ARCHIVE</a><a class="underlined" href="/subscriptions/">SUBSCRIBE</a><a class="underlined" href="/media-packs//magazines/american-cranes-and-transport">MEDIA PACK</a>
 </li>
 </ul>
 </div>
@@ -2184,7 +2218,11 @@ document.cookie = 'detailURL='+URL+'; path=/';
 <p>Some of our websites contain cookies. Cookies are small text files that a website sends to your computer to record your online activity. Cookies may be used on our websites to help personalise your visits to our sites, improve how you use certain aspects of our sites and to record your online activity. You can disable cookies by adjusting your browser settings, but if you do so, some functions on our sites may not work correctly.</p>
 <h4>5. Security</h4>
 <p>We take commercially reasonable steps to protect your personal information. This includes setting up processes and procedures to minimise unauthorised access to or disclosure of your information. However, we do not guarantee that we will eliminate all risk of misuse of your personal information by intruders. Please keep any passwords for your accounts safe and do not disclose them to anyone else. You must contact us immediately if you become aware of any unauthorised use of your password or other security breach.</p>
-<p>Bulletin boards, chat rooms and other community areas on our sites are open to the public. You should avoid disclosing any information in these areas which may identify you or anyone else. We are not responsible for the protection or security of information which you disclose in these areas.</p></div><div style="display:none">http%3A%2F%2Fwww.facebook.com%2FKHLGroup</div><div id="printarticle" style="inline-block; padding-top:5px;">
+<p>Bulletin boards, chat rooms and other community areas on our sites are open to the public. You should avoid disclosing any information in these areas which may identify you or anyone else. We are not responsible for the protection or security of information which you disclose in these areas.</p>
+<h4>6. Contact</h4>
+<p>If you wish to contact KHL about any aspect of our privacy policy then use one of the following methods:</p>
+<p>Peter Watkinson<br>Data Controller<br>KHL LLC</p>
+<p>Phone: +44 (0)1892 784088<br>E-mail: peter.watkinson@khl.com<br>Post: Southfields, Southview Road, Wadhurst, East Sussex TN5 6TP, UK</p></div><div style="display:none">http%3A%2F%2Fwww.facebook.com%2FKHLGroup</div><div id="printarticle" style="inline-block; padding-top:5px;">
 <a style="padding-right:10px; vertical-align:top; float:left;" href="#" onclick="window.print();return false;"><img src="/other_files/icons/print.gif"> Print article</a><a style="padding-right:10px; vertical-align:top; float:left;" href="javascript:poptastic('/magazines/popup?http://www.khl.com/item111');"><img src="/other_files/icons/email.gif"> Email to a friend</a>
 <div style="vertical-align:top; float:left; width:140px;" class="addthis_toolbox addthis_default_style ">
 <a class="addthis_button_preferred_1"></a><a class="addthis_button_preferred_2"></a><a class="addthis_button_preferred_3"></a><a class="addthis_button_preferred_4"></a><a class="addthis_button_compact"></a><a class="addthis_counter addthis_bubble_style"></a>
@@ -2281,7 +2319,7 @@ EXPLORE KHL
   <li><a href="/newsletter/">International Rental News</a></li>
   <li><a href="/newsletter/">World Construction Week</a></li>
   <li><a href="/newsletter/">World Crane Week</a></li>
-  <li><a href="/newsletter/">World Demolition Week</a></li>
+  <li><a href="/newsletter/">D&amp;RI</a></li>
   <li><a href="/newsletter/">Show Daily Newsletters</a></li>
   <li class"morelink"=""><a href="/newsletter/">&lt;more&gt;</a></li>
 </ul>
