@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the efavormart.com privacy policy that was archived on 2013-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130507072117id_/http%3A//www.efavormart.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the efavormart.com privacy policy that was archived on 2013-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131102201910id_/http%3A//www.efavormart.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # www.efavormart.com. - Privacy Policy
 
@@ -9,19 +9,15 @@
 |  |   
 ---  
   
-    [Like us on Facebook](https://www.facebook.com/pages/eFavorMart/79613468733?ref=search)
+    [Like us on Facebook](https://www.facebook.com/efavormartfans)
 
     [Follow us on Twitter](https://twitter.com/#!/efavormart)
 
     [Read our Blog](http://2081084.sites.myregisteredsite.com/efavormart_blog/)
 
-    [Our Youtube Channel](http://www.youtube.com/eFavorMartParties)
-
-    [Follow our Pinterest](http://pinterest.com/source/efavormart.com/)
+    [Our Youtube Channel](http://www.youtube.com/efavormartparties)
 
 [](http://visitor.r20.constantcontact.com/manage/optin/ea?v=0014QkJ1EWEq_JxGCqXT3_ycg%3D%3D)
-
-[](http://www.efavormart.com/feedback.aspx)
 
 [Home](https://web.archive.org/) > Privacy Policy
 
