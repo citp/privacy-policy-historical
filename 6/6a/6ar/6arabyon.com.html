@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the 6arabyon.com privacy policy that was archived on 2013-06-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130602030756id_/http%3A//6arabyon.com/tarabyon.asp%3Fview%3Dprivacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the 6arabyon.com privacy policy that was archived on 2013-11-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131102202205id_/http%3A//www.6arabyon.com/tarabyon.asp%3Fview%3Dprivacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns:fb="http://ogp.me/ns/fb#"><head>
 	<title> Tarabyon | Arabic Mp3 Music Online</title>
@@ -17,10 +17,11 @@
 	<meta name="google-site-verification" content="M6gLHzES4N7bWNquwnvWCuSI29QZCDc4O46d6sAqzrE">
 	<meta property="fb:admins" content="529846360">
 	
+	
 
 
-</head><body><div id="fb-root"></div>
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1&amp;appId=275673242497904"></script><script>(function(d, s, id) {
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://scripts.chitika.net/getads.js"></script></head><body><div id="fb-root"></div>
+<script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1&amp;appId=275673242497904"></script><script>(function(d, s, id) {
   var js, fjs = d.getElementsByTagName(s)[0];
   if (d.getElementById(id)) return;
   js = d.createElement(s); js.id = id;
@@ -44,21 +45,111 @@
 	<script type="text/javascript" src="js/flowplayer-3.1.4.min.js"></script>
 	<script type="text/javascript" src="js/common.js"></script>
 	<script type="text/javascript" src="js/swfobject.js"></script>
+	<style type="text/css">
+<!--
+#sponsorAdDiv {position:absolute; height:1; width:1px; top:0; left:0;}
+-->
+</style>
+
+<script type="text/javascript">
+
+/******************************************
+* DHTML Ad Box (By Matt Gabbert at http://www.nolag.com)
+* Visit http://www.dynamicdrive.com/ for full script
+* This notice must stay intact for use
+******************************************/
+
+adTime=10;  // seconds ad reminder is shown
+chanceAd=1; // ad will be shown 1 in X times (put 1 for everytime)
+
+var ns=(document.layers);
+var ie=(document.all);
+var w3=(document.getElementById && !ie);
+var calunit=ns? "" : "px"
+adCount=0;
+function initAd(){
+	if(!ns && !ie && !w3) return;
+	if(ie)		adDiv=eval('document.all.sponsorAdDiv.style');
+	else if(ns)	adDiv=eval('document.layers["sponsorAdDiv"]');
+	else if(w3)	adDiv=eval('document.getElementById("sponsorAdDiv").style');
+	randAd=Math.ceil(Math.random()*chanceAd);
+        if (ie||w3)
+        adDiv.visibility="visible";
+        else
+        adDiv.visibility ="show";
+	if(randAd==1) showAd();
+}
+function showAd(){
+if(adCount<adTime*10){adCount+=1;
+	if (ie){documentWidth  =truebody().offsetWidth/2+truebody().scrollLeft-20;
+	documentHeight =truebody().offsetHeight/2+truebody().scrollTop-20;}	
+	else if (ns){documentWidth=window.innerWidth/2+window.pageXOffset-20;
+	documentHeight=window.innerHeight/2+window.pageYOffset-20;} 
+	else if (w3){documentWidth=self.innerWidth/2+window.pageXOffset-20;
+	documentHeight=self.innerHeight/2+window.pageYOffset-20;} 
+	adDiv.left=documentWidth-200+calunit;adDiv.top =documentHeight-200+calunit;
+	setTimeout("showAd()",100);}else closeAd();
+}
+function closeAd(){
+if (ie||w3)
+adDiv.display="none";
+else
+adDiv.visibility ="hide";
+}
+
+function truebody(){
+return (document.compatMode && document.compatMode!="BackCompat")? document.documentElement : document.body
+}
+
+onload=initAd;
+//End-->
+</script>
 
 
 	<!-- #header starts -->
 <div id="header-wrap">
 	<div id="header">
 		<div id="logo"><a href="home.asp"><img src="images/logo.png" alt="" title=""></a></div>
-		<div style="float:right;margin:-30px 0 -30px -30px;">
-		<a href="http://www.6arabyon.com/tarabyon.asp?view=contact"><img src="images/banner768.jpg"></a>
+			<div style="float:right;margin:-30px;">
+		
+	<!-- #ads starts -->
+<script type="text/javascript"> 
+  ( function() {
+    if (window.CHITIKA === undefined) {
+      window.CHITIKA = { 'units' : [] };
+    };
+    var unit = {
+      'publisher' : "tarabyon1",
+      'width' : 728,
+      'height' : 90,
+      'type' : "mpu",
+      'sid' : "Chitika Default",
+      'color_site_link' : "8374CC",
+      'color_title' : "8374CC",
+      'color_border' : "FFFFFF",
+      'color_text' : "000000",
+      'color_bg' : "FFFFFF"
+    };
+    var placement_id = window.CHITIKA.units.length;
+    window.CHITIKA.units.push(unit);
+    document.write('<div id="chitikaAdBlock-' + placement_id + '"></div>');
+    var s = document.createElement('script');
+    s.type = 'text/javascript';
+    s.src = 'http://scripts.chitika.net/getads.js';
+    try {
+      document.getElementsByTagName('head')[0].appendChild(s);
+    } catch(e) {
+      document.write(s.outerHTML);
+    }
+}());
+</script><div id="chitikaAdBlock-0"></div>
 
-
+		</div>
 	<!-- #ads ends -->
 
 		</div>
 	</div>
-</div>
+
     
 <div id="wrapper">
 
@@ -181,4 +272,4 @@
 <script type="text/javascript">var tsId=2131077;</script>
 <!-- #footer ends -->
 
-</body></html>
+<div id="ui-datepicker-div" style="display: none;"></div></body></html>
