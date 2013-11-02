@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fashionmodeldirectory.com privacy policy that was archived on 2013-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130615012710id_/http%3A//www.fashionmodeldirectory.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fashionmodeldirectory.com privacy policy that was archived on 2013-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131102021400id_/http%3A//www.fashionmodeldirectory.com/info/privacy) for the most accurate reproduction.*
 
 # 
 
