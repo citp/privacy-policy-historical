@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sonatype.com privacy policy that was archived on 2013-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130408084208id_/http%3A//www.sonatype.com/Usage/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sonatype.com privacy policy that was archived on 2013-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131102222504id_/http%3A//www.sonatype.com/usage/privacy-policy) for the most accurate reproduction.*
 
-# Privacy / Usage Sonatype.com
+# Usage - Privacy Policy - Sonatype.com
 
 ## SONATYPE, INC. PRIVACY POLICY
 
@@ -10,7 +10,7 @@ Sonatype, Inc. has been awarded TRUSTe's Privacy Seal signifying that this priva
 
 The TRUSTe program covers the following Web site: [www.Sonatype.com](http://www.sonatype.com/) and [www.maven.org](http://www.maven.org/). 
 
-[We self-certify compliance with:](https://safeharbor.export.gov/list.aspx)  
+[We self-certify compliance with:](https://safeharbor.export.gov/list.aspx)   
 [](http://export.gov/safeharbor/)
 
 Sonatype, Inc. complies with the U.S. – E.U. Safe Harbor Framework and the U.S. – Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from European Union member countries and Switzerland. Sonatype, Inc. has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Sonatype, Inc.’s certification, please visit <http://www.export.gov/safeharbor/>.
@@ -97,7 +97,7 @@ The security of your personal information is important to us. When you enter sen
 
 Sonatype regularly reviews its compliance with this Privacy Policy. Please feel free to direct any questions or concerns regarding this Privacy Policy or Sonatype's treatment of personal information by emailing us at: [privacy@Sonatype.com](mailto:privacy@Sonatype.com) or by writing to us at:
 
-**Privacy Matters**  
+**Privacy Matters**   
 Sonatype, Inc.  
 12501 Prosperity Drive, Suite 350  
 Silver Spring, MD 20904  
@@ -115,9 +115,8 @@ We may update this privacy statement to reflect changes to our information pract
 
 ### Contact Us
 
-If you have any questions or suggestions regarding our Privacy Policy, please [contact us online](https://web.archive.org/Contact-Us?r=privacy), call us at 1.877.866.2836, or write to us at:
+If you have any questions or suggestions regarding our Privacy Policy, please contact us online, call us at 1.877.866.2836, or write to us at:
 
 Sonatype, Inc.  
-12501 Prosperity Drive, Suite 350  
-Silver Spring, MD 20904  
-
+8161 Maple Lawn Blvd, Suite 250  
+Fulton, MD 20759
