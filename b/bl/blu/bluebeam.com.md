@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bluebeam.com privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601202802id_/http%3A//bluebeam.com/us/company/privacy-policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bluebeam.com privacy policy that was archived on 2013-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131102203222id_/http%3A//www.bluebeam.com/us/company/privacy-policy.asp) for the most accurate reproduction.*
 
 # Bluebeam Software, Inc.
 
