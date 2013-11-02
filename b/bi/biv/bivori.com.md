@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bivori.com privacy policy that was archived on 2013-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130513205735id_/http%3A//bivori.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bivori.com privacy policy that was archived on 2013-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131102111723id_/http%3A//bivori.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -24,7 +24,3 @@ The contents of this statement may be altered at any time, at our discretion.
 If you have any questions regarding the privacy policy of Bivori then you may contact us at contact@bivori.com 
 
 Last updated Tue, 12 Apr 2011 09:26
-
-Hi, it’s me behind this blog - Bivori.com. Interested to _blogging, different monetization options, WordPress Themes, Plugins and various blogging tools_. I love setting up new blogs, customize and optimizing them. Want me to write for you? Add in your [Google+](https://plus.google.com/117585083348936297878/posts?rel=author) circle and lets get connected.
-
-t [Follow me on Twitter](http://twitter.com/bivori)
