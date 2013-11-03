@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mcdpropertytax.in privacy policy that was archived on 2013-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130630131612id_/http%3A//www.mcdpropertytax.in/detail.php%3Fid%3D6) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mcdpropertytax.in privacy policy that was archived on 2013-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131103191543id_/http%3A//www.mcdpropertytax.in/detail.php%3Fid%3D6) for the most accurate reproduction.*
 
 # Property Tax Delhi 2013-14
 
