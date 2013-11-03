@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the addfreestats.com privacy policy that was archived on 2013-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130628184553id_/http%3A//www.addfreestats.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the addfreestats.com privacy policy that was archived on 2013-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131103213143id_/http%3A//www.addfreestats.com/privacy.html) for the most accurate reproduction.*
 
-# AFS Privacy Policy
-
-| 
+# AddFreeStats Privacy Policy
 
 **Privacy Statement :**  
 AddFreeStats has created this privacy statement in order to demonstrate its commitment to privacy. The following discloses our information gathering and dissemination practices for this site; 
@@ -37,6 +35,4 @@ We use DoubleClick and other third-party advertising companies to serve ads when
 In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique "cookie" on your browser. 
 
 **Contacting Us**  
-If you have any additional questions about AddFreeStats's dedication to consumer privacy, please contact us at info at addfreestats.com. 
-
-| 
+If you have any additional questions about AddFreeStats's dedication to consumer privacy, please contact us at afsteam(at)addfreestats.com. 
