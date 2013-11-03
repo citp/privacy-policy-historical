@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the nbcunicareers.com privacy policy that was archived on 2013-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130516203616id_/http%3A//nbcuni.com/Privacy_Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nbcunicareers.com privacy policy that was archived on 2013-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131103114638id_/http%3A//www.nbcunicareers.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | NBCUniversal
+# Privacy Policy | NBCUniversal Careers
 
 **NBCUniversal’s Privacy Principles**
 
@@ -8,47 +8,48 @@ At NBCUniversal we take seriously our privacy obligations. We respect the privac
 
 Throughout this document:
 
-o “personal information” means all information relating to an identifiable person (even if you don’t know that the name of that person)
+  * “Personal information” means all information relating to an identifiable person (even if you don’t know that the name of that person).
+  * “Processed” means collecting, handling, storing, sharing, using, transferring and disposing of personal information.
 
-o “processed” means collecting, handling, storing, sharing, using, transferring and disposing of personal information.
 
-**Our Privacy Principles**
 
-**1.** **Integrity, Fairness & Lawfulness – Personal information will be processed fairly and lawfully**
+ **Our Privacy Principles**
 
-  * We will only collect and use personal information where we have lawful grounds and a legitimate business reason for doing so – in general, we collect, store and use your information to provide you with a safe, smooth, efficient and customized experience on our websites. However, sometimes we need to collect and use your personal information to enable us to prevent fraud or potentially unlawful activities (including copyright infringement)
+ **1.  Integrity, Fairness & Lawfulness – Personal information will be processed fairly and lawfully**
+
+  * We will only collect and use personal information where we have lawful grounds and a legitimate business reason for doing so – in general, we collect, store and use your information to provide you with a safe, smooth, efficient and customized experience on our websites. However, sometimes we need to collect and use your personal information to enable us to prevent fraud or potentially unlawful activities (including copyright infringement).
   * We will be transparent in our dealings with people as to what information about them we will collect and how we will use it. As such each of our websites contains its own Privacy Policy explaining what personal information may be collected on that site, how it will be used, how it will be protected and what choices and rights you have in relation to your information.
 
 
 
-**2.** **Purpose Limitation** **-** **Personal Information will only be used for the purposes for which it was originally collected and about which the individual was informed**
+ **2.  Purpose Limitation - Personal Information will only be used for the purposes for which it was originally collected and about which the individual was informed**
 
   * This means if we collected information for a specific purpose then we will only use it for that purpose until the individuals concerned have been informed of any new intended use and, where required, their permission obtained. Where relevant, we will provide clear information on the choices available and the means to exercise those choices.
 
 
 
-**3.** **Data minimisation** **–** **We will only process personal information that is adequate, relevant and not excessive**
+ **3.  Data minimisation – We will only process personal information that is adequate, relevant and not excessive**
 
-  * We will use anonymous data (i.e. where no individual is identifiable) or aggregated information (i.e. summarised so as not to be identifiable to an individual) instead of personal information wherever possible
+  * We will use anonymous data (i.e. where no individual is identifiable) or aggregated information (i.e. summarised so as not to be identifiable to an individual) instead of personal information wherever possible.
   * We will not ask for more information than we need. We will make it clear which information it is mandatory for someone to provide and that which is optional.
 
 
 
-**4.** **Accuracy** **–** **We will ensure that the personal information we keep is up to date and accurate**
+ **4.  Accuracy – We will ensure that the personal information we keep is up to date and accurate**
 
-  * We will tell people where and how to contact us to review and update their information
-  * We will update our records when an individual informs us that their details have changed or are inaccurate
-
-
-
-**5.** **Retention** **–** **We will only keep personal information for as long as necessary for the purposes for which it was originally collected**
-
-  * We will implement records retention policies for personal information
-  * We will ensure that personal information is securely disposed of at the end of the appropriate retention period
+  * We will tell people where and how to contact us to review and update their information.
+  * We will update our records when an individual informs us that their details have changed or are inaccurate.
 
 
 
-**6.** **Rights of Individuals** **–** **We will observe the rights afforded to individuals under their local laws, which may include:**
+ **5.  Retention – We will only keep personal information for as long as necessary for the purposes for which it was originally collected**
+
+  * We will implement records retention policies for personal information.
+  * We will ensure that personal information is securely disposed of at the end of the appropriate retention period.
+
+
+
+ **6.  Rights of Individuals – We will observe the rights afforded to individuals under their local laws, which may include:**
 
 The right to:
 
@@ -61,7 +62,7 @@ The right to:
 
 
 
-**7.** **Security** **–** **We will ensure we have appropriate measures in place to protect personal information from accidental/unauthorised access, disclosure, theft, damage, loss, alteration etc**
+ **7.  Security – We will ensure we have appropriate measures in place to protect personal information from accidental/unauthorised access, disclosure, theft, damage, loss, alteration etc**
 
 We will:
 
@@ -73,11 +74,11 @@ We will:
 
 
 
-**8.** **Information transfers** **–** **We will ensure that suitable safeguards are in place before personal information is transferred cross-border or to third parties**
+ **8.  Information transfers – We will ensure that suitable safeguards are in place before personal information is transferred cross-border or to third parties**
 
 We will ensure that any personal information which we are responsible for will be adequately protected in the hands of a third party and/or in the country of destination when transferred across borders
 
-**9.** **Additional Safeguards** ****
+ **9.  Additional Safeguards**
 
 Whilst we will strive to protect all personal information we are responsible for there may be situations where employees or service providers fall short of our expectations or outside influences mean that we cannot meet these high standards we have set ourselves. In those situations we will:
 
@@ -89,4 +90,4 @@ Whilst we will strive to protect all personal information we are responsible for
 
 
 
-If you have any questions about our Privacy Principles please contact the NBCUniversal Chief Privacy Officer at [privacyhelp@nbcuni.com](mailto:privacyhelp@nbcuni.com).
+If you have any questions about our Privacy Principles please contact the NBCUniversal Chief Privacy Officer at [privacyhelp@nbcuni.com](mailto:privacyhelp@nbcuni.com).
