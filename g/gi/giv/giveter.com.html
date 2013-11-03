@@ -1,16 +1,14 @@
-<!--The following is the downloaded HTML source of the giveter.com privacy policy that was archived on 2013-05-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130523123903id_/http%3A//www.giveter.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the giveter.com privacy policy that was archived on 2013-11-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131103040640id_/http%3A//www.giveter.com/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0//EN"><html><head>
+<!DOCTYPE html><html lang="en" xmlns:fb="http://ogp.me/ns/fb#"><head>
 
        <title></title>
 
         <meta name="description" content="">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
         
-        <!-- <meta property="og:type" content="movie" />  -->
-        <!-- <meta property="og:video:height" content="260" />  -->
-        <!-- <meta property="og:video:width" content="420" />  -->
-        <!-- <meta property="og:video:type" content="application/x-shockwave-flash" /> -->
+        
 
         <meta name="keywords" content="">
         <meta property="og:image" content="">
@@ -24,33 +22,19 @@
             var startTime = (new Date()).getTime(); 
         </script>
 
-         <link href="/public/stylesheets/bootstrap.css" rel="stylesheet" type="text/css">
-        
-        <link href="/public/stylesheets/font-awesome.css" rel="stylesheet" type="text/css">
         <!--[if lt IE 8]> <LINK href="/public/stylesheets/font-awesome-ie7.min.css" rel="stylesheet" type="text/css"> <![endif]-->
         
         <!-- press-css: main.less -->
+        <!-- press-css: bootstrap.css -->
+        <!-- press-css: notification.css -->
+        <!-- press-css: font-awesome.css -->
         <!-- press-css: style.css -->
-        
         <!-- press-css: jquery.vegas.css -->
-        
         <!-- press-css: topGiftsAll.css -->
-        
-        
         <!-- press-css: jqp.css -->
         <!-- press-css: jquery-ui.css -->
-        
-        
-        
-        
         <!-- press-css: datepicker.css -->
-        <link href="/press/css/QCNnEVBcDuHArXJXcRNBJwJJ.css" rel="stylesheet" type="text/css" charset="utf-8">
-        
-
-        
-        
-        
-        
+        <link href="/press/css/FXFSkBdBbtfCNVDSKSDBpwJJ.css" rel="stylesheet" type="text/css" charset="utf-8">
 
         
         
@@ -59,12 +43,16 @@
         <!-- press-js: jquery-1.7.2.min.js -->
         <!-- press-js: jquery.cookie.js -->
         <!-- press-js: jquery.masonry.min.js -->
+        <!-- press-js: json2.js -->
+        <!-- press-js: handling_url.js -->
+        <!-- press-js: jquery.history.js -->
         <!-- press-js: specificData.js -->
         <!-- press-js: jquery.placeholder.min.js -->
         <!-- press-js: bootstrap.min.js -->
+        <!-- press-js: bootstrap-transition.js -->
         <!-- press-js: bootstrap-datepicker.js -->
         <!-- press-js: jquery.vegas.js -->
-        <!-- press-js: json2.js -->
+        
         <!-- press-js: jquery-ui-custom.min.js -->
         <!-- press-js: all.js -->
 
@@ -85,9 +73,13 @@
         <!-- press-js: vendorUserId.js -->
         <!-- press-js: feedback.js -->
 
-        <script src="/press/js/bKfJskXGQYFkWUZlTpiTXwJJ.js" type="text/javascript" language="javascript" charset="utf-8"></script>
+        <!-- Friendship Day 2013 -->
+        <!-- press-js: fday-2013.js -->
+        <script src="/press/js/anEDnvBiBexWaCAekDeVZwJJ.js" type="text/javascript" language="javascript" charset="utf-8"></script>
 
         
+        <script type="text/javascript" src="http://feather.aviary.com/js/feather.js"></script>
+
         <script type="text/javascript">
                 var _gaq = _gaq || [];
                 _gaq.push(['_setAccount', 'UA-33385386-1']);
@@ -100,8 +92,8 @@
                     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
                 })();
         </script>
-
     </head>
+
     <body>
         <div id="fb-root"></div>
         <script type="text/javascript">
@@ -112,25 +104,9 @@
                 xfbml  : true  // parse XFBML
             });
         </script>
+    
 
-        <script type="text/javascript">
-            var runningMode = 'PROD';
-            if (runningMode == "PROD") {
-                window.onerror = function(message, url, lineNumber) {
-                        var userAgent = "";
-                        if (navigator.userAgent != null) {
-                            userAgent = navigator.userAgent;
-                        }
-                        $.ajax({
-                            url: '/ajax/jsError',
-                            cache: 'false',
-                            data: 'message='+message+"&url="+url+"&lineNumber="+lineNumber+"&userAgent="+userAgent
-                        });
-                    // return true;
-                }
-            }
-        </script>
-        <div class="modal hide fade" id="myModal">
+    <div class="modal hide fade" id="myModal">
     <button type="button" class="close" data-dismiss="modal">×</button>
 
     <!-- LOGIN VIEW OF MODAL STARTS -->
@@ -182,29 +158,43 @@
                 We don't spam. We will never post anything <br> on facebook on your behalf. <a class="fb-info-learn" href="/privacy">Learn More</a>
             </div>
         </div>
+        <div class="login-captcha-container">
+            <p class="title">
+                Or just prove that you are a human
+            </p>
+            <p class="captcha-q">
+                Where are the best gifts found?
+            </p>
+            <form class="login-captcha-form">
+                <input type="text" class="captcha-a" placeholder="Hint: giveter.com">
+                <input type="submit" class="captcha-submit" value="submit">
+            </form>
+        </div>
 
+        <div class="login-form-container">
+            <p class="title">
+                Already have a Giveter account?
+            </p>
+            <form id="loginFormGlobal" name="loginFormGlobal">
+                <p class="fieldLabel first-field">Your Email</p>
+                <span id="loginEmailErrorText" class="f-right error-text-first"></span>
+                <input type="email" placeholder="example@mail.com" name="email">
 
-        <p class="title">
-            Already have a Giveter account?
-        </p>
-        <form id="loginFormGlobal" name="loginFormGlobal">
-            <p class="fieldLabel first-field">Your Email</p>
-            <span id="loginEmailErrorText" class="f-right error-text-first"></span>
-            <input type="email" placeholder="example@mail.com" name="email">
-
-            <p class="fieldLabel">Password</p>
-            <span id="loginPassErrorText" class="f-right error-text"></span>
-            <input type="password" placeholder="Password" name="password">
-            <div class="l-form-cols clearfix">
-                <div class="f-left login-button-container">
-                    <input type="submit" class="loginSubmitButton log-action" key="giveter login clicked" id="loginGlobal" value="Log In">
-                    <div class="login-loader">
-                        <img src="/public/images/buttons/ajax-loader-fb.gif">
+                <p class="fieldLabel">Password</p>
+                <span id="loginPassErrorText" class="f-right error-text"></span>
+                <input type="password" placeholder="Password" name="password">
+                <div class="l-form-cols clearfix">
+                    <div class="f-left login-button-container">
+                        <input type="submit" class="loginSubmitButton log-action" key="giveter login clicked" id="loginGlobal" value="Log In">
+                        <div class="login-loader">
+                            <img src="/public/images/buttons/ajax-loader-fb.gif">
+                        </div>
                     </div>
+                    <span class="fp-link">Forgot password?</span>
                 </div>
-                <span class="fp-link">Forgot password?</span>
-            </div>
-        </form>
+            </form>
+        </div>
+
         <p class="title">
             Dont have an account? <a class="link show-signup-form" id="signupLinkGlobal">Sign up </a>now
         </p>
@@ -296,7 +286,7 @@
     <!-- CONTINUE VIEW OF MODAL STARTS -->
     <div id="continue-container" class="modal-container blockx5">
         <div class="text-container">
-            Hey <p class="username"></p>, Thank you for logging in ! <br><br> You will now be redirected to our partner vendor <div class="vendor"></div> where you can continue with your purchase. <br><br> We hope our gifts will bring a smile on your loved ones face .
+            <p class="username"></p> You will now be redirected to our partner vendor <div class="vendor"></div> where you can continue with your purchase. <br><br> We hope our gifts will bring a smile on your loved ones face .
         </div>
         <div class="vendor-logo-container"><img src="" class="vendor-logo"></div>
         <a target="_blank" href="" class="continue-button">Continue</a>
@@ -306,7 +296,6 @@
     <!-- CALENDAR VIEW OF MODAL STARTS -->
     <div id="calendar-container" class="modal-container blockx5">
         <div class="text-container not-added">
-            Hey <span class="username"></span>,<br>
             Fill in the following details to save this occasion to your calendar. We will remind you in time to order the best gifts.
         </div>
         <div class="text-container added">
@@ -636,9 +625,9 @@
         <img src="/public/images/background/background-latest.jpg">    
     </div>
     <div class="hdr-sc hdr-in <!--[if lt IE 10]>  black-bg-ie  <![endif]-->">
-        <div id="fb-root"></div>
-        <div class="header-container blockx12 clearfix">
-            <div class="header-left blockx6 f-left">
+        <!-- <div id="fb-root"></div> -->
+        <div class="header-container clearfix">
+            <div class="header-left">
                 <p class="header-title">
                     <a class="header-title" href="/">Giveter</a>
                 </p>
@@ -651,7 +640,7 @@
                     <img src="/public/images/buttons/india_flag.png">
                 </div>
                 <div class="search-box-header">
-                    <form id="searchHeader" action="http://www.giveter.com/giftsfor/all">
+                    <form id="searchHeader" action="/giftsfor/all">
                         <input type="search" id="searchQueryHeader" name="q" placeholder="Search">
                     </form>
                     <span class="search-icon-header">
@@ -661,7 +650,7 @@
             </div>
 
             
-            <div class="header-right blockx6 f-left last">
+            <div class="header-right">
                 <div class="dropdown header-about pull-right">
                 <!--[if lt IE 8]> <a href="/about#about" target="_blank">About</a>
                 <![endif]-->
@@ -756,7 +745,8 @@
             <div class="option-container age-container">
                 <div key="age" name="Age" class="filter-cat option-block clearfix <!--[if lt IE 10]>  black-bg-ie  <![endif]-->">
                     <p>Age</p>
-                    <img src="/public/images/buttons/down.png">
+                    <img class="down_rel" src="/public/images/buttons/down.png">
+                    <div class="clear-block" key="age">x</div>
                 </div>
                 <!-- <div class="option-text">
                     Recipient age
@@ -766,20 +756,22 @@
             <div class="option-container rel-container">
                 <div key="rel" name="Relationship" class="filter-cat option-block <!--[if lt IE 10]>  black-bg-ie  <![endif]-->">
                     <p>Relationship</p>
-                    <img src="/public/images/buttons/down.png">
+                    <img class="down_rel" src="/public/images/buttons/down.png">
+                    <div class="clear-block" key="rel">x</div>
                 </div>
+                
                 <!-- <div class="option-text">
                     Relationship with recipient
                 </div> -->
             </div>
 
 
-            <div class="option-container  ">
+            <div class="option-container oca-container">
                 <div key="oca" name="Occasion" class="filter-cat option-block <!--[if lt IE 10]>  black-bg-ie  <![endif]-->">
                     <!-- Occasion -->
                     <p>Occasion</p>
-                    <img src="/public/images/buttons/down.png">
-                    <!-- <div class="o-val-block" ></div> -->
+                    <img class="down_oca" src="/public/images/buttons/down.png">
+                    <div class="clear-block" key="oca">x</div>
                 </div>
 
                 <!-- <div class="option-text">
@@ -792,7 +784,8 @@
                 <div key="mod" optiontype="multi" name="Mood" class="filter-cat option-block <!--[if lt IE 10]>  black-bg-ie  <![endif]-->">
                     <!-- Mood -->
                     <p>Mood</p>
-                    <img src="/public/images/buttons/down.png">
+                    <img class="down_mod" src="/public/images/buttons/down.png">
+                    <div class="clear-block" key="mod">x</div>
                 </div>
 
                 <!-- <div class="option-text">
@@ -804,7 +797,8 @@
                 <div key="per" optiontype="multi" name="Personality" class="filter-cat option-block <!--[if lt IE 10]>  black-bg-ie  <![endif]-->">
                     <!-- Personality -->
                     <p>Personality</p>
-                    <img src="/public/images/buttons/down.png">
+                    <img class="down_per" src="/public/images/buttons/down.png">
+                    <div class="clear-block" key="per">x</div>
                 </div>
 
                 <!-- <div class="option-text">
@@ -815,59 +809,30 @@
             <div class="option-container pri-container">
                 <div key="pri" name="Price" class="filter-cat option-block <!--[if lt IE 10]>  black-bg-ie  <![endif]-->">
                     <p>Price</p>
-                    <img src="/public/images/buttons/down.png">
+                    <img class="down_pri" src="/public/images/buttons/down.png">
+                    <div class="clear-block" key="pri">x</div>
                 </div>
 
-                <!-- <div class="option-text">
-                    Price range
-                </div> -->
+                
             </div>
-            <!-- <div class="option-container blockx1">
-                <div class="option-block ">
-                     <p>Select</p>
-                     <img src="/public/images/buttons/downBlack.png">
+            
+
+            <div class="option-container dat-container">
+                <div key="dat" class="filter-cat option-block <!--[if lt IE 10]>  black-bg-ie  <![endif]-->" name="Delivery In" option-type="multi">
+
+                        
+                        <p> Delivery In</p>
+                    <!-- </span> -->
+                    <img class="down_dat" src="/public/images/buttons/down.png">
+                    <div class="clear-block" key="dat">x</div>
+
                 </div>
 
-
-                <div class="option-text">
-                    Price Range
-                </div>
-            </div> -->
-
-            <div class="refresh-button-container">
-                    <div class="refresh-image">
-                        <img title="Clear all filters" src="/public/images/buttons/refresh.png">
-                        <div class="reset-info-tooltip">
-                            <div class="tooltip-text">
-                                Reset all filters
-                            </div>
-                            <div class="tooltip-arrow"></div>
-                        </div>
-                    </div>
-                    <!-- <div class="option-text">
-                        Clear
-                    </div> -->
+                
             </div>
-
-            <div class="go-button-container">
-                <a class="discover-link" title="Discover gift ideas" href="/giftsfor/">
-                    <!-- <img src="/public/images/buttons/goButton.png"> -->
-                    <div class="discover-gifts ganal-gfor">
-                        <!--[if lt IE 8]> Go <![endif]-->
-                        <!--[if gt IE 7]><!--> <i class="icon-chevron-right"></i> <!--<![endif]-->
-                    </div>
-                <div class="go-info-tooltip">
-                    <div class="tooltip-text">
-                        Click to see results
-                    </div>
-                    <div class="tooltip-arrow"></div>
-                </div>
-                </a>
-
-                <!-- <div class="option-text" >Go</div> -->
-            </div>
-
         </div>
+
+        <div class="clearfix"></div>
 
         <div class="o-val-block <!--[if lt IE 10]>  black-bg-ie  <![endif]-->">
             <div class="o-val-block-inner clearfix">
@@ -881,8 +846,8 @@
             </div>
         </div>
     </div>
-
-</div>    </div>
+</div>
+    </div>
 
 
 
@@ -1068,11 +1033,7 @@
 	</p>
 	<p class="text">
 		If you believe that Giveter has not adhered to this Privacy Policy you may write to Giveter at the following address:
-		e-mail:<a class="u-link" href="mailto:privacy@giveter.com">privacy@giveter.com<script type="text/javascript">
-/* <![CDATA[ */
-(function(){try{var s,a,i,j,r,c,l,b=document.getElementsByTagName("script");l=b[b.length-1].previousSibling;a=l.getAttribute('data-cfemail');if(a){s='';r=parseInt(a.substr(0,2),16);for(j=2;a.length-j;j+=2){c=parseInt(a.substr(j,2),16)^r;s+=String.fromCharCode(c);}s=document.createTextNode(s);l.parentNode.replaceChild(s,l);}}catch(e){}})();
-/* ]]> */
-</script></a>
+		e-mail:<a class="u-link" href="mailto:privacy@giveter.com">privacy@giveter.com</a>
 	</p>
 	<p class="text">
 		In your email, please describe in as much detail as possible ways in which you believe the Privacy Policy has not been complied with. We will investigate your complaint promptly.
@@ -1110,7 +1071,7 @@
     </div>
 </div>
 <div id="footerSuperContainer">
-    <div class="footer-container blockx12">
+    <div class="footer-container">
                 <div class="f-col blockx3 f-left">
             <p class="heading">
                 Reach us on
@@ -1128,33 +1089,21 @@
 
             <p class="text">
                 <a class="footer-link" href="mailto:support@giveter.com">
-                    support@giveter.com<script type="text/javascript">
-/* <![CDATA[ */
-(function(){try{var s,a,i,j,r,c,l,b=document.getElementsByTagName("script");l=b[b.length-1].previousSibling;a=l.getAttribute('data-cfemail');if(a){s='';r=parseInt(a.substr(0,2),16);for(j=2;a.length-j;j+=2){c=parseInt(a.substr(j,2),16)^r;s+=String.fromCharCode(c);}s=document.createTextNode(s);l.parentNode.replaceChild(s,l);}}catch(e){}})();
-/* ]]> */
-</script>
+                    support@giveter.com
                 </a>
             </p>
             <p class="text">
                 <a class="footer-link" href="mailto:avinash@giveter.com">
-                    avinash@giveter.com<script type="text/javascript">
-/* <![CDATA[ */
-(function(){try{var s,a,i,j,r,c,l,b=document.getElementsByTagName("script");l=b[b.length-1].previousSibling;a=l.getAttribute('data-cfemail');if(a){s='';r=parseInt(a.substr(0,2),16);for(j=2;a.length-j;j+=2){c=parseInt(a.substr(j,2),16)^r;s+=String.fromCharCode(c);}s=document.createTextNode(s);l.parentNode.replaceChild(s,l);}}catch(e){}})();
-/* ]]> */
-</script>
+                    avinash@giveter.com
                 </a>
             </p>
             <p class="text">
                 <a class="footer-link" href="mailto:mayank@giveter.com">
-                    mayank@giveter.com<script type="text/javascript">
-/* <![CDATA[ */
-(function(){try{var s,a,i,j,r,c,l,b=document.getElementsByTagName("script");l=b[b.length-1].previousSibling;a=l.getAttribute('data-cfemail');if(a){s='';r=parseInt(a.substr(0,2),16);for(j=2;a.length-j;j+=2){c=parseInt(a.substr(j,2),16)^r;s+=String.fromCharCode(c);}s=document.createTextNode(s);l.parentNode.replaceChild(s,l);}}catch(e){}})();
-/* ]]> */
-</script>
+                    mayank@giveter.com
                 </a>
             </p>
             <p class="text">
-                +91 - 9811520986
+                0124-4307745
             </p>
             <p class="text">
                 <a class="footer-link" href="/privacy">Privacy Policy</a>
@@ -1204,13 +1153,13 @@
                 Find Gifts
             </p>
             <p class="text">
-                <a href="/giftsfor/Valentines%20Day" class="footer_links">Valentines Day gifts</a>
+                <a href="/giftsfor/Birthday" class="footer_links">Birthday gifts</a>
             </p>
             <p class="text">
-                <a href="/giftsfor/Special:Girlfriend/Valentines%20Day" class="footer_links">Valentines Day gifts for girlfriend</a>
+                <a href="/giftsfor/Wedding" class="footer_links">Wedding gifts</a>
             </p>
             <p class="text">
-                <a href="/giftsfor/Special:Boyfriend/Valentines%20Day" class="footer_links">Valentines Day gifts for boyfriend</a>
+                <a href="/giftsfor/Anniversary" class="footer_links">Anniversary gifts</a>
             </p>
             <p class="text">
                 <a href="/giftsfor/Sibling:Sister" class="footer_links">Gifts for sister</a>
@@ -1232,7 +1181,7 @@
             </p>
         </div>
 
-        <div class="f-col blockx3 last f-left">
+        <div class="f-col blockx3 f-left">
             <p class="heading">
                 Find Gifts
             </p>
@@ -1268,10 +1217,4 @@
 </div>
 
 
-            <script type="text/javascript">
-/* <![CDATA[ */
-(function(){try{var s,a,i,j,r,c,l=document.getElementsByTagName("a"),t=document.createElement("textarea");for(i=0;l.length-i;i++){try{a=l[i].getAttribute("href");if(a&&"www.cloudflare.com/email-protection"==a.substr(7 ,35)){s='';j=43;r=parseInt(a.substr(j,2),16);for(j+=2;a.length-j&&a.substr(j,1)!='X';j+=2){c=parseInt(a.substr(j,2),16)^r;s+=String.fromCharCode(c);}j+=1;s+=a.substr(j,a.length-j);t.innerHTML=s.replace(/</g,"&lt;").replace(/>/g,"&gt;");l[i].setAttribute("href","mailto:"+t.value);}}catch(e){}}}catch(e){}})();
-/* ]]> */
-</script>
-
-</body></html>
+        </body></html>
