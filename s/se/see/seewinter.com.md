@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seewinter.com privacy policy that was archived on 2013-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130626024758id_/http%3A//seewinter.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seewinter.com privacy policy that was archived on 2013-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131103032343id_/http%3A//seewinter.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -13,12 +13,11 @@ Clearwater Marine Aquarium
 Clearwater, FL 33767  
 
 
-  * We can be reached via e-mail at: <a href="mailto:ddesantis@cmaquarium.org" ,="" target="_blank"> _info@cmaquarium.org_
   * You can reach us by telephone at 1-727-441-1790
 
 
 
-### [Donor Privacy](https://web.archive.org/assets/uploads/donorrights.pdf)
+### [Donor Privacy Policy](http://www.seewinter.com/donor-privacy-policy)
 
 ### E-mail Privacy
 
