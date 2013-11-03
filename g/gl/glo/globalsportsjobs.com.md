@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the globalsportsjobs.com privacy policy that was archived on 2013-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130504072654id_/http%3A//www.globalsportsjobs.com/staticpages/40/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the globalsportsjobs.com privacy policy that was archived on 2013-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131103074338id_/http%3A//www.globalsportsjobs.com/staticpages/40/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
  GLOBAL SPORTS JOBS LIMITED PRIVACY POLICY
 
-The privacy of the users (“you” and “your”) of the following URL [ **www.globalsportsjobs.com**](http://www.globalsportsjobs.com/)(collectively the  **"Web Site"** ), is important to Global Sports Jobs Limited (“ **we** ”, “ **us** ”, “ **our** ” or “ **Global Sports Jobs Limited** ”).
+The privacy of the users (“you” and “your”) of the following URL  **[www.globalsportsjobs.com](http://www.globalsportsjobs.com/) **(collectively the  **"Web Site"** ), is important to Global Sports Jobs Limited (“ **we** ”, “ **us** ”, “ **our** ” or “ **Global Sports Jobs Limited** ”).
 
 This Privacy Policy is designed to provide you with clear information about what personal information we collect when you use the Web Site and how we use it.
 
@@ -43,7 +43,7 @@ This Privacy Policy is designed to provide you with clear information about what
 2.4 Where you have signalled your agreement during the registration process, we may also use your personal data for future email mailings, newsletters, support, notification of new products or new versions, general correspondence regarding the Services, correspondence which may relate to you and to pass the personal information to carefully selected third parties for marketing purposes.
 
   
-2.5 If you would rather not receive future marketing emails from us or would not like us to pass on your personal information to third parties please inform us by sending an e-mail to[ **support@globalsportsjobs.com**](mailto:support@globalsportsjobs.com). Other than for these purposes the personal information you provide will be kept confidential.
+2.5 If you would rather not receive future marketing emails from us or would not like us to pass on your personal information to third parties please inform us by sending an e-mail to [ **support@globalsportsjobs.com**](mailto:support@globalsportsjobs.com). Other than for these purposes the personal information you provide will be kept confidential.
 
 2.6 Once you have registered with the Web Site, if you choose to make your curriculum vitae and/or other personal information visible to Recruiters (as defined in the Web Site Terms of Use), you acknowledge that those Recruiters will have access to your curriculum vitae and/or other personal information and you agree to the disclosure and processing of such information for the purposes of providing you with this Service.
 
@@ -100,7 +100,7 @@ FAO: The Data Protection Compliance Officer
 
 Global Sports Jobs Limited
 
-48 Ledborough Lane, Beaconsfield, HP9 2DD
+Staple House, Suite 1, Eleanor's Cross, Dunstable, Beds LU6 1SU
 
 **7\. FURTHER INFORMATION**
 
