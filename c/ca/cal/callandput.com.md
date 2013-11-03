@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the callandput.com privacy policy that was archived on 2013-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130412053555id_/http%3A//www.callandput.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the callandput.com privacy policy that was archived on 2013-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131103145518id_/http%3A//www.callandput.com/privacy) for the most accurate reproduction.*
 
 # Trading Binary Options with CallAndPut
 
@@ -6,7 +6,7 @@
 
 ### 1\. Introduction
 
-TradeCharge Limited (the "Company" or "we") offers binary options and financial market trading services via the Internet. When you use the Company's services via its online trading platform, you shall be asked to provide personal identifiable information ("Personal Information") to the Company. We are committed to respecting your privacy and to complying with applicable data protection and privacy laws. We have therefore provided this Privacy Policy to help you understand how we collect, use, store and protect your Personal Information for the purpose of offering you trading services. If you do not understand this Privacy Policy or how we handle or use the Personal Information which you provide to us then you are invited to send in your questions to [support@tradecharge.com](mailto:support@tradecharge.com) and we will do our best to answer your questions in full as quickly as possible. You should read this Privacy Policy in conjunction with our End User License Agreement [**"Terms"**](https://web.archive.org/web/20130412053555id_/http%3A//www.callandput.com/terms). 
+callandput.com (the "Company" or "we") offers binary options and financial market trading services via the Internet. When you use the Company's services via its online trading platform, you shall be asked to provide personal identifiable information ("Personal Information") to the Company. We are committed to respecting your privacy and to complying with applicable data protection and privacy laws. We have therefore provided this Privacy Policy to help you understand how we collect, use, store and protect your Personal Information for the purpose of offering you trading services. If you do not understand this Privacy Policy or how we handle or use the Personal Information which you provide to us then you are invited to send in your questions to [support@tradecharge.com](mailto:support@tradecharge.com) and we will do our best to answer your questions in full as quickly as possible. You should read this Privacy Policy in conjunction with our End User License Agreement [**"Terms"**](https://web.archive.org/web/20131103145518id_/http%3A//www.callandput.com/terms). 
 
 ### 2\. Modifications to the Privacy Policy
 
@@ -53,10 +53,6 @@ We may also use the data generated from cookies to compile statistical data on y
 ### 11\. Protection of Minors
 
 The services provided by the Company are not intended for or directed to minors or persons under the age of legal consent. Any person who provides us with Personal Information represents to us that they are 18 years of age or over the age of legal consent in their jurisdiction. We reserve the right to access and verify any Personal Information submitted by or collected from you. If we become aware that a minor has attempted to or has submitted Personal Information, we may not accept this information and may take steps to remove such information from our records.
-
-### 12\. Information about Us
-
-The Company’s full name is TradeCharge Limited, a Cypriot company with registration number HE 265133 and whose registered offices are located at Gr. Xenopoulou 17, 3106, Limassol, Cyprus. If you have any enquiry about this Privacy Policy please write to Gr. Xenopoulou 17, 3106, Limassol, Cyprus.
 
 Last updated on 23-August-2012
 
