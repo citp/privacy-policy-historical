@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spellsofmagic.com privacy policy that was archived on 2013-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130522223413id_/http%3A//www.spellsofmagic.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spellsofmagic.com privacy policy that was archived on 2013-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131103180332id_/http%3A//www.spellsofmagic.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
