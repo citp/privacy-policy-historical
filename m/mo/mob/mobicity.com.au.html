@@ -1,10 +1,9 @@
-<!--The following is the downloaded HTML source of the mobicity.com.au privacy policy that was archived on 2013-05-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130508171703id_/http%3A//www.mobicity.com.au/about/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the mobicity.com.au privacy policy that was archived on 2013-11-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131103152102id_/http%3A//www.mobicity.com.au/about/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="no-js"><!--<![endif]--><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<script src="https://dnn506yrbagrg.cloudfront.net/pages/scripts/0013/6859.js?438992" async="" type="text/javascript"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-R4X3"></script><script type="text/javascript" async="" src="https://static.punchtab.com/js/pb.js"></script><script type="text/javascript" async="" src="https://static.punchtab.com/js/pt.js"></script><script id="twitter-wjs" src="//platform.twitter.com/widgets.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1"></script><script type="text/javascript" async="" src="http://google-analytics.com/ga.js"></script><script type="text/javascript">var NREUMQ=NREUMQ||[];NREUMQ.push(["mark","firstbyte",new Date().getTime()]);</script>
-<title>Privacy  | MobiCity Australia</title>
+<script src="https://dnn506yrbagrg.cloudfront.net/pages/scripts/0013/6859.js?438992" async="" type="text/javascript"></script><script id="twitter-wjs" src="//platform.twitter.com/widgets.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1"></script><script type="text/javascript" async="" src="http://google-analytics.com/ga.js"></script><script type="text/javascript">var NREUMQ=NREUMQ||[];NREUMQ.push(["mark","firstbyte",new Date().getTime()]);</script><title>Privacy  | MobiCity Australia</title>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="description" content="Privacy">
 <meta name="keywords" content="Privacy">
@@ -17,21 +16,18 @@
 <link rel="stylesheet" type="text/css" href="http://cdna.mobicity.com.au/skin/frontend/base/default/css/ie.css" media="all" />
 <![endif]-->
 
-<link rel="stylesheet" type="text/css" href="http://cdna.mobicity.com.au/skin/frontend/citybrands/default/css/qip280420132258.css" media="all">
+<link rel="stylesheet" type="text/css" href="http://cdna.mobicity.com.au/skin/frontend/citybrands/default/css/qip311020131006.css" media="all">
 <script type="text/javascript" src="http://cdna.mobicity.com.au/js/prototype/prototype.js"></script>
 <script type="text/javascript" src="http://cdna.mobicity.com.au/js/lib/ccard.js"></script>
 <script type="text/javascript" src="http://cdna.mobicity.com.au/js/prototype/validation.js"></script>
 <script type="text/javascript" src="http://cdna.mobicity.com.au/js/scriptaculous/builder.js"></script>
 <script type="text/javascript" src="http://cdna.mobicity.com.au/js/scriptaculous/effects.js"></script>
-<script type="text/javascript" src="http://cdna.mobicity.com.au/js/scriptaculous/dragdrop.js"></script>
 <script type="text/javascript" src="http://cdna.mobicity.com.au/js/qip/customcontrols.js"></script>
 <script type="text/javascript" src="http://cdna.mobicity.com.au/js/scriptaculous/slider.js"></script>
 <script type="text/javascript" src="http://cdna.mobicity.com.au/js/varien/js.js"></script>
 <script type="text/javascript" src="http://cdna.mobicity.com.au/js/varien/form.js"></script>
-<script type="text/javascript" src="http://cdna.mobicity.com.au/js/varien/menu.js"></script>
 <script type="text/javascript" src="http://cdna.mobicity.com.au/js/mage/translate.js"></script>
 <script type="text/javascript" src="http://cdna.mobicity.com.au/js/mage/cookies.js"></script>
-<script type="text/javascript" src="http://cdna.mobicity.com.au/js/appmerce/eway/validation.js"></script>
 <script type="text/javascript" src="http://cdna.mobicity.com.au/js/GoogleAnalyticsPlus/distilled.FirstTouch.js"></script>
 <script type="text/javascript" src="http://cdna.mobicity.com.au/js/mageworx/icart.js"></script>
 <script type="text/javascript" src="http://cdna.mobicity.com.au/js/varien/productv2.js"></script>
@@ -58,8 +54,37 @@
 </script>
 
 <script src="http://cdna.mobicity.com.au/js/qip/jquery.js" type="text/javascript"></script>
-<script src="http://cdna.mobicity.com.au/js/qip/citybrandsv6.js" type="text/javascript"></script>
-<script src="http://cdna.mobicity.com.au/js/qip/bootstrapv3.js" type="text/javascript"></script>
+<script src="http://cdna.mobicity.com.au/js/qip/citybrandsv28.js" type="text/javascript"></script>
+<script src="http://cdna.mobicity.com.au/js/qip/bootstrapv4.js" type="text/javascript"></script>
+<script src="http://cdna.mobicity.com.au/js/qip/jquery.soulmate.js" type="text/javascript"></script>
+<script type="text/javascript">
+  var newAddToCart = true;
+  jQuery(function($) {
+    cityBrands.newAddToCart();
+    cityBrands.megaMenu();
+    cityBrands.persistentCart();
+    cityBrands.addGoogleEventsCode();
+    if(document.URL.indexOf('onestepcheckout') == -1 && document.URL.indexOf('onepage') == -1) {
+      cityBrands.esi();
+    }
+    if (document.referrer.match(/google\.com/gi) && document.referrer.match(/cd/gi)) {
+      var myString = document.referrer;
+      var r        = myString.match(/cd=(.*?)&/);
+      var rank     = parseInt(r[1]);
+      var kw       = myString.match(/q=(.*?)&/);
+      
+      if (kw[1].length > 0) {
+        var keyWord  = decodeURI(kw[1]);
+      } else {
+        keyWord = "(not provided)";
+      }
+
+      var p        = document.location.pathname;
+      _gaq.push(['_trackEvent', 'RankTracker', keyWord, p, rank, true]);
+    }
+  });
+  
+</script>
 <style type="text/css">
 	.price-including-tax .label, .price-excluding-tax .label {
 		font-size: 10px;
@@ -67,8 +92,9 @@
 		float: left;
 	}
 </style>
+
 <meta property="og:image" content="http://cdna.mobicity.com.au/skin/frontend/citybrands/default/images/logo.png">
-<meta property="og:title" content="MobiCity - The latest phones. First.">
+<meta property="og:title" content="MobiCity Australia - The latest phones. First.">
 <meta property="og:url" content="http://www.mobicity.com.au/about/privacy.html">
 <meta property="og:site_name" content="MobiCityAU">
 
@@ -135,7 +161,7 @@ var google_custom_params = window.google_tag_params;
 var google_remarketing_only = true;
 /* ]]> */
 </script>
-<script src="//dev.visualwebsiteoptimizer.com/j.php?a=20740&amp;u=https%3A%2F%2Fweb.archive.org%2Fweb%2F20130508171703id_%2Fhttp%253A%2F%2Fwww.mobicity.com.au%2Fabout%2Fprivacy.html&amp;r=0.8044168956127555" type="text/javascript"></script><script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head><body class=" catalog-category-view categorypath-about-privacy-html category-privacy"><div style="display: none;">
+<script src="//dev.visualwebsiteoptimizer.com/j.php?a=20740&amp;u=https%3A%2F%2Fweb.archive.org%2Fweb%2F20131103152102id_%2Fhttp%253A%2F%2Fwww.mobicity.com.au%2Fabout%2Fprivacy.html&amp;r=0.4029731276781998" type="text/javascript"></script><script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head><body class=" catalog-category-view categorypath-about-privacy-html category-privacy"><div style="display: none;">
 <script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
 </script>
 </div><noscript>
@@ -144,9 +170,6 @@ var google_remarketing_only = true;
 </div>
 </noscript>
 <!-- /Google DRM -->
-<script type="text/javascript" src="https://apis.google.com/js/plusone.js">
-  {"parsetags": "explicit"}
-</script>
 <!-- Start Visual Website Optimizer Asynchronous Code -->
 <script type="text/javascript">
 var _vwo_code=(function(){
@@ -158,17 +181,18 @@ use_existing_jquery=false,
 f=false,d=document;return{use_existing_jquery:function(){return use_existing_jquery;},library_tolerance:function(){return library_tolerance;},finish:function(){if(!f){f=true;var a=d.getElementById('_vis_opt_path_hides');if(a)a.parentNode.removeChild(a);}},finished:function(){return f;},load:function(a){var b=d.createElement('script');b.src=a;b.type='text/javascript';b.innerText;b.onerror=function(){_vwo_code.finish();};d.getElementsByTagName('head')[0].appendChild(b);},init:function(){settings_timer=setTimeout('_vwo_code.finish()',settings_tolerance);this.load('//dev.visualwebsiteoptimizer.com/j.php?a='+account_id+'&u='+encodeURIComponent(d.URL)+'&r='+Math.random());var a=d.createElement('style'),b='body{opacity:0 !important;filter:alpha(opacity=0) !important;background:none !important;}',h=d.getElementsByTagName('head')[0];a.setAttribute('id','_vis_opt_path_hides');a.setAttribute('type','text/css');if(a.styleSheet)a.styleSheet.cssText=b;else a.appendChild(d.createTextNode(b));h.appendChild(a);return settings_timer;}};}());_vwo_settings_timer=_vwo_code.init();
 </script>
 <!-- End Visual Website Optimizer Asynchronous Code -->
-<script type="text/javascript">//<![CDATA[
-        var Translator = new Translate([]);
-        //]]></script><meta property="fb:app_id" content="176614695797188">
+<meta property="fb:app_id" content="176614695797188">
+
+<!--CloudIQ Cart Recovery Script-->
+<script type="text/javascript" async="" src="https://platform.cloud-iq.com.au/cartrecovery/store.js?app_id=3389"></script><script type="text/javascript" id="cloudiq_cartrecovery">(function(){function e(){var e=document.createElement("script");e.type="text/javascript";e.async=true;e.src="https://platform.cloud-iq.com.au/cartrecovery/store.js?app_id=3389";var t=document.getElementById("cloudiq_cartrecovery");t.parentNode.insertBefore(e,t)}if(window.attachEvent)window.attachEvent("onload",e);else window.addEventListener("load",e,false)})()</script>
 
 
 
 
 <div class="promo-bar">
-						<span style="display: none;"><a target="_blank" href="/catalogsearch/result/?q=Samsung+Galaxy+S4">The Samsung Galaxy S4 has started shipping. Click to view available models.</a></span>
-								<span style="display: none;">Save 15%. Add 2 accessories to your cart for an automatic discount.</span>
-								<span style="display: none;"><a target="_blank" href="/on-sale.html">Find a Bargain! Check out all our latest offers here.</a></span>
+						<span style="display: none;"><a data-ga-category="PromoBar" data-ga-action="click" data-ga-label="What's on sale? Check out all our latest offers here!" target="_blank" href="/on-sale.html">What's on sale? Check out all our latest offers here!</a></span>
+								<span style="display: none;"><a data-ga-category="PromoBar" data-ga-action="click" data-ga-label="FREE SHIPPING! Add 2 accessories to your cart for free shipping." target="_blank" href="/accessoryfinder/">FREE SHIPPING! Add 2 accessories to your cart for free shipping.</a></span>
+								<span style="display: none;">Our phone lines are open 8am - 9pm during the week, 11am - 5pm Saturday and 4pm - 10pm Sunday (AEDT)</span>
 			</div>
 
 
@@ -243,6 +267,13 @@ body {
 		margin: 0 -5px;
 	}
 }
+
+@media (max-width: 480px) {
+	.promo-bar span, .promo-bar span a {
+		font-size: 10px;
+	}
+}
+
 </style>
 
 	
@@ -261,7 +292,7 @@ body {
 <script type="text/javascript">
 	jQuery.noConflict();
 	var baseUrl = 'http://www.mobicity.com.au/';
-			var currentCategory = 44;
+			var currentCategory = 25;
 		function resetDynamicModal() {
 		jQuery('#dynamic-modal .modal-body').html('<img class="modal-loader" src="http://cdna.mobicity.com.au/skin/frontend/citybrands/default/images/ajax-loader-big.gif" />');
     if(jQuery('#dynamic-modal').is(':visible')) {
@@ -283,16 +314,18 @@ body {
 !function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");
 </script>
 
-
+<div class="geoip-container">
+  
+</div>
 
 <div class="top-bar">
   <div class="top-bar-inner">
 	  <ul class="links hidden-phone">
       <li class="switch" style="display: none;">
 	Region: &nbsp;
-		<a href="http://www.mobicity.co.nz/" class="flag-nz">NZ <span></span></a> 
-		<a href="http://www.mobicity.co.uk/directory/currency/switch/currency/GBP/" class="flag-uk">UK <span></span></a>
-	<a href="http://www.mobicity.co.uk/directory/currency/switch/currency/EUR/" class="flag-eu">EU <span></span></a>
+		<a data-ga-category="TopBar" data-ga-action="click" data-ga-label="NZ Flag" href="http://www.mobicity.co.nz/" class="flag-nz">NZ <span></span></a> 
+		<a data-ga-category="TopBar" data-ga-action="click" data-ga-label="UK Flag" href="http://www.mobicity.co.uk/directory/currency/switch/currency/GBP/" class="flag-uk">UK <span></span></a>
+	<a data-ga-category="TopBar" data-ga-action="click" data-ga-label="EU Flag" href="http://www.mobicity.co.uk/directory/currency/switch/currency/EUR/" class="flag-eu">EU <span></span></a>
 	
 </li>
 <li class="hidden-phone"><a href="#" class="flag-au" id="flagswitch">AU<span></span></a></li>
@@ -303,27 +336,18 @@ body {
 			$('.links li.switch').fadeToggle();
 		})
 	});
-</script>      <li><a title="Contact Us" href="http://www.mobicity.com.au/contacts/">1300 14 6624</a></li>
+</script>      <li><a data-ga-category="TopBar" data-ga-action="click" data-ga-label="Phone Number" title="Contact Us" href="http://www.mobicity.com.au/contacts/">1300 14 6624</a></li>
       <span class="customer-links">
-      	<li><a href="https://www.mobicity.com.au/customer/account/login/">Login or Register</a></li>
-
-<script type="text/javascript">
-  jQuery('ul.links a').click(function(event) {
-    if(this.href.indexOf('/customer/account/login') > 0){
-      cityBrands.open(baseUrl + 'citybrands/esi/login', 'Login or Register');
-      event.preventDefault();
-    }
-    
-  });
-</script>      </span>
+      	<li><a data-ga-category="TopBar" data-ga-action="click" data-ga-label="Login" href="https://www.mobicity.com.au/customer/account/login/">Login or Register</a></li>
+      </span>
         
     </ul>
   	<ul class="sites">
-  		<li><a href="http://www.mobicity.com.au/" class="btn-site btn-mobicity">Mobi<span>City</span></a></li>
+  		<li><a data-ga-category="TopBar" data-ga-action="click" data-ga-label="MobiCity" href="http://www.mobicity.com.au/" class="btn-site btn-mobicity">Mobi<span>City</span></a></li>
 
-<li><a href="http://www.cameracity.com.au/" class="btn-site btn-cameracity">Camera<span>City</span></a></li>
+<li><a data-ga-category="TopBar" data-ga-action="click" data-ga-label="CameraCity" href="http://www.cameracity.com.au/" class="btn-site btn-cameracity">Camera<span>City</span></a></li>
 
-<li class="visible-phone"><a class="btn-site btn-login" href="https://www.mobicity.com.au/customer/account/login/">Login</a></li>  	</ul>
+<li class="visible-phone"><a data-ga-category="TopBar" data-ga-action="click" data-ga-label="Phone Login" class="btn-site btn-login" href="https://www.mobicity.com.au/customer/account/login/">Login</a></li>  	</ul>
   </div>
 </div>
 
@@ -341,27 +365,27 @@ body {
 
 <header class="row">
 
-    <h2 class="logo"><strong>MobiCity Logo</strong><a href="http://www.mobicity.com.au/" title="MobiCity Logo" class="logo"><img src="http://cdna.mobicity.com.au/skin/frontend/citybrands/default/images/logo.png" alt="MobiCity Logo"></a></h2>
+    <h2 class="logo"><strong>MobiCity Australia Logo</strong><a href="http://www.mobicity.com.au/" data-ga-category="Header" data-ga-action="click" data-ga-label="Logo" title="MobiCity Australia Logo" class="logo"><img src="http://cdna.mobicity.com.au/skin/frontend/citybrands/default/images/logo.png" alt="MobiCity Australia Logo"></a></h2>
 
     <div class="trustmarkers">
-    <a href="#" onclick="popWin('https://trustsealinfo.verisign.com/splash?form_file=fdf/splash.fdf&amp;dn=www.mobicity.com.au&amp;lang=en','VeriSign','width=550,height=600,left=50,top=50,resizable=yes,scrollbars=yes')">
+    <a data-ga-category="Header" data-ga-action="click" data-ga-label="Norton VeriSign" href="#" onclick="popWin('https://trustsealinfo.verisign.com/splash?form_file=fdf/splash.fdf&amp;dn=www.mobicity.com.au&amp;lang=en','VeriSign','width=550,height=600,left=50,top=50,resizable=yes,scrollbars=yes')">
         <img src="http://cdna.mobicity.com.au/skin/frontend/citybrands/default/images/security/Norton.gif" alt="Norton Verisign Secure Seal" title="This website has been security audited by Verisign, a Norton Secure product that guarantee state of the protection. It is PCI and malware scanned daily to ensure the integrity of your personal data. Click now to verify this websites authenticity.">
     </a>
-    <a href="#" onclick="popWin('http://www.shopperapproved.com/reviews/mobicity.com/','Shopper Approved','width=600,height=800,left=50,top=50,resizable=yes,scrollbars=yes')">
-        <img src="http://cdna.mobicity.com.au/skin/frontend/citybrands/default/images/security/ShopperApproved.gif" alt="Shopper Approved" title="MobiCity is rated 5/5 from over 17,000 independently verified customer reviews. Click here to read some recent feedback and experiences from real people just like you.">
+    <a data-ga-category="Header" data-ga-action="click" data-ga-label="Shopper Approved" href="#" onclick="popWin('http://www.shopperapproved.com/reviews/mobicity.com/','Shopper Approved','width=600,height=800,left=50,top=50,resizable=yes,scrollbars=yes')">
+        <img src="http://cdna.mobicity.com.au/skin/frontend/citybrands/default/images/security/approved.gif" alt="Shopper Approved" title="MobiCity is rated 5/5 from over 25,000 independently verified customer reviews. Click here to read some recent feedback and experiences from real people just like you.">
     </a>
 </div>    <!-- BoldChat Live Chat Button HTML v4.00 (Type=Web,ChatButton=MobicityAU Chat Button,Website=www.mobicity.com.au) -->
 <div class="chat">
-<a href="https://livechat.boldchat.com/aid/5242136487965112689/bc.chat?resize=true&amp;cbdid=355015194307297762&amp;wdid=3097025465784490210" target="_blank" onclick="window.open((window.pageViewer &amp;&amp; pageViewer.link || function(link){return link;})(this.href + (this.href.indexOf('?')>=0 ? '&amp;' : '?') + 'url=' + escape(document.location.href)), 'Chat7081091398156050835', 'toolbar=0,scrollbars=1,location=0,statusbar=0,menubar=0,resizable=1,width=640,height=480');return false;">
-<div><script language="JavaScript" type="text/javascript"> var bccbId = Math.random(); document.write(unescape('%3Cimg alt="Live chat by BoldChat" src="' + (('https:' == document.location.protocol) ? 'https:' : 'http:') + '//cbi.boldchat.com/aid/5242136487965112689/bc.cbi?cbdid=355015194307297762&amp;wdid=3097025465784490210" border="0" id=' + bccbId + ' /%3E')); var bccb = {id: bccbId, bdid: '355015194307297762', rdid: null, type: 'chat'}; var _bcvma = _bcvma || []; if(window.pageViewer && pageViewer.addButton) pageViewer.addButton(button); else _bcvma.push(['addButton', bccb]);</script><img alt="Live chat by BoldChat" src="https://cbi.boldchat.com/aid/5242136487965112689/bc.cbi?cbdid=355015194307297762&amp;wdid=3097025465784490210" border="0" id="0.8266781385509752"></div>
+<a data-ga-category="Header" data-ga-action="click" data-ga-label="LiveChat" href="https://livechat.boldchat.com/aid/5242136487965112689/bc.chat?resize=true&amp;cbdid=355015194307297762&amp;wdid=3097025465784490210" target="_blank" onclick="window.open((window.pageViewer &amp;&amp; pageViewer.link || function(link){return link;})(this.href + (this.href.indexOf('?')>=0 ? '&amp;' : '?') + 'url=' + escape(document.location.href)), 'Chat7081091398156050835', 'toolbar=0,scrollbars=1,location=0,statusbar=0,menubar=0,resizable=1,width=640,height=480');return false;">
+<div><script language="JavaScript" type="text/javascript"> var bccbId = Math.random(); document.write(unescape('%3Cimg alt="Live chat by BoldChat" src="' + (('https:' == document.location.protocol) ? 'https:' : 'http:') + '//cbi.boldchat.com/aid/5242136487965112689/bc.cbi?cbdid=355015194307297762&amp;wdid=3097025465784490210" border="0" id=' + bccbId + ' /%3E')); var bccb = {id: bccbId, bdid: '355015194307297762', rdid: null, type: 'chat'}; var _bcvma = _bcvma || []; if(window.pageViewer && pageViewer.addButton) pageViewer.addButton(button); else _bcvma.push(['addButton', bccb]);</script><img alt="Live chat by BoldChat" src="https://cbi.boldchat.com/aid/5242136487965112689/bc.cbi?cbdid=355015194307297762&amp;wdid=3097025465784490210" border="0" id="0.8080580748040751"></div>
 </a>
 </div>
 <!-- /BoldChat Live Chat Button HTML v4.00 -->    <div class="quick-access">
-        <form id="search-mini-form" class="form-inline" action="http://www.mobicity.com.au/catalogsearch/result/" method="get">
-	<div class="input">
-    <input id="search" type="text" data-placeholder="I'm searching for..." name="q" value="" class="span4" maxlength="128">
+        <form id="search-mini-form" class="form-inline hidden-phone" action="http://www.mobicity.com.au/catalogsearch/result/" method="get">
+  <div class="input">
+    <input id="search" type="text" data-placeholder="I'm searching for..." name="q" autocomplete="off" value="" class="span4" maxlength="128">
     <!-- <div id="search-indicator" class="indicator" style="display: none;"></div> -->
-    <button type="submit" class="btn btn-primary" title="Search">
+    <button type="submit" data-ga-category="Header" data-ga-action="click" data-ga-label="Search Button" class="btn btn-primary" title="Search">
       <span class="search-btn-text">Search</span>
       <span class="search-btn-container">
         <span class="search-btn-spinner">
@@ -386,13 +410,34 @@ body {
                 input.val(input.attr('data-placeholder'));
               }
             }).blur();
-            $('#search-mini-form .btn').click(function(e) {
+            $('#search-mini-form .btn, #fourosearch-form .btn').click(function(e) {
               $(this).addClass('active');
             })
         });
-    	
+
+
+        jQuery(function($) {
+        var render, select;
+        render = function(term, data, type) {
+        return term;
+        };
+        select = function(term, data, type) {
+        window.location = data.url;
+        };
+        var store = 1;
+        $('#search-mini-form input').soulmate({
+        url: 'http://search.glotechltd.com/search',
+        types: ['phones-' + store, 'tablets-' + store, 'accessories-' + store],
+        renderCallback: render,
+        selectCallback: select,
+        minQueryLength: 2,
+        maxResults: 5
+        });
+        });
+
+      
     </script>
-	</div>
+  </div>
 </form>
     </div>
     </header>
@@ -401,78 +446,70 @@ body {
 <div class="megamenu-container">
 
 <nav id="megamenu" class="hidden-phone">
-	<ul>
+	<ul class="left-menu">
 		
 				<li>
-			<a href="http://www.mobicity.com.au/phones.html/">Phones</a>
+			<a data-ga-category="MegaMenu" data-ga-action="click" data-ga-label="Phones" href="http://www.mobicity.com.au/phones.html/">Phones</a>
 			<div class="megamenu-content hide">
 				<div class="span2">
 					<h2>Phones</h2>
-					<hr>
-					<p>Welcome to your mobile destination. 
-<br>
-Use the links to the right to browse, or chat with an expert for assistance.</p>
-					<a class="btn btn-small" href="http://www.mobicity.com.au/phonefinder/">Find a Phone</a>
+					<p></p><p>The latest phones first. 
+</p><p>
+Use these hot links to browse, or chat with one of our experts.
+</p><p></p>
+					<a data-ga-category="MegamenuContent" data-ga-action="click" data-ga-label="Find a Phone" class="btn btn-small" href="http://www.mobicity.com.au/phones.html/">Find a Phone</a>
 				</div>
+				
 				<div class="span6">
-					<h2>Featured Phones</h2>
-					<hr>
-					<div class="row">
-						
-
-			<div class="span2 featured">
-			<a href="http://www.mobicity.com.au/samsung-galaxy-s2-i9100-sii-16gb.html">
-				<img src="http://d31esjakyybtmp.cloudfront.net/catalog/product/cache/1/small_image/150x/9df78eab33525d08d6e5fb8d27136e95/s/a/samsung_galaxy_s_01.jpg" alt="Samsung Galaxy S2 i9100 16GB (S II)" width="130" height="130">
-				<div class="product-overlay">
-					<h3>Samsung Galaxy S2 i9100 16GB (S II)</h3>
-				</div>
-			</a>
-		</div>
-			<div class="span2 featured">
-			<a href="http://www.mobicity.com.au/htc-8x.html">
-				<img src="http://d31esjakyybtmp.cloudfront.net/catalog/product/cache/1/small_image/150x/9df78eab33525d08d6e5fb8d27136e95/h/t/htc-8x-3_2.jpg" alt="HTC 8X" width="130" height="130">
-				<div class="product-overlay">
-					<h3>HTC 8X</h3>
-				</div>
-			</a>
-		</div>
-			<div class="span2 featured">
-			<a href="http://www.mobicity.com.au/htc-one-x-plus-64gb.html">
-				<img src="http://d31esjakyybtmp.cloudfront.net/catalog/product/cache/1/small_image/150x/9df78eab33525d08d6e5fb8d27136e95/h/t/htc-one-x-plus-1.jpg" alt="HTC One X+" width="130" height="130">
-				<div class="product-overlay">
-					<h3>HTC One X+</h3>
-				</div>
-			</a>
-		</div>
-	
-					</div>
-				</div>
-				<div class="span4">
 					<div class="row">
 						<div class="span2">
 							<h2>Categories</h2>
-							<hr>
 							<ul>
 								<a href="/phones/4g-phones.html">4G Phones</a><br>
-<a href="/phones/micro-sim.html">MicroSIM Phones</a><br>
-<a href="/phones/nfc-enabled-devices.html">NFC Enabled</a><br>
+<a href="/phones/nextg-phones.html">Next G Phones</a><br>
+<a href="/phones/shopby/sim_size-nano_sim.html">Nano SIM Phones</a><br>
+<a href="/phones/micro-sim.html">Micro SIM Phones</a><br>
 <a href="/phones/dual-sim-phones.html">Dual SIM Phones</a><br>
+<a href="/phones/basic-phones.html">Basic Phones</a><br>
+<a href="/phones/shopby/camera-8mp-12mp-41mp-13mp-8_7mp-ultrapixel-6_7mp-16mp-20mp-20_7mp-10mp.html">Camera Phones</a><br>
 <a href="/phones/rugged-phones.html">Rugged &amp; Tough</a><br>							</ul>
 						</div>
 						<div class="span2">
-							<h2>Operating System</h2>
-							<hr>
+							<h2>OS and Features</h2>
 							<ul>
-								<a href="/phones/smartphones/android.html">Google Android</a><a><br>
-</a><a href="/phones/smartphones/windows.html/">Windows Phones</a><br>
-<a href="/apple.html">Apple iOS</a><br>
-<a href="/blackberry-mobile-phones.html">BlackBerry Phones</a><br>
-<a href="/phones/smartphones/symbian.html">Symbian OS</a><br>							</ul>
+								<a href="/phones/smartphones/android.html">Google Android</a><br>
+<a href="/phones/smartphones/windows.html">Windows Phones</a><br>
+<a href="/phones/shopby/manufacturer-apple.html">Apple iOS</a><br>
+<a href="/blackberry-mobile-phones">BlackBerry Phones</a><br>
+<a href="/phones/smartphones/symbian.html">Symbian OS</a><br>
+<a href="/phones/shopby/os-manufacturer-touchwiz-sony_ericsson-brew-meego-maemo-bada.html">Other OS</a><br>
+<a href="/phones/nfc-enabled-devices.html">NFC Enabled</a><br>
+<a href="/phones/superphones.html">Superphones</a><br>							</ul>
+						</div>
+						<div class="span2">
+							<h2>Popular Models</h2>
+							<ul>
+								<a href="/catalogsearch/result/index/?dir=desc&amp;order=created_at&amp;product_type=115&amp;q=galaxy">Galaxy Phones</a><br>
+<a href="/catalogsearch/result/index/?dir=desc&amp;order=price&amp;q=note">Galaxy Note</a><br>
+<a href="/catalogsearch/result/?product_type=115&amp;q=Iphone">iPhones</a><br>
+<a href="/catalogsearch/result/?product_type=115&amp;q=nexus">Nexus Phones</a><br>
+<a href="/catalogsearch/result/?product_type=115&amp;q=HTC+One">HTC One Range</a><br>
+<a href="/catalogsearch/result/?product_type=115&amp;q=Lumia">Lumia Phones</a><br>
+<a href="/catalogsearch/result/?product_type=115&amp;q=xperia">Xperia Phones</a><br>
+<a href="/catalogsearch/result/?product_type=115&amp;q=lg+g">LG G Phones</a><br>							</ul>
 						</div>
 					</div>
+				</div>
+				<div class="span2">
 					<div class="row">
-						<div class="span4">
-							<h3 class="inline" style="line-height: 30px;">Browse Catalogue</h3><a class="btn btn-small inline right" href="http://www.mobicity.com.au/phones.html/">View All Phones</a>
+												<div class="span2 featured">
+							<a href="http://www.mobicity.com.au/catalog/product/view/id/42689/s/htc-one-m7/category/25/">
+								<img src="http://d31esjakyybtmp.cloudfront.net/catalog/product/cache/1/small_image/150x/9df78eab33525d08d6e5fb8d27136e95/h/t/htc-productdetail-overview-grey-small_1.png" alt="" width="130" height="130">
+							</a>
+								<h3>
+									<a href="http://www.mobicity.com.au/catalog/product/view/id/42689/s/htc-one-m7/category/25/">
+									HTC One 4G LTE 32GB</a>
+								</h3>
 						</div>
 					</div>
 				</div>
@@ -480,74 +517,65 @@ Use the links to the right to browse, or chat with an expert for assistance.</p>
 		</li>
 				
 				<li>
-			<a href="http://www.mobicity.com.au/tablets.html/">Tablets</a>
+			<a data-ga-category="MegaMenu" data-ga-action="click" data-ga-label="Tablets" href="http://www.mobicity.com.au/tablets.html/">Tablets</a>
 			<div class="megamenu-content hide">
 				<div class="span2">
 					<h2>Tablets</h2>
-					<hr>
-					<p>Find the right tablet PC for your needs.<br>
-Use the links to the right to browse specifications or chat to an expert.</p>
-					<a class="btn btn-small" href="http://www.mobicity.com.au/tabletfinder/">Find a Tablet</a>
+					<p></p><p>
+The latest tablet pc's. 
+</p><p>
+Use these hot links to browse, or chat with one of our experts.
+</p><p></p>
+					<a data-ga-category="MegamenuContent" data-ga-action="click" data-ga-label="Find a Tablet" class="btn btn-small" href="http://www.mobicity.com.au/tablets.html/">Find a Tablet</a>
 				</div>
+				
 				<div class="span6">
-					<h2>Featured Tablets</h2>
-					<hr>
-					<div class="row">
-						
-
-			<div class="span2 featured">
-			<a href="http://www.mobicity.com.au/google-nexus-10-16gb.html">
-				<img src="http://d31esjakyybtmp.cloudfront.net/catalog/product/cache/1/small_image/150x/9df78eab33525d08d6e5fb8d27136e95/g/o/google-nexus-10-1_1.jpg" alt="Google Nexus 10 16GB" width="130" height="130">
-				<div class="product-overlay">
-					<h3>Google Nexus 10 16GB</h3>
-				</div>
-			</a>
-		</div>
-			<div class="span2 featured">
-			<a href="http://www.mobicity.com.au/fujitsu-f-01d-arrows-tab.html">
-				<img src="http://d31esjakyybtmp.cloudfront.net/catalog/product/cache/1/small_image/150x/9df78eab33525d08d6e5fb8d27136e95/f/u/fujitsu_f-01d_arrows_tab_2.jpg" alt="Fujitsu F-01D Arrows Tab" width="130" height="130">
-				<div class="product-overlay">
-					<h3>Fujitsu F-01D Arrows Tab</h3>
-				</div>
-			</a>
-		</div>
-			<div class="span2 featured">
-			<a href="http://www.mobicity.com.au/samsung-n7005-galaxy-note-16gb.html">
-				<img src="http://d31esjakyybtmp.cloudfront.net/catalog/product/cache/1/small_image/150x/9df78eab33525d08d6e5fb8d27136e95/s/a/samsung-n7005-galaxy-note-1.jpg" alt="Samsung N7005 Galaxy Note 4G LTE" width="130" height="130">
-				<div class="product-overlay">
-					<h3>Samsung N7005 Galaxy Note 4G LTE</h3>
-				</div>
-			</a>
-		</div>
-	
-					</div>
-				</div>
-				<div class="span4">
 					<div class="row">
 						<div class="span2">
-							<h2>Tablet Computers</h2>
-							<hr>
+							<h2>Brand</h2>
 							<ul>
-								<a href="/catalogsearch/result/index/?dir=desc&amp;order=special_price&amp;q=ipad&amp;x=0&amp;y=0">iPads</a><br>
-<a href="/tablets/android-tablets.html">Android Tablets</a><br>
-<a href="/tablets/shopby/manufacturer-blackberry.html">Playbooks</a><br>
-<a href="/tablets.html?dir=asc&amp;item_status=263&amp;order=special_price">Cheap Tablets</a><br>
-<a href="/mobile-phone-accessories.html">Tablet Accessories</a><br>							</ul>
+								<a href="/tablets/shopby/manufacturer-samsung.html">Samsung Tablet</a><br>
+<a href="/catalogsearch/result/?product_type=246&amp;q=google">Google Tablet</a><br>
+<a href="/tablets/shopby/manufacturer-microsoft.html">Microsoft Tablet</a><br>
+<a href="/tablets/shopby/manufacturer-apple.html">Apple iPad</a><br>
+<a href="/tablets/shopby/manufacturer-asus.html">Asus Tablet</a><br>
+<a href="/tablets/shopby/manufacturer-sony_ericsson-sony.html">Sony Tablet</a><br>
+<a href="/tablets/shopby/manufacturer-dell.html">Dell Tablet</a><br>							</ul>
 						</div>
 						<div class="span2">
-							<h2>Mobile Tablets</h2>
-							<hr>
+							<h2>OS &amp; Network</h2>
 							<ul>
-								<a href="/tablets/phablets.html">Phablets</a><br>
-<a href="/tablets/wifi-tablets.html/">WiFi Tablets</a><br>
+								<a href="/tablets/android-tablets.html">Android Tablets</a><br>
+<a href="/tablets/shopby/os-windows_mobile-windows_mobile_6_5_ready-windows_mobile_6_1-windows_mobile_6_0-windows_mobile_6_5-windows_phone_7-windows_7-windows_phone_7_5-windows_phone_8-windows_rt-windows_8-windows_8_pro.html">Windows Tablets</a><br>
+<a href="/tablets/shopby/os-google_chrome.html">Chrome OS</a><br>
+<a href="/tablets/wifi-tablets.html">WiFi Tablets</a><br>
 <a href="/tablets/3g-tablets.html">3G Tablets</a><br>
-<a href="/tablets/l/telstra-4g.html">4G LTE Tablets</a><br>
+<a href="/tablets/shopby/network_icons-telstra_optus_virgin_iinet_4g.htmll">4G LTE Tablets</a><br>
 <a href="/tablets/nextg-tablets.html">NextG Tablets</a><br>							</ul>
 						</div>
+						<div class="span2">
+							<h2>Popular Models</h2>
+							<ul>
+								<a href="/phablets.html">Phablets</a><br>
+<a href="/catalogsearch/result/?product_type=246&amp;q=surface">Surface Tablet</a><br>
+<a href="/catalogsearch/result/?product_type=246&amp;q=nexus">Nexus Tablet</a><br>
+<a href="/catalogsearch/result/?product_type=246&amp;q=galaxy">Galaxy Tablet</a><br>
+<a href="/catalogsearch/result/?product_type=246&amp;q=xperia">Xperia Tablet</a><br>
+<a href="/catalogsearch/result/?product_type=246&amp;q=Transformer">Transformer Tablet</a><br>
+<a href="/tablets/shopby/price-1-300.html?dir=asc&amp;order=price">Cheap Tablet</a><br>							</ul>
+						</div>
 					</div>
+				</div>
+				<div class="span2">
 					<div class="row">
-						<div class="span4">
-							<h3 class="inline" style="line-height: 30px;">Browse Catalogue</h3><a class="btn btn-small inline right" href="http://www.mobicity.com.au/tablets.html/">View all Tablets</a>
+												<div class="span2 featured">
+							<a href="http://www.mobicity.com.au/catalog/product/view/id/44982/s/google-nexus-7-2-2nd-generation-32gb-lte/category/25/">
+								<img src="http://d31esjakyybtmp.cloudfront.net/catalog/product/cache/1/small_image/150x/9df78eab33525d08d6e5fb8d27136e95/g/o/google-nexus-7-2013-4g-lte.png" alt="" width="130" height="130">
+							</a>
+								<h3>
+									<a href="http://www.mobicity.com.au/catalog/product/view/id/44982/s/google-nexus-7-2-2nd-generation-32gb-lte/category/25/">
+									Google Nexus 7 II (2nd Gen) 32GB 4G LTE</a>
+								</h3>
 						</div>
 					</div>
 				</div>
@@ -555,75 +583,64 @@ Use the links to the right to browse specifications or chat to an expert.</p>
 		</li>
 				
 				<li>
-			<a href="http://www.mobicity.com.au/mobile-phone-accessories.html/">Accessories</a>
+			<a data-ga-category="MegaMenu" data-ga-action="click" data-ga-label="Accessories" href="http://www.mobicity.com.au/mobile-phone-accessories.html/">Accessories</a>
 			<div class="megamenu-content hide">
 				<div class="span2">
 					<h2>Accessories</h2>
-					<hr>
-					<p>Use the finder below and we'll show you all matching accessories.<br>
-Alternatively browse all products by category.</p>
-					<a class="btn btn-small" href="http://www.mobicity.com.au/accessoryfinder/">Find Accessories</a>
+					<p></p><p>Customise your device. 
+</p><p>
+Use these hot links to browse, or chat with one of our experts.
+</p><p></p>
+					<a data-ga-category="MegamenuContent" data-ga-action="click" data-ga-label="Find Yours Now" class="btn btn-small" href="http://www.mobicity.com.au/accessoryfinder/">Find Yours Now</a>
 				</div>
+				
 				<div class="span6">
-					<h2>Featured Accessories</h2>
-					<hr>
-					<div class="row">
-						
-
-			<div class="span2 featured">
-			<a href="http://www.mobicity.com.au/jawbone-jambox.html">
-				<img src="http://d31esjakyybtmp.cloudfront.net/catalog/product/cache/1/small_image/150x/9df78eab33525d08d6e5fb8d27136e95/j/a/jawbone-jambox-1.jpg" alt="Jawbone JAMBOX" width="130" height="130">
-				<div class="product-overlay">
-					<h3>Jawbone JAMBOX</h3>
-				</div>
-			</a>
-		</div>
-			<div class="span2 featured">
-			<a href="http://www.mobicity.com.au/htc-one-s-car-holder-with-short-extension.html">
-				<img src="http://d31esjakyybtmp.cloudfront.net/catalog/product/cache/1/small_image/150x/9df78eab33525d08d6e5fb8d27136e95/h/t/htc_one_s_car_holder_with_short_extension_1.jpg" alt="HTC One S Car Holder with Short Extension" width="130" height="130">
-				<div class="product-overlay">
-					<h3>HTC One S Car Holder with Short ...</h3>
-				</div>
-			</a>
-		</div>
-			<div class="span2 featured">
-			<a href="http://www.mobicity.com.au/htc-wildfire-s-a510e-clear-coat-scratch-protection.html">
-				<img src="http://d31esjakyybtmp.cloudfront.net/catalog/product/cache/1/small_image/150x/9df78eab33525d08d6e5fb8d27136e95/p/i/pi1_1337.jpg" alt="HTC Wildfire S A510e Clear Coat Scratch Protection" width="130" height="130">
-				<div class="product-overlay">
-					<h3>HTC Wildfire S A510e Clear Coat Scratch ...</h3>
-				</div>
-			</a>
-		</div>
-	
-					</div>
-				</div>
-				<div class="span4">
 					<div class="row">
 						<div class="span2">
-							<h2>Popular</h2>
-							<hr>
+							<h2>Power</h2>
 							<ul>
-								<a href="/mobile-phone-accessories/powerbanks.html">Power Banks</a><br>
-<a href="/mobile-phone-accessories/extended-battery-cases.html">Extended Batteries</a><br>
-<a href="/catalogsearch/result/index/?dir=asc&amp;limit=64&amp;order=name&amp;q=clear+coat">Clear Coat</a><br>
-<a href="/mobile-phone-accessories/wireless-chargers.html">Wireless Chargers</a><br>
+								<a href="/mobile-phone-accessories/shopby/accessory_type-batteries_charge_kits.html">Phone Batteries</a><br>
+<a href="/mobile-phone-accessories/shopby/accessory_type-extended_battery_case.html">Extended Batteries</a><br>
+<a href="/mobile-phone-accessories/shopby/accessory_type-external_power_packs.html">Power Banks</a><br>
+<a href="/mobile-phone-accessories/shopby/accessory_type-chargers.html">Charges</a><br>
+<a href="/catalogsearch/result/?accessory_type=%2C669&amp;q=wireless">Wireless Chargers</a><br>
+<a href="/mobile-phone-accessories/shopby/accessory_type-docking_station.html">Cradle Dock</a><br>
+<a href="/mobile-phone-accessories/shopby/accessory_type-cables_connections.html">Cables</a><br>							</ul>
+						</div>
+						<div class="span2">
+							<h2>Essentials</h2>
+							<ul>
+								<a href="/mobile-phone-accessories/shopby/accessory_type-memory.html">Memory Cards</a><br>
+<a href="/catalogsearch/result/?q=otg">OTG Memory</a><br>
+<a href="/mobile-phone-accessories/shopby/accessory_type-device_protection.html">Device Protection</a><br>
+<a href="/catalogsearch/result/?q=case">Cases &amp; Covers</a><br>
+<a href="/mobile-phone-accessories/shopby/manufacturer-clear_coat_.html">Clear Coat</a><br>
+<a href="/mobile-phone-accessories/shopby/accessory_type-stylus.html">Stylus Pens</a><br>
+<a href="/mobile-phone-accessories/shopby/accessory_type-car_holder.html">Car Holder</a><br>							</ul>
+						</div>
+						<div class="span2">
+							<h2>Peripherals</h2>
+							<ul>
+								<a href="/mobile-phone-accessories/shopby/accessory_type-headphones.html">Headphones</a><br>
+<a href="/catalogsearch/result/?q=bluetooth">Bluetooth</a><br>
+<a href="/mobile-phone-accessories/shopby/accessory_type-speaker.html">Speakers</a><br>
 <a href="/mobile-phone-accessories/audio-visual.html">Audio Visual</a><br>
-							</ul>
-						</div>
-						<div class="span2">
-							<h2>Categories</h2>
-							<hr>
-							<ul>
-								<a href="/mobile-phone-accessories/mobile-phone-memory-cards.html">Memory Cards</a><br>
-<a href="/mobile-phone-accessories/mobile-phone-batteries.html">Phone Batteries </a><br>
-<a href="/mobile-phone-accessories/shopby/accessory_type-mobile_leather_case-tablet_leather_case-silicon_case-tpu_case-crystal_case.html">Cases/Protection</a><br>
-<a href="/catalogsearch/result/?q=headphones">Headphones</a><br>
-<a href="/mobile-phone-accessories/mobile-phone-chargers.html">Charges/Cables</a><br>							</ul>
+<a href="/mobile-phone-accessories/shopby/accessory_type-sim_network_offers.html">SIM Cards</a><br>
+<a href="/mobile-phone-accessories/shopby/accessory_type-wearables.html">Wearables</a><br>
+<a href="/mobile-phone-accessories/shopby/accessory_type-mini_pc.html">Mini PC</a><br>							</ul>
 						</div>
 					</div>
+				</div>
+				<div class="span2">
 					<div class="row">
-						<div class="span4">
-							<h3 class="inline" style="line-height: 30px;">Browse Catalogue</h3><a class="btn btn-small inline right" href="http://www.mobicity.com.au/mobile-phone-accessories.html/">View All Accessories</a>
+												<div class="span2 featured">
+							<a href="http://www.mobicity.com.au/catalog/product/view/id/44775/s/mio-alpha-strapless-heart-rate-monitor/category/25/">
+								<img src="http://d31esjakyybtmp.cloudfront.net/catalog/product/cache/1/small_image/150x/9df78eab33525d08d6e5fb8d27136e95/m/i/mio-alpha-heartrate-monitor.png" alt="" width="130" height="130">
+							</a>
+								<h3>
+									<a href="http://www.mobicity.com.au/catalog/product/view/id/44775/s/mio-alpha-strapless-heart-rate-monitor/category/25/">
+									MIO Alpha Strapless Heart Rate Monitor</a>
+								</h3>
 						</div>
 					</div>
 				</div>
@@ -631,21 +648,20 @@ Alternatively browse all products by category.</p>
 		</li>
 				
 				<li>
-			<a href="http://www.mobicity.com.au/phones.html/">Brands</a>
+			<a data-ga-category="MegaMenu" data-ga-action="click" data-ga-label="Brands" href="http://www.mobicity.com.au/phones.html/">Brands</a>
 			<div class="megamenu-content hide">
-				<div class="span3">
+				<div class="span2">
 					<h2>Brands</h2>
-					<hr>
-					<p>Samsung or Apple? HTC or Sony? BlackBerry or Motorola? Acer or Asus?<br>
-No matter your allegiance, we showcase the top devices from the world's very best manufacturers right here..</p>
-					<a class="btn btn-small" href="http://www.mobicity.com.au/phones.html/">Find your Brand</a>
+					<p></p><p>Samsung or Apple?
+</p><p>
+No matter your brand allegiance, we showcase the world's top devices.
+</p><p></p>
+					<a data-ga-category="MegamenuContent" data-ga-action="click" data-ga-label="phones.html" class="btn btn-small" href="http://www.mobicity.com.au/phones.html/">Find your Brand</a>
 				</div>
-				<div class="span9">
-					<h2>Top Brands</h2>
-					<hr>
+				<div class="span8">
 					<ul class="brand-icons">
 													<li>
-								<a href="/samsung-mobile-phones.html">
+								<a data-ga-category="MegamenuContent" data-ga-action="click" data-ga-label="Brand: Samsung" href="/samsung-mobile-phones.html">
 									<div class="icon-cont">
 										<div class="icon-samsung">
 											<span></span>
@@ -656,7 +672,7 @@ No matter your allegiance, we showcase the top devices from the world's very bes
 								</a>
 							</li>
 													<li>
-								<a href="/apple.html">
+								<a data-ga-category="MegamenuContent" data-ga-action="click" data-ga-label="Brand: Apple" href="/apple.html">
 									<div class="icon-cont">
 										<div class="icon-apple">
 											<span></span>
@@ -667,7 +683,7 @@ No matter your allegiance, we showcase the top devices from the world's very bes
 								</a>
 							</li>
 													<li>
-								<a href="/htc-mobile-phones.html">
+								<a data-ga-category="MegamenuContent" data-ga-action="click" data-ga-label="Brand: HTC" href="/htc-mobile-phones.html">
 									<div class="icon-cont">
 										<div class="icon-htc">
 											<span></span>
@@ -678,7 +694,7 @@ No matter your allegiance, we showcase the top devices from the world's very bes
 								</a>
 							</li>
 													<li>
-								<a href="/more-mobile-phones/lg-mobile-phones.html">
+								<a data-ga-category="MegamenuContent" data-ga-action="click" data-ga-label="Brand: LG" href="/more-mobile-phones/lg-mobile-phones.html">
 									<div class="icon-cont">
 										<div class="icon-lg">
 											<span></span>
@@ -689,7 +705,7 @@ No matter your allegiance, we showcase the top devices from the world's very bes
 								</a>
 							</li>
 													<li>
-								<a href="/blackberry-mobile-phones.html">
+								<a data-ga-category="MegamenuContent" data-ga-action="click" data-ga-label="Brand: Blackberry" href="/blackberry-mobile-phones.html">
 									<div class="icon-cont">
 										<div class="icon-blackberry">
 											<span></span>
@@ -700,7 +716,7 @@ No matter your allegiance, we showcase the top devices from the world's very bes
 								</a>
 							</li>
 													<li>
-								<a href="/nokia-mobile-phones.html">
+								<a data-ga-category="MegamenuContent" data-ga-action="click" data-ga-label="Brand: Nokia" href="/nokia-mobile-phones.html">
 									<div class="icon-cont">
 										<div class="icon-nokia">
 											<span></span>
@@ -711,7 +727,7 @@ No matter your allegiance, we showcase the top devices from the world's very bes
 								</a>
 							</li>
 													<li>
-								<a href="/sony-ericsson-mobile-phones.html">
+								<a data-ga-category="MegamenuContent" data-ga-action="click" data-ga-label="Brand: Sony" href="/sony-ericsson-mobile-phones.html">
 									<div class="icon-cont">
 										<div class="icon-sony">
 											<span></span>
@@ -722,7 +738,7 @@ No matter your allegiance, we showcase the top devices from the world's very bes
 								</a>
 							</li>
 													<li>
-								<a href="/motorola-mobile-phones.html">
+								<a data-ga-category="MegamenuContent" data-ga-action="click" data-ga-label="Brand: Motorola" href="/motorola-mobile-phones.html">
 									<div class="icon-cont">
 										<div class="icon-motorola">
 											<span></span>
@@ -733,7 +749,7 @@ No matter your allegiance, we showcase the top devices from the world's very bes
 								</a>
 							</li>
 													<li>
-								<a href="/bwc-smart-and-tough.html">
+								<a data-ga-category="MegamenuContent" data-ga-action="click" data-ga-label="Brand: BWC" href="/bwc-smart-and-tough.html">
 									<div class="icon-cont">
 										<div class="icon-amazon">
 											<span></span>
@@ -744,7 +760,7 @@ No matter your allegiance, we showcase the top devices from the world's very bes
 								</a>
 							</li>
 													<li>
-								<a href="/more-mobile-phones/huawei-mobile-phones.html">
+								<a data-ga-category="MegamenuContent" data-ga-action="click" data-ga-label="Brand: Huawei" href="/more-mobile-phones/huawei-mobile-phones.html">
 									<div class="icon-cont">
 										<div class="icon-huawei">
 											<span></span>
@@ -755,7 +771,7 @@ No matter your allegiance, we showcase the top devices from the world's very bes
 								</a>
 							</li>
 													<li>
-								<a href="http://www.mobicity.com.au/asus.html">
+								<a data-ga-category="MegamenuContent" data-ga-action="click" data-ga-label="Brand: Asus" href="http://www.mobicity.com.au/asus.html">
 									<div class="icon-cont">
 										<div class="icon-asus">
 											<span></span>
@@ -772,74 +788,58 @@ No matter your allegiance, we showcase the top devices from the world's very bes
 		</li>
 				
 				<li>
-			<a href="http://www.mobicity.com.au/on-sale.html/">On Sale</a>
+			<a data-ga-category="MegaMenu" data-ga-action="click" data-ga-label="On Sale" href="http://www.mobicity.com.au/on-sale.html/">On Sale</a>
 			<div class="megamenu-content hide">
 				<div class="span2">
 					<h2>On Sale Now</h2>
-					<hr>
-					<p>Welcome to our sales and offers page.<br> Here you will find all our best discounts &amp; deals but stocks are limited, so be quick!</p>
-					<a class="btn btn-small" href="http://www.mobicity.com.au/on-sale.html/">Find a Deal Now</a>
+					<p></p><p>Score a deal today!
+</p><p>
+You'll find all our best offers here. Stocks can be limited so be quick!
+</p><p></p>
+					<a data-ga-category="MegamenuContent" data-ga-action="click" data-ga-label="Find a Deal Now" class="btn btn-small" href="http://www.mobicity.com.au/on-sale.html/">Find a Deal Now</a>
 				</div>
+				
 				<div class="span6">
-					<h2>Top Deals</h2>
-					<hr>
-					<div class="row">
-						
-
-			<div class="span2 featured">
-			<a href="http://www.mobicity.com.au/htc-8x-4g-lte.html">
-				<img src="http://d31esjakyybtmp.cloudfront.net/catalog/product/cache/1/small_image/150x/9df78eab33525d08d6e5fb8d27136e95/h/t/htc-8x-4_2_1.jpg" alt="HTC 8X 4G LTE" width="130" height="130">
-				<div class="product-overlay">
-					<h3>HTC 8X 4G LTE</h3>
-				</div>
-			</a>
-		</div>
-			<div class="span2 featured">
-			<a href="http://www.mobicity.com.au/portable-6600-mah-power-bank.html">
-				<img src="http://d31esjakyybtmp.cloudfront.net/catalog/product/cache/1/small_image/150x/9df78eab33525d08d6e5fb8d27136e95/p/o/portable-6600-mah-power-bank-3.jpg" alt="Portable 6600 mAh Power Bank " width="130" height="130">
-				<div class="product-overlay">
-					<h3>Portable 6600 mAh Power Bank </h3>
-				</div>
-			</a>
-		</div>
-			<div class="span2 featured">
-			<a href="http://www.mobicity.com.au/samsung-galaxy-s3-i9300-32gb-siii.html">
-				<img src="http://d31esjakyybtmp.cloudfront.net/catalog/product/cache/1/small_image/150x/9df78eab33525d08d6e5fb8d27136e95/s/a/samsung-galaxy-s3-brown_1.jpg" alt="Samsung Galaxy S3 i9300 32GB (S III)" width="130" height="130">
-				<div class="product-overlay">
-					<h3>Samsung Galaxy S3 i9300 32GB (S III)</h3>
-				</div>
-			</a>
-		</div>
-	
-					</div>
-				</div>
-				<div class="span4">
 					<div class="row">
 						<div class="span2">
 							<h2>Deals</h2>
-							<hr>
 							<ul>
 								<a href="/catalogsearch/result/?q=open+box&amp;x=0&amp;y=0">Open Box Specials</a><br>
-<a href="/on-sale.html">Run Out Models</a><br>
 <a href="/catalogsearch/result/?q=refurbished&amp;x=0&amp;y=0">Refurbished Phones</a><br>
 <a href="/phones/cheap-mobile-phones.html">Cheap Phones</a><br>
-<a href="/tablets.html?dir=asc&amp;item_status=263&amp;order=special_price">Cheap Tablets</a><br>							</ul>
+<a href="/tablets.html?dir=asc&amp;item_status=263&amp;order=special_price">Cheap Tablets</a><br>
+<a href="/mobile-phone-accessories/shopby/price-1-20.html?dir=asc&amp;order=price">Cheap Accessories</a><br>							</ul>
 						</div>
 						<div class="span2">
 							<h2>Offers</h2>
-							<hr>
 							<ul>
 								<a href="/on-sale.html">Hot Deals</a><br>
-<a href="/gift-card.html">Gift Cards</a><br>
-<a href="/on-sale.html">Sale Items</a><br>
-<a href="/about/rewards-program.html">Rewards Program</a><br>
-<a href="/about/new-for-old.html">New For Old Policy</a><br>
-							</ul>
+<a href="/new-release-mobile-phones.html">New Releases</a><br>
+<a href="/best-selling-mobile-phones.html">Best Sellers</a><br>
+<a href="/best-mobile-phone.html">Most Popular</a><br>
+<a href="/extras/coupons-discount-codes.html">Current Coupons</a><br>							</ul>
+						</div>
+						<div class="span2">
+							<h2>Promotions</h2>
+							<ul>
+								<a href="/http://www.mobicity.com.au/citybrands/tradein/standalone/">Cashback</a><br>
+<a href="http://mobicity.whistleout.com.au/" target="blank">Mobile Phone Plans</a><br>
+<a href="/extras/mobile-phone-delivery.html">Free Shipping Offer</a><br>
+<a href="/extras/mobile-phone-delivery.html">Free Shipping Insurance</a><br>
+<a href="/about/new-for-old.html">New for Old Policy</a><br>							</ul>
 						</div>
 					</div>
+				</div>
+				<div class="span2">
 					<div class="row">
-						<div class="span4">
-							<h3 class="inline" style="line-height: 30px;">Browse Offers</h3><a class="btn btn-small inline right" href="http://www.mobicity.com.au/on-sale.html/">View All Current Deals</a>
+												<div class="span2 featured">
+							<a href="http://www.mobicity.com.au/catalog/product/view/id/37269/s/nokia-lumia-920/category/25/">
+								<img src="http://d31esjakyybtmp.cloudfront.net/catalog/product/cache/1/small_image/150x/9df78eab33525d08d6e5fb8d27136e95/n/o/nokia_lumia_920.png" alt="" width="130" height="130">
+							</a>
+								<h3>
+									<a href="http://www.mobicity.com.au/catalog/product/view/id/37269/s/nokia-lumia-920/category/25/">
+									Nokia Lumia 920</a>
+								</h3>
 						</div>
 					</div>
 				</div>
@@ -847,89 +847,87 @@ No matter your allegiance, we showcase the top devices from the world's very bes
 		</li>
 				
 				<li>
-			<a href="http://www.mobicity.com.au/mobile-blog/">Blog</a>
+			<a data-ga-category="MegaMenu" data-ga-action="click" data-ga-label="Blog" href="http://www.mobicity.com.au/mobile-blog/">Blog</a>
 			<div class="megamenu-content hide">
 				<div class="span2">
 					<h2>MobiCity Blog</h2>
-					<hr>
-					<p>Stay up to date.<br>
-We feature  upcoming handsets, latest releases and general industry news at our comprehensive blog.</p>
-					<a class="btn btn-small" href="http://www.mobicity.com.au/mobile-blog/">Get Latest News</a>
+					<p></p><p>Stay up to date.
+</p><p>
+Upcoming handsets, new releases, industry news and more!
+</p><p></p>
+					<a data-ga-category="MegamenuContent" data-ga-action="click" data-ga-label="Get Latest News" class="btn btn-small" href="http://www.mobicity.com.au/mobile-blog/">Get Latest News</a>
 				</div>
-				<div class="span8">
+				<div class="span6">
 					<h2>Latest Articles</h2>
-					<hr>
 					<div class="row">
-							<div class="span4 blogpost">
-		<h4><a href="http://www.mobicity.com.au/mobile-blog/2013/04/23/whats-the-difference-between-the-xperia-z-and-xperia-zl/" title="What's the difference between Xperia Z &amp; Xperia ZL?">What's the difference between Xperia Z &amp; Xperia ZL?</a></h4>
+							<div class="span3 blogpost">
+		<h4><a href="http://www.mobicity.com.au/mobile-blog/save-60-on-the-asus-padfone-infinity-plus-other-massive-price-drops-on-phones-and-tablets/" title="Save $60 on the ASUS Padfone Infinity Plus other Massive Price Drops on Phones and Tablets">Save $60 on the ASUS Padfone Infinity Plus other Massive Price Drops on Phones and Tablets</a></h4>
 		<br>
-				<p>Sony has released a couple of stunning but similar top-tier Xperia devices this year, the Xperia Z and Xperia ZL.
-So why bring out 2 devices with 5 inch Full HD [...]
+				<p>Take a look at the best mobile phone and tablet deals available online at MobiCity. These products are available at discounted prices. &nbsp;All the devices are available unlocked and thus [...]
 </p>
 	</div>
-	<div class="span4 blogpost">
-		<h4><a href="http://www.mobicity.com.au/mobile-blog/2013/04/20/sony-plans-jelly-bean-update-for-several-xperia-phones/" title="Sony plans Jelly Bean update for several Xperia phones">Sony plans Jelly Bean update for several Xperia phones</a></h4>
+	<div class="span3 blogpost">
+		<h4><a href="http://www.mobicity.com.au/mobile-blog/mobile-phone-and-tablet-price-drops-for-wednesday-30th-of-october-2013/" title="Mobile Phone and Tablet Price Drops for Wednesday 30th of October 2013">Mobile Phone and Tablet Price Drops for Wednesday 30th of October 2013</a></h4>
 		<br>
-				<p>Japanese manufacturer Sony has revealed its plans of updating several Xperia series smartphones to Android Jelly Bean 4.1.
-The news was announced on Sony's official Twitter account Sony Xperia News (@SonyMobileNews) [...]
+				<p>Get the best mobile phone and tablet deals for your budget. MobiCity offers a wide range of the latest smartphones and tablets at discounted prices. Below are today's price drops:
+$100 [...]
 </p>
 	</div>
 					</div>
 				</div>
 				<div class="span2">
 					<h2>Categories</h2>
-					<hr>
-						<ul>
-										<li><a href="http://www.mobicity.com.au/mobile-blog/category/windows-from-microsoft/">Windows from Microsoft</a></li>
-											<li><a href="http://www.mobicity.com.au/mobile-blog/category/chrome-os/">Chrome OS</a></li>
-											<li><a href="http://www.mobicity.com.au/mobile-blog/category/sonim/">Sonim</a></li>
-											<li><a href="http://www.mobicity.com.au/mobile-blog/category/ubuntu/">Ubuntu</a></li>
-											<li><a href="http://www.mobicity.com.au/mobile-blog/category/tizen/">Tizen</a></li>
-									</ul>
+					<ul>
+						<a href="/mobile-blog/category/mobinews/">MobiCity News</a><br>
+<a href="/mobile-blog/category/announcements/">Announcements</a><br>
+<a href="/mobile-blog/category/releases/">Press Releases</a><br>
+<a href="/mobile-blog/">Industry News</a><br>
+<a href="/mobile-blog/search/price-drops/">Price Drops</a><br>
+<a href="/best-mobile-phone.html">Best Mobile Phone</a><br>					</ul>
 				</div>
 			</div>	
 		</li>
 				
 				<li>
-			<a href="http://www.mobicity.com.au/customer-service/">Questions</a>
+			<a data-ga-category="MegaMenu" data-ga-action="click" data-ga-label="Questions" href="http://www.mobicity.com.au/customer-service/">Questions</a>
 			<div class="megamenu-content hide">
-				<div class="span3">
+				<div class="span2">
 					<h2>Customer Service</h2>
-					<hr>
-					<p>We stock the latest phones and tablets at great prices with expert warranty and support. <br>
-For assistance please see the links to the right, visit our support forum or contact us.</p>
-					<a class="btn btn-small" href="http://www.mobicity.com.au/contacts/">Contact Us Now</a>
+					<p></p><p>
+Providing expert support. <br>
+</p><p>
+For assistance please use these links, visit the forum or contact us.
+</p><p></p>
+					<a data-ga-category="MegamenuContent" data-ga-action="click" data-ga-label="Contact Us Now" class="btn btn-small" href="http://www.mobicity.com.au/contacts/">Contact Us Now</a>
 				</div>
-				<div class="span5">
-					<h2>Our Promise</h2>
-					<hr>
+				<div class="span4">
 					<ul class="icons">
-						<li><a href="/about/our-stock.html">
+						<li><a data-ga-category="MegamenuContent" data-ga-action="click" data-ga-label="Unlocked Phones" href="/about/our-stock.html">
 							<div class="icon-unlocked"><span></span></div>
 							<span>Unlocked Phones</span>
 						</a>
 						</li>
-						<li><a href="/phones.html">
+						<li><a data-ga-category="MegamenuContent" data-ga-action="click" data-ga-label="With a Huge Range" href="/phones.html">
 							<div class="icon-plus"><span></span></div>
 							<span>With a Huge Range</span>
 						</a>
 						</li>
-						<li><a href="/about/why-mobicity.html">
+						<li><a data-ga-category="MegamenuContent" data-ga-action="click" data-ga-label="At Amazing Prices" href="/about/why-mobicity.html">
 							<div class="icon-prices"><span></span></div>
 							<span>At Amazing Prices</span>
 						</a>
 						</li>
-						<li><a href="/about/why-mobicity.html">
+						<li><a data-ga-category="MegamenuContent" data-ga-action="click" data-ga-label="Exceptional Service" href="/about/why-mobicity.html">
 							<div class="icon-star"><span></span></div>
 							<span>Exceptional Service</span>
 						</a>
 						</li>
-						<li><a href="/extras/mobile-phone-warranty.html">
+						<li><a data-ga-category="MegamenuContent" data-ga-action="click" data-ga-label="Complete Warranty" href="/extras/mobile-phone-warranty.html">
 							<div class="icon-warranty"><span></span></div>
-							<span>Full Australian Warranty</span>
+							<span>Complete Warranty</span>
 						</a>
 						</li>
-						<li><a href="/extras/mobile-phone-returns.html">
+						<li><a data-ga-category="MegamenuContent" data-ga-action="click" data-ga-label="And Total Satisfaction" href="/extras/mobile-phone-returns.html">
 							<div class="icon-tick"><span></span></div>
 							<span>And Total Satisfaction</span>
 						</a>
@@ -937,76 +935,65 @@ For assistance please see the links to the right, visit our support forum or con
 					</ul>
 				</div>
 				<div class="span4">
-					<h2>More Info</h2>
-					<hr>
+					<h2>More Information</h2>
 					<div class="row">
 						<div class="span2">
 							<ul>
 								<a href="/contacts">Contact Us</a><br>
 <a href="/extras/mobile-phone-delivery.html">Delivery</a><br>
+<a href="https://mobicity.zendesk.com/entries/468508-Item-Stock-Status" target="blank">Stock Status Guide</a><br>
+<a href="https://mobicity.zendesk.com/entries/468518-What-does-my-order-status-mean-" target="blank">Order Status Guide</a><br>
+<a href="/extras/mobile-phone-warranty.html">Warranty Information</a><br>
+<a href="/extras/mobile-phone-warranty.html">Warranty Claims</a><br>
 <a href="/about/our-stock.html">Our Stock</a><br>
-<a href="/extras/mobile-phone-warranty.html">Warranty</a><br>
 <a href="/extras/wholesale-mobile-phones.html">Bulk Discounts</a><br>							</ul>
 						</div>
 						<div class="span2">
 							<ul>
 								<a href="/customer-service/">About Us</a><br>
 <a href="/about/why-mobicity.html">Why MobiCity?</a><br>
-<a href="https://mobicity.zendesk.com/forums/226214-frequently-asked-questions">Support Forum</a><br>
-<a href="/about/payment.html">Payment &amp; GST</a><br>
-<a href="/extras/mobile-phone-returns.html">Returns Policy</a><br>							</ul>
-						</div>
-					</div>
-					<div class="row">
-						<div class="span4">
-							<h3 class="inline" style="line-height: 30px;">More Questions?</h3><a class="btn btn-small inline right" href="http://www.mobicity.com.au/customer-service/">Browse Our FAQ's</a>
+<a href="https://mobicity.zendesk.com/forums/226214-frequently-asked-questions">FAQ's</a><br>
+<a href="https://mobicity.zendesk.com/forums/226214-frequently-asked-questions" target="blank">Support Forum</a><br>
+<a href="/about/payment.html">Payment Methods</a><br>
+<a href="/about/payment.html">GST Collection</a><br>
+<a href="/extras/mobile-phone-returns.html">Returns Policy</a><br>
+<a href="/contacts/">Contact Hours</a><br>							</ul>
 						</div>
 					</div>
 				</div>
 			</div>	
 		</li>
-						
+						<div id="megamenu-content">
+			<div style="display: none;" id="megamenu-inside-middle"></div>
+		</div>
+	</ul>
+	<ul class="cart-menu">
 		<li class="cart">
 			<i class="icon-cart"></i>
-			<a class="top-link-cart" href="#">Cart</a>
-			
-			<div class="megamenu-content hide">	
-				<div class="span12">
-					<div class="mega-cart mini-cart">
-						
-
-
-
-    <h2>Shopping Cart</h2>
-    <hr>
-    <p class="empty">You have no items in your shopping cart.</p>
-
-					</div>
-				</div>
-			</div>	
+			<a data-ga-category="MegaMenu" data-ga-action="click" data-ga-label="Cart" class="top-link-cart" href="https://www.mobicity.com.au/checkout/cart/">Cart</a>
 		</li>
 	</ul>
 </nav>
 
 <nav id="megamenu-responsive" class="visible-phone">
-	<a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse"><i class="responsive-icon"></i></a>
+	<form action="/catalogsearch/result/">
+		<input type="text" name="q">
+		<button><span class="magnifier"></span></button>
+	</form>
+	<a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+		Menu
+	</a>
 </nav>
-
-<div id="megamenu-content">
-	<div style="display: none;" id="megamenu-inside-left"></div>
-	<div style="display: none;" id="megamenu-inside-middle"></div>
-	<div style="display: none;" id="megamenu-inside-right"></div>
-</div>
 
 <div id="megamenu-responsive-content">
 	<ul>
-					<li><a href="http://www.mobicity.com.au/phones.html/">Phones</a></li>
-					<li><a href="http://www.mobicity.com.au/tablets.html/">Tablets</a></li>
-					<li><a href="http://www.mobicity.com.au/mobile-phone-accessories.html/">Accessories</a></li>
-					<li><a href="http://www.mobicity.com.au/phones.html/">Brands</a></li>
-					<li><a href="http://www.mobicity.com.au/on-sale.html/">On Sale</a></li>
-					<li><a href="http://www.mobicity.com.au/mobile-blog/">Blog</a></li>
-					<li><a href="http://www.mobicity.com.au/customer-service/">Questions</a></li>
+					<li><a data-ga-category="MegaMenu" data-ga-action="click" data-ga-label="Responsive: Phones" href="http://www.mobicity.com.au/phones.html/">Phones</a></li>
+					<li><a data-ga-category="MegaMenu" data-ga-action="click" data-ga-label="Responsive: Tablets" href="http://www.mobicity.com.au/tablets.html/">Tablets</a></li>
+					<li><a data-ga-category="MegaMenu" data-ga-action="click" data-ga-label="Responsive: Accessories" href="http://www.mobicity.com.au/mobile-phone-accessories.html/">Accessories</a></li>
+					<li><a data-ga-category="MegaMenu" data-ga-action="click" data-ga-label="Responsive: Brands" href="http://www.mobicity.com.au/phones.html/">Brands</a></li>
+					<li><a data-ga-category="MegaMenu" data-ga-action="click" data-ga-label="Responsive: On Sale" href="http://www.mobicity.com.au/on-sale.html/">On Sale</a></li>
+					<li><a data-ga-category="MegaMenu" data-ga-action="click" data-ga-label="Responsive: Blog" href="http://www.mobicity.com.au/mobile-blog/">Blog</a></li>
+					<li><a data-ga-category="MegaMenu" data-ga-action="click" data-ga-label="Responsive: Questions" href="http://www.mobicity.com.au/customer-service/">Questions</a></li>
 			</ul>
 </div>
 
@@ -1044,7 +1031,7 @@ For assistance please see the links to the right, visit our support forum or con
 <li><a href="/extras/mobile-phone-delivery.html">Delivery</a></li>
 <li><a href="/extras/mobile-phone-warranty.html">Warranty</a></li>
 <li><a href="/contacts/">Make a Warranty Claim</a></li>
-<li><a href="https://mobicity.zendesk.com/forums/226214-frequently-asked-questions">Support Forum</a></li>
+<li><a href="https://support.mobicity.com/forums/226214-frequently-asked-questions">Support Forum</a></li>
 <li><a href="/about/payment.html">Payment &amp; GST</a></li>
 <li><a href="/about/why-mobicity.html">Why MobiCity?</a></li>
 <li><a href="/about/about-us.html">About Us</a></li>
@@ -1057,20 +1044,7 @@ For assistance please see the links to the right, visit our support forum or con
 </div>
 </div></div>
             <div class="span9">
-                                <div id="fb-root"></div>
-<script>
-(function(d, s, id) {
-  var js, fjs = d.getElementsByTagName(s)[0];
-  if (d.getElementById(id)) return;
-  js = d.createElement(s); js.id = id;
-  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
-  fjs.parentNode.insertBefore(js, fjs);
-}(document, 'script', 'facebook-jssdk'));
-
-!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");
-</script>
-
-
+                                
 <div class="page-title category-title">
         <h1>Privacy</h1>
 </div>
@@ -1080,82 +1054,17 @@ For assistance please see the links to the right, visit our support forum or con
 
 
     <p>
-<script type="text/javascript">
+<script type="text/javascript">// <![CDATA[
 function open_tg_cert(link) { var nonwin=navigator.appName!='Microsoft Internet Explorer'?'yes':'no'; window.open(link.href.replace('http', 'https'),'welcome','location='+nonwin+',scrollbars=yes,width=517,height='+screen.availHeight+',menubar=no,toolbar=no'); return false; }
 function tg_context() { var d = new Date(); alert('Copying Prohibited by Law - This image and all included logos are copyrighted by trust-guard \251 '+d.getFullYear()+'.'); return false; }
 function tg_image_load(img) { var src = (document.location.protocol == 'http:') ? 'http://seals.trust-guard.com/' : 'https://secure.trust-guard.com/secureseals/'; img.onload = null; img.src = src + img.name; img.name = 'trustseal'; }
-</script>
-<a name="trustlink" href="http://secure.trust-guard.com/certificates/1778" target="_blank" onclick="return open_tg_cert(this);" oncontextmenu="return tg_context();"><img onload="tg_image_load(this);" name="trustseal" alt="Privacy Verified Seal" style="border: 0;" src="https://secure.trust-guard.com/secureseals/privacy-1778-header-white.gif"></a>
-</p>
-<p>GloTech Services Ltd trades as MobiCity and is the owner of this site.  This site and your data are transmitted via a 128-bit SSL secured link and stored in a secure database on our server. <br>
-<br>
-GloTech Services Ltd recognises the importance of your privacy and understands your concerns about the security of your personal information. We are committed to protecting any personal information about you that we hold.  <br>
-<br>
-This privacy policy details how we generally manage your personal information and safeguard your privacy. These guidelines are subject to change. Any such changes will be made to this page. The National Privacy Principles from 21 December 2001 most private sector organisations in Australia must by law comply with the National Privacy Principles subject to the Privacy Act 1988 (Cth) ("NPPs"). We are bound by the NPPs. <br>
-<br>
-Collecting personal information about you The kinds of personal information we hold: We only collect personal information that is necessary for us to perform our functions. <br>
-<br>
-The kinds of personal information we collect and hold will depend upon the services you request from us. However, it may include: <br>
-<br>
-Information you give us when you register your details with us on our website  Information you give us when you register for a competition  Information you give us when you communicate with or place an order from GloTech Services Ltd.  We also collect some information from you when you use our website. Your use of the facilities and services available through our websites will determine the amount and type of information which we collect about you.  <br>
-<br>
-Some of this information will not be personal information because it will not reveal your identity. <br>
-<br>
-The only personal information which we collect about you when you use our websites is what you tell us about yourself (for example, by completing an online form, subscribing to an online newsletter or placing an order), or information you provide to us when you send us an email. We may record your email address if you send us an email. <br>
-<br>
-We do not disclose your personal information to third parties without your consent. As a matter of policy, we do not sell, rent or otherwise disclose lists of MobiCity website users or other customers of GloTech Services Ltd. <br>
-<br>
-Collection of anonymous information <br>
-<br>
-As most websites do, we track usage patterns on our website on an anonymous aggregate basis. Your identity cannot reasonably be ascertained from this information. Each time you visit our website a web server makes a record of your visit. <br>
-<br>
-Using and disclosing your personal information The purposes for which we collect and hold personal information and how we use it. We respect your privacy. <br>
-<br>
-Any personal information which we collect about you will be used to provide the goods and services we normally provide in the course of our business.  We do not sell or rent contact lists of our customers. <br>
-<br>
-We may use your personal information to contact you to discuss other matters relating to your service; for example, to conduct a survey or to analyse your usage and recommend a more appropriate plan.  <br>
-<br>
-We may also use your personal information to provide you with information about other products and services offered by us. If you would prefer not to receive this information, please let us know by email to admin@mobicity.com.au (attn: Privacy Officer). <br>
-<br>
-Contracting out services and disclosures. <br>
-<br>
-We may disclose your personal information to our service entities and contract out some of our functions (such as bulk mailing of MobiCity and telemarketing of subscription renewals) to external service providers.  <br>
-<br>
-We may disclose your personal information to these external service providers but only so that they can provide the services that we have contracted out to them. <br>
-<br>
-Credit accounts <br>
-<br>
-If you have applied for a monthly credit account and we have approved your application, to the extent permitted by law we may share information about the status of your account with other credit providers and credit reporting agencies.  <br>
-<br>
-Emails you receive from us regarding publications, products, events and education  <br>
-<br>
-How we collect personal information from you  <br>
-<br>
-If you provide us or have provided us with your email address, we may send emails to you containing GloTech Services Ltd information, such as newsletters.  <br>
-<br>
-We may use an "email management system" to automate the management and dispatch of these emails.  The system operates by inserting tracking codes in the emails that we send to you. <br>
-<br>
-The kind of personal information we collect about you <br>
-<br>
-The tracking code allows us to collect personal information about you, such as whether you received and opened an email, and whether you clicked through to any links to our website.  This information that we collect about you will be stored by our email management system. If you have joined our customer base and wish to be removed from our list at any time in the future, please follow the links within the email newsletter to do so. We also use Google's remarketing system which utilise's cookies in your web browser to show you dedicated content through Google's content system. To disable this service please remove the cookie from your web browser. <br>
-<br>
-The purpose for which we collect the information about you  <br>
-<br>
-The personal information that the email management system collects about you is used by us to: <br>
-<br>
-ensure that you only receive correspondence that you have informed us that you wish to receive  determine whether the information that we send to you is suitable for your interests, information needs and profile  ensure that the email address that you have provided us is still operational  determine whether emails that we send to you are received by you  update a request that you make to us to unsubscribe from a publication that we send to you  review the effectiveness and relevance of our emails to you by collecting other statistical information <br>
-<br>
-Access to your personal information In most cases, you can gain access to personal information that we hold about you.  <br>
-<br>
-We will handle requests for access to your personal information in accordance with the NPPs. <br>
-<br>
-We encourage all requests for access to your personal information to be directed to the Privacy Officer by email to admin@glotechservices.com. <br>
-<br>
-We will deal with all requests for access to personal information as quickly as possible.  <br>
-<br>
-Requests for a large amount of information, or information which is not currently in use, may require further time before a response can be given. <br>
-<br>
-            </p></div>
+// ]]></script>
+<a onclick="return open_tg_cert(this);" name="trustlink" href="http://secure.trust-guard.com/certificates/1778" target="_blank"><img style="border: 0;" src="data:image/gif;base64,R0lGODlhlgAxAIAAAP///wAAACH5BAEAAAAALAAAAACWADEAAAJfhI+py+0Po5y02ouz3rz7D4biSJbmiabqyrbuC8fyTNf2jef6zvf+DwwKh8Si8YhMKpfMpvMJjUqn1Kr1is1qt9yu9wsOi8fksvmMTqvX7Lb7DY/L5/S6/Y7P6/d8bwEAOw==" alt="Privacy Verified Seal"></a></p>
+<p>GloTech Services Ltd trades as MobiCity and is the owner of this site.  This site and your data are transmitted via a 128-bit SSL secured link and stored in a secure database on our server. <br> <br> GloTech Services Ltd recognises the importance of your privacy and understands your concerns about the security of your personal information. We are committed to protecting any personal information about you that we hold.  <br> <br> This privacy policy details how we generally manage your personal information and safeguard your privacy. These guidelines are subject to change. Any such changes will be made to this page. The National Privacy Principles from 21 December 2001 most private sector organisations in Australia must by law comply with the National Privacy Principles subject to the Privacy Act 1988 (Cth) ("NPPs"). We are bound by the NPPs. In New Zealand, the United States of America and the United Kingdom and European Union have similar guidelines which we adhere to.<br> <br><em>The kinds of personal information we hold</em>&nbsp;</p>
+<p>We only collect personal information that is necessary for us to perform our functions. <br> <br> The kinds of personal information we collect and hold will depend upon the services you request from us. However, it may include: <br> <br> Information you give us when you register your details with us on our website  Information you give us when you register for a competition  Information you give us when you communicate with or place an order from GloTech Services Ltd.  We also collect some information from you when you use our website. Your use of the facilities and services available through our websites will determine the amount and type of information which we collect about you.  <br> <br> Some of this information will not be personal information because it will not reveal your identity. <br> <br> The only personal information which we collect about you when you use our websites is what you tell us about yourself (for example, by completing an online form, subscribing to an online newsletter or placing an order), or information you provide to us when you send us an email. We may record your email address if you send us an email. <br> <br> We do not disclose your personal information to third parties without your consent. As a matter of policy, we do not sell, rent or otherwise disclose lists of MobiCity website users or other customers of GloTech Services Ltd. <br> <br> <em>Collection of anonymous information</em> <br> <br> As most websites do, we track usage patterns on our website on an anonymous aggregate basis. Your identity cannot reasonably be ascertained from this information. Each time you visit our website a web server makes a record of your visit. <br> <br> <em>Using and disclosing your personal information</em></p>
+<p>We respect your privacy. Any personal information which we collect about you will be used to provide the goods and services we normally provide in the course of our business.  We do not sell or rent contact lists of our customers. <br> <br> We may use your personal information to contact you to discuss other matters relating to your service; for example, to conduct a survey.  <br> <br> We may also use your personal information to provide you with information about other products and services offered by us. If you would prefer not to receive this information, please let us know by email to sales@mobicity.com (attn: Privacy Officer). <br> <br> <em>Contracting out services and disclosures</em><br> <br> We may disclose your personal information to our service entities and contract out some of our functions to external service providers.  <br> <br> We may disclose your personal information to these external service providers but only so that they can provide the services that we have contracted out to them. <br> <br> <em>Credit accounts</em> <br> <br> If you have applied for a monthly credit account and we have approved your application, to the extent permitted by law we may share information about the status of your account with other credit providers and credit reporting agencies.  <br> <br> <em>Emails you receive from us regarding publications, products, events and education</em> <br> <br>If you provide us or have provided us with your email address, we may send emails to you containing GloTech Services Ltd information, such as newsletters.&nbsp;<br> <br> We may use an "email management system" to automate the management and dispatch of these emails.  The system operates by inserting link in the emails that we send to you that allow us to judge the effectiveness of a campaign or email. <br> <br> <em>The kind of personal information we collect about you</em> <br> <br> The tracking code allows us to collect personal information about you, such as whether you received and opened an email, and whether you clicked through to any links to our website.  This information that we collect about you will be stored by our email management system. If you have joined our customer base and wish to be removed from our list at any time in the future, please follow the links within the email newsletter to do so. We also use Google's remarketing system which utilise's cookies in your web browser to show you dedicated content through Google's content system. To disable this service please remove the cookie from your web browser. <br> <br> <em>The purpose for which we collect the information about you </em> <br> <br> The personal information that the email management system collects about you is used by us to: <br> <br> ensure that you only receive correspondence that you have informed us that you wish to receive  determine whether the information that we send to you is suitable for your interests, information needs and profile  ensure that the email address that you have provided us is still operational  determine whether emails that we send to you are received by you  update a request that you make to us to unsubscribe from a publication that we send to you  review the effectiveness and relevance of our emails to you by collecting other statistical information <br> <br> <em>Access to your personal information</em></p>
+<p><em></em>In most cases, you can gain access to personal information that we hold about you.  <br> <br> We will handle requests for access to your personal information in accordance with the NPPs. <br> <br> We encourage all requests for access to your personal information to be directed to the Privacy Officer by email to sales@mobicity.com. <br> <br> We will deal with all requests for access to personal information as quickly as possible.  <br> <br> Requests for a large amount of information, or information which is not currently in use, may require further time before a response can be given. <br> <br></p>
+            </div>
             
         </div>
 
@@ -1172,10 +1081,10 @@ Requests for a large amount of information, or information which is not currentl
 		<div class="span4 usps">
 			<h3>Why MobiCityAU?</h3>
 			<div class="icons">
-								<a href="/extras/mobile-phone-warranty.html" class="footer-warranty active" data-more="See Options" data-title="MobiCare Warranty" data-content="All devices come with comprehensive, professional local warranty cover, protecting your investment."><span></span></a>
-												<a href="/about/our-stock.html" class="footer-unlocked" data-more="Learn More" data-title="Unlocked Phones" data-content="Our devices accept SIM cards from any network. Check individual specs for complete compatibility."><span></span></a>
-												<a href="/phones.html/" class="footer-plus" data-more="Discover Now" data-title="Massive Range" data-content="Over 500 brand new, original, top quality mobile devices from an extensive distribution network."><span></span></a>
-												<a href="/about/ts-and-cs.html" class="footer-tick" data-more="View T's &amp; C's" data-title="Satisfaction Guaranteed" data-content="We promise your order will arrive as described. If not just let us know and we’ll replace or refund."><span></span></a>
+								<a data-ga-category="Footer" data-ga-action="click" data-ga-label="MobiCare Warranty" href="/extras/mobile-phone-warranty.html" class="footer-warranty active" data-more="See Options" data-title="MobiCare Warranty" data-content="All devices come with comprehensive, professional local warranty cover, protecting your investment."><span></span></a>
+												<a data-ga-category="Footer" data-ga-action="click" data-ga-label="Unlocked Phones" href="/about/our-stock.html" class="footer-unlocked" data-more="Learn More" data-title="Unlocked Phones" data-content="Our devices accept SIM cards from any network. Check individual specs for complete compatibility."><span></span></a>
+												<a data-ga-category="Footer" data-ga-action="click" data-ga-label="Massive Range" href="/phones.html/" class="footer-plus" data-more="Discover Now" data-title="Massive Range" data-content="Over 500 brand new, original, top quality mobile devices from an extensive distribution network."><span></span></a>
+												<a data-ga-category="Footer" data-ga-action="click" data-ga-label="Satisfaction Guaranteed" href="/about/ts-and-cs.html" class="footer-tick" data-more="View T's &amp; C's" data-title="Satisfaction Guaranteed" data-content="We promise your order will arrive as described. If not just let us know and we’ll replace or refund."><span></span></a>
 							</div>
 			<div class="footer-icon-extra">
 				<h4>MobiCare Warranty</h4>
@@ -1214,16 +1123,16 @@ Requests for a large amount of information, or information which is not currentl
 		<div class="span4 social hidden-phone">
 			<h3>Visit us around the web</h3>
 			<div class="icons">
-								<a target="_blank" href="http://www.facebook.com/MobiCityFans" class="footer-facebook"></a>
-												<a target="_blank" href="https://twitter.com/MobiCity" class="footer-twitter"></a>
-												<a target="_blank" href="https://plus.google.com/106775057502311663424/posts" class="footer-google"></a>
-												<a target="_blank" href="http://www.youtube.com/user/MobiCityTV" class="footer-youtube"></a>
+								<a data-ga-category="Footer" data-ga-action="click" data-ga-label="facebook" target="_blank" href="http://www.facebook.com/MobiCityFans" class="footer-facebook"></a>
+												<a data-ga-category="Footer" data-ga-action="click" data-ga-label="twitter" target="_blank" href="https://twitter.com/MobiCity" class="footer-twitter"></a>
+												<a data-ga-category="Footer" data-ga-action="click" data-ga-label="google" target="_blank" href="https://plus.google.com/106775057502311663424/posts" class="footer-google"></a>
+												<a data-ga-category="Footer" data-ga-action="click" data-ga-label="youtube" target="_blank" href="http://www.youtube.com/user/MobiCityTV" class="footer-youtube"></a>
 							</div>
 			<div class="counts">
-									<span id="facebook_count"></span>
-													<span id="twitter_count"></span>
-													<span id="google_count">513<br>in circles</span>
-													<span id="youtube_count">336<br>subscribers</span>
+									<span id="facebook_count">16568<br>like us</span>
+													<span id="twitter_count">3998<br>follow us</span>
+													<span id="google_count">1858<br>plus ones</span>
+													<span id="youtube_count">395<br>subscribers</span>
 							</div>
 		</div>
 		<div class="span4">
@@ -1231,7 +1140,7 @@ Requests for a large amount of information, or information which is not currentl
 			<form action="http://mobicity.us1.list-manage.com/subscribe/post?u=3ddf57749a3bc03a31977ff3b&amp;id=1409f6caa1" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank">
 	<input type="text" data-placeholder="Name" name="FNAME" class="required name" id="mce-FNAME">
 	<input type="text" data-placeholder="Email address" name="EMAIL" class="required email" id="mce-EMAIL">
-	<button class="btn btn-small" id="submit" type="submit" name="" value="">Subscribe</button>
+	<button data-ga-category="Footer" data-ga-action="subscribe" data-ga-label="Newsletter Subscription" class="btn btn-small" id="submit" type="submit" name="" value="">Subscribe</button>
 </form>
 
 <script type="text/javascript">
@@ -1259,7 +1168,7 @@ jQuery(function($) {
         	<div class="span12 footer-copyright">
         		<hr>
         		<small>© MobiCityAU 2013</small>
-        		<p class="pull-right"><a href="/about/privacy.html">Privacy Policy</a></p>
+        		<p class="pull-right"><a data-ga-category="Footer" data-ga-action="click" data-ga-label="Privacy Policy" href="/about/privacy.html">Privacy Policy</a></p>
         	</div>
         </div>   	
     
@@ -1318,28 +1227,7 @@ jQuery(function($) {
 
 
 			});
-		</script><div id="pt-scripts" class="points" name="points">
-<script type="text/javascript" charset="utf-8">var _ptq = _ptq || [];var _punchtab_settings = {key: "9a6703f8ead6420bd30d6592f48ac0ce",display: "inline",earningmap: true};(function() {var pt = document.createElement("script"); pt.type = "text/javascript"; pt.async = true;pt.src = ("https:" == document.location.protocol ? "https://" : "http://") + "static.punchtab.com/js/pt.js";var s = document.getElementsByTagName("script")[0]; s.parentNode.insertBefore(pt, s);})();window.ptReady = window.ptReady || [];window.ptReady.push(function() {  if(typeof pt_magento !== "undefined") {    pt_magento.relocate_div_by_id("punchtab_social_bar","before","short-description","class");    pt_magento.relocate_div_by_id("movable_points","before","short-description","class");  }});</script></div>
-
-
-          <!-- BEGIN AFFILIATE TRACKING CODE -->
-                  <script type="text/javascript">
-            (function () {
-                var papDomain = (("https:" == document.location.protocol) ? "https://":"http://");papDomain+="citybrands.postaffiliatepro.com/affiliates";
-                var papId = 'pap_x2s6df8d';
-                // adjust the ID iff it would conflict with an existing element
-                if ((function(elementId){var nodes=new Array();var tmpNode=document.getElementById(elementId);while(tmpNode){nodes.push(tmpNode);tmpNode.id="";tmpNode=document.getElementById(elementId);for(var x=0;x<nodes.length;x++){if(nodes[x]==tmpNode){tmpNode=false;}}}})('pap_x2s6df8d')) {papId += '_clicktrack';}
-                document.write(unescape("%3Cscript id='pap_x2s6df8d' src='" + papDomain + "/scripts/trackjs.php' type='text/javascript'%3E%3C/script%3E"));
-            })();
-        </script><script id="pap_x2s6df8d" src="https://citybrands.postaffiliatepro.com/affiliates/scripts/trackjs.php" type="text/javascript"></script>
-        
-          <script type="text/javascript">
-          <!--
-          papTrack();
-          //-->
-          </script>
-          <!-- END AFFILIATE TRACKING CODE -->
-        <script type="text/javascript">
+		</script><script type="text/javascript">
 //<![CDATA[
 
 iCart.init({
@@ -1373,21 +1261,7 @@ document.write('<scr' + 'ipt src="' + document.location.protocol + '//fby.s3.ama
 FBY.showTab({id: '3326', position: 'right', color: '#009EE5'});
 </script>
 <!-- /Feedback -->
-<!-- Ptab -->
-<script type="text/javascript" charset="utf-8">
-  var _btq = _btq || [];
-  var _punchtab_settings_badges = {
-    position: {x: "left", y: "bottom"},
-    key: "9a6703f8ead6420bd30d6592f48ac0ce"
-  };
 
-  (function() {
-    var pt = document.createElement('script'); pt.type = 'text/javascript'; pt.async = true;
-    pt.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'static.punchtab.com/js/pb.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(pt, s);
-  })();
-</script>
-<!-- /Ptab -->
 <!-- CE Code -->
 <script type="text/javascript">
 setTimeout(function(){var a=document.createElement("script");
@@ -1427,20 +1301,11 @@ var google_remarketing_only = true;
 <script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
 </script>
 <noscript>
-<div style="display:inline;">
+<div class="hide" style="display:inline;">
 <img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1044985929/?value=0&amp;label=NNMnCKvXvwMQyfCk8gM&amp;guid=ON&amp;script=0"/>
 </div>
 </noscript>
 <!-- /MCAU Google RM -->
-<!-- Google Tag Manager -->
-<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-R4X3"
-height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-})(window,document,'script','dataLayer','GTM-R4X3');</script>
-<!-- /Google Tag Manager -->
 <!-- ARoll -->
  <script type="text/javascript">
   adroll_adv_id = "5IWB3LHZYFGHPPYUPFTK4H";
@@ -1497,7 +1362,14 @@ var _sf_async_config={uid:21030,domain:"mobicity.com.au"};
 })();
 
 </script>
-<!-- /Chartbeat Code --><script type="text/javascript">if(!NREUMQ.f){NREUMQ.f=function(){NREUMQ.push(["load",new Date().getTime()]);var e=document.createElement("script");e.type="text/javascript";e.src=(("http:"===document.location.protocol)?"http:":"https:")+"//"+"d1ros97qkrwjf5.cloudfront.net/42/eum/rum.js";document.body.appendChild(e);if(NREUMQ.a)NREUMQ.a();};NREUMQ.a=window.onload;window.onload=NREUMQ.f;};NREUMQ.push(["nrfj","beacon-1.newrelic.com","12ae40503f","2747970","NVVaN0tUXUVRVhFaWgwfeQBNXFxYH1YER1QOX19MWlRHU1daF0oaFFldFA==",0,535,new Date().getTime(),"","","","",""]);</script>
+<!-- /Chartbeat Code -->
 
+<!-- Begin Phostir Tag -->
+    <script type="text/javascript">
+        var phostirApiKey = "w6avw562rgfwpfh5tk7gdwjx";
+    </script>
+    <script src="http://my.phostir.com/assets/javascripts/phostir.js" type="text/javascript">
+    </script>
+<!-- End Phostir Tag --><script type="text/javascript">if(!NREUMQ.f){NREUMQ.f=function(){NREUMQ.push(["load",new Date().getTime()]);var e=document.createElement("script");e.type="text/javascript";e.src=(("http:"===document.location.protocol)?"http:":"https:")+"//"+"js-agent.newrelic.com/nr-100.js";document.body.appendChild(e);if(NREUMQ.a)NREUMQ.a();};NREUMQ.a=window.onload;window.onload=NREUMQ.f;};NREUMQ.push(["nrfj","beacon-1.newrelic.com","12ae40503f","2747970","NVVaN0tUXUVRVhFaWgwfeQBNXFxYH1YER1QOX19MWlRHU1daF0oaFFldFA==",0,1232,new Date().getTime(),"","","","",""]);</script>
 
-<script type="text/javascript" src="https://d1ros97qkrwjf5.cloudfront.net/42/eum/rum.js"></script><script language="javascript" type="text/javascript" src="https://a248.e.akamai.net/chartbeat.download.akamai.com/102508/js/chartbeat.js"></script></body></html>
+<script type="text/javascript" src="https://js-agent.newrelic.com/nr-100.js"></script><script language="javascript" type="text/javascript" src="https://a248.e.akamai.net/chartbeat.download.akamai.com/102508/js/chartbeat.js"></script></body></html>
