@@ -1,37 +1,55 @@
-<!--The following is the downloaded HTML source of the jumpshare.com privacy policy that was archived on 2013-06-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130622190834id_/https%3A//jumpshare.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the jumpshare.com privacy policy that was archived on 2013-11-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131103225629id_/https%3A//jumpshare.com/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html style="" class=" js flexbox flexboxlegacy canvas canvastext hashchange draganddrop rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio applicationcache"><head>
+<!DOCTYPE html><html style="" class=" js flexbox flexboxlegacy canvas canvastext hashchange draganddrop rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio applicationcache" data-useragent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/69.0.3494.0 Safari/537.36" data-platform="Linux x86_64"><head>
     		<title>Privacy - Jumpshare</title>
+		
     <meta http-equiv="content-type" content="text/html; charset=utf-8">
     <meta name="keywords" content="preview files, send big files, file sharing, online viewing, file viewer">
     <meta name="description" content="Jumpshare is a free service to share any number of photos, videos, docs, music and code fast, and view over 200 file formats online.">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
     <meta name="author" content="Jumpshare">
+    <!-- <meta name="viewport" content="initial-scale=1"> -->
     
         
 
     <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="/res/css/modernizr.js"></script>
 
-    <link href="https://df93jn2oarhia.cloudfront.net/res/cssm/master_1371914168.css" rel="stylesheet" type="text/css" media="screen, projection">
-<link href="https://df93jn2oarhia.cloudfront.net/res/cssm/all-icons_1371844462.css" rel="stylesheet" type="text/css" media="screen, projection">
+    <link href="https://df93jn2oarhia.cloudfront.net/res/cssm/master_1380016821.css" rel="stylesheet" type="text/css" media="screen, projection">
+<link href="https://df93jn2oarhia.cloudfront.net/res/cssm/adapt_1378208088.css" rel="stylesheet" type="text/css" media="screen, projection">
+<link href="https://df93jn2oarhia.cloudfront.net/res/cssm/all-icons_1379344436.css" rel="stylesheet" type="text/css" media="screen, projection">
+<link href="https://df93jn2oarhia.cloudfront.net/res/cssm/jquery-ui_1378296150.css" rel="stylesheet" type="text/css" media="screen, projection">
 	
 	<!-- Fav and touch icons -->
     <link rel="shortcut icon" href="/favicon.ico">
-	<link href="/apple-touch-icon-precomposed.png" rel="apple-touch-icon-precomposed">
+		<link href="/apple-touch-icon-precomposed.png" rel="apple-touch-icon-precomposed">
 	
 	<!--[if lt IE 9]>
-	<link href="https://df93jn2oarhia.cloudfront.net/res/cssm/ie8_1371473547.css" rel="stylesheet" type="text/css" />
+	<link href="https://df93jn2oarhia.cloudfront.net/res/cssm/ie8_1377175364.css" rel="stylesheet" type="text/css" />
+	<![endif]-->
+
+<script type="text/javascript">
+	var b = document.documentElement;
+	b.setAttribute('data-useragent',  navigator.userAgent);
+	b.setAttribute('data-platform', navigator.platform );
+
+	// IE 10 == Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.2; Trident/6.0)
+</script>
+
+	<!--[if gt IE 9]>
+		<link href="https://df93jn2oarhia.cloudfront.net/res/cssm/ie10_1377351127.css" rel="stylesheet" type="text/css" />
 	<![endif]-->
 	
 	<script>
 		var BASEURL = 'https://jumpshare.com/';
+		var SHORT_BASEURL = 'https://jumpshare.com/';
 		var UPLOADERURL = 'https://uploader.jumpshare.com';
 		var SITETITLE = 'Jumpshare';
+		var PLANID = '0';
 		var VIEW = '';
+		var TZ = '';
 		if (typeof console == "undefined" || typeof console.log == "undefined") var console = { log: function() {}, error: function() {} };
 	</script>
-    	    				<script type="text/javascript" src="/res/jsm/js9_1371907636.js?state=/"></script>
+    	    				<script type="text/javascript" src="/res/jsm/js9_1380129512.js?state=/"></script>
 	
 	<script type="text/javascript">
 		var CSRF = {
@@ -61,7 +79,7 @@
 			e.stopPropagation();
 		});
 	</script>    	  </head>
-<body id="uploads-page">
+<body id="static-page">
 
   <!-- Notifications -->
   <div id="notifications" class="hide"></div>
@@ -69,25 +87,26 @@
 	<div id="page-loading" class="hide">
 		<span class="loader">Loading</span>
 	</div>
-  	<!--- /Notifications ---->
+  	<!-- /Notifications -->
   
  	<!-- Header
     ================================================== --> 
     	
     	<header id="main-header">
 		<div id="header-inner" class="section group">
+			<div id="notify-wrapper"></div>
 			<div id="logo">
 				<a href="/"><img alt="jumpshare" src="/res/img/spacer.gif" width="93" height="20"></a>
 			</div>
 			
 				<div id="header-account-group" class="login">
-					<a href="/register">Sign Up</a>
+					<a href="/signup">Sign Up</a>
 					<span class="divider">|</span>
 					<div id="login-dd" class="aph">
 					Login
 										<form action="https://jumpshare.com/login" method="post" accept-charset="utf-8" id="login-box" class="hide"><div style="display:none">
-<input type="hidden" name="jsactnk" value="0db0f01b09ac40939d0bfb1b72c16dd9">
-</div>						<input type="text" name="login" value="" maxlength="80" size="30" placeholder=" Email">						<input type="password" name="password" value="" id="password" size="30" placeholder=" Password">						<input type="submit" name="submit" value="Login" id="login" class="action gray">						<span class="left">
+<input type="hidden" name="jsactnk" value="d55f6b0fa1b9841f32a8ebb35063af00">
+</div>						<input type="text" name="login" value="" maxlength="80" size="30" placeholder=" Email">						<input type="password" name="password" value="" id="password" size="30" placeholder=" Password">						<input type="submit" name="submit" value="Login" class="button blue">						<span class="left">
 							<input type="checkbox" name="remember" value="1" checked="checked" id="remember" style="margin:0;padding:0">							<label for="remember">Remember me</label>						</span>
 						<a href="https://jumpshare.com/forgot_password" class="right">Forgot password?</a>					</form>					</div>
 				</div>
@@ -98,23 +117,18 @@
     <section id="about-content" class="terms">
 	    
 		<aside>
+				<h2>Quick Links</h2>
 		    <ul>
 			    <li><a href="/about">About Us</a></li>
 			    <li><a href="/file-formats">Supported Formats</a></li>
 			    <li><a href="/help">Help Center</a></li>
 			    <li><a href="/terms">Terms of Service</a></li>
-			    <li class="active"><a href="/privacy">Privacy Policy</a></li>
+			    <li class="active"><a href="/privacy">Privacy Policy •</a></li>
 			    <li><a href="/contact">Contact Us</a></li>
+			    <li class="divider"></li>
+			    <li><a href="/">Home</a></li>
+			    <li><a href="http://blog.jumpshare.com" target="_blank">Blog</a></li>
 		    </ul>
-		    <footer id="footer">
-			    <nav>
-				    <a href="/">Home</a> ⋅
-				    <a href="http://blog.jumpshare.com/" target="_blank">Blog</a><!--
- &sdot;
-				    <a href="http://forum.jumpshare.com" target="_blank">Forum</a>
--->
-			    </nav>
-		    </footer>
 	    </aside>
 	    
 	    <div id="content">
@@ -197,6 +211,5 @@
   })();
 
 </script>
-
 
 </body></html>
