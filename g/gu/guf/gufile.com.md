@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gufile.com privacy policy that was archived on 2013-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130504162644id_/http%3A//www.gufile.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gufile.com privacy policy that was archived on 2013-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131103160036id_/http%3A//www.gufile.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -10,7 +10,7 @@ These data are stored in a archive of personal data whose www.gufile.com is hold
 
 **Identification and contact data of the Company.**
 
-www.gufile.com is a product of Tuguu SLU ([http://www.tuguu.com](http://www.tuguu.com/)) is a Spanish company based in Santa Cruz de Tenerife (Islas Canarias), Street Bentinerfe nº 35 Pol. Ind. La Atalaya - Barranco de las Torres, CP 38670, Adeje. Terms of use and Privacy Policy - Should users wish to file any complaints, they can contact the company through the support form available in the site or sending a message to the email address [contact@gufile.com](mailto:%20contact@gufile.com)
+www.gufile.com is a product of Tuguu SLU ([http://www.tuguu.com](http://www.tuguu.com/)) is a Spanish company based in Santa Cruz de Tenerife (Islas Canarias), Street Bentinerfe nº 57 Pol. Ind. La Atalaya - Barranco de las Torres, CP 38670, Adeje. Terms of use and Privacy Policy - Should users wish to file any complaints, they can contact the company through the support form available in the site or sending a message to the email address [contact@gufile.com](mailto:%20contact@gufile.com)
 
 **Additional Information We Collect.**
 
