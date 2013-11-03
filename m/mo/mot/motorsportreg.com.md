@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the motorsportreg.com privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501082405id_/http%3A//www.motorsportreg.com/index.cfm/event/public.privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the motorsportreg.com privacy policy that was archived on 2013-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131103013043id_/http%3A//www.motorsportreg.com/index.cfm/event/public.privacy) for the most accurate reproduction.*
 
-# MotorsportReg.com : Privacy Policy
+# Privacy Policy - MotorsportReg.com
 
 ## Privacy First!
 
