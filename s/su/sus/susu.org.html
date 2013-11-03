@@ -1,12 +1,10 @@
-<!--The following is the downloaded HTML source of the susu.org privacy policy that was archived on 2013-05-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130503022704id_/http%3A//www.susu.org/about/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the susu.org privacy policy that was archived on 2013-11-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131103184239id_/http%3A//www.susu.org/about/privacy-policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <meta property="fb:page_id" content="180512555342640">
-
-
-<meta name="viewport" content="width=980, maximum-scale=1, user-scalable=1">
+<meta http-equiv="X-UA-Compatible" content="IE=9; IE=8; IE=7; IE=EDGE">
 <meta name="apple-mobile-web-app-capable" content="yes">
 <meta names="apple-mobile-web-app-status-bar-style" content="white-translucent">
 
@@ -26,16 +24,17 @@
 
 <link rel="stylesheet" href="/coreui/reset.css?v=14082012">
 <link rel="stylesheet" href="/coreui/text.css?v=20120904">
-<link rel="stylesheet" href="/coreui/960.css?v=14082012">
-<link rel="stylesheet" href="/coreui/template.css?v=20120904">
+<link rel="stylesheet" href="/coreui/unsemantic-grid-responsive.css">
+<link rel="stylesheet" href="/coreui/template.css?v=23072013">
 <link rel="stylesheet" href="/coreui/buttons.css?v=14082012">
-<link rel="stylesheet" href="/coreui/mobile.css?v=14082012">
 
 <link rel="stylesheet" href="/css/cookiecuttr.css?v=14082012">
 <link rel="stylesheet" href="/css/bread-nav.css?v=14082012">
+<link rel="stylesheet" href="/css/smoothness/jquery-ui.css?v=14082012">
+<link rel="stylesheet" href="/css/jquery-ui-timepicker.css">
 
-
-
+<meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1">
+<link rel="stylesheet" href="/coreui/mobile.css?v=23072013">
 
 <link type="image/x-icon" rel="icon" href="http://www.susu.org/favicon.ico">
 <link type="image/x-icon" rel="shortcut icon" href="http://www.susu.org/favicon.ico">
@@ -48,7 +47,10 @@
 
 
 <script language="JavaScript" type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+<script language="JavaScript" type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jqueryui/1.8.24/jquery-ui.min.js"></script>
 <script language="JavaScript" type="text/javascript" src="/js/jquery.innerfade.js"></script>
+<script language="JavaScript" type="text/javascript" src="/js/jquery-ui-timepicker.js"></script>
+<script language="JavaScript" type="text/javascript" src="/js/global.js"></script>
 
 <script type="text/javascript">
 	<!--
@@ -125,7 +127,7 @@
 			$("#susumenu li a").addClass("fade");
 			var id = $(this).parent().attr("class");
 			$("#susumenu li:not(."+id+") a").removeClass("hover");
-			$(".sususubmenu:not(."+id+"):not(.selected)").addClass("hidden");
+			$(".sususubmenu:not(."+id+")").addClass("hidden");
 			$(this).addClass("hover");
 			
 			if (fader != 0) {
@@ -134,25 +136,27 @@
 			}
 			
 			if (!$(this).hasClass("selected")) {
-				$(".sususubmenu."+id).css("z-index", 95).removeClass("hidden");
+				$("#sususubmenu_"+id).css("z-index", 95).removeClass("hidden");
+			} else {
+				$("#sususubmenu_"+id).removeClass("hidden");
 			}
 		}, function() {
-			if (!$(this).hasClass("selected")) {
+			//if (!$(this).hasClass("selected")) {
 				var id = $(this).parent().attr("class");
 				fader = setTimeout(function() {
-					$(".sususubmenu."+id).addClass("hidden");
+					$(".sususubmenu:not(.selected)").addClass("hidden");
+					$(".sususubmenu.selected").removeClass("hidden");
 					$("#susumenu li."+id+" a").removeClass("hover");
 					$("#susumenu li a.selected").addClass("hover");
 					$("#susumenu li a").removeClass("fade");
 				}, 250);
-			} else {
+			/*} else {
 				$("#susumenu li a").removeClass("fade");
-			}
+			}*/
 		}).click(function(e) {
 			if (isMobile()) {
-				console.log("Mobile");
 				var id = $(this).parent().attr("class");
-				console.log(id, last_clicked);
+				
 				if (last_clicked != id) {
 					last_clicked = id;
 					
@@ -175,10 +179,51 @@
 		}, function() {
 			fader = setTimeout(function() {
 				$(".sususubmenu:not(.selected)").addClass("hidden");
+				$(".sususubmenu.selected").removeClass("hidden");
 				$("#susumenu li a").removeClass("hover");
 				$("#susumenu li a.selected").addClass("hover");
 				$("#susumenu li a").removeClass("fade");
 			}, 500);
+		});
+		
+		$('.sususubmenu li').click(function(e) {
+			if ($(this).hasClass('back')) {
+				var parent = $(this).parent().attr('id');
+				var last = parent.lastIndexOf('_');
+				var top = parent.substring(0, last);
+				var width = $(this).parent().width();
+				
+				$('#'+top).css('width', '0');
+				
+				$(this).parent().animate({width: 0}, function() {
+					$(this).addClass('hidden').removeAttr('style');
+					$('#'+top).css('width', '0').removeClass('hidden').animate({width: width});
+				});
+				
+				e.preventDefault();
+				return false;
+			} else {
+				var id = $(this).attr('id');
+				var last = id.lastIndexOf('_');
+				var num = parseInt(id.substring(last + 5));
+				var parent = id.substring(0, last);
+				
+				var submenu = $('#'+parent+'_'+num);
+				
+				if (submenu.length > 0) {
+					var width = $(this).parent().width();
+					
+					submenu.css('width', '0');
+					
+					$(this).parent().animate({width: 0}, function() {
+						$(this).addClass('hidden').removeAttr('style');
+						submenu.css('width', '0').removeClass('hidden').animate({width: width});
+					});
+					
+					e.preventDefault();
+					return false;
+				}
+			}
 		});
 		
 		$.cookieCuttr({
@@ -239,7 +284,7 @@
 
 			$.ajax({
 				type: "POST",
-				url: "http://www.susu.org/log-in/",
+				url: "/log-in/",
 				data: dataString,
 				success: function(data) {
 					if (data == 'Login failed')
@@ -267,7 +312,7 @@
 
 				$.ajax({
 					type: "POST",
-					url: "http://www.susu.org/log-in/",
+					url: "/log-in/",
 					data: dataString,
 					success: function(data) {
 						if (data == 'Login failed')
@@ -291,17 +336,17 @@
 </script>
 <!-- SUSU HEADER START -->
 <div id="susuheader">
-	<div class="container_12">
+	<div class="grid-container" id="susutop">
 		<div id="sidebar_cont">
 					</div>
 		<a class="susulogo" href="/"><img src="images/logos/susunew.png" alt="SUSU"></a>
 		<div id="banner">
 			<!--<img src="images/banners/fresh-test.jpg" alt="Fresher" />-->
-			<ul class="adverts"><li style="background:url(http://images.susu.org/banner/sitebanner/studentstoragedealssouthampton-3.jpg)"><a href="banners/312/"></a></li><li style="background:url(http://images.susu.org/banner/sitebanner/welcome-to-susu-banner.jpg)"><a href="banners/278/"></a></li><li style="background:url(http://images.susu.org/banner/sitebanner/grad-ball-on-sale-now-websitev1.jpg)"><a href="banners/293/"></a></li><li style="background:url(http://images.susu.org/banner/sitebanner/grad-ball-icehouse-website.jpg)"><a href="banners/303/"></a></li></ul>
+			<ul class="banners"><li style="background-image:url(http://images.susu.org/banner/sitebanner/etuk-london.jpg)"><a href="banners/331/"></a></li><li style="background-image:url(http://images.susu.org/banner/sitebanner/welcome-to-susu-banner.jpg)"><a href="banners/278/"></a></li></ul>
 <script type="text/javascript">
 	$(document).ready(
 		function(){
-			$(".adverts").innerfade({
+			$(".banners").innerfade({
 				speed: "1000",
 				timeout: 6000,
 				type: "sequence",
@@ -312,34 +357,38 @@
 </script>		</div>
 		<div class="clear"></div>
 	</div>
-	<div class="container_16">
+	<div class="grid-container">
 		<div id="susubar">
-			<div class="grid_3" id="susu-date">
+			<div class="grid-20">
+			<div class="susubaritem" id="susu-date">
 				<h3>
-				3rd May 2013				</h3>
+				3rd November 2013				</h3>
 			</div>
-			<div class="grid_6" id="susu_news">
+			</div>
+			<div class="grid-30">
+			<div class="susubaritem" id="susu_news">
 				<img src="coreui/bubble.png">
 				<div id="news-ticker">
 					<!--<h4 class="news">Welcome everyone who is a Fresher!</h4>-->
 				</div>
 			</div>
-			<div class="grid_4" id="susu-user">
-									<span>
-						<a href="/login/" class="icon login">Login</a>
-					</span>
-								
-				<a class="icon fb" href="http://facebook.com/yoursusu" original-title="Facebook">Facebook</a>
-				<a class="icon twitter" href="http://twitter.com/yoursusu" original-title="Twitter">Twitter</a>
-				<a class="icon contact" href="contact.html" original-title="Contact">Contact</a>
 			</div>
-			<div class="grid_3">
+			<div class="grid-50">	
+			<div class="susubaritem-right" id="susu-search">
 				<span>
 					<form id="searchbox" method="get" action="search/">
 						<input type="text" id="search" class="round" value="" placeholder="Search..." name="q" size="8">
 					</form>
 				</span>
 			</div>
+			<div class="susubaritem-right" id="susu-user">
+									<span>
+						<a href="/login/" class="icon login">Login</a>
+					</span>
+								
+			</div>
+			</div>
+			<div class="clear"></div>
 		</div>
 
 		<div class="clear"></div>
@@ -361,232 +410,212 @@
 	</div>
 </div>
 <!-- SUSU HEADER END -->
+<div class="clear"></div>
 
-<div class="container_12">
+<div class="grid-container">
 
     <!-- SUSU MENU START -->
-    <div class="grid_12 snowcollect" id="header_menu">
-    	<ul id="susumenu">
-	<li class="one"><a href="/" class="selected hover"><p class="big">Home</p><p>back to SUSU</p></a></li>
-	<li class="two"><a href="/calendar/"><p class="big">What's On &amp; Where</p><p>events &amp; places</p></a></li>
-	<li class="three"><a href="/something-for-everyone/"><p class="big">Something for Everyone</p><p>socs, sport, media &amp; volunteering</p></a></li>
-	<li class="four"><a href="/help-and-support/"><p class="big">Help &amp; Support</p><p>advice</p></a></li>
-	<li class="five"><a href="/making-a-difference/"><p class="big">Making a Difference</p><p>what we do for you</p></a></li>
-	<li class="six"><a href="/about/"><p class="big">About SUSU</p><p>who we are</p></a></li>
-	<li class="custom"><a href="/elections/"><p class="big">Your Elections</p><p>run your Union!</p></a></li>
-</ul>
-<ul id="sususubmenu_one" class="one sususubmenu selected"></ul>
-<ul id="sususubmenu_two" class="two sususubmenu hidden">
-	<li class="first" id="sub_two_1">
-		<a href="/calendar/">Calendar</a>
-		<span>Calendar</span>
-	</li>
-	<li id="sub_two_2">
-		<a href="/whats-on-and-where/opening-times">Opening Times</a>
-		<span>Opening Times</span>
-	</li>
-	<li id="sub_two_3">
-		<a href="/whats-on-and-where/eat-drink-shop/">Eat, Drink and Shop</a>
-		<span>Eat, Drink and Shop</span>
-	</li>
-	<!--<li id="sub_two_4">
-		<a href="#">Nightlife</a>
-		<span>Nightlife</span>
-	</li>-->
-	<li id="sub_two_5">
-		<a href="http://www.unionfilms.org/">Union Films</a>
-		<span>Union Films</span>
-	</li>
-	<li id="sub_two_6">
-		<a href="http://boxoffice.susu.org/">Box Office</a>
-		<span>Box Office</span>
-	</li>
-		<li id="sub_two_7">
-		<a href="/whats-on-and-where/graduation-ball/">Graduation Ball</a>
-		<span>Graduation Ball</span>
-	</li>
-	
-	
-		<li id="sub_two_8">
-		<a href="/whats-on-and-where/feeds">Feeds</a>
-		<span>Feeds</span>
-	</li>
-</ul>
-<ul id="sususubmenu_three" class="three sususubmenu hidden">
-	<li class="first" id="sub_three_1">
-		<a href="http://perform.susu.org">Performing Arts</a>
-		<span>Performing Arts</span>
-	</li>
-	<li id="sub_three_2">
-		<a href="/something-for-everyone/societies/">Societies</a>
-		<span>Societies</span>
-	</li>
-	<li id="sub_three_3">
-		<a href="/something-for-everyone/media/">Media</a>
-		<span>Media</span>
-	</li>
-	<li id="sub_three_4">
-		<a href="/something-for-everyone/halls-life/">Halls life</a>
-		<span>Halls life</span>
-	</li>
-	<li id="sub_three_5">
-		<a href="/something-for-everyone/rag/">RAG</a>
-		<span>RAG</span>
-	</li>
-	<li id="sub_three_6">
-		<a href="/something-for-everyone/sports/">Sports</a>
-		<span>Sport</span>
-	</li>
-	<li id="sub_three_7">
-		<a href="/something-for-everyone/community-volunteering/">Community Volunteering</a>
-		<span>Community Volunteering</span>
-	</li>
-	<li id="sub_three_8">
-		<a href="http://www.unionfilms.org/about/get-involved.html">Union Films</a>
-		<span>Union Films</span>
-	</li>
-	<li id="sub_three_9">
-		<a href="/something-for-everyone/community-action/">Community Action</a>
-		<span>Community Action</span>
-	</li>
-</ul>
-<ul id="sususubmenu_four" class="four sususubmenu hidden">
-	<li class="first" id="sub_four_1">
-		<a href="/help-and-support/advice-centre">Advice Centre</a>
-		<span>Advice Centre</span>
-	</li>
-	<li id="sub_four_2">
-		<a href="/help-and-support/international/">Coming from overseas?</a>
-		<span>Coming from overseas?</span>
-	</li>
-	<li id="sub_four_3">
-		<a href="/help-and-support/housing/">Finding a house</a>
-		<span>Finding a house</span>
-	</li>
-	<li id="sub_four_4">
-		<a href="/help-and-support/finances/">Finances</a>
-		<span>Finances</span>
-	</li>
-	<li id="sub_four_5">
-		<a href="http://nightline.susu.org">Nightline</a>
-		<span>Nightline</span>
-	</li>
-	<!--<li id="sub_four_5">
-		<a href="/education/">Studying</a>
-		<span>Studying</span>
-	</li>-->
-	<!--<li id="sub_four_6">
-		<a href="#">Staying healthy</a>
-		<span>Staying healthy</span>
-	</li>-->
-	<li id="sub_four_7">
-		<a href="/help-and-support/safety/">Staying safe</a>
-		<span>Staying safe</span>
-	</li>
-</ul>
-<ul id="sususubmenu_five" class="five sususubmenu hidden">
-	<li class="first" id="sub_five_1">
-		<a href="/making-a-difference/elections/">Your Elections</a>
-		<span>Your Elections</span>
-	</li>
-	<li id="sub_five_2">
-		<a href="/making-a-difference/education/">Your Education</a>
-		<span>Your Education</span>
-	</li>
-	<li id="sub_five_3">
-		<a href="/making-a-difference/running-your-union/">Running your Union</a>
-		<span>Running your Union</span>
-	</li>
-	<li id="sub_five_4">
-		<a href="/making-a-difference/campaigns/">Campaigns</a>
-		<span>Campaigns</span>
-	</li>
-	<li id="sub_five_5">
-		<a href="/making-a-difference/union-awards/">Union Awards</a>
-		<span>Union Awards</span>
-	</li>
-	<li id="sub_five_6">
-		<a href="/making-a-difference/general-meeting/">General Meeting</a>
-		<span>General Meeting</span>
-	</li>
-</ul>
-<ul id="sususubmenu_six" class="six sususubmenu hidden">
+    <div class="grid-100 snowcollect" id="header_menu">
+    	
 
-
-	<!--<li id="sub_six_3">
-		<a href="/you-decide/general-meeting/">Governance</a>
-		<span>Governance</span>
-	</li>
-	<li id="sub_six_4">
-		<a href="/you-decide/accounts">Trustee Board</a>
-		<span>Trustee Board</span>
-	</li>-->
-	<li id="sub_six_1" class="first">
-		<a href="/about/structure">Structure</a>
-		<span>Structure</span>
-	</li>
-	<li id="sub_six_2">
-		<a href="/about/equality-and-diversity">Equality &amp; Diversity</a>
-		<span>Equality &amp; Diversity</span>
-	</li>
-	
-	<li id="sub_six_3">
-		<a href="/about/union-plan">Union Plan</a>
-		<span>Union Plan</span>
-	</li>
-	
-	
-	<li id="sub_six_4">
-		<a href="/about/annual-review">Annual Review</a>
-		<span>Annual Review</span>
-	</li>
-	
-	<li id="sub_six_5">
-		<a href="/about/facts-and-figures">Facts &amp; Figures</a>
-		<span>Facts &amp; Figures</span>
-	</li>
-	<!--<li id="sub_six_8">
-		<a href="#">History</a>
-		<span>History</span>
-	</li>
-	<li id="sub_six_9">
-		<a href="/winchester/">Sites</a>
-		<span>Sites</span>
-	</li>-->
-</ul>
-<ul id="sususubmenu_custom" class="custom sususubmenu hidden">
-
-	<li id="sub_custom_1" class="first">
-		<a href="making-a-difference/elections/2012/summer/">Summer Elections</a>
-		<span>Spring Elections</span>
-
-	</li>
-		<li id="sub_custom_2">
-		<a href="/making-a-difference/elections/2012/summer/candidates.html">Candidates</a>
-		<span>Candidates</span>
-	</li>
-	<li id="sub_custom_3">
-		<a href="/making-a-difference/elections/2012/summer/positions.html">Positions</a>
-		<span>Positions</span>
-	</li>
-	<li id="sub_custom_4">
-		<a href="http://www.susu.org/vote/">Vote Now</a>
-		<span>Budgets</span>
-	</li>	
-	<li id="sub_custom_5">
-		<a href="/making-a-difference/elections/2012/spring/why-run.html">Why run?</a>
-		<span>Why run?</span>
-	</li>	
-	<li id="sub_custom_6">
-		<a href="/making-a-difference/elections/2012/spring/">Spring Elections</a>
-		<span>Questions</span>
-	</li>	
-</ul>
-    </div>
+<ul id="susumenu">
+	<li class="one"><a href="/" class="selected hover"><p class="big"><img src="/images/icons/home.png"></p><p>home</p></a></li>
+		<li class="two"><a href="/calendar/"><p class="big">What's On &amp; Where</p><p>events &amp; places</p></a></li>
+		<li class="three"><a href="/education/front"><p class="big">Education</p><p>education representation</p></a></li>
+		<li class="four"><a href="making-a-difference/2012/index.html"><p class="big">Running Your Union</p><p>what we do for you</p></a></li>
+		<li class="five"><a href="something-for-everyone/2012/index.html"><p class="big">Something for Everyone</p><p>socs, sport, media &amp; volunteering</p></a></li>
+		<li class="six"><a href="help-and-support/2012/index.html"><p class="big">Help &amp; Support</p><p>advice</p></a></li>
+		<li class="custom"><a href="elections"><p class="big">Your Elections</p><p>Takeover your Union!</p></a></li>
+	</ul>
+		<style type="text/css">
+			#susumenu li.one a:after { display: none; }
+		</style>
+	<ul id="sususubmenu_two" class="two sususubmenu hidden">				<li class="first" id="sususubmenu_two_item1">
+					<a href="http://boxoffice.susu.org/">Box Office</a>
+					<span>Box Office</span>
+				</li>
+								<li id="sususubmenu_two_item2">
+					<a href="/calendar/">Calendar</a>
+					<span>Calendar</span>
+				</li>
+								<li id="sususubmenu_two_item3">
+					<a href="whats-on-and-where/eat-drink-shop/2012/index.html">Eat, Drink &amp; Shop</a>
+					<span>Eat, Drink &amp; Shop</span>
+				</li>
+								<li id="sususubmenu_two_item4">
+					<a href="/whats-on-and-where/feeds">Feeds</a>
+					<span>Feeds</span>
+				</li>
+								<li id="sususubmenu_two_item5">
+					<a href="whats-on-and-where/graduation-ball/2012/index.html">Graduation Ball</a>
+					<span>Graduation Ball</span>
+				</li>
+								<li id="sususubmenu_two_item6">
+					<a href="whats-on-and-where/2012/opening-times.html">Opening Times</a>
+					<span>Opening Times</span>
+				</li>
+								<li id="sususubmenu_two_item7">
+					<a href="http://bookings.susu.org">Room Bookings</a>
+					<span>Room Bookings</span>
+				</li>
+								<li id="sususubmenu_two_item8">
+					<a href="http://www.unionfilms.org/">Union Films</a>
+					<span>Union Films</span>
+				</li>
+				</ul><ul id="sususubmenu_three" class="three sususubmenu hidden">				<li class="first" id="sususubmenu_three_item1">
+					<a href="/education">My Education</a>
+					<span>My Education</span>
+				</li>
+								<li id="sususubmenu_three_item2">
+					<a href="education/2012/find-your-rep.html">Find Your Rep</a>
+					<span>Find your Rep</span>
+				</li>
+								<li id="sususubmenu_three_item3">
+					<a href="education/2012/academic-advice.html">Academic Advice</a>
+					<span>Academic Advice</span>
+				</li>
+								<li id="sususubmenu_three_item4">
+					<a href="education/2012/student-representation.html">Student Representation</a>
+					<span>Student Representation</span>
+				</li>
+								<li id="sususubmenu_three_item5">
+					<a href="education/2012/run-in-an-election.html">Run in an election</a>
+					<span>Run in an Election</span>
+				</li>
+								<li id="sususubmenu_three_item6">
+					<a href="/reps">Nominate Yourself</a>
+					<span>Nominate yourself</span>
+				</li>
+				</ul><ul id="sususubmenu_four" class="four sususubmenu hidden">				<li class="first" id="sususubmenu_four_item1">
+					<a href="making-a-difference/general-meeting/2012/index.html">The AGM</a>
+					<span>General Meeting</span>
+				</li>
+								<li id="sususubmenu_four_item2">
+					<a href="making-a-difference/running-your-union/2013/union-council.html">Union Council</a>
+					<span>Union Council</span>
+				</li>
+								<li id="sususubmenu_four_item3">
+					<a href="making-a-difference/elections/2013/index.html">Elections</a>
+					<span>Elections</span>
+				</li>
+								<li id="sususubmenu_four_item4">
+					<a href="making-a-difference/union-awards/2012/index.html">Union Awards</a>
+					<span>Union Awards</span>
+				</li>
+								<li id="sususubmenu_four_item5">
+					<a href="http://blogs.susu.org/policy">Policy</a>
+					<span>Policy</span>
+				</li>
+								<li id="sususubmenu_four_item6">
+					<a href="making-a-difference/your-officers/2013/index.html">Your Officers</a>
+					<span>Your Officers</span>
+				</li>
+				</ul><ul id="sususubmenu_five" class="five sususubmenu hidden">				<li class="first" id="sususubmenu_five_item1">
+					<a href="/something-for-everyone/halls/">Halls Life</a>
+					<span>halls life</span>
+				</li>
+								<li id="sususubmenu_five_item2">
+					<a href="something-for-everyone/media/2012/index.html">Media</a>
+					<span>Media</span>
+				</li>
+								<li id="sususubmenu_five_item3">
+					<a href="http://perform.susu.org">Performing Arts</a>
+					<span>performing arts</span>
+				</li>
+								<li id="sususubmenu_five_item4">
+					<a href="something-for-everyone/pre-sessional/2013/index.html">Pre Sessional</a>
+					<span>Pre-Sessional</span>
+				</li>
+								<li id="sususubmenu_five_item5">
+					<a href="something-for-everyone/rag/2012/index.html">Rag</a>
+					<span>RAG</span>
+				</li>
+								<li id="sususubmenu_five_item6">
+					<a href="something-for-everyone/societies/2012/index.html">Societies</a>
+					<span>Societies</span>
+				</li>
+								<li id="sususubmenu_five_item7">
+					<a href="something-for-everyone/sports/2012/index.html">Sports</a>
+					<span>Sports</span>
+				</li>
+								<li id="sususubmenu_five_item8">
+					<a href="http://www.unionfilms.org/about/get-involved.html">Union Films</a>
+					<span>Union Films</span>
+				</li>
+								<li id="sususubmenu_five_item9">
+					<a href="/your-skills">Your Skills</a>
+					<span>Your Skills</span>
+				</li>
+				</ul><ul id="sususubmenu_six" class="six sususubmenu hidden">				<li class="first" id="sususubmenu_six_item1">
+					<a href="help-and-support/advice-centre/2012/index.html">Advice Centre</a>
+					<span>Advice Centre</span>
+				</li>
+								<li id="sususubmenu_six_item2">
+					<a href="help-and-support/international/2012/index.html">Coming from overseas?</a>
+					<span>Coming from overseas?</span>
+				</li>
+								<li id="sususubmenu_six_item3">
+					<a href="help-and-support/finances/2012/index.html">Finances</a>
+					<span>Finances</span>
+				</li>
+								<li id="sususubmenu_six_item4">
+					<a href="help-and-support/housing/2012/index.html">Finding a house</a>
+					<span>Finding a house</span>
+				</li>
+								<li id="sususubmenu_six_item5">
+					<a href="http://nightline.susu.org">Nightline</a>
+					<span>Nightline</span>
+				</li>
+								<li id="sususubmenu_six_item6">
+					<a href="help-and-support/safety/2012/index.html">Staying safe</a>
+					<span>Staying safe</span>
+				</li>
+				</ul><ul id="sususubmenu_custom" class="custom sususubmenu hidden">				<li class="first" id="sususubmenu_custom_item1">
+					<a href="http://www.susu.org/making-a-difference/elections/2013/jcr/">Your JCR</a>
+					<span>JCR elections 2013</span>
+				</li>
+								<li id="sususubmenu_custom_item2">
+					<a href="http://www.susu.org/making-a-difference/elections/2013/autumn/">Autumn</a>
+					<span>Autumn elections 2013</span>
+				</li>
+								<li id="sususubmenu_custom_item3">
+					<a href="http://www.coursereps.soton.ac.uk">Course Reps</a>
+					<span>Course Reps</span>
+				</li>
+				</ul><ul id="sususubmenu_seven" class="seven sususubmenu hidden">				<li class="first" id="sususubmenu_seven_item1">
+					<a href="about/2012/annual-review.html">Annual Review</a>
+					<span>Annual Review</span>
+				</li>
+								<li id="sususubmenu_seven_item2">
+					<a href="about/2012/equality-and-diversity.html">Equality and Diversity</a>
+					<span>Equality &amp; Diversity</span>
+				</li>
+								<li id="sususubmenu_seven_item3">
+					<a href="about/2012/facts-and-figures.html">Facts and Figures</a>
+					<span>Facts &amp; Figures</span>
+				</li>
+								<li id="sususubmenu_seven_item4">
+					<a href="about/2012/governance.html">Governance</a>
+					<span>Governance</span>
+				</li>
+								<li id="sususubmenu_seven_item5">
+					<a href="about/2012/union-plan.html">Union Plan</a>
+					<span>Union Plan</span>
+				</li>
+								<li id="sususubmenu_seven_item6">
+					<a href="about/2012/structure.html">Structure</a>
+					<span>Structure</span>
+				</li>
+								<li id="sususubmenu_seven_item7">
+					<a href="about/2012/university-relationship.html">University Relationship</a>
+					<span>University Relationship</span>
+				</li>
+				</ul>    </div>
     <!-- SUSU MENU END -->
-
-    <!-- MAIN CONTENT START -->
-    <div class="grid_8">
+	
+	
+<div id="maincontent">    <!-- MAIN CONTENT START -->
+    <div class="grid-66">
 
 <h2>Privacy Policy</h2>
 
@@ -714,7 +743,7 @@
 	<!-- end smartlook includes --> 
 
     
-
+</div>
   <!-- smartlook includes
 	<script type="text/javascript"> 
 		var issuuConfig = { 
@@ -731,39 +760,85 @@
 
     <div class="clear"></div>
     
-    <div class="container_12" id="footer">
+    <div class="grid-container" id="footer">
 	
 
-	<div class="grid_12" style="text-align:center;"><p class="small"></p></div>
-    <div class="clear"></div>
 
-
-        <div class="grid_2">
+        <div class="grid-20" style="text-align: right">
 
 	<img src="images/logos/fairtrade.png" alt="Fairtrade" id="fairtrade">
 
         </div>
-        <div class="grid_8" style="text-align:center;">
-		<ul>
-		<li class="first" style="padding-left: 80px;"><h2><a href="http://www.susu.org/contact.html">Contact Us</a></h2></li>
-		<li><h2><a href="http://bookings.susu.org">Room/Vehicle Bookings</a></h2></li>
-		<li><h2><a href="http://www.susu.org/work-with-us">Job Vacancies</a></h2></li>
-		</ul>
-<br>
-		<p style="font-size: 10px;  color: #000; margin-bottom: 5px;">SUSU is a Company limited by guarantee, No. 8034371 &amp; a registered Charity, No. 1148683.</p>
+        <div class="grid-60" style="text-align:center;">
+		<style type="text/css">
+		.contact #cemail, .contact #cfacebook, .contact #ctwitter, .contact #cyoutube {
+			background-repeat: no-repeat;
+			margin-right: 14px;
+			color: #999999;
+			padding-bottom: 10px;
+			height: 24px;	
+			font-size: 16px;
+		}
+		.label {
+			padding-left: 30px;	
+		}
+		.contact #cemail {
+			background-image: url('/images/icons/page/email.png'); 
+		}
+		.contact #cemail:hover {
+			background-image: url('/images/icons/page/email_on.png'); 
+			color: #A50083;
+		}
+		.contact #cfacebook {
+			background-image: url('/images/icons/page/facebook.png'); 
+		}
+		.contact #cfacebook:hover {
+			background-image: url('/images/icons/page/facebook_on.png'); 
+			color: #0077BE;
+		}
+		.contact #ctwitter {
+			background-image: url('/images/icons/page/twitter.png'); 
+		}
+		.contact #ctwitter:hover {
+			background-image: url('/images/icons/page/twitter_on.png'); 
+			color: #47BDDB;
+		}
+		.contact #cyoutube {
+			background-image: url('/images/icons/page/youtube.png');
+			margin-right: 0px;
+		}
+		.contact #cyoutube:hover {
+			background-image: url('/images/icons/page/youtube_on.png');			
+			color: #d13339;
+		}
+		</style>
+		<div class="contact">
+		<a id="cemail" href="mailto:hello@susu.org"><span class="label">hello@susu.org</span></a> 
+		<a id="cfacebook" href="http://www.facebook.com/YourSUSU"><span class="label">/YourSUSU</span></a> 
+		<a id="ctwitter" href="http://www.twitter.com/YourSUSU"><span class="label">YourSUSU</span></a> 
+		<a id="cyoutube" href="http://www.youtube.com/yoursusu"><span class="label">YourSUSU</span></a> 
+		</div>
+		<p></p>
 
-		<ul style="margin-bottom: 10px;">
-		<li class="first" style="padding-left: 140px;"><h4><a href="about/privacy-policy.html">Privacy Policy &amp; Cookies</a></h4></li>
+		<ul style="margin: 0px;">
+		<li class="first"><h4><a href="/about">About SUSU</a></h4></li>
+		<li><h4><a href="http://bookings.susu.org">Room Bookings</a></h4></li>
+		<li><h4><a href="/jobs">Job Vacancies</a></h4></li>
+		<li><h4><a href="/contact.html">Contact Us</a></h4></li>
+		</ul><ul style="margin: 0px">
+		<li><h4><a href="about/privacy-policy.html">Privacy Policy</a></h4></li>
 		<li><h4><a href="about/terms-and-conditions.html">Terms &amp; Conditions</a></h4></li>
 		</ul>
+	
+		<div class="mobileonly"><a href="/php/mobile.php?set=1">Desktop Site</a></div>
+
+		<p style="font-size: 10px;  color: #000; margin-bottom: 5px;">SUSU is the University of Southampton Students' Union.<br>We are a company limited by guarantee, No. 8034371 &amp; a registered Charity, No. 1148683.</p>
 		
-		
-	<br>	
-		<p style="font-size: 10px;  color: #000;  margin-bottom: 5px;">© 2001 - 2013.</p>
+		<p style="font-size: 10px;  color: #000;  margin-bottom: 5px; margin-top: 0px;">© 2001 - 2013.</p>
 
 
         </div>
-	<div class="grid_2">
+	<div class="grid-20">
 		<h1><a href="http://www.susu.org/sales"><img src="coreui/advertise-with-us.png" alt="Advertise" class="advertise"></a></h1>
 	</div>
     <div class="clear"></div>
