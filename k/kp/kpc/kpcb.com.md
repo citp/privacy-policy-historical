@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kpcb.com privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601160954id_/http%3A//kpcb.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kpcb.com privacy policy that was archived on 2013-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131103201335id_/http%3A//www.kpcb.com/privacy_policy) for the most accurate reproduction.*
 
 # Kleiner Perkins Caufield Byers
 
