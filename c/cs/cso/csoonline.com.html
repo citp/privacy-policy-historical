@@ -1,8 +1,9 @@
-<!--The following is the downloaded HTML source of the csoonline.com privacy policy that was archived on 2013-06-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130623131414id_/http%3A//www.csoonline.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the csoonline.com privacy policy that was archived on 2013-11-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131103151419id_/http%3A//www.csoonline.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head>
 	<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+	 <script type="text/javascript">var isMobile = "false"; </script>
     
 
 <meta http-equiv="Content-Language" content="US">
@@ -29,7 +30,7 @@
 
 		<meta name="twitter:card" content="summary">
 		<meta name="twitter:site" content="@CSOonline">
-		    <link rel="stylesheet" type="text/css" href="/styles/cso.css?06182013" media="screen, projection">
+		    <link rel="stylesheet" type="text/css" href="/styles/cso.css?20131012" media="screen, projection">
 <!--[if lte IE 6]><link rel="stylesheet" type="text/css" href="/styles/ie6less.css" media="screen, projection" /><![endif]-->
 <!--[if gte IE 7]><link rel="stylesheet" type="text/css" href="/styles/ie7more.css" media="screen, projection" /><![endif]-->
 <link rel="stylesheet" type="text/css" media="screen and (max-device-width: 480px)" href="/styles/mobile.css">
@@ -58,12 +59,86 @@
 
 <script type="text/javascript" src="/js/demandbase.js"></script>
 <script type="text/javascript" src="http://api.demandbase.com/api/v2/ip.json?token=efb6d514cdcaa8a88ed8190a5011fe9532325aa8&amp;callback=dbase_parse"></script>
-
+<script type="text/javascript" src="/js/google_ad.js"></script>
 <script type="text/javascript" src="http://content.dl-rms.com/rms/mother/18704/nodetag.js"></script>
 <script type="text/javascript" src="/js/jquery/jquery.cookie.js"></script>
 <script type="text/javascript" src="http://computerworld.com.edgesuite.net/up_slideshows/jquery.jcarousel.min.js"></script>
 
 <script type="text/javascript" src="/js/slideshow_promo.js"></script>
+    		
+				    
+        
+         	 
+ 	 	 	  
+ 	 	 	
+ 	 	 
+    <script type="text/javascript">
+    
+		function getTargetMap()
+	{
+		var targetMap={};
+		targetMap['site']="idge.cso.home";
+		targetMap['zone']="zone";
+		targetMap['kw']="";
+		targetMap['articleId']="";
+		targetMap['author']="";
+		targetMap['type']="";
+		targetMap["env"]="";
+		targetMap['cmn']="idge";
+		targetMap['indust']=OPG.Demandbase.getDbaseVar('industry');;
+		targetMap['empcnt']=OPG.Demandbase.getDbaseVar('employee_count');
+		targetMap['compnm']=OPG.Demandbase.getDbaseVar('company_name');
+		targetMap['compsz']=OPG.Demandbase.getDbaseVar('company_size');
+		targetMap['sic']=OPG.Demandbase.getDbaseVar('primary_sic');
+		targetMap['rev']=OPG.Demandbase.getDbaseVar('annual_sales');
+		targetMap['insiderauth']=OPG.Doubleclick.nsdr_auth;
+		return targetMap;
+	};
+	
+	function getBrowser()
+	{
+	 var browser = "";
+    if (/(iPad|iPhone)/.test(navigator.userAgent)) {
+      browser = RegExp.$1;
+    }
+    return browser;
+    };
+	
+	function splitRVAL()
+	{
+	var tMap= getTargetMap();
+		var qVars=_rval.split(";");
+		
+		for (var i=0;i<qVars.length;i++) {
+			var pair = qVars[i].split("=");
+			if(pair !="undefined" && pair.length == 2 && pair[0]!="undefined"){
+			//console.log("Key and Value  "+pair[0] +"  "+pair[1] );
+				tMap[pair[0]]=pair[1];
+			}
+		}
+		tMap["browser"]= getBrowser();
+		
+		 googletag.cmd.push(function() {
+		 for(var t in tMap)
+			{
+			if (tMap.hasOwnProperty(t)) {	
+				googletag.pubads().setTargeting(t,tMap[t]);
+				}
+			}
+			if (isMobile=="true") {
+				googletag.pubads().setTargeting("mobile", "true");
+			  }
+		 });
+		
+   		 			
+	};
+ 
+	
+</script>
+<script type="text/javascript">
+	IDG.ads.enable();
+	splitRVAL();
+</script>		
 	<!-- SiteCatalyst code version: H.20.3. Copyright 1996-2010 Adobe, Inc. All Rights Reserved More info available at http://www.omniture.com -->
 <script type="text/javascript" src="/js/s_code.js"></script>
 <script type="text/javascript">
@@ -146,7 +221,7 @@ switch(_companysize) {
 if(typeof _forbes2000 != 'undefined' && _forbes2000 == "yes") _g2000 = "gy";
 
 document.write('<div style="display:none;"><img src="http://a.collective-media.net/datapair?net=idgt&segs='+_g2000+','+_compsz+'&op=add" width="0" height="0"></div>');
-</script><div style="display:none;"><img src="http://a.collective-media.net/datapair?net=idgt&amp;segs=gn,cu&amp;op=add" width="0" height="0"></div>
+</script>
 <!-- end collective media tag -->
 
 <!-- begin boomerang ad tag -->
@@ -155,49 +230,26 @@ document.write('<div style="display:none;"><img src="http://a.collective-media.n
 if (!self.ord) { ord = Math.random()*10000000000000000; }
 document.write('<script type="text/javascript" src="/adj/idgt.data.cso/data_collection_cso;sz=1x1;cmn=idge;ord=' + ord + '?"><\/script>');
 //]]>
-</script><script type="text/javascript" src="/adj/idgt.data.cso/data_collection_cso;sz=1x1;cmn=idge;ord=6886848448762843?"></script>
+</script><script type="text/javascript" src="/adj/idgt.data.cso/data_collection_cso;sz=1x1;cmn=idge;ord=4249800289409815?"></script>
 <noscript><a href="http://ad.doubleclick.net/jump/idgt.data.cso/data_collection_cso;sz=1x1;ord=123456789?" target="_blank" ><img src="http://ad.doubleclick.net/ad/idgt.data.cso/data_collection_cso;sz=1x1;ord=123456789?" border="0" alt="" /></a></noscript>
 <!-- end boomerang ad tag -->
 
 
 
-	<div id="leaderboard">
-<center>
-   
-    
-        
-      <script language="JavaScript" type="text/javascript">
-        doubleclick_ad_tag_tile ++;
-	if (!self.ord) { ord = Math.random()*10000000000000000; }
-    	  document.write('<script language="JavaScript" src="'+ad_server_url+'/adj/idge.cso.zone/;cmn=idge;pos=dogear;dcopt=ist;sz=1x1;'+_rval+';ord='+ord+';tile='+doubleclick_ad_tag_tile+'?" type="text/javascript"><\/script>');
-    	          </script><script language="JavaScript" src="http://ad.doubleclick.net/adj/idge.cso.zone/;cmn=idge;pos=dogear;dcopt=ist;sz=1x1;;ord=6886848448762843;tile=1?" type="text/javascript"></script>
-    <script language="JavaScript" type="text/javascript">
-	if (!self.ord) { ord = Math.random()*10000000000000000; }
-    if ((!document.images && navigator.userAgent.indexOf('Mozilla/2.') >= 0)|| navigator.userAgent.indexOf("WebTV") >= 0) {
-              document.write('<a href=";tile='+doubleclick_ad_tag_tile+'" target="_blank"><img src="${imgAd};tile='+doubleclick_ad_tag_tile+'" width="1" height="1" border="0" alt=""><\/a>');
-                      }
-    </script>
-    <noscript>
-        <a href="http://ad.doubleclick.net/jump/idge.cso.zone/;tile=5;pos=dogear;dcopt=ist;sz=1x1;" target="_blank"><img src="http://ad.doubleclick.net/ad/idge.cso.zone/;tile=5;pos=dogear;dcopt=ist;sz=1x1;" width="1" height="1" border="0" alt=""></a>
-      </noscript>
-  
-
-
-
-
-
+	<center><div id="leaderboard">
    
   
-	
-
 		<div id="js_leaderboard">
 		<script language="JavaScript" type="text/javascript">
-                doubleclick_ad_tag_tile ++;
-  		if (!self.ord) { ord = Math.random()*10000000000000000; }
-  		document.write('<script language="JavaScript" src="'+ad_server_url+'/adj/idge.cso.zone/;cmn=idge;pos=topleaderboard;sz=728x90,982x125,970x98,970x268'+_rval+';ord='+ord+';tile='+doubleclick_ad_tag_tile+'?" type="text/javascript"><\/script>');</script><script language="JavaScript" src="http://ad.doubleclick.net/adj/idge.cso.zone/;cmn=idge;pos=topleaderboard;sz=728x90,982x125,970x98,970x268;ord=6886848448762843;tile=2?" type="text/javascript"></script>
-    	<noscript>
-      		<a href="http://ad.doubleclick.net/jump/idge.cso.zone/;tile=1;pos=topleaderboard;sz=728x90,982x125,970x98,970x268" target="_blank"><img src="http://ad.doubleclick.net/ad/idge.cso.zone/;tile=1;pos=topleaderboard;sz=728x90,982x125,970x98,970x268" width="728" height="90" border="0" alt=""></a>
-    	</noscript>
+		if (!window.console) console = {};
+   		googletag.cmd.push(function() {
+   		var typeMap=getAdTypeAndSizeMap();
+   		setPosition("topleaderboard");
+      	var adSlot1 = googletag.defineSlot(typeMap['networkID'],typeMap['topleaderboard'], "js_leaderboard");
+      	adSlot1.addService(googletag.pubads());
+        googletag.display('js_leaderboard');
+        });
+		</script>
 	</div>
 
 
@@ -206,7 +258,26 @@ document.write('<script type="text/javascript" src="/adj/idgt.data.cso/data_coll
 
 
  
-</center>
+</div></center>
+<div id="dogear">
+  
+    <script language="JavaScript" type="text/javascript">
+              if (!window.console) console = {};
+   		googletag.cmd.push(function() {
+   		var typeMap=getAdTypeAndSizeMap();
+   		setPosition("dogear");
+      	googletag.pubads().setTargeting("dcopt", "ist")
+      	var adSlot1 = googletag.defineSlot(typeMap['networkID'],typeMap['dogear'], "dogear");
+      	adSlot1.addService(googletag.pubads());
+        googletag.display('dogear');
+        });   
+	</script>
+
+
+
+
+
+
 </div>
     
 	<div id="wrapper">
@@ -262,15 +333,19 @@ document.write('<script type="text/javascript" src="/adj/idgt.data.cso/data_coll
 								<li><span>Communities</span></li>
 								
 									
-																		<li><a name="&amp;lpos=Overview Nav:Subtopic:Communities" href="http://resources.csoonline.com/show/200015633/00624310083291CSOMYJWPK3SP3/?email=%25%25emailaddr%25%25">Cloud Collaboration</a></li>
-									
-																		<li><a name="&amp;lpos=Overview Nav:Subtopic:Communities" href="http://resources.csoonline.com/show/200016159/00532260085261CSOGNDQD28PFM/?email=%25%25emailaddr%25%25">Virtualization Boosts SMBs</a></li>
+																		<li><a name="&amp;lpos=Overview Nav:Subtopic:Communities" href="http://resources.csoonline.com/show/200018159/00776540095430CSONBFPOX60UB/">A Smarter Approach to Data Protection</a></li>
 									
 																		<li><a name="&amp;lpos=Overview Nav:Subtopic:Communities" href="http://resources.csoonline.com/show/200015328/00621610082902CSOK2K0LMYH54/?email=%25%25emailaddr%25%25">Your IT Journey — Your Way</a></li>
 							</ul>
 							<ul>
 								<li><span>Research</span></li>
-															</ul>
+								
+								<li><a href="http://solutioncenters.csoonline.com/citrix_xenmobile/" name="&amp;lpos=Overview Nav:Subtopic:Research">Citrix XenMobile</a></li>
+								
+								<li><a href="http://solutioncenters.cio.com/ibm_smartcloud/" name="&amp;lpos=Overview Nav:Subtopic:Research">IBM SmartCloud Solutions</a></li>
+								
+								<li><a href="http://solutioncenters.csoonline.com/cso_sc_home/" name="&amp;lpos=Overview Nav:Subtopic"><em><strong>View all Solution Centers</strong></em></a></li>
+							</ul>
 						</div><!-- /twoColumn-dropdown -->
 						
                         
@@ -318,7 +393,7 @@ document.write('<script type="text/javascript" src="/adj/idgt.data.cso/data_coll
                 var thisYear  = today.getFullYear();
                 document.write('<div class="note">' + days[today.getDay()] + ', ' + months[today.getMonth()] + ' ' + today.getDate() + ', ' + thisYear + '</div>');
                 // -->
-                </script><div class="note">Monday, February 24, 2020</div>
+                </script><div class="note">Friday, January 31, 2020</div>
 			</div>
 		</div>
 		
@@ -641,17 +716,20 @@ Customer Service, TSG Department<br>
 			<div id="sidebar_template">
 				
                 <div id="imu">
-					      
-  
-
+					  
+    
 		<script language="JavaScript" type="text/javascript">
-                doubleclick_ad_tag_tile ++;
-		if (!self.ord) { ord = Math.random()*10000000000000000; }
-		document.write('<script language="JavaScript" src="'+ad_server_url+'/adj/idge.cso.zone/;cmn=idge;pos=topimu;sz=336x280,300x250,336x600,300x1050'+_rval+';ord='+ord+';tile='+doubleclick_ad_tag_tile+'?" type="text/javascript"><\/script>');</script><script language="JavaScript" src="http://ad.doubleclick.net/adj/idge.cso.zone/;cmn=idge;pos=topimu;sz=336x280,300x250,336x600,300x1050;ord=6886848448762843;tile=3?" type="text/javascript"></script>
-  	<noscript>
-    		<a href="http://ad.doubleclick.net/jump/idge.cso.zone/;tile=6;pos=topimu;sz=336x280,300x250,336x600,300x1050" target="_blank"><img src="http://ad.doubleclick.net/ad/idge.cso.zone/;tile=6;pos=topimu;sz=336x280,300x250,336x600,300x1050" width="336" height="280" border="0" alt=""></a>
-  	</noscript>
-
+              if (!window.console) console = {};
+   		googletag.cmd.push(function() {
+   		var typeMap=getAdTypeAndSizeMap();
+   		setPosition("topimu");
+      	var adSlot1 = googletag.defineSlot(typeMap['networkID'],typeMap['topimu'], "imu");
+      	adSlot1.addService(googletag.pubads());
+        googletag.display('imu');
+        });   
+	</script>
+	
+	
 		
 
 
@@ -688,12 +766,12 @@ Customer Service, TSG Department<br>
 					<div class="modHdrText"> Webcasts</div>
 					</div>
 					<ul>
-											<li class="no_desc"><a onclick="LeadGen.Tracking.addSourceCode('csolib','wpwcrhn', this);return false;" href="/webcast/733110/?source=csolib">Forrester Research and EMC on Continuous Availability</a></li>
-											<li class="no_desc"><a onclick="LeadGen.Tracking.addSourceCode('csolib','wpwcrhn', this);return false;" href="/webcast/733109/?source=csolib">Big Ideas; Big Tech-Continuous Availability for VMware</a></li>
-											<li class="no_desc"><a onclick="LeadGen.Tracking.addSourceCode('csolib','wpwcrhn', this);return false;" href="/webcast/734495/?source=csolib">HIPAA Hiccup Solved</a></li>
-											<li class="no_desc"><a onclick="LeadGen.Tracking.addSourceCode('csolib','wpwcrhn', this);return false;" href="/webcast/734151/?source=csolib">The New Mobile Management: Getting A Grip on Complexity</a></li>
-											<li class="no_desc"><a onclick="LeadGen.Tracking.addSourceCode('csolib','wpwcrhn', this);return false;" href="/webcast/733686/?source=csolib">Enterprise File Sharing: All You Need to Know</a></li>
-											<li class="no_desc"><a onclick="LeadGen.Tracking.addSourceCode('csolib','wpwcrhn', this);return false;" href="/webcast/732870/?source=csolib">Security Analytics Video</a></li>
+											<li class="no_desc"><a onclick="LeadGen.Tracking.addSourceCode('csolib','wpwcrhn', this);return false;" href="/webcast/742414/?source=csolib">Transform Technology into a Unique Solution for Your Business</a></li>
+											<li class="no_desc"><a onclick="LeadGen.Tracking.addSourceCode('csolib','wpwcrhn', this);return false;" href="/webcast/742301/?source=csolib">Innovation in Enterprise Cloud Management</a></li>
+											<li class="no_desc"><a onclick="LeadGen.Tracking.addSourceCode('csolib','wpwcrhn', this);return false;" href="/webcast/742232/?source=csolib">Network Circulation</a></li>
+											<li class="no_desc"><a onclick="LeadGen.Tracking.addSourceCode('csolib','wpwcrhn', this);return false;" href="/webcast/742079/?source=csolib">Defending Against Advanced Persistent Threats: Strategies for a New Era of Attacks</a></li>
+											<li class="no_desc"><a onclick="LeadGen.Tracking.addSourceCode('csolib','wpwcrhn', this);return false;" href="/webcast/742076/?source=csolib">Continuous Monitoring and Mitigation -- the New InfoSec Frontier</a></li>
+											<li class="no_desc"><a onclick="LeadGen.Tracking.addSourceCode('csolib','wpwcrhn', this);return false;" href="/webcast/742059/?source=csolib">Your IT Journey - Your Way</a></li>
 										</ul>
 				<div id="morewebcasts">
 				»	<a href="/webcasts">View All  Webcasts</a>
@@ -705,12 +783,12 @@ Customer Service, TSG Department<br>
 					<div class="modHdrText"> White Papers</div>
 					</div>
 					<ul>
-											<li class="no_desc"><a onclick="LeadGen.Tracking.addSourceCode('csolib','wpwcrhn', this);return false;" href="/white-paper/733107/?source=csolib">Customer Profile: Bennet Jones LLP</a></li>
-											<li class="no_desc"><a onclick="LeadGen.Tracking.addSourceCode('csolib','wpwcrhn', this);return false;" href="/white-paper/733108/?source=csolib">How Organizations Are Improving Business Resiliency</a></li>
-											<li class="no_desc"><a onclick="LeadGen.Tracking.addSourceCode('csolib','wpwcrhn', this);return false;" href="/white-paper/733102/?source=csolib">Customer Profile: First National Technology Solutions</a></li>
-											<li class="no_desc"><a onclick="LeadGen.Tracking.addSourceCode('csolib','wpwcrhn', this);return false;" href="/white-paper/733101/?source=csolib">Customer Profile: University of Denver</a></li>
-											<li class="no_desc"><a onclick="LeadGen.Tracking.addSourceCode('csolib','wpwcrhn', this);return false;" href="/white-paper/734933/?source=csolib">eBook: Security for a faster world</a></li>
-											<li class="no_desc"><a onclick="LeadGen.Tracking.addSourceCode('csolib','wpwcrhn', this);return false;" href="/white-paper/734926/?source=csolib">Top 8 Identity &amp; Access Management Challenges with SaaS Apps</a></li>
+											<li class="no_desc"><a onclick="LeadGen.Tracking.addSourceCode('csolib','wpwcrhn', this);return false;" href="/white-paper/742439/?source=csolib">Cloud licensing and software asset mangement</a></li>
+											<li class="no_desc"><a onclick="LeadGen.Tracking.addSourceCode('csolib','wpwcrhn', this);return false;" href="/white-paper/742433/?source=csolib">Are You Prepared for a Software Audit?</a></li>
+											<li class="no_desc"><a onclick="LeadGen.Tracking.addSourceCode('csolib','wpwcrhn', this);return false;" href="/white-paper/742435/?source=csolib">SAM in an imperfect world</a></li>
+											<li class="no_desc"><a onclick="LeadGen.Tracking.addSourceCode('csolib','wpwcrhn', this);return false;" href="/white-paper/742434/?source=csolib">Why Partner With a SAM Provider?</a></li>
+											<li class="no_desc"><a onclick="LeadGen.Tracking.addSourceCode('csolib','wpwcrhn', this);return false;" href="/white-paper/742422/?source=csolib">Reach Your Enterprise Mobility Goals Faster</a></li>
+											<li class="no_desc"><a onclick="LeadGen.Tracking.addSourceCode('csolib','wpwcrhn', this);return false;" href="/white-paper/742420/?source=csolib">Business Value Unwired-The Key to Mobile Success</a></li>
 										</ul>
 				<div id="morewhitepapers">
 				»	<a href="/white-papers">View All  White Papers</a>
@@ -740,28 +818,28 @@ Customer Service, TSG Department<br>
 	    <tbody>
 	    <tr valign="top">
 		  	      	      <td width="50%">
-	        	          <p><a onclick="LeadGen.Tracking.addSourceCode('csolib','wpmodule', this);return false;" href="/white-paper/733107/?source=csolib" name="&amp;lpos=White Papers">Customer Profile: Bennet Jones LLP</a></p>
-				          <p><a onclick="LeadGen.Tracking.addSourceCode('csolib','wpmodule', this);return false;" href="/white-paper/733108/?source=csolib" name="&amp;lpos=White Papers">How Organizations Are Improving Business Resiliency</a></p>
-				          <p><a onclick="LeadGen.Tracking.addSourceCode('csolib','wpmodule', this);return false;" href="/white-paper/733102/?source=csolib" name="&amp;lpos=White Papers">Customer Profile: First National Technology Solutions</a></p>
-				          <p><a onclick="LeadGen.Tracking.addSourceCode('csolib','wpmodule', this);return false;" href="/white-paper/733101/?source=csolib" name="&amp;lpos=White Papers">Customer Profile: University of Denver</a></p>
-				          <p><a onclick="LeadGen.Tracking.addSourceCode('csolib','wpmodule', this);return false;" href="/white-paper/734933/?source=csolib" name="&amp;lpos=White Papers">eBook: Security for a faster world</a></p>
-				          <p><a onclick="LeadGen.Tracking.addSourceCode('csolib','wpmodule', this);return false;" href="/white-paper/734926/?source=csolib" name="&amp;lpos=White Papers">Top 8 Identity &amp; Access Management Challenges with SaaS Apps</a></p>
-				          <p><a onclick="LeadGen.Tracking.addSourceCode('csolib','wpmodule', this);return false;" href="/white-paper/732557/?source=csolib" name="&amp;lpos=White Papers">The Importance of Managing Privileged Accounts</a></p>
-				          <p><a onclick="LeadGen.Tracking.addSourceCode('csolib','wpmodule', this);return false;" href="/white-paper/732558/?source=csolib" name="&amp;lpos=White Papers">Controlling &amp; Managing Super User Access</a></p>
-				          <p><a onclick="LeadGen.Tracking.addSourceCode('csolib','wpmodule', this);return false;" href="/white-paper/734629/?source=csolib" name="&amp;lpos=White Papers">Cloud Impacts and Outcomes for Business Leaders</a></p>
-				          <p><a onclick="LeadGen.Tracking.addSourceCode('csolib','wpmodule', this);return false;" href="/white-paper/734619/?source=csolib" name="&amp;lpos=White Papers">Wanted: A Trusted Provider for Public Cloud Services</a></p>
+	        	          <p><a onclick="LeadGen.Tracking.addSourceCode('csolib','wpmodule', this);return false;" href="/white-paper/742439/?source=csolib" name="&amp;lpos=White Papers">Cloud licensing and software asset mangement</a></p>
+				          <p><a onclick="LeadGen.Tracking.addSourceCode('csolib','wpmodule', this);return false;" href="/white-paper/742433/?source=csolib" name="&amp;lpos=White Papers">Are You Prepared for a Software Audit?</a></p>
+				          <p><a onclick="LeadGen.Tracking.addSourceCode('csolib','wpmodule', this);return false;" href="/white-paper/742434/?source=csolib" name="&amp;lpos=White Papers">Why Partner With a SAM Provider?</a></p>
+				          <p><a onclick="LeadGen.Tracking.addSourceCode('csolib','wpmodule', this);return false;" href="/white-paper/742435/?source=csolib" name="&amp;lpos=White Papers">SAM in an imperfect world</a></p>
+				          <p><a onclick="LeadGen.Tracking.addSourceCode('csolib','wpmodule', this);return false;" href="/white-paper/742422/?source=csolib" name="&amp;lpos=White Papers">Reach Your Enterprise Mobility Goals Faster</a></p>
+				          <p><a onclick="LeadGen.Tracking.addSourceCode('csolib','wpmodule', this);return false;" href="/white-paper/742420/?source=csolib" name="&amp;lpos=White Papers">Business Value Unwired-The Key to Mobile Success</a></p>
+				          <p><a onclick="LeadGen.Tracking.addSourceCode('csolib','wpmodule', this);return false;" href="/white-paper/742416/?source=csolib" name="&amp;lpos=White Papers">How Identity and Access Intelligence Will Revolutionize IAM</a></p>
+				          <p><a onclick="LeadGen.Tracking.addSourceCode('csolib','wpmodule', this);return false;" href="/white-paper/742412/?source=csolib" name="&amp;lpos=White Papers">Better Business Intelligence Through Enterprise Information Management Services</a></p>
+				          <p><a onclick="LeadGen.Tracking.addSourceCode('csolib','wpmodule', this);return false;" href="/white-paper/742410/?source=csolib" name="&amp;lpos=White Papers">Gartner Case Study "Securing BYOD with Network Access Control"</a></p>
+				          <p><a onclick="LeadGen.Tracking.addSourceCode('csolib','wpmodule', this);return false;" href="/white-paper/742409/?source=csolib" name="&amp;lpos=White Papers">EMA White Paper: Achieving NAC Results</a></p>
 				        	      </td>
 	      	      <td width="50%">
-	        	          <p><a onclick="LeadGen.Tracking.addSourceCode('csolib','wpmodule', this);return false;" href="/white-paper/734532/?source=csolib" name="&amp;lpos=White Papers">2012 HP Cyber Risk Report</a></p>
-				          <p><a onclick="LeadGen.Tracking.addSourceCode('csolib','wpmodule', this);return false;" href="/white-paper/734531/?source=csolib" name="&amp;lpos=White Papers">Know the Big Three</a></p>
-				          <p><a onclick="LeadGen.Tracking.addSourceCode('csolib','wpmodule', this);return false;" href="/white-paper/734530/?source=csolib" name="&amp;lpos=White Papers">A Universal Log Management Solution</a></p>
-				          <p><a onclick="LeadGen.Tracking.addSourceCode('csolib','wpmodule', this);return false;" href="/white-paper/734527/?source=csolib" name="&amp;lpos=White Papers">Big Security for Big Data</a></p>
-				          <p><a onclick="LeadGen.Tracking.addSourceCode('csolib','wpmodule', this);return false;" href="/white-paper/734526/?source=csolib" name="&amp;lpos=White Papers">Providing Security for Software Systems in the Cloud</a></p>
-				          <p><a onclick="LeadGen.Tracking.addSourceCode('csolib','wpmodule', this);return false;" href="/white-paper/734295/?source=csolib" name="&amp;lpos=White Papers">Integrated Systems and Streamlined Practices Propel New, Responsive IT Organizations</a></p>
-				          <p><a onclick="LeadGen.Tracking.addSourceCode('csolib','wpmodule', this);return false;" href="/white-paper/734288/?source=csolib" name="&amp;lpos=White Papers">Businesses are ready for a new approach to IT</a></p>
-				          <p><a onclick="LeadGen.Tracking.addSourceCode('csolib','wpmodule', this);return false;" href="/white-paper/734289/?source=csolib" name="&amp;lpos=White Papers">Expert Integrated Systems: A Next Generation Computing Platform</a></p>
-				          <p><a onclick="LeadGen.Tracking.addSourceCode('csolib','wpmodule', this);return false;" href="/white-paper/734290/?source=csolib" name="&amp;lpos=White Papers">Understanding Patterns of Expertise: Virtual Application Patterns</a></p>
-				          <p><a onclick="LeadGen.Tracking.addSourceCode('csolib','wpmodule', this);return false;" href="/white-paper/734287/?source=csolib" name="&amp;lpos=White Papers">The Power of Cloud: Driving Business Model Innovation</a></p>
+	        	          <p><a onclick="LeadGen.Tracking.addSourceCode('csolib','wpmodule', this);return false;" href="/white-paper/742364/?source=csolib" name="&amp;lpos=White Papers">When Good Backups Go Bad</a></p>
+				          <p><a onclick="LeadGen.Tracking.addSourceCode('csolib','wpmodule', this);return false;" href="/white-paper/742365/?source=csolib" name="&amp;lpos=White Papers">The Time for VM-Only Backup Technology Has Passed</a></p>
+				          <p><a onclick="LeadGen.Tracking.addSourceCode('csolib','wpmodule', this);return false;" href="/white-paper/742361/?source=csolib" name="&amp;lpos=White Papers">Taking the Leap to Virtualization</a></p>
+				          <p><a onclick="LeadGen.Tracking.addSourceCode('csolib','wpmodule', this);return false;" href="/white-paper/742353/?source=csolib" name="&amp;lpos=White Papers">Virtualization Data Protection</a></p>
+				          <p><a onclick="LeadGen.Tracking.addSourceCode('csolib','wpmodule', this);return false;" href="/white-paper/742257/?source=csolib" name="&amp;lpos=White Papers">Aligning CFO and CIO Priorities</a></p>
+				          <p><a onclick="LeadGen.Tracking.addSourceCode('csolib','wpmodule', this);return false;" href="/white-paper/742258/?source=csolib" name="&amp;lpos=White Papers">Organizing for the Cloud: Providing Additional Value to the Business by Optimizing the IT Operations Organization for Cloud</a></p>
+				          <p><a onclick="LeadGen.Tracking.addSourceCode('csolib','wpmodule', this);return false;" href="/white-paper/742255/?source=csolib" name="&amp;lpos=White Papers">Journey to Your Cloud Taking Your Organization From Reactive to Innovative</a></p>
+				          <p><a onclick="LeadGen.Tracking.addSourceCode('csolib','wpmodule', this);return false;" href="/white-paper/742256/?source=csolib" name="&amp;lpos=White Papers">Cloud Security Myths and Strategies Uncovered</a></p>
+				          <p><a onclick="LeadGen.Tracking.addSourceCode('csolib','wpmodule', this);return false;" href="/white-paper/742246/?source=csolib" name="&amp;lpos=White Papers">ESG Whitepaper - Your Next Generation Data Center Starts with Virtualization</a></p>
+				          <p><a onclick="LeadGen.Tracking.addSourceCode('csolib','wpmodule', this);return false;" href="/white-paper/742247/?source=csolib" name="&amp;lpos=White Papers">Beyond Cost Savings: Four Compelling Reasons to Expand Virtualization of Your IT Environment</a></p>
 				        	          <p class="more_wps"><a href="/white-papers">More White Papers</a>&nbsp;<a href="/white-papers">»</a></p>
 	        	      </td>
 	      	    </tr>
@@ -772,13 +850,15 @@ Customer Service, TSG Department<br>
 
         
 		          
-      <script language="JavaScript" type="text/javascript">
-        doubleclick_ad_tag_tile ++;
-	if (!self.ord) { ord = Math.random()*10000000000000000; }
-  	document.write('<script language="JavaScript" src="'+ad_server_url+'/adj/idge.cso.zone/;cmn=idge;pos=featuredsponsors;sz=958x340,947x365'+_rval+';ord='+ord+';tile='+doubleclick_ad_tag_tile+'?" type="text/javascript"><\/script>');</script><script language="JavaScript" src="http://ad.doubleclick.net/adj/idge.cso.zone/;cmn=idge;pos=featuredsponsors;sz=958x340,947x365;ord=6886848448762843;tile=4?" type="text/javascript"></script>
-    <noscript>
-        <a href="http://ad.doubleclick.net/jump/idge.cso.zone/;tile=7;pos=featuredsponsors;sz=958x340,947x365" target="_blank" style="border:none"><img src="http://ad.doubleclick.net/ad/idge.cso.zone/;tile=7;pos=featuredsponsors;sz=958x340,947x365" border="0" height="340" width="958" /></a>
-      </noscript>
+     <script language="JavaScript" type="text/javascript">
+   		googletag.cmd.push(function() {
+   		var typeMap=getAdTypeAndSizeMap();
+   		setPosition("featuredsponsors");
+      	var adSlot1 = googletag.defineSlot(typeMap['networkID'],[[958,340],[947,365]], "featuredsponsors");
+      	adSlot1.addService(googletag.pubads());
+        googletag.display('featuredsponsors');
+        });   
+   </script>
     
 
  
@@ -798,10 +878,14 @@ Customer Service, TSG Department<br>
 			<tbody>
 				<tr valign="top">
 															<td width="50%">
-				    						    	<p><a href="http://ad.doubleclick.net/clk;272540028;44746346;h?http://www.sans.org/info/130907" rel="nofollow">SANS Securing The Human Security Awareness Training - Get Free Demo Today</a></p>
+				    						    	<p><a href="http://pubads.g.doubleclick.net/gampad/clk?id=54362936&amp;iu=/8456/IDG.CSO_Enterprise" rel="nofollow">SANS Securing The Human Security Awareness Training - Get Free Demo Today</a></p>
+				    						    	<p><a href="http://pubads.g.doubleclick.net/gampad/clk?id=47804816&amp;iu=/8456/IDG.CSO_Enterprise" rel="nofollow">View the new eBook: Evolution of the Ethernet</a></p>
+				    						    	<p><a href="http://pubads.g.doubleclick.net/gampad/clk?id=46158416&amp;iu=/8456/IDG.CSO_Enterprise" rel="nofollow">Stop the damage from targeted attacks with advanced threat protection.</a></p>
 				    						</td>
 										<td width="50%">
-				    						    	<p><a href="http://ad.doubleclick.net/clk;270732954;44746346;q?https://www.bit9.com/forms/free-trial-kin/" rel="nofollow">Unauthorized Software Running In YOUR Environment? <br>Protect with Bit9</a></p>
+				    						    	<p><a href="http://pubads.g.doubleclick.net/gampad/clk?id=45157976&amp;iu=/8456/IDG.CSO_Enterprise" rel="nofollow">Identify your most critical vulnerabilities with Risk I/O</a></p>
+				    						    	<p><a href="http://pubads.g.doubleclick.net/gampad/clk?id=47791376&amp;iu=/8456/IDG.CSO_Enterprise" rel="nofollow">View Brocade's eBook on SDN: The next wave of networking innovation.</a></p>
+				    						    	<p><a href="http://pubads.g.doubleclick.net/gampad/clk?id=45157136&amp;iu=/8456/IDG.CSO_Enterprise" rel="nofollow">Apply intelligence to your identity and access equation with Courion.</a></p>
 				    						</td>
 									</tr>
 			</tbody>
@@ -848,26 +932,20 @@ Customer Service, TSG Department<br>
 </style>
 
 <div id="bottom"> 
-  
+	  
+	<script language="JavaScript" type="text/javascript">
+   		googletag.cmd.push(function() {
+   		var typeMap=getAdTypeAndSizeMap();
+   		setPosition("bottomleaderboard");
+      	var adSlot1 = googletag.defineSlot(typeMap['networkID'],typeMap['bottomleaderboard'], "bottom");
+      	adSlot1.addService(googletag.pubads());
+        googletag.display('bottom');
+        });   
+   </script>
+   
+    
 
-     <script language="JavaScript" type="text/javascript">
-            doubleclick_ad_tag_tile ++;
-		if (!self.ord) { ord = Math.random()*10000000000000000; }
-	    document.write('<iframe id="dclk1235" src="#" width="728" height="90" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" allowTransparency="true" scrolling=no borderCOLOR="#000000">');
-		if (navigator.userAgent.indexOf("Gecko")==-1) {
-			document.write('<script language="JavaScript" src="'+ad_server_url+'/adj/idge.cso.zone/;cmn=idge;pos=bottomleaderboard;sz=728x90;tagtype=iframe'+_rval+';ord='+ord+';tile='+doubleclick_ad_tag_tile+'?" type="text/javascript"><\/script>');
-		}
-		document.write('</iframe>');
 
-		if (document.getElementById('dclk1235')) {
-			document.getElementById('dclk1235').src = ''+ad_server_url+'/adi/idge.cso.zone/;cmn=idge;pos=bottomleaderboard;sz=728x90;tagtype=iframe)'+_rval+';ord='+ord+';tile='+doubleclick_ad_tag_tile+'?';
-		}
-	</script><iframe id="dclk1235" src="http://ad.doubleclick.net/adi/idge.cso.zone/;cmn=idge;pos=bottomleaderboard;sz=728x90;tagtype=iframe);ord=6886848448762843;tile=5?" width="728" height="90" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" allowtransparency="true" scrolling="no" bordercolor="#000000"></iframe>
-
-    <noscript>
-  	      <a href="http://ad.doubleclick.net/jump/idge.cso.zone/;tile=16;pos=bottomleaderboard;sz=728x90;tagtype=iframe" target="_blank" style="border:none"><img src="http://ad.doubleclick.net/ad/idge.cso.zone/;tile=16;pos=bottomleaderboard;sz=728x90;tagtype=iframe" border="0" height="90" width="728" /></a>
-  	    	</noscript>
-  	
 
 
 
