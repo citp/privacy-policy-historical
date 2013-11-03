@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ozlotteries.com privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014091207id_/http%3A//www.ozlotteries.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ozlotteries.com privacy policy that was archived on 2013-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131103033715id_/https%3A//www.ozlotteries.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -57,7 +57,7 @@ What are 'cookies'?
     * By disabling 'cookies', you will not be able to participate in some of the features offered by Ozlotteries.com.
     * Most Internet browsers are pre-set to accept cookies. If you prefer not to receive 'cookies', you may adjust your Internet browser to disable or to warn you when 'cookies' are used. As there are many browsers in the marketplace, the easiest way to change your settings is by searching for 'cookies' in your Help/Contents and Index options on your browser.
     * We recommend that you leave your 'cookies' enabled; otherwise you will not be able to purchase lottery entries with us.
-    * Our 'cookies' don't send us back any information about your computer or any other information on your hard drive.
+    * Our 'cookies' don't send us back any information about your computer (except your IP address) or any other information on your hard drive.
 
 
 
@@ -90,9 +90,10 @@ TMS may disclose your information to:
 
   * Its lottery-based game suppliers, their auditors, and/or their Regulators;
   * Your authorised representative (e.g. legal advisers) but only upon receipt of your written authorisation;
-  * Unrelated third parties to enable outsourcing of relevant functions relating to the provision of lottery-based gaming products and services and only for the primary purpose of providing those functions;
+  * Unrelated third parties to enable outsourcing of relevant functions relating to the provision of lottery-based gaming and marketing products and services and only for the primary purpose of providing those functions;
   * Professional advisers including but not limited to accountants, auditors and legal advisers; and
   * Courts, Government and regulatory authorities as required or authorised by law.
+  * You also consent to TMS providing your personal information to a third party located outside Australia. You also consent to any such third party storing your personal information. Any such third party will not be permitted to re-sell, use or share the data provided, without TMS's permission.
 
 
 
