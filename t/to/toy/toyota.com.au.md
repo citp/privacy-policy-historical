@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the toyota.com.au privacy policy that was archived on 2013-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130613110926id_/http%3A//www.toyota.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toyota.com.au privacy policy that was archived on 2013-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131103140609id_/http%3A//www.toyota.com.au/privacy) for the most accurate reproduction.*
 
 # Toyota Privacy Policy
 
@@ -328,27 +328,29 @@ Back to the top
 
 Toyota Insurance is a division of Andia and the brand behind a suite of insurance products and services. Toyota is a leading motor vehicle company in Australia. Toyota Insurance complements the renowned quality, reliability and durability of Toyota vehicles and the lifestyle needs of Toyota customers, providing them with a range of insurance products and services to help reduce the financial risk of owning and operating a vehicle. 
 
+[Toyota Privacy Policy - (PDF: 0.5MB - opens in new window)](https://web.archive.org/static/pdfs/toyota-privacy-policy.pdf)
+
 Back to the top
 
 ### About Andia
 
-Andia is a member of MS&AD Insurance Group Holdings Inc., which also includes Mitsui Sumitomo Insuranc Co., Ltd. MS&AD Insurance Group Holding Inc. is one of Japan's largest non-life insurance companies, with a worldwide network providing diversified insurance services through subsidiaries and branches in key cities in Asia, Australia, North America and Europe. 
+Andia is a member of MS&AD Insurance Group Holdings Inc., which also includes Mitsui Sumitomo Insurance Co., Ltd. MS&AD Insurance Group Holding Inc. is one of Japan's largest non-life insurance companies, with a worldwide network providing diversified insurance services through subsidiaries and branches in key cities in Asia, Australia, North America and Europe. 
 
-By combining our core expertise with the stength and resonance of the Toyota Group of Companies, we are uniquely placed to provide a niche suite of financial products and services. Andia is an APRA regulated general insurer and an Australian Financial Services Licence (AFSL) holder. 
+By combining our core expertise with the strength and resonance of the Toyota Group of Companies, we are uniquely placed to provide a niche suite of financial products and services. Andia is an APRA regulated general insurer and an Australian Financial Services Licence (AFSL) holder. 
 
 **Please note**
 
-In this Privacy Policy "we, us, our or Toyota Insurance refers to: 
+In this Privacy Policy 'we', 'us', 'our' or 'Toyota Insurance' refers to: 
 
-  * **Aioi Nissay Dowa Insurance Co., Ltd.**
+  * Aioi Nissay Dowa Insurance Co., Ltd. 
 
 ABN 39 096 302 466 
 
 AFSL Number 254489; and 
 
-  * **Aioi Management Australia Pty Ltd**
+  * Aioi Nissay Dowa Insurance Company Australia Pty Ltd
 
-ACN 132 524 282.
+ABN 11 132 524 282.
 
 
 
@@ -389,7 +391,8 @@ If necessary, we may also disclose your personal information to a third party (f
 
 Examples of third parties include other insurance companies, (to confirm your insurance profile), claims assessors, (when a claim requires assessment or investigation), the insurance reference bureau, consumer research organisations, a guarantor noted on a finance contract and finance companies (only if noted on your policy documents).
 
-In order to keep you informed of special offers, including new products and services, we may share your personal information on a confidential basis with the Toyota Group of companies. If you do not wish to receive such information, you may contact us by calling **137 200**. You can elect to receive or cease receiving information at any time by simply calling that number.
+In order to keep you informed of special offers, including new products and services, we may share your personal information on a confidential basis with the Toyota Group of companies. If you do not wish to receive such information, you may contact us by calling   
+**137 200**. You can elect to receive or cease receiving information at any time by simply calling that number.
 
 Back to the top
 
@@ -441,6 +444,6 @@ If you believe we may have compromised your Privacy or breached the National Pri
 
 You will receive a response no later than 5 business days after receipt of your contact. You will be sent a final decision in writing no later than 15 business days after you contact us, if we have all the necessary information to make that decision.
 
-If you disagree with our decision, you may refer your complaint to the Office of the Australian Information Commissioner by visiting [www.oaic.gov.au](http://www.oaic.gov.au/), calling **1300 363 992** or by emailing [enquiries@oaic.gov.au](mailto:enquiries@oaic.gov.au).
+If you disagree with our decision, you may refer your complaint to the Office of the Australian Information Commissioner by visiting [oaic.gov.au](http://www.oaic.gov.au/), calling **1300 363 992** or by emailing [enquiries@oaic.gov.au](mailto:enquiries@oaic.gov.au).
 
 Back to the top
