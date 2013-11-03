@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the targetproblaster.com privacy policy that was archived on 2013-01-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130105025241id_/http%3A//www.tomambrozewicz.com/privacy-policy-tpb.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the targetproblaster.com privacy policy that was archived on 2013-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131103093536id_/http%3A//www.tomambrozewicz.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
 **Privacy Policy**
 
-**The following describes the Privacy Policy for www.targetproblaster.com**
+**The following describes the Privacy Policy for www.tomambrozewicz.com**
 
 **Your Privacy**
 
-Your privacy is important to us at TargetPro Blaster. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. You agree to agree to these policies by virtue of using our website in a way that leads to you providing us with personal information. 
+Your privacy is important to us at tomambrozewicz.com. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. You agree to agree to these policies by virtue of using our website in a way that leads to you providing us with personal information. 
 
 **State Law & Accompanying Rights**
 
@@ -24,18 +24,18 @@ Under our Terms of Service and Conditions of Use, children under 18 are not allo
 
 When visiting our website, the IP address used to access our website may be logged along with the dates and times of access. This information is purely used to analyze trends, administer our website, track users movement, and gather broad demographic information for internal use such as statistical assessments and website improvement. Most importantly, any recorded IP addresses are not linked to personally identifiable information. 
 
-Other information may be collected as well by TargetPro Blaster, which is rather typical of most websites. For instance, the source that referred you to our website is generally known. Likewise, your duration on our website, and your destination when you leave our website can also be tracked. Other common data collected includes the type of operating system the computer you are using to access our website has. Similarly, the type of web browser is often noted. Again, this is common data collection, and helps ultimately produce a better end-user experience. 
+Other information may be collected as well by tomambrozewicz.com, which is rather typical of most websites. For instance, the source that referred you to our website is generally known. Likewise, your duration on our website, and your destination when you leave our website can also be tracked. Other common data collected includes the type of operating system the computer you are using to access our website has. Similarly, the type of web browser is often noted. Again, this is common data collection, and helps ultimately produce a better end-user experience. 
 
-Cookies are another common internet practice. Cookies are a key means of improving user experience by allows us to customize your use of our website. Simple information is transferred to your computer to allow the content and experience at www.targetproblaster.com to reflect your actions, preferences, and so on. You should simply make the assumption our website uses cookies, and note that you are free to make adjustments in your web browser to disable these or otherwise receive notification of cookies so you can take whatever desired action you so choose. Please understand that refusing cookies may cripple some of our website features and render some aspects useless to you. 
+Cookies are another common internet practice. Cookies are a key means of improving user experience by allows us to customize your use of our website. Simple information is transferred to your computer to allow the content and experience at www.tomambrozewicz.com to reflect your actions, preferences, and so on. You should simply make the assumption our website uses cookies, and note that you are free to make adjustments in your web browser to disable these or otherwise receive notification of cookies so you can take whatever desired action you so choose. Please understand that refusing cookies may cripple some of our website features and render some aspects useless to you. 
 
 At times, you will be fully aware of information received, as you are the direct source providing it. For instance, you may comment on a blog post, reply to an email (whether broadcast message or autoresponder), provide an email address, complete a survey, requests SMS, or otherwise. Likewise, purchases necessarily involve collecting certain information, such as credit card information, Paypal addresses, your physical address for billing and/or shipping, phone number, and so on. Refusing to provide some of this information may lead to us being unable to provide you with the products or services you’ve requested. 
 
-A prime example of limited access to our website is where some www.targetproblaster.com content may be protected by a username and password. Whether a username and password is generated by our website, or created by you, these will almost always be connected with some other information related to or connected with you. This is true since much content that is protected on the internet is subscription based, often paid for. Thus, the username
+A prime example of limited access to our website is where some www.tomambrozewicz.com content may be protected by a username and password. Whether a username and password is generated by our website, or created by you, these will almost always be connected with some other information related to or connected with you. This is true since much content that is protected on the internet is subscription based, often paid for. Thus, the username
 
-**CHANGE NOTICE:** As with any of our administrative and legal notice pages, the contents of this page can and will change over time. Accordingly, this page could read differently as of your very next visit. These changes are necessitated, and carried out by TargetPro Blaster, in order to protect you and our www.targetproblaster.com website. If this page is important to you, you should check back frequently as no other notice of changed content will be provided either before or after the change takes effect. 
+**CHANGE NOTICE:** As with any of our administrative and legal notice pages, the contents of this page can and will change over time. Accordingly, this page could read differently as of your very next visit. These changes are necessitated, and carried out by tomambrozewicz.com, in order to protect you and our www.tomambrozewicz.com website. If this page is important to you, you should check back frequently as no other notice of changed content will be provided either before or after the change takes effect. 
 
-**COPYRIGHT WARNING:** The legal notices and administrative pages on this website, including this one, have been diligently drafted by an attorney. We at TargetPro Blaster have paid to license the use of these legal notices and administrative pages on www.targetproblaster.com for your protection and ours. This material may not be used in any way for any reason and unauthorized use is policed via Copyscape to detect violators.
+**COPYRIGHT WARNING:** The legal notices and administrative pages on this website, including this one, have been diligently drafted by an attorney. We at tomambrozewicz.com have paid to license the use of these legal notices and administrative pages on www.tomambrozewicz.com for your protection and ours. This material may not be used in any way for any reason and unauthorized use is policed via Copyscape to detect violators.
 
 **QUESTIONS/COMMENTS/CONCERNS:** If you have any questions about the contents of this page, or simply wish to reach us for any other reason, you may do so by using our Contact information. 
 
-Contact Information - **webmaster@targetproblaster.com**
+Contact Information - **admin@tomambrozewicz.com**
