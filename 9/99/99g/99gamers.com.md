@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 99gamers.com privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602174059id_/http%3A//99gamers.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 99gamers.com privacy policy that was archived on 2013-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131103013527id_/http%3A//99gamers.com/privacy) for the most accurate reproduction.*
 
 # 99Gamers / Privacy Policy
 
@@ -85,6 +85,3 @@
 13.1 We may change this Privacy Policy from time to time based on your comments and our need to accurately reflect our data collection and disclosure practices. It is your responsibility to regularly check this Privacy Policy and if you are not in agreement with any changes then you should discontinue your membership and not use the Site. All changes to this policy will be effective immediately and any significant policies affecting member’s rights and responsibilities will also be notified to you separately on the Site.
 
 Last reviewed 15 October 2012.
-
-  
-
