@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bookfresh.com privacy policy that was archived on 2013-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130411030539id_/http%3A//www.bookfresh.com/security/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bookfresh.com privacy policy that was archived on 2013-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131103022734id_/http%3A//www.bookfresh.com/security/privacy-policy) for the most accurate reproduction.*
 
-# BookFresh
+# Privacy Policy : Appointment Software for Your Business - BookFresh
 
 ## Privacy and Security Policy BookFresh (hereinafter "Company")
 
