@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the socialtwist.com privacy policy that was archived on 2013-06-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130629195153id_/http%3A//www.socialtwist.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the socialtwist.com privacy policy that was archived on 2013-11-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131103114012id_/http%3A//www.socialtwist.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
     
@@ -74,7 +74,7 @@ $(document).ready(function(){
 
 
 <script type="text/javascript" charset="utf-8">
-function video(type, source)
+function video(type, source, updateDB, successCallback)
 {
 
 	if(type == 'form')
@@ -90,6 +90,26 @@ function video(type, source)
             reqelement.src = "../request-demo.jsp?src="+source;
         }
 	}
+	
+	else if(type == 'download')
+	{
+	    if(!source) {
+	        //Source has to be mentioned for download type. so returning empty.
+	        return;
+	    }
+        $("#req-overlay2").show();
+        var queryString = "src=" + source + "&updateDB=" + updateDB + "&successCallback=" + successCallback;
+        if (document.getElementById('req-container2').getElementsByTagName('iframe')[0]) {
+        	 document.getElementById('req-container2').getElementsByTagName('iframe')[0].src = 'download.jsp?'+queryString;
+        }
+        else {
+            var reqelement = document.createElement('iframe');
+            reqelement.frameborder = '0';
+            reqelement.style.border = '0';
+            reqelement.src = "../download.jsp?"+queryString;
+        }
+	}
+	
 	else if(type == 'subscribe')
 	{
         $("#req-overlay2").show();
@@ -136,12 +156,14 @@ function closeoverlay(evt)
 	    videoholder.removeChild(videoIframes[0]);
 	}
 	var eventObj = evt || window.event;
-	if(eventObj && eventObj.stopPropagation) {
-	    eventObj.stopPropagation();
-	}
-	else {
-	    eventObj.cancelBubble = true;
-	}
+	if(eventObj) {
+	    if(eventObj.stopPropagation) {
+	        eventObj.stopPropagation();
+	    }
+    	else {
+    	    eventObj.cancelBubble = true;
+    	}
+    }
 }
 </script>
 
@@ -235,6 +257,7 @@ function closeoverlay(evt)
                         </li-->
                         <li><a href="/how-it-works">How it Works</a></li>
                         <li><a href="/customers">Customers</a></li>
+                        <li><a href="/resources">Resources</a></li>
                         <li id="home-about"><a href="/vision">About Us</a>
                         <ul style="display: none;" class="sub-nav">
 	                        <div class="up-arrow"></div>
