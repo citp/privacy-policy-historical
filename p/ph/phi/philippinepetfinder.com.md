@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the philippinepetfinder.com privacy policy that was archived on 2013-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130413074828id_/http%3A//www.philippinepetfinder.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the philippinepetfinder.com privacy policy that was archived on 2013-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131103042058id_/http%3A//philippinepetfinder.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -15,3 +15,5 @@ This web site offers forums.  Please be inform that information posted in these
 Like many websites, Philippine Pet Finder use "cookies" to enhance the clients experience and gather information about visitors and visits to our websites. Cookies are small programs that enhance your use of the Internet, in general, and specifically Philippine Pet Finder use cookies to enhance your usage of our functions.
 
 The Privacy Policy can be motified anytime without notice to the client.
+
+Linet OI, Neff LL [cialis vs levitra](http://www.alabamageneric-cialis-online.info/?p=1 "india cialis"). Tell your doctor about all the prescription as well as over-the-counter medications you make use of [what cialis viagra do if and do taken together](http://buygenericcialislouisiana.info/?p=11 "buy cialis brand") Alcohol consumption can further lessen your high blood pressure and may increase certain uncomfortable side effects of Hyzaar [20mg cialis](http://floridabuy-generic-cialis-online.info/?p=23 "free pills coupon cialis 3"). 
