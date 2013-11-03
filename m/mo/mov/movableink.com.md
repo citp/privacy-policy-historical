@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the movableink.com privacy policy that was archived on 2013-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130511135550id_/http%3A//movableink.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the movableink.com privacy policy that was archived on 2013-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131103184133id_/https%3A//movableink.com/privacy) for the most accurate reproduction.*
 
 # Movable Ink | Privacy Policy
 
@@ -143,6 +143,6 @@ New Uses of Personal Information and Other Information. From time to time, we ma
 ### Contact Info
 
 Movable, Inc.  
-56 West 22nd Street  
-9th Floor  
-New York NY 10010 
+5 West 19th St  
+6th Floor  
+New York, NY 10011 
