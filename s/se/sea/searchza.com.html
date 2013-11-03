@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the searchza.com privacy policy that was archived on 2013-04-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130417183304id_/http%3A//searchza.com/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the searchza.com privacy policy that was archived on 2013-11-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131103184524id_/http%3A//www.searchza.com/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html dir="ltr" lang="en-US" xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
 <script type="text/javascript" src="/jquery-1.6.1.js"></script>
@@ -10,6 +10,22 @@
 <meta name="description" content="Your source for web sites in South Africa"><meta name="keywords" content="South Africa, South African, South Africa directory, South Africa search engine"><meta name="google-site-verification" content="wwZk9RgEUaMTLLNnQq7saWpqJLA7nTcZ42zFniJlK5M">
 <link rel="Shortcut Icon" href="http://images.ientrymail.com/searchza/redesign/favicon.ico">
 <link href="http://images.ientrymail.com/searchza/redesign/style.css" rel="stylesheet" type="text/css">
+<script type="text/javascript">
+$(document).ready(function() {
+	function openwindow(url) {
+	  var domainname = window.location.host;
+		$.cookie('ie_popup', '1', { expires: 1, path: '/', domain: domainname});
+		newwindow=window.open('http://www.webpronews.com/wp-content/themes/wpn_twentytwelve/js/jquery-popunder/ad.html','name','height=470,width=670,scrollbars=yes,toolbars=no');
+	if (window.focus) {newwindow.focus()}
+	  return false;
+  }
+	$('a').click(function(e) {
+    if ($.cookie('ie_popup') == null) {
+			openwindow();
+    }
+	});
+});
+</script>
 </head>
 
 <body>
@@ -58,7 +74,7 @@ $(document).ready(function() {
 	       }
         }
 });    function fblogin(){
-    var permishes='';
+    var permishes='email,publish_stream';
 if(remember.perms) permishes=remember.perms;
 
 FB.login(function(response) {
