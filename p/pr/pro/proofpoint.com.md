@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the proofpoint.com privacy policy that was archived on 2013-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130622075249id_/http%3A//www.proofpoint.com/company/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the proofpoint.com privacy policy that was archived on 2013-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131103075746id_/http%3A//www.proofpoint.com/company/privacy-policy.php) for the most accurate reproduction.*
 
 # Proofpoint Privacy Policy
 
-## [](https://privacy-policy.truste.com/click-with-confidence/ctv/en/www.proofpoint.com/seal_m)This Privacy Policy is effective as of March 15, 2011
+## [](https://privacy-policy.truste.com/click-with-confidence/ctv/en/www.proofpoint.com/seal_m)This Privacy Policy is effective as of September 12, 2013
 
 [](http://privacy-policy.truste.com/click-with-confidence/ctv/en/www.proofpoint.com/seal_m)Proofpoint understands the importance of safeguarding your privacy and we take this responsibility very seriously. We are providing the following Privacy Policy to inform you of our policies and procedures for the collection, use and disclosure of any information about you that we collect via www.proofpoint.com (this "Site") or by other means.
 
@@ -14,7 +14,7 @@ In this policy, "using" and "processing"information includes using cookies on a 
 
 Proofpoint, Inc. has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program does not cover information that may be collected through downloadable software. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please first contact the Proofpoint Privacy Policy Administrator at [privacy@proofpoint.com](mailto:privacy@proofpoint.com). If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint)
 
-Proofpoint, Inc. complies with the EU Safe Harbor framework as set forth by the Department of Commerce regarding the collection, use, and retention of data from the European Union. Information regarding the E.U. Safe Harbor Framework can be found at: <http://export.gov/safeharbor>.
+Proofpoint, Inc. complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. Proofpoint, Inc. has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Proofpoint's certification, please visit <http://www.export.gov/safeharbor/>.
 
 ### Information We Collect and Use
 
