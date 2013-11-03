@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the online-reference-tools.com privacy policy that was archived on 2012-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120526060155id_/http%3A//dm.alot.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the online-reference-tools.com privacy policy that was archived on 2013-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131103052425id_/http%3A//www.online-reference-tools.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
