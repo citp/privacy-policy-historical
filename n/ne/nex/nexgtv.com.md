@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nexgtv.com privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502173503id_/http%3A//nexgtv.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nexgtv.com privacy policy that was archived on 2013-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131103084757id_/http%3A//nexgtv.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # None
 
