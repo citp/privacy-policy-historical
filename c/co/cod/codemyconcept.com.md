@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the codemyconcept.com privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601065810id_/http%3A//codemyconcept.com/lb-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the codemyconcept.com privacy policy that was archived on 2013-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131103021233id_/http%3A//codemyconcept.com/lb-privacy) for the most accurate reproduction.*
 
 # 
 
