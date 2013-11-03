@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the searchapps.me privacy policy that was archived on 2013-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130508161508id_/http%3A//www.searchapps.me/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the searchapps.me privacy policy that was archived on 2013-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131103183950id_/http%3A//www.searchapps.me/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
