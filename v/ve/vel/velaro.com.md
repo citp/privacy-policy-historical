@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the velaro.com privacy policy that was archived on 2013-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130423071231id_/http%3A//www.velaro.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the velaro.com privacy policy that was archived on 2013-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131103055832id_/http%3A//www.velaro.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Velaro Live Chat Software Solutions
 
