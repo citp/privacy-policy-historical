@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the sms44.com privacy policy that was archived on 2012-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120512033018id_/http%3A//www.sms44.com/press-release/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sms44.com privacy policy that was archived on 2013-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131103055705id_/http%3A//www.sms44.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | sMs44.Com
+# Privacy Policy | SMS Text Messages Free Jokes Online Site [Hindi , English]
 
 This privacy statement discloses the privacy practices for all pages and  
 services offered by sMs44.com
 
 ### » Personally Provided Information
 
-You do not have to give us personal information to visit sMs44.com. If  
+You do not have to give us personal information to visit sMs44.com. If  
 you choose to provide us with additional information through an e-mail message,  
 inquiry form, comments, etc., we maintain the information as long as needed to  
 respond to your question, inquiry, or to fulfill the stated purpose of the  
@@ -30,22 +30,22 @@ identify an individual.
 ### » Group Subscription
 
 If users wish to subscribe to our group, we ask for contact information. Our  
-“SMS of the day” feature is powered by Google Groups. Recipients of our  
+“ **SMS** of the day” feature is powered by **Google Groups**. Recipients of our  
 newsletters can unsubscribe using the instructions listed at the end of the  
 e-mail.
 
 ### » SMS Subscription / Alerts
 
 You are asked to provide certain information if you request to receive daily  
-SMS alerts. We collect this information to keep our SMS broadcast as per the  
+**SMS** alerts. We collect this information to keep our **SMS** broadcast as per the  
 dynamics of our subscribers. Like all other instances, this information will  
 never be given/sold to third party, otherwise asked by the the Law of the Land.
 
 ### » Third Party Advertising Partners
 
-All users of sMs44 [Telecom News](http://www.sms44.com/press-release/) must keep this in mind that third parties may be  
+All users of sMs44 [SMS ](http://www.sms44.com/)must keep this in mind that third parties may be  
 placing and reading cookies on your browsers, or using web beacons to collect  
-information as a result of ad serving on sMs44.com.
+information as a result of ad serving on sMs44.com.
 
 For, instance one of our partners, Google uses the DoubleClick DART cookie on  
 sms44.com displaying AdSense for content ads. Similarly, other advertising  
@@ -53,7 +53,7 @@ partners may use their respective cookies to track advertising stats.
 
 ### » External Links
 
-Our web sites contain links to other sites. sMs44.com is not  
+Our web sites contain links to other sites. sMs44.com is not  
 responsible for the privacy practices or content of such other sites. We  
 encourage our users to be aware when they leave our site and to read the privacy  
 statements of each web site to which we may link that may collect personal  
