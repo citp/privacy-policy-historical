@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the velti.com privacy policy that was archived on 2012-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121115183100id_/http%3A//www.velti.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the velti.com privacy policy that was archived on 2013-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131103073356id_/http%3A//velti.com/privacy.php) for the most accurate reproduction.*
 
-# velti
+# Mobile Marketing and Advertising from Velti
 
-## Our online privacy policy
+## Privacy Policy for Velti.com
+
+### Our online privacy policy
 
 Velti has created this privacy policy (the "Site Policy") to demonstrate our commitment to the privacy of our web site visitors and the right of privacy throughout the Internet. Privacy on this Velti web site (the "Site") is of great importance to us. Because we gather important information from visitors to our Site, we have established this policy as a means to communicate our information gathering and dissemination practices. Velti will treat your personal information in accordance with the privacy statement in place at the time of collection of such information, or as you otherwise consent. By using this Site, you are agreeing to the terms of the Site Policy. We reserve the right to change the Site Policy. If we decide to make a material change to the Site Policy, we will post a notice at least thirty days prior to making any material changes. Your continued use of this Site, including use after the posting of any changes to these terms, will be deemed acceptance by you of the Site Policy.
 
@@ -20,9 +22,9 @@ You will find information on the following topics within this Site Policy:
 
 ### Anonymous Information
 
-You can visit the Site to read information about our company, products, and services without telling us who you are and without revealing any personal information. To improve the usefulness of our site, Velti measures and analyzes non-identifying, usage, and volume statistical information from Site visitors in order to administer our Site, and to constantly improve the quality of our service and site performance.
+You can visit the Site to read information about our company, products, and services without telling us who you are and without revealing any personal information. To improve the usefulness of our site, Velti measures and analyzes non-identifying, usage, and volume statistical information from Site visitors in order to administer our Site, and to constantly improve the quality of our service and site performance. 
 
-Information gathered may include, but is not limited to, the following: the activity of the Site visitor’s browser when the visitor is viewing the Site; the site path of visitors; and the time visitors come to the Site. Velti reserves the right to publish anonymous, aggregate summary information regarding its Site visitors for promotional purposes and as a representative audience for advertisers. Please note that this is not personal information, only general summaries of our visitors’ usage of the Site.
+Information gathered may include, but is not limited to, the following: the activity of the Site visitor's browser when the visitor is viewing the Site; the site path of visitors; and the time visitors come to the Site. Velti reserves the right to publish anonymous, aggregate summary information regarding its Site visitors for promotional purposes and as a representative audience for advertisers. Please note that this is not personal information, only general summaries of our visitors' usage of the Site.
 
 ### Personally Identifiable Information
 
@@ -36,7 +38,7 @@ Velti uses the information that we collect on the Site to contact you to further
 
 ### What Are Cookies
 
-Cookies are files that Web servers place on an Internet user’s computer that are designed to store basic information (such as visitor preferences). The use of cookies on this Site allows visitors to enjoy more seamless visits and more accurately measures visitor behavior on the Site. There are two types of cookies: session and persistent. Session cookies exist only during an Internet user’s online session. They disappear from the user’s computer when he/she closes the browser software. Persistent cookies remain on the user’s computer after the browser has been closed. The cookies used on the Site do not identify you personally. They merely recognize your browser, unless you choose to identify yourself voluntarily. You may choose to identify yourself for any one of the following reasons: by asking the browser to remember your username and password, by responding to a promotional offer, or by personalizing a web page or requesting more information on a product or service. Otherwise you remain anonymous.
+Cookies are files that Web servers place on an Internet user's computer that are designed to store basic information (such as visitor preferences). The use of cookies on this Site allows visitors to enjoy more seamless visits and more accurately measures visitor behavior on the Site. There are two types of cookies: session and persistent. Session cookies exist only during an Internet user's online session. They disappear from the user's computer when he/she closes the browser software. Persistent cookies remain on the user's computer after the browser has been closed. The cookies used on the Site do not identify you personally. They merely recognize your browser, unless you choose to identify yourself voluntarily. You may choose to identify yourself for any one of the following reasons: by asking the browser to remember your username and password, by responding to a promotional offer, or by personalizing a web page or requesting more information on a product or service. Otherwise you remain anonymous.
 
 ### How Velti Uses Cookies
 
@@ -66,14 +68,8 @@ The Site contains links to other web sites. Velti is not responsible for the pri
 
 ### Opt-Out Policy
 
-Velti offers its Site visitors a means for controlling the use of session information. If, at any time after registering for information, you change your mind about receiving information from us or about the use of information volunteered by you, please send us a request specifying your new choice to [unsubscribe@velti.com](mailto:unsubscribe@velti.com).
-
-### Updating your information
-
-We provide all visitors to the Site options for reviewing, changing, and modifying personally identifiable information previously provided. To update your organization's profile, user profiles, billing information or to discontinue the Service, email [registrations@velti.com](mailto:registrations@velti.com). Users can expect to receive a response to any such update request within thirty (30) days of Velti’s receipt of the same.
-
-We and our Subsidiaries will provide you with a copy of any personal information that you have provided in connection with your visit to this Site should you request it, but will require evidence of your identity. We and our Subsidiaries may require a nominal administration fee to cover our costs in providing such information. If you wish to access the personal information we have about you, or to correct factual errors in our records, please contact us as set forth in the "Contact Us" section below. To protect your privacy, we will take reasonable steps to help verify your identity before granting access or making corrections.
+Velti offers its Site visitors a means for controlling the use of session information. If, at any time after registering for information, you change your mind about receiving receipt of information from us. or about the use of information volunteered by you, If you no longer wish to receive emails from us, please send us a request specifying your new choice to [unsubscribe@velti.com](mailto:unsubscribe@velti.com "unsubscribe@velti.com.").
 
 ### Contact Us
 
-If you have questions, concerns, or suggestions regarding our Privacy Policy, we can be reached using the contact information on our [Contact Us](https://web.archive.org/web/20121115183100id_/http%3A//www.velti.com/contact-us.html) page.
+If you have questions, concerns, or suggestions regarding our Privacy Policy, we can be reached using the contact information on our Contact Us page.
