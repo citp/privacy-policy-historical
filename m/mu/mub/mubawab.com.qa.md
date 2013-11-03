@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mubawab.com.qa privacy policy that was archived on 2013-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130624095905id_/http%3A//www.mubawab.com.qa/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mubawab.com.qa privacy policy that was archived on 2013-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131103015133id_/http%3A//www.mubawab.com.qa/en/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Mubawab
 
