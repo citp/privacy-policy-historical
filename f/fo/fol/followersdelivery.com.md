@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the followersdelivery.com privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602031634id_/http%3A//followersdelivery.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the followersdelivery.com privacy policy that was archived on 2013-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131103082618id_/http%3A//followersdelivery.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | FOLLOWERS DELIVERY
 
