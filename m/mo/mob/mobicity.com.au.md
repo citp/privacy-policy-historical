@@ -1,14 +1,18 @@
-> *The following text is extracted and transformed from the mobicity.com.au privacy policy that was archived on 2013-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130508171703id_/http%3A//www.mobicity.com.au/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mobicity.com.au privacy policy that was archived on 2013-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131103152102id_/http%3A//www.mobicity.com.au/about/privacy.html) for the most accurate reproduction.*
 
 # Privacy | MobiCity Australia
+
+[](http://secure.trust-guard.com/certificates/1778)
 
 GloTech Services Ltd trades as MobiCity and is the owner of this site. This site and your data are transmitted via a 128-bit SSL secured link and stored in a secure database on our server. 
 
 GloTech Services Ltd recognises the importance of your privacy and understands your concerns about the security of your personal information. We are committed to protecting any personal information about you that we hold. 
 
-This privacy policy details how we generally manage your personal information and safeguard your privacy. These guidelines are subject to change. Any such changes will be made to this page. The National Privacy Principles from 21 December 2001 most private sector organisations in Australia must by law comply with the National Privacy Principles subject to the Privacy Act 1988 (Cth) ("NPPs"). We are bound by the NPPs. 
+This privacy policy details how we generally manage your personal information and safeguard your privacy. These guidelines are subject to change. Any such changes will be made to this page. The National Privacy Principles from 21 December 2001 most private sector organisations in Australia must by law comply with the National Privacy Principles subject to the Privacy Act 1988 (Cth) ("NPPs"). We are bound by the NPPs. In New Zealand, the United States of America and the United Kingdom and European Union have similar guidelines which we adhere to.
 
-Collecting personal information about you The kinds of personal information we hold: We only collect personal information that is necessary for us to perform our functions. 
+_The kinds of personal information we hold_
+
+We only collect personal information that is necessary for us to perform our functions. 
 
 The kinds of personal information we collect and hold will depend upon the services you request from us. However, it may include: 
 
@@ -20,51 +24,51 @@ The only personal information which we collect about you when you use our websit
 
 We do not disclose your personal information to third parties without your consent. As a matter of policy, we do not sell, rent or otherwise disclose lists of MobiCity website users or other customers of GloTech Services Ltd. 
 
-Collection of anonymous information 
+_Collection of anonymous information_
 
 As most websites do, we track usage patterns on our website on an anonymous aggregate basis. Your identity cannot reasonably be ascertained from this information. Each time you visit our website a web server makes a record of your visit. 
 
-Using and disclosing your personal information The purposes for which we collect and hold personal information and how we use it. We respect your privacy. 
+_Using and disclosing your personal information_
 
-Any personal information which we collect about you will be used to provide the goods and services we normally provide in the course of our business. We do not sell or rent contact lists of our customers. 
+We respect your privacy. Any personal information which we collect about you will be used to provide the goods and services we normally provide in the course of our business. We do not sell or rent contact lists of our customers. 
 
-We may use your personal information to contact you to discuss other matters relating to your service; for example, to conduct a survey or to analyse your usage and recommend a more appropriate plan. 
+We may use your personal information to contact you to discuss other matters relating to your service; for example, to conduct a survey. 
 
-We may also use your personal information to provide you with information about other products and services offered by us. If you would prefer not to receive this information, please let us know by email to admin@mobicity.com.au (attn: Privacy Officer). 
+We may also use your personal information to provide you with information about other products and services offered by us. If you would prefer not to receive this information, please let us know by email to sales@mobicity.com (attn: Privacy Officer). 
 
-Contracting out services and disclosures. 
+_Contracting out services and disclosures_
 
-We may disclose your personal information to our service entities and contract out some of our functions (such as bulk mailing of MobiCity and telemarketing of subscription renewals) to external service providers. 
+We may disclose your personal information to our service entities and contract out some of our functions to external service providers. 
 
 We may disclose your personal information to these external service providers but only so that they can provide the services that we have contracted out to them. 
 
-Credit accounts 
+_Credit accounts_
 
 If you have applied for a monthly credit account and we have approved your application, to the extent permitted by law we may share information about the status of your account with other credit providers and credit reporting agencies. 
 
-Emails you receive from us regarding publications, products, events and education 
+_Emails you receive from us regarding publications, products, events and education_
 
-How we collect personal information from you 
+If you provide us or have provided us with your email address, we may send emails to you containing GloTech Services Ltd information, such as newsletters. 
 
-If you provide us or have provided us with your email address, we may send emails to you containing GloTech Services Ltd information, such as newsletters. 
+We may use an "email management system" to automate the management and dispatch of these emails. The system operates by inserting link in the emails that we send to you that allow us to judge the effectiveness of a campaign or email. 
 
-We may use an "email management system" to automate the management and dispatch of these emails. The system operates by inserting tracking codes in the emails that we send to you. 
-
-The kind of personal information we collect about you 
+_The kind of personal information we collect about you_
 
 The tracking code allows us to collect personal information about you, such as whether you received and opened an email, and whether you clicked through to any links to our website. This information that we collect about you will be stored by our email management system. If you have joined our customer base and wish to be removed from our list at any time in the future, please follow the links within the email newsletter to do so. We also use Google's remarketing system which utilise's cookies in your web browser to show you dedicated content through Google's content system. To disable this service please remove the cookie from your web browser. 
 
-The purpose for which we collect the information about you 
+_The purpose for which we collect the information about you_
 
 The personal information that the email management system collects about you is used by us to: 
 
 ensure that you only receive correspondence that you have informed us that you wish to receive determine whether the information that we send to you is suitable for your interests, information needs and profile ensure that the email address that you have provided us is still operational determine whether emails that we send to you are received by you update a request that you make to us to unsubscribe from a publication that we send to you review the effectiveness and relevance of our emails to you by collecting other statistical information 
 
-Access to your personal information In most cases, you can gain access to personal information that we hold about you. 
+_Access to your personal information_
+
+__In most cases, you can gain access to personal information that we hold about you.
 
 We will handle requests for access to your personal information in accordance with the NPPs. 
 
-We encourage all requests for access to your personal information to be directed to the Privacy Officer by email to admin@glotechservices.com. 
+We encourage all requests for access to your personal information to be directed to the Privacy Officer by email to sales@mobicity.com. 
 
 We will deal with all requests for access to personal information as quickly as possible. 
 
