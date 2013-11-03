@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the marketingdonut.co.uk privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501235759id_/http%3A//www.marketingdonut.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marketingdonut.co.uk privacy policy that was archived on 2013-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131103115449id_/http%3A//www.marketingdonut.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy, cookies | Marketing Donut
 
 **Note: We do not pass your contact details or any other information about you as an individual to third parties of any kind (unless requested by you to do so, or unless required to do so by law), as detailed below.**
 
-This website is operated by BHP Information Solutions Ltd (BHP). We take your privacy seriously. This privacy policy describes how and why we obtain, store and process data which can identify you.
+This website is operated by Atom Content Marketing Ltd. We take your privacy seriously. This privacy policy describes how and why we obtain, store and process data which can identify you.
 
 ## The information we collect
 
@@ -18,9 +18,9 @@ We collect information about you so that we can personalise your use of the webs
 
 If you have registered on the website, cookies also allow you to log in automatically in the future. The cookie will be stored on your computer's hard drive and will remember your username and password.
 
-We also collect aggregated information about every single link and page on the Marketing Donut website, so we can measure the website's performance. This allows us to create more of the pages that users like and to remove unused content. It also allows BHP to attract sponsorship for each section of the Marketing Donut website.
+We also collect aggregated information about every single link and page on the Marketing Donut website, so we can measure the website's performance. This allows us to create more of the pages that users like and to remove unused content. It also allows Atom to attract sponsorship for each section of the Marketing Donut website.
 
-If you opt-in to subscribe to the newsletters (by ticking this preference when registering) you will, at a later date, be able to request additional content on particular topics. (This preference functionality will increase over time, as BHP provides a wider and deeper set of content to choose from.) You may update your contact preferences, or opt out of receiving the newsletter, at any time.
+If you opt-in to subscribe to the newsletters (by ticking this preference when registering) you will, at a later date, be able to request additional content on particular topics. (This preference functionality will increase over time, as Atom provides a wider and deeper set of content to choose from.) You may update your contact preferences, or opt out of receiving the newsletter, at any time.
 
 ## Who we disclose it to
 
@@ -30,7 +30,7 @@ In certain circumstances we may need to disclose information about you if you br
 
 ## Data protection
 
-BHP is registered with the Information Commissioner in the UK as a ‘data controller' in accordance with the provisions of the Data Protection Act 1998. Further details of the registration are available at [www.ico.gov.uk](http://www.ico.gov.uk/ "www.ico.gov.uk").
+Atom is registered with the Information Commissioner in the UK as a ‘data controller' in accordance with the provisions of the Data Protection Act 1998. Further details of the registration are available at [www.ico.gov.uk](http://www.ico.gov.uk/ "www.ico.gov.uk").
 
 ## Security
 
@@ -38,9 +38,9 @@ Keeping information about you secure is very important to us. However, no data t
 
 ## Questions?
 
-If you have any questions concerning anything on this page, please contact [info@bhpinfosolutions.co.uk](mailto:info@bhpinfosolutions.co.uk "BHP Info Solutions").
+If you have any questions concerning anything on this page, please contact [info@atomcontentmarketing.co.uk](mailto:info@atomcontentmarketing.co.uk)
 
-BHP Information Solutions Ltd
+[Atom Content Marketing Ltd](http://www.atomcontentmarketing.co.uk/ "Atom Content Marketing Ltd")
 
 4th Floor, Albert House, 111 Victoria Street, Bristol, BS1 6AX  
 Telephone: 0117 904 2224
