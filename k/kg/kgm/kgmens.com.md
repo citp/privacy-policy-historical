@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kgmens.com privacy policy that was archived on 2012-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121015113045id_/http%3A//www.kgstores.com/shop/ContentAttachmentView_-1_11153_10053____KGFAQPrivacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kgmens.com privacy policy that was archived on 2013-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131103015549id_/http%3A//www.kgstores.com/webapp/wcs/stores/servlet/ContentAttachmentView%3FcontentName%3DKGFAQPrivacy.html%26catalogId%3D12503%26langId%3D-1%26storeId%3D11153) for the most accurate reproduction.*
 
 # Men's and Women's Clothing, Childrens', Shoes, & Accessories - Designer Suits, Dress Shirts, Pants and dresses - K&G
 
