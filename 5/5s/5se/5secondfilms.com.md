@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 5secondfilms.com privacy policy that was archived on 2013-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130605231721id_/http%3A//5secondfilms.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 5secondfilms.com privacy policy that was archived on 2013-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131103021555id_/http%3A//5secondfilms.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy · 5-Second Films
 
