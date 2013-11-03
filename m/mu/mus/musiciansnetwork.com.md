@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the musiciansnetwork.com privacy policy that was archived on 2013-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130606072337id_/http%3A//www.musiciansnetwork.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the musiciansnetwork.com privacy policy that was archived on 2013-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131103060138id_/http%3A//www.musiciansnetwork.com/privacy.html) for the most accurate reproduction.*
 
 # Musicians Networks - DJ Equipment and Musical Instruments - Musicians Directory and Yellow Pages - Music Software Downloads
 
