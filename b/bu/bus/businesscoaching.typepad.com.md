@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the businesscoaching.typepad.com privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502024148id_/http%3A//businesscoaching.typepad.com/the_business_coaching_blo/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the businesscoaching.typepad.com privacy policy that was archived on 2013-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131103022625id_/http%3A//businesscoaching.typepad.com/the_business_coaching_blo/privacy-policy.html) for the most accurate reproduction.*
 
 # PRIVACY POLICY - Paul Simister's Business Coaching Blog
 
