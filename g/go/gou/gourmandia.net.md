@@ -1,37 +1,37 @@
-> *The following text is extracted and transformed from the gourmandia.net privacy policy that was archived on 2013-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130614043649id_/http%3A//www.gourmandia.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gourmandia.net privacy policy that was archived on 2013-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131103051714id_/http%3A//www.gourmandia.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Healthy Recipes, Video Recipes, Easy Recipes, Cooking Techniques, Diet Choices
 
-****_Last updated:_ **January 17, 2011**
+****_Last updated:_ **June 17, 2013**
 
-  * [About the Privacy Policy](http://www.gourmandia.net/about)
-  * Types of Information We Collect
-  * How We Collect and Use Personal Information
-  * Registration, Purchases; Other Information Submissions
-  * E-mail and Newsletters
-  * E-mail-A-Friend or Invite a Friend
-  * E-mail Change and Unsubscribing
-  * Gift Recipient Email Notification
-  * Public Forums: Message Board, Blogs
-  * Contests, Promotions, Offers and Surveys
-  * Customer Service
-  * Cookies, Web Beacons and Log Files
-  * Disclosure of Personal Information
-  * Own Business Purposes
-  * Protection of Gourmetrecipes.com and Others
-  * Business Transfers
-  * Children
-  * Third Party Advertising
-  * Third Party Links
-  * Third Party Sources
-  * Security
-  * Contact Us
+  * [About the Privacy Policy](http://gourmandia.com/privacy-policy#about)
+  * [Types of Information We Collect](http://gourmandia.com/privacy-policy#type)
+  * [How We Collect and Use Personal Information](http://gourmandia.com/privacy-policy#how)
+  * [Registration, Purchases; Other Information Submissions](http://gourmandia.com/privacy-policy#reg)
+  * [E-mail and Newsletters](http://gourmandia.com/privacy-policy#news)
+  * [E-mail-A-Friend or Invite a Friend](http://gourmandia.com/privacy-policy#email)
+  * [When You Use “Invite-A-Friend” or other referral services](http://gourmandia.com/privacy-policy#services)
+  * [Gift Recipient Email Notification](http://gourmandia.com/privacy-policy#gift)
+  * [Public Forums: Message Board, Blogs](http://gourmandia.com/privacy-policy#forums)
+  * [Contests, Promotions, Offers and Surveys](http://gourmandia.com/privacy-policy#contest)
+  * [Customer Service](http://gourmandia.com/privacy-policy#cust)
+  * [Cookies, Web Beacons and Log Files](http://gourmandia.com/privacy-policy#cookie)
+  * [Disclosure of Personal Information](http://gourmandia.com/privacy-policy#disclose)
+  * [Own Business Purposes](http://gourmandia.com/privacy-policy#own)
+  * [Protection of JFK IMPORT EXPORT LLC and Others](http://gourmandia.com/privacy-policy#protect)
+  * [Business Transfers](http://gourmandia.com/privacy-policy#business)
+  * [Children](http://gourmandia.com/privacy-policy#child)
+  * [Third Party Advertising](http://gourmandia.com/privacy-policy#third)
+  * [Third Party Links](http://gourmandia.com/privacy-policy#links)
+  * [Third Party Sources](http://gourmandia.com/privacy-policy#sources)
+  * [Security](http://gourmandia.com/privacy-policy#security)
+  * [Contact Us](http://gourmandia.com/privacy-policy#contact)
 
 
 
-**About the Gourmetrecipe.com Privacy Policy**
+**About the Gourmandia.com Privacy Policy**
 
-At Fondness Media, Inc. (“Fondness Media”), we recognize the importance of your privacy. That said, it’s understandable that you may be concerned with the information you provide to us or that is collected by us and how we use and disclose it. With these concerns in mind, we’ve developed the Fondness Media Privacy Policy, outlined below. This Privacy Policy explains Fondness Media’ privacy practices for visitors to our Website at http://gourmetrecipe.com (the “Website”). By using our Website, you consent to the collection, use and disclosure of your personal information as described in this Privacy Policy. This Privacy Policy is incorporated into and subject to the terms of the Fondness Media Terms and Conditions. We reserve the right to change this Privacy Policy at any time. If we make any material changes to our Privacy Policy, we will post a new policy on the Website and update the “last updated” date set forth above. Therefore, we encourage you to check our Privacy Policy whenever you visit the Website to see if it has been updated since your last visit. If you have any questions about our Privacy Policy, you can contact us at support@gourmetrecipe.com.
+At JFK IMPORT EXPORT LLC. (“JFK IMPORT EXPORT LLC”), we recognize the importance of your privacy. That said, it’s understandable that you may be concerned with the information you provide to us or that is collected by us and how we use and disclose it. With these concerns in mind, we’ve developed the JFK IMPORT EXPORT LLC Privacy Policy, outlined below. This Privacy Policy explains JFK IMPORT EXPORT LLC’ privacy practices for visitors to our Website at http://gourmandia.com (the “Website”). By using our Website, you consent to the collection, use and disclosure of your personal information as described in this Privacy Policy. This Privacy Policy is incorporated into and subject to the terms of the JFK IMPORT EXPORT LLC Terms and Conditions. We reserve the right to change this Privacy Policy at any time. If we make any material changes to our Privacy Policy, we will post a new policy on the Website and update the “last updated” date set forth above. Therefore, we encourage you to check our Privacy Policy whenever you visit the Website to see if it has been updated since your last visit. If you have any questions about our Privacy Policy, you can contact us at support@gourmandia.com.
 
 **Types of Information We Collect**
 
@@ -42,7 +42,7 @@ At Fondness Media, Inc. (“Fondness Media”), we recognize the importance of y
 
 **How We Collect and Use Personal Information**
 
-Gourmetrecipe.com collects personal information from you at several different points on our Website, as set forth below. In general, we use personal information for the purpose for which it was collected (such as to provide services or complete transactions you have requested, for billing purposes, and to anticipate and resolve problems with our Website and our products and services), for our own internal business operations, to respond to customer support inquiries and for other purposes as described below.
+Gourmandia.com collects personal information from you at several different points on our Website, as set forth below. In general, we use personal information for the purpose for which it was collected (such as to provide services or complete transactions you have requested, for billing purposes, and to anticipate and resolve problems with our Website and our products and services), for our own internal business operations, to respond to customer support inquiries and for other purposes as described below.
 
 **Registration, Purchases; Other Information Submissions**
 
@@ -61,7 +61,7 @@ Gourmetrecipe.com collects personal information from you at several different po
 
 
 **Communication**  
-As an Fondness Media member, you will receive our transactional business communications (e.g. e-mail address confirmation, administrative messages, etc.) at your e-mail address or street address. We might also send such communications to you through the Message Center. In addition you might be automatically enrolled in one or more of our e-mail subscription programs. While we reserve the right to send you our transactional business communications without offering you the opportunity to opt-out of receiving them, we do provide you with the opportunity to select whether or not you wish to continue to receive our subscription-based e-mails. You will also be given the opportunity to select whether to receive promotional offerings, such as renewal notifications and new product offerings.
+As an JFK IMPORT EXPORT LLC member, you will receive our transactional business communications (e.g. e-mail address confirmation, administrative messages, etc.) at your e-mail address or street address. We might also send such communications to you through the Message Center. In addition you might be automatically enrolled in one or more of our e-mail subscription programs. While we reserve the right to send you our transactional business communications without offering you the opportunity to opt-out of receiving them, we do provide you with the opportunity to select whether or not you wish to continue to receive our subscription-based e-mails. You will also be given the opportunity to select whether to receive promotional offerings, such as renewal notifications and new product offerings.
 
 **E-mail and Newsletters**
 
@@ -69,7 +69,7 @@ When you submit your e-mail address to us to initiate a subscription to one of o
 
 **E-mail-A-Friend**
 
-When you elect to use our referral service for e-mailing a recipe or other content to a friend, we ask you for your friend’s name and e-mail address. Fondness Media will automatically send your friend a one-time e-mail on your behalf which contains the recipe or other content, and which invites your friend to visit the Website. Fondness Media uses your friend’s name and e-mail address only to send this one-time e-mail, and does not store this information. If your friend does not wish to receive “e-mail-a-friend” messages to be sent on your behalf, he or she must contact you directly. Fondness Media users may not use our referral service to send unwanted spam to others.
+When you elect to use our referral service for e-mailing a recipe or other content to a friend, we ask you for your friend’s name and e-mail address. JFK IMPORT EXPORT LLC will automatically send your friend a one-time e-mail on your behalf which contains the recipe or other content, and which invites your friend to visit the Website. JFK IMPORT EXPORT LLC uses your friend’s name and e-mail address only to send this one-time e-mail, and does not store this information. If your friend does not wish to receive “e-mail-a-friend” messages to be sent on your behalf, he or she must contact you directly. JFK IMPORT EXPORT LLC users may not use our referral service to send unwanted spam to others.
 
 **Invite-A-Friend**
 
@@ -101,13 +101,13 @@ We collect personal information when you submit comments, questions or suggestio
 
 **Disclosure of Personal Information**
 
-Fondness Media will not sell, rent, or share personal information with third parties without your prior consent except in the limited circumstances described in this Privacy Policy.
+JFK IMPORT EXPORT LLC will not sell, rent, or share personal information with third parties without your prior consent except in the limited circumstances described in this Privacy Policy.
 
   * **Consent:** With your consent, we might disclose your personal information to third parties in order to provide you with products and services that you have requested. 
     * During or immediately following registration, you have the option to view and select offers from various third party companies that may be of interest to you, such as retailers and consumer products manufacturers. These offers are made available to you by our Co-Registration Vendors. If you choose to view these offers we will make information you provide during registration available to these vendors. The vendors will forward this information, along with any other information you provide in conjunction with your request, to companies you have selected in order to fulfill, or facilitate fulfillment of, your request(s). Our Co-Registration Vendors are contractually obligated to keep all such information confidential and to only use it for the purposes for which it was provided. If you do not select any of the available offers, the vendors will delete your information which they have been provided. Please note, however, that any information that is passed on by these vendors to third party companies that you select is subject to those third parties’ privacy practices. 
     * With your consent, we might disclose information you provide to us during registration to third parties in conjunction with (i) your entry into a contest or promotion, (ii) your request of an offer, or (iii) your participation in a survey or similar activity on the Website. You might be asked for additional information in order to enter the contest or promotion, request an offer, or participate in a survey. The third parties will use the information we provide to them, along with any information you provide during your entry, request, or participation, in order to (i) notify you if you have won a prize in a contest or sweepstakes, and (ii) to fulfill, or facilitate fulfillment of, requests for products or services you may make in connection with your entry, request, or participation. These third parties are contractually obligated to keep all such information confidential and to only use it for the purposes for which it was provided. When we provide information collected during a contest, promotion, offer, or survey on the Website to third parties, we always disclose this to you at the time of collection.
-  * **Fondness Media Own Business Purposes:** We use and disclose information about you for our own internal statistical, design, or operational purposes, such as to estimate our audience size, measure aggregate traffic patterns, and understand demographic, user interest, purchasing and other trends among our users. We might outsource these tasks and disclose personal information about you to third parties, provided the use and disclosure of your personal information by these third parties is restricted to performance of such tasks. We might also share personal information with third-party vendors who assist us in performing internal functions necessary to operate our business. We require our third party vendors to keep such information confidential and to only use the information for the purpose it was provided. 
-  * **Protection of Fondness Media and Others:** We disclose personal information when we believe it is appropriate to comply with the law (e.g., a lawful subpoena, warrant or court order); to enforce or apply this privacy policy or our other policies or agreements; to initiate, render, bill, and collect for amounts owed to us; to protect our or our users’ rights, property or safety; or to protect our users from fraudulent, abusive, or unlawful use of our Website; or if we reasonably believe that an emergency involving immediate danger of death or serious physical injury to any person requires disclosure of communications or justifies disclosure of personal information without delay. 
+  * **JFK IMPORT EXPORT LLC Own Business Purposes:** We use and disclose information about you for our own internal statistical, design, or operational purposes, such as to estimate our audience size, measure aggregate traffic patterns, and understand demographic, user interest, purchasing and other trends among our users. We might outsource these tasks and disclose personal information about you to third parties, provided the use and disclosure of your personal information by these third parties is restricted to performance of such tasks. We might also share personal information with third-party vendors who assist us in performing internal functions necessary to operate our business. We require our third party vendors to keep such information confidential and to only use the information for the purpose it was provided. 
+  * **Protection of JFK IMPORT EXPORT LLC and Others:** We disclose personal information when we believe it is appropriate to comply with the law (e.g., a lawful subpoena, warrant or court order); to enforce or apply this privacy policy or our other policies or agreements; to initiate, render, bill, and collect for amounts owed to us; to protect our or our users’ rights, property or safety; or to protect our users from fraudulent, abusive, or unlawful use of our Website; or if we reasonably believe that an emergency involving immediate danger of death or serious physical injury to any person requires disclosure of communications or justifies disclosure of personal information without delay. 
   * **Business Transfers:** Information about our users, including personal information, might be disclosed as part of any merger, acquisition, debt financing, sale of company assets, as well as in the event of an insolvency, bankruptcy or receivership in which personally identifiable information could be transferred to third parties as one of the business assets of the company. 
 
 
@@ -118,7 +118,7 @@ We do not intend, and the Website is not designed, to collect personal informati
 
 **Third Party Website Advertising - General**
 
-We use one or more third-party advertising companies to serve ads when you visit our Website. We do not share personal information about you with any third party advertiser unless you give us permission to do so, separate from any permission you provide during the registration process. These advertisers might seek to use cookies and Web beacons to track session data about the ads you have seen and types of things in which you appear interested. These advertisers might also use combined information about your visits to our Website and other Websites in order to provide advertisements about related goods and services of interest to you. Third party advertising networks may place a cookie on your computer to tailor ad content both on gourmetrecipe.com and on sites within the third party network that you visit in the future. If you would like more information about this practice and how to opt-out of having this information used by Network Advertising Initiative (NAI) companies, please [click here](http://www.networkadvertising.org/managing/index.asp).
+We use one or more third-party advertising companies to serve ads when you visit our Website. We do not share personal information about you with any third party advertiser unless you give us permission to do so, separate from any permission you provide during the registration process. These advertisers might seek to use cookies and Web beacons to track session data about the ads you have seen and types of things in which you appear interested. These advertisers might also use combined information about your visits to our Website and other Websites in order to provide advertisements about related goods and services of interest to you. Third party advertising networks may place a cookie on your computer to tailor ad content both on gourmandia.com and on sites within the third party network that you visit in the future. If you would like more information about this practice and how to opt-out of having this information used by Network Advertising Initiative (NAI) companies, please [click here](http://www.networkadvertising.org/managing/index.asp).
 
 **Third Party Links**
 
@@ -126,15 +126,18 @@ From time to time we might have links to other Websites from our Website. We do 
 
 **Third Party Sources**
 
-Fondness Media might also obtain information about you from third parties, such as demographic marketing information, address verification, or third party mailing lists, and add such information to, or combine it with, your personal information. Should we ever obtain this information and link it to you, we will treat it all as personal information under this Privacy Policy.
+JFK IMPORT EXPORT LLC might also obtain information about you from third parties, such as demographic marketing information, address verification, or third party mailing lists, and add such information to, or combine it with, your personal information. Should we ever obtain this information and link it to you, we will treat it all as personal information under this Privacy Policy.
 
 **Security**
 
-We use reasonable security measures to store and maintain personally identifying information so as to protect it from loss, misuse, alteration or destruction by unauthorized parties while it is under our control. We use secure socket layer (“SSL”) encryption when transmitting certain kinds of information, such as payment information, over the Internet. 
+We use reasonable security measures to store and maintain personally identifying information so as to protect it from loss, misuse, alteration or destruction by unauthorized parties while it is under our control. We use secure socket layer (“SSL”) encryption when transmitting certain kinds of information, such as payment information, over the Internet.   
+
 
 **Contact Us**
 
-If you have any questions or comments about this Privacy Policy, the privacy practices of this Web site, or your dealings with gourmetrecipe.com, please contact us at support@gourmetrecipe.com or use the following phone or fax number:   
-  
+If you have any questions or comments about this Privacy Policy, the privacy practices of this Web site, or your dealings with gourmandia.com, please contact us at support@gourmandia.com or use the following phone or fax number: 
+
 Phone: 1-613-244-0297  
-Fax: 1-613- 482-4614
+Fax: 1-613-
+
+482-4614
