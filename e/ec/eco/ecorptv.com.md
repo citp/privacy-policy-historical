@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ecorptv.com privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502012729id_/http%3A//ecorptv.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ecorptv.com privacy policy that was archived on 2013-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131103055823id_/http%3A//ecorptv.com/privacy) for the most accurate reproduction.*
 
 # Business Video Sharing, Video Hosting, Video Streaming
 
