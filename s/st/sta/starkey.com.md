@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the starkey.com privacy policy that was archived on 2013-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130522161220id_/http%3A//www.starkey.com/corporate/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the starkey.com privacy policy that was archived on 2013-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131103094905id_/http%3A//www.starkey.com/corporate/privacy-policy) for the most accurate reproduction.*
 
 # Starkey.com Privacy Policy
 
