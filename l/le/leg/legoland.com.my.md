@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the legoland.com.my privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603095626id_/http%3A//www.legoland.com.my/About/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the legoland.com.my privacy policy that was archived on 2013-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131103194338id_/http%3A//www.legoland.com.my/en/About/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy - LEGOLAND
 
