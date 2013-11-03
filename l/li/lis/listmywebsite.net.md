@@ -1,37 +1,17 @@
-> *The following text is extracted and transformed from the listmywebsite.net privacy policy that was archived on 2013-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130503001642id_/http%3A//www.listmywebsite.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the listmywebsite.net privacy policy that was archived on 2013-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131103090053id_/http%3A//www.listmywebsite.net/index.php%3Fpage%3DPrivacy_Policy) for the most accurate reproduction.*
 
-# Free Website Link Listing Directory - Submit and promote your website free - List My Website Directory
+# Privacy Policy
 
-[Home](https://web.archive.org/web/20130503001642id_/http%3A//www.listmywebsite.net/index.php) » Privacy Policy
+EcoWeb4u Web Solutions do respect the privacy of individuals who use the services provided on this Site, [http://www.ecoweb4u.com](http://www.ecoweb4u.com/). At the same time, we may collect the user's information of IP address, Web Browser and Operating System Versions in order to know the demographic information of the users. We only collect these information with the purpose of helping us in promoting our site's performances and compatibilities for the various browser versions and operating systems. This Privacy Policy is provided here to help our users understand how we deal with the information collected from the users.
 
-**List My Website Web Directory** do respect the privacy of individuals who use the services provided on this Site, [http://www.listmywebsite.net](http://www.listmywebsite.net/). At the same time, we may collect the user's information of IP address, Web Browser and Operating System Versions in order to know the demographic information of the users. We only collect these information with the purpose of helping us in promoting our site's performances and compatibilities for the various browser versions and operating systems. This Privacy Policy is provided here to help our users understand how we deal with the information collected from the users.
+All domain names and contents listed in this website are owned and copyrighted by their respective owners. We are not responsible and no control for the privacy practices or the content of such web sites. It is important to you to observe their privacy practices before using them for your own benefit.
 
-We uses cookies to keep track of users activities with our site. But the only personal information a cookie can contain is information you supply yourself. A cookie can not read data off your hard disk or read cookie files created by other sites.
+We uses cookies to keep track of users activities with our site. Any information submitted by the buyer will be used solely for the purpose of completing the transaction, delivering the product and addressing any customer service issues.
 
-All domain names and contents listed in this website are owned and copyrighted by their respective owners. **ListMyWebsite.Net** is not responsible and no control for the privacy practices or the content of such web sites. It is important to you to observe their privacy practices before using them for your own benefit.
+Our site's registration form requires users to provide us contact information such as their name and email address, date of birth, gender, hobbies, address and other demographic information. But, we WILL NEVER PASS OR SOLD your information to any third parties for any purposes.
 
-Our site's registration form requires users to provide us contact information such as their name and email address, date of birth, gender, address and other demographic information. But, we WILL NEVER PASS OR SOLD your information to any third parties for any purposes.
+Our comments form requires users to provide their e-mail address to write comments for the contents displayed thereby and their personal details are display along with their comments for the credibility of their expression. So, their name, country and email address are open to the public, any information given will be viewable to the general public.
 
-Our tell a friend form requires users to provide their name, e-mail address to post messages to their friends. We collect user's name, email address and ip address and send these information to the recipient together with the message. But, we won't save or store these information for any purposes.
+Our site's Resource Listing section contain links to other sites. But, we are not responsible and no control for the privacy practices or the content of such web sites. It is important to you to observe their privacy practices before using them for your own benefit.
 
-This policy may be revised over time as new features are added to the website. We will post our new privacy policy at <http://www.listmywebsite.net/privacy.php> So that you will always know what information we gather and how we might use that information. Please check this page to know the most current version of our Privacy Policy.
-
-**For questions, feedback or suggestions, please contact us at[ http://www.listmywebsite.net/contact.php](http://www.listmywebsite.net/contact.php).**
-
-Updated on 07.11.2010
-
-[](http://www.easycmswebsite.com/ "Easy to edit CMS website")
-
-| 
-
-[](http://secure.hostgator.com/~affiliat/cgi-bin/affiliates/clickthru.cgi?id=ecoweb4u-)  
-  
----|---  
-  
-### Statistics
-
-Categories: 20  
-Sub Categories: 565  
-Total Website Links: 8054  
-Members: 12986  
-
+We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here. This policy may be revised over time as new features are added to the website. We will post our new privacy policy in this page so that you will always know what information we gather and how we might use that information. Please check this page to know the most current version of our Privacy Policy.
