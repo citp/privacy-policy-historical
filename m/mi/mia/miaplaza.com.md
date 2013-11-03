@@ -1,26 +1,26 @@
-> *The following text is extracted and transformed from the miaplaza.com privacy policy that was archived on 2013-01-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130117094234id_/http%3A//www.always-icecream.com/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the miaplaza.com privacy policy that was archived on 2013-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131103090042id_/http%3A//always-icecream.com/help/privacy) for the most accurate reproduction.*
 
 # Always Icecream - Privacy Policy
 
-Always Icecream is a participant in Privo's Privacy Assurance Program. As part of participating in the Privacy Assurance Program, Always Icecream adheres to the strict information collection, use and disclosure requirements. Privo is an independent, third party organization committed to safeguarding children's personal information collected online and to helping parents and their children exercise control over personal information while exploring the Internet. The seal posted on this page indicates that Always Icecream has established privacy practices and has agreed to submit to Privo's oversight and consumer dispute resolution process. If you have questions or concerns about our privacy practices, please contact us at 860 253-2765 or privacy [at] always-icecream [dot] com. If you have further concerns after you have contacted Always Icecream, you can contact Privo directly at privacy@privo.com. 
+Effective Date: This policy was last updated on August 27, 2010. 
+
+Always Icecream is a participant in Privo's Privacy Assurance Program. As part of participating in the Privacy Assurance Program, Always Icecream adheres to the strict information collection, use and disclosure requirements. Privo is an independent, third party organization committed to safeguarding children's personal information collected online and to helping parents and their children exercise control over personal information while exploring the Internet. The seal posted on this page indicates that Always Icecream has established privacy practices and has agreed to submit to Privo's oversight and consumer dispute resolution process. If you have questions or concerns about our privacy practices, please contact us at (650) 644-7753 or privacy [at] always-icecream [dot] com. If you have further concerns after you have contacted Always Icecream, you can contact Privo directly at privacy@privo.com. 
 
 We will use reasonable efforts to comply with the stated privacy principles and will take prompt corrective action when we learn of any failure to comply with them. We sometimes release alpha and beta versions of our products, which are further refined before the release of the final version. Because these products are still in a test phase, we may not always catch an unintended privacy issue, despite our efforts to do so. As such, we welcome user feedback on any privacy concerns you may have. In light of the above and because of the complex and constantly changing nature of our technology and business, Always Icecream does not guarantee error-free performance under this privacy policy. Always Icecream or Miaplaza, Inc., shall not be liable for any incidental, consequential or punitive damages relating to this privacy policy. 
 
 Please read this privacy policy to learn more about:   
 1\. What personally identifiable information of yours is collected by Always Icecream.   
 2\. The use of cookies and log files.   
-3\. Children’s use of the site.   
+3\. Children’s use of the site or app.   
 4\. How the information is used.   
 5\. With whom the information may be shared.   
 6\. How you can access and change your Account information.   
 7\. What security procedures are in place to protect the loss, misuse or alteration of information collected by Always Icecream.   
 8\. How to contact us. 
 
-Always Icecream offers for its members a community designed for young girls, where they can interact with friends, practice school material, engage in learning activities, play games and view videos. The Service is provided through Always Icecream’s web site currently located at www.always-icecream.com ("Site"). Always Icecream is a service provided by miaplaza, Inc. (“Miaplaza”, also referred to in this Privacy Policy as “Miaplaza" or "Always Icecream”) of Menlo Park, California, USA. 
+Always Icecream offers for its members a community designed for young girls, where they can interact with friends, practice school material, engage in learning activities, play games and view videos. The Service is provided through Always Icecream’s web site currently located at www.always-icecream.com ("Site"). Always Icecream is a service provided by miaplaza, Inc. (“Miaplaza”, also referred to in this Privacy Policy as “Miaplaza" or "Always Icecream”) of PO Box 183, Menlo Park, CA 94026 USA. 
 
 Please note that this privacy policy is provided under, and subject to, the Always Icecream User Agreement. 
-
-Effective Date: This policy was last updated on August 27, 2010. 
 
 **Information Collection**   
 Trial Registration:   
@@ -78,7 +78,7 @@ Communication between Users:
 Certain parts of the site allow for text communication between any Always Icecream user, including a member’s:   
 • Profile   
 • Comments to games and videos   
-• Submissions to “motto” chats 
+• Submissions to “team” chats 
 
 Only a member’s friends see what is written in:   
 • Emails   
@@ -112,4 +112,4 @@ You can review the personal information you provided us and make any desired cha
 Always Icecream may update this privacy policy. In the event there are significant changes in the way we treat your personal information, we will send a notice to the primary email address specified in your Always Icecream account or by displaying a prominent notice on this site. However, it is your responsibility to review the privacy policy from time to time so you will be aware of changes. 
 
 **Questions or Comments**   
-If you have questions or comments about this privacy policy, please contact Johannes Ziegler, CEO Miaplaza Inc. as website operator and your point person for any concerns about privacy on Always Icecream. He can be reached at (860) 253-2765, via email johannes [dot] ziegler [at] miaplaza [dot] com, or by mail at PO Box 183, Menlo Park, CA 94026, USA. 
+If you have questions or comments about this privacy policy, please contact us at (650) 644-7753 or via email johannes [dot] ziegler [at] miaplaza [dot] com, or by mail at PO Box 183, Menlo Park, CA 94026 USA.
