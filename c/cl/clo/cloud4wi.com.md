@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cloud4wi.com privacy policy that was archived on 2013-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130427095434id_/http%3A//www.cloud4wi.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cloud4wi.com privacy policy that was archived on 2013-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131103193010id_/http%3A//www.cloud4wi.com/privacy-cloud4wi) for the most accurate reproduction.*
 
 # Privacy | Cloud4Wi
 
@@ -8,4 +8,4 @@ In order to respond to your questions or fulfill your requests, it may be necess
 
 WiTech has taken all appropriate measures to prevent unauthorized access to improper use and the inaccuracy of your personal information.
 
-WiTech will on its own initiative, or at your request, replenish, rectify or erase any incomplete, inaccurate or outdated personal data. You can update your contact information by e-mailing [privacy@witech.it](https://web.archive.org/web/20130427095434id_/http%3A//www.cloud4wi.com/privacy@witech.it%20) with the subject line heading of "Privacy Policy Request," or by updating the information via a web page. We may keep all information in an off-line form, for archival purposes or as otherwise required by law. Please note that if your information is removed from our databases, you may no longer be able to access certain areas of our web site requiring registration or a subscription.
+WiTech will on its own initiative, or at your request, replenish, rectify or erase any incomplete, inaccurate or outdated personal data. You can update your contact information by e-mailing [privacy@witech.it](https://web.archive.org/web/20131103193010id_/http%3A//www.cloud4wi.com/privacy@witech.it%20) with the subject line heading of "Privacy Policy Request," or by updating the information via a web page. We may keep all information in an off-line form, for archival purposes or as otherwise required by law. Please note that if your information is removed from our databases, you may no longer be able to access certain areas of our web site requiring registration or a subscription.
