@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the broadband.gov privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501210330id_/http%3A//www.fcc.gov/fccprivacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the broadband.gov privacy policy that was archived on 2013-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131103032949id_/http%3A//www.fcc.gov/fccprivacypolicy.html) for the most accurate reproduction.*
 
 # FCC Privacy Policy
 
