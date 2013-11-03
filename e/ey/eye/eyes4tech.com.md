@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the eyes4tech.com privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501084318id_/http%3A//www.eyes4tech.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eyes4tech.com privacy policy that was archived on 2013-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131103034913id_/http%3A//www.eyes4tech.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy Eyes4Tech
+# Privacy Policy Eyes4Tech - Eyes4Tech.COM
 
 **Privacy Policy for  [Eyes4Tech.COM](http://www.eyes4tech.com/)**
 
@@ -25,5 +25,3 @@ We also may use DART cookies for ad serving through Google’s DoubleClick, whic
 You can choose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security. However, this can affect how you are able to interact with our site as well as other websites. This could include the inability to login to services or programs, such as logging into forums or accounts.
 
 Deleting cookies does not mean you are permanently opted out of any advertising program. Unless you have settings that disallow cookies, the next time you visit a site running the advertisements, a new cookie will be added.
-
-[ ](http://www.dmca.com/Protection/Status.aspx?ID=35adfca9-1de3-4597-99a7-7e7e8ed630ad "DMCA")
