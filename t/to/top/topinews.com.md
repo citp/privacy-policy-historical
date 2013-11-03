@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the topinews.com privacy policy that was archived on 2012-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121208050442id_/http%3A//topinews.com/mainstream/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the topinews.com privacy policy that was archived on 2013-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131103074435id_/http%3A//topinews.in/mainstream/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | TopINews
 
