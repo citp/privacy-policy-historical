@@ -1,15 +1,16 @@
-> *The following text is extracted and transformed from the jobrapido.co.uk privacy policy that was archived on 2013-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130503221000id_/http%3A//uk.jobrapido.com/info/privacy-policy-iframe%3Fpopup) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobrapido.co.uk privacy policy that was archived on 2013-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131103150706id_/http%3A//uk.jobrapido.com/info/privacy-policy-iframe%3Fpopup) for the most accurate reproduction.*
 
 # 
 
 Privacy Policy  
 This Website collects Personal Data from its Users. The Personal Data is either collected automatically or provided voluntarily. Failure to provide the Personal Data may affect the use of the Site or the services offered. The purpose and methods of processing are set out below.  
 1\. Information regarding Data Processing Ownership  
-Jobrapido Srl (hereinafter "Jobrapido") is the Data Controller.  
-Jobrapido is a company member of the Evenbase Recruitment Ltd Group based in the UK and dedicated to recruitment services (“Evenbase Group”). For more information about the Evenbase Group, please visit www.evenbase.com.  
+Jobrapido Srl (hereinafter "Jobrapido") is the Data Controller.   
+Jobrapido is part of the Evenbase Recruitment Limited group of companies (the “Evenbase Network”) which is dedicated to recruitment services. For more information about the Evenbase Network, please visit <a href="http://www.evenbase.com">www.evenbase.com</a>.  
 Contact info:  
 Jobrapido Srl  
-Via Paleocapa, 7 - 20121 Milan (MI) – Italy  
+Via Paleocapa, 7 - 20121 Milan (MI) – Italy
+
 uk@jobrapido.com  
 2\. Data collected during navigation  
 When you visit the Jobrapido Website, it collects certain Personal Data, such as the pages you view, the links or buttons that you click, the date and time when you access the Site, your IP address, your web browser and the operating system you use (the "Navigation Data").
@@ -58,8 +59,9 @@ This form allows you to contact the job advertiser directly, and also to attach 
 Job Advertisers  
 This part of the site allows businesses to request information on the services Jobrapido offers for companies, such as posting job Ads on the Site. The Personal Data provided will be used for offers relating to the services mentioned, both through direct contact or by sending occasional email messages.
 
-Uploading your Curriculum Vitae onto the Evenbase Group's database to share it with recruiters  
-Jobrapido lets you upload your Curriculum Vitae onto the Evenbase Group’s database, making it and the Personal Data contained in your Curriculum Vitae available to recruiters who have subscribed to receive such information by email and/or to search for candidates in the Evenbase Group database using various search criteria (“Curriculum Services”). Curriculum Services are provided by the Evenbase Group and are subject to their legal terms and privacy policy (see www.evenbase.com for more information). You can amend, substitute your Curriculum Vitae or request that Curriculum Services are discontinued at any time.  
+Jobrapido lets you upload your Curriculum Vitae onto the Evenbase Network’s database, making it (and the Personal Data contained in your Curriculum Vitae) available to recruiters who have subscribed to receive such information by email and/or to search for candidates in the Evenbase Network database using various search criteria (“Curriculum Services”). Curriculum Services are provided by the Evenbase Network and are subject to their legal terms and privacy policy (see [www.evenbase.com](http://www.evenbase.com/) for more information). You can amend, substitute your Curriculum Vitae or request that Curriculum Services are discontinued at any time.
+
+  
 4\. Third party services  
 Jobrapido uses third party services for its statistics, for technical management and maintenance or to display advertisements on its Site. The list of services used, and thus the third parties, varies greatly depending on the national locations of the Site, making it technically impossible to list them in this document. We therefore suggest you contact us if you wish to receive complete information.
 
@@ -114,4 +116,4 @@ Data Controller
 The natural person, legal person, public administration and any other organization or association with the right, also jointly with another owner, to make the decisions regarding the purposes and methods of processing of personal data and the means used, including the security profile, in relation to the operation and use of this Site.
 
 User  
-The individual user of the services or products of the Site. 
+The individual user of the services or products of the Site.
