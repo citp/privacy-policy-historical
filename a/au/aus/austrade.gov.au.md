@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the austrade.gov.au privacy policy that was archived on 2013-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130527015819id_/http%3A//www.austrade.gov.au/Austrade-Privacy-Disclaimer/default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the austrade.gov.au privacy policy that was archived on 2013-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131103183651id_/http%3A//www.austrade.gov.au/About-Austrade/Site-information/austrade-privacy-disclaimer) for the most accurate reproduction.*
 
-# Privacy Disclaimer - For Australian exporters - Austrade - Austrade
+# Privacy Disclaimer - Austrade
 
-[](http://www.austrade.gov.au/PrintToPDF.aspx?url=http%3a%2f%2fwww.austrade.gov.au%2fAustrade-Privacy-Disclaimer%2fdefault.aspx%3fPrintToPDF%3dTrue&pagename=Privacy+Disclaimer+-+For+Australian+exporters+-+Austrade "utility-pdf")[](https://web.archive.org/Contact-us/default.aspx)[](https://web.archive.org/)[](https://web.archive.org/)
+[](http://www.austrade.gov.au/PrintToPDF.aspx?url=http%3a%2f%2fwww.austrade.gov.au%2fAbout-Austrade%2fSite-information%2faustrade-privacy-disclaimer%3fPrintToPDF%3dTrue&pagename=Privacy+Disclaimer "utility-pdf")[](https://web.archive.org/Contact-us/default.aspx)[](https://web.archive.org/)[](https://web.archive.org/)
 
 Austrade takes the issue of privacy very seriously, including user interactions with its websites.
 
