@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the justdoondo.com privacy policy that was archived on 2013-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130624084508id_/http%3A//justdoondo.com/index.php%3Fpage%3Dpage%26id%3D27) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the justdoondo.com privacy policy that was archived on 2013-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131103202009id_/http%3A//www.justdoondo.com/index.php%3Fpage%3Dpage%26id%3D27) for the most accurate reproduction.*
 
-# Privacy Policy - Justdoondo Classifieds: Post Free Classifieds Ads
+# Privacy Policy - Place Ads Free - Post Free Ads in India - Free Uk-Usa & Europe Local Classified Ads
 
 
     ## Privacy
