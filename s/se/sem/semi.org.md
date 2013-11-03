@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the semi.org privacy policy that was archived on 2013-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130514123841id_/http%3A//www.semi.org/en/About/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the semi.org privacy policy that was archived on 2013-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131103174723id_/http%3A//www.semi.org/en/About/PrivacyPolicy) for the most accurate reproduction.*
 
 # SEMI - PrivacyPolicy | SEMI.ORG
 
