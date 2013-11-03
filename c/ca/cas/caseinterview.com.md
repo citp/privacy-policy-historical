@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the caseinterview.com privacy policy that was archived on 2013-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130506080602id_/http%3A//www.caseinterview.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the caseinterview.com privacy policy that was archived on 2013-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131103143342id_/http%3A//www.caseinterview.com/privacy) for the most accurate reproduction.*
 
 # Privacy/Terms of Use
 
 The content on this blog is owned and copyrighted by Fast Forward Media, Inc.. Any content sent to CaseInterview.com, including all comments, messages, and contest entries become the property of Fast Forward Media, Inc. and can be used as needed.
 
-The information on this website is provided for informational purposes and is provided on an “as is” basis with no guarantees or warrantee of any kind. By using this website and the email newsletters associated with this website, you agree to hold Fast Forward Media, Inc. harmless for any actions you take based on the information presented and the results of those actions.
+The information on this website is provided for informational purposes and is provided on an "as is" basis with no guarantees or warrantee of any kind. By using this website and the email newsletters associated with this website, you agree to hold Fast Forward Media, Inc. harmless for any actions you take based on the information presented and the results of those actions.
 
 We collect information from you when you register on our site, place an order, subscribe to our newsletter, respond to a survey, fill out a form or click on links in email newsletters.
 
@@ -15,7 +15,7 @@ When ordering or registering on our site, as appropriate, you may be asked to en
 Any of the information we collect from you may be used in one of the following ways:
 
 • To personalize your experience  
-(to present you with more content on the website and via email related to your interests, and less content that doesn’t meet your interests)
+(to present you with more content on the website and via email related to your interests, and less content that doesn't meet your interests)
 
 • To improve our website  
 (we continually strive to improve our website offerings based on the information and feedback we receive from you)
