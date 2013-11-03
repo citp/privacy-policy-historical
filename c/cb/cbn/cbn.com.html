@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the cbn.com privacy policy that was archived on 2013-04-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130430162457id_/http%3A//www.cbn.com/about/privacy_notice.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the cbn.com privacy policy that was archived on 2013-11-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131103033944id_/http%3A//www.cbn.com/about/privacy_notice.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><!-- InstanceBegin template="/Templates/articlePage.dwt.aspx" codeOutsideHTMLIsLocked="true" --><head>
 
@@ -34,7 +34,7 @@
 <!-- InstanceParam name="streamSegment" type="text" value="" -->
 
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-<meta id="WTsv" name="WT.sv" content="VB252">
+<meta id="WTsv" name="WT.sv" content="NV256">
 
 
 
@@ -76,13 +76,19 @@ bPosition_Right = false; bPosition_Right1 = false; bPosition_Top = false; bPosit
 		setTimeout(function(){
 			$(".centerTD p, #centerTD p, #contentArea p,.centerTD blockquotes, #centerTD blockquotes, #contentArea blockquotes").biblereferencer();
 		},500);
+        $(document).trigger('CORE:HAS_INITIALIZED');
 	});
+    $(window).resize(function() {
+        $(document).trigger('CORE:HAS_RESIZED');
+    });
 </script>
+
 
 
 <script id="facebook-jssdk" async="" src="//connect.facebook.net/en_US/all.js#appId=119038841522128&amp;xfbml=1"></script></head>
 <body id="BodyID">
 
+<!--[if lte IE 6]><script src="/scripts/ie6/warning.js"></script><script>window.onload=function(){e("/scripts/ie6/")}</script><![endif]-->
 <a name="top" style="clear:both;"></a>
 <!--//#include virtual="/noindex/special/inc_ChristmasWrapper.html" -->
 <div id="wrapper">
@@ -156,7 +162,7 @@ bPosition_Right = false; bPosition_Right1 = false; bPosition_Top = false; bPosit
 				<li class="menuItemBlock"><a class="menuItem" href="/radio">Radio</a></li>
 				<li class="menuItemBlock"><a class="menuItem" href="/media/player/browse.aspx">Video</a></li>
 				<li class="menuItemBlock"><a class="menuItem" href="/media/player/?s=cbnlive-1">Live TV</a></li>
-				<li class="menuItemBlock"><a class="menuItem" href="/partners/about/">About CBN</a></li>
+				<li class="menuItemBlock" id="topMenu-AboutCBN"><a class="menuItem" href="/partners/about/?intcmp=GVSL0410">About CBN</a></li>
 				<li class="menuItemBlock" id="giveTest"><a class="menuItem" href="https://www.cbn.com/giving/700club/option.aspx?intcmp=GVSL0005_about">Give to CBN</a></li>
 			</ul>
 		</div>
@@ -175,8 +181,8 @@ bPosition_Right = false; bPosition_Right1 = false; bPosition_Top = false; bPosit
 				<li class="menuItemBlock interactive"><a class="menuItem" href="/communitypublic/interactiveblogs.aspx">Blogs</a></li>
 				<li class="menuItemBlock interactive"><a class="menuItem" href="http://my.cbn.com/">MyCBN</a></li>
 				<li class="menuItemBlock interactive"><a class="menuItem" href="http://shop.cbn.com">Shop CBN</a></li>
-				<li class="menuItemBlock interactive"><a href="/social_networks.aspx#facebook" class="menuItem">Facebook</a></li>
-				<li class="menuItemBlock interactive"><a class="menuItem" href="/social_networks.aspx#twitter">Twitter</a></li>
+				<li class="menuItemBlock interactive"><a href="/social_networks.aspx" class="menuItem">Social</a></li>
+				<li class="menuItemBlock interactive"><a class="menuItem" href="/superbook">Superbook</a></li>
 			</ul>
 </div>
 		
@@ -197,7 +203,7 @@ bPosition_Right = false; bPosition_Right1 = false; bPosition_Top = false; bPosit
 	}
 
 	document.write('<scr' + 'ipt type="text/javascript" src="' + OAS_url_bulletin + 'adstream_jx.ads/' + OAS_sitepage_bulletin + '/1' + OAS_RNS_bulletin + '@' + OAS_pos_bulletin + '?' + OAS_query_bulletin + '"></scr' + 'ipt>');
-	</script><script type="text/javascript" src="http://oascentral.cbn.com/RealMedia/ads/adstream_jx.ads/cbn.com/unknown/1902858545@Top3?"></script>
+	</script><script type="text/javascript" src="http://oascentral.cbn.com/RealMedia/ads/adstream_jx.ads/cbn.com/unknown/1416299391@Top3?"></script>
 </div>
 
 		
@@ -327,9 +333,9 @@ bPosition_Right = false; bPosition_Right1 = false; bPosition_Top = false; bPosit
 			</div>
 		</li>
 		<li>
-			<a class="iconButtonSmall print" href="http://www.cbn.com/about/privacy_notice.aspx?option=print"><span>Print Page</span></a>
+			<a class="iconButtonSmall print" href="/about/privacy_notice.aspx?option=print"><span>Print Page</span></a>
 		</li>
-		<li><a class="iconButtonSmall email" href="javascript:sendtofriendPop('http://www.cbn.com/about/privacy_notice.aspx')"><span>Email to a Friend</span></a></li>
+		<li><a class="iconButtonSmall email" href="javascript:sendtofriendPop('/about/privacy_notice.aspx')"><span>Email to a Friend</span></a></li>
 		<li><!-- ADDTHIS BUTTON BEGIN -->
 <a class="iconButtonSmall share" href="http://www.addthis.com/bookmark.php" onmouseover="return addthis_open(this, '', addthis_url, '[TITLE]')" onmouseout="addthis_close()" onclick="return addthis_sendto()"><span>Share With A Friend</span></a>
 <script type="text/javascript" src="http://s7.addthis.com/js/152/addthis_widget.js"></script>
@@ -375,7 +381,7 @@ bPosition_Right = false; bPosition_Right1 = false; bPosition_Top = false; bPosit
 </script>
 <script>
 var shareBlock = '';
-	shareBlock += '<div id="shareBlock" style="height:75px; overflow:hidden;">';
+	shareBlock += '<div id="shareBlock" style="height:75px;">';
 	shareBlock += '<table cellspacing="10" cellpadding="0" border="0" style="margin-bottom:20px;"><tr>';
 	shareBlock += '<td style="vertical-align:top"><fb:like send="false" layout="box_count" show_faces="false"></fb:like></td>';
 	shareBlock += '<td style="vertical-align:top; width:55px;"><g:plusone size="tall"></g:plusone></td>';
@@ -422,8 +428,8 @@ $(document).ready(function(){
   <div class="pane" id="sidebarGive">
 	<div id="sidebarGiveContent">
 		<div class="mboxDefault">
-		<a href="/giving/700club/option.aspx?intcmp=GVSL0003&amp;m=GVSL0003"><img src="/images/premiums/LifeBeyondTheGravePartII/LifeBeyondTheGrave2_sidebar.jpg" alt="Life Beyond the Grave, Part II" width="270" height="90" border="0"></a>
-		<p style="line-height:1.25em; margin-top: 10px; "><span style="font-size: 1.4em;"><strong><a href="/giving/700club/option.aspx?intcmp=GVSL0001&amp;m=GVSL0001">Become a CBN Partner</a></strong></span> and receive Gordon Robertson's <a href="/premiums/LifeBeyondTheGravePartII/?intcmp=GVSL0006&amp;m=GVSL0006"><em>Life Beyond the Grave, Part&nbsp;II</em></a> on DVD. 
+		<a href="/giving/700club/option.aspx?intcmp=GVSL0003&amp;m=GVSL0003"><img src="/images/premiums/HowShallWeNowLive/HowShallWeNowLive_sidebar.jpg" alt="Pat Robertson Teaches: How Shall We Now Live?" width="270" height="90" border="0"></a>
+		<p style="line-height:1.25em; margin-top: 10px; "><span style="font-size: 1.4em;"><strong><a href="/giving/700club/option.aspx?intcmp=GVSL0001&amp;m=GVSL0001">Become a CBN Partner</a></strong></span> and receive  <a href="/premiums/HowShallWeNowLive/?intcmp=GVSL0006&amp;m=GVSL0006"><em>Pat Robertson Teaches: How Shall We Now Live?</em></a> on DVD. 
 		Give through <a href="/giving/700club/pledgeExpress.aspx?intcmp=GVSL00217&amp;m=GVSL00217">Pledge Express</a> and receive <em>Power&nbsp;for&nbsp;Life</em> teaching CDs.</p>
 		<div>
           <div style="float:left; margin-right:5px;">CBN Partners are making a difference sharing the Gospel of Jesus Christ. <a href="/partners/?intcmp=GVSL0013&amp;m=GVSL0013">Find out how</a>.</div>
@@ -456,7 +462,8 @@ $(document).ready(function(){
 <!-- script to enable tabs in sidebar before DOM completely loads -->
 <script type="text/javascript">$(function() { $(".tabBlock, .headerContainer").tabs({ selected: 0 }); });</script>
 
-<div style="margin-bottom:15px; margin-top:15px;"><a href="https://itunes.apple.com/us/app/superbook-kids-bible-videos/id606378030?ls=1&amp;mt=8" target="_blank" onclick="try{omTrackSuperbook('PromoLink','Superbook Bible App Promo - 300x100','English')} catch (error) {}"><img src="http://dl2.cbn.com/ads/SB_BibleApp_300x100_2.jpg" alt="Superbook Kids Bible, Games &amp; Videos App" width="300" height="100" border="0"></a>
+
+<div style="margin-bottom:15px; margin-top:15px;"><!--<a href="https://www.cbn.com/giving/special/option.aspx?intcmp=GVSL0132" target='_blank' onclick="try{omTrackSuperbook('PromoLink','Superbook Bible App Promo - 300x100','English')} catch (error) {}"><img src='/images6/SB_Rahab_SBCLUB_300x100.jpg' alt='Join The Superbook DVD Club!' width='300' height='100' border='0' /></a><a href="https://www.cbn.com/giving/special/option.aspx?intcmp=GVSL0132"></a><a href="https://www.cbn.com/giving/special/option.aspx?intcmp=GVSL0132"></a>-->
 
 </div>
 <div id="sidebarEmail" class="whiteBlock">
@@ -593,7 +600,7 @@ $(document).ready(function(){
 				<li><a href="/about/visit/index.aspx">Visit CBN</a></li>
 				<li><a href="/employment/index.aspx">Job Opportunities</a></li>
 				<li><a href="http://www.regent.edu" target="_blank">Regent University</a></li>
-			    <li><a href="http://www.cbn.com/about/annualReports/index12.aspx">Financial Statements</a></li>
+			    <li><a href="/about/annualreports/index13.aspx">Financial Statements</a></li>
 			</ul>
 			<h2>Contact/Help</h2>
 			<ul class="horizontalList">
