@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the orkutnow.com privacy policy that was archived on 2013-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130403070539id_/http%3A//www.orkutnow.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the orkutnow.com privacy policy that was archived on 2013-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131103093352id_/http%3A//www.orkutnow.com/privacypolicy.php) for the most accurate reproduction.*
 
 # Orkutnow.com - Privacy Policy
 
