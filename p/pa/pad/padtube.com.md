@@ -1,10 +1,11 @@
-> *The following text is extracted and transformed from the padtube.com privacy policy that was archived on 2013-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130615074857id_/http%3A//www.padtube.com/aboutus.html%3Fsection%3DLegalInformation.PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the padtube.com privacy policy that was archived on 2013-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131103114146id_/http%3A//www.padtube.com/aboutus.html%3Fsection%3DLegalInformation.PrivacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 ## Privacy Statement
 
-  
+* * *
+
 **Information Logged Automatically**   
 padtube.com maintains web logs to help diagnose problems with our server and to administer our web site. This information is primarily used to track page traffic, search phrases used to find our site, and browsers or operating systems used so we can better serve our visitors. This information is not made public. 
 
