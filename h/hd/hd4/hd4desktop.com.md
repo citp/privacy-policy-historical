@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hd4desktop.com privacy policy that was archived on 2013-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130503225746id_/http%3A//hd4desktop.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hd4desktop.com privacy policy that was archived on 2013-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131103160642id_/http%3A//hd4desktop.com/privacy-policy) for the most accurate reproduction.*
 
 # HD4desktop.com - Privacy policy
 
@@ -16,4 +16,4 @@ During your visit, we do not collect any personally identifiable information abo
 
 **Image copyright**
 
-All the images are copyrighted by their respective owners. Please do not ask for permissions to use these images in your projects, as we do not own the copyrights for them. If you are a copyright holder of a specific image and wish your image to be removed, please [contact us](http://hd4desktop.com/contact/).
+All the images are copyrighted by their respective owners. Please do not ask for permissions to use these images in your projects, as we do not own the copyrights for them. If you are a copyright holder of a specific image and wish your image to be removed, please [contact us](https://web.archive.org/contact/).
