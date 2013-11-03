@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the honest.com privacy policy that was archived on 2013-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130412130126id_/https%3A//www.honest.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the honest.com privacy policy that was archived on 2013-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131103061612id_/https%3A//www.honest.com/privacy) for the most accurate reproduction.*
 
-# The Honest Company
+# Privacy Policy | The Honest Company
 
 Your privacy is very important to us. Our Privacy Policy spells out The Honest Company's commitment to respecting the privacy of the members and visitors to our site. We reserve the right to change this policy, which we'll do through online posting. We are very careful with what we do with your information.
 
@@ -44,7 +44,7 @@ We use this information to:
 To review and update your personal information to ensure it is accurate, contact us at:
 
 The Honest Company   
-1550 17th Street   
+2700 Pennsylvania Ave., Suite 1200   
 Santa Monica, CA 90404   
 Email: **[info@honest.com](mailto:info@honest.com)**   
 Phone: 1.888.862.8818 
@@ -74,7 +74,7 @@ If The Honest Company is involved in a merger, acquisition, or sale of all or a 
 You may choose to stop receiving our newsletter or marketing emails by following the unsubscribe instructions included in these emails, by updating your communications preferences in your membership account on our website, or you can contact us at:
 
 The Honest Company   
-1550 17th Street   
+2700 Pennsylvania Ave., Suite 1200   
 Santa Monica, CA 90404   
 Email: **[info@honest.com](mailto:info@honest.com)**   
 Phone: 1.888.862.8818 
@@ -104,7 +104,7 @@ We follow generally accepted industry standards to protect the personal informat
 If you have any questions about security on our Web site, you can contact us at:
 
 The Honest Company   
-1550 17th Street   
+2700 Pennsylvania Ave., Suite 1200   
 Santa Monica, CA 90404   
 Email: **[info@honest.com](mailto:info@honest.com)**   
 Phone: 1.888.862.8818 
@@ -118,7 +118,7 @@ We may update this privacy statement to reflect changes to our information pract
 You can contact us about this privacy statement by writing or emailing us at the address below:
 
 The Honest Company   
-1550 17th Street   
+2700 Pennsylvania Ave., Suite 1200   
 Santa Monica, CA 90404   
 Email: **[info@honest.com](mailto:info@honest.com)**   
 Phone: 1.888.862.8818 
