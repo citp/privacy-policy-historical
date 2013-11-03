@@ -1,8 +1,10 @@
-<!--The following is the downloaded HTML source of the myfuture.edu.au privacy policy that was archived on 2012-11-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121122002150id_/http%3A//myfuture.edu.au/en/Footer%2520Items/General/Privacy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the myfuture.edu.au privacy policy that was archived on 2013-11-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131103210622id_/http%3A//myfuture.edu.au/Footer%2520Items/General/Privacy.aspx) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head><title>
-	myfuture: Australia's career information service
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js"></script>
+  <meta http-equiv="Content-Script-Type" content="text/javascript"><meta http-equiv="Content-Style-Type" content="text/css"><title>
+	Myfuture: Privacy Policy
 </title><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><meta name="description" content="careers website"><meta name="keywords" content="myfuture"><meta name="language" content="en">
 <link rel="shortcut icon" href="/images/myfuture/favicon.ICO">
 <link rel="icon" type="image/png" href="/images/myfuture/favicon.png">
@@ -22,6 +24,8 @@
 
 
 <script type="text/javascript" src="/js/jquery/jquery-ui-1.8.16.custom.min.js"></script>
+<script type="text/javascript" src="/js/moment.min.js"></script>
+<script type="text/javascript" src="/js/jquery.dataTables.min.js"></script>
 
 
 
@@ -32,63 +36,79 @@
 
 
 
-<link href="/layouts/System/VisitorIdentification.aspx" rel="stylesheet" type="text/css">
 
+    
+    
     <script type="text/javascript">
         //<![CDATA[
         jQuery(document).ready(function($) {
-            $("#sitecontent").selectbox();
+            //$("#sitecontent").selectbox();
             $("ul.myFutureNav").myFutureNav();
 
             // 15/6/10 jb. This enables collapsible panels to be rendered by web controls. eg. In "The Facts" page.
             jQuery.collapsibleButtonPanel();
             jQuery.collapsibleLinkPanel();
         });
+
+
         //]]>
     </script>
 
 </head>
 <body class="MyFuture">
-    <form method="post" action="/en/Footer Items/General/Privacy.aspx" id="mainform">
+    <form method="post" action="/Footer Items/General/Privacy.aspx" id="mainform">
 <div class="aspNetHidden">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJMzA1NDk5NDY5D2QWAgIDEGRkFgJmDxUBEFVua25vd24gVW5rbm93bjBkZPddgWIcDVEOU/+XEGulC8ojvvWza3+8MP7kHLRCQ1Cv">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJODE3MDg0Nzc2D2QWAgIDEGRkFgJmDxUBEFVua25vd24gVW5rbm93bjBkZBnB7SaRiaAYAl9lEEJuE7TeqhN1">
 </div>
 
     <div id="mainWrapper" class="Unknown Unknown0">
-        <a name="top"></a><a href="/">
+        <a name="homeTop"></a><a href="/">
             <img width="160" height="170" class="img_man altText" src="/images/myguide/man.jpg?w=160&amp;h=170&amp;as=1" alt="my future logo" id="imgLogo">
         </a>
         <div id="headerBar">
             <div id="header-left">
                 <h1 class="img_myfuture">
-                    myfuture</h1>
+                    myfuture... Australia's career information &amp; exploration service</h1>
             </div>
             <div id="header-right">
-                <div id="search-site" name="search-site" class="headerForm">
-	<label id="sitecontentLabel" for="sitecontent"></label><select id="sitecontent" name="sitecontent" class="selectWrapper" tabindex="2">
-		<option text="All" value="all" selected="true">All</option><option text="Articles" value="Article">Articles</option><option text="Industries" value="Industry">Industries</option><option text="Occupations" value="Occupation">Occupations</option><option text="Education and Training Providers" value="Provider">Education and Training Providers</option><option text="Courses and programs" value="Course">Courses and programs</option><option text="Awards and Scholarships" value="Scholarship">Awards and Scholarships</option><option text="Contact organisations" value="Organisation">Contact organisations</option>
-	</select><label id="txtKeywordLabel" for="txtKeyword"></label><input type="text" id="txtKeyword" name="txtKeyword" class="searchWrapper" title="Keyword Search" value="Keyword Search..." maxlength="250" onkeydown="onSearchHomeKeydown()" onfocus="if(this.value=='Keyword Search...')this.value='';"><input type="image" id="btnHomeSearch" name="btnHomeSearch" class="search_submitIcon" alt="Search" src="/images/myguide/search_submitIcon.jpg" onclick="__doPostBack('headerrightsearch_0','Home')"><br><span class="advancedSearchButton"><a name="" href="/Search.aspx">Advanced Search</a><br></span>
+                <div id="search-site" class="headerForm">
+	<label id="sitecontentLabel" for="sitecontent" class="HiddenLabel">sitecontent</label><select id="sitecontent" name="sitecontent" class="selectWrapper" tabindex="2">
+		<option value="all" selected="selected">All</option><option value="Article">Articles</option><option value="CaseStudy">Case Studies</option><option value="Industry">Industries</option><option value="Occupation">Occupations</option><option value="Provider">Education and Training Providers</option><option value="Course">Courses and programs</option><option value="Scholarship">Awards and Scholarships</option><option value="Organisation">Contact organisations</option>
+	</select><label id="txtKeywordLabel" for="txtKeyword" class="HiddenLabel">txtKeyword</label><input type="text" id="txtKeyword" name="txtKeyword" class="searchWrapper" title="Keyword Search" value="Keyword Search..." maxlength="250" onkeydown="onSearchHomeKeydown()" onfocus="if(this.value=='Keyword Search...')this.value='';"><input type="image" id="btnHomeSearch" name="btnHomeSearch" class="search_submitIcon" alt="Search" src="/images/myguide/search_submitIcon.jpg" onclick="__doPostBack('headerrightsearch_0','Home')"><br><span class="advancedSearchButton"><a title="Advanced Search" href="/Search.aspx">Advanced Search</a></span>
 </div>
-                <h2> ... Australia's career information &amp; exploration service</h2>
+                
             </div>
         </div>
         <div id="MyGuideNavigation">
             <div class="right">
                 <div id="navMain">
                     <ul class="myFutureNav">
-	<li class="home"><a href="/en.aspx"><span>Home</span></a></li><li><a href="/en/MyGuide.aspx"><span>My Guide</span></a></li><li><a href="/en/The Facts.aspx"><span>The Facts</span></a></li><li><a href="/en/Assist Others.aspx"><span>Assist Others</span></a></li><li><a href="/en/Events.aspx"><span>News and Events</span></a></li><li><a href="/en/Help/myfuture FAQs.aspx"><span>FAQ</span></a></li><li><a href="/en/Help.aspx"><span>Help</span></a></li><li class="last"><a href="/en/Contact Us/Give Feedback.aspx"><span>Contact Us</span></a></li>
+	<li class="home"><a href="/home?IsMobile=1" style="width: 43px;"><span>Home</span></a></li><li><a href="/en/MyGuide.aspx" style="width: 67px;"><span>My Guide</span></a></li><li><a href="/en/The%20Facts.aspx" style="width: 69px;"><span>The Facts</span></a></li><li><a href="/en/Assist%20Others.aspx" style="width: 95px;"><span>Assist Others</span></a></li><li><a href="/en/Events.aspx" style="width: 119px;"><span>News and Events</span></a></li><li><a href="/en/Help/myfuture%20FAQs.aspx" style="width: 33px;"><span>FAQ</span></a></li><li><a href="/en/Help.aspx" style="width: 34px;"><span>Help</span></a></li><li class="last"><a href="/en/Contact%20Us/Give%20Feedback.aspx" style="width: 80px;"><span>Contact Us</span></a></li>
 </ul>
                 </div>
                 
 
+<script type="text/jscript">
+    jQuery(document).ready(function ($) {
+        $("div[id=breadCrumb] a").each(function () {
+            //var correcthref = encodeURIComponent(this.getAttribute("href"));
+            var correcthref = this.getAttribute("href");
+            this.setAttribute("href", correcthref.replace(" ", "%20"));
+            //alert(this.getAttribute("href"));
+        })
+    });
+</script>
+
 <div id="title">
-    <h1>
-        Privacy Policy</h1>
+    <h2 class="subTitle">
+        Privacy Policy</h2>
 </div>
 
 <div id="breadCrumb">
     <div class="link">
-        <a title=" Home" href="/en.aspx">Home</a> &gt; privacy policy
+        
+        You are here:
+            <a href="/en.aspx" title="Home">Home</a><span>privacy policy</span>
         
     </div>
 </div>
@@ -252,39 +272,39 @@ CANBERRA ACT 2601; or<br>
 
 <div id="siteInfo">
     <div class="copyrightAndInfo">
-        <span class="footerLinks">
+        <div class="footerLinks">
             
-                    <a href="/en.aspx">
+                    <a href="/Home?IsMobile=1">
                         home
                     </a>
                 
                     <span class="separator">|</span>
                 
-                    <a href="/en/Contact Us/Give Feedback.aspx">
+                    <a href="/Contact%20Us/Give%20Feedback.aspx">
                         contact us
                     </a>
                 
                     <span class="separator">|</span>
                 
-                    <a href="/en/Footer Items/General/Terms and Conditions.aspx">
+                    <a href="/Footer%20Items/General/Terms%20and%20Conditions.aspx">
                         terms &amp; conditions
                     </a>
                 
                     <span class="separator">|</span>
                 
-                    <a href="/en/Footer Items/General/Privacy.aspx">
+                    <a href="/Footer%20Items/General/Privacy.aspx">
                         privacy policy
                     </a>
                 
                     <span class="separator">|</span>
                 
-                    <a href="/en/Footer Items/General/Credits.aspx">
+                    <a href="/Footer%20Items/General/Credits.aspx">
                         credits
                     </a>
+                                
+                    <a class="topLink" href="#homeTop" title="go on top">&nbsp;</a>
                 
-                    <a class="topLink" href="#top">&nbsp;</a>
-                
-        </span>
+        </div>
         <p class="copyright">Copyright © myfuture 2012</p>
     </div>
     <div class="statement">
