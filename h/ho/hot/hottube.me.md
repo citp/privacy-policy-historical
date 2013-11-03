@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hottube.me privacy policy that was archived on 2013-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130415005731id_/http%3A//www.hottube.me/static/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hottube.me privacy policy that was archived on 2013-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131103032658id_/http%3A//www.hottube.me/static/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - hottube.me
 
