@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the publicknowledge.org privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601104201id_/http%3A//publicknowledge.org/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the publicknowledge.org privacy policy that was archived on 2013-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131103164819id_/http%3A//www.publicknowledge.org/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Public Knowledge
 
