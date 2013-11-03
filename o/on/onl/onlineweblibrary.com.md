@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onlineweblibrary.com privacy policy that was archived on 2013-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130627092832id_/http%3A//www.onlineweblibrary.com/index.php%3Foption%3Dcom_content%26task%3Dview%26id%3D2764%26Itemid%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlineweblibrary.com privacy policy that was archived on 2013-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131103050901id_/http%3A//www.onlineweblibrary.com/index.php%3Foption%3Dcom_content%26task%3Dview%26id%3D2764%26Itemid%3D1) for the most accurate reproduction.*
 
 # Privacy - onlineweblibrary.com
 
