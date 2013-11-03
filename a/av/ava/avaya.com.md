@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the avaya.com privacy policy that was archived on 2011-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111214124420id_/http%3A//www.avaya.com/gcm/master-usa/en-us/includedcontent/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the avaya.com privacy policy that was archived on 2013-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131103061205id_/http%3A//www.avaya.com/gcm/master-usa/en-us/includedcontent/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Statement - Avaya
 
@@ -20,9 +20,9 @@ Basking Ridge, NJ 07920
 Email: executiveoffic@avaya.com  
 Web site URL: <http://www.avaya.com/gcm/master-usa/en-us/tasks/connect/contacts/corpcontact/corpform/contactavaya.htm>
 
-Avaya Inc. abides by the U.S.- E.U. (European Union) Safe Harbor framework as set forth by the U.S. Department of Commerce regarding collection, use, and retention of personal data from customers and/or potential customers from the European Union through the avaya.com domain. Information regarding the E.U. Safe Harbor Framework can be found at: <http://export.gov/safeharbor>
+Avaya Inc. complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland.  Avaya Inc. has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement.  To learn more about the Safe Harbor program, and to view Avaya’s certification, please visit <http://www.export.gov/safeharbor/>
 
- **Avaya Inc. and its worldwide affiliates (collectively "Avaya")** have long recognized that individuals with whom we conduct business value their privacy. However, in order to conduct global business in this increasingly electronic economy, the collection of Personal Data is often necessary and desirable. It is Avaya's goal to balance the benefits of e-business with the right of individuals to prevent the misuse of their personal data.
+**Avaya Inc. and its worldwide affiliates (collectively "Avaya")** have long recognized that individuals with whom we conduct business value their privacy. However, in order to conduct global business in this increasingly electronic economy, the collection of Personal Data is often necessary and desirable. It is Avaya's goal to balance the benefits of e-business with the right of individuals to prevent the misuse of their personal data.
 
  **The Collection of Personal Data**
 
@@ -72,4 +72,4 @@ We will retain your information for as long as needed to provide you services. 
 
  **Avaya reserves the right to change, modify or update this statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here by means of a notice on our home page.**
 
- **Last Updated: 06/30/2011**
+ **Last Updated: 02/10/2012**
