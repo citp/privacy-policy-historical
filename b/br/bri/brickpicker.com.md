@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the brickpicker.com privacy policy that was archived on 2012-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120326142447id_/http%3A//www.brickpicker.com/index.php/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brickpicker.com privacy policy that was archived on 2013-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131103023526id_/http%3A//www.brickpicker.com/privacy-policy.cfm) for the most accurate reproduction.*
 
-# Privacy Policy - Brickpicker.com
+# Privacy Policy
+
+#### Privacy Policy
 
 The privacy of our users on the Internet is of the utmost importance to us. Since BrickPicker Inc., does gather certain types of information about our users, we feel that you should completely understand the conditions and terms surrounding the gathering and use of information about those using our Sites and services. This Privacy Policy Statement divulges what information we gather, how we use it, and how to correct or change it. In the policy, the pronouns "you" and "your" are used to refer to the end user, while "we," "us" and "our" are used to refer to BrickPicker Inc. 
 
@@ -10,7 +12,7 @@ By visiting one of the Sites, or by using a Site's services, you are accepting t
 
 BrickPicker Inc. gathers and tracks information/data that users provide through registration on our Sites for some services. In addition to this gathering of information by the registration of users, BrickPicker Inc. also gathers information through tracking systems, depending on the service being used by you. The tracking systems include deriving data by tallying page views throughout our Sites and capturing information on the type of browser being used to view the Site, tracking what pages you have visited while on the Site and in market research studies tracking what computers respond to a survey. This information enables us to better provide content and to respond to our users' needs. Taken together, these aggregate site usage data also helps our advertisers and sponsors better understand the demographics of our audience. As BrickPicker Inc. derives its revenue mainly from advertising on our Sites, it is necessary for us to provide such demographic data to our sponsors and advertisers; this allows us to keep our services free to users 
 
-### Rules on Information Sharing
+#### Rules on Information Sharing
 
   1. Your email address is your property and BrickPicker Inc. will not divulge it to any third party. 
   2. When you participate in a market research or marketing program, information you provide can be provided to the program sponsor: 
@@ -70,7 +72,3 @@ Users may unsubscribe to any of our electronic newsletters or discussion lists a
 ### Opt-in Announcement List Privacy Policy
 
 When you register for our services you may be given the option of joining an opt-in list. If you choose to sign up, you will receive information or participate in campaigns relevant to the specialty you selected from select third parties who have entered into agreements with us. You may have your email address removed from our opt-in announcement lists at any time by deselecting the opt-in list option. BrickPicker Inc. is not responsible for the content of emails you may receive when you have elected to opt-in to a particular opt-in list. 
-
-### Dispute Resolution and EU Safe Harbor Statement
-
-BrickPicker Inc. participates in the EU Safe Harbor Privacy Framework as set forth by the United States Department of Commerce. As part of our [participation](https://www.export.gov/safehrbr/list.aspx) in the safe harbor, we have agreed to TRUSTe dispute resolution for disputes relating to our compliance with the Safe Harbor Privacy Framework. If you have any complaints regarding our compliance with the Safe Harbor you should first contact us (as provided above). If contacting us does not resolve your complaint, you may raise your complaint with TRUSTe by [Internet here](http://watchdog.truste.com/pvr.php?page=complaint&url=), fax to 415-520-3420, or mail to Watchdog Complaints, TRUSTe, 55 2nd Street, 2nd Floor, San Francisco, CA, USA 94105. If you are faxing or mailing TRUSTe to lodge a complaint, you must include the following information: the name of company, the alleged privacy violation, your contact information, and whether you would like the particulars of your complaint shared with the company. For information about TRUSTe or the operation of TRUSTe's dispute resolution process, click [here](http://watchdog.truste.com/pvr.php?page=complaint&url=) or request this information from TRUSTe at any of the addresses listed above. The TRUSTe dispute resolution process shall be conducted in English. 
