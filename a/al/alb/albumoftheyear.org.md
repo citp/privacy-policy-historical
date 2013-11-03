@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the albumoftheyear.org privacy policy that was archived on 2013-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130504003540id_/http%3A//www.albumoftheyear.org/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the albumoftheyear.org privacy policy that was archived on 2013-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131103120852id_/http%3A//www.albumoftheyear.org/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Album of The Year
 
 [Home](https://web.archive.org/) > Privacy Policy
 
-Last Updated: August 2012
+Last Updated: May 2013
 
 Websites linking to this page have chosen to adopt this generic privacy policy as their own. This means that they agree to abide by the principles laid out below. 
 
@@ -17,3 +17,5 @@ If you have subscribed to one of our services, you may unsubscribe by following 
 Cookies are small digital signature files that are stored by your web browser that allow your preferences to be recorded when visiting the website. Also they may be used to track your return visits to the website. 3rd party advertising companies may also use cookies for tracking purposes. 
 
 Google, as a third party vendor, uses cookies to serve ads. Google's use of the DART cookie enables it to serve ads to visitors based on their visit to sites they visit on the Internet. Website visitors may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy. 
+
+Album of The Year is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to amzon.com. 
