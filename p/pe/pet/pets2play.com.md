@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pets2play.com privacy policy that was archived on 2013-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130510220948id_/http%3A//www.pets2play.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pets2play.com privacy policy that was archived on 2013-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131103201924id_/http%3A//www.pets2play.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy policy - Pets2play.com
 
