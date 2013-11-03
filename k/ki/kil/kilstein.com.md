@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kilstein.com privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603171442id_/http%3A//kilstein.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kilstein.com privacy policy that was archived on 2013-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131103074837id_/http%3A//kilstein.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
