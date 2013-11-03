@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the travolution.co.uk privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601011816id_/http%3A//www.travolution.co.uk/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the travolution.co.uk privacy policy that was archived on 2013-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131103091250id_/http%3A//www.travolution.co.uk/privacy.html) for the most accurate reproduction.*
 
 # Privacy policy - Travolution.co.uk
 
-Last updated January 24th 2012.
+Last updated July 18th 2013.
 
 This website is owned and operated by Travel Weekly Group Limited 
 
@@ -44,6 +44,10 @@ Disqus.com is a partner of Travolution.co.uk. Any user information including reg
 
 This privacy policy applies only to information collected on Travolution.co.uk. Please be aware that we are not responsible for the privacy policies of partner or other sites. 
 
+  **Other disclosures**
+
+We reserve the right to disclose your personal information when required to do so by law to comply with judicial proceedings, court order or legal process or with an actual or proposed corporate transaction involving the business or when we believe that disclosure is necessary to protect our rights, or the rights, property or safety of others.
+
   **Third Party Advertisers and Cookies  
 **  
 Travolution.co.uk works with a number of advertisers that use cookies. You can find out more about advertising here: use <http://www.adtech.info/cookie> opt out
@@ -62,7 +66,7 @@ Under the Data Protection Act 1988, you have the right to be told what personal 
 **  
 Travel Weekly, 52 Grosvenor Gardens, London, SW1W 0AU
 
-**Privacy information for job seekers  
+ **Privacy information for job seekers  
 **  
  **Profile and CV information** Some of our websites offer you the ability to create a profile and upload a CV to our database.  Your profile and CV may be then made available for searching, viewing over the Internet and downloading by our customers.
 
