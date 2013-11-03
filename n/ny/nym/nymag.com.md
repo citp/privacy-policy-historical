@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nymag.com privacy policy that was archived on 2013-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130513213353id_/http%3A//nymag.com/newyork/privacy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nymag.com privacy policy that was archived on 2013-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131103161309id_/http%3A//nymag.com/newyork/privacy/index.html) for the most accurate reproduction.*
 
 # New York Magazine - Nymag.com - Privacy Policy
 
@@ -188,4 +188,4 @@ Attn: Privacy Department
 _Phone:_ (212) 508-0700  
 _E-mail:_ [privacy@nymag.com](mailto:privacy@nymag.com)
 
-Thank you for visiting! 
+Thank you for visiting!
