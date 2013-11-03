@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dibzees.com privacy policy that was archived on 2013-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130215215821id_/http%3A//dibzees.com/private_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dibzees.com privacy policy that was archived on 2013-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131103152552id_/http%3A//dibzees.com/private_policy.html) for the most accurate reproduction.*
 
 # Dibzees! The Best Online Auction Site! - Dibzees.com
 
