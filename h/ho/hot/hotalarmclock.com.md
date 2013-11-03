@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hotalarmclock.com privacy policy that was archived on 2013-01-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130127005048id_/http%3A//www.hotalarmclock.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotalarmclock.com privacy policy that was archived on 2013-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131103054047id_/http%3A//www.hotalarmclock.com/privacy) for the most accurate reproduction.*
 
 # Hot Alarm Clock Privacy Policy Statement
 
