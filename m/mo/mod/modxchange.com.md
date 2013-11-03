@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the modxchange.com privacy policy that was archived on 2012-07-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120727215626id_/http%3A//www.modxchange.com/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D69%26Itemid%3D664) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the modxchange.com privacy policy that was archived on 2013-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131104005632id_/http%3A//www.modxchange.com/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D69%26Itemid%3D664) for the most accurate reproduction.*
 
 # Privacy Policy | Company
 
 This website is owned and operated by AJ Visions, LLC. We are committed to protecting the privacy of our visitors while they interact with the content, products and services on this site (the Website). This Privacy Policy applies to the Site only. It does not apply to other websites to which we link. Because we gather certain types of information about our users, we want you to understand what information we collect about you, how we collect it, how that information is used, and how you can control our disclosure of it. You agree that your use of the Site signifies your assent to this Privacy Policy. If you do not agree with this Privacy Policy, please do not use the Site.
 
- **1\. Information Collected**
+**1\. Information Collected**
 
  **We collect two types of information from you:**
 
@@ -30,7 +30,7 @@ You may set most browsers to notify you if you receive a cookie, or you may choo
 
 Third-Party Cookies: In the course of serving advertisements to this site, our third-party advertisers may place or recognize a unique "cookie" on your browser.
 
- **2\. How We Use Your Information**
+**2\. How We Use Your Information**
 
 ModXchange.com only uses your personal information for the original purposes it was given. Your personal information will not be sold or otherwise transferred to unaffiliated third parties without your approval at the time of collection.
 
@@ -52,30 +52,30 @@ WE ARE NOT LIABLE OR RESPONSIBLE FOR THE PERSONALLY IDENTIFIABLE OR OTHER INFORM
 
 You will receive notice when your personally identifiable information might be provided to any third party for any reason other than as set forth in this Privacy Policy, and you will have an opportunity to request that we not share such information. We use non-identifying and aggregate information to better design our website and for business and administrative purposes. We may also use or share with third parties for any purpose aggregated data that contains no personally identifiable information.
 
- **3\. How We Protect Your Information**
+**3\. How We Protect Your Information**
 
 We are committed to protecting the information we receive from you. We take appropriate security measures to protect your information against unauthorized access to or unauthorized alteration, disclosure or destruction of data. To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we maintain appropriate physical, electronic, and managerial procedures to safeguard and secure the information and data stored on our system. While no computer system is completely secure, we believe the measures we have implemented reduce the likelihood of security problems to a level appropriate to the type of data involved.
 
- **4\. Third Party Advertising**
+**4\. Third Party Advertising**
 
 Advertisements appearing on this Site may be delivered to you by ModXchange.com or one of our Web advertising partners. Our Web advertising partners may set cookies. Doing this allows the advertising partners to recognize your computer each time they send you an advertisement. In this way, they may compile information about where you, or others who are using your computer, saw their advertisements and determine which advertisements are clicked. This information allows an advertising partner to deliver targeted advertisements that they believe will be of most interest to you. ModXchange.com does not have access to or control of the cookies that may be placed by the third party advertising servers of ad partners.
 
- **5\. Accessing and Updating Your Personal Information and Preferences**
+**5\. Accessing and Updating Your Personal Information and Preferences**
 
 We provide mechanisms for updating and correcting your personal information for many of our services. You may modify or remove any of your personal information at any time by logging into your account and accessing features such as edit and account.
 
- **6\. Email Choice/Opt-out**
+**6\. Email Choice/Opt-out**
 
 If you no longer wish to receive updates or notifications may opt-out of receiving these communications, you may send an email request to  [customersupport@modxchange.com](mailto:customersupport@modxchange.com)
 
- **7\. Children's Privacy and Parental Controls**
+**7\. Children's Privacy and Parental Controls**
 
 We do not solicit any personal information from children. If you are not 18 or older, you are not authorized to use the Site. Parents should be aware that there are parental control tools available online that can be used to prevent children from submitting information online without parental permission or from accessing material that is harmful to minors.
 
- **8\. Disclaimer to Security**
+**8\. Disclaimer to Security**
 
 By consenting to the Terms of Use of the Site and hence the Privacy Policy, you consent that no data transmission over the Internet is completely secure. We cannot guarantee or warrant the security of any information you provide to us and you transmit such information to us at your own risk.
 
- **9.  Notification of Changes**
+**9.  Notification of Changes**
 
 ModXchange.com ** ** reserves the right to change this Privacy Policy from time to time at its sole discretion. If at some point in the future, there is a change to our Privacy Policy, unless we obtain your express consent, such change will only apply to information collected after the revised Privacy Policy took effect. Your continued use of the Site indicates your assent to the Privacy Policy as posted.
