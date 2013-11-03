@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iclipart.com privacy policy that was archived on 2013-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130513035327id_/http%3A//www.iclipart.com/privacy.php%3Fadv%3D) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iclipart.com privacy policy that was archived on 2013-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131103015305id_/http%3A//www.iclipart.com/privacy.php%3Fadv%3D) for the most accurate reproduction.*
 
 # iCLIPART - Downloadable royalty-free clipart images, photos, web graphics, animations, sounds and fonts by subscription.
 
