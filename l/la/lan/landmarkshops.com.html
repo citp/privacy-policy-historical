@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the landmarkshops.com privacy policy that was archived on 2013-05-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130504160605id_/http%3A//www.landmarkshops.com/lmgContent/privacyPolicyPage) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the landmarkshops.com privacy policy that was archived on 2013-11-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131103112634id_/http%3A//www.landmarkshops.com/lmgContent/privacyPolicyPage) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html lang="en" xmlns="http://www.w3.org/1999/xhtml" class=" linux webkit chrome"><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html lang="en" xmlns="http://www.w3.org/1999/xhtml"><head>
 	<title>
 		Privacy Policy - LandmarkShops.com</title>
 
@@ -19,7 +19,7 @@
 	<link type="text/css" rel="stylesheet" href="/_ui/desktop/landmark/css/all.css" media="all">
 <link type="text/css" rel="stylesheet" href="/_ui/desktop/landmark/css/css3.css" media="all">
 <link type="text/css" rel="stylesheet" href="/_ui/desktop/landmark/css/colorbox.css" media="all">
-<link type="text/css" rel="stylesheet" href="/_ui/desktop/landmark/css/updates.css" media="all"><style type="text/css">.tab-hidden{position:absolute !important;left:-9999px !important;top:-9999px !important;display:block !important}</style></head>
+<link type="text/css" rel="stylesheet" href="/_ui/desktop/landmark/css/updates.css" media="all"><script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head>
 
 <body class="language-en" style="null">
 <script type="text/javascript" async="" src="https://chuknu.sokrati.com/289/tracker.js"></script><script type="text/javascript" async="" src="https://chuknu.sokrati.com/290/tracker.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1&amp;appId=252735624768251"></script><script type="text/javascript" src="/_ui/desktop/landmark/js/fix-ie.js"></script>
@@ -102,7 +102,7 @@ _gaq.push(['_trackPageview']);
 			<div class="header-box login shipping">
 			
 				<form action="/logout" id="logoutForm" name="logoutForm">
-<input type="hidden" id="currentServletPath" name="currentServletPath" value="/web/20130504160605id_/http%3A//www.landmarkshops.com/lmgContent/privacyPolicyPage">
+<input type="hidden" id="currentServletPath" name="currentServletPath" value="/web/20131103112634id_/http%3A//www.landmarkshops.com/lmgContent/privacyPolicyPage">
 <input type="hidden" id="redirectUrl" name="redirectUrl" value="/">
 <input type="hidden" id="contextPath" name="contextPath" value="">
 </form>
@@ -191,14 +191,14 @@ function checkSubmit(e)
 <ul class="top-menu">
 	<li><a href="#" class="logged-link btn-open"><span>Hello,
 				<strong>Anonymous</strong>
-		</span></a> <a href="#" class="login-link btn-open"><span>Login </span></a>
+		</span></a> <a href="#" class="login-link btn-open" onclick="clearErrMsgs()"><span>Login </span></a>
 		<ul class="login-drop drop">
 			<li><a href="/my-account">My Account</a></li>
 			<li><a href="/my-account/orders">Order History</a></li>
 			<li><a href="#" onclick="doLogout()">Log Out</a></li>
 		</ul>
 		<div class="account-drop error-block drop">
-			<a href="/login/facebookLogin?userLocationURL=https://web.archive.org/web/20130504160605id_/http%3A//www.landmarkshops.com/lmgContent/privacyPolicyPage" id="facebook-login" class="facebook-login">LOGIN with facebook</a>
+			<a href="/login/facebookLogin?userLocationURL=https%3A%2F%2Fweb.archive.org%2Fweb%2F20131103112634id_%2Fhttp%253A%2F%2Fwww.landmarkshops.com%2FlmgContent%2FprivacyPolicyPage" id="facebook-login" class="facebook-login">LOGIN with facebook</a>
 				<div class="divider">
 				<span>OR</span>
 			</div>
@@ -214,7 +214,7 @@ function checkSubmit(e)
 						<input type="hidden" id="final_target_url" value="" name="final_target_url">
 						<input id="j_username" name="j_username" onkeyup="checkSubmit(event)" value="Username" class="text" type="text" maxlength="96"></div>
 					<div class="row">
-						<input id="j_password" name="j_password" onkeyup="checkSubmit(event)" value="Password" class="text existent" type="password" maxlength="52" style="display: none;"><input type="text" class="text" id="fakej_password" maxlength="52"></div>
+						<input id="j_password" name="j_password" onkeyup="checkSubmit(event)" value="Password" class="text" type="password" maxlength="52"></div>
 					<div class="row">
 
 						<input type="checkbox" id="check2" class="check" name="_spring_security_remember_me"> <label for="check2">Remember me</label> <a href="#popup-enter-email" class="forget open-popup">Forgot Password</a>
@@ -297,17 +297,25 @@ function checkSubmit(e)
 	</div>
 	<!-- End Forgot Password and create new account-->
 <script type="text/javascript">
-	var finalRedirectionnURL = removeParameter(document.URL, 'logout');
-	finalRedirectionnURL = removeParameter(finalRedirectionnURL, 'accErrorMsgs');
+	var finalRedirectionnURL = "";
+	if(finalRedirectionnURL == ""){
+		finalRedirectionnURL = removeParameter(document.URL, 'logout');
+		finalRedirectionnURL = removeParameter(finalRedirectionnURL, 'accErrorMsgs');
+	}
 	var domianURL = ''
-			+ "/login/facebookLogin?userLocationURL=" + finalRedirectionnURL;
+			+ "/login/facebookLogin?userLocationURL=" + encodeURIComponent(finalRedirectionnURL);
 	document.getElementById('facebook-login').href = domianURL;
 
 	jQuery("#login")
 			.live(
 					'click',
 					function(e) {
-						jQuery("#loginValidationErrorSpan").html("");
+						//jQuery("#loginValidationErrorSpan").html("");
+						var span = document.getElementById('loginValidationErrorSpan');
+
+						while( span.firstChild ) {
+						    span.removeChild( span.firstChild );
+						}
 						  // jQuery("#loginErrorSpan").hide();
 						if (!isValidInfoEntered(document.getElementById("j_username").value,document.getElementById("j_password").value)) {
 							jQuery("#j_username").addClass('error');
@@ -321,6 +329,10 @@ function checkSubmit(e)
 							jQuery("#loginValidationErrorSpan").html(
 									"Oops! We don't recognise that email or password. Try again.");
 							//jQuery("#loginErrorSpan").show();
+							jQuery("#j_password").removeClass('error');
+							document.getElementById("j_password").value="Password";
+							$("#j_password").css("display", "none");
+							$("#fakej_password").css("display", "inline");
 							return false;
 						}
 						if (!isValidPassword(document.getElementById("j_password").value)) {
@@ -329,13 +341,15 @@ function checkSubmit(e)
 							jQuery("#loginValidationErrorSpan").html(
 									"Oops! We don't recognise that email or password. Try again.");
 							//jQuery("#loginErrorSpan").show();
+							jQuery("#j_password").removeClass('error');
+							document.getElementById("j_password").value="Password";
+							$("#j_password").css("display", "none");
+							$("#fakej_password").css("display", "inline");
 							return false;
 						}
-
 						//document.loginForm.submit();
 						loginFromAbove = true;
 						jQuery("#loginForm").submit();
-
 					});
 
 					function isValidInfoEntered(emailAddress,password) {
@@ -380,12 +394,12 @@ function checkSubmit(e)
 			var	gender="Select your gender ";
 			var	pwdNotEqual="Your passwords don’t match. Check them and try again. "; 
 			var	accountNotFound="No account was found for the email address provided. ";
-	  if (e.data == "error") {
-	   jQuery("#loginValidationErrorSpan").html("");
-	   jQuery("#loginValidationErrorSpan").html("Oops! We don't recognise that email or password. Try again.");
-	   //jQuery("#loginErrorSpan").show();
-	   jQuery("#j_username").addClass('error');
-	   jQuery("#j_password").addClass('error');
+	if (e.data == "error") {
+	   	jQuery("#loginValidationErrorSpan").html("");
+	   	jQuery("#loginValidationErrorSpan").html("Oops! We don't recognise that email or password. Try again.");
+	   	//jQuery("#loginErrorSpan").show();
+	   	jQuery("#j_username").addClass('error');
+	   	jQuery("#j_password").addClass('error');
 	  } else if (e.data == "success") {
 		  jQuery("#loginValidationErrorSpan").html("");
 		  jQuery("#j_username").removeClass('error');
@@ -394,7 +408,10 @@ function checkSubmit(e)
 	   finalRedirectionnURL = removeParameter(finalRedirectionnURL, 'accErrorMsgs');
 	   finalRedirectionnURL = finalRedirectionnURL.replace("#_=_","");
 	   finalRedirectionnURL = finalRedirectionnURL.replace("#","");
-	   if(document.getElementById("currentServletPath").value == "/register"){
+	   var redirectURL = "";
+	   if(redirectURL != ""){
+		   window.location.href = redirectURL;
+	   }else if(document.getElementById("currentServletPath").value == "/register"){
 		   window.location.href = finalRedirectionnURL.replace("/register","");
 	  }else if(document.getElementById("currentServletPath").value == "/login/checkout"){
 		   window.location.href = finalRedirectionnURL.replace("/login/checkout","/shoppingCart/checkout");
@@ -441,6 +458,14 @@ function checkSubmit(e)
   else if(e.data.split("|")[0] == "formErrors"){
 			var errors = e.data.split("|");
 		  	$('#signupFormPopup .error').removeClass('error');
+
+			  document.getElementById("headerSignin_password").value="Password";
+			  $("#headerSignin_password").css("display", "none");
+			  $("#fakeheaderSignin_password").css("display", "inline");
+			  document.getElementById("headerSignin_confirmPassword").value="Confirm Password";
+			  $("#headerSignin_confirmPassword").css("display", "none");
+			  $("#fakeheaderSignin_confirmPassword").css("display", "inline");
+			  
 		  	var message=errors[1];
 		  	jQuery("#headerSignin_ol").html(message);
 		  	$('#headerSigninDiv').show();
@@ -524,6 +549,15 @@ function checkSubmit(e)
 
 		return url;
 	}
+	function clearErrMsgs(){
+		jQuery("#loginValidationErrorSpan").html("");
+		  jQuery("#j_username").removeClass('error');
+		  jQuery("#j_password").removeClass('error');
+		  document.getElementById("j_username").value="Username";
+		  document.getElementById("j_password").value="Password";
+		  $("#j_password").css("display", "none");
+		  $("#fakej_password").css("display", "inline");
+	}
 </script>
 			
 			
@@ -556,31 +590,31 @@ function checkSubmit(e)
 		<ul>
 			
 				<li>
-				<a href="/c/women-tops" title="Tops">Tops</a>
+				<a href="/Women/Accessories/c/women-accessories" title="Accessories">Accessories</a>
 				</li>
 			
 				<li>
-				<a href="/c/women-trouserssandshorts" title="Trousers &amp; Shorts">Trousers &amp; Shorts</a>
+				<a href="/Women/Tops/c/women-tops" title="Tops">Tops</a>
 				</li>
 			
 				<li>
-				<a href="/c/women-skirts" title="Skirts">Skirts</a>
+				<a href="/Women/Trousers-%26-Shorts/c/women-trouserssandshorts" title="Trousers &amp; Shorts">Trousers &amp; Shorts</a>
 				</li>
 			
 				<li>
-				<a href="/c/women-dresses" title="Dresses">Dresses</a>
+				<a href="/Women/Skirts/c/women-skirts" title="Skirts">Skirts</a>
 				</li>
 			
 				<li>
-				<a href="/c/women-jeans" title="Jeans">Jeans</a>
+				<a href="/Women/Dresses/c/women-dresses" title="Dresses">Dresses</a>
 				</li>
 			
 				<li>
-				<a href="/c/women-jackets" title="Jackets">Jackets</a>
+				<a href="/Women/Jeans/c/women-jeans" title="Jeans">Jeans</a>
 				</li>
 			
 				<li>
-				<a href="/c/women-accessories" title=""></a>
+				<a href="/Women/Jackets/c/women-jackets" title="Jackets">Jackets</a>
 				</li>
 			
 		</ul>
@@ -599,19 +633,27 @@ function checkSubmit(e)
 		<ul>
 			
 				<li>
-				<a href="/Men/Tops/c/men-tops" title="Shirts &amp; T-Shirts">Shirts &amp; T-Shirts</a>
+				<a href="/Men/Accessories/c/men-accessories" title="Accessories">Accessories</a>
 				</li>
 			
 				<li>
-				<a href="/c/men-trousersandshorts" title="Trousers &amp; Shorts">Trousers &amp; Shorts</a>
+				<a href="/Men/Shirts-%26-T-Shirts/c/men-tops" title="Shirts &amp; T-Shirts">Shirts &amp; T-Shirts</a>
 				</li>
 			
 				<li>
-				<a href="/c/men-jeans" title="Jeans">Jeans</a>
+				<a href="/Men/Trousers-%26-Shorts/c/men-trousersandshorts" title="Trousers &amp; Shorts">Trousers &amp; Shorts</a>
 				</li>
 			
 				<li>
-				<a href="/c/men-jackets" title="Jackets">Jackets</a>
+				<a href="/Men/Jeans/c/men-jeans" title="Jeans">Jeans</a>
+				</li>
+			
+				<li>
+				<a href="/Men/Jackets/c/men-jackets" title="Jackets">Jackets</a>
+				</li>
+			
+				<li>
+				<a href="/Men/Accessories/c/men-underwear" title="Underwear">Underwear</a>
 				</li>
 			
 		</ul>
@@ -630,27 +672,27 @@ function checkSubmit(e)
 		<ul>
 			
 				<li>
-				<a href="/c/children-clothing" title="Clothing">Clothing</a>
+				<a href="/Children/Clothing/c/children-clothing" title="Clothing">Clothing</a>
 				</li>
 			
 				<li>
-				<a href="/c/children-bedtimeandbathtime" title="Bedtime &amp; Bathtime">Bedtime &amp; Bathtime</a>
+				<a href="/Children/Bedtime-%26-Bathtime/c/children-bedtimeandbathtime" title="Bedtime &amp; Bathtime">Bedtime &amp; Bathtime</a>
 				</li>
 			
 				<li>
-				<a href="/c/children-maternity" title="Maternity">Maternity</a>
+				<a href="/Children/Maternity/c/children-maternity" title="Maternity">Maternity</a>
 				</li>
 			
 				<li>
-				<a href="/c/children-nursingandbabycare" title="Nursing &amp; Babycare">Nursing &amp; Babycare</a>
+				<a href="/Children/Nursing-%26-BabyCare/c/children-nursingandbabycare" title="Nursing &amp; Babycare">Nursing &amp; Babycare</a>
 				</li>
 			
 				<li>
-				<a href="/c/children-toysandbooks" title="Toys &amp; Books">Toys &amp; Books</a>
+				<a href="/Children/Toys-%26-Books/c/children-toysandbooks" title="Toys &amp; Books">Toys &amp; Books</a>
 				</li>
 			
 				<li>
-				<a href="/c/children-strollersandcarseats" title="Strollers &amp; Car Seats">Strollers &amp; Car Seats</a>
+				<a href="/Children/Strollers-%26-Car-Seats/c/children-strollersandcarseats" title="Strollers &amp; Car Seats">Strollers &amp; Car Seats</a>
 				</li>
 			
 				<li>
@@ -677,15 +719,15 @@ function checkSubmit(e)
 		<ul>
 			
 				<li>
-				<a href="/c/electronics-phones" title="Mobile Phones">Mobile Phones</a>
+				<a href="/Electronics/Mobile-Phones/c/electronics-phones" title="Mobile Phones">Mobile Phones</a>
 				</li>
 			
 				<li>
-				<a href="/c/electronics-photography" title="Photography">Photography</a>
+				<a href="/Electronics/Photography/c/electronics-photography" title="Photography">Photography</a>
 				</li>
 			
 				<li>
-				<a href="/c/electronics-computers" title="Computers &amp; Accessories">Computers &amp; Accessories</a>
+				<a href="/Electronics/Computers-%26-Accessories/c/electronics-computers" title="Computers &amp; Accessories">Computers &amp; Accessories</a>
 				</li>
 			
 				<li>
@@ -693,19 +735,19 @@ function checkSubmit(e)
 				</li>
 			
 				<li>
-				<a href="/c/electronics-audio" title="Audio">Audio</a>
+				<a href="/Electronics/Audio/c/electronics-audio" title="Audio">Audio</a>
 				</li>
 			
 				<li>
-				<a href="/c/electronics-homeappliances" title="Home Appliances">Home Appliances</a>
+				<a href="/Electronics/Home-Appliances/c/electronics-homeappliances" title="Home Appliances">Home Appliances</a>
 				</li>
 			
 				<li>
-				<a href="/c/electronics-personalcare" title="Personal Care">Personal Care</a>
+				<a href="/Electronics/Personal-Care/c/electronics-personalcare" title="Personal Care">Personal Care</a>
 				</li>
 			
 				<li>
-				<a href="/c/electronics-gaming" title="Gaming">Gaming</a>
+				<a href="/Electronics/Gaming/c/electronics-gaming" title="Gaming">Gaming</a>
 				</li>
 			
 		</ul>
@@ -722,14 +764,6 @@ function checkSubmit(e)
 </li><li id="lookbooks">
 <a href="/lookBooks" title="LookBooks">LookBooks</a>
 		<ul>
-			
-				<li>
-				<a href="/look/lookDetails/WLB_Spring%2713/WL02_Spring%2713" title="Women">Women</a>
-				</li>
-			
-				<li>
-				<a href="/look/lookDetails/MLB_Spring'13/ML09_Spring'13" title="Men">Men</a>
-				</li>
 			
 				<li>
 				<a href="/look/lookDetails/BBSG_Spring_13/GL01_Spring_13" title="Girls">Girls</a>
@@ -755,27 +789,39 @@ function checkSubmit(e)
 		<ul>
 			
 				<li>
-				<a href="/department/collections/splashBoutiquePage" title="Live Life in Colour">Live Life in Colour</a>
+				<a href="/department/collections/AnimalPrints" title="Animal Prints">Animal Prints</a>
 				</li>
 			
 				<li>
-				<a href="/department/collections/Splash-Collections-Page2" title="Swing into Spring">Swing into Spring</a>
+				<a href="/department/collections/Autumn_Trends" title="Men's Autumn Trends">Men's Autumn Trends</a>
 				</li>
 			
 				<li>
-				<a href="/department/collections/Babyshop-Collection-Page2" title="Child's Play">Child's Play</a>
+				<a href="/department/collections/Black&amp;White" title="Black &amp; White">Black &amp; White</a>
 				</li>
 			
 				<li>
-				<a href="/department/collections/babyshopBoutiquePage" title="Fantasy Fun">Fantasy Fun</a>
+				<a href="/department/collections/Baby_Essentials" title="Baby Essentials">Baby Essentials</a>
 				</li>
 			
 				<li>
-				<a href="/department/collections/Emax-Collection-Page2" title="Apple Appeal">Apple Appeal</a>
+				<a href="/department/collections/Being_Human" title="Being Human">Being Human</a>
 				</li>
 			
 				<li>
-				<a href="/department/collections/EmaxCollectionPage1" title="Must-Have Gadgets">Must-Have Gadgets</a>
+				<a href="/department/collections/Top_Tech_Picks" title="Top Tech Picks">Top Tech Picks</a>
+				</li>
+			
+				<li>
+				<a href="/department/collections/Childs_Play" title="Child's Play">Child's Play</a>
+				</li>
+			
+				<li>
+				<a href="/department/collections/Fun_in_the_Sun" title="Fun In the Sun">Fun In the Sun</a>
+				</li>
+			
+				<li>
+				<a href="/department/collections/Apple_Appeal" title="Apple Appeal">Apple Appeal</a>
 				</li>
 			
 		</ul>
@@ -794,15 +840,15 @@ function checkSubmit(e)
 		<ul>
 			
 				<li>
-				<a href="/splash" title="Splash">Splash</a>
+				<a href="/lmgContent/Splash-home" title="Splash">Splash</a>
 				</li>
 			
 				<li>
-				<a href="/babyshop" title="Babyshop">Babyshop</a>
+				<a href="/lmgContent/Babyshop-home" title="Babyshop">Babyshop</a>
 				</li>
 			
 				<li>
-				<a href="/emax" title="Emax">Emax</a>
+				<a href="/lmgContent/Emax-home" title="Emax">Emax</a>
 				</li>
 			
 		</ul>
@@ -828,9 +874,9 @@ function checkSubmit(e)
 	<form id="search" action="/search">
 	<fieldset>
 		<span class="input-holder">
-			<input type="text" name="q" id="text1" class="text ac-input" maxlength="50" autocomplete="off"></span>
+			<input type="text" name="q" id="text1" class="text ac-input" maxlength="50"></span>
 			<input type="submit" class="submit" onclick="return Empty(); ">
-		<div class="autocomplete-box" style="display: none;"></div>
+		<div class="autocomplete-box"></div>
 	</fieldset>
 </form>
 
@@ -878,7 +924,7 @@ $(document).ready(function(){
 						<form action="/newsletter/subscribe" method="post" class="newsletter-form" id="newsLetterForm">
 							<fieldset>
 								<label for="sign-up">Sign up for our newsletters</label> 
-								<input type="text" class="text" value="Enter Email Address" id="sign-up" name="email"> 
+								<input type="text" class="text" value="Enter Email Address" id="sign-up" name="email" maxlength="96"> 
 									<input type="submit" id="fsubmit" class="submit" value="Join">
 							</fieldset>
 						</form>									
@@ -902,16 +948,16 @@ $(document).ready(function(){
 		</strong>
 		<div class="list-holder">
 				<ul>
-					<li><a href="/c/women-tops" title="Tops">Tops</a></li>
+					<li><a href="/c/women-accessories" title="Accessories">Accessories</a></li>
+						<li><a href="/c/women-jackets" title="Jackets">Jackets</a></li>
+						<li><a href="/c/women-tops" title="Tops">Tops</a></li>
 						<li><a href="/c/women-trouserssandshorts" title="Trousers &amp; Shorts">Trousers &amp; Shorts</a></li>
 						<li><a href="/c/women-skirts" title="Skirts">Skirts</a></li>
 						<li><a href="/Women/Dresses/c/women-dresses" title="Dresses">Dresses</a></li>
-						<li><a href="/c/women-jeans" title="Jeans">Jeans</a></li>
-						<li><a href="/c/women-jackets" title="Jackets">Jackets</a></li>
 						</ul>
 
 				<ul>
-					<li><a href="/c/women-accessories" title=""></a></li>
+					<li><a href="/c/women-jeans" title="Jeans">Jeans</a></li>
 						</ul>
 			</div>
 		</div>
@@ -977,7 +1023,8 @@ $(document).ready(function(){
 		</strong>
 		<div class="list-holder">
 				<ul>
-					<li><a href="/c/men-tops" title="Shirts &amp; T-Shirts">Shirts &amp; T-Shirts</a></li>
+					<li><a href="/Men/Accessories/c/men-accessories" title="Accessories">Accessories</a></li>
+						<li><a href="/c/men-tops" title="Shirts &amp; T-Shirts">Shirts &amp; T-Shirts</a></li>
 						<li><a href="/c/men-trousersandshorts" title="Trousers &amp; Shorts">Trousers &amp; Shorts</a></li>
 						<li><a href="/c/men-jeans" title="Jeans">Jeans</a></li>
 						<li><a href="/c/men-jackets" title="Jackets">Jackets</a></li>
@@ -994,7 +1041,7 @@ $(document).ready(function(){
 		</strong>
 		<div class="list-holder">
 				<ul>
-					<li><a href="/c/electronics-phones" title="Phones">Phones</a></li>
+					<li><a href="/Electronics/Mobile-Phones/c/electronics-phones" title="Mobile Phones">Mobile Phones</a></li>
 						<li><a href="/c/electronics-photography" title="Photography">Photography</a></li>
 						<li><a href="/c/electronics-computers" title="Computers &amp; Accessories">Computers &amp; Accessories</a></li>
 						<li><a href="/Electronics/Home-Entertainment/c/electronics-homeentertainment" title="Home Entertainment">Home Entertainment</a></li>
@@ -1072,19 +1119,75 @@ $(document).ready(function(){
 //-->
 </script>
 
-<!--Sokrati Splash--> <script type="text/javascript"> 
- (function() {
+<p>&nbsp;</p>
+<script type="text/javascript"> 
+/////////////////////
+// Sokrati Splash
+////////////////////
+(function() {
 	var a = document.createElement('script');a.type = 'text/javascript'; a.async = true; 
 	a.src=('https:'==document.location.protocol?'https://':'http://cdn.')+'chuknu.sokrati.com/290/tracker.js'; 
 	var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(a, s);
-	     })();
-</script> <!-- //Sokrati--> <!--Sokrati Babayshop--> <script type="text/javascript"> 
- (function() {
+})();
+/////////////////////
+// Sokrati Babayshop
+////////////////////
+(function() {
 	var a = document.createElement('script');a.type = 'text/javascript'; a.async = true; 
 	a.src=('https:'==document.location.protocol?'https://':'http://cdn.')+'chuknu.sokrati.com/289/tracker.js'; 
 	var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(a, s);
-	     })();
-</script> <!-- //Sokrati-->					
+})();
+/////////////////////
+// Google tracking events
+////////////////////
+$(function(){
+
+	$("form.overlayForm").on('submit', function(){
+		var productNameOverlay = $('.visibleOverlay .text-holder > h4 a').text();
+		var sizeOverlay = $('.visibleOverlay .select-row select');
+		var productCodeOverlay = $('.visibleOverlay').attr('id');
+		if( window.location.pathname === "/compareProducts/compare" ){
+			_gaq.push(['_trackEvent', 'Add to cart', 'Compare page', productNameOverlay + " [" + productCodeOverlay + "]"]);
+			// console.log('Tracking add to cart from compare page');
+		} else {
+			if ( sizeOverlay.val() != ""){
+				_gaq.push(['_trackEvent', 'Add to cart', 'Buy this look page', productNameOverlay + " [" + productCodeOverlay + "]"]);
+				// console.log('Tracking add to cart from overlay');
+			}
+		}
+	});
+
+	$('.top-product-form').on('submit', function(){
+		var sizes = $('#sizeSelect');
+		var productName = $('.text-details > h2').text();
+		var productCode = $('input[name="productCodePost"][type="hidden"]').val();
+		if ( sizes.val() != ""){
+			_gaq.push(['_trackEvent', 'Add to cart', 'Product page', productName + " [" + productCode + "]"]);
+			// console.log('Tracking add to cart from top product');
+		}
+	});
+
+});
+</script>  
+<!--Addroll tracking script-->
+<script type="text/javascript">
+adroll_adv_id = "IF5WOUESANCMDIG36C4YNF";
+adroll_pix_id = "WPBZAG4ZWVEE3EYRFWMF24";
+(function () {
+var oldonload = window.onload;
+window.onload = function(){
+   __adroll_loaded=true;
+   var scr = document.createElement("script");
+   var host = (("https:" == document.location.protocol) ? "https://s.adroll.com" : "http://a.adroll.com");
+   scr.setAttribute('async', 'true');
+   scr.type = "text/javascript";
+   scr.src = host + "/j/roundtrip.js";
+   ((document.getElementsByTagName('head') || [null])[0] ||
+    document.getElementsByTagName('script')[0].parentNode).appendChild(scr);
+   if(oldonload){oldonload()}};
+}());
+</script>
+<!--End Addroll tracking script-->					
 				
 		</div>
 	</div>
@@ -1096,5 +1199,5 @@ $(document).ready(function(){
 		</ul>
 	</div>
 
-<img src="/_ui/desktop/landmark/images/add-loader2.gif" alt="Loading" class="loader" style="display: none;"></div>
-<div id="cboxOverlay" style="display: none;"></div><div id="colorbox" class="" style="display: none; padding-bottom: 67px; padding-right: 42px;"><div id="cboxWrapper"><div><div id="cboxTopLeft" style="float: left;"></div><div id="cboxTopCenter" style="float: left;"></div><div id="cboxTopRight" style="float: left;"></div></div><div style="clear: left;"><div id="cboxMiddleLeft" style="float: left;"></div><div id="cboxContent" style="float: left;"><div id="cboxLoadedContent" style="width: 0px; height: 0px; overflow: hidden; float: left;"></div><div id="cboxLoadingOverlay" style="float: left;"></div><div id="cboxLoadingGraphic" style="float: left;"></div><div id="cboxTitle" style="float: left;"></div><div id="cboxCurrent" style="float: left;"></div><div id="cboxNext" style="float: left;"></div><div id="cboxPrevious" style="float: left;"></div><div id="cboxSlideshow" style="float: left;"></div><div id="cboxClose" style="float: left;"></div></div><div id="cboxMiddleRight" style="float: left;"></div></div><div style="clear: left;"><div id="cboxBottomLeft" style="float: left;"></div><div id="cboxBottomCenter" style="float: left;"></div><div id="cboxBottomRight" style="float: left;"></div></div></div><div style="position: absolute; width: 9999px; visibility: hidden; display: none;"></div></div></body></html>
+</div>
+</body></html>
