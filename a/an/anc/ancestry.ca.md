@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ancestry.ca privacy policy that was archived on 2013-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130429140513id_/http%3A//www.ancestry.ca/cs/legal/privacyphilosophy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ancestry.ca privacy policy that was archived on 2013-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131103161818id_/http%3A//www.ancestry.ca/cs/legal/privacyphilosophy) for the most accurate reproduction.*
 
 # Our Privacy Philosophy
 
