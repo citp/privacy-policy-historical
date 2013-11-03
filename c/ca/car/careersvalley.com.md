@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the careersvalley.com privacy policy that was archived on 2013-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130425052053id_/http%3A//www.careersvalley.com/privacy-policy-0) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the careersvalley.com privacy policy that was archived on 2013-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131103215234id_/http%3A//www.careersvalley.com/privacy-policy-0) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -38,11 +38,17 @@ If you require any more information or have any questions about our privacy poli
 
 At [www.careersvalley.com](http://www.careersvalley.com/ "www.careersvalley.com"), the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by [www.careersvalley.com](http://www.careersvalley.com/ "www.careersvalley.com") and how it is used. 
 
+**Sharing and Usage:**  
+We will never share, sell, or rent individual personal information with anyone without your consent or unless ordered by a court of law. We may share information submitted to us with employees managing this information and assigned service providers (for example, courier delivery services) for purposes of contacting you for serving/delivering products/services based upon your request for products/services.
+
 **Log Files**  
 Like many other Web sites, [www.careersvalley.com](http://www.careersvalley.com/ "www.careersvalley.com") makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user's movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable. 
 
 **Cookies and Web Beacons**  
 [www.careersvalley.com](http://www.careersvalley.com/ "www.careersvalley.com") does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser. 
+
+Specific info on statistical analytical cookies  
+This website includes cookies by third party statistical analytical tools like that of google analytics which are used to evaluate visitors' use of the website and to compile statistical reports on website activity. We will never use these statistical analytics tools to track or to collect any Personally Identifiable Information of visitors of this website. 
 
 **DoubleClick DART Cookie**  
 
@@ -53,16 +59,22 @@ Like many other Web sites, [www.careersvalley.com](http://www.careersvalley.com/
 
 .:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL - <http://www.google.com/privacy_ads.html>
 
-Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include .......   
-Google Adsense 
+Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include ....... 
 
-These third-party ad servers or ad networks use technology to the advertisements and links that appear on [www.careersvalley.com](http://www.careersvalley.com/ "www.careersvalley.com") send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see. 
+Google Adsense: 
 
-[www.careersvalley.com](http://www.careersvalley.com/ "www.careersvalley.com") has no access to or control over these cookies that are used by third-party advertisers. 
+These third-party ad servers or ad networks use technology to the advertisements and links that appear on [www.careersvalley.com](http://www.careersvalley.com/ "www.careersvalley.com") send directly to your browsers. They may automatically receive your IP address when this occurs.
+
+Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see on this website and elsewhere on internet.
+
+[www.careersvalley.com](http://www.careersvalley.com/ "www.careersvalley.com") has no access to or control over these cookies that are used by third-party advertisers and websites. 
 
 You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. www.careersvalley.com's privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites. 
 
 If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites. 
+
+Specific info on Google adwords remarketing:  
+This website uses adwords remarketing so that users can be served ads depending upon the previous pages they visited. Visitors can opt out of interest-based ads, including remarketing by visiting ads settings page <http://www.google.com/settings/ads>.
 
 **3.Privacy Policy For Facebook**
 
