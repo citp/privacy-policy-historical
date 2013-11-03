@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the magenting.com privacy policy that was archived on 2011-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111201230710id_/http%3A//magenting.com/en/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the magenting.com privacy policy that was archived on 2013-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131103105827id_/http%3A//magenting.com/en/page/privacy) for the most accurate reproduction.*
 
-# Privacy Policy « Magenting
+# Privacy Policy
 
 We agree with Google when they state that complete privacy does not exist except in a desert, and anyone who is not a hermit must expect and endure the ordinary incidents of the internet community of which he or she is a part.  
 We hate spam. We strive to provide the best possible experience for our customers. The information we collect through our sites is used only to protect us and our customers and to improve our service. We will never rent, sell or trade your data in exchange for cookies, sweeties or anything.  
@@ -17,6 +17,6 @@ All information collected throughout the site is used only to deal with our cust
 
 ### Third Parties
 
-We use Google Analytics (who doesn’t?) so that Google knows you are visiting us. The Google Analytics privacy policy is located [here](http://www.google.com/privacypolicy.html).   
+We use Google Analytics (who doesn’t?), so that Google knows you are visiting us. The Google Analytics privacy policy is located [here](http://www.google.com/privacypolicy.html).   
 We install [Magento eCommerce software](http://magentocommerce.com/) (and we really hope you like it); their privacy policy is located [here](http://www.magentocommerce.com/company/privacy).   
-We use the [Plimus](http://home.plimus.com/) payment system to collect payments (yep, some customers even decided to pay us for our service), and their privacy policy is located [here](http://home.plimus.com/ecommerce/about-us/legal/privacy-policy).
+Our services are distributed through [Plimus](http://home.plimus.com/) and [2Checkout](http://2checkout.com/), their privacy policy is located [here](http://home.plimus.com/ecommerce/about-us/legal/privacy-policy) and [here](https://www.2checkout.com/privacy/).
