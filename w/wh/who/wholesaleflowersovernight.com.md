@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wholesaleflowersovernight.com privacy policy that was archived on 2013-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130417122933id_/http%3A//www.wholesaleflowersovernight.com/index.php%3Fmain_page%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wholesaleflowersovernight.com privacy policy that was archived on 2013-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131103074029id_/http%3A//www.wholesaleflowersovernight.com/index.php%3Fmain_page%3Dprivacy) for the most accurate reproduction.*
 
-# Privacy Notice : Wedding Flowers, Wholesale Flowers | WholesaleFlowersOvernight.com, Wholesale Flowers for DIY Weddings and Bulk Flowers. Wedding Flowers Specials - Flowers By The Bunch - No Minimum â€“ Free Nationwide Delivery
+# Privacy :: Wholesale Flowers :: Wedding Flowers :: Wholesale Flowers Overnight
 
 _**WFO Privacy Policy**_ We have established this privacy policy so that you can understand how we intend to treat your personal information. We strive to comply with all applicable laws around the globe that are designed to protect your privacy.
 
