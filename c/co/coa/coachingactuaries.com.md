@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coachingactuaries.com privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603032456id_/http%3A//www.coachingactuaries.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coachingactuaries.com privacy policy that was archived on 2013-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131104001249id_/http%3A//www.coachingactuaries.com/Privacy.aspx) for the most accurate reproduction.*
 
 # Coaching Actuaries
 
