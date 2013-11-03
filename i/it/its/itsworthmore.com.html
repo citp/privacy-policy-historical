@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the itsworthmore.com privacy policy that was archived on 2013-04-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130420060404id_/http%3A//itsworthmore.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the itsworthmore.com privacy policy that was archived on 2013-11-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131103032659id_/http%3A//www.itsworthmore.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
 			<title>Privacy Policy | Sell an iPhone, iPad, Samsung Galaxy for More Cash | ItsWorthMore.com</title>
@@ -21,11 +21,42 @@
 	<![endif]-->
 
 	<!-- Scripts -->
-	<script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1&amp;appId=128665253924618"></script><script type="text/javascript" async="" src="https://widget.uservoice.com/Jxs5gK6Cyle6cX9yPC6ifw.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+	<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
 	<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jqueryui/1.8.18/jquery-ui.min.js"></script>
 	<script type="text/javascript" language="javascript" src="/includes/js/scripts.js?12387ydn87e9h7"></script>
 	<script type="text/javascript" language="javascript" src="/includes/js/custom.js"></script>
-</head>
+	<script>
+		 // DOM ready
+		 $(function() {
+		   
+		  // Create the dropdown base
+		  $("<select class='customSelect'/>").appendTo("nav");
+		  
+		  // Create default option "Go to..."
+		  $("<option />", {
+			 "selected": "selected",
+			 "value"   : "",
+			 "text"    : "Navigation"
+		  }).appendTo("nav select");
+		  
+		  // Populate dropdown with menu items
+		  $("nav a").each(function() {
+		   var el = $(this);
+		   $("<option />", {
+			   "value"   : el.attr("href"),
+			   "text"    : el.text()
+		   }).appendTo("nav select");
+		  });
+		  
+		   // To make dropdown actually work
+		   // To make more unobtrusive: http://css-tricks.com/4064-unobtrusive-page-changer/
+		  $("nav select").change(function() {
+			window.location = $(this).find("option:selected").val();
+		  });
+		 
+		 });
+	</script>
+<script id="facebook-jssdk" async="" src="//connect.facebook.net/en_US/all.js"></script></head>
 <body><div id="olark" style="display: none;"><olark><iframe frameborder="0" id="olark-loader"></iframe></olark></div>
 
 <div class="head_bar">
@@ -34,59 +65,82 @@
 			<a href="/">ItsWorthMore.com</a>
 		</div>
 		<div class="topmenu">
-			<ul class="dropdown">
-				<li class="first">
-					<a href="/catalog">Start Selling</a>
-					<ul id="navigation_bar_categories" class="nav_categories">
+			<nav>
+				<ul class="dropdown">
+					<li class="first">
+						<a href="/catalog">Start Selling</a>
+						<ul id="navigation_bar_categories" class="nav_categories">
 			<li>
-						<a href="/catalog/apple-ipad">Apple iPad</a>
-					</li>
+							<a href="/catalog/apple-ipad">Apple iPad</a>
+						</li>
 			<li>
-						<a href="/catalog/apple-iphone">Apple iPhone</a>
-					</li>
+							<a href="/catalog/apple-iphone">Apple iPhone</a>
+						</li>
 			<li>
-						<a href="/catalog/apple-ipod">Apple iPod</a>
-					</li>
+							<a href="/catalog/apple-ipod">Apple iPod</a>
+						</li>
 			<li>
-						<a href="/catalog/apple-macbook">Apple MacBook</a>
-					
+							<a href="/catalog/apple-macbook">Apple MacBook</a>
+						
 				<ul>
 					<li>
-						<a href="/catalog/macbook">MacBook</a>
-					</li>
+							<a href="/catalog/macbook">MacBook</a>
+						</li>
 					<li>
-						<a href="/catalog/macbook-air">MacBook Air</a>
-					</li>
+							<a href="/catalog/macbook-air">MacBook Air</a>
+						</li>
 					<li>
-						<a href="/catalog/macbook-pro">MacBook Pro</a>
-					</li>
+							<a href="/catalog/macbook-pro">MacBook Pro</a>
+						</li>
 				</ul>
 </li>
 			<li>
-						<a href="/catalog/blackberry-cell-phone">Blackberry Cell Phone</a>
-					</li>
+							<a href="/catalog/blackberry-cell-phone">Blackberry Cell Phone</a>
+						</li>
 			<li>
-						<a href="/catalog/samsung-cell-phone">Samsung Cell Phone</a>
-					</li>
+							<a href="/catalog/cell-phones">Cell Phones</a>
+						
+				<ul>
+					<li>
+							<a href="/catalog/samsung-cell-phones">Samsung Cell Phones</a>
+						</li>
+				</ul>
+</li>
+			<li>
+							<a href="/catalog/tablets">Tablets</a>
+						
+				<ul>
+					<li>
+							<a href="/catalog/kindle-tablets">Kindle Tablets</a>
+						</li>
+					<li>
+							<a href="/catalog/nexus-tablets">Nexus Tablets</a>
+						</li>
+					<li>
+							<a href="/catalog/samsung-tablets">Samsung Tablets </a>
+						</li>
+				</ul>
+</li>
 		</ul>
 
-				</li>
-				<li>
-					<a href="/how-it-works">How It Works</a>
-				</li>
-				<li>
-					<a href="/blog">Blog</a>
-				</li>
-				<li>
-					<a href="/support">Support</a>
-				</li>
-				<li>
-											<a href="/account/login" data-reveal-id="login-modal">Login / Sign Up</a>
-									</li>
-				<li class="last">
-					<a href="/box">My Box ( 0 )</a>
-				</li>
-			</ul>
+					</li>
+					<li>
+						<a href="/how-it-works">How It Works</a>
+					</li>
+					<li>
+						<a href="/blog">Blog</a>
+					</li>
+					<li>
+						<a href="/support">Support</a>
+					</li>
+					<li>
+													<a href="/account/login" data-reveal-id="login-modal">Login / Sign Up</a>
+											</li>
+					<li class="last">
+						<a href="/box">My Box ( 0 )</a>
+					</li>
+				</ul>
+			</nav>
 		</div>
 	</div>
 </div>
@@ -98,7 +152,7 @@
 
 	<form method="post" action="http://itsworthmore.com/">
 <div class="hiddenFields">
-<input type="hidden" name="XID" value="5df2994662c4cb859bb0bb2b696e059a4678b61f">
+<input type="hidden" name="XID" value="8af2d3821e18b90ca1803e034d9f1da71e626eb7">
 <input type="hidden" name="ACT" value="15">
 <input type="hidden" name="RET" value="/privacy-policy">
 <input type="hidden" name="site_id" value="1">
@@ -134,7 +188,7 @@
 		<p>&nbsp;</p>
 		<form method="post" action="http://itsworthmore.com/">
 <div class="hiddenFields">
-<input type="hidden" name="XID" value="71b95876d598e4f9606ec7752cad9eba9c78cc03">
+<input type="hidden" name="XID" value="795839edb1750c98f1dba342f9acd70634af897d">
 <input type="hidden" name="ACT" value="15">
 <input type="hidden" name="RET" value="/privacy-policy">
 <input type="hidden" name="site_id" value="1">
@@ -174,7 +228,7 @@
 	<form method="post" action="http://itsworthmore.com/">
 <div class="hiddenFields">
 <input type="hidden" name="ACT" value="8">
-<input type="hidden" name="XID" value="fff9b4015b3bcc31cda998a65cdf35a49302f91d">
+<input type="hidden" name="XID" value="63ee803807763847646b7303865299fbf31e1483">
 <input type="hidden" name="RES" value="">
 <input type="hidden" name="meta" value="ERAIwQuToW/90DMr/Nac4Isd9W1W3/OJHTDABR+tFbnl//g4SXOVo3XK2WTgtjviKfApc2ldU2T59IhkdcP9TL2u/j4E/BCRokEkhxk2GdDNGdjKBzCVA0vRU62IKYJnSMJgj010CaLef84lhPOoO2Bv9nxfRdkZLoxrxFDQxY7OEldIHe+j3ODW/YhK5YV/HNoqUbZsLEqkXfUZ9cyObYG72DUCVSuM+zb0N/YacdGYTkWvlfF+FwwyjZl0cgU6C03GbkN36ZO3Ai99hmsjhX0/ZCZTQMWOSPjeJm07Y1PHFDYrtjsyHiFYmaFY1fFSHegp7LjPW9RAphBUipc5CjVQy9QJhJWkVtNibnI8MsF2Alar3EXPzr5UhDdzCxdP">
 <input type="hidden" name="site_id" value="1">
@@ -264,7 +318,7 @@
 			
 				<form id="mailinglist_form" method="post" action="http://itsworthmore.com/">
 <div class="hiddenFields">
-<input type="hidden" name="XID" value="c1cf1c9ac6436b7d0bf091fdef5dd3e8e3af4ed1">
+<input type="hidden" name="XID" value="3bf06d366e48b9dc4f89bbf20a3a41adcaf6a3f4">
 <input type="hidden" name="ACT" value="43">
 <input type="hidden" name="RET" value="http://itsworthmore.com/privacy-policy">
 <input type="hidden" name="list" value="customer_mailing_list">
@@ -286,6 +340,13 @@
 		<div class="widget-container widget_recent_comments">
 			<h3 class="widget-title">Recent Comments</h3>
 			<ul id="recentcomments">
+				
+					<li class="recentcomments">
+						asawyer on <a href="/blog/entry/usps-shipping-is-here">USPS Shipping is Here!</a>
+						
+							<p>ah…</p>
+						
+					</li>
 				
 			</ul>
 		</div>
@@ -310,43 +371,50 @@
 					<div class="quoteBox-big">
 						<div class="inner">
 							<div class="quote-text">
-								I appreciated the phone call reminder to ship my phone. The turnaround time was quick and I got the full amount I was quoted. 
+								Fast and hassle free! Got my cash fast. 
 							</div>
-							<div class="quote-author"><span class="quote-name">Apple iPhone 4S,</span>  MATT R.</div>
+							<div class="quote-author"><span class="quote-name">iPhone 3GS,</span>  SEAN F.</div>
 						</div>
 					</div>
 				</div>
 			
-				<div class="col col_1_3">
-					<h2 class="h_twitter">We're on Twitter</h2>
-					<div class="quoteBox-big">
-						<div class="inner">
-							
-							<div class="tweet">
-								<div class="quote-text">
-									<div class="status">#Prayers for those in #Texas and all affected by the explosion.</div>
-								</div>
-								<div class="quote-author"><span class="quote-name">04-18 10:05,</span>  ItsWorthMore <span class="quote-name">—</span> <a class="tweet_follow" href="http://twitter.com/#!/itsworthmore" title="Follow Us On Twitter">Follow Us!</a></div>
+				
+					<div class="col col_1_3">
+						<h2>As seen on. . .</h2>
+						<div class="quoteBox-big">
+							<div class="inner">
+								<table border="1" cellpadding="10" cellspacing="1" style="width: 200px;">
+	<tbody>
+		<tr>
+			<td>
+				<a href="http://www.youtube.com/watch?v=n57Cj-y7JVs&amp;feature=youtu.be" target="_blank"><img alt="" src="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTRgWroHbAOS9_NmO600NfwcHg76y4UtrCajmVacffJBKXmfXBe" style="width: 90px; height: 90px;"></a></td>
+			<td>
+				<a href="http://www.weny.com/News/regional-news/083112techconnection" target="_blank"><img alt="" src="https://si0.twimg.com/profile_images/1130426964/WENY-TV_Avatar_Still.jpg" style="width: 100px; height: 90px;"></a></td>
+		</tr>
+	</tbody>
+</table>
+<p>
+	&nbsp; &nbsp;&nbsp;</p>
+
 							</div>
-							
 						</div>
 					</div>
-				</div>
+				
 				
 					<div class="col col_1_3 alpha" id="Reviews">
 						<h2 class="h_facebook">We’re Verified</h2>
 						<div class="quoteBox-big">
 							<div class="inner">
-								<div class="fb-like" data-action="recommend" data-href="http://www.facebook.com/ItsWorthMore" data-send="true" data-show-faces="true" data-width="200">
+								<div class="fb-like" data-action="recommend" data-href="http://www.facebook.com/ItsWorthMore" data-send="true" data-show-faces="true" data-width="100">
 	&nbsp;</div>
-<table align="center" border="1" cellpadding="1" cellspacing="1" style="width: 200px;">
+<table align="left" border="1" cellpadding="1" cellspacing="1" style="width: 100%;">
 	<tbody>
 		<tr>
 			<td>
-				<table border="0" cellpadding="2" cellspacing="0" title="Click to Verify - This site chose Symantec SSL for secure e-commerce and confidential communications." width="135">
+				<table border="0" cellpadding="0" cellspacing="0" title="Click to Verify - This site chose Symantec SSL for secure e-commerce and confidential communications." width="135">
 					<tbody>
 						<tr>
-							<td align="center" valign="top" width="135">
+							<td align="center" valign="top">
 								<script type="text/javascript" src="https://seal.verisign.com/getseal?host_name=www.itsworthmore.com&amp;size=L&amp;use_flash=YES&amp;use_transparent=YES&amp;lang=en"></script><br>
 								<a href="http://www.symantec.com/ssl-certificates" style="color:#000000; text-decoration:none; font:bold 7px verdana,sans-serif; letter-spacing:.5px; text-align:center; margin:0px; padding:0px;" target="_blank">ABOUT SSL CERTIFICATES</a></td>
 						</tr>
@@ -354,12 +422,12 @@
 				</table>
 			</td>
 			<td>
-				<p style="text-align: center; ">
-					<a href="https://www.paypal.com/us/verified/pal=admin%40itsworthmore.com" target="_blank"><img alt="" src="http://itsworthmore.com/uploads/assets/paypal_verified.png" style="width: 100px; height: 100px; "></a></p>
-			</td>
+				<a href="http://www.bbb.org/central-florida/business-reviews/cellular-telephone-equipment-and-supplies/itsworthmorecom-in-altamonte-springs-fl-90198763#sealclick" title="Click for the Business Review of ItsWorthMore.com LLC, a Cellular Telephone Equipment &amp; Supplies in Altamonte Springs FL"><img alt="Click for the BBB Business Review of this Cellular Telephone Equipment &amp; Supplies in Altamonte Springs FL" src="http://seal-centralflorida.bbb.org/seals/blue-seal-153-100-itsworthmorecomllc-90198763.png" style="border: 0;"></a></td>
 		</tr>
 	</tbody>
 </table>
+<p>
+	&nbsp;</p>
 
 							</div>
 						</div>
@@ -385,8 +453,8 @@
 					<img src="/includes/imgs/footer_logo.png" style="opacity:.25;margin-top:-1px;">
 				</div>
 				<form action="http://itsworthmore.com/?ACT=82" accept-charset="utf-8" method="POST"><div style="display:none">
-<input type="hidden" name="params_id" value="102147">
-<input type="hidden" name="XID" value="f6d3b3dbb0dfa4cffaae9f769fddbbf55e7d070c">
+<input type="hidden" name="params_id" value="469044">
+<input type="hidden" name="XID" value="ad05dc86e3c5963f4fe283ca80ebe0afaae1b78a">
 </div>
 					<div class="form_block_1">
 						<div class="row field_text">
@@ -457,16 +525,6 @@ window.olark||(function(c){var f=window,d=document,l=f.location.protocol=="https
 olark.identify('8299-235-10-7922');/*]]>{/literal}*/</script><noscript><a href="https://www.olark.com/site/8299-235-10-7922/contact" title="Contact us" target="_blank">Questions? Feedback?</a> powered by <a href="http://www.olark.com?welcome" title="Olark live chat software">Olark live chat software</a></noscript>
 <!-- end olark code -->
 
-<!-- begin feedback code -->
-<script type="text/javascript">
-  var uvOptions = {};
-  (function() {
-    var uv = document.createElement('script'); uv.type = 'text/javascript'; uv.async = true;
-    uv.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'widget.uservoice.com/Jxs5gK6Cyle6cX9yPC6ifw.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(uv, s);
-  })();
-</script>
-<!-- end feedback code -->
 
 <!-- Google Code for Remarketing tag -->
 <!-- Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. For instructions on adding this tag and more information on the above requirements, read the setup guide: google.com/ads/remarketingsetup -->
@@ -486,15 +544,20 @@ var google_remarketing_only = true;
 </div>
 </noscript>
 
-<!-- Facebook Like Code -->
 <div id="fb-root"></div>
-<script>(function(d, s, id) {
-  var js, fjs = d.getElementsByTagName(s)[0];
-  if (d.getElementById(id)) return;
-  js = d.createElement(s); js.id = id;
-  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=128665253924618";
-  fjs.parentNode.insertBefore(js, fjs);
-}(document, 'script', 'facebook-jssdk'));</script>
+<script>
+window.fbAsyncInit = function() {
+	FB._https = (window.location.protocol == "https:"); // Required because FB Javascript SDK tries to submit https to http
+	FB.init({appId:"128665253924618", cookie:true, status:true, xfbml:true, oauth:true});
+};
+(function(d){
+		   var js, id = 'facebook-jssdk'; if (d.getElementById(id)) {return;}
+		   js = d.createElement('script'); js.id = id; js.async = true;
+		   js.src = "//connect.facebook.net/en_US/all.js";
+		   d.getElementsByTagName('head')[0].appendChild(js);
+		 }(document));
+</script>
+
 
 
 
