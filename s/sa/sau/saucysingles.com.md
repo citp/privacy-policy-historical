@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the saucysingles.com privacy policy that was archived on 2013-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130505034912id_/http%3A//www.saucysingles.com/static.php%3Fhtml%3Dprivacy%26s%3Ds) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the saucysingles.com privacy policy that was archived on 2013-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131104005841id_/http%3A//www.saucysingles.com/static.php%3Fhtml%3Dprivacy%26s%3Ds) for the most accurate reproduction.*
 
-# Casual Dating at SaucySingles.com
+# Casual Dating at WildCupid.com
 
 ### Privacy Policy
 
-(' **We** ') Alcuda Ltd(as subsidiary of Bulova Invest Ltd, company number 1585862 (British Virgin Islands)) are committed to protecting and respecting your privacy.
+(' **We** ') Alcuda Ltd (as subsidiary of Bulova Invest Ltd, company number 1585862 (British Virgin Islands)) are committed to protecting and respecting your privacy. Alcuda Ltd is the data controller (for the purposes of the Data Protection Act 1998).
 
 This policy (together with our [terms and conditions of use](https://web.archive.org/helptandc.asp?s=s) and any other documents referred to on it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.
 
@@ -12,7 +12,7 @@ This policy (together with our [terms and conditions of use](https://web.archive
 
 We may collect and process the following information about you: 
 
-  * Information that you provide by filling in forms on our site **Saucysingles.com** (the ' **Site** ') (including your personal details, contact details, mobile phone number and other profile information you submit when you create a membership profile). We may also collect information when you voluntarily complete customer surveys, provide feedback and participate in competitions.
+  * Information that you provide by filling in forms on our site **Saucysingles** (the ' **Site** ') (including your personal details, contact details, mobile phone number and other profile information you submit when you create a membership profile). We may also collect information when you voluntarily complete customer surveys, provide feedback and participate in competitions.
   * Information from your web-based email accounts (including your profile picture and other publicly visible information) if you agree to add the Site's email address to the contact lists stored at your email provider's website.
   * Your location according to the IP address assigned to your PC by your Internet Service Provider.
   * If you contact us, we may keep a record of that correspondence.
