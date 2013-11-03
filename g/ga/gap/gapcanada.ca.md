@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gapcanada.ca privacy policy that was archived on 2013-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130630214922id_/http%3A//www.gapcanada.ca/customerService/info.do%3Fcid%3D2331) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gapcanada.ca privacy policy that was archived on 2013-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131103142942id_/http%3A//www.gapcanada.ca/customerService/info.do%3Fcid%3D2331) for the most accurate reproduction.*
 
 # | Gap
 
