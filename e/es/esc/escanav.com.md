@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the escanav.com privacy policy that was archived on 2013-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130302144307id_/http%3A//www.escanav.com/english/content/company/privacy_policy/escan_privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the escanav.com privacy policy that was archived on 2013-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131103083710id_/http%3A//www.escanav.com/english/content/company/privacy_policy/escan_privacy_policy.asp) for the most accurate reproduction.*
 
 # eScan : Secure – Scalable – Reliable : Antivirus, Content Security and Firewall Protection for Servers and Endpoints
 
