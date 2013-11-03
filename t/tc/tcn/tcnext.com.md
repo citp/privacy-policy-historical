@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tcnext.com privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530190647id_/http%3A//tcnext.com/tcnext/WEB/static_pages/privacy-policy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tcnext.com privacy policy that was archived on 2013-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131103055500id_/http%3A//tcnext.com/tcnext/WEB/static_pages/privacy-policy.jsp) for the most accurate reproduction.*
 
 # Privacy Policy - tcnext.com
 
@@ -43,18 +43,24 @@ All information gathered on TBSL is securely stored within the TBSL controlled d
 
 However the internet is an ever evolving medium. We may change our privacy policy from time to time to incorporate necessary future changes. Of course, our use of any information we gather will always be consistent with the policy under which the information was collected, regardless of what the new policy may be. 
 
-We use third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. In the event you have any grievance relating to the processing of information provided by you, you may contact our Grievance Officer, at tbsl-legal@indiatimes.co.in ; or write at the following address: 
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. 
 
-Times Business Solutions Limited  
-(A Times Group Company)  
-Times Center  
-6 FC, Film City  
-Sector 16 A ,  
-Noida - 201301  
-INDIA   
-Ph: 0120-330 2768  
-[legal.tbsl@timesgroup.com](mailto:legal.tbsl@timesgroup.com)
+**GRIEVANCE REDRESSAL**
 
-We request you to please provide the following information in your complaint:-
+Redressal Mechanism: Any complaints, abuse or concerns with regards to content and or comment or breach of these terms shall be immediately informed to the designated Grievance Officer as mentioned below via in writing or through email signed with the electronic signature to [tcteam@timesgroup.com](mailto:tcteam@timesgroup.com) or Ms. Seena Nair ("Grievance Officer").
+
+**Ms. Seena Nair (Grievance Officer)**
+
+**Ads2book.com Customer Care**   
+Times Business Solutions Limited   
+(A Times Group Company)   
+Times Centre   
+FC-6, Film City   
+Sector 16-A, Noida - 201301, India   
+Email: tcteam@timesgroup.com 
+
+Phone: +91-120-6636362
+
+**We request you to please provide the following information in your complaint:-**
 
 Identification of the information provided by you Clear statement as to whether the information is personal information or sensitive personal information Your address, telephone number or e-mail address. A statement that you have a good-faith belief that the information has been processed incorrectly or disclosed without authorization, as the case may be. A statement, under penalty of perjury, that the information in the notice is accurate, and that the information being complained about belongs to you. 
