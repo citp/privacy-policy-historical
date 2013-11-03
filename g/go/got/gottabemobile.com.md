@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gottabemobile.com privacy policy that was archived on 2013-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130423103529id_/http%3A//www.gottabemobile.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gottabemobile.com privacy policy that was archived on 2013-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131103084308id_/http%3A//www.gottabemobile.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Gotta Be Mobile
+# Gotta Be Mobile | Privacy PolicyPrivacy Policy - Gotta Be Mobile
 
 Privacy Policy  
 This Privacy Policy governs your use of this web site and any content made available from or through this web site located at GottaBeMobile.com, including any subdomains thereof (the “Web Site”). The Web Site is made available by Notebooks.com Inc. (or “we” or “us”).  
