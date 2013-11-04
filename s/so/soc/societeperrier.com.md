@@ -1,19 +1,8 @@
-> *The following text is extracted and transformed from the societeperrier.com privacy policy that was archived on 2013-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130529161712id_/http%3A//societeperrier.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the societeperrier.com privacy policy that was archived on 2013-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131104124603id_/http%3A//societeperrier.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Société Perrier
+# Privacy Policy | Global
 
-## The Source for Nightlife & Culture
-
-  * [Nightlife](http://societeperrier.com/category/nightlife/)
-  * [Art](http://societeperrier.com/category/art/)
-  * [Music](http://societeperrier.com/category/music/)
-  * [Fashion](http://societeperrier.com/category/fashion/)
-  * [Travel](http://societeperrier.com/category/travel/)
-  * [Cocktail Culture](http://societeperrier.com/category/cocktail-culture/)
-
-
-
-Mirrorball Group LLC (“Company”) has created this consumer privacy policy statement in order to demonstrate our firm commitment to your privacy. The following discloses our practices regarding information collection and use solely for the web site located at www.societeperrier.com (the "Service"). By using or accessing or using the Service, you signify your agreement to be bound by our Privacy Policy. IF YOU DO NOT AGREE TO THIS PRIVACY POLICY YOU MAY NOT ACCESS OR OTHERWISE USE THE SERVICE.
+Mirrorball Group LLC (“Company”) has created this consumer privacy policy statement in order to demonstrate our firm commitment to your privacy. The following discloses our practices regarding information collection and use solely for the web site located at www.societeperrier.com (the “Service”). By using or accessing or using the Service, you signify your agreement to be bound by our Privacy Policy. IF YOU DO NOT AGREE TO THIS PRIVACY POLICY YOU MAY NOT ACCESS OR OTHERWISE USE THE SERVICE.
 
 Thank you for visiting this Nestlé Waters North America Inc. (also referred to as “we,’ “us,” and “our”) website. We know that you care how information about you is used and shared, and we want to keep your trust that we will do so carefully and sensibly. This Privacy Policy describes our information practices. By visiting our site, you are accepting the practices described in this Privacy Policy. We encourage you to read this Privacy Policy before you submit any personal information on this website.  
 What information about customers do we gather?
@@ -38,7 +27,7 @@ If demographic information is collected for an activity or service that also req
 ## Cookies
 
 We use cookies to improve the use and functionality of our website. A cookie is a small file that websites often store on a user’s computer. Storage of cookies on your system provides an easy and convenient way for us to personalize or enhance your experience on our website and to make your next visit more enjoyable. For example, cookies may allow us to remember the content you previously viewed on our website or your log-in information. Cookies may also be used to remember items you have previously placed in your shopping cart when making purchases. We do not use cookies to collect personally identifiable information, however we may link information contained in a cookie to personally identifiable information collected from you by other means (e.g., website registration).  
-You can always disable cookies or set your browser to alert you when cookies are being sent to your computer. The "help" portion of the toolbar on most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. However, if you do so, you may not be able to register on our website or use other features that require registration or the collection of information.
+You can always disable cookies or set your browser to alert you when cookies are being sent to your computer. The “help” portion of the toolbar on most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. However, if you do so, you may not be able to register on our website or use other features that require registration or the collection of information.
 
 ## IP Addresses
 
@@ -82,7 +71,7 @@ There are two types of surveys that may be conducted on this website. One is whe
 
 ## Message Boards and other interactive features
 
-Visitors may post reviews, comments, and other content; send e-cards and other communications; and submit suggestions, ideas, comments, questions, or other information, so long as the content is not illegal, obscene, threatening, defamatory, invasive of privacy, infringing of intellectual property rights, or otherwise injurious to third parties or objectionable and does not consist of or contain software viruses, political campaigning, commercial solicitation, chain letters, mass mailings, or any form of "Spam". You may not use a false e-mail address, impersonate any person or entity, or otherwise mislead as to the origin of a card or other content. We reserve the right (but do not have the obligation) to remove or edit such content, but do not regularly review posted content.
+Visitors may post reviews, comments, and other content; send e-cards and other communications; and submit suggestions, ideas, comments, questions, or other information, so long as the content is not illegal, obscene, threatening, defamatory, invasive of privacy, infringing of intellectual property rights, or otherwise injurious to third parties or objectionable and does not consist of or contain software viruses, political campaigning, commercial solicitation, chain letters, mass mailings, or any form of “Spam”. You may not use a false e-mail address, impersonate any person or entity, or otherwise mislead as to the origin of a card or other content. We reserve the right (but do not have the obligation) to remove or edit such content, but do not regularly review posted content.
 
 We encourage you to be wary of giving out personally identifiable information or images about yourself in public areas such as on a message board or other online community feature. Such information can be collected and used by people you do not know. As such, we cannot guarantee the security and privacy of, and are not responsible for, any information you post in these areas. Your use of these features is at your own risk. Please note that if you choose to post a picture or message through one of these features, we may post, along with the picture or message, certain non-personally identifiable information about you, such as your username and/or city and state of residence.
 
@@ -153,7 +142,7 @@ In addition, please note that if you participated in a promotion or program that
 
 ## Children
 
-This website is a general audience website. We do not sell products for purchase by children or knowingly collect personally identifiable information from any person under the age of 13. Children under the age of 13 should always get their parent's or guardian's consent before providing information to anyone via the Internet. If you are under the age of 13, you should not register or provide any information on our Web site. We do not sell products for purchase by children. If you are under 18, you may use this site only with involvement of a parent or guardian.
+This website is a general audience website. We do not sell products for purchase by children or knowingly collect personally identifiable information from any person under the age of 13. Children under the age of 13 should always get their parent’s or guardian’s consent before providing information to anyone via the Internet. If you are under the age of 13, you should not register or provide any information on our Web site. We do not sell products for purchase by children. If you are under 18, you may use this site only with involvement of a parent or guardian.
 
 ## Terms and Conditions, Notices, and Revisions
 
