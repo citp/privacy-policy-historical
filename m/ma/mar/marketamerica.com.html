@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the marketamerica.com privacy policy that was archived on 2013-04-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130420075920id_/http%3A//www.marketamerica.com/site/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the marketamerica.com privacy policy that was archived on 2013-11-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131104121559id_/http%3A//www.marketamerica.com/site/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html><!--<![endif]--><head>
+<!DOCTYPE html><html style="" class=" js flexbox flexboxlegacy canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths"><!--<![endif]--><head>
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 	<meta name="description" content="Market America's UnFranchise® Business Development System is a proven business plan with clear vision and strength, enabling Independent Distributors to earn residual income, which can lead toward financial security. This powerful system offers unparalleled benefits and support with no territorial restrictions—only the opportunity for Distributors to build their business as fast or as slow as they desire.">
 	<meta name="keywords" content="Independent Distributors, Financial Security, internet shopping website, one-to-one marketing">
@@ -13,9 +13,11 @@
 
 	<link rel="icon" href="/default/images/favicon.ico" type="image/x-icon">
 	<link rel="shortcut icon" href="/default/images/favicon.ico" type="image/x-icon">
-
+	<link href="http://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700" rel="stylesheet" type="text/css">
+	<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="/default/js/modernizr-2.6.2.min.js"></script>
 	
-	<link rel="stylesheet" href="/default/css/screen.css" type="text/css" media="all">
+	<link rel="stylesheet" href="/default/css/screen.css?10" type="text/css" media="all">
+ <link rel="stylesheet" href="/default/css/jquery.fancybox-1.3.4.css" type="text/css" media="all">
 
 	
 	
@@ -26,8 +28,7 @@
 	<!--[if lte IE 8]>
 	<script src="/default/includes/themes/merced/js/ie/lte8/html5.js" type="text/javascript" language="Javascript"></script>
 	<![endif]-->
-
-	<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
+	<script type="text/javascript">
   var _gaq = _gaq || [];
   _gaq.push(['_setAccount', 'UA-12553092-3']);
   _gaq.push(['_trackPageview']);
@@ -62,8 +63,7 @@ var rb="en";
 </script><script type="text/javascript" src="/default/js/jquery/jquery.js"></script></head>
 
 <body id="privacypolicy" class="oneCol">
-<div id="languageSelection">
-<script>
+ <script>
 var MP = {
 <!-- mp_trans_disable_start -->
   Version: '1.0.23',
@@ -115,45 +115,95 @@ switchToLang: function(url) {
 <!-- mp_trans_disable_end -->
 };
 </script>
- <ul>
-  <li><a class="lang" mporgnav="" href="http://es.marketamerica.com/enes/" onclick="return switchLanguage('es'); function switchLanguage(lang) {MP.SrcUrl=decodeURIComponent('mp_js_orgin_url');MP.UrlLang='mp_js_current_lang';MP.init();MP.switchLanguage(MP.UrlLang==lang?'en':lang);return false;}">Español</a></li>
-  <li class="countries"><a mporgnav="" href="http://www.marketamerica.com" class="chosen" title="USA and Canada"><img src="/default/assets/Image/iconFlagUSACAN.gif"></a></li>
-  <li><a href="http://www.marketamerica.mx" title="Mexico"><img src="/default/assets/Image/iconFlagMex.gif"></a></li>
- </ul>
-</div>
-<div id="site">
- 
+
 <script type="text/javascript">
  $(document).ready(function(){
-   $("ul#nav li").hover(function(){
-   $(this).addClass("hover");
-   $("ul",this).css("visibility", "visible");
-  }, function(){
-   $(this).removeClass("hover");
-   $("ul",this).css("visibility", "hidden");
-  });
+  var $html = $("html"),
+      $mainContent = $("#main-content"),
+      $header = $("#header"),
+      $utilities = $header.find(".utilities"),
+      $mainNav = $header.find("nav");
+  $header
+   .find(".ie7 ul > li > a, .touch ul > li > a")
+    .on("click", function(event){
+     var $obj = $(this);
+     $obj.hasClass("active") ? close($obj.parent()) : open($obj.parent());
+    });
+   $utilities
+    .on("click", "div.icon", function(event){
+     var $obj = $(this);
+     $obj.hasClass("active") ? close($obj) : open($obj);
+    });
+   $mainContent
+    .on("click", function(event){
+     close($header.find(".active"));
+    });
+   $("#hero")
+    .on("click", function(event){
+     close($header.find(".active"));
+    });
  });
+ function open(obj){
+  close($("#header").find(".active"));
+  obj
+   .addClass("active");
+ }
+ function close(obj){
+  obj
+   .removeClass("active");
+ }
 </script>
- <div id="header">
-  <a href="/" id="marketAmerica">Market America<sup>®</sup></a>
-  <div id="topSearch">
-   <ul>
-    <li><strong>Share</strong></li>
-    <li><a href="http://www.twitter.com/MarketAmerica" target="_blank" id="twitter" title="Market America on Twitter">Market America on Twitter</a></li>
-    <li><a href="http://www.facebook.com/marketamerica" target="_blank" id="facebook" title="Market America on Facebook">Market America on Facebook</a></li>
-    <li><a href="http://www.youtube.com/marketamerica" target="_blank" id="youTube">Market America on YouTube</a></li>
-   </ul>
-   <form action="/site/" id="searchForm">
+<header id="header">
+ <div class="wrapper">
+  <a alt="marketamerica.com" class="logo" href="http://www.marketamerica.com">
+   market<em>america</em><sup>®</sup>
+   <img src="/default/assets/Image/market-america-logo.png">
+  </a>
+  <section class="utilities clear">
+   <form action="/site/search-results/" id="searchForm">
     <fieldset>
-     <input type="text" name="Keywords" id="txtKeywords" class="text" value="">
+     <input type="text" name="Keywords" id="txtKeywords" class="text" placeholder="Search Market America..." value="">
      <input type="hidden" name="display" value="search">
      <input type="hidden" name="newSearch" value="true">
      <input type="hidden" name="noCache" value="1">
-     <input type="submit" class="btn" value="Search">
+     <button class="icon search" type="submit"><span>Search</span></button>
+     <!-- <input type="submit" class="button icon search" value="" /> -->
     </fieldset>
    </form>
-  </div>
-  <ul id="nav">
+   <script type="text/javascript">
+   <!--
+    var defaultText = "Search Market America...";
+    var searchBox = document.getElementById("txtKeywords");
+    //default text after load
+    searchBox.value = defaultText;
+    //on focus behaviour
+    searchBox.onfocus = function(){
+     if(this.value == defaultText){//clear text field
+      this.value = '';
+     }
+    }
+    //on blur behaviour
+    searchBox.onblur = function(){
+     if (this.value == "") {//restore default text
+      this.value = defaultText;
+     }
+    }
+   //-->
+   </script>
+   <div class="country icon arrow-d">
+    <a class="usa" href="javascript:void(0);">Country</a>
+    <ul>
+     <li><a mporgnav="" class="usa" href="http://www.marketamerica.com">USA</a></li>
+     <li><a class="mex" href="http://www.marketamerica.mx">MEX</a></li>
+    </ul>
+   </div>
+   <div class="lang">
+    <a class="lang" mporgnav="" href="http://es.marketamerica.com/enes/" onclick="return switchLanguage('es'); function switchLanguage(lang) {MP.SrcUrl=decodeURIComponent('mp_js_orgin_url');MP.UrlLang='mp_js_current_lang';MP.init();MP.switchLanguage(MP.UrlLang==lang?'en':lang);return false;}">Español</a>
+   </div>
+  </section>
+  <br clear="all"><!-- the br is only for IE 7 -->
+  <nav class="clear">
+   <!-- <ul id="nav">
 	<li><a class="menu" href="javascript:void(0);">Innovation</a>
 		<ul class="subNav">
 			<li><a href="/site/one-to-one-marketing/">One to One Marketing</a></li>
@@ -177,33 +227,87 @@ switchToLang: function(url) {
 			<li><a href="/site/million-dollar-club/">Million Dollar Club Members</a></li>
 		</ul>
 	</li>
-	<li><a href="/site/the-unfranchise-business/">The UnFranchise<sup>®</sup> Business</a></li>
+	<li><a href="/site/the-unfranchise-business/">The UnFranchise<sup>&reg;</sup> Business</a></li>
 	<li><a class="menu" href="javascript:void(0);">News/Media</a>
 		<ul class="subNav">
 			<li><a href="/site/news-Media/">News/Press Releases</a></li>
-			<li><a href="/site/multimedia-videos/">Videos</a></li>			
+			<li><a href="/site/multimedia-videos/">Videos</a></li>
 			<li><a href="/site/press-kits/">Press Kits</a></li>
-
 		</ul>
 	</li>
-	<li><a class="menu" href="javascript:void(0);">Corporate</a>
+	<li><a class="menu last" href="javascript:void(0);">Corporate</a>
 		<ul class="subNav">
 			<li><a href="/site/executive-team/">Executive Team</a></li>
 			<li><a href="/site/global-operations/">Global Operations</a></li>
 			<li><a href="/site/history-of-market-america/">History</a></li>
-			<li><a href="http://marketamerica.catsone.com/careers/" target="_blank">Careers</a></li>
+			<li><a href="https://workforcenow.adp.com/jobs/apply/posting.html?client=maeagle" target="_blank">Careers</a></li>
 			<li><a href="http://www.beingjrridinger.com/" target="_blank">CEO's Blog</a></li>
 			<li><a href="http://www.marketamericaevents.com" target="_blank">Market America Events</a></li>
 			<li><a href="http://www.macares.org" target="_blank">MA Cares</a></li>
 		</ul>
 	</li>
-</ul>
+</ul> Navigation -->
+   <ul class="clear">
+    <li class="home">
+     <a href="/">Home</a>
+    </li>
+    <li>
+     <a href="javascript:void(0);">Innovation</a>
+     <ul>
+      <li><a href="/site/one-to-one-marketing/">One to One Marketing</a></li>
+      <li><a href="/site/internet-marketing/">Internet Marketing &amp; Cashback</a></li>
+      <li><a href="/site/changing-healthcare/">Changing Healthcare</a></li>
+      <li><a href="/site/social-shopping/">Social Shopping</a></li>
+      <li><a href="/site/economy-of-the-future/">Economy of the Future</a></li>
+     </ul>
+    </li>
+    <li>
+     <a href="javascript:void(0);">Built on Product</a>
+     <ul>
+      <li><a href="/site/product-brokerage/">Product Brokerage</a></li>
+      <li><a href="/site/our-brands/">Our Brands</a></li>
+      <li><a href="/site/our-partners/">Our Partners</a></li>
+      <li><a href="/site/product-quality-assurance/">Product Quality Assurance</a></li>
+     </ul>
+    </li>
+    <li>
+     <a href="javascript:void(0);">Powered by People</a>
+     <ul>
+      <li><a href="/site/power-profiles/">Power Profiles</a></li>
+      <li><a href="/site/million-dollar-club/">Million Dollar Club Members</a></li>
+     </ul>
+    </li>
+    <li>
+     <a href="/site/the-unfranchise-business/">The UnFranchise<sup>®</sup> Business</a>
+    </li>
+    <li>
+     <a href="javascript:void(0);">News/Media</a>
+     <ul>
+      <li><a href="/site/news-Media/">News/Press Releases</a></li>
+      <li><a href="/site/multimedia-videos/">Videos</a></li>
+      <li><a href="/site/press-kits/">Press Kits</a></li>
+     </ul>
+    </li>
+    <li>
+     <a href="javascript:void(0);">Corporate</a>
+     <ul>
+      <li><a href="/site/executive-team/">Executive Team</a></li>
+      <li><a href="/site/global-operations/">Global Operations</a></li>
+      <li><a href="/site/history-of-market-america/">History</a></li>
+      <li><a href="https://workforcenow.adp.com/jobs/apply/posting.html?client=maeagle" target="_blank">Careers</a></li>
+      <li><a href="http://www.beingjrridinger.com/" target="_blank">CEO's Blog</a></li>
+      <li><a href="http://www.marketamericaevents.com" target="_blank">Market America Events</a></li>
+      <li><a href="http://www.macares.org" target="_blank">MA Cares</a></li>
+     </ul>
+    </li>
+   </ul>
+  </nav>
  </div>
+</header>
 
-
- <div id="content" class="clearfix">
-  <article>
-   <h1>Your Market America Privacy Policy</h1>
+<section id="main-content" class="clear">
+ <div class="wrapper">
+  <h1>Your Market America Privacy Policy</h1>
 <p>We appreciate the trust you place in Market America, and we are committed to respecting your privacy and the security of your personal information. Our privacy policy describes the information we collect and how we use it.</p>
 <h2>Information We Collect</h2>
 <ol>
@@ -263,31 +367,112 @@ switchToLang: function(url) {
 <p>We always welcome your questions and feedback. For privacy-related issues, please contact us at <a href="mailto:privacy@marketamerica.com">privacy@marketamerica.com.</a></p>
 <p>Revised March 6, 2012</p>
 <p>&nbsp;</p> 
-  </article>
  </div>
- 
-<footer>
- <div id="footer">
-  <ul>
-   <li><a href="/site/contact-us/">Contact Us</a></li>
-   <li><a href="/site/privacy-policy/">Privacy Policy</a></li>
-   <li><a href="/site/terms-of-service/">Terms of Service</a></li>
-   <li><a href="http://marketamerica.catsone.com/careers/index.php?m=portal" target="_blank">Careers</a></li>
-   <li>© 2013 Market America</li>
-   <li><a href="http://www.unfranchise.com/" target="_blank">Business Owner Log-In</a></li>
-   <li><a href="http://www.shop.com/" target="_blank">SHOP.COM</a></li>
-  </ul>
- </div>
+</section>
+
+<footer id="footer" class="clear">
+ <span>© 2013 Market America</span>
+ <nav class="clear">
+  <a href="/site/contact-us/">Contact Us</a>
+  <a href="/site/privacy-policy/">Privacy Policy</a>
+  <a href="/site/terms-of-service/">Terms of Service</a>
+  <a href="/site/site-map/">Site Map</a>
+  <a href="https://workforcenow.adp.com/jobs/apply/posting.html?client=maeagle" target="_blank">Careers</a>
+  <a href="http://www.unfranchise.com/" target="_blank">Business Owner Log-In</a>
+  <a href="http://www.shop.com/" target="_blank">SHOP.COM</a>
+ </nav>
+ <section>
+  <figure> 
+   <img alt="" src="/default/assets/Image/awards/fast-50-2013.jpg" title="">
+  </figure>
+  <figure>
+   <a href="http://www.GrantThornton.com/NC100"><img alt="GrantThornton Top 100" src="/default/assets/Image/awards/GrantThornton-100.jpg" title=""></a>
+  </figure>
+  <figure>
+   <img alt="BBB 2013 Torch Award winner" src="/default/assets/Image/awards/2013-Torch-Award-winner-ma.png" title="BBB 2013 Torch Award winner">
+  </figure>
+ </section>
 </footer>
 <script type="text/javascript">
+ // youtube video fix
+  var $mainContent = $("#main-content"),
+      $videoIframe = $mainContent.find("iframe.fancy-video"),
+      $videoIframeSrc = $videoIframe.attr("src"),
+      $videoIframeClasses = $videoIframe.attr("class"),
+      $videoIframeDataImage = $videoIframe.data("video-image");
+  $videoIframe
+   .replaceWith("<a class='" + $videoIframeClasses +"' href='" + $videoIframeSrc + "'><figure><img src='/default/assets/Image/video-preview/" + $videoIframeDataImage + "'></figure></a>");
+ // youtube video fix
+
  $(document).ready(function(){
+  var $mainContent = $("#main-content"),
+      $html = $("html");
   $("body").delegate("a[href*=shop.com]", "click", function(event){
    var $obj = $(this);
    $obj.attr("href", $obj.attr("href").replace("shop.com", "shop.com"));
-  });
- });
+  });// /shop.com portal ID
+
+  // youtube video fix
+  var $videoAnchor = $mainContent.find("a.fancy-video");
+  $videoAnchor
+   .on("click", function(event){
+    event.preventDefault();
+    $.fancybox({
+     "type" : "iframe",
+     // hide the related video suggestions and autoplay the video
+     "href" : this.href.replace(new RegExp('watch\\?v=', 'i'), 'embed/') + '?rel=0&autoplay=1',
+     "overlayShow" : true,
+     "centerOnScroll" : true,
+     "speedIn" : 100,
+     "speedOut" : 50,
+     "width" : 853,
+     "height" : 480
+    });
+   });
+   // ie7 play button fix.
+   if($html.hasClass("ie7") || $html.hasClass("ie8")){
+    $videoAnchor
+     .prepend("<span class='before'></span>");
+   }
+  // /youtube video fix
+
+  // country select
+  $("a#countrySelect")
+   .fancybox({
+    "transitionIn" : "elastic",
+    "transitionOut" : "elastic",
+    "speedIn"  : 600,
+    "speedOut"  : 200,
+    "overlayShow" : false
+   });
+  // /country select
+
+  var download = $mainContent.find(".download"),
+      downloadFiles = download.find("a[href$='.pdf'], a[href$='.psd'], a[href$='.ai'], a[href$='.png'], a[href$='.jpg']");
+   downloadFiles
+    .each(function(i, obj){
+     var link = $(obj);
+     $.ajax({
+      type: "GET",
+      url: link.attr("href"),
+      success: function(data, status, xhr){
+       var length = xhr.getResponseHeader("Content-Length");
+       if(!isNaN(parseInt(length))){
+        var fileSize = readablizeBytes(length);
+        link.attr("title", " Size: " +  fileSize);
+       }
+      }
+     })
+    });
+ });// /document.ready
+
+ function readablizeBytes(bytes){
+  var s = ['bytes', 'kb', 'MB', 'GB', 'TB', 'PB'];
+  var e = Math.floor(Math.log(bytes)/Math.log(1024));
+  return (bytes/Math.pow(1024, Math.floor(e))).toFixed(2)+" "+s[e];
+ }// From http://web.elctech.com/2009/01/06/convert-filesize-bytes-to-readable-string-in-javascript/
 </script>
+<script type="text/javascript" src="/default/includes/themes/merced/_static/jquery.fancybox-1.3.4.pack.js"></script>
 
-</div>
 
- </body></html>
+ <div id="fancybox-tmp"></div><div id="fancybox-loading"><div></div></div><div id="fancybox-overlay"></div><div id="fancybox-wrap"><div id="fancybox-outer"><div class="fancybox-bg" id="fancybox-bg-n"></div><div class="fancybox-bg" id="fancybox-bg-ne"></div><div class="fancybox-bg" id="fancybox-bg-e"></div><div class="fancybox-bg" id="fancybox-bg-se"></div><div class="fancybox-bg" id="fancybox-bg-s"></div><div class="fancybox-bg" id="fancybox-bg-sw"></div><div class="fancybox-bg" id="fancybox-bg-w"></div><div class="fancybox-bg" id="fancybox-bg-nw"></div><div id="fancybox-content"></div><a id="fancybox-close"></a><div id="fancybox-title"></div><a href="javascript:;" id="fancybox-left"><span class="fancy-ico" id="fancybox-left-ico"></span></a><a href="javascript:;" id="fancybox-right"><span class="fancy-ico" id="fancybox-right-ico"></span></a></div></div></body></html>
