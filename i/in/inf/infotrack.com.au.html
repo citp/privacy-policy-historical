@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the infotrack.com.au privacy policy that was archived on 2013-05-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130505143214id_/http%3A//infotrack.com.au/privacy/index.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the infotrack.com.au privacy policy that was archived on 2013-11-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131104113443id_/http%3A//www.infotrack.com.au/privacy/index.htm) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><!-- InstanceBegin template="/Templates/content.dwt" codeOutsideHTMLIsLocked="false" --><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -75,7 +75,7 @@
     <div id="menubar">
 <!-- ===================== -->
           <div id="menu">
-            <ul class="nav">
+            <ul id="main-nav">
             <li><a href="../tour/index.htm"><span>Tour</span></a></li>
 				
             <li><a href="../enquiries/get-started.htm">Get Started</a></li>
@@ -85,29 +85,49 @@
 			<li><a href="../integrations/index.htm">Integrations</a></li>
             
             <li><a href="../support/index.htm"><span>Support</span></a>
-                    <div style="padding-bottom: 10px; height: 70px; width: 148px"></div>
+                    
                     <ul>
                         <li><a href="../support/help.htm">Getting Help</a></li>
-                        <li><a href="../support/tutorials.htm">Tutorials</a></li>
-                        <li><a href="../support/events.htm">Events</a></li>
+                        <li><a href="../tour/demo.htm">Demos</a></li>
+                        <li><a href="../training/index.htm">Training</a></li>
+                        
+                    </ul>
+            </li>
+            
+            <li><a href="/news/index.htm">News</a>
+                    <ul>
+                        <li><a href="/news/econveyancing-portal/index.htm">e-Conveyancing Portal</a></li>
+                        <li><a href="/news/newsletter-archive/index.htm">Newsletter Archive</a></li>
+                        <li><a href="/news/whitepapers/index.htm">Whitepapers</a></li>
+                        
+                        <li><a href="/news/events/index.htm">Events</a></li>
+                        <li><a href="/news/media/index.htm">Media</a></li>
                     </ul>
             </li>
 				
                 <li><a href="../about/index.htm"><span>About</span></a>
-                    <div style="padding-bottom: 10px; width: 148px; height: 130px"></div>
+                   
                     <ul>
+                    	<li><a href="../about/why-choose-InfoTrack.htm">Why Choose Us</a></li>
+                        
                         <li><a href="../about/leadership.htm">Leadership</a></li>
-                        <li><a href="../about/why-choose-InfoTrack.htm">Why Choose Us</a></li>
+                        <li><a href="../about/business-development.htm">Business Development</a></li>
+                        
                         <li><a href="../about/National-HelpDesk.htm">HelpDesk Team</a></li>
 						<li><a href="../about/QLD-Team.htm">Queensland Team</a></li>
                         <li><a href="../about/careers.htm">Careers</a></li>
+                        <li><a href="../about/life-at-infotrack.htm">Life at InfoTrack</a></li>
+                        <li><a href="../about/jobsupport.htm">Jobsupport</a></li>
+                        
                     </ul>
                 </li>
-                <li><a href="../contact/index.htm"><span>Contact</span></a>
-                <div style="padding-bottom: 10px; width: 148px; height: 40px"></div>
+                <li><a href="../contact/index.htm">Contact</a>
+                
                     <ul>
                         <li><a href="../contact/resellers.htm">Resellers</a></li>
+                        <li><a href="../contact/manual-service-providers.htm">Manual Service Providers</a></li>
                         <li><a href="../contact/partners.htm">Partners</a></li>
+                        
                         </ul>
                 
                 </li>
@@ -122,7 +142,7 @@
 	<div id="contentwrap">
    	  <div id="banner">
       		<p><a href="../enquiries/get-started.htm">
-            <img src="../images/default/get-started.png" alt="Get Started with InfoTrack" width="200" height="47" vspace="10" border="0"></a>	</p>
+            <img src="../images/default/get-started.png" alt="Get Started with InfoTrack" width="200" height="47" border="0" style="margin-bottom: 15px;"></a>	</p>
             <p class="number">Call 1800 738 524</p>
             <p><a href="../enquiries/download-brochures.htm">Download Services Brochure</a></p>
             <!-- InstanceBeginEditable name="sidebar" -->
@@ -199,7 +219,8 @@
        <p><strong>Partners</strong></p>
 	   <ul>
 		<li><a href="../contact/partners.htm">InfoTrack Partners</a></li>
-		<li><a href="../contact/resellers.htm">Resellers</a></li>
+		<li><a href="../contact/resellers.htm#resellers">List of Resellers</a></li>
+        <li style="margin-top:7px;"><a href="../contact/resellers.htm">Become a Reseller</a></li>
        </ul>             
        </div>
        
@@ -215,15 +236,11 @@
    </div> 
 </div>     
 
-    <!-- Salesforce Tracking Code, Place immediately before closing </BODY> tag -->
-    <script type="text/javascript" src="https://lct.salesforce.com/sfga.js"></script>
-    <script type="text/javascript">        __sfga();</script>
-    <!-- End Salesforce Tracking Code, Place immediately before closing </BODY> tag --><script type="text/javascript" language="javascript">
+
+<script type="text/javascript" language="javascript">
         $(document).ready(function () {
 			
             $("#Username").focus();
-
-
 
             var urlParams = {};
             (function () {
@@ -244,11 +261,16 @@
                     doLogin();
             });
 
-            function doLogin() {
+            function doLogin() {			
                 var entryPoint = typeof urlParams["ReturnUrl"] !== "undefined" ? urlParams["ReturnUrl"] : "";
                 $('#EntryPoint').val(entryPoint);
 
-                $('#LoginForm').submit();
+				var _this = this; // The form input element that was just clicked
+				_gaq.push(['_set','hitCallback',function() {
+				$(_this).parents('form').first().submit(); // Submit underlying form
+				}]);
+				_gaq.push(['_trackEvent', 'Membership', 'Login', $('#Username').val()]);	
+				return !window._gat; // Ensure that the event is bubbled if GA is not loaded
             }
 
             if (typeof urlParams["error"] !== "undefined")
