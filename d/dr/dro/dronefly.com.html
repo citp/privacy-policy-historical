@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the dronefly.com privacy policy that was archived on 2013-05-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130504164624id_/http%3A//www.dronefly.com/terms_privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the dronefly.com privacy policy that was archived on 2013-11-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131104233612id_/http%3A//www.dronefly.com/terms_privacy.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1"></script><script type="text/javascript" src="/a/j/milonic/milonic_src.js"></script>
@@ -14,9 +14,10 @@ var Config_CDN_URL = '/'
 <script type="text/javascript" src="/v/vspfiles/templates/192/Menu_Popout_Data.js"></script>
 
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<meta name="Description" content="DroneFly.com is the best place to buy RC drones, multirotor RC copters, etc.">
-<meta name="Keywords" content="hero hd, hd hero, Dronefly, dji, phantom, drone, rc, copters, helicopters, toys, s800, zenmuse, gopro, hero 2, hero 3, dji innovations, fly, camera, aerial, cinematography, fun, air, radio controlled, aircraft, redbull, monster, rockstar, surf, surfing, skate, skateboarding, flight">
-<title>Terms: Privacy</title>
+<meta name="google-site-verification" content="vw7mcDfz6LR8Hc-COUU-6y3XiSmZ0rabiTVZTC_K-gc">
+<meta name="Description" content="View our Privacy Policy here.">
+<meta name="Keywords" content="">
+<title>Privacy Policy | DroneFly.com</title>
 <meta name="robots" content="index,follow">
 <meta name="GOOGLEBOT" content="INDEX, FOLLOW">
 
@@ -24,6 +25,7 @@ var Config_CDN_URL = '/'
 <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
 <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jqueryui/1.8.4/jquery-ui.min.js"></script>
 <link type="text/css" href="//ajax.googleapis.com/ajax/libs/jqueryui/1.8.4/themes/base/jquery-ui.css" rel="stylesheet">
+<link type="text/css" href="/a/c/default.css" rel="stylesheet">
 
 
 <script type="text/javascript">
@@ -39,7 +41,30 @@ var Config_CDN_URL = '/'
     var PageText_843 = "Subtotal";
     var PageText_844 = "items in cart";
 </script>
+<script type="text/javascript" src="/a/j/volusion.js?currentBuild"></script>
+<script type="text/javascript">
+    (function ($) {
+        volusion.ready(function () {
+            if (volusion.cart.isObservingCount()) {
+                var ts = new Date().getTime();
 
+                $.getJSON('/ajaxcart.asp?cachebust=' + ts, function (data) {
+                    var quantityTotal = 0;
+                    $.each(data.Products, function (key, val) {
+                        if (val.IsProduct === 'Y') {
+                            quantityTotal += parseInt(val.Quantity);
+                        } else if (val.IsAccessory === 'Y') {
+                            quantityTotal += parseInt(val.Quantity);
+                        }
+                    });
+                    quantityTotal = quantityTotal || '0';
+                    volusion.cart.itemCount(quantityTotal);
+                });
+
+            }
+        });
+    } (jQuery));
+</script>
 
 
 <script type="text/javascript" src="/a/j/soft_add.js"></script>
@@ -67,7 +92,7 @@ DO NOT ADD YOUR OWN META TAGS, ONLY PUT CSS/JAVSCRIPT INCLUDES IN YOUR HEAD TAG 
 <meta id="v65-layout-mode" data-cart="storedot" data-checkout="storedot">
 	<!-- Start WOWSlider.com HEAD section -->
 	<link rel="stylesheet" type="text/css" href="/v/engine1/style.css">
-	<script type="text/javascript" src="/v/engine1/jquery.js"></script>
+	<!--<script type="text/javascript" src="/v/engine1/jquery.js"></script>-->
 	<!-- End WOWSlider.com HEAD section -->
 </head>
 
@@ -195,11 +220,21 @@ DO NOT ADD YOUR OWN META TAGS, ONLY PUT CSS/JAVSCRIPT INCLUDES IN YOUR HEAD TAG 
 </div>
 
 <!-- #################### FOOTER #################### -->
-<div id="footer">
+
+<div align="center"><a href="https://www.facebook.com/Dronefly?ref=tn_tnmn" style="font-family: Arial; font-size: 12pt; "><img alt="" src="/v/vspfiles/assets/images/likeusonfacebook_icon.jpg" align="" height="37" border="0px" width="104"></a></div><div align="center"><span style="font-size: 14pt;"><span style="font-family: Arial Black; color: rgb(255, 0, 0); font-size: 14pt;"><span style="font-family: Arial; font-size: 12pt; color: rgb(105, 105, 105);"></span></span></span><div align="left"><span style="font-size: 14pt;"><span style="font-family: Arial Black; color: rgb(255, 0, 0); font-size: 14pt;"><span style="font-family: Arial; font-size: 12pt; color: rgb(105, 105, 105);"></span></span></span></div><span style="font-size: 14pt;"><span style="font-family: Arial Black; color: rgb(255, 0, 0); font-size: 14pt;"><span style="font-family: Arial; font-size: 12pt; color: rgb(105, 105, 105);"><span style="font-size: 10pt;">Share this page on your Facebook, Twitter, or Instagram and you could possibly win a <span style="color: rgb(30, 144, 255); font-size: 10pt;">Free Battery</span>!&nbsp; </span></span></span></span><br></div><div align="center"><img src="/v/vspfiles/assets/images/logos.jpg" alt="" align="" border="0px"></div>
+
+
+ <div id="footer">
+
+
+
+
+
 
 <!-- #################### MAILING LIST SECTION -->
+
         <div id="eList">
-          <form name="MailingList" method="post" action="http://www.dronefly.com/MailingList_subscribe.asp">  
+         <form name="MailingList" method="post" action="http://www.dronefly.com/MailingList_subscribe.asp">  
             <input type="text" id="elist_input" name="emailaddress" value="enter your email" onfocus="if (this.value == 'enter your email') {this.value = '';}" onblur="if (this.value == '') {this.value = 'enter your email';}"> 
             <input type="submit" name="Submit" id="elist_submit" value="Submit">
           </form>
@@ -231,20 +266,25 @@ DO NOT ADD YOUR OWN META TAGS, ONLY PUT CSS/JAVSCRIPT INCLUDES IN YOUR HEAD TAG 
             <li><a href="http://www.dronefly.com/aboutus.asp">About Us</a></li>
             <li><a href="mailto:contact@dronefly.com?subject=Contact Us">Contact Us</a></li>
             <li><a href="http://www.dronefly.com/terms_privacy.asp">Privacy Policy</a></li>
+            <li><a href="http://www.dronefly.com/affiliate_info.asp">Become an Affiliate</a></li>
         </ul>
 
+
 	</div>
+
 
 <!-- ==========================================================================================
 				VOLUSION LINK - BEGIN
 ===============================================================================================
 Customer has agreed per Volusion's Terms of Service (http://www.volusion.com/agreement_monthtomonth.asp) to maintain a text hyperlink to "http://www.volusion.com" in the footer of the website. The link must be standard html, contain no javascript, and be approved by Volusion. Removing this link breaches the Volusion agreement.
 =========================================================================================== -->	
-    <div id="footerBottom">
+ 
+   <div id="footerBottom">
 		<a href="http://www.dronefly.com/terms.asp">Copyright © <script type="text/javascript">document.write((new Date()).getFullYear());</script>2020&nbsp;DroneFly. All Rights Reserved.</a><br>Shopping Cart Powered by <a href="http://www.volusion.com" title="Shopping Cart Software" target="_blank">Volusion</a>.
 	</div>
 </div>
 </div>
+
 
 
 <script type="text/javascript">
