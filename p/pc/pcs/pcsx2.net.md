@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the pcsx2.net privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601015447id_/http%3A//pcsx2.net/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pcsx2.net privacy policy that was archived on 2013-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131104075104id_/http%3A//pcsx2.net/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy policy
 
 ##  [ Privacy policy](http://pcsx2.net/privacy-policy.html)
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at _**bositman "at" pcsx2 "dot" net**_.
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at _**bositman "at" pcsx2 "dot" net**_ or at _**info "at" pcsx2 "dot" net**_.
 
 At pcsx2.net, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by pcsx2.net and how it is used.
 
