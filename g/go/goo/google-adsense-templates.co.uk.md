@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the google-adsense-templates.co.uk privacy policy that was archived on 2013-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130503020520id_/http%3A//www.google-adsense-templates.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the google-adsense-templates.co.uk privacy policy that was archived on 2013-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131105002412id_/http%3A//www.google-adsense-templates.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
