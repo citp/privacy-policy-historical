@@ -1,22 +1,25 @@
-> *The following text is extracted and transformed from the wordans.com privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014153203id_/http%3A//www.wordans.com/display/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wordans.com privacy policy that was archived on 2013-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131104013420id_/http%3A//www.wordans.com/display/page/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Wordans.com
 
-## Wordans.com ("Wordans") is committed to protecting your online privacy 
+  
 
-We have created this privacy policy to make sure you know what information we collect and how we use it. By using our web site, you consent to the collection and use of your information as we have outlined in this policy. From time to time, we may update this privacy policy. We will notify you about material changes in the way we treat personally identifiable information by emailing you and/or placing a notice on our Website. We encourage you to check back and review this privacy policy so that you always will know what personally identifiable information we collect, how we use it, and to whom we disclose it. Your continued use of the Wordans Website will be subject to the then current privacy policy. 
 
-## About uploading and posting information on the Wordans Website
+##  Wordans.com ("Wordans") is committed to protecting your online privacy
 
-At the time you register for a My Wordans account, you will choose and provide us with a user name and password. When you upload a design, post a comment or message on the Wordans Website your user name is visible to other users. Additionally, if your comment or message contains personal information and is posted by you in a page that is accessible to the public, third parties may make note of the information and you may receive unsolicited messages from other parties as a result. Any content or information you upload is not considered personally identifiable information subject to this Privacy Policy. 
+We have created this privacy policy to make sure you know what information we collect and how we use it. By using our web site, you consent to the collection and use of your information as we have outlined in this policy. From time to time, we may update this privacy policy. We will notify you about material changes in the way we treat personally identifiable information by emailing you and/or placing a notice on our Website. We encourage you to check back and review this privacy policy so that you always will know what personally identifiable information we collect, how we use it, and to whom we disclose it. Your continued use of the Wordans Website will be subject to the then current privacy policy.
+
+##  About uploading and posting information on the Wordans Website
+
+At the time you register for a My Wordans account, you will choose and provide us with a user name and password. When you upload a design, post a comment or message on the Wordans Website your user name is visible to other users. Additionally, if your comment or message contains personal information and is posted by you in a page that is accessible to the public, third parties may make note of the information and you may receive unsolicited messages from other parties as a result. Any content or information you upload is not considered personally identifiable information subject to this Privacy Policy.
 
 Always use caution when you post such information.
 
-## What information do we collect? 
+##  What information do we collect?
 
-### Information Provided by You
+###  Information Provided by You
 
-You may provide us with certain personally identifiable information when you: 
+You may provide us with certain personally identifiable information when you:
 
   * register for a MyWordans account
   * order products or gift certificates
@@ -27,31 +30,31 @@ You may provide us with certain personally identifiable information when you:
   * sign up for, or redeem, special offers
   * respond to surveys
   * use our Email-to-a-Friend or Refer-A-Friend features
-  * approve your child's request to open a My Wordans account in accordance with The Children's Online Privacy Protection Act of 1998 (COPPA). 
+  * approve your child's request to open a My Wordans account in accordance with The Children's Online Privacy Protection Act of 1998 (COPPA).
 
 
 
 Such information may include your name, email address, billing address, shipping address, and credit card number. You may also provide us with information about other people, such as their email addresses, if you email a product to a friend or refer a friend to the Wordans Website or our promotions.
 
-### Information Collected by Cookies
+###  Information Collected by Cookies
 
-Wordans uses cookies on the Wordans Website. A cookie is a small text file on your computer which a website sends to your computer to allow the website to store information which uniquely identifies their users. Wordans's cookies do not collect or store personally identifiable information. Rather, the cookie stores a token which uniquely identifies a particular user at a particular time. 
+Wordans uses cookies on the Wordans Website. A cookie is a small text file on your computer which a website sends to your computer to allow the website to store information which uniquely identifies their users. Wordans's cookies do not collect or store personally identifiable information. Rather, the cookie stores a token which uniquely identifies a particular user at a particular time.
 
-That token is then linked to the user information in our secured databases. You can always reset your browser to refuse all cookies or to display a message when a cookie is being sent. If you reset your browser, some of the Wordans Website features and functionality may not be available to you. 
+That token is then linked to the user information in our secured databases. You can always reset your browser to refuse all cookies or to display a message when a cookie is being sent. If you reset your browser, some of the Wordans Website features and functionality may not be available to you.
 
-### Information Collected by Web Beacons and Log Files
+###  Information Collected by Web Beacons and Log Files
 
-Wordans collects certain non-personally identifiable information through the use of web beacons and log files. Such information may include your IP address, browser type, site usage, and whether you opened emails you received from us. 
+Wordans collects certain non-personally identifiable information through the use of web beacons and log files. Such information may include your IP address, browser type, site usage, and whether you opened emails you received from us.
 
-## How do we secure your information? 
+##  How do we secure your information?
 
-When you place orders or access your account information, we use commercially reasonable and generally-accepted technological safeguards to secure any information we collect about you. The secure server software (SSL) we use encrypts all information you input before it is sent to us. In addition, your My Wordans account information is password-protected for your privacy and security. You should always take steps to protect the confidentiality of the password you select. 
+When you place orders or access your account information, we use commercially reasonable and generally-accepted technological safeguards to secure any information we collect about you. The secure server software (SSL) we use encrypts all information you input before it is sent to us. In addition, your My Wordans account information is password-protected for your privacy and security. You should always take steps to protect the confidentiality of the password you select.
 
-We operate internationally and all of our computer systems are currently based in Canada. As a result, your personal data will be processed by us in Canada where data protection and privacy regulations may not offer the same level of protection as in other parts of the world, such as the European Union. If you create a user account with us, you agree to this privacy policy and you consent to the transfer of all information you provide to the United States. 
+We operate internationally and all of our computer systems are currently based in Canada. As a result, your personal data will be processed by us in Canada where data protection and privacy regulations may not offer the same level of protection as in other parts of the world, such as the European Union. If you create a user account with us, you agree to this privacy policy and you consent to the transfer of all information you provide to the United States.
 
-## How do we use information?
+##  How do we use information?
 
-We use the personally identifiable information you provide to: 
+We use the personally identifiable information you provide to:
 
   * provide the features and functionality of the Wordans Website
   * fulfill your requests for our products and services
@@ -66,32 +69,32 @@ provide notices about the results of sweepstakes, contest, and other promotions.
 
 We use your email address to communicate with you about your account and to send you certain notification emails. You can change the frequency of those emails in your MyWordans account settings.
 
-We do not use your email address or other personally identifiable information to send marketing messages without your consent. Similarly, if you email a product to a friend or refer a friend to the Wordans Website or our promotions, we will use your friend's email to send them the e-mail you requested. You and your friend's e-mail addresses will only be used for this purpose unless permission is otherwise granted. 
+We do not use your email address or other personally identifiable information to send marketing messages without your consent. Similarly, if you email a product to a friend or refer a friend to the Wordans Website or our promotions, we will use your friend's email to send them the e-mail you requested. You and your friend's e-mail addresses will only be used for this purpose unless permission is otherwise granted.
 
-We use non-personally identifiable information to monitor the use and performance of the Wordans Website so that we can learn more about how people use the Wordans Website and improve our products and services. 
+We use non-personally identifiable information to monitor the use and performance of the Wordans Website so that we can learn more about how people use the Wordans Website and improve our products and services.
 
-## Does Wordans disclose the information it collects to outside parties? 
+##  Does Wordans disclose the information it collects to outside parties?
 
-Generally, Wordans does not share personal information about you with other people or nonaffiliated companies without your consent except that: 
+Generally, Wordans does not share personal information about you with other people or nonaffiliated companies without your consent except that:
 
-Wordans provides information to its agents and trusted service providers and contractors for limited purposes, such as: 
+Wordans provides information to its agents and trusted service providers and contractors for limited purposes, such as:
 
   * fulfilling customer orders and processing credit card transactions
   * offering certain products and services
   * communicating with customers
   * providing customer service
   * managing information on our behalf
-  * enhancing the Wordans Website features and functionality. 
+  * enhancing the Wordans Website features and functionality.
 
 
 
-In such cases, we require that these parties agree to use the information solely for the purpose for which we provided it to them and in accordance with our privacy policy. 
+In such cases, we require that these parties agree to use the information solely for the purpose for which we provided it to them and in accordance with our privacy policy.
 
-If you sign up for a promotion (e.g., a contest or sweepstakes offer) or enroll in a service we offer in partnership with a third party, we may provide information (such as your name, email address, and account activity) to such third parties. 
+If you sign up for a promotion (e.g., a contest or sweepstakes offer) or enroll in a service we offer in partnership with a third party, we may provide information (such as your name, email address, and account activity) to such third parties.
 
-From time-to-time, Wordans may provide its contributors with the first name and city/state/country of residence of Wordans customers who have purchased such contributor's products. 
+From time-to-time, Wordans may provide its contributors with the first name and city/state/country of residence of Wordans customers who have purchased such contributor's products.
 
-Wordans may also release information (including your name, addresses, telephone number, and account activity) when we, in our sole discretion believe that such release is necessary or appropriate to: 
+Wordans may also release information (including your name, addresses, telephone number, and account activity) when we, in our sole discretion believe that such release is necessary or appropriate to:
 
   * comply with law
   * comply with subpoenas, warrants, court orders, government investigations, or other legal process
@@ -102,23 +105,23 @@ Wordans may also release information (including your name, addresses, telephone 
 
 
 
-In the event that Wordans is acquired by, or merged with, another company Wordans reserves the right to transfer all information we have collected from our users in connection with such acquisition or merger. 
+In the event that Wordans is acquired by, or merged with, another company Wordans reserves the right to transfer all information we have collected from our users in connection with such acquisition or merger.
 
-Wordans may disclose non-personally-identifiable information to third parties in aggregate form to potential business partners and investors. 
+Wordans may disclose non-personally-identifiable information to third parties in aggregate form to potential business partners and investors.
 
-## What about Children's Privacy?
+##  What about Children's Privacy?
 
-Children under the age of thirteen are allowed to upload graphics and images and to order products with their parent's consent. To order products, the child must indicate his or her age, submit his or her name and his or her mailing address and shipping address if different from the mailing address together with a valid credit card number. This is the only information collected from a child. 
+Children under the age of thirteen are allowed to upload graphics and images and to order products with their parent's consent. To order products, the child must indicate his or her age, submit his or her name and his or her mailing address and shipping address if different from the mailing address together with a valid credit card number. This is the only information collected from a child.
 
-This information is used to fulfill the requested order; confirm shipment; complete record keeping including royalty entitlements and pay royalty fees, if any, and to advise the child concerning new Wordans products, services or policies. 
+This information is used to fulfill the requested order; confirm shipment; complete record keeping including royalty entitlements and pay royalty fees, if any, and to advise the child concerning new Wordans products, services or policies.
 
-Parents of children under the age of 13 have the option to consent to the collection of this information from their children or not. Such consent will not be used as consent for the dissemination of any of this information and the information will not be released by Wordans to third parties without the parents' consent except as may be required by law or upon court order. 
+Parents of children under the age of 13 have the option to consent to the collection of this information from their children or not. Such consent will not be used as consent for the dissemination of any of this information and the information will not be released by Wordans to third parties without the parents' consent except as may be required by law or upon court order.
 
-Personal information at Wordans is kept confidential and is disclosed only with the consent of the Wordans user or as set forth in this Privacy Policy. We do not engage in the selling of the habits, behavior, buying patterns, or demographic information of our users. Wordans does not condition a child's participation in any on-line activity on the granting of any unnecessary information beyond that actually needed in connection with that activity. 
+Personal information at Wordans is kept confidential and is disclosed only with the consent of the Wordans user or as set forth in this Privacy Policy. We do not engage in the selling of the habits, behavior, buying patterns, or demographic information of our users. Wordans does not condition a child's participation in any on-line activity on the granting of any unnecessary information beyond that actually needed in connection with that activity.
 
-Parents can review any information Wordans has received from a child and the parent can have that information deleted and the parent can forbid the collection of additional information from their child. If you want to review any information obtained from your child or if you want to have any information obtained from your child deleted from the Wordans records or to forbid any use of such information, you may send a request to Wordans Customer Support by logging into Wordans, going to: 
+Parents can review any information Wordans has received from a child and the parent can have that information deleted and the parent can forbid the collection of additional information from their child. If you want to review any information obtained from your child or if you want to have any information obtained from your child deleted from the Wordans records or to forbid any use of such information, you may send a request to Wordans Customer Support by logging into Wordans, going to:
 
-Contact Us, and sending an email relating to Parental Notification. Alternatively, you may contact the Wordans Privacy Representative by phone, email, or letter at: 
+Contact Us, and sending an email relating to Parental Notification. Alternatively, you may contact the Wordans Privacy Representative by phone, email, or letter at:
 
 Wordans.Com, Inc.
 
@@ -129,8 +132,8 @@ Suite 504
 
 Montreal, QC 
 
-## How can I change, delete, or update my information? 
+##  How can I change, delete, or update my information?
 
-Most of your account information can be changed in the My Wordans section of the Wordans Website. If you have any questions about what information is stored or would like to obtain a copy of such information, please contact us at questions@Wordans.com. After receiving proof of your identity, we will provide the information to you, and you may request that we delete or change any or all of the information. 
+Most of your account information can be changed in the My Wordans section of the Wordans Website. If you have any questions about what information is stored or would like to obtain a copy of such information, please contact us at questions@Wordans.com. After receiving proof of your identity, we will provide the information to you, and you may request that we delete or change any or all of the information.
 
-The current version of the Wordans Privacy Policy was designated effective as of 10/30/2006. 
+The current version of the Wordans Privacy Policy was designated effective as of 10/30/2006.
