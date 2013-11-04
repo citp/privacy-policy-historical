@@ -1,13 +1,125 @@
-<!--The following is the downloaded HTML source of the amcham.org.eg privacy policy that was archived on 2013-05-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130504004543id_/http%3A//amcham.org.eg/Privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the amcham.org.eg privacy policy that was archived on 2013-11-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131104045151id_/http%3A//www.amcham.org.eg/Privacy.asp) for the most accurate reproduction.-->
 
 <html xmlns="http://www.w3.org/1999/xhtml"><head>
+<!--<meta http-equiv="X-UA-Compatible" content="IE=9" />-->
 <meta http-equiv="Content-Type" content="text/html; charset=windows-1256">
+<style type="text/css">
 
+/*start main menu css*/
+.rolloverMenu{
+    float:left;
+    padding: 10px 10px 6px 10px;
+    position: absolute;
+    z-index: 99999;
+    background-color: #cccccc;
+    width: 200px;
+	border-bottom:solid black 1px;
+	border-right:solid black 1px;
+	border-left:solid black 1px;
+/*margin-left:-102px;*/
+}
+.rolloverMenu#mainsubMenu{
+    top: 150px;
+	z-index:99999;
+}
+.rolloverMenu#mainsubMenu1{
+    top: 150px;
+	z-index:99999;
+}
+.rolloverMenu a{
+    color: Black;
+    font-weight: bold;
+    font-size: 11px;
+    line-height: 20px;
+	
+}
+.rolloverMenu:Hover{
+
+ float:left;
+    padding: 10px 10px 6px 10px;
+    position: absolute;
+    z-index: 99999;
+    background-color: #cccccc;
+    width: 200px;
+}
+
+/*end main menu css*/
+</style>
+<script type="text/javascript" async="" src="https://web.archive.org/web/20130403091231/https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
+//start main menu script
+function rolloverMenu(showHide, menu)
+{
+    //var linkObj = document.getElementById('mainLink');
+    var menuObj = document.getElementById(menu);
+    if (showHide == 0)
+    {
+        menuObj.style.display = 'none';
+      //  linkObj.setAttribute('class', 'mainNav');
+      //  linkObj.setAttribute('className', 'mainNav');
+	  
+    }
+    else
+    {
+        menuObj.style.display = 'block';
+      //  linkObj.setAttribute('class', 'selectedRollover');
+       // linkObj.setAttribute('className', 'selectedRollover');
+	   
+    }
+}
+
+   function ChangebgLeft() {
+        //
+        
+		document.getElementById("LiEA").style.backgroundImage="url(http://www.amcham.org.eg/menulayout/images/left.jpg)";
+		document.getElementById("EAa").style.color="Black";
+    }
+    function OriginalbgLeft() {
+        //
+       document.getElementById("LiEA").style.backgroundImage="none";
+		document.getElementById("EAa").style.color="#cccccc";
+    }
+	
+	 function ChangebgRight() {
+        //
+        
+		document.getElementById("LiTR").style.backgroundImage="url(http://www.amcham.org.eg/menulayout/images/right.jpg)";
+		document.getElementById("TRa").style.color="Black";
+    }
+    function OriginalbgRight() {
+        //
+       document.getElementById("LiTR").style.backgroundImage="none";
+		document.getElementById("TRa").style.color="#cccccc";
+    }
+
+function Changebg(LiName,AnchorName)
+	{
+		
+			document.getElementById(LiName).style.background="#cccccc";
+		document.getElementById(AnchorName).style.color="Black";
+		
+	}
+	function Originalbg(LiName,AnchorName)
+	{
+		
+			document.getElementById(LiName).style.background="none";
+		document.getElementById(AnchorName).style.color="#cccccc";
+		
+	}
+	
+	function ActiveColor(AnchorName)
+	{
+		
+			
+		document.getElementById(AnchorName).style.color="Black";
+		
+	}
+//end main menu script
+</script>
 <link rel="icon" href="/favicon.ico" type="image/x-icon">
 <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
 
-<script type="text/javascript" async="" src="https://web.archive.org/web/20130403091231/https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/includes/ajax/ajaxNavigation2.js"></script>
+<script type="text/javascript" src="/includes/ajax/ajaxNavigation2.js"></script>
 <script type="text/javascript" src="/includes/javascript/myapplications.js"></script>
 
 <script language="JavaScript"> 
@@ -40,31 +152,24 @@ oldframe.parentNode.replaceChild( newframe ,oldframe )
 <script language="JavaScript">
 function GetBannerAd(){ 
 var browDateTime = (new Date()).getTime();
-var MyCount=39;
-
+var MyCount=54;
 x++;
 
-	
-  if (x<=MyCount) {
-			TopcollapseCreative('TopContainerDivID')
-
-  			  open_url('http://www.amcham.org.eg/webads/banman_NewSite.asp?ZoneID=109&Task=Get&X='+browDateTime+'&u=%2FPrivacy%2Easp','TopMy_site_content')
-			  
-				if (x==5) {x=0}
-				}
-	else
-				{
-				if (x==5) {x=0}
-			  TopcollapseCreative('TopContainerDivID')
-
-		 
-  			  open_url('http://www.amcham.org.eg/webads/banman_NewSite.asp?ZoneID=400&Task=Get&X='+browDateTime+'&u=%2FPrivacy%2Easp','TopMy_site_content') 
-			  
-
-				}
-	
-setTimeout("GetBannerAd()",14000); 		
+		
 			
+		  if (x<=MyCount) {
+					TopcollapseCreative('TopContainerDivID')
+		
+					open_url('http://www.amcham.org.eg/webads/banman_NewSite.asp?ZoneID=109&Task=Get&X='+browDateTime+'&u=%2FPrivacy%2Easp','TopMy_site_content')
+					  
+						
+						}
+		
+					
+		
+											
+												if ((x<=2)&&(MyCount>x))		{setTimeout("GetBannerAd()",14000); } //to stop rotation after 3 rotations, don't go fot the 4th
+											
 
 return true; 
 } 
@@ -91,7 +196,7 @@ return true;
       <map name="Maphome" id="Maphome">
         <area shape="rect" coords="2,2,43,22" href="/default.asp" alt="Home">
         <area shape="rect" coords="46,4,99,20" href="/sitemap/" alt="Site map">
-        <area shape="rect" coords="102,-1,167,20" href="/contact_us/contact_us.asp" alt="Contact us">
+        <area shape="rect" coords="102,-1,167,20" href="/about_us/?P=11" alt="Contact us">
       <area shape="rect" coords="169,2,222,21" href="/search.asp" alt="Search AmCham website">
       </map>
     </td>
@@ -117,9 +222,7 @@ document.getElementById(d).style.height = "90px"; // normal height
  }
 </script>
 
- 
-
-      <div id="TopOuterDivID" style="position:relative; z-index:9999; height:90px; width:728px">   
+  <div id="TopOuterDivID" style="position:relative; z-index:9999; height:90px; width:728px">   
         <div id="TopContainerDivID" style="position:absolute; z-index:9999;width:728px; height:90px; top:auto; left:auto; overflow:hidden">
 		
 		<div id="TopMy_site_content" style="height:90px; width:728px" align="right"><div></div></div></div></div>
@@ -134,49 +237,148 @@ document.getElementById(d).style.height = "90px"; // normal height
 var x=0;
 GetBannerAd(); 
 </script>
-		
+
+
 </td>
       </tr>
       <tr>
         <td align="left" valign="bottom" height="35">
-<script language="JavaScript"> 
-var intVar=0;
-function MyTimeOut()
-{ 
-clearTimeout(intVar);
-intVar=setTimeout('open_url(\'/includes/sub_menus/emptysubmenu.htm\',\'mysubmenu\')',100);
-
-}
-</script>
-
+<!--start main menu begin -->
+				
 <table border="0" align="left" cellpadding="0" cellspacing="0">
   <tbody><tr>
-    <td height="35" align="right" valign="middle"><ul id="menu_left"><li><a onmouseout="MyTimeOut()" onmouseover="clearTimeout(intVar);open_url('/includes/sub_menus/events_activities.asp','mysubmenu');" href="/events_activities/?fromcyberlink=0" title="" target="_self">Events &amp; Activities</a></li>
-    </ul></td>
+    <td height="35" align="right" valign="middle">
+
+	<ul id="menu_left">
+	<li id="LiEA">
+	
+	
+	
+	
+	<a class="mainNav" id="EAa" href="/events_activities/?fromcyberlink=0" title="" target="_self" onmouseover="rolloverMenu(1, 'mainsubMenu');ChangebgLeft();" onmouseout="rolloverMenu(0, 'mainsubMenu');OriginalbgLeft();">Events &amp; Activities</a>
+	
+	</li></ul>
+	<div align="left" class="rolloverMenu" id="mainsubMenu" style="display: none; z-index:9999999" onmouseover="rolloverMenu(1, 'mainsubMenu');ChangebgLeft();" onmouseout="rolloverMenu(0, 'mainsubMenu');OriginalbgLeft();">
+ <a href="/events_activities/events/" class="menu" style="text-decoration:none;font-size:10px;">Events</a><br>
+  <hr style="height:1px;width:100%; background-color:#333333">
+		<a href="/events_activities/Conferences/" class="menu" style="text-decoration:none;font-size:10px;">Conferences</a><br>
+		 <hr style="height:1px;width:100%; background-color:#333333"><a href="/events_activities/committees/" class="menu" style="text-decoration:none;font-size:10px;">Committees</a><br>
+		 <hr style="height:1px;width:100%; background-color:#333333"><a href="/events_activities/missions_to_the_us/" class="menu" style="text-decoration:none;font-size:10px;">Missions to the us</a><br>
+		 <hr style="height:1px;width:100%; background-color:#333333"><a href="/events_activities/us_delegation/" class="menu" style="text-decoration:none;font-size:10px;">U.S. Business Mission to Egypt</a>
+  </div>
+	
+	
+
+	
+	
+	
+	
+	</td>
                 <td width="2" height="35" valign="middle"></td>
                 <td height="35" align="center" valign="middle"><ul id="menu">
-                    <li><a onmouseout="MyTimeOut()" onmouseover="clearTimeout(intVar);open_url('/includes/sub_menus/Membership.asp','mysubmenu');" href="/member_center/" title="" target="_self">Members Center</a></li>
-    </ul></td>
+                    <li id="liMC"><a class="mainNav" id="mca" href="/member_center/" title="" target="_self" onmouseover="rolloverMenu(1, 'mainsubMenu1');Changebg('liMC','mca');" onmouseout="rolloverMenu(0, 'mainsubMenu1');Originalbg('liMC','mca');">Members Center</a>
+					</li>
+    </ul>
+	<div class="rolloverMenu" align="left" id="mainsubMenu1" style="display: none; z-index:999999" onmouseover="rolloverMenu(1, 'mainsubMenu1');Changebg('liMC','mca');" onmouseout="rolloverMenu(0, 'mainsubMenu1');Originalbg('liMC','mca');">
+     <a href="/member_center/whyjoin/" class="menu" style="text-decoration:none;font-size:10px;">why join</a><br>
+		 <hr style="height:1px;width:100%; background-color:#333333"><a href="/member_center/Categories/" class="menu" style="text-decoration:none;font-size:10px;">Categories</a><br>
+		 <hr style="height:1px;width:100%; background-color:#333333"><a href="/member_center/fees/" class="menu" style="text-decoration:none;font-size:10px;">Membership Fees</a><br>
+		 <hr style="height:1px;width:100%; background-color:#333333"><a href="/member_center/APPLICATIONFORMS/" class="menu" style="text-decoration:none;font-size:10px;">Application Forms</a><br>
+		 <hr style="height:1px;width:100%; background-color:#333333"><a href="/member_center/membersdatabase/" class="menu" style="text-decoration:none;font-size:10px;">Members Database</a><br>
+		 <hr style="height:1px;width:100%; background-color:#333333"><a href="/member_center/membernews/" class="menu" style="text-decoration:none;font-size:10px;">Member News</a><br>
+		 <hr style="height:1px;width:100%; background-color:#333333"><a href="/member_center/cyberlink/" class="menu" style="text-decoration:none;font-size:10px;">Cyberlink</a>
+  </div>
+	
+
+	
+	
+	</td>
 				<td width="2" height="35" valign="middle"></td>
                 <td height="35" align="center" valign="middle"><ul id="menu">
-                    <li><a onmouseout="MyTimeOut()" onmouseover="clearTimeout(intVar);open_url('/includes/sub_menus/Online_Services.asp','mysubmenu');" href="/online_services/" title="" target="_self">Online Services</a></li>
-    </ul></td>
+                    <li id="LiOS"><a id="OSa" onmouseover="rolloverMenu(1, 'mainsubMenuOS');Changebg('LiOS','OSa')" onmouseout="rolloverMenu(0, 'mainsubMenuOS');Originalbg('LiOS','OSa');" href="/online_services/" title="" target="_self">Online Services</a></li>
+    </ul>
+		<div class="rolloverMenu" align="left" id="mainsubMenuOS" style="display: none; z-index:999999" onmouseover="rolloverMenu(1, 'mainsubMenuOS');Changebg('LiOS','OSa')" onmouseout="rolloverMenu(0, 'mainsubMenuOS');Originalbg('LiOS','OSa');">
+	<a href="/online_services/tas/" class="menu" style="text-decoration:none;font-size:10px;">Tenders Alert Service</a><br>
+		 <hr style="height:1px;width:100%; background-color:#333333"><a href="/online_services/BMM/" class="menu" style="text-decoration:none;font-size:10px;">Business Matchmaking</a><br>
+		 <hr style="height:1px;width:100%; background-color:#333333"><a href="/online_services/ads/" class="menu" style="text-decoration:none;font-size:10px;">Web Advertising </a><br>
+		 <hr style="height:1px;width:100%; background-color:#333333"><a href="/online_services/BusinessInquiries/" class="menu" style="text-decoration:none;font-size:10px;">Business Inquiries </a><br>
+		 <hr style="height:1px;width:100%; background-color:#333333"><a href="/online_services/recruitment/" class="menu" style="text-decoration:none;font-size:10px;">Recruitment Center</a>
+		
+	</div>
+	
+	</td>
 				<td width="2" height="35" valign="middle"></td>
                 <td height="35" align="center" valign="middle"><ul id="menu">
-                    <li><a onmouseout="MyTimeOut()" onmouseover="clearTimeout(intVar);open_url('/includes/sub_menus/Business_Services.asp','mysubmenu');" href="/business_services/" title="" target="_self">Business Services</a></li>
-    </ul></td>
+                    <li id="LiBS"><a id="BSa" onmouseover="rolloverMenu(1, 'mainsubMenuBS');Changebg('LiBS','BSa');" onmouseout="rolloverMenu(0, 'mainsubMenuBS');Originalbg('LiBS','BSa');" href="/business_services/" title="" target="_self">Business Services</a></li>
+    </ul>
+	
+	<div class="rolloverMenu" align="left" id="mainsubMenuBS" style="display: none; z-index:999999" onmouseover="rolloverMenu(1, 'mainsubMenuBS');Changebg('LiBS','BSa');" onmouseout="rolloverMenu(0, 'mainsubMenuBS');Originalbg('LiBS','BSa');">
+ <a href="/business_services/vconf/" class="menu" style="text-decoration:none;font-size:10px;">Videoconferencing</a><br>
+		
+		 <hr style="height:1px;width:100%; background-color:#333333"><a href="/business_services/usvisa.asp" class="menu" style="text-decoration:none;font-size:10px;">Business Visa Program</a><br>
+		 <hr style="height:1px;width:100%; background-color:#333333"><a href="/business_services/promo/" class="menu" style="text-decoration:none;font-size:10px;">Promotional Opportunities</a><br>
+		 <hr style="height:1px;width:100%; background-color:#333333"><a href="/business_services/webdevelopment/" class="menu" style="text-decoration:none;font-size:10px;">Web Development</a><br>
+		 <hr style="height:1px;width:100%; background-color:#333333"><a href="/business_services/ustradefairs/" class="menu" style="text-decoration:none;font-size:10px;">U.S. Trade Fairs</a>
+		
+	</div>
+	</td>
 				<td width="2" height="35" valign="middle"></td>
                 <td height="35" align="center" valign="middle"><ul id="menumore">
-                  <li><a onmouseout="MyTimeOut()" onmouseover="clearTimeout(intVar);open_url('/includes/sub_menus/Education_Training.asp','mysubmenu');" href="/education_training/" title="" target="_self">Education &amp;<br>
+                  <li id="LiET"><a id="ETa" onmouseover="rolloverMenu(1, 'mainsubMenuET');Changebg('LiET','ETa');" onmouseout="rolloverMenu(0, 'mainsubMenuET');Originalbg('LiET','ETa');" href="/education_training/" title="" target="_self">Education &amp;<br>
 Training</a></li>
-    </ul></td>
+    </ul>
+	
+		<div class="rolloverMenu" align="left" id="mainsubMenuET" style="display: none; z-index:999999" onmouseover="rolloverMenu(1, 'mainsubMenuET');Changebg('LiET','ETa');" onmouseout="rolloverMenu(0, 'mainsubMenuET');Originalbg('LiET','ETa');">
+ <a href="/education_training/cdc/" class="menu" style="text-decoration:none;font-size:10px;">Training/Career Development</a><br>
+		 <hr style="height:1px;width:100%; background-color:#333333"><a href="/education_training/ots/" class="menu" style="text-decoration:none;font-size:10px;">Online Training Service</a>
+		
+	</div>
+	</td>
                
 			   <td width="2" height="35" valign="middle"></td>
 			     <td height="35" align="center" valign="middle"><ul id="menu">
-                    <li><a onmouseout="MyTimeOut()" onmouseover="clearTimeout(intVar);open_url('/includes/sub_menus/Publications.asp','mysubmenu');" href="/resources_publications/publications/" title="">Publications</a></li>
-    </ul></td><td width="2" height="35" valign="middle"></td>
-			    <td height="35" valign="middle"><ul id="menu_right"><li><a onmouseout="MyTimeOut()" onmouseover="clearTimeout(intVar);open_url('/includes/sub_menus/Trade_Resources.asp','mysubmenu');" href="/resources_publications/Trade_Resources/" title="">Trade Resources</a></li></ul></td></tr>
-</tbody></table></td>
+                    <li id="LiP"><a id="Pa" onmouseover="rolloverMenu(1, 'mainsubMenuP');Changebg('LiP','Pa');" onmouseout="rolloverMenu(0, 'mainsubMenuP');Originalbg('LiP','Pa');" href="/resources_publications/publications/" title="">Publications</a></li>
+    </ul>
+	
+	<div class="rolloverMenu" align="left" id="mainsubMenuP" style="display: none; z-index:999999" onmouseover="rolloverMenu(1, 'mainsubMenuP');Changebg('LiP','Pa');" onmouseout="rolloverMenu(0, 'mainsubMenuP');Originalbg('LiP','Pa');">
+<a href="/resources_publications/publications/business_studies/" class="menu" style="text-decoration:none;font-size:10px;">Business Studies</a><br>
+		 <hr style="height:1px;width:100%; background-color:#333333">		<a href="/resources_publications/publications/business_monthly/" class="menu" style="text-decoration:none;font-size:10px;">Business Monthly</a><br>
+		 <hr style="height:1px;width:100%; background-color:#333333"><a href="/resources_publications/publications/watch_bulletin/" class="menu" style="text-decoration:none;font-size:10px;">Egypt Watch Bulletin</a><br> <hr style="height:1px;width:100%; background-color:#333333"><a href="/resources_publications/publications/emerging_egypt/" class="menu" style="text-decoration:none;font-size:10px;">The Egypt Country Report</a><br>
+		 <hr style="height:1px;width:100%; background-color:#333333"><a href="/resources_publications/publications/default_annual_report.asp" class="menu" style="text-decoration:none;font-size:10px;">Annual Report</a>		
+	</div>
+	
+	
+	</td>
+	
+	<td width="2" height="35" valign="middle"></td>
+			    <td height="35" valign="middle"><ul id="menu_right">
+				<li id="LiTR"><a id="TRa" onmouseover="rolloverMenu(1, 'mainsubMenuTR');ChangebgRight();" onmouseout="rolloverMenu(0, 'mainsubMenuTR');OriginalbgRight();" href="/resources_publications/Trade_Resources/" title="">Trade Resources</a></li></ul>
+				<!--[if IE]>	
+
+<div style="margin-left:-97px;">
+<![endif]-->
+		<!--[if !IE]><!-->
+
+
+<div style="margin-left:-119px;">
+<!--[endif]---->
+
+					<div class="rolloverMenu" align="left" id="mainsubMenuTR" style="display:none; z-index:999999;" onmouseover="rolloverMenu(1, 'mainsubMenuTR');ChangebgRight();" onmouseout="rolloverMenu(0, 'mainsubMenuTR');OriginalbgRight();">
+					
+
+<a href="/resources_publications/Trade_Resources/egypt_us_relations/default.asp" class="menu" style="text-decoration:none;font-size:10px;">Egypt-U.S. Relations </a><br>
+	 <hr style="height:1px;width:100%; background-color:#333333">	<a href="/resources_publications/Trade_Resources/economic_indicators/?page=economy.html" class="menu" style="text-decoration:none;font-size:10px;">Economic Indicators </a><br>
+		 <hr style="height:1px;width:100%; background-color:#333333"><a href="/resources_publications/Trade_Resources/db/" class="menu" style="text-decoration:none;font-size:10px;">Doing Business </a><br>
+		 <hr style="height:1px;width:100%; background-color:#333333"><a href="/resources_publications/Trade_Resources/Franchise/" class="menu" style="text-decoration:none;font-size:10px;">Franchise in Egypt </a><br>
+		 <hr style="height:1px;width:100%; background-color:#333333"><a href="/resources_publications/Trade_Resources/Trac/PositionPapers/" class="menu" style="text-decoration:none;font-size:10px;">Position Papers</a><br>
+	 <hr style="height:1px;width:100%; background-color:#333333">	<a href="/resources_publications/Trade_Resources/trac/References/" class="menu" style="text-decoration:none;font-size:10px;">References</a><br>
+		 <hr style="height:1px;width:100%; background-color:#333333"><a href="/resources_publications/Trade_Resources/Trac/reports/" class="menu" style="text-decoration:none;font-size:10px;">Reports</a>	</div>
+				</div>
+				
+				</td></tr>
+</tbody></table>
+				<!--end main menu begin -->
+</td>
       </tr>
     </tbody></table></td>
   </tr>
@@ -188,7 +390,8 @@ function myprint_onclick() {
 document.formprintme.text1.value = document.getElementById("mydivprint").innerHTML;
 document.formprintme.submit();
 }
-</script><!--Top section here --></td>
+</script>
+<!--Top section here --></td>
   </tr>
   <tr>
     <td align="center" valign="top"><table width="1000" border="0" cellpadding="0" cellspacing="0">
@@ -200,13 +403,12 @@ document.formprintme.submit();
             <tbody><tr>
               <td align="right" valign="top" background="/images/sub_menu_bg.gif" height="20"><table width="966" height="20" border="0" align="right" cellpadding="0" cellspacing="0">
                 <tbody><tr>
-                  <td width="255">
-<table width="250" border="0" align="right" cellpadding="0" cellspacing="0">
+                  <td height="25" align="left">
+<table width="100%" border="0" align="left" cellpadding="0" cellspacing="0">
 <tbody><tr valign="middle">
+  <td align="left" valign="middle" width="10"></td>
 <td height="25" align="left" valign="middle">
 <font class="bluebold"> </font>&nbsp;<a href="/includes/shortlogin.asp" onclick="return show_hide_boxLogin(this,300,170,'1px solid')"><img src="/images/MainLogin.gif" alt="Sign in" name="my_login_img" width="60" height="16" border="0" align="absmiddle" id="my_login_img"></a></td></tr></tbody></table>
-				  </td>
-                  <td width="711" height="25" valign="top" align="right"><div id="mysubmenu" onmouseout="MyTimeOut()" onmouseover="clearTimeout(intVar)"></div>
 				  </td>
                 </tr>
               </tbody></table></td>
@@ -324,96 +526,64 @@ document.formprintme.submit();
                                 </tr>
                                 </tbody></table>
                                 <br>
-
 <table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
-<tbody><tr><td align="center" valign="middle">
+  <tbody><tr>
+    <td align="center">
 <script language="JavaScript"> 
-function GetBannerAd_BG1(){ 
+function GetBannerAd333(){ 
 var browDateTime = (new Date()).getTime();
-var oldframe = document.getElementById("adsframeBG1");
+
+var oldframe = document.getElementById("adsframe12");
 var newframe = oldframe.cloneNode(true)
-newframe.src = 'http://www.amcham.org.eg/webads/banman.asp?ZoneID=102&Task=Get&X='+browDateTime; 
+newframe.src = 'http://www.amcham.org.eg/webads/banman.asp?ZoneID=160&Task=Get&X='+browDateTime;
 oldframe.parentNode.replaceChild( newframe ,oldframe )
 
-if ((mm<=3)&&(3!=1)) 
-{mm++;
-setTimeout("GetBannerAd_BG1()",12000); 
+if (kk<=2)
+{kk++;
+//setTimeout("GetBannerAd333()",12000);
 }
-
 return true; 
 } 
-    </script> 
+</script> 
    
-<iframe id="adsframeBG1" name="adsframeBG1" src="http://www.amcham.org.eg/webads/banman.asp?ZoneID=102&amp;Task=Get&amp;X=1580349045251" allowtransparency="true" width="120" height="90" marginwidth="0" marginheight="0" frameborder="0" scrolling="No"></iframe>
-
-   
-<script language="JavaScript"> 
-var mm=1;
-mm++;
-GetBannerAd_BG1(); 
-    </script>    </td>
-  
-    <td align="center" valign="middle">
-
-
-
-
-<script language="JavaScript"> 
-function GetBannerAd_BG2(){ 
-var browDateTime = (new Date()).getTime();
-var oldframe = document.getElementById("adsframeBG2");
-var newframe = oldframe.cloneNode(true)
-newframe.src = 'http://www.amcham.org.eg/webads/banman.asp?ZoneID=103&Task=Get&X='+browDateTime; 
-oldframe.parentNode.replaceChild( newframe ,oldframe )
-
-
-if ((nn<=2)&&(2!=1))
-{nn++;
-setTimeout("GetBannerAd_BG2()",12000); 
-}
-
-return true; 
-} 
-    </script> 
-   
-<iframe id="adsframeBG2" name="adsframeBG2" src="http://www.amcham.org.eg/webads/banman.asp?ZoneID=103&amp;Task=Get&amp;X=1580349045321" width="120" allowtransparency="true" height="90" marginwidth="0" marginheight="0" frameborder="0" scrolling="No"></iframe>
-
+<iframe id="adsframe12" name="adsframe12" src="http://www.amcham.org.eg/webads/banman.asp?ZoneID=160&amp;Task=Get&amp;X=1580349046535" width="234" height="60" marginwidth="0" marginheight="0" frameborder="0" scrolling="No"></iframe>
    
 <script language="JavaScript"> 
-var nn=1;
-nn++;
-GetBannerAd_BG2(); 
-    </script>  </td>
-  
-    <td align="center" valign="middle">
-<script language="JavaScript"> 
-function GetBannerAd_BG3(){ 
-var browDateTime = (new Date()).getTime();
-var oldframe = document.getElementById("adsframeBG3");
-var newframe = oldframe.cloneNode(true)
-newframe.src = 'http://www.amcham.org.eg/webads/banman.asp?ZoneID=296&Task=Get&X='+browDateTime; 
-oldframe.parentNode.replaceChild( newframe ,oldframe )
-
-if ((pp<=0)&&(0!=1))
-{pp++;
-
-setTimeout("GetBannerAd_BG3()",12000); 
-}
-
-return true; 
-} 
-    </script> 
-   
-<iframe id="adsframeBG3" name="adsframeBG3" src="http://www.amcham.org.eg/webads/banman.asp?ZoneID=296&amp;Task=Get&amp;X=1580349045412" width="120" allowtransparency="true" height="90" marginwidth="0" marginheight="0" frameborder="0" scrolling="No"></iframe>
-
-   
-<script language="JavaScript"> 
-var pp=1;
-pp++;
-GetBannerAd_BG3(); 
+var kk=1;
+kk++;
+GetBannerAd333(); 
     </script></td>
+ 
+    <td align="center"><script language="JavaScript"> 
+function GetBannerAd555(){ 
+var browDateTime = (new Date()).getTime();
+
+var oldframe = document.getElementById("adsframe11");
+var newframe = oldframe.cloneNode(true)
+newframe.src = 'http://www.amcham.org.eg/webads/banman.asp?ZoneID=161&Task=Get&X='+browDateTime;
+oldframe.parentNode.replaceChild( newframe ,oldframe )
+ 
+
+if (hh<=2)
+{hh++;
+
+//setTimeout("GetBannerAd555()",12000);
+}
+
+return true; 
+} 
+    </script> 
+   
+<iframe id="adsframe11" name="adsframe11" src="http://www.amcham.org.eg/webads/banman.asp?ZoneID=161&amp;Task=Get&amp;X=1580349046564" width="234" height="60" marginwidth="0" marginheight="0" frameborder="0" scrolling="No"></iframe>
+   
+<script language="JavaScript">
+var hh=1;
+ hh++;
+GetBannerAd555(); 
+    </script>    </td>
   </tr>
-</tbody></table></td>
+</tbody></table>
+</td>
                             </tr>
                           </tbody></table></td>
                         </tr>
@@ -444,7 +614,7 @@ open_url('http://www.amcham.org.eg/webads/banman.asp?ZoneID=309&Task=Get&X='+bro
 if ((mmVB<=2)&&(2!=1)) 
 {mmVB++;
 
-intVar=setTimeout("GetBannerAd113()",13000); 
+//intVar=setTimeout("GetBannerAd113()",13000); 
 
 }
 return true; 
@@ -500,12 +670,12 @@ setTimeout("GetBannerAd113()",500)
             <tr>
               <td align="center" valign="top" bgcolor="#FFFFFF"><table width="600" border="0" align="center">
                 <tbody><tr>
-                  <td align="center" class="foter"><a href="/default.asp" class="foter_link">HOME</a> | <a href="/sitemap/" class="foter_link">SITE MAP</a> | <a href="/contact_us/contact_us.asp" class="foter_link">CONTACT US</a> | <a href="/freeservices/" class="foter_link">FREE SERVICES</a> | <a href="/Privacy.asp" class="foter_link">PRIVACY POLICY</a> | <a href="/SiteDisclaimer.asp" class="foter_link">SITE DISCLAIMER</a></td>
+                  <td align="center" class="foter"><a href="/default.asp" class="copy">HOME</a> | <a href="/sitemap/" class="copy">SITE MAP</a> | <a href="/about_us/?P=11" class="copy">CONTACT US</a> | <a href="/freeservices/" class="copy">FREE SERVICES</a> | <a href="/Privacy.asp" class="copy">PRIVACY POLICY</a> | <a href="/SiteDisclaimer.asp" class="copy">COPYRIGHT &amp;  DISCLAIMER</a></td>
   </tr>
                 <tr>
                   <td align="center"><span class="copy">Site Developed and Maintained by the <a href="/bic/" class="copy">Business 
                     Information Center</a> of AmCham Egypt<br>
-                  </span><span class="copy">Copyrights ©2013 American Chamber of Commerce in Egypt</span></td>
+                  </span><span class="copy">Copyright ©2013 American Chamber of Commerce in Egypt</span></td>
                 </tr>
                 
               </tbody></table></td>
