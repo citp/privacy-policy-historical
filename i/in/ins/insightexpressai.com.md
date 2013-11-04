@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the insightexpressai.com privacy policy that was archived on 2013-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130413042436id_/https%3A//insightexpress.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the insightexpressai.com privacy policy that was archived on 2013-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131104053912id_/https%3A//insightexpress.com/privacy) for the most accurate reproduction.*
 
 # Privacy Statement
 
