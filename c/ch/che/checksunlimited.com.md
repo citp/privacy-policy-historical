@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the checksunlimited.com privacy policy that was archived on 2013-03-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130310074632id_/http%3A//www.checksunlimited.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the checksunlimited.com privacy policy that was archived on 2013-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131104195515id_/http%3A//www.checksunlimited.com/Privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
 This policy is effective October 23, 2007 and applies to all consumer identifiable information that consumers provide to Checks Unlimited. Checks Unlimited deals only with US banking documents so the website is limited to US residents only.
 
-Protecting privacy is not new to Checks Unlimited. Checks Unlimited has a long history of recognizing and protecting the privacy of consumers. Checks Unlimited is committed to protecting your privacy and utilizing technology that gives you the most powerful, safe, on-line experience available. We want to assure you that when Checks Unlimited asks for consumer information, it's done with the goal of improving our relationship. Checks Unlimited participates in and complies with the Better Business Bureau's (BBB) Privacy Program. More information on the BBB and their Privacy Program is available at [http://www.bbbonline.org](https://www.bbbonline.org/).
+Protecting privacy is not new to Checks Unlimited. Checks Unlimited has a long history of recognizing and protecting the privacy of consumers. Checks Unlimited is committed to protecting your privacy and utilizing technology that gives you the most powerful, safe, on-line experience available. We want to assure you that when Checks Unlimited asks for consumer information, it's done with the goal of improving our relationship. Checks Unlimited participates in and complies with the Better Business Bureau's (BBB) Privacy Program. More information on the BBB and their Privacy Program is available at [https://www.bbb.org/us/bbb-online-business](https://www.bbb.org/us/bbb-online-business/).
 
 The following statements will help you understand how we collect, use and safeguard information you provide to Checks Unlimited.
 
