@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lbi.co.uk privacy policy that was archived on 2013-01-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130116093316id_/http%3A//www.lbi.com/uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lbi.co.uk privacy policy that was archived on 2013-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131104065956id_/http%3A//www.lbi.com/uk/privacy) for the most accurate reproduction.*
 
 # Privacy Statement and Cookie Information - LBi
 
