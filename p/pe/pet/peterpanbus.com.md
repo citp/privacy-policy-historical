@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the peterpanbus.com privacy policy that was archived on 2013-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130505194246id_/http%3A//peterpanbus.com/privacy-security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the peterpanbus.com privacy policy that was archived on 2013-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131104121455id_/http%3A//peterpanbus.com/privacy-security) for the most accurate reproduction.*
 
 # Privacy & Security | Peter Pan Bus
 
@@ -78,5 +78,3 @@ Peter Pan Bus Lines, inc.
 P.O. Box 1776 ,   
 Springfield, MA 01102-1776  
 [Connect with our Customer Care Center here.](http://support.peterpanbus.com/)
-
-Customers requiring ADA assistance for specific schedules may call us at 1-800-343-9999 for assistance.
