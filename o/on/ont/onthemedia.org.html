@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the onthemedia.org privacy policy that was archived on 2013-05-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130530114658id_/http%3A//www.onthemedia.org/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the onthemedia.org privacy policy that was archived on 2013-11-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131105000520id_/https%3A//www.onthemedia.org/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
   <meta charset="utf-8">
@@ -14,8 +14,17 @@
   <meta property="og:site_name" content="onthemedia">
   <meta property="fb:app_id" content="162050263832317">
   <meta property="og:description" content="Privacy Policy New York Public Radio (&amp;ldquo;NYPR&amp;rdquo;) values your participation in our public radio community, both online and offline, and assures you that your privacy is a priority to us. NYPR adheres to the below policy for ensuring the privacy of your personally identifiable information (such as full name, address, e-mail address, telephone number and/or other identifiable information). New York Public Radio&amp;rsquo;s Sites and Apps When you visit our sites or use our apps, we may automatically recognize information like your domain name, where you are coming to us from and what browser you are using. We use this information ...">
+
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:site" content="@WNYC">
+  <meta name="twitter:app:id:iphone" content="470219771">
+  <meta name="twitter:app:id:googleplay" content="org.wnyc.android">
+
   <meta name="description" content="Privacy Policy New York Public Radio (&amp;ldquo;NYPR&amp;rdquo;) values your participation in our public radio community, both online and offline, and ...">
+
   <!-- Google custom search stuff -->
+
+
 
 
 
@@ -52,12 +61,10 @@ Privacy Policy
       href="//media.wnyc.org/static/css/screen_ie7.css" /><![endif]-->
 
 
+<link rel="stylesheet" type="text/css" media="all" href="//media.wnyc.org/static/css/player_legacy_buttons.css">
 
   <link rel="stylesheet" type="text/css" media="all" href="//media.wnyc.org/static/css/player.css">
   <link rel="stylesheet" type="text/css" media="all" href="//media.wnyc.org/static/css/player_onthemedia.css">
-  <!--[if lte IE 8]>
-    <link rel="stylesheet" type="text/css" media="all" href="//media.wnyc.org/static/css/player_ie.css" />
-  <![endif]-->
 
 
   <link rel="stylesheet" type="text/css" media="all" href="//media.wnyc.org/static/css/schedule.css">
@@ -79,36 +86,42 @@ Privacy Policy
   <script src="//media.wnyc.org/static/js/json2.js"></script>
   <script src="//media.wnyc.org/static/js/swfobject.js"></script>
   
+  
     <script src="//media.wnyc.org/static/js/vendor/jquery/jquery-1.7.2.min.js"></script>
 
-  
-    <script src="//media.wnyc.org/static/js/vendor/underscore/underscore-1.4.2.min.js"></script>
 
   
+  
+    <script src="//media.wnyc.org/static/js/vendor/underscore/underscore-1.4.4.min.js"></script>
+
+
+  
+  
     <script src="//media.wnyc.org/static/js/vendor/backbone/backbone-0.9.9.min.js"></script>
+
 
   <script src="//media.wnyc.org/static/js/vendor/handlebars/handlebars-1.0.0.beta.6.js"></script>
 
   
   
-
   <script>
-    window.wnyc = {
-      noop: function() {}
-    , debug: false
-    , serverTimezoneOffset: -14400000
-    , loadtime: (new Date()).getTime()
-    , api_url: 'http://api.wnyc.org'
-    , login_root: 'https://account.wnyc.org'
-    , default_site_root: 'http://www.wnyc.org'
-    , SINGLE_SIGN_ON: true
-    , IS_ACCOUNT_SITE: false
-    , STATIC_URL: '//media.wnyc.org/static/'
-    , MEDIA_URL: '//media.wnyc.org/media/'
-    , sitekey: 'onthemedia'
-    , site_display_name: 'On The Media'
-    , srcWhiteList: ['https://project.wnyc.org', 'http://culture.wnyc.org', 'https://www.onthemedia.org', 'https://www.thetakeaway.org', 'http://www.thetakeaway.org', 'http://www.wnyc.org', 'http://soundcheck.wnyc.org', 'http://secure.wqxr.org', 'https://www.nypublicradio.org', 'https://www.wnyc.org', 'http://www.wqxr.org', 'https://www.njpublicradio.org', 'https://culture.wnyc.org', 'https://soundcheck.wnyc.org', 'https://www.radiolab.org', 'http://secure.wnyc.org', 'http://www.njpublicradio.org', 'https://www.thegreenespace.org', 'http://www.radiolab.org', 'http://www.thegreenespace.org', 'https://secure.wnyc.org', 'https://www.wqxr.org', 'https://secure.wqxr.org', 'http://account.wnyc.org', 'https://account.wnyc.org', 'http://www.studio360.org', 'https://www.studio360.org', 'http://project.wnyc.org', 'http://www.nypublicradio.org', 'http://www.onthemedia.org']
-    };
+    this.wnyc = this.wnyc || {};
+    this.wnyc.noop = function() {};
+    this.wnyc.debug = false;
+    this.wnyc.serverTimezoneOffset = -18000000;
+    this.wnyc.loadtime = (new Date()).getTime();
+    this.wnyc.api_url = 'http://api.wnyc.org';
+    this.wnyc.login_root = 'https://account.wnyc.org';
+    this.wnyc.player_root = 'http://www.wnyc.org';
+    this.wnyc.player_path = '/radio';
+    this.wnyc.default_site_root = 'http://www.wnyc.org';
+    this.wnyc.SINGLE_SIGN_ON = true;
+    this.wnyc.IS_ACCOUNT_SITE = false;
+    this.wnyc.STATIC_URL = '//media.wnyc.org/static/';
+    this.wnyc.MEDIA_URL = '//media.wnyc.org/media/';
+    this.wnyc.sitekey = 'onthemedia';
+    this.wnyc.site_display_name = 'On The Media';
+    this.wnyc.srcWhiteList = ['https://project.wnyc.org', 'http://culture.wnyc.org', 'https://www.onthemedia.org', 'https://www.thetakeaway.org', 'http://www.thetakeaway.org', 'http://www.wnyc.org', 'http://soundcheck.wnyc.org', 'http://secure.wqxr.org', 'https://www.nypublicradio.org', 'https://www.wnyc.org', 'http://www.wqxr.org', 'https://www.njpublicradio.org', 'https://culture.wnyc.org', 'https://soundcheck.wnyc.org', 'https://www.radiolab.org', 'http://secure.wnyc.org', 'http://www.njpublicradio.org', 'https://www.thegreenespace.org', 'http://www.radiolab.org', 'http://www.thegreenespace.org', 'https://secure.wnyc.org', 'https://www.wqxr.org', 'https://secure.wqxr.org', 'http://account.wnyc.org', 'https://account.wnyc.org', 'http://www.studio360.org', 'https://www.studio360.org', 'http://project.wnyc.org', 'http://www.nypublicradio.org', 'http://www.onthemedia.org'];
   </script>
 
   <script src="//media.wnyc.org/static/js/util.js"></script>
@@ -133,8 +146,12 @@ Privacy Policy
   <script src="//media.wnyc.org/static/js/lib/wnyc/datetime.js"></script>
   <script src="//media.wnyc.org/static/js/lib/wnyc/url.js"></script>
   <script src="//media.wnyc.org/static/js/lib/wnyc/stylesheets.js"></script>
+  <script src="//media.wnyc.org/static/js/lib/wnyc/xwm.js"></script>
+  <script src="//media.wnyc.org/static/js/lib/wnyc/xdm.js"></script>
+  <script src="//media.wnyc.org/static/subtree_shared_media/js/lib/wnyc/resizable_image.js"></script>
 
   
+  <script src="//media.wnyc.org/static/js/lib/backbone/api_facades/whats_on_facade.js"></script>
   <script src="//media.wnyc.org/static/js/lib/backbone/api_facades/whats_on_today_facade.js"></script>
   <script src="//media.wnyc.org/static/js/lib/backbone/api_facades/stream_playlist_facade.js"></script>
 
@@ -142,6 +159,7 @@ Privacy Policy
   <script src="//media.wnyc.org/static/js/lib/jquery/jquery.xdr.js"></script>
   <script src="//media.wnyc.org/static/js/lib/jquery/wnyc.modal.js"></script>
   <script src="//media.wnyc.org/static/js/lib/jquery/wnyc.damost.js"></script>
+  <script src="//media.wnyc.org/static/js/lib/jquery/wnyc.popular_sidebar.js"></script>
   <script src="//media.wnyc.org/static/js/lib/jquery/wnyc.listen_now.js"></script>
   <script src="//media.wnyc.org/static/js/lib/jquery/wnyc.listen_segment.js"></script>
   <script src="//media.wnyc.org/static/js/lib/jquery/wnyc.truncate_to_height.js"></script>
@@ -154,6 +172,8 @@ Privacy Policy
   <script src="//media.wnyc.org/static/js/lib/jquery/wnyc.toggle_hide_on_click_outside.js"></script>
   <script src="//media.wnyc.org/static/js/lib/jquery/browserWarn.js"></script>
   <script src="//media.wnyc.org/static/js/lib/jquery/wnyc.membership_form.js"></script>
+  <script src="//media.wnyc.org/static/js/lib/jquery/wnyc.iframe_resize.js"></script>
+  <script src="//media.wnyc.org/static/js/lib/jquery/wnyc.ondemand_audio.js"></script>
 
 
 
@@ -219,20 +239,31 @@ Privacy Policy
 </script><script src="https://www.googletagservices.com/tag/js/gpt.js"></script>
 
   
+<script class="google_ads_custom_targeting">
+  window.googletag.cmd.push(function() {
+    googletag.pubads().setTargeting('url', window.location.pathname);
+    googletag.pubads().setTargeting('host', window.location.host);
+  
+  });
+
+</script>
 
   
 <script class="google_ads_definitions">
   googletag.cmd.push(function() {
-            googletag.defineSlot("/1007549/OTM_popdown", [960, 306], "otm_popdown_ad")
-        .addService(googletag.pubads());
-            googletag.defineSlot("/1007549/OTM_bigbox", [300, 250], "otm_bigbox_ad")
-        .addService(googletag.pubads());
             googletag.defineSlot("/1007549/OTM_pledge", [150, 100], "otm_pledge_ad")
+        .addService(googletag.pubads());
+            googletag.defineSlot("/6483581/rectangle/onthemedia_rectangle2", [300, 600], "onthemedia_rectangle2")
+        .addService(googletag.pubads());
+            googletag.defineSlot("/6483581/leaderboard/onthemedia_leaderboard", [960, 306], "otm_popdown_ad")
+        .addService(googletag.pubads());
+            googletag.defineSlot("/6483581/rectangle/onthemedia_rectangle", [300, 250], "otm_bigbox_ad")
         .addService(googletag.pubads());
     googletag.pubads().collapseEmptyDivs();
     googletag.pubads().enableSyncRendering();
     googletag.pubads().enableSingleRequest();
     googletag.enableServices();
+
   });
 </script>
 
@@ -277,7 +308,7 @@ Privacy Policy
           <img src="//media.wnyc.org/static/img/onthemedia/logo-topnav.png" alt="On The Media" title="On The Media">
         </a>
         <ul id="primary-nav" class="clearfix">
-          <li class="this-week"><a href="&#10;&#10;  http://www.onthemedia.org/2013/may/24/&#10;">This Week</a></li>
+          <li class="this-week"><a href="&#10;&#10;  http://www.onthemedia.org/story/on-the-media-2013-11-01/&#10;">This Week</a></li>
           <li class="blog"><a href="/blogs/on-the-media/">Blog</a></li>
           <li class="podcast"><a href="/podcast/">Podcast</a></li>
           <li class="archive"><a href="/archive/">Show Archive</a></li>
@@ -301,7 +332,7 @@ Privacy Policy
         </ul>
         
   <form method="get" action="/search/" name="searchform" id="searchform">
-    <input class="text clearonfocus" placeholder="" maxlength="222" name="q" autofocus="">
+    <input class="text clearonfocus" placeholder="" maxlength="222" name="q">
     <input type="submit" value="" class="submit">
   </form>
 
@@ -336,7 +367,11 @@ Privacy Policy
   <div class="article-tools clearfix">
     <ul class="sharelinks">
     
-  <li class="share"><a class="addthis_share" href="//www.addthis.com/bookmark.php">Share</a></li>
+  <li class="share">
+    
+  <a class="addthis_share icon-share-alt " href="http://www.addthis.com/bookmark.php" title="Share" addthis:url="/privacy/" addthis:title="Privacy Policy"><span>Share</span></a>
+
+  </li>
   
   <li class="twitter_share">
     <a href="https://twitter.com/share" class="twitter-share-button" data-count="horizontal" data-url="http://www.onthemedia.org/privacy/">
@@ -358,12 +393,10 @@ Privacy Policy
 
     </ul>
     <script type="text/javascript">
-      addthis_pub  = 'wnycdigital';
       $('#emailthislink').click(function() { 
         return loadEmailForm(item_ctype, item_pk);
       });
     </script>
-    <script type="text/javascript" src="http://s7.addthis.com/js/152/addthis_widget.js"></script>
   </div>
 </div>
 
@@ -424,6 +457,15 @@ Privacy Policy
 </div>
 
 
+  <div id="onthemedia_rectangle2">
+    
+<script>
+  googletag.cmd.push(function() { googletag.display("onthemedia_rectangle2"); });
+</script>
+
+  </div>
+
+
   
   <div id="otm_pledge_ad">
     
@@ -445,7 +487,6 @@ Privacy Policy
   
 
 <div id="damost">
-
   <ul id="damost-nav" class="clearfix">
     <li class="viewed active"><a href="#" data-contenttabid="damostviewed"><span>Most</span> Viewed</a></li>
     <li class="listened"><a href="#" data-contenttabid="damostlistened"><span>Most</span> Listened</a></li>
@@ -456,113 +497,53 @@ Privacy Policy
   <div id="damostviewed" class="tab clearfix">
     <ol>
         <li>
-          <a href="http://www.onthemedia.org/2013/may/24/?utm_source=local&amp;utm_media=treatment&amp;utm_campaign=daMost&amp;utm_content=damostviewed">
-               
-    
-    
-
-    <img src="http://www.wnyc.org/i/35/35/l/80/1/showimage_1.jpg" class="damost-img">
-
-              <span>A Week of Scandals, Catholic Whistleblowers, and More</span>
+          <a href="http://www.onthemedia.org/story/what-its-when-redditors-ban-your-website/?utm_source=local&amp;utm_media=treatment&amp;utm_campaign=daMost&amp;utm_content=damostviewed">
+              <span class="title">What It's Like When Redditors Ban Your Website</span>
           </a>
         </li>
         <li>
-          <a href="http://www.onthemedia.org/2013/may/24/catholic-whistleblowers/?utm_source=local&amp;utm_media=treatment&amp;utm_campaign=daMost&amp;utm_content=damostviewed">
-               
-    
-    
-
-    <img src="http://www.wnyc.org/i/35/35/c/80/1/Sister_Butler.jpg" class="damost-img" title="Sister Sally Butler">
-
-              <span>Catholic Whistleblowers</span>
+          <a href="http://www.onthemedia.org/story/anonymous-plans-million-mask-march/?utm_source=local&amp;utm_media=treatment&amp;utm_campaign=daMost&amp;utm_content=damostviewed">
+              <span class="title">Anonymous Plans a Million Mask March</span>
           </a>
         </li>
         <li>
-          <a href="http://www.onthemedia.org/2013/may/24/three-headed-scandal-monster/?utm_source=local&amp;utm_media=treatment&amp;utm_campaign=daMost&amp;utm_content=damostviewed">
-               
-    
-    
-
-    <img src="http://www.wnyc.org/i/35/35/c/80/1/obama_3.JPG" class="damost-img" alt="Barack Obama, Lois Lerner, Eric Holder">
-
-              <span>The Three-Headed Scandal Monster</span>
+          <a href="http://www.onthemedia.org/story/i-accidentally-catfished-someone-grand-theft-auto-last-night/?utm_source=local&amp;utm_media=treatment&amp;utm_campaign=daMost&amp;utm_content=damostviewed">
+              <span class="title">I Accidentally Catfished Someone In Grand Theft Auto Last Night</span>
           </a>
         </li>
         <li>
-          <a href="http://www.onthemedia.org/2013/may/24/mayor-toronto-would-prefer-not-discuss-whether-he-smokes-crack/?utm_source=local&amp;utm_media=treatment&amp;utm_campaign=daMost&amp;utm_content=damostviewed">
-               
-    
-    
-
-    <img src="http://www.wnyc.org/i/35/35/c/80/1/robfordsq.JPG" class="damost-img">
-
-              <span>The Mayor of Toronto Would Prefer Not to Discuss Whether He Smokes Crack</span>
+          <a href="http://www.onthemedia.org/story/defense-funeral-selfies/?utm_source=local&amp;utm_media=treatment&amp;utm_campaign=daMost&amp;utm_content=damostviewed">
+              <span class="title">In Defense of Funeral Selfies</span>
           </a>
         </li>
         <li>
-          <a href="http://www.onthemedia.org/2013/may/10/?utm_source=local&amp;utm_media=treatment&amp;utm_campaign=daMost&amp;utm_content=damostviewed">
-               
-    
-    
-
-    <img src="http://www.wnyc.org/i/35/35/c/80/1/businessmodelsshow.jpg" class="damost-img">
-
-              <span>Who’s gonna pay for this stuff?</span>
+          <a href="http://www.onthemedia.org/story/on-the-media-2013-11-01/?utm_source=local&amp;utm_media=treatment&amp;utm_campaign=daMost&amp;utm_content=damostviewed">
+              <span class="title">Misleading Obamacare Promises, The Original 'Nigerian' Scam Letter, and More</span>
           </a>
         </li>
         <li>
-          <a href="http://www.onthemedia.org/2013/may/24/qapla/?utm_source=local&amp;utm_media=treatment&amp;utm_campaign=daMost&amp;utm_content=damostviewed">
-               
-    
-    
-
-    <img src="http://www.wnyc.org/i/35/35/c/80/1/StarTrek.jpg" class="damost-img">
-
-              <span>Qapla!</span>
+          <a href="http://www.onthemedia.org/story/my-detainment-story-or-how-i-learned-stop-feeling-safe-my-own-country-and-hate-border-patrol/?utm_source=local&amp;utm_media=treatment&amp;utm_campaign=daMost&amp;utm_content=damostviewed">
+              <span class="title">My Detainment Story or: How I learned to Stop Feeling Safe in My Own Country and Hate Border Agents*</span>
           </a>
         </li>
         <li>
-          <a href="http://www.onthemedia.org/blogs/on-the-media/2013/may/29/information-new-coronavirus-hard-come/?utm_source=local&amp;utm_media=treatment&amp;utm_campaign=daMost&amp;utm_content=damostviewed">
-               
-    
-    
-
-    <img src="http://www.wnyc.org/i/35/35/c/80/1/coronavirus_article.jpg" class="damost-img">
-
-              <span>Information On A New Coronavirus Is Hard To Come By</span>
+          <a href="http://www.onthemedia.org/story/tldr-5-goodbye-secret-invisible-internet/?utm_source=local&amp;utm_media=treatment&amp;utm_campaign=daMost&amp;utm_content=damostviewed">
+              <span class="title">#5 - Goodbye, Secret, Invisible Internet</span>
           </a>
         </li>
         <li>
-          <a href="http://www.onthemedia.org/2013/may/17/?utm_source=local&amp;utm_media=treatment&amp;utm_campaign=daMost&amp;utm_content=damostviewed">
-               
-    
-    
-
-    <img src="http://www.wnyc.org/i/35/35/c/80/1/obama_1.JPG" class="damost-img">
-
-              <span>Conservative Bloggers Vindicated, Advice for Leakers, and More</span>
+          <a href="http://www.onthemedia.org/story/why-nigerian-email-scams-work/?utm_source=local&amp;utm_media=treatment&amp;utm_campaign=daMost&amp;utm_content=damostviewed">
+              <span class="title">Why Nigerian Email Scams Work</span>
           </a>
         </li>
         <li>
-          <a href="http://www.onthemedia.org/2012/nov/16/is-anybody-down/?utm_source=local&amp;utm_media=treatment&amp;utm_campaign=daMost&amp;utm_content=damostviewed">
-               
-    
-    
-
-    <img src="http://www.wnyc.org/i/35/35/c/80/photologue/images/67/RVNGPRN.jpg" class="damost-img">
-
-              <span>Is Anybody Down?</span>
+          <a href="http://www.onthemedia.org/story/what-its-when-redditors-ban-your-interview-about-reddits-content-bans/?utm_source=local&amp;utm_media=treatment&amp;utm_campaign=daMost&amp;utm_content=damostviewed">
+              <span class="title">What It's Like When Redditors Ban Your Interview About Redditors' Content Bans</span>
           </a>
         </li>
         <li>
-          <a href="http://www.onthemedia.org/blogs/on-the-media/2013/may/22/otm-staff-picks-volume-52/?utm_source=local&amp;utm_media=treatment&amp;utm_campaign=daMost&amp;utm_content=damostviewed">
-               
-    
-    
-
-    <img src="http://www.wnyc.org/i/35/35/c/80/1/RickyJay_article.png" class="damost-img">
-
-              <span>OTM Staff Picks, Volume 52</span>
+          <a href="http://www.onthemedia.org/story/shed-light-dhs/?utm_source=local&amp;utm_media=treatment&amp;utm_campaign=daMost&amp;utm_content=damostviewed">
+              <span class="title">Shed Light on DHS!</span>
           </a>
         </li>
     </ol>
@@ -571,116 +552,6 @@ Privacy Policy
   
   <div id="damostlistened" class="tab clearfix hidden">
     <ol>
-        <li>
-          <a href="http://www.onthemedia.org/2013/may/24/?utm_source=local&amp;utm_media=treatment&amp;utm_campaign=daMost&amp;utm_content=damostlistened">
-               
-    
-    
-
-    <img src="http://www.wnyc.org/i/35/35/l/80/1/showimage_1.jpg" class="damost-img">
-
-              <span>A Week of Scandals, Catholic Whistleblowers, and More</span>
-          </a>
-        </li>
-        <li>
-          <a href="http://www.onthemedia.org/2013/may/24/catholic-whistleblowers/?utm_source=local&amp;utm_media=treatment&amp;utm_campaign=daMost&amp;utm_content=damostlistened">
-               
-    
-    
-
-    <img src="http://www.wnyc.org/i/35/35/c/80/1/Sister_Butler.jpg" class="damost-img" title="Sister Sally Butler">
-
-              <span>Catholic Whistleblowers</span>
-          </a>
-        </li>
-        <li>
-          <a href="http://www.onthemedia.org/2013/may/24/three-headed-scandal-monster/?utm_source=local&amp;utm_media=treatment&amp;utm_campaign=daMost&amp;utm_content=damostlistened">
-               
-    
-    
-
-    <img src="http://www.wnyc.org/i/35/35/c/80/1/obama_3.JPG" class="damost-img" alt="Barack Obama, Lois Lerner, Eric Holder">
-
-              <span>The Three-Headed Scandal Monster</span>
-          </a>
-        </li>
-        <li>
-          <a href="http://www.onthemedia.org/2013/may/24/qapla/?utm_source=local&amp;utm_media=treatment&amp;utm_campaign=daMost&amp;utm_content=damostlistened">
-               
-    
-    
-
-    <img src="http://www.wnyc.org/i/35/35/c/80/1/StarTrek.jpg" class="damost-img">
-
-              <span>Qapla!</span>
-          </a>
-        </li>
-        <li>
-          <a href="http://www.onthemedia.org/2013/may/24/mayor-toronto-would-prefer-not-discuss-whether-he-smokes-crack/?utm_source=local&amp;utm_media=treatment&amp;utm_campaign=daMost&amp;utm_content=damostlistened">
-               
-    
-    
-
-    <img src="http://www.wnyc.org/i/35/35/c/80/1/robfordsq.JPG" class="damost-img">
-
-              <span>The Mayor of Toronto Would Prefer Not to Discuss Whether He Smokes Crack</span>
-          </a>
-        </li>
-        <li>
-          <a href="http://www.onthemedia.org/2013/may/17/?utm_source=local&amp;utm_media=treatment&amp;utm_campaign=daMost&amp;utm_content=damostlistened">
-               
-    
-    
-
-    <img src="http://www.wnyc.org/i/35/35/c/80/1/obama_1.JPG" class="damost-img">
-
-              <span>Conservative Bloggers Vindicated, Advice for Leakers, and More</span>
-          </a>
-        </li>
-        <li>
-          <a href="http://www.onthemedia.org/2013/may/10/?utm_source=local&amp;utm_media=treatment&amp;utm_campaign=daMost&amp;utm_content=damostlistened">
-               
-    
-    
-
-    <img src="http://www.wnyc.org/i/35/35/c/80/1/businessmodelsshow.jpg" class="damost-img">
-
-              <span>Who’s gonna pay for this stuff?</span>
-          </a>
-        </li>
-        <li>
-          <a href="http://www.onthemedia.org/2013/may/24/why-tornado-news-didnt-derail-scandal-coverage/?utm_source=local&amp;utm_media=treatment&amp;utm_campaign=daMost&amp;utm_content=damostlistened">
-               
-    
-    
-
-    <img src="http://www.wnyc.org/i/35/35/c/80/1/Tornado4_-_NOAA.jpg" class="damost-img" alt="A tornado forming above powerlines">
-
-              <span>Why The Tornado News Didn't Derail Scandal Coverage This Week</span>
-          </a>
-        </li>
-        <li>
-          <a href="http://www.onthemedia.org/2013/apr/19/?utm_source=local&amp;utm_media=treatment&amp;utm_campaign=daMost&amp;utm_content=damostlistened">
-               
-    
-    
-
-    <img src="http://www.wnyc.org/i/35/35/c/80/1/SpencerPlatt.jpg" class="damost-img" title="credit: Spencer Platt / Getty">
-
-              <span>On the Media: Coverage of Boston, Undercovered Reporting and More</span>
-          </a>
-        </li>
-        <li>
-          <a href="http://www.onthemedia.org/2013/mar/08/happy-birthday/?utm_source=local&amp;utm_media=treatment&amp;utm_campaign=daMost&amp;utm_content=damostlistened">
-               
-    
-    
-
-    <img src="http://www.wnyc.org/i/35/35/c/80/1/birthday.jpg" class="damost-img">
-
-              <span>Happy Birthday</span>
-          </a>
-        </li>
     </ol>
   </div>
 
@@ -688,113 +559,53 @@ Privacy Policy
   <div id="damostcommented" class="tab clearfix hidden">
     <ol>
         <li>
-          <a href="http://www.onthemedia.org/2013/may/24/catholic-whistleblowers/?utm_source=local&amp;utm_media=treatment&amp;utm_campaign=daMost&amp;utm_content=damostcommented">
-               
-    
-    
-
-    <img src="http://www.wnyc.org/i/35/35/c/80/1/Sister_Butler.jpg" class="damost-img" title="Sister Sally Butler">
-
-              <span>Catholic Whistleblowers</span>
+          <a href="http://www.onthemedia.org/story/defense-funeral-selfies/?utm_source=local&amp;utm_media=treatment&amp;utm_campaign=daMost&amp;utm_content=damostcommented">
+              <span class="title">In Defense of Funeral Selfies</span>
           </a>
         </li>
         <li>
-          <a href="http://www.onthemedia.org/2013/may/24/mayor-toronto-would-prefer-not-discuss-whether-he-smokes-crack/?utm_source=local&amp;utm_media=treatment&amp;utm_campaign=daMost&amp;utm_content=damostcommented">
-               
-    
-    
-
-    <img src="http://www.wnyc.org/i/35/35/c/80/1/robfordsq.JPG" class="damost-img">
-
-              <span>The Mayor of Toronto Would Prefer Not to Discuss Whether He Smokes Crack</span>
+          <a href="http://www.onthemedia.org/story/actually-you-cant-keep-it/?utm_source=local&amp;utm_media=treatment&amp;utm_campaign=daMost&amp;utm_content=damostcommented">
+              <span class="title">Actually, You Can't "Keep It"</span>
           </a>
         </li>
         <li>
-          <a href="http://www.onthemedia.org/2013/may/24/three-headed-scandal-monster/?utm_source=local&amp;utm_media=treatment&amp;utm_campaign=daMost&amp;utm_content=damostcommented">
-               
-    
-    
-
-    <img src="http://www.wnyc.org/i/35/35/c/80/1/obama_3.JPG" class="damost-img" alt="Barack Obama, Lois Lerner, Eric Holder">
-
-              <span>The Three-Headed Scandal Monster</span>
+          <a href="http://www.onthemedia.org/story/i-accidentally-catfished-someone-grand-theft-auto-last-night/?utm_source=local&amp;utm_media=treatment&amp;utm_campaign=daMost&amp;utm_content=damostcommented">
+              <span class="title">I Accidentally Catfished Someone In Grand Theft Auto Last Night</span>
           </a>
         </li>
         <li>
-          <a href="http://www.onthemedia.org/2013/may/24/qapla/?utm_source=local&amp;utm_media=treatment&amp;utm_campaign=daMost&amp;utm_content=damostcommented">
-               
-    
-    
-
-    <img src="http://www.wnyc.org/i/35/35/c/80/1/StarTrek.jpg" class="damost-img">
-
-              <span>Qapla!</span>
+          <a href="http://www.onthemedia.org/story/what-its-when-redditors-ban-your-website/?utm_source=local&amp;utm_media=treatment&amp;utm_campaign=daMost&amp;utm_content=damostcommented">
+              <span class="title">What It's Like When Redditors Ban Your Website</span>
           </a>
         </li>
         <li>
-          <a href="http://www.onthemedia.org/2013/may/17/incentive-cord-cutters/?utm_source=local&amp;utm_media=treatment&amp;utm_campaign=daMost&amp;utm_content=damostcommented">
-               
-    
-    
-
-    <img src="http://www.wnyc.org/i/35/35/c/80/1/aereo_1.jpg" class="damost-img" title="Aereo's Antenna Array">
-
-              <span>A New Incentive for Cord Cutters</span>
+          <a href="http://www.onthemedia.org/story/dont-panic/?utm_source=local&amp;utm_media=treatment&amp;utm_campaign=daMost&amp;utm_content=damostcommented">
+              <span class="title">Don't Panic</span>
           </a>
         </li>
         <li>
-          <a href="http://www.onthemedia.org/2013/may/24/why-tornado-news-didnt-derail-scandal-coverage/?utm_source=local&amp;utm_media=treatment&amp;utm_campaign=daMost&amp;utm_content=damostcommented">
-               
-    
-    
-
-    <img src="http://www.wnyc.org/i/35/35/c/80/1/Tornado4_-_NOAA.jpg" class="damost-img" alt="A tornado forming above powerlines">
-
-              <span>Why The Tornado News Didn't Derail Scandal Coverage This Week</span>
+          <a href="http://www.onthemedia.org/story/hack-challenge/?utm_source=local&amp;utm_media=treatment&amp;utm_campaign=daMost&amp;utm_content=damostcommented">
+              <span class="title">Hack Challenge</span>
           </a>
         </li>
         <li>
-          <a href="http://www.onthemedia.org/2011/nov/04/website-tracks-dc-homicides-in-real-time/?utm_source=local&amp;utm_media=treatment&amp;utm_campaign=daMost&amp;utm_content=damostcommented">
-               
-    
-    
-
-    <img src="http://www.wnyc.org/i/35/35/c/80/photologue/photos/HomicideWatchDC.jpg" class="damost-img">
-
-              <span>Website Tracks D.C. Homicides in Real Time</span>
+          <a href="http://www.onthemedia.org/story/do-you-care-if-news-website-changes-story-after-publication/?utm_source=local&amp;utm_media=treatment&amp;utm_campaign=daMost&amp;utm_content=damostcommented">
+              <span class="title">Do you care if a news website changes a story after publication?</span>
           </a>
         </li>
         <li>
-          <a href="http://www.onthemedia.org/2013/apr/19/twitter-coverage-through-night/?utm_source=local&amp;utm_media=treatment&amp;utm_campaign=daMost&amp;utm_content=damostcommented">
-               
-    
-    
-
-    <img src="http://www.wnyc.org/i/35/35/c/80/1/ScottBealeFlickr.jpg" class="damost-img" title="credit: Scott Beale / Flickr">
-
-              <span>Twitter Coverage Through The Night</span>
+          <a href="http://www.onthemedia.org/story/what-its-when-redditors-ban-your-interview-about-reddits-content-bans/?utm_source=local&amp;utm_media=treatment&amp;utm_campaign=daMost&amp;utm_content=damostcommented">
+              <span class="title">What It's Like When Redditors Ban Your Interview About Redditors' Content Bans</span>
           </a>
         </li>
         <li>
-          <a href="http://www.onthemedia.org/2013/may/17/with-irs-scandal-conservative-bloggers-feel-vindicated/?utm_source=local&amp;utm_media=treatment&amp;utm_campaign=daMost&amp;utm_content=damostcommented">
-               
-    
-    
-
-    <img src="http://www.wnyc.org/i/35/35/c/80/1/IRS_Building_Constitution_Avenue.jpg" class="damost-img" title="IRS Headquarters in Washington, DC">
-
-              <span>With IRS Scandal, Conservative Bloggers Feel Vindicated</span>
+          <a href="http://www.onthemedia.org/story/secure-data/?utm_source=local&amp;utm_media=treatment&amp;utm_campaign=daMost&amp;utm_content=damostcommented">
+              <span class="title">How Do We Secure Personal Data?</span>
           </a>
         </li>
         <li>
-          <a href="http://www.onthemedia.org/blogs/on-the-media/2013/may/22/otm-staff-picks-volume-52/?utm_source=local&amp;utm_media=treatment&amp;utm_campaign=daMost&amp;utm_content=damostcommented">
-               
-    
-    
-
-    <img src="http://www.wnyc.org/i/35/35/c/80/1/RickyJay_article.png" class="damost-img">
-
-              <span>OTM Staff Picks, Volume 52</span>
+          <a href="http://www.onthemedia.org/story/shed-light-dhs/?utm_source=local&amp;utm_media=treatment&amp;utm_campaign=daMost&amp;utm_content=damostcommented">
+              <span class="title">Shed Light on DHS!</span>
           </a>
         </li>
     </ol>
@@ -823,13 +634,19 @@ Privacy Policy
 
 
 
-<script type="text/javascript">
-  addthis_pub  = 'wnycdigital';
-  addthis_config = {
-    services_exclude: 'print, email'
-  }
-</script>
-<script type="text/javascript" src="//s7.addthis.com/js/250/addthis_widget.js"></script>
+
+  <script>
+    addthis_pub = 'wnycdigital';
+    addthis_config = {
+      services_exclude: 'print, email',
+      services_compact: 'facebook, twitter, linkedin, pocket, google_plusone_share, reddit',
+      services_expanded: 'facebook, twitter, linkedin, pocket, google_plusone_share, reddit',
+      ui_show_promo: false
+    }
+  </script>
+  <script src="http://s7.addthis.com/js/250/addthis_widget.js#domready=1"></script>
+
+
 <script type="text/javascript">
 // <![CDATA[
 var item_pk = 289;
@@ -837,10 +654,6 @@ var item_content_type = 'flat_page';
 var item_ctype = 9;
 var flag_url = '/comments/adminflag/';
 
-function suggest_login(){
-    $('li.bookmark').html("<a class='suggest-login' href='/accounts/login/?next="+document.location.pathname+"'>Login</a> to Recommend");
-    return false;
-};
 // ]]>
 </script>
 
@@ -879,20 +692,47 @@ function suggest_login(){
 
 
 <script type="text/javascript">
-var _sf_sections = [];
-if (window.wnyc) {
-  _sf_sections.push(wnyc.section);
-  if (wnyc.series) {
-    for (var i=0,l=wnyc.series.length;i<l;i++) {
-      _sf_sections.push('series-'+wnyc.series[i].slug, wnyc.series[i].section);
+var set_chartbeat_sections = function(){
+    var all_sections = [];
+    if (window.wnyc) {
+        if (wnyc.section){
+            all_sections.push(wnyc.section);
+        }
+
+        if (wnyc.current_item) {
+            if (wnyc.current_item.series) {
+                Array.prototype.push.apply(all_sections, wnyc.current_item.series);
+            }
+            if (wnyc.current_item.show) {
+                all_sections.push(wnyc.current_item.show);
+            }
+            if (wnyc.current_item.channel) {
+                all_sections.push(wnyc.current_item.channel);
+            }
+        }
+        var all_sections_string = all_sections.join(",");
+        if (wnyc.current_item) {
+            /* 
+            Adding this for debugging purposes. 
+            wnyc.current_item.chartbeat_sections would not be consumed anywhere in the application
+            */
+            wnyc.current_item["chartbeat_sections"] = all_sections_string;   
+        }
+        return all_sections_string;
     }
-  }
+    else {
+        return "";
+    }
 }
+
 var _sf_async_config={
   uid:4030,
   domain:"onthemedia.org",
-  sections:_sf_sections.join(",")
+  sections: set_chartbeat_sections(),
+  authors: ((wnyc.current_item && wnyc.current_item.authors) ?
+            wnyc.current_item.authors.join(",") : "")
 };
+
 
 jQuery(window).bind('load', function() {
   if (wnyc.current_item && !wnyc.current_item.published) {
@@ -917,7 +757,7 @@ jQuery(window).bind('load', function() {
   
   
   
-<script type="text/javascript" src="//media.wnyc.org/static/CACHE/js/3e79bb4297e0.js"></script>
+<script type="text/javascript" src="//media.wnyc.org/static/CACHE/js/de709349209c.js"></script>
 
 
   
@@ -944,7 +784,7 @@ jQuery(window).bind('load', function() {
   
   
   
-<script type="text/javascript" src="//media.wnyc.org/static/CACHE/js/3e79bb4297e0.js"></script>
+<script type="text/javascript" src="//media.wnyc.org/static/CACHE/js/de709349209c.js"></script>
 
 
   <!-- Application OK - health checks look for this string. -->
