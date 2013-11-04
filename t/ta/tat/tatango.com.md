@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tatango.com privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501205938id_/http%3A//www.tatango.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tatango.com privacy policy that was archived on 2013-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131104143852id_/https%3A//www.tatango.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Tatango
 
@@ -48,4 +48,4 @@ Tatango may reserve the right to change this online privacy policy from time to 
 
 You acknowledge that acceptance of this privacy policy is a condition to your use of our services and you agree to be bound by all of its terms and conditions. 
 
-If you have further questions about our privacy policy or its implementation, please [contact us](https://web.archive.org/contact). 
+If you have further questions about our privacy policy or its implementation, please contact us. 
