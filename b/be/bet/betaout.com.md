@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the betaout.com privacy policy that was archived on 2013-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130425081342id_/http%3A//www.betaout.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the betaout.com privacy policy that was archived on 2013-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131104070154id_/http%3A//www.betaout.com/privacy) for the most accurate reproduction.*
 
-# Privacy
+# Betaout - Content Collaboration Suite for Wordpress Publishers and Digital Agencies.
 
 Privacy Policy
 
