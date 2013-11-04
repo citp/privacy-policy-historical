@@ -1,117 +1,83 @@
-> *The following text is extracted and transformed from the shoeme.ca privacy policy that was archived on 2013-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130423150921id_/http%3A//privacy-policy.truste.com/verified-policy/www.shoeme.ca) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shoeme.ca privacy policy that was archived on 2013-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131104215613id_/http%3A//www.shoeme.ca/pages/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy for www.shoeme.ca
+# Shoes Online Canada - Buy designer women's & men's shoes | ShoeMe.ca
 
-Effective on October 16, 2012 
+ShoeMe values your privacy and takes great care protecting the information you provide us. 
 
-This privacy statement describes how ShoeMe.ca collects and uses the personal information you provide on our Web site: [www.shoeme.ca ](https://www.shoeme.ca/). It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
+**Collection of Personal Information**
 
-**TRUSTe**
+When you create a ShoeMe account, the personal information we collect may include your: 
 
-ShoeMe.ca is a Participant in the TRUSTe Privacy Seal Program. TRUSTe is an independent organization whose mission is to advance privacy and trust in the networked world. This Web site has agreed to have its privacy practices monitored for compliance by TRUSTe.
-
-If you have questions or concerns regarding this policy, you should first contact us at [customerservice@shoeme.ca ](mailto:customerservice@shoeme.ca). If you do not receive acknowledgment of your inquiry, or if your inquiry has not been satisfactorily addressed, you should then contact [TRUSTe](http://www.truste.org/consumers/watchdog_complaint.php). TRUSTe will then serve as a liaison with the Web site to resolve your concerns.
-
-## Collection and Use of Personal Information
-
-We collect the following personal information from you
-
-  * Contact Information such as name, email address, mailing address, phone number
-  * Billing Information such as credit card number, and billing address
-  * Unique Identifiers such as user name, account number, password
+  1. Name
+  2. Delivery Address 
+  3. Email Address 
+  4. Telephone Number 
+  5. Phone Number 
+  6. Date of Birth 
+  7. Gender 
 
 
 
-As is true of most Web sites, we automatically gather information about your computer such as your IP address, browser type, referring/exit pages, and operating system.
+The personal information we collect from you will be used in some or all of the following ways: 
 
-We use this information to
-
-  * Fulfill your order
-  * Send you an order confirmation
-  * Send product updates or warranty information
-  * Respond to customer service requests
-  * Administer your account
-  * Send you a newsletter
-  * Send you marketing communications
-  * Respond to your questions and concerns
-  * Improve our Web site and marketing efforts
-  * Conduct research and analysis
+  1. To deliver the products you have purchased via the ShoeMe website 
+  2. To communicate with you during the delivery process of the product and for customer support purposes 
+  3. To provide you with relevant product information 
+  4. To aid ShoeMe in the development of new products and services 
+  5. To optimize the site and your shopping experience 
 
 
 
-**Choice/Opt-Out**
+When you become a registered user of the ShoeMe website, we'll also use your personal information to send you marketing or promotional information from time to time. You can opt out of receiving marketing information from ShoeMe at anytime by using the unsubscribe function within the electronic marketing material or by changing the settings under your My Account section. 
 
-You may choose to stop receiving our newsletter or marketing emails by following the unsubscribe instructions included in these emails or you can contact us at [customerservice@shoeme.ca ](mailto:customerservice@shoeme.ca).
+**Updating Your Personal Information**
 
-**Information Obtained from Third Parties**
+You can update your personal information anytime by accessing your account via the ShoeMe website. Use your email address and password to change your account details. 
 
-We purchase marketing data about our customers from third parties and combine it with information we already have about you, to create more tailored advertising and products.
+**Security of Your Personal Information**
 
-## Information Sharing
+We assure you that all information we collect will be safely and securely stored. 
 
-We will share your personal information with third parties only in the ways that are described in this privacy statement. We do not sell your personal information to third parties.
+We protect your personal information by: 
 
-We may provide your personal information to companies that provide services to help us with our business activities such as shipping your order or offering customer service. These companies are authorized to use your personal information _only as necessary to provide_ these services to us.
-
-We may also disclose your personal information
-
-  * as required by law such as to comply with a subpoena, or similar legal process
-  * when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request, 
-  * if ShoeMe.ca is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information, 
-  * to any other third party with your prior consent to do so.
+  1. Restricting access to personal information
+  2. Maintaining technology products to prevent unauthorised computer access
+  3. Securely destroying your personal information when it's no longer needed for our record retention purposes
 
 
 
-We share your personal information with other companies so that they can market their products or services to you. If you do not want us to share your personal information with these companies, contact us at [customerservice@shoeme.ca ](mailto:customerservice@shoeme.ca). 
+When purchasing from ShoeMe, your financial details are passed through a secure server using the latest 128-bit SSL (secure sockets layer) encryption technology. 128-bit SSL encryption is approximated to take at least one trillion years to break, and is the industry standard. If you have any questions regarding our security policy, please contact us at customerservice@shoeme.ca. 
 
-_PayPal_
+**Disclosure of Personal Information**
 
-If you choose to use PayPal to finalize and pay for your order, you will provide your credit card number, directly to PayPal. PayPal's privacy policy will apply to the information you provide on the PayPal Web site.
+We value our customers and will not share your information with any other organisations other than related companies and those third parties directly related to the delivery of the products you have purchased from the ShoeMe website. 
 
-## Cookies and Other Tracking Technologies
+There may be some exceptional circumstances for disclosing your personal information, such as when there are grounds to believe that the disclosure is necessary to prevent a threat to life or health, or for law enforcement purposes. 
 
-We may use cookies, for example, to keep track of your preferences and profile information. Cookies are also used to collect general usage and volume statistical information that does not include personal information.
+ShoeMe is committed to complying with the Privacy Act and the National Privacy principles. 
 
-_Advertising_
+**Complaints About Breaches of Privacy**
 
-We partner with a third party ad network to either display advertising on our Web site or to manage our advertising on other sites. Our ad network partner uses cookies and Web beacons to collect non-personally identifiable information about your activities on this and other Web sites to provide you targeted advertising based upon your interests. If you wish to not have this information used to serve you targeted ads, you may opt-out of being served targeted ads by clicking here (link to NAI opt-out: <http://www.networkadvertising.org/managing/opt_out.asp>). Please note this does not opt you out of being served advertising. You will continue to receive generic ads.
+If you believe that your privacy has been breached by ShoeMe, you can contact us at customerservice@shoeme.ca and all attempts will be made to resolve the matter. 
 
-_Web beacons_
+**Collection of Computer Data**
 
-Our Web pages contain electronic images known as Web beacons (sometimes called single-pixel gifs) and are used along with cookies to compile aggregated statistics to analyze how our site is used and may be used in some of our emails to let us know which emails and links have been opened by recipients. This allows us to gauge the effectiveness of our customer communications and marketing campaigns.
+When you visit ShoeMe.ca, whether as an account holder or a visitor, our servers and our google analytics setup automatically records information that your browser sends whenever you visit a website. 
 
-Our Web pages may also contain electronic images known as Web beacons (sometimes called single-pixel gifs) that are set by our third party partners. Web beacons are used along with cookies enabling our partners to compile aggregated statistics to analyze how our site is used.
+This data may include information such as your computer’s Internet Protocol address, browser type or the webpage you were visiting before you came to our site, pages of our site that you visit, the time spent on those pages, information you search for on our site, access times and dates, and other statistics. 
 
-We use a third party to gather information about how you and others use our Web site. For example, we will know how many users access a specific page and which links they clicked on. We use this aggregated information to understand and optimize how our site is used.
+We don't treat the data collected as personal Information or use it in association with other personal information, though we may aggregate, analyze and evaluate such information to better tailor or improve the services or products provided. 
 
-_Links to Other Web Sites_
+We use third-party advertising companies to serve ads when you visit our Website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, visit www.networkadvretising.org. 
 
-Our Site includes links to other Web sites whose privacy practices may differ from those of ShoeMe.ca. If you submit personal information to any of those sites, your information is governed by their privacy statements. We encourage you to carefully read the privacy statement of any Web site you visit. 
+**Address and Contact Details**
 
-## Security
+Suite 206  
+1715 Cook Street  
+Vancouver, BC  
+V5Y 3J6  
 
-The security of your personal information is important to us. We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security. If you have any questions about security on our Web site, you can contact us at [customerservice@shoeme.ca ](mailto:customerservice@shoeme.ca)
 
-We provide two means for you to make a purchase on our site. You can either use our order form or a third party payment option. If you use our shopping cart, the transmission of sensitive information collected on our order form is encrypted using secure socket layer technology (SSL). If you choose to use a third party payment option to pay for your order, its privacy statement and security practices will apply to your information. We encourage you to read that privacy statement before providing your information.
+email: customerservice@shoeme.ca 
 
-## Additional Policy Information
-
-Our Web site includes Widgets, which are interactive mini-programs that run on our site to provide specific services from another company (e.g. displaying the news, opinions, music, etc). Personal information, such as your email address, may be collected through the Widget. Cookies may also be set by the Widget to enable it to function properly. Information collected by this Widget is governed by the privacy policy of the company that created it. 
-
-**Correcting and Updating Your Personal Information**
-
-To review and update your personal information to ensure it is accurate, contact us at [customerservice@shoeme.ca ](mailto:customerservice@shoeme.ca).
-
-**Notification of Privacy Statement Changes**
-
-We may update this privacy statement to reflect changes to our information practices. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.
-
-You can contact us about this privacy statement by writing or email us at the address below:
-
-ShoeMe.ca 
-
-Suite 206, 1715 Cook Street 
-
-Vancouver, British Columbia, Canada V5Y 3J6
-
-Phone: +18664407948
+Tel: 1-866-440-7948 
