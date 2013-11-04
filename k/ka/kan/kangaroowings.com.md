@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the kangaroowings.com privacy policy that was archived on 2013-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130505151658id_/http%3A//www.kangaroowings.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kangaroowings.com privacy policy that was archived on 2013-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131104134150id_/http%3A//www.kangaroowings.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy of kangaroowings |
 
 At kangaroowings.com, we respect the trust you place in us and thus its our responsibility to protect your Privacy.
 
-  * **Information Collected** – â€œ we record your Phone Email ID & Name in our Database for future reference and support purpose only
-  * **Information Privacy** – â€œ Your Information is Safe with us and not used for any marketing purpose neither distributed to any third party.
+  * **Information Collected** – We record your Phone Email ID & Name in our Database for future reference and support purpose only
+  * **Information Privacy** – Your Information is Safe with us and not used for any marketing purpose neither distributed to any third party.
   * **Information Removal / Update Request –** You can always request your information removal or update request on support@kangaroowings.com
 
 
