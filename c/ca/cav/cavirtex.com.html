@@ -1,21 +1,45 @@
-<!--The following is the downloaded HTML source of the cavirtex.com privacy policy that was archived on 2013-01-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130130215120id_/https%3A//www.cavirtex.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the cavirtex.com privacy policy that was archived on 2013-11-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131104185209id_/https%3A//cavirtex.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <title>Canadian Virtual Exchange
   
   
 </title>
+
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<link rel="stylesheet" href="/media/virex.css?20121018" type="text/css" charset="utf-8">
-<link href="media/main.css" rel="stylesheet" type="text/css">
-<link href="media/reset.css" rel="stylesheet" type="text/css">
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
+<meta name="google-site-verification" content="M79TumRrI0FXdpZbUqm7J3yhE4Mi_KMOpTHvB1n7DpI">
+<link rel="stylesheet" href="/media/virex.css?20130906" type="text/css" charset="utf-8">
+<link href="/media/main.css?20130920" rel="stylesheet" type="text/css">
+<link href="/media/reset.css" rel="stylesheet" type="text/css">
+<link href="/media/jquery-ui-css/jquery-ui-1.10.3.custom.min.css" rel="stylesheet" type="text/css">
+<script type="text/javascript" async="" src="https://www.havelockinvestments.com/api/hi.js.php"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/media/jquery.min.js"></script>
+<script type="text/javascript" src="/media/jquery-ui-1.10.3.custom.min.js"></script>
+<script type="text/javascript">
 
   var _gaq = _gaq || [];
   _gaq.push(['_setAccount', 'UA-28758203-1']);
   _gaq.push(['_setDomainName', 'cavirtex.com']);
   _gaq.push(['_trackPageview']);
+
+</script>
+
+
+
+<script type="text/javascript">
+  function havelock_callback(data){
+    var stocks = {'him' : 'HIM', 'vtx' : 'VTX'};
+    var tag, newText, lastdividend, nextdividend;
+    for(tag in stocks){
+      newText = stocks[tag] + ' (' + Math.round(data[stocks[tag]].last * 100) / 100 + ' BTC/unit)';
+      lastdividend = data[stocks[tag]]['lastdividend'];
+      nextdividend = data[stocks[tag]]['nextdividend'];
+      if(lastdividend){
+        newText += ' ' + (Math.floor(120000 * (nextdividend ? nextdividend : lastdividend) / data[stocks[tag]].last) / 100) + '% / yr';
+      }
+      document.getElementById('havelock_' + tag + '_last').innerHTML = newText;
+    }
+  }
 
   (function() {
     var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
@@ -23,72 +47,121 @@
     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
   })();
 
+  (function() {
+    var hi = document.createElement('script'); hi.type = 'text/javascript'; hi.async = true;
+    hi.src = 'https://www.havelockinvestments.com/api/hi.js.php';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(hi, s);
+  })();
+
 </script>
-<meta name="google-site-verification" content="M79TumRrI0FXdpZbUqm7J3yhE4Mi_KMOpTHvB1n7DpI">
-</head>
 <!--[if lte IE 9]>
    <style type="text/css">
       #topNav { height: 100%; filter: shadow(color=#333333,direction=120,strength=4); -ms-filter: "progid:DXImageTransform.Microsoft.Shadow(color=#333333,direction=120,strength=4)"; }
    </style>
 <![endif]-->
+</head>
 <body>
 <div id="wrapper">
-      
-      
-  <div id="signUp"><a href="signup">sign up</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="login">login</a></div>
-      
-      
+  
+  <div id="signUp">
+  
+    <a href="/signup">sign up</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/login">login</a>
+  
+  </div>
+  
+  
+  
+  <div id="help">
+      <strong>Need Help?  <a href="http://support.cavirtex.com" target="_blank">Submit a ticket</a> or call (888)812-2525</strong>
+  </div>
+  
   <div id="header">
-    <div id="logo"><a href="home"><img src="media/logo.png" alt="VirtEx Canadian Virtual Exchange" width="315" height="76" title="Home"></a></div>
+    <div id="topNavList">
+        <a href="/merchant_directory">.: Merchant Directory :.</a>      
+    </div>
+    <div class="socialLinks">
+      <div class="social1"><a target="_blank" href="http://twitter.com/cavirtex"><img src="/media/icon-twitter.png" height="32" alt="Twitter" title="Twitter"></a></div>
+      <div class="social2"><a target="_blank" href="http://www.facebook.com/pages/VirtEx/224085370954214"><img src="/media/icon-facebook.png" height="32" alt="Facebook" title="Facebook"></a></div>
+      <div class="social3"><a target="_blank" href="http://www.youtube.com/cavirtex"><img src="/media/icon-youtube.png" height="32" alt="You Tube" title="You Tube"></a></div>
+    </div>
+    <div id="logo"><a href="/home"><img src="/media/logo.png" alt="VirtEx Canadian Virtual Exchange" width="315" height="76" title="Home"></a></div>
     <div id="navContainer">
       <ul id="navList">
-        <li><a href="methods#cad_deposit">Deposit and Withdraw Funds</a></li>
-        <li><a href="orderbook">Open Trades</a></li>
+        <li><a href="/deposit_methods">Deposit</a></li>
+        <li><a href="/withdraw_methods">Withdraw</a></li>
+        <li>
+          <a href="/orderbook" style="position:relative">
+            <img src="/media/redStar.png" id="tradeStar">
+            Open Trades
+          </a>
+        </li>
         <li><a target="_blank" href="http://www.bitcoincharts.com/markets/virtexCAD.html">Charts</a></li>
-        <li><a href="faq">FAQs</a></li>
+        <li><a href="/faq">FAQs</a></li>
       </ul>
     </div>
-    <div class="slogan">100% Canadian owned and operated</div>
   </div>
   <div id="stats">
+    <div id="slogans">
+        <div style="display:inline-block; float:right; margin: -4px 0 0 6px ">
+        <img id="slogan_leaf" src="/media/mapleLeaf.png">
+        </div>
+      <div style="display:inline-block; float:right">
+        100% CANADIAN 
+      </div>
+      <div class="tickerTextAbove">Over $31.4 Million Traded </div>
+    </div>
+    <div class="right"><a href="https://www.havelockinvestments.com" target="_blank"><img src="/media/havelockinvestments-logo.png" width="337" height="30" alt="Havelock Investments Logo" longdesc="http://www.havelockinvestments.com"></a>
+      <div class="fund">
+        <a target="_blank" href="https://www.havelockinvestments.com/fund.php?symbol=HIM">
+        <h1><span id="havelock_him_last">HIM</span></h1>
+        <p><nobr>Bitcoin Mining. Monthly Dividends!</nobr></p>
+        </a>
+      <div class="video"><a target="_blank" href="http://www.youtube.com/watch?v=nnmbKPh6qqs">play video&nbsp;&nbsp;<img src="/media/arrow.png" width="22" height="22" alt="visit"></a></div>
+      </div>
+      <div class="fund">
+        <a target="_blank" href="https://www.havelockinvestments.com/fund.php?symbol=VTX">
+        <h1><span id="havelock_vtx_last">VTX</span></h1>
+        <p><nobr>Buy Shares in VirtEx!</nobr></p>
+        </a>
+      <div class="video"><a target="_blank" href="http://youtu.be/FvELpQ83ApA">play video&nbsp;&nbsp;<img src="/media/arrow.png" width="22" height="22" alt="visit"></a></div>
+      </div>
+    </div>
+
     <div class="left">
     
-      <table id="ticker" width="530" border="0" align="center" cellpadding="5px">
+      <table id="ticker" width="500" border="0" align="center" cellpadding="5">
         <tbody><tr>
-          <th>&nbsp;</th>
-          <th>Last</th>
-          <th>High</th>
-          <th>Low</th>
-          <th>Volume</th>
+          <th style="width:12%">&nbsp;</th>
+          <th style="width: 22%">Last</th>
+          <th style="width: 22%">High</th>
+          <th style="width: 22%">Low</th>
+          <th style="width: 22%">Volume</th>
         </tr>
         <tr class="dailyRow">
           <td>Daily</td>
-          <td> 19.10 (CAD)</td>
-          <td> 19.75 (CAD)</td>
-          <td> 18.98 (CAD)</td>
-          <td> 1129.07 (BTC)</td>
+          <td> 240.00 (CAD)</td>
+          <td> 242.00 (CAD)</td>
+          <td> 214.00 (CAD)</td>
+          <td> 670.00 (BTC)</td>
         </tr>
         <tr class="weeklyRow">
           <td>Weekly</td>
-          <td> 19.10 (CAD)</td>
-          <td> 19.75 (CAD)</td>
-          <td> 15.40 (CAD)</td>
-          <td> 10050.47 (BTC)</td>
+          <td> 240.00 (CAD)</td>
+          <td> 242.00 (CAD)</td>
+          <td> 195.00 (CAD)</td>
+          <td> 3666.05 (BTC)</td>
         </tr>
       </tbody></table>
     
     </div>
-    <div class="right"><a href="https://www.havelockinvestments.com" target="_blank"><img src="media/havelockinvestments-logo.png" width="337" height="30" alt="Havelock Investments Logo" longdesc="http://www.havelockinvestments.com"></a>
-      <div class="video"><a target="_blank" href="http://www.youtube.com/watch?v=nnmbKPh6qqs">play video&nbsp;&nbsp;<img src="media/arrow.png" width="22" height="22" alt="visit"></a></div>
-      <div class="fund">
-        <a target="_blank" href="https://www.havelockinvestments.com/fund.php?symbol=HIM">
-        <h1>HIM (13.80 BTC/unit)</h1>
-        <p>Bitcoin Mining. Monthly Dividends!</p>
-        </a>
-      </div>
-    </div>
+
   </div>
 
+  
+  <div id="news">
+    <p>Latest News: <a href="/news" title="Get your Debit Card now! Click here for the video!">Get your Debit Card now! Click here for the video!</a></p>
+  </div>
+  
   <div id="container">
     
 
@@ -257,34 +330,30 @@
   </div>
 
   <div id="footer">
-    <div id="logoFooter"><a href="home"><img src="media/logo.png" alt="VirtEx Canadian Virtual Exchange" width="315" height="76" title="Home"></a></div>
+    <div id="logoFooter"><a href="/home"><img src="/media/logo.png" alt="VirtEx Canadian Virtual Exchange" width="315" height="76" title="Home"></a></div>
     <div id="footernavWrap">
     
       <div id="footernav1">
       <ul>
-        <li><a href="terms">Terms</a></li>
-        <li><a href="privacy">Privacy Policy</a></li>
-        <li><a href="faq">FAQs</a></li>
+        <li><a href="/terms">Terms</a></li>
+        <li><a href="/privacy">Privacy Policy</a></li>
+        <li><a href="/faq">FAQs</a></li>
+	<li><a href="http://blog.cavirtex.com">Virtex Blog</a></li>
       </ul>
       </div>
       <div id="footernav2">
       <ul>
-        <li><a href="home">Home</a></li>
-        <li><a href="orderbook">Open Trades</a></li>
-        <li><a href="methods">Deposit and Withdraw Funds</a></li>
+        <li><a href="/home">Home</a></li>
+        <li><a href="/orderbook">Open Trades</a></li>
+        <li><a href="/methods">Deposit and Withdraw Funds</a></li>
+	<li><a href="http://affiliates.cavirtex.com/">Affiliate Program</a></li>
       </ul>
       </div>
     
     </div>
   </div>
   <div id="comments">
-    <div class="left">
-  Please send bug reports, feedback, suggestions,
-  or discrepancies to <script>document.write('<a href="mailto:' +
-  'admin' + '@' + 'ca' + 'virtex.com' + '">' + 'admin' + '@' + 'ca' +
-  'virtex.com' + '</a>')</script><a href="mailto:admin@cavirtex.com">admin@cavirtex.com</a>.
-    </div>
-    <div class="right"> © 2011-2012 VirtEx (Canada) <a href="contact">Contact Us</a></div>
+    <div class="right"> © 2011-2013 VirtEx (Canada) <a href="/contact">Contact Us</a></div>
   </div>
 </div>
 
