@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wonderhowto.com privacy policy that was archived on 2013-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130525063754id_/http%3A//www.wonderhowto.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wonderhowto.com privacy policy that was archived on 2013-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131104060722id_/http%3A//www.wonderhowto.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy « Wonder How To
 
