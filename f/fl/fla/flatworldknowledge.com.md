@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flatworldknowledge.com privacy policy that was archived on 2013-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130514201225id_/http%3A//www.flatworldknowledge.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flatworldknowledge.com privacy policy that was archived on 2013-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131104225122id_/http%3A//www.flatworldknowledge.com//privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
