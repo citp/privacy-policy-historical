@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the giantfreakinrobot.com privacy policy that was archived on 2013-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130424135420id_/http%3A//www.giantfreakinrobot.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the giantfreakinrobot.com privacy policy that was archived on 2013-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131104041730id_/http%3A//www.giantfreakinrobot.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Giant Freakin Robot
 
