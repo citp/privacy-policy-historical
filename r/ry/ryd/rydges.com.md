@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rydges.com privacy policy that was archived on 2013-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130511033908id_/http%3A//www.rydges.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rydges.com privacy policy that was archived on 2013-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131104214651id_/http%3A//www.rydges.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Rydges Hotels & Resorts - AHL
 
