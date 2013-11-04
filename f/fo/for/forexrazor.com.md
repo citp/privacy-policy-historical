@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the forexrazor.com privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502031826id_/http%3A//www.forexrazor.com/en-US/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the forexrazor.com privacy policy that was archived on 2013-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131104010809id_/http%3A//www.forexrazor.com/en-US/privacy.aspx) for the most accurate reproduction.*
 
 # ForexRazor | Forex Trading Systems | Forex Training
 
