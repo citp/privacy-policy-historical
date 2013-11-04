@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the cottages4you.co.uk privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621104004id_/http%3A//www.cottages4you.co.uk/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cottages4you.co.uk privacy policy that was archived on 2013-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131104042330id_/http%3A//www.cottages4you.co.uk/legal/privacy-policy) for the most accurate reproduction.*
 
 # Security & Privacy - cottages4you
 
-**BY USING THIS WEB SITE, YOU SIGNIFY YOUR AGREEMENT TO The Hoseasons Group LIMITED’S (THG'S) PRIVACY POLICY. IF YOU DO NOT AGREE WITH THIS PRIVACY POLICY, PLEASE DO NOT USE THIS WEB SITE. YOUR CONTINUED USE OF THG'S WEB SITES FOLLOWING THE POSTING OF CHANGES TO THIS PRIVACY POLICY WILL MEAN THAT YOU ACCEPT THOSE CHANGES.**
+**BY USING THIS WEB SITE, YOU SIGNIFY YOUR AGREEMENT TO Wyndham Vacation Rentals (UK) Ltd’S (WVR'S) PRIVACY POLICY. IF YOU DO NOT AGREE WITH THIS PRIVACY POLICY, PLEASE DO NOT USE THIS WEB SITE. YOUR CONTINUED USE OF WVR'S WEB SITES FOLLOWING THE POSTING OF CHANGES TO THIS PRIVACY POLICY WILL MEAN THAT YOU ACCEPT THOSE CHANGES.**
 
 **1\. Who is responsible for managing my information?**
 
-cottages4you and all websites and brochures operated and/or produced in relation to it are owned and maintained by The Hoseasons Group Ltd ("we" or "us"), a group company of Wyndham Worldwide Corporation ("Wyndham Group"). This is our Privacy Policy.
+cottages4you and all websites and brochures operated and/or produced in relation to it are owned and maintained by Wyndham Vacation Rentals (UK) Ltd ("we" or "us"), a group company of Wyndham Worldwide Corporation ("Wyndham Group"). This is our Privacy Policy.
 
 We are responsible for the collection and proper management of any personal information you submit. We will keep your personal details secure and use the information you provide consistently with applicable privacy and data protection laws and the terms of this Privacy Policy.
 
@@ -56,7 +56,7 @@ We may from time to time appoint other members of the Wyndham Group, or third pa
 
 We would like to send you information about our own products and services, as well as those of selected third parties. We may do this by post, telephone, email or SMS, unless you have told us that you do not wish to be contacted in this way. We will always ask you to confirm in advance that you are happy for us to allow third parties to contact you by email. 
 
-If you would like to change any of your preferences relating to the way in which we may use your information for direct marketing, then please update your user preferences or send an email to datachanges@thehoseasonsgroup.com or contact us at The Hoseasons Group Limited, Spring Mill, Earby, Barnoldswick, Lancashire, BB94 0AA, United Kingdom. Alternatively you can call on 0845 268 9282.
+If you would like to change any of your preferences relating to the way in which we may use your information for direct marketing, then please update your user preferences or send an email to datachanges@wynvr.co.uk or contact us at Wyndham Vacation Rentals (UK) Ltd, Spring Mill, Earby, Barnoldswick, Lancashire, BB94 0AA, United Kingdom. Alternatively you can call on 0845 268 9282.
 
 **7\. How long will we hold your information for?**
 
@@ -71,7 +71,7 @@ We may from time to time ask you if you would like to tell us about a friend or 
 You have the right to request a copy of the information that we hold about you. If you would like a copy of some or all of your personal information, please email or write to us at the address below. Please note that we may charge a small administrative fee for the provision of this information.
 
 Data Protection Co-ordinator  
-The Hoseasons Group Limited,  
+Wyndham Vacation Rentals (UK) Ltd,  
 Spring Mill,  
 Earby,  
 Barnoldswick,  
@@ -97,8 +97,8 @@ We keep our privacy policy under regular review and we will place any updates on
 
 Please contact us if you have any questions about our privacy policy or information we hold about you.
 
-By email: datachanges@thehoseasonsgroup.com
+By email: datachanges@wynvr.co.uk
 
-Or write to us at :The Hoseasons Group Limited, Spring Mill, Earby, Barnoldswick, Lancashire, BB94 0AA, United Kingdom. 
+Or write to us at :Wyndham Vacation Rentals (UK) Ltd, Spring Mill, Earby, Barnoldswick, Lancashire, BB94 0AA, United Kingdom. 
 
 Or call on: 0845 268 9282
