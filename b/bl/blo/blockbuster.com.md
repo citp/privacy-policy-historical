@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blockbuster.com privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602070809id_/http%3A//www.blockbuster.com/corporate/privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blockbuster.com privacy policy that was archived on 2013-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131104184909id_/http%3A//www.blockbuster.com/corporate/privacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -133,7 +133,7 @@ Note that in most cases, Blockbuster will retain the previously entered data, an
  How Can I Terminate My Account Membership and What Happens to My Personally Identifiable Information?
     
 
-Blockbuster account memberships are continuous unless affirmatively terminated by a Member. Members who wish to terminate their relationship with Blockbuster may instruct Blockbuster to delete their personally identifiable information from Blockbuster's database by submitting the proper form to Blockbuster by email to blockbusterconsumer@blockbuster.com, or by mailing the form to Online Customer Care, PO Box 9040, Littleton, CO 80120. The necessary form can be found [_here_](https://web.archive.org/content/v.1.4.2.20130524170621/documents/AccountTerminationForm.pdf).
+Blockbuster account memberships are continuous unless affirmatively terminated by a Member. Members who wish to terminate their relationship with Blockbuster may instruct Blockbuster to delete their personally identifiable information from Blockbuster's database by submitting the proper form to Blockbuster by email to blockbusterconsumer@blockbuster.com, or by mailing the form to Online Customer Care, PO Box 9040, Littleton, CO 80120. The necessary form can be found [_here_](https://web.archive.org/content/v.1.7.0.20131025144959/documents/AccountTerminationForm.pdf).
 
 If a Member properly submits the form described above, Blockbuster will promptly decouple the Member's personally identifiable information from information that identifies the Member as having requested or obtained specific video materials. Blockbuster, however, is entitled to keep personally identifiable information for any Member who submits the form described above for a period of ninety (90) days following the Member's last transaction. The 90 day limit shall be extended for such further time as is necessary while there exists any outstanding transaction(s) including, but not limited to, outstanding video returns, payment balances, or credit card or check clearances.
 
