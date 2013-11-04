@@ -1,6 +1,21 @@
-> *The following text is extracted and transformed from the coventry.ac.uk privacy policy that was archived on 2013-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130508120558id_/http%3A//www.coventry.ac.uk/legal-documents/cookie-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coventry.ac.uk privacy policy that was archived on 2013-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131104030725id_/http%3A//www.coventry.ac.uk/legal-documents/cookie-policy) for the most accurate reproduction.*
 
 # Cookie Policy
+
+##### Privacy
+
+Coventry University's Website will process information about you in the following ways:
+
+  * Personal details given to us by you via on-line forms will be used to provide you with information, goods or services you have requested, such as course brochures or prospectuses. The details you provide will not be used for marketing purposes unless you have been informed of this and been given the opportunity to opt-out of having your details used for this purpose
+  * Information provided by you via feedback forms or questionnaires will be used to improve our site
+  * Logging information, such as your machine's IP address, is collected automatically by the server and used for statistical purposes only
+  * Cookies may be used to collect user data to enhance your experience of our site. For example, we may use cookies to determine whether your browser can accept a particular type of software, or to stop pop-up boxes appearing each time you visit our site. We may use cookies for other purposes in the future, as our site develops and this statement will be amended to reflect any such changes. 
+
+
+
+Information about you will only be disclosed to relevant employees of Coventry University, and will not be revealed to third parties outside the University.
+
+You have a right to ask for a copy of the information we hold on you at any time, and to have that information corrected if it is inaccurate. For further information please see Freedon of Information Policy.
 
 #### Coventry University cookie policy
 
@@ -141,23 +156,6 @@ di | 2 years | Low
 loc | 3 months | Low  
 dt | 1 month | Low  
   
-##### Privacy
-
-Coventry University's Website will process information about you in the following ways:
-
-  * Personal details given to us by you via on-line forms will be used to provide you with information, goods or services you have requested, such as course brochures or prospectuses. The details you provide will not be used for marketing purposes unless you have been informed of this and been given the opportunity to opt-out of having your details used for this purpose
-  * Information provided by you via feedback forms or questionnaires will be used to improve our site
-  * Logging information, such as your machine's IP address, is collected automatically by the server and used for statistical purposes only
-  * Cookies may be used to collect user data to enhance your experience of our site. For example, we may use cookies to determine whether your browser can accept a particular type of software, or to stop pop-up boxes appearing each time you visit our site. We may use cookies for other purposes in the future, as our site develops and this statement will be amended to reflect any such changes 
-
-
-
-  
-Information about you will only be disclosed to relevant employees of Coventry University, and will not be revealed to third parties outside the University.
-
-  
-You have a right to ask for a copy of the information we hold on you at any time, and to have that information corrected if it is inaccurate. For further information please see Freedon of Information Policy.
-
 #####   
 Summary of terms
 
