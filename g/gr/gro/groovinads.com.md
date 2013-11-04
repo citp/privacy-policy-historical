@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the groovinads.com privacy policy that was archived on 2013-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130524125842id_/http%3A//www.groovinads.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the groovinads.com privacy policy that was archived on 2013-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131104054033id_/http%3A//www.groovinads.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | GroovinAds
 
