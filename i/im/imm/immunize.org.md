@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the immunize.org privacy policy that was archived on 2013-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130426035207id_/http%3A//www.immunize.org/iacadmin/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the immunize.org privacy policy that was archived on 2013-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131104120344id_/http%3A//www.immunize.org/iacadmin/privacy.asp) for the most accurate reproduction.*
 
 # Immunization Action Coalition Privacy Policy
 
@@ -14,7 +14,7 @@ IAC has taken steps to make information received from online visitors as secure 
 This site contains many links to other websites not under the control of IAC. IAC accepts no responsibility for the privacy practices or failures of those websites.  
 The Immunization Action Coalition may update this Privacy Policy at any time by posting revisions and you agree that it is your responsibility to review the Privacy Policy in effect at the time of your access to this website.  
 If you have any questions or comments about this policy or our website, you may contact us by email at [admin@immunize.org](mailto:admin@immunize.org) or by writing to us at the address on the bottom of this page.  
-_This page was reviewed on June 11, 2010_  
+_This page was reviewed on August 1, 2013_  
   
 ---  
   
