@@ -1,85 +1,112 @@
-> *The following text is extracted and transformed from the windowsandme.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616132720id_/http%3A//www.windowsandme.com/PrivacyStatement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the windowsandme.com privacy policy that was archived on 2013-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131104075444id_/http%3A//go.microsoft.com/fwlink/%3FLinkId%3D248686) for the most accurate reproduction.*
 
-# Windows And Me - explore. discover. share. learn.
+# Bing Privacy Statement
 
-##### Windows and Me Privacy Statement
+Cookies & Similar TechnologiesCookies
 
-_(last updated:29th July 2008)_
+When you use Bing services with a web browser, we will place one or more "cookies" on your machine. For example, Bing uses a cookie with a unique identifier known as the Search ID to operate the service and enable certain search features. If you sign into Bing or other Microsoft services using a Microsoft account, we will set or read one or more additional cookies. We use these cookies to operate Bing services and provide you a more relevant search experience. You can use your browser settings to remove or block cookies on your computer. 
 
-Microsoft is committed to protecting your privacy. This privacy statement applies to the data collected by Microsoft through the Windows and Me site (the “Site”); it does not apply to data collected through other online or offline Microsoft sites, products or services. 
+We also use web beacons to help deliver cookies and compile analytics. These may include third-party web beacons, which are prohibited from collecting your personal information. 
 
-##### Collection of Your Personal Information
+Collecting Your InformationCollecting Your Information
 
-We will ask you when we need information that personally identifies you or allows us to contact you. The personal information we collect may include name, e-mail address, password of site, phone, postal address, description of oneself, date of birth, gender, marital status, date of marriage (if you are married) number of children (if you are a parent) and photograph (if you choose to uploaded your picture)To sign in to the Site, you will be asked to enter an e-mail address and password, which we refer to as your Windows Live™ ID or your Microsoft Passport Network credentials. After you create your Windows Live ID, you can use the same credentials to sign into many different Microsoft sites and services, as well as those of select Microsoft partners, that display the Windows Live ID or Microsoft Passport Network logos. By signing in on one Microsoft site or service, you may be automatically signed in when you visit other Microsoft sites and services. To learn more about how your credential information is used when you sign into participating sites, please read the Microsoft Online Privacy Statement at <http://privacy.microsoft.com/>.
+When you use Bing services, Microsoft may collect many kinds of information in order to operate effectively and provide you the best products, services and experiences we can. We collect information when you register, sign in and use our sites and services. We also may get information from other companies. We collect this information in a variety of ways, including from web forms, technologies like cookies, web logging and software on your computer or other device.
 
-We may collect information about your visit, including the pages you view, the links you click and other actions taken in connection with the Site. We also collect certain standard information that your browser sends to every website you visit, such as your IP address, browser type and language, access times and referring Web site addresses. 
+When you conduct a search, Microsoft collects the following: 
 
-##### Use of Your Personal Information
+  * Search term and time and date of your search 
+  * IP address, browser configuration and approximate location 
+  * Any unique identifiers contained in the cookies 
 
-The personal information collected on this Site will be used to operate the Site and to provide the service(s) or carry out the transaction(s) you have requested or authorized. 
 
-In support of these uses, Microsoft may use personal information to provide you with more effective customer service, to improve the Site and any related Microsoft products or services, and to make the Site easier to use by eliminating the need for you to repeatedly enter the same information or by customizing the Site to your particular preference or interests. 
 
-We may use your personal information to provide you with important information about the product or service that you are using, including critical updates and notifications. Additionally, with your permission, we may send you information about other Microsoft products and services, and/or share information with Microsoft partners so they may send you information about their products and services.
+We store search terms (and the cookie IDs associated with search terms) separately from any account information that directly identifies the user, such as name, e-mail address, or phone numbers. We have technological safeguards in place designed to prevent the unauthorized correlation of this data and we remove the entirety of the IP address after 6 months, cookies and other cross session identifiers, after 18 months.
 
-Microsoft occasionally hires other companies to provide limited services on our behalf, such as Web site hosting, packaging, mailing and delivering prizes, answering customer questions about products and services, and sending information about our products, special offers, and other new services. We will only provide those companies the personal information they need to deliver the service. They are required to maintain the confidentiality of the information and are prohibited from using that information for any other purpose. 
+Bing provides search services to select partners and its users. Some examples include Yahoo! and Nokia. In order to provide these services, Bing services receive certain search related information from these partners that may include date, time, IP address, a unique identifier and other search related data.
 
-Microsoft may disclose personal information if required to do so by law or in the good faith belief that such action is necessary to (a) conform to the edicts of the law or comply with legal process served on Microsoft or the Site; (b) protect and defend the rights or property of Microsoft and our family of Web sites; or (c) act in urgent circumstances to protect the personal safety of users of Microsoft products or members of the public. 
+How We Use Your Personal InformationUsing Your Information
 
-Personal information collected on the Site may be stored and processed in the United States or any other country in which Microsoft or its affiliates, subsidiaries or agents maintain facilities, and by using the Site, you consent to any such transfer of information outside of your country. Microsoft abides by the safe harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of data from the European Union. 
+Microsoft uses the information we collect to operate, improve and personalize the products and services we offer. We also may use the information to communicate with you, for example, informing you about your account and security updates.
 
-##### Control of Your Personal Information
+For Bing services, we use this information to provide you with relevant search results. We also use the information we collect to maintain and improve the quality, security and integrity of our services. For example we may use this information for research purposes and to improve the relevancy of Bing search results. This information is also necessary in order to detect and protect against security threats such as botnet attacks, click fraud, worms, and other threats. 
 
-Except as otherwise described in this statement, personal information you provide on the Site will not be shared outside of Microsoft and its controlled subsidiaries and affiliates without your permission.
+Finally, as described in the [Display of Advertising](https://web.archive.org/web/20131108105415id_/http://www.microsoft.com/privacystatement/en-us/bing/default.aspx?ComponentId=pspBingAdvertisingModule&View=Summary) section of this document, we may use search query data for the purpose of personalizing the ads we display to you as you use our services or those of our advertising partners.
 
-Please be aware that this privacy statement and any choices you make on the Site will not necessarily apply to personal information you may have provided to Microsoft in the context of other, separately operated, Microsoft products or services. 
+Reasons We Share Your Personal InformationSharing Your Information
 
-##### Communication Preferences
+Except as described in this privacy statement, we won’t disclose your personal information to a third party without your consent.
 
-You can stop the delivery of future promotional e-mail from the site by following the specific instructions in the e-mail you receive.
+We may share some anonymized search query data with selected third parties for research purposes.
 
-You also have the option of proactively making choices about the receipt of promotional e-mail, telephone calls, and postal mail from the site by signing into the site and accessing the manage profile link. The profile page allows you to choose whether you wish to receive marketing communications from Windowsandme.com, and to subscribe or unsubscribe to our newsletters. 
+When you click on a link from a Bing search results page, the destination website will receive the standard information your browser sends to every web site you visit, including the URL of the site you came from.  Because the URL of the Bing search results page contains the text of the search query you entered, the destination website will be able to determine the search term you entered.
 
-These choices do not apply to the display of online advertising. Nor do they apply to the receipt of mandatory service communications that are considered part of certain Microsoft services, which you may receive periodically unless you cancel the service.
+If your browser is enabled to allow pages to pre-load in the background for faster performance, Bing may use this functionality and your browser may preload page(s) in the background for faster results.  When your browser loads a page in the background, it will have the same effect as if you visited that page, including sending the Bing results page URL (which may contain your search query) and downloading any cookie files that page may set.  You can delete cookies using your browser settings.  Click [here](http://go.microsoft.com/fwlink/?LinkID=280122) for more information on how to delete cookies and to control pre-loading pages in Internet Explorer 11. 
 
-##### Access to Your Personal Information
+Please see [Other Important Privacy Information](https://web.archive.org/web/20131108105415id_/http://www.microsoft.com/privacystatement/en-us/bing/default.aspx?Componentid=pspBingOtherInformationModule&View=Summary) for additional details about when we may disclose information, including with Microsoft affiliates and vendors; when required by law or to respond to legal process; to combat fraud or protect our interest; or to protect lives.
 
-You can review and edit the personal information you provided at this Site by signing in to the site with your credentials (e-mail address and password) and clicking on manage profile. 
+Accessing Your Personal Information and Search HistoryAccessing Your Information
 
-You can alternatively update your profile information, change your password, view the unique ID associated with your credentials, or close certain accounts by visiting Windows Live [Account Services](https://accountservices.msn.com/). 
+When using a web browser, you can access and manage your information, including Search History, on Bing through the preferences page. In Bing search, using the search terms you enter and the results you click, Search History provides an easy way to revisit the sites and searches you've used before. You may clear your search history from appearing on the site by following the steps provided in [see your search history](http://onlinehelp.microsoft.com/en-us/bing/ff808483.aspx "see your search history") (scroll down to "Clear search history"). Clearing your history removes it from the Search History service and prevents that history from being displayed on the site, but does not delete information from our standard search logs, which are retained and anonymized as described above. 
 
-##### Security of Your Personal Information
+Bing Mobile, Maps and Location ServicesMobile and Location Services
 
-Microsoft is committed to protecting the security of your personal information. We use a variety of security technologies and procedures to help protect your personal information from unauthorized access, use, or disclosure. For example, we store the personal information you provide on computer servers with limited access that are located in controlled facilities. Additionally, when we transmit sensitive personal information (such as a credit card number) over the Internet, we protect it through the use of encryption, such as the Secure Socket Layer (SSL) protocol. 
+If you have agreed to allow access to your location, we collect the following information to improve your search and mapping results, provide you deals for local businesses, and operate and improve our services: 
 
-##### Use of Cookies 
+ test
 
-We use cookies on this Site to ensure the integrity of the registration process and to personalize the Site. A cookie is a small text file that is placed on your hard disk by a Web page server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a Web server in the domain that issued the cookie to you. 
+  *  **Bing Search services and Bing Mobile applications:** The approximate location of your device will be sent to Microsoft along with search terms, time and date of your search and a unique identifier generated by the application. Refer to the documentation that came with your device for information about how to turn off location for an application.
+  *  **"Check In” and “Reminders”:** When you sign into these services, Microsoft stores the approximate location of your device along with your Microsoft account. To disable access to your device’s location by these services, go to the settings menu of the Bing Search application and turn location to “Off.” If you are using a browser to access Bing Search services, refer to the browser documentation to disable sharing your location for sites visited on that browser.
+  *  **Mapping features:** Features on Microsoft's sites and services are based in part on the Bing Maps service. When you submit information, such as an address to be viewed on a map, to the application, that application passes it to Bing Maps for processing.
 
-One of the primary purposes of cookies is to provide a convenience feature to save you time. For example, if you personalize a web page, or navigate within a site, a cookie helps the site to recall your specific information on subsequent visits. This simplifies the process of delivering relevant content, eases site navigation, and so on. When you return to the web site, the information you previously provided can be retrieved, so you can easily use the site's features that you customized. 
 
-You have the ability to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually [modify your browser setting](http://www.microsoft.com/info/cookies.htm) to decline cookies if you prefer. If you choose to decline cookies, you may not be able to use interactive features of this or other web sites that depend on cookies. 
 
-##### Use of Web Beacons
+Facebook PersonalizationFacebook Personalization
 
-Microsoft Web pages may contain electronic images known as Web beacons - sometimes called single-pixel gifs - that may be used to assist in delivering cookies on our sites and allow us to count users who have visited those pages and to deliver co-branded services. We may include Web beacons in promotional e-mail messages or our newsletters in order to determine whether messages have been opened and acted upon.
+Bing uses Facebook Instant Personalization to provide a more relevant and useful search experience for Facebook users using your public information from Facebook. Facebook Instant Personalization is a program in which websites can check to see if you are actively logged into Facebook, and provide you with an enhanced experience that takes your Facebook social network into account, as permitted by your Facebook privacy settings. You can turn off these Instant Personalization features at any time by going to <http://www.facebook.com/help/?faq=204873389548151>.
 
-Microsoft may also employ Web beacons from third parties in order to help us compile aggregated statistics and determine the effectiveness of our promotional campaigns. We prohibit Web beacons on our sites from being used by third parties to collect or access your personal information. 
+ In addition, Bing search and Microsoft apps that use Bing services (also known as “Bing apps”) described in the [Bing Apps](https://web.archive.org/web/20131108105415id_/http://www.microsoft.com/privacystatement/en-us/bing/default.aspx?componentid=pspBingBarModule&View=description) section of this statement may also have features available that permit you to connect to Facebook to further personalize your experience on Bing search and to personalize your experience in Bing apps.  You can turn off these additional personalization features by going to <https://www.facebook.com/settings?tab=applications> and removing the Bing app.
 
-##### Changes to this Privacy Statement
+Bing ApplicationsBing Applications
 
-We may occasionally update this privacy statement. When we do, we will also revise the "last updated" date at the top of the privacy statement. For material changes to this privacy statement, we will notify you either by placing a prominent notice on the home page of our web site or by directly sending you a notification. We encourage you to periodically review this privacy statement to stay informed about how we are helping to protect the personal information we collect. Your continued use of the service constitutes your agreement to this privacy statement and any updates. 
+Microsoft apps that use Bing services (also known as “Bing apps”) provide you with enhanced features and convenient ways to access information such as weather forecasts, traffic reports or internet search results  (not all Microsoft applications or Bing features are available in every country).  Bing apps are available on a variety of platforms and services including apps preinstalled with Windows, apps created for the iOS, apps in the Microsoft Store, and as browser plug-ins and toolbars. 
 
-##### Contact Information
+When you install and use Bing apps, information about your computer and how you use the app, such as type and version of operating system, browser information and buttons you click, is collected and used by Microsoft in order to operate the Bing services and to help improve Bing and other Microsoft products and services. 
 
-Microsoft welcomes your comments regarding this privacy statement. If you have questions about this statement or believe that we have not adhered to it, please contact us by clicking here [indprv@microsoft.com](mailto:indprv@microsoft.com)
+If you are using Bing Desktop or Bing Toolbar and choose to participate in the Bing Experience Improvement Program, we also collect additional information about how you use these specific Bing apps, including information about your searches within these apps. Additionally, when opted into the Bing Experience program on Bing Toolbar, we collect information about the addresses of the websites you visit.  
 
-Microsoft   
-9th Floor, Tower A,  
-DLF Cyber Greens,   
-Sector 25A, Phase III,   
-Gurgaon 122 002 
+Lastly, some Bing apps provide the option to configure the application to use additional information from other Microsoft products and services, or from third parties.
 
-Microsoft Corporation  
-One Microsoft Way  
-Redmond, WA 98052-6399
+ChildrenChildren
+
+When a Microsoft site or service collects age information, it will block users under 13 or obtain consent from a parent or guardian before their child can use it. 
+
+When consent is granted, the child’s account is treated much like any other account, including being able to communicate with other users. Parents can change or revoke consent as described in this privacy statement.
+
+Display of AdvertisingAdvertising
+
+Most of the online advertisements on Microsoft sites and services are displayed by Microsoft Advertising.  When we display online advertisements to you, we will place one or more cookies in order to recognize your computer when we display an ad to you.  Over time, we may gather information from the sites where we serve ads and use the information to help provide more relevant ads.
+
+ **You may opt out of receiving targeted ads from Microsoft Advertising by visiting our   [Your privacy and Microsoft personalized ads](http://go.microsoft.com/fwlink/?LinkID=286759)**. For more information about how Microsoft Advertising collects and uses information, please see the [Microsoft Advertising Privacy Statement. ](http://go.microsoft.com/fwlink/?LinkID=248689)
+
+Communication PreferencesCommunications
+
+You can stop the delivery of future promotional email from Microsoft sites and services by following the specific instructions in the email you receive.  You also have the option of proactively making choices about the receipt of promotional email, telephone calls and postal mail from Microsoft by visiting and signing in to the [Promotional Communications Manager](http://go.microsoft.com/fwlink/?LinkId=243191 "Promotional Communications Manager").
+
+Microsoft AccountMicrosoft Account
+
+Microsoft account (formerly known as Windows Live ID and Microsoft Passport) is a service that allows you to sign into Microsoft products, web sites and services, as well as those of select Microsoft partners.When you create a Microsoft account, we ask you to provide certain information. When you sign into a site or service using your Microsoft account, we collect certain information in order to verify your identity on behalf of the site or service, to protect you from malicious account usage, and to protect the efficiency and security of the Microsoft account service. We also send certain information to a site or service you have signed into with your Microsoft account. 
+
+To view additional details about Microsoft account, including how to create and use a Microsoft account, how to edit account information, and how we collect and use information relating to a Microsoft account, please click on Learn More. 
+
+Other Important Privacy InformationOther Information
+
+Learn more about
+
+  * Non-Microsoft services that use Bing search
+  * Why and with whom we share or disclose personal information
+  * Protecting the security of personal information
+  * Where we store and process information
+  * Changes to our privacy statements
+  * How to contact us
+
+
