@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dottech.org privacy policy that was archived on 2013-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130517071045id_/http%3A//dottech.org/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dottech.org privacy policy that was archived on 2013-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131104053351id_/http%3A//dottech.org/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement | Reviews, news, tips, and tricks | dotTech
 
@@ -18,4 +18,4 @@ What Google does is out of my control. Sue them if you don’t like it.
 
 By using dotTech.org we assume you accept everything mentioned here. If you don’t, leave now. We hate to see you go. =(
 
-_P.S. Please don’t sue us. We don’t have an army of lawyers nor can we afford any._
+ _P.S. Please don’t sue us. We don’t have an army of lawyers nor can we afford any._
