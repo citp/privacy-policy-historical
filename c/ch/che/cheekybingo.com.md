@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cheekybingo.com privacy policy that was archived on 2013-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130508103143id_/http%3A//www.cheekybingo.com/skin/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cheekybingo.com privacy policy that was archived on 2013-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131105001933id_/http%3A//www.cheekybingo.com/skin/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - CheekyBingo.com
 
@@ -98,5 +98,3 @@ Your PII will not be stored for any longer period than is necessary for the purp
 This Privacy Policy is subject to change, so please check it regularly. We reserve the right to amend or modify this Privacy Policy at any time and in response to changes in applicable data protection and privacy legislation. In the event the Purposes change, we will notify you as soon as possible and, where required, seek your consent where such notification relates to a new additional purpose for processing.
 
 If you have any enquiry about this Privacy Policy please contact our Customer Services Team.
-
-[ Last amended: 6th August 2009 ]
