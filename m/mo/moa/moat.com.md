@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moat.com privacy policy that was archived on 2013-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130610234959id_/http%3A//www.moat.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moat.com privacy policy that was archived on 2013-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131104055526id_/http%3A//www.moat.com/pages/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Moat
 
@@ -11,6 +11,7 @@ Among other services, Moat provides analytics that allow its clients to better u
   1. **Automatic Collection:** Like most web businesses, we use automated mechanisms (eg, cookies and/or pixels) to keep track of user interactions with our Services. We collect information such as your internet protocol address, browser type and access times. We also use third party services such as Google Analytics to gather and analyze user information.
   2. **Volunteered:** If you open an account with us, purchase products or services, send us an email, or share personal information with us in any other way, we collect this information. This obviously depends on what information you choose to provide but it may include your name, email address or billing information. You do not have to share this information with us, but without it you may not be able to access certain content, features or Services.
   3. **Posted:** If you post information on any public areas of our websites (or elsewhere on the Internet) that information may be collected and used by anyone, including Moat. (We strongly recommend that you do not post any information that allows strangers to identify or locate you. Posting such information may result in unsolicited and unwanted contact from others, to say the least.)
+  4. **Social Networking Information:** You can log in to certain areas of our site by using your Linked In profile. By doing this, we will authenticate your identity and provide you the option to share certain personal information with us such as your name and email address to pre-populate your information when you login.
 
 
 
