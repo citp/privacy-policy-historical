@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the physionet.org privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601165927id_/http%3A//physionet.org/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the physionet.org privacy policy that was archived on 2013-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131105002758id_/http%3A//www.physionet.org/privacy.shtml) for the most accurate reproduction.*
 
 # PhysioNet Privacy Policy
 
