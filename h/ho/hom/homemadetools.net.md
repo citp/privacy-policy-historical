@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the homemadetools.net privacy policy that was archived on 2013-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130503091138id_/http%3A//www.homemadetools.net/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homemadetools.net privacy policy that was archived on 2013-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131104140347id_/http%3A//www.homemadetools.net/privacy_policy) for the most accurate reproduction.*
 
 # HomemadeTools.net: Privacy Policy
 
