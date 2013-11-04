@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the chesscentral.com privacy policy that was archived on 2013-05-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130504004356id_/http%3A//www.chesscentral.com/ChessCentral_s_Privacy_Policy_s/148.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the chesscentral.com privacy policy that was archived on 2013-11-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131104222556id_/http%3A//www.chesscentral.com/ChessCentral_s_Privacy_Policy_s/148.htm) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/a/j/milonic/milonic_src.js"></script>
@@ -39,6 +39,7 @@ var Config_CDN_URL = '/'
 <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
 <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jqueryui/1.8.4/jquery-ui.min.js"></script>
 <link type="text/css" href="//ajax.googleapis.com/ajax/libs/jqueryui/1.8.4/themes/base/jquery-ui.css" rel="stylesheet">
+<link type="text/css" href="/a/c/default.css" rel="stylesheet">
 
 
 <script type="text/javascript">
@@ -54,7 +55,30 @@ var Config_CDN_URL = '/'
     var PageText_843 = "Subtotal";
     var PageText_844 = "items in cart";
 </script>
+<script type="text/javascript" src="/a/j/volusion.js?currentBuild"></script>
+<script type="text/javascript">
+    (function ($) {
+        volusion.ready(function () {
+            if (volusion.cart.isObservingCount()) {
+                var ts = new Date().getTime();
 
+                $.getJSON('/ajaxcart.asp?cachebust=' + ts, function (data) {
+                    var quantityTotal = 0;
+                    $.each(data.Products, function (key, val) {
+                        if (val.IsProduct === 'Y') {
+                            quantityTotal += parseInt(val.Quantity);
+                        } else if (val.IsAccessory === 'Y') {
+                            quantityTotal += parseInt(val.Quantity);
+                        }
+                    });
+                    quantityTotal = quantityTotal || '0';
+                    volusion.cart.itemCount(quantityTotal);
+                });
+
+            }
+        });
+    } (jQuery));
+</script>
 <script type="text/javascript" src="/a/j/javascripts.js?6_5_currentBuild"></script>
 
 <script type="text/javascript">
@@ -75,7 +99,10 @@ ONLY PUT CSS/JAVSCRIPT INCLUDES IN YOUR HEAD TAG
 <!--[if lt IE 9]>
         <link rel="stylesheet" type="text/css" href="/v/vspfiles/templates/chesscentral/css/ie8.css" />
 <![endif]-->
-<!-- <meta id="v65-layout-mode" data-cart="storedot" data-checkout="storedot" />  -->
+
+
+
+<!--<meta id="v65-layout-mode" data-cart="storedot" data-checkout="storedot" />-->
 </head>
 
 <!-- ======================== FILE INFO ========================
@@ -103,7 +130,7 @@ Date: MONTH 2011
 	</div>
 	
 	<div id="worldwide_shipping">
-		<a href="/Chess_Product_Shipping_Information_a/39.htm">Low International Rates &gt;&gt;</a>
+		<a href="/Chess_Product_Shipping_Information_a/39.htm"></a><a title="  Chess Software | Pieces | Sets |  Downloads | Videos DVDs | Boards | Fritz 13 | ChessCentral">Low International Rates &gt;&gt;</a>
 	</div>	
 
 	<a id="deal_of_the_day" href="/dealoftheday.asp">Learn More &gt;&gt;</a>
@@ -113,12 +140,12 @@ Date: MONTH 2011
   	<a href="/shoppingcart.asp">My Cart</a>
 		<a id="display_cart_summary" href="/shoppingcart.asp"></a><div class="cartsummary_full"><a id="display_cart_summary" href="/shoppingcart.asp">(0 Items: $0.00)&nbsp;</a><a href="/ShoppingCart.asp"></a></div>
  <a href="/WishList.asp">My Wish List </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
- <a href="http://www.chesscentral.com/New_Year_Coupon_a/505.htm">10% Off! Coupon Code: DEAL10</a> </div>
+ <a href="http://www.chesscentral.com/New_Year_Coupon_a/505.htm"></a> </div>
     
 	<!-- ======================== SEARCH BOX ======================== -->
 <div id="display_search">
        	<form action="http://www.chesscentral.com/SearchResults.asp" method="get" name="SearchBoxForm">
-            <input type="text" name="Search" id="search_input" value="enter keywords here..." onfocus="if (this.value == 'enter keywords here...') {this.value = '';}" onblur="if (this.value == '') {this.value = 'enter keywords here...';}">
+            <input type="text" name="Search" id="search_input" value=" " "="" onfocus="if (this.value == 'enter keywords here...') {this.value = '';}" onblur="if (this.value == '') {this.value = 'enter keywords here...';}">
 	<input type="submit" name="Submit" id="search_submit" value="Search">
         </form>
     </div>
@@ -161,7 +188,7 @@ Date: MONTH 2011
 	        <!--div id="DropDown_ShopBy_Category" param_category="X" param_defaultvalue="Shop By Category">
 	        <select><option>Shop By </option></select></div-->
 	            
-	        <div id="display_promotions_999"><div align="center"><a class="productnamecolor colors_productname" title="Fritz 13 &amp; Bonus, fritz-13" href="http://www.chesscentral.com/Fritz_13_chess_software_p/fritz-13.htm"><span style="font-size: 10pt;">Fritz 13 &amp; Bonus</span></a><br><a class="productnamecolor colors_productname" title="Magnetic Travel Chess Set, 1965418" href="http://www.chesscentral.com/Magnetic_Wooden_Chess_Set_p/1965418.htm"><span style="font-size: 10pt;">Magnetic Travel Chess Set </span></a><br><a href="http://www.chesscentral.com/All_Things_Chess_p/all-things-chess.htm"><span style="font-size: 10pt;">All Things Chess 10 DVDs</span></a><br><a class="productnamecolor colors_productname" title="Value Chess Set Collection: Travel Tournament Chess Set, 34 Chess Pieces (2 Extra Queens), Chess  Board and Canvas Archer Quiver Tote Bag, CS04c" href="http://www.chesscentral.com/chess_set_p/cs04c.htm"><span style="font-size: 10pt;">Value Chess Set Collection</span></a><br><a href="http://www.chesscentral.com/Roman_s_Lab_Russian_School_of_Chess_p/roman-62-64.htm" class="productnamecolor colors_productname" title="Russian School of Chess"><span style="font-size: 10pt;">Russian School DVDs</span></a><br><a href="http://www.chesscentral.com/Houdini_3_PRO_Chess_Playing_Software_p/houdini-3-pro-cb.htm" class="productnamecolor colors_productname" title="Houdini 3 Pro Chess Software"><span style="font-size: 10pt;">Houdini 3 Pro</span></a><br><a href="http://www.chesscentral.com/ChessBase_12_Starter_Package_p/chessbase-12-starter.htm" class="productnamecolor colors_productname" title="ChessBase 12  Chess Software"><span style="font-size: 10pt;">ChessBase 12 Package</span></a><br><br><br><br></div><br><div align="center"><span style="font-weight: bold; color: rgb(128, 0, 0);"><br>Fritz 13<br> Chess Playing Software<br></span><br></div><div align="center"><a href="http://www.chesscentral.com/Fritz_13_chess_software_p/fritz-13.htm" title="Fritz 13 Chess Playing Software"><img alt="Fritz 13 Chess Playing Software" src="/v/vspfiles/assets/images/fritz13.jpg" border="0px" align=""></a><br></div><br><img alt="Your Trusted Chess Shop" src="/v/vspfiles/assets/images/shop-confidence.jpg" border="0px" align=""><br><center><br><br><center><!-- (c) 2005, 2009. Authorize.Net is a registered trademark of CyberSource Corporation --> <div class="AuthorizeNetSeal"> <script type="text/javascript" language="javascript">var ANS_customer_id="ae87f416-8a9d-40d2-91d9-61432d207689";</script> <script type="text/javascript" language="javascript" src="//verify.authorize.net/anetseal/seal.js"></script> <a href="http://www.authorize.net/" id="AuthorizeNetText" target="_blank">Credit Card Services</a> </div></center><br>
+	        <div id="display_promotions_999"><div align="center"><div align="center"><span style="font-weight: bold; color: rgb(128, 0, 0);"> <a href="http://www.chesscentral.com/Fritz_13_chess_software_p/fritz-13.htm" title="Fritz 13 Chess Software"><span style="font-size: 8pt;">Fritz 13<br> Chess Playing Software<br><br>On Sale Now!</span><br></a></span></div><br></div><div align="center"><a href="http://www.chesscentral.com/Fritz_13_chess_software_p/fritz-13.htm" title="Fritz 13 Chess Playing Software"><img alt="Fritz 13 Chess Playing Software" src="/v/vspfiles/assets/images/fritz13.jpg" align="" border="0px"></a><br></div><div align="center"><span style="font-family: Verdana; font-size: 8pt;"><br><a class="productnamecolor colors_productname" title="Magnetic Travel Chess Set, 1965418" href="http://www.chesscentral.com/Magnetic_Wooden_Chess_Set_p/1965418.htm"><span style="font-size: 8pt; font-family: Verdana;">Magnetic Travel Chess Set <br></span></a><br><a class="productnamecolor colors_productname" title="Value Chess Set Collection: Travel Tournament Chess Set, 34 Chess Pieces (2 Extra Queens), Chess  Board and Canvas Archer Quiver Tote Bag, CS04c" href="http://www.chesscentral.com/chess_set_p/cs04c.htm"><span style="font-size: 8pt; font-family: Verdana;">Value Chess Set Collection<br></span></a><br><a href="http://www.chesscentral.com/Roman_s_Lab_Russian_School_of_Chess_p/roman-62-64.htm" class="productnamecolor colors_productname" title="Russian School of Chess"><span style="font-size: 8pt; font-family: Verdana;">Russian School DVDs<br></span></a><br><a href="http://www.chesscentral.com/Houdini_3_PRO_Chess_Playing_Software_p/houdini-3-pro-cb.htm" class="productnamecolor colors_productname" title="Houdini 3 Pro Chess Software"><span style="font-size: 8pt; font-family: Verdana;">Houdini 3 Pro<br></span></a><br><a href="http://www.chesscentral.com/ChessBase_12_Starter_Package_p/chessbase-12-starter.htm" class="productnamecolor colors_productname" title="ChessBase 12  Chess Software"><span style="font-size: 8pt; font-family: Verdana;">ChessBase 12 Package</span></a></span><br></div><br><img alt="Your Trusted Chess Shop" src="/v/vspfiles/assets/images/shop-confidence.jpg" border="0px" align=""><br><center><br><br><center><!-- (c) 2005, 2009. Authorize.Net is a registered trademark of CyberSource Corporation --> <div class="AuthorizeNetSeal"> <script type="text/javascript" language="javascript">var ANS_customer_id="ae87f416-8a9d-40d2-91d9-61432d207689";</script> <script type="text/javascript" language="javascript" src="//verify.authorize.net/anetseal/seal.js"></script> <a href="http://www.authorize.net/" id="AuthorizeNetText" target="_blank">Credit Card Services</a> </div></center><br>
 
 <a id="bbblink" class="rbvtbul" href="https://www.bbb.org/dallas/business-reviews/computers-hardware-software-and-services/chesscentral-in-charlotte-nc-90005265#bbblogo" title="ChessCentral, Computers Hardware, Software &amp; Services, Charlotte, NC" style="display: block;position: relative;overflow: hidden; width: 80px; height: 130px; margin: 0px; padding: 0px;"><img style="padding: 0px; border: none;" id="bbblinkimg" src="https://seal-dallas.bbb.org/logo/rbvtbul/chesscentral-90005265.png" width="160" height="130" alt="ChessCentral, Computers Hardware, Software &amp; Services, Charlotte, NC"></a><script type="text/javascript">var bbbprotocol = ( ("https:" == document.location.protocol) ? "https://" : "http://" ); document.write(unescape("%3Cscript src='" + bbbprotocol + 'seal-dallas.bbb.org' + unescape('%2Flogo%2Fchesscentral-90005265.js') + "' type='text/javascript'%3E%3C/script%3E"));</script><script src="https://seal-dallas.bbb.org/logo/chesscentral-90005265.js" type="text/javascript"></script><style type="text/css">#volusion_ssl_seal { behavior: url(/a/iepngfix.htc); }</style><br><a href="javascript:void(0);" onclick="window.open('https://www.volusion.com/ssl.asp?url=www.chesscentral.com', 'VolusionSSL', 'top=10,left=10,menubar=0,resizable=0,scrollbars=0,width=467,height=467')"><img id="volusion_ssl_seal" src="/a/i/seal_volusion1.png" border="0" height="113" width="100"></a><br></center></div>
             </div>        
@@ -290,7 +317,7 @@ return true;
 	<div id="footer_top">
 		<ul style="width:178px;">
 			<li><a href="/Chess_Customer_Service_Contact_a/46.htm">Contact Us</a></li>
-			<li><a href="/Chess_Hekp_FAQ_%20Tech%20Supporte_a/468.htm">FAQ</a></li>
+			<li><a href="/Chess_Help_FAQ_Tech_Support_a/468.htm">FAQ</a></li>
 			<li><a href="/Chess_Shipping_Rates_and_Delivery_Times_s/151.htm">Shipping</a></li>
 			<li><a href="/ChessCentral_s_Return_Policy_s/150.htm">Returns</a></li>
 			<li><a href="/Order_by_Mail_Purchase_Order_a/133.htm">Purchase Orders</a></li>
@@ -342,7 +369,7 @@ return true;
 
 <!-- VOLUSION LINK - BEGIN Customer has agreed per Volusion's Terms of Service (http://www.volusion.com/agreement_monthtomonth.asp) to maintain a text hyperlink to "http://www.volusion.com" in the footer of the website. The link must be standard html, contain no javascript, and be approved by Volusion. Removing this link breaches the Volusion agreement. -->   
 
-Powered by <a href="http://www.volusion.com" title="Shopping Cart Software" target="_blank">Volusion</a>.</p>
+Powered with <a href="http://www.volusion.com" target="_blank">Volusion ecommerce software</a>.</p>
 <!-- VOLUSION LINK - END -->
 
 	</div>
