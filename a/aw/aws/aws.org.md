@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aws.org privacy policy that was archived on 2013-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130511065843id_/http%3A//www.aws.org/w/a/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aws.org privacy policy that was archived on 2013-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131104034050id_/http%3A//www.aws.org/w/a/privacypolicy.html) for the most accurate reproduction.*
 
 # AWS -- Privacy Policy
 
@@ -106,5 +106,6 @@ AWS
 8669 Doral Blvd., Suite 130  
 Doral, FL 33166  
 Phone: (305) 443-9353  
+Fax: (305) 443-7559  
 Toll free: (800) 443-9353  
 [info@aws.org](mailto:info@aws.org)
