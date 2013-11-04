@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the gamerguides.com privacy policy that was archived on 2013-05-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130501004033id_/http%3A//www.gamerguides.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the gamerguides.com privacy policy that was archived on 2013-11-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131104011714id_/http%3A//www.gamerguides.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
 
@@ -33,7 +33,7 @@
     
     
 
-    <script src="https://static.woopra.com/js/woopra.js" type="text/javascript" async=""></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1&amp;appId=227981510607408"></script><script src="/js/js.com.js" type="text/javascript"></script>
+    <script src="https://static.woopra.com/js/woopra.js" type="text/javascript" async=""></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="/js/js.com.js" type="text/javascript"></script>
 
     <script src="/js/jquery.bbedit.min.js" type="text/javascript"></script>
 
@@ -54,8 +54,6 @@
     
     <script src="/js/jquery.ui.dialog.js"></script>
     
-   	<script type="text/javascript" src="/js/jquery.tweetable.js"></script>	
-
 	<script type="text/javascript" src="/js/jquery.jrumble.min.js"></script>
     
     <script type="text/javascript" src="/js/fresco.js"></script>
@@ -64,7 +62,7 @@
 	<script type="text/javascript" src="/js/lightview.js"></script>
 	<link rel="stylesheet" type="text/css" href="/css/lightview.css">
 
-    
+    <script type="text/javascript" src="/js/jquery.tweetable.js"></script>
 
 
 	    
@@ -72,42 +70,100 @@
 		
         
 
-    <script>
-	$(document).ready(function()
-	{ 		
-		// Initialize jRumble on Selector
-		$('.v5ipad_bar').jrumble();
-		
-		// Start rumble on element
-		$('.v5ipad_bar').trigger('startRumble');
-		
-		// Stop rumble on element
-		$('.v5ipad_bar').trigger('stopRumble');
-						
-	
-		var demoTimeout;
-		$('.v5ipad_bar').click(function()
-		{
-			$this = $(this);
-			clearTimeout(demoTimeout);
-			$this.trigger('startRumble');
-			demoTimeout = setTimeout(function(){$this.trigger('stopRumble');}, 750);
-		});
-	});
-	</script>
+      
+        
+                
+        
+        
 </head>
 
 
 
 <body><div class="lv_window" style="display: none; top: 239px; left: 538px;"><div class="lv_skin"><div class="lv_shadow"><canvas height="1000" width="1000"></canvas></div><div class="lv_bubble" data-lv-fx-placement="0"><canvas height="1000" width="1000"></canvas></div><div class="lv_side_buttons_underneath" style="display: none;"><div class="lv_side lv_side_left" style="display: none;"><div class="lv_side_button lv_side_button_previous"></div></div><div class="lv_side lv_side_right" style="display: none;"><div class="lv_side_button lv_side_button_next"></div></div></div><div class="lv_spinner_wrapper" style="display: none;"></div></div><div class="lv_content"></div><div class="lv_title_caption" style="display: none;"><div class="lv_title_caption_slide"><div class="lv_title"></div><div class="lv_caption"></div></div></div><div class="lv_inner_previous_next_overlays"><div class="lv_button lv_button_inner_previous_overlay"></div><div class="lv_button lv_button_inner_next_overlay" style="display: none;"></div></div><div class="lv_button_top_close close_lightview" style="display: none;"></div><div class="lv_controls_relative" style="display: none;"><div class="lv_slider"><div class="lv_slider_icon lv_slider_previous"><div class="lv_icon"></div></div><div class="lv_slider_numbers"><div class="lv_slider_slide"></div></div><div class="lv_slider_icon lv_slider_next"><div class="lv_icon"></div></div><div class="lv_slider_icon lv_slider_slideshow"><div class="lv_icon lv_slider_next"></div></div></div></div></div><div class="lv_overlay" style="display: none; background-color: rgb(0, 0, 0);"></div><div class="fr-window fr-window-fresco" style="display: none;"><div class="fr-bubble" style="display: none;"><div class="fr-frames"></div><div class="fr-thumbnails" style="display: none;"><div class="fr-thumbnails-wrapper" style="width: 1367px; margin-left: -683.5px;"><div class="fr-thumbnails-slider"><div class="fr-thumbnails-side fr-thumbnails-side-previous" style="display: none; height: 69px;"><div class="fr-thumbnails-side-button"><div class="fr-thumbnails-side-button-background"></div><div class="fr-thumbnails-side-button-icon"></div></div></div><div class="fr-thumbnails-thumbs" style="width: 1366px;"><div class="fr-thumbnails-slide" style="width: 1px;"></div></div><div class="fr-thumbnails-side fr-thumbnails-side-next" style="display: none; height: 69px;"><div class="fr-thumbnails-side-button"><div class="fr-thumbnails-side-button-background"></div><div class="fr-thumbnails-side-button-icon"></div></div></div></div></div></div></div></div><div class="fr-overlay fr-overlay-fresco" style="display: none;"><div class="fr-overlay-background"></div></div>
 
+<div id="fb-root"></div>
+<script src="http://connect.facebook.net/en_US/all.js"></script>
+<script>
+window.fbAsyncInit = function() 
+{
+        FB.init({ appId: '227981510607408', status: true, cookie: true, xfbml : true });
+}
+function doLogin() 
+{  
+	FB.getLoginStatus(function(response) 
+	{
+		if(response.status == 'connected') 
+		{
+			FB.api('/me', function(response)
+			{
+				var value = response.id;
+				var value2 = response.name;
+				var valueuser = response.username;
+				var value3 = response.email;					
+				
+				var content = $(".change");
+				content.load("/fb/", { i: value, n: value2, u: valueuser, e: value3, p: '1' });
+			});	
+		}
+		else if(response.status == 'not_authorized')
+		{
+			FB.api('/me', function(response)
+			{
+				var value = response.id;
+				var value2 = response.name;
+				var valueuser = response.username;
+				var value3 = response.email;					
+				
+				var content = $(".change");
+				content.load("/fb/", { i: value, n: value2, u: valueuser, e: value3, p: '1' });
+			});	
+				}
+		else
+		{
+			FB.login(function(response)
+			{
+				loginwithfb();
+			}); 
+		}
+	}); 
+}
 
 
+function loginwithfb()
+{
+	FB.api('/me', function(response)
+	{
+		var value = response.id;
+		var value2 = response.name;
+		var valueuser = response.username;
+		var value3 = response.email;					
+		
+		var content = $(".change");
+		content.load("/fb/", { i: value, n: value2, u: valueuser, e: value3, p: '1' });
+	});	
+}
 
 
+/* Loading the JS SDK Asynchronously - Refer: https://developers.facebook.com/docs/reference/javascript/ 
+(function() 
+{
+	var e = document.createElement('script');
+	e.src = document.location.protocol + '//connect.facebook.net/en_US/all.js';
+	e.async = true;
+	document.getElementById('fb-root').appendChild(e);
+}());*/
+</script><div id="overlay" title="">
 
-<div id="overlay" title="privacy">
-
+	        <div id="cookieconsent">
+        
+            <div class="cookieddiv">
+                <h1>Cookie Consent</h1>
+                <p>To give you the best possible experience, this site uses cookies. Continuing to use GamerGuides.com means you agree to our use of cookies. If you'd like to learn more about the cookies we use please visit our <a style="color:#13536D;" href="http://www.gamerguides.com/privacy/">Privacy Policy</a></p>
+                <img src="/images/v6images/confirm.png" width="63" height="34" alt="Confirm" onclick="cookieconfirm();"> 
+            </div>
+        
+        </div>
+	
 	 
 		<script>
 		$(document).ready(function()
@@ -167,93 +223,21 @@
      
      <div id="main"> 
      
-	   	            
-			<div id="fb-root"></div>
-<script src="http://connect.facebook.net/en_US/all.js"></script>
-<script>
-FB.init({ appId: '227981510607408', status: true, cookie: true, xfbml : true });
-
-function doLogin() 
-{  
-	FB.getLoginStatus(function(response) 
-	{
-		if(response.status == 'connected') 
-		{
-			FB.api('/me', function(response)
-			{
-				var value = response.id;
-				var value2 = response.name;
-				var valueuser = response.username;
-				var value3 = response.email;					
-				
-				var content = $(".change");
-				content.load("/fb/", { i: value, n: value2, u: valueuser, e: value3, p: '1' });
-			});	
-		}
-		else if(response.status == 'not_authorized')
-		{
-			FB.api('/me', function(response)
-			{
-				var value = response.id;
-				var value2 = response.name;
-				var valueuser = response.username;
-				var value3 = response.email;					
-				
-				var content = $(".change");
-				content.load("/fb/", { i: value, n: value2, u: valueuser, e: value3, p: '1' });
-			});	
-				}
-		else
-		{
-			FB.login(function(response)
-			{
-				loginwithfb();
-			}); 
-		}
-	}); 
-}
-
-
-function loginwithfb()
-{
-	FB.api('/me', function(response)
-	{
-		var value = response.id;
-		var value2 = response.name;
-		var valueuser = response.username;
-		var value3 = response.email;					
-		
-		var content = $(".change");
-		content.load("/fb/", { i: value, n: value2, u: valueuser, e: value3, p: '1' });
-	});	
-}
-
-
-/* Loading the JS SDK Asynchronously - Refer: https://developers.facebook.com/docs/reference/javascript/ */
-(function() 
-{
-	var e = document.createElement('script');
-	e.src = document.location.protocol + '//connect.facebook.net/en_US/all.js';
-	e.async = true;
-	document.getElementById('fb-root').appendChild(e);
-}());
-</script>    	    
-
         <div id="header"> 
 
-			<div class="v5logo"><a href="/"></a></div>
+	<div class="v5logo"><a href="/"></a></div>
             
                         <div class="v5menu">
             
             	<div class="v5guidestore"><a href="/">Guide Store</a></div>
                  
-                	<div class="v5myguides"><a href="/account/type/login/">My Guides</a></div> 
-				            
+                    <div class="v5myguides"><a href="/account/type/login/">My Guides</a></div> 
+		            
             </div>
 
-            <div class="v5ipad_bar" style="left: 0px; top: 0px; opacity: 1; transform: rotate(0deg);">iPad App</div>
+            <div class="v5ipad_bar"><a href="https://itunes.apple.com/us/app/gamer-guides/id599410871?mt=8" target="_blank">Download for iPad</a></div>
 			
-                			<div class="v5signup"><a href="/account/type/register/">Sign Up</a></div>	            
+                		<div class="v5signup "><a href="/account/type/register/">Sign Up</a></div>	            
                 
                 <div class="v5signin">
                 	Sign In
@@ -261,18 +245,7 @@ function loginwithfb()
                    	<div class="v5signin_form">
                     
                         <form method="post" action="/account/">
-                            <div id="fb-root"></div>
-                            <script>
-                            (function(d, s, id) 
-                            {
-                              var js, fjs = d.getElementsByTagName(s)[0];
-                              if (d.getElementById(id)) return;
-                              js = d.createElement(s); js.id = id;
-                              js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=227981510607408";
-                              fjs.parentNode.insertBefore(js, fjs);
-                            }(document, 'script', 'facebook-jssdk'));
-                            </script>   
-                            <div class="form_label">Sign in</div>
+                                                        <div class="form_label">Sign in</div>
                             <input type="text" name="email" class="input_box_user" id="email" value="">
                             
                             <div class="form_label" style="margin-top:20px;">Password <span>&nbsp;&nbsp;&nbsp;<a href="/account/type/fgt/">Cant access your account?</a></span></div>
@@ -288,12 +261,12 @@ function loginwithfb()
                             
                         </form>                              
                         
-                        <div class="form_break" style="margin:20px auto 10px auto"></div>
+                        <div class="form_break" style="margin:10px auto 5px auto"></div>
                               
                         <div class="change">
-                            <div onclick="doLogin();" style="line-height:25px"><img src="/images/new/home/logfb.png" style="cursor:pointer;" alt="Login with Facebook"></div>
+                            <div onclick="doLogin();" style="line-height:15px"><img src="/images/new/home/logfb.png" style="cursor:pointer;" alt="Login with Facebook"></div>
                             <a href="/regt/"><img src="/images/v5images/twitter.png" width="182" height="32" alt="Login In With Twitter"></a>
-                        </div> 
+                                                    </div> 
                         
                	  </div>
                     
@@ -306,15 +279,13 @@ function loginwithfb()
         
 
 
-        
-            <div id="surround">
-
+                    <div id="surround">
                 
-            <div id="central">    			
-
-            	                        <div id="arrow_point"></div>
-                    				
-					<div id="content"><h1>
+            <div id="central">   
+                      
+		
+                
+                <div id="content"><h1>
 	Privacy Policy</h1>
 <p>
 	This privacy policy sets out how Gamer Guides Ltd uses and protects any information that you give Gamer Guides Ltd when you use this website.</p>
@@ -384,78 +355,808 @@ function loginwithfb()
 	You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please e-mail helpdesk@gamerguides.com</p>
 <p>
 	If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect.</p>
-</div>            </div>   
+</div>        
+				  
+                          
+            </div>   
+       
+        
         </div>
         
     
         
-        <div id="footer">            
+        <div id="v5footer">     
+               
 			
-            <div class="v5left">
-                
-                <div class="v5contact">
-                    <p class="title">Contact us</p>
-                    <p class="telephone">+44 (0)7919535523</p>
-                    <p class="email"><a href="mailto:seb@gamerguides.com">seb@gamerguides.com</a></p>
-                </div>
+                        <div class="v5footer_left">
             
-            	<div class="v5nav1">
-                 	<p class="title">Also on</p>
+            	            	<div class="v5footerlefttop">
+                    <p class="title">Also on</p>
                     <ul>
-                        <li><div class="facebook"><a href="http://www.facebook.com/pages/GamerGuidescom/208647399165093" target="_blank"></a></div></li>
+                        <li><div class="facebook"><a href="https://www.facebook.com/GamerGuides" target="_blank"></a></div></li>
                         <li><div class="twitter"><a href="http://www.twitter.com/GamerGuides" target="_blank"></a></div></li>
                         <li><div class="fkindle"><a href="http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Daps&amp;field-keywords=gamerguides.com" target="_blank"></a></div></li>
                         <li><div class="fapple"><a href="http://itunes.apple.com/us/artist/gamerguides.com/id482893078" target="_blank"></a></div></li>
                     </ul>
-                </div>            
-            
-                <div class="v5nav2">
-               		<p class="title">Boring Stuff</p>                    
-                  	<p>
-                    	© 2013 Gamer Guides Ltd. <img src="/images/new/footer/dot.png" alt=""> Company No.7577548 <img src="/images/new/footer/dot.png" alt=""> VAT No.122 2775 36					</p>
-                    <ul>
-                        <li><a href="/forum/">Forums</a> <img src="/images/new/footer/dot.png" alt=""></li>                         
-                        <li><a href="/about/">About Us</a> <img src="/images/new/footer/dot.png" alt=""></li> 
-                        <li><a href="/sitemap/">Sitemap</a> <img src="/images/new/footer/dot.png" alt=""></li>
-                        <li><a href="/terms/">Terms of Use</a> <img src="/images/new/footer/dot.png" alt=""></li>
-                        <li><a href="/privacy/">Privacy Policy</a> <img src="/images/new/footer/dot.png" alt=""></li>
-                        <li><a target="_blank" href="http://www.colinharris.net"><img src="/images/new/assets/chwd.png" width="13" height="13" alt="Colin Harris Website Development"></a></li>
-                    </ul>
-              	</div>
-              
-			</div>  
-            
-            
-            <div class="v5right">          
+               	</div>
 
-				<div class="v5tweets">
+                            	<div class="v5footerleftbottom">
 	           		<p class="title">Latest Tweets</p>                    
                     <div class="tweet-content">
-                        <div id="tweets"></div>
+                        <div id="tweets">
+                        	                        </div>
                     </div>             
-                    <div class="gototweets"><a href="http://www.twitter.com/GamerGuides" target="_blank">See more</a></div>
-                </div>
-                
-                <div class="v5activity">
-	           		<p class="title">Latest Activity</p>                    
+                    <div class="gototweets"><a href="http://www.twitter.com/GamerGuides" target="_blank">View More</a></div>                
+                </div>            
+            
+            </div> 
+                        
+    
+                        <div class="v5footer_center">
+            
+            	            	<div class="v5footercentertop">
+               		<p class="title">Latest Reviews</p> 
                     
+                    <div id="slideshow">     
+                                        	<div>
+                            <div class="leftreview">                   		
+                                <div class="user">
+                                                                            <div class="inner_image">
+                                            <a href="/shorterchip/"><img src="http://a0.twimg.com/profile_images/1511063491/IMG_2348_normal.jpg" width="42px"></a>
+                                        </div>
+                                                               
+                                </div>
+                                <a href="/fieldrunners-2/"><img width="78px" src="/images/library/57/57_library.png" alt="Fieldrunners 2"></a>
+                            </div>
+                            
+                            <div class="rightreview">
+                                Buy this guide and keep your frustrations away! ...
+                                <p style="margin-top:10px"><a href="/shorterchip/">shorterchip</a><img alt="5 Stars" width="55px" src="/images/v4_checklist/star_5.png" style="margin-left:10px;"></p>
+                            </div>  
+                        </div>    
+                	                    	<div>
+                            <div class="leftreview">                   		
+                                <div class="user">
+                                                                            <a href="/luke.zeiss/"><img src="http://graph.facebook.com/100000051364322/picture?width=200" width="42px"></a>
+                                                               
+                                </div>
+                                <a href="/the-elder-scrolls-v-skyrim/"><img width="78px" src="/images/library/37/37_library.png" alt="The Elder Scrolls V: Skyrim"></a>
+                            </div>
+                            
+                            <div class="rightreview">
+                                 ...
+                                <p style="margin-top:10px"><a href="/lukezeiss/">luke.zeiss</a><img alt="5 Stars" width="55px" src="/images/v4_checklist/star_5.png" style="margin-left:10px;"></p>
+                            </div>  
+                        </div>    
+                	                    	<div>
+                            <div class="leftreview">                   		
+                                <div class="user">
+                                                                            <div class="inner_image">
+                                            <a href="/WickedBR/"><img src="/image/profiles_1/3510-sigmundjpg.jpg_42_42_1.jpg"></a>
+                                        </div>           
+                                                               
+                                </div>
+                                <a href="/tales-of-xillia/"><img width="78px" src="/images/library/73/73_library.png" alt="Tales of Xillia"></a>
+                            </div>
+                            
+                            <div class="rightreview">
+                                Got everything from start to finish with this guide, easy to follow and no major spoilers or anything like that. Thank you and keep up the good work!...
+                                <p style="margin-top:10px"><a href="/wickedbr/">WickedBR</a><img alt="5 Stars" width="55px" src="/images/v4_checklist/star_5.png" style="margin-left:10px;"></p>
+                            </div>  
+                        </div>    
+                	                    	<div>
+                            <div class="leftreview">                   		
+                                <div class="user">
+                                                                            <a href="/sejfo/"><img src="http://graph.facebook.com/742035922/picture?width=200" width="42px"></a>
+                                                               
+                                </div>
+                                <a href="/alan-wake/"><img width="78px" src="/images/library/40/40_library.png" alt="Alan Wake"></a>
+                            </div>
+                            
+                            <div class="rightreview">
+                                Love Alan Wake...
+                                <p style="margin-top:10px"><a href="/sejfo/">sejfo</a><img alt="5 Stars" width="55px" src="/images/v4_checklist/star_5.png" style="margin-left:10px;"></p>
+                            </div>  
+                        </div>    
+                	                    	<div>
+                            <div class="leftreview">                   		
+                                <div class="user">
+                                                                            <a href="/sejfo/"><img src="http://graph.facebook.com/742035922/picture?width=200" width="42px"></a>
+                                                               
+                                </div>
+                                <a href="/transformers-fall-of-cybertron/"><img width="78px" src="/images/library/42/42_library.png" alt="Transformers: Fall of Cybertron"></a>
+                            </div>
+                            
+                            <div class="rightreview">
+                                Love it!...
+                                <p style="margin-top:10px"><a href="/sejfo/">sejfo</a><img alt="5 Stars" width="55px" src="/images/v4_checklist/star_5.png" style="margin-left:10px;"></p>
+                            </div>  
+                        </div>    
+                	                    	<div>
+                            <div class="leftreview">                   		
+                                <div class="user">
+                                                                            <a href="/sejfo/"><img src="http://graph.facebook.com/742035922/picture?width=200" width="42px"></a>
+                                                               
+                                </div>
+                                <a href="/airbuccaneers/"><img width="78px" src="/images/library/51/51_library.png" alt="AirBuccaneers"></a>
+                            </div>
+                            
+                            <div class="rightreview">
+                                Great guide, awsome content!...
+                                <p style="margin-top:10px"><a href="/sejfo/">sejfo</a><img alt="5 Stars" width="55px" src="/images/v4_checklist/star_5.png" style="margin-left:10px;"></p>
+                            </div>  
+                        </div>    
+                	                    	<div>
+                            <div class="leftreview">                   		
+                                <div class="user">
+                                                                            <div class="inner_image">
+                                            <a href="/WickedBR/"><img src="/image/profiles_1/3510-sigmundjpg.jpg_42_42_1.jpg"></a>
+                                        </div>           
+                                                               
+                                </div>
+                                <a href="/tales-of-graces-f/"><img width="78px" src="/images/library/33/33_library.png" alt="Tales of Graces F"></a>
+                            </div>
+                            
+                            <div class="rightreview">
+                                It's a complete guide e terms of finishing the game and doing all the sidequests and such. I didn't had to give 4 stars so i'm changing it. Sorry for the misunderstanding....
+                                <p style="margin-top:10px"><a href="/wickedbr/">WickedBR</a><img alt="5 Stars" width="55px" src="/images/v4_checklist/star_5.png" style="margin-left:10px;"></p>
+                            </div>  
+                        </div>    
+                	                    	<div>
+                            <div class="leftreview">                   		
+                                <div class="user">
+                                                                            <div class="inner_image">
+                                            <a href="/WickedBR/"><img src="/image/profiles_1/3510-sigmundjpg.jpg_42_42_1.jpg"></a>
+                                        </div>           
+                                                               
+                                </div>
+                                <a href="/final-fantasy-xiii-2/"><img width="78px" src="/images/library/32/32_library.png" alt="Final Fantasy XIII-2"></a>
+                            </div>
+                            
+                            <div class="rightreview">
+                                Very easy to follow, have all the sidequests and even boss strategies with anyone needs. Thank you!...
+                                <p style="margin-top:10px"><a href="/wickedbr/">WickedBR</a><img alt="5 Stars" width="55px" src="/images/v4_checklist/star_5.png" style="margin-left:10px;"></p>
+                            </div>  
+                        </div>    
+                	                    	<div>
+                            <div class="leftreview">                   		
+                                <div class="user">
+                                                                            <a href="/sejfo/"><img src="http://graph.facebook.com/742035922/picture?width=200" width="42px"></a>
+                                                               
+                                </div>
+                                <a href="/eador-masters-of-the-broken-world/"><img width="78px" src="/images/library/66/66_library.png" alt="Eador Masters of the Broken World"></a>
+                            </div>
+                            
+                            <div class="rightreview">
+                                So nicely written guide!...
+                                <p style="margin-top:10px"><a href="/sejfo/">sejfo</a><img alt="5 Stars" width="55px" src="/images/v4_checklist/star_5.png" style="margin-left:10px;"></p>
+                            </div>  
+                        </div>    
+                	                    	<div>
+                            <div class="leftreview">                   		
+                                <div class="user">
+                                                                            <div class="inner_image">
+                                            <a href="/Ali3nSt0rm/"><img src="/image/profiles_2/2860-6-.jpg_42_42_1.jpg"></a>
+                                        </div>           
+                                                               
+                                </div>
+                                <a href="/tomb-raider/"><img width="78px" src="/images/library/54/54_library.png" alt="Tomb Raider"></a>
+                            </div>
+                            
+                            <div class="rightreview">
+                                Helped me a lot for getting the platinum in this game...
+                                <p style="margin-top:10px"><a href="/ali3nst0rm/">Ali3nSt0rm</a><img alt="5 Stars" width="55px" src="/images/v4_checklist/star_5.png" style="margin-left:10px;"></p>
+                            </div>  
+                        </div>    
+                	                    	<div>
+                            <div class="leftreview">                   		
+                                <div class="user">
+                                                                            <div class="inner_image">
+                                            <a href="/bleach5589/"><img src="/image/profiles_2/2815-1-.jpg_42_42_1.jpg"></a>
+                                        </div>           
+                                                               
+                                </div>
+                                <a href="/ni-no-kuni-wrath-of-the-white-witch/"><img width="78px" src="/images/library/52/52_library.png" alt="Ni No Kuni Wrath of the White Witch"></a>
+                            </div>
+                            
+                            <div class="rightreview">
+                                good...
+                                <p style="margin-top:10px"><a href="/bleach5589/">bleach5589</a><img alt="5 Stars" width="55px" src="/images/v4_checklist/star_5.png" style="margin-left:10px;"></p>
+                            </div>  
+                        </div>    
+                	                    	<div>
+                            <div class="leftreview">                   		
+                                <div class="user">
+                                                                            <div class="inner_image">
+                                            <a href="/Supermanrose/"><img src="/image/profiles_2/2780-7-.jpg_42_42_1.jpg"></a>
+                                        </div>           
+                                                               
+                                </div>
+                                <a href="/fieldrunners-2/"><img width="78px" src="/images/library/57/57_library.png" alt="Fieldrunners 2"></a>
+                            </div>
+                            
+                            <div class="rightreview">
+                                ...
+                                <p style="margin-top:10px"><a href="/supermanrose/">Supermanrose</a><img alt="5 Stars" width="55px" src="/images/v4_checklist/star_5.png" style="margin-left:10px;"></p>
+                            </div>  
+                        </div>    
+                	                    	<div>
+                            <div class="leftreview">                   		
+                                <div class="user">
+                                                                            <div class="inner_image">
+                                            <a href="/lklick2/"><img src="/image/profiles_2/6621-godwillsitjpg.jpg_42_42_1.jpg"></a>
+                                        </div>           
+                                                               
+                                </div>
+                                <a href="/reus/"><img width="78px" src="/images/library/67/67_library.png" alt="Reus"></a>
+                            </div>
+                            
+                            <div class="rightreview">
+                                I had played Reus already for about 5 hours (up to level 2) but I was finding some things difficult and wanted another perspective on the game.  This Reus guide is very thorough and easy to read, and each page for different achiev...
+                                <p style="margin-top:10px"><a href="/lklick2/">lklick2</a><img alt="5 Stars" width="55px" src="/images/v4_checklist/star_5.png" style="margin-left:10px;"></p>
+                            </div>  
+                        </div>    
+                	                    	<div>
+                            <div class="leftreview">                   		
+                                <div class="user">
+                                                                            <div class="inner_image">
+                                            <a href="//"><img src="/images/assets/ep.jpg" width="42px" height="42px"></a>
+                                        </div>
+                                                               
+                                </div>
+                                <a href="/alan-wake/"><img width="78px" src="/images/library/40/40_library.png" alt="Alan Wake"></a>
+                            </div>
+                            
+                            <div class="rightreview">
+                                Test...
+                                <p style="margin-top:10px"><a href="//"></a><img alt="5 Stars" width="55px" src="/images/v4_checklist/star_5.png" style="margin-left:10px;"></p>
+                            </div>  
+                        </div>    
+                	                    	<div>
+                            <div class="leftreview">                   		
+                                <div class="user">
+                                                                            <div class="inner_image">
+                                            <a href="/sarevok/"><img src="/image/profiles_2/2586-10-.jpg_42_42_1.jpg"></a>
+                                        </div>           
+                                                               
+                                </div>
+                                <a href="/reus/"><img width="78px" src="/images/library/67/67_library.png" alt="Reus"></a>
+                            </div>
+                            
+                            <div class="rightreview">
+                                ...
+                                <p style="margin-top:10px"><a href="/sarevok/">sarevok</a><img alt="5 Stars" width="55px" src="/images/v4_checklist/star_5.png" style="margin-left:10px;"></p>
+                            </div>  
+                        </div>    
+                	                    	<div>
+                            <div class="leftreview">                   		
+                                <div class="user">
+                                                                            <div class="inner_image">
+                                            <a href="/sebhayes/"><img src="/image/profiles_1/9510-431053101506601003797212069693449njpg.jpg_42_42_1.jpg"></a>
+                                        </div>           
+                                                               
+                                </div>
+                                <a href="/the-elder-scrolls-v-skyrim/"><img width="78px" src="/images/library/37/37_library.png" alt="The Elder Scrolls V: Skyrim"></a>
+                            </div>
+                            
+                            <div class="rightreview">
+                                Test...
+                                <p style="margin-top:10px"><a href="/sebhayes/">sebhayes</a><img alt="5 Stars" width="55px" src="/images/v4_checklist/star_5.png" style="margin-left:10px;"></p>
+                            </div>  
+                        </div>    
+                	                    	<div>
+                            <div class="leftreview">                   		
+                                <div class="user">
+                                                                            <div class="inner_image">
+                                            <a href="/just.danne/"><img src="/image/profiles_1/1495-skrmavbild-2013-08-12-kl-175705png.jpg_42_42_1.jpg"></a>
+                                        </div>           
+                                                               
+                                </div>
+                                <a href="/airbuccaneers/"><img width="78px" src="/images/library/51/51_library.png" alt="AirBuccaneers"></a>
+                            </div>
+                            
+                            <div class="rightreview">
+                                Super nice guide...
+                                <p style="margin-top:10px"><a href="/justdanne/">just.danne</a><img alt="5 Stars" width="55px" src="/images/v4_checklist/star_5.png" style="margin-left:10px;"></p>
+                            </div>  
+                        </div>    
+                	                    	<div>
+                            <div class="leftreview">                   		
+                                <div class="user">
+                                                                            <div class="inner_image">
+                                            <a href="/cocotu/"><img src="/image/profiles_3/3510-xillia-2jpg.jpg_42_42_1.jpg"></a>
+                                        </div>           
+                                                               
+                                </div>
+                                <a href="/tales-of-graces-f/"><img width="78px" src="/images/library/33/33_library.png" alt="Tales of Graces F"></a>
+                            </div>
+                            
+                            <div class="rightreview">
+                                Best strategy onlline...
+                                <p style="margin-top:10px"><a href="/cocotu/">cocotu</a><img alt="5 Stars" width="55px" src="/images/v4_checklist/star_5.png" style="margin-left:10px;"></p>
+                            </div>  
+                        </div>    
+                	                    	<div>
+                            <div class="leftreview">                   		
+                                <div class="user">
+                                                                            <div class="inner_image">
+                                            <a href="/cocotu/"><img src="/image/profiles_3/3510-xillia-2jpg.jpg_42_42_1.jpg"></a>
+                                        </div>           
+                                                               
+                                </div>
+                                <a href="/tales-of-graces-f/"><img width="78px" src="/images/library/33/33_library.png" alt="Tales of Graces F"></a>
+                            </div>
+                            
+                            <div class="rightreview">
+                                Best strategy onlline...
+                                <p style="margin-top:10px"><a href="/cocotu/">cocotu</a><img alt="5 Stars" width="55px" src="/images/v4_checklist/star_5.png" style="margin-left:10px;"></p>
+                            </div>  
+                        </div>    
+                	                    	<div>
+                            <div class="leftreview">                   		
+                                <div class="user">
+                                                                            <div class="inner_image">
+                                            <a href="/maomao5509/"><img src="/image/profiles_2/2284-9-.jpg_42_42_1.jpg"></a>
+                                        </div>           
+                                                               
+                                </div>
+                                <a href="/fieldrunners-2/"><img width="78px" src="/images/library/57/57_library.png" alt="Fieldrunners 2"></a>
+                            </div>
+                            
+                            <div class="rightreview">
+                                good guide,very detail~...
+                                <p style="margin-top:10px"><a href="/maomao5509/">maomao5509</a><img alt="4 Stars" width="55px" src="/images/v4_checklist/star_4.png" style="margin-left:10px;"></p>
+                            </div>  
+                        </div>    
+                	                    	<div>
+                            <div class="leftreview">                   		
+                                <div class="user">
+                                                                            <div class="inner_image">
+                                            <a href="/josephbatt/"><img src="/image/profiles_2/2220-5-.jpg_42_42_1.jpg"></a>
+                                        </div>           
+                                                               
+                                </div>
+                                <a href="/resident-evil-6/"><img width="78px" src="/images/library/44/44_library.png" alt="Resident Evil 6"></a>
+                            </div>
+                            
+                            <div class="rightreview">
+                                Tells most of everything you will need to know plus more....
+                                <p style="margin-top:10px"><a href="/josephbatt/">josephbatt</a><img alt="5 Stars" width="55px" src="/images/v4_checklist/star_5.png" style="margin-left:10px;"></p>
+                            </div>  
+                        </div>    
+                	                    	<div>
+                            <div class="leftreview">                   		
+                                <div class="user">
+                                                                            <div class="inner_image">
+                                            <a href="/cpholmes9/"><img src="/image/profiles_2/2151-3-.jpg_42_42_1.jpg"></a>
+                                        </div>           
+                                                               
+                                </div>
+                                <a href="/the-elder-scrolls-v-skyrim/"><img width="78px" src="/images/library/37/37_library.png" alt="The Elder Scrolls V: Skyrim"></a>
+                            </div>
+                            
+                            <div class="rightreview">
+                                ...
+                                <p style="margin-top:10px"><a href="/cpholmes9/">cpholmes9</a><img alt="5 Stars" width="55px" src="/images/v4_checklist/star_5.png" style="margin-left:10px;"></p>
+                            </div>  
+                        </div>    
+                	                    	<div>
+                            <div class="leftreview">                   		
+                                <div class="user">
+                                                                            <div class="inner_image">
+                                            <a href="/WickedBR/"><img src="/image/profiles_1/3510-sigmundjpg.jpg_42_42_1.jpg"></a>
+                                        </div>           
+                                                               
+                                </div>
+                                <a href="/final-fantasy-xiii-2/"><img width="78px" src="/images/library/32/32_library.png" alt="Final Fantasy XIII-2"></a>
+                            </div>
+                            
+                            <div class="rightreview">
+                                It's a great guide, there's some trophies missing and some parts are in the wrong order but were easy to find. Tks for the hard work....
+                                <p style="margin-top:10px"><a href="/wickedbr/">WickedBR</a><img alt="4 Stars" width="55px" src="/images/v4_checklist/star_4.png" style="margin-left:10px;"></p>
+                            </div>  
+                        </div>    
+                	                    	<div>
+                            <div class="leftreview">                   		
+                                <div class="user">
+                                                                            <div class="inner_image">
+                                            <a href="/WickedBR/"><img src="/image/profiles_1/3510-sigmundjpg.jpg_42_42_1.jpg"></a>
+                                        </div>           
+                                                               
+                                </div>
+                                <a href="/tales-of-graces-f/"><img width="78px" src="/images/library/33/33_library.png" alt="Tales of Graces F"></a>
+                            </div>
+                            
+                            <div class="rightreview">
+                                It's not complete like the version in gamefaqs but it's very good and easy to follow. Tks...
+                                <p style="margin-top:10px"><a href="/wickedbr/">WickedBR</a><img alt="4 Stars" width="55px" src="/images/v4_checklist/star_4.png" style="margin-left:10px;"></p>
+                            </div>  
+                        </div>    
+                	                    	<div>
+                            <div class="leftreview">                   		
+                                <div class="user">
+                                                                            <a href="/FranWijaya/"><img src="http://graph.facebook.com/583598706/picture" width="42px"></a>
+                                                               
+                                </div>
+                                <a href="/fieldrunners-2/"><img width="78px" src="/images/library/57/57_library.png" alt="Fieldrunners 2"></a>
+                            </div>
+                            
+                            <div class="rightreview">
+                                ...
+                                <p style="margin-top:10px"><a href="/franwijaya/">FranWijaya</a><img alt="5 Stars" width="55px" src="/images/v4_checklist/star_5.png" style="margin-left:10px;"></p>
+                            </div>  
+                        </div>    
+                	                    	<div>
+                            <div class="leftreview">                   		
+                                <div class="user">
+                                                                            <div class="inner_image">
+                                            <a href="/Eloines/"><img src="/image/profiles_9/2542-laljpg.jpg_42_42_1.jpg"></a>
+                                        </div>           
+                                                               
+                                </div>
+                                <a href="/bioshock-infinite/"><img width="78px" src="/images/library/59/59_library.png" alt="BioShock Infinite"></a>
+                            </div>
+                            
+                            <div class="rightreview">
+                                Helped me find all the HP/Salt/Shield upgrades :D I wanna finish the story first before I try anything else....
+                                <p style="margin-top:10px"><a href="/eloines/">Eloines</a><img alt="5 Stars" width="55px" src="/images/v4_checklist/star_5.png" style="margin-left:10px;"></p>
+                            </div>  
+                        </div>    
+                	                    	<div>
+                            <div class="leftreview">                   		
+                                <div class="user">
+                                                                            <div class="inner_image">
+                                            <a href="/tkamin/"><img src="/images/assets/ep.jpg" width="42px" height="42px"></a>
+                                        </div>
+                                                               
+                                </div>
+                                <a href="/fieldrunners-2/"><img width="78px" src="/images/library/57/57_library.png" alt="Fieldrunners 2"></a>
+                            </div>
+                            
+                            <div class="rightreview">
+                                If you're "acheivement-driven" as I am, and want to collect ALL the card decks, this guide will save you a ton of time. The cost is negligible compared to the value it provides, not to mention the time it will save you....
+                                <p style="margin-top:10px"><a href="/tkamin/">tkamin</a><img alt="5 Stars" width="55px" src="/images/v4_checklist/star_5.png" style="margin-left:10px;"></p>
+                            </div>  
+                        </div>    
+                	                    	<div>
+                            <div class="leftreview">                   		
+                                <div class="user">
+                                                                            <div class="inner_image">
+                                            <a href="/Eloines/"><img src="/image/profiles_9/2542-laljpg.jpg_42_42_1.jpg"></a>
+                                        </div>           
+                                                               
+                                </div>
+                                <a href="/fieldrunners-2/"><img width="78px" src="/images/library/57/57_library.png" alt="Fieldrunners 2"></a>
+                            </div>
+                            
+                            <div class="rightreview">
+                                Mainly bought this guide to support the company and to thank them for letting me test it. But it's actually very useful! Lots of tips that I would've never come up with. I like how you can view them online from wherever you want. ...
+                                <p style="margin-top:10px"><a href="/eloines/">Eloines</a><img alt="5 Stars" width="55px" src="/images/v4_checklist/star_5.png" style="margin-left:10px;"></p>
+                            </div>  
+                        </div>    
+                	                    	<div>
+                            <div class="leftreview">                   		
+                                <div class="user">
+                                                                            <div class="inner_image">
+                                            <a href="/wuleed/"><img src="/images/assets/ep.jpg" width="42px" height="42px"></a>
+                                        </div>
+                                                               
+                                </div>
+                                <a href="/fieldrunners-2/"><img width="78px" src="/images/library/57/57_library.png" alt="Fieldrunners 2"></a>
+                            </div>
+                            
+                            <div class="rightreview">
+                                Good job...
+                                <p style="margin-top:10px"><a href="/wuleed/">wuleed</a><img alt="5 Stars" width="55px" src="/images/v4_checklist/star_5.png" style="margin-left:10px;"></p>
+                            </div>  
+                        </div>    
+                	                    	<div>
+                            <div class="leftreview">                   		
+                                <div class="user">
+                                                                            <div class="inner_image">
+                                            <a href="/Eloines/"><img src="/image/profiles_9/2542-laljpg.jpg_42_42_1.jpg"></a>
+                                        </div>           
+                                                               
+                                </div>
+                                <a href="/fieldrunners-2/"><img width="78px" src="/images/library/57/57_library.png" alt="Fieldrunners 2"></a>
+                            </div>
+                            
+                            <div class="rightreview">
+                                I received a discount code for beta testing FR2. Lovely of you guys to send those out! I'll be enjoying a nice guide once the game officially releases :D...
+                                <p style="margin-top:10px"><a href="/eloines/">Eloines</a><img alt="5 Stars" width="55px" src="/images/v4_checklist/star_5.png" style="margin-left:10px;"></p>
+                            </div>  
+                        </div>    
+                	                    	<div>
+                            <div class="leftreview">                   		
+                                <div class="user">
+                                                                            <div class="inner_image">
+                                            <a href="/MonstaMunch/"><img src="/images/assets/ep.jpg" width="42px" height="42px"></a>
+                                        </div>
+                                                               
+                                </div>
+                                <a href="/fieldrunners-2/"><img width="78px" src="/images/library/57/57_library.png" alt="Fieldrunners 2"></a>
+                            </div>
+                            
+                            <div class="rightreview">
+                                Good guide, very useful if you need help getting the stars, and now also useful for building high scores thanks to the 200+ round endless mode layout they have just added. This was the first guide I've bought from this site, and p...
+                                <p style="margin-top:10px"><a href="/monstamunch/">MonstaMunch</a><img alt="4 Stars" width="55px" src="/images/v4_checklist/star_4.png" style="margin-left:10px;"></p>
+                            </div>  
+                        </div>    
+                	                    	<div>
+                            <div class="leftreview">                   		
+                                <div class="user">
+                                                                            <div class="inner_image">
+                                            <a href="/Bnirva /"><img src="/images/assets/ep.jpg" width="42px" height="42px"></a>
+                                        </div>
+                                                               
+                                </div>
+                                <a href="/fieldrunners-2/"><img width="78px" src="/images/library/57/57_library.png" alt="Fieldrunners 2"></a>
+                            </div>
+                            
+                            <div class="rightreview">
+                                For $2 this guide is amazing (heck even for $10 it would be well worth it!).  No more trawling YouTube or random forum posts for me, I used this guide to "refresh" my memory on the puzzle levels this weekend just gone to get my Da...
+                                <p style="margin-top:10px"><a href="/bnirva-/">Bnirva </a><img alt="5 Stars" width="55px" src="/images/v4_checklist/star_5.png" style="margin-left:10px;"></p>
+                            </div>  
+                        </div>    
+                	                    	<div>
+                            <div class="leftreview">                   		
+                                <div class="user">
+                                                                            <div class="inner_image">
+                                            <a href="/fadedreality/"><img src="/image/profiles_4/5355-buttejpg.jpg_42_42_1.jpg"></a>
+                                        </div>           
+                                                               
+                                </div>
+                                <a href="/fieldrunners-2/"><img width="78px" src="/images/library/57/57_library.png" alt="Fieldrunners 2"></a>
+                            </div>
+                            
+                            <div class="rightreview">
+                                Well written, concise guide with clear step by step instructions on tower placement complete with full videos with even deeper explanations should you need them. Excellent content for an excellent price....
+                                <p style="margin-top:10px"><a href="/fadedreality/">fadedreality</a><img alt="5 Stars" width="55px" src="/images/v4_checklist/star_5.png" style="margin-left:10px;"></p>
+                            </div>  
+                        </div>    
+                	                    	<div>
+                            <div class="leftreview">                   		
+                                <div class="user">
+                                                                            <div class="inner_image">
+                                            <a href="/Olternaut/"><img src="/images/assets/ep.jpg" width="42px" height="42px"></a>
+                                        </div>
+                                                               
+                                </div>
+                                <a href="/fieldrunners-2/"><img width="78px" src="/images/library/57/57_library.png" alt="Fieldrunners 2"></a>
+                            </div>
+                            
+                            <div class="rightreview">
+                                Just got done using the guide to get 3 stars on End of Doom heroic. The instructions in the guide is simple yet comprehensive. The video walkthroughs are a nice unexpected touch. The price of the guide is very reasonable too. Good...
+                                <p style="margin-top:10px"><a href="/olternaut/">Olternaut</a><img alt="5 Stars" width="55px" src="/images/v4_checklist/star_5.png" style="margin-left:10px;"></p>
+                            </div>  
+                        </div>    
+                	                    	<div>
+                            <div class="leftreview">                   		
+                                <div class="user">
+                                                                            <div class="inner_image">
+                                            <a href="/just.danne/"><img src="/image/profiles_1/1495-skrmavbild-2013-08-12-kl-175705png.jpg_42_42_1.jpg"></a>
+                                        </div>           
+                                                               
+                                </div>
+                                <a href="/pokemon-black-white-2/"><img width="78px" src="/images/library/38/38_library.png" alt="Pokemon Black &amp; White 2"></a>
+                            </div>
+                            
+                            <div class="rightreview">
+                                "Great guide, 5 stars!"...
+                                <p style="margin-top:10px"><a href="/justdanne/">just.danne</a><img alt="5 Stars" width="55px" src="/images/v4_checklist/star_5.png" style="margin-left:10px;"></p>
+                            </div>  
+                        </div>    
+                	                    	<div>
+                            <div class="leftreview">                   		
+                                <div class="user">
+                                                                            <div class="inner_image">
+                                            <a href="/Ayreon80/"><img src="/image/profiles_2/2973-586807avajpg.jpg_42_42_1.jpg"></a>
+                                        </div>           
+                                                               
+                                </div>
+                                <a href="/tales-of-graces-f/"><img width="78px" src="/images/library/33/33_library.png" alt="Tales of Graces F"></a>
+                            </div>
+                            
+                            <div class="rightreview">
+                                Perfect for Newcomers to the game. Great Job....
+                                <p style="margin-top:10px"><a href="/ayreon80/">Ayreon80</a><img alt="5 Stars" width="55px" src="/images/v4_checklist/star_5.png" style="margin-left:10px;"></p>
+                            </div>  
+                        </div>    
+                	                    	<div>
+                            <div class="leftreview">                   		
+                                <div class="user">
+                                                                            <div class="inner_image">
+                                            <a href="/Deadman/"><img src="/images/assets/ep.jpg" width="42px" height="42px"></a>
+                                        </div>
+                                                               
+                                </div>
+                                <a href="/airbuccaneers/"><img width="78px" src="/images/library/51/51_library.png" alt="AirBuccaneers"></a>
+                            </div>
+                            
+                            <div class="rightreview">
+                                Tim [Deadmen] here. 
+
+I read the whole guide, and participated a bit in its editing. I'm really satisfied with the quality and depth of this guide, the game examined in all aspects. It has everything you want to become an expert A...
+                                <p style="margin-top:10px"><a href="/deadman/">Deadman</a><img alt="5 Stars" width="55px" src="/images/v4_checklist/star_5.png" style="margin-left:10px;"></p>
+                            </div>  
+                        </div>    
+                	                    	<div>
+                            <div class="leftreview">                   		
+                                <div class="user">
+                                                                            <div class="inner_image">
+                                            <a href="/CraigAndersonEsquire/"><img src="/image/profiles_2/2382-bdo2009-200x200jpg.jpg_42_42_1.jpg"></a>
+                                        </div>           
+                                                               
+                                </div>
+                                <a href="/tales-of-graces-f/"><img width="78px" src="/images/library/33/33_library.png" alt="Tales of Graces F"></a>
+                            </div>
+                            
+                            <div class="rightreview">
+                                Great guide to a great game. Highly recommend!  ...
+                                <p style="margin-top:10px"><a href="/craigandersonesquire/">CraigAndersonEsquire</a><img alt="5 Stars" width="55px" src="/images/v4_checklist/star_5.png" style="margin-left:10px;"></p>
+                            </div>  
+                        </div>    
+                	                    	<div>
+                            <div class="leftreview">                   		
+                                <div class="user">
+                                                                            <a href="/ChadGreen/"><img src="http://graph.facebook.com/1226622825/picture" width="42px"></a>
+                                                               
+                                </div>
+                                <a href="/tales-of-graces-f/"><img width="78px" src="/images/library/33/33_library.png" alt="Tales of Graces F"></a>
+                            </div>
+                            
+                            <div class="rightreview">
+                                Great guide.  It does a really good job of pointing out what needs to be done next without spoiling the plot....
+                                <p style="margin-top:10px"><a href="/chadgreen/">ChadGreen</a><img alt="5 Stars" width="55px" src="/images/v4_checklist/star_5.png" style="margin-left:10px;"></p>
+                            </div>  
+                        </div>    
+                	                    	<div>
+                            <div class="leftreview">                   		
+                                <div class="user">
+                                                                            <div class="inner_image">
+                                            <a href="/beekver/"><img src="/images/assets/ep.jpg" width="42px" height="42px"></a>
+                                        </div>
+                                                               
+                                </div>
+                                <a href="/tales-of-graces-f/"><img width="78px" src="/images/library/33/33_library.png" alt="Tales of Graces F"></a>
+                            </div>
+                            
+                            <div class="rightreview">
+                                Very pleased. Thanks for all the hard work....
+                                <p style="margin-top:10px"><a href="/beekver/">beekver</a><img alt="5 Stars" width="55px" src="/images/v4_checklist/star_5.png" style="margin-left:10px;"></p>
+                            </div>  
+                        </div>    
+                	                    	<div>
+                            <div class="leftreview">                   		
+                                <div class="user">
+                                                                            <div class="inner_image">
+                                            <a href="/Doc Man 1/"><img src="/image/profiles_1/5936-angel-of-deathjpg.jpg_42_42_1.jpg"></a>
+                                        </div>           
+                                                               
+                                </div>
+                                <a href="/dead-space-2/"><img width="78px" src="/images/library/19/19_library.png" alt="Dead Space 2"></a>
+                            </div>
+                            
+                            <div class="rightreview">
+                                Great guide with all the finders ...
+                                <p style="margin-top:10px"><a href="/doc-man-1/">Doc Man 1</a><img alt="5 Stars" width="55px" src="/images/v4_checklist/star_5.png" style="margin-left:10px;"></p>
+                            </div>  
+                        </div>    
+                	                    	<div>
+                            <div class="leftreview">                   		
+                                <div class="user">
+                                                                            <div class="inner_image">
+                                            <a href="/GamerGuides/"><img src="/image/profiles_1/9295-280655352892398342391152481149n-1jpg.jpg_42_42_1.jpg"></a>
+                                        </div>           
+                                                               
+                                </div>
+                                <a href="/deus-ex-human-revolution/"><img width="78px" src="/images/library/28/28_library.png" alt="Deus Ex: Human Revolution"></a>
+                            </div>
+                            
+                            <div class="rightreview">
+                                We would definitely recommend this guide for Deus Ex: Human Revolution.  Comprehensive strategies for overcoming the entire game and achieving 100% trophy/achievement completion! ...
+                                <p style="margin-top:10px"><a href="/gamerguides/">GamerGuides</a><img alt="5 Stars" width="55px" src="/images/v4_checklist/star_5.png" style="margin-left:10px;"></p>
+                            </div>  
+                        </div>    
+                	                    	<div>
+                            <div class="leftreview">                   		
+                                <div class="user">
+                                                                            <div class="inner_image">
+                                            <a href="/GamerGuides/"><img src="/image/profiles_1/9295-280655352892398342391152481149n-1jpg.jpg_42_42_1.jpg"></a>
+                                        </div>           
+                                                               
+                                </div>
+                                <a href="/assassins-creed-revelations/"><img width="78px" src="/images/library/29/29_library.png" alt="Assassins Creed Revelations"></a>
+                            </div>
+                            
+                            <div class="rightreview">
+                                A detailed guide primarily concerned with completing all the memory sequences with 100% synchronisation in Assassin's Creed Revelations....
+                                <p style="margin-top:10px"><a href="/gamerguides/">GamerGuides</a><img alt="4 Stars" width="55px" src="/images/v4_checklist/star_4.png" style="margin-left:10px;"></p>
+                            </div>  
+                        </div>    
+                	                    	<div>
+                            <div class="leftreview">                   		
+                                <div class="user">
+                                                                            <div class="inner_image">
+                                            <a href="/GamerGuides/"><img src="/image/profiles_1/9295-280655352892398342391152481149n-1jpg.jpg_42_42_1.jpg"></a>
+                                        </div>           
+                                                               
+                                </div>
+                                <a href="/final-fantasy-xiii-2/"><img width="78px" src="/images/library/32/32_library.png" alt="Final Fantasy XIII-2"></a>
+                            </div>
+                            
+                            <div class="rightreview">
+                                I think this is one of the best guides we have produced to date! We spent many weeks creating it and believe it to be the best strategy guide for Final Fantasy XIII-2 available online....
+                                <p style="margin-top:10px"><a href="/gamerguides/">GamerGuides</a><img alt="5 Stars" width="55px" src="/images/v4_checklist/star_5.png" style="margin-left:10px;"></p>
+                            </div>  
+                        </div>    
+                	  
+                    </div>           
+                    
+                </div>
+
+                            	<div class="v5footercenterbottom">
+               		<p class="title">Boring Stuff</p>                    
+                    <ul>
+                        <li><a href="/about/">About</a><img src="/images/new/footer/dot.png" alt=""></li> 
+                        <li><a href="/forum/">Forum</a><img src="/images/new/footer/dot.png" alt=""></li> 
+                        <li><a href="/contact/">Contact</a><img src="/images/new/footer/dot.png" alt=""></li> 
+                        <li><a href="/terms/">Terms</a><img src="/images/new/footer/dot.png" alt=""></li>
+                        <li><a href="/privacy/">Privacy Policy</a><img src="/images/new/footer/dot.png" alt=""></li>                       
+                        <li><a href="/sitemap/">Site Map</a></li>
+                    </ul>  
+                    <div class="clear"></div>              
+                  	<p>Gamer Guides Ltd <img src="/images/new/footer/dot.png" alt=""> Company 7577548 <img src="/images/new/footer/dot.png" alt=""> VAT 122 2775 36</p>
+                </div>            
+            
+            </div> 
+               
+            
+            
+                        <div class="v5footer_right">
+            
+            	<div class="v5footerright">
+               		<p class="title">Latest Activity</p>                    
+                
                     <div class="activity_feed">
                         <div class="guide_rating_content">
                             <div class="live_feed">
+                                                                    <div class="feed_box">
+                                        
+                                                                                     		
+                                               
+                                                                            
+                                            
+                                            <div class="image">
+                                                                                                    <div class="inner_image">
+                                                        <a href="/thrgor/"><img src="/images/assets/ep.jpg" width="30px" height="30px"></a>
+                                                    </div>
+                                                                            
+                                                <div style="clear:both;"></div>
+                                            </div>
+                                            
+                                            <div class="info">
+                                                <a href="/thrgor/">thrgor</a>
+                                                purchased the											
+												<a href="/eador-masters-of-the-broken-world/">Eador Masters of the Broken World Strategy Guide</a>
+                                                <br>                                            </div>
+                                            
+                                                                                                        
+                                    </div>
                                                                     <div class="feed_box">
                                         
                                                                                      
                                             
                                             <div class="image">
                                                 <div class="inner_image">
-                                                                                                            <a href="/Godnaught/"><img src="/image/profiles_1/96326-22294-new-bitmap-imagebmp.jpg_30_30_1.jpg"></a>            
+                                                                                                            <a href="/thrgor/"><img src="/images/assets/ep.jpg" width="30px" height="30px"></a>
                                                        
                                                 </div>                         
                                                 <div style="clear:both;"></div>
                                             </div>
                                             
                                             <div class="info">
-                                                <a href="/Godnaught/">Godnaught</a> joined GamerGuides - Welcome! <br>
+                                                <a href="/thrgor/">thrgor</a> joined GamerGuides - Welcome! <br>
                                                                                             </div>
                                                                                                         
                                     </div>
@@ -467,15 +1168,16 @@ function loginwithfb()
                                             
                                             <div class="image">
                                                                                                     <div class="inner_image">
-                                                        <a href="/joshua/"><img src="/image/profiles_1/42316-69556-img0093jpg.jpg_30_30_1.jpg"></a>
-                                                    </div>           
+                                                        <a href="/sure-cure/"><img src="/images/assets/ep.jpg" width="30px" height="30px"></a>
+                                                    </div>
                                                                             
                                                 <div style="clear:both;"></div>
                                             </div>
                                             
                                             <div class="info">
-                                                <a href="/joshua/">joshua</a> purchased the
-                                                <a href="/fieldrunners-2/">Fieldrunners 2 Strategy Guide</a>
+                                                <a href="/sure-cure/">sure-cure</a>
+                                                purchased the											
+												<a href="/fieldrunners-2/">Fieldrunners 2 Strategy Guide</a>
                                                 <br>                                            </div>
                                             
                                                                                                         
@@ -486,42 +1188,59 @@ function loginwithfb()
                                             
                                             <div class="image">
                                                 <div class="inner_image">
-                                                                                                            <a href="/legaci3/"><img src="/image/profiles_1/61970-53511-ahrweiler-town-square1jpg.jpg_30_30_1.jpg"></a>            
+                                                                                                            <a href="/sure-cure/"><img src="/images/assets/ep.jpg" width="30px" height="30px"></a>
                                                        
                                                 </div>                         
                                                 <div style="clear:both;"></div>
                                             </div>
                                             
                                             <div class="info">
-                                                <a href="/legaci3/">legaci3</a> joined GamerGuides - Welcome! <br>
+                                                <a href="/sure-cure/">sure-cure</a> joined GamerGuides - Welcome! <br>
+                                                                                            </div>
+                                                                                                        
+                                    </div>
+                                                                    <div class="feed_box">
+                                        
+                                                                                     
+                                            
+                                            <div class="image">
+                                                <div class="inner_image">
+                                                                                                            <a href="/aturriff/"><img src="/image/profiles_4/77925-73023-af69bdf601fab804efe5002787ca2581038c82c9jpg.jpg_30_30_1.jpg"></a>            
+                                                       
+                                                </div>                         
+                                                <div style="clear:both;"></div>
+                                            </div>
+                                            
+                                            <div class="info">
+                                                <a href="/aturriff/">aturriff</a> joined GamerGuides - Welcome! <br>
                                                                                             </div>
                                                                                                         
                                     </div>
                                                                 
 								                                
-                                <div class="feed_next" onclick="upfeed('3', '3');">Next</div>
+                                <div class="feed_next" onclick="upfeed('5', '5');">Next</div>
                                 
 
                             </div>
                         </div>
-                    </div>        
-            
-            
-                    
-                </div>
+                    </div>                
                 
-			</div>
-    
+                </div>
+           
+            
+            </div> 
+               
+            
         </div>
         
-		<script type="text/javascript">
-        $(function()
-        {
-            $('#tweets').tweetable({username: 'GamerGuides', time: true, limit: 1, replies: true, position: 'append'});
-        });
-        </script>    
-    
         <div id="mask"></div>
+        
+        <script type="text/javascript">
+        $(document).ready(function(){
+            $('#tweets').tweetable({username: 'GamerGuides', time: true, limit: 2, replies: true, position: 'append'});
+        });
+        </script>
+        
         <script type="text/javascript">
         
           var _gaq = _gaq || [];
