@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hopsti.com privacy policy that was archived on 2013-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130503063741id_/http%3A//hopsti.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hopsti.com privacy policy that was archived on 2013-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131104074015id_/http%3A//hopsti.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
