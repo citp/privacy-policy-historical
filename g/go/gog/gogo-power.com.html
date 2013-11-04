@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the gogo-power.com privacy policy that was archived on 2013-05-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130504101135id_/http%3A//www.gogo-power.com/privacy-policy-a/133.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the gogo-power.com privacy policy that was archived on 2013-11-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131104112931id_/http%3A//www.gogo-power.com/privacy-policy-a/133.htm) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml" dir="ltr" lang="en"><head>
 <script type="text/javascript" src="/a/j/milonic/milonic_src.js"></script>
@@ -24,6 +24,7 @@ var Config_CDN_URL = '/'
 <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
 <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jqueryui/1.8.4/jquery-ui.min.js"></script>
 <link type="text/css" href="//ajax.googleapis.com/ajax/libs/jqueryui/1.8.4/themes/base/jquery-ui.css" rel="stylesheet">
+<link type="text/css" href="/a/c/default.css" rel="stylesheet">
 
 
 <script type="text/javascript">
@@ -39,7 +40,30 @@ var Config_CDN_URL = '/'
     var PageText_843 = "Subtotal";
     var PageText_844 = "items in cart";
 </script>
+<script type="text/javascript" src="/a/j/volusion.js?currentBuild"></script>
+<script type="text/javascript">
+    (function ($) {
+        volusion.ready(function () {
+            if (volusion.cart.isObservingCount()) {
+                var ts = new Date().getTime();
 
+                $.getJSON('/ajaxcart.asp?cachebust=' + ts, function (data) {
+                    var quantityTotal = 0;
+                    $.each(data.Products, function (key, val) {
+                        if (val.IsProduct === 'Y') {
+                            quantityTotal += parseInt(val.Quantity);
+                        } else if (val.IsAccessory === 'Y') {
+                            quantityTotal += parseInt(val.Quantity);
+                        }
+                    });
+                    quantityTotal = quantityTotal || '0';
+                    volusion.cart.itemCount(quantityTotal);
+                });
+
+            }
+        });
+    } (jQuery));
+</script>
 <script type="text/javascript" src="/a/j/javascripts.js?6_5_currentBuild"></script>
 
 <script type="text/javascript">
@@ -281,36 +305,50 @@ oUl.style.top=oUl.offsetTop+iSpeed+'px';
         <div class="cate_list_r_title"><strong>Popular Searches</strong></div>
         <div class="cate_list_hotsearch">
           <ul>
-            <li><a href="http://www.gogo-power.com/6-cell-APPLE-A1175-battery-p/la11-1.htm"><strong>A1175</strong></a>, <a href="http://www.gogo-power.com/9-Cell-DELL-Latitude-D820-battery-p/ld39-11.htm">D820 Battery</a>, <a href="http://www.gogo-power.com/7200mAh-9-Cell-Dell-XPS-M1330-Battery-p/le1.htm">XPS M1330 Battery</a>, <a href="http://www.gogo-power.com/9-Cell-Dell-GD761-Battery-Black-p/ld41-9.htm"><strong>GD761</strong></a>, <a href="http://www.gogo-power.com/9-Cell-Dell-latitude-d630-battery-p/ld40-19.htm">D630 Battery</a>, <a href="http://www.gogo-power.com/9-Cell-Acer-UM08A31-battery-p/br9-27.htm">UM08A31</a>, <a href="http://www.gogo-power.com/6-cell-HP-HSTNN-IB17-HSTNN-DB17-battery-p/lh3-11.htm">HSTNN-IB17</a>, <a href="http://www.gogo-power.com/6-cell-presario-v2000-battery-p/lh3-25.htm">Presario v2000 battery</a>, <a href="http://www.gogo-power.com/12-Cell-Compaq-presario-f700-Battery-Black-p/lh7-4.htm"><strong>Compaq presario f700 battery</strong></a>, <a href="http://www.gogo-power.com/9-Cell-Asus-EEee-PC-1101HA-battery-p/lu14-5.htm">Eee PC 1101HA Battery</a>, <a href="http://www.gogo-power.com/9-Cell-AGPtek-Toshiba-Satellite-A205-battery-p/lt33-1.htm">Toshiba Satellite A205 battery</a>, <a href="http://www.gogo-power.com/6-Cell-Sony-VGP-BPS10-battery-p/ls9-1.htm">VGP-BPS10</a>, <a href="http://www.gogo-power.com/Toner-Cartridge-for-HP-CB435A-p/mi5.htm">Toner Cartridge for HP CB435A</a></li>
+            <li><a href="http://www.gogo-power.com/6-cell-APPLE-A1175-battery-p/la11-1.htm"><strong>A1175</strong></a>, <a href="http://www.gogo-power.com/product-p/xh12.htm">320GB HDD for Xbox 360</a>, <a href="http://www.gogo-power.com/7200mAh-9-Cell-Dell-XPS-M1330-Battery-p/le1.htm">XPS M1330 Battery</a>, <a href="http://www.gogo-power.com/product-p/tp718jq.htm"><strong>TP714JQ Tablet</strong></a>, <a href="http://www.gogo-power.com/product-p/pc000004.htm">E-blue Mouse</a>, <a href="http://www.gogo-power.com/9-Cell-Acer-UM08A31-battery-p/br9-27.htm">UM08A31</a>, <a href="http://www.gogo-power.com/6-cell-HP-HSTNN-IB17-HSTNN-DB17-battery-p/lh3-11.htm">HSTNN-IB17</a>, <a href="http://www.gogo-power.com/product-p/lt46.htm">TOSHIBA L750 L760 battery</a>, <a href="http://www.gogo-power.com/12-Cell-Compaq-presario-f700-Battery-Black-p/lh7-4.htm"><strong>Compaq presario f700 battery</strong></a>, <a href="http://www.gogo-power.com/9-Cell-Asus-EEee-PC-1101HA-battery-p/lu14-5.htm">Eee PC 1101HA Battery</a>, <a href="http://www.gogo-power.com/product-p/mt9.htm">BAOFENG BF-888S TWO-WAY Radio</a>, <a href="http://www.gogo-power.com/6-Cell-Sony-VGP-BPS10-battery-p/ls9-1.htm">VGP-BPS10</a>, <a href="http://www.gogo-power.com/category-s/927.htm">USB Keyboard </a></li>
           </ul>
         </div>
         <div class="cate_list">
           <div><img src="/v/vspfiles/templates/100323_gogo/images2/category_bottom.jpg"></div>
-          <div class="cate_list_r_title"><strong>Hot Deals</strong></div>
+          <div class="cate_list_r_title"><strong>Daily Deals</strong></div>
           <div class="cate_list_special">
+		  
+		  <ul>
+              <li> <a href="http://www.gogo-power.com/product-p/mt9.htm" rel="nofollow"> <img src="/v/vspfiles/templates/100323_gogo/hot_and_over_deals/MT9.jpg" width="156" height="85" alt="BAOFENG BF-888S Two-Way Radio UHF FM Transceiver 400-470MHz Walkie Talkie"> </a> </li>
+          </ul>
+
+          <ul>
+              <li> <a href="http://www.gogo-power.com/product-p/gc20.htm" rel="nofollow"> <img src="/v/vspfiles/templates/100323_gogo/hot_and_over_deals/GC20.jpg" width="156" height="85" alt="Tenvis Wireless IP AV Wi-Fi Camera with IR Motion Detction"> </a> </li>
+          </ul>
+		  
             <ul>
-              <li> <a href="http://www.gogo-power.com/Bluetooth-Keyboard-Protective-Case-for-iPad-p/kb9.htm" rel="nofollow"> <img src="/v/vspfiles/templates/100323_gogo/hot_and_over_deals/KB9.jpg" width="156" height="85" alt="Bluetooth Keyboard &amp; Protective Case for iPad"> </a> </li>
-            </ul>
-            <ul>
-              <li> <a href="http://www.gogo-power.com/Keyboard-Aluminum-Case-For-iPad-2-p/kb17.htm" rel="nofollow"> <img src="/v/vspfiles/templates/100323_gogo/hot_and_over_deals/KB17.jpg" width="156" height="85" alt="Bluetooth Wireless Keyboard Aluminum Case For iPad 2"> </a> </li>
-            </ul>
-            <ul>
-              <li> <a href="http://www.gogo-power.com/Keyboard-Case-for-Samsung-Galaxy-Tab-10-1-p/kb20.htm" rel="nofollow"> <img src="/v/vspfiles/templates/100323_gogo/hot_and_over_deals/KB20.jpg" width="156" height="85" alt="Bluetooth Keyboard Case for Samsung Galaxy Tab 10.1"> </a> </li>
-            </ul>
+              <li> <a href="http://www.gogo-power.com/product-p/lh81.htm" rel="nofollow"> <img src="/v/vspfiles/templates/100323_gogo/hot_and_over_deals/LH81.jpg" width="156" height="85" alt="HP EliteBook 8560w 8570w 8760w 8770w Battery"> </a> </li>
+            </ul>		  
+		  
+		  
+
           </div>
         </div>
+		
+		
+		
+		
+
         <div class="cate_list">
           <div><img src="/v/vspfiles/templates/100323_gogo/images2/category_bottom.jpg"></div>
-          <div class="cate_list_r_title"><strong>Over Stock Deals</strong></div>
+          <div class="cate_list_r_title"><strong>New Arrials</strong></div>
           <div class="cate_list_special">
             <ul>
-              <li> <a href="http://www.gogo-power.com/Mobile-Speakers-Mini-Boom-Speaker-for-iPod-p/i60r.htm" rel="nofollow"> <img src="/v/vspfiles/templates/100323_gogo/hot_and_over_deals/i60r.jpg" width="156" height="85" alt="Red NEW USB Mobile Speakers Mini-Boom Speakers For iPod iphone Computer Laptop Motorola Droid"> </a> </li>
+              <li> <a href="http://www.gogo-power.com/product-p/lt46.htm" rel="nofollow"> <img src="/v/vspfiles/templates/100323_gogo/hot_and_over_deals/LT46.jpg" width="156" height="85" alt="TOSHIBA C600D L750 L700 Battery"> </a> 
+			  </li>
             </ul>
+			
+          <ul>
+              <li> <a href="http://www.gogo-power.com/product-p/tp718aq.htm" rel="nofollow"> <img src="/v/vspfiles/templates/100323_gogo/hot_and_over_deals/TP718AQ.jpg" width="156" height="85" alt="AGPtek® TP718AQ 7 inch 8GB Wifi Tablet PC"> </a> </li>
+          </ul>
+		
             <ul>
-              <li> <a href="http://www.gogo-power.com/7200mAh-9-cell-Lenovo-Thinkpad-T61-Battery-p/li49.htm" rel="nofollow"> <img src="/v/vspfiles/templates/100323_gogo/hot_and_over_deals/Li49.jpg" width="156" height="85" alt="AGPtek Battery For IBM Lenovo ThinkPad R61 T61 R61i R61e T400 - 9 Cell 7200mAh"> </a> </li>
-            </ul>
-            <ul>
-              <li> <a href="http://www.gogo-power.com/String-Fairy-Light-Outdoor-Multi-Color-p/so5.htm" rel="nofollow"> <img src="/v/vspfiles/templates/100323_gogo/hot_and_over_deals/SO5.jpg" width="156" height="85" alt="Solar Power 100 LED String Fairy Light Outdoor Multi Color"> </a> </li>
+              <li> <a href="http://www.gogo-power.com/product-p/la17.htm" rel="nofollow"> <img src="/v/vspfiles/templates/100323_gogo/hot_and_over_deals/LA17.jpg" width="156" height="85" alt="Apple MacBook Air 13 inch Battery"> </a> </li>
             </ul>
           </div>
         </div>
@@ -318,6 +356,10 @@ oUl.style.top=oUl.offsetTop+iSpeed+'px';
         <div><img src="/v/vspfiles/templates/100323_gogo/images2/category_bottom.jpg"></div>
       </div>
     </div>
+	
+
+	
+	
     <!-- hengfu
  <div style="float: left; margin: 10px 0px 0px 10px;"><a href="http://www.gogo-power.com/Holiday-Promotion-s/919.htm" rel="nofollow"><img src="http://www.gogo-power.com/v/vspfiles/templates/100323_gogo/images2/warranty.jpg" alt="Free Shipping, 30-Day money back, Full one year warranty on all batteries and other items at gogo-power.com" /></a></div>
 -->
