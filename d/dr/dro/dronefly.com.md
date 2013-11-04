@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dronefly.com privacy policy that was archived on 2013-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130504164624id_/http%3A//www.dronefly.com/terms_privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dronefly.com privacy policy that was archived on 2013-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131104233612id_/http%3A//www.dronefly.com/terms_privacy.asp) for the most accurate reproduction.*
 
-# Terms: Privacy
+# Privacy Policy | DroneFly.com
 
 **Privacy Policy**
 
@@ -65,7 +65,7 @@ This online privacy policy applies only to information collected through our web
 
  **Terms and Conditions**
 
-Please also visit our [Terms and Conditions](https://web.archive.org/web/20130504164624id_/http%3A//www.dronefly.com/terms.asp) section establishing the use, disclaimers, and limitations of liability governing the use of our website.
+Please also visit our [Terms and Conditions](https://web.archive.org/web/20131104233612id_/http%3A//www.dronefly.com/terms.asp) section establishing the use, disclaimers, and limitations of liability governing the use of our website.
 
  **Your consent**
 
