@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the gigapros.com privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530032838id_/http%3A//www.gigapros.com/portal/about-us/terms-and-conditions/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gigapros.com privacy policy that was archived on 2013-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131104215638id_/http%3A//gigapros.com/portal/about-us/terms-and-conditions/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
+
+| 
 
 |   
 ---  
@@ -27,4 +29,6 @@ If you have additional questions, please [**contact us**](http://www.gigapros.co
 | [](http://www.gigapros.com/portal/index.php/web-hosting.html) | Starts at $3.95/mo !  
 Free Site Transfer !  
 **_[LEARN MORE](http://www.gigapros.com/portal/index.php/web-hosting.html)_**  
----|---
+---|---  
+  
+Copyright © 2013 GigaPros.com. All rights reserved.  |[  Links  ](http://www.gigapros.com/portal/links.htm)|[  Privacy  ](http://www.gigapros.com/portal/about-us/terms-and-conditions/privacy-policy)|[  Legal  |  ](http://www.gigapros.com/portal/about-us/terms-and-conditions/terms-of-service)
