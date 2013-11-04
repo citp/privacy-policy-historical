@@ -1,19 +1,21 @@
-> *The following text is extracted and transformed from the wdbj7.com privacy policy that was archived on 2011-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110513060804id_/http%3A//www.wdbj7.com/wdbj7-privacy-policy%2C0%2C2763713.story) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wdbj7.com privacy policy that was archived on 2013-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131104055218id_/http%3A//www.wdbj7.com/Privacy-Policy/-/20128238/20127922/-/w86fx8/-/index.html) for the most accurate reproduction.*
 
-# Privacy Policy - WDBJ7
+# Privacy Policy | Home - Home
 
-We collect information on our Users in various ways, including by your voluntary submissions, through surveys, contests, sweepstakes and other promotions and through “cookie” (as explained below) and other tracking technology. The information we collect is used in a variety of ways including, but not limited to: fulfilling and providing services requested by you; improving the Site and our services; notifying you about updates to the Site and our services; and/or informing about products, services and promotions in which you may have interest.  With your authorization or as otherwise permitted under this Privacy Policy, we may also share the information you provide with third parties.
+Your privacy is very important to us. Accordingly, we have developed this Policy in order for you to understand how we collect, use, communicate and disclose and make use of personal information. The following outlines our privacy policy.
 
-Personally Identifiable Information
+  * Before or at the time of collecting personal information, we will identify the purposes for which information is being collected.
+  * We will collect and use of personal information solely with the objective of fulfilling those purposes specified by us and for other compatible purposes, unless we obtain the consent of the individual concerned or as required by law.
+  * We will only retain personal information as long as necessary for the fulfillment of those purposes.
+  * We will collect personal information by lawful and fair means and, where appropriate, with the knowledge or consent of the individual concerned.
+  * Personal data should be relevant to the purposes for which it is to be used, and, to the extent necessary for those purposes, should be accurate, complete, and up-to-date.
+  * We will protect personal information by reasonable security safeguards against loss or theft, as well as unauthorized access, disclosure, copying, use or modification.
+  * We will make readily available to customers information about our policies and practices relating to the management of personal information.
 
-Personally Identifiable Information refers to information that tells us specifically who you are, such as your name, phone number, e-mail, postal address or credit card information, and possibly information relating to certain support or customer service issues (“Personally Identifiable Information”).  You generally do not need to provide us with Personally Identifiable Information to use this Site or to obtain information from most of the features on the Site.  
 
-In some cases, however, you may be asked to provide Personally Identifiable Information in order to access certain pages of this Site, to use or subscribe to certain online services on this Site or other products or to allow us to provide you with certain personalized or enhanced services that you have requested.  How we collect and store information depends on the page you are visiting, the activities in which you elect to participate and the services provided.  As noted, you can visit many pages on our Site without providing any Personally Identifiable Information.  Other pages may prompt you to provide Personally Identifiable Information.
 
-If you do not want to provide us with any Personally Identifiable Information, you can always decide not to use such services or access such pages on the Site.  The choice is yours.  
+We are committed to conducting our business in accordance with these principles in order to ensure that the confidentiality of personal information is protected and maintained.
 
-Please remember that if you post any Personally Identifiable Information in public areas of the Site, such as on bulletin boards or chat rooms, such information may be collected and used by other Users over whom Company has no control.  Company is not responsible for the use made by third parties of any information you post or otherwise make available in public areas of the Site.
+Advertisement
 
-Aggregate Information
-
-From time to time, we may collect general, non-personal, statistical information about the use of the Site, such as how many visitors visit a specific page on the Site, how long they stay on that page, and which hyperlinks, if any, they click on. This information represents a generic overview of our Users’ collective viewing habits and allows us and other third parties to modify information, promotions, offers and/or discounts on products and services based on user traffic and behavior. We collect this information through the use of technologies such as “cookies”, which are discussed in greater detail in this Privacy Policy. We collect this information in order to determine which areas of the Site are most popular and to enhance the Site for visitors. We may also group this information into aggregate visitor data in order to describe the use of the Site to our existing or potential business partners or other third parties, or in response to a government request. From time to time, we may use this information to optimize third-party offers of products and/or services. We also may share aggregated demographic and preference data with third parties to enable the provision of targeted information, promotions, offers and/or discounts on products and services. However, please be assured that this aggregate data will in no way personally identify you or any other visitors of the Site.
+Advertisement
