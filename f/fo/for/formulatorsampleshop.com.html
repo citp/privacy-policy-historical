@@ -1,10 +1,10 @@
-<!--The following is the downloaded HTML source of the formulatorsampleshop.com privacy policy that was archived on 2013-05-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130518164052id_/http%3A//www.formulatorsampleshop.com/terms_privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the formulatorsampleshop.com privacy policy that was archived on 2013-11-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131104133732id_/http%3A//www.formulatorsampleshop.com/terms_privacy.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <meta name="Description" content="Formulator Sample Shop is a leading supplier of natural, organic, cosmeceutical and manufactured ingredients including Leucidal Liquid Line, Sea Kelp BioFerment, Arborcide, Leucidal Liquid SF, PhytoCide Aspen Bark Extract  ">
-<meta name="Keywords" content="Sea kelp, Bull kelp, Radish root, Leucidal, Leucidal Liquid, rosemary, micro, active micro technologies, Radish Root Ferment Filtrate, Active Concepts, Iris, iris extract, pumpkin seedcake, actives, extracts, oils, organics, preservatives, lewcidal, silderms, proteins, soy bean, Mikrocount Combi, elderberry, leucidal PT, leucidal SF, synercide, green tea, white tea, roobios tea, sea kelp bioferment, algae extract, cosmetics, cosmetic making, DIY Cosmetics, DIY, Maggie Ghanem, Formulator Sample Shop, EGF, Epi Growth Factor, Growth, Liposome, EGF Liposome, Copper Powder, Powders, Powder, Cocoa, smoothing, active micro, preservatives, micrbial, anti-microbial, international shipping, formulator sample shop europe, bulk sizes, wholesale prices, products, actives, leucidal, packaging, ginseng, making cosmetics, make your mark, ">
+<meta name="Keywords" content="Sea kelp, Bull kelp, Radish root, Leucidal, Leucidal Liquid, rosemary, micro, active micro technologies, Radish Root Ferment Filtrate, Active Concepts, Iris, iris extract, pumpkin seedcake, actives, extracts, oils, organics, preservatives, lewcidal, silderms, proteins, soy bean, Mikrocount Combi, elderberry, leucidal PT, leucidal SF, synercide, green tea, white tea, roobios tea, sea kelp bioferment, algae extract, cosmetics, cosmetic making, DIY Cosmetics, DIY, Maggie Ghanem, Formulator Sample Shop, EGF, Epi Growth Factor, Growth, Liposome, EGF Liposome, Copper Powder, Powders, Powder, Cocoa, smoothing, active micro, preservatives, micrbial, anti-microbial, international shipping, formulator sample shop europe, bulk sizes, wholesale prices, products, actives, leucidal, packaging, ginseng, making cosmetics, make your mark, Sea Kelp Bioferment is a natural kelp extract that has been derived by fermentation of Sea Kelp using Lactobacillus ,iris bioflavnoids, honey quat, honeyquat, leucidal liquid, active micro ">
 <title>Terms: Privacy</title>
 <meta name="robots" content="index,follow">
 <meta name="GOOGLEBOT" content="INDEX, FOLLOW">
@@ -15,6 +15,7 @@
 <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
 <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jqueryui/1.8.4/jquery-ui.min.js"></script>
 <link type="text/css" href="//ajax.googleapis.com/ajax/libs/jqueryui/1.8.4/themes/base/jquery-ui.css" rel="stylesheet">
+<link type="text/css" href="/a/c/default.css" rel="stylesheet">
 
 
 <script type="text/javascript">
@@ -30,7 +31,30 @@
     var PageText_843 = "Subtotal";
     var PageText_844 = "items in cart";
 </script>
+<script type="text/javascript" src="/a/j/volusion.js?currentBuild"></script>
+<script type="text/javascript">
+    (function ($) {
+        volusion.ready(function () {
+            if (volusion.cart.isObservingCount()) {
+                var ts = new Date().getTime();
 
+                $.getJSON('/ajaxcart.asp?cachebust=' + ts, function (data) {
+                    var quantityTotal = 0;
+                    $.each(data.Products, function (key, val) {
+                        if (val.IsProduct === 'Y') {
+                            quantityTotal += parseInt(val.Quantity);
+                        } else if (val.IsAccessory === 'Y') {
+                            quantityTotal += parseInt(val.Quantity);
+                        }
+                    });
+                    quantityTotal = quantityTotal || '0';
+                    volusion.cart.itemCount(quantityTotal);
+                });
+
+            }
+        });
+    } (jQuery));
+</script>
 
 
 <script type="text/javascript" src="/a/j/soft_add.js"></script>
