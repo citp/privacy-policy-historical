@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brick7.co.za privacy policy that was archived on 2013-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130604001513id_/http%3A//www.brick7.co.za/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brick7.co.za privacy policy that was archived on 2013-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131104083819id_/http%3A//www.brick7.co.za/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Brick7.co.za
 
@@ -8,7 +8,7 @@ This page summarizes the key highlights from our privacy policy.
 
 We collect information: 
 
-  * When you register an account to become a Brick7 user (“User”), such as your name, e-mail, country, location, occupation and a password.
+  * When you register an account to become a Brick7 user ("User"), such as your name, e-mail, country, location, occupation and a password.
   * When you add to your profile with further information about yourself or your private contacts
   * We use cookies and other technologies to recognize you, customize your experience and serve advertisements.
   * We automatically receive from your internet use such information as your IP address, the URLs of sites from which you arrive or leave the Brick7 website, your type of browser and your ISP.
