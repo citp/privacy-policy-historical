@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ardhindie.com privacy policy that was archived on 2013-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130522140142id_/http%3A//www.ardhindie.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ardhindie.com privacy policy that was archived on 2013-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131104042433id_/http%3A//www.ardhindie.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Watch TV Shows - Movies Online
+# Privacy Policy - Watch Movies - TV Shows Online
 
 Ardhi Indie’s Blog Privacy Statement
 
@@ -54,3 +54,5 @@ When Ardhi Indie’s Blog makes changes to this privacy policy we will post thos
 Contact Information
 
 If you have any questions regarding our privacy policy, please [contact us](http://www.ardhindie.com/contact).
+
+> 
