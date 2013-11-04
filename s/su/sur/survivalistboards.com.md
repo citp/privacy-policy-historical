@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the survivalistboards.com privacy policy that was archived on 2013-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130508133833id_/http%3A//www.survivalistboards.com/showthread.php%3Ft%3D97547) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the survivalistboards.com privacy policy that was archived on 2013-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131104074229id_/http%3A//www.survivalistboards.com/showthread.php%3Ft%3D97547) for the most accurate reproduction.*
 
 # Copyright Information, Disclaimer and Privacy Policy - Survivalist Forum
 
