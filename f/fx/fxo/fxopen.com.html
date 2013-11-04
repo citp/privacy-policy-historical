@@ -1,13 +1,14 @@
-<!--The following is the downloaded HTML source of the fxopen.com privacy policy that was archived on 2013-05-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130502060120id_/http%3A//www.fxopen.com/PrivacyPolicy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the fxopen.com privacy policy that was archived on 2013-11-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131104093855id_/http%3A//www.fxopen.com/PrivacyPolicy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en"><head id="ctl00_ctl00_Head1"><link href="App_Themes/CssDefault/block.css" type="text/css" rel="stylesheet"><link href="App_Themes/CssDefault/button.css" type="text/css" rel="stylesheet"><link href="App_Themes/CssDefault/content.css" type="text/css" rel="stylesheet"><link href="App_Themes/CssDefault/element.css" type="text/css" rel="stylesheet"><link href="App_Themes/CssDefault/global.css" type="text/css" rel="stylesheet"><link href="App_Themes/CssDefault/global_fx.css" type="text/css" rel="stylesheet"><link href="App_Themes/CssDefault/reset.css" type="text/css" rel="stylesheet"><link href="App_Themes/CssDefault/slimbox2.css" type="text/css" rel="stylesheet"><link href="App_Themes/CssDefault/table.css" type="text/css" rel="stylesheet"><link href="App_Themes/CssDefault/template.css" type="text/css" rel="stylesheet"><link href="App_Themes/CssDefault/x_fix.css" type="text/css" rel="stylesheet">
-    
-    <script type="text/javascript" async="" src="https://mc.yandex.ru/metrika/watch.js"></script><script type="text/javascript" src="App_Js/jquery-1.8.1.min.js"></script>
+
+    <script type="text/javascript" async="" src="https://mc.yandex.ru/metrika/watch.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="App_Js/jquery-1.8.1.min.js"></script>
     <script type="text/javascript">
         var $jq = jQuery.noConflict();
     </script>
     <script type="text/javascript" src="App_Js/jquery-1.3.2.min.js"></script>
+    <script type="text/javascript" src="App_Js/jquery.cookie.js"></script>
     <script type="text/javascript" src="App_Js/bookmark.js"></script>
     <script type="text/javascript" src="App_Js/jquery.marquee.js"></script>
     <script type="text/javascript" src="App_Js/jquery.tooltip.js"></script>
@@ -17,7 +18,7 @@
     <script type="text/javascript" src="App_Js/custom-form-elements.js"></script><style type="text/css">input.styled { display: none; } select.styled { position: relative; width: 190px; opacity: 0; filter: alpha(opacity=0); z-index: 5; }</style>
     <script type="text/javascript" src="App_Js/slimbox2.js"></script>
     <script type="text/javascript" src="App_Js/action_pamm.js"></script>
-    <script type="text/javascript" src="App_Js/action_fxopen.js"></script>
+    <script type="text/javascript" src="App_Js/action_broker.js"></script>
     <script type="text/javascript" src="App_Js/jquery.scrollTo-min.js"></script>
     <script type="text/javascript" src="App_Js/jScrollPane.js"></script>
     <script type="text/javascript" src="App_Js/mousewheel.js"></script>
@@ -33,426 +34,538 @@
         $(document).ready(function () {
             $(".inp-search").keyup(function (e) {
                 switch (e.which) {
-                case 13:
-                    var searchButton = $(".search-button");
-                    searchButtonStr = searchButton[0].id;
-                    searchButtonStr = searchButtonStr.stringReplaceAll('_', '$');
-                    window.location.href = "javascript: __doPostBack('" + searchButtonStr + "', '')";
-                    break;
+                    case 13:
+                        var searchButton = $(".search-button");
+                        searchButtonStr = searchButton[0].id;
+                        searchButtonStr = searchButtonStr.stringReplaceAll('_', '$');
+                        window.location.href = "javascript: __doPostBack('" + searchButtonStr + "', '')";
+                        break;
                 }
             });
         });
     </script>
     <link rel="icon" href="ContentImages/favicon3.ico" type="image/ico"><link rel="SHORTCUT ICON" href="ContentImages/favicon3.ico">
 	
-    <title>FXOpen - Privacy Statement</title><meta http-equiv="CACHE-CONTROL" content="NO-CACHE">
-<meta name="description" content="We at Fxopen broker services offer you world class forex and investing services. If you are looking for complete financial services in forex, trading and belajar, you just need to have trust in us. We also offer excellent quality services in free signals, fxopen game as well as mini forex services.">
-<meta name="keywords" content="fxopen, services, forex, trading, investing, belajar, game, signals, free, mini, financial, education, offer, account, broker">
+    <title>Политика конфиденциальности</title><meta http-equiv="CACHE-CONTROL" content="NO-CACHE">
+<meta name="description" content="Компания FXOpen предлагает всем принять участие в торгах на валютном внебанковском рынке Forex (Форекс). С нами вы бесплатно получите доступ к ежедневным новостям, аналитике, сигналам. Также сможете получить квалифицированное обучение.
+Преимущества: стандартные счета от 25$, микро от 1$. Отличная бонусная система. Зарабатывай с нами на рефералах.">
+<meta name="keywords" content="Forex, форекс, internet trading, котировки валют, дилинговый центр, forex signals, mini forex, micro forex, forex news, forex broker, belajar forex, forex investing, forex game, money forex, fx, e gold, education, USD, euro, dollar, investment, fxopen, forexarabian, fx4usa, fxegypt, fxfrench, fxind, fxislamic, fxmalay, fxopenasia, fxorient, philippinesforex, fxoceania, forexbrazilia">
 <meta name="Robots" content="all">
-<meta name="copyright" content="2005-2008 FXOpen.com">
+<meta name="copyright" content="2005-2008 FXOpen">
 <meta name="publisher" content="FXOpen">
 <meta name="author" content="FXOpen">
-<meta name="email" content="manager@FXOpen.com">
-<meta name="revisit-after" content="5 Days">
+<meta name="email" content="manager@FXOpen.ru">
+<meta name="revisit-after" content="3 Days">
 <meta name="robots" content="INDEX,FOLLOW">
 <meta name="distribution" content="Global">
-<meta name="charset" content="ISO-8859-1">
 <meta name="expires" content="never">
 <meta name="rating" content="General">
 
-<script type="text/javascript">
-window.Meebo||function(c){function p(){return["<",i,' onload="var d=',g,";d.getElementsByTagName('head')[0].",
-j,"(d.",h,"('script')).",k,"='//cim.meebo.com/cim?iv=",a.v,"&",q,"=",c[q],c[l]?
-"&"+l+"="+c[l]:"",c[e]?"&"+e+"="+c[e]:"","'\"></",i,">"].join("")}var f=window,
-a=f.Meebo=f.Meebo||function(){(a._=a._||[]).push(arguments)},d=document,i="body",
-m=d[i],r;if(!m){r=arguments.callee;return setTimeout(function(){r(c)},100)}a.$=
-{0:+new Date};a.T=function(u){a.$[u]=new Date-a.$[0]};a.v=5;var j="appendChild",
-h="createElement",k="src",l="lang",q="network",e="domain",n=d[h]("div"),v=n[j](d[h]("m")),
-b=d[h]("iframe"),g="document",o,s=function(){a.T("load");a("load")};f.addEventListener?
-f.addEventListener("load",s,false):f.attachEvent("onload",s);n.style.display="none";
-m.insertBefore(n,m.firstChild).id="meebo";b.frameBorder="0";b.name=b.id="meebo-iframe";
-b.allowTransparency="true";v[j](b);try{b.contentWindow[g].open()}catch(w){c[e]=
-d[e];o="javascript:var d="+g+".open();d.domain='"+d.domain+"';";b[k]=o+"void(0);"}try{var t=
-b.contentWindow[g];t.write(p());t.close()}catch(x){b[k]=o+'d.write("'+p().replace(/"/g,
-'\\"')+'");d.close();'}a.T(1)}({network:"fxopennz_la82li"});
-</script> 
+
     <!--[if lte IE 7]><link rel="stylesheet" type="text/css" href="App_Css/ie.css" /><![endif]-->
     <!--[if lt IE 7]><link rel="stylesheet" type="text/css" href="App_Css/ie6.css" /><![endif]-->
 <title>
 
 </title><style type="text/css" media="screen">#ac4_video_flash_01 {visibility:hidden}</style></head>
-<body><div id="cj-block" class="cj-block"><div class="cj-title"><table cellspacing="0" cellpadding="0" border="0" width="100%"><tbody><tr><td><div class="cj-hdr-left"></div></td><td class="text"><a href="#"><div class="cj-btn-c" title="Close"></div></a></td><td id="cj-title" width="100%" class="text">Mar, 2017</td><td class="text"><a href="#"></a></td><td><div class="cj-hdr-right"></div></td></tr></tbody></table></div><div class="cj-nav"><div class="floatLeft cj-btn-sl2" title="Prev Year"></div><div class="floatLeft cj-btn-sl" title="Prev Month"></div><div class="btn floatLeft">Today</div><div class="floatLeft cj-btn-sr" title="Next Month"></div><div class="floatLeft cj-btn-sr2" title="Next Year"></div></div><table cellspacing="0" cellpadding="0" border="0" class="cj-head"><tbody><tr><td class="tb">wk</td><td class="">Mo</td><td class="">Tu</td><td class="">We</td><td class="">Th</td><td class="">Fr</td><td class="">Sa</td><td class="">Su</td></tr></tbody></table><table cellspacing="0" cellpadding="0" border="0" class="cj-body"><tbody><tr><td id="t-1-7" class="tb">W</td><td id="t-1-1" class="">d</td><td id="t-1-2" class="">d</td><td id="t-1-3" class="">d</td><td id="t-1-4" class="">d</td><td id="t-1-5" class="">d</td><td id="t-1-6" class="">d</td><td id="t-1-0" class="hCell">N</td></tr><tr><td id="t-2-7" class="tb">W</td><td id="t-2-1" class="">d</td><td id="t-2-2" class="">d</td><td id="t-2-3" class="">d</td><td id="t-2-4" class="">d</td><td id="t-2-5" class="">d</td><td id="t-2-6" class="">d</td><td id="t-2-0" class="hCell">N</td></tr><tr><td id="t-3-7" class="tb">W</td><td id="t-3-1" class="">d</td><td id="t-3-2" class="">d</td><td id="t-3-3" class="">d</td><td id="t-3-4" class="">d</td><td id="t-3-5" class="">d</td><td id="t-3-6" class="">d</td><td id="t-3-0" class="hCell">N</td></tr><tr><td id="t-4-7" class="tb">W</td><td id="t-4-1" class="">d</td><td id="t-4-2" class="">d</td><td id="t-4-3" class="">d</td><td id="t-4-4" class="">d</td><td id="t-4-5" class="">d</td><td id="t-4-6" class="">d</td><td id="t-4-0" class="hCell">N</td></tr><tr><td id="t-5-7" class="tb">W</td><td id="t-5-1" class="">d</td><td id="t-5-2" class="">d</td><td id="t-5-3" class="">d</td><td id="t-5-4" class="">d</td><td id="t-5-5" class="">d</td><td id="t-5-6" class="">d</td><td id="t-5-0" class="hCell">N</td></tr><tr><td id="t-6-7" class="tb">W</td><td id="t-6-1" class="">d</td><td id="t-6-2" class="">d</td><td id="t-6-3" class="">d</td><td id="t-6-4" class="">d</td><td id="t-6-5" class="">d</td><td id="t-6-6" class="">d</td><td id="t-6-0" class="hCell">N</td></tr></tbody></table><div class="cj-btm"><table cellspacing="0" cellpadding="0" border="0" width="100%"><tbody><tr><td><div class="cj-btm-left"></div></td><td></td><td class="btmText">Select date</td><td><div class="cj-btm-right"></div></td></tr></tbody></table></div></div><div id="meebo" style="display: none;"><m><iframe frameborder="0" id="meebo-iframe" name="meebo-iframe"></iframe></m></div>
-    <form method="post" action="/PrivacyPolicy.aspx" id="aspnetForm">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJNjE4ODY4NjExDxYCHgtWU1ByZXZlbnRGNWQWAmYPZBYCZg9kFghmD2QWAgILDxUUGkFwcF9Kcy9qcXVlcnktMS44LjEubWluLmpzGkFwcF9Kcy9qcXVlcnktMS4zLjIubWluLmpzEkFwcF9Kcy9ib29rbWFyay5qcxhBcHBfSnMvanF1ZXJ5Lm1hcnF1ZWUuanMYQXBwX0pzL2pxdWVyeS50b29sdGlwLmpzH0FwcF9Kcy9qcXVlcnkuTWFpbk1hc3RlclBhZ2UuanMUQXBwX0pzL2RhdGVQaWNrZXIuanMVQXBwX0pzL3RhYnNDb250cm9sLmpzHkFwcF9Kcy9jdXN0b20tZm9ybS1lbGVtZW50cy5qcxJBcHBfSnMvc2xpbWJveDIuanMVQXBwX0pzL2FjdGlvbl9wYW1tLmpzF0FwcF9Kcy9hY3Rpb25fZnhvcGVuLmpzHUFwcF9Kcy9qcXVlcnkuc2Nyb2xsVG8tbWluLmpzFUFwcF9Kcy9qU2Nyb2xsUGFuZS5qcxRBcHBfSnMvbW91c2V3aGVlbC5qcxpBcHBfSnMvanF1ZXJ5Lm1heGxlbmd0aC5qcw9BcHBfSnMvaU9rbm8uanMPQXBwX0pzL2lUYWJzLmpzGUFwcF9Kcy9mbGFzaC9zd2ZvYmplY3QuanPUATwhLS1baWYgbHRlIElFIDddPjxsaW5rIHJlbD0ic3R5bGVzaGVldCIgdHlwZT0idGV4dC9jc3MiIGhyZWY9IkFwcF9Dc3MvRGVmYXVsdC9pZTdfZml4LmNzcyIgLz48IVtlbmRpZl0tLT4KPCEtLVtpZiBsdCBJRSA3XT48bGluayByZWw9InN0eWxlc2hlZXQiIHR5cGU9InRleHQvY3NzIiBocmVmPSJBcHBfQ3NzL0RlZmF1bHQvaWU2X2ZpeC5jc3MiIC8+PCFbZW5kaWZdLS0+ZAIBD2QWFgICD2QWBAIBDxYCHgRUZXh0BQnguYTguJfguKJkAgMPFgIeC18hSXRlbUNvdW50AhQWKGYPZBYCAgEPDxYEHwEFB0VuZ2xpc2geC05hdmlnYXRlVXJsBR4vUHJpdmFjeVBvbGljeS5hc3B4P0N1bHR1cmU9ZW5kZAIBD2QWAgIBDw8WBB8BBQrXoteR16jXmdeqHwMFHi9Qcml2YWN5UG9saWN5LmFzcHg/Q3VsdHVyZT1oZWRkAgIPZBYCAgEPDxYEHwEFDUJhaGFzYSBNZWxheXUfAwUeL1ByaXZhY3lQb2xpY3kuYXNweD9DdWx0dXJlPW1zZGQCAw9kFgICAQ8PFgQfAQUO0YDRg9GB0YHQutC40LkfAwUeL1ByaXZhY3lQb2xpY3kuYXNweD9DdWx0dXJlPXJ1ZGQCBA9kFgICAQ8PFgQfAQUIVMO8cmvDp2UfAwUeL1ByaXZhY3lQb2xpY3kuYXNweD9DdWx0dXJlPXRyZGQCBQ9kFgICAQ8PFgQfAQUJ5pel5pys6KqeHwMFHi9Qcml2YWN5UG9saWN5LmFzcHg/Q3VsdHVyZT1qYWRkAgYPZBYCAgEPDxYEHwEFDtin2YTYudix2KjZitipHwMFHi9Qcml2YWN5UG9saWN5LmFzcHg/Q3VsdHVyZT1hcmRkAgcPZBYCAgEPDxYEHwEFB0RldXRzY2gfAwUeL1ByaXZhY3lQb2xpY3kuYXNweD9DdWx0dXJlPWRlZGQCCA9kFgICAQ8PFgQfAQUK2YHYp9ix2LPZiR8DBR4vUHJpdmFjeVBvbGljeS5hc3B4P0N1bHR1cmU9ZmFkZAIJD2QWAgIBDw8WBB8BBQpOZWRlcmxhbmRzHwMFHi9Qcml2YWN5UG9saWN5LmFzcHg/Q3VsdHVyZT1ubGRkAgoPZBYCAgEPDxYEHwEFClBvcnR1Z3XDqnMfAwUeL1ByaXZhY3lQb2xpY3kuYXNweD9DdWx0dXJlPXB0ZGQCCw9kFgICAQ8PFgQfAQUJ7ZWc6rWt7Ja0HwMFHi9Qcml2YWN5UG9saWN5LmFzcHg/Q3VsdHVyZT1rb2RkAgwPZBYCAgEPDxYEHwEFBuS4reaWhx8DBR4vUHJpdmFjeVBvbGljeS5hc3B4P0N1bHR1cmU9emhkZAIND2QWAgIBDw8WBB8BBQZwb2xza2kfAwUeL1ByaXZhY3lQb2xpY3kuYXNweD9DdWx0dXJlPXBsZGQCDg9kFgICAQ8PFgQfAQUIaXRhbGlhbm8fAwUeL1ByaXZhY3lQb2xpY3kuYXNweD9DdWx0dXJlPWl0ZGQCDw9kFgICAQ8PFgQfAQUQQmFoYXNhIEluZG9uZXNpYR8DBR4vUHJpdmFjeVBvbGljeS5hc3B4P0N1bHR1cmU9aWRkZAIQD2QWAgIBDw8WBB8BBQnguYTguJfg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">
+<body><div id="cj-block" class="cj-block"><div class="cj-title"><table cellspacing="0" cellpadding="0" border="0" width="100%"><tbody><tr><td><div class="cj-hdr-left"></div></td><td class="text"><a href="#"><div class="cj-btn-c" title="Close"></div></a></td><td id="cj-title" width="100%" class="text">Mar, 2017</td><td class="text"><a href="#"></a></td><td><div class="cj-hdr-right"></div></td></tr></tbody></table></div><div class="cj-nav"><div class="floatLeft cj-btn-sl2" title="Prev Year"></div><div class="floatLeft cj-btn-sl" title="Prev Month"></div><div class="btn floatLeft">Today</div><div class="floatLeft cj-btn-sr" title="Next Month"></div><div class="floatLeft cj-btn-sr2" title="Next Year"></div></div><table cellspacing="0" cellpadding="0" border="0" class="cj-head"><tbody><tr><td class="tb">wk</td><td class="">Mo</td><td class="">Tu</td><td class="">We</td><td class="">Th</td><td class="">Fr</td><td class="">Sa</td><td class="">Su</td></tr></tbody></table><table cellspacing="0" cellpadding="0" border="0" class="cj-body"><tbody><tr><td id="t-1-7" class="tb">W</td><td id="t-1-1" class="">d</td><td id="t-1-2" class="">d</td><td id="t-1-3" class="">d</td><td id="t-1-4" class="">d</td><td id="t-1-5" class="">d</td><td id="t-1-6" class="">d</td><td id="t-1-0" class="hCell">N</td></tr><tr><td id="t-2-7" class="tb">W</td><td id="t-2-1" class="">d</td><td id="t-2-2" class="">d</td><td id="t-2-3" class="">d</td><td id="t-2-4" class="">d</td><td id="t-2-5" class="">d</td><td id="t-2-6" class="">d</td><td id="t-2-0" class="hCell">N</td></tr><tr><td id="t-3-7" class="tb">W</td><td id="t-3-1" class="">d</td><td id="t-3-2" class="">d</td><td id="t-3-3" class="">d</td><td id="t-3-4" class="">d</td><td id="t-3-5" class="">d</td><td id="t-3-6" class="">d</td><td id="t-3-0" class="hCell">N</td></tr><tr><td id="t-4-7" class="tb">W</td><td id="t-4-1" class="">d</td><td id="t-4-2" class="">d</td><td id="t-4-3" class="">d</td><td id="t-4-4" class="">d</td><td id="t-4-5" class="">d</td><td id="t-4-6" class="">d</td><td id="t-4-0" class="hCell">N</td></tr><tr><td id="t-5-7" class="tb">W</td><td id="t-5-1" class="">d</td><td id="t-5-2" class="">d</td><td id="t-5-3" class="">d</td><td id="t-5-4" class="">d</td><td id="t-5-5" class="">d</td><td id="t-5-6" class="">d</td><td id="t-5-0" class="hCell">N</td></tr><tr><td id="t-6-7" class="tb">W</td><td id="t-6-1" class="">d</td><td id="t-6-2" class="">d</td><td id="t-6-3" class="">d</td><td id="t-6-4" class="">d</td><td id="t-6-5" class="">d</td><td id="t-6-6" class="">d</td><td id="t-6-0" class="hCell">N</td></tr></tbody></table><div class="cj-btm"><table cellspacing="0" cellpadding="0" border="0" width="100%"><tbody><tr><td><div class="cj-btm-left"></div></td><td></td><td class="btmText">Select date</td><td><div class="cj-btm-right"></div></td></tr></tbody></table></div></div>
+    <form method="post" action="PrivacyPolicy.aspx" id="aspnetForm">
+<div class="aspNetHidden">
+<input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="">
+<input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJNjE4ODY4NjExDxYCHgtWU1ByZXZlbnRGNWQWAmYPZBYCZg9kFghmD2QWAgILDxUVGkFwcF9Kcy9qcXVlcnktMS44LjEubWluLmpzGkFwcF9Kcy9qcXVlcnktMS4zLjIubWluLmpzF0FwcF9Kcy9qcXVlcnkuY29va2llLmpzEkFwcF9Kcy9ib29rbWFyay5qcxhBcHBfSnMvanF1ZXJ5Lm1hcnF1ZWUuanMYQXBwX0pzL2pxdWVyeS50b29sdGlwLmpzH0FwcF9Kcy9qcXVlcnkuTWFpbk1hc3RlclBhZ2UuanMUQXBwX0pzL2RhdGVQaWNrZXIuanMVQXBwX0pzL3RhYnNDb250cm9sLmpzHkFwcF9Kcy9jdXN0b20tZm9ybS1lbGVtZW50cy5qcxJBcHBfSnMvc2xpbWJveDIuanMVQXBwX0pzL2FjdGlvbl9wYW1tLmpzF0FwcF9Kcy9hY3Rpb25fYnJva2VyLmpzHUFwcF9Kcy9qcXVlcnkuc2Nyb2xsVG8tbWluLmpzFUFwcF9Kcy9qU2Nyb2xsUGFuZS5qcxRBcHBfSnMvbW91c2V3aGVlbC5qcxpBcHBfSnMvanF1ZXJ5Lm1heGxlbmd0aC5qcw9BcHBfSnMvaU9rbm8uanMPQXBwX0pzL2lUYWJzLmpzGUFwcF9Kcy9mbGFzaC9zd2ZvYmplY3QuanPUATwhLS1baWYgbHRlIElFIDddPjxsaW5rIHJlbD0ic3R5bGVzaGVldCIgdHlwZT0idGV4dC9jc3MiIGhyZWY9IkFwcF9Dc3MvRGVmYXVsdC9pZTdfZml4LmNzcyIgLz48IVtlbmRpZl0tLT4KPCEtLVtpZiBsdCBJRSA3XT48bGluayByZWw9InN0eWxlc2hlZXQiIHR5cGU9InRleHQvY3NzIiBocmVmPSJBcHBfQ3NzL0RlZmF1bHQvaWU2X2ZpeC5jc3MiIC8+PCFbZW5kaWZdLS0+ZAIBD2QWFgIED2QWBAIBDxYCHgRUZXh0BQ7RgNGD0YHRgdC60LjQuWQCAw8WAh4LXyFJdGVtQ291bnQCExYmZg9kFgICAQ8PFgQfAQUHRW5nbGlzaB4LTmF2aWdhdGVVcmwFHi9Qcml2YWN5UG9saWN5LmFzcHg/Q3VsdHVyZT1lbmRkAgEPZBYCAgEPDxYEHwEFCtei15HXqNeZ16ofAwUeL1ByaXZhY3lQb2xpY3kuYXNweD9DdWx0dXJlPWhlZGQCAg9kFgICAQ8PFgQfAQUNQmFoYXNhIE1lbGF5dR8DBR4vUHJpdmFjeVBvbGljeS5hc3B4P0N1bHR1cmU9bXNkZAIDD2QWAgIBDw8WBB8BBQ7RgNGD0YHRgdC60LjQuR8DBR4vUHJpdmFjeVBvbGljeS5hc3B4P0N1bHR1cmU9cnVkZAIED2QWAgIBDw8WBB8BBQnml6XmnKzoqp4fAwUeL1ByaXZhY3lQb2xpY3kuYXNweD9DdWx0dXJlPWphZGQCBQ9kFgICAQ8PFgQfAQUO2KfZhNi52LHYqNmK2KkfAwUeL1ByaXZhY3lQb2xpY3kuYXNweD9DdWx0dXJlPWFyZGQCBg9kFgICAQ8PFgQfAQUHRGV1dHNjaB8DBR4vUHJpdmFjeVBvbGljeS5hc3B4P0N1bHR1cmU9ZGVkZAIHD2QWAgIBDw8WBB8BBQrZgdin2LHYs9mJHwMFHi9Qcml2YWN5UG9saWN5LmFzcHg/Q3VsdHVyZT1mYWRkAggPZBYCAgEPDxYEHwEFCk5lZGVybGFuZHMfAwUeL1ByaXZhY3lQb2xpY3kuYXNweD9DdWx0dXJlPW5sZGQCCQ9kFgICAQ8PFgQfAQUKUG9ydHVndcOqcx8DBR4vUHJpdmFjeVBvbGljeS5hc3B4P0N1bHR1cmU9cHRkZAIKD2QWAgIBDw8WBB8BBQntlZzqta3slrQfAwUeL1ByaXZhY3lQb2xpY3kuYXNweD9DdWx0dXJlPWtvZGQCCw9kFgICAQ8PFgQfAQUG5Lit5paHHwMFHi9Qcml2YWN5UG9saWN5LmFzcHg/Q3VsdHVyZT16aGRkAgwPZBYCAgEPDxYEHwEFBnBvbHNraR8DBR4vUHJpdmFjeVBvbGljeS5hc3B4P0N1bHR1cmU9cGxkZAIND2QWAgIBDw8WBB8BBQhpdGFsaWFubx8DBR4vUHJpdmFjeVBvbGljeS5hc3B4P0N1bHR1cmU9aXRkZAIOD2QWAgIBDw8WBB8BBRBCYWhhc2EgSW5kb25lc2lhHwMFHi9Qcml2YWN5UG9saWN5LmFzcHg/Q3VsdHVyZT1pZGRkAg8PZBYCAgEPDxYEHwEFCeC5hOC4l+C4oh8DBR4vUHJpdmFjeVBvbGljeS5hc3B4P0N1bHR1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">
+</div>
 
-<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWDQLV2+f2BQLHjsWWBQKN0vWUBwL70dWXBwKu56jsCAKF0omYBwKkudfODgLT+bb+BwKmucXoCwLstYS8BgKOlZU9AqOl2P8KAqbMrt0BUod5BOUxnwyLLWQ+fWHkcg+UxqM=">
-    <input type="hidden" name="ctl00$ctl00$HiddenFieldCabinetHost" id="HiddenFieldCabinetHost" value="cabinet.fxopen.com">
-    <div id="minWidth">
-        <!-- top block -->
-        <div class="top">
-            <div class="outer">
-                <div class="logo">
-                    <a href="http://www.fxopen.com/">
-                        <img id="ctl00_ctl00_Image1" src="ContentImages/logo.png" alt="FXOpen"></a>
-                </div>
-                <div class="select-language">
-                    <i class="view-lang"></i>
-                    <div id="ctl00_ctl00_divCountry" class="country">
-                        <div class="center">
-                            <div class="right">
-                                <div class="left">
-                                    <div onclick="javascript:showMenu('menudiv');" class="selected">
-                                        ไทย
-                                    </div>
-                                    <div id="menudiv" style="display: none;" class="e2menu" onmouseout="javascript:hideMenu('menudiv');" onmouseover="javascript:showMenu('menudiv');">
-                                        <ul>
-                                            
-                                                    <li>
-                                                        <a id="ctl00_ctl00_RepeaterLanguage_ctl00_HyperLinkLanguage" href="/PrivacyPolicy.aspx?Culture=en">English</a>
-                                                    </li>
+<script type="text/javascript">
+//<![CDATA[
+var theForm = document.forms['aspnetForm'];
+if (!theForm) {
+    theForm = document.aspnetForm;
+}
+function __doPostBack(eventTarget, eventArgument) {
+    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
+        theForm.__EVENTTARGET.value = eventTarget;
+        theForm.__EVENTARGUMENT.value = eventArgument;
+        theForm.submit();
+    }
+}
+//]]>
+</script>
+
+
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAA377neEb86oaddsw69uzYesRofgOCHY9a7zCzFV5RpcW+bkfpXKVUB6jA5IiSHfk7XLF/YJ0cZG2PQOpr5218LQBT+S+tFtnmx2Y7n4l6tlc+6bpLp/f3kWQa7tKjRwW6UofLzXpqX84/c9abtprGamj8GLW4z9RijIlZrg98IpZtkz7gHW7ZH1u0rtpeLoe2yHfeuvMygQRd4X+mXVC5colZoTRhxDRUCFjh98SJZCsxMJa77rRKyatln7begK3ivCQnHRdrrxApu5ErNx0XQ6OOZb5xLFg9HkVZsx/vtlAxijAVM=">
+</div>
+        <input type="hidden" name="ctl00$ctl00$HiddenFieldCabinetHost" id="HiddenFieldCabinetHost" value="cabinet.fxopen.com">
+
+        <script type="text/javascript">
+            $(document).ready(function () {
+                if ($.cookie('CookiesNotice') != null) {
+                    $('.fxo-message-container').hide();
+                }
+            });
+        </script>
+
+        <div id="minWidth">
+            
+            <!-- top block -->
+            <div class="top">
+                <div class="outer">
+                    <div class="logo">
+                        <a href="http://www.fxopen.com/">
+                            <img id="ctl00_ctl00_Image1" src="ContentImages/logo.png" alt="FXOpen"></a>
+                    </div>
+                    <div class="select-language">
+                        <i class="view-lang"></i>
+                        <div id="ctl00_ctl00_divCountry" class="country">
+                            <div class="center">
+                                <div class="right">
+                                    <div class="left">
+                                        <div onclick="javascript:showMenu('menudiv');" class="selected">
+                                            русский
+                                        </div>
+                                        <div id="menudiv" style="display: none;" class="e2menu" onmouseout="javascript:hideMenu('menudiv');" onmouseover="javascript:showMenu('menudiv');">
+                                            <ul>
                                                 
-                                                    <li>
-                                                        <a id="ctl00_ctl00_RepeaterLanguage_ctl01_HyperLinkLanguage" href="/PrivacyPolicy.aspx?Culture=he">עברית</a>
-                                                    </li>
-                                                
-                                                    <li>
-                                                        <a id="ctl00_ctl00_RepeaterLanguage_ctl02_HyperLinkLanguage" href="/PrivacyPolicy.aspx?Culture=ms">Bahasa Melayu</a>
-                                                    </li>
-                                                
-                                                    <li>
-                                                        <a id="ctl00_ctl00_RepeaterLanguage_ctl03_HyperLinkLanguage" href="/PrivacyPolicy.aspx?Culture=ru">русский</a>
-                                                    </li>
-                                                
-                                                    <li>
-                                                        <a id="ctl00_ctl00_RepeaterLanguage_ctl04_HyperLinkLanguage" href="/PrivacyPolicy.aspx?Culture=tr">Türkçe</a>
-                                                    </li>
-                                                
-                                                    <li>
-                                                        <a id="ctl00_ctl00_RepeaterLanguage_ctl05_HyperLinkLanguage" href="/PrivacyPolicy.aspx?Culture=ja">日本語</a>
-                                                    </li>
-                                                
-                                                    <li>
-                                                        <a id="ctl00_ctl00_RepeaterLanguage_ctl06_HyperLinkLanguage" href="/PrivacyPolicy.aspx?Culture=ar">العربية</a>
-                                                    </li>
-                                                
-                                                    <li>
-                                                        <a id="ctl00_ctl00_RepeaterLanguage_ctl07_HyperLinkLanguage" href="/PrivacyPolicy.aspx?Culture=de">Deutsch</a>
-                                                    </li>
-                                                
-                                                    <li>
-                                                        <a id="ctl00_ctl00_RepeaterLanguage_ctl08_HyperLinkLanguage" href="/PrivacyPolicy.aspx?Culture=fa">فارسى</a>
-                                                    </li>
-                                                
-                                                    <li>
-                                                        <a id="ctl00_ctl00_RepeaterLanguage_ctl09_HyperLinkLanguage" href="/PrivacyPolicy.aspx?Culture=nl">Nederlands</a>
-                                                    </li>
-                                                
-                                                    <li>
-                                                        <a id="ctl00_ctl00_RepeaterLanguage_ctl10_HyperLinkLanguage" href="/PrivacyPolicy.aspx?Culture=pt">Português</a>
-                                                    </li>
-                                                
-                                                    <li>
-                                                        <a id="ctl00_ctl00_RepeaterLanguage_ctl11_HyperLinkLanguage" href="/PrivacyPolicy.aspx?Culture=ko">한국어</a>
-                                                    </li>
-                                                
-                                                    <li>
-                                                        <a id="ctl00_ctl00_RepeaterLanguage_ctl12_HyperLinkLanguage" href="/PrivacyPolicy.aspx?Culture=zh">中文</a>
-                                                    </li>
-                                                
-                                                    <li>
-                                                        <a id="ctl00_ctl00_RepeaterLanguage_ctl13_HyperLinkLanguage" href="/PrivacyPolicy.aspx?Culture=pl">polski</a>
-                                                    </li>
-                                                
-                                                    <li>
-                                                        <a id="ctl00_ctl00_RepeaterLanguage_ctl14_HyperLinkLanguage" href="/PrivacyPolicy.aspx?Culture=it">italiano</a>
-                                                    </li>
-                                                
-                                                    <li>
-                                                        <a id="ctl00_ctl00_RepeaterLanguage_ctl15_HyperLinkLanguage" href="/PrivacyPolicy.aspx?Culture=id">Bahasa Indonesia</a>
-                                                    </li>
-                                                
-                                                    <li>
-                                                        <a id="ctl00_ctl00_RepeaterLanguage_ctl16_HyperLinkLanguage" href="/PrivacyPolicy.aspx?Culture=th">ไทย</a>
-                                                    </li>
-                                                
-                                                    <li>
-                                                        <a id="ctl00_ctl00_RepeaterLanguage_ctl17_HyperLinkLanguage" href="/PrivacyPolicy.aspx?Culture=fr">français</a>
-                                                    </li>
-                                                
-                                                    <li>
-                                                        <a id="ctl00_ctl00_RepeaterLanguage_ctl18_HyperLinkLanguage" href="/PrivacyPolicy.aspx?Culture=es">español</a>
-                                                    </li>
-                                                
-                                                    <li>
-                                                        <a id="ctl00_ctl00_RepeaterLanguage_ctl19_HyperLinkLanguage" href="/PrivacyPolicy.aspx?Culture=ka">ქართული</a>
-                                                    </li>
-                                                
-                                        </ul>
+                                                        <li>
+                                                            <a id="ctl00_ctl00_RepeaterLanguage_ctl00_HyperLinkLanguage" href="/PrivacyPolicy.aspx?Culture=en">English</a>
+                                                        </li>
+                                                    
+                                                        <li>
+                                                            <a id="ctl00_ctl00_RepeaterLanguage_ctl01_HyperLinkLanguage" href="/PrivacyPolicy.aspx?Culture=he">עברית</a>
+                                                        </li>
+                                                    
+                                                        <li>
+                                                            <a id="ctl00_ctl00_RepeaterLanguage_ctl02_HyperLinkLanguage" href="/PrivacyPolicy.aspx?Culture=ms">Bahasa Melayu</a>
+                                                        </li>
+                                                    
+                                                        <li>
+                                                            <a id="ctl00_ctl00_RepeaterLanguage_ctl03_HyperLinkLanguage" href="/PrivacyPolicy.aspx?Culture=ru">русский</a>
+                                                        </li>
+                                                    
+                                                        <li>
+                                                            <a id="ctl00_ctl00_RepeaterLanguage_ctl04_HyperLinkLanguage" href="/PrivacyPolicy.aspx?Culture=ja">日本語</a>
+                                                        </li>
+                                                    
+                                                        <li>
+                                                            <a id="ctl00_ctl00_RepeaterLanguage_ctl05_HyperLinkLanguage" href="/PrivacyPolicy.aspx?Culture=ar">العربية</a>
+                                                        </li>
+                                                    
+                                                        <li>
+                                                            <a id="ctl00_ctl00_RepeaterLanguage_ctl06_HyperLinkLanguage" href="/PrivacyPolicy.aspx?Culture=de">Deutsch</a>
+                                                        </li>
+                                                    
+                                                        <li>
+                                                            <a id="ctl00_ctl00_RepeaterLanguage_ctl07_HyperLinkLanguage" href="/PrivacyPolicy.aspx?Culture=fa">فارسى</a>
+                                                        </li>
+                                                    
+                                                        <li>
+                                                            <a id="ctl00_ctl00_RepeaterLanguage_ctl08_HyperLinkLanguage" href="/PrivacyPolicy.aspx?Culture=nl">Nederlands</a>
+                                                        </li>
+                                                    
+                                                        <li>
+                                                            <a id="ctl00_ctl00_RepeaterLanguage_ctl09_HyperLinkLanguage" href="/PrivacyPolicy.aspx?Culture=pt">Português</a>
+                                                        </li>
+                                                    
+                                                        <li>
+                                                            <a id="ctl00_ctl00_RepeaterLanguage_ctl10_HyperLinkLanguage" href="/PrivacyPolicy.aspx?Culture=ko">한국어</a>
+                                                        </li>
+                                                    
+                                                        <li>
+                                                            <a id="ctl00_ctl00_RepeaterLanguage_ctl11_HyperLinkLanguage" href="/PrivacyPolicy.aspx?Culture=zh">中文</a>
+                                                        </li>
+                                                    
+                                                        <li>
+                                                            <a id="ctl00_ctl00_RepeaterLanguage_ctl12_HyperLinkLanguage" href="/PrivacyPolicy.aspx?Culture=pl">polski</a>
+                                                        </li>
+                                                    
+                                                        <li>
+                                                            <a id="ctl00_ctl00_RepeaterLanguage_ctl13_HyperLinkLanguage" href="/PrivacyPolicy.aspx?Culture=it">italiano</a>
+                                                        </li>
+                                                    
+                                                        <li>
+                                                            <a id="ctl00_ctl00_RepeaterLanguage_ctl14_HyperLinkLanguage" href="/PrivacyPolicy.aspx?Culture=id">Bahasa Indonesia</a>
+                                                        </li>
+                                                    
+                                                        <li>
+                                                            <a id="ctl00_ctl00_RepeaterLanguage_ctl15_HyperLinkLanguage" href="/PrivacyPolicy.aspx?Culture=th">ไทย</a>
+                                                        </li>
+                                                    
+                                                        <li>
+                                                            <a id="ctl00_ctl00_RepeaterLanguage_ctl16_HyperLinkLanguage" href="/PrivacyPolicy.aspx?Culture=fr">français</a>
+                                                        </li>
+                                                    
+                                                        <li>
+                                                            <a id="ctl00_ctl00_RepeaterLanguage_ctl17_HyperLinkLanguage" href="/PrivacyPolicy.aspx?Culture=es">español</a>
+                                                        </li>
+                                                    
+                                                        <li>
+                                                            <a id="ctl00_ctl00_RepeaterLanguage_ctl18_HyperLinkLanguage" href="/PrivacyPolicy.aspx?Culture=ka">ქართული</a>
+                                                        </li>
+                                                    
+                                            </ul>
+                                        </div>
                                     </div>
                                 </div>
                             </div>
                         </div>
                     </div>
-                </div>
-                <ul class="icons">
-                    <li><a class="ico-home cur" href="#" title="Set as Home page" onclick="javascript:if(/msie/i.test(navigator.userAgent)){this.style.behavior = 'url(#default#homepage)';this.setHomePage('http://www.fxopen.com/');return false;} else {alert('\'Set as Home page\' option works only in Internet Explorer');}">
-                        <i></i></a></li>
-                    <li><a id="ctl00_ctl00_HtmlAnchorBookmark" class="ico-mail cur" title="Add to Favorites" onmouseout="restoreTitleBookmark();" onclick="return bookmark(this);"><i></i></a>
-                    </li>
-                    <li>
-                        <a id="ctl00_ctl00_HyperLinkMail" title="ติดต่อเรา" class="ico-addp cur" href="http://fxopen.com/ContactUs.aspx"><i></i></a></li>
-                    <li>
-                        <a id="ctl00_ctl00_HyperLinkSiteMap" title="Site Map" class="ico-smap cur" href="http://fxopen.com/SiteMapPage.aspx"><i></i></a></li>
-                </ul>
-                &nbsp;
-                <ul id="ctl00_ctl00_TopMenu1_ulTag" class="t-nav">
+                    <ul class="icons">
+                        <li><a class="ico-home cur" href="#" title="Set as Home page" onclick="javascript:if(/msie/i.test(navigator.userAgent)){this.style.behavior = 'url(#default#homepage)';this.setHomePage('http://www.fxopen.com/');return false;} else {alert('\'Set as Home page\' option works only in Internet Explorer');}">
+                            <i></i></a></li>
+                        <li><a id="ctl00_ctl00_HtmlAnchorBookmark" class="ico-mail cur" title="Add to Favorites" onmouseout="restoreTitleBookmark();" onclick="return bookmark(this);"><i></i></a>
+                        </li>
+                        <li>
+                            <a id="ctl00_ctl00_HyperLinkMail" title="Контакты" class="ico-addp cur" href="ContactUs.aspx"><i></i></a></li>
+                        <li>
+                            <a id="ctl00_ctl00_HyperLinkSiteMap" title="Карта сайта" class="ico-smap cur" href="SiteMapPage.aspx"><i></i></a></li>
+                    </ul>
+                    &nbsp;
+                    <ul id="ctl00_ctl00_TopMenu1_ulTag" class="t-nav">
     
+            <li id="ctl00_ctl00_TopMenu1_RepeaterMainMenu_ctl00_liTag">
+                <a id="ctl00_ctl00_TopMenu1_RepeaterMainMenu_ctl00_HyperLink" class="top_basic_menu_newA" href="/CallBackForm.aspx"><em id="ctl00_ctl00_TopMenu1_RepeaterMainMenu_ctl00_menuIcon" class="top_basic_menu_new"></em><span><span>Callback request</span></span></a>
+            </li>
+        
             <li id="ctl00_ctl00_TopMenu1_RepeaterMainMenu_ctl01_liTag">
-                <a id="ctl00_ctl00_TopMenu1_RepeaterMainMenu_ctl01_HyperLink" class="top_basic_menu_newA" href="/CallBackForm.aspx"><em id="ctl00_ctl00_TopMenu1_RepeaterMainMenu_ctl01_menuIcon" class="top_basic_menu_new"></em><span><span>Callback request</span></span></a>
+                <a id="ctl00_ctl00_TopMenu1_RepeaterMainMenu_ctl01_HyperLink" title="Contact Us" class="top_basic_menu_newA" href="/ContactUs.aspx"><span><span>Контакты</span></span></a>
             </li>
         
             <li id="ctl00_ctl00_TopMenu1_RepeaterMainMenu_ctl02_liTag">
-                <a id="ctl00_ctl00_TopMenu1_RepeaterMainMenu_ctl02_HyperLink" title="Contact Us" class="top_basic_menu_newA" href="/ContactUs.aspx"><span><span>ติดต่อเรา</span></span></a>
+                <a id="ctl00_ctl00_TopMenu1_RepeaterMainMenu_ctl02_HyperLink" title="Forum" class="top_basic_menu_newA" href="http://forum.fxopen.com" target="_blank"><span><span>Форум</span></span></a>
             </li>
         
             <li id="ctl00_ctl00_TopMenu1_RepeaterMainMenu_ctl03_liTag">
-                <a id="ctl00_ctl00_TopMenu1_RepeaterMainMenu_ctl03_HyperLink" title="Forum" class="top_basic_menu_newA" href="http://forum.fxopen.com" target="_blank"><span><span>กระดานถามตอบ</span></span></a>
+                <a id="ctl00_ctl00_TopMenu1_RepeaterMainMenu_ctl03_HyperLink" title="Live News" class="top_basic_menu_newA" href="/LiveNews.aspx"><span><span>Forex Новости</span></span></a>
             </li>
         
             <li id="ctl00_ctl00_TopMenu1_RepeaterMainMenu_ctl04_liTag">
-                <a id="ctl00_ctl00_TopMenu1_RepeaterMainMenu_ctl04_HyperLink" title="Live News" class="top_basic_menu_newA" href="/LiveNews.aspx"><span><span>ข่าว</span></span></a>
+                <a id="ctl00_ctl00_TopMenu1_RepeaterMainMenu_ctl04_HyperLink" title="Forex" class="top_basic_menu_newA" href="/Forex.aspx"><span><span>Форекс</span></span></a>
             </li>
         
-            <li id="ctl00_ctl00_TopMenu1_RepeaterMainMenu_ctl05_liTag">
-                <a id="ctl00_ctl00_TopMenu1_RepeaterMainMenu_ctl05_HyperLink" title="Forex" class="top_basic_menu_newA" href="/Forex.aspx"><span><span>โฟเร็ก</span></span></a>
-            </li>
-        
-            <li id="ctl00_ctl00_TopMenu1_RepeaterMainMenu_ctl06_liTag" class="frst">
-                <a id="ctl00_ctl00_TopMenu1_RepeaterMainMenu_ctl06_HyperLink" title="Home" class="top_basic_menu_newA" href="/Default.aspx"><span><span>หน้าแรก</span></span></a>
+            <li id="ctl00_ctl00_TopMenu1_RepeaterMainMenu_ctl05_liTag" class="frst">
+                <a id="ctl00_ctl00_TopMenu1_RepeaterMainMenu_ctl05_HyperLink" title="Home" class="top_basic_menu_newA" href="/Default.aspx"><span><span>Главная</span></span></a>
             </li>
         
 </ul>
 
-            </div>
-        </div>
-        <!-- / top block -->
-        <!-- stat projects -->
-        
-        
-        <script type="text/javascript">
-            function ChangeSearchData(obj) {
-                var queryText = obj.value;
-                var q_search = $("#q_search");
-                if (q_search) {
-                    q_search.val(queryText);
-                }
-            }
-        </script>
-        <div class="stat-project cfix">
-            <div class="outer">
-                <div class="search-block">
-                    <input name="ctl00$ctl00$q" type="text" value="โฟเร็ก" maxlength="512" id="ctl00_ctl00_q" title="Forex" class="inp-search" onchange="javascript:ChangeSearchData(this);">
-                    
-                    <input type="hidden" name="ctl00$ctl00$cx" id="ctl00_ctl00_cx" value="000713952895895994612:_um5pqcroja">
-                    <input type="hidden" name="ctl00$ctl00$cof" id="ctl00_ctl00_cof" value="FORID:11">
-                    <input type="hidden" name="ctl00$ctl00$ie" id="ctl00_ctl00_ie" value="UTF-8">
-                    <a id="ctl00_ctl00_LinkButtonSearch" class="search-button" href="javascript:__doPostBack('ctl00$ctl00$LinkButtonSearch','')"><span>ค้นหา</span></a>
-                    <input name="dummyHidden" value="" style="visibility: hidden; display: none;">
                 </div>
-                
-                <ul class="stats-projects">
-                    <li class="total-deals">
-                        <div id="ctl00_ctl00_TotalDealsLabel">
-                            <span>
-                                ยอด <b>deals</b> ทั้งหมด:
-                                <strong>
-                                    1419445812</strong></span>
-                        </div>
-                    </li>
-                    <li>
-                        <div id="ctl00_ctl00_TotalActiveMicroAccountsLabel">
-                            บัญชี <b>micro</b> ที่ active:
-                            <strong>
-                                156142</strong>
-                        </div>
-                    </li>
-                    <li>
-                        <div id="ctl00_ctl00_TotalActiveStandardAccountsLabel">
-                            บัญชี <b>standard</b> ที่ active:
-                            <strong>
-                                219549</strong>
-                        </div>
-                    </li>
-                </ul>
             </div>
-        </div>
-        <!-- / stat projects -->
-        <!-- navigation -->
-        <script type="text/javascript">
-            var _liveHelpDialogFeature = "status=1,width=500,height=400,resizable=1";
-
-            function OpenLiveSupport() {
-                var encode = escape;
-                if (typeof (encodeURIComponent) != "undefined")
-                    encode = encodeURIComponent;
-
-                var chatUrl = $('#ctl00_ctl00_HiddenFieldLiveChatUrl').val();
-                var url = "http://" + chatUrl;
-                var win;
-                try {
-                    win = window.open(url, '', _liveHelpDialogFeature);
+            <!-- / top block -->
+            <!-- stat projects -->
+            
+            
+            <script type="text/javascript">
+                function ChangeSearchData(obj) {
+                    var queryText = obj.value;
+                    var q_search = $("#q_search");
+                    if (q_search) {
+                        q_search.val(queryText);
+                    }
                 }
-                catch (x) {
-                }
-
-                if (win == null) {
-                    alert("Pop-up Blocker Detected.");
-                }
-            }
-        </script>
-        <input type="hidden" name="ctl00$ctl00$HiddenFieldLiveChatUrl" id="ctl00_ctl00_HiddenFieldLiveChatUrl" value="livesupport.fxopen.com/UserProfile.aspx">
-        <div class="main-nav">
-            <div class="outer">
-                <ul class="navigation cfix">
+            </script>
+            <div class="stat-project cfix">
+                <div class="outer">
+                    <div class="search-block">
+                        <input name="ctl00$ctl00$q" type="text" value="forex" maxlength="512" id="ctl00_ctl00_q" title="Forex" class="inp-search" onchange="javascript:ChangeSearchData(this);" style="width:100px;">
+                        
+                        <input type="hidden" name="ctl00$ctl00$cx" id="ctl00_ctl00_cx" value="000713952895895994612:_um5pqcroja">
+                        <input type="hidden" name="ctl00$ctl00$cof" id="ctl00_ctl00_cof" value="FORID:11">
+                        <input type="hidden" name="ctl00$ctl00$ie" id="ctl00_ctl00_ie" value="UTF-8">
+                        <a id="ctl00_ctl00_LinkButtonSearch" class="search-button" href="javascript:__doPostBack('ctl00$ctl00$LinkButtonSearch','')"><span>Поиск</span></a>
+                        <input name="dummyHidden" value="" style="visibility: hidden; display: none;">
+                    </div>
                     
+                    <ul class="stats-projects">
+                        <li class="total-deals">
+                            <div id="ctl00_ctl00_TotalDealsLabel">
+                                <span>
+                                    Всего <b>сделок</b>:
+                                    <strong>
+                                        1421447727</strong></span>
+                            </div>
+                        </li>
+                        <li>
+                            <div id="ctl00_ctl00_TotalActiveMicroAccountsLabel">
+                                Всего <b>микросчетов</b>:
+                                <strong>
+                                    165906</strong>
+                            </div>
+                        </li>
+                        <li>
+                            <div id="ctl00_ctl00_TotalActiveStandardAccountsLabel">
+                                Всего <b>стандартных счетов</b>:
+                                <strong>
+                                    224546</strong>
+                            </div>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+            <!-- / stat projects -->
+            <!-- navigation -->
+            <script type="text/javascript">
+                var _liveHelpDialogFeature = "status=1,width=550,height=710,resizable=1";
+
+                function OpenLiveSupport() {
+                    var encode = escape;
+                    if (typeof (encodeURIComponent) != "undefined")
+                        encode = encodeURIComponent;
+
+                    var chatUrl = $('#ctl00_ctl00_HiddenFieldLiveChatUrl').val();
+                    var url = "http://" + chatUrl;
+                    var win;
+                    try {
+                        win = window.open(url, '', _liveHelpDialogFeature);
+                    }
+                    catch (x) {
+                    }
+
+                    if (win == null) {
+                        alert("Pop-up Blocker Detected.");
+                    }
+                }
+            </script>
+            <input type="hidden" name="ctl00$ctl00$HiddenFieldLiveChatUrl" id="ctl00_ctl00_HiddenFieldLiveChatUrl" value="support.fxopen.com/visitor/index.php?/LiveChat/Chat/">
+            <!-- BEGIN FUSION TAG CODE - DO NOT EDIT! --><div style="visibility: hidden; position: absolute;"><div id="proactivechatcontainerc4zdzahgpd"></div><table border="0" cellspacing="2" cellpadding="2"><tbody><tr><td align="center" id="swifttagcontainerc4zdzahgpd"><div style="display: inline;" id="swifttagdatacontainerc4zdzahgpd"></div><script type="text/javascript" src="http://support.fxopen.com/visitor/index.php?/Default/LiveChat/HTML/HTMLButton/cHJvbXB0dHlwZT1jaGF0JnVuaXF1ZWlkPWM0emR6YWhncGQmdmVyc2lvbj00LjU1LjAuMzMyOCZwcm9kdWN0PUZ1c2lvbiZjdXN0b21vbmxpbmU9JmN1c3RvbW9mZmxpbmU9JmN1c3RvbWF3YXk9JmN1c3RvbWJhY2tzaG9ydGx5PQphZDk0MjgzM2VlMGQ0NmFmYjZiYzRjNmI3MWZmMGQ2ZmMzOGIwYzUw"></script></td> </tr><tr><td align="center"><div style="MARGIN-TOP: 2px; WIDTH: 100%; TEXT-ALIGN: center;"><span style="FONT-SIZE: 9px; FONT-FAMILY: Tahoma, Arial, Helvetica, sans-serif;"><a href="http://www.kayako.com/products/live-chat-software/" style="TEXT-DECORATION: none; COLOR: #000000" target="_blank">Live Chat Software</a><span style="COLOR: #000000"> by </span>Kayako</span></div></td></tr></tbody></table></div> <script type="text/javascript">var swiftscriptelemc4zdzahgpd = document.createElement("script"); swiftscriptelemc4zdzahgpd.type = "text/javascript"; var swiftrandom = Math.floor(Math.random() * 1001); var swiftuniqueid = "c4zdzahgpd"; var swifttagurlc4zdzahgpd = "http://support.fxopen.com/visitor/index.php?/Default/LiveChat/HTML/HTMLButton/cHJvbXB0dHlwZT1jaGF0JnVuaXF1ZWlkPWM0emR6YWhncGQmdmVyc2lvbj00LjU1LjAuMzMyOCZwcm9kdWN0PUZ1c2lvbiZjdXN0b21vbmxpbmU9JmN1c3RvbW9mZmxpbmU9JmN1c3RvbWF3YXk9JmN1c3RvbWJhY2tzaG9ydGx5PQphZDk0MjgzM2VlMGQ0NmFmYjZiYzRjNmI3MWZmMGQ2ZmMzOGIwYzUw"; setTimeout("swiftscriptelemc4zdzahgpd.src=swifttagurlc4zdzahgpd;document.getElementById('swifttagcontainerc4zdzahgpd').appendChild(swiftscriptelemc4zdzahgpd);", 1);</script><!-- END FUSION TAG CODE - DO NOT EDIT! -->
+            <div class="main-nav">
+                <div class="outer">
+                    <ul class="navigation cfix">
+                        
 <ul class="mmenu">
     
             <li id="ctl00_ctl00_MainMenu1_RepeaterMainMenu_ctl00_ListItem">
-                <a id="ctl00_ctl00_MainMenu1_RepeaterMainMenu_ctl00_HyperLink" title="About Us" onmouseover="setAttribute('prevClassName', className); className = 'hr';" onmouseout="className = getAttribute('prevClassName');" href="/AboutUs.aspx"><span class="va"><span>เกี่ยวกับเรา</span></span></a>
+                <a id="ctl00_ctl00_MainMenu1_RepeaterMainMenu_ctl00_HyperLink" title="About Us" onmouseover="setAttribute('prevClassName', className); className = 'hr';" onmouseout="className = getAttribute('prevClassName');" href="/AboutUs.aspx">
+                    <span class="va">
+                        <span>
+                            О КОМПАНИИ
+                        </span>
+                    </span>
+                </a>
             </li>
         
             <li id="ctl00_ctl00_MainMenu1_RepeaterMainMenu_ctl01_ListItem">
-                <a id="ctl00_ctl00_MainMenu1_RepeaterMainMenu_ctl01_HyperLink" title="Forex" onmouseover="setAttribute('prevClassName', className); className = 'hr';" onmouseout="className = getAttribute('prevClassName');" href="/Forex.aspx"><span class="va"><span>โฟเร็ก</span></span></a>
+                <a id="ctl00_ctl00_MainMenu1_RepeaterMainMenu_ctl01_HyperLink" title="Forex" onmouseover="setAttribute('prevClassName', className); className = 'hr';" onmouseout="className = getAttribute('prevClassName');" href="/Forex.aspx">
+                    <span class="va">
+                        <span>
+                            FOREX (Форекс)
+                        </span>
+                    </span>
+                </a>
             </li>
         
             <li id="ctl00_ctl00_MainMenu1_RepeaterMainMenu_ctl02_ListItem">
-                <a id="ctl00_ctl00_MainMenu1_RepeaterMainMenu_ctl02_HyperLink" title="Terminal MetaTrader 4" onmouseover="setAttribute('prevClassName', className); className = 'hr';" onmouseout="className = getAttribute('prevClassName');" href="/TerminalMetaTrader4.aspx"><span class="va"><span>โปแกรม MetaTrader 4</span></span></a>
+                <a id="ctl00_ctl00_MainMenu1_RepeaterMainMenu_ctl02_HyperLink" title="Терминал MetaTrader 4" onmouseover="setAttribute('prevClassName', className); className = 'hr';" onmouseout="className = getAttribute('prevClassName');" href="/TerminalMetaTrader4.aspx">
+                    <span class="va">
+                        <span>
+                            Терминал MetaTrader 4
+                        </span>
+                    </span>
+                </a>
             </li>
         
             <li id="ctl00_ctl00_MainMenu1_RepeaterMainMenu_ctl03_ListItem">
-                <a id="ctl00_ctl00_MainMenu1_RepeaterMainMenu_ctl03_HyperLink" onmouseover="setAttribute('prevClassName', className); className = 'hr';" onmouseout="className = getAttribute('prevClassName');" href="/Pamm/List.aspx"><span class="va"><span>บัญชี PAMM</span></span></a>
+                <a id="ctl00_ctl00_MainMenu1_RepeaterMainMenu_ctl03_HyperLink" onmouseover="setAttribute('prevClassName', className); className = 'hr';" onmouseout="className = getAttribute('prevClassName');" href="/Pamm/List.aspx">
+                    <span class="va">
+                        <span>
+                            PAMM СЧЕТА
+                        </span>
+                    </span>
+                </a>
             </li>
         
             <li id="ctl00_ctl00_MainMenu1_RepeaterMainMenu_ctl04_ListItem">
-                <a id="ctl00_ctl00_MainMenu1_RepeaterMainMenu_ctl04_HyperLink" onmouseover="setAttribute('prevClassName', className); className = 'hr';" onmouseout="className = getAttribute('prevClassName');" href="/TradingTerms.aspx"><span class="va"><span>ข้อตกลง</span></span></a>
+                <a id="ctl00_ctl00_MainMenu1_RepeaterMainMenu_ctl04_HyperLink" onmouseover="setAttribute('prevClassName', className); className = 'hr';" onmouseout="className = getAttribute('prevClassName');" href="/TradingTerms.aspx">
+                    <span class="va">
+                        <span>
+                            УСЛОВИЯ ТОРГОВЛИ
+                        </span>
+                    </span>
+                </a>
             </li>
         
             <li id="ctl00_ctl00_MainMenu1_RepeaterMainMenu_ctl05_ListItem">
-                <a id="ctl00_ctl00_MainMenu1_RepeaterMainMenu_ctl05_HyperLink" onmouseover="setAttribute('prevClassName', className); className = 'hr';" onmouseout="className = getAttribute('prevClassName');" href="/ECNForexTrading.aspx"><span class="va"><span>บัญชี ECN/STP</span></span></a>
+                <a id="ctl00_ctl00_MainMenu1_RepeaterMainMenu_ctl05_HyperLink" onmouseover="setAttribute('prevClassName', className); className = 'hr';" onmouseout="className = getAttribute('prevClassName');" href="/ECNForexTrading.aspx">
+                    <span class="va">
+                        <span>
+                            ТЕХНОЛОГИЯ ECN/STP
+                        </span>
+                    </span>
+                </a>
             </li>
         
             <li id="ctl00_ctl00_MainMenu1_RepeaterMainMenu_ctl06_ListItem">
-                <a id="ctl00_ctl00_MainMenu1_RepeaterMainMenu_ctl06_HyperLink" title="Forex Education" onmouseover="setAttribute('prevClassName', className); className = 'hr';" onmouseout="className = getAttribute('prevClassName');" href="/ForexEducation.aspx"><span class="va"><span>ห้องเรียนโฟเร็ก</span></span></a>
+                <a id="ctl00_ctl00_MainMenu1_RepeaterMainMenu_ctl06_HyperLink" title="Forex Education" onmouseover="setAttribute('prevClassName', className); className = 'hr';" onmouseout="className = getAttribute('prevClassName');" href="/ForexEducation.aspx">
+                    <span class="va">
+                        <span>
+                            Научись торговать
+                        </span>
+                    </span>
+                </a>
             </li>
         
             <li id="ctl00_ctl00_MainMenu1_RepeaterMainMenu_ctl07_ListItem">
-                <a id="ctl00_ctl00_MainMenu1_RepeaterMainMenu_ctl07_HyperLink" title="Analytics" onmouseover="setAttribute('prevClassName', className); className = 'hr';" onmouseout="className = getAttribute('prevClassName');" href="/Analytics.aspx"><span class="va"><span>บทวิเคราะห์</span></span></a>
+                <a id="ctl00_ctl00_MainMenu1_RepeaterMainMenu_ctl07_HyperLink" title="Аналитика" onmouseover="setAttribute('prevClassName', className); className = 'hr';" onmouseout="className = getAttribute('prevClassName');" href="/Analytics.aspx">
+                    <span class="va">
+                        <span>
+                            Аналитика
+                        </span>
+                    </span>
+                </a>
             </li>
         
             <li id="ctl00_ctl00_MainMenu1_RepeaterMainMenu_ctl08_ListItem">
-                <a id="ctl00_ctl00_MainMenu1_RepeaterMainMenu_ctl08_HyperLink" title="Economic Calendar" onmouseover="setAttribute('prevClassName', className); className = 'hr';" onmouseout="className = getAttribute('prevClassName');" href="Calendar.aspx" target="_blank"><span class="va"><span>ปฎิทินข่าว</span></span></a>
+                <a id="ctl00_ctl00_MainMenu1_RepeaterMainMenu_ctl08_HyperLink" title="Форекс календарь" onmouseover="setAttribute('prevClassName', className); className = 'hr';" onmouseout="className = getAttribute('prevClassName');" href="Calendar.aspx" target="_blank">
+                    <span class="va">
+                        <span>
+                            Форекс календарь
+                        </span>
+                    </span>
+                </a>
             </li>
         
             <li id="ctl00_ctl00_MainMenu1_RepeaterMainMenu_ctl09_ListItem">
-                <a id="ctl00_ctl00_MainMenu1_RepeaterMainMenu_ctl09_HyperLink" title="Live News" onmouseover="setAttribute('prevClassName', className); className = 'hr';" onmouseout="className = getAttribute('prevClassName');" href="/LiveNews.aspx"><span class="va"><span>ข่าว</span></span></a>
+                <a id="ctl00_ctl00_MainMenu1_RepeaterMainMenu_ctl09_HyperLink" title="Live News" onmouseover="setAttribute('prevClassName', className); className = 'hr';" onmouseout="className = getAttribute('prevClassName');" href="/LiveNews.aspx">
+                    <span class="va">
+                        <span>
+                            Экономические Новости
+                        </span>
+                    </span>
+                </a>
             </li>
         
             <li id="ctl00_ctl00_MainMenu1_RepeaterMainMenu_ctl10_ListItem">
-                <a id="ctl00_ctl00_MainMenu1_RepeaterMainMenu_ctl10_HyperLink" onmouseover="setAttribute('prevClassName', className); className = 'hr';" onmouseout="className = getAttribute('prevClassName');" href="http://forexcup.com?Culture=th" target="_blank"><span class="va"><span>Contests</span></span></a>
+                <a id="ctl00_ctl00_MainMenu1_RepeaterMainMenu_ctl10_HyperLink" onmouseover="setAttribute('prevClassName', className); className = 'hr';" onmouseout="className = getAttribute('prevClassName');" href="http://forexcup.com?Culture=ru" target="_blank">
+                    <span class="va">
+                        <span>
+                            Конкурсы
+                        </span>
+                    </span>
+                </a>
             </li>
         
             <li id="ctl00_ctl00_MainMenu1_RepeaterMainMenu_ctl11_ListItem">
-                <a id="ctl00_ctl00_MainMenu1_RepeaterMainMenu_ctl11_HyperLink" title="Our Promotions" onmouseover="setAttribute('prevClassName', className); className = 'hr';" onmouseout="className = getAttribute('prevClassName');" href="/OurPromotions.aspx"><span class="va"><span>โปรโมทชั่นของเรา</span></span></a>
+                <a id="ctl00_ctl00_MainMenu1_RepeaterMainMenu_ctl11_HyperLink" title="Our Promotions" onmouseover="setAttribute('prevClassName', className); className = 'hr';" onmouseout="className = getAttribute('prevClassName');" href="/OurPromotions.aspx">
+                    <span class="va">
+                        <span>
+                            Наши бонусы
+                        </span>
+                    </span>
+                </a>
             </li>
         
             <li id="ctl00_ctl00_MainMenu1_RepeaterMainMenu_ctl12_ListItem">
-                <a id="ctl00_ctl00_MainMenu1_RepeaterMainMenu_ctl12_HyperLink" title="Partnership" onmouseover="setAttribute('prevClassName', className); className = 'hr';" onmouseout="className = getAttribute('prevClassName');" href="/Partnership.aspx"><span class="va"><span>หุ้นส่วน<em class="fx_menu_new"></em></span></span></a>
+                <a id="ctl00_ctl00_MainMenu1_RepeaterMainMenu_ctl12_HyperLink" title="Сотрудничество" onmouseover="setAttribute('prevClassName', className); className = 'hr';" onmouseout="className = getAttribute('prevClassName');" href="/Partnership.aspx">
+                    <span class="va">
+                        <span>
+                            Сотрудничество<em class="fx_menu_new"></em>
+                        </span>
+                    </span>
+                </a>
             </li>
         
             <li id="ctl00_ctl00_MainMenu1_RepeaterMainMenu_ctl13_ListItem">
-                <a id="ctl00_ctl00_MainMenu1_RepeaterMainMenu_ctl13_HyperLink" title="Deposit / Withdrawal" onmouseover="setAttribute('prevClassName', className); className = 'hr';" onmouseout="className = getAttribute('prevClassName');" href="/DepositWithdrawal.aspx"><span class="va"><span>ฝาก/ถอน</span></span></a>
+                <a id="ctl00_ctl00_MainMenu1_RepeaterMainMenu_ctl13_HyperLink" title="Deposit / Withdrawal" onmouseover="setAttribute('prevClassName', className); className = 'hr';" onmouseout="className = getAttribute('prevClassName');" href="/DepositWithdrawal.aspx">
+                    <span class="va">
+                        <span>
+                            Пополнение и снятие средств
+                        </span>
+                    </span>
+                </a>
             </li>
         
             <li id="ctl00_ctl00_MainMenu1_RepeaterMainMenu_ctl14_ListItem">
-                <a id="ctl00_ctl00_MainMenu1_RepeaterMainMenu_ctl14_HyperLink" title="Forum" onmouseover="setAttribute('prevClassName', className); className = 'hr';" onmouseout="className = getAttribute('prevClassName');" href="http://forum.fxopen.com" target="_blank"><span class="va"><span>กระดานถามตอบ</span></span></a>
+                <a id="ctl00_ctl00_MainMenu1_RepeaterMainMenu_ctl14_HyperLink" title="Forum" onmouseover="setAttribute('prevClassName', className); className = 'hr';" onmouseout="className = getAttribute('prevClassName');" href="http://forum.fxopen.com" target="_blank">
+                    <span class="va">
+                        <span>
+                            Форум
+                        </span>
+                    </span>
+                </a>
             </li>
         
             <li id="ctl00_ctl00_MainMenu1_RepeaterMainMenu_ctl15_ListItem">
-                <a id="ctl00_ctl00_MainMenu1_RepeaterMainMenu_ctl15_HyperLink" title="Contact Us" onmouseover="setAttribute('prevClassName', className); className = 'hr';" onmouseout="className = getAttribute('prevClassName');" href="/ContactUs.aspx"><span class="va"><span>ติดต่อเรา</span></span></a>
+                <a id="ctl00_ctl00_MainMenu1_RepeaterMainMenu_ctl15_HyperLink" title="Контакты" onmouseover="setAttribute('prevClassName', className); className = 'hr';" onmouseout="className = getAttribute('prevClassName');" href="/ContactUs.aspx">
+                    <span class="va">
+                        <span>
+                            Контакты
+                        </span>
+                    </span>
+                </a>
             </li>
         
 </ul>
 
-                </ul>
-                <ul class="fast-start">
-                    <li class="f-1">
-                        <a id="ctl00_ctl00_HyperLinkRegistration" href="https://cabinet.fxopen.com/registration.aspx?Culture=th" target="_blank"><i class="b-ico"></i><span>เปิดบัญชีเทรดจริง</span>!</a></li>
-                    <li class="f-2">
-                        <a id="ctl00_ctl00_HyperLinkTerminal" href="OpenDemoAccount.aspx" target="_self"><i class="b-ico"></i><span>เปิด</span>บัญชีทดลองเทรด</a>
-                    </li>
-                    <li class="f-3">
-                        <a id="ctl00_ctl00_HyperLinkCabinet" href="https://cabinet.fxopen.com/?Culture=th" target="_blank"><i class="b-ico"></i><span>My</span> FXOpen</a></li>
-                    <li class="f-4">
-                       
-                        <a href="###" onclick="OpenLiveSupport()"><i class="b-ico"></i>มีคำถาม? <span>LIVE CHAT</span></a>
-                        
-                    </li>
-                </ul>
+                    </ul>
+                    <ul class="fast-start">
+                        <li class="f-1">
+                            <a id="ctl00_ctl00_HyperLinkRegistration" href="https://cabinet.fxopen.com/registration.aspx?Culture=ru" target="_blank">Открыть <i class="b-ico"></i><span>счет!</span></a></li>
+                        <li class="f-2">
+                            <a id="ctl00_ctl00_HyperLinkTerminal" href="OpenDemoAccount.aspx" target="_self"><i class="b-ico"></i><span>Открыть </span>демо счет!</a>
+                        </li>
+                        <li class="f-3">
+                            <a id="ctl00_ctl00_HyperLinkCabinet" href="https://cabinet.fxopen.com/?Culture=ru" target="_blank"><i class="b-ico"></i><span>Личный кабинет</span> </a></li>
+                        <li class="f-4">
+                            <a onclick="$(this).attr('href',$('#swifttagdatacontainerc4zdzahgpd').find('a').attr('href'))" href="###">
+                                <i class="b-ico"></i>Вопросы? <span>Чат FXOpen</span></a>
+
+                        </li>
+                    </ul>
+                </div>
             </div>
-        </div>
-        <!-- / navigation -->
-        <!-- live block -->
-        <div class="live-air">
-            
-            <ul id="marquee" class="marquee cur">
-            <li class="marquee-showing" style="top: 0px; left: -5.22px;"><table border="0"><tbody><tr><td><div style="width: 1366px;"></div></td><td>EURUSD&nbsp;<span class="live-up">1.31745&nbsp;|&nbsp;1.31745</span><b>:</b></td><td>GBPUSD&nbsp;<span class="live-up">1.55482&nbsp;|&nbsp;1.55484</span><b>:</b></td><td>USDJPY&nbsp;<span class="live-up">97.239&nbsp;|&nbsp;97.245</span><b>:</b></td><td>USDCHF&nbsp;<span class="live-down">0.92774&nbsp;|&nbsp;0.92778</span><b>:</b></td><td>USDCAD&nbsp;<span class="live-down">1.00837&nbsp;|&nbsp;1.00841</span><b>:</b></td><td>AUDUSD&nbsp;<span class="live-up">1.02319&nbsp;|&nbsp;1.02325</span><b>:</b></td><td>NZDUSD&nbsp;<span class="live-down">0.84857&nbsp;|&nbsp;0.84864</span><b>:</b></td><td>GBPCHF&nbsp;<span class="live-up">1.44245&nbsp;|&nbsp;1.44254</span><b>:</b></td><td>GBPJPY&nbsp;<span class="live-down">151.190&nbsp;|&nbsp;151.196</span><b>:</b></td><td>EURCHF&nbsp;<span class="live-up">1.22224&nbsp;|&nbsp;1.22230</span><b>:</b></td><td>EURAUD&nbsp;<span class="live-up">1.28752&nbsp;|&nbsp;1.28758</span><b>:</b></td><td>EURGBP&nbsp;<span class="live-up">0.84731&nbsp;|&nbsp;0.84734</span><b>:</b></td><td>EURJPY&nbsp;<span class="live-up">128.112&nbsp;|&nbsp;128.115</span><b>:</b></td><td>EURCAD&nbsp;<span class="live-up">1.32848&nbsp;|&nbsp;1.32865</span><b>:</b></td><td>GOLD&nbsp;<span class="live-up">1453.04&nbsp;|&nbsp;1453.20</span><b>:</b></td><td>&nbsp;<span class="live-postfix">powered&nbsp;by&nbsp;FXOpen</span><b>:</b></td></tr></tbody></table></li></ul>
-            
-        </div>
-        <input type="hidden" name="ctl00$ctl00$HiddenFieldMarquee" id="ctl00_ctl00_HiddenFieldMarquee" value="[{'key':'EURUSD','classStyle':'live-up','text':'1.31745&amp;nbsp;|&amp;nbsp;1.31745'},{'key':'GBPUSD','classStyle':'live-up','text':'1.55482&amp;nbsp;|&amp;nbsp;1.55484'},{'key':'USDJPY','classStyle':'live-up','text':'97.239&amp;nbsp;|&amp;nbsp;97.245'},{'key':'USDCHF','classStyle':'live-down','text':'0.92774&amp;nbsp;|&amp;nbsp;0.92778'},{'key':'USDCAD','classStyle':'live-down','text':'1.00837&amp;nbsp;|&amp;nbsp;1.00841'},{'key':'AUDUSD','classStyle':'live-up','text':'1.02319&amp;nbsp;|&amp;nbsp;1.02325'},{'key':'NZDUSD','classStyle':'live-down','text':'0.84857&amp;nbsp;|&amp;nbsp;0.84864'},{'key':'GBPCHF','classStyle':'live-up','text':'1.44245&amp;nbsp;|&amp;nbsp;1.44254'},{'key':'GBPJPY','classStyle':'live-down','text':'151.190&amp;nbsp;|&amp;nbsp;151.196'},{'key':'EURCHF','classStyle':'live-up','text':'1.22224&amp;nbsp;|&amp;nbsp;1.22230'},{'key':'EURAUD','classStyle':'live-up','text':'1.28752&amp;nbsp;|&amp;nbsp;1.28758'},{'key':'EURGBP','classStyle':'live-up','text':'0.84731&amp;nbsp;|&amp;nbsp;0.84734'},{'key':'EURJPY','classStyle':'live-up','text':'128.112&amp;nbsp;|&amp;nbsp;128.115'},{'key':'EURCAD','classStyle':'live-up','text':'1.32848&amp;nbsp;|&amp;nbsp;1.32865'},{'key':'GOLD','classStyle':'live-up','text':'1453.04&amp;nbsp;|&amp;nbsp;1453.20'},{'key':'','classStyle':'live-postfix','text':'powered&amp;nbsp;by&amp;nbsp;FXOpen'}]">
-        <input type="hidden" name="ctl00$ctl00$HiddenFieldMarqueeShowSpeed" id="ctl00_ctl00_HiddenFieldMarqueeShowSpeed" value="1">
-        <input type="hidden" name="ctl00$ctl00$HiddenFieldMarqueeScrollSpeed" id="ctl00_ctl00_HiddenFieldMarqueeScrollSpeed" value="50">
-        <input type="hidden" name="ctl00$ctl00$HiddenFieldMarqueePauseSpeed" id="ctl00_ctl00_HiddenFieldMarqueePauseSpeed" value="1">
-        <input type="hidden" name="ctl00$ctl00$HiddenFieldAnchorTitle" id="ctl00_ctl00_HiddenFieldAnchorTitle" value="Add to Favorites">
-        <script type="text/javascript">
-            $(document).ready(function () {
-                document.getElementById('ctl00_ctl00_HiddenFieldAnchorTitle').value = document.getElementById('ctl00_ctl00_HtmlAnchorBookmark').title;
-            });
-            function restoreTitleBookmark() {
-                document.getElementById('ctl00_ctl00_HtmlAnchorBookmark').title = document.getElementById('ctl00_ctl00_HiddenFieldAnchorTitle').value;
-            }
-        </script>
-        <script type="text/javascript">
-            $(document).ready(function () {
-                onloadForm();
-            });
-            function onloadForm() {
-                window.onresize = winResize;
-                var marqueeId = 'marquee';
-                var marqueeQj = "#" + marqueeId;
-                var divUl = document.getElementById(marqueeId);
-                var divLi = document.createElement("li");
-                divUl.appendChild(divLi);
-                var divTable = document.createElement("table");
-                divTable.border = "0";
-                divTable.cellpadding = "0";
-                divTable.cellspacing = "0";
-                divLi.appendChild(divTable);
-                var tr = divTable.insertRow(0);
-                var firstTd = divTable.rows[0].insertCell(divTable.rows[0].cells.length);
-                marqueeConst.firstElement = document.createElement("div");
-                firstTd.appendChild(marqueeConst.firstElement);
-                var ShowSpeedValue = document.getElementById('ctl00_ctl00_HiddenFieldMarqueeShowSpeed').value;
-                var ScrollSpeedValue = document.getElementById('ctl00_ctl00_HiddenFieldMarqueeScrollSpeed').value;
-                var PauseSpeedValue = document.getElementById('ctl00_ctl00_HiddenFieldMarqueePauseSpeed').value;
+            <!-- / navigation -->
+            <!-- live block -->
+            <div class="live-air">
+                
+                <ul id="marquee" class="marquee cur">
+                <li class="marquee-showing" style="top: 0px; left: -4.42px;"><table border="0"><tbody><tr><td><div style="width: 1366px;"></div></td><td>EURUSD&nbsp;<span class="live-up">1.35092&nbsp;|&nbsp;1.35093</span><b>:</b></td><td>GBPUSD&nbsp;<span class="live-up">1.59571&nbsp;|&nbsp;1.59576</span><b>:</b></td><td>USDJPY&nbsp;<span class="live-up">98.663&nbsp;|&nbsp;98.664</span><b>:</b></td><td>USDCHF&nbsp;<span class="live-down">0.91163&nbsp;|&nbsp;0.91168</span><b>:</b></td><td>USDCAD&nbsp;<span class="live-down">1.04100&nbsp;|&nbsp;1.04101</span><b>:</b></td><td>AUDUSD&nbsp;<span class="live-down">0.94914&nbsp;|&nbsp;0.94915</span><b>:</b></td><td>NZDUSD&nbsp;<span class="live-up">0.82902&nbsp;|&nbsp;0.82908</span><b>:</b></td><td>GBPCHF&nbsp;<span class="live-down">1.45473&nbsp;|&nbsp;1.45490</span><b>:</b></td><td>GBPJPY&nbsp;<span class="live-down">157.434&nbsp;|&nbsp;157.444</span><b>:</b></td><td>EURCHF&nbsp;<span class="live-up">1.23157&nbsp;|&nbsp;1.23162</span><b>:</b></td><td>EURAUD&nbsp;<span class="live-up">1.42323&nbsp;|&nbsp;1.42324</span><b>:</b></td><td>EURGBP&nbsp;<span class="live-up">0.84657&nbsp;|&nbsp;0.84658</span><b>:</b></td><td>EURJPY&nbsp;<span class="live-up">133.282&nbsp;|&nbsp;133.287</span><b>:</b></td><td>EURCAD&nbsp;<span class="live-up">1.40631&nbsp;|&nbsp;1.40638</span><b>:</b></td><td>GOLD&nbsp;<span class="live-up">1314.96&nbsp;|&nbsp;1315.18</span><b>:</b></td><td>&nbsp;<span class="live-postfix">powered&nbsp;by&nbsp;FXOpen</span><b>:</b></td></tr></tbody></table></li></ul>
+                
+            </div>
+            <input type="hidden" name="ctl00$ctl00$HiddenFieldMarquee" id="ctl00_ctl00_HiddenFieldMarquee" value="[{'key':'EURUSD','classStyle':'live-up','text':'1.35092&amp;nbsp;|&amp;nbsp;1.35093'},{'key':'GBPUSD','classStyle':'live-up','text':'1.59571&amp;nbsp;|&amp;nbsp;1.59576'},{'key':'USDJPY','classStyle':'live-up','text':'98.663&amp;nbsp;|&amp;nbsp;98.664'},{'key':'USDCHF','classStyle':'live-down','text':'0.91163&amp;nbsp;|&amp;nbsp;0.91168'},{'key':'USDCAD','classStyle':'live-down','text':'1.04100&amp;nbsp;|&amp;nbsp;1.04101'},{'key':'AUDUSD','classStyle':'live-down','text':'0.94914&amp;nbsp;|&amp;nbsp;0.94915'},{'key':'NZDUSD','classStyle':'live-up','text':'0.82902&amp;nbsp;|&amp;nbsp;0.82908'},{'key':'GBPCHF','classStyle':'live-down','text':'1.45473&amp;nbsp;|&amp;nbsp;1.45490'},{'key':'GBPJPY','classStyle':'live-down','text':'157.434&amp;nbsp;|&amp;nbsp;157.444'},{'key':'EURCHF','classStyle':'live-up','text':'1.23157&amp;nbsp;|&amp;nbsp;1.23162'},{'key':'EURAUD','classStyle':'live-up','text':'1.42323&amp;nbsp;|&amp;nbsp;1.42324'},{'key':'EURGBP','classStyle':'live-up','text':'0.84657&amp;nbsp;|&amp;nbsp;0.84658'},{'key':'EURJPY','classStyle':'live-up','text':'133.282&amp;nbsp;|&amp;nbsp;133.287'},{'key':'EURCAD','classStyle':'live-up','text':'1.40631&amp;nbsp;|&amp;nbsp;1.40638'},{'key':'GOLD','classStyle':'live-up','text':'1314.96&amp;nbsp;|&amp;nbsp;1315.18'},{'key':'','classStyle':'live-postfix','text':'powered&amp;nbsp;by&amp;nbsp;FXOpen'}]">
+            <input type="hidden" name="ctl00$ctl00$HiddenFieldMarqueeShowSpeed" id="ctl00_ctl00_HiddenFieldMarqueeShowSpeed" value="1">
+            <input type="hidden" name="ctl00$ctl00$HiddenFieldMarqueeScrollSpeed" id="ctl00_ctl00_HiddenFieldMarqueeScrollSpeed" value="50">
+            <input type="hidden" name="ctl00$ctl00$HiddenFieldMarqueePauseSpeed" id="ctl00_ctl00_HiddenFieldMarqueePauseSpeed" value="1">
+            <input type="hidden" name="ctl00$ctl00$HiddenFieldAnchorTitle" id="ctl00_ctl00_HiddenFieldAnchorTitle" value="Add to Favorites">
+            <script type="text/javascript">
                 $(document).ready(function () {
-                    $(marqueeQj).marquee({ showSpeed: ShowSpeedValue, scrollSpeed: ScrollSpeedValue, pauseSpeed: PauseSpeedValue, beforeshow: beforeshowMarquee });
+                    document.getElementById('ctl00_ctl00_HiddenFieldAnchorTitle').value = document.getElementById('ctl00_ctl00_HtmlAnchorBookmark').title;
                 });
-                Addmarquee(marqueeQj, divTable);
-                if (document.getElementById("cj-block") == null)
-                    CalendarObj.createHTMLCalendar();
+                function restoreTitleBookmark() {
+                    document.getElementById('ctl00_ctl00_HtmlAnchorBookmark').title = document.getElementById('ctl00_ctl00_HiddenFieldAnchorTitle').value;
             }
-            function Addmarquee(selector, divTable) {
-                eval("var dataMas = " + document.getElementById('ctl00_ctl00_HiddenFieldMarquee').value);
+            </script>
+            <script type="text/javascript">
+                $(document).ready(function () {
+                    onloadForm();
+                });
+                function onloadForm() {
+                    window.onresize = winResize;
+                    var marqueeId = 'marquee';
+                    var marqueeQj = "#" + marqueeId;
+                    var divUl = document.getElementById(marqueeId);
+                    var divLi = document.createElement("li");
+                    divUl.appendChild(divLi);
+                    var divTable = document.createElement("table");
+                    divTable.border = "0";
+                    divTable.cellpadding = "0";
+                    divTable.cellspacing = "0";
+                    divLi.appendChild(divTable);
+                    var tr = divTable.insertRow(0);
+                    var firstTd = divTable.rows[0].insertCell(divTable.rows[0].cells.length);
+                    marqueeConst.firstElement = document.createElement("div");
+                    firstTd.appendChild(marqueeConst.firstElement);
+                    var ShowSpeedValue = document.getElementById('ctl00_ctl00_HiddenFieldMarqueeShowSpeed').value;
+                    var ScrollSpeedValue = document.getElementById('ctl00_ctl00_HiddenFieldMarqueeScrollSpeed').value;
+                    var PauseSpeedValue = document.getElementById('ctl00_ctl00_HiddenFieldMarqueePauseSpeed').value;
+                    $(document).ready(function () {
+                        $(marqueeQj).marquee({ showSpeed: ShowSpeedValue, scrollSpeed: ScrollSpeedValue, pauseSpeed: PauseSpeedValue, beforeshow: beforeshowMarquee });
+                    });
+                    Addmarquee(marqueeQj, divTable);
+                    if (document.getElementById("cj-block") == null)
+                        CalendarObj.createHTMLCalendar();
+                }
+                function Addmarquee(selector, divTable) {
+                    eval("var dataMas = " + document.getElementById('ctl00_ctl00_HiddenFieldMarquee').value);
                 $(selector).marquee('pause');
                 for (var i = 0; i < dataMas.length; i++) {
                     var td = divTable.rows[0].insertCell(divTable.rows[0].cells.length);
@@ -465,14 +578,14 @@ b.contentWindow[g];t.write(p());t.close()}catch(x){b[k]=o+'d.write("'+p().replac
                 setPositionCalendar();
             }
 
-            
 
-        </script>
-        <!-- / live block -->
-        <!-- middle block -->
-        <div class="middle-bg">
-            <div class="middle cfix">
-                
+
+            </script>
+            <!-- / live block -->
+            <!-- middle block -->
+            <div class="middle-bg">
+                <div class="middle cfix">
+                    
 <div class="outer">
         <!-- middle block -->
         <div class="middle-bg">
@@ -539,28 +652,28 @@ In exceptional cases a refund can be done by request from Credit/Debit card orga
     <!--  -->
     <h2 class="o-title rss-ico">
         <span>
-            <a id="ctl00_ctl00_ContentPlaceHolder1_ScrollControlLive_HyperLinkLive" class="ico" href="rss.ashx?Type=LiveNews&amp;culture=th"></a>
-            ลงทะเบียนรับข่าว
+            <a id="ctl00_ctl00_ContentPlaceHolder1_ScrollControlLive_HyperLinkLive" class="ico" href="rss.ashx?Type=LiveNews&amp;culture=ru"></a>
+            Подписаться на новости
         </span>
     </h2>
     <div class="subs-analitycs">
         <div>
-            <div id="ctl00$ctl00$ContentPlaceHolder1$ScrollControlLive$PageNewsControl" style="position:relative;height:50px;width:175px;border-width:1px;border-style:None;overflow:hidden;"><div id="ns1_ctl00$ctl00$ContentPlaceHolder1$ScrollControlLive$PageNewsControl" style="left: 0px; width: 163px; top: 0px; height: 47px; position: absolute; border-style: none; margin: 0px 3px 3px 9px; padding: 3px 0px 0px;"><a href="http://www.fxopen.com/livenews.aspx?id=d399c1bf-02bc-42fb-be6c-e8da53f16507&amp;Culture=th">Forex: AUD/USD falls to 1.0220 on China GDP chatter</a><br></div>
-<div id="ns2_ctl00$ctl00$ContentPlaceHolder1$ScrollControlLive$PageNewsControl" style="left: 0px; width: 163px; top: 52px; height: 47px; position: absolute; border-style: none; margin: 0px 3px 3px 9px; padding: 3px 0px 0px;"><a href="http://www.fxopen.com/livenews.aspx?id=bbb9d586-25ba-4b90-9b8d-a0094a9a64d6&amp;Culture=th">Forex: &nbsp;Will additional liquidity measures be taken outside of an ECB Rate Cut?</a><br></div>
+            <div id="ctl00$ctl00$ContentPlaceHolder1$ScrollControlLive$PageNewsControl" style="position:relative;height:50px;width:175px;border-width:1px;border-style:None;overflow:hidden;"><div id="ns1_ctl00$ctl00$ContentPlaceHolder1$ScrollControlLive$PageNewsControl" style="left: 0px; width: 163px; top: 0px; height: 47px; position: absolute; border-style: none; margin: 0px 3px 3px 9px; padding: 3px 0px 0px;"><a href="http://www.fxopen.com/livenews.aspx?id=be1e5d43-6ca5-4b86-bb32-51c0a97c8899&amp;Culture=ru">Flash: USD/JPY may attempt to push gingerly higher - OCBC</a><br></div>
+<div id="ns2_ctl00$ctl00$ContentPlaceHolder1$ScrollControlLive$PageNewsControl" style="left: 0px; width: 163px; top: 52px; height: 47px; position: absolute; border-style: none; margin: 0px 3px 3px 9px; padding: 3px 0px 0px;"><a href="http://www.fxopen.com/livenews.aspx?id=ee575bda-b1df-4f3e-be5b-0ac7821e7965&amp;Culture=ru">EU October Sentix Investor Confidence increase to 9.3 vs 6.1</a><br></div>
 </div>
 <script language="javascript" type="text/javascript">
 <!--
 nma_ctl00$ctl00$ContentPlaceHolder1$ScrollControlLive$PageNewsControl=new Array();
-nma_ctl00$ctl00$ContentPlaceHolder1$ScrollControlLive$PageNewsControl[0]="<a href=\"http://www.fxopen.com/livenews.aspx?id=d399c1bf-02bc-42fb-be6c-e8da53f16507&Culture=th\">Forex: AUD/USD falls to 1.0220 on China GDP chatter</a><br>";
-nma_ctl00$ctl00$ContentPlaceHolder1$ScrollControlLive$PageNewsControl[1]="<a href=\"http://www.fxopen.com/livenews.aspx?id=bbb9d586-25ba-4b90-9b8d-a0094a9a64d6&Culture=th\">Forex: &nbsp;Will additional liquidity measures be taken outside of an ECB Rate Cut?</a><br>";
-nma_ctl00$ctl00$ContentPlaceHolder1$ScrollControlLive$PageNewsControl[2]="<a href=\"http://www.fxopen.com/livenews.aspx?id=3e1024fe-7b1a-467f-8895-a62f81f4c920&Culture=th\">Forex: AUD/NZD, 1.2060 support under threat</a><br>";
-nma_ctl00$ctl00$ContentPlaceHolder1$ScrollControlLive$PageNewsControl[3]="<a href=\"http://www.fxopen.com/livenews.aspx?id=4c250ab3-c5fe-48f3-baaf-405bd86ceba1&Culture=th\">Session Recap: USD resumes the recovery; Soft local data disappoints</a><br>";
-nma_ctl00$ctl00$ContentPlaceHolder1$ScrollControlLive$PageNewsControl[4]="<a href=\"http://www.fxopen.com/livenews.aspx?id=2c76eafa-36a6-4d3f-855a-14d7a104bf98&Culture=th\">Forex: &nbsp;EUR/AUD completes “bull flag” pattern on daily chart, targets 1.3050</a><br>";
-nma_ctl00$ctl00$ContentPlaceHolder1$ScrollControlLive$PageNewsControl[5]="<a href=\"http://www.fxopen.com/livenews.aspx?id=0f89e428-1df6-43cf-b38b-2b213ab133ee&Culture=th\">Forex Flash: &nbsp;Australia Building Approvals losing momentum - NAB</a><br>";
-nma_ctl00$ctl00$ContentPlaceHolder1$ScrollControlLive$PageNewsControl[6]="<a href=\"http://www.fxopen.com/livenews.aspx?id=bc98ce8e-8b52-450e-bedc-c596990426ce&Culture=th\">Forex Flash: AUD/USD to range lower between 1.00/1.04 - RBS</a><br>";
-nma_ctl00$ctl00$ContentPlaceHolder1$ScrollControlLive$PageNewsControl[7]="<a href=\"http://www.fxopen.com/livenews.aspx?id=7e2dfba4-13d0-4b3f-a030-d28017f51cd9&Culture=th\">Forex: &nbsp;GBP/USD - Another day of gains, but unable to take out 1.5600 resistance</a><br>";
-nma_ctl00$ctl00$ContentPlaceHolder1$ScrollControlLive$PageNewsControl[8]="<a href=\"http://www.fxopen.com/livenews.aspx?id=d09f240f-c34c-4627-972b-8f9893d69167&Culture=th\">Forex: &nbsp;AUD/USD continues to lose ground in Asia session</a><br>";
-nma_ctl00$ctl00$ContentPlaceHolder1$ScrollControlLive$PageNewsControl[9]="<a href=\"http://www.fxopen.com/livenews.aspx?id=69ab61de-3985-451b-a2e1-6a0afc6da1a0&Culture=th\">Forex Flash: &nbsp;The AUD/USD is not particularly ‘expensive’ - NAB</a><br>";
+nma_ctl00$ctl00$ContentPlaceHolder1$ScrollControlLive$PageNewsControl[0]="<a href=\"http://www.fxopen.com/livenews.aspx?id=be1e5d43-6ca5-4b86-bb32-51c0a97c8899&Culture=ru\">Flash: USD/JPY may attempt to push gingerly higher - OCBC</a><br>";
+nma_ctl00$ctl00$ContentPlaceHolder1$ScrollControlLive$PageNewsControl[1]="<a href=\"http://www.fxopen.com/livenews.aspx?id=ee575bda-b1df-4f3e-be5b-0ac7821e7965&Culture=ru\">EU October Sentix Investor Confidence increase to 9.3 vs 6.1</a><br>";
+nma_ctl00$ctl00$ContentPlaceHolder1$ScrollControlLive$PageNewsControl[2]="<a href=\"http://www.fxopen.com/livenews.aspx?id=3a68a614-eb0e-49a7-bb60-4c0be39655bb&Culture=ru\">United Kingdom PMI Construction improves to 59.4 in October from 58.9 in September</a><br>";
+nma_ctl00$ctl00$ContentPlaceHolder1$ScrollControlLive$PageNewsControl[3]="<a href=\"http://www.fxopen.com/livenews.aspx?id=cd37036e-5a95-4b10-aca3-eb9332ef53fe&Culture=ru\">USD/CHF retreats near to opening levels as EUR/USD strikes back</a><br>";
+nma_ctl00$ctl00$ContentPlaceHolder1$ScrollControlLive$PageNewsControl[4]="<a href=\"http://www.fxopen.com/livenews.aspx?id=c487721e-dc62-4558-88b8-b354ef636258&Culture=ru\">Flash: USD/JPY amidst range bound but bid in the range – Commerzbank</a><br>";
+nma_ctl00$ctl00$ContentPlaceHolder1$ScrollControlLive$PageNewsControl[5]="<a href=\"http://www.fxopen.com/livenews.aspx?id=10a49430-1f8a-467f-b218-394d0c29e4b6&Culture=ru\">EUR/USD above 1.3500 on mixed PMI</a><br>";
+nma_ctl00$ctl00$ContentPlaceHolder1$ScrollControlLive$PageNewsControl[6]="<a href=\"http://www.fxopen.com/livenews.aspx?id=ca0efab8-586b-4c0e-8f86-6dc7d07e0d53&Culture=ru\">Flash: USD/JPY susceptible to Federal Reserve commentary - BTMU</a><br>";
+nma_ctl00$ctl00$ContentPlaceHolder1$ScrollControlLive$PageNewsControl[7]="<a href=\"http://www.fxopen.com/livenews.aspx?id=1753b360-979b-4c66-b1b0-e6f452c6eac4&Culture=ru\">EMU: PMI Manufacturing rises to 51.3 in October, as expected</a><br>";
+nma_ctl00$ctl00$ContentPlaceHolder1$ScrollControlLive$PageNewsControl[8]="<a href=\"http://www.fxopen.com/livenews.aspx?id=7f45f5d2-418e-460a-9921-9bde2f8ac08f&Culture=ru\">Germany: PMI Manufacturing improves to 51.7 in October</a><br>";
+nma_ctl00$ctl00$ContentPlaceHolder1$ScrollControlLive$PageNewsControl[9]="<a href=\"http://www.fxopen.com/livenews.aspx?id=3077fbea-683e-4fc3-ab10-bb765c291d0b&Culture=ru\">EU October Markit Manufacturing PMI up to 51.3 vs 51.1 (September)</a><br>";
 cnt_ctl00$ctl00$ContentPlaceHolder1$ScrollControlLive$PageNewsControl=0;
 function loadScrollctl00$ctl00$ContentPlaceHolder1$ScrollControlLive$PageNewsControl(){
 var div1_ctl00$ctl00$ContentPlaceHolder1$ScrollControlLive$PageNewsControl=document.getElementById("ns1_ctl00$ctl00$ContentPlaceHolder1$ScrollControlLive$PageNewsControl");var div2_ctl00$ctl00$ContentPlaceHolder1$ScrollControlLive$PageNewsControl=document.getElementById("ns2_ctl00$ctl00$ContentPlaceHolder1$ScrollControlLive$PageNewsControl");
@@ -586,31 +699,31 @@ vdiv2_ctl00$ctl00$ContentPlaceHolder1$ScrollControlLive$PageNewsControl.style.to
 
 
                             
-<!--  -->
+
 <h2 class="o-title rss-ico">
 	<span>
-		<a id="ctl00_ctl00_ContentPlaceHolder1_AnalyticsControlLive_HyperLinkLive" class="ico" href="rss.ashx?Type=Analytics&amp;culture=th"></a>
-		ลงทะเบียนรับบทวิเคราะห์
+		<a id="ctl00_ctl00_ContentPlaceHolder1_AnalyticsControlLive_HyperLinkLive" class="ico" href="rss.ashx?Type=Analytics&amp;culture=ru"></a>
+		Подписаться на аналитику
 	</span>
 </h2>
 <div class="subs-analitycs">
 	<div>
-		<div id="ctl00$ctl00$ContentPlaceHolder1$AnalyticsControlLive$PageNewsControl" style="position:relative;height:42px;width:177px;border-width:1px;border-style:None;overflow:hidden;"><div id="ns1_ctl00$ctl00$ContentPlaceHolder1$AnalyticsControlLive$PageNewsControl" style="left: 0px; width: 165px; top: 0px; height: 39px; position: absolute; border-style: none; margin: 0px 3px 3px 9px; padding: 3px 0px 0px;"><a href="http://www.fxopen.com/analytics.aspx?id=840e07f5-055d-4bbc-9a45-77c0b6d1ffc9&amp;Culture=th">GBPUSD Daily Forecast: May 02</a><br></div>
-<div id="ns2_ctl00$ctl00$ContentPlaceHolder1$AnalyticsControlLive$PageNewsControl" style="left: 0px; width: 165px; top: 46px; height: 39px; position: absolute; border-style: none; margin: 0px 3px 3px 9px; padding: 3px 0px 0px;"><a href="http://www.fxopen.com/analytics.aspx?id=4bcbbc4a-becd-464a-bd71-77f40f8e6929&amp;Culture=th">USDJPY Daily Forecast: May 02</a><br></div>
+		<div id="ctl00$ctl00$ContentPlaceHolder1$AnalyticsControlLive$PageNewsControl" style="position:relative;height:42px;width:177px;border-width:1px;border-style:None;overflow:hidden;"><div id="ns1_ctl00$ctl00$ContentPlaceHolder1$AnalyticsControlLive$PageNewsControl" style="left: 0px; width: 165px; top: 0px; height: 39px; position: absolute; border-style: none; margin: 0px 3px 3px 9px; padding: 3px 0px 0px;"><a href="http://www.fxopen.com/analytics.aspx?id=c634a1fc-d0c0-4f49-8d7d-1711e455a58d&amp;Culture=ru">EURUSD Daily Forecast: November 04</a><br></div>
+<div id="ns2_ctl00$ctl00$ContentPlaceHolder1$AnalyticsControlLive$PageNewsControl" style="left: 0px; width: 165px; top: 46px; height: 39px; position: absolute; border-style: none; margin: 0px 3px 3px 9px; padding: 3px 0px 0px;"><a href="http://www.fxopen.com/analytics.aspx?id=2787abed-5839-405e-91ca-1a80071fa930&amp;Culture=ru">GBPUSD Daily Forecast: November 04</a><br></div>
 </div>
 <script language="javascript" type="text/javascript">
 <!--
 nma_ctl00$ctl00$ContentPlaceHolder1$AnalyticsControlLive$PageNewsControl=new Array();
-nma_ctl00$ctl00$ContentPlaceHolder1$AnalyticsControlLive$PageNewsControl[0]="<a href=\"http://www.fxopen.com/analytics.aspx?id=840e07f5-055d-4bbc-9a45-77c0b6d1ffc9&Culture=th\">GBPUSD Daily Forecast: May 02</a><br>";
-nma_ctl00$ctl00$ContentPlaceHolder1$AnalyticsControlLive$PageNewsControl[1]="<a href=\"http://www.fxopen.com/analytics.aspx?id=4bcbbc4a-becd-464a-bd71-77f40f8e6929&Culture=th\">USDJPY Daily Forecast: May 02</a><br>";
-nma_ctl00$ctl00$ContentPlaceHolder1$AnalyticsControlLive$PageNewsControl[2]="<a href=\"http://www.fxopen.com/analytics.aspx?id=f6384642-5033-4d6d-b0b7-fbb9beed19f8&Culture=th\">USDCHF Daily Forecast: May 02</a><br>";
-nma_ctl00$ctl00$ContentPlaceHolder1$AnalyticsControlLive$PageNewsControl[3]="<a href=\"http://www.fxopen.com/analytics.aspx?id=cd3cdb03-e179-435b-bca1-1533203736db&Culture=th\">EURUSD Daily Forecast: May 01</a><br>";
-nma_ctl00$ctl00$ContentPlaceHolder1$AnalyticsControlLive$PageNewsControl[4]="<a href=\"http://www.fxopen.com/analytics.aspx?id=8fddf18f-f7c8-47d3-a583-f35c21a3eff8&Culture=th\">GBPUSD Daily Forecast: May 01</a><br>";
-nma_ctl00$ctl00$ContentPlaceHolder1$AnalyticsControlLive$PageNewsControl[5]="<a href=\"http://www.fxopen.com/analytics.aspx?id=be869d19-c0e7-4139-bc00-56d3a87e9ac2&Culture=th\">USDJPY Daily Forecast: May 01</a><br>";
-nma_ctl00$ctl00$ContentPlaceHolder1$AnalyticsControlLive$PageNewsControl[6]="<a href=\"http://www.fxopen.com/analytics.aspx?id=9a7a2170-d1b0-4af8-8043-10ea2a69765e&Culture=th\">USDCHF Daily Forecast: May 01</a><br>";
-nma_ctl00$ctl00$ContentPlaceHolder1$AnalyticsControlLive$PageNewsControl[7]="<a href=\"http://www.fxopen.com/analytics.aspx?id=9c078319-7e6b-4299-84ce-50ced094b8bf&Culture=th\">EURUSD Daily Forecast: April 30</a><br>";
-nma_ctl00$ctl00$ContentPlaceHolder1$AnalyticsControlLive$PageNewsControl[8]="<a href=\"http://www.fxopen.com/analytics.aspx?id=510b4c06-a038-4f1e-bae2-a3938e29a044&Culture=th\">GBPUSD Daily Forecast: April 30</a><br>";
-nma_ctl00$ctl00$ContentPlaceHolder1$AnalyticsControlLive$PageNewsControl[9]="<a href=\"http://www.fxopen.com/analytics.aspx?id=0267bf41-f81b-4da3-8c1f-311f30b30db3&Culture=th\">USDJPY Daily Forecast: April 30</a><br>";
+nma_ctl00$ctl00$ContentPlaceHolder1$AnalyticsControlLive$PageNewsControl[0]="<a href=\"http://www.fxopen.com/analytics.aspx?id=c634a1fc-d0c0-4f49-8d7d-1711e455a58d&Culture=ru\">EURUSD Daily Forecast: November 04</a><br>";
+nma_ctl00$ctl00$ContentPlaceHolder1$AnalyticsControlLive$PageNewsControl[1]="<a href=\"http://www.fxopen.com/analytics.aspx?id=2787abed-5839-405e-91ca-1a80071fa930&Culture=ru\">GBPUSD Daily Forecast: November 04</a><br>";
+nma_ctl00$ctl00$ContentPlaceHolder1$AnalyticsControlLive$PageNewsControl[2]="<a href=\"http://www.fxopen.com/analytics.aspx?id=06e43c0b-fb51-481f-88f4-ceef281704d5&Culture=ru\">USDJPY Daily Forecast: November 04</a><br>";
+nma_ctl00$ctl00$ContentPlaceHolder1$AnalyticsControlLive$PageNewsControl[3]="<a href=\"http://www.fxopen.com/analytics.aspx?id=d7577f5c-62aa-451e-b543-8523fe845ebe&Culture=ru\">USDCHF Daily Forecast: November 04</a><br>";
+nma_ctl00$ctl00$ContentPlaceHolder1$AnalyticsControlLive$PageNewsControl[4]="<a href=\"http://www.fxopen.com/analytics.aspx?id=15b425c4-08bd-4272-a11c-7911c127fab0&Culture=ru\">EUR/USD Forecast November 4</a><br>";
+nma_ctl00$ctl00$ContentPlaceHolder1$AnalyticsControlLive$PageNewsControl[5]="<a href=\"http://www.fxopen.com/analytics.aspx?id=7929a7e8-0da0-4e96-bac5-0caca4b2dd63&Culture=ru\">AUD/USD Forecast November 4</a><br>";
+nma_ctl00$ctl00$ContentPlaceHolder1$AnalyticsControlLive$PageNewsControl[6]="<a href=\"http://www.fxopen.com/analytics.aspx?id=e1632584-456c-48bf-97eb-0dac9e5ff258&Culture=ru\">EURUSD Daily Forecast: November 01</a><br>";
+nma_ctl00$ctl00$ContentPlaceHolder1$AnalyticsControlLive$PageNewsControl[7]="<a href=\"http://www.fxopen.com/analytics.aspx?id=d8896d46-1f83-4c22-98eb-a9ddab612985&Culture=ru\">GBPUSD Daily Forecast: November 01</a><br>";
+nma_ctl00$ctl00$ContentPlaceHolder1$AnalyticsControlLive$PageNewsControl[8]="<a href=\"http://www.fxopen.com/analytics.aspx?id=8b35e48f-38aa-4854-bdcd-e5691a673cdd&Culture=ru\">USDJPY Daily Forecast: November 01</a><br>";
+nma_ctl00$ctl00$ContentPlaceHolder1$AnalyticsControlLive$PageNewsControl[9]="<a href=\"http://www.fxopen.com/analytics.aspx?id=4dd7d2d9-967f-4fbd-afdf-e3002d36918c&Culture=ru\">USDCHF Daily Forecast: November 01</a><br>";
 cnt_ctl00$ctl00$ContentPlaceHolder1$AnalyticsControlLive$PageNewsControl=0;
 function loadScrollctl00$ctl00$ContentPlaceHolder1$AnalyticsControlLive$PageNewsControl(){
 var div1_ctl00$ctl00$ContentPlaceHolder1$AnalyticsControlLive$PageNewsControl=document.getElementById("ns1_ctl00$ctl00$ContentPlaceHolder1$AnalyticsControlLive$PageNewsControl");var div2_ctl00$ctl00$ContentPlaceHolder1$AnalyticsControlLive$PageNewsControl=document.getElementById("ns2_ctl00$ctl00$ContentPlaceHolder1$AnalyticsControlLive$PageNewsControl");
@@ -669,17 +782,17 @@ vdiv2_ctl00$ctl00$ContentPlaceHolder1$AnalyticsControlLive$PageNewsControl.style
 <object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" height="91" width="177" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=10,0,0,0" id="logo" align="top" title="Drift Draw">
       <param name="allowScriptAccess" value="sameDomain">
       <param name="allowFullScreen" value="false">
-      <param name="movie" value="ContentImages/ForexCup/en/dodivana_177x91_forexcup_en.swf">
+      <param name="movie" value="ContentImages/ForexCup/ru/dodivana_177x91_forexcup_ru.swf">
       <param name="quality" value="high">
       <param name="scale" value="noborder">
       <param name="wmode" value="transparent">
-      <embed src="ContentImages/ForexCup/en/dodivana_177x91_forexcup_en.swf" quality="high" scale="noborder" wmode="transparent" bgcolor="#ffffff" name="logo" align="middle" allowscriptaccess="sameDomain" allowfullscreen="false" height="91" width="177" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer">
+      <embed src="ContentImages/ForexCup/ru/dodivana_177x91_forexcup_ru.swf" quality="high" scale="noborder" wmode="transparent" bgcolor="#ffffff" name="logo" align="middle" allowscriptaccess="sameDomain" allowfullscreen="false" height="91" width="177" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer">
 </object>
 <!--  -->
 
     <div style="background: transparent; cursor: pointer; position: absolute; top: 0;
         left: 0; z-index: 10; width: 177px; height: 91px;">
-        <a href="http://forexcup.com?Culture=en" class="iflash" target="_blank" style="cursor: pointer;
+        <a href="http://forexcup.com?Culture=ru" class="iflash" target="_blank" style="cursor: pointer;
             display: inline-block; width: 177px; height: 91px;"></a>
     </div>
 </div>
@@ -703,7 +816,7 @@ vdiv2_ctl00$ctl00$ContentPlaceHolder1$AnalyticsControlLive$PageNewsControl.style
 
     <div style="background: transparent; cursor: pointer; position: absolute; top: 0;
         left: 0; z-index: 10; width: 177px; height: 117px;">
-        <a href="http://crm.fxopen.com/KnowledgeBase/Default.aspx?Page=MT4%20Video%20Tutorial&amp;Culture=th" class="iflash" target="_blank" style="cursor: pointer;
+        <a href="http://help.fxopen.com/KnowledgeBase/Default.aspx?Page=MT4%20Video%20Tutorial&amp;Culture=ru" class="iflash" target="_blank" style="cursor: pointer;
             display: inline-block; width: 177px; height: 117px;"></a>
     </div>
 </div>
@@ -712,20 +825,20 @@ vdiv2_ctl00$ctl00$ContentPlaceHolder1$AnalyticsControlLive$PageNewsControl.style
                             <!--  -->
                             <h2 class="o-title">
                                 <span>
-                                    ข้อกำหนดการเทรด
+                                    Условия торговли
                                 </span>
                             </h2>
                             <div class="spec-side">
                                 <div class="ph">
                                 </div>
                                 <div class="text-body">
-                                    							                <p><strong>FXOpen</strong> ให้บริการระบบในการเทรด และข้อเสนอที่ดี แก่นักลงทุนทั่วไป ในระดับเดียวกับกองทุน และสถาบันการเงินขนาดใหญ่</p>
+                                    							                <p><strong>FXOpen</strong> предоставляет частным лицам и компаниям равные условия торговли, которые ранее были доступны только крупным финансовым организациям.</p>
 							            
                                     <div class="lock">
-                                        								                <strong>ตรวจสอบ</strong> เงื่อนไขการเทรด
+                                        								                <strong>Подробные </strong>условия торговли
 								            
                                         <div class="btn">
-                                            <a id="ctl00_ctl00_ContentPlaceHolder1_HyperLink1" href="TradingTerms.aspx"><span>คลิ๊กที่นี่</span></a>
+                                            <a id="ctl00_ctl00_ContentPlaceHolder1_HyperLink1" href="TradingTerms.aspx"><span>Нажмите здесь</span></a>
                                         </div>
                                     </div>
                                 </div>
@@ -741,43 +854,43 @@ vdiv2_ctl00$ctl00$ContentPlaceHolder1$AnalyticsControlLive$PageNewsControl.style
         <!-- /middle block -->
 </div>
 
-            </div>
-        </div>
-        <!-- /middle block -->
-        <!-- bottom nav -->
-        <div class="bottom-nav cfix">
-            <div class="outer">
-                <div class="btm-col-1">
-                    <ul class="cfix">
-                        <li class="frst">
-                            <a id="ctl00_ctl00_HyperLinkBottomPrivacyPolicy" href="PrivacyPolicy.aspx">ความเป็นส่วนตัว</a></li>
-                        <li>
-                            <a id="ctl00_ctl00_HyperLinkBottomTermsOfBusiness" href="Documents.aspx">ข้อกำหนด</a></li>
-                        <li>
-                            <a id="ctl00_ctl00_HyperLinkBottomAMLPolicy" href="AMLPolicy.aspx">AML</a></li>
-                    </ul>
                 </div>
-                <div class="btm-col-2">
-                    <ul id="ctl00_ctl00_TopMenu2_ulTag" class="cfix btm-p-nav">
+            </div>
+            <!-- /middle block -->
+            <!-- bottom nav -->
+            <div class="bottom-nav cfix">
+                <div class="outer">
+                    <div class="btm-col-1">
+                        <ul class="cfix">
+                            <li class="frst">
+                                <a id="ctl00_ctl00_HyperLinkBottomPrivacyPolicy" href="PrivacyPolicy.aspx">Конфиденциальность</a></li>
+                            <li>
+                                <a id="ctl00_ctl00_HyperLinkBottomTermsOfBusiness" href="Documents.aspx">Условия</a></li>
+                            <li>
+                                <a id="ctl00_ctl00_HyperLinkBottomAMLPolicy" href="AMLPolicy.aspx">AML</a></li>
+                        </ul>
+                    </div>
+                    <div class="btm-col-2">
+                        <ul id="ctl00_ctl00_TopMenu2_ulTag" class="cfix btm-p-nav">
     
             <li id="ctl00_ctl00_TopMenu2_RepeaterMainMenu_ctl00_liTag" class="frst">
-                <a id="ctl00_ctl00_TopMenu2_RepeaterMainMenu_ctl00_HyperLink" title="Home" class="top_basic_menu_newA" href="/Default.aspx"><span><span>หน้าแรก</span></span></a>
+                <a id="ctl00_ctl00_TopMenu2_RepeaterMainMenu_ctl00_HyperLink" title="Home" class="top_basic_menu_newA" href="/Default.aspx"><span><span>Главная</span></span></a>
             </li>
         
             <li id="ctl00_ctl00_TopMenu2_RepeaterMainMenu_ctl01_liTag">
-                <a id="ctl00_ctl00_TopMenu2_RepeaterMainMenu_ctl01_HyperLink" title="Forex" class="top_basic_menu_newA" href="/Forex.aspx"><span><span>โฟเร็ก</span></span></a>
+                <a id="ctl00_ctl00_TopMenu2_RepeaterMainMenu_ctl01_HyperLink" title="Forex" class="top_basic_menu_newA" href="/Forex.aspx"><span><span>Форекс</span></span></a>
             </li>
         
             <li id="ctl00_ctl00_TopMenu2_RepeaterMainMenu_ctl02_liTag">
-                <a id="ctl00_ctl00_TopMenu2_RepeaterMainMenu_ctl02_HyperLink" title="Live News" class="top_basic_menu_newA" href="/LiveNews.aspx"><span><span>ข่าว</span></span></a>
+                <a id="ctl00_ctl00_TopMenu2_RepeaterMainMenu_ctl02_HyperLink" title="Live News" class="top_basic_menu_newA" href="/LiveNews.aspx"><span><span>Forex Новости</span></span></a>
             </li>
         
             <li id="ctl00_ctl00_TopMenu2_RepeaterMainMenu_ctl03_liTag">
-                <a id="ctl00_ctl00_TopMenu2_RepeaterMainMenu_ctl03_HyperLink" title="Forum" class="top_basic_menu_newA" href="http://forum.fxopen.com" target="_blank"><span><span>กระดานถามตอบ</span></span></a>
+                <a id="ctl00_ctl00_TopMenu2_RepeaterMainMenu_ctl03_HyperLink" title="Forum" class="top_basic_menu_newA" href="http://forum.fxopen.com" target="_blank"><span><span>Форум</span></span></a>
             </li>
         
             <li id="ctl00_ctl00_TopMenu2_RepeaterMainMenu_ctl04_liTag">
-                <a id="ctl00_ctl00_TopMenu2_RepeaterMainMenu_ctl04_HyperLink" title="Contact Us" class="top_basic_menu_newA" href="/ContactUs.aspx"><span><span>ติดต่อเรา</span></span></a>
+                <a id="ctl00_ctl00_TopMenu2_RepeaterMainMenu_ctl04_HyperLink" title="Contact Us" class="top_basic_menu_newA" href="/ContactUs.aspx"><span><span>Контакты</span></span></a>
             </li>
         
             <li id="ctl00_ctl00_TopMenu2_RepeaterMainMenu_ctl05_liTag">
@@ -786,23 +899,23 @@ vdiv2_ctl00$ctl00$ContentPlaceHolder1$AnalyticsControlLive$PageNewsControl.style
         
 </ul>
 
-                    
+                        
  <ul class="cfix btm-s-nav">
     
             <li id="ctl00_ctl00_BottonMenu1_RepeaterMainMenu_ctl00_liTag" class="frst">
-                <a id="ctl00_ctl00_BottonMenu1_RepeaterMainMenu_ctl00_HyperLink" href="/AboutUs.aspx">About Us</a>
+                <a id="ctl00_ctl00_BottonMenu1_RepeaterMainMenu_ctl00_HyperLink" href="/AboutUs.aspx">О компании</a>
             </li>
         
             <li id="ctl00_ctl00_BottonMenu1_RepeaterMainMenu_ctl01_liTag">
-                <a id="ctl00_ctl00_BottonMenu1_RepeaterMainMenu_ctl01_HyperLink" title="Forex" href="/Forex.aspx">โฟเร็ก</a>
+                <a id="ctl00_ctl00_BottonMenu1_RepeaterMainMenu_ctl01_HyperLink" title="Форекс" href="/Forex.aspx">Форекс</a>
             </li>
         
             <li id="ctl00_ctl00_BottonMenu1_RepeaterMainMenu_ctl02_liTag">
-                <a id="ctl00_ctl00_BottonMenu1_RepeaterMainMenu_ctl02_HyperLink" href="/TerminalMetaTrader4.aspx">Terminal Metatrader 4</a>
+                <a id="ctl00_ctl00_BottonMenu1_RepeaterMainMenu_ctl02_HyperLink" href="/TerminalMetaTrader4.aspx">Торговый терминал</a>
             </li>
         
             <li id="ctl00_ctl00_BottonMenu1_RepeaterMainMenu_ctl03_liTag">
-                <a id="ctl00_ctl00_BottonMenu1_RepeaterMainMenu_ctl03_HyperLink" href="/TradingTerms.aspx">Trading terms</a>
+                <a id="ctl00_ctl00_BottonMenu1_RepeaterMainMenu_ctl03_HyperLink" href="/TradingTerms.aspx">Условия торговли</a>
             </li>
         
             <li id="ctl00_ctl00_BottonMenu1_RepeaterMainMenu_ctl04_liTag">
@@ -810,65 +923,79 @@ vdiv2_ctl00$ctl00$ContentPlaceHolder1$AnalyticsControlLive$PageNewsControl.style
             </li>
         
             <li id="ctl00_ctl00_BottonMenu1_RepeaterMainMenu_ctl05_liTag">
-                <a id="ctl00_ctl00_BottonMenu1_RepeaterMainMenu_ctl05_HyperLink" href="/DepositWithdrawal.aspx">Deposit / Withdrawal</a>
+                <a id="ctl00_ctl00_BottonMenu1_RepeaterMainMenu_ctl05_HyperLink" href="/DepositWithdrawal.aspx">Ввод / Вывод средств</a>
             </li>
         
             <li id="ctl00_ctl00_BottonMenu1_RepeaterMainMenu_ctl06_liTag">
-                <a id="ctl00_ctl00_BottonMenu1_RepeaterMainMenu_ctl06_HyperLink" href="/ForexEducation.aspx">Forex Education</a>
+                <a id="ctl00_ctl00_BottonMenu1_RepeaterMainMenu_ctl06_HyperLink" href="/ForexEducation.aspx">Научись торговать</a>
             </li>
         
             <li id="ctl00_ctl00_BottonMenu1_RepeaterMainMenu_ctl07_liTag">
-                <a id="ctl00_ctl00_BottonMenu1_RepeaterMainMenu_ctl07_HyperLink" href="/Analytics.aspx">Forex Analytics</a>
+                <a id="ctl00_ctl00_BottonMenu1_RepeaterMainMenu_ctl07_HyperLink" href="/Analytics.aspx">Аналитика</a>
             </li>
         
             <li id="ctl00_ctl00_BottonMenu1_RepeaterMainMenu_ctl08_liTag">
-                <a id="ctl00_ctl00_BottonMenu1_RepeaterMainMenu_ctl08_HyperLink" href="/Calendar.aspx">Economic Calendar</a>
+                <a id="ctl00_ctl00_BottonMenu1_RepeaterMainMenu_ctl08_HyperLink" href="/Calendar.aspx">Forex календарь</a>
             </li>
         
             <li id="ctl00_ctl00_BottonMenu1_RepeaterMainMenu_ctl09_liTag">
-                <a id="ctl00_ctl00_BottonMenu1_RepeaterMainMenu_ctl09_HyperLink" title="Live News" href="/LiveNews.aspx">ข่าว</a>
+                <a id="ctl00_ctl00_BottonMenu1_RepeaterMainMenu_ctl09_HyperLink" title="Forex Новости" href="/LiveNews.aspx">Forex Новости</a>
             </li>
         
             <li id="ctl00_ctl00_BottonMenu1_RepeaterMainMenu_ctl10_liTag">
-                <a id="ctl00_ctl00_BottonMenu1_RepeaterMainMenu_ctl10_HyperLink" href="/OurPromotions.aspx">Promotions</a>
+                <a id="ctl00_ctl00_BottonMenu1_RepeaterMainMenu_ctl10_HyperLink" href="/OurPromotions.aspx">Наши бонусы</a>
             </li>
         
             <li id="ctl00_ctl00_BottonMenu1_RepeaterMainMenu_ctl11_liTag">
-                <a id="ctl00_ctl00_BottonMenu1_RepeaterMainMenu_ctl11_HyperLink" href="/Partnership.aspx">Partnership</a>
+                <a id="ctl00_ctl00_BottonMenu1_RepeaterMainMenu_ctl11_HyperLink" href="/Partnership.aspx">Сотрудничество</a>
             </li>
         
             <li id="ctl00_ctl00_BottonMenu1_RepeaterMainMenu_ctl12_liTag">
-                <a id="ctl00_ctl00_BottonMenu1_RepeaterMainMenu_ctl12_HyperLink" title="Contact Us" href="/ContactUs.aspx">ติดต่อเรา</a>
+                <a id="ctl00_ctl00_BottonMenu1_RepeaterMainMenu_ctl12_HyperLink" title="Контакты" href="/ContactUs.aspx">Контакты</a>
             </li>
         
             <li id="ctl00_ctl00_BottonMenu1_RepeaterMainMenu_ctl13_liTag">
-                <a id="ctl00_ctl00_BottonMenu1_RepeaterMainMenu_ctl13_HyperLink" title="Forum" href="http://forum.fxopen.com" target="_blank">กระดานถามตอบ</a>
+                <a id="ctl00_ctl00_BottonMenu1_RepeaterMainMenu_ctl13_HyperLink" title="Форум" href="http://forum.fxopen.com" target="_blank">Форум</a>
             </li>
         
 </ul>
 
+                    </div>
                 </div>
             </div>
-        </div>
-        <!-- / bottom nav -->
-        <!-- bottom block -->
-        <div class="bottom cfix">
-            <div class="outer">
-                <div class="bottom-col-1">
-                    <b>2005-2013</b>
-                    			              © <strong>FXOpen</strong> - All rights reserved.<br>
-Various trademarks held by their respective owners.
+            <!-- / bottom nav -->
+            <!-- bottom block -->
+            <div class="bottom cfix">
+                <div class="outer">
+                    <div class="bottom-col-1">
+                        <b>2005-2013</b>
+                        ©   FXOpen<br>Все права защищены.<br>
+Различные торговые марки и знаки <br> на сайте принадлежат их уважаемым владельцам.
 
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-2780349-16', 'fxopen.com');
+  ga('send', 'pageview');
+
+</script>
 
 <!-- Yandex.Metrika counter -->
 <script type="text/javascript">
 (function (d, w, c) {
     (w[c] = w[c] || []).push(function() {
         try {
-            w.yaCounter8116174 = new Ya.Metrika({id:8116174, enableAll: true, webvisor:true});
-        } catch(e) {}
+            w.yaCounter8116174 = new Ya.Metrika({id:8116174,
+                    webvisor:true,
+                    clickmap:true,
+                    trackLinks:true,
+                    accurateTrackBounce:true});
+        } catch(e) { }
     });
-    
+
     var n = d.getElementsByTagName("script")[0],
         s = d.createElement("script"),
         f = function () { n.parentNode.insertBefore(s, n); };
@@ -877,13 +1004,12 @@ Various trademarks held by their respective owners.
     s.src = (d.location.protocol == "https:" ? "https:" : "http:") + "//mc.yandex.ru/metrika/watch.js";
 
     if (w.opera == "[object Opera]") {
-        d.addEventListener("DOMContentLoaded", f);
+        d.addEventListener("DOMContentLoaded", f, false);
     } else { f(); }
 })(document, window, "yandex_metrika_callbacks");
 </script>
 <noscript><div><img src="//mc.yandex.ru/watch/8116174" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
 <!-- /Yandex.Metrika counter -->
-
 
 
 
@@ -906,38 +1032,23 @@ var google_conversion_value = 0;
 </div>
 </noscript>
 
-
-<script type="text/javascript">
-var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
-document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3Fb3f6c06d21f094e560e8cd5687c28af9' type='text/javascript'%3E%3C/script%3E"));
-</script><script src=" https://hm.baidu.com/h.js?b3f6c06d21f094e560e8cd5687c28af9" type="text/javascript"></script>
-
-
 			            
-                </div>
-                <div class="bottom-col-2">
-                    <!-- <p><table width="100%" border="0" style="margin-bottom:5px;" сellpadding=5px>
-<tr>
-<td> <p style="margin-left: 5px; margin-right: 5px;"> 
-<a href="http://www.forexth.org/" target="_blank"><img style="border-width: 5px; border-color: #8B8583;" src="/Download.aspx?name=TFBA_verified_1.png"  border=0></a>
-</p></td>
-<td><p style="margin-left: 5px; margin-right: 5px;"> <font color="Gray"> การเทรดในตลาด Forex มีความเสี่ยงในการลงทุน ซึ่งอาจหมายถึง การสูญเสียเงินทุนทั้งหมด ซึ่งอาจไม่ใช่ตลาดที่เหมาะสมสำหรับนักลงทุนทุกคน นักลงทุนต้องตัดสินใจด้วยตนเอง ว่าตลาดนี้เหมาะสมกับการลงทุนของตนเองหรือไม่ รวมทั้งความเสี่ยงอื่นๆ สถานะทางการเงิน การลงทุน ประสบการณ์ ความรู้ความเข้าใจในการลงทุน และตลาด รวมทั้งปัจจัยอื่น <br><br>
-FXOpen NZ Limited is duly registered with the Financial Service Provider Registry in New Zealand (FSPR License Number: <a href="http://www.business.govt.nz/fsp/app/ui/fsp/version/searchSummaryCompanyFSP/FSP192685/8.do" target="_blank" rel="noindex, nofollow" title="" class="c_color2">FSP192685</a>) and is a <a href="http://fdr.org.nz/member_search/search?location=any&name=fxopen" target="_blank" rel="noindex, nofollow" title="" class="c_color2">member</a> of the Financial Dispute Resolution Scheme as obligated by law.<br>
- Fxopen ไม่รับการเปิดบัญชีเทรดจริงจากผู้ที่อาศัยอยู่ในประเทศสหรัฐอเมริกา </p></td>
-  </tr>
-</table></p> -->
- การเทรดในตลาด Forex มีความเสี่ยงในการลงทุน ซึ่งอาจหมายถึง การสูญเสียเงินทุนทั้งหมด ซึ่งอาจไม่ใช่ตลาดที่เหมาะสมสำหรับนักลงทุนทุกคน นักลงทุนต้องตัดสินใจด้วยตนเอง ว่าตลาดนี้เหมาะสมกับการลงทุนของตนเองหรือไม่ รวมทั้งความเสี่ยงอื่นๆ สถานะทางการเงิน การลงทุน ประสบการณ์ ความรู้ความเข้าใจในการลงทุน และตลาด รวมทั้งปัจจัยอื่น <br><br>
-FXOpen NZ Limited is duly registered with the Financial Service Provider Registry in New Zealand (FSPR License Number: <a href="http://www.business.govt.nz/fsp/app/ui/fsp/version/searchSummaryCompanyFSP/FSP192685/8.do" target="_blank" rel="noindex, nofollow" title="" class="c_color2">FSP192685</a>) and is a <a href="http://fdr.org.nz/member_search/search?location=any&amp;name=fxopen" target="_blank" rel="noindex, nofollow" title="" class="c_color2">member</a> of the Financial Dispute Resolution Scheme as obligated by law.<br>
- Fxopen ไม่รับการเปิดบัญชีเทรดจริงจากผู้ที่อาศัยอยู่ในประเทศสหรัฐอเมริกา 
-		
-			            
+                    </div>
+                    <div class="bottom-col-2">
+                        <p> ООО «Открытый Форэкс» (FXOpen Company, Russia), официальный агент FXOpen NZ Limited на территории Российской Федерации, является <a href="http://council.gov.ru/structure/committees/5/advisory/advisory_council_structure" target="_blank" title="" class="c_color2">постоянным членом</a> Экспертно-консультативного Совета при Комитете Совета Федерации по бюджету и финансовым рынкам,  компетенцией которого является координация деятельности  по вопросам государственной политики в области регулирования финансовой системы РФ. </p>	
+Компания FXOpen NZ Limited зарегистрирована в качестве поставщика финансовых услуг в  Financial Service Provider Register (Новая Зеландия, номер лицензии FSPR <a href="http://www.business.govt.nz/fsp/app/ui/fsp/version/searchSummaryCompanyFSP/FSP192685/17.do" target="_blank" rel="noindex, nofollow" title="" class="c_color2">FSP192685</a>) и является <a href="http://fdr.org.nz/member_search/search?location=any&amp;name=fxopen" target="_blank" rel="noindex, nofollow" title="" class="c_color2">членом</a> Схемы разрешения финансовых споров (Financial Dispute Resolution Scheme).
+<br> Компания FXOpen  не предоставляет услуги резидентам Соединенных Штатов Америки.		                
+<br>
+<p><img src="/Download.aspx?name=financial_commission.png" hspace="7" vspace="5" align="left" width="50" heigh="50">Компания FXOpen NZ Limited является членом международной финансовой комиссии <a href="http://financialcommission.org/" target="_blank" title="" class="c_color2">The Financial Commission </a>.</p>
+Торговля на рынке Forex связана с существенными рисками, включая риск полной потери средств и другие затраты, и не может быть рекомендована всем. Клиент  должен самостоятельно и осознанно решить, подходит ли ему этот вид деятельности, учитывая свои финансовые возможности, опыт в сфере инвестиций, склонность к риску и другие факторы. Любая информация, а также аналитические материалы, размещенные на данном сайте, являются рекомендациями общего характера. Их следует применять только с учетом Вашего личного финансового положения и инвестиционных целей. 
+
+                    </div>
                 </div>
             </div>
+            <!-- /bottom block -->
         </div>
-        <!-- /bottom block -->
-    </div>
-    <div id="no_use">
-    </div>
+        <div id="no_use">
+        </div>
     
 <script type="text/javascript">var locationS = 0;</script></form>
     <script type="text/javascript">
@@ -949,14 +1060,12 @@ FXOpen NZ Limited is duly registered with the Financial Service Provider Registr
     <div id="bg_iOkno" style="">
     </div>
     <div class="iokno" id="ac4_video01">
-        <span class="iokno_line_l iokno_top_left"></span><span class="iokno_line iokno_top">
-        </span><span class="iokno_line_r iokno_top_right"></span>
+        <span class="iokno_line_l iokno_top_left"></span><span class="iokno_line iokno_top"></span><span class="iokno_line_r iokno_top_right"></span>
         <div class="iokno_container">
             <div class="iokno_content">
                 <a title="Close window" class="iokno_smb_close" onclick="close_iOkno()"></a>
                 <div class="b_container_s27 b_container_s34 c_color21">
-                    <h3 class="c_weight_no fx_p_text_s14 c_color2">
-                        AutoGraf 4: Video</h3>
+                    <h3 class="c_weight_no fx_p_text_s14 c_color2">AutoGraf 4: Video</h3>
                     <script type="text/javascript">
                         var swfVersionStr = "9.0.124";
 
@@ -993,8 +1102,7 @@ FXOpen NZ Limited is duly registered with the Financial Service Provider Registr
             </div>
         </div>
         <div class="clearer">
-            <span class="iokno_line_l iokno_bottom_left"></span><span class="iokno_line iokno_bottom">
-            </span><span class="iokno_line_r iokno_bottom_right"></span>
+            <span class="iokno_line_l iokno_bottom_left"></span><span class="iokno_line iokno_bottom"></span><span class="iokno_line_r iokno_bottom_right"></span>
         </div>
     </div>
     <script type="text/javascript">        stLight.options({ publisher: '3c6277cc-cdbf-4334-9182-47692b8f4410' });</script>
