@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the mylocker.net privacy policy that was archived on 2013-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130527224749id_/http%3A//www.mylocker.net/corp/privacy.cfm%3Fsc_id%3D0) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mylocker.net privacy policy that was archived on 2013-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131105002332id_/http%3A//www.mylocker.net/corp/privacy.cfm%3Fsc_id%3D0) for the most accurate reproduction.*
 
 # MyLocker Privacy Policy
 
 ### This is the web site of MyLocker.net
 
 Our postal address is:  
-28241 Mound Rd   
-Warren, MI 48092 
+1300 Rosa Parks Blvd   
+Detroit, MI 48216 
 
 We can be reached via e-mail at [policy@mylocker.net](mailto:policy@mylocker.net) or you can reach us by telephone at **877-898-3366**. 
 
