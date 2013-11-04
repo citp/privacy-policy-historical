@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bluefirepoker.com privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502225514id_/http%3A//www.bluefirepoker.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bluefirepoker.com privacy policy that was archived on 2013-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131104054501id_/http%3A//www.bluefirepoker.com/privacy) for the most accurate reproduction.*
 
 # Bluefire Privacy Policy | Bluefire Poker Training
 
