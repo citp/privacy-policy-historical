@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stopagingnow.com privacy policy that was archived on 2013-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130615211851id_/http%3A//www.stopagingnow.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stopagingnow.com privacy policy that was archived on 2013-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131104024532id_/http%3A//www.stopagingnow.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Stop Aging Now Privacy Policy
 
@@ -11,7 +11,7 @@ We value your trust and the security of your personal and credit card informatio
 
 **Security**
 
-We understand that you value highly the security of your personal and credit card information. We apply the highest business standards and industry standard technology to ensure the security of your data and earn your trust. We employ extremely sophisticated data encryption technology provided by GeoTrust®. In addition, our website, server, database and encryption efforts are reviewed daily by McAfee® Scan Alert and quarterly by Security Metrics®, a program run by Bank of America.
+We understand that you value highly the security of your personal and credit card information. We apply the highest business standards and industry standard technology to ensure the security of your data and earn your trust. We employ extremely sophisticated data encryption technology provided by GeoTrust®. In addition, our website, server, database and encryption efforts are reviewed daily by Qualys® Secure and quarterly by Security Metrics®, a program run by Bank of America.
 
 **Online Shopping Encryption**
 
