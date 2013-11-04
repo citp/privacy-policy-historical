@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trekitt.co.uk privacy policy that was archived on 2013-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130506101234id_/http%3A//www.trekitt.co.uk/privacy.irs) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trekitt.co.uk privacy policy that was archived on 2013-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131104113629id_/http%3A//www.trekitt.co.uk/privacy.irs) for the most accurate reproduction.*
 
 # Privacy.Irs - Trekitt Mountain Sports
 
