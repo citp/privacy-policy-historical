@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onthemedia.org privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530114658id_/http%3A//www.onthemedia.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onthemedia.org privacy policy that was archived on 2013-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131105000520id_/https%3A//www.onthemedia.org/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - On The Media
 
