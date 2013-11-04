@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the groceryalerts.ca privacy policy that was archived on 2013-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130505070327id_/http%3A//www.groceryalerts.ca/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the groceryalerts.ca privacy policy that was archived on 2013-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131104235609id_/http%3A//www.groceryalerts.ca/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -67,6 +67,3 @@ If you choose to not have your browser accept cookies from the GroceryAlerts.ca 
 **Changes to this Statement**
 
 GroceryAlerts.ca will occasionally update this privacy statement. When we do, we will also revise the “last updated” date at the top of the privacy statement. For material changes to this statement, GroceryAlerts.ca will notify you by placing prominent notice on the Web site.
-
-  
-
