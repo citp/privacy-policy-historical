@@ -1,55 +1,112 @@
-> *The following text is extracted and transformed from the powerset.com privacy policy that was archived on 2008-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081204063730id_/http%3A//www.powerset.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the powerset.com privacy policy that was archived on 2013-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131104075444id_/http%3A//go.microsoft.com/fwlink/%3FLinkId%3D248686) for the most accurate reproduction.*
 
-# Privacy Policy - Powerset
+# Bing Privacy Statement
 
-## Powerset Privacy Policy
+Cookies & Similar TechnologiesCookies
 
-This privacy policy was last modified on May 8, 2008.
+When you use Bing services with a web browser, we will place one or more "cookies" on your machine. For example, Bing uses a cookie with a unique identifier known as the Search ID to operate the service and enable certain search features. If you sign into Bing or other Microsoft services using a Microsoft account, we will set or read one or more additional cookies. We use these cookies to operate Bing services and provide you a more relevant search experience. You can use your browser settings to remove or block cookies on your computer. 
 
-1\. Privacy Policy and Amendments. Powerset, Inc. ("Powerset") owns and operates Powerset.com and the services offered there (the "Service"). Powerset respects the privacy of its users. This document explains how Powerset will use the information that you provide to us via the Service. Powerset may amend this privacy policy from time to time. If Powerset does so, the revised privacy policy will be posted on the Service, and you will have the opportunity to modify your information on file with Powerset as explained below. 
+We also use web beacons to help deliver cookies and compile analytics. These may include third-party web beacons, which are prohibited from collecting your personal information. 
 
-2\. Posting. Users of the Service may post content, information, text, links, communications, software, images, video, audio, data, or other material (collectively, "User Content") on the Service. Any User Content may be saved on our servers and may be accessible to the public. Accordingly, to the extent that your User Content includes personally identifiable information, such information may be saved on our server(s) and may be disclosed to the public in perpetuity. 
+Collecting Your InformationCollecting Your Information
 
-3\. Personally Identifiable Information. "Personally Identifiable Information" is any piece of information which can be traced back to a specific individual user and thus potentially be used to uniquely identify, contact, or locate that specific individual. Examples of Personally Identifiable Information include names, telephone numbers, social security numbers, and other unique identifiers. In no event will Powerset sell or transfer Personally Identifiable Information to third parties, or otherwise provide third parties with access thereto, except as specifically provided in this Privacy Policy and/or the Terms of Use. You are not required to provide personally identifiable information to visit and view the Service; however, in order to post User Content to the Service you must register as a Powerset participant ("Participant"), which may require that you provide personally identifiable information to Powerset to create your Participant account. If you register as a Participant, Powerset may store your account information, including personally identifiable information you enter into your account, your user name, and your password for the Service, on our server. In addition, Powerset may collect usage data and other information on all users, but usage data and other user information is not personally identifiable except as described below. 
+When you use Bing services, Microsoft may collect many kinds of information in order to operate effectively and provide you the best products, services and experiences we can. We collect information when you register, sign in and use our sites and services. We also may get information from other companies. We collect this information in a variety of ways, including from web forms, technologies like cookies, web logging and software on your computer or other device.
 
-4\. Cookies. Powerset may use Cookies on or in connection with the Service. Cookies are small text files that are placed on your computer's hard drive by our servers to identify your computer to our servers. Except as provided in Section 5, below, no personally identifiable information stored in the Powerset Cookies will be shared with outside companies for any purpose without your permission. You can also disable Cookies or otherwise manage them through tools provided with your browser software and with third-party software packages, or not use the features that require Cookies. 
+When you conduct a search, Microsoft collects the following: 
 
-Advertisers or other third parties may also use Cookies on the Service. The information advertisers or other third parties collect is governed by their own privacy policies. Powerset does not take responsibility for the content of such third-party privacy policies and does not guarantee that the third parties will comply with them. 
+  * Search term and time and date of your search 
+  * IP address, browser configuration and approximate location 
+  * Any unique identifiers contained in the cookies 
 
-5\. Non-Personally Identifiable Information. Non-personally identifiable information is information that, by itself, cannot be tracked to a specific individual. Examples of non-personally identifiable information include, but are not limited to, the type of internet browser you are using, the type of computer operating system you are using, your IP address, the time and date of your use of the Service, and whether or not you clicked on hypertext links within the Service. Powerset may collect non-personally identifiable information while you use the Service. 
 
-Powerset may use non-personally identifiable information for administrative and analytical purposes, such as generating statistics and other user data. If Powerset provides any such information to others, Powerset will provide such information in the aggregate only and will not include any personally identifiable information about any individual Participants or other users. 
 
-In cases of suspected abuse or service problems, Powerset may use an IP address in conjunction with personally identifiable information provided to Powerset to enforce the Terms of Use and/or to protect or troubleshoot the Service, its users or others who may be affected. Except as provided in Section 6, below, Powerset will not share personally identifiable information associated with IP addresses with third parties without your permission. 
+We store search terms (and the cookie IDs associated with search terms) separately from any account information that directly identifies the user, such as name, e-mail address, or phone numbers. We have technological safeguards in place designed to prevent the unauthorized correlation of this data and we remove the entirety of the IP address after 6 months, cookies and other cross session identifiers, after 18 months.
 
-6\. Sharing of Information. Powerset may share personally and non-personally identifiable information with third parties in the following cases: 
+Bing provides search services to select partners and its users. Some examples include Yahoo! and Nokia. In order to provide these services, Bing services receive certain search related information from these partners that may include date, time, IP address, a unique identifier and other search related data.
 
-a. to enable the normal course of functionality of the Service. In some cases, Powerset may work with third parties that do analysis and development on our behalf. We may share your personally identifiable information with such a third party on the condition that the third party maintains the information as confidential and uses the information only to perform the services specified by Powerset; 
+How We Use Your Personal InformationUsing Your Information
 
-b. to respond to subpoenas, court orders, or legal process, or to establish or exercise our legal rights or defend against legal claims; 
+Microsoft uses the information we collect to operate, improve and personalize the products and services we offer. We also may use the information to communicate with you, for example, informing you about your account and security updates.
 
-c. to otherwise comply with the law or law enforcement requests; 
+For Bing services, we use this information to provide you with relevant search results. We also use the information we collect to maintain and improve the quality, security and integrity of our services. For example we may use this information for research purposes and to improve the relevancy of Bing search results. This information is also necessary in order to detect and protect against security threats such as botnet attacks, click fraud, worms, and other threats. 
 
-d. to enforce or determine violations of any Terms of Use or other Powerset policy; 
+Finally, as described in the [Display of Advertising](https://web.archive.org/web/20131108105415id_/http://www.microsoft.com/privacystatement/en-us/bing/default.aspx?ComponentId=pspBingAdvertisingModule&View=Summary) section of this document, we may use search query data for the purpose of personalizing the ads we display to you as you use our services or those of our advertising partners.
 
-e. to protect the rights or property or safety of Powerset, its employees, or users; or 
+Reasons We Share Your Personal InformationSharing Your Information
 
-f. in the event that Powerset is acquired by or merged with another company, in which case Powerset will transfer information about you to that other company. 
+Except as described in this privacy statement, we won’t disclose your personal information to a third party without your consent.
 
-By providing Powerset your email address you consent to our using the email address to send you Service-related notices, including any notices required by law, in lieu of communication by postal mail. You may opt out or change the frequency of many Service-related communications by clicking the unsubscribe link in any email communication from Powerset. We may also use your email address to send you other messages, such as newsletters, changes to features of the Service, or special offers. If you do not want to receive such email messages, you may opt out by clicking the unsubscribe link in any email communication from Powerset. Opting out may prevent you from receiving email messages regarding updates, improvements, or offers. 
+We may share some anonymized search query data with selected third parties for research purposes.
 
-7\. Security of Personal Information. We have implemented commercially reasonable technical and organizational measures designed to secure your personal information from accidental loss and from unauthorized access, use, alteration or disclosure. However, we cannot guarantee that unauthorized third parties will never be able to defeat those measures or use your personal information for improper purposes. You acknowledge that you provide your personal information at your own risk. 
+When you click on a link from a Bing search results page, the destination website will receive the standard information your browser sends to every web site you visit, including the URL of the site you came from.  Because the URL of the Bing search results page contains the text of the search query you entered, the destination website will be able to determine the search term you entered.
 
-To protect your privacy and security, we take reasonable steps (such as requesting a unique password) to verify your identity before granting you access to your account. You are responsible for maintaining the secrecy of your unique password and account information, and for controlling access to your email communications from Powerset, at all times.
+If your browser is enabled to allow pages to pre-load in the background for faster performance, Bing may use this functionality and your browser may preload page(s) in the background for faster results.  When your browser loads a page in the background, it will have the same effect as if you visited that page, including sending the Bing results page URL (which may contain your search query) and downloading any cookie files that page may set.  You can delete cookies using your browser settings.  Click [here](http://go.microsoft.com/fwlink/?LinkID=280122) for more information on how to delete cookies and to control pre-loading pages in Internet Explorer 11. 
 
-8\. Compromise of Personal Information. In the event that personal information is compromised as a result of a breach of security, Powerset will promptly notify those persons whose personal information has been compromised, in accordance with the notification procedures set forth in this Privacy Policy, or as otherwise required by applicable law. 
+Please see [Other Important Privacy Information](https://web.archive.org/web/20131108105415id_/http://www.microsoft.com/privacystatement/en-us/bing/default.aspx?Componentid=pspBingOtherInformationModule&View=Summary) for additional details about when we may disclose information, including with Microsoft affiliates and vendors; when required by law or to respond to legal process; to combat fraud or protect our interest; or to protect lives.
 
-9\. Notification Procedures. It is the policy of Powerset to provide notifications, whether such notifications are required by law or are for marketing or other business related purposes, to our customers, Participants, or other web site users via E-mail notice, written or hard copy notice, or through conspicuous posting of such notices on our web site page, [http://www.powerset.com](http://www.powerset.com/ "Powerset"), as determined by Powerset in its sole discretion. Powerset reserves the right to determine the form and means of providing notifications to our customers, Participants, or other web site users, provided that you may opt out of certain means of notification as described in this Privacy Policy. 
+Accessing Your Personal Information and Search HistoryAccessing Your Information
 
-10\. Links to Other Sites. The Service contains links to media and other content from other sites. In addition, such third-party media and content may also contain external links. Powerset cannot and does not guarantee the privacy policies or practices of any third party. Powerset does not control, operate or endorse any information, products or services of any third-party website that may be reached through links from the Service. The use of any personal information provided to such a third party will be governed by that party's privacy policy. 
+When using a web browser, you can access and manage your information, including Search History, on Bing through the preferences page. In Bing search, using the search terms you enter and the results you click, Search History provides an easy way to revisit the sites and searches you've used before. You may clear your search history from appearing on the site by following the steps provided in [see your search history](http://onlinehelp.microsoft.com/en-us/bing/ff808483.aspx "see your search history") (scroll down to "Clear search history"). Clearing your history removes it from the Search History service and prevents that history from being displayed on the site, but does not delete information from our standard search logs, which are retained and anonymized as described above. 
 
-11\. Child Protection. We do not offer services to, or target, persons under the age of 13. If you are under 13, please do not send any information about yourself to us, including your name, address, telephone number, or email address. In compliance with the Children's Online Privacy Protection Act, we will purge any information we receive from people we believe to be children under 13 from our database and cancel the corresponding accounts. 
+Bing Mobile, Maps and Location ServicesMobile and Location Services
 
-12\. Your Choices About Your Information. You may, of course, decline to submit personally identifiable information through Powerset, in which case Powerset may not be able to provide certain services to you. You may update or correct your account information [and email preferences] at any time by logging in to your account. You can review and correct the information about you that Powerset keeps on file by contacting us directly at [feedback@powerset.com](mailto:feedback@powerset.com).
+If you have agreed to allow access to your location, we collect the following information to improve your search and mapping results, provide you deals for local businesses, and operate and improve our services: 
 
-13\. Comments and Questions. If you have any comments or questions, you may address them to our customer service department at [feedback@powerset.com](mailto:feedback@powerset.com), or via mail addressed to Customer Service, Powerset, Inc., 475 Brannan Street, San Francisco, CA 94107.
+ test
+
+  *  **Bing Search services and Bing Mobile applications:** The approximate location of your device will be sent to Microsoft along with search terms, time and date of your search and a unique identifier generated by the application. Refer to the documentation that came with your device for information about how to turn off location for an application.
+  *  **"Check In” and “Reminders”:** When you sign into these services, Microsoft stores the approximate location of your device along with your Microsoft account. To disable access to your device’s location by these services, go to the settings menu of the Bing Search application and turn location to “Off.” If you are using a browser to access Bing Search services, refer to the browser documentation to disable sharing your location for sites visited on that browser.
+  *  **Mapping features:** Features on Microsoft's sites and services are based in part on the Bing Maps service. When you submit information, such as an address to be viewed on a map, to the application, that application passes it to Bing Maps for processing.
+
+
+
+Facebook PersonalizationFacebook Personalization
+
+Bing uses Facebook Instant Personalization to provide a more relevant and useful search experience for Facebook users using your public information from Facebook. Facebook Instant Personalization is a program in which websites can check to see if you are actively logged into Facebook, and provide you with an enhanced experience that takes your Facebook social network into account, as permitted by your Facebook privacy settings. You can turn off these Instant Personalization features at any time by going to <http://www.facebook.com/help/?faq=204873389548151>.
+
+ In addition, Bing search and Microsoft apps that use Bing services (also known as “Bing apps”) described in the [Bing Apps](https://web.archive.org/web/20131108105415id_/http://www.microsoft.com/privacystatement/en-us/bing/default.aspx?componentid=pspBingBarModule&View=description) section of this statement may also have features available that permit you to connect to Facebook to further personalize your experience on Bing search and to personalize your experience in Bing apps.  You can turn off these additional personalization features by going to <https://www.facebook.com/settings?tab=applications> and removing the Bing app.
+
+Bing ApplicationsBing Applications
+
+Microsoft apps that use Bing services (also known as “Bing apps”) provide you with enhanced features and convenient ways to access information such as weather forecasts, traffic reports or internet search results  (not all Microsoft applications or Bing features are available in every country).  Bing apps are available on a variety of platforms and services including apps preinstalled with Windows, apps created for the iOS, apps in the Microsoft Store, and as browser plug-ins and toolbars. 
+
+When you install and use Bing apps, information about your computer and how you use the app, such as type and version of operating system, browser information and buttons you click, is collected and used by Microsoft in order to operate the Bing services and to help improve Bing and other Microsoft products and services. 
+
+If you are using Bing Desktop or Bing Toolbar and choose to participate in the Bing Experience Improvement Program, we also collect additional information about how you use these specific Bing apps, including information about your searches within these apps. Additionally, when opted into the Bing Experience program on Bing Toolbar, we collect information about the addresses of the websites you visit.  
+
+Lastly, some Bing apps provide the option to configure the application to use additional information from other Microsoft products and services, or from third parties.
+
+ChildrenChildren
+
+When a Microsoft site or service collects age information, it will block users under 13 or obtain consent from a parent or guardian before their child can use it. 
+
+When consent is granted, the child’s account is treated much like any other account, including being able to communicate with other users. Parents can change or revoke consent as described in this privacy statement.
+
+Display of AdvertisingAdvertising
+
+Most of the online advertisements on Microsoft sites and services are displayed by Microsoft Advertising.  When we display online advertisements to you, we will place one or more cookies in order to recognize your computer when we display an ad to you.  Over time, we may gather information from the sites where we serve ads and use the information to help provide more relevant ads.
+
+ **You may opt out of receiving targeted ads from Microsoft Advertising by visiting our   [Your privacy and Microsoft personalized ads](http://go.microsoft.com/fwlink/?LinkID=286759)**. For more information about how Microsoft Advertising collects and uses information, please see the [Microsoft Advertising Privacy Statement. ](http://go.microsoft.com/fwlink/?LinkID=248689)
+
+Communication PreferencesCommunications
+
+You can stop the delivery of future promotional email from Microsoft sites and services by following the specific instructions in the email you receive.  You also have the option of proactively making choices about the receipt of promotional email, telephone calls and postal mail from Microsoft by visiting and signing in to the [Promotional Communications Manager](http://go.microsoft.com/fwlink/?LinkId=243191 "Promotional Communications Manager").
+
+Microsoft AccountMicrosoft Account
+
+Microsoft account (formerly known as Windows Live ID and Microsoft Passport) is a service that allows you to sign into Microsoft products, web sites and services, as well as those of select Microsoft partners.When you create a Microsoft account, we ask you to provide certain information. When you sign into a site or service using your Microsoft account, we collect certain information in order to verify your identity on behalf of the site or service, to protect you from malicious account usage, and to protect the efficiency and security of the Microsoft account service. We also send certain information to a site or service you have signed into with your Microsoft account. 
+
+To view additional details about Microsoft account, including how to create and use a Microsoft account, how to edit account information, and how we collect and use information relating to a Microsoft account, please click on Learn More. 
+
+Other Important Privacy InformationOther Information
+
+Learn more about
+
+  * Non-Microsoft services that use Bing search
+  * Why and with whom we share or disclose personal information
+  * Protecting the security of personal information
+  * Where we store and process information
+  * Changes to our privacy statements
+  * How to contact us
+
+
