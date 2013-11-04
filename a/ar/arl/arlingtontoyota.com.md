@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the arlingtontoyota.com privacy policy that was archived on 2013-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130620113224id_/http%3A//arlingtontoyota.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arlingtontoyota.com privacy policy that was archived on 2013-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131104064127id_/http%3A//arlingtontoyota.com/privacy-policy) for the most accurate reproduction.*
 
 # Arlington Toyota - Privacy Policy
 
@@ -71,7 +71,7 @@ The Dealership may make blogs, forums, message boards, and/or news groups availa
 
 ## Credit Applications:
 
-Arlington Toyota takes the secure handling of credit applications very seriously. The information provided is heavily secured by appropriate physical, electronic, and managerial procedures. Arlington Toyota is in compliance with new federal laws mandating the secure handling of credit-related data that went into effect July 2010. Arlington Toyota guarantees the security of this data upon delivery to our client dealerships (â��Dealershipâ��). Upon delivery, responsibility for the security of data rests solely on the Dealership. Arlington Toyota Credit Applications are encrypted via SSL. The Privacy Policy is available through an obvious link on the Credit Application Submission Page.
+Arlington Toyota takes the secure handling of credit applications very seriously. The information provided is heavily secured by appropriate physical, electronic, and managerial procedures. Arlington Toyota is in compliance with new federal laws mandating the secure handling of credit-related data that went into effect July 2010. Arlington Toyota guarantees the security of this data upon delivery to our client dealerships (Dealership). Upon delivery, responsibility for the security of data rests solely on the Dealership. Arlington Toyota Credit Applications are encrypted via SSL. The Privacy Policy is available through an obvious link on the Credit Application Submission Page.
 
 ## Third Party Privacy Policies:
 
