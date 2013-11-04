@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sahmsue.com privacy policy that was archived on 2013-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130512201322id_/http%3A//www.sahmsue.com/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sahmsue.com privacy policy that was archived on 2013-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131104230559id_/http%3A//www.sahmsue.com/p/privacy-policy.html) for the most accurate reproduction.*
 
 # STAY AT HOME MOM: Privacy Policy
 
