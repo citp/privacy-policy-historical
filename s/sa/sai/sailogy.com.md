@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sailogy.com privacy policy that was archived on 2013-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130412005232id_/http%3A//www.sailogy.com/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sailogy.com privacy policy that was archived on 2013-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131104233607id_/http%3A//www.sailogy.com/help/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Sailogy
+# Privacy Policy - Sailogy.com: 2,000 boats for rent | Sailing holidays in Italy, Croatia, Greece.
 
 ### Privacy Policy, as per Italian D. Lgs 30.06.2003 N. 196, Art. 13
 
