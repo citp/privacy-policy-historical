@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oncontracting.com privacy policy that was archived on 2013-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130427014039id_/http%3A//www.oncontracting.com/pg/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oncontracting.com privacy policy that was archived on 2013-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131104164109id_/http%3A//www.oncontracting.com/pg/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | OnContracting
 
@@ -22,7 +22,7 @@ If you do not want us to collect your personal information, please do not provid
 
 **Information from Social Networking Websites**
 
-By registering for a OnContracting Account, you may have the option to sign in using third party social networking websites (collectively, the “Social Networks”), such as Facebook, Google or LinkedIn.  If you choose to sign in through these Social Networks or services, we use the information you have already provided to such Social Networks in registering for an account with such Social Networks and which you have allowed such Social Networks to share with OnContracting, including, but not limited to, your first and last name, email, your user profile picture, your friends and contacts list, pages your gender, and the networks to which you belong (collectively, your “Submitted Information”). 
+By registering for a OnContracting Account, you may have the option to sign in using third party social networking websites (collectively, the “Social Networks”), such as Facebook, Google or LinkedIn.  If you choose to sign in through these Social Networks or services, we use the information you have already provided to such Social Networks in registering for an account with such Social Networks and which you have allowed such Social Networks to share with OnContracting, including, but not limited to, your first and last name, email, your user profile picture, your friends and contacts list, pages, your gender, and the networks to which you belong (collectively, your “Submitted Information”). 
 
 You expressly authorize us to collect and use your Submitted Information in connection with your use of the OnContracting Services  You further acknowledge and agree that OnContracting may, but is not obligated to, maintain copies of your Submitted Information indefinitely, or delete any or all Submitted Information, at our sole discretion.
 
@@ -44,13 +44,13 @@ OnContracting occasionally hires other companies to provide limited administrati
 
 In some cases, we may choose to buy or sell assets.  In these types of transactions, user information is typically one of the business assets that are transferred.  Moreover, if OnContracting, or substantially all of its assets, were acquired, user information would be one of the assets that is transferred or acquired by a third party.  You acknowledge that such transfers may occur, and that any acquirer of OnContracting may continue to use your Personal Information as set forth in this Privacy Policy.
 
-OnContracting may access and/or disclose personal information about you or your account without your prior consent if OnContracting has a good faith belief that such action is necessary to: (i) comply with legal process or other legal requirements of any governmental authority; (ii) protect and defend the rights or property of OnContracting (including the enforcement of our agreements); (iii) enforce the Terms of Use, which can be accessed at  _[www.oncontracting.com/terms/](http://www.oncontracting.com/terms/)_ (v) operate or conduct maintenance and repair of the Services or equipment as authorized by law; or (vi) act in urgent circumstances to protect the personal safety of users of OnContracting Services or members of the public.
+OnContracting may access and/or disclose personal information about you or your account without your prior consent if OnContracting has a good faith belief that such action is necessary to: (i) comply with legal process or other legal requirements of any governmental authority; (ii) protect and defend the rights or property of OnContracting (including the enforcement of our agreements); (iii) enforce the Terms of Use, which can be accessed at  <http://www.oncontracting.com/pg/terms.html> (v) operate or conduct maintenance and repair of the Services or equipment as authorized by law; or (vi) act in urgent circumstances to protect the personal safety of users of OnContracting Services or members of the public.
 
 OnContracting may also share your personal information for the following reasons
 
   * To allow job seekers to post resumes;
   * To allow recruiters to post job openings and search resumes. These jobs will be listed and indexed in our Web Site as well as search engines, which may be searchable either directly or indirectly by job seekers, other registered users, and corporations;
-  * To allow other recruiters to contact you online via the Web Site;
+  * To allow other recruiters to contact you online via the Web Site or through email or phone if you have provided these as options;
   * To enable you to contact us and provide feedback, and to enable us to respond to your comments and requests for assistance;
   * To improve our marketing and advertising efforts;
   * To provide you with our own and third-party product and content offerings that may interest you including newsletters, surveys and career advice;
@@ -88,7 +88,7 @@ OnContracting retains the discretion to amend or modify this Privacy Policy from
 
 **Questions or Comments Regarding this Privacy Policy**
 
-OnContracting welcomes any questions or comments you may have regarding this Privacy Policy or if you do not understand any information about how we collect, maintain, use, or share your Personal Information.  Any such questions or comments should be submitted via [email](mailto:info@oncontracting.com) or by [contacting us](http://www.oncontracting.com/pg/contact.html). We will make every effort to resolve or answer your concern. You can read more [about OnContracting here](http://www.oncontracting.com/pg/aboutus.html).
+OnContracting welcomes any questions or comments you may have regarding this Privacy Policy or if you do not understand any information about how we collect, maintain, use, or share your Personal Information.  Any such questions or comments should be submitted via [email](mailto:info@oncontracting.com?subject=Re%3A%20Privacy%20Policy) or by [contacting us](http://www.oncontracting.com/pg/contact.html). We will make every effort to resolve or answer your concern. You can read more [about OnContracting here](http://www.oncontracting.com/pg/aboutus.html).
 
 **Modifications of this Privacy Notice**
 
