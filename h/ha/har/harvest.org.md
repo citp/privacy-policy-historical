@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the harvest.org privacy policy that was archived on 2013-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130616094024id_/http%3A//harvest.org/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the harvest.org privacy policy that was archived on 2013-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131105005837id_/http%3A//www.harvest.org/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy ::: Harvest Ministries
 
