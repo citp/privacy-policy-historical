@@ -1,16 +1,15 @@
-<!--The following is the downloaded HTML source of the gpwa.net privacy policy that was archived on 2013-06-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130603223409id_/http%3A//www.gpwa.org/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the gpwa.net privacy policy that was archived on 2013-11-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131104235323id_/http%3A//www.gpwa.org/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head>
-<title>Gambling Portal Webmasters Association Privacy Policy</title>
+	<title>Gambling Portal Webmasters Association Privacy Policy</title>
 	<meta name="Description" content="Gambling webmasters working with each other and with reputable online casinos and gambling sites to earn more money as affiliates - Privacy Policy.">
 	<meta name="Keywords" content="Casino Affiliate Programs,Poker Affiliate Programs,Bingo Affiliate Programs,Sportsbook Affiliate Programs,Backgammon Affiliate Programs,Mahjong Affiliate Programs,Skill Game Affiliate Programs,">
 	<meta http-equiv="X-UA-Compatible" content="IE=8"> 
-	<link rel="stylesheet" type="text/css" href="/inc/global.css">
 	<script language="JavaScript" type="text/javascript" src="http://as1.casinocity.com/adx.js"></script>
-  <script language="JavaScript" type="text/javascript" src="/inc/jquery-1.3.2.js"></script>
-  <script language="JavaScript" type="text/javascript" src="/s/js/ui.core.js"></script>
-  <script language="JavaScript" type="text/javascript" src="/s/js/jquery.tabs.js"></script>
+	<script language="JavaScript" type="text/javascript" src="/inc/jquery-1.3.2.js"></script>
+	<script language="JavaScript" type="text/javascript" src="/s/js/ui.core.js"></script>
+	<script language="JavaScript" type="text/javascript" src="/s/js/jquery.tabs.js"></script>
 	<script language="JavaScript" type="text/javascript" src="/inc/jquery.dimensions.js"></script>
 	<script language="JavaScript" type="text/javascript" src="/inc/jquery.positionBy.js"></script>
  	<script language="JavaScript" type="text/javascript" src="/inc/jquery.bgiframe.js"></script>
@@ -41,38 +40,24 @@
  				return false;
  			}
  		// -->
- 		</script>
- 	
- 	
-</head>
-<body>
-<div id="bodyContainer">
-	<div id="header">
+	</script>
 
-<table border="0" width="790">
-  <tbody><tr>
-    <td width="320" style="text-align:left;"><a border="0" href="/"><img border="0" src="/i/GPWA_logo.gif" width="183" height="69" alt="GPWA"></a></td>
-    <td width="470"><!-- BEGIN GPWA SPONSORS BANNER CODE TOP 468X60 --><div id="headerAd">
-			<iframe id="a8d31b92" name="a8d31b92" src="http://as1.casinocity.com/www/delivery/afr.php?zoneid=8&amp;target=_blank" framespacing="0" frameborder="no" scrolling="no" width="468" height="60"><a href='http://as1.casinocity.com/www/delivery/ck.php?n=a0f7c2ba' target='_blank'><img src='http://as1.casinocity.com/www/delivery/avw.php?zoneid=8&amp;n=a0f7c2ba' border='0' alt='' /></a></iframe>
-    </div><!-- END GPWA SPONSORS BANNER CODE TOP 468X60 --></td>
-  </tr>
-  <tr>
-
-		<script language="javascript">
+	
+ 	<script language="javascript">
 			var isloggedin = new Boolean;
 			var username = "";
 			var userid = "";
 			var loginhtml = new String;
-			var randomnumber = 66849.6;
+			var randomnumber = 68002.51;
 			$(document).ready(function()
 						{
-							$.getJSON("/forum/user.php?rnd="+randomnumber, function(user)
+							$.getJSON("/forum/gpwauser.php?rnd="+randomnumber, function(user)
 							{
 								username = user.name;
 								userid = user.id;
 								isloggedin = new Boolean(user.id);
 
-								$.get("/forum/loginheader.php?rnd="+randomnumber,
+								$.get("/forum/gpwaloginheader.php?rnd="+randomnumber,
 									function(data)
 									{
 									loginhtml = data;
@@ -82,111 +67,182 @@
 
 									if (isloggedin == true)
 									{
+										var forumsitems = "<li><a href='/forum/'>Forum Home</a></li><li><a href='/forum/search.php?do=getnew'>New Posts</a></li><li><a href='/forum/search.php?do=getdaily'>Today's Posts</a></li><li><a rel='nofollow' href='/forum/forumdisplay.php?do=markread&markreadhash=%securitytoken%'>Mark Forums Read</a></li><li><a href='/forum/blogs/'>Blogs</a></li><li><a href='/forum/subscription.php' rel='nofollow'>Subscribed Threads</a></li><li><a href='/forum/usercp.php'>My Control Panel</a></li>";
+										$("#forumsitems").html(forumsitems);
 										$("#myaccount").html("<a href='/forum/usercp.php'>MY ACCOUNT</a>");
-										$("#myaccountitems").html("<li><a href='/members/opinions/'>Webmaster Opinions</a></li><li><a href='/ex/facebook/overview.aspx'>Places I've Played</a></li><li><a href='/forum/payments/'>My Payments</a></li><li><a href='/forum/usercp.php'>My Control Panel</a></li><li><a rel='nofollow' href='/forum/profile.php?do=editsignature'>Edit My Signature</a></li><li><a rel='nofollow' href='/forum/profile.php?do=editprofile'>Edit My Details</a></li><li><a rel='nofollow' href='/forum/profile.php?do=editoptions'>Edit My Options</a></li><li><a href='/forum/private.php' rel='nofollow'>Private Messages</a></li><li><a href='/members/myportalsites.asp'>My Portal Sites</a></li><li><a href='/members/seal_preferences.asp'>Seal Preferences</a></li><li><a href='/members/member_details.asp?id="+userid+">My Profile</a></li>");
-										$("#forumitems").html("<li><a href='/forum/'>Forum Home</a></li><li><a href='/forum/search.php?do=getnew'>New Posts</a></li><li><a href='/forum/search.php?do=getdaily'>Today's Posts</a></li><li><a rel='nofollow' href='/forum/forumdisplay.php?do=markread'>Mark Forums Read</a></li><li><a href='/forum/blogs/'>Blogs</a></li><!---<li><a rel='nofollow' href='/forum/project.php'>Projects</a></li>---><li><a href='/forum/subscription.php' rel='nofollow'>Subscribed Threads</a></li><li><a href='/forum/usercp.php'>My Control Panel</a></li>");
+										$("#myaccountitems").html("<li><a href='/forum/private.php' rel='nofollow'>Private Messages</a></li><li><a href='/members/member_details.asp?id="+userid+"'>My Public Profile</a></li><li><a href='/members/myportalsites.asp'>My Portal Sites</a></li><li><a href='/members/seal_preferences.asp'>My Seal Preferences</a></li><li><a href='/members/opinions/'>My Published Opinions</a></li><li><a href='/forum/payments/'>My Payments</a></li><li><a href='/forum/usercp.php'>My Control Panel</a></li><li><a rel='nofollow' href='/forum/profile.php?do=editsignature'>Edit My Signature</a></li><li><a rel='nofollow' href='/forum/profile.php?do=editprofile'>Edit My Details</a></li><li><a rel='nofollow' href='/forum/profile.php?do=editoptions'>Edit My Options</a></li>");
+										$("#forumsitems").html("<li><a href='/forum/'>Forum Home</a></li><li><a href='/forum/search.php?do=getnew'>New Posts</a></li><li><a href='/forum/search.php?do=getdaily'>Today's Posts</a></li><li><a rel='nofollow' href='/forum/forumdisplay.php?do=markread&markreadhash=%securitytoken%'>Mark Forums Read</a></li><li><a href='/forum/blogs/'>Blogs</a></li><li><a href='/forum/subscription.php' rel='nofollow'>Subscribed Threads</a></li><li><a href='/forum/usercp.php'>My Control Panel</a></li>");
 										$("#wikiList").html("<a href='/wiki/'>Wiki</a>");
 										$("#community").html("<a href='/forum/profile.php?do=buddylist' rel='nofollow'>COMMUNITY</a>");
 										$("#communityitems").html("<li><a rel='nofollow' href='/forum/profile.php?do=buddylist'>Contacts &amp; Friends</a></li><li><a href='/forum/group.php'>Social Groups</a></li><li><a rel='nofollow' href='/forum/album.php?u="+userid+"'>Pictures &amp; Albums</a></li><li><a href='/forum/online.php'>Who's Online</a></li><li><a rel='nofollow' href='/forum/misc.php?do=buddylist&amp;focus=1' onclick=\"window.open('/forum/misc.php?do=buddylist&amp;focus=1','buddylist','statusbar=no,menubar=no,toolbar=no,scrollbars=yes,resizable=yes,width=250,height=300'); return false;\">Open Contacts Popup</a></li><li><a href='/forum/usercp.php'>My Control Panel</a></li>");
-
+										$("#memberitems").html("<li><a href='/members/index.asp?sort=A' title='Member Directory'>Member Directory</a></li><li><a href='/forum/calendar.php' title='Member''s Birthdays'>Member Birthdays</a></li><li><a href='/register.asp' title='Become a Member'>Become a Member</a></li>");
+										$("#notifications").show();
+											
+										var url = "/forum/gpwasecurity.php?u=&s=" + escape('');
+										$.ajax({
+										type: 'GET',
+										url: url,
+										dataType: 'text', 
+										error: function(xhr) {
+											alert('error ' + xhr.responseText );
+										},
+										success: function(data) {
+											var securityToken = $(data).find('SecurityToken').text();
+											forumsitems = forumsitems.replace("%securitytoken%",data);
+											$("#forumsitems").html(forumsitems);
+									
+										}
+									});	
 									}
 								});
 							});
 						});
 		</script>
-    <td colspan="2"><table border="0"><tbody><tr><td id="login" style="font-size:11px; font-family:verdana;height:15px;text-align:left;vertical-align:middle;" width="390">
-    	Welcome, Guest &nbsp;[<b><a href="/login.asp?url=/privacy/index.asp">Log In</a> -or- <a href="/register.asp">Join GPWA</a></b>]
-    	</td>
-    <td style="height:15px;vertical-align:top;"><form action="" method="post" style="display:inline;" name="SearchForm" onsubmit="return vbSearch()">
-        <input type="hidden" name="do" value="process">
-        <input type="hidden" name="showposts" value="0">
-        <input type="hidden" name="quicksearch" value="1">
-        <input type="hidden" name="s" value="">
-        <input type="text" name="query" id="query" style="font-size:11px; font-family:verdana;height:14px;width:200px;vertical-align:middle;padding: 2px 0px 0px 2px;" onfocus="this.value='';" value="Search Our Forums">
-        <input style="font-size:10px;font-family:verdana;height:19px;" align="absmiddle" type="image" src="/i/search_btn.gif" value="search" alt="search"> &nbsp; <a href="/forum/search.php">Advanced Search</a></form></td>
-        </tr></tbody></table></td>
-  </tr>
-</tbody></table>
-		<br class="clear">
+		<style>
+			#header a {
+				text-decoration:none;
+				color:#666666;
+			}
+			#header a:hover {
+				text-decoration:none;
+				color:#5DA35D;;
+			}
+		</style>
+		<link rel="stylesheet" type="text/css" href="/inc/global.css">		
+</head>
+<body>
+<div id="bodyContainer">
+<div id="shb"></div>
+	<div id="header">
 
-		<div id="navContainer">
-			<ul class="jd_menu" id="nav">
-				<li>
-						<div id="myaccount"><a href="/login.asp?url=/privacy/index.asp">MY ACCOUNT</a></div>
-					<ul id="myaccountitems">
-						<li><a href="/login.asp?url=/privacy/index.asp">Member Login</a></li>
-						<li><a href="/register.asp">Create an Account</a></li>
-					</ul>
-				</li>
-				<li><a href="/forum/">FORUMS</a>
-					<ul id="forumsitems">
-						<li><a href="/forum/">Forum Home</a></li>
-						<li><a href="/forum/search.php?do=getnew">New Posts</a></li>
-						<li><a href="/forum/search.php?do=getdaily">Today's Posts</a></li>
-						<li><a href="/forum/blogs/">Blogs</a></li>
-<!--						<li><a rel="nofollow" href="/forum/project.php">Projects</a></li>-->
-					</ul>
-				</li>
+		<table border="0" style="width:100%;margin-bottom:10px;">
+		  <tbody><tr>
+			<td width="320" style="text-align:left;"><a border="0" href="/"><img border="0" src="/i/GPWA_logo.gif" width="183" height="69" alt="GPWA"></a></td>
+			<td width="470"><!-- BEGIN GPWA SPONSORS BANNER CODE TOP 468X60 -->
+				<div id="headerAd">
+							<iframe id="a8d31b92" name="a8d31b92" src="http://as1.casinocity.com/www/delivery/afr.php?zoneid=8&amp;target=_blank" framespacing="0" frameborder="no" scrolling="no" width="468" height="60"><a href='http://as1.casinocity.com/www/delivery/ck.php?n=a0f7c2ba' target='_blank'><img src='http://as1.casinocity.com/www/delivery/avw.php?zoneid=8&amp;n=a0f7c2ba' border='0' alt='' /></a></iframe>
+					
+				</div><!-- END GPWA SPONSORS BANNER CODE TOP 468X60 -->
+			</td>
+		  </tr>
+		 </tbody></table>
+		  
+			
+				<table border="0" style="width:100%;text-align:left;padding-bottom:10px">
+					<tbody><tr>
+						<td style="font-size:11px; font-family:verdana;height:15px;text-align:left;vertical-align:middle">
+							<div id="login" style="float:left;font-size:11px; font-family:verdana;height:15px;text-align:left;vertical-align:middle;">
+Welcome, Guest &nbsp;[
 
-				<li>
-					<div id="wikiList"><a href="/wiki/">Wiki</a></div>
-				</li>
 
-				<li>
-					<div id="community"><a href="/forum/group.php" rel="nofollow">COMMUNITY</a></div>
-					<ul id="communityitems">
-						<li><a href="/forum/group.php">Social Groups</a></li>
-						<li><a href="/forum/online.php">Who's Online</a></li>
-						<!---<li><a href="/photopost">Photos</a></li>--->
-					</ul>
-				</li>
-				<li><a href="/affiliateprograms/">AFFILIATE PROGRAMS</a>
-					<ul>
-						<li><a href="/affiliateprograms/" title="Program Directory">Program Directory</a></li>
-						<li><a href="/affiliateprograms/affiliateSearch.asp" title="Program Gaming Sites">Program Gaming Sites</a></li>
-						<li><a href="/sponsor/codeofconduct.asp" title="Code of Conduct">Code of Conduct</a></li>
-						<li><a href="/tweets" title="Tweets">Tweets</a></li>
-					</ul>
-				</li>
-				<li><a href="/portal_sites/portal_seal.asp">PORTALS</a>
-					<ul>
-						<li><a href="/portal_sites/portal_seal.asp" title="Seal of Approval Program">Seal of Approval Program</a></li>
-						<li><a href="/portal_sites/index.asp?type=approved" title="Approved Portals">Approved Portals</a></li>
-						<li><a href="/portal_sites/index.asp" title="Member Portals">Member Portals</a></li>
-					</ul>
-				</li>
-				<li><a href="/members/index.asp?sort=A">MEMBERS</a>
-					<ul>
-						<li><a href="/members/index.asp?sort=A" title="Member Directory">Member Directory</a></li>
-						<li><a href="/forum/calendar.php" title="Member's Birthdays">Member Birthdays</a></li>
-						<li><a href="/register.asp" title="Become a Member">Become a Member</a></li>
-					</ul>
-				</li>
-				<li><a href="/gpwa_times/">GPWA TIMES</a>
-					<ul>
-						<li><a href="/gpwa_times/">Current Newsletter</a>
-						</li><li><a href="/gpwa_times/archives.asp">Newsletter Archives</a></li>
-						<li><a href="/magazine">Magazine</a></li>
-					</ul>
-				</li>
-				<!--<li><a href="http://www.gpwaconference.com" target="_blank">CONFERENCES</a>
-					<ul>
-						<li><a href="http://www.gpwaconference.com" target="_blank">GPWA Conference</a></li>
-						<li><a href="/conferences">Industry Conferences</a></li>
-					</ul>
-				</li>-->
-				<li><a href="/news/index.asp">NEWS</a>
-					<ul>
-					    <li><a href="/news/webmasters-news.asp" title="Webmasters News">Webmasters News</a></li>
-						<li><a href="/news/affiliate-news.asp" title="Affiliate Program News">Affiliate Program News</a></li>
-						<li><a href="/news/legal-news.asp" title="Legal News">U.S. Legislation News</a></li>
-						<li><a href="/news/other-industry-news.asp" title="Other Industry News">Other Industry News</a></li>
-						<li><a href="/resources" title="Resources">Resources</a></li>
-					</ul>
-				</li>
-				<li><a href="/about_us.asp">ABOUT US</a></li>
-			</ul>
-		</div>
+
+
+<link type="text/css" rel="stylesheet" href="/static/css/banner-styles.css">
+
+<b><a href="/save/http://www.gpwa.org/login.asp?url=/privacy/index.asp" rel="nofollow">Log In</a> -or- <a href="/save/http://www.gpwa.org/register.asp">Join GPWA</a></b>]
+
+
+
+
+
+</div>
+							<div id="notifications" style="float:right;font-size:11px; font-family:verdana;height:15px;vertical-align:middle;display:none">
+								<a href="/forum/usercp.php">Notifications: </a> 
+							</div> 
+							<div style="clear:both"></div>
+						</td>
+						<td style="height:15px;vertical-align:top;float:right">
+							<form action="" method="post" style="display:inline;" name="SearchForm" onsubmit="return vbSearch()">
+							<input type="hidden" name="do" value="process">
+							<input type="hidden" name="showposts" value="0">
+							<input type="hidden" name="quicksearch" value="1">
+							<input type="hidden" name="s" value="">
+							<input type="text" name="query" id="query" style="font-size:11px; font-family:verdana;height:14px;width:200px;vertical-align:middle;padding: 2px 0px 0px 2px;" onfocus="this.value='';" value="Search Our Forums">
+							<input style="font-size:10px;font-family:verdana;height:19px;" align="absmiddle" type="image" src="/i/search_btn.gif" value="search" alt="search"> &nbsp; <a href="/forum/search.php">Advanced Search</a>
+						   </form>
+						</td>
+					</tr>
+				</tbody></table>
+			
+		  
+		
+	</div>
+	<br class="clear">
+
+	<div id="navContainer" style="width:100%">
+		<ul class="jd_menu" id="nav">
+			<li>
+					<div id="myaccount"><a href="/login.asp?url=/privacy/index.asp">MY ACCOUNT</a></div>
+				<ul id="myaccountitems">
+					<li><a href="/login.asp?url=/privacy/index.asp">Member Login</a></li>
+					<li><a href="/register.asp">Create an Account</a></li>
+				</ul>
+			</li>
+			<li><a href="/forum/">FORUMS</a>
+				<ul id="forumsitems">
+					<li><a href="/forum/">Forum Home</a></li>
+					<li><a href="/forum/search.php?do=getnew">New Posts</a></li>
+					<li><a href="/forum/search.php?do=getdaily">Today's Posts</a></li>
+					<li><a href="/forum/blogs/">Blogs</a></li>
+				</ul>
+			</li>
+
+			<li>
+				<div id="wikiList"><a href="/wiki/">Wiki</a></div>
+			</li>
+
+			<li>
+				<div id="community"><a href="/forum/group.php" rel="nofollow">COMMUNITY</a></div>
+				<ul id="communityitems">
+					<li><a href="/forum/group.php">Social Groups</a></li>
+				</ul>
+			</li>
+			<li><a href="/affiliateprograms/">AFFILIATE PROGRAMS</a>
+				<ul>
+					<li><a href="/affiliateprograms/" title="Program Directory">Program Directory</a></li>
+					<li><a href="/affiliateprograms/affiliateSearch.asp" title="Program Gaming Sites">Program Gaming Sites</a></li>
+					<li><a href="/sponsor/codeofconduct.asp" title="Code of Conduct">Code of Conduct</a></li>
+					<li><a href="/tweets" title="Tweets">Tweets</a></li>
+				</ul>
+			</li>
+			<li><a href="/portal_sites/portal_seal.asp">PORTALS</a>
+				<ul>
+					<li><a href="/portal_sites/portal_seal.asp" title="Seal of Approval Program">Seal of Approval Program</a></li>
+					<li><a href="/portal_sites/index.asp?type=approved" title="Approved Portals">Approved Portals</a></li>
+					<li><a href="/portal_sites/index.asp" title="Member Portals">Member Portals</a></li>
+				</ul>
+			</li>
+			<li><a href="/members/index.asp?sort=A">MEMBERS</a>
+				<ul id="memberitems">
+					<li><a href="/members/index.asp?sort=A" title="Member Directory">Member Directory</a></li>
+					<li><a href="/register.asp" title="Become a Member">Become a Member</a></li>
+				</ul>
+			</li>
+			<li><a href="/gpwa_times/">GPWA TIMES</a>
+				<ul>
+					<li><a href="/gpwa_times/">Current Newsletter</a>
+					</li><li><a href="/gpwa_times/archives.asp">Newsletter Archives</a></li>
+					<li><a href="/magazine">Magazine</a></li>
+				</ul>
+			</li>
+			<!--<li><a href="http://www.gpwaconference.com" target="_blank">CONFERENCES</a>
+				<ul>
+					<li><a href="http://www.gpwaconference.com" target="_blank">GPWA Conference</a></li>
+					<li><a href="/conferences">Industry Conferences</a></li>
+				</ul>
+			</li>-->
+			<li><a href="/news/index.asp">NEWS</a>
+				<ul>
+					<li><a href="/news/webmasters-news.asp" title="Webmasters News">Webmasters News</a></li>
+					<li><a href="/news/affiliate-news.asp" title="Affiliate Program News">Affiliate Program News</a></li>
+					<li><a href="/news/legal-news.asp" title="Legal News">U.S. Legislation News</a></li>
+					<li><a href="/news/other-industry-news.asp" title="Other Industry News">Other Industry News</a></li>
+					<li><a href="/resources" title="Resources">Resources</a></li>
+				</ul>
+			</li>
+			<li><a href="/about_us.asp">ABOUT US</a></li>
+		</ul>
+	</div>
 
 <div id="contentContainer">
 <!-- AB-Column -->
@@ -388,4 +444,4 @@ _uacct = "UA-295029-8";
 urchinTracker();
 </script>
 
-</div></body></html>
+</body></html>
