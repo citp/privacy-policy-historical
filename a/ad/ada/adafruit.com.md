@@ -1,57 +1,61 @@
-> *The following text is extracted and transformed from the adafruit.com privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206025702id_/http%3A//www.adafruit.com/index.php%3Fmain_page%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adafruit.com privacy policy that was archived on 2013-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131104121511id_/http%3A//www.adafruit.com/privacy) for the most accurate reproduction.*
 
-# Privacy Notice : Adafruit Industries, Unique & fun DIY electronics and kits
+# Privacy : Adafruit Industries, Unique & fun DIY electronics and kits
 
-**Our Commitment To Privacy**
+This Privacy Policy governs the manner in which Adafruit Industries, LLC collects, uses, maintains and discloses information collected from users (each, a "User") of the <http://www.adafruit.com/> website ("Site"). This privacy policy applies to the Site and all products and services offered by Adafruit Industries, LLC.
 
-Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested. 
+**Personal identification information**  
+We may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, register on the site, place an order, subscribe to the newsletter, respond to a survey, fill out a form, and in connection with other activities, services, features or resources we make available on our Site. Users may be asked for, as appropriate, name, email address, mailing address, phone number, credit card information. Users may, however, visit our Site anonymously. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.
 
-**The Information We Collect:**
+**Non-personal identification information**  
+We may collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Site, such as the operating system and the Internet service providers utilized and other similar information.
 
-This notice applies to all information collected or submitted on the [company name] website. On some pages, you can order products, make requests, and register to receive materials. The types of personal information collected at these pages are: 
+**Web browser cookies**  
+Our Site may use "cookies" to enhance User experience. User's web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.
 
-Name   
-Address   
-Email address   
-Phone number   
-(etc.) 
+**How we use collected information**  
+Adafruit Industries, LLC may collect and use Users personal information for the following purposes:
+
+  * _\- To improve customer service_  
+Information you provide helps us respond to your customer service requests and support needs more efficiently.
+  * _\- To personalize user experience_  
+We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.
+  * _\- To improve our Site_  
+We may use feedback you provide to improve our products and services.
+  * _\- To process payments_  
+We may use the information Users provide about themselves when placing an order only to provide service to that order. We do not share this information with outside parties except to the extent necessary to provide the service.
+  * _\- To run a promotion, contest, survey or other Site feature_  
+To send Users information they agreed to receive about topics we think will be of interest to them.
+  * _\- To send periodic emails_  
+We may use the email address to send User information and updates pertaining to their order. It may also be used to respond to their inquiries, questions, and/or other requests. If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email or User may contact us via our Site.
 
 
-On some pages, you can submit information about other people. For example, if you order a gift online and want it sent directly to the recipient, you will need to submit the recipient's address. In this circumstance, the types of personal information collected are: 
 
-Name   
-Address   
-(etc.) 
+**How we protect your information**  
+We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Site.
 
+Sensitive and private data exchange between the Site and its Users happens over a SSL secured communication channel and is encrypted and protected with digital signatures. Our Site is also in compliance with PCI vulnerability standards in order to create as secure of an environment as possible for Users.
 
-**The Way We Use Information:**
+**Sharing your personal information**  
+We do not sell, trade, or rent Users personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above.
 
-We use the information you provide about yourself when placing an order only to complete that order. We do not share this information with outside parties except to the extent necessary to complete that order. 
+**Law enforcement requests**  
+Adafruit has never been requested to hand over customer data or information in any way by any person, government or law enforcement agency. If we requested we would only do so if there was a court order and/or our lawyers said we needed to. We would publicly disclose any requests and inform the customer unless we were not allowed to. We value your privacy and ours, we will fight any requests that did not uphold our values.
 
-We use the information you provide about someone else when placing an order only to ship the product and to confirm delivery. We do not share this information with outside parties except to the extent necessary to complete that order. 
+**Third party websites**  
+Users may find advertising or other content on our Site that link to the sites and services of our partners, suppliers, advertisers, sponsors, licensors and other third parties. We do not control the content or links that appear on these sites and are not responsible for the practices employed by websites linked to or from our Site. In addition, these sites or services, including their content and links, may be constantly changing. These sites and services may have their own privacy policies and customer service policies. Browsing and interaction on any other website, including websites which have a link to our Site, is subject to that website's own terms and policies.
 
-We use return email addresses to answer the email we receive. Such addresses are not used for any other purpose and are not shared with outside parties. 
+**Changes to this privacy policy**  
+Adafruit Industries, LLC has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
 
-You can register with our website if you would like to receive our newsletter as well as updates on our new products and services. Information you submit on our website will not be used for this purpose unless you fill out the registration form. 
+**Your acceptance of these terms**  
+By using this Site, you signify your acceptance of this policy and [terms of service](http://www.adafruit.com/terms_of_service/). If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
 
-Finally, we never use or share the personally identifiable information provided to us online in ways unrelated to the ones described above without also providing you an opportunity to opt-out or otherwise prohibit such unrelated uses. 
+**Contacting us**  
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
+Adafruit Industries, LLC  
+150 Varick Street  
+New York, New York 10013  
+support@adafruit.com
 
-**Our Commitment To Data Security**
-
-To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online. 
-
-**Our Commitment To Children's Privacy:**
-
-Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our website from those we actually know are under 13, and no part of our website is structured to attract anyone under 13. 
-
-**How You Can Access Or Correct Your Information**
-
-You can access all your personally identifiable information that we collect online and maintain by securely logging into your account and clicking on "My Account" at the top of this page. We use this procedure to better safeguard your information. 
-
-You can correct factual errors in your personally identifiable information by sending us a request that credibly shows error. 
-
-To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections. 
-
-**How To Contact Us**
-
-Should you have other questions or concerns about these privacy policies, please [contact us](http://www.adafruit.com/index.php?main_page=contact_us). 
+_This document was last updated on June 12, 2013_
