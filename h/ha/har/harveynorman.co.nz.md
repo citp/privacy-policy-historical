@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the harveynorman.co.nz privacy policy that was archived on 2013-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130623224021id_/http%3A//www.harveynorman.co.nz/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the harveynorman.co.nz privacy policy that was archived on 2013-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131104074254id_/https%3A//www.harveynorman.co.nz/corporate-information/privacy-policy.html) for the most accurate reproduction.*
 
-# Corporate Information :: Privacy Policy - Harvey Norman New Zealand
+# Harvey Norman Website Privacy PolicyPrivacy Policy | Harvey Norman New Zealand
 
 ### 1.    Application
 
@@ -112,10 +112,9 @@ Mail:    Private Bag 94035
 South Auckland Mail Centre  
 Wiri Auckland 2240  
 Fax:    \+ 64 9 262 3994  
-Email:    [privacy.officer@nz.harveynorman.com](mailto:privacy.officer@nz.harveynorman.com)   
+Email:    [privacy.officer@nz.harveynorman.com](mailto:privacy.officer@nz.harveynorman.com)
 
-
-###  12.    Changes
+### 12.    Changes
 
 ****We reserve the right, at our discretion, to update or revise this Privacy Policy at any time. Changes to this Privacy Policy will take effect immediately once they are published on this website. Please check this Privacy Policy regularly for modifications and updates. By continuing to use this website or providing any personal information after we publish changes to this Privacy Policy, you agree to be bound by this Privacy Policy as revised.
 
