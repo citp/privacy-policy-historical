@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the africa.com privacy policy that was archived on 2013-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130424053120id_/http%3A//www.africa.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the africa.com privacy policy that was archived on 2013-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131104015431id_/http%3A//www.africa.com/privacy_policy) for the most accurate reproduction.*
 
 # AFRICA.COM Privacy Policy
 
