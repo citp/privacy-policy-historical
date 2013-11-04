@@ -1,10 +1,11 @@
-<!--The following is the downloaded HTML source of the citypass.com privacy policy that was archived on 2013-04-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130430120422id_/http%3A//www.citypass.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the citypass.com privacy policy that was archived on 2013-11-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131104031718id_/http%3A//www.citypass.com/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html lang="en-us" class=" js no-touch rgba csstransitions generatedcontent"><!--<![endif]--><head>
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-  <meta name="viewport" content="width=device-width; initial-scale=1.0;  maximum-scale=1.0;">
+<!DOCTYPE html><html lang="en-us" style="" class=" js no-touch rgba csstransitions generatedcontent no-overflowscrolling"><!--<![endif]--><head>
+		
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+	<meta name="viewport" content="width=device-width; initial-scale=1.0;  maximum-scale=1.0;">
 	
 	<title>Privacy &amp; Security | CityPASS®</title>
 	<meta name="description" content="CityPASS® Privacy &amp; Security">
@@ -33,7 +34,19 @@
 	<script src="/jsnew/lib/css3-mediaqueries.js"></script>
 	<![endif]-->
 		
-	<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+	<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
+		var _gaq = _gaq || [];
+		_gaq.push(['_setAccount', 'UA-531856-1']);
+		_gaq.push(['_setDomainName','citypass.com']);
+		
+		(function() {
+			var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+			ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		})();
+	</script>
+	
+	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
 	<script>window.jQuery || document.write('<script src="/jsnew/lib/jquery-1.7.2.min.js"><\/script>')</script><script src="/jsnew/lib/jquery-1.7.2.min.js"></script>
 	
 	<script>
@@ -43,31 +56,26 @@
 		window.optimizely = window.optimizely || [];
 	</script>
 	
-	<script src="//cdn.optimizely.com/js/155521286.js"></script>
-				
 	<script src="/jsnew/lib/modernizr.js"></script>
+
 	
+	<script src="//cdn.optimizely.com/js/155521286.js"></script>
+	
+	<script>
+		var tmpRef = (RegExp('cp_overref=' + '(.*?)(&|$)').exec(window.location.search) || [,null])[1];
+		if (tmpRef !== null) {
+			_gaq.push(['_setReferrerOverride', decodeURIComponent(tmpRef)]);
+		}
+				
+		_gaq.push(['_trackPageview']);
+				
+		_gaq.push(['_trackPageLoadTime']);
+	</script>
+			
 			
 	<script type="text/javascript" src="//use.typekit.com/ksz0jnh.js"></script>
 	<script type="text/javascript">try{Typekit.load();}catch(e){}</script>
-		
-	<script type="text/javascript">
-		var _gaq = _gaq || [];
-		_gaq.push(['_setAccount', 'UA-531856-1']);
-		_gaq.push(['_setDomainName','citypass.com']);
-		
-		//if(document.location.hash != '' && document.location.hash.match(/#ref=/)) {
-		//	_gaq.push(['_setReferrerOverride', decodeURIComponent(document.location.hash.replace(/#ref=/, ''))]); 
-		//}
-		
-		_gaq.push(['_trackPageview']);
-		_gaq.push(['_trackPageLoadTime']);
-		(function() {
-			var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-			ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-		})();
-	</script>	
+			
 </head>
 <body id="privacy" class="lang-en translations-available general general-privacy general-info">
 		
@@ -92,8 +100,18 @@
 	</div>
 	
 		<div class="h-cart">
-		<a class="h-cart-link h-cart-icon s s-t s-g" href="https://www.citypass.com/cart" track="headercart">Cart</a>
-		<a id="cart_num" class="h-cart-link h-cart-num" href="https://www.citypass.com/cart" track="headercart">0</a>
+		<a class="h-cart-link h-cart-icon s s-t s-g" href="https://www.citypass.com/checkout" track="headercart">Cart</a>
+		<a id="cart_num" class="h-cart-link h-cart-num" href="https://www.citypass.com/checkout" track="headercart">0</a>
+	</div>
+	<div id="cart_return" class="cart-return box b-sm">
+		<a class="tclose cr-close"></a>
+		<p>
+			<b class="upsize">Welcome Back!</b><br>
+			You have items in your cart.
+		</p>
+		<p>
+			<a href="https://www.citypass.com/checkout" class="arw-link upsize" track="cartreturn">Return to cart&nbsp;»</a>
+		</p>
 	</div>
 	
 		
@@ -154,6 +172,10 @@
 	<li><a href="/site-map">Site Map</a></li>
 		
 	<li><a href="/reviews">CityPASS Reviews</a></li>
+		
+	<li><a href="/photos">CityPASS Photos</a></li>
+		
+	<li><a href="/forums">CityPASS Forums</a></li>
 		
 </ul>
 
@@ -361,33 +383,34 @@ Once you enter the checkout page, your computer will begin communicating with ou
 		<div class="foot-links">
 			<div class="foot-link-col">
 				<h4>Customer Service</h4>
-				<a href="http://support.citypass.com" track="footer support footersupport">Support Center</a>
-				<br>
-				(888) 330-5008<br>
-				+1 (208) 787-4300<br>
+				<a href="http://support.citypass.com" track="footer support footersupport">Support Center</a><br>
+				<b>US &amp; Canada:</b><br>
+				(888) 330-5008 (toll free)<br>
+				<b>UK:</b>&nbsp; +44 (0)203 287 8369<br>
+				<b>Direct:</b>&nbsp; +1 (208) 787-4300<br>
 				<br>
 				7 Days a Week<br>
 				8am-5pm MDT<br>
 				Translation Available			</div>
 			<div class="foot-link-col foot-info-br">
 				<h4>More Information</h4>
-				<a class="foot-h" href="/about" track="footer">About Us</a>
-				<a class="foot-h" href="/contact" track="footer">Contact Us</a>
-				<a href="/privacy" track="footer">Privacy &amp; Security</a>
-				<a href="/shipping" track="footer">Shipping Details</a>
-				<a class="modal-return" href="javascript:;" track="footer">365 Day Return Policy</a>
-				<a href="/groups" track="footer">Group Information</a>
-				<a class="foot-h" href="/site-map" track="footer">Site Map</a>
-				<a class="foot-h" href="/reviews" track="footer">CityPASS Reviews</a>
-								<a class="foot-h" href="http://support.citypass.com" track="footer">FAQ</a>
+				<a class="foot-h" href="/about" track="footer aboutus">About Us</a>
+				<a class="foot-h" href="/contact" track="footer contactus">Contact Us</a>
+				<a href="/privacy" track="footer privacysecurity">Privacy &amp; Security</a>
+				<a href="/shipping" track="footer shippingdetails">Shipping Details</a>
+				<a class="modal-return" href="javascript:;" track="footer returnpolicy">365 Day Return Policy</a>
+				<a href="/groups" track="footer groups">Group Information</a>
+				<a class="foot-h" href="/site-map" track="footer sitemap">Site Map</a>
+				<a class="foot-h" href="/reviews" track="footer reviews">CityPASS Reviews</a>
+								<a class="foot-h" href="http://support.citypass.com" track="footer faq">FAQ</a>
 				
 			</div>
 			<div class="foot-link-col foot-h">
 				<h4>City Pass Partners</h4>
-				<a href="/partners/affiliates" track="footer">Affiliate Program</a>
-				<a href="/partners/travel-trade" track="footer">Travel Trade</a>
-				<a href="https://partner.citypass.com/login.aspx" track="footer">Attraction Login</a>
-				<a style="margin-top:1.5em;" href="/media-room" track="footer">Media Room</a>
+				<a href="/partners/affiliates" track="footer affiliateprogram">Affiliate Program</a>
+				<a href="/partners/travel-trade" track="footer traveltrade">Travel Trade</a>
+				<a href="https://partner.citypass.com/login.aspx" track="footer attractionlogin">Attraction Login</a>
+				<a style="margin-top:1.5em;" href="/media-room" track="footer mediaroom">Media Room</a>
 			</div>
 		</div>
 	</div>
@@ -416,10 +439,10 @@ Once you enter the checkout page, your computer will begin communicating with ou
 				
 					
 			<h4>CityPASS News/Updates</h4>
-			<form id="form_enews" class="foot-sect foot-enews s" name="enews" action="http://citypasspass.us1.list-manage.com/subscribe/post?u=d11dfdfa1934a447bfa1b9e3f&amp;id=785ed9f4eb" method="post" target="_blank">
-				<input type="hidden" name="MMERGE7" value="Website">
-				<input id="mce-EMAIL" name="EMAIL" class="required foot-email" type="email" value="email"><a id="mc-embedded-subscribe" class="btn-signup btn" href="javascript:;" track="enewssignup">signup</a>
-			</form>
+			<div class="foot-sect foot-enews s">
+				<input id="enews_email" name="EMAIL" class="foot-email" type="email" value="email"><a id="enews_btn" class="btn-signup btn" href="javascript:;" track="enewssignup">signup</a>
+			</div>
+			<div id="enews_confirm" class="box b-sm foot-sect foot-confirm">Thank you for subscribing</div>
 				
 		
 		</div>
@@ -453,7 +476,8 @@ Once you enter the checkout page, your computer will begin communicating with ou
 	<script src="/jsnew/cp-plugins.js"></script>
 	<script src="/jsnew/cp-load.js"></script>
 	<script>
-	 	var cartUrl = "https://www.citypass.com/cart";
+		
+	 	var cartUrl = "https://www.citypass.com/checkout";
 		
 		var jsDir = "/jsnew";
 		var cssDir = "/cssnew";
@@ -466,7 +490,7 @@ Once you enter the checkout page, your computer will begin communicating with ou
 		var cookiesDisabledMsg = "Cookies must be enabled on your browser in order to purchase from citypass.com.  To enable cookies, update the setting on your browser to accept cookies and refresh the page.";
 		var emailRequiredMsg = "Email address is required.";
 		var emailInvalidMsg = "Please enter a valid email address.";
-		
+
 		
 		initHeader();
 		
@@ -477,7 +501,7 @@ Once you enter the checkout page, your computer will begin communicating with ou
 	<!-- TRACKING -->
 		
 		
-		
+			
 
 
 </body></html>
