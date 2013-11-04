@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rightpundits.com privacy policy that was archived on 2013-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130505100105id_/http%3A//www.rightpundits.com/%3Fpage_id%3D1269) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rightpundits.com privacy policy that was archived on 2013-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131104145545id_/http%3A//www.rightpundits.com/%3Fpage_id%3D1269) for the most accurate reproduction.*
 
 # Privacy Policy » Right Pundits
 
