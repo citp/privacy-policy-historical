@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the articlecontentprovider.com privacy policy that was archived on 2013-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130503214614id_/http%3A//www.articlecontentprovider.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articlecontentprovider.com privacy policy that was archived on 2013-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131104054412id_/http%3A//www.articlecontentprovider.com/privacy.html) for the most accurate reproduction.*
 
-# Article Writing Service - 512.322.9566
+# Article Writing Service - 800.977.4355
 
 **Our Commitment To Privacy and Nondisclosure**
 
-Your privacy is important to our article writing service. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested. 
+Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested. 
+
+We are happy to provide an NDA or Non-Disclosure Agreement to any client who requests this document. 
 
 **The Information We Collect:**
 
@@ -39,4 +41,4 @@ Protecting the privacy of the very young is especially important. For that reaso
 
 **How To Contact Us**
 
-Should you have other questions or concerns about these privacy policies, please call us at 512.322.9566 or send us an email at webmaster@articlecontentprovider.com. 
+Should you have other questions or concerns about these privacy policies, please call us at 800.977.4355 or send us an email at webmaster@articlecontentprovider.com. 
