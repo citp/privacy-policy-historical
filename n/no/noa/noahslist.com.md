@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the noahslist.com privacy policy that was archived on 2012-02-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120219133538id_/http%3A//www.noahslist.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the noahslist.com privacy policy that was archived on 2013-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131104032837id_/http%3A//noahslist.com/privacy) for the most accurate reproduction.*
 
 # Classifieds Noahslist.com - Noahslist.com
 
@@ -65,8 +65,8 @@ Information Best Practices to help Avoid Scams
 
 Noahslist.com sites are locally operated and so are the ads posted in them. The majority of people posting ads on noahslist.com have good intentions to sell, or trade, or purchase. However... this being said, the ad quality and an ad posters verification does not mean it is a potential scam. It is highly recommended to use caution and to deal locally with people regarding your ads postings. It is best if you can meet with in person and preferably in a very public place MEANING WHERE OTHER PEOPLE ARE. USE CAUTION and take a friend with you if at all possible. Potential SCAMMERS, PEOPLE WHO WRITE FAKE CHECKS or MONEY ORDERS or CASHIERS CHECKS can be AVOIDED and NEVER give out personal information such as anything about your children, your social security number, banking information etc.. Use common Sense. By using noahslist.com, you agree that any communication and transaction for your services or Items, or meeting whether by phone or in person or 3rd party or email etc...are solely your responsibility regardless of the results. . 
 
-The Deals just keep getting better! Post Ads Free Now, It`s Easy.   
-Noah`s List has a huge audience, your ad will be seen by thousands across North America. So don`t wait, post your ad today!
+The Deals just keep getting better! Join and post Now. It`s Easy!   
+ **Classifieds Listings with a local touch and customer support. Noah's List provides premuim listings services for you.  **
 
   
 
