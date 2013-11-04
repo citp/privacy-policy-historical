@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lynxjuan.com privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530024944id_/http%3A//lynxjuan.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lynxjuan.com privacy policy that was archived on 2013-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131104010248id_/http%3A//lynxjuan.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - PCSO LOTTO RESULTS PHILIPPINES PCSO
 
