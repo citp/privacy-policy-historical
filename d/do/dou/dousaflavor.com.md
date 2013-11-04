@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dousaflavor.com privacy policy that was archived on 2013-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130622065013id_/http%3A//www.fritolay.com/about-us/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dousaflavor.com privacy policy that was archived on 2013-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131104215831id_/http%3A//www.fritolay.com/about-us/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Frito-Lay
 
@@ -88,7 +88,7 @@ The Internet is not 100% secure. We cannot promise that your use of our sites wi
 
 Our site may also serve third party content that contains the third party’s own cookies or tracking technologies.  We do not control the use of those technologies.
 
- **FEEL FREE TO CONTACT US IF YOU HAVE MORE QUESTIONS.** If you have any questions about this Policy, please [contact us](https://web.archive.org/about-us/contact-us.html). You can also write to us or call at:
+ **FEEL FREE TO CONTACT US IF YOU HAVE MORE QUESTIONS.** If you have any questions about this Policy, please [contact us](https://cu1.pepsico.com/fritolay). You can also write to us or call at:
 
 Frito-Lay Consumer Relations  
 P.O. Box 660634  
