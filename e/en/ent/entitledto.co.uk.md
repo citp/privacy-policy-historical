@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the entitledto.co.uk privacy policy that was archived on 2013-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130507041532id_/http%3A//www.entitledto.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the entitledto.co.uk privacy policy that was archived on 2013-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131104235949id_/http%3A//www.entitledto.co.uk/privacy) for the most accurate reproduction.*
 
 # Privacy Matters. Our Policies. | entitledto
 
@@ -20,7 +20,7 @@ If you have registered for benefit updates via email we request your name and em
 
 **Postcodes**
 
-We ask users to provide their postcode when they fill in the Benefit Calculator. We ask for that information _exclusively_ to determine which Local Authority area you live in, so that we can determine your entitlement to Council Tax Support and other benefits where location is important. Where policies are set by Local Authorities, or are rolled out in different areas at different times, we need your post code in order to give you an accurate benefits estimate. However, we don’t store your postcode, so once you’ve completed your calculation and left our site, that information is no longer held in our system. We also give you the option to select your Local Authrotiy from our A-Z menu in place of entering a postcode.
+We ask users to provide their postcode when they fill in the Benefit Calculator. We ask for that information _exclusively_ to determine which Local Authority area you live in, so that we can determine your entitlement to Council Tax Support and other benefits where location is important. Where policies are set by Local Authorities, or are rolled out in different areas at different times, we need your post code in order to give you an accurate benefits estimate. However, we don’t store your postcode, so once you’ve completed your calculation and left our site, that information is no longer held in our system. We also give you the option to select your Local Authority from our A-Z menu in place of entering a postcode.
 
 **3rd Party Tracking**  
 
