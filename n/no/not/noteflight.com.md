@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the noteflight.com privacy policy that was archived on 2013-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130630121249id_/http%3A//www.noteflight.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the noteflight.com privacy policy that was archived on 2013-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131105065716id_/http%3A//www.noteflight.com/info/privacy) for the most accurate reproduction.*
 
 # Noteflight - Privacy Policy
 
@@ -41,4 +41,6 @@ Contacting the Web Site
 
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, please contact us.
 
-Defined terms used herein and not defined elsewhere have the meanings prescribed thereto in the [Terms of Use](https://web.archive.org/web/20130630121249id_/http%3A//www.noteflight.com/info/terms_of_use) posted separately on noteflight.com. 
+Defined terms used herein and not defined elsewhere have the meanings prescribed thereto in the [Terms of Use](https://web.archive.org/web/20131105065716id_/http%3A//www.noteflight.com/info/terms_of_use) posted separately on noteflight.com. 
+
+Your browser must have JavaScript enabled to use the new Noteflight. [Use Noteflight Classic](https://web.archive.org/experience/r2)
