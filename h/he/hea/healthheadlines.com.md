@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the healthheadlines.com privacy policy that was archived on 2013-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130511195754id_/http%3A//www.healthheadlines.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthheadlines.com privacy policy that was archived on 2013-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131105015834id_/http%3A//www.healthheadlines.com/privacy) for the most accurate reproduction.*
 
 # HealthHeadlines.com - Privacy Policy
 
