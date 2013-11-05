@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the buseireann.ie privacy policy that was archived on 2013-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130505014414id_/http%3A//buseireann.ie/inner.php%3Fid%3D323) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buseireann.ie privacy policy that was archived on 2013-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131105194715id_/http%3A//www.buseireann.ie/inner.php%3Fid%3D323) for the most accurate reproduction.*
 
 # Privacy Statement - Bus Éireann - View Ireland Bus and Coach Timetables & Buy Tickets
 
