@@ -1,89 +1,61 @@
-> *The following text is extracted and transformed from the mamaway.com privacy policy that was archived on 2012-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121111062434id_/http%3A//www.mamaway.com.au%3Faction%3Dmember_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mamaway.com privacy policy that was archived on 2013-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131105071026id_/http%3A//www.mamaway.com%3Faction%3Dmember_privacy) for the most accurate reproduction.*
 
-# Mamaway Maternity and Breastfeeding Clothes
+# Mamaway USA Stylish Maternity clothes | Maternity Jeans | Nursing Tops | Nursing Lingerie | Baby Ring Slings
 
-  
-We collect information from you when you register on our site, place an order, subscribe to our newsletter, respond to a survey or fill out a form.
+At Mamaway USA Inc. we recognize that privacy is important. This Policy applies to all of the products, services and websites offered by Mamaway USA Inc.
 
-When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address, phone number or payment information. You may, however, visit our site anonymously.
+If you have any questions about this Policy, please feel free to contact us through our website or write to us at Privacy Matters, c/o Mamaway USA Inc. 4950 MacArthur Blvd, Suite 500, Newport Beach CA 92660-2028, United States.
 
-Google, as a third party vendor, uses cookies to serve ads on your site.  
-Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
+You may browse our websites without revealing any personal information about yourself. This is called anonymous access. When you browse our websites as an anonymous user, we collect information about your visit to make the site more useful to all of our visitors and to help grow our business.
 
-  
+The information we collect during the anonymous access visit includes:
 
+Visiting domains
 
-  
-Any of the information we collect from you may be used in one of the following ways:
+Internet addresses of the domains from which people visit to track a user’s session
 
-• To personalize your experience  
-(your information helps us to better respond to your individual needs)
+Browser type and operating system of the visitor
 
-• To improve our website  
-(we continually strive to improve our website offerings based on the information and feedback we receive from you)
+Date, time and length of the visit
 
-• To improve customer service  
-(your information helps us to more effectively respond to your customer service requests and support needs)
+We do not sell, exchange or publish this information; however, we do share this information with specific internal employees and consultants who assist in the implementation and maintenance of our websites.
 
-• To process transactions  
-Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason  
-whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.
+In some sections of our websites we ask that you voluntarily provide information about yourself. The information you provide may include personally identifiable information such as your name, your address, your telephone number and your e-mail address. By submitting this information, you agree that Mamaway USA Inc. may keep a record of the information in order to respond to requests; send you information on the latest Mamaway USA Inc. products, promotions, and events. Therefore, you agree that Mamaway USA Inc. may disclose the information to Mamaway employees, consultants, and any other third party, in order to respond appropriately to your request or to comply with any legal requirements. We will not sell or otherwise disclose your information to third parties except as expressly permitted by this policy.
 
-• To administer a contest, promotion, survey or other site feature
+We may use cookies to deliver content specific to your interests and to otherwise specifically tailor your experience on the site. We use reasonable security measures, such as encryption and firewalls, to ensure against the loss, misuse or alteration of the information under our control.
 
-• To send periodic emails  
-The email address you provide for order processing, may be used to send you information and updates pertaining to your order,  
-in addition to receiving occasional company news, updates, related product or service information, etc.  
-Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at  
-the bottom of each email.
+This site contains links to other sites on the Internet. We are not responsible for the content or privacy practice of any other Internet sites.
 
-  
+Mamaway USA Inc. only processes personal information for the purposes described in the applicable Privacy Policy and/or privacy notice for specific services. In addition to the above, such purposes include:
+
+  * Providing our products and services to users;
+  * Auditing, research and analysis in order to maintain, protect and improve our services;
+  * Developing new services.
 
 
-  
-We implement a variety of security measures to maintain the safety of your personal information when you place an order or access your personal information.
 
-We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to?keep the information confidential.
+Mamaway USA Inc. processes personal information on our servers in the United States of America and in other countries. In some cases, we process personal information on a server outside your own country. We may process personal information to provide our own services.
 
-After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be stored on our servers.
+If Mamaway USA Inc. becomes involved in a merger, acquisition, or any form of sale of some or all of its assets, we will provide notice before personal information is transferred and becomes subject to a different privacy policy.
 
-  
+Please contact us at the address below for any additional questions about the management or use of personal data.
 
+Privacy Matters: Mamaway USA Inc. 4950 MacArthur Blvd, Suite 500, Newport Beach CA 92660-2028, United States.
 
-  
-Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information
+We take appropriate security measures to protect against unauthorized access to or unauthorized alteration, disclosure or destruction of data. These include internal reviews of our data collection, storage and processing practices and security measures, as well as physical security measures to guard against unauthorized access to systems where we store personal data.
 
-We use cookies to understand and save your preferences for future visits, keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business.
+We restrict access to personal information to Mamaway employees, contractors and agents who need to know that information in order to operate, develop or improve our services. These individuals are bound by confidentiality obligations and may be subject to discipline, including termination and criminal prosecution, if they fail to meet these obligations.
 
-If you prefer, you can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies via your browser settings. Like most websites, if you turn your cookies off, some of our services may not function properly. However, you can still place orders over the telephone or by contacting customer service.
+Mamaway USA Inc. processes personal information only for the purposes for which it was collected and in accordance with this Policy or any applicable service-specific privacy notice. We review our data collection, storage and processing practices to ensure that we only collect, store and process the personal information needed to provide or improve our services. We take reasonable steps to ensure that the personal information we process is accurate, complete, and current, but we depend on our users to update or correct their personal information whenever necessary.
 
-  
+Mamaway USA Inc. regularly reviews its compliance with this Policy. Please feel free to direct any questions or concerns regarding this Policy or Mamaway USA Inc's treatment of personal information by contacting us through this web site or by writing to us at Privacy Matters, c/o
 
+Mamaway USA Inc. 4950 MacArthur Blvd, Suite 500, Newport Beach CA 92660-2028, United States.
 
-  
-We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+When we receive formal written complaints at this address, it is Mamaway USA Inc's policy to contact the complaining user regarding his or her concerns. We will cooperate with the appropriate regulatory authorities, including local data protection authorities, to resolve any complaints regarding the transfer of personal data that cannot be resolved between Mamaway USA Inc. and an individual.
 
-  
+Please note that this Privacy Policy may change from time to time. We will not reduce your rights under this Policy without your explicit consent, and we expect most such changes will be minor. Regardless, we will post any Policy changes on this page and, if the changes are significant, we will provide a more prominent notice (including, for certain services, email notification of Policy changes). Each version of this Policy will be identified at the top of the page by its effective date.
 
+If you have any additional questions or concerns about this Policy, please feel free to contact us any time through this web site or at Privacy Matters, c/o 
 
-  
-Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
-
-  
-
-
-  
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [http://www.mamaway.com.au](http://www.mamaway.com.au/)
-
-  
-
-
-  
-By using our site, you consent to our web site privacy policy.
-
-  
-
-
-  
-If we decide to change our privacy policy, we will update the Privacy Policy modification date below.  
-This policy was last modified on 28/07/2010
+Mamaway USA Inc. 4950 MacArthur Blvd, Suite 500, Newport Beach CA 92660-2028, United States.
