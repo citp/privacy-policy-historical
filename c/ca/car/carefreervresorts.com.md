@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the carefreervresorts.com privacy policy that was archived on 2013-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130510033004id_/http%3A//www.carefreervresorts.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carefreervresorts.com privacy policy that was archived on 2013-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131105111954id_/http%3A//www.carefreervresorts.com/privacy) for the most accurate reproduction.*
 
 # Privacy Statement
 
