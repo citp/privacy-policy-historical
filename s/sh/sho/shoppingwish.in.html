@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the shoppingwish.in privacy policy that was archived on 2013-05-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130528084523id_/http%3A//shoppingwish.in/help/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the shoppingwish.in privacy policy that was archived on 2013-11-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131105234427id_/http%3A//shoppingwish.in/help/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
     <title>ShoppingWish - Your wishes, home delivered!</title>
@@ -31,10 +31,10 @@
 	  <![endif]-->
 		<link rel="stylesheet" type="text/css" href="http://shoppingwish.in/css/sw2/shoplist/webrupee.10.17.12.css" media="screen">
 
-	<link rel="stylesheet" type="text/css" media="screen" href="http://cdn.shoppingwish.in/css/min/sw/459cb1dc4fa76b8c3948dfa4933b8890.css?v=125">
-<link rel="stylesheet" type="text/css" media="screen" href="http://cdn.shoppingwish.in/css/min/sw/0ff7f75671333905988d3eb632fdb18a.css?v=125">
+	<link rel="stylesheet" type="text/css" media="screen" href="http://cdn.shoppingwish.in/css/min/sw/459cb1dc4fa76b8c3948dfa4933b8890.css?v=146">
+<link rel="stylesheet" type="text/css" media="screen" href="http://cdn.shoppingwish.in/css/min/sw/0ff7f75671333905988d3eb632fdb18a.css?v=146">
+
 	
-	    
 	<!-- Include javascript -->
 	<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.0/jquery.min.js" type="text/javascript"></script>
 
@@ -69,7 +69,7 @@
     </script>
     <meta itemprop="image" content="http://cdn.shoppingwish.in/images/shoppingWishLogo.v2.png">
 <script src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8.16/jquery-ui.min.js"></script></head>
-<body class="body_class">
+<body class="body_class activebg">
 	<div id="fb-root"></div>
 
 	<div id="contentWrapper">
@@ -79,11 +79,11 @@
                 <a onclick="_gaq.push(['_trackEvent', 'on-demand-refresh', 'click', '']);" href="javascript:window.location.reload(true);" class=""><span class="refersh-img"></span>
                     <span>We have updated prices from <span id="updated_stores"></span>! <span class="clicktoupdate">Click to see now</span></span>
                 </a>
-            </p> 
+            </p>
         </div>
         </div>
-		<div class="header_navigation_wrapper"></div>
-        
+		<div class="header_navigation_wrapper" style="display:none;"></div>
+
     <div id="header_part">
         <!--[if IE 8]>
 <style>
@@ -91,7 +91,7 @@
 </style>
 <![endif]-->
 
-
+<link href="http://fonts.googleapis.com/css?family=Lato:700,400,300" rel="stylesheet" type="text/css">
 
 <div class="header_wrapper">
     <div class="header_main_wrapper">
@@ -99,26 +99,19 @@
             <div class="logo_wrapper">
                                 <a href="/" style=""><img alt="ShoppingWish - You wishes, home delivered!" title="ShoppingWish - You wishes, home delivered!" id="logo" style="border-top-width: 0px; border-left-width: 0px; border-bottom-width: 0px; border-right-width: 0px;" src="http://cdn.shoppingwish.in/images/shoppingWishLogo.v3.png"></a>
             </div>
-            <!--<div class="search_wrapper searchboxBG">-->
+                        <!--<div class="search_wrapper searchboxBG">-->
                 <table class="header_searchTbl" style="">
-                <tbody><tr>
+                <tbody><tr><!--
                     <td class="floatL category-style pad0" style="position: relative;">
                         <div class="search-cat-mask" style=""></div>
-                        <select class="search-cat">
-            <option>All</option>
-            <option>Books</option>
-            <option>Mobiles</option>
-            <option>Cameras</option>
-            <option>Electronics</option>
-            <option>Computers &amp; Accessories</option>
-            <option>Kitchen Appliances</option>
-            <option>Home Appliances</option>
-            <option>Personal Care</option>
-    </select>                    </td>
+                                            </td>-->
                     <td class="floatL searchbox-td" style="padding-left: 0px;padding-right: 5px;">
-                    	<span class="searchIconNew"></span>
-                        <input type="text" id="product_key" name="product_key" class="" maxlength="70" placeholder="What are you looking to buy?">
-                        <span class="searchAutoAjax floatL"><img src="http://cdn.shoppingwish.in/images/ajax-loader1.gif"></span>
+                                                <form action="/search" id="search_frm">
+                        <input type="text" id="product_key" name="q" class="" maxlength="70" placeholder="What are you looking to buy?" value="">
+                        </form>
+                                                <span class="searchAutoAjax floatL"><img src="http://cdn.shoppingwish.in/images/ajax-loader1.gif"></span>
+                        <div class="button-common search-btn-bg"><span class="searchIconNew"></span></div>
+                        
                     </td>
                     <td>
                                                                         				
@@ -190,8 +183,9 @@ $(document).ready(function(){
         }
         var user_action = $("#overlay_user_action").val();
         var currentUrl = $(location).attr('href');
-        if(typeof(storename) != "undefined")
+        if(typeof(storename) != "undefined" && storename == "popupfb")
         {
+            storename = $(".login_box #storename").val();
             currentUrl = currentUrl+"#store="+storename;
         }
         var url = '/home/facebookLogin';
@@ -249,28 +243,294 @@ $(document).ready(function(){
     </div>
 	
 	<!--		Include menu here		-->
-	<link rel="stylesheet" type="text/css" href="http://shoppingwish.in/css/../menu/css/megamenu.css" media="screen">
+		<link rel="stylesheet" type="text/css" href="http://shoppingwish.in/css/../menu/css/megamenu-1406.css" media="screen">
 <!--[if lt IE 9]>
 <link rel="stylesheet" type="text/css" href="http://shoppingwish.in/css/../menu/css/ie/ie.css" media="screen" />
 <![endif]-->
 
-		<div class="wrapper_menu menu_light_theme"><!-- BEGIN MENU WRAPPER -->
+		<div class="top_menu_layer"><!-- BEGIN Top menu layer -->
+			<div>
+				<a class="sel" style="background-position: 10px -200px;" href="/" onclick="_gaq.push(['_trackEvent', 'menu', 'products']);">Products</a>
+				<a class="" style="background-position: 10px -59px;" href="/coupon" onclick="_gaq.push(['_trackEvent', 'menu', 'coupons']);">Coupons</a>
+				<a class="" style="background-position: 10px -130px;" href="/deals" onclick="_gaq.push(['_trackEvent', 'menu', 'deals']);">Deals</a>
+				<a class="" style="background-position: 10px -270px;" href="/specials" onclick="_gaq.push(['_trackEvent', 'menu', 'specials']);">Specials</a>
+				<a class="" style="background-position: 10px -339px;" href="/featured" onclick="_gaq.push(['_trackEvent', 'menu', 'featued']);">Featured</a>
+                <a class="last menu-askq-link" style="background-position: 10px 10px;" href="#" onclick="_gaq.push(['_trackEvent', 'menu', 'ask question']);javascript:void(0);">Ask Question</a>
+				<a target="_blank" class="last menu-microsite-link" style="background-position: 11px 4px;float:right;background-image:url('http://cdn.shoppingwish.in/images/promo/android/mobile-icon.png');text-transform:none;background-color: #f49b39;" href="/apps/scandid-barcode-scanner" onclick="_gaq.push(['_trackEvent', 'menu', 'microsite']);">Got a Smartphone?</a>
+			</div>
+		</div><!-- END Top menu layer -->
+		
+		<div class="wrapper_menu menu_light_theme" style="clear: both;"><!-- BEGIN MENU WRAPPER -->
 			<ul class="menu menu_green"><!-- BEGIN MENU -->
 			
 			<!-- ToDo: Add home link -->
-			<li class="nodrop menu-home-link"><a href="/" onclick="_gaq.push(['_trackEvent', 'menu', 'home']);">&nbsp;</a></li>
-	<li><a href="/browse/mobiles-and-phones" onclick="_gaq.push(['_trackEvent', 'menu', 'Mobiles']);return false;" class="drop">Mobiles</a><span class="menuarrow"></span>	<div class="dropdown_1column"><div class="col_1 firstcolumn"><h3>Mobiles</h3><ul><li><a href="/browse/mobiles-and-phones/blackberry" onclick="_gaq.push(['_trackEvent', 'menu', 'Blackberry']);">Blackberry</a></li><li><a href="/browse/mobiles-and-phones/iphone" onclick="_gaq.push(['_trackEvent', 'menu', 'iPhone']);">iPhone</a></li><li><a href="/browse/mobiles-and-phones/phone" onclick="_gaq.push(['_trackEvent', 'menu', 'All Phones']);">All Phones</a></li></ul></div>	</div></li><li><a href="#" onclick="_gaq.push(['_trackEvent', 'menu', 'Entertainment']);return false;" class="drop">Entertainment</a><span class="menuarrow"></span>	<div class="dropdown_3columns "><div class="col_1 firstcolumn"><h3>Home</h3><ul><li><a href="/browse/home-entertainment/home-theater" onclick="_gaq.push(['_trackEvent', 'menu', 'Home Theater']);">Home Theater</a></li><li><a href="/browse/home-entertainment/television" onclick="_gaq.push(['_trackEvent', 'menu', 'Television']);">Television</a></li><li><a href="/browse/home-entertainment/boombox" onclick="_gaq.push(['_trackEvent', 'menu', 'Boombox']);">Boombox</a></li><li><a href="/browse/home-entertainment/dvd-player" onclick="_gaq.push(['_trackEvent', 'menu', 'DVD Player']);">DVD Player</a></li><li><a href="/browse/home-entertainment/player" onclick="_gaq.push(['_trackEvent', 'menu', 'Player']);">Player</a></li><li><a href="/browse/home-entertainment/projector" onclick="_gaq.push(['_trackEvent', 'menu', 'Projector']);">Projector</a></li></ul></div><div class="col_1 "><h3>Personal</h3><ul><li><a href="/browse/personal-entertainment/mp3-player" onclick="_gaq.push(['_trackEvent', 'menu', 'MP3 Player']);">MP3 Player</a></li><li><a href="/browse/personal-entertainment/ipod" onclick="_gaq.push(['_trackEvent', 'menu', 'iPod']);">iPod</a></li><li><a href="/browse/personal-entertainment/media-player" onclick="_gaq.push(['_trackEvent', 'menu', 'Media Player']);">Media Player</a></li><li><a href="/browse/personal-entertainment/radio" onclick="_gaq.push(['_trackEvent', 'menu', 'Radio']);">Radio</a></li></ul></div><div class="col_1 "><h3>Gaming</h3><ul><li><a href="/browse/gaming/game" onclick="_gaq.push(['_trackEvent', 'menu', 'Game']);">Game</a></li><li><a href="/browse/gaming/psp" onclick="_gaq.push(['_trackEvent', 'menu', 'PSP']);">PSP</a></li><li><a href="/browse/gaming/ps2" onclick="_gaq.push(['_trackEvent', 'menu', 'PS2']);">PS2</a></li><li><a href="/browse/gaming/ps3" onclick="_gaq.push(['_trackEvent', 'menu', 'PS3']);">PS3</a></li><li><a href="/browse/gaming/xbox" onclick="_gaq.push(['_trackEvent', 'menu', 'XBox']);">XBox</a></li><li><a href="/browse/gaming/game-pad" onclick="_gaq.push(['_trackEvent', 'menu', 'Game Pad']);">Game Pad</a></li><li><a href="/browse/gaming/joystick" onclick="_gaq.push(['_trackEvent', 'menu', 'Joystick']);">Joystick</a></li></ul></div>	</div></li><li><a href="/browse/computers" onclick="_gaq.push(['_trackEvent', 'menu', 'Computers']);return false;" class="drop">Computers</a><span class="menuarrow"></span>	<div class="dropdown_1column"><div class="col_1 "><h3>Computers</h3><ul><li><a href="/browse/computers/ipad" onclick="_gaq.push(['_trackEvent', 'menu', 'iPad']);">iPad</a></li><li><a href="/browse/computers/tablet" onclick="_gaq.push(['_trackEvent', 'menu', 'Tablet']);">Tablet</a></li><li><a href="/browse/computers/laptop" onclick="_gaq.push(['_trackEvent', 'menu', 'Laptop']);">Laptop</a></li><li><a href="/browse/computers/desktop" onclick="_gaq.push(['_trackEvent', 'menu', 'Desktop']);">Desktop</a></li><li><a href="/browse/computers/notebook" onclick="_gaq.push(['_trackEvent', 'menu', 'Notebook']);">Notebook</a></li><li><a href="/browse/computers/netbook" onclick="_gaq.push(['_trackEvent', 'menu', 'Netbook']);">Netbook</a></li><li><a href="/browse/computers/macbook" onclick="_gaq.push(['_trackEvent', 'menu', 'Macbook']);">Macbook</a></li></ul></div>	</div></li><li><a href="/browse/photography" onclick="_gaq.push(['_trackEvent', 'menu', 'Cameras']);return false;" class="drop">Cameras</a><span class="menuarrow"></span>	<div class="dropdown_1column"><div class="col_1 "><h3>Cameras</h3><ul><li><a href="/browse/photography/camera" onclick="_gaq.push(['_trackEvent', 'menu', 'Camera']);">Camera</a></li><li><a href="/browse/photography/lens" onclick="_gaq.push(['_trackEvent', 'menu', 'Lens']);">Lens</a></li><li><a href="/browse/photography/tripod" onclick="_gaq.push(['_trackEvent', 'menu', 'Tripod']);">Tripod</a></li><li><a href="/browse/photography/handycam" onclick="_gaq.push(['_trackEvent', 'menu', 'Handycam']);">Handycam</a></li><li><a href="/browse/photography/camcorder" onclick="_gaq.push(['_trackEvent', 'menu', 'Camcorder']);">Camcorder</a></li></ul></div>	</div></li><li><a href="#" onclick="_gaq.push(['_trackEvent', 'menu', 'Appliances']);return false;" class="drop">Appliances</a><span class="menuarrow"></span>	<div class="dropdown_3columns "><div class="col_1 firstcolumn"><h3>Kitchen Appliances</h3><ul><li><a href="/browse/kitchen-appliances/mixer" onclick="_gaq.push(['_trackEvent', 'menu', 'Mixer']);">Mixer</a></li><li><a href="/browse/kitchen-appliances/cooker" onclick="_gaq.push(['_trackEvent', 'menu', 'Cooker']);">Cooker</a></li><li><a href="/browse/kitchen-appliances/food-processor" onclick="_gaq.push(['_trackEvent', 'menu', 'Food Processor']);">Food Processor</a></li><li><a href="/browse/kitchen-appliances/juicer" onclick="_gaq.push(['_trackEvent', 'menu', 'Juicer']);">Juicer</a></li><li><a href="/browse/kitchen-appliances/microwave" onclick="_gaq.push(['_trackEvent', 'menu', 'Microwave']);">Microwave</a></li><li><a href="/browse/kitchen-appliances/blender" onclick="_gaq.push(['_trackEvent', 'menu', 'Blender']);">Blender</a></li><li><a href="/browse/kitchen-appliances/coffee-maker" onclick="_gaq.push(['_trackEvent', 'menu', 'Coffee Maker']);">Coffee Maker</a></li><li><a href="/browse/kitchen-appliances/otg" onclick="_gaq.push(['_trackEvent', 'menu', 'OTG']);">OTG</a></li><li><a href="/browse/kitchen-appliances/kettle" onclick="_gaq.push(['_trackEvent', 'menu', 'Kettle']);">Kettle</a></li><li><a href="/browse/kitchen-appliances/sandwich-maker" onclick="_gaq.push(['_trackEvent', 'menu', 'Sandwich Maker']);">Sandwich Maker</a></li></ul></div><div class="col_1 "><h3>&nbsp;</h3><ul><li><a href="/browse/kitchen-appliances/toaster" onclick="_gaq.push(['_trackEvent', 'menu', 'Toaster']);">Toaster</a></li><li><a href="/browse/kitchen-appliances/cooktop" onclick="_gaq.push(['_trackEvent', 'menu', 'Cooktop']);">Cooktop</a></li><li><a href="/browse/kitchen-appliances/water-purifier" onclick="_gaq.push(['_trackEvent', 'menu', 'Water Purifier']);">Water Purifier</a></li><li><a href="/browse/kitchen-appliances/water-heater" onclick="_gaq.push(['_trackEvent', 'menu', 'Water Heater']);">Water Heater</a></li><li><a href="/browse/kitchen-appliances/chopper" onclick="_gaq.push(['_trackEvent', 'menu', 'Chopper']);">Chopper</a></li><li><a href="/browse/kitchen-appliances/chimney" onclick="_gaq.push(['_trackEvent', 'menu', 'Chimney']);">Chimney</a></li><li><a href="/browse/kitchen-appliances/burner" onclick="_gaq.push(['_trackEvent', 'menu', 'Burner']);">Burner</a></li><li><a href="/browse/kitchen-appliances/kadai" onclick="_gaq.push(['_trackEvent', 'menu', 'Kadai']);">Kadai</a></li><li><a href="/browse/kitchen-appliances/tea-maker" onclick="_gaq.push(['_trackEvent', 'menu', 'Tea Maker']);">Tea Maker</a></li></ul></div><div class="col_1 "><h3>Home Appliances</h3><ul><li><a href="/browse/home-appliances/emergency-light" onclick="_gaq.push(['_trackEvent', 'menu', 'Emergency Light']);">Emergency Light</a></li><li><a href="/browse/home-appliances/inverter" onclick="_gaq.push(['_trackEvent', 'menu', 'Inverter']);">Inverter</a></li><li><a href="/browse/home-appliances/air-conditioner" onclick="_gaq.push(['_trackEvent', 'menu', 'Air Conditioner']);">Air Conditioner</a></li><li><a href="/browse/home-appliances/room-heater" onclick="_gaq.push(['_trackEvent', 'menu', 'Room Heater']);">Room Heater</a></li><li><a href="/browse/home-appliances/vacuum-cleaner" onclick="_gaq.push(['_trackEvent', 'menu', 'Vacuum Cleaner']);">Vacuum Cleaner</a></li><li><a href="/browse/home-appliances/refrigerator" onclick="_gaq.push(['_trackEvent', 'menu', 'Refrigerator']);">Refrigerator</a></li><li><a href="/browse/home-appliances/washing-machine" onclick="_gaq.push(['_trackEvent', 'menu', 'Washing Machine']);">Washing Machine</a></li><li><a href="/browse/home-appliances/dish-washer" onclick="_gaq.push(['_trackEvent', 'menu', 'Dish Washer']);">Dish Washer</a></li><li><a href="/browse/home-appliances/iron" onclick="_gaq.push(['_trackEvent', 'menu', 'Iron']);">Iron</a></li><li><a href="/browse/home-appliances/gyeser" onclick="_gaq.push(['_trackEvent', 'menu', 'Gyeser']);">Gyeser</a></li><li><a href="/browse/home-appliances/cooler" onclick="_gaq.push(['_trackEvent', 'menu', 'Cooler']);">Cooler</a></li></ul></div>	</div></li><li><a href="/browse/personal-care" onclick="_gaq.push(['_trackEvent', 'menu', 'Personal Care']);return false;" class="drop">Personal Care</a><span class="menuarrow"></span>	<div class="dropdown_1column"><div class="col_1 "><h3>Personal Care</h3><ul><li><a href="/browse/personal-care/shaver" onclick="_gaq.push(['_trackEvent', 'menu', 'Shaver']);">Shaver</a></li><li><a href="/browse/personal-care/trimmer" onclick="_gaq.push(['_trackEvent', 'menu', 'Trimmer']);">Trimmer</a></li><li><a href="/browse/personal-care/nebulizer" onclick="_gaq.push(['_trackEvent', 'menu', 'Nebulizer']);">Nebulizer</a></li><li><a href="/browse/personal-care/oxymeter" onclick="_gaq.push(['_trackEvent', 'menu', 'Oxymeter']);">Oxymeter</a></li><li><a href="/browse/personal-care/epilator" onclick="_gaq.push(['_trackEvent', 'menu', 'Epilator']);">Epilator</a></li><li><a href="/browse/personal-care/scale" onclick="_gaq.push(['_trackEvent', 'menu', 'Scale']);">Scale</a></li><li><a href="/browse/personal-care/thermometer" onclick="_gaq.push(['_trackEvent', 'menu', 'Thermometer']);">Thermometer</a></li><li><a href="/browse/personal-care/dryer" onclick="_gaq.push(['_trackEvent', 'menu', 'Dryer']);">Dryer</a></li><li><a href="/browse/personal-care/styler" onclick="_gaq.push(['_trackEvent', 'menu', 'Styler']);">Styler</a></li><li><a href="/browse/personal-care/straightener" onclick="_gaq.push(['_trackEvent', 'menu', 'Straightener']);">Straightener</a></li><li><a href="/browse/personal-care/pedometer" onclick="_gaq.push(['_trackEvent', 'menu', 'Pedometer']);">Pedometer</a></li><li><a href="/browse/personal-care/blood-pressure-monitor" onclick="_gaq.push(['_trackEvent', 'menu', 'Blood Pressure Monitor']);">Blood Pressure Monitor</a></li><li><a href="/browse/personal-care/massager" onclick="_gaq.push(['_trackEvent', 'menu', 'Massager']);">Massager</a></li></ul></div>	</div></li><li><a href="#" onclick="_gaq.push(['_trackEvent', 'menu', 'Accessories']);return false;" class="drop">Accessories</a><span class="menuarrow"></span>	<div class="dropdown_4columns align_right"><div class="col_1 firstcolumn"><h3>Computer Accessories</h3><ul><li><a href="/browse/computer-accessories/memory-stick" onclick="_gaq.push(['_trackEvent', 'menu', 'Memory Stick']);">Memory Stick</a></li><li><a href="/browse/computer-accessories/anti-virus" onclick="_gaq.push(['_trackEvent', 'menu', 'Anti Virus']);">Anti Virus</a></li><li><a href="/browse/computer-accessories/scanner" onclick="_gaq.push(['_trackEvent', 'menu', 'Scanner']);">Scanner</a></li><li><a href="/browse/computer-accessories/pen-drive" onclick="_gaq.push(['_trackEvent', 'menu', 'Pen Drive']);">Pen Drive</a></li><li><a href="/browse/computer-accessories/memory-card" onclick="_gaq.push(['_trackEvent', 'menu', 'Memory Card']);">Memory Card</a></li><li><a href="/browse/computer-accessories/sd-card" onclick="_gaq.push(['_trackEvent', 'menu', 'SD Card']);">SD Card</a></li><li><a href="/browse/computer-accessories/ink-cartridge" onclick="_gaq.push(['_trackEvent', 'menu', 'Ink Cartridge']);">Ink Cartridge</a></li><li><a href="/browse/computer-accessories/mouse" onclick="_gaq.push(['_trackEvent', 'menu', 'Mouse']);">Mouse</a></li><li><a href="/browse/computer-accessories/keyboard" onclick="_gaq.push(['_trackEvent', 'menu', 'Keyboard']);">Keyboard</a></li><li><a href="/browse/computer-accessories/router" onclick="_gaq.push(['_trackEvent', 'menu', 'Router']);">Router</a></li></ul></div><div class="col_1 "><h3>&nbsp;</h3><ul><li><a href="/browse/computer-accessories/monitor" onclick="_gaq.push(['_trackEvent', 'menu', 'Monitor']);">Monitor</a></li><li><a href="/browse/computer-accessories/printer" onclick="_gaq.push(['_trackEvent', 'menu', 'Printer']);">Printer</a></li><li><a href="/browse/computer-accessories/hard-drive" onclick="_gaq.push(['_trackEvent', 'menu', 'Hard Drive']);">Hard Drive</a></li><li><a href="/browse/computer-accessories/cooling-pad" onclick="_gaq.push(['_trackEvent', 'menu', 'Cooling Pad']);">Cooling Pad</a></li><li><a href="/browse/computer-accessories/modem" onclick="_gaq.push(['_trackEvent', 'menu', 'Modem']);">Modem</a></li><li><a href="/browse/computer-accessories/data-card" onclick="_gaq.push(['_trackEvent', 'menu', 'Data Card']);">Data Card</a></li><li><a href="/browse/computer-accessories/ram" onclick="_gaq.push(['_trackEvent', 'menu', 'RAM']);">RAM</a></li><li><a href="/browse/computer-accessories/graphic-card" onclick="_gaq.push(['_trackEvent', 'menu', 'Graphic Card']);">Graphic Card</a></li><li><a href="/browse/computer-accessories/tv-tuner" onclick="_gaq.push(['_trackEvent', 'menu', 'TV Tuner']);">TV Tuner</a></li><li><a href="/browse/computer-accessories/flash-drive" onclick="_gaq.push(['_trackEvent', 'menu', 'Flash Drive']);">Flash Drive</a></li><li><a href="/browse/computer-accessories/card-reader" onclick="_gaq.push(['_trackEvent', 'menu', 'Card Reader']);">Card Reader</a></li></ul></div><div class="col_1 "><h3>General Accessories</h3><ul><li><a href="/browse/general-accessories/binocular" onclick="_gaq.push(['_trackEvent', 'menu', 'Binocular']);">Binocular</a></li><li><a href="/browse/general-accessories/case" onclick="_gaq.push(['_trackEvent', 'menu', 'Case']);">Case</a></li><li><a href="/browse/general-accessories/dock" onclick="_gaq.push(['_trackEvent', 'menu', 'Dock']);">Dock</a></li><li><a href="/browse/general-accessories/earphone" onclick="_gaq.push(['_trackEvent', 'menu', 'Earphone']);">Earphone</a></li><li><a href="/browse/general-accessories/cover" onclick="_gaq.push(['_trackEvent', 'menu', 'Cover']);">Cover</a></li><li><a href="/browse/general-accessories/screen-protector" onclick="_gaq.push(['_trackEvent', 'menu', 'Screen Protector']);">Screen Protector</a></li><li><a href="/browse/general-accessories/screen-guard" onclick="_gaq.push(['_trackEvent', 'menu', 'Screen Guard']);">Screen Guard</a></li><li><a href="/browse/general-accessories/cable" onclick="_gaq.push(['_trackEvent', 'menu', 'Cable']);">Cable</a></li><li><a href="/browse/general-accessories/battery" onclick="_gaq.push(['_trackEvent', 'menu', 'Battery']);">Battery</a></li><li><a href="/browse/general-accessories/adapter" onclick="_gaq.push(['_trackEvent', 'menu', 'Adapter']);">Adapter</a></li><li><a href="/browse/general-accessories/headset" onclick="_gaq.push(['_trackEvent', 'menu', 'Headset']);">Headset</a></li><li><a href="/browse/general-accessories/headphone" onclick="_gaq.push(['_trackEvent', 'menu', 'Headphone']);">Headphone</a></li></ul></div><div class="col_1 "><h3>&nbsp;&nbsp;</h3><ul><li><a href="/browse/general-accessories/bluetooth" onclick="_gaq.push(['_trackEvent', 'menu', 'Bluetooth']);">Bluetooth</a></li><li><a href="/browse/general-accessories/backpack" onclick="_gaq.push(['_trackEvent', 'menu', 'Backpack']);">Backpack</a></li><li><a href="/browse/general-accessories/toolkit" onclick="_gaq.push(['_trackEvent', 'menu', 'Toolkit']);">Toolkit</a></li><li><a href="/browse/general-accessories/battery" onclick="_gaq.push(['_trackEvent', 'menu', 'Battery']);">Battery</a></li><li><a href="/browse/general-accessories/speaker" onclick="_gaq.push(['_trackEvent', 'menu', 'Speaker']);">Speaker</a></li><li><a href="/browse/general-accessories/bag" onclick="_gaq.push(['_trackEvent', 'menu', 'Bag']);">Bag</a></li><li><a href="/browse/general-accessories/charger" onclick="_gaq.push(['_trackEvent', 'menu', 'Charger']);">Charger</a></li><li><a href="/browse/general-accessories/frame" onclick="_gaq.push(['_trackEvent', 'menu', 'Frame']);">Frame</a></li><li><a href="/browse/general-accessories/fan" onclick="_gaq.push(['_trackEvent', 'menu', 'Fan']);">Fan</a></li><li><a href="/browse/general-accessories/surge-protector" onclick="_gaq.push(['_trackEvent', 'menu', 'Surge Protector']);">Surge Protector</a></li><li><a href="/browse/general-accessories/webcam" onclick="_gaq.push(['_trackEvent', 'menu', 'Webcam']);">Webcam</a></li></ul></div>	</div></li>				<!-- ToDo: Add 3 links in the end -->
+			<!--<li class="nodrop menu-home-link"><a href="/" onclick="_gaq.push(['_trackEvent', 'menu', 'home']);">&nbsp;</a></li>-->
+	<li><a href="/products/mobiles-and-phones" onclick="_gaq.push(['_trackEvent', 'menu', 'Mobiles']);return false;" class="drop">Mobiles</a><span class="menuarrow"></span>	<div class="dropdown_1column"><div class="col_1 firstcolumn"><h3><a href="/products/mobiles-and-phones" <="" a="">Mobiles</a></h3><ul><li><a href="/products/mobiles-and-phones/blackberry" onclick="_gaq.push(['_trackEvent', 'menu', 'Blackberry']);" class="">Blackberry</a></li><li><a href="/products/mobiles-and-phones/iphone" onclick="_gaq.push(['_trackEvent', 'menu', 'iPhone']);" class="">iPhone</a></li><li><a href="/products/mobiles-and-phones/phone" onclick="_gaq.push(['_trackEvent', 'menu', 'All Phones']);" class="">All Phones</a></li></ul></div>	</div></li><li><a href="#" onclick="_gaq.push(['_trackEvent', 'menu', 'Entertainment']);return false;" class="drop">Entertainment</a><span class="menuarrow"></span>	<div class="dropdown_3columns "><div class="col_1 firstcolumn"><h3><a href="/products/home-entertainment" <="" a="">Home</a></h3><ul><li><a href="/products/home-entertainment/home-theater" onclick="_gaq.push(['_trackEvent', 'menu', 'Home Theater']);" class="">Home Theater</a></li><li><a href="/products/home-entertainment/television" onclick="_gaq.push(['_trackEvent', 'menu', 'Television']);" class="">Television</a></li><li><a href="/products/home-entertainment/boombox" onclick="_gaq.push(['_trackEvent', 'menu', 'Boombox']);" class="">Boombox</a></li><li><a href="/products/home-entertainment/dvd-player" onclick="_gaq.push(['_trackEvent', 'menu', 'DVD Player']);" class="">DVD Player</a></li><li><a href="/products/home-entertainment/player" onclick="_gaq.push(['_trackEvent', 'menu', 'Player']);" class="">Player</a></li><li><a href="/products/home-entertainment/projector" onclick="_gaq.push(['_trackEvent', 'menu', 'Projector']);" class="">Projector</a></li></ul></div><div class="col_1 "><h3><a href="/products/personal-entertainment" <="" a="">Personal</a></h3><ul><li><a href="/products/personal-entertainment/mp3-player" onclick="_gaq.push(['_trackEvent', 'menu', 'MP3 Player']);" class="">MP3 Player</a></li><li><a href="/products/personal-entertainment/ipod" onclick="_gaq.push(['_trackEvent', 'menu', 'iPod']);" class="">iPod</a></li><li><a href="/products/personal-entertainment/media-player" onclick="_gaq.push(['_trackEvent', 'menu', 'Media Player']);" class="">Media Player</a></li><li><a href="/products/personal-entertainment/radio" onclick="_gaq.push(['_trackEvent', 'menu', 'Radio']);" class="">Radio</a></li></ul></div><div class="col_1 "><h3><a href="/products/gaming" <="" a="">Gaming</a></h3><ul><li><a href="/products/gaming/game" onclick="_gaq.push(['_trackEvent', 'menu', 'Game']);" class="">Game</a></li><li><a href="/products/gaming/psp" onclick="_gaq.push(['_trackEvent', 'menu', 'PSP']);" class="">PSP</a></li><li><a href="/products/gaming/ps2" onclick="_gaq.push(['_trackEvent', 'menu', 'PS2']);" class="">PS2</a></li><li><a href="/products/gaming/ps3" onclick="_gaq.push(['_trackEvent', 'menu', 'PS3']);" class="">PS3</a></li><li><a href="/products/gaming/xbox" onclick="_gaq.push(['_trackEvent', 'menu', 'XBox']);" class="">XBox</a></li><li><a href="/products/gaming/game-pad" onclick="_gaq.push(['_trackEvent', 'menu', 'Game Pad']);" class="">Game Pad</a></li><li><a href="/products/gaming/joystick" onclick="_gaq.push(['_trackEvent', 'menu', 'Joystick']);" class="">Joystick</a></li></ul></div>	</div></li><li><a href="/products/computers" onclick="_gaq.push(['_trackEvent', 'menu', 'Computers']);return false;" class="drop">Computers</a><span class="menuarrow"></span>	<div class="dropdown_1column"><div class="col_1 "><h3><a href="/products/computers" <="" a="">Computers</a></h3><ul><li><a href="/products/computers/ipad" onclick="_gaq.push(['_trackEvent', 'menu', 'iPad']);" class="">iPad</a></li><li><a href="/products/computers/tablet" onclick="_gaq.push(['_trackEvent', 'menu', 'Tablet']);" class="">Tablet</a></li><li><a href="/products/computers/laptop" onclick="_gaq.push(['_trackEvent', 'menu', 'Laptop']);" class="">Laptop</a></li><li><a href="/products/computers/desktop" onclick="_gaq.push(['_trackEvent', 'menu', 'Desktop']);" class="">Desktop</a></li><li><a href="/products/computers/notebook" onclick="_gaq.push(['_trackEvent', 'menu', 'Notebook']);" class="">Notebook</a></li><li><a href="/products/computers/netbook" onclick="_gaq.push(['_trackEvent', 'menu', 'Netbook']);" class="">Netbook</a></li><li><a href="/products/computers/macbook" onclick="_gaq.push(['_trackEvent', 'menu', 'Macbook']);" class="">Macbook</a></li></ul></div>	</div></li><li><a href="/products/photography" onclick="_gaq.push(['_trackEvent', 'menu', 'Cameras']);return false;" class="drop">Cameras</a><span class="menuarrow"></span>	<div class="dropdown_1column"><div class="col_1 "><h3><a href="/products/photography" <="" a="">Cameras</a></h3><ul><li><a href="/products/photography/camera" onclick="_gaq.push(['_trackEvent', 'menu', 'Camera']);" class="">Camera</a></li><li><a href="/products/photography/lens" onclick="_gaq.push(['_trackEvent', 'menu', 'Lens']);" class="">Lens</a></li><li><a href="/products/photography/tripod" onclick="_gaq.push(['_trackEvent', 'menu', 'Tripod']);" class="">Tripod</a></li><li><a href="/products/photography/handycam" onclick="_gaq.push(['_trackEvent', 'menu', 'Handycam']);" class="">Handycam</a></li><li><a href="/products/photography/camcorder" onclick="_gaq.push(['_trackEvent', 'menu', 'Camcorder']);" class="">Camcorder</a></li></ul></div>	</div></li><li><a href="#" onclick="_gaq.push(['_trackEvent', 'menu', 'Appliances']);return false;" class="drop">Appliances</a><span class="menuarrow"></span>	<div class="dropdown_3columns "><div class="col_1 firstcolumn"><h3><a href="/products/kitchen-appliances" <="" a="">Kitchen Appliances</a></h3><ul><li><a href="/products/kitchen-appliances/mixer" onclick="_gaq.push(['_trackEvent', 'menu', 'Mixer']);" class="">Mixer</a></li><li><a href="/products/kitchen-appliances/cooker" onclick="_gaq.push(['_trackEvent', 'menu', 'Cooker']);" class="">Cooker</a></li><li><a href="/products/kitchen-appliances/food-processor" onclick="_gaq.push(['_trackEvent', 'menu', 'Food Processor']);" class="">Food Processor</a></li><li><a href="/products/kitchen-appliances/juicer" onclick="_gaq.push(['_trackEvent', 'menu', 'Juicer']);" class="">Juicer</a></li><li><a href="/products/kitchen-appliances/microwave" onclick="_gaq.push(['_trackEvent', 'menu', 'Microwave']);" class="">Microwave</a></li><li><a href="/products/kitchen-appliances/blender" onclick="_gaq.push(['_trackEvent', 'menu', 'Blender']);" class="">Blender</a></li><li><a href="/products/kitchen-appliances/coffee-maker" onclick="_gaq.push(['_trackEvent', 'menu', 'Coffee Maker']);" class="">Coffee Maker</a></li><li><a href="/products/kitchen-appliances/otg" onclick="_gaq.push(['_trackEvent', 'menu', 'OTG']);" class="">OTG</a></li><li><a href="/products/kitchen-appliances/kettle" onclick="_gaq.push(['_trackEvent', 'menu', 'Kettle']);" class="">Kettle</a></li><li><a href="/products/kitchen-appliances/sandwich-maker" onclick="_gaq.push(['_trackEvent', 'menu', 'Sandwich Maker']);" class="">Sandwich Maker</a></li></ul></div><div class="col_1 "><h3><a href="" <="" a="">&nbsp;</a></h3><ul><li><a href="/products/kitchen-appliances/toaster" onclick="_gaq.push(['_trackEvent', 'menu', 'Toaster']);" class="">Toaster</a></li><li><a href="/products/kitchen-appliances/cooktop" onclick="_gaq.push(['_trackEvent', 'menu', 'Cooktop']);" class="">Cooktop</a></li><li><a href="/products/kitchen-appliances/water-purifier" onclick="_gaq.push(['_trackEvent', 'menu', 'Water Purifier']);" class="">Water Purifier</a></li><li><a href="/products/kitchen-appliances/water-heater" onclick="_gaq.push(['_trackEvent', 'menu', 'Water Heater']);" class="">Water Heater</a></li><li><a href="/products/kitchen-appliances/chopper" onclick="_gaq.push(['_trackEvent', 'menu', 'Chopper']);" class="">Chopper</a></li><li><a href="/products/kitchen-appliances/chimney" onclick="_gaq.push(['_trackEvent', 'menu', 'Chimney']);" class="">Chimney</a></li><li><a href="/products/kitchen-appliances/burner" onclick="_gaq.push(['_trackEvent', 'menu', 'Burner']);" class="">Burner</a></li><li><a href="/products/kitchen-appliances/kadai" onclick="_gaq.push(['_trackEvent', 'menu', 'Kadai']);" class="">Kadai</a></li><li><a href="/products/kitchen-appliances/tea-maker" onclick="_gaq.push(['_trackEvent', 'menu', 'Tea Maker']);" class="">Tea Maker</a></li></ul></div><div class="col_1 "><h3><a href="/products/home-appliances" <="" a="">Home Appliances</a></h3><ul><li><a href="/products/home-appliances/emergency-light" onclick="_gaq.push(['_trackEvent', 'menu', 'Emergency Light']);" class="">Emergency Light</a></li><li><a href="/products/home-appliances/inverter" onclick="_gaq.push(['_trackEvent', 'menu', 'Inverter']);" class="">Inverter</a></li><li><a href="/products/home-appliances/air-conditioner" onclick="_gaq.push(['_trackEvent', 'menu', 'Air Conditioner']);" class="">Air Conditioner</a></li><li><a href="/products/home-appliances/room-heater" onclick="_gaq.push(['_trackEvent', 'menu', 'Room Heater']);" class="">Room Heater</a></li><li><a href="/products/home-appliances/vacuum-cleaner" onclick="_gaq.push(['_trackEvent', 'menu', 'Vacuum Cleaner']);" class="">Vacuum Cleaner</a></li><li><a href="/products/home-appliances/refrigerator" onclick="_gaq.push(['_trackEvent', 'menu', 'Refrigerator']);" class="">Refrigerator</a></li><li><a href="/products/home-appliances/washing-machine" onclick="_gaq.push(['_trackEvent', 'menu', 'Washing Machine']);" class="">Washing Machine</a></li><li><a href="/products/home-appliances/dish-washer" onclick="_gaq.push(['_trackEvent', 'menu', 'Dish Washer']);" class="">Dish Washer</a></li><li><a href="/products/home-appliances/iron" onclick="_gaq.push(['_trackEvent', 'menu', 'Iron']);" class="">Iron</a></li><li><a href="/products/home-appliances/cooler" onclick="_gaq.push(['_trackEvent', 'menu', 'Cooler']);" class="">Cooler</a></li></ul></div>	</div></li><li><a href="/products/personal-care" onclick="_gaq.push(['_trackEvent', 'menu', 'Personal Care']);return false;" class="drop">Personal Care</a><span class="menuarrow"></span>	<div class="dropdown_1column"><div class="col_1 "><h3><a href="/products/personal-care" <="" a="">Personal Care</a></h3><ul><li><a href="/products/personal-care/shaver" onclick="_gaq.push(['_trackEvent', 'menu', 'Shaver']);" class="">Shaver</a></li><li><a href="/products/personal-care/trimmer" onclick="_gaq.push(['_trackEvent', 'menu', 'Trimmer']);" class="">Trimmer</a></li><li><a href="/products/personal-care/nebulizer" onclick="_gaq.push(['_trackEvent', 'menu', 'Nebulizer']);" class="">Nebulizer</a></li><li><a href="/products/personal-care/epilator" onclick="_gaq.push(['_trackEvent', 'menu', 'Epilator']);" class="">Epilator</a></li><li><a href="/products/personal-care/scale" onclick="_gaq.push(['_trackEvent', 'menu', 'Scale']);" class="">Scale</a></li><li><a href="/products/personal-care/thermometer" onclick="_gaq.push(['_trackEvent', 'menu', 'Thermometer']);" class="">Thermometer</a></li><li><a href="/products/personal-care/dryer" onclick="_gaq.push(['_trackEvent', 'menu', 'Dryer']);" class="">Dryer</a></li><li><a href="/products/personal-care/styler" onclick="_gaq.push(['_trackEvent', 'menu', 'Styler']);" class="">Styler</a></li><li><a href="/products/personal-care/straightener" onclick="_gaq.push(['_trackEvent', 'menu', 'Straightener']);" class="">Straightener</a></li><li><a href="/products/personal-care/pedometer" onclick="_gaq.push(['_trackEvent', 'menu', 'Pedometer']);" class="">Pedometer</a></li><li><a href="/products/personal-care/blood-pressure-monitor" onclick="_gaq.push(['_trackEvent', 'menu', 'Blood Pressure Monitor']);" class="">Blood Pressure Monitor</a></li></ul></div>	</div></li><li><a href="#" onclick="_gaq.push(['_trackEvent', 'menu', 'Accessories']);return false;" class="drop">Accessories</a><span class="menuarrow"></span>	<div class="dropdown_4columns align_right"><div class="col_1 firstcolumn"><h3><a href="/products/computer-accessories" <="" a="">Computer Accessories</a></h3><ul><li><a href="/products/computer-accessories/memory-stick" onclick="_gaq.push(['_trackEvent', 'menu', 'Memory Stick']);" class="">Memory Stick</a></li><li><a href="/products/computer-accessories/anti-virus" onclick="_gaq.push(['_trackEvent', 'menu', 'Anti Virus']);" class="">Anti Virus</a></li><li><a href="/products/computer-accessories/scanner" onclick="_gaq.push(['_trackEvent', 'menu', 'Scanner']);" class="">Scanner</a></li><li><a href="/products/computer-accessories/pen-drive" onclick="_gaq.push(['_trackEvent', 'menu', 'Pen Drive']);" class="">Pen Drive</a></li><li><a href="/products/computer-accessories/memory-card" onclick="_gaq.push(['_trackEvent', 'menu', 'Memory Card']);" class="">Memory Card</a></li><li><a href="/products/computer-accessories/sd-card" onclick="_gaq.push(['_trackEvent', 'menu', 'SD Card']);" class="">SD Card</a></li><li><a href="/products/computer-accessories/ink-cartridge" onclick="_gaq.push(['_trackEvent', 'menu', 'Ink Cartridge']);" class="">Ink Cartridge</a></li><li><a href="/products/computer-accessories/mouse" onclick="_gaq.push(['_trackEvent', 'menu', 'Mouse']);" class="">Mouse</a></li><li><a href="/products/computer-accessories/keyboard" onclick="_gaq.push(['_trackEvent', 'menu', 'Keyboard']);" class="">Keyboard</a></li><li><a href="/products/computer-accessories/router" onclick="_gaq.push(['_trackEvent', 'menu', 'Router']);" class="">Router</a></li></ul></div><div class="col_1 "><h3><a href="" <="" a="">&nbsp;</a></h3><ul><li><a href="/products/computer-accessories/monitor" onclick="_gaq.push(['_trackEvent', 'menu', 'Monitor']);" class="">Monitor</a></li><li><a href="/products/computer-accessories/printer" onclick="_gaq.push(['_trackEvent', 'menu', 'Printer']);" class="">Printer</a></li><li><a href="/products/computer-accessories/hard-drive" onclick="_gaq.push(['_trackEvent', 'menu', 'Hard Drive']);" class="">Hard Drive</a></li><li><a href="/products/computer-accessories/cooling-pad" onclick="_gaq.push(['_trackEvent', 'menu', 'Cooling Pad']);" class="">Cooling Pad</a></li><li><a href="/products/computer-accessories/modem" onclick="_gaq.push(['_trackEvent', 'menu', 'Modem']);" class="">Modem</a></li><li><a href="/products/computer-accessories/data-card" onclick="_gaq.push(['_trackEvent', 'menu', 'Data Card']);" class="">Data Card</a></li><li><a href="/products/computer-accessories/ram" onclick="_gaq.push(['_trackEvent', 'menu', 'RAM']);" class="">RAM</a></li><li><a href="/products/computer-accessories/graphic-card" onclick="_gaq.push(['_trackEvent', 'menu', 'Graphic Card']);" class="">Graphic Card</a></li><li><a href="/products/computer-accessories/tv-tuner" onclick="_gaq.push(['_trackEvent', 'menu', 'TV Tuner']);" class="">TV Tuner</a></li><li><a href="/products/computer-accessories/flash-drive" onclick="_gaq.push(['_trackEvent', 'menu', 'Flash Drive']);" class="">Flash Drive</a></li><li><a href="/products/computer-accessories/card-reader" onclick="_gaq.push(['_trackEvent', 'menu', 'Card Reader']);" class="">Card Reader</a></li></ul></div><div class="col_1 "><h3><a href="/products/general-accessories" <="" a="">General Accessories</a></h3><ul><li><a href="/products/general-accessories/binocular" onclick="_gaq.push(['_trackEvent', 'menu', 'Binocular']);" class="">Binocular</a></li><li><a href="/products/general-accessories/case" onclick="_gaq.push(['_trackEvent', 'menu', 'Case']);" class="">Case</a></li><li><a href="/products/general-accessories/dock" onclick="_gaq.push(['_trackEvent', 'menu', 'Dock']);" class="">Dock</a></li><li><a href="/products/general-accessories/earphone" onclick="_gaq.push(['_trackEvent', 'menu', 'Earphone']);" class="">Earphone</a></li><li><a href="/products/general-accessories/cover" onclick="_gaq.push(['_trackEvent', 'menu', 'Cover']);" class="">Cover</a></li><li><a href="/products/general-accessories/screen-protector" onclick="_gaq.push(['_trackEvent', 'menu', 'Screen Protector']);" class="">Screen Protector</a></li><li><a href="/products/general-accessories/screen-guard" onclick="_gaq.push(['_trackEvent', 'menu', 'Screen Guard']);" class="">Screen Guard</a></li><li><a href="/products/general-accessories/cable" onclick="_gaq.push(['_trackEvent', 'menu', 'Cable']);" class="">Cable</a></li><li><a href="/products/general-accessories/battery" onclick="_gaq.push(['_trackEvent', 'menu', 'Battery']);" class="">Battery</a></li><li><a href="/products/general-accessories/adapter" onclick="_gaq.push(['_trackEvent', 'menu', 'Adapter']);" class="">Adapter</a></li><li><a href="/products/general-accessories/headset" onclick="_gaq.push(['_trackEvent', 'menu', 'Headset']);" class="">Headset</a></li></ul></div><div class="col_1 "><h3><a href="" <="" a="">&nbsp;&nbsp;</a></h3><ul><li><a href="/products/general-accessories/bluetooth" onclick="_gaq.push(['_trackEvent', 'menu', 'Bluetooth']);" class="">Bluetooth</a></li><li><a href="/products/general-accessories/backpack" onclick="_gaq.push(['_trackEvent', 'menu', 'Backpack']);" class="">Backpack</a></li><li><a href="/products/general-accessories/toolkit" onclick="_gaq.push(['_trackEvent', 'menu', 'Toolkit']);" class="">Toolkit</a></li><li><a href="/products/general-accessories/battery" onclick="_gaq.push(['_trackEvent', 'menu', 'Battery']);" class="">Battery</a></li><li><a href="/products/general-accessories/speaker" onclick="_gaq.push(['_trackEvent', 'menu', 'Speaker']);" class="">Speaker</a></li><li><a href="/products/general-accessories/bag" onclick="_gaq.push(['_trackEvent', 'menu', 'Bag']);" class="">Bag</a></li><li><a href="/products/general-accessories/charger" onclick="_gaq.push(['_trackEvent', 'menu', 'Charger']);" class="">Charger</a></li><li><a href="/products/general-accessories/frame" onclick="_gaq.push(['_trackEvent', 'menu', 'Frame']);" class="">Frame</a></li><li><a href="/products/general-accessories/fan" onclick="_gaq.push(['_trackEvent', 'menu', 'Fan']);" class="">Fan</a></li><li><a href="/products/general-accessories/surge-protector" onclick="_gaq.push(['_trackEvent', 'menu', 'Surge Protector']);" class="">Surge Protector</a></li><li><a href="/products/general-accessories/webcam" onclick="_gaq.push(['_trackEvent', 'menu', 'Webcam']);" class="">Webcam</a></li></ul></div>	</div></li><li><a href="#" onclick="_gaq.push(['_trackEvent', 'menu', 'Books']);return false;" class="drop">Books</a><span class="menuarrow"></span>	<div class="dropdown_2columns align_right"><div class="col_1 firstcolumn"><h3><a href="/products/books/authors" <="" a="">Authors</a></h3><ul><li><a href="/products/books/authors/dan-brown/45545oca74fr1" onclick="_gaq.push(['_trackEvent', 'menu', 'Dan Brown']);" class="">Dan Brown</a></li><li><a href="/products/books/authors/j-k-rowling/75f93lnrh18ij" onclick="_gaq.push(['_trackEvent', 'menu', 'J. K. Rowling']);" class="">J. K. Rowling</a></li><li><a href="/products/books/authors/paulo-coelho/mj5tbil90s69" onclick="_gaq.push(['_trackEvent', 'menu', 'Paulo Coelho']);" class="">Paulo Coelho</a></li><li><a href="/products/books/authors/agatha-christie/e5rtmgku69tvd" onclick="_gaq.push(['_trackEvent', 'menu', 'Agatha Christie']);" class="">Agatha Christie</a></li><li><a href="/products/books/authors/jeffrey-archer/6brnhu35jd7d7" onclick="_gaq.push(['_trackEvent', 'menu', 'Jeffrey Archer']);" class="">Jeffrey Archer</a></li><li><a href="/products/books/authors/stephen-covey/evg93a2j6lo5" onclick="_gaq.push(['_trackEvent', 'menu', 'Stephen Covey']);" class="">Stephen Covey</a></li><li><a href="/products/books/authors/robin-sharma/2oqjuvsgi0brj" onclick="_gaq.push(['_trackEvent', 'menu', 'Robin Sharma']);" class="">Robin Sharma</a></li><li><a href="/products/books/authors/sidney-sheldon/6v6snuqlqio1g" onclick="_gaq.push(['_trackEvent', 'menu', 'Sidney Sheldon']);" class="">Sidney Sheldon</a></li><li><a href="/products/books/authors/nita-mehta/3m9h6vq1u8n3g" onclick="_gaq.push(['_trackEvent', 'menu', 'Nita Mehta']);" class="">Nita Mehta</a></li><li><a href="/products/books/authors/amish-tripathi/7j10lmo1kvnci" onclick="_gaq.push(['_trackEvent', 'menu', 'Amish Tripathi']);" class="">Amish Tripathi</a></li><li><a href="/products/books/authors" onclick="_gaq.push(['_trackEvent', 'menu', 'See all']);" class="link-color boldfont">See all</a></li></ul></div><div class="col_1 "><h3><a href="/products/books/categories" <="" a="">Categories</a></h3><ul><li><a href="/products/books/fiction/2" onclick="_gaq.push(['_trackEvent', 'menu', 'Fiction']);" class="">Fiction</a></li><li><a href="/products/books/history/1" onclick="_gaq.push(['_trackEvent', 'menu', 'History']);" class="">History</a></li><li><a href="/products/books/business-and-economics/4" onclick="_gaq.push(['_trackEvent', 'menu', 'Business and Economics']);" class="">Business and Economics</a></li><li><a href="/products/books/computers/15" onclick="_gaq.push(['_trackEvent', 'menu', 'Computers']);" class="">Computers</a></li><li><a href="/products/books/education/6" onclick="_gaq.push(['_trackEvent', 'menu', 'Education']);" class="">Education</a></li><li><a href="/products/books/religion-spirituality/5" onclick="_gaq.push(['_trackEvent', 'menu', 'Religion &amp; Spirituality']);" class="">Religion &amp; Spirituality</a></li><li><a href="/products/books/literary-collections/3" onclick="_gaq.push(['_trackEvent', 'menu', 'Literary Collections']);" class="">Literary Collections</a></li><li><a href="/products/books/social-science/9" onclick="_gaq.push(['_trackEvent', 'menu', 'Social Science']);" class="">Social Science</a></li><li><a href="/products/books/children/56" onclick="_gaq.push(['_trackEvent', 'menu', 'Children']);" class="">Children</a></li><li><a href="/products/books/science/7" onclick="_gaq.push(['_trackEvent', 'menu', 'Science']);" class="">Science</a></li><li><a href="/products/books/categories" onclick="_gaq.push(['_trackEvent', 'menu', 'See all']);" class="link-color boldfont">See all</a></li></ul></div>	</div></li>				<!-- ToDo: Add 3 links in the end -->
 				<!--<li class="nodrop menu-coupons-link"><a href="/">Coupons</a></li>-->
-				<li class="nodrop menu-deals-link"><a href="/catalogue" onclick="_gaq.push(['_trackEvent', 'menu', 'deals']);">Deals</a></li>
-				<li class="nodrop menu-askq-link"><a href="#" onclick="_gaq.push(['_trackEvent', 'menu', 'ask question']);javascript:void(0);">Ask Question</a></li>
+				<!--<li class="nodrop menu-deals-link"><a href="/catalogue" onclick="_gaq.push(['_trackEvent', 'menu', 'deals']);">Deals</a></li>
+				<li class="nodrop menu-askq-link"><a href="#" onclick="_gaq.push(['_trackEvent', 'menu', 'ask question']);javascript:void(0);">Ask Question</a></li>-->
 				
 			
 		    </ul><!-- END MENU -->
 		</div><!-- END MENU WRAPPER -->
 	
 
+	<style type="text/css">
+	#scandidbox{
+		width: 68px;
+		height: 90px;
+		/*background-color: orange;*/
+		position: fixed;
+		top: 0px;
+		right: 0px;
+		cursor: pointer;
+		z-index:2000;
+	}
+	#scandidbox.open{
+		background-color: #ffffff;
+		position: fixed;
+		bottom: 0px;
+		right: 0px;
+	}
+	#scandidbox > .inner{
+		background: url('http://cdn.shoppingwish.in/images/promo/android/sticker.png') no-repeat;
+		/*padding: 10px;*/
+		width: 68px;
+		height: 90px;
+	}
+
 	
 	
+	/* scandid */
+	#overlay_scandid{
+		padding: 0 !important;
+		width: auto !important;
+		border: none;
+		border-radius: 5px;
+		box-shadow: 0 0 14px rgba(0, 0, 0, 0.8);
+	}
+	
+	#scandid-left{
+		background: url('http://cdn.shoppingwish.in/images/promo/android/phone.png') no-repeat;
+		width: 407px;
+		height: 533px;
+		float:left;
+	}
+	
+	#scandid-middle{
+		float:left;
+		width: 390px;
+		margin-right: 38px;
+	}
+	#scandid-logo{
+		background: url('http://cdn.shoppingwish.in/images/promo/android/logo.png') no-repeat;
+		width: 225px;
+		height: 77px;
+		margin-top:16px;
+	}
+	#scandid-wrapper .one{
+		margin-top:25px;
+	}
+	#scandid-wrapper .one > div{
+		font-size: 20px;
+		font-family: 'Lato', 'helvetica neue', helvetica, arial, sans-serif;
+		font-weight: bold;
+	}
+	#scandid-wrapper .two{
+		font-size: 14px;
+		font-family: 'Lato', 'helvetica neue', helvetica, arial, sans-serif;
+		color: #555555;
+		margin-top:18px;
+	}
+	#scandid-wrapper .three{
+		margin-top:20px;
+	}
+	
+	#scandid-wrapper .three ul{
+		list-style: disc;
+		padding-left: 17px;
+	}
+	
+	#scandid-wrapper .three li{
+		font-size: 16px;
+		font-family: 'Lato', 'helvetica neue', helvetica, arial, sans-serif;
+		color: #555555;
+		list-style: disc;
+		font-weight: 300;
+	}
+	
+	#scandid-wrapper .three-coffee{
+		margin-top: 12px;
+		background: transparent url('http://cdn.shoppingwish.in/images/promo/android/coffee.png') left center no-repeat;
+		font-family: 'Lato', 'helvetica neue', helvetica, arial, sans-serif;
+		font-size: 1.1em;
+		color: #1e8705;
+		padding-left: 37px;
+		font-weight: 300;
+	}
+	
+	#scandid-wrapper .four{
+		margin-top:43px;
+		padding-bottom:45px;	/*	35	*/
+	}
+	#scandid-wrapper .four a{
+		text-decoration: none;
+	}
+	/*	buttons */
+	#scandid-wrapper .scandid-googleplay{
+		width: 150px;
+		height: 38px;
+		padding: 12px 10px;
+		background: #333 url('http://cdn.shoppingwish.in/images/promo/android/playstore.png') center center no-repeat;
+		text-decoration: none;
+		display: inline-block;
+		border-radius: 0.4em;
+		position: relative;
+		transition: background-color ease-in-out 0.2s;
+		float: left;
+		margin-top: -20px;
+		cursor: pointer;
+	}
+	#scandid-wrapper .scandid-googleplay:hover{background-color: #222}
+	#scandid-wrapper .scandid-googleplay:active{background-color: #111; }
+
+	#scandid-wrapper .scandid-bullet-button{
+		background-color: #f59f3b;
+		border-radius: 6px;
+		padding:22px 16px;
+		font-size:16px; 
+		font-family: 'Lato', 'helvetica neue', helvetica, arial, sans-serif;
+		font-weight: bold;
+		color:#fff; 
+		text-shadow:0px -1px 0px #fff;
+		text-shadow:0px -1px 0px rgba(0,0,0,0.3);
+		float: none;
+		margin-left: 10px;
+		cursor: pointer;
+	}
+	
+</style>
+<div class="overlay-content" id="overlay_scandid">
+    <div id="scandid-show">
+		<div id="scandid-wrapper"><!-- wrapper -->
+			<div id="scandid-left"></div>
+			<div id="scandid-middle">
+				<div id="scandid-logo"></div>
+				<div class="one">
+					<div>Introducing <span style="/* color: #f59f3b; */">Scandid</span></div>
+					<div style="font-size: 18px;color: #666666;">Your Personal Shopping Assistant, on the go!</div>
+				</div>
+				<!--<div class="two">
+					Did you know that price of books, electronic items, kitchen appliances and many other products are much cheaper online? Did you know that you can negotiate like a pro at local stores if you show them a lower online price? Scandid empowers you to search the best online prices and coupons on your Android phone. It's easy to use, it's fast and it's FREE.
+				</div>-->
+				<div class="three">
+					<ul>
+						<li>Scan barcodes or search products by name</li>
+						<li>Instantly find best prices and coupons from all stores</li>
+						<li>It's easy to use, it's fast and it's FREE</li>
+						<li>Shop like a pro, on the go!</li>
+					</ul>
+				</div>
+				<div class="three-coffee">
+					For a limited time, we are giving away a <b>CCD voucher</b> for a <b>FREE coffee</b>. Just download the app and go to "About" page.
+				</div>
+				<div class="four">
+					<a href="http://ad.apps.fm/MyujgQqAjVExzWAa9eCCU15KLoEjTszcQMJsV6-2VnHFDLXitVHB6BlL95nuoNYfRcOs90VTYQk2iZvcgAwuewWimSnmJgPQXAz4HHvjp-Pl0S7jOUG2M3_Y25xwob0i" target="_blank"><span class="scandid-googleplay"></span></a>
+					<a href="/apps/scandid-barcode-scanner" target="_blank"><span class="scandid-bullet-button">Explore Scandid</span></a>
+				</div>
+			</div>
+		</div>
+		
+		<div id="scandid-bg"></div>
+	</div>
+</div>
+
+<!--	The scandidbox at top right    -->
+<div id="scandidbox" style="display:none;">
+	<div class="inner">
+		<span></span>
+		<div class="clear"></div>
+	</div>
+</div>
+
+<p id="last" style="position:fixed;bottom:0;display: none;">
+    Some paragraph text
+</p>
+
+<script type="text/javascript">
+	var expandScandid = '1';
+	var cookieName = 'swscandid';
+	var baseDomain = '.shoppingwish.in';
+	
+	function registerScandidListeners(){
+		var googleplayBtn = $('.scandid-googleplay');
+		googleplayBtn.click(function(){			
+			_gaq.push(['_trackEvent', 'scandid-popup', 'clickout', 'google-play-store']);
+		});
+		var micrositeBtn = $('.scandid-bullet-button');
+		micrositeBtn.click(function(){			
+			_gaq.push(['_trackEvent', 'scandid-popup', 'clickout', 'microsite']);
+		});
+	}
+	
+	$(document).ready(function () {
+//_gaq.push(['_trackEvent', 'page-link', 'store-count', '']);		
+		
+		setTimeout(function(){
+			if(expandScandid){
+				loadScandid();
+				_gaq.push(['_trackEvent', 'scandid-popup', 'display-open', '', 0, true]);
+			}else{
+				$('#scandidbox').show();
+				_gaq.push(['_trackEvent', 'scandid-sticker', 'open', '', 0, true]);
+			}
+			
+		}, 1000);
+		
+		function loadScandid(){
+			$('#scandidbox').hide();
+			registerScandidListeners();
+			var catType;
+			pType == "product" ? catType = "productpage":catType = pType;
+			$("#overlay_scandid").overlay({
+								position: 'fixed',
+								background: '#000',
+								opacity:0.5,
+								zIndex:99,
+								url: '',
+								showAfter: 0,
+								hideAfter: 0,
+								close: true,
+								escClose: true,
+								remove: false,
+								replaceWith: '',
+								onTrigger : function(){},
+								onLoad : function(){
+									$('#scandidbox').hide();
+									_gaq.push(['_trackEvent', 'scandid-popup', 'display-open', '', 0, true]);
+								},
+								onClose : function(){
+									$('#scandidbox').show();
+									var date = new Date();
+									date.setTime(date.getTime()+(30*24*60*60*1000));
+									var expires = "; expires="+date.toGMTString();
+									document.cookie = cookieName+"=reject"+expires+"; domain="+baseDomain+"; path=/";
+									_gaq.push(['_trackEvent', 'scandid-sticker', 'close', '', 0, true]);
+								}
+						});
+
+			//Simple Capcha
+			//getCapchaCode('feedbackform')
+		}
+		
+		$(function() {
+			$('#scandidbox').click(function(){
+				loadScandid();
+			});
+			
+		});
+	});
+</script>	
 </div>
 
 
@@ -289,17 +549,24 @@ $(document).ready(function(){
     baseurl = "/";
         var que ="<li class='auto_separator'>Questions:</li>";
         var elCount = 1;var elCountP = 1; var elCountB = 1;
+        var pageType = "";
 
         //setTimeout start
         //setTimeout(function(){
-		$(document).ready(function(){
+		$(document).ready(function(){		  
+            $('#product_key').on('keyup',function(e) { 
+                if (e.which == 13) 
+                {
+                    $(".searchAutoAjax").hide();
+                }            
+            });
     		$( "#product_key" ).autocomplete({
                 source:"/home/autosearch",
-                delay: 50,
+                delay: 400,
                 search: function(){$(".searchAutoAjax").show();},
                 open: function(event, ui){
-					a = $(".category-style").offset();
-                    $('.ui-autocomplete').css('left',(a.left)+"px");
+					//a = $(".category-style").offset();
+                    //$('.ui-autocomplete').css('left',(a.left)+"px");
                     var search_val = $( "#product_key" ).val();
                     $(".searchAutoAjax").hide();
                     $('.ui-autocomplete').append("<div class='auto_separator quest-section'><div class='search_text'> Didn't find right price for "+search_val+" ? </div><span class='addquery_button' id='addque'>Ask Question</span></div>");
@@ -398,6 +665,10 @@ $(document).ready(function(){
             $(".show_userpopup,.user_popup,.welcome-user").hover(function(){$(".user_popup").show();},function(){$(".user_popup").hide();});
             $(".searchIconAuto").click(function(){
                 //$("#autocompleteForm").submit();
+            });
+            
+            $(".search-btn-bg").click(function(){
+                $("#search_frm").submit();
             });
       });
 
@@ -622,10 +893,14 @@ Salisbury Park, Pune 411037
                                                         <a href="/help/contactus">Contact</a>                                                    </td>
                                                     <td class="space"></td>
                                                     <td class="myMenu">
-                                                        <a href="/browse">Sitemap</a>                                                    </td>
+                                                        <a href="/products">Sitemap</a>                                                    </td>
                                                     <td class="space"></td>
                                                     <td class="myMenu">
 														<a class="" style="" href="javascript:void(0)" id="feedback">Feedback</a>
+													</td>
+                                                    <td class="space"></td>
+													<td class="myMenu">
+														<a class="" target="_blank" href="/apps/scandid-barcode-scanner">Mobile App</a>
 													</td>
                                                     <td class="space"></td>
                                                    <!--  <td onClick="window.location.href='/help/terms';" class="myMenuLast" onmouseover="this.className='myMenuLastOver'" onmouseout="this.className='myMenuLast'">Download Deals</td>--->
@@ -718,89 +993,78 @@ Salisbury Park, Pune 411037
 
 
 <!-- add question -->
-<div class="demo" style="display: none;" id="askque_form">
-<div id="dialog-form" title="Ask Question" class="font_black">
-    <div style="display:none"><span>Shopping Requirement:</span><br><span id="requirement_que"></span></div>
-	<!--<p class="validateTips">Please enter your question.</p>-->
-	<form action="/help/inquiry" id="addquestion_form">
-    <input type="hidden" name="addquestion" id="addquestion" value="1">
-	<fieldset>
-        <table border="0">
+<div class="overlay-content ask-question-overlay" id="overlay_askquestion" style="padding: 0;border: medium none;">
+    <div class="header_popup">
+        Ask Questions <span class="error-msg">Ah! Some fields are missing. Please check</span>
+    </div>
+    <div id="dialog-form" class="wid100 floatL marB20" style="margin-top: 15px;">
+        <div style="" class="askque-success-msg">
+            <span><img src="http://cdn.shoppingwish.in/images/success-img.png"></span><span class="sucTxt">Success</span>
+            <p>
+                We have recieved your question. And we will answer it shortly.
+            </p>
+            <p>Lookout for our mail</p>
+            
+        </div>
+        <form action="/help/inquiry" id="addquestion_form" class="wid100">
+        <input type="hidden" name="addquestion" id="addquestion" value="1">
+            <table border="0" width="100%">
 	            <tbody>
 	                <tr>
-	                    <td>
-	                        <label>Name:</label>
-	                        <br>
-	                        <input type="text" id="customer_name" name="customer_name" value="" placeholder="Name">
+	                    <td class="label-askqust">
+	                        <label>Full Name</label>
 	                    </td>
-	                    <td align="right" valign="middle">
-	                        <div class="feed_close1">
-	                            <!-- <img width="16px" height="15px" src="http://www.jewelskart.com/images/feed_close_btn.png"> -->
-	                        </div>
-	                    </td>
-	                </tr>
-	                 <tr>
-	                    <td colspan="2">
-	                        <label>City:</label>
-	                        <br>
-	                        <input type="text" id="user_city" name="user_city" value="" placeholder="City">
-	                    </td>
-	                </tr>
-	                 <tr><td id="contactValidationMessage" class="error"></td></tr>
-	                <tr>
-	                    <td>
-	                        <label for="contactinfo">Contact Number</label>
-	                        <br>
-	                        <input type="text" id="contactno" name="contactno" value="" placeholder="Contact No.">
-	                    </td>
-
-	                    <td style="padding-left:2px">
-	                        <label for="emailId">Email <span style="color: red;">*</span>:</label>
-	                        <br>
-	                        <input type="text" id="email_user" name="email_user" value="" placeholder="Email">
+	                    <td class="dataTD-askqust">
+	                        <input type="text" id="customer_name" name="customer_name" value="" placeholder="Your Full Name">
 	                    </td>
 	                </tr>
                     <tr>
-                        <td colspan="2" class="tip_email_user"></td>
-                    </tr>
-	                <tr>
-	                    <td>
-	                        <input type="hidden" value="right-side-form" id="right-form">
+	                    <td class="label-askqust">
+	                        <label for="emailId">Email <span style="color: red;">*</span></label>	                        
 	                    </td>
+                        <td class="dataTD-askqust">
+                            <input type="text" id="email_user" name="email_user" value="" placeholder="Your email id? We promise we won't share with anyone">
+                        </td>
 	                </tr>
-
-	                <tr>
-	                </tr>
-	                <tr>
-	                    <td colspan="2">
-	                        <label>Shopping requirement <span style="color: red;">*</span>:</label>
-	                        <br>
-	                        <textarea name="question_user" id="question_user" cols="41" rows="5" placeholder="What are you looking to buy? For e.g. What is the lowest price for Nokia Lumia 800 ?, Suggestions for Microwave Oven less than Rs.10,000, Where can I buy Huggies Diapers ?..."></textarea>
-	                    </td>
-	                </tr>
-	                <tr>
-                        <td colspan="2" class="tip_question_user"></td>
-                    </tr>
                     <tr>
-	                    <td colspan="2">
-	                        <label>Please enter code:<span style="color: red;">*</span>:</label>
-	                        <br>
+	                    <td class="label-askqust">
+	                        <label for="contactinfo">Contact Number</label>	                        
+	                    </td>
+                        <td class="dataTD-askqust">
+                            <input type="text" id="contactno" name="contactno" value="" placeholder="To serve you better (optional)">
+                        </td>
+                     </tr>
+	                <tr>
+	                    <td class="label-askqust">
+	                        <label>Shopping requirement <span style="color: red;">*</span></label>
+	                    </td>
+                        <td class="dataTD-askqust">
+                            <textarea name="question_user" id="question_user" cols="30" rows="5" placeholder="Hit us with your questions.What are you looking to buy? Probably, lowest price for Nokia Lumia 920? Suggestions for microwave oven less than Rs. 10,000? Huggies Diapers may be? :)"></textarea>
+                        </td>
+	                </tr>
+                    <tr>
+	                    <td class="label-askqust">
+	                        <label>Please Enter This<span style="color: red;">*</span></label>
+                        </td>
+                        <td class="dataTD-askqust">
 							                            <span id="txtCaptchaDiv_addquestion_form" style="color:#F00"><img delayedsrc="/captcha.php?captKey=askquestion" class="delayedcaptcha" id="captchaAQ">
-							<a class="captcha-refresh" title="Refresh the captcha"><img src="http://cdn.shoppingwish.in/images/refreshButton.gif"></a></span>
+							<a class="captcha-refresh" title="Refresh the captcha"><img src="http://cdn.shoppingwish.in/images/refreshButton.gif" style="margin-top: -15px;cursor: pointer;"></a></span>
                             <br>
 							<input type="hidden" name="captKey" value="askquestion">
-	                        <input type="text" name="txtInput_addquestion_form" id="question_capcha" style="width: 321px;">
+	                        <input type="text" name="txtInput_addquestion_form" id="question_capcha" style="width: 130px;" placeholder="Captcha code here">
 	                    </td>
 	                </tr>
-	                <tr>
-                        <td colspan="2" class="tip_question_capcha"></td>
+                    <tr>
+                    <td class="loadTd"><img src="http://cdn.shoppingwish.in/images/ajax-loader1.gif"></td>
+                    <td style="padding-top: 8px;">
+                        <div class="button-common floatL pointer_cursor" onclick="sendAskQuestion()">Ask Question</div>
+                        <a href="javascript:closePopup()" style="display: inline-block; padding: 8px 25px;font-size: 14px;">Cancel</a>    
+                    </td>
                     </tr>
 	            </tbody>
 	        </table>
-        <!--<textarea class="text ui-widget-content ui-corner-all" cols="46" style="width: 300px;"></textarea>-->
-	</fieldset>
-	</form>
-</div>
+        </form>
+    </div>
 </div>
 <!-- End demo -->
 
@@ -867,7 +1131,7 @@ Salisbury Park, Pune 411037
 			{
 				$("#feedstate").text("Please check your entries!")
 			}
-		})
+		});
 
 
 
@@ -911,9 +1175,10 @@ Salisbury Park, Pune 411037
 				}
 			}
 			}());
+            
 			
 		// Load the ask question dialog only after some user action
-		$(window).one('click', function(){
+		$(document).one('click', function(){
 			$('span > img.delayedcaptcha').each(function(){
 				var delayedsrc = $(this).attr('delayedsrc')+'&sid='+Math.random();
 				if(delayedsrc){
@@ -922,88 +1187,10 @@ Salisbury Park, Pune 411037
 				}
 			});
 		});
-		
-		function initAskQuestions(){
-			if(window.askqinitialized === true){
-				return;
-			}
-			window.askqinitialized = true;
-			poupData = $( "#dialog-form" ).html();	
-			$( "#dialog-form" ).dialog({
-				autoOpen: false,
-				height: 'auto',
-				width: 'auto',
-				modal: true,
-				buttons: {
-					"Ask question": function() {
-						var bValid = true;
-						allFields.removeClass( "ui-state-error" );
-
-						postName = $("#customer_name").val();
-						postCity = $("#user_city").val();
-						postPhno = $("#contactno").val();
-						postMail = $("#email_user").val();
-						postQue = $("#question_user").val();
-
-						bValid = bValid && trimEmpty( "question_user", "shopping requirement should not be blank." );
-                        var captchaValid = trimEmpty( "question_capcha", "Enter valid capcha." );
-						var emailValid = regcheck( "email_user", /^((([a-z]|\d|[!#\$%&'\*\+\-\/=\?\^_`{\|}~]|[\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF])+(\.([a-z]|\d|[!#\$%&'\*\+\-\/=\?\^_`{\|}~]|[\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF])+)*)|((\x22)((((\x20|\x09)*(\x0d\x0a))?(\x20|\x09)+)?(([\x01-\x08\x0b\x0c\x0e-\x1f\x7f]|\x21|[\x23-\x5b]|[\x5d-\x7e]|[\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF])|(\\([\x01-\x09\x0b\x0c\x0d-\x7f]|[\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF]))))*(((\x20|\x09)*(\x0d\x0a))?(\x20|\x09)+)?(\x22)))@((([a-z]|\d|[\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF])|(([a-z]|\d|[\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF])([a-z]|\d|-|\.|_|~|[\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF])*([a-z]|\d|[\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF])))\.)+(([a-z]|[\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF])|(([a-z]|[\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF])([a-z]|\d|-|\.|_|~|[\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF])*([a-z]|[\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF])))\.?$/i, "Please enter valid email address." );
-						if ( bValid && emailValid && captchaValid) {
-							_gaq.push(['_trackEvent', 'query', 'ask question', '']);
-							var frmdata = $("#addquestion_form").serialize();
-							var url = $("#addquestion_form").attr('action');
-							poupData = $( "#dialog-form" ).html();
-							$( "#dialog-form" ).html('<img style="margin-top:20px" src="http://cdn.shoppingwish.in/images/loading-bars.gif" />');
-							$.ajax({
-								type: "POST",
-								url: url,
-								data: frmdata,
-								dataType:'json',
-								success: function(data){
-									if(data.result=='success')
-									{
-										$( "#dialog-form" ).html("Your question was successfully added. A Shopping Guru will soon get back to you via Email or Phone <br/>with the answer to your Shopping wish. Stay tuned!<br/>Please make sure to check your spam folder.");/*//TODO: By:Sushil to @Shrikar: I removed ul li as it was causing the dialouge box to show up in wrong size*/
-										$(".ui-dialog-buttonpane").hide();
-										$('#dialog-form').dialog({ position: 'center' });
-									}
-									else if(data.result=='miscaptcha')
-									{
-										//$( "#dialog-form" ).html("Wrong Captcha! Please add question again and enter the correct captcha.");//removed ul li
-										$( "#dialog-form" ).html(poupData);
-										$("#customer_name").val(postName);
-										$("#user_city").val(postCity);
-										$("#contactno").val(postPhno);
-										$("#email_user").val(postMail);
-										$("#question_user").val(postQue);
-
-										$(".tip_question_capcha").html('Please enter valid capcha.').addClass( "ui-state-error" );
-										$('#question_capcha').addClass( "ui-state-error" );
-									}
-									else
-									{
-										$( "#dialog-form" ).html("Sorry !! Please add question again.");//removed ul li
-									}
-
-								}
-							});
-						}
-					},
-					Cancel: function() {
-						$( this ).dialog( "close" );
-						$( "#dialog-form" ).html(poupData);
-						$(".ui-dialog-buttonpane").show();
-					}
-				},
-				close: function() {
-					allFields.val( "" ).removeClass( "ui-state-error" );
-					$( "#dialog-form" ).html(poupData);
-					$(".ui-dialog-buttonpane").show();
-				}
-			});
-		}
-		
-		$( "#addque,.ask_quenew, li.menu-askq-link" ).live('click',function() {
-				initAskQuestions();
+				
+		$( "#addque,.ask_quenew, a.menu-askq-link" ).live('click',function() {
+		          $("#overlay_askquestion").overlay({});
+				//initAskQuestions();
 				/*captcha block*/
 				var captchaimg = $('#dialog-form span > img.delayedcaptcha');
 				var imgsrc = captchaimg.attr('src');
@@ -1023,7 +1210,9 @@ Salisbury Park, Pune 411037
 				}
 				//getCapchaCode('addquestion_form');
 			});
-
+            
+        
+		
 	   // feed back form
 		$( "#feedback").live('click',function(event, activeButtonId) {
 			var catType;
@@ -1045,22 +1234,7 @@ Salisbury Park, Pune 411037
 			}
             /*captcha block*/
             
-			$("#overlay_feedback").overlay({
-								position: 'fixed',
-								background: '#000',
-								opacity:0.5,
-								zIndex:99,
-								url: '',
-								showAfter: 0,
-								hideAfter: 0,
-								close: true,
-								escClose: true,
-								remove: false,
-								replaceWith: '',
-								onTrigger : function(){},
-								onLoad : function(){},
-								onClose : function(){},
-						});
+			$("#overlay_feedback").overlay({});
 
 			//Simple Capcha
 			//getCapchaCode('feedbackform')
@@ -1091,7 +1265,9 @@ Salisbury Park, Pune 411037
 			})();
 
 
-			!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");
+			//!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");
+			
+			!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");
 
 			var likecode = '<iframe src="//www.facebook.com/plugins/like.php?href=http%3A%2F%2Ffacebook.com%2Fshoppingwish&amp;send=false&amp;layout=button_count&amp;width=90&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;font=verdana&amp;height=21&amp;appId=127082717423256" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:90px; height:21px;" allowTransparency="true"></iframe>';
 			$(".fblikeframe").each(function(){
@@ -1102,7 +1278,136 @@ Salisbury Park, Pune 411037
 		setTimeout(function(){ /*	In case the user doesn't scroll for some time */
 			$(window).scroll();
 		}, 5000);
+		
+		
+		//$(".coupon-code-mask").live('click', function(){
+			
+		//});
+		
+		$(".coupon-code-mask").live('click', function(){
+			var couponId = $(this).attr('coupon-id');
+			loadCoupon(couponId);
+			$('.coupon-overlay-wrapper').overlay({
+				position: 'absolute',
+				background: '#000',
+				opacity:0.5,
+				zIndex:99,
+				url: '',
+				showAfter: 0,
+				hideAfter: 0,
+				close: true,
+				escClose: true,
+				remove: false,
+				replaceWith: '',
+				onTrigger : function(){},
+				onLoad : function(){},
+				onClose : function(){}
+			});
+
+			$(this).parent().children('.coupon-code-redirect').css('display', 'block');
+			$(this).hide();
+		});
+		
+		$('.coupon-vote-up-down > a').live('click', function() {
+			if($(this).parent().hasClass('coupon-vote-disabled')){
+				return; // already voted
+			}
+		
+			var vote;
+			var url = '/coupon/vote';
+			
+			if($(this).hasClass('coupon-vote-up')){
+				vote = "upvote";
+				//that = $(this).parent().children('.coupon-vote-down');
+			}else if($(this).hasClass('coupon-vote-down')){
+				vote = "downvote";
+				//that = $(this).parent().children('.coupon-vote-up');
+			}
+			
+			$(this).addClass('coupon-vote-selected');
+			$(this).parent().addClass('coupon-vote-disabled');
+			
+			var couponData = $(this).parent('.coupon-vote-up-down').attr('coupon_data');
+			couponData = couponData.split('&');
+			
+			var postdata = {
+				/*couponId:couponId,
+				storeName:storeName, */
+				vote:vote
+			}
+			
+			for(var i=0; i< couponData.length; i++){
+				var item = couponData[i];
+				var keyval = item.split('=');
+				postdata[keyval[0]] = keyval[1];
+			}
+			$.ajax({
+				type: "POST",
+				url: url,
+				data: postdata,
+				dataType: 'json',
+				success: function(data){	debugger;
+					console.log(data);
+					console.dir(data);
+					alert(data);
+				}
+			});
+			return false;
+		});
+		
 	});
+function sendAskQuestion()
+{
+	var bValid = true;
+	postName = $("#customer_name").val();
+	postCity = $("#user_city").val();
+	postPhno = $("#contactno").val();
+	postMail = $("#email_user").val();
+	postQue = $("#question_user").val();
+
+	bValid = bValid && trimEmpty( "question_user", "shopping requirement should not be blank." );
+    var captchaValid = trimEmpty( "question_capcha", "Enter valid capcha." );
+	var emailValid = regcheck( "email_user", /^((([a-z]|\d|[!#\$%&'\*\+\-\/=\?\^_`{\|}~]|[\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF])+(\.([a-z]|\d|[!#\$%&'\*\+\-\/=\?\^_`{\|}~]|[\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF])+)*)|((\x22)((((\x20|\x09)*(\x0d\x0a))?(\x20|\x09)+)?(([\x01-\x08\x0b\x0c\x0e-\x1f\x7f]|\x21|[\x23-\x5b]|[\x5d-\x7e]|[\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF])|(\\([\x01-\x09\x0b\x0c\x0d-\x7f]|[\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF]))))*(((\x20|\x09)*(\x0d\x0a))?(\x20|\x09)+)?(\x22)))@((([a-z]|\d|[\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF])|(([a-z]|\d|[\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF])([a-z]|\d|-|\.|_|~|[\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF])*([a-z]|\d|[\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF])))\.)+(([a-z]|[\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF])|(([a-z]|[\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF])([a-z]|\d|-|\.|_|~|[\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF])*([a-z]|[\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF])))\.?$/i, "Please enter valid email address." );
+	if ( bValid && emailValid && captchaValid) {
+		_gaq.push(['_trackEvent', 'query', 'ask question', '']);
+		var frmdata = $("#addquestion_form").serialize();
+		var url = $("#addquestion_form").attr('action');
+		poupData = $( "#dialog-form" ).html();
+        $(".ask-question-overlay .loadTd img").show();
+		//$( "#dialog-form" ).html('<img style="margin-top:20px" src="http://cdn.shoppingwish.in/images/loading-bars.gif" />');
+		$.ajax({
+			type: "POST",
+			url: url,
+			data: frmdata,
+			dataType:'json',
+			success: function(data){
+                $(".ask-question-overlay .loadTd img").hide();
+				if(data.result=='success')
+				{
+					$(".askque-success-msg").show();
+                    $("#addquestion_form").hide();
+                    $("#overlay_askquestion").css('top','200px');
+                    $(".body_class").goTo();
+                    $(".ask-question-overlay .error-msg").hide();
+				}
+				else if(data.result=='miscaptcha')
+				{
+					$(".ask-question-overlay .error-msg").show();
+                    $("#question_capcha").addClass('ui-state-error');
+				}
+				else
+				{
+					//$( "#dialog-form" ).html("Sorry !! Please add question again.");//removed ul li
+				}
+
+			}
+		});
+	}
+    else
+    {
+        $(".ask-question-overlay .error-msg").show();        
+    }
+}
 </script>	    </div>
 
 
@@ -1110,6 +1415,7 @@ Salisbury Park, Pune 411037
 
 	  var _gaq = _gaq || [];
 	  _gaq.push(['_setAccount', 'UA-30398300-1']);
+	  _gaq.push(['_setDomainName', 'shoppingwish.in']);
 	  	  	  _gaq.push(['_setCustomVar', 3, 'Loggedin', 'No', 3]);
 	  	  	  _gaq.push(['_setCustomVar', 4, 'productCategory', '', 3]);
 	  	  _gaq.push(['_trackPageview']);
@@ -1119,16 +1425,14 @@ Salisbury Park, Pune 411037
 		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
 		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
 	  })();
-	  
+
 	  //Insert FB like into .fblikeboxframe
-	  var likeboxcode = '<iframe src="//www.facebook.com/plugins/likebox.php?href=http%3A%2F%2Fwww.facebook.com%2Fshoppingwish&amp;width=265&amp;height=168&amp;show_faces=true&amp;colorscheme=light&amp;stream=false&amp;border_color=%23F0F0F0&amp;header=false&amp;appId=127082717423256" scrolling="no" frameborder="0" style="border-bottom: 1px solid #F0F0F0; overflow:hidden; width:265px; height:152px;" allowTransparency="true"></iframe>';
+	  var likeboxcode = '<iframe src="//www.facebook.com/plugins/likebox.php?href=http%3A%2F%2Fwww.facebook.com%2Fshoppingwish&amp;width=300&amp;height=168&amp;show_faces=true&amp;colorscheme=light&amp;stream=false&amp;border_color=%23F0F0F0&amp;header=false&amp;appId=127082717423256" scrolling="no" frameborder="0" style="border-bottom: 1px solid #F0F0F0; overflow:hidden; width:300px; height:152px;" allowTransparency="true"></iframe>';
 	  setTimeout(function(){
 		$(".fblikeboxframe").each(function(){
 			$(this).prepend(likeboxcode);
 		});
 	  }, 1000);
-	  (function() {  var a = document.createElement('script');a.type = 'text/javascript'; a.async = true;   a.src=('https:'==document.location.protocol?'https://':'http://cdn.')+'chuknu.sokrati.com/345/tracker.js';   var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(a, s);       })(); 
-
 	});
 
 		/*function logError(details) {
@@ -1147,8 +1451,7 @@ Salisbury Park, Pune 411037
 		};*/
 	</script>
 	<!-- Write deferred javascript here.. -->
-	<script type="text/javascript" src="http://cdn.shoppingwish.in/js/min/sw/aa9b219f67624074aa6ae611eb06bda0.js?v=125"></script>
-  
+	<script type="text/javascript" src="http://cdn.shoppingwish.in/js/min/sw/aa9b219f67624074aa6ae611eb06bda0.js?v=146"></script>
 	<script type="text/javascript">
 		var pType = '';
 		var pCategory = '';
@@ -1176,8 +1479,26 @@ Salisbury Park, Pune 411037
 					$.holdReady(false);
 				//});
 			});
-		}, 100);		
+		}, 100);
 	</script>
+	<!-- Google Code for Remarketing Tag -->
+	<!--------------------------------------------------
+	Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. See more information and instructions on how to setup the tag on: http://google.com/ads/remarketingsetup
+	--------------------------------------------------->
+	<script type="text/javascript">
+	/* <![CDATA[ */
+	var google_conversion_id = 1005370552;
+	var google_custom_params = window.google_tag_params;
+	var google_remarketing_only = true;
+	/* ]]> */
+	</script>
+	<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+	</script>
+	<noscript>
+	<div style="display:inline;">
+	<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1005370552/?value=0&amp;guid=ON&amp;script=0"/>
+	</div>
+	</noscript>
 
 
 </body></html>
