@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the webaward.org privacy policy that was archived on 2012-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121228184606id_/http%3A//www.webaward.org/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webaward.org privacy policy that was archived on 2013-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131105093652id_/http%3A//www.webaward.org/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Web Marketing Association's WebAwards
-
-Privacy
 
 The following states Webaward.org policy regarding the privacy rights of visitors to this website. We respect your right to privacy and your desire for a secure experience. 
 
