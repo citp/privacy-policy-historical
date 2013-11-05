@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the laughsocksoff.com privacy policy that was archived on 2013-06-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130626072559id_/http%3A//www.laughsocksoff.com/page/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the laughsocksoff.com privacy policy that was archived on 2013-11-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131105210214id_/http%3A//www.laughsocksoff.com/page/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:og="http://opengraphprotocol.org/schema/"><head>
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -23,21 +23,21 @@
 	<meta name="medium" content="image">
 	<link rel="index" title="Laugh Socks off" href="http://www.laughsocksoff.com/">
 	<base href="http://www.laughsocksoff.com/">
-	<link rel="stylesheet" type="text/css" href="http://www.laughsocksoff.com/templates/wlol_v3/css/style.css">
-    <link rel="stylesheet" type="text/css" href="http://www.laughsocksoff.com/templates/wlol_v3/css/menu.css">
-    <link rel="stylesheet" type="text/css" href="http://www.laughsocksoff.com/templates/wlol_v3/css/jbar.css">
+	<link rel="stylesheet" type="text/css" href="http://www.laughsocksoff.com/templates/wlol_v2/css/style.css">
+    <link rel="stylesheet" type="text/css" href="http://www.laughsocksoff.com/templates/wlol_v2/css/menu.css">
+    <link rel="stylesheet" type="text/css" href="http://www.laughsocksoff.com/templates/wlol_v2/css/jbar.css">
 	<!--[if IE]>
-	<link rel="stylesheet" type="text/css" href="http://www.laughsocksoff.com/templates/wlol_v3/css/ie.css" />
+	<link rel="stylesheet" type="text/css" href="http://www.laughsocksoff.com/templates/wlol_v2/css/ie.css" />
 	<![endif]-->    
-         <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://www.laughsocksoff.com/templates/wlol_v3/pages/app/fblogin.js"></script>
-            <link rel="stylesheet" type="text/css" href="http://www.laughsocksoff.com/templates/wlol_v3/pages/app/fbcheck1.css">
-        <script type="text/javascript" src="http://www.laughsocksoff.com/templates/wlol_v3/pages/app/fbcheck1.js"></script>
+         <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://www.laughsocksoff.com/templates/wlol_v2/pages/app/fblogin.js"></script>
+            <link rel="stylesheet" type="text/css" href="http://www.laughsocksoff.com/templates/wlol_v2/pages/app/fbcheck1.css">
+        <script type="text/javascript" src="http://www.laughsocksoff.com/templates/wlol_v2/pages/app/fbcheck1.js"></script>
 	    <script>
 		var site_url = 'http://www.laughsocksoff.com/';
 	</script>
     
-	<script type="text/javascript" src="http://www.laughsocksoff.com/templates/wlol_v3/js/jquery.min.js"></script>
-    	<script type="text/javascript" src="http://www.laughsocksoff.com/templates/wlol_v3/js/jquery.bar.js"></script>
+	<script type="text/javascript" src="http://www.laughsocksoff.com/templates/wlol_v2/js/jquery.min.js"></script>
+    	<script type="text/javascript" src="http://www.laughsocksoff.com/templates/wlol_v2/js/jquery.bar.js"></script>
 	<!--jbar-->
 	<script type="text/javascript">
         $(function() {
@@ -80,34 +80,25 @@
 <div id="fb-root"></div>
 <script>
 function fbActionPost()
-{	
-	var opts = {
-		message : '',
-		name : '',
-		link : '',
-		description : 'Click to see picture.',
-		picture : ''
-		
-	};
-
-	FB.api('/me/feed', 'post', opts, function(response)
-	{
-		if (!response || response.error)
-		{
-			console.log(response);
+{
+      FB.api(
+        '/me/og.likes',
+        'post',
+        { object: '' },
+        function(response) {
+           if (!response || response.error) {
+		console.log(response); 
+           } else {
+              console.log('done');
+			  
+           }
+        });
 		}
-		else
-		{
-			console.log('Success - Post ID: ' + response.id);
-		}
-	});
-		
-}
 </script>
 				 <a href="javascript:void(0);" onclick="login();">
 <div id="cover" style="opacity:0.79; background: #bbbbbb; width:100%; height:100%; z-index:10;top:0; left:0; position:fixed;display:none; ">
    
-<div style="margin:128px  60px 35px;min-height:90px;padding:4px;text-align:center;"><img alt="www.laughsocksoff.com" src="http://www.laughsocksoff.com/templates/wlol_v3/pages/app/images/fb-connect-box.png"></div>
+<div style="margin:128px  60px 35px;min-height:90px;padding:4px;text-align:center;"><img alt="www.laughyour.com" src="http://www.laughsocksoff.com/templates/wlol_v2/pages/app/images/fb-connect-box.png"></div>
 	</div>	 </a>
 
 
@@ -141,7 +132,7 @@ function fbActionPost()
 
 <div id="header">
 	<div class="wrapper">
-		<div id="logo"><a href="http://www.laughsocksoff.com/" title="Laugh Socks off"><img src="http://www.laughsocksoff.com/templates/wlol_v3/images/pixel.gif"></a></div>
+		<div id="logo"><a href="http://www.laughsocksoff.com/" title="Laugh Socks off"><img src="http://www.laughsocksoff.com/templates/wlol_v2/images/pixel.gif"></a></div>
 		<div class="ad">
 			<script type="text/javascript"><!--
 google_ad_client = "ca-pub-7874834657527776";
@@ -162,11 +153,9 @@ google_ad_height = 90;
 
 <ul id="nav">
     <li><a href="http://www.laughsocksoff.com/">Home</a></li>
-        <li><a href="http://www.laughsocksoff.com/network-engineer" title="NEtwork Engineer" id="rand">Random</a></li>
+        <li><a href="http://www.laughsocksoff.com/you-are-totally-my-daughter" title="You are totally my daughter..." id="rand">Random</a></li>
 
-
- 
-
+      
 </ul><!-- Container -->
 <div id="container" class="rounded-10">
 	<div class="privacy">
@@ -177,14 +166,14 @@ google_ad_height = 90;
 <div id="footer">
 	<div class="wrapper">
 		<div class="left">Copyright © 2012, Laugh Socks off. All rights reserved.</div>
-		<div class="right"><a href="http://www.laughsocksoff.com/rss" rel="alternate" type="application/rss+xml" style="margin:0;padding:0;"><img src="http://www.laughsocksoff.com/templates/wlol_v3/images/feed.png" alt="" style="vertical-align:middle;border:0"></a><a href="http://www.laughsocksoff.com/rss" rel="alternate" type="application/rss+xml">RSS Feed</a>
+		<div class="right"><a href="http://www.laughsocksoff.com/rss" rel="alternate" type="application/rss+xml" style="margin:0;padding:0;"><img src="http://www.laughsocksoff.com/templates/wlol_v2/images/feed.png" alt="" style="vertical-align:middle;border:0"></a><a href="http://www.laughsocksoff.com/rss" rel="alternate" type="application/rss+xml">RSS Feed</a>
          · <a href="http://www.laughsocksoff.com/page/terms-of-use" title="Terms of Use">Terms of Use</a> · <a href="http://www.laughsocksoff.com/page/privacy-policy" title="Privacy Policy">Privacy Policy</a> · <a href="http://www.laughsocksoff.com/page/contact-us" title="Contact Us">Contact Us</a>        </div>
 		<div class="clear"></div>
       
         <script type="text/javascript">
 
   var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-40143302-1']);
+  _gaq.push(['_setAccount', 'UA-40143302-2']);
   _gaq.push(['_trackPageview']);
 
   (function() {
