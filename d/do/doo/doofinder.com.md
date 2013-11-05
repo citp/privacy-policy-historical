@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the doofinder.com privacy policy that was archived on 2013-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130624082736id_/http%3A//doofinder.com/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the doofinder.com privacy policy that was archived on 2013-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131105220642id_/http%3A//www.doofinder.com/en/privacy-policy) for the most accurate reproduction.*
 
 # Doofinder - Doofinder's privacy policy
 
