@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pricefalls.com privacy policy that was archived on 2013-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130510204949id_/http%3A//www.pricefalls.com/Pricefalls-Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pricefalls.com privacy policy that was archived on 2013-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131105151340id_/http%3A//www.pricefalls.com/Pricefalls-Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy | Pricefalls.com Personal Shopping
 
