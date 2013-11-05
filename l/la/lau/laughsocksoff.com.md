@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the laughsocksoff.com privacy policy that was archived on 2013-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130626072559id_/http%3A//www.laughsocksoff.com/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the laughsocksoff.com privacy policy that was archived on 2013-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131105210214id_/http%3A//www.laughsocksoff.com/page/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Laugh Socks off
 
