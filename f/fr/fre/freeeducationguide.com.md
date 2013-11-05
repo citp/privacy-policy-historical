@@ -1,12 +1,16 @@
-> *The following text is extracted and transformed from the freeeducationguide.com privacy policy that was archived on 2012-02-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120211021329id_/http%3A//freeeducationguide.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freeeducationguide.com privacy policy that was archived on 2013-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131105210114id_/http%3A//www.freeeducationguide.com/ajax/privacy.html) for the most accurate reproduction.*
 
 # 
 
-[ ](https://privacy-policy.truste.com/click-with-confidence/ctv/en/w2.freeeducationguide.com/seal_m "Validate TRUSTe privacy certification") Effective: 1/13/2011 
+[](http://privacy.truste.com/privacy-seal/AcademixDirect/validation?rid=99d6a7a1-6ddc-4055-93af-bb345970c3fc "TRUSTe online privacy certification")
 
-This privacy policy explains how FreeEducationGuide.com ("FreeEducationGuide.com") collects and uses your personal information that you submit to us online. FreeEducationGuide.com reserves the right to modify the terms of this policy at any time. We may update this privacy policy to reflect changes to our information practices. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of notice on this Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices. 
+Effective: 9/18/2012 
 
-If you do not agree to the terms of this policy, in whole or in part, you are not authorized to use this website and should terminate registration by following the opt-out instructions (please see the "Opt Out Instructions below) or or by visiting [www.degreepath.com/unsubscribe.html](http://www.degreepath.com/unsubscribe.html). For questions about our policy, please submit your request in writing to [privacy@FreeEducationGuide.com](mailto:privacy@FreeEducationGuide.com). 
+This privacy policy explains how FreeEducationGuide.com owned and controlled by AcademixDirect, Inc. collects and uses your personal information that you submit to us online. FreeEducationGuide.com reserves the right to modify the terms of this policy at any time. We may update this privacy policy to reflect changes to our information practices. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of notice on this Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices. 
+
+If you do not agree to the terms of this policy, in whole or in part, you are not authorized to use this website and should terminate registration by following the opt-out instructions (please see the "Opt Out Instructions below) or by visiting [www.DegreePath.com/unsubscribe.html](http://www.degreepath.com/unsubscribe.html). For questions about our policy, please submit your request in writing to [privacy@DegreePath.com](mailto:privacy@DegreePath.com). 
+
+FreeEducationGuide.com has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program does not cover information that may be collected through downloadable software. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trust mark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at [info@DegreePath.com](mailto:info@DegreePath.com). If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint). 
 
 ##### What we may collect:
 
@@ -26,9 +30,9 @@ We use other third parties such as an email service provider to send out emails 
 
 ##### Access to your Personal Information:
 
-If your personal information changes, you may request that we correct or update it by emailing our Customer Support at [privacy@FreeEducationGuide.com](mailto:privacy@FreeEducationGuide.com)
+If your personal information changes, you may request that we correct or update it by emailing our Customer Support at [privacy@DegreePath.com](mailto:privacy@DegreePath.com). 
 
-We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us at . We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. 
+We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us at info@DegreePath.com. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. 
 
 ##### Cookies:
 
@@ -48,13 +52,12 @@ Targeted advertising (also known as Behavioral Advertising) uses information col
 
 If you click on a link to a third party site, you will leave the FreeEducationGuide.com site you are visiting and be redirected to the site you selected. Because we cannot control the activities of third parties, we cannot accept responsibility for any use of your personal information by such third parties, and we cannot guarantee that they will adhere to the same privacy practices as FreeEducationGuide.com. We encourage you to review the privacy policies of any other service provider from whom you request services. If you visit a third party Web site that is linked to a FreeEducationGuide.com site, you should read that site's privacy policy before providing any personal information. 
 
-Third-party marketing vendors, including Google, may show FreeEducationGuide.com ads on sites on the internet and may use cookies to serve ads based on a user's prior visits to FreeEducationGuide.com. Users may opt out of Google's use of cookies by visiting the Google advertising opt-out page [http://www.google.com/privacy_ads.html](http://www.google.com/privacy/ads/). Alternatively, users can opt out of a third party vendor's use of cookies by visiting the Network Advertising Initiative opt out page <http://www.networkadvertising.org/managing/opt_out.asp>. 
+Third-party marketing vendors, including Google, may show TutorSpot.com ads on sites on the internet and may use cookies to serve ads based on a user's prior visits to TutorSpot.com. Users may opt out of Google's use of cookies by visiting the Google advertising opt-out page <http://www.google.com/privacy_ads.html>. Alternatively, users can opt out of a third party vendor's use of cookies by visiting the Network Advertising Initiative opt out page http://www.networkadvertising.org/managing/opt_out.asp. 
 
 ##### Security:
 
-FreeEducationGuide.com regularly monitors our websites, affiliated websites, and databases for fraud, abuse, and unauthorized use of information to protect your personal information that is under our control. 
+FreeEducationGuide.com regularly monitors our websites, affiliated websites, and databases for fraud, abuse, and unauthorized use of information to protect your personal information that is under our control. We follow generally accepted industry standards to protect the personally identifiable information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security. 
 
-We follow generally accepted industry standards to protect the personally identifiable information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.  
 If you have any questions about security on our Web sites, you can email us at [info@DegreePath.com](mailto:info@DegreePath.com). 
 
 ##### Do Not Call Registry Compliance:
@@ -63,7 +66,7 @@ By submitting personal contact information to FreeEducationGuide.com through thi
 
 ##### Opt-Out Opportunity:
 
-FreeEducationGuide.com registrants may opt-out of receiving further newsletters from FreeEducationGuide.com at any time by following the "unsubscribe" instructions in any FreeEducationGuide.com e-mail received by registrant or or by visiting [www.degreepath.com/unsubscribe.html](http://www.degreepath.com/unsubscribe.html). Please note that unsubscribing from one email list does not automatically unsubscribe you from any other email list that you may be on. Please read the email carefully to find out which list you are unsubscribing from. 
+FreeEducationGuide.com registrants may opt-out of receiving further newsletters from FreeEducationGuide.com at any time by following the "unsubscribe" instructions in any FreeEducationGuide.com e-mail received by registrant or by visiting [www.DegreePath.com/unsubscribe.html](http://www.degreepath.com/unsubscribe.html). Please note that unsubscribing from one email list does not automatically unsubscribe you from any other email list that you may be on. Please read the email carefully to find out which list you are unsubscribing from. 
 
 ##### Children's Privacy:
 
@@ -78,3 +81,7 @@ To contact FreeEducationGuide.com, please send all inquiries to [info@DegreePath
 FreeEducationGuide.com  
 1091 Landings Drive  
 Mountain View, CA 94043 
+
+##### Terms of Use:
+
+FreeEducationGuide.com does not warrant the accuracy or completeness of any information contained within it's websites and is not responsible for mistakes or omissions. By selecting the enter button while requesting information, you agree to hold FreeEducationGuide.com harmless from any damages incurred as a result of any act or omission by any agent, broker, or service provider to whom you are connected or as a result of your use of any of the information contained on this website. 
