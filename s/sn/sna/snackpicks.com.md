@@ -1,113 +1,150 @@
-> *The following text is extracted and transformed from the snackpicks.com privacy policy that was archived on 2011-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110512205703id_/http%3A//www.kelloggs.com/us/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the snackpicks.com privacy policy that was archived on 2013-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131105103315id_/http%3A//www.kelloggcompany.com/privacy.aspx) for the most accurate reproduction.*
 
-# Kellogg Company - Privacy
+# Privacy Policy
 
-## Kellogg’s United States Privacy Policy
+**KelloggCompany.com Privacy Policy**
 
-Kellogg Company and its subsidiaries, affiliates, divisions, and groups (collectively referred to herein as “Kellogg” or “We”) care about personal privacy and recognize their obligation to their customers, community and online visitors to adhere to the highest standards of decency, fairness, and integrity in all its operations. As in our other business operations, Kellogg approaches our communications on the Internet with respect for, and commitment to, individual privacy rights, and concern and respect for the various sensibilities of our consumers. We support active self-regulation of this online environment to ensure that responsible marketers can maintain the right to use all communication media to interact with consumers. This Privacy Policy discloses how Kellogg and its Agents (Agents are defined as contractors, service providers, and other entities acting on behalf of, and with authorization by, Kellogg) collect, protect, use and share information gathered about you on our website (“Site”). This Privacy Policy applies to this Site, however it is accessed and/or used (e.g., through personal computers, mobile devices, or otherwise), and other interactive features, applications, or downloads operated by Kellogg that are available through this Site or that interact with this Site and post this Privacy Policy. We hope that this disclosure will help increase your confidence in our Site and enhance your experience on the Internet.
+Updated December 16, 2012
 
-We provide a variety of content at our Site. We may offer product information, recipes, coupons, games, merchandise for sale, entertainment, advertising, surveys, promotions, sweepstakes and contests, as well as information about our company and special services and information for our shareholders. Our company information may include information on job openings and requirements as well as opportunities to apply for jobs online. We hope you enjoy our Site and the various features and opportunities we offer.
+Kellogg Company, (the "Company"), has created this privacy policy for www.KelloggCompany.com (the "Site") in order to demonstrate its firm commitment to privacy. (“We” or “Us”, as used in this Privacy Policy, may include the Kellogg family of companies, and websites within the Kellogg family of companies.) The following discloses Kellogg Company's information gathering and dissemination practices for the information collected through this Site. We encourage you to read this Policy before using this Site. Your use of this Site signifies that you agree with all terms of this Policy, so please do not use this Site if you disagree with any part of this Policy.  
 
-## OVERVIEW
 
-1\. How Information is Collected
+**PRIVACY STATEMENT  **
 
-2\. Use of Personal Information
+**I. Kellogg Company’s Collection and Use of Information  **
 
-3\. Sharing of Personal Information
+**A. Personally Identifiable Information**
 
-4\. Governing Law; Information Transfers
+We will collect personally identifiable information about you, such as your name, postal address, telephone number, e-mail address, when you provide it to us while on this Site. You may provide personally identifiable information when you create an account, enter a sweepstakes on this Site or on a third party site, sign up for email communications, participate in a survey, contact customer service, engage in a promotion online or instore or otherwise interact with this Site. Your personally identifiable information may be used by us  for all legal purposes, which may include, but are not limited to, responding to your requests, processing your transactions, for administrative purposes such as conducting contests, tracking which parts of the Site are of interest to you, and processing prizes. If you choose to opt-in, you may receive certain future information or communications from Kellogg Company, and we may share your personally identifiable information with Kellogg Company’s subsidiaries or affiliated entities ("Affiliated Entities") for purposes of sending you information about the programs of Kellogg Company or its Affiliated Entities and, occasionally, sending you advertising/promotional material from some of their advertising and strategic partners (see the Opt-In/Choice section below). We may also use your personally identifiable information for internal business purposes, such as optimizing Site experiences and analyzing and managing our businesses. 
 
-5\. Collection of Information from Children Under 13
+**Note Regarding Use of this Site by Children**
 
-6\. Use of Cookies or Other Technologies
+We request that children do not provide personally identifiable information through the Site.
 
-7\. Security Measures
+**B. Demographic Information**
 
-8\. Links to and from Other Sites
+We may also collect demographic data, such as your gender and postcode, when you provide this information to us. Demographic data may be used to tailor your experience at this Site, such as showing you content including special events and advertising that you might be interested in, and displaying the content according to your postcode.
 
-9\. Reviewing and Updating Your Information
+On occasion, aggregate information that does not identify any particular user may be compiled and shared with subsidiaries and affiliates of Kellogg Company, and other third parties as described in Section II below. 
 
-10\. Updates to this Privacy Policy
+**C. Passive Collection of Non-Personal Information**
 
-11\. Notice to California Residents
+This Site often requires the use of encrypted or non-encrypted cookies. Cookies are data that a web server transfers to an individual's computer for recordkeeping purposes. Cookies are an industry standard used by most websites and help facilitate users' ongoing access to and use of a particular website, for example by providing information used to deliver content specific to your interests and for other purposes, such as security and other account administrative functions, and which may track personal identifying information. 
 
-## PRIVACY POLICY
+Cookies do not cause damage to your computer systems or files, and only the website that transferred a particular cookie to you can read, modify or delete such cookie. If you do not want information collected through the use of cookies, there are simple procedures in most browsers that allow you to delete existing cookies, to automatically decline cookies or to be given the choice of declining or accepting the transfer of particular cookies to your computer. Please refer to your browser instructions or help screen to learn more about these functions. You should note, however, that declining cookies may make it difficult or impossible for you to use portions of the Site. _ ** **_
 
-1\. How Information is Collected
+As part of the log-in process, this Site may use persistent cookies when you give us permission to do so. Persistent cookies are cookies stored on your computer. They allow us, with your permission, to remember information about you, such as your log-in information, so that we may enhance your experience the next time you visit the Site. You must give your permission to allow this Site to set persistent cookies. You may opt-out of the use of persistent cookies at any time.
 
-We collect certain non-personal information automatically, like IP addresses, browser types, referring websites, and access times, when consumers visit our Site. This “web log” information is not personally identifiable, but provides important information on the number of visitors, and what areas or features they like best. Our visitors can review our Site and participate in many features without disclosing any personal information. 
+We may also use flash cookies, also known as "local shared objects," on this Site during the log-in process. Flash cookies are small files similar to browser cookies and are used to remember the Site's settings in order to personalize the look and feel of the site. Flash cookies only collect data in the aggregate. This Site’s log-in process also may use session cookies, if you choose to register with this Site. Session cookies enable the Site to recognize your log-on credentials, and enhance your browsing of the Site.
 
-Kellogg collects personal information including, but not limited to, name, home address, email address, and telephone number, from our Site visitors on a voluntary basis. Visitors can access most of our sites without providing any personal information. However, to participate in some of the programs or features we offer, customers may have to provide personal information. 
+Some uses of cookies in connection with the Site may be under the control of unaffiliated entities that the Company retains for the management of certain programs and fulfillment of specific visitor/customer requests. The Company requires these entities to confine their use of cookies to the uses permitted by this Policy, but the Company cannot be responsible for third party uses of cookies.
 
-For example, we may require your name and e-mail address to add you to an e-mail list or enter you in an online sweepstakes or contest. We may require a home address and telephone number to enter you in a contest or sweepstakes so that we can send prize notifications and prizes or to send you special offers. Users who register to receive information via a wireless device must submit a cell phone number to receive text messages. Users can update their preferences and subscriptions and/or delete their accounts at any time. 
+The Site may use "pixel tags", "web beacons", "clear GIFs" or similar means (collectively, "Pixel Tags") to compile aggregate statistics about Site usage and response rates. Pixel Tags allow us to count users who have visited certain pages of the Site, to deliver advertisements for goods and services that may be of interest to you and to help determine the effectiveness of promotional or advertising campaigns. When used in HTML-formatted email messages, Pixel Tags can tell the sender whether and when the email has been opened.
 
-To sign up registered shareholders to receive proxy and other information online, we may ask for a social security or tax identification number and other information to verify your identity. If you apply for a job online, we may ask for your name, home address, phone number, email address, birthdate, Kellogg employee number, and/or last four digits of your social security number. 
+Kellogg Company also collects " **referrers** " information, **IP addresses** and various **environmental variables**.
 
-We may request feedback from our visitors in the form of surveys, questionnaires or our feedback forms on their preferences and reaction to our products, including demographic information, like age, gender and interests, to help us better serve you. This information will only be used for research purposes and not future marketing activities unless explicitly stated. We ask for credit card information where we offer online shopping opportunities. We also require ship-to and billing information in our online stores. 
+• A "referrer" is information the web browser passes along to our web servers that references the URL from which you came. 
 
-Users who want access to special features, promotions, coupons, newsletters, games, and other information on the Site may be required to register for an account. 
+• The "IP address" is a number used by computers on the network to identify your computer so that data can be transmitted to you. 
 
-In many cases, you may have the opportunity to send website content or information to a friend. In these “refer-a-friend” cases, your friend’s email will only be used to deliver the message and not for future marketing purposes unless otherwise stated. 
+• "Environmental variables" include, among other things, the domain from which you access the Internet, the time you accessed this site, type of web browsers and operating system or platform used, the Internet address of the website you left to visit this Site, the names of the pages you visit while at this Site and the Internet address of the website you then visit. 
 
-We may use one or more web analytics services to provide us with reporting regarding our customers' activities on our Site. [Click here](https://web.archive.org/uploadedFiles/KelloggCompany/Miscellaneous/Service_Providers_Aug2010.pdf) for a list of our service providers and their privacy practices. When you visit our Site, these services may set cookies (i.e., small data files that a site sends to your computer to make your access easier and/or faster) on our behalf and may receive information about your browsing activity (e.g., pages viewed, etc). You may refuse the use of cookies by selecting the appropriate settings on your browser. Keep in mind if you do this, then you may not be able to leverage the full functionality of the website such as personalized content or saved passwords. 
+This information is collected for Kellogg Company’s internal use such as to enhance website security, to detect broad demographic trends, to assist Kellogg Company in providing content tailored to your interests and to otherwise enhance your experience on this Site. This information may also be shared with third parties on an aggregate and non-personally identifiable basis.
 
-By using this Site, you consent to the processing of data about you by these third parties in the manner and for the purposes described herein. For more information on cookies, please see section 6 below. 
+We may use both personally identifiable information and non-personally identifiable information, individually or together, to improve our marketing and promotional efforts, improve our products and services, better understand customer interests and preferences, and /or provide you relevant information.  We may enhance or merge personally identifiable information that you provide with data obtained from third parties.
 
-2\. Use of Personal Information
+**II. Disclosure of Information to Third Parties**
 
-Except as otherwise provided herein, personal information shared with Kellogg will be used for the purpose for which it was provided or for the company’s internal marketing or product development purposes, and will not be sold or provided to third parties outside of the Kellogg family of companies for their marketing purposes without your permission. If you decide to provide personal information in order to participate in a special area of our Site, such as registering for e-mail updates or for a special program or contest, we will use the information you provide for that purpose. So that we may better tailor our advertising and offers to you and inform you about products and services that we offer that may be of interest, we will automatically share the personal information that you provide with other Kellogg brands unless you uncheck the applicable box at the registration area. We offer visitors an opt-out option in each of our promotional communications that allows you, at any time, to cease receiving such information.
+Kellogg Company may share personally identifiable information, including information that you provide on the Site, with third parties as described below. 
 
-We may use both personal and non-personal information, individually or combined together, to improve our marketing and promotional efforts, improve our products and services, better understand customer interests and preferences, and/or provide you relevant information. We may enhance or merge personal information that you provide with data obtained from third parties.
+**A. Affiliated Entities**
 
-3\. Sharing of Personal Information
+We may share any information, including personally identifiable information that you provide on the Site, with our subsidiaries and affiliates worldwide, for the purposes described in Section I(A). 
 
-Except as otherwise provided herein, on sites owned by Kellogg, personal information received from any visitor will only be used for the purpose for which it was provided or for internal marketing purposes, or product development purposes, and will not be sold or provided to third parties outside of the Kellogg family of companies for their marketing purposes without your permission. As described above, we will automatically share your personal information with other Kellogg brands. Your personal information may also be shared with research, technical, fulfillment, and other Agents to help us make the Site available, provide services and products, understand your needs, respond to your requests, and for internal marketing and product development purposes. We may also provide your personal information to third parties for analytics purposes. And in those cases, we will require our third party agents to maintain the confidentiality of the data. We may use third parties to enhance or update your profile information to better serve our consumers. 
+**B. Strategic Partners**
 
-In some circumstances, we may partner with another company to provide certain content, programs or features. Examples include certain promotions, loyalty programs, sweepstakes or contests. In those situations, when you provide personal information about you or your child, it may be sent directly to Kellogg and to our partner company, or we may share the information with our partner company. At the time of registration, we will let you know whether, in addition to Kellogg, another company is collecting information or if we need to share your personal information with a partner company to provide the program, service or feature. We (and our partner company) will also provide a link to the respective online privacy policies so that you can make an informed decision about whether to share your (or your child’s) information. If you choose to not have your or your child’s information shared, your information will not be shared, and you will not be able to participate in or receive the benefits or services provided by our business partners. Although we strive to only partner with companies who agree to adopt privacy policies that are consistent with our own values and policy, and who agree to comply with [Children’s Online Privacy Protection Act (“COPPA”)](http://www.ftc.gov/privacy/privacyinitiatives/childrens.html), we are not responsible for the policies or offerings of any third party, and urge you to review their policies and terms and conditions as they may vary. 
+ From time to time we may enter into a special relationship with another company that is not owned by or affiliated with Kellogg Company to provide additional features on this Site. These special relationships may include business partners, sponsors and co-branded sites (referred to here as "co-branded pages"). Any information, including personally identifiable information that you provide on one of these co-branded pages, may be shared with these third party partners. By participating in activities or providing your information on these co-branded pages, you also consent to our providing your personally identifiable information to those third parties. Since these third parties will use your information in accordance with their own privacy practices, you should check their websites for information regarding their privacy policies. 
 
-4\. Governing Law; Information Transfers
+**C. Service Providers**
 
-This Privacy Policy shall be governed by the laws of the United States. The server(s) that make(s) this Site available and database(s) where information may be stored may be located outside the country from which you accessed this Site, in a country that does not have the same privacy laws as your country of residence. The personal information made available to us may, therefore, be transmitted abroad, but we will collect, process, and use personal information only in accordance with this Privacy Policy. By visiting this Site and submitting information, you consent to such collection, processing, transfer and/or storage of your personal information. For detailed information on our privacy practices with respect to consumer data from consumers located in the European Union, please see our [EU Safe Harbor Privacy Policy](http://www.kelloggcompany.com/safeharbor.aspx). Employment-related queries may also be transferred to any Kellogg company worldwide, and we have instituted procedures to comply with applicable EU data protection laws in connection with such transfers.
+We may use third party service providers to help us operate our business and this Site or administer activities on our behalf, such as sending emails, order fulfillment and sweepstake administration. We may share your information with these third parties for those limited purposes. For instance, if you participate in a sweepstake, game or loyalty program resulting in a prize or award, we will share personally identifiable information about you with our games and merchandise fulfillment and management agencies. 
 
-5\. Collection of Information From Children Under 13
+**D. Ad Networks**
 
-We are especially mindful of the need for children under 13 who may visit this Site to consult with their parents before furnishing personal information and have adopted special procedures to safeguard children’s privacy online. We've developed our privacy practices from guidelines established by the [Children's Advertising Review Unit (“CARU”)](http://www.caru.org/) and in compliance with the requirements established by the [Children’s Online Privacy Protection Act ("COPPA")](http://www.ftc.gov/privacy/privacyinitiatives/childrens.html). We also recommend that you monitor your children’s online activities and learn about and use software or other tools that can help you assure that your children enjoy the Internet in a manner that reflects your own preferences.
+We may have relationships with third party service providers known as Ad Networks to serve ads on our behalf across the internet.  Using Cookies and Pixel Tags (also known as Web Beacons), Ad Networks collect anonymous information about your visits to our web site and other web sites in order to deliver advertisements that may be of particular interest to you.  This process does not involve the collection of any personally identifiable information.  The Ad Networks do not know your name, phone number, address, email address or any personally identifiable information We do not share any personally identifiable information about you with these advertising networks.  To find out more about how the networks manage the privacy of information in conjunction with delivering ads online and how to opt-out of information collection by these networks please go to: [http://www.youradchoices.com](http://www.youradchoices.com/) or [http://www.networkadvertising.org](http://www.networkadvertising.org/). We do not operate or control these sites, and are not responsible for the opt-out choices available there. 
 
-Kellogg does not condition a child’s participation in an activity on disclosing more information than is reasonably necessary in order to participate. We may ask visitors to enter a birthdate to restrict those who are underage from accessing certain sites, areas, or features. We may collect a child’s first name and email address without a parent’s consent, but only to respond to a one time question or request, and we promptly delete this information after we respond. Where a child under 13 signs up for a newsletter or other activity requiring multiple online contacts, we will ask the child for a parent or legal guardian’s email address so we can notify them and get their permission or give them the opportunity to opt out.
+**E. Other Disclosures**
 
-For all personal information, we require verifiable consent from a parent or legal guardian first via a method that meets COPPA guidelines. Provided we have parental permission, we may collect additional personal information from a child such as a first name, email address, home address, and telephone number. This information helps us to personalize special offers, sweepstakes, contests, and games, and to offer other activities we think will be of interest to our consumers under the age of thirteen.
+Personally identifiable information of any individual user may be shared with other companies outside Kellogg Company: (i) as permitted by law, (ii) in the event of a transfer of ownership, assets or a bankruptcy of Kellogg Company, (iii) where we determine that disclosure of specific information is necessary to comply with the request of a law enforcement or regulatory agency or other legal process, or (iv) to protect the interests or safety of Kellogg Company or other visitors to this Site.
 
-6\. Use of Cookies or Other Technologies
+**F. User Generated Content Functions**
 
-As mentioned in section 2 above, Kellogg uses "session cookies," "persistent cookies," and "Flash cookies" to remember important information that will make your use of the Site more enjoyable, efficient and useful; they do not contain personal information. We use cookies and IP addresses to obtain non-personal information from online visitors, provide registered users with a customized, personalized, online experience, and tailor our products, services and advertising to suit the personal interests of our visitors. They can, for example, help to give you faster access to pages you have already visited, allow you to personalize your pages, and help you to participate in some activities or events on the Site. We also use cookies to determine how many people visit our Site, and which features are most useful and popular and which may need improvement. We may also use session cookies to prevent circumventing the age-screening process for COPPA compliance purposes, and we may use persistent cookies at registration areas.
+This Site enables users to submit their own content in “Challenges” and other functions on the Site. Please remember that any information you disclose in connection with a submission becomes public information and you should exercise caution when deciding to disclose your personal, financial or other information in a submission. Kellogg Company cannot prevent such information from being used in a manner that may violate this Privacy Policy, the law or your personal privacy and safety and is not responsible for the results of such postings. 
 
-If you don't want "session cookies" or "persistent cookies", you can turn these off or have your computer notify you when these cookies are being sent by following the instructions for your particular web browser, such as Safari, Firefox, Opera, or Internet Explorer. Additionally, you can disable or delete similar data used by Web browser add-ons, such as "Flash cookies," by changing the add-on's settings or [visiting the web site of its manufacturer](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html). If cookies are turned off, you may not be able to access certain features.
+**G. Sweepstakes, Contests etc.**
 
-We may also use another technology, called clear GIFs or web beacons, to provide us with other important anonymous information, such as when an email has been opened, the number of visitors who have viewed our web pages, and the activities and features that are of most interest to consumers.
+We may operate sweepstakes, contests, raffles and similar promotions through the Site that may require online registration. We typically ask you for certain personally identifiable information when you enter and, if applicable, win a sweepstake, contest, raffle or similar promotion. We may share this personally identifiable information with third party sponsors of such sweepstakes, contests, raffles and promotions (irrespective of whether it is hosted by us), or otherwise in accordance with the rules applicable to such sweepstakes, contest, raffle or promotion. You should carefully review the rules of each sweepstake, contest, raffle and promotion in which you participate through the Site, as they may contain additional important information about Kellogg Company's or a sponsor’s use of your personally identifiable information. Insofar as the terms and conditions of such rules concerning the treatment of your personally identifiable information conflict with this Privacy Statement, the terms and conditions of such rules shall control. 
 
-7\. Security Measures
+**III. LINKS AND THIRD PARTIES' PRIVACY PRACTICES**
 
-Kellogg uses reasonable efforts to make sure all personal information received from our online visitors is secure from unauthorized access and use. All personal information from our customers is protected by our security measures, such as encryption which are periodically reviewed. Kellogg also requires it’s Agents to maintain the confidentiality of your personal information.
+This Site may contain links to other sites that are not operated by Kellogg Company. **KELLOGG COMPANY IS NOT RESPONSIBLE FOR THE PRIVACY PRACTICES OR THE CONTENT OF SUCH OTHER WEBSITES, INCLUDING WEBSITES OPERATED BY AFFILIATED ENTITIES**. We provide such links only as a convenience and the inclusion of a link on the site does not imply endorsement of the linked site by Kellogg Company. If you provide any personally identifiable information through any such third party website, your transaction will occur on such third party's website (and not on this site) and the personally identifiable information you provide will be collected by and controlled by the privacy policy of that third party. Kellogg Company recommends that you review the privacy policy of third party websites arrived at from links on this Site.
 
-Kellogg cares about the safety and security of your credit card transactions or shareholder information and uses 124-bit SSL (“Secure Sockets Layer”) when you provide your credit card or other similar sensitive personal information to us online. SSL is the industry standard security protocol which makes it difficult for others to intercept your information online. We safeguard your credit card data in our internal systems through the use of credit card industry standard protections. You should keep in mind, however, that no data transmitted over the Internet is 100% secure and any information disclosed online can potentially be collected and used by parties other than the intended recipient.
+**IV. SECURITY**
 
-8\. Links to and from Other Sites
+This Site has security measures in place to help protect against the loss, misuse and alteration of the personally identifiable information under its control. Kellogg Company employs reasonable security measures consistent with standard industry practice to help protect against public access to personally identifiable and account activity information collected on and used by Kellogg Company at this Site. For instance, access to our databases with personally identifiable information is logged for security purposes and access is limited to key personnel. Personally identifiable information and account activity are also protected through the use of user names and passwords. In order to help maintain the security of your information, you should protect the confidentiality of your user name and password. 
 
-This Site may contain links to other sites. We make every effort only to link to websites that share our high standards of decency, fairness, and integrity. We try our best to ensure that these links are safe for children, but the privacy and data collection practices on any linked websites are entirely separate from Kellogg and are not covered by this Privacy Policy. Kellogg shall not be responsible for any failure on the part of any linked websites to comply with any privacy policy posted on the website, or any contractual or other legal obligations to which the operators of such website may be subject. In addition, other websites, which may contain material not consistent with Kellogg corporate policies, may also link to the Kellogg websites without Kellogg’s knowledge or consent. Kellogg has no responsibility for the content, policies or actions of these websites.
+**V. OPT-IN/CHOICE**
 
-9\. Reviewing and Updating Your Information
+This Site may provide you with the opportunity to opt-in to receive marketing communications from Kellogg Company. If you do not opt-in, Kellogg Company will not send you its promotional offers. You may also opt-out of marketing communications at any time by clicking the “unsubscribe” link in the body of the communication. However, regardless of your opt-in preferences, Kellogg Company may still at times need to send program e-mails for administrative reasons. If you opt to receive communications from multiple brands within the Kellogg family of companies and then change your election, you may need to opt-out individually from each of the brands to which you agreed to receive brand-specific communications.
 
-Customers who provide personal information through our websites can review this information in the Customer Center found under the “My Account” or similar account hyperlink on the [www.kelloggs.com](http://www.kelloggs.com/) website. You can review, update, change or delete any or all of your personal information at that site. If you have any concerns about this information or need assistance, you can contact our [Consumer Affairs Department](http://www2.kelloggs.com/ContactUs.aspx).
+Kellogg Company also gives you convenient methods for removing your information from our database so as not to receive future communications or to close your account. You may:
 
-10\. Updates to this Privacy Policy
+• opt-out on the account profile page;
 
-Kellogg reserves the right to update, revise, modify and supplement this policy and any disclosures and disclaimers at any time without notice. We may also change the information, features, products, policies, or promotions at this Site at any time without notice. Changes to this Privacy Policy will be posted on our Site so please check our Policy periodically for changes. At the end of this Privacy Policy we indicate the date of the latest update to the Policy. Your continued use of this Site following any of changes to this Privacy Policy signifies your acceptance of these changes.
+• use the [Contact Us](http://www.kelloggs.com/en_US/contact-us.html) form on the website;
 
-11\. Notice to California Residents
+• call 1-800-962-1413  Monday through Friday 8am - 7pm ET
 
-Under California’s “Shine the Light” law, California residents who provide personal information in obtaining products or services for personal, family or household use are entitled to request and obtain from us once per calendar year information about the customer information we shared, if any, with third parties for their direct marketing purposes, including the categories of information and names and addresses of third parties with whom we shared the information.
+or you may send mail to the following postal address:
 
-To obtain this information from Kellogg, please contact our Consumer Affairs Department by 1) using the [“contact us”](http://www2.kelloggs.com/ContactUs.aspx) form on the website, 2) calling 800-962-1413 Monday through Friday 8am - 7pm ET, or 3) writing to Kellogg Consumer Affairs, PO BOX CAMB, Battle Creek, MI 49016. You must provide a current California address for our response. Please note that not all information sharing is covered by the "Shine the Light" law, and we will only include in our response information relating to our sharing practices for covered information.
+Kellogg’s Consumer Affairs  
+PO BOX CAMB  
+Battle Creek, MI 49016
 
-Updated August 12, 2010
+This Site gives you several options for reviewing, correcting, updating or otherwise modifying information you have previously provided. You may:
+
+• make changes and updates on the account profile page;
+
+• use the [Contact Us](http://www.kelloggs.com/en_US/contact-us.html) form on the website;
+
+• call 1-800-962-1413 Monday through Friday 8am - 7pm ET;
+
+• Or, you may send mail to the following postal address:
+
+Kellogg’s Consumer Affairs  
+PO BOX CAMB  
+Battle Creek, MI 49016
+
+Please note, changes may not be effective immediately. In each event, you must clearly indicate the information that you wish to have changed or clearly indicate that you wish to have your personally identifiable information removed from our database. We will endeavor to comply with your request as soon as reasonably possible. Note that despite any request for removal of or change to personally identifiable information, we may need to retain certain information for recordkeeping purposes, and there may also be residual information that will remain within our databases and other records, which will not be removed or changed. We also reserve the right, from time to time, to re-contact former users of the site for important administrative purposes. Finally, we are not responsible for informing third parties (including without limitation our third party service providers or strategic partners) with whom we have already shared your personally identifiable information of any changes requested pursuant to this section, or for removing information from or causing information to be removed from the databases or records of such entities.
+
+**VI. UPDATES TO THIS PRIVACY POLICY**
+
+Kellogg Company reserves the right to make changes in this Privacy Policy. These changes will take effect immediately upon posting. For your convenience, the last revised date of the current policy will be posted at the top of this page. By continuing to use the Site following such changes, you will be deemed to have agreed to such changes. If you do not agree with the terms of this Privacy Policy, please do not continue using the Site.
+
+**VII. GOVERNING LAW**
+
+This Privacy Policy is governed by the laws of the State of Michigan, USA, without regard to its choice of law provisions.
+
+**VIII. CONTACTING KELLOGG COMPANY**
+
+If you have any questions about this Privacy Policy or the practices of this Site, you may contact:
+
+Kellogg’s Consumer Affairs  
+PO BOX CAMB  
+Battle Creek, MI 49016
+
+1-800-962-1413
+
+Monday through Friday 8am - 7pm ET
+
+_[Contact Us](http://www.kelloggs.com/en_US/contact-us.html)_
