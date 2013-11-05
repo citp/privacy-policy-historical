@@ -1,10 +1,9 @@
-<!--The following is the downloaded HTML source of the tytyga.com privacy policy that was archived on 2012-11-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121106231317id_/http%3A//www.tytyga.com/terms_privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the tytyga.com privacy policy that was archived on 2013-11-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131105094017id_/http%3A//www.tytyga.com/terms_privacy.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<meta http-equiv="expires" content="fri, 07 dec 2012 14:30:00 GMT">
-<meta name="Description" content="Online nursery with low plant prices. Ty Ty Nursery ships, Palms, Nut Trees, Grape Vines, Berry Plants and More to your door. Call Toll Free Today 888-811-9132 to order bush, plant, and trees. Cold Tolerant Bamboo Plants, Palm Trees, and Fruit Plant for the northern gardeners at everyday low prices. Free descriptive plant video and expert advise at Ty Ty Mail Order Nursery.">
+<meta name="Description" content="Online nursery with low plant prices. Ty Ty Nursery ships, Palms, Nut Trees, Grape Vines, Berry Plants and More to your door. Call Toll Free Today 888-758-2252 to order bush, plant, and trees. Cold Tolerant Bamboo Plants, Palm Trees, and Fruit Plant for the northern gardeners at everyday low prices. Free descriptive plant video and expert advise at Ty Ty Mail Order Nursery.">
 <meta name="Keywords" content="ty ty nursery complaint, ty ty nursery complaints, tytynursery complaint, tytynursery complaints, ty ty nursery review, ty ty nursery reviews, tyty nursery review, tyty nursery reviews, about ty ty nursery, plant shipping, ship plants, online nursery, mail order plant, plants, tree, trees">
 <title>Terms: Privacy</title>
 <meta name="robots" content="index,follow">
@@ -13,9 +12,10 @@
 <link rel="canonical" href="http://www.tytyga.com/terms_privacy.asp">
 		
 
-<script type="text/javascript" async="" src="https://platform.stumbleupon.com/1/widgets.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" async="" src="https://www.googlecommerce.com/trustedstores/gtmp_compiled.js"></script><script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js?publisherid=113735430291068981246"></script><script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
 <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jqueryui/1.8.4/jquery-ui.min.js"></script>
 <link type="text/css" href="//ajax.googleapis.com/ajax/libs/jqueryui/1.8.4/themes/base/jquery-ui.css" rel="stylesheet">
+<link type="text/css" href="/a/c/default.css" rel="stylesheet">
 
 
 <script type="text/javascript">
@@ -31,7 +31,30 @@
     var PageText_843 = "Subtotal";
     var PageText_844 = "items in cart";
 </script>
+<script type="text/javascript" src="/a/j/volusion.js?currentBuild"></script>
+<script type="text/javascript">
+    (function ($) {
+        volusion.ready(function () {
+            if (volusion.cart.isObservingCount()) {
+                var ts = new Date().getTime();
 
+                $.getJSON('/ajaxcart.asp?cachebust=' + ts, function (data) {
+                    var quantityTotal = 0;
+                    $.each(data.Products, function (key, val) {
+                        if (val.IsProduct === 'Y') {
+                            quantityTotal += parseInt(val.Quantity);
+                        } else if (val.IsAccessory === 'Y') {
+                            quantityTotal += parseInt(val.Quantity);
+                        }
+                    });
+                    quantityTotal = quantityTotal || '0';
+                    volusion.cart.itemCount(quantityTotal);
+                });
+
+            }
+        });
+    } (jQuery));
+</script>
 
 
 <script type="text/javascript" src="/a/j/soft_add.js"></script>
@@ -44,43 +67,20 @@
 </script>
 
 <script type="text/javascript" src="/a/j/soft_add_mult.js"></script>
-<script type="text/javascript" src="/a/j/javascripts.js?6_5_196"></script>
+<script type="text/javascript" src="/a/j/javascripts.js?6_5_currentBuild"></script>
 
 <script type="text/javascript">
 	var Config_Search_Auto_Complete = false;
 </script>
 
-   <!-- BEGIN: Google Trusted Store -->
+
 <script type="text/javascript">
-    var gts = gts || [];
-
-    var prodCode = "";
-
-    gts.push(["id", "70541"]);
-
-    if (prodCode && prodCode.length != 0) {
-        gts.push(["google_base_offer_id", prodCode]);
-    }
-
-    gts.push(["google_base_subaccount_id", "6891320"]);
-    gts.push(["google_base_country", "US"]);
-    gts.push(["google_base_language", "EN"]);
-
-    (function () {
-        var scheme = (("https:" == document.location.protocol) ? "https://" : "http://");
-        var gts = document.createElement("script");
-        gts.type = "text/javascript";
-        gts.async = true;
-        gts.src = scheme + "www.googlecommerce.com/trustedstores/gtmp_compiled.js";
-        var s = document.getElementsByTagName("script")[0];
-        s.parentNode.insertBefore(gts, s);
-    })();
+  (function() {
+    var po = document.createElement("script"); po.type = "text/javascript"; po.async = true;
+    po.src = "https://apis.google.com/js/plusone.js?publisherid=113735430291068981246";
+    var s = document.getElementsByTagName("script")[0]; s.parentNode.insertBefore(po, s);
+  })();
 </script>
-<!-- END: Google Trusted Store --> 
-
-
-
-
 <!-- <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />  -->
 <meta id="v65-layout-mode" data-cart="storedot" data-checkout="storedot">
 <meta name="google-site-verification" content="F-65e7vnInvGHRzjZi0mjEasHZIw_Iutx3maorwOjh4">
@@ -94,8 +94,13 @@ ONLY PUT CSS/JAVSCRIPT INCLUDES IN YOUR HEAD TAG
 
 <link href="/v/vspfiles/templates/tytynursery/css/Imports.css" rel="stylesheet" type="text/css">
 <link href="https://plus.google.com/113735430291068981246" rel="publisher">
-<script type="text/javascript" src="/v/vspfiles/templates/tytynursery/js/v_custom.js"></script><script type="text/javascript" src="//web.archive.org/web/20130310025710/http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script><link rel="stylesheet" href="/v/vspfiles/templates/tytynursery/css/softaddtocart.css" type="text/css">
+<script type="text/javascript" src="/v/vspfiles/templates/tytynursery/js/v_custom.js"></script><script type="text/javascript" src="//web.archive.org/web/20120508151940/http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script><link rel="stylesheet" href="/v/vspfiles/templates/tytynursery/css/softaddtocart.css" type="text/css">
 <script type="text/javascript" src="/v/quickview/quickview2.js"></script>
+<script type="text/javascript" src="/v/YOD/yod.js"></script>
+<script type="text/javascript" src="/v/YOD/tytyvideo.js"></script>
+
+
+
 <style type="text/css">
 a.one:visited {color:#ffffff;}
 a.one:link {color:#ffffff;}  
@@ -103,18 +108,46 @@ a.one:hover {color:#ffffff;}
 a.one:active {color:#ffffff;}
 </style>
 
-<script type="text/javascript">
 
+<script type="text/javascript">
   var _gaq = _gaq || [];
   _gaq.push(['_setAccount', 'UA-2654269-1']);
   _gaq.push(['_trackPageview']);
-
   (function() {
     var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
     ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
   })();
+</script>
 
+<link href="http://t.p.mybuys.com/css/mbstyles.css" type="text/css" rel="stylesheet" id="mybuysstyles">
+<script type="text/javascript" src="http://t.p.mybuys.com/js/mybuys3.js"></script>
+<script type="text/javascript" src="http://t.p.mybuys.com/clients/TYTYGA/js/setup.js"></script>
+<script type="text/javascript" src="http://t.p.mybuys.com/clients/TYTYGA/js/volusion.js"></script>
+<script type="text/javascript"> 
+//HOME PAGE
+if (location.pathname == "/" || location.pathname.indexOf("/default.asp") != -1){
+mybuys.setPageType("HOME");
+}
+//PRODUCT DETAIL PAGES
+if (location.pathname.indexOf("/ProductDetails.asp") != -1 ||  location.pathname.indexOf("-p/") != -1 ||  location.pathname.indexOf("_p/") != -1) {
+mybuys.setPageType("PRODUCT_DETAILS");
+var startProductID=location.pathname.lastIndexOf("/");
+var endProductID=location.pathname.lastIndexOf(".");
+mybuys.set("productid",location.pathname.substring(startProductID+1,endProductID));
+}
+//CATEGORY AND SEARCH PAGES
+if (location.pathname.indexOf("/SearchResults.asp") != -1 || location.pathname.indexOf("-s/") != -1 || location.pathname.indexOf("_s/") != -1){
+mybuys.setPageType("CATEGORY");
+var startCategoryID=location.pathname.lastIndexOf("/");
+var endCategoryID=location.pathname.lastIndexOf(".");
+mybuys.set("categoryid",location.pathname.substring(startCategoryID+1,endCategoryID));
+}
+//SHOPPING CART PAGE
+if (location.pathname.indexOf("/ShoppingCart.asp") != -1){
+mybuys.setPageType("SHOPPING_CART");
+}
+mybuys.initPage();
 </script>
 
 </head>
@@ -127,85 +160,93 @@ Date: 2011
 ======================== END INFO ======================== -->
 
 <body id="body">
+<div class="hidden">
+	<script type="text/javascript">
+		<!--//--><![CDATA[//><!--
+			var images = new Array()
+			function preload() {
+				for (i = 0; i < preload.arguments.length; i++) {
+					images[i] = new Image()
+					images[i].src = preload.arguments[i]
+				}
+			}
+			preload(
+				"/v/vspfiles/templates/tytynursery/images/template/palm_tree_bg_hover.jpg",
+				"/v/vspfiles/templates/tytynursery/images/template/bamboo_bg_hover.jpg",
+				<!--"/v/vspfiles/templates/tytynursery/images/template/agave_bg_hover.jpg",-->
+				<!--  "/v/vspfiles/templates/tytynursery/images/template/vine_bg_hover.jpg", -->
+				"/v/vspfiles/templates/tytynursery/images/template/flowering_bg.jpg",
+				"/v/vspfiles/templates/tytynursery/images/template/fruit_trees_bg_hover.jpg",
+				"/v/vspfiles/templates/tytynursery/images/template/bulb_bg_hover.jpg",
+				"/v/vspfiles/templates/tytynursery/images/template/grapevine_hover.jpg",
+				"/v/vspfiles/templates/tytynursery/images/template/nut_trees_hover.jpg",				
+				"/v/vspfiles/templates/tytynursery/images/template/shade_tree_bg_hover.jpg",
+				"/v/vspfiles/templates/tytynursery/images/template/wildlife_bg_hover.jpg",
+                                "/v/vspfiles/templates/tytynursery/images/template/blueberry_bg_hover.jpg",
+                               "/v/vspfiles/templates/tytynursery/images/template/raspberry_bg_hover.jpg",
+                                "/v/vspfiles/templates/tytynursery/images/template/blackberry_bg_hover.jpg"
+			)
+		//--><!]]>
+	</script>
+</div>
 <div id="page_wrapper">
 
 
 <!-- ======================== HEADER ======================== -->
 <div id="headerWrap">
 <div id="header">
-	<div id="display_homepage_title"><a href="http://www.tytyga.com/default.asp" title="www.tytyga.com">www.tytyga.com</a></div>
+	<div id="display_homepage_title"><span itemscope="" itemtype="http://schema.org/GardenStore"><meta itemprop="name" content="www.TyTyGa.com"><a href="http://www.tytyga.com/default.asp" title="www.TyTyGa.com">www.TyTyGa.com</a></span></div>
     <table width="100%" border="0" cellspacing="0" cellpadding="0">
   <tbody><tr>
-    <td width="250px"><img src="/v/vspfiles/templates/tytynursery/images/template/spacer.gif" alt=""></td>
-    <td valign="bottom"><a href="/Palm-Trees-s/1821.htm" class="palmTree"><div class="headCat"><p>Palm<br>Trees</p></div></a></td>
-    <td valign="bottom"><a href="/Bamboo-Plants-s/1823.htm" class="bambooPlants"><div class="headCat"><p>Bamboo<br>Plants</p></div></a></td>
-    <td valign="bottom"><a href="/Shade-Trees-s/1822.htm" class="shadeTree"><div class="headCat"><p>Shade<br>Trees</p></div></a></td>
-    <td valign="bottom"><a href="/Nut-Trees-s/1826.htm" class="nutTrees"><div class="headCat"><p>Nut<br>Trees</p></div></a></td>
-    <td valign="bottom"><a href="/Grape-Vines-s/1824.htm" class="grapeVines"><div class="headCat"><p>Grape<br>Vines</p></div></a></td>
-    <td valign="bottom"><a href="/Fruit-Trees-s/1827.htm" class="fruitTrees"><div class="headCat"><p>Fruit<br>Trees</p></div></a></td>
-    <td valign="bottom"><a href="/Berry-Plants-s/1828.htm" class="blueberryPlants"><div class="headCat"><p>Berry<br>Plants</p></div></a></td>
-    <td valign="bottom"><a href="/Flowering-Trees-s/1829.htm" class="floweringTrees"><div class="headCat"><p>Flowering<br>Trees</p></div></a></td>
-    <td valign="bottom"><a href="/Wildlife-Trees-s/1902.htm" class="wildlifetreeFood"><div class="headCat"><p>Wildlife<br>Food Plants</p></div></a></td>
-  </tr>
+    <td width="190px"><img src="/v/vspfiles/templates/tytynursery/images/template/spacer.gif" alt=""></td>  
+<td valign="bottom"><a href="/Fruit-Trees-s/1827.htm" class="fruitTrees"><div class="headCat"><p>Buy Fruit<br>Trees</p></div></a></td> 
+<td valign="bottom"><a href="/Berry-Plants-s/1828.htm" class="berryPlants"><div class="headCat"><p>Berry Bushes</p></div></a></td>
+<td valign="bottom"><a href="/Nut-Trees-s/1826.htm" class="nutTrees"><div class="headCat"><p>Plant Nut<br>Trees</p></div></a></td> 
+<td valign="bottom"><a href="/Grape-Vines-s/1824.htm" class="grapeVines"><div class="headCat"><p>Grape Vine<br>Plants</p></div></a></td>
+<td valign="bottom"><a href="/Wildlife-Trees-s/1902.htm" class="wildlifetreeFood"><div class="headCat"><p>Wildlife<br>Plants</p></div></a></td>     
+<td valign="bottom"><a href="/Flowering-Trees-s/1829.htm" class="floweringTrees"><div class="headCat"><p>Flowering<br>Tree Sale</p></div></a></td> 
+<td valign="bottom"><a href="/Shade-Trees-s/1822.htm" class="shadeTree"><div class="headCat"><p>Shade<br>Trees</p></div></a></td>  
+<td valign="bottom"><a href="/Flowering-Bulbs-s/1830.htm" class="floweringBulbs"><div class="headCat"><p>Flower<br>Bulbs</p></div></a></td>
+<td valign="bottom"><a href="/Palm-Trees-s/1821.htm" class="palmTree"><div class="headCat"><p>Palm<br>Trees</p></div></a></td>
+<td valign="bottom"><a href="/Bamboo-Plants-s/1823.htm" class="bambooPlants"><div class="headCat"><p>Bamboo<br>Plant Sale</p></div></a></td>
+</tr>
 </tbody></table>
 
 </div>  
 </div>
 <div id="top_nav">
     <!-- ======================== UL LAYOUT ======================== -->
-    <table width="97%">
+    <table width="100%">
     <tbody>
-     <tr>
-      <td valign="top" nowrap="nowrap">
+<tr>
+<td width="875">
+      <div id="shopcart" class="first">
+        <div id="display_cart_summary"><div class="cartsummary_full">(0 items: $0.00)&nbsp;<a href="/ShoppingCart.asp"></a></div></div>
+      </div>
+<div>
+<div id="site_tools">
+        <a href="http://www.tytyga.com/shoppingcart.asp">View Cart</a>        
+        <a href="http://www.tytyga.com/orders.asp">Order Status</a>
+        <a href="http://www.tytyga.com/myaccount.asp">My Account</a>
+<a href="/Contact-Us-a/83.htm" class="end">Contact</a>
+	</div>
+</div>
+<div>
+<div id="phone_num">
+Call Toll Free 888-758-2252
+<!--<span class="ring"><a href="http://www.ringcentral.com" target="Callback_RingMe" onclick='var wind = window; var winop = wind.open; winop("http://service.ringcentral.com/ringme/?uc=0762D4F07DE64C34848FAD13402BAC4359721738791008,0,9132&s=no&v=2", "Callback_RingMe", "resizable=no,width=800,height=500"); return false;'><img border="0" src="/v/vspfiles/click_to_call.png"  height="32" width="125" alt="click-to-call from the web"/></a></span>-->
+</div>
+</div>
+</td>
+<td width="200" valign="top">
     <div id="display_search">
        	<form action="http://www.tytyga.com/SearchResults.asp" method="get" name="SearchBoxForm">
-            <input type="text" name="Search" id="search_input" value="Search Ty Ty Nursery Plant &amp; Tree Inventory" onfocus="if (this.value == 'Search Ty Ty Nursery Plant &amp; Tree Inventory') {this.value = '';}" onblur="if (this.value == '') {this.value = 'Search Ty Ty Nursery Plant &amp; Tree Inventory';}">
+            <input type="text" name="Search" id="search_input" value="Search Plant Inventory" onfocus="if (this.value == 'Search Plant Inventory') {this.value = '';}" onblur="if (this.value == '') {this.value = 'Search Plant Inventory';}">
 			<input type="submit" name="Submit" id="search_submit" value="">
         </form>
     </div>
-      </td>
-      <td valign="top" nowrap="nowrap"><span class="movedown" style="font-size: 11pt; font-weight: bold; color: white;"><center>Toll Free 888-758-2252! &nbsp;</center></span></td>
-<!-- <script type="text/javascript">
-  (function() {
-    var li = document.createElement('script'); li.type = 'text/javascript'; li.async = true;
-    li.src = ('https:' == document.location.protocol ? 'https:' : 'http:') + '//platform.stumbleupon.com/1/widgets.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(li, s);
-  })();
-</script>
- <span>
-<script>
-document.write('<a href="http://www.stumbleupon.com/submit?url=' + document.location + '" target="_blank"><img style="border: 0pt none;" src="/v/vspfiles/assets/images/stumble olympic blue.png" border="0" alt="" width="23" height="24" /></a>');
-</script>
-<a title="facebook_us" href="http://www.facebook.com/tyty.nursery" target="_blank"><img alt="facebook us" src="/v/vspfiles/assets/images/facebook olympic blue.png" align="" height="24" width="23" border="0px"></a>
-<a title="tweet_us" href="http://twitter.com/TyTyNursery1" target="_blank"><img alt="tweet us" src="/v/vspfiles/assets/images/twitter olympian ble.png" align="" height="24" width="23" border="0px"></a>
-<a title="google_plus" href="http://plus.google.com/113735430291068981246" rel="publisher" target="_blank"><img alt="plus us" src="/v/vspfiles/assets/images/googleplus olympian blue.png" align="" height="24" width="23" border="0px"></a>
-<a href="http://pinterest.com/tytynursery/" target="_blank"><img alt="pin us" src="/v/vspfiles/assets/images/pinterest olympian blue.png" align="" height="24" width="23" border="0px"></a>
-<a href="http://tytynursery.tumblr.com/" target="_blank"><img alt="tumblr us" src="/v/vspfiles/assets/images/tumblr olympian blue.png" align="" height="24" width="23" border="0px"></a>
-</span> -->
-
- <!-- <td> 
-<div>
-<iframe src="/v/zipzone/get_zone.asp" width=160 height=24 frameborder=0 scrolling=no>
-  <p>Your browser does not support iframes.</p>
-</iframe>
-</div>
-      </td>
--->
- <td nowrap="nowrap">
-<div>
-<div id="site_tools">
-        <a href="http://www.tytyga.com/shoppingcart.asp" class="end">View Cart</a>        
-        <a href="http://www.tytyga.com/orders.asp">Order Status</a>
-        <a href="http://www.tytyga.com/myaccount.asp">My Account</a>
-<a href="/Contact-Us-a/83.htm" class="first">Contact</a>
-	</div>
-</div>
-      </td>
-      <td nowrap="nowrap">
-      <div id="shopcart">
-        <div id="display_cart_summary"><div class="cartsummary_full">(0 items: $0.00)&nbsp;<a href="/ShoppingCart.asp"></a></div></div></div></td>
-      
-      
+<!--<div class="moveup"><a href="http://www.tytyga.com/Assorted-Plant-Liquidation-p/assorted-liquidation.htm">Plant Liquidation Listing</a></div> -->
+</td>
      </tr>
     </tbody>
     </table>
@@ -214,29 +255,13 @@ document.write('<a href="http://www.stumbleupon.com/submit?url=' + document.loca
 <!-- ======================== CONTENT ======================== -->
 <div id="content">
     
-      <table border="0" cellspacing="0" cellpadding="5" width="100%">
+      <table border="0" cellspacing="0" cellpadding="2" width="100%">
     <tbody><tr>
       <td rowspan="2" valign="top" id="left_nav">        
         <img src="/v/vspfiles/templates/tytynursery/images/template/left_spacer.gif" alt="">
-<iframe src="/v/zipzone/get_zone.asp" valign="top" align="right" width="178" height="24" frameborder="2" scrolling="no">
+<iframe src="/v/zipzone/get_zone.asp" valign="top" align="right" width="178" height="24" style="border:medium double rgb(4,6,47)" scrolling="no">
   <p>Your browser does not support iframes.</p>
-</iframe><span style="padding-left:20px"><script type="text/javascript">
-  (function() {
-    var li = document.createElement('script'); li.type = 'text/javascript'; li.async = true;
-    li.src = ('https:' == document.location.protocol ? 'https:' : 'http:') + '//platform.stumbleupon.com/1/widgets.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(li, s);
-  })();
-</script>
-<script>
-document.write('<a href="http://www.stumbleupon.com/submit?url=' + document.location + '" target="_blank"><img style="border: 0pt none;" src="/v/vspfiles/assets/images/stumble olympic blue.png" border="0" alt="" width="23" height="24" /></a>');
-</script><a href="http://www.stumbleupon.com/submit?url=https://web.archive.org/web/20121106231317id_/http%3A//www.tytyga.com/terms_privacy.asp" target="_blank"><img style="border: 0pt none;" src="/v/vspfiles/assets/images/stumble olympic blue.png" border="0" alt="" width="23" height="24"></a>
-<a title="facebook_us" href="http://www.facebook.com/tyty.nursery" target="_blank"><img alt="facebook us" src="/v/vspfiles/assets/images/facebook olympic blue.png" align="" height="24" width="23" border="0px"></a>
-<a title="tweet_us" href="http://twitter.com/TyTyNursery1" target="_blank"><img alt="tweet us" src="/v/vspfiles/assets/images/twitter olympian ble.png" align="" height="24" width="23" border="0px"></a>
-<a title="google_plus" href="http://plus.google.com/113735430291068981246" rel="publisher" target="_blank"><img alt="plus us" src="/v/vspfiles/assets/images/googleplus olympian blue.png" align="" height="24" width="23" border="0px"></a>
-<a href="http://pinterest.com/tytynursery/" target="_blank"><img alt="pin us" src="/v/vspfiles/assets/images/pinterest olympian blue.png" align="" height="24" width="23" border="0px"></a>
-<a href="http://tytynursery.tumblr.com/" target="_blank"><img alt="tumblr us" src="/v/vspfiles/assets/images/tumblr olympian blue.png" align="" height="24" width="23" border="0px"></a></span>
-
-    <!--  <center><span class="movedown" style="font-size: 11pt; font-weight: bold; color: white;">Toll Free 888-811-9132! &nbsp</center></span> -->
+</iframe>
 
         <div id="display_menu_1">
 <script type="text/javascript">var breadCrumb="||";</script>
@@ -250,43 +275,55 @@ function mClk1(src, popup)
 </script>
 <ul>
 <li class="nav" onmouseover="mOvr1(this);" onmouseout="mOut1(this);" onclick="mClk1(this);">
-	<a href="http://www.tytyga.com/Bamboo-Plants-s/1823.htm" title="Bamboo Plants">Bamboo Trees</a>
+	<a href="http://www.tytyga.com/Fruit-Trees-s/1827.htm" title="Fruit Trees">Buy Fruit Trees</a>
 </li>
 <li class="nav" onmouseover="mOvr1(this);" onmouseout="mOut1(this);" onclick="mClk1(this);">
 	<a href="http://www.tytyga.com/Berry-Plants-s/1828.htm" title="Berry Plants">Berry Bushes</a>
 </li>
 <li class="nav" onmouseover="mOvr1(this);" onmouseout="mOut1(this);" onclick="mClk1(this);">
-	<a href="http://www.tytyga.com/Flowering-Bulbs-s/1830.htm" title="Flowering Bulbs">Flower Bulbs</a>
+	<a href="http://www.tytyga.com/Nut-Trees-s/1826.htm" title="Nut Trees">Plant Nut Trees</a>
 </li>
 <li class="nav" onmouseover="mOvr1(this);" onmouseout="mOut1(this);" onclick="mClk1(this);">
-	<a href="http://www.tytyga.com/Flowering-Trees-s/1829.htm" title="Flowering Trees">Flowering Trees</a>
-</li>
-<li class="nav" onmouseover="mOvr1(this);" onmouseout="mOut1(this);" onclick="mClk1(this);">
-	<a href="http://www.tytyga.com/Fruit-Trees-s/1827.htm" title="Fruit Trees">Fruit Trees</a>
-</li>
-<li class="nav" onmouseover="mOvr1(this);" onmouseout="mOut1(this);" onclick="mClk1(this);">
-	<a href="http://www.tytyga.com/Shrubs-and-Vines-s/1939.htm" title="Shrubs and Vines">Landscape Shrubs and Vines</a>
-</li>
-<li class="nav" onmouseover="mOvr1(this);" onmouseout="mOut1(this);" onclick="mClk1(this);">
-	<a href="http://www.tytyga.com/Grape-Vines-s/1824.htm" title="Grape Vines">Grape Plants</a>
-</li>
-<li class="nav" onmouseover="mOvr1(this);" onmouseout="mOut1(this);" onclick="mClk1(this);">
-	<a href="http://www.tytyga.com/Nut-Trees-s/1826.htm" title="Nut Trees">Nut Trees</a>
-</li>
-<li class="nav" onmouseover="mOvr1(this);" onmouseout="mOut1(this);" onclick="mClk1(this);">
-	<a href="http://www.tytyga.com/Palm-Trees-s/1821.htm" title="Palm Trees">Palm Trees</a>
-</li>
-<li class="nav" onmouseover="mOvr1(this);" onmouseout="mOut1(this);" onclick="mClk1(this);">
-	<a href="http://www.tytyga.com/Shade-Trees-s/1822.htm" title="Shade Trees">Shade Trees</a>
+	<a href="http://www.tytyga.com/Grape-Vines-s/1824.htm" title="Grape Vines">Grape Vine Plants</a>
 </li>
 <li class="nav" onmouseover="mOvr1(this);" onmouseout="mOut1(this);" onclick="mClk1(this);">
 	<a href="http://www.tytyga.com/Wildlife-Trees-s/1902.htm" title="Wildlife Trees">Wildlife Plants</a>
 </li>
 <li class="nav" onmouseover="mOvr1(this);" onmouseout="mOut1(this);" onclick="mClk1(this);">
-	<a href="http://www.tytyga.com/Yucca-Agave-Aloe-s/2102.htm" title="Yucca Agave Aloe">Yucca, Agave &amp; Aloe Plants</a>
+	<a href="http://www.tytyga.com/Flowering-Trees-s/1829.htm" title="Flowering Trees">Flowering Tree Sale</a>
+</li>
+<li class="nav" onmouseover="mOvr1(this);" onmouseout="mOut1(this);" onclick="mClk1(this);">
+	<a href="http://www.tytyga.com/Shade-Trees-s/1822.htm" title="Shade Trees">Shade Trees</a>
+</li>
+<li class="nav" onmouseover="mOvr1(this);" onmouseout="mOut1(this);" onclick="mClk1(this);">
+	<a href="http://www.tytyga.com/Flowering-Bulbs-s/1830.htm" title="Flowering Bulbs">Flower Bulbs</a>
+</li>
+<li class="nav" onmouseover="mOvr1(this);" onmouseout="mOut1(this);" onclick="mClk1(this);">
+	<a href="http://www.tytyga.com/Palm-Trees-s/1821.htm" title="Palm Trees">Palm Trees</a>
+</li>
+<li class="nav" onmouseover="mOvr1(this);" onmouseout="mOut1(this);" onclick="mClk1(this);">
+	<a href="http://www.tytyga.com/Bamboo-Plants-s/1823.htm" title="Bamboo Plants">Bamboo Plant Sale</a>
+</li>
+<li class="nav" onmouseover="mOvr1(this);" onmouseout="mOut1(this);" onclick="mClk1(this);">
+	<a href="http://www.tytyga.com/Shrubs-and-Vines-s/1939.htm" title="Shrubs and Vines">Shrub and Hedges</a>
+</li>
+<li class="nav" onmouseover="mOvr1(this);" onmouseout="mOut1(this);" onclick="mClk1(this);">
+	<a href="http://www.tytyga.com/Yucca-Agave-Aloe-s/2102.htm" title="Yucca Agave Aloe">Agave Plant Yucca Sale</a>
+</li>
+<li class="nav" onmouseover="mOvr1(this);" onmouseout="mOut1(this);" onclick="mClk1(this);">
+	<a href="http://www.tytyga.com/Vines-Flowering-s/2199.htm" title="Vines Flowering">Flowering Vines</a>
+</li>
+<li class="nav" onmouseover="mOvr1(this);" onmouseout="mOut1(this);" onclick="mClk1(this);">
+	<a href="http://www.tytyga.com/Vines-Evergreen-s/2200.htm" title="Vines Evergreen">Evergreen Ivy Vines</a>
+</li>
+<li class="nav" onmouseover="mOvr1(this);" onmouseout="mOut1(this);" onclick="mClk1(this);">
+	<a href="http://www.tytyga.com/Ground-Cover-Plants-s/2106.htm" title="Ground Cover Plants">Ground Cover Plants</a>
 </li>
 <li class="nav" onmouseover="mOvr1(this);" onmouseout="mOut1(this);" onclick="mClk1(this);">
 	<a href="/product-p/gft.htm" title="Ty Ty Nursery Plant Gift Certificate">Buy Nursery Gift Certificate</a>
+</li>
+<li class="nav" onmouseover="mOvr1(this);" onmouseout="mOut1(this);" onclick="mClk1(this);">
+	<a href="/Nursery-Order-Form-a/445.htm" title="Nursery Order Form">Nursery Order Form</a>
 </li>
 </ul>
 </div>
@@ -304,22 +341,16 @@ function mClk2(src, popup)
 </script>
 <ul>
 <li class="nav" onmouseover="mOvr2(this);" onmouseout="mOut2(this);" onclick="mClk2(this);">
-	<a href="http://www.tytyga.com/Ty-Ty-Plant-Videos-s/2183.htm" title="Ty Ty Plant Videos">The Birth of Ty Ty Videos</a>
-</li>
-<li class="nav" onmouseover="mOvr2(this);" onmouseout="mOut2(this);" onclick="mClk2(this);">
 	<a href="http://www.tytyga.com/Fast-Growing-Trees-s/2171.htm" title="Fast Growing Trees">Fast Growing Trees</a>
 </li>
 <li class="nav" onmouseover="mOvr2(this);" onmouseout="mOut2(this);" onclick="mClk2(this);">
 	<a href="http://www.tytyga.com/Best-Tree-Use-s/2174.htm" title="Best Tree Use">Free Garden Planner</a>
 </li>
 <li class="nav" onmouseover="mOvr2(this);" onmouseout="mOut2(this);" onclick="mClk2(this);">
-	<a href="/Nursery-Order-Form-a/445.htm" title="Nursery Order Form">Nursery Order Form</a>
+	<a href="http://www.tytyga.com/Ty-Ty-Plant-Videos-s/2183.htm" title="Ty Ty Plant Videos">Ty Ty's First TV Take</a>
 </li>
 <li class="nav" onmouseover="mOvr2(this);" onmouseout="mOut2(this);" onclick="mClk2(this);">
 	<a href="/USDA-Zone-Map-a/317.htm" title="USDA Zone Map">USDA Zone Map</a>
-</li>
-<li class="nav" onmouseover="mOvr2(this);" onmouseout="mOut2(this);" onclick="mClk2(this);">
-	<a href="http://www.tytyga.com/Out-of-Season-s/2131.htm" title="Out of Season">Out of Season</a>
 </li>
 <li class="nav" onmouseover="mOvr2(this);" onmouseout="mOut2(this);" onclick="mClk2(this);">
 	<a href="/Planting-Videos-a/451.htm" title="Planting Videos">Planting Videos</a>
@@ -335,6 +366,9 @@ function mClk2(src, popup)
 </li>
 <li class="nav" onmouseover="mOvr2(this);" onmouseout="mOut2(this);" onclick="mClk2(this);">
 	<a href="/help.asp" title="Site Help / FAQ">Site Help / FAQ</a>
+</li>
+<li class="nav" onmouseover="mOvr2(this);" onmouseout="mOut2(this);" onclick="mClk2(this);">
+	<a href="http://www.tytyga.com/Out-of-Season-s/2131.htm" title="Out of Season">Out of Season</a>
 </li>
 <li class="nav" onmouseover="mOvr2(this);" onmouseout="mOut2(this);" onclick="mClk2(this);">
 	<a href="/returns.asp" title="Replacement Application">Replacement Application</a>
@@ -401,21 +435,21 @@ function mClk2(src, popup)
  
 </div>
 </center>  
-       <br><center><span width="100%"><span class="moveup"><a href="http://www.tytyga.com/Assorted-Plant-Liquidation-p/assorted-plant-liquidation.htm">CLEARANCE PLANTS</a></span><table></table></span></center>
-<div id="display_promotions_999"><br><img src="/v/vspfiles/templates/tytynursery/images/logos/cc_logo1.gif" border="0"><br><br><center><!-- (c) 2005, 2011. Authorize.Net is a registered trademark of CyberSource Corporation --> <div class="AuthorizeNetSeal" border="0" height="113" width="100"> <script type="text/javascript" language="javascript">var ANS_customer_id="4aae123d-5208-4e40-a4f9-05222f0e4c5e";</script> <script type="text/javascript" language="javascript" src="//verify.authorize.net/anetseal/seal.js"></script> <a href="http://www.authorize.net/" id="AuthorizeNetText" target="_blank">Online Payment Service</a> </div></center></div>
+       <br>
+<div id="display_promotions_999"><br><img src="/v/vspfiles/templates/tytynursery/images/logos/cc_logo1.gif" border="0"><br><br><a href="https://www.paypal.com/us/verified/pal=tytynursery1%40gmail%2ecom" target="_blank"><img src="/v/vspfiles/templates/tytynursery/images/paypal.png" border="0" alt="Official PayPal Seal"></a><br><br><a target="_blank" href="http://www.youtube.com/user/tytynursery1?feature=mhsn" onclick="window.open(http://www.youtube.com/user/tytynursery1?feature=mhsn)"><img src="/v/vspfiles/assets/images/youtube-channel-logo.png"></a></div>
         
       </td>
       
-     <!-- <td height="21px" style="text-align:bottom" >
-     <div class="bannerTop"><center><b>Toll Free</b> 888-811-9132</center></div>
+     <td valign="top" width="100%" align="center">
 
-<div class="bannerTop"><b><span class="movedown">Toll Free 888-811-9132! &nbsp</span></b>
-<span class="movedown2"><b>Fall Pre-Orders NOT Charged Until Fall</b></span>
+<a href="/Articles.asp?ID=457"> <img src="/v/vspfiles/fall-shipping.jpg" height="60" width="650"> </a>
+<span id="deal"><a href="/Deals-of-the-Day-s/2198.htm"><img src="/v/vspfiles/templates/tytynursery/images/daily-deals.png" alt="ty ty nursery daily deals" width="250px" height="60px"></a></span>
+ <!-- <img src="/v/vspfiles/freeshiptoday.jpg" height="60" width="600"> -->
+<!--          <span class="movedown2"><b><center>Order Now. Save 25% Before Fall Price Increase! Call Toll Free 888-758-2252</center></b></span>-->
 
-  
 
-</div>
-      </td> -->
+
+      </td> 
     </tr>
     <tr>
       <td id="content_area" valign="top">
@@ -446,24 +480,13 @@ function mClk2(src, popup)
 
 
 
-
-
-
-
-
-
-
-
-
-
-
 <!-- #################### FOOTER #################### -->
 <div id="footer">
 	<div id="footerTop">
 		<ul style="width:170px;">
         <li class="title">Company</li>
 		<li><a href="http://www.tytyga.com/aboutus.asp">About</a></li>
-        <li><a href="/Articles.asp?ID=83">Contact</a></li>
+        <li><a href="/Articles.asp?ID=83">Contact Us</a></li>
         <li><a href="http://www.tytyga.com/terms_privacy.asp">Privacy Policy</a></li>
         <li><a href="http://www.tytyga.com/terms.asp">Terms &amp; Conditions</a></li> 
         </ul>
@@ -478,6 +501,8 @@ function mClk2(src, popup)
         <li><a href="http://www.tytyga.com/cindex.asp">Category Index</a></li>
         <li><a href="http://www.tytyga.com/pindex.asp">Product Index</a></li>
         <li><a href="http://www.tytyga.com/help_answer.asp?ID=11">Shipping</a> &amp; <a href="http://www.tytyga.com/returns.asp">Returns</a></li>
+        <li><a href="/Articles.asp?ID=457">2013 Fall Shipping Info</a></li>
+
 
         </ul>
 		<ul style="width:183px;">
@@ -492,6 +517,7 @@ function mClk2(src, popup)
           </form>
         </div>
         </li>
+<li><a href="https://plus.google.com/113735430291068981246" rel="author&quot;">Google Plus</a></li>
 		</ul>
 	</div>
     
@@ -506,12 +532,8 @@ function mClk2(src, popup)
 
 
 
-<script type="text/javascript">function store_init(event){protect_images1();} AttachEvent(window, 'load', store_init);</script>
 
-<script language="JavaScript" type="text/javascript">
-	function_protect_images2_msg = 'Sorry, our images are copyrighted.'
-	protect_images1();
-</script>
+<script type="text/javascript">function store_init(event){} AttachEvent(window, 'load', store_init);</script>
 
 <script type="text/javascript">
 	if (!/\/shoppingcart\.asp/i.test(window.location.pathname)) {
@@ -522,4 +544,11 @@ function mClk2(src, popup)
 </script>
 
 
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.6.2/jquery.min.js"></script> 
+<script src="/v/YOD/yod.js"></script>
+<script type="text/javascript">optimizeYouTubeEmbeds()</script>
+<script src="/v/YOD/tytyvideo.js"></script>
+<script type="text/javascript">
+  mybuys.initPage();
+</script>
 </div></div><div class="spinner" style="display: none; width: 32px; height: 32px; position: absolute; top: 50%; left: 50%; background: url(&quot;/v/quickview/spinner.gif&quot;) center center no-repeat;"></div><div id="modal_wrap"><div id="quick_view_div"></div></div><div id="holder"></div></body></html>
