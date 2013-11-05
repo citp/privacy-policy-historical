@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the groupme.com privacy policy that was archived on 2013-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130508180846id_/https%3A//groupme.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the groupme.com privacy policy that was archived on 2013-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131105064104id_/https%3A//groupme.com/privacy) for the most accurate reproduction.*
 
 # GroupMe | Privacy Policy
 
 ### INTRODUCTION
 
-GroupMe Inc. ("GroupMe") is the provider of services called GroupMe and GroupMe Experiences (the "Service"), accessible at http://groupme.com and www.experiences.groupme.com. GroupMe seeks to respect your privacy. This policy describes the information we collect during your use of the Service, how we use it, and how it may be shared.
+GroupMe Inc. ("GroupMe") is the provider of services called GroupMe (the "Service"), accessible at http://groupme.com. GroupMe seeks to respect your privacy. This policy describes the information we collect during your use of the Service, how we use it, and how it may be shared.
 
 ### COLLECTED INFORMATION PROVIDED BY USER
 
-GroupMe requires several pieces of personal information in order to operate as designed. Name and active phone number are required to use any GroupMe Service. We may, however, request other information, which may be required for certain Services. If you choose to use either or both the GroupMe Services and the GroupMe Experiences and make a purchase, we will ask for additional information, such as your credit card number and billing address.
+GroupMe requires several pieces of personal information in order to operate as designed. Name and active phone number are required to use any GroupMe Service. We may, however, request other information, which may be required for certain Services. If you choose to use the GroupMe Services and make a purchase, we will ask for additional information, such as your credit card number and billing address.
 
 ### ADDITIONAL COLLECTED INFORMATION
 
@@ -23,8 +23,6 @@ Additionally, GroupMe collects information from its mobile phone users (who have
 Except as set forth in this policy, GroupMe uses provided and collected information only for internal purposes and does not disclose data to third parties. GroupMe may occasionally inform users of new releases and features via any communication methods you have provided to the Service.
 
 Third Parties: GroupMe occasionally hires other companies (vendors) to provide limited services on its behalf, such as handling the processing and delivery of mailings, hosting websites, processing transactions, or performing statistical analysis of our services. Those service providers will be permitted to obtain only the personal information they need to deliver the service. They are required to maintain the confidentiality of the information and are prohibited from using it for any other purpose than for delivering the service to GroupMe, in accordance with GroupMe's instructions and policies. However, our vendors may use aggregate data for fraud detection to help improve their services. This helps them to more accurately detect fraudulent transactions.
-
-GroupMe Experiences: GroupMe sources Experiences directly from merchants and from other third parties that have the direct relationship with the merchant. These merchants and third parties will be provided personal information for fulfillment purposes.
 
 Advertising: GroupMe may work with advertising partners to provide users with targeted and useful contextual advertisements. These partners may set cookies which enable them to recognize your computer and compile information about you or others who use your computer. Ad networks often use this information to better target advertisements that they think will be of use to you. GroupMe's Privacy Policy solely governs the use of information and cookies set by the Service and not by any third-party advertising partners.
 
