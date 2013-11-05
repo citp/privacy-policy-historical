@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the routenote.com privacy policy that was archived on 2013-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130526160041id_/http%3A//www.routenote.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the routenote.com privacy policy that was archived on 2013-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131105070927id_/http%3A//routenote.com/privacypolicy) for the most accurate reproduction.*
 
-# RouteNote.... Shhhh... We Can Keep A Secret
-
-### RouteNote Privacy Policy
+# RouteNote Privacy Policy | RouteNote: Digital Music Distribution - Sell Music Online
 
 This privacy policy applies to RouteNote ([http://www.routenote.com](http://www.routenote.com/ "http://www.routenote.com")), and details what information RouteNote collects, how it is used and how to opt out of non-compulsory aspects of information gathering. RouteNote will not disclose your personal information to third parties without your consent. RouteNote always uses secure methods when handling your sensitive information. 
 
