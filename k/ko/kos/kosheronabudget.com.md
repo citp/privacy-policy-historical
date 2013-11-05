@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kosheronabudget.com privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530124002id_/http%3A//kosheronabudget.com/about-me/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kosheronabudget.com privacy policy that was archived on 2013-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131105183615id_/http%3A//kosheronabudget.com/about-me/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
