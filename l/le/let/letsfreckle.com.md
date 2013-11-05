@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the letsfreckle.com privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601161723id_/http%3A//letsfreckle.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the letsfreckle.com privacy policy that was archived on 2013-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131105023838id_/http%3A//letsfreckle.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Freckle Time Tracking
 
-At Freckle, we collect and manage data according to the following Privacy Policy (last update January 22, 2013).
+At Freckle, we collect and manage data according to the following Privacy Policy (last update October 27, 2013).
 
 ### **TL;DR**
 
@@ -56,11 +56,11 @@ Freckle may contact you by email. For example, Freckle may send you promotional 
 
 We don’t share your personal information with third parties except as listed below. Only aggregated, statistical data is periodically transmitted to external services to help us improve the Freckle Website and Service.
 
-We currently use Campaign Monitor (mailing list management), Customer.io (mailing lists), and Kissmetrics (analytics). We listed below what data these third parties extract exactly. Feel free to check out their own Privacy Policies to find out more.
+We currently use Campaign Monitor (mailing list management), Customer.io (mailing lists) and Mixpanel (analytics). We listed below what data these third parties extract exactly. Feel free to check out their own Privacy Policies to find out more.
 
   * Campaign Monitor: your email
   * Customer.io: your name, email and aggregated account statistics
-  * Kissmetrics: registered users’ activity (not including data entered by you).
+  * Mixpanel: registered users’ activity (anonymized and not including any data entered by you).
 
 
 
@@ -94,6 +94,7 @@ Should you have any question or concern, please write to [support@letsfreckle.co
 
 ### Change Log
 
+  * _Version 1.1, October 27, 2013._ Updated section on data sharing as we’re now using Mixpanel.
   * _Version 1.0, January 23, 2013._ Initial release.
 
 
