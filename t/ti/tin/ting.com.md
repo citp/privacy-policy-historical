@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the ting.com privacy policy that was archived on 2013-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130514051500id_/http%3A//privacy.truste.com/privacy-policy/Ting-Inc./certified/fd3a9997-c077-4f62-bf40-1f242107dd58) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ting.com privacy policy that was archived on 2013-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131105194201id_/http%3A//privacy.truste.com/privacy-policy/Ting-Inc./certified/fd3a9997-c077-4f62-bf40-1f242107dd58) for the most accurate reproduction.*
 
 # Welcome to ting.com
 
-[](https://privacy.truste.com/privacy-seal/Ting-Inc./validation?validationId=9b975a90-4a9c-4612-9898-d56e0cc77dc2&referer=ting.com)
+[](https://privacy.truste.com/privacy-seal/Ting-Inc./validation?validationId=9b975a90-4a9c-4612-9898-d56e0cc77dc2&referer=)
 
 **Effective on November 23, 2011**
 
