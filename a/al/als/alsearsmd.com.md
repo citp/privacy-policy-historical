@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alsearsmd.com privacy policy that was archived on 2013-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130408085812id_/http%3A//www.alsearsmd.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alsearsmd.com privacy policy that was archived on 2013-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131105024747id_/http%3A//www.alsearsmd.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Health Newsletter
 
@@ -6,13 +6,13 @@
 
 ## Your E-mail Address
 
-When you subscribe to any of our e-mail newsletters, your address is added to our database. We’ll use your address to send your issues and to notify you of opportunities or products we think you might be interested in.
+When you subscribe to any of our e-mail newsletters, your address is added to our database. We’ll use your address to send your editorial/eNewsletter issues as well as to notify you of opportunities, special offers, or products we think you might be interested in.
 
 We will not sell, rent, or in any other way share your e-mail address with anyone.
 
-You can remove your address from our mailing list by following the instructions at the end of every e-mail we send.
+You can remove your address from our mailing list at any time by following the instructions at the end of every e-mail we send.
 
-IIf you receive unsolicited commercial e-mail (spam) that you believe came from us, please send us an e-mail using our [online contact form](http://www.alsearsmd.com/contact-us/#form "Online contact form").
+If you receive unsolicited commercial e-mail (spam) that you believe came from us, please send us an e-mail to [support@alsearsmd.com](mailto:support@alsearsmd.com).
 
 ## Personal Information
 
