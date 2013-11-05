@@ -1,9 +1,9 @@
-<!--The following is the downloaded HTML source of the texasobserver.org privacy policy that was archived on 2013-05-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130519061245id_/http%3A//www.texasobserver.org/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the texasobserver.org privacy policy that was archived on 2013-11-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131105220425id_/http%3A//www.texasobserver.org/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en-US" prefix="og: http://ogp.me/ns#" class="no-js"><!--<![endif]--><head>
+<meta name="globalsign-domain-verification" content="wTM0fs2H6Rm2nNRWJPoKh8dechDKftvMDE1fvq4blT">
 <meta http-equiv="X-UA-Compatible" content="IE=Edge">
-
 <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script>
 function getUrlVars() {
     var vars = {};
@@ -12,77 +12,116 @@ function getUrlVars() {
     });
     return vars;
 }
- function detectmob() { 
- if( navigator.userAgent.match(/Android/i)
- || navigator.userAgent.match(/webOS/i)
- || navigator.userAgent.match(/iPhone/i)
- || navigator.userAgent.match(/iPod/i)
- || navigator.userAgent.match(/BlackBerry/i)
- || navigator.userAgent.match(/Windows Phone/i)
- ){
-    return true;
-  }
- else {
-    return false;
-  }
+
+function getRefererUrlVars() {
+    var vars = {};
+    var parts = document.referrer.replace(/[?&]+([^=&]+)=([^&]*)/gi, function(m,key,value) {
+        vars[key] = value;
+    });
+    return vars;
 }
-if(detectmob() && getUrlVars()["mobile"]!=1){
-	window.location = document.URL+"?mobile=1";
-		}   
+
+//alert(getRefererUrlVars()['full']);
+
+
+
+
+	if( /Android|webOS|iPhone|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent)) {
+	
+		if(getUrlVars()['site']!=="full" && getUrlVars()['mobile']!=1 && getRefererUrlVars()['site']!="full"){
+	
+		 window.location = document.URL+"?mobile=1";
+		 
+		} else if(getUrlVars()['site']!=="full" && getUrlVars()['mobile']!=1){
+			//alert(getRefererUrlVars()['site']);
+		 window.location = document.URL+"?site=full";
+		
+		 
+		}
+		
+	
+	
+	}
+
+
+
+
+
+
+  
     </script>
 <meta charset="UTF-8">
 <title>Privacy Policy | The Texas Observer</title>
-
-<link rel="stylesheet" href="/wp-content/themes/texas-observer/style.css?v=051713">
-<!--  -->
+<link rel="stylesheet" href="http://www.texasobserver.org/wp-content/themes/texas-observer/style.css?v=101513">
+<link rel="stylesheet" type="text/css" href="http://cache.blogads.com/395082939/feed.css">
+<link rel="stylesheet" type="text/css" href="http://cache.blogads.com/395082940/feed.css">
+ 
 <link rel="shortcut icon" href="/wp-content/themes/texas-observer/favicon.ico">
-
-<!-- This site is optimized with the Yoast WordPress SEO plugin v1.4.7 - http://yoast.com/wordpress/seo/ -->
+<script type="text/javascript">
+window.onload = function(){
+	function setunlimitedtime(){
+				var date = new Date();
+				date.setTime(date.getTime() + (100000 * 24 * 60 * 60 * 1000));
+				c_value_a = $.cookie(smp_cookie_name_a);
+				c_value_b = $.cookie(smp_cookie_name_b);
+				$.cookie(smp_cookie_name_a, null, { path: '/', expires: date });
+				$.cookie(smp_cookie_name_b, null, { path: '/', expires: date });
+				
+			}
+} 
+</script>
+ 
 <link rel="original-source" href="">
 <link rel="canonical" href="http://www.texasobserver.org/privacy/">
 <meta property="og:locale" content="en_US">
 <meta property="og:type" content="article">
 <meta property="og:title" content="Privacy Policy - The Texas Observer">
+<meta property="og:description" content="This website (“www.TexasObserver.org“) is owned by The Texas Democracy Foundation dba The Texas Observer. It is our policy to protect your personal information and …">
 <meta property="og:url" content="http://www.texasobserver.org/privacy/">
 <meta property="og:site_name" content="The Texas Observer">
-<!-- / Yoast WordPress SEO plugin. -->
-
+<meta property="article:published_time" content="2012-09-17T14:22:11+00:00">
+<meta property="article:modified_time" content="2012-09-17T14:41:49+00:00">
+ 
 <link rel="alternate" type="application/rss+xml" title="The Texas Observer » Feed" href="http://www.texasobserver.org/feed/">
 <link rel="alternate" type="application/rss+xml" title="The Texas Observer » Comments Feed" href="http://www.texasobserver.org/comments/feed/">
 <link rel="alternate" type="application/rss+xml" title="The Texas Observer » Privacy Policy Comments Feed" href="http://www.texasobserver.org/privacy/feed/">
-<link rel="stylesheet" id="mediaelementjs-styles-css" href="/wp-content/plugins/media-element-html5-video-and-audio-player/mediaelement/mediaelementplayer.css?ver=3.5.1" type="text/css" media="all">
-<link rel="stylesheet" id="smp_style-css" href="/wp-content/plugins/wp-super-popup/colorbox.css?ver=1280875271" type="text/css" media="all">
-<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js?ver=3.5.1"></script>
-<script type="text/javascript" src="/wp-content/plugins/wp-super-popup/jquery.colorbox-min.js?ver=1465611089"></script>
-<script type="text/javascript" src="/wp-content/plugins/wp-super-popup/jquery.utils-min.js?ver=683156984"></script>
-<script type="text/javascript" src="/wp-content/plugins/media-element-html5-video-and-audio-player/mediaelement/mediaelement-and-player.min.js?ver=2.1.3"></script>
+<link rel="stylesheet" id="mediaelement-css" href="http://www.texasobserver.org/wp-includes/js/mediaelement/mediaelementplayer.min.css?ver=2.13.0" type="text/css" media="all">
+<link rel="stylesheet" id="wp-mediaelement-css" href="http://www.texasobserver.org/wp-includes/js/mediaelement/wp-mediaelement.css?ver=3.7.1" type="text/css" media="all">
+<link rel="stylesheet" id="mediaelementjs-styles-css" href="http://www.texasobserver.org/wp-content/plugins/media-element-html5-video-and-audio-player/mediaelement/mediaelementplayer.css?ver=3.7.1" type="text/css" media="all">
+<link rel="stylesheet" id="smp_style-css" href="http://www.texasobserver.org/wp-content/plugins/wp-super-popup/colorbox.css?ver=1761666203" type="text/css" media="all">
+<script type="text/javascript" src="http://www.texasobserver.org/wp-content/plugins/powerpress/player.js?ver=3.7.1"></script>
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js?ver=3.7.1"></script>
+<script type="text/javascript" src="http://www.texasobserver.org/wp-content/plugins/powerpress/powerpress-mejs.js?ver=3.7.1"></script>
+<script type="text/javascript" src="http://www.texasobserver.org/wp-content/plugins/wp-super-popup/jquery.colorbox-min.js?ver=1634886530"></script>
+<script type="text/javascript" src="http://www.texasobserver.org/wp-content/plugins/wp-super-popup/jquery.utils-min.js?ver=175143259"></script>
+<script type="text/javascript" src="http://www.texasobserver.org/wp-content/plugins/media-element-html5-video-and-audio-player/mediaelement/mediaelement-and-player.min.js?ver=2.1.3"></script>
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.texasobserver.org/xmlrpc.php?rsd">
-<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.texasobserver.org/wp-includes/wlwmanifest.xml"> 
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.texasobserver.org/wp-includes/wlwmanifest.xml">
+<link rel="shortlink" href="http://www.texasobserver.org/?p=171">
 <link rel="stylesheet" type="text/css" href="http://www.texasobserver.org/wp-content/plugins/list-category-posts-with-pagination/pagination.css">
-<script type="text/javascript" src="/wp-content/plugins/powerpress/player.js"></script>
 <script type="text/javascript"><!--
-function powerpress_pinw(pinw){window.open('http://www.texasobserver.org/?powerpress_pinw='+pinw, 'PowerPressPlayer','toolbar=0,status=0,resizable=1,width=90,height=100');	return false;}
-powerpress_url = '/wp-content/plugins/powerpress/';
+function powerpress_pinw(pinw){window.open('http://www.texasobserver.org/?powerpress_pinw='+pinw, 'PowerPressPlayer','toolbar=0,status=0,resizable=1,width=460,height=320');	return false;}
+powerpress_url = 'http://www.texasobserver.org/wp-content/plugins/powerpress/';
 //-->
 </script>
 <script type="text/javascript">
 	jQuery.noConflict();
 	jQuery(document).ready(function($) {
 		$(document).ready(function(){
-			var smp_cookie_name_a = 'smp_1368904586901_a';//1
-			var smp_cookie_name_b = 'smp_1368904586901_b';//2
-			var smp_cookie_num_visits = 1;
+			var smp_cookie_name_a = 'smp_1380727833686_a';//1
+			var smp_cookie_name_b = 'smp_1380727833686_b';//2
+			var smp_cookie_num_visits = 100;
 			var smp_show_mode = 1;
 			function smp_show_popup(){
 								setTimeout(function() 	{ $.fn.colorbox({
 											fixed: true,
-											width:"700px", 
-											height:"430px", 
+											width:"710px", 
+											height:"530px", 
 											iframe:true, 
-											opacity:0.5, 
+											opacity:.9, 
 											speed:700, 
 											overlayClose:true, 
-											href:'/wp-content/uploads/smp_popup.html'}) 
+											href:'https://www.texasobserver.org/wp-content/splash-page/?v=1'}) 
 										}, 
 							1000);
 			}
@@ -105,7 +144,7 @@ powerpress_url = '/wp-content/plugins/powerpress/';
 					c_value_a = $.cookie(smp_cookie_name_a);
 					c_value_b = $.cookie(smp_cookie_name_b);
 					if (smp_show_mode == 1){
-						date.setTime(date.getTime() + (7 * 24 * 60 * 60 * 1000));
+						date.setTime(date.getTime() + (3 * 24 * 60 * 60 * 1000));
 						c_value = c_value_a;
 						smp_cookie_name = smp_cookie_name_a;
 					} else if (smp_show_mode == 2){
@@ -132,14 +171,11 @@ powerpress_url = '/wp-content/plugins/powerpress/';
 		});
 	});
 </script>
-
-<!-- <script type='text/javascript' src='/wp-content/plugins/gravityforms/js/jquery.json-1.3.js?ver=1.6.9'></script> -->
-
-
-<!--  <script src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8.9/jquery-ui.min.js"></script> -->
-<!-- <script type="text/javascript" src="/wp-content/plugins/tn3-gallery/js/tn3.history.min.js"></script> -->
-<!-- <script type="text/javascript" src="/wp-content/plugins/tn3-gallery/js/jquery.tn3lite.min.js?ver=3.4.1"></script> -->
-<!--<script type="text/javascript" src="/wp-content/plugins/tn3-gallery/js/jquery-1.5.1.min"></script>-->
+ 
+ 
+ 
+ 
+ 
 <!--[if lt IE 9]>
 <script src="https://www.texasobserver.org/wp-content/themes/texas-observer/_js/html5.js"></script>
 <![endif]-->
@@ -154,23 +190,19 @@ powerpress_url = '/wp-content/plugins/powerpress/';
     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
   })();
 </script>
-
-
-   
 <script async="" type="text/javascript" src="//disqus.com/forums/texasobserver/count.js"></script></head>
 <body class="page page-id-171 page-template-default ">
-<!--div id="delete-later" style="position:fixed; right:0px; top:0px; color:red; border:1px solid red;">xx</div-->
 <div class="wrapper">
 <header>
-  <div class="top-sec">
-  	<nav>
-      <div class="top-nav"><ul id="menu-very-top-menu" class="menu"><li id="menu-item-117" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-117"><a href="http://www.texasobserver.org/about/">About</a></li>
+<div class="top-sec">
+<nav>
+<div class="top-nav"><ul id="menu-very-top-menu" class="menu"><li id="menu-item-117" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-117"><a href="http://www.texasobserver.org/about/">About</a></li>
 <li id="menu-item-115" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-115"><a href="http://www.texasobserver.org/advertise/">Advertise</a></li>
 <li id="menu-item-116" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-116"><a href="http://www.texasobserver.org/contact/">Contact</a></li>
-</ul></div>    </nav>     <div class="newsletter">
-	   <span class="devider">|</span> 
-        <form action="https://secure.texasobserver.org/civicrm/profile/create?gid=17&amp;reset=1" method="post" name="Edit" id="Edit">
-            <label> Sign up for our eNewsletter</label><input name="postURL" type="hidden" value="https://www.texasobserver.org/thank-you-email-list/">
+</ul></div> </nav> <div class="newsletter">
+<span class="devider">|</span>
+<form action="https://secure.texasobserver.org/civicrm/profile/create?gid=17&amp;reset=1" method="post" name="Edit" id="Edit">
+<label> Sign up for our eNewsletter</label><input name="postURL" type="hidden" value="https://www.texasobserver.org/thank-you-email-list/">
 <input name="cancelURL" type="hidden" value="https://secure.texasobserver.org/civicrm/profile?reset=1&amp;gid=17">
 <input name="add_to_group" type="hidden" value="82">
 <input name="_qf_default" type="hidden" value="Edit:cancel">
@@ -180,90 +212,68 @@ powerpress_url = '/wp-content/plugins/powerpress/';
 <input class="form-submit default submit-arrow" accesskey="S" name="_qf_Edit_next" value="" type="submit" id="_qf_Edit_next">
 </div>
 </form>
-
-
-
-
-     <!-- <form  action="https://secure.texasobserver.org/civicrm/profile/create?gid=17&amp;reset=1" method="post" name="Edit" id="Edit" >
-	  
-    		 <label> Sign up for our eNewsletter</label>          <input name="postURL" type="hidden" value="http://www.texasobserver.org/thank-you-email-list/" />
-          <input name="cancelURL" type="hidden" value="https://secure.texasobserver.org/civicrm/profile?reset=1&amp;gid=17" />
-          <input name="add_to_group" type="hidden" value="77" />
-          <input name="_qf_default" type="hidden" value="Edit:cancel" />
-           <div class="input-sec">
-                <input maxlength="64" size="30" name="email-Primary" type="text" id="email-Primary" class="form-text big required" onKeyPress="return disableEnterKey(event)" onclick="clearInput(this)" onblur="returnText(this)"  value="enter your email address here"   />
-                <input type="hidden" name="is_opt_out" value="" />
-                <input id="is_opt_out" name="is_opt_out" type="checkbox" value="0" class="form-checkbox" style="display:none" />
-            <input  class="submit-arrow" accesskey="S" name="_qf_Edit_next" value="" type="submit" id="_qf_Edit_next" />
-          </div>
-        <div class="clear"></div>
-      </form> -->
-    </div>
-    <div class="clear"></div>
-  </div>
-  <div class="clear"></div>   
-  
-    <div class="logo-sec"> 
-  <a class="logo" href="http://www.texasobserver.org"><img src="/wp-content/themes/texas-observer/_images/global/texas-observer-masthead.png" width="509" height="122" alt="The Texas Observer"></a>
-    <nav class="header-adv">
-      <ul>
-        <li><a href="http://www.texasobserver.org/donate/">DONATE</a></li>
-<!-- 
-        <li><a href="http://www.texasobserver.org/subscribe/">SUBSCRIBE</a></li>
-        <li><a href="http://www.texasobserver.org/renew/">RENEW</a></li>
- -->
-      </ul>
-      <div class="magazine-img">
-      <a href="http://www.texasobserver.org/issues/may-2013/">
-        <img width="100" height="129" src="/wp-content/uploads/2013/04/texasobservermay2013cover-100x129.jpg" class="attachment-100-width wp-post-image" alt="Texas Observer - May 2013 Cover">        </a></div>
-    </nav>
-    <div class="clear"></div>
-	  </div>
-  <nav class="navigation">
-    <ul id="MenuBar1">
-      <li class="first"><a href="http://www.texasobserver.org">HOME</a></li>
-      <li class="nav-blog"><a href="#" class="with-sub">BLOGS</a>
-   
-        <ul>
-                    <li><a class="" href="http://www.texasobserver.org/blog/back-of-the-book/"><span class="menu-blog-img"><img src="/wp-content/uploads/2013/05/backofthebooksized.jpg" alt="Back of the Book" width="120" height="120"></span><span class="menu-blog-name">Back of the Book</span><span class="menu-author">by Staff</span></a></li>
-                    <li><a class="" href="http://www.texasobserver.org/blog/big-beat/"><span class="menu-blog-img"><img src="/wp-content/uploads/2013/05/bigbeatsized.jpg" alt="Big Beat" width="120" height="120"></span><span class="menu-blog-name">Big Beat</span><span class="menu-author">by Cindy Casares</span></a></li>
-                    <li><a class="" href="http://www.texasobserver.org/blog/capitolletters/"><span class="menu-blog-img"><img src="/wp-content/themes/texas-observer/_images/global/placeholder120-120.png" alt="Capitol Letters" width="120" height="120"></span><span class="menu-blog-name">Capitol Letters</span><span class="menu-author">by Eileen Smith</span></a></li>
-                    <li><a class="" href="http://www.texasobserver.org/blog/datelinehouston/"><span class="menu-blog-img"><img src="/wp-content/uploads/2013/04/datelinehoustonicon.jpg" alt="Dateline Houston" width="120" height="120"></span><span class="menu-blog-name">Dateline Houston</span><span class="menu-author">by Emily DePrang</span></a></li>
-                    <li><a class="" href="http://www.texasobserver.org/blog/floor-pass/"><span class="menu-blog-img"><img src="/wp-content/uploads/2013/01/capitolmkiii.jpg" alt="Floor Pass" width="120" height="120"></span><span class="menu-blog-name">Floor Pass</span><span class="menu-author">by Staff</span></a></li>
-                    <li><a class="" href="http://www.texasobserver.org/blog/forrestforthetrees/"><span class="menu-blog-img"><img src="/wp-content/uploads/2013/04/forrest4treesicon.jpg" alt="Forrest for the Trees" width="120" height="120"></span><span class="menu-blog-name">Forrest for the Trees</span><span class="menu-author">by Forrest Wilder</span></a></li>
-                    <li><a class="" href="http://www.texasobserver.org/blog/lalinea/"><span class="menu-blog-img"><img src="/wp-content/uploads/2013/04/lalineaicon.jpg" alt="La Linea" width="120" height="120"></span><span class="menu-blog-name">La Linea</span><span class="menu-author">by Melissa del Bosque</span></a></li>
-                    <li><a class="" href="http://www.texasobserver.org/blog/snakeoil/"><span class="menu-blog-img"><img src="/wp-content/uploads/2013/04/snakeoilicon.jpg" alt="Snake Oil" width="120" height="120"></span><span class="menu-blog-name">Snake Oil</span><span class="menu-author">by Patrick Michels</span></a></li>
-                    <li><a class="" href="http://www.texasobserver.org/blog/contrarian/"><span class="menu-blog-img"><img src="/wp-content/uploads/2013/04/contrariandaveicon.jpg" alt="The Contrarian" width="120" height="120"></span><span class="menu-blog-name">The Contrarian</span><span class="menu-author">by Dave Mann</span></a></li>
-                  </ul>
-       
-      </li>
-      <li class="nav-author"><a href="#" class="with-sub">AUTHORS</a>
-        <ul><li><a class="" href="http://www.texasobserver.org/author/brad-tyer/"><span class="menu-blog-img"><img src="/wp-content/uploads/2013/02/Brad-120x120.jpg" alt="" width="120" height="120"></span><span class="menu-blog-name">Brad Tyer</span></a></li><li><a class="" href="http://www.texasobserver.org/author/dave-mann/"><span class="menu-blog-img"><img src="/wp-content/uploads/2012/10/5.jpeg" alt="" width="120" height="120"></span><span class="menu-blog-name">Dave Mann</span></a></li><li><a class="" href="http://www.texasobserver.org/author/emily-deprang/"><span class="menu-blog-img"><img src="/wp-content/uploads/2013/04/emilydeprangheadshot-120x120.jpg" alt="" width="120" height="120"></span><span class="menu-blog-name">Emily DePrang</span></a></li><li><a class="" href="http://www.texasobserver.org/author/forrest-wilder/"><span class="menu-blog-img"><img src="/wp-content/uploads/2012/10/forrestwilder-120x120.jpg" alt="" width="120" height="120"></span><span class="menu-blog-name">Forrest Wilder</span></a></li><li><a class="" href="http://www.texasobserver.org/author/melissa-del-bosque/"><span class="menu-blog-img"><img src="/wp-content/uploads/2012/10/8-1.jpeg" alt="" width="120" height="120"></span><span class="menu-blog-name">Melissa del Bosque</span></a></li><li><a class="" href="http://www.texasobserver.org/author/patrick-michels/"><span class="menu-blog-img"><img src="/wp-content/uploads/2012/10/patrickmichelsthumb-120x120.jpg" alt="" width="120" height="120"></span><span class="menu-blog-name">Patrick Michels</span></a></li></ul>      </li>
-      <li><a href="http://www.texasobserver.org/issues/may-2013/">Current Issue</a></li>
-       <li id="menu-item-251" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-251"><a href="http://www.texasobserver.org/multimedia/">Multimedia</a></li>
+ 
+</div>
+<div class="clear"></div>
+</div>
+<div class="clear"></div>
+<div class="logo-sec">
+<a class="logo" href="http://www.texasobserver.org"><img src="http://www.texasobserver.org/wp-content/themes/texas-observer/_images/global/texas-observer-masthead.png" width="509" height="122" alt="The Texas Observer"></a>
+<nav class="header-adv">
+<ul>
+<li><a href="http://www.texasobserver.org/donate/">DONATE</a></li>
+ 
+</ul>
+<div class="magazine-img">
+<a href="http://www.texasobserver.org/issues/october-2013/">
+<img width="100" height="130" src="http://www.texasobserver.org/wp-content/uploads/2013/10/oct2013issue-100x130.jpg" class="attachment-100-width wp-post-image" alt="Texas Observer Oct. 2013 issue"> </a></div>
+</nav>
+<div class="clear"></div>
+</div>
+<nav class="navigation">
+<ul id="MenuBar1">
+<li class="first"><a href="http://www.texasobserver.org">HOME</a></li>
+<li class="nav-blog"><a href="#" class="with-sub">BLOGS</a>
+<ul>
+<li><a class="" href="http://www.texasobserver.org/blog/back-of-the-book/"><span class="menu-blog-img"><img src="http://www.texasobserver.org/wp-content/uploads/2013/05/backofthebooksized.jpg" alt="Back of the Book" width="120" height="120"></span><span class="menu-blog-name">Back of the Book</span><span class="menu-author">by Staff</span></a></li>
+<li><a class="" href="http://www.texasobserver.org/blog/big-beat/"><span class="menu-blog-img"><img src="http://www.texasobserver.org/wp-content/uploads/2013/05/bigbeatsized.jpg" alt="Big Beat" width="120" height="120"></span><span class="menu-blog-name">Big Beat</span><span class="menu-author">by Cindy Casares</span></a></li>
+<li><a class="" href="http://www.texasobserver.org/blog/capitolletters/"><span class="menu-blog-img"><img src="http://www.texasobserver.org/wp-content/uploads/2013/06/placeholder120-120.png" alt="Capitol Letters" width="120" height="120"></span><span class="menu-blog-name">Capitol Letters</span><span class="menu-author">by Eileen Smith</span></a></li>
+<li><a class="" href="http://www.texasobserver.org/blog/datelinehouston/"><span class="menu-blog-img"><img src="http://www.texasobserver.org/wp-content/uploads/2013/04/datelinehoustonicon.jpg" alt="Dateline Houston" width="120" height="120"></span><span class="menu-blog-name">Dateline Houston</span><span class="menu-author">by Emily DePrang</span></a></li>
+<li><a class="" href="http://www.texasobserver.org/blog/floor-pass/"><span class="menu-blog-img"><img src="http://www.texasobserver.org/wp-content/uploads/2013/01/capitolmkiii.jpg" alt="Floor Pass" width="120" height="120"></span><span class="menu-blog-name">Floor Pass</span><span class="menu-author">by Staff</span></a></li>
+<li><a class="" href="http://www.texasobserver.org/blog/forrestforthetrees/"><span class="menu-blog-img"><img src="http://www.texasobserver.org/wp-content/uploads/2013/04/forrest4treesicon.jpg" alt="Forrest for the Trees" width="120" height="120"></span><span class="menu-blog-name">Forrest for the Trees</span><span class="menu-author">by Forrest Wilder</span></a></li>
+<li><a class="" href="http://www.texasobserver.org/blog/lalinea/"><span class="menu-blog-img"><img src="http://www.texasobserver.org/wp-content/uploads/2013/04/lalineaicon.jpg" alt="La Linea" width="120" height="120"></span><span class="menu-blog-name">La Linea</span><span class="menu-author">by Melissa del Bosque</span></a></li>
+<li><a class="" href="http://www.texasobserver.org/blog/snakeoil/"><span class="menu-blog-img"><img src="http://www.texasobserver.org/wp-content/uploads/2013/04/snakeoilicon.jpg" alt="Snake Oil" width="120" height="120"></span><span class="menu-blog-name">Snake Oil</span><span class="menu-author">by Patrick Michels</span></a></li>
+<li><a class="" href="http://www.texasobserver.org/blog/contrarian/"><span class="menu-blog-img"><img src="http://www.texasobserver.org/wp-content/uploads/2013/04/contrariandaveicon.jpg" alt="The Contrarian" width="120" height="120"></span><span class="menu-blog-name">The Contrarian</span><span class="menu-author">by Dave Mann</span></a></li>
+</ul>
+</li>
+<li class="nav-author"><a href="#" class="with-sub">AUTHORS</a>
+<ul><li><a class="" href="http://www.texasobserver.org/author/brad-tyer/"><span class="menu-blog-img"><img src="http://www.texasobserver.org/wp-content/uploads/2013/02/Brad-120x120.jpg" alt="" width="120" height="120"></span><span class="menu-blog-name">Brad Tyer</span></a></li><li><a class="" href="http://www.texasobserver.org/author/dave-mann/"><span class="menu-blog-img"><img src="http://www.texasobserver.org/wp-content/uploads/2012/10/5.jpeg" alt="" width="120" height="120"></span><span class="menu-blog-name">Dave Mann</span></a></li><li><a class="" href="http://www.texasobserver.org/author/emily-deprang/"><span class="menu-blog-img"><img src="http://www.texasobserver.org/wp-content/uploads/2013/04/emilydeprangheadshot-120x120.jpg" alt="" width="120" height="120"></span><span class="menu-blog-name">Emily DePrang</span></a></li><li><a class="" href="http://www.texasobserver.org/author/forrest-wilder/"><span class="menu-blog-img"><img src="http://www.texasobserver.org/wp-content/uploads/2012/10/forrestwilder-120x120.jpg" alt="" width="120" height="120"></span><span class="menu-blog-name">Forrest Wilder</span></a></li><li><a class="" href="http://www.texasobserver.org/author/melissa-del-bosque/"><span class="menu-blog-img"><img src="http://www.texasobserver.org/wp-content/uploads/2012/10/8-1.jpeg" alt="" width="120" height="120"></span><span class="menu-blog-name">Melissa del Bosque</span></a></li><li><a class="" href="http://www.texasobserver.org/author/patrick-michels/"><span class="menu-blog-img"><img src="http://www.texasobserver.org/wp-content/uploads/2012/10/patrickmichelsthumb-120x120.jpg" alt="" width="120" height="120"></span><span class="menu-blog-name">Patrick Michels</span></a></li></ul> </li>
+<li><a href="http://www.texasobserver.org/issues/october-2013/">Current Issue</a></li>
+<li id="menu-item-251" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-251"><a href="http://www.texasobserver.org/multimedia/">Multimedia</a></li>
 <li id="menu-item-218" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-218"><a href="http://www.texasobserver.org/observer-archives/">Archives</a></li>
-<li id="menu-item-25246" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-25246"><a href="http://www.texasobserver.org/subscribe/">Subscribe</a></li>
-<li id="menu-item-25247" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-25247"><a href="http://www.texasobserver.org/renew/">Renew</a></li>
-    </ul>
-  </nav>
-  <div class="search">
-    <div id="search" class="global-header-search"></div>
-
-   </div>
-  <div class="clear"></div>
-  <nav>
-    <div class="sec-navsection" style="position:relative;">
-      <nav class="sec-nav">
-      
-      <style type="text/css">
-#spec-sec {position:absolute; top:0px; right:0px; background:#000; color:#fff; height:55px;}
-#spec-sec a {color:#fff;}
-</style>
+<li id="menu-item-25246" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-25246"><a href="https://www.texasobserver.org/subscribe/">Subscribe</a></li>
+<li id="menu-item-25247" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-25247"><a href="https://www.texasobserver.org/renew/">Renew</a></li>
+<li id="menu-item-31802" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-31802"><a href="/events/">Events</a></li>
+<li id="menu-item-33515" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33515"><a href="https://www.texasobserver.org/store">Store</a></li>
+</ul>
+</nav>
+<div class="search">
+<div id="search" class="global-header-search"></div>
+</div>
+<div class="clear"></div>
+<nav>
+<div class="sec-navsection" style="position:relative;">
+<nav class="sec-nav">
+<style type="text/css">#spec-sec{position:absolute;top:0px;right:0px;background:#000;color:#fff;height:55px;}#spec-sec a{color:#fff;}</style>
 <div id="spec-sec">
- <div class="menu-special-menu-container"><ul id="menu-special-menu" class="menu"><li id="menu-item-26876" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-26876"><a href="http://www.texasobserver.org/texas-legislature/">Texas Legislature</a></li>
+<div class="menu-special-menu-container"><ul id="menu-special-menu" class="menu"><li id="menu-item-33783" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-33783"><a href="#">Special Reports</a>
+<ul class="sub-menu">
+<li id="menu-item-33785" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-33785"><a href="http://www.texasobserver.org/womens-health-in-texas/">Women’s Health In Texas</a></li>
+<li id="menu-item-33789" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-33789"><a href="http://www.texasobserver.org/wrongful-convictions/">Wrongful Convictions</a></li>
+</ul>
+</li>
 </ul></div></div>
-      
-          <div class="sec-navsection2"><ul id="menu-topics" class="menu"><li id="menu-item-107" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-107"><a href="http://www.texasobserver.org/topics/politics/">Politics</a></li>
+<div class="sec-navsection2"><ul id="menu-topics" class="menu"><li id="menu-item-107" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-107"><a href="http://www.texasobserver.org/topics/politics/">Politics</a></li>
 <li id="menu-item-105" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-105"><a href="http://www.texasobserver.org/topics/environment/">Environment</a></li>
 <li id="menu-item-108" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-108"><a href="http://www.texasobserver.org/topics/culture/">Culture</a></li>
 <li id="menu-item-102" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-102"><a href="http://www.texasobserver.org/topics/border/">Border</a></li>
@@ -271,43 +281,52 @@ powerpress_url = '/wp-content/plugins/powerpress/';
 <li id="menu-item-104" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-104"><a href="http://www.texasobserver.org/topics/education/">Education</a></li>
 <li id="menu-item-106" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-106"><a href="http://www.texasobserver.org/topics/healthcare/">Healthcare</a></li>
 <li id="menu-item-24903" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-24903"><a href="http://www.texasobserver.org/topics/economics/">Economics</a></li>
-</ul></div>       
-        <div class="clear"></div>
-      </nav>
-      <!--nav>
-     
-               
-      </nav-->
-      <div class="clear"></div>
-    </div>
-  </nav>
-             
-	    
-    
+</ul></div>
+<div class="clear"></div>
+</nav>
+ 
+<div class="clear"></div>
+</div>
+</nav>
 </header>
-
-<div class="main-sec">   
+<div class="main-sec">
 <article id="post-171" class="left-sec pagepost">
- <h1 class="title">Privacy Policy</h1> 
-	<div class="article-con">
-    <p>This website (“<a href="http://www.texasobserver.org">www.TexasObserver.org</a>“) is owned by The Texas Democracy Foundation dba <em>The Texas Observer</em>. It is our policy to protect your personal information and to use it in accordance with this PrivacyPolicy. Please take a few moments to review our Privacy Policy.</p>
+<h1 class="title">Privacy Policy</h1>
+<div class="article-con">
+<p>This website (“<a href="http://www.texasobserver.org">www.TexasObserver.org</a>“) is owned by The Texas Democracy Foundation dba <em>The Texas Observer</em>. It is our policy to protect your personal information and to use it in accordance with this PrivacyPolicy. Please take a few moments to review our Privacy Policy.</p>
 <h2>Information Collection and Use</h2>
 <p>The Texas Observer asks you to provide certain personally identifiable information in order to usecertain “password required” features and functions of the website. By providing such information, youconsent to our collection and use of it, as described in this Privacy Policy.</p>
 <p>The information you provide may include information provided during the registration process: such as yourname, address and email address, and financial information, such as a credit card number, if you donate,join, or order subscriptions or merchandise through the website. This information will be used to processyour order and, if necessary, to contact you regarding the status of your order.</p>
 <p>Information that you provide is the property of The Texas Observer. All of the information that you providemay be used by The Texas Observer to better serve you. The Texas Observer may also use this informationto contact you about news, donation solicitations, events, and other opportunities. Ways we use information include:</p>
 <p>The Texas Observer may use your contact information to get in touch with you regarding the status of your registration or any contributions or orders you may place. You may also be contacted by us regarding contribution receipts, additional solicitations or subscription specials, or requesting your feedback about yourexperience with <a href="http://www.texasobserver.org">TexasObserver.org</a>.</p>
-<p>The personally identifiable information that you provide to us and information about your order may becombined with other personally identifiable information (such as demographic information and past purchasehistory) available from our records and other sources. This information will be used to make our futuremarketing efforts more efficient. This information may also be shared with our third party service providersthat assist us with our marketing efforts and with other marketers whose products or services we feel maybe of interest to you. If you prefer that we do not share your name and address with other marketers, please email us at <a href="http://mailto:business@texasobserver.org">business@texasobserver.org.</a></p>
+<p>The personally identifiable information that you provide to us and information about your order may becombined with other personally identifiable information (such as demographic information and past purchasehistory) available from our records and other sources. This information will be used to make our futuremarketing efforts more efficient. This information may also be shared with our third party service providersthat assist us with our marketing efforts and with other marketers whose products or services we feel maybe of interest to you. If you prefer that we do not share your name and address with other marketers, please email us at <a href="http://mailto:business@texasobserver.org">business@texasobserver.org.<script type="text/javascript">
+/* <![CDATA[ */
+(function(){try{var s,a,i,j,r,c,l,b=document.getElementsByTagName("script");l=b[b.length-1].previousSibling;a=l.getAttribute('data-cfemail');if(a){s='';r=parseInt(a.substr(0,2),16);for(j=2;a.length-j;j+=2){c=parseInt(a.substr(j,2),16)^r;s+=String.fromCharCode(c);}s=document.createTextNode(s);l.parentNode.replaceChild(s,l);}}catch(e){}})();
+/* ]]> */
+</script></a></p>
 <p><a href="http://www.texasobserver.org">TexasObserver.org</a> may provide you with comment sections, personal blogs, or message boards for youruse. In the event you voluntarily disclose personally identifiable information using such services, thatinformation, along with any content in your communication or post, can be collected, correlated and usedby third parties. This may result in unsolicited messages from third parties. Such activities are beyond thecontrol of The Texas Observer. The Texas Observer does not assume any duty to monitor or review thecontents of any comments or personal blogs.</p>
 <p>Where technically feasible, the domain names of visitors to <a href="http://www.texasobserver.org">TexasObserver.org</a> are automatically recognizedby our server. The Texas Observer may use this information to track the number of visitors to the <a href="http://www.texasobserver.org">TexasObserver.org</a> website and to see which pages and services on <a href="http://www.texasobserver.org">TexasObserver.org</a> are visited most often.</p>
 <p><em>The Texas Observer</em> may provide links on <a href="http://www.texasobserver.org">TexasObserver.org</a> to other sites of interest. The Texas Observer does not review or endorse the content of these sites or guarantee that they will abide by this Privacy Policy. Your use of such linked sites is subject to the terms, conditions and privacy policies of the providers of thosesites. We encourage our users to be aware when they leave our website and to read the privacy statementsof each website that collects identifying information.</p>
 <p>Please note that your use of the <a href="http://www.texasobserver.org">TexasObserver.org</a> website and services is subject to <a href="http://www.texasobserver.org">TexasObserver.org’s</a>Terms and Conditions.</p>
 <h2>Sharing Your Information</h2>
 <h3>BY WEBSITE OR PRINT</h3>
-<p>The Texas Democracy Foundation may publicly acknowledge donors by name and/or description ofdonation, unless the donor requests in writing that the donor does not wish to be publicly acknowledged.Donations may be acknowledged in the print magazine or on <a href="http://www.texasobserver.org">TexasObserver.org</a>. If a donor choosesto opt out of any acknowledgement listings in printed material or on <a href="http://www.texasobserver.org">TexasObserver.org</a>, please email <a href="mailto:business@texasobserver.org">business@texasobserver.org</a>, mark your public acknowledgement preferences on the on the donation returnpaperwork, call 800-939-6620 to request that your donation remain anonymous.</p>
+<p>The Texas Democracy Foundation may publicly acknowledge donors by name and/or description ofdonation, unless the donor requests in writing that the donor does not wish to be publicly acknowledged.Donations may be acknowledged in the print magazine or on <a href="http://www.texasobserver.org">TexasObserver.org</a>. If a donor choosesto opt out of any acknowledgement listings in printed material or on <a href="http://www.texasobserver.org">TexasObserver.org</a>, please email <a href="mailto:business@texasobserver.org">business@texasobserver.org<script type="text/javascript">
+/* <![CDATA[ */
+(function(){try{var s,a,i,j,r,c,l,b=document.getElementsByTagName("script");l=b[b.length-1].previousSibling;a=l.getAttribute('data-cfemail');if(a){s='';r=parseInt(a.substr(0,2),16);for(j=2;a.length-j;j+=2){c=parseInt(a.substr(j,2),16)^r;s+=String.fromCharCode(c);}s=document.createTextNode(s);l.parentNode.replaceChild(s,l);}}catch(e){}})();
+/* ]]> */
+</script></a>, mark your public acknowledgement preferences on the on the donation returnpaperwork, call 800-939-6620 to request that your donation remain anonymous.</p>
 <h3>BY E-MAIL</h3>
-<p>Your privacy is important to us! Your email address will only be used by The Texas Observer. Youremail address will not be shared with any third parties although we reserve the right to present you withadvertisements on their behalf. <a href="http://www.texasobserver.org">TexasObserver.org</a> collects emails so that we can send news alerts,donation solicitations, and event invitations and other opportunities that Texas Observer readers may findinteresting. You may unsubscribe to The Texas Observer email list at the bottom of Texas Observer emailsor email <a href="mailto:business@texasobserver.org">business@texasobserver.org</a> to request to unsubscribe.</p>
+<p>Your privacy is important to us! Your email address will only be used by The Texas Observer. Youremail address will not be shared with any third parties although we reserve the right to present you withadvertisements on their behalf. <a href="http://www.texasobserver.org">TexasObserver.org</a> collects emails so that we can send news alerts,donation solicitations, and event invitations and other opportunities that Texas Observer readers may findinteresting. You may unsubscribe to The Texas Observer email list at the bottom of Texas Observer emailsor email <a href="mailto:business@texasobserver.org">business@texasobserver.org<script type="text/javascript">
+/* <![CDATA[ */
+(function(){try{var s,a,i,j,r,c,l,b=document.getElementsByTagName("script");l=b[b.length-1].previousSibling;a=l.getAttribute('data-cfemail');if(a){s='';r=parseInt(a.substr(0,2),16);for(j=2;a.length-j;j+=2){c=parseInt(a.substr(j,2),16)^r;s+=String.fromCharCode(c);}s=document.createTextNode(s);l.parentNode.replaceChild(s,l);}}catch(e){}})();
+/* ]]> */
+</script></a> to request to unsubscribe.</p>
 <h3>BY MAIL</h3>
-<p>The Texas Observer recognizes that readers may be interested in publications or organizations other thanthe The Texas Observer. Therefore, from time to time, The Texas Observer may make postal addressesavailable to other reputable organizations whose products or services we think you might find interesting.Please remember that, although The Texas Observer endeavors to select only reputable organizations whoshare our commitment to customer privacy, we are in no way responsible for the actions or policies of theseother organizations. If you do not want to share your postal address with such other companies, call us at 1-800-939-6620 to speak to a customer service representative, email us at <a href="http://mailto:business@texasobserver.org">business@texasobserver.org</a> or send a post card to:</p>
+<p>The Texas Observer recognizes that readers may be interested in publications or organizations other thanthe The Texas Observer. Therefore, from time to time, The Texas Observer may make postal addressesavailable to other reputable organizations whose products or services we think you might find interesting.Please remember that, although The Texas Observer endeavors to select only reputable organizations whoshare our commitment to customer privacy, we are in no way responsible for the actions or policies of theseother organizations. If you do not want to share your postal address with such other companies, call us at 1-800-939-6620 to speak to a customer service representative, email us at <a href="http://mailto:business@texasobserver.org">business@texasobserver.org<script type="text/javascript">
+/* <![CDATA[ */
+(function(){try{var s,a,i,j,r,c,l,b=document.getElementsByTagName("script");l=b[b.length-1].previousSibling;a=l.getAttribute('data-cfemail');if(a){s='';r=parseInt(a.substr(0,2),16);for(j=2;a.length-j;j+=2){c=parseInt(a.substr(j,2),16)^r;s+=String.fromCharCode(c);}s=document.createTextNode(s);l.parentNode.replaceChild(s,l);}}catch(e){}})();
+/* ]]> */
+</script></a> or send a post card to:</p>
 <p>The Texas Observer<br>
 Attn: Do Not Trade<br>
 307 W. 7th St.<br>
@@ -335,7 +354,11 @@ Be sure to include your own mailing address on your post card or email.</p>
 <p>You can always choose not to provide information, to opt out of receiving communications from us or toupdate your information at any time. <a href="http://www.texasobserver.org">TexasObserver.org</a> gives users the following options:</p>
 <ol>
 <li>Click on the “Unsubscribe” link included at the bottom of each of our e-mails and follow theinstructions on the web page.</li>
-<li>Send an e-mail to our friendly Customer Service representatives at <a href="mailto:business@texasobserver.org">business@TexasObserver.org</a> with your name and address.</li>
+<li>Send an e-mail to our friendly Customer Service representatives at <a href="mailto:business@texasobserver.org">business@TexasObserver.org<script type="text/javascript">
+/* <![CDATA[ */
+(function(){try{var s,a,i,j,r,c,l,b=document.getElementsByTagName("script");l=b[b.length-1].previousSibling;a=l.getAttribute('data-cfemail');if(a){s='';r=parseInt(a.substr(0,2),16);for(j=2;a.length-j;j+=2){c=parseInt(a.substr(j,2),16)^r;s+=String.fromCharCode(c);}s=document.createTextNode(s);l.parentNode.replaceChild(s,l);}}catch(e){}})();
+/* ]]> */
+</script></a> with your name and address.</li>
 <li>Call our Customer Service representatives toll free at 1-800-939-66204. Send a post card or letter with your request, name, and address to: The Texas Observer 307 W. 7thSt., Austin, TX 78701</li>
 </ol>
 <h2>Security Measures</h2>
@@ -352,51 +375,39 @@ Be sure to include your own mailing address on your post card or email.</p>
 <p><span><span class="locality">Austin</span>, <span class="region">Texas</span></span> <span class="postal-code">78701</span></p>
 </div>
 <div class="tel">1.800.939.6620</div>
-<address class="vcard">Email: <a class="email" href="mailto:business@texasobserver.org">business@texasobserver.org</a><p></p>
+<address class="vcard">Email: <a class="email" href="mailto:business@texasobserver.org">business@texasobserver.org<script type="text/javascript">
+/* <![CDATA[ */
+(function(){try{var s,a,i,j,r,c,l,b=document.getElementsByTagName("script");l=b[b.length-1].previousSibling;a=l.getAttribute('data-cfemail');if(a){s='';r=parseInt(a.substr(0,2),16);for(j=2;a.length-j;j+=2){c=parseInt(a.substr(j,2),16)^r;s+=String.fromCharCode(c);}s=document.createTextNode(s);l.parentNode.replaceChild(s,l);}}catch(e){}})();
+/* ]]> */
+</script></a><p></p>
 </address>
-    </div>
-</article>
- <div class="right-sec">
- 	    <aside class="article-sec" id="towhatshappening-4">
- <div class="wht-happsec">
-  
-              <ul class="blue-list">
-           
-                          
-    
-     <li><h2 class="title">What's Happening</h2>
-	<ul class="xoxo blogroll">
-<li><a href="https://secure.texasobserver.org/civicrm/contribute/transact?reset=1&amp;id=12">Enter The Texas Observer's 2013 Short Story Contest</a></li>
-<li><a href="http://traviscms.blogspot.com/2013/04/tma-anson-jones-award-honorable-mention.html?utm_source=feedburner&amp;utm_medium=email&amp;utm_campaign=Feed%3A+TravisCountyMedicalSociety+%28Travis+County+Medical+Society+%29">Carolyn Jones received an honorable mention for the Anson Jones Award.</a></li>
-<li><a href="http://www.texasobserver.org/observer-story-wins-spj-award/">Staff Writer Emily DePrang Wins an SPJ Award for "Life On the List."</a></li>
-<li><a href="http://www.livawards.org/winners/finalists.php">Staff Writer Patrick Michels is a finalist for a 2013 Livingston Award.</a></li>
-
-	</ul>
-</li>
- 
-                  
-              </ul>
-<!--     <div class="viewmore-bookmark"> <a href="">VIEW MORE</a> </div>-->
-            </div>
-    
-    </aside>    <aside class="article-sec" id="text-13">			<div class="textwidget"><a href="http://www.thirdcoastcoffee.com/" target="_blank"><img src="http://www.texasobserver.org/wp-content/uploads/2013/05/Third-Coast-web-ad.gif"></a></div>
-		</aside><aside class="article-sec" id="text-6">			<div class="textwidget"><a href="https://www.texasobserver.org/gift-subscriptions/"><img src="http://www.texasobserver.org/wp-content/uploads/2012/12/gistsub245.jpg"></a></div>
-		</aside>       
 </div>
-      <div class="clear"></div>
-    </div>   
- <footer class="footer">
-    <ul>
-      <li class="foo-1">
-        <h2>AUTHORS</h2>
-        <ul>
-          <li><a href="http://www.texasobserver.org/author/brad-tyer/">Brad Tyer</a></li><li><a href="http://www.texasobserver.org/author/dave-mann/">Dave Mann</a></li><li><a href="http://www.texasobserver.org/author/emily-deprang/">Emily DePrang</a></li><li><a href="http://www.texasobserver.org/author/forrest-wilder/">Forrest Wilder</a></li><li><a href="http://www.texasobserver.org/author/melissa-del-bosque/">Melissa del Bosque</a></li><li><a href="http://www.texasobserver.org/author/patrick-michels/">Patrick Michels</a></li>
-          
-        </ul>
-      </li>
-      <li class="foo-2">
-        <h2>TOPICS</h2>
-           <div class="foo-2"><ul id="menu-topics-1" class="menu"><li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-107"><a href="http://www.texasobserver.org/topics/politics/">Politics</a></li>
+</article>
+<div class="right-sec">
+<aside class="article-sec" id="towhatshappening-4">
+<div class="wht-happsec">
+<ul class="blue-list">
+</ul>
+ 
+</div>
+</aside> <aside class="article-sec" id="text-40"> <div class="textwidget"><a href="http://www.wheatsville.coop" target="_blank"><img src="https://www.texasobserver.org/wp-content/uploads/2013/10/wheatsville1.gif" target="_blank"></a></div>
+</aside><aside class="article-sec" id="text-33"> <div class="textwidget"><script language="javascript" src="http://cache.blogads.com/395082940/feed.js"></script></div>
+</aside><aside class="article-sec" id="text-34"> <div class="textwidget"><script language="javascript" src="http://cache.blogads.com/395082939/feed.js"></script></div>
+</aside>
+</div>
+<div class="clear"></div>
+</div>
+<footer class="footer">
+<ul>
+<li class="foo-1">
+<h2>AUTHORS</h2>
+<ul>
+<li><a href="http://www.texasobserver.org/author/brad-tyer/">Brad Tyer</a></li><li><a href="http://www.texasobserver.org/author/dave-mann/">Dave Mann</a></li><li><a href="http://www.texasobserver.org/author/emily-deprang/">Emily DePrang</a></li><li><a href="http://www.texasobserver.org/author/forrest-wilder/">Forrest Wilder</a></li><li><a href="http://www.texasobserver.org/author/melissa-del-bosque/">Melissa del Bosque</a></li><li><a href="http://www.texasobserver.org/author/patrick-michels/">Patrick Michels</a></li>
+</ul>
+</li>
+<li class="foo-2">
+<h2>TOPICS</h2>
+<div class="foo-2"><ul id="menu-topics-1" class="menu"><li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-107"><a href="http://www.texasobserver.org/topics/politics/">Politics</a></li>
 <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-105"><a href="http://www.texasobserver.org/topics/environment/">Environment</a></li>
 <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-108"><a href="http://www.texasobserver.org/topics/culture/">Culture</a></li>
 <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-102"><a href="http://www.texasobserver.org/topics/border/">Border</a></li>
@@ -404,65 +415,79 @@ Be sure to include your own mailing address on your post card or email.</p>
 <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-104"><a href="http://www.texasobserver.org/topics/education/">Education</a></li>
 <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-106"><a href="http://www.texasobserver.org/topics/healthcare/">Healthcare</a></li>
 <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-24903"><a href="http://www.texasobserver.org/topics/economics/">Economics</a></li>
-</ul></div>      </li>
-      <li class="foo-3">
-        <h2>BLOGS</h2>
-        <ul>
-          <li><a href="http://www.texasobserver.org/blog/back-of-the-book/">Back of the Book</a></li><li><a href="http://www.texasobserver.org/blog/big-beat/">Big Beat</a></li><li><a href="http://www.texasobserver.org/blog/capitolletters/">Capitol Letters</a></li><li><a href="http://www.texasobserver.org/blog/datelinehouston/">Dateline Houston</a></li><li><a href="http://www.texasobserver.org/blog/floor-pass/">Floor Pass</a></li><li><a href="http://www.texasobserver.org/blog/forrestforthetrees/">Forrest for the Trees</a></li><li><a href="http://www.texasobserver.org/blog/lalinea/">La Linea</a></li><li><a href="http://www.texasobserver.org/blog/snakeoil/">Snake Oil</a></li><li><a href="http://www.texasobserver.org/blog/contrarian/">The Contrarian</a></li>
-        </ul>
-      </li>
-      <li class="foo-4">
-        <h2>ABOUT US</h2>
-		<ul id="menu-footer-about-us" class="menu"><li id="menu-item-139" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-139"><a href="http://www.texasobserver.org/about/">Vision and History</a></li>
+</ul></div> </li>
+<li class="foo-3">
+<h2>BLOGS</h2>
+<ul>
+<li><a href="http://www.texasobserver.org/blog/back-of-the-book/">Back of the Book</a></li><li><a href="http://www.texasobserver.org/blog/big-beat/">Big Beat</a></li><li><a href="http://www.texasobserver.org/blog/capitolletters/">Capitol Letters</a></li><li><a href="http://www.texasobserver.org/blog/datelinehouston/">Dateline Houston</a></li><li><a href="http://www.texasobserver.org/blog/floor-pass/">Floor Pass</a></li><li><a href="http://www.texasobserver.org/blog/forrestforthetrees/">Forrest for the Trees</a></li><li><a href="http://www.texasobserver.org/blog/lalinea/">La Linea</a></li><li><a href="http://www.texasobserver.org/blog/snakeoil/">Snake Oil</a></li><li><a href="http://www.texasobserver.org/blog/contrarian/">The Contrarian</a></li>
+</ul>
+</li>
+<li class="foo-4">
+<h2>ABOUT US</h2>
+<ul id="menu-footer-about-us" class="menu"><li id="menu-item-139" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-139"><a href="http://www.texasobserver.org/about/">Vision and History</a></li>
 <li id="menu-item-142" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-142"><a href="http://www.texasobserver.org/staff/">Staff</a></li>
 <li id="menu-item-145" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-145"><a href="http://www.texasobserver.org/board/">Board of Directors</a></li>
 <li id="menu-item-176" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-171 current_page_item menu-item-176"><a href="http://www.texasobserver.org/privacy/">Privacy Policy</a></li>
 <li id="menu-item-186" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-186"><a href="http://www.texasobserver.org/terms/">Terms and Conditions</a></li>
-<li id="menu-item-31739" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-31739"><a href="#">test</a></li>
-</ul> 
-      </li>
-      <li class="foo-5">
-        <h2>CONNECT WITH US</h2>
-		<ul id="menu-footer-connect" class="menu"><li id="menu-item-187" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-187"><a href="https://www.facebook.com/texasobserver">Like Us on Facebook</a></li>
+</ul>
+</li>
+<li class="foo-5">
+<h2>CONNECT WITH US</h2>
+<ul id="menu-footer-connect" class="menu"><li id="menu-item-187" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-187"><a href="https://www.facebook.com/texasobserver">Like Us on Facebook</a></li>
 <li id="menu-item-188" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-188"><a href="https://twitter.com/TexasObserver">Follow Us on Twitter</a></li>
 <li id="menu-item-189" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-189"><a href="http://www.texasobserver.org/feed/">Subscribe to RSS Feed</a></li>
 <li id="menu-item-326" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-326"><a href="http://soundcloud.com/texasobserver">SoundCloud</a></li>
 <li id="menu-item-327" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-327"><a href="http://texasobserver.tumblr.com/">Tumblr</a></li>
 <li id="menu-item-328" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-328"><a href="http://www.youtube.com/user/TheTexasObserver">Youtube</a></li>
-</ul> 
-      </li>
-      <li class="foo-6">
-        <h2>CONTACT</h2>
-        <ul>
-          <li><address class="vcard" itemscope="" itemtype="http://schema.org/Organization">
-			<div class="org" itemprop="name">The Texas Observer</div>
-			<div class="adr" itemprop="address" itemscope="" itemtype="http://schema.org/PostalAddress">
-			<div class="street-address" itemprop="streetAddress">307 W 7th Street</div>
-			<span itemprop="addressLocality"><span class="locality">Austin</span>, <span class="region">Texas</span></span>	<span class="postal-code" itemprop="postalCode">78701</span></div>
-			<div class="tel" itemprop="telephone">1.800.939.6620</div>
-			<a itemprop="email" class="email" href="mailto:business@texasobserver.org">business@texasobserver.org</a>
-			</address>
-		</li>
-        </ul>
-      </li>
-    </ul>
-    <div class="clear"></div>
-  </footer>
+</ul>
+</li>
+<li class="foo-6">
+<h2>CONTACT</h2>
+<ul>
+<li><address class="vcard" itemscope="" itemtype="http://schema.org/Organization">
+<div class="org" itemprop="name">The Texas Observer</div>
+<div class="adr" itemprop="address" itemscope="" itemtype="http://schema.org/PostalAddress">
+<div class="street-address" itemprop="streetAddress">307 W 7th Street</div>
+<span itemprop="addressLocality"><span class="locality">Austin</span>, <span class="region">Texas</span></span> <span class="postal-code" itemprop="postalCode">78701</span></div>
+<div class="tel" itemprop="telephone">1.800.939.6620</div>
+<a itemprop="email" class="email" href="mailto:business@texasobserver.org">business@texasobserver.org<script type="text/javascript">
+/* <![CDATA[ */
+(function(){try{var s,a,i,j,r,c,l,b=document.getElementsByTagName("script");l=b[b.length-1].previousSibling;a=l.getAttribute('data-cfemail');if(a){s='';r=parseInt(a.substr(0,2),16);for(j=2;a.length-j;j+=2){c=parseInt(a.substr(j,2),16)^r;s+=String.fromCharCode(c);}s=document.createTextNode(s);l.parentNode.replaceChild(s,l);}}catch(e){}})();
+/* ]]> */
+</script></a>
+</address>
+</li>
+</ul>
+</li>
+</ul>
+<div class="clear"></div>
+<a href="http://www.texasobserver.org/?mobile=1" class="back-to-mobile" id="back-to-mobile">Back to mobile</a>
+</footer>
 </div>
-
-  
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.7/jquery.min.js"></script>
+<script src="http://www.texasobserver.org/wp-content/themes/texas-observer/_js/plugins.js"></script>
+<script src="http://www.texasobserver.org/wp-content/themes/texas-observer/_js/jquery.cycle.all.js"></script>
+<script src="http://www.texasobserver.org/wp-content/themes/texas-observer/_js/jquery.cycle.js"></script>
+<script src="http://www.texasobserver.org/wp-content/themes/texas-observer/_js/scripts.js"></script>
+<script type="text/javascript">
+//var jq = jQuery.noConflict();
+  $(document).ready(function() {
+      $('#print-archives-selector').bind('change', function () { 
+			//alert("test1212");	
+          var url = $(this).val(); 
+		  //alert(url);
+          if (url != '') { 
+              window.location = url;
+              //$('#print-archives-selector').find("option[value='"+url+"']").attr("selected", "selected");
+          }
+          return false;
+      });
+  });
 
-
-<script src="/wp-content/themes/texas-observer/_js/plugins.js"></script>
-<script src="/wp-content/themes/texas-observer/_js/jquery.cycle.all.js"></script>
-<script src="/wp-content/themes/texas-observer/_js/jquery.cycle.js"></script>
-<script src="/wp-content/themes/texas-observer/_js/scripts.js"></script>
-
+  </script>
 <script src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8.9/jquery-ui.min.js"></script>
 <script type="text/javascript" src="/wp-content/plugins/tn3-gallery/js/tn3.history.min.js"></script>
 <script type="text/javascript" src="/wp-content/plugins/tn3-gallery/js/jquery.tn3lite.min.js?ver=3.4.1"></script>
-
 <script type="text/javascript">
     var addthis_config = {
          //data_track_addressbar: true,
@@ -471,7 +496,7 @@ Be sure to include your own mailing address on your post card or email.</p>
 	};
 </script>
 <script type="text/javascript" src="//s7.addthis.com/js/250/addthis_widget.js#pubid=ra-50439d583eb2d8d2"></script>
-    <script type="text/javascript">
+<script type="text/javascript">
     // <![CDATA[
         var disqus_shortname = 'texasobserver';
         (function () {
@@ -492,8 +517,13 @@ Be sure to include your own mailing address on your post card or email.</p>
         }());
     //]]>
     </script>
-
-  
+<script type="text/javascript">
+/* <![CDATA[ */
+var mejsL10n = {"language":"en-US","strings":{"Close":"Close","Fullscreen":"Fullscreen","Download File":"Download File","Download Video":"Download Video","Play\/Pause":"Play\/Pause","Mute Toggle":"Mute Toggle","None":"None","Turn off Fullscreen":"Turn off Fullscreen","Go Fullscreen":"Go Fullscreen","Unmute":"Unmute","Mute":"Mute","Captions\/Subtitles":"Captions\/Subtitles"}};
+var mejsL10n = {"language":"en-US","strings":{"Close":"Close","Fullscreen":"Fullscreen","Download File":"Download File","Download Video":"Download Video","Play\/Pause":"Play\/Pause","Mute Toggle":"Mute Toggle","None":"None","Turn off Fullscreen":"Turn off Fullscreen","Go Fullscreen":"Go Fullscreen","Unmute":"Unmute","Mute":"Mute","Captions\/Subtitles":"Captions\/Subtitles"}};
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://www.texasobserver.org/wp-includes/js/mediaelement/mediaelement-and-player.min.js?ver=2.13.0"></script>
 <script type="text/javascript">
 /*var myCallback = function() {
 	
@@ -555,5 +585,17 @@ window.__gcse = {
 		customSearchControl.draw('search', options);
 	}, true);
 </script>
- 
+<script type="text/javascript">
+	if(getUrlVars()['site']=="full"){
+			
+		 document.getElementById('back-to-mobile').style.display = "block";
+		 
+		}
+</script>
+<script type="text/javascript">
+/* <![CDATA[ */
+(function(){try{var s,a,i,j,r,c,l=document.getElementsByTagName("a"),t=document.createElement("textarea");for(i=0;l.length-i;i++){try{a=l[i].getAttribute("href");if(a&&"www.cloudflare.com/email-protection"==a.substr(7 ,35)){s='';j=43;r=parseInt(a.substr(j,2),16);for(j+=2;a.length-j&&a.substr(j,1)!='X';j+=2){c=parseInt(a.substr(j,2),16)^r;s+=String.fromCharCode(c);}j+=1;s+=a.substr(j,a.length-j);t.innerHTML=s.replace(/</g,"&lt;").replace(/>/g,"&gt;");l[i].setAttribute("href","mailto:"+t.value);}}catch(e){}}}catch(e){}})();
+/* ]]> */
+</script>
+
 </body></html>
