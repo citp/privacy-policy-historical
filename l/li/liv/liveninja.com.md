@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the liveninja.com privacy policy that was archived on 2013-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130313110557id_/http%3A//www.liveninja.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the liveninja.com privacy policy that was archived on 2013-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131105190953id_/https%3A//www.liveninja.com/d/privacy) for the most accurate reproduction.*
 
 # Privacy | LiveNinja
 
