@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the libraryjournal.com privacy policy that was archived on 2013-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130507071324id_/http%3A//lj.libraryjournal.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the libraryjournal.com privacy policy that was archived on 2013-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131105150705id_/http%3A//lj.libraryjournal.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
