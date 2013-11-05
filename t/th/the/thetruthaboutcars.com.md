@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thetruthaboutcars.com privacy policy that was archived on 2013-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130514180953id_/http%3A//www.thetruthaboutcars.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thetruthaboutcars.com privacy policy that was archived on 2013-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131105181526id_/http%3A//www.thetruthaboutcars.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The Truth About Cars
 
@@ -74,23 +74,20 @@ If you have questions or suggestions about this privacy statement, or your own p
 
   * #### Editors
 
-  * [Bertel Schmitt](https://web.archive.org/about/)  
-Editor-In-Chief 
+  * [Jack Baruth](https://web.archive.org/about/)  
+Editor-In-Chief pro tempore 
   * [Derek Kreindler](https://web.archive.org/about/)  
 Managing Editor 
   * [Alex Dykes](https://web.archive.org/about/)  
 Review Editor 
   * [Murilee Martin](https://web.archive.org/about/)  
 Heritage Editor 
-  * [Jack Baruth](https://web.archive.org/about/)  
-High Performance Editor 
   * [Sajeev Mehta](https://web.archive.org/about/)  
 Style Editor 
-  * [Steven Lang](https://web.archive.org/about/)  
-Consumer Affairs Editor 
-  * Ronnie Schreiber, Detroit Editor 
-  * [Edward Niedermeyer](https://web.archive.org/about/)  
-Editor emeritus
+  * [Ronnie Schreiber](https://web.archive.org/about/)  
+Detroit Editor 
+  * [Tim Cain](https://web.archive.org/about/)  
+Sales Analyst
 
 
   * #### Authors
@@ -105,7 +102,6 @@ Editor emeritus
   * Clemens Gleich, Germany 
   * Doug DeMuro, Atlanta 
   * Phil Coconis, Los Angeles 
-  * Faisal Ali Khan, India 
-  * Michael Karesh, Detroit
+  * Faisal Ali Khan, India
 
 
