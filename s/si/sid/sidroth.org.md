@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the sidroth.org privacy policy that was archived on 2013-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130523035153id_/http%3A//www.sidroth.org/site/PageServer%3Fpagename%3Dprivacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sidroth.org privacy policy that was archived on 2013-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131105220843id_/http%3A//sidroth.org/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Sid Roth - It's Supernatural
+# Privacy Policy | Sid Roth - It's Supernatural
 
-Sid Roth's Messianic Vision has created this Privacy Policy to explain why we collect particular information and how we will protect your personal privacy within our Web site. The following discloses our information gathering and dissemination practices for the Web site located at the URL www.sidroth.org.
+Sid Roth's Messianic Vision has created this Privacy Policy to explain why we collect particular information and how we will protect your personal privacy within our Web site. The following discloses our information gathering and dissemination practices for the Web site located at the URL [www.sidroth.org](http://www.sidroth.org/).
 
 In order to fully understand your rights we encourage you to read this Privacy Policy as well as our Terms of Use. Sid Roth's Messianic Vision reserves the right at any time and without notice to change this Privacy Policy simply by posting such changes on our Site. Any such change will be effective immediately upon posting.
 
@@ -15,7 +15,7 @@ In order to fully understand your rights we encourage you to read this Privacy P
 7\. What kind of security procedures are in place to protect the loss, misuse or alteration of information under our control;   
 8\. and, How you can correct any inaccuracies in your information.
 
- **Use of "Cookies" ("Remember Me")** :   
+**Use of "Cookies" ("Remember Me")** :   
 Our Site may use cookies to enhance your experience while using our Site. Cookies are pieces of information that some Web sites transfer to the computer that is browsing that Web site and are used for record-keeping purposes at many Web sites. Use of cookies makes Web-surfing easier by performing certain functions such as saving your passwords, your personal preferences regarding your use of the particular Web site and to make sure you don't see the same ad repeatedly. Many consider the use of cookies to be an industry standard. 
 
 Questions regarding this statement should be directed to Sid Roth's Messianic Vision by sending an email to [info@SidRoth.org](mailto:info@SidRoth.org "E-mail info@SidRoth.org"). Please reference this Privacy Policy in your subject line. 
@@ -42,7 +42,7 @@ a) Facebook - Sid Roth's It's Supernatural manages a publicly accessible Faceb
 
 b) Twitter - Sid Roth's It's Supernatural manages a publicly accessible Twitter page.  This page must be "Followed" by individuals through their own Twitter profiles -- employees of It's Supernatural and Messianic Vision will never ask fans and followers of Sid Roth's It's Supernatural's Twitter page to accept them as friends over their personal profiles. Individuals must "Follow" Sid Roth's It's Supernatural's page of their own volition.
 
- **Contacting the Web Site** :   
+**Contacting the Web Site** :   
 If you have any questions about this Privacy Policy, the practices of this Site, or your dealings with this Site, you can contact: 
 
 Sid Roth's Messianic Vision   
