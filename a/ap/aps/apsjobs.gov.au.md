@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the apsjobs.gov.au privacy policy that was archived on 2013-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130520183505id_/http%3A//www.apsjobs.gov.au/PrivacyStatement.aspx%3Fifm%3Dtrue) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apsjobs.gov.au privacy policy that was archived on 2013-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131105041713id_/https%3A//www.apsjobs.gov.au/PrivacyStatement.aspx%3Fifm%3Dtrue) for the most accurate reproduction.*
 
 # APS Jobs - Privacy Statement
 
