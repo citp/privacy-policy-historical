@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kidsgames.org privacy policy that was archived on 2013-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130630200116id_/http%3A//www.uptoten.com/parents.phtml%3Fl%3Den%26sv%3Dlegal%26tv%3D2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kidsgames.org privacy policy that was archived on 2013-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131105203538id_/http%3A//www.uptoten.com/parents.phtml%3Fl%3Den%26sv%3Dlegal%26tv%3D2) for the most accurate reproduction.*
 
 # UpToTen.com Privacy policy
 
@@ -184,21 +184,21 @@ General Conditions that apply to our privacy policy
 
 Although UpToTen follows and complies with the Children's Online Privacy Protection Act, the regulations promulgated thereunder and the currently applicable European laws concerning children on the Internet, this does not guarantee safety or that the relevant person is a child or a parent or legal guardian, and UpToTen does not guarantee the actual identities claimed by its users. Also, we do not guarantee that your children will not voluntarily release personal information about themselves or about you or their friends or other acquaintances on our site or on sites that they visit or link to from our site. It is very important that parents understand the features, uses and potential risks of using UpToTen.com. That's why we advise all users to practice safe computing and urge parents to advise their children not to give out any personally identifiable information without their consent. 
 
-UpToTen is not immune from the possibility of acts of piracy. UpToTen can therefore not be held responsible for any pirated content within its pages. We guarantee, however, that we employ the strictest controls and security measure to ensure that acts of piracy do not occur. 
+UpToTen is not immune from the possibility of acts of piracy. UpToTen can therefore not be held responsible for any pirated content within its pages. We guarantee, however, that we employ the strictest controls and security measure to ensure that acts of piracy do not occur.
 
-UpToTen makes no guarantees, warranties or representations that you or your child will be absolutely safe or insulated from inappropriate content or behavior and we do not guarantee, warrant or represent that a child will not try to circumvent, or be successful in circumventing, the features on our site. Furthermore, UpToTen does not assume any obligations, liability, or responsibilities associated with such behavior or associated with the obligations of parental supervision. 
+UpToTen makes no guarantees, warranties or representations that you or your child will be absolutely safe or insulated from inappropriate content or behavior and we do not guarantee, warrant or represent that a child will not try to circumvent, or be successful in circumventing, the features on our site. Furthermore, UpToTen does not assume any obligations, liability, or responsibilities associated with such behavior or associated with the obligations of parental supervision.
 
 UpToTen reserves the right to change the information, features, products, policies, promotions, disclosures and disclaimers at any time. Changes to this Privacy Policy will be posted on the UpToTen site. Please check these terms periodically for changes. At the top of the policy we indicate the date of the last update. The continued use of the UpToTen web site following the posting of changes to these terms will mean you accept such changes, and any off-line consent provided under COPPA will be deemed to apply to the revised policies and new or modified features. However, in the event there is a material change in our data collection, use or disclosure practices, we will obtain a new consent.
 
-These contractual conditions shall be analyzed and governed by the laws of MAURITIUS without regard to its conflict of law provisions. If any of the terms of these conditions are found to be illegal, invalid or void for any reason it shall be considered severable and shall not affect the validity or application of the other provisions. 
+These contractual conditions shall be analyzed and governed by the laws of MAURITIUS without regard to its conflict of law provisions. If any of the terms of these conditions are found to be illegal, invalid or void for any reason it shall be considered severable and shall not affect the validity or application of the other provisions.
 
 Thank you for being concerned with kids' privacy and safety issues and for taking the time to read this Privacy Policy. We hope that you and your children enjoy UpToTen.com. If you have any questions or comments, please feel free to contact us. 
 
-We hope that we have made the functioning of this site sufficiently clear and that we have responded positively to your expectations. If you have any questions and/or suggestions about security, don't hesitate to contact us at [Contact us](http://www.uptoten.com/contact_us.php)
+We hope that we have made the functioning of this site sufficiently clear and that we have responded positively to your expectations. If you have any questions and/or suggestions about security, don't hesitate to contact us at [steve@uptoten.com](mailto:steve@uptoten.com)
 
 UpToTen, Astor Court, Port Louis, Mauritius  
 Tel: (230) 213 68 37   
-© UpToTen. All rights reserved 
+© UpToTen. All rights reserved
 
 UpToTen reserves the right, at all times, to modify or to renew its privacy policy.   
   
