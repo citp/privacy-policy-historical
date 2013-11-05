@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smithsport.com privacy policy that was archived on 2013-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130528084207id_/http%3A//www.smithoptics.com/privacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smithsport.com privacy policy that was archived on 2013-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131106003953id_/https%3A//www.smithoptics.com/privacyPolicy.html) for the most accurate reproduction.*
 
 # Smith Optics | Customer Service
 
