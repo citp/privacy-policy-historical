@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the auctelia.com privacy policy that was archived on 2013-02-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130212091457id_/http%3A//www.auctelia.com/en/home/confident) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the auctelia.com privacy policy that was archived on 2013-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131105062834id_/http%3A//www.auctelia.com/en/home/confident) for the most accurate reproduction.*
 
 # Auctelia
 
@@ -38,8 +38,8 @@ At any time you may inform us whether or not you want to receive marketing email
 We welcome any questions you may have regarding this Privacy Policy or the processing of your personal data. Please do not hesitate to contact us at info@auctelia.com or by mail: 
 
 Auctelia SA   
-Avenue des Métallurgistes 22B   
-B-1490 Court-Saint-Etienne, Belgium   
+Rue Emile Francqui 1/4   
+B-1435 Mont-Saint-Guibert, Belgium   
 
 
 #### Changes in our Privacy Policy
