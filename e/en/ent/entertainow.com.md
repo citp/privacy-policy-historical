@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the entertainow.com privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621044428id_/http%3A//www.entertainow.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the entertainow.com privacy policy that was archived on 2013-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131105220138id_/http%3A//www.entertainow.com/page/load/en_privacypolicy) for the most accurate reproduction.*
 
-# EntertaiNow.com News Network
+# None
 
 The privacy policy below details the measures taken by entertainow ("entertainow") to protect your privacy in connection with your use of www.entertainow.com. Please read the following to learn more about our privacy policy. This privacy policy is incorporated into and is subject to the entertainow Terms of Use. If you do not agree to the terms of this privacy policy or the Terms of Use, please do not provide entertainow with any information and do not use the site. Your continued use of the site after the privacy policy has been modified will signify your acceptance of the changes for information gathered after the date of the change. 
 
@@ -46,4 +46,4 @@ As a user of the Site, please understand that our privacy policy may change from
 
 Compliance with the Children's Online Privacy Protection Act (COPPA), we are a general audience site and do not intend to collect any personal information from children under 13 years of age, unless we believe such collection to be permitted by law. Our Site targets an audience that is over the age of 18 and some content may not be appropriate for all ages. Parental supervision is recommended. If you are the parent or guardian of a child under 13 and believe that he or she has disclosed personal information to us, please contact us at info@entertainow.com. Upon request, the parent or guardian of a child under 13 may review and request the deletion of such child's personal information, as well as refuse to permit the further collection or use of such personal information.
 
-If you have any questions or concerns or believe entertainow is not abiding by our posted privacy policy, you should contact entertainow's privacy manager by email at [info@entertainow.com](mailto:info@entertainow.com). 
+If you have any questions or concerns or believe entertainow is not abiding by our posted privacy policy, you should contact entertainow's privacy manager by email at [info@entertainow.com](mailto:info@entertainow.com).
