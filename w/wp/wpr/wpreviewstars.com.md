@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wpreviewstars.com privacy policy that was archived on 2013-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130504142523id_/http%3A//wpreviewstars.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wpreviewstars.com privacy policy that was archived on 2013-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131105203808id_/http%3A//wpreviewstars.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | WP Review Stars | Wordpress Star Reviews Plugin | Google Stars
 
