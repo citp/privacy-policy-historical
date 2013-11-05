@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spanning.com privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530235817id_/http%3A//spanning.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spanning.com privacy policy that was archived on 2013-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131105042626id_/http%3A//spanning.com/privacy) for the most accurate reproduction.*
 
 # Spanning Backup Privacy Statement | Spanning Backup for Google Apps
 
@@ -94,8 +94,8 @@ If you have any questions or suggestions regarding our privacy statement, please
 
 Spanning Cloud Apps, Inc.  
 Attn: Privacy  
-714 Congress Ave.  
-Suite 200  
+823 Congress Ave.  
+Suite 800  
 Austin, Texas  
 78701  
 USA  
