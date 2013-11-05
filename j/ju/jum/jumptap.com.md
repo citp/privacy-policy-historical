@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jumptap.com privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602101423id_/http%3A//www.jumptap.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jumptap.com privacy policy that was archived on 2013-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131105053005id_/http%3A//www.jumptap.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Jumptap
 
@@ -6,7 +6,7 @@
 
 ##   **About Jumptap**
 
- Jumptap is a leading independent mobile ad network. We partner with mobile website publishers and mobile app developers to serve ads on their sites and in their apps on behalf of our advertiser clients.  The ads we serve may be tailored to users’ interests and geographic locations. This allows our publisher and developer partners to provide advertising that is more relevant to users.
+ Jumptap is the leading unified audience platform. We partner with mobile website publishers and mobile app developers to serve ads on their sites and in their apps on behalf of our advertiser clients.  The ads we serve may be tailored to users’ interests and geographic locations. This allows our publisher and developer partners to provide advertising that is more relevant to users.
 
 ##   **Information We Collect**
 
