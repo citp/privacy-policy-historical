@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vocalocity.com privacy policy that was archived on 2013-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130328190641id_/http%3A//www.vocalocity.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vocalocity.com privacy policy that was archived on 2013-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131105184527id_/http%3A//www.vocalocity.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Business VoIP Guidelines | Vocalocity
 
