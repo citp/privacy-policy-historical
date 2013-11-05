@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the shopeverlast.com privacy policy that was archived on 2013-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130508235012id_/http%3A//www.shopeverlast.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shopeverlast.com privacy policy that was archived on 2013-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131105024143id_/http%3A//www.shopeverlast.com/privacypolicy.html) for the most accurate reproduction.*
 
-# 
+# Privacy Policy
 
 _This site is hosted by Yahoo! Store. Yahoo! hosts the store pages, ordering system, and order data. Yahoo! automatically collects order information but may only use this information in the aggregate. If you accessed this store through Yahoo! Shopping, Yahoo! also automatically collects information about your shopping experience. Please see the[Yahoo! Privacy Policy](http://info.yahoo.com/privacy/us/yahoo/details.html) for more information about how Yahoo! uses this information._
 
@@ -32,9 +32,9 @@ From time to time, we may share your information, including, without limitation,
 
 You can also contact us via postal mail regarding any of the above by writing to:
 
-Everlast Worldwide 183 Madison Suite 1701 New York, NY, 10016
+Everlast Worldwide Attn: Customer Service 1900 HWY DD Moberly, MO 65270
 
-Or you may contact us by phone at 800-821-7930, 24 hours a day, seven days a week. Please be aware that it can take up to 10 business days to remove you from our marketing email lists. If you opt-out from receiving our marketing emails, you will continue to receive order confirmation and shipping status emails.
+Or you may contact us by phone at 800-821-7930, Monday-Friday, 8 am - 5 pm CST. Please be aware that it can take up to 10 business days to remove you from our marketing email lists. If you opt-out from receiving our marketing emails, you will continue to receive order confirmation and shipping status emails.
 
 CHANGING ADDRESS OR CATALOG PREFERENCES
 
@@ -52,9 +52,9 @@ If you want to change your postal or email address, please send an email to info
 
 You will receive an email confirmation that your request has been received and processed. You can also contact us via postal mail regarding any of the above by writing to:
 
-Everlast Worldwide 183 Madison Ave, Suite 1701 New York, NY, 10016
+Everlast Worldwide Attn: Customer Service 1900 HWY DD Moberly, MO 65270
 
-Or you may contact us by phone at 800-821-7930, 24 hours a day, seven days a week.
+Or you may contact us by phone at 800-821-7930, Monday-Friday, 8 am - 5 pm CST.
 
 HOW WE WORK WITH THIRD PARTY SERVICE PROVIDERS
 
@@ -90,7 +90,7 @@ SDI collects various types of personal information about you both online and off
 
 To make such a request, please write to us at the following address:
 
-Everlast Worldwide 183 Madison Ave, Suite 1701 New York, NY, 10016
+Everlast Worldwide Attn: Customer Service 1900 HWY DD Moberly, MO 65270
 
 Alternatively, you may send us an email at info@everlast.com with the words "California Privacy Rights" in the subject line.
 
@@ -120,10 +120,10 @@ If you have any questions or concerns regarding our privacy policy, please conta
 
 By email: info@everlast.com
 
-By phone: 800-821-7930, 24 hours a day, seven days a week
+By phone: 800-821-7930, Monday-Friday, 8 am - 5 pm CST
 
 By fax: 800-480-0348
 
-By mail: Everlast Worldwide 183 Madison Ave. Suite 1701 New York, NY, 10016
+By mail: Everlast Worldwide Attn: Customer Service 1900 HWY DD Moberly, MO 65270
 
 Effective as of 10/01/2009.
