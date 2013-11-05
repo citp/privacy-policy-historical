@@ -1,10 +1,14 @@
-> *The following text is extracted and transformed from the zerolag.com privacy policy that was archived on 2013-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130504162536id_/http%3A//www.zerolag.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zerolag.com privacy policy that was archived on 2013-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131105030504id_/http%3A//www.zerolag.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | ZeroLag
 
 **ZeroLag Communications Privacy Policy**
 
-ZeroLag takes your privacy seriously, and has created this Privacy Policy in order to demonstrate our firm commitment to online privacy. Keep reading to learn more about our information gathering and dissemination practices, and our use of personally identifiable information.
+ZeroLag Communications, Inc. takes your privacy seriously, and has created this Privacy Policy in order to demonstrate our firm commitment to online privacy. Keep reading to learn more about our information gathering and dissemination practices, and our use of personally identifiable information.
+
+**Safe Harbor**
+
+ZeroLag Communications, Inc. complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland.  ZeroLag Communications, Inc. has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement.  To learn more about the Safe Harbor program, and to view ZeroLag Communications, Inc.’s certification, please visit <http://www.export.gov/safeharbor/>
 
 **IP Addresses**
 
