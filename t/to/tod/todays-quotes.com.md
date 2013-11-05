@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the todays-quotes.com privacy policy that was archived on 2012-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121122134854id_/http%3A//funny-pictures-blog.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the todays-quotes.com privacy policy that was archived on 2013-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131105010801id_/http%3A//funny-pictures-blog.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Funny Pictures Blog
+# Privacy Policy - MEME and LOL
 
 [](http://funny-pictures-blog.com/wp-content/uploads/2012/07/thinking-meme.png)
 
