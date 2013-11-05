@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seedprod.com privacy policy that was archived on 2013-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130425023532id_/http%3A//www.seedprod.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seedprod.com privacy policy that was archived on 2013-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131105232158id_/http%3A//www.seedprod.com/privacy) for the most accurate reproduction.*
 
 # Privacy - SeedProd
 
