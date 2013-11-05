@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the las-vegas-theater.com privacy policy that was archived on 2013-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130524033553id_/http%3A//www.las-vegas-theater.com/common/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the las-vegas-theater.com privacy policy that was archived on 2013-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131105022456id_/http%3A//www.las-vegas-theater.com/common/privacy.php) for the most accurate reproduction.*
 
 # Las Vegas Theater - Privacy
 
@@ -36,4 +36,4 @@ If you have any questions about this privacy statement or the security practices
 
 [
 
-](http://www.las-vegas-theater.com/theaters/caesars-palace-colosseum/elton-john.php)
+](http://www.las-vegas-theater.com/theaters/monte-carlo-theater/blue-man-group.php)
