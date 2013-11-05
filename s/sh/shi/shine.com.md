@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the shine.com privacy policy that was archived on 2013-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130522093406id_/http%3A//www.shine.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shine.com privacy policy that was archived on 2013-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131105220953id_/http%3A//www.shine.com/privacypolicy) for the most accurate reproduction.*
 
 # Shine.com - Privacy Policy
 
-The Privacy Policy (hereinafter "the policy") provided below is with respect to our use and protection of any personal information/data you provide to us through our website. Firefly e-Ventures Limited (FEVL) is the sole owner of the website [_www.shine.com_](http://www.shine.com/) (hereinafter "website"). The Policy is applicable to the website. You may be required to provide personally identifiable information at several different points on our website. By accepting the policy at the time of registration, you expressly approve and consent to our collection, storage, use and disclosure of your personal information as described in this Policy. 
+The Privacy Policy (hereinafter "the policy") provided below is with respect to our use and protection of any personal information/data you provide to us through our website. HT Media Limited (HTML) is the sole owner of the website [_www.shine.com_](http://www.shine.com/) (hereinafter "website"). The Policy is applicable to the website. You may be required to provide personally identifiable information at several different points on our website. By accepting the policy at the time of registration, you expressly approve and consent to our collection, storage, use and disclosure of your personal information as described in this Policy. 
 
 Information Collection
 
@@ -96,7 +96,7 @@ Your password is the key to your account. You shall be solely responsible for al
 
 Business Transaction:
 
-In the event FEVL goes through a business transition, such as a merger, acquisition by another company, or sale of all or a portion of its assets, your personally identifiable information will likely be among the assets transferred. Where your information is transferred you will be notified via email/prominent notice on our website for 30 days of any such change in ownership or control of your personal information.
+In the event HTML goes through a business transition, such as a merger, acquisition by another company, or sale of all or a portion of its assets, your personally identifiable information will likely be among the assets transferred. Where your information is transferred you will be notified via email/prominent notice on our website for 30 days of any such change in ownership or control of your personal information.
 
 Security:
 
@@ -104,7 +104,7 @@ The security of your personal information is important to us. When you enter you
 
 Links to Other Sites:
 
-The website contains links to other sites that are not owned or controlled by Firefly e-Ventures Ltd. Please be aware that we, Firefly e-Ventures Ltd. and/or the website, are not responsible for the privacy practices of such other sites.
+The website contains links to other sites that are not owned or controlled by HT Media Limited. Please be aware that we, HT Media Limited and/or the website, are not responsible for the privacy practices of such other sites.
 
 We encourage you to be aware when you leave our site and to read the privacy statements of each and every Web site that collects personally identifiable information.
 
@@ -118,4 +118,4 @@ We reserve the right to modify this privacy statement at any time, so please rev
 
 Contact Us
 
-If you have any questions or suggestions regarding our privacy policy, please contact us at:[support@shine.com](mailto:support@shine.com) or [contactus@shine.com](mailto:contactus@shine.com)
+If you have any questions or suggestions regarding our privacy policy, please contact us at:[contactus@shine.com](mailto:contactus@shine.com)
