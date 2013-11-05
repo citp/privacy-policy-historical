@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gopetition.com privacy policy that was archived on 2013-01-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130116144729id_/http%3A//www.gopetition.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gopetition.com privacy policy that was archived on 2013-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131105113112id_/http%3A//www.gopetition.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy | GoPetition
 
@@ -7,7 +7,7 @@ Privacy Statement
 GoPetition recognises that your privacy is very important to you and that you have a right to control your personal information. We know that providing personal information is an act of trust and we take that seriously. This privacy policy forms part or our Terms of Use (TOU) and is subject to and should be read with our TOU.  
 
 
-**Your email address will NEVER be displayed on this website.**
+**Your email address will NEVER be displayed on this website. Email addresses are stored confidentially and securely with multi-layer protection.**
 
 We will not email you anything unrelated to GoPetition. If your email address is supplied, it will be stored securely. If you are signing a petition, you may be sent a signature receipt by email that confirms that you have signed the petition. The receipt is for your records and provides information about how to edit and manage your signature. Your email address may be used for signature verification by GoPetition when we conduct quality control of a signature list. This is important to maintain high standards of signature list integrity. Quality signature lists promote quality petitions and successful campaigns.
 
@@ -18,7 +18,7 @@ GoPetition will not give or sell your information to any third party. If signing
 
 Signature and Signature Comment Display and Search Engine Access to Signature Lists and Signature Comments
 
-If you are signing a petition your signature (and signature comment) may be publicly displayed in a signature list (and signature comment page). Each petition at GoPetition has a public signature list that publicly displays at GoPetition all those who sign each petition. Our public lists do not include email or street addresses, but may include your town/city. Comments made with a signature can appear on a dedicated signature comment page.
+If you are signing a petition your signature and signature comment ( **excluding your email address and street address** ) may be publicly displayed in a signature list (and signature comment page). Each petition at GoPetition has a public signature list that publicly displays at GoPetition all those who sign each petition. **Our public lists do not include email or street addresses** , but may include your town/city. Comments made with a signature can appear on a dedicated signature comment page.
 
 The public lists and comments give weight to each petition and confidence to other signers. Each author has the option to NOT display their list publicly. But you should assume that the author may display their list. If you choose our "Anonymous" designation feature, then your name will be cloaked publicly and will only be viewable to the author and target. You may also elect to hide your signature comment from public view if you only want the author or target to view your comment.
 
