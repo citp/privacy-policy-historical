@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the marketingvideodiy.com privacy policy that was archived on 2013-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130420020344id_/http%3A//marketingvideodiy.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marketingvideodiy.com privacy policy that was archived on 2013-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131105183342id_/http%3A//www.marketingvideodiy.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - How to video marketing tips from an official YouTube partner
+# Privacy Policy - How to Video Marketing and Marketing Services
 
 Privacy Policy
 
