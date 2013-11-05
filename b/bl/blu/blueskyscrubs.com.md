@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the blueskyscrubs.com privacy policy that was archived on 2013-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130505160433id_/https%3A//www.blueskyscrubs.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blueskyscrubs.com privacy policy that was archived on 2013-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131105011633id_/https%3A//www.blueskyscrubs.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy Page
 
 Updated December 8, 2010
 
