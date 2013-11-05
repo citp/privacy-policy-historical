@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coolantarctica.com privacy policy that was archived on 2013-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130531190245id_/http%3A//coolantarctica.com/privacy_policy_statement.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coolantarctica.com privacy policy that was archived on 2013-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131105204548id_/http%3A//www.coolantarctica.com/privacy_policy_statement.htm) for the most accurate reproduction.*
 
 # Privacy Policy Statement
 
