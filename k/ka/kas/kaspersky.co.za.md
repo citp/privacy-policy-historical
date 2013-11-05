@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the kaspersky.co.za privacy policy that was archived on 2013-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130506032911id_/http%3A//www.kaspersky.co.za/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kaspersky.co.za privacy policy that was archived on 2013-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131105032520id_/http%3A//www.kaspersky.co.za/privacy) for the most accurate reproduction.*
 
-# Privacy
+# Privacy Policy
 
 ## Privacy policy
 
