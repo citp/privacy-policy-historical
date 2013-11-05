@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the talenthouse.com privacy policy that was archived on 2013-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130507134250id_/http%3A//blog.talenthouse.com/privacy-policy/%3Flang%3Den) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the talenthouse.com privacy policy that was archived on 2013-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131105183627id_/http%3A//blog.talenthouse.com/privacy-policy/%3Flang%3Den) for the most accurate reproduction.*
 
-# Talenthouse Privacy Policy | Talenthouse
+# Talenthouse Privacy Policy - Talenthouse
 
 PLEASE NOTE THAT OUR PRIVACY POLICY has changed effective February 7, 2012.
 
