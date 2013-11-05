@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the funtoxin.com privacy policy that was archived on 2013-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130627000833id_/http%3A//www.funtoxin.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the funtoxin.com privacy policy that was archived on 2013-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131105024458id_/http%3A//www.funtoxin.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Fun Toxin
 
