@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the picaboo.com privacy policy that was archived on 2013-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130613120728id_/http%3A//www.picaboo.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the picaboo.com privacy policy that was archived on 2013-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131105062402id_/http%3A//www.picaboo.com/privacy) for the most accurate reproduction.*
 
-# Picaboo - Privacy Policy
+# Privacy Policy | Picaboo
 
-Picaboo Corporation ("Picaboo") knows that you care about how your personal information is used and shared, and we take your privacy seriously. To learn more about how Picaboo uses your personal information, please read the following Privacy Policy. By submitting information to us or using any of our services, you acknowledge that you accept the practices and policies outlined in this Privacy Policy.
+Picaboo Corporation (“Picaboo”) knows that you care about how your personal information is used and shared, and we take your privacy seriously. To learn more about how Picaboo uses your personal information, please read the following Privacy Policy. By submitting information to us or using any of our services, you acknowledge that you accept the practices and policies outlined in this Privacy Policy.
 
 #### What Does This Privacy Policy Cover?
 
-This Privacy Policy covers Picaboo's treatment of personally identifiable information ("Personal Information") that Picaboo gathers when you are accessing Picaboo's web pages and when you use Picaboo software or services (collectively, "Services"). This policy does not apply to the practices of companies that Picaboo does not own or control, or to individuals that Picaboo does not employ or manage.
+This Privacy Policy covers Picaboo’s treatment of personally identifiable information (“Personal Information”) that Picaboo gathers when you are accessing Picaboo’s web pages and when you use Picaboo software or services (collectively, “Services”). This policy does not apply to the practices of companies that Picaboo does not own or control, or to individuals that Picaboo does not employ or manage.
 
 #### What Personal Information Does Picaboo Collect?
 
@@ -16,17 +16,17 @@ The information we gather from customers enables us to personalize our service, 
 
 We may receive and store any information you enter through the use of the Services, in connection with your registration to use our software or provide to us in any other way. When you register as a Picaboo user, we ask for Personal Information, including, but not limited to your email address and name. Such Personal Information is required for us to perform functions associated with the Services such as sending and receiving Content and comments to and from your Pals (as described below) and notifying users of account status. You may choose not to provide us with certain information, but then you may not be able to take advantage of some our features.
 
-From time to time, Picaboo may also seek Personal Information via voluntary "opt-in" surveys or contests. Personal Information requested may include contact information (mailing address and phone number) and demographic information (such as zip code or age level).
+From time to time, Picaboo may also seek Personal Information via voluntary “opt-in” surveys or contests. Personal Information requested may include contact information (mailing address and phone number) and demographic information (such as zip code or age level).
 
 The Personal Information you provide may be used for such purposes as informing members of service improvements, scheduled maintenance, feature announcements, newsletters, promotional offers, responding to your requests for certain products and services, measuring the effectiveness of our offerings, customizing content you see and communicating with you about specials and new products.
 
 #### Picaboo Content, Recipients, Sharing & Forwarding:
 
-When you use the Picaboo client software, all of your books, cards and related content ("Content") are viewable only by you unless you explicitly share them with others. You, your Recipients and their Recipients can see your Content only when you share them via the Picaboo Network. A Recipient is defined as a Picaboo member with whom you share your Content. When you choose to share your Content with Recipients, those Recipients will be able to view your Content online via a link in a browser, or via their Picaboo software if they have installed it.
+When you use the Picaboo client software, all of your books, cards and related content (“Content”) are viewable only by you unless you explicitly share them with others. You, your Recipients and their Recipients can see your Content only when you share them via the Picaboo Network. A Recipient is defined as a Picaboo member with whom you share your Content. When you choose to share your Content with Recipients, those Recipients will be able to view your Content online via a link in a browser, or via their Picaboo software if they have installed it.
 
 Once you share Content, your Recipients can forward that Content at will. Moreover, your Recipients and their recipients will be able to print and order bound versions of the Content you share with them.
 
-Finally, Recipients may save your Content as their own Content for collaboration of other purposes and may save pictures out of your Content on their computers for their own use. You acknowledge that Recipients could share content that you have restricted through book, card or other product "rules" by capturing screen shots of such content or taking photos of such content on their screens to share with others.
+Finally, Recipients may save your Content as their own Content for collaboration of other purposes and may save pictures out of your Content on their computers for their own use. You acknowledge that Recipients could share content that you have restricted through book, card or other product “rules” by capturing screen shots of such content or taking photos of such content on their screens to share with others.
 
 Picaboo makes no assurances or warranties that your books, cards or other products and content are fully protected.
 
@@ -46,21 +46,21 @@ Our Service automatically gathers certain information related to the usage and e
 
 #### E-mail Communications:
 
-We may receive a confirmation when you open an e-mail from Picaboo if your computer supports this type of program. Picaboo may use this confirmation to help us make e-mails more interesting and helpful. We may also compare our customer list to lists received from other companies, in an effort to avoid sending unnecessary messages to our customers. If you do not want to receive e-mail or other mail from us, please notify us by e-mail at support@picaboo.com and include sufficient information for us to identify your account.
+Once you complete and submit your registration, you will begin receiving email communication from us. We may receive a confirmation when you open an e-mail from Picaboo if your computer supports this type of program. Picaboo may use this confirmation to help us make e-mails more interesting and helpful. We may also compare our customer list to lists received from other companies, in an effort to avoid sending unnecessary messages to our customers. If you do not want to receive e-mail or other mail from us, please notify us by e-mail at support@picaboo.com and include sufficient information for us to identify your account.
 
 #### What About Cookies?
 
-Cookies are alphanumeric identifiers that we may transfer to your computer's hard drive through your browser to enable our systems to recognize your browser and tell us how and when pages in our site are visited and by how many people.
+Cookies are alphanumeric identifiers that we may transfer to your computer’s hard drive through your browser to enable our systems to recognize your browser and tell us how and when pages in our site are visited and by how many people.
 
 Most browsers have an option for turning off the cookie feature, which will prevent your browser from accepting new cookies, as well as (depending on the sophistication of your browser software) allowing you to decide on acceptance of each new cookie in a variety of ways.
 
 #### Will the Company Share Any of the Personal Information it Receives?
 
-The protection of our users' Personal Information is very important to us. We neither rent nor sell your Personal Information to anyone. We share your Personal Information only with your consent or to business partners and affiliates as described below.
+The protection of our users’ Personal Information is very important to us. We neither rent nor sell your Personal Information to anyone. We share your Personal Information only with your consent or to business partners and affiliates as described below.
 
-_Affiliated Businesses We Do Not Control:_ We are affiliated with a variety of businesses and work closely with them. In certain situations, these businesses may operate services at the Picaboo website or sell services or products to you through Picaboo's website. In other situations, Picaboo provides services, or sells products jointly with affiliated businesses. You may generally be able to recognize when an affiliated business is associated with your transaction, and we may share customer information that is related to such transactions with that affiliated business. For the most part, affiliated businesses are not permitted to market to you directly. They will do so in conjunction with Picaboo, if at all.
+_Affiliated Businesses We Do Not Control:_ We are affiliated with a variety of businesses and work closely with them. In certain situations, these businesses may operate services at the Picaboo website or sell services or products to you through Picaboo’s website. In other situations, Picaboo provides services, or sells products jointly with affiliated businesses. You may generally be able to recognize when an affiliated business is associated with your transaction, and we may share customer information that is related to such transactions with that affiliated business. For the most part, affiliated businesses are not permitted to market to you directly. They will do so in conjunction with Picaboo, if at all.
 
-_Agents:_ We may employ other companies and people to perform tasks on our behalf and need to share your information with them to provide products or services to you. Unless we tell you differently, Picaboo's agents do not have any right to use Personal Information we share with them beyond what is necessary to assist us. You hereby consent to our sharing of Personal Information for the above purposes.
+_Agents:_ We may employ other companies and people to perform tasks on our behalf and need to share your information with them to provide products or services to you. Unless we tell you differently, Picaboo’s agents do not have any right to use Personal Information we share with them beyond what is necessary to assist us. You hereby consent to our sharing of Personal Information for the above purposes.
 
 _Business Transfers:_ In some cases, we may choose to buy or sell assets. In these types of transactions, customer information is typically one of the business assets that is transferred. Moreover, if Picaboo, or substantially all of its assets, were acquired, customer information would be one of the assets that is transferred or acquired by a third party. You acknowledge that such transfers may occur, and that any acquirer of Picaboo may continue to use your Personal Information as set forth in this policy
 
@@ -74,11 +74,11 @@ Your Picaboo account Personal Information is protected by a password-protected d
 
 You need to ensure against unauthorized access to your account and Personal Information by selecting and protecting your password appropriately and limiting access to your computer and browser by signing off after you have finished accessing your account, for example.
 
-Picaboo uses third party e-commerce providers to manage and fulfill transactions related to the Service such as billing and payment processing. Any information collected by Picaboo's third party e-commerce providers is retained on secure pages that are encrypted using the SSL (Secure Sockets Layer) protocol. These third party providers will collect such information at the time of the transaction.
+Picaboo uses third party e-commerce providers to manage and fulfill transactions related to the Service such as billing and payment processing. Any information collected by Picaboo’s third party e-commerce providers is retained on secure pages that are encrypted using the SSL (Secure Sockets Layer) protocol. These third party providers will collect such information at the time of the transaction.
 
 #### What Personal Information Can I Access?
 
-Picaboo may allow you to access certain information about yourself for the purpose of viewing, and in certain situations, updating that information. Such information can be changed and accessed on the Picaboo website under "Customer Support". The types of information that you can access and update will change as our Service changes.
+Picaboo may allow you to access certain information about yourself for the purpose of viewing, and in certain situations, updating that information. Such information can be changed and accessed on the Picaboo website under “Customer Support”. The types of information that you can access and update will change as our Service changes.
 
 #### Protection Of Children.
 
@@ -87,7 +87,7 @@ The Picaboo Service is not intended for or directed to persons under the age of 
 #### What Choices Do I Have?
 
   * As stated previously, you can always opt not to disclose information to Picaboo, even though it may be needed to receive services or take advantage of certain Picaboo services.
-  * You may be able to add or update certain information on pages, such as those that may be listed in the "What Personal Information Can I Access" section above. When you update information, however, we may maintain a copy of the unrevised information in our records.
+  * You may be able to add or update certain information on pages, such as those that may be listed in the “What Personal Information Can I Access” section above. When you update information, however, we may maintain a copy of the unrevised information in our records.
   * You may request deletion of your Picaboo account by sending an e-mail to support@picaboo.com and responding affirmatively to any confirmation e-mails that we may send. Please note that some information may remain in our records after deletion of your account.
   * If you do not wish to receive e-mail or other mail from us, please notify us by e-mail at support@picaboo.com, and provide sufficient information for us to identify your account. Please note that if you do not want to receive legal notices from us, such as this Privacy Policy, those legal notices will still govern your use of the Picaboo website, and you are responsible for reviewing such legal notices for changes.
   * As explained earlier, the majority of browsers allow you to monitor and restrict our use of cookies. Please note, however, that if your browser does not accept cookies, you may not be able to take advantage of some of our services or website features.
@@ -106,6 +106,8 @@ Picaboo may amend this Privacy Policy from time to time. Use of information we c
 
 If you have any questions or concerns regarding privacy at Picaboo site, please send us a detailed message to support@picaboo.com. We will make every effort to resolve your concerns.
 
-Picaboo Corporation   
-654 High Street, Suite 200   
-Palo Alto, CA 94301
+Picaboo Corporation
+
+255 Shoreline Dr. STE 100
+
+Redwood City, CA 94065
