@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shoppingwish.in privacy policy that was archived on 2013-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130528084523id_/http%3A//shoppingwish.in/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shoppingwish.in privacy policy that was archived on 2013-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131105234427id_/http%3A//shoppingwish.in/help/privacy) for the most accurate reproduction.*
 
 # ShoppingWish - Your wishes, home delivered!
 
@@ -100,3 +100,9 @@ Salisbury Park, Pune 411037  **Customer Service Inquiries**
 [customercare@shoppingwish.in](mailto:customercare@shoppingwish.in)
 
 Feedback Please tell us what do you think, any kind of feedback is highly appreciated.
+
+Success
+
+We have recieved your question. And we will answer it shortly. 
+
+Lookout for our mail
