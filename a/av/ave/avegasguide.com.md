@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the avegasguide.com privacy policy that was archived on 2013-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130630232428id_/http%3A//www.avegasguide.com/privacy-policy-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the avegasguide.com privacy policy that was archived on 2013-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131105220829id_/http%3A//www.avegasguide.com/privacy-policy-2) for the most accurate reproduction.*
 
-# Privacy Policy - AVegasGuide.com
+# Privacy Policy - Las Vegas show tickets, Cheap Las Vegas hotels and more - avegasguide.com
 
 This Privacy policy owner sets our practices with respect to the collection, use plus disclosure of personal information in connection with www.AVegasGuide.com (the Site). This Privacy policy owner may be updated by us at any time by posting on the site without any prior notice. Also, this Privacy Statement may be supplemented or modified by agreements entered into between us plus an individual from time to time. In this Privacy Statement, personal information means any information about an identifiable individual, including contact plus demographic details, not including collective information or information regarding a group in summarized form.
 
