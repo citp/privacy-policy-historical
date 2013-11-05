@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the usb.org privacy policy that was archived on 2013-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130629064648id_/http%3A//www.usb.org/about/statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usb.org privacy policy that was archived on 2013-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131105224410id_/http%3A//www.usb.org/about/statement) for the most accurate reproduction.*
 
 # USB.org - Privacy Statement
 
