@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the acop.com privacy policy that was archived on 2013-01-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130119075127id_/http%3A//www.acop.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acop.com privacy policy that was archived on 2013-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131105235315id_/http%3A//www.acop.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | American Consumer Opinion Panel
 
@@ -7,7 +7,7 @@ This Privacy Policy is reviewed and updated annually.
 ### American Consumer Opinion® believes that its Members have an inalienable right to privacy. We protect your privacy and anonymity by adhering to these standards:
 
   * [Safe Harbor Privacy Principles](http://www.export.gov/safeharbor/eu/eg_main_018475.asp) as developed by the U.S. Department of Commerce in consultation with the European Commission. 
-  * [Children's Online Privacy Protection Act](http://www.ftc.gov/privacy/privacyinitiatives/childrens.html) issued by the Federal Trade Commission (FTC). 
+  * [Children's Online Privacy Protection Act](http://www.business.ftc.gov/privacy-and-security/children%E2%80%99s-privacy) issued by the Federal Trade Commission (FTC). 
 
   
 
@@ -120,7 +120,7 @@ Back to top
 
 ### Privacy For Children Under 14
 
-  * American Consumer Opinion® and Decision Analyst, Inc., in compliance with the [Children's Online Privacy Protection Act](http://www.ftc.gov/privacy/privacyinitiatives/childrens.html), do not accept registrations from children under age 14. 
+  * American Consumer Opinion® and Decision Analyst, Inc., in compliance with the [Children's Online Privacy Protection Act](http://www.business.ftc.gov/privacy-and-security/children%E2%80%99s-privacy), do not accept registrations from children under age 14. 
   * We do not directly advertise or market to children. 
   * From time to time we may have a survey available for children, but we will not directly contact any children under age 14. For these surveys we will contact the parents who are Members of the panel and ask them to give consent for the child to complete the screener or survey. 
 
@@ -135,7 +135,7 @@ We consider the protection of all personally identifiable information we receive
   * Private data about you and your household (name, email address, street address, phone number, income, education, family composition, etc.) is strictly confidential and protected at all times. 
   * Only a few trusted employees at Decision Analyst, Inc. have access to your personal information, and each has signed a binding confidentiality and nondisclosure agreement. 
   * Contractors who may work with us also sign a nondisclosure agreement. 
-  * Our site is registered with the VeriSign Secure Site Program. VeriSign is an independent third-party agency that authenticates, issues, and manages digital IDs on the Internet. Please [click here](http://www.verisign.com/) for more information about our site security. 
+  * When registering or taking a survey, the information you send us is encrypted. This protects the information you provide to us. 
 
 
 
@@ -189,7 +189,7 @@ Decision Analyst, Inc.
 604 Avenue H East   
 Arlington, Texas 76011   
 Phone numbers:   
-Toll-free, 1-800-262-5974   
+Within the U.S., 1-817-649-5241   
 International, 1-817-640-6166   
 Email: [privacy@decisionanalyst.com](mailto:privacy@decisionanalyst.com?subject=QuestionRegardingACOPPrivacyPolicy)
 
@@ -199,8 +199,7 @@ For more information about Internet privacy and the privacy guidelines we follow
 
   * [Safe Harbor Overview](http://www.export.gov/safeharbor/index.asp)
   * [Safe Harbor Privacy Principles](http://www.export.gov/safeharbor/eu/eg_main_018475.asp)
-  * [VeriSign Authentication Services](http://www.verisign.com/)
-
+  * 
 
 
 Back to top
