@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the mheonline.com privacy policy that was archived on 2013-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130508150948id_/https%3A//www.mheonline.com/pages/display/privacynotice_view) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mheonline.com privacy policy that was archived on 2013-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131105011037id_/https%3A//www.mheonline.com/pages/display/privacynotice_view) for the most accurate reproduction.*
 
-# MHEonline.com
+# McGraw-Hill Education PreK-12
 
 WHAT PERSONALLY IDENTIFIABLE INFORMATION ("PII") DOES McGRAW-HILL SCHOOL EDUCATION (U.S.) COLLECT ABOUT YOU?
 
 We have established safeguards and use reasonable security measures to protect your PII from unauthorized access and use. Your PII is stored in a secure location in the U.S. and access is limited to authorized persons.
 
-To review and confirm the accuracy of your PII, or to contact us with concerns or questions, please write to: [seg_privacy@mcgraw-hill.com](mailto:seg_privacy@mcgraw-hill.com "seg_privacy@mcgraw-hill.com") or Privacy Official, McGraw-Hill School Education, 8787 Orion Place, Columbus, Ohio 43240. 
+To review and confirm the accuracy of your PII, or to contact us with concerns or questions, please write to: [MHSE.privacy@mheducation.com](mailto:MHSE.privacy@mheducation.com "MHSE.privacy@mheducation.com") or Privacy Official, McGraw-Hill School Education, 8787 Orion Place, Columbus, Ohio 43240. 
 
 **Please note that by using this web site (the "Site"), you consent to the use of the cookies described below.**
 
@@ -37,7 +37,7 @@ You can change your Web browser's Internet preferences to disable or delete cook
 
 If you are visiting this site using a mobile device such as a smartphone or tablet, please refer to the manufacturer's instructions on how to manage cookies.
 
-Write to us at: [seg_privacy@mcgraw-hill.com](mailto:seg_privacy@mcgraw-hill.com "seg_privacy@mcgraw-hill.com") or Privacy Official, McGraw-Hill School Education, 8787 Orion Place, Columbus, Ohio 43240and let us know if you no longer wish to be contacted for marketing purposes by e-mail, mail, telephone or fax - or by any method.
+Write to us at: [MHSE.privacy@mheducation.com](mailto:MHSE.privacy@mheducation.com "MHSE.privacy@mheducation.com") or Privacy Official, McGraw-Hill School Education, 8787 Orion Place, Columbus, Ohio 43240 and let us know if you no longer wish to be contacted for marketing purposes by e-mail, mail, telephone or fax - or by any method.
 
 We do not knowingly collect personally identifiable information from children under the age of 13. If you are under 13, please do not give us any personally identifiable information.
 
