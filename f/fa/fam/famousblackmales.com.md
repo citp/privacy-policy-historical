@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the famousblackmales.com privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601014412id_/http%3A//track.famousblackmales.com/information/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the famousblackmales.com privacy policy that was archived on 2013-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131105165955id_/http%3A//track.famousblackmales.com/information/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy Statement
 
