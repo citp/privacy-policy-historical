@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the importgenius.com privacy policy that was archived on 2012-02-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120201134611id_/http%3A//privacy-policy.truste.com/verified-policy/www.importgenius.com) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the importgenius.com privacy policy that was archived on 2013-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131105013039id_/http%3A//privacy-policy.truste.com/verified-policy/www.importgenius.com) for the most accurate reproduction.*
 
 # Privacy Policy for www.importgenius.com
 
@@ -10,7 +10,7 @@ This privacy statement describes how Import Genius collects and uses the persona
 
 Import Genius is a Participant in the TRUSTe Privacy Seal Program. TRUSTe is an independent organization whose mission is to advance privacy and trust in the networked world. This Web site has agreed to have its privacy practices monitored for compliance by TRUSTe.
 
-If you have questions or concerns regarding this policy, you should first contact us at [ryan@importgenius.com ](mailto:ryan@importgenius.com). If you do not receive acknowledgment of your inquiry, or if your inquiry has not been satisfactorily addressed, you should then contact [TRUSTe](http://www.truste.org/consumers/watchdog_complaint.php). TRUSTe will then serve as a liaison with the Web site to resolve your concerns.
+If you have questions or concerns regarding this policy, you should first contact us at [info@importgenius.com ](mailto:info@importgenius.com). If you do not receive acknowledgment of your inquiry, or if your inquiry has not been satisfactorily addressed, you should then contact [TRUSTe](http://www.truste.org/consumers/watchdog_complaint.php). TRUSTe will then serve as a liaison with the Web site to resolve your concerns.
 
 ## Collection and Use of Personal Information
 
@@ -69,13 +69,13 @@ The security of your personal information is important to us. When you enter sen
 
 We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security.
 
-If you have any questions about security on our Web site, you can contact us at [ryan@importgenius.com ](mailto:ryan@importgenius.com)
+If you have any questions about security on our Web site, you can contact us at [info@importgenius.com ](mailto:info@importgenius.com)
 
 ## Additional Policy Information
 
 **Correcting and Updating Your Personal Information**
 
-To review and update your personal information to ensure it is accurate, contact us at [ryan@importgenius.com ](mailto:ryan@importgenius.com).
+To review and update your personal information to ensure it is accurate, contact us at [info@importgenius.com ](mailto:info@importgenius.com).
 
 **Notification of Privacy Statement Changes**
 
@@ -85,8 +85,8 @@ You can contact us about this privacy statement by writing or email us at the ad
 
 Import Genius 
 
-7275 N. Scottsdale Road #1016 
+9150 E Del Camino Dr #116 
 
-Scottsdale, AZ, United States 85253
+Scottsdale, AZ, United States 85258
 
-Phone: 480-522-6310
+Phone: 855-573-9976
