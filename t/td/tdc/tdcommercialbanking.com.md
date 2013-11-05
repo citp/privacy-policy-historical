@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tdcommercialbanking.com privacy policy that was archived on 2013-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130529160013id_/http%3A//www.td.com/privacy/index_inc.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tdcommercialbanking.com privacy policy that was archived on 2013-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131105215239id_/http%3A//www.td.com/privacy/index_inc.html) for the most accurate reproduction.*
 
 # TD Bank Financial Group - Privacy and Security - TD Privacy Highlights
 
