@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the emptymirrorbooks.com privacy policy that was archived on 2013-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130512014057id_/http%3A//www.emptymirrorbooks.com/ftc-disclosure-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the emptymirrorbooks.com privacy policy that was archived on 2013-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131105100307id_/http%3A//www.emptymirrorbooks.com/ftc-disclosure-privacy-policy) for the most accurate reproduction.*
 
 # FTC Disclosure & Privacy Policy
 
 ### FTC Disclosure:
 
-This blog accepts forms of advertising, sponsorship, paid insertions or other forms of compensation.
+This website accepts forms of advertising, sponsorship, paid insertions or other forms of compensation, such as books, CDs, or other materials submitted for the purpose of a possible review. 
 
-The compensation received may influence the advertising content, topics or posts made in this blog. That content, advertising space or post may not always be identified as paid or sponsored content.
+The compensation received may influence the advertising content, topics or posts made on this website. That content, advertising space or post may not always be identified as paid or sponsored content.
 
-The owner(s) of this blog is compensated to provide opinion on products, services, websites and various other topics. Even though the owner(s) of this blog receives compensation for our posts or advertisements, we always give our honest opinions, findings, beliefs, or experiences on those topics or products. The views and opinions expressed on this blog are purely the bloggers’ own. Any product claim, statistic, quote or other representation about a product or service should be verified with the manufacturer, provider or party in question.
+The owner(s) of this blog is compensated to provide opinion on products, services, websites and various other topics. **Even though the owner(s) of this blog receives compensation for our posts or advertisements, we always give our honest opinions, findings, beliefs, or experiences on those topics or products. The views and opinions expressed on this website are purely the writers’ own.** Any product claim, statistic, quote or other representation about a product or service should be verified with the manufacturer, provider or party in question.
 
 This blog does contain content which might present a conflict of interest. This content may not always be identified.
 
@@ -20,7 +20,7 @@ Empty Mirror is a participant in the Amazon Services LLC Associates Program, an 
 
 **What information do we collect?**
 
-We collect information from you when you register on our site, place an order, subscribe to our newsletter, fill out a form. 
+We collect information from you when you register on our site, place an order, subscribe to our newsletter, fill out a form.
 
 When ordering merchandise or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address, credit card information. You may, however, visit our site anonymously.
 
@@ -30,7 +30,7 @@ Users may opt out of the use of the DART cookie by visiting the Google ad and co
 
 **What do we use your information for?**
 
-Any of the information we collect from you may be used in one of the following ways: 
+Any of the information we collect from you may be used in one of the following ways:
 
 ; To personalize your experience  
 (your information helps us to better respond to your individual needs)
@@ -38,19 +38,17 @@ Any of the information we collect from you may be used in one of the following w
 ; To improve customer service  
 (your information helps us to more effectively respond to your customer service requests and support needs)
 
-; To process transactions  
-
+; To process transactions
 
 > Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.
 
-; To send periodic emails  
-
+; To send periodic emails
 
 > The email address you provide for order processing, will only be used to send you information and updates pertaining to your order.
 
 **How do we protect your information?**
 
-We implement a variety of security measures to maintain the safety of your personal information when you place an order or enter, submit, or access your personal information. 
+We implement a variety of security measures to maintain the safety of your personal information when you place an order or enter, submit, or access your personal information.
 
 We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to?keep the information confidential.
 
@@ -86,13 +84,12 @@ By using our site, you consent to our [web site privacy policy](http://www.freep
 
 **Changes to our Privacy Policy**
 
-If we decide to change our privacy policy, we will post those changes on this page, and/or update the Privacy Policy modification date below. 
+If we decide to change our privacy policy, we will post those changes on this page, and/or update the Privacy Policy modification date below.
 
 This policy was last modified on 2/4/12
 
 **Contacting Us**
 
-If there are any questions regarding this privacy policy you may contact us using the information below. 
+If there are any questions regarding this privacy policy you may contact us using the information below.
 
-http://www.emptymirrorbooks.com/  
-
+http://www.emptymirrorbooks.com/
