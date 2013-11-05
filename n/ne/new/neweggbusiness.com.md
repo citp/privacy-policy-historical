@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the neweggbusiness.com privacy policy that was archived on 2013-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130627045256id_/http%3A//www.neweggbusiness.com/HelpInfo/PrivacySecurity.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the neweggbusiness.com privacy policy that was archived on 2013-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131105050447id_/http%3A//www.neweggbusiness.com/HelpInfo/PrivacySecurity.aspx) for the most accurate reproduction.*
 
-# NeweggBusiness - Computer Parts, PC Components, Laptop Computers, Digital Cameras and more!
+# 
 
 ##  Information Collection and Use
 
