@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the roboforex.com privacy policy that was archived on 2013-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130520180043id_/http%3A//www.roboforex.com/about/security-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the roboforex.com privacy policy that was archived on 2013-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131105194220id_/http%3A//www.roboforex.com/about/security-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
