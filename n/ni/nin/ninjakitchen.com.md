@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ninjakitchen.com privacy policy that was archived on 2013-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130605205411id_/http%3A//www.ninjakitchen.com/privacyPolicy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ninjakitchen.com privacy policy that was archived on 2013-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131105192649id_/http%3A//www.ninjakitchen.com/privacyPolicy.shtml) for the most accurate reproduction.*
 
 # Ninja® Privacy Policy | Official Site
 
@@ -33,7 +33,7 @@ Even though most Web browsers accept "cookies", most browsers also give you the 
 
 We use the personal information you provide for internal purposes, such as confirming and tracking your order, subscription, or registration, analyzing trends and statistics, informing you of our new products, services and offers, and providing you with information from and about Euro-Pro and its sister companies. 
 
-From time to time, we make our mailing list (names and addresses only) and general shopping activity available to carefully screened companies whose products we believe will be of interest to you and whose privacy practices meet the Direct Marketing Association's privacy standards. We will not share any personal financial information. If you prefer that we do not share any information with these companies, please contact us at [customerservice@euro-pro.com](mailto:customerservice@euro-pro.com) (see below).
+From time to time, we make our mailing list and general shopping activity available to carefully screened companies whose products we believe will be of interest to you and whose privacy practices meet the Direct Marketing Association's privacy standards. We do not share phone numbers or any personal financial information. If you prefer that we do not share any information with these companies, please contact us at [customerservice@euro-pro.com](mailto:customerservice@euro-pro.com) (see below).
 
 ####  How does Euro-Pro Operating LLC protect my information? 
 
