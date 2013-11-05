@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onlinefreeebooks.net privacy policy that was archived on 2013-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130507111015id_/http%3A//www.onlinefreeebooks.net/privacy-policy-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlinefreeebooks.net privacy policy that was archived on 2013-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131105223410id_/http%3A//www.onlinefreeebooks.net/privacy-policy-2) for the most accurate reproduction.*
 
 # Privacy Policy » PDF ebooks, Owners Service Manuals & Guides » OnlineFreeEbooks.net
 
