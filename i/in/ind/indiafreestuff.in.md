@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the indiafreestuff.in privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602011750id_/http%3A//indiafreestuff.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indiafreestuff.in privacy policy that was archived on 2013-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131105175039id_/http%3A//indiafreestuff.in/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-##  Privacy Policy 
+##  Privacy Policy
 
-**Last Updated March 2012**
+ **Last Updated March 2012**
 
 Indiafreestuff.in knows that your privacy is very important, and to keep you informed about our privacy practices we ask that you please read the guidelines described below. Keep in mind that because Indiafreestuff.in  is a growing website and internet technologies are constantly evolving, these guidelines are subject to change and any said changes will be posted on this page.
 
 What kind of infomation does  Indiafreestuff.in collect from you?
 
-**Personol Information:-  **
+ **Personol Information:-  **
 
   * During registration for membership, we may collect personal information such as your name, email address or interests.
   * We do not collect information of non-members  who browse our website such as Ip, Data or Cookies
@@ -20,28 +20,28 @@ What kind of infomation does  Indiafreestuff.in collect from you?
 
 
 
-**Other Infomations:-**
+ **Other Infomations:-**
 
 we may also collect these  informations from you-  your operating system, browser type, your ISP and your IP Address.
 
-**Cookies:-**
+ **Cookies:-**
 
 A cookie is a piece of data that a website transfers to an individual’s hard drive for record-keeping purposes. Cookies can facilitate a user’s ongoing access to and use of a site, and they allow us to track usage patterns and to compile data that can help us improve our content and target advertising. If you do not want information collected through the use of cookies, there is a simple procedure in most browsers that allows you to deny or accept the cookie feature. But you should note that cookies may be necessary to provide you with features such as merchandise transactions or registered services.
 
-## **DoubleClick DART cookie:  **
+##  **DoubleClick DART cookie:  **
 
 Google uses the DoubleClick DART cookie on publisher websites displaying AdSense for content ads.
 
-**What is the DoubleClick DART cookie?**
+ **What is the DoubleClick DART cookie?**
 
 The DoubleClick DART cookie is used by Google in the ads served on publisher websites displaying AdSense for content ads. When users visit an AdSense publisher’s website and either view or click on an ad, a cookie may be dropped on that end user’s browser. The data gathered from these cookies will be used to help AdSense publishers better serve and manage the ads on their site(s) and across the web.
 
-**DoubleClick DART cookie:**
+ **DoubleClick DART cookie:**
 
 * Google, as a third party vendor, uses cookies to serve ads on your site.  
 * Google’s use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet.  
 * Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
 
-**Use of Information**
+ **Use of Information**
 
 We use your information to provide our services to you and for marketing and client relationship purposes. You may receive e-mails from us to let you know about new products, services, and upcoming events that may interest you.
