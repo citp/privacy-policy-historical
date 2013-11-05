@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jda.com privacy policy that was archived on 2013-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130613104706id_/http%3A//www.jda.com/company/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jda.com privacy policy that was archived on 2013-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131105045716id_/http%3A//www.jda.com/company/privacy-policy) for the most accurate reproduction.*
 
 # JDA Privacy/Legal Statement - JDA Software: The Supply Chain Company
 
@@ -21,7 +21,7 @@ This Web Site is controlled by JDA from its offices within the United States of 
 Arthur, Decision Series, E3, Engage, Intactix, JDA, JDA Portfolio, Manugistics, MMS, Portfolio _Enabled_ , Timera, VistaCPG, and Win/DSS are registered trademarks with the United States Patent and Trademark Office, and Advertising and Promotion Management, _CategoryAdvisor_ , Intactix Knowledge Base, Intellect, JDALearn, JDA Intellect, JDA Marketplace, JDA Real Demand Chain Results, Performance Analysis by IDEAS, Planogram Converter, Planogram Generator, Portfolio, Portfolio BOS, Portfolio Infrastructure, Portfolio Knowledge Base, Portfolio Merchandise Management, Portfolio Merchandise Management System-I, Portfolio POS, Portfolio Registry, Portfolio Workforce Management, Real Demand Chain Results, and Trade Event Management are trademarks of JDA Software Group, Inc. Business Management Institute, BMI, Optimize on Demand, and Passport JDA are service marks of JDA Software Group, Inc. All other company and product names may be trademarks of their respective owners. The information contained herein is subject to change without notice.
 
 **GENERAL**  
-JDA may revise these terms at any time by updating this posting. You should visit this page from time to time to review the then-current terms because they are binding on you. Certain provisions of these terms may be superseded by expressly designated legal notices or terms located on particular pages at this site. Copyright © 1999-2008 JDA Software Group, Inc. All Rights Reserved. All other trademarks and copyrights are the property of their respective holders.
+JDA may revise these terms at any time by updating this posting. You should visit this page from time to time to review the then-current terms because they are binding on you. Certain provisions of these terms may be superseded by expressly designated legal notices or terms located on particular pages at this site. Copyright © 1999-2013 JDA Software Group, Inc. All Rights Reserved. All other trademarks and copyrights are the property of their respective holders.
 
 **PRIVACY POLICY**  
 JDA is committed to respecting and protecting your privacy. To that end, we have prepared this Privacy Statement to disclose and describe our information gathering and dissemination practices for the Web Site.
@@ -54,6 +54,9 @@ If you have any questions about this Privacy Policy, the practices of this Web S
 
 **JDA PRODUCT PATENTS**  
 [Click here](https://web.archive.org/company/product-patents/) to view the current list of JDA Product Patents.
+
+**JDA SAFE HARBOR STATEMENT**  
+[Click Here](https://web.archive.org/company/display-collateral/pID/3592/) to view our Safe Harbor Statement. 
 
 **OTHER JDA LEGAL LINKS  **  
 [Click here](http://www.jda.com/intactixLegal.asp) to view standard Intactix Software License Agreements.
