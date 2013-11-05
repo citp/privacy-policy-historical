@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the earlytorise.com privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601133232id_/http%3A//www.earlytorise.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the earlytorise.com privacy policy that was archived on 2013-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131105040423id_/http%3A//www.earlytorise.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -14,7 +14,7 @@ In other words, any data you send us is encrypted, so in the unlikely event a ha
 
 Early To Rise does not sell or rent your name to anyone. That means that only authorized employees of Early To Rise ever have access to any information you submit. We may use your name and address to send you information on other Early To Rise products that may suit your interests. And, although we disagree with it, we must turn over any pertinent information to any law enforcement agency that takes the proper steps to require it.
 
-If at any time you wish to be removed from our mailing list, please contact our customer service department by [clicking here](http://www.supportatetr.com/helpdesk) or by using the unsubscribe link included in every email we send out.
+If at any time you wish to be removed from our mailing list, please contact our customer service department by [clicking here](mailto:support@etrhelp.com) or by using the unsubscribe link included in every email we send out.
 
 **E-mail**
 
