@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the muslimmatrimony.com privacy policy that was archived on 2012-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121116200226id_/http%3A//www.muslimmatrimony.com/site/index.php%3Fact%3Dprivacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the muslimmatrimony.com privacy policy that was archived on 2013-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131105024020id_/http%3A//www.muslimmatrimony.com/site/index.php%3Fact%3Dprivacypolicy) for the most accurate reproduction.*
 
 # Muslim Matrimony, Matrimony, Indian Matrimony
 
