@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the virginblue.com.au privacy policy that was archived on 2013-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130608162435id_/http%3A//www.virginaustralia.com/au/en/about-us/legal-policies/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the virginblue.com.au privacy policy that was archived on 2013-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131105015146id_/http%3A//www.virginaustralia.com/us/en/about-us/legal-policies/privacy) for the most accurate reproduction.*
 
 # Privacy | Virgin Australia
 
