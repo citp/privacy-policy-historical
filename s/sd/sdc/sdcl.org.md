@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sdcl.org privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601071924id_/http%3A//sdpublic.sdcounty.ca.gov/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sdcl.org privacy policy that was archived on 2013-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131105020236id_/http%3A//sdpublic.sdcounty.ca.gov/privacy) for the most accurate reproduction.*
 
 # San Diego County - Web and Privacy Policies
 
