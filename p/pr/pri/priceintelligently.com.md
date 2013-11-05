@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the priceintelligently.com privacy policy that was archived on 2013-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130403014726id_/http%3A//www.priceintelligently.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the priceintelligently.com privacy policy that was archived on 2013-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131105192526id_/http%3A//www.priceintelligently.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Price Intelligently
 
@@ -12,4 +12,4 @@ We collect personally identifiable information, like names, postal addresses, em
 
 If you have any questions, concerns, or comments about our privacy policy you may contact us using the information below: 
 
-By e-mail: [privacy@intelligent.ly](mailto:privacy@intelligent.ly). We reserve the right to make changes to this policy. Any changes to this policy will be posted. 
+By e-mail: [speakwith@priceintelligently.com](mailto:speakwith@priceintelligently.com). We reserve the right to make changes to this policy. Any changes to this policy will be posted. 
