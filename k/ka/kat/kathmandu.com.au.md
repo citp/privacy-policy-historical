@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kathmandu.com.au privacy policy that was archived on 2013-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130506233040id_/http%3A//www.kathmandu.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kathmandu.com.au privacy policy that was archived on 2013-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131106084521id_/http%3A//www.kathmandu.com.au/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
