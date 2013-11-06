@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the beaumont.edu privacy policy that was archived on 2013-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130526014455id_/http%3A//www.beaumont.edu/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beaumont.edu privacy policy that was archived on 2013-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131106131528id_/http%3A//www.beaumont.edu/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policies
 
 ## HIPAA Notice of Privacy Policy
 
-The Health Insurance Portability and Accountability Act (HIPAA) requires all health care providers to provide [**Notice of Privacy Practices**](https://web.archive.org/files/imce/pdfs/Beaumont_Privacy_Policy_040213.pdf "Beaumont Notice of Privacy Policy"). The notice will inform you of the ways we may use your information and the occasions on which we may disclose this information to others.
+The Health Insurance Portability and Accountability Act (HIPAA) requires all health care providers to provide [**Notice of Privacy Practices**](https://web.archive.org/files/imce/pdfs/Beaumont_Privacy_Practices_091113%20FINAL.pdf). The notice will inform you of the ways we may use your information and the occasions on which we may disclose this information to others.
 
 The notice will also explain your rights regarding your health information:
 
