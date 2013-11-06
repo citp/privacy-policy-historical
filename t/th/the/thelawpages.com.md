@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thelawpages.com privacy policy that was archived on 2013-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130529155133id_/http%3A//www.thelawpages.com/legal-directory/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thelawpages.com privacy policy that was archived on 2013-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131106122535id_/http%3A//www.thelawpages.com/legal-directory/privacypolicy.php) for the most accurate reproduction.*
 
 # thelawpages.com© Contact Form
 
