@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the ere.net privacy policy that was archived on 2013-05-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130505050821id_/http%3A//www.ere.net/about/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ere.net privacy policy that was archived on 2013-11-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131106083205id_/http%3A//www.ere.net/about/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
 	<script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
@@ -64,8 +64,10 @@ google_ad_slots["ERE-Sidebar"] = googletag.defineSlot('/3857430/ERE-Sidebar', [3
 google_ad_slots["ERE-Wallpaper"] = googletag.defineSlot('/3857430/ERE-Wallpaper', [1500, 600], 'google-ads-ere-wallpaper').addService(googletag.pubads());
 google_ad_slots["ERE-Pushdown"] = googletag.defineSlot('/3857430/ERE-Pushdown', [970, 90], 'google-ads-ere-pushdown').addService(googletag.pubads());
 google_ad_slots["ERE-Popup"] = googletag.defineSlot('/3857430/ERE-Popup', [550, 480], 'google-ads-ere-popup').addService(googletag.pubads());
+google_ad_slots["ERE-Popup-XLarge"] = googletag.defineSlot('/3857430/ERE-Popup-XLarge', [620, 620], 'google-ads-ere-popup-xlarge').addService(googletag.pubads());
 googletag.pubads().setTargeting("section", "site");
 googletag.pubads().setTargeting("tags", []);
+googletag.pubads().setTargeting("logged_in", "false");
 googletag.pubads().enableSyncRendering();
 //googletag.pubads().enableSingleRequest();
 googletag.enableServices();
@@ -81,8 +83,6 @@ googletag.adSlotHasAd = function(adSlot) {
     position: fixed;
     top: 10%;
     left: 50%;
-    width: 550px;
-    margin-left: -300px;
     background-color: #fff;
     border: 8px solid #ccc;
     padding: 21px 20px 15px;
@@ -129,7 +129,7 @@ googletag.adSlotHasAd = function(adSlot) {
 }
 
 </style>
-		<!-- Podcasting 2.3.11: http://podcastingplugin.com/ -->
+		<!-- Podcasting 2.4: http://podcastingplugin.com/ -->
 		<script type="text/javascript">
 			AudioPlayer.setup("http://www.ere.net/wp-content/plugins/podcasting/player/player.swf", {  
 				width: 290			});
@@ -151,7 +151,7 @@ googletag.adSlotHasAd = function(adSlot) {
 	<div id="body-container">
 	<div id="header-network-container">
 		<div id="header-network">
-			<p>If you need to know about new tools first then you need to be at <a href="http://recruitinginnovationsummit.com/2013/">Recruiting Innovation Summit</a>.</p>			<ul>
+			<p>Receive daily articles &amp; headlines each day in your inbox with your free <a href="http://www.ere.net/subscribe?utm_source=linead&amp;utm_medium=homepageheader&amp;utm_campaign=homepageheadersubscribe">ERE Daily Subscription</a>.</p>			<ul>
 				<li id="network-ereawards"><a href="http://www.ereawards.com">ERE Awards</a></li>  
 				<li id="network-ereexpo"><a href="http://www.ereexpo.com">ERE Expo</a></li>
 				<li id="network-ere"><a href="http://www.ere.net">ERE.net</a></li>             
@@ -190,7 +190,7 @@ googletag.display('google-ads-ere-header');
 		</div>
 	</div>
 	<div id="page-container">
-        <div class="jqmWindow" style="display: none;" id="google-ads-popup-ad-container">
+        <div class="jqmWindow" style="width: 550px; margin-left: -303px; display: none;" id="google-ads-window-ERE-Popup">
     <a href="#" class="jqmClose jqmCloseIcon"><img src="http://www.ere.net/wp-content/themes/ere7/images/x.png" alt="x"></a>
     <div id="google-ads-ere-popup" style="width:550px; height:480px;">
 <script type="text/javascript">
@@ -206,7 +206,32 @@ googletag.display('google-ads-ere-popup');
       var popUpAdLoaded = googletag.adSlotHasAd(google_ad_slots['ERE-Popup']);
       if (popUpAdLoaded) {
 		$(window).load(function() {
-			$("#google-ads-popup-ad-container").jqm({
+			$("#google-ads-window-ERE-Popup").jqm({
+				overlay: 80
+			}).jqmShow();
+		});
+      }
+
+    });
+})(jQuery);
+</script>
+        <div class="jqmWindow" style="width: 620px; margin-left: -338px; display: none;" id="google-ads-window-ERE-Popup-XLarge">
+    <a href="#" class="jqmClose jqmCloseIcon"><img src="http://www.ere.net/wp-content/themes/ere7/images/x.png" alt="x"></a>
+    <div id="google-ads-ere-popup-xlarge" style="width:620px; height:620px;">
+<script type="text/javascript">
+googletag.display('google-ads-ere-popup-xlarge');
+</script>
+</div>
+	<p class="closer"><a class="jqmClose" href="#">Close this window</a></p>
+</div>
+<script type="text/javascript">
+;(function($) {
+    $(document).ready(function() {
+
+      var popUpAdLoaded = googletag.adSlotHasAd(google_ad_slots['ERE-Popup-XLarge']);
+      if (popUpAdLoaded) {
+		$(window).load(function() {
+			$("#google-ads-window-ERE-Popup-XLarge").jqm({
 				overlay: 80
 			}).jqmShow();
 		});
@@ -262,51 +287,51 @@ if (!isIncompatible) {
 										<div id="navigation-tag-cloud">
 											<div id="navigation-tag-cloud-closer"></div>
 											<h3>Browse Articles by Tag</h3>
-											<a href="http://www.ere.net/tags/advertising/" class="tag-link-25" title="175 topics" style="font-size: 1.7127814569536em;">advertising</a>
-<a href="http://www.ere.net/tags/assessments/" class="tag-link-111" title="175 topics" style="font-size: 1.7127814569536em;">assessments</a>
-<a href="http://www.ere.net/tags/branding/" class="tag-link-91" title="215 topics" style="font-size: 1.8235099337748em;">branding</a>
-<a href="http://www.ere.net/tags/careers/" class="tag-link-6" title="114 topics" style="font-size: 1.4498013245033em;">careers</a>
-<a href="http://www.ere.net/tags/coldcalling/" class="tag-link-108" title="52 topics" style="font-size: 0.97920529801325em;">coldcalling</a>
-<a href="http://www.ere.net/tags/college/" class="tag-link-7" title="117 topics" style="font-size: 1.463642384106em;">college</a>
-<a href="http://www.ere.net/tags/corporatecareerswebsite/" class="tag-link-9" title="104 topics" style="font-size: 1.3944370860927em;">corporatecareerswebsite</a>
-<a href="http://www.ere.net/tags/corporaterecruiting/" class="tag-link-10" title="1,520 topics" style="font-size: 3em;">corporaterecruiting</a>
-<a href="http://www.ere.net/tags/diversity/" class="tag-link-11" title="73 topics" style="font-size: 1.186821192053em;">diversity</a>
-<a href="http://www.ere.net/tags/dotjobs/" class="tag-link-310" title="52 topics" style="font-size: 0.97920529801325em;">dotjobs</a>
-<a href="http://www.ere.net/tags/economicdata/" class="tag-link-157" title="199 topics" style="font-size: 1.7819867549669em;">economicdata</a>
-<a href="http://www.ere.net/tags/employeereferrals/" class="tag-link-13" title="139 topics" style="font-size: 1.5743708609272em;">employeereferrals</a>
-<a href="http://www.ere.net/tags/financials/" class="tag-link-179" title="88 topics" style="font-size: 1.2975496688742em;">financials</a>
-<a href="http://www.ere.net/tags/global/" class="tag-link-123" title="58 topics" style="font-size: 1.0484105960265em;">global</a>
-<a href="http://www.ere.net/tags/hiring/" class="tag-link-17" title="623 topics" style="font-size: 2.4740397350993em;">hiring</a>
-<a href="http://www.ere.net/tags/interviewing/" class="tag-link-19" title="184 topics" style="font-size: 1.7404635761589em;">interviewing</a>
-<a href="http://www.ere.net/tags/jobboards/" class="tag-link-20" title="365 topics" style="font-size: 2.1418543046358em;">jobboards</a>
-<a href="http://www.ere.net/tags/jobdescriptions/" class="tag-link-109" title="87 topics" style="font-size: 1.2837086092715em;">jobdescriptions</a>
-<a href="http://www.ere.net/tags/legal/" class="tag-link-92" title="97 topics" style="font-size: 1.3529139072848em;">legal</a>
-<a href="http://www.ere.net/tags/metrics/" class="tag-link-22" title="161 topics" style="font-size: 1.657417218543em;">metrics</a>
-<a href="http://www.ere.net/tags/military/" class="tag-link-152" title="53 topics" style="font-size: 0.99304635761589em;">military</a>
-<a href="http://www.ere.net/tags/mobile/" class="tag-link-141" title="59 topics" style="font-size: 1.0622516556291em;">mobile</a>
-<a href="http://www.ere.net/tags/networking/" class="tag-link-5" title="67 topics" style="font-size: 1.1314569536424em;">networking</a>
-<a href="http://www.ere.net/tags/offers/" class="tag-link-23" title="58 topics" style="font-size: 1.0484105960265em;">offers</a>
-<a href="http://www.ere.net/tags/onboarding/" class="tag-link-24" title="69 topics" style="font-size: 1.1591390728477em;">onboarding</a>
-<a href="http://www.ere.net/tags/outsourcing/" class="tag-link-131" title="46 topics" style="font-size: 0.91em;">outsourcing</a>
-<a href="http://www.ere.net/tags/passivecandidates/" class="tag-link-114" title="100 topics" style="font-size: 1.3667549668874em;">passivecandidates</a>
-<a href="http://www.ere.net/tags/pay/" class="tag-link-145" title="48 topics" style="font-size: 0.9376821192053em;">pay</a>
-<a href="http://www.ere.net/tags/recruiters/" class="tag-link-33" title="1,392 topics" style="font-size: 2.9446357615894em;">recruiters</a>
-<a href="http://www.ere.net/tags/resumes/" class="tag-link-112" title="71 topics" style="font-size: 1.1729801324503em;">resumes</a>
-<a href="http://www.ere.net/tags/retention/" class="tag-link-27" title="148 topics" style="font-size: 1.6020529801325em;">retention</a>
-<a href="http://www.ere.net/tags/screening/" class="tag-link-32" title="144 topics" style="font-size: 1.5882119205298em;">screening</a>
-<a href="http://www.ere.net/tags/socialrecruiting/" class="tag-link-250" title="313 topics" style="font-size: 2.0588079470199em;">socialrecruiting</a>
-<a href="http://www.ere.net/tags/sourcing/" class="tag-link-29" title="326 topics" style="font-size: 2.0726490066225em;">sourcing</a>
-<a href="http://www.ere.net/tags/survey/" class="tag-link-169" title="99 topics" style="font-size: 1.3667549668874em;">survey</a>
-<a href="http://www.ere.net/tags/talentacquisitionsystems/" class="tag-link-93" title="98 topics" style="font-size: 1.3667549668874em;">talentacquisitionsystems</a>
-<a href="http://www.ere.net/tags/talentmanagement/" class="tag-link-31" title="253 topics" style="font-size: 1.9203973509934em;">talentmanagement</a>
-<a href="http://www.ere.net/tags/technology/" class="tag-link-26" title="233 topics" style="font-size: 1.8788741721854em;">technology</a>
-<a href="http://www.ere.net/tags/thirdpartyrecruiting/" class="tag-link-3" title="81 topics" style="font-size: 1.2421854304636em;">thirdpartyrecruiting</a>
-<a href="http://www.ere.net/tags/tools/" class="tag-link-36" title="61 topics" style="font-size: 1.0760927152318em;">tools</a>
-<a href="http://www.ere.net/tags/trends/" class="tag-link-18" title="440 topics" style="font-size: 2.252582781457em;">trends</a>
-<a href="http://www.ere.net/tags/vendors/" class="tag-link-151" title="226 topics" style="font-size: 1.8650331125828em;">vendors</a>
-<a href="http://www.ere.net/tags/web20/" class="tag-link-120" title="99 topics" style="font-size: 1.3667549668874em;">web2.0</a>
-<a href="http://www.ere.net/tags/webinar/" class="tag-link-222" title="290 topics" style="font-size: 2.0034437086093em;">webinar</a>
-<a href="http://www.ere.net/tags/workforceplanning/" class="tag-link-119" title="92 topics" style="font-size: 1.3252317880795em;">workforceplanning</a>										</div>
+											<a href="http://www.ere.net/tags/advertising/" class="tag-link-25" title="194 topics" style="font-size: 1.7082638888889em;">advertising</a>
+<a href="http://www.ere.net/tags/assessments/" class="tag-link-111" title="196 topics" style="font-size: 1.7082638888889em;">assessments</a>
+<a href="http://www.ere.net/tags/branding/" class="tag-link-91" title="240 topics" style="font-size: 1.8388888888889em;">branding</a>
+<a href="http://www.ere.net/tags/careers/" class="tag-link-6" title="124 topics" style="font-size: 1.4325em;">careers</a>
+<a href="http://www.ere.net/tags/coldcalling/" class="tag-link-108" title="56 topics" style="font-size: 0.93902777777778em;">coldcalling</a>
+<a href="http://www.ere.net/tags/college/" class="tag-link-7" title="133 topics" style="font-size: 1.4760416666667em;">college</a>
+<a href="http://www.ere.net/tags/corporatecareerswebsite/" class="tag-link-9" title="113 topics" style="font-size: 1.3744444444444em;">corporatecareerswebsite</a>
+<a href="http://www.ere.net/tags/corporaterecruiting/" class="tag-link-10" title="1,528 topics" style="font-size: 3em;">corporaterecruiting</a>
+<a href="http://www.ere.net/tags/diversity/" class="tag-link-11" title="84 topics" style="font-size: 1.1857638888889em;">diversity</a>
+<a href="http://www.ere.net/tags/economicdata/" class="tag-link-157" title="218 topics" style="font-size: 1.7808333333333em;">economicdata</a>
+<a href="http://www.ere.net/tags/employeereferrals/" class="tag-link-13" title="145 topics" style="font-size: 1.5195833333333em;">employeereferrals</a>
+<a href="http://www.ere.net/tags/financials/" class="tag-link-179" title="94 topics" style="font-size: 1.2583333333333em;">financials</a>
+<a href="http://www.ere.net/tags/global/" class="tag-link-123" title="62 topics" style="font-size: 0.99708333333333em;">global</a>
+<a href="http://www.ere.net/tags/hiring/" class="tag-link-17" title="651 topics" style="font-size: 2.4629861111111em;">hiring</a>
+<a href="http://www.ere.net/tags/interviewing/" class="tag-link-19" title="202 topics" style="font-size: 1.7372916666667em;">interviewing</a>
+<a href="http://www.ere.net/tags/jobboards/" class="tag-link-20" title="386 topics" style="font-size: 2.1436805555556em;">jobboards</a>
+<a href="http://www.ere.net/tags/jobdescriptions/" class="tag-link-109" title="94 topics" style="font-size: 1.2583333333333em;">jobdescriptions</a>
+<a href="http://www.ere.net/tags/legal/" class="tag-link-92" title="112 topics" style="font-size: 1.3599305555556em;">legal</a>
+<a href="http://www.ere.net/tags/linkedin/" class="tag-link-209" title="59 topics" style="font-size: 0.96805555555556em;">linkedin</a>
+<a href="http://www.ere.net/tags/metrics/" class="tag-link-22" title="173 topics" style="font-size: 1.6356944444444em;">metrics</a>
+<a href="http://www.ere.net/tags/military/" class="tag-link-152" title="59 topics" style="font-size: 0.96805555555556em;">military</a>
+<a href="http://www.ere.net/tags/mobile/" class="tag-link-141" title="69 topics" style="font-size: 1.0696527777778em;">mobile</a>
+<a href="http://www.ere.net/tags/networking/" class="tag-link-5" title="67 topics" style="font-size: 1.040625em;">networking</a>
+<a href="http://www.ere.net/tags/offers/" class="tag-link-23" title="71 topics" style="font-size: 1.0841666666667em;">offers</a>
+<a href="http://www.ere.net/tags/onboarding/" class="tag-link-24" title="76 topics" style="font-size: 1.1277083333333em;">onboarding</a>
+<a href="http://www.ere.net/tags/passivecandidates/" class="tag-link-114" title="108 topics" style="font-size: 1.3454166666667em;">passivecandidates</a>
+<a href="http://www.ere.net/tags/pay/" class="tag-link-145" title="57 topics" style="font-size: 0.93902777777778em;">pay</a>
+<a href="http://www.ere.net/tags/recruiters/" class="tag-link-33" title="1,405 topics" style="font-size: 2.9564583333333em;">recruiters</a>
+<a href="http://www.ere.net/tags/resumes/" class="tag-link-112" title="80 topics" style="font-size: 1.1567361111111em;">resumes</a>
+<a href="http://www.ere.net/tags/retention/" class="tag-link-27" title="163 topics" style="font-size: 1.5921527777778em;">retention</a>
+<a href="http://www.ere.net/tags/screening/" class="tag-link-32" title="160 topics" style="font-size: 1.5921527777778em;">screening</a>
+<a href="http://www.ere.net/tags/socialrecruiting/" class="tag-link-250" title="339 topics" style="font-size: 2.0565972222222em;">socialrecruiting</a>
+<a href="http://www.ere.net/tags/sourcing/" class="tag-link-29" title="342 topics" style="font-size: 2.0711111111111em;">sourcing</a>
+<a href="http://www.ere.net/tags/startups/" class="tag-link-344" title="54 topics" style="font-size: 0.91em;">startups</a>
+<a href="http://www.ere.net/tags/survey/" class="tag-link-169" title="120 topics" style="font-size: 1.4034722222222em;">survey</a>
+<a href="http://www.ere.net/tags/talentacquisitionsystems/" class="tag-link-93" title="105 topics" style="font-size: 1.3309027777778em;">talentacquisitionsystems</a>
+<a href="http://www.ere.net/tags/talentmanagement/" class="tag-link-31" title="277 topics" style="font-size: 1.9259722222222em;">talentmanagement</a>
+<a href="http://www.ere.net/tags/technology/" class="tag-link-26" title="241 topics" style="font-size: 1.8388888888889em;">technology</a>
+<a href="http://www.ere.net/tags/thirdpartyrecruiting/" class="tag-link-3" title="87 topics" style="font-size: 1.2002777777778em;">thirdpartyrecruiting</a>
+<a href="http://www.ere.net/tags/tools/" class="tag-link-36" title="61 topics" style="font-size: 0.98256944444444em;">tools</a>
+<a href="http://www.ere.net/tags/trends/" class="tag-link-18" title="456 topics" style="font-size: 2.2452777777778em;">trends</a>
+<a href="http://www.ere.net/tags/vendors/" class="tag-link-151" title="232 topics" style="font-size: 1.824375em;">vendors</a>
+<a href="http://www.ere.net/tags/web20/" class="tag-link-120" title="99 topics" style="font-size: 1.2873611111111em;">web2.0</a>
+<a href="http://www.ere.net/tags/webinar/" class="tag-link-222" title="290 topics" style="font-size: 1.955em;">webinar</a>
+<a href="http://www.ere.net/tags/workforceplanning/" class="tag-link-119" title="94 topics" style="font-size: 1.2583333333333em;">workforceplanning</a>										</div>
 									</div>
 								</div>
 							</li>
@@ -400,18 +425,18 @@ if (!isIncompatible) {
 		<div id="sidebar">
 		<div id="recently-featured" class="widget ere_widget_recently_featured"><h4>Recently Featured</h4><ul>
 <li class="first">
-	<img class="author-photo" src="http://www.ere.net/wp-content/authors/john-zappe-small.jpg" alt="John Zappe photo">	<h5><a class="list-post-title" href="http://www.ere.net/2013/04/16/the-new-roi-for-social-media-recruiting/">The New ROI for Social Media Recruiting</a></h5>	<p class="byline">by John Zappe <span class="post-date">Apr&nbsp;16,&nbsp;2013, 12:53&nbsp;pm&nbsp;ET</span></p>
-	<p class="excerpt">Jody Ordioni wrote a prescient view about the ROI of social recruiting which posted Monday morning. Monday night I discovered... <a href="http://www.ere.net/2013/04/16/the-new-roi-for-social-media-recruiting/">more »</a></p>
+	<img class="author-photo" src="http://www.ere.net/wp-content/authors/todd-raphael-small.png" alt="Todd Raphael photo">	<h5><a class="list-post-title" href="http://www.ere.net/2013/10/22/los-angeles-wants-probation-officers-but-this-time-they-better-not-be-troublemakers/">Los Angeles Wants Probation Officers — But This Time, They Better Not Be Troublemakers</a></h5>	<p class="byline">by Todd Raphael <span class="post-date">Oct&nbsp;22,&nbsp;2013, 6:42&nbsp;am&nbsp;ET</span></p>
+	<p class="excerpt">They're looking for probation officers here in Los Angeles, but the county doesn't want to repeat the experience of 2005 to 2... <a href="http://www.ere.net/2013/10/22/los-angeles-wants-probation-officers-but-this-time-they-better-not-be-troublemakers/">more »</a></p>
 </li>
-<li><a class="list-post-title" href="http://www.ere.net/2013/03/22/source-of-hire-report-referrals-career-sites-job-boards-dominate/">Source of Hire Report: Referrals, Career Sites, Job Boards Dominate</a> <span class="post-date">Mar&nbsp;22,&nbsp;2013, 12:43&nbsp;am&nbsp;ET</span></li>
-<li><a class="list-post-title" href="http://www.ere.net/2013/03/12/theladders-sued-in-consumer-class-action-that-calls-site-a-scam/">TheLadders Sued in Consumer Class Action That Calls Site a “Scam”</a> <span class="post-date">Mar&nbsp;12,&nbsp;2013, 3:34&nbsp;pm&nbsp;ET</span></li>
-<li><a class="list-post-title" href="http://www.ere.net/2013/02/28/job-search-traffic-surged-in-january-putting-indeed-com-on-top/">Job Search Traffic Surged in January, Putting Indeed.com on Top</a> <span class="post-date">Feb&nbsp;28,&nbsp;2013, 5:56&nbsp;am&nbsp;ET</span></li>
-<li><a class="list-post-title" href="http://www.ere.net/2013/02/25/expect-the-tight-it-market-to-get-tighter-this-year/">Expect the Tight IT Market to Get Tighter This Year</a> <span class="post-date">Feb&nbsp;25,&nbsp;2013, 2:19&nbsp;am&nbsp;ET</span></li>
-<li><a class="list-post-title" href="http://www.ere.net/2013/02/14/silkroad-survey-shows-referrals-job-boards-are-top-sources-of-hire/">SilkRoad Survey Shows Referrals, Job Boards Are Top Sources of Hire</a> <span class="post-date">Feb&nbsp;14,&nbsp;2013, 4:51&nbsp;pm&nbsp;ET</span></li>
-<li><a class="list-post-title" href="http://www.ere.net/2013/02/12/black-hole-getting-brighter-among-cande-winners/">Black Hole Getting Brighter Among CandE Winners</a> <span class="post-date">Feb&nbsp;12,&nbsp;2013, 1:58&nbsp;am&nbsp;ET</span></li>
-<li><a class="list-post-title" href="http://www.ere.net/2013/02/06/nashville-launching-grand-ole-effort-for-it-employees/">Nashville Launching Grand Ole Effort for IT Employees</a> <span class="post-date">Feb&nbsp;6,&nbsp;2013, 2:30&nbsp;pm&nbsp;ET</span></li>
-<li><a class="list-post-title" href="http://www.ere.net/2013/01/29/facebooks-graph-search-is-the-future-of-social-recruiting/">Facebook’s Graph Search Is the Future of Social Recruiting</a> <span class="post-date">Jan&nbsp;29,&nbsp;2013, 6:00&nbsp;am&nbsp;ET</span></li>
-<li><a class="list-post-title" href="http://www.ere.net/2013/01/17/charting-the-demand-for-americas-top-jobs/">Charting the Demand for America’s Top Jobs</a> <span class="post-date">Jan&nbsp;17,&nbsp;2013, 6:13&nbsp;am&nbsp;ET</span></li>
+<li><a class="list-post-title" href="http://www.ere.net/2013/10/16/more-employers-to-open-thanksgiving-this-year-and-even-more-in-2014/">More Employers to Open Thanksgiving This Year and Even More In 2014</a> <span class="post-date">Oct&nbsp;16,&nbsp;2013, 5:49&nbsp;am&nbsp;ET</span></li>
+<li><a class="list-post-title" href="http://www.ere.net/2013/10/04/1-brand-build-an-employer-brand-fortress-by-integrating-with-your-corporate-brand/">1 Brand: Build an Employer Brand Fortress by Integrating With Your Corporate Brand</a> <span class="post-date">Oct&nbsp;4,&nbsp;2013, 6:16&nbsp;am&nbsp;ET</span></li>
+<li><a class="list-post-title" href="http://www.ere.net/2013/09/22/lawsuit-accused-linkedin-of-hacking-users-and-spamming-their-contacts/">Lawsuit Accuses LinkedIn of Hacking Users and Spamming Their Contacts</a> <span class="post-date">Sep&nbsp;22,&nbsp;2013, 1:32&nbsp;pm&nbsp;ET</span></li>
+<li><a class="list-post-title" href="http://www.ere.net/2013/08/12/is-it-time-to-adopt-a-targeted-recruiting-effort-focused-on-gay-candidates/">Is it Time to Adopt a Targeted Recruiting Effort Focused on Gay Candidates?</a> <span class="post-date">Aug&nbsp;12,&nbsp;2013, 6:45&nbsp;am&nbsp;ET</span></li>
+<li><a class="list-post-title" href="http://www.ere.net/2013/08/01/when-you-want-to-show-your-culture-attract-attention-and-have-fun-recruiting-heres-the-video-you-make/">When You Want to Show Your Culture, Attract Attention, and Have Fun Recruiting, Here’s the Video You Make</a> <span class="post-date">Aug&nbsp;1,&nbsp;2013, 6:45&nbsp;am&nbsp;ET</span></li>
+<li><a class="list-post-title" href="http://www.ere.net/2013/07/30/air-force-ups-pay-bonus-as-it-struggles-to-retain-fighter-pilots/">Air Force Ups Pay, Bonus as it Struggles to Retain Fighter Pilots</a> <span class="post-date">Jul&nbsp;30,&nbsp;2013, 3:38&nbsp;pm&nbsp;ET</span></li>
+<li><a class="list-post-title" href="http://www.ere.net/2013/07/22/workers-underestimate-demand-but-even-the-employed-are-looking-and-will-look/">Workers Underestimate Demand, But Even the Employed Are Looking and Will Look</a> <span class="post-date">Jul&nbsp;22,&nbsp;2013, 6:54&nbsp;am&nbsp;ET</span></li>
+<li><a class="list-post-title" href="http://www.ere.net/2013/07/10/new-rite-of-passage-for-teens-summer-unemployment/">New Rite of Passage for Teens: Summer Unemployment</a> <span class="post-date">Jul&nbsp;10,&nbsp;2013, 6:05&nbsp;am&nbsp;ET</span></li>
+<li><a class="list-post-title" href="http://www.ere.net/2013/06/19/are-you-losing-hires-because-of-fat-bias/">Are You Losing Hires Because of Fat Bias?</a> <span class="post-date">Jun&nbsp;19,&nbsp;2013, 5:14&nbsp;am&nbsp;ET</span></li>
 </ul>
 <p class="more"><a href="http://www.ere.net/feed/recently-featured/rss/" class="rss"><img src="http://www.ere.net/wp-content/themes/ere7/images/rss-20x20.gif" alt="RSS feed"></a><a href="http://www.ere.net/content/featured/">more featured articles...</a></p></div><div id="banner-ad-sidebar" class="widget ere_banner_ad_sidebar"><div id="google-ads-ere-sidebar" style="width:300px; height:250px;">
 <script type="text/javascript">
@@ -423,28 +448,28 @@ googletag.display('google-ads-ere-sidebar');
 <li class="" style="display: none"><a href="#most-commented">most commented</a></li>
 </ul>
 <div class="clear_both js-tabs-bottom"><br></div><ol id="most-emailed" class="js-tab-pane">
-<li><a class="list-post-title" href="http://www.ere.net/2013/04/11/linkedin-inmail-messages-that-get-results/">LinkedIn InMail Messages That Get Results</a> <span class="post-date">Apr&nbsp;11,&nbsp;2013, 5:30&nbsp;am&nbsp;ET</span></li>
-<li><a class="list-post-title" href="http://www.ere.net/2013/04/25/why-you-cant-hire-high-achievers/">Why You Can’t Hire High Achievers</a> <span class="post-date">Apr&nbsp;25,&nbsp;2013, 6:45&nbsp;am&nbsp;ET</span></li>
-<li><a class="list-post-title" href="http://www.ere.net/2013/04/10/lousy-hires-lousy-culture-go-figure/">Lousy Hires = Lousy Culture. Go Figure.</a> <span class="post-date">Apr&nbsp;10,&nbsp;2013, 6:28&nbsp;am&nbsp;ET</span></li>
-<li><a class="list-post-title" href="http://www.ere.net/2013/04/12/quick-tips-for-starting-your-new-employees-off-right/">Quick Tips for Starting Your New Employees Off Right</a> <span class="post-date">Apr&nbsp;12,&nbsp;2013, 5:21&nbsp;am&nbsp;ET</span></li>
-<li><a class="list-post-title" href="http://www.ere.net/2013/04/18/you-need-to-know-what-youre-recruiting-for/">Know What You’re Recruiting For</a> <span class="post-date">Apr&nbsp;18,&nbsp;2013, 6:17&nbsp;am&nbsp;ET</span></li>
-<li><a class="list-post-title" href="http://www.ere.net/2013/04/22/advanced-items-for-your-recruiting-agenda-what-should-google-do-next/">Advanced Items for Your Recruiting Agenda — What Should Google Do Next?</a> <span class="post-date">Apr&nbsp;22,&nbsp;2013, 5:37&nbsp;am&nbsp;ET</span></li>
-<li><a class="list-post-title" href="http://www.ere.net/2013/05/02/5-ways-to-build-a-crowdsourcing-strategy-to-uncover-hard-to-find-talent/">5 Ways to Build a Crowdsourcing Strategy to Uncover Hard-to-Find Talent</a> <span class="post-date">May&nbsp;2,&nbsp;2013, 6:45&nbsp;am&nbsp;ET</span></li>
-<li><a class="list-post-title" href="http://www.ere.net/2013/04/09/tonights-the-night-job-seekers-will-be-searching-for-jobs-on-their-phones/">Tonight’s the Night Job-seekers Will Be Searching for Jobs on Their Phones</a> <span class="post-date">Apr&nbsp;9,&nbsp;2013, 5:56&nbsp;am&nbsp;ET</span></li>
-<li><a class="list-post-title" href="http://www.ere.net/2013/04/10/linkedin-recruiter-unveils-new-look-candidate-matching-feature/">LinkedIn Recruiter Unveils New Look, Candidate Matching Feature</a> <span class="post-date">Apr&nbsp;10,&nbsp;2013, 12:01&nbsp;pm&nbsp;ET</span></li>
-<li><a class="list-post-title" href="http://www.ere.net/2013/04/16/how-to-get-more-clicks-on-your-job-ads/">How to Get More Clicks on Your Job Ads</a> <span class="post-date">Apr&nbsp;16,&nbsp;2013, 6:23&nbsp;am&nbsp;ET</span></li>
+<li><a class="list-post-title" href="http://www.ere.net/2013/10/21/winning-the-war-to-keep-your-employees-requires-re-recruiting-your-top-talent/">Winning ‘the War to Keep Your Employees’ Requires Re-Recruiting Your Top Talent</a> <span class="post-date">Oct&nbsp;21,&nbsp;2013, 6:28&nbsp;am&nbsp;ET</span></li>
+<li><a class="list-post-title" href="http://www.ere.net/2013/10/28/get-rid-of-your-bad-hires-quickly-with-a-no-fault-divorce-process/">Get Rid of Your Bad Hires Quickly With a ‘No-fault Divorce’ Process</a> <span class="post-date">Oct&nbsp;28,&nbsp;2013, 8:00&nbsp;am&nbsp;ET</span></li>
+<li><a class="list-post-title" href="http://www.ere.net/2013/10/14/cold-calling-is-still-hot/">Cold Calling Is Still Hot</a> <span class="post-date">Oct&nbsp;14,&nbsp;2013, 6:44&nbsp;am&nbsp;ET</span></li>
+<li><a class="list-post-title" href="http://www.ere.net/2013/10/09/why-a-mobile-career-site-is-vital-to-reaching-diversity-candidates/">Why a Mobile Career Site is Vital to Reaching Diversity Candidates</a> <span class="post-date">Oct&nbsp;9,&nbsp;2013, 6:34&nbsp;am&nbsp;ET</span></li>
+<li><a class="list-post-title" href="http://www.ere.net/2013/10/22/5-secrets-to-effective-recruiting/">5 Secrets to Effective Recruiting</a> <span class="post-date">Oct&nbsp;22,&nbsp;2013, 6:17&nbsp;am&nbsp;ET</span></li>
+<li><a class="list-post-title" href="http://www.ere.net/2013/10/07/implementing-actionable-predictive-analytics-in-talent-management/">Implementing Actionable Predictive Analytics in Talent Management</a> <span class="post-date">Oct&nbsp;7,&nbsp;2013, 5:01&nbsp;am&nbsp;ET</span></li>
+<li><a class="list-post-title" href="http://www.ere.net/2013/10/15/8-questions-you-need-to-ask-to-turnaround-employee-turnover/">8 Questions You Need to Ask to Turn Around Employee Turnover</a> <span class="post-date">Oct&nbsp;15,&nbsp;2013, 6:45&nbsp;am&nbsp;ET</span></li>
+<li><a class="list-post-title" href="http://www.ere.net/2013/10/30/dont-bother-with-employment-branding/">Don’t Bother With Employment Branding</a> <span class="post-date">Oct&nbsp;30,&nbsp;2013, 6:42&nbsp;am&nbsp;ET</span></li>
+<li><a class="list-post-title" href="http://www.ere.net/2013/10/08/e-verify-shutdown-means-return-to-paper-i-9s-h1-bs-halted/">E-Verify Shutdown Means Return to Paper I-9s; H1-Bs Halted</a> <span class="post-date">Oct&nbsp;8,&nbsp;2013, 3:29&nbsp;pm&nbsp;ET</span></li>
+<li><a class="list-post-title" href="http://www.ere.net/2013/10/23/increasing-your-power-in-conversations-with-hiring-managers-and-clients-an-essential-sales-skill-every-recruiter-must-develop/">Increasing Your Power in Conversations With Hiring Managers and Clients: An essential sales skill every recruiter must develop</a> <span class="post-date">Oct&nbsp;23,&nbsp;2013, 6:45&nbsp;am&nbsp;ET</span></li>
 </ol>
 <ol id="most-commented" class="js-tab-pane" style="display: none">
-<li><a class="list-post-title" href="http://www.ere.net/2013/04/30/bullhorn-report-linkedin-most-popular-site-for-social-recruiting/" title="Bullhorn Report: LinkedIn Most Popular Site for Social Recruiting">Bullhorn Report: LinkedIn Most Popular Site for Social Recruiting</a> <span class="post-date">Apr&nbsp;30,&nbsp;2013, 9:02&nbsp;am&nbsp;ET</span></li>
-<li><a class="list-post-title" href="http://www.ere.net/2013/04/08/executive-hiring-gone-rogue/" title="Executive Hiring Gone Rogue">Executive Hiring Gone Rogue</a> <span class="post-date">Apr&nbsp;8,&nbsp;2013, 8:08&nbsp;am&nbsp;ET</span></li>
-<li><a class="list-post-title" href="http://www.ere.net/2013/04/29/when-bad-things-happen-to-great-people-ere-author-suffers-horrific-freak-accident/" title="When Bad Things Happen to Great People: ERE Author Suffers Horrific, Freak Accident">When Bad Things Happen to Great People: ERE Author Suffers Horrific, Freak Accident</a> <span class="post-date">Apr&nbsp;29,&nbsp;2013, 1:53&nbsp;pm&nbsp;ET</span></li>
-<li><a class="list-post-title" href="http://www.ere.net/2013/04/26/game-on-for-employee-gamification/" title="Game on for Employee Gamification">Game on for Employee Gamification</a> <span class="post-date">Apr&nbsp;26,&nbsp;2013, 5:12&nbsp;am&nbsp;ET</span></li>
-<li><a class="list-post-title" href="http://www.ere.net/2013/04/16/an-honest-look-at-what-job-candidates-really-want/" title="An Honest Look at What Job Candidates Really Want">An Honest Look at What Job Candidates Really Want</a> <span class="post-date">Apr&nbsp;16,&nbsp;2013, 5:24&nbsp;am&nbsp;ET</span></li>
-<li><a class="list-post-title" href="http://www.ere.net/2013/04/10/facebook-and-phone-calls-a-recipe-for-recruiting-success/" title="Facebook and Phone Calls: A Recipe for Recruiting Success">Facebook and Phone Calls: A Recipe for Recruiting Success</a> <span class="post-date">Apr&nbsp;10,&nbsp;2013, 12:25&nbsp;am&nbsp;ET</span></li>
-<li><a class="list-post-title" href="http://www.ere.net/2013/04/23/finally-your-essential-overview-of-hiring-for-startups/" title="Finally, Your Essential Overview of Hiring for Startups">Finally, Your Essential Overview of Hiring for Startups</a> <span class="post-date">Apr&nbsp;23,&nbsp;2013, 6:45&nbsp;am&nbsp;ET</span></li>
-<li><a class="list-post-title" href="http://www.ere.net/2013/04/11/linkedin-inmail-messages-that-get-results/" title="LinkedIn InMail Messages That Get Results">LinkedIn InMail Messages That Get Results</a> <span class="post-date">Apr&nbsp;11,&nbsp;2013, 5:30&nbsp;am&nbsp;ET</span></li>
-<li><a class="list-post-title" href="http://www.ere.net/2013/04/24/let-me-tell-you-what-a-good-recruiting-boss-is/" title="Let Me Tell You What a Good Recruiting Boss Is">Let Me Tell You What a Good Recruiting Boss Is</a> <span class="post-date">Apr&nbsp;24,&nbsp;2013, 5:53&nbsp;am&nbsp;ET</span></li>
-<li><a class="list-post-title" href="http://www.ere.net/2013/04/24/what-were-doing-to-help-veterans-find-work/" title="What We're Doing to Help Veterans Find Work">What We're Doing to Help Veterans Find Work</a> <span class="post-date">Apr&nbsp;24,&nbsp;2013, 6:45&nbsp;am&nbsp;ET</span></li>
+<li><a class="list-post-title" href="http://www.ere.net/2013/10/14/cold-calling-is-still-hot/" title="Cold Calling Is Still Hot">Cold Calling Is Still Hot</a> <span class="post-date">Oct&nbsp;14,&nbsp;2013, 6:44&nbsp;am&nbsp;ET</span></li>
+<li><a class="list-post-title" href="http://www.ere.net/2013/10/07/beyond-the-keyword-and-past-the-social-media-referral-to-find-purple-squirrels/" title="Beyond the Keyword and Past the Social Media Referral to Find Purple Squirrels">Beyond the Keyword and Past the Social Media Referral to Find Purple Squirrels</a> <span class="post-date">Oct&nbsp;7,&nbsp;2013, 6:45&nbsp;am&nbsp;ET</span></li>
+<li><a class="list-post-title" href="http://www.ere.net/2013/10/18/why-cold-outreach-will-always-prevail-over-the-ats/" title="Why Cold Outreach Will Always Prevail Over the ATS">Why Cold Outreach Will Always Prevail Over the ATS</a> <span class="post-date">Oct&nbsp;18,&nbsp;2013, 6:45&nbsp;am&nbsp;ET</span></li>
+<li><a class="list-post-title" href="http://www.ere.net/2013/10/17/a-sales-managers-perspective-on-recruiting/" title="A Sales Manager’s Perspective on Recruiting">A Sales Manager’s Perspective on Recruiting</a> <span class="post-date">Oct&nbsp;17,&nbsp;2013, 6:26&nbsp;am&nbsp;ET</span></li>
+<li><a class="list-post-title" href="http://www.ere.net/2013/10/30/dont-bother-with-employment-branding/" title="Don’t Bother With Employment Branding">Don’t Bother With Employment Branding</a> <span class="post-date">Oct&nbsp;30,&nbsp;2013, 6:42&nbsp;am&nbsp;ET</span></li>
+<li><a class="list-post-title" href="http://www.ere.net/2013/10/08/weve-got-to-stop-over-promising-and-under-delivering-or-retention-will-suffer/" title="We've Got to Stop Over-promising and Under-delivering, or Retention Will Suffer">We've Got to Stop Over-promising and Under-delivering, or Retention Will Suffer</a> <span class="post-date">Oct&nbsp;8,&nbsp;2013, 6:15&nbsp;am&nbsp;ET</span></li>
+<li><a class="list-post-title" href="http://www.ere.net/2013/10/15/8-questions-you-need-to-ask-to-turnaround-employee-turnover/" title="8 Questions You Need to Ask to Turn Around Employee Turnover">8 Questions You Need to Ask to Turn Around Employee Turnover</a> <span class="post-date">Oct&nbsp;15,&nbsp;2013, 6:45&nbsp;am&nbsp;ET</span></li>
+<li><a class="list-post-title" href="http://www.ere.net/2013/10/16/social-media-recruiting-fatigue/" title="Social Media Recruiting Fatigue">Social Media Recruiting Fatigue</a> <span class="post-date">Oct&nbsp;16,&nbsp;2013, 6:45&nbsp;am&nbsp;ET</span></li>
+<li><a class="list-post-title" href="http://www.ere.net/2013/10/09/better-candidate-communication/" title="Better Candidate Communication">Better Candidate Communication</a> <span class="post-date">Oct&nbsp;9,&nbsp;2013, 6:45&nbsp;am&nbsp;ET</span></li>
+<li><a class="list-post-title" href="http://www.ere.net/2013/11/01/techies-are-tracking-your-email-are-you-on-their-list/" title="Techies Are Tracking Your Email. Are You on Their List?">Techies Are Tracking Your Email. Are You on Their List?</a> <span class="post-date">Nov&nbsp;1,&nbsp;2013, 6:08&nbsp;am&nbsp;ET</span></li>
 </ol>
 <p class="more"><a href="http://www.ere.net/feed/most-popular/rss/" class="rss"><img src="http://www.ere.net/wp-content/themes/ere7/images/rss-20x20.gif" alt="RSS feed"></a> <a href="http://www.ere.net/most-popular/">more popular articles...</a></p></div>  
 	</div>
