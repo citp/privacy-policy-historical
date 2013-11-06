@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ragecollection.com privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602172805id_/http%3A//ragecollection.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ragecollection.com privacy policy that was archived on 2013-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131106123759id_/http%3A//ragecollection.com/privacy) for the most accurate reproduction.*
 
 # RAGE COLLECTION - Privacy
 
