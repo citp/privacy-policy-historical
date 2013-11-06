@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the slixa.com privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502091314id_/https%3A//www.slixa.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the slixa.com privacy policy that was archived on 2013-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131106042042id_/https%3A//www.slixa.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Slixa
 
@@ -76,6 +76,6 @@ Last Updated: _Sept 26, 2012_
 
 #### 9\. Special Provision for Minors
 
-> 9.1 Slixa.com and other Slixa sites ARE NOT intended for persons under the age of majority in their jurisdiction. Slixa does not solicit or collect personal information from or about children on its Website(s). It is a violation of Slixa policy and Federal law for any person under the age of majority to use, access, or be featured on slixa.com or any other Slixa website. If You suspect that a minor has used, or is being featured on, any Slixa website, please contact us immediately at [legal@mnworks.com](mailto:legal@mnworks.com). 
+> 9.1 Slixa.com and other Slixa sites ARE NOT intended for persons under the age of majority in their jurisdiction. Slixa does not solicit or collect personal information from or about children on its Website(s). It is a violation of Slixa policy and Federal law for any person under the age of majority to use, access, or be featured on slixa.com or any other Slixa website. If You suspect that a minor has used, or is being featured on, any Slixa website, please contact us immediately at [legal@slixa.com](mailto:legal@slixa.com). 
 
-If You have any questions about this Policy, please contact us at [legal@mnworks.com](mailto:legal@mnworks.com)
+If You have any questions about this Policy, please contact us at [legal@slixa.com](mailto:legal@slixa.com)
