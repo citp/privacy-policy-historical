@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the helidirect.com privacy policy that was archived on 2012-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121104080336id_/http%3A//helidirect.com/content.php%3Fpage%3DPrivacy_Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the helidirect.com privacy policy that was archived on 2013-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131106052822id_/http%3A//www.helidirect.com/content.php%3Fpage%3DPrivacy_Policy) for the most accurate reproduction.*
 
-# - Best deals on RC Helicopters, RC Helicopter Parts, Fiberglass Canopy, Radio Control Helicopters,, Page Privacy_Policy
+# - HeliDirect -- Best Customer Services, Fast Shipping, Great Selections and Best Deals on R/C, Page Privacy_Policy
 
 **What information do we collect?** ** **
 
