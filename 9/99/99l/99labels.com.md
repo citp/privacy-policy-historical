@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 99labels.com privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603035615id_/http%3A//99labels.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 99labels.com privacy policy that was archived on 2013-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131106090535id_/http%3A//99labels.com/privacy-policy.html) for the most accurate reproduction.*
 
 # 99labels.com | Privacy Policy
 
