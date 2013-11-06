@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the duduta.com privacy policy that was archived on 2013-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130511234952id_/http%3A//www.duduta.com/Help-Our_Policy-Privacy_Notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the duduta.com privacy policy that was archived on 2013-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131106094011id_/http%3A//www.duduta.com/Help-Our_Policy-Privacy_Notice) for the most accurate reproduction.*
 
 # Privacy Notice
 
@@ -6,11 +6,11 @@ DuDuTa respects your privacy and takes your online safety seriously. In order to
 
 **DuDuTa's Privacy Policy**
 
-Thank you for accessing the website ("Site") of DuDuTa.com, Limited. ("DuDuTa.com," that's us). We respect your privacy and want to protect your personal information. To learn more, please read our Privacy Notice. 
+Thank you for accessing the website ("Site") of DuDuTa, Limited. ("DuDuTa," that's us). We respect your privacy and want to protect your personal information. To learn more, please read our Privacy Notice. 
 
 This Privacy Notice explains how we collect, use, and (under certain conditions) disclose your personal information. This Privacy Notice also explains the steps we have taken to secure your personal information. Finally, this Privacy Notice explains your options regarding the collection, use, and disclosure of your personal information. By visiting our Site, you accept the practices described in this Notice. 
 
-This Privacy Notice applies only to this Site. This privacy policy does not necessarily apply to our offline collection of your personal information. Please see below for details. We are not responsible for the content or privacy practices on any non-DuDuTa.com website to which this Site links or that links to this Site. 
+This Privacy Notice applies only to this Site. This privacy policy does not necessarily apply to our offline collection of your personal information. Please see below for details. We are not responsible for the content or privacy practices on any non-DuDuTa website to which this Site links or that links to this Site. 
 
 **INFORMATION COLLECTION AND USE**
 
@@ -68,11 +68,11 @@ While we use industry-standard precautions to safeguard your personal informatio
 
 **OPT OUT/CORRECTIONS**
 
-Upon your request, we will (a) correct or update your personal information; (b) stop sending emails to your email address; and/or (c) disable your account to prevent any future purchases through that account. You can make these requests at the customer information section, or by telephoning, or emailing your request to DuDuTa.com’s Customer Support department at System@duduta.com Please do not email your credit card number or other sensitive information. 
+Upon your request, we will (a) correct or update your personal information; (b) stop sending emails to your email address; and/or (c) disable your account to prevent any future purchases through that account. You can make these requests at the customer information section, or by telephoning, or emailing your request to DuDuTa’s Customer Support department at contact@duduta.com Please do not email your credit card number or other sensitive information. 
 
 **OFFLINE COLLECTION, USE & DISCLOSURE OF INFORMATION **
 
-As you might expect from DuDuTa.com, the majority of information that we collect is obtained through our Site, and this Privacy Policy applies only to that online collection of personal information. We also try to protect the privacy of your personal information that is collected offline. When we need to store information (such as order information), we will enter it into our database through SSL encryption (See the Data Security section above for more information). There are other ways we could learn of personal information offline (for example, we suppose someone could send us a letter including some return address information), and this Policy does not discuss or try to predict all of those methods or uses. As mentioned, we primarily sell merchandise, not information, and we will try to treat offline collection, uses, and disclosures consistently with our relevant online practices. 
+As you might expect from DuDuTa, the majority of information that we collect is obtained through our Site, and this Privacy Policy applies only to that online collection of personal information. We also try to protect the privacy of your personal information that is collected offline. When we need to store information (such as order information), we will enter it into our database through SSL encryption (See the Data Security section above for more information). There are other ways we could learn of personal information offline (for example, we suppose someone could send us a letter including some return address information), and this Policy does not discuss or try to predict all of those methods or uses. As mentioned, we primarily sell merchandise, not information, and we will try to treat offline collection, uses, and disclosures consistently with our relevant online practices. 
 
 **UPDATES TO THIS POLICY**
 
