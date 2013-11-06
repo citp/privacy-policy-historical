@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the time4writing.com privacy policy that was archived on 2013-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130619231921id_/http%3A//www.time4writing.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the time4writing.com privacy policy that was archived on 2013-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131106133301id_/http%3A//www.time4writing.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Time4Writing.com | Time4Writing
 
