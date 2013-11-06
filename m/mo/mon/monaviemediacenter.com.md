@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the monaviemediacenter.com privacy policy that was archived on 2013-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130510172015id_/http%3A//www.monavie.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the monaviemediacenter.com privacy policy that was archived on 2013-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131106021928id_/http%3A//www.monavie.com/privacy-policy) for the most accurate reproduction.*
 
 # MonaVie Privacy Policy | MonaVie
 
-[](http://privacy-policy.truste.com/click-with-confidence/ctv/en/www.monavie.com)**Last updated: May 17, 2010**
+[](https://privacy.truste.com/privacy-seal/Monavie/validation?rid=7d83ab79-72c1-46ce-a425-d5c37063a0b2 "TRUSTe European Safe Harbor certification")
+
+**Last updated: May 17, 2010**
 
 MonaVie is committed to protecting your privacy and ensuring the security of the information you submit to us. We want your use of the MonaVie web sites and the services we offer to be productive and safe and we have taken great efforts to keep your information confidential and secure at all times within our system. Our Privacy Policy was developed as an extension of our commitment to combine quality products and services with integrity in dealing with our users. Our Privacy Policy is designed to assist you in understanding how we collect, use and safeguard the personal information you provide to us and to assist you in making informed decisions when using our site and our products and services. MonaVie’s Privacy Policy illustrates our commitment to your privacy and security.
 
