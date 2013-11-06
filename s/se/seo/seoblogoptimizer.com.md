@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the seoblogoptimizer.com privacy policy that was archived on 2013-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130508002924id_/http%3A//seoblogoptimizer.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seoblogoptimizer.com privacy policy that was archived on 2013-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131106073441id_/http%3A//seoblogoptimizer.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | SEOBlogOptimizer
+# Privacy Policy | SEOBlogOptimizer.com
 
 #### What information do we collect?
 
