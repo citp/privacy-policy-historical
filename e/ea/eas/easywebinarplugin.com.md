@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the easywebinarplugin.com privacy policy that was archived on 2013-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130630072420id_/http%3A//www.easywebinarplugin.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the easywebinarplugin.com privacy policy that was archived on 2013-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131106181244id_/http%3A//www.easywebinarplugin.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Easy Webinar Plugin
 
@@ -26,39 +26,34 @@ CSZ Corporation does not use or disclose sensitive personal information, such as
 
 CSZ Corporation keeps track of the websites and pages you visit within CSZ Corporation, in order to determine what CSZ Corporation services are the most popular. This data is used to deliver customized content and advertising within CSZ Corporation to customers whose behavior indicates that they are interested in a particular subject area.
 
-CSZ Corporation websites will disclose your personal information, without notice, only if required to do so by law or in the good faith belief that such action is necessary to: (a) conform to the edicts of the law or comply with legal process served on CSZ Corporation or the site; (b) protect and defend the rights or property of CSZ Corporation (including enforcing this agreement); and, (c) act under exigent circumstances to protect the personal safety of users of CSZ Corporation, or the public. 
+CSZ Corporation websites will disclose your personal information, without notice, only if required to do so by law or in the good faith belief that such action is necessary to: (a) conform to the edicts of the law or comply with legal process served on CSZ Corporation or the site; (b) protect and defend the rights or property of CSZ Corporation (including enforcing this agreement); and, (c) act under exigent circumstances to protect the personal safety of users of CSZ Corporation, or the public.
 
 Use of Cookies
 
 The CSZ Corporation website use "cookies" to help you personalize your online experience. A cookie is a text file that is placed on your hard disk by a Web page server. Cookies are not used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a web server in the domain that issued the cookie to you. 
 
-One of the primary purposes of cookies is to provide a convenience feature to save you time. The purpose of a cookie is to tell the Web server that you have returned to a specific page. For example, if you personalize CSZ Corporation pages, or register with CSZ Corporation site or services, a cookie helps CSZ Corporation to recall your specific information on subsequent visits. This simplifies the process of recording your personal information, such as billing addresses, shipping addresses, and so on. When you return to the same CSZ Corporation website, the information you previously provided can be retrieved, so you can easily use the CSZ Corporation features that you customized. 
+One of the primary purposes of cookies is to provide a convenience feature to save you time. The purpose of a cookie is to tell the Web server that you have returned to a specific page. For example, if you personalize CSZ Corporation pages, or register with CSZ Corporation site or services, a cookie helps CSZ Corporation to recall your specific information on subsequent visits. This simplifies the process of recording your personal information, such as billing addresses, shipping addresses, and so on. When you return to the same CSZ Corporation website, the information you previously provided can be retrieved, so you can easily use the CSZ Corporation features that you customized.
 
-You have the ability to accept or decline cookies. Most Web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. If you choose to decline cookies, you may not be able to fully experience the interactive features of the CSZ Corporation services or websites you visit. 
+You have the ability to accept or decline cookies. Most Web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. If you choose to decline cookies, you may not be able to fully experience the interactive features of the CSZ Corporation services or websites you visit.
 
 If you provide CSZ Corporation with user information, you have the following rights with respect to that information:
 
-| To review the user information that you have supplied to us  
----|---  
-  |    
-| To request that we correct any errors, outdated information, or omissions in user information that you have supplied to us  
-  |    
-| To request that your user information not be used to contact you  
-  |    
-| To request that your user information be removed from any solicitation list that we use  
-  |    
-| To request that your user information be deleted from our records and  
-  |    
-| To opt out of being solicited by this website or third parties  
-  |    
-  
+  * To review the user information that you have supplied to us
+  * To request that we correct any errors, outdated information, or omissions in user information that you have supplied to us
+  * To request that your user information not be used to contact you
+  * To request that your user information be removed from any solicitation list that we use
+  * To request that your user information be deleted from our records and
+  * To opt out of being solicited by this website or third parties
+
+
+
 If you request that your user information be deleted from our records, there may be a brief delay in our processing that request, while verify that the request is valid and originates from you as opposed to an unauthorized third party. If you request that your information be deleted, we reserve the right to terminate and/or limit your access to the CSZ Corporation website.
 
 To exercise any of these rights, please contact us at [support@caseyzemanonline.com](mailto:support@caseyzemanonline.com)
 
 Security of your Personal Information
 
-No method of safeguarding information is 100% secure. CSZ Corporation uses a variety of security technologies and procedures to help protect your personal information from unauthorized access, use or disclosure. CSZ Corporation secures the personally identifiable information you provide on computer servers in a controlled, secure environment, protected from unauthorized access, use or disclosure. When personal information (such as a credit card number) is transmitted to other websites, it is protected through the use of encryption, such as the Secure Socket Layer (SSL) protocol. 
+No method of safeguarding information is 100% secure. CSZ Corporation uses a variety of security technologies and procedures to help protect your personal information from unauthorized access, use or disclosure. CSZ Corporation secures the personally identifiable information you provide on computer servers in a controlled, secure environment, protected from unauthorized access, use or disclosure. When personal information (such as a credit card number) is transmitted to other websites, it is protected through the use of encryption, such as the Secure Socket Layer (SSL) protocol.
 
 Changes to this Statement
 
@@ -66,7 +61,7 @@ CSZ Corporation will occasionally update this Statement of Privacy to reflect co
 
 Enforcement of this Privacy Statement
 
-If you have questions regarding this statement, you should first contact us at support@caseyzemanonline.com. If you do not receive acknowledgement of your inquiry or we have not addressed your inquiry to your satisfaction, you should then contact us at support@caseyzemanonline.com 
+If you have questions regarding this statement, you should first contact us at [support@caseyzemanonline.com](mailto:support@caseyzemanonline.com). If you do not receive acknowledgement of your inquiry or we have not addressed your inquiry to your satisfaction, you should then contact us at support@caseyzemanonline.com 
 
 To Unsubscribe From CSZ Corporation
 
@@ -79,5 +74,5 @@ CSZ Corporation welcomes your comments regarding this Statement of Privacy. If y
 CSZ Corporation is located at
 
 5482 Wilshire Blvd, Suite 1642,  
-Los Angeles, Ca 90036,   
-Phone   323 230 6403   Fax   323 230 5428.
+Los Angeles, Ca 90036,  
+Phone 323 230 6403 Fax 323 230 5428. 
