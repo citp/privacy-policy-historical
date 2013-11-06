@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freeadsau.com privacy policy that was archived on 2013-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130507025151id_/http%3A//www.freeadsau.com/static/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freeadsau.com privacy policy that was archived on 2013-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131106121558id_/http%3A//www.freeadsau.com/static/privacy-policy) for the most accurate reproduction.*
 
 # Free Ads Australia | Privacy Policy
 
