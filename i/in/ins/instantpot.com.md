@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the instantpot.com privacy policy that was archived on 2013-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130620170344id_/http%3A//instantpot.com/policies/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the instantpot.com privacy policy that was archived on 2013-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131106031515id_/http%3A//instantpot.com/policies/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-[](http://www.printfriendly.com/print/v2?url=http://instantpot.com/policies/privacy-policy/)
+[](http://www.printfriendly.com/print/v2?url=https://instantpot.com/policies/privacy-policy/)
 
 This Privacy Policy describes the terms of our commitment to respect and protect your privacy.
 
