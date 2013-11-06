@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the recentnigerianjobs.com privacy policy that was archived on 2013-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130404040557id_/http%3A//www.recentnigerianjobs.com/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the recentnigerianjobs.com privacy policy that was archived on 2013-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131106124900id_/http%3A//www.recentnigerianjobs.com/p/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy
+# None
+
+###  [Privacy Policy](http://www.recentnigerianjobs.com/p/privacy-policy.html)
 
 **Privacy Policy for recentnigerianjobs.com**
 
