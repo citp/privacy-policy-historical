@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the teachershealth.com.au privacy policy that was archived on 2013-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130512073517id_/http%3A//www.teachershealth.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teachershealth.com.au privacy policy that was archived on 2013-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131106011126id_/http%3A//www.teachershealth.com.au/privacy) for the most accurate reproduction.*
 
 # Privacy | Teachers Health Fund
 
@@ -47,7 +47,7 @@ You do not have to provide your personal information to us. However, if you do n
 
   * we may not be able to provide you with insurance or administer your insurance policies;
   * we may not be able to process, manage or pay out on your insurance claims;
-  * we may not be able to provide you with health services such as eyecare and dental services;
+  * we may not be able to provide you with health services such as [eyecare](http://www.teachershealth.com.au/eyecare/ "Teachers Eyecare") and dental services;
   * our third party service providers such as doctors, optometrists and dentists may not be able to provide you with services;
   * we may not be able to properly assess your health and lifestyle needs;
   * you may not be able to access our online or mobile member services.
