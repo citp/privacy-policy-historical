@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the whangout.com privacy policy that was archived on 2013-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130605045004id_/http%3A//whangout.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whangout.com privacy policy that was archived on 2013-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131106032708id_/http%3A//whangout.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy- WHangOut Webmaster Forum
 
