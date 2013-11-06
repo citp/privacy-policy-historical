@@ -1,18 +1,20 @@
-> *The following text is extracted and transformed from the potterybarn.com privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602113912id_/http%3A//www.potterybarn.com/about-us/privacy-policy.html%3Fcm_type%3Dfnav) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the potterybarn.com privacy policy that was archived on 2013-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131106122808id_/http%3A//www.potterybarn.com/about-us/privacy-policy.html%3Fcm_type%3Dfnav) for the most accurate reproduction.*
 
 # Privacy Policy | Pottery Barn
 
-We are part of the "Williams–Sonoma, Inc. Brands" which includes Williams–Sonoma, Pottery Barn, pottery barn kids, PBteen, west elm, Rejuvenation and Mark and Graham. Williams–Sonoma, Inc. Brands are committed to respecting your privacy and recognizing your need for appropriate protection and management of contact information you share with us (the phrase "contact information" means any information by which you can be contacted or identified, such as your name, mailing address, email address, telephone number, etc.). The purpose of this Privacy Policy is to inform you what information we may collect from you, how we use such information, and the choices you have regarding our use of, and your ability to review, correct and opt out of our use of, the information. By using any of our web sites or sharing your contact information with us, you are accepting and consenting to the practices described in this Privacy Policy.
+We are part of the "Williams–Sonoma, Inc. Brands" which includes Williams–Sonoma, Pottery Barn, pottery barn kids, PBteen, west elm, Rejuvenation and Mark and Graham. Williams–Sonoma, Inc. Brands are committed to respecting your privacy and recognizing your need for appropriate protection and management of contact information you share with us (the phrase "contact information" means any information by which you can be contacted or identified, such as your name, mailing address, email address, telephone number, etc.). The purpose of this Privacy Policy is to inform you what information we may collect from you, how we use such information, and the choices you have regarding our use of, and your ability to review, correct and opt out of our use of, the information. This Privacy Policy applies to information we collect about you in our stores and through our websites and mobile applications. By using any of our web sites, mobile applications, or sharing your contact information with us, you are accepting and consenting to the practices described in this Privacy Policy.
 
 As a part of our commitment to your privacy, Williams–Sonoma, Inc. Brands support and adhere to the guidelines and practices adopted by the Direct Marketing Association's "Privacy Promise to American Consumers." We have agreed to (1) provide customers with notice of their ability to opt out of information rental, sale, or exchange with other marketers; (2) honor customers' requests not to share their contact information with other marketers; and (3) honor customers' requests not to receive mail, telephone, or other solicitations from Williams–Sonoma, Inc. Brands.
 
 ### Collecting Information About You
 
-There may be times (such as when you purchase or order a product, subscribe to a service, register to receive catalogs, or to participate in contests, sweepstakes or promotions, etc.) when we ask you to provide certain contact information about yourself, such as your name, shipping/billing address, telephone number, email address, credit card information, birth date, gender, occupation, personal interests, and other information. We may also maintain a record of your product purchases.
+There may be times (such as when you purchase or order a product, subscribe to a service, register to receive catalogs, or to participate in contests, sweepstakes or promotions, etc.) when we ask you to provide certain contact information about yourself, such as your name, shipping/billing address, telephone number, email address, social media user name, credit card information, birth date, gender, occupation, personal interests, and other information. We may also maintain a record of your product purchases.
 
 Whether or not to provide such information is completely your own choice. But if you choose not to provide the information we request, you may be unable to purchase products, or access certain services, offers and content on our web sites. In addition, we may need to contact you via phone, email or mail to address questions or issues specific to your order, entry, etc., even if you have opted to not receive marketing communications from us.
 
-In general, you can visit many of our web pages without telling us who you are or revealing any contact information about yourself. We may track the Internet domain address from which people visit us and analyze this data for preferences, trends, and site usage statistics, but individual users will remain anonymous, unless you voluntarily tell us who you are.
+In general, you can visit many of our web pages without telling us who you are or revealing any contact information about yourself. We may track the Internet domain address from which people visit us and analyze this data for preferences, trends, and site usage statistics, but individual users will remain anonymous, unless you voluntarily tell us who you are. We may also receive anonymous usage data from your mobile phone or other device you use to access our web sites or our mobile applications, including location data.
+
+If you access any of our websites or mobile applications with your log-in credentials from a social networking site (e.g., facebook or twitter) or if you otherwise agree to associate your account with us with a social networking site, we may receive personal information about you from such social networking site, in accordance with the terms of use and privacy policy of the social networking site. We may add this information to the information we have already collected from you via our stores, websites and mobile applications.
 
 ### Using Information About You
 
@@ -54,11 +56,11 @@ Back to Top
 
 ### International Customer Privacy
 
-For international shipping orders, Williams–Sonoma, Inc. Brands partner with FiftyOne, Inc. ("FiftyOne"). We have contracted with FiftyOne to assure that they will carefully process your information consistent with this Privacy Policy.
+For international shipping orders, Williams–Sonoma, Inc. Brands partner with Borderfree, Inc. ("Borderfree"). We have contracted with Borderfree to assure that they will carefully process your information consistent with this Privacy Policy.
 
-When we identify that your order is one that will be shipped internationally, we work with FiftyOne to complete your order. On the checkout page, you will be required to submit credit card and contact information (name, billing address, shipping address, email address and phone number) to FiftyOne to complete your order. Upon completion of your order, FiftyOne will notify us of the approval of your order, and we will then ship approved orders to FiftyOne. Simultaneously, FiftyOne will purchase the product from us, which allows them to take title to the product(s), bill your credit card, collect and remit any duties and taxes to the appropriate taxing authority and arrange for the product to be delivered to you. In this process, FiftyOne makes the sale to you as the merchant of record. When ordering a product, you will be presented with FiftyOne's terms and conditions to which you must agree in order to receive the product(s) you ordered.
+When we identify that your order is one that will be shipped internationally, we work with Borderfree to complete your order. On the checkout page, you will be required to submit credit card and contact information (name, billing address, shipping address, email address and phone number) to Borderfree to complete your order. Upon completion of your order, Borderfree will notify us of the approval of your order, and we will then ship approved orders to Borderfree. Simultaneously, Borderfree will purchase the product from us, which allows them to take title to the product(s), bill your credit card, collect and remit any duties and taxes to the appropriate taxing authority and arrange for the product to be delivered to you. In this process, Borderfree makes the sale to you as the merchant of record. When ordering a product, you will be presented with Borderfree's terms and conditions to which you must agree in order to receive the product(s) you ordered.
 
-Once you place your order, you will be prompted to check the box to indicate if you would like to receive information from Williams–Sonoma, Inc. Brands regarding offers and promotions that may be available from time to time. If you check the box, FiftyOne will share your information with Williams–Sonoma, Inc. Brands, and we will protect and use your information in accordance with this Privacy Policy.
+Once you place your order, you will be prompted to check the box to indicate if you would like to receive information from Williams–Sonoma, Inc. Brands regarding offers and promotions that may be available from time to time. If you check the box, Borderfree will share your information with Williams–Sonoma, Inc. Brands, and we will protect and use your information in accordance with this Privacy Policy.
 
 If you choose to provide Williams–Sonoma, Inc. Brands with your information, you consent to the transfer and storage of that information on our servers located in the United States.
 
@@ -96,21 +98,8 @@ Our web sites may contain links to web sites operated and maintained by third pa
 
 If we decide to change our privacy policy in whole or in part, we will inform you by posting a notice on our web sites, as applicable. Those changes will go into effect on the effective date posted in the notice and at the end of the revised Privacy Policy. The new policy will apply to all current and past users of our web sites and will replace any prior policies that are inconsistent. Your continued use of our web sites or other services constitutes your acceptance of the practices described in the revised Privacy Policy.
 
-### Australian Residents
-
-In addition to the above terms, the following terms of this Privacy Policy also apply to Australian residents using this website: 
-
-  * You consent to (i) the disclosure, transfer and storage of information about you (including contact information) by us to our Select Partners and our Service Providers located in the United States and in other countries in accordance with this Privacy Policy and (ii) all other practices and actions described in this Privacy Policy.
-  * You acknowledge that by consenting to the disclosure of information about you to our Select Partners and/or our Service Providers our obligations under the Privacy Act 1988 (Cth) now or in the future (if any) to ensure that our Select Partners and/or Service Providers comply with their privacy policies and/or any applicable privacy principles under the Privacy Act 1988 (Cth) may cease.
-  * You acknowledge that the data privacy laws of the United States and other countries where our Select Partners and/or Service Providers are located may not provide the same level of protection for your information as Australia.
-  * You consent to receive direct marketing (including electronic marketing materials) from us, until such time as you unsubscribe from such, and for us to provide your details to and to receive direct marketing (including electronic marketing materials) from our Select Partners and others.
-
-
-
-You may email us and request us to provide details of the information, including contact information, that we hold about you in which case we may require you to pay the reasonable cost of providing access to any such information (but we will not charge you for lodging a request for access).
-
 ### Your Feedback
 
 To help us improve our privacy policy and practice, please give us your feedback. In the U.S., you can call us at 800.541.1262 or send us an [email](http://www.potterybarn.com/customer-service/email-us/). Outside of the U.S., you can call us at 405.717.6139 or send us an [email](http://www.potterybarn.com/customer-service/email-us/).
 
-Effective Date: November 8, 2012
+Effective Date: August 15, 2013
