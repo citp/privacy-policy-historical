@@ -1,7 +1,8 @@
-<!--The following is the downloaded HTML source of the jordans.com privacy policy that was archived on 2013-05-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130507115810id_/http%3A//www.jordans.com/en/Privacy-Policy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the jordans.com privacy policy that was archived on 2013-11-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131106075205id_/http%3A//www.jordans.com/en/Privacy-Policy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en" class=" js no-flexbox canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths"><head>
+
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     
 <title>Privacy Statement for jordans.com</title>
@@ -41,7 +42,13 @@
     <!-- Add Page-Specific Stylesheet(s)-->
     
 
-        <script type="text/javascript" src="http://www.jordans.com/js/jquery_placeholder.js"></script>
+<script type="text/javascript" src="/js/DM_redirect.js"></script>
+
+<script type="text/javascript">    DM_redirect("http://m.jordans.com");</script>
+
+
+
+        <script type="text/javascript" src="/js/jquery_placeholder.js"></script>
 
     
 
@@ -56,91 +63,12 @@
 
 
 
-
 <script type="text/javascript">
     var winPopupType = '';
     var urlParam = '?winPopupType=&requestType=';
-var sHostAddress='http://www.jordans.com';
-try{
 window.OrderInfo=null;
-}catch(e){
-}
-    $(document).ready(function() {
-        try {
- var flyOutMessageLinks="<div id='flyOutMessageLinks' style='display: none'>"
-                        +"<a id='lnkCanNotSchedule' class='info-window' href='/User/Flyoutbox/Can-Not-Schedule-Order.aspx'>"
-                        +"Can Not Schedule Order</a> <a id='lnkCanNotPay' class='info-window' href='/User/Flyoutbox/Can-Not-Make-Payment.aspx'>"
-                        +"Can not Make Payment</a> <a id='lnkMultipleOrders' class='info-window' href='/User/Flyoutbox/Multiple-Orders-Found.aspx'>"
-                        + "Multiple Orders Found</a>"
-                        +"<form id='frmOrderInfo' target='_parent' method='post' action='"+sHostAddress+"/MyOrders.aspx'></form>"
-                        +"</div>";
-        $(flyOutMessageLinks).appendTo("body");
-        $("#flyOutMessageLinks").hide();
-
-            if ($.trim(winPopupType) != "") {
-                window.setTimeout("OpenPopupWin('" + winPopupType + "','" + urlParam + "');", 100);
-            }
-        } catch (e) {
-
-        }
-    });
-    function OpenPopupWin(sPopupType, urlParam) {
-        try {
-            var oWin = window;
-
-            switch (sPopupType.toString().toUpperCase()) {
-                case "LOGIN":
-                    if ($("#lnkloginAccount").attr("href").indexOf("?") >= 0) {
-                        urlParam = urlParam.replace("?", "&");
-                    }
-                    oWin.$("#lnkloginAccount").attr("href",SetPageUrl("lnkloginAccount",urlParam) + "&ret="+window.location.href);
-                    oWin.$("#lnkloginAccount").click();
-                    break;
-                case "CAN_NOT_SCHEDULE":
-                    oWin.$("#lnkCanNotSchedule").attr("href",SetPageUrl("lnkCanNotSchedule", urlParam));
-                    oWin.$("#lnkCanNotSchedule").click();
-                    break;
-                case "CAN_NOT_MAKE_PAYMENT":
-                    oWin.$("#lnkCanNotPay").attr("href", SetPageUrl("lnkCanNotPay",urlParam));
-                    oWin.$("#lnkCanNotPay").click();
-                    break;
-                case "MULTIPLE_RECORDS":
-                    oWin.$("#lnkMultipleOrders").attr("href", SetPageUrl("lnkMultipleOrders", urlParam));
-                    oWin.$("#lnkMultipleOrders").first().click();
-                    break;
-                case "CHECK ORDER STATUS":
-                   oWin.$("#lnkCheckOrder").first().click();
-                   break;
-               case "SCHEDULE ORDER":
-                 oWin.$("#lnkScheduleOrder").first().click();
-                   break;
-               case "MAKE A PAYMENT":
-                   oWin.$("#lnkMakePayment").first().click();
-                   break;
-                default: "";
-
-            }
-
-        } catch (e) {
-        }
-        finally {
-            return false;
-        }
-    }
-    function SetPageUrl(oLinkId,urlParam)
-    {
-    var sUrl=$("#"+oLinkId).attr("href");
-    if(sUrl==null)
-    {
-    return "#";
-    }
-    var temp= sUrl.split('?')[0];
-    if (urlParam.indexOf("?") >= 0) {
-         urlParam = urlParam.replace("?", "");
-     }
-    sUrl=temp+"?"+urlParam;
-    return sUrl;
-    }
+var sHostAddress='http://www.jordans.com';
+   
 </script>
 
 
@@ -225,7 +153,10 @@ __VIEWSTATE" value="">
         
             <li><a href="/Other-Items.aspx">Other Items</a></li>
         </ol></li>
-
+	<li class="noChild">
+		<a href="/Sleep-Lab.aspx"><span>Mattresses</span></a>
+    
+	</li>
 
 
     
@@ -323,25 +254,18 @@ __VIEWSTATE" value="">
 			<ol style="background-image: url(~/media/Images/navigation/nav-composite-accent.ashx);  background-repeat: no-repeat;">
             <li><a href="/Accent-Tables.aspx">Accent Tables</a></li><li><a href="/Accent-Chests.aspx">Accent Chests</a></li><li><a href="/Curios.aspx">Curios</a></li><li><a href="/Clocks.aspx">Clocks</a></li>
 <li><a href="/Accent-Mirrors.aspx">Accent Mirrors</a></li><li><a href="/KidsAccents.aspx">Kids' Accents</a></li><li><a href="/VanityAndJewelryChests.aspx">Vanity &amp; Jewelry Chests</a></li><li><a href="/Accent-Benches.aspx">Accent Benches</a></li>
+<li><a href="/Electric-Fireplaces.aspx">Electric Fireplaces</a></li>
+
 			</ol></li>
 
 <li>
-<a href="/Current-Promotions/Outdoor.aspx">Outdoor</a>
-<ol style="background-image: url(/images/nav/dropdown_bg/nav-composite-outdoor.jpg);  background-repeat: no-repeat; ">            
-            <li><a href="/Chairs.aspx">Outdoor Chairs</a></li><li><a href="/Ottomans.aspx">Outdoor Ottomans</a></li><li><a href="/Outdoor-Chaises.aspx">Outdoor Chaises</a></li><li><a href="/OutdoorDiningChairsandBarstools.aspx">Outdoor Chairs and Barstools</a></li><li><a href="/Outdoor-Dining-Sets.aspx">Outdoor Dining Sets</a></li><li><a href="/Outdoor-Dining-Tables.aspx">Outdoor Dining Tables</a></li><li><a href="/Outdoor-Loveseats.aspx">Outdoor Loveseats</a></li><li><a href="/Outdoor-Occasional-Tables.aspx">Outdoor Occasional Tables</a></li><li><a href="/SofasandSectionals.aspx">Outdoor Sofas and Sectionals</a></li><li><a href="/Umbrellas.aspx">Patio Umbrellas</a></li>
+<a href="/Electric-Fireplaces.aspx">Seasonal</a>
+	<ol style="background-image: url(http://s7d5.scene7.com/is/image/Jordans/nav-composite-fireplace);  background-repeat: no-repeat; ">            
+		<li><a href="/Electric-Fireplaces.aspx">Electric Fireplaces</a></li>		
+        <li><a href="/Outdoor-Living.aspx">Outdoor</a></li>			
+	</ol></li>
 
-</ol></li>
-
-		
-
-    
-        
-<li class="noChild colorBlue">
-    <a href="/Sleep-Lab.aspx"><span>Mattresses</span></a>
-    
-</li>
-
-    
+   
         
 <li class="noChild colorBlue">
     <a href="/FFO.aspx"><span>Outlet</span></a>    
@@ -423,7 +347,8 @@ __VIEWSTATE" value="">
 
 
 <h1 class="pageTitle">Privacy Policy</h1>
-
+<div id="content_0_panelSidebarContainer">
+	
 <div id="col_right">
     		
 <!-- Careers Right Navigation -->
@@ -621,7 +546,8 @@ __VIEWSTATE" value="">
 
 </div>
 
-<div id="col_left">
+</div>
+<div id="col_left" style="">
     <div id="banner_wrapper" class=" ">
         <img src="/~/media/Images/customer_relations/CR-web-privacy-banner.ashx" class="banner_img" alt="" width="655" height="260">
         <div id="txt" class=" ">
@@ -641,7 +567,7 @@ __VIEWSTATE" value="">
         <div>
             
 		<style type="text/css">
- .search-tab.right {display: none; }  
+/* .search-tab.right {display: none; }  */ 
 
 #footer .column h2 {
 margin: 15px 0;
@@ -715,7 +641,7 @@ cursor: pointer;
         <br>
         <a href="/en/About-Us/News-And-Events.aspx" title="Jordan's Furniture News &amp; Events">News &amp; Events</a>
         <br>
-        <a href="/en/Careers.aspx" title="Careers at Jordan's Furniture">Careers</a>
+        <a href="http://www.jordansjobs.com" target="_blank" title="Careers at Jordan's Furniture">Careers</a>
         <br>
       </div>
       <div class="column">
@@ -735,7 +661,7 @@ cursor: pointer;
         </a>
       </div>
       <div class="column thin">
-        <a href="/sitecore/content/Jordans/Sitemap" class="button" title="Jordans.com Sitemap">Full Sitemap</a>
+        <a href="/sitecore/content/Jordans/Sitemap.aspx" class="button" title="Jordans.com Sitemap">Full Sitemap</a>
         <br>
 	  </div>	
         <hr>
@@ -744,58 +670,67 @@ cursor: pointer;
   <span>© 2013 Jordan's Furniture. All rights reserved.</span>
 
   <span class="phone">
-    <a>1.866.8.JORDANS</a><br>
-    <a>(1.866.856.7326)</a>
+    <a href="tel:1.866.856.7326" title="Call Jordan's Furniture">1.866.8.JORDANS</a><br>
+    <a href="tel:1.866.856.7326" title="Call Jordan's Furniture">(1.866.856.7326)</a>
   </span>
 
 </div>
 
 <div> 
-<a style="color: #000;" href="https://plus.google.com/103871407394883262912" rel="publisher">Find us on Google+</a>
-
-<a style="color: #000;" href="https://plus.google.com/106603047614573949745" rel="publisher">Find us on Google+</a>
-
-<a style="color: #000;" href="https://plus.google.com/108188967859269809303" rel="publisher">Find us on Google+</a>
-
-<a style="color: #000;" href="https://plus.google.com/105880063817364171615" rel="publisher">Find us on Google+</a>
-
-<a style="color: #000;" href="https://plus.google.com/105591627828703751906" rel="publisher">Find us on Google+</a>
-
-<a style="color: #000;" href="https://plus.google.com/105591627828703751906" rel="publisher">Find us on Google+</a>
+<a style="color: #000;" href="https://plus.google.com/+JordansFurnitureAvon" target="_blank">Find us on Google+</a>
+&nbsp;&nbsp;
+<a style="color: #000;" href="https://plus.google.com/+JordansFurnitureReading" target="_blank">Find us on Google+</a>
+&nbsp;&nbsp;
+<a style="color: #000;" href="https://plus.google.com/+JordansFurnitureNatick" target="_blank">Find us on Google+</a>
+&nbsp;&nbsp;
+<a style="color: #000;" href="https://plus.google.com/+JordansFurnitureNashua" target="_blank">Find us on Google+</a>
+&nbsp;&nbsp;
+<a style="color: #000;" href="https://plus.google.com/103871407394883262912" target="_blank">Find us on Google+</a>
+&nbsp;&nbsp;
+<a style="color: #000;" href="https://plus.google.com/108188967859269809303" target="_blank">Find us on Google+</a>
 </div>
 		 
 <script type="text/javascript">
 
 // Custom tracking for HP 
-if (window.location.pathname == "/Sleep%20Lab.aspx" || window.location.pathname == "/" ){ 
-	pagePath = window.location.pathname == "/Sleep%20Lab.aspx" ? "\/SleepLabHomepage" : "\/Homepage" ;
+if (window.location.pathname == "/Sleep-Lab.aspx" || window.location.pathname == "/" ){ 
+	pagePath = window.location.pathname == "/Sleep-Lab.aspx" ? "\/SleepLabHomepage" : "\/Homepage" ;
 	
 $("#navMain a").click(function(){
-		customLink = pagePath + '/MainNav' + $(this).attr('href');
+		customLink = pagePath + '/MainNav/' + $(this).attr('href');
 		_gaq.push(['_trackPageview', customLink]);
 
 
 	});	
 $("#navUtil a").click(function(){
-		customLink = pagePath + '/UtilityNav' + $(this).attr('href');
+		customLink = pagePath + '/UtilityNav/' + $(this).attr('href');
 		_gaq.push(['_trackPageview', customLink]);
 
 
 	});
 $("#navTabs a").click(function(){
-		customLink = pagePath + '/NavTabs' + $(this).attr('href');
+		customLink = pagePath + '/NavTabs/' + $(this).attr('href');
 		_gaq.push(['_trackPageview', customLink]);
 
 
 	});
 $("#nav2ndRow a").click(function(){
-		customLink = pagePath + '/Nav2ndRow' + $(this).attr('href');
+		customLink = pagePath + '/Nav2ndRow/' + $(this).attr('href');
 		_gaq.push(['_trackPageview', customLink]);
 
 
 	});
+
+$("#homeSlideshow a").click(function(){
+		customLink = pagePath + '/Banner/' + $(this).attr('href');
+		_gaq.push(['_trackPageview', customLink]);
+
+
+		
+	});
+
 $("#subfeaturesHP a").click(function(){
-		customLink = pagePath + '/Subfeatures' + $(this).attr('href');
+		customLink = pagePath + '/Subfeatures/' + $(this).attr('href');
 		_gaq.push(['_trackPageview', customLink]);
 
 
@@ -810,14 +745,14 @@ $("#resourcesHP a").click(function(){
 
 
 $("#navSleepLab a").click(function(){
-		customLink = pagePath + '/SleepLabSubnav' + $(this).attr('href');
+		customLink = pagePath + '/SleepLabSubnav/' + $(this).attr('href');
 		_gaq.push(['_trackPageview', customLink]);
 });
 
 
 
 $("#footer a").click(function(){
-		customLink = pagePath + '/Footer' + $(this).attr('href');
+		customLink = pagePath + '/Footer/' + $(this).attr('href');
 		_gaq.push(['_trackPageview', customLink]);
 
 
@@ -826,24 +761,8 @@ $("#footer a").click(function(){
  }// end if 	
 
 </script>
-      </div>
-<!-- Google Code for Remarketing tag -->
-<!-- Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. For instructions on adding this tag and more information on the above requirements, read the setup guide: google.com/ads/remarketingsetup -->
-<script type="text/javascript">
-/* &lt;![CDATA[ */
-var google_conversion_id = 1004888174;
-var google_conversion_label = "E2z4CJrf-wQQ7sCV3wM";
-var google_custom_params = window.google_tag_params;
-var google_remarketing_only = true;
-/* ]]&gt; */
-</script>
-<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
-</script>
-<noscript>
-<div style="display:inline;">
-<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1004888174/?value=0&amp;label=E2z4CJrf-wQQ7sCV3wM&amp;guid=ON&amp;script=0&amp;w=1&amp;h=1&amp;as=1" />
+
 </div>
-</noscript>
         </div>
     </div>
     
@@ -852,4 +771,4 @@ var google_remarketing_only = true;
     </div>
 
 
-<div id="fancybox-tmp"></div><div id="fancybox-loading"><div></div></div><div id="fancybox-overlay"></div><div id="fancybox-wrap"><div id="fancybox-outer"><div class="fancybox-bg" id="fancybox-bg-n"></div><div class="fancybox-bg" id="fancybox-bg-ne"></div><div class="fancybox-bg" id="fancybox-bg-e"></div><div class="fancybox-bg" id="fancybox-bg-se"></div><div class="fancybox-bg" id="fancybox-bg-s"></div><div class="fancybox-bg" id="fancybox-bg-sw"></div><div class="fancybox-bg" id="fancybox-bg-w"></div><div class="fancybox-bg" id="fancybox-bg-nw"></div><div id="fancybox-content"></div><a id="fancybox-close"></a><div id="fancybox-title"></div><a href="javascript:;" id="fancybox-left"><span class="fancy-ico" id="fancybox-left-ico"></span></a><a href="javascript:;" id="fancybox-right"><span class="fancy-ico" id="fancybox-right-ico"></span></a></div></div><div id="flyOutMessageLinks" style="display: none"><a id="lnkCanNotSchedule" class="info-window" href="/User/Flyoutbox/Can-Not-Schedule-Order.aspx">Can Not Schedule Order</a> <a id="lnkCanNotPay" class="info-window" href="/User/Flyoutbox/Can-Not-Make-Payment.aspx">Can not Make Payment</a> <a id="lnkMultipleOrders" class="info-window" href="/User/Flyoutbox/Multiple-Orders-Found.aspx">Multiple Orders Found</a><form id="frmOrderInfo" target="_parent" method="post" action="http://www.jordans.com/MyOrders.aspx"></form></div></body></html>
+<div id="fancybox-tmp"></div><div id="fancybox-loading"><div></div></div><div id="fancybox-overlay"></div><div id="fancybox-wrap"><div id="fancybox-outer"><div class="fancybox-bg" id="fancybox-bg-n"></div><div class="fancybox-bg" id="fancybox-bg-ne"></div><div class="fancybox-bg" id="fancybox-bg-e"></div><div class="fancybox-bg" id="fancybox-bg-se"></div><div class="fancybox-bg" id="fancybox-bg-s"></div><div class="fancybox-bg" id="fancybox-bg-sw"></div><div class="fancybox-bg" id="fancybox-bg-w"></div><div class="fancybox-bg" id="fancybox-bg-nw"></div><div id="fancybox-content"></div><a id="fancybox-close"></a><div id="fancybox-title"></div><a href="javascript:;" id="fancybox-left"><span class="fancy-ico" id="fancybox-left-ico"></span></a><a href="javascript:;" id="fancybox-right"><span class="fancy-ico" id="fancybox-right-ico"></span></a></div></div></body></html>
