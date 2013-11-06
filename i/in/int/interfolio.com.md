@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the interfolio.com privacy policy that was archived on 2013-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130629153007id_/http%3A//www.interfolio.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the interfolio.com privacy policy that was archived on 2013-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131106075631id_/http%3A//www.interfolio.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Interfolio
 
@@ -10,7 +10,7 @@ _Last updated on May 18, 2013_
 
 If you have questions or concerns regarding this statement, you should first contact Interfolio Security and Privacy by phone: (877) 997-8807 or email: [help@interfolio.com](mailto:help@interfolio.com). If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe online at: <http://www.truste.org/consumers/watchdog_complaint.php>. TRUSTe will then serve as a liaison with the Web site to resolve your concerns.
 
-Interfolio complies with the EU Safe Harbor framework as set forth by the Department of Commerce regarding the collection, use, and retention of data from the European Union.
+Interfolio complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. Interfolio has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Interfolio”s certification, please visit <http://www.export.gov/safeharbor/>.
 
 ## Interfolio’s Privacy Policy
 
