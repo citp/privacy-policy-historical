@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the linnworks.com privacy policy that was archived on 2013-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130524202850id_/http%3A//www.linnworks.com/Doc/linn_systems_privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the linnworks.com privacy policy that was archived on 2013-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131106123234id_/http%3A//www.linnworks.com/Doc/linn_systems_privacy_policy) for the most accurate reproduction.*
 
-# Linn Systems - Privacy Policy - Linnworks
+# Linn Systems - Privacy Policy
 
 We accept all major credit cards and PayPal for subscription payment and license purchases. All payments are processed by PayPal. **We DO NOT store any credit card or PayPal account information anywhere on our systems.** Credit Cards are processed directly by PayPal and any recurring payment profile is managed by PayPal.
 
