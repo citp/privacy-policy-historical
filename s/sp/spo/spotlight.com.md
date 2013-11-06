@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spotlight.com privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530081526id_/http%3A//www.spotlight.com/aboutus/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spotlight.com privacy policy that was archived on 2013-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131106123039id_/http%3A//www.spotlight.com/aboutus/privacy) for the most accurate reproduction.*
 
 # Spotlight - professional acting jobs and auditions since 1927
 
@@ -6,7 +6,7 @@ Spotlight is committed to protecting the privacy of users of this website. This 
 
 This Privacy Policy applies to all users of this website as such - but does not apply fully to those members whose casting / personal information appears as content on the Spotlight website or any future publications of Spotlight. Those members should read this policy in conjunction with their [Membership Terms and Conditions](https://web.archive.org/terms.html "Membership Terms and Conditions") as this contains more specific information about our use of your details.
 
-Spotlight may change this policy occasionally by updating this page. You should therefore check this page from time to time to ensure that you are happy with any changes. This policy was last reviewed and updated in September 2010.
+Spotlight may change this policy occasionally by updating this page. You should therefore check this page from time to time to ensure that you are happy with any changes. This policy was last reviewed and updated in July 2013.
 
 ### Definitions
 
@@ -18,7 +18,7 @@ If you submit personal information, for example, your name, address, e-mail addr
 
 We and our subcontractors may use Customer Information for the following purposes:
 
-  * To fulfil your subscriptions for services and orders for products
+  * To fulfil your subscriptions for services and orders for products (including recognising returning members, returning customers and previous member applicants)
   * To answer your enquiries or otherwise communicate with you
   * To vet your professional background, but only when you are joining as a member/ subscriber or purchasing a restricted access product
   * Internal record keeping
@@ -50,11 +50,11 @@ We reserve the right to release Customer Information when we believe the release
 
 We may release Customer Information if we acquire any new business, and/or sell all or part of our business.
 
+Should Spotlight employ any third parties to perform functions for us then these contracted businesses/individuals will only have access to the data required to perform that function, and may not use it for other purposes.
+
 Except as set out above, your personal data will not be provided to any third party without your prior written consent.
 
 The information you provide to us will be held on our computers in the UK. Only professional information passed to us for the promotion of either you as an individual or your business will be accessible to any third parties, and we will make clear to you which parts of any advertisement application will be printed in our books or listed online.
-
-Should Spotlight employ any third parties to perform functions for us then these contracted business will only have access to data required to perform that function, but may not use it for other purposes.
 
 We currently use a third party payment service provider (see section below).
 
@@ -101,6 +101,25 @@ To see a comprehensive list of the cookies used on the Spotlight website, and th
  **For more information about cookies, including how to remove and disable them, visit the following website** [www.allaboutcookies.org](http://www.allaboutcookies.org/ "www.allaboutcookies.org")
 
 An IP address is a number which is automatically assigned to your computer whenever you access the internet. When you access the Spotlight site we will log your IP address. We generally only use IP addresses to analyse trends, administer our website, track general user movements and gather broad demographic information for aggregate use. However, we do link IP addresses to other information which could identify the user when assessing applications from new, re-joining and renewing members to ensure that they are provided with legal 'cooling off periods' where necessary. They will also be used to ascertain where members may be attempting to seek extended free periods on the Spotlight website by the misuse of our 'cooling off periods' or refund policy (see Terms & Conditions). The IP information gathered for this purpose will only be used to 'flag up' possible misuse to Spotlight staff members. The IP details would not be used for Marketing or any other purposes, or made available to third parties.
+
+### Updates - Dated 30/8/13
+
+ **1\. Research into improved technology and developing new functionality.**
+
+We are constantly looking for new ways to change and upgrade our services and the functionality that we can provide to you, including through the use of the latest technology. This may involve partnering with selected and trusted research organisations and technology providers to contribute to their research and innovation projects. Often the most innovative developments come from other industries or fields of research outside of our own, and the outputs of the research may have a broader application beyond the improvements from which we directly benefit. 
+
+As part of this research and to develop these improvements, our trusted partners may be given access to our systems and data and/or be provided with copies of our data, including member photos, video and audio clips, and other professional information. You acknowledge this disclosure of your professional information for the above purposes.
+
+In all such circumstances our partners' access to and use of this information will be strictly limited to specific research projects that may benefit Spotlight and our services to you, and will be under secure, confidential, temporary conditions and closed testing environments. Under no circumstances will this information be used for any commercial or live operational activity, other than to develop and test the specific technology and functionality. 
+
+Your personal information and contact details will never be disclosed or used in this way.
+
+ **2\. Your agent.**
+
+You are responsible for all activities on your account/profile. You must keep your Update PIN secure and confidential. It is your responsibility to ensure that, and you confirm that, any person, including your agent, who accesses your account /profile, or takes actions on your behalf, whether using your Update PIN or otherwise, is fully authorised by you, and is entitled to take actions on your behalf and to contractually bind you.
+
+If you are an agent, you confirm that you are authorised by your client(s) to access and/or administer their account/profile, and to contractually bind them.  
+
 
 ### Queries and Requests
 
