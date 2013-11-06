@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the grovemade.com privacy policy that was archived on 2013-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130525001438id_/http%3A//www.grovemade.com/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the grovemade.com privacy policy that was archived on 2013-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131106075731id_/http%3A//www.grovemade.com/page/privacy-policy) for the most accurate reproduction.*
 
 # iPhone 5 Case and iPad Case by Grove | Grove
 
