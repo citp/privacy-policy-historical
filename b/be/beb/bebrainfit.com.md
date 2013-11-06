@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bebrainfit.com privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603220710id_/http%3A//bebrainfit.com/privacy-disclosure-terms) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bebrainfit.com privacy policy that was archived on 2013-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131106101742id_/http%3A//bebrainfit.com/privacy-disclosure-terms/%23privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Disclosure Policy | Terms of Use | BeBrainFit.com
+# Privacy Policy | Disclosure Policy | Terms of Use
 
 ## Privacy Policy
 
@@ -75,7 +75,7 @@ We hope that you will support our efforts by purchasing products you feel are ri
 
 ## Terms of Use
 
-BeBrainFit101.com (“website”, “we”, “us”) is a website engaged in providing information about brain health and fitness. These terms of use describe the nature of our relationship with the users of our website (“you”) and the responsibilities of both parties. By using our website, you agree, without limitation or qualification, to be bound by these terms of use.
+BeBrainFit.com (“website”, “we”, “us”) is a website engaged in providing information about brain health and fitness. These terms of use describe the nature of our relationship with the users of our website (“you”) and the responsibilities of both parties. By using our website, you agree, without limitation or qualification, to be bound by these terms of use.
 
 **Liability and Results Disclaimer**
 
