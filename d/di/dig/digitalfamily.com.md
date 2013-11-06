@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the digitalfamily.com privacy policy that was archived on 2013-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130420022017id_/http%3A//www.digitalfamily.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digitalfamily.com privacy policy that was archived on 2013-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131106132259id_/http%3A//www.digitalfamily.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Web Design Training courses, videos & tutorials at DigitalFamily.com
+# Privacy Policy | Web Design Training courses, videos & tutorials at DigitalFamily.comWeb Design Training courses, videos & tutorials at DigitalFamily.com
 
 DigitalFamily.com  **(referred to as “us” or “we” or “DigitalFamily.com” or “DigitalFamily”),**  is committed to protecting and respecting your privacy.
 
