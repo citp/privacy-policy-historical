@@ -1,1106 +1,163 @@
-<!--The following is the downloaded HTML source of the hlorenzo.com privacy policy that was archived on 2013-02-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130208184428id_/http%3A//www.hlorenzo.com/Privacy-statement) for the most accurate reproduction.-->
-
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
-  
-<link href="/font.css" rel="stylesheet" type="text/css">
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/js/top_up-min.js"></script><script src="/js/jquery/all.js" type="text/javascript" onload="TopUp.init()" onreadystatechange="TopUp.init()"></script> 
-
-
-  <title>H. Lorenzo :: Privacy Statement</title>
-  <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-  <meta http-equiv="X-UA-Compatible" content="IE=8">
-  <meta http-equiv="Content-Script-Type" content="text/javascript">
-  <meta http-equiv="Content-Style-Type" content="text/css">
-  <meta http-equiv="Content-Language" content="en">
-  
-  
-<script type="text/javascript">
-//<![CDATA[
-var number_format_dec = '.';
-var number_format_th = '';
-var number_format_point = '2';
-var store_language = 'en';
-var xcart_web_dir = "";
-var images_dir = "/skin/common_files/images";
-var lbl_no_items_have_been_selected = 'No items have been selected';
-var current_area = 'C';
-var currency_format = "$x";
-var lbl_product_minquantity_error = "Sorry, the minimum order quantity for this product is {{min}}.";
-var lbl_product_maxquantity_error = "Sorry, the maximum order quantity for this product is {{max}}.";
-var lbl_product_quantity_type_error = "You can specify a number from {{min}} to {{max}}.";
-var is_limit = true;
-var lbl_required_field_is_empty = "The required field \'~~field~~\' is empty!";
-var lbl_field_required = "Field is required";
-var lbl_field_format_is_invalid = "The format of the \'~~field~~\' field is invalid.";
-var txt_required_fields_not_completed = "The following required fields have not been completed: {{fields}} Do you wish to submit the form with these fields empty?";
-var lbl_blockui_default_message = "Please wait...";
-var lbl_error = 'Error';
-var lbl_warning = 'Warning';
-var lbl_ok = 'OK';
-var lbl_yes = 'Yes';
-var lbl_no = 'No';
-var txt_minicart_total_note = 'Order subtotal does not cover discounts and extra costs like shipping charges, etc. The final cost of the order will be calculated at the checkout page.';
-var txt_ajax_error_note = 'An error occurred while processing a request. Please <a href=\"javascript:void(0);\" onclick=\"javascript:window.location.reload();\">refresh the page.<a><br /><br />If the problem still persists after refreshing the page please <a href=\"javascript:void(0);\" onclick=\"javascript:self.location=\'help.php?section=contactus&amp;mode=update\'\">contact us<\/a> on the matter.';
-var txt_email_invalid = "Email address is invalid! Please correct";
-var email_validation_regexp = new RegExp("^[a-z0-9!#$%&\'*+\\/=?^_`{|}~-]+(?:\\.[a-z0-9!#$%&\'*+\\/=?^_`{|}~-]+)*@(?:[a-z0-9](?:[a-z0-9-]*[a-z0-9])?\\.)+[a-z](?:[a-z0-9-]*[a-z0-9])?$", "gi");
-var is_admin_editor = false;
-
-//]]>
-</script>
-
-<script type="text/javascript" src="/skin/common_files/js/common.js"></script>
-  <script type="text/javascript" src="/skin/common_files/js/browser_identificator.js"></script>
-
-
-  <script type="text/javascript" src="/skin/common_files/lib/swfobject-min.js"></script>
-
-<script type="text/javascript" src="/skin/common_files/lib/jquery-min.js"></script>
-<script type="text/javascript" src="/skin/common_files/lib/jquery.bgiframe.min.js"></script>
-
-<script type="text/javascript" src="/skin/common_files/lib/jqueryui/jquery.ui.core.min.js"></script>
-<script type="text/javascript" src="/skin/common_files/lib/jqueryui/jquery.ui.widget.min.js"></script>
-<script type="text/javascript" src="/skin/common_files/lib/jqueryui/jquery.ui.position.min.js"></script>
-<script type="text/javascript" src="/skin/common_files/lib/jqueryui/jquery.ui.mouse.min.js"></script>
-<script type="text/javascript" src="/skin/common_files/lib/jqueryui/jquery.ui.button.min.js"></script>
-<script type="text/javascript" src="/skin/common_files/lib/jqueryui/jquery.ui.dialog.min.js"></script>
-<script type="text/javascript" src="/skin/common_files/lib/jqueryui/jquery.ui.resizable.min.js"></script>
-<script type="text/javascript" src="/skin/common_files/lib/jqueryui/jquery.ui.draggable.min.js"></script>
-<script type="text/javascript" src="/skin/common_files/lib/jqueryui/jquery.ui.tabs.min.js"></script>
-<script type="text/javascript" src="/skin/common_files/lib/jqueryui/jquery.ui.datepicker.min.js"></script>
-
-  
-<script type="text/javascript" src="/skin/common_files/js/ajax.js"></script>
-<script type="text/javascript" src="/skin/common_files/lib/cluetip/jquery.cluetip.js"></script>
-<script type="text/javascript" src="/skin/common_files/js/popup_open.js"></script>
-<script type="text/javascript" src="/skin/common_files/lib/jquery.blockUI.js"></script>
-<script type="text/javascript" src="/skin/common_files/lib/jquery.blockUI.defaults.js"></script>
-
-<script type="text/javascript" src="/skin/common_files/lib/jquery.cookie.js"></script>
-
-
-<script type="text/javascript">
-//<![CDATA[
-
-
-
-//  Fix a.href if base url is defined for page
-function anchor_fix() {
-var links = document.getElementsByTagName('A');
-var m;
-var _rg = new RegExp("(^|" + self.location.host + xcart_web_dir + "/)#([\\w\\d_]+)$")
-for (var i = 0; i < links.length; i++) {
-  if (links[i].href && (m = links[i].href.match(_rg))) {
-    links[i].href = 'javascript:void(self.location.hash = "' + m[2] + '");';
-  }
-}
-}
-
-if (window.addEventListener)
-window.addEventListener("load", anchor_fix, false);
-
-else if (window.attachEvent)
-window.attachEvent("onload", anchor_fix);
-
-
-
-function initDropOutButton() {
-
-  if ($(this).hasClass('activated-widget'))
-    return;
-
-  $(this).addClass('activated-widget');
-
-  var dropOutBoxObj = $(this).parent().find('.dropout-box');
-
-  // Process the onclick event on a dropout button 
-  $(this).click(
-    function(e) {
-      e.stopPropagation();
-      $('.dropout-box').removeClass('current');
-      dropOutBoxObj
-        .toggle()
-        .addClass('current');
-      $('.dropout-box').not('.current').hide();
-      if (dropOutBoxObj.offset().top + dropOutBoxObj.height() - $('#center-main').offset().top - $('#center-main').height() > 0) {
-        dropOutBoxObj.css('bottom', '-2px');
-      }
-    }
-  );
- 
-  // Click on a dropout layer keeps the dropout content opened
-  $(this).parent().click(
-    function(e) { 
-      e.stopPropagation(); 
-    }
-  );
-
-  // shift the dropout layer from the right hand side 
-  // if it's out of the main area
-  var borderDistance = ($("#center-main").offset().left + $("#center-main").outerWidth()) - ($(this).offset().left + dropOutBoxObj.outerWidth());
-  if (!isNaN(borderDistance) && borderDistance < 0) {
-    dropOutBoxObj.css('left', borderDistance+'px');
-  }
-
-  // Fix for IE6
-  if ($.browser.msie && $.browser.version < 7) {
-    dropOutBoxObj.bgiframe();
-  }
-}
-
-$(document).ready( function() {
-  $('body').click(
-    function() {
-      $('.dropout-box')
-        .filter(function() { return $(this).css('display') != 'none'; } )
-        .hide();
-    }
-  );
-  $('div.dropout-container div.drop-out-button').each(initDropOutButton);
-}
-);
-
-
-
-
-// Position:absolute elements will not move when window is resized 
-// if a sibling contains float elements and a clear:both element
-// https://bugzilla.mozilla.org/show_bug.cgi?id=442542
-// FireFox 3.0+
-if (navigator.userAgent.toLowerCase().search(/firefox\/(3\.\d+)/i) != -1 && typeof(window.$) != 'undefined') {
-$.event.add( window, 'resize', function() {
-  var h = document.getElementById('header');
-  if (!h || $(h).css('position') != 'absolute')
-    return;
-
-  document.getElementById('header').style.position = 'static';
-  setTimeout(
-    function() {
-      document.getElementById('header').style.position = 'absolute';
-    },
-  20);
-});
-}
-
-
-var md = 10*1000;
-
-
-$(document).ready( function() {
-
-$('form').not('.skip-auto-validation').each(function() {
-  applyCheckOnSubmit(this);
-});
-
-$('a.toggle-link').live(
-  'click',
-  function(e) {
-    $('#' + $(this).attr('id').replace('link', 'box')).toggle();
-  }
-);
-
-$("#dialog-message").fadeIn('slow').delay(md).fadeOut('slow');
-
-});
-
-
-
-
-//]]>
-</script>
-
-<script type="text/javascript" src="/skin/common_files/modules/Product_Options/func.js"></script>
-
-
-
-
-
-
-
-
-
-
-
-                    
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                
-                                            
-                                
-                                            
-                                
-                                
-                                
-                                            
-                        
-
-
-  <link rel="canonical" href="http://shop.hlorenzo.com/Privacy-statement.html">
-  <base href="http://shop.hlorenzo.com/">
-<link rel="stylesheet" type="text/css" href="http://shop.hlorenzo.com/var/cache/_8b091b8737b903405dc4c775353e54e9.css">
-  
-<script type="text/javascript" src="js/arrows.js"></script> 
-<script type="text/javascript" src="js/fontload.js"></script> 
-
-
-
-
-	
-
-
+<!--The following is the downloaded HTML source of the hlorenzo.com privacy policy that was archived on 2013-11-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131106071359id_/http%3A//shop.hlorenzo.com/help/privacy) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html><head>
+<title>Privacy Policy - H. Lorenzo</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<link rel="shortcut icon" href="/favicon.ico">
+<link href="/css/main.css" rel="stylesheet" type="text/css">
+<link href="/css/font.css" rel="stylesheet" type="text/css">
+<!--[if IE]>
+<link href="/css/font-ie.css" rel="stylesheet" type="text/css">
+<[endif]-->
+<link href="/css/styles.css" rel="stylesheet" type="text/css">
+<link href="/css/print.css" rel="stylesheet" type="text/css" media="print">
 </head>
-<body class="fancycat-page-skin-icons fancycat-page-subskin-c ">
- <div id="container">
 
-
-
-
-<div id="header"><a href="/"><img src="images/hlorenzo.png" width="124" height="20"> </a>
-
-<div id="loginmenu">
-
-<table border="0" cellspacing="0" cellpadding="0" width="370px" align="right">
-  <form action="login.php?mode=logout" method="post" name="loginform3"></form>
-  <input name="mode" value="logout" type="hidden">
-  <tbody><tr>
-    <td align="right" width="50px" valign="top">
-	  <script type="text/javascript">
-//<![CDATA[
-var lbl_error = 'Error';
-var txt_minicart_total_note = 'Order subtotal does not cover discounts and extra costs like shipping charges, etc. The final cost of the order will be calculated at the checkout page.';
-
-//]]>
-</script>
-<script type="text/javascript" src="/skin/common_files/js/ajax.minicart.js"></script>
-
-  <div class="menu-dialog menu-minicart" style="height:0px; padding-top:4px; margin-right:-1em;">
-  <div class="title-bar ">
-   
-   <table width="100%" border="0" cellspacing="0" cellpadding="0">
-  <tbody><tr>
-    <td align="right" style="padding-top:0px;" valign="bottom">  </td>
-    <td align="right" valign="bottom" class="icon ajax-minicart-icon"><strong>
-<div class="minicart" style="padding-top:0px;">
-  
-</div>
-
-
-
-</strong></td>
-  </tr>
-</tbody></table>
-
-   
-  
-  </div>
- 
-    
-  
-</div>	</td>
-    <td align="right" width="110px">
-	
-		<a href="login.php" class="loginmenu-new">SIGN IN</a>
-	<a href="register.php" class="loginmenu-new">REGISTER</a>
-		
-	<a href="cart.php?subCatid=&amp;pid=" class="loginmenu-new">CHECK OUT</a>
-    </td>
-  </tr>
-  
-	  <tr>
-		<td colspan="2">
-		
-		 <form method="post" action="search.php" name="productsearchform">
-  <input type="hidden" name="simple_search" value="Y">
-      <input type="hidden" name="mode" value="search">
-      <input type="hidden" name="posted_data[by_title]" value="Y">
-      <input type="hidden" name="posted_data[by_descr]" value="Y">
-      <input type="hidden" name="posted_data[by_sku]" value="Y">
-      <input type="hidden" name="posted_data[search_in_subcategories]" value="Y">
-      <input type="hidden" name="posted_data[including]" value="all">
- 
-	  <input type="text" name="posted_data[substring]" class="search searchinput" size="35" maxlength="35" value="" onfocus="searchchecktop('Search');" onblur="searchchecktop1('Search');" id="Search">
-	
-	<!--<input class="search searchinput" name="Search" type="text" id="Search" size="40" maxlength="40">-->
+<body>
+<div id="page">
+ <div id="header">
+   <span id="toplinks">
+           <a href="/checkout" rel="nofollow">Checkout</a>
+    <a href="/cart" rel="nofollow">My Cart</a>
+        <a href="?currency=*" rel="nofollow">Currency [ $ ]</a>
+      </span>
+     <form class="inline" style="margin-left:15px" action="/products/search" id="searchform">
+    <div>
+     <input type="text" name="q" id="q" value="">
+     <input type="submit" value="Search"> 
+    </div>
    </form>
-   	
-<script type="text/javascript">
-function searchchecktop(q)
-{
-	if(document.getElementById(q).value=='')
-	{
-		document.getElementById(q).value='';
-	}
-}
-function searchchecktop1(q)
-{
-	if(document.getElementById(q).value=='')
-	{
-		document.getElementById(q).value='';
-	}
-}
+   </div>
 
-</script>
-   			
-		
-		</td>
-	</tr>
-</tbody></table>
-
-
-
-
-</div>
-</div>
-
-<div id="menu" style="top:50px; padding-bottom:10px; margin-top:25px;">
-
-
-    
-  <script type="text/javascript" src="/skin/common_files/modules/Flyout_Menus/Icons/func.js"></script>
-  <div id="catrootmenu" class="fancycat-icons-scheme fancycat-icons-c">
-          
-<style>
-a:visited {color:#000;}
-</style>
-
-<ul class="topmenu" style="border:#FF0000 solid 0px; position:absolute; width:500px; height:20px; top:0px; margin-top:41px;">
-           
-          
-                    
-    
-    <li id="cat-layer-252" class="first sub-link closed" style="text-align:left; padding-right:46px;">
-     
-            <a href="/MENS-A1923-AUGUSTA/?subCatid=253" class="icon-link 
-sub-link nowrap-link" style="font-size:14px;"> 
-
-        		MENS
-		              </a>
-     
-
-              
-		
-
-<ul class="submenu submen_hover" style="border:#FF0000 solid 0px; position:absolute; left:0px; width:880px; height:20px; top:0px; margin-top:35px; text-align:left; margin-left:6px;">
-
-    
-    
-          
-                    
-    
-    <li style="margin-left:-6px">
-     
-            	  <a href="http://shop.hlorenzo.com/MENS-DESIGNERS/?subCatid=253&amp;pid=252" class=" sub-link 
-nowrap-link" style="font-size:12px; padding-right:16px;">
-      <span class="submenu" style="font-family: din, sans-serif;">
-						<span style="text-decoration:none">
-		DESIGNERS
-		</span>
-							</span>	
-     
-      </a>
-     
-	 
-          
-	</li>
-	
-	
-	
-
-  
-    
-    
-    <li style="margin-left:-6px">
-     
-            	   <a href="http://shop.hlorenzo.com/NEW-ARRIVALS-FOR-MEN/?pid=252" class=" nowrap-link" style="font-size:12px; 
-padding-right:20px;">
-        		
-		<span class="submenu" style="font-family: din, sans-serif;">
-				<span style="text-decoration:none">
-		NEW ARRIVALS
-		</span>
-		
-					</span>	
-				
-      </a>
-	 
-          
-	</li>
-	
-	
-	
-
-  
-    
-    
-    <li style="margin-left:-6px">
-     
-            	   <a href="http://shop.hlorenzo.com/MENS-EXCLUSIVES/?pid=252" class=" nowrap-link" style="font-size:12px; 
-padding-right:20px;">
-        		
-		<span class="submenu" style="font-family: din, sans-serif;">
-				<span style="text-decoration:none">
-		EXCLUSIVES
-		</span>
-		
-					</span>	
-				
-      </a>
-	 
-          
-	</li>
-	
-	
-	
-
-  
-    
-          
-                    
-    
-    <li style="margin-left:-6px">
-     
-            	  <a href="http://shop.hlorenzo.com/MENS-ACCESSORIES/?subCatid=256&amp;pid=252" class=" sub-link 
-nowrap-link" style="font-size:12px; padding-right:16px;">
-      <span class="submenu" style="font-family: din, sans-serif;">
-						<span style="text-decoration:none">
-		ACCESSORIES
-		</span>
-							</span>	
-     
-      </a>
-     
-	 
-          
-	</li>
-	
-	
-	
-
-  
-    
-          
-                    
-    
-    <li style="margin-left:-6px">
-     
-            	  <a href="http://shop.hlorenzo.com/MENS-FOOTWEAR/?subCatid=257&amp;pid=252" class=" sub-link 
-nowrap-link" style="font-size:12px; padding-right:16px;">
-      <span class="submenu" style="font-family: din, sans-serif;">
-						<span style="text-decoration:none">
-		FOOTWEAR
-		</span>
-							</span>	
-     
-      </a>
-     
-	 
-          
-	</li>
-	
-	
-	
-
-  
-    
-          
-                    
-    
-    <li style="margin-left:-6px">
-     
-            	  <a href="http://shop.hlorenzo.com/MENS-JEWELRY/?subCatid=258&amp;pid=252" class=" sub-link 
-nowrap-link" style="font-size:12px; padding-right:16px;">
-      <span class="submenu" style="font-family: din, sans-serif;">
-						<span style="text-decoration:none">
-		JEWELRY
-		</span>
-							</span>	
-     
-      </a>
-     
-	 
-          
-	</li>
-	
-	
-	
-
-  
-    
-          
-                    
-    
-    <li style="margin-left:-6px">
-     
-            	  <a href="http://shop.hlorenzo.com/MENS-OUTERWEAR/?subCatid=259&amp;pid=252" class=" sub-link 
-nowrap-link" style="font-size:12px; padding-right:16px;">
-      <span class="submenu" style="font-family: din, sans-serif;">
-						<span style="text-decoration:none">
-		OUTERWEAR
-		</span>
-							</span>	
-     
-      </a>
-     
-	 
-          
-	</li>
-	
-	
-	
-
-  
-    
-          
-                    
-    
-    <li style="margin-left:-6px">
-     
-            	  <a href="http://shop.hlorenzo.com/MENS-TOPS/?subCatid=260&amp;pid=252" class=" sub-link 
-nowrap-link" style="font-size:12px; padding-right:16px;">
-      <span class="submenu" style="font-family: din, sans-serif;">
-						<span style="text-decoration:none">
-		TOPS
-		</span>
-							</span>	
-     
-      </a>
-     
-	 
-          
-	</li>
-	
-	
-	
-
-  
-    
-          
-                    
-    
-    <li style="margin-left:-6px">
-     
-            	  <a href="http://shop.hlorenzo.com/MENS-BOTTOMS/?subCatid=261&amp;pid=252" class=" sub-link 
-nowrap-link" style="font-size:12px; padding-right:16px;">
-      <span class="submenu" style="font-family: din, sans-serif;">
-						<span style="text-decoration:none">
-		BOTTOMS
-		</span>
-							</span>	
-     
-      </a>
-     
-	 
-          
-	</li>
-	
-	
-	
-
-  
-    
-          
-                    
-    
-    <li style="margin-left:-6px">
-     
-            	  <a href="http://shop.hlorenzo.com/MENS-SALE/?subCatid=262&amp;pid=252" class=" sub-link 
-nowrap-link" style="font-size:12px; padding-right:16px;">
-      <span class="submenu" style="font-family: din, sans-serif;">
-						
-		<span style="color:#FF0000;font-family: din, sans-serif; padding-bottom: 0px; display: block; height: 6px; text-decoration:none;border-bottom: 0px solid #000 !important;">SALE</span>
-        					</span>	
-     
-      </a>
-     
-	 
-          
-	</li>
-	
-	
-	
-
-  
-
-</ul>
-
-          
-	</li>
-	
-	
-	
-
-       
-          
-                    
-    
-    <li id="cat-layer-250" class="highlight last sub-link closed" style="text-align:left; padding-right:46px;">
-     
-            <a href="/WOMENS-AGURI-SAGIMORI/?subCatid=868&amp;pid=250" class="icon-link 
-sub-link nowrap-link" style="font-size:14px;"> 
-
-        		WOMENS
-		              </a>
-     
-
-              
-		
-
-<ul class="submenu submen_hover" style="border:#FF0000 solid 0px; position:absolute; left:0px; width:880px; height:20px; top:0px; margin-top:35px; text-align:left; margin-left:-78px;">
-
-    
-    
-          
-                    
-    
-    <li style="margin-left:-6px">
-     
-            	  <a href="http://shop.hlorenzo.com/WOMENS-DESIGNERS/?subCatid=868&amp;pid=250" class=" sub-link 
-nowrap-link" style="font-size:12px; padding-right:16px;">
-      <span class="submenu" style="font-family: din, sans-serif;">
-						<span style="text-decoration:none">
-		DESIGNERS
-		</span>
-							</span>	
-     
-      </a>
-     
-	 
-          
-	</li>
-	
-	
-	
-
-  
-    
-    
-    <li style="margin-left:-6px">
-     
-            	   <a href="http://shop.hlorenzo.com/NEW-ARRIVALS-FOR-WOMEN/?pid=250" class=" nowrap-link" style="font-size:12px; 
-padding-right:20px;">
-        		
-		<span class="submenu" style="font-family: din, sans-serif;">
-				<span style="text-decoration:none">
-		NEW ARRIVALS
-		</span>
-		
-					</span>	
-				
-      </a>
-	 
-          
-	</li>
-	
-	
-	
-
-  
-    
-    
-    <li style="margin-left:-6px">
-     
-            	   <a href="http://shop.hlorenzo.com/WOMENS-EXCLUSIVES/?pid=250" class=" empty-link nowrap-link" style="font-size:12px; 
-padding-right:20px;">
-        		
-		<span class="submenu" style="font-family: din, sans-serif;">
-				<span style="text-decoration:none">
-		EXCLUSIVES
-		</span>
-		
-					</span>	
-				
-      </a>
-	 
-          
-	</li>
-	
-	
-	
-
-  
-    
-          
-                    
-    
-    <li style="margin-left:-6px">
-     
-            	  <a href="http://shop.hlorenzo.com/WOMENS-ACCESSORIES/?subCatid=871&amp;pid=250" class=" sub-link 
-nowrap-link" style="font-size:12px; padding-right:16px;">
-      <span class="submenu" style="font-family: din, sans-serif;">
-						<span style="text-decoration:none">
-		ACCESSORIES
-		</span>
-							</span>	
-     
-      </a>
-     
-	 
-          
-	</li>
-	
-	
-	
-
-  
-    
-    
-    <li style="margin-left:-6px">
-     
-            	   <a href="http://shop.hlorenzo.com/WOMENS-DRESSES/?pid=250" class=" nowrap-link" style="font-size:12px; 
-padding-right:20px;">
-        		
-		<span class="submenu" style="font-family: din, sans-serif;">
-				<span style="text-decoration:none">
-		DRESSES
-		</span>
-		
-					</span>	
-				
-      </a>
-	 
-          
-	</li>
-	
-	
-	
-
-  
-    
-          
-                    
-    
-    <li style="margin-left:-6px">
-     
-            	  <a href="http://shop.hlorenzo.com/WOMENS-FOOTWEAR/?subCatid=872&amp;pid=250" class=" sub-link 
-nowrap-link" style="font-size:12px; padding-right:16px;">
-      <span class="submenu" style="font-family: din, sans-serif;">
-						<span style="text-decoration:none">
-		FOOTWEAR
-		</span>
-							</span>	
-     
-      </a>
-     
-	 
-          
-	</li>
-	
-	
-	
-
-  
-    
-          
-                    
-    
-    <li style="margin-left:-6px">
-     
-            	  <a href="http://shop.hlorenzo.com/WOMENS-JEWELRY/?subCatid=873&amp;pid=250" class=" sub-link 
-nowrap-link" style="font-size:12px; padding-right:16px;">
-      <span class="submenu" style="font-family: din, sans-serif;">
-						<span style="text-decoration:none">
-		JEWELRY
-		</span>
-							</span>	
-     
-      </a>
-     
-	 
-          
-	</li>
-	
-	
-	
-
-  
-    
-          
-                    
-    
-    <li style="margin-left:-6px">
-     
-            	  <a href="http://shop.hlorenzo.com/WOMENS-OUTERWEAR/?subCatid=874&amp;pid=250" class=" sub-link 
-nowrap-link" style="font-size:12px; padding-right:16px;">
-      <span class="submenu" style="font-family: din, sans-serif;">
-						<span style="text-decoration:none">
-		OUTERWEAR
-		</span>
-							</span>	
-     
-      </a>
-     
-	 
-          
-	</li>
-	
-	
-	
-
-  
-    
-          
-                    
-    
-    <li style="margin-left:-6px">
-     
-            	  <a href="http://shop.hlorenzo.com/WOMENS-TOPS/?subCatid=875&amp;pid=250" class=" sub-link 
-nowrap-link" style="font-size:12px; padding-right:16px;">
-      <span class="submenu" style="font-family: din, sans-serif;">
-						<span style="text-decoration:none">
-		TOPS
-		</span>
-							</span>	
-     
-      </a>
-     
-	 
-          
-	</li>
-	
-	
-	
-
-  
-    
-          
-                    
-    
-    <li style="margin-left:-6px">
-     
-            	  <a href="http://shop.hlorenzo.com/WOMENS-BOTTOMS/?subCatid=876&amp;pid=250" class=" sub-link 
-nowrap-link" style="font-size:12px; padding-right:16px;">
-      <span class="submenu" style="font-family: din, sans-serif;">
-						<span style="text-decoration:none">
-		BOTTOMS
-		</span>
-							</span>	
-     
-      </a>
-     
-	 
-          
-	</li>
-	
-	
-	
-
-  
-    
-          
-                    
-    
-    <li style="margin-left:-6px">
-     
-            	  <a href="http://shop.hlorenzo.com/WOMENS-SALE/?subCatid=881&amp;pid=250" class=" sub-link 
-nowrap-link" style="font-size:12px; padding-right:16px;">
-      <span class="submenu" style="font-family: din, sans-serif;">
-						
-		<span style="color:#FF0000;font-family: din, sans-serif; padding-bottom: 0px; display: block; height: 6px; text-decoration:none;border-bottom: 0px solid #000 !important;">SALE</span>
-        					</span>	
-     
-      </a>
-     
-	 
-          
-	</li>
-	
-	
-	
-
-  
-
-</ul>
-
-          
-	</li>
-	
-	
-	
-
-  
-  <li><a href="/preview.php" title="PREVIEWS" style="margin-right:46px;">PREVIEWS</a></li>
-  <li><a href="http://shop.hlorenzo.com/features.html" title="Features" style="margin-right:46px;">FEATURES</a></li>
-  <li><a href="http://hlorenzo.com/blog/" title="Blog">BLOG</a></li>
-
-</ul>
-
-
-            <div class="clearing"></div>
-  </div>
-  
-
-
-
-<!--<ul class="topmenu">
-   <li><a href="http://shop.hlorenzo.com/mens/" style="cursor:pointer;">MENS</a></li>
-<li><a href="http://shop.hlorenzo.com/womens/" style="cursor:pointer;">WOMENS</a></li>
--->
-<!--<a href="#">BLOG</a>-->
-
-
-<!--<input class="search searchinput" name="Search" type="text" id="Search" size="40" maxlength="40">-->
-</div>
-<!--<a href="">sdsdsds</a>-->
-
-<noscript>
-  <div class="noscript-warning">
-    <div class="content">This site requires JavaScript to function properly.<br />Please enable JavaScript in your web browser.</div>
-  </div>
-</noscript>
-
-
-
-<!--<div id="submenu">
-
-<ul class="submenu">
-<li><a href="#">DESIGNERS</a></li>
-<li><a href="#">NEW ARRIVALS</a></li>
-<li><a href="#">EXCLUSIVES</a></li>
-<li><a href="#">ACCESSORIES</a></li>
-<li><a href="#">FOOTWEAR</a></li>
-<li><a href="#">JEWELRY</a></li>
-<li><a href="#">OUTERWEAR</a></li>
-<li><a href="#">TOPS</a></li>
-<li><a href="#">BOTTOMS</a></li></ul>
-<ul class="sale"><li><a href="#">SALE</a></li>
-
-</ul>
-</div>-->
-
-
-
-<!--<div id="center">
-  <div id="center-main">-->
-  
-   <div id="contentshop" style="padding-top:30px;">
-   
-    <!-- central space -->
-
-    
-      	  <br>
-	    <br>
-
-                            
-      
-      
-      
-      	 
-	<div id="navigation">
+ <div class="categories">
+	<a href="/products/mens">MENS</a>
+	<a href="/products/womens">WOMENS</a>
+	<a href="/preview">PREVIEWS</a>
+	<a href="/features">FEATURES</a>
+	<a href="http://hlorenzo.com/blog">BLOG</a>
+ </div>
  
-  
-    
-</div>
-	
-      
-<h1>Privacy Statement</h1>
+ <div id="content_wrapper"> 
+ <div id="content">
 
-<div class="content">
-  
-          <p>We respect your privacy!</p>
-Any and all the information collected on this site will be kept strictly confidential and will not be sold, reused, rented, disclosed, or loaned!<br>
-Any information you provide will be held with the utmost care and will not be used in ways that you have not consented to. If you have any questions, please feel free to call or e-mail us.<br>
-<br>
-SENSU, INC ("H. LORENZO", 'we', 'our', 'us') and its subsidiary companies respect the privacy rights of its online visitors ('you', 'your', 'yours') and recognize the importance of protecting the information collected about them. We provide this statement (the "Privacy Policy") to help you to understand what we may do with any personal information that we obtain from you. This Privacy Policy guides how we collect, store and use the information that you provide us with.<br>
-<br>
-By providing your personal information to us, you signify your acceptance of this Privacy Policy and agree that we may collect, use and disclose your personal information as described in this Privacy Policy. This Privacy Policy is incorporated into, and part of, the Terms and Conditions, which govern, in general, your use of the website maintained and operated by H. LORENZO (the "Site"). We will use your information only for the purposes set out below.<br>
-<br>
-Although we are committed to maintaining your confidence and trust in all of our activities with you, this Privacy Policy does not govern our collection or use of data about you through channels other than the Site.<br>
-<br>
-TYPES OF INFORMATION COLLECTED<br>
-We collect information from you when you register on our site, place an order, subscribe to our newsletter or fill out a form. When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address, phone number or credit card information. You may, however, visit our site anonymously.<br>
-<br>
-WHAT PERSONAL INFORMATION DO WE COLLECT FROM YOU &amp; HOW WE USE IT<br>
-Any of the information we collect from you may be used in one of the following ways:<br>
-• To personalize your experience. Your information helps us to better respond to your individual needs.<br>
-• To improve our website. We continually strive to improve our website offerings based on the information and feedback we receive from you.<br>
-• To improve customer service. Your information helps us to more effectively respond to your customer service requests and support needs.<br>
-• To process transactions. Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.<br>
-• To send periodic emails.&nbsp;The email address you provide for order processing will only be used to send you information and updates from H. LORENZO. Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.<br>
-<br>
-SAFEGUARDING YOUR PERSONAL INFORMATION<br>
-We implement a variety of security measures to maintain the safety of your personal information when you place an order We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to keep the information confidential. After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be stored on our servers.<br>
-<br>
-USE OF COOKIES ON OUR WEBSITE<br>
-Yes. Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information. We use cookies to help us remember and process the items in your shopping cart, understand and save your preferences for future visits and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.<br>
-<br>
-PRIVACY FROM ALL OUTSIDE PARTIES<br>
-We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.<br>
-<br>&nbsp;
-CALIFORNIA ONLINE PRIVACY PROTECTION ACT<br>
-Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.<br>
-<br>
-If you are under 18, we require that you inform a parent or guardian about H. LORENZO's Privacy Policy and Terms and Conditions as well as requiring their consent to the Privacy Policy and Terms and Conditions before registering with H. LORENZO or placing an order with H. LORENZO.<br>
-<br>
-ONLINE PRIVACY POLICY ONLY<br>
-This online privacy policy applies only to information collected through our website and not to information collected offline.<br>
-<br>
-YOUR CONSENT<br>
-By using our site, you are accepting and consent to the practices described in this Privacy Policy and the Terms and Conditions.<br>
-<br>
-CHANGES TO THE PRIVACY POLICY<br>
-If we decide to change our privacy policy, we will post those changes on this page. This policy was last modified on 4/2/2011.<br>
-<br>
-CONTACTING US<br>
-If there are any questions regarding this privacy policy you may contact us using the information below.<br>
-<br>
-H. LORENZO<br>
+<h1>Privacy Policy</h1>
+
+
+
+
+
+<p>We respect your privacy!</p>
+
+<p>Any and all the information collected on this site will be kept strictly confidential and will not be sold, reused, rented, disclosed, or loaned!</p>
+
+<p>Any information you provide will be held with the utmost care and will not be used in ways that you have not consented to. If you have any questions, please feel free to call or e-mail us.</p>
+
+<p>SENSU, INC ("H. LORENZO", 'we', 'our', 'us') and its subsidiary companies respect the privacy rights of its online visitors ('you', 'your', 'yours') and recognize the importance of protecting the information collected about them. We provide this statement (the "Privacy Policy") to help you to understand what we may do with any personal information that we obtain from you. This Privacy Policy guides how we collect, store and use the information that you provide us with.</p>
+
+<p>By providing your personal information to us, you signify your acceptance of this Privacy Policy and agree that we may collect, use and disclose your personal information as described in this Privacy Policy. This Privacy Policy is incorporated into, and part of, the Terms and Conditions, which govern, in general, your use of the website maintained and operated by H. LORENZO (the "Site"). We will use your information only for the purposes set out below.</p>
+
+<p>Although we are committed to maintaining your confidence and trust in all of our activities with you, this Privacy Policy does not govern our collection or use of data about you through channels other than the Site.</p>
+
+<p>TYPES OF INFORMATION COLLECTED</p>
+
+<p>We collect information from you when you register on our site, place an order, subscribe to our newsletter or fill out a form. When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address, phone number or credit card information. You may, however, visit our site anonymously.</p>
+
+<p>WHAT PERSONAL INFORMATION DO WE COLLECT FROM YOU &amp; HOW WE USE IT</p>
+
+<p>Any of the information we collect from you may be used in one of the following ways:</p>
+
+<ul>
+<li>To personalize your experience. Your information helps us to better respond to your individual needs.</li>
+<li>To improve our website. We continually strive to improve our website offerings based on the information and feedback we receive from you.</li>
+<li>To improve customer service. Your information helps us to more effectively respond to your customer service requests and support needs.</li>
+<li>To process transactions. Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.</li>
+</ul>
+
+<li> To send periodic emails. The email address you provide for order processing will only be used to send you information and updates from H. LORENZO. Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.<p></p>
+
+<p></p>
+
+<p>SAFEGUARDING YOUR PERSONAL INFORMATION</p>
+
+<p>We implement a variety of security measures to maintain the safety of your personal information when you place an order We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to keep the information confidential. After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be stored on our servers.</p>
+
+<p>USE OF COOKIES ON OUR WEBSITE</p>
+
+<p>Yes. Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information. We use cookies to help us remember and process the items in your shopping cart, understand and save your preferences for future visits and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.</p>
+
+<p>PRIVACY FROM ALL OUTSIDE PARTIES</p>
+
+<p>We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.</p>
+
+<p>CALIFORNIA ONLINE PRIVACY PROTECTION ACT</p>
+
+<p>Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.</p>
+
+<p>If you are under 18, we require that you inform a parent or guardian about H. LORENZO's Privacy Policy and Terms and Conditions as well as requiring their consent to the Privacy Policy and Terms and Conditions before registering with H. LORENZO or placing an order with H. LORENZO.</p>
+
+<p>ONLINE PRIVACY POLICY ONLY</p>
+
+<p>This online privacy policy applies only to information collected through our website and not to information collected offline.</p>
+
+<p>YOUR CONSENT</p>
+
+<p>By using our site, you are accepting and consent to the practices described in this Privacy Policy and the Terms and Conditions.</p>
+
+<p>CHANGES TO THE PRIVACY POLICY</p>
+
+<p>If we decide to change our privacy policy, we will post those changes on this page. This policy was last modified on 4/2/2011.</p>
+
+<p>CONTACTING US</p>
+
+<p>If there are any questions regarding this privacy policy you may contact us using the information below.</p>
+
+<p>H. LORENZO<br>
 8660 West Sunset Blvd.<br>
 Los Angeles, CA 90069<br>
 310 659 1434<br>
-<br>
-    
-  
+</p>
+
+ 
+ <div style="clear:both;height:80px"></div> </li></div>
+ </div> 
+ <div id="footer">
+  <div id="footer_content">
+  <div style="float:left;margin-top:-10px;">
+	<form action="/maillist">
+	<input type="text" name="email" placeholder="Enter your email address for updates">
+	<input type="submit" value="SUBMIT">
+	</form>
+	<img src="/images/social-icons.png" style="position:relative;top:5px;margin:0 10px;" usemap="#social">
+	© 2012 H. Lorenzo
+  </div>
+  <div style="position:relative;z-index:100"><div style="position:absolute;right:-150px;bottom:-20px;"><a href="/"><img src="/images/hlorenzo.png"></a></div></div>
+  <a href="/help/terms">Terms &amp; Conditions</a>
+  <a href="/help/privacy">Privacy Policy</a>
+  <a href="/contact">Contact</a>
+  </div>
+ </div>
+
+ <map name="social">
+  <area shape="rect" coords="0,0,16,20" href="https://twitter.com/H_Lorenzo" alt="Twitter" title="H. Lorenzo's Twitter Feed">
+  <area shape="rect" coords="28,0,40,20" href="http://www.facebook.com/ShopHLorenzo?v=wall" alt="Facebook" title="H. Lorenzo on Facebook">
+ </map>
+
 </div>
 
-    
-<!-- /central space -->
-
-  <!--</div>
-</div>-->
-
-</div> 
-
-<div style="clear:both"><img src="images/line880px.jpg" width="880" height="1"></div>
-<ul class="footmenu" style="margin: 0;">
-        <li><a href="http://www.facebook.com/ShopHLorenzo?v=wall" title="Facebook" target="_blank">FACEBOOK</a></li>
-        <li><a href="http://twitter.com/H_Lorenzo" title="Twitter" target="_blank">TWITTER</a></li>
-        <li><a href="/newsletter.html" title="Newsletter">NEWSLETTER</a></li>
-        <li><a href="/Terms-and-Conditions" title="Terms and Conditions">TERMS &amp; CONDITIONS</a></li>
-        <li><a href="/Privacy-statement" title="Privacy">PRIVACY</a></li>
-        <li><a href="/contact.php" title="Contact">CONTACT</a></li>
-</ul>
-<span class="footer">Copyright © 2013 H.Lorenzo</span><br><br>
-</div>
 
 
 
 <script type="text/javascript">
-
-  var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-26793206-1']);
-  _gaq.push(['_setDomainName', '.hlorenzo.com']);
-  _gaq.push(['_trackPageview']);
-
-  (function() {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })();
-
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-26793206-1");
+pageTracker._trackPageview();
 </script>
 
 
+
+ 
 </body></html>
