@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the auroin.com privacy policy that was archived on 2013-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130508065243id_/https%3A//www.auroin.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the auroin.com privacy policy that was archived on 2013-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131106044916id_/http%3A//www.auroin.com/privacy-policy) for the most accurate reproduction.*
 
-# AuroIN Privacy Policy
+# Privacy Policy Of AuroIN
 
 We strongly believe confidentiality is your right and we take all precautions to protect your privacy. We also assure you that we are the sole owner of the information collected, for executing your project, and we do not rent, sell or loan any information collected by the website to others unless there is a legal angle. We may store and process your inputs/information to understand your requirements and to design our services to match your expecations. It may also be used to provide you with information concerning our industry news, special events or features and offers which may be of interest for you. If you correspond with us via E- mail, we may collect the information and store it with full confidentiality. 
 
