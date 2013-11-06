@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newsweaver.com privacy policy that was archived on 2013-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130508082927id_/http%3A//www.newsweaver.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newsweaver.com privacy policy that was archived on 2013-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131106063703id_/http%3A//www.newsweaver.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Software that Drives Engagement
 
