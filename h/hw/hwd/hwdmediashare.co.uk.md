@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hwdmediashare.co.uk privacy policy that was archived on 2013-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130430110942id_/http%3A//hwdmediashare.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hwdmediashare.co.uk privacy policy that was archived on 2013-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131106182931id_/http%3A//hwdmediashare.co.uk/privacy) for the most accurate reproduction.*
 
 # Privacy policy
 
@@ -38,14 +38,14 @@ We may share your Personal Data with:
 
 
 
-Children: The Website and Services are not intended for children under 13, and we do not knowingly collect information from children under the age of 13. Children aged 13 or older should not submit any personal information without the permission of their parents or guardians. By using the Website and Services, you are representing that you are at least 18, or that you are at least 13 years old and have your parents' or guardians’ permission to use Website and our related services. In the event that we learn that we have collected personal information from a child under age 13 we will delete that information as quickly as possible. If you believe that we might have any information from or about a child under 13, please contact us at [ ](http://hwdmediashare.co.uk/privacy#)[info@hwdmediashare.co.uk](mailto:info@hwdmediashare.co.uk).
+Children: The Website and Services are not intended for children under 13, and we do not knowingly collect information from children under the age of 13. Children aged 13 or older should not submit any personal information without the permission of their parents or guardians. By using the Website and Services, you are representing that you are at least 18, or that you are at least 13 years old and have your parents' or guardians’ permission to use Website and our related services. In the event that we learn that we have collected personal information from a child under age 13 we will delete that information as quickly as possible. If you believe that we might have any information from or about a child under 13, please contact us at [](http://hwdmediashare.co.uk/privacy#)[info@hwdmediashare.co.uk](mailto:info@hwdmediashare.co.uk).
 
 Security: We take precautions to ensure the security of your Personal Data. However, we cannot guarantee that hackers or unauthorized personnel will not gain access to your Personal Data despite our efforts. You should note that in using the Website and Services, your information will travel through third party infrastructures which are not under our control.
 
 We cannot protect, nor does this Privacy Policy apply to, any information that you transmit to other users of the Website. You should never transmit personal or identifying information to other users.
 
-**Opt-Out Policy:** If, at any time after registering, (i) you change your mind about receiving information from us or about the use of information volunteered by you, (ii) you need to update or modify any Personal Data, or (iii) you have any other questions or concerns regarding privacy at the Website, please send us a request specifying your new choice at [ ](http://hwdmediashare.co.uk/privacy#)[info@hwdmediashare.co.uk](mailto:info@hwdmediashare.co.uk). We will make every effort to resolve your concerns.
+**Opt-Out Policy:** If, at any time after registering, (i) you change your mind about receiving information from us or about the use of information volunteered by you, (ii) you need to update or modify any Personal Data, or (iii) you have any other questions or concerns regarding privacy at the Website, please send us a request specifying your new choice at [](http://hwdmediashare.co.uk/privacy#)[info@hwdmediashare.co.uk](mailto:info@hwdmediashare.co.uk). We will make every effort to resolve your concerns.
 
-******Communication:** Any inquiry to hwdMediaShare regarding practices outlined in this Privacy Policy or data related matters may be directed to [ ](http://hwdmediashare.co.uk/privacy#)[info@hwdmediashare.co.uk](mailto:info@hwdmediashare.co.uk).
+******Communication:** Any inquiry to hwdMediaShare regarding practices outlined in this Privacy Policy or data related matters may be directed to [](http://hwdmediashare.co.uk/privacy#)[info@hwdmediashare.co.uk](mailto:info@hwdmediashare.co.uk).
 
 _Effective Date: December, 2011_
