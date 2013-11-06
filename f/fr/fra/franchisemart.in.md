@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the franchisemart.in privacy policy that was archived on 2013-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130430230957id_/http%3A//www.franchisemart.in/franchise/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the franchisemart.in privacy policy that was archived on 2013-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131106133932id_/http%3A//www.franchisemart.in/franchise/privacy-policy) for the most accurate reproduction.*
 
 # Franchise Mart » Privacy Policy
 
