@@ -1,12 +1,8 @@
-> *The following text is extracted and transformed from the talkenglish.com privacy policy that was archived on 2013-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130605101225id_/http%3A//www.talkenglish.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the talkenglish.com privacy policy that was archived on 2013-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131106214332id_/http%3A//www.talkenglish.com/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Information for TalkEnglish.com
 
   
-
-
-## Privacy Policy
-
 **Your Personal Information**
 
 We value your privacy and we will do everything possible to keep your information private. We will not share your information to other companies for any reason. 
