@@ -1,40 +1,89 @@
-> *The following text is extracted and transformed from the pgroup.com privacy policy that was archived on 2011-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111217164526id_/http%3A//www.st.com/internet/com/common/privacy_statement.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pgroup.com privacy policy that was archived on 2013-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131106155004id_/http%3A//www.nvidia.com/object/privacy_policy.html) for the most accurate reproduction.*
 
-# Privacy Policy - STMicroelectronics
+# NVIDIA Privacy Policy/Your California Privacy Rights | NVIDIA
 
-"At STMicroelectronics, our culture begins and ends with the Customer; service quality is our number one priority. On-line, our aim is to provide an environment where information is easily targeted, quickly accessed and efficiently retrieved. In line with usual e-business practices, STMicroelectronics does not request personal information from visitors prior to accessing any section of the Company's public web sites. Identifying information (name, address, etc.) is required only when web site visitors interact with STMicroelectronics or ask for a specific service or information". 
+Notice To California Residents – Your California Privacy Rights:
 
-**COLLECTION OF INFORMATION IMPLICITY PROVIDED WHILE ACESSING THE ST.COM WEB SITE  
-** By accessing our public web site, we will be able to collect the following information used for statistical and/or marketing purposes: 
+Effective January 1, 2005, under California Civil Code Section 1798.83 (known as the "Shine the Light" law), if an individual who is a California resident has provided personal information to a business in connection with a business relationship that is primarily for personal, family, or household purposes, and if that business has within the immediately preceding calendar year disclosed such an individual's personal information to a third-party and knows or should have known that such third-party used the information for its own direct marketing purposes, then that business is obligated to disclose in writing to such individual upon request, what personal information was shared and with whom it was shared. A business may comply with this law by: (i) having EITHER a published privacy policy of not sharing a customer's personal information for third-parties' direct marketing use unless the customer has first affirmatively opted in to such sharing OR a published privacy policy of not sharing a customer's personal information for third-parties' direct marketing use if the customer has opted out to prevent his/her personal information from being shared for direct marketing use; AND (ii) notifying the customer of his/her right to opt out and providing a cost-free means for the customer to exercise that right.
 
-\- Your IP address that is requesting a page   
-\- Region of the world you are requesting the page from   
-\- Your Browser type - Your operating system 
+Any request for a disclosure required under this California law should be sent to us via email at [CaliforniaPrivacyDisclosure@nvidia.com](mailto:CaliforniaPrivacyDisclosure@nvidia.com). Please note that under this law, we are not required to respond to a customer's request more than once in a calendar year, nor are we required to respond to any request that is not sent to the email or mailing address designated above.
 
-We may also use third-party service providers to monitor traffic patterns to show how and when visitors use our site. These monitoring technologies may use cookies where authorized by STMicroelectronics. This information is used to improve site design and enhance the visitor experience. The information collected by these means is anonymous and does not personally identify the visitor. Note that browser Privacy Options may offer user control over the acceptance of both first and third party cookies. 
+This policy was last updated on January 6, 2013.
 
-**COLLECTION OF INFORMATION THAT YOU PROVIDE EXPLICITY**   
-When you accept to submit a registration form you are asked to provide at least your name and e-mail address. Sometimes we may ask you to specify your centers of interest and the market segment in which you are working. We may also ask for details of the project (application) for which you are submitting a request. 
+NVIDIA respects the privacy of all visitors to its world wide family of NVIDIA-owned websites and mobile apps, including [www.nvidia.com](http://www.nvidia.com/page/home.html), [www.slizone.com](http://www.slizone.com/), [3DVision Live](http://www.3dvisionlive.com/), [GeForce.com](http://www.geforce.com/), [GTC](http://www.gputechconf.com/page/home.html), [TegraZone.com](http://www.tegrazone.com/), and [shield.nvidia.com](http://shield.nvidia.com/).
 
-We also use cookies to collect and store your profile information. Cookies are used to provide you with an advanced browsing experience. As an example, we may use cookies to remember your preferences or to avoid the resubmission of a registration form that you have already fulfilled. Information that you provide explicitly may be used for the following purposes: 
+[[CLICK HERE](https://web.archive.org/object/privacy_policy_children.html)] for the NVIDIA Kids Privacy Policy.
 
-\- Statistics   
-\- Promotion and Correspondence (if you accept to be contacted)   
-\- Communication   
-\- Purposes specifically related to your registration interest. 
+  1. Introduction
+  2. What Information We May Collect
+  3. Why We Collect Personal Information
+  4. Your Choices Regarding Your Personal Information
+  5. Kids Privacy Policy
+  6. Links to Other Sites
+  7. Security
+  8. How to Contact Us
+  9. Online Privacy Policy Updates
+  10. Your Consent
 
-Information that you provide explicitly is not communicated outside STMicroelectronics, except when it is mandatory to provide the information to a third party to supply a service that you have explicitly requested.   
-From STMicroelectronics web site you may be redirected to third parties' web sites.   
-STMicroelectronics does not control third parties' web sites; therefore we kindly recommend that you read the privacy policy available in these web sites. 
 
-**User profile observation**   
-STMicroelectronics matches the information you explicitly provide with the observation of the activity you perform within the web site. All information collected increases our knowledge about your profile in order to better serve you.   
-The information may be used to personalize the information delivered to your Browser. 
 
-The information may also be used to communicate with you via e-mail and/or to make offers to you while visiting our web site.   
-E-mail communication can be avoided if you opt-out of receiving future marketing e-mailings. 
+________________________________________________________________________
 
-Because they are necessary to enable us to adequately provide our services, you cannot opt-out of receiving administrative communications related to your registration, such as in the case of a registration confirmation. 
+  1. #### Introduction
 
-Privacy Policy Changes   
-This policy was updated on July 8th 2005
+NVIDIA® is committed to implementing appropriate protections for any Personal Information that our users share with us. 
+
+NVIDIA's Online Privacy Policy and Kids Privacy Policy set forth our policies and procedures regarding our collection, use, and/or sharing of your Personal Information.
+
+  2. #### What Information We May Collect
+
+When users visit our website or mobile apps, we may collect " **Personal information** ," which is any information that can be used to identify a particular individual, such as name, address, e-mail address, telephone number, or other contact information. In addition, we may collect information about your visits to our websites, including the pages you view, the links and ads you click, search terms you enter, and other actions you take in connection with NVIDIA websites. We may also collect certain information from the browser you used to come to our website, such as your Internet Protocol (IP) address, browser type and language, access times, the Uniform Resource Locator (URL) of the website that referred you to our website and to which URL you browse away from our site if you click on a link on our site. When other non-public information, such as product preferences, hobbies or browsing history, is directly associated with personally identifiable information, that other information is treated as Personal Information.
+
+Please note: The **NVIDIA Online Store** is managed independently by Digital River, Inc., and is subject exclusively to the Digital River Privacy Statement. For a complete view of the statement please click [here](http://store.nvidia.com/store?Action=DisplayPrivacyAndSecurityPage&SiteID=nvidia).
+
+[CLICK HERE] to learn more about how Personal Information is collected.
+
+  3. #### Why We Collect Personal Information
+
+The Personal Information we collect helps us process transactions, respond to requests, and learn about our users' interests in terms of the features, performance and support of our products, and customize our users' website experience (including the content and advertisements delivered on our websites). We also use this information to send newsletters or promotional e-mails regarding new or upgraded products and services. (Please see the section below on **Your Choices Regarding Your Personal Information**.)
+
+We do not sell Personal Information about our customers or website users to any third parties. We may from time to time share your Personal Information with our business partners, resellers, affiliates, or consulting partners in an effort to better serve you. For example, when you register for a marketing event or contest on our website, we may share your Personal Information with the business partners that help us run the event or contest.
+
+[CLICK HERE] to learn more how we may share your Personal Information with our business partners. 
+
+  4. #### Your Choices Regarding Your Personal Information
+
+NVIDIA respects your choices about how your Personal Information is used when you register with us, elect to receive our newsletters, or provide us with Personal Information for other purposes.
+
+    * If you choose _not_ to provide any Personal Information when requested on the website, you can still enjoy most areas on the website. However, you may be unable to access certain areas and services that require our interaction with you.
+    * If you choose to provide NVIDIA with your Personal Information, you can " **opt-in** " to also receive additional communications from NVIDIA, our affiliates or our business partners, such as newsletters, promotional materials, special offers, etc. 
+    * You can " **opt-out** " of receiving further communications at any time by unsubscribing at **<http://www.nvidia.com/object/opt-out.html>** , or by following the unsubscribe instructions at the bottom of any e-mail you receive. We will alert our e-mail marketing partners to stop sending you any further NVIDIA-related communications. However, we may still send you updates to our Legal Notices, Online Privacy Policy, or regarding any account you have created with us. 
+  
+
+  5. #### Kids Privacy Policy
+
+We take care to protect the privacy of children under the age of 13 who visit our websites or mobile apps.  
+[[CLICK HERE](https://web.archive.org/object/privacy_policy_children.html)] to access NVIDIA's **Kids Privacy Policy**.
+
+  6. #### Links to Other Sites
+
+We are not responsible for any content, products or services offered on any third-party websites. Links to third-party websites are provided for your convenience only. This Privacy Policy will not apply to any Personal Information that you provide to, or that is collected by, any third-party website operator or third-party product/service provider.
+
+  7. #### Security
+
+We will take all reasonable and appropriate measures to protect the personal information you share with us from unauthorized access or disclosure.
+
+  8. #### How to Contact Us
+
+If you have any questions or concerns about NVIDIA's Online Privacy Policy or Kids Privacy Policy, please send an email to [privacy@nvidia.com](mailto:privacy@nvidia.com) or write to us at: NVIDIA Corporation, 2701 San Tomas Expressway, Santa Clara, CA 95050.
+
+  9. #### Online Privacy Policy Updates
+
+We may makes changes to our Online Privacy Policy from time to time. Please review our policies regularly as updated policies will apply to your future visits to our website.
+
+  10. #### Your Consent
+
+By using this website, you consent to the terms of our Online Privacy Policy and to NVIDIA's collecting and processing of your Personal Information for the purposes listed herein. Your Personal Information may be processed in the country in which it was collected and in the United States and other countries in which NVIDIA's backup storage may be located. NVIDIA is committed to complying with all applicable laws regarding consumer privacy. At a minimum, your Personal Information will be processed in accordance with the terms of this Online Privacy Policy and the laws of the United States, which may be more or less stringent than the laws in your country.
+
+
+
