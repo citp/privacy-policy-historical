@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seekcommercial.com.au privacy policy that was archived on 2013-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130529151804id_/http%3A//seekcommercial.com.au/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seekcommercial.com.au privacy policy that was archived on 2013-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131106122739id_/http%3A//www.seekcommercial.com.au/Privacy) for the most accurate reproduction.*
 
 # SEEK Commercial - Privacy
 
@@ -70,24 +70,22 @@ SEEK Commercial also collects non-personal information in aggregate form to trac
 
 We use this information, which remains in aggregate form, to understand how our website visitors use our website so that we can constantly improve and enhance our services. We may also share this information with our partners for the purpose of providing you with optimal services.
 
-Like many website operators, SEEK Commercial uses the independent company Nielsen//NetRatings to measure and analyse the internet usage across our websites. We use Nielsen//NetRatings' services to collect the following types of information:
+Like many website operators, SEEK Commercial uses the independent company Nielsen//NetRatings to measure and analyse the internet usage across our websites. We use 3rd party services to collect the following types of information:
 
-·                   the number of page views that occur on our website;
+  * page views, visits, searches and enquiries that occur on our website;
+  * how long visitors (on average) spend on our websites,
+  * which search criteria they use
+  * common entry, exit points and paths tehy take.
 
-·                   the number of unique browsers to our websites;
 
-·                   how long these unique browsers (on average) spend on our websites when they do visit; and
 
-·                   common entry and exit points of our websites.
+Your Internet Provider ("IP") address
 
-The Nielsen//NetRatings data is also accessible by media organisations and research companies, for the purpose of conducting industry comparisons with other internet portals.
-
-Your Internet Provider ("IP") address  
 SEEK Commercial's web servers provide us with your IP address. This assists us in the diagnosis of problems and or support issues with our services.
 
-Cookies   
-SEEK Commercial uses 'cookies' to provide you with a better, and more relevant, browsing experience. Cookies are able to ‘remember’ your search parameters, and recently viewed ads, and are also able to collect anonymous browsing data. Based on this data collection, SEEK Commercial can tailor ads that appear to your browsing preferences.  Cookies DO NOT collect any of your Personal Information (as that term is defined in the Privacy Act (1988) Cth)).  If you would prefer that cookies were not active whilst you browse the SEEK Commercial site, you are able to disable cookies via your computer's web browser settings. To opt out of our online advertising, follow the instructions on [this page](https://www.google.com/intl/en/policies/privacy/ads/)  
-   
+Cookies
+
+ SEEK Commercial uses 'cookies' to provide you with a better, and more relevant, browsing experience. Cookies are able to ‘remember’ your search parameters, and recently viewed ads or profiles, and are also able to collect anonymous browsing data. Based on this data collection, SEEK Commercial can tailor ads that appear to your browsing preferences.  Cookies DO NOT collect any of your Personal Information (as that term is defined in the Privacy Act (1988) Cth)).  If you would prefer that cookies were not active whilst you browse the SEEK Commercial site, you are able to disable cookies via your computer's web browser settings. To opt out of our online advertising, follow the instructions on [this page](https://www.google.com/intl/en/policies/privacy/ads/)  
   
 **3.**
 
