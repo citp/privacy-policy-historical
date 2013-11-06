@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mono.net privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530222717id_/http%3A//www.mono.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mono.net privacy policy that was archived on 2013-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131106125702id_/http%3A//www.mono.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | mono.net
 
@@ -108,7 +108,7 @@ We use third-party traffic log cookies (Google Analytics & PIWIK) to identify wh
 
 Advertising Cookies
 
-We partner with a third party ad network to manage our advertising on other sites.  Our ad network partner uses cookies and Web beacons to collect non-personally identifiable information about your activities on this and other Web sites to provide you targeted advertising based upon your interests.  If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by clicking here. Please note this does not opt you out of being served advertising.  You will continue to receive generic ads.
+We partner with a third party ad network (Google) to manage our advertising on other sites.  Our ad network partner uses cookies and Web beacons to collect non-personally identifiable information about your activities on this and other Web sites to provide you targeted advertising based upon your interests.  If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out of Google remarketing by clicking [here](https://www.google.com/settings/ads/plugin/). Please note this does not opt you out of being served advertising.  You will continue to see generic ads.
 
 Social media cookies
 
