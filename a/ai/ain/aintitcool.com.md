@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aintitcool.com privacy policy that was archived on 2013-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130506022159id_/http%3A//www.aintitcool.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aintitcool.com privacy policy that was archived on 2013-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131106083254id_/http%3A//www.aintitcool.com/privacy) for the most accurate reproduction.*
 
 # our privacy policy - Ain't It Cool News: The best in movie, TV, DVD, and comic book news.
 
