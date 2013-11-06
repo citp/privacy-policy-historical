@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the outsideonline.com privacy policy that was archived on 2013-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130529062658id_/http%3A//www.outsideonline.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the outsideonline.com privacy policy that was archived on 2013-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131106122802id_/http%3A//www.outsideonline.com/privacy-policy) for the most accurate reproduction.*
 
 # Mariah Media Network LLC’s Privacy Policy | Privacy Policy | OutsideOnline.com
 
@@ -14,7 +14,7 @@ This policy describes Mariah Media’s online privacy practices on the websites 
 
   1. **Contact information**. For example, we may collect your name and email address.  We may also collect your street address or phone number.  We may collect other I.D. numbers like user names.
   2. **Payment information**.  For example, if you make purchases, we might collect your credit card information.
-  3. **Other information**. For example, we may collect information about the website browser you are using, the pages you visit, or the third party websites from which or to which you go from our Site.  We collect this information using the tracking technologies [described ](http://www.outsideonline.com/advertise/about-our-ads.html)[here](http://dev.www.outsideonline.com/advertise/about-our-ads.html?page=1&abc=bsahqLX9).
+  3. **Other information**. For example, we may collect information about the website browser you are using, the pages you visit, or the third party websites from which or to which you go from our Site.  We collect this information using the tracking technologies [described here](http://www.outsideonline.com/advertise/about-our-ads.html).
 
 
 
