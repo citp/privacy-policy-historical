@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the barishh.com privacy policy that was archived on 2013-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130507030329id_/http%3A//barishh.com/Privacy-Policy-pid-17491.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the barishh.com privacy policy that was archived on 2013-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131106124536id_/http%3A//barishh.com/Privacy-Policy-pid-17491.html) for the most accurate reproduction.*
 
 # Privacy Policy • Barishh.com
 
-This privacy policy sets out how barishh.zepo.in uses and protects any information that you give **barishh.com**  when you use this website.
+This privacy policy sets out how barishh.zepo.in uses and protects any information that you give **barishh.com** when you use this website.
 
-**barishh.com**  is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
+**barishh.com** is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
 
-**barishh.zepo.in** may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from 13/04/2013.
+**barishh.com** may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from 13/04/2013.
 
 **What we collect**
 
@@ -62,11 +62,11 @@ You may request details of personal information which we hold about you under th
 
 If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect.
 
-Information about Advertising 
+Information about Advertising
 
 Sometimes we collect information to advertise with help of third-party vendors, including Google and show our ads on sites across the Internet. Many third-party vendors, including Google, use cookies to serve ads based on your (visiot's) past visits to barishh.com.
 
-You can opt out of Google's use of cookies by visiting Google's Ads Settings at anytime when you see our ad across the internet. 
+You can opt out of Google's use of cookies by visiting Google's Ads Settings at anytime when you see our ad across the internet.
 
 **Contacting Us**
 
@@ -82,4 +82,4 @@ _**MG Road, Gurgaon, HR - 122001**_
 
 9971149149
 
-info@barishh.com 
+info@barishh.com
