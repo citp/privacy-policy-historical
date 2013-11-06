@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the driversdownloadnow.com privacy policy that was archived on 2013-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130523235549id_/http%3A//driversdownloadnow.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the driversdownloadnow.com privacy policy that was archived on 2013-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131106122958id_/http%3A//driversdownloadnow.com/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
