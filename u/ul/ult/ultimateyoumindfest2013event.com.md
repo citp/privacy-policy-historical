@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ultimateyoumindfest2013event.com privacy policy that was archived on 2013-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130531151236id_/http%3A//www.learningstrategies.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ultimateyoumindfest2013event.com privacy policy that was archived on 2013-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131106125623id_/http%3A//www.learningstrategies.com/privacy.asp) for the most accurate reproduction.*
 
-# Learning Strategies Corporation Privacy Policy
+# Learning Strategies | Privacy Policy
 
 Privacy Policy 
 
