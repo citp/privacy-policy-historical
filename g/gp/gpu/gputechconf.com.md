@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gputechconf.com privacy policy that was archived on 2013-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130424235836id_/http%3A//www.nvidia.com/object/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gputechconf.com privacy policy that was archived on 2013-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131106155004id_/http%3A//www.nvidia.com/object/privacy_policy.html) for the most accurate reproduction.*
 
-# NVIDIA Privacy Policy/Your California Privacy Rights
+# NVIDIA Privacy Policy/Your California Privacy Rights | NVIDIA
 
 Notice To California Residents – Your California Privacy Rights:
 
@@ -57,7 +57,7 @@ NVIDIA respects your choices about how your Personal Information is used when yo
 
     * If you choose _not_ to provide any Personal Information when requested on the website, you can still enjoy most areas on the website. However, you may be unable to access certain areas and services that require our interaction with you.
     * If you choose to provide NVIDIA with your Personal Information, you can " **opt-in** " to also receive additional communications from NVIDIA, our affiliates or our business partners, such as newsletters, promotional materials, special offers, etc. 
-    * You can " **opt-out** " of receiving further communications at any time by unsubscribing at **<http://www.nvidia.com/nvregister/frmOptOut.asp>** , or by following the unsubscribe instructions at the bottom of any e-mail you receive. We will alert our e-mail marketing partners to stop sending you any further NVIDIA-related communications. However, we may still send you updates to our Legal Notices, Online Privacy Policy, or regarding any account you have created with us. 
+    * You can " **opt-out** " of receiving further communications at any time by unsubscribing at **<http://www.nvidia.com/object/opt-out.html>** , or by following the unsubscribe instructions at the bottom of any e-mail you receive. We will alert our e-mail marketing partners to stop sending you any further NVIDIA-related communications. However, we may still send you updates to our Legal Notices, Online Privacy Policy, or regarding any account you have created with us. 
   
 
   5. #### Kids Privacy Policy
