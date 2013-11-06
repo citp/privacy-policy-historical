@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the friendfeed.com privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530133555id_/http%3A//friendfeed.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the friendfeed.com privacy policy that was archived on 2013-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131106200407id_/http%3A//friendfeed.com/about/privacy) for the most accurate reproduction.*
 
 # FriendFeed - Privacy Policy
 
@@ -70,7 +70,7 @@ You can decline to submit personal information to our Service, in which case Fri
 In addition to the uses noted above, FriendFeed only shares personal information with other companies or individuals outside of FriendFeed in the following limited circumstances:
 
   * We have your consent. We require opt-in consent for the sharing of any sensitive personal information.
-  * We have a good faith belief that access, use, preservation or disclosure of such information is reasonably necessary to (a) satisfy any applicable law, regulation, legal process or enforceable governmental request, (b) enforce applicable [Terms of Service](https://web.archive.org/web/20130530133555id_/http%3A//friendfeed.com/about/terms), including investigation of potential violations thereof, (c) detect, prevent, or otherwise address fraud, security or technical issues, or (d) protect against imminent harm to the rights, property or safety of FriendFeed, its users or the public as required or permitted by law.
+  * We have a good faith belief that access, use, preservation or disclosure of such information is reasonably necessary to (a) satisfy any applicable law, regulation, legal process or enforceable governmental request, (b) enforce applicable [Terms of Service](https://web.archive.org/web/20131106200407id_/http%3A//friendfeed.com/about/terms), including investigation of potential violations thereof, (c) detect, prevent, or otherwise address fraud, security or technical issues, or (d) protect against imminent harm to the rights, property or safety of FriendFeed, its users or the public as required or permitted by law.
 
 
 
