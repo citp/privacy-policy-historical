@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cattipper.com privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602103231id_/http%3A//www.cattipper.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cattipper.com privacy policy that was archived on 2013-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131106131624id_/http%3A//www.cattipper.com/about/privacy) for the most accurate reproduction.*
 
-# Privacy : CatTipper: Saving $ and Saving Cats with America's Pet Economist
+# Privacy - CatTipper: Saving $ and Saving Cats with America's Pet Economist
 
 This privacy policy applies to the use of CatTipper.com.
 
@@ -72,3 +72,6 @@ PO Box 1389
 Cedar Park, TX 78630
 
 This privacy policy was last updated on June 7, 2012.
+
+[](http://pinterest.com/pin/create/button/?url=http%3A%2F%2Fwww.cattipper.com%2Fabout%2Fprivacy&media=&description=Privacy) |   
+---|---
