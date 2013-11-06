@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allinahealth.org privacy policy that was archived on 2013-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130625172312id_/http%3A//www.allinahealth.org/ahs/help.nsf/page/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allinahealth.org privacy policy that was archived on 2013-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131106062030id_/http%3A//www.allinahealth.org/ahs/help.nsf/page/privacypolicy) for the most accurate reproduction.*
 
 # Privacy policy for allinahealth.org
 
