@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the redz.com privacy policy that was archived on 2013-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130626070959id_/http%3A//redz.com/guest/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the redz.com privacy policy that was archived on 2013-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131106011443id_/http%3A//redz.com/guest/policy) for the most accurate reproduction.*
 
 # Redz.com - Web : Redz.com
 
