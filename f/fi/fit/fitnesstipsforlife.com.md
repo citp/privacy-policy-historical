@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fitnesstipsforlife.com privacy policy that was archived on 2013-01-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130116064041id_/http%3A//www.fitnesstipsforlife.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fitnesstipsforlife.com privacy policy that was archived on 2013-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131106171336id_/http%3A//www.fitnesstipsforlife.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -62,6 +62,10 @@ Fitness Tips for Life
 Airdrie, Alberta  
 none  
 bill@nadraszky.com
+
+**Get Your Free "Get Fit Now!" Ebook**
+
+Learn all the basics and shortcuts to get in shape quickly and living a vibrant and healthy lifestyle 
 
 **GD Star Rating**  
  _loading..._
