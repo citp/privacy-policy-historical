@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the transgenderdate.com privacy policy that was archived on 2013-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130508132447id_/http%3A//transgenderdate.com/content.php%3Fc%3DPRIVACY) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the transgenderdate.com privacy policy that was archived on 2013-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131106120613id_/http%3A//transgenderdate.com/content.php%3Fc%3DPRIVACY) for the most accurate reproduction.*
 
 # Free Transgender Personals - TG Dating Service
 
