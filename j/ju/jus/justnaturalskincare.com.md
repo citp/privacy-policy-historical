@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the justnaturalskincare.com privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602140531id_/http%3A//justnaturalskincare.com/customer/privacy_security.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the justnaturalskincare.com privacy policy that was archived on 2013-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131106180038id_/http%3A//www.justnaturalskincare.com/customer/privacy_security.html) for the most accurate reproduction.*
 
 # Privacy & Security - Ordering - Payments - Returns - Shipping - JustNaturalSkinCare.com
 
-[](https://web.archive.org/web/20130602140531id_/http%3A//justnaturalskincare.com/index.html)
+[](https://web.archive.org/web/20131106180038id_/http%3A//www.justnaturalskincare.com/index.html)
 
-[](https://web.archive.org/web/20130602140531id_/http%3A//justnaturalskincare.com/customer/verisign-information.html)
+[](https://web.archive.org/web/20131106180038id_/http%3A//www.justnaturalskincare.com/customer/verisign-information.html)
 
 Just Natural **  Organic Care  
 **
@@ -41,7 +41,7 @@ If you have a question we are here to help.
 
 Leave us a detailed email message by clicking here 
 
-[**COMMENTS / QUESTIONS**](https://web.archive.org/web/20130602140531id_/http%3A//justnaturalskincare.com/questions-comments.html) We'll respond as soon as possible to help you with your concerns. **All JustNatural products are proudly made in the USA  
+[**COMMENTS / QUESTIONS**](https://web.archive.org/web/20131106180038id_/http%3A//www.justnaturalskincare.com/questions-comments.html) We'll respond as soon as possible to help you with your concerns. **All JustNatural products are proudly made in the USA  
 **
 
 **How we use your Information?  
