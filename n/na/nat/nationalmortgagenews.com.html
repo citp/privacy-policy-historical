@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the nationalmortgagenews.com privacy policy that was archived on 2013-06-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130627112318id_/http%3A//www.nationalmortgagenews.com/aboutus/privacy_policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the nationalmortgagenews.com privacy policy that was archived on 2013-11-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131106080546id_/http%3A//www.nationalmortgagenews.com/aboutus/privacy_policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -150,7 +150,7 @@
 								var welcomeCookie = "nmn_welcome_undefined";
 								var frequency;
 								var expire = new Date();
-								expire.setTime(1372936998000);
+								expire.setTime(1384329947000);
 
 									if(welcomeCookie != "nmn_welcome_undefined" && welcomeCookie != null && screen.width > 768) {
 										if ((document.cookie.indexOf(welcomeCookie)==-1)) {
@@ -188,7 +188,63 @@
 									}
 						  </script>
 	
-    
+
+	
+
+	
+<script language="javascript" type="text/javascript">
+jQuery.extend({
+	getURLParam: function(strParamName){
+		var strReturn = "";
+		var strHref = window.location.href;
+		var bFound=false;
+		var cmpstring = strParamName + "=";
+		var cmplen = cmpstring.length;
+		if ( strHref.indexOf("?") > -1 ){
+			var strQueryString = strHref.substr(strHref.indexOf("?")+1);
+			var aQueryString = strQueryString.split("&");
+			for ( var iParam = 0; iParam < aQueryString.length; iParam++ ){
+				if (aQueryString[iParam].substr(0,cmplen)==cmpstring){
+					var aParam = aQueryString[iParam].split("=");
+					strReturn = aParam[1];
+					bFound=true;
+					break;
+				}
+			}
+		}
+		if (bFound==false) return null;
+		return strReturn;
+	}
+});
+
+$(document).ready(function(){
+	$("#custom_metered_reg6").fancybox({
+		'hideOnOverlayClick': false,
+		'centerOnScroll' : true,
+		'autoScale' : false,
+		'autoDimensions' : false,
+		'width': 775,
+		'height': 510,
+		'onClosed': function() {
+			location.href = "/index.html";
+		}
+	});
+	$( "#pop_reg" ).bind( "click", function(){
+		$( "#custom_metered_reg6" ).trigger( "click" );
+		return false;
+	});
+	if ($.getURLParam("reg-pop")) {
+		$( "#custom_metered_reg6" ).trigger( "click" );
+		return false;
+	}
+	if ($.getURLParam("login-pop")) {
+		$( "#signInLink" ).trigger( "click" );
+		return false;
+	}
+});
+</script>
+
+
 <script src="//platform.linkedin.com/in.js" type="text/javascript"></script>
 
 
@@ -197,8 +253,12 @@
 
 
 	
+			
+				
 		
 	
+
+
 
 
 
@@ -227,6 +287,9 @@
 		</script><script src="https://www.googletagservices.com/tag/js/gpt.js"></script> 
 		<script>
 		
+var pushdown = googletag.defineSlot("/16059533/NationalMortgageNews", [[970, 66],[970, 90]], "pushdown")
+	.addService(googletag.pubads())
+	.setTargeting("nmn_pos", "pushdown");
 var leaderboard = googletag.defineSlot("/16059533/NationalMortgageNews", [728, 90], "leaderboard")
 	.addService(googletag.pubads())
 	.setTargeting("nmn_pos", "leaderboard");
@@ -272,6 +335,12 @@ var rightbutton4 = googletag.defineSlot("/16059533/NationalMortgageNews", [120, 
 var loginbar = googletag.defineSlot("/16059533/NationalMortgageNews", [120, 60], "loginbar")
 	.addService(googletag.pubads())
 	.setTargeting("nmn_pos", "loginbar");
+var smallbanner = googletag.defineSlot("/16059533/NationalMortgageNews", [468, 60], "smallbanner")
+	.addService(googletag.pubads())
+	.setTargeting("nmn_pos", "smallbanner");
+var smallbanner2 = googletag.defineSlot("/16059533/NationalMortgageNews", [468, 60], "smallbanner2")
+	.addService(googletag.pubads())
+	.setTargeting("nmn_pos", "smallbanner2");
 var bottombanner = googletag.defineSlot("/16059533/NationalMortgageNews", [728, 90], "bottombanner")
 	.addService(googletag.pubads())
 	.setTargeting("nmn_pos", "bottombanner");
@@ -304,6 +373,11 @@ googletag.pubads().enableSyncRendering();
      ref.parentNode.insertBefore(js, ref);
    }(document));
 </script>
+
+	<a id="custom_metered_reg6" href="/custom_registration/metered_welcome_main.html?client_id=nationalmortgage&amp;product_source_type=WEB&amp;return_url=/aboutus/privacy_policy.html&amp;user_demo17=207.241.237.211" class="iframe"></a>
+	<a id="custom_metered_reg9" href="/custom_registration/metered_welcome_9.html?client_id=nationalmortgage&amp;product_source_type=WEB&amp;return_url=/aboutus/privacy_policy.html&amp;user_demo17=207.241.237.211" class="iframe"></a>
+	<a id="custom_metered_reg11" href="/custom_registration/metered_welcome_11.html?client_id=nationalmortgage&amp;product_source_type=WEB&amp;return_url=/aboutus/privacy_policy.html&amp;user_demo17=207.241.237.211" class="iframe"></a>
+	<a id="custom_metered_reg13" href="/custom_registration/metered_welcome_13.html?client_id=nationalmortgage&amp;product_source_type=WEB&amp;return_url=/aboutus/privacy_policy.html&amp;user_demo17=207.241.237.211" class="iframe"></a>
 
 	
 			<a id="inline-welcome" href="/ad_includes_nmn/welcome.html" class="iframe"></a>
@@ -441,29 +515,29 @@ googletag.pubads().enableSyncRendering();
 				<a href="http://www.nationalmortgagenews.com"><img src="http://cdn.nationalmortgagenews.com/media/ui/NMN-hdr-logo-274x54.png" alt="National Mortgage News"></a>
 						
 		<div id="logo-date">
-		Thursday, June 27, 2013 		</div>
+		Wednesday, November  6, 2013 		</div>
 	</div>
 	<div id="search" class="right" style="padding-top:10px">
 		<div id="actions-nav" class="right">
-						<ul>
-				<li><a href="/subscribe/" style="margin-right:30px" class="black">Send me the print edition</a><a href="/subscribe/trial.html" class="black">Send me electronic newsletters &amp; alerts</a></li>
+			<ul>
+				<li><a href="/subscribe/" style="margin-right:30px" class="black">Subscribe For Full Access + Print Edition</a><a href="/subscribe/trial.html" class="black" id="pop_reg">Register for Free E-Newsletters</a></li>
 			</ul>
-					</div>
+		</div>
 		<div id="search-box" class="clearfix right">
 					<form name="search" id="form1" action="/search/index.html">
 			<input type="hidden" name="zkDo" value="search" id="zkDo">
-			<input type="hidden" name="frommonth" value="12">
-			<input type="hidden" name="fromday" value="27">
-			<input type="hidden" name="fromyear" value="2011">
-			<input type="hidden" name="tomonth" value="06">
-			<input type="hidden" name="today" value="27">
+			<input type="hidden" name="frommonth" value="05">
+			<input type="hidden" name="fromday" value="06">
+			<input type="hidden" name="fromyear" value="2012">
+			<input type="hidden" name="tomonth" value="11">
+			<input type="hidden" name="today" value="06">
 			<input type="hidden" name="toyear" value="2013">
 			<input type="hidden" name="publication" value="all_articles">
 			<div class="left" id="social-nav">
 				<ul>
 					<li><a href="/aboutus/rss.html" target="_blank"><img src="http://cdn.nationalmortgagenews.com/media/ui/rss-19x18.png" alt="RSS"></a></li>
 					<li><a href="http://www.facebook.com/pages/National-Mortgage-News/177051835688381" target="_blank"><img src="http://cdn.nationalmortgagenews.com/media/ui/facebook-19x18.png" alt="Facebook"></a></li>
-					<li><a href="http://www.linkedin.com/groupRegistration?gid=3176067" target="_blank"><img src="http://cdn.nationalmortgagenews.com/media/ui/linkedin-19x18.png" alt="LinkedIn"></a></li>
+					<li><a href="http://www.linkedin.com/groups?gid=3176067" target="_blank"><img src="http://cdn.nationalmortgagenews.com/media/ui/linkedin-19x18.png" alt="LinkedIn"></a></li>
 					<li><a href="http://twitter.com/NatMortgageNews" target="_blank"><img src="http://cdn.nationalmortgagenews.com/media/ui/twitter-19x18.png" alt="Twitter"></a></li>
 					<li><g:plusone size="medium" annotation="none"></g:plusone></li>
 				</ul>
@@ -486,7 +560,7 @@ googletag.pubads().enableSyncRendering();
 	<div id="global-menu">
 	<div class="nav-container">
 		<div id="publication-links" class="left">
-		<a href="http://buyersguide.nationalmortgagenews.com/" class="black">Buyer's Guide</a> | <a href="http://www.nationalmortgagenews.com/classifieds/" class="black">Classifieds</a> | <a href="http://www.nationalmortgagenews.com/papers/" class="black">White Papers</a> | <a href="http://www.nationalmortgagenews.com/aboutus/advertise.html" class="black">Advertising Info</a>
+		<a href="http://buyersguide.nationalmortgagenews.com/" class="black">Buyer's Guide</a> | <a href="http://www.nationalmortgagenews.com/classifieds/" class="black">Classifieds</a> | <a href="http://www.nationalmortgagenews.com/papers/" class="black">White Papers</a> | <a href="http://www.nationalmortgagenews.com/webinars/" class="black">Web Seminars</a> | <a href="http://www.nationalmortgagenews.com/aboutus/advertise.html" class="black">Advertising Info</a>
 		</div>
 		<div id="account-links" class="right">
 				<a href="#signInContainer" class="first fancybox black">Log In</a> | <a href="http://www.nationalmortgagenews.com/profile/" class="black">My Account</a> | <a href="http://www.nationalmortgagenews.com/aboutus/contactus.html" class="black">Customer Service</a>
@@ -698,19 +772,19 @@ googletag.pubads().enableSyncRendering();
 							  	
 				
 					      					<div class="blog-watch-item">
-		      	<a href="http://www.nationalmortgagenews.com//dailybriefing/former-new-york-affordable-housing-supervisor-convicted-for-taking-bribes-1037206-1.html">Former New York Affordable Housing Supervisor Convicted for Taking Bribes</a>
+		      	<a href="http://www.nationalmortgagenews.com//dailybriefing/deutsche-bank-subsidiary-resolves-lending-discrimination-claims-1039749-1.html">Deutsche Bank Subsidiary Resolves Lending Discrimination Claims</a>
 		      </div>
 									<div class="blog-watch-item">
-		      	<a href="http://www.nationalmortgagenews.com//dailybriefing/CFPB-Expands-Its-Reach-Supervise-Nonbanks-1037210-1.html">CFPB Expands Its Reach to Supervise Nonbanks</a>
+		      	<a href="http://www.nationalmortgagenews.com//dailybriefing/37th-investor-admits-to-california-bid-rigging-1039735-1.html">A 37th Investor Admits to California Bid Rigging</a>
 		      </div>
 									<div class="blog-watch-item">
-		      	<a href="http://www.nationalmortgagenews.com//dailybriefing/Good-Graces-of-the-CFPB-1037195-1.html">How to Stay in the Good Graces of the CFPB</a>
+		      	<a href="http://www.nationalmortgagenews.com//dailybriefing/Florida-Foreclosure-King-Faces-Disbarment-1039747-1.html">Florida 'Foreclosure King' Faces Disbarment</a>
 		      </div>
 									<div class="blog-watch-item">
-		      	<a href="http://www.nationalmortgagenews.com//dailybriefing/Report-Reiterates-Overall-Benefits-Financial-Coaching-1037194-1.html">Report Reiterates Overall Benefits of Financial Coaching</a>
+		      	<a href="http://www.nationalmortgagenews.com//dailybriefing/Predictions-New-CU-Mortgage-Lending-Landscape-1039740-1.html">Predictions of a New CU Mortgage Lending Landscape</a>
 		      </div>
 									<div class="blog-watch-item last-item">
-		      	<a href="http://www.nationalmortgagenews.com//dailybriefing/ResCap-Asks-Judge-Approve-Deal-1037187-1.html">ResCap Asks Judge to Approve Deal Before Releasing Probe Report</a>
+		      	<a href="http://www.nationalmortgagenews.com//dailybriefing/small-banks-press-lawmakers-to-preserve-access-in-housing-finance-reform-1039750-1.html">Small Banks Press Lawmakers to Preserve Access in Housing Finance Reform</a>
 		      </div>
 					      	    	       
       </div>
@@ -722,27 +796,27 @@ googletag.pubads().enableSyncRendering();
 					      	
 							        
 		        <div class="article-related-links-item">
-		            <a href="http://www.nationalmortgagenews.com//origination/More-Year-Round-Homeownership-Counseling-Sought-1037208-1.html">More Year Round Homeownership Counseling Sought</a>
+		            <a href="http://www.nationalmortgagenews.com//reo/alternative-lenders-face-hurdles-helping-borrowers-refinance-notes-1039741-1.html">Alternative Lenders Face Hurdles Helping Borrowers Refinance Notes</a>
 		        </div>         
 		        
 		        <div class="article-related-links-item">
-		            <a href="http://www.nationalmortgagenews.com//reo/does-falling-inventory-signal-an-end-to-reos-1037160-1.html">Does Falling Inventory Signal an End to REOs?</a>
+		            <a href="http://www.nationalmortgagenews.com//origination/Reverse-Originators-Check-Credit-1039506-1.html">Reverse Originators Must Check Credit</a>
 		        </div>         
 		        
 		        <div class="article-related-links-item">
-		            <a href="http://www.nationalmortgagenews.com//origination/Lenders-Skittish-Credit-Buybacks-Changes-1037008-1.html">Lenders Remain Skittish about Credit Due to Buybacks, Changes</a>
+		            <a href="http://www.nationalmortgagenews.com//reo/do-natural-disasters-lead-to-more-mortgage-defaults-1039316-1.html">Do Natural Disasters Lead to More Mortgage Defaults?</a>
 		        </div>         
 		        
 		        <div class="article-related-links-item">
-		            <a href="http://www.nationalmortgagenews.com//origination/New-Emphasis-Regarding-Consumer-Mortgage-Training-1036866-1.html">New Emphasis Regarding Consumer Mortgage Training</a>
+		            <a href="http://www.nationalmortgagenews.com//origination/Helping-Originators-Avoid-Poor-Appraisals-1039284-1.html">Helping Originators Avoid Poor Quality Appraisals</a>
 		        </div>         
 		        
 		        <div class="article-related-links-item">
-		            <a href="http://www.nationalmortgagenews.com//reo/sellers-remain-reluctant-to-act-despite-price-rise-1036851-1.html">Sellers Remain Reluctant to Act Despite Price Rise</a>
+		            <a href="http://www.nationalmortgagenews.com//origination/Fourth-Quarter-Depends-Fed-1039174-1.html">Fourth Quarter Business Depends on the Fed</a>
 		        </div>         
 		        
 		        <div class="article-related-links-item last-item">
-		            <a href="http://www.nationalmortgagenews.com//reo/preparing-for-new-default-legal-services-requirement-changes-1036734-1.html">Preparing for New Default Legal Services Requirement Changes</a>
+		            <a href="http://www.nationalmortgagenews.com//reo/tool-launched-to-evaluate-loans-alleviate-compliance-concerns-1039076-1.html">Tool Launched to Evaluate Loans, Alleviate Compliance Concerns</a>
 		        </div>         
 		                                       
 		      	      	     
@@ -760,12 +834,12 @@ googletag.pubads().enableSyncRendering();
                     																          		<div class="clearfix person">
 	              			              																						
 														              								<div class="carousel-item-image left">
-							<img src="http://cdn.nationalmortgagenews.com/media/newspics/bonnie_sinnock3.jpg">
+							<img src="http://cdn.nationalmortgagenews.com/media/newspics/ted_cornwell.gif">
 						</div>
 							              
 						<div class="left item">
 							<div class="carousel-item-title">
-								<a href="http://www.nationalmortgagenews.com//blogs/hearing/Draw-Line-in-Sand-for-Residential-1037172-1.html">Draw a Line in the Sand for Residential</a>
+								<a href="http://www.nationalmortgagenews.com//blogs/hearing/Some-Sandy-Victims-Still-Seething-Insurance-Denials-1039727-1.html">Some Sandy Victims Still Seething over Insurance Denials</a>
 							</div>
 						<div class="carousel-item-desc"> </div>
 	              </div>
@@ -773,12 +847,12 @@ googletag.pubads().enableSyncRendering();
 	                    																          		<div class="clearfix person-last">
 	              			              																						
 														              								<div class="carousel-item-image left">
-							<img src="http://cdn.nationalmortgagenews.com/media/newspics/fogarty-collins-combo.gif">
+							<img src="http://cdn.nationalmortgagenews.com/media/newspics/DombrowskiJoe110.gif">
 						</div>
 							              
 						<div class="left item">
 							<div class="carousel-item-title">
-								<a href="http://www.nationalmortgagenews.com//blogs/hearing/Eminent-Domain-on-the-Way-1037116-1.html">Eminent Domain on the Way</a>
+								<a href="http://www.nationalmortgagenews.com//blogs/lens/Improvements-Loss-Mitigation-Technology-Benefit-Lenders-1039723-1.html">Improvements in Loss Mitigation Technology Benefit Lenders</a>
 							</div>
 						<div class="carousel-item-desc"> </div>
 	              </div>
@@ -799,11 +873,11 @@ googletag.pubads().enableSyncRendering();
                     	
                     
           	          <div id="multimedia-desc">
-	              <strong>Technology Planning for the Future</strong> ISGN CEO Ritesh Idnani discusses how lenders should use technology to prepare for changes in the mortgage industry.	          </div>
+	              <strong>How to Create an Identity Theft Report</strong> Identity theft is the fastest growing crime in America and it is big business. The total loss from ID theft costs us all billions a year and it can haunt you for life. Dave Sullivan, from the Credit Guy TV, explains how a consumer can create an identity theft report.	          </div>
 										
 					  					  					  					  					  						  					
 						          <div id="multimedia-image">
-	              <a href="http://www.nationalmortgagenews.com//video/technology-planning-for-the-future-1037142-1.html"><img width="212" src="http://cdn.nationalmortgagenews.com/media/newspics/idnani_ritesh_isgn_vid.jpg"></a>
+	              <a href="http://www.nationalmortgagenews.com//video/how-to-create-an-identity-theft-report-1039743-1.html"><img width="212" src="http://cdn.nationalmortgagenews.com/media/newspics/identitytheftreportdavesullivan.jpg"></a>
 	          </div>
                                 	
 	          <div id="multimedia-see-all">
@@ -839,19 +913,19 @@ googletag.pubads().enableSyncRendering();
 							  	
 				
 					      					<div class="blog-watch-item">
-		      	<a href="http://www.nationalmortgagenews.com//dailybriefing/Good-Graces-of-the-CFPB-1037195-1.html">How to Stay in the Good Graces of the CFPB</a>
+		      	<a href="http://www.nationalmortgagenews.com//dailybriefing/small-banks-press-lawmakers-to-preserve-access-in-housing-finance-reform-1039750-1.html">Small Banks Press Lawmakers to Preserve Access in Housing Finance Reform</a>
 		      </div>
 									<div class="blog-watch-item">
-		      	<a href="http://www.nationalmortgagenews.com//dailybriefing/Senators-Offer-Bill-Eliminating-Fannie-Freddie-1037191-1.html">U.S. Senators Offer Bill Eliminating Fannie Mae, Freddie Mac</a>
+		      	<a href="http://www.nationalmortgagenews.com//dailybriefing/Predictions-New-CU-Mortgage-Lending-Landscape-1039740-1.html">Predictions of a New CU Mortgage Lending Landscape</a>
 		      </div>
 									<div class="blog-watch-item">
-		      	<a href="http://www.nationalmortgagenews.com//dailybriefing/CFPB-Expands-Its-Reach-Supervise-Nonbanks-1037210-1.html">CFPB Expands Its Reach to Supervise Nonbanks</a>
+		      	<a href="http://www.nationalmortgagenews.com//dailybriefing/fannie-freddie-ordered-to-end-reimbursements-for-force-placed-insurance-1039734-1.html">Fannie, Freddie Ordered to End Reimbursements for Force-Placed Insurance</a>
 		      </div>
 									<div class="blog-watch-item">
-		      	<a href="http://www.nationalmortgagenews.com//dailybriefing/Warren-Warns-About-FHLB-Funding-Sallie-1037168-1.html">Sen. Warren Warns About FHLBs' Funding of Sallie</a>
+		      	<a href="http://www.nationalmortgagenews.com//dailybriefing/Bank-of-America-Settle-Parental-Discrimination-Charge-1039721-1.html">B of A Pays Only $45,000 to Settle Parental Discrimination Charge</a>
 		      </div>
 									<div class="blog-watch-item last-item">
-		      	<a href="http://www.nationalmortgagenews.com//dailybriefing/How-Technology-Can-Help-with-Evolving-Regulation-1037137-1.html">How Technology Can Help with Evolving Regulation</a>
+		      	<a href="http://www.nationalmortgagenews.com//dailybriefing/Test-Can-Prove-Loan-Compliant-with-QM-1039688-1.html">Test Can Prove Loan Is Compliant with QM</a>
 		      </div>
 					      	    	       
       </div>
@@ -863,27 +937,27 @@ googletag.pubads().enableSyncRendering();
 					      	
 							        
 		        <div class="article-related-links-item">
-		            <a href="http://www.nationalmortgagenews.com//origination/Lenders-Skittish-Credit-Buybacks-Changes-1037008-1.html">Lenders Remain Skittish about Credit Due to Buybacks, Changes</a>
+		            <a href="http://www.nationalmortgagenews.com//mortgage-servicing/Outsources-Keep-Focus-Regulation-Process-Efficiency-1039689-1.html">Outsources Keep Focus on Regulation, Process Efficiency</a>
 		        </div>         
 		        
 		        <div class="article-related-links-item">
-		            <a href="http://www.nationalmortgagenews.com//origination/New-Emphasis-Regarding-Consumer-Mortgage-Training-1036866-1.html">New Emphasis Regarding Consumer Mortgage Training</a>
+		            <a href="http://www.nationalmortgagenews.com//origination/High-anxiety-brokers-1039623-1.html">High Anxiety for Brokers</a>
 		        </div>         
 		        
 		        <div class="article-related-links-item">
-		            <a href="http://www.nationalmortgagenews.com//reo/preparing-for-new-default-legal-services-requirement-changes-1036734-1.html">Preparing for New Default Legal Services Requirement Changes</a>
+		            <a href="http://www.nationalmortgagenews.com//origination/Improving-Customer-Relationship-Management-1039391-1.html">Improving Customer Relationship Management</a>
 		        </div>         
 		        
 		        <div class="article-related-links-item">
-		            <a href="http://www.nationalmortgagenews.com//origination/Collaboraation-Meeting-Reg-Deadline-1036602-1.html">Some Stress Collaboration as Means of Meeting Reg Deadline</a>
+		            <a href="http://www.nationalmortgagenews.com//origination/Originators-Need-Help-1039311-1.html">Originators, I Need Your Help, to Help You</a>
 		        </div>         
 		        
 		        <div class="article-related-links-item">
-		            <a href="http://www.nationalmortgagenews.com//mortgage-servicing/adapting-process-serving-to-changing-times-1036498-1.html">Adapting Process Serving to the Changing Times</a>
+		            <a href="http://www.nationalmortgagenews.com//origination/Fourth-Quarter-Depends-Fed-1039174-1.html">Fourth Quarter Business Depends on the Fed</a>
 		        </div>         
 		        
 		        <div class="article-related-links-item last-item">
-		            <a href="http://www.nationalmortgagenews.com//origination/Compliance-Automation-Differentiate-Volumes-1036470-1.html">Compliance Automation Strategy Still Can Help Differentiate Volumes</a>
+		            <a href="http://www.nationalmortgagenews.com//mortgage-servicing/servicers-adjust-to-new-loss-mitigation-market-1039153-1.html">Servicers Adjust to New Loss Mitigation Market</a>
 		        </div>         
 		                                       
 		      	      	     
@@ -901,12 +975,12 @@ googletag.pubads().enableSyncRendering();
                     																          		<div class="clearfix person">
 	              			              																						
 														              								<div class="carousel-item-image left">
-							<img src="http://cdn.nationalmortgagenews.com/media/newspics/fogarty-collins-combo.gif">
+							<img src="http://cdn.nationalmortgagenews.com/media/newspics/Anne_Politis_Blog.JPEG">
 						</div>
 							              
 						<div class="left item">
 							<div class="carousel-item-title">
-								<a href="http://www.nationalmortgagenews.com//blogs/hearing/Eminent-Domain-on-the-Way-1037116-1.html">Eminent Domain on the Way</a>
+								<a href="http://www.nationalmortgagenews.com//blogs/compliance/Housing-finance-agencies-critical-role-1039733-1.html">Housing Finance Agencies Take on a Critical Role</a>
 							</div>
 						<div class="carousel-item-desc"> </div>
 	              </div>
@@ -914,12 +988,12 @@ googletag.pubads().enableSyncRendering();
 	                    																          		<div class="clearfix person-last">
 	              			              																						
 														              								<div class="carousel-item-image left">
-							<img src="http://cdn.nationalmortgagenews.com/media/newspics/ari_karen.jpg">
+							<img src="http://cdn.nationalmortgagenews.com/media/newspics/JoshMoffitt.jpg">
 						</div>
 							              
 						<div class="left item">
 							<div class="carousel-item-title">
-								<a href="http://www.nationalmortgagenews.com//blogs/compliance/Deloitte-incident-highlights-compliance-risk-lenders-1037092-1.html">Deloitte Incident Highlights Compliance Risk for Lenders</a>
+								<a href="http://www.nationalmortgagenews.com//blogs/compliance/Undervalued-homes-hindering-housing-1039708-1.html">Undervalued Homes Hindering Housing</a>
 							</div>
 						<div class="carousel-item-desc"> </div>
 	              </div>
@@ -940,11 +1014,11 @@ googletag.pubads().enableSyncRendering();
                     	
                     
           	          <div id="multimedia-desc">
-	              <strong>Technology Planning for the Future</strong> ISGN CEO Ritesh Idnani discusses how lenders should use technology to prepare for changes in the mortgage industry.	          </div>
+	              <strong>How to Create an Identity Theft Report</strong> Identity theft is the fastest growing crime in America and it is big business. The total loss from ID theft costs us all billions a year and it can haunt you for life. Dave Sullivan, from the Credit Guy TV, explains how a consumer can create an identity theft report.	          </div>
 										
 					  					  					  					  					  						  					
 						          <div id="multimedia-image">
-	              <a href="http://www.nationalmortgagenews.com//video/technology-planning-for-the-future-1037142-1.html"><img width="212" src="http://cdn.nationalmortgagenews.com/media/newspics/idnani_ritesh_isgn_vid.jpg"></a>
+	              <a href="http://www.nationalmortgagenews.com//video/how-to-create-an-identity-theft-report-1039743-1.html"><img width="212" src="http://cdn.nationalmortgagenews.com/media/newspics/identitytheftreportdavesullivan.jpg"></a>
 	          </div>
                                 	
 	          <div id="multimedia-see-all">
@@ -974,25 +1048,25 @@ googletag.pubads().enableSyncRendering();
       	
       	      <h2>Latest Headlines</h2>
 	        <div class="carousel-item-image">
-						<a href="/reo/"><img class="flyout" alt="" src="http://cdn.nationalmortgagenews.com/media/ui/publication_reo.gif"></a>
+						<a href="/reo/"><img class="flyout" alt="" src="http://cdn.nationalmortgagenews.com/media/ui/publication_servicing.gif"></a>
 					</div>
 								
 							  	
 				
 					      					<div class="blog-watch-item">
-		      	<a href="http://www.nationalmortgagenews.com/dailybriefing/Ally-Hails-Judges-Approval-ResCap-Deal-1037207-1.html?site=default_reo">Ally Hails Judge’s Approval of ResCap Deal</a>
+		      	<a href="http://www.nationalmortgagenews.com/dailybriefing/Ally-Profit-Drops-Absorbs-Cost-Mortgage-Accord-1039738-1.html?site=default_msn">Ally Profit Drops as Lender Absorbs Cost of Mortgage Accord</a>
 		      </div>
 									<div class="blog-watch-item">
-		      	<a href="http://www.nationalmortgagenews.com/dailybriefing/EC-Closing-Joins-Prommis-Bankruptcy-1037192-1.html?site=default_reo">Foreclosure Processor EC Closing Joins Prommis in Bankruptcy</a>
+		      	<a href="http://www.nationalmortgagenews.com/dailybriefing/37th-investor-admits-to-california-bid-rigging-1039735-1.html?site=default_msn">A 37th Investor Admits to California Bid Rigging</a>
 		      </div>
 									<div class="blog-watch-item">
-		      	<a href="http://www.nationalmortgagenews.com/dailybriefing/LPS-Delinquency-Foreclosure-Rates-Continue-Falling-1037167-1.html?site=default_reo">LPS: Delinquency, Foreclosure Rates Continue Falling</a>
+		      	<a href="http://www.nationalmortgagenews.com/dailybriefing/Homeownership-Rate-Perks-Up-After-Recent-Declines-1039739-1.html?site=default_msn">Homeownership Rate Perks Up After Recent Declines</a>
 		      </div>
 									<div class="blog-watch-item">
-		      	<a href="http://www.nationalmortgagenews.com/dailybriefing/Housing-Market-Completely-Recovered-14-Cities-1037156-1.html?site=default_reo">Housing Market Completely Recovered in 14 Cities</a>
+		      	<a href="http://www.nationalmortgagenews.com/dailybriefing/October-Conduit-Delinquencies-1039683-1.html?site=default_msn">October Conduit Delinquencies Under 8%</a>
 		      </div>
 									<div class="blog-watch-item last-item">
-		      	<a href="http://www.nationalmortgagenews.com/dailybriefing/FHA-Issues-New-Guidance-Policeman-Next-Door-Program-1037157-1.html?site=default_reo">FHA Issues New Guidance on Policeman Next Door Program</a>
+		      	<a href="http://www.nationalmortgagenews.com/dailybriefing/Chase-Donates-Free-Discounted-Homes-1039667-1.html?site=default_msn">Chase Donates $250M in Free or Discounted Homes</a>
 		      </div>
 					      	    	       
       </div>
@@ -1004,24 +1078,20 @@ googletag.pubads().enableSyncRendering();
 									
 							        
 		        <div class="article-related-links-item">
-		            <a href="http://www.nationalmortgagenews.com/reo/does-falling-inventory-signal-an-end-to-reos-1037160-1.html?site=default_reo">Does Falling Inventory Signal an End to REOs?</a>
+		            <a href="http://www.nationalmortgagenews.com/reo/alternative-lenders-face-hurdles-helping-borrowers-refinance-notes-1039741-1.html?site=default_msn">Alternative Lenders Face Hurdles Helping Borrowers Refinance Notes</a>
 		        </div>         
 		        
 		        <div class="article-related-links-item">
-		            <a href="http://www.nationalmortgagenews.com/reo/sellers-remain-reluctant-to-act-despite-price-rise-1036851-1.html?site=default_reo">Sellers Remain Reluctant to Act Despite Price Rise</a>
-		        </div>         
-		        
-		        <div class="article-related-links-item">
-		            <a href="http://www.nationalmortgagenews.com/reo/vintage-real-estate-acquires-foreclosed-massachusetts-mall-1036766-1.html?site=default_reo">Vintage Real Estate Acquires Foreclosed Massachusetts Mall</a>
+		            <a href="http://www.nationalmortgagenews.com/reo/bank-assetpoint-connects-commercial-reo-buyers-and-sellers-1039577-1.html?site=default_msn">Bank Assetpoint Connects Commercial REO Buyers and Sellers</a>
 		        </div>         
 		        
 		        <div class="article-related-links-item last-item">
-		            <a href="http://www.nationalmortgagenews.com/reo/preparing-for-new-default-legal-services-requirement-changes-1036734-1.html?site=default_reo">Preparing for New Default Legal Services Requirement Changes</a>
+		            <a href="http://www.nationalmortgagenews.com/reo/do-natural-disasters-lead-to-more-mortgage-defaults-1039316-1.html?site=default_msn">Do Natural Disasters Lead to More Mortgage Defaults?</a>
 		        </div>         
 		                                       
 		      	      	     
 	        <div id="bankthink-see-all">
-              <a href="/reo/archive.html?site=default_reo"><img class="morebutton" src="http://cdn.nationalmortgagenews.com/media/ui/btn-more.png"></a>
+              <a href="/reo/archive.html?site=default_msn"><img class="morebutton" src="http://cdn.nationalmortgagenews.com/media/ui/btn-more.png"></a>
           </div> 
 	     
       </div>
@@ -1034,12 +1104,12 @@ googletag.pubads().enableSyncRendering();
                     																          		<div class="clearfix person">
 	              			              																						
 														              								<div class="carousel-item-image left">
-							<img src="http://cdn.nationalmortgagenews.com/media/newspics/ted_cornwell.gif">
+							<img src="http://cdn.nationalmortgagenews.com/media/newspics/DombrowskiJoe110.gif">
 						</div>
 							              
 						<div class="left item">
 							<div class="carousel-item-title">
-								<a href="http://www.nationalmortgagenews.com/blogs/hearing/AMCs-Feeling-More-Love-from-Appraisers-1037147-1.html?site=default_reo">AMCs Feeling More Love from Appraisers</a>
+								<a href="http://www.nationalmortgagenews.com/blogs/lens/Improvements-Loss-Mitigation-Technology-Benefit-Lenders-1039723-1.html?site=default_msn">Improvements in Loss Mitigation Technology Benefit Lenders</a>
 							</div>
 						<div class="carousel-item-desc"> </div>
 	              </div>
@@ -1047,19 +1117,19 @@ googletag.pubads().enableSyncRendering();
 	                    																          		<div class="clearfix person-last">
 	              			              																						
 														              								<div class="carousel-item-image left">
-							<img src="http://cdn.nationalmortgagenews.com/media/newspics/fogarty-collins-combo.gif">
+							<img src="http://cdn.nationalmortgagenews.com/media/newspics/Roger_Beane_blog.jpg">
 						</div>
 							              
 						<div class="left item">
 							<div class="carousel-item-title">
-								<a href="http://www.nationalmortgagenews.com/blogs/hearing/Eminent-Domain-on-the-Way-1037116-1.html?site=default_reo">Eminent Domain on the Way</a>
+								<a href="http://www.nationalmortgagenews.com/blogs/lens/Wake-Up-and-Outsource-1039616-1.html?site=default_msn">Wake Up and Outsource</a>
 							</div>
 						<div class="carousel-item-desc"> </div>
 	              </div>
 	          </div>
 	                    															          															          															          															          															          															          															          															                              
           <div id="bankthink-see-all">
-              <a href="http://www.nationalmortgagenews.com/blogs/reo.html?site=default_reo"><img class="morebutton" src="http://cdn.nationalmortgagenews.com/media/ui/btn-more.png"></a>
+              <a href="http://www.nationalmortgagenews.com/blogs/reo.html?site=default_msn"><img class="morebutton" src="http://cdn.nationalmortgagenews.com/media/ui/btn-more.png"></a>
           </div> 
                         
       </div>
@@ -1072,11 +1142,11 @@ googletag.pubads().enableSyncRendering();
           	
                     
           	          <div id="multimedia-desc">
-	              <strong>Investors Continue to Drive Home Price Increase</strong> Pro Teck CEO Tom O'Grady discusses the April 2013 Home Value Forecast, featuring the Los Angeles, Atlanta and Warren, Mich. CBSAs.	          </div>
+	              <strong>Challenging Eminent Domain in Richmond</strong> CMBA executive director Susan Milazzo speaks about the latest updates regarding the eminent domain issue in Richmond, Calif., including how lawsuits were filed by mortgage bond trustees to block this from taking place.	          </div>
 										
 					  					  					  					  					  						  					
 						          <div id="multimedia-image">
-	              <a href="http://www.nationalmortgagenews.com/video/investors-continue-to-drive-home-price-increases-1036313-1.html"><img width="212" src="http://cdn.nationalmortgagenews.com/media/newspics/2378936259001.png"></a>
+	              <a href="http://www.nationalmortgagenews.com/video/challenging-eminent-domain-in-richmond-1038228-1.html"><img width="212" src="http://cdn.nationalmortgagenews.com/media/newspics/2611357116001.jpg"></a>
 	          </div>
                                 	
 	          <div id="multimedia-see-all">
@@ -1113,10 +1183,10 @@ googletag.pubads().enableSyncRendering();
 				
 				
 					        <div class="btn-cover">
-						<a href="http://www.nationalmortgagenews.com/mortgage-technology/mortgage-technology-magazine-spring-2013-1035700-1.html?site=default_tech"><img width="130" src="http://cdn.nationalmortgagenews.com/media/newspics/MTSpring2013Cover.jpg"></a>
+						<a href="http://www.nationalmortgagenews.com/mortgage-technology/mortgage-technology-magazine-fall-2013-issue-1039589-1.html?site=default_tech"><img width="130" src="http://cdn.nationalmortgagenews.com/media/newspics/MTFall2013Cover.jpg"></a>
 					</div>
 								
-				        									<div class=""><a href="http://www.nationalmortgagenews.com/mortgage-technology/mortgage-technology-magazine-spring-2013-1035700-1.html?site=default_tech"><b>Mortgage Technology: Spring 2013 Issue</b></a></div>
+				        									<div class=""><a href="http://www.nationalmortgagenews.com/mortgage-technology/mortgage-technology-magazine-fall-2013-issue-1039589-1.html?site=default_tech"><b>Mortgage Technology: Fall 2013 Issue</b></a></div>
 											<div class=""><a href="http://www.nationalmortgagenews.com/mortgage-technology/magazine.html?site=default_tech?site=default_tech"><br><b>Mortgage Technology Magazine Archive</b></a></div>
 									      
       	       
@@ -1129,27 +1199,27 @@ googletag.pubads().enableSyncRendering();
 					      	
 							        
 		        <div class="article-related-links-item">
-		            <a href="http://www.nationalmortgagenews.com/features/standardization-and-automation-keys-to-mitigating-mortgage-fraud-1037188-1.html?site=default_tech">Standardization and Automation Keys to Mitigating Mortgage Fraud</a>
+		            <a href="http://www.nationalmortgagenews.com/mortgage-servicing/Outsources-Keep-Focus-Regulation-Process-Efficiency-1039689-1.html?site=default_tech">Outsources Keep Focus on Regulation, Process Efficiency</a>
 		        </div>         
 		        
 		        <div class="article-related-links-item">
-		            <a href="http://www.nationalmortgagenews.com/features/AU-Systems-Become-Target-GSE-Reform-1037120-1.html?site=default_tech">AU Systems Become a Target for GSE Reform</a>
+		            <a href="http://www.nationalmortgagenews.com/reo/bank-assetpoint-connects-commercial-reo-buyers-and-sellers-1039577-1.html?site=default_tech">Bank Assetpoint Connects Commercial REO Buyers and Sellers</a>
 		        </div>         
 		        
 		        <div class="article-related-links-item">
-		            <a href="http://www.nationalmortgagenews.com/origination/Creating-Efficiency-Reducing-Errors-Mortgage-Loan-Files-1036762-1.html?site=default_tech">Creating Efficiency, Reducing Errors In Loan Files</a>
+		            <a href="http://www.nationalmortgagenews.com/features/Lenders-Dilemma-Invest-in-Tech-1039508-1.html?site=default_tech">Lenders' Dilemma: Invest in Tech or Exit Mortgage Business</a>
 		        </div>         
 		        
 		        <div class="article-related-links-item">
-		            <a href="http://www.nationalmortgagenews.com/origination/PageFreezer-Aids-Website-Social-Media-Data-Retention-1036733-1.html?site=default_tech">PageFreezer Aids Website, Social Media Data Retention</a>
+		            <a href="http://www.nationalmortgagenews.com/mortgage-servicing/servicers-adjust-to-new-loss-mitigation-market-1039153-1.html?site=default_tech">Servicers Adjust to New Loss Mitigation Market</a>
 		        </div>         
 		        
 		        <div class="article-related-links-item">
-		            <a href="http://www.nationalmortgagenews.com/features/Guide-Proposed-FFIEC-Social-Media-Rules-1036618-1.html?site=default_tech">A Guide to Proposed FFIEC Social Media Rules</a>
+		            <a href="http://www.nationalmortgagenews.com/reo/tool-launched-to-evaluate-loans-alleviate-compliance-concerns-1039076-1.html?site=default_tech">Tool Launched to Evaluate Loans, Alleviate Compliance Concerns</a>
 		        </div>         
 		        
 		        <div class="article-related-links-item last-item">
-		            <a href="http://www.nationalmortgagenews.com/features/Disconnect-On-Qualified-Mortgage-Rule-1036573-1.html?site=default_tech">A Disconnect On Qualified Mortgage Rule</a>
+		            <a href="http://www.nationalmortgagenews.com/origination/Novo-Automated-Appraisal-Review-Tool-1038964-1.html?site=default_tech">Novo Creates Automated Appraisal Review Tool</a>
 		        </div>         
 		                                       
 		      	      	     
@@ -1167,12 +1237,12 @@ googletag.pubads().enableSyncRendering();
                     																          		<div class="clearfix person">
 	              			              																						
 														              								<div class="carousel-item-image left">
-							<img src="http://cdn.nationalmortgagenews.com/media/newspics/Tim-Anderson-110.gif">
+							<img src="http://cdn.nationalmortgagenews.com/media/newspics/DombrowskiJoe110.gif">
 						</div>
 							              
 						<div class="left item">
 							<div class="carousel-item-title">
-								<a href="http://www.nationalmortgagenews.com/blogs/bytes/Correspondent-QC-Fix-It-Now-or-Fix-It-Later-1037185-1.html?site=default_tech">Correspondent QC: Fix It Now or Fix It Later</a>
+								<a href="http://www.nationalmortgagenews.com/blogs/lens/Improvements-Loss-Mitigation-Technology-Benefit-Lenders-1039723-1.html?site=default_tech">Improvements in Loss Mitigation Technology Benefit Lenders</a>
 							</div>
 						<div class="carousel-item-desc"> </div>
 	              </div>
@@ -1180,12 +1250,12 @@ googletag.pubads().enableSyncRendering();
 	                    																          		<div class="clearfix person-last">
 	              			              																						
 														              								<div class="carousel-item-image left">
-							<img src="http://cdn.nationalmortgagenews.com/media/newspics/Gallagher_James110x110Crop062413">
+							<img src="http://cdn.nationalmortgagenews.com/media/newspics/Holmes_Greg110x110Crop102313.jpg">
 						</div>
 							              
 						<div class="left item">
 							<div class="carousel-item-title">
-								<a href="http://www.nationalmortgagenews.com/blogs/maven/Balancing-Act-Second-Half-1037158-1.html?site=default_tech">It’s a Balancing Act for the Second Half</a>
+								<a href="http://www.nationalmortgagenews.com/blogs/maven/Shortcut-Ability-to-Repay-Compliance-1039658-1.html?site=default_tech">A Shortcut for Ability-to-Repay Compliance</a>
 							</div>
 						<div class="carousel-item-desc"> </div>
 	              </div>
@@ -1250,19 +1320,19 @@ googletag.pubads().enableSyncRendering();
 							  	
 				
 					      					<div class="blog-watch-item">
-		      	<a href="http://www.nationalmortgagenews.com/dailybriefing/Pingora-Selects-LenderLive-Network-Subservicing-1037204-1.html?site=default_msn">Pingora Selects LenderLive Network for Subservicing</a>
+		      	<a href="http://www.nationalmortgagenews.com/dailybriefing/37th-investor-admits-to-california-bid-rigging-1039735-1.html?site=default_msn">A 37th Investor Admits to California Bid Rigging</a>
 		      </div>
 									<div class="blog-watch-item">
-		      	<a href="http://www.nationalmortgagenews.com/dailybriefing/Ally-Hails-Judges-Approval-ResCap-Deal-1037207-1.html?site=default_msn">Ally Hails Judge’s Approval of ResCap Deal</a>
+		      	<a href="http://www.nationalmortgagenews.com/dailybriefing/Florida-Foreclosure-King-Faces-Disbarment-1039747-1.html?site=default_msn">Florida 'Foreclosure King' Faces Disbarment</a>
 		      </div>
 									<div class="blog-watch-item">
-		      	<a href="http://www.nationalmortgagenews.com/dailybriefing/EC-Closing-Joins-Prommis-Bankruptcy-1037192-1.html?site=default_msn">Foreclosure Processor EC Closing Joins Prommis in Bankruptcy</a>
+		      	<a href="http://www.nationalmortgagenews.com/dailybriefing/Ginnie-Looking-Prevent-Another-TBW-Failure-1039697-1.html?site=default_msn">Ginnie Looking to Prevent Another TBW Failure</a>
 		      </div>
 									<div class="blog-watch-item">
-		      	<a href="http://www.nationalmortgagenews.com/dailybriefing/Jersey-Shore-FCU-Refis-Top-Goal-1037200-1.html?site=default_msn">Jersey Shore FCU Refis Top Goal</a>
+		      	<a href="http://www.nationalmortgagenews.com/dailybriefing/October-Conduit-Delinquencies-1039683-1.html?site=default_msn">October Conduit Delinquencies Under 8%</a>
 		      </div>
 									<div class="blog-watch-item last-item">
-		      	<a href="http://www.nationalmortgagenews.com/dailybriefing/Freddie-Reports-Lower-Refinancings-Loan-Purchases-1037189-1.html?site=default_msn">Freddie Reports Lower Refinancings and Loan Purchases</a>
+		      	<a href="http://www.nationalmortgagenews.com/dailybriefing/EverBank-Sell-Servicing-Rights-1039668-1.html?site=default_msn">EverBank to Sell Servicing Rights</a>
 		      </div>
 					      	    	       
       </div>
@@ -1274,27 +1344,15 @@ googletag.pubads().enableSyncRendering();
 									
 							        
 		        <div class="article-related-links-item">
-		            <a href="http://www.nationalmortgagenews.com/mortgage-servicing/adapting-process-serving-to-changing-times-1036498-1.html?site=default_msn">Adapting Process Serving to the Changing Times</a>
+		            <a href="http://www.nationalmortgagenews.com/mortgage-servicing/Community-Banks-Access-Secondary-Mortgage-Market-Matters-1039748-1.html?site=default_msn">Community Banks’ Access to Secondary Mortgage Market Matters</a>
 		        </div>         
 		        
 		        <div class="article-related-links-item">
-		            <a href="http://www.nationalmortgagenews.com/mortgage-servicing/measuring-appraisal-value-alongside-property-value-1036311-1.html?site=default_msn">Measuring Appraisal Value Alongside Property Value</a>
-		        </div>         
-		        
-		        <div class="article-related-links-item">
-		            <a href="http://www.nationalmortgagenews.com/mortgage-servicing/appraisals-technology-as-important-as-credit-scores-1036273-1.html?site=default_msn">Appraisals, Technology as Important as Credit Scores</a>
-		        </div>         
-		        
-		        <div class="article-related-links-item">
-		            <a href="http://www.nationalmortgagenews.com/mortgage-servicing/independent-appraiser-rule-complicated-relationship-with-lenders-1036217-1.html?site=default_msn">Independent Appraiser Rule Complicated Relationship With Lenders</a>
-		        </div>         
-		        
-		        <div class="article-related-links-item">
-		            <a href="http://www.nationalmortgagenews.com/mortgage-servicing/sorting-through-msr-implementation-details-1036189-1.html?site=default_msn">Sorting Through MSR Implementation Details</a>
+		            <a href="http://www.nationalmortgagenews.com/mortgage-servicing/Outsources-Keep-Focus-Regulation-Process-Efficiency-1039689-1.html?site=default_msn">Outsources Keep Focus on Regulation, Process Efficiency</a>
 		        </div>         
 		        
 		        <div class="article-related-links-item last-item">
-		            <a href="http://www.nationalmortgagenews.com/mortgage-servicing/lenders-see-no-loosening-mortgage-credit-ahead-1035964-1.html?site=default_msn">Lenders See No Loosening of Mortgage Credit Ahead</a>
+		            <a href="http://www.nationalmortgagenews.com/mortgage-servicing/Michigan-State-Local-Agencies-Start-Massive-Demolition-Initiative-1039405-1.html?site=default_msn">Michigan State, Local Agencies Start Massive Demolition Initiative</a>
 		        </div>         
 		                                       
 		      	      	     
@@ -1312,12 +1370,12 @@ googletag.pubads().enableSyncRendering();
                     																          		<div class="clearfix person">
 	              			              																						
 														              								<div class="carousel-item-image left">
-							<img src="http://cdn.nationalmortgagenews.com/media/newspics/Kracl_Don_New.jpg">
+							<img src="http://cdn.nationalmortgagenews.com/media/newspics/yacik.jpg">
 						</div>
 							              
 						<div class="left item">
 							<div class="carousel-item-title">
-								<a href="http://www.nationalmortgagenews.com/blogs/hearing/Summertime-and-the-Living-Is-Busy-1037201-1.html?site=default_msn">Summertime, and the Living Is Busy</a>
+								<a href="http://www.nationalmortgagenews.com/blogs/hearing/Credit-Unions-Confident-Bigger-Mortgage-Share-1039745-1.html?site=default_msn">Credit Unions Confident of Bigger Mortgage Share</a>
 							</div>
 						<div class="carousel-item-desc"> </div>
 	              </div>
@@ -1330,7 +1388,7 @@ googletag.pubads().enableSyncRendering();
 							              
 						<div class="left item">
 							<div class="carousel-item-title">
-								<a href="http://www.nationalmortgagenews.com/blogs/hearing/AMCs-Feeling-More-Love-from-Appraisers-1037147-1.html?site=default_msn">AMCs Feeling More Love from Appraisers</a>
+								<a href="http://www.nationalmortgagenews.com/blogs/hearing/Some-Sandy-Victims-Still-Seething-Insurance-Denials-1039727-1.html?site=default_msn">Some Sandy Victims Still Seething over Insurance Denials</a>
 							</div>
 						<div class="carousel-item-desc"> </div>
 	              </div>
@@ -1365,7 +1423,7 @@ googletag.pubads().enableSyncRendering();
 			<div id="multimedia-desc">
 				<div class="resources-link"><a href="http://mortgagegrapevine.com/">Grapevine Message Board</a> <span class="arrow">»</span></div>
 				<div class="resources-link"><a href="http://mortgagestats.com/residential_servicing/">Servicing Data</a> <span class="arrow">»</span></div>
-				<div class="resources-link"><a href="http://www.nationalmortgagenews.com/gsa/">MSR Pricing Trends</a> <span class="arrow">»</span></div>	
+				<!--- commenting out as per RT47626 <div class="resources-link"><a href="http://www.nationalmortgagenews.com/gsa/">MSR Pricing Trends</a> <span class="arrow">&raquo;</span></div>	--->
 				<div class="resources-link"><a href="http://www.nationalmortgagenews.com/papers/">White Papers</a> <span class="arrow">»</span></div>
 				<div class="resources-link"><a href="http://www.nationalmortgagenews.com/webinars/">Web Seminars</a> <span class="arrow">»</span></div>
 			</div>    
@@ -1393,19 +1451,19 @@ googletag.pubads().enableSyncRendering();
 							  	
 				
 					      					<div class="blog-watch-item">
-		      	<a href="http://www.nationalmortgagenews.com/dailybriefing/Fairway-Branches-Donate-Boston-Bombing-Victims-1037199-1.html?site=default_on">Fairway Branches Donate $50K to Fund for Boston Bombing Victims</a>
+		      	<a href="http://www.nationalmortgagenews.com/dailybriefing/Predictions-New-CU-Mortgage-Lending-Landscape-1039740-1.html?site=default_on">Predictions of a New CU Mortgage Lending Landscape</a>
 		      </div>
 									<div class="blog-watch-item">
-		      	<a href="http://www.nationalmortgagenews.com/dailybriefing/Report-Reiterates-Overall-Benefits-Financial-Coaching-1037194-1.html?site=default_on">Report Reiterates Overall Benefits of Financial Coaching</a>
+		      	<a href="http://www.nationalmortgagenews.com/dailybriefing/Homeownership-Rate-Perks-Up-After-Recent-Declines-1039739-1.html?site=default_on">Homeownership Rate Perks Up After Recent Declines</a>
 		      </div>
 									<div class="blog-watch-item">
-		      	<a href="http://www.nationalmortgagenews.com/dailybriefing/A-Housing-Recovery-for-Whom-1037209-1.html?site=default_on">A Housing Recovery for Whom?</a>
+		      	<a href="http://www.nationalmortgagenews.com/dailybriefing/Ally-Profit-Drops-Absorbs-Cost-Mortgage-Accord-1039738-1.html?site=default_on">Ally Profit Drops as Lender Absorbs Cost of Mortgage Accord</a>
 		      </div>
 									<div class="blog-watch-item">
-		      	<a href="http://www.nationalmortgagenews.com/dailybriefing/MBA-Purchase-Apps-Increase-Although-Rates-Spiked-1037186-1.html?site=default_on">MBA: Purchase Apps Increase Although Rates Spiked</a>
+		      	<a href="http://www.nationalmortgagenews.com/dailybriefing/Independent-Mortgage-Banks-Seek-FHLB-Access-1039754-1.html?site=default_on">Independent Mortgage Banks Seek FHLB Access</a>
 		      </div>
 									<div class="blog-watch-item last-item">
-		      	<a href="http://www.nationalmortgagenews.com/dailybriefing/BOK-Financial-Use-DocuTech-Loan-Document-Software-1037197-1.html?site=default_on">BOK Financial to Use DocuTech’s Loan Document Software</a>
+		      	<a href="http://www.nationalmortgagenews.com/dailybriefing/Home-Prices-Increase-Faster-Blue-Cities-1039736-1.html?site=default_on">Home Prices Increase Faster in Blue Cities</a>
 		      </div>
 					      	    	       
       </div>
@@ -1417,27 +1475,27 @@ googletag.pubads().enableSyncRendering();
 									
 							        
 		        <div class="article-related-links-item">
-		            <a href="http://www.nationalmortgagenews.com/origination/More-Year-Round-Homeownership-Counseling-Sought-1037208-1.html?site=default_on">More Year Round Homeownership Counseling Sought</a>
+		            <a href="http://www.nationalmortgagenews.com/origination/Ben-Anderson-Winning-Attittude-Strategy-1039709-1.html?site=default_on">Fire in the Belly Makes for a Fierce Competitor</a>
 		        </div>         
 		        
 		        <div class="article-related-links-item">
-		            <a href="http://www.nationalmortgagenews.com/origination/Lenders-Skittish-Credit-Buybacks-Changes-1037008-1.html?site=default_on">Lenders Remain Skittish about Credit Due to Buybacks, Changes</a>
+		            <a href="http://www.nationalmortgagenews.com/origination/High-anxiety-brokers-1039623-1.html?site=default_on">High Anxiety for Brokers</a>
 		        </div>         
 		        
 		        <div class="article-related-links-item">
-		            <a href="http://www.nationalmortgagenews.com/origination/New-Emphasis-Regarding-Consumer-Mortgage-Training-1036866-1.html?site=default_on">New Emphasis Regarding Consumer Mortgage Training</a>
+		            <a href="http://www.nationalmortgagenews.com/origination/Wholesale-relationship-stronger-New-York-Brokers-1039599-1.html?site=default_on">Wholesale Relationship Stronger than Ever: N.Y. Brokers</a>
 		        </div>         
 		        
 		        <div class="article-related-links-item">
-		            <a href="http://www.nationalmortgagenews.com/origination/Kelly-Marsh-Teaches-Benefits-Government-Programs-1036837-1.html?site=default_on">Kelly Marsh Teaches the Benefits of Government Programs</a>
+		            <a href="http://www.nationalmortgagenews.com/origination/Reverse-Originators-Check-Credit-1039506-1.html?site=default_on">Reverse Originators Must Check Credit</a>
 		        </div>         
 		        
 		        <div class="article-related-links-item">
-		            <a href="http://www.nationalmortgagenews.com/origination/Creating-Efficiency-Reducing-Errors-Mortgage-Loan-Files-1036762-1.html?site=default_on">Creating Efficiency, Reducing Errors In Loan Files</a>
+		            <a href="http://www.nationalmortgagenews.com/origination/Business-Ready-Crisis-1039411-1.html?site=default_on">Getting Your Business Ready for a Crisis</a>
 		        </div>         
 		        
 		        <div class="article-related-links-item last-item">
-		            <a href="http://www.nationalmortgagenews.com/origination/PageFreezer-Aids-Website-Social-Media-Data-Retention-1036733-1.html?site=default_on">PageFreezer Aids Website, Social Media Data Retention</a>
+		            <a href="http://www.nationalmortgagenews.com/origination/Improving-Customer-Relationship-Management-1039391-1.html?site=default_on">Improving Customer Relationship Management</a>
 		        </div>         
 		                                       
 		      	      	     
@@ -1455,12 +1513,12 @@ googletag.pubads().enableSyncRendering();
                     																          		<div class="clearfix person">
 	              			              																						
 														              								<div class="carousel-item-image left">
-							<img src="http://cdn.nationalmortgagenews.com/media/newspics/Kracl_Don_New.jpg">
+							<img src="http://cdn.nationalmortgagenews.com/media/newspics/brad_finkelstein.jpg">
 						</div>
 							              
 						<div class="left item">
 							<div class="carousel-item-title">
-								<a href="http://www.nationalmortgagenews.com/blogs/hearing/Summertime-and-the-Living-Is-Busy-1037201-1.html?site=default_on">Summertime, and the Living Is Busy</a>
+								<a href="http://www.nationalmortgagenews.com/blogs/maven/Wholesale-Will-Survive-QM-1039753-1.html?site=default_on">Wholesale WIll Survive QM</a>
 							</div>
 						<div class="carousel-item-desc"> </div>
 	              </div>
@@ -1468,12 +1526,12 @@ googletag.pubads().enableSyncRendering();
 	                    																          		<div class="clearfix person-last">
 	              			              																						
 														              								<div class="carousel-item-image left">
-							<img src="http://cdn.nationalmortgagenews.com/media/newspics/bliss_sawyer.jpg">
+							<img src="http://cdn.nationalmortgagenews.com/media/newspics/yacik.jpg">
 						</div>
 							              
 						<div class="left item">
 							<div class="carousel-item-title">
-								<a href="http://www.nationalmortgagenews.com/blogs/maven/Sitting-Golf-Course-1037198-1.html?site=default_on">Sitting on the Golf Course</a>
+								<a href="http://www.nationalmortgagenews.com/blogs/hearing/Credit-Unions-Confident-Bigger-Mortgage-Share-1039745-1.html?site=default_on">Credit Unions Confident of Bigger Mortgage Share</a>
 							</div>
 						<div class="carousel-item-desc"> </div>
 	              </div>
@@ -1493,11 +1551,11 @@ googletag.pubads().enableSyncRendering();
           	
                     
           	          <div id="multimedia-desc">
-	              <strong>Technology Planning for the Future</strong> ISGN CEO Ritesh Idnani discusses how lenders should use technology to prepare for changes in the mortgage industry.	          </div>
+	              <strong>Small Brokers in Trouble?</strong> Ruby Grynberg of Salmon Bay Community Lending explains why the qualified mortgage rule is putting brokers at a disadvantage. Video courtesy of Washington Association of Mortgage Professionals.	          </div>
 										
 					  					  					  					  					  						  					
 						          <div id="multimedia-image">
-	              <a href="http://www.nationalmortgagenews.com/video/technology-planning-for-the-future-1037142-1.html"><img width="212" src="http://cdn.nationalmortgagenews.com/media/newspics/idnani_ritesh_isgn_vid.jpg"></a>
+	              <a href="http://www.nationalmortgagenews.com/video/Small-Brokers-Trouble-1038998-1.html"><img width="212" src="http://cdn.nationalmortgagenews.com/media/newspics/Grynberg.jpg"></a>
 	          </div>
                                 	
 	          <div id="multimedia-see-all">
@@ -1532,19 +1590,19 @@ googletag.pubads().enableSyncRendering();
 									  	
 					
 							      						<div class="blog-watch-item">
-			      	<a href="http://www.nationalmortgagenews.com//dailybriefing/Former-Flagstar-Executive-Co-Chair-United-Shore-1037174-1.html">Former Flagstar Executive Now Co-Chair at United Shore</a>
+			      	<a href="http://www.nationalmortgagenews.com//dailybriefing/Barclays-Securitization-Unit-Names-Martin-Attea-Co-Head-1039692-1.html">Barclays Securitization Unit Names Martin Attea Co-Head</a>
 			      </div>
 											<div class="blog-watch-item">
-			      	<a href="http://www.nationalmortgagenews.com//dailybriefing/Morrison-Foerster-Hires-Former-Client-1037170-1.html">Morrison &amp; Foerster Hires Former Client</a>
+			      	<a href="http://www.nationalmortgagenews.com//dailybriefing/Stonegate-Plans-National-Retail-Expansion-1039574-1.html">Stonegate Plans National Retail Expansion</a>
 			      </div>
 											<div class="blog-watch-item">
-			      	<a href="http://www.nationalmortgagenews.com//dailybriefing/Women-in-Housing-and-Finance-Names-New-Officers-1037114-1.html">Women in Housing and Finance Names New Officers</a>
+			      	<a href="http://www.nationalmortgagenews.com//dailybriefing/Skyline-Financial-Launches-Wholesale-Channel-1039530-1.html">Skyline Financial Launches Wholesale Channel</a>
 			      </div>
 											<div class="blog-watch-item">
-			      	<a href="http://www.nationalmortgagenews.com//dailybriefing/Amherst-taps-Chris-McDowell-CMBS-trading-1037107-1.html">Amherst Taps Chris McDowell for CMBS Trading</a>
+			      	<a href="http://www.nationalmortgagenews.com//dailybriefing/Interthinx-hires-mortgage-banking-industry-veteran-David-Kittle-1039484-1.html">Interthinx Hires Mortgage Banking Industry Veteran David Kittle</a>
 			      </div>
 											<div class="blog-watch-item last-item">
-			      	<a href="http://www.nationalmortgagenews.com//dailybriefing/obama-said-not-to-have-begun-search-for-bernanke-replacement-1037063-1.html">Obama Said Not to Have Begun Search for Bernanke Replacement</a>
+			      	<a href="http://www.nationalmortgagenews.com//dailybriefing/Michael-Fratantoni-New-Chief-Economist-MBA-1039461-1.html">Michael Fratantoni New Chief Economist at MBA</a>
 			      </div>
 							      		  	</div>
        
@@ -1559,14 +1617,14 @@ googletag.pubads().enableSyncRendering();
 	          <div class="clearfix people-tab" style="width:100%;">
 	             
 	              	              <div class="carousel-item-image left" style="width:219px;">
-	                  <img src="http://cdn.nationalmortgagenews.com/media/newspics/BillKing.jpg">
+	                  <img src="http://cdn.nationalmortgagenews.com/media/newspics/Midgecrop.jpg">
 	              </div>
 	              	              
 	              <div class="left item" style="width:290px;">
 	                  <div class="carousel-item-title">
-	                      <a href="http://www.nationalmortgagenews.com//dailybriefing/platinum-data-solutions-hires-bill-king-1036889-1.html?site=default_on">Platinum Data Solutions Hires Bill King</a>
+	                      <a href="http://www.nationalmortgagenews.com//features/Sabal-Financial-Group-Appoints-Marguerite-Brogan-1039675-1.html?site=default_on">Sabal Appoints Marguerite Brogan to Manage N.Y. Office</a>
 										</div>
-										<div class="carousel-item-desc">Platinum Data Solutions, Aliso Viejo, Calif., has hired Bill King as senior vice president, valuation solutions.</div>
+										<div class="carousel-item-desc">The privately held financial services firm specializing in real estate, lending and banking, appointed Marguerite Brogan as managing director in New York.</div>
 	              </div>
 	          </div>
 	                         
@@ -1579,9 +1637,9 @@ googletag.pubads().enableSyncRendering();
 	              	              
 	              <div class="left item" style="width:100%;">
 	                  <div class="carousel-item-title">
-	                      <a href="http://www.nationalmortgagenews.com//dailybriefing/jason-griggs-named-senior-loan-officer-at-bell-mortgage-1036943-1.html?site=default_on">Jason Griggs Named Senior Loan Officer at Bell Mortgage</a>
+	                      <a href="http://www.nationalmortgagenews.com//features/NTC-Myron-Finley-Named-Co-Chairperson-PRIA-Committee-1039558-1.html?site=default_on">NTC’s Myron Finley Named Co-Chairperson of PRIA Committee</a>
 										</div>
-										<div class="carousel-item-desc">Griggs will provide customers of the Fargo, N.D.-based financial institution with tools and information to be able to navigate the ever-changing mortgage landscape.</div>
+										<div class="carousel-item-desc">Nationwide Title Clearing said that Myron Finley has been appointed co-chairperson of the Property Records Industry Association Business Processes and Procedures Committee.</div>
 	              </div>
 	          </div>
 	                         
@@ -1592,9 +1650,9 @@ googletag.pubads().enableSyncRendering();
 	              	              
 	              <div class="left item" style="width:100%;">
 	                  <div class="carousel-item-title">
-	                      <a href="http://www.nationalmortgagenews.com//features/Grandbridge-Promotes-Jon-Boone-SVP-1036823-1.html?site=default_on">Grandbridge Promotes Jon Boone to SVP</a>
+	                      <a href="http://www.nationalmortgagenews.com//dailybriefing/Michael-Massella-Heading-Envoy-Retail-Channel-1039404-1.html?site=default_on">Michael Massella Heading Envoy’s Retail Channel</a>
 										</div>
-										<div class="carousel-item-desc">Grandbridge Real Estate Capital promoted Jon E. Boone to senior vice president and head of asset management.</div>
+										<div class="carousel-item-desc">Massella is moving over to Envoy from Caliber Funding, where he was senior vice president of wholesale lending.</div>
 	              </div>
 	          </div>
 	                         
@@ -1642,19 +1700,19 @@ googletag.pubads().enableSyncRendering();
 				<a href="http://www.mortgagestats.com/"><img class="flyout" alt="" src="http://cdn.nationalmortgagenews.com/media/ui/publication_mstats.png"></a>
 			</div>
                       	            <div class="article-related-links-item">
-                <a href="/calendar/economic/#1035154">FHFA Home Price Index Released for April 2013</a>
+                <a href="/calendar/economic/#1039254">Housing Vacancies and Homeownership</a>
 								<div class="article-date"></div>
             </div>                
                         <div class="article-related-links-item">
-                <a href="/calendar/economic/#1036706">New Residential Sales</a>
+                <a href="/calendar/economic/#1033788">Third Quarter Metro Home Prices</a>
 								<div class="article-date"></div>
             </div>                
                         <div class="article-related-links-item">
-                <a href="/calendar/economic/#1033776">May Pending Home Sales Index</a>
+                <a href="/calendar/economic/#1033759">October Employment Statistics</a>
 								<div class="article-date"></div>
             </div>                
                         <div class="article-related-links-item">
-                <a href="/calendar/economic/#1033755">June Employment Statistics</a>
+                <a href="/calendar/economic/#1039706">New Residential Construction for October 2013</a>
 								<div class="article-date"></div>
             </div>                
                                  		<div class="clearfix">
@@ -1678,10 +1736,10 @@ googletag.pubads().enableSyncRendering();
           <h2></h2>
           
 						          		            <div class="article-related-links-item">
-									<a href="/Freddie-Reports-Lower-Refinancings-Loan-Purchases-1037189-1.html">Freddie Reports Lower Refinancings and Loan Purchases</a>
+									<a href="/Ally-Profit-Drops-Absorbs-Cost-Mortgage-Accord-1039738-1.html">Ally Profit Drops as Lender Absorbs Cost of Mortgage Accord</a>
 	            </div> 
 	          	            <div class="article-related-links-item">
-									<a href="/Case-Schiller-Home-Prices-Set-Record-April-1037162-1.html">Case-Schiller HPI: Home Prices Set Record Monthly Rise in April</a>
+									<a href="/Home-Prices-Increase-Faster-Blue-Cities-1039736-1.html">Home Prices Increase Faster in Blue Cities</a>
 	            </div> 
 	               
 	               
@@ -1695,19 +1753,19 @@ googletag.pubads().enableSyncRendering();
         <div class="col-3 left">
             <h2>Conference Calendar</h2>
                       	            <div class="article-related-links-item">
-                <a href="/calendar/conference/#1036622">Servicing FHA Loans</a>
+                <a href="/calendar/conference/#1039707">National Property Preservation Conference</a>
 								<div class="article-date"></div>
             </div>                
                         <div class="article-related-links-item">
-                <a href="/calendar/conference/#1036296">American Mortgage Conference</a>
-								<div class="article-date"></div>
-            </div>                
-                        <div class="article-related-links-item">
-                <a href="/calendar/conference/#1035502">3rd Annual Mortgage Regulatory Forum</a>
+                <a href="/calendar/conference/#1039705">2013 REALTORS® Conference &amp; Expo</a>
 								<div class="article-date"></div>
             </div>                
                         <div class="article-related-links-item">
                 <a href="/calendar/conference/#1035503">15th Annual Mortgage Technology Conference</a>
+								<div class="article-date"></div>
+            </div>                
+                        <div class="article-related-links-item">
+                <a href="/calendar/conference/#1039746">School of Quality Control</a>
 								<div class="article-date"></div>
             </div>                
                                     
@@ -1716,12 +1774,15 @@ googletag.pubads().enableSyncRendering();
               	<a href="/calendar/conference/"><img src="http://cdn.nationalmortgagenews.com/media/ui/btn-more.png" class="morebutton"></a>
               </div>  
             </div>
-		     <h2>Solution Center</h2>
-		        <div class="article-related-links-item">
-                <a href="http://www.americanbanker.com/business-process-management-solutions/?s=nmn_nav">Business Process Management</a>
-								<div class="article-date"></div>
+				<h2>Web Seminars</h2>
+                      	            <div><a href="/webinars/-1039744-1.html">Adapting to the New QM Rules</a></div>
+				   	            	    
+            <div class="clearfix">
+                <div id="bankthink-see-all" class="right">
+                    <a href="/webinars/"><img src="http://cdn.nationalmortgagenews.com/media/ui/btn-more.png" class="morebutton"></a>
+                </div>  
+            </div>        
             </div>  
-        </div>
         <div class="col-4 left">
 
             <h2>Advertising</h2>
@@ -1740,8 +1801,8 @@ googletag.pubads().enableSyncRendering();
 	    			            	    
             
             <h2>White Papers</h2>
-                      	            <div><a href="/papers/-1036292-1.html">Hidden Cost of Compliance</a></div>
-				   	            <div><a href="/papers/-1035642-1.html">Harnessing Traditional and Alternative Data to Improve Loan Quality at All Risk Levels</a></div>
+                      	            <div><a href="/papers/-1039716-1.html">Navigating the ‘New Normal’ in 2014</a></div>
+				   	            <div><a href="/papers/-1039647-1.html">In Pursuit of a Paperless Mortgage Process</a></div>
 				   	            	    
             <div class="clearfix">
                 <div id="bankthink-see-all" class="right">
@@ -1758,7 +1819,14 @@ googletag.pubads().enableSyncRendering();
     	<!-- content start -->
     	<div id="content" class="clearfix">
     				
-											
+															<div id="top-ad">
+					<div id="pushdown">
+	<script type="text/javascript">
+		googletag.display("pushdown");
+	</script>
+</div>
+				</div>
+				
        
 				
 				
@@ -1858,22 +1926,22 @@ googletag.pubads().enableSyncRendering();
 	<div id="most-read-content" class="tab-content">
 		<ul>
 		
-																						<li><a href="http://www.nationalmortgagenews.com/dailybriefing/Chase-Begins-Servicing-Layoffs-Distressed-Borrowers-Wane-1037104-1.html">Chase Begins Servicing Layoffs as Distressed Borrowers Wane</a></li>
-																																								<li><a href="http://www.nationalmortgagenews.com/dailybriefing/rising-rates-could-keep-renters-out-of-the-purchase-market-1036980-1.html">Rising Rates Could Keep Renters Out of the Purchase Market</a></li>
-																																	<li><a href="http://www.nationalmortgagenews.com/features/Mortgage-Rule-Concerns-Overblown-Cordray-Says-1037070-1.html">Mortgage-Rule Concerns Overblown, Richard Cordray Says</a></li>
-																																	<li><a href="http://www.nationalmortgagenews.com/dailybriefing/Corker-GSE-Bill-Puts-Second-Liens-Second-Place-1037161-1.html">Corker GSE Bill Puts Second Liens in Second Place</a></li>
-																																	<li><a href="http://www.nationalmortgagenews.com/features/Questions-New-York-Post-Bloomberg-Storm-Plans-1037139-1.html">More Questions for New York’s Post-Bloomberg Storm Plans</a></li>
-																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																				</ul>
+																						<li><a href="http://www.nationalmortgagenews.com/origination/Ben-Anderson-Winning-Attittude-Strategy-1039709-1.html">Fire in the Belly Makes for a Fierce Competitor</a></li>
+																																	<li><a href="http://www.nationalmortgagenews.com/blogs/hearing/Competition-Heating-Up-Brokers-Become-Minis-1039698-1.html">Competition Heating Up as Brokers Become ‘Minis’</a></li>
+																																	<li><a href="http://www.nationalmortgagenews.com/features/What-Industry-Needs-Know-About-QM-1039694-1.html">What the Industry Needs to Know About QM as Deadline Nears</a></li>
+																																	<li><a href="http://www.nationalmortgagenews.com/dailybriefing/Originations-to-Decline-MBA-1039628-1.html">Originations to Decline 32% in 2014: MBA</a></li>
+																																	<li><a href="http://www.nationalmortgagenews.com/dailybriefing/Brokers-Seek-Better-QM-Rule-from-FHA-1039673-1.html">Brokers Seek Better QM Rule from FHA</a></li>
+																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																				</ul>
 	</div>
 	<div id="most-emailed-content" style="display:none;" class="tab-content">
 		<ul>
 		
-																						<li><a href="http://www.nationalmortgagenews.com/dailybriefing/Chase-Begins-Servicing-Layoffs-Distressed-Borrowers-Wane-1037104-1.html">Chase Begins Servicing Layoffs as Distressed Borrowers Wane</a></li>
-														  																		<li><a href="http://www.nationalmortgagenews.com/dailybriefing/Corker-GSE-Bill-Puts-Second-Liens-Second-Place-1037161-1.html">Corker GSE Bill Puts Second Liens in Second Place</a></li>
-														  																		<li><a href="http://www.nationalmortgagenews.com/dailybriefing/Good-Graces-of-the-CFPB-1037195-1.html">How to Stay in the Good Graces of the CFPB</a></li>
-														  																		<li><a href="http://www.nationalmortgagenews.com/dailybriefing/Housing-Seen-Shrugging-Off-Rate-Rise-1037097-1.html">Housing Seen Shrugging Off Rate Rise as Banks Loosen</a></li>
-														  																		<li><a href="http://www.nationalmortgagenews.com/dailybriefing/athas-brings-back-traditional-wholesale-subprime-1036929-1.html">Athas Brings Back Traditional Wholesale Subprime</a></li>
-														  															  															  															  															  															  															  															  															  															  															  															  															  															  															  															  															  															  															  															  															  															  															  															  															  															  															  															  															  															  															  															  															  															  															  															  															  															  															  															  															  															  															  							</ul>
+																						<li><a href="http://www.nationalmortgagenews.com/dailybriefing/Originations-to-Decline-MBA-1039628-1.html">Originations to Decline 32% in 2014: MBA</a></li>
+														  																		<li><a href="http://www.nationalmortgagenews.com/dailybriefing/fannie-freddie-ordered-to-end-reimbursements-for-force-placed-insurance-1039734-1.html">Fannie, Freddie Ordered to End Reimbursements for Force-Placed Insurance</a></li>
+														  																		<li><a href="http://www.nationalmortgagenews.com/dailybriefing/Two-Harbors-Matrix-Unit-PHH-Enter-Servicing-Pact-1039720-1.html">Two Harbors’ Matrix Unit and PHH Enter Servicing Pact</a></li>
+														  																		<li><a href="http://www.nationalmortgagenews.com/features/Fear-Driving-Mortgage-Banker-Actions-On-QM-1039695-1.html">Fear Is Driving Mortgage Banker Actions On QM</a></li>
+														  																		<li><a href="http://www.nationalmortgagenews.com/dailybriefing/PHH-Stock-Lower-1039724-1.html">PHH Stock Closes Lower</a></li>
+														  															  															  															  															  															  															  															  															  															  															  															  															  															  															  															  															  															  															  															  															  															  															  															  															  															  															  															  															  															  															  															  															  															  															  															  															  															  															  															  															  							</ul>
 	</div>
 </div>
 <!-- most read end -->
@@ -2027,14 +2095,219 @@ googletag.pubads().enableSyncRendering();
 </div>
 				</div>
 				<!-- ad end -->
+											
+
+
+
+<div class="module" id="module-asktheexpert">
+	<div class="ate-what-is-link"><a href="#whatis-tbws" class="fancybox">What is this?</a></div>
+	<h4 class="carousel-header">National Real Estate Post</h4>
+	<div id="module-asktheexpert-box">
+		<a href="/national-real-estate-post/"><img src="http://cdn.nationalmortgagenews.com/media/ui/nrep-homepage-banner.png" style="margin-bottom:0;"></a>
+		<div id="module-asktheexpert-content">
+					<div id="module-asktheexpert-featured">
+			
+								<a href="/national-real-estate-post/?id=1039732"><img src="http://cdn.nationalmortgagenews.com/media/newspics/2807324736001.jpg" width="280px"></a>
+						
+				<a href="/national-real-estate-post/?id=1039732"><p class="date" id="vidDateTBWS">NOV  5</p></a>
+				<a href="/national-real-estate-post/?id=1039732"><h6 id="vidTitleTBWS" style="min-height: 25px;">CFPB 3% Cap Refundable MI?</h6></a>
+			</div>
+							
+		<div class="module-asktheexpert-item">
+			<a href="/national-real-estate-post/?id=1039711" onmouseover="playerTextTBWS('FHFA Say Watt?','NOV  4');" onmouseout="playerTextOutTBWS();">
+				<img src="http://cdn.nationalmortgagenews.com/media/newspics/2803367812001.jpg" width="88">
+			</a>
+		</div>
+					
+		<div class="module-asktheexpert-item">
+			<a href="/national-real-estate-post/?id=1039678" onmouseover="playerTextTBWS('NAMB Approaches CFPB on QM','NOV  1');" onmouseout="playerTextOutTBWS();">
+				<img src="http://cdn.nationalmortgagenews.com/media/newspics/2791914146001.jpg" width="88">
+			</a>
+		</div>
+					
+		<div class="module-asktheexpert-item module-asktheexpert-item-last">
+			<a href="/national-real-estate-post/?id=1039657" onmouseover="playerTextTBWS('Barney Frank Rises From the Dead','OCT 31');" onmouseout="playerTextOutTBWS();">
+				<img src="http://cdn.nationalmortgagenews.com/media/newspics/2788049216001.jpg" width="88">
+			</a>
+		</div>
+					<div style="clear:both;"></div>
+		</div>
+	</div>
+</div>
+
+<div style="display: none;">
+<div id="whatis-tbws" class="grid_8">
+A daily video that gives you mortgage news, plus a little attitude.
+</div>
+</div>
+
+
+
+<script type="text/javascript">
+	function playerTextTBWS(videoTitle,vidDateTBWS) {
+		$('#vidTitleTBWS').html(videoTitle);
+		$('#vidDateTBWS').html(vidDateTBWS);
+	}
+	function playerTextOutTBWS() {
+		$('#vidTitleTBWS').html('CFPB 3% Cap Refundable MI?');
+		$('#vidDateTBWS').html('NOV  5');
+	}
+</script>
+
+
+
+  
+												<!-- ad start -->
+				<div class="module">
+					<div id="bigbox5" style="width: 300px;height: 250px;">
+	<script type="text/javascript">
+		googletag.display("bigbox5");
+	</script>
+</div>
+				</div>
+				<!-- ad end -->
+															
+<!-- video gallery start -->
+<script type="text/javascript">
+jQuery(document).ready(function() {
+	jQuery('#video_gallery').jcarousel({
+		scroll: 2,
+		visible: 2
+	});
+
+});
+</script>
+
+
+
+
+    
+        	    
+		<!-- video start -->
+  <div class="module module-video">
+		<h4 class="carousel-header"><a href="/resource-center">Multimedia</a></h4>
+		<div class="video">
+			<a href="http://www.nationalmortgagenews.com/resource-center/?id=1039743"><img src="http://cdn.nationalmortgagenews.com/media/newspics/identitytheftreportdavesullivan.jpg" width="300" border="0" alt="" title=""></a>		</div>
+		<div class="video-caption">
+			<a href="http://www.nationalmortgagenews.com/resource-center/?id=1039743">How to Create an Identity Theft Report</a>
+		</div>
+	</div>
+	<!-- video end -->
+		  
+        	    
+			<!-- video gallery start -->
+	<div class="module">
+		
+		<ul id="video_gallery" class="jcarousel-skin-tango">
+			
+			<li>
+				<div class="carousel-item-image"><a href="http://www.nationalmortgagenews.com/resource-center/?id=1039489"><img width="100" src="http://cdn.nationalmortgagenews.com/media/newspics/2758983004001.jpg" border="0" alt="" title=""></a></div>
+				<div class="carousel-item-desc"><a href="http://www.nationalmortgagenews.com/resource-center/?id=1039489">Why Now is Not the Right Time to Lower Loan Limits</a></div>
+			</li>
+		
+		  
+        	    
+				
+			<li>
+				<div class="carousel-item-image"><a href="http://www.nationalmortgagenews.com/resource-center/?id=1039172"><img width="100" src="http://cdn.nationalmortgagenews.com/media/newspics/2713981994001.jpg" border="0" alt="" title=""></a></div>
+				<div class="carousel-item-desc"><a href="http://www.nationalmortgagenews.com/resource-center/?id=1039172">Sens. Bob Corker and Mark Warner Discuss GSE Reform</a></div>
+			</li>
+		
+		  
+        	    
+				
+			<li>
+				<div class="carousel-item-image"><a href="http://www.nationalmortgagenews.com/resource-center/?id=1039096"><img width="100" src="http://cdn.nationalmortgagenews.com/media/newspics/2700696540001.jpg" border="0" alt="" title=""></a></div>
+				<div class="carousel-item-desc"><a href="http://www.nationalmortgagenews.com/resource-center/?id=1039096">Analyzing Recent Housing Market Data</a></div>
+			</li>
+		
+		  
+        	    
+				
+			<li>
+				<div class="carousel-item-image"><a href="http://www.nationalmortgagenews.com/resource-center/?id=1039046"><img width="100" src="http://cdn.nationalmortgagenews.com/media/newspics/2697488819001.jpg" border="0" alt="" title=""></a></div>
+				<div class="carousel-item-desc"><a href="http://www.nationalmortgagenews.com/resource-center/?id=1039046">California Legislative Issues Presented in 2013</a></div>
+			</li>
+		
+		  
+        	    
+				
+			<li>
+				<div class="carousel-item-image"><a href="http://www.nationalmortgagenews.com/resource-center/?id=1038998"><img width="100" src="http://cdn.nationalmortgagenews.com/media/newspics/Grynberg.jpg" border="0" alt="" title=""></a></div>
+				<div class="carousel-item-desc"><a href="http://www.nationalmortgagenews.com/resource-center/?id=1038998">Small Brokers in Trouble?</a></div>
+			</li>
+		
+		  
+        	    
+				
+			<li>
+				<div class="carousel-item-image"><a href="http://www.nationalmortgagenews.com/resource-center/?id=1038756"><img width="100" src="http://cdn.nationalmortgagenews.com/media/newspics/2665501012001.jpg" border="0" alt="" title=""></a></div>
+				<div class="carousel-item-desc"><a href="http://www.nationalmortgagenews.com/resource-center/?id=1038756">Addressing Concerns in Re-proposed QRM Mortgage Finance Rule</a></div>
+			</li>
+		
+		  
+        	    
+				
+			<li>
+				<div class="carousel-item-image"><a href="http://www.nationalmortgagenews.com/resource-center/?id=1038687"><img width="100" src="http://cdn.nationalmortgagenews.com/media/newspics/2659785155001.jpg" border="0" alt="" title=""></a></div>
+				<div class="carousel-item-desc"><a href="http://www.nationalmortgagenews.com/resource-center/?id=1038687">July Jobs Report Impact on Mortgage Bonds</a></div>
+			</li>
+		
+		  
+        	    
+				
+			<li>
+				<div class="carousel-item-image"><a href="http://www.nationalmortgagenews.com/resource-center/?id=1038473"><img width="100" src="http://cdn.nationalmortgagenews.com/media/newspics/2635552322001.jpg" border="0" alt="" title=""></a></div>
+				<div class="carousel-item-desc"><a href="http://www.nationalmortgagenews.com/resource-center/?id=1038473">Secondary Mortgage Market Reform: Good or Bad?</a></div>
+			</li>
+		
+		  
+        	    
+				
+			<li>
+				<div class="carousel-item-image"><a href="http://www.nationalmortgagenews.com/resource-center/?id=1038379"><img width="100" src="http://cdn.nationalmortgagenews.com/media/newspics/2625293102001.jpg" border="0" alt="" title=""></a></div>
+				<div class="carousel-item-desc"><a href="http://www.nationalmortgagenews.com/resource-center/?id=1038379">Outlook for Mortgage Market Remains Strong</a></div>
+			</li>
+		
+		  
+        	    
+				
+			<li>
+				<div class="carousel-item-image"><a href="http://www.nationalmortgagenews.com/resource-center/?id=1038327"><img width="100" src="http://cdn.nationalmortgagenews.com/media/newspics/NAMB_GA_082113.jpg" border="0" alt="" title=""></a></div>
+				<div class="carousel-item-desc"><a href="http://www.nationalmortgagenews.com/resource-center/?id=1038327">Progress on H.R. 1077</a></div>
+			</li>
+		
+		  
+        	    
+				
+			<li>
+				<div class="carousel-item-image"><a href="http://www.nationalmortgagenews.com/resource-center/?id=1038301"><img width="100" src="http://cdn.nationalmortgagenews.com/media/newspics/2619027955001.jpg" border="0" alt="" title=""></a></div>
+				<div class="carousel-item-desc"><a href="http://www.nationalmortgagenews.com/resource-center/?id=1038301">MBA President Discusses Regulation Issues</a></div>
+			</li>
+			
+		</ul>
+	
+	<div id="see-all-links">
+		<div class="see-all-link"><a href="/more/gallery.html">More Slide Shows »</a></div><br>
+		<div class="see-all-link"><a href="/more/videos.html">More Videos »</a></div>		
+	</div>
+	
+  </div>
+	<!-- video gallery end -->
+		
+			
+
+	
+		
+  
 												<div class="module module-freeform">
 		<h4 class="carousel-header"><a href="/press_releases/">Advertiser Press Releases</a></h4>		<div class="abstract">
 						<ul>
-							<li><a href="/press_releases/nationwide-title-clearing-executives-attend-conferences-1035201-1.html">Nationwide Title Clearing, Inc. (NTC) Executives Attend PRIA and NACRC Conferences—eRecording Manager Speaks on Panel</a></li>
-							<li><a href="/press_releases/allregs-launches-consumer-training-1034950-1.html">AllRegs Launches Consumer Training Resources for Financial Services Industry</a></li>
-							<li><a href="/press_releases/michael-oconnel-promoted-coo-nationwide-title-clearing-1034949-1.html">Nationwide Title Clearing, Inc. (NTC) Names Michael O’Connell Chief Operations Officer</a></li>
-							<li><a href="/press_releases/naationwide-title-clearing-hire-power-award-1034948-1.html">Nationwide Title Clearing, Inc. (NTC) Earns Inc.’s Hire Power Award—Recognized for Strengthening the Economy</a></li>
-							<li><a href="/press_releases/docmagic_facility_wins_award-1034239-1.html">New DocMagic Facility Wins Prestigious AIA Honors Award</a></li>
+							<li><a href="/press_releases/nationwide-title-clearing-on-florida-fast-100-list-1039144-1.html">Nationwide Title Clearing, Inc. Wins Spot on Florida Fast 100 Awards List</a></li>
+							<li><a href="/press_releases/global-dms-selected-mortgage-technology-award-finalist-1039027-1.html">Global DMS Selected as Finalist for Mortgage Technology Magazine’s Transforming Valuations Award</a></li>
+							<li><a href="/press_releases/amerisave-expands-third-party-underwriting-guidelines-1038843-1.html">Amerisave Expands Third Party Underwriting Guidelines</a></li>
+							<li><a href="/press_releases/august-price-gains-housing-bubble-pead-1038604-1.html">Clear Capital: August National Yearly Price Gains of 10.2% Align With Housing Bubble Peak</a></li>
+							<li><a href="/press_releases/nationwide-title-clearing-moves-higher-on-inc-500-list-1038527-1.html">Nationwide Title Clearing, Inc. Moves to Higher Spot on 2013 Inc. 500|5000 List</a></li>
 					</ul>
 				</div>
 	</div>
@@ -2048,16 +2321,7 @@ googletag.pubads().enableSyncRendering();
 			
 		
  
-												<!-- ad start -->
-				<div class="module">
-					<div id="bigbox5" style="width: 300px;height: 250px;">
-	<script type="text/javascript">
-		googletag.display("bigbox5");
-	</script>
-</div>
-				</div>
-				<!-- ad end -->
-											
+								
 <script type="text/javascript">
 	var stat_itemList = [
 			{url: "http://mortgagestats.com/macro/#Mortgage_Employment", title: "Mortgage Employment"},			{url: "http://mortgagestats.com/macro/#New_Home_Sales", title: "New Home Sales"},			{url: "http://mortgagestats.com/macro/#Existing_Home_Sales", title: "Existing Home Sales"},			{url: "http://mortgagestats.com/macro/#Housing_Starts", title: "Housing Starts"}		];
@@ -2129,162 +2393,7 @@ googletag.pubads().enableSyncRendering();
 </div>
 <!-- stats end -->
  
-												<!-- 2 col ad start -->
-				<div class="module small-ads">
-
-					<div class="ad-row1 clearfix">
-						<div class="left small-ad"><div id="rightbutton1" style="width: 120px;height: 90px;">
-	<script type="text/javascript">
-		googletag.display("rightbutton1");
-	</script>
-</div></div>
-						<div class="right small-ad"><div id="rightbutton2" style="width: 120px;height: 90px;">
-	<script type="text/javascript">
-		googletag.display("rightbutton2");
-	</script>
-</div></div>
-					</div>
-					<div class="ad-row2 clearfix">
-						<div class="left small-ad"><div id="rightbutton3" style="width: 120px;height: 90px;">
-	<script type="text/javascript">
-		googletag.display("rightbutton3");
-	</script>
-</div></div>
-						<div class="right small-ad"><div id="rightbutton4" style="width: 120px;height: 90px;">
-	<script type="text/javascript">
-		googletag.display("rightbutton4");
-	</script>
-</div></div>
-					</div>
-				</div>
-				<!-- 2 col ad end -->
-															
-<!-- video gallery start -->
-<script type="text/javascript">
-jQuery(document).ready(function() {
-	jQuery('#video_gallery').jcarousel({
-		scroll: 2,
-		visible: 2
-	});
-
-});
-</script>
-
-
-
-
-    
-        	    
-		<!-- video start -->
-  <div class="module module-video">
-		<h4 class="carousel-header"><a href="/resource-center">Multimedia</a></h4>
-		<div class="video">
-			<a href="http://www.nationalmortgagenews.com/resource-center/?id=1037142"><img src="http://cdn.nationalmortgagenews.com/media/newspics/idnani_ritesh_isgn_vid.jpg" width="300" border="0" alt="" title=""></a>		</div>
-		<div class="video-caption">
-			<a href="http://www.nationalmortgagenews.com/resource-center/?id=1037142">Technology Planning for the Future</a>
-		</div>
-	</div>
-	<!-- video end -->
-		  
-        	    
-			<!-- video gallery start -->
-	<div class="module">
-		
-		<ul id="video_gallery" class="jcarousel-skin-tango">
-			
-			<li>
-				<div class="carousel-item-image"><a href="http://www.nationalmortgagenews.com/resource-center/?id=1037023"><img width="100" src="http://cdn.nationalmortgagenews.com/media/newspics/idnani_ritesh_isgn_vid.jpg" border="0" alt="" title=""></a></div>
-				<div class="carousel-item-desc"><a href="http://www.nationalmortgagenews.com/resource-center/?id=1037023">Social Media: Challenge or Opportunity?</a></div>
-			</li>
-		
-		  
-        	    
-				
-			<li>
-				<div class="carousel-item-image"><a href="http://www.nationalmortgagenews.com/resource-center/?id=1036928"><img width="100" src="http://cdn.nationalmortgagenews.com/media/newspics/2476952291001.jpg" border="0" alt="" title=""></a></div>
-				<div class="carousel-item-desc"><a href="http://www.nationalmortgagenews.com/resource-center/?id=1036928">State of the Housing Union (Part 3 of 3)</a></div>
-			</li>
-		
-		  
-        	    
-				
-			<li>
-				<div class="carousel-item-image"><a href="http://www.nationalmortgagenews.com/resource-center/?id=1036981"><img width="100" src="http://cdn.nationalmortgagenews.com/media/gallery/p17t28rrkn1l4u1its1rnl19n11h3t4.jpg" border="0" alt="" title=""></a></div>
-				<div class="carousel-item-desc"><a href="http://www.nationalmortgagenews.com/resource-center/?id=1036981">Why Underwriting Is So Tight</a></div>
-			</li>
-		
-		  
-        	    
-				
-			<li>
-				<div class="carousel-item-image"><a href="http://www.nationalmortgagenews.com/resource-center/?id=1036976"><img width="100" src="http://cdn.nationalmortgagenews.com/media/gallery/p17t2723i8jo8qhp17881bk01c0a4.jpg" border="0" alt="" title=""></a></div>
-				<div class="carousel-item-desc"><a href="http://www.nationalmortgagenews.com/resource-center/?id=1036976">NYAMB: New York Wholesale Proves Resilient</a></div>
-			</li>
-		
-		  
-        	    
-				
-			<li>
-				<div class="carousel-item-image"><a href="http://www.nationalmortgagenews.com/resource-center/?id=1036709"><img width="100" src="http://cdn.nationalmortgagenews.com/media/newspics/2430743632001.jpg" border="0" alt="" title=""></a></div>
-				<div class="carousel-item-desc"><a href="http://www.nationalmortgagenews.com/resource-center/?id=1036709">Weekly Data Reports to Impact Interest Rates and Bond Market</a></div>
-			</li>
-		
-		  
-        	    
-				
-			<li>
-				<div class="carousel-item-image"><a href="http://www.nationalmortgagenews.com/resource-center/?id=1036683"><img width="100" src="http://cdn.nationalmortgagenews.com/media/newspics/NAMB_053113VideoStillCrop.jpg" border="0" alt="" title=""></a></div>
-				<div class="carousel-item-desc"><a href="http://www.nationalmortgagenews.com/resource-center/?id=1036683">HR 1077 and the CRL</a></div>
-			</li>
-		
-		  
-        	    
-				
-			<li>
-				<div class="carousel-item-image"><a href="http://www.nationalmortgagenews.com/resource-center/?id=1036667"><img width="100" src="http://cdn.nationalmortgagenews.com/media/newspics/2421715642001.jpg" border="0" alt="" title=""></a></div>
-				<div class="carousel-item-desc"><a href="http://www.nationalmortgagenews.com/resource-center/?id=1036667">Tracking Legislative Developments in California</a></div>
-			</li>
-		
-		  
-        	    
-				
-			<li>
-				<div class="carousel-item-image"><a href="http://www.nationalmortgagenews.com/resource-center/?id=1036568"><img width="100" src="http://cdn.nationalmortgagenews.com/media/newspics/2407450496001.jpg" border="0" alt="" title=""></a></div>
-				<div class="carousel-item-desc"><a href="http://www.nationalmortgagenews.com/resource-center/?id=1036568">Investing in the Distressed Property Market</a></div>
-			</li>
-		
-		  
-        	    
-				
-			<li>
-				<div class="carousel-item-image"><a href="http://www.nationalmortgagenews.com/resource-center/?id=1036541"><img width="100" src="http://cdn.nationalmortgagenews.com/media/gallery/p17r9c5i6su2293hu0j12cnil38.jpg" border="0" alt="" title=""></a></div>
-				<div class="carousel-item-desc"><a href="http://www.nationalmortgagenews.com/resource-center/?id=1036541">Turbulent Times for LPS from 2010-2013</a></div>
-			</li>
-		
-		  
-        	    
-				
-			<li>
-				<div class="carousel-item-image"><a href="http://www.nationalmortgagenews.com/resource-center/?id=1036482"><img width="100" src="http://cdn.nationalmortgagenews.com/media/newspics/2399458150001.jpg" border="0" alt="" title=""></a></div>
-				<div class="carousel-item-desc"><a href="http://www.nationalmortgagenews.com/resource-center/?id=1036482">Helping Homeowners with Disaster Insurance Needs</a></div>
-			</li>
-			
-		</ul>
-	
-	<div id="see-all-links">
-		<div class="see-all-link"><a href="/more/gallery.html">More Slide Shows »</a></div><br>
-		<div class="see-all-link"><a href="/more/videos.html">More Videos »</a></div>		
-	</div>
-	
-  </div>
-	<!-- video gallery end -->
-		
-			
-
-	
-		
-  
-										
+							
 				</div>	<!-- right rail end -->
 			             <div style="clear:both;"></div>
             </div>	<!-- 2-col layout end -->
@@ -2472,28 +2581,13 @@ jQuery(document).ready(function() {
 </div> <!-- footer-wrapper -->
 
 
-	
-
 <script type="text/javascript">
-
-	function showBar(){
-		$("#slide-area").animate({
-			bottom: '0'
-		});
-		$("#ribbon-right").animate({
-			bottom: '0'
-		});
-	}
 
 	$(document).ready(function(){
 		jQuery(function ($) {
-			// Load dialog on page load
-			//$('#basic-modal-content').modal();
-
 			// Load dialog on click
 			$('.basic').click(function (e) {
 				$('#basic-modal-content').modal();
-
 				return false;
 			});
 		});
@@ -2538,9 +2632,18 @@ jQuery(document).ready(function() {
 		  	<a href="/subscribe/"><img border="0" src="http://cdn.nationalmortgagenews.com/media/ui/subscribe.png"></a>
 		  </div>                            	
 		  <div class="right">
-		  	<a href="/subscribe/trial.html"><img border="0" src="http://cdn.nationalmortgagenews.com/media/ui/register.png"></a>
+		  	<a href="#" id="login_pop"><img border="0" src="http://cdn.nationalmortgagenews.com/media/ui/register-enews.png"></a>
 		  </div>
 		</div>
+<script language="javascript" type="text/javascript">
+$(document).ready(function(){
+	$('#login_pop').live('click', function(){
+		//jQuery.fancybox.close();
+		$('#custom_metered_reg6').trigger( "click" );
+		return false;
+	});
+});
+</script>
 		
 		<div class="clearfix" id="logged-out-login">
 			
@@ -2645,5 +2748,7 @@ Munchkin.init('555-ETU-514');
 });
 </script>
 <img src="http://ad.retargeter.com/seg?add=708854&amp;t=2" width="1" height="1">
+
+
 
 </body></html>
