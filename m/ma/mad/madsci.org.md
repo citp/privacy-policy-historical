@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the madsci.org privacy policy that was archived on 2013-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130424015501id_/http%3A//madsci.org/info/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the madsci.org privacy policy that was archived on 2013-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131106095420id_/http%3A//www.madsci.org/info/privacy.html) for the most accurate reproduction.*
 
 # MadSci Privacy Policy
 
@@ -60,7 +60,7 @@ If you have further questions concerning this policy, please contact us at [weba
 * * *
 
 _Last modified 9/21/2005_  
-Previous versions: [7.11.2005](https://web.archive.org/web/20130424015501id_/http%3A//madsci.org/info/privacy.7.11.2005.html), [10.31.2001](https://web.archive.org/web/20130424015501id_/http%3A//madsci.org/info/privacy.10.2001.html). 
+Previous versions: [7.11.2005](https://web.archive.org/web/20131106095420id_/http%3A//www.madsci.org/info/privacy.7.11.2005.html), [10.31.2001](https://web.archive.org/web/20131106095420id_/http%3A//www.madsci.org/info/privacy.10.2001.html). 
 
 * * *
 
