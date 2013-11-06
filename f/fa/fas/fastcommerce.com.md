@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fastcommerce.com privacy policy that was archived on 2013-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130510004332id_/http%3A//www.fastcommerce.com/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fastcommerce.com privacy policy that was archived on 2013-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131106095324id_/http%3A//www.fastcommerce.com/privacy.jsp) for the most accurate reproduction.*
 
 # Free ecommerce free online web store free shopping cart software
 
