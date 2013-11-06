@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fallingpixel.com privacy policy that was archived on 2013-01-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130116062543id_/http%3A//www.fallingpixel.com/support.php/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fallingpixel.com privacy policy that was archived on 2013-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131106011648id_/http%3A//www.fallingpixel.com/support.php/privacy) for the most accurate reproduction.*
 
 # Support :: Falling Pixel
 
