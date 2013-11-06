@@ -1,15 +1,15 @@
-<!--The following is the downloaded HTML source of the flightcentre.co.za privacy policy that was archived on 2013-05-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130510060901id_/http%3A//www.flightcentre.co.za/company/legal/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the flightcentre.co.za privacy policy that was archived on 2013-11-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131106120418id_/http%3A//www.flightcentre.co.za/company/legal/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
     
-<script src="https://dnn506yrbagrg.cloudfront.net/pages/scripts/0013/6116.js?439590" async="" type="text/javascript"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/javascript/fcza.mobileRedirect.js"></script>
+<script type="text/javascript" async="" src="//doug1izaerwt3.cloudfront.net/a2a06b532b20b57c927cb3879d3611a3bdb68d13.1.js"></script><script type="text/javascript" async="" src="//i.kissmetrics.com/i.js"></script><script src="https://dnn506yrbagrg.cloudfront.net/pages/scripts/0013/6116.js?439590" async="" type="text/javascript"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/javascript/fcza.mobileRedirect.js"></script>
 <meta http-equiv="X-UA-Compatible" content="IE=8">
 <meta name="p:domain_verify" content="42e69287c8b2db6b3ff06068fccb54a8">
-<link rel="stylesheet" type="text/css" media="screen" href="/css/jquery/custom-theme/ui.all.css">
-<link rel="stylesheet" type="text/css" media="screen" href="/css/standard.css">
-<!-- <link rel="stylesheet" type="text/css" media="screen" href="/fc/css/standard.css"  /> -->
-<link rel="stylesheet" type="text/css" href="/css/megamenu.css?v=3" media="screen">
+<link rel="stylesheet" type="text/css" media="screen" href="/css/jquery/custom-theme/ui.all.css?v=3">
+<link rel="stylesheet" type="text/css" media="screen" href="/css/standard.css?ref=new_1">
+<link rel="stylesheet" type="text/css" media="screen" href="/css/header.css?v=3">
+
 
 <!--[if lte IE 7]>
 				<link rel="stylesheet" type="text/css" media="screen" href="/fc/css/lteie7.css"  />
@@ -25,7 +25,7 @@
 <script type="text/javascript" src="http://www.fclmedia.com/fclLibrary/2.1/core/production.js"></script>
 <script type="text/javascript" src="http://www.fclmedia.com/fclLibrary/2.1/ext/production.js"></script>
 <script type="text/javascript" src="/fc/js/fc.js"></script>
-<script type="text/javascript" src="/javascript/fc.megamenu_new.js"></script>
+
 <script type="text/javascript" src="/javascript/jquery.hoverIntent.minified.js"></script>
 <script type="text/javascript" src="/javascript/jquery.bgIframe.minified.js"></script>
 
@@ -33,18 +33,11 @@
 <script type="text/javascript" src="/js/fcza.js"></script>
 <script type="text/javascript" src="/js/fcza.settings.js"></script>
 <script type="text/javascript" src="/javascript/fcza.util.js"></script>
-<script type="text/javascript" src="/js/fcza.navigation.js"></script>
 <script type="text/javascript" src="/js/fcza.misc.js"></script>
 
 <!-- TRACKING CODE -->
 <script type="text/javascript" src="/js/fcza.tracking.js"></script>
-<script type="text/javascript">
-				$(document).ready(function() {
-					FCZA.NAVIGATION.init();		
-					FCZA.MISC.init();	
-				});
-		</script>
-<script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
+
 <script type="text/javascript">
 
   var _gaq = _gaq || [];
@@ -65,16 +58,36 @@
 <link rel="stylesheet" type="text/css" media="screen" href="/css/k_btton.css">
 <!-- End Kampyle Css -->
 <script type="text/javascript"> 
-jQuery(function(){
-   setTimeout(function() {
-      jQuery("#splash").fadeOut("slow", function() {
-         jQuery("#content").show();
-      });
-   }, 10000);
+$(document).ready(function() {
+//Customer service bar
+  $("#csb-outer").show();
+		$("#csb-expand").click(function(){ 
+			$("#csb-expand").fadeOut('1200'); 
+			$("#csb-bg-right").animate({ 
+                width:"789px"
+			}, 750);			 
+			$.cookie('csb','0',{ path: '/' });
+		});
+		$('#csb-collapse').click(function(){
+			 
+			$("#csb-bg-right").animate({ 
+				width:"210px"
+			}, 750);
+			  
+			$("#csb-expand").fadeIn('1200');
+			$.cookie('csb','1',{ path: '/' });
+		});
+
+		if ($.cookie('csb')=='1') {
+			 
+			$("#csb-bg-right").animate({ 
+                width:"220px"
+			}, 0);
+			  
+			$("#csb-expand").fadeIn('0');
+		}
 });
 </script>
-
-
 
 	<title> Privacy Policy | Flight Centre SA</title>
 
@@ -91,25 +104,17 @@ jQuery(function(){
 <div id="container">
 
 <!-- Header start -->
-<div id="header" role="banner"> <a href="/" title="Home"> <img src="/cms_images/header/captain2013.png" alt="captain" width="115" height="133" class="logo"> </a>
-  <p class="hide"><a href="#skipnav">Skip to main content</a></p>
-  <ul class="welcome">
-    <li><strong>Cheap Flights, Holidays and Travel Deals</strong></li>
-    <!--secureinclude--> 
-    <!-- <li><a href="http://abnel222.au.fcl.internal:10100/pct/cosearch?brand=FCZA" target="_blank" >Consultant Only Search</a></li> --> 
-    <!--secureinclude-->
-    <li><a href="https://twitter.com/#!/FlightCentreRSA" target="_blank"><img src="/cms_images/home-page-ad/Twitter.jpg" alt="Twitter" border="0"></a> 
-      <!--secureinclude-->
-    </li><li><a href="http://www.facebook.com/flightcentreRSA?ref=ts" target="_blank"><img src="/cms_images/home-page-ad/facebook.JPG" alt="Facebook" border="0"></a> 
-      <!--secureinclude--> 
-      <!-- <a href="http://www.flightcentre.co.za/contact-us/email-subscription/newsletter-travel-deals" ><img src="/cms_images/home-page-ad/newsletter.jpg" ALT="Email Subscribe" BORDER="0"/></a> --> 
-      <!--secureinclude--> 
-      <a href="http://www.flightcentre.co.za/contact-us/general-enquiry/book-online"><img src="/cms_images/home-page-ad/email.JPG" alt="Email Us" border="0"></a></li>
-    <!--secureinclude-->
-    <li>
-      <g:plusone size="medium"></g:plusone>
-    </li>
-  </ul>
+<div class="header" id="header" role="banner"> <a href="/" title="Home"> <img src="/cms_images/header/captain2013.png" alt="captain" width="115" height="133" class="logo"> </a>
+ 
+  <ul class="tagSocial">
+      <li class="socialLinks">
+        <div id="fbbutton"><a href="http://www.facebook.com/flightcentreRSA" title="Facebook" target="_blank"><img alt="Flight Centre Facebook" title="Flight Centre Facebook" src="/images/facebook19x19.png"></a></div>
+        <div id="twitterbutton"><a href="https://twitter.com/#!/FlightCentreRSA" title="Twitter" target="_blank"><img alt="Flight Centre Twitter" title="Flight Centre Twitter" src="/images/twitter19x19.png"></a></div>
+        <div id="googleplus"><a href="https://plus.google.com/100167378807643973838/posts" title="Google+" target="_blank"><img alt="Flight Centre Google+" title="Flight Centre Google+" src="/images/googleplus19x19.png"></a></div>
+      </li>
+      
+      <li>Cheap Flights, Holidays and Travel Deals</li>
+    </ul>
   
   <!-- <form action="#" name="googleSearch" id="googleSearch" class="google-search">
             <ul>
@@ -123,22 +128,10 @@ jQuery(function(){
             </ul>
         </form> --> 
   
-  <a href="/contact-us/general-enquiry/book-online" class="ask-consultant"> <img src="/cms_images/header/consultant.jpg" width="194" height="40" alt="Do you have a travel enquiry? Ask a Consultant"> </a> </div>
-<!-- Header end --> 
-<style>
-  <!--
-  span {
-    font-size:12px;
-  }
-  -->
-  </style>
-  <!-- Nav start -->
-  <ul id="megamenu">
-    <li id="topnav-1" class="topnav closed"><a href="/" class="toplink"><span>Home</span></a>
-      <div id="subnav-1" class="subnav-ctn">
-        <div class="menu-arrow" style=""></div>
-        <div class="sub-bg sub-padding">
-          <ul class="sub-menu">
+<div class="nav">
+      <ul>
+        <li><a href="/" class="toplink">Home</a>
+          <div class="column menu-width home-dropdown">
             <ul>
               <li><a href="/aboutus/airline-failure-protection">Airline Failure Protection</a></li>
               <li><a href="/aboutus/lag">Lowest Airfare Guarantee</a></li>
@@ -146,15 +139,10 @@ jQuery(function(){
               <li><a href="/contact-us/contact-details/customer-assistance">Customer assistance</a></li>
               <li class="experts-btn" style="background-image:none"><a href="/contact-us/general-enquiry/book-online">Email an expert</a></li>
             </ul>
-          </ul>
-        </div>
-      </div>
-    </li>
-    <li id="topnav-2" class="topnav closed" style="font-weight:bold"><a href="/landing-pages/cheap-flights/cheap-airfares-new" class="toplink"><span>Flights</span></a>
-      <div id="subnav-2" class="subnav-ctn">
-        <div class="menu-arrow" style=""></div>
-        <div class="sub-bg sub-padding">
-          <ul class="sub-menu">
+          </div>
+        </li>
+        <li> <a href="/landing-pages/cheap-flights/cheap-airfares-new" class="toplink">Flights</a>
+          <div class="column menu-width">
             <ul>
               <li><a href="/landing-pages/cheap-flights/cheap-airfares-domestic">Domestic </a></li>
               <li><a href="/landing-pages/cheap-flights/cheap-airfares-new">International</a></li>
@@ -167,136 +155,64 @@ jQuery(function(){
               <li><a href="/landing-pages/cheap-flights/cheap-airfares-multi-rtw-dd">Double Dip</a></li>
               <li class="experts-btn" style="background-image:none"><a href="/contact-us/general-enquiry/book-online">Email an expert</a></li>
             </ul>
-          </ul>
-        </div>
-      </div>
-    </li>
-    <li id="topnav-3" class="topnav closed"><a href="/holiday/cheap-holiday-deals" class="toplink"><span>Holidays</span></a>
-      <div id="subnav-3" class="subnav-ctn">
-        <div class="menu-arrow" style=""></div>
-        <div class="sub-bg sub-padding">
-          <ul class="sub-menu">
-             <li>
-           <!--  <a href="http://www.flightcentre.com.au/guides" >Travel Guides</a> -->
-             <ul> 
-               <li><a href="/holiday/cheap-holiday-deals">Holiday by Destination</a></li>
+          </div>
+        </li>
+        <li> <a href="/holiday/cheap-holiday-deals" class="toplink">Holidays</a>
+          <div class="column menu-width">
+            <ul>
+              <li><a href="/holiday/cheap-holiday-deals">Holiday by Destination</a></li>
               <li><a href="/holiday/holiday-types">Holiday Types</a></li>
               <li><a href="/landing-pages/holiday/current-promotions">Current Promotions</a></li>
               <li><a href="/travel-extras/brochures/online-brochures">Online Brochures</a></li>
               <li><a href="/online-offerings/destination-guide">Destination Guide</a></li>
-              <li class="experts-btn" style="background-image:none"><a href="/contact-us/general-enquiry/book-online">Email an expert</a></li>                 
-              </ul> 
-            </li>
-            <li>
-           <!--   <a href="#" >Travel Extras</a> -->
-              <ul> 
-             <!--   <li> <a href="#" >Travel Extras</a></li>-->
-                <li><a href="/travel-extras/gift-cards/gift-cards">Gift Cards</a></li> 
-                <li><a href="/travel-extras/travel-extras/Bridal-Registry-Request">Wedding Registry</a></li> 
-                <li><a href="/travel-extras/travel-checklist">Travel Checklist</a></li> 
-                    
-              </ul>
-  
-            </li>
-          </ul>
-        </div>
-      </div>
-    </li>
-    <li id="topnav-4" class="topnav closed"><a href="/landing-pages/tours/tours" class="toplink"><span>Tours</span></a>
-      <div id="subnav-4" class="subnav-ctn">
-        <div class="menu-arrow" style=""></div>
-        <div class="sub-bg sub-padding">
-          <ul class="sub-menu">
+              <li class="experts-btn" style="background-image:none"><a href="/contact-us/general-enquiry/book-online">Email an expert</a></li>
+              <li><a href="/travel-extras/gift-cards/gift-cards">Gift Cards</a></li>
+              <li><a href="/travel-extras/travel-extras/Bridal-Registry-Request">Wedding Registry</a></li>
+              <li><a href="/travel-extras/travel-checklist">Travel Checklist</a></li>
+            </ul>
+          </div>
+        </li>
+        <li><a href="/landing-pages/tours/tours" class="toplink">Tours</a>
+          <div class="column menu-width">
             <ul>
               <li><a href="/landing-pages/tours/busabout">Busabout</a></li>
               <li><a href="/landing-pages/tours/contiki">Contiki</a></li>
               <li><a href="/landing-pages/tours/g-adventures">G Adventures</a></li>
-              
               <li><a href="/landing-pages/tours/Insight-Vacations">Insight Vacations</a></li>
               <li><a href="/landing-pages/tours/Intrepid">Intrepid</a></li>
-             
               <li><a href="/landing-pages/tours/nomad">Nomad</a></li>
               <li><a href="/landing-pages/tours/OTG-tour">On The Go</a></li>
               <li><a href="/landing-pages/tours/top-deck">Top Deck</a></li>
               <li><a href="/landing-pages/tours/trafalgar" class="end">Trafalgar</a></li>
             </ul>
-          </ul>
-        </div>
-      </div>
-    </li>
-    <li id="topnav-5" class="topnav closed"><a href="/landing-pages/cruise/cruising" class="toplink"><span>Cruises</span></a>
-      <div id="subnav-5" class="subnav-ctn">
-        <div class="menu-arrow" style=""></div>
-        <div class="sub-bg sub-padding" style="border:1px solid #fff; float:left; ">
-          <ul class="sub-menu">
+          </div>
+        </li>
+        <li><a href="/landing-pages/cruise/cruising" class="toplink">Cruises</a>
+          <div class="column menu-width">
             <ul>
-              <li><a href="/landing-pages/cruise/cruising">International Cruises</a></li>
-              <li><a href="/landing-pages/cruise/cruising">Domestic Cruises</a></li>
-              <li><a href="/landing-pages/cruise/cruising" class="end">River Cruises</a></li>
+              <li><a href="/landing-pages/holiday/results/&amp;query=holiday_experience+is+%22Cruising+-+Luxury%22">International Cruises</a></li>
+              <li><a href="/landing-pages/holiday/results/&amp;query=holiday_experience+is+%22Cruising+-+Single%22">Domestic Cruises</a></li>
+              <li><a href="/landing-pages/holiday/results/&amp;query=holiday_experience+is+%22Cruising+-+River%22" class="end">River Cruises</a></li>
             </ul>
-          </ul>
-        </div>
-      </div>
-    </li>
-  <li id="topnav-6" class="topnav closed"><a href="/landing-pages/holiday/current-promotions" class="toplink"><span>Promotions</span></a>
-       <!--  <div id="subnav-6" class="subnav-ctn">
-        <div class="menu-arrow"></div>
-        <div class="sub-bg sub-padding">
-        <ul class="sub-menu">
-            <ul>
-              <li><a href="/travel-extras/gift-cards/gift-cards" >Gift cards</a></li>
-              <li><a href="/travel-extras/travel-extras/Bridal-Registry" >Wedding Registry</a></li>
-              <li><a href="/travel-extras/travel-checklist" >Travel Checklist</a></li>
-            </ul>
-          </ul>
-        </div>
-      </div>-->
-    </li>
-    <li id="topnav-6" class="topnav closed"><a href="/businesstravel" class="toplink"><span>Business Travel</span></a> 
-      <!--<div id="subnav-6" class="subnav-ctn">
-        <div class="menu-arrow" style=""></div>
-        <div class="sub-bg sub-padding">
-          <ul class="sub-menu">
-            
-          </ul>
-        </div>
-      </div>--> 
-    </li>
-    <li id="topnav-6" class="topnav closed"><a href="#" class="toplink"><span>Travel Extras</span></a>
-      <div id="subnav-6" class="subnav-ctn">
-        <div class="menu-arrow"></div>
-        <div class="sub-bg sub-padding">
-          <ul class="sub-menu">
+          </div>
+        </li>
+        <li><a href="/landing-pages/holiday/current-promotions">Promotions</a></li>
+        <li><a href="/businesstravel" class="toplink">Business Travel</a></li>
+        <li><a href="#" class="toplink">Travel Extras</a>
+          <div class="column menu-width">
             <ul>
               <li><a href="/online-offerings/hotel">Accommodation </a></li>
               <li><a href="/suppliers/white-labels/activities">Activities and excursions</a></li>
-              <li><a href="/online-offerings/car-hire">Car Hire</a></li>
-              <li><a href="/online-offerings/forex">Foreign exchange</a></li>
+              <!-- li><a href="/online-offerings/car-hire" >Car Hire</a></li -->
+              <!-- li><a href="/online-offerings/forex" >Foreign exchange</a></li -->
               <li><a href="/online-offerings/tic">Travel Insurance</a></li>
               <li><a href="http://www.roseadmin.co.za/fc_visas.php?branchid=1" target="_blank" class="end">Visas</a></li>
             </ul>
-          </ul>
-        </div>
-      </div>
-    </li>
-  
-    <li id="topnav-3" class="topnav closed"><a href="http://blog.flightcentre.co.za/" target="_blank" class="toplink"><span>Blog</span></a>
-      <div id="subnav-6" class="subnav-ctn">
-        <div class="menu-arrow"></div>
-        <div class="sub-bg sub-padding">
- <ul class="sub-menu">
-          <ul>
-            <li><a href="http://blog.flightcentre.co.za/" target="_blank">Travel Blog</a></li>
-          </ul>
-</ul>
-        </div>
-      </div>
-    </li>
-    <li id="topnav-3" class="topnav closed"><a href="/contact-us/contact-details/contact-us" class="toplink"><span>Contact</span></a>
-      <div id="subnav-6" class="subnav-ctn">
-        <div class="menu-arrow"></div>
-        <div class="sub-bg sub-padding">
-          <ul class="sub-menu">
+          </div>
+        </li>
+        <li><a href="/company/careers/overview">Careers</a></li>
+        <li><a href="/contact-us/contact-details/contact-us" class="toplink">Contact</a>
+          <div class="column menu-width">
             <ul>
               <li><a href="/company/site-map/sitemap">Site Map</a></li>
               <li><a href="https://twitter.com/#!/flightCentreRSA" target="_blank">Follow Us</a></li>
@@ -305,44 +221,40 @@ jQuery(function(){
               <li><a href="/contact-us/contact-details/customer-assistance">Customer assistance</a></li>
               <li><a href="/contact-us/contact-details/media-contacts">Media contacts</a></li>
               <li><a href="/company/newsletter/subscribe">Subscribe</a></li>
-               <li><a href="/company/newsletter/unsubscribe">Unsubscribe</a></li>
-               <li><a href="/suppliers/white-labels/update-details">Update your details</a></li>
+              <li><a href="/company/newsletter/unsubscribe">Unsubscribe</a></li>
+              <li><a href="/suppliers/white-labels/update-details">Update your details</a></li>
             </ul>
-
-          </ul>
-        </div>
-      </div>
-    </li>
-    <li id="topnav-3" class="topnav closed"><a href="/company/about/about-us" class="toplink"><span>About us</span></a>
-      <div id="subnav-11" class="subnav-ctn">
-        <div class="menu-arrow"></div>
-        <div class="sub-bg sub-padding">
-          <ul class="sub-menu">
-          <li><!--<a href="/company/about/about-us">About Flight Centre</a>-->
+          </div>
+        </li>
+        <li><a href="/company/about/about-us" class="toplink">About Us</a>
+          <div class="column menu-width last-dropdown">
             <ul>
-               <li><a href="/company/about/about-us">About Flight Centre</a></li>
+              <li><a href="/company/about/about-us">About Flight Centre</a></li>
+ <li><a href="/company/about/testimonials">Testimonials</a></li>
               <li><a href="/aboutus/airline-failure-protection">Airline Failure Protection</a></li>
+<li><a href="/aboutus/lag">Lowest Airfare Guarantee</a></li>
+<li><a href="/company/legal/price-drop-protection">Price Drop Protection</a></li>
               <li><a href="/contact-us/contact-details/contact-us">Contact Us</a></li>
-              <li><a href="/aboutus/lag">Lowest Airfare Guarantee</a></li>
-              <li><a href="http://www.mypressoffice.co.za/FlightCentre/default.html" target="_blank">News Update</a></li>
+              
+              <!-- li><a href="http://www.mypressoffice.co.za/FlightCentre/default.html" target="_blank" >News Update</a></li -->
+             
             </ul>
-          </li></ul>
-        </div>
-      </div>
-    </li>
-  </ul>
-<noscript>
- <div style="padding:5px; background-color: #FFCC99; font-size: 12px;">
-<center>
-<b>Your browser JavaScript is disabled. For full website functionality, JavaScript is required.</b>
-</center>
+          </div>
+        </li>
+      </ul>
+    </div>
+
 </div>
-</noscript>
-<a name="skipnav"></a> 
-<!-- topNav end --> 
-<script type="text/javascript">
-FC.MM2.init();
-</script> 
+<div style="clear:both"></div>
+<!-- Header end --> 
+<style>
+  <!--
+  span {
+    font-size:12px;
+  }
+  -->
+  </style>
+
 <!--Start Kampyle Feedback Form Button-->
 
 <div id="k_close_button" class="k_float kc_bottom_sl kc_right" style="display: block;">X</div><div><a href="https://www.kampyle.com/feedback_form/ff-feedback-form.php?site_code=1171796&amp;lang=en&amp;form_id=53458" target="kampyleWindow" id="kampylink" class="k_float k_bottom_sl k_right" onclick="javascript:k_button.open_ff('site_code=1171796&amp;lang=en&amp;form_id=53458');return false;"><img src="/images/en-blue-corner-low-right.gif" alt="Feedback Form" border="0"></a></div>
@@ -392,12 +304,12 @@ FC.MM2.init();
                 
 <div id="holidays_search_form_container" style="display:none">
 <form name="holidaySearch" action="" method="get" target="" id="holidaySearch">
-                  <input type="hidden" name="resultsUrl" value="/landing-pages/holiday/results/">
+                  <input type="hidden" name="resultsUrl" value="/landing-pages/holiday/results">
                   
                   <label for="byContinent" class="LabelText">Select Holiday Destination:</label>
                     <select id="byContinent" name="byContinent">
                       <option value="">All</option>
-                    <option value="Africa">Africa</option><option value="Asia">Asia</option><option value="Central America">Central America</option><option value="Europe">Europe</option><option value="Middle East">Middle East</option><option value="North America">North America</option><option value="Oceania and Australia">Australia &amp; South Pacific</option><option value="South America">South America</option><option value="Africa">Africa</option><option value="Asia">Asia</option><option value="Central America">Central America</option><option value="Europe">Europe</option><option value="Middle East">Middle East</option><option value="North America">North America</option><option value="Oceania and Australia">Australia &amp; South Pacific</option><option value="South America">South America</option></select>
+                    </select>
                     <label for="byCountry" class="LabelText">Select a Country:</label>
                     <select id="byCountry" name="byCountry">
                       <option value="">All</option>
@@ -426,8 +338,8 @@ FC.MM2.init();
                     </select>
                     <div class="holidays_search_hr"></div>
                     <input src="/cms_images/buttons/button-search.gif" class="submitButton" alt="Submit" style="margin-right:5px; margin-bottom:8px" type="image">&nbsp;
-                    <div class="holidays_search_hr"></div>
-                    Looking for a perfect holiday? Choose from our huge selection of holidays to destinations locally and around the world. Flight Centre also specialises in Tailor-making the perfect holiday for you, whether its for a special occasion, extended holiday, group travel, overseas wedding or round the world itinerary.
+                <!--    <div class="holidays_search_hr"></div>
+                    Looking for a perfect holiday? Choose from our huge selection of holidays to destinations locally and around the world. Flight Centre also specialises in Tailor-making the perfect holiday for you, whether its for a special occasion, extended holiday, group travel, overseas wedding or round the world itinerary. -->
    
 </form>
 <script type="text/javascript" src="/javascript/fcza.holidays.js?v=3"></script> 
@@ -436,7 +348,7 @@ FC.MM2.init();
 </div>
 <div id="flights_search_form_container">
 <form id="airfareSearch" name="airfareSearch" class="search-compare-book-form" action="" method="get" target="">
-                  <input type="hidden" name="resultsUrl" value="/landing-pages/cheap-flights/results/">
+                  <input type="hidden" name="resultsUrl" value="/landing-pages/cheap-flights/results">
                   
                   
     <label>Departure city:</label>
@@ -463,9 +375,9 @@ FC.MM2.init();
                     </select>
                     <div class="holidays_search_hr"></div>
                     <input src="/cms_images/buttons/button-search.gif" class="submitButton" alt="Submit" style="margin-right:5px; margin-bottom:8px" type="image">&nbsp;
-                    <div class="holidays_search_hr"></div>
-                    At Flight Centre we have access to a wide range of airfares at great prices. Speak to one of our expert consultants for advice on the best airline to fly with at the cheapest price.
-All backed by our Lowest Airfare Guarantee - We will beat same day airfare quotes for available flights departing from South Africa or you fly free*
+                 <!--    <div class="holidays_search_hr"></div>
+                   At Flight Centre we have access to a wide range of airfares at great prices. Speak to one of our expert consultants for advice on the best airline to fly with at the cheapest price.
+All backed by our Lowest Airfare Guarantee - We will beat same day airfare quotes for available flights departing from South Africa or you fly free*-->
 </form>
 <script type="text/javascript" src="/javascript/fcza.home.searchairfaresV2.js"></script> 
                 <!-- fcza.advertisements.js extends fcza.holidays.js --> 
@@ -473,7 +385,7 @@ All backed by our Lowest Airfare Guarantee - We will beat same day airfare quote
 </div>
 <div id="cruises_search_form_container" style="display:none">
 <form name="cruiseSearch" action="" method="get" target="" id="cruiseSearch">
-                  <input type="hidden" name="resultsUrl" value="/landing-pages/holiday/results/">
+                  <input type="hidden" name="resultsUrl" value="/landing-pages/holiday/results">
                   
                   <label for="byContinent" class="LabelText">Select a Holiday Destination:</label>
                     <select id="byContinent2" name="byContinent2">
@@ -507,8 +419,8 @@ All backed by our Lowest Airfare Guarantee - We will beat same day airfare quote
                     </select>
                     <div class="holidays_search_hr"></div>
                     <input src="/cms_images/buttons/button-search.gif" class="submitButton" alt="Submit" style="margin-right:5px; margin-bottom:8px" type="image">&nbsp;
-                    <div class="holidays_search_hr"></div>
-                    Not only does cruising offer you great value for money, exciting activities, exotic new horizons, a wonderful choice for romance and relaxation and fabulous dining options, it also provides the ultimate in convenience.
+               <!--      <div class="holidays_search_hr"></div>
+                   Not only does cruising offer you great value for money, exciting activities, exotic new horizons, a wonderful choice for romance and relaxation and fabulous dining options, it also provides the ultimate in convenience.-->
    
 </form>
 <script type="text/javascript" src="/javascript/fcza.home.searchcruises.js?v=4"></script> 
@@ -517,7 +429,7 @@ All backed by our Lowest Airfare Guarantee - We will beat same day airfare quote
 </div>
 <div id="tours_search_form_container" style="display:none">
 <form name="tourSearch" action="" method="get" target="" id="tourSearch">
-                  <input type="hidden" name="resultsUrl" value="/landing-pages/holiday/results/">
+                  <input type="hidden" name="resultsUrl" value="/landing-pages/holiday/results">
                   
                   <label for="byContinent" class="LabelText">Select a Holiday Destination:</label>
                     <select id="byContinent3" name="byContinent3">
@@ -551,8 +463,8 @@ All backed by our Lowest Airfare Guarantee - We will beat same day airfare quote
                     </select>
                     <div class="holidays_search_hr"></div>
                     <input src="/cms_images/buttons/button-search.gif" class="submitButton" alt="Submit" style="margin-right:5px; margin-bottom:8px" type="image">&nbsp;
-                    <div class="holidays_search_hr"></div>
-                    A tour is a great way to see more of your holiday destination than you otherwise might. At Flight Centre we offer a wide range of tour deals, from day tours to month-long tours, from walking tours to cooking tours, all of which have been handpicked by us to enhance your holiday experience.
+                  <!--    <div class="holidays_search_hr"></div>
+                  A tour is a great way to see more of your holiday destination than you otherwise might. At Flight Centre we offer a wide range of tour deals, from day tours to month-long tours, from walking tours to cooking tours, all of which have been handpicked by us to enhance your holiday experience.-->
                     
                     
    
@@ -613,7 +525,7 @@ We act as agent for many hundreds of companies, so it is not possible for us to 
 We will use your personal information to provide you with travel and travel related products and services.
 We may use and disclose your personal information for the purposes for which it was collected, or for a related or ancillary purpose such as any one or more of the following purposes:</p><p>
 
-</p><ul>
+</p><ul style="margin-left:18px">
 <li>Identification of fraud or error;</li>
 <li>Regulatory reporting and compliance; </li>
 <li>Developing, improving and marketing our products and services;</li>
@@ -634,7 +546,7 @@ We may use and disclose your personal information for the purposes for which it 
 We may disclose your personal information: <br>
 </p>
 
-<ul>
+<ul style="margin-left:18px">
 <li>as permitted or required by law; </li>
 <li>to various regulatory bodies and law enforcement officials and agencies to protect against fraud and for related security purposes;  </li>
 <li>to our third party service providers as well as to our related entities and brands;     </li>
@@ -649,7 +561,7 @@ We may disclose your personal information: <br>
 <h2>Electronic collection of personal information</h2>
 
 <p>If we collect personal information from you by electronic means (e.g. by e-mail or website) then, despite anything to the contrary in this policy:</p>
-<ul>
+<ul style="margin-left:18px">
     <li>we will only collect your personal information electronically with your express written permission;</li>
   <li>  we will not use the personal information for any other purpose than the purpose disclosed in this policy without your express written consent;</li>
   <li>  we must, for as long as the personal information is used and for a period of at least one year thereafter, keep a record of the personal information and the specific purpose for which the personal information was collected;</li>
@@ -696,55 +608,14 @@ From time to time it may be necessary for us to review and revise this Policy. W
    
     	<!-- right column start -->
     	<div id="colThree">
-			<div id="enquiry-options" class="component">
-	<h3>Enquiry options</h3>
+			 <div id="enquiry-options" class="component" style="width:190px">
+	<p><img src="/cms_images/landing-pages/call-general_215x84.jpg" width="190px"></p>
 	<ul class="content" id="enquiryOptionsMenu">
-		<li><img src="/cms_images/components/enquiry-options/call_new.jpg" alt="" width="167" height="30"></li>
-		<li><a href="/contact-us/general-enquiry/book-online"><img src="/cms_images/components/enquiry-options/make.gif" alt="book online" width="167" height="30"></a></li>			
-		<li><a href="/contact-us/contact-details/store-locator"><img src="/cms_images/components/enquiry-options/store-locator.gif" alt="Store locator" width="167" height="30"></a></li>
-		<li>
-			<ul>
-				<li id="send-to-friend">
-	<a><span>Send to a friend</span></a>
-	<div id="sendAccord">
-		<span><sup>*</sup> Indicates a required field</span>
-		<form id="sendToFriendForm" action="" method="get">
-			<input name="pageTitle" id="stf_pageTitle" type="hidden">
-			<input name="pageUrl" id="stf_pageUrl" type="hidden">
-			<fieldset>
-				<ul>
-					<li>
-						<label for="stf_name">Your name<sup>*</sup></label>
-						<input class="required" type="text" name="name" id="stf_name">
-					</li>
-					<li>
-						<label for="stf_email">Your email<sup>*</sup></label>
-						<input class="required" type="text" name="email" id="stf_email">
-					</li>
-					<li>
-						<label for="stf_friendEmail">Friend's email<sup>*</sup></label>
-						<input class="required" type="text" name="friendEmail" id="stf_friendEmail">
-					</li>
-					<li>
-						<label for="stf_message">Message</label>
-						<textarea cols="20" rows="6" name="message" id="stf_message">Check this out...</textarea>
-					</li>
-					<li>
-						<input type="image" alt="Send" class="submitButton" src="/cms_images/buttons/button-send.gif" value="submit">
-					</li>
-				</ul>				
-			</fieldset>
-		</form>
-	</div>
-<div id="stf-success">Thank you, your email has been sent.</div>
-
-<div id="stf-fail">Sorry, your email could not be sent at this time.</div>
-</li>
-<script type="text/javascript" src="/js/fcza.sendtofriend.js"></script>
-
-			</ul>
-		</li>
-		<li><img src="/cms_images/components/enquiry-options/print.gif" alt="Print this page" class="print" width="167" height="30"></li>		
+		 
+		<li><a href="/contact-us/general-enquiry/book-online"><img src="/cms_images/components/enquiry-options/make.gif" alt="book online" width="170" height="30"></a></li>			
+		<li><a href="/contact-us/contact-details/store-locator"><img src="/cms_images/components/enquiry-options/store-locator.gif" alt="Store locator" width="170" height="30"></a></li>
+		 
+		 
 	</ul>
 </div> 
 <script type="text/javascript" src="/js/animatedcollapse.js"></script>
@@ -753,33 +624,10 @@ From time to time it may be necessary for us to review and revise this Policy. W
 	FCZA.ENQUIRYOPTIONS.init();	
 </script>
 
-<!--<Component id="65d7a2804942595f94eabf49257a5a91:NC9mbGlnaHRjZW50cmUuY28uemEvc2lkZWJhci1lbnF1aXJ5LWZvcm0=" name="flightcentre.co.za/sidebar-enquiry-form"/>
-<div id="subscribe-hot-deals-cruise" class="component">
-    <h3>Sign up for e-deals!</h3>
-    <div class="content">
-        <a href="/contact-us/email-subscription/newsletter-travel-deals" >
-            <img src="/cms_images/specialists/cruises/enewsletter.jpg" alt="sign up for enewsletter travel deals" width="184" height="80"/>
-        </a>
-        
-        <form action="/contact-us/email-subscription/newsletter-travel-deals">
-            <fieldset>
-                <label for="comp_newsletter" style="padding-bottom:8px;">
-                Sign up to receive the hottest Flight Centre travel deals direct to your inbox.
-                </label>
-                <input name="formType" value="liveform" type="hidden"/> 
-                <ul>
-                    <li>
-                        <input id="comp_newsletter" name="newsletterEmail"value="your@email.address"/> 
-                    </li>
-                    <li>
-                        <input type="image" class="submitButton" src="/cms_images/buttons/button-subscribe.gif" alt="subscribe" />
-                    </li>
-                </ul>
-            </fieldset>
-        </form>
-    </div>
-</div>
--->
+<img src="/cms_images/components/Why_book_with_us.jpg">
+
+<!-- Component id="65d7a2804942595f94eabf49257a5a91:NC9mbGlnaHRjZW50cmUuY28uemEvc2lkZWJhci1lbnF1aXJ5LWZvcm0=" name="flightcentre.co.za/sidebar-enquiry-form"/>
+ Component id="466f54004942592493eebb49257a5a91:NC9mbGlnaHRjZW50cmUuY28uemEvZW1haWwtc3Vic2NyaWJlLWNvbXBvbmVudC1waWM=" name="flightcentre.co.za/email-subscribe-component-pic"/>-->
 
     	</div>   	<!-- right column end -->
      </div>    <!-- contentWrapper end -->
@@ -790,23 +638,111 @@ From time to time it may be necessary for us to review and revise this Policy. W
 
 
 <!-- footer start -->
-<div id="footer-content"><!-- Global Footer content goes here -->
-<script type="text/javascript">
-setTimeout(function(){var a=document.createElement("script");
-var b=document.getElementsByTagName("script")[0];
-a.src=document.location.protocol+"//dnn506yrbagrg.cloudfront.net/pages/scripts/0013/6116.js?"+Math.floor(new Date().getTime()/3600000);
-a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
-</script></div>
+<div id="footer-content"><!-- Global Footer content goes here --></div>
 
-<div id="footer">
-<ul>
-<li class="popular-searches">Popular searches</li>
-<li class="useful-information">Useful information</li>
-<li class="international-sites">International sites</li>
-<!--	<li class="travel-guides"> </li>-->
-<!--	<li class="subscribe"><label for="ea">Subscribe to our newsletter</label></li>-->
-</ul>
+<div id="footer" style="background:none; background-color:#EAEAEA; height: 310px;">
+<style type="text/css">
+.captain {
+    position: absolute;
+}
+
+.guarantee {
+    float: right;
+    margin-top: 50px;
+    position: relative;
+}
+.footerText {
+    margin: 0;
+    padding: 15px 0 0 170px;
+    width: 580px;
+}
+
+.footerText p {
+    line-height: 16px;
+	margin-bottom: 1em;
+}
+
+h4 {
+    color: #EE0000;
+    font-size: 13px;
+    font-weight: bold;
+}
+.footLinks {
+	line-height: 16px;
+	margin-bottom: 1em;
+}
+.footLinks a {
+	color: #014899;
+    text-decoration: none;
+	padding-right: 5px;
+	
+}
+.socialMedia {
+	width:790px;
+	overflow:hidden;
+	padding:0;
+	background:url('/images/home/social-media.png') 0 2px no-repeat #f6f6f6
+}
+.socialMedia a {
+	float:left;
+	padding:10px 10px 9px 42px
+}
+
+#intSites {
+	position:relative;
+	width:800px;
+	padding-left:170px
+}
+#intSites a {
+	color: #555555;
+	position:relative;
+}
+</style>
+<img src="/images/home/flight-centre-captain-footer.png" class="captain" alt="Flight Centre ZA"><a href="/aboutus/lag"><img width="200" src="/images/LAG_2012.png" class="guarantee" alt="Lowest Airfare Guarantee"></a>
+<div class="footerText">
+      <p>*Prices are in ZAR and subject to availability. Please refer to specific product's terms and conditions.</p>
+      <h4>LOWEST AIRFARE GUARANTEE</h4>
+      <p>Look here to find the lowest prices on flights to domestic and international destinations. Flight Centre's Lowest Airfare Guarantee promises you the best deals on flights. We will beat same day airfare quotes for available flights departing from South Africa or you fly free*</p>
+      <p> <a href="/aboutus/lag">Click here</a> for full terms and conditions</p>
+      
+      <div class="footLinks">
+        <a href="/company/about/about-us">About Flight Centre »</a>
+        <a href="/contact-us/contact-details/contact-us">Contact Us »</a>
+        <a href="/company/careers/overview">Careers »</a>
+      </div>
+      <div class="footLinks">
+        <a href="/company/legal/booking-tnc">Terms &amp; Conditions »</a>
+        <a href="/company/legal/terms-of-use">Terms of use »</a>
+        <a href="/company/legal/privacy">Privacy policy »</a>
+        
+      </div>
+
+<div class="footLinks socialMedia">
+      
+        <a href="http://www.facebook.com/flightcentreRSA" target="_blank">Join on Facebook</a>
+		<a href="https://twitter.com/#!/FlightCentreRSA" target="_blank">Follow on Twitter</a>
+		<a href="https://plus.google.com/100167378807643973838/posts" target="_blank" rel="publisher">Add on Google+</a>
+		<a href="http://blog.flightcentre.co.za/">Travel Blog</a>
+		<a href="/company/newsletter/subscribe">Subscribe to great deals</a>
+       
+      </div>
+    
+    
+      <p style="font-size:10px">© Flight Centre (South Africa) PTY Ltd | Enterprise No. 1994/000253/07 <br>
+       Other Flight Centre Limited Brands: <a href="http://www.cruiseabout.co.za/" target="_blank">Cruiseabout</a> | <a href="http://www.corporatetraveller.co.za/" target="_blank">Corporate Traveller</a> | <a href="http://www.studentflights.co.za/" target="_blank">Student Flights</a> </p>
+        
+      
+    
 </div>
+<div id="intSites"><b>International sites:</b> <a href="http://www.flightcentre.com.au" title="Flight Centre Australia" target="_blank">Australia</a> |
+<a href="http://www.flightcentre.ca" title="Flight Centre Canada" target="_blank">Canada</a> |
+<a href="http://www.flightcentre.com.cn" title="Flight Centre China" target="_blank">China</a> |
+<a href="http://www.flightcentre.com.hk" title="Flight Centre HongKong" target="_blank">HongKong</a> |
+<a href="http://www.flightshop.co.in" title="Flight Centre India" target="_blank">India</a> |
+<a href="http://www.flightcentre.co.nz" title="Flight Centre New Zealand" target="_blank">New Zealand</a> |
+<a href="http://www.flightcentre.com.sg" title="Flight Centre Singapore" target="_blank">Singapore</a> |
+<a href="http://www.flightcentre.co.uk" title="Flight Centre United Kingdom" target="_blank">United Kingdom</a> |
+<a href="http://www.flightcenter.com/" title="Flight Centre United States" target="_blank">United States</a> </div>
 <noscript>
  <div style="padding:5px; background-color: #FFCC99; font-size: 12px;">
 <center>
@@ -817,122 +753,74 @@ a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
 <!-- footer end -->
 
 </div>
-<!-- Container End -->
 
-<!-- legals start -->
-<style>
-<!--
-.newsletter-bg {
-	background-image: url('/images/footer-bg.gif');
-    background-repeat: repeat-x;
-    clear: both;
-    margin: 8px auto 0;
-    padding-top: 10px;
-    width: 975px;
-    height:50
-}
+<div align="center" id="csb-outer" style="">
+    <div id="csb-inner">
+      <div id="csb-bg-left"><div id="csb-desc" class="pixel16">Talk to an Airfare Expert</div></div>
+      <div id="csb-bg-right">
+        <div id="csb-text">
+          <div class="leadsourcePhone" id="csb-hdr">0877 40 50 00</div>
+          <div id="csb-expand"><img alt="Close" src="/images/slider/plus-white.png"></div>
+          <!-- div class="pixel16" id="csb-desc">Talk to an Airfare Expert</div -->
+        </div>
+        <div id="csb-icons">
+          <div class="csb-icon csb-icon1"><a href="/contact-us/contact-details/store-locator" class="store-locator-link"><img title="Locate Store" alt="Locate Store" src="/images/slider/blank.png"><div style="height:3px"></div>Find a store</a></div>
+   
+          <div class="csb-icon csb-icon3"><a href="/contact-us/general-enquiry/book-online"><img title="Click to Email" alt="Click to Email" src="/images/slider/blank.png"><div style="height:3px"></div>Email us</a>
+            <div id="csb-collapse"><img alt="Close" src="/images/slider/minus-white.png"></div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
 
-.newsletter-title{
-	background-image: url('/images/subscribe-to-newsletter.gif');
-    background-position: left top;
-    background-repeat: no-repeat;
-    float: left;
-    height: 40px;
-    margin-left: -6px;
-    width: 188px;
-}
--->
-</style>
-<div id="legals">
-<div class="newsletter-bg">
-<div class="newsletter-title">&nbsp;</div><br><a href="/company/newsletter/subscribe"><img src="/images/signup.gif" style="margin-top:-10px; margin-left:10px" alt="Sign Up"></a><br>&nbsp; </div>
-  <div style="clear:both"></div>
-<a href="/aboutus/lag" title="Lowest Airfare Guarantee*" class="lag" style="background: url('/images/LAG_2012.png') no-repeat"><span>We will beat same day airfare quotes for available flights departing from South Africa or your fly free</span></a>
-<ul class="popular-searches-links">
-<li><a href="/landing-pages/cheap-flights/cheap-airfares-new">Cheap flights</a></li>
-<li><a href="/holiday/cheap-holiday-deals">Cheap Holiday</a></li>
-<li><a href="/landing-pages/cruise/cruising">Cruise</a></li>
-<li><a href="/landing-pages/tours/tours">Tours</a></li>
-</ul>
+<!-- footer end -->
 
-<ul class="useful-information-links">
-<li><a href="/company/careers/overview">Careers</a></li>
-<li><a href="/cms_images/pdfs/WebsiteTermsofUse.pdf" target="_blank">Website Terms of use</a></li>
-<li><a href="/company/legal/privacy">Privacy Policy</a></li>
-<li><a href="/cms_images/pdfs/booking-tnc.pdf" target="_blank">Booking terms &amp; conditions</a></li>
-<li><a href="/company/about/our-company">Our brands</a></li>
-<li><a href="/aboutus/lag">Lowest airfare guarantee</a></li>
-<li><a href="http://m.flightcentre.co.za">Mobi Site</a></li>
- <li><a href="/company/site-map/sitemap">Site Map</a></li>
-</ul>
-
-<!--	<ul class="travel-guides-links">
-<li><a href="#" >China guide</a></li>
-<li><a href="#" >Hong Kong guide</a></li>
-<li><a href="#" >Thailand guide</a></li>
-<li><a href="#" >Vietnam guide</a></li>
-<li><a href="#" >Malaysia guide</a></li>
-<li><a href="#" >UK guide</a></li>
-<li><a href="#" >USA guide</a></li>
-</ul>-->
-
-<ul class="international-sites-links">
- 
-<li><a href="http://www.flightcentre.com.au" title="Flight Centre Australia" target="_blank">Flight Centre Australia</a></li>
-<li><a href="http://www.flightcentre.ca" title="Flight Centre Canada" target="_blank">Flight Centre Canada</a></li> 
-<li><a href="http://www.flightcentre.com.cn" title="Flight Centre China" target="_blank">Flight Centre China</a></li>
-<li><a href="http://www.flightcentre.com.hk" title="Flight Centre HongKong" target="_blank">Flight Centre HongKong</a></li>
-<li><a href="http://www.flightshop.co.in" title="Flight Centre India" target="_blank">Flight Centre India</a></li>
-<li><a href="http://www.flightcentre.co.nz" title="Flight Centre New Zealand" target="_blank">Flight Centre New Zealand</a></li>
-<li><a href="http://www.flightcentre.com.sg" title="Flight Centre Singapore" target="_blank">Flight Centre Singapore</a></li>
-<li><a href="http://www.flightcentre.co.uk" title="Flight Centre United Kingdom" target="_blank">Flight Centre United Kingdom</a></li>
-<li><a href="http://www.flightcenter.com/" title="Flight Centre United States" target="_blank">Flight Centre United States</a></li>
-</ul>
-
-<!--	<form method="get" action="/contact-us/email-subscription/newsletter-travel-deals">
-<input type="hidden" name="formType" value="liveform" />
-<label for="newsletterEmail" class="hide">Subscribe to our newsletter</label>
-<input type="text" name="newsletterEmail" id="newsletterEmail" value="your@emailaddress" />
-<button type="submit"><img src="/cms_images/footer/button-go-footer.gif" alt="Go" title="Subscribe to our newsletter" width="28" height="21"/></button>
-</form>	-->
-
-<!-- BEGIN: Constant Contact Stylish Email Newsletter Form -->
-<!--<form name="ccoptin" action="http://visitor.r20.constantcontact.com/d.jsp" target="_blank" method="post" style="margin-bottom:3;">
-<font style="font-weight: bold; font-family:Verdana; font-size:10px; color:#FFFFFF;"></font>
-<input height="22" name="ea" id="ea" type="text" style="font-family:Verdana,Geneva,Arial,Helvetica,sans-serif; font-size:10px; border:1px solid #999999;" value="your@emailaddress" size="20" />
-<button type="submit"><img src="/cms_images/footer/button-go-footer.gif" alt="Go" title="Subscribe to our newsletter" width="28" height="21"/></button>
-<input type="hidden" name="llr" value="z7o9bseab">
-<input type="hidden" name="m" value="1104412490649">
-<input type="hidden" name="p" value="oi">-->
-
-<!-- END: Constant Contact Stylish Email Newsletter Form -->
- 
-
-<p>
-© Flight Centre Limited<br>
-We will beat same day  airfare quotes for available flights departing from South Africa or you fly free* 
-</p>
-
-<p> 
-
-<a href="/cms_images/pdfs/booking-tnc.pdf" title="Booking Terms and Conditions">Click here for full terms and conditions</a> 
-
-</p>
-
-<p>Flight Centre (South Africa) PTY Ltd | Enterprise No. 1994/000253/07</p>
-<p>
-<!-- <img src="/cms_images/company/hata.jpg" BORDER="0" alt="HATA" />&nbsp;
-<img src="/cms_images/company/tic.jpg" BORDER="0" alt="TIC" />&nbsp; -->
-<img src="/cms_images/company/iata.jpg" border="0" alt="IATA">&nbsp;
-
-IATA Number 77209893.</p>
-<p>
-</p>
 </div>
-<!-- legals end -->
+<!-- Container End -->
 
 
 <img class="print-footer" src="/cms_images/email-marketing/bounce-back-header-za-new.jpg" alt="Flight Centre">
+
+<script type="text/javascript">
+setTimeout(function(){var a=document.createElement("script");
+var b=document.getElementsByTagName("script")[0];
+a.src=document.location.protocol+"//dnn506yrbagrg.cloudfront.net/pages/scripts/0013/6116.js?"+Math.floor(new Date().getTime()/3600000);
+a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
+</script>
+
+<script type="text/javascript">
+  var _kmq = _kmq || [];
+  var _kmk = _kmk || 'a2a06b532b20b57c927cb3879d3611a3bdb68d13';
+  function _kms(u){
+    setTimeout(function(){
+      var d = document, f = d.getElementsByTagName('script')[0],
+      s = d.createElement('script');
+      s.type = 'text/javascript'; s.async = true; s.src = u;
+      f.parentNode.insertBefore(s, f);
+    }, 1);
+  }
+  _kms('//i.kissmetrics.com/i.js');
+  _kms('//doug1izaerwt3.cloudfront.net/' + _kmk + '.1.js');
+</script>
+
+<!-- Google Code for Student Flights Competition Page -->
+<!-- Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. For instructions on adding this tag and more information on the above requirements, read the setup guide: google.com/ads/remarketingsetup -->
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 1023339379;
+var google_conversion_label = "z9zxCOHmrgIQ89b75wM";
+var google_custom_params = window.google_tag_params;
+var google_remarketing_only = true;
+/* ]]> */
+</script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1023339379/?value=0&amp;label=z9zxCOHmrgIQ89b75wM&amp;guid=ON&amp;script=0"/>
+</div>
+</noscript>
 
 
 </body></html>
