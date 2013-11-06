@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the electrocomponents.com privacy policy that was archived on 2013-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130415075340id_/http%3A//www.electrocomponents.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the electrocomponents.com privacy policy that was archived on 2013-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131107002100id_/http%3A//www.electrocomponents.com/privacy) for the most accurate reproduction.*
 
 # Privacy - Electrocomponents
 
