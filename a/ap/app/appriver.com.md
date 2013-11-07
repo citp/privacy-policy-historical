@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the appriver.com privacy policy that was archived on 2013-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130630225749id_/http%3A//www.appriver.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the appriver.com privacy policy that was archived on 2013-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131107051125id_/http%3A//www.appriver.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # AppRiver Privacy Policy
 
@@ -270,12 +270,14 @@ AppRiver complies with the US-EU Safe Harbor Framework and the US-Swiss Safe Har
 
 ## XV. Dispute Resolution:
 
-In compliance with the US-EU and the US-Swiss Safe Harbor Principles, we commit to resolve complaints about your privacy and our collection or use of your personal information. European Union or Swiss citizens with inquiries or complaints regarding this privacy policy should first contact AppRiver at:
+In compliance with the US-EU and the US-Swiss Safe Harbor Principles, AppRiver commits to resolve complaints about your privacy and our collection or use of your personal information. European Union or Swiss citizens with inquiries or complaints regarding this privacy policy should first contact AppRiver at:
 
 **AppRiver, LLC**  
 Privacy Department  
 1101 Gulf Breeze Pkwy, Suite 200  
 Gulf Breeze, FL. 32561
+
+AppRiver has further committed to refer unresolved privacy complaints under the US-EU Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU SAFE HARBOR, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by AppRiver, please visit the BBB EU SAFE HARBOR web site at [www.bbb.org/us/safe-harbor-complaints](http://www.bbb.org/us/european-dispute-resolution/consumer/) for more information and to file a complaint.
 
   
 
