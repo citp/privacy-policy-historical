@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the magazine.org privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530064513id_/http%3A//www.magazine.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the magazine.org privacy policy that was archived on 2013-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131107011226id_/http%3A//www.magazine.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | MPA
 
-This is the Website of the **Magazine Publishers of America** , the industry association for the consumer magazine industry.
+This is the Website of **The Association of Magazine Media**  the industry association for the consumer magazine industry.
 
 The main purpose of our Website is to provide information to our domestic, international, and associate members. We can provide requested information via e-mail or hard-copy transmission. If you request information, please specify which method of response you desire.
 
