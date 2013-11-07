@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ebi.ac.uk privacy policy that was archived on 2013-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130515022942id_/http%3A//www.ebi.ac.uk/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ebi.ac.uk privacy policy that was archived on 2013-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131107222107id_/http%3A//www.ebi.ac.uk/about/privacy) for the most accurate reproduction.*
 
 # EBI Privacy statement < About us < EMBL-EBI
 
@@ -8,7 +8,7 @@ The European Bioinformatics Institute provides bioinformatics services via this 
 
 For example, if you ask us a question or sign up to be notified of news about our services, you might tell us who you are, and give us your email address. Additionally, you might submit your email address for some web services, such as BLAST or CLUSTAL Omega, that allow you to submit batch jobs or when using SOAP or REST web services.
 
-For additional information see our full [privacy policy](https://www.ebi.ac.uk/Information/e-directive.html).
+For additional information see our full [privacy policy](https://www.ebi.ac.uk/about/cookies).
 
 ## How do we use your information?
 
@@ -25,7 +25,7 @@ We will keep your information confidential and will only use it within the EMBL-
 
 We will not contact you for marketing purposes or promote new services to you unless you specifically ask us to.
 
-You may choose to reduce the number of cookies you receive from us. Instructions for rejecting cookies are on the [cookies page](https://www.ebi.ac.uk/Information/e-directive.html#cookie-control).
+You may choose to reduce the number of cookies you receive from us. Instructions for rejecting cookies are on the [cookies page](https://www.ebi.ac.uk/about/cookies#cookies).
 
 ## How to reach us
 
