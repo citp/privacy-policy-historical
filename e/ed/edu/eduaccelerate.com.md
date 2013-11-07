@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eduaccelerate.com privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601103158id_/http%3A//eduaccelerate.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eduaccelerate.com privacy policy that was archived on 2013-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131107053459id_/http%3A//www.eduaccelerate.com/privacy.asp) for the most accurate reproduction.*
 
 # EDU Accelerate
 
