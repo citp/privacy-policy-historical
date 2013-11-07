@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the teenidols4you.com privacy policy that was archived on 2013-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130423193626id_/http%3A//www.teenidols4you.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teenidols4you.com privacy policy that was archived on 2013-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131107044625id_/http%3A//www.teenidols4you.com/privacy.html) for the most accurate reproduction.*
 
 # Teen Idols 4 You Privacy Policy
 
@@ -6,12 +6,11 @@
 > 
 > **Collection and Use of Information**
 > 
-> When you visit our Web site, place an order, request a catalog and/or contact us via e-mail, certain information is or may be collected. Among the types of information that may be collected are the following: 
+> When you visit our Web site, and/or contact us via e-mail, certain information is or may be collected. Among the types of information that may be collected are the following: 
 > 
->   * domain names of visitors to our site; 
->   * if you place an order or contact us, your name, address, e-mail address and whatever credit card information you provide in connection with your purchase; 
+>   * Domain names of visitors to our site; 
 >   * "navigational information" regarding the traffic patterns of our Web site, including the number of visits to a particular page and user-specific information on which pages a guest visits, average length of time spent on the site and similar site usage data; and 
->   * any information that you may choose to submit in connection with any e-mail messages, on-site surveys, registry programs, contests and the like. 
+>   * Any information that you may choose to submit in connection with any e-mail messages, on-site surveys, registry programs, photo uploads, contests and the like. This infomation may also include network data as in your IP and domain infomation. 
 > 
 
 > 
@@ -60,8 +59,14 @@
 > 
 > Our Web site may contain links to other sites maintained by third parties unrelated to Teen Idols 4 You. While we of course attempt to link only to reputable sites, please be aware that we do not monitor and is in no way responsible for the content or privacy practices of any such third party sites. 
 > 
+> **Our Policy Towards Children**
+> 
+> Our Services are not directed to persons under 13. If you become aware that your child has provided us with personal information without your consent, please contact us at chad_w@galacticstudio.com. We do not knowingly collect personal information from children under 13. If we become aware that a child under 13 has provided us with personal information, we take steps to remove such information and terminate the child's account. 
+> 
+> Notwithstanding anything to the contrary in this Policy, we may preserve or disclose your information if we believe that it is reasonably necessary to comply with a law, regulation or legal request; to protect the safety of any person; to address fraud, security or technical issues; or to protect Galatic Studio's (teenidols4you.com) rights or property. However, nothing in this Privacy Policy is intended to limit any legal defenses or objections that you may have to a third party's, including a government's, request to disclose your information. 
+> 
 > **TeenIdols4you.com  
 >  The Galactic Studio  
->  23 Windstone Drive  
+>  17 Windstone Drive  
 >  Sherwood, AR 72120  
->  501 425-0929**
+>  +1.501 436-9033**
