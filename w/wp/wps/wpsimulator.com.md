@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wpsimulator.com privacy policy that was archived on 2013-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130506015402id_/http%3A//wpsimulator.com/privacy-policy-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wpsimulator.com privacy policy that was archived on 2013-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131107171715id_/http%3A//wpsimulator.com/privacy-policy-2) for the most accurate reproduction.*
 
 # Privacy Policy | WPSimulator.com
 
