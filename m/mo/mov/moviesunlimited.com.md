@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moviesunlimited.com privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601060138id_/http%3A//www.moviesunlimited.com/musite/security.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moviesunlimited.com privacy policy that was archived on 2013-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131107150528id_/http%3A//www.moviesunlimited.com/musite/security.asp) for the most accurate reproduction.*
 
 # Security and Privacy - Safe, Secure Shopping at Movies Unlimited
 
