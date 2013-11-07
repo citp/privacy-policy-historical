@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the specialolympics.org privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603115204id_/http%3A//www.specialolympics.org/Common/Privacy_Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the specialolympics.org privacy policy that was archived on 2013-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131107015109id_/http%3A//www.specialolympics.org/Common/Privacy_Policy.aspx) for the most accurate reproduction.*
 
 # Special Olympics: Privacy Policy
 
