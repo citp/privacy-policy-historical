@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the childmind.org privacy policy that was archived on 2013-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130508054004id_/http%3A//www.childmind.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the childmind.org privacy policy that was archived on 2013-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131107193200id_/http%3A//www.childmind.org/privacy) for the most accurate reproduction.*
 
 # Privacy | Child Mind Institute
 
@@ -126,8 +126,8 @@ You may contact us by mail, e-mail, or telephone, as follows:
 
 Mail: Child Mind Institute, 445 Park Avenue, New York, NY 10022
 
-Policy Last Updated: September 30, 2010
+Policy Last Updated: March 1, 2013
 
 If we decide to change our privacy policy, we will post those changes here, so that you are continually aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We reserve the right to modify our privacy policy at any time, so please review it frequently.
 
-© 2010 Child Mind Institute. All rights reserved. "CMI" and its logo are registered service marks of the Child Mind Institute, Inc.
+© 2013 Child Mind Institute. All rights reserved. "CMI" and its logo are registered service marks of the Child Mind Institute, Inc.
