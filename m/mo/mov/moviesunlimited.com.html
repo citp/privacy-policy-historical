@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the moviesunlimited.com privacy policy that was archived on 2013-06-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130601060138id_/http%3A//www.moviesunlimited.com/musite/security.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the moviesunlimited.com privacy policy that was archived on 2013-11-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131107150528id_/http%3A//www.moviesunlimited.com/musite/security.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><!-- Keep this here for Yahoo! SiteExplorer --><head><meta name="y_key" content="aa4ba14087515680">
     
@@ -41,14 +41,18 @@
 		
         <script type="text/javascript" src="https://www.moviesunlimited.com/musite/include/site.js"></script>
         <script type="text/javascript">
-            $(document).ready(function() {
+            $(function() {
                 //$('.searchFormInput').watermark('watermark', 'Movie, Actor(s) or Director');
                 //$('.signupFormInput').watermark('watermark', 'Email Address');
 
                 $("#movies_phone").hover(function () { $(this).html('1-800-466-8437') });
                 $("#movies_phone").mouseout(function () { $(this).html('1-800-4-MOVIES') });
-
 	        });
+			
+			function validateEmail(elementValue){        
+				var emailPattern = /^[a-zA-Z0-9._-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,4}$/;  
+				return emailPattern.test(elementValue);   
+			}   
         </script>
         <!--[if lt IE 7.]>
         <script defer type="text/javascript" src="/scripts/pngfix.js"></script>
@@ -136,13 +140,14 @@
                     <div class="signUpSpecial">
                         <span style="color:#0149dc;font-weight:bold;">Get Movie Specials</span><br>and <span style="color:#0149dc;font-weight:bold;">Movie Trivia</span><br>via email.
                         </div>
-                    <form method="post" action="/musite/flashlink.asp" class="signUpForm">  
-                        <div><input type="text" name="pref_email" id="pref_email" class="signupFormInput" maxlength="100"></div>
-                        <div><input type="image" src="/musite/images/btn-signup.jpg" value="Sign Up" alt="Submit" name="Submit"></div>
+					<form method="post" action="http://eflash.moviesunlimitedeflash.com/q/4ILFwa2tJ9GySZMJR7cABZVleCsKJ0HEX">
+					<input type="hidden" name="crvs" value="MU_rQFjgwPruOJsJsft0wY6CW-Vl4lonIp8k3uTzCXODAF0cDlaE2ejfOdZCwaNdmwtn21GEjUld6D8Lizh0-Bq1bOneuVeykc3_cptQYgo7bnnV7PGFmHwhrgIDkJJ0mXitbS6V8m9rAv2zoN7fQGtJoiIgo8w1aTHzLHo2BwI">
+                        <div><input type="text" name="email" id="email" class="signupFormInput" maxlength="100"></div>
+						<div><input type="image" src="/musite/images/btn-signup.jpg" value="Sign Up" alt="Submit" name="Submit" id="emailsubmit"></div>
                     </form>
                 </div>    
             
-                <div id="navBanners"><a href=""><img src="/musite/images/LeftNav/We-Now-Accept-PayPalR.jpg" class="leftBanner" alt=""></a><br><a href="http://www.moviesunlimited.com/aarp/default.asp"><img src="/musite/images/LeftNav/AARP 1.gif" class="leftBanner" alt="Special Offer For AARP Members!"></a><br><a href="http://www.moviefanfare.com" target="_blank"><img src="/musite/images/LeftNav/Movie FanFare.gif" class="leftBanner" alt="Visit Movie FanFare!"></a><br><a href="/musite/giftcert.asp"><img src="/musite/images/LeftNav/Gift_Certificates.gif" class="leftBanner" alt="Can't Decide? Go For A Gift Certificate!"></a><br><a href="/musite/special_list.asp?id=r7"><img src="/musite/images/LeftNav/Pre_Viewed_DVD_2.gif" class="leftBanner" alt="Previously Viewed DVD Blowout!"></a><br></div>
+                <div id="navBanners"><a href=""><img src="/musite/images/LeftNav/We-Now-Accept-PayPalR.jpg" class="leftBanner" alt=""></a><br><a href="http://www.moviesunlimited.com/aarp/default.asp"><img src="/musite/images/LeftNav/AARP 1.gif" class="leftBanner" alt="Special Offer For AARP Members!"></a><br><a href="http://www.moviefanfare.com" target="_blank"><img src="/musite/images/LeftNav/Movie FanFare.gif" class="leftBanner" alt="Visit Movie FanFare!"></a><br><a href="/musite/special_list.asp?id=s1&amp;sort=7&amp;display=3"><img src="/musite/images/LeftNav/DVD Dump Bin.gif" class="leftBanner" alt="$2.99 Sale!"></a><br><a href="/musite/giftcert.asp"><img src="/musite/images/LeftNav/Gift_Certificates.gif" class="leftBanner" alt="Can't Decide? Go For A Gift Certificate!"></a><br><a href="/musite/special_list.asp?id=r7"><img src="/musite/images/LeftNav/Pre_Viewed_DVD_2.gif" class="leftBanner" alt="Previously Viewed DVD Blowout!"></a><br></div>
                 <div style="height:5px;clear:both;">&nbsp;</div>
                 <div id="leftBrowse">
                     <div id="leftBrowseTop">
@@ -271,8 +276,16 @@
         </div>
         </div>
         <script type="text/javascript">
-            $(document).ready(function () {
+            $(function () {
                 $('#nav_basket_info').load('/musite/include/nav_cart_ajax.asp?' + Math.random() * 99999);
+				$("#emailsubmit").click(function() {
+					//validate email
+					var str = $("#email").val();
+					if ( !validateEmail(str) ) {
+						alert("The email address you entered does not appear to be valid. Please check and try again.");
+						return false;
+					}
+				});
             });
         </script>
         <script type="text/javascript">
@@ -305,8 +318,8 @@
 <!-- Listrak Analytics � Script Source-->  
 <script type="text/javascript">
     var biJsHost = (("https:" == document.location.protocol) ? "https://" : "http://");
-    document.write(unescape("%3Cscript src='" + biJsHost + "s1.listrakbi.com/scripts/script.js?m=qD311kWq91&v=1' type='text/javascript'%3E%3C/script%3E"));
-</script><script src="https://s1.listrakbi.com/scripts/script.js?m=qD311kWq91&amp;v=1" type="text/javascript"></script>
+    document.write(unescape("%3Cscript src='" + biJsHost + "cdn.listrakbi.com/scripts/script.js?m=qD311kWq91&v=1' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://cdn.listrakbi.com/scripts/script.js?m=qD311kWq91&amp;v=1" type="text/javascript"></script>
  
 <!-- Listrak Analytics - Submit Tracking Click-->    
 <script type="text/javascript">
@@ -314,9 +327,9 @@
 </script>
 
 <script type="text/javascript">
-		_ltk.Activity.AddActivity('PageBrowse');
 
-	_ltk.Activity.Submit();
+	//_ltk.Activity.Submit();
+	_ltk.SCA.CaptureEmail('email');
 </script>
 
     <!-- End SCA Code -->
