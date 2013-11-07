@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the buylikebuffett.com privacy policy that was archived on 2013-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130529040516id_/http%3A//buylikebuffett.com/about-me/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buylikebuffett.com privacy policy that was archived on 2013-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131107065809id_/http%3A//buylikebuffett.com/about-me/privacy-policy) for the most accurate reproduction.*
 
 # Privacy - Buy Like Buffett
 
