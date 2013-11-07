@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the momcentral.com privacy policy that was archived on 2013-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130529183035id_/http%3A//www.momcentral.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the momcentral.com privacy policy that was archived on 2013-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131107124138id_/http%3A//www.momcentral.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Mom Central
 
@@ -158,4 +158,4 @@ Mom Central also has an office in Toronto, Canada. When Canadian moms pass throu
 
 **Contact Us**
 
-If you have any questions or suggestions regarding our privacy policy, please contact us at: 77 Chapel Street Newton, MA 02458; 617.244.3002, [www.momcentral.com](https://web.archive.org/web/20130529183035id_/http%3A/) email: [contactus@momcentral.com](mailto:contactus@momcentral.com)
+If you have any questions or suggestions regarding our privacy policy, please contact us at: 55 Chapel Street Suite 301 Newton, MA 02458; 617.244.3002, [www.momcentral.com](https://web.archive.org/web/20131107124138id_/http%3A/) email: [contactus@momcentral.com](mailto:contactus@momcentral.com)
