@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the clicktale.net privacy policy that was archived on 2013-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130525054641id_/http%3A//www.clicktale.com/Policies/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clicktale.net privacy policy that was archived on 2013-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131107153431id_/http%3A//www.clicktale.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy | Web Analytics by ClickTale
 
 **Privacy Policy for Information Collected by the ClickTale Ltd. ("ClickTale") Website (the "Website")
 
-Last updated 17 July 2011
+Last updated 12 August 2013
 
 **
 
@@ -26,7 +26,7 @@ iv. If you have an account with ClickTale, your preferences and use of email upd
 
 v. Under no circumstances will we hold sensitive payment details such as your credit card number, expiry date and security code. All transactions are handled through one of our 2 accredited payment bureaus:
 
-vi. Third Party Cookies - the use of cookies by our [partners, affiliates, tracking utility company, service providers] is not covered by our privacy statement. We do not have access or control over these cookies. Our partners, affiliates, and service providers may use session ID cookies to make it easier for you to navigate and use our site.
+vi.  **Third Party Partners** **:** We may partner with and use various third party services (“ **Third Party Partners** ”) in order to analyze and improve our own services and serve you advertisements across the Internet based on your prior visits to our Service (e.g. remarketing, including through Google). In connection with the services provided by such Third Party Partners, we or the Third Party Partner may use first-party cookies and/or third-party cookies.  We do not pass any personally identifiable information to such Third Party Partners without your prior consent.  Along with cookies, the Third Party Partner may use other technologies (such as web beacons, JavaScript) to compile anonymous information about your mouse movements, browser’s or device’s visits and usage patterns.  
 
 vii. We post customer testimonials/comments/reviews on our web site which may contain personally identifiable information. If this information was not made public by the customers themselves, we obtain the customer's consent via email prior to posting the testimonial to post their name along with their testimonial.
 
@@ -52,7 +52,7 @@ d. We may use personal information for auditing, research and analysis to operat
 
 e. We may share aggregated non-personal information with third parties. 
 
-f. When we use third parties to assist us in processing your personal information, we require that they comply with our Privacy Policy and any other appropriate confidentiality and security measures. 
+f. We may use and share information with certain third-parties that help us operate our Website and services (e.g. hosting company, payment processors, business management and email distribution service providers and other similar service providers).  When we use such third parties, we restrict them from using or disclosing the information, except as required to perform services on our behalf or to comply with legal orders. 
 
 g. We may share information with third parties in limited circumstances, including when complying with legal process, preventing fraud or imminent harm, and ensuring the security of our network and services. We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or comply with a judicial proceeding, court order, or legal process served on our Web site. We may provide your personal information to agents or service providers acting on our behalf for limited purposes. For example, we may share personal information with our agents or service providers to ship your order, or send you email on our behalf. These third parties are authorized to use your personal information only to perform the service they are providing for us. 
 
@@ -78,14 +78,10 @@ If ClickTale becomes involved in a merger, acquisition, or any form of sale of s
 
 When we receive formal written complaints posted using our Contact Form, it is ClickTale's policy to contact the complaining user regarding his or her concerns. We will cooperate with the appropriate regulatory authorities, including local data protection authorities, to resolve any complaints regarding the transfer of personal data that cannot be resolved between ClickTale and an individual.
 
-**4\. ClickTale is a licensee of the TRUSTe Privacy Program**
-
-ClickTale has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with TRUSTe's program requirements including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. 
-
-If you have questions or concerns regarding this statement, you should first contact ClickTale through the contact form. If you are not satisfied with our response you can contact TRUSTe here.
+4 **. Policy Modifications**
 
 If we decide to change our privacy policy, we will post those changes to this privacy statement wherever it appears, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our home page.
 
-**6\. Contacting us about Privacy**
+**5\. Contacting us about Privacy**
 
 If you have any questions about our privacy statement, the information we have collected from you online, the practices of this website, or your dealings with this website, please contact us by using our contact form or by physical mail at: 2 Shoham St., Ramat Gan, 52521, Israel.
