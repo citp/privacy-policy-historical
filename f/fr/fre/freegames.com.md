@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freegames.com privacy policy that was archived on 2013-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130508075705id_/http%3A//www.freegames.com/new-games/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freegames.com privacy policy that was archived on 2013-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131107014756id_/http%3A//www.freegames.com/new-games/privacy) for the most accurate reproduction.*
 
 # Privacy | Free Games
 
