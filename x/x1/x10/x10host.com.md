@@ -1,19 +1,64 @@
-> *The following text is extracted and transformed from the x10host.com privacy policy that was archived on 2009-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090526221045id_/http%3A//www.x10host.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the x10host.com privacy policy that was archived on 2013-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131107031942id_/http%3A//x10hosting.com/privacy) for the most accurate reproduction.*
 
-# x10Host.com - Free Hosting - cPanel, Fantastico, RVSkins plus MORE!!
+# x10Hosting - Free Web Hosting for the Masses
 
-By accessing or using the x10Host web site, you agree to the terms of the x10Host Privacy Policy, as outlined below. If you do not agree to these terms, please do not access or use this site. x10Host reserves the right to change its Privacy Policy from time to time at its sole discretion. Your use of this site will be subject to the most current version of the Privacy Policy at the time of such use.
+## x10Hosting Privacy Policy
 
-**Collection of personal information**  
-When you engage in certain activities on this site, such as ordering products, downloading software, or entering contests, x10Host may ask you to provide certain information about yourself by filling out and submitting an online form. It is completely optional for you to engage in these activities. If you elect to engage in these activities, however, x10Host may ask that you provide us personal information, such as your first and last name, mailing address (including zip code), e-mail address, employer, job title and department, telephone and facsimile numbers, and other personal identifying information. When ordering products or services on the site, you may be asked to provide a credit card number. Depending upon the activity, some of the information that we ask you to provide is identified as mandatory and some as voluntary. If you do not provide the mandatory data with respect to a particular activity, you will not be able to engage in that activity.
+Last updated June 6, 2013
 
-In the process of administering our site, we maintain and track usage through Web server logs. Web server logs provide such information as what types of browsers are accessing our site, what pages receive high traffic, and the times of day our servers experience significant load. We use this information to improve the content and navigation features of our site. It is not used to personally identify you.
+When you sign up for our service, we may ask you to provide contact information such as your name, address, telephone numbers, e-mail addresses, and payment information such as credit card number and expiration date.
 
-**How your personal information is used**  
-x10Host collects your information in order to record and support your participation in the activities you select. The information that you provide is also used as part of our effort to keep you informed about special offers and other products and services of x10Host and selected third parties.
+We may ask you to complete user surveys, and to provide certain demographic information, such as age, gender, special interests, etc. You do not have to provide this type of information to use our service if you do not want to.
 
-**How we share your personal information**  
-We will not sell, rent or lease to others telephone numbers or e-mail addresses. We will share the personal data you provide only with other x10Host entities and/or business partners who are acting on our behalf for the uses described above, except as provided below (see Consent).
+If you contact us for customer support, we may also ask you for information about your operating system, software and other technical matters.
 
-**Consent**  
-x10Host will use and share the personally identifiable information you provided to us in ways related to those described above. We reserve the right to disclose any and all pertinent customer information to law enforcement or other government officials as we, in our sole discretion, believe necessary or appropriate.
+When you visit our Web site we will capture your IP Address, time of and duration of visit, and time and duration of the pages on our Web site that you view. We may tie this information to the personally identifiable information we have about you.
+
+We will also place a cookie that will identify you to us as a repeat visitor or a customer when you visit our Web site. See "What is a Cookie" below. We may tie this cookie to the personally identifiable information we have about you.
+
+If we send you an e-mail, we may include a marker that will allow us to identify e-mail that is opened and viewed.
+
+## Use of Personally Identifiable Information
+
+We will use your personally identifiable information only as follows:
+
+  * For payment purposes and to provide customer support;
+  * To announce special offers or provide other information from time to time via e-mail. We may also send e-mail announcing special offers by our third parties, but we will not provide the third parties with your e-mail address or other personally identifiable information. If you do not wish to receive these e-mails, you may opt out of future e-mails at any time by following the instructions included in the e-mail.
+  * To improve our service and the marketing of our service. For example, we may use the information we gather from user surveys, demographic data, and web site visits to help us improve or target our Web site and customize your visit. 
+
+
+
+* * *
+
+We will not provide any personally identifiable information about you to any other person other than:
+
+  * A law enforcement or regulatory agency at their request;
+  * A person or company who acquires our business;
+  * Third parties who perform services on our behalf (such as payment processing), subject to the third party agreeing with us that it will keep your personally identifiable information confidential;
+  * As otherwise needed to protect or enforce or rights or the rights of others.
+
+
+
+* * *
+
+We absolutely do not transfer or sell your information for inclusion on third party e-mail or other marketing lists.
+
+## Use of Non-Personally Identifiable Information
+
+We may share aggregate statistical data about our customers with third parties, such as advertisers or suppliers. This aggregate statistical data will not identify you personally.
+
+## What is a Cookie
+
+A "cookie" is an alphanumeric identifier that is unique to your browser. The cookie will identify your browser to us when you visit our web site so that we may customize your visit.
+
+## Security of Your Information
+
+We store your personally identifiable information and payment information in a secure and encrypted database.
+
+## Children's Privacy
+
+Our service is not available to children under the age of 13, and we will not intentionally maintain information about anyone under the age of 13.
+
+## Google Ads
+
+We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.google.com/privacy_ads.html).
