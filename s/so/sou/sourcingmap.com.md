@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sourcingmap.com privacy policy that was archived on 2013-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130618114406id_/http%3A//www.sourcingmap.com/privacy_notice.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sourcingmap.com privacy policy that was archived on 2013-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131107152515id_/http%3A//www.sourcingmap.com/privacy_notice.html) for the most accurate reproduction.*
 
 # Privacy Notice
 
