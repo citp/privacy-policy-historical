@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the northwestsavingsbank.com privacy policy that was archived on 2013-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130520094415id_/https%3A//www.northwestsavingsbank.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the northwestsavingsbank.com privacy policy that was archived on 2013-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131107104948id_/https%3A//www.northwestsavingsbank.com/privacy.htm) for the most accurate reproduction.*
 
 # Northwest Savings Bank :: Privacy Policy
 
@@ -12,7 +12,7 @@ Northwest Savings Bank, hereafter "the Bank", respects the privacy of our custom
   
 **INTERNET WEBSITE**
 
-_Information We Collect_
+  _Information We Collect_
 
 When you visit Northwest Savings Bank’s website, we may collect certain types of information from you, such as information you voluntarily provide via forms, surveys, applications, etc.  We may also collect information about you from your online browsing and transactions, including your preferences, pages visited, technical information regarding your computer and operating systems, such as your Internet protocol address, domain name and system configuration and settings. 
 
@@ -32,15 +32,31 @@ Northwest Savings Bank uses cookies in two ways:
 
 2.       Online banking cookies to identify you and differentiate you from other users. 
 
-**  
-RESTRICTIONS ON ACCOUNT INFORMATION DISCLOSURE**
+**Live Chat**
+
+Northwest Savings Bank is committed to protecting your personal privacy. Therefore, your participation in live chat and any other communication with Northwest Savings Bank is governed by the following guidelines to protect your privacy and security. 
+
+Disclosure of any information by you, whether in the text of a live chat session, or any personal data contained in an e-mail message, including an e-mail address, is strictly voluntary. You are under no obligation whatsoever to offer Northwest Savings Bank any information.   
+
+All chat sessions may be monitored for quality assurance purposes. Chat sessions are secure using HTTPS Technology. Northwest Savings Bank makes no representation regarding the security of your personal computer or access and expressly disclaims only and all liability arising from breeches or damages arising there from. 
+
+Our Customer Service Representatives will identify themselves in chat so customers or participants can identify that they are speaking with a Northwest representative. 
+
+Unauthorized attempts to upload information or change information on this service are strictly prohibited and may be punishable under the Computer Fraud and Abuse Act of 1986 and the National Information Infrastructure Protection Act. 
+
+Penalty for False Statements. The US Criminal Code (Title 18 US Code Section 1001) provides that whoever, in any matter within the jurisdiction of the Government of the United States, knowingly and willfully - (1) falsifies, conceals, or covers up by any trick, scheme, or device a material fact; (2) makes any materially false, fictitious, or fraudulent statement or representation; or (3) makes or uses any false writing or document knowing the same to contain any materially false, fictitious, or fraudulent statement or entry; shall be fined or imprisoned not more than 5 years, or both. 
+
+Do not respond to any unsolicited e-mails, telephone calls or other communications that claim to come from Northwest Savings Bank, or any unknown person asking you to submit personal data. 
+
+  
+**RESTRICTIONS ON ACCOUNT INFORMATION DISCLOSURE**
 
 Specific account information cannot be accessed unless any one of the following items occurs: 
 
-  * The customer requests or authorizes the release of information, or 
-  * The requested information is needed to complete a transaction initiated by the customer, or 
-  * Such information is provided to a reputable credit bureau or similar information reporting agency, or 
-  * Disclosure is legally required or permitted. 
+  * The customer requests or authorizes the release of information, or
+  * The requested information is needed to complete a transaction initiated by the customer, or
+  * Such information is provided to a reputable credit bureau or similar information reporting agency, or
+  * Disclosure is legally required or permitted.
 
 
 
