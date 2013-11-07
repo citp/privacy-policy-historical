@@ -1,8 +1,8 @@
-<!--The following is the downloaded HTML source of the ammunitiondepot.com privacy policy that was archived on 2013-05-12.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130512023417id_/http%3A//www.ammunitiondepot.com/terms_privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ammunitiondepot.com privacy policy that was archived on 2013-11-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131107205424id_/http%3A//www.ammunitiondepot.com/terms_privacy.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/a/j/milonic/milonic_src.js"></script>
+<script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/a/j/milonic/milonic_src.js"></script>
 <script type="text/javascript">
 if(ns4)_d.write("<scr"+"ipt src=/a/j/milonic/mmenuns4.js><\/scr"+"ipt>"); 
   else _d.write("<scr"+"ipt src=/a/j/milonic/mmenudom.js><\/scr"+"ipt>"); 
@@ -27,6 +27,7 @@ var Config_CDN_URL = '/'
 <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
 <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jqueryui/1.8.4/jquery-ui.min.js"></script>
 <link type="text/css" href="//ajax.googleapis.com/ajax/libs/jqueryui/1.8.4/themes/base/jquery-ui.css" rel="stylesheet">
+<link type="text/css" href="/a/c/default.css" rel="stylesheet">
 
 
 <script type="text/javascript">
@@ -42,7 +43,30 @@ var Config_CDN_URL = '/'
     var PageText_843 = "Subtotal";
     var PageText_844 = "items in cart";
 </script>
+<script type="text/javascript" src="/a/j/volusion.js?currentBuild"></script>
+<script type="text/javascript">
+    (function ($) {
+        volusion.ready(function () {
+            if (volusion.cart.isObservingCount()) {
+                var ts = new Date().getTime();
 
+                $.getJSON('/ajaxcart.asp?cachebust=' + ts, function (data) {
+                    var quantityTotal = 0;
+                    $.each(data.Products, function (key, val) {
+                        if (val.IsProduct === 'Y') {
+                            quantityTotal += parseInt(val.Quantity);
+                        } else if (val.IsAccessory === 'Y') {
+                            quantityTotal += parseInt(val.Quantity);
+                        }
+                    });
+                    quantityTotal = quantityTotal || '0';
+                    volusion.cart.itemCount(quantityTotal);
+                });
+
+            }
+        });
+    } (jQuery));
+</script>
 
 
 <script type="text/javascript" src="/a/j/soft_add.js"></script>
@@ -82,15 +106,70 @@ DO NOT ADD YOUR OWN META TAGS, ONLY PUT CSS/JAVSCRIPT INCLUDES IN YOUR HEAD TAG 
     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
   })();
 
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-34497265-2', 'ammunitiondepot.com');
+  ga('send', 'pageview');
+
+$(function(){
+        if(window.location.pathname.indexOf("login.asp") !== -1){
+                $("#content_area form table tbody tr td table tbody tr td table tbody tr td input").click(function(){
+                        setCookie("email", $("#content_area form table tbody tr td table tbody tr td table tbody tr td input").val())
+                })
+        }
+})
+function setCookie(c_name,value,exdays)
+{
+        var exdate=new Date();
+        exdate.setDate(exdate.getDate() + exdays);
+        var c_value=escape(value) + ((exdays==null) ? "" : "; expires="+exdate.toUTCString());
+        document.cookie=c_name + "=" + c_value;
+}
+function getCookie(c_name)
+{
+var c_value = document.cookie;
+var c_start = c_value.indexOf(" " + c_name + "=");
+if (c_start == -1)
+  {
+  c_start = c_value.indexOf(c_name + "=");
+  }
+if (c_start == -1)
+  {
+  c_value = null;
+  }
+else
+  {
+  c_start = c_value.indexOf("=", c_start) + 1;
+  var c_end = c_value.indexOf(";", c_start);
+  if (c_end == -1)
+  {
+c_end = c_value.length;
+}
+c_value = unescape(c_value.substring(c_start,c_end));
+}
+return c_value;
+}
+
+
 </script>
 
 </head>
 
 <!-- #################### FREE TEMPLATE INFO VFAD-Y-SPD-062011 #################### -->
-<body>
+<body><div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
 
 <div id="top-bar">
-       <h1>Ammunition | Bulk Ammo | 9MM Ammo | .45 ACP Ammo | .223 Ammo |  7.62x39 Ammo (AK-47) |.40 S&amp;W Ammo | 5.7x28 Ammo | 5.56 Ammo</h1>
+       <h1>Ammunition | Bulk Ammo | 9MM Ammo | .45 ACP Ammo | .223 Ammo |  7.62x39 Ammo |.40 S&amp;W Ammo | 5.7x28 Ammo | 5.56 Ammo | Wholesale</h1>
    </div>
 <div id="page">
 
@@ -101,8 +180,7 @@ DO NOT ADD YOUR OWN META TAGS, ONLY PUT CSS/JAVSCRIPT INCLUDES IN YOUR HEAD TAG 
 	<div id="display_homepage_title"><span itemscope="" itemtype="http://schema.org/Store"><meta itemprop="name" content="www.ammunitiondepot.com"><a href="http://www.ammunitiondepot.com/default.asp" title="www.ammunitiondepot.com">www.ammunitiondepot.com</a></span></div>
     
     <div id="headerTop">
-            <div id="headerPhone">Toll Free: 888.842.9039</div>   <a href="http://www.ammunitiondepot.com/shoppingcart.asp">View Cart</a> | <a href="http://www.ammunitiondepot.com/myaccount.asp">My Account | Login</a> |<a href="http://www.ammunitiondepot.com/help.asp"> Help</a>
-    </div>   
+            <div id="headerPhone">Toll Free: 888.842.9039</div>   <a href="http://www.ammunitiondepot.com/shoppingcart.asp">View Cart</a> | <a href="http://www.ammunitiondepot.com/myaccount.asp">My Account | Login</a> |<a href="http://www.ammunitiondepot.com/help.asp"> Help</a> | <a href="/Articles.asp?ID=1"> Contact Us</a> | <a href="/terms.asp">Terms &amp; Conditions</a> | <a href="/category-s/1814.htm">Information</a> </div>   
     
     <!-- #################### SEARCH BOX --> 
 	<div id="display_search">
@@ -148,13 +226,13 @@ function mClk2(src, popup)
 </script>
 <ul>
 <li class="nav" onmouseover="mOvr2(this);" onmouseout="mOut2(this);" onclick="mClk2(this);">
-	<a href="/Ammunition-s/1819.htm" title="Ammo">Ammo</a>
+	<a href="http://www.ammunitiondepot.com/Bulk-Ammo-s/1907.htm" title="Bulk Ammo">Bulk Ammo</a>
 </li>
 <li class="nav" onmouseover="mOvr2(this);" onmouseout="mOut2(this);" onclick="mClk2(this);">
 	<a href="http://www.ammunitiondepot.com/Rimfire-Ammo-s/1943.htm" title="Rimfire Ammo">Rimfire Ammo</a>
 </li>
 <li class="nav" onmouseover="mOvr2(this);" onmouseout="mOut2(this);" onclick="mClk2(this);">
-	<a href="http://www.ammunitiondepot.com/Shotgun-Ammo-s/1922.htm" title="Shotgun Ammo">Shotgun Ammo</a>
+	<a href="http://www.ammunitiondepot.com/Shotgun-Ammo-s/1973.htm" title="Shotgun Ammo">Shotgun Ammo</a>
 </li>
 <li class="nav" onmouseover="mOvr2(this);" onmouseout="mOut2(this);" onclick="mClk2(this);">
 	<a href="http://www.ammunitiondepot.com/9MM-Ammunition-Bulk-s/1817.htm" title="9MM Ammunition Bulk">9MM Ammo</a>
@@ -196,16 +274,28 @@ function mClk2(src, popup)
 	<a href="http://www.ammunitiondepot.com/308-7-62-NATO-Ammunition-s/1843.htm" title="308 - 7.62 NATO Ammunition">.308 - 7.62 NATO Ammo</a>
 </li>
 <li class="nav" onmouseover="mOvr2(this);" onmouseout="mOut2(this);" onclick="mClk2(this);">
+	<a href="http://www.ammunitiondepot.com/338-Lapua-Ammo-s/1959.htm" title="338 Lapua Ammo">.338 Lapua Ammo</a>
+</li>
+<li class="nav" onmouseover="mOvr2(this);" onmouseout="mOut2(this);" onclick="mClk2(this);">
+	<a href="http://www.ammunitiondepot.com/243-Ammo-s/1979.htm" title=".243 Ammo">.243 Ammo</a>
+</li>
+<li class="nav" onmouseover="mOvr2(this);" onmouseout="mOut2(this);" onclick="mClk2(this);">
+	<a href="http://www.ammunitiondepot.com/270-Ammo-s/1976.htm" title=".270 Ammo">.270 Ammo</a>
+</li>
+<li class="nav" onmouseover="mOvr2(this);" onmouseout="mOut2(this);" onclick="mClk2(this);">
 	<a href="http://www.ammunitiondepot.com/5-7-x-28-Ammo-s/1887.htm" title="5.7 x 28 Ammo">5.7 x 28 Ammo</a>
 </li>
 <li class="nav" onmouseover="mOvr2(this);" onmouseout="mOut2(this);" onclick="mClk2(this);">
 	<a href="http://www.ammunitiondepot.com/7-62-x-39-AK-47-Ammunition-s/1844.htm" title="7.62 x 39 AK 47 Ammunition">7.62 x 39 Ammo | AK-47</a>
 </li>
 <li class="nav" onmouseover="mOvr2(this);" onmouseout="mOut2(this);" onclick="mClk2(this);">
-	<a href="http://www.ammunitiondepot.com/7-62-x-54R-Ammo-s/1930.htm" title="7.62 x 54R Ammo">7.62 x 54r Ammo</a>
+	<a href="http://www.ammunitiondepot.com/762x54R-Ammo-s/1930.htm" title="762x54R Ammo">7.62x54R Ammo</a>
 </li>
 <li class="nav" onmouseover="mOvr2(this);" onmouseout="mOut2(this);" onclick="mClk2(this);">
 	<a href="http://www.ammunitiondepot.com/6-8-SPC-Ammunition-s/1845.htm" title="6.8 SPC Ammunition">6.8 SPC Ammo</a>
+</li>
+<li class="nav" onmouseover="mOvr2(this);" onmouseout="mOut2(this);" onclick="mClk2(this);">
+	<a href="http://www.ammunitiondepot.com/Exotic-Shotgun-Ammunition-s/1889.htm" title="Exotic Shotgun Ammunition">Exotic Shotgun Ammo</a>
 </li>
 <li class="nav" onmouseover="mOvr2(this);" onmouseout="mOut2(this);" onclick="mClk2(this);">
 	<a href="http://www.ammunitiondepot.com/300-Blackout-Ammunition-s/1846.htm" title="300 Blackout Ammunition">.300 Blackout Ammo</a>
@@ -217,25 +307,40 @@ function mClk2(src, popup)
 	<a href="http://www.ammunitiondepot.com/30-Carbine-Ammunition-s/1894.htm" title="30 Carbine Ammunition">.30 Carbine Ammo</a>
 </li>
 <li class="nav" onmouseover="mOvr2(this);" onmouseout="mOut2(this);" onclick="mClk2(this);">
+	<a href="http://www.ammunitiondepot.com/38-Super-Ammunition-s/1972.htm" title="38 Super Ammunition">.38 Super Ammunition</a>
+</li>
+<li class="nav" onmouseover="mOvr2(this);" onmouseout="mOut2(this);" onclick="mClk2(this);">
+	<a href="http://www.ammunitiondepot.com/44-Magnum-Ammo-s/1965.htm" title=".44 Magnum Ammo">.44 Magnum Ammo</a>
+</li>
+<li class="nav" onmouseover="mOvr2(this);" onmouseout="mOut2(this);" onclick="mClk2(this);">
+	<a href="http://www.ammunitiondepot.com/45-GAP-Ammunition-s/1967.htm" title="45 GAP Ammunition">.45 GAP Ammo</a>
+</li>
+<li class="nav" onmouseover="mOvr2(this);" onmouseout="mOut2(this);" onclick="mClk2(this);">
+	<a href="http://www.ammunitiondepot.com/45-Long-Colt-Ammo-s/1984.htm" title="45 Long Colt Ammo">.45 Long Colt Ammo</a>
+</li>
+<li class="nav" onmouseover="mOvr2(this);" onmouseout="mOut2(this);" onclick="mClk2(this);">
 	<a href="http://www.ammunitiondepot.com/50-BMG-Ammo-s/1847.htm" title="50 BMG Ammo">.50 BMG Ammo</a>
 </li>
 <li class="nav" onmouseover="mOvr2(this);" onmouseout="mOut2(this);" onclick="mClk2(this);">
 	<a href="http://www.ammunitiondepot.com/10MM-Ammunition-s/1924.htm" title="10MM Ammunition">10MM Ammo</a>
 </li>
 <li class="nav" onmouseover="mOvr2(this);" onmouseout="mOut2(this);" onclick="mClk2(this);">
-	<a href="http://www.ammunitiondepot.com/410-Shotgun-Ammo-s/1951.htm" title="410 Shotgun Ammo">.410 Shotgun Ammo</a>
+	<a href="http://www.ammunitiondepot.com/Less-Than-Lethal-Ammunition-s/1970.htm" title="Less Than Lethal Ammunition">Less Than Lethal Ammunition</a>
 </li>
 <li class="nav" onmouseover="mOvr2(this);" onmouseout="mOut2(this);" onclick="mClk2(this);">
-	<a href="http://www.ammunitiondepot.com/Exotic-Shotgun-Ammunition-s/1889.htm" title="Exotic Shotgun Ammunition">Exotic Shotgun Ammo</a>
+	<a href="http://www.ammunitiondepot.com/Phazzer-Non-Lethal-Self-Defense-s/1957.htm" title="Phazzer Non-Lethal Self Defense">Phazzer Non-Lethal</a>
 </li>
 <li class="nav" onmouseover="mOvr2(this);" onmouseout="mOut2(this);" onclick="mClk2(this);">
 	<a href="http://www.ammunitiondepot.com/national-police-ammunition-s/1941.htm" title="national-police-ammunition">National Police Ammunition</a>
 </li>
 <li class="nav" onmouseover="mOvr2(this);" onmouseout="mOut2(this);" onclick="mClk2(this);">
-	<a href="http://www.ammunitiondepot.com/Ammunition-Magazines-s/1901.htm" title="Ammunition Magazines">Magazines</a>
+	<a href="/Ammunition-Magazines-s/1901.htm" title="Ammunition Magazines">Magazines</a>
 </li>
 <li class="nav" onmouseover="mOvr2(this);" onmouseout="mOut2(this);" onclick="mClk2(this);">
 	<a href="http://www.ammunitiondepot.com/Ammo-Cans-s/1926.htm" title="Ammo Cans">Ammo Cans</a>
+</li>
+<li class="nav" onmouseover="mOvr2(this);" onmouseout="mOut2(this);" onclick="mClk2(this);">
+	<a href="http://www.ammunitiondepot.com/Ammunition-Battle-Packs-s/1905.htm" title="Ammunition Battle Packs">Battle Packs</a>
 </li>
 <li class="nav" onmouseover="mOvr2(this);" onmouseout="mOut2(this);" onclick="mClk2(this);">
 	<a href="http://www.ammunitiondepot.com/Pepper-Spray-s/1936.htm" title="Pepper Spray">Pepper Spray</a>
@@ -251,6 +356,9 @@ function mClk2(src, popup)
 </li>
 <li class="nav" onmouseover="mOvr2(this);" onmouseout="mOut2(this);" onclick="mClk2(this);">
 	<a href="http://www.ammunitiondepot.com/New-Arrivals-s/1940.htm" title="New Arrivals">New Arrivals</a>
+</li>
+<li class="nav" onmouseover="mOvr2(this);" onmouseout="mOut2(this);" onclick="mClk2(this);">
+	<a href="http://www.ammunitiondepot.com/Ammunition-Wholesale-s/1981.htm" title="Ammunition Wholesale">Wholesale Ammo</a>
 </li>
 </ul>
 </div>
@@ -310,7 +418,7 @@ function mClk3(src, popup)
          <div id="display_menu_8" class="menu"></div>-->
 
         <!-- #################### NAV MENU PROMOTIONS -->            
-        <div id="display_promotions_999"><br><a title="Advanced Sniper Ammunition" href="http://www.advancedsniper.com/ADVANCED_SNIPER/ADVANCED_SNIPER.html"><img alt="Advanced Sniper Ammunition" src="/v/vspfiles/assets/images/sniper-ammunition.jpg" align="" border="0px"></a><br><br><a title="Freedom Alliance" href="http://freedomalliance.org/"><img alt="Freedom Alliance" src="/v/vspfiles/assets/images/freedom_alliance_badge.jpg" align="" border="0px"></a><br><br><img alt="NRA Ammunition" src="/v/vspfiles/assets/images/nra-ammunition.png" align="" border="0px"><br><br><a href="http://www.ammunitiondepot.com/affiliate_info.asp" title="Ammunition Depot Affiliates"><img style="" alt="Ammunition Depot Affiliates" src="/v/vspfiles/assets/images/affiliate%20badge.jpg" align="" border="0"></a><br><style type="text/css">#volusion_ssl_seal { behavior: url(/a/iepngfix.htc); }</style><br><a href="javascript:void(0);" onclick="window.open('https://www.volusion.com/ssl.asp?url=www.ammunitiondepot.com', 'VolusionSSL', 'top=10,left=10,menubar=0,resizable=0,scrollbars=0,width=467,height=467')"><img id="volusion_ssl_seal" src="/a/i/seal_volusion2.png" border="0" height="58" width="137"></a><br><!-- BEGIN: Constant Contact Bubble Opt-in Email List Form -->
+        <div id="display_promotions_999"><br><br><span style="font-weight: bold;"><span style="color: rgb(0, 0, 0);">Proud Ammo Supplier <br>of the NRA Range <br>in Fairfax, VA</span></span><br><a href="http://www.facebook.com/NRARange" title="NRA Ammo Supplier"><img alt="NRA Supplier" src="/v/vspfiles/assets/images/nra-supplier.jpg" align="" border="0px" height="128" width="128"></a><br><br><a title="Freedom Alliance" href="http://freedomalliance.org/"><img alt="Freedom Alliance" src="/v/vspfiles/assets/images/freedom_alliance_badge.jpg" align="" border="0px"></a><br><br><img alt="NRA Ammunition" src="/v/vspfiles/assets/images/nra-ammunition.png" align="" border="0px"><br><br><a href="http://www.ammunitiondepot.com/affiliate_info.asp" title="Ammunition Depot Affiliates"><img style="" alt="Ammunition Depot Affiliates" src="/v/vspfiles/assets/images/affiliate%20badge.jpg" align="" border="0"></a><br><br><br><div class="fb-like" data-href="https://www.facebook.com/pages/Ammunition-Depot/248058505218749" data-send="true" data-layout="button_count" data-width="75" data-show-faces="true"></div><style type="text/css">#volusion_ssl_seal { behavior: url(/a/iepngfix.htc); }</style><br><a href="javascript:void(0);" onclick="window.open('https://www.volusion.com/ssl.asp?url=www.ammunitiondepot.com', 'VolusionSSL', 'top=10,left=10,menubar=0,resizable=0,scrollbars=0,width=467,height=467')"><img id="volusion_ssl_seal" src="/a/i/seal_volusion2.png" border="0" height="58" width="137"></a><br><!-- BEGIN: Constant Contact Bubble Opt-in Email List Form -->
 <div align="left">
 <table border="0" cellpadding="0" cellspacing="0" width="140">
 <tbody><tr bgcolor="#003399" valign="top">
@@ -353,7 +461,7 @@ email specials<br>
 Constant Contact<br>
 for email you can trust
 </div>
-<!-- END: Email Newsletters you can trust --><br><img alt="Credit Cards" src="http://sfvhn.cpdkd.servertrust.com/v/vspfiles/assets/images/credit-cards.gif" align="" border="0px"><br><br></div>    </div>
+<!-- END: Email Newsletters you can trust --><br><img alt="Credit Cards" src="https://ammunitiondepot.com/v/vspfiles/assets/images/credit-cards.gif" align="" border="0px"><br><br></div>    </div>
 
 	<!-- #################### CONTENT AREA #################### -->     
 	<div id="content_area">
