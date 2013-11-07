@@ -1,16 +1,10 @@
-> *The following text is extracted and transformed from the codeguard.com privacy policy that was archived on 2013-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130329110852id_/https%3A//privacy-policy.truste.com/verified-policy/www.codeguard.com) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the codeguard.com privacy policy that was archived on 2013-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131107100605id_/https%3A//privacy-policy.truste.com/verified-policy/www.codeguard.com) for the most accurate reproduction.*
 
 # Privacy Policy for www.codeguard.com
 
 Effective on April 18, 2011 
 
 This privacy statement describes how CodeGuard collects and uses the personal information you provide on our Web site: [www.codeguard.com ](https://www.codeguard.com/). It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
-
-**TRUSTe**
-
-CodeGuard is a Participant in the TRUSTe Privacy Seal Program. TRUSTe is an independent organization whose mission is to advance privacy and trust in the networked world. This Web site has agreed to have its privacy practices monitored for compliance by TRUSTe.
-
-If you have questions or concerns regarding this policy, you should first contact us at [david.moeller@codeguard.com ](mailto:david.moeller@codeguard.com). If you do not receive acknowledgment of your inquiry, or if your inquiry has not been satisfactorily addressed, you should then contact [TRUSTe](http://www.truste.org/consumers/watchdog_complaint.php). TRUSTe will then serve as a liaison with the Web site to resolve your concerns.
 
 ## Collection and Use of Personal Information
 
