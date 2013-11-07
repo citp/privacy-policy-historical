@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the twisternederland.com privacy policy that was archived on 2013-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130507131545id_/http%3A//twisternederland.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the twisternederland.com privacy policy that was archived on 2013-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131107171130id_/http%3A//twisternederland.com/privacy) for the most accurate reproduction.*
 
 # Privacy - TwisterNederland
 
@@ -14,9 +14,3 @@ At www.twisternederland.com, the privacy of our visitors is of extreme importanc
 Like many other Web sites, www.twisternederland.com makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable. This is better known as the Google Analytics tracking cookie. The website uses this cookie is only used to follow user movement on this website. Visit the google privacy policy for their privacy statement.
 
 The website will **NEVER** share personal information with any third party until law requires to do so.
-
-  
-Sponsored  
-
-
-HTML5 und Flash wird nicht unterstützt!
