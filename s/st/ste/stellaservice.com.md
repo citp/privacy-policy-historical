@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the stellaservice.com privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621233955id_/http%3A//stellaservice.com/business/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stellaservice.com privacy policy that was archived on 2013-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131107193123id_/http%3A//www.stellaservice.com/business/privacy) for the most accurate reproduction.*
 
-# STELLAService for Business - Privacy policy
+# StellaService for Business - Privacy policy
 
-## STELLAService Inc. Privacy Policy
+## StellaService Inc. Privacy Policy
 
-STELLAService Inc. (the "Company," "we" or "us") is committed to ensuring the integrity of its business and customers by providing those who use or visit our Internet Web sites with a safe and secure Internet environment that respects and protects their personal privacy. The following privacy policy is in effect for every Web site maintained or operated by the Company, and we ask you to read it thoroughly.
+StellaService Inc. (the "Company," "we" or "us") is committed to ensuring the integrity of its business and customers by providing those who use or visit our Internet Web sites with a safe and secure Internet environment that respects and protects their personal privacy. The following privacy policy is in effect for every Web site maintained or operated by the Company, and we ask you to read it thoroughly.
 
   
 
@@ -114,7 +114,7 @@ Only authorized employees have access to the information you provide us. For exa
 
 If you have questions about this privacy policy or the practices of this site, please contact:
 
-STELLAService 75 Broad Street, Suite 2900, New York, NY 10004 (212) 366-1483 privacy@stellaservice.com
+StellaService 75 Broad Street, Suite 2900, New York, NY 10004 (212) 366-1483 privacy@stellaservice.com
 
   
 
