@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myspacelayoutspy.com privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601234545id_/http%3A//allbackgrounds.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myspacelayoutspy.com privacy policy that was archived on 2013-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131107160411id_/http%3A//allbackgrounds.com/privacy.php) for the most accurate reproduction.*
 
 # Contact Page - AllBackgrounds.com
 
