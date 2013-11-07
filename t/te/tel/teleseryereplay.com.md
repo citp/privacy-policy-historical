@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the teleseryereplay.com privacy policy that was archived on 2013-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130508164959id_/http%3A//www.teleseryereplay.com/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teleseryereplay.com privacy policy that was archived on 2013-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131107065345id_/http%3A//www.teleseryereplay.com/p/privacy-policy.html) for the most accurate reproduction.*
 
 # Pinoy Teleserye Replay: privacy policy — Watch Pinoy Teleserye Replay and Watch all the best Pinoy TV Series from ABS-CBN, GMA 7, TV 5, Studio 23 and all your favorite Pinoy Channel Teleserye!
 
