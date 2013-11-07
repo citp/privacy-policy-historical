@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mojostreet.com privacy policy that was archived on 2013-01-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130116214712id_/http%3A//www.mojostreet.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mojostreet.com privacy policy that was archived on 2013-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131107055718id_/http%3A//www.mojostreet.com/privacy) for the most accurate reproduction.*
 
-# Mojostreet | Privacy
+# Privacy Policy | Mojostreet.com
 
 Mojostreet Infomedia Services Pvt. Ltd. (“ _Mojostreet_ ,” “we,” or “us”) knows that you care about how your personal information is used and shared. This Privacy Policy explains what information of yours will be collected by _Mojostreet_ when you use the _Mojostreet_ Service. Additionally, it explains how you can control the collection, correction and/or deletion of such information. We will not use or share your information with anyone except as described in this Privacy Policy. This Privacy Policy does not apply to information we collect by other means (including offline) or from other sources. Capitalized terms that are not defined in this policy are defined in our Terms of Use. Our expectation is that _Mojostreet_ Users will use this service for harmless social purposes. We would like to extend a cautionary note however, that by its nature, your location information may be subject to misuse and over-monitoring by others including your friends, family, or acquaintances. We therefore request you to manage your own mobile and profile privacy preferences on the service on a periodic basis.
 
