@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spicytricks.com privacy policy that was archived on 2013-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130526002812id_/http%3A//www.spicytricks.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spicytricks.com privacy policy that was archived on 2013-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131107030407id_/http%3A//www.spicytricks.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
