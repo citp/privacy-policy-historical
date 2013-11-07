@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the christianpf.com privacy policy that was archived on 2013-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130509054622id_/http%3A//christianpf.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the christianpf.com privacy policy that was archived on 2013-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131107063411id_/http%3A//christianpf.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
