@@ -1,38 +1,49 @@
-> *The following text is extracted and transformed from the afghan123.com privacy policy that was archived on 2013-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130629042839id_/http%3A//www.afghan123.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the afghan123.com privacy policy that was archived on 2013-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131107064951id_/http%3A//www.afghan123.com/privacy-policy) for the most accurate reproduction.*
 
-# Afghan123.com Privacy Policy
+# Privacy Policy - Afghan123.com
 
-Your privacy is very important to us. Accordingly, we have developed this Policy in order for you to understand how we collect, use, communicate and disclose and make use of personal information. The following outlines our privacy policy.  
-Information We Collect and its Usage  
-  
-We collect information from you when you register on our web site or fill out our contact form or feed back form. 
+Your privacy is very important to us. Accordingly, we have developed this Policy in order for you to understand how we collect, use, communicate and disclose and make use of personal information. The following outlines our privacy policy.
 
-When registering or contacting us you maybe asked to enter your personal information such as your Name, E-mail Address, Country, Telephone, Date of Birth.
+Information we collect and its usage:
 
-Afghan123.com will not sell, trade or disclose your personal information to any third party without your information (except as required by law or in the case of imminent physical harm to the user or others).  
-  
-  
-Security  
-  
-Afghan123.com takes necessary steps to protect personal information you share with us.
+We collect information from you when you register on our site, subscribe to our newsletter or fill out a form. When registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, phone number and country.
 
-Registered users of our subscription services will occasionally receive information on Updates and new features provided by us to respect the privacy of our users we present the option not to receive these types of alerts.  
+Any of the information we collect from you may be used in one of the following ways: - To personalize your experience (your information helps us to better respond to your individual needs).
+
+Do we disclose any information to outside parties?
+
+We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+
+Do we use cookies?
+
+Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information We use cookies to understand and save your preferences for future visits, keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.
+
+Third party vendors, uses cookies to serve ads on our site. Users may opt out of the use of the those cookie by visiting the vendors ad and content network privacy policy.
+
+Third party links
+
+Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
+
+Terms and Conditions
+
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at http://www.afghan123.com/terms-of-service
+
+Your Consent
+
+By using our site, you consent to our web site privacy policy.
+
+Changes to our Privacy Policy
+
+If we decide to change our privacy policy, we will update the Privacy Policy modification date below.  
+This policy was last modified on 2013-08-09.
+
+Contacting Us
+
+If there are any questions regarding this privacy policy you may contact us using the information below:
+
+E-mail: 
+
+Phone: +93 770 303030, +46 76 9944990
+
   
-  
-Cookies  
-  
-Third parties may be placing and reading cookies on your browsers, or using web beacons to collect information as a result of ad serving on Afghan123.com.  
-  
-  
-Music Sharing  
-Our honorable artists share their work with us for publishing on our web site and they give us the right to share it through our web site free or charge any artists who changes mind and want to remove his/her songs from our web site can simply contact us through "Contact Us" link from the link bar with respect to the artist work we will remove his/her material from the site as soon as we get the E-mail.  
-  
-Links  
-Our web site features links to other sites, Please be aware that Afghan123.com is not responsible for the contents of the external web sites, We encourage all our users to read the privacy policy of any external web site they visit.  
-  
-Your Consent  
-By using our site, you consent to our [Privacy Policy](http://www.afghan123.com/privacy).  
-  
-Changes to Privacy Policy  
-If we decide to change our privacy policy, we will post those changes on this page  
-This Policy was last reviewed on 08/May/2013.
+
