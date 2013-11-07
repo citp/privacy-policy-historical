@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the keralahousedesigns.com privacy policy that was archived on 2013-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130618105949id_/http%3A//www.keralahousedesigns.com/2009/02/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the keralahousedesigns.com privacy policy that was archived on 2013-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131107032130id_/http%3A//www.keralahousedesigns.com/2009/02/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Kerala home design and floor plans
 
