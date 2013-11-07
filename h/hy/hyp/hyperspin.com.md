@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hyperspin.com privacy policy that was archived on 2013-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130618065226id_/http%3A//www.hyperspin.com/en/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hyperspin.com privacy policy that was archived on 2013-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131107165917id_/http%3A//www.hyperspin.com/en/privacy.php) for the most accurate reproduction.*
 
 # Privacy Statement - Hyperspin Website Monitoring, Web Server Monitoring Service
 
@@ -20,7 +20,7 @@ Please read carefully our policy on data collection and use of the data collecte
   2. To verify and process payment when you purchase goods and services from our sites
   3. For verification and record of your personal particulars including comparing it with information from other sources and using the information to communicate with you
   4. To conduct statistical analysis of the users of our sites including the number of users, the frequency of use, profile of users and using such analysis for our business plans, the enhancement of our products and services, targeted advertisements and conveying such information in broad terms (but not information in relation to specific individuals) to third parties who have or propose to have business dealings with us
-  5. To send you information and updates in relation to our goods and services. Free, Free Trial and Professional accounts can opt out from this mailing at any time without any condition.
+  5. To send you information and updates in relation to our goods and services. All accounts can opt out from this mailing at any time without any condition.
   6. To send you marketing and advertising materials in relation to our goods and services. Professional accounts can opt out from this mailing at any time without any condition. Free and Free Trial accounts can also opt out by upgrading to Professional, or by cancelling the account.
   7. **Your details will be kept strictly private and not be passed on to any other third party companies.**
 
