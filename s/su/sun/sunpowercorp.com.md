@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sunpowercorp.com privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530062819id_/http%3A//us.sunpowercorp.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sunpowercorp.com privacy policy that was archived on 2013-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131107064615id_/http%3A//us.sunpowercorp.com/privacy) for the most accurate reproduction.*
 
-# SunPower Privacy Policy
+# Privacy Policy | SunPower
 
 **1\. General.**
 
@@ -128,23 +128,23 @@ You have a right to contact us in order to access or update any personal informa
 
 If you wish to contact us, please contact us at the following addresses and include your name, address and email address in your correspondence to us:
 
-**Dealers**   
+**Dealers**  
 SunPower Customer Service  
-77 Rio Robbles  
+77 Rio Robles  
 San Jose, CA 95134  
 Telephone: 800-786-7693  
 Email: [customercare@sunpowercorp.com](mailto:customercare@sunpowercorp.com)
 
-**Residential Users   
-**SunPower Customer Service  
-77 Rio Robbles  
+**Residential Users **  
+SunPower Customer Service  
+77 Rio Robles  
 San Jose, CA 95134  
 Telephone: 800-786-7693  
 Email: [customercare@sunpowercorp.com](mailto:customercare@sunpowercorp.com)
 
-**Commercial Customers**   
+**Commercial Customers**  
 SunPower Customer Service  
-77 Rio Robbles  
+77 Rio Robles  
 San Jose, CA 95134  
 Telephone: 800-786-7693  
 Email: [customercare@sunpowercorp.com](mailto:customercare@sunpowercorp.com)
