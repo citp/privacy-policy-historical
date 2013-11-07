@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dumbpassiveincome.com privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530133920id_/http%3A//dumbpassiveincome.com/policies/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dumbpassiveincome.com privacy policy that was archived on 2013-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131108003119id_/http%3A//dumbpassiveincome.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Dumb Passive Income
 
