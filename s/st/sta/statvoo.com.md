@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the statvoo.com privacy policy that was archived on 2013-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130524095840id_/http%3A//www.statvoo.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the statvoo.com privacy policy that was archived on 2013-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131107023311id_/http%3A//www.statvoo.com/legal/privacy) for the most accurate reproduction.*
 
-# Privacy Policy // Statvoo: The Website Traffic Monitor
+# Privacy Policy > Statvoo.com | The Website Traffic Monitor
 
 Your privacy is of paramount importance to Statvoo. This policy applies to all products and services offered by Statvoo.
 
 Information we gather from you:
 
-  * Because the Statvoo Service houses your website statistics on our servers, you must register for a Statvoo account. The registration process asks for an email and a password. Additionally some personally identifiable information can also be including at a later stage.
+  * Because the Statvoo Service houses your website statistics on our servers, you must join for a Statvoo account. The registration process asks for an email and a password. Additionally some personally identifiable information can also be including at a later stage.
   * When you log into the Service, our servers automatically record information that your browser sends whenever you visit a website. These server logs may include information such as your web request, Internet Protocol address, browser type, browser language, the date and time of your request, and one or more cookies that may uniquely identify your browser.
   * When you send email or other communication to Statvoo, we may retain those communications in order to process your inquiries, respond to your requests and improve our services.
 
