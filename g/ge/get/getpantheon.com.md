@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the getpantheon.com privacy policy that was archived on 2013-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130509010939id_/https%3A//www.getpantheon.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getpantheon.com privacy policy that was archived on 2013-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131107014328id_/https%3A//www.getpantheon.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Pantheon
 
@@ -53,3 +53,5 @@ We encourage our visitors and users to update and edit their contact information
 ### Notice of Changes
 
 Pantheon reserves the right to change this Privacy Statement. Pantheon will provide notification of the material changes to this Privacy Statement through the Company's Web site at least thirty (30) business days prior to the change taking effect. If we make any material changes in our privacy practices that do not affect visitor or user information already stored in our database, we will post a prominent notice on the Site or in the Services notifying users of the change. In some cases where we post the notice, we will also email users who have opted to receive communications from us notifying them of the changes in our privacy practices.
+
+Pantheon complies with the requirements of the US-EU Safe Harbor Framework on data privacy. To learn more about the Safe Harbor program, and to view Pantheon’s certification, please visit <http://www.export.gov/safeharbor/>.
