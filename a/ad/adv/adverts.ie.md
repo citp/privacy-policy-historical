@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adverts.ie privacy policy that was archived on 2013-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130531010031id_/http%3A//www.adverts.ie/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adverts.ie privacy policy that was archived on 2013-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131107095916id_/http%3A//www.adverts.ie/privacy) for the most accurate reproduction.*
 
 # Privacy and Info
 
@@ -162,6 +162,7 @@ advertsid | Randomly generated hexadecimal string | Used to identify user sessio
 adverts_uid | Randomly generated number | Set only if "Remember me" is checked. Auto-login on subsequent visits. | On user logout or 1 year  
 adverts_uid_hash | Randomly generated hexadecimal string | Set only if "Remember me" is checked. Auto-login on subsequent visits. | On user logout or 1 year  
 adverts_show_signup | The user page view count or a 'no show' string | Used to display the signup popup after a certain number of page views. | 1 year  
+adverts_show_fb_invite | The user page view count or a 'no show' string | Used to display the facebook invite friends popup after a certain number of page views. | 1 year  
 touch_off | "1" | Disables the touch site and forces the use of the full site | On browser exit  
 strap_*_* | "1" | Ensure a strapline won't be seen after being dismissed | 3 years  
 iePinning_www.adverts.ie | "hidden" | Remembers when the user has dismissed the prompt to use the "site pinning" feature in Internet Explorer 9. | 30 days  
