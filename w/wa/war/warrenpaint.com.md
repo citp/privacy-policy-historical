@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the warrenpaint.com privacy policy that was archived on 2013-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130429130829id_/http%3A//www.warrenpaint.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the warrenpaint.com privacy policy that was archived on 2013-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131108002508id_/http%3A//www.warrenpaint.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Standard & Custom Architectural & Industrial Paints & Coatings: Warren Paint & Color Co: Nashville, TN
 
