@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nearpod.com privacy policy that was archived on 2013-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130508053846id_/http%3A//www.nearpod.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nearpod.com privacy policy that was archived on 2013-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131107220533id_/http%3A//www.nearpod.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Nearpod
 
