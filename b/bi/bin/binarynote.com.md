@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the binarynote.com privacy policy that was archived on 2013-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130625021141id_/http%3A//binarynote.com/rakesh-kumar) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the binarynote.com privacy policy that was archived on 2013-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131107221728id_/http%3A//binarynote.com/rakesh-kumar) for the most accurate reproduction.*
 
 # Privacy Policy of RSA Technologies.in
 
