@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the soap.com privacy policy that was archived on 2013-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130620151146id_/http%3A//www.soap.com/helpcenter/privacypolicy.qs) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the soap.com privacy policy that was archived on 2013-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131107053450id_/http%3A//www.soap.com/helpcenter/privacypolicy.qs) for the most accurate reproduction.*
 
 # Privacy Policy: Help Center - Soap.com
 
