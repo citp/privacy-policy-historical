@@ -1,69 +1,90 @@
-> *The following text is extracted and transformed from the gluestore.com.au privacy policy that was archived on 2004-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041205012615id_/http%3A//www.eglue.com.au/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gluestore.com.au privacy policy that was archived on 2013-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131107075149id_/http%3A//www.gluestore.com.au/privacy-policy-cookie-restriction-mode) for the most accurate reproduction.*
 
-# PRIVACY POLICY
+# Privacy Policy - Glue Store
 
-** **
+**Last Updated: 28/02/13**
 
-**PRIVACY POLICY**
+## 1\. Glue Store's Commitment To Privacy
 
-**(For the attention of individuals whose personal information may be collected by this organisation).**
+1.1. In this policy, “We”, “Us”, “Our”, “Glue Store” or “gluestore.com.au” means Next Athleisure Pty Limited trading as Glue Store (ABN 47 083 404 424), its subsidiaries and associates (unless otherwise stated).
 
-**Glue is covered by 10 National Privacy Principles, the NPP, as set out in the privacy Act 1988 (amended by the Privacy Amendment (Private Sector) Act 2000.**
+1.2. Your privacy is important to us, and we take your privacy seriously. This Privacy Policy will cover how we manage personal information across our business. It applies to Glue Store, and to each wholly owned subsidiary of Next Athleisure Pty Limited, and to the practices of the agents and contractors enaged by us. It also applies to your use of any Glue Store-owned website and your dealings with us as a customer or subscriber.
 
-To comply with our obligations under the NPPs, we have a Privacy Policy which sets out how we manage privacy in our organisation.  You are welcome to receive more information about the Policy.
+1.3. We may update our policies and this Privacy Policy from time to time. We will always publish a link to our current T&Cs from the website homepage at gluestore.com.au. You may also request a copy by [contacting us](https://web.archive.org/contacts/ "Contact Us").
 
-**_Purpose of the Policy_**
+## 2\. Types of personal information we collect
 
-**Glue takes its obligations under the Privacy Act seriously and would like to take all reasonable steps in order to comply with the Act and protect the privacy of the personal information that we hold.   This policy sets out how we intend to do so.**
+2.1. The types of personal information we collect will vary depending on your dealings with us, and the products, services and benefits we provide to you. This information may include any or all of the following:
 
-**The personal information that the Organisation collects are as follows** :
+  * \- Name, adress(es), phone number(s) and other contact details
+  * \- Email addresses
+  * \- Date of birth
+  * \- Gender
+  * \- Transaction details relating to your use of our products or services
+  * \- Any preferences you tell us about
 
-Glue collects/holds the following personal information:
 
-Ÿ              Your name
 
-Ÿ              Date of birth
+2.2. Information is also generated whenever a page is accessed on our website that records specific information, such as the time, date and specific page. We collect such information for statistical and maintenance purposes so that we can evaluate and improve our website performance, and service to you.
 
-Ÿ              Address
+2.3. Some parts of our website use "cookies". A cookie is a small text file that is placed on your computer's hard-drive by a web page server. Cookies store information about your use of our website, and enable us to identify new or previous visitors, and provide additional benefits to you, such as retaining products that were added to the cart last time you visited. Most web browsers are set to accept cookies, but this function can be disabled if you wish, however please be aware that if you choose to do this, some functionality of our website will not be available to you.
 
-Ÿ              Other \- driving licence, phone number, email address
+## 3\. Why we collect personal information
 
-**_Why we collect it?_**
+3.1. In broad terms, we collect information about customers to provide a range of products, services and benefits. We also collect personal information to assist in identifying ways we can serve you better, and in a more effective and relevant manner. Personal information at times may also assist our internal administration and operations, including accounting, risk management, record keeping, archiving, systems development and testing, and staff training.
 
-Glue collects, uses and discloses the information in accordance with the Collection Statement.
+3.2. Some of the information we collect is for the purpose of improving our interaction with customers, and their involvement with us.
 
-We collect the information for the purpose of:
+## 4\. How we collect personal information
 
-Ÿ              Selling you our product
+4.1. In broad terms, we collect personal information from you, such as when you create an online account, subscribe to our e-newsletter, transact with us, or partake in a service, in the course of providing you that service, or when you have other dealings with us.
 
-Ÿ              Selling you our services (delivery and installations, warranty, ACVO, layby, refunds and
+4.2. We may collect and update personal information over the phone, over the internet, in person (at a Glue Store or Super Glue Store, for example), when you write to us, or if you participate in our marketing campaigns.
 
-exchange, ski hire)
+## 5\. Storage and protection of personal information
 
-Ÿ              Processing payment
+5.1. We store personal information in a combination of secure computer facilities and paper-based files and other records. In so doing, we have taken steps to protect your personal information from misuse, loss and unauthorised access, modification or disclosure
 
-Ÿ              We may also collect the information for competitions, market research, customer loyalty
+5.2. We use a RapidSSL CA SSL certificate from GEO Trust Inc for extra security. This is a high-grade Encryption key (Camellia-256, 256 bit encryption key) that ensures your payment and personal info remains secure during your payment. When you’re shopping online we give you the option of saving your credit card details, to make things quicker next time you shop with us. Your details are securely stored at Eway (our payment partner), which is PCI DSS compliant
 
-programs, suppliers terms and conditions, security reasons and protection of staff and company assets. 
+5.3. Additionally, we take reasonable steps to destroy or permenantly de-identify personal information when we no longer need it. We impose strict requirements of security and confidentiality on all third parties as to how they store, handle and deal with your personal information.
 
-**_Access to your personal information_**
+## 6\. How we use personal information
 
-Glue provides access to the personal information that we hold about you.  Access will be provided in accordance with our Access Policy.  If you require access to your personal information please contact the Company Privacy Officer on telephone (02) 9795-6500
+6.1. We may use and disclose your personal information for a variety of purposes in connection with servicing you as a customer or subscriber, and in relation to our business operations. This could include:
 
-**_Complaints_**
+  * \- Processing and administrating your transactions or dealings with us as a customer
+  * \- Providing you with the products and services you have requested from us
+  * \- Developing processes, products, services and benefits to better meet your needs
+  * \- Disclosing your information for use by relevant parties in connection to your transaction or service
+  * \- Conducting market research, and marketing our products and services to you more generally
 
-If you have any complaints about our privacy practice or wish to make a complaint about how your personal information is managed please contact the Company Privacy Officer on telephone (02) 9795-6500.  Complaints will be handled under the Glue’s Privacy Complaints Policy.
 
-**_Storage_**
 
-We will take all reasonable steps to protect the security of the personal information that we hold.  This includes appropriate measures to protect electronic materials and materials stored and generated in hard copy.
+6.2. We may also use your personal information to offer or provide you with loyalty benefits, discounts or other such activities that may be operated by us or third parties. This could include:
 
-**_Contract_**
+  * \- Providing your personal information to companies within Next Athleisure Pty Limited
+  * \- Obtaining details about how you acquire and use our products, services and benefits
+  * \- Rewarding customers for utilising our products and services through mechanisms such as discounts, special pricing offers and prices
+  * \- Disclosing your information for use by relevant parties in connection to your transaction or service
+  * \- Targeting appropriate marketing of products and services to you
 
-We **do not** contract out data storage or processing functions.
 
-**_What happens if you choose not to provide the information?_**
 
-You are not obligated to give us your personal information.  However, if you choose not to provide Glue’s with the personal detail (name, date of birth, address, driving licence, phone number and email addres) we may not be able to provide you with the full range of our services.
+## 7\. Access to personal information
 
-You can gain access to the personal information that the organisation holds about you.  If you wish to do so please refer to our Collection and Access Policy published on Rebel Sport Limited website (www.rebelsport.com.au) or contact the Company Privacy Officer on telephone (02) 9795-6500.
+7.1. We will take reasonable steps to make sure that the personal information we collect, use or disclose is accurate, complete and up-to-date. If your personal details change, such as your address or phone number, please [contact us](https://web.archive.org/contacts/ "Contact Us") to update your details.
+
+7.2. Following a request, we will provide you with a copy of any personal information which we hold about you in accordance with our obligations under the Privacy Act. We may charge a fee for retrieving this information, in which case we will inform you of the fee in advance of providing the information.
+
+7.3. We will promptly acknowledge and investigate any complaint about the way we manage personal information.
+
+## 8\. Contacting us
+
+8.1. If you have any questions about this privacy statement, if you wish to update information we hold about you or if you wish to make a complaint, please write to:
+
+The Privacy Officer
+
+  
+Level 3, 80 George St   
+The Rocks NSW 2000
