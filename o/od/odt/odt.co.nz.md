@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the odt.co.nz privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501154055id_/http%3A//www.odt.co.nz/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the odt.co.nz privacy policy that was archived on 2013-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131107060345id_/http%3A//www.odt.co.nz/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Otago Daily Times Online News : Otago, South Island, New Zealand & International News
+# Privacy Policy
 
 _**Allied Press Limited**_
 
