@@ -1,29 +1,69 @@
-> *The following text is extracted and transformed from the errau.com privacy policy that was archived on 2010-01-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100103111136id_/http%3A//www.errau.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the errau.com privacy policy that was archived on 2013-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131107020146id_/http%3A//www.errau.com/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - ErrAU
+
+####  [Home](https://web.archive.org/) › [About](https://web.archive.org/about.shtml)
 
   
-**Links to Other Web Sites.**   
-We make content or services from our other web sites available to you from links located on Autocola.com. We also offer through links a collection of services provided by third parties. In order to use third parties' services you will be directed to pages on their web sites, which may be co-branded with the Autocola.com logo. Please remember that when you visit these other web sites, even the affiliated and co-branded sites, the sites' own privacy policies apply. 
 
-**Information We Collect**   
-Web Site Usage Information: We automatically collect IP addresses and Web Site usage information from you when you visit our Web Site. This information helps us evaluate how our visitors use and navigate our Web Site on an aggregate basis, including the number and frequency of visitors to each Web page, and the length of their visits. 
 
-General: When you use some of the site's special features we will collect personally identifiable information from you that may include your name, phone number, address, e-mail address and similar information. We do not, however, knowingly collect personal information from children under the age of thirteen.
+### Visitor Notice
 
-Surveys: We may conduct occasional online surveys. For example, when you are within our Web Site, you may see a pop-up window offering you the optional opportunity of participating in a survey. These surveys are entirely voluntary and you may easily decline to participate.
+We will ask you when we need information that personally identifies you (Personal Information) or allows us to contact you. Generally this information is requested when you are asked to register and become a ErrAU member in order to participate on the forums, enter into a contest, or opt-in our email newsletters. We use your Personal Information for four primary purposes:
 
-**How We Use Information Collected**   
-We may use information in the following ways: 
+  * To make the site easier for you to use by not having to enter information more than once.
+  * To help you quickly find services or information on ErrAU.
+  * To help us create content most relevant to you.
+  * To alert you about updated information and other new services on ErrAU.
 
-For the purposes for which you specifically provided the information, for example, to process and fulfill your subscriptions to our e-mail newsletters, review and post your contributions to discussion groups and to process and forward to franchisers your franchiser information requests.
+  
 
-To send you e-mail notifications about our new or existing products and services, special offers, or to otherwise contact you.
 
-To allow us to personalize the content and advertising that you and others see based on personal characteristics or preferences.
+### Visitor Consent
 
-To enhance existing features or develop new features, products and services.
+If you choose not to register or provide personal information, you can still use most of the features on ErrAU, but you will not be able to access areas that require registration. ErrAU sends regular newsletters, which are sent only to opt-in lists. They also include a very easy and simple way to be removed once you have joined.
 
-To provide advertisers and other third parties with aggregate information about our user base and usage patterns.
+  
 
-We may combine the information that we collect from you on this Web Site with information that you provide to us in connection with your use of our other products, services and web sites. 
+
+### Security
+
+ErrAU strictly protects the security of your personal information and honors your choices for its intended use. We carefully protect your data from loss, misuse, unauthorized access or disclosure, alteration, or destruction.
+
+  
+
+
+### Distribution of personal information
+
+ErrAU does not distribute personal information to any third parties. Should this change, ErrAU will not distribute any information without your prior express consent. Please be aware that it may be possible, depending on your use of various features on ErrAU, that some of your personal information is available on publicly accessible web pages. One example would be using the ErrAU Forums. Consent to expose some of your personal information in these cases is implied by the use of these features.
+
+  
+
+
+### Third Party Ad Servers
+
+We may use third-party advertising companies to serve ads when you visit ErrAU. These companies may use information (not including your name, address, e-mail address or telephone number) about your visits to our site and to other web sites in order to provide advertisements about goods and services of interest to you. These companies may employ cookies and clear GIFs to measure advertising effectiveness. Any information that these third parties collect via cookies and clear GIFs is generally not personally identifiable (unless, for example, you provide personally identifiable information to them through an ad or e-mail message). We encourage you to read these businesses' privacy policies if you should have any concerns about how they will care for your personal information. If you would like more information about this practice and to know your choices about not having this information used by these companies, see the [Network Advertising Initiative's consumer web site](http://www.networkadvertising.org/managing/opt_out.asp).
+
+  
+
+
+### Hosted Sites
+
+ErrAU gives children between the ages of 13 and 18 the ability to publicly post or distribute personally identifiable contact information without prior parental consent. Please take proper measures if you do not wish your child to have access to public forums and message boards. As always, exercise caution when deciding to disclose personal information in a public forum. In order to comply with the COPPA ruling, if you are younger than 13 years of age, you are forbidden from becoming a member of ErrAU or posting information on ErrAU message boards without direct parental consent.
+
+  
+
+
+### Enforcement
+
+If for some reason you believe ErrAU has not adhered to these principles, please [notify us by e-mail](mailto:julio@tec%68%73%70o%74.c%6Fm), and we will do our best to determine and correct the problem promptly. Be certain the words Privacy Policy are in the Subject line.
+
+  
+
+
+### Changes to this document
+
+Changes to this document may be made any time without warning. ErrAU may or may not notify you of changes in this policy, however, we will make an effort to notify you if there are any major changes to this policy. You will not be notified about changes related to clarification and/or elaboration of parts of this policy.
+
+  
+
