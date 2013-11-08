@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the connexity.com privacy policy that was archived on 2013-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130423110201id_/http%3A//www.connexity.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the connexity.com privacy policy that was archived on 2013-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131108111257id_/http%3A//www.connexity.com/about/privacy) for the most accurate reproduction.*
 
 # Connexity - Audience Discovery
 
