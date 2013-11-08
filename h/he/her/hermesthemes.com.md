@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hermesthemes.com privacy policy that was archived on 2013-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130509152710id_/http%3A//www.hermesthemes.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hermesthemes.com privacy policy that was archived on 2013-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131108055934id_/http%3A//www.hermesthemes.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - HermesThemes.com
 
