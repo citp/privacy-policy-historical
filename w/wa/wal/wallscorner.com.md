@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wallscorner.com privacy policy that was archived on 2013-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130517044820id_/http%3A//www.wallscorner.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wallscorner.com privacy policy that was archived on 2013-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131108183704id_/http%3A//www.wallscorner.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Wallscorner.com
 
@@ -31,4 +31,4 @@ If you have any questions, concerns, or comments about our privacy policy you ma
 
 By e-mail: Please use our Contact Form
 
-We reserve the right to make changes to this policy. 
+We reserve the right to make changes to this policy.
