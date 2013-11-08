@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the askdeb.com privacy policy that was archived on 2011-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111202025512id_/http%3A//www.askdeb.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the askdeb.com privacy policy that was archived on 2013-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131108162700id_/http%3A//www.askdeb.com/privacy) for the most accurate reproduction.*
 
-# Ask Deb.com Privacy Policy
+# Privacy Policy
 
 At Ask Deb the privacy to our visitors and readers is very important. This is why we have released this privacy policy statement.
 
@@ -12,7 +12,7 @@ As a common practice and for analytical purposes we collect and use the data sto
 
 ## Google Ads & DoubleClick DART Cookies
 
-In order to support the AskDeb.com website we use third-party advertising companies (including Google Ads) to serve you targeted ads when you view pages on our site. These ads use the DART cookies in order to serve you ads that are delivered through Google’s DoubleClick advertising (contained in Google AdSense advertisements). The DoubleClick cookie is used to serve advertisements that are specific to you and your interests (“interest based targeting”). The DART cookie uses “non-personally identifiable information” about you’re your visits to this and other websites in order to target ads relevant to you. It DOES NOT collect your name, address, email address, telephone number, credit card numbers, bank account numbers, social security numbers or any other private information. To learn more about this please see the [Google Advertising and Privacy Policy](http://www.google.com/privacy_cookies.html) and the [DoubleClick Privacy Policy](http://www.doubleclick.com/privacy/) where you can review their practices and elect to opt-out from further ads.
+In order to support the AskDeb.com website we use third-party advertising companies (including Google Ads) to serve you targeted ads when you view pages on our site. These ads use the DART cookies in order to serve you ads that are delivered through Google’s DoubleClick advertising (contained in Google AdSense advertisements). The DoubleClick cookie is used to serve advertisements that are specific to you and your interests (“interest based targeting”). The DART cookie uses “non-personally identifiable information” about you’re your visits to this and other websites in order to target ads relevant to you. It DOES NOT collect your name, address, email address, telephone number, credit card numbers, bank account numbers, social security numbers or any other private information. To learn more about this please see the [Google Advertising and Privacy Policy](http://www.google.com/policies/privacy/) and the [DoubleClick Privacy Policy](http://www.google.com/doubleclick/) where you can review their practices and elect to opt-out from further ads.
 
 You may also selectively turn off or disable any cookies used by this site through your browser settings, or through the settings in other Internet security programs such as McAffee Internet Security. This may, however, negatively affect your interaction with our site and many other websites. It may results in the inability to login to applications, services and programs such as blogs, forums or other accounts.
 
