@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the theherald.co.za privacy policy that was archived on 2013-05-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130527150703id_/http%3A//www.peherald.com/privacypolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the theherald.co.za privacy policy that was archived on 2013-11-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131108234745id_/http%3A//www.peherald.com/privacypolicy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <base href="http://www.peherald.com/content/">
@@ -11,11 +11,16 @@
 <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
 <link rel="alternate" type="application/rss+xml" title="The Herald RSS Feed" href="http://www.peherald.com/content/feed/rss">
 
-<link href="../css/sitestyles.css?cache=1369667222" rel="stylesheet" type="text/css">
 
-<link rel="stylesheet" type="text/css" href="../css/fe_menu.css" media="screen">
+
+
 <link rel="stylesheet" type="text/css" href="../css/fe_menu2.css" media="screen">
 
+
+<link href="../css/sitestyles.css?cache=1383954465" rel="stylesheet" type="text/css">
+<link rel="stylesheet" type="text/css" href="../css/fe_menu2.css" media="screen">
+
+<link rel="stylesheet" type="text/css" href="../css/fe_menu.css" media="screen">
 
 <script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1"></script><script type="text/javascript" async="" src="https://za-ssl.effectivemeasure.net/em.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script src="../js/jquery/jquery-1.4.2.js" language="javascript"></script>
 
@@ -46,6 +51,29 @@
 		});		
 				
 	});	
+	
+	/*This is for the Jobs Submenu*/
+	function toggle(show)
+	{
+		if(show)
+			$('#tab_3_sub').show();
+		else
+			$('#tab_3_sub').hide();
+	}
+	function toggleActive(name)
+	{
+		if(name == 'tab_3')
+		{
+			var pos = $('#tab_3').position();
+			$('#tab_3_sub').attr('style','padding-left:'+pos.left+'px');
+			$('#tab_3_sub').width($('#tab_3').width());			
+			toggle(true);
+		}
+		else
+		{
+			toggle(false);
+		}
+	}	
 </script>
 <script type="text/javascript" src="../js/fancybox/jquery.fancybox-1.3.1.js"></script>
 <link rel="stylesheet" type="text/css" href="../js/fancybox/jquery.fancybox-1.3.1.css" media="screen">
@@ -208,7 +236,7 @@ $(document).ready(function()
 <a href="#" target="">Quicklinks</a>
 <ul>
 <li>
-<a href="http://timesmediaeasterncape.careerjunction.co.za" target="_blank">Career Junction</a>
+<a href="http://herald.careerjunction.co.za" target="_blank">Career Junction</a>
 </li>
 <li>
 <a href="http://www.peherald.com/directory" target="_self">Service Directory</a>
@@ -227,9 +255,6 @@ $(document).ready(function()
 </ul>
 </li>
 <li>
-<a href="http://theweekendpost.com" target="_self">Weekend Post</a>
-</li>
-<li>
 <a href="../content/28" target="_self">Contact</a>
 </li>
 <li>
@@ -246,6 +271,10 @@ $(document).ready(function()
                 <table>
                     <tbody><tr>
                     <td><a href="../">Home</a><a href="../login" id="commentLogin1" onclick="return false">Login</a><a href="../login" id="commentLogin1" onclick="return false">Register</a></td>
+                    
+                    
+                    
+
                     <td class="SearchField"><input type="text" name="q" class="Text" onclick="this.select();" value="Search our website"></td>
                     <td class="SearchButton"><input name="" type="image" src="../images/Magnifier.gif" class="Button"></td>
                     </tr>
@@ -270,7 +299,7 @@ $(document).ready(function()
     
         <div class="editionbanner" onmouseover="javascript:this.className='editionbannershow';" onmouseout="javascript:this.className='editionbanner';">
         
-        <div class="Puff"><a href="http://herald.newspaperdirect.com/epaper/viewer.aspx" target="_blank" title="Get The Herald eEdition now">SUBSCRIBE NOW</a><div style="background-image:url('../images/editioncover.jpg?cache=1369667222')"><!----></div></div>
+        <div class="Puff"><a href="http://herald.newspaperdirect.com/epaper/viewer.aspx" target="_blank" title="Get The Herald eEdition now">SUBSCRIBE NOW</a><div style="background-image:url('../images/editioncover.jpg?cache=1383954465')"><!----></div></div>
         <img src="../images/eEditionBanner.png" alt="Sunscribe to The Herald Port Elizabeth eEdition Online News" border="0">
         
         </div>
@@ -310,14 +339,20 @@ $(document).ready(function()
 <a href="http://www.peherald.com/news/world/world" target="_self">World News</a>
 </li>
 </ul>
-</div><div class="Tabs">
-    <a href="../news/news" class="notActive">Breaking News</a>
-    <a href="../specialreports" class="notActive">Special Reports</a>
-    <a href="../gallerylist" class="notActive">Latest Galleries</a>
-    <a href="../news/lifestyle" class="notActive">Lifestyle</a>    
-    <a href="../directory" class="notActive">Service Directory</a>
-    <a href="../classifieds">Classifieds</a>
-    <!--a href="http://classifieds.avusa.co.za/Default.aspx?PublicationId=3" id="classifieds1">Classifieds</a-->
+</div><div id="mousebound" onmouseleave="toggle(false);">
+    <div class="Tabs">
+        <a href="../news/news" class="notActive">Breaking News</a>
+        <a href="../specialreports" class="notActive">Special Reports</a>
+        <a href="../career_junction_joblist" id="tab_3" onmouseover="toggleActive('tab_3');">Jobs</a>
+        <a href="../news/lafemme" class="notActive">Lifestyle</a>
+        <a href="../directory" class="notActive">Service Directory</a>
+        <a href="../classifieds">Classifieds</a>
+        <!--a href="http://classifieds.avusa.co.za/Default.aspx?PublicationId=3" id="classifieds1">Classifieds</a-->
+    </div>
+    <div id="tab_3_sub" style="width:200px;">
+        <a href="../career_junction_search" style="width:200px;">Search Jobs</a>
+        <a href="../career_junction_joblist" style="width:200px;">All Jobs</a>
+    </div>
 </div>
 <div class="NewsFeatures"><div class="ContentPage">
 <h1 class="ContentPageTitle">Privacy Policy</h1>
