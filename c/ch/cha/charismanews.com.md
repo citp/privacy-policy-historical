@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the charismanews.com privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530110036id_/http%3A//charismamag.com/index.php/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the charismanews.com privacy policy that was archived on 2013-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131108161235id_/http%3A//charismamag.com/index.php/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -18,9 +18,10 @@ Our site's registration, order and survey forms require users to give us contact
 
 "Cookies" are a form of information that can be stored on your computer by a Web server for a variety of reasons. The Charisma Media Online (SCO) uses cookies, but our online visitors should be assured that cookies are simply used by us to facilitate automated activity that:
 
-a. Passes no significant information about the user to the Internet or to Charisma Media
+  1. Passes no significant information about the user to the Internet or to Charisma Media
+  2. Is not analyzed to yield any information. We use "cookies" for the following interaction with our Web sites:
 
-b. Is not analyzed to yield any information. We use "cookies" for the following interaction with our Web sites:
+
 
 ### Navigation and Personalization:
 
@@ -46,14 +47,10 @@ We care about children and understand that they have special privacy needs. Ther
 
   1. We will NOT collect, use, or distribute to third parties personally identifiable information without prior verifiable parental consent.
   2. We will NOT give the child access to unmonitored chat rooms, message boards, email accounts, or other services that would give the child the ability to publicly post or otherwise distribute personally identifiable information without prior verifiable parental consent
-  3. When verifiable parental consent is not obtained, we will only use the online contact information (such as email) to:
-
-a. Respond directly to the child's request on a one-time basis and not use that information to re-contact the child for other purposes.
-
-b. Request the name or online contact information of a parent for the purpose of obtaining verifiable parental consent or providing parental notification.
-
-c. Respond more than once directly to a specific request from a child (such as in the case where a child requests a newsletter subscription) and not used to re-contact the child for other purposes. We will use our best efforts to provide parental notification, which will include the nature and intended use as well as an opportunity for the parent to prevent the use of the information and participation in the activity.
-
+  3. When verifiable parental consent is not obtained, we will only use the online contact information (such as email) to: 
+    1. Respond directly to the child's request on a one-time basis and not use that information to re-contact the child for other purposes.
+    2. Request the name or online contact information of a parent for the purpose of obtaining verifiable parental consent or providing parental notification.
+    3. Respond more than once directly to a specific request from a child (such as in the case where a child requests a newsletter subscription) and not used to re-contact the child for other purposes. We will use our best efforts to provide parental notification, which will include the nature and intended use as well as an opportunity for the parent to prevent the use of the information and participation in the activity.
   4. We will provide the parent a description of the specific types of a personally identifiable information collected from their child upon request. We will allow the parent to refuse further use or future online collection of personally identifiable information and provide a way for a parent to obtain any personally identifiable information collected from their child.
   5. We will provide notice to children in age appropriate terms of what personally identifiable information is to be collected.
   6. We will NOT provide any links to Web sites that are unsuitable for children.
@@ -71,6 +68,3 @@ Lake Mary, FL 32746
 ### Your consent
 
 By using our Web site, you consent to the collection and use of this information. If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it. You will not receive these updates by snail mail or email.
-
-Get Charisma News on your phone.  
-[Click here](http://www.strangmail.com/scripts/track_redirect/?go=13567&sc=ChmMagArticleContributePhoneApp "Download the Charisma News smartphone app to keep up to date with today's news").
