@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hirevue.com privacy policy that was archived on 2013-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130630125202id_/http%3A//hirevue.com/terms) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hirevue.com privacy policy that was archived on 2013-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131108090142id_/http%3A//hirevue.com/terms) for the most accurate reproduction.*
 
 # HireVue Privacy Policy - Hirevue
 
