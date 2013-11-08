@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the guggenheim.org privacy policy that was archived on 2013-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130509010011id_/http%3A//www.guggenheim.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the guggenheim.org privacy policy that was archived on 2013-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131108230818id_/http%3A//www.guggenheim.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -8,7 +8,7 @@ The Solomon R. Guggenheim Foundation (the "Guggenheim") is committed to protecti
 
 #### Collection of Information by the Guggenheim
 
-The Guggenheim does not systematically collect or record names, postal or email addresses, phone numbers, gender identity, or other personally identifying data (the "Personal Data") from visitors to the Site, unless such data is voluntarily submitted by visitors for the purposes outlined below.
+The Guggenheim does not systematically collect or record names, postal or e-mail addresses, phone numbers, gender identity, or other personally identifying data (the "Personal Data") from visitors to the Site, unless such data is voluntarily submitted by visitors for the purposes outlined below.
 
 ##### Cookies
 
@@ -36,11 +36,11 @@ When you subscribe to our online mailing list(s) and sign up for e-news, the Gug
 
 When you make a donation or purchase a Guggenheim Museum membership online through the Site, the Guggenheim and its third-party merchants and agents will request information necessary to process your membership or acknowledge your contribution: your name, billing and shipping addresses, telephone number, e-mail address, and credit card information. Your credit card information will be used only for the purpose of processing and documenting the transaction. Your Personal Data may be used as set forth below. See "Use of Personal Data by the Guggenheim" and "Sharing of Personal Data with Others."
 
-Please note that when you purchase a Guggenheim membership online, you exit the Site and enter the site of Blackbaud, a third-party vendor. Blackbaud has an independent privacy policy that governs Blackbaud’s use of Personal Data, which is collected during your purchase. Please consult the [Blackbaud Privacy Policy](http://www.blackbaud.com/privacy/overview.aspx "Blackbaud Privacy Policy") for more information. 
+Please note that when you purchase a Guggenheim membership online, you exit the Site and enter the site of Blackbaud, a third-party vendor. Blackbaud has an independent privacy policy that governs Blackbaud’s use of Personal Data, which is collected during your purchase. Please consult the [Blackbaud Privacy Policy](http://www.blackbaud.com/privacy/overview.aspx "Blackbaud Privacy Policy") for more information.
 
 ##### Online Store Purchases
 
-When you order a product from the Guggenheim Museum "Online Store," the Guggenheim and its third-party merchants and agents will request information necessary to process your order: your name, billing and shipping addresses, telephone number, e-mail address, and credit card information. Your credit card information will be used only for the purpose of processing and documenting the transaction. Your Personal Data may be used as set forth below. See "Use of Personal Data by the Guggenheim" and "Sharing of Personal Data with Others." 
+When you order a product from the Guggenheim Museum "Online Store," the Guggenheim and its third-party merchants and agents will request information necessary to process your order: your name, billing and shipping addresses, telephone number, e-mail address, and credit card information. Your credit card information will be used only for the purpose of processing and documenting the transaction. Your Personal Data may be used as set forth below. See "Use of Personal Data by the Guggenheim" and "Sharing of Personal Data with Others."
 
 Please note that when you purchase a Guggenheim product online, you exit the Site and enter the site of our store merchant, "Yahoo." Yahoo has an independent privacy policy that governs Yahoo's use of Personal Data, which is collected during your purchase. Please consult the [Yahoo Privacy Policy](http://info.yahoo.com/privacy/us/yahoo/details.html "Yahoo Privacy Policy") for more information.
 
