@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the luxury-resort-bliss.com privacy policy that was archived on 2013-01-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130119103318id_/http%3A//www.luxury-resort-bliss.com/about-us.html%23Privacy_Polocy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the luxury-resort-bliss.com privacy policy that was archived on 2013-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131108131040id_/http%3A//www.luxury-resort-bliss.com/about-us.html%23Privacy_Polocy) for the most accurate reproduction.*
 
 # About Us
 
@@ -14,7 +14,7 @@ Total Visits|  **110075**
 Total Unique Visitors|  **72528**  
 Total Pages|  **228321**  
   
- **June 2011** \- Ricky is able to finally stop work at a local hotel in[ Cairns](https://web.archive.org/web/20130119103318id_/http%3A//www.luxury-resort-bliss.com/travel-cairns.html) ending a long on again , off again history of emplyment at Australian resorts, and  now work full time on the site giving the hard working April time for a well earned break.
+ **June 2011** \- Ricky is able to finally stop work at a local hotel in[ Cairns](http://www.luxury-resort-bliss.com/cairns-resorts.html) ending a long on again , off again history of emplyment at Australian resorts, and  now work full time on the site giving the hard working April time for a well earned break.
 
  **September 2010** \- Ricky and April are able to resarch a little in Asia on their way down to Australia to live.
 
