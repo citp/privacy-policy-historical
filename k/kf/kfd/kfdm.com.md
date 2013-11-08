@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kfdm.com privacy policy that was archived on 2013-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130529120013id_/http%3A//kfdm.com/station/legal/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kfdm.com privacy policy that was archived on 2013-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131108012728id_/http%3A//www.kfdm.com/station/legal/privacy.shtml) for the most accurate reproduction.*
 
 # KFDM Channel 6 :: Station - Station Info
 
