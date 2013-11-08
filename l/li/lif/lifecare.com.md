@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lifecare.com privacy policy that was archived on 2013-03-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130310042109id_/http%3A//www.lifecare.com/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lifecare.com privacy policy that was archived on 2013-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131108114704id_/http%3A//www.lifecare.com/privacy-policy) for the most accurate reproduction.*
 
 # LifeCare Privacy Policy | LifeCare
 
