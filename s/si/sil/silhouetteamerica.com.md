@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the silhouetteamerica.com privacy policy that was archived on 2013-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130617043908id_/http%3A//www.silhouetteamerica.com/%3Fpage%3Dprivacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the silhouetteamerica.com privacy policy that was archived on 2013-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131108061402id_/http%3A//www.silhouetteamerica.com/privacy-policy) for the most accurate reproduction.*
 
 # Silhouette America - Privacy Policy
 
