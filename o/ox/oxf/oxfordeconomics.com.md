@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the oxfordeconomics.com privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602060058id_/http%3A//www.oxfordeconomics.com/privacy/overview) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oxfordeconomics.com privacy policy that was archived on 2013-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131108105917id_/http%3A//www.oxfordeconomics.com/privacy/overview) for the most accurate reproduction.*
 
-# Oxford Economics
+# Privacy > Overview - Oxford Economics
 
 Oxford Economics is the world leader in global economic forecasting and global economy research. Founded in 1981 OE provides economic advice and forecasts to international organisations. OE produces projections, analysis and data on 190 countries and regions, 100 industrial sectors and 2,600 sub-regions and cities.
 
