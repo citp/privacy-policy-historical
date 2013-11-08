@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the catchmyparty.com privacy policy that was archived on 2013-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130529211107id_/http%3A//catchmyparty.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the catchmyparty.com privacy policy that was archived on 2013-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131108135518id_/http%3A//catchmyparty.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Catch My Party
 
@@ -21,6 +21,8 @@ In addition we may use your contact information to market to you and provide you
 When you visit our site, our servers automatically record information that your browser sends whenever you visit a website. This date may include information such as your IP address, browser type, or the domain from which you are visiting, the web pages you visit, the search terms you use, and any ads on which you click. We do not associate your IP address with any other personally identifiable information to identify you personally, except in case of violation of the Terms of Service. 
 
 We also use “cookies” to collect additional website usage data and to improve our site and server. A cookie is a small data file that we put onto your hard disk. We do not use cookies to collect personally identifiable information. We use session cookies and persistent cookies to better understand how you use the site and to improve our services. Session cookies are removed after each visit to the site. Persistent cookies remain on your hard drive and may be used by your browser on subsequent visits. Persistent cookies can be removed by following your web browser help file directions and you can set your browser to stop accepting cookies or to prompt you before accepting a cookie from a website you visit. 
+
+We use Google Analytics to help us understand how people use our site and how we can make it better. You can opt-out of Google Analytics for Display Advertising and customize Google Display Network ads here: [Google Ad Settings](https://www.google.com/settings/ads). We do not facilitate the merging of personally-identifiable information with non-personally identifiable information. If you are concerned about privacy and tracking, we also encourage you use the [Google Analytics opt-out browser add-on](https://tools.google.com/dlpage/gaoptout/). 
 
 We use certain third parties to perform functions and provide services to us like hosting and maintenance, database storage and management, and direct marketing campaigns. We will share your personally identifiable information with these third parties but only to the extent necessary to perform the services we need and we require our third parties to maintain the privacy and security of your data. 
 
