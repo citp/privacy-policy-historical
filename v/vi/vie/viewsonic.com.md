@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the viewsonic.com privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602234207id_/http%3A//www.viewsonic.com/us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the viewsonic.com privacy policy that was archived on 2013-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131108190400id_/http%3A//www.viewsonic.com/us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
