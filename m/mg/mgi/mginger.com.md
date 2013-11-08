@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mginger.com privacy policy that was archived on 2013-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130604023517id_/http%3A//mginger.com/static/privacyPolicy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mginger.com privacy policy that was archived on 2013-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131108154513id_/http%3A//www.mginger.com/static/privacyPolicy.jsp) for the most accurate reproduction.*
 
 # Privacy Policy - mGinger.com
 
@@ -8,6 +8,11 @@
 
 |   
 ---|---  
+  
+[](http://buyt.in/)
+
+SEARCH
+
 | [Home](https://web.archive.org/main.jsp) | [Messenger](https://web.archive.org/messenger.html) | [Games](https://web.archive.org/games.html) | [Deals](https://web.archive.org/deals.html) |   |   
 ---|---|---|---|---|---|---  
   
