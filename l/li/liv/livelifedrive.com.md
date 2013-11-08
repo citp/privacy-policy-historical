@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the livelifedrive.com privacy policy that was archived on 2013-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130430105728id_/http%3A//www.livelifedrive.com/malaysia/main/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the livelifedrive.com privacy policy that was archived on 2013-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131108031607id_/http%3A//www.livelifedrive.com/malaysia/main/privacy) for the most accurate reproduction.*
 
 # Privacy And Security Policy | LIVE LIFE DRIVE
 
