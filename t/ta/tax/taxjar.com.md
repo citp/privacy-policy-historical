@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the taxjar.com privacy policy that was archived on 2013-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130508235445id_/http%3A//www.taxjar.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the taxjar.com privacy policy that was archived on 2013-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131108130613id_/http%3A//www.taxjar.com/privacy-policy) for the most accurate reproduction.*
 
-# TaxJar for Sales Tax
+# Privacy Policy - TaxJar
 
 Thank you for visiting the TaxJar website and reviewing our privacy policy. This privacy policy explains the types of personal information we may collect from and about you, as well as how we may disclose, use and protect that information.
 
