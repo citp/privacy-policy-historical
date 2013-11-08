@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aliciakeys.com privacy policy that was archived on 2013-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130510005745id_/http%3A//www.mozes.com/product/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aliciakeys.com privacy policy that was archived on 2013-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131108152314id_/http%3A//www.mozes.com/product/privacy-policy) for the most accurate reproduction.*
 
 # ePrize, formerly Mozes — The Leader in Mobile Engagement
 
