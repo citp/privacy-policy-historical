@@ -1,12 +1,18 @@
-<!--The following is the downloaded HTML source of the silvertouch.com privacy policy that was archived on 2013-06-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130614230032id_/http%3A//silvertouch.com/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the silvertouch.com privacy policy that was archived on 2013-11-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131108112259id_/http%3A//silvertouch.com/privacy-policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-gb" lang="en-gb"><head>
+
 <meta http-equiv="X-UA-Compatible" content="IE=7">
+
 <meta name="google-site-verification" content="_MmjDvRglZyzIwbnM9c5mSLrmMjVzP26S6UP3oMS2xU"> 
 
+
+
 <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/templates/silvertouch/js/jquery.js"></script>
+
 <script type="text/javascript">jQuery.noConflict();</script>
+
   <base href="http://www.silvertouch.com/">
   <meta http-equiv="content-type" content="text/html; charset=utf-8">
   <meta name="robots" content="index, follow">
@@ -67,134 +73,263 @@ window.addEvent((window.webkit) ? 'load' : 'domready', function() {
 			});
   </script>
 
+
 <link href="/templates/silvertouch/callus-css/style.css" rel="stylesheet" type="text/css">
+
 <script src="/templates/silvertouch/callus-js/css_browser_selector.js" type="text/javascript" language="javascript"></script>
+
 <script language="javascript">
+
 jQuery(document).ready(function() {
+
   var closeAll,
+
       $topLinks3 = jQuery('#tab-nav-3 > ul > li > a');
+
 var flag = false;	
+
   jQuery('#tab-nav-3 ul ul');
+
   
+
   setTabIndex();
+
   
+
   $topLinks3.hover(function() {
+
   //var url = window.location.toString();
+
    //alert(url);
+
 	if(flag == false){
+
 		var $parentItem = jQuery(this).parent(),
+
 			slideAmt = jQuery(this).next().width(),
+
 			direction;
+
 		//$topLinks3.removeClass('expanded');
+
 	   // if (parseInt($parentItem.css('marginLeft'), 10) < 0) {
+
 		  //direction = '+=';
+
 	   // } else {
+
 		 jQuery(this).addClass('expanded');
+
 		  direction = '-=';
+
 	   // }
+
 		$parentItem
+
 		.animate({marginLeft: direction + slideAmt}, 650)
+
 		  .siblings()
+
 		  //.animate({marginLeft: '0'}, 150);
+
 			
+
 		setTabIndex();
+
 	}
+
 		flag = true;
+
     return false;
+
   });
+
   
+
   jQuery('#tab-nav-3')
+
   .mouseleave(function() {
+
     closeAll = setTimeout(function() {
+
 		flag = false;						   
+
       $topLinks3.removeClass('expanded').parent().animate({marginLeft: '0'}, 650);
+
     }, 10000);
+
   }).mouseenter(function() {
+
     clearTimeout(closeAll);
+
   });
+
+
 
   function setTabIndex() {
+
     $topLinks3.each(function(index) {
+
       if (jQuery(this).is('.expanded')) {
+
         jQuery(this).next().find('a').removeAttr('tabIndex');
+
       } else {
+
         jQuery(this).next().find('a').attr({tabIndex: '-1'});
+
       }
+
     });
+
   }
+
 });
+
 function MM_jumpMenu(targ,selObj,restore){ //v3.0
+
   eval(targ+".location='"+selObj.options[selObj.selectedIndex].value+"'");
+
   if (restore) selObj.selectedIndex=0;
+
 }
+
 </script>
+
  <script language="Javascript">
+
 /**
+
  * DHTML phone number validation script. Courtesy of SmartWebby.com (http://www.smartwebby.com/dhtml/)
+
  */
 
+
+
 // Declaring required variables
+
 var digits = "0123456789";
+
 // non-digit characters which are allowed in phone numbers
+
 var phoneNumberDelimiters = "()- ";
+
 // characters which are allowed in international phone numbers
+
 // (a leading + is OK)
+
 var validWorldPhoneChars = phoneNumberDelimiters + "+";
+
 // Minimum no of digits in an international phone no.
+
 var minDigitsInIPhoneNumber = 10;
 
+
+
 function isInteger(s)
+
 {   var i;
+
     for (i = 0; i < s.length; i++)
+
     {   
+
         // Check that current character is number.
+
         var c = s.charAt(i);
+
         if (((c < "0") || (c > "9"))) return false;
+
     }
+
     // All characters are numbers.
+
     return true;
+
 }
+
 function trim(s)
+
 {   var i;
+
     var returnString = "";
+
     // Search through string's characters one by one.
+
     // If character is not a whitespace, append to returnString.
+
     for (i = 0; i < s.length; i++)
+
     {   
+
         // Check that current character isn't whitespace.
+
         var c = s.charAt(i);
+
         if (c != " ") returnString += c;
+
     }
+
     return returnString;
+
 }
+
 function stripCharsInBag(s, bag)
+
 {   var i;
+
     var returnString = "";
+
     // Search through string's characters one by one.
+
     // If character is not in bag, append to returnString.
+
     for (i = 0; i < s.length; i++)
+
     {   
+
         // Check that current character isn't whitespace.
+
         var c = s.charAt(i);
+
         if (bag.indexOf(c) == -1) returnString += c;
+
     }
+
     return returnString;
+
 }
+
+
 
 function checkInternationalPhone(strPhone){
+
 var bracket=3
+
 strPhone=trim(strPhone)
+
 if(strPhone.indexOf("+")>1) return false
+
 if(strPhone.indexOf("-")!=-1)bracket=bracket+1
+
 if(strPhone.indexOf("(")!=-1 && strPhone.indexOf("(")>bracket)return false
+
 var brchr=strPhone.indexOf("(")
+
 if(strPhone.indexOf("(")!=-1 && strPhone.charAt(brchr+2)!=")")return false
+
 if(strPhone.indexOf("(")==-1 && strPhone.indexOf(")")!=-1)return false
+
 s=stripCharsInBag(strPhone,validWorldPhoneChars);
+
 return (isInteger(s) && s.length >= minDigitsInIPhoneNumber);
+
 }
 
+
+
 function ValidateFormcall(){
+
 	var Phone=document.frmSample.txtPhone;
 	var usercaptcha = document.frmSample.bcaptcha_odc;
 	var generatecaptcha = document.frmSample.org_captcha_odc;
@@ -215,113 +350,214 @@ function ValidateFormcall(){
 		usercaptcha.focus();
 		return false;
 	}
-	
-	if ((usercaptcha.value!=generatecaptcha.value)){
-		alert("Please Enter Correct Captcha");
+	if ((usercaptcha.value.length < 5)){
+		alert("Please Enter Proper Captcha");
 		usercaptcha.focus();
 		return false;
 	}
 	
+	
 	return true;
+
  }
+
 </script> 
+
+
 
 <link rel="stylesheet" href="/templates/silvertouch/css/template.css" type="text/css">
 
+
+
+
 <script type="text/javascript">
+
 jQuery(function(){
+
 	//To switch directions up/down and left/right just place a "-" in front of the top/left attribute
+
 	jQuery('.boxgrid.captionfull').hover(function(){
+
 		jQuery(".cover", this).stop().animate({top:'75px'},{queue:false,duration:160});
+
 	}, function() {
+
 		jQuery(".cover", this).stop().animate({top:'260px'},{queue:false,duration:160});
+
 	});
+
 	//Caption Sliding (Partially Hidden to Visible)
+
 	jQuery('.boxgrid.caption').hover(function(){
+
 		jQuery(".cover", this).stop().animate({top:'75px'},{queue:false,duration:120});
+
 	}, function() {
+
 		jQuery(".cover", this).stop().animate({top:'220px'},{queue:false,duration:120});
+
 	});
+
 				
+
 	jQuery("img").each(function() {
+
       var img = jQuery(this);
+
       if (img.attr("alt") == "homeimage")
+
       img.attr("alt", "");
+
       });	
+
 	/*if (/Android|webOS|iPad|iPhone|iPod|BlackBerry/i.test(navigator.userAgent)) {
+
 		var myStylesLocation = "/templates/silvertouch/css/responsive.css";
+
 		jQuery('<link rel="stylesheet" type="text/css" href="'+myStylesLocation+'" >').appendTo("head");
+
 	}*/
+
 				
+
 });
 
+
+
 </script>
+
 <style type="text/css">
+
 #scrollup{position:relative;overflow:hidden; height:100px;width:228px}
+
 .headline{position:absolute;height:195px;width:190px}
+
 </style>
+
 <script type="text/javascript">
+
 if (/Android|webOS|iPad|iPhone|iPod|BlackBerry|Windows Phone/i.test(navigator.userAgent)) {
+
 	var myStylesLocation = "/templates/silvertouch/css/responsive.css";
+
 	jQuery = jQuery.noConflict();
+
 	jQuery('<link rel="stylesheet" type="text/css" href="'+myStylesLocation+'" >').appendTo("head");
+
 	//alert('hi');
+
 	//$('<script language="javascript" type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js">').appendTo("head");
+
 }
+
 jQuery(document).ready(function() {
+
 	jQuery('.menuBar_mobile ul.menu li span.parentSpan').click(function() {
+
 			var openMe = jQuery(this).next();
+
 			var mySiblings = jQuery(this).parent().siblings().find('ul');
+
 			if (openMe.is(':visible')) {
+
 				openMe.slideUp('slow');  
+
 			} else {
+
 				mySiblings.slideUp('slow');  
+
 				openMe.slideDown('slow');
+
 			}
+
 	      });
+
 	
+
 	jQuery('.menuBar_mobile ul.menu li span a').click(function() {
+
 				clicked =jQuery(this).parent().siblings('ul')
+
 				if(clicked.length)	{
+
 					clicked.stop().slideDown();
+
 					clicked.stop().slideUp();
+
 				}  
+
 	});
+
 });
+
 /*jQuery(document).ready(function() {
+
 	if (jQuery(window).width() >= 768) {
+
          jQuery(".menuBar").show();
+
 		 jQuery(".menuBar_mobile").hide();
+
     } else {
+
          jQuery(".menuBar").hide();
+
 		 jQuery(".menuBar_mobile").show();
+
 		 initMenu();
+
     }
+
 	if (jQuery(window).width() < 767) {
+
 			 jQuery(".menuBar").hide();
+
 			 jQuery(".menuBar_mobile").show();
+
 		} else{
+
 			 jQuery(".menuBar_mobile").hide();
+
 			 jQuery(".menuBar").show();
+
 			 initMenu();
+
 	 }
+
 }); */ 
+
 </script>
+
 <meta name="viewport" content="initial-scale=1, maximum-scale=1">
+
 </head>
+
 <body id="default">
 
+
+
 <div id="wrapper">
+
 <div id="header">
+
 	<!--header start here-->
+
   <div id="top">
+
     	 
+
      <h1 class="logo"><a href="/" title="Silver Touch Technologies Ltd.">Silvertouch Technology</a></h1>
+
      
+
      <div class="topRight">
+
      	
+
         <div class="tag">CMMi Level 5 Company</div>
-		         <div class="search"><form name="rokajaxsearch" id="rokajaxsearch" class="light" action="http://www.silvertouch.com/" method="get">
+
+		
+         <div class="search"><form name="rokajaxsearch" id="rokajaxsearch" class="light" action="http://www.silvertouch.com/" method="get">
 <div class="rokajaxsearch">
 	<div class="roksearch-wrapper">
 		<input id="roksearch_search_str" name="searchword" type="text" class="inputbox" value=" Search">
@@ -338,42 +574,86 @@ jQuery(document).ready(function() {
 </div>
 <div id="rokajaxsearch_tmp" style="visibility:hidden;display:none;"></div>
 </form></div>
-         		          <div class="topMenu"><ul class="menu"><li class="item2"><span class="parentSpan"><a href="http://www.silvertouch.com/"><span>Home</span></a></span></li><li class="item55"><span class="parentSpan"><a href="/about-us/at-a-glance.html"><span>At a Glance</span></a></span></li><li class="item11"><span class="parentSpan"><a href="/career.html"><span>Career</span></a></span></li><li class="item12"><a href="/resources/contact.html"><span>Contact</span></a></li></ul></div>
-                                   
+
          
+		 
+         <div class="topMenu"><ul class="menu"><li class="item2"><span class="parentSpan"><a href="http://www.silvertouch.com/"><span>Home</span></a></span></li><li class="item55"><span class="parentSpan"><a href="/about-us/at-a-glance.html"><span>At a Glance</span></a></span></li><li class="item11"><span class="parentSpan"><a href="/career.html"><span>Career</span></a></span></li><li class="item12"><a href="/resources/contact.html"><span>Contact</span></a></li></ul></div>
+
+         
+                          
+
+         
+
      </div>
+
      
+
   </div>
 
+
+
   <!--header end here-->
+
   
+
   <!--menu start here-->
-   	<div class="menuBar"><ul class="menu sf-menu sf-horizontal"><li id="current" class="parent active item1"><span class="parentSpan"><a href="/about-us/at-a-glance.html"><span>About Us</span></a></span><ul><li class="parent item56"><span class="parentSpan"><a href="/about-us/at-a-glance.html"><span>At a Glance</span></a></span><ul><li class="last-child first-child item67"><a href="/about-us/infrastructure.html"><span>Infrastructure</span></a></li></ul></li><li class="item85"><a href="/about-us/bord-directors.html"><span>Board of Directors</span></a></li><li class="item63"><a href="/about-us/quality-policy.html"><span>Quality Policy</span></a></li><li class="item61"><a href="/about-us/alliances.html"><span>Alliances</span></a></li><li class="item62"><a href="/about-us/awards.html"><span>Awards</span></a></li><li class="item109"><a href="/events.html"><span>Events</span></a></li><li class="last-child item120"><a href="/news.html"><span>News</span></a></li></ul></li><li class="parent item4"><a href="/consulting-services/it-process-consulting.html"><span>Consulting Services</span></a><ul><li class="first-child item27"><a href="/consulting-services/it-process-consulting.html"><span>IT Process Consulting</span></a></li><li class="item28"><a href="/consulting-services/business-process-optimization.html"><span>Business Process Optimization</span></a></li><li class="parent item29"><span class="parentSpan"><a href="/consulting-services/enterprise-mobility-solution.html"><span>Enterprise Mobility Solution</span></a></span><ul><li class="first-child item68"><a href="/consulting-services/iphone-ipad-application-development.html"><span>iOS (iPhone + iPad)</span></a></li><li class="item70"><a href="/consulting-services/android-application-development.html"><span>Android Development</span></a></li><li class="item132"><a href="/consulting-services/windows-8.html"><span>Windows 8</span></a></li><li class="last-child item71"><a href="/consulting-services/windows-mobile-application-development.html"><span>Windows Mobile</span></a></li></ul></li><li class="parent item111"><a href="/consulting-services/offshore-development-center.html"><span>Dedicated Development Center</span></a><ul><li class="first-child item73"><a href="/consulting-services/offshore-development-center.html"><span>Silver ODC</span></a></li><li class="item74"><a href="/consulting-services/silverodc-business-models.html"><span>SilverODC Business Models</span></a></li><li class="last-child item130"><a href="/collaboration-services/services-market-segment.html"><span>Services &amp; Market Segment</span></a></li></ul></li><li class="last-child item129"><a href="/consulting-services/software-asset-management.html"><span>Software Asset Management</span></a></li></ul></li><li class="parent item5"><span class="parentSpan"><a href="/software-services/web-application-development.html"><span>Software Services</span></a></span><ul><li class="parent item30"><span class="parentSpan"><a href="/software-services/web-application-development.html"><span>Application Development</span></a></span><ul><li class="first-child item77"><a href="/software-services/microsoft.html"><span>Microsoft Practice</span></a></li><li class="item78"><a href="/software-services/java.html"><span>JAVA Practice</span></a></li><li class="parent item79"><span class="parentSpan"><a href="/software-services/open-source.html"><span>Open Source Practice</span></a></span><ul><li class="first-child item123"><span class="parentSpan"><a href="http://www.silvertouch.com/JoomlaExtensions" target="_blank"><span>Joomla Extensions</span></a></span></li><li class="last-child item126"><span class="parentSpan"><a href="http://www.silvertouch.com/MagentoExtensions" target="_blank"><span>Magento Extensions</span></a></span></li></ul></li></ul></li><li class="item31"><a href="/software-services/application-support-maintenance.html"><span>Application Support &amp; Maintenance</span></a></li><li class="item32"><a href="/software-services/application-migration-modernization.html"><span>Application Migration &amp; Modernization</span></a></li><li class="parent item33"><span class="parentSpan"><a href="/software-services/product-development.html"><span>Product Development</span></a></span><ul><li class="first-child item80"><a href="/software-services/myhrms.html"><span>MyHRMS</span></a></li><li class="item81"><span class="parentSpan"><a href="http://www.lime-software.com/" target="_blank"><span>LIME</span></a></span></li><li class="last-child item121"><span class="parentSpan"><a href="http://www.silvertouch.mobi/mynino" target="_blank"><span>MyNino</span></a></span></li></ul></li><li class="parent item34"><span class="parentSpan"><a href="/software-services/quality-assurance-testing.html"><span>Quality Assurance &amp; Testing</span></a></span><ul><li class="last-child first-child item131"><a href="/software-services/mobile-application-testing-services.html"><span>Mobile Application Testing Services</span></a></li></ul></li></ul></li><li class="parent item6"><a href="/collaboration-services/enterprise-content-management.html"><span>Collaboration Services</span></a><ul><li class="first-child item35"><a href="/collaboration-services/enterprise-content-management.html"><span>Enterprise Content Management</span></a></li><li class="item36"><a href="/collaboration-services/web-portal-development.html"><span>Portal Development</span></a></li><li class="item37"><a href="/collaboration-services/document-management-system.html"><span>Document Management System</span></a></li><li class="item38"><a href="/collaboration-services/learning-solutions.html"><span>Learning Solutions</span></a></li><li class="last-child item39"><a href="/collaboration-services/unified-communication.html"><span>Unified Communication</span></a></li></ul></li><li class="parent item7"><a href="/packaged-solutions/sap.html"><span>Packaged Solutions</span></a><ul><li class="first-child item16"><a href="/packaged-solutions/sap.html"><span>SAP</span></a></li><li class="parent item17"><span class="parentSpan"><a href="/packaged-solutions/salesforce.html"><span>SalesForce.com</span></a></span><ul><li class="first-child item124"><a href="/packaged-solutions/projects-based-on-verticals.html"><span>Projects Based on Verticals</span></a></li><li class="last-child item125"><a href="/packaged-solutions/team-capabilities.html"><span>Team Capabilities</span></a></li></ul></li><li class="item18"><a href="/packaged-solutions/microsoft-dynamics.html"><span>Microsoft Dynamics</span></a></li><li class="last-child item19"><a href="/packaged-solutions/sharepoint.html"><span>SharePoint</span></a></li></ul></li><li class="parent item8"><a href="/infrastructure-services/it-infrastructure-services.html"><span>Infrastructure Services</span></a><ul><li class="parent item97"><a href="/infrastructure-services/it-infrastructure-services.html"><span>Business Availability Services</span></a><ul><li class="first-child item100"><a href="/infrastructure-services/it-infrastructure-services.html"><span>24x7 NOC</span></a></li><li class="item101"><a href="/infrastructure-services/disaster-recovery.html"><span>Disaster Recovery</span></a></li><li class="item102"><a href="/infrastructure-services/application-migration-and-modernization.html"><span>Application Migration and Modernization</span></a></li><li class="last-child item110"><a href="/infrastructure-services/cloud-computing.html"><span>Cloud Computing</span></a></li></ul></li><li class="parent item98"><a href="/infrastructure-services/security-information-and-event-management.html"><span>Managed Continuity Services</span></a><ul><li class="first-child item103"><a href="/infrastructure-services/security-information-and-event-management.html"><span>Security Information and Event Management</span></a></li><li class="item104"><a href="/infrastructure-services/mail-messaging.html"><span>Mail Messaging</span></a></li><li class="item105"><a href="/infrastructure-services/green-data-center-virtualization.html"><span>Green Data Center (Virtualization)</span></a></li><li class="item106"><a href="/infrastructure-services/strategic-backup-management-data-vaulting-services.html"><span>Strategic Backup Management - Data Vaulting Services</span></a></li><li class="last-child item107"><a href="/infrastructure-services/application-performance-tuning.html"><span>Application Performance Tuning</span></a></li></ul></li><li class="last-child item99"><a href="/infrastructure-services/how-and-whom-we-deliver.html"><span>How and Whom We Deliver</span></a></li></ul></li><li class="parent item9"><a href="/industries/banking-finance.html"><span>Industries</span></a><ul><li class="first-child item46"><a href="/industries/banking-finance.html"><span>Banking &amp; Finance</span></a></li><li class="item47"><a href="/industries/manufacturing.html"><span>Manufacturing</span></a></li><li class="item48"><a href="/industries/travel.html"><span>Travel</span></a></li><li class="item49"><a href="/industries/logistics.html"><span>Logistics</span></a></li><li class="item51"><a href="/industries/healthcare.html"><span>Healthcare</span></a></li><li class="item52"><a href="/industries/online-media.html"><span>Online Media</span></a></li><li class="item53"><a href="/industries/education.html"><span>Education</span></a></li><li class="parent item54"><span class="parentSpan"><a href="/industries/public-sector.html"><span>Public Sector</span></a></span><ul><li class="first-child item82"><a href="/industries/thin-client-computing.html"><span>Thin Client Computing</span></a></li><li class="last-child item83"><a href="/industries/information-kiosks.html"><span>Information Kiosks</span></a></li></ul></li></ul></li><li class="parent item10"><span class="parentSpan"><a href="/resources/resources.html"><span>Resources</span></a></span><ul><li class="first-child item57"><a href="/case-studies/casestudylist.html"><span>Case Studies</span></a></li><li class="item64"><a href="/white-papers/whitepaperlist.html"><span>White Papers</span></a></li><li class="item66"><a href="/testimonials.html"><span>Testimonials</span></a></li><li class="parent item108"><span class="parentSpan"><a href="/career.html"><span>Career</span></a></span><ul><li class="first-child item115"><a href="/resources/work-culture.html"><span>Work Culture</span></a></li><li class="item116"><a href="/resources/employee-events.html"><span>Employee Events</span></a></li><li class="item117"><a href="/resources/training-and-development.html"><span>Training &amp; Development</span></a></li><li class="last-child item118"><a href="/career.html"><span>Current Openings</span></a></li></ul></li><li class="last-child item65"><a href="/resources/contact.html"><span>Contact Us</span></a></li></ul></li><li class="item112"><a href="/privacy-policy.html"><span>Privacy Policy</span></a></li><li class="item113"><a href="/terms-of-use.html"><span>Terms of Use</span></a></li><li class="last-child item114"><a href="/sitemap.htm"><span>Sitemap</span></a></li></ul>
+
+  
+ 	<div class="menuBar"><ul class="menu sf-menu sf-horizontal"><li id="current" class="parent active item1"><span class="parentSpan"><a href="/about-us/at-a-glance.html"><span>About Us</span></a></span><ul><li class="parent item56"><span class="parentSpan"><a href="/about-us/at-a-glance.html"><span>At a Glance</span></a></span><ul><li class="last-child first-child item67"><a href="/about-us/infrastructure.html"><span>Infrastructure</span></a></li></ul></li><li class="item85"><a href="/about-us/bord-directors.html"><span>Board of Directors</span></a></li><li class="item63"><a href="/about-us/quality-policy.html"><span>Quality Policy</span></a></li><li class="item61"><a href="/about-us/alliances.html"><span>Alliances</span></a></li><li class="item62"><a href="/about-us/awards.html"><span>Awards</span></a></li><li class="item109"><a href="/events.html"><span>Events</span></a></li><li class="last-child item120"><a href="/news.html"><span>News</span></a></li></ul></li><li class="parent item4"><a href="/consulting-services/it-process-consulting.html"><span>Consulting Services</span></a><ul><li class="first-child item27"><a href="/consulting-services/it-process-consulting.html"><span>IT Process Consulting</span></a></li><li class="item28"><a href="/consulting-services/business-process-optimization.html"><span>Business Process Optimization</span></a></li><li class="parent item29"><span class="parentSpan"><a href="/consulting-services/enterprise-mobility-solution.html"><span>Enterprise Mobility Solution</span></a></span><ul><li class="first-child item68"><a href="/consulting-services/iphone-ipad-application-development.html"><span>iOS (iPhone + iPad)</span></a></li><li class="item70"><a href="/consulting-services/android-application-development.html"><span>Android Development</span></a></li><li class="item132"><a href="/consulting-services/windows-8.html"><span>Windows 8</span></a></li><li class="last-child item71"><a href="/consulting-services/windows-mobile-application-development.html"><span>Windows Mobile</span></a></li></ul></li><li class="parent item111"><a href="/consulting-services/offshore-development-center.html"><span>Dedicated Development Center</span></a><ul><li class="first-child item73"><a href="/consulting-services/offshore-development-center.html"><span>Silver ODC</span></a></li><li class="item74"><a href="/consulting-services/silverodc-business-models.html"><span>SilverODC Business Models</span></a></li><li class="last-child item130"><a href="/collaboration-services/services-market-segment.html"><span>Services &amp; Market Segment</span></a></li></ul></li><li class="last-child item129"><a href="/consulting-services/software-asset-management.html"><span>Software Asset Management</span></a></li></ul></li><li class="parent item5"><span class="parentSpan"><a href="/software-services/web-application-development.html"><span>Software Services</span></a></span><ul><li class="parent item30"><span class="parentSpan"><a href="/software-services/web-application-development.html"><span>Application Development</span></a></span><ul><li class="first-child item77"><a href="/software-services/microsoft.html"><span>Microsoft Practice</span></a></li><li class="item78"><a href="/software-services/java.html"><span>JAVA Practice</span></a></li><li class="parent item79"><span class="parentSpan"><a href="/software-services/open-source.html"><span>Open Source Practice</span></a></span><ul><li class="first-child item123"><span class="parentSpan"><a href="http://www.silvertouch.com/JoomlaExtensions" target="_blank"><span>Joomla Extensions</span></a></span></li><li class="last-child item126"><span class="parentSpan"><a href="http://www.silvertouch.com/MagentoExtensions" target="_blank"><span>Magento Extensions</span></a></span></li></ul></li></ul></li><li class="item31"><a href="/software-services/application-support-maintenance.html"><span>Application Support &amp; Maintenance</span></a></li><li class="item32"><a href="/software-services/application-migration-modernization.html"><span>Application Migration &amp; Modernization</span></a></li><li class="parent item33"><span class="parentSpan"><a href="/software-services/product-development.html"><span>Product Development</span></a></span><ul><li class="first-child item80"><a href="/software-services/myhrms.html"><span>MyHRMS</span></a></li><li class="item81"><span class="parentSpan"><a href="http://www.lime-software.com/" target="_blank"><span>LIME</span></a></span></li><li class="last-child item121"><span class="parentSpan"><a href="http://www.silvertouch.mobi/mynino" target="_blank"><span>MyNino</span></a></span></li></ul></li><li class="parent item34"><span class="parentSpan"><a href="/software-services/quality-assurance-testing.html"><span>Quality Assurance &amp; Testing</span></a></span><ul><li class="last-child first-child item131"><a href="/software-services/mobile-application-testing-services.html"><span>Mobile Application Testing Services</span></a></li></ul></li></ul></li><li class="parent item6"><a href="/collaboration-services/enterprise-content-management.html"><span>Collaboration Services</span></a><ul><li class="first-child item35"><a href="/collaboration-services/enterprise-content-management.html"><span>Enterprise Content Management</span></a></li><li class="item36"><a href="/collaboration-services/web-portal-development.html"><span>Portal Development</span></a></li><li class="item37"><a href="/collaboration-services/document-management-system.html"><span>Document Management System</span></a></li><li class="item38"><a href="/collaboration-services/learning-solutions.html"><span>Learning Solutions</span></a></li><li class="last-child item39"><a href="/collaboration-services/unified-communication.html"><span>Unified Communication</span></a></li></ul></li><li class="parent item7"><a href="/packaged-solutions/sap.html"><span>Packaged Solutions</span></a><ul><li class="first-child item16"><a href="/packaged-solutions/sap.html"><span>SAP</span></a></li><li class="parent item17"><span class="parentSpan"><a href="/packaged-solutions/salesforce.html"><span>SalesForce.com</span></a></span><ul><li class="first-child item124"><a href="/packaged-solutions/projects-based-on-verticals.html"><span>Projects Based on Verticals</span></a></li><li class="last-child item125"><a href="/packaged-solutions/team-capabilities.html"><span>Team Capabilities</span></a></li></ul></li><li class="item18"><a href="/packaged-solutions/microsoft-dynamics.html"><span>Microsoft Dynamics</span></a></li><li class="last-child item19"><a href="/packaged-solutions/sharepoint.html"><span>SharePoint</span></a></li></ul></li><li class="parent item8"><a href="/infrastructure-services/it-infrastructure-services.html"><span>Infrastructure Services</span></a><ul><li class="parent item97"><a href="/infrastructure-services/it-infrastructure-services.html"><span>Business Availability Services</span></a><ul><li class="first-child item100"><a href="/infrastructure-services/it-infrastructure-services.html"><span>24x7 NOC</span></a></li><li class="item101"><a href="/infrastructure-services/disaster-recovery.html"><span>Disaster Recovery</span></a></li><li class="item102"><a href="/infrastructure-services/application-migration-and-modernization.html"><span>Application Migration and Modernization</span></a></li><li class="last-child item110"><a href="/infrastructure-services/cloud-computing.html"><span>Cloud Computing</span></a></li></ul></li><li class="parent item98"><a href="/infrastructure-services/security-information-and-event-management.html"><span>Managed Continuity Services</span></a><ul><li class="first-child item103"><a href="/infrastructure-services/security-information-and-event-management.html"><span>Security Information and Event Management</span></a></li><li class="item104"><a href="/infrastructure-services/mail-messaging.html"><span>Mail Messaging</span></a></li><li class="item105"><a href="/infrastructure-services/green-data-center-virtualization.html"><span>Green Data Center (Virtualization)</span></a></li><li class="item106"><a href="/infrastructure-services/strategic-backup-management-data-vaulting-services.html"><span>Strategic Backup Management - Data Vaulting Services</span></a></li><li class="last-child item107"><a href="/infrastructure-services/application-performance-tuning.html"><span>Application Performance Tuning</span></a></li></ul></li><li class="last-child item99"><a href="/infrastructure-services/how-and-whom-we-deliver.html"><span>How and Whom We Deliver</span></a></li></ul></li><li class="parent item9"><a href="/industries/banking-finance.html"><span>Industries</span></a><ul><li class="first-child item46"><a href="/industries/banking-finance.html"><span>Banking &amp; Finance</span></a></li><li class="item47"><a href="/industries/manufacturing.html"><span>Manufacturing</span></a></li><li class="item48"><a href="/industries/travel.html"><span>Travel</span></a></li><li class="item49"><a href="/industries/logistics.html"><span>Logistics</span></a></li><li class="item51"><a href="/industries/healthcare.html"><span>Healthcare</span></a></li><li class="item52"><a href="/industries/online-media.html"><span>Online Media</span></a></li><li class="item53"><a href="/industries/education.html"><span>Education</span></a></li><li class="parent item54"><span class="parentSpan"><a href="/industries/public-sector.html"><span>Public Sector</span></a></span><ul><li class="first-child item82"><a href="/industries/thin-client-computing.html"><span>Thin Client Computing</span></a></li><li class="last-child item83"><a href="/industries/information-kiosks.html"><span>Information Kiosks</span></a></li></ul></li></ul></li><li class="parent item10"><span class="parentSpan"><a href="/resources/resources.html"><span>Resources</span></a></span><ul><li class="first-child item57"><a href="/case-studies/casestudylist.html"><span>Case Studies</span></a></li><li class="item64"><a href="/white-papers/whitepaperlist.html"><span>White Papers</span></a></li><li class="item66"><a href="/testimonials.html"><span>Testimonials</span></a></li><li class="parent item108"><span class="parentSpan"><a href="/career.html"><span>Career</span></a></span><ul><li class="first-child item115"><a href="/resources/work-culture.html"><span>Work Culture</span></a></li><li class="item116"><a href="/resources/employee-events.html"><span>Employee Events</span></a></li><li class="item117"><a href="/resources/training-and-development.html"><span>Training &amp; Development</span></a></li><li class="last-child item118"><a href="/career.html"><span>Current Openings</span></a></li></ul></li><li class="last-child item65"><a href="/resources/contact.html"><span>Contact Us</span></a></li></ul></li><li class="item112"><a href="/privacy-policy.html"><span>Privacy Policy</span></a></li><li class="item113"><a href="/terms-of-use.html"><span>Terms of Use</span></a></li><li class="last-child item114"><a href="/sitemap.htm"><span>Sitemap</span></a></li></ul>
 </div>
+
     <div class="menuBar_mobile cf" style="display:none;"><ul class="menu"><li id="current" class="parent active item1"><span class="parentSpan"><a href="/about-us/at-a-glance.html"><span>About Us</span></a></span><ul><li class="parent item56"><span class="parentSpan"><a href="/about-us/at-a-glance.html"><span>At a Glance</span></a></span><ul><li class="item67"><a href="/about-us/infrastructure.html"><span>Infrastructure</span></a></li></ul></li><li class="item85"><a href="/about-us/bord-directors.html"><span>Board of Directors</span></a></li><li class="item63"><a href="/about-us/quality-policy.html"><span>Quality Policy</span></a></li><li class="item61"><a href="/about-us/alliances.html"><span>Alliances</span></a></li><li class="item62"><a href="/about-us/awards.html"><span>Awards</span></a></li><li class="item109"><a href="/events.html"><span>Events</span></a></li><li class="item120"><a href="/news.html"><span>News</span></a></li></ul></li><li class="parent item4"><a href="/consulting-services/it-process-consulting.html"><span>Consulting Services</span></a><ul><li class="item27"><a href="/consulting-services/it-process-consulting.html"><span>IT Process Consulting</span></a></li><li class="item28"><a href="/consulting-services/business-process-optimization.html"><span>Business Process Optimization</span></a></li><li class="parent item29"><span class="parentSpan"><a href="/consulting-services/enterprise-mobility-solution.html"><span>Enterprise Mobility Solution</span></a></span><ul><li class="item68"><a href="/consulting-services/iphone-ipad-application-development.html"><span>iOS (iPhone + iPad)</span></a></li><li class="item70"><a href="/consulting-services/android-application-development.html"><span>Android Development</span></a></li><li class="item132"><a href="/consulting-services/windows-8.html"><span>Windows 8</span></a></li><li class="item71"><a href="/consulting-services/windows-mobile-application-development.html"><span>Windows Mobile</span></a></li></ul></li><li class="parent item111"><a href="/consulting-services/offshore-development-center.html"><span>Dedicated Development Center</span></a><ul><li class="item73"><a href="/consulting-services/offshore-development-center.html"><span>Silver ODC</span></a></li><li class="item74"><a href="/consulting-services/silverodc-business-models.html"><span>SilverODC Business Models</span></a></li><li class="item130"><a href="/collaboration-services/services-market-segment.html"><span>Services &amp; Market Segment</span></a></li></ul></li><li class="item129"><a href="/consulting-services/software-asset-management.html"><span>Software Asset Management</span></a></li></ul></li><li class="parent item5"><span class="parentSpan"><a href="/software-services/web-application-development.html"><span>Software Services</span></a></span><ul><li class="parent item30"><span class="parentSpan"><a href="/software-services/web-application-development.html"><span>Application Development</span></a></span><ul><li class="item77"><a href="/software-services/microsoft.html"><span>Microsoft Practice</span></a></li><li class="item78"><a href="/software-services/java.html"><span>JAVA Practice</span></a></li><li class="parent item79"><span class="parentSpan"><a href="/software-services/open-source.html"><span>Open Source Practice</span></a></span><ul><li class="item123"><span class="parentSpan"><a href="http://www.silvertouch.com/JoomlaExtensions" target="_blank"><span>Joomla Extensions</span></a></span></li><li class="item126"><span class="parentSpan"><a href="http://www.silvertouch.com/MagentoExtensions" target="_blank"><span>Magento Extensions</span></a></span></li></ul></li></ul></li><li class="item31"><a href="/software-services/application-support-maintenance.html"><span>Application Support &amp; Maintenance</span></a></li><li class="item32"><a href="/software-services/application-migration-modernization.html"><span>Application Migration &amp; Modernization</span></a></li><li class="parent item33"><span class="parentSpan"><a href="/software-services/product-development.html"><span>Product Development</span></a></span><ul><li class="item80"><a href="/software-services/myhrms.html"><span>MyHRMS</span></a></li><li class="item81"><span class="parentSpan"><a href="http://www.lime-software.com/" target="_blank"><span>LIME</span></a></span></li><li class="item121"><span class="parentSpan"><a href="http://www.silvertouch.mobi/mynino" target="_blank"><span>MyNino</span></a></span></li></ul></li><li class="parent item34"><span class="parentSpan"><a href="/software-services/quality-assurance-testing.html"><span>Quality Assurance &amp; Testing</span></a></span><ul><li class="item131"><a href="/software-services/mobile-application-testing-services.html"><span>Mobile Application Testing Services</span></a></li></ul></li></ul></li><li class="parent item6"><a href="/collaboration-services/enterprise-content-management.html"><span>Collaboration Services</span></a><ul><li class="item35"><a href="/collaboration-services/enterprise-content-management.html"><span>Enterprise Content Management</span></a></li><li class="item36"><a href="/collaboration-services/web-portal-development.html"><span>Portal Development</span></a></li><li class="item37"><a href="/collaboration-services/document-management-system.html"><span>Document Management System</span></a></li><li class="item38"><a href="/collaboration-services/learning-solutions.html"><span>Learning Solutions</span></a></li><li class="item39"><a href="/collaboration-services/unified-communication.html"><span>Unified Communication</span></a></li></ul></li><li class="parent item7"><a href="/packaged-solutions/sap.html"><span>Packaged Solutions</span></a><ul><li class="item16"><a href="/packaged-solutions/sap.html"><span>SAP</span></a></li><li class="parent item17"><span class="parentSpan"><a href="/packaged-solutions/salesforce.html"><span>SalesForce.com</span></a></span><ul><li class="item124"><a href="/packaged-solutions/projects-based-on-verticals.html"><span>Projects Based on Verticals</span></a></li><li class="item125"><a href="/packaged-solutions/team-capabilities.html"><span>Team Capabilities</span></a></li></ul></li><li class="item18"><a href="/packaged-solutions/microsoft-dynamics.html"><span>Microsoft Dynamics</span></a></li><li class="item19"><a href="/packaged-solutions/sharepoint.html"><span>SharePoint</span></a></li></ul></li><li class="parent item8"><a href="/infrastructure-services/it-infrastructure-services.html"><span>Infrastructure Services</span></a><ul><li class="parent item97"><a href="/infrastructure-services/it-infrastructure-services.html"><span>Business Availability Services</span></a><ul><li class="item100"><a href="/infrastructure-services/it-infrastructure-services.html"><span>24x7 NOC</span></a></li><li class="item101"><a href="/infrastructure-services/disaster-recovery.html"><span>Disaster Recovery</span></a></li><li class="item102"><a href="/infrastructure-services/application-migration-and-modernization.html"><span>Application Migration and Modernization</span></a></li><li class="item110"><a href="/infrastructure-services/cloud-computing.html"><span>Cloud Computing</span></a></li></ul></li><li class="parent item98"><a href="/infrastructure-services/security-information-and-event-management.html"><span>Managed Continuity Services</span></a><ul><li class="item103"><a href="/infrastructure-services/security-information-and-event-management.html"><span>Security Information and Event Management</span></a></li><li class="item104"><a href="/infrastructure-services/mail-messaging.html"><span>Mail Messaging</span></a></li><li class="item105"><a href="/infrastructure-services/green-data-center-virtualization.html"><span>Green Data Center (Virtualization)</span></a></li><li class="item106"><a href="/infrastructure-services/strategic-backup-management-data-vaulting-services.html"><span>Strategic Backup Management - Data Vaulting Services</span></a></li><li class="item107"><a href="/infrastructure-services/application-performance-tuning.html"><span>Application Performance Tuning</span></a></li></ul></li><li class="item99"><a href="/infrastructure-services/how-and-whom-we-deliver.html"><span>How and Whom We Deliver</span></a></li></ul></li><li class="parent item9"><a href="/industries/banking-finance.html"><span>Industries</span></a><ul><li class="item46"><a href="/industries/banking-finance.html"><span>Banking &amp; Finance</span></a></li><li class="item47"><a href="/industries/manufacturing.html"><span>Manufacturing</span></a></li><li class="item48"><a href="/industries/travel.html"><span>Travel</span></a></li><li class="item49"><a href="/industries/logistics.html"><span>Logistics</span></a></li><li class="item51"><a href="/industries/healthcare.html"><span>Healthcare</span></a></li><li class="item52"><a href="/industries/online-media.html"><span>Online Media</span></a></li><li class="item53"><a href="/industries/education.html"><span>Education</span></a></li><li class="parent item54"><span class="parentSpan"><a href="/industries/public-sector.html"><span>Public Sector</span></a></span><ul><li class="item82"><a href="/industries/thin-client-computing.html"><span>Thin Client Computing</span></a></li><li class="item83"><a href="/industries/information-kiosks.html"><span>Information Kiosks</span></a></li></ul></li></ul></li><li class="parent item10"><span class="parentSpan"><a href="/resources/resources.html"><span>Resources</span></a></span><ul><li class="item57"><a href="/case-studies/casestudylist.html"><span>Case Studies</span></a></li><li class="item64"><a href="/white-papers/whitepaperlist.html"><span>White Papers</span></a></li><li class="item66"><a href="/testimonials.html"><span>Testimonials</span></a></li><li class="parent item108"><span class="parentSpan"><a href="/career.html"><span>Career</span></a></span><ul><li class="item115"><a href="/resources/work-culture.html"><span>Work Culture</span></a></li><li class="item116"><a href="/resources/employee-events.html"><span>Employee Events</span></a></li><li class="item117"><a href="/resources/training-and-development.html"><span>Training &amp; Development</span></a></li><li class="item118"><a href="/career.html"><span>Current Openings</span></a></li></ul></li><li class="item65"><a href="/resources/contact.html"><span>Contact Us</span></a></li></ul></li><li class="item112"><a href="/privacy-policy.html"><span>Privacy Policy</span></a></li><li class="item113"><a href="/terms-of-use.html"><span>Terms of Use</span></a></li><li class="item114"><a href="/sitemap.htm"><span>Sitemap</span></a></li></ul></div>
-    <!--menu end here-->
+
+  
+  <!--menu end here-->
+
     </div>
+
   <!--banner start here-->
-    <!--banner end here-->
+
+  
+  <!--banner end here-->
+
   <!--banner start here-->
-    <!--banner end here-->
+
+  
+  <!--banner end here-->
+
      <!--contente area start here-->
+
     <div id="container" class="cf">
-        
+
     
+    
+
+    
+
     	<div class="maincol">
+
         
-               		<div class="breadcrumb"><span class="breadcrumbs pathway">
+
+        
+       		<div class="breadcrumb"><span class="breadcrumbs pathway">
 <a href="http://www.silvertouch.com/" class="pathway">Home</a> <img src="/templates/silvertouch/images/arrow.gif" alt=""> Privacy Policy</span>
 </div>
-             	<div class="contentTop"><div class="contentBg">
+
+       
+      	<div class="contentTop"><div class="contentBg">
+
         	
+
              <div class="mainContentAreaTop"><div class="mainContentArea">
+
             	<div class="contentArea">
+
                 	<div class="contentTL"><div class="contentTR"><div class="contentTB">
+
                     </div></div></div>
+
                     <div class="contentBox">
+
 	            	            
+
   	    				<h1 class="componentheading">
 					Privacy Policy			</h1>
 	 
@@ -392,18 +672,32 @@ jQuery(document).ready(function() {
 
 </tbody></table>
 
+
                     </div>                    
+
            		</div>
+
                 
+
             
+
            
+
     		
+
            
+
             
-	          		<div class="rightSide"><div class="rightTop">
+
+	   
+       		<div class="rightSide"><div class="rightTop">
+
             	<div class="rightTL"><div class="rightTR"><div class="rightTB">
+
                 </div></div></div>
+
                 <div class="rightBox">
+
             			<div class="module">
 			<div>
 				<div>
@@ -411,8 +705,7 @@ jQuery(document).ready(function() {
 											<div class="helpLink">
 <h3>How Can We Help?</h3>
 <div class="contactBox">
-
-<span>+1 201 299 3529</span>
+<span>+91 79 2656 3158</span> <span>+91 79 2640 8802</span>
 
 
 <p>Call us on above and <br> connect quickly with our <br> Representatives OR submit <br> your request by clicking below</p>
@@ -433,12 +726,21 @@ jQuery(document).ready(function() {
 			</div>
 		</div>
 	
+
                 </div>
+
             </div></div>
-              </div></div>
+
+       
+       </div></div>
+
         <div class="leftSide cf">
+
          	
-                           <div class="leftMenuSide"> 
+
+            
+               <div class="leftMenuSide"> 
+
                		<div class="jamod module leftMenu" id="Mod42">
 			<div class="modContentBg">
 												<div class="jamodContent">
@@ -453,7 +755,10 @@ jQuery(document).ready(function() {
 			 </div>
 		</div>
 	</div>
-                                      <div class="leftContentSide">		<div class="jamod module" id="Mod84">
+
+            
+           
+               <div class="leftContentSide">		<div class="jamod module" id="Mod84">
 			<div class="modContentBg">
 												<div class="jamodContent"></div>
 			 </div>
@@ -464,272 +769,735 @@ jQuery(document).ready(function() {
 			 </div>
 		</div>
 	</div>
-                   </div>
+
+           
+        </div>
+
        
+
        </div></div></div>
-         </div>
+
+       
+  </div>
+
   <!--contente area end here-->
+
    
+
 </div>
+
   
+
   <!--footer area start here-->
+
   <div id="footer">
+
   	<div class="footerContainer cf">
-  		       		<div class="footerLinks"><ul class="menu"><li id="current" class="active item3"><span class="parentSpan"><a href="/privacy-policy.html"><span>Privacy Policy</span></a></span></li><li class="item13"><span class="parentSpan"><a href="/terms-of-use.html"><span>Terms of Use</span></a></span></li><li class="item14"><span class="parentSpan"><a href="/sitemap.htm"><span>Sitemap</span></a></span></li><li class="item15"><a href="/resources/contact.html"><span>Contact Us</span></a></li></ul></div>
-                     		<div class="socialBox"><ul>
+
+  		
+       		<div class="footerLinks"><ul class="menu"><li id="current" class="active item3"><span class="parentSpan"><a href="/privacy-policy.html"><span>Privacy Policy</span></a></span></li><li class="item13"><span class="parentSpan"><a href="/terms-of-use.html"><span>Terms of Use</span></a></span></li><li class="item14"><span class="parentSpan"><a href="/sitemap.htm"><span>Sitemap</span></a></span></li><li class="item15"><a href="/resources/contact.html"><span>Contact Us</span></a></li></ul></div>
+
+       
+       
+       		<div class="socialBox"><ul>
 <li class="twitter"><a href="http://twitter.com/sillvertouch" target="_blank" title="Twitter"><span>Twitter</span></a></li>
 <li class="facebook"><a href="http://www.facebook.com/pages/SilverTouch/148185308573158" target="_blank" title="Facebook"><span>Facebook</span></a></li>
 <li class="linkin"><a href="http://www.linkedin.com/companies/silver-touch-technologies-ltd" target="_blank" title="LinkedIn"><span>LinkedIn</span></a></li>
 </ul></div>
-                     		<div class="footerLogo"><p><img src="/images/stories/cmmi-5.gif" border="0" alt="CMMi Level 5 Company" title="CMMi Level 5 Company"></p></div>
-              <div class="isoText">ISO 9001:2008 | ISO 20000:2005 | ISO 27001</div>
+
+       
+       
+       		<div class="footerLogo"><p><img src="/images/stories/cmmi-5.gif" border="0" alt="CMMi Level 5 Company" title="CMMi Level 5 Company"></p></div>
+
+       
+       <div class="isoText">ISO 9001:2008 | ISO 20000:2005 | ISO 27001</div>
+
      <div class="copyright"><p>© 2012 Silver Touch Technologies Ltd</p></div>
+
     </div>
+
   </div>
+
    <!--footer area end here-->
+
+
+
+
+
 
 
 
 
 <script type="text/javascript">  
 
+
+
 var _gaq = _gaq || [];  _gaq.push(['_setAccount', 'UA-135368-36']);  _gaq.push(['_trackPageview']);  (function() {    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);  })();</script>
 
+
+
+
 <form id="frmSample" name="frmSample" method="POST" onsubmit="return ValidateFormcall()">
+
 <!--<div id="tab-nav-3" class="tab-nav">-->
+
 <div id="tab-nav-3" class="tab-nav">
+
   <ul>
+
     <li> <a href="http://www.silvertouch.com/privacy-policy.html"><img src="/templates/silvertouch/callus-images/lady-with-headphone.png" width="99" height="103" alt="" title=""></a>
+
       
+
 	  <ul>
+
         <li class="grey-btn">
-          <div class="please-call">Please Call Us Now <span>+1 201 299 3529</span></div>
+
+          <div class="please-call">Please Call Us Now <span>+1 201 299 3668</span></div>
+
         </li>
+
         <li>
+
           <div class="call-back">Or<br>
+
             Schedule a Call Back</div>
+
         </li>
-		        <li>
+
+		
+        <li>
+
           <div class="forms">
+
             <div class="alignLeft form"><p>Country Code</p>
+
                <select id="countrycode" name="countrycode">
-									<option value="1">1</option>
-									<option value="7">7</option>
-									<option value="20">20</option>
-									<option value="27">27</option>
-									<option value="30">30</option>
-									<option value="31">31</option>
-									<option value="32">32</option>
-									<option value="33">33</option>
-									<option value="34">34</option>
-									<option value="36">36</option>
-									<option value="39">39</option>
-									<option value="40">40</option>
-									<option value="41">41</option>
-									<option value="44">44</option>
-									<option value="45">45</option>
-									<option value="46">46</option>
-									<option value="47">47</option>
-									<option value="48">48</option>
-									<option value="49">49</option>
-									<option value="51">51</option>
-									<option value="52">52</option>
-									<option value="53">53</option>
-									<option value="55">55</option>
-									<option value="56">56</option>
-									<option value="57">57</option>
-									<option value="58">58</option>
-									<option value="60">60</option>
-									<option value="61">61</option>
-									<option value="62">62</option>
-									<option value="63">63</option>
-									<option value="64">64</option>
-									<option value="65">65</option>
-									<option value="66">66</option>
-									<option value="81">81</option>
-									<option value="82">82</option>
-									<option value="84">84</option>
-									<option value="86">86</option>
-									<option value="90">90</option>
-									<option value="91">91</option>
-									<option value="92">92</option>
-									<option value="93">93</option>
-									<option value="94">94</option>
-									<option value="95">95</option>
-									<option value="98">98</option>
-									<option value="212">212</option>
-									<option value="213">213</option>
-									<option value="216">216</option>
-									<option value="218">218</option>
-									<option value="220">220</option>
-									<option value="221">221</option>
-									<option value="222">222</option>
-									<option value="223">223</option>
-									<option value="224">224</option>
-									<option value="226">226</option>
-									<option value="227">227</option>
-									<option value="228">228</option>
-									<option value="229">229</option>
-									<option value="230">230</option>
-									<option value="231">231</option>
-									<option value="232">232</option>
-									<option value="233">233</option>
-									<option value="234">234</option>
-									<option value="235">235</option>
-									<option value="236">236</option>
-									<option value="237">237</option>
-									<option value="238">238</option>
-									<option value="239">239</option>
-									<option value="240">240</option>
-									<option value="241">241</option>
-									<option value="242">242</option>
-									<option value="244">244</option>
-									<option value="245">245</option>
-									<option value="248">248</option>
-									<option value="249">249</option>
-									<option value="251">251</option>
-									<option value="252">252</option>
-									<option value="253">253</option>
-									<option value="254">254</option>
-									<option value="255">255</option>
-									<option value="256">256</option>
-									<option value="257">257</option>
-									<option value="258">258</option>
-									<option value="260">260</option>
-									<option value="261">261</option>
-									<option value="262">262</option>
-									<option value="263">263</option>
-									<option value="264">264</option>
-									<option value="265">265</option>
-									<option value="266">266</option>
-									<option value="267">267</option>
-									<option value="268">268</option>
-									<option value="269">269</option>
-									<option value="290">290</option>
-									<option value="291">291</option>
-									<option value="297">297</option>
-									<option value="298">298</option>
-									<option value="299">299</option>
-									<option value="350">350</option>
-									<option value="351">351</option>
-									<option value="352">352</option>
-									<option value="353">353</option>
-									<option value="354">354</option>
-									<option value="355">355</option>
-									<option value="356">356</option>
-									<option value="357">357</option>
-									<option value="358">358</option>
-									<option value="359">359</option>
-									<option value="370">370</option>
-									<option value="371">371</option>
-									<option value="372">372</option>
-									<option value="373">373</option>
-									<option value="374">374</option>
-									<option value="375">375</option>
-									<option value="376">376</option>
-									<option value="377">377</option>
-									<option value="378">378</option>
-									<option value="380">380</option>
-									<option value="381">381</option>
-									<option value="385">385</option>
-									<option value="386">386</option>
-									<option value="420">420</option>
-									<option value="423">423</option>
-									<option value="500">500</option>
-									<option value="501">501</option>
-									<option value="502">502</option>
-									<option value="503">503</option>
-									<option value="504">504</option>
-									<option value="505">505</option>
-									<option value="506">506</option>
-									<option value="507">507</option>
-									<option value="508">508</option>
-									<option value="509">509</option>
-									<option value="590">590</option>
-									<option value="591">591</option>
-									<option value="592">592</option>
-									<option value="593">593</option>
-									<option value="594">594</option>
-									<option value="595">595</option>
-									<option value="596">596</option>
-									<option value="597">597</option>
-									<option value="598">598</option>
-									<option value="599">599</option>
-									<option value="670">670</option>
-									<option value="673">673</option>
-									<option value="674">674</option>
-									<option value="675">675</option>
-									<option value="676">676</option>
-									<option value="677">677</option>
-									<option value="678">678</option>
-									<option value="679">679</option>
-									<option value="680">680</option>
-									<option value="682">682</option>
-									<option value="683">683</option>
-									<option value="684">684</option>
-									<option value="685">685</option>
-									<option value="686">686</option>
-									<option value="687">687</option>
-									<option value="688">688</option>
-									<option value="689">689</option>
-									<option value="690">690</option>
-									<option value="692">692</option>
-									<option value="852">852</option>
-									<option value="853">853</option>
-									<option value="855">855</option>
-									<option value="856">856</option>
-									<option value="880">880</option>
-									<option value="960">960</option>
-									<option value="961">961</option>
-									<option value="962">962</option>
-									<option value="963">963</option>
-									<option value="964">964</option>
-									<option value="965">965</option>
-									<option value="966">966</option>
-									<option value="967">967</option>
-									<option value="968">968</option>
-									<option value="971">971</option>
-									<option value="972">972</option>
-									<option value="973">973</option>
-									<option value="974">974</option>
-									<option value="975">975</option>
-									<option value="976">976</option>
-									<option value="977">977</option>
-									<option value="987">987</option>
-									<option value="992">992</option>
-									<option value="993">993</option>
-									<option value="994">994</option>
-									<option value="995">995</option>
-									<option value="998">998</option>
-				                </select>
+
+				
+					<option value="1">1</option>
+
+				
+					<option value="7">7</option>
+
+				
+					<option value="20">20</option>
+
+				
+					<option value="27">27</option>
+
+				
+					<option value="30">30</option>
+
+				
+					<option value="31">31</option>
+
+				
+					<option value="32">32</option>
+
+				
+					<option value="33">33</option>
+
+				
+					<option value="34">34</option>
+
+				
+					<option value="36">36</option>
+
+				
+					<option value="39">39</option>
+
+				
+					<option value="40">40</option>
+
+				
+					<option value="41">41</option>
+
+				
+					<option value="44">44</option>
+
+				
+					<option value="45">45</option>
+
+				
+					<option value="46">46</option>
+
+				
+					<option value="47">47</option>
+
+				
+					<option value="48">48</option>
+
+				
+					<option value="49">49</option>
+
+				
+					<option value="51">51</option>
+
+				
+					<option value="52">52</option>
+
+				
+					<option value="53">53</option>
+
+				
+					<option value="55">55</option>
+
+				
+					<option value="56">56</option>
+
+				
+					<option value="57">57</option>
+
+				
+					<option value="58">58</option>
+
+				
+					<option value="60">60</option>
+
+				
+					<option value="61">61</option>
+
+				
+					<option value="62">62</option>
+
+				
+					<option value="63">63</option>
+
+				
+					<option value="64">64</option>
+
+				
+					<option value="65">65</option>
+
+				
+					<option value="66">66</option>
+
+				
+					<option value="81">81</option>
+
+				
+					<option value="82">82</option>
+
+				
+					<option value="84">84</option>
+
+				
+					<option value="86">86</option>
+
+				
+					<option value="90">90</option>
+
+				
+					<option value="91">91</option>
+
+				
+					<option value="92">92</option>
+
+				
+					<option value="93">93</option>
+
+				
+					<option value="94">94</option>
+
+				
+					<option value="95">95</option>
+
+				
+					<option value="98">98</option>
+
+				
+					<option value="212">212</option>
+
+				
+					<option value="213">213</option>
+
+				
+					<option value="216">216</option>
+
+				
+					<option value="218">218</option>
+
+				
+					<option value="220">220</option>
+
+				
+					<option value="221">221</option>
+
+				
+					<option value="222">222</option>
+
+				
+					<option value="223">223</option>
+
+				
+					<option value="224">224</option>
+
+				
+					<option value="226">226</option>
+
+				
+					<option value="227">227</option>
+
+				
+					<option value="228">228</option>
+
+				
+					<option value="229">229</option>
+
+				
+					<option value="230">230</option>
+
+				
+					<option value="231">231</option>
+
+				
+					<option value="232">232</option>
+
+				
+					<option value="233">233</option>
+
+				
+					<option value="234">234</option>
+
+				
+					<option value="235">235</option>
+
+				
+					<option value="236">236</option>
+
+				
+					<option value="237">237</option>
+
+				
+					<option value="238">238</option>
+
+				
+					<option value="239">239</option>
+
+				
+					<option value="240">240</option>
+
+				
+					<option value="241">241</option>
+
+				
+					<option value="242">242</option>
+
+				
+					<option value="244">244</option>
+
+				
+					<option value="245">245</option>
+
+				
+					<option value="248">248</option>
+
+				
+					<option value="249">249</option>
+
+				
+					<option value="251">251</option>
+
+				
+					<option value="252">252</option>
+
+				
+					<option value="253">253</option>
+
+				
+					<option value="254">254</option>
+
+				
+					<option value="255">255</option>
+
+				
+					<option value="256">256</option>
+
+				
+					<option value="257">257</option>
+
+				
+					<option value="258">258</option>
+
+				
+					<option value="260">260</option>
+
+				
+					<option value="261">261</option>
+
+				
+					<option value="262">262</option>
+
+				
+					<option value="263">263</option>
+
+				
+					<option value="264">264</option>
+
+				
+					<option value="265">265</option>
+
+				
+					<option value="266">266</option>
+
+				
+					<option value="267">267</option>
+
+				
+					<option value="268">268</option>
+
+				
+					<option value="269">269</option>
+
+				
+					<option value="290">290</option>
+
+				
+					<option value="291">291</option>
+
+				
+					<option value="297">297</option>
+
+				
+					<option value="298">298</option>
+
+				
+					<option value="299">299</option>
+
+				
+					<option value="350">350</option>
+
+				
+					<option value="351">351</option>
+
+				
+					<option value="352">352</option>
+
+				
+					<option value="353">353</option>
+
+				
+					<option value="354">354</option>
+
+				
+					<option value="355">355</option>
+
+				
+					<option value="356">356</option>
+
+				
+					<option value="357">357</option>
+
+				
+					<option value="358">358</option>
+
+				
+					<option value="359">359</option>
+
+				
+					<option value="370">370</option>
+
+				
+					<option value="371">371</option>
+
+				
+					<option value="372">372</option>
+
+				
+					<option value="373">373</option>
+
+				
+					<option value="374">374</option>
+
+				
+					<option value="375">375</option>
+
+				
+					<option value="376">376</option>
+
+				
+					<option value="377">377</option>
+
+				
+					<option value="378">378</option>
+
+				
+					<option value="380">380</option>
+
+				
+					<option value="381">381</option>
+
+				
+					<option value="385">385</option>
+
+				
+					<option value="386">386</option>
+
+				
+					<option value="420">420</option>
+
+				
+					<option value="423">423</option>
+
+				
+					<option value="500">500</option>
+
+				
+					<option value="501">501</option>
+
+				
+					<option value="502">502</option>
+
+				
+					<option value="503">503</option>
+
+				
+					<option value="504">504</option>
+
+				
+					<option value="505">505</option>
+
+				
+					<option value="506">506</option>
+
+				
+					<option value="507">507</option>
+
+				
+					<option value="508">508</option>
+
+				
+					<option value="509">509</option>
+
+				
+					<option value="590">590</option>
+
+				
+					<option value="591">591</option>
+
+				
+					<option value="592">592</option>
+
+				
+					<option value="593">593</option>
+
+				
+					<option value="594">594</option>
+
+				
+					<option value="595">595</option>
+
+				
+					<option value="596">596</option>
+
+				
+					<option value="597">597</option>
+
+				
+					<option value="598">598</option>
+
+				
+					<option value="599">599</option>
+
+				
+					<option value="670">670</option>
+
+				
+					<option value="673">673</option>
+
+				
+					<option value="674">674</option>
+
+				
+					<option value="675">675</option>
+
+				
+					<option value="676">676</option>
+
+				
+					<option value="677">677</option>
+
+				
+					<option value="678">678</option>
+
+				
+					<option value="679">679</option>
+
+				
+					<option value="680">680</option>
+
+				
+					<option value="682">682</option>
+
+				
+					<option value="683">683</option>
+
+				
+					<option value="684">684</option>
+
+				
+					<option value="685">685</option>
+
+				
+					<option value="686">686</option>
+
+				
+					<option value="687">687</option>
+
+				
+					<option value="688">688</option>
+
+				
+					<option value="689">689</option>
+
+				
+					<option value="690">690</option>
+
+				
+					<option value="692">692</option>
+
+				
+					<option value="852">852</option>
+
+				
+					<option value="853">853</option>
+
+				
+					<option value="855">855</option>
+
+				
+					<option value="856">856</option>
+
+				
+					<option value="880">880</option>
+
+				
+					<option value="960">960</option>
+
+				
+					<option value="961">961</option>
+
+				
+					<option value="962">962</option>
+
+				
+					<option value="963">963</option>
+
+				
+					<option value="964">964</option>
+
+				
+					<option value="965">965</option>
+
+				
+					<option value="966">966</option>
+
+				
+					<option value="967">967</option>
+
+				
+					<option value="968">968</option>
+
+				
+					<option value="971">971</option>
+
+				
+					<option value="972">972</option>
+
+				
+					<option value="973">973</option>
+
+				
+					<option value="974">974</option>
+
+				
+					<option value="975">975</option>
+
+				
+					<option value="976">976</option>
+
+				
+					<option value="977">977</option>
+
+				
+					<option value="987">987</option>
+
+				
+					<option value="992">992</option>
+
+				
+					<option value="993">993</option>
+
+				
+					<option value="994">994</option>
+
+				
+					<option value="995">995</option>
+
+				
+					<option value="998">998</option>
+
+				
+                </select>
+
             </div>
+
             <div class="alignLeft form"><p>Phone Number</p>
+
                  <input type="text" id="txtPhone" name="txtPhone" onfocus="if(this.value=='11 12335462'){this.value=''};" onblur="if(this.value==''){this.value=''};" maxlength="10">
+
             </div>
+
           </div>
+
 		  <div class="forms">
-								<div class="odcCaptcha cf">
+
+				
+				<div class="odcCaptcha cf">
+
 					<label class="form">Security Code</label>
+
 					<div class="odcInputBoxCaptcha"><input type="text" class="inputbox alignLeft" name="bcaptcha_odc" id="bcaptcha_odc" size="6" maxlength="6"></div>
-					<img src="/secure_check_feedback.php?captex=35831" alt="Verification Code" title="Verification Code">
+
+					<img src="/secure_check_feedback.php" alt="Verification Code" title="Verification Code">
+
 					<span id="bcaptchaodc_error"></span>
+
 				</div>
+
 		  </div>
+
 		  
+
         </li>
+
 		 <li>
-		 <input type="hidden" name="org_captcha_odc" id="org_captcha_odc" value="35831">
+
+		
+
 		  <input type="hidden" name="form_id" value="18">
+
 		  <input type="hidden" name="form_name" value="callus">
+
 		  <input type="hidden" name="form_method" value="post">
+
 		   <input type="hidden" name="referrer" value="http://www.silvertouch.com/privacy-policy.html">
+
 		  <input class="form-btn" type="submit" value="" id="contact_submit" name="contact_submit">
+
 		</li>
+
       </ul>
+
 	
+
     </li>
+
   </ul>
+
 </div>
+
    </form>
 
 
@@ -737,6 +1505,17 @@ var _gaq = _gaq || [];  _gaq.push(['_setAccount', 'UA-135368-36']);  _gaq.push([
 
 
 
+
+
+
+
+
+
+
+
+
 	
+
+
 
 </body></html>
