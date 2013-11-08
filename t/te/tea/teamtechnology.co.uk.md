@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the teamtechnology.co.uk privacy policy that was archived on 2012-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121108151412id_/http%3A//www.teamtechnology.co.uk/metarasa/info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teamtechnology.co.uk privacy policy that was archived on 2013-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131108193305id_/http%3A//www.teamtechnology.co.uk/privacy.html) for the most accurate reproduction.*
 
-# privacy policy
+# Team Technology Privacy Policy
 
 ### Overview
 
@@ -14,7 +14,7 @@ Any information you provide is used only to operate this website and provide you
 
 ### Detail
 
-This is the privacy policy that is in operation at <http://www.teamtechnology.co.uk>. It sets out how we use your information. If you have any questions about this privacy policy please contact us using the menus at the top of the page. By using the website and giving your information to us you are deemed to have accepted the terms of this privacy policy.
+This is the privacy policy that is in operation at www.teamtechnology.co.uk. It sets out how we use your information. If you have any questions about this privacy policy please contact us using the menus at the top of the page. By using the website and giving your information to us you are deemed to have accepted the terms of this privacy policy.
 
 ### Information we Collect About You
 
@@ -50,8 +50,10 @@ We use cookies to hold some of your information - a cookie is a piece of informa
 
 You may set your internet browser to reject cookies. However, if you do so you may not be able to use all of the functions of the website - e.g., you will not be able to transfer your questionnaire results into the Facebook App.
 
-Google, as a third party vendor, also uses cookies so they can serve appropriate ads to you based on your visits to this site and other sites on the Internet. You may opt out of Google’s cookie system at their website, for example see: <http://www.google.co.uk/privacy_cookies.html>. We also use Google Analytics to provide anonymous information about how our website is used.
+Google, as a third party vendor, also uses cookies so they can serve appropriate ads to you based on your visits to this site and other sites on the Internet. You may opt out of Google�s cookie system at their website, for example see: <http://www.google.co.uk/policies/privacy/>. We also use Google Analytics to provide anonymous information about how our website is used.
 
 ### General
 
 English Law applies to this privacy policy.  Any dispute will be heard by the English courts. You are deemed to have accepted this when you use the website.
+
+[](http://www.teamtechnology.co.uk/personality/test/mmdi/)
