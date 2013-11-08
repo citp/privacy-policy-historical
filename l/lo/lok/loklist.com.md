@@ -1,9 +1,6 @@
-> *The following text is extracted and transformed from the loklist.com privacy policy that was archived on 2013-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130630011650id_/http%3A//www.loklist.com/index.php%3Fa%3D28%26b%3D145) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the loklist.com privacy policy that was archived on 2013-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131108230859id_/http%3A//www.loklist.com/index.php%3Fa%3D28%26b%3D145) for the most accurate reproduction.*
 
 # 
-
-You can change the text for this page by accessing the following menu in the admin panel:  
-Design > Templates > main_page > extra_pages
 
 Your privacy is very important to us. Accordingly, we have developed this Policy in order for you to understand how we collect, use, communicate and disclose and make use of personal information. The following outlines our privacy policy. 
 
