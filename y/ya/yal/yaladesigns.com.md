@@ -1,0 +1,17 @@
+> *The following text is extracted and transformed from the yaladesigns.com privacy policy that was archived on 2013-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131108060204id_/http%3A//www.yaladesigns.com/customer-care/our-thoughts-on-privacy) for the most accurate reproduction.*
+
+# Our Thoughts On Privacy
+
+Yala Designs respects your privacy.
+
+We understand and share your concern about privacy. We want to assure you that Yala Designs respects your privacy. We do collect passive information on products browsed via log files and we analyze this information in aggregate to ensure our site is merchandised in a manner that adds the most convenience and value to our customers. When an order is placed, we collect basic information including your name, home address, phone, email address and credit card information. We use this information to confirm your order and to respond to any questions you may have. Where required, we also share this information with certain intermediaries (Freight carriers, shipping companies and Product Manufacturers) strictly to process and ship your order.
+
+In return for making a purchase or registering at our site, we offer to keep you informed of new and ongoing benefits, exclusive sales and promotions and other customer-only benefits. We appreciate any additional, optional information you are willing to share with us. This optional information helps us tailor your experience at our site, showing you content that we think might be interesting to you. Depending on the information you give us, we will also provide you with relevant information, gift ideas, and other special offers.
+
+Yala Designs has security measures in place to protect the loss, misuse and alteration of the information that we collect. We utilize a firewall and use SSL encryption to keep this information secure. We use your Internet protocol address to help identify you and your shopping cart, and to gather broad demographic information. Our site uses cookies to keep track of the items in your shopping cart so you don't have to re-enter them each time you visit.
+
+Acceptance of cookies is not a requirement to browse our website.  However our shopping cart does require the acceptance of cookies to work properly. Cookies are never used to store sensitive customer information such as names, addresses, passwords or credit card numbers. If you would like to place an order on our site but object to or otherwise are unable to use cookies, please feel free to place your order via our toll free number: 1-800-670-7661.
+
+There are several 'e-mail to a friend' features on our site that allow you to easily share product or other valuable information with your friends. Any e-mails provided to us in the use of these features are used solely for direction of the e-mail communication. These e-mails are not retained in our database nor are they used for any other communication other than for the purpose they are originally solicited for.
+
+If we decide to change our privacy policy in whole or in part, we will inform you by posting a notice on our website. Those changes will go into effect on the date posted in the notice and will apply to all users of our website. The effective date of this revised Privacy Policy is as of January 1st, 2011. If you have further questions about Yala Design's privacy policy or have other comments on how we can improve the Yala Design shopping experience, please do not hesitate to email our customer service team. We always enjoy hearing from you!
