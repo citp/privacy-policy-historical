@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the sudobits.com privacy policy that was archived on 2011-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111217154805id_/http%3A//blog.sudobits.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sudobits.com privacy policy that was archived on 2013-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131108071325id_/http%3A//blog.sudobits.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | Sudobits Blog | Open Source
 
-**If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at rkjha@sudobits.com.**
+## Our Privacy Policy
+
+**If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at rameshjha420@gmail.com**
 
 **What is privacy policy?**  
 At http://blog.sudobits.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by www.blog.sudobits.com and how it is used.
