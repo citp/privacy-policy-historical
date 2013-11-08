@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the consumeractiongroup.co.uk privacy policy that was archived on 2013-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130615020320id_/http%3A//www.consumeractiongroup.co.uk/forum/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the consumeractiongroup.co.uk privacy policy that was archived on 2013-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131108192827id_/http%3A//www.consumeractiongroup.co.uk/forum/privacy-policy.php) for the most accurate reproduction.*
 
 # - The Consumer Forums
 
@@ -17,15 +17,6 @@ Written by John Kruse, one of the leading experts on Bailiff Law, this consumer 
 The book is easy to understand and clearly explains the rights a bailiff has, and also what they cannot do when collecting debts and repossessing goods etc.
 
 £13.95 + £2.00 (P&P)
-
-[Reclaim the Right Ltd. - reg. 05783665 in the UK
-
-reg. office:  
-923 Finchley Road  
-London   
-NW11 7PE
-
-](http://www.consumeractiongroup.co.uk/forum/feedback.php)
 
 | 
     
@@ -155,9 +146,6 @@ NW11 7PE
     Effective Date: July  05, 2006
     
 
-consumeractiongroup.co.uk   
-[](http://www.consumersniper.com/)
-
-[Reclaim the Right Ltd. - reg.05783665 in the UK reg. office:- 923 Finchley Road London NW11 7PE](http://www.consumeractiongroup.co.uk/forum/feedback.php)  
   
+[Reclaim the Right Ltd. - reg.05783665 in the UK reg. office:- 923 Finchley Road London NW11 7PE](http://www.consumeractiongroup.co.uk/forum/feedback.php)  
 ---|---
