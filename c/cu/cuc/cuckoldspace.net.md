@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cuckoldspace.net privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601200925id_/http%3A//www.cuckoldspace.net/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cuckoldspace.net privacy policy that was archived on 2013-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131108015136id_/http%3A//www.cuckoldspace.net/policy) for the most accurate reproduction.*
 
 # Privacy Policy » Cuckoldspace The Original Cuckold Community
 
