@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bust.com privacy policy that was archived on 2013-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130628190938id_/http%3A//www.bust.com/info/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bust.com privacy policy that was archived on 2013-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131108160615id_/http%3A//www.bust.com/info/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Info
 
