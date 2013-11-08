@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hudforeclosed.com privacy policy that was archived on 2013-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130509024127id_/http%3A//www.hudforeclosed.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hudforeclosed.com privacy policy that was archived on 2013-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131108153942id_/http%3A//www.hudforeclosed.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | HUD Homes, Government Foreclosures and Cheap Homes for Sale
 
