@@ -1,109 +1,133 @@
-> *The following text is extracted and transformed from the psychiatrictimes.com privacy policy that was archived on 2007-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071125220230id_/http%3A//www.cmp.com/delivery/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the psychiatrictimes.com privacy policy that was archived on 2013-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131108092200id_/http%3A//imaging.cmpmedica.com/all/UBMMedica_Privacy_Statement.html) for the most accurate reproduction.*
 
-# 
+# PRIVACY STATEMENT UBM MEDICA LLC
 
-| 
+**PRIVACY STATEMENT** **  
+****UBM MEDICA LLC  
+**_Effective: June 11, 2012_
 
-[Home](https://web.archive.org/index.jhtml)> Privacy Statement
+UBM Medica LLC ("UBM Medica") offers conferences, medical information, and related offerings to medical professionals. We publish this privacy policy to let you know what data we collect about you as an individual professional, how we use that data, and what choices you have. 
 
-|   
----|---  
-  
-## CMP PRIVACY STATEMENT 
+This privacy policy covers all "personal" data we collect about you from face to face and virtual conferences and meetings, websites, email campaigns, and print publications. "Personal" data means data which identifies you as an individual and reflects your individual use of our products and services. It is data about you as a medical professional. Please note that a separate privacy policy covers our websites directed to consumers. If you are uncertain about which privacy policy applies to a particular website or web page, consult the privacy link at the bottom of the web page.
 
-_Last Updated: October 11, 2007 _
+Please note that you may choose to publish your personal information and your views in various of our online venues, for example, online communities, forums or virtual events. This Policy does not protect your public disclosures.
 
-CMP MEDIA LLC and its affiliates CME LLC, CMP HEALTHCARE MEDIA LLC, CMP HEALTHCARE MEDIA GROUP LLC, (collectively referred to in this Privacy Statement as "we" or "CMP") recognize the importance of protecting the privacy of all information provided by users of our web sites, subscribers to our magazines, registrants for our events, recipients of our e-mail newsletters and all other customers of our products and services. We created this policy with a fundamental respect for our customers' right to privacy and to guide our relationships with our customers. This Privacy Statement discloses the privacy practices for all products and services owned by CMP. A current list of our publications, web sites, online webcasts, newsletters and trade shows can be found on the [CMP.com](http://www.cmp.com/products/cmp_brands_usa.jhtml).
+**Information We Collect About You** **  
+** We collect the following data about you:
 
-**INFORMATION COLLECTION AND USE**  
-CMP collects information from our website users, subscribers and other customers. In this section of our Privacy Statement, we describe the type of information we collect and how we use it to provide better services to our customers.
+  * Information you give us about yourself, including data about your professional credentials and practice, when you register for or subscribe to any of our events, services or resources, register with us through a UBM Medica Network site or contact us directly. We may use medical or other databases to update or complete certain information about you. 
+  * If you are a medical doctor, we may ask the American Medical Association to verify your medical credentials. For more information about the AMA's own privacy practices, please click <http://www.ama-assn.org/ama/pub/footer/privacy-policy.shtml>. 
+  * Once you register we create an account for you, adding data about how you use and interact with our events, products, services, resources and email campaigns. 
 
-**Registration and Ordering**   
-When attending our trade shows and other in-person events, participating in our customer-sponsored webcasts, using some of our websites and signing up for certain selected services (such as free subscriptions), users must first register. During registration, users are required to give their contact information (such as name, e-mail address, mailing address and phone number). For internal purposes, we use this information to communicate with users and provide requested services, and, for our website visitors, to provide a more personalized experience on our sites. We also may collect information about a user's professional responsibilities (such as job title, purchasing responsibilities, company information and professional certification). We use such information to improve our service, for marketing purposes and/or for industry reporting purposes.
 
-Many of our products and services are free to subscribers who meet certain demographic criteria. Independent auditors may need to certify the eligibility of these subscribers. In order to do that, we may collect unique identifiers (such as mother's maiden name) that we disclose to the auditors strictly for industry reporting and audit verification purposes. 
 
-For our services that require payment (such as certain events, products and subscriptions), we also collect credit card information (such as account name, number and expiration date), which is used for our or our agent's billing purposes only, and is not otherwise shared. 
+We also use common Internet data collection technologies to collect data: We use "cookies" and associated web beacons. A cookie is simply a piece of code which is placed on your personal computer to recognize the computer as it accesses our websites. Many cookies are not "personal" cookies in that they are not associated with you as an identified individual. 
 
-**E-mail Newsletters**   
-If users wish to subscribe to our e-mail newsletters, we ask for contact information (such as name, e-mail address and phone number) and information about the subscriber's professional interests and responsibilities. We use this information in the same manner as we use contact information in the registration and ordering process described above. Recipients of our newsletters can unsubscribe using the instructions listed at the end of the e-mail newsletter. 
+  * We recognize or verify who is accessing our websites or content areas that require registration and so, may place "personal" cookies on your pc. We may also use this cookie to understand your interests and put you in touch with third parties that we expect will have additional information relevant to your interests. 
+  * Some but not all of our websites include online advertising. Cookies are also used to serve such advertising or content. We may display ads on our own sites on a personally identifiable basis. We allow other companies, called third party ad servers, to serve ads that appear on our sites as well. Please see the information under ["Your Choices"](http://imaging.ubmmedica.com/all/UBMMedica_Privacy_Statement.html#choices) for details about online advertising. 
 
-**Surveys and Contests**  
-From time to time we invite web site users and other customers to provide information via surveys or contests. Participation in these surveys or contests is completely voluntary and the website user or other customer therefore has a choice whether to disclose requested contact information (such as name and mailing address) and demographic information (such as zip code or job title). In addition to the other uses set forth in this policy, contact information collected in connection with surveys and contests is used to notify the winners and award prizes and to monitor or improve the use of, and satisfaction with the website or other CMP product or service. Subject to the given customer's preferences (as described in the "Preferences" section below), such information also may be shared with third party sponsors of such surveys or contests. 
 
-**Interactive Features**   
-At some of our sites, we offer interactive and community features such as discussion boards and user profiles. Note that all personal information sent or posted via such features becomes public information for which we are not responsible. 
 
-**Tell-A-Friend**   
-If customers elect to use our referral service for informing a friend about our sites and services, we may ask them for the friend's name, job title and e-mail address. CMP will store and use this information to send the friend an invitation. This information may also be used to provide information about our company and related products and services. The friend may contact us as specified in the tell-a-friend message to request that no further communications be sent. 
+Finally, we collect log data, including IP, or Internet Protocol, addresses used to access our websites, and other routine information about your browser and pc capabilities. We use this data to administer our systems. We or third party ad servers may use the information to limit the number of times you see a particular ad, to target information or ads on a geographic basis or to display ads in the format best matched to your pc's capabilities. We do not associate this log and technical capabilities data with your account in the routine course of our business.
 
-**Communications with Us**   
-We have features where our customers can submit information to us (such as our feedback forms). Where such submissions include requests for service, support or information, we may forward them to our agents, as needed, to best respond to the specific request. In addition, we may retain e-mails and other information sent to us for our internal administrative purposes and to help us to serve customers better. Please note that letters to the editor and similar submissions may be made public. 
+**How We Use Information About You** **  
+** Our primary business is to organize events and communities and provide respected information for medical professionals. We use data about you as an individual medical professional to:
 
-**Communications from Us: Service Updates, Special Offers**   
-In order to best serve our customers, we may send updates that contain important information about our products and services. For example, we send new members a welcoming message and verify password and username for our password-protected web sites. We may also communicate with a customer to provide requested services and for account-related issues via e-mail, phone or regular mail. In addition to such service and product-essential messages, we offer our customers the option to receive information about our company, related products, services and special deals. Users, however, can choose not to receive these communications from us, as set forth in the "Preferences" section below.
+  * Provide the events, services, and resources you request and manage your account. 
+  * Manage the services, particularly registration for certain websites, that require us to know who you are when you are online. 
+  * Display or deliver content, ours and other companies’, to you based on your professional needs and interests. 
+  * Contact you by email and postal mail about offerings from our business partners directed to your professional interests and areas of specialization. Please note that these emails may list either us or the partner in the "from" line. In either case, your name and contact information are not disclosed to the partner unless and until you contact or respond to the partner directly. 
+  * Invite you to participate in surveys and professional discussions. 
+  * Virtual Trade Shows: The platforms that UBM Medica uses to provide virtual trade shows will place a session cookie on your personal computer when you register for the event. We connect this session cookie with the registration information you provide to us for the event. The cookie is used to manage participation in the event, for certain other purposes, including if you choose to participate in our contests, and to track your visits if you choose to visit exhibitors’ booths or special sponsored sessions. If you disable or delete the session cookie, you will be bounced from the event. UBM Medica may also pass your registration data to any exhibitor if you visit that exhibitor's booth or sponsored section. 
+  * To offer you the opportunity to connect with your colleagues and with other companies that may be of interest to you. 
+  * Any other purpose which we disclose when you give the information to us. 
 
-**Automatic Data Collection**  
-Our web sites, newsletters and, from time to time, certain other products and services have features that automatically collect information from customers, to deliver content specific to customers' interests and to honor their preferences. This information assists us in creating products and services that will serve the needs of our customers. 
 
-For example, we use "cookies," a piece of data stored on the user's hard drive containing information about the user. Cookies benefit the user by requiring login only once, thereby saving time while on our web site. If users reject the cookies, they may be limited in the use of some areas of our web site. For example, the user may not be able to participate in sweepstakes, contests or drawings. Additionally, we may note some of the pages the user visits on our web sites and via our email newsletters through the use of pixel tags (also called clear gifs) and web beacons. The use of cookies, pixels and web beacons enable us to track and target the interests of our users to enhance the experience on our sites and via our email newsletters. 
 
-In addition, some of our business affiliates use cookies on our web sites and in our email newsletters, in ads or promotions. However, we have no access to or control over these business affiliates' cookies; we urge users to read their privacy policies for information. In particular, we use third-party advertising technology to serve ads for CMP products and services when you visit certain CMP Web sites. This technology uses information about your visits to these CMP Web sites (not including your name, address, or other personal information), to serve our ads to you. In the course of serving our advertisements to you, a unique third-party cookie may be placed or recognized on your browser. In addition, we use web beacons, provided by our ad serving partner, to help manage our online advertising for CMP products and services. These web beacons enable our ad server to recognize a browser's cookie when a browser visits these sites and to learn which banner ads bring users to our Web sites. The information used in this process is not personally identifiable. To learn more about our third party ad serving partner, cookies, and how to "opt-out," please {[click here](http://www.doubleclick.com/us/about_doubleclick/privacy/)}.
+**Your Choices**  
+You have a choice about and control over
 
-We allow advertisers to use third party ad servers to display ads on our sites.  These third party ad servers may set and recognize their cookies on your pc.  They may collect standard information about your browser and system and use that data, along with your IP address, to manage ad frequency and serve ads in a format most compatible with your system.
+**Connecting directly with other companies for marketing purposes.  ** **  
+** In addition to providing you with our own editorial content, we offer you the opportunity to access others’ branded content and product information. When you choose to take advantage of that content or information, you choose to have your name and contact details transferred to that other company. We will put you in direct contact with other companies when you choose to:
 
-In addition, we authorize TACODA, Inc. to set and access its cookies on CMP's sites.  TACODA tracks and analyzes behavior on a unique but non personal basis.  They provide us with aggregate reports so that we can understand how our users visit and use our sites.  For more information about TACODA's privacy practices, including how to opt out of their cookies, please visit <http://www.tacoda.com/notice/privacy_policy.html>.
+  * Access sponsored or co-sponsored content on those portions of our web sites that require registration. 
+  * Register for a specific web cast, online event, newsletter, online resource, or other offering which is sponsored or co-sponsored by another company. 
+  * Register for a virtual event with a number of exhibitors. We may give your name and contact details to all exhibitors and give the exhibitors whose booths and resources you access a record of your visits. 
+  * Register for or attend a special sponsored sessions at a face to face event. 
 
-We also use an email delivery and marketing company to send emails, including newsletters, for which you have registered (or otherwise agreed to receive). Web beacons and cookies may be used in such email messages to help us measure the effectiveness of our advertising and how customers use our web sites, services and other products. 
 
-For our internal purposes, we gather date, time, browser type, navigation history and IP address of all visitors to our web sites. We use this information for our internal security audit log, trend analysis and system administration, and to gather broad information about our user base.
 
-We may combine information supplied by a customer at registration with web site usage data to learn more about users and their preferences in the content of the site. We may use this information to tailor services to your interests or to contact you about offers from our business associates which may be of interest to you. We do not disclose this information to third parties.
+Please note:  Sponsors may ask us to display their ads targeted to you on our web sites. In those instances, you may choose whether to respond by clicking on the link within the ad. Clicking on that link will connect you directly to the sponsor’s web pages and information.  
+Please note: career fairs, whether face to face or online, may be covered by a separate policy or policies.
 
-**WITH WHOM YOUR INFORMATION IS SHARED**   
-When you register for co-branded, customized, private label, "powered by" or sponsored products and services, including, for example, webcasts and co-sponsored newsletters, or when we join with other parties to provide specific services, you are, in effect, choosing to provide your registration information to that third party as well. These third parties will use the information according to their own privacy policies and we urge people who register to read those policies and be aware of the other company's privacy practices before registering.
+**Making information you provide public.    **
 
-If you register for Techonline's or Light Reading's network of sites, information which you submit at registration may be shared with third party sponsors and with companies that provide resources available on those networks as a prerequisite for access to the sites. Techonline and Light Reading will provide you with notice and ask your consent as part of the registration process.
+  * Our online event venues also require that you register and allow you to have both public and closed communications with exhibitors and other participants. Information that identifies you will be published or shared according to your choices for that venue. 
+  * We create online membership communities that allow you to publish your profile and post information and content. These communities provide privacy controls so that you can control how much of your profile and other information to make public or to share with others within the community. As a professional, you remain responsible for locating the privacy controls (usually available on the page from which you can edit your profile), understanding how those controls, including default settings, work and protecting the information you provide. Your profile will remain visible to the community unless and until you withdraw from the community AND contact the community’s HELP desk to request that your profile be hidden.
 
-Finally, on occasion, we may provide targeted lists of names and offline and online contact information for marketing purposes to third parties with your consent to do so. 
 
-We may transfer personally identifiable information to other companies which act as our agents in providing our product(s)/service(s), and which agree to use it only for that purpose and to keep the information secure and confidential. Also, our parent, subsidiary and affiliate companies, entities into which our company may be merged, or entities to which any of our assets, products, sites or operations may be transferred, will be able to use personal information we collect.  We will also disclose information we maintain when required to do so by law, for example, in response to a court order or a subpoena or other legal obligation, in response to a law enforcement agency's request, or in special cases when we have reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be causing injury to or interference with (either intentionally or unintentionally) our rights or property. Users should also be aware that courts of equity, such as U.S. Bankruptcy Courts, might have the authority under certain circumstances to permit personal information to be shared or transferred to third parties without permission. We may share aggregate information, which is not personally identifiable, with others.
 
-**CORRECTION/UPDATING PERSONAL INFORMATION**   
-If information which you have submitted to us changes or if you no longer desire our product(s)/service(s), we provide a way to correct or update your personal data: you may either contact Customer Support for the applicable product or service or use the instructions and links on the [Preference Page.](https://web.archive.org/feedback/preferences.jhtml)
+**Receiving email marketing messages from us.   **  
+To remove your name from our email marketing lists, please follow the directions at the bottom of the email.
 
-**PREFERENCES**   
-Our customers are given the opportunity to choose whether to receive promotional information from us. Customers also can go to our [Preference Page](https://web.archive.org/feedback/preferences.jhtml) __ at any time, to remove their contact information from our email marketing lists or find directions to change other preferences. You may also opt out of email marketing lists by following the directions at the bottom of our promotional emails.  Please note that we have a number of brands and products.  You may choose to opt out of certain brands and products selectively or for all our lists.   If you opt out of all our lists and then resubmit your email address and contact details to any CMP product or service, your opt out may be reset. In addition, for those customers that are California residents, you may have additional rights, as described in the "Your California Privacy Rights" section below.  Please note that we will endeavor to implement your preference requests within a reasonable time, although for a time you may continue to receive mailings, etc., while we process your request. In addition, please note that even after such request is implemented, you will continue to receive account or subscription information directly related to the product or service for which you registered (or which you otherwise agreed to receive).
+**Whether your account information is up to date.** **  
+**  Please help us keep your account current. 
 
-**YOUR CALIFORNIA PRIVACY RIGHTS**   
-Beginning on January 1, 2005, California Civil Code Section 1798.83 permits those customers that are California residents to request that CMP not share your personal information with third parties for their direct marketing use. To make such a request, please send an email with your request to [privacyrequests@cmp.com](mailto:privacyrequests@cmp.com).
+  * You may update your name, contact information, credentials, and specializations at any time by 
+    * submitting updated information as you register for something you have not used before, 
+    * returning to a registration page you have used and following the directions there, or 
+    * sending us an email at [user.registration@cmpmedica.com](mailto:user.registration@cmpmedica.com "mailto:user.registration@cmpmedica.com"). 
+  * To cancel or update subscriptions to print publications call the number listed in the magazine or check the website associated with the publication. 
 
-**SECURITY  
-**We use reasonable precautions to protect information about our customers while it is stored on our servers or in transit to our vendors processing on our behalf. Sensitive information that is transmitted to us online (such as credit card number) is encrypted and is transmitted to us securely. In addition, access to all of our customers' information, not just the sensitive information mentioned above, is restricted. Only employees who need the information to perform a specific job (for example, a billing clerk or a customer service representative) are granted access to personally identifiable information. Finally, the servers on which we store personally identifiable information are kept in a secure environment.
 
-**LINKS**   
-Our web sites contain links to other sites. CMP is not responsible for the privacy practices or content of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each web site to which we may link that may collect personally identifiable information. 
 
-**CHILDREN**  
-CMP websites are not directed at individuals under thirteen years of age and CMP does not intend to collect any personally-identifiable information from such individuals.
+**Deleting or disabling cookies**.   
+ To delete or disable cookies: 
 
-**NOTIFICATION and CHANGES**   
-If we change our Privacy Statement, we will post those changes on this page so our users are aware of what information we collect, how we use it and under which circumstances, if any, we disclose it. Users should check this policy frequently to keep abreast of any changes. 
+  * You may use the tools in your Internet browser to delete cookies, ours as well as any other company's, at any time. 
+  * However, we will not be able to offer you online events or career fairs unless you accept personal cookies for the duration of your time within the event or fair. 
+  * You have a choice to accept our "persistent" cookies which are set if you choose automatic recognition for registration-only websites. If you disable that cookie for any particular registration-only site, you may still access that site but will need to enter your name and password each time. 
 
-For questions about this Privacy Statement, contact: 
 
-Legal Department - Privacy Officer   
-CMP Media LLC   
-600 Community Drive   
-Manhasset NY 11030  
-516-562-5000 Ext. 5703   
-[privacyrequests@cmp.com](mailto:privacyrequests@cmp.com)
 
-For all other questions concerning the practices of this site or any dealings with CMP Media LLC, CME LLC, CMP Healthcare Media LLC or CMP Healthcare Media Group LLC, contact us at: 
+Some but not all of our websites include online ads served by third parties. We do not control the cookies that other companies and their third party ad servers use to display ads to you on our websites. 
 
-Corporate Communications   
-CMP Media LLC   
-600 Community Drive   
-Manhasset NY 11030   
-516-562-5000   
-[cmp@cmp.com](mailto:cmp@cmp.com)
+  * We currently allow the following third party ad servers to place those ads: DoubleClick ([www.doubleclick.com/privacy/index.aspx](http://www.doubleclick.com/privacy/index.aspx)), Atlas ([www.atlassolutions.com/privacy.aspx](http://www.atlassolutions.com/privacy.aspx)), MediaPlex ([www.mediaplex.com/mojo_privacy_statement.shtml](http://www.mediaplex.com/mojo_privacy_statement.shtml)), Pointroll ([www.pointroll.com/privacy-policy.aspx](http://www.pointroll.com/privacy-policy.aspx)), Eyeblaster ([www.eyeblaster.com/Content.aspx?page=privacy_policy](http://www.eyeblaster.com/Content.aspx?page=privacy_policy)), and Bizo ([www.bizo.com/business_audience/privacy_policy](http://www.bizo.com/business_audience/privacy_policy)). Please visit their websites for more information about the technologies they use, their privacy practices, and the choices each offers. 
+  * Many of the third party ad serving companies that serve ads to our websites are members of the Network Advertising Initiative (<http://www.networkadvertising.org/>). The NAI offers useful information and a single place to turn off ad serving from all its members. 
+
+
+
+Online advertising technologies and practices, including behavioral advertising, are evolving. We may add to this list of third party servers from time to time without changing the effective date on this policy. Please check here periodically.
+
+**Disclosure of Information About You**  
+We do not otherwise disclose information about you to others except:
+
+  * to publish the names of speakers and attendees at our face to face events, 
+  * to investigate potential unauthorized access or misuse of our services, 
+  * to protect our assets or rights, 
+  * in response to valid legal process, 
+  * to vendors that process data on our behalf, or 
+  * as part of a merger or an acquisition by or other transfer to a third party of some or all of our business assets. 
+
+
+
+**Children Under 13** **  
+** Our services are directed to medical professionals or, in the case of SearchMedica, adults with a need to research professional-level medical literature. Our websites and services are not intended for children 13 or under. 
+
+**Security**   
+We use reasonable administrative, technical, and physical safeguards to protect personal information against theft, loss, or misuse. Unfortunately, no data transmission over the Internet or storage can be guaranteed to be 100 percent secure. As a result, while we strive to protect information about you and your professional interests, we cannot ensure or warrant the security of any information you submit to us, and you do so at your own risk. You remain responsible for protecting your user name and passwords and for the security of information in transit to us over the Internet.
+
+**Changes to This Policy**   
+We may change the provisions of this policy from time to time and urge you to check back here periodically. Your continued use of any of the websites or pages within the scope of this policy will be your acceptance of the version of the policy in place at the time of your visit.
+
+**Contact Us**   
+If you have questions about this policy or its use, please contact us at 
+
+_[privacyrequests@ubm.com](mailto:privacyrequests@ubm.com)_
+
+. 
+
+UBM Medica LLC  
+General Counsel  
+150 West 30th Street 20th Floor   
+New York, NY 10001
