@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the thermo.com privacy policy that was archived on 2011-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111106042856id_/http%3A//www.thermoscientific.com/ecomm/servlet/privacypolicy%3FstoreId%3D11152) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thermo.com privacy policy that was archived on 2013-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131108171237id_/http%3A//www.thermoscientific.com/ecomm/servlet/privacypolicy%3FstoreId%3D11152) for the most accurate reproduction.*
 
 # Privacy Statement ­ Thermo Scientific
 
 **Effective date:** This policy was last updated on March 10, 2010. 
-
-## PRIVACY STATEMENT
 
 At Thermo Fisher, we take your privacy seriously. In general, you can visit Thermo Fisher on the Web without identifying yourself or revealing any personal information. Once you choose to provide us personally identifiable information (any information by which you can be identified), you can be assured that it will only be used to support your relationship with Thermo Fisher. 
 
