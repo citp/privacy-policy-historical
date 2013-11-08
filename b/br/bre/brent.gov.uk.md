@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brent.gov.uk privacy policy that was archived on 2013-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130503213301id_/http%3A//www.brent.gov.uk/privacy-cookie-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brent.gov.uk privacy policy that was archived on 2013-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131108205119id_/http%3A//www.brent.gov.uk/privacy-cookie-policy) for the most accurate reproduction.*
 
 # Privacy & cookie policy
 
@@ -47,7 +47,7 @@ The use of Brent Council's email system may be monitored and communications read
 
 ## Asking us for information we may hold about you
 
-You can ask us for information we may hold about you by sending postal mail to The Data Protection Officer, Brent House, 349-357 High Road, Wembley, Middlesex, United Kingdom, HA9 6BZ. We will inform you within 40 days if we store any personal information about you. 
+You can ask us for information we may hold about you by sending postal mail to The Data Protection Officer, Brent Civic Centre, Engineers Way, Wembley, United Kingdom, HA9 0FJ. We will inform you within 40 days if we store any personal information about you. 
 
 You may also write to the above address to request a copy of your information and we will provide you with a legible copy of the personal data which we keep about you and to which you are entitled. This will be sent to you within 40 days of your request- although we may require proof of your identity and information to locate your personal data.
 
