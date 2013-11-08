@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the deals2buy.com privacy policy that was archived on 2013-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130622071735id_/http%3A//www.deals2buy.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the deals2buy.com privacy policy that was archived on 2013-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131108051841id_/http%3A//www.deals2buy.com/privacy_policy) for the most accurate reproduction.*
 
 # Cheap Deals, Best Hot Daily Deals and Coupons by Deals2buy.com
 
@@ -127,7 +127,7 @@ Deals2Buy complies with the US-EU Safe Harbor Framework as set forth by the US D
 
 In compliance with the US-EU Safe Harbor Principles, Deals2Buy commits to resolve complaints about your privacy and our collection or use of your personal information. European Union citizens with inquiries or complaints regarding this privacy policy should first contact us at [legal@whalesharkmedia.com](mailto:legal@whalesharkmedia.com). 
 
-Deals2Buy has further committed to refer unresolved privacy complaints under the US-EU Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU SAFE HARBOR, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed, please visit the BBB EU SAFE HARBOR web site at [www.bbb.org/us/safe-harbor-complaints](https://web.archive.org/web/20130622071735id_/http%3A//www.deals2buy.com/www.bbb.org/us/safe-harbor-complaints) for more information and to file a complaint. 
+Deals2Buy has further committed to refer unresolved privacy complaints under the US-EU Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU SAFE HARBOR, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed, please visit the BBB EU SAFE HARBOR web site at [www.bbb.org/us/safe-harbor-complaints](https://web.archive.org/web/20131108051841id_/http%3A//www.deals2buy.com/www.bbb.org/us/safe-harbor-complaints) for more information and to file a complaint. 
 
 * ##  PRIVACY PRACTICES OF THIRD PARTIES 
 
