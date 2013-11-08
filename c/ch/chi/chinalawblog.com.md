@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chinalawblog.com privacy policy that was archived on 2013-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130510064950id_/http%3A//www.chinalawblog.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chinalawblog.com privacy policy that was archived on 2013-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131108020333id_/http%3A//www.chinalawblog.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | China Law Blog | China Law for Business | Harris & Moure Law Firm
 
