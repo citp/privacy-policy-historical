@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the relationshipsurgery.com privacy policy that was archived on 2013-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130508050027id_/http%3A//www.relationshipsurgery.com/index/default/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the relationshipsurgery.com privacy policy that was archived on 2013-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131108133529id_/http%3A//www.relationshipsurgery.com/index/default/privacy) for the most accurate reproduction.*
 
 # 
 
