@@ -1,0 +1,955 @@
+<!--The following is the downloaded HTML source of the risecredit.com privacy policy that was archived on 2013-11-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131108082843id_/http%3A//www.risecredit.com/privacy-policy) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html class=" js no-flexbox flexbox-legacy canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths"><head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"> 
+    <title>Privacy Policy and Information - RISE</title>
+    <meta name="viewport" content="initial-scale=1.0, width=device-width">
+    <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+
+<meta name="description" content="RISE is a lender who believes in transparency and fairness. Our privacy policy helps our current and future customers understand what information is confidential, and how your information may be being used. Contact us today for more information.">            <script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-XW787"></script><script>
+        if (!window.console) console = { log: function () { } };
+    </script>
+    <script src="//cdn.optimizely.com/js/120950665.js"></script>
+    <link href="/content/css?v=jUedZsIfJHpPOjNZ2IvQ4cfcF0MY1QC8nHXVPLbfCB01" rel="stylesheet">
+
+    
+        <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+    <script src="/bundles/jquery?v=1ikYbQ_g5ElTbP20Xwmq8mS_xAGpSC4LYRSROlED3sI1"></script>
+
+    
+        <script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.9.1/jquery-ui.min.js"></script>
+    <!--[if lt IE 9]><script type="text/javascript" src="/scripts/excanvas.js"></script><![endif]-->
+    <script src="/bundles/modernizr?v=jmdBhqkI3eMaPZJduAyIYBj7MpXrGd2ZqmHAOSNeYcg1"></script>
+
+    <script src="/bundles/jqueryval?v=3M5oHg-QA_rnNw14jw9yR-_-xUriS0T23c5ohJUP65w1"></script>
+
+    <script src="/Scripts/spinners.min.js"></script>
+    <script src="/Scripts/lightview.js"></script>
+
+    <script src="/Scripts/lightview-Lending-Street-skin.js"></script>
+
+    <script src="/Scripts/prettyCheckboxes.js"></script>
+
+    <script src="/Scripts/LS.js"></script>
+
+    <script src="/Scripts/LS.validation.js"></script>
+
+    <script src="/Scripts/LS.widgets.js"></script>
+
+    <script src="/Scripts/autoNumeric.js"></script>
+
+    <script src="/Scripts/jquery.idletimeout.js"></script>
+
+    <script src="/Scripts/jquery.idletimer.js"></script>
+
+    <script src="/Scripts/dateFormat.js"></script>
+    <script src="/Scripts/MicrosoftMvcJQueryValidation.js"></script>
+    <script src="/Scripts/jquery.watermark.js"></script>
+    <script src="/Scripts/jquery.addplaceholder.js"></script>
+    <script src="/Scripts/jquery.data.js"></script>
+    <script src="/Scripts/jquery.ui.touch-punch.min.js"></script>
+    <!--[if IE 8]>
+        <link href="/Content/IE8.css" rel="stylesheet"/>
+
+          <link href="/Content/responsive.css" rel="stylesheet"/>
+
+        <script src="/Scripts/selectivizr-min.js"></script>
+        <script src="/Scripts/jquery.textshadow.js"></script>
+           <script src="/Scripts/respond.src.js"></script>
+    <![endif]-->
+    <!--[if IE 9]>
+        <link href="/Content/IE9.css" rel="stylesheet"/>
+
+        <script src="/Scripts/jquery.textshadow.js"></script>
+    <![endif]-->
+
+
+        <link rel="stylesheet" href="/Content/responsive.css">    
+
+
+        <link rel="stylesheet" href="/Content/post_tv_launch.css">
+
+    <script>
+        var isAuth = 'False' == "True" ? true : false;
+        var idleTime = '5';
+        var ajaxWait = '1500';
+
+        LS.configure(function (c) {
+            c.validators();
+        });
+        $(function () {
+            LS.configure(function (c) {
+                c.widgets();            // adds ILP jquery plugins
+                c.tooltips();           // adds tooltips to .tooltip
+                c.ajax();               // adds global ajax error handling
+                c.autoNumeric();
+                c.idleTimer(isAuth, idleTime, ajaxWait); // Starts idleTimer if authenticated
+                c.quirks();
+            });
+
+            Lightview.setDefaultSkin('RiseSkin');
+
+                                    
+            $('input[type=radio]:not(.hiddenCheckbox)').prettyCheckboxes();
+            $('input[type=checkbox]:not(.hiddenCheckbox)').prettyCheckboxes();
+
+                                    
+            $('#btnLogin').click(function () {
+                location.href = '/login';
+            });
+            $('#btnLogout').click(function () {
+                $('#logoutForm').submit();
+            });
+            $('.btnApplyForLoan').click(function () {
+                location.href = '/apply';
+            });
+
+            $('#btnLoginModal').click(function () {
+                location.href = '/login';
+            });
+
+            $('#btnApplyModal').click(function () {
+                location.href = '/apply';
+            });
+
+                                    
+            $("select[readonly]").addClass("grayBkg");
+
+                                    
+            $.get("/Popup/ShouldShowPdoWelcome?isPdo=" +  + "", function (data) {
+                if (data) {
+                    Lightview.show({
+                        url: 'pdoWelcome', type: 'inline', options: {
+                            viewport: false,
+                            onShow: function () {
+                                setTimeout(function () { Lightview.hide(); }, 15000);
+                            }
+                        }
+                    });
+                }
+            });
+
+
+                
+                                    
+            $("#btnApplyNow").click(function () {
+                location.href = "/apply";
+            });
+
+                                    
+            if (!Modernizr.textshadow) {
+               
+                if (!($.browser.msie && $.browser.version <= 7.0)) {
+                    var option = { x: 1, y: 1, radius: 3, color: "#000000" };
+                    //$('.homeBannerText div, .homeBannerSubText div, .simpleLayoutHeader h2, .simpleLayoutHeader h3').textShadow(option);
+                }
+            }
+
+                                    
+            $('input:text, input:password').each(function () {
+                var $this = $(this);
+                $this.data('placeholder', $this.attr('placeholder'))
+                    .focus(function () { $this.removeAttr('placeholder'); })
+                    .blur(function () { $this.attr('placeholder', $this.data('placeholder')); });
+            });
+            $(function () {
+                $('li.accountLink').hover(function () {
+                    $("ul:first", this).css("display", "block");
+                }, function () {
+                   $("ul:first", this).css("display", "none");
+                });
+            });
+            $('#menuMobile').click(function () {
+                $(this).toggleClass("activeMenu");
+                $(".mainContent,footer,.footerImages").toggleClass("content-hide");
+                $("#header").toggleClass("menu-min");
+                $("body").toggleClass("noScroll");
+                $(".overlay").toggleClass("overlayActive");
+        });
+        });
+
+                        
+        function ClearCheckbox(checkboxName) {
+            $("#" + checkboxName).attr("checked", false);
+            $('label[for="' + checkboxName + '"]').removeClass('checked');
+            $('label[for="' + checkboxName + '"]').checked = false;
+        }
+    </script>
+
+</head>
+<body>
+    <!-- Google Tag Manager -->
+    <noscript>
+        <iframe src="//www.googletagmanager.com/ns.html?id=GTM-XW787"
+                height="0" width="0" style="display: none; visibility: hidden">
+        </iframe>
+    </noscript>
+    <script>
+        (function (w, d, s, l, i) {
+            w[l] = w[l] || []; w[l].push({
+                'gtm.start':
+                    new Date().getTime(), event: 'gtm.js'
+            }); var f = d.getElementsByTagName(s)[0],
+                    j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+                        '//www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-XW787');
+    </script>
+    <!-- End Google Tag Manager -->
+
+    <div id="idletimeout">
+        You will be logged off in <span>
+            <!-- countdown place holder -->
+        </span>&nbsp;seconds due to inactivity. 
+            <a id="idletimeout-resume" href="#">Click here to continue using this web page</a>.
+    </div>
+
+
+
+    <div id="header">
+        <div class="content-wrapper">
+            <div id="menuMobile" class="menubar"></div>
+            <div id="logo">
+                <a href="/home" tabindex="-1"><h1 title="Privacy Policy" class="logoHeader">Privacy Policy</h1></a>
+            </div>
+            <div class="float-right" style="margin-right:3%;">
+                    <section class="float-right applyNowBannerButton">
+                        <div class="button blueButton applyForLoan" id="btnApplyNow" onclick="dataLayer.push({'event': 'button', 'button': 'Apply for a loan'});">Apply for a loan</div>
+                    </section>
+                <section id="login" class="float-right">
+                        <a href="#" id="btnLogin" title="Sign In">Sign In</a>
+
+                </section>
+            </div>
+            <div style="clear:right;"></div>
+            
+            <div class="navigation">
+                <nav id="menuNavigation" style="margin-right:3%;">
+                    <ul class="menu">
+                            <li class="mobileMenuApply"><a href="/apply" onclick="dataLayer.push({'event': 'button', 'button': 'Apply Now'});">Apply Now</a></li>
+                            <li><a href="/how-online-loans-work">How it works</a></li>
+                            <li><a href="/who-we-are-rise">Who We Are</a></li>
+                        
+                        <li><a href="/frequently-asked-questions">FAQs</a></li>
+                        <li><a href="/about-rise">Contact Us</a> </li>
+
+                        <li class="footerLinksMobile"><a href="/loan-rates">Loan Cost &amp; Terms</a></li>
+                        
+                        <li class="footerLinksMobile"><a href="/responsible-lending-policy">Responsible Lending</a></li>
+                        <li class="footerLinksMobile"><a href="/privacy-policy" target="_blank">Privacy</a></li>
+                        <li class="footerLinksMobile"><a href="/sitemap">Site Map</a></li>
+                        <li class="footerLinksMobile"><a href="/security">Security</a></li>
+                    </ul>
+                </nav>
+            </div>
+        </div>
+    </div>
+
+    <div class="content-wrapper mainContent">
+         
+
+    <div class="holidayBannerContainer">
+        <div class="holidayBannerMessage">THERE IS A BANK HOLIDAY ON 11/11/2013.<span></span> <a href="/Loans/holiday-loan">FIND OUT</a> HOW THIS AFFECTS YOU.</div>
+    </div>
+
+        
+<div class="simpleLayout">
+        <div class="simpleLayoutHeader" style="margin:auto;background-color:#191919;">
+            <table class="simpleLayoutBkgImgWrapper">
+                <tbody><tr>
+                    <td class="simpleLayoutBkgImg sweaterDude">
+                        
+                                <h2 class="privacyBannerHeader">Your Privacy is our Top Priority</h2>
+                                                                    </td>
+                </tr>
+            </tbody></table>
+            <div class="bottomHeaderLine"></div>
+        </div>
+    <div class="simpleContent">
+        
+<style>
+    .WordSection1 * {color: #000 !important;line-height:17px !important;}
+    .WordSection1 p {text-align:left;}
+    .WordSection1 td {vertical-align:middle;}
+    .WordSection1 b * {font-size:1em !important; font-family:DIN-Bold;}
+    .WordSection1 b * i {font-size:1em !important; font-family:DIN-Bold-Italic;}
+    .WordSection1 .RSLoanAgreement-Hanging {text-indent:0 !important;margin-top:6px !important;margin-bottom:8px !important;}
+    .WordSection1 .MsoTableGrid {width:820px !important;}
+    .WordSection1 .RSLoanAgreement-Center {text-align: center !important; padding-right:6px !important;}
+    .WordSection1 p.RSLoanAgreement {margin-top:10px !important;}
+    .WordSection1 a:link, .WordSection1 a:visited, .WordSection1 a:hover, .WordSection1 a:active {color:blue !important;}
+</style>
+
+<div class="center" id="PrivacyPolicyDiv" style="margin-top:10px;">
+    <h2 class="privacyHeader leftAlign"><i>PRIVACY POLICY</i></h2>
+    <a href="#RISE" class="privacyLinks"><i>RISE</i> Privacy Policy</a> <span class="separator">|</span> <a href="#OhioCSO" class="privacyLinks">Ohio CSO Privacy Policy</a> <span class="separator">|</span> <a href="#OhioCSOLender" class="privacyLinks">Ohio CSO Lender Privacy Policy</a><span class="block"></span>
+    <a href="#TexasCSO " class="privacyLinks">Texas CSO Privacy Policy</a><span class="separator">|</span> <a href="#TexasCSOLender">Texas CSO Lender Privacy Policy</a><br><br>
+    
+    <a id="RISE"></a>
+
+    <div class="WordSection1">
+        
+    <div align="center">
+        <div class="MsoTableGridHeadDiv"><div class="float-left"><i>RISE</i> PRIVACY POLICY</div><div class="float-right">EFFECTIVE JUNE 2013</div><div class="clearBoth"></div></div>
+        <table class="factsTable" border="0" cellspacing="0" cellpadding="0'">
+            <tbody><tr><th>facts</th><th>What does <i>RISE</i> do with your personal information</th></tr>
+            <tr><td>Why?</td><td>Financial companies choose how they share your personal information.  Federal law gives consumers the right to limit some but not all sharing.  Federal law also requires us to tell you how we collect, share, and protect your personal information.  Please read this notice carefully to understand what we do.</td></tr>
+            <tr><td>What?</td><td>The types of personal information we collect and share depend on the product or service you have with us.  This information can include:
+                <ul class="unorderedList">
+                    <li> Social Security number and income </li>
+                    <li> Account balances and payment history </li>
+                    <li> Credit history and credit scores.</li>
+                </ul>
+            </td></tr>
+            <tr><td>How?</td><td>All financial companies need to share customers’ personal information to run their everyday business.  In the section below, we list the reasons financial companies can share their customers’ personal information; the reasons <i>RISE</i> chooses to share; and whether you can limit this sharing.</td></tr>
+        </tbody></table>
+        <table class="reasonsTable" border="0" cellspacing="0" cellpadding="0'">
+            <tbody><tr><th class="center">Reasons we can share your personal information</th><th class="center">Does <i>RISE</i> share?</th><th class="center">Can you limit this sharing?</th></tr>
+            <tr><td><strong>For our everyday business purposes</strong> – such as to process your transactions, maintain your account(s), respond to court orders and legal investigations, prevent or mitigate fraud, engage in corporate transactions, or report to credit bureaus</td><td class="center">Yes</td><td class="center">No</td></tr>
+            <tr><td><strong>For our marketing purposes</strong> – to offer our products and services to you</td><td class="center">Yes</td><td class="center">No</td></tr>
+            <tr><td><strong>For joint marketing with other financial companies</strong></td><td class="center">Yes</td><td class="center">No</td></tr>
+            <tr><td><strong>For our affiliates’ everyday business purposes</strong> – information about your transactions and experiences</td><td class="center">Yes</td><td class="center">No</td></tr>
+            <tr><td><strong>For our affiliates’ everyday business purposes</strong> – information about your creditworthiness</td><td class="center">Yes</td><td class="center">Yes</td></tr>
+            <tr><td><strong>For our affiliates to market to you</strong></td><td class="center">Yes</td><td class="center">Yes</td></tr>
+            <tr><td><strong>For nonaffiliates to market to you</strong></td><td class="center">Yes</td><td class="center">Yes</td></tr>
+        </tbody></table>
+        <table class="factsTable" border="0" cellspacing="0" cellpadding="0'">
+            <tbody><tr>
+                <td>To limit our sharing</td>
+                <td>
+                    <ul class="unorderedList">
+                        <li> Call (866) 580-1226 to speak to an account representative;</li>
+                        <li> Visit us online: <a href="http://www.risecredit.com">www.risecredit.com</a>; or</li>
+                        <li>Contact us via email: <a href="mailto:support@risecredit.com">support@risecredit.com</a>.</li>
+                    </ul>
+                    <p>If you are a new customer, we can begin sharing your information thirty (30) days from the date we sent this notice.  When you are no longer a customer, we continue to share your information as described in this notice.</p>
+                    <p>However, you can contact us at any time to limit our sharing.</p>
+                </td></tr>
+            <tr>
+                <td>Questions?</td>
+                <td>Call (866) 580-1226 or go to <a href="http://www.risecredit.com">www.risecredit.com</a></td>
+            </tr>
+        </tbody></table>
+        <table class="TwohalfColumns" border="0" cellspacing="0" cellpadding="0'">
+            <tbody><tr><th colspan="2">What we do</th></tr>
+            <tr>
+                <td>How does <i>RISE</i> protect my personal information?</td>
+                <td>
+                    <p>To protect your personal information from unauthorized access and use, we use security measures that comply with federal law.  These measures include computer safeguards and secured files and buildings.</p>
+                    <p>We also maintain physical, electronic and procedural safeguards (i.e., computer virus protection software, firewalls, 128-bit Secure Socket Layer).  Only authorized employees have access.</p>
+                </td>
+            </tr>
+            <tr>
+                <td>How does <i>RISE</i> collect my personal information?</td>
+                <td>
+                    <p>We collect your personal information, for example, when you</p>
+                    <ul class="unorderedList">
+                        <li>Apply for a loan </li>
+                        <li>Give us your income information</li>
+                        <li>Provide employment information</li>
+                        <li>Provide account information </li>
+                        <li>Give us your contact information </li>
+                    </ul>
+                    <p>We also collect your personal information from others, such as credit bureaus, affiliates, or other companies.</p>
+                </td>
+            </tr>
+            <tr>
+                <td>Why can’t I limit all sharing?</td>
+                <td>
+                    Federal law gives you the right to limit only:
+                    <ul class="unorderedList">
+                        <li>Sharing for affiliates’ everyday business purposes-information about your creditworthiness;</li>
+                        <li>Affiliates from using your information to market to you; and</li>
+                        <li>Sharing for nonaffiliates to market to you.</li>
+                    </ul>
+                    State laws and individual companies may give you additional rights to limit sharing.  See below for more on your rights under state law.
+                </td>
+            </tr>
+            <tr><th colspan="2">Definitions</th></tr>
+            <tr>
+                <td>Affiliates</td>
+                <td>
+                    <p>Financial and nonfinancial companies related by common ownership or control.</p>
+                    <ul class="unorderedList">
+                        <li><i>Our affiliates include companies that have common corporate ownership with <i>RISE</i>, such as Think Finance, Inc., TC Loan Service, LLC, Tailwind Marketing, LLC, TC Decision Sciences, LLC, and Presta Holdings, LLC.</i></li>
+                    </ul>
+                </td>
+            </tr>
+            <tr>
+                <td>Nonaffiliates</td>
+                <td>
+                    <p>Financial and nonfinancial companies not related by common ownership or control.</p>
+                    <ul class="unorderedList">
+                        <li><i>Nonaffiliates we share with can include direct marketing companies for application resell, direct mail and other purposes.</i></li>
+                    </ul>
+                </td>
+            </tr>
+            <tr>
+                <td>Joint Marketing</td>
+                <td>
+                    <p>A formal agreement between nonaffiliated financial companies that together market financial products or services to you.</p>
+                    <ul class="unorderedList">
+                        <li><i>Our joint marketing partners include financial institutions, credit card companies, partners that promote our products, pre-paid debit card providers and other lending companies.</i></li>
+                    </ul>
+                </td>
+            </tr>
+        </tbody></table>
+        <table class="oneColumn">
+            <tbody><tr><th>Other Important Information</th></tr>
+            <tr><td>
+                    <p>As part of our credit underwriting and information collection process, we will consider bank account information provided by you and we may detect additional bank accounts under your ownership.  We also may collect and consider information about you from non-credit reporting agency data providers and publicly available information about you.</p>
+                    <p><strong>Vermont residents:</strong>We will not disclose information about you with affiliates or non-affiliated, third-party companies or financial institutions, other than as required or permitted by law, without your express permission.</p>
+                    <p><strong>California residents: </strong>We will not share information we collect about you with affiliated or non-affiliated third-parties, except in the limited circumstances permitted under state law, or if you give us your permission.</p>
+                    <p><strong>North Dakota residents:</strong>We will not disclose information about you with non-affiliated, third-party companies or financial institutions, other than as required or permitted by law, without your express permission.</p>
+                    <p><strong>Nevada residents:</strong>If you would like more information regarding this notice or Nevada’s law regarding corporate do-not-call registries, you can contact us at the toll-free number or address included in this notice or the Bureau of Consumer Protection, Office of the Nevada Attorney General at 555 E. Washington Street, Suite 3900, Las Vegas, Nevada 89101; Phone: (702) 486-3132/Email:<a href="mailto:BCPINFO@ag.state.nv.us">BCPINFO@ag.state.nv.us</a></p>
+                </td></tr>
+        </tbody></table>
+
+        <a id="OhioCSO"></a>
+        <div class="MsoTableGridHeadDiv"><div class="float-left"><i>RISE</i> – OHIO CSO PRIVACY POLICY</div><div class="float-right">EFFECTIVE JUNE 2013</div><div class="clearBoth"></div></div>
+        <table class="factsTable" border="0" cellspacing="0" cellpadding="0'">
+            <tbody><tr><th>facts</th><th>WHAT DOES PAYDAY ONE EXPRESS OF OHIO, LLC D/B/A <i>RISE</i> (“<i>RISE</i>”) DO WITH YOUR PERSONAL INFORMATION?</th></tr>
+            <tr><td>Why?</td><td>Financial companies choose how they share your personal information.  Federal law gives consumers the right to limit some but not all sharing.  Federal law also requires us to tell you how we collect, share, and protect your personal information.  Please read this notice carefully to understand what we do.</td></tr>
+            <tr><td>What?</td><td>The types of personal information we collect and share depend on the product or service you have with us.  This information can include:
+                <ul class="unorderedList">
+                    <li> Social Security number and income </li>
+                    <li> Account balances and payment history </li>
+                    <li> Credit history and credit scores.</li>
+                </ul>
+            </td></tr>
+            <tr><td>How?</td><td>All financial companies need to share customers’ personal information to run their everyday business.  In the section below, we list the reasons financial companies can share their customers’ personal information; the reasons <i>RISE</i> chooses to share; and whether you can limit this sharing.</td></tr>
+        </tbody></table>
+        <table class="reasonsTable" border="0" cellspacing="0" cellpadding="0'">
+            <tbody><tr><th class="center">Reasons we can share your personal information</th><th class="center">Does <i>RISE</i> share?</th><th class="center">Can you limit this sharing?</th></tr>
+            <tr><td><strong>For our everyday business purposes</strong> – such as to process your transactions, maintain your account(s), respond to court orders and legal investigations, prevent or mitigate fraud, engage in corporate transactions, or report to credit bureaus</td><td class="center">Yes</td><td class="center">No</td></tr>
+            <tr><td><strong>For our marketing purposes</strong> – to offer our products and services to you</td><td class="center">Yes</td><td class="center">No</td></tr>
+            <tr><td><strong>For joint marketing with other financial companies</strong></td><td class="center">Yes</td><td class="center">No</td></tr>
+            <tr><td><strong>For our affiliates’ everyday business purposes</strong> – information about your transactions and experiences</td><td class="center">Yes</td><td class="center">No</td></tr>
+            <tr><td><strong>For our affiliates’ everyday business purposes</strong> – information about your creditworthiness</td><td class="center">Yes</td><td class="center">Yes</td></tr>
+            <tr><td><strong>For our affiliates to market to you</strong></td><td class="center">Yes</td><td class="center">Yes</td></tr>
+            <tr><td><strong>For nonaffiliates to market to you</strong></td><td class="center">Yes</td><td class="center">Yes</td></tr>
+        </tbody></table>
+        <table class="factsTable" border="0" cellspacing="0" cellpadding="0'">
+            <tbody><tr>
+                <td>To limit our sharing</td>
+                <td>
+                    <ul class="unorderedList">
+                        <li> Call (866) 580-1226 to speak to an account representative;</li>
+                        <li> Visit us online: <a href="http://www.risecredit.com">www.risecredit.com</a>; or</li>
+                        <li>Contact us via email: <a href="mailto:support@risecredit.com">support@risecredit.com</a>.</li>
+                    </ul>
+                    <p>If you are a new customer, we can begin sharing your information thirty (30) days from the date we sent this notice.  When you are no longer a customer, we continue to share your information as described in this notice.</p>
+                    <p>However, you can contact us at any time to limit our sharing.</p>
+                </td></tr>
+            <tr>
+                <td>Questions?</td>
+                <td>Call (866) 580-1226 or go to <a href="http://www.risecredit.com">www.risecredit.com</a></td>
+            </tr>
+        </tbody></table>
+        <table class="TwohalfColumns" border="0" cellspacing="0" cellpadding="0'">
+            <tbody><tr><th colspan="2">What we do</th></tr>
+            <tr>
+                <td>How does <i>RISE</i> protect my personal information?</td>
+                <td>
+                    <p>To protect your personal information from unauthorized access and use, we use security measures that comply with federal law.  These measures include computer safeguards and secured files and buildings.</p>
+                    <p>We also maintain physical, electronic and procedural safeguards (i.e., computer virus protection software, firewalls, 128-bit Secure Socket Layer).  Only authorized employees have access.</p>
+                </td>
+            </tr>
+            <tr>
+                <td>How does <i>RISE</i> collect my personal information?</td>
+                <td>
+                    <p>We collect your personal information, for example, when you</p>
+                    <ul class="unorderedList">
+                        <li>Apply for a loan </li>
+                        <li>Give us your income information</li>
+                        <li>Provide employment information</li>
+                        <li>Provide account information </li>
+                        <li>Give us your contact information </li>
+                    </ul>
+                    <p>We also collect your personal information from others, such as credit bureaus, affiliates, or other companies.</p>
+                </td>
+            </tr>
+            <tr>
+                <td>Why can’t I limit all sharing?</td>
+                <td>
+                    Federal law gives you the right to limit only:
+                    <ul class="unorderedList">
+                        <li>Sharing for affiliates’ everyday business purposes-information about your creditworthiness;</li>
+                        <li>Affiliates from using your information to market to you; and</li>
+                        <li>Sharing for nonaffiliates to market to you.</li>
+                    </ul>
+                    State laws and individual companies may give you additional rights to limit sharing.  See below for more on your rights under state law.
+                </td>
+            </tr>
+            <tr><th colspan="2">Definitions</th></tr>
+            <tr>
+                <td>Affiliates</td>
+                <td>
+                    <p>Financial and nonfinancial companies related by common ownership or control.</p>
+                    <ul class="unorderedList">
+                        <li><i>Our affiliates include companies that have common corporate ownership with <i>RISE</i>, such as Think Finance, Inc., TC Loan Service, LLC, Tailwind Marketing, LLC, TC Decision Sciences, LLC, and Presta Holdings, LLC.</i></li>
+                    </ul>
+                </td>
+            </tr>
+            <tr>
+                <td>Nonaffiliates</td>
+                <td>
+                    <p>Financial and nonfinancial companies not related by common ownership or control.</p>
+                    <ul class="unorderedList">
+                        <li><i>Nonaffiliates we share with can include direct marketing companies for application resell, direct mail and other purposes.</i></li>
+                    </ul>
+                </td>
+            </tr>
+            <tr>
+                <td>Joint Marketing</td>
+                <td>
+                    <p>A formal agreement between nonaffiliated financial companies that together market financial products or services to you.</p>
+                    <ul class="unorderedList">
+                        <li><i>Our joint marketing partners include financial institutions, credit card companies, partners that promote our products, pre-paid debit card providers and other lending companies.</i></li>
+                    </ul>
+                </td>
+            </tr>
+        </tbody></table>
+        <table class="oneColumn">
+            <tbody><tr><th>Other Important Information</th></tr>
+            <tr><td>As part of our credit underwriting and information collection process, we will consider bank account information provided by you and we may detect additional bank accounts under your ownership.  We also may collect and consider information about you from non-credit reporting agency data providers and publicly available information about you.</td></tr>
+        </tbody></table>
+
+        <a id="OhioCSOLender"></a>
+        <div class="MsoTableGridHeadDiv"><div class="float-left"><i>RISE</i> – OHIO CSO LENDER PRIVACY POLICY</div><div class="float-right">EFFECTIVE JUNE 2013</div><div class="clearBoth"></div></div>
+        <table class="factsTable" border="0" cellspacing="0" cellpadding="0'">
+            <tbody><tr><th>facts</th><th>What does <i>RISE</i> do with your personal information</th></tr>
+            <tr><td>Why?</td><td>Financial companies choose how they share your personal information.  Federal law gives consumers the right to limit some but not all sharing.  Federal law also requires us to tell you how we collect, share, and protect your personal information.  Please read this notice carefully to understand what we do.</td></tr>
+            <tr><td>What?</td><td>The types of personal information we collect and share depend on the product or service you have with us.  This information can include:
+                <ul class="unorderedList">
+                    <li> Social Security number and income </li>
+                    <li> Account balances and payment history </li>
+                    <li> Credit history and credit scores.</li>
+                </ul>
+            </td></tr>
+            <tr><td>How?</td><td>All financial companies need to share customers’ personal information to run their everyday business.  In the section below, we list the reasons financial companies can share their customers’ personal information; the reasons <i>RISE</i> chooses to share; and whether you can limit this sharing.</td></tr>
+        </tbody></table>
+        <table class="reasonsTable" border="0" cellspacing="0" cellpadding="0'">
+            <tbody><tr><th class="center">Reasons we can share your personal information</th><th class="center">Does RCL Finance, Inc. share?</th><th class="center">Can you limit this sharing?</th></tr>
+            <tr><td><strong>For our everyday business purposes</strong> – such as to process your transactions, maintain your account(s), respond to court orders and legal investigations, prevent or mitigate fraud, engage in corporate transactions, or report to credit bureaus</td><td class="center">Yes</td><td class="center">No</td></tr>
+            <tr><td><strong>For our marketing purposes</strong> – to offer our products and services to you</td><td class="center">Yes</td><td class="center">No</td></tr>
+            <tr><td><strong>For joint marketing with other financial companies</strong></td><td class="center">Yes</td><td class="center">No</td></tr>
+            <tr><td><strong>For our affiliates’ everyday business purposes</strong> – information about your transactions and experiences</td><td class="center">Yes</td><td class="center">No</td></tr>
+            <tr><td><strong>For our affiliates’ everyday business purposes</strong> – information about your creditworthiness</td><td class="center">No</td><td class="center">We don't share</td></tr>
+            <tr><td><strong>For our affiliates to market to you</strong></td><td class="center">No</td><td class="center">We don't share</td></tr>
+            <tr><td><strong>For nonaffiliates to market to you</strong></td><td class="center">No</td><td class="center">We don't share</td></tr>
+        </tbody></table>
+        <table class="factsTable" border="0" cellspacing="0" cellpadding="0'">
+            <tbody><tr>
+                <td>Questions?</td>
+                <td>Call (817) 533-2606 </td>
+            </tr>
+        </tbody></table>
+        <table class="TwohalfColumns" border="0" cellspacing="0" cellpadding="0'">
+            <tbody><tr><th colspan="2">What we do</th></tr>
+            <tr>
+                <td>How does <i>RISE</i> protect my personal information?</td>
+                <td>
+                    <p>To protect your personal information from unauthorized access and use, we use security measures that comply with federal law.  These measures include computer safeguards and secured files and buildings.</p>
+                    <p>We also maintain physical, electronic and procedural safeguards (i.e., computer virus protection software, firewalls, 128-bit Secure Socket Layer).  Only authorized employees have access.</p>
+                </td>
+            </tr>
+            <tr>
+                <td>How does <i>RISE</i> collect my personal information?</td>
+                <td>
+                    <p>We collect your personal information, for example, when you</p>
+                    <ul class="unorderedList">
+                        <li>Apply for a loan </li>
+                        <li>Give us your income information</li>
+                        <li>Provide employment information</li>
+                        <li>Provide account information </li>
+                        <li>Give us your contact information </li>
+                    </ul>
+                    <p>We also collect your personal information from others, such as credit bureaus, affiliates, or other companies.</p>
+                </td>
+            </tr>
+            <tr>
+                <td>Why can’t I limit all sharing?</td>
+                <td>
+                    Federal law gives you the right to limit only:
+                    <ul class="unorderedList">
+                        <li>Sharing for affiliates’ everyday business purposes-information about your creditworthiness;</li>
+                        <li>Affiliates from using your information to market to you; and</li>
+                        <li>Sharing for nonaffiliates to market to you.</li>
+                    </ul>
+                    State laws and individual companies may give you additional rights to limit sharing.  See below for more on your rights under state law.
+                </td>
+            </tr>
+            <tr><th colspan="2">Definitions</th></tr>
+            <tr>
+                <td>Affiliates</td>
+                <td>
+                    <p>Financial and nonfinancial companies related by common ownership or control.</p>
+                    <ul class="unorderedList">
+                        <li><i>Our affiliates include companies that have common corporate ownership with <i>RISE</i>, such as Think Finance, Inc., TC Loan Service, LLC, Tailwind Marketing, LLC, TC Decision Sciences, LLC, and Presta Holdings, LLC.</i></li>
+                    </ul>
+                </td>
+            </tr>
+            <tr>
+                <td>Nonaffiliates</td>
+                <td>
+                    <p>Financial and nonfinancial companies not related by common ownership or control.</p>
+                    <ul class="unorderedList">
+                        <li><i>Nonaffiliates we share with can include direct marketing companies for application resell, direct mail and other purposes.</i></li>
+                    </ul>
+                </td>
+            </tr>
+            <tr>
+                <td>Joint Marketing</td>
+                <td>
+                    <p>A formal agreement between nonaffiliated financial companies that together market financial products or services to you.</p>
+                    <ul class="unorderedList">
+                        <li><i>Our joint marketing partners include financial institutions, credit card companies, partners that promote our products, pre-paid debit card providers and other lending companies.</i></li>
+                    </ul>
+                </td>
+            </tr>
+        </tbody></table>
+        <table class="oneColumn">
+            <tbody><tr><th>Other Important Information</th></tr>
+            <tr><td>
+                    <p>As part of our credit underwriting and information collection process, we will consider bank account information provided by you and we may detect additional bank accounts under your ownership.  We also may collect and consider information about you from non-credit reporting agency data providers and publicly available information about you.</p>
+                </td></tr>
+        </tbody></table>
+
+        <a id="TexasCSO"></a>
+        <div class="MsoTableGridHeadDiv"><div class="float-left"><i>RISE</i> – TEXAS CSO PRIVACY POLICY</div><div class="float-right">EFFECTIVE JUNE 2013</div><div class="clearBoth"></div></div>
+        <table class="factsTable" border="0" cellspacing="0" cellpadding="0'">
+            <tbody><tr><th>facts</th><th>WHAT DOES PAYDAY ONE EXPRESS2 OF TEXAS, LLC D/B/A <i>RISE</i> (“<i>RISE</i>”) DO WITH YOUR PERSONAL INFORMATION?</th></tr>
+            <tr><td>Why?</td><td>Financial companies choose how they share your personal information.  Federal law gives consumers the right to limit some but not all sharing.  Federal law also requires us to tell you how we collect, share, and protect your personal information.  Please read this notice carefully to understand what we do.</td></tr>
+            <tr><td>What?</td><td>The types of personal information we collect and share depend on the product or service you have with us.  This information can include:
+                <ul class="unorderedList">
+                    <li> Social Security number and income </li>
+                    <li> Account balances and payment history </li>
+                    <li> Credit history and credit scores.</li>
+                </ul>
+            </td></tr>
+            <tr><td>How?</td><td>All financial companies need to share customers’ personal information to run their everyday business.  In the section below, we list the reasons financial companies can share their customers’ personal information; the reasons <i>RISE</i> chooses to share; and whether you can limit this sharing.</td></tr>
+        </tbody></table>
+        <table class="reasonsTable" border="0" cellspacing="0" cellpadding="0'">
+            <tbody><tr><th class="center">Reasons we can share your personal information</th><th class="center">Does <i>RISE</i> share?</th><th class="center">Can you limit this sharing?</th></tr>
+            <tr><td><strong>For our everyday business purposes</strong> – such as to process your transactions, maintain your account(s), respond to court orders and legal investigations, prevent or mitigate fraud, engage in corporate transactions, or report to credit bureaus</td><td class="center">Yes</td><td class="center">No</td></tr>
+            <tr><td><strong>For our marketing purposes</strong> – to offer our products and services to you</td><td class="center">Yes</td><td class="center">No</td></tr>
+            <tr><td><strong>For joint marketing with other financial companies</strong></td><td class="center">Yes</td><td class="center">No</td></tr>
+            <tr><td><strong>For our affiliates’ everyday business purposes</strong> – information about your transactions and experiences</td><td class="center">Yes</td><td class="center">No</td></tr>
+            <tr><td><strong>For our affiliates’ everyday business purposes</strong> – information about your creditworthiness</td><td class="center">Yes</td><td class="center">Yes</td></tr>
+            <tr><td><strong>For our affiliates to market to you</strong></td><td class="center">Yes</td><td class="center">Yes</td></tr>
+            <tr><td><strong>For nonaffiliates to market to you</strong></td><td class="center">Yes</td><td class="center">Yes</td></tr>
+        </tbody></table>
+        <table class="factsTable" border="0" cellspacing="0" cellpadding="0'">
+            <tbody><tr>
+                <td>To limit our sharing</td>
+                <td>
+                    <ul class="unorderedList">
+                        <li> Call (866) 580-1226 to speak to an account representative;</li>
+                        <li> Visit us online: <a href="http://www.risecredit.com">www.risecredit.com</a>; or</li>
+                        <li>Contact us via email: <a href="mailto:support@risecredit.com">support@risecredit.com</a>.</li>
+                    </ul>
+                    <p>If you are a new customer, we can begin sharing your information thirty (30) days from the date we sent this notice.  When you are no longer a customer, we continue to share your information as described in this notice.</p>
+                    <p>However, you can contact us at any time to limit our sharing.</p>
+                </td></tr>
+            <tr>
+                <td>Questions?</td>
+                <td>Call (866) 580-1226 or go to <a href="http://www.risecredit.com">www.risecredit.com</a></td>
+            </tr>
+        </tbody></table>
+        <table class="TwohalfColumns" border="0" cellspacing="0" cellpadding="0'">
+            <tbody><tr><th colspan="2">What we do</th></tr>
+            <tr>
+                <td>How does <i>RISE</i> protect my personal information?</td>
+                <td>
+                    <p>To protect your personal information from unauthorized access and use, we use security measures that comply with federal law.  These measures include computer safeguards and secured files and buildings.</p>
+                    <p>We also maintain physical, electronic and procedural safeguards (i.e., computer virus protection software, firewalls, 128-bit Secure Socket Layer).  Only authorized employees have access.</p>
+                </td>
+            </tr>
+            <tr>
+                <td>How does <i>RISE</i> collect my personal information?</td>
+                <td>
+                    <p>We collect your personal information, for example, when you</p>
+                    <ul class="unorderedList">
+                        <li>Apply for a loan </li>
+                        <li>Give us your income information</li>
+                        <li>Provide employment information</li>
+                        <li>Provide account information </li>
+                        <li>Give us your contact information </li>
+                    </ul>
+                    <p>We also collect your personal information from others, such as credit bureaus, affiliates, or other companies.</p>
+                </td>
+            </tr>
+            <tr>
+                <td>Why can’t I limit all sharing?</td>
+                <td>
+                    Federal law gives you the right to limit only:
+                    <ul class="unorderedList">
+                        <li>Sharing for affiliates’ everyday business purposes-information about your creditworthiness;</li>
+                        <li>Affiliates from using your information to market to you; and</li>
+                        <li>Sharing for nonaffiliates to market to you.</li>
+                    </ul>
+                    State laws and individual companies may give you additional rights to limit sharing.  See below for more on your rights under state law.
+                </td>
+            </tr>
+            <tr><th colspan="2">Definitions</th></tr>
+            <tr>
+                <td>Affiliates</td>
+                <td>
+                    <p>Financial and nonfinancial companies related by common ownership or control.</p>
+                    <ul class="unorderedList">
+                        <li><i>Our affiliates include companies that have common corporate ownership with <i>RISE</i>, such as Think Finance, Inc., TC Loan Service, LLC, Tailwind Marketing, LLC, TC Decision Sciences, LLC, and Presta Holdings, LLC.</i></li>
+                    </ul>
+                </td>
+            </tr>
+            <tr>
+                <td>Nonaffiliates</td>
+                <td>
+                    <p>Financial and nonfinancial companies not related by common ownership or control.</p>
+                    <ul class="unorderedList">
+                        <li><i>Nonaffiliates we share with can include direct marketing companies for application resell, direct mail and other purposes.</i></li>
+                    </ul>
+                </td>
+            </tr>
+            <tr>
+                <td>Joint Marketing</td>
+                <td>
+                    <p>A formal agreement between nonaffiliated financial companies that together market financial products or services to you.</p>
+                    <ul class="unorderedList">
+                        <li><i>Our joint marketing partners include financial institutions, credit card companies, partners that promote our products, pre-paid debit card providers and other lending companies.</i></li>
+                    </ul>
+                </td>
+            </tr>
+        </tbody></table>
+        <table class="oneColumn">
+            <tbody><tr><th>Other Important Information</th></tr>
+            <tr><td>
+                    <p>As part of our credit underwriting and information collection process, we will consider bank account information provided by you and we may detect additional bank accounts under your ownership.  We also may collect and consider information about you from non-credit reporting agency data providers and publicly available information about you.</p>
+                 </td></tr>
+        </tbody></table>
+
+        <a id="TexasCSOLender"></a>
+        <div class="MsoTableGridHeadDiv"><div class="float-left"><i>RISE</i> – TEXAS CSO LENDER PRIVACY POLICY</div><div class="float-right">EFFECTIVE JUNE 2013</div><div class="clearBoth"></div></div>
+        <table class="factsTable" border="0" cellspacing="0" cellpadding="0'">
+            <tbody><tr><th>facts</th><th>WHAT DOES SGS FINANCE, INC. DO WITH YOUR PERSONAL INFORMATION?</th></tr>
+            <tr><td>Why?</td><td>Financial companies choose how they share your personal information.  Federal law gives consumers the right to limit some but not all sharing.  Federal law also requires us to tell you how we collect, share, and protect your personal information.  Please read this notice carefully to understand what we do.</td></tr>
+            <tr><td>What?</td><td>The types of personal information we collect and share depend on the product or service you have with us.  This information can include:
+                <ul class="unorderedList">
+                    <li> Social Security number and income </li>
+                    <li> Account balances and payment history </li>
+                    <li> Credit history and credit scores.</li>
+                </ul>
+                <p>If you are a new customer, we can begin sharing your information thirty (30) days from the date we sent this notice. When you are no longer our customer, we continue to share your information as described in this notice.</p>
+            </td></tr>
+            <tr><td>How?</td><td>All financial companies need to share customers’ personal information to run their everyday business.  In the section below, we list the reasons financial companies can share their customers’ personal information; the reasons <i>RISE</i> chooses to share; and whether you can limit this sharing.</td></tr>
+        </tbody></table>
+        <table class="reasonsTable" border="0" cellspacing="0" cellpadding="0'">
+            <tbody><tr><th class="center">Reasons we can share your personal information</th><th class="center">Does SGS Finance, Inc. share?</th><th class="center">Can you limit this sharing?</th></tr>
+            <tr><td><strong>For our everyday business purposes</strong> – such as to process your transactions, maintain your account(s), respond to court orders and legal investigations, prevent or mitigate fraud, engage in corporate transactions, or report to credit bureaus</td><td class="center">Yes</td><td class="center">No</td></tr>
+            <tr><td><strong>For our marketing purposes</strong> – to offer our products and services to you</td><td class="center">Yes</td><td class="center">No</td></tr>
+            <tr><td><strong>For joint marketing with other financial companies</strong></td><td class="center">Yes</td><td class="center">No</td></tr>
+            <tr><td><strong>For our affiliates’ everyday business purposes</strong> – information about your transactions and experiences</td><td class="center">Yes</td><td class="center">No</td></tr>
+            <tr><td><strong>For our affiliates’ everyday business purposes</strong> – information about your creditworthiness</td><td class="center">No</td><td class="center">We don't share</td></tr>
+            <tr><td><strong>For our affiliates to market to you</strong></td><td class="center">No</td><td class="center">We don't share</td></tr>
+            <tr><td><strong>For nonaffiliates to market to you</strong></td><td class="center">No</td><td class="center">We don't share</td></tr>
+        </tbody></table>
+        <table class="factsTable" border="0" cellspacing="0" cellpadding="0'">            
+            <tbody><tr>
+                <td>Questions?</td>
+                <td>Call (817) 533-2606 </td>
+            </tr>
+        </tbody></table>
+        <table class="TwohalfColumns" border="0" cellspacing="0" cellpadding="0'">
+            <tbody><tr><th colspan="2">What we do</th></tr>
+            <tr>
+                <td>How does <i>RISE</i> protect my personal information?</td>
+                <td>
+                    <p>To protect your personal information from unauthorized access and use, we use security measures that comply with federal law.  These measures include computer safeguards and secured files and buildings.</p>
+                    <p>We also maintain physical, electronic and procedural safeguards (i.e., computer virus protection software, firewalls, 128-bit Secure Socket Layer).  Only authorized employees have access.</p>
+                </td>
+            </tr>
+            <tr>
+                <td>How does <i>RISE</i> collect my personal information?</td>
+                <td>
+                    <p>We collect your personal information, for example, when you</p>
+                    <ul class="unorderedList">
+                        <li>Apply for a loan </li>
+                        <li>Give us your income information</li>
+                        <li>Provide employment information</li>
+                        <li>Provide account information </li>
+                        <li>Give us your contact information </li>
+                    </ul>
+                    <p>We also collect your personal information from others, such as credit bureaus, affiliates, or other companies.</p>
+                </td>
+            </tr>
+            <tr>
+                <td>Why can’t I limit all sharing?</td>
+                <td>
+                    Federal law gives you the right to limit only:
+                    <ul class="unorderedList">
+                        <li>Sharing for affiliates’ everyday business purposes-information about your creditworthiness;</li>
+                        <li>Affiliates from using your information to market to you; and</li>
+                        <li>Sharing for nonaffiliates to market to you.</li>
+                    </ul>
+                    State laws and individual companies may give you additional rights to limit sharing.  See below for more on your rights under state law.
+                </td>
+            </tr>
+            <tr><th colspan="2">Definitions</th></tr>
+            <tr>
+                <td>Affiliates</td>
+                <td>
+                    <p>Financial and nonfinancial companies related by common ownership or control.</p>
+                    <ul class="unorderedList">
+                        <li><i>Our affiliates include companies that have common corporate ownership with <i>RISE</i>, such as Think Finance, Inc., TC Loan Service, LLC, Tailwind Marketing, LLC, TC Decision Sciences, LLC, and Presta Holdings, LLC.</i></li>
+                    </ul>
+                </td>
+            </tr>
+            <tr>
+                <td>Nonaffiliates</td>
+                <td>
+                    <p>Financial and nonfinancial companies not related by common ownership or control.</p>
+                    <ul class="unorderedList">
+                        <li><i>Nonaffiliates we share with can include direct marketing companies for application resell, direct mail and other purposes.</i></li>
+                    </ul>
+                </td>
+            </tr>
+            <tr>
+                <td>Joint Marketing</td>
+                <td>
+                    <p>A formal agreement between nonaffiliated financial companies that together market financial products or services to you.</p>
+                    <ul class="unorderedList">
+                        <li><i>Our joint marketing partners include financial institutions, credit card companies, partners that promote our products, pre-paid debit card providers and other lending companies.</i></li>
+                    </ul>
+                </td>
+            </tr>
+        </tbody></table>
+        <table class="oneColumn">
+            <tbody><tr><th>Other Important Information</th></tr>
+            <tr><td>
+                    <p>As part of our credit underwriting and information collection process, we will consider bank account information provided by you and we may detect additional bank accounts under your ownership.  We also may collect and consider information about you from non-credit reporting agency data providers and publicly available information about you.</p>
+            </td></tr>
+        </tbody></table>
+    </div>
+    <p class="RSLoanAgreement" style="margin-bottom:0in;margin-bottom:.0001pt">
+        <span style="font-size:8.0pt;font-family:&quot;Verdana&quot;,&quot;sans-serif&quot;">&nbsp;</span>
+    </p>
+    </div>
+</div>
+    </div>
+</div>
+    </div>
+
+    <footer>
+        <div class="footerWrapper">
+        
+<ul class="menu">
+         <li><a href="/how-online-loans-work#stateSliderhw">Loan Cost &amp; Terms</a></li>
+         <li><a href="/Comeback">Why We're Different</a></li>
+    <li><a href="/responsible-lending-policy">Responsible Lending</a></li>
+    <li><a href="/privacy-policy" target="_blank">Privacy</a></li>
+    <li><a href="/sitemap">Site Map</a></li>
+    <li><a href="/security">Security</a></li>
+</ul>
+        <div id="copyright">©2013 <span style="font-family: DIN-Regular-Italic;">RISE</span>. All Rights Reserved.</div>
+
+        <p class="mediumText">
+    *<i>RISE</i> and its affiliates offer installment loans and credit services only to residents in those states where permitted by
+    law.  To obtain a loan, you must apply online and have a valid checking account and email address.  Applications processed and
+    approved before 6 p.m. ET are typically funded the next business day.  In some cases, we may not be able to verify your application
+    information and may ask you to provide certain documents.  Refer to <a href="/how-online-loans-work#stateSliderhw">Loan Cost &amp; Terms</a> for additional details.  Complete
+    disclosures of APR, fees and payment terms are provided within the Loan Agreement.
+</p>
+<p class="mediumText">Important Disclosures:</p>
+<p class="mediumText">
+    This is an expensive form of credit.  <i>RISE</i> loans are designed to help you meet your short-term borrowing needs.
+    Appropriate emergencies might be a car repair, medical care for you or your family, or travel expenses in connection with your
+    job.  This service is not intended to provide a solution for longer-term credit or other financial needs.  Alternative forms of credit,
+    such as a credit card cash advance, personal loan, home equity line of credit, existing savings or borrowing from a friend or
+    relative, may be less expensive and more suitable for your financial needs.  Refinancing may be available and is not automatic.
+    Refinancing your loan will extend the term of the loan and result in additional interest charges.  Late fees and non-sufficient
+    funds/returned item fees may apply as described in your Loan Agreement.  We will never charge you any "hidden fees" that are
+    not fully disclosed in the Loan Agreement or the <a href="/how-online-loans-work#stateSliderhw">Loan Cost &amp; Terms</a>.  If you don’t make a payment on time we will attempt to
+    contact you via one or more authorized methods. We adhere to the federal Fair Debt Collection Practices Act (FDCPA). Because we
+    may report your payment history to one or more credit bureaus, late or non-payment of your loan may negatively impact your
+    credit rating.  If you fail to repay your loan in accordance with its terms, we may place your loan with or sell your loan to a third-
+    party collection agency or other company that acquires and/or collects delinquent consumer debt.
+</p>
+<p class="mediumText">
+    First time <i>RISE</i> customers typically qualify for an installment loan of $100 to $1,000 (though higher amounts may be available in certain states). 
+    The APR range for loans with bi-weekly payments is 358.85% to 299.16%. For example, a $700 loan in Idaho repaid in 14 bi-weekly payments of $109.18 
+    (last payment amount varies), including $828.59 of interest, has an APR of 329.07%.
+</p>
+<p class="mediumText">
+    The foregoing is an example only — loan amounts, loan repayment terms and applicable finance charges vary by state and are
+    governed by your loan agreement and relevant state law.  Please see <a href="/how-online-loans-work#stateSliderhw">Loan Cost &amp; Terms</a> for more details.
+</p>
+        </div>
+    </footer>
+    <div class="center footerImages" style="background-color:#1d1d1d;">
+        <a href="/responsible-lending-policy">
+            <img src="../../Content/images/PRL_image.png" alt="PRL" height="45" width="168" style="padding: 0 12px 13px 0;"></a>
+
+        <a href="http://www.onlinelendersalliance.org/?OLAsFraudPledge" target="_blank">
+            <img src="../../Content/images/Fraud.png" alt="Fraud" width="60" height="60" style="padding: 0 0 8px 0;"></a>
+    </div>
+    <div style="background-color:#1d1d1d;">
+    
+
+    <div id="pdoWelcome" class="redirectModalPopupImgContainer">
+        <div style="padding-top: 325px;">
+            <table class="centerMargin">
+                <tbody><tr>
+                    <td style="padding: 10px 15px;" class="vAlignMiddle">
+                        <button id="btnApplyModal" class="button blueButton">Apply</button>
+                    </td>
+                    <td style="padding: 10px 15px;" class="vAlignMiddle">
+                        <button id="btnLoginModal" class="button greenButton">Login</button>
+                    </td>
+                </tr>
+            </tbody></table>
+        </div>
+    </div>
+
+    <div id="modalMessage" class="modal">
+        <p id="modalContent">Message</p>
+    </div>
+
+<meta name="msvalidate.01" content="cf8c433aaff94aa7813ec7e02b2a1da4">
+
+<img src="http://bp.specificclick.net?pixid=99007602" width="0" height="0" border="0">
+
+<img src="https://secure.leadback.advertising.com/adcedge/lb?site=695501&amp;srvc=1&amp;betr=think_cs=1&amp;betq=8427=402228" width="1" height="1" border="0">
+
+<script language="javascript1.1" src="https://pixel.mathtag.com/event/js?mt_id=314167&amp;mt_adid=114111&amp;v1=&amp;v2=&amp;v3=&amp;s1=&amp;s2=&amp;s3="></script>
+
+
+
+
+
+    <!-- START: Google Code for Remarketing tag -->
+
+    <!-- Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories.
+            For instructions on adding this tag and more information on the above requirements, read the setup guide: google.com/ads/remarketingsetup -->
+
+    <script type="text/javascript">
+        /* <![CDATA[ */
+        var google_conversion_id = 987099456;
+        var google_conversion_label = "4i3KCNDf2QQQwOLX1gM";
+        var google_custom_params = window.google_tag_params;
+        var google_remarketing_only = true;
+    /* ]]> */
+    </script>
+    <script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js"></script>
+    <noscript>
+        <div style="display: inline;">
+            <img height="1" width="1" style="border-style: none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/987099456/?value=0&amp;label=4i3KCNDf2QQQwOLX1gM&amp;guid=ON&amp;script=0" />
+        </div>
+    </noscript>
+
+    <!-- END: Google Code for Remarketing tag -->
+    <div class="overlay"></div><!--Overlay for the mobile when menu is opened -->
+    </div>
+
+
+</body></html>
