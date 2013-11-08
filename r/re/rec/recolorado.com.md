@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the recolorado.com privacy policy that was archived on 2013-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130508234308id_/http%3A//www.recolorado.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the recolorado.com privacy policy that was archived on 2013-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131108133351id_/http%3A//www.recolorado.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | REcolorado
 
