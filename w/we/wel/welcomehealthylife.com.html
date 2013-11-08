@@ -1,18 +1,21 @@
-<!--The following is the downloaded HTML source of the welcomehealthylife.com privacy policy that was archived on 2013-04-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130420060707id_/http%3A//www.welcomehealthylife.com/terms_privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the welcomehealthylife.com privacy policy that was archived on 2013-11-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131108234224id_/http%3A//www.welcomehealthylife.com/terms_privacy.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-<meta name="Description" content="Natural Products, Water Based Nail Polish, Skin and Personal Care Products">
-<meta name="Keywords" content="autoimmune diseases, allergies, rheumatoid arthritis, home manicure, natural manicure,opi nail polish, nail polish remover, formaldehyde free nail polish,top coat nail polish, aqmore, water based nail polish, Aqmore">
+<meta name="Description" content="The essential oil contained in the Gwei Hua Balm has made this one of the most effective natural remedy for relieving sinus pressure, headaches and ease muscle pains.">
+<meta name="Keywords" content="">
 <title>Terms: Privacy</title>
 <meta name="robots" content="index,follow">
 <meta name="GOOGLEBOT" content="INDEX, FOLLOW">
 
+<link rel="canonical" href="http://www.welcomehealthylife.com/terms_privacy.asp">
+		
 
 <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
 <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jqueryui/1.8.4/jquery-ui.min.js"></script>
 <link type="text/css" href="//ajax.googleapis.com/ajax/libs/jqueryui/1.8.4/themes/base/jquery-ui.css" rel="stylesheet">
+<link type="text/css" href="/a/c/default.css" rel="stylesheet">
 
 
 <script type="text/javascript">
@@ -28,7 +31,30 @@
     var PageText_843 = "Subtotal";
     var PageText_844 = "items in cart";
 </script>
+<script type="text/javascript" src="/a/j/volusion.js?currentBuild"></script>
+<script type="text/javascript">
+    (function ($) {
+        volusion.ready(function () {
+            if (volusion.cart.isObservingCount()) {
+                var ts = new Date().getTime();
 
+                $.getJSON('/ajaxcart.asp?cachebust=' + ts, function (data) {
+                    var quantityTotal = 0;
+                    $.each(data.Products, function (key, val) {
+                        if (val.IsProduct === 'Y') {
+                            quantityTotal += parseInt(val.Quantity);
+                        } else if (val.IsAccessory === 'Y') {
+                            quantityTotal += parseInt(val.Quantity);
+                        }
+                    });
+                    quantityTotal = quantityTotal || '0';
+                    volusion.cart.itemCount(quantityTotal);
+                });
+
+            }
+        });
+    } (jQuery));
+</script>
 <script type="text/javascript" src="/a/j/javascripts.js?6_5_currentBuild"></script>
 
 <script type="text/javascript">
