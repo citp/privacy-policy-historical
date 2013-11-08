@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the clipchef.com privacy policy that was archived on 2013-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130606033909id_/http%3A//www.clipchef.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clipchef.com privacy policy that was archived on 2013-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131108035234id_/http%3A//www.clipchef.com/privacy) for the most accurate reproduction.*
 
-# ClipChef.com You are the Chef Share Food Video Recipes to get your Recipe Featured
+# ClipChef.com You are the Chef Share Video Recipes to get Featured. Specializing in videos how to cook and prepare recipes
 
 ClipChef.com is a Rated G website. All Content is reviewed daily. All Inappropriate material/content will be DELETED immediately. Please help clip chef keep it clean.  
 Thank You
@@ -44,6 +44,6 @@ contact: **clipchef@gmail.com **
 
 ****
 
-Copyright (c) 2006-2012 ClipChef.com You are the Chef Share Food Video Recipes to get your Recipe Featured. All rights reserved. 
+Copyright (c) 2006-2012 ClipChef.com You are the Chef Share Video Recipes to get Featured. Specializing in videos how to cook and prepare recipes. All rights reserved. 
 
 ****
