@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the supplyon.com privacy policy that was archived on 2013-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130627134552id_/http%3A//www.supplyon.com/privacy_notice.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the supplyon.com privacy policy that was archived on 2013-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131109151520id_/http%3A//www.supplyon.com/privacy_notice.html) for the most accurate reproduction.*
 
 # SupplyOn - Privacy Notice
 
@@ -33,6 +33,6 @@ Your data is then removed from the mailing system.
 
 **Right of information**
 
-For queries regarding data protection, you can contact our operational data protection officer at [datenschutz@supplyon.com](mailto:datenschutz@supplyon.com) or in writing at the address given in the [imprint](https://web.archive.org/web/20130627134552id_/http%3A//www.supplyon.com/imprint.html). Upon request, we will inform you in writing in accordance with the applicable legislation whether and which personal data of yours are stored by us.
+For queries regarding data protection, you can contact our operational data protection officer at [datenschutz@supplyon.com](mailto:datenschutz@supplyon.com) or in writing at the address given in the [imprint](https://web.archive.org/web/20131109151520id_/http%3A//www.supplyon.com/imprint.html). Upon request, we will inform you in writing in accordance with the applicable legislation whether and which personal data of yours are stored by us.
 
  
