@@ -1,22 +1,28 @@
-> *The following text is extracted and transformed from the srisankaramatrimony.com privacy policy that was archived on 2013-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130624033210id_/http%3A//srisankaramatrimony.com/cms.php%3Fcms_id%3D28) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the srisankaramatrimony.com privacy policy that was archived on 2013-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131109020740id_/http%3A//www.srisankaramatrimony.com/privacy-policy.php) for the most accurate reproduction.*
 
-# Sri Sankara matrimony-Indian matrimonial websites,best matrimonials - Privacy Policy
+# Sri Sankara matrimony-Indian matrimonial websites,best matrimonials -
 
 As a matrimonial network, we are constantly striving to give our customers the best quality matrimonial services solely bearing your satisfaction in mind. Indeed we are firmly committed to your right to privacy and with all the respective terms. Here are some of the privacy statements which are pertinent to the information we gather from you.
 
+Please use the website only if you agree to these terms and conditions. In the event that you disagree with any of them, please refrain from using the services on the Website.
+
 ### THE INFORMATION WE REQUIRE FROM OUR CUSTOMERS
 
-As the base requirement, we collect some of the basic information from our clients who intend to enjoy a range of services our site offers.
+As the base requirement, we collect some of the basic information from our customers who intend to enjoy a range of services our website offers.
 
 Some of the details you should fill in are the FIRST NAME, LAST NAME, MOBILE NUMBER, E-MAIL ADDRESS, MAILING ADDRESS, A USER-SPECIFIED PASSWORD, FAX NUMBER or TELEPHONE NUMBER, and ZIP CODE.
 
-In case you wish to create a credit account with us to make your payment fee, we require your CREDIT CARD NUMBER, A BILLING ADDRESS, YOUR CREDIT CARD EXPIRY DATE, and THE DETAILS FROM MONEY ORDERS AND CHEQUES ARE COLLECTED
+In case you wish to create a credit account with us to make your payment fee, we require your CREDIT CARD NUMBER, A BILLING ADDRESS, YOUR CREDIT CARD EXPIRY DATE, and IN CASE PAYMENT IS MADE BY CHEQUE OR DEMAND DRAFT THE ADDRESS DETAILS ARE COLLECTED.
 
 Do not worry about the process of your credit card transactions as we take all measures to secure your credit card information.
 
-### INFORMATION THAT WE COLLECT
+You may decide to publish some information in order to use the services on our website. We are not responsible for the manner in which third parties use your personal information that you voluntarily publish on the website.
 
-When you access our website, our servers automatically record certain information that your web browser sends whenever you visit any website. These server logs may include information such as your web request, Internet Protocol ("IP") address, browser type, browser language, referring / exit pages and URLs, platform type, number of clicks, domain names, landing pages, pages viewed and the order of those pages, the amount of time spent on particular pages, the date and time of your request, and one or more cookies that may uniquely identify your browser. "Cookies" are small text files transferred from our Website to your hard drive that recognize repeat users, track use behavior, and facilitate your access to and use of our Website. These "cookies" do not harm files nor do they allow anyone to access your personally identifiable information - they simply allow us to adjust information and advertisements to help your visit to be more pleasant and relevant.
+Please note that we cannot verify the information you provide and you will be deemed to have provided accurate information. We are not liable if any personal information provided by you is incorrect. 
+
+### INFORMATION THAT WE COLLECT AUTOMATICALLY
+
+When you access our website, our servers automatically record certain information that your web browser sends whenever you visit any website. These server logs may include information such as your web request, Internet Protocol ("IP") address, browser type, browser language, referring / exit pages and URLs, platform type, number of clicks, domain names, landing pages, pages viewed and the order of those pages, the amount of time spent on particular pages, the date and time of your request, and one or more cookies that may uniquely identify your browser. "Cookies" are small text files transferred from our Website to your hard drive that recognize repeat users, track use behaviour, and facilitate your access to and use of our Website. These "cookies" do not harm files nor do they allow anyone to access your personally identifiable information - they simply allow us to adjust information and advertisements to help your visit to be more pleasant and relevant.
 
 Information that is collected via IP Address and cookie technologies is not personally identifiable. However, if you provide personally identifiable information as above on our website, this information may be linked to the data stored in these technologies.
 
@@ -30,4 +36,4 @@ In addition to the above uses, all personally identifiable information and/or th
 
 ### NOTICE
 
-“We are entitled make changes to the Privacy Policy and the Terms and Conditions ([http://srisankaramatrimony.com/cms.php?cms_id=12](https://web.archive.org/web/20130624033210id_/http%3A//cms.php?cms_id=12))contained herein from time to time and solely at our discretion. You will be notified of the changes and the modified Privacy Policy or / and the Terms and Conditions ([http://srisankaramatrimony.com/cms.php?cms_id=12](https://web.archive.org/web/20130624033210id_/http%3A//cms.php?cms_id=12)) would be binding and effective upon all existing users of our website and you shall be deemed to have accepted such changes. Should you not concur with the changed terms upon being notified, you should forthwith stop using our services and/or unsubscribe from membership.”.
+We are entitled make changes to the Privacy Policy and the [Terms and Conditions](https://web.archive.org/web/20131109020740id_/http%3A//www.srisankaramatrimony.com/terms-of-use.php) contained herein from time to time and solely at our discretion. You will be notified of the changes and the modified Privacy Policy or / and the [Terms and Conditions](https://web.archive.org/web/20131109020740id_/http%3A//www.srisankaramatrimony.com/terms-of-use.php) would be binding and effective upon all existing users of our website and you shall be deemed to have accepted such changes, should you continue using the website. Should you not concur with the changed terms upon being notified, you should forthwith stop using our services and/or unsubscribe from membership.
