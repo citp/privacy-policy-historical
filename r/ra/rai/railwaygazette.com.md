@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the railwaygazette.com privacy policy that was archived on 2013-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130528170904id_/http%3A//www.railwaygazette.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the railwaygazette.com privacy policy that was archived on 2013-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131109055434id_/http%3A//www.railwaygazette.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy - Railway Gazette
+# Privacy Policy
 
 **Privacy Policy for Railwaygazette.com** We take the protection of our users’ personal data very seriously and comply with the regulations imposed by data protection laws. We also do our utmost to ensure that the data collected is protected by technical and organisational measures as part of our IT security policy. Your data will not be forwarded to third parties. The only exceptions to this apply in cases where the law requires this or we have a legal obligation to do so or should you have expressly given your consent to the data being forwarded.
 
@@ -56,6 +56,6 @@ Please note that we may still continue to use your data to the extent necessary 
 ** **  
 **In the event of any changes to our services, amendments to the law and possible omissions in the regulations that may be discovered later, it may be necessary to amend these data protection provisions. You may refer to and print out these data protection provisions from every page of this website using the Data Protection link. 
 
-**Additional information** Your trust is very important to us. We are therefore happy to provide answers to any questions you may have regarding the processing of your personal data. Should you have questions that are not answered by this Privacy Policy or should you require more detailed information on a particular point, please refer to info [at] railwaygazette.com or write to us at the address below.   
+**Additional information** Your trust is very important to us. We are therefore happy to provide answers to any questions you may have regarding the processing of your personal data. Should you have questions that are not answered by this Privacy Policy or should you require more detailed information on a particular point, please refer to info(at)railwaygazette.com or write to us at the address below.   
 
 DVV Media UK Ltd,  Data Protection, NINE Sutton Court Road, Sutton Surrey SM1 4SZ England
