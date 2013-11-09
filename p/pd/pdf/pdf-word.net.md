@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pdf-word.net privacy policy that was archived on 2013-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130528014053id_/http%3A//www.pdf-word.net/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pdf-word.net privacy policy that was archived on 2013-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131110005541id_/http%3A//www.pdf-word.net/privacy-policy.html) for the most accurate reproduction.*
 
 # Free eBook PDF File Download - Privacy Policy
 
