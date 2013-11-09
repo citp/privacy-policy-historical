@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thetraveltart.com privacy policy that was archived on 2013-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130510115534id_/http%3A//www.thetraveltart.com/travel-review/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thetraveltart.com privacy policy that was archived on 2013-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131109093735id_/http%3A//www.thetraveltart.com/travel-review/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - The Travel Tart Blog, Funny Photos, Videos, Advice
+# Privacy Policy - The Travel Tart Blog, Funny Photos, Videos, AdviceThe Travel Tart | Funny Travel Blog Photos, Videos, Tips, News, Advice
 
 ## Privacy Policy Updated and Effective: January 2, 2013
 
