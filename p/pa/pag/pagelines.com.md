@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the pagelines.com privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621222644id_/http%3A//www.pagelines.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pagelines.com privacy policy that was archived on 2013-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131109020331id_/http%3A//www.pagelines.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - PageLines
 
 **What information do we collect?**
 
-Like most website operators, we collect non-personally-identifying information of the sort that web browsers and servers typically make available, such as the browser type, language preference, referring site, the date and time of each visitor request, and the duration of use. Our purpose in collecting non-personally identifying information is to better understand how our visitors use our websites and services, and to to optimize our websites and services.
+Like most website operators, we collect non-personally-identifying information of the sort that web browsers and servers typically make available, such as the browser type, language preference, referring site, the date and time of each visitor request, and the duration of use. Our purpose in collecting non-personally identifying information is to better understand how our visitors use our websites and services, and to optimize our websites and services.
 
 We also collect potentially personally-identifying information like Internet Protocol (IP) addresses for logged in users and for users leaving comments on our websites. We only disclose logged in user and commenter IP addresses under the same circumstances that we use and disclose personally-identifying information as described below.
 
