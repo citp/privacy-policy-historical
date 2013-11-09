@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the pdproxy.com privacy policy that was archived on 2013-05-11.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130511172052id_/http%3A//www.pdproxy.com/privacy-policy.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the pdproxy.com privacy policy that was archived on 2013-11-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131109115509id_/http%3A//www.pdproxy.com/privacy-policy.htm) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://ogp.me/ns#" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
 <title>Privacy Policy</title>
@@ -73,6 +73,7 @@ _gaq.push(['_trackPageview']);
 	                    <label>Password</label> ( <a tabindex="3" href="https://www.pdproxy.com/forgot-password.htm" class="passLost">forgot?</a> )
 	                    <input tabindex="2" type="password" name="password" value="">
 	                    <input type="hidden" name="action" value="login">
+	                    <input type="hidden" name="hashed" value="WVBDUW5aVEpaUUdGbVhTV1pSRkZtX1A=">
 	                    <input type="submit" class="submit" value="Login" style="float: right;">
 	                </fieldset>
 	            </form>
@@ -109,8 +110,9 @@ _gaq.push(['_trackPageview']);
 		</script><a href="http://twitter.com/share" class="twitter-share-button" data-count="vertical" data-via="pdproxy">Tweet</a>
 		</div>
 		<div class="panel" title="Accepted payment" style="font: 10px/12px 'Helvetica Neue',Helvetica,sans-serif;"><br><br>We accept</div>
-		<div class="panel" title=""><a href="https://www.pdproxy.com/control-panel.htm?upgrade=1"><img src="https://www.paypalobjects.com/en_US/i/btn/x-click-but02.gif" width="50" alt="PayPal"></a></div>
-		<div class="panel" title=""><a href="https://www.pdproxy.com/control-panel.htm?upgrade=1"><img src="/images/lr_accept.gif" width="50" alt="Liberty Reserve"></a></div>
+		<div class="panel" title=""><a href="https://www.pdproxy.com/control-panel.htm?upgrade=1"><img src="/images/pp_cc_mark.jpg" width="50" alt="Buy VPN using PayPal" title="Buy VPN using PayPal"></a></div>
+		<div class="panel" title=""><a href="https://www.pdproxy.com/control-panel.htm?upgrade=1"><img src="/images/bitcoin_accepted.png" width="50" alt="Buy VPN using BitCoin" title="Buy VPN using BitCoin"></a></div>
+		<div class="panel" title=""><a href="https://www.pdproxy.com/control-panel.htm?upgrade=1"><img src="/images/perfectmoney_accepted.png" width="50" alt="Buy VPN using Perfect Money" title="Buy VPN using Perfect Money"></a></div>
    </div>
    </div>
    </div>
@@ -220,7 +222,7 @@ This information is regularly cycled within our servers. This information enable
         The <i>PinoyDen</i><sup>®</sup> word mark is a registered trademark of <a href="http://www.pinoyden.com.ph/">PINOYDEN.COM.PH, Inc.</a>
         <br>
         <a href="/terms-of-use.htm">Terms of use</a> | <a href="/privacy-policy.htm">Privacy policy</a>
-        <br><br><small>[Loaded in 0.002 sec] [Server Load: 0.32]</small>
+        <br><br><small>[Loaded in 0.0023 sec] [Server Load: 0.48]</small>
     </div>
     <br clear="all">
     <br> 
@@ -236,11 +238,20 @@ This information is regularly cycled within our servers. This information enable
 $(document).ready(function(){
 
 var sharebox = "#sharebox-wrapper";
-var menuYloc = null;
-menuYloc = parseInt($(sharebox).css("top").substring(0,$(sharebox).css("top").indexOf("px")));
-$(window).scroll(function () { 
-	offset = menuYloc+$(document).scrollTop()+"px";
-	$(sharebox).animate({top:offset},{duration:500,queue:false});
+var posy = null;
+$(window).scroll(function () 
+{
+	posy = ( $(document).scrollTop());
+	if ( posy >= 98)
+	{
+		offset = (posy-98)+"px";
+		$(sharebox).animate({top:offset},{duration:500,queue:false});
+	}
+	else if ( posy <= 0)
+	{
+		offset = (posy)+"px";
+		$(sharebox).animate({top:offset},{duration:500,queue:false});
+	}
 });
 
 $("#ip_box").tipTip({delay: 50, maxWidth: "400px", edgeOffset: 5, defaultPosition: "top"});
