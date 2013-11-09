@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the poets.org privacy policy that was archived on 2013-05-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130510212139id_/http%3A//www.poets.org/page.php/prmID/340) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the poets.org privacy policy that was archived on 2013-11-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131109021051id_/http%3A//www.poets.org/page.php/prmID/340) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head>
 <title>
@@ -45,7 +45,7 @@ Privacy Policy Statement- Poets.org - Poetry, Poems, Bios &amp; More</title>
 							<form name="newsletterSignup" onsubmit="newsletterRequest(this.email.value, 1, '/page.php/prmID/340?subscribe');return false;" action="" method="post"></form>
 								<tr>
 									<td valign="middle" align="right"><span style="color: #D2EFF2;"><a style="color: #D2EFF2;" href="/page.php/prmID/622">Subscribe</a> | <a style="color: #D2EFF2;" href="/page.php/prmID/22">More Info</a></span>&nbsp;</td>
-									<td valign="top" colspan="1"><input type="text" class="text" name="email" size="15" maxlength="255" value="Enter E-mail" onfocus="this.value='';"></td>
+									<td valign="top" colspan="1"><input type="text" class="text" name="email" size="15" maxlength="255" value="Enter Email" onfocus="this.value='';"></td>
 									<td valign="top"><!--<img onclick="newsletterRequest(document.newsletterSignup.email.value, 9);" BORDER="0" ALT="Go" SRC="/btnGo.gif">-->
 										<input type="Image" name="EditSubmit" border="0" alt="Go" src="/images/btnGo.gif"></td>
 								</tr>
@@ -78,7 +78,7 @@ Privacy Policy Statement- Poets.org - Poetry, Poems, Bios &amp; More</title>
 					position="relative";
 					aI("image=/images/btnPoetsPoetry.gif;overimage=/images/btnPoetsPoetry_over.gif;url=/page.php/prmID/58;showmenu=page2;status=POETS & POETRY;title=POETS & POETRY");
 					aI("image=/images/imgLine.gif");
-					aI("image=/images/btnPoetryStore.gif;overimage=/images/btnPoetryStore_over.gif;url=/page.php/prmID/75;showmenu=page75;status=POETRY STORE;title=POETRY STORE");
+					aI("image=/images/btnPoetryStore.gif;overimage=/images/btnPoetryStore_over.gif;url=http://poets-org.myshopify.com/;showmenu=page75;status=POETRY STORE;title=POETRY STORE");
 					aI("image=/images/imgLine.gif");
 					aI("image=/images/btnAboutUs.gif;overimage=/images/btnAboutUs_over.gif;url=/page.php/prmID/1;showmenu=page1;status=ABOUT US;title=ABOUT US");
 					aI("image=/images/imgLine.gif");
@@ -154,12 +154,6 @@ Privacy Policy Statement- Poets.org - Poetry, Poems, Bios &amp; More</title>
 	<table width="100%" cellspacing="0" cellpadding="0" border="0">
 				<tbody><tr><td><img src="/images/spacer.gif" border="0" width="7" height="1" alt=""></td>
 					<td valign="top"><img src="/images/spacer.gif" border="0" alt="" width="4" height="4" vspace="9" hspace="0" align="absmiddle"></td>
-					<td style="padding: 4px;" width="100%"><a class="JumpLink" href="/page.php/prmID/1">Our Programs</a></td>
-				</tr>
-				<tr><td colspan="3"><img src="/images/spacer.gif" border="0" alt="" width="4" height="4"></td>
-				</tr>
-				<tr><td><img src="/images/spacer.gif" border="0" width="7" height="1" alt=""></td>
-					<td valign="top"><img src="/images/spacer.gif" border="0" alt="" width="4" height="4" vspace="9" hspace="0" align="absmiddle"></td>
 					<td style="padding: 4px;" width="100%"><a class="JumpLink" href="/page.php/prmID/26">Press Room</a></td>
 				</tr>
 				<tr><td colspan="3"><img src="/images/spacer.gif" border="0" alt="" width="4" height="4"></td>
@@ -206,6 +200,141 @@ Privacy Policy Statement- Poets.org - Poetry, Poems, Bios &amp; More</title>
 				</tr>
 				<tr><td colspan="3"><img src="/images/spacer.gif" border="0" alt="" width="4" height="4"></td>
 				</tr>
+			<tr><td><img src="/images/spacer.gif" border="0" width="7" height="1" alt=""></td>
+				<td valign="top"><img src="/images/spacer.gif" border="0" alt="" width="4" height="4" vspace="9" hspace="0" align="absmiddle"></td>
+				<td style="padding: 4px;" width="100%"><script src="http://www.poets.org/jquery.tools.min.js"></script> 
+<script type="text/javascript" src="http://www.poets.org/jquery.cookie.js"></script>
+<!-- <script src="http://cdn.jquerytools.org/1.2.5/full/jquery.tools.min.js"></script> -->
+
+<style>
+	#overlaybox {
+	display:none;
+	width:455px;
+	}
+
+	#overlaybox div#outer {
+	background:#23313f;
+	width:455px;
+	height:337px;
+    padding:0px;
+	font-family:Georgia, "Times New Roman", Times, serif;
+	}
+
+	#overlaybox div.text{
+	position:absolute;
+	top:50px;
+	padding:10px 20px;
+	width:200px;
+
+
+	}
+
+	#overlaybox div.text p {
+	color:#2667d1;
+	font-size:28px;
+	line-height:35px;
+
+	font-weight:bold;
+	}
+
+	
+
+	#overlaybox button.close{
+	position:absolute;
+	top:5px;
+	right:5px;
+	color:#ffffff;
+	display:block;
+	border:none;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:10px;
+	text-decoration:underline;
+	background:none;
+	}
+	
+	#overlaybox div.text a.donate{
+	display:block;
+	text-align:left;
+	font-size:16px;
+	text-decoration:none;
+	color:#fff;
+	padding:10px;
+	width:160px;
+	background:url(arrow.png) 150px 10px no-repeat #be2333;
+	text-transform:uppercase;
+	float:left;
+	font-family:Arial, Helvetica, sans-serif
+		
+	}
+	</style>
+<!-- overlay dialog -->
+<div id="overlaybox">
+
+	<div id="outer">
+   <a href="http://www.poets.org/page.php/prmID/630" onclick="javascript:pageTracker._trackPageview('/internallinks/lightbox_GEN_signup');"> <img src="/images/stayconnected-overlay3.jpg"></a>
+		<!--<div class="text">
+		<p>Help more kids develop a lifelong love of poetry</p>
+		<a href="http://www.poets.org/page.php/prmID/630" class="donate" onClick="javascript:pageTracker._trackPageview('/internallinks/lightbox_GEN_signup');">Subscribe Today</a>
+	</div>-->
+			
+		 <button class="close" onclick="javascript:pageTracker._trackPageview('/internallinks/lightbox_GEN_close');"> close x</button>
+
+	</div>
+
+</div><!--end overlaybox-->
+
+<script>
+// EXPLANATION - the first document ready function sets the overlay elements like position, load speed, opacity, and close on click
+
+// What is $(document).ready ? See: http://flowplayer.org/tools/documentation/basics.html#document_ready
+$(document).ready(function() {
+
+// select the overlay element - and "make it an overlay"
+$("#overlaybox").overlay({
+
+	// custom top position
+	top: 100,
+
+	// some mask tweaks suitable for facebox-looking dialogs
+	mask: {
+
+		// you might also consider a "transparent" color for the mask
+		color: '#000',
+
+		// load mask a little faster
+		loadSpeed: 100,
+
+		// very transparent
+		opacity: 0.5
+	},
+
+	// disable this for modal dialog-type of overlays
+	closeOnClick: true,
+
+	// we want to use the programming API
+	api: true
+
+// load it after delay
+})
+
+// EXPLANATION - the second document ready function checks to see if a cookie called 2012December on poets.org has a value of '1' - if the cookie does not have the value of 1, then the overlay loads and a cookie called 2012Dec is set with a value of 1 which is set to expire in 30 days is created.
+// START EXAMPLE - editing the cookie see CookiesExample.txt
+$(document).ready(function(){
+   if ($.cookie('POETSCOOKIE') != '1') {
+var ol = $("#overlaybox").overlay({api: true});
+// wait 5 seconds, then load the overlay
+ setTimeout(function() {
+   ol.load();
+ }, 0);
+   $.cookie('POETSCOOKIE', '1', { expires: 30 }); }
+   });
+// END EXAMPLE
+
+});
+</script></td>
+			</tr>
+			<tr><td colspan="3"><img src="/images/spacer.gif" border="0" alt="" width="4" height="4"></td>
+			</tr>
 
 
 
