@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gamewise.co privacy policy that was archived on 2013-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130608071523id_/http%3A//gamewise.co/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamewise.co privacy policy that was archived on 2013-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131109050840id_/http%3A//gamewise.co/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - Gamewise
 
 This policy outlines the information Gamewise (the “Site” or “Service”) collects, how we use that information and how you can control how it is shared. By visiting the Site, you are accepting the practices described in this Privacy Policy. Please be aware that when you follow a link to another site, this policy does not apply and the Site has no control over what information they collect about you.
 
