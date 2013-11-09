@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the itsnicethat.com privacy policy that was archived on 2013-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130424070615id_/http%3A//www.itsnicethat.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the itsnicethat.com privacy policy that was archived on 2013-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131109014203id_/http%3A//www.itsnicethat.com/privacy-policy) for the most accurate reproduction.*
 
 # It's Nice That : Privacy Policy and Cookies
 
 ### Introduction
 
 We at It’s Nice That Ltd are committed to ensuring that our web-site (“It’s Nice That”) is totally secure for you to use. We understand that you want the personal information you give us to be kept private as well as secure. This privacy policy explains how we will use the personal information you give us and how we make sure it is kept secure.
-
-### The use of cookies
 
 ### The use of Cookies
 
