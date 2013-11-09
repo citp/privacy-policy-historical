@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the afroromance.com privacy policy that was archived on 2013-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130510204526id_/http%3A//www.afroromance.com/interracial_dating/privacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the afroromance.com privacy policy that was archived on 2013-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131109020745id_/http%3A//www.afroromance.com/interracial_dating/privacyPolicy.html) for the most accurate reproduction.*
 
 # BLACK AND WHITE DATING - Specialists in Interracial Dating
 
