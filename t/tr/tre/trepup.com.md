@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trepup.com privacy policy that was archived on 2013-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130624081039id_/http%3A//www.trepup.com/Privacy-Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trepup.com privacy policy that was archived on 2013-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131109021038id_/http%3A//www.trepup.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | TrepUp
 
@@ -12,7 +12,7 @@ This policy contains nine sections and you can jump to each by selecting the lin
 
 1.   Introduction  
 ---  
-1.1  |  **Scope.** This privacy policy covers all of TrepUp. By using or accessing TrepUp, you agree to our privacy practices outlined here. If you have any questions or comments about this privacy policy, please [contact us](https://web.archive.org/web/20130624081039id_/http%3A//www.trepup.com/trepup-contact.aspx).   
+1.1  |  **Scope.** This privacy policy covers all of TrepUp. By using or accessing TrepUp, you agree to our privacy practices outlined here. If you have any questions or comments about this privacy policy, please [contact us](https://web.archive.org/web/20131109021038id_/http%3A//www.trepup.com/trepup-contact.aspx).   
 2.   Information Received by Us  
 2.1  |  **Information You Provide to Us.** During registration and thereafter, we give you the choice to provide and update information about yourself and your business. Information about you may include your expertise, years worked, gender, date of birth, hometown, profile picture, work, education and contact information. You can also provide business information such as your mission and value proposition, staff headcount, entity type, sector and industry, trademark, office locations, leadership team and financial information. All such data will be accessible to businesses and people on TrepUp. In the event that you wish that certain information should not be viewed by others, you may select the appropriate settings when editing your profile or may delete the relevant information.   
 2.2  |  **Content.** One of the primary reasons for using TrepUp is to share business content. Examples include when you upload product, service and other innovations on Showcase, post opportunities to find partners, collaborators or investors, post news and events through Newswire to share with the TrepUp community or with your network, upload visual content on Tacks, share links, create groups, send messages or write comments that display on someone’s MyBoard. If you do not want us to store metadata associated with content you share on TrepUp, please remove potentially privacy-compromising metadata from files before they are shared with others using a metadata removal tool.   
