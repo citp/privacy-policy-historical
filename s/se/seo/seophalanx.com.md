@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seophalanx.com privacy policy that was archived on 2013-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130629063408id_/http%3A//www.seophalanx.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seophalanx.com privacy policy that was archived on 2013-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131109222706id_/http%3A//www.seophalanx.com/privacy.php) for the most accurate reproduction.*
 
 # Internet Marketing Optimization, Advanced SEO Services, Effective Link Building Service, Search Engine Submission Service
 
