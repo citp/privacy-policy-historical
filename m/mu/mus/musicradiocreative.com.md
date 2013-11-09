@@ -1,18 +1,20 @@
-> *The following text is extracted and transformed from the musicradiocreative.com privacy policy that was archived on 2013-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130626041843id_/http%3A//www.musicradiocreative.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the musicradiocreative.com privacy policy that was archived on 2013-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131109021122id_/http%3A//www.musicradiocreative.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy : Music Radio Creative
 
-**MUSIC RADIO CREATIVE LTD – PRIVACY POLICY**
+Music Radio Creative Limited
+
+## Privacy Policy
 
 Protecting your personal details on our website.
 
-Please note this website requires cookies in order to function correctly, they do not store any specific information about you personally. Read more about our use of cookies [here](http://www.musicradiocreative.com/privacy#cookies).
+Please note this website requires cookies in order to function correctly, they do not store any specific information about you personally. Read more about our use of cookies here.
 
 Last updated: 26 May 2012
 
 Music Radio Creative (Registered number 5473283), whose registered office is at 3 Scotts Way, Tunbridge Wells, Kent, TN2 5RG, United Kingdom, knows that you care how information about you is used and shared and we appreciate your trust in us to do that carefully and sensibly. This notice describes our privacy policy and forms part of our website terms and conditions ("Website Terms").
 
-**By accepting our Website Terms or by visiting www.musicradiocreative.com ("the Website") you are accepting and consenting to the practices described in this Privacy Policy.**
+ **By accepting our Website Terms or by visiting www.musicradiocreative.com ("the Website") you are accepting and consenting to the practices described in this Privacy Policy.**
 
 The Website is brought to you by Music Radio Creative. Music Radio Creative believes it is important to protect your Personal Data (as defined in the Data Protection Act 1998) and we are committed to giving you a personalised service that meets your needs in a way that also protects your privacy. This policy explains how we may collect Personal Data about you. It also explains some of the security measures we take to protect your Personal Data, and tells you certain things we will do and not do. You should read this policy in conjunction with the Website Terms.
 
@@ -24,9 +26,9 @@ Some of the Personal Data we hold about you may be 'sensitive personal data' wit
 
 We may collect Personal Data about you from a number of sources, including the following:
 
-1.1. From you when you agree to take a service or product from us, in which case this may include your contact details, date of birth, how you will pay for the product or service and your bank details. 
+1.1. From you when you agree to take a service or product from us, in which case this may include your contact details, date of birth, how you will pay for the product or service and your bank details.
 
-1.2. From you when you contact us with an enquiry or in response to a communication from us, in which case, this may tell us something about how you use our services. 
+1.2. From you when you contact us with an enquiry or in response to a communication from us, in which case, this may tell us something about how you use our services.
 
 1.3. From documents that are available to the public, such as the electoral register.
 
@@ -42,7 +44,7 @@ We may collect Personal Data about you from a number of sources, including the f
 
 2.1.4. To allow us to carry out marketing analysis and customer profiling (including with transactional information), conduct research, including creating statistical and testing information.
 
-2.1.5. To help to prevent and detect fraud or loss. 
+2.1.5. To help to prevent and detect fraud or loss.
 
 2.1.6. To allow us to contact you in any way (including mail, email, telephone, visit, text or multimedia messages) about products and services offered by us and selected partners unless you have previously asked us not to do so.
 
@@ -50,7 +52,7 @@ We may collect Personal Data about you from a number of sources, including the f
 
 2.1.8. We may monitor and record communications with you (including phone conversations and emails) for quality assurance and compliance.
 
-2.1.9. We may check your details with fraud prevention agencies. If you provide false or inaccurate information and we suspect fraud, we will record this. 
+2.1.9. We may check your details with fraud prevention agencies. If you provide false or inaccurate information and we suspect fraud, we will record this.
 
 2.2. We will not disclose your Personal Data to any third party except in accordance with this Privacy Policy.
 
@@ -60,7 +62,7 @@ We may collect Personal Data about you from a number of sources, including the f
 
 2.3.2. If we have been legitimately asked to provide information for legal or regulatory purposes or as part of legal proceedings or prospective legal proceedings.
 
-2.3.3. We employ companies and individuals to perform functions on our behalf and we may disclose your Personal Data to these parties for the purposes set out in clause 2.1 or, for example, for fulfilling orders, delivering packages, sending postal mail and email, removing repetitive information from customer lists, analysing data, providing marketing assistance, providing search results and links (including paid listings and links), processing credit and debit card payments and providing customer service. Those parties are bound by strict contractual provisions with us and only have access to Personal Data needed to perform their functions, and may not use it for other purposes. Further, they must process the Personal Data in accordance with this Privacy Policy and as permitted by the Data Protection Act 1998. From time to time, these other people and organisations to whom we may pass your Personal Data may be outside the European Economic Area. We will take all steps reasonably necessary to ensure that your Personal Data is treated securely and in accordance with this Privacy Policy and the Data Protection Act 1998. 
+2.3.3. We employ companies and individuals to perform functions on our behalf and we may disclose your Personal Data to these parties for the purposes set out in clause 2.1 or, for example, for fulfilling orders, delivering packages, sending postal mail and email, removing repetitive information from customer lists, analysing data, providing marketing assistance, providing search results and links (including paid listings and links), processing credit and debit card payments and providing customer service. Those parties are bound by strict contractual provisions with us and only have access to Personal Data needed to perform their functions, and may not use it for other purposes. Further, they must process the Personal Data in accordance with this Privacy Policy and as permitted by the Data Protection Act 1998. From time to time, these other people and organisations to whom we may pass your Personal Data may be outside the European Economic Area. We will take all steps reasonably necessary to ensure that your Personal Data is treated securely and in accordance with this Privacy Policy and the Data Protection Act 1998.
 
 2.4. Where you give us Personal Data on behalf of someone else, you confirm that you have provided them with the information set out in this Privacy Policy and that they have not objected to such use of their Personal Data.
 
@@ -90,13 +92,13 @@ We have strict security measures to protect Personal Data.
 
 4.2. Please remember that communications over the Internet, such as emails and webmails (messages sent through a website), are not secure unless they have been encrypted. Your communications may go through a number of countries before they are delivered - this is the nature of the Internet. We cannot accept responsibility for any unauthorised access or loss of Personal Data that is beyond our control.
 
-4.3. We may use 'cookies' to monitor how people use our site. This helps us to understand how our customers and potential customers use our website so we can develop and improve the design, layout and function of the sites. A cookie is a piece of information that is stored on your computer's hard drive through your browser, to recognise your browser and which records how you have used a website. This means that when you go back to that website, it can give you tailored options based on the information it has stored about your last visit. You can normally alter the settings of your browser to prevent it from accepting cookies. 
+4.3. We may use 'cookies' to monitor how people use our site. This helps us to understand how our customers and potential customers use our website so we can develop and improve the design, layout and function of the sites. A cookie is a piece of information that is stored on your computer's hard drive through your browser, to recognise your browser and which records how you have used a website. This means that when you go back to that website, it can give you tailored options based on the information it has stored about your last visit. You can normally alter the settings of your browser to prevent it from accepting cookies.
 
 4.4. If you do not want us to use cookies in your browser, you can set your browser to reject cookies or to tell you when a website tries to put a cookie on your computer. However, you may not be able to use some of the products or services on our website without cookies.
 
 5\. Turning Off Cookies in Different Browsers
 
-The Help menu on the menu bar of most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie and how to disable cookies altogether. Additionally, you can disable or delete similar data used by browser add-ons, such as Flash cookies, by changing the add-ons settings or visiting the website of its manufacturer. 
+The Help menu on the menu bar of most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie and how to disable cookies altogether. Additionally, you can disable or delete similar data used by browser add-ons, such as Flash cookies, by changing the add-ons settings or visiting the website of its manufacturer.
 
 6\. Links
 
@@ -104,16 +106,20 @@ The Help menu on the menu bar of most browsers will tell you how to prevent your
 
 6.2. These third-party websites and advertisers, or Internet advertising companies working on their behalf, sometimes use technology to send (or "serve") the advertisements that appear on the Website directly to your browser. They automatically receive your IP address when this happens. They may also use cookies, JavaScript, web beacons (also known as action tags or single-pixel gifs), and other technologies to measure the effectiveness of their ads and to personalise advertising content. We do not have access to or control over cookies or other features that they may use, and the information practices of these advertisers and third-party websites are not covered by this Privacy Policy. Please contact them directly for more information about their privacy practices. In addition, the Network Advertising Initiative offers useful information about Internet advertising companies (also called "ad networks" or "network advertisers"), including information about how to opt-out of their information collection.
 
-6.3. We exclude all liability for loss that you may incur when using these third party websites. 
+6.3. We exclude all liability for loss that you may incur when using these third party websites.
 
 7\. Further Information
 
-7.1. If you would like any more information or you have any comments about our Privacy Policy, please either write to us at Data Protection Manager, Music Radio Creative, 3 Scotts Way, Tunbridge Wells, Kent, TN2 5RG, United Kingdom, or [email us](http://www.musicradiocreative.com/contact-music-radio-creative).
+7.1. If you would like any more information or you have any comments about our Privacy Policy, please either write to us at Data Protection Manager, Music Radio Creative, 3 Scotts Way, Tunbridge Wells, Kent, TN2 5RG, United Kingdom, or email us.
 
 7.2. We may amend this Privacy Policy from time to time without notice to you, in which case, we will publish the amended version on the Website. You confirm that we shall not be liable to you or any third party for any change to this Privacy Policy from time to time. It is your responsibility to check regularly to determine whether this Privacy Policy has changed.
 
-7.3. You can ask us for a copy of this Privacy Policy and of any amended Privacy Policy by writing to the above address or by [emailing us](http://www.musicradiocreative.com/contact-music-radio-creative). This Privacy Policy applies to Personal Data we hold about individuals. It does not apply to information we hold about companies and other organisations.
+7.3. You can ask us for a copy of this Privacy Policy and of any amended Privacy Policy by writing to the above address or by emailing us. This Privacy Policy applies to Personal Data we hold about individuals. It does not apply to information we hold about companies and other organisations.
 
 7.4. If you would like access to the Personal Data that we hold about you, you can do this by emailing us or writing to us at the address noted above. There may be a nominal charge of Â£10 to cover administrative costs.
 
-7.5. We aim to keep the Personal Data we hold about you accurate and up to date. If you tell us that we are holding any inaccurate Personal Data about you, we will delete it or correct it promptly. Please [email us](http://www.musicradiocreative.com/contact-music-radio-creative) or write to us at the address above to update your Personal Data.
+7.5. We aim to keep the Personal Data we hold about you accurate and up to date. If you tell us that we are holding any inaccurate Personal Data about you, we will delete it or correct it promptly. Please email us or write to us at the address above to update your Personal Data.
+
+Any questions? We'd be delighted to help in any way we can.
+
+[Contact Us](https://web.archive.org/contact/)
