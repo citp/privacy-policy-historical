@@ -1,7 +1,9 @@
-> *The following text is extracted and transformed from the womansdivorce.com privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501021918id_/http%3A//www.womansdivorce.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the womansdivorce.com privacy policy that was archived on 2013-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131109231234id_/http%3A//www.womansdivorce.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | WomansDivorce.com
 
+|   
+  
 At WomansDivorce.com, we take your privacy seriously, and are dedicated to protecting our customers', consumers' and online visitors' privacy on our website. This document outlines the types of personal information we receive and collect when you use this website, as well as some of the steps we take to safeguard information. We hope this will help you make an informed decision about sharing personal information with us. We will not sell, trade or rent any personal information to others, unless required by law.
 
  **How information is collected and how it's used:**
@@ -86,6 +88,3 @@ Publication Date: December 7, 2002
 [Divorce](http://www.womansdivorce.com/) ›  [Site Information](http://www.womansdivorce.com/information.html) › Privacy Policy
 
 [Chat](http://www.womansdivorce.com/chat.html) / [Survey](http://www.womansdivorce.com/survey.html) / [Contact](http://www.womansdivorce.com/contact-us.html) / [Privacy](http://www.womansdivorce.com/privacy.html) / [Newsletter](http://www.womansdivorce.com/divorce-newsletter.html)
-
-  
-
