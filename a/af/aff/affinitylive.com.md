@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the affinitylive.com privacy policy that was archived on 2013-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130516034913id_/http%3A//www.affinitylive.com/company/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the affinitylive.com privacy policy that was archived on 2013-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131109122420id_/http%3A//www.affinitylive.com/company/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy » AffinityLive - integrated CRM, Project Management, Issue Tracking, Time Billing & Resource Management for Digital Marketers, MSPs & Professional Services
+# Privacy Policy - AffinityLive
 
 This privacy statement describes how **Hiive Systems** collects and uses the personal information you provide on **AffinityLive**. It also describes the choices available to you regarding our use of your information and how you can access and update this information.
 
