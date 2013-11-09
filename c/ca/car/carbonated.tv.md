@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the carbonated.tv privacy policy that was archived on 2013-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130508182933id_/http%3A//www.carbonated.tv/privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carbonated.tv privacy policy that was archived on 2013-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131109161455id_/http%3A//www.carbonated.tv/privacyPolicy) for the most accurate reproduction.*
 
-# Carbonated TV
+# Carbonated TVs Privacy Policy
 
 Carbonated.TV respects the privacy rights of our users and is committed to protecting the information collected through its online services and websites. We have adopted this privacy policy to explain how we collect, store and use the information collected in connection with our Online Services (the "Privacy Policy"). This Privacy Policy detailed below has been created to protect our user's privacy as well as to inform our users of the Carbonated.TV policy regarding privacy. This policy governs usage of the Carbonated.TV Website ("Site", "Website", "Carbonated", "Carbonated, Inc.", "Carbonated Site", "Carbonated.TV", or "Carbonated Website") found at the following URL: [www.carbonated.tv](http://www.carbonated.tv/) and any other sites owned by Carbonated.TV (collectively, "Site"). 
 
