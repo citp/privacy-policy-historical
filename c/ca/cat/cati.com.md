@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cati.com privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502075132id_/http%3A//cati.com/company/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cati.com privacy policy that was archived on 2013-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131109053444id_/http%3A//www.cati.com/company/privacy-policy.php) for the most accurate reproduction.*
 
 # CATI Privacy Policy
 
