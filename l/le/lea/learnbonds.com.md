@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the learnbonds.com privacy policy that was archived on 2013-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130513191059id_/http%3A//www.learnbonds.com/learnbonds-com-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the learnbonds.com privacy policy that was archived on 2013-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131109124302id_/http%3A//www.learnbonds.com/learnbonds-com-privacy-policy) for the most accurate reproduction.*
 
 # Learn Bond Privacy Policy
 
@@ -27,3 +27,5 @@ LearnBonds.com
 info@LearnBonds.com  
 240 West 37th Street  
 New York, NY 10018
+
+[](http://www.printfriendly.com/print?url=http://www.learnbonds.com/learnbonds-com-privacy-policy/)
