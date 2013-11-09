@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the camworld.com privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501040927id_/http%3A//camworldvip.com%3Fc2hvdz1wcml2YWN5JndpZHRoPTkwMA%3D%3D) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the camworld.com privacy policy that was archived on 2013-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131109172042id_/http%3A//www.camworldvip.com%3Fc2hvdz1wcml2YWN5JndpZHRoPTkwMA%3D%3D) for the most accurate reproduction.*
 
 # Live Adult Webcams - Free Memberships
 
@@ -9,7 +9,7 @@
   
 
 
-## for WebCamClub Network of Websites
+## for camworldvip.com Network of Websites
 
 ## Athinodorou, 3, Dasoupoli, Strovolos, Nicosia - Cyprus
 
@@ -23,9 +23,9 @@
 ## Last Updated: January 14th 2013
 
   1. General
-    1. The operative parties referred to in this policy are WebCamClub (hereinafter referred to as "COMPANY"), and you, the user of this site.
+    1. The operative parties referred to in this policy are camworldvip.com (hereinafter referred to as "COMPANY"), and you, the user of this site.
 
-      1. COMPANY, is the publisher and operator of the web sites [www.camworldvip.com](http://www.camworldvip.com/) (hereinafter the "Webistes"). When first-person pronouns are used in this Policy, (us, we, our, ours, etc.) these provisions are referring to WebCamClub d/b/a [www.camworldvip.com](http://www.camworldvip.com/). Additionally, when the terms "the Websites" or "Websites" are used, these terms refer to [www.camworldvip.com](http://www.camworldvip.com/).
+      1. COMPANY, is the publisher and operator of the web sites [www.camworldvip.com](http://www.camworldvip.com/) (hereinafter the "Webistes"). When first-person pronouns are used in this Policy, (us, we, our, ours, etc.) these provisions are referring to camworldvip.com d/b/a [www.camworldvip.com](http://www.camworldvip.com/). Additionally, when the terms "the Websites" or "Websites" are used, these terms refer to [www.camworldvip.com](http://www.camworldvip.com/).
 
       2. You, the User - As the user of these Websites, this policy will refer to the user as "you" or through any second-person pronouns, such as "yours," etc. Hereinafter, the user of the Websites shall be referred to in applicable second-person pronouns.
 
