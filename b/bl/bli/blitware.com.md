@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blitware.com privacy policy that was archived on 2013-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130514075332id_/http%3A//www.blitware.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blitware.com privacy policy that was archived on 2013-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131109063010id_/http%3A//www.blitware.com/privacy) for the most accurate reproduction.*
 
 # Blitware Technology Inc. Privacy Policy
 
