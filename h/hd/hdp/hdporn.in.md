@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hdporn.in privacy policy that was archived on 2013-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130429162444id_/http%3A//www.hdporn.in/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hdporn.in privacy policy that was archived on 2013-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131109210154id_/http%3A//www.hdporn.in/privacy.html) for the most accurate reproduction.*
 
 # HD Porn tube, Free Sex Videos, XXX Porno Clips, Online Streaming Movies and Free Sex Vids
 
@@ -45,4 +45,4 @@ You are entitled to access and correct your Data by doing so directly on the web
 
 CHANGES TO THE PRIVACY POLICY
 
-We may change this privacy policy at any time. You agree that we are under no duty to send you notice of such changes. Instead it is your responsibility to check this Privacy Policy from time to time. No change in the privacy policy will be effective until thirty (30) days after it is posted, unless the privacy policy has clear language indicating otherwise. 
+We may change this privacy policy at any time. You agree that we are under no duty to send you notice of such changes. Instead it is your responsibility to check this Privacy Policy from time to time. No change in the privacy policy will be effective until thirty (30) days after it is posted, unless the privacy policy has clear language indicating otherwise.
