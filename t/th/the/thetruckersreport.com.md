@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thetruckersreport.com privacy policy that was archived on 2013-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130605024041id_/http%3A//www.thetruckersreport.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thetruckersreport.com privacy policy that was archived on 2013-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131109092502id_/http%3A//www.thetruckersreport.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -48,7 +48,7 @@ You should consult the respective privacy policies of these third-party ad serve
 
 If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
 
-We can be reached via e-mail at [admin@thetruckersreport.com](mailto:admin@thetruckersreport.com)
+We can be reached via e-mail at [admin@truckersreport.com](mailto:admin@thetruckersreport.com)
 
 For each visitor to our Web page, our Web server automatically recognizes the visitor’s IP address.
 
