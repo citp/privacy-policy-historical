@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webmastercourse.com privacy policy that was archived on 2013-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130507000545id_/http%3A//www.webmastercourse.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webmastercourse.com privacy policy that was archived on 2013-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131109090508id_/http%3A//www.webmastercourse.com/privacy-policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy WebmasterCourse.Com
 
