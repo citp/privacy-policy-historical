@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the socialrewards.com privacy policy that was archived on 2013-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130515133354id_/http%3A//socialrewards.com/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the socialrewards.com privacy policy that was archived on 2013-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131109185635id_/http%3A//socialrewards.com/PrivacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy | SocialRewards
 
