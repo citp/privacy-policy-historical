@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ant.com privacy policy that was archived on 2013-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130623231207id_/http%3A//www.ant.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ant.com privacy policy that was archived on 2013-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131109195333id_/http%3A//www.ant.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Ant.com
 
