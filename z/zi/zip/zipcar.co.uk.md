@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zipcar.co.uk privacy policy that was archived on 2013-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130610030448id_/http%3A//members.zipcar.co.uk/site/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zipcar.co.uk privacy policy that was archived on 2013-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131109234008id_/http%3A//members.zipcar.co.uk/site/privacy) for the most accurate reproduction.*
 
 # Privacy Policy – Zipcar
 
@@ -62,7 +62,7 @@ The following third party advertiser/service provider may use cookies, web beaco
 
 
 
-Zipcar may use additional service providers not listed above. Please visit the [Network Advertising Initiative](http://www.networkadvertising.org/index.asp) website for additional information about such providers and the options they may offer.
+Zipcar may use additional service providers not listed above. Please visit the [Network Advertising Initiative](http://www.networkadvertising.org/index.asp) and [Digital Advertising Alliance](http://www.aboutads.info/) websites for additional information about such providers and the options they may offer.
 
 The use of cookies by our partners, affiliates, tracking utility company, service providers is not covered by our privacy statement. We do not have access or control over these cookies. Our partners, affiliates, tracking utility company, service providers use session ID cookies to make it easier for you to navigate our site.
 
@@ -88,7 +88,7 @@ If you have questions about our handling of personal information, you may write 
 
 ## Corporate identity
 
-Zipcar, Inc. is located at 25 First Street in Cambridge, Massachusetts 02141 USA.
+Zipcar, Inc. is located at 35 Thomson Place in Boston, Massachusetts 02210 USA.
 
 Zipcar Canada Inc.'s registered office is at 77 King Street West, Toronto-Dominion Centre, Suite 400, Toronto, Ontario M5K 0A1.
 
