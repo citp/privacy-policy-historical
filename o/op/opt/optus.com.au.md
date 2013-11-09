@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the optus.com.au privacy policy that was archived on 2013-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130527230302id_/http%3A//www.optus.com.au/portal/site/aboutoptus/menuitem.813c6f701cee5a14f0419f108c8ac7a0/%3Fvgnextoid%3D0aaba47491954010VgnVCM10000029a67c0aRCRD) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the optus.com.au privacy policy that was archived on 2013-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131109093915id_/http%3A//www.optus.com.au/portal/site/aboutoptus/menuitem.813c6f701cee5a14f0419f108c8ac7a0/%3Fvgnextoid%3D0aaba47491954010VgnVCM10000029a67c0aRCRD) for the most accurate reproduction.*
 
 # Optus - About Optus - Privacy Policy
 
