@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the boilsoft.com privacy policy that was archived on 2013-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130505142621id_/http%3A//boilsoft.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boilsoft.com privacy policy that was archived on 2013-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131109115240id_/http%3A//www.boilsoft.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Boilsoft Privacy Policy
 
