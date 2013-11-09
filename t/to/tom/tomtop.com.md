@@ -1,42 +1,40 @@
-> *The following text is extracted and transformed from the tomtop.com privacy policy that was archived on 2013-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130514203600id_/http%3A//www.tomtop.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tomtop.com privacy policy that was archived on 2013-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131109090259id_/http%3A//www.tomtop.com/helpcenter/index/post/post_id/12) for the most accurate reproduction.*
 
-# Privacy Policy
+# TOMTOP Online Store - Wholesale Electronics, Home & Garden, LEDs, Clothing, Sport & Outdoor With Free Shipping
 
-TOMTOP company will be very carefully treat and handle your privacy information. Please read the following information of our company's privacy policy to learn more about that.
+## Information Protection
 
-**Summary**  
- privacy Protection is essential to us. As part of our normal operation services, we collect and, sometimes disclose the privacy to others about your personal information. This "Privacy Policy" describes how we collect and handle your privacy. Because of our full preparition,which make this article looks longer, its purpose is let you know much privacy TOMTOP enacted , so that you can make the whole decision accordingly. Privacy  described in this article applies to [WWW.TOMTOP.com](http://www.tomtop.com/) website.
+Your personal information is protected by Tomtop.com. When you submit sensitive information via the website, your information is protected both online and offline. The policy of allowing access to this Personal Information is only to our staff with a need to know. Tomtop.com is the sole owner of information collected on this site and we guarantee that we will not sell, share, or rent your information to any outside parties.
 
-  
-**Content:**  
- the "privacy clause" included the personal privacy information TOMTOP has collected  when you log into TOMTOP website and when you use the services TOMTOP offered.
+## Protected Information Includes:
 
-  
-**Privacy protection**  
-We respect your personal privacy. The "privacy clause" is responsible for the operation of our online information management, and fully reflects our commitment to protecting your privacy.
+Registered email/ password /nickname/ IP address/ the date and time/ browser and operating system/ the URL you requested/ your PayPal email / your PayPal shipping address and other information.
 
-**Safety measures**   
-    We use the latest security measures to prevent illegal intrusion from others, we do maintain data accuracy and ensure the correct use of information.   
-    We will set a password to protect your account information and personal information.We recommend that you do not tell password to others. Without the consent of our staff by phone and e-mail We will never ask for your password. Remember, when you have finished browsing operation, please exit account and close your browser.   
-    Through the Internet or any of a wireless network for data transmission are not absolutely safe. Thus, we try our efforts to protect your personal information,But we can not ensure or warrant any information you sent is safe, and therefore any consequences caused are on your personal responsibility.
+**Note** : No one other than yourself can access your password, including our staff.
 
-**Information Collection**   
-When you register to receive the services provided on our website, we will ask you to provide the following personal information: name, date of birth, gender, address, e-mail, phone number, zip code, occupation, industry, personal interests and hobbies, company name The company address and other personal confirmation of information. We need to know this information to provide you the services you need and let you know some of you might be interested in other services. We will also use this information to understand the customer experience using our site to make our services more customer oriented.   
-In addition, we will automatically collect information about our site and site visit personnel comprehensive statistical information, such as: IP address, browser, browsing through the website, Visitors, etc.. But in this process, we will not reveal personal name, e-mail or phone number and some other conditions related to your privacy information. We will focus on the use of these data to determine the user the extent to which Le various parts of our site, we will also be improved according to the website. We may provide this statistical information to third parties, but without your permission, we will not be provided to third parties personally identifiable information about sexuality.
+## Collected Information Includes:
 
-**Information Use**   
-We will use your personally identifiable information to facilitate marketing of, the use of the site analysis and statistics to improve the site's content and services, and can make our site's content, design and services more customer oriented.   
-    In some cases, we may use your personal information of those you are interested in information (such as your favored the ad title, new services and products) to you. We may also e-mail through your left, mailing address and phone number to contact you to let you know the site's management to inform, new product releases and relevant to your use of our site the traffic patterns.   
-     We use your IP address to help find the analysis of problems with our server, administer our website and the various functions of our servers, use the data to improve our web site usage.
+1.When you browse our website, we may collect your IP address, browser and operating system, and the URL you request.  
+2.When you order on our website, we may collect the registered email, password, nickname, IP address, the date and time, browser and operating system, the URL you request, your PayPal email and your PayPal shipping address.  
+3.When we have more cooperation, we may collect more information, for example, phone number, your website, MSN, your reviews and testimonials etc.
 
-**Information Share**  
-The information you provide will be shared by all users of our site. Remember that any information you provide will become public information. Therefore, please be careful to provide confirmation of the information these individuals.
+## The Collected Information Use
 
-**Privacy Security**  
-To protect your privacy and security, and your "TOMTOP registered account" will be implemented password protection. In certain areas, TOMTOP company will use industry-standard Secure Sockets Layer encryption software (SSL-encryption) to protect data transmission.
+1.We need the information to process your orders and offer a better service to you.  
+2.We want to make it easier to tailor our products and services to your particular needs.  
+3.We want you to have the most enjoyable internet and shopping experience.  
+4.This Personal Information also may be used to contact you about sales, special offers and new site features, unless you have elected not to receive promotional communications in connection with this website.
 
-**Terms amendment**  
-TOMTOP companies may regularly amend the "Terms." If we use your personal information to do the relevant changes, we will significantly change the websites notice.
+## About Links
 
-**Questions and suggestions**  
-TOMTOP welcome you to our website and pay attention on the "privacy clause" and the problem of the services.You can send your comments to [wholesale@tomtop.com](mailto:wholesale@tomtop.com)
+Our website contains links to other sites (like tracking web). Please be aware that Tomtop.com is not responsible for the privacy practices of other sites. We encourage users to be aware when they leave our site and to read the privacy statements of each and every website that collects personally identifiable information. This privacy statement applies only to information collected by this website.
+
+## Notification of Changes
+
+If we decide to change our Privacy Policy, we will post those changes to this privacy statement, the homepage, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. Customers are responsible for periodically checking the Privacy & Policy available on the website for changes. If we make material changes to this policy, we will notify you here or by means of a notice on our homepage.
+
+## About Tomtop Newsletter
+
+Tomtop Newsletter will be sent out regularly with the latest updates on new arrivals, recent hot deals, special offers and bargains, as well as exclusive coupons and discounts to our email subscribers. We respect your privacy and will not disclose your details to any third party.
+
+If you no longer want to receive our newsletter, you can click the unsubscribe link.
