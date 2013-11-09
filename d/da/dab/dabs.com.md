@@ -1,79 +1,103 @@
-> *The following text is extracted and transformed from the dabs.com privacy policy that was archived on 2013-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130531211639id_/http%3A//www.dabs.com/go/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dabs.com privacy policy that was archived on 2013-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131109055230id_/http%3A//www.dabs.com/go/privacy) for the most accurate reproduction.*
 
 # Our privacy policy - dabs.com
 
-This policy covers all users who register to use the dabs.com website. It is not necessary to register in order to gain access to the searching facilities of the site, but we may restrict access to certain areas as referred to in Principle 2 below. Access to dabs.com is free of charge to all users.   
-The dabs.com website is operated by dabs.com PLC. We are committed to protecting your privacy when you are using our online services. To protect your privacy, we apply five principles which you can read about below.   
+## **dabs.com Privacy Policy**
+
+This policy covers all users of the dabs.com website. It is not necessary to register in order to gain access to the searching facilities of the site, but we may restrict access to certain areas as set out in our information about [Cookie Preferences](https://web.archive.org/content/cookies). Access to the dabs.com website is free of charge to all users. The dabs.com website is operated by dabs.com plc. We are committed to protecting your privacy when you are using our online services. 
+
+**COLLECTION AND USE OF YOUR DATA
+
+The personal information we collect:
+
+**
+
+  * During our registration process, we ask you for personal information such as, your name, e-mail address, billing address, delivery address, contact numbers, payment information, password and date of birth (optional) which identifies you and enables us to communicate with you.
+  * We will invite you to tell us your interests, or information about you, so that we can make our communications relevant and interesting. This may include information such as your brand preferences, or the type of technology you like. It is up to you whether or not you provide us with this information.
+  * We and our third party advertisers may also collect other information about you when you visit our website, such as, your IP address, details of the country and telephone area code where your computer is located, your browser type, where on the internet you came from, pages you visited on our website and adverts that you clicked on, including, any search terms you entered.
+  * When you order goods [and services] from dabs.com we will carry out credit-checking enquiries about you. To do this we will provide some of your information to credit reference agencies. For more information about our credit checking processes scroll to the bottom of this page.
 
 
-### Principle 1 - Notice
 
-During our registration process, we ask for personal information which both identifies you and enables us to communicate with you.  We also invite you to tell us your interests so that we can make our communications relevant and interesting for you.
-
-To help us prevent fraud, please be aware that we may make searches about you at credit reference agencies for the purpose of verifying your identity. These agencies will supply us with information, including information from the Electoral Register. The fact that we have requested an identity check is recorded by these agencies, though be assured that the searches will not be seen, or used by lenders to assess your ability to obtain credit. 
-
-Please also note that we may cross reference the information you provide us with data from a specialist anti-fraud third party with a view to stopping fraudulent transactions before they occur. 
-
-We will use the information you provide only for the following purposes: 
+ **We will use your personal information for the following purposes:**
 
   * To send updates regarding the status of your orders
-  * To send you newsletters and details of offers and promotions in which we believe you will be interested 
+  * To process your order
   * To improve the content, design and layout of the dabs.com website and to facilitate knowledge management 
-  * To understand the interests and buying behaviour of our registered users 
-  * To perform other such general marketing and promotional activities focused on our products and services. We may also register you for our other services which we feel may be useful or of interest to you. 
-  * Very occasionally, dabs.com may share your details with carefully selected third parties for general marketing and promotional activities.  However, if your communication preferences show that you have chosen NOT to receive such information from third parties, then of course your details will not be shared. You can edit your communications preferences at any time via the 'my account' section of our website.
+  * To understand the interests and buying behaviour of our registered users
+  * We monitor and record our communications with you, including e-mails and telephone conversations. Information collected may then be used for training purposes, quality assurance, to record details about the products/services in which you're interested, and in order to meet our legal and regulatory obligations generally.
+  * If you purchase a Television or Television receiving equipment, dabs.com is legally obliged to inform the TV Licensing Authority giving details of the address to which the equipment is to be delivered.
   * We sometimes use other companies to provide services to you or to provide services to us. To enable them to do this, we may need to share your personal information with them. When we do so, these companies are required to act in accordance with the instructions we give them and they must meet the requirements of the Data Protection Act to keep information secure.
 
 
 
-This privacy policy only covers the dabs.com website at [http://www.dabs.com](https://web.archive.org/). Other links within this site to other websites or framed third party sites within dabs.com are not covered by this policy. We may continue to use your personal information for a period after you cease being a registered user. 
+ **Marketing:**
 
-### Principle 2 - Consent and Choice
+  * If you consent, we will send you newsletters and details of offers and promotions in which we believe you will be interested. 
+  * Very occasionally, and depending how you set up your communications preferences, dabs.com may share your details with carefully selected third parties for general marketing and promotional activities. You can edit your communications preferences at any time via the '[my Dabs](https://www.dabs.com/account)' section of our website.
 
-If you choose not to register or not provide personal information, you may still visit the dabs.com website but you will not be able to access the restricted areas available to registered users. By completing the registration process, you are confirming that you accept the terms of our Privacy Policy as described and consent to our using your information accordingly.
 
-### Principle 3 - Access
 
-We have provided an administration service (your account) where you can review your personal information at any time to ensure it is correct and current. You will be able to update, correct, change or delete inaccurate details. You may also change your choice of opting in or out of marketing and promotional activities, although you may continue to receive mailings for a short period while your change is being processed. You have the right to ask for a copy of your personal information on payment of a small fee. 
+ **YOUR RIGHTS**
 
-### Principle 4 - Security 
+Once you have registered with dabs.com, you can review your personal information at any time to ensure it is correct and current on the "my Dabs" section of the dabs.com website. You will be able to update, correct, change or delete inaccurate details. You may also change your marketing/communications preferences here. Please note however that if you opt out of receiving marketing material you may continue to receive mailings for a short period while your change is being processed.
 
-We have taken appropriate measures to ensure that your personal information is not unlawfully processed. dabs.com uses industry standard practices to safeguard the confidentiality of your personal identifiable information, including "firewalls" and Secure Socket Layers. dabs.com treats data as an asset that must be protected against loss and unauthorized access.  However, no information transferred over the Internet or wireless network can be guaranteed to be completely secure. We employ many different security techniques to protect such data from unauthorised access by users inside and outside the company. 
+You have the right to ask us what personal data we hold about you, and we can supply this information on payment of a small fee. Please contact our customer service team for full details on how to make such a request at [assistance@dabs.com](mailto:assistance@businessdirect.bt.com).
 
-We will not be transferring your personal information outside of the European Economic Area unless otherwise specifically advised. 
+ **SECURITY**
 
-### Principle 4.1 - Cookies
+We take appropriate technical and organisation security measures to protect your personal information and ensure that it is processed fairly and lawfully. dabs.com uses industry standard practices to safeguard the confidentiality of your personal information, including "firewalls" and Secure Socket Layers. We do not transfer your personal information outside of the European Economic Area.
 
-Our website creates multiple cookies on your machine which contain session and state information. The information within these cookies does not include any personal or financial information. Our website requires cookies to be enabled in the web browser and in any third party security programs to allow tasks such as registering, logging in, buying items or accessing accounts. Please be aware that should cookies be disabled or blocked by third party software, many of our website's features will be impaired or unavailable. 
+ **COOKIES**
 
-Third party Internet sites that you can link to from our website are not covered by our privacy policy, so we urge you to be careful when you enter any personal information online. dabs.com accepts no responsibility or liability for these sites. Other companies which advertise or offer their products or services on our website may also allocate cookies to your PC. The types of cookies they use and how they use the information generated by them will be governed by their own privacy policies and not ours.
+Our website creates multiple cookies on your machine which contain session and state information. The information within these cookies does not include any personal or financial information. Our website requires cookies to be enabled in the web browser and in any third party security programs to allow tasks such as registering, logging in, buying items or accessing accounts. Please be aware that should cookies be disabled or blocked by third party software, many of our website's features will be impaired or unavailable.
 
-Information on how we use cookies can be found [here](https://web.archive.org/content/cookies). 
+Other companies which advertise or offer their products or services on our website may also allocate cookies to your PC. The types of cookies they use and how they use the information generated by them will be governed by their own privacy policies and not ours.
 
-### Principle 5 - Minors 
+By using the dabs.com website you agree to dabs.com using cookies that are "strictly necessary". [Further information on how we use cookies can be found here](https://web.archive.org/content/cookies).
 
-The dabs.com website is not intended for children and we ask that no-one under the age of 12 submits personal information to us or uses the site without supervision of a parent or guardian. 
+ **RETENTION OF YOUR PERSONAL DATA**
 
-### Principle 6 - Deletion of your Personal Data
+We retain your personal information for a period of 6 years from the date of your last interaction with us (this could be a sales transaction, a return, or some other interaction with dabs.com via our Customer Services team or our online tools). This is because we may need to access historical information for business reporting purposes. Please note however, that at any point in time you may opt in or out of marketing communications via the 'your account' section of this website. 
 
-We are unable to delete your dabs.com account information containing your personal information for a period of 6 years from the date of your last interaction with us (this could be a sales transaction, a return, or some other interaction with dabs.com via our Customer Services team or our online tools).  This is because we may need to access historical information for business reporting purposes.  Please note however, that at any point in time you may opt in or out of marketing communications via the 'your account' section of this website. 
+  * The dabs.com website is not intended for children and we ask that no-one under the age of 16 submits personal information to us or uses the site without supervision of a parent or guardian.
 
-### Questions 
 
-If you have any questions about this privacy policy, or the use of your personal information, or if you wish to request us to stop using your information in any way, please write to: 
+
+ **Changes to this Policy**
+
+  * If we decide to change this privacy policy, we would post such changes on this page so that you are always aware of what information we collect, how we use it and under what circumstances we disclose it.
+
+
+
+ **Scope of this Policy**
+
+  * This privacy policy only covers all users of the dabs.com website at http://www.dabs.com. Other links within this site to other websites or framed third party sites within the dabs.com website are not covered by this policy. 
+
+
+
+**Contact Details**
+
+  * If you have any questions about this privacy policy, or the use of your personal information, or if you wish to request us to stop using your information in any way, please write to: 
 
 Data Protection Officer   
-dabs.com PLC   
-National Logistics Centre   
-Wingates Industrial Park   
-Westhoughton   
-Bolton   
-BL5 3XU 
+dabs.com
 
-If you have any questions for dabs.com relating to privacy, please send them to this address.
+  * Alpha Beta House, Enterprise Park  
+Horwich, Bolton   
+BL6 6PE  
 
-### Changes to this policy
 
-If we decide to change this privacy policy, we would post such changes on this page so that you are always aware of what information we collect, how we use it and under what circumstances we disclose it. 
+
+
+ **Additional Information About Credit Checking**
+
+When you order goods and services from dabs.com we may make enquiries about you for credit reference purposes. This may include searching your records held by Experian/Equifax or any other Credit Reference Agency (CRA) and checking any details held on you by the Interactive Media in retail Group (IMRG) Security alert or other Fraud Prevention Agencies (FPAs). When CRAs receive a search from us they will place a footprint on your file that may be seen by other organisations. At all times where your information is disclosed to us we may retain it and we will protect it in accordance with this policy and keep it secure. We will retain the outcome of searches we carry out with CRAs to avoid having to make repeat searches against your credit file in circumstances where we may need to carry out further credit checks in respect of additional products or services ordered by you. We will only retain this data for a reasonable period.
+
+If you tell us that you have a spouse or financial associate, we will link your records together so you must be sure that you have their agreement to disclose information about them. CRAs also link your records together and these links will remain on your and their files until such time as you or your partner successfully files for a disassociation with the CRAs to break that link.
+
+Information on applications will be sent to CRAs and will be recorded by them. We may also give them details of your accounts and billing information, including how you manage it/them to CRAs We may tell them about payments you make to us, your account balances, and payment defaults [We may also give them historical information we hold about your payment history with us.] If you do not pay your bills on time, CRAs will record this information and it may be supplied to other organisations by CRAs and FPAs to perform similar checks and to trace your whereabouts and recover debts that you owe to them as well as us.
 
 [ ](https://web.archive.org/articles/help)
+
+* * *
