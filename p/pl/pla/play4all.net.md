@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the play4all.net privacy policy that was archived on 2013-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130520112302id_/http%3A//www.slixmedia.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the play4all.net privacy policy that was archived on 2013-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131109115911id_/http%3A//www.slixmedia.com/privacy) for the most accurate reproduction.*
 
 # Slix Media - Leading the Industry
 
