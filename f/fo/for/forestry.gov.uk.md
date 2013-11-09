@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the forestry.gov.uk privacy policy that was archived on 2013-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130510204111id_/http%3A//www.forestry.gov.uk/forestry/infd-52ybs4) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the forestry.gov.uk privacy policy that was archived on 2013-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131109014753id_/http%3A//www.forestry.gov.uk/forestry/infd-52ybs4) for the most accurate reproduction.*
 
 # Forestry Commission - Privacy Policy
 
@@ -6,10 +6,6 @@ This page explains how we use any information you give to us through our website
 
   * The Data Protection Act
   * Cookies
-    * Introduction
-    * Picture Library
-    * Google Analytics
-    * How to control and delete cookies
   * Log files
   * Other information we collect
   * Links to other sites
@@ -17,9 +13,7 @@ This page explains how we use any information you give to us through our website
 
 
 
-* * *
-
-##  The Data Protection Act
+## The Data Protection Act
 
 The Forestry Commission is a data controller under the Data Protection Act. Under the Act, we have a legal duty to protect any information we collect from you. We safeguard your data, and keep strict security standards to prevent any unauthorised access to it. We do not pass on your details to any third party or other government department (except to process on our behalf) unless you give us permission to do so.
 
@@ -152,8 +146,6 @@ We collect different kinds of information from visitors to our website:
   * Registration details for some areas of the site; 
 
 
-
-### Feedback
 
 You can send us your feedback directly using the [contact details ](https://web.archive.org/contactus)on our website. We do not pass on any of your personal information outside our organisation when dealing with your enquiry. We will not use any information you supply for any other purpose without first seeking your permission.
 
