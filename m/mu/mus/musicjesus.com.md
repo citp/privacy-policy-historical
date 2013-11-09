@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the musicjesus.com privacy policy that was archived on 2012-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120507180125id_/http%3A//musicjesus.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the musicjesus.com privacy policy that was archived on 2013-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131109023208id_/http%3A//www.musicjesus.com/pages/privacy.html) for the most accurate reproduction.*
 
-# MusicJesus.com - Music Video Codes
-
-**This site is owned by EW Internet Holdings LLC**
+# Privacy
 
 **Privacy Policy**
 
@@ -12,9 +10,9 @@ From time to time, we may ask for information that personally identifies you, as
 
 You also may choose to provide personal information by participating in various forums we intend to offer for readers. You should remember that when you yourself voluntarily disclose personal information to other Internet users, such as when you include personal information in a posting to an online discussion forum, that information could be used by others and may result in unsolicited messages or other forms of attention.
 
-We use IP addresses to analyze traffic and administer this site. IP addresses track individual computers and do not contain personally identifiable data. 
+We use IP addresses to analyze traffic and administer this site. IP addresses track individual computers and do not contain personally identifiable data.
 
-In order to describe our services to prospective partners, advertisers and others, we may disclose user information, but only in a form that does not identify individual users. For example, we might disclose that a certain percentage of our users are from US households or within a certain age range. 
+In order to describe our services to prospective partners, advertisers and others, we may disclose user information, but only in a form that does not identify individual users. For example, we might disclose that a certain percentage of our users are from US households or within a certain age range.
 
 **Cookies**
 
