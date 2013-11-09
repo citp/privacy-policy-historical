@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the daftdogarcade.com privacy policy that was archived on 2013-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130509050516id_/http%3A//www.daftdogarcade.com/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the daftdogarcade.com privacy policy that was archived on 2013-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131109115430id_/http%3A//www.daftdogarcade.com/page/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - daftdogarcade.com
 
@@ -24,4 +24,4 @@ If we decide to change our privacy policy, we will post those changes to this pr
 
 We are committed to resolving disputes within 24-48 hours. If problems arise, users may contact via our [](http://bored.ws/page/null "null")[contact form.](http://www.daftdogarcade.com/index.php?task=contact "Contact Form")
 
-If site users have any questions or suggestions regarding our privacy policy, please contact us via our [](https://web.archive.org/web/20130509050516id_/http%3A//www.daftdogarcade.com/page/null "null")[Contact us Page](http://www.daftdogarcade.com/index.php?task=contact "Contact Us").
+If site users have any questions or suggestions regarding our privacy policy, please contact us via our [](https://web.archive.org/web/20131109115430id_/http%3A//www.daftdogarcade.com/page/null "null")[Contact us Page](http://www.daftdogarcade.com/index.php?task=contact "Contact Us").
