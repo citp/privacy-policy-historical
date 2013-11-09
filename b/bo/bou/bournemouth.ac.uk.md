@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bournemouth.ac.uk privacy policy that was archived on 2013-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130526224037id_/http%3A//www.bournemouth.ac.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bournemouth.ac.uk privacy policy that was archived on 2013-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131109232414id_/http%3A//www.bournemouth.ac.uk/privacy) for the most accurate reproduction.*
 
 # Privacy policy | About the University | Bournemouth University
 
@@ -90,7 +90,7 @@ Please contact us if you have questions about our privacy statement at [newmedia
 
 Related Links
 
-  * [Freedom of Information](http://www.bournemouth.ac.uk/FOI.html)
+  * [Freedom of Information](http://www.bournemouth.ac.uk/foi)
   * [Contact Bournemouth University](http://www.bournemouth.ac.uk/contact)
 
 
