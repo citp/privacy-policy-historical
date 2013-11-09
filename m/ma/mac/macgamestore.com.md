@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the macgamestore.com privacy policy that was archived on 2013-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130510104606id_/http%3A//www.macgamestore.com/information/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the macgamestore.com privacy policy that was archived on 2013-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131109055048id_/http%3A//www.macgamestore.com/information/Privacy) for the most accurate reproduction.*
 
-# Information - Privacy | Macgamestore.com
+# Privacy | Macgamestore.com
 
 _Last Updated: Jul 31, 2012_
 
