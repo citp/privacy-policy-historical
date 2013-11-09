@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lowendmac.com privacy policy that was archived on 2013-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130524124532id_/http%3A//lowendmac.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lowendmac.com privacy policy that was archived on 2013-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131109015354id_/http%3A//lowendmac.com/privacy.html) for the most accurate reproduction.*
 
 # Low End Mac Privacy Policy
 
@@ -37,8 +37,8 @@ Low End Mac is an independent publication and has not been authorized, sponsored
   [PRIVACY](https://web.archive.org/privacy.html): We don't collect personal information unless you explicitly provide it, and we don't share the information we have with others. For more details, see our [Terms of Use.](https://web.archive.org/terms.html)
 
 | 
-* Mac of the Day: [Centris 610](https://web.archive.org/quadra/centris-610.html), introduced 1993.02.10. This was the Mac we used when we started Low End Mac in 1997.
-* List of the Day: [LEM Swap](http://lowendmac.com/lists/swap.html) is where users can buy, sell, and swap Mac-related goods.  
+* Mac of the Day: [15" 'TiBook' PowerBook G4](https://web.archive.org/pb2/powerbook-g4-400-500-mhz.html), introduced 2001.01.09. A new 1" thin PowerBook design with a titanium case, 15" widescreen display.
+* List of the Day: [Vintage Macs](http://lowendmac.com/lists/vintagemacs.shtml) is for all 680x0-based Macs, from the 128K through Quadras.  
 
  **Channels**  
  [Power Macs](https://web.archive.org/ppc/index.shtml)  
