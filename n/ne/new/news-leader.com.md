@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the news-leader.com privacy policy that was archived on 2013-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130518011145id_/http%3A//www.news-leader.com/section/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the news-leader.com privacy policy that was archived on 2013-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131109215943id_/http%3A//www.news-leader.com/section/privacy) for the most accurate reproduction.*
 
-# PRIVACY | Springfield News-Leader | news-leader.com
+# privacy | Springfield News-Leader | news-leader.com
 
 Last Updated: January 3, 2013
 
@@ -122,7 +122,7 @@ Become a subscriber today to enjoy these benefits:
 
 
 
-[View subscription options](https://web.archive.org/section/subscription-options?gps-source=SUBPW11)
+[View subscription options](https://web.archive.org/section/subscription-options&gps-source=CPPWOPT)
 
 ## You now have full access.
 
