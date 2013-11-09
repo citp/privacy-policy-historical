@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shopvisible.com privacy policy that was archived on 2013-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130427122939id_/http%3A//www.shopvisible.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shopvisible.com privacy policy that was archived on 2013-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131109031551id_/http%3A//www.shopvisible.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Hosted Ecommerce Software | ShopVisible
 
@@ -76,7 +76,8 @@ Please read our [Terms of Use] to understand the terms that apply to your use of
 
 **Contacting Us**
 
-If you have any questions or concerns about this Privacy Policy, please email us at [support@shopvisible.com](mailto:support@shopvisible.com). You can also reach us by regular mail at:  
+If you have any questions or concerns about this Privacy Policy, please email us at [communications@shopvisible.com](mailto:communications@shopvisible.com). You can also reach us by regular mail at:  
 ShopVisible, LLC  
-1095 Zonolite Rd. Suite 100  
-Atlanta, GA 30306 USA
+945 East Paces Ferry Road  
+Suite 1475  
+Atlanta, GA 30326 USA
