@@ -1,706 +1,736 @@
-<!--The following is the downloaded HTML source of the hdtracks.com privacy policy that was archived on 2013-05-13.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130513075459id_/https%3A//www.hdtracks.com/index.php%3Ffile%3Dstaticpage%26pagename%3Dprivacy_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the hdtracks.com privacy policy that was archived on 2013-11-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131109034831id_/https%3A//www.hdtracks.com/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<title>HDtracks high resolution audiophile music downloads </title>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" xmlns:fb="http://ogp.me/ns/fb#"><head>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">var NREUMQ=NREUMQ||[];NREUMQ.push(["mark","firstbyte",new Date().getTime()]);</script><title>Privacy Policy | HDtracks - The World's Greatest-Sounding Music Downloads</title>
+<meta name="description" content="HDtracks high resolution music downloads.">
 <meta name="keywords" content="high resolution, music, downloads, flac, aiff, 320 kbps mp3, drm-free, digital, audio, audiophile, musician, liner notes, high definition, hi fidelity, album, discography, CD quality">
-<meta name="description" content=" HDtracks high resolution music downloads ">
-<meta http-equiv="Expires" content="Mon, 04 Dec 1999 21:29:02 GMT">
-
-
-
-<script id="twitter-wjs" src="//platform.twitter.com/widgets.js"></script><script src="/javascripts/jquery-1.8.2.min.js"></script>
-<script>
-    $jq = jQuery.noConflict(true);
-</script>
-
-
-
-<link href="style/style.css" rel="stylesheet" type="text/css">
-<link href="style/jquery.alerts.css" rel="stylesheet" type="text/css" media="screen">
-<script src="js/gen_validatorv4.js" type="text/javascript"></script>
-
-
-
-<link rel="stylesheet" href="style/jquery-ui-1.9.1.custom.min.css">
-<script src="/javascripts/AC_RunActiveContent.js" language="javascript"></script>
-<script type="text/javascript" src="/javascripts/jquery-1.6.4.min.js"></script>
-<script type="text/javascript" src="/javascripts/jquery-ui-1.9.1.custom.min.js"></script>
-<script type="text/javascript" src="/javascripts/jquery.alerts.js"></script>
-<script src="/js/easySlider1.7.js" type="text/javascript"></script>
-
-
- 
+<meta name="robots" content="INDEX,FOLLOW">
+<!--<link rel="icon" href="" type="image/x-icon" />
+<link rel="shortcut icon" href="" type="image/x-icon" />-->
+<link rel="icon" href="/skin/frontend/enterprise/hdtracks/favicon.ico" type="image/x-icon">
+<link rel="shortcut icon" href="/skin/frontend/enterprise/hdtracks/favicon.ico" type="image/x-icon">
+<link href="https://fonts.googleapis.com/css?family=Archivo+Narrow:400,400italic,700,700italic" rel="stylesheet" type="text/css">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<!--[if lt IE 7]>
 <script type="text/javascript">
-function getCookie(c_name)
-{
-var i,x,y,ARRcookies=document.cookie.split(";");
-for (i=0;i<ARRcookies.length;i++)
-{
-  x=ARRcookies[i].substr(0,ARRcookies[i].indexOf("="));
-  y=ARRcookies[i].substr(ARRcookies[i].indexOf("=")+1);
-  x=x.replace(/^\s+|\s+$/g,"");
-  if (x==c_name)
-    {
-    return unescape(y);
-    }
-  }
-  return 0;
-} 
-	
-function setCookie(c_name,value,exdays)
-{
-var exdate=new Date();
-exdate.setDate(exdate.getDate() + exdays);
-var c_value=escape(value) + ((exdays==null) ? "" : "; expires="+exdate.toUTCString());
-document.cookie=c_name + "=" + c_value;
-}
-	
-    $jq(function() {
-	
-        $("#dialog").dialog({
-			width:500,
-			height:280,
-            modal: true,
-			autoOpen: false
-        });
-		
-		$jq("#install-button").click(function () {
-				var isMac = navigator.platform.toUpperCase().indexOf('MAC')!==-1;
-				if(isMac){
-					location.href = "http://files.jriver.com/partners/hdtracks/HDtracksDownloader-6.dmg";
-				} else {
-					location.href = "http://files.jriver.com/partners/hdtracks/channels/v18/stable/HDtracksDownloader180067.exe";
-				}
-				setCookie("HDTRACKSDM", 1,36000);
-				$("#dialog").dialog("close");
-		});
-    });
-	
-    $jq(function() {
-
-    //Default State
-    var isSupported = false;
-
-    //Helper Methods
-    function getProtocol(){
-        return $jq('#protocol').val();
-    }
-
-    function getUrl(){
-        return getProtocol()+"://Run";
-    }
-
-    function result(){
-		if(isSupported==false) 
-		{
-			$("#dialog").dialog("open");
-		}
-		else
-		{
-			if(($jq.browser.safari)||($jq.browser.msie)) { location.href = "hdtracks://Run"; }
-		}
-    }
-
-    //Handle Click on Launch button
-    $jq('.launch').click(function(){
-        if($jq.browser.mozilla){
-            launchMozilla();
-        }else if($jq.browser.chrome){
-            launchChrome();
-        }else if($.browser.safari){
-            launchIE();
-        }else if($.browser.webkit){
-            launchIE();			
-        }else{
-            launchIE();
-        }
-    });
-	  
-    //Handle IE
-    function launchIE(){
-		cookie=getCookie("HDTRACKSDM");
-		if(cookie>0) isSupported=true; 
-//		isSupported=<?php echo($downloaded); ?>;
-		result();
-    };
-
-    //Handle Firefox
-    function launchMozilla(){
-        var url = getUrl(),
-            iFrame = $jq('#hiddenIframe')[0];
-
-        isSupported = false;
-
-        //Set iframe.src and handle exception
-        try{
-            iFrame.contentWindow.location.href = url;
-            isSupported = true;
-            result();
-        }catch(e){
-            //FireFox
-//            if (e.name == "NS_ERROR_UNKNOWN_PROTOCOL"){
-			if (e.name == "NS_ERROR_FAILURE"){
-                isSupported = false;
-                result();
-            }
-        }
-    }
-
-    //Handle Chrome
-    function launchChrome(){
-
-        var url = getUrl(),
-            protcolEl = $jq('.launch')[0];
-
-        isSupported = false;
-
-
-        protcolEl.focus();
-        protcolEl.onblur = function(){
-            isSupported = true;
-            console.log("Text Field onblur called");
-        };
-
-        //will trigger onblur
-        location.href = url;
-        
-        //Note: timeout could vary as per the browser version, have a higher value
-        setTimeout(function(){
-            protcolEl.onblur = null;
-            result()
-        }, 500);   
-
-    }
-	
-    });	
-</script>	
-
-</head><body><input type="hidden" id="protocol" value="hdtracks">
-<!-- Mozilla Only -->
-<iframe id="hiddenIframe" src="about:blank" style="display:none"></iframe>
-
-
-
-	
-
-
+//<![CDATA[
+    var BLANK_URL = 'http://static.hdtracks.com/js/blank.html';
+    var BLANK_IMG = 'http://static.hdtracks.com/js/spacer.gif';
+//]]>
+</script>
+<![endif]-->
+<link rel="stylesheet" type="text/css" href="http://static.hdtracks.com/media/css/cc970ea5fed66b0636645dd632729008.css" media="all">
+<link rel="stylesheet" type="text/css" href="http://static.hdtracks.com/media/css/264f7434b388a87a731c1692408ba91c.css" media="print">
+<script type="text/javascript" src="http://static.hdtracks.com/js/prototype/prototype.js"></script>
+<script type="text/javascript" src="http://static.hdtracks.com/js/lib/ccard.js"></script>
+<script type="text/javascript" src="http://static.hdtracks.com/js/prototype/validation.js"></script>
+<script type="text/javascript" src="http://static.hdtracks.com/js/scriptaculous/builder.js"></script>
+<script type="text/javascript" src="http://static.hdtracks.com/js/scriptaculous/effects.js"></script>
+<script type="text/javascript" src="http://static.hdtracks.com/js/scriptaculous/dragdrop.js"></script>
+<script type="text/javascript" src="http://static.hdtracks.com/js/scriptaculous/controls.js"></script>
+<script type="text/javascript" src="http://static.hdtracks.com/js/scriptaculous/slider.js"></script>
+<script type="text/javascript" src="http://static.hdtracks.com/js/varien/js.js"></script>
+<script type="text/javascript" src="http://static.hdtracks.com/js/varien/form.js"></script>
+<script type="text/javascript" src="http://static.hdtracks.com/js/varien/menu.js"></script>
+<script type="text/javascript" src="http://static.hdtracks.com/js/mage/translate.js"></script>
+<script type="text/javascript" src="http://static.hdtracks.com/js/mage/cookies.js"></script>
+<script type="text/javascript" src="http://static.hdtracks.com/js/jquery/jquery-1.8.2.js"></script>
+<script type="text/javascript" src="http://static.hdtracks.com/js/jquery/jquery-ui-1.9.1.custom.js"></script>
+<script type="text/javascript" src="http://static.hdtracks.com/skin/frontend/enterprise/default/js/scripts.js"></script>
+<script type="text/javascript" src="http://static.hdtracks.com/skin/frontend/enterprise/hdtracks/js/scrolltop.js"></script>
+<script type="text/javascript" src="http://static.hdtracks.com/skin/frontend/enterprise/hdtracks/js/cycle.js"></script>
+<script type="text/javascript" src="http://static.hdtracks.com/skin/frontend/enterprise/hdtracks/js/hdtracks_additional.js"></script>
+<script type="text/javascript" src="http://static.hdtracks.com/skin/frontend/enterprise/default/js/enterprise/catalogevent.js"></script>
+<script type="text/javascript" src="http://static.hdtracks.com/skin/frontend/enterprise/default/js/enterprise/wishlist.js"></script>
+<!--[if lt IE 9]>
+<link rel="stylesheet" type="text/css" href="http://static.hdtracks.com/media/css/ab87b9401deb7feb6cd21cdd1d1b146e.css" media="all" />
+<![endif]-->
+<!--[if lt IE 7]>
+<script type="text/javascript" src="http://static.hdtracks.com/js/lib/ds-sleight.js"></script>
+<script type="text/javascript" src="http://static.hdtracks.com/skin/frontend/enterprise/default/js/iehover-fix.js"></script>
+<![endif]-->
 
 <script type="text/javascript">
-(function() { function async_load(){ /*var s = 
-document.createElement('script'); s.type = 'text/javascript'; s.async = 
-true; s.src = 'https://dev.my.socialtoaster.com/api-full/CM5VdPtH.js'; 
-var x = document.getElementsByTagName('script')[0]; x.parentNode.insertBefore(s, x);*/ } /*if (window.attachEvent) window.attachEvent('onload', async_load); else window.addEventListener('load', async_load, false);*/})();
-
-
-
-
+//<![CDATA[
+Mage.Cookies.path     = '/';
+Mage.Cookies.domain   = '.www.hdtracks.com';
+//]]>
 </script>
 
-
-
-
-
-<div id="please-wait" style="display:none">
-<div style="text-align: center; border-top-style: solid; border-right-style: solid; border-bottom-style: solid; border-left-style: solid;
-border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px; border-top-color: rgb(58, 103, 171);
-border-right-color: rgb(58, 103, 171); border-bottom-color: rgb(58, 103, 171); border-left-color: rgb(58, 103, 171); background-color: white;
-color: rgb(58, 103, 171); font-size: small; font-weight: bold; position: absolute; top: 50%; left: 40%; width: 200px; padding-top: 15px;
-padding-right: 15px; padding-bottom: 15px; padding-left: 15px; z-index:3; ">
-    <img id="ctl00_LoadImage" src="/images/ajax-loader.gif" style="border-width:0px;"><font style="font-size:x-small"><br><br></font>
-    Thank you for your order. Please wait while we process your request.<br>
-    (this can take up to a few minutes). <br>
-    <br>
-    Thank you for choosing HDtracks.
-
-</div>
-<div style="width:100%;height:100%;position:absolute;background-color:black; filter:alpha(opacity=50);-moz-opacity:0.5; 
--khtml-opacity:0.5;opacity: 0.5;z-index:2;">
-</div>
-</div>
-
-<div id="site" style="clear:right"> 
-  <div class="banner">
-<table height="71" width="980" cellpadding="0" cellspacing="0">
-  <!--DWLayoutTable-->
-  <tbody><tr>
-    <td width="58" rowspan="2" valign="bottom"><a href="index.php"><img src="../../images/hdt_logo.jpg" width="225" height="53"></a></td>
-		<td width="920" height="47" valign="top" class="header_version" align="right">
-		</td>
-  </tr>
-  <tr>
-    <td height="24" align="right" valign="bottom" class="header_version">
-      <a href="https://www.hdtracks.com/index.php?file=staticpage&amp;pagename=highdef_music" alt="Better Quality">High Definition Music</a> / The World's Greatest-Sounding Music Downloads / 192/24 &amp; 96/24
-<!--
-      <img src="../../images/header_links.gif" width="615" height="20" border="0" usemap="#hdtracks">
-      <map name="hdtracks" id="hdtracks">
-        <area shape="rect" coords="511,1,609,18" href="https://www.hdtracks.com/index.php?file=staticpage&amp;pagename=liner_notes" alt="Liner Notes">
-        <area shape="rect" coords="19,0,203,19" href="https://www.hdtracks.com/index.php?file=staticpage&amp;pagename=highdef_music" alt="Better Quality">
-        <area shape="rect" coords="217,-1,496,18" href="https://www.hdtracks.com/index.php?file=staticpage&pagename=no_drm" alt="No DRM">
-      </map>
--->
-    </td>
-  </tr>
-</tbody></table>
-</div>
-  <div id="search">
-    <form class="search_form" action="/index.php" method="post" name="SearchForm">
-		<input type="hidden" name="file" class="input" value="search">
+<script type="text/javascript">
+//<![CDATA[
+optionalZipCountries = ["HK","IE","MO","PA"];
+//]]>
+</script>
+<link rel="alternate" type="application/rss+xml" title="HDTracks News &amp; Press - RSS Feed" href="http://www.hdtracks.com/blog/feed"><!--{TRACEVIEW_HEAD_cc18ccb2909d5fd29e277d46772289dc}--><!--/{TRACEVIEW_HEAD_cc18ccb2909d5fd29e277d46772289dc}--><script type="text/javascript">//<![CDATA[
+        var Translator = new Translate([]);
+        //]]></script>    <script id="facebook-jssdk" async="" src="//connect.facebook.net/en_US/all.js"></script></head>
+    <body class=" cms-page-view cms-privacy-policy">
+        <!-- BEGIN GOOGLE ANALYTICS CODEs -->
+<script type="text/javascript">
+//<![CDATA[
+    var _gaq = _gaq || [];
     
-	  <input class="search_text1" id="search1" value="" onfocus="this.value='';" name="keyword" type="text">
-      
-	<select name="about" class="search_drop1">
-			<!-- <option value="all"  > All</option> -->
-			<option value="artist"> Artists</option>
-			<option value="album"> Albums</option>
-			<!-- <option value="track" > Tracks</option> -->
-			<!-- <option value="label" > Labels</option> -->
-			<!-- <option value="genre" > Genres</option> -->
-			<!-- <option value="instrument" > Instrument</option>-->
-			<option value="composer"> Composer</option>
-			</select>
-      <input class="search_button" type="image" src="images/bttn_search.jpg" width="59" height="20" alt="search" border="0">
-    </form>	
-    <div id="rsubmenu">
-      <ul id="submenunav">
-        <li id="s1"><a href="https://www.hdtracks.com/index.php">home</a>&nbsp;|&nbsp;</li>
-	    <li id="s3"></li>
-		        	<li id="s3"><a href="https://www.hdtracks.com/index.php?file=login">login</a></li>
-		      </ul>
-    </div>
-  </div>
-  
-    <div style="height:5px; width:980px;">&nbsp;</div>
-    <table align="center" width="980" cellpadding="0" cellspacing="0" border="0">
-     <tbody><tr>
-      <td>
-       <table border="0">
-        <tbody><tr>
-         <td width="177" align="center">
-         <a name="trustlink" href="https://secure.trust-guard.com/certificates/www.hdtracks.com" target="_blank" onclick="var nonwin=navigator.appName!='Microsoft Internet Explorer'?'yes':'no'; window.open(this.href,'welcome','location='+nonwin+',scrollbars=yes,width=517,height='+screen.availHeight+',menubar=no,toolbar=no'); return false;"><img name="trust-seal" alt="Security Seal" src="https://secure.trust-guard.com/seals/2296/scanned/header/gray" border="0"></a>
-         </td>
-         <td width="14"><!--spacer--></td>
-         <td>
-           <!--/* OpenX Javascript Tag v2.8.5 */-->
-<script type="text/javascript"><!--//<![CDATA[
-   var m3_u = (location.protocol=='https:'?'https://www.hdtracks.com/openx/www/delivery/ajs.php':'http://www.hdtracks.com/openx/www/delivery/ajs.php');
-   var m3_r = Math.floor(Math.random()*99999999999);
-   if (!document.MAX_used) document.MAX_used = ',';
-   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
-   document.write ("?zoneid=5");
-   document.write ('&amp;cb=' + m3_r);
-   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
-   document.write (document.charset ? '&amp;charset='+document.charset : (document.characterSet ? '&amp;charset='+document.characterSet : ''));
-   document.write ("&amp;loc=" + escape(window.location));
-   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
-   if (document.context) document.write ("&context=" + escape(document.context));
-   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
-   document.write ("'><\/scr"+"ipt>");
-//]]>-->
-</script><script type="text/javascript" src="https://www.hdtracks.com/openx/www/delivery/ajs.php?zoneid=5&amp;cb=3926425599&amp;charset=UTF-8&amp;loc=https%3A//web.archive.org/web/20130513075459id_/https%253A//www.hdtracks.com/index.php%253Ffile%253Dstaticpage%2526pagename%253Dprivacy_policy"></script>
-		         </td>
-        </tr>
-       </tbody></table>
-	  </td>
-     </tr>
-	</tbody></table>
-    <table align="center" width="980" cellpadding="0" cellspacing="0" border="0">
-    <tbody><tr>
-      <td align="left" width="177" valign="top">
-<script language="JavaScript1.2" src="javascripts/formvalidation.js"></script>
-<script language="JavaScript1.2" src="javascripts/loginfunctions.js"></script>
-<script language="JavaScript1.2" src="javascripts/jregister.js"></script>
-<script language="JavaScript1.2">
-	function chk_newsletter(frmsub)
-	{
-  		alert("yes");
-		var result = false
-		var theStr = new String(frmsub.newsletter.value)
-  		var index = theStr.indexOf("@");
-		  if (index > 0)
-		  {
-		    var pindex = theStr.indexOf(".",index);
-		    if ((pindex > index+1) && (theStr.length > pindex+1)){
-				result = true;
-			}else{
-				alert("Please input a valid email address!");
-				frmsub.newsletter.focus();
-			}
-		  }else{
-		  	alert("Please input a valid email address!");
-			frmsub.newsletter.focus();
-		  }
-  		return result;
-		
-	}
-</script>	
-
-<script>!function(d,s,id){var js1,fjs1=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js1=d.createElement(s);js1.id=id;js1.src="//platform.twitter.com/widgets.js";fjs1.parentNode.insertBefore(js1,fjs1);}}(document,"script","twitter-wjs");</script>
-
-<script src="https://connect.facebook.net/en_US/all.js#xfbml=1"></script>
-
-
-
-<div style="margin:0; padding:0; border:0;">
-<table cellpadding="0" cellspacing="0" width="100%">
-<!-- start -->
-		<tbody><tr>
-			<td class="td_leftbar_title">Follow Us!</td>
-		</tr>
-		<tr>
-			<td class="td_leftbar_content">
-			<span style="padding:5px 0px 5px 0px;">
-						<a href="https://www.hdtracks.com/index.php?file=signup"><img src="/images/newsletter.png" style="padding:5px 0px 5px 0px;"></a><br>
-						<a href="https://twitter.com/share" class="twitter-share-button" data-url="https://www.hdtracks.com/index.php" data-text="HDtracks" data-via="hdtracks" data-count="horizontal">Tweet</a><br> 
-			<div class="fb-like" data-href="http://www.facebook.com/pages/HDtracks/141061499268029" data-send="false" data-layout="button_count" data-width="20" data-show-faces="false"></div><br>
-			</span></td>
-		</tr>
-		
-		<tr>
-			<td class="td_leftbar_title"><a href="https://www.hdtracks.com/index.php?file=landing"><span style="font-weight: bold; font-size: 14px; color: #D11B1A;">New to HDtracks?</span></a></td>
-		</tr>
-		<tr>
-			<td class="td_leftbar_content">
-				<a href="https://www.hdtracks.com/index.php?file=landing"><span style="font-size:8pt;">Learn and get a Free Download!</span></a><br>		
-									<a href="/index.php?file=register">Set up an account</a>
-							</td>
-		</tr>
-
-		<tr>
-			<td class="td_leftbar_title">Member Login</td>
-		</tr>
-		<tr>
-			<td class="td_leftbar_content">
-			<div class="div_login_form">
-						<form class="login_form" name="userlogin" onsubmit="if (this.bttn_remember.checked) toMem(this); return checkaddform('userlogin');" action="index.php" method="post">
-			<input type="hidden" value="verifylogin" name="file"> 
-			<input type="hidden" value="" name="redirectto"> 
-			
-			<table align="center" cellpadding="0" cellspacing="0" border="0">
-			<tbody><tr>
-				<td><font class="font_topbox">Username:&nbsp;</font></td>
-				<td><input class="input" name="vemail" id="vemail" type="text" size="14" value=""><br></td>
-			</tr>
-			<tr>
-				<td><font class="font_topbox">Password:&nbsp;&nbsp;</font></td>
-				<td><input class="input" name="vpassword" id="vpassword" type="password" size="14" value=""><br></td>
-			</tr>
-			<tr>
-				<td>&nbsp;</td>
-				<td><input class="input_check" name="bttn_remember" id="bttn_remember" type="checkbox"><font class="font_topbox">Remember me</font></td>
-			</tr>
-			<tr>
-				<td colspan="2">
-				<a href="https://www.hdtracks.com/index.php?file=forgotpass"><font class="font_topbox">Forgot 
-password?</font></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<input type="image" alt="Sign In" src="images/bttn_login.png" border="0" name="image" style="vertical-align:middle">
-				</td>
-			</tr>
-			</tbody></table>
-			</form>
-			</div></td>
-		</tr>
-		
-<!--		<tr>
-			<td class="td_leftbar_content">
-<center><span class="WPHyperlink"><span style="color: blue; text-align:center;"><br /><a href="https://www.hdtracks.com/index.php?file=register"><img height="96" width="84" src="/hdtracks/www/UserFiles/Image/img_new_users(1).jpg" alt="" /></a></span></span></center><font color="#ff0000">
-			</td>
-		</tr>
--->
-						
-<!-- stop -->
-
-		<tr>
-			<td class="td_leftbar_title">The Classic Albums</td>
-		</tr>
-		<tr>
-			<td class="td_leftbar_content">
-				<a href="https://www.hdtracks.com/index.php?file=classic_albums&amp;genre=4">Classic 100 Rock</a><br>
-				<a href="https://www.hdtracks.com/index.php?file=classic_albums&amp;genre=6">Classic 100 Jazz</a><br>
-				<a href="https://www.hdtracks.com/index.php?file=classic_albums&amp;genre=10">Classic 100 Classical</a><br>
-				<a href="https://www.hdtracks.com/index.php?file=classic_albums&amp;genre=1">Classic 50 Blues</a><br>
-				<a href="https://www.hdtracks.com/index.php?file=classic_albums&amp;genre=3">Classic 50 Americana</a><br>
-			</td>
-		</tr>
-		<tr>
-			<td class="td_leftbar_title">Shop by label</td>
-		</tr>
-		<tr>
-			<td class="td_leftbar_content">
-				<a href="https://www.hdtracks.com/index.php?file=warner">Warner Music Group Store</a><br>
-				<a href="https://www.hdtracks.com/index.php?file=labelhome&amp;vco=emi">EMI/Virgin Classics Store</a><br>
-				<a href="https://www.hdtracks.com/index.php?file=labelhome&amp;vco=bluenote">Blue Note Store</a><br>
-				<a href="https://www.hdtracks.com/index.php?file=labelhome&amp;vco=atlsoul">Atlantic Soul Store</a><br>
-				<a href="https://www.hdtracks.com/index.php?file=labelhome&amp;vco=ecm">ECM Store</a><br>
-				<a href="https://www.hdtracks.com/index.php?file=stones">Rolling Stones Store</a><br>
-				<a href="https://www.hdtracks.com/index.php?file=labelhome&amp;artist=doors">The Doors Store</a><br>
-				<a href="https://www.hdtracks.com/index.php?file=labellist">All Labels</a><br>
-			</td>
-		</tr>
-		<tr>
-			<td class="td_leftbar_title">Browse Music</td>
-		</tr>
-		<tr>
-			<td class="td_leftbar_content">
-				<a href="https://www.hdtracks.com/index.php?file=artistPhotos">Artists</a><br>
-				<a href="https://www.hdtracks.com/index.php?file=genrelist">Genres</a><br>
-				<a href="https://www.hdtracks.com/index.php?file=staticpage&amp;pagename=audiophile_96khz">96khz/24bit Store</a><br>			
-				<a href="https://www.hdtracks.com/index.php?file=getcert">Buy Gift Certificates</a>			
-				</td>
-		</tr>
-		
-		<tr>
-			<td class="td_leftbar_title">News</td>
-		</tr>
-		<tr>
-			<td class="td_leftbar_content">
-<!--				<a href="https://www.hdtracks.com/index.php?file=video&video=wink">Hear cofounder David Chesky talk about HDTracks</a><br /> -->
-				<a href="https://www.hdtracks.com/index.php?file=news">News &amp; Press</a><br>
-				<a href="https://www.hdtracks.com/index.php?file=newest">New on HDtracks</a><br>
-				<a href="https://www.hdtracks.com/index.php?file=specials">Specials of the Week</a><br>
-				<a href="https://www.youtube.com/user/TheHDtracks">Master Musicians Videos</a><br>
-				<a href="https://www.hdtracks.com/index.php?file=staticpage&amp;pagename=criticspicks">Critics' Picks</a><br>
-				<a href="https://www.hdtracks.com/index.php?file=best_sellers">Top 50 Best Sellers</a><br>
-				<a href="https://www.hdtracks.com/index.php?file=best_sellers&amp;genre=4">Top 25 Rock albums</a><br>
-				<a href="https://www.hdtracks.com/index.php?file=best_sellers&amp;genre=6">Top 25 Jazz albums</a><br>
-				<a href="https://www.hdtracks.com/index.php?file=best_sellers&amp;genre=10">Top 25 Classical albums</a><br>
-<!--				<a href="https://www.hdtracks.com/index.php?file=frampton">Peter Frampton/HDvideo</a><br /> -->
-				</td>
-		</tr>
-
-		<tr>
-			<td class="td_leftbar_title">Digital Accessories</td>
-		</tr>
-		<tr>
-			<td class="td_leftbar_content">
-				<a href="https://www.hdtracks.com/index.php?file=digital_store">Digital Accessories Store</a><br>
-				<a href="https://www.hdtracks.com/index.php?file=staticpage&amp;pagename=other_resource">Conversion software</a><br>
-			</td>
-		</tr>
-		
-		<tr>
-			<td class="td_leftbar_title">Support</td>
-		</tr>
-		<tr>
-			<td class="td_leftbar_content">
-				<a href="https://www.hdtracks.com/index.php?file=login">My Account</a><br>
-				<!-- <a href="https://www.hdtracks.com/index.php?file=staticpage&pagename=download_manager">Get The Download Manager</a><br />-->
-				<a href="https://www.hdtracks.com/index.php?file=tutorial">How To Download: video</a><br>
-				<a href="https://www.hdtracks.com/index.php?file=staticpage&amp;pagename=customer_service">How To Download: pdf</a><br>
-				<a href="https://www.hdtracks.com/index.php?file=staticpage&amp;pagename=help">Help</a><br>
-				<a href="https://www.hdtracks.com/index.php?file=staticpage&amp;pagename=faq">FAQ</a><br>
-				<a href="https://www.hdtracks.com/index.php?file=contact">Contact us</a><br>
-		  	</td>
-		</tr>
-		<tr>
-			<td class="td_leftbar_title">The Company</td>
-		</tr>
-		<tr>
-			<td class="td_leftbar_content">
-				<!-- <a id="mission" title="mission" href="https://www.hdtracks.com/index.php?file=staticpage&pagename=mission">Mission Statement</a><br /> -->
-				<a href="https://www.hdtracks.com/index.php?file=staticpage&amp;pagename=aboutus">About us</a><br>
-				<a href="http://www.shareasale.com/shareasale.cfm?merchantID=17923" target="_blank">Become an Affiliate</a>			</td>
-			
-		</tr>
-<!--		<tr>
-			<td class="td_leftbar_title">Links</td>
-		</tr>
-		<tr>
-			<td class="td_leftbar_content">
-				<a href="https://www.hdtracks.com/index.php?file=staticpage&pagename=license_music">License Music</a><br />
-		</tr>
-		<tr>
-			<td><img src="images/td_member_login.png" width="177" height="24" hspace="0" vspace="0" alt="HDTracks" border="0" /></td>
-		</tr>
-		<tr>
-			<td class="td_member_login">
-			<div class="div_login_form">
-						<FORM class="login_form" name="userlogin" onsubmit="if (this.bttn_remember.checked) toMem(this); return checkaddform('userlogin');" 
-action="index.php" method="post">
-			<INPUT type="hidden" value="verifylogin" name="file"> 
-			<INPUT type="hidden" value="" name="redirectto"> 
-			
-			<table align="center" cellpadding="0" cellspacing="0" border="0">
-			<tr>
-				<td><font class="font_topbox">Username:&nbsp;</font></td>
-				<td><input class="input" name="vemail" id="vemail" type="text" size="14" maxlength="30" value=""/><br /></td>
-			</tr>
-			<tr>
-				<td><font class="font_topbox">Password:&nbsp;&nbsp;</font></td>
-				<td><input class="input" name="vpassword" id="vpassword" type="password" size="14" value=""/><br /></td>
-			</tr>
-			<tr>
-				<td>&nbsp;</td>
-				<td><input class="input_check" name="bttn_remember" id="bttn_remember" type="checkbox" /><font class="font_topbox">Remember me</font></td>
-			</tr>
-			<tr>
-				<td colspan="2">
-				<a href="https://www.hdtracks.com/index.php?file=forgotpass"><font class="font_topbox">Forgot 
-password?</font></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<INPUT type="image" alt="Sign In" src="images/bttn_login.png"  border="0" name="image" 
-style="vertical-align:middle"></a>
-				</td>
-			</tr>
-			</table>
-			</FORM>
-						</div>
-			</td>
-		</tr>
--->
-<!--		<tr>
-			<td class="td_box_left_bottom"></td>
-		</tr>
-	-->
-		</tbody></table></div>
-
-
-<script type="text/javascript" class="example">
-$(document).ready(function()
-{
-  $('#mission').qtip({
-    position: {
-      my: 'left center',
-      at: 'right center',
-      target: $('#mission')
-    },
-    content: {
-      text: ''
-    }
-  });
-});
-</script>
-</td>
-	  <td width="14"></td> 
-      <td align="left" valign="top" width="365"><table width="365" cellpadding="0" cellspacing="0" border="0">
-          <tbody><tr>
-            <td width="365" class="td_middle"><div class="middle_title">Privacy Policy</div>
-<div style="height:5px;"></div>
-<div class="body_text" style="line-height:normal; color:#000000; font-weight:normal; text-align:justify">Last updated: December 2009:<br><br><br>PRIVACY POLICY FOR HDTRACKS.COM, LLC.<br><br><br>HDTRACKS.COM TAKES YOUR PRIVACY SERIOUSLY.<br><br><br>Our website, www.HDtracks.com, and our HDtracks Store ("Digital Store") is the Internet’s Hi-Def Digital Download Store (TM). In order to make our Digital Store better for you we may collect information about you, your household (but not children under 18), and your use of your music collection. This Privacy Policy, which HDtracks has the right to amend from time to time, describes how and why we collect information from you, how we handle that information, and how and why we use that information. This Privacy Policy is part of our Terms of Service and applies to all information we collect or receive from you and your household.<br><br>INFORMATION WE COLLECT AND WHY WE COLLECT IT<br>In order to provide you with convenient access to our service and information about your account and services relating to the HDtracks Digital Store, we collect the following information:<br><br>Registration. In order to use our Digital Store and/or to sign up for our emailing list, you must provide us with certain personal information. Prior to purchasing downloads for the first time, you will be required to register and create an account with HDtracks ("HDtracks Account"). When you create your HDtracks Account, you will be required to provide a login name and password and your name, address and email address. You may also be asked to provide us with additional information, such as your age, gender, and other personal information about yourself or your family. We do NOT retain your credit card information. You may also be asked to provide us with additional information, such as your age, occupation, and internet service provider, but such information is not required.<br><br>Once you have registered with us, we may also collect other information about you, including your transactions with us, your service usage patterns, such as the pages on the HDtracks.com Website you have visited, searches you have conducted on our site and the amount of time you have spent on our Website. If you contact us, we may keep a record of your correspondence. If you have registered with us, we may collect information about what music files you possess on the PC you use to sign up with our service and any other PC's networked to that PC. We may also collect information regarding where you obtained that music. We may collect information concerning the bit rate of the encode of music files contained on your PC and/or any PC connected to that PC<br><br>Promotions. As part of the process to create a HDtracks Account or to participate in certain promotions offered by HDtracks such as entering sweepstakes, contests, surveys, newsletters, etc., in addition to name, address, and email address, you may be asked to provide certain information which, by itself, does not personally identify you. For example, you may be asked to provide information concerning your music or other entertainment preferences, purchasing habits, and the like. HDtracks may request this information in order to enhance your experience by understanding you better and to also make you aware of new services, programs or offers in which you may be interested.<br><br>Visiting the Site. We keep track of the domains from which people visit our Website, www.HDtracks.com. We may track the country or zip code of visitors to our Website and of those downloading or attempting to download products from our Digital Store. We analyze this data for trends and statistics, and for federal export law compliance when required. This information is analyzed at an aggregate level and is not considered personally identifiable. We may also collect statistical data on all users of our Website, including: the Internet Protocol (IP) address of the user's computer, the referring URL, if any, and the browser software identification. Certain referring URLs and IP addresses may contain or suggest personally identifiable information.<br><br><br>Forums and Chat Rooms. If you choose to post messages to our message boards, forums, or chat rooms or other message areas or leave feedback for other users, we may collect or track that information. We retain this information as necessary to resolve disputes, provide customer support and troubleshoot problems, and as otherwise permitted by law. If you send us personal correspondence, such as emails or letters, or if other users or third parties send us correspondence about your activities or postings on the Site, we may collect such information into a file specific to you.<br><br>Mailing Lists. In order to keep you informed about our services, we may send e-mails and announcements that are needed for the administration of our Website and service. We also give our users the option of joining our mailing list to receive additional information about our Website, services and offers.<br><br><br>Use of Cookies. We may use data collection devices such as "cookies" (small text files that are placed on your computer's hard drive for record-keeping purposes) to assist us in providing our services. Cookies make using the Site easier by, among other things, saving your passwords and preferences for you, helping identify you whenever you return to our Site, and reducing the number of times you are required to enter your password during a session. Cookies can also help us provide information that is targeted toward your interests and preferences. Most Internet browsers are initially set up to accept cookies. However, you can reset your browser to refuse all cookies or to alert you when a cookie is being sent (note: you may need to consult your browser's "Help" area for instructions on how to do that). If you choose to disable your cookies setting or refuse to accept a cookie, you may not be able to use certain features on the Site and you may be required to reenter your password more frequently during a session. Please note, that if you set your browser to block acceptance of cookies, this may affect your ability to use the HDtracks service or enter our Website.<br><br><br>YOUR INFORMATION AND HOW WE USE IT<br>In general, HDtracks may use non-personally identifiable information about you to improve and enhance the services we provide. HDtracks may share this information with the suppliers of content on the service, affiliates and other entities in non-personal form to show general demographic and preference information among users of the HDtracks service or for other purposes. This information may include usage and demographic data, but it will not include personal information (such as your email address). If you provide HDtracks with personally identifiable information, we will take reasonable and appropriate steps to protect this information. Except as otherwise described in this Privacy Policy, or our Terms of Service, HDtracks will not disclose, share, sell or rent personally identifiable information collected on our Website to any third party without your prior consent. We do not share your credit card account information with any third parties, other than order processing and credit card clearance service providers as described below.<br><br>Third Parties in General. We work with third parties who provide services, which may include website hosting, order processing, credit card clearance, data analysis, customer service, promotion fulfillment, and other services of an administrative nature. Personal information, including financial information, may be shared with such third parties for the purpose of providing such services to you. We seek to impose confidentiality obligations on such service providers. Also, entities into which our company is merged, or to which our assets, site or operations have been transferred or sold, will be able to use your personal information under the terms of this Privacy Policy. We also reserve the right to disclose personal information to third parties when we believe in good faith that the law requires it, to enforce our Terms of Service, to protect the rights, property, safety, or security of HDtracks, its content providers, or the public, to respond to an emergency, or as otherwise stated in this Privacy Policy.<br><br>OUR SECURITY<br>We use reasonable security methods to protect the data that resides on our servers. However, because no security system is impenetrable, we cannot guarantee the security of our servers. It is also possible that information you supply to us will be intercepted during transmission.<br><br>Whenever you give HDtracks sensitive information (e.g., credit card numbers), HDtracks will take commercially reasonable steps to protect such information by establishing a secure connection with your Web browser. HDtracks employs an industry standard technology known as a secure-socket-layer ("SSL") to protect the transmission of payment information from the HDtracks Network to our servers. We do not share your credit card information with any parties not directly involved in processing or completing your purchase.<br><br>To help protect your HDtracks Account information, please keep your password secure. We suggest that you pick a non-obvious password that mixes numbers and letters. In addition, we recommend that you do not divulge your password to anyone. Ultimately, you are responsible for maintaining the secrecy of your passwords and any HDtracks Account information.<br><br>Remember to sign out of your HDtracks Account, and close your browser window whenever you leave your computer. This is to ensure that others cannot access your personal information, because your computer may be accessible to others or used in a shared setting. HDtracks's Privacy Policy does not extend to anything that is inherent in the operation of the Internet, and therefore beyond HDtracks's control, and is not to be applied in any manner contrary to applicable law or governmental regulation.<br><br>LINKS<br>HDtracks may allow certain invited entities to be included in a list of links found on the HDtracks.com site. However, any link to a page which displays a URL other than a domain name that contains HDtracks.com in the address window of your browser is a link to a site outside of our service and therefore outside the control of HDtracks. These other sites may send their own cookies to you, collect data or solicit personal information. HDtracks cannot guarantee and is not responsible for the content of outside sites. While HDtracks strives to protect our visitors' personal information and privacy, we cannot guarantee the security and privacy of any information you disclose at other sites, and you do so at your own risk.<br><br>REGARDING PERSONS UNDER 18 YEARS OF AGE<br>The Website and the services provided thereon are intended for access and use strictly by adults 18 years and older. As such, it is not HDtracks's intention to collect nor maintain any personally identifiable information from persons under 18 years of age. Although HDtracks does not seek to collect any information from persons under the age of 18, should you find that your child has submitted his/her information, HDtracks will make reasonable efforts to delete a child's information from its database upon request. You may request to have such information purged from HDtracks's database by sending an email request to privacy@HDtracks.com. In the event that you are requesting such information to be purged from HDtracks's database, please make sure to include the correct email address that was submitted by the child.<br><br>HOW TO REVIEW, UPDATE OR DELETE YOUR REGISTRATION INFORMATION<br>As part of your use of our services, you are responsible for updating your submitted registration information so that it is current, accurate, and complete. In order to update your registration information, please access your HDtracks Account and make the desired change. You may also access your HDtracks Account in order to change your user preferences.<br><br>Please note that by using our Website and/or our software and the services provided therein, you signify your agreement to this Privacy Policy, as it may be amended from time to time. If you do not agree to this Privacy Policy, please do not use our Website, software, or the services provided therein. We reserve the right to make changes to this Privacy Policy. We will provide notice to you of any material changes by any reasonable means including sending an email to the most recently updated address in your HDtracks Account and/or posting such notice and the amended policy on the HDtracks Website and in the links contained in our software. Your continued use of our Website and/or software following changes to this Privacy Policy will mean that you accept and agree to the changes and that any information collected or provided after such change will be governed by the updated Privacy Policy.<br><br>HDtracks.com may contain links to other websites and there may be instances where other websites may be co-branded and/or otherwise affiliated with the HDtracks name. These sites may have privacy policies which differ from that of HDtracks.<br><br>HDtracks is dedicated to protecting your personal information and welcomes comments and questions on this Privacy Policy. If you have any questions regarding this Privacy Policy, please send an email to info@HDtracks.com. If you would like to contact HDtracks for any other reason, please write to HDtracks, Inc., PO Box 1368 Radio City Station, NY NY 10101, Attn: Customer Service.</div>
-</td>
-          </tr>
-        </tbody></table></td>
-	  <td width="20"></td> 
-      <td align="left" valign="top" width="404"><table width="404" cellpadding="0" cellspacing="0" border="0">
-          <tbody><tr>
-            <td width="404"> </td>
-          </tr>
-        </tbody></table></td>
-    </tr>
+_gaq.push(['_setAccount', 'UA-3921623-1']);
+_gaq.push(['_trackPageview']);
     
-  	<tr><td height="19" colspan="6">&nbsp; <!-- spacer --></td></tr>
-    <!-- new bottom banner code -->
-    <tr><td colspan="5">
-    <table align="center" width="980" cellpadding="0" cellspacing="0" border="0">
-    <tbody><tr><td width="177" align="center"><img src="/images/spacer8.gif"></td>
-    <td align="center">
-<!--/* OpenX Javascript Tag v2.8.5 */-->
-<script type="text/javascript"><!--//<![CDATA[
-   /*var m3_u = (location.protocol=='https:'?'https://www.hdtracks.com/openx/www/delivery/ajs.php':'http://www.hdtracks.com/openx/www/delivery/ajs.php');
-   var m3_r = Math.floor(Math.random()*99999999999);
-   if (!document.MAX_used) document.MAX_used = ',';
-   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
-   document.write ("?zoneid=6");
-   document.write ('&amp;cb=' + m3_r);
-   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
-   document.write (document.charset ? '&amp;charset='+document.charset : (document.characterSet ? '&amp;charset='+document.characterSet : ''));
-   document.write ("&amp;loc=" + escape(window.location));
-   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
-   if (document.context) document.write ("&context=" + escape(document.context));
-   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
-   document.write ("'><\/scr"+"ipt>");*/
-//]]>-->
+    (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+
+//]]>
 </script>
-    </td></tr>
-    </tbody></table>
-    </td></tr>
-    <!-- /bottom banner code -->
-    
-    <tr><td height="19" colspan="5"><div class="bottom"> 
-  <ul id="bottom_menunav">
-    <li id="b1"><a href="https://www.hdtracks.com/index.php">home</a>&nbsp;|&nbsp;</li>
-	    	<li id="b3"><a href="https://www.hdtracks.com/index.php?file=login">login</a>&nbsp;|&nbsp;</li>
-	    <li id="b4"><a href="https://www.hdtracks.com/index.php?file=contact">contact</a>&nbsp;|&nbsp;</li>
-    <li id="b5"><a href="https://www.hdtracks.com/index.php?file=staticpage&amp;pagename=privacy_policy">privacy policy</a>&nbsp;|&nbsp;</li>
-    <li id="b6"><a href="https://www.hdtracks.com/index.php?file=staticpage&amp;pagename=terms_conditions">terms and conditions</a>&nbsp;©&nbsp;&nbsp;&nbsp;HDtracks&nbsp;2007 
-      <script type="text/javascript"> 
-				<!-- 
-				var d=new Date(); 
-				yr=d.getFullYear(); 
-				if (yr!=2007) 
-				        document.write("- "+yr); 
-				--> 
-				</script>- 2020
-       </li>
-  </ul>
-</div>
-</td>
-    </tr>
-  </tbody></table>
-</div>
-
+<!-- END GOOGLE ANALYTICS CODE -->
+<!-- BEGIN Inchoo Facebook Connect -->
+<div id="fb-root"></div>
 <script type="text/javascript">
-var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-
-<script type="text/javascript">
-var pageTracker = _gat._getTracker("UA-3921623-1");
-pageTracker._initData();
-pageTracker._trackPageview();
-</script>
-<script type="text/javascript" src="/javascripts/jquery.qtip-1.0.0-rc3.min.js"></script>
-<script type="text/javascript">
-
-    $('a.slider_cover > img[title]').qtip({
-        position: {
-            corner: {
-                target: 'topMiddle',
-                tooltip: 'bottomMiddle'
-            }
-        },
-        style: {
-            tip: true,
-            border: {
-                width: 2
-            },
-            width: 200
-        }
-    });
-
-</script>
-
-<script language="javascript">jQuery(document).ready(function(){
-	jQuery("#banners").show().easySlider({
-		auto: true,
-		continuous: true,
-		controlsShow: false,
-		speed: 1000,
-		pause: 3000
+//<![CDATA[
+window.fbAsyncInit = function() {
+	FB.init({
+		appId		: "121994667973932",
+		channelUrl	: 'http://www.hdtracks.com/inchoo_facebook/channel/index/locale/en_US/',
+		status		: true,
+		cookie		: true,
+		oauth		: true,
+		xfbml		: true
 	});
-});</script>
+	document.fire("facebook:fbAsyncInit");
+};
 
+(function(d){
+	var js, id = 'facebook-jssdk'; if (d.getElementById(id)) {return;}
+	js = d.createElement('script'); js.id = id; js.async = true;
+	js.src = "//connect.facebook.net/en_US/all.js";
+	d.getElementsByTagName('head')[0].appendChild(js);
+}(document));
 
-
-<!-- Google Code for Remarketing tag -->
-<!-- Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. For instructions on adding this tag and more information on the above requirements, read the setup guide: google.com/ads/remarketingsetup -->
-<script type="text/javascript">
-/* <![CDATA[ */
-var google_conversion_id = 1001254459;
-var google_conversion_label = "j4jOCP3DgwQQu9y33QM";
-var google_custom_params = window.google_tag_params;
-var google_remarketing_only = true;
-/* ]]> */
+document.observe('click', function(e){
+	var target = e.findElement('a[rel^=facebook-connect]') || e.findElement('button[rel^=facebook-connect]');
+	if (target && target.readAttribute('rel')=='facebook-connect') {
+		e.stop();
+		try{
+			FB.login(function(response){
+				if(response.status=='connected') {
+					Mage.Cookies.set('fb-referer', 'aHR0cDovL3d3dy5oZHRyYWNrcy5jb20vY21zL3BhZ2Uvdmlldy9wYWdlX2lkLzE2Lw,,');
+					setLocation('https://www.hdtracks.com/inchoo_facebook/customer_account/connect/');
+				}
+			}, {scope: "email,user_birthday"});
+		}catch(error){}
+	}
+});
+//]]>
 </script>
-<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
-</script>
-<noscript>
-<div style="display:inline;">
-<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1001254459/?value=0&amp;label=j4jOCP3DgwQQu9y33QM&amp;guid=ON&amp;script=0"/>
+<!-- END Inchoo Facebook Connect -->
+        <div id="wrapper">
+            <div id="headerWrapper"> 
+	            <noscript>
+        <div class="global-site-notice noscript">
+            <div class="notice-inner">
+                <p>
+                    <strong>JavaScript seems to be disabled in your browser.</strong><br />
+                    You must have JavaScript enabled in your browser to utilize the functionality of this website.                </p>
+            </div>
+        </div>
+    </noscript>
+ 
+                <div id="header">
+    <div id="logo">
+        <h1>
+            <a href="http://www.hdtracks.com/">
+                HDtracks - High Definition Music            </a>
+        </h1>
+    </div> <!-- Logo -->
+    <div id="topSocial">
+        <p><span class="social-label">Follow us</span></p>
+<ul>
+<li class="facebook"><a title="HDtracks on Facebook" href="http://www.facebook.com/pages/HDtracks/141061499268029" target="_blank">HDtracks on Facebook</a></li>
+<li class="twitter"><a title="HDtracks on Twitter" href="https://twitter.com/HDtracks" target="_blank">HDtracks on Twitter</a></li>
+<li class="google-plus"><a title="HDtracks on Google+" href="https://plus.google.com/u/0/111997568926940771606/posts" target="_blank">HDtracks on Google+</a></li>
+<li class="youtube"><a title="HDtracks on YouTube" href="http://www.youtube.com/user/TheHDtracks" target="_blank">HDtracks on YouTube</a></li>
+<!--<li class="myspace"><a title="HDtracks on MySpace" href="http://www.myspace.com/hdtracks" target="_blank">HDtracks on MySpace</a></li>-->
+</ul>    </div> <!-- Top Social Media -->
+    <div id="site-tag">
+        <span class="highlight">High Definition Music</span>
+        <span class="divider">|</span>
+        <span class="tag-text">The World's Greatest-Sounding Music Downloads</span>
+    </div> <!-- Site Tagline -->
+    <div class="clearMe"></div> <!-- Clear -->
+    <div id="header-bottom">
+        <div id="header-search">
+            <form id="search_mini_form" action="http://www.hdtracks.com/catalogsearch/result/" method="get">
+<div class="form-search">
+    <label for="search">Search site:</label><input id="search" type="text" name="q" value="" class="input-text" maxlength="128">&nbsp;<button type="submit" title="Go" class="button"><span><span>Go</span></span></button><a href="http://www.hdtracks.com/catalogsearch/advanced/">Advanced Search</a>
+    <div id="search_autocomplete" class="search-autocomplete"></div>
+    <script type="text/javascript">
+    //<![CDATA[
+        var searchForm = new Varien.searchForm('search_mini_form', 'search', 'Search for music, artist, composer, and albums...');
+        searchForm.initAutocomplete('http://www.hdtracks.com/catalogsearch/ajax/suggest/', 'search_autocomplete');
+    //]]>
+    </script>
 </div>
-</noscript>
+</form>
+        </div> <!-- Header Search -->
+        <div id="account-links">
+            <div class="checkout-link"><ul class="links">
+                        <li class="first"><a href="https://www.hdtracks.com/checkout/" title="Checkout" class="top-link-checkout">Checkout</a></li>
+                                <li class=" last"><a href="https://www.hdtracks.com/customer/account/login/" title="Log In">Log In</a></li>
+            </ul>
+</div>
+            <!--{CART_SIDEBAR_b6b44df6b4ed70be191e1a49294703c7}-->
+<div class="top-cart">
+        <div class="block-title no-items">
+        <ul class="links cart-link">
+            <li><a href="http://www.hdtracks.com/checkout/cart/">My Cart (<span>0</span>)</a></li>
+        </ul>
+    </div>
+</div>
+<!--/{CART_SIDEBAR_b6b44df6b4ed70be191e1a49294703c7}-->            <ul class="links">
+                        <li class="first"><a href="http://www.hdtracks.com/" title="Home">Home</a></li>
+                                <li><a href="https://www.hdtracks.com/customer/account/" title="My Account">My Account</a></li>
+                                <!--{WISHLISTLINKS_62bff3a308d97f772fccb2deb73e7c9c}--><li class=" last"><a href="https://www.hdtracks.com/wishlist/" title="My Wishlist">My Wishlist</a></li>
+<!--/{WISHLISTLINKS_62bff3a308d97f772fccb2deb73e7c9c}-->            </ul>
+                    </div> <!-- Account Links -->
+    </div> <!-- Header Bottom -->
+    <div class="clearMe"></div> <!-- Clear -->
+</div>
+            </div><!-- Header Wrapper -->
+            <div class="clearMe"></div><!-- Clear -->
+            <div id="content-wrapper">
+                <div id="top-shadow"></div><!-- Top Shadow -->
+                <div id="main-content-wrapper">
+                    <div id="main-content" class="col2-left-layout">
+                        <div class="col-main">
+                            <div class="top-banner-ad"> 
+                                <div id="hpSlider" class="hpRotator">	
+    <div class="hpNav"></div> <!-- Ends Nav -->
+    <ul id="itemList">
+                    <li class="slide">
+                <a href="/free-highres-sample/">
+                    <img alt="Ad 1" src="http://static.hdtracks.com/media/slider/0/0/005_2.png">
+                </a>
+            </li>
+                    <li class="slide">
+                <a href="/music/artist/view/id/3970/">
+                    <img alt="Ad 2" src="http://static.hdtracks.com/media/slider/s/t/stones-728x90-niew.jpg">
+                </a>
+            </li>
+                    <li class="slide">
+                <a href="/music/artist/view/id/4466/">
+                    <img alt="Ad3" src="http://static.hdtracks.com/media/slider/5/b/5b0660267938046470a0cb5cdddcb4f5.jpg">
+                </a>
+            </li>
+                    <li class="slide">
+                <a href="/music/label/view/id/31/">
+                    <img alt="Ad4" src="http://static.hdtracks.com/media/slider/6/0/60b849ad54286f2123cf3ec910553ac2.jpg">
+                </a>
+            </li>
+                    <li class="slide">
+                <a href="/music/label/view/id/118/">
+                    <img alt="Ad5" src="http://static.hdtracks.com/media/slider/b/0/b0b9a0ee6f4364316578e0f65382e903.jpg">
+                </a>
+            </li>
+                    <li class="slide">
+                <a href="/music/label/view/id/96/">
+                    <img alt="Ad6" src="http://static.hdtracks.com/media/slider/6/f/6f256cb16599a7749f13197a4678253d.jpg">
+                </a>
+            </li>
+                    <li class="slide">
+                <a href="/music/label/view/id/76/">
+                    <img alt="Ad7" src="http://static.hdtracks.com/media/slider/3/0/307e4d28c5fc4900c64f42c19cb4076f.jpg">
+                </a>
+            </li>
+                    <li class="slide">
+                <a href="/music/label/view/id/97/">
+                    <img alt="Ad8" src="http://static.hdtracks.com/media/slider/c/7/c79bc801912dbbe7429542871a5d86fa.jpg">
+                </a>
+            </li>
+                    <li class="slide">
+                <a href="/music/label/view/id/34/">
+                    <img alt="Ad9" src="http://static.hdtracks.com/media/slider/7/a/7a5f478b18cb0052fe8f4827819dd9b9.jpg">
+                </a>
+            </li>
+                    <li class="slide">
+                <a href="/music/label/view/id/2/">
+                    <img alt="Ad10" src="http://static.hdtracks.com/media/slider/6/6/6691c2652193976afc84292d82f6b52c.jpg">
+                </a>
+            </li>
+                    <li class="slide">
+                <a href="/music/label/view/id/117/">
+                    <img alt="Ad11" src="http://static.hdtracks.com/media/slider/d/3/d3a805f1c8639c0f8934c5eb9dec6ddf.jpg">
+                </a>
+            </li>
+                    <li class="slide">
+                <a href="/music/label/view/id/123/">
+                    <img alt="Ad12" src="http://static.hdtracks.com/media/slider/8/b/8bd5d006c92ec4100aab199c9e2d087e.jpg">
+                </a>
+            </li>
+                    <li class="slide">
+                <a href="/music/label/view/id/154/">
+                    <img alt="Ad13" src="http://static.hdtracks.com/media/slider/7/4/7443cb764853cad507a7bb75f2de8a7d.jpg">
+                </a>
+            </li>
+                    <li class="slide">
+                <a href="/music/label/view/id/18/">
+                    <img alt="Ad14" src="http://static.hdtracks.com/media/slider/d/4/d46adc790f7d72ab99a0862f0ec1c158.jpg">
+                </a>
+            </li>
+                    <li class="slide">
+                <a href="/music/label/view/id/170/">
+                    <img alt="Ad15" src="http://static.hdtracks.com/media/slider/8/c/8cf6813c485e3672f80852fd70eb141f.jpg">
+                </a>
+            </li>
+                    <li class="slide">
+                <a href="/music/label/view/id/113/">
+                    <img alt="Ad16" src="http://static.hdtracks.com/media/slider/2/9/29570a78cfc295a98522fcb98024a575.jpg">
+                </a>
+            </li>
+                    <li class="slide">
+                <a href="/music/label/view/id/12/">
+                    <img alt="Ad17" src="http://static.hdtracks.com/media/slider/d/7/d70c504bce12a1412c8489a4764720ae.jpg">
+                </a>
+            </li>
+                    <li class="slide">
+                <a href="/music/artist/view/id/4446/">
+                    <img alt="Ad18" src="http://static.hdtracks.com/media/slider/4/4/44e99d76dd9383abf7090c78c2284ad0.jpg">
+                </a>
+            </li>
+                    <li class="slide">
+                <a href="/music/artist/view/id/4464/">
+                    <img alt="Ad19" src="http://static.hdtracks.com/media/slider/3/2/32377f62deeeb949136a865a859eb247.jpg">
+                </a>
+            </li>
+                    <li class="slide">
+                <a href="/music/label/view/id/87/">
+                    <img alt="Ad20" src="http://static.hdtracks.com/media/slider/d/0/d0675b453ccbf0f8d18727058df7eced.jpg">
+                </a>
+            </li>
+                    <li class="slide">
+                <a href="/music/label/view/id/183/">
+                    <img alt="Ad21" src="http://static.hdtracks.com/media/slider/5/9/59fe003df8b107650116096bf08fe594.jpg">
+                </a>
+            </li>
+                    <li class="slide">
+                <a href="/music/label/view/id/86/">
+                    <img alt="Ad22" src="http://static.hdtracks.com/media/slider/5/5/559384bb04b73d1a0729170b2217189b.jpg">
+                </a>
+            </li>
+            </ul>
+</div>
+ 
+                            </div><!-- Top Banner Ad --> 
+                            <!--{GLOBAL_MESSAGES_3e966cafdcb3f0c9cd9f8bc6a0021644}--><!--/{GLOBAL_MESSAGES_3e966cafdcb3f0c9cd9f8bc6a0021644}--> 
+                            <!--{PAGE_BREADCRUMBS_808a032bfe4c9d6151737126be49ce28}--><div class="breadcrumbs">
+    <ul>
+                    <li class="home">
+                            <a href="http://www.hdtracks.com/" title="Go to Home Page">Home</a>
+                                        <span>&gt; </span>
+                        </li>
+                    <li class="cms_page">
+                            <strong>Privacy Policy</strong>
+                                    </li>
+            </ul>
+</div>
+<!--/{PAGE_BREADCRUMBS_808a032bfe4c9d6151737126be49ce28}--> 
+                                <div class="page-title">
+        <h1>Privacy Policy</h1>
+    </div>
+<div class="std"><!--{MESSAGES_ae8cbde2baddb9675c295f25283e7db9}--><!--/{MESSAGES_ae8cbde2baddb9675c295f25283e7db9}--><h3>HDTRACKS.COM TAKES YOUR PRIVACY SERIOUSLY.</h3>
+<p><span>Our website, www.HDtracks.com, and our HDtracks Store ("Digital Store") is the Internet’s Hi-Def Digital Download Store (TM). In order to make our Digital Store better for you we may collect information about you, your household (but not children under 18), and your use of your music collection. This Privacy Policy, which HDtracks has the right to amend from time to time, describes how and why we collect information from you, how we handle that information, and how and why we use that information. This Privacy Policy is part of our Terms of Service and applies to all information we collect or receive from you and your household.</span></p>
+<h3><span>INFORMATION WE COLLECT AND WHY WE COLLECT IT</span></h3>
+<p><span>In order to provide you with convenient access to our service and information about your account and services relating to the HDtracks Digital Store, we collect the following information:</span><br><br><span><strong>Registration</strong>. In order to use our Digital Store and/or to sign up for our emailing list, you must provide us with certain personal information. Prior to purchasing downloads for the first time, you will be required to register and create an account with HDtracks ("HDtracks Account"). When you create your HDtracks Account, you will be required to provide a login name and password and your name, address and email address. You may also be asked to provide us with additional information, such as your age, gender, and other personal information about yourself or your family. We do NOT retain your credit card information. You may also be asked to provide us with additional information, such as your age, occupation, and internet service provider, but such information is not required.</span><br><br><span>Once you have registered with us, we may also collect other information about you, including your transactions with us, your service usage patterns, such as the pages on the HDtracks.com Website you have visited, searches you have conducted on our site and the amount of time you have spent on our Website. If you contact us, we may keep a record of your correspondence. If you have registered with us, we may collect information about what music files you possess on the PC you use to sign up with our service and any other PC's networked to that PC. We may also collect information regarding where you obtained that music. We may collect information concerning the bit rate of the encode of music files contained on your PC and/or any PC connected to that PC</span></p>
+<hr>
+<p><span><strong>Promotions.</strong> As part of the process to create a HDtracks Account or to participate in certain promotions offered by HDtracks such as entering sweepstakes, contests, surveys, newsletters, etc., in addition to name, address, and email address, you may be asked to provide certain information which, by itself, does not personally identify you. For example, you may be asked to provide information concerning your music or other entertainment preferences, purchasing habits, and the like. HDtracks may request this information in order to enhance your experience by understanding you better and to also make you aware of new services, programs or offers in which you may be interested.</span></p>
+<hr>
+<p><span><strong>Visiting the Site.</strong> We keep track of the domains from which people visit our Website, www.HDtracks.com. We may track the country or zip code of visitors to our Website and of those downloading or attempting to download products from our Digital Store. We analyze this data for trends and statistics, and for federal export law compliance when required. This information is analyzed at an aggregate level and is not considered personally identifiable. We may also collect statistical data on all users of our Website, including: the Internet Protocol (IP) address of the user's computer, the referring URL, if any, and the browser software identification. Certain referring URLs and IP addresses may contain or suggest personally identifiable information.</span></p>
+<hr>
+<p><span><strong>Forums and Chat Rooms.</strong> If you choose to post messages to our message boards, forums, or chat rooms or other message areas or leave feedback for other users, we may collect or track that information. We retain this information as necessary to resolve disputes, provide customer support and troubleshoot problems, and as otherwise permitted by law. If you send us personal correspondence, such as emails or letters, or if other users or third parties send us correspondence about your activities or postings on the Site, we may collect such information into a file specific to you.</span></p>
+<hr>
+<p><span><strong>Mailing Lists.</strong> In order to keep you informed about our services, we may send e-mails and announcements that are needed for the administration of our Website and service. We also give our users the option of joining our mailing list to receive additional information about our Website, services and offers.</span></p>
+<hr>
+<p><span><strong>Use of Cookies.</strong> We may use data collection devices such as "cookies" (small text files that are placed on your computer's hard drive for record-keeping purposes) to assist us in providing our services. Cookies make using the Site easier by, among other things, saving your passwords and preferences for you, helping identify you whenever you return to our Site, and reducing the number of times you are required to enter your password during a session. Cookies can also help us provide information that is targeted toward your interests and preferences. Most Internet browsers are initially set up to accept cookies. However, you can reset your browser to refuse all cookies or to alert you when a cookie is being sent (note: you may need to consult your browser's "Help" area for instructions on how to do that). If you choose to disable your cookies setting or refuse to accept a cookie, you may not be able to use certain features on the Site and you may be required to reenter your password more frequently during a session. Please note, that if you set your browser to block acceptance of cookies, this may affect your ability to use the HDtracks service or enter our Website.</span></p>
+<h3><span>YOUR INFORMATION AND HOW WE USE IT</span></h3>
+<p><span>In general, HDtracks may use non-personally identifiable information about you to improve and enhance the services we provide. HDtracks may share this information with the suppliers of content on the service, affiliates and other entities in non-personal form to show general demographic and preference information among users of the HDtracks service or for other purposes. This information may include usage and demographic data, but it will not include personal information (such as your email address). If you provide HDtracks with personally identifiable information, we will take reasonable and appropriate steps to protect this information. Except as otherwise described in this Privacy Policy, or our Terms of Service, HDtracks will not disclose, share, sell or rent personally identifiable information collected on our Website to any third party without your prior consent. We do not share your credit card account information with any third parties, other than order processing and credit card clearance service providers as described below.</span><br><br><span><strong>Third Parties in General.</strong> We work with third parties who provide services, which may include website hosting, order processing, credit card clearance, data analysis, customer service, promotion fulfillment, and other services of an administrative nature. Personal information, including financial information, may be shared with such third parties for the purpose of providing such services to you. We seek to impose confidentiality obligations on such service providers. Also, entities into which our company is merged, or to which our assets, site or operations have been transferred or sold, will be able to use your personal information under the terms of this Privacy Policy. We also reserve the right to disclose personal information to third parties when we believe in good faith that the law requires it, to enforce our Terms of Service, to protect the rights, property, safety, or security of HDtracks, its content providers, or the public, to respond to an emergency, or as otherwise stated in this Privacy Policy.</span></p>
+<h3><span>OUR SECURITY</span></h3>
+<p><span>We use reasonable security methods to protect the data that resides on our servers. However, because no security system is impenetrable, we cannot guarantee the security of our servers. It is also possible that information you supply to us will be intercepted during transmission.</span><br><br><span>Whenever you give HDtracks sensitive information (e.g., credit card numbers), HDtracks will take commercially reasonable steps to protect such information by establishing a secure connection with your Web browser. HDtracks employs an industry standard technology known as a secure-socket-layer ("SSL") to protect the transmission of payment information from the HDtracks Network to our servers. We do not share your credit card information with any parties not directly involved in processing or completing your purchase.</span><br><br><span>To help protect your HDtracks Account information, please keep your password secure. We suggest that you pick a non-obvious password that mixes numbers and letters. In addition, we recommend that you do not divulge your password to anyone. Ultimately, you are responsible for maintaining the secrecy of your passwords and any HDtracks Account information.</span><br><br><span>Remember to sign out of your HDtracks Account, and close your browser window whenever you leave your computer. This is to ensure that others cannot access your personal information, because your computer may be accessible to others or used in a shared setting. HDtracks's Privacy Policy does not extend to anything that is inherent in the operation of the Internet, and therefore beyond HDtracks's control, and is not to be applied in any manner contrary to applicable law or governmental regulation.</span></p>
+<hr>
+<h3><span>LINKS</span></h3>
+<p><span>HDtracks may allow certain invited entities to be included in a list of links found on the HDtracks.com site. However, any link to a page which displays a URL other than a domain name that contains HDtracks.com in the address window of your browser is a link to a site outside of our service and therefore outside the control of HDtracks. These other sites may send their own cookies to you, collect data or solicit personal information. HDtracks cannot guarantee and is not responsible for the content of outside sites. While HDtracks strives to protect our visitors' personal information and privacy, we cannot guarantee the security and privacy of any information you disclose at other sites, and you do so at your own risk.</span></p>
+<h3><br><span>REGARDING PERSONS UNDER 18 YEARS OF AGE</span></h3>
+<p><span>The Website and the services provided thereon are intended for access and use strictly by adults 18 years and older. As such, it is not HDtracks's intention to collect nor maintain any personally identifiable information from persons under 18 years of age. Although HDtracks does not seek to collect any information from persons under the age of 18, should you find that your child has submitted his/her information, HDtracks will make reasonable efforts to delete a child's information from its database upon request. You may request to have such information purged from HDtracks's database by sending an email request to privacy@HDtracks.com. In the event that you are requesting such information to be purged from HDtracks's database, please make sure to include the correct email address that was submitted by the child.</span></p>
+<h3><span>HOW TO REVIEW, UPDATE OR DELETE YOUR REGISTRATION INFORMATION</span></h3>
+<p><span>As part of your use of our services, you are responsible for updating your submitted registration information so that it is current, accurate, and complete. In order to update your registration information, please access your HDtracks Account and make the desired change. You may also access your HDtracks Account in order to change your user preferences.</span><br><br><span>Please note that by using our Website and/or our software and the services provided therein, you signify your agreement to this Privacy Policy, as it may be amended from time to time. If you do not agree to this Privacy Policy, please do not use our Website, software, or the services provided therein. We reserve the right to make changes to this Privacy Policy. We will provide notice to you of any material changes by any reasonable means including sending an email to the most recently updated address in your HDtracks Account and/or posting such notice and the amended policy on the HDtracks Website and in the links contained in our software. Your continued use of our Website and/or software following changes to this Privacy Policy will mean that you accept and agree to the changes and that any information collected or provided after such change will be governed by the updated Privacy Policy.</span><br><br><span>HDtracks.com may contain links to other websites and there may be instances where other websites may be co-branded and/or otherwise affiliated with the HDtracks name. These sites may have privacy policies which differ from that of HDtracks.</span><br><br><span>HDtracks is dedicated to protecting your personal information and welcomes comments and questions on this Privacy Policy. If you have any questions regarding this Privacy Policy, please send an email to <a href="mailto:info@HDtracks.com">info@HDtracks.com</a>. If you would like to contact HDtracks for any other reason, please write to HDtracks, Inc., PO Box 1368 Radio City Station, NY NY 10101, Attn: Customer Service.</span></p></div>                        </div><!-- Column Main -->
+                        <div class="sidebar">
+                            <div class="block secure-button">
+<a onclick="var nonwin=navigator.appName!='Microsoft Internet Explorer'?'yes':'no'; window.open(this.href,'welcome','location='+nonwin+',scrollbars=yes,width=517,height='+screen.availHeight+',menubar=no,toolbar=no'); return false;" name="trustlink" href="https://secure.trust-guard.com/certificates/www.hdtracks.com" target="_blank"> <img src="https://secure.trust-guard.com/seals/2296/scanned/header/gray" alt="Security Seal" name="trust-seal" border="0"></a></div><div class="block block-login">
+    <div class="block-title">
+        <strong><span>My Account</span></strong>
+    </div>
+    <form action="https://www.hdtracks.com/customer/account/loginPost/" method="post">
+        <div class="block-content">
+            <label for="mini-login">Email:</label><input type="text" name="login[username]" id="mini-login" class="input-text">
+            <label for="mini-password">Password:</label><input type="password" name="login[password]" id="mini-password" class="input-text">
+            <a href="https://www.hdtracks.com/customer/account/forgotpassword/" class="f-left">Forgot Your Password?</a><br>
+            <li id="remember-me-box" class="control">
+        <div class="input-box">
+        <input type="checkbox" name="persistent_remember_me" class="checkbox" id="remember_mezzbOxilQTQ" checked="checked" title="Remember Me">
+    </div>
+    <label for="remember_mezzbOxilQTQ">Remember Me</label>
+</li>
+            <div id="window-overlay" class="window-overlay" style="display:none;"></div>
+<div id="remember-me-popup" class="remember-me-popup" style="display:none;">
+    <div class="remember-me-popup-head">
+        <h3>What's this?</h3>
+        <a href="#" class="remember-me-popup-close" title="Close">Close</a>
+    </div>
+    <div class="remember-me-popup-body">
+        <p>Checking "Remember Me" will let you access your shopping cart on this computer when you are logged out</p>
+        <div class="remember-me-popup-close-button a-right">
+            <a href="#" class="remember-me-popup-close button" title="Close"><span>Close</span></a>
+        </div>
+    </div>
+</div>
+<script type="text/javascript">
+//<![CDATA[
+    function toggleRememberMepopup(event){
+        if($('remember-me-popup')){
+            var viewportHeight = document.viewport.getHeight(),
+                docHeight      = $$('body')[0].getHeight(),
+                height         = docHeight > viewportHeight ? docHeight : viewportHeight;
+            $('remember-me-popup').toggle();
+            $('window-overlay').setStyle({ height: height + 'px' }).toggle();
+        }
+        Event.stop(event);
+    }
 
+    document.observe("dom:loaded", function() {
+        new Insertion.Bottom($$('body')[0], $('window-overlay'));
+        new Insertion.Bottom($$('body')[0], $('remember-me-popup'));
 
+        $$('.remember-me-popup-close').each(function(element){
+            Event.observe(element, 'click', toggleRememberMepopup);
+        })
+        $$('#remember-me-box a').each(function(element) {
+            Event.observe(element, 'click', toggleRememberMepopup);
+        });
+    });
+//]]>
+</script>
+            <div class="actions">
+                <button type="submit" class="button"><span><span>Login</span></span></button>
+            </div>
+        </div>
+    </form>
+</div>
+<!--{CART_SIDEBAR_d00585616cf65a29abc60768ed4139d7}--><div class="block block-cart">
+        <div class="block-title">
+        <strong><span>My Cart</span></strong>
+    </div>
+    <div class="block-content">
+    
+                <p class="empty">You have no items in your shopping cart.</p>
+    
+        </div>
+</div>
+<!--/{CART_SIDEBAR_d00585616cf65a29abc60768ed4139d7}--><div class="call-block new-hdtracks">
+<h2>New To HDTracks?</h2>
+<div class="music-break">&nbsp;</div>
+<p>Receive a FREE HIGH-RES SAMPLER TODAY!</p>
+<a class="call-link" href="http://www.hdtracks.com/free-highres-sample/"> Click here to learn more</a></div><div class="block sidebar-menu">
+<div class="navigation-wrapper">
+	<div class="block-title">
+		<strong><span>The Classic Albums</span></strong>
+	</div>
+    <div class="block-content">
+    	<ul>
+                                <li class="link even first">
+                <span class="link-link">
+                    <a href="/classic-100-rock">Classic 100 Rock</a>
+                </span>
+            </li>
+                                <li class="link odd">
+                <span class="link-link">
+                    <a href="/classic-100-jazz">Classic 100 Jazz</a>
+                </span>
+            </li>
+                                <li class="link even">
+                <span class="link-link">
+                    <a href="/classic-100-classical">Classic 100 Classical</a>
+                </span>
+            </li>
+                                <li class="link odd">
+                <span class="link-link">
+                    <a href="/classic-50-blues">Classic 50 Blues</a>
+                </span>
+            </li>
+                                <li class="link even">
+                <span class="link-link">
+                    <a href="/classic-50-americana">Classic 50 Americana</a>
+                </span>
+            </li>
+                                <li class="link odd">
+                <span class="link-link">
+                    <a href="/50-best-live-recordings">50 Best Live Recordings</a>
+                </span>
+            </li>
+                </ul>
+    </div>
+</div>
+</div><div class="block sidebar-menu">
+<div class="navigation-wrapper">
+	<div class="block-title">
+		<strong><span>Shop By Label</span></strong>
+	</div>
+    <div class="block-content">
+    	<ul>
+                                <li class="link even first">
+                <span class="link-link">
+                    <a href="/music/label/view/id/214">Warner Music Group Store</a>
+                </span>
+            </li>
+                                <li class="link odd">
+                <span class="link-link">
+                    <a href="/music/label/view/id/514">Warner Classics/Erato Store</a>
+                </span>
+            </li>
+                                <li class="link even">
+                <span class="link-link">
+                    <a href="/music/label/view/id/278">Blue Note Store</a>
+                </span>
+            </li>
+                                <li class="link odd">
+                <span class="link-link">
+                    <a href="/music/label/view/id/239">Atlantic Soul Store</a>
+                </span>
+            </li>
+                                <li class="link even">
+                <span class="link-link">
+                    <a href="/music/label/view/id/113">ECM Store</a>
+                </span>
+            </li>
+                                <li class="link odd">
+                <span class="link-link">
+                    <a href="/music/artist/view/id/3970">Rolling Stones Store</a>
+                </span>
+            </li>
+                                <li class="link even">
+                <span class="link-link">
+                    <a href="/music/artist/view/id/4377">The Doors Store</a>
+                </span>
+            </li>
+                                <li class="link odd">
+                <span class="link-link">
+                    <a href="/music/label/index">All Labels</a>
+                </span>
+            </li>
+                </ul>
+    </div>
+</div>
+</div><div class="block sidebar-menu">
+<div class="navigation-wrapper">
+	<div class="block-title">
+		<strong><span>Browse Music</span></strong>
+	</div>
+    <div class="block-content">
+    	<ul>
+                                <li class="link even first">
+                <span class="link-link">
+                    <a href="/music/artist/index/">Artists</a>
+                </span>
+            </li>
+                                <li class="link odd">
+                <span class="link-link">
+                    <a href="/music/genre/index">Genres</a>
+                </span>
+            </li>
+                                <li class="link even">
+                <span class="link-link">
+                    <a href="/music/hires">Hi-Res Store</a>
+                </span>
+            </li>
+                </ul>
+    </div>
+</div>
+</div>
+<!--<div class="block block-support">
+    <div class="block-title">
+        <strong><span></span></strong>
+    </div>
+    <div class="block-content">
+            </div>
+</div>--><div class="block sidebar-menu">
+<div class="navigation-wrapper">
+	<div class="block-title">
+		<strong><span>New on HDtracks</span></strong>
+	</div>
+    <div class="block-content">
+    	<ul>
+                                <li class="link even first">
+                <span class="link-link">
+                    <a href="/new">Recently Added</a>
+                </span>
+            </li>
+                                <li class="link odd">
+                <span class="link-link">
+                    <a href="/specials-of-the-week">Specials of the Week</a>
+                </span>
+            </li>
+                                <li class="link even">
+                <span class="link-link">
+                    <a href="/critics-picks">Critics' Picks</a>
+                </span>
+            </li>
+                                <li class="link odd">
+                <span class="link-link">
+                    <a href="/top-50-best-sellers">Top 50 Best Sellers</a>
+                </span>
+            </li>
+                                <li class="link even">
+                <span class="link-link">
+                    <a href="/top-25-rock-albums">Top 25 Rock Albums</a>
+                </span>
+            </li>
+                                <li class="link odd">
+                <span class="link-link">
+                    <a href="/top-25-jazz-albums">Top 25 Jazz Albums</a>
+                </span>
+            </li>
+                                <li class="link even">
+                <span class="link-link">
+                    <a href="/top-25-classical-albums">Top 25 Classical Albums</a>
+                </span>
+            </li>
+                </ul>
+    </div>
+</div>
+</div>
+<!--<div class="block block-support">
+    <div class="block-title">
+        <strong><span></span></strong>
+    </div>
+    <div class="block-content">
+            </div>
+</div>--><div class="call-block giftcards">
+<h2>Gift Certificates Available</h2>
+<a class="call-link" href="/gift-certificate">CLICK HERE TO LEARN MORE</a></div><div class="block sidebar-menu">
+<div class="navigation-wrapper">
+	<div class="block-title">
+		<strong><span>Digital Accessories</span></strong>
+	</div>
+    <div class="block-content">
+    	<ul>
+                                <li class="link even first">
+                <span class="link-link">
+                    <a href="/digital-store">Digital Accessories Store</a>
+                </span>
+            </li>
+                                <li class="link odd">
+                <span class="link-link">
+                    <a href="/other-resources">Conversion Software</a>
+                </span>
+            </li>
+                </ul>
+    </div>
+</div>
+</div>
+<!--<div class="block block-support">
+    <div class="block-title">
+        <strong><span></span></strong>
+    </div>
+    <div class="block-content">
+            </div>
+</div>--><div class="block sidebar-menu">
+<div class="navigation-wrapper">
+	<div class="block-title">
+		<strong><span>Support</span></strong>
+	</div>
+    <div class="block-content">
+    	<ul>
+                                <li class="link even first">
+                <span class="link-link">
+                    <a href="/customer/account/">My Account</a>
+                </span>
+            </li>
+                                <li class="link odd">
+                <span class="link-link">
+                    <a href="/tutorial">How To Download: Video</a>
+                </span>
+            </li>
+                                <li class="link even">
+                <span class="link-link">
+                    <a href="/customer-service">How To Download: PDF</a>
+                </span>
+            </li>
+                                <li class="link odd">
+                <span class="link-link">
+                    <a href="/help">Help</a>
+                </span>
+            </li>
+                                <li class="link even">
+                <span class="link-link">
+                    <a href="/faq">FAQ</a>
+                </span>
+            </li>
+                                <li class="link odd">
+                <span class="link-link">
+                    <a href="/contacts">Contact us</a>
+                </span>
+            </li>
+                </ul>
+    </div>
+</div>
+</div>    <div class="block block-blog block-recent-posts">
+        <div class="block-title">
+            <strong><span>News &amp; Press</span></strong>
+        </div>
+        <div class="block-content">
+            <ul id="wp-2a3">
+                <li class="item"> <a target="_blank" href="https://www.youtube.com/user/TheHDtracks" title="Master Musicians Videos">Master Musicians Videos<span class="video-icon"></span></a></li>
+                            <li class="item">
+                    <a href="http://www.hdtracks.com/blog/?p=25" title="Wall Street Journal Discusses Hi-res Audio and the best place to get it HDtracks">Wall Street Journal Discusses Hi-res Audio and the best place to get it HDtracks</a>
+                </li>
+                            <li class="item">
+                    <a href="http://www.hdtracks.com/blog/?p=27" title="HDtracks Master Musicians' Web Series">HDtracks Master Musicians' Web Series</a>
+                </li>
+                            <li class="item">
+                    <a href="http://www.hdtracks.com/blog/?p=29" title="HDtracks Welcomes One of the World’s Most Prestigious Labels - Blue Note Records!">HDtracks Welcomes One of the World’s Most Prestigious Labels - Blue Note Records!</a>
+                </li>
+                        </ul>
+           <script type="text/javascript">decorateList('wp-2a3')</script>
+           <a class="call-link" href="http://www.hdtracks.com/blog/"> <span>VIEW NEWS ARCHIVE </span></a>
+        </div>
+    </div>
+                        </div><!-- Sidebar -->
+                        <div class="clearMe"></div><!-- Clear --> 
+                    </div><!-- Main Content -->
+                    <div id="footer"> 
+                         
+                        <div class="footer-content">
+    <a href="http://www.hdtracks.com/">Home</a>
+    <span class="divider">|</span>
+    <a href="https://www.hdtracks.com/customer/account/">My Account</a>
+    <span class="divider">|</span>
+    <a href="/about-us">About HDTracks</a>
+    <span class="divider">|</span>
+    <a target="_blank" href="http://www.shareasale.com/shareasale.cfm?merchantID=17923">Become an Affiliate</a>
+    <span class="divider">|</span>
+    <a href="/privacy-policy">Privacy Policy</a>
+    <span class="divider">|</span>
+    <a href="/terms-and-conditions">Terms &amp; Conditions</a>
+    <span class="copyright">© HDtracks 2007 - 2013</span>   
+</div> <!-- Footer Content -->
+<!--
+<div class="international-footer">Registered Address 1650 Broadway, NY NY 10019 - HDtracks is a New York LLC. <a href="mailto:contact@hdtracks.com">Contact@hdtracks.com</a></div>
+--> 
+<!-- International Footer -->
+ 
+                        <!--{WISHLISTS_0a62920bc25654f05711578c0018ac7f}--><!--/{WISHLISTS_0a62920bc25654f05711578c0018ac7f}--><!--{TRACEVIEW_FOOTER_8f7ffbab26b490cfaa322a02980b2996}--><!--/{TRACEVIEW_FOOTER_8f7ffbab26b490cfaa322a02980b2996}-->                    </div><!-- Footer --> 
+                </div><!-- Main Content Wrapper --> 
+            </div><!-- Content Wrapper --> 
+        </div><!-- Wrapper --> 
+            <script type="text/javascript">if(!NREUMQ.f){NREUMQ.f=function(){NREUMQ.push(["load",new Date().getTime()]);var e=document.createElement("script");e.type="text/javascript";e.src=(("http:"===document.location.protocol)?"http:":"https:")+"//"+"js-agent.newrelic.com/nr-100.js";document.body.appendChild(e);if(NREUMQ.a)NREUMQ.a();};NREUMQ.a=window.onload;window.onload=NREUMQ.f;};NREUMQ.push(["nrfj","beacon-2.newrelic.com","5a2d0890cb","2440949","ZFQEZxMFDRJSUBdRX10eJ1AVDQwPHFAOSx9DUAFWThIKBEQ=",0,552,new Date().getTime(),"","","","",""]);</script>
 
-<div class="ui-dialog ui-widget ui-widget-content ui-corner-all ui-draggable ui-resizable" tabindex="-1" role="dialog" aria-labelledby="ui-id-1" style="display: none; outline: 0px; z-index: 1000; position: absolute;"><div class="ui-dialog-titlebar ui-widget-header ui-corner-all ui-helper-clearfix"><span id="ui-id-1" class="ui-dialog-title">New HDTracks Download Manager</span><a href="#" class="ui-dialog-titlebar-close ui-corner-all" role="button"><span class="ui-icon ui-icon-closethick">close</span></a></div><div id="dialog" style="" class="ui-dialog-content ui-widget-content">
-    <p>Looks like you don’t have the latest and greatest Download Manager from HDtracks! Click below to install the new HD Downloader and receive your recent purchases.</p>
-	<p><button id="install-button">Install</button></p>
-</div><div class="ui-resizable-handle ui-resizable-n" style="z-index: 1000;"></div><div class="ui-resizable-handle ui-resizable-e" style="z-index: 1000;"></div><div class="ui-resizable-handle ui-resizable-s" style="z-index: 1000;"></div><div class="ui-resizable-handle ui-resizable-w" style="z-index: 1000;"></div><div class="ui-resizable-handle ui-resizable-se ui-icon ui-icon-gripsmall-diagonal-se ui-icon-grip-diagonal-se" style="z-index: 1000;"></div><div class="ui-resizable-handle ui-resizable-sw" style="z-index: 1000;"></div><div class="ui-resizable-handle ui-resizable-ne" style="z-index: 1000;"></div><div class="ui-resizable-handle ui-resizable-nw" style="z-index: 1000;"></div></div></body></html>
+<script type="text/javascript" src="https://js-agent.newrelic.com/nr-100.js"></script></body></html>
