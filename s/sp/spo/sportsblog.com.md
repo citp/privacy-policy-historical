@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the sportsblog.com privacy policy that was archived on 2013-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130509164007id_/http%3A//www.sportsblog.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sportsblog.com privacy policy that was archived on 2013-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131109094155id_/http%3A//www.sportsblog.com/privacy) for the most accurate reproduction.*
 
-# SportsBlog.com - Privacy - Sports news, opinions and blogs. Make money sports blogging.
+# SportsBlog.com - Privacy Policy - The Leading Blog Network for Superstars, Superfans, and Everything In Between
 
 ## Privacy Policy
 
-### Effective Date: March 14, 2013.
+### Effective Date: September 1, 2013.
 
-This is the website of BrandLab LLC, d/b/a GOBLOG and SportsBlog.com ("we" or "us"). We are committed to maintaining the privacy of the information that you provide to us in using this site. The following privacy policy applies to the information we collect from you and how we use and protect it. This privacy policy applies only to this site and does not apply to any third-party websites linked to this site. We are not responsible for the privacy practices or the contents of any third-party linked website. 
+This is the website of SportsBlog.com ("we" or "us"). We are committed to maintaining the privacy of the information that you provide to us in using this site. The following privacy policy applies to the information we collect from you and how we use and protect it. This privacy policy applies only to this site and does not apply to any third-party websites linked to this site. We are not responsible for the privacy practices or the contents of any third-party linked website. 
 
 ### What information do we collect?
 
@@ -22,7 +22,7 @@ The information we collect is used to communicate with users regarding their acc
 
 ### How to opt out of receiving email
 
-If you do not want to receive e-mail from us in the future, you should let us know by sending a removal request to us at team@sportsblog.com, We honor all removal requests. 
+If you do not want to receive e-mail from us in the future, you should let us know by sending a removal request to us at support@sportsblog.com, We honor all removal requests. 
 
 ### What are cookies, and how do we use them?
 
@@ -38,7 +38,7 @@ We use third-party advertising companies to serve ads when you visit our Web sit
 
 ### How to request information maintained about you 
 
-Upon request, we will provide you with access to all information (including proprietary information) that we maintain about you. You can access this information by emailing us at team@sportsblog.com 
+Upon request, we will provide you with access to all information (including proprietary information) that we maintain about you. You can access this information by emailing us at support@sportsblog.com 
 
 ### We cannot guarantee the security of this site
 
@@ -54,7 +54,7 @@ If you have any questions or comments about our privacy policy, please contact u
 
 ### By email: 
 
-team@sportsblog.com 
+support@sportsblog.com 
 
 ### By regular mail:
 
