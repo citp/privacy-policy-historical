@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adeex.us privacy policy that was archived on 2013-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130607171320id_/http%3A//www.adeex.us/questions/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adeex.us privacy policy that was archived on 2013-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131109125342id_/http%3A//www.adeex.us/questions/privacy-policy) for the most accurate reproduction.*
 
 # Free Classified Ads . Local Classifieds Adeex
 
