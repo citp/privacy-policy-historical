@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gaycities.com privacy policy that was archived on 2013-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130627180946id_/http%3A//www.gaycities.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gaycities.com privacy policy that was archived on 2013-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131109032954id_/http%3A//www.gaycities.com/about/privacy) for the most accurate reproduction.*
 
 # GayCities Privacy Policy - GayCities
 
@@ -23,7 +23,7 @@ This site allows you to connect your account to your accounts on other services 
 
   * #### We use cookies to remember you
 
-Like nearly all web sites, we use cookies to remember you. This enables us to log you in automatically when you return to the site and other features to save you time. We also use cookies to make sure you don't accidentally rate the same establishment too many times. We also may use these cookies, along with your IP address, to better understand the patterns of usage of our site and how we can make it better.
+Like nearly all web sites, we use cookies to remember you. This enables us to log you in automatically when you return to the site and other features to save you time. We also use cookies to make sure you don't accidentally rate the same establishment too many times. We also may use these cookies, along with your IP address, to better understand the patterns of usage of our site and how we can make it better. We also use analytics tools (Google Analytics, Compete, Quantcast, Comscore) that track the usage of the site and may use cookies to do so. We also utilize third-party ad networks and they may use cookies to allow us to retarget ads to you and to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see. 
   
 
   * #### We do not sell or rent user information
