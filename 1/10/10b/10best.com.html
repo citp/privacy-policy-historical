@@ -1,7 +1,8 @@
-<!--The following is the downloaded HTML source of the 10best.com privacy policy that was archived on 2013-05-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130527185648id_/http%3A//www.10best.com/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the 10best.com privacy policy that was archived on 2013-11-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131109083907id_/http%3A//www.10best.com/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html lang="en-US" xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml" dir="ltr"><head>
+<link href="http://fonts.googleapis.com/css?family=Open+Sans:400,700,800&amp;subset=latin,latin-ext" rel="stylesheet" type="text/css">
 
 <link rel="canonical" href="http://www.10best.com/privacy.html">
 
@@ -11,12 +12,12 @@
 <meta name="description" content="">
 <meta name="keywords" content="">
 	<meta http-equiv="Content-type" content="text/html; charset=utf-8">
-	<link rel="shortcut icon" href="http://img1.10bestmedia.com/redesign/Images/favicon.ico?cb=1">
-	<link rel="stylesheet" href="http://css.10bestmedia.com/redesign/CSS/style-20130509-2.css" type="text/css" media="all">
+	<link rel="shortcut icon" href="http://img2.10bestmedia.com/redesign/Images/favicon.ico?cb=1">
+	<link rel="stylesheet" href="http://css.10bestmedia.com/redesign/CSS/style-20131107.css" type="text/css" media="all">
 	<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script id="facebook-jssdk" async="" src="//connect.facebook.net/en_US/all.js"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js" type="text/javascript" charset="utf-8"></script>
 
 
-        <script src="http://js.10bestmedia.com/redesign/JS/combined-20130508.js" type="text/javascript" charset="utf-8"></script>
+        <script src="http://js.10bestmedia.com/redesign/JS/combined-20131029.js" type="text/javascript" charset="utf-8"></script>
 
 
 	<!--[if lte IE 8]>
@@ -37,12 +38,54 @@
 
 <script type="text/javascript">
 
+  var gci_10b = {};
+  gci_10b.content_type="Privacy_Policy";
+
+  var eventCounter = 1;
+
   function trackClick(clickData, pageType, addendum)
   {
       if (window._gaq)
       {
         _gaq.push(['_setAccount', 'UA-30580-1'],
                   ['_trackEvent', 'Unregistered Users', pageType]);
+      }
+      else if (parent._gaq)
+      {
+        parent._gaq.push(['_setAccount', 'UA-30580-1'],
+                         ['_trackEvent', 'Unregistered Users', pageType]);
+      }
+
+      if (window.s_ut || parent.s_ut)
+      {
+          if (window.s_ut)
+          {
+             var _s= window.s_ut, 
+                 _trackVars= window.s_ut.linkTrackVars,
+                 _trackEvents= window.s_ut.linkTrackEvents,
+                 _oldPN = window.s_ut.pageName;
+
+          }
+          else if (parent.s_ut)
+          {
+             var _s= parent.s_ut,
+                 _trackVars= parent.s_ut.linkTrackVars,
+                 _trackEvents= parent.s_ut.linkTrackEvents,
+                 _oldPN = parent.s_ut.pageName;
+
+          }
+
+          _s.pageName=null;
+          _s.linkTrackVars= "events";
+          _s.linkTrackEvents= _s.events= "event" + eventCounter;
+          _s.tl(clickData,'o',pageType);
+          _s.linkTrackVars= _trackVars;
+          _s.linkTrackEvents= _s.events= _trackEvents;
+          _s.pageName=_oldPN;
+
+          eventCounter++;
+
+          return this;
       }
   }
 
@@ -88,6 +131,7 @@ googletag.enableServices();
 }
 
 </style>
+<script src="https://tags.tiqcdn.com/utag/gci/usatodaytravel/prod/utag.js?asof=__cache-bust__&amp;c=1383986347" type="text/javascript"></script>
 </head>
 <body>
 <div id="fb-root"></div>
@@ -114,15 +158,10 @@ googletag.enableServices();
      ref.parentNode.insertBefore(js, ref);
    }(document));
 </script>
-<!-- wrapper -->
-<div id="wrapper" onunload="GUnload();">
-	<!-- shell -->
-	<div class="shell">
-
 
 <!-- header -->
-<div id="header">	
-	<a href="/" class="sprite mainlogo notext left">10Best - What to know before you go.</a>
+<div id="header"><div class="inner-header">	
+	<a href="/" onclick="trackClick(this, 'HEADER_LOGO', '')" class="sprite mainlogo notext left">10Best - What to know before you go.</a>
         	
 	<!-- search -->	
 	<div id="search-wrap">
@@ -133,6 +172,7 @@ googletag.enableServices();
 			<div class="cl">&nbsp;</div>
 			<div class="dd" id="autocompleteResults">
 			</div>
+
 		</form>
            </div>
 	<!-- /search -->
@@ -141,46 +181,36 @@ googletag.enableServices();
 	<div id="navigation-wrap">
 		<!-- navigation -->
 			<ul id="navigation" class="left gtm-bl">
-                        		<li class="current"><a href="/">home</a></li>
-                        		<li><a href="/destinations/" rel="dropmenu2">travel Destinations</a></li>
-    					<li><a href="/interests/" rel="dropmenu1">travel Interests</a></li>
-                        		<li class="last"><a href="/TravelAwards/" onclick="trackClick(this, 'AWARDS_HEADER', '')">10Best Travel Awards</a></li>
+                        		<li class="current"><a href="/" onclick="trackClick(this, 'HEADER_HOME', '')">Home</a></li>
+                        		<li><a class="" href="/destinations/" rel="dropmenu2" onclick="trackClick(this, 'HEADER_DESTINATIONS', '')">Travel Destinations</a></li>
+    					<li><a class="" href="/interests/" rel="dropmenu1" onclick="trackClick(this, 'HEADER_INTERESTS', '')">Travel Interests</a></li>
+    					<li><a href="/videos/" onclick="trackClick(this, 'HEADER_VIDEOS', '')">Videos</a></li>
+                        		<li class="last"><a href="/awards/travel/" rel="dropmenu3" onclick="trackClick(this, 'HEADER_AWARDS', '')">Readers' Choice Awards</a></li>
 			</ul>
 		<!-- /navigation -->
 <div id="account-navigation-container"><div id="personal-nav">
-<a href="/common/register.html" class="add-photo cboxElement" id="registerLink" onclick="return false;">Sign up</a> | <a href="/common/login.html" class="add-photo cboxElement" id="loginLink" onclick="return false;">Log in</a>
+<a href="/common/login.html" class="add-photo cboxElement" id="loginLink" onclick="trackClick(this, 'ACCOUNT_LOGIN', ''); return false;"><img class="nlogin-icon" src="http://img2.10bestmedia.com/redesign/Images/transparent.gif" alt="log in" border="0">Log in</a> | <a href="/common/register.html" class="add-photo cboxElement" id="registerLink" onclick="trackClick(this, 'ACCOUNT_REGISTER', ''); return false;">Sign up</a>
+
 </div>
 
 </div>
-                
 	</div>
 	<!-- /navigation wrap -->
 
-<div class="nav-box-cont dropmenudiv" id="dropmenu1">
+<div style="height: auto; overflow: hidden; visibility: hidden; left: -1000px; top: -1000px;" class="nav-box-cont dropmenudiv" id="dropmenu1">
 <div class="nav-box-header"><a href="/interests/">Overview</a></div>
 <div class="nav-box">
 <ul>
-    <li><a href="/interests/family-trips/" class="nav-sprite family"><span class="dd-text-marg">Family</span></a></li>
-    <li><a href="/interests/foodie/" class="nav-sprite eat-drink"><span class="dd-text-marg">Eat&nbsp;&amp;&nbsp;Drink</span></a></li>
-    <li><a href="/interests/beaches/" class="nav-sprite beaches"><span class="dd-text-marg">Beaches</span></a></li>
-    <li><a href="/interests/romantic-places/" class="nav-sprite romance"><span class="dd-text-marg">Romance</span></a></li>
-    <li><a href="/interests/travel-now/" class="nav-sprite where-when"><span class="dd-text-marg">Where&nbsp;to&nbsp;Go&nbsp;When</span></a></li>
-    <li><a href="/interests/travel-news/" class="nav-sprite news"><span class="dd-text-marg">News</span></a></li>
-    <li><a href="/interests/travel-features/" class="nav-sprite features"><span class="dd-text-marg">Features</span></a></li>
-</ul>    
+<li><a href="/interests/family-trips/" class="nav-sprite family"><span class="dd-text-marg">Family</span></a></li><li><a href="/interests/foodie/" class="nav-sprite eat-drink"><span class="dd-text-marg">Eat&nbsp;&amp;&nbsp;Drink</span></a></li><li><a href="/interests/beaches/" class="nav-sprite beaches"><span class="dd-text-marg">Beaches</span></a></li><li><a href="/interests/romantic-places/" class="nav-sprite romance"><span class="dd-text-marg">Romance</span></a></li><li><a href="/interests/travel-now/" class="nav-sprite where-when"><span class="dd-text-marg">Where&nbsp;to&nbsp;Go&nbsp;When</span></a></li><li><a href="/interests/travel-news/" class="nav-sprite news"><span class="dd-text-marg">News</span></a></li><li><a href="/interests/travel-features/" class="nav-sprite features"><span class="dd-text-marg">Features</span></a></li></ul>    
 <ul>
-    <li><a href="/interests/where-to-stay/" class="nav-sprite hotels"><span class="dd-text-marg">Hotels</span></a></li>
-    <li><a href="/interests/trip-pics/" class="nav-sprite slideshows"><span class="dd-text-marg">Slideshows</span></a></li>
-    <li><a href="/interests/travel-gear-and-technology/" class="nav-sprite gear-technology"><span class="dd-text-marg">Gear&nbsp;&amp;&nbsp;Tech</span></a></li>
-    <li><a href="/interests/postcard-perfect/" class="nav-sprite postcard-perfect"><span class="dd-text-marg">Postcards</span></a></li>
-    <li><a href="/interests/sports-travel/" class="nav-sprite sports-adventure"><span class="dd-text-marg">Sports&nbsp;&amp;&nbsp;Adventure</span></a></li>
-    <li><a href="/interests/travel-tips/" class="nav-sprite tips"><span class="dd-text-marg">Trip&nbsp;Tips</span></a></li>
-</ul>    
+<li><a href="/interests/where-to-stay/" class="nav-sprite hotels"><span class="dd-text-marg">Hotels</span></a></li><li><a href="/interests/trip-pics/" class="nav-sprite slideshows"><span class="dd-text-marg">Slideshows</span></a></li><li><a href="/interests/travel-gear-and-technology/" class="nav-sprite gear-technology"><span class="dd-text-marg">Gear&nbsp;&amp;&nbsp;Tech</span></a></li><li><a href="/interests/postcard-perfect/" class="nav-sprite postcard-perfect"><span class="dd-text-marg">Postcards</span></a></li><li><a href="/interests/sports-travel/" class="nav-sprite sports-adventure"><span class="dd-text-marg">Sports&nbsp;&amp;&nbsp;Adventure</span></a></li><li><a href="/interests/travel-tips/" class="nav-sprite tips"><span class="dd-text-marg">Trip&nbsp;Tips</span></a></li><li><a href="/interests/undefined/" class="nav-sprite "><span class="dd-text-marg">Undefined</span></a></li></ul>    
+
+<ul class="articles">
+<li><a href="/interests/romantic-places/romance-is-in-the-air-and-hotels-in-santa-fe/"><img src="http://img1.10bestmedia.com/Images/Photos/243437/La-Fonda-BellTowerBar-300_12_150x150.jpg" width="136" height="107"></a><a></a><p class="title"><a></a><a href="/interests/romantic-places/romance-is-in-the-air-and-hotels-in-santa-fe/">Romance is in the Air... and Hotels in Santa Fe!</a></p><p>Santa Fe is proof that not only romance still exists in...&nbsp;&nbsp;<a href="/interests/romantic-places/romance-is-in-the-air-and-hotels-in-santa-fe/" class="read-more" style="font-weight:bold"><br><strong>Read&nbsp;more&nbsp;»</strong></a></p></li><li><a href="/interests/sports-travel/planning-tips-for-an-easy-superbowl-trip/"><img src="http://img2.10bestmedia.com/Images/Photos/242961/home-campaign-image-05_12_150x150.jpg" width="136" height="107"></a><a></a><p class="title"><a></a><a href="/interests/sports-travel/planning-tips-for-an-easy-superbowl-trip/">Planning Tips for an Easy Superbowl Trip</a></p><p>Superbowl XLVIII will be held in New York/New Jersey...&nbsp;&nbsp;<a href="/interests/sports-travel/planning-tips-for-an-easy-superbowl-trip/" class="read-more" style="font-weight:bold"><br><strong>Read&nbsp;more&nbsp;»</strong></a></p></li><li><a href="/interests/foodie/raise-a-glass-of-napa-valley-wine-in-a-medieval-castle/"><img src="http://img1.10bestmedia.com/Images/Photos/243677/1CastelloExterior-Fall-Morning-JimSullivan-Tonemapped_12_150x150.jpg" width="136" height="107"></a><a></a><p class="title"><a></a><a href="/interests/foodie/raise-a-glass-of-napa-valley-wine-in-a-medieval-castle/">Raise a Glass of Napa Valley Wine in a Medieval Castle</a></p><p>The Castello di Amorosa winery, which looms high on a...&nbsp;&nbsp;<a href="/interests/foodie/raise-a-glass-of-napa-valley-wine-in-a-medieval-castle/" class="read-more" style="font-weight:bold"><br><strong>Read&nbsp;more&nbsp;»</strong></a></p></li><li><a href="/interests/trip-pics/eye-popping-headgear-and-where-its-worn/"><img src="http://img1.10bestmedia.com/Images/Photos/243616/115071865_12_150x150.jpg" width="136" height="107"></a><a></a><p class="title"><a></a><a href="/interests/trip-pics/eye-popping-headgear-and-where-its-worn/">Eye-Popping Headgear and Where it's Worn</a></p><p>Hats, hairpieces and headdresses make up a fundamental...&nbsp;&nbsp;<a href="/interests/trip-pics/eye-popping-headgear-and-where-its-worn/" class="read-more" style="font-weight:bold"><br><strong>Read&nbsp;more&nbsp;»</strong></a></p></li></ul>  
 </div>
 </div>
 
-
-<div class="nav-box-cont dropmenudiv" id="dropmenu2" style="left:6%">
+<div class="nav-box-cont dropmenudiv" id="dropmenu2" style="left: -1000px; height: auto; overflow: hidden; visibility: hidden; top: -1000px;">
 <div class="nav-box-header"><a href="/destinations/">Most Popular Destinations</a></div>
 <div class="nav-box">
 <ul>
@@ -201,14 +231,43 @@ googletag.enableServices();
 <li><a href="/destinations/germany/berlin/">Berlin Travel Guide</a></li>
 <li><a href="/destinations/texas/houston/">Houston Travel Guide</a></li>
 <li><a href="/destinations/florida/miami/">Miami Travel Guide</a></li>
-<li><a href="/destinations/" style="color:#f60">Browse All Destinations »</a></li>
+<li><a href="/destinations/" style="color:#00C3C3">Browse All Destinations »</a></li>
 </ul>
+
+
+
+<ul class="articles">
+<li><a href="/destinations/tennessee/nashville/articles/hatch-show-print-hosts-grand-opening-celebration-this-weekend/"><img src="http://img1.10bestmedia.com/Images/Photos/243704/Grand-Opening-Banner_12_150x150.gif" width="136" height="107"></a><a></a><p class="title"><a></a><a href="/destinations/tennessee/nashville/articles/hatch-show-print-hosts-grand-opening-celebration-this-weekend/">Hatch Show Print hosts grand opening celebration this weekend</a></p><p>One of the most iconic institutions in Nashville, Hatch...&nbsp;&nbsp;<a href="/destinations/tennessee/nashville/articles/hatch-show-print-hosts-grand-opening-celebration-this-weekend/" class="read-more" style="font-weight:bold"><br><strong>Read&nbsp;more&nbsp;»</strong></a></p></li><li><a href="/destinations/italy/rome/articles/roman-holiday-for-first-timers/"><img src="http://img2.10bestmedia.com/Images/Photos/243132/PA120817_12_150x150.JPG" width="136" height="107"></a><a></a><p class="title"><a></a><a href="/destinations/italy/rome/articles/roman-holiday-for-first-timers/">Roman Holiday for First Timers</a></p><p>Visiting Rome for the first time is exciting but with so...&nbsp;&nbsp;<a href="/destinations/italy/rome/articles/roman-holiday-for-first-timers/" class="read-more" style="font-weight:bold"><br><strong>Read&nbsp;more&nbsp;»</strong></a></p></li><li><a href="/destinations/florida/tampa/articles/pamper-your-taste-buds-at-tampas-epicurean-hotel/"><img src="http://img2.10bestmedia.com/Images/Photos/242543/Epicurean1_12_150x150.jpg" width="136" height="107"></a><a></a><p class="title"><a></a><a href="/destinations/florida/tampa/articles/pamper-your-taste-buds-at-tampas-epicurean-hotel/">Pamper Your Taste Buds at Tampa's Epicurean Hotel</a></p><p>Tampa's new Epicurean Hotel promises to "awaken senses...&nbsp;&nbsp;<a href="/destinations/florida/tampa/articles/pamper-your-taste-buds-at-tampas-epicurean-hotel/" class="read-more" style="font-weight:bold"><br><strong>Read&nbsp;more&nbsp;»</strong></a></p></li><li><a href="/destinations/arizona/tucson/articles/raptor-free-flights-return-to-the-arizona-sonora-desert-museum/"><img src="http://img2.10bestmedia.com/Images/Photos/242484/Arizona-Sonora-Desert-Museum-Tucson-AZ_12_150x150.jpg" width="136" height="107"></a><a></a><p class="title"><a></a><a href="/destinations/arizona/tucson/articles/raptor-free-flights-return-to-the-arizona-sonora-desert-museum/">Raptor Free Flights Return to the Arizona-Sonora Desert Museum</a></p><p>Raptor free flight, one of the most popular attractions...&nbsp;&nbsp;<a href="/destinations/arizona/tucson/articles/raptor-free-flights-return-to-the-arizona-sonora-desert-museum/" class="read-more" style="font-weight:bold"><br><strong>Read&nbsp;more&nbsp;»</strong></a></p></li></ul>
 </div>
 </div>
 
+<div style="height: auto; overflow: hidden; visibility: hidden; left: -1000px; top: -1000px;" class="nav-box-cont dropmenudiv" id="dropmenu3">
+<div class="nav-box-header"><a href="/awards/">Readers' Choice Awards Overview</a></div>
+<div class="nav-box">
+<ul class="single">
+<li><p class="ta-main-copy-ta-icon-sm"><a href="/awards/travel/">Travel Awards</a></p></li>
+</ul>
+   
+
+<ul class="articles"><li><a href="/awards/travel/best-u-s-city-for-shopping/"><img src="http://img2.10bestmedia.com/Images/Photos/243711/78770269_12_150x150.jpg" height="107" width="136"></a><a></a><p class="title"><a></a><a href="/awards/travel/best-u-s-city-for-shopping/">Best U.S. City for Shopping</a></p><p></p><p>November is when most of the family shoppers start...&nbsp;&nbsp;<a href="/awards/travel/best-u-s-city-for-shopping/" class="read-more" style="font-weight:bold"><br><strong>Read&nbsp;more&nbsp;»</strong></a></p><p></p></li>
+<li><a href="/awards/travel/best-state-flags/"><img src="http://img1.10bestmedia.com/Images/Photos/243068/State-Flags_12_150x150.jpg" height="107" width="136"></a><a></a><p class="title"><a></a><a href="/awards/travel/best-state-flags/">Best State Flags</a></p><p></p><p>A great state flag represents heritage and history, but...&nbsp;&nbsp;<a href="/awards/travel/best-state-flags/" class="read-more" style="font-weight:bold"><br><strong>Read&nbsp;more&nbsp;»</strong></a></p><p></p></li>
+<li><a href="/awards/travel/prettiest-european-city/"><img src="http://img2.10bestmedia.com/Images/Photos/242858/photo.php-path--2FImages-2FPhotos-2F242823-2F424142774-c28f79a6a4-b_12_150x150.jpg" height="107" width="136"></a><a></a><p class="title"><a></a><a href="/awards/travel/prettiest-european-city/">Prettiest European City</a></p><p></p><p>Dreamers, romantics, photographers and passionate...&nbsp;&nbsp;<a href="/awards/travel/prettiest-european-city/" class="read-more" style="font-weight:bold"><br><strong>Read&nbsp;more&nbsp;»</strong></a></p><p></p></li>
+<li><a href="/awards/travel/best-u-s-airports-for-art/"><img src="http://img1.10bestmedia.com/Images/Photos/242144/8091775525-94403dbe3d-b_12_150x150.jpg" height="107" width="136"></a><a></a><p class="title"><a></a><a href="/awards/travel/best-u-s-airports-for-art/">Best U.S. Airports for Art</a></p><p></p><p>Airports have been transforming themselves from...&nbsp;&nbsp;<a href="/awards/travel/best-u-s-airports-for-art/" class="read-more" style="font-weight:bold"><br><strong>Read&nbsp;more&nbsp;»</strong></a></p><p></p></li>
+</ul></div>
+</div>
 	
 </div>
-<!-- /header --><!-- main -->
+
+</div>
+<!-- /header -->
+
+
+<!-- wrapper -->
+<div id="wrapper" onunload="GUnload();">
+	<!-- shell -->
+	<div class="shell">
+
+<!-- main -->
 <div id="main">
         <!-- breadcrumbs -->
         <div itemscope="" itemtype="http://schema.org/WebPage">
@@ -228,7 +287,7 @@ googletag.enableServices();
         <div id="content-hld" class="photo-gallery">
 <h2>Privacy Notice</h2>
 
-<p>Last Updated: February 1st, 2013</p>
+<p>Last Updated: May 29th, 2013</p>
 <p>&nbsp;</p>
 <p>We take seriously your interest in how your information is collected and used. Please read the following to understand about our privacy practices.</p>
 <p>&nbsp;</p>
@@ -443,60 +502,74 @@ McLean, VA 22107</p>
   <div class="share-main-cont">
      <div class="share-cont-new">
         <ul>
-            <li><a href="javascript:;" onclick="window.open('http://www.facebook.com/sharer.php?u=http%3A%2F%2Fwww.10best.com%2Fprivacy.html', 'sharer', 'toolbar=0,status=0,width=665,height=425')"><img src="http://img2.10bestmedia.com/redesign/Images/transparent.gif" class="share-sprite share-facebook" alt="facebook"></a></li>
-            <li><a href="javascript:;" onclick="window.open('https://twitter.com/share?url=http%3A%2F%2Fwww.10best.com%2Fprivacy.html', 'sharer', 'toolbar=0,status=0,width=665,height=425')"><img src="http://img2.10bestmedia.com/redesign/Images/transparent.gif" class="share-sprite share-twitter" alt="twitter"></a></li>
-            <li><a href="javascript:;" onclick="window.open('https://plus.google.com/share?url=http%3A%2F%2Fwww.10best.com%2Fprivacy.html', 'sharer', 'toolbar=0,status=0,width=665,height=425')"><img src="http://img2.10bestmedia.com/redesign/Images/transparent.gif" class="share-sprite share-google" alt="google"></a></li>
-            <li><a href="javascript:;" onclick="window.open('http://pinterest.com/pin/create/button/?url=http%3A%2F%2Fwww.10best.com%2Fprivacy.html', 'sharer', 'toolbar=0,status=0,width=665,height=425')"><img src="http://img2.10bestmedia.com/redesign/Images/transparent.gif" class="share-sprite share-pinterest" alt="pinterest"></a></li>
-            <li><a href="javascript:;" onclick="window.open('http://www.stumbleupon.com/submit?url=http%3A%2F%2Fwww.10best.com%2Fprivacy.html', 'sharer', 'toolbar=0,status=0,width=665,height=425')"><img src="http://img2.10bestmedia.com/redesign/Images/transparent.gif" class="share-sprite share-stumbleupon" alt="stumbleupon"></a></li>
+            <li><a href="javascript:;" onclick="trackClick(this, 'SHARE_FACEBOOK', ''); window.open('http://www.facebook.com/sharer.php?u=http%3A%2F%2Fwww.10best.com%2Fprivacy.html', 'sharer', 'toolbar=0,status=0,width=665,height=425')"><img src="http://img2.10bestmedia.com/redesign/Images/transparent.gif" class="share-sprite share-facebook" alt="facebook"></a></li>
+            <li><a href="javascript:;" onclick="trackClick(this, 'SHARE_TWITTER', ''); window.open('https://twitter.com/share?url=http%3A%2F%2Fwww.10best.com%2Fprivacy.html', 'sharer', 'toolbar=0,status=0,width=665,height=425')"><img src="http://img2.10bestmedia.com/redesign/Images/transparent.gif" class="share-sprite share-twitter" alt="twitter"></a></li>
+            <li><a href="javascript:;" onclick="trackClick(this, 'SHARE_GOOGLE', ''); window.open('https://plus.google.com/share?url=http%3A%2F%2Fwww.10best.com%2Fprivacy.html', 'sharer', 'toolbar=0,status=0,width=665,height=425')"><img src="http://img2.10bestmedia.com/redesign/Images/transparent.gif" class="share-sprite share-google" alt="google"></a></li>
+            <li><a href="javascript:;" onclick="trackClick(this, 'SHARE_PINTEREST', ''); window.open('http://pinterest.com/pin/create/button/?url=http%3A%2F%2Fwww.10best.com%2Fprivacy.html&amp;media=', 'sharer', 'toolbar=0,status=0,width=665,height=425')"><img src="http://img2.10bestmedia.com/redesign/Images/transparent.gif" class="share-sprite share-pinterest" alt="pinterest"></a></li>
+            <li><a href="javascript:;" onclick="trackClick(this, 'SHARE_STUMBLEUPON', ''); window.open('http://www.stumbleupon.com/submit?url=http%3A%2F%2Fwww.10best.com%2Fprivacy.html', 'sharer', 'toolbar=0,status=0,width=665,height=425')"><img src="http://img2.10bestmedia.com/redesign/Images/transparent.gif" class="share-sprite share-stumbleupon" alt="stumbleupon"></a></li>
         </ul>
         <div class="share-bar">SHARE</div>
      </div>
   </div>
+	</div>
 
 </div>
 <!-- /wrapper -->
 <!-- footer -->
+        <div id="footer-push" class="notext">&nbsp;</div>
 
 <div id="footer">
 	<!-- shell -->
 	<div class="shell">
+    
+    <div class="top-portion">
+    <a class="sprite mainlogo notext left" onclick="trackClick(this, 'HEADER_LOGO', '')" href="/">10Best - What to know before you go.</a>
+    
+    <p class="footer-desc">10Best provides its users with original, unbiased, and experiential travel content on top attractions, things to do, and restaurants for top destinations in the US and 
+around the world. The core of the site's power is its team of local experts, a well-traveled and well-educated group who are not only experts in their fields (and their cities) but discriminating in 
+their tastes. These local experts live in the city they write about so our content is more up-to-date than any guidebook around. Some of the venues reviewed provided complimentary services.</p> </div>
+ <div class="bottom-portion">  
+    
 		<!-- column -->
 		<div class="col col1 left">
-			<p class="title gtm-bl">a little about 10best.com...</p>
-<img src="http://img2.10bestmedia.com/redesign/Images/transparent.gif" class="sprite footer-about-logo left" alt="Footer About Logo">
-			<p>10Best provides its users with original, unbiased, and experiential travel content on top attractions, things to do, and restaurants for top destinations in the US and around the world. The core of the site's power is its team of local experts, a well-traveled and well-educated group who are not only experts in their fields (and their cities) but discriminating in their tastes. These local experts live in the city they write about so our content is more up-to-date than any guidebook around.  Some of the venues reviewed provided complimentary services. </p>
+			<ul class="links">
+          <li><a onclick="trackClick(this, 'FOOTER_EDITORS', '')" href="/editors/">10Best Local Experts</a></li>
+          <li><a onclick="trackClick(this, 'FOOTER_ABOUT_US', '')" href="/PressCenter/AboutUs/">About 10Best</a></li>
+          <li><a class="cboxElement" href="/common/newsletter.html" rel="nofollow" id="newsletter-footer-link">Get the 10Best Newsletter</a></li>
+          <li><a onclick="trackClick(this, 'FOOTER_SITEMAP', '')" href="/sitemap/">Sitemap</a></li>
+          <li><a onclick="trackClick(this, 'FOOTER_FAQ', '')" href="/FAQ/">Frequently Asked Questions</a></li>
+          <li><a onclick="trackClick(this, 'FOOTER_PRESS_CENTER', '')" href="/PressCenter/">Press Center</a></li>
+			</ul>
+            
+            
+            
 		</div>
 		<!-- /column -->
 		<!-- column -->
 		<div class="col col2 left">
-			<p class="title gtm-bl">Other 10Best Links</p>
-			<ul class="links">
-          <li><a href="/editors/">10Best Local Experts</a></li>
-          <li><a href="/PressCenter/AboutUs/">About 10Best</a></li>
-          <li><a class="cboxElement" href="/common/newsletter.html" rel="nofollow" id="newsletter-footer-link">Get the 10Best Newsletter</a></li>
-          <li><a href="/sitemap/">Sitemap</a></li>
-          <li><a href="/FAQ/">Frequently Asked Questions</a></li>
-          <li><a href="/PressCenter/">Press Center</a></li>
-			</ul>
+		<span>FOLLOW US ON</span>
+        <div style="margin-left: 13px">
+       <a onclick="trackClick(this, 'FOOTER_FACEBOOK', '')" href="https://www.facebook.com/pages/10best/48958576760" target="_blank"> <img alt="facebook" class="footer-sprite footer-facebook" src="http://img2.10bestmedia.com/redesign/Images/transparent.gif"></a>
+        <a onclick="trackClick(this, 'FOOTER_TWITTER', '')" href="https://twitter.com/#%21/10best" target="_blank"> <img alt="twitter" class="footer-sprite footer-twitter" src="http://img2.10bestmedia.com/redesign/Images/transparent.gif"></a>
+        <a onclick="trackClick(this, 'FOOTER_GOOGLE_PLUS_2', '')" href="https://plus.google.com/106596381600906491699/" target="_blank"><img alt="googleplus" class="footer-sprite footer-googleplus" src="http://img2.10bestmedia.com/redesign/Images/transparent.gif"></a>
+        <a onclick="trackClick(this, 'FOOTER_PINTEREST', '')" href="http://pinterest.com/10best/" target="_blank"><img alt="pinterest" class="footer-sprite footer-pinterest" src="http://img2.10bestmedia.com/redesign/Images/transparent.gif"></a>
+	</div>
 		</div>
 		<!-- /column -->
 		<!-- column -->
 		<!-- column -->
 		<div class="col col4 left">
-<p class="title gtm-bl">&nbsp;</p>
 <ul class="links">
-          <li><a href="/Advertising/">Advertising on 10Best.com</a></li>
-          <li><a href="/rss/">10Best RSS Feeds <img src="http://img2.10bestmedia.com/redesign/Images/rss.png" width="16" height="16"></a></li>
-          <li><a href="/ContactUs/">Customer Service</a></li>
-          <li><a href="/jobs/">Write for 10Best!</a></li>
-          <li><a href="https://plus.google.com/106596381600906491699" target="_blank" rel="publisher">Find us on Google+</a></li>
-          <li><a href="http://pinterest.com/10best/" target="_blank"><img src="http://img2.10bestmedia.com/redesign/Images/transparent.gif" class="sprite sn-pinterest" alt="Pinterest"></a>
-    <a href="https://www.facebook.com/pages/10best/48958576760" target="_blank"><img src="http://img2.10bestmedia.com/redesign/Images/transparent.gif" class="sprite sn-facebook" alt="Facebook"></a>
-    <a href="https://twitter.com/#!/10best" target="_blank"><img src="http://img2.10bestmedia.com/redesign/Images/transparent.gif" class="sprite sn-twitter" alt="Twitter"></a>
-    <a href="https://plus.google.com/106596381600906491699/" target="_blank"><img src="http://img2.10bestmedia.com/redesign/Images/transparent.gif" class="sprite google-plus" alt="Google+" rel="publisher"></a></li>
+          <li><a onclick="trackClick(this, 'FOOTER_ADVERTISING', '')" href="/Advertising/">Advertising on 10Best.com</a></li>
+          <li><a onclick="trackClick(this, 'FOOTER_REPRINT', '')" href="http://www.gannettreprints.com/10best/" rel="nofollow">Reprints &amp; Permissions</a></li>
+          <li><a onclick="trackClick(this, 'FOOTER_RSS', '')" href="/rss/">10Best RSS Feeds <img src="http://img1.10bestmedia.com/redesign/Images/rss.png" height="16" width="16"></a></li>
+          <li><a onclick="trackClick(this, 'FOOTER_CONTACT_US', '')" href="/ContactUs/">Customer Service</a></li>
+          <li><a onclick="trackClick(this, 'FOOTER_JOBS', '')" href="/jobs/">Write for 10Best!</a></li>
+          <li><a onclick="trackClick(this, 'FOOTER_GOOGLE_PLUS', '')" href="https://plus.google.com/106596381600906491699" target="_blank" rel="publisher">Find us on Google+</a></li>
+       
 </ul>
 		</div>
-		<!-- /column -->
+		<!-- /column --></div> 
 		<div class="cl">&nbsp;</div>
 	</div>
 	<!-- /shell -->
@@ -508,17 +581,17 @@ McLean, VA 22107</p>
 <table border="0" width="100%">
 <tbody><tr>
 <td>
-<p class="copyrights"><a href="/">Home</a> | <a href="/destinations/">Travel Destinations</a> | <a href="/interests/">Travel Interests</a></p></td>
-<td align="right"><div align="right" style="font-size:8pt">A division of USA TODAY Travel</div></td>
+<p class="copyrights"><a onclick="trackClick(this, 'FOOTER_HOME', '')" href="/">Home</a> | <a onclick="trackClick(this, 'FOOTER_DESTINATIONS', '')" href="/destinations/">Travel Destinations</a> | <a onclick="trackClick(this, 'FOOTER_INTERESTS', '')" href="/interests/">Travel Interests</a></p></td>
+<td align="right"><div style="font-size:8pt" align="right">A division of USA TODAY Travel</div></td>
 </tr>
 
 <tr><td colspan="2">&nbsp;</td></tr>
 
 <tr>
-<td colspan="2" align="center" style="font-size:8pt">
-Copyright © 2013 <a href="/">www.10best.com</a>. All rights reserved.
+<td colspan="2" style="font-size:8pt" align="center">
+Copyright © 2013 <a onclick="trackClick(this, 'FOOTER_HOME', '')" href="/">www.10best.com</a>. All rights reserved.
 <br>
-Users of this site agree to the <a href="/tos.html">Terms of Service</a>, <a href="/privacy.html">Privacy Notice/Your California Privacy Rights</a>, and <a href="/privacy.html#ad-serving">Ad Choices</a></td>
+Users of this site agree to the <a onclick="trackClick(this, 'FOOTER_TOS', '')" href="/tos.html">Terms of Service</a>, <a onclick="trackClick(this, 'FOOTER_PRIVACY', '')" href="/privacy.html">Privacy Notice/Your California Privacy Rights</a>, and <a onclick="trackClick(this, 'FOOTER_PRIVACY_AD_CHOICES', '')" href="/privacy.html#ad-serving">Ad Choices</a></td>
 </tr>
 
 
@@ -526,6 +599,7 @@ Users of this site agree to the <a href="/tos.html">Terms of Service</a>, <a hre
 
 </div>
 </div>
+
 
 <!-- /footer -->
 
@@ -614,6 +688,7 @@ cssdropdown.startchrome("chromemenu");
 
   }, 500);
 
+
 </script>
 <input type="hidden" id="currentMetroID" name="currentMetroID" value="">
 
@@ -621,4 +696,4 @@ cssdropdown.startchrome("chromemenu");
 
 
 
-</div></body></html>
+</body></html>
