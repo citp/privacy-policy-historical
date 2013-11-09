@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sivagalerija.com privacy policy that was archived on 2013-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130525130857id_/http%3A//www.sivagalerija.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sivagalerija.com privacy policy that was archived on 2013-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131109020253id_/http%3A//www.sivagalerija.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Looking for quality Guest Posting blog? Join Sivagalerija
+# Privacy Policy | Sivagalerija
 
 **Sivgalerija.com “Privacy Policy”**
 
