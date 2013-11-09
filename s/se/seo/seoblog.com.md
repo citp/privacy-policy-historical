@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the seoblog.com privacy policy that was archived on 2013-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130503064718id_/http%3A//seoblog.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seoblog.com privacy policy that was archived on 2013-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131109133555id_/http%3A//seoblog.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy PolicySEO Blog
+# Privacy Policy
 
 SEOBlog.com (" **SEO Blog** ") operates SEOBlog.com and may operate other websites. It is SEOBlog.com’s policy to respect your privacy regarding any information we may collect while operating our websites.
 
