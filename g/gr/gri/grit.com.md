@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the grit.com privacy policy that was archived on 2013-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130510211102id_/http%3A//www.grit.com/help/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the grit.com privacy policy that was archived on 2013-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131109031722id_/http%3A//www.grit.com/help/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -56,11 +56,11 @@ For our internal purposes, we gather date, time, browser type, navigation histor
 
 We may combine demographic information supplied by a subscriber at registration with site usage data to provide general profiles, in an aggregate non-personally identifiable form, about our users and their preferences in the content of the site and advertising. We may share this composite information with our advertisers and business affiliates to help them better understand our services.
 
-We use third-party advertising companies to serve ads when you visit our website. Some of these companies, such as Google use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, ** **[ **click here**](http://www.google.com/privacy_ads.html "http://www.google.com/privacy_ads.html") **.**  
+We use third-party advertising companies to serve ads when you visit our website. Some of these companies, such as Google use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies **,**  [click here](http://www.google.com/privacy_ads.html "http://www.google.com/privacy_ads.html").
 
 If you prefer not to receive traditional mail or other off-line promotions from this or any other Ogden Publications property or any companies not owned by Ogden Publications please call 800-678-5779.
 
-If you prefer not to receive e-mail marketing from this or any other Ogden Publications property or any companies not owned by Ogden Publications, please email use at [cs@ogdenpubs.com](mailto:cs@ogdenpubs.com).
+If you prefer not to receive e-mail marketing from this or any other Ogden Publications property or any companies not owned by Ogden Publications, please email us at [cs@ogdenpubs.com](mailto:cs@ogdenpubs.com).
 
 Ogden Publications' sites will not use or transfer personally identifiable information provided to us in ways unrelated to the ones described above without also providing you with an opportunity to opt out of these unrelated uses.
 
@@ -76,7 +76,7 @@ We may share aggregate information, which is not personally identifiable, with o
 
 **CORRECTING/UPDATING PERSONAL INFORMATION**  
 
-If a user's personally identifiable information changes (such as Zip code), or if a user no longer desires our product(s)/service(s), we provide a way to correct or update that user's personal data. The user should contact Ogden’s [Customer Care Department](https://web.archive.org/help/contact-by-email.aspx) for the applicable product or service.
+If a user's personally identifiable information changes (such as Zip code), or if a user no longer desires our product(s)/service(s), we provide a way to correct or update that user's personal data. The user should contact Ogden’s [Customer Care Department](https://web.archive.org/help/contact-by-email.aspx "Customer Care Department") for the applicable product or service.
 
 **PERMISSION**  
 
@@ -94,7 +94,7 @@ Ogden Publications, Inc. does not sell products for purchase by children. If you
 
 Under the Fair Credit Billing Act, a credit card issuer cannot make you liable for charges in excess of $50.00 that result from the unauthorized use of your credit card. There are similar federal laws that relate to debit cards. Exceptions do apply, and you will have to comply with rules of your credit card or debit card issuer, so please contact your card issuer for further details.
 
-If through no fault of your own, a credit card or debit card issuer assesses you a fee because of the unauthorized use of your credit card or debit card on our site, Ogden Publications, Inc. will reimburse you for such amount up to $50.00. Please contact our [Customer Care Department](https://web.archive.org/help/contact-by-email.aspx) for details.
+If through no fault of your own, a credit card or debit card issuer assesses you a fee because of the unauthorized use of your credit card or debit card on our site, Ogden Publications, Inc. will reimburse you for such amount up to $50.00. Please contact our [Customer Care Department](https://web.archive.org/help/contact-by-email.aspx "Customer Care Department") for details.
 
 **LINKS**  
 
