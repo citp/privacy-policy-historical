@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the meyerre.com privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602032816id_/http%3A//www.meyerre.com/company/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the meyerre.com privacy policy that was archived on 2013-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131109134256id_/http%3A//www.meyerre.com/company/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Company Privacy Policy | Website Use of Information Privacy Statement | SH Enterprises
 
 ## Website Privacy Statement
 
   * We respect your privacy and are committed to protecting the privacy of your personally identifiable information and promoting trust and confidence on the Internet. 
-  * This Privacy Protection Policy (the “Policy”) is applied to all of the websites owned by us and describes the methods that we use for the collection, storage and use of personally identifiable information about the users of our websites.
-  * As used herein, “personally identifiable information” means any non-public information that would enable us or a third party to identify or contact users of our websites (sometimes referred to in this Policy as “you”) by electronic or other means. 
+  * This Privacy Protection Policy (the "Policy") is applied to all of the websites owned by us and describes the methods that we use for the collection, storage and use of personally identifiable information about the users of our websites.
+  * As used herein, "personally identifiable information" means any non-public information that would enable us or a third party to identify or contact users of our websites (sometimes referred to in this Policy as "you") by electronic or other means. 
 
 
 
@@ -14,12 +14,12 @@
 
   * This website collects information about users during registration, inquiry and participation in certain activities, including contests and surveys.
   * Such information may include your name, address, telephone number, credit card information and email address. 
-  * We may also use “cookies” and similar technology to obtain information about your visits to our sites. 
+  * We may also use "cookies" and similar technology to obtain information about your visits to our sites. 
   * We automatically receive and record information on our server logs from your browser, including your IP address, our cookie information and the pages you request.
   * Third party vendors, including Google, show our ads on sites on the internet.
   * Third party vendors, including Google, use cookies to serve ads based on your prior visits to our websites.
-  * You may opt out of Google’s use of cookies by visiting the Google advertising opt-out page. <https://www.google.com/settings/ads/onweb/> <http://www.google.com/policies/privacy/ads/>
-  * You may also opt out of a third party vendor’s use of cookies by visiting the Network Advertising Initiative opt out page <http://www.networkadvertising.org/choices/> or by installing a browser add-on <https://tools.google.com/dlpage/gaoptout>
+  * You may opt out of Google's use of cookies by visiting the Google advertising opt-out page. <https://www.google.com/settings/ads/onweb/> <http://www.google.com/policies/privacy/ads/>
+  * You may also opt out of a third party vendor's use of cookies by visiting the Network Advertising Initiative opt out page <http://www.networkadvertising.org/choices/> or by installing a browser add-on <https://tools.google.com/dlpage/gaoptout>
 
 
 
