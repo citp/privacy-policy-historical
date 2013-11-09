@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ordermotion.com privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603224020id_/http%3A//ordermotion.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ordermotion.com privacy policy that was archived on 2013-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131109201917id_/http%3A//ordermotion.com/privacy-policy) for the most accurate reproduction.*
 
 # Order Management Technology and Services - OrderMotion Privacy Policy
 
