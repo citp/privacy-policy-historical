@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the onlinekeystore.com privacy policy that was archived on 2013-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130323064825id_/http%3A//www.onlinekeystore.com/Privacy-Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlinekeystore.com privacy policy that was archived on 2013-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131109153223id_/http%3A//www.onlinekeystore.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy :: OnlineKeyStore - The...
+# Privacy Policy | Our Policies | OnlineKeyStore - The PC Gamers Way To Play
 
 OnlineKeyStore respects your privacy and works hard to safeguard the privacy of your personal data. We realize that the exciting growth of the Internet and online services raise questions concerning the nature, use and confidentiality of information collected about consumers. We want you to know that we apply our long-standing commitment of safeguarding privacy to our online and Internet activities. 
 
