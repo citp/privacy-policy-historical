@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 50shadesgray.com privacy policy that was archived on 2013-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130505095737id_/http%3A//50shadesgray.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 50shadesgray.com privacy policy that was archived on 2013-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131109022417id_/http%3A//50shadesgray.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - 50 shades grey book review
 
