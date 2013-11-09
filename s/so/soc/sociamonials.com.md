@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sociamonials.com privacy policy that was archived on 2012-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120318005534id_/http%3A//sociamonials.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sociamonials.com privacy policy that was archived on 2013-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131109160620id_/http%3A//www.sociamonials.com/privacy.php) for the most accurate reproduction.*
 
-# || Welcome To Sociamonials ||
+# Sociamonials - Capture and syndicate your customer's passion
 
 Your privacy matters to us. We promise to respect your contact preferences and to guard your private information. This Privacy Policy is intended to describe the information we collect, how that information may be used, with whom it may be shared, and your choices about such uses and disclosures.
 
@@ -49,3 +49,7 @@ We need your help in discovering illegal or inappropriate email conduct perpetra
 **Visiting Our Website From Outside the U.S.**
 
 This Privacy Policy is intended to cover collection of information on our website from residents of the United States. If you are visiting our website from outside the United States, please be aware that your information may be transferred to, stored, and processed in the United States where our servers are located and our central database is operated. The data protection and other laws of the United States and other countries might not be as comprehensive as those in your country. Please be assured that we seek to take reasonable steps to ensure that your privacy is protected. By using our services, you understand that your information may be transferred to our facilities and those service providers with whom we share it as described in this privacy policy.
+
+**Refund Policy**
+
+This refund policy only applies to online purchases. If a separate written agreement governs your relationship with Sociamonials, that document will specify the refund policy. You may obtain a refund for any online purchases within 7 days of purchase for any reason.
