@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the veteransunited.com privacy policy that was archived on 2013-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130623062154id_/http%3A//www.veteransunited.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the veteransunited.com privacy policy that was archived on 2013-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131109133506id_/http%3A//www.veteransunited.com/privacy) for the most accurate reproduction.*
 
-# Veterans United Home Loans Privacy Policy
+# Privacy Policy - Veterans United Home Loans
+
+[](http://www.veteransunited.com/start/)
 
 **Veterans United Home Loans is NOT affiliated with any government agencies, including the VA.**
 
@@ -69,7 +71,7 @@ A cookie will not allow a web site to learn any personally identifiable informat
 **Please write to us at:**  
 Customer Service  
 Veterans United Home Loans  
-2101 Chapel Plaza Ct. Suite 107  
+1400 Veterans United Drive  
 Columbia, MO 65203
 
   6. ### General Policy Provisions
@@ -80,7 +82,7 @@ Columbia, MO 65203
 
 Customer Service  
 Veterans United Home Loans  
-2101 Chapel Plaza Ct. Suite 107  
+1400 Veterans United Drive  
 Columbia, MO 65203
 
     3. We reserve the right to change this Policy at any time without further notification. Please check our website periodically for the most recent version of our Privacy Policy.
@@ -91,3 +93,13 @@ Call 800-814-1103 to speak with a VA specialist.
 
 
 
+
+Questions?
+
+**The VA Home Loan Destination for Millions ***
+
+Call us now to speak to a VA Loan Specialist.
+
+_[800-884-5560](tel:+18008845560)_
+
+Veterans United Home Loans is not affiliated with any government agencies, including the VA.
