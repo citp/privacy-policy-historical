@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the seophalanx.com privacy policy that was archived on 2013-06-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130629063408id_/http%3A//www.seophalanx.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the seophalanx.com privacy policy that was archived on 2013-11-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131109222706id_/http%3A//www.seophalanx.com/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" class="js"><head>
 <title>Internet Marketing Optimization, Advanced SEO Services, Effective Link Building Service, Search Engine Submission Service</title>
@@ -15,10 +15,15 @@
 <meta name="revisit-after" content="14 days">
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
 <meta name="google-site-verification" content="googlec90bb1e637c0014a.html">
+<meta name="DC.title" content="Best SEO Company India, Organic SEO Marketing, Affordable SEO Companies">
+<meta name="geo.region" content="IN">
+<meta name="geo.placename" content="Bhubaneswar">
+<meta name="geo.position" content="20.284074;85.815343">
+<meta name="ICBM" content="20.284074, 85.815343">
 <meta name="msvalidate.01" content="144C576D5DA7E31A5026204285343EBB">
 <link href="css/style.css" rel="stylesheet" type="text/css">
 <link href="css/tab.css" rel="stylesheet" type="text/css">
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="js/123.js"></script>
+<script async="" charset="utf-8" src="//cdn.zopim.com/?1WVFsTl9eIlt1K9psSOBM06G5nlOPWLK" type="text/javascript"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="js/123.js"></script>
 <script type="text/javascript" src="js/789.js"></script>
 <script src="js/jcarousellite.min.js" type="text/javascript" charset="utf-8"></script>
 <link rel="stylesheet" type="text/css" href="css/jqueryslidemenu.css">
@@ -72,13 +77,13 @@ function MM_swapImage() { //v3.0
 </script>
 
 <script type="text/javascript">
-$(document).ready(function(){	
+$(document).ready(function(){
 $(".slider").jCarouselLite({
 auto: 5000,
 vertical: true,
 visible: 1
 });
-});	
+});
 </script>
 <script type="text/javascript">
 
@@ -93,7 +98,153 @@ visible: 1
   })();
 
 </script>
+<script language="javascript">
+   function validate_qcontact()
+   {
+      	if ( document.form_qcontact.qcontact_name.value == "")
+		{
+		document.getElementById("lblmsg2").innerHTML="Please enter your name.";
+		document.form_qcontact.qcontact_name.focus();
+		return false;
+		}
 
+			if ( document.form_qcontact.qcontact_email.value == "" )
+		{
+		document.getElementById("lblmsg2").innerHTML="Please enter your email.";
+		document.form_qcontact.qcontact_email.focus();
+		return false;
+		}
+
+		if (document.form_qcontact.qcontact_email.value.length<1|| !document.form_qcontact.qcontact_email.value.match(/^\w+([\.-]?\w+)*@\w+([\.-]?\w+)*(\.\w{2,3})+$/) )
+		{
+		document.getElementById("lblmsg2").innerHTML="Please enter valid email id.";
+		document.form_qcontact.qcontact_email.focus();
+		return false;
+		}
+
+
+			//------------------phone number validation start----------------------------------------
+
+var Phone=document.form_qcontact.qcontact_phone;
+
+
+// Declaring required variables
+var digits = "0123456789";
+// non-digit characters which are allowed in phone numbers
+var phoneNumberDelimiters = "()- ";
+// characters which are allowed in international phone numbers
+// (a leading + is OK)
+var validWorldPhoneChars = phoneNumberDelimiters + "+";
+// Minimum no of digits in an international phone no.
+var minDigitsInIPhoneNumber = 7;
+
+function isInteger(s)
+{   var i;
+    for (i = 0; i < s.length; i++)
+    {
+        // Check that current character is number.
+        var c = s.charAt(i);
+        if (((c < "0") || (c > "9"))) return false;
+    }
+    // All characters are numbers.
+    return true;
+}
+function trim(s)
+{   var i;
+    var returnString = "";
+    // Search through string's characters one by one.
+    // If character is not a whitespace, append to returnString.
+    for (i = 0; i < s.length; i++)
+    {
+        // Check that current character isn't whitespace.
+        var c = s.charAt(i);
+        if (c != " ") returnString += c;
+    }
+    return returnString;
+}
+function stripCharsInBag(s, bag)
+{   var i;
+    var returnString = "";
+    // Search through string's characters one by one.
+    // If character is not in bag, append to returnString.
+    for (i = 0; i < s.length; i++)
+    {
+        // Check that current character isn't whitespace.
+        var c = s.charAt(i);
+        if (bag.indexOf(c) == -1) returnString += c;
+    }
+    return returnString;
+}
+
+function checkInternationalPhone(strPhone){
+var bracket=3
+strPhone=trim(strPhone)
+if(strPhone.indexOf("+")>1) return false
+if(strPhone.indexOf("-")!=-1)bracket=bracket+1
+if(strPhone.indexOf("(")!=-1 && strPhone.indexOf("(")>bracket)return false
+var brchr=strPhone.indexOf("(")
+if(strPhone.indexOf("(")!=-1 && strPhone.charAt(brchr+2)!=")")return false
+if(strPhone.indexOf("(")==-1 && strPhone.indexOf(")")!=-1)return false
+s=stripCharsInBag(strPhone,validWorldPhoneChars);
+return (isInteger(s) && s.length >= minDigitsInIPhoneNumber);
+}
+
+//function ValidateForm(){
+	var f_number_Phone = Phone.value.charAt(0);
+	var S_number_Phone = Phone.value.charAt(1);
+	var t_number_Phone = Phone.value.charAt(2);
+
+
+if ((Phone.value==null) || (Phone.value==""))
+{
+  document.getElementById("lblmsg2").innerHTML="Please enter phone number";
+  		Phone.value=""
+		Phone.focus()
+		return false;
+}
+//alert(Phone.value);
+if ((Phone.value!=null) && (Phone.value!=""))
+{
+	if (checkInternationalPhone(Phone.value)==false){
+	    document.getElementById("lblmsg2").innerHTML="Please enter a valid phone number";
+		Phone.value=""
+		Phone.focus()
+		return false;
+	}
+}
+
+//------------------phone number validation end----------------------------------------
+
+
+		if ( document.form_qcontact.qcontact_sub.value == "" )
+		{
+		document.getElementById("lblmsg2").innerHTML="Please enter your subject.";
+		document.form_qcontact.qcontact_sub.focus();
+		return false;
+		}
+
+
+
+		if ( document.form_qcontact.qcontact_message.value == "" )
+		{
+		document.getElementById("lblmsg2").innerHTML="Please enter your message.";
+		document.form_qcontact.qcontact_message.focus();
+		return false;
+		}
+
+		document.form_qcontact.action="about-us.php?qs=qcontactus";
+		document.form_qcontact.submit();
+   }
+</script>
+<!--Start of Zopim Live Chat Script-->
+<script type="text/javascript">
+window.$zopim||(function(d,s){var z=$zopim=function(c){z._.push(c)},$=z.s=
+d.createElement(s),e=d.getElementsByTagName(s)[0];z.set=function(o){z.set.
+_.push(o)};z._=[];z.set._=[];$.async=!0;$.setAttribute('charset','utf-8');
+$.src='//cdn.zopim.com/?1WVFsTl9eIlt1K9psSOBM06G5nlOPWLK';z.t=+new Date;$.
+type='text/javascript';e.parentNode.insertBefore($,e)})(document,'script');
+</script>
+<!--End of Zopim Live Chat Script-->
 </head>
 
 <body onload="MM_preloadImages('images/ppc-managment1.jpg','images/social-media1.jpg','images/search-engine1.jpg','images/conversion-rate1.jpg')" class="lightbox-processed">
@@ -104,8 +255,8 @@ visible: 1
         <td height="106" align="left" valign="middle"><table width="1000" border="0" cellspacing="0" cellpadding="0">
           <tbody><tr>
             <td width="270" align="left" valign="middle"><a href="http://www.seophalanx.com"><img src="images/logo.jpg" alt="." border="0"></a></td>
-           
-            <td width="20" align="left" valign="middle"><!--<table width="170" border="0" cellspacing="0" cellpadding="0">
+
+            <td width="50" align="left" valign="middle"><!--<table width="170" border="0" cellspacing="0" cellpadding="0">
               <tr>
                 <td height="31" align="left" valign="middle" background="images/live-chartbg.jpg"><table width="170" border="0" cellspacing="0" cellpadding="0">
                   <tr>
@@ -115,50 +266,45 @@ visible: 1
                 </table></td>
               </tr>
             </table>--></td>
-            
-            <td width="401" align="left" valign="middle"><table width="401" border="0" cellspacing="0" cellpadding="0">
-              <tbody><tr>
-                <td height="35" align="left" valign="middle"><table width="401" border="0" cellspacing="0" cellpadding="0">
-                  <tbody><tr>
-                    <td width="106"><img src="images/call-now.jpg" alt="." width="106" height="35"></td>
-                    <td width="295" align="left" valign="middle" class="gray24">+91 - 9337444065 / +91 - 9337555065</td>
-                  </tr>
-                </tbody></table></td>
-              </tr>
+
+            <td width="500" align="left" valign="middle"><table width="500" border="0" cellspacing="0" cellpadding="0">
+  <tbody><tr>
+    <td width="70" align="left" valign="middle" class="gray24" style="color:#047fba;">Support -</td>
+    <td width="4" align="left" valign="middle"></td>
+    <td width="260" align="left" valign="middle" class=" gray24"><a href="mailto:support@seophalanx.com">support@seophalanx.com </a></td>
+    <td width="29" align="left" valign="middle"><img src="images/land-phone.png" alt="." hspace="5"></td>
+    <td width="137" align="left" valign="middle" class=" gray24"> +91 - 9337444065</td>
+  </tr>
+  <tr>
+    <td height="10" colspan="5" align="left" valign="middle"></td>
+  </tr>
+  <tr>
+    <td align="left" valign="middle" class="gray24" style="color:#047fba;" colspan="3" width="334">Sales - <a href="mailto:biswaranjan@seophalanx.com">biswaranjan@seophalanx.com </a></td>
+    <!--<td align="left" valign="middle"></td>
+    <td align="left" valign="middle" class=" gray24"></td>-->
+    <td align="left" valign="middle"><img src="images/land-phone.png" alt="." hspace="5"></td>
+    <td align="left" valign="middle" class=" gray24">+91 - 9238667362</td>
+  </tr>
+</tbody></table></td>
+            <td width="52" align="center" valign="middle"><!--<table width="110" border="0" cellspacing="0" cellpadding="0">
               <tr>
-                <td height="6" align="left" valign="top"></td>
-              </tr>
-              <tr>
-                <td align="left" valign="top"><table width="401" border="0" cellspacing="0" cellpadding="0">
-                  <tbody><tr>
-                    <td width="33" align="left" valign="top"><img src="images/skype.jpg" alt="skype:seo.seophalanx?call" width="32" height="32"></td>
-                    <td width="123" align="left" valign="middle" class=" gray24"><a href="skype:seo.seophalanx?call">seo.seophalanx</a></td>
-                    <td width="8" align="left" valign="middle">&nbsp;</td>
-                    <td width="35" align="left" valign="middle"><img src="images/Email.jpg" alt="." width="32" height="23"></td>
-                    <td width="202" align="left" valign="middle" class=" gray24"><a href="mailto:support@seophalanx.com">support@seophalanx.com</a></td>
-                  </tr>
-                </tbody></table></td>
-              </tr>
-            </tbody></table></td> 
-            <td width="181" align="center" valign="middle"><table width="110" border="0" cellspacing="0" cellpadding="0">
-              <tbody><tr>
-                <td align="center" valign="middle"><a href=" http://www.facebook.com/phalanxseo" target="_blank"><img src="images/ff-11.jpg" alt="." width="26" height="25" border="0"></a></td>
+                <td align="center" valign="middle"><a href=" http://www.facebook.com/phalanxseo" target="_blank"><img src="images/ff-11.jpg" alt="." width="26" height="25" border="0" /></a></td>
                 <td align="center" valign="middle">&nbsp;</td>
-                <td align="center" valign="middle"><a href=" https://twitter.com/seophalanx" target="_blank"><img src="images/tt-11.jpg" alt="." width="26" height="25" border="0"></a></td>
+                <td align="center" valign="middle"><a href=" https://twitter.com/seophalanx" target="_blank"><img src="images/tt-11.jpg" alt="." width="26" height="25" border="0" /></a></td>
                 <td align="center" valign="middle">&nbsp;</td>
-                <td align="center" valign="middle"><a href=" https://plus.google.com/u/0/101993767112833025351" target="_blank"><img src="images/gg-11.jpg" alt="." width="26" height="25" border="0"></a></td>
+                <td align="center" valign="middle"><a href=" https://plus.google.com/u/0/101993767112833025351" target="_blank"><img src="images/gg-11.jpg" alt="." width="26" height="25" border="0" /></a></td>
               </tr>
               <tr>
                 <td height="10" colspan="5" align="center" valign="middle"></td>
                 </tr>
               <tr>
-                <td align="center" valign="middle"><a href="http://www.linkedin.com/in/seophalanx" target="_blank"><img src="images/ii-11.jpg" alt="." width="26" height="25" border="0"></a></td>
+                <td align="center" valign="middle"><a href="http://www.linkedin.com/in/seophalanx" target="_blank"><img src="images/ii-11.jpg" alt="." width="26" height="25" border="0" /></a></td>
                 <td align="center" valign="middle">&nbsp;</td>
-                <td align="center" valign="middle"><a href="http://www.stumbleupon.com/stumbler/seophalanx1" target="_blank"><img src="images/ss-11.jpg" alt="." width="26" height="25" border="0"></a></td>
+                <td align="center" valign="middle"><a href="http://www.stumbleupon.com/stumbler/seophalanx1" target="_blank"><img src="images/ss-11.jpg" alt="." width="26" height="25" border="0" /></a></td>
                 <td align="center" valign="middle">&nbsp;</td>
-                <td align="center" valign="middle"><a href=" http://www.seophalanx.com/blog/" target="_blank"><img src="images/bb-11.jpg" alt="." width="26" height="25" border="0"></a></td>
+                <td align="center" valign="middle"><a href=" http://www.seophalanx.com/blog/" target="_blank"><img src="images/bb-11.jpg" alt="." width="26" height="25" border="0" /></a></td>
               </tr>
-            </tbody></table>
+            </table>-->
               <!--<img src="images/iconlogo.jpg" alt="."  /><img src="images/divider01.jpg" alt="." width="4" height="80" />--><!--<div class="g-plusone"></div>
 
 <!-- Place this tag after the last +1 button tag.--
@@ -169,62 +315,46 @@ visible: 1
     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
   })();
 </script>--></td>
-            <td width="128" align="center" valign="middle"><div align="center" id="VolusionLiveChat"><a href="http://www.volusion.com">Online 
+            <td width="128" align="center" valign="middle"><!-- <div align='center' id='VolusionLiveChat'><a href='http://www.volusion.com'>Online
 
 Chat</a></div>
-              <script defer="" type="text/javascript" src="https://livechat.volusion.com/script.aspx?id=1127907"></script>
-<!-- End Volusion Live Chat --></td>
+              <script defer type='text/javascript'
+
+src='https://livechat.volusion.com/script.aspx?id=1127907' ></script>
+End Volusion Live Chat --></td>
           </tr>
         </tbody></table></td>
       </tr>
-      <tr>
+            <tr>
         <td height="40" align="left" valign="top">
         <div id="menu_part">
           <div id="myslidemenu" class="jqueryslidemenu">
           		<ul id="menu">
-                		<li><a href="http://www.seophalanx.com">Home</a></li>
+                		<li> <a href="http://www.seophalanx.com" title="Home">Home</a></li>
                   <li><a href="about-us.php" title="About Us">About Us</a></li>
                   <li><a href="our-services.php" title="Our Services" style="padding-right: 23px;">Services<img src="down.gif" class="downarrowclass" style="border:0;"></a>
                    	  <ul style="top: 38px; display: none; visibility: visible;">
-                   			  <!--<li><a href="link-building.php"title="Cheap Link Building Services"><b>Link Building</b></a></li>
-                               <li><a href="article-submission-service.php"title="Article Submission Services"><b>Article Submission</b></a></li>
-                               <li><a href="directory-submission-service.php"title="Directory Submission  Services"><b>Directory Submission </b></a></li>
-                               <li><a href="blog-promotion-service.php"title="Blog Promotion Services"><b>Blog Creation & Promotion</b></a></li>
-                               <li><a href="press-release-submission-service.php"title="Press Release Submission Services"><b>Press Release Submission</b></a></li> 
-                           	   <li><a href="forum-and-blog-commenting.php"title="Forum and Blog Commenting Services"><b>Forum and Blog Commenting</b></a></li> 
-                               <li><a href="social-bookmarking.php"title="Social Bookmarking Services"><b>Social Bookmarking</b></a></li>
-                               <li><a href="classified-ad-posting-services.php"title="Classified Ad Posting Services"><b>Classified Ad Posting Services</b></a></li>
-                               <li><a href="video-promotion-services.php"title="Video Promotion Services"><b>Video Promotion Services</b></a></li>
-                               <li><a href="search-engine-submission-service.php"title="Search Engine Submission Service"><b>Search Engine Submission Service</b></a></li>
-                               <li><a href="document-submission-service.php"title="Document Submission Service"><b>Document Submission Service</b></a></li>
-                               <li><a href="rss-feed-submission-service.php"title="RSS Feed Submission Service"><b>RSS Feed Submission Service</b></a></li>
-                               <li><a href="link-wheel-service.php"title="Link Wheel Service"><b>Link Wheel Service</b></a></li>
-                               <li><a href="forum-posting.php"title="Forum Posting"><b>Forum Posting</b></a></li> 
-                               <li><a href="social-media-optimization.php"title="Guaranteed SEO Services"><b>Social Media Optimization</b></a></li>
-                               <li><a href="multilingual-seo.php"title="Multilingual SEO"><b>Multilingual SEO</b></a></li>
-                               <li><a href="seo-content-writing.php"title="Content Writing"><b>Content Writing</b></a></li>
-                               <li style="border-bottom:none;"><a href="seo-web-design.php"title="SEO Based Web design"><b>SEO Based Web Design</b></a></li>-->
-                                 <li><a href="search-engine-optimization.php" title="search Engine Optimization" class="menu02"><b>Search Engine Optimization</b></a></li>
-                                 <li><a href="pay-per-click.php" title="Pay Per Click" class="menu03"><b>Pay Per Click (PPC)</b></a></li>
+                   			   <li><a href="search-engine-optimization.php" title="search Engine Optimization" class="menu02"><b>Search Engine Optimization</b></a></li>
                                <li><a href="social-media-optimization.php" title="Social Media Optimization" class="menu03"><b>Social Media Optimization</b></a></li>
-                               <li><a href="online-reputation-management.php" title="Online Reputation Management" class="menu04"><b>Online Reputation Management </b></a></li>
                                <li><a href="multilingual-seo.php" title="Multilingual SEO Services" class="menu02"><b>Multilingual SEO Services</b></a></li>
+                               <li><a href="pay-per-click.php" title="Pay Per Click" class="menu03"><b>Pay Per Click (PPC)</b></a></li>
                                <li><a href="website-design-development.php" title="Website Design &amp; Development" class="menu03"><b>Website Design &amp; Development</b></a></li>
                       </ul>
                   </li>
+                  <!--website-design-development.php-->
                   <li><a href="why-us.php" title="Why SEOphalanx">Why Us</a></li>
                   <li><a href="testimonial.php" title="Testimonial">Testimonials</a></li>
                   <li><a href="portfolio.php" title="SEO Portfolio">Portfolio</a></li>
-                   <li><a href="seo-partnership.php" title="Partner With Us">Partner With Us</a></li>
-                  <li><a href="monthly-plan.php" title="SEO Pricing">SEO Pricing</a></li>
-                <li><a href="ask-quote.php" title="Request a Quest">Ask A Quote</a></li>
+                  <li><a href="seo-partnership.php" title="Partner With Us">Partner With Us</a></li>
+                  <li><a href="monthly-plan.php" title="SEO Packages">Our Pricing</a></li>
+                  <li><a href="ask-quote.php" title="Request a Quest">Request Quote</a></li>
                   <li><a href="contact-us.php" title="Contact Us">Contact Us</a></li>
                 </ul>
-              </div>
+                    </div>
                      <br style="clear: left">
             </div>
-        
-        
+
+
         <!--<div class="mattblacktabs">
 <ul>
 <li class="selected"><a href="#">Home</a></li>
@@ -240,8 +370,8 @@ Chat</a></div>
 </ul>
 </div>--></td>
       </tr>
-     
-     
+
+
       <tr>
         <td align="left" valign="top"><table width="1000" border="0" cellspacing="0" cellpadding="0">
           <tbody><tr>
@@ -251,14 +381,15 @@ Chat</a></div>
             <td align="left" valign="top" background="images/midbg02.jpg"><table width="970" border="0" align="center" cellpadding="0" cellspacing="0">
               <tbody><tr>
                 <td width="690" height="800" align="left" valign="top" bgcolor="#FFFFFF"><table width="690" border="0" cellspacing="0" cellpadding="0">
-                 
-                 
+
+
                    <tbody><tr>
                     <td align="left" valign="top" class="blue24"></td>
                   </tr>
-                 
+
                   <tr>
-                    <td align="left" valign="top" class="text">  <table width="100%" border="0" cellspacing="5" cellpadding="5">
+                    <td align="left" valign="top" class="text"><div><a href="http://www.seophalanx.com/">Home</a> &gt; Privacy Policy<br><br></div>
+<table width="100%" border="0" cellspacing="5" cellpadding="5">
   <tbody><tr>
     <td><div class="headingtext">Privacy Policy</div></td>
   </tr>
@@ -280,211 +411,335 @@ Chat</a></div>
 
 </td>
                   </tr>
-                  
- 
+
+
                 </tbody></table></td>
                 <td width="20" align="left" valign="top">&nbsp;</td>
                 <td width="260" align="left" valign="top"><table width="260" border="0" cellspacing="0" cellpadding="0">
-                
-                 
                  <tbody><tr>
-                    <td height="20" align="left" valign="top"><a href="free-analysis-report.php"><img src="images/free-website-analysis.gif" alt="." border="0"></a></td>
+                    <td height="16" align="left" valign="top"><a href="ask-quote.php"><img src="images/re-quote.gif" alt="." border="0"></a></td>
                   </tr>
                    <tr>
-                    <td height="15" align="left" valign="top"></td>
+                    <td height="20" align="left" valign="top"></td>
+                  </tr>
+                  <tr>
+                    <td height="16" align="left" valign="top"><a href="free-analysis-report.php"><img src="images/free-website-audir.gif" alt="." border="0"></a></td>
+                  </tr>
+                   <tr>
+                    <td height="30" align="left" valign="top"></td>
+                  </tr>
+                  <tr>
+                    <td align="left" valign="top"><table width="260" border="0" cellspacing="0" cellpadding="0">
+                      <tbody><tr>
+                        <td align="left" valign="top"><img src="images/qu-bg1.jpg" alt="." width="260" height="37"></td>
+                      </tr>
+                      <tr>
+                        <td align="left" valign="top"><table width="260" border="0" cellspacing="0" cellpadding="0">
+                          <tbody><tr>
+                            <td align="center" valign="top" class="border">
+                            <form name="form_qcontact" id="form_contact" method="post" action="about-us.php" onsubmit="return validate_qcontact();">
+                            <table width="220" border="0" align="center" cellpadding="0" cellspacing="0">
+                                                                          <tbody><tr>
+                            <td height="15" align="center" valign="top"><div id="lblmsg2" style="color:#dc0028;line-height:17px;font-weight:bold;"></div></td>
+                          </tr>
+
+
+                          <tr>
+                           <td align="left" valign="top" class="text-blog"></td>
+                          </tr>
+                           <tr>
+                            <td align="left">
+    <input type="text" id="qcontact_name" name="qcontact_name" placeholder="Your Full Name" style="width:210px; height:22px; border:1px solid #CCCCCC; padding-left:4px; font-family:Arial, Helvetica, sans-serif; font-size:13px; ">                         </td>
+                          </tr>
+                          <tr>
+                            <td height="10" align="left"></td>
+                          </tr>
+                          <tr>
+                            <td height="15" align="left"> <input type="text" id="qcontact_email" name="qcontact_email" placeholder="Your Email Address" style="width:210px; height:22px; border:1px solid #CCCCCC; padding-left:4px; font-family:Arial, Helvetica, sans-serif; font-size:13px; "></td>
+                          </tr>
+                          <tr>
+                           <td height="10" align="left"></td>
+                          </tr>
+                           <tr>
+                             <td align="left"><input type="text" id="qcontact_phone" name="qcontact_phone" placeholder="Your Phone Number" style="width:210px; height:22px; border:1px solid #CCCCCC; padding-left:4px; font-family:Arial, Helvetica, sans-serif; font-size:13px; "></td>
+                           </tr>
+                            <tr>
+                           <td height="10" align="left"></td>
+                          </tr>
+                           <tr>
+                             <td align="left"><input type="text" id="qcontact_sub" name="qcontact_sub" placeholder="Subject" style="width:210px; height:22px; border:1px solid #CCCCCC; padding-left:4px; font-family:Arial, Helvetica, sans-serif; font-size:13px; "></td>
+                           </tr>
+                           <tr>
+                            <td height="10" align="left"></td>
+                          </tr>
+                           <tr>
+                            <td height="15" align="left"><textarea class="multibox" id="qcontact_message" name="qcontact_message" style="width:210px; height:60px; border:1px solid #CCCCCC; padding-left:4px; font-family:Arial, Helvetica, sans-serif; font-size:13px; " placeholder="Your Message"></textarea></td>
+                          </tr>
+
+
+                         <tr>
+                            <td height="10" align="left"></td>
+                          </tr>
+                           <tr>
+                            <td height="15" align="left"><input type="text" id="secCode" name="secCode" placeholder="Enter Sum Of The Two Digits" style="width:160px; height:22px; border:1px solid #CCCCCC; padding-left:4px; font-family:Arial, Helvetica, sans-serif; font-size:13px; "> &nbsp;<span style="background-color:#000000; padding:4px;"><font color="#ffffff">1+8</font></span></td>
+                          </tr>
+                           <tr>
+                            <td height="12" align="left" valign="top">
+                            <input type="hidden" name="secone" value="1"><input type="hidden" name="sectwo" value="8">
+                            <input type="hidden" name="pathh" id="pathh" value="">
+                            <input type="hidden" name="qbutton"></td>
+                          </tr>
+                          <tr>
+                            <td height="15" align="left"><input type="image" src="images/send-now.jpg" alt="." width="121" height="29"></td>
+                          </tr>
+
+                          <tr>
+                            <td height="12" align="left" valign="top"></td>
+                          </tr>
+                        </tbody></table>
+                        </form>
+                        </td>
+                          </tr>
+                        </tbody></table></td>
+                      </tr>
+                    </tbody></table></td>
+                  </tr>
+                  <!--<tr>
+                    <td height="16" align="left" valign="top"></td>
+                  </tr>
+                  <tr>
+                    <td height="16" align="left" valign="top"></td>
+                  </tr>
+
+                 <tr>
+                    <td height="20" align="left" valign="top"><a href="free-analysis-report.php"><img src="images/free-website-analysis.gif" alt="."  border="0" /></a></td>
+                  </tr>-->
+                   <tr>
+                    <td height="16" align="left" valign="top"></td>
                   </tr>
                   <tr>
                     <td height="20" align="left" valign="top"><table width="260" border="0" cellspacing="0" cellpadding="0">
                       <tbody><tr>
-                        <td align="left" valign="top"><table width="260" border="0" cellspacing="0" cellpadding="0">
-                          <tbody><tr>
+                        <td align="left" valign="top"><a href="testimonial.php"><img src="images/test-bg1.jpg" alt="."></a>                          <!--<table width="260" border="0" cellspacing="0" cellpadding="0">
+                          <tr>
                             <td width="11" height="50" align="left" valign="top" background="images/service-topbg01.jpg">&nbsp;</td>
                             <td width="238" align="left" valign="middle" background="images/service-topbg02.jpg"><table width="238" border="0" cellspacing="0" cellpadding="0">
-                              <tbody><tr>
-                                <td width="40" align="left" valign="middle"><img src="images/sevice-icon.jpg" alt="." width="33" height="33"></td>
+                              <tr>
+                                <td width="40" align="left" valign="middle"><img src="images/sevice-icon.jpg" alt="." width="33" height="33" /></td>
                                 <td width="198" align="left" valign="middle" class="white_head">Clients Testimonials</td>
                               </tr>
-                            </tbody></table></td>
+                            </table></td>
                             <td width="11" height="50" align="left" valign="top" background="images/service-topbg03.jpg">&nbsp;</td>
                           </tr>
-                        </tbody></table></td>
+                        </table>--></td>
                       </tr>
                       <tr>
                         <td align="left" valign="top"><table width="260" border="0" cellspacing="0" cellpadding="0">
                           <tbody><tr>
                             <td align="center" valign="top" class="border"><table width="240" border="0" align="center" cellpadding="0" cellspacing="0">
-                             
-                              <tbody><tr>
+                             <tbody><tr>
+                              <td height="16" align="left" valign="top"></td>
+                             </tr>
+                              <tr>
                                 <td><div id="news_div">
-                    
+
                         <!-- START OF slider -->
-                        <div class="slider" style="visibility: visible; overflow: hidden; position: relative; z-index: 2; left: 0px; height: 180px;">
+                        <div class="slider" style="visibility: visible; overflow: hidden; position: relative; z-index: 2; left: 0px; height: 260px;">
+
+                        <ul style="margin: 0px; padding: 0px; position: relative; list-style-type: none; z-index: 1; height: 2080px; top: -260px;"><li style="overflow: hidden; float: none; width: 230px; height: 260px;"><img src="images/arrow_top.png" alt="." align="left" style="padding-right:8px;">We approached SEOPhalanx for their affordable prices. Surprisingly, their results are even better than our expectations; a massive increase in our website traffic. We get both weekly and monthly reports detailing the rankings of our site. We love to recommend SEOPhalanx for their customer support and result oriented work.<img src="images/arrow-bottom.png" alt="." align="right" style="padding-left:8px;">
+
+                          <br>  <span class="name"><b>Jamie Wood</b><br>
+                          <b>Bournes Ltd</b><br>
+                          <a href="testimonial.php" target="_blank"> Read More</a></span></li>
                         
-                         <ul style="margin: 0px; padding: 0px; position: relative; list-style-type: none; z-index: 1; height: 1260px; top: -180px;"><li style="overflow: hidden; float: none; width: 230px; height: 180px;"><i>"After hiring SEOPhalanx, my sales have gone up considerably. Their services are systematic, up-to-date and result-oriented. A special mention to their great customer support. This is the company to trust all the time!"</i>                          <br>
+                        <li style="overflow: hidden; float: none; width: 230px; height: 260px;"><img src="images/arrow_top.png" alt="." align="left" style="padding-right:8px;">Best thing about the services of SEOPhalanx is that their attention to details. Their work process is very systematic and result oriented. Earlier, clients aren't interested and are unable to reach our products. However, after hiring SEOPhalanx the sales have gone up really!<img src="images/arrow-bottom.png" alt="." align="right" style="padding-left:8px;">
+
                           <br>  <span class="name"><b>Jane Clark</b><br>
                           <b>NutritionSlim</b><br>
                           <a href="testimonial.php" target="_blank"> Read More</a></span></li>
-                                                
-                        <li style="overflow: hidden; float: none; width: 230px; height: 180px;"><i>"SEOPhalanx brought the majority of my keywords into top ten within the set deadline. My diet plan website benefited a lot from their services. A competent team of professionals to work with. I got my reports on time always."</i>                          <br>
-                          <br>  <span class="name"><b>Jason Robson</b><br>
-                          <b>Zen-Slim</b><br>
-                          <a href="testimonial.php" target="_blank"> Read More</a></span></li>
-                                                  
-                        <li style="overflow: hidden; float: none; width: 230px; height: 180px;"><i>"A lot of thanks to SEOPhalanx for improving search engine rankings of my site wallstickers4u.co.uk in a matter of few weeks. I am really impressed by their professionalism and will continue to work with them in the future too."</i>                          <br>
-                          <br>  <span class="name"><b>Stipan Cvijan</b><br>
-                          <b>Wallstickers4u</b><br>
-                          <a href="testimonial.php" target="_blank"> Read More</a></span></li>
-                                                  
-                        <li style="overflow: hidden; float: none; width: 230px; height: 180px;"><i>"I am now glad that I took the right decision by hiring SEOPhalanx last year. Their multilingual SEO services produced superb results for my English, Dutch, and German sites. All the credit goes to their constant hard work."</i>                          <br>
-                          <br>  <span class="name"><b>Patrick Tetteroo</b><br>
-                          <b>Italiaansetassen</b><br>
-                          <a href="testimonial.php" target="_blank"> Read More</a></span></li>
-                                                  
-                        <li style="overflow: hidden; float: none; width: 230px; height: 180px;"><i>"I have been using services of SEOPhalanx for numerous projects over last several years. I am more than satisfied with efforts of SEOPhalanx.<br><br> 
+                          
+                        <li style="overflow: hidden; float: none; width: 230px; height: 260px;"><img src="images/arrow_top.png" alt="." align="left" style="padding-right:8px;"><i>I would love to recommend Biswaranjan and his dedicated team of professionals at SEOPhalanx for their quality SEO services with incredible results. They provide reports on a regularly basis which includes web traffic and details of backlinks. They are just perfect for all your requirements and needs!!</i><img src="images/arrow-bottom.png" alt="." align="right" style="padding-left:8px;">
 
-I highly recommend the dedicated team of SEOPhalanx for your SEO needs."</i>                          <br>
-                          <br>  <span class="name"><b>David Barlow</b><br>
+                          <br>  <span class="name"><b>Dave Barlow</b><br>
                           <b>The Web Maverick</b><br>
                           <a href="testimonial.php" target="_blank"> Read More</a></span></li>
-                                                  
-                        <li style="overflow: hidden; float: none; width: 230px; height: 180px;"><i>"After hiring SEOPhalanx, my sales have gone up considerably. Their services are systematic, up-to-date and result-oriented. A special mention to their great customer support. This is the company to trust all the time!"</i>                          <br>
+                          
+                        <li style="overflow: hidden; float: none; width: 230px; height: 260px;"><img src="images/arrow_top.png" alt="." align="left" style="padding-right:8px;"><i>I have hired Biswaranjan and his dedicated team of SEOPhalanx to improve the rankings of my websites. Due to all the latest developments in the SEO world, it is difficult to remain updated. However, SEOPhalanx managed everything and the rankings are still on top. I would recommend them because they will never let you down.</i><img src="images/arrow-bottom.png" alt="." align="right" style="padding-left:8px;">
+
+                          <br>  <span class="name"><b>David Wickstead</b><br>
+                          <b>Wicko Design</b><br>
+                          <a href="testimonial.php" target="_blank"> Read More</a></span></li>
+                          
+                        <li style="overflow: hidden; float: none; width: 230px; height: 260px;"><img src="images/arrow_top.png" alt="." align="left" style="padding-right:8px;"><i>Biswaranjan from SEOPhalanx has done a great job for our company. Earlier our online presence uses to be very low and will hardly receive any calls from the customer for our services. But today the scenario is different after using their services we receive a number of calls each day.</i><img src="images/arrow-bottom.png" alt="." align="right" style="padding-left:8px;">
+
+                          <br>  <span class="name"><b>Phyllis Song</b><br>
+                          <b>Protectus Security</b><br>
+                          <a href="testimonial.php" target="_blank"> Read More</a></span></li>
+                          
+                        <li style="overflow: hidden; float: none; width: 230px; height: 260px;"><img src="images/arrow_top.png" alt="." align="left" style="padding-right:8px;">I would thank Mr. Biswaranjan for his professionalism and dedication. His team at SEOPhalanx has made significant change in the ranking of my website in just a matter of few weeks. This is just incredible and I am very pleased with their attitude and approach towards work.<img src="images/arrow-bottom.png" alt="." align="right" style="padding-left:8px;">
+
+                          <br>  <span class="name"><b>Stipan Cvijan</b><br>
+                          <b>WallStickers4U</b><br>
+                          <a href="testimonial.php" target="_blank"> Read More</a></span></li>
+                          
+                        <li style="overflow: hidden; float: none; width: 230px; height: 260px;"><img src="images/arrow_top.png" alt="." align="left" style="padding-right:8px;">We approached SEOPhalanx for their affordable prices. Surprisingly, their results are even better than our expectations; a massive increase in our website traffic. We get both weekly and monthly reports detailing the rankings of our site. We love to recommend SEOPhalanx for their customer support and result oriented work.<img src="images/arrow-bottom.png" alt="." align="right" style="padding-left:8px;">
+
+                          <br>  <span class="name"><b>Jamie Wood</b><br>
+                          <b>Bournes Ltd</b><br>
+                          <a href="testimonial.php" target="_blank"> Read More</a></span></li>
+                          <li style="overflow: hidden; float: none; width: 230px; height: 260px;"><img src="images/arrow_top.png" alt="." align="left" style="padding-right:8px;">Best thing about the services of SEOPhalanx is that their attention to details. Their work process is very systematic and result oriented. Earlier, clients aren't interested and are unable to reach our products. However, after hiring SEOPhalanx the sales have gone up really!<img src="images/arrow-bottom.png" alt="." align="right" style="padding-left:8px;">
+
                           <br>  <span class="name"><b>Jane Clark</b><br>
                           <b>NutritionSlim</b><br>
-                          <a href="testimonial.php" target="_blank"> Read More</a></span></li>
-                          <li style="overflow: hidden; float: none; width: 230px; height: 180px;"><i>"SEOPhalanx brought the majority of my keywords into top ten within the set deadline. My diet plan website benefited a lot from their services. A competent team of professionals to work with. I got my reports on time always."</i>                          <br>
-                          <br>  <span class="name"><b>Jason Robson</b><br>
-                          <b>Zen-Slim</b><br>
                           <a href="testimonial.php" target="_blank"> Read More</a></span></li></ul>
                         </div><!-- END OF slider -->
-                    
+
                     </div><!-- END OF news div --></td>
                               </tr>
-                              
+
                             </tbody></table></td>
                           </tr>
                         </tbody></table></td>
                       </tr>
-                    
+
                     </tbody></table></td>
                   </tr>
-               
+
                   <!--<tr>
                     <td align="left" valign="top">&nbsp;</td>
                   </tr>-->
                    <tr>
-                    <td height="20" align="left" valign="top"></td>
+                    <td height="16" align="left" valign="top"></td>
                   </tr>
-                   <tr>
+
+                  <!-- <tr>
                     <td height="20" align="left" valign="top">
                     <table width="260" border="0" cellspacing="0" cellpadding="0">
-                      <tbody><tr>
-                        <td align="left" valign="top"><table width="260" border="0" cellspacing="0" cellpadding="0">
-                          <tbody><tr>
-                            <td width="11" height="45" align="left" valign="top" background="images/service-topbg01.jpg">&nbsp;</td>
-                            <td width="238" align="left" valign="middle" background="images/service-topbg02.jpg"><table width="238" border="0" cellspacing="0" cellpadding="0">
-                              <tbody><tr>
-                                <td width="40" align="left" valign="middle"><img src="images/blog-icon.jpg" alt="." width="33" height="33"></td>
-                                <td width="198" align="left" valign="middle" class="white_head">From the Blog</td>
-                              </tr>
-                            </tbody></table></td>
-                            <td width="11" height="45" align="left" valign="top" background="images/service-topbg03.jpg">&nbsp;</td>
+                      <tr>
+                        <td align="left" valign="top"><img src="images/ftb-bg1.jpg" alt="." width="260" height="37" /></td>
+                      </tr>
+                      <tr>
+                        <td align="left" valign="top" ><table width="260" border="0" cellspacing="0" cellpadding="0">
+                          <tr>
+                            <td align="center" valign="top" class="border"><table width="240" border="0" align="center" cellpadding="0" cellspacing="0">
+
+                          <tr>
+                            <td height="15" align="left" valign="top"></td>
                           </tr>
-                        </tbody></table></td>
+                          
+                          <tr>
+
+                           <td align="left" valign="top" class="text-blog"><strong><a href="blog/showindblog.php?blogid=85" target="_blank">Why People Always Look for the Best SEO Company in India </a></strong><br />
+                             <span> Posted by Administrator on 17-09-2013</span><br />
+                              The world of SEO has gained a huge market and is slowly beco....<a href="blog/showindblog.php?blogid=85" target="_blank">&raquo; Read more</a></td>
+                          </tr>
+                           <tr>
+                            <td height="15" align="left" valign="middle"><img src="images/line01.jpg" alt="." width="240" height="3" /></td>
+                          </tr>
+                          
+                          <tr>
+
+                           <td align="left" valign="top" class="text-blog"><strong><a href="blog/showindblog.php?blogid=84" target="_blank">Avail the Best SEO Services by Hiring an Experienced SEO Company  </a></strong><br />
+                             <span> Posted by Administrator on 14-08-2013</span><br />
+                              If you want to avail the best SEO services possible, hiring ....<a href="blog/showindblog.php?blogid=84" target="_blank">&raquo; Read more</a></td>
+                          </tr>
+                           <tr>
+                            <td height="15" align="left" valign="middle"><img src="images/line01.jpg" alt="." width="240" height="3" /></td>
+                          </tr>
+                          
+                          <tr>
+
+                           <td align="left" valign="top" class="text-blog"><strong><a href="blog/showindblog.php?blogid=83" target="_blank">Comparing Organic SEO Services and Paid Search Engine Listings </a></strong><br />
+                             <span> Posted by Administrator on 15-07-2013</span><br />
+                              Organic SEO services refer to the efforts made for achieving....<a href="blog/showindblog.php?blogid=83" target="_blank">&raquo; Read more</a></td>
+                          </tr>
+                           <tr>
+                            <td height="15" align="left" valign="middle"><img src="images/line01.jpg" alt="." width="240" height="3" /></td>
+                          </tr>
+                                                    <tr>
+                            <td height="12" align="left" valign="top"></td>
+                          </tr>
+                        </table></td>
+                          </tr>
+                        </table></td>
+                      </tr>
+                    </table>                   </td>
+                  </tr>
+                 -->
+
+                  <tr>
+                    <td height="16" align="left" valign="top"><table width="260" border="0" cellspacing="0" cellpadding="0">
+                      <tbody><tr>
+                         <td align="left" valign="top"><img src="images/cwu-bg1.jpg" alt="." width="260" height="37"></td>
                       </tr>
                       <tr>
                         <td align="left" valign="top"><table width="260" border="0" cellspacing="0" cellpadding="0">
                           <tbody><tr>
                             <td align="center" valign="top" class="border"><table width="240" border="0" align="center" cellpadding="0" cellspacing="0">
-                        
+
                           <tbody><tr>
                             <td height="15" align="left" valign="top"></td>
                           </tr>
-                                                    
+
+
                           <tr>
-                           <td align="left" valign="top" class="text-blog"><strong><a href="blog/showindblog.php?blogid=58" target="_blank">Guaranteed SEO Services - What to Look for? </a></strong><br>
-                             <span> Posted by Administrator on 27-04-2012</span><br>
-                              Search engine optimization has become an imperative web mark....<a href="blog/showindblog.php?blogid=58" target="_blank">» Read more</a></td>
-                          </tr> 
-                           <tr>
-                            <td height="22" align="left" valign="middle"><img src="images/line01.jpg" alt="." width="240" height="3"></td>
+                           <td align="left" valign="top" class="text-blog"></td>
                           </tr>
-                                                    
-                          <tr>
-                           <td align="left" valign="top" class="text-blog"><strong><a href="blog/showindblog.php?blogid=74" target="_blank">Affordable SEO Services to Take Your Business to Greater Heights </a></strong><br>
-                             <span> Posted by Administrator on 21-11-2012</span><br>
-                              SEO marketing services are the services that are aimed at ma....<a href="blog/showindblog.php?blogid=74" target="_blank">» Read more</a></td>
-                          </tr> 
                            <tr>
-                            <td height="22" align="left" valign="middle"><img src="images/line01.jpg" alt="." width="240" height="3"></td>
-                          </tr>
-                                                    
+                             <td align="left"><table width="230" border="0" align="center" cellpadding="0" cellspacing="0">
+              <tbody><tr>
+                <td align="center" valign="middle"><a href=" http://www.facebook.com/phalanxseo" target="_blank"><img src="images/fff.png" alt="." border="0"></a></td>
+                <td align="center" valign="middle">&nbsp;</td>
+                <td align="center" valign="middle"><a href=" https://twitter.com/seophalanx" target="_blank"><img src="images/ttt.png" alt="." border="0"></a></td>
+                <td align="center" valign="middle">&nbsp;</td>
+                <td align="center" valign="middle"><a href=" https://plus.google.com/u/0/101993767112833025351" target="_blank"><img src="images/ggg.png" alt="." border="0"></a></td>
+              </tr>
+              <tr>
+                <td height="10" colspan="5" align="center" valign="middle"></td>
+                </tr>
+              <tr>
+                <td align="center" valign="middle"><a href="http://www.linkedin.com/in/seophalanx" target="_blank"><img src="images/iii.png" alt="." border="0"></a></td>
+                <td align="center" valign="middle">&nbsp;</td>
+                <td align="center" valign="middle"><a href="http://www.stumbleupon.com/stumbler/seophalanx1" target="_blank"><img src="images/sss.png" alt="." border="0"></a></td>
+                <td align="center" valign="middle">&nbsp;</td>
+                <td align="center" valign="middle"><a href=" http://www.seophalanx.com/blog/" target="_blank"><img src="images/bbb.png" alt="." border="0"></a></td>
+              </tr>
+            </tbody></table></td>
+                           </tr>
                           <tr>
-                           <td align="left" valign="top" class="text-blog"><strong><a href="blog/showindblog.php?blogid=70" target="_blank">Use the Best SEO Services &amp; Tap the Potential of Online Marketing </a></strong><br>
-                             <span> Posted by Administrator on 12-10-2012</span><br>
-                              With World Wide Web taking over all aspects of our professio....<a href="blog/showindblog.php?blogid=70" target="_blank">» Read more</a></td>
-                          </tr> 
-                           <tr>
-                            <td height="22" align="left" valign="middle"><img src="images/line01.jpg" alt="." width="240" height="3"></td>
+                            <td height="10" align="left"></td>
                           </tr>
-                                                    
+
+
+
+
+
                           <tr>
-                            <td align="left" valign="top">&nbsp;</td>
+                            <td height="12" align="left" valign="top"></td>
                           </tr>
                         </tbody></table></td>
                           </tr>
                         </tbody></table></td>
                       </tr>
-                    </tbody></table>
-                    </td>
+                    </tbody></table></td>
                   </tr>
-                 
                   <tr>
-                    <td height="20" align="left" valign="top"></td>
+                    <td height="16" align="left" valign="top"></td>
                   </tr>
-                  
-                  
-                   <!--<tr>
-                    <td width="260" align="left" valign="top" style="border:1px solid #CCCCCC; border-radius:5px;
--moz-border-radius:5px;
--webkit-border-radius:5px;"><table width="240" border="0" align="center" cellpadding="0" cellspacing="0">
-                          <tr>
-                            <td width="240" align="left" valign="top"><img src="images/blog-img.jpg" alt="." width="240" height="45" style="padding-top:10px;" /></td>
-                          </tr>
-                          <tr>
-                            <td height="10" align="left" valign="top"></td>
-                          </tr>
-                          <tr>
-                            <td align="left" valign="top" class="text-blog"><strong><a href="#">SEOphalanx becomes a Microsoft Advertising Accredited </a></strong><br />
-                             <span> Posted by SEOphalanx on Tuesday, April 3rd, 2012</span><br />
-                              As part of our online quest and mission statement here at   …<a href="#">&raquo; Read more</a></td>
-                          </tr>
-                          <tr>
-                            <td height="22" align="left" valign="middle"><img src="images/line01.jpg" alt="." width="240" height="3" /></td>
-                          </tr>
-                         <tr>
-                            <td align="left" valign="top" class="text-blog"><strong><a href="#">SEOphalanx becomes a Microsoft Advertising Accredited </a></strong><br />
-                             <span> Posted by SEOphalanx on Tuesday, April 3rd, 2012</span><br />
-                              As part of our online quest and mission statement here     …<a href="#">&raquo; Read more</a></td>
-                          </tr>
-                         
-                          <tr>
-                            <td align="left" valign="top">&nbsp;</td>
-                          </tr>
-                        </table></td>
-                  </tr><tr>
-                    <td align="left" valign="top">&nbsp;</td>
+
+
+
+
+                <!-- <tr>
+                    <td align="left" valign="top"><iframe src="//www.facebook.com/plugins/likebox.php?href=http%3A%2F%2Fwww.facebook.com%2Fphalanxseo&amp;width=260&amp;height=290&amp;colorscheme=light&amp;show_faces=true&amp;border_color&amp;stream=false&amp;header=true" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:260px; height:290px;" allowTransparency="true"></iframe></td>
+                  </tr>
+                  <tr>
+                    <td height="16" align="left" valign="top"></td>
                   </tr>-->
-                   
-                 <tr>
-                    <td align="left" valign="top"><iframe src="//www.facebook.com/plugins/likebox.php?href=http%3A%2F%2Fwww.facebook.com%2Fphalanxseo&amp;width=260&amp;height=290&amp;colorscheme=light&amp;show_faces=true&amp;border_color&amp;stream=false&amp;header=true" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:260px; height:290px;" allowtransparency="true"></iframe></td>
-                  </tr>
-                  <tr>
-                    <td align="left" valign="top">&nbsp;</td>
-                  </tr>
                   <tr>
                     <td align="left" valign="top">
-                    
-                    <div class="twitter_side"><script src="http://widgets.twimg.com/j/2/widget.js"></script>
+
+<!--                    <div class="twitter_side"><script src="http://widgets.twimg.com/j/2/widget.js"></script>
 
 <script>
 
@@ -544,18 +799,21 @@ new TWTR.Widget({
 
 }).render().setUser('seophalanx').start();
 
-</script></div></td>
+</script></div>--></td>
                   </tr>
-        <tr>
-                    <td align="left" valign="top">&nbsp;</td>
+       <!-- <tr>
+                    <td height="16" align="left" valign="top"></td>
                   </tr>
                    <tr>
-                    <td align="left" valign="top"><a href="seotraining.php"><img src="images/seo-training.gif" alt="." width="260" height="98" border="0"></a></td>
+                    <td align="left" valign="top"><a href="seotraining.php"><img src="images/seo-tra.gif" alt="." width="260" height="97" border="0" /></a></td>
+                  </tr>-->
+                  <tr>
+                    <td align="left" valign="top"> </td>
                   </tr>
                   <tr>
                     <td align="left" valign="top">&nbsp;</td>
                   </tr>
-                  
+
                 </tbody></table></td>
               </tr>
             </tbody></table></td>
@@ -565,28 +823,25 @@ new TWTR.Widget({
           </tr>-->
         </tbody></table></td>
       </tr>
-     
+
     </tbody></table></td>
   </tr>
   <tr>
     <td align="center" valign="top" class="footer_header"><table width="1000" border="0" cellspacing="0" cellpadding="0">
       <tbody><tr>
-        <td height="22" align="left" valign="top">&nbsp;</td>
+        <td height="15" align="left" valign="top"></td>
       </tr>
       <tr>
         <td align="left" valign="top"><table width="1000" border="0" cellspacing="0" cellpadding="0">
           <tbody><tr>
-            <td width="980" align="left" valign="top"><table width="980" border="0" align="center" cellpadding="0" cellspacing="0">
-              
+            <td width="980" align="left" valign="top"><table width="1000" border="0" align="center" cellpadding="0" cellspacing="0">
+
               <tbody><tr>
-                <td align="left" valign="top">&nbsp;</td>
-              </tr>
-              <tr>
-                <td align="left" valign="top"><table width="980" border="0" cellspacing="0" cellpadding="0">
+                <td align="left" valign="top"><table width="980" border="0" align="center" cellpadding="0" cellspacing="0">
                   <tbody><tr>
-                    <td width="235" align="left" valign="top" class="white_text"><table width="235" border="0" cellspacing="0" cellpadding="0">
+                    <td width="190" align="left" valign="top" class="white_text"><table width="190" border="0" cellspacing="0" cellpadding="0">
                       <tbody><tr>
-                        <td height="26" align="left" valign="middle"><a href="link-building.php">Link Building</a></td>
+                        <td width="190" height="26" align="left" valign="middle"><a href="link-building.php">Link Building</a></td>
                       </tr>
                       <tr>
                         <td height="26" align="left" valign="middle"><a href="article-submission-service.php">Article Submission</a></td>
@@ -600,10 +855,16 @@ new TWTR.Widget({
                       <tr>
                         <td height="26" align="left" valign="middle"><a href="press-release-submission-service.php">Press Release Submission</a></td>
                       </tr>
-                     
+                      <tr>
+                        <td height="26" align="left" valign="middle"><a href="link-wheel-service.php">Link Wheel Service</a></td>
+                      </tr>
+                      <tr>
+                         <td height="26" align="left" valign="middle"><a href="forum-posting.php">Forum Postisng</a></td>
+                      </tr>
+
                     </tbody></table></td>
-                    <td width="20" align="left" valign="top">&nbsp;</td>
-                    <td width="235" align="left" valign="top" class="white_text"><table width="235" border="0" cellspacing="0" cellpadding="0">
+                    <td width="10" align="left" valign="top">&nbsp;</td>
+                    <td width="210" align="left" valign="top" class="white_text"><table width="220" border="0" cellspacing="0" cellpadding="0">
                       <tbody><tr>
                         <td height="26" align="left" valign="middle"><a href="social-bookmarking.php">Social Bookmarking</a></td>
                       </tr>
@@ -619,30 +880,19 @@ new TWTR.Widget({
                       <tr>
                         <td height="26" align="left" valign="middle"><a href="document-submission-service.php">Document Submission Service</a></td>
                       </tr>
-                     
-                    </tbody></table></td>
-                    <td width="20" align="left" valign="top">&nbsp;</td>
-                    <td width="235" align="left" valign="top" class="white_text"><table width="230" border="0" cellspacing="0" cellpadding="0">
-                      <tbody><tr>
-                        <td height="26" align="left" valign="middle"><a href="link-wheel-service.php">Link Wheel Service</a></td>
-                      </tr>
                       <tr>
-                        <td height="26" align="left" valign="middle"><a href="forum-posting.php">Forum Postisng</a></td>
-                      </tr>
-                      <tr>
-                        <td height="26" align="left" valign="middle"><a href="forum-and-blog-commenting.php">Forum and Blog Commenting</a></td>
-                      </tr>
-                     <tr>
-                        <td height="26" align="left" valign="middle"><a href="rss-feed-submission-service.php">RSS Feed Submission Service</a></td>
+                       <td height="26" align="left" valign="middle"><a href="forum-and-blog-commenting.php">Forum and Blog Commenting</a></td>
                       </tr>
                       <tr>
                         <td height="26" align="left" valign="middle"><a href="seo-content-writing.php">Content Writing</a></td>
                       </tr>
-                      
+
                     </tbody></table></td>
-                     <td width="20" align="left" valign="top">&nbsp;</td>
-                    <td width="230" align="left" valign="top" class="white_text"><table width="230" border="0" cellspacing="0" cellpadding="0">
-                      <!--<tr>
+
+
+                    <td width="10" align="left" valign="top">&nbsp;</td>
+                    <td width="195" align="left" valign="top" class="white_text"><table width="195" border="0" cellspacing="0" cellpadding="0">
+             <!--         <tr>
                         <td height="26" align="left" valign="middle"><a href="search-engine-optimization.php">Search Engine Optimization</a></td>
                       </tr>
                       <tr>
@@ -657,7 +907,8 @@ new TWTR.Widget({
                       <tr>
                         <td height="26" align="left" valign="middle"><a href="website-design-development.php" >Website Design & Development</a></td>
                       </tr>-->
-                      <tbody><tr>
+
+                       <tbody><tr>
                         <td height="26" align="left" valign="middle"><a href="seo-company-india.php">SEO Company India</a></td>
                       </tr>
                       <tr>
@@ -669,18 +920,30 @@ new TWTR.Widget({
                       <tr>
                         <td height="26" align="left" valign="middle"><a href="seo-company-usa.php">SEO Company USA</a></td>
                       </tr>
+                       <tr>
+                        <td height="26" align="left" valign="middle"><a href="local-seo.php">SEO Company Bhubaneswar</a></td>
+                      </tr>
+                      <tr>
+					    <td height="26" align="left" valign="middle"><a href="seotraining.php">SEO Training</a></td>
+                      </tr>
                     </tbody></table></td>
+                     <td width="362" align="left" valign="top" class="white_text"><strong>SEOPhalanx</strong>
+                       <strong>(A division of Phalanx Infotech Pvt. Ltd.)</strong><br>
+                         <strong>N4-F/25, IRC Village, Nayapalli,<br>
+                        Bhubaneswar-751015, Odisha, India<br></strong>
+                        Support - <a href="mailto:support@seophalanx.com">support@seophalanx.com </a><br>
+                        Sales - <a href="mailto:biswaranjan@seophalanx.com">biswaranjan@seophalanx.com</a> <br>
+                        Office:- +91-674-3267466<br>
+                        Mobile:- +91-933-744-4065  </td>
                   </tr>
                 </tbody></table></td>
               </tr>
             </tbody></table></td>
-           
+
           </tr>
         </tbody></table></td>
       </tr>
-      <tr>
-        <td align="left" valign="top">&nbsp;</td>
-      </tr>
+
     </tbody></table></td>
   </tr>
   <tr>
@@ -701,7 +964,7 @@ new TWTR.Widget({
             <a href="privacy.php" title="Contact Us">Privacy Policy |</a>
             <a href="terms-condition.php" title="SEO Optimization">Terms &amp; Conditions |</a>
             <a href="blog" title="blog" target="_blank">Blog</a>
-        
+
         </td>
       </tr>
       <tr>
@@ -712,9 +975,9 @@ new TWTR.Widget({
       </tr>
     </tbody></table></td>
   </tr>
- 
+
 </tbody></table>
 
 
 
-                    <div id="overlay" style="display: none;"></div>      <div id="lightbox" style="display: none;">        <div id="outerImageContainer" style="background-color: rgb(255, 255, 255); color: rgb(0, 0, 0);"><div id="modalContainer" style="display: none; padding: 10px;"></div><div id="frameContainer" style="display: none; padding: 10px;"></div><div id="imageContainer" style="display: none; padding: 10px;"><img id="lightboxImage"><div id="hoverNav"><a id="prevLink" href="#" style="padding-top: 10px;"></a><a id="nextLink" href="#" style="padding-top: 10px;"></a></div></div><div id="loading"><a href="#" id="loadingLink"></a></div></div>        <div id="imageDataContainer" class="clearfix" style="background-color: rgb(255, 255, 255); color: rgb(0, 0, 0);">          <div id="imageData"><div id="frameHoverNav"><a id="framePrevLink" href="#" style="padding-top: 10px;"></a><a id="frameNextLink" href="#" style="padding-top: 10px;"></a></div><div id="imageDetails"><span id="caption"></span><span id="numberDisplay"></span></div><div id="bottomNav"><a id="bottomNavClose" href="#" style="background-color: rgb(255, 255, 255); color: rgb(0, 0, 0);"></a><a id="bottomNavZoom" href="#"></a><a id="bottomNavZoomOut" href="#"></a><a id="lightshowPause" href="#" style="display: none;"></a><a id="lightshowPlay" href="#" style="display: none;"></a></div></div>        </div>      </div></body></html>
+<div id="overlay" style="display: none;"></div>      <div id="lightbox" style="display: none;">        <div id="outerImageContainer" style="background-color: rgb(255, 255, 255); color: rgb(0, 0, 0);"><div id="modalContainer" style="display: none; padding: 10px;"></div><div id="frameContainer" style="display: none; padding: 10px;"></div><div id="imageContainer" style="display: none; padding: 10px;"><img id="lightboxImage"><div id="hoverNav"><a id="prevLink" href="#" style="padding-top: 10px;"></a><a id="nextLink" href="#" style="padding-top: 10px;"></a></div></div><div id="loading"><a href="#" id="loadingLink"></a></div></div>        <div id="imageDataContainer" class="clearfix" style="background-color: rgb(255, 255, 255); color: rgb(0, 0, 0);">          <div id="imageData"><div id="frameHoverNav"><a id="framePrevLink" href="#" style="padding-top: 10px;"></a><a id="frameNextLink" href="#" style="padding-top: 10px;"></a></div><div id="imageDetails"><span id="caption"></span><span id="numberDisplay"></span></div><div id="bottomNav"><a id="bottomNavClose" href="#" style="background-color: rgb(255, 255, 255); color: rgb(0, 0, 0);"></a><a id="bottomNavZoom" href="#"></a><a id="bottomNavZoomOut" href="#"></a><a id="lightshowPause" href="#" style="display: none;"></a><a id="lightshowPlay" href="#" style="display: none;"></a></div></div>        </div>      </div></body></html>
