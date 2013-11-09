@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the firstlegoleague.org privacy policy that was archived on 2013-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130518085409id_/http%3A//www.usfirst.org/aboutus/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the firstlegoleague.org privacy policy that was archived on 2013-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131109163932id_/http%3A//www.usfirst.org/aboutus/privacy-policy) for the most accurate reproduction.*
 
 # FIRST Privacy Policy and User Agreement | USFIRST.org
 
