@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the veeam.com privacy policy that was archived on 2013-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130513065157id_/http%3A//www.veeam.com/privacy_policy.html%3Fad%3Dfooter-bottom) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the veeam.com privacy policy that was archived on 2013-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131109093710id_/http%3A//www.veeam.com/privacy_policy.html%3Fad%3Dfooter-bottom) for the most accurate reproduction.*
 
 # Veeam: Privacy Policy- safeguarding your privacy online.
 
@@ -35,6 +35,19 @@ Veeam websites may contain links to other web sites. Be aware that Veeam is not 
 Cookies, web beacons and similar tracking technologies are used to enhance user experience. Such tracking technologies were originally developed to help a user’s browser save any preferences the user might have set during the session. Nowadays web cookies and beacons are used to track users’ activity on the website and to enhance the user’s visit to the website. A web cookie is a small text sent by the website to your web browser that contains your personal credentials in encrypted form as well as other personal information and personalization of the website. It is worth a note that a cookie cannot retrieve any information from your hard drive, infect your computer with viruses or steal your personal data or in any other way impair your privacy.
 
 A web beacon is a small and generally hidden GIF-image that is incorporated into a web page or an email to keep track on user’s activity on the page or the email. Just like a cookie, a beacon tracks user’s visit and sends the data to the server that is the only to be able to decrypt this data. But unlike cookie, a beacon can not be used for identification purposes, nor can it store any data on your computer as it is not browser-based. 
+
+  
+
+
+## Display Advertising
+
+  * The Google Analytics features that Veeam has implemented are based on Display Advertising (e.g. Remarketing, Google Display Network Impression Reporting, the DoubleClick Campaign Manager integration or Google Analytics Demographics and Interest Reporting).
+  * Visitors can opt out of Google Analytics for Display Advertising and customise Google Display Network ads using the Ads Settings.
+  * Veeam uses Remarketing with Google Analytics to advertise online.
+  * Third-party vendors, including Google, show Veeam ads on sites across the Internet.
+  * Veeam and third-party vendors, including Google, use first-party cookies (such as the Google Analytics cookie) and third-party cookies (such as the DoubleClick cookie) together to inform, optimise and serve ads based on someone's past visits to your website.
+  * Veeam and third-party vendors, including Google, use first-party cookies (such as the Google Analytics cookie) and third-party cookies (such as the DoubleClick cookie) together to report how your ad impressions, other uses of ad services and interactions with these ad impressions and ad services are related to visits to your site.
+  * We use data from Google's Interest-based advertising or 3rd-party audience data (such as age, gender and interests) with Google Analytics to understand overall patterns for web site usage.
 
   
 
@@ -87,3 +100,6 @@ Any promotions may not apply in your geographic region. Please check with your V
 ### Promotions Disclaimer
 
 Prices, promotions, offers & terms and conditions of sale are subject to change without notice. Errors and omissions excepted. While quantities last. 
+
+  
+
