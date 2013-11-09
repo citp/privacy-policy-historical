@@ -1,77 +1,75 @@
-> *The following text is extracted and transformed from the lightingafrica.org privacy policy that was archived on 2013-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130510094745id_/http%3A//www.lightingafrica.org/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lightingafrica.org privacy policy that was archived on 2013-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131109230711id_/http%3A//lightingafrica.org/privacy-policy.html) for the most accurate reproduction.*
 
 # Lighting Africa - Privacy Policy
 
-**Effective Date: December 1, 2008**  
-Your use of the Lighting Africa web portal (Site) and the services provided in connection with the Site (the "Services") constitutes your acknowledgement and acceptance of these new terms.  All capitalized terms not otherwise defined herein have the meanings set forth in the Terms of Use.
+Your privacy when using [www.lightingafrica.org](http://www.lightingafrica.org/) (the “Site”), is of the utmost importance to us. This Privacy Policy describes the ways in which the operator of this Site, the International Finance Corporation (“we,” “our,” or “us”), collects, uses, and discloses information about you through the Site. By using the Site, you consent to the processing of your information as set forth in this Privacy Policy. ****
 
-We at the World Bank Group (the "WBG") respect your concerns about privacy.  The WBG is comprised of IBRD (International Bank for Reconstruction and Development); IDA (International Development Association); IFC (International Finance Corporation); MIGA (Multilateral Guarantee Agency); and ICSID (International Centre for Settlement of Investment Disputes).  This Privacy Policy is designed to make you aware of what information we collect when you use our Site, how your information is used and the steps we take to safeguard your information.  
+**What information do we collect?**
 
-This policy answers the following questions:
+**Information You Provide** ********
 
-  * **What information do we collect about you and how do we use it?**
-  * **Will we share your personal information with third parties?**
-  * **What choices do you have about the collection and use of your personal information?**
-  * **What security measures do we take to safeguard your personal information?**
+We and our service providers collect any information that you provide when you use the Site, including when you create an account, rate a publication, participate in our message boards or forums, sign up to receive our electronic newsletters, participate in polls and surveys, or otherwise contact us with a question, comment, or request. This can include, but is not limited to (a) your name, contact information, and other registration information; (b) information you post to public forums on the Site; and (c) information you provide us when you contact us. ****
+
+**Information Automatically Collected From You** ****
+
+We and our service providers may automatically collect certain technical information from your computer when you use the Site, such as your Internet Protocol address, your browser type, your operating system, the pages you view on the Site, the pages you view immediately before and after you access the Site, and the search terms you enter on the Site. For example, we collect information and compile statistics about the most and least popular pages on the Site. ****
+
+This information allows us to recognize you and personalize your experience if you return to the Site using the same computer or mobile device **** and to improve the Site and the services we provide. We and our service providers may collect this information using “cookies,” which are small text files that the Site saves on your computer using your web browser and accesses when you return, or similar technologies.
+
+**How do we use this information?**
+
+We and our affiliates may use the information we collect for a number of purposes, including, but not limited to: ****
+
+  * providing you with products, services, or information you request
+  * providing you with information about the Site or required notices;
+  * delivering marketing communications, promotional materials, or advertisements that may be of interest to you;
+  * customizing your experience when using the Site, such as by providing interactive or personalized elements on the Site and providing you with content based on your interests;
+  * allowing us to improve the Site and the services we provide, such as by better tailoring our content to our visitors’ needs and preferences;
+  * generating and analyzing trends about your and other visitors’ use of the Site;
+  * helping our advertisers and sponsors better understand our visitors; and
+  * detecting, preventing, and responding to fraud, intellectual property infringement, violations of our Terms of Use, violations of law, or other misuse of the Site.
 
 
 
-This policy applies to the information the WBG collects about you as a result of your use of the Site, the Services, and the websites operated by our licensors, sponsors, and partners.  It does not apply to information about you collected through any related website or any third party website or offering linked to or otherwise accessible from the Site.  Please consult the privacy policies applicable to those sites and offerings.
+We also may combine or aggregate any of the information we collect through the Site or elsewhere for any of these purposes.
 
- **I. Information collection and use**  
-In connection with the use of the Site and the Services, we collect certain personal and non-personal information from you.  We use this information to fulfill your requests; improve and manage the Site and the Services; personalize your experience on the Site; contact you; offer you products and services that may be of interest to you; if you so elect, to permit other registered users of the Site to contact you as discussed in Article VI below; and in connection with the various features of the Site that may permit you to input, post or provide information.  We collect personal and non-personal information when you voluntarily provide it to us (for example, in the course of registration) and when you visit the Site.  The information we collect from you depends on your use of the Site.
+**Under what circumstances do we disclose this information?**
 
-Depending on how you use the Site, we may collect certain personal and non-personal information from you in the following ways:
+We may disclose the information we collect from you through the Site: ****
 
- **Registration:** There are many aspects of the Site that can be enjoyed as a visitor, but you need to register in order to utilize certain features and access certain content in the Site and to take advantage of many of the Services on the Site.  Registration is entirely optional. In the course of registration, you are required to provide us with certain personal information such as your e-mail address.   The information required to be provided in connection with registration, such as your name, is not made available to other users of the Site, unless you elect to do so.
+  * to service providers who work on our behalf, including, but not limited to, service providers who help us gather and analyze information about usage of the Site; and deliver marketing communications, promotional materials, or announcements that may be of interest to you; 
+  * to business partners who may deliver marketing communications, promotional materials, or announcements that may be of interest to you;
+  * as required by law, such as to comply with a subpoena or other legal process, or to comply with government reporting obligations;
+  * when we believe in good faith that disclosure is necessary (a) to protect our rights, the integrity of the Site, or your safety or the safety of others, or (b) to detect, prevent, or respond to fraud, intellectual property infringement, violations of our Terms of Use, violations of law, or other misuse of the Site;
+  * to affiliates, service providers, advisors, and other third parties to the extent reasonably necessary to proceed with the negotiation or completion of a merger, acquisition, or sale of all or a portion of our assets; and
+  * when we are not otherwise prohibited by applicable law from doing so without your express consent.
 
- **Business Information:** Registered users of the Site may elect to also fill out an extended profile with business information to help us customize features for you.  You may also opt to publish this business information in the Member Directory on the Site so other users can find you.  Filling out the business information form and publishing in the Member Directory are entirely optional.  If published on the Site, this information will be displayed to other users of the Site and other related country-specific websites.  Registered users may also elect to create a personalized web page for their business.
 
- **Other Information:** In addition, in the course of your interactions with the Site, we may collect other non-personal information such as browser type, IP address and pages visited or information about the Services you use, the searches you perform, the results of those searches, and other information related to your use of a particular Site or Service.  We also may use cookies, beacons and other technologies to better manage our Site and offer you a more personalized experience with the Site.
 
- **Special Note for Parents:** This Site is a general audience website and not designed or intended to attract children younger than 13. We do not collect personal information from any person we actually know is younger than 13.
+In addition, we may share aggregate reports on user demographics and traffic patterns, as well as de-identified information, with third parties.
 
- **II. Information disclosure to third parties**  
-We know how important it is to keep the personal information you've provided to us confidential. We will not rent, sell or share personal information about you with third parties except under certain circumstances as described herein. In all other cases, we will ask for your permission before we disclose your personal information.
+The Site also may contain links to websites published by third parties.  You acknowledge and agree that we are not responsible for the collection and use of your information by such websites that are not under our control. We encourage you to review the privacy policies of each website you visit.
 
-Affiliates and Partners: We may share the information you provide with companies and websites affiliated with the WBG in connection with the Lighting Africa initiative.
+**Where is this information stored?**
 
- **Disclosure for legal reasons:** We may release personal information to third parties: (1) to comply with valid legal requirements such as a law, regulation, search warrant, subpoena or court order; or (2) in special cases, such as a physical threat to you or others, a threat to homeland security, a threat to our system or network, or cases in which we believe it is reasonably necessary to investigate or prevent harm, fraud, abuse, or illegal conduct. In the event that we are legally compelled to disclose your personal information to a third party, we will make reasonable efforts to notify you unless doing so would violate the law or court order.
+Information collected through the Site may be processed and stored outside of your home country, which may not provide the same level protection for your personal information as your home country, and may be available to that country’s government or its agencies under a lawful order made in that country.  In addition, we may transfer your information outside your home country to our affiliates, business partners, and service providers located in other countries for use in connection with this Site.  By using the Online Services, you consent to such transfer to, and processing in, these other countries.
 
- **Agents and contractors:** Contractors sometimes have access to your personal information in the course of assisting in operating our business and providing products or services to you. These contractors include vendors and suppliers that provide us with technology, services, and/or content for the operation and maintenance of our site.
+**How is your information secured?**
 
- **Aggregated, non-personal information:** We may share aggregated information with third parties. This is information that is combined with the non-personal information of other users and does not allow you to be identified or contacted.  Depending on the circumstances, we may or may not charge third parties for this aggregated information.  We also may not limit the third parties' use of the aggregated information.
+We strive to maintain reasonable administrative, technical, and physical safeguards designed to safeguard the information collected by the Site. However, no information system can be 100% secure, so we cannot guarantee the absolute security of your information. Moreover, we are not responsible for the security of information you transmit to the Site over networks that we do not control, including the internet and wireless networks. ****
 
-Changes in our corporate structure: If all or part of our company is sold, merged or otherwise transferred to another entity, the personal information you have provided at this site may be transferred as part of that transaction.
+**Your choices**
 
- **III. Choice and control over your personal information**  
-You may always decline to provide personal information to us and/or refuse cookies in your browser, although some features or services may not be accessible or function properly as a result.
+If **** your contact information changes, if you no longer wish to receive marketing communications from us or to have us share your information with third parties for marketing purposes, or if you wish to change or inquire about the information that you have provided to us through the Site, please submit a request through  [info@lightingafrica.org](mailto:info@lightingafrica.org).
 
- **IV. Communications**  
-Email communications: Email communication that you send to us via the email links on the Site may be shared with company representatives, partners, sponsors, or employees. From time to time, we may send you service-related emails, such as a welcome email when you register with the Site.
+If you do not want the Site to collect this information through the use of cookies, you can set your web browser to reject cookies from the Site. Each browser is different, so you should check your browser’s “Help” menu to learn how to change your cookie preferences. If you reject or block cookies from the Site, however, the Site may not function as intended.
 
-Newsletters, promotions, alerts and reminders: At various places on the Site, you will be given the option to receive recurring informational newsletters and promotions and to set alerts and reminders. You have the ability to opt-out of the receipt of newsletters, promotions, alerts and reminders.
+**Changes to this Privacy Policy**
 
- **Private messages:** Private messaging enables you to send emails through the Site forums to other registered Site users without revealing your email address. Only your nick-name (the nick-name you select for yourself when you register) will be visible to recipients of the email. We will not share your email address with other users unless you choose to make it viewable by others. You have the ability to not participate in private messaging and to opt-out of the receipt of private messages.  
+We reserve the right to update this Privacy Policy from time to time by posting a new Privacy Policy on this page. You are advised to consult this Privacy Policy regularly for any changes, and your continued use of the Site after such changes have been made constitutes acceptance of those changes. If we make any revisions that materially change the ways in which we use or share the information previously collected from you through the Site, we will give you the opportunity to consent to such changes before applying them to that information. ****
 
- **V.** **Topic-Oriented Forums**  
-The Site features areas where people with similar business interests can share information and support one another.  Please remember that any information that you post in public areas is, by design, open to third parties.
+**Contact us**
 
-Forum and chat postings and comments: By default, when you post to a forum your post will be associated with your nick-name and will include the attachments you provide.
+If you have any questions or concerns about this Privacy Policy or our use of your information collected through the Site, please contact us at  [info@lightingafrica.org](mailto:info@lightingafrica.org).
 
- **VI.   Efforts we take to safeguard your personal information**  
-We maintain administrative, technical and physical safeguards for the Site to protect against unauthorized disclosure, use, alteration or destruction of the information you provided on this site.
-
- **VII. Accessing and Updating Your Information**  
-You can edit your Account Profile information, including your Site preferences, at any time.
-
- **VIII. Links to Other Sites**  
-We may provide links to other websites for your convenience and information, including, without limitation country-specific sites.  These sites operate independently and may have their own privacy policies in place, which we suggest you review if you visit any linked site.  To the extent you visit any  linked sites, we are not responsible for their content or any use of such sites.
-
- **IX. Changes to this Privacy Policy**  
-Please note that this Privacy Policy may change from time to time. We will post any Privacy Policy changes on this page and, if the changes are significant, we will provide a more prominent notice (including, for certain services, email notification of Privacy Policy changes). Each version of this Policy will be identified at the top of the page by its effective date.
-
-If you have any questions or concerns about our Privacy Policy or its implementation, you may contact us using the contact information on the About Us page.
-
- **X. Preservation of Immunities**  
-Nothing herein shall constitute or be considered to be a limitation upon or a waiver of the privileges and immunities of the International Bank for Reconstruction and Development, International Finance Corporation, or any other member of the World Bank Group, which are specifically reserved.
+This Privacy Policy was last updated on **12 September, 2013**.
