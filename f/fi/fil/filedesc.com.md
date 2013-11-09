@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the filedesc.com privacy policy that was archived on 2013-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130430080814id_/http%3A//www.filedesc.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the filedesc.com privacy policy that was archived on 2013-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131109055507id_/http%3A//www.filedesc.com/en/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - FileDesc.com
 
@@ -20,4 +20,4 @@ You should consult the respective privacy policies of these third-party ad serve
 
 If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites. 
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at info@filedesc.com. 
+If you require any more information or have any questions about our privacy policy,please feel free to contact us by email at info@filedesc.com. 
