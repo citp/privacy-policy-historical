@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the fitnea.com privacy policy that was archived on 2013-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130630084619id_/http%3A//www.fitnea.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fitnea.com privacy policy that was archived on 2013-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131109115140id_/http%3A//www.fitnea.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Fitnea – Stay Fit
 
 **Privacy Policy for www.fitnea.com**
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at Contact@fitnea.com.
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at Contact@www.fitnea.com.
 
 At www.fitnea.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by www.fitnea.com and how it is used.
 
