@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the 10best.com privacy policy that was archived on 2013-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130527185648id_/http%3A//www.10best.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 10best.com privacy policy that was archived on 2013-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131109083907id_/http%3A//www.10best.com/privacy.html) for the most accurate reproduction.*
 
 # 10Best.com Privacy Policy
 
 ## Privacy Notice
 
-Last Updated: February 1st, 2013
+Last Updated: May 29th, 2013
 
 We take seriously your interest in how your information is collected and used. Please read the following to understand about our privacy practices.
 
