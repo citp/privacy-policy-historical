@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theoaklandpress.com privacy policy that was archived on 2013-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130607005814id_/http%3A//www.journalregister.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theoaklandpress.com privacy policy that was archived on 2013-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131109094139id_/http%3A//www.theoaklandpress.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Journal Register Company
 
