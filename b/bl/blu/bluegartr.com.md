@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bluegartr.com privacy policy that was archived on 2013-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130506191241id_/http%3A//www.bluegartr.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bluegartr.com privacy policy that was archived on 2013-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131109055139id_/http%3A//www.bluegartr.com/privacy.php) for the most accurate reproduction.*
 
 # Google Adsense Privacy Policy
 
