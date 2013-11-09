@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ijstr.org privacy policy that was archived on 2013-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130419011519id_/http%3A//www.ijstr.org/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ijstr.org privacy policy that was archived on 2013-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131109230932id_/http%3A//www.ijstr.org/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy - International Journal of Scientific & Technology Research
 
