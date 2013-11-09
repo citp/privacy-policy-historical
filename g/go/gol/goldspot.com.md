@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goldspot.com privacy policy that was archived on 2013-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130610173427id_/http%3A//www.goldspot.com/custPrivacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goldspot.com privacy policy that was archived on 2013-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131109203502id_/http%3A//www.goldspot.com/custPrivacy.html) for the most accurate reproduction.*
 
 # GOLDSPOT
 
@@ -23,7 +23,7 @@ When you submit feedback or questions via e-mail, or contact us for information 
 Our email newsletters are intended to keep users informed of new products, gifts, and special features that are available. Our policy is to send our email announcements or newsletters only to those who request this when registering. If you receive an email and want to be removed from the email list, we provide instructions on how to unsubscribe so that you will not receive any other messages from Goldspot.com in the future.
 
 **Your Security**  
-Our Web site encrypts your credit card number prior to transmission over the Internet using secure socket layer (SSL) encryption technology. This technology works best when the site is viewed using Microsoft's Internet Explorer or Netscape Navigator.
+Our Web site encrypts your credit card number prior to transmission over the Internet using secure socket layer (SSL) encryption technology. This technology works best when the site is viewed using an internet browser like Microsoft Internet Explorer, Mozilla Firefox, Google Chrome, or Safari.
 
 However, no transmission of data over the Internet or any other public network can be guaranteed to be 100% secure. Although we make reasonable efforts to safeguard your personal information once we receive it, we cannot warrant the security of information you transmit to us.
 
