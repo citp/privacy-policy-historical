@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the factorydirect.ca privacy policy that was archived on 2013-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130622064300id_/http%3A//factorydirect.ca/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the factorydirect.ca privacy policy that was archived on 2013-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131109043156id_/http%3A//www.factorydirect.ca/Privacy.aspx) for the most accurate reproduction.*
 
 # Canada’s best deals on Apple, Sony, Samsung, Unlocked Android, Blackberry, Panasonic, LG, Acer, JVC and many more. Canada’s discount liquidator – factorydirect.ca
 
@@ -67,4 +67,5 @@ product deals that are offered on sale, coupon or special promotion.
 
 factorydirect.ca is not responsible for typographical errors or omissions.  
 Product images are for representation only, Product may not be exactly as shown.   
-Trademarks and logos are properties of their respective owners. 
+Trademarks and logos are properties of their respective owners.   
+factorydirect and factorydirect.ca are registered Trade Names of Rlogistics Limited Partnership. 
