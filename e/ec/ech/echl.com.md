@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the echl.com privacy policy that was archived on 2013-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130510211943id_/http%3A//echl.com/privacy-policy-p144376) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the echl.com privacy policy that was archived on 2013-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131109175531id_/http%3A//www.echl.com/privacy-policy-p144376) for the most accurate reproduction.*
 
 # The ECHL - Premier 'AA' Hockey League | Privacy Policy
 
