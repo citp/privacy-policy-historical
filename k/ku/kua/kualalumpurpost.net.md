@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the kualalumpurpost.net privacy policy that was archived on 2013-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130513182753id_/http%3A//www.kualalumpurpost.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kualalumpurpost.net privacy policy that was archived on 2013-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131109174150id_/http%3A//www.kualalumpurpost.net/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | The Kuala Lumpur Post | Independent Online News
+# Privacy Policy | Kuala Lumpur Post
 
 WEBSITE PRIVACY POLICY
 
