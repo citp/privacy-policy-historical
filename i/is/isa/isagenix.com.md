@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the isagenix.com privacy policy that was archived on 2013-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130604234534id_/http%3A//isagenix.com/ww/en/privacypolicy.dhtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the isagenix.com privacy policy that was archived on 2013-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131110054739id_/http%3A//www.isagenix.com/ww/en/privacypolicy.dhtml) for the most accurate reproduction.*
 
 # None
 
