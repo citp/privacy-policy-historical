@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the myhotsite.net privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602003218id_/http%3A//www.myhotsite.net/static/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myhotsite.net privacy policy that was archived on 2013-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131110164011id_/http%3A//www.myhotsite.net/static/Privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy » Daily Download Free Download Free Files Crack Serials :Myhotsite.Net
+# Privacy Policy » Free Download || Myhotsite.Net
 
 |  Your Privacy
 
