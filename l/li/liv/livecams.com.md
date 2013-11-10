@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the livecams.com privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601223855id_/http%3A//www.livecams.com/privacy.html%3F) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the livecams.com privacy policy that was archived on 2013-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131110172828id_/http%3A//www.livecams.com/privacy.html%3F) for the most accurate reproduction.*
 
-# Privacy - Livecams.com
+# Privacy Policy - Livecams.com
 
 [Home](http://www.livecams.com/) / Privacy Policy
 
@@ -47,9 +47,7 @@ If you have any questions about this Privacy Policy, please contact our customer
 
 The address for correspondence by post is
 
-Streamates Limited  
-c/o Ariel Secretaries Limited  
-196, Arch Makarios Ave, Ariel Corner,  
-1st Flr, Office 102  
-P.O. Box 57528  
-3316 Limassol - Cyprus
+ICF Technology, Inc.  
+PO Box 21508  
+Seattle, WA 98111  
+USA 
