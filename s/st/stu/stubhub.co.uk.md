@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stubhub.co.uk privacy policy that was archived on 2013-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130511190637id_/http%3A//www.stubhub.co.uk/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stubhub.co.uk privacy policy that was archived on 2013-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131110163504id_/http%3A//www.stubhub.co.uk/privacy_policy) for the most accurate reproduction.*
 
 # 
 
@@ -70,7 +70,7 @@ We share information between our buyers and sellers that allows them to complete
 
 **Cookies and web beacons**
 
-When you first use our Site and Services, StubHub may send a cookie to your computer that identifies you as a unique user. We may use session cookies (which expire once you close your web browser) and persistent cookies (which stay on your computer until you delete them) to store your preferences, identify you and maintain your signed-in status and provide you with a more personal and interactive experience. You can set your browser to refuse cookies or delete persistent cookies by following your browser's help instructions. If you choose to disable cookies, some of our services may not work properly and you may not be able to buy and sell tickets. We may also use web beacons, which are typically small graphic objects or pixels that are embedded in a web page. These web beacons allow us or our provider(s) to check that a user has viewed a web page. For more information about how we or our providers use cookies and web beacons.
+When you first use our Site and Services, StubHub may send a cookie to your computer that identifies you as a unique user. We may use session cookies (which expire once you close your web browser) and persistent cookies (which stay on your computer until you delete them) to store your preferences, identify you and maintain your signed-in status and provide you with a more personal and interactive experience. You can set your browser to refuse cookies or delete persistent cookies by following your browser's help instructions. If you choose to disable cookies, some of our services may not work properly and you may not be able to buy and sell tickets. We may also use web beacons, which are typically small graphic objects or pixels that are embedded in a web page. These web beacons allow us or our provider(s) to check that a user has viewed a web page. For more information about how we or our providers use cookies and web beacons, see our policy on [Cookies, Web Beacons and Your Privacy](https://web.archive.org/cookies-web-beacons/).
 
 **Accessing and changing personal information**
 
