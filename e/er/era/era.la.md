@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the era.la privacy policy that was archived on 2013-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130625030932id_/http%3A//www.era.la/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the era.la privacy policy that was archived on 2013-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131110034225id_/http%3A//www.era.la/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -16,11 +16,11 @@ We do use cookies to store information, such as your personal preferences when y
 
 We also use third party advertisements on the era.la to support our site. Some of these advertisers may use technology such as cookies and web beacons (may use information not including your name, address, email address, or telephone number) when they advertise on our site, which will also send these advertisers (such as Google through the Google AdSense program) information including your IP address, your ISP, the browser you used to visit our site, and in some cases, whether you have Flash installed. This is generally used for geo-targeting purposes or showing certain ads based on specific sites visited (such as showing cooking ads to someone who frequents cooking sites).
 
-We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.google.com/privacy_ads.html).
+We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.google.com/policies/technologies/ads/).
 
   * Google, as a third party vendor, uses cookies to serve ads on our site.
   * Google’s use of the DART cookie enables it to serve ads to our users based on their visit to our sites and other sites on the Internet.
-  * Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy ](http://www.google.com/privacy_ads.html)
+  * Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy ](http://www.google.com/policies/technologies/ads/)
 
 
 
