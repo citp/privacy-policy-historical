@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bentley.edu privacy policy that was archived on 2013-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130510211154id_/http%3A//www.bentley.edu/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bentley.edu privacy policy that was archived on 2013-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131110173220id_/http%3A//www.bentley.edu/privacy) for the most accurate reproduction.*
 
 # Undergraduate & Graduate Business School | Bentley University
 
