@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hostcats.com privacy policy that was archived on 2013-03-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130312174913id_/http%3A//www.hostcats.com/prip.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hostcats.com privacy policy that was archived on 2013-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131110052833id_/http%3A//www.hostcats.com/prip.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
