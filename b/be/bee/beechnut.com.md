@@ -1,20 +1,50 @@
-> *The following text is extracted and transformed from the beechnut.com privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530162741id_/http%3A//beechnut.com/Terms/PrivacyPolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beechnut.com privacy policy that was archived on 2013-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131111005941id_/http%3A//www.beechnut.com/Terms/PrivacyPolicy.asp) for the most accurate reproduction.*
 
 # Beech-Nut Baby Food
 
-| You Are Here: [Home](https://web.archive.org/) > [Web](https://web.archive.org/web) > [20130530162741id_](https://web.archive.org/web/20130530162741id_) > [Http%3A](https://web.archive.org/web/20130530162741id_/http%3A) > [](https://web.archive.org/web/20130530162741id_/http%3A/) > [Beechnut.com](https://web.archive.org/web/20130530162741id_/http%3A//beechnut.com) > [Terms](https://web.archive.org/web/20130530162741id_/http%3A//beechnut.com/Terms)  
+|  |   
+---  
+| You Are Here: [Home](https://web.archive.org/) > [Web](https://web.archive.org/web) > [20131111005941id_](https://web.archive.org/web/20131111005941id_) > [Http%3A](https://web.archive.org/web/20131111005941id_/http%3A) > [](https://web.archive.org/web/20131111005941id_/http%3A/) > [Www.beechnut.com](https://web.archive.org/web/20131111005941id_/http%3A//www.beechnut.com) > [Terms](https://web.archive.org/web/20131111005941id_/http%3A//www.beechnut.com/Terms)  
 ---  
 This is the web site of Beech-Nut Nutrition Corporation (“Beech Nut”).  
   |    
 Our postal address is  
 Beech-Nut Nutrition Corporation  
-100 Hero Drive   
+One Nutritious Place  
 Amsterdam, NY 12010  
   |    
 We can be reached via [email](http://bnhelpline.milnot.com/) or you can reach us by telephone at 1-800-BEECH-NUT (1-800-233-2468).  
   |    
 This policy covers information collected by Beech Nut through its web site, [www.beechnut.com](http://www.beechnut.com/).  
   |    
+   
+**Beech-Nut Nutrition® Beech-Nut & Beech-Nut Goya New Pouches Giveaway**   
+**OFFICIAL GIVEAWAY RULES (“OFFICIAL RULES”):**   
+**Beech-Nut Nutrition**
+
+NO PURCHASE NECESSARY. A PURCHASE WILL NOT INCREASE YOUR CHANCES OF WINNING. All federal, state and local laws and regulations apply. Void where restricted or prohibited by law.
+
+**1\. ELIGIBILITY:**  The Beech-Nut Nutriti **on® “** **Beech-Nut & Beech-Nut Goya New Pouches** **”** Giveaway (the “Giveaway”) is open to individuals 18 years of age or older as of date of entry who are residents of the 50 United States. Employees of Beech-Nut Nutrition®/Hero®, (“Sponsor”), and each of their respective affiliates, subsidiaries, employees, dealers, distributors, retailers, advertising agencies, production agencies, electronic media firms, and their immediate family members and those living in the same household are not eligible to receive a prize. Each entrant agrees to be bound by and acknowledge compliance with these Official Rules.
+
+**2\. PROMOTION PERIOD:** Giveaway begins at 9:00PM (EST) on November 9, 2013 and ends on November 30th. (the “Promotion Period”).  All entries must be submitted by 11:15:59PM (EST) on November 30th. Sponsor’s computer is the official time keeping device for the Giveaway.
+
+**3\. HOW TO ENTER:** To enter, visit [www.facebook.com/BeechNut](http://www.facebook.com/BeechNut) and click “Like” to become a Beech-Nut Nutrition® fan and obtain access to the Giveaway. Then leave a comment on the page titled “New Pouches”. If you are already a Beech-Nut Nutrition® fan, you may enter the Giveaway by clicking the Giveaway tab and then submitting a comment on the page about Beech-Nut’s new pouches. Entrants agree to be bound by and acknowledge compliance with these Official Rules including the eligibility and entry requirements. Limit one entry per person during the Promotion Period. A selected recipient may be asked to provide Sponsor with proof that the selected recipient is the authorized account holder of the e-mail address associated with the selected entry. If a dispute cannot be resolved, the entry will be deemed ineligible. Use of automated devices not valid for entry. Entries become the exclusive property of the Sponsor and will not be returned. Sponsor may at its sole discretion disqualify anyone who violates the rules or undermines the integrity of the Giveaway by disabling cookies, using any form of automatic entering, or any other form of manipulation.
+
+**4\. PRIZES:** **10 comments will be randomly selected from the “New Pouches” page on Beech-Nut’s Facebook to receive a prize package of Beech-Nut materials (prizes as listed on Facebook)**. Odds of receiving a prize depend on the number of entries received. No more than the advertised number of prizes will be given away. Limit of one prize per household. Prize recipients will be notified via Facebook and asked to provide their mailing address promptly. Prizes will automatically be shipped to the address provided by entrant. Any prize returned as undeliverable will be given away to an alternate. Sponsor is not responsible for any loss or damage to prizes incurred during shipment.
+
+**5\. GENERAL RULES:** Entrants agree to be bound by these Official Rules and the Sponsor’s decisions. By submitting an entry in the Giveaway (i.e., by commenting in the new pouch Facebook page), you acknowledge and agree that Sponsor shall be permitted to use your entry data for marketing purposes on social media channels consistent with Sponsor’s privacy policies (available at [http://www.beechnut.com](http://www.beechnut.com/)) and applicable law. By accepting the Beech-Nut prize basket, recipients agree that the Sponsor and those acting under the Sponsor's authority may use recipients' names, pictures/portraits likenesses and/or voices, for advertising and promotional purposes worldwide in perpetuity without further consideration, unless prohibited by law. Recipients may be required to execute and return an Affidavit of Eligibility, Liability Release and (where legal) Publicity Release within fourteen days of issuance of notification. Prizes are non-transferable and no substitutions or cash redemptions will be made. Sponsor reserves the right to substitute a prize of equal or greater value in the event of unavailability. Any and all taxes are the recipients’ sole responsibility. Entries will not be acknowledged or returned.
+
+BY ENTERING THE GIVEAWAY OR ACCEPTING ANY BEECH-NUT PRIZES, ENTRANTS AGREE TO INDEMNIFY, RELEASE AND HOLD HARMLESS SPONSOR, SPONSOR’S AGENTS AND AGENCIES, FACEBOOK AND EACH OF THEIR RESPECTIVE PARENTS, SUBSIDIARIES, AFFILIATES, ADVERTISING AND PROMOTION AGENCIES (TOGETHER “AGENCIES”), AND EACH OF THEIR RESPECTIVE OFFICERS, DIRECTORS, EMPLOYEES, REPRESENTATIVES AND AGENTS FOR ANY AND ALL LIABILITY, CLAIMS OR ACTIONS OF ANY KIND WHATSOEVER FOR ANY INJURY, LOSS OR DAMAGES OF ANY KIND TO PERSONS, INCLUDING DEATH, AND PROPERTY, DUE IN WHOLE OR IN PART, DIRECTLY OR INDIRECTLY, THAT MAY ARISE IN ANY WAY, FROM THE ACCEPTANCE, POSSESSION, USE OR MISUSE OF ANY BEECH-NUT PRIZES RECEIVED OR PARTICIPATION IN THIS GIVEAWAY OR PARTICIPATION IN ANY GIVEAWAY OR RELATED ACTIVITY. Sponsor shall not be responsible for any errors in these Official Rules or otherwise in any materials available at [www.facebook.com/BeechNut](http://www.facebook.com/BeechNut). If for any reason the Giveaway is not capable of running as planned, including due to infection by computer virus, bugs, tampering, unauthorized intervention, fraud, technical failure, human error or any other causes beyond the control of Sponsor that corrupts or affects the administration, security, fairness, integrity, or proper conduct of the Giveaway, Sponsor reserves the right in its sole discretion, to disqualify any individual who tampers with the entry process, and to cancel, terminate, modify or suspend the Giveaway and give away prizes from among all eligible entries received prior to cancellation or termination. Sponsor and Agencies are not responsible for lost, late, misdirected, illegible, postage-due or damaged entries or Internet technical, hardware, software, telephone or transmission failures of any kind, which limit a person’s ability to enter the Giveaway. Sponsor and Agencies assume no responsibility for any error, omission, interruption, deletion, defect, delay in operation or transmission, communications line failure, theft or destruction or unauthorized access to, or alteration of, entries. The Sponsor and are not responsible for any problems or technical malfunction of any telephone network or lines, computer online systems, servers, or providers, computer equipment, software, failure of any e-mail or entry to be received by Sponsors on account of technical problems or traffic congestion on the Internet or at any web site, any combination thereof, or otherwise, including any injury or damage to entrant's or any other person's computer related to or resulting from participation or downloading any materials in the Giveaway. CAUTION: ANY ATTEMPT BY AN ENTRANT TO DELIBERATELY DAMAGE ANY WEB SITE OR UNDERMINE THE LEGITIMATE OPERATION OF THE GIVEAWAY MAY BE A VIOLATION OF CRIMINAL AND CIVIL LAWS AND SHOULD SUCH AN ATTEMPT BE MADE, SPONSORS RESERVE THE RIGHT TO SEEK DAMAGES FROM ANY SUCH PERSON TO THE FULLEST EXTENT PERMITTED BY LAW.
+
+Any and all disputes, claims, and causes of action arising out of or in connection with the Giveaway shall be resolved individually, without resort to any class action. This Giveaway shall be governed by, and construed in accordance with, the laws of the State of New York, regardless of conflicts of laws principles. Any action or litigation concerning this Giveaway shall take place exclusively in the federal or state courts sitting in New York County, New York, and each recipient expressly consents to the jurisdiction of and venue in such courts and waives all defenses of lack of jurisdiction and inconvenient forum with respect to such courts. Each recipient agrees to service of process by mail or other method acceptable under the laws of the State of New York. ANY CLAIMS, JUDGMENTS, AND/OR AWARDS OF ANY ENTRANT SHALL BE LIMITED TO ACTUAL OUT-OF-POCKET COSTS ASSOCIATED WITH ENTERING INTO THIS GIVEAWAY. EACH ENTRANT HEREBY WAIVES ANY RIGHTS OR CLAIMS TO ATTORNEY'S FEES, INDIRECT, SPECIAL, PUNITIVE, INCIDENTAL OR CONSEQUENTIAL DAMAGES OF ENTRANT, WHETHER FORESEEABLE OR NOT AND WHETHER BASED ON NEGLIGENCE OR OTHERWISE.
+
+**6\. Recipients:** For a list of recipients send a self-addressed, stamped envelope to: Beech-Nut Nutrition **® “** **Beech-Nut & Beech-Nut Goya New Pouches** **”** Giveaway Recipients List, 1 Nutritious Place, Amsterdam NY, 12010. Vermont residents may omit return postage.
+
+**7\. SPONSOR:** **** The Giveaway is sponsored by Beech-Nut Nutrition®/Hero®, 1 Nutritious Place, Amsterdam NY, 12010.
+
+Facebook is a registered trademark of Facebook, Inc. The Giveaway is in no way sponsored, endorsed or administered by, or associated with, Facebook. You understand that you are providing your information to Beech-Nut Nutrition®/Hero® and not to Facebook. The information you provide will only be used in the event you are selected as a Giveaway recipient or if you have indicated that you would like to receive additional information from Sponsor.  
+  
+   
 **Customer Information**  
   |    
 We may require you to supply us with personal information during a registration process online prior to using certain features of our site (for example, prior to entering an online sweepstakes or receiving e-mail communications). If you choose to withhold personal data requested by us, it may not be possible for you to gain access to certain parts of the site or for us to respond to your query. We may also use the information provided in statistical form to understand our site’s demographics, such as percentage of male and female users, geographic location, age ranges, or a combination of these or other demographics. As detailed below, we will not share specific information about you to advertisers or third parties without your consent.
@@ -83,4 +113,8 @@ Upon request, we offer visitors the ability to correct inaccuracies in contact i
 
 If you feel that this site is not following its stated information policy, you may contact us at the above addresses or phone number.
 
-« BACK TO TOP
+« BACK TO TOP  
+  
+   
+   
+ 
