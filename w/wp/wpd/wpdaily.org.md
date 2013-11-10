@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wpdaily.org privacy policy that was archived on 2013-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130606165611id_/http%3A//www.wpdaily.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wpdaily.org privacy policy that was archived on 2013-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131110230519id_/http%3A//www.wpdaily.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
