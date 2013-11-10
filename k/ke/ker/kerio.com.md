@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kerio.com privacy policy that was archived on 2013-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130415192359id_/http%3A//www.kerio.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kerio.com privacy policy that was archived on 2013-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131110223520id_/http%3A//www.kerio.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Kerio
 
