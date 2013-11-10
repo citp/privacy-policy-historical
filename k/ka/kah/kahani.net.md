@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kahani.net privacy policy that was archived on 2013-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130512064445id_/http%3A//www.kahani.net/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kahani.net privacy policy that was archived on 2013-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131110183622id_/http%3A//www.kahani.net/p/privacy-policy.html) for the most accurate reproduction.*
 
 # Hindi Sex Stories, Urdu Kahani, Desi Stories, Chudai Stories
 
