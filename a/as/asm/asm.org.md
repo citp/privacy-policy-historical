@@ -1,0 +1,38 @@
+> *The following text is extracted and transformed from the asm.org privacy policy that was archived on 2013-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131110213405id_/http%3A//www.asm.org/index.php/privacy-policy) for the most accurate reproduction.*
+
+# Privacy Policy
+
+##  Privacy Policy 
+
+**ASM's Privacy Philosophy**  
+American Society for Microbiology ("ASM") is committed to maintaining your confidence and trust with respect to the information we collect from you on web sites owned and operated by ASM ("ASM Web Sites"). This Privacy Policy sets forth the information we collect about you, how we use this information, and the choices you have about how we use such information.
+
+**Cookies**  
+Like most web sites, ASM collects information regarding your use of the ASM Web Sites through the use of cookies. Cookies are anonymous, unique alphanumeric identifiers sent to your browser from a website's computers and stored on your computer. The type of information we collect as a result of a cookie being stored on your computer includes the Internet protocol (IP) address used to connect your computer to the Internet; computer and connection information such as browser type and version, operating system, and platform; and click stream data, including date and time, cookie number and content you viewed or searched for on the ASM Web Sites.
+
+We collect and use, and may from time to time supply third parties with, non-personally identifiable information as anonymous, aggregated user data for the purposes of site usage analysis, quality control and improving the ASM Web Sites. We use temporary "session" cookies to maintain information we need to have in order for you to view articles and browse from page to page. We use "persistent" cookies to give you a more personalized browsing experience and to help you navigate the Site more efficiently. In all cases in which cookies are used, the cookie will not collect personally identifiable information except with your explicit permission. You can prevent your browser from accepting new cookies, have the browser notify you when you receive a new cookie, or disable cookies altogether by accessing your browser's preferences menu.
+
+ASM Web Sites may contain links to other web sites that are beyond our control. In the event you choose to access such web sites, ASM is not responsible for any actions or policies of such third parties. We recommend that you check the applicable privacy policy of such party before submitting any information to them.
+
+**Collection and Use of Information**   
+We sometimes request users of the ASM Web Sites to provide personally identifiable information. The information collected from a user is strictly voluntary. In order to access certain content and to make use of the advanced personalization features of the ASM Web Sites, you must register and obtain a personal User Name and Password. If you register, you may be asked for your contact information, such as your name, e-mail address, postal address, and country of residence ("Personal Information"). Personal Information can only be retrieved by supplying the correct User Name and Password that is linked to your profile.
+
+The ASM Web Sites may provide you with comment boards and/or other opportunities to post information and interact with other users. In the event you voluntarily disclose personally identifiable information using such services, that information, along with any substantive information disclosed in your communication or post, can be collected, correlated and used by third parties. This may result in unsolicited messages from third parties. Such activities are beyond the control of ASM. ASM does not monitor or review the contents of any comment board message or other interactive posting option available through the ASM Web Sites.
+
+**How Personal Information Is Used**   
+We use the Personal Information that you provide for completion and support of the activity for which the information was provided, such as allowing access to or delivery of our products or services or responding to your requests or inquiries.
+
+We also may use the Personal Information for ASM Web Sites and system administration, such as for the technical support of ASM Web Sites and their computer system, including processing computer account information, information used in the course of securing and maintaining ASM Web Sites, and verification of ASM Web Sites activity by ASM Web Sites or their agents; tailoring or customizing content or design of ASM Web Sites during a single visit to an ASM Web Site and individualized personalization of ASM Web Sites on repeat visits; research and development to enhance, evaluate and improve ASM Web Sites and our services; analysis to create a profile used to determine the habits, interests or other characteristics of users for purposes of research, analysis and anonymous reporting, and communicating with you about changes or updates to ASM Web Sites or, with your consent, special offers or promotions. ASM will not share your email address with any third party without your consent. Additionally, you will have the opportunity to opt out from special offers and promotions to which you may have previously consented.
+
+**A Special Note about Children, Children's Privacy and Our Compliance with the Children's Online Privacy Protection Act**  
+In compliance with the Children's Online Privacy Protection Act (COPPA), the ASM Web Sites are intended for general audiences. ASM does not intend to collect any Personal Information from children under 13 years of age, unless we believe such collection to be permitted by law. Our ASM Web Sites target an audience that is over the age of 18 and some content may not be appropriate for all ages. Parental supervision is recommended. If you are the parent or guardian of a child under 13 and believe that he or she has disclosed Personal Information to us, please contact Martha Whittaker at [mwhittaker@asmusa.org.](mailto:mwhittaker@asmusa.org.) Upon request, the parent or guardian of a child under 13 may review and request the deletion of such child's Personal Information, as well as refuse to permit the further collection or use of such Personal Information.
+
+**Our Commitment to Data Security**   
+We recognize that your privacy is important to you, and therefore, we endeavor to keep your Personal Information confidential. The Personal information about each user is stored on servers that are behind a firewall and physically housed within a secure data center. Furthermore, our internal practices help protect your privacy by limiting employee access to and use of Personal Information. However, we do not represent, warrant, or guarantee that your personal information will be protected against unauthorized access, loss, misuse, or alterations, and do not accept any liability for the security of the Personal Information submitted to us nor for your or third parties' use or misuse of Personal Information.
+
+**About this Privacy Policy**  
+Any changes to our Privacy Policy will be posted on this page so that you are always aware of our policies.
+
+We invite your comments and questions about the ASM Web Sites, your experience with our sites and services, and our Privacy Policy. Please contact at Martha Whittaker at [mwhittaker@asmusa.org](mailto:mwhittaker@asmusa.org).
+
+If at any time you believe that we have not adhered to this Privacy Policy, please contact ASM. ASM will use reasonable efforts to resolve and disputes under this Privacy Policy and will use reasonable efforts to promptly investigate and, if necessary, correct any problem.
