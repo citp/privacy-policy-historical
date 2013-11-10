@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the thedeal.com privacy policy that was archived on 2013-05-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130530094006id_/http%3A//www.thedeal.com/about_us/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the thedeal.com privacy policy that was archived on 2013-11-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131110170627id_/http%3A//www.thedeal.com/about_us/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head><meta charset="UTF-8"> 	
   
@@ -39,10 +39,6 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 
 
-
-
-
-
 	<!--<script> 
 	$(function() {
 		$( "#tabs" ).tabs({
@@ -56,7 +52,6 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 		});
 	});
 	</script>-->
-
 
 
 
@@ -154,7 +149,7 @@ ddpanel.addEvent=function(target, functionref, tasktype){
 		tasktype: (evtmodel=="ie"? "on" : "")+tasktype,
 		listener: evtmodel=="ie"? function(){return functionref.call(target, window.event)} : functionref
 	})-1
-	target[evtaction](this.events_array[i].tasktype, this.events_array[i].listener, evtmodel=="w3c"? false : null)
+	
 }
 
 ddpanel.removeEvent=function(target, functionref, tasktype){
@@ -188,9 +183,7 @@ ddpanel.prototype={
 togglepanel:function(dir){ //public function that toggles the panel's state. Optional dir parameter ("up" or "down") to explicitly set state.
 	var setting=this.setting
 	setting.dir=dir || ((setting.dir=="up")? "down" : "up")
-	var pcontent=setting.pcontent, dir=setting.dir
-	pcontent._currentheight=(dir=="down")? pcontent._actualheight : setting.stateconfig.initial
-	pcontent.style.height=pcontent._currentheight+"px"
+
 	if (setting.pointerimage.enabled){
 		setting.arrow.src=setting.pointerimage.src[(setting.dir=="down")? 1 : 0]
 		setting.arrow.style.visibility="visible"
@@ -209,36 +202,25 @@ togglepanelplus:function(dir){ //public function that toggles the panel's state 
 
 revealcontent:function(){
 	var setting=this.setting
-	var pcontent=setting.pcontent, curH=pcontent._currentheight, maxH=pcontent._actualheight, minH=setting.stateconfig.initial, steps=setting.animate.steps, dir=setting.dir
-	if (dir=="down" && curH<maxH || dir=="up" && curH>minH){
-		var newH = curH + (Math.round((maxH-curH)/steps)+1) * (dir=="up"? -1 : 1)
-		newH=(dir=="down")? Math.min(maxH, newH) : Math.max(minH, newH)
-		pcontent.style.height=newH+"px"
-		pcontent._currentheight=newH
-	}
-	else{
+	
+	
 		if (setting.pointerimage.enabled){
 			setting.arrow.src=setting.pointerimage.src[(setting.dir=="down")? 1 : 0]
 			setting.arrow.style.visibility="visible"
 		}
 		return
-	}
+
+	
 	var thispanel=this
 	setting.revealtimer=setTimeout(function(){thispanel.revealcontent()}, 10)
+
 },
 
 initpanel:function(){
 	var setting=this.setting
-	var pcontainer=setting.pcontainer=document.getElementById(setting.ids[0])
-	var pcontent=setting.pcontent=document.getElementById(setting.ids[1])
-	var tdiv=setting.tdiv=document.getElementById(setting.ids[2])
-	pcontent.style.overflow="scroll"
-	pcontent._actualheight=pcontent.scrollHeight
-	setTimeout(function(){pcontent._actualheight=pcontent.scrollHeight}, 100)
-	pcontent.style.overflow="hidden"
-	pcontent._currentheight=(setting.dir=="down")? pcontent._actualheight : setting.stateconfig.initial
+	setting.stateconfig.initial
 	var thispanel=this
-	ddpanel.addEvent(tdiv, function(e){ //assign click behavior when toggle DIV tab is clicked on
+	ddpanel.addEvent( function(e){ //assign click behavior when toggle DIV tab is clicked on
 		if (setting.animate.enabled)
 			thispanel.togglepanelplus()
 		else
@@ -253,7 +235,7 @@ initpanel:function(){
 		setting.arrow=ddpanel.addpointer(tdiv.getElementsByTagName("span")[0], "pointerimage", setting.pointerimage.src[setting.dir=="down"? 1:0])
 	}
 	if (setting.closepanelonclick.enabled){ //assign click behavior when panel content is clicked on (links within panel or elements with class "closepanel"
-			ddpanel.addEvent(pcontent, function(e){
+			ddpanel.addEvent( function(e){
 				var target=e.srcElement || e.target
 				if (/(^|\s+)closepanel($|\s+)/.test(target.className) || target.tagName=="A" || (target.parentNode && target.parentNode.tagName=="A")){
 					thispanel.togglepanel("up")
@@ -292,9 +274,8 @@ var defaultpanel=new ddpanel({
 
 
 <script type="text/javascript" src="http://www.thedeal.com/iscroll-lite.js"></script>
-<script type="text/javascript" src="http://www.thedeal.com/oas_home_new.js"></script>
 
-
+<script type="text/javascript" src="http://www.thedeal.com/doubleclick_ns.js"></script>
 
 <style type="text/css">
 #owcb ul {list-style:none; padding:0px; margin:0px;}
@@ -451,6 +432,11 @@ var defaultpanel=new ddpanel({
               <img src="http://www.thedeal.com/b/2011/hznav/tde.gif" alt="The Deal Economy">
             <span>The Deal Economy</span>
             </a></li>
+            
+             <li><a href="http://www.thedeal.com/privateraise">
+              <img src="http://www.thedeal.com/b/img/PIPEs box.png" alt="The Deal Economy">
+            <span>PrivateRaise</span>
+            </a></li>
                                <!--    <li><a href="http://www.thedeal.com/magazine/citybycity">
               <img src="http://www.thedeal.com/b/2011/hznav/cbc.gif" alt="City by city"/>
             <span>The Deal's city by city</span>
@@ -474,7 +460,20 @@ var myScroll = new iScroll('wrapper', {vScroll: false, hScrollbar: false});
 
 </section>
 <section id="spons"><center>
-<script language="JavaScript"> OAS_AD('TopRight'); </script>
+
+
+<div id="div-gpt-ad-stopbox">
+<script type="text/javascript">
+
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-stopbox'); });
+</script>
+</div>
+<!-- thedeal.web.homen -->
+<div id="div-gpt-ad-htopbox">
+<script type="text/javascript">
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-htopbox'); });
+</script>
+</div>
 </center></section>
 </section>
 <center>
@@ -745,11 +744,11 @@ bsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 		</ul>
 		</td>-->
 		</tr></tbody></table>
-		<script language="JavaScript">
+		<!--<script language="JavaScript">
 			setupPopMenu('nt_new_menu');
 			setupPopMenu('nt_search_menu');
 			
-		</script>
+		</script>-->
 		
 		
 		</td></tr></tbody></table>
@@ -828,6 +827,7 @@ bsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <li><a href="http://www.pipeline.thedeal.com/tdd/ViewLeagueTable.dl?type=11" rel="nofollow" target="_blank">League Tables</a></li>
 <li><a href="http://pipeline.thedeal.com" rel="nofollow" target="_blank">Deal Research</a></li>
 <li><a href="http://www.pipeline.thedeal.com/mydeal/MyQueries.dl" rel="nofollow" target="_blank">Custom Search</a></li>
+<li><a href="http://www.thedeal.com/privateraise" rel="nofollow" target="_blank">PrivateRaise</a></li>
 </ul>
 </section> 
 
@@ -856,9 +856,10 @@ bsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <h3><a href="http://www.thedeal.com/knowledge/">Knowledge Centers</a></h3>
 <ul>
 <li><a href="http://www.thedeal.com/knowledge/">Home</a></li>
+<li><a href="http://www.thedeal.com/knowledge/Alvarez&amp;Marsal">Alvarez &amp; Marsal</a></li>
 <li><a href="http://www.thedeal.com/knowledge/debevoise">Debevoise &amp; Plimpton</a></li>
-
-<li><a href="http://www.thedeal.com/knowledge/podcasts/emerging-markets-india.php">Pepper Hamilton</a></li>
+<!--
+<li><a href="http://www.thedeal.com/knowledge/podcasts/emerging-markets-india.php">Pepper Hamilton</a></li>-->
 
 <li><a href="http://www.thedeal.com/knowledge/McGladreyhome">McGladrey</a></li>
 
@@ -899,7 +900,7 @@ bsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <li><a href="http://www.merrillcorp.com/" target="_blank">Merrill Corp.</a></li>
 <li><a href="http://www.mofo.com" target="_blank">Morrison &amp; Foerster</a></li>
 
-<li><a href="http://www.nasdaqomx.com/ " target="_blank">Nasdaq </a></li>
+<li><a href="http://www.oneworkspace.com " target="_blank">NASDAQ OMX</a></li>
 <li><a href="http://www.pepperlaw.com" target="_blank">Pepper Hamilton</a></li>
 <li><a href="http://www.pwc.com/us/en" target="_blank">PwC</a></li>
 <li><a href="http://www.rrdonnelley.com" target="_blank">RR Donnelley</a></li>
@@ -916,13 +917,13 @@ bsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  
 </footer>
 
-
+<!--
 <section id="sharebox">
 
-<a href="http://www.twitter.com/TheDealNewsroom" target="_blank"><img src="http://www.thedeal.com/b/2011/hznav/twitter.png" style="display:block; padding-top:12px; border:0; padding-left:15px;"></a>
-<a href="http://www.linkedin.com/groups?home=&amp;gid=134955" target="_blank"><img src="http://www.thedeal.com/b/2011/hznav/linkedin.png" style="display:block; border:0; padding-left:15px;"></a>
-<a href="http://www.facebook.com/thedealmagazine" target="_blank"><img src="http://www.thedeal.com/b/2011/hznav/facebook.png" style="display:block; border:0; padding-left:15px;"></a>
-</section>
+<a href="http://www.twitter.com/TheDealNewsroom" target="_blank"><img src="http://www.thedeal.com/b/2011/hznav/twitter.png" style="display:block; padding-top:12px; border:0; padding-left:15px;" /></a>
+<a href="http://www.linkedin.com/groups?home=&gid=134955" target="_blank"><img src="http://www.thedeal.com/b/2011/hznav/linkedin.png" style="display:block; border:0; padding-left:15px;" /></a>
+<a href="http://www.facebook.com/thedealmagazine" target="_blank"><img src="http://www.thedeal.com/b/2011/hznav/facebook.png" style="display:block; border:0; padding-left:15px;" /></a>
+</section>-->
 
 
 &nbsp;
@@ -957,6 +958,22 @@ s.t()
 
 
 
+
+
+
+<script> 
+var tdga = { 
+       product : 'TheDeal',
+       channel : 'Privacy policy Nonsub-View', 
+       contentType : '', 
+       topic : 'Privacy policy', 
+       headline : 'Privacy policy', 
+       plUser : '', 
+       plEmployee : '', 
+       source : '',
+       author : '' 
+}; 
+</script> 
 
 
 
