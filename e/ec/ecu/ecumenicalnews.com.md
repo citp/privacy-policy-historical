@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ecumenicalnews.com privacy policy that was archived on 2013-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130512161414id_/http%3A//www.ecumenicalnews.com/corporate/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ecumenicalnews.com privacy policy that was archived on 2013-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131110035612id_/http%3A//www.ecumenicalnews.com/corporate/privacy-policy) for the most accurate reproduction.*
 
 # EcumenicalNews.com - Daily Ecumenical News Online
 
