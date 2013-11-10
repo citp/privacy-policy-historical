@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the netstate.com privacy policy that was archived on 2013-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130510210729id_/http%3A//netstate.com/policy/nsprivacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netstate.com privacy policy that was archived on 2013-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131110172715id_/http%3A//www.netstate.com/policy/nsprivacy.htm) for the most accurate reproduction.*
 
 # Privacy Statement from NETSTATE.COM
 
@@ -11,7 +11,7 @@ PO Box 412,
 88 Trotting Track Road   
 Wolfeboro, NH 03894
 
-We can be reached via e-mail at [information@netstate.com](mailto:information@netstate.com) or you can reach us by telephone at (603)569-5528
+We can be reached via e-mail at [information@netstate.com](mailto:information@netstate.com) or you can reach us by telephone at (603)569-5528.
 
 For each visitor to one of our Web pages, our Web server automatically recognizes the visitor's domain name and e-mail address (where possible).
 
