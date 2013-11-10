@@ -1,134 +1,100 @@
-> *The following text is extracted and transformed from the christiebrinkleyskincare.com privacy policy that was archived on 2012-01-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120124152303id_/https%3A//www.christiebrinkleyskincare.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the christiebrinkleyskincare.com privacy policy that was archived on 2013-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131110033603id_/https%3A//www.christiebrinkleyskincare.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Website Privacy Policy | Christie Brinkley Skincare
 
-[www.christiebrinkleyskincare.com ](http://www.christiebrinkleyskincare.com/)
+Christie Brinkley Beauty Privacy Policy/ Your California Privacy Rights  
+EFFECTIVE DATE: March 24th, 2011
 
-### Privacy Policy
+This Website is published and maintained by Christie Brinkley Beauty, LLC ("Christie Brinkley Beauty"), and distributor of Christie Brinkley brand skin care products. At Christie Brinkley Beauty, we take your privacy very seriously. We have prepared this Privacy Policy to describe the types of personal and non-personal information we collect, how we use such information, and to whom and under what circumstances we disclose such information. (By personal information or personally identifiable information, we mean information by which you can be identified, such as your name, address, telephone number, etc.). By using our Website and/or ordering any of our products or services (collectively "Services"), you signify your assent to the collection, use and disclosure of your personally identifiable information as described in this Privacy Policy. If you do not agree to the terms of this Privacy Policy, you must discontinue using the Website and/or our Services.
 
-  
+### Collection of Information
 
+### Information We Collect From You
 
-### EFFECTIVE DATE: November 15th, 2011
+As a general policy, Christie Brinkley Beauty only collects personal information from you when you voluntarily provide it to us, such as by: (1) placing an order; (2) registering on the Website; (3) contacting us (including when you speak with our product specialists and other employees) by email, telephone or through any of the contact forms found on our website; and (4) completing any surveys. In connection with these activities, we may collect personal information, including, but not limited to, your name, shipping and billing addresses, e-mail address, telephone number, credit card number, credit card expiration date, other unique identifiers, and other demographic information. By making a purchase on our Website, you consent to our providing your financial information to our services providers and other third parties we determine are necessary to process your transaction, such as a credit card company or banking institution. When you provide us with information in connection with an order or otherwise sign up for our Services or provide your contact information, including an email address or telephone number in connection with such activity, you agree that this action constitutes a purchase or inquiry establishing a business relationship with us. You expressly consent to our communicating with you future information about our products and services using the information you provided to us. You also attest that you have the legal authority over any telephone number you provide to us and can provide us with the authorization to contact you. This means we may contact you, in person or by recorded message, by e-mail, telephone and/or mobile telephone number (including use of automated dialing equipment), text (SMS) message, or any other means of communication that your wireless or other telecommunications device may be capable of receiving. We may supplement information you give us with information from other sources, such as information to validate or update your address, payment card or other demographic and lifestyle information.
 
-This privacy statement describes how Christie Brinkley Beauty, LLC collects and uses the personal information you provide on our Web site: [www.christiebrinkleyskincare.com ](http://www.christiebrinkleyskincare.com/). It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
+### Web Logs
 
-### Collection and Use of Personal Information  
+As part of the standard operation of our Website and Internet servers, we may collect certain non-personal information from you including, but not limited to, your IP address and the domain name from which you accessed the Website. We may also use individual information we collect through web logs to send you targeted offers and other communications. In addition, we may collect information about your browsing behavior, such as the date and time you visit our Website, the areas or pages of our Website that you visit, the amount of time you spend viewing our Website, the number of times you return to our Website, and other click-stream data. 
 
+### Cookies
 
-We collect the following personal information from you
+We use cookies to collect information. A cookie is a small text file that may be stored on the hard drive of your computer when you access our Website. We use session cookies to make it easier for you to navigate our Website. A session ID cookie expires when you close your browser. We use persistent cookies to differentiate visitors to our Websites from customers, to customize the content of certain sections of the Websites and to enable us to track and cater to the interests of users, in order to enhance their experience on the Websites. A persistent cookie remains on your hard drive for an extended period of time. You can remove persistent cookies by following directions provided in your Internet browser's "help" file. Cookies help us learn which areas of our Websites are useful and which areas need improvement.
 
-  * Contact Information such as name, email address, mailing address, phone number
-  * Billing Information such as credit card number, and billing address
-  * Preferences Information such as product wish lists, order history, marketing preferences
-  
+We may also use cookies to: (1) track and report your order to an affiliate Company so that affiliate may receive credit for your order, when applicable (the affiliate company may have also placed a cookie on your computer for this purpose); (2) conduct research to improve our content and services; (3) access your account when you login to the Website and provide you with customized content, when applicable; and (4) require you to re-enter your password periodically to help prevent others from accidentally accessing your account information, when applicable.
 
+You are always free to decline cookies, but by doing so, you may not be able to use certain features on the Website or take full advantage of all of our offerings. You can configure your browser to accept all cookies, reject all cookies, erase cookies, or notify you when a cookie is set. (Each browser is different, so check the "Help " menu of your browser to learn how to change your cookie preferences.)
 
+### Other Information
 
-We also collect the following information from you
+We may also collect information about you through other methods, including research surveys or information we obtain from third parties, including verification services, data services, as well as public sources. We use this information to continually offer you the most value as a user of our Website and Services.
 
-  * Demographic information such as age, education, gender, interests and zip code
-  
+### Access to Information You Provide to Us
 
+You may access any personal information you provide to us, correct or modify any such personal information, or direct us to make no further use of your personal information. To do so, please send an email with your request by clicking here.
 
+**Your California Privacy Rights**
 
-As is true of most Web sites, we automatically gather information about your computer such as your IP address, browser type, referring/exit pages, and operating system.
+Christie Brinkley Beauty complies with Section 1798.83 of the California Civil Code – the 'Shine the Light Law'.
 
-We use this information to
+Under Section 1798.83 of the California Civil Code, residents of California that have an established business relationship with Christie Brinkley Beauty and that have provided certain personal information to Christie Brinkley Beauty (“California Consumer”) have the right to request certain information from Christie Brinkley Beauty. California Consumers may request that Christie Brinkley Beauty disclose (i) the types of personal information shared with third parties for those third parties' direct marketing purposes, if any and (ii) the identity of any such third party with whom Christie Brinkley Beauty has shared personal information, if any, during the previous calendar year.
 
-  * Fulfill your order
-  * Send you an order confirmation
-  * Assess the needs of your business to determine suitable products
-  * Send you requested product or service information
-  * Send product updates or warranty information
-  * Respond to customer service requests
-  * Administer your account
-  * Send you a newsletter
-  * Send you marketing communications
-  * Administer contests and sweepstakes you entered, and notify you if you won
-  * Respond to your questions and concerns
-  * Improve our Web site and marketing efforts
-  * Conduct research and analysis
-  * Display content based upon your interests
+California Consumers may make one such request each year. 
 
+To submit a request for information please email Christie Brinkley Beauty at [CAprivacy@christiebrinkleyskincare.com](mailto:CAprivacy@christiebrinkleyskincare.com). Please include "Request for California Privacy Information" in the subject line and in the body of your e-mail. Christie Brinkley Beauty will respond with the requested information, if any, to the email. 
 
+### Use of Information
+
+We may use the information we collect from you for any of the following purposes: (1) to fulfill your requests for certain products and services; (2) to provide you with targeted offers based on your specific requests or your stated preference to receive certain categories of offers; (3) to send you information and promotional materials and offers from our company as well as from our subsidiaries, affiliates, marketing partners, advertisers, and other third parties; (4) to deliver targeted display advertisements and offers (by matching criteria provided by our advertisers with information collected from our visitors); (5) to enable our marketing partners, advertisers, and other third parties to communicate with individuals; (6) to contact visitors of our Website when necessary; (7) to help address problems with our Website or Services; (8) to administer our Website; (9) to conduct internal reviews of our Website (for example, to determine the number of visitors to specific pages within the Website); (10) to help us better understand visitors’ use of our Website; (11) to protect the security or integrity of our Website; and (12) for customer service. Non-personal information may be used for these purposes as well to monitor our Website, provide a greater online experience for our visitors, identify the source of orders and obtain accurate aggregate demographic usage patterns.
+
+If you provide credit card or other authorized payment method information to Christie Brinkley Beauty, you authorize Christie Brinkley Beauty, or a credit card processor of its choosing to receive appropriate billing information, bill such credit card or to make such charges as applicable
+
+### Disclosure of Information
+
+Christie Brinkley Beauty may transfer or otherwise disclose information collected from you, including your financial account information, to the following entities for the following purposes: (1) to our employees, independent contractors, subsidiaries, affiliates, consultants, business associates, service providers, and suppliers to perform a business, professional, or technical support function for us; (2) to our employees, independent contractors, service providers and suppliers, subsidiaries and affiliates to fulfill a product or service request; (3) to our marketing and business partners and advertisers and our subsidiaries and affiliates, who may use the information in connection with their business operations, such as to send marketing and other communications to visitors of the Website; (4) as necessary if Christie Brinkley Beauty determines that there has been a violation of the Terms of Use; (5) as necessary if we have reason to believe that such disclosure is necessary to identify, contact, or bring legal action against someone who may be causing injury to or interference (either intentionally or unintentionally) with our rights or property, our Website, other users of our Website, or anyone else that could be harmed by such activities; (6) to respond to judicial process and provide information to law enforcement agencies or in connection with an investigation on matters related to public safety, as permitted by law, or otherwise as required by law; and (7) as provided for under the "Unforeseen Circumstances " section below. Christie Brinkley Beauty may also sell, rent, or lease any personal information collected from you to any of its marketing partners, advertisers, or other third parties. We may also send you service-related announcements and emails from time to time relating to your orders or account such as order confirmations and payment-card charge notifications. We may also send you strictly service-related announcements on rare occasions when it is necessary to do so. For instance, if the delivery of a product is delayed we might send you a notice, or if there is some service issue with something you might have ordered. You may not opt-out of these communications, which are not promotional in nature.
 
 ### Choice/Opt-Out
 
-You may choose to stop receiving our newsletter or marketing emails by following the unsubscribe instructions included in these emails or you can contact us at [support@christiebrinkleyskincare.com ](mailto:support@christiebrinkleyskincare.com).
-
-### Information Sharing
-
-We will share your personal information with third parties only in the ways that are described in this privacy statement. We do not sell your personal information to third parties.
-
-We may provide your personal information to companies that provide services to help us with our business activities such as shipping your order or offering customer service. These companies are authorized to use your personal information _only as necessary to provide_ these services to us.
-
-We may also disclose your personal information
-
-  * as required by law such as to comply with a subpoena, or similar legal process
-  * when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request, 
-  * if Christie Brinkley Beauty, LLC is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information, 
-  * to any other third party with your prior consent to do so. 
-
-
-
-### Your California Privacy Rights  
-
-
-Christie Brinkley Beauty complies with Section 1798.83 of the California Civil Code - the 'Shine The Light Law'.
-
-Under Section 1798.83 of the California Civil Code, residents of California that have an established business relationship with Christie Brinkley Beauty and that have provided certain personal information to Christie Brinkley Beauty ("California Consumer") have the right to request certain information from Christie Brinkley Beauty. California Consumers may request that Christie Brinkley Beauty disclose (i) the types of personal information shared with third parties for those third parties' direct marketing purposes, if any and (ii) the identity of any such third party with whom Christie Brinkley Beauty has shared personal information, if any, during the previous calendar year.
-
-California consumers may make one such request each year.
-
-To submit a request for information please email Christie Brinkley Beauty at[ support@christiebrinkleyskincare.com](mailto:support@christiebrinkleyskincare.com). Please include "Request for California Privacy Information" in the subject line and in the body of your e-mail. Christie Brinkley Beauty will respond with the requested information, if any, to the email.
-
-### Cookies and other Tracking Technologies
-
-We do not use cookies on this site.
-
-_Web beacons  
-_
-
-Our Web pages may also contain electronic images known as Web beacons (sometimes called single-pixel gifs) that are set by our third party partners. Web beacons are used along with cookies enabling our partners to compile aggregated statistics to analyze how our site is used. 
-
-We use a third party to gather information about how you and others use our Web site. For example, we will know how many users access a specific page and which links they clicked on. We use this aggregated information to understand and optimize how our site is used.
-
-_Links to Other Web Sites  
-_
-
-Our Site includes links to other Web sites whose privacy practices may differ from those of Christie Brinkley Beauty, LLC. If you submit personal information to any of those sites, your information is governed by their privacy statements. We encourage you to carefully read the privacy statement of any Web site you visit. 
-
-### Security
-
-The security of your personal information is important to us. When you enter sensitive information (such as credit card number) on our order forms, we encrypt the transmission of that information using secure socket layer technology (SSL).
-
-We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security.
-
-If you have any questions about security on our Web site, you can contact us at [support@christiebrinkleyskincare.com ](mailto:support@christiebrinkleyskincare.com)
-
-### Additional Policy Information
-
-Our Web site includes Widgets, which are interactive mini-programs that run on our site to provide specific services from another company (e.g. displaying the news, opinions, music, etc). Personal information, such as your email address, may be collected through the Widget. Cookies may also be set by the Widget to enable it to function properly. Information collected by this Widget is governed by the privacy policy of the company that created it. 
-
-### Correcting and Updating Your Personal Information
-
-To review and update your personal information to ensure it is accurate, contact us at [support@christiebrinkleyskincare.com ](mailto:support@christiebrinkleyskincare.com). 
-
-### Notification of Privacy Statement Changes
-
-We may update this privacy statement to reflect changes to our information practices. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices. 
-
-### Children
-
-We do not direct our Website to, nor do we knowingly collect any personal information from, children under eighteen.
-
-### Contact Us
-
-You can contact us about this privacy statement by writing or email us at the address below:
+If you prefer not to receive electronic promotional communications, you can opt-out by following the unsubscribe instructions included in each communication You may remove your information from our database so as not to receive future promotional communications from us or to close your account or opt out of our sharing information with third parties for marketing purposes by emailing us at [support@ChristieBrinkleyskincare.com](mailto:support@ChristieBrinkleyskincare.com) or sending mail to the following address:
 
 Christie Brinkley Beauty  
 22631 Pacific Coast Highway  
 PMB 383  
 Malibu, CA 90265  
-email: [support@christiebrinkleyskincare.com](mailto:support@christiebrinkleyskincare.com)
+
+
+Please note, changes may not be effective immediately. In each event, you must clearly indicate the information that you wish to have changed or clearly indicate that you wish to have your personally identifiable information removed from our database. We will endeavor to comply with your request as soon as reasonably possible. Note that despite any request for removal of or change to personally identifiable information, we may need to retain certain information for recordkeeping purposes and there may also be residual information that will remain within our databases and other records, which will not be removed or changed. Finally, we are not responsible for informing third parties (including without limitation our third party service providers or strategic partners) with whom we have already shared your personally identifiable information of any changes requested pursuant to this section, or for removing information from or causing information to be removed from the databases or records of such entities.
+
+### Security
+
+Christie Brinkley Beauty features security measures designed to protect against the loss, misuse or alteration of information placed under our control. We maintain physical, electronic, contractual, and managerial steps designed to safeguard and secure the information we collect from visitors to our Website. Our servers have been enabled with Secure Socket Layer (SSL) technology to help prevent unauthorized parties from viewing your non-public personal information that you give or access during a secure session. However, no data transmission over the Internet can be guaranteed to be 100% secure. As a result, while we are committed to protecting your information, we cannot warrant or ensure the security of any information you provides to us.
+
+### Children
+
+We do not direct our Website to, nor do we knowingly collect any personal information from, children under eighteen.
+
+### Third Party Websites
+
+Our Website may contain links to other third party Websites (such as those of our marketing partners or advertisers), which may have privacy policies that differ from our own. We are not responsible for the activities and practices that take place on these Websites. Accordingly, we recommend that you review the privacy policy posted on any web site that you may access through our Website.
+
+### Unforeseen Circumstances
+
+In the event that we, or any of our businesses, are sold or disposed of as a going concern, whether by merger, sale of assets or otherwise, or in the event of an insolvency, bankruptcy or receivership, personally identifiable information of visitors to our Site and customers may be one of the assets sold or merged in connection with that transaction. Personal information may also need to be disclosed in connection with a commercial transaction where we or any one of our businesses are seeking financing, investment, support or funding. In such transactions, personal information may be one of the transferred assets.
+
+A Note To International Users. The Website is hosted in the United States. If you are using the Website from outside the United States, by providing your information to the Websites, you are consenting to the transfer of your information to the United States for processing and maintenance in accordance with this Privacy Policy and our Terms of Use. You are also consenting to the application of United States law in all matters concerning the Websites.
+
+### Changes
+
+If we change this Privacy Policy, we will post those changes here and revise the Effective Date accordingly. We may revise and update this Privacy Policy if our practices change, as technology changes, or as we add new services or change existing ones. If we make any material changes to our Privacy Policy or how we handle your personal information, you will know because the Effective Date of the Privacy Policy will change. By using our Sites or Services after the Effective Date, you are deemed to consent to our then-current privacy policy. We will use information previously obtained in accordance with the privacy policy in effect when the information was obtained from you.
+
+This Policy is part of the Terms of the Site and any use of the Site is governed by those Terms.
+
+### Contact Us
+
+Please relay any questions you may have pertaining our above stated policies to our Customer Service Department via email by clicking here or by calling 1-888-204-0338 or sending a letter to:
+
+Christie Brinkley Beauty  
+22631 Pacific Coast Highway  
+PMB 383  
+Malibu, CA 90265  
+
