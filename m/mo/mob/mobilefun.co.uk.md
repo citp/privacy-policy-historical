@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mobilefun.co.uk privacy policy that was archived on 2013-01-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130131124515id_/http%3A//www.mobilefun.co.uk/blog/information/security-and-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mobilefun.co.uk privacy policy that was archived on 2013-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131110220803id_/http%3A//www.mobilefun.co.uk/blog/information/security-and-privacy) for the most accurate reproduction.*
 
 # Security and Privacy | Mobile Fun Blog
 
@@ -8,31 +8,9 @@
 
 Mobile Fun is aware that you care how information about you is used and shared. We assure **the highest level of safety and security** for our customers and have established state-of-the-art technological protection measures to ensure that all of our transaction processes, both online and offline, are extremely safe
 
-You can shop with confidence at Mobile Fun, knowing that your personal information, including name, address and credit card information, is protected by **VeriSign Secure Site Technology**. Our industry standard encryption ensures no one can access or use your personal information. But our security procedures don’t stop there: your order details are then encrypted with 1024-bit PGP technology before it is communicated to the Mobile Fun sales and despatch team.
+You can shop with confidence at Mobile Fun, knowing that your personal information, including name, address and credit card information, is protected by **VeriSign Secure Site Technology**. Our industry standard encryption ensures no one can access or  use your personal information. But our security procedures don’t stop there: your order details are then encrypted with 1024-bit PGP technology before it is communicated to the Mobile Fun sales and despatch team.
 
 All Internet host IP addresses are also recorded for security reasons when placing an order online, which may identify your computer and Internet connections, for fraud-prevention purposes.
-
-Mobile Fun Limited is an active member of IMRG (Interactive Media Retail Group) and is an **ISIS** **(Internet Shopping is Safe) accredited safe shop** , which certifies that we have:
-
-  * Registered with the ISIS programme and undertaken to trade in a manner that is LEGAL, DECENT, HONEST, TRUTHFUL AND FAIR.
-  * Our web site and service reviewed and monitored by IMRG.
-  * Our Business, VAT and Data Protection registrations checked by IMRG.
-
-
-
-We are also an **IDIS (Internet Delivery Is Safe) accredited retailer** , which means we guarantee our customers have the right to:
-
-  * Clear delivery information before you place your order.
-  * Convenient delivery options.
-  * Notification of any delivery limitations / conditions.
-  * Charges that are complete and simple to understand.
-  * Access to information on your order progress.
-  * Delivery within the agreed time frame.
-  * Helpful support with failed / late / attempted deliveries.
-  * Your goods arriving in good condition.
-  * A clear returns process.
-
-
 
 When you shop at Mobile Fun, you can be sure that it’s going to be a hassle-free, rewarding online shopping experience!
 
