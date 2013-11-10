@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cancelon.com privacy policy that was archived on 2013-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130531121519id_/http%3A//www.cancelon.com/page/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cancelon.com privacy policy that was archived on 2013-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131110233330id_/http%3A//www.cancelon.com/page/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -12,12 +12,9 @@ The use of the Website and its services require registration. When you sign up f
 You must provide only true, accurate and complete information and you hereby confirm that the information provided by you answers to this description.
 
   
-The information you provide in your registration will be kept by the administration of the Website. In case of a transaction between two users and in order to change a name on a reservation, Cancelon will share, both with Buyer and Seller, the full name of the other party.
+The information you provide in your registration will be kept by the administration of the Website. In case of a transaction between two users and in order to change a name on a reservation, Cancelon will share, both with Buyer and Seller, the full name of the other party.  
 
-  
-In case a transaction is made directly between a Seller and a Buyer, without the mediation of Cancelon, the parties will need to share their full names and will decide, upon their own discretion and responsibility, what other information to provide each other with.
 
-  
 You are not required to provide us with any information, but incorrect information or failure to provide all required information may prevent you from using the services on the Website, affecting the quality of the services provided to you as well as impair the ability to contact you. If your details have changed, you should update them in the Website.
 
 When you provide personal information of third parties, you acknowledge that you have received their explicit consent to deliver the information to the Website management for the usage of the Website according to this Privacy Policy.
@@ -27,7 +24,7 @@ When you provide personal information of third parties, you acknowledge that you
 
 We collect, store and use the following kinds of our users' personal information:
 
-(a) information relating to any transactions carried out between you and us on or in relation to the Website, including information relating to any purchases you make of our goods or services. In case of a transaction made Seller and Buyer directly, without the mediation of Cancelon, we will have only the information Seller and Buyer provide is with.
+(a) information relating to any transactions carried out between you and us on or in relation to the Website, including information relating to any purchases you make of our goods or services. 
 
 (c) information that you provide to us for the purpose of registering with us.
 
@@ -35,7 +32,7 @@ We collect, store and use the following kinds of our users' personal information
 
 (e) any other information that you choose to send to us.
 
-(f) other information. different kinds of personal information which may be collected over or in relation to the Website, such as, but not limited to adds you read, pages you viewed, the services that interested you.
+(f) other information. different kinds of personal information which may be collected over or in relation to the Website, such as, but not limited to ads you read, pages you viewed, the services that interested you.
 
 By using the Website you allow the management of the Website to collect and to get the assistance of third parties to collect analytic, anonymous, statistical and aggregative data with relation to your usage of the Website, including information that is relevant to your information and your action on the Website.
 
@@ -89,7 +86,7 @@ We use Google Analytics to analyse the use of the Website. Google Analytics gene
 
 Our payment services providers, Paypal, may also send you cookies. Paypal’s privacy policy is available at: https://cms.paypal.com/il/cgi-bin/marketingweb?cmd=_render-content&content_ID=ua/Privacy_full&locale.x=en_US
 
-Most browsers allow you to reject all cookies, whilst some browsers allow you to reject just third party cookies. For example, in Internet Explorer you can refuse all cookies by clicking “Tools”, “Internet Options”, “Privacy”, and selecting “Block all cookies” using the sliding selector. Blocking all cookies will, however, have a negative impact upon the usability of many websites, including this one.
+Most browsers allow you to reject all cookies, whilst some browsers allow you to reject just third party cookies. For example, in Internet Explorer you can refuse all cookies by clicking “Tools”, “Internet Options”, “Privacy”, and selecting “Block all cookies” using the sliding selector. Blocking all cookies will, however, may have a negative impact upon the usability of many websites, including this one.
 
   
 5) Disclosures
@@ -119,7 +116,7 @@ In addition, we may disclose your personal information:
 
 (j) with your consent. Other than as detailed above, we will sent you a notice when information about you might go to third parties, and you will have an opportunity to choose not to share the information.
 
-(k) to third-party service providers: we employ and work with other business to perform functions on our behalf. For examples: analyzing data, providing marketing assistance, providing search results and links, processing credit card payments. They have access to personal information needed to perform their functions, but may not use it for other purposes.
+(k) to third-party service providers: we employ and work with other businesses to perform functions on our behalf. For examples: analyzing data, providing marketing assistance, providing search results and links, processing credit card payments. They have access to personal information needed to perform their functions, but may not use it for other purposes.
 
 (l) to promotional offers: we may send to our users special offers and promotions on behalf of other businesses. In these cases, we will not give those businesses your personal information.
 
@@ -139,7 +136,7 @@ We are taking reasonable technical and organizational precautions to secure your
 
 Of course, data transmission over the Internet is inherently insecure, and we cannot guarantee the security of data sent over the Internet.
 
-You are responsible for keeping your password and user details confidential. It is extremely important that you protect against unauthorized access to your password and to you computer. Always sign off when finished using our site.
+You are responsible for keeping your password and user details confidential. It is extremely important that you protect against unauthorized access to your password and to your computer. Always sign off when finished using our site.
 
 8) Policy amendments
 
