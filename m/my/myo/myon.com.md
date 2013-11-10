@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myon.com privacy policy that was archived on 2013-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130604045506id_/http%3A//myon.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myon.com privacy policy that was archived on 2013-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131110104451id_/http%3A//www.myon.com/privacy.html) for the most accurate reproduction.*
 
 # myON®
 
@@ -29,12 +29,13 @@ You may access the data collected by myON about you by sending a request to the 
   1. sending an e-mail request to myonreader@capstonedigital.com; or 
   2. sending a letter via the U.S. Mails to:  
 Manager of Web Site Development  
-myON  
-151 Good Counsel Drive  
-Mankato, MN 56002   
-Please understand that in order to protect your privacy and security, we may also need to take reasonable steps to verify your identity before granting access or making corrections.
+MyON  
+1710 Roe Crest Drive  
+N. Mankato, MN 56003 
 
 
+
+Please understand that in order to protect your privacy and security, we may also need to take reasonable steps to verify your identity before granting access or making corrections. 
 
 ### INTEGRITY/SECURITY OF THE DATA COLLECTED
 
@@ -47,6 +48,6 @@ If for some reason you believe that myON has not adhered to its privacy policy, 
 _Your Acceptance of These Terms_  
 By using this Web site, you signify your assent to this policy statement regarding online privacy. myON may change the terms of its privacy policy with or without notice to you. It is your responsibility to review the terms of this privacy policy. If you do not agree to this policy statement, then you may not use the Web site. Your continued use of the Web site following the posting of changes to these terms will mean you accept those changes. If you have any questions about this policy statement, the practices of this Web site, or your dealings with myON, you may contact us at addressed given above.
 
-###### Last Revised: August 31, 2010
+###### Last Revised: August 15, 2013
 
-###### © 2010 Capstone Publishers
+###### © 2013 Capstone Publishers
