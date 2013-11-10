@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cyber12.com privacy policy that was archived on 2013-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130529151517id_/http%3A//cyber12.com/page-Privacy_Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cyber12.com privacy policy that was archived on 2013-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131110201520id_/http%3A//www.cyber12.com/page-Privacy_Policy.html) for the most accurate reproduction.*
 
 # Free Anime Download - Privacy Policy
 
@@ -27,6 +27,10 @@ Currently we assign cookies to our readers in order to save their preferences. T
 **Third Party Cookies**
 
 Many of our advertisers use cookies in order to determine the number of times you have seen an advertisement. This is done to limit the number times you are shown the same advertisement. Cyber12.com does not have access to this data.
+
+**Cookies & 3rd Party Advertisements**
+
+Google, as a third party vendor, uses cookies to serve ads on your site. Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
 
 **Traffic Reports**
 
