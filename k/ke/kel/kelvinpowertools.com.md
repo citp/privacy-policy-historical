@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the kelvinpowertools.com privacy policy that was archived on 2013-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130503132227id_/http%3A//www.kelvinpowertools.com/privacy-policy-W21page-52-) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kelvinpowertools.com privacy policy that was archived on 2013-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131110060153id_/http%3A//www.kelvinpowertools.com/privacy-policy-W21page-52-) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | kelvinpowertools.com
 
 Kelvin Power Tools Ltd ("We") are committed to protecting and respecting your privacy.  
 This policy (together with our terms and conditions [SEE NOW](https://web.archive.org/Terms-and-Conditions-W21page-53-) and any other documents referred to on it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us.  Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.
