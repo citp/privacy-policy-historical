@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ripe.net privacy policy that was archived on 2013-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130430000913id_/http%3A//www.ripe.net/lir-services/ncc/legal/ripe-ncc-privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ripe.net privacy policy that was archived on 2013-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131110184838id_/http%3A//www.ripe.net/lir-services/ncc/legal/ripe-ncc-privacy-statement) for the most accurate reproduction.*
 
 # RIPE NCC Privacy Statement — RIPE Network Coordination Centre
 
@@ -68,7 +68,7 @@ In addition to the above, the RIPE NCC may register, process or transfer your pe
 
 The RIPE NCC maintains strict procedures to authenticate people’s identification and verify their right to authorise changes in the RIPE Database.
 
-Personal data held in the public RIPE Database is available to the public. Use of the RIPE Database by members of the public is subject to the [RIPE Database Terms and Conditions](http://www.ripe.net/lir-services/data-tools/support/documentation/db-tc). The RIPE NCC operates a technical limiting process as well as an [Acceptable Use Policy](http://www.ripe.net/lir-services/data-tools/support/documentation/aup) to prevent data mining of large amounts of personal data through use of the RIPE Database query service. People attempting to abuse this service will have their access to the RIPE Database blocked.
+Personal data held in the public RIPE Database is available to the public. Use of the RIPE Database by members of the public is subject to the [RIPE Database Terms and Conditions](http://www.ripe.net/data-tools/support/documentation/db-tc). The RIPE NCC operates a technical limiting process as well as an [Acceptable Use Policy](http://www.ripe.net/data-tools/support/documentation/aup) to prevent data mining of large amounts of personal data through use of the RIPE Database query service. People attempting to abuse this service will have their access to the RIPE Database blocked.
 
 The RIPE NCC maintains a high level of physical security and protection for all its computer and network facilities, and, in particular, for those in which personal information may be stored.
 
