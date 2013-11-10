@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bodyc.com privacy policy that was archived on 2013-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130329090742id_/http%3A//www.bodyc.com/service/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bodyc.com privacy policy that was archived on 2013-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131110121758id_/http%3A//www.bodycentral.com/service/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | Body Central
 
@@ -7,9 +7,9 @@ Last modified: February 2013
 
 1.    INTRODUCTION
 
-    Purpose.  The purpose of this Privacy Policy is to describe how Body Central Direct (“Body Central”) collects, uses and shares information about you through our U.S. online interfaces (e.g., websites and mobile applications) owned and controlled by us, including www.bodyc.com  (collectively referred to herein as the “Site”).  Please read this notice carefully to understand what we do. If you do not understand any aspects of our Privacy Policy, please feel free to 
+    Purpose.  The purpose of this Privacy Policy is to describe how Body Central Direct (“Body Central”) collects, uses and shares information about you through our U.S. online interfaces (e.g., websites and mobile applications) owned and controlled by us, including www.bodycentral.com  (collectively referred to herein as the “Site”).  Please read this notice carefully to understand what we do. If you do not understand any aspects of our Privacy Policy, please feel free to 
 
-[Contact Us](http://www.bodyc.com/service/contact.aspx) or as described at the end of this Policy. 
+[Contact Us](http://www.bodycentral.com/service/contact.aspx) or as described at the end of this Policy. 
 
     Our Privacy Policy explains: 
 
@@ -28,7 +28,7 @@ Last modified: February 2013
 
     Terms of Use.  Please note that your use of our Site is also subject to our 
 
-[Terms of Use](http://www.bodyc.com/service/terms.aspx).
+[Terms of Use](http://www.bodycentral.com/service/terms.aspx).
 
 2.    INFORMATION WE COLLECT AND WHY WE COLLECT IT
 
@@ -62,7 +62,7 @@ Last modified: February 2013
 
 
 
-No Information From Children Under Age 13.  If you are under the age of 13, please do not attempt to register with us at this Site or provide any personal information about yourself to us.  If we learn that we have collected personal information from a child under the age of 13, we will promptly delete that information.  If you believe we might have any information from a child under the age of 13, please [Contact U](http://www.bodyc.com/service/contact.aspx)s or call Customer Service at (800) 741-9696. 
+No Information From Children Under Age 13.  If you are under the age of 13, please do not attempt to register with us at this Site or provide any personal information about yourself to us.  If we learn that we have collected personal information from a child under the age of 13, we will promptly delete that information.  If you believe we might have any information from a child under the age of 13, please [Contact U](http://www.bodycentral.com/service/contact.aspx)s or call Customer Service at (800) 741-9696. 
 
     Information We Collect Automatically.  We collect certain information automatically as you use our Site, such as 
 
@@ -84,13 +84,18 @@ Cookies.  When you visit our Site we send one or more “cookies” to your com
 
     Pixel Tags.  We may use “pixel tags,” also known as “web beacons,” which are small graphic files that allow us to monitor the use of our websites.  A pixel tag is a type of technology placed on a website or within the body of an email for the purpose of tracking activity on websites, or when emails are opened or accessed, and is often used in combination with cookies. A pixel tag can collect information such as the IP (Internet Protocol) address of the computer that downloaded the page on which the tag appears; the URL of the page on which the pixel tag appears; the time the page containing the pixel tag was viewed; the type of browser that fetched the pixel tag; and the identification number of any cookie on the computer previously placed by that server. 
 
-3.    HOW WE USE AND SHARE YOUR INFORMATION
+  
+Text/SMS Messaging.  Body Central Alerts offers mobile access to various promotions and other announcements over SMS. Enrollment can be achieved by texting BODY to 737269 and following the double opt-in instructions provided to you over SMS. The mobile phone number's verification message along with all other SMS messages may have standard text and data rates that apply. Users will be allowed to opt-out of this program at any time by sending the message STOP to 737269 or by emailing [help@pgminf.com](mailto:help@pgminf.com) with the subject line “STOP” along with your 10 digit mobile number. Message frequency is no more than 10 autodialed SMS messages per month, however we will respond to each of your requests for information. Consent is not required to purchase goods or services from Body Central. 
+
+If your mobile telephone number and/or mobile provider change, you agree to notify Body Central and provide your updated mobile telephone number and/or updated mobile provider. If you are sending an inbound text message to Body Central and do not receive a response, please contact your mobile provider for support. Some devices and mobile providers may not be SMS compatible, please contact your mobile provider for additional support.
+
+You can contact us at 877-471-4885 with questions about the text messaging program, or by texting HELP to 737269.3.    HOW WE USE AND SHARE YOUR INFORMATION
 
     To Provide Products, Services, and Information.  As described above, we collect information from you so that we can provide products and services that you purchase using the Site, and provide information that you request from us.  We use your personal information to contact you about your orders, process credit card / debit card transactions, and ship products to you.  We may send you information about our products and services, and new offerings. We may provide information to third party service providers that help us process orders, and fulfill and deliver products and services that you purchase from us.
 
     We may use third parties to help host our Site, send out email updates about the Site, provide marketing and advertising services for us, remove repetitive information from our user lists, and process payments. These service providers will have access to your personal information in order to provide these services, but when this occurs we implement reasonable contractual and technical protections to limit their use of that information to helping us provide the service. We use demographic information to better understand our customers, and improve our products and services.
 
-   Advertising and Marketing. We may use how you browse and shop in order to show you ads for Body Central or our advertising partners that are more relevant to your interests. We may use our own cookies and other information to provide relevant interest-based advertising to you. Interest-based ads are ads presented to you based on your browsing behavior in order to provide you with ads more tailored to your interests. These interest-based ads may be presented to you while you are browsing our site or third-party sites not owned by Body Central. You can opt-out of tracking for interest-based ads provided directly by Body Central by clicking [here](http://www.networkadvertising.org/).
+   Advertising and Marketing. We may use how you browse and shop in order to show you ads for Body Central or our advertising partners that are more relevant to your interests. We may use our own cookies and other information to provide relevant interest-based advertising to you. Interest-based ads are ads presented to you based on your browsing behavior in order to provide you with ads more tailored to your interests. These interest-based ads may be presented to you while you are browsing our site or third-party sites not owned by Body Central. You can opt-out of tracking for interest-based ads provided directly by Body Central by clicking [here](http://dtmc.bodycentral.com/adinfo/adchoices_fpc.html?cid=2507&cname=Body%20Central&cmagic=836917&clogo=bodycentral.png).
 
 To learn more about the use of this information or choose not to have this information used by our third-party advertising partner by opting out please visit the Network Advertising Initiative by clicking [here](http://www.networkadvertising.org/). 
 
@@ -118,13 +123,13 @@ of receiving interest-based advertising from Dotomi, please visit Dotomi’s pri
 
     You can access and update certain information we have relating to your online account by logging into your account.  If you have questions about personal information we have about you or need to update your information, you can 
 
-[Contact Us](http://www.bodyc.com/service/contact.aspx) or call Customer Service at (800) 741-9696. You can opt-out of receiving marketing and promotional e-mails from Body Central by the following:  
+[Contact Us](http://www.bodycentral.com/service/contact.aspx) or call Customer Service at (800) 741-9696. You can opt-out of receiving marketing and promotional e-mails from Body Central by the following:  
 
 
   * Call Customer Service at (800) 741-9696 Monday-Friday 9AM-6PM EST
   * Email Customer Service at customerservice@bodyc.com
   * Use the unsubscribe link contained in our marketing e-mails
-  * Use the Catalog [Opt-out Link](http://www.bodyc.com/service/catalog.aspx) in the [Contact Us](http://www.bodyc.com/service/contact.aspx) section of our Site.
+  * Use the Catalog [Opt-out Link](http://www.bodycentral.com/service/catalog.aspx) in the [Contact Us](http://www.bodycentral.com/service/contact.aspx) section of our Site.
 
 
 
@@ -144,7 +149,7 @@ of receiving interest-based advertising from Dotomi, please visit Dotomi’s pri
 
     If you have any questions, concerns, complaints or suggestions regarding our Privacy Policy or otherwise need to contact us, you can contact us by the following: 
 
-  1. Use the [Contact Us](http://www.bodyc.com/service/contact.aspx) link on the Site or email Customer Service at [customerservice@bodyc.com](mailto:customerservice@bodyc.com)
+  1. Use the [Contact Us](http://www.bodycentral.com/service/contact.aspx) link on the Site or email Customer Service at [customerservice@bodyc.com](mailto:customerservice@bodyc.com)
   2. Call Customer Service at (800) 741-9696 Monday-Friday 9AM-6PM EST
   3. Contact us through US postal mail at
 
