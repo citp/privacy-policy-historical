@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the buttonspace.com privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530095131id_/http%3A//buttonspace.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buttonspace.com privacy policy that was archived on 2013-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131110185522id_/http%3A//buttonspace.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - ButtonSpace - Social Media Buttons | Social Network Buttons | Share Buttons
 
