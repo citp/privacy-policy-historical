@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bikeexif.com privacy policy that was archived on 2013-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130514000734id_/http%3A//www.bikeexif.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bikeexif.com privacy policy that was archived on 2013-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131110035426id_/http%3A//www.bikeexif.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy – Bike EXIF
+# Privacy policy Bike EXIF
 
 **What information do we collect?**  
 We collect information from you when you register on our site or subscribe to our newsletter. When ordering or registering on our site, as appropriate, you may be asked to enter your: name or e-mail address. You may, however, visit our site anonymously.
