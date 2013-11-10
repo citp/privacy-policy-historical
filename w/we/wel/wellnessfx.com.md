@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wellnessfx.com privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621233549id_/http%3A//www.wellnessfx.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wellnessfx.com privacy policy that was archived on 2013-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131110235742id_/http%3A//www.wellnessfx.com/privacy_policy%3Fref%3Dft) for the most accurate reproduction.*
 
-# WellnessFX - Privacy Policy
+# Privacy Policy - WellnessFX
 
 ## WellnessFX Privacy Policy
 
