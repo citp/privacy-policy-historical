@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stepchange.org privacy policy that was archived on 2013-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130521081410id_/http%3A//www.stepchange.org/Legal/Privacyandcookiespolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stepchange.org privacy policy that was archived on 2013-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131110191715id_/http%3A//www.stepchange.org/Legal/Privacyandcookiespolicy.aspx) for the most accurate reproduction.*
 
 # Privacy & cookies policy | Legal |StepChange (CCCS) debt advice charity
 
