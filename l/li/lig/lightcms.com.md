@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the lightcms.com privacy policy that was archived on 2013-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130610181030id_/http%3A//www.lightcms.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lightcms.com privacy policy that was archived on 2013-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131110235541id_/http%3A//www.lightcms.com/privacy-policy) for the most accurate reproduction.*
 
 # Website Privacy Statement | LightCMS
 
-LightCMS is made available by Element Fusion, LLC, a NetSuite Inc subsidiary.
+LightCMS is made available by LightCMS LLC, a NetSuite Inc. subsidiary.
 
-In this Website Privacy Statement ("statement"), Element Fusion, LLC, NetSuite Inc. and its subsidiaries, provide information about how we collect, use and transfer personally identifiable data from you, an individual person and website visitor, through NetSuite's publicly accessible websites (any of our websites such as [www.netsuite.com](http://www.netsuite.com/) or [www.lightcms.com](http://www.lightcms.com/), among others, that can be accessed without a password) and on which we post a direct link to this statement (collectively the "sites").
+In this Website Privacy Statement ("statement"), LightCMS LLC, a NetSuite Inc. subsidiary, NetSuite Inc. and its subsidiaries, provide information about how we collect, use and transfer personally identifiable data from you, an individual person and website visitor, through NetSuite's publicly accessible websites (any of our websites such as [www.netsuite.com](http://www.netsuite.com/) or [www.lightcms.com](http://www.lightcms.com/), among others, that can be accessed without a password) and on which we post a direct link to this statement (collectively the "sites").
 
 ### Scope
 
