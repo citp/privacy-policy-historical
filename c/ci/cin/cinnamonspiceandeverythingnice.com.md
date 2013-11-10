@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cinnamonspiceandeverythingnice.com privacy policy that was archived on 2013-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130624130903id_/http%3A//www.cinnamonspiceandeverythingnice.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cinnamonspiceandeverythingnice.com privacy policy that was archived on 2013-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131110170721id_/http%3A//www.cinnamonspiceandeverythingnice.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Cinnamon Spice & Everything Nice
+# Privacy Policy
 
 Cinnamon Spice & Everything Nice is committed to maintaining the privacy and protection of your personal information. This privacy policy tells you about the information we collect on our website and how we use that information. By using the Cinnamon Spice & Everything Nice website, you are consenting to the information collection and use practices described in this privacy policy, which may be modified from time to time by us. You should check this page from time to time to ensure that you are happy with any changes.
 
@@ -24,7 +24,7 @@ Our advertisers may serve you cookies as well. We do not have control over cooki
 
 [Please see the Foodie Blogroll’s privacy statement.](http://www.foodieblogroll.com/privacy)
 
-[Please see Technorati Media’s Privacy Policy.](http://technoratimedia.com/footer/privacy-policy-2/)
+Please see Technorati Media’s Privacy Policy.
 
 [Please see Google AdSense Privacy Policy.](http://www.google.com/policies/privacy/ads/)
 
