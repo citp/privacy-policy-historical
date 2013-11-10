@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the puaforums.com privacy policy that was archived on 2013-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130510235330id_/http%3A//www.puaforums.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the puaforums.com privacy policy that was archived on 2013-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131110034351id_/http%3A//www.puaforums.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - PUAForums.com
 
