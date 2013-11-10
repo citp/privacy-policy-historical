@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the anz.com.au privacy policy that was archived on 2013-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130627041437id_/http%3A//anz.com.au/auxiliary/help/help/website-security-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anz.com.au privacy policy that was archived on 2013-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131110034830id_/http%3A//www.anz.com.au/auxiliary/help/help/website-security-privacy) for the most accurate reproduction.*
 
 # ANZ Web Site Security and Privacy Statement | ANZ
 
