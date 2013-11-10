@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the hotnewsworld.com privacy policy that was archived on 2013-02-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130224043338id_/http%3A//www.hotnewsworld.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotnewsworld.com privacy policy that was archived on 2013-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131110024555id_/http%3A//www.hotnewsworld.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-### Privacy
+### Privacy Policy
 
 **HotNewsWorld.com respects your privacy.**
 
