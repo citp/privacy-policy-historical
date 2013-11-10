@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the parentsquare.com privacy policy that was archived on 2013-01-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130121153721id_/http%3A//parentsquare.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the parentsquare.com privacy policy that was archived on 2013-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131110233729id_/http%3A//www.parentsquare.com/privacy) for the most accurate reproduction.*
 
 # ParentSquare | Privacy Policy
 
@@ -28,7 +28,7 @@ We keep track of some of the actions you take on ParentSquare. For example, if y
 
 #### Access Device and Browser Information
 
-When you access ParentSquare from a computer, mobile phone, or other device, we may collect information from that device about your browser type, location, and IP address, the pages you visit, the date and time of visits, time spent at our website, and the sites visited just before and just after ours. This information is collected on an aggregate basis. None of this information is associated with you as an individual.
+When you access ParentSquare from a computer, mobile phone, or other device, we may collect information from that device about your browser type, location, and IP address, the pages you visit, the date and time of visits and the time spent at our website. This information is collected on an aggregate basis. None of this information is associated with you as an individual.
 
 #### Cookie Information
 
