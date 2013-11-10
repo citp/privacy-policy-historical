@@ -1,40 +1,47 @@
-> *The following text is extracted and transformed from the tcpiputils.com privacy policy that was archived on 2013-01-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130121195323id_/http%3A//www.tcpiputils.com/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tcpiputils.com privacy policy that was archived on 2013-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131110213535id_/http%3A//www.tcpiputils.com/privacy-policy) for the most accurate reproduction.*
 
-# Policy and Terms of Use for TCPIPUTILS.COM
+# Privacy Policy for TCPIPUTILS.COM
 
-TCPIPUTILS.COM is a free service provided for system and network administrators.
+Please Read Carefully Prior To Using This Website
 
-You are free to use this service on an As-Is basis. TCPIPUTILS.COM does not hold any responsibility for the query results displayed. You should interpret the results at your own risk and TCPIPUTILS.COM does not hold any liability for incorrect query results.
+Last change July 2013
 
-You may not send automated queries of any sort to TCPIPUTILS.COM service. TCPIPUTILS.COM limits anonymous and free usage to 200 queries per day from a single IP address. You may not use a proxy service when using TCPIPUTILS.COM to hide your IP address.
+## Acceptance of Terms and Conditions
 
-You may only execute queries against IP addresses that are under your control. You may not use TCPIPUTILS.COM services to probe a network for exploits or to execute any other illegal activity. TCPIPUTILS.COM will cooperate with local, state, federal and international government to track down any unauthorized use of this site.
+TCPIPUTILS.COM respects and protects the privacy of the Users that use the Website and our Services. This Privacy Policy outlines the types of personal information is received and collected by TCPIPUTILS.COM and how it is used. By accessing this Website and/or using any of our Services or Content, User agrees to the terms and conditions of this Privacy Policy. This Privacy Policy is incorporated into and subject to the terms of the TCPIPUTILS.COM Terms Of Service. All capitalized terms not otherwise defined herein are defined in the Terms Of Service.
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at info@tcpiputils.com.
+TCPIPUTILS.COM may change this Privacy Policy from time to time at its sole discretion. Such changes shall be effective as noted in our Terms Of Service. This Privacy Policy constitutes a legally binding agreement between User and TCPIPUTILS.COM. If the User of TCPIPUTILS.COM does not agree with any of these Terms, User may not, under any circumstances, utilize this Website or any Service provided by TCPIPUTILS.COM.
 
-At TCPIPUTILS.COM, the privacy of our visitors is of extreme importance to us. This privacy policy outlines the types of personal information is received and collected by TCPIPUTILS.COM and how it is used.
+## Data Collection
 
-**Search box**  
-The search box on this website ("Search Box") is powered by Google Inc ("Google"). You acknowledge and agree that Google's privacy policy (available at http://www.google.nl/privacy.html) will apply to your use of the Search Box. By using the Search Box, you agree that Google will use your personal data in accordance with the privacy policy.
+User should be aware that portions of this Website contain functions for collecting and/or receiving User's personal information, including email address, information about User's product purchases, any credit information provided as well as User's accessing history of this Website. TCPIPUTILS.COM may also collect and track non-personally identifiable information about User including User's IP address, the type of browser User employs, and the referrer ID.
 
-**Google Analytics**  
-TCPIPUTILS.COM uses Google Analytics, a web analytics service provided by Google Inc ("Google"). The information collected by Google includes internet protocol (IP) addresses, type of browser, Internet Service Provider (ISP), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user's movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable. If you would like to stop your data being sent to Google for analytics purposes, you can install the Google Analytics Browser Add-On, details of which are available at http://tools.google.com/dlpage/gaoptout?hl=en
+## Use of User Information
 
-**Cookies and Web Beacons**  
-TCPIPUTILS.COM does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser. If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites.
+TCPIPUTILS.COM may provide aggregated statistics about users (including User) to third parties, but such information will be aggregated so that it does not identify a particular individual or company, including User. TCPIPUTILS.COM reserves the right to compile, save and analyze any and all User data (registration data, use history, test input and results etc.). TCPIPUTILS.COM may disclose User's personal information in association with law enforcement, fraud prevention, a subpoena, or other legal action; as required by law, rule, or regulation; or if TCPIPUTILS.COM reasonably believes it is required to protect its customers, or the public.
 
-**Third party ad networks**  
-Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include:  
-Google Adsense  
-Adbrite  
-Chitika  
-Amazon
+## Cookies
 
-These third-party ad servers or ad networks use technology to the advertisements and links that appear on TCPIPUTILS.COM send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies (such as cookies, JavaScript, or Web Beacons) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see.
+TCPIPUTILS.COM does use cookies to store information about User's preferences, record user-specific information on which pages the User access or visit, customize Web page content based on Users browser type or other information that the User sends via the browser. If User wishes to disable cookies, User may do so through the individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites.
 
-Google, as a third party vendor, uses cookies to serve ads on TCPIPUTILS.COM. Google's use of the DoubleClick DART cookie enables it to serve ads to users based on their visit to TCPIPUTILS.COM and other sites on the Internet  
-Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL - http://www.google.com/privacy_ads.html
+## Search box
 
-TCPIPUTILS.COM has no access to or control over these cookies that are used by third-party advertisers.
+The search box on this website ("Search Box") is powered by Google Inc ("Google"). User acknowledges and agrees that Google's privacy policy (available at http://www.google.com/privacy.html) will apply to User's use of the Search Box. By using the Search Box, User agrees that Google will use User's personal data in accordance with its privacy policy.
 
-You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. TCPIPUTILS.COM's privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
+## Google Analytics
+
+TCPIPUTILS.COM uses Google Analytics, a web analytics service provided by Google Inc ("Google"). Google Analytics uses "cookies" (small text files placed on your computer) to track User's interactions with TCPIPUTILS.COM. The information collected by Google includes internet protocol (IP) addresses, type of browser, Internet Service Provider (ISP), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user's movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable. For extra privacy TCPIPUTILS.COM uses the option (['_gat._anonymizeIp']) inside Google Analytics. With this option every IP address is anonymized and the complete IP address is never written to disk.
+
+By using this website, User agrees to Google processing data collected in the previously described manner and for the previously mentioned purpose. If User would like to stop the data being sent to Google for analytics purposes, User can install the Google Analytics Browser Add-On, details of which are available at http://tools.google.com/dlpage/gaoptout?hl=en.
+
+## Third party ad networks
+
+Some of our advertising partners may use cookies and web beacons on our Website. Our advertising partners includes but are not limited to Google Adsense, Clickbank, Chitika and Amazon. These third-party ad servers or ad networks use technology to the advertisements and links that appear on TCPIPUTILS.COM send directly to your browsers. They automatically receive User's IP address when this occurs. Other technologies (such as cookies, JavaScript, or Web Beacons) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that Users see.
+
+Google, as a third party vendor, uses cookies to serve ads on TCPIPUTILS.COM. Google's use of the DoubleClick DART cookie enables it to serve ads to User based on their visit to TCPIPUTILS.COM and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL - http://www.google.com/privacy_ads.html
+
+TCPIPUTILS.COM has no access to or control over these cookies that are used by third-party advertisers. User should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. TCPIPUTILS.COM's privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
+
+## Security
+
+TCPIPUTILS.COM uses reasonable security measures to safeguard information concerning, and submitted by User. Despite the security measures employed by TCPIPUTILS.COM, User should be aware that it is impossible to guarantee absolute security with respect to information sent through the Internet, and User agrees and accepts the risks associated with the same.
