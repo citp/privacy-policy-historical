@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the thersa.org privacy policy that was archived on 2013-06-11.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130611010622id_/http%3A//www.thersa.org/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the thersa.org privacy policy that was archived on 2013-11-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131111001238id_/http%3A//www.thersa.org/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="no-js" lang="en"><!--<![endif]--><head>
     
@@ -56,7 +56,7 @@
 <script type="text/javascript">
 $( function() {
 	$("#tabs").tabs();
-	$('.dropdowns').rsaDropDowns();
+	//$('.dropdowns').rsaDropDowns();
 	if( /^\/+fellowship\/+apply\/(uk|us|anz)\/?(\?.*)?$/.test(location.pathname)  ){
 		$('div#sidebar > ul:first-child > li:first-child > a:first-child').addClass('active');
 	}
@@ -79,7 +79,7 @@ $( function() {
   Running Squiz Matrix
   Developed by Squiz - http://www.squiz.net
   MySource, MySource Matrix and Squiz.net are registered Trademarks of Squiz Pty Ltd
-  Page generated: 11 June 2013 02:06:22
+  Page generated: 11 November 2013 00:12:38
 -->
 
 
@@ -141,7 +141,7 @@ $( function() {
           </form>
         </div>
         <div id="tagline" class="push_2 grid_7">
-          <p>Ideas and actions for a 21st century enlightenment</p>
+          <p>Enriching society through ideas and action</p>
         </div>
 
 <!-- top horizontal black menu -->
@@ -403,12 +403,27 @@ jQuery(function(){
         var node = jQuery(this);
         var href = node.attr('href');
         var url = href;
-        url = url.toLowerCase();
-        if(url.match('pdf'))
+        if(url && url.toLowerCase().match('pdf'))
         {
             var filename = href.split('/');
             filename = filename[filename.length-1];
             node.get(0).setAttribute("onclick","javascript: _gaq.push(['_trackPageview', '/" + filename + "']);");
+            
+
+        }
+    });
+});
+/* Javascript to track MP3 */
+jQuery(function(){
+    jQuery('a').each(function(){
+        var node = jQuery(this);
+        var href = node.attr('href');
+        var url = href;
+        if(url && url.toLowerCase().match('mp3'))
+        {
+            var filename = href.split('/');
+            filename = filename[filename.length-1];
+            node.get(0).setAttribute("onclick","javascript: _gaq.push(['_trackEvent', 'MP3', 'Play', '/" + filename + "']);");
             
 
         }
