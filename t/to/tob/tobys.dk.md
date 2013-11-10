@@ -1,9 +1,6 @@
-> *The following text is extracted and transformed from the tobys.dk privacy policy that was archived on 2013-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130511201709id_/http%3A//www.tobys.dk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tobys.dk privacy policy that was archived on 2013-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131110012005id_/http%3A//www.tobys.dk/privacy-policy) for the most accurate reproduction.*
 
 # Tobys Privacy Policy
-
-  
-
 
 **What information do we collect?**  
 We collect information from you when you fill out a form. 
