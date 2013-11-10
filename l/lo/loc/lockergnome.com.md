@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lockergnome.com privacy policy that was archived on 2013-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130614044958id_/http%3A//www.lockergnome.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lockergnome.com privacy policy that was archived on 2013-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131110010823id_/http%3A//www.lockergnome.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - LockerGnome
 
@@ -17,7 +17,7 @@ Your privacy is very important to us. Accordingly, we have developed this Policy
 ##  Third Party Advertisers  
 
 
-This site recently updated its advertising base to include third party advertisers that include:
+This site recently updated its advertising base to include third party advertisers that might include:
 
 **North America: Ad servers**
 
@@ -48,7 +48,7 @@ This site recently updated its advertising base to include third party advertise
 
 
 
-_If you have concerns over third party cookies being added by these advertisers, you may visit the corresponding links above to opt out of the provided cookies for the specified advertiser(s) in question._
+This website uses cookies that allow advertisers to serve ads to its visitors across various ad networks. All data that is collected by the cookies cannot uniquely identify the website visitor, rather, it collects non personalized information based on likes, interests and website usage data, this allows advertisers to serve ads to them as they browse other websites across the internet. To opt out of the ad networks, website visitors are encouraged to go here: [Google Ad Network Opt Out](http://www.google.com/settings/ads?hl=en&sig=ACi0TCjMUi-PFaWXqIeOJnrItWrijpjPJTpDWiXRU3gWpVkxI2a9zeYyZDMNT0wJdiNh15QY4LPa7OVwcL6ylHzBp9WAz9kboA) or by using the [NAI OPT OUT TOOL](http://www.networkadvertising.org/choices/). 
 
 We are committed to conducting our business in accordance with these principles in order to ensure that the confidentiality of personal information is protected and maintained. 
 
