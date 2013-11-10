@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the kogan.com.au privacy policy that was archived on 2013-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130511150648id_/http%3A//www.kogan.com/au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kogan.com.au privacy policy that was archived on 2013-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131110181423id_/http%3A//www.kogan.com/au/privacy-policy) for the most accurate reproduction.*
 
 # Kogan Privacy Policy - Kogan Australia
 
-  * [ **Hot Deals** Amazing Prices! ](https://web.archive.org/au/shop/collection/hot-deals/?view=grid)
+  * [ **Hot Deals** Amazing Prices! ](https://web.archive.org/au/shop/collection/hot-deals/?order_by=price&view=grid)
 
 
 
@@ -35,7 +35,7 @@ Kogan uses your personal information for the purposes of:
 
 Kogan may disclose your personal information:
 
-  * to third-parties we ordinarily engage for the above purposes (excluding marketing activities);
+  * to third-parties we ordinarily engage for the above purposes;
   * any person or entity to whom you have consented to Kogan disclosing your personal information to; and
   * any person or entity to whom we are required or authorised to disclose your personal information to in accordance with the law.
 
