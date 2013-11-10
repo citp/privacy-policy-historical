@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the hardtofind.com.au privacy policy that was archived on 2013-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130513192815id_/https%3A//hardtofind.com.au/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hardtofind.com.au privacy policy that was archived on 2013-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131110053707id_/http%3A//hardtofind.com.au/page/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - hardtofind.
 
-In this privacy policy, "we", "us" and "our" means Hardtofind Pty Limited (ABN 13 132 954 039) of Suite 406A, 19A Boundary Street, Rushcutters Bay NSW 2011
+In this privacy policy, "we", "us" and "our" means Hardtofind Pty Limited (ABN 13 132 954 039) of Suite 306B, 19A Boundary Street, Rushcutters Bay NSW 2011
 
 We appreciate that privacy is important to everyone, and we are committed to complying with the National Privacy Principles (“NPPs”), which are contained in the Australian Privacy Act 1988 (Cth). Personal information is basically information that can identify you.
 
@@ -91,7 +91,7 @@ If you have any questions or comments about this privacy policy, or if you wish 
 
 (a) by e-mail to support@hardtofind.com.au; or 
 
-(b) by mail at Suite 406A, 19A Boundary Street, Rushcutters Bay NSW 2011 
+(b) by mail at Suite 306B, 19A Boundary Street, Rushcutters Bay NSW 2011 
 
 _Revisions to this privacy policy_
 
