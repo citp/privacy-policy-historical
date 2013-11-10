@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ghanamma.com privacy policy that was archived on 2013-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130614000754id_/http%3A//ghanamma.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ghanamma.com privacy policy that was archived on 2013-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131110173135id_/http%3A//www.ghanamma.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Ghanamma.com
 
