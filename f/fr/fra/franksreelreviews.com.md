@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the franksreelreviews.com privacy policy that was archived on 2013-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130531081411id_/http%3A//franksreelreviews.com/privacy/blog) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the franksreelreviews.com privacy policy that was archived on 2013-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131110173118id_/http%3A//franksreelreviews.com/privacy/blog) for the most accurate reproduction.*
 
 # Privacy
 
