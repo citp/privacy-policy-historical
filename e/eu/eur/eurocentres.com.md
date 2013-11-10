@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eurocentres.com privacy policy that was archived on 2013-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130514194522id_/http%3A//www.eurocentres.com/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eurocentres.com privacy policy that was archived on 2013-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131111001120id_/http%3A//www.eurocentres.com/en/privacy-policy) for the most accurate reproduction.*
 
 # Privacy and Cookies | Eurocentres
 
@@ -69,4 +69,4 @@ Switzerland
 info [at] eurocentres [dot] com
 
  **Terms and Conditions**  
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at <http://www.eurocentres.com/en/terms-and-conditions>
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [http://www.eurocentres.com/en/terms-and-conditions](https://web.archive.org/en/terms-and-conditions)
