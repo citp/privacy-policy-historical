@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the sellmyapp.com privacy policy that was archived on 2013-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130510235850id_/http%3A//www.sellmyapp.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sellmyapp.com privacy policy that was archived on 2013-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131110033701id_/http%3A//www.sellmyapp.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - SellMyApp
 
-### Privacy Policy
+**SellMyapp.com** has established this privacy policy to explain to you how your information is protected, collected and used, which may be updated by SellMyApp.com from time to time. We will provide notice of materially significant changes to this privacy policy by posting notice on this site.
 
-SellMyapp.com has established this privacy policy to explain to you how your information is protected, collected and used, which may be updated by SellMyApp.com from time to time. We will provide notice of materially significant changes to this privacy policy by posting notice on this site.
-
-#### 1\. Protecting your privacy.
+## 1\. Protecting your privacy.
 
   * We don’t share your information with third parties for marketing purposes.
   * We don’t engage in cross-marketing or link-referral programs with other sites.
@@ -17,7 +15,7 @@ SellMyapp.com has established this privacy policy to explain to you how your inf
 
 
 
-#### 2\. Data we collect
+## 2\. Data we collect
 
   * We sometimes collect your email address, for purposes such as sending self-publishing and confirmation emails, authenticating user accounts, providing subscription email services, registering for forums, etc.
   * SellMyApp does not store credit card information. Credit card transactions are transmitted to a financial gateway, and we endeavor to protect the security of your payment information during transmission by using Secure Sockets Layer (SSL) technology.
@@ -25,7 +23,7 @@ SellMyapp.com has established this privacy policy to explain to you how your inf
 
 
 
-#### 3\. Data we store
+## 3\. Data we store
 
   * All postings are stored in our database, even after “deletion,” and may be archived elsewhere.
   * Our web logs and other records are stored indefinitely.
@@ -33,17 +31,17 @@ SellMyapp.com has established this privacy policy to explain to you how your inf
 
 
 
-#### 4\. Circumstances in which SellMyApp.com may release information
+## 4\. Circumstances in which SellMyApp.com may release information
 
   * sellMyApp.com may disclose information about its users if required to do so by law or in the good faith belief that such disclosure is reasonably necessary to respond to subpoenas, court orders, or other legal process.
-  * SellMyApp.com may also disclose information about its users to law enforcement officers or others, in the good faith belief that such disclosure is reasonably necessary to: enforce our [Terms of Use](http://sellmyapp.com/terms); respond to claims that any posting or other content violates the rights of third-parties; or protect the rights, property, or personal safety of SellMyApp.com, its users or the general public.
+  * SellMyApp.com may also disclose information about its users to law enforcement officers or others, in the good faith belief that such disclosure is reasonably necessary to: enforce our [Terms of Use](http://www.sellmyapp.com/terms); respond to claims that any posting or other content violates the rights of third-parties; or protect the rights, property, or personal safety of SellMyApp.com, its users or the general public.
 
 
 
-#### 5\. International Users
+## 5\. International Users
 
 By visiting our web site and providing us with data, you acknowledge and agree that due to the international dimension of SellMyapp.com we may use the data collected in the course of our relationship for the purposes identified in this policy or in our other communications with you, including the transmission of information outside your resident jurisdiction. In addition, please understand that such data may be stored on servers located in the United States. By providing us with your data, you consent to the transfer of such data.
 
-#### 6\. Feedback
+## 6\. Feedback
 
-We welcome your feedback on this document. Please visit our [contact form](http://sellmyapp.com/contact).
+We welcome your feedback on this document. Please visit our [contact form](http://www.sellmyapp.com/contact).
