@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scout.me privacy policy that was archived on 2013-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130629194918id_/http%3A//www.telenav.com/legal/policies.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scout.me privacy policy that was archived on 2013-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131110013909id_/http%3A//www.telenav.com/legal/policies.html) for the most accurate reproduction.*
 
 # Telenav Policies
 
@@ -38,6 +38,8 @@ As a customer of Telenav, you also have the option of providing us with your hom
 
 On some versions of our services, you can also create a list of "favorite" addresses that can include your home and work addresses, and that you may edit on our website, or on your mobile device. We store these addresses in our database so that you can access them from your mobile device, and so that should you change devices, this collection of addresses will still be available to you. 
 
+On some versions of our services, registered Scout.me users can create a custom list of POIs and addresses that you may name, organize and edit on the Scout.me website or mobile website. We store these addresses in our database so that you can access them from your Scout.me account, and so that you can share your lists with others. Registered Scout.me users can opt to share a URL link to any of their lists via email, the internet or text messages using SMS. To respect the privacy of any individual with whom you would like to share your list via SMS message, but who has requested not to accept SMS messages, we maintain a list of recipients who have opted-out of receiving these messages. Recipients of the URL link will be able to view your list indefinitely, and will be able to share that URL link with others as well. Anyone with the URL link will be able to view the contents of your list. You can continue to add, remove or edit the POIs and addresses in any of your lists at any time, including renaming or deleting the entire list. Anyone accessing the URL will view the most current version of your list, but will not be able to view a deleted list.
+
 **(d) Third Party Applications**
 
 Some of Telenav's services provide you with access to third party applications. When you enable a third party application, information collected by Telenav is processed under our privacy policy while information collected by the third party application provider is governed by its own privacy policy.
@@ -66,7 +68,7 @@ We automatically receive certain types of information, some of which may be asso
 
 **(a) Information Related to Your Location and Route or Other User Content**
 
-Each time you access the Telenav GPS Navigator™ service or our partnered branded versions of GPS Navigator services, we record your route information, including your point of origin (which may be your then-current location), the address of your destination, the starting time of your trip, and the route you are instructed to follow. We record your current location when your wireless device requests a rerouting (which occurs, for example, when you deviate from the specified instructions). We maintain a database with these locations and route information, and may keep such information indefinitely to improve our map coverage and to provide other features that may enhance your service capabilities, functions, and your user experience. We may periodically receive your current location from the GPS hardware associated with your wireless device for the purpose of providing enhanced services. When your location and speed is used for these purposes, we strip it of your personal identity information, such as your phone number, prior to storing. 
+Each time you access the Telenav GPS Navigator™ or Scout™ service or our partnered branded versions of GPS Navigator services, we record your location and route information, including your point of origin (which may be your then-current location), the address of your destination, the starting time of your trip, and the route you are instructed to follow. We record your current location when your wireless device requests a rerouting (which occurs, for example, when you deviate from the specified instructions). We maintain a database with these locations and route information, and may keep such information indefinitely to improve our map coverage and to provide other features that may enhance your service capabilities, functions, and your user experience. We may periodically receive your current location from the GPS hardware associated with your wireless device for the purpose of providing enhanced services, including traffic flow data. When your location, GPS heading and speed are used for these purposes, we strip it of your personal identity information, such as your phone number, prior to storing. 
 
 The Telenav Track™ service combines GPS, wireless and web technologies to enable fleet dispatching and activity reporting. To provide the Telenav Track service, we record your route information, including your point of origin, the address of your destination, the starting time of your trip, and the route you are instructed to follow, and must periodically receive your GPS location from the GPS hardware associated with your wireless device, as well as internally continuously record, compile, and display data regarding the location of your GPS and wireless device. If an entity or another individual obtains the Telenav Track service for you, that entity or individual is our customer, and we may provide personal information on your use of the service to the entity at its direction, and use of such information by the entity is outside the control of Telenav. 
 
@@ -85,6 +87,8 @@ You may limit the automatic collection of certain information by our website by 
 **(c) Information related to your personal interests for particular advertisements**
 
 Our websites may collect data about your activity and some user identifying information, including personal information. This collected information is disclosed to and processed by Google and is used to enable features including but not limited to remarketing and display advertising. We use remarketing with Google Analytics to advertise online and third party vendors, including but not limited to Google, show our ads on sites across the Internet. Telenav and third-party vendors, including but not limited to Google, use first-party cookies (such as the Google Analytics cookie) and third-party cookies (such as the DoubleClick cookie) together to inform, optimize, and serve ads based on your past visits to our website. These features are solely for purposes to allow us to maintain the interests of previous visitors and deliver advertisement content specifically targeting the visitors’ previous interests. You may opt-out of such advertising using the Google Ads Preference Manager. 
+
+When Telenav has the opportunity to serve an ad to you on a third party mobile site or mobile application, we may receive information about your device and location from third party ad exchanges and/or mobile publishers. This information does not enable us to personally identify you by name, phone number, email address, or other similar means, but includes anonymized version of your Device ID, your IP address and the geo-location of your device at the time the advertisement was served. This information is provided so that we can improve the relevance of the ads we serve to you. Any such information is shared in accordance with the third party’s privacy policies and subject to their terms and conditions. We do not use the information they provide to us for any purpose other than serving you with interest-based ads on their behalf.
 
 **(d) Other Information**
 
@@ -207,7 +211,7 @@ CH - 3003 Berne
 Telephone: +41 (0)31 322 43 95 (Monday - Friday, 10am - 12 am)  
 Fax: +41 (0)31 325 99 96 
 
-Telenav Privacy Policy last updated as of June 10, 2013.
+Telenav Privacy Policy last updated as of October 25, 2013.
 
 * * *
 
@@ -281,6 +285,99 @@ If you pay for TCS through a credit card payment at www.telenav.com or through a
   3. You will not be provided a refund for any month for which you were not charged for TCS (i.e., as a result of any free usage period or other promotion). Should you or Telenav choose to cancel TCS for any reason, you shall not be entitled to any refund of or reduction in the price of the Shotgun unit (except as expressly provided under Telenav’s Shotgun return policy and procedures).
 
 
+
+* * *
+
+Back to top
+
+Open Source Statement
+
+Telenav appreciates the importance of the use of open source, and is dedicated to contributing back to the open source community. In the course of development for our products and in connection with such products, we utilize certain software from the open source community subject to the applicable open source licenses. We believe that the use of open source within our products allows us to create better products for our customers. As we work with open source software, we continue to contribute back to the open source community.
+
+The chart below summarizes the open source that we may utilize within our products and information pertaining to such open source projects.
+
+**Open Source Projects:**
+
+**Open Source  
+Product/Component** | **Product  
+Version** | **License** | **Used In**  
+---|---|---|---  
+ADAPTIVE  
+Communication  
+Environment (ACE) |  | http://www.cs.wustl.edu/~schmidt/ACE-copying.html | • Automotive  
+AFNetworking |  | https://github.com/AFNetworking/AFNetworking/blob/master/LICENSE | • iPhone  
+• Clients  
+ASIHTTPRequest |  | https://github.com/pokeb/asi-http-request/blob/master/LICENSE | • iPhone  
+• Clients  
+ASN1C |  | https://github.com/vlm/asn1c | • iPhone  
+• Clients  
+Boost | 1.44.0 | http://www.boost.org/ | • Automotive  
+c-generic-library |  | http://code.google.com/p/c-generic-library/ | • Automotive  
+cJSON | 01-23-10 | http://sourceforge.net/projects/cjson/ | • Automotive  
+Crashlytics |  | http://try.crashlytics.com/terms/ | • iPhone  
+• Clients  
+cURL |  | MIT License | • TeleNav GPS Navigator 7.x  
+• Automotive  
+DDPageControl |  | https://github.com/ddeville/DDPageControl/blob/master/LICENSE | • iPhone  
+• Clients  
+Eigen | 3.1.2 | Telenav uses a modified form of Eigen 3.1.2. Both Eigen 3.1.2 and the Telenav modifications thereto are licensed under the MPL2 (<http://www.mozilla.org/MPL/2.0/>). Eigen 3.1.2 source code may be found at eigen.tuxfamily.org Telenav's modifications in source code form may be found [here](http://www.telenav.com/legal/includes/Eigen-3.1.2-modified.7z). | • Automotive  
+• Clients  
+FMDB |  | https://github.com/ccgus/fmdb/commit/7ffd84d76b3b3b6858fbad063451a76b3dfc145a | • iPhone  
+• Clients  
+freetype | 2.4.8 | http://freetype.sourceforge.net/FTL.TXT | • Linux clients  
+• Automotive   
+Geos | 2.1 | http://www.gnu.org/licenses/old-licenses/lgpl-2.1.html | • Automotive  
+glog |  | http://www.opensource.org/licenses/bsd-license.php | • All Clients  
+gtest | 1.6.0 | http://www.opensource.org/licenses/bsd- license.php | • Internal testing  
+InAppSettingsKit |  | http://www.inappsettingskit.com/ | • iPhone  
+• Clients  
+iOS Facebook |  | http://www.apache.org/licenses/LICENSE-2.0 | • Clients  
+Javascript library |  | http://www.mozilla.org/MPL/MPL-1.1.html | • Clients  
+JPEG |  | BSD License | • TeleNav GPS Navigator 7.x   
+• Automotive   
+JSON |  | http://www.json.org/license.html | • TeleNav GPS Navigator 7.x   
+Microsoft Visual  
+Studio 2005/8  
+runtime libraries |  | http://download.microsoft.com/documents/useterms  
+/Visual%20Studio_2008$%20Professional%20Edition_  
+English_473a7e16-65dc-4cfb-8f44-ebdd93cb1d3d.pdf | • Automotive  
+mockcpp | V2.6 | http://www.gnu.org/licenses/lgpl.html | • Internal Testing  
+OHAttributed Label |  | https://github.com/AliSoftware/OHAttributedLabel/blob/master/LICENSE  | • iPhone  
+• Clients  
+OpenSSL |  | http://www.openssl.org/source/license.html | • Automotive  
+• iPhone  
+• Clients  
+PhoneGap | 0.9.3 | http://www.phonegap.com/about/license/ | • TeleNav GPS Navigator 7.x  
+PNG |  | http://www.libpng.org/pub/png/src/libpng-LICENSE.txt | • Automotive  
+protobuf |  | http://www.opensource.org/licenses/bsd-license.php | • TeleNav GPS Navigator 7.x  
+protobuf-net r640 |  | https://code.google.com/p/protobuf-net/downloads/detail?name=protobuf-net%20r640.zip&can=2&q= | • Clients  
+Protocol Buffers  | 2.3.0 | http://opensource.org/licenses/BSD-3-Clause | • Automotive  
+QT | 1.1.4 | http://qt.nokia.com/products/licensing/ | • Test frameworks  
+Quattroshapes |  | https://github.com/foursquare/quattroshapes/blob/master/LICENSE.md | • Clients  
+• Website  
+SBJSON | V3.0.4 | http://www.opensource.org/licenses/bsd-license.php | • iPhone  
+• Clients  
+SBJson |  | http://superloopy.io/json-framework/ | • iPhone  
+• Clients  
+SGI SI GLU | 2.0 | http://oss.sgi.com/projects/FreeB/SGIFreeSWLicB.2.0.pdf | • Automotive  
+speex |  | http://www.xiph.org/licenses/bsd/speex/ | • TeleNav Navigator  
+• Hybrid clients  
+sqlite | V3.7.9 | http://www.sqlite.org/copyright.html | • Clients  
+• Automotive   
+Stemmer – Snowball |  | http://opensource.org/licenses/bsd-license.html | • Automotive  
+Tapjoy |  | https://www.tapjoy.com/sdk/license  | • iPhone  
+• Clients  
+threadpool |  | http://threadpool.sourceforge.net/license.html | • Clients  
+Tinyxml |  | http://www.grinninglizard.com/tinyxmldocs/index.html | • Clients  
+• Automotive   
+TMCache |  | https://github.com/tumblr/TMCache/blob/master/LICENSE.txt | • iPhone  
+• Clients  
+VerifyStoreReceiptiOS |  | https://github.com/rmaddy/VerifyStoreReceiptiOS/blob/master/LICENSE | • iOS Clients  
+WriteableBitmapEx | 1.0.5 | http://writeablebitmapex.codeplex.com/license | • Clients  
+zlib | 1.2.5 | http://www.gzip.org/zlib/zlib_license.html | • Clients  
+• Automotive   
+  
+Telenav Open Source Statement last updated as of October 29, 2013.
 
 * * *
 
