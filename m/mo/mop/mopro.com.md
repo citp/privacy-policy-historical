@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mopro.com privacy policy that was archived on 2013-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130609105821id_/http%3A//www.mopro.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mopro.com privacy policy that was archived on 2013-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131110232359id_/http%3A//www.mopro.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - MOpro
+# Privacy Policy - Mopro
 
 At Mopro, we appreciate that our clients' and clients' private information is important. The following explains our privacy policy and our approach to the collection and use of information from and about you and/or your company.
 
