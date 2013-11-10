@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ucar.edu privacy policy that was archived on 2013-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130512134926id_/http%3A//www2.ucar.edu/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ucar.edu privacy policy that was archived on 2013-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131110195711id_/https%3A//www2.ucar.edu/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | UCAR - University Corporation for Atmospheric Research
 
@@ -34,11 +34,10 @@ If you have any questions about this privacy statement or the practices of UCAR,
 
 _Please include your name, address, and e-mail address when you contact us._
 
-Office of General Counsel  
-UCAR  
-PO Box 3000  
-Boulder, CO 80307
+Privacy Preferences  
+c/o UCAR Office of General Counsel  
+3090 Center Green Drive  
+Boulder, CO 80301
 
 By telephone: (303) 497-8874  
-By fax: 303-497-8501  
-By e-mail: [mmcclell@ucar.edu](mailto:mmcclell@ucar.edu)
+By e-mail: [privacy@ucar.edu](mailto:privacy@ucar.edu)
