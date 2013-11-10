@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mangamagazine.net privacy policy that was archived on 2012-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121227052545id_/http%3A//www.mangamagazine.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mangamagazine.net privacy policy that was archived on 2013-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131110141926id_/http%3A//www.mangamagazine.net/privacy-policy) for the most accurate reproduction.*
 
 # MangaMagazine.net: Privacy Policy
 
@@ -60,7 +60,7 @@ This privacy statement covers the use of cookies by [Website Name] and does not 
 We provide mechanisms for updating and correcting your personal information for many of our services. You may modify or remove any of your personal information at any time by logging into your account and accessing features such as edit and account.
 
 **7) Email Choice/Opt-out**  
-If you no longer wish to receive updates or notifications may opt-out of receiving these communications by contacting us directly. You may still be contacted for information specifically regarding any orders you place place. 
+If you no longer wish to receive updates or notifications may opt-out of receiving these communications by contacting us directly.
 
 **8) Children's Privacy and Parental Controls**  
 We do not solicit any personal information from children. If you are not 18 or older, you are not authorized to use the Site without parental consent.
