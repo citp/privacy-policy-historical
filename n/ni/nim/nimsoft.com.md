@@ -1,45 +1,102 @@
-> *The following text is extracted and transformed from the nimsoft.com privacy policy that was archived on 2011-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111209055846id_/http%3A//www.nimsoft.com/legal) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nimsoft.com privacy policy that was archived on 2013-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131110195856id_/http%3A//www.ca.com/us/privacy.aspx) for the most accurate reproduction.*
 
-# Privacy and Security Policy − Nimsoft
+# CA Privacy Notice - CA Technologies
 
-## Your Privacy
+Last updated by CA Legal team on October 24, 2013
 
-Nimsoft is committed to maintaining the trust and confidence of our customers and visitors to our web site. In particular, we want you to know that Nimsoft is not in the business of selling, renting or trading individuals’ personal data to other companies for marketing purposes. In this Privacy Policy we provide detailed information on when and why we collect personal information, how we use it, the limited conditions under which we may disclose it to others, and how we keep it secure.
+## Q: What is CA’s privacy position?
 
-## Collection and Use of Personal Information
+CA is committed to respecting and protecting your privacy and wants you to feel secure when visiting our site and providing information to us. In order to provide you with relevant information, respond to your requests, and increase the benefits you receive from our website, we sometimes request that you provide us with information about yourself.
 
-Personal information means any information that may be used to identify you, such as, your name, title, phone number, email address or mailing address.
+CA may modify or update this privacy notice at any time without prior notice. You can check the “Last Updated” date above to see when the notice was last changed. Your continued use of the website constitutes your consent to the contents of this privacy notice.
 
-In general, you can browse our web site without giving us any personal information. Additional activities on our site require you to be registered – for example, to receive white papers, to request a trial version of our software or to register for an event. As part of the registration process, we ask you to fill in a simple html form where we collect additional personal/contact information. We use that information for several general purposes: to tell you about products, seminars and services if you so request; to fulfill your request; to contact you if we need to obtain or provide additional information; to verify the accuracy of our records; or to contact you regarding customer satisfaction surveys.
+We have prepared this Privacy Notice to inform you of the information we gather and how it is used. This Notice applies to all CA websites that display or link to this Privacy Notice. In some cases CA may request additional information in which case you will receive separate notice and will be able to review those terms at that time. You should also note that CA maintains the same privacy practices with respect to data that is collected off-line and this notice may be relied upon with respect to those methods of data collection and use. Please see our [Core Values and Code of Conduct](https://web.archive.org/us/about-us/company-information/core-values.aspx) for more information about CA’s high standard of ethics and our commitment to the protection of your personal information.
 
-## Use of Cookies
+For personal information of individuals that CA receives from the European Economic Area (EEA), CA has committed to handling such personal information in accordance with the US Department of Commerce Safe Harbor Principles for transfer of personal information outside of the EEA. CA's Safe Harbor certification can be found at <https://safeharbor.export.gov/list.aspx>
 
-Part of our data collection process may involve the use of “cookies”, which are small pieces of identifying information placed and stored on your computer by our server which enable our system to more readily “recognize” you when you visit. Cookies are frequently used to enable sites to more efficiently provide service, such as to customize the display to suit your interests, note your interests while visiting our site, and store information. It is our policy that any information obtained through the use of cookies will only be used internally by Nimsoft to better provide service to you and to evaluate and improve the effectiveness of the Site. Cookies will not be used to track your activities outside of the site or for any purpose not disclosed herein.
+**[We self-certify compliance with](https://safeharbor.export.gov/list.aspx)**  
+[](http://www.export.gov/safeharbor)  
 
-You may elect not to accept “cookies” by setting your Internet options on your computer; however, please be advised that in that case, you may not be able to access part or all of this site, or parts of this site may not operate effectively.
 
-## Disclosure of Personal Information
+## Q: What information does CA collect?
 
-In rare instances we rely on our channel partners to fulfill product trials and information requests, and provide customers and prospective customers with information about Nimsoft and its solutions. To do this, we may pass your information to them for that purpose only, and they are prohibited from using that information for any other purpose.
+In general, you may visit this website without identifying yourself or revealing any personal information. One of the pieces of information CA collects is domain information from your visit to customize and improve your experience on our website. The type of information we may collect includes: 
 
-Nimsoft sometimes hires vendor companies to provide limited services on our behalf, including packaging, mailing and delivering items, sending postal mail, providing technical support and processing event registrations. In addition, we may use third party information or technology in our products and disclose customer information to such third parties solely for the purposes of fulfillment, support, or audit by such third parties. Because Nimsoft is a global company, your personal information may be shared with other Nimsoft offices or subsidiaries in the U.S., Europe, and elsewhere, but will never be sold or traded. The data protection laws in these countries may be more or less extensive than laws in the country in which you are located. However, Nimsoft and its offices and subsidiaries are governed by this Privacy Policy and will use your personal information only as set forth in this policy. At your request, we can provide you with data protection details of the countries relevant to you.
+  * the date and time of your access
+  * the pages you have accessed
+  * the name of the Internet Service Provider and the Internet Protocol (IP) address that you use to access the Internet
 
-## Children and Privacy
 
-Our web site does not offer information intended to attract children. Nimsoft does not knowingly solicit personal information from children under the age of 13.
 
-## Links to Other Web Sites
+Some of the ways in which we may collect information from you are: 
 
-Our web site contains links to information on other web sites. We do not have any control over these other web sites, and therefore we cannot be responsible for the protection and privacy of any information that you provide while visiting those sites. Those sites are not governed by this Privacy Policy, and if you have questions about how a site uses your information, consult the linked site’s privacy statement.
+  * Event registrations for webcasts, seminars, conferences, etc.
+  * Product support registration
+  * CA Communities registration
+  * Education registration
+  * Subscription to newsletters or other CA content-related notifications
+  * Product purchases or trials
+  * White paper or other downloads
+  * Sweepstakes or contests
 
-## Unsubscribing
 
-Unsubscribing From General Marketing Communications:
 
-Your privacy is important to us. You may “opt out” at any time via the opt-out weblink that appears at the bottom of any marketing emails you receive from us.
+## Q: How do we use the information? 
 
-## Your Consent
+The information we collect about you or your computer will be used for various reasons, including to: 
 
-By using our web site, you consent to the collection and use of the information you provide to us as outlined in this Privacy Policy. We may change this Privacy Policy from time to time and without notice. If we change our Privacy Policy, we will publish those changes on this page.
+  * operate our website 
+  * provide customer support
+  * respond to your requests or process any transactions you have authorized 
+  * verify your information
+  * send you information or contact you in relation to a CA product or service that you are using or that we believe may be of interest to you
 
-If you have any questions or concerns about our collection, use or disclosure of your personal information, please email [**privacy@nimsoft.com**](mailto:privacy@nimsoft.com). For more information about this site or your visit, please email us at [**webmaster@nimsoft.com**](mailto:webmaster@nimsoft.com).
+
+
+When we collect information about you, such as your name or other details, it is our practice to provide you with the reason we will use it at the time you are asked for it. When we ask you to provide us with your information, you will have the option of not doing so, in which case you may still be able to access other portions of this website, although you may not be able to access certain programs or services. 
+
+In certain areas of our website, we may, where appropriate, enable you to "opt out" of certain uses of your information, or elect not to receive future communications or services.
+
+Some CA products or services use the Google Maps APIs and as to such products or services, CA incorporates by reference the Google privacy policy located at <http://www.google.com/privacy.html>, as amended by Google from time to time.
+
+## Q: How does CA share the information?
+
+In certain instances, we may make your information available to third parties with whom we have a relationship where that third party is providing services on our behalf. We will only provide those third parties with information that is necessary for them to perform the services and we take measures to protect your information.
+
+We may also disclose the information to our business partners and or to social media sites for marketing and other purposes which we believe may be beneficial to you.
+
+CA is a global company and the information we collect may be used, stored and processed in the United States or in any other country in which CA does business. By providing the information via the website, you are consenting to the transfer of the information outside of your country to any country (including countries which may not have adequate levels of protection).
+
+CA may disclose information it has collected about you on the website if required to do so by law or when necessary in order to protect the rights of CA or its employees.
+
+## Q: What are CA’s security levels for my data?
+
+CA's intent is to strictly protect the security of your personal information; honor your choice for its intended use; and carefully protect your data from loss, misuse, unauthorized access or disclosure, alteration, or destruction. We have taken appropriate steps to safeguard and secure information we collect online, including the use of encryption when collecting or transferring sensitive data such as credit card information. However, you should always take into consideration that the internet is an open forum and that data may flow across networks with little or no security measures, and therefore such information may be accessed by people other than those you intended to access it.
+
+## Q: Can I update the information I provide to CA?
+
+You are entitled to know whether we hold information about you and, if we do (subject to certain limitations), to have access to that information, have it corrected if it is inaccurate or out of date, or ask us to delete it, if appropriate. Contact us at [PrivacyHelpLine@ca.com](mailto:PrivacyHelpLine@ca.com) for any questions or updates to your information.
+
+## Q: What about other 3rd party links?
+
+This website contains links to other websites. CA is not responsible for the privacy practices or the content of such websites- however check the links they have available and review their privacy terms to find out more.
+
+## Q: Do you use any 3rd parties to advertise?
+
+CA uses pixels, transparent GIF files and other methods to help manage online advertising. The GIF files are provided by our ad management partner, DoubleClick. These files enable DoubleClick to recognize a unique cookie on your Web browser, which in turn enables us to learn which advertisements bring users to our website. The cookie was placed by us, or by another advertiser who works with DoubleClick. With this technology, the information that we collect and share is anonymous and not personally identifiable. It does not contain your name, address, telephone number, or email address. Visit [DoubleClick](http://www.doubleclick.net/us/corporate/privacy) for more information, including information about how to opt out of these technologies.
+
+## Q: What are your practices regarding cookies and/or web beacons
+
+CA uses third party advertising companies to serve ads on our behalf across the Internet. These third party companies employ cookie and web beacon (also referred to as 1x1 pixel.gifs or action tags) technology to measure and improve the effectiveness of ads for their clients. Cookies are also used to help us track usage patterns in order to improve or manage our site, to ensure the integrity of the registration process, and to help provide personalized service and deliver content specific to your interests. A "cookie" is a small amount of data transferred to your browser and read by the Web server that placed it there. It works as a sort of identification card, recording your preferences and previously entered information. By using cookies, the information you previously provided can be retrieved on your next visit to the website so that your navigation time is reduced and your use of the website is simplified. Cookies are uniquely assigned to you and can only be read by a web server in the domain that issued the cookie. Web beacons may be used to deliver the cookie and to compile statistics about our website, such as how many people visited a particular page or clicked on certain links. While your particular use of the site will not be revealed and no personally identifying information will be collected, this anonymous information may be used for online preference marketing purposes, and CA's third party advertising companies may use the information about your visit to the website(s) in order to provide ads about goods and services of interest to you. This information can include: date/time of banner ad shown, related cookie, and the first three octets of the IP address. CA may share aggregated statistics about the use of the website with third parties.
+
+You can set your browser to decline cookies if you prefer. If you do so, you may not be able to get the benefit of some of the features of this website or other websites that you visit.
+
+## Q: What if I post on your social media pages?
+
+Portions of this website make chat rooms, forums, blogs, message boards, and/or news groups available to visitors. Please remember that any information that is disclosed in these areas could be made public so exercise caution when deciding to disclose any personal information. Additional information about community and support sites can be found at our User Sites Terms on the Legal Index page. 
+
+## Q: How do I contact you? 
+
+If you have any questions, concerns, or comments about our privacy notice or practices, please contact us via email at [PrivacyHelpLine@ca.com](mailto:PrivacyHelpLine@ca.com) with the words "PRIVACY POLICY" in the subject line. All emails will be read promptly and an initial response will be provided to the sender within 5-7 business days. All issues raised will be investigated until completion, and all matters will be handled in compliance with local data protection requirements.
+
+Visit the [Canadian Privacy Policy](https://web.archive.org/ca/en/privacy/canadaprivacy.aspx) for additional information about CA Canada.
