@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cashconverters.com.au privacy policy that was archived on 2013-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130531022649id_/http%3A//cashconverters.com.au/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cashconverters.com.au privacy policy that was archived on 2013-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131110211220id_/http%3A//www.cashconverters.com.au/privacypolicy) for the most accurate reproduction.*
 
 # Cash Converters Australia – Buy and Sell Second Hand Goods – Cash Loans
 
