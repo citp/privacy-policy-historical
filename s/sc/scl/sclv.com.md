@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sclv.com privacy policy that was archived on 2013-03-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130301164709id_/https%3A//www.sclv.com/en/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sclv.com privacy policy that was archived on 2013-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131110133320id_/https%3A//www.sclv.com/Privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - Station Casinos - Las Vegas
 
@@ -52,7 +52,7 @@ This is a United States website and is subject to United States law. Station Cas
 
 ### Privacy Statement Changes
 
-In the future, we may need to change the privacy statement for [www.sclv.com](http://www.sclv.com/). All changes will be made here so that you will always know what information we gather, how we might use that information and whether we will disclose it to anyone.
+In the future, we may need to change the privacy statement for [www.sclv.com](https://web.archive.org/). All changes will be made here so that you will always know what information we gather, how we might use that information and whether we will disclose it to anyone.
 
 ### Conclusion
 
