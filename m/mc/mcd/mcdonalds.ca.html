@@ -1,7 +1,112 @@
-<!--The following is the downloaded HTML source of the mcdonalds.ca privacy policy that was archived on 2013-06-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130616050326id_/http%3A//www.mcdonalds.ca/ca/en/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the mcdonalds.ca privacy policy that was archived on 2013-11-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131111172435id_/http%3A//www.mcdonalds.ca/ca/en/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head><style></style> 
+
+
+
+              
+<script type="text/javascript">
+  
+    function desktopRedirect(){
+        var redirectPath = "";  
+        var useragent = navigator.userAgent;
+        var domain = "www.mcdonalds.ca";
+  
+        if ( useragent.indexOf('BlackBerry') != -1 || useragent.indexOf('iPhone OS 4') != -1 || useragent.indexOf('iPhone OS 5') != -1 || useragent.indexOf('iPhone OS 6') != -1 || useragent.indexOf('Android 2') != -1 || useragent.indexOf('Android 4') != -1 || useragent.indexOf('Opera') != -1 || useragent.indexOf('Windows Phone') != -1 ) {    
+          var alertURL = "";            
+          var getAlertPage = "false";
+          var fullSite = "no";
+          if(getCookie("fullsite") != null){
+            fullSite = getCookie("fullsite");
+          }
+   
+      if(fullSite == "yes"){
+                //cookie set for full site
+                var pagePath = '/ca/en/privacy';
+                alertURL = "http://"+domain+pagePath+".html";
+      }else{
+            if(redirectPath != ""){
+                    //redirecting to path specified in page properties
+            var pagePath = '/ca/en/privacy';
+            var url= "http://"+domain+pagePath+".html";
+                    var redPath = "";
+                    
+                    if((redirectPath.indexOf("/content/")>-1)){
+                        redPath = "http://"+domain+redirectPath+".html";
+                    }else{
+                        redPath = redirectPath;
+                    }  
+            alertURL = redPath;
+         }else{                
+            //check if intermediate page is required or not               
+            if(getAlertPage == "true"){
+                var pagePath = '/ca/en/privacy';
+                var url= "http://"+domain+pagePath+".html";
+                                          
+                        if(("".indexOf("/content/")>-1)){
+                             alertURL = "http://"+domain+".html?desktopurl="+url;
+                        }else{
+                             alertURL = "?desktopurl="+url;
+                        }
+                    }else{
+                        //do nothing
+                    }
+                }      
+            }          
+            
+            var mobileAlert = "no"
+            if(getCookie("mobilealert") != null){
+                mobileAlert = getCookie("mobilealert");
+            }
+            var desktopVal = "no";
+            var fullSiteRedirect = ""; 
+            if(getCookie("fullsiteredirect") != null){
+                fullSiteRedirect = getCookie("fullsiteredirect");
+            } 
+            
+            if(fullSiteRedirect == "yes" && mobileAlert == "no" && desktopVal == "no"){
+                setCookie("fullsiteredirect","no");
+                window.location.href = alertURL;
+            }
+            
+            if(mobileAlert == "no" && desktopVal == "no"){
+                if(fullSiteRedirect == "yes" || fullSiteRedirect == "no"){
+                    //do nothing
+                }
+                else{
+                    if(alertURL != ""){
+                        window.location.href = alertURL;
+                    }
+                }    
+            } 
+                                      
+        }
+        else{
+            // For desktop do nothing 
+        }
+    }         
+    function getCookie(name){ 
+        var re = new RegExp(name + "=([^;]+)"); 
+        var value = re.exec(document.cookie); 
+        return (value != null) ? unescape(value[1]) : null; 
+    }  
+    function setCookie(cookieName,cookieValue) {
+        var today = new Date();
+        var expire = new Date();
+        expire.setTime(today.getTime() + 15 * 60 * 1000);
+        document.cookie = cookieName+"="+escape(cookieValue)+ ";expires="+expire.toGMTString();
+    }
+    
+   var allowIntRed= "true";
+   if("yes" == "yes"){  
+   if(allowIntRed == "true"){
+       desktopRedirect();  
+       } 
+   }    
+</script> 
+
+
     
       
 
@@ -65,7 +170,7 @@ var webtrends = 'www1.mcdonalds.com/metrics/leftnav/mcdonaldsca.js';
         $(document).ready(function(){ 
             var hideMealBuilder = 'true';
             if(hideMealBuilder!='true')
-                changevalue('itemsAdded_ca');         
+                changevalue('itemsAdded_ca_en');         
             
             /*** Bumper ***/
             try {
@@ -110,7 +215,7 @@ var webtrends = 'www1.mcdonalds.com/metrics/leftnav/mcdonaldsca.js';
                      if(checkLimit(id)==true)
                      {                      
                           Tracker1('DCS.dcsuri','/food/addItemtoMyMealBuilder','WT.ti','Add to My Meal Builder :: McDonalds.com','DCSext.item',id);  
-                         addItemstoSession(id,'ca');
+                         addItemstoSession(id,'ca_en');
                      }
                      else
                          return false; 
@@ -131,7 +236,7 @@ var webtrends = 'www1.mcdonalds.com/metrics/leftnav/mcdonaldsca.js';
                      {                      
                          if( webtrends !="")
                          Tracker1('DCS.dcsuri','/food/addItemtoMyMealBuilder','WT.ti','Add to My Meal Builder :: McDonalds.com','DCSext.item',id);     
-                         addItemstoSession(id,'ca');   
+                         addItemstoSession(id,'ca_en');   
                      }
                      else
                          return false; 
@@ -150,7 +255,7 @@ var webtrends = 'www1.mcdonalds.com/metrics/leftnav/mcdonaldsca.js';
                      if(checkLimit(itemId)==true)                         
                      {                      
                         Tracker1('DCS.dcsuri','/food/addItemtoMyMealBuilder','WT.ti','Add to My Meal Builder :: McDonalds.com','DCSext.item',itemId);
-                        addItemtoSession(itemId,compList,'ca');  
+                        addItemtoSession(itemId,compList,'ca_en');  
                      }
                      else
                          return false;  
@@ -168,7 +273,7 @@ var webtrends = 'www1.mcdonalds.com/metrics/leftnav/mcdonaldsca.js';
                      if(checkLimit(itemId)==true)                         
                      {
                          Tracker1('DCS.dcsuri','/food/addItemtoMyMealBuilder','WT.ti','Add to My Meal Builder :: McDonalds.com','DCSext.item',itemId);                       
-                         addReverseItemtoSession(itemId,compList,revList,optionalList,masterItemId,'ca');
+                         addReverseItemtoSession(itemId,compList,revList,optionalList,masterItemId,'ca_en');
                      }
                      else
                          return false;  
@@ -183,7 +288,7 @@ var webtrends = 'www1.mcdonalds.com/metrics/leftnav/mcdonaldsca.js';
       {
            //alert("===========checkLimit()======calling========");
            var limit= 20;
-           var existLength=getExistMealbuilderLength('ca');
+           var existLength=getExistMealbuilderLength('ca_en');
            var pids=id.split("|");
            var total_length=pids.length+existLength;
            //alert("total_length======>"+total_length);
@@ -255,7 +360,7 @@ var webtrends = 'www1.mcdonalds.com/metrics/leftnav/mcdonaldsca.js';
     
     <ul>
                     <li id="foodnav_li" class="first">
-                        <a href="/ca/en/menu.html" id="foodnav_link" class="nav_item firstLink" style="background-image: url('/content/ca/en/menu/jcr:content/navimage.img.png/1336914397533.png');"></a>
+                        <a href="/ca/en/menu.html" id="foodnav_link" class="nav_item firstLink" style="background-image: url('/content/ca/en/menu/jcr:content/navimage.img.png/1376284738982.png');"></a>
                     
                     <div class="active_nav_widget" id="foodnav_layer">
                       <div id="foodnav_inner_layer">
@@ -277,7 +382,7 @@ var webtrends = 'www1.mcdonalds.com/metrics/leftnav/mcdonaldsca.js';
                                 
                                         <tr>
                                           <td>
-                                            <a href="/ca/en/menu/full_menu/sandwiches.html">Burgers &amp; Sandwiches</a>
+                                            <a href="/ca/en/menu/full_menu/sandwiches.html">Burgers, Sandwiches, &amp; Wraps</a>
                                           </td>
                                         </tr>
                                 
@@ -369,7 +474,7 @@ var webtrends = 'www1.mcdonalds.com/metrics/leftnav/mcdonaldsca.js';
                     
                                 <tbody><tr><td><a href="/ca/en/food/our-food--your-questions.html">Our Food. Your Questions</a></td></tr>
                     
-                                <tr><td><a href="/ca/en/food/nutrition_calculator.html">Nutrition Calculator</a></td></tr>
+                                <tr><td><a href="/ca/en/food/nutrition_centre.html">Nutrition Centre</a></td></tr>
                     
                                 <tr><td><a href="/ca/en/food/your_questions_answered.html">FAQs</a></td></tr>
                     
@@ -388,27 +493,23 @@ var webtrends = 'www1.mcdonalds.com/metrics/leftnav/mcdonaldsca.js';
             </li>
             
                     <li id="promonav_li">
-                        <a href="/ca/en/promotions.html" id="promonav_link" class="nav_item" style="background-image: url('/content/ca/en/promotions/jcr:content/navimage.img.png/1370265445606.png');"></a>
+                        <a href="/ca/en/promotions.html" id="promonav_link" class="nav_item" style="background-image: url('/content/ca/en/promotions/jcr:content/navimage.img.png/1383660025685.png');"></a>
                     
                     <div class="active_nav_widget" id="promonav_layer">
                       <div id="promonav_inner_layer">
             
                             <div class="float_left">
                         
-                                        <a href="/ca/en/promotions/mcwrap.html">
-                                        <img src="/content/ca/en/promotions/mcwrap/_jcr_content/promolevel2image.img.jpg/1368648824311.jpg" title="">
+                                        <a href="/ca/en/promotions/mcrib.html">
+                                        <img src="/content/ca/en/promotions/mcrib/_jcr_content/promolevel2image.img.jpg/1383659579562.jpg" title="">
                                         </a>
                                     
                             </div>
                         
                             <div class="float_left">
                         
-                                        <a href="/ca/en/promotions/dollardrinkdays.html">
-                                        <img src="/content/ca/en/promotions/dollardrinkdays/_jcr_content/promolevel3image.img.jpg/1368648687006.jpg" title="">
-                                        </a>
-                                    
-                                        <a href="/ca/en/promotions/frappe.html">
-                                        <img src="/content/ca/en/promotions/frappe/_jcr_content/promolevel3image.img.jpg/1371069068864.jpg" title="">
+                                        <a href="/ca/en/promotions/peppermint-mocha.html">
+                                        <img src="/content/ca/en/promotions/peppermint-mocha/_jcr_content/promolevel2image.img.jpg/1383594547984.jpg" title="">
                                         </a>
                                     
                             </div>
@@ -482,8 +583,13 @@ var webtrends = 'www1.mcdonalds.com/metrics/leftnav/mcdonaldsca.js';
             
             </li>
             
+                    <li id="noflyout_li">
+                        <a href="/ca/en/franchising.html" id="noflyout_link" class="nav_item" style="background-image: url('/content/ca/en/franchising/jcr:content/navimage.img.png/1352411674022.png');"></a>
+                    
+            </li>
+            
                     <li id="careernav_li">
-                        <a href="/ca/en/careers.html" id="careernav_link" class="nav_item" style="background-image: url('/content/ca/en/careers/jcr:content/navimage.img.png/1336914407201.png');"></a>
+                        <a href="/ca/en/careers.html" id="careernav_link" class="nav_item" style="background-image: url('/content/ca/en/careers/jcr:content/navimage.img.png/1376321588592.png');"></a>
                     
                     <div class="active_nav_widget" id="careernav_layer">
                       <div id="careernav_inner_layer">
@@ -543,13 +649,8 @@ var webtrends = 'www1.mcdonalds.com/metrics/leftnav/mcdonaldsca.js';
             
             </li>
             
-                    <li id="noflyout_li">
-                        <a href="/ca/en/franchising.html" id="noflyout_link" class="nav_item" style="background-image: url('/content/ca/en/franchising/jcr:content/navimage.img.png/1352411674022.png');"></a>
-                    
-            </li>
-            
                     <li id="simplenav_li">
-                        <a href="/ca/en/contact_us.html" id="simplenav_link" class="nav_item" style="background-image: url('/content/ca/en/contact_us/jcr:content/navimage.img.png/1336914406981.png');"></a>
+                        <a href="/ca/en/contact_us.html" id="simplenav_link" class="nav_item" style="background-image: url('/content/ca/en/contact_us/jcr:content/navimage.img.png/1376285113952.png');"></a>
                     
                     <div class="active_nav_widget" id="simplenav_layer">
                       <div id="simplenav_inner_layer">
@@ -835,6 +936,13 @@ function siteToggler(lang,link,redirectSearchResultToSearch)
             Tracker1('uri','/share/rssnews','title','Share_RSSNews','share',''+encodeURIComponent(location.href)+''); 
             }
     }
+    
+    function googleplus()
+    {  if(webtrends){
+            Tracker1('uri','/share/googleplus','title','Share_Google_Plus','share',''+encodeURIComponent(location.href)+'');  
+            }
+        window.open('https://plus.google.com/share?url='+encodeURIComponent(location.href)+'&title='+encodeURIComponent(document.title),'googleplus');
+    }
 
 </script>  
                 
@@ -852,7 +960,7 @@ function siteToggler(lang,link,redirectSearchResultToSearch)
             
                 <a href="javascript:twitter();" class="external" id="share_twitter" title="Twitter"><img src="/content/dam/Canada/en/socialsharing/share_twitter.png" width="16" height="16" alt="Twitter"></a>
             
-                <a href="javascript:delicious();" class="external" id="share_delicious" title="Delicious"><img src="/content/dam/Canada/en/socialsharing/share_delicious.png" width="16" height="16" alt="Delicious"></a>
+                <a href="javascript:googleplus();" class="external" id="share_googleplus" title="Google Plus"><img src="/content/dam/Canada/en/socialsharing/share_gplus.png" width="16" height="16" alt="Google Plus"></a>
             
 </div> 
 <div style="clear:both"></div>
