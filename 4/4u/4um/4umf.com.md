@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 4umf.com privacy policy that was archived on 2013-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130620101531id_/http%3A//4umf.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 4umf.com privacy policy that was archived on 2013-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131111062145id_/http%3A//4umf.com/demo/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - 4UMF
 
@@ -25,3 +25,5 @@ The information we learn about our customers helps us personalize and continuall
   * **Information You Give Us:**  We receive and may store any personal and financial information you enter on the Site or may give us in any other way. You can choose not to provide certain information, but then you might not be able to take advantage of many of our services and features. We may use the information that you provide for a variety of purposes, including to respond to your requests, to customize future options for you, to improve the overall quality of the Site, and to communicate with you, among other things.
 
 
+
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: <http://www.networkadvertising.org/managing/opt_out.asp>
