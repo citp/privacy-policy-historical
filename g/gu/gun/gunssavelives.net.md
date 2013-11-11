@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gunssavelives.net privacy policy that was archived on 2013-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130509235014id_/http%3A//gunssavelives.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gunssavelives.net privacy policy that was archived on 2013-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131111170215id_/http%3A//gunssavelives.net/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Guns Save Lives
+# Privacy Policy & Terms of Use | Guns Save Lives
 
 **What information do we collect?**
 
@@ -13,14 +13,6 @@ _Google_
 Google, as a third party vendor, uses cookies to serve ads on your site.  
 Google’s use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet.  
 Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
-
-_Lijit_
-
-Lijit, as a third party vendor, uses cookies to serve ads on our site. The data collected by Lijit is anonymous unless you voluntarily provide personal data to Lijit.
-
-You can view Lijit’s full privacy policy here: <http://www.lijit.com/company/privacy-policy>[ ](http://www.lijit.com/company/privacy-policy)
-
-You can opt out of Lijit’s tracking cookie here: <http://www.lijit.com/choices>
 
 **What do we use your information for?**
 
@@ -40,7 +32,7 @@ We implement a variety of security measures to maintain the safety of your perso
 
 Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information
 
-We use cookies to keep track of advertisements.
+We use cookies to keep track of advertisements and make sure redundant information is not displayed.
 
 **Do we disclose any information to outside parties?**
 
@@ -58,9 +50,21 @@ We are in compliance with the requirements of COPPA (Childrens Online Privacy Pr
 
 This online privacy policy applies only to information collected through our website and not to information collected offline.
 
+**Terms of Use**
+
+Comments made on our website are moderated at the discretion of the editorial team. Comments which are racist, violent or which contain excessive profanity will not be allowed. Users who regularly disregard the above comment policy will be banned from further commenting on the site.
+
+As this is a privately owned website, any user may be banned from commenting for any reason. You may or may not receive a warning. You may be banned simply because an editor doesn’t like what you have to say.
+
+Not all comments will be published. We reserve the right to only publish comments which meet our internal guidelines and the guidelines of our sponsors. Only a small percentage of the comments we receive meet our guidelines and are actually published. Most comments are not published. 
+
+Please use clean language, non-racist language, non-violent language and contribute to the topic of the article to increase the chances of having your comment published.
+
+Some regular users have been white listed, which means their comments may appear without being moderated. If a white listed user repeatedly breaks the above policies, they can also be banned without warning.
+
 **Your Consent**
 
-By using our site, you consent to our [privacy policy](http://www.freeprivacypolicy.com/).
+By using our site, you consent to our privacy policy and terms of use. These terms may be ammended at any time and for any reason. It is the responsibility of the user to monitor the Privacy Policy and Terms of Use for changes.
 
 **Contacting Us**
 
