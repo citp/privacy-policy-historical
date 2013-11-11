@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ceoexpress.com privacy policy that was archived on 2013-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130605180915id_/http%3A//www.ceoexpress.com/html/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ceoexpress.com privacy policy that was archived on 2013-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131111052425id_/http%3A//www.ceoexpress.com/html/privacy.asp) for the most accurate reproduction.*
 
 # CEOExpress - Privacy Policy
 
