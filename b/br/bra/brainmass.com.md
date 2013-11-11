@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brainmass.com privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530184041id_/http%3A//brainmass.com/content/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brainmass.com privacy policy that was archived on 2013-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131111165344id_/http%3A//brainmass.com/content/privacy_policy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Homework Help from BrainMass
 
@@ -66,9 +66,9 @@ No information sent to BrainMass.com via email or the website inquiry form is us
 
 **Corrections / Update**
 
-This site gives Online Teaching Assistants and student-users the following options for removing their information from our database to cancel future communications, to no longer receive our service, or to change their information on our database:
+This site gives Academic Experts and student-users the following options for removing their information from our database to cancel future communications, to no longer receive our service, or to change their information on our database:
 
-  1. Send email to [contact@brainmass.com](mailto:contact@brainmass.com) (Online Teaching Assistants).
+  1. Send email to [contact@brainmass.com](mailto:contact@brainmass.com) (Experts).
   2. Send email to [operations@brainmass.com](mailto:operations@brainmass.com) (Student-users).
 
 
@@ -87,5 +87,5 @@ Newmarket, ON, Canada
 L3Y 3T2  
 Email: [contact@brainmass.com](mailto:contact@brainmass.com)
 
-© BrainMass Inc. 2010  
-Last updated September 1, 2010
+© BrainMass Inc. 2013  
+Last updated September 26, 2013
