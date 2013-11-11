@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bizindia.net privacy policy that was archived on 2012-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121109012920id_/http%3A//www.bizindia.net/%3Fpage_id%3D375) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bizindia.net privacy policy that was archived on 2013-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131111194744id_/http%3A//www.bizindia.net/%3Fpage_id%3D375) for the most accurate reproduction.*
 
-# Bizindia » Privacy Policy
+# BizIndiaPrivacy Policy » BizIndia
 
 [](http://www.sorinroyercooper.com/)**BIZ INDIA Privacy Policy Highlights**
 
@@ -54,4 +54,4 @@ We employ measures designed to protect the security of your personal identifying
 
 How To Contact Us
 
-For any questions or comments regarding our information or security practices, you may contact us through the “Contact Us” form. or by mail at our current mailing address.[](https://www.cooper-electric.com/)
+For any questions or comments regarding our information or security practices, you may contact us through the “Contact Us” form. or by mail at our current mailing address.[](https://www.derbyappliances.com/)
