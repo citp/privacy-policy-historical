@@ -1,9 +1,10 @@
-> *The following text is extracted and transformed from the adslot.com privacy policy that was archived on 2013-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130630234427id_/http%3A//www.adslot.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adslot.com privacy policy that was archived on 2013-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131111051505id_/http%3A//www.adslot.com/privacy-policy) for the most accurate reproduction.*
 
 # Adslot's Privacy Policy | Adslot
 
-## Your rights in relation to privacy
+### **Your rights in relation to privacy:**
 
+  
 _**Adslot Technology ACN 123 931 804**_  ( **We, us, our** ) understand the importance of protecting the privacy of an individual’s personal information. This policy sets out how we aim to protect the privacy of your personal information, your rights in relation to your personal information managed by us and the way we collect, use and disclose your personal information. In handling your personal information, we will comply with the Privacy Act 1988 (Cth) ( **Privacy Act** ) and with the ten National Privacy Principles in the Privacy Act, as well as this Privacy Policy. This policy may be updated from time to time.
 
 ### What kinds of personal information do we collect?
@@ -14,9 +15,10 @@ Personal information is any information that identifies an individual or any inf
 
 We generally collect two kinds of information:
 
-1\. Personal information including your name, address, telephone number, email address and bank and credit card details (as provided by you); and
+  1. Personal information including your name, address, telephone number, email address and bank and credit card details (as provided by you); and
+  2. Aggregated statistical data which is information relating to your use of our websites, services and products, including access to any online platforms available via those websites, such as traffic flow and demographics.
 
-2\. Aggregated statistical data which is information relating to your use of our websites, services and products, including access to any online platforms available via those websites, such as traffic flow and demographics.
+
 
 There may be other occasions when we collect your personal information from other sources, such as from an information services provider or publicly maintained records. We may also collect statistical information when you access and use our websites and any online platforms available via our websites, by utilising features and technologies of your internet browser, including cookies and pixel tags. These features and technologies however do not specifically identify you unless you expressly provide to us personally identifiable information. You may also elect to turn off the internet browser features which allow us to collect statistical information by selecting certain options on your browser. However, this may slow down or cause certain web pages to be inaccessible to you
 
@@ -26,21 +28,25 @@ We collect your personal information for the purposes of providing you our produ
 
 Where applicable, we may use your personal information:
 
-\- for accounting, billing and other internal administrative purposes;  
-\- to respond to any enquiry you submit to us from time to time;  
-\- to identify and inform you of products and services that may be of interest to you;  
-\- to fulfil any of our legal requirements; and  
-\- for other purposes permitted or referred to under any terms and conditions you enter into or otherwise agree to with respect to the use of our websites, online platforms, products or services.
+  * for accounting, billing and other internal administrative purposes;
+  * to respond to any enquiry you submit to us from time to time;
+  * to identify and inform you of products and services that may be of interest to you;
+  * to fulfil any of our legal requirements; and
+  * for other purposes permitted or referred to under any terms and conditions you enter into or otherwise agree to with respect to the use of our websites, online platforms, products or services.
+
+
 
 You are under no obligation to provide your personal information to us. However, without certain information from you, we may not be able to provide our services to you.
 
 In relation to the statistical information collected by us, we collect this information for the purposes of:
 
-\- tracking return visits to our websites;  
-\- accumulating and reporting anonymous, aggregate (data collected in mass) and statistical information on website usage, use of our online platforms or the results or other outcomes achieved  
-\- as a result of the use of our websites, platforms, products or services;  
-\- determining the web pages and features most utilized on our websites; and  
-\- displaying online advertisements which may be of interest to you.
+  * tracking return visits to our websites;
+  * accumulating and reporting anonymous, aggregate (data collected in mass) and statistical information on website usage, use of our online platforms or the results or other outcomes achieved
+  * as a result of the use of our websites, platforms, products or services;
+  * determining the web pages and features most utilized on our websites; and
+  * displaying online advertisements which may be of interest to you.
+
+
 
 If you do not wish to have your personal information used in any manner or purpose specified above, please contact our Privacy Compliance Officer.
 
@@ -68,9 +74,11 @@ For further information or enquiries regarding your personal information, please
 
 Please direct all privacy complaints to our Privacy Compliance Officer. At all times, privacy complaints:
 
-\- will be treated seriously;  
-\- will be dealt with promptly;  
-\- will be dealt with in a confidential manner; and  
-\- will not affect your existing obligations or affect the commercial arrangements between you and us.
+  * will be treated seriously;
+  * will be dealt with promptly;
+  * will be dealt with in a confidential manner; and
+  * will not affect your existing obligations or affect the commercial arrangements between you and us.
+
+
 
 Our Privacy Compliance Officer will commence an investigation into your complaint. You will be informed of the outcome of your complaint following completion of the investigation.
