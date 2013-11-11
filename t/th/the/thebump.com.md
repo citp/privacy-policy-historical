@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thebump.com privacy policy that was archived on 2013-02-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130203141339id_/http%3A//pregnant.thebump.com/help-center/the-bump-about-us/articles/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thebump.com privacy policy that was archived on 2013-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131111234134id_/http%3A//pregnant.thebump.com/help-center/the-bump-about-us/articles/privacy-policy.aspx) for the most accurate reproduction.*
 
 # TheBump.com Privacy Policy – Your Privacy Rights
 
@@ -109,5 +109,3 @@ If you correspond with us by e-mail, text message, or using Web forms like a “
 
   
 **Last Updated: October 9, 2012**
-
-[ ](http://global.thebump.com/join/EmailPreferences.aspx)
