@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the alfred.com privacy policy that was archived on 2013-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130520202830id_/http%3A//www.alfred.com/Company/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alfred.com privacy policy that was archived on 2013-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131111184047id_/http%3A//www.alfred.com/Company/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
-# Alfred Music Publishing | Privacy Policy
+# Alfred Music | Privacy Policy
 
 Thank you for visiting alfred.com. Your privacy is important to us. To better protect your privacy, we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used at this site.
 
