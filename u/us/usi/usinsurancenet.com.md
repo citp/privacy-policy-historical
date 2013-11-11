@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the usinsurancenet.com privacy policy that was archived on 2013-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130518052022id_/http%3A//usinsurancenet.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usinsurancenet.com privacy policy that was archived on 2013-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131111185920id_/http%3A//usinsurancenet.com/privacy) for the most accurate reproduction.*
 
 # US Insurance Net Privacy Policy
 
