@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the raffles.com privacy policy that was archived on 2013-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130613162238id_/http%3A//www.raffles.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the raffles.com privacy policy that was archived on 2013-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131111034827id_/http%3A//www.raffles.com/privacy) for the most accurate reproduction.*
 
 # Privacy - Raffles Hotels and Resorts
 
