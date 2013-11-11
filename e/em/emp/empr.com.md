@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the empr.com privacy policy that was archived on 2013-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130511201254id_/http%3A//www.empr.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the empr.com privacy policy that was archived on 2013-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131111163605id_/http%3A//www.empr.com/privacypolicy) for the most accurate reproduction.*
 
 # MPR: Concise prescription and OTC drug information, side effects and interactions for medical professionals - MPR
 
-**Last updated: May 2012**
+**Last updated: June 2013**
 
 US Privacy Policy | International Privacy Policy
 
@@ -25,21 +25,13 @@ Haymarket Media Inc.("Haymarket") has created this privacy statement to demonstr
 
 **Information Sharing**
 
-Unless you opt-out, we share your Personal Information with Haymarket's affiliates and partners and third parties licensed to access your Personal Information by any of the foregoing. To opt-out, send us an email to [ Newslettersupport@haymarketmedia.com](mailto:Newslettersupport@haymarketmedia.com)
+Unless you opt-out, we share your Personal Information with Haymarket's affiliates and partners and third parties licensed to access your Personal Information by any of the foregoing. To opt-out, send us an email to [ Newslettersupport@haymarketmedia.com](mailto:Newslettersupport@haymarketmedia.com?Subject=Customer%20Service%20-%20MPR)
 
 Except as otherwise provided in this Privacy Policy, we will keep your Personal Information and your Financial Information private and will not share it with third parties, unless such disclosure is necessary to (a) comply with a court order or other legal process; (b) protect our rights or property; or (c) enforce our terms of service. 
 
 Several companies unaffiliated with Haymarket provide email deployment services for our email messages. The personally identifiable information, such as e-mail address, we provide to these vendors for the purposes of e-mail deployment is only used by them for that purpose and not for any other business activity. 
 
-In order to comply with the Federal CAN-SPAM Act of 2003, we also may provide lists of customers who have opted-out of email promotion for Haymarket products to other companies, so they can be suppressed from mailings those companies send on Haymarket’s behalf. In addition, if you unsubscribe from a mailing we send to our own list on behalf of a third party, your removal instruction may also be supplied to the third party and added to their own suppression file. If you continue receiving email after opting out, please contact us at web@haymarketmedia.com. 
-
-**Participation in the Medical Publisher Consortium**
-
-This Digital Offering is a member of the Medical Publisher Consortium (the “Consortium”), and as such has implemented various technologies for universal registration/log-in among all Consortium member websites. These technologies are managed by DMD Marketing Corp. (“DMD”), and may involve the collection, receipt, and sharing of information with DMD and among other Consortium members. If you would like to understand how this Digital Offering’s participation in the Consortium affects your privacy, please click here: 
-
-[ http://www.dmddata.com/c_host/PrivacyPolicy_v3.htm ](http://www.dmddata.com/c_host/PrivacyPolicy_v3.htm)
-
-Please note that the Consortium registration/log-in system may be different from the registration/log-in used by this Digital Offering for other products and services. To the extent that anything in this privacy policy conflicts with the policy for the Consortium technologies, the conflict will be resolved in favor of policy applicable to the Consortium technologies. 
+In order to comply with the Federal CAN-SPAM Act of 2003, we also may provide lists of customers who have opted-out of email promotion for Haymarket products to other companies, so they can be suppressed from mailings those companies send on Haymarket’s behalf. In addition, if you unsubscribe from a mailing we send to our own list on behalf of a third party, your removal instruction may also be supplied to the third party and added to their own suppression file. If you continue receiving email after opting out, please contact us at [web@haymarketmedia.com.](mailto:web@haymarketmedia.com)
 
 **Aggregated information**
 
@@ -51,15 +43,15 @@ As a business-to-business company, we do not knowingly collect information from 
 
 **Updating Visitor Information:**
 
-You have the option of accessing, correcting, updating and modifying your Personal and/or Financial Information, or visitor profile, at any time and as often as desired. If you desire to delete your Personal and/or Financial Information please contact us at web@haymarketmedia.com. 
+You have the option of accessing, correcting, updating and modifying your Personal and/or Financial Information, or visitor profile, at any time and as often as desired. If you desire to delete your Personal and/or Financial Information please contact us at [web@haymarketmedia.com.](mailto:web@haymarketmedia.com)
 
 **Update Your Newsletter Subscriptions**
 
-You can opt-in to newsletter mailing lists, or remove yourself (opt-out) at any time through the subscription management page (this page will display all of your newsletter subscriptions) or by following the instructions at the end of the newsletters you receive. Please allow 3-5 business days for changes to take effect. You can locate the subscription management page through the “Log In” link at the top right hand corner of the Digital Offering. For Haymarket Digital Offerings not offering the subscription management page, please send your email preferences to subscriptions@haymarketmedia.com. 
+You can opt-in to newsletter mailing lists, or remove yourself (opt-out) at any time through the subscription management page (this page will display all of your newsletter subscriptions) or by following the instructions at the end of the newsletters you receive. Please allow 3-5 business days for changes to take effect. You can locate the subscription management page through the “Log In” link at the top right hand corner of the Digital Offering. For Haymarket Digital Offerings not offering the subscription management page, please send your email preferences to [subscriptions@haymarketmedia.com.](mailto:subscriptions@haymarketmedia.com)
 
 **Update Your Print Subscription Information**
 
-You can correct or change your print subscription information by sending an email to subscriptions@haymarketmedia.com. Please allow 2-4 weeks for changes to take effect. 
+You can correct or change your print subscription information by sending an email to [subscriptions@haymarketmedia.com.](mailto:subscriptions@haymarketmedia.com) Please allow 2-4 weeks for changes to take effect. 
 
 **Third Party and Affiliated Links:**
 
@@ -67,13 +59,13 @@ Our Digital Offerings contain external links to other Digital Offerings includin
 
 **Haymarket Magazines, Seminars, Events, Sites and Other Publications and Services**
 
-As a Haymarket customer you can also expect to receive relevant email and postal offers for Haymarket publications, seminars, events, Digital Offerings and other services. From time to time we are also able to secure and offer to our customers specially-negotiated discounts and new products from other leading companies. If you would prefer not to receive such mailings in the future, you can change your preference via the subscription management page which can be located by using the “Log In” link at the top right hand corner of the Digital Offering. For Haymarket Digital Offerings not offering the subscription management page, please send your email preferences to subscriptions@haymarketmedia.com. 
+As a Haymarket customer you can also expect to receive relevant email and postal offers for Haymarket publications, seminars, events, Digital Offerings and other services. From time to time we are also able to secure and offer to our customers specially-negotiated discounts and new products from other leading companies. If you would prefer not to receive such mailings in the future, you can change your preference via the subscription management page which can be located by using the “Log In” link at the top right hand corner of the Digital Offering. For Haymarket Digital Offerings not offering the subscription management page, please send your email preferences to [subscriptions@haymarketmedia.com.](mailto:subscriptions@haymarketmedia.com)
 
 **Haymarket Events**
 
 Haymarket Events are produced for a variety of companies (Sponsors). All data collected during the registration of such events may be shared with those Sponsors. This data is governed by the individual Sponsor's privacy policy and may be used by the Sponsor for follow-up purposes. Please visit the Sponsor’s web site to review its privacy policy. Similarly, Haymarket events will have the same access to this data as the Sponsors, and this Privacy Policy continues to govern how Haymarket uses the data. For details on how event Sponsors use the information you provide, please contact the Sponsor directly.
 
-If you have any questions, please contact Events@haymarketmedia.com.
+If you have any questions, please contact [Events@haymarketmedia.com.](mailto:Events@haymarketmedia.com)
 
 **Haymarket eSeminars**
 
@@ -81,11 +73,15 @@ Haymarket eSeminars produces sponsored webcasts and online trade shows for a var
 
 Haymarket eSeminars also automatically receives and records information on our server logs from your browser, including your IP address, Internet connection speed, Internet connection duration, and Real Media and Windows Media player information. This is done in conjunction with our broadcast providers. Your data is collected and retained by our broadcast providers for the sole purposes of delivering eSeminars content appropriately, traffic reporting, and enabling re-registration for future events. In addition, our broadcast providers use cookie technology to identify you as a registered user of the eSeminars service.
 
-If you have any questions, please contact eSeminars@haymarketmedia.com.
+If you have any questions, please contact [eSeminars@haymarketmedia.com.](mailto:EventseSeminars@haymarketmedia.com)
+
+**Social Rewards Program**
+
+A number of Haymarket’s sites have online social rewards programs. Registering to an applicable site automatically enrolls you in these programs. Any applicable site activity can be published in the various activity leaderboards. If you would prefer not to have your activity published you can change this by selecting the Settings button within the leaderboard and de-selecting the ‘Publish Activity’ tickbox. 
 
 **Email A Friend**
 
-If you choose to use our referral service to inform a friend about our Digital Offering, products, or services, we will ask you for your friend's name and email address. We will send your friend a one-time e-mail inviting them to visit the Digital Offering. We may store this information for the purpose of sending this one-time e-mail and tracking the success of our referral program. Your friend may contact the us at web@haymarketmedia.com to have their information removed from our database. 
+If you choose to use our referral service to inform a friend about our Digital Offering, products, or services, we will ask you for your friend's name and email address. We will send your friend a one-time e-mail inviting them to visit the Digital Offering. We may store this information for the purpose of sending this one-time e-mail and tracking the success of our referral program. Your friend may contact the us at [web@haymarketmedia.com](mailto:web@haymarketmedia.com) to have their information removed from our database. 
 
 **Online Ad Serving**
 
@@ -105,7 +101,7 @@ Like many web sites, Haymarket may also use pixel tags, also known as beacons, s
 
 **Opt-out Option**
 
-Visitors to this Digital Offering can decide if they want to receive promotional information from Haymarket. On the visitor registration pages, prospective visitors can choose to request Haymarket not to e-mail them advertising and promotional information. Should visitors accept promotional e-mail from Haymarket, any e-mail they receive will include instructions on how to be removed from Haymarket's promotional e-mail list. If you continue receiving email after opting out, please contact us at web@haymarketmedia.com. 
+Visitors to this Digital Offering can decide if they want to receive promotional information from Haymarket. On the visitor registration pages, prospective visitors can choose to request Haymarket not to e-mail them advertising and promotional information. Should visitors accept promotional e-mail from Haymarket, any e-mail they receive will include instructions on how to be removed from Haymarket's promotional e-mail list. If you continue receiving email after opting out, please contact us at [web@haymarketmedia.com.](mailto:web@haymarketmedia.com)
 
 **Security and Encryption**
 
@@ -157,7 +153,7 @@ Unfortunately, the transmission of information via the Internet is not completel
 We may use information held about you in the following ways:
 
   * to ensure that the Digital Offering's content is presented in the most effective manner for you and for your computer
-  * to provide you with information, products or services that you request from us or which we feel may interest you; if you would prefer not to have your email address used in this way please let us know by sending an email to sitefeedback@haymarket.com
+  * to provide you with information, products or services that you request from us or which we feel may interest you; if you would prefer not to have your email address used in this way please let us know by sending an email to [sitefeedback@haymarket.com.](mailto:sitefeedback@haymarket.com)
   * to allow you to participate in interactive features of our service where you
   * to allow you to participate in interactive features of our service where you choose to do so;
   * to notify you about changes to our service.
