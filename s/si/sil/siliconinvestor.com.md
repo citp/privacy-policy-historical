@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the siliconinvestor.com privacy policy that was archived on 2013-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130512031156id_/http%3A//www.siliconinvestor.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the siliconinvestor.com privacy policy that was archived on 2013-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131111101931id_/http%3A//www.siliconinvestor.com/privacy.aspx) for the most accurate reproduction.*
 
 # Silicon Investor (SI) -- The First Internet Community
 
-Privacy Policy | [Terms of Use](https://web.archive.org/web/20130512031156id_/http%3A//www.siliconinvestor.com/terms.aspx)   
+Privacy Policy | [Terms of Use](https://web.archive.org/web/20131111101931id_/http%3A//www.siliconinvestor.com/terms.aspx)   
   
   
 Silicon Investor is strongly committed to protecting the privacy of its user community.   
@@ -28,6 +28,4 @@ Questions regarding Silicon Invstor's privacy policy should be directed to:
 Email: 
 
 **Disclosure**  
-Silicon Investor reserves the right to access and disclose individually identifiable information to comply with applicable laws and lawful government requests, to operate its systems properly or to protect itself or its users. Where practical, Silicon Investor will attempt to obtain the prior consent of the individual prior to disclosing individually identifiable information. As mentioned above, we reserve the right to share aggregated "site usage" information with third parties.  
-  
-Copyright © 1995-2013 Knight Sac Media. All rights reserved.
+Silicon Investor reserves the right to access and disclose individually identifiable information to comply with applicable laws and lawful government requests, to operate its systems properly or to protect itself or its users. Where practical, Silicon Investor will attempt to obtain the prior consent of the individual prior to disclosing individually identifiable information. As mentioned above, we reserve the right to share aggregated "site usage" information with third parties.
