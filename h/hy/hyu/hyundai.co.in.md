@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hyundai.co.in privacy policy that was archived on 2013-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130508145249id_/http%3A//www.hyundai.com/in/en/Privacy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hyundai.co.in privacy policy that was archived on 2013-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131111211844id_/http%3A//www.hyundai.com/in/en/Privacy/index.html) for the most accurate reproduction.*
 
-# Privacy | HYUNDAI - NEW THINKING. NEW POSSIBILITIES.
+# Privacy | HYUNDAI MOTOR INDIA - NEW THINKING. NEW POSSIBILITIES.
 
 Hyundai Motor  
 Company takes the  
