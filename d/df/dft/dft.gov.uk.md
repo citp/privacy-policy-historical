@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dft.gov.uk privacy policy that was archived on 2012-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121102152855id_/http%3A//dft.gov.uk/publications/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dft.gov.uk privacy policy that was archived on 2013-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131111073914id_/http%3A//www.dft.gov.uk/privacy) for the most accurate reproduction.*
 
-# Privacy policy - Publications - Department for Transport
+# Privacy policy | Department for Transport
 
 This page:
 
@@ -11,7 +11,7 @@ This page:
 
 The Department has published an information charter on this website, which sets out the standards you can expect from us when we handle your personal information. It also explains how you can ask to see a copy of any personal information that we are processing about you.
 
-  * [DfT information charter](https://web.archive.org/publications/information-charter/)
+  * [DfT information charter](https://www.gov.uk/government/organisations/department-for-transport/about/personal-information-charter)
 
 
 
@@ -27,37 +27,51 @@ Where you are asked to provide information about yourself when you visit certain
 
 ### DSA
 
-  * [Privacy policy for services provided by DSA](https://web.archive.org/publications/dsa-privacy)
+  * [Privacy policy for services provided by DSA](https://www.gov.uk/government/publications/driving-standards-agency-privacy-policy/dsa-privacy-policy.html)
 
 
 
 **For DSA FOI requests**
 
-Knowledge and Information team — FOI  
-The Axis Building  
-112 Upper Parliament Street  
-Nottingham, NG1 6LP  
+Knowledge and Information team — FOI
+
+The Axis Building
+
+112 Upper Parliament Street
+
+Nottingham, NG1 6LP
+
 [foi@dsa.gsi.gov.uk](mailto:foi@dsa.gsi.gov.uk)
 
 **For DSA subject access requests**
 
-Knowledge and Information team — subject access requests  
-The Axis Building  
-112 Upper Parliament Street  
-Nottingham, NG1 6LP  
+Knowledge and Information team — subject access requests
+
+The Axis Building
+
+112 Upper Parliament Street
+
+Nottingham, NG1 6LP
+
 [dataprotection@dsa.gsi.gov.uk](mailto:dataprotection@dsa.gsi.gov.uk)
 
 ### Department for Transport central
 
-The Data Protection Officer  
-Department for Transport  
-D/04, Ashdown House  
-Sedlescombe Road North  
-St Leonards on Sea,   
-East Sussex, TN37 7GA  
+The Data Protection Officer
+
+Department for Transport
+
+D/04, Ashdown House
+
+Sedlescombe Road North
+
+St Leonards on Sea,
+
+East Sussex, TN37 7GA
+
 [informationhandling@dft.gsi.gov.uk](mailto:informationhandling@dft.gsi.gov.uk)
 
-  * [What you need to know about making an FOI request to DfT](https://web.archive.org/foi/making-an-foi-request/)
+  * [What you need to know about making an FOI request to DfT](https://www.gov.uk/government/organisations/department-for-transport#foi-contacts)
 
 
 
@@ -65,7 +79,7 @@ East Sussex, TN37 7GA
 
 Our information charter provides details about what you should do if you are unhappy with our service and wish to make a complaint to any part of the Department.
 
-  * [DfT information charter](https://web.archive.org/publications/information-charter/)
+  * [DfT information charter](https://www.gov.uk/government/organisations/department-for-transport/about/personal-information-charter)
 
 
 
@@ -75,9 +89,8 @@ If this privacy policy changes, we will update this page.
 
 ## General help
 
-For further help about this website see:
+For further help about this website contact:
 
-  * [Website terms and conditions for use](https://web.archive.org/site/terms)
   * [webmasterdft@dft.gsi.gov.uk](mailto:webmasterdft@dft.gsi.gov.uk)
 
 
