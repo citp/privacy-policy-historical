@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the lookhuman.com privacy policy that was archived on 2013-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130513210824id_/http%3A//www.lookhuman.com/help/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lookhuman.com privacy policy that was archived on 2013-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131111190005id_/http%3A//www.lookhuman.com/help/privacy-policy) for the most accurate reproduction.*
 
-# None
+# About | HUMAN | Well-designed + Affordable T-Shirts, Art Prints, Posters, & Accessories
 
 We are committed to protecting your privacy. We have created this privacy policy to make sure you know what information we collect and how we use it. By using the Human.com web site, you consent to the collection and use of your information as we have outlined in this policy.
 
