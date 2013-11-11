@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spelthorne.gov.uk privacy policy that was archived on 2013-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130529101628id_/http%3A//www.spelthorne.gov.uk/article/2186/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spelthorne.gov.uk privacy policy that was archived on 2013-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131111195406id_/http%3A//www.spelthorne.gov.uk/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Spelthorne Borough Council
 
@@ -35,7 +35,7 @@ We do not use cookies for collecting user information and we will not collect an
 This privacy statement only covers the Spelthorne Borough Council website. This statement does not cover links within this site to other websites. 
 
   * Print this page 
-  * Published 09 May 2012, 4.07PM
-  * [Top of page](http://www.spelthorne.gov.uk/article/2186/Privacy-Policy#top)
+  * Published 22 August 2013, 11.22AM
+  * [Top of page](http://www.spelthorne.gov.uk/privacy#top)
 
 
