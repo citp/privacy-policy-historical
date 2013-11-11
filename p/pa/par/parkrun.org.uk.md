@@ -1,47 +1,49 @@
-> *The following text is extracted and transformed from the parkrun.org.uk privacy policy that was archived on 2012-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121010125805id_/http%3A//www.parkrun.org.uk/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the parkrun.org.uk privacy policy that was archived on 2013-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131111234225id_/http%3A//www.parkrun.com/privacy) for the most accurate reproduction.*
 
-# parkrun UK home
+# privacy | parkrun
 
-parkrun UK is committed to protecting your privacy and developing technology that gives you the most powerful and safe online experience. This Statement of Privacy applies to the parkrun UK Web site and governs data collection and usage. By using the parkrun UK website, you consent to the data practices described in this statement.
+parkrun are committed to respecting and protecting your online privacy.
 
-Collection of your Personal Information
+This includes your need and your right to know what we do with the personal information you share with us. It also guides our policies regarding the management of this data, including how the information is collected, processed, and for what purposes.
 
-parkrun UK collects personally identifiable information, such as your e-mail address, name, home or work address or telephone number. parkrun UK also collects anonymous demographic information, which is not unique to you, such as your ZIP code, age, gender, preferences, interests and favorites.
+"parkrun websites": refers to the web pages for parkrun countries. These are administered by UKTT, who provide the technology services to parkrun organisations around the world. By accessing these websites you are consenting to the way information is collected and used, as described within this Privacy Policy.
 
-There is also information about your computer hardware and software that is automatically collected by parkrun UK. This information can include: your IP address, browser type, domain names, access times and referring Web site addresses. This information is used by parkrun UK for the operation of the service, to maintain quality of the service, and to provide general statistics regarding use of the parkrun UK Web site.
+In return, parkrun gives the commitment that we will use the personal data you provide only in ways that are compatible with the following Privacy Policy.
 
-Please keep in mind that if you directly disclose personally identifiable information or personally sensitive data through parkrun UK public message boards, this information may be collected and used by others. Note: parkrun UK does not read any of your private online communications.
+## The collection of information
 
-parkrun UK encourages you to review the privacy statements of Web sites you choose to link to from parkrun UK so that you can understand how those Web sites collect, use and share your information. parkrun UK is not responsible for the privacy statements or other content on Web sites outside of the parkrun UK and parkrun UK family of Web sites.
+Every time you connect to parkrun websites your IP (Internet Protocol) address registers on our servers. Your IP address reveals no information other than the number assigned to you. We do not use this technology to get any personal data against your knowledge or free will (i.e., automatically recording e-mail addresses of visitors). Nor do we use it for any purpose other than to help us monitor traffic on our website, or (in case of criminal activity or misuse of our information) to cooperate with law enforcement.
 
-Use of your Personal Information
+We also store the details you provide to us during registration, which are needed to operate the parkrun site/service (eg. to send you your results, for our event teams to identify you when you volunteer etc). We use this data internally, and make copies of it for backup purposes. We will take reasonable technical and organisational precautions to prevent the loss, misuse or alteration of your personal information.
 
-parkrun UK collects and uses your personal information to operate the parkrun UK Web site and deliver the services you have requested. parkrun UK also uses your personally identifiable information to inform you of other products or services available from parkrun UK and its affiliates. parkrun UK may also contact you via surveys to conduct research about your opinion of current services or of potential new services that may be offered.
+## Cookies
 
-parkrun UK does not sell, rent or lease its customer lists to third parties. parkrun UK may, from time to time, contact you on behalf of external business partners about a particular offering that may be of interest to you. In those cases, your unique personally identifiable information (e-mail, name, address, telephone number) is not transferred to the third party. In addition, parkrun UK may share data with trusted partners to help us perform statistical analysis, send you email or postal mail, provide customer support, or arrange for deliveries. All such third parties are prohibited from using your personal information except to provide these services to parkrun UK, and they are required to maintain the confidentiality of your information.
+We use a number of different cookies on our site. If you do not know what cookies are, or how to control or delete them, then we recommend you visit [http://www.aboutcookies.org](http://www.aboutcookies.org/) for detailed guidance.
 
-parkrun UK does not use or disclose sensitive personal information, such as race, religion, or political affiliations, without your explicit consent.
+The list below describe the cookies we use on this site and what we use them for. Currently we operate an ‘implied consent’ policy which means that we assume you are happy with this usage. If you are not happy, then you should either not use this site, or you should delete the cookies having visited the site, or you should browse the site using your browser’s anonymous usage setting (called “Incognito” in Chrome, “InPrivate” for Internet Explorer, “Private Browsing” in Firefox and Safari etc.)
 
-parkrun UK keeps track of the Web sites and pages our customers visit within parkrun UK, in order to determine what parkrun UK services are the most popular. This data is used to deliver customized content and advertising within parkrun UK to customers whose behavior indicates that they are interested in a particular subject area.
+### First Party Cookies
 
-parkrun UK Web sites will disclose your personal information, without notice, only if required to do so by law or in the good faith belief that such action is necessary to: (a) conform to the edicts of the law or comply with legal process served on parkrun UK or the site; (b) protect and defend the rights or property of parkrun UK; and, (c) act under exigent circumstances to protect the personal safety of users of parkrun UK, or the public.
+These are cookies that are set by this website directly.
 
-Use of Cookies
+**Google Analytics** : We use Google Analytics to collect information about visitor behaviour on our website. Google Analytics stores information about what pages you visit, how long you are on the site, how you got here and what you click on. This Analytics data is collected via a JavaScript tag in the pages of our site and is not tied to personally identifiable information.We therefore do not collect or store your personal information (e.g. your name or address) so this information cannot be used to identify who you are.
 
-The parkrun UK Web site use "cookies" to help you personalize your online experience. A cookie is a text file that is placed on your hard disk by a Web page server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a web server in the domain that issued the cookie to you.
+You can find out more about Google’s position on privacy as regards its analytics service at <http://www.google.com/intl/en_uk/analytics/privacyoverview.html>
 
-One of the primary purposes of cookies is to provide a convenience feature to save you time. The purpose of a cookie is to tell the Web server that you have returned to a specific page. For example, if you personalize parkrun UK pages, or register with parkrun UK site or services, a cookie helps parkrun UK to recall your specific information on subsequent visits. This simplifies the process of recording your personal information, such as billing addresses, shipping addresses, and so on. When you return to the same parkrun UK Web site, the information you previously provided can be retrieved, so you can easily use the parkrun UK features that you customized.
+**Google Adsense/DFP** : We use Google Adsense and DFP Small Business to display adverts on some parts of our websites. These use cookies to store information about what pages you visit, and which adverts you are shown. You can read more about Google's [Adsense cookie policy](https://support.google.com/adsense/answer/2839090) and [DFP cookies](https://support.google.com/dfp_sb/answer/79284?hl=en-GB)
 
-You have the ability to accept or decline cookies. Most Web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. If you choose to decline cookies, you may not be able to fully experience the interactive features of the parkrun UK services or Web sites you visit.
+**WordPress** : Our websites runs the popular WordPress CMS and cookies are used to store basic data for some interactions with WordPress, and whether you have logged into WordPress (this is mainly relevant for event team volunteers). We use a session cookie to remember your log-in for you if you are a registered user and we deem these as being strictly necessary to the working of the website. If these are disabled then various functionality on the site will be broken.
 
-Security of your Personal Information
+More information on session cookies and what they are used for at <http://www.allaboutcookies.org/cookies/session-cookies-used-for.html>
 
-parkrun UK secures your personal information from unauthorized access, use or disclosure. parkrun UK secures the personally identifiable information you provide on computer servers in a controlled, secure environment, protected from unauthorized access, use or disclosure. When personal information (such as a credit card number) is transmitted to other Web sites, it is protected through the use of encryption, such as the Secure Socket Layer (SSL) protocol.
+### Third Party Cookies
 
-Changes to this Statement
+These are cookies set on your machine by external websites whose services are used on this site. Cookies of this type are the sharing buttons across the site allow visitors to share content onto social networks. Cookies are currently set by Twitter and Facebook. In order to implement these buttons, and connect them to the relevant social networks and external sites, there are scripts from domains outside of our website. You should be aware that these sites are likely to be collecting information about what you are doing all around the internet, including on this website.
 
-parkrun UK will occasionally update this Statement of Privacy to reflect company and customer feedback. parkrun UK encourages you to periodically review this Statement to be informed of how parkrun UK is protecting your information.
+You should check the respective policies of each of these sites to see how exactly they use your information and to find out how to opt out, or delete, such information.
 
-Contact Information
+## Versions
 
-parkrun UK welcomes your comments regarding this Statement of Privacy. If you believe that parkrun UK has not adhered to this Statement, please contact parkrun UK at [alan@parkrun.com](mailto:alan@parkrun.com). We will use commercially reasonable efforts to promptly determine and remedy the problem.
+  * [Polska wersja jest dostępna](http://www.parkrun.com/privacy/polityka-prywatnosci/).
+
+
