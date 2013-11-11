@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ashleyfurniture.com privacy policy that was archived on 2013-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130615013420id_/http%3A//ashleyfurniture.com/SiteMap/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ashleyfurniture.com privacy policy that was archived on 2013-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131111212320id_/http%3A//www.ashleyfurniture.com/SiteMap/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -8,7 +8,7 @@ Ashley Furniture Industries, Inc. Privacy Policy
   
 ---  
   
-Our commitment  
+Our Commitment  
   
 The following describes the Privacy Policy of Ashley Furniture Industries, Inc. (referred to as “Ashley Furniture,” “we,” “us,” and “our”) for this Web site. We understand how important it is to keep your personal information confidential. We value the information you provide to us and want you to be confident that we are committed to protecting your privacy. Our commitment to protecting your privacy is outlined in the policies below.  
   
