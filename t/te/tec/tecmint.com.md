@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tecmint.com privacy policy that was archived on 2013-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130511023549id_/http%3A//www.tecmint.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tecmint.com privacy policy that was archived on 2013-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131111164220id_/http%3A//www.tecmint.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -20,19 +20,19 @@ Our Site may use “ **cookies** ” to enhance User experience. User’s web br
 
 Tecmint.com may collect and use Users personal information for the following purposes:
 
- **To improve customer service**
+**To improve customer service**
 
   1. Information you provide helps us respond to user’s request and query.
 
 
 
- **To improve our Site.**
+**To improve our Site.**
 
   1. We may use feedback from you to improve our products and services.
 
 
 
- **To send periodic emails.**
+**To send periodic emails.**
 
   1. We may use the email address to respond to their queries, questions, and/or other requests. If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
 
@@ -70,4 +70,4 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 
 If you have any questions about this **Privacy Policy** , the practices of this site, or your dealings with this site, please Contact us at: **tecmint.com@gmail.com**
 
- **This document was last updated on **July 07, 2012**.**
+**This document was last updated on **July 07, 2012**.**
