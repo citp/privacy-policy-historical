@@ -1,78 +1,151 @@
-> *The following text is extracted and transformed from the mileycyrus.com privacy policy that was archived on 2011-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110102080023id_/http%3A//www.mileycyrus.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mileycyrus.com privacy policy that was archived on 2013-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131111214905id_/http%3A//www.mileycyrus.com/privacy) for the most accurate reproduction.*
 
-# MileyCyrus » Privacy Policy
+# Miley Cyrus
 
-**The Interactive Media Marketing, Inc. Family of Companies and Smiley Miley Inc. (hereinafter individually and collectively "IMM") has taken great pride in the relationships that it has developed with its visitors. In keeping with this tradition, we at IMM are dedicated to protecting your privacy and handling any personal information we obtain from you with care and respect. This Privacy Policy is designed to answer your questions regarding our privacy policies and principles.**
+This policy is effective as of **November 29, 2011** , and reflects only non-material changes and clarifications from the previous version.
 
-**We recognize the need to provide additional protections for children who visit  
-our sites. To read about our privacy protections for kids under the age of 13,  
-[  
-click here](http://www.mileyworld.com/community/kids_privacy) to read the IMM Kids Privacy Policy. **
+**Please read these terms of use carefully as they contain important information regarding your legal rights, remedies and obligations. these include various limitations and exclusions, and a dispute resolution clause that governs how disputes will be resolved.**
 
-**IMM General Privacy  
-Policy** | **  
-**  
----|---  
-  
-**Q1.** What type of information does this Privacy Policy cover?  
-**A1.** Except as specifically described below (in A2, A6 and elsewhere in this Privacy Policy), this Privacy Policy applies only to personally identifiable information collected on MileyCyrus.com and does not apply to any other information collected by IMM through any other means. This Privacy Policy applies to use and sharing of personally identifiable information collected on and after the date that this Privacy Policy is posted. However, for visitors who registered on our Web sites prior to the date that this Privacy Policy is posted, we will apply this Privacy Policy to personally identifiable information associated with that account only if the visitor accepts the terms and conditions of this Privacy Policy. By using and accessing the Web sites where this Privacy Policy is located, you are accepting the terms and conditions of such Privacy Policy. Once the visitor has accepted these terms and conditions, this Privacy Policy will also apply to personally identifiable information collected from that visitor prior to the date that this Privacy Policy is posted. In a similar fashion, we will apply this Privacy Policy to personally identifiable information collected in the course of Other Transactions (as defined in A3 below and elsewhere in this Privacy Policy) that occurred prior to the date that this Privacy Policy is posted, but only if the visitor accepts the terms and conditions of this Privacy Policy.
+This Privacy Policy, effective November 29, 2011, is designed to help you, the user, understand how Ground(ctrl)™ (“us”, “we”, or “our”) collects and then uses the personal information you provide us when signing up as a new “member.” We do this so you can make informed decisions both when deciding whether to become a member and when using this service.
 
-As used in this Privacy Policy, the "IMM Family of Companies" includes IMM and all of its subsidiary and affiliated entities and we refer to customers of the IMM as "visitors".  
-When this Privacy Policy uses the term "personally identifiable information," it means information that identifies a particular individual, such as the individual’s name, postal address, e-mail address, and telephone number. When other information, such as, for example, consumer product preferences, or number of children, is directly associated with personally identifiable information, this other information also becomes personally identifiable information for purposes of this Privacy Policy. Personally identifiable information is sometimes referred to in this Privacy Policy as "personal information." Finally, the terms of this Privacy Policy are subject to all applicable laws. 
+By accessing and/or using this web site, you are (1) becoming a member of the Ground(ctrl)™ social networking community (the “network”) and (2) accepting the practices described in this Privacy Policy.
 
-**Q2.** What types of personally identifiable information do we collect?  
-**A2.** We collect several types of personally identifiable information about  
-our visitors.
+We would like to thank you for becoming a member of the network—a network that takes each member’s privacy rights seriously. If you have any questions concerning the network’s Privacy Policy, please contact us at the mailing address, telephone number, or email address at the end of this page.
 
-_Information You Provide  
-_Much of the personally identifiable information we receive comes directly from visitors who are interested in obtaining various products and services from us. Typically, this information includes the visitor’s name, postal address, e-mail address, and telephone number. We may also collect other types of information such as gender, age, number of children, and personal interests, which we may associate with personally identifiable information. If you purchase products or services from us, we’ll note, for example, credit card information, the type of services or products ordered or purchased, and the date of the order or purchase. We collect personal information when you register on, log on, or visit our Web sites, including when you participate in activities on our Web sites, such as sweepstakes, contests, games and promotional offers.
+## About ground(ctrl)™
 
-_Information Collected Through Technology_  
-We collect information through technology to make our sites more interesting and useful to you. For instance, when you come to one of our sites, we collect your IP address. An IP address is often associated with the portal through which you enter the Internet, like your ISP (Internet service provider), your company, or your university. Standing alone, your IP address is not personally identifiable. At times, we also use IP addresses to collect information regarding the frequency with which our visitors visit various parts of our sites. We may combine this information with personally identifiable information.
+Ground(ctrl)™, as a third-party administrator, maintains and administers the network and this web site. The intent of this web site, and other similar sites maintained and administered by us, is to create a social networking community wherein members can communicate with each other as well as interact with and promote their favorite musicians’ careers.
 
-Our Web sites also use cookies. Cookies are pieces of information that a Web site sends to your computer while you are viewing the Web site. We and other companies use cookies for a variety of purposes. For instance, when you return to one of our sites after logging in, cookies provide information to the site so that the site will remember who you are. You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser (like Firefox/Mozilla, Safari, Netscape Navigator or Internet Explorer) settings. Each browser is a little different, so look at your browser Help menu to learn the correct way to modify your cookies. If you turn cookies off, you won’t have access to many features that make your Web experience smoother, like the features mentioned above, and some of our services will not function properly.
+To enhance each member’s social networking experience, we request and display personal information to other members and visitors. This information is necessary to allow members to identify each other, expand their network of friends, promote each member’s favorite musicians through contests and other incentives, and to repay members for their interaction with the network through contests and prizes.
 
-Our Web sites use a variety of technical methods for tracking purposes, including Web beacons. Web beacons are small pieces of data that are embedded in images on the pages of Web sites. We also use these technical methods to analyze the traffic patterns on our Web sites, such as the frequency with which our users visit various parts of our Web sites. These technical methods may involve the transmission of information either directly to us or to another party authorized by us to collect information on our behalf. We also use these technical methods in HTML e-mails that we send our visitors to determine whether our visitors have opened those e-mails and/or clicked on links in those e-mails. The information from use of these technical methods may be collected in a form that is personally identifiable.
+## The Information We Collect
 
-_Information That We Collect from Others  
-_We may supplement personally identifiable information that we have collected directly from our visitors with other information that we obtain from third parties and other members of the IMM. In addition, we may obtain information about individuals who are not yet users of our Web sites or visitors of IMM. In addition, when we associate information that we obtain from third parties or other members of IMM with personally identifiable information that we have collected under this Privacy Policy, we will treat the acquired information like the information that we collected ourselves and, except as permitted by this Privacy Policy, the information will not be shared with third parties.
+When you visit this web site, you provide us with three types of information:
 
-**Q3.** How is your personally identifiable information used and shared?  
-**A3.** As described in detail below, IMM may use your personally identifiable information in many ways, including sending you promotional materials, and sharing your information with third parties so that these third parties can send you promotional materials. (By "promotional materials," we mean communications that directly promote the use of our Web sites, or the purchase of products or services.) As outlined in A4 below and elsewhere in this Privacy Policy, you may "opt-out" of certain uses of your personal information.
+  1. Web site information collected by us through your interaction with this web site;
+  2. Personal information you knowingly and voluntarily disclose to us when signing up as a member and through the continued use of this service; and
+  3. Personal information you knowingly and voluntarily disclose to use when using this service.
 
-IMM may also use your personal information for many purposes other than sending you promotional materials. For example, we may use your information to complete transactions requested by you from IMM or offered by third parties (such as your purchase of a product or service offered on our Web sites), or to send you administrative communications either about your account with us or about features of our Web sites, including any future changes to this Privacy Policy.
 
-IMM may take your personally identifiable information and make it non-personally identifiable, either by combining it with information about other individuals (aggregating your information with information about other individuals), or by removing characteristics (such as your name) that make the information personally identifiable to you (de-personalizing your information). Given the nature of this information, there are no restrictions under this Privacy Policy upon the right of IMM to aggregate or de-personalize your personal information, and IMM may use and/or share with third parties the resulting non-personally identifiable information in any way.
 
-_Third Parties Offering Promotions, Products, or Services  
-_Subject to your opt-out choices, IMM may share your personal information with selected third parties so that they can send you promotional materials about goods and services (including special offers and promotions) offered by them. When sharing your information for promotional purposes, IMM attempts to select only reputable companies that offer high quality products and services. Moreover, IMM will not share your e-mail address with third parties for promotional purposes, except when you consent to such sharing in the course of your participation in a Sponsored Activity as described below. When IMM shares your personal information with a third party under any circumstance described in this "Third Parties Offering Promotions, Products, or Services" section, your personal information will become permanently subject to the information use and sharing practices of the third party, and the third party will not be restricted by this Privacy Policy with respect to its use and further sharing of your personal information.
+First, when you or any member signs on to this service, we collect your IP address, your browser type, and certain information from your browser using “cookies”. A cookie is a piece of data stored on a computer that is tied to information about the user. You can easily remove or block this cookie using the settings in your browser if you wish to disable this feature. To confirm that you are logged into the service, we use session ID cookies that immediately terminate once you close your browser.
 
-_Companies That Facilitate Communications and Transactions with You  
-_You Sometimes IMM hires companies to help deliver products or services, like a shipping company that delivers a package or a company that helps fulfill prizes for a sweepstakes. In those instances, there is a need to share your information with these companies. Sometimes IMM also works with other companies who help either gather your information or communicate with you. Your opt-out choices will not apply to sharing by IMM of your personal information with any of these companies. Nonetheless, except as separately permitted by other provisions of this Privacy Policy, these companies are allowed to gather, receive, and use your information only for the purposes described in this paragraph or as required by law.
+Second, when signing up as a member to this web site, and during membership, we collect several pieces of personal information to enhance the network. This information includes the following:
 
-_Disclosures Required By Law and Disclosures to Help Protect the Security and Safety of Our Web Sites_  
-IMM and Others Regardless of any opt-out choices that you make, IMM will disclose personal information when it believes in good faith that such disclosures (a) are required by law, including, for example, to comply with a court order or subpoena, or (b) will help to: enforce our Terms of Use; enforce contest, sweepstakes, promotions, and/or game rules; protect your safety or security, including the safety and security of property that belongs to you; and/or, protect the safety and security of our Web sites, IMM, and/or third parties, including the safety and security of property that belongs to IMM or third parties.
+Your first and last name
+    For the purpose of addressing you personally
+Your email address and encrypted password
+    To provide you with access to your personal account, and to send notifications about activity on the website
+Street address, city, state, postal code, country
+    To verify billing information for orders you place on the website and/or ship merchandise to you
+Your location
+    So you may optionally share your geographic location with other members of the website
+Birth date
+    So that you may optionally share your age with other members of the website
+AIM, Yahoo screen name, Jabber, ICQ screen names
+    So that you may optionally share your instant message information with other users of the site
+Flickr user id and Twitter user name
+    So that you may optionally display recent photos and twitter posts on your profile page
+Links to your third-party sites
+    So that you may optionally share favorite or other personal websites with other members of the site
+An avatar image
+    So that you may optionally provide a visual representation of yourself next to items you publish on the site
 
-**Q4.** What choices do you have about the collection, use, and sharing of  
-your personally identifiable information?  
-**A4.** Users who provide us their personal information and wish for such to be deleted should e-mail their request to legal@mileyworld.com, or contact IMM as listed below in A7.
+We will not collect any more any information that is necessary for you to participate in the Ground(ctrl)™ social networking community.
 
-**Q5.** What kinds of security measures do we take to safeguard your  
-personally identifiable information?  
-**A5.** The security and confidentiality of your information is extremely important to us. We have implemented technical, administrative, and physical security measures to protect visitor information from unauthorized access and improper use, including having the Web site certified as being "hacker safe". From time to time, we review our security procedures in order to consider appropriate new technology and methods. Please be aware though that, despite our best efforts, no security measures are perfect or impenetrable.
+Third, when using this service, you may change your member profile, send messages to other members, receive messages from other members, form relationships, view photos, share photos, post blog comments, post links to other web sites (including web sites not controlled by ground(ctrl)™), transmit information through various channels, participate in musician campaigns, earn points toward promotional items, and redeem those points for promotional items (collectively the “User Content”).
 
-**Q6.** How can you update your contact information and opt out choices?  
-**A6.** You can access and update the contact information you gave us during registration (that is, your postal address, e-mail address, or any other information that would directly enable us to contact you), or modify your opt-out choices as described in Q4 above.   
-**  
-Q7.** How can you ask questions, or send us comments, about this Privacy  
-Policy?  
-**A7.** If you have questions or wish to send us comments about this Privacy Policy, please send an e-mail with your questions or comments to legal@mileyworld.com. You can also write us at IMM, 737 Main St., Suite #100, Safety Harbor, FL 34695 Telephone Number: (800) 490-5303 Facsimile Number: (888) 477-8840 Please be assured that any personal information that you provide in communications to the above e-mail address or post office box will not be used to send you promotional materials, unless you so request.
+## Children's Online Privacy Protection Act Of 1998
 
-**Q8.** How will you know if we amend this Privacy Policy?  
-**A8.** We may amend this Privacy Policy at any time. If we make any material changes in the way we collect, use, and/or share your personal information, we will notify you by sending you an e-mail at the last e-mail address that you provided us, and/or by prominently posting notice of the changes on the Web sites covered by this Privacy Policy. Any material changes to this Privacy Policy will be effective upon the earlier of thirty (30) calendar days following our dispatch of an e-mail notice to you or thirty (30) calendar days following our posting of notice of the changes on the Web sites covered by this Privacy Policy. Please note that, at all times, you are responsible for updating your personal information to provide us your current e-mail address. In the event that the last e-mail address that you have provided us is not valid, or for any other reason is not capable of delivering to you the notice described above, our dispatch of the e-mail containing such notice will nonetheless constitute effective notice of the changes described in the notice. In any event, changes to this Privacy Policy may affect our use of personal information that you provided us prior to our notification to you of the changes. If you do not wish to permit changes in our use of your information, you must notify us prior to the effective date of the changes that you wish to deactivate your account with us. 
+This privacy policy is provided in conformity with the [Children’s Online Privacy Protection Act of 1998](http://www.coppa.org/coppa.htm "COPPA -Children's Online Privacy Protection") (“COPPA”). COPPA requires that we notify parents and legal guardians and obtain consent from parents and legal guardians before we collect, use and/or disclose personal information from children under thirteen (13) years of age.
 
-**YOUR CALIFORNIA PRIVACY RIGHTS  
-**  
-Beginning on January 1, 2005, California Civil Code Section 1798.83 permits visitors to the IMM Web sites who are California residents to request certain information regarding its disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please send an e-mail to legal@mileyworld.com or write us:  
-IMM CA Privacy Rights  
-PO BOX 1209, Safety Harbor, FL 34695-1209
+If parents or legal guardians have any questions regarding their child’s use of this web site, they may contact the operator of this website at the following address, phone number or email:
+
+120 K. Street Suite 3rd Floor
+
+Sacramento, CA 95814
+
+Toll Free: 1 (877) GND-CTRL
+
+Phone (916) 443-9202
+
+Fax (916) 443-9204
+
+Additional operators maintaining information collected through this website include: Miley Cyrus .
+
+The personal information we collect from children under thirteen (13) years of age, and the manner in which we use such information, is identical to the collection and use of any other member’s information. Please refer to sections entitled “The Information We Collect” and “How We Use the Information” for a detailed discussion of how we collect and use personal information from all members, including children under thirteen (13).
+
+As a means of verifying parental consent, we may require that verification be given to us in one of two ways. First, we may require permission by email from what we are told is the parent’s email address. Thereafter, we will respond to that email address to verify that we have received such permission. Second, we may require that the parent consent by providing us with their full name, a valid credit card number and an expiration date. We will not charge your credit card. We will merely use the information to confirm your consent and once verification is or is not made, we will immediately destroy such information.
+
+We do not require any additional information from children under thirteen (13) other than the minimum amount of information we need in order for the child to participate. Parents may review the personal information we collect on that parent’s child by mailing a request to us at the operator address listed above. The parent, after reviewing such information from us, may have it deleted and/or refuse to allow further collection by sending us an email using the password sent with the physical file that we mail to you. The parent also has the option to agree to the collection and use of the child’s information without consenting to the disclosure of the information to third parties.
+
+## Correcting, Updating or Removing Your Information
+
+At any time, members can correct, update, or remove any of their personal information by logging into their account and accessing the “Edit Profile” feature.
+
+## How We Use the Information
+
+We collect the personal information listed above so that we can provide you with personalized features and an enhanced and efficient web site experience. We usually retain this information so you can, for example, view messages you have already read or check campaign dates you are already aware of. You understand and acknowledge that copies of your User Content may remain viewable in cached and/or archived pages or if other members have copied and/or stored your User Content, even after your information has been removed.
+
+When you sign up as a member to the network, you create your own profile. Your profile information, including your name and your photo are displayed to other members in the network so that you may interact and communicate with them. On occasion, we may use your name and email address to send you notifications about the network’s new services, promotional items, merchandise, band news, and transactions involving your accumulated points. Generally, you may opt out of such emails by clicking on the “unsubscribe” link in the email. However, the network expressly reserves the right to send you notices about your account even if you opt out of all voluntary email notifications.
+
+Without identifying you as an individual, the network may provide third parties with information contained in your profile for data gathering purposes (ex: gathering data on how many members like both band A and band B so that personalized advertisements, promotions, etc. can be sent to those particular members). We believe that this information gathering allows each member to get the most out of the network’s benefits—e.g., the distribution of band information that, based on your profile, matters to you.
+
+## Sharing Your Information with Third Parties
+
+This web site is about sharing information with others of your choosing, and a limited number of third parties, to enhance each member’s promotional and informational-sharing experience. Except as otherwise described in this Privacy Policy, the network does not disclose personal information to any third party unless the network believes that disclosure is necessary to:
+
+  1. Enforce the network’s Terms and Conditions of Use Agreement;
+  2. Protect the network’s rights;
+  3. Coincide with legal requirements (ex: responding to a subpoena, search warrant, or any other legal process served upon Ground(ctrl)™). We will not reveal information until we have a good faith belief that the law enforcement information and/or private litigant request meets the applicable legal standards;
+  4. Protect the safety of it’s members; or
+  5. Enhance each member’s promotional and informational-sharing experience.
+
+
+
+The network may provide services jointly with other companies and we may share customer information with that company in connection with your use of that service.
+
+Your name, network names, and profile picture thumbnail will be available in search results across the network and those limited pieces of information may be made available to third party search engines. This is primarily so your friends can find you and send a friend request. People who see your name in searches, however, will not be able to access your profile information unless they have a relationship to you that allows access based on the privacy settings.
+
+Ground(ctrl)™ expressly reserves the right to transfer personal information to a successor in interest that acquires the rights to that information as a result of the sale of Ground(ctrl)™, or the sale of a substantial portion of its assets to that successor in interest.
+
+## Third-Party Advertising
+
+Advertising may appear on this web site and may be delivered to members by one of our web advertising partners. Those web advertising partners may download cookies to your computer that allow the ad server to recognize your computer each time they send you an online advertisement. The web advertising partners may also use other technologies such as JavaScript and “web beacons” (also known as “1x1 gifs”) to measure the effectiveness of their ads and to personalize advertising content. As a consequence, ad servers may compile information about where you, or others using your computer, saw their advertisements and determine which ads you, or others using your computer, clicked on. The purpose of this information is to allow an ad network to deliver targeted advertisements that they believe will interest you. This privacy policy covers the use of cookies by our network only and does not cover the use of cookies by any third-party advertiser.
+
+## Comments, Blogs, Messages, and Links
+
+Please be aware that whenever you voluntarily post any information as a comment, blog, message, link, photo, video, and/or other information, that information can be accessed by the public and can then be used by those people to send you unsolicited communications. Additionally, if you post a link to your network web site on any third party site, your public profile will be viewable by any third party that clicks on your link. If you do not wish to have your public profile viewable to any third party, you should not post links to your network web site on third party sites.
+
+This web site may contain links to other sites, including links posted by you or other members. We are not responsible for the privacy practices of other web sites. As such, we encourage our members to read the privacy statements of each and every web site they visit after clicking on these third-party links. This Privacy Policy applies solely to the information collected in the use of our network and this web site.
+
+## Security
+
+Each member’s account is secured by a member-created password. The network employs reasonable measures to protect member information that is stored within our database, and we restrict the access to member information only to those employees who need access to perform their job functions, such as our customer service personnel and technical staff.
+
+Note: We cannot guarantee the security of each member’s account information as unauthorized entry or use, software or hardware failure, and other uncontrollable factors may compromise the security of each member’s personal information at any time. The network does, however, consider security of each member’s personal information a priority and we take reasonable security steps to protect that information.
+
+## Disclaimer of Liability for Unauthorized Viewing of Personal Information
+
+You post User Content, as described above, on this web site at your own risk. Despite our reasonable efforts to keep your User Content inaccessible to those not authorized to view it, be aware that no perfect security measure(s) exist to insure impenetrability. Additionally, we cannot control the actions of other members that you may choose to share your page and User Content with. We are not responsible for the circumvention of any privacy settings or security measures contained in this web site. Consequently, we cannot and do not guarantee that the User Content you provide and/or post on this web site will not be viewed by unauthorized individuals.
+
+## Changes in the Privacy Policy’S Terms of Use, Notices and Revisions
+
+We may change this privacy policy from time to time. We reserve the right to change our Privacy Policy and our Terms of Use Agreement at any time. Non-material changes and clarifications will take effect immediately, and material changes will take effect within 30 days of their posting on this site. If we do make changes, we will post those changes and indicate at the top of this page the Privacy Policy’s new effective date.
+
+Through this process, members will always be aware of what information we collect, how we use it, and who we may disclose it to. Each member is bound by any change to this Privacy Policy if he or she uses the site after said changes have been posted. If, however, we change this Privacy Policy so that we are using personal information in a manner materially different from the manner as stated at the time of collection, we will notify the members here, by email, or through notice on our home page.
+
+Your use of this web site and our network, and any disputes arising from it, is subject to this Privacy Policy and our Terms of Use Agreement and all of its dispute resolution provisions including arbitration, limitation on damages and choice of law. We strongly encourage you to refer to this Policy on an ongoing basis so that you understand the most current Privacy Policy terms. Unless stated otherwise, our current Privacy Policy applies to all information that we have about you and your account.
+
+If you have any questions regarding this Privacy Policy, the practices of this web site, or your dealings with this web site, please contact us at the following mailing address, phone number, or email address:
+
+120 K. Street Suite 3rd Floor
+
+Sacramento, CA 95814
+
+Toll Free: 1 (877) GND-CTRL
+
+Phone (916) 443-9202
+
+Fax (916) 443-9204
+  *[CA]: California
