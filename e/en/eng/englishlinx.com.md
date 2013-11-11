@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the englishlinx.com privacy policy that was archived on 2013-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130609094032id_/http%3A//englishlinx.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the englishlinx.com privacy policy that was archived on 2013-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131111212842id_/http%3A//englishlinx.com/privacy.html) for the most accurate reproduction.*
 
 # Englishlinx.com | Our Privacy Policies at Englishlinx.com
 
@@ -32,5 +32,12 @@ These sites are provided by Englishlinx.com on an "as is" basis. Englishlinx.com
   
 |   
 |   
+
+
+Custom Search 
+
+  
+  
+  
   
 ---|---|---
