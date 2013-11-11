@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cnccookbook.com privacy policy that was archived on 2013-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130512000955id_/http%3A//www.cnccookbook.com/CCPrivacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cnccookbook.com privacy policy that was archived on 2013-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131111160711id_/http%3A//www.cnccookbook.com/CCPrivacy.htm) for the most accurate reproduction.*
 
 # CNC Cookbook : Privacy Policy
 
