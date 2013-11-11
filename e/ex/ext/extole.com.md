@@ -1,13 +1,19 @@
-> *The following text is extracted and transformed from the extole.com privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602192818id_/http%3A//origin.extole.com/index.php/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the extole.com privacy policy that was archived on 2013-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131111231416id_/http%3A//origin.extole.com/index.php/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Extole
 
 **Extole Privacy Policy**  
-Effective on May 11, 2011  
-Extole Inc. (“Extole”) has been awarded TRUSTe’s Privacy Seal signifying that TRUSTe has reviewed this privacy policy and practices for compliance with [TRUSTe’s program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information.  TRUSTe’s mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at 625 2nd Street, San Francisco, CA 94007 or via email at support@extole.com.  If you are not satisfied with our response you can contact[TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint).
+Effective on July 5, 2013
 
-This privacy policy describes how Extole, Inc (“Extole”) collects and uses the personal information you provide on our Web sites: www.extole.comand [www.tellapal.com](http://www.tellapal.com/), as well as the data collected at the Extole applications and wherever this privacy policy is posted. Please note that for data collected through Extole applications, Extole is acting as a data processor and service provider and collecting the data on behalf of our business clients (“Clients”).  
-Extole complies with the U.S. – E.U. Safe Harbor framework and the U.S. – Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of data from the European Union and Switzerland respectively. Information regarding the both the E.U. and Swiss Safe Harbor Frameworks can be found at: <http://export.gov/safeharbor>“.
+[](https://privacy.truste.com/privacy-seal/Extole,-Inc-/validation?rid=c00381bf-ea37-45cd-a65e-285d4410dc79 "Validate TRUSTe privacy certification")
+
+Extole Inc. (“Extole”) has been awarded TRUSTe’s Privacy Seal signifying that TRUSTe has reviewed this privacy policy and practices for compliance with [TRUSTe’s program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) and the [TRUSTed Cloud Program Requirements](http://www.truste.com/privacy-program-requirements/TRUSTed-cloud/) including transparency, accountability and choice regarding the collection and use of your personal information.  TRUSTe’s mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at 625 2nd Street, San Francisco, CA 94007 or via email at [support@extole.com](mailto:support@extole.com).
+
+Extole participates in the U.S.–E.U. Safe Harbor framework and the U.S.-Swiss Safe Harbor as set forth by the United States Department of Commerce.  As part of our [participation](http://export.gov/safeharbor/) in the safe harbor, we have agreed to TRUSTe dispute resolution for disputes relating to our compliance with the Safe Harbor Privacy Framework. If you have any complaints regarding our compliance with the Safe Harbor you should first contact us (as provided above). If contacting us does not resolve your complaint, you may raise your complaint with TRUSTe by [Internet here](https://feedback-form.truste.com/watchdog/request), fax to 415-520-3420, or mail to TRUSTe Safe Harbor Compliance Dept., [click for mailing address](http://www.truste.com/about-TRUSTe/contact-us). If you are faxing or mailing TRUSTe to lodge a complaint, you must include the following information: the name of company, the alleged privacy violation, your contact information, and whether you would like the particulars of your complaint shared with the company. For information about TRUSTe or the operation of TRUSTe's dispute resolution process, click [here](http://www.truste.com/products-and-services/dispute-resolution-services/) or request this information from TRUSTe at any of the addresses listed above. The TRUSTe dispute resolution process shall be conducted in English.
+
+This privacy policy describes how Extole, Inc (“Extole”) collects and uses the personal information you provide on our Web sites: [www.extole.com](http://www.extole.com/) and [www.tellapal.com](http://www.tellapal.com/), as well as the data collected at the Extole applications and wherever this privacy policy is posted. Please note that for data collected through Extole applications, Extole is acting as a data processor and service provider and collecting the data on behalf of our business clients (“Clients”).  Extole collects information under the direction of its Clients, and has no direct relationship with the individuals whose personal data it processes. Extole works with its Clients to help them provide notice to their customers concerning the purpose for which personal information is collected.
+
+Extole complies with the U.S.–E.U. Safe Harbor framework and the U.S.–Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from European Union member countries and Switzerland.  Extole has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement.  To learn more about the Safe Harbor program, and to view Extole’s certification, please visit http://www.export.gov/safeharbor/.
 
 **Website Visitors**  
 Except as described below, Extole does not collect or require users of its service, http://www.extole.com/, to furnish personal information. Like most websites, Extole collects non-personal information of the sort that web browsers and servers typically make available, such as the browser type, language preference, referring/exit pages, and the date and time of each visitor request, browser type, and operating system. Extole’s purpose in collecting non-personal information is to better understand how Extole’s visitors use its website. From time to time, Extole may release non-personal information in the aggregate, for example, by publishing a report on trends in the usage of its service.
@@ -17,13 +23,12 @@ Extole also collects potentially personal information like Internet Protocol (IP
 **Collection and Use of Personal Information**    
 We collect the following personal information from you when you visit our website:
 
-  * Contact Information such as name, email address, mailing address, phone number
+  * Contact Information such as name, email address, phone number
   * Information about your business such as company name
 
 
 
-As is true of most websites, we automatically gather information about your computer such as your IP address, browser type, referring/exit pages, and operating system.  
-We use this information to
+As is true of most websites, we automatically gather information about your computer such as your IP address, browser type, referring/exit pages, and operating system.  We use this information to
 
   * Send you requested product or service information
   * Enable you to post your resume, search job postings, and contact or be contacted by prospective employers
@@ -34,12 +39,12 @@ In addition Extole provides the technology to promote referral-marketing campaig
 
 Extole also has functionality where we may collect some of your personal information through the Facebook Connect and the Graph API. Your data will be shared with us from Facebook. We use Facebook Connect or an Open ID provider to authenticate your identity and provide you the option to share certain personal information with us such as your name and email address to pre-populate our sign up form and to post information about your activities on this Web site to your profile page to share with others within your network.
 
-For our Facebook applications we also use Facebook Permissions in order to give you the option to share personal information like your activities and interests as well as the authorization to post information about your activity to your profile page.  All personal information that may be collected is done so via an iframe or through a Facebook application on behalf of our client. Please refer to the privacy policy on the site/iframe where this data is collected.  
-If you post on a public forum, you should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your personal information from our blog or community forum, contact us as described below.  In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
+For our Facebook applications we also use Facebook Permissions in order to give you the option to share personal information like your activities and interests as well as the authorization to post information about your activity to your profile page.  All personal information that may be collected is done so via an iframe or through a Facebook application on behalf of our client. Please refer to the privacy policy on the site/iframe where this data is collected.
+
+Extole will retain personal data we process on behalf of our Clients for as long as needed provide services to our Client. Extole will retain and use this personal information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
 **Information Sharing**  
-We will share your personal information with third parties only in the ways that are described in this privacy statement. We do not sell your personal information to third parties.  
-We may provide your personal information to companies that provide services to help us with our business activities:  
+We will share your personal information with third parties only in the ways that are described in this privacy statement. We do not sell your personal information to third parties.  We may provide your personal information to companies that provide services to help us with our business activities:  
 
   * hosting company
   * CRM
@@ -57,16 +62,23 @@ We may also disclose your personal information
 
 
 **Cookies  ** **and Other Tracking Technologies** ** **  
-A cookie is a small text file that is stored on a user’s computer for record-keeping purposes. We use cookies both on our corporate website and our client sites. We do link the information we store in cookies to any personally identifiable information you submit while on our website.  Third parties also use cookies and other tracking technologies such as scripts on our site.  The data is only collected in the aggregate. 
+A cookie is a small text file that is stored on a user’s computer for record-keeping purposes. We use cookies both on our corporate website and our client sites. We do link the information we store in cookies to personally identifiable information you submit while on our website.  Third parties also use cookies and other tracking technologies such as scripts on our site.  The data is only collected in the aggregate. The use of cookies by our affiliates is not covered by our privacy policy.
 
 Extole and certain advertiser partners on the Extole network may use cookies to help Extole identify and track visitors, their usage of Extole service to participate in Extole campaigns, and their website access preferences. It is possible to link cookies to personal information. Extole, however, does not do so. Instead, it uses the information provided by cookies to develop a better understanding of how Extole’s visitors use, and to facilitate those visitors’ interactions with, Extole’s service. Extole visitors who do not wish to have cookies placed on their computers should set their browsers to refuse cookies before linking to Extole’s website, with the drawback that certain features of Extole’s website may not function properly without the aid of cookies.
 
 **Security**  
-The security of your personal information is important to us. We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security. If you have any questions about security on our sites, you can contact us as described below.
+The security of your personal information is important to us. When you enter sensitive information (such as login credentials) we encrypt the transmission of that information using secure socket layer technology (SSL).  We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security. If you have any questions about security on our sites, you can contact us as described below.
 
 **Links to Other Sites**  
-Our site contains links to other sites that are not owned or controlled by us.  Please be aware that we are not responsible for the privacy practices of such other sites. We encourage you to be aware when you leave our site and to read the privacy statements of each and every Web site that collects personally identifiable information.    
+Our site contains links to other sites that are not owned or controlled by us.  Please be aware that we are not responsible for the privacy practices of such other sites. We encourage you to be aware when you leave our site and to read the privacy statements of each and every Web site that collects personally identifiable information.
+
 Our Web site offers publicly accessible blogs or community forums. You should be aware that any information you provide in these areas might be read, collected, and used by others who access them. To request removal of your personal information from our blog or community forum, contact us as described below.  In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why. This privacy statement applies only to information collected by this Web site and everywhere else it is posted.
+
+**Testimonials**  
+We display personal testimonials of satisfied customers on our site in addition to other endorsements.  With your consent we may post your testimonial along with your name.  If you wish to update or delete your testimonial, you can contact us at support@extole.com.
+
+**Social Media Widgets**  
+Our Web site includes Social Media Features, such as the Facebook and Twitter buttons. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it.
 
 **Communications from us**  
 If you register for any of the Extole programs and applications, you may receive promotional communications on behalf of our client. You can opt out of these by unsubscribing through the unsubscribe link in the email.
@@ -74,8 +86,10 @@ If you register for any of the Extole programs and applications, you may receive
 **Updating of Personal information, and Opt-Out**  
 Extole permits its visitors to freely update, correct or delete any personal information maintained by Extole. To do so, visitors need only look for the links and other tools available on Extole’s website or contact Extole by email. Visitors who no longer wish to receive materials distributed pursuant to an Extole mailing list should notify Extole by the same means.
 
+Extole has no direct relationship with the individuals whose personal data it processes. An individual who seeks access, who seeks to correct, amend, delete inaccurate data or withdraw consent to further contact should direct his/her query to the Extole’s Client (the data controller). We will respond to requests for access within 30 days.
+
 **Advertising  **  
-We may partner with a third party ad network to either display advertising on our Web site or to manage our advertising on other sites.  Our ad network partner uses cookies and Web beacons to collect non-personally identifiable information about your activities on this and other Web sites to provide you targeted advertising based upon your interests.  If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by clicking here <http://preferences.truste.com/truste/>   Please note this does not opt you out of being served advertising.  You will continue to receive generic ads.
+We may partner with a third party ad network to either display advertising on our Web site or to manage our advertising on other sites.  Our ad network partner uses cookies and Web beacons to collect non-personally identifiable information about your activities on this and other Web sites to provide you targeted advertising based upon your interests.  If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by clicking here <http://preferences.truste.com/truste/>.  Please note this does not opt you out of being served advertising.  You will continue to receive generic ads.
 
 **Data Retention**    
 We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us as described below.  We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. If you would like the information we hold about you deleted, please contact us as described below. We will respond to your request within 30 business days, and delete your data within 60 business days.
