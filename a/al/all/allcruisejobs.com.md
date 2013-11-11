@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allcruisejobs.com privacy policy that was archived on 2013-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130506233101id_/http%3A//www.allcruisejobs.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allcruisejobs.com privacy policy that was archived on 2013-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131111212930id_/http%3A//www.allcruisejobs.com/privacy-policy) for the most accurate reproduction.*
 
 # All Cruise Jobs - Privacy Policy
 
