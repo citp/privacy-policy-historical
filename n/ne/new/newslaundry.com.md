@@ -1,0 +1,23 @@
+> *The following text is extracted and transformed from the newslaundry.com privacy policy that was archived on 2013-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131111072847id_/http%3A//www.newslaundry.com/newslaundry-privacy-policy) for the most accurate reproduction.*
+
+# Newslaundry Privacy Policy | Newslaundry
+
+Newslaundry respects your privacy and recognises the need to protect the personally identifiable information (any information by which you can be identified, such as name, address, and telephone number) you share with us. We would like to assure you that we employ reasonable and current security methods when it comes to preventing unauthorized access and protecting your privacy on our web sites. Your personal information will be stored within a database that is located behind a firewall for added security. No data transmission over the internet or any wireless network can be guaranteed to be secure. As a result, while we try to protect your personal information, we cannot ensure or guarantee the security of any information you transmit to us, and you do so at your own risk.
+
+In general, you can visit the Newslaundry website without telling us who you are or revealing any personal information about yourself. We track the internet address of the domains from which people visit us and analyse this data for trends and statistics, but the individual user remains anonymous. We may also automatically receive and record information in our server logs from your browser, including your computer’s name, the type and version of your browser and other generally-accepted log information. We may also record page views (hit counts) and other general statistical and tracking information.
+
+Some of our web pages use “cookies” so that we can better serve you with customised information when you return to our site. Cookies are identifiers which a web site can send to your browser to keep on your computer to facilitate your next visit to our site. You can set your browser to notify you when you are sent a cookie, giving you the option to decide whether or not to accept it. The information we collect and analyse is used to improve our service to you.
+
+There are times when we may collect personal information from you such as name, physical address or telephone number. It is our intent to inform you before we do that and to tell you what we intend to do with the information.
+
+Generally, you will have the option not to provide the information, and in the future you will be able to “opt out” of certain uses of the information or change or delete your subscription information provided you are current with all payment obligations.
+
+If you choose not to provide the information we request, you can still visit the Newslaundry website, but you may be unable to access certain options, offers and services.
+
+Newslaundry will not sell, trade or disclose to third parties any information derived from the registration for, or use of, any online service (including names and addresses) without the consent of the user or customer (except under noted circumstances such as requirement under applicable laws including search warrant, court order or other legal process or in the case of imminent physical harm to the user or others, or violation of Newslaundry subscription agreement or infringement of Newslaundry’s legal rights or in the event of sale of all or most of the assets of Newslaundry, in which circumstances your consent is deemed to have been given by your subscription to Newslaundry). Newslaundry will allow suppliers to access the information for purposes of confirming your registration and providing you with the benefits you are entitled to.
+
+Newslaundry will take appropriate steps to protect the information you share with us. We have implemented technology and security features and strict policy guidelines to safeguard the privacy of your personally identifiable information from unauthorised access and improper use or disclosure. Newslaundry will continue to enhance our security procedures as new technology becomes available.
+
+Newslaundry service is not directed to children (persons under the age of 16), and we do not knowingly collect, either online or offline, personally identifiable information from children.
+
+If our privacy policy changes in the future, it will be posted here and a new effective date will be shown. You should access our privacy policy regularly to ensure you understand our current policies. Please reference the privacy policy in your subject line. Newslaundry will attempt to respond to all reasonable concerns or enquiries within five business days of receipt.
