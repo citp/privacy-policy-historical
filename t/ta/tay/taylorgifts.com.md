@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the taylorgifts.com privacy policy that was archived on 2013-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130510203923id_/http%3A//www.taylorgifts.com/custserv/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the taylorgifts.com privacy policy that was archived on 2013-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131111061246id_/http%3A//www.taylorgifts.com/custserv/privacy.asp) for the most accurate reproduction.*
 
-# Taylor Gifts - Unique Gifts Since 1952
+# Taylor Gifts' Privacy Policy
 
-In over 50 years in the Direct Marketing business, Taylor Gifts, Inc. has adhered to the highest standards in assuring our customers' privacy. All information - including customer accounts, transactions, and all correspondence - is handled with the utmost discretion.
+In over 60 years in the Direct Marketing business, Taylor Gifts, Inc. has adhered to the highest standards in assuring our customers' privacy. All information - including customer accounts, transactions, and all correspondence - is handled with the utmost discretion.
 
 The policies below are applicable to www.taylorgifts.com. Questions or comments regarding this policy should be directed to:
 
@@ -14,7 +14,7 @@ Telephone: (800) 829-1133
 
 ## Collection of Personal Information
 
-The only personal information collected by Taylor Gifts through our web sites is information that is submitted to us voluntarily and knowingly by site visitors. When you simply browse our site, no personal information is being collected by Taylor Gifts Our company does collect web site usage information internally to improve the products and services we provide to you. Web site usage information is not personally identifiable information. It describes how our web site is used and navigated, including the number and frequency of visitors to each web page and the length of their stay. Web site usage information also includes the domain names of browsers who visit our web site, time of day the web site was visited, and other non-personally identifiable information.
+The only personal information collected by Taylor Gifts through our web sites is information that is submitted to us voluntarily and knowingly by site visitors. When you simply browse our site, no personal information is being collected by Taylor Gifts.  Our company does collect web site usage information internally to improve the products and services we provide to you. Web site usage information is not personally identifiable information. It describes how our web site is used and navigated, including the number and frequency of visitors to each web page and the length of their stay. Web site usage information also includes the domain names of browsers who visit our web site, time of day the web site was visited, and other non-personally identifiable information.
 
 Some functions and services offered through our site require that you provide certain personal information. Personal information includes name, telephone number, postal address, e-mail address, and other information that might personally identify you. When you order a product, enter a contest or sweepstakes, request a catalog, or register for a mailing list, we may need your postal or e-mail address.
 
