@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rummycircle.com privacy policy that was archived on 2013-01-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130119130805id_/https%3A//www.rummycircle.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rummycircle.com privacy policy that was archived on 2013-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131111073338id_/https%3A//www.rummycircle.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | RummyCircle.com
 
@@ -55,6 +55,8 @@ Users are entitled to withdraw consent for use of their **Sensitive Personal Dat
 Photographs once provided by you for marketing purposes gives RummyCircle irrevocable rights to use it and it is completely RummyCircle's discretion to delete or not use it any further.
 
 RummyCircle may also use software applications for website traffic analysis and to gather statistics, used for advertising and for determining the efficacy and popularity of RummyCircle among others.
+
+Presently, RummyCircle is using display advertising and [remarketing](https://support.google.com/analytics/answer/2611268?hl=en) through [Google Analytics](http://www.google.co.in/analytics/features/index.html), wherein third party vendors including google, display our ads on sites across the internet and uses first party cookies and third party cookies together to inform, optimize and serve ads based on visits of visitors to our website. Our visitors are free to opt out of Google Analytics for display advertising and customize google display network ads using [ads preference manager](https://www.google.com/settings/ads/onweb/?hl=en&sig=ACi0TCg4VHd0m21adYaAg9yNDxJFQTiTSdorWliAwloVbVUTgmchctwp2GJgAjNVdX5eTnvU_liK7Nw1FGvAO2MinLUps2ts4sc__SSyVF7FCU6gglVus727677iacDuZaJDGl9s2vkWKy9gmbFnJTyVHgeNeMVjqG3WCh_5C10Gqr73KbdwD0__6mf5ax3UV_6tHffg9HzX).
 
   2. **Consent to use of Cookies:**
 
