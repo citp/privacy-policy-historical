@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bconnectedonline.com privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501124429id_/http%3A//www.boydgaming.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bconnectedonline.com privacy policy that was archived on 2013-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131111174908id_/http%3A//www.boydgaming.com/privacy) for the most accurate reproduction.*
 
 # Boyd Gaming Corporation Privacy Policy | BoydGaming.com
 
