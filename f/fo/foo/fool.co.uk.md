@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fool.co.uk privacy policy that was archived on 2012-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121227064652id_/http%3A//www.fool.co.uk/help/privacystatement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fool.co.uk privacy policy that was archived on 2013-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131111105250id_/http%3A//www.fool.co.uk/help/privacystatement.aspx) for the most accurate reproduction.*
 
 # The Motley Fool UK: Privacy and Cookie Statement
 
@@ -96,6 +96,8 @@ EditorialCoachlet  |  Each service can choose to show additional updates or info
 nlsc  |  This cookie remembers certain settings between pageviews, and is also removed when you close your browser.  |  Performance   
 CookieAccept  |  Once you’ve seen our cookie information, this makes sure we don’t keep showing you the alert.  |  Functionality   
 ASPSESSION  |  This cookie lets us remember certain settings between page loads, and is removed when you close your browser.  |  Functionality   
+Visitor  |  This cookie allows us to recognize you as a returning visitor on repeat visits to our site. Used to measure site traffic and usage patterns.  |  Performance   
+Visit  |  This cookie allows us to track activity that occurs during a visit to our site and expires after 30 minutes of inactivity. Used to measure site traffic and usage patterns.  |  Performance   
   
 ### The Cookies Set by our Partners and Other Data Processors
 
