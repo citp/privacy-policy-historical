@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the transglobalexpress.co.uk privacy policy that was archived on 2013-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130527230430id_/http%3A//www.transglobalexpress.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the transglobalexpress.co.uk privacy policy that was archived on 2013-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131111042223id_/http%3A//www.transglobalexpress.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Transglobal Express
 
@@ -6,13 +6,13 @@ Transglobal Express is sensitive to privacy issues on the Internet. We believe 
 
 ## Information Collected
 
-In general, you may visit the Site without telling us who you are or revealing any personally identifiable information about you. Our servers collect the domain names, operating system in use (e.g., Macintosh, Windows) and browser (e.g., Netscape, Internet Explorer). This information is aggregated to measure the number of visits, average time spent on the Site, pages viewed, etc. Transglobal Express uses this information to measure the use of our Site and to improve the content of our Site. E-mail addresses and other personally identifiable information such as first and last name, telephone number, and other similar information are known only when voluntarily provided by a visitor for registration or other participation of visitors in any available online interactive activities.
+In general, you may visit the Site without telling us who you are or revealing any personally identifiable information about you. Our servers collect the domain names, operating system in use (e.g., Macintosh, Windows) and browser (e.g., Mozilla Firefox, Google Chrome, Internet Explorer). This information is aggregated to measure the number of visits, average time spent on the Site, pages viewed, etc. Transglobal Express uses this information to measure the use of our Site and to improve the content of our Site. E-mail addresses and other personally identifiable information such as first and last name, telephone number, and other similar information are known only when voluntarily provided by a visitor for registration or other participation of visitors in any available online interactive activities.
 
 ## Use Of Your Information
 
-We may use the personal information you provide for any of the following purposes: (1) to understand the use of our Site and make improvements; (2) to fulfill prizes; (3) to respond to specific requests from visitors; (4) to protect the security or integrity of our Site when necessary; (5) to send you notices and solicitations regarding Site and our businesses; and (6) in general to promote and market products to you. These solicitations may take the form of mailings or other couriers, telephone calls, e-mail solicitations and other methods of contact. If you do not want to receive these solicitations from us using your personally identifiable information, please notify us. At times, we may conduct online surveys to better understand the needs and profiles of our visitors. When we conduct a survey, we will try to let you know how we will use the information at the time we collect the information from you on the Internet.
+We may use the personal information you provide for any of the following purposes: (1) to understand the use of our Site and make improvements; (2) to respond to specific requests from visitors; (3) to protect the security or integrity of our Site when necessary; (4) to send you notices and solicitations regarding Site and our businesses; and (5) in general to promote and market products to you. These solicitations may take the form of mailings or other couriers, telephone calls, e-mail solicitations and other methods of contact. If you do not want to receive these solicitations from us using your personally identifiable information, please notify us. At times, we may conduct online surveys to better understand the needs and profiles of our visitors. When we conduct a survey, we will try to let you know how we will use the information at the time we collect the information from you on the Internet.
 
-## Disclosures Of Your Information
+## Disclosure of Information
 
 Unless otherwise disclosed during the collection, personally identifiable information that may be collected in connection with visitors to this Site is retained by Transglobal Express. Transglobal Express do not sell, transfer or otherwise disclose this personally identifiable information outside this company, except where disclosure is required by law.
 
@@ -30,11 +30,5 @@ We record all telephone calls for the protection of our customers and our staff.
 
 ## Access Rights
 
-You have a right to access the personal data that is held about you. Please write to us at the following address to obtain a copy of the personal information Transglobal Express holds about you:
-
-Transglobal Express  
-Unit 5, The Gateway  
-Wirral International Business Park  
-Bromborough  
-Wirral   
-CH62 3NX
+You have a right to access the personal data that is held about you. Please write to us at the following address to obtain a copy of the personal information Transglobal Express holds about you:  
+Transglobal Express, Unit 5, The Gateway, Wirral International Business Park,  Bromborough, Wirral CH62 3NX
