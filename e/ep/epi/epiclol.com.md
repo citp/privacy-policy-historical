@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the epiclol.com privacy policy that was archived on 2013-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130520210342id_/http%3A//www.epiclol.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the epiclol.com privacy policy that was archived on 2013-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131111191731id_/http%3A//www.epiclol.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Epic LOL
 
