@@ -1,9 +1,12 @@
-<!--The following is the downloaded HTML source of the extole.com privacy policy that was archived on 2013-06-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130602192818id_/http%3A//origin.extole.com/index.php/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the extole.com privacy policy that was archived on 2013-11-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131111231416id_/http%3A//origin.extole.com/index.php/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns:fb="http://ogp.me/ns/fb#"><head>
+<script src="https://dnn506yrbagrg.cloudfront.net/pages/scripts/0017/9573.js?439002" async="" type="text/javascript"></script><script type="text/javascript" async="" id="db_ip_api_ga" src="https://api.demandbase.com/api/v2/ip.json?key=0d0a20fc4a5ef9e6153e5f25acffd7004af0ad5b&amp;callback=Demandbase.Connectors.Google_Analytics.track&amp;page=https://web.archive.org/web/20131111231416id_/http%3A//origin.extole.com/index.php/privacy-policy&amp;referrer=&amp;page_title=Privacy Policy | Extole"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="//cdn.optimizely.com/js/266819356.js"></script>
+
 <meta name="google-site-verification" content="EjwbQJ0Ips_7ypi-OnGPDm-95FilXHTNAgF7rhBRMl4">
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+
 
 
 <meta http-equiv="content-type" content="text/html; charset=UTF-8">
@@ -15,7 +18,7 @@
 
 <meta name="generator" content="concrete5 - 5.5.2.1">
 
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
+<script type="text/javascript">
 var CCM_DISPATCHER_FILENAME = '/index.php';
 var CCM_CID = 241;
 var CCM_EDIT_MODE = false;
@@ -35,7 +38,7 @@ var CCM_REL = "";
 <link rel="stylesheet" type="text/css" href="/concrete/css/ccm.app.css?v=fbda0ae78997bdc66133dc02e75f56b0">
 <link rel="stylesheet" type="text/css" href="/concrete/css/jquery.ui.css?v=fbda0ae78997bdc66133dc02e75f56b0">
 <style type="text/css"> 
-#blockStyle4274ProductsFooterNav47 {background-repeat:no-repeat; } 
+#blockStyle4372ProductsFooterNav47 {background-repeat:no-repeat; } 
 </style>
 	
 <!-- BEGIN STYLESHEETS -->
@@ -87,6 +90,64 @@ var CCM_REL = "";
 		})();
 	</script>
 
+
+<!-- Demandbase/GA Integration -->
+<!-- This script works along side your current GA integration.  
+While this can be placed anywhere on the page, 
+we recommend placing this script at the after the standard GA tracking code -->  
+<script>
+'use strict';
+var Demandbase=window.Demandbase||{};
+    Demandbase.Connectors=window.Demandbase.Connectors||{};
+Demandbase.Connectors.Google_Analytics={
+name: 'Demandbase Google Analytics Connector',
+key:'0d0a20fc4a5ef9e6153e5f25acffd7004af0ad5b',
+/* Customize which variables are sent to GA. each element in 'fields' must be a Demandbase variable name */
+fields:["audience","company_name","industry","revenue_range"],
+version:'4.2',
+dbDataSet: null,
+logging: false,
+track:function(data) {
+     try {
+       var dbgac = Demandbase.Connectors.Google_Analytics, dflt='(Non-company Visitor)';
+       data=dbgac._flatA(data);
+       dbgac.dbDataSet = data;  
+       for (var i = 0; i < dbgac.fields.length; i++) {
+           var num = i + 1, lbl = dbgac.fields[i], val = data[dbgac.fields[i]] || dflt;
+           dbgac._var(num, lbl, val, 1);
+       }
+       
+       /*
+additional event with Demandbase data as category/action/label  */
+       if(data) {
+           
+       }
+       dbgac._event();
+     } catch(e){ Demandbase.Connectors.Google_Analytics._logE('Integration Error: '+e)}; 
+   },
+load:function(){
+try { 
+if(!window._gaq) window._gaq=[];
+var db=document.createElement('script');db.type='text/javascript'; db.async=true;  db.id = 'db_ip_api_ga';
+       db.src=('https:'==document.location.protocol?'https://':'http://')+'api.demandbase.com/api/v2/ip.json?key='+this.key+'&callback=Demandbase.Connectors.Google_Analytics.track&page='+document.URL+'&referrer='+document.referrer+'&page_title='+document.title;
+       var s=document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(db,s);
+       _gaq.push(['_addDevId', 'NE7T9']);
+       Demandbase.Connectors.Google_Analytics._logE('Loaded Script ' + db.src);
+} catch(e){ this._logE('Script Error: '+e)}; 
+},
+_flatA:function(a){  for(var d in a){ if(typeof a[d]=='object' && a[d] !== null){ for(var cd in a[d]){a[d+'_'+cd]=a[d][cd]}; delete a[d]; } }; return a; },
+_logE:function(m){ if(this.logging && window['console'] !== 'undefined' && typeof(console) !== 'undefined') { console.log('DB GA: '+m); } },
+_p:function(t,v1,v2,v3,v4,v5){ window._gaq.push([t,v1,v2,v3,v4,v5]); },
+_var: function(i,k,v,s) { this._p('_setCustomVar', i, k, v, s); this._logE(i + ' ' + k + ' : ' + v); },
+_event:function(){ this._p('_trackEvent','Demandbase','API Resolution','IP API',0,1); },
+_cEvent:function(cat, act, lbl){ this._p('_trackEvent', cat, act, lbl, 0, 1); this._logE('Custom Event Tracked: '+cat+' : '+act+' : '+lbl); }
+};
+Demandbase.Connectors.Google_Analytics.load();
+</script>
+<!-- End Demandbase/GA Integration -->
+
+
+
 </head>
 
 <body>
@@ -115,7 +176,7 @@ llactid=22332
 
 		<div id="navbar">
 		<div id="dropdown">
-				<ul class="nav"><li><a href="/about/">About</a><ul><li><a href="http://go.extole.com/Contact.html">Contact Us</a></li><li><a href="/about/events/">Events</a></li><li><a href="/about/press-and-news/">Press &amp; News</a></li><li><a href="/about/careers/">Careers</a></li><li><a href="/about/leadership/">Leadership</a></li></ul></li><li><a href="/blog/">Blog</a></li><li><a href="/resources/">Resources</a></li><li><a href="/customers/">Customers</a><ul><li><a href="/customers/results/">Results</a></li><li><a href="/customers/approach/">Approach</a></li></ul></li><li><a href="/products/">Products</a></li></ul>        </div>
+				<ul class="nav"><li><a href="/about/">About</a><ul><li><a href="http://go.extole.com/Contact.html">Contact Us</a></li><li><a href="/about/events/">Events</a></li><li><a href="/about/press-and-news/">Press &amp; News</a></li><li><a href="/about/careers/">Careers</a></li></ul></li><li><a href="/blog/">Blog</a></li><li><a href="/resources/">Resources</a></li><li><a href="/customers/">Customers</a><ul><li><a href="/customers/results/">Results</a></li><li><a href="/customers/approach/">Approach</a></li></ul></li></ul>        </div>
         </div>
 
       </div>
@@ -130,24 +191,31 @@ llactid=22332
 <div id="body-content-row">
 
 	<div id="right-column-full">
-			<p><strong>Extole Privacy Policy</strong><br>Effective on May 11, 2011<br>Extole Inc. (“Extole”) has been awarded TRUSTe’s Privacy Seal signifying that TRUSTe has reviewed this privacy policy and practices for compliance with&nbsp;<a href="http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html">TRUSTe’s program requirements</a>&nbsp;including transparency, accountability and choice regarding the collection and use of your personal information.&nbsp; TRUSTe’s mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at 625 2nd Street, San Francisco, CA 94007 or via email at support@extole.com.&nbsp; If you are not satisfied with our response you can contact<a href="http://watchdog.truste.com/pvr.php?page=complaint">TRUSTe here</a>.</p>
-<p>This privacy policy describes how Extole, Inc (“Extole”) collects and uses the personal information you provide on our Web sites:&nbsp;www.extole.comand&nbsp;<a href="http://www.tellapal.com/">www.tellapal.com</a>, as well as the data collected at the Extole applications and wherever this privacy policy is posted. Please note that for data collected through Extole applications, Extole is acting as a data processor and service provider and collecting the data on behalf of our business clients (“Clients”).<br>Extole complies with the U.S. – E.U. Safe Harbor framework and the U.S. – Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of data from the European Union and Switzerland respectively. Information regarding the both the E.U. and Swiss Safe Harbor Frameworks can be found at:&nbsp;<a href="http://export.gov/safeharbor">http://export.gov/safeharbor</a>“.<a id="_GoBack" name="_GoBack"></a></p>
+			<p><strong>Extole Privacy Policy</strong><br>Effective on July 5, 2013</p>
+<p style="float: right; margin: 0 1em 2em 2em;">
+<script type="text/javascript" src="//privacy-policy.truste.com/privacy-seal/Extole,-Inc-/asc?rid=0f93545d-e902-49be-acc3-fded6f5f463d"></script>
+<a title="Validate TRUSTe privacy certification" href="//privacy.truste.com/privacy-seal/Extole,-Inc-/validation?rid=c00381bf-ea37-45cd-a65e-285d4410dc79" target="_blank"><img style="border: none;" src="//privacy-policy.truste.com/privacy-seal/Extole,-Inc-/seal?rid=c00381bf-ea37-45cd-a65e-285d4410dc79" alt="TRUSTe online privacy certification"></a></p>
+<p>Extole Inc. (“Extole”) has been awarded TRUSTe’s Privacy Seal signifying that TRUSTe has reviewed this privacy policy and practices for compliance with&nbsp;<a href="http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html">TRUSTe’s program requirements</a>&nbsp;and the <a href="http://www.truste.com/privacy-program-requirements/TRUSTed-cloud/ " target="_blank">TRUSTed Cloud Program Requirements</a>&nbsp;including transparency, accountability and choice regarding the collection and use of your personal information.&nbsp; TRUSTe’s mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at 625 2nd Street, San Francisco, CA 94007 or via email at <a href="mailto:support@extole.com">support@extole.com</a>.</p>
+<p>Extole participates in the U.S.–E.U. Safe Harbor framework and the U.S.-Swiss Safe Harbor as set forth by the United States Department of Commerce. &nbsp;As part of our <a href="http://export.gov/safeharbor/ " target="_blank">participation</a> in the safe harbor, we have agreed to TRUSTe dispute resolution for disputes relating to our compliance with the Safe Harbor Privacy Framework. If you have any complaints regarding our compliance with the Safe Harbor you should first contact us (as provided above). If contacting us does not resolve your complaint, you may raise your complaint with TRUSTe by <a href="https://feedback-form.truste.com/watchdog/request " target="_blank">Internet here</a>, fax to 415-520-3420, or mail to TRUSTe Safe Harbor Compliance Dept., <a href="http://www.truste.com/about-TRUSTe/contact-us " target="_blank">click for mailing address</a>. If you are faxing or mailing TRUSTe to lodge a complaint, you must include the following information: the name of company, the alleged privacy violation, your contact information, and whether you would like the particulars of your complaint shared with the company. For information about TRUSTe or the operation of TRUSTe's dispute resolution process, click <a href="http://www.truste.com/products-and-services/dispute-resolution-services/ " target="_blank">here</a> or request this information from TRUSTe at any of the addresses listed above. The TRUSTe dispute resolution process shall be conducted in English.</p>
+<p>This privacy policy describes how Extole, Inc (“Extole”) collects and uses the personal information you provide on our Web sites:&nbsp;<a href="http://www.extole.com">www.extole.com</a> and&nbsp;<a href="http://www.tellapal.com/">www.tellapal.com</a>, as well as the data collected at the Extole applications and wherever this privacy policy is posted. Please note that for data collected through Extole applications, Extole is acting as a data processor and service provider and collecting the data on behalf of our business clients (“Clients”). &nbsp;Extole collects information under the direction of its Clients, and has no direct relationship with the individuals whose personal data it processes. Extole works with its Clients to help them provide notice to their customers concerning the purpose for which personal information is collected.</p>
+<p>Extole complies with the U.S.–E.U. Safe Harbor framework and the U.S.–Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from European Union member countries and Switzerland. &nbsp;Extole has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. &nbsp;To learn more about the Safe Harbor program, and to view Extole’s certification, please visit http://www.export.gov/safeharbor/.</p>
 <p><strong>Website Visitors</strong><br>Except as described below, Extole does not collect or require users of its service, http://www.extole.com/, to furnish personal information. Like most websites, Extole collects non-personal information of the sort that web browsers and servers typically make available, such as the browser type, language preference, referring/exit pages, and the date and time of each visitor request, browser type, and operating system. Extole’s purpose in collecting non-personal information is to better understand how Extole’s visitors use its website. From time to time, Extole may release non-personal information in the aggregate, for example, by publishing a report on trends in the usage of its service.</p>
 <p>Extole also collects potentially personal information like Internet Protocol (IP) addresses. Extole does not use such information to identify its visitors, however, and does not disclose such information, other than under the same circumstances that it uses and discloses personal information, as described below.</p>
 <p><strong>Collection and Use of Personal Information</strong>&nbsp;<br>We collect the following personal information from you when you visit our website:</p>
 <ul type="disc">
-<li>Contact Information such as name, email address, mailing address, phone number</li>
+<li>Contact Information such as name, email address, phone number</li>
 <li>Information about your business such as company name</li>
 </ul>
-<p>As is true of most websites, we automatically gather information about your computer such as your IP address, browser type, referring/exit pages, and operating system.<br>We use this information to</p>
+<p>As is true of most websites, we automatically gather information about your computer such as your IP address, browser type, referring/exit pages, and operating system. &nbsp;We use this information to</p>
 <ul type="disc">
 <li>Send you requested product or service information</li>
 <li>Enable you to post your resume, search job postings, and contact or be contacted by prospective employers</li>
 </ul>
 <p>In addition Extole provides the technology to promote referral-marketing campaigns for our clients. Extole enables certain users to participate in or promote referral-marketing campaigns for advertisers on the Extole network. Those users who would like to participate in an Extole campaign require Extole to know a little bit more about them, i.e., personal information. To participate in an Extole campaign, users must provide certain personal information, such as their name and email address. Extole does not disclose personal information other than as described below. And users can always refuse to supply personal information, with the caveat that it may prevent them from engaging in certain website-related activities (ie. participating in an Extole campaign).&nbsp;</p>
 <p>Extole also has functionality where we may collect some of your personal information through the Facebook Connect and the Graph API. Your data will be shared with us from Facebook. We use Facebook Connect or an Open ID provider to authenticate your identity and&nbsp;provide you the option to share certain personal information with us such as your name and email address to pre-populate our sign up form and to post information about your activities on this Web site to your profile page to share with others within your network.</p>
-<p>For our Facebook applications we also use Facebook Permissions in order to give you the option to share personal information like your activities and interests as well as the authorization to post information about your activity to your profile page. &nbsp;All personal information that may be collected is done so via an iframe or through a Facebook application on behalf of our client. Please refer to the privacy policy on the site/iframe where this data is collected.<br>If you post on a public forum, you should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your personal information from our blog or community forum, contact us as described below.&nbsp; In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.</p>
-<p><strong>Information Sharing</strong><br>We will share your personal information with third parties only in the ways that are described in this privacy statement. We do not sell your personal information to third parties.<br>We may provide your personal information to companies that provide services to help us with our business activities: &nbsp;</p>
+<p>For our Facebook applications we also use Facebook Permissions in order to give you the option to share personal information like your activities and interests as well as the authorization to post information about your activity to your profile page. &nbsp;All personal information that may be collected is done so via an iframe or through a Facebook application on behalf of our client. Please refer to the privacy policy on the site/iframe where this data is collected.</p>
+<p>Extole will retain personal data we process on behalf of our Clients for as long as needed provide services to our Client. Extole will retain and use this personal information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.</p>
+<p><strong>Information Sharing</strong><br>We will share your personal information with third parties only in the ways that are described in this privacy statement. We do not sell your personal information to third parties. &nbsp;We may provide your personal information to companies that provide services to help us with our business activities: &nbsp;</p>
 <ul>
 <li>hosting company</li>
 <li>CRM</li>
@@ -159,13 +227,17 @@ llactid=22332
 <li>if Extole is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information,</li>
 <li>to any other third party with your prior consent to do so.</li>
 </ul>
-<p><strong>Cookies&nbsp;</strong><strong>and Other Tracking Technologies</strong><strong>&nbsp;</strong><br>A cookie is a small text file that is stored on a user’s computer for record-keeping purposes. We use cookies both on our corporate website and our client sites. We do link the information we store in cookies to any personally identifiable information you submit while on our website. &nbsp;Third parties also use cookies and other tracking technologies such as scripts on our site.&nbsp; The data is only collected in the aggregate.&nbsp;</p>
+<p><strong>Cookies&nbsp;</strong><strong>and Other Tracking Technologies</strong><strong>&nbsp;</strong><br>A cookie is a small text file that is stored on a user’s computer for record-keeping purposes. We use cookies both on our corporate website and our client sites. We do link the information we store in cookies to personally identifiable information you submit while on our website. &nbsp;Third parties also use cookies and other tracking technologies such as scripts on our site. &nbsp;The data is only collected in the aggregate. The use of cookies by our affiliates is not covered by our privacy policy.</p>
 <p>Extole and certain advertiser partners on the Extole network may use cookies to help Extole identify and track visitors, their usage of Extole service to participate in Extole campaigns, and their website access preferences. It is possible to link cookies to personal information. Extole, however, does not do so. Instead, it uses the information provided by cookies to develop a better understanding of how Extole’s visitors use, and to facilitate those visitors’ interactions with, Extole’s service. Extole visitors who do not wish to have cookies placed on their computers should set their browsers to refuse cookies before linking to Extole’s website, with the drawback that certain features of Extole’s website may not function properly without the aid of cookies.</p>
-<p><strong>Security</strong><br>The security of your personal information is important to us. We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security.&nbsp;If you have any questions about security on our sites, you can contact us as described below.</p>
-<p><strong>Links to Other Sites</strong><br>Our site contains links to other sites that are not owned or controlled by us. &nbsp;Please be aware that we are not responsible for the privacy practices of such other sites.&nbsp;We encourage you to be aware when you leave our site and to read the privacy statements of each and every Web site that collects personally identifiable information.&nbsp;&nbsp;<br>Our Web site offers publicly accessible blogs or community forums. You should be aware that any information you provide in these areas might be read, collected, and used by others who access them. To request removal of your personal information from our blog or community forum, contact us as described below.&nbsp; In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.&nbsp;This privacy statement applies only to information collected by this Web site and everywhere else it is posted.</p>
+<p><strong>Security</strong><br>The security of your personal information is important to us. When you enter sensitive information (such as login credentials) we encrypt the transmission of that information using secure socket layer technology (SSL). &nbsp;We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security.&nbsp;If you have any questions about security on our sites, you can contact us as described below.</p>
+<p><strong>Links to Other Sites</strong><br>Our site contains links to other sites that are not owned or controlled by us. &nbsp;Please be aware that we are not responsible for the privacy practices of such other sites.&nbsp;We encourage you to be aware when you leave our site and to read the privacy statements of each and every Web site that collects personally identifiable information.</p>
+<p>Our Web site offers publicly accessible blogs or community forums. You should be aware that any information you provide in these areas might be read, collected, and used by others who access them. To request removal of your personal information from our blog or community forum, contact us as described below.&nbsp; In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.&nbsp;This privacy statement applies only to information collected by this Web site and everywhere else it is posted.</p>
+<p><strong>Testimonials</strong><br>We display personal testimonials of satisfied customers on our site in addition to other endorsements. &nbsp;With your consent we may post your testimonial along with your name. &nbsp;If you wish to update or delete your testimonial, you can contact us at support@extole.com.</p>
+<p><strong>Social Media Widgets</strong><br>Our Web site includes Social Media Features, such as the Facebook and Twitter buttons. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it.</p>
 <p><strong>Communications from us</strong><br>If you register for any of the Extole programs and applications, you may receive promotional communications on behalf of our client. You can opt out of these by unsubscribing through the unsubscribe link in the email.</p>
 <p><strong>Updating of Personal information, and Opt-Out</strong><br>Extole permits its visitors to freely update, correct or delete any personal information maintained by Extole. To do so, visitors need only look for the links and other tools available on Extole’s website or contact Extole by email. Visitors who no longer wish to receive materials distributed pursuant to an Extole mailing list should notify Extole by the same means.</p>
-<p><strong>Advertising&nbsp;</strong><br>We may partner with a third party ad network to either display advertising on our Web site or to manage our advertising on other sites.&nbsp; Our ad network partner uses cookies and Web beacons to collect non-personally identifiable information about your activities on this and other Web sites to provide you targeted advertising based upon your interests.&nbsp; If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by clicking here&nbsp;<a href="http://preferences.truste.com/truste/">http://preferences.truste.com/truste/</a>&nbsp;&nbsp;&nbsp;Please note this does not opt you out of being served advertising.&nbsp; You will continue to receive generic ads.</p>
+<p>Extole has no direct relationship with the individuals whose personal data it processes. An individual who seeks access, who seeks to correct, amend, delete inaccurate data or withdraw consent to further contact should direct his/her query to the Extole’s Client (the data controller). We will respond to requests for access within 30 days.</p>
+<p><strong>Advertising&nbsp;</strong><br>We may partner with a third party ad network to either display advertising on our Web site or to manage our advertising on other sites.&nbsp; Our ad network partner uses cookies and Web beacons to collect non-personally identifiable information about your activities on this and other Web sites to provide you targeted advertising based upon your interests.&nbsp; If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by clicking here&nbsp;<a href="http://preferences.truste.com/truste/">http://preferences.truste.com/truste/</a>. &nbsp;Please note this does not opt you out of being served advertising.&nbsp; You will continue to receive generic ads.</p>
 <p><strong>Data Retention</strong>&nbsp;<br>We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us as described below.&nbsp; We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.&nbsp;If you would like the information we hold about you deleted, please contact us as described below. We will respond to your request within 30 business days, and delete your data within 60 business days.</p>
 <p><strong>Membership Eligibility</strong><br>Extole’s services are available only to, and may only be used by individuals who can form legally binding contracts under applicable law. Without limiting the foregoing, Extole’s services are not available to children (persons under the age of 18) or to temporarily or indefinitely suspended Extole members. If you are under the age of 18, you can use this service only in conjunction with, and under the supervision of your parents or guardians. If you do not qualify, please do not use Extole service. Further, your Extole account (including feedback) and User ID may not be transferred or sold to another third party.</p>
 <p><strong>Fraud</strong><br>Without limiting any other remedies, Extole may suspend or terminate your account if it suspects that you (by conviction, settlement, insurance or escrow investigation, or otherwise) have engaged in fraudulent activity in connection with the Extole service.</p>
@@ -184,14 +256,13 @@ llactid=22332
 
 <div id="footer-nav">
     <div id="footer-box-border">
-				<div id="blockStyle4274Main47" class=" ccm-block-styles">
-<h2><a href="http://extole.com/products/">Products</a><span style="color: #000000; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px;">&nbsp;</span></h2>
+				<div id="blockStyle4372Main47" class=" ccm-block-styles">
 <h2><a href="http://extole.com/customers/">Customers</a></h2>
-<h2><a href="http://extole.com/resources/">Resources</a></h2></div>    </div>
+<h2><a href="http://extole.com/resources/">Resources</a></h2>
+<h2><a href="http://extole.com/blog/">Blog</a></h2></div>    </div>
    
     <div id="footer-box-border">
-			<h2><a href="http://extole.com/blog/">Blog</a></h2>
-<h2><a href="http://extole.com/about/press-and-news/">Press</a></h2>
+			<h2><a href="http://extole.com/about/press-and-news/">Press</a></h2>
 <h2><a href="http://extole.com/about/careers/">Careers</a><span style="color: #000000; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px;">&nbsp;</span></h2>
 <h2><a href="http://extole.com/about/events/">Events</a></h2>    </div>
 	<div id="footer-box-border">
@@ -206,7 +277,7 @@ llactid=22332
 
 	<div id="footer-box-noborder">
 			<h2><a title="About" href="/about/">About Extole</a></h2>
-<p><span>Extole is the leading provider of referral marketing software for brands to acquire new, high-value customers. Extole’s cloud platform enables brands to create an efficient, reliable acquisition channel through digital WOM. Extole has launched referral programs for 300 brands including Kraft, AMC, Spotify, eHarmony, Vistaprint, Shutterfly, The New York Times, Seamless and SkyMall.</span></p>	</div>
+<p class="p1">Extole enables brands to acquire new, high value customers at scale with its referral marketing platform. With Extole's simple, turnkey solution, marketers can create a complete, efficient, and reliable acquisition channel by encouraging their customers to refer new customers. Extole has launched referral marketing programs for more than 300 innovative brands including Seamless, AMC, Spotify, Provide-Commerce, Vistaprint, Advance Auto Parts, Shutterfly and more.</p>	</div>
 </div>
   
 <div id="color-bar">
@@ -215,7 +286,7 @@ llactid=22332
 </div>  
   
 	<div id="footer">
-			<p>© 2013 Extole, Inc. All rights reserved. <a title="Master Social Platform Agreement" href="http://origin.extole.com/index.php/master-social-platform-agreement">Master Social Platform Agreement</a> | <a title="Privacy Policy" href="http://origin.extole.com/index.php/privacy-policy">Privacy Policy</a> | <a href="http://go.extole.com/Contact.html">Contact Us</a></p>
+			<p>© 2013 Extole, Inc. All rights reserved. <a title="Privacy Policy" href="http://origin.extole.com/index.php/privacy-policy">Privacy Policy</a> | <a href="http://go.extole.com/Contact.html">Contact Us</a></p>
 <script type="text/javascript" language="javascript">// <![CDATA[
 llactid=22332
 // ]]></script>
@@ -234,7 +305,7 @@ var google_remarketing_only = true;
 <script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">// <![CDATA[
 
 // ]]></script>
-<noscript>&amp;amp;lt;div style="display:inline;"&amp;amp;gt; &amp;amp;lt;img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1016641526/?value=0&amp;amp;amp;amp;label=ipqfCPLC9wMQ9u_i5AM&amp;amp;amp;amp;guid=ON&amp;amp;amp;amp;script=0"/&amp;amp;gt; &amp;amp;lt;/div&amp;amp;gt;</noscript>	</div>
+<noscript>&amp;amp;amp;lt;div style="display:inline;"&amp;amp;amp;gt; &amp;amp;amp;lt;img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1016641526/?value=0&amp;amp;amp;amp;amp;label=ipqfCPLC9wMQ9u_i5AM&amp;amp;amp;amp;amp;guid=ON&amp;amp;amp;amp;amp;script=0"/&amp;amp;amp;gt; &amp;amp;amp;lt;/div&amp;amp;amp;gt;</noscript>	</div>
 
     <div id="clear"></div>
 
@@ -246,9 +317,16 @@ document.write(unescape("%3Cscript src='" + document.location.protocol +
 </script><script src="https://munchkin.marketo.net/munchkin.js" type="text/javascript"></script>
 <script>Munchkin.init('377-QZQ-998');</script>
 
+<script type="text/javascript">
+setTimeout(function(){var a=document.createElement("script");
+var b=document.getElementsByTagName("script")[0];
+a.src=document.location.protocol+"//dnn506yrbagrg.cloudfront.net/pages/scripts/0017/9573.js?"+Math.floor(new Date().getTime()/3600000);
+a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
+</script>
 
 <script type="text/javascript" src="/concrete/js/jquery.ui.js?v=fbda0ae78997bdc66133dc02e75f56b0"></script>
 <script type="text/javascript" src="/concrete/js/ccm.app.js?v=fbda0ae78997bdc66133dc02e75f56b0"></script>
+
 
 
 </body></html>
