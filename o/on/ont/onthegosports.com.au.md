@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the onthegosports.com.au privacy policy that was archived on 2013-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130510211422id_/http%3A//www.onthegosports.com.au/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onthegosports.com.au privacy policy that was archived on 2013-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131111071334id_/http%3A//www.onthegosports.com.au/privacy-policy.aspx) for the most accurate reproduction.*
 
 # OnTheGo® - Ideas that move people. Sports Wear | Sports Accessories | Custom Branded Gear
 
-In this policy, “us”, “we”, or “our” means OnTheGo Advertising, operators of this website.
+In this policy, “us”, “we”, or “our” means OnTheGo Group Pty Ltd operators of this website.
 
 We are bound by the National Privacy Principles contained in the Commonwealth Privacy Act 1988 (subject to any exemptions that apply to us under that Act).
 
 We may, from time to time, review and update this privacy policy, including taking account of new or amended laws, new technology and/or changes to our operations. All personal information held by us will be governed by the most recently updated policy.
 
-This Privacy Policy was last updated on 23 Sep 2011.
+This Privacy Policy was last updated on 17th October 2013.
 
 **1\. INFORMATION WE COLLECT**
 
@@ -123,25 +123,33 @@ If you would like to seek access to personal information we hold about you, you 
 
 If you have any questions or complaints about how we collect, use, disclose, manage or store your personal information, or would like to request access or changes to the information we hold, please contact us in writing at:
 
-**OnTheGo HQ**
+**OnTheGo Global HQ**
 
-**Administration Department**
+**ATTN:**   **Administration Department**
 
-**Shop 5b, 120 Emu Bank, Belconnen 2617, Canberra, ACT, AUSTRALIA**
+**Unit 1B, 15 Hall St. Lyneham, Canberra, A.C.T 2602,  ** **AUSTRALIA**
 
 **11.  SHIPPING AND DELIVERY POLICY **
 
 We deliver products Australia wide using Australian Air Express, DHL Express and other third party couriers. Shipping costs are influenced by the size and weight of the product and your location, exact shipping costs are calculated in the shopping cart and will be added to the order total before checkout.   
-Orders are dispatched within 2 business days and shipping times are estimated at between 3-7 business days depending on your location within Australia, and also your type and weight of product.
+Orders are dispatched within 2-3 business days and shipping times are estimated at between 3-7 business days depending on your location within Australia, and also your type and weight of product, and stock availability of product.
 
 **12.  CUSTOMER SERVICE POLICY**
 
-OnTheGo Advertising is committed to providing exceptional customer service and quality products.  We endeavour to make sure that all products listed on our website are currently in stock and pricing is true and correct. Standard delivery timeframes are between 3-10 business days; in the event that an ordered item is not available or we are unable to fulfil your order we will notify you within 2 business days to arrange an agreeable alternative item, a backorder or a full refund.
+OnTheGo Group Pty Ltd is committed to providing exceptional customer service and quality products.  We endeavour to make sure that all products listed on our website are currently in stock and pricing is true and correct. Standard delivery timeframes are between 3-10 business days; in the event that an ordered item is not available or we are unable to fulfil your order we will notify you within 2 business days to arrange an agreeable alternative item, a backorder or a full refund.
 
-**13\. REFUND POLICY  **
+**13\. REFUND POLICY - OnTheGo Retail Products.**
 
-Please choose carefully.  We do not normally give refunds if you simply change your mind or make a wrong decision.  You can choose between a refund, exchange or credit where goods are faulty, have been wrongly described, are different to the product purchased on the website or doesn't do what it is supposed to do 
+_**Please choose carefully.**_  We do not give refunds if you simply change your mind or make an incorrect decision.  You can choose between a refund, exchange (for a product of equal or lower value) or credit where goods are classed as a manufacturer fault, have been wrongly described, are different to the products purchased on the website or do not do what they are supposed to do. If you are unhappy with the goods purchased, or have chosen an incorrect size, we will offer an exchange or credit if a written request is received within 7 days of receipt of order, as long as goods are in orignal condition and packaging and there are no signs of use. 
+
+**_For exchange or credit of products; Customers will arrange shipment of products back to OnTheGo Head Office (Address listed at the beginning of this document) at their own expense and in the event of an exchange, customers will be charged an additional freight cost to cover the cost of shipping of the replacement item(s). Customers will be invoiced for this freight charge once the original items are received and replacement items will be shipped to the customer upon payment of this invoice where stock is available. Where replacement items are not in stock customers will be notified within 2-3 business days of receipt of original products by OnTheGo Group Pty Ltd and customers will then have the option to select a different size or product where applicable, or wait for the requested item to arrive._**
+
+To request a refund, exchange, or credit, please send an email to warehouse@onthegosports.com.au with full details including order number, item codes and sizes, and purchase date.
+
+**13.1 - REFUND POLICY - Custom Made:  **
+
+Please read current Terms of Trade - OnTheGo Group Pty Ltd. Available for download on our website below, or available from your local sales manager.
 
 **14\. SECURITY POLICY  **
 
-When purchasing from OnTheGo Advertising your financial details are passed through a secure server using the latest 128-bit SSL (secure sockets layer) encryption technology.128-bit SSL encryption is approximated to take at least one trillion years to break, and is the industry standard. If you have any questions regarding our security policy, please contact our customer support centre [**info@onthegosports.com.au**](https://web.archive.org/web/20130510211422id_/http%3A//www.onthegosports.com.au/info@onthegosports.com.au)
+When purchasing from OnTheGo Advertising your financial details are passed through a secure server using the latest 128-bit SSL (secure sockets layer) encryption technology.128-bit SSL encryption is approximated to take at least one trillion years to break, and is the industry standard. If you have any questions regarding our security policy, please contact our customer support centre [**info@onthegosports.com.au**](https://web.archive.org/web/20131111071334id_/http%3A//www.onthegosports.com.au/info@onthegosports.com.au)
