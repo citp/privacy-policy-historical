@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mla.org privacy policy that was archived on 2013-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130506012910id_/http%3A//www.mla.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mla.org privacy policy that was archived on 2013-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131111210701id_/http%3A//www.mla.org/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
