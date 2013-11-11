@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the koofers.com privacy policy that was archived on 2011-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111212053010id_/http%3A//www.koofers.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the koofers.com privacy policy that was archived on 2013-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131111155215id_/https%3A//www.koofers.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy: Koofers
 
@@ -10,7 +10,7 @@ This Privacy Policy is incorporated into and is subject to the Koofers Terms of 
 
 By participating, using or viewing the Koofers Service or any content thereof you are accepting the practices described in this Privacy Policy. If you do not agree to any of these terms, then please do not use the Koofers Service or its content. We reserve the right to modify or amend the terms of our Privacy Policy at any time without prior notice. Your continued use of the Koofers Service following the posting of changes to these terms means that you accept those changes. 
 
-If you have any questions or comments about this Privacy Policy or our use of your Information, please contact us at [privacy@Koofers.com](mailto:privacy@Koofers.com).
+If you have any questions or comments about this Privacy Policy or our use of your Information, please contact us at [support@Koofers.com](mailto:support@Koofers.com).
 
 **_Information Collected by Koofers_**
 
@@ -50,7 +50,7 @@ We may share Information about you with other people or nonaffiliated companies 
 
 **Non-Affiliated Companies and Organizations:** From time to time, we may sell or share your Information, including your personally-identifiable Information, to non-affiliated third parties and organizations, including without limitation your college or university, other public and private institutions, and commercial entities. For example, we may share your Information with another company that will use your Information to market to you, or to provide to you, a product or service that we feel may be of interest to you. We may also sell your Information to a business partner that will use your Information for their own marketing purposes. 
 
-**Offering You Choices - Opt-Out Procedure:** You have choices when it comes to protecting your Information. If you do not wish us to share your Information with third parties, please send us an e-mail at [privacy@koofers.com](mailto:privacy@koofers.com).
+**Offering You Choices - Opt-Out Procedure:** You have choices when it comes to protecting your Information. If you do not wish us to share your Information with third parties, please send us an e-mail at [support@koofers.com](mailto:support@koofers.com).
 
 **_Accessing Your Profile_**
 
@@ -66,7 +66,7 @@ The Koofers Service may contain links to other websites. The fact that we link t
 
 **_Children's Privacy_**
 
-Koofers seeks to protect the privacy of young children. For that reason, Koofers does not knowingly collect (or maintain) personally identifiable information or non-personally-identifiable information from persons under 13 years of age, and no part of our website is directed to persons under 13. If you are under 13 years of age, then please do not use or access the Koofers Service at any time or in any manner. If Koofers learns that personally identifiable information of persons under 13 years of age has been collected on the Koofers Service without verified parental consent, then Koofers will take the appropriate steps to delete this information. If a parent or guardian becomes aware that his or her child has provided us with personally identifiable information without their consent, he or she should contact us at [privacy@koofers.com](mailto:privacy@koofers.com).
+Koofers seeks to protect the privacy of young children. For that reason, Koofers does not knowingly collect (or maintain) personally identifiable information or non-personally-identifiable information from persons under 13 years of age, and no part of our website is directed to persons under 13. If you are under 13 years of age, then please do not use or access the Koofers Service at any time or in any manner. If Koofers learns that personally identifiable information of persons under 13 years of age has been collected on the Koofers Service without verified parental consent, then Koofers will take the appropriate steps to delete this information. If a parent or guardian becomes aware that his or her child has provided us with personally identifiable information without their consent, he or she should contact us at [support@koofers.com](mailto:support@koofers.com).
 
 **_International Users_**
 
