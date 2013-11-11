@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the keywordcompetitor.com privacy policy that was archived on 2013-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130504133148id_/http%3A//www.keywordcompetitor.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the keywordcompetitor.com privacy policy that was archived on 2013-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131111012234id_/http%3A//keywordcompetitor.com/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
