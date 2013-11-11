@@ -1,24 +1,39 @@
-<!--The following is the downloaded HTML source of the games24x7.com privacy policy that was archived on 2013-01-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130119130805id_/https%3A//www.rummycircle.com/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the games24x7.com privacy policy that was archived on 2013-11-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131111073338id_/https%3A//www.rummycircle.com/privacy-policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 <script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script type="text/javascript">
-        var _gaq = _gaq || [];
-        _gaq.push(
-                ['pageTracker._setAccount', 'UA-3610156-1'],
-                //['pageTracker._setDomainName', 'rummycircle.com'],
-                ['pageTracker._trackPageview']
-                );
+                        var _gaq = _gaq || [];
+                        _gaq.push(
+                                ['pageTracker._setAccount', 'UA-3610156-1'],
+                                ['pageTracker._trackPageview']
+                                );
 
-        (function() 
-        {
-                var ga = document.createElement('script');
-                ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-                ga.setAttribute('async', 'true');
-                document.documentElement.firstChild.appendChild(ga);
-        })();
-
-</script><script src="https://ssl.google-analytics.com/ga.js" async="true"></script>
+                        (function() 
+                        {
+                                var ga = document.createElement('script');
+                                ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+                                ga.setAttribute('async', 'true');
+                                document.documentElement.firstChild.appendChild(ga);
+                        })();
+ </script><script src="https://stats.g.doubleclick.net/dc.js" async="true"></script>
+ 
+<!-- Code for Action: RummyCircle_2013_TP -->
+                
+                
+                
+                
+<script type="text/javascript">
+ function showhidenew(obj) {
+   var div = document.getElementById(obj);
+   if (div.style.display == 'none') {
+     div.style.display = '';
+   }
+   else {
+     div.style.display = 'none';
+   }
+ }
+</script>
 <!-- Games Analytics Tracking Tag -->
 <script type="text/javascript">
         var gaURL = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'analytics.rummycircle.com/GamesAnalytics/';
@@ -29,7 +44,7 @@
         ga24x7Tracker.trackPageView();ga24x7Tracker.enableLinkTracking();}
 </script><script type="text/javascript" async="" src="https://analytics.rummycircle.com/GamesAnalytics/js/ga24x7.js"></script>
 <!-- End Games Analytics Tracking Tag -->
-<script src="/js/jquery-1.6.2.min.js?v1356528874" type="text/javascript"></script>
+<script src="/js/jquery-1.6.2.min.js?v1381799062" type="text/javascript"></script>
 <script type="text/javascript">
  var User;
 if (!this.User) 
@@ -86,11 +101,11 @@ function loadHeader()
                 		$('#item_user').css({"display":"none"} );
                 		$("#item_user").unbind('mouseover');
                 	}
-                
-        } 
+        	} 
 $(document).ready(function() 
 {
         loadHeader();
+        handleEmailConf();
 // ESC for more details and registration screens
 
    $(document).keyup(function(e) {			
@@ -107,33 +122,111 @@ $(document).ready(function()
        } 
 	});        
 });
+
+function handleEmailConf()
+{
+	var cookie=readCookie("ga24x7_jsessionid");
+    var cookeDetails = cookie.split(":");	
+	var emailConfirmation = cookeDetails[8];
+	
+	if(emailConfirmation && (emailConfirmation.indexOf("1") != -1 || emailConfirmation.indexOf("2") != -1))
+	{
+        $.ajax({
+            type:'GET',
+            dataType: 'jsonp',
+            jsonp: 'jsonp_callback',
+            url: '/player/getEmailDetails.html',
+            success: function (data) 
+                {
+                	if(data)
+                	{
+               				document.getElementById('emailId').value= data.email;
+               				setUpEmailProviderTop('goToEmailBoxTopc3');
+               				//$('#goToEmailBoxTop3').bind("click",function() {window.open("http://www."+data.emailprovideraddress);});
+               				$I('goToEmailBoxTop3').href="http://www."+data.emailprovideraddress;
+               				$I("emailIdTop1").innerHTML=data.email;
+               				$I("emailIdTop2").innerHTML=data.email;
+               				$I("emailIdTop3").innerHTML=data.email;
+               				$I("emailIdTop4").innerHTML=data.email;
+                            if(emailConfirmation.indexOf("1") != -1)
+                            {	
+                            		setUpEmailProviderTop('goToEmailBoxTopc1');
+                            		//$('#goToEmailBoxTop1').bind("click",function() {trackAjaxPage('/player/warningemailconfirmationbanner/gotoyourmail.html');window.open("http://www."+data.emailprovideraddress);});
+                            		$I('goToEmailBoxTop1').href="http://www."+data.emailprovideraddress;
+                            		$('#goToEmailBoxTop1').unbind("click");
+                            		$('#goToEmailBoxTop1').bind("click",function() {trackAjaxPage('/player/warningemailconfirmationbanner/gotoyourmail.html');/*window.open(");*/});
+                            		trackAjaxPage('/player/warningemailconfirmationbanner.html')
+        							$("#warning-email").css("display","block");
+                            }
+                            else
+                            {
+                            		setUpEmailProviderTop('goToEmailBoxTopc2');
+                            		//$('#goToEmailBoxTop2').bind("click",function() {trackAjaxPage('/player/blockedemailconfirmationbanner/gotoyourmail.html');window.open("http://www."+data.emailprovideraddress);});
+                            		$I('goToEmailBoxTop2').href="http://www."+data.emailprovideraddress;
+                            		$('#goToEmailBoxTop2').unbind("click");
+                            		$('#goToEmailBoxTop2').bind("click",function() {trackAjaxPage('/player/blockedemailconfirmationbanner/gotoyourmail.html');});
+                            		trackAjaxPage('/player/blockedemailconfirmationbanner.html');
+                        			$("#blocked-email").css("display","block");
+                            }
+                	}
+    				else
+    				{
+    					$("#warning-email").css("display","none");
+    					$("#blocked-email").css("display","none");
+    					
+    				}
+
+                }
+   			 });
+
+	}
+	else
+	{
+		$("#warning-email").css("display","none");
+		$("#blocked-email").css("display","none");
+		
+	}
+}
 </script>
 
 
 <link rel="SHORTCUT ICON" href="/favicon.ico">
 <link rel="ICON" href="/favicon.ico">
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-<link href="/themes/default/css/reset.css?v1356528874" rel="stylesheet" type="text/css">
-<link href="/themes/default/css/main.css?v1356528874" rel="stylesheet" type="text/css">
-<link href="/themes/default/css/jquery-ui-1.7.1.custom.css?v1356528874" rel="stylesheet" type="text/css">
-<link href="/themes/default/css/ui.slider.extras.css?v1356528874" rel="stylesheet" type="text/css">
+<link href="/themes/default/css/reset.css?v1381799062" rel="stylesheet" type="text/css">
+<link href="/themes/default/css/main.css?v1381799062" rel="stylesheet" type="text/css">
+<link href="/themes/default/css/jquery-ui-1.7.1.custom.css?v1381799062" rel="stylesheet" type="text/css">
+<link href="/themes/default/css/ui.slider.extras.css?v1381799062" rel="stylesheet" type="text/css">
+<link href="/themes/default/css/overlay-registration.css?v1381799062" rel="stylesheet" type="text/css">
+<link href="/themes/default/css/my_account.css?v1381799062" rel="stylesheet" type="text/css">
 <!--[if IE 6]>
-	<link href="/themes/default/css/main-ie6.css?v1356528874" rel="stylesheet" type="text/css" />
+	<link href="/themes/default/css/main-ie6.css?v1381799062" rel="stylesheet" type="text/css" />
 <![endif]-->
-<link href="/themes/default/css/jquery-ui.css?v1356528874" rel="stylesheet" type="text/css">
-<link href="/themes/default/css/mobile-addcash.css?v1356528874" rel="stylesheet" type="text/css">
-<link href="/themes/default/css/popup.css?v1356528874" rel="stylesheet" type="text/css">
-<script type="text/javascript" src="/js/jquery.alerts.js?v1356528874"></script>
-<script type="text/javascript" src="/js/config_list.js?v1358318141"></script>
-<script type="text/javascript" src="/js/common.js?v1358430734"></script>
+<!--[if IE 7]>
+	<link href="/themes/default/css/main-ie6.css?v1381799062" rel="stylesheet" type="text/css" />
+<![endif]-->
+<link href="/themes/default/css/jquery-ui.css?v1381799062" rel="stylesheet" type="text/css">
+<link href="/themes/default/css/mobile-addcash.css?v1381799062" rel="stylesheet" type="text/css">
+<link href="/themes/default/css/popup.css?v1381799062" rel="stylesheet" type="text/css">
+<link href="/themes/default/css/launch.css?v1381799062" rel="stylesheet" type="text/css">
+<script type="text/javascript" src="/js/jquery.alerts.js?v1381799062"></script>
+<script type="text/javascript" src="/js/config_list.js?v1381799073"></script>
+<script type="text/javascript" src="/js/common.js?v1381799063"></script>
+<script type="text/javascript" src="/js/my_account.js?v1381799062"></script>
+<script src="/js/validation.js?v1381799062" type="text/javascript"></script>
+<link href="/themes/default/css/bring_friend.css?v1381799062" rel="stylesheet" type="text/css">
+<script src="/js/validation.js?v1381799062" type="text/javascript"></script>
+<script src="/js/bring_friend.js?v1381799063" type="text/javascript"></script>
 
 
 <title>Privacy Policy | RummyCircle.com</title>
 <meta name="description" content="RummyCircle respects your privacy and assures you that any information provided by you is protected and will be dealt with according to the Privacy Policy.">
 <meta name="keywords" content="privacy policy rummy circle">
+
 </head>
 <body>
 <div id="wrapper">
+<input id="frompage" name="frompage" style="display: none">
 	<div id="gmscontent">
 	</div>
 	<div id="popupContact">
@@ -163,19 +256,175 @@ $(document).ready(function()
 					    <p class="congratulations-calltoaction"> <strong>For more information, please contact customer support on responsibleplay@rummycircle.com</strong></p>
 					</div>
 				</div>
-			</div>
-           	<div id="blockedSuccess" style="display:none">	    	
-	    		<div class="congratulations-main" style="width: 530px;height:50px; background-color:#fff">
+	       </div>
+           	
+            <!--
+            <div id="blockedSuccess" style="display:none">	    	
+	    		<div class="congratulations-main"  style="width: 530px;height:50px; background-color:#fff">
 	    			<div style="position:relative; width:515px; height:36px; padding:5px 0 5px 15px; background-color:#f6feef;">
-	    				<img src="https://rcmg.in/rc/add_cash/RC_logo_addcash.jpg" width="148" height="36">
+	    				<img src="https://rcmg.in/rc/add_cash/RC_logo_addcash.jpg" width="148" height="36" />
 	    			</div>
 					<div class="congratulations-middle" id="addcashMsg1">
-						<br>			    
-			  			<p class="heading0">Details Saved successfully</p>			   
-						<br>Your personal details have been saved successfully.You are now eligible to play cash games.<br><br><br><br>			
+						<br/>			    
+			  			<p class="heading0" >Details Saved successfully</p>			   
+						<br/>Your personal details have been saved successfully.You are now eligible to play cash games.<br/><br/><br/><br/>			
 			    	</div>
 			    </div>	    	
 	    	</div>
+            -->
+            
+            <div id="blockedSuccess" style="display:none;">
+
+<div class="adcsh-overlay-up-stc">
+	<div class="adcsh-top-stc adcsh-up-wp-cong-msg-header-mn" align="center">
+                    	<p>Congratulations!</p>
+                        
+                    </div>
+                    
+                    
+					<div class="adcsh-up-wp-cong-msg" id="addcashMsg1">
+                    
+                    <div class="success_message" style="display: block; width:495px;" id="settetererer">
+ 					<span id="setteterererMsg">Details Saved Successfully</span>
+				</div>
+                    
+						<div class="content">Your upgrade package is now activated.<br> Play a Cash Game to get started.</div>		
+			    	</div>
+
+               
+               
+                
+                
+                <div class="add-cash-upgrade-wp-overlay">
+
+
+
+  <div class="wp-display-row wp-display-header-row">
+  <div class="wp-display-column-added-to-account adcsh-up-wp-tournndbonus">Tournament
+and Bonuses</div>
+  
+  
+  <div class="wp-display-column-actnow adcsh-up-wp-prz">Max. Cash to be Won</div>
+  </div>
+  
+  
+  <div class="wp-display-row">
+  <div class="wp-display-column-added-to-account upgrade-wp-height adcsh-up-wp-tournndbonus">
+  
+  
+  
+  <div class="adcsh-up-wp-tournbonus-str upgrade-row-bg-white">
+  
+ 	<div class="adcsh-up-wp-tournbonus-str-img upgrade-jumbotournament"></div>
+    
+    <div class="adcsh-up-wp-tournbonus-str-content">
+    <span class="black">Jumbo Tournaments</span>
+  <p>30 FREE Tickets (1st Prize <span class="rupeefont">r</span>1200)</p>
+    
+    </div> 
+  
+  </div>
+  
+  
+  </div>
+  
+  
+  
+  
+  <div class="wp-display-column-value adcsh-up-wp-prz upgrade-wp-height upgrade-row-bg-white ">
+  <div class="wp-display-column-value-container upgrade-row-bg-white upgrade-height">
+ 
+  <p class="worthnumber upgrade-worthnumber"><span class="rupeefont upgrade-worthnumber">r</span>36,000</p>
+  </div>
+  </div>
+  </div>
+  
+  <div class="wp-display-row">
+  <div class="wp-display-column-added-to-account upgrade-wp-height adcsh-up-wp-tournndbonus">
+  
+  <div class="adcsh-up-wp-tournbonus-str upgrade-row-bg-greay1 add-upgrade-height">
+  
+ 	<div class="adcsh-up-wp-tournbonus-str-img upgrade-wednesdaysurprises"></div>
+    
+    <div class="adcsh-up-wp-tournbonus-str-content">
+     <span class="black"> Wednesday Surprises</span>
+  <p>4 FREE Tickets (1st Prize <span class="rupeefont">r</span>3500)</p>
+    
+    </div> 
+  
+  </div>
+  
+  </div>
+  
+  
+  
+  
+  <div class="wp-display-column-value adcsh-up-wp-prz upgrade-wp-height">
+   <div class="adcsh-up-wp-display-column-value-container upgrade-row-bg-greay1 add-upgrade-height2">
+ 
+  <p class="worthnumber upgrade-worthnumber"><span class="rupeefont upgrade-worthnumber">r</span>8,000 <br><span class="adcsh-subcontprz">PLUS 4 Gifts</span></p>
+	
+  </div></div>
+  </div>
+  
+  
+  <div class="wp-display-row">
+  <div class="wp-display-column-added-to-account upgrade-wp-height adcsh-up-wp-tournndbonus adcsh-toplft-corn">
+  
+  <div class="adcsh-up-wp-tournbonus-str upgrade-row-bg-white">
+  
+ 	<div class="adcsh-up-wp-tournbonus-str-img upgrade-megarummytournament"></div>
+    
+    <div class="adcsh-up-wp-tournbonus-str-content">
+     <span class="black">Mega Rummy Tournament</span>
+  <p>Gifts (4 / month) + (1st Prize - <span class="rupeefont">r</span> 2000)</p>
+    </div> 
+  
+  </div>
+  
+  </div>
+
+  <div class="wp-display-column-value adcsh-up-wp-prz upgrade-wp-height adcsh-topright-corn">
+ <div class="wp-display-column-value-container upgrade-height">
+  
+  <p class="worthnumber upgrade-worthnumber"><span class="rupeefont upgrade-worthnumber">r</span>15,000</p>
+  </div>
+  </div>
+  </div>
+  </div>
+                
+               
+                
+                
+                
+                
+     
+     <!--btn-->           
+      
+     <div class="adcsh-btn-stc">
+       <form id="test11" method="post" action="/player/tournaments.html#toggle=true">
+    <input type="hidden" name="tab" value="2">
+    <input type="hidden" name="subtab" value="1">
+    <input type="hidden" name="tournamentId" value="1">
+    <input type="hidden" name="emailId" id="emailId">
+    <a onclick="if(window.location.toString().indexOf('/tournaments.html')>-1)
+        {if(document.getElementById('addCashIframe')){
+            OVERLAY.box.hide();} tlist.trackAjaxPage('promotions/upgrade-address-validation-addcash'); tlist.toggle(2,1,0,false,1);
+                        
+        }
+        else
+        {
+                $('#test11').submit();
+        }" style="cursor:pointer;" class="btn_prime"><span class="drt_getstartednow_btn adcsh-prm-btn">PLAY A CASH GAME NOW</span></a>
+  </form>
+      </div>   
+	  <!--btn-->  	
+
+</div>
+</div>
+            
+            
+            
 			<!-- Add Cash popup start here -->
 			<div class="gd_popup" id="addcashLimitCondition" style="display:none; z-index: 4001">		
 				<div class="mobile-addcash-close-btn-fix">
@@ -191,18 +440,22 @@ $(document).ready(function()
 						<table width="100%" border="0" align="center">
 				  			<tbody><tr>
 				    			<td width="70%" id="addcashLimitConditionHeader">Your Daily Add Cash Limit</td>
-				    			<td><span class="rupeefont">r</span> <span id="addcashLimitConditionHeaderContent">500</span></td>
+				    			<td><span class="rupeefont">r</span> <span id="addcashLimitConditionHeaderContent"></span></td>
 				  			</tr>
 				  			<tr>
-				    			<td id="addcashLimitConditionCashAddedHeader">Cash added today</td>
-				    			<td><span class="rupeefont">r</span> <span id="addcashLimitConditionCashAddedHeaderContent">480</span></td>
+				    			<td id="addcashLimitConditionCashAddedHeader">Cash added in last 24 Hrs</td>
+				    			<td><span class="rupeefont">r</span> <span id="addcashLimitConditionCashAddedHeaderContent"></span></td>
+				  			</tr>
+				  			<tr id="addCashLimitConditionCashWithdrawnRow" style="display: none;">
+				    			<td id="addcashLimitConditionCashWithdrawnHeader">Cash withdrawn in last 24 Hrs</td>
+				    			<td><span class="rupeefont">r</span> <span id="addcashLimitConditionCashWithdrawnHeaderContent"></span></td>
 				  			</tr>
 				  			<tr>
 				    			<th id="addcashLimitConditionMaximumCashHeader">Maximum Cash you can add now</th>
 				    			<th>
 				     				<div class="margin-zeroul flt_rt">
 					     			<ul>	
-				    					<li class="flt_lt"><span class="rupeefont">r</span><span id="addcashLimitConditionCashCanBeAddedHeaderContent">20</span></li>
+				    					<li class="flt_lt"><span class="rupeefont">r</span> <span id="addcashLimitConditionCashCanBeAddedHeaderContent"></span></li>
 				    					<li class="flt_lt"><span id="astrik">*</span></li>
 				    				</ul>
 				    				</div>
@@ -254,7 +507,103 @@ $(document).ready(function()
 				</div> <!-- gd_popup_footer -->				
 			</div> <!-- gd_popup -->
 			<!-- Add Cash popup end here -->			
-		</div>   <!-- contactArea -->         
+		</div>   <!-- contactArea -->
+		
+		<!--<div class="tranparentpopupborderCHAT" id="changeUsernamePopup" style="display:none">
+		<div class="first-login_lobby">
+		    <div class="form_row">
+                <label>Old Username :</label><span class="loginId"  ></span> 
+            </div>
+            <div class="form_row">
+                <label for="new_mobile">New Username :</label>
+                <input type="text" maxlength="15" name="new_username" id="new_usernamexxxx"  class="flt_lt" onblur="changeUsernameOnOverlay()" />
+            </div>
+            <div class="form_row">
+                <label>&nbsp;</label>
+                <input type="button" name="button" title="Change Username" value="Submit" class="btn_submit" id="changeusername" onclick="changeUsernameOnOverlay()">
+            </div>    
+            <div class="welcometext">
+						 <span  id="changeUsernamePopupSugg" ></span>
+			</div>    
+        </div>				
+      	</div>
+		
+		--><div id="firstloginpopupPathC" class="tranparentpopupborderCHAT" style="display:none">
+			<div class="first-login_lobby">
+			
+			<div class="bre-callout-main">
+			<div class="bre-callout-str">Not the username you <br>had asked for? <a href="javascript:;" onclick="showChangeUsername('',696,340)"><strong>Click Here</strong></a> to change now!<br>
+
+                </div>
+			<div class="bre-callout-arrow"><img src="https://rcmg.in/rc/breusernameeditbox_arrow.png"></div>
+			</div>
+			
+			
+				<div class="first-login-1">
+					<div class="welcometext">
+						Welcome <span class="loginId"></span>!
+					</div>
+					<div class="congratulation">
+						Congratulations! You've earned <img src="https://rcmg.in/rc/1000-practice-chips.png" alt="10,000 Practice Chips" width="95" height="30" align="absbottom"> practice chips
+                        <p> for being our newest member! Well done!</p>
+                    </div>
+                </div>
+				<div class="first-login-2">
+                	<img src="https://rcmg.in/rc/first-login-click-here.jpg" alt="" width="269" height="100" border="0" usemap="#Map">
+					<map name="Map" id="Map" onclick="findAGame();">
+						<area shape="poly" coords="81,16,240,16,253,20,263,28,268,41,265,59,253,69,240,72,78,73,72,79,74,83,74,91,10,90,6,78,4,69,6,60,0,55,2,45,10,45,8,33,3,23,4,15,10,8,16,9,29,2,44,1,58,4,66,9,72,7" href="javascript:;" alt="">
+                   	</map>
+				</div>
+				<div class="first-login-3">
+					<div class="go-to-lobby">
+						<a onclick="goToLobby();trackAjaxPage('/player/overlay/skip-to-lobby.html');OVERLAY.box.hide();"><img src="https://rcmg.in/rc/spacer.gif" alt="Go To Lobby" width="119" height="29" border="0"></a>
+					</div>
+                    <div class="bre-players-online">
+                      	<div class="players-online-left">Players Online:</div>
+                      	<div class="players-online-number" id="onlineplayerslist"></div>
+                  	</div>
+				</div>
+				
+				
+			</div>
+		</div>
+                <div id="pathCConfirm" style="display:none">
+                        
+                        <div class="bre-overla-bg">
+                        <div id="usr_namechange_container">
+                        <div class="gd_popup_head2">Change Username</div>
+                        <div id="usr_name_container_inner">
+                                <div class="bre-overla-inrcont">Your username has been changed successfully.<br> 
+                            Please use your new username or registered email address to login next time.
+                            <br> <br><br>
+                            <span>Note that you would no longer be permitted to change your username</span>
+                            <br><br><br>
+                            
+                            <input type="button" name="submit_btn" title="Change Username" value="OK" onclick="javascript:showGMS(0, false, true);" class="btn_submit" style="margin-left:160px;">
+                        </div>
+                        </div>
+                        </div>
+                </div>     
+                </div>
+                
+                    <div id="pathCFailure" style="display:none">
+                        
+                        <div class="bre-overla-bg">
+                        <div id="usr_namechange_container">
+                        <div class="gd_popup_head2">Change Username</div>
+                        <div id="usr_name_container_inner">
+                        
+                                <div class="bre-overla-inrcont" style="padding-top:34px;"><span>You have already changed your username once.<br> You are no longer permitted to do so. </span>
+                                 <br><br><br>
+                                 
+                                 <input type="button" name="submit_btn" title="Change Username" value="OK" onclick="javascript:showGMS(0, false, true);" class="btn_submit" style="margin-left:160px;">
+                        </div>
+                        
+                        </div>
+                        
+                        </div>
+                </div>     
+                </div>
         <div id="firstloginpopup" class="tranparentpopupborderCHAT" style="display:none">
 			<div class="first-login_lobby">
 				<div class="first-login-1">
@@ -274,7 +623,7 @@ $(document).ready(function()
 				</div>
 				<div class="first-login-3">
 					<div class="go-to-lobby">
-						<a href="tournaments.html#practicepoints" onclick="trackAjaxPage('/player/overlay/skip-to-lobby.html');OVERLAY.box.hide();"><img src="https://rcmg.in/rc/spacer.gif" alt="Go To Lobby" width="119" height="29" border="0"></a>
+						<a onclick="goToLobby();trackAjaxPage('/player/overlay/skip-to-lobby.html');OVERLAY.box.hide();"><img src="https://rcmg.in/rc/spacer.gif" alt="Go To Lobby" width="119" height="29" border="0"></a>
 					</div>
                     <div class="bre-players-online">
                       	<div class="players-online-left">Players Online:</div>
@@ -315,6 +664,102 @@ $(document).ready(function()
         </div>
       </div>
     </div>
+<!--     
+    <div class="warning-container" style="display:none;" id="warning-email">
+				
+				<div class="warning-text">
+					
+					<p>To continue to provide you good service, and for your security, we need you to validate your email address.</p>
+					
+					<p id="showResendMesgWarning" style="display:none;">A validation email has been sent to your address.If you face trouble receiving or clicking on the validation link
+					, just send us a blank email to emailvalidation@rummycircle.com to verify your address !</p>
+				
+				</div>
+
+				<div class="warning-buttons">
+
+					<input type="button" id="goToEmailBoxTop1" class="go-email-button" value=""/>
+
+					<div class="secondary-button-container">
+					
+						<a  onclick="javascript:showResendEmailConfirmation(2);" class="secondary-button">Resend Email</a>
+						<a  onclick="javascript:showChangeEmailOverlay();" class="secondary-button">Change Email Address</a>
+					
+					</div>
+
+				</div>
+
+			</div> -->
+
+			
+			<!-- <div class="spacer"></div> -->
+
+
+
+<!-- 			<div class="warning-container" id="blocked-email" style="display:none;">
+				
+				<div class="warning-text">
+					
+					<p class="active-warning">To continue to provide you good service, and for your security, we need you to validate your email address.</p>
+					
+				<p id="showResendMesgBlock" style="display:none;">A validation email has been sent to your address.If you face trouble receiving or clicking on the validation link
+					, just send us a blank email to emailvalidation@rummycircle.com to verify your address !</p>
+				
+				</div>
+
+				<div class="warning-buttons">
+
+					<input type="button" id="goToEmailBoxTop2" class="go-email-button" value="" />
+
+					<div class="secondary-button-container">
+					
+						<a  onclick="javascript:showResendEmailConfirmation(3);" class="secondary-button">Resend Email</a>
+						<a  onclick="javascript:showChangeEmailOverlay();" class="secondary-button">Change Email Address</a>
+					
+					</div>
+
+				</div>
+
+			</div> -->
+	<div class="email-confirmation-banner-container" style="display:none;" id="warning-email">
+      <div class="email-confirmation-banner-message">  <div class="email-confirmation-left-banner"> To continue, please confirm <a id="emailIdTop1">xyz@gmail.com</a><strong> (<a style="cursor:pointer;" onclick="trackAjaxPage('/player/warningemailconfirmationbanner/changeemailaddress.html');showChangeEmailOverlay(2);">Change Email</a>)</strong>  <br> 
+        If you face trouble confirming, send a blank email from <span id="emailIdTop3">xyz@gmail.com</span> to <span class="orange-highlight">emailvalidation@rummycircle.com</span> </div>  
+      
+    <div class="email-confirmation-right"> <p><a class="btn_org" id="goToEmailBoxTop1" target="_blank"><span class="emailicon" id="goToEmailBoxTopc1"> Go To Your Gmail Now!</span></a> <br><br><br><i>Didn't receive confirmation email? </i> <a style="cursor:pointer;" onclick="trackAjaxPage('/player/warningemailconfirmationbanner/resendconfirmationemail.html');showResendEmailConfirmation(2);"><strong><i>Resend</i></strong></a> </p> </div>
+
+    </div>
+    </div>
+    	
+	<div class="email-confirmation-banner-container" id="blocked-email" style="display:none;">
+      <div class="email-confirmation-banner-message">  <div class="email-confirmation-left-banner"> <span class="red-color-font"> To continue to get full access, confirm <a id="emailIdTop2">xyz@gmail.com</a></span> (<a style="cursor:pointer;" onclick="trackAjaxPage('/player/blockedemailconfirmationbanner/changeemailaddress.html');showChangeEmailOverlay(4);"><strong>Change Email</strong></a>) <br> 
+        If you face trouble confirming, send a blank email from <span id="emailIdTop4">xyz@gmail.com</span> to <span class="orange-highlight">emailvalidation@rummycircle.com</span> </div>  
+      
+    <div class="email-confirmation-right"> <p><a class="btn_org" id="goToEmailBoxTop2" target="_blank"><span class="emailicon" id="goToEmailBoxTopc2"> Go To Your Gmail Now!</span></a> <br><br><br><i>Didn't receive confirmation email? </i> <a style="cursor:pointer;" onclick="trackAjaxPage('/player/blockedemailconfirmationbanner/resendconfirmationemail.html');showResendEmailConfirmation(3);"><strong><i>Resend</i></strong></a> </p> </div>
+
+    </div>
+    </div>
+    
+    <div class="email-confirmation-banner-container" style="display:none;" id="showResendMesgTop">
+    <div class="email-confirmation-banner-message">
+      <div class="email-confirmation-banner-sent"> <div class="success_message marg_top email-confirmations" style="display:block;">
+				<span id="success_message">Confirmation email has been sent.</span>	
+			</div>
+      
+    <div class="email-confirmation-right"> <p><a class="btn_org" id="goToEmailBoxTop3" target="_blank"><span class="emailicon" id="goToEmailBoxTopc3"> Go To Your Gmail Now!</span></a> <br><br><br><i>Didn't receive confirmation email? </i> <a style="cursor:pointer;"><strong><i>Resend</i></strong></a> </p> </div>
+
+    </div>
+    </div></div>
+    
+<!--     
+       <div class="email-confirmation-banner-container" style="display:block;" id="showResendMesgTop1">
+      <div class="email-confirmation-banner-sent"> <div class="success_message marg_top email-confirmations" style="display:none;" >
+				<span id="success_message">Confirmation email has been sent.</span>	
+			</div>
+      
+    <div class="email-confirmation-right"> <p><a class="btn_org" id="goToEmailBoxTop4" ><span class="emailicon" id="goToEmailBoxTopc4"> Go To Your Gmail Now!</span></a> <br/><br/><br/><i>Didn't receive confirmation email? </i> <a href="#"><strong><i>Resend</i></strong></a> </p> </div>
+
+    </div>
+    </div> -->
 		<div class="header_wrap">
 			<div class="header">
     			<div class="logo"><a id="logiId" href="/"><img src="https://rcmg.in/rc/rummy-circle-logo.gif" width="256" height="66" alt="RummyCircle.com - The Best Rummy Experience." title="RummyCircle.com - The Best Rummy Experience."></a></div>
@@ -334,9 +779,33 @@ $(document).ready(function()
 								<div id="tipcash" callback="showCashtip" class="tooltip_description" style="display:none"></div>
 							</div>		
 							<a href="javascript:addCash();" class="btn_prime marg_lt">
-            					<span class="addcash">Add Cash</span>
+            					<span class="addcash_tophead">Add Cash</span>
          		 			</a>       
               			</div>
+              			<div id="biseparator" class="userdetail_separator"></div>
+              			<div id="biprogressbar" class="userdetail_display bonus_icon">Bonus<br>
+							<span id="progressbar"></span>
+							<input type="hidden" name="isActiveBonus" id="isActiveBonus">
+							<input type="hidden" name="progress" id="progress">
+							<input type="hidden" name="bonusCode" id="bonusCode">
+							<input type="hidden" name="chunkAmount" id="chunkAmount">
+							<input type="hidden" name="entryFeePerChunk" id="entryFeePerChunk">
+							<input type="hidden" name="chunkReleased" id="chunkReleased">
+							<input type="hidden" name="totalChunks" id="totalChunks">
+							<input type="hidden" name="daysToExpire" id="daysToExpire">
+							<input type="hidden" name="totalBonus" id="totalBonus">
+							<input type="hidden" name="remainingBonus" id="remainingBonus">
+							<input type="hidden" name="remainingBounsForCurrentChunk" id="remainingBounsForCurrentChunk">
+							<input type="hidden" name="nextBonusCode" id="nextBonusCode">
+							
+						<div id="bonusCallout" class="item tooltipbottom" style="top: 50px;">&nbsp;
+							
+							</div> 
+							
+							 
+							 
+							<input type="hidden" id="bonusCalloutBeingShown" name="bonusCalloutBeingShown" value="false">
+						</div>
               			<div class="userdetail_separator"></div>
 						<div class="userdetail_display practice_chips_icon">
 							Practice Chips<br>
@@ -350,13 +819,20 @@ $(document).ready(function()
 						<div class="userdetail_display platinum_club_icon">
 							Club<br><span id="clubStatus"></span>
 						</div>
+						<div id="viplogo_top" style="display:none;"><a id="vipRedirector" href="/player/account/vip-program.html">
+						       <div id="vipDefaultCallout" onmouseout="javascript:;" unbindmouseout="javascript:;" class="item tooltipbottom"><img id="vipImg" src="https://rcmg.in/rc/viptoploginlogo.png">
+								<div id="tipvip" title="Your Relationship Manager" noautoclose="javascript:;" closetrckajax="/player/vip/hovercallout/close.html" callback="showRmDetails" tiptimeout="6000000" class="tooltip_description" style="display:none"></div>
+							</div>
+							<div id="vipCallout" onmouseout="javascript:;" unbindmouseout="javascript:;" class="item tooltipbottom"><div id="tipvip1" title="You are Upgraded to VIP Status" noautoclose="javascript:;" closetrckajax="/player/vip/introductioncallout/close.html" tiptimeout="6000000" class="tooltip_description" style="display:none"><p><br>In recognition of your true value, your status has been upgraded to VIP (Very Important Player). We appreciate your continued patronage. With a top-notch status like yours, comes a dedicated Relationship Manager for all your needs! 
+                            <br><br>Hover your mouse pointer over the icon above to get Relationship Manager details. </p></div>
+							</div></a></div>
 						<div class="userdetail_separator"></div>
 						
 						<div id="usernametop" class="userdetail_display username_icon">
                                                         <div class="flt_lt">
 							Username<br><a href="/player/account/overview.html"><span id="loginId"></span></a>
                                                         </div>
-                                                        <div id="item_user" class="lock_icon" onmouseout="javascript:;">
+                                                        <div id="item_user" class="lock_icon tooltipbottom" onmouseout="javascript:;">
                                                     <div id="tip_user" class="tooltip_description" style="display:none" title="">
                                                         You will need to provide your personal details by clicking on this button, before you can play cash games.
                                                     </div>
@@ -371,10 +847,10 @@ $(document).ready(function()
               	<div id="login_box" class="userdetail" style="display: none;">              	
 					<div class="userdetail_main orangeonblackbg">
                     	<div class="login_box_inner">
-                    	<form id="loginForm" name="loginForm" method="post" novalidate="novalidate" onsubmit="return login();">
+                    	<form id="loginForm" name="loginForm" method="post" novalidate="" onsubmit="return login();">
                     		<input type="hidden" name="calloutType" value="bottom">
                       		<div class="form_row">
-                      			<input id="j_username" name="j_username" type="text" value="" onfocus="toggleText(this, false)" onblur="toggleText(this, true)" maxlength="20">
+                      			<input id="j_username" name="j_username" type="text" value="" onfocus="toggleText(this, false)" onblur="toggleText(this, true)" maxlength="255">
                       		</div>
                       		<div class="form_row">
                       			<input type="text" name="fake_j_password" id="fake_j_password" onfocus="passwordFocus('j_password')">
@@ -404,9 +880,10 @@ $(document).ready(function()
 					    <li id="superlink2" style="width: auto;">    
 					      <h3><a href="/player/tournaments.html" title="Rummy Lobby" class="">Rummy Lobby</a></h3>
 					      <ul class="sub_menu">
+					        <li id="fmgli"><a id="listFmg" href="/player/tournaments.html#fmg">Find A Game</a></li> 
 					        <li><a id="listCash" href="/player/tournaments.html#cashpoints">Cash</a></li>
 					        <li><a id="listPractice" href="/player/tournaments.html#practicepoints">Practice</a></li>
-						<li><a id="listPromo" href="/player/tournaments.html#mttall">Tournaments</a></li>
+						<!-- <li><a  id="listPromo" href="/player/tournaments.html#mttall">Tournaments</a></li> -->
 					        </ul>
 					      </li>
 					    </ul>
@@ -432,11 +909,22 @@ $(document).ready(function()
     	<!-- GMS Banner Start Here -->
     	<div class="gms_banner" id="gms_banner">
 			<div id="promo_banner">
-                                <div style="padding-top:0px;text-align:center">
+			<div style="padding-top:0px;text-align:center">
                                         <a>
                                                 <img width="959" height="68" border="0" src="https://rcmg.in/rc/spacer.gif">
                                         </a>
-                                </div>
+           </div>
+<!--<div style="width:960px;height:69px;margin:0px auto; "><a href="#" onClick="javascript:showMobipayRegistrationOverlay( '/overlay-registration-lp.html',1 ) ;trackAjaxPage('overlay-reg-form.html');"><img src="https://rcmg.in/gms/pre-login-register-free/pre-login-register-free-gms.jpg" width="960" height="69" alt="JOIN THE FUN - REGISTER FREE" title="JOIN THE FUN - REGISTER FREE" ></a></div>-->
+
+<!-- Pre login welcome package start here  
+<div style="width:960px;height:69px;margin:0px auto; "><a href="#" onClick="javascript:showRegistrationOnOverlayLanding( '/overlay-registration-login-on-landingpage.html',1 ) ;trackAjaxPage('overlay-welcomepackage.html');"><img src="https://rcmg.in/gms/wp/GMS-welcome-banner_2_latest.jpg" width="960" height="69" alt="RS.4000 ADDED TO YOUR ACCOUNT" title="WELCOME PACKAGE" ></a></div>
+<!-- Pre login welcome package ends here -->
+
+<!-- Post login welcome package start here -->
+<!--<div style="width:960px;height:69px;margin:0px auto; "><a href="#" onClick="javascript:showPostoginWelcomeOverlay( '/welcomepackage_overlay_post_login.html',1 ) ;trackAjaxPage('welcomepackage_overlay_post_login.html');"><img src="https://rcmg.in/gms/wp/welcomepackage-tz-seenow.jpg" width="960" height="69" alt="RS.4000 ADDED TO YOUR ACCOUNT" title="WELCOME PACKAGE - SEE NOW" ></a></div>-->
+<!-- Post login welcome package ends here -->
+
+<!--<div style="width:960px;height:69px;margin:0px auto; "><a href="#" onClick="javascript:showPostoginWelcomeOverlay( '/welcomepackage_overlay_post_login.html',1 ) ;trackAjaxPage('welcomepackage_overlay_post_login.html');"><img src="https://rcmg.in/gms/pre-login-register-free/pre-login-register-free-gms.jpg" width="960" height="69" alt="JOIN THE FUN - REGISTER FREE" title="JOIN THE FUN - REGISTER FREE" ></a></div>-->
             </div>
 		</div>
         <!-- GMS Banner End Here -->
@@ -526,6 +1014,8 @@ completely RummyCircle's discretion to delete or not use it any further.</p>
 
 <p>RummyCircle may also use software applications for website traffic analysis and to gather statistics, used for
 advertising and for determining the efficacy and popularity of RummyCircle among others.</p>
+
+<p>Presently, RummyCircle is using display advertising and <a href="https://support.google.com/analytics/answer/2611268?hl=en" target="_blank">remarketing</a> through <a href="http://www.google.co.in/analytics/features/index.html" target="_blank">Google Analytics</a>, wherein third party vendors including google, display our ads on sites across the internet and uses first party cookies and third party cookies together to inform, optimize and serve ads based on visits of visitors to our website.  Our visitors are free to opt out of Google Analytics for display advertising and customize google display network ads using <a href="https://www.google.com/settings/ads/onweb/?hl=en&amp;sig=ACi0TCg4VHd0m21adYaAg9yNDxJFQTiTSdorWliAwloVbVUTgmchctwp2GJgAjNVdX5eTnvU_liK7Nw1FGvAO2MinLUps2ts4sc__SSyVF7FCU6gglVus727677iacDuZaJDGl9s2vkWKy9gmbFnJTyVHgeNeMVjqG3WCh_5C10Gqr73KbdwD0__6mf5ax3UV_6tHffg9HzX" target="_blank">ads preference manager</a>.</p>
 
 </li>
 
@@ -725,20 +1215,20 @@ must be sent to the Grievance Officer at <a href="mailto:support@rummycircle.com
 	</div>
 </div>
 </div>
-<script src="/js/jquery.alerts.js?v1356528874" type="text/javascript"></script>
-<script src="/js/jquery.autocomplete.js?v1356528874" type="text/javascript"></script>
-<script src="/js/custom_function.js?v1358506225" type="text/javascript"></script>
-<script src="/js/addressVerification.js?v1356528874" type="text/javascript"></script>
-<script src="/js/addCashValidationMessage.js?v1358506225" type="text/javascript"></script>
-<script src="/js/trackStaticPages.js?v1356528874" type="text/javascript"></script>
-<script src="/js/jquery-ui.min.js?v1356528874" type="text/javascript"></script>
-<script src="/js/popup.js?v1358506225" type="text/javascript"></script>
-<script src="/js/jquery.tooltip.js?v1356528874" type="text/javascript"></script>
-<script src="/js/jquery.dropdown.js?v1356528874" type="text/javascript"></script>
-<script src="/js/addcash4.js?v1356528874" async="" type="text/javascript"></script>
-<script src="/js/links.js?v1356528874" async="" type="text/javascript"></script>
-<script src="/js/jquery.carousel.js?v1356528874" type="text/javascript"></script>
-<script src="/js/selectToUISlider.jQuery.js?v1356528874" type="text/javascript"></script>  
+<script src="/js/jquery.alerts.js?v1381799062" type="text/javascript"></script>
+<script src="/js/jquery.autocomplete.js?v1381799062" type="text/javascript"></script>
+<script src="/js/custom_function.js?v1381799062" type="text/javascript"></script>
+<script src="/js/addressVerification.js?v1381799062" type="text/javascript"></script>
+<script src="/js/addCashValidationMessage.js?v1381799062" type="text/javascript"></script>
+<script src="/js/trackStaticPages.js?v1381799062" type="text/javascript"></script>
+<script src="/js/jquery-ui.min.js?v1381799062" type="text/javascript"></script>
+<script src="/js/popup.js?v1381799070" type="text/javascript"></script>
+<script src="/js/jquery.tooltip.js?v1381799062" type="text/javascript"></script>
+<script src="/js/jquery.dropdown.js?v1381799062" type="text/javascript"></script>
+<script src="/js/addcash4.js?v1381799062" async="" type="text/javascript"></script>
+<script src="/js/links.js?v1381799062" async="" type="text/javascript"></script>
+<script src="/js/jquery.carousel.js?v1381799062" type="text/javascript"></script>
+<script src="/js/selectToUISlider.jQuery.js?v1381799062" type="text/javascript"></script>  
 <script type="text/javascript">
 	(function() {
 		var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
@@ -748,6 +1238,8 @@ must be sent to the Grievance Officer at <a href="mailto:support@rummycircle.com
 </script>
 <img src="https://rcmg.in/rc/first-login-bg_lobby.jpg" height="1px;" style="visibility: hidden">
 <img src="https://rcmg.in/gms/addcash-relcash-bnr.jpg" height="0px;" style="visibility: hidden">
+<img src="https://rcmg.in/rc/FMG/overlay_sprite.png" height="0px;" style="visibility: hidden">
+<img src="https://rcmg.in/rc/bg-bre-tranprnt.jpg" height="0px;" style="visibility: hidden">
 
 
 
