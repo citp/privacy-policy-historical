@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brooklynvegan.com privacy policy that was archived on 2013-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130604073216id_/http%3A//www.brooklynvegan.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brooklynvegan.com privacy policy that was archived on 2013-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131111162642id_/http%3A//www.brooklynvegan.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy
 
