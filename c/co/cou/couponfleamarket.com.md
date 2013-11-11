@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the couponfleamarket.com privacy policy that was archived on 2013-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130317024006id_/http%3A//couponfleamarket.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the couponfleamarket.com privacy policy that was archived on 2013-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131111082313id_/http%3A//couponfleamarket.com/privacy.htm) for the most accurate reproduction.*
 
 # General Error
 
@@ -54,4 +54,4 @@ Coupon Flea Market will occasionally update this Statement of Privacy to reflect
 
 ##  Contact Information
 
-Coupon Flea Market welcomes your comments regarding this Statement of Privacy. If you believe that Coupon Flea Market has not adhered to this Statement, please contact Coupon Flea Market at [support@couponfleamarket.com](mailto:support@couponfleamarket.com). We will use commercially reasonable efforts to promptly determine and remedy the problem.
+Coupon Flea Market welcomes your comments regarding this Statement of Privacy. If you believe that Coupon Flea Market has not adhered to this Statement, please contact Coupon Flea Market at [couponfleamarketcustomerservic@gmail.com](mailto:couponfleamarketcustomerservic@gmail.com). We will use commercially reasonable efforts to promptly determine and remedy the problem.
