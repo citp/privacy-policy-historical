@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the outdoorpros.com privacy policy that was archived on 2013-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130513023426id_/http%3A//www.outdoorpros.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the outdoorpros.com privacy policy that was archived on 2013-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131111191608id_/http%3A//www.outdoorpros.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy at OutdoorPros.com
 
@@ -11,7 +11,7 @@ Except as otherwise discussed in this Privacy Policy, this document only address
 Questions regarding this Policy should be directed to [info@OutdoorPros.com](mailto:info@OutdoorPros.com) or may also be contacted directly at the following address::
 
 Privacy Compliance Officer  
-OutdoorPros.com,   
+[](http://secure.trust-guard.com/privacy/6070) OutdoorPros.com,   
 P.O. Box 4786  
 Riverside, CA 92514 
 
