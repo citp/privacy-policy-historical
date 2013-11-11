@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the minerals.net privacy policy that was archived on 2013-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130630214851id_/http%3A//www.minerals.net/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the minerals.net privacy policy that was archived on 2013-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131111204039id_/http%3A//www.minerals.net/Privacy.aspx) for the most accurate reproduction.*
 
 # The Mineral and Gemstone Kingdom: Privacy Policy
 
