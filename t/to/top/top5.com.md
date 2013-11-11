@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the top5.com privacy policy that was archived on 2013-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130513031657id_/http%3A//www.top5.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the top5.com privacy policy that was archived on 2013-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131111163340id_/http%3A//www.top5.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy | Top5.com
 
@@ -86,7 +86,9 @@ This Privacy Policy applies to all information that you provide to Top5.com. How
 
 If Top5.com receives personal information from a third party unrelated to any service offered on our site, the use and disclosure of such information is governed by the agreement (if any) between Top5.com and such third party.
 
-**Framing** In some cases, we may require the use third party vendors, outside companies, to operate portions of the Top5.com web site and/or to provide certain services including clerical, information processing and shipping services. Although the particular section of the web site may have a similar appearance as the Top5.com site, information submitted through these outside third parties are subject to this Privacy Policy unless otherwise stated.
+**Framing**
+
+In some cases, we may require the use third party vendors, outside companies, to operate portions of the Top5.com web site and/or to provide certain services including clerical, information processing and shipping services. Although the particular section of the web site may have a similar appearance as the Top5.com site, information submitted through these outside third parties are subject to this Privacy Policy unless otherwise stated.
 
 When you sign up for our services, we will share only as much information as is necessary for the provision of those services. We require that all third parties, hired by Top5.com, comply with our Privacy Policy in order to keep your information safe and secure. These third parties are prohibited from using or sharing your personally identifiable information for any purpose other than the job they were hired to do.
 
@@ -128,6 +130,6 @@ For more information on how your personally identifiable information is collecte
 
 PLEASE PRINT AND RETAIN A COPY OF THIS AGREEMENT FOR YOUR RECORDS.
 
-LAST UPDATED 04-15-2011
+LAST UPDATED 09-05-2013
 
 Copyright © Top5.com, 2011 All Rights Reserved.
