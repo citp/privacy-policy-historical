@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the debtroundup.com privacy policy that was archived on 2013-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130519195148id_/http%3A//www.debtroundup.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the debtroundup.com privacy policy that was archived on 2013-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131111152557id_/http%3A//www.debtroundup.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Debt RoundUp - Controlling Your Finances
 
@@ -8,7 +8,7 @@ This Privacy Policy governs the manner in which Debt RoundUp collects, uses, mai
 
 **Personal identification information**
 
-We may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, register on the site, subscribe to the newsletter, respond to a survey, fill out a form, and in connection with other activities, services, features or [resources](http://www.debtroundup.com/recommended-resources/ "resources") we make available on our Site. Users may be asked for, as appropriate, name, email address. Users may, however, visit our Site anonymously. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.
+We may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, register on the site, subscribe to the newsletter, respond to a survey, fill out a form, and in connection with other activities, services, features or resources we make available on our Site. Users may be asked for, as appropriate, name, email address. Users may, however, visit our Site anonymously. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.
 
 **Non-personal identification information**
 
