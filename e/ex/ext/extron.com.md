@@ -1,13 +1,6 @@
-> *The following text is extracted and transformed from the extron.com privacy policy that was archived on 2013-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130424133127id_/http%3A//www.extron.com/company/article.aspx%3Fid%3Dprivacystatement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the extron.com privacy policy that was archived on 2013-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131111211953id_/http%3A//www.extron.com/company/article.aspx%3Fid%3Dprivacystatement) for the most accurate reproduction.*
 
 # Extron Electronics - Extron Electronics Privacy Policy
-
-|    
-  
-  
-|  |  | 
-
-Extron Electronics Privacy Policy
 
 Extron Electronics cares about your right to privacy. This policy explains how we intend to handle any personal identification information you give us online. It does not apply to personal identification information that we collect offline. Personal identification information enables us to identify you, your e-mail address, name, business, etc.
 
@@ -66,5 +59,3 @@ If you have any questions about our privacy policy, contact your Extron Customer
 We reserve the right to change this policy at any time. While we do not intend to change this policy often, please check back occasionally to be sure that you have read and agree with the type of information we collect, how we use it, and under what circumstances we disclose it. For more information on using Extron's Web sites, see [Terms of Use](https://web.archive.org/company/archive.asp?id=termsprivacy).
 
 Policy last revised on October 31, 2008.
-
-| 
