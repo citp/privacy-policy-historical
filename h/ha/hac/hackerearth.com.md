@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hackerearth.com privacy policy that was archived on 2013-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130511023425id_/http%3A//www.hackerearth.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hackerearth.com privacy policy that was archived on 2013-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131111163831id_/http%3A//www.hackerearth.com/privacy) for the most accurate reproduction.*
 
 # HackerEarth | Privacy
 
