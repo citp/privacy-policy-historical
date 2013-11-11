@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the artcenter.edu privacy policy that was archived on 2013-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130523173510id_/http%3A//www.artcenter.edu/accd/privacy_policy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the artcenter.edu privacy policy that was archived on 2013-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131111075406id_/http%3A//www.artcenter.edu/accd/privacy_policy.jsp) for the most accurate reproduction.*
 
-# | Pasadena, CA | Learn to Create. Influence Change.
+# | Pasadena, CA
 
 Art Center College of Design™ (“Art Center”) has created this privacy policy to demonstrate our firm commitment to protecting users’ personal information and informing you about how we handle it. This privacy policy applies to transactions and activities on the Art Center websites accessible to the public without password (the “Websites”) and does not apply to any other web site or offline point of contact between you and Art Center, its staff, faculty or students. Please review this privacy policy periodically as we may modify it from time to time. This privacy policy was last revised on July 15, 2009. **Each time you visit the Site or provide us with information, by doing so you are accepting the practices described in this privacy policy at that time.**
 
