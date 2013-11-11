@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the visahunter.com privacy policy that was archived on 2013-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130526084948id_/http%3A//www.visahunter.com/privacy-policy-page) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the visahunter.com privacy policy that was archived on 2013-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131111160442id_/http%3A//www.visahunter.com/privacy-policy-page) for the most accurate reproduction.*
 
 # Privacy Policy | Visa Hunter
 
@@ -8,6 +8,8 @@ Visahunter.com accepts some personal information, including, but not limited to,
 
 Occasionally, at my discretion, I may include or offer third party products or services on this website. These third party sites have separate and independent privacy policies. I therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, I seek to protect the integrity of this site and welcome any feedback about these sites.
 
- **CHANGES TO THIS PRIVACY POLICY**
+Third party vendors, including Google, use cookies to serve ads based on a your prior visits to my website. Google’s use of the DoubleClick cookie enables it and its partners to serve ads to you based on your visit to my site and/or other sites on the Internet. You may opt out of the use of the DoubleClick cookie for interest-based advertising by visiting [Ads Settings](http://www.google.com/ads/preferences/ "Ad Settings"). (Alternatively, you can direct users to opt out of a third-party vendor’s use of cookies for interest based advertising by visiting [aboutads.info](http://www.aboutads.info/ "About Ads").)
+
+**CHANGES TO THIS PRIVACY POLICY**
 
 Visahunter.com, reserves the right, at any time and without notice, to add to, change, update or modify this Privacy Policy, simply by posting such change, update or modification on this web site. If Visahunter.com, decides to change its Privacy Policy, those changes will be posted on this page so that you are always aware of what information Visahunter.com, collects, how Visahunter.com, uses the information, and under what circumstances the information is disclosed by Visahunter.com. Any such change, update or modification will be effective immediately upon posting on the web site.
