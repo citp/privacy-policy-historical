@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cheapflights.co.za privacy policy that was archived on 2013-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130512162403id_/http%3A//www.cheapflights.co.za/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cheapflights.co.za privacy policy that was archived on 2013-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131111065333id_/http%3A//www.cheapflights.co.za/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -8,7 +8,7 @@ This policy (together with our [Terms of Website Use](https://web.archive.org/te
 
 ## Information about us
 
-The website at www.cheapflights.co.za (" **our** **site** ") is a site operated by Cheapflights Media Limited, to which the words "we", "us" and "our" refer.
+The website at www.cheapflights.co.za (" **our** **site** ") is a site operated by Momondo Group Limited, to which the words "we", "us" and "our" refer.
 
 We are registered in England and Wales under company number 03914064.  The address of our registered office and principal place of business is One Alfred Place, London WC1E 7EB, United Kingdom.  For the purposes of the Data Protection Act 1998 ("the **Act** ") we are the data controller, and are registered in the Data Protection Register under registration number Z7714834.
 
@@ -39,6 +39,24 @@ We may collect and process the following data about you:-
   * information obtained from cookies, as to which please see below.
 
 
+
+## Email addresses
+
+We do not want you to receive unwanted email from us. We try to make it easy for you to opt out of any service that you have asked to receive. If you sign up to our email newsletters we do not sell, exchange or give your email address to a third party save as explained in the section below entitled "disclosure of your information".
+
+Email addresses are collected via our site, co-registration partners and third party marketing lists and promotions. Users have to opt in to receive our newsletter and a verification email is sent. We are clearly and conspicuously named at the point of collection.
+
+We use email addresses to send our weekly Newsletter and occasional mailings to assist in market research.
+
+We sometimes run competitions with our partners and competition entries may require you to provide an email address. These email addresses may be shared with the partner running the competition. We try to make it very clear when this is the case, and we disclaim any responsibility for subsequent use or distribution of email addresses by our partners.
+
+If you no longer wish to receive our newsletter and promotional communications, you may opt out of receiving them by following the instructions included in each newsletter or communication or by emailing us via [Feedback](https://web.archive.org/help/feedback/).
+
+The security of your personal information, including your email address and postcode, is important to us. We follow generally-accepted industry standards to protect the personal information submitted to us, both during registration and once we receive it. No method of transmission over the internet, or method of electronic storage, is 100% secure, however. Therefore, though we strive to use commercially-acceptable means to protect your personal information, we cannot guarantee its absolute security.
+
+If you have any questions about the security on our website, please contact by us via [Feedback](http://www.cheapflights.co.nz/help/feedback/) and one of our designated correspondents will respond to your query.
+
+If we decide to change our email practices, we will post those changes to this privacy policy, the homepage of our site, and other places that we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
 
 ## Where we store your personal data
 
@@ -121,4 +139,4 @@ We may revise this policy at any time by amending this page.  You are expected 
 
 Thank you for visiting our site.
 
-Last updated: September 2012
+Last updated: September 2013
