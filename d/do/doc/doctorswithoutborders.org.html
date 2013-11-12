@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the doctorswithoutborders.org privacy policy that was archived on 2013-05-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130520111848id_/http%3A//www.doctorswithoutborders.org/privacy.cfm%3Fref%3Dnav-footer) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the doctorswithoutborders.org privacy policy that was archived on 2013-11-12.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131112064123id_/http%3A//www.doctorswithoutborders.org/privacy.cfm%3Fref%3Dnav-footer) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 		<title>Doctors Without Borders | Privacy Policy</title>
@@ -24,7 +24,7 @@
 	if (window.attachEvent) window.attachEvent("onload", sfHover);
 	</script>   
 	<![endif]-->	
-	<script id="twitter-wjs" src="//platform.twitter.com/widgets.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1"></script><script type="text/javascript" async="" src="https://web.archive.org/web/20120920014151/https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
+	<script id="twitter-wjs" src="//platform.twitter.com/widgets.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
 		image1 = new Image();
 		image1.src = "/images/global/headerbg.gif";
 	</script>
@@ -34,18 +34,27 @@
 	<script type="text/javascript" src="/js/swfobject.js"></script>
   <script type="text/javascript" src="/js/smoothscroll.js"></script>
 	<script type="text/javascript" src="/js/clientside.moo.v1.1.packed.js"></script>
-     <script src="/js/ga.js" type="text/javascript"></script>
-   <script type="text/javascript">		
-		var pageTracker = _gat._getTracker("UA-3903043-1");
-		pageTracker._setDomainName("doctorswithoutborders.org");
-		pageTracker._setAllowLinker(true);
-		pageTracker._initData();
-		pageTracker._trackPageview();
-	</script> 
+  
 	<link rel="alternate" title="Doctors Without Borders RSS" href="http://feeds.feedburner.com/DoctorsWithoutBordersNews" type="application/rss+xml">
   <meta property="fb:admins" content="1301813852">
 
-</head>
+ 
+		
+		<script type="text/javascript">
+
+		  var _gaq = _gaq || [];
+		  _gaq.push(['_setAccount', 'UA-3903043-1']);
+		  _gaq.push(['_setDomainName', 'doctorswithoutborders.org']);
+		  _gaq.push(['_trackPageview']);
+
+		  (function() {
+		    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		  })();
+
+		</script>
+	</head>
 <body onload="javascript:PageOnLoad();">
 <div id="pageContainer">
 <!-- ClickTale Top part -->
@@ -243,6 +252,98 @@ You should be aware, however, that "perfect security" does not exist on the Inte
     <a href="/donate/info.cfm"><img src="/images/donate/funds-pie-2011.gif" width="150" alt="How your funds are used"></a>
     <p>86 cents of every dollar supports our programs. </p>
   </div>
+
+
+<!-- Only include if not on the eNews sign-up or confirmation pages --->
+
+	<div class="sidebarContent">
+		<h6 style="font-size:10px;">Get the latest updates from the field</h6>
+		<form action="/enews/" method="post" name="enews_email_signup" onsubmit="return (!(validateform(document.enews_email_signup)));">
+			<input type="text" name="user_email" value="" size="10" style="width:145px;" maxlength="100">
+			<input type="hidden" name="from_email_signup" value="1">
+			<input type="image" src="/images/global/newsletter-signup.png" style="margin-top:4px;" border="0" alt="Sign up"><br>
+		</form>
+	</div>
+
+
+<script language="Javascript">function checkSignUpEmail (emailStr) {
+	var emailPat=/^(.+)@(.+)$/;
+	var specialChars="\\(\\)<>@,;:\\\\\\\"\\.\\[\\]";
+	var validChars="\[^\\s" + specialChars + "\]";
+	var quotedUser="(\"[^\"]*\")";
+	var ipDomainPat=/^\[(\d{1,3})\.(\d{1,3})\.(\d{1,3})\.(\d{1,3})\]$/;
+	var atom=validChars + '+';
+	var word="(" + atom + "|" + quotedUser + ")";
+	var userPat=new RegExp("^" + word + "(\\." + word + ")*$");
+	var domainPat=new RegExp("^" + atom + "(\\." + atom +")*$");
+	var matchArray=emailStr.match(emailPat);
+	if (matchArray==null) {
+	    alert("Email address seems incorrect (check @ and .'s)");
+	    return false;
+	}
+	var user=matchArray[1];
+	var domain=matchArray[2];
+	if (user.match(userPat)==null) {
+	    alert("The username doesn't seem to be valid.");
+	    return false;
+	}
+	var IPArray=domain.match(ipDomainPat);
+	if (IPArray!=null) {
+	      for (var i=1;i<=4;i++) {
+	        if (IPArray[i]>255) {
+	            alert("Destination IP address is invalid!");
+	        return false;
+	        }
+	    }
+	    return true;
+	}
+	var domainArray=domain.match(domainPat);
+	if (domainArray==null) {
+	    alert("The domain name doesn't seem to be valid.");
+	    return false;
+	}
+	var atomPat=new RegExp(atom,"g");
+	var domArr=domain.match(atomPat);
+	var len=domArr.length;
+	if ((domArr[domArr.length-1] != "info") &&
+	    (domArr[domArr.length-1] != "name") &&
+	    (domArr[domArr.length-1] != "arpa") &&
+	    (domArr[domArr.length-1] != "coop") &&
+	    (domArr[domArr.length-1] != "aero")) {
+	        if (domArr[domArr.length-1].length<2 ||
+	            domArr[domArr.length-1].length>3) {
+	                alert("The address must end in a three-letter domain, or two letter country.");
+	                return false;
+	        }
+	}
+	if (len<2) {
+	   var errStr="This address is missing a hostname!";
+	   alert(errStr);
+	   return false;
+	}
+	return true;
+	}
+	function validateform(thisform)
+	{
+		
+		if (checkSignUpEmail(thisform.user_email.value)) 
+		{	
+	
+	        if (document.getElementById('unsubscribe') 
+	            && !document.getElementById('unsubscribe').checked) {
+			    
+	        } else {
+	            
+	        }
+			return false;
+		}
+		else
+		{
+			return true;
+		}
+	}
+</script>
+
 
 
 <div class="sidebarContent">
@@ -506,115 +607,11 @@ You should be aware, however, that "perfect security" does not exist on the Inte
 
 
 
+
+
+
 <div class="sidebarContent">
-	<h2 style="margin:17px 0 0 0;"><span style="font-size:12px;">Doctors Without Borders</span><br>
-  in your inbox:</h2>
-  <p style="margin-top:0;">Enter your email address for updates on our work.</p>
-
-
-    
-  <form action="http://www.uptilt.com/functions/mailing_list.html" method="post" name="UPTml21481" onsubmit="return (!(UPTvalidateform(document.UPTml21481)));">
-  <input type="hidden" name="val_110548" size="10" value="2">
-  <input type="hidden" name="mlid" value="21481">
-  <input type="hidden" name="siteid" value="8854">
-  <input type="hidden" name="tagtype" value="q2">
-  <input type="hidden" name="demographics" value="-1">
-  <input type="hidden" name="redirection" value="http://www.doctorswithoutborders.org/_internal/newsletter/newsletter_thanks.cfm?returnURL=www.doctorswithoutborders.org/privacy.cfm?ref=nav-footer">
-  <input type="hidden" name="uredirection" value="http://">
-  <input type="hidden" name="welcome" value="">
-  <input type="hidden" name="double_optin" value="">
-  <input type="hidden" name="append" value="">
-  <input type="hidden" name="update" value="">
-  <input type="hidden" name="activity" value="submit">
-  <input type="text" name="email" value="" size="10" style="width:145px;">
-  <input type="image" src="/images/global/newsletter-signup.png" style="margin-top:4px;" border="0" alt="Sign up"><br>
-  
-  <script language="Javascript">function emailCheck (emailStr) {
-var emailPat=/^(.+)@(.+)$/;
-var specialChars="\\(\\)<>@,;:\\\\\\\"\\.\\[\\]";
-var validChars="\[^\\s" + specialChars + "\]";
-var quotedUser="(\"[^\"]*\")";
-var ipDomainPat=/^\[(\d{1,3})\.(\d{1,3})\.(\d{1,3})\.(\d{1,3})\]$/;
-var atom=validChars + '+';
-var word="(" + atom + "|" + quotedUser + ")";
-var userPat=new RegExp("^" + word + "(\\." + word + ")*$");
-var domainPat=new RegExp("^" + atom + "(\\." + atom +")*$");
-var matchArray=emailStr.match(emailPat);
-if (matchArray==null) {
-    alert("Email address seems incorrect (check @ and .'s)");
-    return false;
-}
-var user=matchArray[1];
-var domain=matchArray[2];
-if (user.match(userPat)==null) {
-    alert("The username doesn't seem to be valid.");
-    return false;
-}
-var IPArray=domain.match(ipDomainPat);
-if (IPArray!=null) {
-      for (var i=1;i<=4;i++) {
-        if (IPArray[i]>255) {
-            alert("Destination IP address is invalid!");
-        return false;
-        }
-    }
-    return true;
-}
-var domainArray=domain.match(domainPat);
-if (domainArray==null) {
-    alert("The domain name doesn't seem to be valid.");
-    return false;
-}
-var atomPat=new RegExp(atom,"g");
-var domArr=domain.match(atomPat);
-var len=domArr.length;
-if ((domArr[domArr.length-1] != "info") &&
-    (domArr[domArr.length-1] != "name") &&
-    (domArr[domArr.length-1] != "arpa") &&
-    (domArr[domArr.length-1] != "coop") &&
-    (domArr[domArr.length-1] != "aero")) {
-        if (domArr[domArr.length-1].length<2 ||
-            domArr[domArr.length-1].length>3) {
-                alert("The address must end in a three-letter domain, or two letter country.");
-                return false;
-        }
-}
-if (len<2) {
-   var errStr="This address is missing a hostname!";
-   alert(errStr);
-   return false;
-}
-return true;
-}
-function UPTvalidateform(thisform)
-{
 	
-	if (emailCheck(thisform.email.value)) 
-	{	
-
-        if (document.getElementById('unsubscribe') 
-            && !document.getElementById('unsubscribe').checked) {
-		    
-        } else {
-            
-        }
-		return false;
-	}
-	else
-	{
-		return true;
-	}
-}
-</script></form>
-  
-  
-  
-</div>
-
-
-<div class="sidebarContent">
-	<h2 style="margin-top:24px;">Subscribe to<br>
-  <span style="font-size:12px;">Doctors Without Borders</span></h2>
 <ul id="socialnetworks">
   <li style="height:20px;"><div id="fb-root"></div>
 <script>(function(d, s, id) {
@@ -633,12 +630,13 @@ function UPTvalidateform(thisform)
 </li>
 <li>
 <div id="socialnetworks-buttons" style="margin-bottom:-6px;">
-  <a href="http://www.facebook.com/msf.english" style="text-decoration:none;" onclick="javascript: pageTracker._trackPageview('/facebook');"><img src="/images/social/facebook.png" alt=""></a>
-  <a href="http://www.twitter.com/msf_usa" style="text-decoration:none;" onclick="javascript: pageTracker._trackPageview('/twitter');"><img src="/images/social/twitter.png" alt=""></a>
-  <a href="http://doctorswithoutborders.tumblr.com" style="text-decoration:none;" onclick="javascript: pageTracker._trackPageview('/tumblr');"><img src="/images/social/tumblr.png" alt=""></a><br>
-  <a href="http://www.youtube.com/msf" style="text-decoration:none;" onclick="javascript: pageTracker._trackPageview('/youtube');"><img src="/images/social/youtube.png" alt=""></a>
-  <a href="https://plus.google.com/b/109022731003721335367/109022731003721335367/posts" style="text-decoration:none;" onclick="javascript: pageTracker._trackPageview('/googleplus');"><img src="/images/social/googleplus.png" alt=""></a>
-  <a href="/rss/"><img src="/images/social/rss.png" alt=""></a>
+  <a href="http://www.facebook.com/msf.english" style="text-decoration:none;" onclick="javascript: pageTracker._trackPageview('/facebook');"><img src="/images/social/facebook.png" alt="Facebook"></a>
+  <a href="http://www.twitter.com/msf_usa" style="text-decoration:none;" onclick="javascript: pageTracker._trackPageview('/twitter');"><img src="/images/social/twitter.png" alt="Twitter"></a>
+  <a href="http://doctorswithoutborders.tumblr.com" style="text-decoration:none;" onclick="javascript: pageTracker._trackPageview('/tumblr');"><img src="/images/social/tumblr.png" alt="Tumblr"></a><br>
+  <a href="http://www.youtube.com/msf" style="text-decoration:none;" onclick="javascript: pageTracker._trackPageview('/youtube');"><img src="/images/social/youtube.png" alt="YouTube"></a>
+  <a href="https://plus.google.com/u/1/106768880479641755584/posts" style="text-decoration:none;" onclick="javascript: pageTracker._trackPageview('/googleplus');"><img src="/images/social/googleplus.png" alt="Google+"></a>
+  <a href="/rss/"><img src="/images/social/rss.png" alt="RSS"></a>
+  <a href="http://flip.it/msf" style="text-decoration:none;" onclick="javascript: pageTracker._trackPageview('/flipbook');"><img src="/images/social/fl-widget-30.png" alt="Flipbook"></a>
 </div>
 </li>
 </ul>
@@ -698,6 +696,8 @@ var google_remarketing_only = true;
 <img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/954403982/?value=0&amp;label=-hN-CNqcsQQQjpmMxwM&amp;guid=ON&amp;script=0"/>
 </div>
 </noscript>
+
+
 
  
 		</td>
