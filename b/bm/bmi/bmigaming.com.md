@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the bmigaming.com privacy policy that was archived on 2013-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130619184717id_/http%3A//www.bmigaming.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bmigaming.com privacy policy that was archived on 2013-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131112114120id_/http%3A//bmigaming.com/privacy.htm) for the most accurate reproduction.*
 
 # Website Privacy Policy Page | BMIGaming.com / BMI Worldwide, Inc.
 
-> **_Last Updated   :  Monday, May 20, 2013  
+> **_Last Updated   :  Tuesday, October 29, 2013  
 > _  
 > Privacy Philosophy for [www.bmigaming.com](http://www.bmigaming.com/) **\- BMI Worldwide, Inc. has created this website privacy policy statement in order to demonstrate our firm commitment to your online privacy. **Your privacy is very important to us**. This privacy policy describes the information we collect on our Web site, [bmigaming.com](http://www.bmigaming.com/) (the "Web Site" or "bmigaming.com"), and how we protect it. As necessary,  
 > our privacy policy may be updated to meet the needs of consumers and partners. We will always post  
