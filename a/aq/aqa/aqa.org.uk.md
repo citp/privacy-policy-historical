@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aqa.org.uk privacy policy that was archived on 2013-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130630211755id_/http%3A//www.aqa.org.uk/about-us/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aqa.org.uk privacy policy that was archived on 2013-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131112212153id_/http%3A//www.aqa.org.uk/about-us/privacy-statement) for the most accurate reproduction.*
 
 # AQA | About us | Privacy statement
 
@@ -20,7 +20,7 @@ Unless you inform AQA that you do not wish to receive marketing messages from us
   
 
   3.  **Controlling access to personal information**  
-Your information may be passed to and used by other companies within the AQA group. Save for the AQA group and agents working directly on our behalf, AQA will not pass on your details to any third party) unless you give us permission to do so, or AQA is required to do so by law.
+Your information may be passed to and used by other companies within the AQA group. Save for the AQA group and agents working directly on our behalf, AQA will not pass on your details to any third party unless you give us permission to do so, or AQA is required to do so by law.
   
 
   4.  **Storing your personal information**  
@@ -30,7 +30,7 @@ AQA employs strict information security procedures to store and handle your info
   5.  **Data Protection Act - requesting further information from AQA**  
 The AQA is Registered with the Information Commissioner's Office (Registration No PZ6944888) under the requirements of the Data Protection Act (1998). 
 
-If you have had any dealings with AQA (for example as a teacher, candidate, parent of a candidate, examiner, employee or as a supplier of goods and services) it is possible that AQA holds information about you as a 'data subject'.You are entitled to ask AQA to disclose the information that it holds about you and, on payment of a standard fee of £10, AQA will share this information with you within 40 days. You are entitled to ask AQA to correct any inaccuracies in any of the data it holds about you. 
+If you have had any dealings with AQA (for example as a teacher, candidate, parent of a candidate, examiner, employee or as a supplier of goods and services) it is possible that AQA holds information about you as a 'data subject'. You are entitled to ask AQA to disclose the information that it holds about you and, on payment of a standard fee of £10, AQA will share this information with you within 40 days. You are entitled to ask AQA to correct any inaccuracies in any of the data it holds about you. 
 
 You would normally direct your request for such disclosure to the Department within AQA with whom you have had dealings. However, if you are uncertain about the identity of your contact or the relevant Department, please address your enquiry to Dr A Bird, Chief Operating Officer, AQA, Devas Street, Manchester, M15 6EX.
 
@@ -59,4 +59,4 @@ A cookie is a small text file sent from a website and stored on your computer's 
 
 
 
-Version 4.3
+Version 4. 3
