@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the verisigninc.com privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530011833id_/http%3A//www.verisigninc.com/en_US/privacy/index.xhtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the verisigninc.com privacy policy that was archived on 2013-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131112122717id_/http%3A//www.verisigninc.com/en_US/privacy/index.xhtml) for the most accurate reproduction.*
 
 # Privacy Statement - Verisign Privacy Program - Verisign
 
 Verisign made the following changes to its online Privacy Statement: Reorganized discussion of cookies for greater clarity in the reasons that Verisign uses them; modified language regarding collection and use of unidentified user visits to Verisign websites and use of cookies and other tracking technologies, such as in retargeted advertising; added more clarification regarding when and how we use cookies; provided better clarity regarding retention of personal information; indicated Verisign’s EU/Swiss Safe Harbor certification; changed the company’s address in two instances
 
-[](https://privacy-policy.truste.com/click-with-confidence/ctv/en/www.verisigninc.com/seal_m "Validate TRUSTe privacy certification") Verisign is committed to providing you with excellent service for all of our products and services. Because we respect your right to privacy, we have developed this Privacy Statement to inform you about our privacy practices for the entire verisigninc.com site and about special privacy practices related to our Safe Harbor Participation. This Privacy Statement is not applicable to any of our other privacy practices, including—without limitation—data collected from other Verisign sites (unless these sites direct the user to this Privacy Statement), verisign.com (a website that is not controlled by VeriSign, Inc.) or offline.
+[](http://privacy.truste.com/privacy-seal/VeriSign,-Inc-/validation?rid=10a1df8e-adcb-4f81-93c9-bd97e5181562 "TRUSTe European Safe Harbor certification") Verisign is committed to providing you with excellent service for all of our products and services. Because we respect your right to privacy, we have developed this Privacy Statement to inform you about our privacy practices for the entire verisigninc.com site and about special privacy practices related to our Safe Harbor Participation. This Privacy Statement is not applicable to any of our other privacy practices, including—without limitation—data collected from other Verisign sites (unless these sites direct the user to this Privacy Statement), verisign.com (a website that is not controlled by VeriSign, Inc.) or offline.
 
 Verisign has been awarded TRUSTe's Privacy Seal, signifying that this Privacy Statement and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html), including transparency, accountability, and choice regarding the collection and use of your personal information. The TRUSTe program does not cover information that may be collected through downloadable software. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our Privacy Statement or practices, please [contact us](mailto:valuesandcompliance@verisign.com). If you are not satisfied with our response you can also [contact TRUSTe](http://watchdog.truste.com/pvr.php?page=complaint). In addition, if you have questions regarding this Privacy Statement, you can [email us](mailto:valuesandcompliance@verisign.com). Please specify "Privacy Statement" in the subject line of your email. You may also call us at 1-703-948-4490.
 
 Verisign adheres to the EU Safe Harbor Privacy Principles with respect to certain personal data that it receives about European Union residents in the course of providing certain services. Information about Verisign's participation in Safe Harbor can be found in the section below entitled "Safe Harbor Participation."
 
-[](https://privacy-policy.truste.com/click-with-confidence/eusafe/en/www.verisigninc.com/seal_m "TRUSTe European Safe Harbor certification")
+[](http://privacy.truste.com/privacy-seal/VeriSign,-Inc-/validation?rid=10a1df8e-adcb-4f81-93c9-bd97e5181562 "TRUSTe European Safe Harbor certification")
 
 Verisign has agreed to disclose its privacy practices and have them reviewed and audited for compliance by TRUSTe. Members of the TRUSTe Privacy Program agree to adhere to TRUSTe's established privacy principles of disclosure, choice, access, and security. Members of the TRUSTe Privacy Program also agree to comply with ongoing TRUSTe oversight and its alternative dispute resolution process. In keeping with TRUSTe's Privacy Program, this Privacy Statement will inform you of:
 
@@ -62,13 +62,13 @@ We also use a cookie when we track traffic patterns on our site. Analysis of the
 
 
 
-To opt out of this advertising from Steel House, access the following link:
+To opt out of this advertising from AdRoll, access the following link:
 
-<http://www.steelhouse.com/opt-out/>
+[http://info.evidon.com/pub_info/573?v=1&nt=1&nw=true](http://info.evidon.com/pub_info/573?v=1&nt=1&nw=true)
 
 To opt out of this advertising from DoubleClick, access the following link:
 
-[https://www.google.com](https://www.google.com/ads/preferences/html/intl/en/plugin/)
+[https://www.google.com](https://www.google.com/settings/ads/plugin)
 
 All major Internet browsers allow you to control cookies. You can learn more about adjusting browser controls at the following site. (Note that Verisign does not control this site and is not responsible for its contents. It is provided as information only. For the most current browser-specific information, please consult your browser’s manufacturer.)
 
