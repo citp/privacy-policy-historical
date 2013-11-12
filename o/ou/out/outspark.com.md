@@ -1,78 +1,87 @@
-> *The following text is extracted and transformed from the outspark.com privacy policy that was archived on 2013-01-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130121111455id_/http%3A//www.outspark.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the outspark.com privacy policy that was archived on 2013-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131112080240id_/https%3A//en.gamigo.com/pages/privacy) for the most accurate reproduction.*
 
-# Outspark - MMO, RPG, RTS, Play best free online games at Outspark
+# Data security declaration | gamigo
 
-## Outspark Privacy Policy
+**Privacy Policy**
 
-* * *
+**1\. Policy scope and purpose, changes to the policy**
 
-**Contents**
+gamigo Inc. (“gamigo”) respects the privacy of its users and recognizes the importance of providing a secure environment for them. We know that you care how information about you is used and shared. This privacy policy describes how we collect, store, and use the information you provide to us. You should carefully review this privacy policy before using gamigo’s websites, online games or other services provided by gamigo. This privacy policy applies only to information collected through gamigo’s online services through any website to which this privacy policy applies and not to any information collected from us or through us offline. Please note that, when you link to other websites from a gamigo website, this privacy policy does not apply to, and cannot control the activities on, those other sites. Please check those websites for their own privacy policies.
 
-This policy covers how OUTSPARK, Inc. ("OUTSPARK") treats personal information that OUTSPARK collects and receives through its website and communications, related to your use of OUTSPARK products and services. Personal information is information about you that is personally identifiable, including your name, address, age, email address, phone number, preferences and other related information that is not otherwise publicly available.
+You should carefully review this privacy policy before using any gamigo website to which it applies. By so using any such gamigo website, making a purchase by the use of that website, or taking advantage of any service accessed through that website, you signify your assent to this privacy policy. If you do not agree to this privacy policy, please do not use our websites or our services accessed through them. This privacy policy may change from time to time, so please check back periodically to ensure that you are aware of any changes. Your continued use of any gamigo website to which this privacy policy applies will signify your acceptance of those changes.
 
-**Information Collection and Use**
+**2\. What personal information is collected?**
 
-OUTSPARK collects personal information when you register with OUTSPARK, when you use OUTSPARK products or services, and when you visit Outspark.com web pages or the pages of certain OUTSPARK partners. OUTSPARK may combine information about you that we have with information we obtain from business partners or other companies.
+We collect information from you when you register on our website, play online games, order real or virtual goods, respond to a survey or to a communication such as an email, or use other services on our websites. We store that information ourselves or by the use of third parties under contract with us. Those other services may include, for example, the creation of a profile page, participation in forums or the provision of facilities to permit you to post media content such as images and text.
 
-When you register we ask for information such as your name, email address, age range, zip code, etc. Once you register with OUTSPARK and sign in to our services, you are not anonymous to us.
+Some of the information that we collect from you is defined as personally identifiable information about an individual, as more particularly described under applicable privacy laws (“Personal Information”). Personal Information may include, without limitation: your name, age, mailing address, email address, telephone number, credit card information and related financial information, information concerning your interests, occupation, product uses and preferences, and other demographic information that could help identify you. If you have set up an account that is password protected in order to play online games, to purchase goods or for any other purpose for which a password is needed, that password is also part of your Personal Information. It may be possible to use portions of gamigo websites without providing any Personal Information, but it will be necessary to provide Personal Information to engage in such activities as ordering real or virtual goods and playing the full subscription version of any gamigo online game.
 
-OUTSPARK collects information about your transactions with us and with some of our business partners.
+**3\. What other types of information may we collect?**
 
-OUTSPARK automatically receives and records information on our server logs from your browser, including your IP address, OUTSPARK cookie information, and the page you request.
+For some activities, your web browser or client software may transmit certain geographic information or information regarding your computer to gamigo. gamigo may use that information to generate aggregate statistics about our user community and may provide that information to advertisers and other parties with whom we have a business relationship. In addition, gamigo may use any such information for security, system integrity (the prevention of hacking, cheating and other improper or unlawful activities), or enforcement purposes.
 
-OUTSPARK uses information for the following general purposes: to customize the content you see, fulfill your requests for products and services, improve our services, contact you, conduct research, and provide anonymous reporting for internal and external clients.
+gamigo may also identify and track your Internet protocol (“IP”) address. An IP address is the unique number assigned to your server or internet service provider (“ISP”). gamigo may track those IP addresses for system administration purposes, to report aggregate information, site tracking, security purposes, or to prevent our data and servers from being damaged.
 
-If you elect to use OUTSPARK's referral service for informing a friend about our site or particular features or content, we will ask you for your friend's name and email address. OUTSPARK will automatically send the friend a one-time email inviting them to visit OUTSPARK. OUTSPARK stores this information for the sole purpose of sending this one-time email.
+When you visit this a gamigo website to which this privacy policy applies, we may, at our option, automatically collect and store the following types of non-personally identifiable information received from you: (i) information from server logs found on your browser; (ii) click-through statistics; (iii) your country; (iv) the type of web browser you are using to access this website; (v) the type of operating system you are using; (vi) the name of the domain and host from which you access the Internet; (vii) the date and time you access this website and the duration of your visit; and (viii) the Internet address of the site from which you linked directly to this website. Automatically collected information of that kind typically provides us with a greater understanding regarding the use of any of our websites, including which pages are the most popular with our visitors. That information also allows us to determine if a website is working properly and to make changes to the website that allows users to have better experiences on the website. We collect that information and track it for statistical purposes: we do not use it to identify or to market to a particular user.
 
-When purchasing game items or subscriptions to our games, you will have the choice to pay by credit card, PayPal, mobile phone, bill to your home phone or ISP or any other e-commerce available today or in the future. We will collect the required information for each payment method, however, this information will be kept confidential.
+**4\. How secure is your Personal Information?**
 
-**Our Commitment to Children's Privacy:**
+gamigo has taken reasonable steps to provide that all Personal Information collected by us through any website to which this privacy policy applies will remain secure. For example, for credit card information that is transmitted to us, we use industry-standard, SSL (secure sockets layer) encryption. In addition, we take reasonable steps to require that third parties to whom we transfer any data will provide sufficient protection of Personal Information received from us.
 
-Outspark recognizes the privacy interests of children and we encourage parents and guardians to take an active role in their children's online activities and interests. The Outspark Site is not intended for children under the age of 13. Outspark does not target its activities or the Outspark Site to children under 13. Outspark does not knowingly collect personally identifiable information from children under the age of 13.
+You can help us to protect your Personal Information by: (i) using a secure web browser; (ii) not sharing any password or log-in data with others; and (ii) changing your password frequently.
 
-**Information Sharing and Disclosure**
+**5\. How do we use your Personal Information?**
 
-OUTSPARK does not rent, sell or share personal information about you with other people or nonaffiliated companies except to provide products or services you've requested, when we have your permission, or under the following circumstances:
+The Personal Information you provide to gamigo will allow us to do the following: (i) fulfill your orders of goods and services; (ii) alert you of new products or services, features, updates and enhancements; (iii) handle your customer service or technical support questions or issues; (iv) personalize your experience while using our services; (v) deliver the type of content and product offerings in which you are most interested and (vi) notify you of upgrade opportunities, contests, promotions, or special events and offers. We may enhance or merge the Personal Information collected at a gamigo website with data provided to us by others.
 
-1.We provide the information to trusted partners who may assist us or work on behalf of or with OUTSPARK under confidentiality agreements. These companies may use your personal information to help OUTSPARK communicate with you about offers from OUTSPARK and our marketing partners. However, these companies do not have any independent right to share this information. You have the right to opt out of these communications upon notifying us via email at support@outspark.com 
+We do not sell, rent, license, trade or exchange Personal Information with or to any third parties, except as otherwise provided in this privacy policy.
 
-2\. We respond to subpoenas, court orders, or legal process, or to establish or exercise our legal rights or defend against legal claims.
+We may share your Personal Information among our affiliates worldwide. They may use your Personal Information to offer products and services to you consistent with the purposes identified in this privacy policy. We may use your Personal Information for internal marketing, profiling, or demographic purposes, so we can adapt our products and services, the better to suit your anticipated needs.
 
-3\. We believe it is necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of OUTSPARK's terms of use, or as otherwise required by law.
+**6\. What are cookies and how do we use them?**
 
-4\. We transfer information about you if OUTSPARK is acquired by or merged with another company. In this event, OUTSPARK will notify you before information about you is transferred and becomes subject to a different privacy policy.
+A cookie is a small bit of computer code that we send to your computer and is stored on your hard drive. It allows a website to transfer bits of information to your computer for record-keeping purposes. A cookie stored in your computer can be used to “remember” specific data items such as your password or operational information, such as the fact that you have already subscribed to the full version of a particular online game. That allows us to speed up your future activities, saving the time you would normally spend entering information such as your password or subscription information. In addition, gamigo may use cookies to retrieve user information for promotional, marketing, or security purposes.
 
-**Passive Means to Collect Information**
+**7\. Does gamigo disclose personal Information it collects to outside parties?**
 
-To permit your efficient use of our websites, products and services, OUTSPARK uses cookies (small files stored in your computer), which let us know how you accessed our web site(s) and let us know that you are a prior customer (so that you will not have to re-enter all of the information previously provided to us every time you access our sites).
+gamigo may provide your Personal Information to other organizations that offer products or services that may be of interest to you. Those third parties may then use that information to offer products and services to you.
 
-OUTSPARK (or third parties on our behalf) may also use web beacons, which are transparent images that have been placed on a web page or an e-mail message, and send a signal that allows us to determine when a page has been visited, or an e-mail opened. Web beacons do not contain or collect personal information. The information that we do collect is used to allow us to better understand our customers' usage patterns, and to help us determine how they accessed our website(s). This information, in turn, allows us to improve our products to better meet your needs, and to enhance our communications with you.
+gamigo may need to disclose items of your Personal Information to third-party vendors to fulfill product orders or prizes, to process mailings, or to process, analyze, or store data on gamigo’s behalf. Those third parties are not authorized by gamigo to use or disclose your Personal Information for any purpose other than for use in connection with the provision of services designated by us or the delivery and processing of orders for goods. We will take reasonable measures to have those third parties maintain the confidentiality, security, and integrity of the Personal Information they obtain from us.
 
-**Communications from OUTSPARK**
+We reserve the right to disclose your Personal Information as required or permitted by law. For example, we may disclose it to respond to a subpoena, court order or other legal process, or in special cases when we have reason to believe that disclosing Personal Information is necessary to identify, contact, or bring legal action against you if we reasonably believe that you may be violating your agreements with us (including, without limitation, any applicable terms of use), or may be causing injury to, or interference with, gamigo, any other user of a gamigo website or service, the general public or other third parties. However, please be aware that gamigo cannot control the activities of third parties to whom we provide data; we therefore cannot guarantee that they will adhere to similar privacy and security procedures as gamigo.
 
-For everyone 13 years of age and over, certain communications from OUTSPARK, such as service announcements, and administrative messages are considered part of OUTSPARK membership and you may not opt out of receiving them. In particular those who register with us for beta testing OUTSPARK games agree to receive communications regarding these games as a part of their beta membership.
+**8\. The transfer of Personal Information.**
 
-All other emails from OUTSPARK will include a URL or email address where you can unsubscribe from future mailings.
+The Personal Information you provide to gamigo may be transferred as an asset in connection a merger or sale involving all or part of gamigo or as part of a corporate reorganization, stock sale or other change of control.
 
-All new users are opted in to receive information from OUTSPARK and other affiliated company. You can change your contact preferences, personal information or delete your OUTSPARK account by visiting your Account page.
+As part of its business operations, gamigo may transfer Personal Information to recipients in countries that do not provide the same level of legal data protection as the country from which you access our website or services. By using gamigo’s website or services, you consent to the transfer of Personal Information and to the processing by gamigo of that Personal Information.
 
-**Our Commitment to Data Security**
+**9\. Who is collecting your information?**
 
-To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online.
+When you are asked for information while on a Gamigo website to which this privacy policy applies, you are sharing that information with gamigo, its parent, and its various affiliates and sister companies, unless specifically stated otherwise. As a result of that sharing, you may receive communications from any of those gamigo affiliates. In addition, some services offered by gamigo through any of its websites are provided in conjunction with third parties with which gamigo has a business relationship. If your Personal Information is being collected by a company other than gamigo, you will be so notified at the time that the process for the collection of that Personal Information is initiated. If you do not want to have your Personal Information so shared, please to not elect to use the service or facility for which that Personal Information is collected.
 
-**Changes to this Privacy Policy**
+**10\. How can you manage your Personal Information?**
 
-OUTSPARK may update this policy. We will notify you about significant changes in the way we treat personal information by sending a notice to the email address specified in your OUTSPARK account, if we have collected it, or by placing a prominent notice on our site. If you do not agree with these updates to the policy, or are no longer in compliance with the requirements, you are obligated to terminate your Outspark Account immediately and cancel any services for which you have signed up. Your continued use of the Outspark Service following any revision to this policy constitutes your complete and irrevocable acceptance of any and all such changes.
+At the time you provide personal information, gamigo will give you the option of declining any future offers or information about new products, promotions, or services. In addition, many of the messages that gamigo may send you, such as electronic newsletters, have procedures within them to cancel the receipt of similar information in the future or later editions. You may also be given the opportunity to “opt out” of certain features or functions.
 
-**California Privacy Rights**
+**11\. What about Children?**
 
-Beginning on January 1, 2005, California Civil Code Section 1798.83 permits customers of Outspark who are California residents to request certain information regarding its disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please write to us at California Privacy Rights, Outspark, Inc, 434 Brannan Street, Suite 100, San Francisco, CA 94107 or email to [finance@outspark.com](mailto:finance@outspark.com)
+gamigo online games are designed and presented for play by persons aged thirteen and older. Any gamigo website to which this privacy policy applies is designed by gamigo and intended to be considered as a general audience website and is not intended for use by children. Minors aged twelve and under should therefore not be given access to gamigo online games. Gamigo does not intend to collect Personal Information from individual under the age of thirteen. If you are the parent or guardian of a child under thirteen who has provided Personal Information to us, please contact us by clicking here: [http://ticket.gamigo.com](http://ticket.gamigo.com/). Please note for your reference the potential effects of deletion, at Section 13 below. If you would prefer to have your minor child continue to have access to a gamigo online game, you may instead establish accounts for Services for the child in your own name, but you may be held fully responsible for the child’s conduct in the use of the online game and related services, regardless if supervised or authorized by you. Please contact us at the link provided in this section and inform us about what you would like to do.
 
-**How to Contact Us**
+**12\. How do you correct or delete your Personal Information or file a complaint?**
 
-While we strive for error free performance, we cannot always catch an unintended privacy issue. As a result, we encourage your questions and comments about any privacy concerns. Please direct them to us by an email to privacy@outspark.com or through regular mail to: OUTSPARK, Inc. c/o Privacy Officer, PO Box 77264, San Francisco, CA 94107 USA.
+If, for any reason, you are concerned about the way we are using your Personal Information, or you would like to correct or request that we delete any item of Personal Information, please contact us by clicking here. [http://ticket.gamigo.com](http://ticket.gamigo.com/). You can also contact us by e-mailing us at info@gamigo.com.
 
-Privacy Statement Last Updated: August 11, 2008
+**13\. Deletion of Personal Information and the use of gamigo online games.**
 
-  
+You are not required to provide us with any Personal Information we request, but the failure to provide certain items of Personal Information will prevent you from purchasing real or virtual goods by the use of any website to which this privacy policy applies, prevent you from playing the full subscription versions of gamigo online games and may prevent you from using other website functions. You may, at any time, delete any of your Personal Information earlier provided to us. However, please note that the deletion of certain items of your Personal Information may prevent the provision to you of certain services, access to the full subscription versions of gamigo online games, and may prevent you from ordering real or virtual goods. If it is not possible to provide you with a continued subscription to any of our online games due to the deletion of any item of Personal Information, you will be so notified at the time you elect to delete that item of Personal Information. Please note that the applicable online game’s policy of termination of subscriptions may apply to any such termination resulting from the deletion of Personal Information, including, without limitation, the loss by you of any prepaid value of your subscription as well as in-game currency and other virtual items of in-game value.
 
+**14\. Contact Us.**
+
+If you have any questions, complaints, or comments regarding our privacy policy, please contact us at info@gamigo.com.
+
+**15\. California Privacy Rights.**
+
+Under California law, if you are a California resident, you have the right to request that we do not share your Personal information with third parties for use in direct marketing by them to you. To make such a request, please write us at: [http://ticket.gamigo.com](http://ticket.gamigo.com/).
+
+This privacy policy was last updated on September 27th, 2010.
