@@ -1,12 +1,14 @@
-<!--The following is the downloaded HTML source of the artvan.com privacy policy that was archived on 2013-05-12.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130512123056id_/http%3A//www.artvan.com/Furniture/Store/Content_PrivacyPolicy_10001_10052_-1%3FICID%3DFT-Privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the artvan.com privacy policy that was archived on 2013-11-12.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131112193129id_/http%3A//www.artvan.com/Furniture/Store/Content_PrivacyPolicy_10001_10052_-1%3FICID%3DFT-Privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html class=" ext-strict"><head>
+<!DOCTYPE html><html class=" ext-strict"><head>
+<!--[if lt IE 9]>
+  <script src="/Furniture/Store/ArtVan/upload/webjs/html5shiv.js"></script>
+<![endif]-->
 <title>
+
 	
-	
-		
-	
+
 
 
 
@@ -137,12 +139,20 @@
 
 Privacy Policy &amp; Terms of Use
 
-	
 	 - Art Van Furniture - Michigan's Furniture Leader
+
 </title>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="initial-scale=1">
 <meta name="description" content="Shop at Michigan's top furniture store, Art Van Furniture: offering home office furniture, dining room furniture, and bedroom furniture (including quality mattresses). Order online now or call Art Van Furniture at 1-888-4-ART-VAN.">
-<meta name="keywords" content="Home office furniture, bedroom furniture, office, bedroom, room, stores, contemporary, modern, dining, salon, living, wood, kids, computer, store, leather, childrens, online, warehouse, french, beauty, rustic, bathroom, cushions, desk, Michigan, mattresses, furniture, bedding"> 
+<meta name="keywords" content="Home office furniture, bedroom furniture, office, bedroom, room, stores, contemporary, modern, dining, salon, living, wood, kids, computer, store, leather, childrens, online, warehouse, french, beauty, rustic, bathroom, cushions, desk, Michigan, mattresses, furniture, bedding">
+ 
+
+
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta charset="utf-8">
 <meta name="verify-v1" content="Tbctvr4OARWd8cTT8VuvVc1Wzrp8vaUpZPsRb9Csiqg=">
 <meta name="msvalidate.01" content="DD510DE551153DEA1DCB5AF3E09AF88E">
 <meta name="y_key" content="ccf74704767ae767"> 
@@ -202,7 +212,6 @@ function gup( name )
 
 
 
-
 <!-- StaticContentDisplay.jsp -->
 
 
@@ -223,16 +232,8 @@ function gup( name )
 <!-- START overlayCount logic -->
 
 
-	
-	
-	
-	
-	
-	
-	
-
-
 <!-- Start - JSP File name:  style3/NotCachedHomeHeaderDisplay.jsp -->
+
 
 
 
@@ -474,7 +475,6 @@ function gup( name )
 
 <!-- End - JSP File name:  style3/NotCachedHomeHeaderDisplay.jsp -->
 
-
 <!-- END overlayCount logic -->
 
 <!-- BEGIN cookie logic -->
@@ -483,16 +483,8 @@ function gup( name )
 
 
 
-	
-	
-	
-	
-	
-	
-	
-
-
 <!-- Start - JSP File name:  style1/CachedHeaderDisplay.jsp -->
+
 
 
 
@@ -673,51 +665,59 @@ function entsub(e, form) {
 
 </script>
 
-<script language="JavaScript">
-<!--
-var t = "";
+<script type="text/javascript">
+$(function() {
+if (getCookie("stickyWidget") == null ) {
+                setTimeout(function() {
+                                $('.stickyWidget').show().animate({
+                                                'right':'+=20'
+                                });
+                }, 1200);
 
-function XMLHttpRequestDemo() {
- var oRequest = new XMLHttpRequest();
- var sURL  = "ArtVan/upload/webjs/GlobalBanner/gbannertest.txt";
- var converttext = "";
- var newtext = "";
- var aNewtext = "";
+                                $('span#closeMe').click(function(e) {
+                                                $(this).parent('.stickyWidget').css('display','none');
+                                e.preventDefault();
+                                setCookie("stickyWidget", "closed", 1);
+                });
+}                
+});
+
+function setCookie(c_name,value,exdays)
+ {
+ var exdate=new Date();
+ exdate.setDate(exdate.getDate() + exdays); 
+ //exdate.setTime(exdate.getTime() + exdays * 60 ); 
+ //var c_value=escape(value) + ((exdays==null) ? "" : "; expires="+exdate.toUTCString());
+ var c_value=escape(value) + ((exdays==null) ? "" : "; expires="+exdate.toGMTString());
+ document.cookie=c_name + "=" + c_value;
+ // alert("setCookie");
+ }
  
- oRequest.open("GET",sURL,false);
- oRequest.setRequestHeader("User-Agent",navigator.userAgent);
- oRequest.send(null)
-
-
- if (oRequest.status==200) converttext = oRequest.responseText;
- 
-else alert("Error executing XMLHttpRequest call!");
- 
-
-newtext = converttext.replace(/\/a>/g,"/a>,");
-newtext = newtext.slice(0,-1);
-aNewtext = newtext.split(",");
-
-
-
-var n = aNewtext.length;
-
-var i = Math.floor(Math.random()*n);
-if (i==3) i=0;
-t = aNewtext[i];
-
-// Debugging:
-//alert(oRequest.responseText + ", " + converttext);
-//alert(t+", "+i);
-
-var ban = document.getElementById ? 
-    document.getElementById("rndmGBanner") : 
-    document.all.banner-wrapper;
-    
-ban.innerHTML = t;
- 
+function getCookie(c_name)
+{
+var c_value = document.cookie;
+var c_start = c_value.indexOf(" " + c_name + "=");
+if (c_start == -1)
+{
+ c_start = c_value.indexOf(c_name + "=");
 }
-//-->
+if (c_start == -1)
+{
+ c_value = null;
+}
+else
+{
+c_start = c_value.indexOf("=", c_start) + 1;
+var c_end = c_value.indexOf(";", c_start);
+if (c_end == -1)
+{
+ c_end = c_value.length;
+}
+c_value = unescape(c_value.substring(c_start,c_end));
+}
+return c_value;
+}
+
 </script>
 
 
@@ -767,12 +767,143 @@ ban.innerHTML = t;
 	         	
 			
 	        	
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+<a class="avlogo" href="ArtVanHomeView?storeId=10052&amp;catalogId=10051&amp;langId=-1"><img src="ConsumerDirectStorefrontAssetStore/images/artvan_logo.png" alt="Art Van Furniture"></a>
 <div id="title">
 <h1 class="h1_top">Art Van Furniture</h1>
 <h2 id="phonenumber">(888) 4-ART-VAN</h2>
-
 <h2 id="subtitle">The Midwest's #1 Furniture &amp; Mattress Store</h2>
 </div>
+ 
 
 	            <ul class="m_top">
 	            	<li>
@@ -793,9 +924,13 @@ ban.innerHTML = t;
 	                <li><a href="Content_creditInfoManage_10051_10052_-1?ICID=GH-ManageCredit" title="Credit Services" class="m_top_link">Credit Services</a></li>
 	                <li>|</li>
 	                <li><a href="Content_storeLocator_10051_10052_-1_N" title="Store Locator" class="m_top_link m_top_button">Store Locator</a></li>
-	                
+	                <li>|</li>
+	                <li><a href="#" class="theseStoreHours">Store Hours</a></li>
 	            </ul>
-	            
+
+	 			<div id="storeHoursDisplay">
+					
+
 
 
 
@@ -926,12 +1061,11 @@ ban.innerHTML = t;
 
 <style type="text/css">
 
-#storeHours {font-size: .2em; position: absolute; top: 27.5em; left: 47em; text-align: left;}
+#storeHours {}
 #storeHours ul {list-type: none;}
 #storeHours ul li {margin: 0; padding: 0;}
-#storeHours ul li span.specialHours {font-weight: bold; color:#e31937;}
+#storeHours ul li span.specialHours {font-weight: bold;}
 #storeHours ul li span.day {padding-right: 12px;}
-#storeHours ul li span.normHours {padding-right: 12px;}
 #sunday {margin-right: .05em; margin-right: 0\9;}
 span.day, span.normHours, span.specialHours {font-size: 10px;}
 
@@ -940,42 +1074,46 @@ span.day, span.normHours, span.specialHours {font-size: 10px;}
 </style>
 
 <div class="m_hours" id="storeHours">
+<img src="ConsumerDirectStorefrontAssetStore/images/arrowTop.png" id="arrowPoint">
+
 <ul>
-
-<li><span class="day">Mon - Fri</span> <span class="normHours">10 am - 9 pm</span>
-
-<span class="specialHours">&nbsp;EXTENDED HOURS: &nbsp;WED</span> <span class="day specialHours">10 am - 10 pm</span>
-
-<!--
-<span class="specialHours">THU</span> <span class="day specialHours">10 am - 10 pm</span> 
--->
+<p class="theseHours">Open Daily</p>
+<li>
+<span class="day">Monday - Friday</span>
+<span class="normHours">10 am - 9 pm</span>
 </li>
 
-<li><span class="day">Saturday</span> <span class="normHours">&nbsp;9 am - 9 pm</span>
-<!--
-<span class="specialHours">&nbsp;&nbsp;&nbsp;&nbsp;EXTENDED HOURS: SAT</span> <span class="day specialHours">9 am - 10 pm</span>
--->
+<li>
+<span class="day">Saturday</span>
+<span class="normHours">9 am - 9 pm</span>
 </li>
 
-<li><span class="day" id="sunday">Sunday</span> <span class="normHours">&nbsp;&nbsp;11 am - 7 pm</span>
-<!--
-<span class="specialHours">&nbsp;EXTENDED HOURS: SUN</span> <span class="day specialHours">11 am - 9 pm</span>
--->   
-</li> 
+<li>
+<span id="sunday" class="day">Sunday</span>
+<span class="normHours">11 am - 7 pm</span>
+</li>
 
-
-<!-- Keep for example of extended hours code. Do not delete this. -->
-<!-- <li><span class="day" id="sunday">Sunday</span> <span class="normHours">&nbsp;&nbsp;11am - 6pm</span> <span class="specialHours">&nbsp;&nbsp;EXTENDED HOURS SUN:</span> <span class="day specialHours">10 am - 6 pm</span></li> 
--->
-
+<p class="theseHours extended">Extended Hours</p>
+<li>
+<span class="day">Wednesday</span>
+<span class="normHours">10 am -10 pm</span>
+</li>
+<li>
+<span class="day">Thursday</span>
+<span class="normHours">10 am -10 pm</span>
+</li>
 </ul>
-
 </div>
+ 
+				</div>
 
-<!--old code <div class="m_hours">
-	<em>Store Hours:</em> Mon - Fri 10 am - 9 pm, Sat 9 am - 9 pm, Sun 11 am - 6 pm
-</div>-->
-        
+	                <script>
+	                	$('.theseStoreHours').on('hover', function() {
+	                		$(this).stop(true,true).parents().find("#storeHoursDisplay").toggleClass('storeHoursDisplayed');
+	                	});	                
+	                </script>  
+
+				       
 	            
 			        
 					<div id="search">
@@ -1011,7 +1149,7 @@ span.day, span.normHours, span.specialHours {font-size: 10px;}
             
 	             
 	            <ul class="s_link">
-	            	<li><!-- BEGIN LivePerson Button Code --><a id="_lpChatBtn" class="chat" href="https://server.iad.liveperson.net/hc/29161993/?cmd=file&amp;file=visitorWantsToChat&amp;site=29161993&amp;byhref=1&amp;imageUrl=https://server.iad.liveperson.net/hcp/Gallery/ChatButton-Gallery/English/General/1a/" target="chat29161993" onclick="javascript:window.open('https://server.iad.liveperson.net/hc/29161993/?cmd=file&amp;file=visitorWantsToChat&amp;site=29161993&amp;imageUrl=https://server.iad.liveperson.net/hcp/Gallery/ChatButton-Gallery/English/General/1a/&amp;referrer='+escape(document.location),'chat29161993','width=475,height=400,resizable=yes');return false;">Live Chat from Michigan</a><!-- END LivePerson Button code --></li>
+	            	<li><!-- BEGIN LivePerson Button Code --><a id="_lpChatBtn" class="chat" href="https://server.iad.liveperson.net/hc/29161993/?cmd=file&amp;file=visitorWantsToChat&amp;site=29161993&amp;byhref=1&amp;imageUrl=https://server.iad.liveperson.net/hcp/Gallery/ChatButton-Gallery/English/General/1a/" target="chat29161993" onclick="javascript:window.open('https://server.iad.liveperson.net/hc/29161993/?cmd=file&amp;file=visitorWantsToChat&amp;site=29161993&amp;imageUrl=https://server.iad.liveperson.net/hcp/Gallery/ChatButton-Gallery/English/General/1a/&amp;referrer='+escape(document.location),'chat29161993','width=475,height=400,resizable=yes');return false;">Live Chat</a><!-- END LivePerson Button code --></li>
 	            	<li><a href="Content_roomPlanner_10051_10052_-1" title="Room Planner" class="planner">Room Planner</a></li>
 	                <li><a href="#" id="mrv" title="Recently Viewed Items" class="recent">Recently Viewed Items</a></li>
 	                <li>
@@ -1151,6 +1289,7 @@ span.day, span.normHours, span.specialHours {font-size: 10px;}
 
 
 
+
  
 
 
@@ -1171,19 +1310,20 @@ span.day, span.normHours, span.specialHours {font-size: 10px;}
 	
 
 	
-		<a href="OrderCalculate?URL=OrderItemDisplay&amp;storeId=10052&amp;catalogId=10001&amp;orderId=." class="cart" id="cart">
+		<a href="OrderCalculate?URL=OrderItemDisplay&amp;storeId=10052&amp;catalogId=10051&amp;orderId=." class="cart" id="cart">
 		
 		<strong>Shopping Cart:&nbsp;0&nbsp;item(s) |&nbsp;$0.00</strong></a>
 	
 			
 </li>
 	            </ul>
-	            <div id="mrvdiv" style="visibility: hidden; position: absolute; left: 597.531px; top: 41.625px;">
+	            <div id="mrvdiv" style="visibility: hidden; position: absolute; left: 532.625px; top: 279.406px;">
 		        
 
   
 
 <!-- Start - JSP File Name: PortletMRVDisplay.jsp -->
+
 
 
 
@@ -1332,12 +1472,13 @@ span.day, span.normHours, span.specialHours {font-size: 10px;}
 
 		        </div>
    	      
-		        <div id="cartdiv" style="visibility: hidden; position: absolute; left: 755.016px; top: 42px;">
+		        <div id="cartdiv" style="visibility: hidden; position: absolute; left: 718.266px; top: 281.25px;">
 		        
 
   
 
 <!-- Start - JSP File Name: MiniShopCartDisplay.jsp -->
+
 
 
 
@@ -1793,50 +1934,21 @@ span.day, span.normHours, span.specialHours {font-size: 10px;}
 	<li class="sfABY">
 		
 		
-		<a class="" href="Content_ArtsBackyard_10001_10052_-1_N">Art's Backyard</a>
+		<a class="" href="Search?catalogId=10051&amp;langId=-1&amp;storeId=10052&amp;sid=14200591484A&amp;N=86">Art's Backyard</a>
 		
 
-	
-	</li><li class="sfclearance">	
-		<a class="sf-with-ul" href="ArtVanClearanceCategoryDisplayView?keyword=Clearance&amp;catalogId=10051&amp;storeId=10052&amp;langId=-1&amp;N=140">Clearance<span class="sf-sub-indicator"> »</span></a>
-
-		<ul style="display: none; visibility: hidden;">
-			<li>
-				<a class="" href="ArtVanCategoryDisplayView?keyword=Living%20Rooms&amp;catalogId=10051&amp;storeId=10052&amp;langId=-1&amp;N=140+78">Living Rooms</a>
-			</li>
+	</li>
+	<li class="sfclearance">	
 		
-			<li>
-				<a class="" href="ArtVanCategoryDisplayView?keyword=Bedrooms&amp;catalogId=10051&amp;storeId=10052&amp;langId=-1&amp;N=140+79">Bedrooms</a>
-			</li>
+		<a class="" href="Content_ClearanceCenter_10001_10052_-1_N">Clearance</a>
+		
+			
 			
 			
 			
-			<li>
-				<a class="" href="Content_ikidzHome_10001_10052_-1_N">iKidz</a>
-			</li>
-		
-			<li>
-				<a class="" href="ArtVanCategoryDisplayView?keyword=Dining%20Rooms&amp;catalogId=10051&amp;storeId=10052&amp;langId=-1&amp;N=140+80">Dining Rooms</a>
-			</li>
-		
-			<li>
-				<a class="" href="ArtVanCategoryDisplayView?keyword=Media/TV%20Centers&amp;catalogId=10051&amp;storeId=10052&amp;langId=-1&amp;N=140+81">Media/TV Centers</a>
-			</li>
-		
-			<li>
-				<a class="" href="ArtVanCategoryDisplayView?keyword=Recliners&amp;catalogId=10051&amp;storeId=10052&amp;langId=-1&amp;N=140+84">Recliners</a>
-			</li>
-		
-			<li>
-				<a class="" href="ArtVanCategoryDisplayView?keyword=Home%20Office%20Furniture&amp;catalogId=10051&amp;storeId=10052&amp;langId=-1&amp;N=140+83">Home Office</a>
-			</li>		
-		
-			<li>
-				<a class="" href="ArtVanCategoryDisplayView?keyword=Accessories&amp;catalogId=10051&amp;storeId=10052&amp;langId=-1&amp;N=140+85">Accessories</a>
-			</li>
 		
 			
-		</ul>
+		
 
 
 	</li>
@@ -1855,12 +1967,157 @@ span.day, span.normHours, span.specialHours {font-size: 10px;}
 </div>
 
 
-<div><img onload="XMLHttpRequestDemo();" src="ArtVan/upload/webimages/pixel.jpg" style="display: none;"></div>
-<div id="rndmGBanner" style="border-left: 2px solid #d2d1cf; border-right: 2px solid #d2d1cf; margin: 0; padding: 3px 0; text-align: center; width: 947px; background-color: #fff; *padding: 0;*margin-left: 1px;"></div>
+
+
+
+
+
+
+<div id="rndmGBanner" style="border-left: 2px solid #d2d1cf; border-right: 2px solid #d2d1cf; margin: 0; padding: 3px 0; text-align: center; width: 947px; background-color: #fff; *padding: 0;*margin-left: 1px;">
+	
+		
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+<div><iframe src="ArtVan/upload/randomLoadBanner.html" width="960" height="70" style="position: relative; left: -8px;" scrolling="no" frameborder="0"></iframe></div>
+
+		
+		
+	 
+	
+	
+	
+</div>
 
 <!--END HEADER-->
 <!-- End - JSP File name:  style3/CachedHeaderDisplay.jsp -->
-
 
 <!-- END HeaderDisplay.jspf -->
 	<!-- /Header --> 
@@ -1876,15 +2133,6 @@ span.day, span.normHours, span.specialHours {font-size: 10px;}
 
 
 
-	
-	
-	
-	
-	
-	
-	
-
-
 <!-- Start - JSP File name:  style1/SidebarDisplay.jsp -->
 
 <!--START SIDEBAR NAVIGATION-->
@@ -1893,16 +2141,13 @@ span.day, span.normHours, span.specialHours {font-size: 10px;}
 
 <!-- End - JSP File name:  style1/SidebarDisplay.jsp -->
 
-
 <!-- END SidebarDisplay.jspf -->
 	<!-- /Sidebar -->
     </td>
     <td width="100%" height="100%" valign="top" align="center"> 
       <!-- Content Container -->
       	
-      	
-			
-		
+
 
 
 
@@ -2051,7 +2296,6 @@ span.day, span.normHours, span.specialHours {font-size: 10px;}
 					<td>
 
 <!-- END ContentContainerTop.jsp -->
-		
       <!-- Content -->
         
 <!-- END LayoutContainerTop.jspf -->
@@ -2063,9 +2307,7 @@ span.day, span.normHours, span.specialHours {font-size: 10px;}
             <p class="title">	
             
            	
-				
-					
-				
+
 
 
 
@@ -2196,15 +2438,12 @@ span.day, span.normHours, span.specialHours {font-size: 10px;}
 
 Privacy Policy &amp; Terms of Use
 
-				
 				 
 			</p>
             <p>
                        
          	
-				
-					
-				
+
 
 
 
@@ -2335,7 +2574,6 @@ Privacy Policy &amp; Terms of Use
 
 
 
-				
  				 
  
 			</p>
@@ -2346,9 +2584,7 @@ Privacy Policy &amp; Terms of Use
 
 	<div id="LeftNav">
         
-		
-			
-		
+
 
 
 
@@ -2479,12 +2715,9 @@ Privacy Policy &amp; Terms of Use
 
 
 
-		
 
    		
-		
-			
-		
+
 
 
 
@@ -2615,12 +2848,9 @@ Privacy Policy &amp; Terms of Use
 
 
 
-		
 
    		
-		
-			
-		
+
 
 
 
@@ -2751,12 +2981,9 @@ Privacy Policy &amp; Terms of Use
 
 
 
-		
 
    		
-		
-			
-		
+
 
 
 
@@ -2887,16 +3114,13 @@ Privacy Policy &amp; Terms of Use
 
 
 
-		
 	</div>
 	
                     
 	<div id="bodyContent">
 	
 		
-		
-			
-		
+
 
 
 
@@ -3027,7 +3251,6 @@ Privacy Policy &amp; Terms of Use
 
 
 
-		
 	
 		
 		
@@ -3093,9 +3316,7 @@ Privacy Policy &amp; Terms of Use
 
       <!-- /Content -->
       	
-      	
-			
-		
+
 
 
 
@@ -3250,7 +3471,6 @@ Privacy Policy &amp; Terms of Use
 <td align="center" valign="top" colspan="3">
 
 <!-- END ContentContainerBottom.jsp -->
-		
       <!-- /Content Container-->
       
     
@@ -3266,15 +3486,6 @@ Privacy Policy &amp; Terms of Use
 
 <!-- BEGIN FooterDisplay.jspf -->
 
-
-
-	
-	
-	
-	
-	
-	
-	
 
 
 
@@ -3389,6 +3600,7 @@ Privacy Policy &amp; Terms of Use
 
 
 
+
 	
 
 
@@ -3418,6 +3630,142 @@ Privacy Policy &amp; Terms of Use
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
 
 
 
@@ -3471,8 +3819,148 @@ function submitEmail(form)
 
 <div style="clear:both;"></div>
 </div>
+			
+			
+			
 				
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+				
+				
+			 
+			
            		
+
 
 
 
@@ -3602,56 +4090,15 @@ function submitEmail(form)
  
 
 <style type="text/css">
-	.stickyWidget {
-		position: fixed;
-		bottom: 0;
-		right: 20px;
-		display: none;
-		width: 212px;
-		z-index: 1000;
-	}
-
-	.stickyWidget img {
-		border: none;
-
-	}
-
-	span#closeMe {
-		font-size: 11px;
-		background-color: #c8c8c8;
-		color: #000;
-		opacity: .8;
-		padding: 5px;
-		border-radius: 5px;
-		position: relative;
-		top: -25px;
-		right: 0;
-		left: 98px;
-		border: 1px solid #fff;
-		display: inline-block;
-	}
-
-
-
-ul.footerNav {border-right: none !important; margin-left: 20px !important;}
+	ul.footerNav {border-right: none !important; margin-left: 20px !important;}
 .f_title {font-weight: bold !important;}
 
-/* Uncomment the following for emergency hiding of the Hot Buys */ 
-/* #productCarousel {display:none;} */
+/* Uncomment the following for emergency hiding of the Hot Buys */
+/*#productCarousel {display:none;}*/
+
 
 </style>
 
-<div class="stickyWidget">
-	<a href="http://www.artvan.com/Furniture/Store/Content_LP20130512-MothersDay_10001_10052_-1_N?ICID=StickyWidgetMomsDay">
-		<img src="ArtVan/upload/webimages/stickywidget/stickywidget_MothersDay.png" alt="Free family portraits, just in time for Mother's Day!">
-	</a>
-
-
-<span id="closeMe"><a href="#">[x] close</a></span>
-
-
-</div>
-<!-- end sticky widget include -->
 
 
 <ul class="footerNav">
@@ -3659,14 +4106,14 @@ ul.footerNav {border-right: none !important; margin-left: 20px !important;}
   <li><a href="Content_aboutUs_10001_10052_-1?ICID=FT-About" title="About Art Van" class="f_link">About Art Van</a></li>
   <li><a href="Content_Million-Dollar-Grant-Challenge_10001_10052_-1_N?ICID=FT-CharChal" title="Art Van in the Community" class="f_link">In Our Community</a></li>
   <li><a href="Content_contactUs_10001_10052_-1?ICID=FT-ContactUs" title="Contact Us" class="f_link">Contact Us</a></li>
-  <li><a href="Content_Careers_10001_10052_-1?ICID=FT-Careers" title="Careers" class="f_link">Careers</a></li>
   <li><a href="http://www.artvanmedia.com" title="Media" class="f_link">Media Relations</a></li>
   <li><a href="Content_PrivacyPolicy_10001_10052_-1?ICID=FT-Privacy" title="Privacy Policy" class="f_link">Privacy Policy</a></li>
-  <!--li><a href="#" title="Site Map" class="f_link">Site Map</a></li-->
+   <!--li><a href="#" title="Site Map" class="f_link">Site Map</a></li-->
 </ul>
 
 
           		
+
 
 
 
@@ -3911,6 +4358,7 @@ ul.footerNav {border-right: none !important; margin-left: 20px !important;}
 
 
 
+
 	
 
 
@@ -3952,7 +4400,9 @@ ul.footerNav {border-right: none !important; margin-left: 20px !important;}
   <li><a href="Content_LPwof_10001_10052_-1_N?ICID=FT-WoF" title="World of Floors" class="f_link">World of Floors</a></li>
 
 
-  <li><a href="http://michigancleanteam.com/" title="Carpet &amp; Upholstery" class="f_link">CleanTeam at Art Van</a></li>
+  <li><a href="http://michigancleanteam.com/" title="Carpet &amp; Upholstery" class="f_link">CleanTeam by Art Van</a></li>
+
+  <li><a href="http://scottshuptrine.com/" title="Scott Shuptrine Interiors" class="f_link">Scott Shuptrine Interiors</a></li>
 
   <li><a style="color:#fff;" href="Content_storeLocator_10051_10052_-1_N?ICID=FT-Locations" title="Store Locator" class="f_link">Store Locations</a></li>
 
@@ -3962,6 +4412,7 @@ ul.footerNav {border-right: none !important; margin-left: 20px !important;}
 
 
 				
+
 
 
 
@@ -4096,7 +4547,7 @@ ul.footerNav {border-right: none !important; margin-left: 20px !important;}
   <li><a href="Content_roomPlanner_10001_10052_-1?ICID=FT-RoomPlanner" title="Room Planner" class="f_link">Room Planner</a></li>
   <li><a href="Content_LP20110127-Bridal-00_10001_10052_-1_N?ICID=FT-Wedding" title="Wedding Resrouces" class="f_link">Wedding Resources</a></li>
   <li><a href="Content_events_10001_10052_-1?ICID=FT-Events" title="Events" class="f_link">Events</a></li>
-  <li>&nbsp;</li>
+<li><a href="http://jobs.artvan.com/" title="Careers" class="f_link"><b>Careers</b></a></li>
   <li>&nbsp;</li>
   <li><a href="http://www.artvanfranchising.com/" title="Franchising" class="f_link" target="_blank"><b>Franchising</b></a></li>
 
@@ -4110,7 +4561,6 @@ ul.footerNav {border-right: none !important; margin-left: 20px !important;}
 </div>
 <!-- BEGIN LivePerson Monitor. --><script language="javascript"> var lpMTagConfig = {'lpServer' : "server.iad.liveperson.net",'lpNumber' : "29161993",'lpProtocol' : "https"}; function lpAddMonitorTag(src){if(typeof(src)=='undefined'||typeof(src)=='object'){src=lpMTagConfig.lpMTagSrc?lpMTagConfig.lpMTagSrc:'/hcp/html/mTag.js';}if(src.indexOf('http')!=0){src=lpMTagConfig.lpProtocol+"://"+lpMTagConfig.lpServer+src+'?site='+lpMTagConfig.lpNumber;}else{if(src.indexOf('site=')<0){if(src.indexOf('?')<0)src=src+'?';else src=src+'&';src=src+'site='+lpMTagConfig.lpNumber;}};var s=document.createElement('script');s.setAttribute('type','text/javascript');s.setAttribute('charset','iso-8859-1');s.setAttribute('src',src);document.getElementsByTagName('head').item(0).appendChild(s);} if (window.attachEvent) window.attachEvent('onload',lpAddMonitorTag); else window.addEventListener("load",lpAddMonitorTag,false);</script><!-- END LivePerson Monitor. -->
 <!-- End - JSP File name:  style3/CachedFooterDisplay.jsp -->
-
 
 <script type="text/javascript" language="javascript" src="/Furniture/ConsumerDirectStorefrontAssetStore/javascript/CheckBrowserVersion.js"></script>
 
@@ -4163,7 +4613,28 @@ var _sf_async_config={uid:4048,domain:"artvan.com"};
 
 <!-- /Layout enclosing table -->
 
+<!-- Google Code for Remarketing Tag -->
+<!--------------------------------------------------
+Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. See more information and instructions on how to setup the tag on: http://google.com/ads/remarketingsetup
+--------------------------------------------------->
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 1032784143;
+var google_custom_params = window.google_tag_params;
+var google_remarketing_only = true;
+/* ]]> */
+</script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1032784143/?value=0&amp;guid=ON&amp;script=0"/>
+</div>
+</noscript>
+
 <!-- END LayoutContainerBottom.jspf -->
+
+
 
 
 
