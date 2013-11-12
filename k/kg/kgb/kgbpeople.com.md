@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the kgbpeople.com privacy policy that was archived on 2013-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130507140931id_/http%3A//www.kgbpeople.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kgbpeople.com privacy policy that was archived on 2013-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131112145958id_/http%3A//www.kgbpeople.com/privacy-policy) for the most accurate reproduction.*
 
-# Fortrolighedspolitik - www.kgbpeople.com
+# Privacy Policy - www.kgbpeople.com
 
 ### Privacy policy
 
@@ -74,8 +74,8 @@ Please note also that your information may still be available on the website tha
 If you wish to contact us on matters related to this Privacy Policy, or any other matter related to the Service (including customer service inquiries), you can reach us using the contact details set forth below:
 
 Centroid Media b.v.  
-Steentilkade 6a  
-9713GB Groningen  
+Burgemeester Reigerstraat 78  
+3581KW Utrecht  
 The Netherlands  
 Telephone: +31(0)50 7110329  
 Email: [info@kgbpeople.com](mailto:info@kgbpeople.com)
