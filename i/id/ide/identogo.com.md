@@ -1,14 +1,13 @@
-> *The following text is extracted and transformed from the identogo.com privacy policy that was archived on 2013-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130314094019id_/http%3A//identogo.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the identogo.com privacy policy that was archived on 2013-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131112201120id_/http%3A//www.identogo.com/Privacy.aspx) for the most accurate reproduction.*
 
 # Identogo > Privacy
 
-**IdentoGO Provides:**
+**IdentoGO Centers:**
 
-•  Convenience  
-•  Trust  
-•  State-of-the-art technology  
-•  A one-stop-shop  
-•  Fast service  
+•  Convenient  
+•  Professional  
+•  Trustworthy  
+•  Single source for all your identity needs  
   
 ---  
   
@@ -33,24 +32,16 @@ Some pages on this site use “cookies,” which are small files that the site p
 
 _MorphoTrust USA reserves the right to change, modify, or update this statement at any time without notice._
 
-|  |  |  We're Here For You |   
----|---|---|---  
-  
-Gone are the days you had to endure fingerprinting in a police station to get a job or professional license. 
-
-Each IdentoGO Center has been designed for your comfort and convenience. 
-
-And, while you’re there taking care of pre-employment or other professional requirements, how about crossing a few more items off your list? We offer a wide range of services that vary by location.  
-  
 [](https://web.archive.org/ProductServices/FBICriminalHistoryReport.aspx)
 
 **FBI Criminal     
 History Report**
 
-Whether you want to see your FBI criminal history or if you are fulfilling adoption requirements, IdentoGO is the ONLY company that has the capability to accept fingerprints on cards AND provide electronic fingerprinting across the nation.
+Whether you want a copy of your FBI criminal history report or are fulfilling adoption requirements, IdentoGO is the ONLY company with the capability to accept hard card fingerprints and provide electronic fingerprinting across the nation.
 
-**[Click here for more information!](https://web.archive.org/LinkClick.aspx?link=151&tabid=139&portalid=1&mid=552)**  
+  
+**[View additional  information!](https://web.archive.org/LinkClick.aspx?link=151&tabid=139&portalid=1&mid=552)**  
   
 ---  
   
-[](https://web.archive.org/Partners/HowDoIBecomeanIdentoGOCenter.aspx)
+[](https://web.archive.org/Partners.aspx)
