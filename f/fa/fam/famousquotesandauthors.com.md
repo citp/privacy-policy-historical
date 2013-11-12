@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the famousquotesandauthors.com privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602130216id_/http%3A//famousquotesandauthors.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the famousquotesandauthors.com privacy policy that was archived on 2013-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131112100301id_/http%3A//www.famousquotesandauthors.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -33,9 +33,11 @@ If you have any comments or questions on the above privacy statement, please fee
 
 *This Privacy Statement was last updated on January 16, 2010.
 
-| 
-
-| Top 10 Authors  
+|  | Quote of the Day  
+---  
+I am not bound to win, but I am bound to be true. I am not bound to succeed, but I am bound to live up to what light I have.   
+  
+Top 10 Authors  
 ---  
 [](https://web.archive.org/authors/oscar_wilde_quotes.html)  
 [](https://web.archive.org/authors/john_f__kennedy_quotes.html)  
