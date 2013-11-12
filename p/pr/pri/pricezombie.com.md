@@ -1,100 +1,77 @@
-> *The following text is extracted and transformed from the pricezombie.com privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627154744id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pricezombie.com privacy policy that was archived on 2013-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131112224940id_/http%3A//www.pricezombie.com/privacy) for the most accurate reproduction.*
 
-# Legal Agreement
+# PriceZombie Privacy Policy
 
-**Go Daddy Respects Your Privacy**
+## PriceZombie Privacy Policy
 
-**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
+Effective July 13, 2013 
 
-**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
+This document is our Privacy Policy, which describes the information we collect and how it is used. This Privacy Policy applies to all interactions with PriceZombie.com. Please read this Privacy Policy carefully. Your use of and/or registration with PriceZombie will constitute your agreement to our policy. If you cannot agree to the terms and conditions set forth below, please do not use our services. Additionally, our Privacy Policy is part of our User Agreement, and by using the site you agree to both. 
 
-**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
+## About this Policy
 
-**Information Collection and Use**
+PriceZombie is a cross shopping and price tracking website, and includes an open platform for user comments. 
 
-Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
+It is necessary for PriceZombie to collect some information so you can participate on the site. For example, registration and login, your product Watchlist, and our forums all depend on PriceZombie recognizing you and associating certain data with your account. From time to time we collect other information that is necessary to make the service work. 
 
-We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
+PriceZombie utilizes third party web statistic software that provides general information about our userbase to help us determine which promotions and advertisements are effective. 
 
-We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
+PriceZombie does not distribute, sell, or profit from information about our users. PriceZombie does not share any information about our users unless we are legally compelled to do so. 
 
-We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
+Please read this privacy policy carefully. It describes what information we collect, how it is used, and when it is shared so you can make smart decisions about how you use PriceZombie. 
 
-We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
+## Registration Information
 
-Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
+When you create an account, you are required to provide a username and password and an email address. We also log, and retain indefinitely, the IP address from which the account is initially created. This information allows you to login and be recognized as a member, have the forum posts you write be attributed to you, and it is necessary for your Watchlist to function. 
 
-This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
+## Post, Content and Review Data
 
-**Security**
+The posts, content, and reviews you make on PriceZombie are not private and remain on our servers even if your account is deleted. PriceZombie only saves the final version of what you post to our site. Previous edits are not available. 
 
-This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.
+## Log Data
 
-**Updating Your Information**
+Log data is certain information that is automatically collected by our systems when anyone visits PriceZombie. The data logged includes the type of software used to access the site (browser, operating system), the address of the external or internal page that referred you, and your IP address. 
 
-You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
+## Your Private Information is never for sale
 
-        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
+Unless compelled by law to divulge information, we do not sell or otherwise give access to any information collected about our users to any third party. Anonymous, aggregated information that cannot be linked back to an individual user may be made available to third parties in order to provide better services. For example, if data shows an increase in visitors from a special interest site, we may use that information to invite the participation of more stores that would interest that demographic. 
 
-       ii.      You may send mail to Go Daddy at the following postal address:   
-               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
+## PriceZombie will not disclose your information
 
-      iii.      You may call us at: (480) 505-8800
+PriceZombie will not disclose your information unless required by law. We may disclose – or preserve for future disclosure – your information if we believe, after due consideration, that doing so is reasonably necessary to comply with a law, regulation, or valid legal process. If we are going to release your information, we will do our best to provide you with notice in advance via PriceZombie's private messaging system unless we are prohibited by court order from doing so (e.g., an order under 18 U.S.C. § 2705(b)). 
 
-       iv.      You may fax us at: (480) 505-8844
+## Cookie Policy
 
-**Sending Emails**
+Cookies are small data files placed on your computer by websites you visit in order to help them remember certain information about you. At PriceZombie, we set only a few cookies for tracking user preferences, authentication, and collecting anonymous analytics data. Additionally, our advertising partners set cookies. Each of these uses is described in greater detail below. 
 
-We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
+## Authentication Cookies
 
-The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
+When you log into your account, PriceZombie will place a cookie for the sole purpose of creating this session. It contains your user id and hashed authentication information. 
 
-**Compliance with Laws and Law Enforcement**
+## Analytics Cookies
 
-We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
+We use a tool called Google Analytics to help us understand how users interact with our website. It tells us aggregate usage and traffic information, such as how the site was accessed, how long visitors stayed, and the number of first-time visitors to the site. By knowing how people use the site, we can make it better. To learn more about Google Analytics and how it uses your data, please visit <http://www.google.com/analytics/learn/privacy.html>. 
 
-**Third Party Service Providers**
+## Disabling Cookies
 
-We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
+Most browsers include an option to clear existing cookies or reject new ones. However, if you do this, portions of the PriceZombie website may not function as intended. 
 
-In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel gift or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
+## Data Security
 
-**Supplementation of Information**
+PriceZombie will make every effort to secure any private information submitted to us by our users. However, data transmission over the internet can not be guaranteed secure, so use the service at your own risk. You are responsible for taking reasonable measures to secure your account (such as not sharing your computer or PriceZombie password, and using an up to date firewall and anti-virus software). 
 
-In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
+## International Visitors
 
-**Contests/Surveys**
+PriceZombie is a United States based company. All personal information we collect from our international users is transferred to the United States and processed according to US law. 
 
-From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
+PriceZombie complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. PriceZombie has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view PriceZombie's certification, please visit <http://www.export.gov/safeharbor/>. 
 
-We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
+## Children under 13
 
-**Tell-A-Friend**
+Although we welcome users from all walks of life, our site is not aimed at children, and the United States government has put limits on our ability to accept users under a certain age through the Children's Online Privacy Protection Act of 1998. Individuals under the age of 13 may not create an account with us. If you believe someone 12 or younger is using our site without parental consent, please contact us. 
 
-If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. Go Daddy will automatically send the friend a one-time email inviting them to visit our Site. Go Daddy stores this information for the sole purpose of sending this one-time email. The friend may contact Go Daddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
+## Changes to this policy
 
-**What Happens to my Personal Information if I Opt Out?**
+We reserve the right to change this policy to meet the changing needs of PriceZombie, or for any other reason. If we make changes, we will notify our users. Where the changes substantially alters your rights, notice will appear prominently on your front page. More minor changes may only be highlighted by the privacy policy link in the footer of our website. 
 
-If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information if necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
-
-**Transfer of Data Abroad**
-
-If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
-
-**Changes in Our Practices**
-
-We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
-
-If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
-
-**Contacting Our Site**
-
-If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
-
-* * *
-
-Go Daddy   
-ATTN: Web Team   
-14455 North Hayden Rd.   
-Suite 219   
-Scottsdale, AZ, 85260, U.S.A.
+Copyright © 2013 Codebrite, Inc. 
