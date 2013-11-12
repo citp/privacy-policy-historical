@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the searchbug.com privacy policy that was archived on 2013-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130606194729id_/http%3A//www.searchbug.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the searchbug.com privacy policy that was archived on 2013-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131112134201id_/http%3A//www.searchbug.com/privacy.aspx) for the most accurate reproduction.*
 
 # SearchBug Privacy Policy
 
@@ -53,3 +53,14 @@ If our policy on information collection or uses changes, it will be posted on Se
 If problems arise, users may contact us by e-mail at 
 
 Instructions to [remove personal listing](https://web.archive.org/help.aspx?WHAT=people) from the people search results are located on our Help page. 
+
+* * *
+
+|  |   
+
+Please Visit Our Sponsors
+
+  |   
+---|---|---  
+  
+* * *
