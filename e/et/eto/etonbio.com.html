@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the etonbio.com privacy policy that was archived on 2013-04-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130421031625id_/http%3A//www.etonbio.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the etonbio.com privacy policy that was archived on 2013-11-12.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131112113405id_/http%3A//www.etonbio.com/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="content-type" content="text/html; charset=UTF-8">
@@ -17,6 +17,7 @@
 <!----------view templates---------------------->
 <!-- css-->
 <link rel="stylesheet" href="/views/main/css/view_header.css" type="text/css" media="screen">
+<link rel="stylesheet" type="text/css" href="/views/homePage/css/view_home_page.css">
 
 <!----------main nav menu style---------------------->
 <link rel="stylesheet" href="/fonts/playFont.css" type="text/css" media="screen">
@@ -33,10 +34,13 @@ body{behavior:url("/includes/menu/csshover.htc");}
 <![endif]-->
 <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.5.2/jquery.min.js"></script>
 <script language="JavaScript" src="/Products/javascripts/ajax_products2.js"></script>
+<script type="text/javascript" src="/Products/javascripts/ajax_cancelCart.js"></script>
 <script type="text/javascript" src="/javascripts/menu/productSearch.js"></script>
 <script type="text/javascript" src="/javascripts/menu/ajax_memberProd.js"></script>
 <script type="text/javascript" src="/javascripts/misc.js"></script>
+
 <script src="/javascripts/login.js"></script>
+<script src="/javascripts/viewCart.js"></script>
 
 <script type="text/javascript">
 
@@ -97,7 +101,7 @@ if (document.images)
 <ul id="menuMain">
   <li class="menu_right"><a href="/aboutUs.php" class="drop">About Us</a><!-- Begin About Us Item -->
     
-    <div class="dropdown_aboutUs"><!-- Begin about us container --> 
+    <div class="dropdown_aboutUs group"><!-- Begin about us container --> 
       <img src="/images/menu/up_arrow_menu.gif" width="24" height="20" style="position:absolute;top:-20px;left:350px">
       <div id="aboutUsLeft" style="float:left"> 
         <!-- <div class="col_2">
@@ -119,7 +123,8 @@ Eton Bioscience, Inc.<br>
 5820 Oberlin Drive, Suite 108<br>
 San Diego, CA 92121<br>
 USA [<a href="#" onclick="javascript:openEventWin()" style="display:inline">map</a>]
-<br><br>       	  <p class="branchTitle">Boston Branch</p>
+<br><br>          <div style="margin-bottom:5px;padding:3px 0px 10px 0px;border-bottom:thin dotted #999;height:5px;">&nbsp;</div>
+       	  <p class="branchTitle">Boston Branch</p>
 56 Roland Street,<br>
 Suite 203<br>
 Charlestown, MA 02129<br>
@@ -135,8 +140,14 @@ USA [<a href="#" onclick="javascript:openEventWin3()" style="display:inline">map
 <span class="strongAbout">NC Mailing Address:</span> Eton Bioscience, Inc.<br>
 P.O. Box 110363<br>
 Durham, NC 27709-0363 <br><br>
-Email:<a href="mailto:supportnc@etonbio.com">supportnc@etonbio.com</a>
-            </div>
+Email:<a href="mailto:supportnc@etonbio.com">supportnc@etonbio.com</a>           <div style="margin-bottom:5px;padding:3px 0px 10px 0px;border-bottom:thin dotted #999;height:5px;">&nbsp;</div>
+		  <p class="branchTitle">New Jersey Branch</p>
+105 Lock St.,<br>
+Suite 305B<br>
+Newark, NJ 07103<br>
+USA [<a href="#" onclick="javascript:openEventWin4()" style="display:inline">map</a>]<br><br>
+Email:<a href="mailto:supportnj@etonbio.com">supportnj@etonbio.com</a>
+                </div>
           <div id="aboutEmail">
             <table class="aboutInfo">
               <tbody><tr>
@@ -193,13 +204,13 @@ Email:<a href="mailto:supportnc@etonbio.com">supportnc@etonbio.com</a>
           
                                         <li><a href="http://www.etonbio.com/Products/Protease/" class="product">Protease</a></li>
           
+                                        <li><a href="http://www.etonbio.com/Products/Adenovirus/" class="product">Adenovirus</a></li>
+          
                                         <li><a href="http://www.etonbio.com/Products/Metabolism Assay Kit/" class="product">Metabolism Assay Kit</a></li>
           
                                         <li><a href="http://www.etonbio.com/Products/Protein Staining Kits/" class="product">Protein Staining Kits</a></li>
           
                                         <li><a href="http://www.etonbio.com/Products/Biochemicals/" class="product">Biochemicals</a></li>
-          
-                                        <li><a href="http://www.etonbio.com/Products/Growth Factors/" class="product">Growth Factors</a></li>
           
                                         <li><a href="http://www.etonbio.com/Products/Cell Lines/" class="product">Cell Lines</a></li>
           
@@ -222,6 +233,8 @@ Email:<a href="mailto:supportnc@etonbio.com">supportnc@etonbio.com</a>
                                         <li><a href="http://www.etonbio.com/Products/Secondary Antibodies/" class="product">Secondary Antibodies</a></li>
           
                                         <li><a href="http://www.etonbio.com/Products/SABC Kit/" class="product">SABC Kit</a></li>
+          
+                                        <li><a href="http://www.etonbio.com/Products/PCR Master Mix/" class="product">PCR Master Mix</a></li>
           
                             </ul>
       </div>
@@ -262,29 +275,24 @@ Email:<a href="mailto:supportnc@etonbio.com">supportnc@etonbio.com</a>
       <div class="service_menu_layout"> <img src="/images/menu/dnaseq.jpg" width="30" height="30" class="menu_image">
         <div class="list_title">DNA Sequencing</div>
         <ul class="service_list accordion">
+        	<li><a href="/sequencing/dna_sequencing_services.php">Sequencing Overview</a></li>
           <li id="dnaArrow">
-            <div class="subStrong" onclick="toggleArrow('dnaArrow');">Regular DNA Sequencing</div>
+            <div class="subStrong" onclick="toggleArrow('dnaArrow');">Services Types</div>
             <ul>
-              <li class="service_list"><a href="/sequencing/dna_sequencing_services.php">Our Services</a></li>
-              <li class="service_list"><a href="/sequencing/dna_sequencing_ordering.php">Ordering</a></li>
-              <li class="service_list"><a href="/sequencing/dna_sequencing_primer.php">Primer List</a></li>
-              <li class="service_list"><a href="/sequencing/dna_sequencing_pricing.php">Pricing</a></li>
-              <li class="service_list"><a href="/sequencing/faq_seq.php">FAQ</a></li>
-              <li class="service_list"><a href="/sequencing/troubleshooting.php">Troubleshooting</a></li>
+              <li class="service_list"><a href="http://www.etonbio.com/sequencing/regular_sequencing.php">Regular DNA Sequencing</a></li>
+              <li class="service_list"><a href="http://www.etonbio.com/sequencing/specialty_dna_sequencing.php">Specialty Sequencing</a>
+              </li><li class="service_list"><a href="http://www.etonbio.com/sequencing/sequencing_ready_to_load.php">Ready to Load</a></li>
+              <li class="service_list"><a href="http://www.etonbio.com/sequencing/primer_walking_sequencing.php">Primer Walking</a></li><a href="http://www.etonbio.com/sequencing/primer_walking_sequencing.php">  
+          	  </a><li class="service_list"><a href="http://www.etonbio.com/sequencing/primer_walking_sequencing.php"></a><a href="http://www.etonbio.com/sequencing/direct_sequencing.php">Direct Sequencing</a></li>
+              <!-- <li class="service_list"><a href="http://www.etonbio.com/sequencing/direct_sequencing_mini_prep.php">Mini Prep - Sequencing</a></li> -->
             </ul>
-          </li>
-          <li id="pwArrow">
-            <div class="subStrong" onclick="toggleArrow('pwArrow');">Primer Walking</div>
-            <ul>
-              <li class="service_list"><a href="/sequencing/walking_ss.php">Single Stranded DNA</a></li>
-              <li class="service_list"><a href="/sequencing/walking_ds.php">Double Stranded DNA</a></li>
-            </ul>
-          </li>
-          <li><a href="../../sequencing/secondary_structure.php">Difficult Template Sequencing</a>
-          </li><li><a href="../../sequencing/dsc.php">Direct Sequencing</a></li>
-          <li><a href="/sequencing/faq_seq.php">FAQ</a></li>
-          <li><a href="/sequencing/troubleshooting.php">Troubleshooting</a></li>
-          <li><a href="/downloads.php">Downloads</a></li>
+           </li>
+          
+          	<li><a href="http://www.etonbio.com/ordering.php">How to Order</a></li>
+			<li><a href="/sequencing/dna_sequencing_primer.php">Universal Primer List</a></li>
+        	<li><a href="/sequencing/faq_seq.php">FAQ</a></li>
+          	<li><a href="/sequencing/troubleshooting.php">Troubleshooting</a></li>
+          	<li><a href="/downloads.php">Result Viewers</a></li>
         </ul>
       </div>
       <script>
@@ -413,12 +421,12 @@ $(".accordion > li > .subStrong").click(function(){
   <div class="footer1Section">
       <table class="cpyAddr_table" border="0">
         <tbody><tr>
-          <td class="copywrite"><p><a href="/admin/salesReps/rep_login_form.php" target="_blank" class="bottom">C</a>opyright <a href="/admin/tlogin_form_nc.php" target="_blank" class="bottom">©</a>&nbsp;<a href="/admin/tlogin_form_with_qc_ma.php" target="_blank" class="bottom">2003</a>-2014</p>
-            <p class="allRights">All Rights <a href="/admin/tlogin_form_absence.php" target="_blank" class="bottom">Reserved</a></p>
+          <td class="copywrite"><p><a href="/admin/salesReps/rep_login_form.php" target="_blank" class="bottom">C</a>opyright <a href="/admin/tlogin_form_with_qc.php" target="_blank" class="bottom">©</a>&nbsp;<a href="/admin/tlogin_form_with_qc.php" target="_blank" class="bottom">2003</a>-2014</p>
+            <p class="allRights">All Rights <a href="/admin/tlogin_form_with_qc.php" target="_blank" class="bottom">Reserved</a></p>
             </td>
           <td class="addBorder"><a href="/admin/pickup/index.php" target="_blank" class="bottom">Eton</a> <a href="/admin/pickup/signinadmin.php" target="_blank" class="bottom">Bioscience,</a><a href="/admin/tlogin_form_with_qc.php" target="_blank" class="bottom"> Inc.</a><br>
 5820 Oberlin Drive, Suite 108<br>
-<a href="http://mail.etonbio.com/" target="_blank" class="bottom">San</a> Diego, CA 9212<a href="/admin/tlogin_form_administrators.php" target="_blank" class="bottom">1</a>			</td>
+<a href="http://209.251.41.114/" target="_blank" class="bottom">San</a> Diego, CA 92121			</td>
         </tr>
       </tbody></table>
 
@@ -492,6 +500,11 @@ $(".accordion > li > .subStrong").click(function(){
             	</ul>
       </div>
       
+      <div class="colServices group">
+      	<a href="https://www.facebook.com/pages/Eton-Bioscience-Inc/502774343148105" target="_new"><img src="../../../images/FB-f-Logo__blue_50.png" width="35" height="35" alt="Facebook" class="logo_sn"></a>
+       	<a href="http://www.linkedin.com/company/1743575?trk=tyah" target="_new"><img src="../../../images/linkedin-icon-50.png" width="35" height="35" alt="LinkedIn" class="logo_sn"></a>
+      	<a href="https://plus.google.com/u/0/b/113851946927066718120/113851946927066718120/posts" target="_new"><img src="../../../images/google-plus-50.png" width="35" height="35" alt="Google Plus" class="logo_sn"></a>
+      </div>
       
     </div>
   </div>
