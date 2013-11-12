@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webmastergrade.com privacy policy that was archived on 2013-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130514121028id_/http%3A//www.webmastergrade.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webmastergrade.com privacy policy that was archived on 2013-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131112050940id_/http%3A//www.webmastergrade.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy @ WebmasterGrade | Free Online Resources for Webmasters & Designers
 
