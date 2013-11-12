@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sportsfeelgoodstories.com privacy policy that was archived on 2013-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130504045925id_/http%3A//www.sportsfeelgoodstories.com/our-quest/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sportsfeelgoodstories.com privacy policy that was archived on 2013-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131112055809id_/http%3A//www.sportsfeelgoodstories.com/our-quest/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Sports Feel Good Stories
 
