@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zalora.sg privacy policy that was archived on 2013-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130514064459id_/http%3A//www.zalora.sg/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zalora.sg privacy policy that was archived on 2013-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131113002904id_/http%3A//www.zalora.sg/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -10,9 +10,9 @@ We will only keep your information for as long as we are either required to by l
 
 You can visit the Site and browse without having to provide personal details. During your visit to the Site you remain anonymous and at no time can we identify you unless you have an account on the Site and log on with your user name and password.
 
-If you have any comments or suggestions, we would be pleased to receive them at our address or by emailing us at service@zalora.sg. 
+If you have any comments or suggestions, we would be pleased to receive them at our address or by emailing us at service@zalora.sg.
 
-Alternatively you may call us on **+65 6742 4500** – this telephone number will be open to receive calls between **9AM to 11PM**. 
+Alternatively you may call us on **+65 3157 5555** – this telephone number will be open to receive calls between 9AM to 7PM. 
 
 _
 
