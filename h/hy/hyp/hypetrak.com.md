@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hypetrak.com privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601161220id_/http%3A//hypetrak.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hypetrak.com privacy policy that was archived on 2013-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131112183455id_/http%3A//hypetrak.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | HYPETRAK
 
