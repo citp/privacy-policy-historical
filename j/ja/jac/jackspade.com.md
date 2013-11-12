@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the jackspade.com privacy policy that was archived on 2013-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130516033648id_/http%3A//www.jackspade.com/Privacy-Policy/privacy-policy%2Cdefault%2Cpg.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jackspade.com privacy policy that was archived on 2013-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131112010931id_/http%3A//www.jackspade.com/privacy-policy/privacy-policy.html) for the most accurate reproduction.*
 
-# Jack Spade | Privacy Policy
+# Privacy Policy
 
 Last updated April 6, 2010
 
-Kate Spade, LLC and/or Fifth & Pacific Companies, Inc. and each of their respective subsidiary, parent and affiliated companies (collectively referred to herein as "Kate Spade") is deemed to operate this Website (the "Website"). Jack Spade ("we" or "us") recognizes that you care how information about you is used and shared. We have created this Privacy Policy to inform you what information we collect on the Website, how we use your information and the choices you have about the way your information is collected and used. Please read this Privacy Policy carefully. Your use of the Website indicates that you have read and accepted our privacy practices, as outlined in this Privacy Policy. In addition, please read our [Terms of Use](http://www.jackspade.com/on/demandware.store/Sites-Jack-Site/default/Page-Show?cid=terms-and-conditions) which also govern your use of this Website. Please be advised that the practices described in this Privacy Policy apply to information gathered by us or our subsidiaries, affiliates or agents: (i) through this Website, (ii) where applicable, through our Customer Service Department in connection with this Website, (iii) through information provided to us in our free standing retail stores, and (iv) through information provided to us in conjunction with marketing promotions and sweepstakes.
+Kate Spade, LLC and/or Fifth & Pacific Companies, Inc. and each of their respective subsidiary, parent and affiliated companies (collectively referred to herein as "Kate Spade") is deemed to operate this Website (the "Website"). Jack Spade ("we" or "us") recognizes that you care how information about you is used and shared. We have created this Privacy Policy to inform you what information we collect on the Website, how we use your information and the choices you have about the way your information is collected and used. Please read this Privacy Policy carefully. Your use of the Website indicates that you have read and accepted our privacy practices, as outlined in this Privacy Policy. In addition, please read our [Terms of Use](http://www.jackspade.com/terms-and-conditions/terms.html) which also govern your use of this Website. Please be advised that the practices described in this Privacy Policy apply to information gathered by us or our subsidiaries, affiliates or agents: (i) through this Website, (ii) where applicable, through our Customer Service Department in connection with this Website, (iii) through information provided to us in our free standing retail stores, and (iv) through information provided to us in conjunction with marketing promotions and sweepstakes.
 
 We reserve the right, in our sole discretion, to modify, update, add to, discontinue, remove or otherwise change any portion of this Privacy Policy, in whole or in part, at any time. When we amend this Privacy Policy, we will revise the "last updated" date located at the top of this Privacy Policy. For changes to this Privacy Policy that we consider to be material, we will place a notice on the Website by revising the link on the home page to read substantially as "Updated Privacy Policy" for a reasonable amount of time which may be up to sixty (60) days. If you provide information to us or access or use the Website in any way after this Privacy Policy has been changed, you will be deemed to have unconditionally consented and agreed to such changes. The most current version of this Privacy Policy will be available on the Website and will supersede all previous versions of this Privacy Policy.
 
@@ -18,9 +18,9 @@ _Personally Identifiable Information:_ Personally Identifiable Information ("PII
 
 In addition, you may have the opportunity to provide us with the PII, such as name or e-mail address of a friend, such as when you choose to use any "refer a friend" or "send to a friend" function to inform someone about information or a special feature from our Website. The e-mail addresses you supply us for those activities will not be retained for other purposes unless otherwise disclosed at the time you provide such information. We encourage you to send such items only to recipients who are your friends or family or persons with whom you have a relationship so that it doesn't seem like we are "spamming" them.
 
-_Non-Personally Identifiable Information:_ When your computer contacts our web servers (for example, when you visit this Website, or view an HTML e-mail), our web servers automatically collect Website usage information. Website usage information is non-identifying information that describes how our visitors use and navigate our Website. It can include the number and frequency of visitors to each web page and the length of their stays, browser type, referrer data that identifies the web page visited prior and subsequent to visiting our Website, and IP addresses (see below for more information on IP addresses). We also may determine the applicable technology available in order to serve you the most appropriate version of a web page, e-mail or similar service. This information is used to analyze and improve this Website and to provide our customers with a fulfilling shopping experience.
+_Non-Personally Identifiable Information:_ When your computer contacts our web servers (for example, when you visit this Website, or view an HTML e-mail), our web servers automatically collect Website usage information. Website usage information is non-identifying information that describes how our visitors use and navigate our Website. It can include the number and frequency of visitors to each web page and the length of their stays, browser type, referrer data that identifies the web page visited prior and subsequent to visiting our Website, and IP addresses (see below for more information on IP addresses). We also may determine the applicable technology available in order to serve you the most appropriate version of a web page, e-mail or similar service. This information is used to analyze and improve this Website and to provide our customers with a fulfilling shopping experience. 
 
-_Use of Cookies:_ Also, like many Websites, we use "cookies". Cookies are pieces of information that a website either transfers to your computer's hard drive or stores temporarily in your computer's memory for record-keeping purposes. We may use cookies for a number of purposes. For example, cookies help us to identify account holders and to optimize their shopping experience. Cookies also allow us to hold selections in a shopping cart when a user leaves this Website without checking out. When you log in at this Web site with your username and password, we will assign you a secure session id. The server then passes your information to you through this secure session id. Also, we will use cookies to monitor and maintain information about your use of this Website. Cookies are also used to track the identity of the Website you visited immediately prior to visiting this Website; otherwise, we do not track information about your use of other Websites. Most browsers accept cookies automatically. You can reset your browser to refuse all cookies or to indicate when a cookie is being sent. However, we recommend that you leave cookies "turned on" so that we can offer you a better shopping experience on this Website. If you decline to accept cookies, you may not be able to take advantage of or participate in certain features of this Website.
+_Use of Cookies:_ Also, like many Websites, we use "cookies". Cookies are pieces of information that a website either transfers to your computer's hard drive or stores temporarily in your computer's memory for record-keeping purposes. We may use cookies for a number of purposes. For example, cookies help us to identify account holders and to optimize their shopping experience. Cookies also allow us to hold selections in a shopping cart when a user leaves this Website without checking out. When you log in at this Web site with your username and password, we will assign you a secure session id. The server then passes your information to you through this secure session id. Also, we will use cookies to monitor and maintain information about your use of this Website. Cookies are also used to track the identity of the Website you visited immediately prior to visiting this Website; otherwise, we do not track information about your use of other Websites. Most browsers accept cookies automatically. You can reset your browser to refuse all cookies or to indicate when a cookie is being sent. However, we recommend that you leave cookies "turned on" so that we can offer you a better shopping experience on this Website. If you decline to accept cookies, you may not be able to take advantage of or participate in certain features of this Website. 
 
 _Use of Web Beacons:_ Our web pages or e-mail messages may contain a small graphic image called a web beacon, which is sometimes also called a "clear gif", that allows us to monitor and collect certain limited information about our users, such as the type of browser requesting the web beacon, the IP address of the computer that the web beacon is sent to and the time the web beacon was viewed. Web beacons can be very small or invisible to the user, but, in general, any electronic image viewed as part of a web page or e-mail, including HTML based content, can act as a web beacon. We may use web beacons to count visitors to our web pages or to monitor how our users navigate our Website, and we may include web beacons in e-mail messages in order to count how many messages we sent were actually opened or acted upon. We use web beacons to compile aggregate statistics about our Website and our marketing campaigns.
 
@@ -36,9 +36,9 @@ We do not knowingly sell or ship any items ordered through this Website directly
 
 _Use by Jack Spade:_ We may use your PII to provide you with requested information, services or content, to contact you in connection with a promotion, or for other purposes disclosed when you provide the information. We may also contact you from time to time on behalf of one of our affiliated companies or an external business partner with information that may be of interest to you. We may also contact you regarding any problems or questions we have relating to your use of our Website, or, in our discretion, notify you of changes to our Privacy Policy, Terms of Use or other policy or terms that affect you and your use of our Website. We may also use information about our users, including PII, for internal purposes.
 
-###### With Whom Does Jack Spade Share Information?
+###### With Whom Does Jack Spade Share Information? 
 
-We may provide information to select outside companies when we believe their products or services may be of interest to you. If you opt in to receive communications from a third party, your information will be subject to the third party's privacy policy and not this Privacy Policy. Therefore, if you later decide that you do not want that third party to use your information, you will need to contact the third party directly. In addition, Jack Spade may share your PII with third parties under the following circumstances:
+We may provide information to select outside companies when we believe their products or services may be of interest to you. If you opt in to receive communications from a third party, your information will be subject to the third party's privacy policy and not this Privacy Policy. Therefore, if you later decide that you do not want that third party to use your information, you will need to contact the third party directly. In addition, Jack Spade may share your PII with third parties under the following circumstances: 
 
 _Third parties providing services on our behalf:_ We may engage third parties to perform services in connection with the operation of our business. Examples of these services include: (a) payment processing and authorization, (b) fraud protection and credit risk reduction, (c) product customization, (d) order fulfillment, (e) shipping, (f) marketing and promotional material distribution, (g) Website evaluation, (h) data collection, storage, management, analysis and, where applicable, cleansing, and (i) any other services designed to assist us in maximizing our business potential. These third parties may have access to this Website's user information, including PII, to the extent it is needed to perform their duties and functions.
 
@@ -70,22 +70,33 @@ Community Guidelines:
 
 You are entirely responsible and liable for all activities conducted by you within the Community Features, including the transmission, posting, or other provision of Community Content to any portion of the Community Features. Listed below are some, though not all, violations that may result in Jack Spade terminating or suspending your access to Community Features on a temporary or permanent basis, as determined by Jack Spade in its sole discretion ("Community Guidelines"). You agree not to do any of the following actions while using any of the Community Features:
 
-  * Violate these Community Guidelines or abuse the community purpose of the chat areas.
-  * Participate in any part of the Website if you are under the age of 18.
-  * Use profanity, obscenities, or **asterisks** or other "masking" characters to disguise profane or obscene words.
-  * Use obscene, lewd, slanderous, pornographic, abusive, violent, insulting, indecent, threatening and harassing language of any kind.
-  * Impersonate other users.
-  * Attack (flame or "cyberbully") individuals, companies or products, although you are otherwise welcome to offer your opinions or comments on the subject at hand.
-  * Post topics on message boards, on the Website or within any of the Community Features that are unrelated to the subject of the Website.
-  * Advertise or promote other companies or URLs.
-  * Share PII with others on the Website.
-  * Include advertising in communications.
-  * Post material that is copyrighted, protected by trade secret or otherwise subject to third party proprietary rights, including privacy and publicity rights, unless you are the owner of such rights or have permission from their rightful owner to post the material and to grant Jack Spade all of the license rights granted herein.
-  * Include advanced fonts, java, tables, html, or other programming codes or commands in messages.
-  * Distribute or otherwise publish any Community Content containing any solicitation of funds, promotion, advertising, or solicitation for goods or services. You also hereby acknowledge that you are prohibited from soliciting other guests to join or become members of any commercial online service or other organization.
-  * Collect or harvest the information of any user or otherwise access the Website using automated means (including but not limited to harvesting bots, robots, spiders or scrapers).
+-Violate these Community Guidelines or abuse the community purpose of the chat areas.
 
+-Participate in any part of the Website if you are under the age of 18.
 
+-Use profanity, obscenities, or **asterisks** or other "masking" characters to disguise profane or obscene words.
+
+-Use obscene, lewd, slanderous, pornographic, abusive, violent, insulting, indecent, threatening and harassing language of any kind.
+
+-Impersonate other users.
+
+-Attack (flame or "cyberbully") individuals, companies or products, although you are otherwise welcome to offer your opinions or comments on the subject at hand.
+
+-Post topics on message boards, on the Website or within any of the Community Features that are unrelated to the subject of the Website.
+
+-Advertise or promote other companies or URLs.
+
+-Share PII with others on the Website.
+
+-Include advertising in communications.
+
+-Post material that is copyrighted, protected by trade secret or otherwise subject to third party proprietary rights, including privacy and publicity rights, unless you are the owner of such rights or have permission from their rightful owner to post the material and to grant Jack Spade all of the license rights granted herein.
+
+-Include advanced fonts, java, tables, html, or other programming codes or commands in messages.
+
+-Distribute or otherwise publish any Community Content containing any solicitation of funds, promotion, advertising, or solicitation for goods or services. You also hereby acknowledge that you are prohibited from soliciting other guests to join or become members of any commercial online service or other organization.
+
+-Collect or harvest the information of any user or otherwise access the Website using automated means (including but not limited to harvesting bots, robots, spiders or scrapers).
 
 Information disclosed in Community Features is by design revealed to the public. The Website is not responsible for any information you choose to disclose to others. The Website reserves the right, but not the obligation, to remove any posts for any reason. Jack Spade does not endorse the Community Content in the Community Features and specifically disclaims any responsibility or liability to any person or entity (including, without limitation, persons who may use or rely on such material) for any loss, damage (whether actual, consequential, punitive or otherwise), injury, claim, liability or other cause of any kind or character based upon or resulting from any Community Content provided through a Community Feature. By posting or uploading Community Content to any Community Feature or submitting any other Community Content to Jack Spade, you automatically grant (or warrant that the owner of such rights has expressly granted) Jack Spade a perpetual, worldwide, royalty-free, irrevocable, non-exclusive right and license to use, reproduce, modify, adapt, publish, translate, sub-license, create derivative works from and distribute such materials or incorporate such Community Content into any form, medium, or technology now known hereafter devised throughout the universe in perpetuity. In addition, you warrant that the content as uploaded or posted by you does not violate any person's so-called "moral rights" or other similar or analogous rights under any applicable laws in any country or region of the world.
 
@@ -97,14 +108,17 @@ You agree to indemnify Jack Spade for any and all third party claims, damages, l
 
 If you are a copyright owner and believe that any Community Content appearing on the Website or in any Community Feature has been copied in a way that infringes upon your copyrights, you may submit a notification to Jack Spade pursuant to the Digital Millennium Copyright Act ("DMCA") by providing the following information in writing (see 17 U.S.C. 512(c)(3) for further detail) to the Copyright Agent named below:
 
-  * Your name, address, telephone number, and email address;
-  * A description of the copyrighted work that you claim has been infringed or, if multiple copyrighted works are covered by a single notification, a representative list of such works;
-  * The exact URL or a description reasonably sufficient to permit Jack Spade to locate where the alleged infringing material is located;
-  * A statement by you that you have a good faith belief that the disputed use is not authorized by the copyright owner, its agent, or the law;
-  * An electronic or physical signature of the person authorized to act on behalf of the owner of the copyright interest;
-  * A statement by you, made under penalty of perjury, that the above information in your notice is accurate and that you are the copyright owner or authorized to act on the copyright owner's behalf.
+-Your name, address, telephone number, and email address;
 
+-A description of the copyrighted work that you claim has been infringed or, if multiple copyrighted works are covered by a single notification, a representative list of such works;
 
+-The exact URL or a description reasonably sufficient to permit Jack Spade to locate where the alleged infringing material is located;
+
+-A statement by you that you have a good faith belief that the disputed use is not authorized by the copyright owner, its agent, or the law;
+
+-An electronic or physical signature of the person authorized to act on behalf of the owner of the copyright interest;
+
+-A statement by you, made under penalty of perjury, that the above information in your notice is accurate and that you are the copyright owner or authorized to act on the copyright owner's behalf.
 
 Copyright Agent  
 Fifth & Pacific Companies, Inc.  
@@ -141,6 +155,6 @@ We may from time to time conduct on-line surveys. When you complete an online su
 
 ###### COLLECTION IN AND TRANSFER TO THE UNITED STATES
 
-This Website is operated in the United States. If you are located in the European Union, Canada or elsewhere outside of the United States, please be aware that any information you provide to us will be collected in or transferred to the United States. By using our Website, participating in any of our services and/or providing us with your information, you consent to this transfer. Please see our [EU Safe Harbor Privacy Policy](http://www.jackspade.com/helpdesk/index.jsp?display=safety&subdisplay=policy) for how we treat information that is collected in the European Union and then transferred to the United States.
+This Website is operated in the United States. If you are located in the European Union, Canada or elsewhere outside of the United States, please be aware that any information you provide to us will be collected in or transferred to the United States. By using our Website, participating in any of our services and/or providing us with your information, you consent to this transfer. Please see our EU Safe Harbor Privacy Policy for how we treat information that is collected in the European Union and then transferred to the United States.
 
 © 2009 Fifth & Pacific Companies, Inc. All rights reserved.
