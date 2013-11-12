@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the kbzbank.com privacy policy that was archived on 2013-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130308100112id_/http%3A//www.kbzbank.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kbzbank.com privacy policy that was archived on 2013-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131112151644id_/http%3A//www.kbzbank.com/en/privacy-policy.html) for the most accurate reproduction.*
 
-# KBZ Bank - Privacy Policy
+# Privacy Policy - Kanbawza Bank (KBZ Bank)
+
+##  [ Privacy Policy](http://www.kbzbank.com/en/privacy-policy.html)
 
 ## What we collect
 
@@ -44,3 +46,13 @@ You may choose to restrict the collection or use of your personal information in
   * if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us at [kbzinfo@kbzbank.com](mailto:kbzinfo@kbzbank.com)
 
 
+
+#### Exchange Rate (November 12, 2013 11:30)
+
+Unit| Buy| Sell  
+---|---|---  
+USD | 968 | 975  
+EUR | 1294 | 1312  
+SGD | 773 | 783  
+  
+﻿ 
