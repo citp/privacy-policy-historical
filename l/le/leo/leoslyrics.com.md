@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the leoslyrics.com privacy policy that was archived on 2013-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130423225528id_/http%3A//www.leoslyrics.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leoslyrics.com privacy policy that was archived on 2013-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131112171356id_/http%3A//www.leoslyrics.com/privacy.php) for the most accurate reproduction.*
 
 # 
 
@@ -160,4 +160,4 @@ LeosLyrics uses third parties to serve advertising, analyze traffic and provide 
 
 ## Contact Information 
 
-If users have any questions, disputes or suggestions regarding our privacy policy, please contact us here http://www.leoslyrics.com/email_us.php. 
+If users have any questions, disputes or suggestions regarding our privacy policy, please contact us here: <http://www.leoslyrics.com/contact.php>. 
