@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rapleaf.com privacy policy that was archived on 2013-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130313164828id_/http%3A//www.rapleaf.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rapleaf.com privacy policy that was archived on 2013-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131112140649id_/http%3A//www.rapleaf.com/privacy) for the most accurate reproduction.*
 
 # Rapleaf | Our Privacy Policy
 
@@ -9,7 +9,6 @@
 * * *
 
   * We never sell, rent, or lease email addresses to third parties. Ever.
-  * We don't store any information that any third party could use to contact or identify you.
   * We don't collect or work with sensitive data on children, or any person's health or medical conditions, sexual preferences, financial account information, ethnicity, or religious beliefs.
 
 
@@ -24,7 +23,7 @@
 
 Rapleaf helps our business clients develop better relationships with their customers. We believe in the power of transparency, choice, and control when it comes to personal information online. We view privacy and security as fundamental design requirements in our technologies and services and core to our business practices and operations.
 
-This Privacy Statement applies to data collected through all websites and domains maintained by Rapleaf including rapleaf.com, www.rapleaf.com, and blog.rapleaf.com (collectively, "the Websites"). The purpose of this privacy policy is to help you understand what information we collect and how we use it. We also provide an option for you to opt-out of the Rapleaf database if you choose to.
+This Privacy Statement applies to data collected through all websites and domains maintained by Rapleaf including rapleaf.com, www.rapleaf.com, and www.rapleaf.com (collectively, "the Websites"). The purpose of this privacy policy is to help you understand what information we collect and how we use it. We also provide an option for you to opt-out of the Rapleaf database if you choose to.
 
 ### Definitions:
 
@@ -36,15 +35,13 @@ Rapleaf data is structured around individual email addresses and contain persona
 
 When you visit the Rapleaf Websites, we may collect information from you. The information we gather falls into two categories: 1) personal information you voluntarily supply when you log into our Websites (such as first name and email) and 2) tracking information collected as you navigate through our sites.
 
-Personal Information: We may collect personally identifiable information you provide to us directly. Rapleaf permits any visitor to the Rapleaf Websites to access and edit the information we have stored in your Rapleaf report. We use the information you provide us to update your Rapleaf report and distribute it as part of the Rapleaf Database. At the Rapleaf Blog (blog.rapleaf.com) you can submit your email address to receive blog updates and you can leave comments. Information from these two sources is not used by Rapleaf for any other purpose than proper administration of the blog and the email list and not disclosed to third parties.
+Personal Information: We may collect personally identifiable information you provide to us directly. Rapleaf permits any visitor to the Rapleaf Websites to access and edit the information we have stored in your Rapleaf report. We use the information you provide us to update your Rapleaf report and distribute it as part of the Rapleaf Database. At the Rapleaf Blog (www.rapleaf.com) you can submit your email address to receive blog updates and you can leave comments. Information from these two sources is not used by Rapleaf for any other purpose than proper administration of the blog and the email list and not disclosed to third parties.
 
 You may view and edit your personal info with Rapleaf [here](https://dashboard.rapleaf.com/people/see_your_info?redirect_url=/people/see_your_info "See your info").
 
 Tracking Information: We may use industry standard technologies to track your use of our website and tailor your web experience.
 
 Cookies are small unique strings of letters and numbers that are stored on your computer to make it easier for you to use our site and for us to improve site functionality and improve security. We may use both session cookies (which expire once you close your browser) and persistent cookies (which stay on your computer until you delete them).
-
-We use both Rapleaf Display Media and cookies provided by third party vendors. These cookies include information that allows advertisers and content owners to improve your web experience. They may be used to tailor ad content both on the Rapleaf site as well as other sites that you may visit in the future. They may also collect data such as your browser type, your operating system, Web pages visited, time of visits, content viewed, and other clickstream data, none of which will include personal information about you.
 
 When you visit our rapleaf.com web site (or other web sites that we operate), or open an email you have received from us, we or one of our ad partners may place or recognize a unique cookie on your browser.  These cookies enable us to send you ads about our services, customize our services and gather analytics about our web traffic.  Additionally, emails we send to you may contain a bit of code known as a "web beacon."  This code allows us to understand the time and date of when a user has opened an email and when he/she has utilized a link within the email to visit a website, allowing us to collect analytics about our traffic, customize our services, and send you ads about our services.  Users wishing to disable our web beacons should do so by turning images "off" in their email client (e.g., Outlook, Outlook Express). Please see your email client for more information.
 
@@ -90,7 +87,7 @@ Business Transitions: In the event that Rapleaf goes through a business transiti
 
 ### Changes to this Statement:
 
-This Privacy Statement was last updated October 19, 2009. The prior policy is located here. A notice will be posted as part of this Privacy Statement and on our login pages for 30 days whenever this Privacy Statement is changed in a material way, highlighting both the old and new content in a way that makes the changes easy to understand.
+This Privacy Statement was last updated April 10, 2013. The prior policy is located here. A notice will be posted as part of this Privacy Statement and on our login pages for 30 days whenever this Privacy Statement is changed in a material way, highlighting both the old and new content in a way that makes the changes easy to understand.
 
 ### Contact Information
 
@@ -98,5 +95,6 @@ If you have questions about this statement, please e-mail our privacy administra
 
 Privacy Administrator  
 Rapleaf  
-667 Mission Street, 4th Floor  
-San Francisco, CA 94105
+222 Merchandise Mart Plaza  
+12th Floor - 1871  
+Chicago, IL 60654
