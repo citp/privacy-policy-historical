@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brainpulse.com privacy policy that was archived on 2013-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130527095714id_/http%3A//www.brainpulse.com/info/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brainpulse.com privacy policy that was archived on 2013-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131112102640id_/http%3A//www.brainpulse.com/info/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy Followed at Brainpulse Technologies
 
@@ -20,3 +20,5 @@ Any sensitive information collected from the users of the website is encrypted a
 ### Contact Form
 
 For any queries concerning our policies, please fill out the contact form. The user is required to provide certain information like name and email address and our representative will respond to your queries as soon as possible.
+
+March 7, 2013 By Tarun Gupta
