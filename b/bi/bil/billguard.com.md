@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the billguard.com privacy policy that was archived on 2013-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130424033255id_/https%3A//www.billguard.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the billguard.com privacy policy that was archived on 2013-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131112110434id_/https%3A//www.billguard.com/privacy) for the most accurate reproduction.*
 
-# BillGuard® | Protection for your credit cards and debit cards | Privacy & Security Policy
+# BillGuard® | The Smart Inbox For Your Money | Privacy & Security Policy
 
 ##  Privacy & Security Policy 
 
-Hi there. We realize legal documents like these are mostly never read but since you cared enough to click over, we want to take the opportunity to thank you and to tell you that your privacy and security are our top priorities at BillGuard. No, really. We're in the business of protecting you and that all starts with ensuring that your [financial data is safe.](https://web.archive.org/web/20130424033255id_/https%3A//www.billguard.com/secure) We do not sell your personal information to any third party, for any reason. 
+Hi there. We realize legal documents like these are mostly never read but since you cared enough to click over, we want to take the opportunity to thank you and to tell you that your privacy and security are our top priorities at BillGuard. No, really. We're in the business of protecting you and that all starts with ensuring that your [financial data is safe.](https://web.archive.org/web/20131112110434id_/https%3A//www.billguard.com/secure) We do not sell your personal information to any third party, for any reason. 
 
 We also go out of our way to request only the minimal information needed in order to notify you when BillGuard finds Grey Charges on your accounts. The text below explains how we use the information you provide us in as clear terms as possible but if anything is confusing or you'd just like to chat about it, please feel free to email me personally at yaron@billguard.com. I look forward to your email and thank you for the opportunity to earn your trust. We truly are safer together.
 
@@ -70,8 +70,8 @@ The Services may contain links to other sites that are not owned or controlled b
     2. We implement a variety of systems, applications and procedures to secure your Personal Information, to minimize the risks of theft, damage, loss of information, or unauthorized access or use of information. Among such security methods is the storing of Personal Information on cloud services, firewalls, encryption codes, authentication procedures and multi layer passwords. Furthermore, we implement employee supervision and prevent unnecessary access to data.
     3. Please keep your BillGuard password safe. We strongly advise that you do not share this information with any third parties or leave it exposed. Furthermore, we strongly advise you to change your password from time to time. Please also be aware that certain Personal Information and other information provided by you in connection with your use of the App may be stored on your mobile device (even if we do not collect that information). You are solely responsible for maintaining the security of your mobile device from unauthorized access.
   13. **Children’s Privacy** The Services are not structured to attract individuals under the age of 13. Accordingly, we do not intend to collect Personal Information from anyone we know to be under 13. 
-  14. **Contacting us** You may send us requests, responses, questions and complaints with respect to our Privacy Policy and privacy practices by using the Send Feedback form in the App, or by contacting us at [Feedback@BillGuard.com](mailto:feedback@billguard.com) or BillGuard Inc. 515 Broadway, 11th Floor, New York, NY 10036. 
+  14. **Contacting us** You may send us requests, responses, questions and complaints with respect to our Privacy Policy and privacy practices by using the Send Feedback form in the App, or by contacting us at [Feedback@BillGuard.com](mailto:feedback@billguard.com) or BillGuard Inc. 3 Columbus Circle, 15th Floor. New York, NY 10019. 
 
 
 
-Last update: February 25, 2013
+Last update: May 30, 2013
