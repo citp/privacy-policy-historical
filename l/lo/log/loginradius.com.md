@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the loginradius.com privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530070736id_/https%3A//www.loginradius.com/loginradius/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the loginradius.com privacy policy that was archived on 2013-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131112031512id_/https%3A//www.loginradius.com/loginradius/privacy) for the most accurate reproduction.*
 
 # Login Radius Integration | Social Login Plugin | Social Sharing – Login Radius
 
@@ -43,4 +43,4 @@ When you login into LoginRadius, you enter your username and password on your ID
 
 **Business Relationships:** LoginRadius is an internet service provided by LoginRadius Inc. - Canada. We do no’t have any business relation/affiliation with any of the Open ID/Authentication providers. We are not responsible for the terms of use and privacy policies for any of the integrated ID providers. Please visit their websites for more information about their privacy policies and terms of use. 
 
-**Contact:** For any questions on LoginRadius Privacy Policy, please write to us [here](https://web.archive.org/web/20130530070736id_/https%3A//www.loginradius.com/loginradius/Contact) or email us at **hello[at]loginradius[dot]com**. 
+**Contact:** For any questions on LoginRadius Privacy Policy, please write to us [here](https://web.archive.org/web/20131112031512id_/https%3A//www.loginradius.com/loginradius/Contact) or email us at **hello[at]loginradius[dot]com**. 
