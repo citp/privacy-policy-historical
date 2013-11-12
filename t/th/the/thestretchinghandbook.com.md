@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thestretchinghandbook.com privacy policy that was archived on 2013-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130513003017id_/http%3A//injuryfix.com/legal.php%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thestretchinghandbook.com privacy policy that was archived on 2013-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131112190628id_/http%3A//injuryfix.com/legal.php%23privacy) for the most accurate reproduction.*
 
 # Injury Fix™ - Legal Information, Policies and Disclaimers
 
@@ -6,7 +6,7 @@ Trademark
 Injury Fix™ and The Stretching Institute™ are registered trademarks of Walkerbout Health Pty Ltd. International Trademark #: 1 005 350. (United States Trademark Reg. No. 3,752,544) Any unauthorized use of this trademark will be aggressively defended though the appropriate legal processes.
 
 Copyright  
-This website and all its content are owned by Walkerbout Health Pty Ltd (Doing Business As) The Stretching Institute and Injury Fix. Copyright © 1995-2012. All rights reserved.
+This website and all its content are owned by Walkerbout Health Pty Ltd (Doing Business As) Injury Fix and the Stretching Institute. Copyright © 1995-2013. All rights reserved.
 
 Unless otherwise indicated, all content and materials on this website, including but not limited to the logo, designs, text, graphics, pictures, information, data, software, sound files, other files and the selection and arrangement thereof (collectively, "Website Content") are the proprietary property of Walkerbout Health Pty Ltd or its affiliates, licensors, suppliers or users and are protected by U.S. and international copyright laws.
 
@@ -42,7 +42,7 @@ The email address you provide for order processing, will only be used to send yo
 If you decide to opt-in to our mailing list, you will receive emails that may include company news, updates, related product or service information, etc.
 
 Opt-Out, Unsubscribe and Removal from our database  
-Removing your information from our database is easy. At the bottom of every email we send to you are options for unsubscribing and removing your information from our database. Either use the unsubscribe links at the bottom of the email, or [submit a ticket via our help desk](https://web.archive.org/web/20130513003017id_/http%3A//injuryfix.com/help/index.php?a=add) and one of our staff will remove you from our database.
+Removing your information from our database is easy. At the bottom of every email we send to you are options for unsubscribing and removing your information from our database. Either use the unsubscribe links at the bottom of the email, or [submit a ticket via our help desk](https://web.archive.org/web/20131112190628id_/http%3A//injuryfix.com/help/index.php?a=add) and one of our staff will remove you from our database.
 
 If you do submit a ticket via our help desk, please make sure you include the email address that you used when you subscribed, purchased one of our products or requested information from us: You can find this address at the bottom of every email we send to you.
 
@@ -76,13 +76,12 @@ If we decide to change our privacy policy we will post those changes on this pag
 This policy was last modified on October 18, 2012.
 
 Contacting Us  
-If there are any questions regarding this privacy policy you may contact us by [submitting an inquiry via our help desk](https://web.archive.org/web/20130513003017id_/http%3A//injuryfix.com/help/index.php?a=add), or using the information below.
+If there are any questions regarding this privacy policy you may contact us by [submitting an inquiry via our help desk](https://web.archive.org/web/20131112190628id_/http%3A//injuryfix.com/help/index.php?a=add), or using the information below.
 
 **Phone:** | 1-877-580-7771  
 ---|---  
 **Fax:** | 1-646-329-9820  
 **Mailing Address:** | Injury Fix  
-4747 36th Street  
-Suite 3208  
+4747 36th Street, Suite 3208  
 Long Island City, NY 11101  
 United States
