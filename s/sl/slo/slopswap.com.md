@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the slopswap.com privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601082947id_/http%3A//slopswap.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the slopswap.com privacy policy that was archived on 2013-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131112160859id_/http%3A//slopswap.com/privacy-policy) for the most accurate reproduction.*
 
-# Disclaimer, Disclosure, Privacy Policy - Slop Swap
+# Disclaimer, Disclosure, Privacy Policy - Slop Swap Coupons
 
 _These policies are valid starting from April 1, 2011._
 
-This blog, Slop Swap, is a personal blog written and edited by me. For questions about this blog, please [contact Dawn](http://slopswap.com/contact/).
+This blog, Slop Swap, is a personal blog written and edited by me. For questions about this blog, please [contact me](http://slopswap.com/contact/).
 
 **Disclaimer Policy**
 
@@ -71,7 +71,4 @@ We are committed to conducting our business in accordance with these principles 
 
 **Contact**  
 If you have any questions regarding this Policy, or your dealings with our web site, please contact us.  
-**Slop Swap**  
-**2227 Garfield Ave, Altoona, WI 54720**  
-**715.833.8558**  
-**dawn [at] slopswap.com**
+ 
