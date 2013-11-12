@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the telecompaper.com privacy policy that was archived on 2013-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130430160840id_/http%3A//www.telecompaper.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the telecompaper.com privacy policy that was archived on 2013-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131112172156id_/http%3A//www.telecompaper.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Telecompaper Privacy Policy
 
