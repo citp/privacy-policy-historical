@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the birthrightisrael.com privacy policy that was archived on 2013-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130523233744id_/http%3A//www.birthrightisrael.com/Pages/Privacy-Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the birthrightisrael.com privacy policy that was archived on 2013-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131112015933id_/http%3A//www.birthrightisrael.com/Pages/Privacy-Policy.aspx) for the most accurate reproduction.*
 
-# Taglit-Birthright Israel
+# Taglit - Birthright Israel
 
 Taglit-Birthright Israel, the Birthright Israel Foundation,Birthright Israel Excel and NEXT: A Division of Birthright Israel Foundation,  are each committed to respecting your online privacy and security. We have developed this joint privacy policy to assure our web visitors that information provided to the websites of Birthright Israel will not be shared with any third party. 
 
