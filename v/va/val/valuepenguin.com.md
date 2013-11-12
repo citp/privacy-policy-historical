@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the valuepenguin.com privacy policy that was archived on 2013-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130627202532id_/http%3A//valuepenguin.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the valuepenguin.com privacy policy that was archived on 2013-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131112183420id_/http%3A//www.valuepenguin.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Value Penguin
+# Privacy Policy
 
 Your privacy is important to us at ValuePenguin, and we work to protect the privacy of our visitors. Here’s our privacy policy:
 
