@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gotoassist.com privacy policy that was archived on 2013-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130528180734id_/http%3A//www.citrixonline.com/collaboration/privacy_overview_popup%3Fpopup%3Dtrue) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gotoassist.com privacy policy that was archived on 2013-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131112082322id_/http%3A//www.citrixonline.com/collaboration/privacy_overview_popup%3Fpopup%3Dtrue) for the most accurate reproduction.*
 
 # Privacy Policy Overview | Citrix Online
 
@@ -6,7 +6,7 @@
 
 * * *
 
-Last Updated on 09/07/2012
+Last Updated on 05/03/2013
 
 ## Introduction
 
@@ -20,10 +20,10 @@ This Privacy Policy Overview provides a short summary of our complete [Citrix On
 
 “We work every day to earn your trust and keep your information safe.”
 
-Brett Caine
+Chris Hylen
 
-Senior Vice President  
-General Manager Online Services Division
+Sr VP & GM  
+Software as a Service (SaaS)
 
 ## Information We Collect
 
