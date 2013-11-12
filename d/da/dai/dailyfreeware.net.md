@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the dailyfreeware.net privacy policy that was archived on 2013-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130509072247id_/http%3A//dailyfreeware.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailyfreeware.net privacy policy that was archived on 2013-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131112042316id_/http%3A//dailyfreeware.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Daily Freeware Download
-
-## Privacy Policy
 
 dailyfreeware.net, we recognize that privacy of your personal information is important.  
 Here is information on what types of personal information we receive  
@@ -41,4 +39,7 @@ http://www.echotopic.com/privacy.html
 
 Links  
 This site contains links to other web sites.  
-We are not responsible for the privacy practices or the content of any other site.
+We are not responsible for the privacy practices or the content of any other site. 
+
+  
+
