@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rgu.ac.uk privacy policy that was archived on 2013-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130629010911id_/https%3A//www.rgu.ac.uk/footer/privacy-and-cookie-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rgu.ac.uk privacy policy that was archived on 2013-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131113003348id_/http%3A//www.rgu.ac.uk/footer/privacy-and-cookie-statement) for the most accurate reproduction.*
 
 # Privacy Statement | Robert Gordon University (RGU) Aberdeen Scotland
 
@@ -78,7 +78,7 @@ For a video about cookies visit:
 
 [www.google.co.uk/goodtoknow/data-on-the-web/cookies](https://web.archive.org/FCA730C0-A677-11E1-AB44000D609CAA9F "Cookies video \(opens in new window\)")
 
-Cookies do lots of different jobs, like letting you navigate between pages efficiently, remembering your preferences, and generally improve the user experience. They can also help to ensure that adverts you see online are more relevant to you and your interests. The cookies used on this website have been categorised based on the categories found in the International Chamber of Ccommerce UK Cookie guide. A list of all the cookies used on this website by category is set out below.
+Cookies do lots of different jobs, like letting you navigate between pages efficiently, remembering your preferences, and generally improve the user experience. They can also help to ensure that adverts you see online are more relevant to you and your interests. The cookies used on this website have been categorised based on the categories found in the International Chamber of Commerce UK Cookie guide. A list of all the cookies used on this website by category is set out below.
 
 #### Category 1: strictly necessary cookies
 
@@ -128,7 +128,7 @@ If you are using  **Internet Explorer (IE) 8.0+:**
   * Go to 'Tools' in the menu bar which should drop down then click on 'Internet Options'
   * Click on 'Privacy' Tab on top
   * Click on 'Sites' a new window should open called 'Per Site Privacy Actions'
-  * Under the "Managed websites' box should be a list of all the webistes you have visited.
+  * Under the "Managed websites' box should be a list of all the websites you have visited.
   * To remove all cookies simply click on the "Remove all" button.
 
 
