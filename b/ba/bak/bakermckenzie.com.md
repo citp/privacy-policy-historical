@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bakermckenzie.com privacy policy that was archived on 2013-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130627205658id_/http%3A//www.bakermckenzie.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bakermckenzie.com privacy policy that was archived on 2013-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131112192746id_/http%3A//www.bakermckenzie.com/privacy) for the most accurate reproduction.*
 
 # Baker & McKenzie
 
