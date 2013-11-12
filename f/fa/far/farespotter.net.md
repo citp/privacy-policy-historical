@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the farespotter.net privacy policy that was archived on 2013-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130529181712id_/http%3A//farespotter.net/l1/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the farespotter.net privacy policy that was archived on 2013-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131112081232id_/http%3A//www.farespotter.net/l1/privacy-policy.html) for the most accurate reproduction.*
 
 # FareSpotter.net :: Privacy Policy
 
