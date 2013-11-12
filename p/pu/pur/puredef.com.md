@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the puredef.com privacy policy that was archived on 2013-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130503021413id_/http%3A//www.puredef.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the puredef.com privacy policy that was archived on 2013-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131112092455id_/http%3A//www.puredef.com/privacy.html) for the most accurate reproduction.*
 
 # Puredef.com - Get song lyrics, music downloads, and more!
 
