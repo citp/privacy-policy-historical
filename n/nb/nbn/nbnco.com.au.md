@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nbnco.com.au privacy policy that was archived on 2013-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130611105104id_/http%3A//nbnco.com.au/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nbnco.com.au privacy policy that was archived on 2013-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131112073405id_/http%3A//www.nbnco.com.au/privacy.html) for the most accurate reproduction.*
 
 # NBN Co - National Broadband Network - Australia | Privacy statement
 
@@ -108,6 +108,8 @@ This website may contain links or references to other websites to which this Pri
 
 **How to contact us**  
 If you wish to exercise your right to opt-out of receiving our marketing materials, or you have any questions or concerns about this Privacy Statement or our information practices, please contact us at:
+
+[privacyofficer@nbnco.com.au](mailto:privacyofficer@nbnco.com.au "Email privacyofficer@nbnco.com.au")
 
 **Changes to this Privacy Statement**  
 Our Privacy Statement may change from time to time. Before providing us with personal information, please check this Privacy Statement on our website.
