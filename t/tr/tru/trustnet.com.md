@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trustnet.com privacy policy that was archived on 2013-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130518091952id_/http%3A//www.trustnet.com/Education/PrivacyPolicy.aspx%3Fctr%3Dftr) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trustnet.com privacy policy that was archived on 2013-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131112183444id_/http%3A//www.trustnet.com/Education/PrivacyPolicy.aspx%3Fctr%3Dftr) for the most accurate reproduction.*
 
 # Privacy Policy | FE Trustnet
 
@@ -18,7 +18,7 @@ Further, Money Laundering legislation requires that we obtain information so as 
 You confirm that all information you supply is accurate. 
 
 **COOKIES**  
-In order to provide personalised services to and analyse site traffic, we may use a cookie file which is stored on your browser or the hard drive of your computer. Some of the cookies we use are essential for the site to operate. When you are asked to select an investor type, we make a record of your choice and put a cookie on your computer to ensure that you receive content which is designated to suit your requirements and complies with the rules set down by the Financial Services Authority about the type of information we can supply to different types of investor. 
+In order to provide personalised services to and analyse site traffic, we may use a cookie file which is stored on your browser or the hard drive of your computer. Some of the cookies we use are essential for the site to operate. When you are asked to select an investor type, we make a record of your choice and put a cookie on your computer to ensure that you receive content which is designated to suit your requirements and complies with the rules set down by the Financial Conduct Authority about the type of information we can supply to different types of investor. 
 
 You can block cookies by activating the setting on your browser which allows you to refuse the setting of all or some cookies. However, if you use your browser settings to block all cookies (including essential cookies) you may not be able to access all or part of our site. Unless you have adjusted your browser setting so that it will refuse cookies, our system will issue cookies as soon as you visit our site. 
 
