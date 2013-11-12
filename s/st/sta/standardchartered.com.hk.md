@@ -1,65 +1,130 @@
-> *The following text is extracted and transformed from the standardchartered.com.hk privacy policy that was archived on 2012-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120903005035id_/http%3A//www.standardchartered.com.hk/home/legal_data_main.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the standardchartered.com.hk privacy policy that was archived on 2013-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131112043820id_/http%3A//standardchartered.com.hk/privacy-policy-statement.html) for the most accurate reproduction.*
 
-# Standard Chartered (Hong Kong) Limited - Data Protection And Privacy PolicyData Protection And Privacy Policy
+# Privacy Policy Statement - Standard Chartered Bank Hong Kong
 
-This Data Protection and Privacy Policy relates solely to personal information supplied by you on this Web Site. It is necessary for you to supply Standard Chartered Bank (Hong Kong) Limited ("the Bank") with personal information on this Web Site in connection with the provision of the services you have requested or are about to request at this Web Site. Failure to supply such information may result in the Bank being unable to provide these services. 
+The purpose of this Privacy Policy Statement is to set out the policies and practices of the _Bank's_ commitment to protecting personal data privacy in accordance with the provisions of the Personal Data (Privacy) Ordinance.
 
-The Bank respects the privacy of your personal information. The purposes for which any personal information provided by you to the Bank through this Web Site may be used will vary depending on the nature of the relationship which you as a data subject have with the Bank. Broadly, they may comprise all or any one of more or the following purposes :- 
+Kind of Personal Data Held
 
-| i. | the processing of applications for banking services and facilities;   
----|---  
-ii. |  the daily operation of the services and facilities provided to its customers;   
-iii. | conducting credit checks;   
-iv. |  assisting other financial institutions to conduct credit checks and collect debts;   
-v.  | ensuring ongoing credit worthiness of data subjects;  
-vi. |  designing financial services or related products for customers' use;  
-vii.  | marketing financial services or related products;   
-viii. |  determining the amount of indebtedness owed to or by data subjects;   
-ix. |  the enforcement of data subjects' obligations, including without limitation the collection of amounts outstanding from data subjects and those providing security for data subjects' obligations;   
-x.  | meeting the requirements to make disclosure under the requirements of any law binding on the Bank or its head office or any of its branches;   
-xi.  | enabling an actual or potential assignee of the Bank, or participant or sub-participant of the Bank's rights in respect of the data subject, to evaluate the transaction intended to be the subject of the assignment, participation or sub-participation; and   
-xii. |  purposes relating to any of the above purposes.   
-  
-This Policy will not alter or affect any information otherwise provided by you to the Bank. 
+There are two broad categories of personal data held in the _Bank_. They comprise personal data contained in the following:
 
-The details which you are requested to provide on this Web Site may be transferred within the Standard Chartered Bank Group. This may include transfer to other parts of the Standard Chartered Bank Group in different jurisdictions and by using this Web Site you consent to such transfer. In providing your telephone and facsimile numbers you are agreeing that the Bank may contact you by telephone and facsimile. Other than to those individuals and entities listed below, the Bank will not reveal your details to any external body, unless the Bank either has your permission, or is under a legal obligation or any other duty to do so. The information provided by you at this Web Site may be disclosed by the Bank to the following parties for the purposes set out in the foregoing paragraphs: 
+I. Customer records, which are necessary for customers to supply to the Bank from time to time in connection with matters such as:
 
-  * Regulators; 
-  * Lawyers; 
-  * Auditors; 
-  * Any agent, contractor or third party service provider who provides administrative, telecommunications, computer, payment or securities clearing or other services to the Bank in connection with the operation of its business; 
-  * Any other person under a duty of confidentiality to the Bank including a group company of Standard Chartered Bank which has undertaken to keep such information confidential; 
-  * The drawee bank providing a copy of a paid cheque (which may contain information about the payee) to the drawer; 
-  * Credit reference agencies and, in the event of default, debt collection agencies; 
-  * Any actual or proposed assignee of the Bank or participant or sub-participant or transferee of the Bank's rights in respect of the data subject. 
+  1. (a)the opening or operation of _accounts_ ; 
+  2. the establishment or maintenance of facilities; and/or
+  3. the establishment or operation or provision of products or services offered by or through the Bank (which include banking, _cards_ , financial, insurance, fiduciary, securities and/or investments products and services as well as products and services relating to these); (collectively, _Facilities_ , _Products_ and _Services_ ); and/or
+(b) the receipt of supplies and services to the _Bank_. 
 
 
+II. Personnel records, which include but are not limited to C.V.s; application forms; references; appraisal and disciplinary records; salary, pension and benefits details; results of medical, security and financial checks; sickness records; personal contact details; bank account and tax details of employees (including potential employees, as applicable); and any other information relevant to the purposes set out in paragraph IV.
 
-The Bank wishes to assure you that your personal information will be treated as confidential and with high standards of security. The Bank pledges its intention fully to meet internationally recognised standards of personal data privacy protection and to comply with the requirements of applicable data protection/privacy laws. In doing so, we will ensure compliance by our staff with the strictest standards of security and confidentiality. In addition Standard Chartered Bank Group has implemented a mandatory IT security policy, which is intended to achieve a level of security compliance similar to the relevant elements of British Standard 7799. 
+Main Purposes of Keeping Personal Data
 
-However, it is your responsibility at all times to maintain the secrecy of your user ID and login password. 
+I. In relation to customers: the purposes for which any personal data collected by the _Bank_ about customers may comprise all or any one or more of the following:
 
-Personal data provided by you are retained for as long as the purposes for which such data were collected continue. Data are then destroyed unless their retention is required to satisfy legal, regulatory or accounting requirements or to protect the Bank's interests. As a general rule the maximum retention period is 7 years. 
+  1. processing applications from customers (including assessing the merits and/or suitability of the customers' application(s)) for the establishment of _Facilities_ , _Products_ and _Services_ ;
+  2. operating, maintaining and providing _Facilities_ , _Products_ and _Services_ to customers; 
+  3. conducting credit checks on customers (whether in respect of an application for _Facilities_ , _Products_ and _Services_ or during regular or special review);
+  4. creating and maintaining the _Bank's_ credit scoring models;
+  5. maintaining credit history of customers for present and future reference;
+  6. assisting other financial institutions to conduct credit checks and collect debts;
+  7. ensuring ongoing credit worthiness of customers;
+  8. designing banking, _cards_ , financial, insurance, securities and investment services or related products for customers' use;
+  9. marketing services, products and other subjects as set out in more detail in our ["Notice to customers and other individuals relating to the Personal Data (Privacy) Ordinance and the Code of Practice on Customer Credit Data"](http://www.standardchartered.com.hk/_document/pdf/en/gn050.pdf)
+  10. determining the amount of indebtedness owed to or by customers;
+  11. enforcement of customers' obligations, including without limitation the collection of amounts outstanding from customers and those providing security for customers' obligations;
+  12. meeting or complying with any obligations, requirements or arrangements for disclosing and using data that apply to the _Bank_ or any other member of the _Standard Chartered Group_ or that it is expected to comply according to:- 
+    1. any law or regulation binding on or applying to it within or outside the _Hong Kong_ existing currently and in the future;
+    2. any guidelines or guidance given or issued by any legal, regulatory, governmental, tax, law enforcement or other authorities, or self-regulatory or industry bodies or associations of financial services providers within or outside _Hong Kong_ existing currently and in the future;
+    3. any present or future contractual or other commitment with local or foreign legal, regulatory, governmental, tax, law enforcement or other authorities, or self-regulatory or industry bodies or associations of financial services providers that is assumed by or imposed on the _Bank_ or any member of the _Standard Chartered Group_ by reason of its financial, commercial, business or other interests or activities in or related to the jurisdiction of the relevant local or foreign legal, regulatory, governmental, tax, law enforcement or other authority, or self-regulatory or industry bodies or associations;
+  13. meeting or complying with any obligations, requirements, policies, procedures, measures or arrangements for sharing data and information within the _Standard Chartered Group_ and/or any other use of data and information in accordance with any group-wide programmes for compliance with sanctions or prevention or detection of money laundering, terrorist financing or other unlawful activities;
+  14. enabling an actual or potential assignee of all or any part of the business and/or asset of the _Bank_ or participant or sub-participant of the _Bank's_ rights in respect of the customers, to evaluate the transaction intended to be the subject of the assignment, participation or sub-participation, and/or
+  15. any other purposes relating to the purposes listed above.
 
-In order to improve our Internet service to you, we occasionally use "cookies". Cookies are small data files that our web server sends to your web browser when you visit certain parts of our site. We use cookies to:
 
-1 | allow our web server to determine whether the cookies setting on your web browser has been enabled or disabled so that we will know whether data can be collected from your web browser;   
----|---  
-2 |  track your visits to our site and recognise your web browser when you are a repeat visitor so that we can gather statistics on the number of new and repeat visitors and evaluate site effectiveness;  
-3 | temporarily store information on your link preferences and your path between pages on our site to give us insight on ways to further improve our site to provide a more useful and enriching site experience;   
-4 |  store your preference of online services login to avoid your having to re-select that option when you re-visit our site;  
-5 | temporarily identify you after you have logged in on a secured page on our site so that our web browser can maintain a dialogue with your web browser in order for you to carry out certain activities; and  
-6 |  temporarily allow you to carry information across pages on our site to avoid having to re-enter that information, including recording items you add to a shopping cart function for bonus points redemption at [www.manhattancard.com ](http://www.manhattancard.com/).   
-  
-These cookies do not collect or store your name, address or any personal information. Most web browsers are initially set up to accept cookies. You may disable the cookies by changing the setting on your web browser. Please note, however, that you may not be able to use certain functionalities or login to secured pages on our site, including our Online Banking site at <http://www.standardchartered.com.hk/login/>, if cookies are disabled . For more details on enabling or disabling cookies, please refer to your Internet browser software instructions, "Help" screen, or visit a third party website such as [http://www.allaboutcookies.org ](http://www.allaboutcookies.org/). 
 
-The Bank reserves the right to amend its prevailing Data Protection and Privacy Policy at any time and will place any such amendments on this Web Site. This Data Protection and Privacy Policy is not intended to, nor does it, create any contractual rights whatsoever or any other legal rights, nor does it create any obligations on the Bank in respect of any other party or on behalf of any party. Nothing in this Notice shall limit the rights of data subjects under the Personal Data (Privacy) Ordinance, Chapter 486 of the Laws of Hong Kong, SAR. 
+II. In relation to employees: the purposes for which any personal data collected by the _Bank_ about employees may comprise any or all of the following:-
 
-You have the right to ascertain the Bank's policies and practices in relation to personal data, to be informed of the kind of personal data held by the Bank and to check whether the Bank holds data about you. You also have the right to request correction of and, on payment of a fee, access to personal information about you held by us. In relation to consumer credit you also have the right to request to be informed which items of data are routinely disclosed to credit reference agencies and, in the event of default, to debt collection agencies, and to be provided with further information to enable the making of an access or correction request to the relevant credit reference agency or debt collection agency. If you wish to access or to ask for correction or deletion of any of your personal data held by us, or if you have any questions concerning our data protection and privacy policies and practices and kinds of personal data held, please contact our Data Protection Officer at: 
+  1. processing employment application;
+  2. apprising employees' job performance and making decisions about employees' promotion, training, transfer, redeployment or career development; 
+  3. determining, calculating and reviewing employees' salary, bonuses and any other staff benefits including pension entitlements;
+  4. processing payment of employees' salary, other authorised expenses or benefits to employees' account or by any other means;
+  5. taking appropriate action in event of emergencies; 
+  6. complying with any statutory requests received from relevant public authorities/agencies; 
+  7. any purpose required by law or regulation; 
+  8. disciplinary purposes arising from employees' conduct or employees' ability to perform their job requirements; 
+  9. providing references/reports to potential employers, financial institutions, legal representatives, and other appropriate bodies;
+  10. planning succession and talent management initiatives;
+  11. monitoring compliance with regulatory requirements and the _Standard Chartered Group's_ internal policy requirements;
+  12. enabling the _Standard Chartered Group_ to make decisions and/or policies concerning its employees generally;
+  13. enabling auditors to conduct regular reviews of the _Standard Chartered Group's_ business and operations;
+  14. supporting any business, technical, administrative or security function required by the _Standard Chartered Group_ 's operations, including, but not limited to: communication and processing systems; accident/ sickness insurance; security of staff, systems and premises (CCTV; card entry systems; IT security systems); telephone recording; contingency planning; systems development and testing; monitoring internet and telephone usage; business and financial, monitoring planning and decision making.
 
-**STANDARD CHARTERED BANK (HONG KONG) LIMITED  
-GPO Box 21 , Hong Kong **
 
-_Last Updated: October 2010_
 
-**COPYRIGHT © 2011 STANDARD CHARTERED PLC. ALL RIGHTS RESERVED.**
+Retention of personal data
+
+Personal data provided by customers and employees are retained for as long as the purposes for which such data were collected continue. As a general rule the maximum retention period is 7 years.
+
+Use of cookies
+
+Cookies are small data files which are placed on your device when you visit certain parts of our website or click on our online advertisements. Cookies and similar technologies are used to identify your device for the following purposes:-
+
+(i) Strictly necessary cookies. These essential cookies are set throughout our website and are required for the operation of our website to:
+
+  * allow our web server to determine whether the cookies setting on your web browser has been enabled or disabled. This allows us to know whether data can be collected from your web browser;
+  * temporarily allow you to carry information between pages of our website to avoid having to re-enter that information;
+  * temporarily identify your device after you have logged in to a secure page on our website so that our web server can maintain a dialogue with your web browser in order for you to carry out certain activities.
+
+
+
+(ii) Analytical/performance cookies. These are used to help us improve our website by:
+
+  * tracking your visits to our website and recognising your web browser when you are a repeat visitor so that we can gather statistics on new and repeat visitors to evaluate site effectiveness.
+
+
+
+(iii) Functionality cookies. These are used to recognise you when you return to our website. This enables us to:
+
+  * personalise our content for you and remember your preferences (for example, your choice of language and region);
+  * store your login and other preferences so you do not have to re-enter that information when you return to the website.
+
+
+
+(iv) Targeting / advertising cookies. These cookies record your visit to our website, your response to our online advertisements, track the pages you have visited and the website links you have followed. We use this information to:
+
+  * make our website more relevant to your interests;
+  * provide online advertisements or offers on our website or third-party websites which are most likely to interest you;
+  * evaluate the effectiveness of our online marketing and advertising programs.
+
+
+
+The above cookies may be placed on your device by us or by third parties on our behalf (for example, advertising networks and providers of external services like web traffic analysis services). No personally identifiable information about you is collected or shared with third parties as a result of this research.
+
+_Most web browsers are initially set up to accept cookies. You can choose to 'not accept' cookies by changing the settings on your web browser but if you block all cookies, including strictly necessary cookies, you may find that certain features on our website will not work properly._
+
+For further details of the _Bank's_ Website Privacy Statement, please visit : ([http://www.standardchartered.com.hk/website-privacy-statement.html](https://web.archive.org/website-privacy-statement.html)). 
+
+Accessing your personal data
+
+You have the right to access and update your information and contact us. If you have any question about our Privacy Policy Statement, please write to us at:
+
+Data Protection Officer   
+Standard Chartered Bank (Hong Kong) Limited   
+GPO Box 21, Hong Kong 
+
+In this Privacy Policy Statement, unless inconsistent with the context or otherwise specified, the words in italic shall have the following meanings:
+
+_account_ means, for each facility, service or product which the _Bank_ may from time to time make available to the customers, the account that is, opened and/or maintained in respect of it from time to time.
+
+_card_ means an ATM card, a debit card, a credit card, or a revolving card or all of them, as the context requires.
+
+_Hong Kong_ means the Hong Kong Special Administrative Region.
+
+_Standard Chartered Group_ means each of or collectively Standard Chartered PLC and its subsidiaries and affiliates (including each branch or representative office).
+
+Should there be any inconsistencies between the English and Chinese versions, the English version shall prevail.
+
+Standard Chartered Bank (Hong Kong) Limited
+
+July 2013
