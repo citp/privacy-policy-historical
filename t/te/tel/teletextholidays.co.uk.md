@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the teletextholidays.co.uk privacy policy that was archived on 2013-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130514113109id_/http%3A//www.teletextholidays.co.uk/Home/Holidays/About/Privacy%2520and%2520Cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teletextholidays.co.uk privacy policy that was archived on 2013-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131112043359id_/http%3A//www.teletextholidays.co.uk/Home/Holidays/About/Privacy%2520and%2520Cookies) for the most accurate reproduction.*
 
 # Privacy and Cookies Policy
 
-**Effective from  10 May 2012 **
+**Effective from  10 September 2013 **
 
 This privacy policy applies only to this website (the "Site"). If you do not accept this privacy policy, you must not use the Site.
 
@@ -222,40 +222,62 @@ By using this Site, you agree that we may collect, hold, process and use your in
 
  **Sharing Your Personal Information**
 
-We may share information about you with suppliers that we engage to help us provide certain services and/or functionality e.g online payment processing. We will use reasonable endeavours to control and be responsible for the use of your information by such suppliers. Furthermore, by using the Site, you consent to the transfer of your personal information outside of the European Economic Area (which may not provide the same protection for such information as the European Economic Area provides) in the event that the processing of your information involves such a transfer. 
+We want everything to go smoothly for you with your holiday booking or enquiry, so we may share information about you with our suppliers and partners, to help us provide certain services and to process your booking. We take full responsibility for your information, and will use reasonable endeavours to make sure proper security measures are in place, and that we control the use of your information by these suppliers and partners. By using the Site, you consent to the transfer of your personal information outside of the European Economic Area (where controls on data protection may not be as strong as the legal requirements in this country).
 
-We may disclose your information (including personal information) to other companies within the Daily Mail and General Trust plc group of companies (the “DMGT Group”, see [www.dmgt.co.uk](http://www.dmgt.co.uk/) for further information) and may use and share within the DMGT Group information that we learn from your interactions with us and other companies within the DMGT Group. 
+We are part of the Daily Mail and General Trust plc group of companies (the “DMGT Group”, see [www.dmgt.co.uk](http://www.dmgt.co.uk/) to find out more), so we may disclose your information (including personal information) to other companies within the DMGT Group. We may also use and share within the DMGT Group information what we learn from your interactions with us and other companies within the DMGT Group.
 
-Subject to your consent, your personal information may be used by us and/or other companies within the DMGT Group to contact you by email, fax, telephone, SMS and/or post with information and offers on products/services provided by us and/or other companies within the DMGT Group.   
-Subject to your consent, we may supply personal information about you to selected third parties so that they may contact you with information and offers which may be of interest to you.
+Our suppliers and partners may collect, use and share with us, your personal information and information about your enquiries, bookings, transactions and interactions with them. We may use this information for our own future marketing purposes (or the future marketing purposes of the DMGT group) and share it with the DMGT group. The telephone number you call us or one of our partners from, along with any other number you provide on the call, may be used for our future marketing purposes, for example outbound telemarketing or SMS.
 
-We reserve the right to disclose your personal information to comply with applicable laws and government or regulatory bodies’ lawful requests for information. 
+We would like to hold your information (including email address) for our own future marketing purposes. So your personal information may be used by us and other companies within the DMGT Group to contact you by email, fax, telephone, SMS, social media, electronic messaging or post - with information and offers on products, services, discounts or promotions (provided by us and/or other companies within the DMGT Group) that we think may be of interest to you. If you do not wish to receive such approaches in the future, please inform us straight away.
 
-We may transfer, sell or assign any of the information described in this policy to third parties as a result of a sale, merger, consolidation, change of control, transfer of assets or reorganisation of our business. 
+We will hold information about you relating to previous enquiries, bookings and other transactions and interactions, to provide you with relevant information about products, services, discounts and special offers (provided by us, our suppliers and partners, or other companies from within and outside of the DMGT group) that may be of interest to you, in our future marketing activity. We may share this information with our suppliers and partners in order for them to provide you with better or more relevant service.
 
-**Keeping Your Personal Information Secure**
+If you’ve provided your consent, we may supply personal information about you to carefully selected third parties, so that they may contact you with information and offers which may be of interest to you. The information may be provided to security or credit checking companies, government or regulatory bodies, or as required by law.
 
-We take the security of your personal information very seriously and have appropriate physical, technical and administrative procedures in place to help protect your personal information from unauthorized access, use or disclosure as required by law in England. 
+We may transfer, sell or assign any of the information described in this policy to third parties as a result of a sale, merger, consolidation, change of control, transfer of assets or reorganisation of our business.
 
-**Accessing Your Personal Information**
+ **Keeping Your Personal Information Secure**
 
-If you wish to review or receive copies of the personal information we hold about you, change your marketing preferences or have any other queries about this privacy policy, please write to us (including full details of your request) at the following address: 
+We take the security of your personal information very seriously and have appropriate physical, technical and administrative procedures in place to help protect your personal information from unauthorized access, use or disclosure as required by law in England. We may use third party companies to manage collation, process and storage of your personal data on your behalf. These companies are carefully selected and screened to ensure maximum protection of your security and privacy and are permitted to use the data only in line with our instructions.
+
+Some of your information may be ‘sensitive personal data’. You are responsible for making sure that other members of your party are aware of our privacy policy.
+
+If you believe any of your personal information that we hold is incorrect, please write to us immediately. We cannot be held responsible for any problems arising from inaccurate information that you have provided to us.
+
+We cannot be held responsible for any issues concerning your data collected by website that are not directly under our control. Please also be aware that individual organisation operate their own policies for the use and sale of personal information and the use of cookies.
+
+ **Accessing Your Personal Information**
+
+If you wish to review or receive copies of the personal information we hold about you or have any other queries about this privacy policy, please write to us (including full details of your request) at the following address: 
 
 Privacy Team   
 Teletext Limited   
 9th Floor   
 Holborn Tower   
-137-144 High Holborn   
+137-144 High Holborn  
 London   
-WC1V 6PW 
+WC1V 6PW  
 
-We may charge a small administration fee (not exceeding the maximum permitted by law in England) in relation to fulfilling a request for access to personal information. 
 
-**Unsubscribing from emails**
+We may charge a small administration fee (not exceeding the maximum permitted by law in England) in relation to fulfilling a request for access to personal information.
 
-If you wish to unsubscribe from emails from teletextholidays.co.uk, please click on the unsubscribe link in your email or amend your email preferences [here](http://www.pages04.net/teletextholidaysltd/PrefCenter? "here"). 
+ **Unsubscribing from emails or changing the consents you have given**
 
-**Changes to this Privacy Policy**
+If you wish to unsubscribe from emails from teletextholidays.co.uk, please click on the unsubscribe link in your email or amend your email preferences [here](https://web.archive.org/Holidays/My-holidays/My-Preferences "here").
 
-If we change this privacy policy, we will post the revised privacy policy here with an updated effective date. If we make significant changes to the privacy policy, we may also notify you by other means such as sending an email or posting a notice on our home page.   
+To change the consents you have given us for future marketing activity, please write to: 
 
+Privacy Team   
+Teletext Limited   
+9th Floor   
+Holborn Tower   
+137-144 High Holborn  
+London   
+WC1V 6PW  
+
+
+Please provide your full name, full address including postcode, full email address, and the details of the request. We will endeavour to update your record as soon as we can.
+
+ **Changes to this Privacy Policy**
+
+If we change this privacy policy, we will post the revised privacy policy here with an updated effective date. If we make significant changes to the privacy policy, we may also notify you by other means such as sending an email or posting a notice on our website.
