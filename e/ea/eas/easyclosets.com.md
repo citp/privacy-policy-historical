@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the easyclosets.com privacy policy that was archived on 2013-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130510024234id_/http%3A//www.easyclosets.com/custom-service/policies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the easyclosets.com privacy policy that was archived on 2013-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131112225516id_/http%3A//www.easyclosets.com/custom-service/policies) for the most accurate reproduction.*
 
-# Policies | EasyClosets
+# EasyClosets Policies | EasyClosets
 
 ### Discount Policy
 
@@ -14,7 +14,7 @@
 
 ### Our Warranty
 
-We stand behind our Quality Craftsmanship. We proudly offer a Limited Lifetime Warranty covering defects in materials and workmanship for all of our closet organizers for as long as you live in your home. We will repair or replace any defective part of any damaged in transit without charge. If at any time, you discover any defect in our material or in the workmanship of our product, please contact our dedicated representatives so that they can ensure that these issues are addressed immediately. We are dedicated to ensuring that the purchase of our closet organizers is a safe, enjoyable experience. We want you to be so satisfied with our closet organizers that you tell a friend about us.
+We stand behind our quality craftsmanship and proudly offer a Limited Lifetime Warranty covering defects in materials and workmanship for all of our organization systems for as long as you live in your home. We will repair or replace any defective part of any damaged in transit without charge. If at any time, you discover any defect in our material or in the workmanship of our product, please contact our dedicated representatives so that they can ensure that these issues are addressed immediately. We are dedicated to ensuring that the purchase of our organization systems is a safe, enjoyable experience. We want you to be so satisfied with our organization systems that you tell a friend about us.
 
 *Terms and Conditions apply. [See Warranty for complete terms and conditions](http://www.easyclosets.com/easyclosets/closet-organizers-warranty/).
 
@@ -31,7 +31,7 @@ EasyClosets uses a cookie, a small file stored on your computer, to allow you to
 
 ### Additional Parts Policy
 
-We are happy to sell you additional parts should you decide you want to modify a closet organizer purchased from our company, (ie: shelves, closet rods, drawers, baskets or hardware). Just call our Post Sales Team at 800-910-0129 option 5 during business hours. We can verify your previous order with your name, invoice number or email address and gladly assist you with your parts order!
+We are happy to sell you additional parts should you decide you want to modify an organization system purchased from our company, (ie: shelves, closet rods, drawers, baskets or hardware). Just call our Post Sales Team at 800-910-0129 option 5 during business hours. We can verify your previous order with your name, invoice number or email address and gladly assist you with your parts order!
 
   
 
