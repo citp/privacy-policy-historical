@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the stanbicibtc.com privacy policy that was archived on 2013-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130305120321id_/http%3A//www.stanbicibtc.com/NigeriaGroup/Home/Privacy-and-security-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stanbicibtc.com privacy policy that was archived on 2013-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131112013758id_/http%3A//www.stanbicibtc.com/NigeriaGroup/Home/Privacy-and-security-statement) for the most accurate reproduction.*
 
-# None
+# 
 
 **Privacy and security statement**
 
