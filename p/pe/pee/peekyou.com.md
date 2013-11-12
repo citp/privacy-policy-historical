@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the peekyou.com privacy policy that was archived on 2013-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130331040105id_/http%3A//www.peekyou.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the peekyou.com privacy policy that was archived on 2013-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131112151735id_/http%3A//www.peekyou.com/privacy) for the most accurate reproduction.*
 
 # PeekYou | Business Solutions | Privacy Policy
 
