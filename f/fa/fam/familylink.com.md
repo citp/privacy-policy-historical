@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the familylink.com privacy policy that was archived on 2013-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130509202101id_/http%3A//www.familylink.com/FLPrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the familylink.com privacy policy that was archived on 2013-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131112191238id_/http%3A//www.familylink.com/FLPrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # FamilyLink.com - Privacy Policy
 
@@ -105,4 +105,4 @@ Your use of FamilyLink, and any disputes arising from it, is subject to this Pri
 
 ## Contacting the Web Site
 
-If you have any questions about this privacy policy, please send an email via our [contact form](https://web.archive.org/customerservice.aspx?cu=contactus). You may also contact us by mail at 4778 N 300 W, Suite 230, Provo, UT 84604.
+If you have any questions about this privacy policy, please send an email via our [contact form](https://web.archive.org/customerservice.aspx?cu=contactus). You may also contact us by mail at 2975 Executive Parkway Ste 310 Lehi, UT 84043.
