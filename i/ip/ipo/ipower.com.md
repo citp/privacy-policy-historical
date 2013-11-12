@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ipower.com privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502100025id_/http%3A//www.ipower.com/legal/legal_privacy.bml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ipower.com privacy policy that was archived on 2013-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131112133730id_/http%3A//www.ipower.com/legal/legal_privacy.bml) for the most accurate reproduction.*
 
 # IPOWER's Privacy Policy
 
@@ -80,4 +80,4 @@ Please note: IPOWER reserves the right to send you email communications that rel
 
 
 
-This file was last modified December 10, 2012. [View comparison version.](https://web.archive.org/web/20130502100025id_/http%3A//www.ipower.com/legal/legal_privacy.bml?showchanges=1)
+This file was last modified June 21, 2013. [View comparison version.](https://web.archive.org/web/20131112133730id_/http%3A//www.ipower.com/legal/legal_privacy.bml?showchanges=1)
