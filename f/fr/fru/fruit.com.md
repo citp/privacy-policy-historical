@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fruit.com privacy policy that was archived on 2013-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130507083718id_/http%3A//shop.fruit.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fruit.com privacy policy that was archived on 2013-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131112020054id_/http%3A//shop.fruit.com/info/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Fruit of the Loom
 
@@ -14,6 +14,6 @@ Fruit of the Loom, Inc. uses industry-standard security measures to safeguard th
 
 Nothing herein shall prevent Fruit of the Loom, Inc. and its affiliates from using information provided to us, by email or otherwise, in investigating claims or complaints, or defending Fruit of the Loom, Inc. and its affiliates and their employees against claims or complaints.
 
-If you wish to review or change your personally identifiable information, you may do so by filling out the form on the [contact page](http://www.fruit.com/contact). Fruit of the Loom, Inc. will send you an email stating any personally identifiable information it has stored concerning you and will make specific changes you may request.
+If you wish to review or change your personally identifiable information, you may do so by filling out the form on the [contact page](http://www.fruit.com/contact.html). Fruit of the Loom, Inc. will send you an email stating any personally identifiable information it has stored concerning you and will make specific changes you may request.
 
-If you have questions about Fruit of the Loom, Inc. privacy policy or practices, please [click here](http://www.fruit.com/contact) to let us know.
+If you have questions about Fruit of the Loom, Inc. privacy policy or practices, please [click here](http://www.fruit.com/contact.html) to let us know.
