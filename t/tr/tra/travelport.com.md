@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the travelport.com privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501023240id_/http%3A//travelport.com/Privacy-Policy/Travelport%2520GDS) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the travelport.com privacy policy that was archived on 2013-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131112194126id_/http%3A//www.travelport.com/Privacy-Policy/Travelport%2520GDS) for the most accurate reproduction.*
 
 # Travelport | Privacy Policy - Travelport GDS
 
@@ -88,7 +88,7 @@ F: +1 770-563-7878
 **Publication and Effective Date  
 **This policy is published by Travelport, LP on behalf of the Travelport group companies.  Travelport, LP is a Delaware USA limited partnership with its principal place of business located at 300 Galleria Parkway, Atlanta, Georgia 30339, USA, T: +1 770-563-7400, F: +1 770-563-7878. We may update this policy from time to time and will post a prominent notice to inform users about significant changes.
 
-Effective Date: This policy was last updated on October 5, 2012. [Click here](https://web.archive.org/japan/~/media/Corporate/PrivacyPolicy/Travelport-Privacy-Policy-Effective-Feb09-2010.ashx) to view prior version.
+Effective Date: This policy was last updated on October 5, 2012. [Click here](https://web.archive.org/web/20131112194126id_/http%3A//www.travelport.com/Privacy-Policy/~/media/Corporate/PrivacyPolicy/Travelport-Privacy-Policy-Effective-Feb09-2010.ashx) to view prior version.
 
  
 
