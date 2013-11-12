@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the twenty19.com privacy policy that was archived on 2013-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130612030505id_/http%3A//www.twenty19.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the twenty19.com privacy policy that was archived on 2013-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131112102656id_/http%3A//www.twenty19.com/privacy_policy) for the most accurate reproduction.*
 
-# Privacy Policy | Twenty19.com
+# Privacy Policy | Twenty19
 
 ## Overview
 
@@ -16,7 +16,7 @@ We also gather or may gather certain information about your use of our site, suc
 
 Twenty19 may sometimes afford you the opportunity to provide descriptive, cultural, behavioral and preferential and/or life style information about yourself, but it is solely up to you whether you furnish such information. If you do provide such information, you are thereby consenting to the use of that information in accordance with the policies and practices described in this Statement. For example, such information may be used for the purpose of determining your potential interest in receiving email or other communications about particular products or services.
 
-Please remember that if you post any of your personal information in public areas of Twenty19.com, such as in online forums or chat rooms, such information may be collected and used by others over whom Twenty19 has no control. We are not responsible for the use made by third parties of information you post or otherwise make available in public areas of this website.
+Please remember that if you post any of your personal information in public areas of Twenty19, such as in online forums or chat rooms, such information may be collected and used by others over whom Twenty19 has no control. We are not responsible for the use made by third parties of information you post or otherwise make available in public areas of this website.
 
 Since we believe that managing your career is a life-long process, we retain indefinitely all the information we gather about you in an effort to make your repeat use with us more efficient, practical, and relevant. Of course, you can correct or update your account profile and resume at any time. Moreover, you can delete your resume from our online database or close your account at any time, in which event we will remove all our copies of your resume and your account profile information except for an archival copy which is not accessible on the internet.
 
@@ -30,7 +30,7 @@ Like many web sites, we set and use cookies to enhance your user experience, suc
 
 ## Integration with Facebook
 
-Data fetched from a user's Facebook account will be used to create a profile on Twenty19.com.
+Data fetched from a user's Facebook account will be used to create a profile on Twenty19.
 
 ## Changes to this Privacy Policy
 
