@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nls.uk privacy policy that was archived on 2013-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130511233500id_/http%3A//www.nls.uk/about-us/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nls.uk privacy policy that was archived on 2013-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131112040856id_/http%3A//www.nls.uk/about-us/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement - National Library of Scotland
 
@@ -13,7 +13,7 @@ We collect and store personal information in line with the **Data Protection Act
 
 
 
-Occasionally we may send you relevant information about the National Library of Scotland — for example:
+Occasionally we may send you relevant information about the National Library of Scotland — for example:
 
   * New NLS services that we think may interest you
   * Disruptions that affect access to the collections, reading rooms or website.
@@ -30,7 +30,7 @@ We use several types of cookies on National Library of Scotland websites, but no
 
 If you have any concerns about the information we may hold about you, please contact us.
 
-  * Email the Corporate Information Officer: [g.hawley@nls.uk](mailto:g.hawley@nls.uk)
+  * Email [d.gordon@nls.uk](mailto:d.gordon@nls.uk)
   * Tel: 0131 623 3700
   * Write to us at:
 
