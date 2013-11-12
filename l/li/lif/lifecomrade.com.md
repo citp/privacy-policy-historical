@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the lifecomrade.com privacy policy that was archived on 2013-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130626151233id_/http%3A//www.lifecomrade.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lifecomrade.com privacy policy that was archived on 2013-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131113001827id_/http%3A//www.lifecomrade.com/privacy.php) for the most accurate reproduction.*
 
-# NIGERIA DATING SITE, WEBSITE, NIGERIAN FREE ONLINE DATING SITE PERSONALS Lifecomrade.com
+# Nigeria Dating Site, Website, Nigerian Free Online Dating Site Personals Lifecomrade.com
 
 Lifecomrade.com has created this privacy statement in order to demonstrate our firm commitment to your privacy. The following discloses the information gathering and dissemination practices for this Web site: http://www.lifecomrade.com/
 
