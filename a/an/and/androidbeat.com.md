@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the androidbeat.com privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501093053id_/http%3A//www.androidbeat.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the androidbeat.com privacy policy that was archived on 2013-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131114003806id_/http%3A//www.androidbeat.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
