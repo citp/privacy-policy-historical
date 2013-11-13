@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the waves.com privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602182123id_/http%3A//www.waves.com/content.aspx%3Fid%3D10606) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the waves.com privacy policy that was archived on 2013-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131113011607id_/http%3A//www.waves.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Waves
-
-Waves Privacy Policy 
 
 This Privacy Policy governs the manner in which Waves collects, uses, maintains and discloses information collected from users (each, a "User") of the www.waves.com website ("Site"). This privacy policy applies to the Site and all products and services offered by Waves. 
 
@@ -70,5 +68,3 @@ Knoxville, TN 37912
 1-865-909-9200
 
 This document was last updated on November 06, 2012 
-
-|  | 
