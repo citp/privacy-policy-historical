@@ -1,9 +1,12 @@
-> *The following text is extracted and transformed from the elistr.com privacy policy that was archived on 2013-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130514064456id_/http%3A//www.elistr.com/index.php%3Fa%3D28%26b%3D145) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the elistr.com privacy policy that was archived on 2013-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131113200014id_/http%3A//www.elistr.com/index.php%3Fa%3D28%26b%3D145) for the most accurate reproduction.*
 
-# Free classifieds, Free Local Classified ads, Online Classified Ads
+# eListr Free local classifieds
+
+| 
 
 Your privacy is very important to us. Accordingly, we have developed this Policy in order for you to understand how we collect, use, communicate, disclose and make use of personal information. The following outlines our privacy policy. 
 
+  * **Any personal information collected by elistr.com will never be shared,sold or revealed to any third party** _unless required by law_.
   * Before or at the time of collecting personal information, we will identify the purposes for which information is being collected. 
   * We will collect and use personal information solely with the objective of fulfilling those purposes specified by us and for other compatible purposes, unless we obtain the consent of the individual concerned or as required by law. 
   * We will only retain personal information as long as necessary for the fulfillment of those purposes. 
@@ -14,4 +17,20 @@ Your privacy is very important to us. Accordingly, we have developed this Policy
 
 
 
-We are committed to conducting our business in accordance with these principles in order to ensure that the confidentiality of personal information is protected and maintained at all times. 
+**We are committed to conducting our business in accordance with these principles in order to ensure that the confidentiality of users personal information is protected and maintained at all times**. 
+
+|  [**Get paid for every person who visits your URLs**](http://adf.ly/?id=2303464)
+
+  
+
+
+**View more ads in:**
+
+  
+  
+  
+
+
+[](http://www.datflirt.com/index.php?do=/invite/user_205/)
+
+[](http://www.kwickads.com/user/register?&ref=1)
