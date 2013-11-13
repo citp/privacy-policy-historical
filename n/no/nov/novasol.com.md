@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the novasol.com privacy policy that was archived on 2013-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130514170556id_/http%3A//www.novasol.com/faq/personal-data-policy.html%3F_xview) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the novasol.com privacy policy that was archived on 2013-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131113193003id_/http%3A//www.novasol.com/faq/personal-data-policy.html%3F_xview) for the most accurate reproduction.*
 
 # NOVASOL Cookie and Privacy Policy
 
-Below you will find the NOVASOL Privacy Policy regarding cookies as well as the protection of personal data. If you have any questions you are welcome to contact us by phone 0845 680 5856 / +45 3914 3555 or email [novasol@novasol.co.uk](mailto:novasol@novasol.co.uk)
+Below you will find the NOVASOL Privacy Policy regarding cookies as well as the protection of personal data. If you have any questions you are welcome to contact us by phone +45 3914 3555 or email [novasol@novasol.com](mailto:novasol@novasol.com)
 
 We gather two types of information about you when visiting our website. The first type of information is the data you submit to us when booking a holiday home or ordering a catalogue. Secondly we gather information about how our website is used, in order to learn from usage trends and continuously improve our website.
 
@@ -57,7 +57,7 @@ We may also pass on your information to:
 
 We would like to send you information about our own products and services, as well as those of selected third parties. We may do this by post, telephone, email or SMS, unless you have told us that you do not wish to be contacted in this way. We will always ask you to confirm in advance that you are happy for us to allow third parties to contact you.
 
-If you would like to change any of your preferences relating to the way in which we may use your information for direct marketing, then please send an email to [novasol@novasol.co.uk](mailto:novasol@novasol.co.uk)
+If you would like to change any of your preferences relating to the way in which we may use your information for direct marketing, then please send an email to [novasol@novasol.com](mailto:novasol@novasol.com)
 
 You have the right to request a copy of the information that we hold about you. If you would like a copy of some or all of your personal information, please email or write to us at the address below. Please note that we may charge a small administrative fee for the provision of this information.
 
@@ -79,6 +79,6 @@ Virumgårdsvej 27
 
 Denmark
 
-Phone: 0845 680 5856 / +45 3914 3555
+Phone: +45 3914 3555
 
-[novasol@novasol.co.uk](mailto:novasol@novasol.co.uk)
+[novasol@novasol.com](mailto:novasol@novasol.com)
