@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the perforce.com privacy policy that was archived on 2013-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130510180649id_/http%3A//www.perforce.com/company/perforce-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the perforce.com privacy policy that was archived on 2013-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131113061303id_/http%3A//www.perforce.com/company/perforce-privacy-policy) for the most accurate reproduction.*
 
 # Perforce Privacy Policy | Perforce
 
@@ -8,7 +8,7 @@ Perforce Software Inc. is committed to protecting and respecting your privacy. T
 
 ##  **Information We May Collect From You**
 
-We may collect and process information you provide when using our site at [www.perforce.com](http://www.perforce.com/). Additionally, if you enter into any transactions on our site, we will store the details of such transactions. Information collected may include:
+We may collect and process information you provide when using our site at www.perforce.com. Additionally, if you enter into any transactions on our site, we will store the details of such transactions. Information collected may include:
 
   * Information you provide when subscribing to our mailing lists and company newsletter; interacting with the Public Depot, KnowledgeBase, user lists, and weblog; and when reporting a problem with our site.
   * Request of services such as customer support, technical support, interactive demos, training, and consulting.
@@ -51,7 +51,7 @@ In the event we sell any business or assets, we may disclose your personal data 
 
 ##  **Your Rights**
 
-You have the right to ask us not to process your personal data for marketing purposes. You may exercise your right at any time by contacting us at **[marketing@perforce.com](mailto:marketing@perforce.com)**. You can stop the delivery of future promotional email from Perforce sites and services by following the opt-out instructions in emails you receive.
+You have the right to ask us not to process your personal data for marketing purposes. You may exercise your right at any time by contacting us at **marketing@perforce.com**. You can stop the delivery of future promotional email from Perforce sites and services by following the opt-out instructions in emails you receive.
 
 Our site may, from time to time, contain links to and from the websites of our partner networks, advertisers, and affiliates. If you follow a link to any of these websites, please note that these websites have their own privacy policies and we do not accept any responsibility or liability for these policies.
 
@@ -59,7 +59,7 @@ Our site may, from time to time, contain links to and from the websites of our p
 
 You have the ability to access information stored about you. Any access request may be subject to a nominal fee to meet our costs in providing you with details of the information we hold about you.
 
-If you have questions regarding this privacy policy, please contact us at **[marketing@perforce.com](mailto:marketing@perforce.com)**.
+If you have questions regarding this privacy policy, please contact us at **marketing@perforce.com**.
 
 ##  **Changes to our Privacy Policy**
 
