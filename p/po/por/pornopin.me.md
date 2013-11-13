@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pornopin.me privacy policy that was archived on 2013-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130509161149id_/http%3A//pornopin.me/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pornopin.me privacy policy that was archived on 2013-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131113065024id_/http%3A//pornopin.me/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | PornoPin.me
 
