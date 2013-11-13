@@ -1,37 +1,9 @@
-> *The following text is extracted and transformed from the jobego.com privacy policy that was archived on 2013-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130515121452id_/http%3A//www.jobego.com/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobego.com privacy policy that was archived on 2013-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131113201521id_/http%3A//www.jobego.com/policy) for the most accurate reproduction.*
 
-# Jobego
+# jobego.com - jobego Resources and Information. This website is for sale!
 
-Jobego.com Privacy Policy
+This page provided to the domain owner **free** by Sedo's [Domain Parking](http://www.sedo.com/services/parking.php3?language=e&partnerid=20293 "Domain Parking"). Disclaimer: Domain owner and Sedo maintain no relationship with third party advertisers. Reference to any specific service or trade mark is not controlled by Sedo or domain owner and does not constitute or imply its association, endorsement or recommendation.
 
-What Personal Information We Collect
+By using our site, you consent to this privacy policy: This website allows third-party advertising companies for the purpose of reporting website traffic, statistics, advertisements, "click-throughs" and/or other activities to use Cookies and /or Web Beacons and other monitoring technologies to serve ads and to compile anonymous statistics about you when you visit this website. Cookies are small text files stored on your local internet browser cache. A Web Beacon is an often-transparent graphic image, usually no larger than 1 pixel x 1 pixel that is placed on a Web site. Both are created for the main purpose of helping your browser process the special features of websites that use Cookies or Web Beacons. The gathered information about your visits to this and other websites are used by these third party companies in order to provide advertisements about goods and services of interest to you. The information do not include any personal data like your name, address, email address, or telephone number. If you would like more information about this practice and to know your choices about not having this information used by these companies, click [here](http://www.networkadvertising.org/managing/opt_out.asp).
 
-When you sign up for the Jobego (The Company) you will be required to share information that identifies you personally. "Personal Information" refers to any information that lets us know the specifics of who you are and which can be used to identify, contact or locate you. Users may be also required to provide subsequent demographic such as, but is not limited to: birth date, gender, marital status, education completed, household income, and number of children in household.
-
-Use of Information
-
-Generally, we collect Personal Information when you provide it to us by signing up on Jobego.com (The Website), filling out surveys or using any other services. We usually collect Personal Information so that it can provide you with the Company's goods or services. If you don't provide some of the Personal Information we ask for (e.g. your name, your mailing address and/or email address), it may be unable to provide you with our goods or services.
-
-Protection of Information
-
-We implement a variety of security measures to maintain the safety of your personal information when you place an order or enter, submit, or access your personal information.
-
-Sharing of Information
-
-We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety.
-
-Third Party Links and Advertisements
-
-We may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. While the Company makes every effort to ensure that its advertisers post clear and complete privacy policies and observe appropriate data practices, each of these sites has a privacy policy that may differ from that of the Company. The privacy practices of other websites and companies are not covered by this Privacy Policy. Please be aware that the Company is not responsible for the privacy practices of such other sites. 
-
-Cookies
-
-The Company may set and access cookies on your computer. We use both session cookies and persistent cookies. We use cookies to help us provide personalized features and preferences.
-
-Your Consent
-
-By using our site, you consent to our privacy policy.
-
-Changes to our Privacy Policy
-
-We may update this Policy from time to time.
+Privacy Policies
