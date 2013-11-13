@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wcnc.com privacy policy that was archived on 2013-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130505153142id_/http%3A//www.wcnc.com/terms-and-conditions/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wcnc.com privacy policy that was archived on 2013-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131113225448id_/http%3A//www.wcnc.com/terms-and-conditions/privacy-policy) for the most accurate reproduction.*
 
 # WCNC.com | WCNC's privacy policy. WCNC.com
 
