@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the freelanced.com privacy policy that was archived on 2013-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130429175818id_/http%3A//www.freelanced.com/help/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freelanced.com privacy policy that was archived on 2013-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131113134432id_/http%3A//www.freelanced.com/help/privacy.aspx) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - Freelanced.com
 
 Freelanced.com respects your privacy. This notice describes Freelanced.com's privacy policy with regard to the Freelanced.com website (the "Website"). From time to time, we may revise this Privacy Policy, so please be sure to periodically check the date of the last revision, which will be noted at the top of this page. By visiting the Website, you are acknowledging and accepting this Privacy Policy. Your continued use of the Website after changes have been posted to the Privacy Policy will constitute your acceptance of any such changes.
 
@@ -10,7 +10,7 @@ We may sell some or all or our assets in the future. In such transactions, custo
 
 We may ask for and collect from you personally identifiable information throughout the Website. Depending on the information and/or services you request, you may be asked to provide your name, email address, and other information.
 
-In addition to the information you knowingly provide, Freelanced.com automatically receives and records information from your computer and browser when you visit the Website, including referring links and your IP address, as well as statistics (e.g., the type of web browser and operating systems used by you) We collect this information to operate Freelanced.com more efficiently, to administer the Website and to market our services.
+In addition to the information you knowingly provide, Freelanced.com automatically receives and records information from your computer and browser when you visit the Website, including referring links and your IP address, as well as statistics (e.g., the type of web browser and operating systems used by you). We collect this information to operate Freelanced.com more efficiently, to administer the Website and to market our services.
 
 We may use information we collect from you to: 1) provide you with personalized web-content; 2) process and respond to inquiries; 3) improve the content on the Website; 4) improve the navigability on the Website; 5) to enforce our Terms of Service agreement; and 6) for any reason that you provided the information to us.
 
