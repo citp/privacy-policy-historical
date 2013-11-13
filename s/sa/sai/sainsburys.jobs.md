@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sainsburys.jobs privacy policy that was archived on 2013-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130523040230id_/http%3A//sainsburys.jobs/information/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sainsburys.jobs privacy policy that was archived on 2013-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131113135037id_/http%3A//sainsburys.jobs/information/privacy) for the most accurate reproduction.*
 
 # Privacy - Sainsbury's Jobs
 
@@ -99,33 +99,3 @@ You shall indemnify Sainsbury's against any loss or expense arising from your br
 Sainsbury's makes no warranty that the information on this website is accurate or up-to-date, or that access to the website will be uninterrupted or error-free or that any defects can be corrected.
 
 These terms of use shall be governed by and construed in accordance with the laws of England and Wales, and you irrevocably submit to the exclusive jurisdiction of the courts of England and Wales in relation to all matters arising from your use of the website.
-
-[Search Careers](https://web.archive.org/vacancy/search)
-
-## Jobs Near You
-
-[](https://web.archive.org/vacancy/search)
-
-Use our interactive map to find careers near you. Or register with us and join the growing pool of Sainsbury's Talent.
-
-## Graduates
-
-[](https://web.archive.org/graduates)
-
-2020 leaders is the name for our new graduate programme. Others take you through a 'scheme' - we'll take you to the top.
-
-## Pharmacy
-
-[](https://web.archive.org/pharmacy/role-details/pharmacy-manager)
-
-We've been at the heart of the community for 140 years. Our Pharmacies continue that tradition of being there with the very best advice and service for our Customers.
-
-  * [In-Store](https://web.archive.org/in-store)
-  * [Store Management](https://web.archive.org/store-management)
-  * [Store Support Centre](https://web.archive.org/store-support-centre)
-  * [Logistics](https://web.archive.org/logistics)
-  * [Pharmacy](https://web.archive.org/pharmacy)
-  * [Hospital Pharmacy](https://web.archive.org/hospital-pharmacy?q=1)
-  * [Graduates](https://web.archive.org/graduates?q=2020)
-
-
