@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the jamiroquai.com privacy policy that was archived on 2013-05-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130507041720id_/http%3A//www.jamiroquai.com/home/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the jamiroquai.com privacy policy that was archived on 2013-11-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131113092851id_/http%3A//www.jamiroquai.com/home/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <title>Jamiroquai Official Website / Privacy</title>
@@ -29,6 +29,7 @@ behavior:url("inc/iepngfix.htc");
 <script type="text/javascript" src="js/swfupload/handlers_profile.js"></script> 
 <script type="text/javascript" src="js/styleswitch.js"></script>
 <script type="text/javascript" src="js/swfobject.js"></script>
+<script type="text/javascript" src="js/jquery.cookie.js"></script>
 <script type="text/javascript">
 $(document).ready(function(){
     //hide the all of the element with class hide
@@ -41,11 +42,19 @@ $(document).ready(function(){
     if (user_login_error) {
         $(this).find('#user_login_div:hidden').slideDown('fast');
     }
+
+    if (!$.cookie('privacy')) {
+        document.getElementById('cookiesWarnMsg').style.display='';
+    }
 });
 function lmp(){ 
     newwindow = window.open('/music','play_music','height=367,width=420'); 
     if (window.focus) {newwindow.focus()}
     return false;
+}
+function savePrivacyCookie() {
+    $.cookie('privacy', 'Jamiroquay Privacy Cookie', { expires: 365 });
+    document.getElementById('cookiesWarnMsg').style.display='none';
 }
 </script> 
 </head> 
@@ -53,6 +62,50 @@ function lmp(){
  
 <!-- #bodySpan start --> 
 <div id="bodySpan"> 
+    <style>
+      .msg-panel {
+          position: fixed;
+          z-index: 1;
+          top: 0;
+          left: 0;
+          right: 0;
+          padding: 6px 8px;
+          overflow: hidden;
+          background-color: #ffa;
+          color: #000;
+          font-size: 12px;
+          line-height: 1.3;
+          //zoom: 1;
+      }
+      .msg-panel .text {
+          float: left;
+          margin: 5px;
+      }
+      .msg-panel .text a {
+          color: #000;
+          text-decoration: underline;
+      }
+      .msg-panel .text a:hover {
+          text-decoration: none;
+      }
+      .msg-panel .button {
+          float: right;
+          padding: 4px 8px;
+          border: 1px solid;
+          border-color: #333 #000 #000 #333;
+          background: #000 url('/img/skins/purple/img/bg_submit.gif') no-repeat 0 0;
+          color: #fff;
+          font-weight: bold;
+      }
+      .msg-panel .button:hover {
+          background: #444;
+      }
+  </style>
+
+  <div id="cookiesWarnMsg" class="msg-panel" style="display: none;">
+      <p class="text">This website is using cookies: <a href="http://www.jamiroquai.com/home/privacy">View our privacy policy</a></p>
+      <a href="#" class="button" onclick="savePrivacyCookie(); return false;">Agree and close</a>
+  </div>    
  
   <!-- #container start --> 
   <div id="container"> 
@@ -88,7 +141,7 @@ function lmp(){
         <div class="clearer"></div> 
       </div> 
  
-      <div id="mainMenu"><ul><li id="lMain1" class="on"><a href="/home"><span>Home</span></a></li><li id="lMain1"><a href="/jamiroquai"><span>Jamiroquai</span></a></li><li id="lMain1"><a href="/forum"><span>Forum</span></a></li><li id="lMain1"><a href="/video"><span>Video</span></a></li><li id="lMain1"><a href="/shows"><span>Shows</span></a></li><li id="lMain1"><a href="/remix"><span>Remix Project</span></a></li><li id="lMain1"><a href="/rock"><span>Rock Dust Light Star</span></a></li><li id="lMain1"><a href="/shop" target="_blank"><span>Shop</span></a></li></ul><div class="clearer">&nbsp;</div></div>
+      <div id="mainMenu"><ul><li id="lMain1" class="on"><a href="/home"><span>Home</span></a></li><li id="lMain1"><a href="/jamiroquai"><span>Jamiroquai</span></a></li><li id="lMain1"><a href="/forum"><span>Forum</span></a></li><li id="lMain1"><a href="/video"><span>Video</span></a></li><li id="lMain1"><a href="/shows"><span>Shows</span></a></li><li id="lMain1"><a href="/shop" target="_blank"><span>Shop</span></a></li></ul><div class="clearer">&nbsp;</div></div>
 
       <div class="clearer"></div>
 
@@ -99,11 +152,11 @@ function lmp(){
     <div id="content"> 
  
             <div class="bannerWide">
-        <a href="/home/privacy?banner_id=16"><img src="/upload/banners/Banner_remasters-728x90.jpg" alt="" border="0"></a>                
+                        
       </div>
 
       <div class="bannerSmall">
-        <a href="/home/privacy?banner_id=18"><img src="/upload/banners/jamiroquai_peru.jpg" alt="" border="0"></a>                
+                        
       </div>
 
       <div class="clearer"></div>
@@ -322,7 +375,7 @@ function lmp(){
             <div class="clearer"></div>
           </div> 
                     <div class="banner"> 
-	        <a href="/home/privacy?banner_id=23"><img src="/upload/banners/magic_summer_300px.jpg" alt="" border="0"></a>                
+	        <a href="/home/privacy?banner_id=27"><img src="/upload/banners/sandance_300_thumb.jpg" alt="" border="0"></a>                
           </div> 
 
                     <div class="block scheme3 social"> 
@@ -399,6 +452,6 @@ function lmp(){
 
 
 <!-- webmaster-pro v5.04.0 -->
-<!-- report: general cache not used (0.04747)  -->
-<!-- full page: 0.38709 -->
+<!-- report: general cache not used (0.04403)  -->
+<!-- full page: 0.40789 -->
 </body></html>
