@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the accessdata.com privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502001238id_/http%3A//accessdata.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the accessdata.com privacy policy that was archived on 2013-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131113084043id_/http%3A//www.accessdata.com/privacy-statement) for the most accurate reproduction.*
 
 # AccessData® Privacy Statement | AccessData
 
@@ -46,7 +46,8 @@ A cookie is a small file stored on a user’s hard drive containing information 
 **Web Beacons**  
 Web Beacons are small pieces of code placed on a web page to monitor the behavior and collect data about the visitors viewing a web page.  For example, web beacons can be used to count the users who visit a web page or to deliver a cookie to the browser of a visitor viewing that page.   We may use web beacons on this site from time to time for this and other purposes. 
 
-**Safe Harbor Privacy Policy**  
+**Safe Harbor Privacy Policy**
+
 AccessData Group complies with the U.S.–E.U. Safe Harbor Framework and the U.S.–Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from European Union member countries and Switzerland. AccessData has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view the certification for AccessData Group, Inc., visit <http://www.export.gov/safeharbor>.  
 
 This AccessData Safe Harbor Privacy Policy describes how we handle personal information (1) collected by AccessData, our customers, and other business partners located in the European Economic Area (the EEA), which may then be transferred to AccessData in the United States; and (2) received from companies that use AccessData’s services who operate in the EEA and processed by AccessData in the United States on behalf of the company. This Safe Harbor Privacy Policy supplements the [AccessData Privacy Policy](http://www.accessdata.com/privacy-statement).
@@ -73,8 +74,7 @@ AccessData will not disclose an individual’s personal information to third par
 
 Permitted transfers of information, either to third parties or within AccessData, include the transfer of data from one jurisdiction to another, including transfers to and from the United States of America. Because privacy laws vary from one jurisdiction to another, personal information may be transferred to a jurisdiction where the laws provide less or different protection than the jurisdiction in which the information originated.
 
-## Information collected by AccessData, corporate customers and business partners 
-
+**Information collected by AccessData, corporate customers and business partners**  
 AccessData may receive personal information from our corporate customers and other business partners in the EEA, such as name, email address, company name, title, postal address, telephone number, and preferences regarding our applications, websites, and services. Any personal information sent to us may be used by AccessData and their agents and business partners for the purposes described at the time the information was collected. If you agree to receive email or telephone marketing from us, personal information we receive will also be used for those purposes, as described in the [AccessData Privacy Policy](http://www.accessdata.com/privacy-statement). If we plan to use personal information for a purpose that is incompatible with these purposes or if we plan to disclose personal information to a kind of company not described here, we will seek your consent to such uses or disclosures.
 
 **Agents and service providers**  
@@ -90,14 +90,12 @@ AccessData takes reasonable steps to ensure that your personal information we pr
 AccessData provides services to companies ([learn more](http://www.accessdata.com/services)). As part of providing these services, AccessData may receive and process your personal information if you are a customer of one of these companies. AccessData acts on the instructions of these companies and uses reasonable physical, electronic, and administrative safeguards to protect this personal information from loss, misuse, or unauthorized access, disclosure, alteration, or destruction.   
 Companies that use an AccessData service are responsible for complying with all other obligations in relation to the personal information they may collect from you. AccessData requires the company using AccessData’s services, in which personal information is received by AccessData from the EU or Switzerland, subscribe to the Safe Harbor Privacy Principles, be subject to the EU Privacy Directive or another adequacy finding, or enter into a written agreement that requires them to provide at least the same level of privacy protection as is required by the relevant Safe Harbor Principles.
 
-**Questions or concerns**  
-As part of our participation in the Safe Harbor program, AccessData has agreed to TRUSTe dispute resolution for disputes relating to our compliance with the Safe Harbor privacy frameworks. If you have any complaints regarding our compliance with the Safe Harbor program, you should first [contact us](http://www.accessdata.com/privacy-statement). If contacting us does not resolve your complaint, you may raise your complaint with TRUSTe by [Internet](https://feedback-form.truste.com/watchdog/request), fax to 415-520-3420, or mail to TRUSTe Safe Harbor Compliance Dept. ([click for mailing address](http://www.truste.com/about_TRUSTe/contact_us)). If you are faxing or mailing TRUSTe to lodge a complaint, you must include the following information: the name of the company, the alleged privacy violation, your contact information, and whether you would like the particulars of your complaint shared with the company. For information about TRUSTe or the operation of TRUSTe’s dispute resolution process, visit the [TRUSTe feedback page](https://feedback-form.truste.com/watchdog/request) or request this information from TRUSTe by fax or mail as indicated above.
-
 **Enforcement**  
 AccessData utilizes the self-assessment approach to assure its compliance with our privacy statement. AccessData periodically verifies that the policy is accurate, comprehensive for the information intended to be covered, prominently displayed, completely implemented, and in conformity with the Principles. We encourage interested persons to raise any concerns with us using the contact information below. We will investigate and attempt to resolve complaints and disputes regarding use and disclosure of personal information in accordance with the principles contained in this policy.
 
 **Changes or updates**  
-This policy may change from time to time as permitted under the Safe Harbor program.  
+This policy may change from time to time as permitted under the Safe Harbor program.
+
 **Limitation on Application of Principles**  
 Adherence by AccessData to these Safe Harbor Principles may be limited (a) to the extent required to respond to a legal or ethical obligation; (b) to the extent necessary to meet national security, public interest or law enforcement obligations; and (c) to the extent expressly permitted by an applicable law, rule or regulation.
 
