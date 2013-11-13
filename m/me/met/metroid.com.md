@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the metroid.com privacy policy that was archived on 2013-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130627171947id_/http%3A//www.nintendo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the metroid.com privacy policy that was archived on 2013-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131113114213id_/http%3A//www.nintendo.com/privacy) for the most accurate reproduction.*
 
 # Online Privacy Policy
 
 Online Privacy Policy
 
-[Version française](https://web.archive.org/web/20130627171947id_/http://www.nintendo.com/corp/privacy_fr.jsp) | [Versión española](https://web.archive.org/web/20130627171947id_/http://www.nintendo.com/corp/privacy_es.jsp) | [Versão Português](https://web.archive.org/web/20130627171947id_/http://www.nintendo.com/corp/privacy_br.jsp)
+[Version française](https://web.archive.org/web/20131116045459id_/http://www.nintendo.com/corp/privacy_fr.jsp) | [Versión española](https://web.archive.org/web/20131116045459id_/http://www.nintendo.com/corp/privacy_es.jsp) | [Versão Português](https://web.archive.org/web/20131116045459id_/http://www.nintendo.com/corp/privacy_br.jsp)
 
 Please Note: If you are looking for the Privacy Policy related to the use of Nintendo systems, please use these links: [Wii](https://web.archive.org/consumer/systems/wii/en_na/privacyPolicy.jsp), [Nintendo 3DS](https://web.archive.org/consumer/systems/3ds/en_na/gi_index.jsp?menu=documents&submenu=doc-privacy-policy), [Nintendo DSi / Nintendo DSi XL](https://web.archive.org/consumer/systems/dsi/en_na/privacyPolicy.jsp)
 
-The privacy policy listed below only applies to Nintendo's web sites. For a list of the web sites, [click here](https://web.archive.org/web/20130627171947id_/http://www.nintendo.com/corp/privacy_list.jsp). 
+The privacy policy listed below only applies to Nintendo's web sites. For a list of the web sites, [click here](https://web.archive.org/web/20131116045459id_/http://www.nintendo.com/corp/privacy_list.jsp). 
 
 Last Updated: November 2, 2011
 
