@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rankstore.com privacy policy that was archived on 2012-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121102171011id_/http%3A//www.rankstore.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rankstore.com privacy policy that was archived on 2013-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131113180101id_/http%3A//www.rankstore.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy - Free Online Shopping Directory : Rankstore.com
 
