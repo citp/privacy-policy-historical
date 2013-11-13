@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the atproperties.com privacy policy that was archived on 2013-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130529203833id_/http%3A//www.atproperties.com/help/atproperties/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the atproperties.com privacy policy that was archived on 2013-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131113014530id_/http%3A//www.atproperties.com/help/atproperties/privacy.php) for the most accurate reproduction.*
 
 # @properties
 
