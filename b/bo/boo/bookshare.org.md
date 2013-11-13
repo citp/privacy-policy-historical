@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the bookshare.org privacy policy that was archived on 2013-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130616005239id_/https%3A//www.bookshare.org/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bookshare.org privacy policy that was archived on 2013-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131114005615id_/https%3A//www.bookshare.org/about/privacy) for the most accurate reproduction.*
 
 # Privacy - Bookshare - Accessible Books for Individuals with Print Disabilities - Bookshare - Accessible Books for Individuals with Print Disabilities
 
-Bookshare will undergo scheduled maintenance between Friday, June 21st at 5PM and Saturday, June 22nd at 1:00AM PDT. Please note that users will NOT have access to the Bookshare website or related tools during this time. 
+Bookshare will be unavailable from 5:00 to 11:00 PM PT on Friday, November 15 for planned systems maintenance. 
 
 Bookshare® is a nonprofit website dedicated to providing accessible books and other materials ("Content") to people with print disabilities. We collect personal information about our users in order to deliver a better service and to meet our legal obligations under the copyright law. Users include our Members with print disabilities, volunteers, school and organizational staff, access technology professionals and parents. We do not provide commercial entities with this personal information for commercial or marketing purposes. This Privacy Policy is intended to fully inform you about our uses of the information we collect. 
 
