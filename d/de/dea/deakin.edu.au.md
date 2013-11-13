@@ -1,9 +1,8 @@
-> *The following text is extracted and transformed from the deakin.edu.au privacy policy that was archived on 2013-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130615094535id_/http%3A//www.deakin.edu.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the deakin.edu.au privacy policy that was archived on 2013-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131113201442id_/http%3A//www.deakin.edu.au/privacy) for the most accurate reproduction.*
 
 # Deakin University Privacy Statement
 
-Deakin University respects the privacy of users of its website and complies with the _Information Privacy Act 2000_ (Vic).   
-
+Deakin University respects the privacy of users of its website and complies with the _Information Privacy Act 2000_ (Vic).
 
 ### Collecting information about users of the website
 
@@ -40,7 +39,7 @@ Personal information will be managed by Deakin University in accordance with the
 
 ### Internet use risks
 
-The University has security measures in place to guard against the loss or corruption of information gathered through its website, including regular data backups, firewalls, data encryption and access-controlled areas. However, there are inherent risks in transmitting information across the internet as intrusion by unauthorised third parties is technically possible. If you are concerned about conveying sensitive material over the Internet, you might prefer to contact the University in person, by telephone or mail. [Deakin University's contact details](http://www.deakin.edu.au/contact-us) are available online.
+The University has security measures in place to guard against the loss or corruption of information gathered through its website, including regular data backups, firewalls, data encryption and access-controlled areas. However, there are inherent risks in transmitting information across the internet as intrusion by unauthorised third parties is technically possible. If you are concerned about conveying sensitive material over the Internet, you might prefer to contact the University in person, by telephone or mail. [Deakin University's contact details](http://www.deakin.edu.au/contact) are available online.
 
 ### Links to external websites
 
@@ -54,9 +53,9 @@ Access to and correction of personal information held by the University is manag
 
 Enquiries or complaints about the management of your personal information at the University may be directed to the University's Privacy Officer as follows:
 
-**By email:** [privacy@deakin.edu.au](mailto:privacy@deakin.edu.au)
+ **By email:** [privacy@deakin.edu.au](mailto:privacy@deakin.edu.au)
 
-**By mail:**  
+ **By mail:**  
 Privacy Officer  
 Office of the University Solicitor  
 Deakin University  
@@ -66,7 +65,7 @@ Geelong Vic 3220
 
 ### Links:
 
-  * [Deakin University Information Privacy Policy](http://theguide.deakin.edu.au./TheGuide/TheGuide2011.nsf/191d0d51322b3a04ca2576be00064063/5062f20d5a06b590ca2576ba00147399?OpenDocument)
+  * [Deakin University Privacy Policy](http://theguide.deakin.edu.au/TheGuide/TheGuide2011.nsf/191d0d51322b3a04ca2576be00064063/be56c159459e1ca9ca257b02007a17c6?OpenDocument)
   * [_Information Privacy Act 2000_ **(Vic)**](http://www.legislation.vic.gov.au/Domino/Web_Notes/LDMS/PubLawToday.nsf/a12f6f60fbd56800ca256de500201e54/cd652e34a04da6c2ca257505007ce686%21OpenDocument)
   * [Privacy Victoria](http://www.privacy.vic.gov.au/privacy/web2.nsf/pages/home)
 
