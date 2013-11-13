@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gurneys.com privacy policy that was archived on 2013-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130526225116id_/http%3A//www.gurneys.com/Privacy-Policy/a/112) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gurneys.com privacy policy that was archived on 2013-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131114005434id_/http%3A//www.gurneys.com/privacy_policy) for the most accurate reproduction.*
 
-# <b>Gurney's Seed & Nursery Privacy Policy</b> - Gurney's Seed & Nursery
+# Seed Catalog, Garden Seeds, Fruit Trees, Vegetable Seeds, Strawberry plants, Vegetable Plants and More - Gurney's Seed and Nursery
 
 **Our Privacy Policy**
 
