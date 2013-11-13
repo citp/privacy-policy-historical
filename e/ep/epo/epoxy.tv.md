@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the epoxy.tv privacy policy that was archived on 2013-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130531202618id_/http%3A//epoxy.tv/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the epoxy.tv privacy policy that was archived on 2013-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131113194255id_/http%3A//epoxy.tv/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Epoxy
 
 Effective Date: October 16, 2012
 
-We at Epoxy Inc (“Epoxy,” “we,” “us,” “our”) know that our users (“you,” “your”) care about how your personal information is used and shared, and we take your privacy seriously. Please read the following to learn more about our Privacy Policy. By visiting or using the Website or Services in any manner, you acknowledge that you accept the practices and policies outlined in this Privacy Policy, and you hereby consent that we will collect, use, and share your information in the following ways. Any capitalized terms used herein without definition shall have the meaning given to them in the [Epoxy Terms of Use](https://web.archive.org/web/20130531202618id_/http%3A//epoxy.tv/terms).
+We at Epoxy Inc (“Epoxy,” “we,” “us,” “our”) know that our users (“you,” “your”) care about how your personal information is used and shared, and we take your privacy seriously. Please read the following to learn more about our Privacy Policy. By visiting or using the Website or Services in any manner, you acknowledge that you accept the practices and policies outlined in this Privacy Policy, and you hereby consent that we will collect, use, and share your information in the following ways. Any capitalized terms used herein without definition shall have the meaning given to them in the [Epoxy Terms of Use](https://web.archive.org/web/20131113194255id_/http%3A//epoxy.tv/terms).
 
 ## I. What Does This Privacy Policy Cover?
 
