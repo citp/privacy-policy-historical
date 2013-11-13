@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the subzin.com privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502035110id_/http%3A//blog.subzin.com/%3Fpage_id%3D26) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the subzin.com privacy policy that was archived on 2013-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131113154723id_/http%3A//blog.subzin.com/%3Fpage_id%3D26) for the most accurate reproduction.*
 
 # Privacy policy « The Subzin Blog
 
