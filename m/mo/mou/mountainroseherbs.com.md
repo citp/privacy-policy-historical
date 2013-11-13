@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the mountainroseherbs.com privacy policy that was archived on 2013-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130430095653id_/http%3A//www.mountainroseherbs.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mountainroseherbs.com privacy policy that was archived on 2013-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131113041401id_/http%3A//www.mountainroseherbs.com/privacy.html) for the most accurate reproduction.*
 
 # Mountain Rose Herbs | Privacy and Security Policy
 
-|  |  [ ](http://www.mountainroseherbs.com/) |   
+|  |  [ ](https://web.archive.org/) |   
   
 ---|---  
-[](http://www.addthis.com/bookmark.php?v=250&pub=mountainroseherbs) | 
+[](https://www.addthis.com/bookmark.php?v=250&pub=mountainroseherbs) | 
 
 | 
 
