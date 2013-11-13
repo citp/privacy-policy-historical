@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nsf.gov privacy policy that was archived on 2013-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130531204332id_/http%3A//www.nsf.gov/policies/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nsf.gov privacy policy that was archived on 2013-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131113092030id_/http%3A//www.nsf.gov/policies/privacy.jsp) for the most accurate reproduction.*
 
 # US NSF - Privacy Policy
 
@@ -40,7 +40,7 @@ We collect no information about you or your child, other than that detailed abov
 
 There are several exceptions that permit collection of a child's email address without receiving parental consent in advance: 
 
-  * To provide the parents with notice and to seek consent for communications with the child. Note: this may require collection of the parent's email address as well. 
+  * To provide the parents with notice and to seek consent for communications with the child. Note: this may require collection of the parent's email addressas well. 
   * To respond to a one time request from a child. 
   * To respond more than once to a child's request; i.e., subscription to a newsletter. However, parental consent is required prior to the second communication. 
   * To protect the safety of a child who is participating on the site; i.e., in a chat room. 
@@ -58,4 +58,4 @@ NSF uses third-party social websites to disseminate mission-related information 
 
 ## Contact
 
-If you have questions or concerns about NSF's privacy policy, please contact Leslie Jensen, Office of the General Counsel, phone: 703-292-5065, email: [ljensen@nsf.gov](mailto:ljensen@nsf.gov).
+If you have questions or concerns about NSF's privacy policy, please contact Sandra Evans, Office of the General Counsel, phone: 703-292-5065, email: [sevans@nsf.gov](mailto:sevans@nsf.gov).
