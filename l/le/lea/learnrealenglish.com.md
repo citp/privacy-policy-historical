@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the learnrealenglish.com privacy policy that was archived on 2013-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130510142537id_/http%3A//learnrealenglish.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the learnrealenglish.com privacy policy that was archived on 2013-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131113105622id_/http%3A//learnrealenglish.com/privacy-policy) for the most accurate reproduction.*
 
-# Learn Real English » Privacy Policy
+# English Spoken Grammar| Listen to English | Learn Real English
 
 **Learn Real English LLC** is serious about protecting your online privacy. This Privacy Statement explains our views and practices concerning privacy, and how they may pertain to you as a user of our website. We understand your concern regarding the use of your personal information and we hope this information will enable you to feel secure about using our website. **Information about our Organization and Web site** Modern information and communication technologies play a fundamental role in the activities of an organization like Learn Real English LLC. We are based in The USA.Our principal activity is: English Language EducationOur privacy policy covers Learn Real English LLC and its Web site: LearnRealEnglish.com 
 
