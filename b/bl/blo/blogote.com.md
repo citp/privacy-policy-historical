@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blogote.com privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602174550id_/http%3A//blogote.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blogote.com privacy policy that was archived on 2013-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131113121307id_/http%3A//blogote.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -16,11 +16,11 @@ We write pages like this one for you to keep everything transparent between us. 
 
 **Choice:**
 
-We give our users the freedom to do anything at Blogote. As a user, you can go to the main homepage, read our [popular articles](http://blogote.com/popular/), or even leave a comment. Again, it’s up to you to share your real name and email address.
+We give our users the freedom to do anything at Blogote. As a user, you can go to the main homepage, read our [popular articles](http://blogote.com/popular/ "POPULAR ARTICLES ON BLOGOTE"), or even leave a comment. Again, it’s up to you to share your real name and email address.
 
 **Security:**
 
-We use plugins to make sure our blog is hack-proof. We use [Knownhost](http://blogote.com/knownhost-review/), our web hosting provider, to regularly check our servers for issues and fix them as soon as possible. 
+We use plugins to make sure our blog is hack-proof. We use [Knownhost](http://blogote.com/knownhost-review/ "KNOWNHOST VPS REVIEW"), our web hosting provider, to regularly check our servers for issues and fix them as soon as possible. 
 
 ## What Data is Collected?
 
@@ -40,11 +40,11 @@ No cookies from us, which means all of your personal information will always be 
 
 **DoubleClick Cookie**
 
-[Google](http://google.com/) uses cookie. As a third-party vendor, they serve ads on our site. These cookies enables Google to serve ads to our sote based on their interests of users.
+[Google](http://google.com/ "GOOGLE SEARCH ENGINE") uses cookie. As a third-party vendor, they serve ads on our site. These cookies enables Google to serve ads to our sote based on their interests of users.
 
 If you don’t want Google to store cookie, and if you want complete privacy, please follow this URL: http://www.google.com/privacy_ads.html
 
-Similar to Google, there are other advertising and media partners who will use cookies and web beacons on Blogote. For now, though, Google Adsense is our only advertising partner. We also have an “[advertise on Blogote](http://blogote.com/advertise/)” page for our new advertisers — this is direct selling and they won’t store any cookie on your computer.
+Similar to Google, there are other advertising and media partners who will use cookies and web beacons on Blogote. For now, though, Google Adsense is our only advertising partner. We also have an “[advertise on Blogote](http://blogote.com/advertise/ "Advertising Page on Blogote")” page for our new advertisers — this is direct selling and they won’t store any cookie on your computer.
 
 The way these third-party ad servers or ad networks use technology amazes us. The place their advertisement on our site and the links that appears on Blogote will automatically detect the type of browser used by the user. It can also receive the IP address and minor details as mentioned earlier.
 
@@ -82,7 +82,7 @@ As mentioned earlier, only your minor details will be shared with our advertiser
 
 **Does Blogote share my information with other sites?**
 
-No. We do not sell anything to any of the websites out there. Your information is 100% safe with us. So, let’s say, if you have left a comment on one of our blog post — there are hundreds of comments on our [popular posts](http://blogote.com/popular/) — then we will not sell your name and email address to anyone.
+No. We do not sell anything to any of the websites out there. Your information is 100% safe with us. So, let’s say, if you have left a comment on one of our blog post — there are hundreds of comments on our [popular posts](http://blogote.com/popular/ "POPULAR ARTICLES ON BLOGOTE") — then we will not sell your name and email address to anyone.
 
 **Will you take my data to the offline world?**
 
@@ -92,4 +92,5 @@ No. Only our online advertisers will use your information to serve personlized a
 
 As a user, you will be able to understand how we operate, receive, collect the data. For us, it’s a platform to showcase our users that we are 100% committed to keep your information safe.
 
-Here is our [disclaimer page](http://blogote.com/disclaimer/).
+Here is our [disclaimer page](http://blogote.com/disclaimer/).  
+
