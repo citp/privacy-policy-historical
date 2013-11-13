@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the ryda.com.au privacy policy that was archived on 2013-05-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130502065754id_/http%3A//www.ryda.com.au/terms_privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ryda.com.au privacy policy that was archived on 2013-11-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131113135925id_/http%3A//www.ryda.com.au/terms_privacy.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><!--<![endif]--><head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
@@ -10,9 +10,10 @@
 <meta name="GOOGLEBOT" content="INDEX, FOLLOW">
 
 
-<script src="https://web.archive.org/web/20130409093816/https://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js" type="text/javascript"></script><script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="https://web.archive.org/web/20130409093816/https://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js" type="text/javascript"></script><script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
 <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jqueryui/1.8.4/jquery-ui.min.js"></script>
 <link type="text/css" href="//ajax.googleapis.com/ajax/libs/jqueryui/1.8.4/themes/base/jquery-ui.css" rel="stylesheet">
+<link type="text/css" href="/a/c/default.css" rel="stylesheet">
 
 
 <script type="text/javascript">
@@ -28,7 +29,30 @@
     var PageText_843 = "Subtotal";
     var PageText_844 = "items in cart";
 </script>
+<script type="text/javascript" src="/a/j/volusion.js?currentBuild"></script>
+<script type="text/javascript">
+    (function ($) {
+        volusion.ready(function () {
+            if (volusion.cart.isObservingCount()) {
+                var ts = new Date().getTime();
 
+                $.getJSON('/ajaxcart.asp?cachebust=' + ts, function (data) {
+                    var quantityTotal = 0;
+                    $.each(data.Products, function (key, val) {
+                        if (val.IsProduct === 'Y') {
+                            quantityTotal += parseInt(val.Quantity);
+                        } else if (val.IsAccessory === 'Y') {
+                            quantityTotal += parseInt(val.Quantity);
+                        }
+                    });
+                    quantityTotal = quantityTotal || '0';
+                    volusion.cart.itemCount(quantityTotal);
+                });
+
+            }
+        });
+    } (jQuery));
+</script>
 
 
 <script type="text/javascript" src="/a/j/soft_add.js"></script>
@@ -59,52 +83,17 @@
 	<script src="/v/vspfiles/templates/ryda/js/ie.select.js"></script>
 	<script>jQuery(function () {jQuery('#v65-cart-shipping-details select').ieSelectStyle();});</script>
 
-<!--<script type="text/javascript">
-
-  var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-460842-1']);
-  _gaq.push(['_setDomainName', 'ryda.com.au']);
-  _gaq.push(['_trackPageview']);
-
-  (function() {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })();
-
-</script>-->
 
 
-<script type="text/javascript" language="Javascript1.2">
-var gaJsHost = (("https:" == document.location.protocol) ? " https://ssl." : "http://www.");
-document.write("<" + "script type='text/javascript' src='" + gaJsHost + "google-analytics.com/ga.js'><" + "/script>");
-</script><script type="text/javascript" src=" https://ssl.google-analytics.com/ga.js"></script>
-<script type="text/javascript" language="Javascript" name="Google Analytics">
-function v_ga_track(ga_account, trackDomainName, theDomainName) {
-	var domainNameTracking = trackDomainName ? true : false;
-	var pageTracker = _gat._getTracker(ga_account);
-	pageTracker._initData();
 
-	if (domainNameTracking) {
-		if (!theDomainName) {
-			theDomainName = "http://aeb36.kfz5j.servertrust.com/".replace("https:","").replace("http:","");
-			theDomainName = theDomainName.substring(2,theDomainName.length - 1);
-		}
-		pageTracker._setDomainName(theDomainName);
-	}
-	pageTracker._trackPageview();
-	try {
-		pageTracker._addTrans(Order[0], "", Order[2], Order[4], Order[5], Order[6], Order[7], Order[8]);
-		for (var i=0; i < OrderDetails.length; i++)
-			pageTracker._addItem(OrderDetails[i][0], OrderDetails[i][2], OrderDetails[i][3], OrderDetails[i][4], OrderDetails[i][5], OrderDetails[i][6]);
-		pageTracker._trackTrans();
-	}
-	catch(e) {}
-}
-
-v_ga_track("UA-460842-1");
-</script>
 <meta name="google-site-verification" content="lvQ9hZ7dOz2WLbrYdWQAFTmFE0S2GCj6nGCFaRFnvHI">
+<!-- BEGIN GOOGLE ANALYTICS GENERAL TRACKING SCRIPT (INSERT IN HEAD SECTION) -->
+<script type="text/javascript">
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-460842-1']);
+_gaq.push(['_trackPageview']);
+</script>
+<!-- END -->
 
 </head>
 
@@ -150,7 +139,7 @@ v_ga_track("UA-460842-1");
 			<script>
 				createAds();
 				writeAds();
-			</script><div class="left"><a href="/Articles.asp?ID=267"><img src="/v/vspfiles/templates/ryda/images/ads/ad_3.jpg" alt="Advertisement"></a></div><div class="right"><a href="/Articles.asp?ID=267"><img src="/v/vspfiles/templates/ryda/images/ads/ad_2.jpg" alt="Advertisement"></a></div>
+			</script><div class="left"><a href="/Articles.asp?ID=267"><img src="/v/vspfiles/templates/ryda/images/ads/ad_4.jpg" alt="Advertisement"></a></div><div class="right"><a href="/Articles.asp?ID=267"><img src="/v/vspfiles/templates/ryda/images/ads/ad_3.jpg" alt="Advertisement"></a></div>
 		</div>
 	
 		<div id="content" class="clear">
@@ -167,6 +156,9 @@ function mClk1(src, popup)
 { if (!popup) {window.location=src.getElementsByTagName('A')[0].getAttribute('href');} else {window.open(src);} }
 </script>
 <ul>
+<li class="nav" onmouseover="mOvr1(this);" onmouseout="mOut1(this);" onclick="mClk1(this);">
+	<a href="http://www.ryda.com.au/Christmas-Gifts-s/1275.htm" title="Christmas Gifts"><span style="FONT-WEIGHT: bold; COLOR: #FF0000">Christmas Gifts</span></a>
+</li>
 <li class="nav" onmouseover="mOvr1(this);" onmouseout="mOut1(this);" onclick="mClk1(this);">
 	<a href="http://www.ryda.com.au/Hot-Offers-s/518.htm" title="Hot Offers"><span style="FONT-WEIGHT: bold; COLOR: #0000FF">Hot Offers</span></a>
 </li>
@@ -268,12 +260,10 @@ function DropDown_ShopBy_Manufacturer_onChange(arg_value) {
 <option value="" selected="">Shop By Brand</option>
 <option value="ACR">ACR</option>
 <option value="Aerpro">Aerpro</option>
-<option value="Akai">Akai</option>
 <option value="Alertegps">Alertegps</option>
 <option value="Alpine">Alpine</option>
 <option value="Arkon">Arkon</option>
 <option value="Axis">Axis</option>
-<option value="Barska">Barska</option>
 <option value="Black+Diamond">Black Diamond</option>
 <option value="Blackberry">Blackberry</option>
 <option value="Blaupunkt">Blaupunkt</option>
@@ -297,7 +287,6 @@ function DropDown_ShopBy_Manufacturer_onChange(arg_value) {
 <option value="Dual">Dual</option>
 <option value="Dynamat">Dynamat</option>
 <option value="Eneloop">Eneloop</option>
-<option value="Force">Force</option>
 <option value="Fusion">Fusion</option>
 <option value="Garmin">Garmin</option>
 <option value="GHT">GHT</option>
@@ -309,8 +298,6 @@ function DropDown_ShopBy_Manufacturer_onChange(arg_value) {
 <option value="Hama">Hama</option>
 <option value="Hoya">Hoya</option>
 <option value="Infinity">Infinity</option>
-<option value="ION">ION</option>
-<option value="iriver">iriver</option>
 <option value="Jawbone">Jawbone</option>
 <option value="JBL">JBL</option>
 <option value="Jensen">Jensen</option>
@@ -331,13 +318,10 @@ function DropDown_ShopBy_Manufacturer_onChange(arg_value) {
 <option value="Metz">Metz</option>
 <option value="Milkshake">Milkshake</option>
 <option value="Mio">Mio</option>
-<option value="Motorola">Motorola</option>
-<option value="MTX">MTX</option>
 <option value="Navig8r">Navig8r</option>
 <option value="Navman">Navman</option>
 <option value="Nike">Nike</option>
 <option value="Nikon">Nikon</option>
-<option value="Nokia">Nokia</option>
 <option value="Olympus">Olympus</option>
 <option value="Opteka">Opteka</option>
 <option value="Oregon">Oregon</option>
@@ -347,7 +331,6 @@ function DropDown_ShopBy_Manufacturer_onChange(arg_value) {
 <option value="Panasonic">Panasonic</option>
 <option value="Parrot">Parrot</option>
 <option value="Pentax">Pentax</option>
-<option value="Philips">Philips</option>
 <option value="Pioneer">Pioneer</option>
 <option value="Polar">Polar</option>
 <option value="Polaris">Polaris</option>
@@ -355,7 +338,6 @@ function DropDown_ShopBy_Manufacturer_onChange(arg_value) {
 <option value="Power+Acoustik">Power Acoustik</option>
 <option value="Pure">Pure</option>
 <option value="Rhino">Rhino</option>
-<option value="Ricoh">Ricoh</option>
 <option value="Rockford+Fosgate">Rockford Fosgate</option>
 <option value="Ryda">Ryda</option>
 <option value="Sandisk">Sandisk</option>
@@ -373,7 +355,6 @@ function DropDown_ShopBy_Manufacturer_onChange(arg_value) {
 <option value="Stinger">Stinger</option>
 <option value="Strike">Strike</option>
 <option value="Stronium">Stronium</option>
-<option value="Sudio">Sudio</option>
 <option value="Suunto">Suunto</option>
 <option value="Swann">Swann</option>
 <option value="Swissvoice">Swissvoice</option>
@@ -385,6 +366,7 @@ function DropDown_ShopBy_Manufacturer_onChange(arg_value) {
 <option value="Waeco">Waeco</option>
 <option value="Watchguard">Watchguard</option>
 <option value="wiley">wiley</option>
+<option value="XIT">XIT</option>
 </select></form></div>				
 					<div id="DropDown_ShopBy_Price"><script type="text/javascript">
 function DropDown_ShopBy_Price_onChange(arg_value) {
@@ -415,7 +397,7 @@ function DropDown_ShopBy_Price_onChange(arg_value) {
 				<div class="promo clear">
 					<img src="/v/vspfiles/templates/ryda/images/template/sydney_showroom.png" alt="Sydney Showroom">
 				</div>
-				<div id="display_promotions_999" class="clear"><img alt="" src="/v/vspfiles/assets/images/anzac.jpg" align="" style="" border="0"><br><!-- GeoTrust QuickSSL [tm] Smart  Icon tag. Do not edit. -->
+				<div id="display_promotions_999" class="clear"><!-- GeoTrust QuickSSL [tm] Smart  Icon tag. Do not edit. -->
 <script language="JavaScript" type="text/javascript" src="//smarticon.geotrust.com/si.js"></script>
 <!-- end  GeoTrust Smart Icon tag --></div>
 			</div> <!-- #leftnav -->
@@ -615,6 +597,17 @@ function DropDown_ShopBy_Price_onChange(arg_value) {
 		<a href="/dealoftheday.asp"></a>
 	</div>
 
+<!-- BEGIN GOOGLE ANALYTICS GENERAL TRACKING SCRIPT (INSERT BEFORE CLOSE BODY TAG) -->
+<script type="text/javascript">  (function() {
+var ga = document.createElement('script');     ga.type = 'text/javascript'; ga.async = true;
+ga.src = ('https:'   == document.location.protocol ? 'https://ssl'   : 'http://www') + '.google-analytics.com/ga.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
+</script>
+
+<!-- begin Alkemi Testing code--><script type="text/javascript">/*rvidheader#1.5.0*/var REED_host = (("https:" == document.location.protocol) ? "https://s"+"3.ama"+"zonaw"+"s.com/statics"+".reedge.com" : "http://statics"+".reedge.com");var REED_s = 'REED_1001454_10011120';var REED_f;if((typeof(jQuery) != "undefined")) REED_f="REED_main_no_jquery.js";else REED_f="REED_main.js" ;document.write(unescape("%3Cscript src='" + REED_host + "/js/"+REED_f+"' type='text/javascript'%3E%3C/script%3E"));</script><script src="https://s3.amazonaws.com/statics.reedge.com/js/REED_main_no_jquery.js" type="text/javascript"></script><!-- end Alkemi Testing code -->
+
+<!-- END -->
 	
 
 
