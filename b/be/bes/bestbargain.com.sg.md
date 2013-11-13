@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bestbargain.com.sg privacy policy that was archived on 2012-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121127191926id_/http%3A//www.bestbargain.com.sg/about/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bestbargain.com.sg privacy policy that was archived on 2013-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131113071240id_/http%3A//www.bestbargain.com.sg/about/privacy.php) for the most accurate reproduction.*
 
-# Welcome to Best Bargain - 每日团购|Singapore|购物|优惠券|打折
+# Great Online Cheap Deals Everyday | Free Coupons | Singapore
 
 This Privacy Policy discloses the privacy practices for the BestBargain website (collectively, the "Website" located at www.bestbargain.com.sg). Best Bargain Gloabal Pte Ltd , a Singapore Private Limited Company and owned by Best Bargain Global Pte Ltd, the provider of the Website (referred to as "us" or "we"), is committed to protecting your privacy online. Please read the following to learn what information we collect from you (the "User" or the "End User") and how we use that information. If you have any questions about our privacy policy, please email us.
 
@@ -100,5 +100,5 @@ If at any time you would like to unsubscribe from our mailing list, please use t
 
 Whether you're a new or loyal customer, restaurant owner, marketer, publisher, media member or job seeker we'd like to stay connected and want to hear from you!
 
-Customer Service Inquiries | [info@bestbargain.com.sg](mailto:info@bestbargina.com.sg)  
+Customer Service Inquiries | [feedback@bestbargain.com.sg](mailto:feedback@bestbargina.com.sg)  
 74 South Bridge Road, Wong Shee Fun building, #02-01, Singapore (058704)
