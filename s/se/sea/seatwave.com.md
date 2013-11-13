@@ -1,16 +1,12 @@
-> *The following text is extracted and transformed from the seatwave.com privacy policy that was archived on 2013-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130606183855id_/http%3A//www.seatwave.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seatwave.com privacy policy that was archived on 2013-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131113125433id_/http%3A//www.seatwave.com/privacy-policy) for the most accurate reproduction.*
 
 # Seatwave - Privacy policy
-
-## [](http://www.truste.org/ivalidate.php?url=www.seatwave.com&sealid=101)
 
 This Privacy Policy was last updated on 27 April 2011 and is effective as of that date.
 
 Seatwave Limited ("Seatwave", "we", "us" or "our") respects the privacy of every individual who visits this www.seatwave.com web site (the "Site"). This Privacy Policy governs the way in which we use and disclose any personal information (the "Personal Information" that you provide to us or we collect from you). Personal Information includes any information that identifies you or another individual personally, such as your name, address or email address.
 
-Seatwave is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build user's trust and confidence in the Internet by promoting the use of fair information practices. Because this Site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe..
-
-If you have questions or concerns regarding this Privacy Policy, you should first contact our privacy commissioner at [privacy@seatwave.com](mailto:privacy@seatwave.com). If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at <http://www.truste.org/consumers/watchdog_complaint.php> TRUSTe will then serve as a liaison with us to resolve your concerns.
+If you have questions or concerns regarding this Privacy Policy, you should first contact our privacy commissioner at [privacy@seatwave.com](mailto:privacy@seatwave.com) or call 0844 5818180.
 
 ### Information that we collect
 
