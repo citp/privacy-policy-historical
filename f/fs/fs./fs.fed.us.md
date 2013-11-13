@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fs.fed.us privacy policy that was archived on 2013-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130524144804id_/http%3A//www.fs.fed.us/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fs.fed.us privacy policy that was archived on 2013-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131113092704id_/http%3A//www.fs.fed.us/privacy.shtml) for the most accurate reproduction.*
 
 # USDA Forest Service - Caring for the land and serving people.
 
@@ -8,7 +8,7 @@ The United States Forest Service (FS) takes the security of information very ser
 
   * For site security purposes and to ensure that this service remains available to all users, this government computer system employs commercial software programs to monitor network traffic to identify unauthorized attempts to upload or change information, or otherwise cause damage.
   * Except for authorized law enforcement investigations, no other attempts are made to identify individual users or their usage habits. Raw data logs are used for no other purposes and are scheduled for regular destruction in accordance with National Archives and Records Administration guidelines.
-  * Unauthorized attempts to upload information or change information on this service are strictly prohibited and may be punishable under the Computer Fraud and Abuse Act of 1986 and the National Information Infrastructure Protection Act
+  * Unauthorized attempts to upload information or change information on this service are strictly prohibited and may be punishable under the Computer Fraud and Abuse Act of 1986 and the National Information Infrastructure Protection Act.
 
 
 
@@ -36,7 +36,7 @@ The notice must address the following criteria:
 
   * Legal authorization to collect information about you;
   * Purpose for which the information will be used;
-  * Routine uses for disclosure of information outside of the Forest Service  of Homeland Security;
+  * Routine uses for disclosure of information outside of the Forest Service and the Department of Homeland Security;
   * Whether your providing the information is voluntary or mandatory under law; and
   * Effects if you choose to not provide the requested information.
 
@@ -76,8 +76,6 @@ We welcome feedback if you have any questions regarding our privacy policy or th
 * * *
 
 **Example: Information Collected from the USDA Forest Service Website for Statistical Purposes**
-
-**_Example: Information Collected from the USDA Forest Service Website for Statistical Purposes_**
 
 _Below is an example of the information collected based on a standard request for a World Wide Web document:_
 
