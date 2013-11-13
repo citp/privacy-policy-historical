@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sunnysidesoft.com privacy policy that was archived on 2013-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130627193654id_/http%3A//www.sunnysidesoft.com/virtualtablet/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sunnysidesoft.com privacy policy that was archived on 2013-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131113051107id_/http%3A//www.sunnysidesoft.com/virtualtablet/privacy-statement) for the most accurate reproduction.*
 
 # SUNNYSIDESOFT | Privacy Statement
 
