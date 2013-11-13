@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the concertvault.com privacy policy that was archived on 2013-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130618082740id_/http%3A//www.wolfgangsvault.com/concerts/support/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the concertvault.com privacy policy that was archived on 2013-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131113215302id_/http%3A//www.concertvault.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Wolfgang's Vault Privacy Policy - wolfgangsvault.com
+# Wolfgang's Vault Privacy Policy - concertvault.com
 
 We are committed to protecting your personal security and privacy, and we appreciate your trust that we will do so. By collecting such information at our website we strongly believe that we can significantly improve our level of customer service and make your future visits to our website more worthwhile. 
 
