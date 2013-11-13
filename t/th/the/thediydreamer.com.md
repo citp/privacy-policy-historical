@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thediydreamer.com privacy policy that was archived on 2013-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130426230412id_/http%3A//thediydreamer.com/full-disclosure-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thediydreamer.com privacy policy that was archived on 2013-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131113142051id_/http%3A//thediydreamer.com/full-disclosure-privacy-policy) for the most accurate reproduction.*
 
 # Disclosure and Privacy Policies - The D.I.Y. Dreamer
 
@@ -28,7 +28,11 @@ The D.I.Y. Dreamer is not responsible for the content of external internet sites
 
 **Cookies**
 
-A “cookie” is a small data text file that is placed in your browser and allows The D.I.Y. Dreamer to recognize you each time you visit this site(customisation etc). Cookies themselves do not contain any personal information, and The D.I.Y. Dreamer does not use cookies to collect personal information. Cookies may also be used by 3rd party content providers such as newsfeeds.
+A “cookie” is a small data text file that is placed in your browser and allows The D.I.Y. Dreamer to recognize you each time you visit this site(customization etc). Cookies themselves do not contain any personal information, and The D.I.Y. Dreamer does not use cookies to collect personal information. Cookies may also be used by 3rd party content providers such as news feeds.
+
+**Cookies & 3rd Party Advertisements**
+
+We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit http://www.networkadvertising.org/managing/opt_out.asp.
 
 **Remember The Risks Whenever You Use The Internet**
 
