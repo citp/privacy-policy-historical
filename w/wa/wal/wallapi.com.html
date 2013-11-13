@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the wallapi.com privacy policy that was archived on 2013-06-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130625063459id_/http%3A//www.paymentwall.com/privacypolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the wallapi.com privacy policy that was archived on 2013-11-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131113075239id_/http%3A//www.paymentwall.com/privacypolicy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
 <meta charset="UTF-8">
@@ -15,13 +15,13 @@
 <title>Paymentwall</title>
 <link rel="shortcut icon" href="http://www.paymentwall.com/favicon.ico">
 <link rel="icon" type="image/ico" href="http://www.paymentwall.com/favicon.ico">
-<link rel="stylesheet" type="text/css" href="http://www.paymentwall.com/css/css.css?179">
+<link rel="stylesheet" type="text/css" href="http://www.paymentwall.com/css/css.css?198">
 <link rel="stylesheet" type="text/css" href="http://www.paymentwall.com/oswald_font/stylesheet.css">
 
-<script src="http://www.paymentwall.com/js/prototype.js" type="text/javascript"></script>
+<script type="text/javascript" async="" src="https://mc.yandex.ru/metrika/watch.js"></script><script src="http://www.paymentwall.com/js/prototype.js" type="text/javascript"></script>
 <script src="http://www.paymentwall.com/js/effects.js" type="text/javascript"></script>
 <script type="text/javascript">
-	var boomapiUrl = 'https://wallapi.com/';
+	var boomapiUrl = 'https://api.paymentwall.com/';
 	var baseUrl = 'http://www.paymentwall.com/';
 </script>
 </head>
@@ -32,7 +32,7 @@
 	<div class="popup_title">
 		<strong>Log in</strong>
 		for business accounts
-		<a href="javascript:void(0);" onclick="$('login').hide();$('fade').hide()" class="close">Close</a>
+		<a href="javascript:void(0);" onclick="$('login').hide();$('fade').hide();window.history.replaceState('Object', 'Title', clearPath);" class="close">Close</a>
 		<div class="coin"></div>
 	</div>
 	<div class="login_form" id="login_form">
@@ -48,7 +48,7 @@
 		</div>
 
         <div class="msg error" id="error_msg1" style="display:none;">The email or password is incorrect.</div>
-		<form id="loginForm" action="https://wallapi.com/developers/index/login" method="POST">
+		<form id="loginForm" action="https://api.paymentwall.com/developers/index/login" method="POST">
 						<input type="hidden" name="external_login" value="1">
 			<div class="section">
 				<div><input name="data[email]" type="text" value="" data-alt="Email" class="textfield ic_email altname selectable"></div>
@@ -69,7 +69,7 @@
 		</form>
 	</div>
 	<div class="login_form" id="forgot_pass" style="display:none;">
-		<form id="forgotPasswordForm" action="https://wallapi.com/developers/index/forgot-password" method="POST">
+		<form id="forgotPasswordForm" action="https://api.paymentwall.com/developers/index/forgot-password" method="POST">
     	<a href="javascript:void(0);" onclick="hideForgotPassword();" class="popup_back" id="back">« Back</a>
 		<div class="section" style="text-align:center;">
 			<h3><span id="partner_reminder_id">Merchant's </span> Password Reminder</h3>
@@ -100,8 +100,10 @@
 	<div class="popup_title">
 		<strong>Sign Up</strong>
 		for paymentwall merchant account or paymentwall advertiser account
-
-		<a href="javascript:void(0);" onclick="$('signup').hide();$('fade').hide();" class="close">Close</a>
+		<script>
+			var clearPath = "/privacypolicy";
+		</script>
+		<a href="javascript:void(0);" onclick="$('signup').hide();$('fade').hide();window.history.replaceState('Object', 'Title', clearPath);" class="close">Close</a>
 		<div class="coin"></div>
 	</div>
 	<div class="signup_form">
@@ -120,7 +122,7 @@
 <script src="http://www.paymentwall.com/js/placeholder.js?1" type="text/javascript"></script>
 <![endif]-->
 
-<form action="https://wallapi.com/developers/index/signup" method="POST">
+<form action="https://api.paymentwall.com/developers/index/signup" method="POST">
 			<div class="msg error" id="error_msg2" style="display:none;"></div>
 		<input type="hidden" name="external_login" value="1">
 	<div class="section" style="border-top:none;">
@@ -442,7 +444,7 @@ window.onload = function(){
 <script src="http://www.paymentwall.com/js/placeholder.js?1" type="text/javascript"></script>
 <![endif]-->
 
-<form action="https://wallapi.com/advertisers/index/signup" method="POST">
+<form action="https://api.paymentwall.com/advertisers/index/signup" method="POST">
 			<div class="msg error" id="error_msg2" style="display:none;"></div>
 		<input type="hidden" name="external_login" value="1">
 	<div class="section" style="border-top:none;">
@@ -721,7 +723,7 @@ window.onload = function(){
 </script>
 <![endif]-->		</div>
 		<div class="section3">
-			To pay with Paymentwall, <a href="https://wallapi.com/users/">sign up as a customer</a>.
+			To pay with Paymentwall, <a href="https://api.paymentwall.com/users/">sign up as a customer</a>.
 		</div>
 	</div>
 </div><div class="header">
@@ -734,7 +736,7 @@ window.onload = function(){
 		<li>
 			<div class="switch_holder">
 	    		<div>Business</div>
-	        	<a id="addToolTip" class="switch" href="https://wallapi.com/users" title="I'm interested in paying with Paymentwall">Personal</a>
+	        	<a id="addToolTip" class="switch" href="https://api.paymentwall.com/users" title="I'm interested in paying with Paymentwall">Personal</a>
 	        	<b class="clear"></b>
         	</div>
 		</li>
@@ -754,7 +756,7 @@ window.onload = function(){
 																		<a href="http://www.paymentwall.com/en/about-us">company</a>
 															</li>
 												<li id="additional1">
-																		<a href="http://www.paymentwall.com/en/test/jobs">WE'RE HIRING</a>
+																		<a href="http://www.paymentwall.com/en/jobs">WE'RE HIRING</a>
 															</li>
 						</ul>
 	<a id="lang_but" href="javascript:void(0);" onclick="tog_lang();" class="flag en"><b>english</b></a>
@@ -767,6 +769,7 @@ window.onload = function(){
 	
 <div id="lang_panel" class="lang" style="display: none;">
 	       <a class="en sel" onclick="hide_lang();" href="http://www.paymentwall.com/en/privacypolicy"><b></b>english</a>
+	       <a class="tr " onclick="hide_lang();" href="http://www.paymentwall.com/tr/privacypolicy"><b></b>Turkish</a>
 	       <b class="clear"></b>
 </div>
 	
@@ -783,10 +786,10 @@ window.onload = function(){
 	</div>
 <div class="content ">
 	<div class="badge ">
-		<img usemap="#Map" alt="The Europas Winner" src="/images/corner_casualconnect2013.png">
+		<!-- <img usemap="#Map" alt="The Berlin Music Panel" title="The Berlin Music Panel" src="https://api.paymentwall.com/content/design/files/promo/2013/musicpanel/badge_mb.png">
 <map name="Map">
-<area target="_blank" href="http://www.paymentwall.com/en/contacts" coords="7,-1,280,-1,280,200" shape="poly">
-</map>
+<area target="_blank" href="http://paymentwall.com/events/musicpanel/" coords="7,-1,280,-1,280,200" shape="poly">
+</map> -->
 	</div>
 
 	<h1>Privacy Policy</h1>
@@ -843,12 +846,12 @@ window.onload = function(){
 																								<li><a href="http://www.paymentwall.com/en/paymentwall">Paymentwall</a></li>
 																																<li><a href="http://www.paymentwall.com/en/subscriptions">Subscriptions</a></li>
 																																<li><a href="http://www.paymentwall.com/en/offerwall">Offerwall</a></li>
+																																<li><a href="http://www.paymentwall.com/en/mobiamo">Mobiamo</a></li>
 																																<li><a href="http://www.paymentwall.com/en/paymentwall-mobile">Paymentwall Mobile</a></li>
-																																<li><a href="http://www.paymentwall.com/en/shopping-cart">Shopping Cart</a></li>
-																																<li><a href="http://www.paymentwall.com/en/mobilepayplus">MobilePay+</a></li>
 																																<li><a href="http://www.paymentwall.com/en/2-click-payments">2-Click Payments</a></li>
-																																<li><a href="http://www.paymentwall.com/en/donations">Donations</a></li>
 																																<li><a href="http://www.paymentwall.com/en/paymentwall-connect">Paymentwall Connect</a></li>
+																																<li><a href="http://www.paymentwall.com/en/donations">Donations</a></li>
+																																<li><a href="http://www.paymentwall.com/en/shopping-cart">Shopping Cart</a></li>
 																					</ul>
 					</div>
 																									<div class="foot_menu">
@@ -880,6 +883,8 @@ window.onload = function(){
 																																<li><a href="http://www.paymentwall.com/en/team">Team</a></li>
 																																<li><a href="http://www.paymentwall.com/en/press">Press</a></li>
 																																<li><a href="http://www.paymentwall.com/en/logos">Logos &amp; Buttons</a></li>
+																																<li><a href="http://www.paymentwall.com/en/jobs">Jobs</a></li>
+																																<li><a href="http://www.paymentwall.com/en/events">Events</a></li>
 																					</ul>
 					</div>
 																											
@@ -968,15 +973,15 @@ var signupPage = 0;
 		e.className='sel';
 		$('advertiser').className='';
 		$('partner_reminder_id').update('Merchant\'s');
-		$('loginForm').action='https://wallapi.com/developers/index/login';
-		$('forgotPasswordForm').action='https://wallapi.com/developers/index/forgot-password';
+		$('loginForm').action='https://api.paymentwall.com/developers/index/login';
+		$('forgotPasswordForm').action='https://api.paymentwall.com/developers/index/forgot-password';
 	}
 	function changeToMerchant(e) {
 		e.className='sel';
 		$('developer').className='';
 		$('partner_reminder_id').update('Advertiser\'s');
-		$('loginForm').action='https://wallapi.com/advertisers/index/login';
-		$('forgotPasswordForm').action='https://wallapi.com/advertisers/index/forgot-password';
+		$('loginForm').action='https://api.paymentwall.com/advertisers/index/login';
+		$('forgotPasswordForm').action='https://api.paymentwall.com/advertisers/index/forgot-password';
 	}
 	function tog_lang() {
 		if ($('lang_panel').getStyle('display') == 'none') {
@@ -1002,5 +1007,32 @@ pageTracker._trackPageview();
 } catch(err) {}
 
 </script>
-<iframe src="https://wallapi.com/developers/paymentwall/getinfo" width="1" height="1" frameborder="0"></iframe>	
+<iframe src="https://api.paymentwall.com/developers/paymentwall/getinfo" width="1" height="1" frameborder="0"></iframe>
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript">
+(function (d, w, c) {
+    (w[c] = w[c] || []).push(function() {
+        try {
+            w.yaCounter21914596 = new Ya.Metrika({id:21914596,
+                    webvisor:true,
+                    clickmap:true,
+                    trackLinks:true,
+                    accurateTrackBounce:true});
+        } catch(e) { }
+    });
+
+    var n = d.getElementsByTagName("script")[0],
+        s = d.createElement("script"),
+        f = function () { n.parentNode.insertBefore(s, n); };
+    s.type = "text/javascript";
+    s.async = true;
+    s.src = (d.location.protocol == "https:" ? "https:" : "http:") + "//mc.yandex.ru/metrika/watch.js";
+
+    if (w.opera == "[object Opera]") {
+        d.addEventListener("DOMContentLoaded", f, false);
+    } else { f(); }
+})(document, window, "yandex_metrika_callbacks");
+</script>
+<noscript><div><img src="//mc.yandex.ru/watch/21914596" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
 </body></html>
