@@ -1,10 +1,11 @@
-<!--The following is the downloaded HTML source of the rocbattle.com privacy policy that was archived on 2013-06-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130618162621id_/http%3A//rocbattle.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the rocbattle.com privacy policy that was archived on 2013-11-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131113114502id_/http%3A//rocbattle.com/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="keywords" content="Buy Beats, Sell Beats Online, Beat Battle, Website to sell beats, Dirty South Beats, Trap beats, Download beats and instrumentals, ">
 <meta name="description" content="Buy Beats or Sell Beats Online Form Hundreds of Music Producers. Battle Beats with Other Music Producers online. Where are the number beat battle website online.  ">
+<meta name="verifyownership" content="5a54a163650e8eacd58c6775085e9ff9">
 <!--<meta property="og:type" content="website"/>
 <meta property="og:url" content="http://rocbattle.com"/>-->
 <meta property="og:image" content="http://rocbattle.com/images/userimage/">
@@ -195,17 +196,70 @@ function beat_search()
 			req.send(null);
 		}
 	}
-	function fun_addcartonbeat2(beat_id, user_id) {
-		$("#div1_info_btn"+beat_id).html('<img src="images/indicator.gif" style="padding-top:10px; padding-left:12px" />');
+	
+	function fun_addcart3(beat_id, user_id) {
+		$("#div3_info_btn"+beat_id).html('<img src="images/indicator.gif" style="padding-top:10px; padding-left:12px" />');
 		var strURL="add_to_cart_ajax.php?type=add&beat_id="+beat_id+"&user_id="+user_id;
 		var req = getXMLHTTP();
+		var dummy = new Date().getTime();
 		if (req) {
 			req.onreadystatechange = function() {
 				if (req.readyState == 4) {
 					// only if "OK"
 					if (req.status == 200) {						
 						//$('#main_div').load('index.php #main_div');
-						$('#cartiddiv').load('store.php #cartiddiv');
+						$('#cartiddiv').load('checkcart.php?'+dummy,function( response, status, xhr ) {
+							if (status == "success")
+							{
+								
+							  		
+								
+							
+						
+								
+							}
+	 
+                        });
+						
+					   $('#plbtn'+beat_id).hide()
+						$('#div3_info_btn'+beat_id).removeClass('info_btn')
+						$("#div3_info_btn"+beat_id).html('<div align="center" style="padding-top:50px"><div id="id_added_cart" class="added_cart1"></div></div>');
+				
+						
+						
+					
+					} else {
+						alert("There was a problem while using XMLHTTP:\n" + req.statusText);
+					}
+				}				
+			}			
+			req.open("GET", strURL, true);
+			req.send(null);
+		}
+	}
+	function fun_addcartonbeat2(beat_id, user_id) {
+		$("#div1_info_btn"+beat_id).html('<img src="images/indicator.gif" style="padding-top:10px; padding-left:12px" />');
+		var strURL="add_to_cart_ajax.php?type=add&beat_id="+beat_id+"&user_id="+user_id;
+		var req = getXMLHTTP();
+		var dummy = new Date().getTime();
+		if (req) {
+			req.onreadystatechange = function() {
+				if (req.readyState == 4) {
+					// only if "OK"
+					if (req.status == 200) {						
+						//$('#main_div').load('index.php #main_div');
+						$('#cartiddiv').load('checkcart.php?'+dummy,function( response, status, xhr ) {
+							if (status == "success")
+							{
+								
+							  		
+								
+							
+						
+								
+							}
+	 
+                        });
 						
 					   $('#plbtn'+beat_id).hide()
 						$('#div1_info_btn'+beat_id).removeClass('info_btn')
@@ -317,7 +371,7 @@ else
 
 </script>
 
-<script type="text/javascript">
+<!--<script type="text/javascript" >
 
      $(document).ready(function(e) {
 
@@ -332,28 +386,28 @@ var divbottom = positionu2.top + pu2.outerHeight(true);
 var therightsidestart = (positionu2.left + pu2.outerWidth(true))+3;
 var newwidth= (positionu2.left-7);
 
-//console.log( "right start: " + therightsidestart);
+
 $("#leftsection").css('height',divbottom);
 $("#leftsection").css('width',newwidth);
 $("#leftsection").css('left','5px');
 $("#leftsection").click(function() {
-//console.log( "left: " + positionu.left + ", top: " + positionu.top);
-window.location.href= "http://rocbattle.com/tournament.php";
+
+window.location.href= "http://beatbackers.com";
 });
 
 $("#rightsection").css('height',divbottom);
 $("#rightsection").css('width',newwidth);
 $("#rightsection").css('left',therightsidestart + 'px');
 $("#rightsection").click(function() {
-//console.log( "left: " + positionu.left + ", top: " + positionu.top);
-window.location.href= "http://rocbattle.com/tournament.php";
+
+window.location.href= "http://beatbackers.com";
 });   
      
 
         
        });
 
-</script>
+</script>-->
 		<script type="text/javascript"><!--
 var lastDiv = "";
 function showDiv(divName) {
@@ -451,9 +505,9 @@ function showMe(val) {
 -->
 </style>
 
-</head>
+<style type="text/css" media="screen">html {height:100%;}body {margin:0; padding:0;}#flashContent {visibility:hidden}</style></head>
 
-<body style="">
+<body>
 <div id="leftsection" style="cursor: pointer;;height:500px;width: 170px;border=0;position: absolute;left: 5px;top: 61px;">
 
 
@@ -492,7 +546,7 @@ function showMe(val) {
 <div class="newheader">
 	<div class="main">
     	<div class="newtop_header">
-        <div class="header_left"><a href="index.php">Home</a> | <a href="sell-beats.php">Sell Beats</a>  |  <a href="buy_beats.php">Buy Beats</a>  |  <a href="how-it-works.php">How Rocbattle Works</a></div>
+        <div class="header_left"><a href="index.php">Home</a> | <a href="sell-beats.php">Sell Beats</a>  |  <a href="buy_beats.php">Buy Beats</a> | <a href="forum.php">Forum</a></div>
       		
 	  			  		<div class="header_right">
 					  <div id="cartiddiv" class="">
@@ -559,7 +613,19 @@ function showMe(val) {
    </div>     
 </div>
  <!------------------------------------------------------->
-<!--<div align='center' style="color:#F00; padding:5px; border:medium #fff; background-color:#333; margin-top:10px;"><strong>Rocbattle 4.0. BETA Message</strong> - Beat Battles are live for testing. Real Battles start February 1st. <a href="upload_battle.php">Start a battle today </a>or <a href="beat-battles.php">Vote on a battle here.</a> <br /><strong class="green">$1000 Cash Prize</strong> for March 2013 Tourney Winner!!</div>-->
+<!--<div align='center' style="color:#F00; padding:5px; border:medium #fff; background-color:#333; margin-top:10px;"><strong style="color:#33FF00;">Top 64 Music Producers August 2013 Tournament</strong>  - <a href="http://www.rocbattle.com/tournament.php">Click Here</a></div>
+<div align='center' style="color:#F00; padding:5px; border:medium #fff; background-color:#000; margin-top:10px;"><a href="http://www.rocbattle.com/staff_cash.php"><img src="images/staff-banner-kdagreat-basem.png" /></a></div>-->
+<!-- START 900x100 Ad Peeps Ad Code -->
+<p align="center">
+<script type="text/javascript" src="http://www.rocbattle.com/ads/adpeeps.php?bf=showad&amp;uid=100000&amp;bmode=off&amp;gpos=center&amp;bzone=top900&amp;bsize=900x100&amp;btype=3&amp;bpos=default&amp;btotal=4&amp;btarget=_blank&amp;brefresh=10&amp;bborder=0">
+</script>
+<noscript>
+<a href="http://www.rocbattle.com/ads/adpeeps.php?bf=go&amp;uid=100000&amp;bmode=off&amp;bzone=top900&amp;bsize=900x100&amp;btype=1&amp;bpos=default" target="_blank">
+<img src="http://www.rocbattle.com/ads/adpeeps.php?bf=showad&amp;uid=100000&amp;bmode=off&amp;bzone=top900&amp;bsize=900x100&amp;btype=1&amp;bpos=default" width="900" height="100" alt="Click Here!" title="Click Here!" border="0" /></a>
+</noscript>
+</p>
+<!-- END Ad Peeps Ad Code -->
+
  
  <div class="top_secod">
    <div class="top_logo"><a href="index.php"><img src="images/logo.jpg"></a></div>
@@ -571,6 +637,9 @@ function showMe(val) {
 	  		<tbody><tr>
       	  		<td>
 					<a href="index.php" style="text-decoration:none"><span style=" color:#d18201;">Home</span></a> |		
+          		</td>
+                <td>
+					<a href="forum.php" style="text-decoration:none"><span style=" color:#d18201;">Forum</span></a> |		
           		</td>
 	  			       			<!--<td></td>-->
 				  
@@ -591,8 +660,8 @@ function showMe(val) {
             <li><a href="buy-beats-chart.php"><img src="images/buy-beat-charts.jpg"></a></li>
             <li><a href="buy_beats.php"><img src="images/buy-beats.jpg"></a></li>
             <li><a href="beat-battles.php"><img src="images/beat-battle.jpg"></a></li>
-            <li><a href="music-producers.php"><img src="images/producers.jpg"></a></li>
             <li><a href="music-producers-ranked.php"><img src="images/top-ranked.jpg"></a></li>
+            <li><a href="searchrb.php?search_id=active_topics"><img src="images/forums.jpg"></a></li>
           </ul>
         </div>
       </div>
@@ -782,13 +851,25 @@ function getXMLHTTP() { //fuction to return the xml http object
 		$("#div1_info_btn"+beat_id).html('<img src="images/indicator.gif" style="padding-top:10px; padding-left:12px" />');
 		var strURL="add_to_cart_ajax.php?type=add&beat_id="+beat_id+"&user_id="+user_id;
 		var req = getXMLHTTP();
+		var dummy = new Date().getTime();
 		if (req) {
 			req.onreadystatechange = function() {
 				if (req.readyState == 4) {
 					// only if "OK"
 					if (req.status == 200) {						
 						//$('#main_div').load('index.php #main_div');
-						$('#cartiddiv').load('store.php?u= #cartiddiv');
+						$('#cartiddiv').load('checkcart.php?'+dummy,function( response, status, xhr ) {
+							if (status == "success")
+							{
+								
+							  		
+								
+							
+						
+								
+							}
+	 
+                        });
 						
 					   $('#plbtn'+beat_id).hide()
 						$('#div1_info_btn'+beat_id).removeClass('info_btn')
@@ -809,7 +890,7 @@ function getXMLHTTP() { //fuction to return the xml http object
 </script>
     		<!-- SWFObject's dynamic embed method replaces this alternative HTML content for Flash content when enough JavaScript and Flash plug-in support is available. -->
         
-			<div id="flashContent" style="height:76px;">
+			<div id="flashContent" style="height: 76px; visibility: visible;">
 			<a href="http://www.adobe.com/go/getflash">
 				<img src="http://www.adobe.com/images/shared/download_buttons/get_flash_player.gif" alt="Get Adobe Flash player">
 			</a>
@@ -915,6 +996,8 @@ function show(id)
           <br>
            <a href="blog">Rocbattle Blog</a>
         <br>
+               <a href="link-partners.php">Links</a>
+        <br>
           <br>
         <span class="blockTxt white"><strong>Support</strong></span><br>
         <a href="/tickets">Submit Support Ticket</a>
@@ -996,8 +1079,6 @@ target="_blank"><img class="statcounter"
 src="http://c.statcounter.com/8048214/0/22e2b659/1/"
 alt="tumblr site counter"></a></div></noscript>
 <!-- End of StatCounter Code for Default Guide -->
-
-
 
 
 </body></html>
