@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the metroid.com privacy policy that was archived on 2013-06-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130627171947id_/http%3A//www.nintendo.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the metroid.com privacy policy that was archived on 2013-11-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131113114213id_/http%3A//www.nintendo.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -72,15 +72,17 @@ thefield.value = ""
 		<li class="major wiiu"> <a href="/wiiu">Wii U</a> </li>
 		<li class="major wii"> <a href="/wii">Wii</a> </li>
 		<li class="major n3ds"><a href="/3ds">Nintendo 3DS</a></li>
-        <li class="major ds"><a href="/ds">Nintendo DS</a></li>
 		<li class="major games"><a href="/games">Games</a></li>
 		<li class="major club"><a href="https://club.nintendo.com/">Club Nintendo</a></li>
 		<li class="major support"><a href="/consumer">Support</a></li>
+		
+		<li id="search-container" class="major">
+			<form action="/search" id="globalSearch" method="post">
+			<input id="globalSearchKeyword" name="keyword" onfocus="clearText(this)" type="text" value="Search">
+			<input class="submit" src="/images/interface/global_header/search-btn.png" type="image" value="Search">
+			</form>
+		</li>
 		</ul>
-		<form action="/search" id="globalSearch" method="post">
-		<input id="globalSearchKeyword" name="keyword" onfocus="clearText(this)" type="text" value="Search">
-		<input class="submit" src="/images/interface/global_header/search-btn.png" type="image" value="Search">
-		</form>
 	</div>
 
      
@@ -240,7 +242,7 @@ thefield.value = ""
             
             <div class="margin07 bgLight"> 
               <div class="pad6x7"> <img src="images/hdr_whatisesrb.gif" width="140" height="16" alt="" border="0"><br>
-                <a href="http://www.esrb.com" onclick="openX(this.href); return false;"><img src="/images/icons/esrb_privacy.gif" width="144" height="53" alt="" border="0"></a><br>
+                <a href="http://www.esrb.com" onclick="openX(this.href); return false;"><img src="/images/icons/esrb_privacy.jpg" alt="" border="0"></a><br>
                 Nintendo of America is an official participant in the ESRB Privacy Online Program.<br>
               </div>
               
@@ -384,17 +386,16 @@ if(s.pageName!=""){var s_code=s.t();if(s_code)document.write(s_code)}//--></scri
 					<a href="http://twitter.com/NintendoAmerica" onclick="var s=s_gi('ncomglobal, ncomcorporate'); s.linkTrackVars='eVar22,events'; s.linkTrackEvents='event24', s.eVar22='Twitter-NOA'; s.events='event24'; s.tl(this, 'o', 'Twitter-NOA');" target="_blank"><img src="/images/home/features/twitter_icon.png" border="0"></a>
 					<a target="_blank" href="http://www.youtube.com/nintendo" onclick="var s=s_gi('ncomglobal, ncomcorporate'); s.linkTrackVars='eVar22,events'; s.linkTrackEvents='event24', s.eVar22='YouTube'; s.events='event24'; s.tl(this, 'o', 'YouTube');"><img src="/images/home/features/youtube_icon.png" border="0"> </a>
 				</li>
-				
+				<li class="esrbpriv">
+					<a href="http://www.esrb.org/confirm/nintendo-confirmation.jsp" target="_blank"><img src="/images/icons/esrb_privacy.jpg" alt=""></a>
+				</li>				
 			</ul>
-			<div class="esrbpriv">
-				<p><a href="/privacy" title="Nintendo's Privacy Policy" target="_blank">Nintendo's Online Privacy Policy</a></p>
-				<p class="esrb-badge"><a href="/privacy" target="_blank"><img src="/images/icons/esrb_privacy.gif" alt=""></a></p>
-			</div>
 		</div>
 	</div>
     
-    </div>
-    
+
+</div>
+
 
 
 
