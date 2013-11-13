@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the speckygeek.com privacy policy that was archived on 2013-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130609084003id_/http%3A//www.speckygeek.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the speckygeek.com privacy policy that was archived on 2013-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131113120145id_/http%3A//www.speckygeek.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Specky Geek
 
