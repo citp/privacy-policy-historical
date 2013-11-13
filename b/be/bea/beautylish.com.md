@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the beautylish.com privacy policy that was archived on 2013-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130629222723id_/http%3A//www.beautylish.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beautylish.com privacy policy that was archived on 2013-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131113052618id_/http%3A//www.beautylish.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Beautylish
 
@@ -62,8 +62,8 @@ If you believe that Beautylish has not adhered to this Statement you may write t
 
 Beautylish Inc.  
 Attn: Privacy Officer  
-660 4th Street #300  
-San Francisco, CA 94107  
+575 Sutter St. #204  
+San Francisco, CA 94102  
 United States of America  
 
 
