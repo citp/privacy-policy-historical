@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the seidioonline.com privacy policy that was archived on 2013-06-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130620192126id_/http%3A//www.seidioonline.com/Terms_privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the seidioonline.com privacy policy that was archived on 2013-11-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131113012152id_/http%3A//www.seidioonline.com/terms_privacy.asp) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html lang="en"><!--<![endif]--><head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <meta name="Description" content="Online Store for Seidio, one of the world's leading developers and manufacturers of smartphone accessories and enhancements that enable users to utilize their devices to their full potential. Seidio's product lines includes extended batteries, cases, holsters, desktop cradles, chargers, car kits, cables, headsets, audio adapters, screen protectors, and stylus.">
@@ -11,9 +11,10 @@
 <meta name="GOOGLEBOT" content="INDEX, FOLLOW">
 
 
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
+<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
 <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jqueryui/1.8.4/jquery-ui.min.js"></script>
 <link type="text/css" href="//ajax.googleapis.com/ajax/libs/jqueryui/1.8.4/themes/base/jquery-ui.css" rel="stylesheet">
+<link type="text/css" href="/a/c/default.css" rel="stylesheet">
 
 
 <script type="text/javascript">
@@ -29,7 +30,30 @@
     var PageText_843 = "Subtotal";
     var PageText_844 = "items in cart";
 </script>
+<script type="text/javascript" src="/a/j/volusion.js?currentBuild"></script>
+<script type="text/javascript">
+    (function ($) {
+        volusion.ready(function () {
+            if (volusion.cart.isObservingCount()) {
+                var ts = new Date().getTime();
 
+                $.getJSON('/ajaxcart.asp?cachebust=' + ts, function (data) {
+                    var quantityTotal = 0;
+                    $.each(data.Products, function (key, val) {
+                        if (val.IsProduct === 'Y') {
+                            quantityTotal += parseInt(val.Quantity);
+                        } else if (val.IsAccessory === 'Y') {
+                            quantityTotal += parseInt(val.Quantity);
+                        }
+                    });
+                    quantityTotal = quantityTotal || '0';
+                    volusion.cart.itemCount(quantityTotal);
+                });
+
+            }
+        });
+    } (jQuery));
+</script>
 
 
 <script type="text/javascript" src="/a/j/soft_add.js"></script>
@@ -42,313 +66,82 @@
 </script>
 
 <script type="text/javascript" src="/a/j/soft_add_mult.js"></script>
-<script type="text/javascript" src="/a/j/javascripts.js?6_5_6.35.0.98"></script>
+<script type="text/javascript" src="/a/j/javascripts.js?6_5_currentBuild"></script>
 
 <script type="text/javascript">
 	var Config_Search_Auto_Complete = false;
 </script>
 
 
-<!-- 
-DYNAMIC PAGE-SPECIFIC META TAGS WILL BE PLACED HERE
-DO NOT ADD YOUR OWN META TAGS, ONLY PUT CSS/JAVSCRIPT INCLUDES IN YOUR HEAD TAG
--->
-<link href="/v/vspfiles/templates/seidio/css/Imports.css" rel="stylesheet" type="text/css">
-<meta name="verify-v1" content="FK7OiYA0h4uVv7meQdoD2y/0gE6NZP3TGsbzMkcPXls=" &nbsp;="">
-<meta name="google-site-verification" content="Oxz9-kvVpPdpdTe9iyXoTXkshfd8g7MeHn3BCR49LKw">
-<style type="text/css">
-<!--
-.style1 {font-style: italic}
-#body #nav table tr th p {
-	color: #FFF;
-}
--->
-</style>
+<!-- DYNAMIC PAGE-SPECIFIC META TAGS WILL BE PLACED HERE
+	DO NOT ADD YOUR OWN META TAGS, ONLY PUT CSS/JAVSCRIPT INCLUDES IN YOUR HEAD TAG -->
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta id="v65-layout-mode" data-cart="storedot" data-checkout="storedot">
+<link href="/v/vspfiles/templates/charged/css/Imports.css" rel="stylesheet" type="text/css">
+<script type="text/javascript" src="/v/vspfiles/templates/charged/js/ie.select.js"></script>
+<script>$(function () {$('#v65-cart-shipping-details select').ieSelectStyle();});</script>
+
 <script type="text/javascript">
-var _gaq = _gaq || [];
-_gaq.push(['_setAccount', 'UA-15934200-3']);
-_gaq.push(['_setDomainName', '.seidioonline.com']);
-_gaq.push(['_setAllowLinker', true]);
-_gaq.push(['_setAllowHash', false]);
-_gaq.push(['_setCampSourceKey', 'utm_source']);
-_gaq.push(['_setCampMediumKey', 'utm_medium']);
-_gaq.push(['_trackPageview']);
+adroll_adv_id = "AU7FLFJIO5BKTLIZ3RTYH5";
+adroll_pix_id = "NAIE5QGPP5HATDYIKQ2RAF";
 (function () {
-var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-})();
+var oldonload = window.onload;
+window.onload = function(){
+   __adroll_loaded=true;
+   var scr = document.createElement("script");
+   var host = (("https:" == document.location.protocol) ? "https://s.adroll.com" : "http://a.adroll.com");
+   scr.setAttribute('async', 'true');
+   scr.type = "text/javascript";
+   scr.src = host + "/j/roundtrip.js";
+   ((document.getElementsByTagName('head') || [null])[0] ||
+    document.getElementsByTagName('script')[0].parentNode).appendChild(scr);
+   if(oldonload){oldonload()}};
+}());
 </script>
+
+
 <script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head>
-<body id="body" onload="">
 <!--
-vspfiles/templates/Seidio/images/Headings/header.jpg
-http://img41.imageshack.us/img41/6687/headermarch.jpg
-vspfiles/assets/images/SO_header06262012_.jpg
+	FILE INFO	(^.^)
+	Designer:	Monica
+	Developer:	Trent
 -->
-<!-- V-Chrome -->
-<div id="nav">
-	<l></l><l></l><l></l><l></l><l></l><l></l><l></l><l></l><l></l><l></l><l></l><l></l><table height="114" cellspacing="0" cellpadding="0" width="952" align="center" border="0">
-	<tbody><tr>
-		<th colspan="17" scope="col">
-			<img src="/v/vspfiles/assets/images/so_header-2013_03.jpg" width="952" height="74" border="0" usemap="#Map1">
-		</th>
-	</tr>
-	<tr><th scope="row" width="66" height="40" background="/v/vspfiles/templates/Seidio/images/Headings/h1.jpg">
-		<p>
-			<a href="/" title="Home">Home</a>
-		</p>
-	</th>
+<body>
+<div id="header">
+	<div id="display_homepage_title"><span itemscope="" itemtype="http://schema.org/MobilePhoneStore"><meta itemprop="name" content="Seidio Online Store"><a href="http://www.seidioonline.com/default.asp" title="Seidio Online Store">Seidio Online Store</a></span></div>
+	<div id="site_tools">
+		<a href="http://www.seidioonline.com/">Home</a>
+		<a href="/aboutus.asp">About Us</a>
+		<a href="/myaccount.asp">My Account</a>
+		<a href="/orders.asp">Order Status</a>
+		<div id="display_cart_summary"><div class="cartsummary_empty">(Your shopping cart is empty)</div></div>
+		<a href="/shoppingcart.asp">View Cart</a>
+	</div>
+	<a href="https://app.streamsend.com/public/QcWY/QEq/subscribe" target="_blank" class="livechat"></a>
+
+	<a href="https://www.twitter.com/seidio" target="_blank" class="twitter"></a>
+
+	<a href="https://www.youtube.com/user/seidioseidio" target="_blank" class="youTube"></a>
+
+	<a href="https://www.facebook.com/Seidio" target="_blank" class="facebook"></a>
+
+	<a href="https://plus.google.com/+seidio" target="_blank" class="googleplus"></a>
 	
-	<th width="7" background="/v/vspfiles/templates/Seidio/images/Headings/h1.jpg">
-		<p>
-			|
-		</p>
-	</th>
-	
-	<th scope="row" width="107" background="/v/vspfiles/templates/Seidio/images/Headings/h1.jpg">
-		<p>
-			<a title="Corporate" href="http://www.seidio.com">Corporate</a>
-		</p>
-	</th>
-	
-	<th width="7" background="/v/vspfiles/templates/Seidio/images/Headings/h1.jpg">
-		<p>
-			|
-		</p>
-	</th>
-	
-	<th scope="row" width="108" background="/v/vspfiles/templates/Seidio/images/Headings/h1.jpg">
-		<p>
-			<a title="Help Center" href="/Articles.asp?ID=138">Help Center</a>
-		</p>
-	</th>
-	<th scope="row" width="7" background="/v/vspfiles/templates/Seidio/images/Headings/h1.jpg">
-		<p>
-			|
-		</p>
-	</th>
-	<th width="163" background="/v/vspfiles/templates/Seidio/images/Headings/h1.jpg" scope="row">
-		<p>
-			<a title="Signature Products" href="/Articles.asp?ID=157">Signature Products</a>
-		</p>
-	</th>
-	
-	<th width="7" background="/v/vspfiles/templates/Seidio/images/Headings/h1.jpg">
-		<p>
-			|
-		</p>
-	</th>
-	
-	<th scope="row" width="115" background="/v/vspfiles/templates/Seidio/images/Headings/h1.jpg">
-		<p>
-			<a title="My Account" href="/myaccount.asp">My Account</a>
-		</p>
-	</th>
-	
-	<th width="5" background="/v/vspfiles/templates/Seidio/images/Headings/h1.jpg">
-		<p>
-			|
-		</p>
-	</th>
-	
-	
-	<th scope="row" width="86" background="/v/vspfiles/templates/Seidio/images/Headings/h1.jpg">
-		<p align="center">
-			<a title="View Cart and Checkout" href="/shoppingcart.asp">View Cart</a>
-		</p>
-	</th>
-	
-	<th width="7" background="/v/vspfiles/templates/Seidio/images/Headings/h1.jpg">
-		<p>
-			|
-		</p>
-	</th>
-	
-	<th scope="row" width="59" background="/v/vspfiles/templates/Seidio/images/Headings/h1.jpg">
-		<p align="center">
-		</p>
-	</th>
-	<th width="113" background="/v/vspfiles/templates/Seidio/images/Headings/h1.jpg">
-		<p class="style1">
-		</p>
-	</th>
-	
-	<th scope="row" width="113" background="/v/vspfiles/templates/Seidio/images/Headings/h1.jpg">
-		<p align="center">
-			<a href="http://www.seidioonline.cn">中国站 </a>
-      </p>
-	</th>
-	</tr>
-	</tbody></table>
+<a href="https://livechat23.volusion.com/livechat.aspx?ID=271144&amp;location=http://www.seidioonline.com/&amp;auto=0&amp;cookieGuid=erhxvbmgdmjocn45cs1nczn4&amp;DeptID=&amp;Agent=&amp;tType=" target="_blank" class="newsletter"></a>
+
+	<a href="http://seidio.wordpress.com/" target="_blank" class="wordpress"></a>
+
+	<div id="search">
+		<form action="/SearchResults.asp" method="get" name="SearchBoxForm">
+			<input type="text" name="Search" id="search_input" value="Keyword..." onfocus="if (this.value == 'Keyword...') {this.value = '';}" onblur="if (this.value == '') {this.value = 'Keyword...';}">
+			<input type="submit" name="Submit" id="search_submit" value="Search">
+		</form>
+	</div>
 </div>
-<div id="content">
-	<table width="952" border="0" cellpadding="0" cellspacing="0">
-	<tbody><tr>
-		<td valign="top" id="left_nav" width="233">
-			<div id="search_box">
-				<label id="search_label">Search:</label>
-				<div id="display_search_box"><form name="SearchBoxForm" method="get" action="/SearchResults.asp">
-<table border="0" cellspacing="0" cellpadding="0">
-<tbody><tr>
-<td valign="middle"><input onblur="ProcessFieldUsage(this);" type="text" name="Search" value="" maxlength="50"></td>
-<td valign="middle">&nbsp;<img style="cursor: pointer;" border="0" src="/v/vspfiles/templates/Seidio/images/template/btn_go.gif" onclick="document.forms['SearchBoxForm'].submit();"></td>
-</tr>
-</tbody></table>
-</form>
-</div>
-			</div>
-			<p>
-				</p><div id="fadeshow1">
-				</div>
-				<br>
-				<div id="fadeshow2">
-				</div>
-				<br>
-				<img src="/v/vspfiles/templates/Seidio/images/Headings/cate_coming.jpg" alt="coming soon" width="160" height="27">
-			<p></p>
-			<div id="second_nav" class="nav_section">
-				<div id="display_menu_3">
-<script type="text/javascript">var breadCrumb="||";</script>
-<script type="text/javascript">
-function mOvr3(src)
-{ if (src.className != 'nav nav_hover nav_selected') src.className = 'nav nav_hover'; }
-function mOut3(src)
-{ if (src.className != 'nav nav_hover nav_selected') src.className = 'nav'; }
-function mClk3(src, popup) 
-{ if (!popup) {window.location=src.getElementsByTagName('A')[0].getAttribute('href');} else {window.open(src);} }
-function mSubOvr3(src)
-{ if (src.className != '') src.className = 'nav nav_hover subnav subnav_hover'; }
-function mSubOut3(src)
-{ if (src.className != '') src.className = 'nav subnav'; }
-function mSubClk3(src, popup) 
-{ if (!popup) {window.location=src.getElementsByTagName('A')[0].getAttribute('href');} else {window.open(src);} }
-</script>
-<table cellpadding="0" cellspacing="0" border="0" class="nav">
-<tbody><tr><td class="nav" onmouseover="mOvr3(this);" onmouseout="mOut3(this);" onclick="mClk3(this);">
-<img src="/v/vspfiles/templates/Seidio/images/Template/Menu3_Bullet.gif" alt="" align="absmiddle"> <a href="/category-s/7016.htm" title="">- [Universal Products] -</a>
-</td></tr>
-	<tr><td>---------------------</td></tr>
-<tr><td class="nav" onmouseover="mOvr3(this);" onmouseout="mOut3(this);" onclick="mClk3(this);">
-<img src="/v/vspfiles/templates/Seidio/images/Template/Menu3_Bullet.gif" alt="" align="absmiddle"> <a href="/category-s/8889.htm" title="seidio BlackBerry Q10">BlackBerry Q10</a>
-</td></tr>
-	<tr><td>---------------------</td></tr>
-<tr><td class="nav" onmouseover="mOvr3(this);" onmouseout="mOut3(this);" onclick="mClk3(this);">
-<img src="/v/vspfiles/templates/Seidio/images/Template/Menu3_Bullet.gif" alt="" align="absmiddle"> <a href="/category-s/8861.htm" title="seidio Sony Xperia Z">Sony Xperia Z</a>
-</td></tr>
-	<tr><td>---------------------</td></tr>
-<tr><td class="nav" onmouseover="mOvr3(this);" onmouseout="mOut3(this);" onclick="mClk3(this);">
-<img src="/v/vspfiles/templates/Seidio/images/Template/Menu3_Bullet.gif" alt="" align="absmiddle"> <a href="/category-s/8824.htm" title="">Samsung Galaxy S4</a>
-</td></tr>
-	<tr><td>---------------------</td></tr>
-<tr><td class="nav" onmouseover="mOvr3(this);" onmouseout="mOut3(this);" onclick="mClk3(this);">
-<img src="/v/vspfiles/templates/Seidio/images/Template/Menu3_Bullet.gif" alt="" align="absmiddle"> <a href="/SearchResults.asp?Cat=8823" title="seidio HTC One">HTC One</a>
-</td></tr>
-	<tr><td>---------------------</td></tr>
-<tr><td class="nav" onmouseover="mOvr3(this);" onmouseout="mOut3(this);" onclick="mClk3(this);">
-<img src="/v/vspfiles/templates/Seidio/images/Template/Menu3_Bullet.gif" alt="" align="absmiddle"> <a href="/blackberry-z10-s/8745.htm" title="seidio BlackBerry Z 10">BlackBerry Z10</a>
-</td></tr>
-	<tr><td>---------------------</td></tr>
-<tr><td class="nav" onmouseover="mOvr3(this);" onmouseout="mOut3(this);" onclick="mClk3(this);">
-<img src="/v/vspfiles/templates/Seidio/images/Template/Menu3_Bullet.gif" alt="" align="absmiddle"> <a href="/lg-nexus-4-s/8648.htm" title="seidio LG Nexus 4">LG Nexus 4</a>
-</td></tr>
-	<tr><td>---------------------</td></tr>
-<tr><td class="nav" onmouseover="mOvr3(this);" onmouseout="mOut3(this);" onclick="mClk3(this);">
-<img src="/v/vspfiles/templates/Seidio/images/Template/Menu3_Bullet.gif" alt="" align="absmiddle"> <a href="/category-s/8463.htm" title="">Samsung Galaxy Note 2</a>
-</td></tr>
-	<tr><td>---------------------</td></tr>
-<tr><td class="nav" onmouseover="mOvr3(this);" onmouseout="mOut3(this);" onclick="mClk3(this);">
-<img src="/v/vspfiles/templates/Seidio/images/Template/Menu3_Bullet.gif" alt="" align="absmiddle"> <a href="/SearchResults.asp?Cat=8382" title="">Apple iPhone 5</a>
-</td></tr>
-	<tr><td>---------------------</td></tr>
-<tr><td class="nav" onmouseover="mOvr3(this);" onmouseout="mOut3(this);" onclick="mClk3(this);">
-<img src="/v/vspfiles/templates/Seidio/images/Template/Menu3_Bullet.gif" alt="" align="absmiddle"> <a href="/category-s/8567.htm" title="seidio Motorola DROID RAZR MAXX HD">Motorola DROID RAZR MAXX HD</a>
-</td></tr>
-	<tr><td>---------------------</td></tr>
-<tr><td class="nav" onmouseover="mOvr3(this);" onmouseout="mOut3(this);" onclick="mClk3(this);">
-<img src="/v/vspfiles/templates/Seidio/images/Template/Menu3_Bullet.gif" alt="" align="absmiddle"> <a href="/category-s/8442.htm" title="">Apple iPad 2, 3rd &amp; 4th Gen.</a>
-</td></tr>
-	<tr><td>---------------------</td></tr>
-<tr><td class="nav" onmouseover="mOvr3(this);" onmouseout="mOut3(this);" onclick="mClk3(this);">
-<img src="/v/vspfiles/templates/Seidio/images/Template/Menu3_Bullet.gif" alt="" align="absmiddle"> <a href="/category-s/8513.htm" title="seidio htc droid dna">HTC DROID DNA</a>
-</td></tr>
-	<tr><td>---------------------</td></tr>
-<tr><td class="nav" onmouseover="mOvr3(this);" onmouseout="mOut3(this);" onclick="mClk3(this);">
-<img src="/v/vspfiles/templates/Seidio/images/Template/Menu3_Bullet.gif" alt="" align="absmiddle"> <a href="/category-s/8156.htm" title="">Samsung Galaxy S III</a>
-</td></tr>
-	<tr><td>---------------------</td></tr>
-<tr><td class="nav" onmouseover="mOvr3(this);" onmouseout="mOut3(this);" onclick="mClk3(this);">
-<img src="/v/vspfiles/templates/Seidio/images/Template/Menu3_Bullet.gif" alt="" align="absmiddle"> <a href="/category-s/8421.htm" title="">Google Nexus 7</a>
-</td></tr>
-	<tr><td>---------------------</td></tr>
-<tr><td class="nav" onmouseover="mOvr3(this);" onmouseout="mOut3(this);" onclick="mClk3(this);">
-<img src="/v/vspfiles/templates/Seidio/images/Template/Menu3_Bullet.gif" alt="" align="absmiddle"> <a href="/category-s/7198.htm" title="">Apple iPhone 4/4S</a>
-</td></tr>
-</tbody></table>
-</div>
-			</div>
-			<img src="/v/vspfiles/templates/Seidio/images/Headings/cate_mod.jpg" alt="shop by manufacturer" width="160" height="27">
-			<div id="second_nav" class="nav_section">
-				<!--<h3 Style="color: #ffffff; background-color: #c90000;">Shop by Manufacturer</h3>-->
-				<div id="display_menu_2">
-<script type="text/javascript">var breadCrumb="||";</script>
-<script type="text/javascript">
-function mOvr2(src)
-{ if (src.className != 'nav nav_hover nav_selected') src.className = 'nav nav_hover'; }
-function mOut2(src)
-{ if (src.className != 'nav nav_hover nav_selected') src.className = 'nav'; }
-function mClk2(src, popup) 
-{ if (!popup) {window.location=src.getElementsByTagName('A')[0].getAttribute('href');} else {window.open(src);} }
-function mSubOvr2(src)
-{ if (src.className != '') src.className = 'nav nav_hover subnav subnav_hover'; }
-function mSubOut2(src)
-{ if (src.className != '') src.className = 'nav subnav'; }
-function mSubClk2(src, popup) 
-{ if (!popup) {window.location=src.getElementsByTagName('A')[0].getAttribute('href');} else {window.open(src);} }
-</script>
-<table cellpadding="0" cellspacing="0" border="0" class="nav">
-<tbody><tr><td class="nav" onmouseover="mOvr2(this);" onmouseout="mOut2(this);" onclick="mClk2(this);">
-<img src="/v/vspfiles/templates/Seidio/images/Template/Menu2_Bullet.gif" alt="" align="absmiddle"> <a href="http://www.seidioonline.com/apple-s/2220.htm" title="apple">Apple</a>
-</td></tr>
-	<tr><td>---------------------</td></tr>
-<tr><td class="nav" onmouseover="mOvr2(this);" onmouseout="mOut2(this);" onclick="mClk2(this);">
-<img src="/v/vspfiles/templates/Seidio/images/Template/Menu2_Bullet.gif" alt="" align="absmiddle"> <a href="http://www.seidioonline.com/blackberry-s/2221.htm" title="blackberry">BlackBerry</a>
-</td></tr>
-	<tr><td>---------------------</td></tr>
-<tr><td class="nav" onmouseover="mOvr2(this);" onmouseout="mOut2(this);" onclick="mClk2(this);">
-<img src="/v/vspfiles/templates/Seidio/images/Template/Menu2_Bullet.gif" alt="" align="absmiddle"> <a href="http://www.seidioonline.com/htc-s/2228.htm" title="htc">HTC</a>
-</td></tr>
-	<tr><td>---------------------</td></tr>
-<tr><td class="nav" onmouseover="mOvr2(this);" onmouseout="mOut2(this);" onclick="mClk2(this);">
-<img src="/v/vspfiles/templates/Seidio/images/Template/Menu2_Bullet.gif" alt="" align="absmiddle"> <a href="http://www.seidioonline.com/lg-s/2939.htm" title="lg">LG</a>
-</td></tr>
-	<tr><td>---------------------</td></tr>
-<tr><td class="nav" onmouseover="mOvr2(this);" onmouseout="mOut2(this);" onclick="mClk2(this);">
-<img src="/v/vspfiles/templates/Seidio/images/Template/Menu2_Bullet.gif" alt="" align="absmiddle"> <a href="http://www.seidioonline.com/motorola-s/2229.htm" title="motorola">Motorola</a>
-</td></tr>
-	<tr><td>---------------------</td></tr>
-<tr><td class="nav" onmouseover="mOvr2(this);" onmouseout="mOut2(this);" onclick="mClk2(this);">
-<img src="/v/vspfiles/templates/Seidio/images/Template/Menu2_Bullet.gif" alt="" align="absmiddle"> <a href="http://www.seidioonline.com/nokia-s/8100.htm" title="nokia">Nokia</a>
-</td></tr>
-	<tr><td>---------------------</td></tr>
-<tr><td class="nav" onmouseover="mOvr2(this);" onmouseout="mOut2(this);" onclick="mClk2(this);">
-<img src="/v/vspfiles/templates/Seidio/images/Template/Menu2_Bullet.gif" alt="" align="absmiddle"> <a href="http://www.seidioonline.com/palm-s/2231.htm" title="palm">Palm</a>
-</td></tr>
-	<tr><td>---------------------</td></tr>
-<tr><td class="nav" onmouseover="mOvr2(this);" onmouseout="mOut2(this);" onclick="mClk2(this);">
-<img src="/v/vspfiles/templates/Seidio/images/Template/Menu2_Bullet.gif" alt="" align="absmiddle"> <a href="http://www.seidioonline.com/other-s/7521.htm" title="other">Other</a>
-</td></tr>
-	<tr><td>---------------------</td></tr>
-<tr><td class="nav" onmouseover="mOvr2(this);" onmouseout="mOut2(this);" onclick="mClk2(this);">
-<img src="/v/vspfiles/templates/Seidio/images/Template/Menu2_Bullet.gif" alt="" align="absmiddle"> <a href="http://www.seidioonline.com/samsung-s/2230.htm" title="samsung">Samsung</a>
-</td></tr>
-</tbody></table>
-</div>
-			</div>
-			<img src="/v/vspfiles/templates/Seidio/images/Headings/cate_car.jpg" alt="shop by carrier" width="160" height="27">
-			<div id="first_nav" class="nav_section">
-				<!--<h3 Style="color: #ffffff; background-color: #c90000;">Shop by Carrier</h3>-->
-				<div id="display_menu_1">
+<!-- #header -->
+
+<!-- <div id="topnav" class="clear">
+	<div id="display_menu_1" class="menu">
 <script type="text/javascript">var breadCrumb="||";</script>
 <script type="text/javascript">
 function mOvr1(src)
@@ -357,65 +150,412 @@ function mOut1(src)
 { if (src.className != 'nav nav_hover nav_selected') src.className = 'nav'; }
 function mClk1(src, popup) 
 { if (!popup) {window.location=src.getElementsByTagName('A')[0].getAttribute('href');} else {window.open(src);} }
-function mSubOvr1(src)
-{ if (src.className != '') src.className = 'nav nav_hover subnav subnav_hover'; }
-function mSubOut1(src)
-{ if (src.className != '') src.className = 'nav subnav'; }
-function mSubClk1(src, popup) 
+</script>
+<table border="0" cellspacing="0" cellpadding="0">
+<tr class="nav">
+	<td class="nav" onmouseover="mOvr1(this);" onmouseout="mOut1(this);" onclick="mClk1(this);">
+			<a href="http://www.seidioonline.com/all-carriers-s/8155.htm" title="all carriers">
+			<img src="/v/vspfiles/templates/charged/images/Template/Menu1_Bullet.gif" border="0" align="absmiddle" />
+			All Carriers</a>
+		</td>
+	<td class="colors_lines"><img src="/v/vspfiles/templates/charged/images/clear1x1.gif" width="1" height="1"></td>
+	<td class="nav" onmouseover="mOvr1(this);" onmouseout="mOut1(this);" onclick="mClk1(this);">
+			<a href="http://www.seidioonline.com/att-s/1.htm" title="att">
+			<img src="/v/vspfiles/templates/charged/images/Template/Menu1_Bullet.gif" border="0" align="absmiddle" />
+			AT&T</a>
+		</td>
+	<td class="colors_lines"><img src="/v/vspfiles/templates/charged/images/clear1x1.gif" width="1" height="1"></td>
+	<td class="nav" onmouseover="mOvr1(this);" onmouseout="mOut1(this);" onclick="mClk1(this);">
+			<a href="http://www.seidioonline.com/nextel-s/3354.htm" title="nextel">
+			<img src="/v/vspfiles/templates/charged/images/Template/Menu1_Bullet.gif" border="0" align="absmiddle" />
+			Nextel</a>
+		</td>
+	<td class="colors_lines"><img src="/v/vspfiles/templates/charged/images/clear1x1.gif" width="1" height="1"></td>
+	<td class="nav" onmouseover="mOvr1(this);" onmouseout="mOut1(this);" onclick="mClk1(this);">
+			<a href="http://www.seidioonline.com/sprint-s/2.htm" title="sprint">
+			<img src="/v/vspfiles/templates/charged/images/Template/Menu1_Bullet.gif" border="0" align="absmiddle" />
+			Sprint</a>
+		</td>
+	<td class="colors_lines"><img src="/v/vspfiles/templates/charged/images/clear1x1.gif" width="1" height="1"></td>
+	<td class="nav" onmouseover="mOvr1(this);" onmouseout="mOut1(this);" onclick="mClk1(this);">
+			<a href="http://www.seidioonline.com/t-mobile-s/3.htm" title="t mobile">
+			<img src="/v/vspfiles/templates/charged/images/Template/Menu1_Bullet.gif" border="0" align="absmiddle" />
+			T-Mobile</a>
+		</td>
+	<td class="colors_lines"><img src="/v/vspfiles/templates/charged/images/clear1x1.gif" width="1" height="1"></td>
+	<td class="nav" onmouseover="mOvr1(this);" onmouseout="mOut1(this);" onclick="mClk1(this);">
+			<a href="http://www.seidioonline.com/verizon-wireless-s/4.htm" title="verizon wireless">
+			<img src="/v/vspfiles/templates/charged/images/Template/Menu1_Bullet.gif" border="0" align="absmiddle" />
+			Verizon Wireless</a>
+		</td>
+	<td class="colors_lines"><img src="/v/vspfiles/templates/charged/images/clear1x1.gif" width="1" height="1"></td>
+	<td class="nav" onmouseover="mOvr1(this);" onmouseout="mOut1(this);" onclick="mClk1(this);">
+			<a href="/Articles.asp?ID=140" title="">
+			<img src="/v/vspfiles/templates/charged/images/Template/Menu1_Bullet.gif" border="0" align="absmiddle" />
+			Unlocked / International</a>
+		</td>
+</tr>
+</table>
+</div>
+</div> -->
+
+
+<ul id="topnav">
+		<li> 
+			<a href="#">Shop By Device</a>
+			<div class="subnav by-device-sub">
+				<div class="nav-row">
+					<ul>
+						<li class="title">Apple</li>
+						<li><a href="http://www.seidioonline.com/Apple-iPhone-5S-s/9062.htm">iPhone 5s</a></li>
+						<li><a href="http://www.seidioonline.com/seidio-Apple-iPhone-5C-s/8954.htm">iPhone 5c</a></li>
+						<li><a href="http://www.seidioonline.com/apple-iphone-5-s/8382.htm">iPhone 5</a></li>
+						<li><a href="http://www.seidioonline.com/apple-s/2220.htm">More Apple Devices</a></li>
+					</ul>
+
+					<ul>
+						<li class="title">BlackBerry</li>
+						<li><a href="http://www.seidioonline.com/seidio-BlackBerry-Q10-s/8889.htm">Q10</a></li>
+						<li><a href="http://www.seidioonline.com/Seidio-BlackBerry-Z10-s/8668.htm">Z10</a></li>
+						<li><a href="http://www.seidioonline.com/blackberry-9900-9930-s/6934.htm">Bold 9900/9930</a></li>
+						<li><a href="http://www.seidioonline.com/blackberry-s/2221.htm">More BlackBerry Devices</a></li>
+					</ul>
+				</div>
+
+				<div class="nav-row">	
+					<ul>
+						<li class="title">Google</li>
+						<li><a href="http://www.seidioonline.com/Google-Nexus-7-2013-s/9144.htm">Nexus 7 (2013)</a></li>
+						<li><a href="http://www.seidioonline.com/seidio-google-nexus-7-s/8421.htm">Nexus 7 (2012)</a></li>
+						<li><a href="http://www.seidioonline.com/other-s/7521.htm">More Google Devices</a></li>
+					</ul>
+
+					<ul>
+						<li class="title">HTC</li>
+						<li><a href="http://www.seidioonline.com/SearchResults.asp?Cat=8746">One</a></li>
+						<li><a href="http://www.seidioonline.com/seidio-HTC-One-Mini-s/9040.htm">One Mini</a></li>
+						<li><a href="http://www.seidioonline.com/seidio-HTC-Butterfly-S-s/9017.htm">Butterfly S</a></li>
+						<li><a href="http://www.seidioonline.com/htc-s/2228.htm">More HTC Devices</a></li>
+					</ul>
+				</div>	
+
+				<div class="nav-row">	
+
+					<ul>
+						<li class="title">LG</li>
+						<li><a href="http://www.seidioonline.com/LG-Google-Nexus-5-s/9164.htm">LG Nexus 5</a></li>
+						<li><a href="http://www.seidioonline.com/LG-Optimus-G2-s/9190.htm">LG G2 <span style="font-size: 6pt">(AT&amp;T, Sprint, T-Mobile, Int'l)</span></a></li>
+						<li><a href="http://www.seidioonline.com/lg-nexus-4-s/8648.htm">LG Nexus 4</a></li>
+						<li><a href="http://www.seidioonline.com/lg-s/2939.htm">More LG Devices</a></li>
+					</ul>
+
+					<ul>
+						<li class="title">Motorola</li>
+                                                <li><a href="http://www.seidioonline.com/motorola-s/8932.htm">Moto X</a></li>
+						<li><a href="http://www.seidioonline.com/seidio-Motorola-DROID-RAZR-MAXX-HD-s/8567.htm">DROID RAZR MAXX HD</a></li>
+						<li><a href="http://www.seidioonline.com/seidio-motorola-droid-razr-m-s/8540.htm">DROID RAZR M</a></li>
+						<li><a href="http://www.seidioonline.com/motorola-s/2229.htm">More Motorola Devices</a></li>
+					</ul>
+				</div>
+					
+				<div class="nav-row">	
+					<ul>
+						<li class="title">Samsung</li>
+						<li><a href="http://www.seidioonline.com/Samsung-Galaxy-Note-3-s/9100.htm">Galaxy Note 3</a></li>
+                                                <li><a href="http://www.seidioonline.com/Samsung-Galaxy-S4-Mini-s/9154.htm">Galaxy S4 Mini</a></li>
+						<li><a href="http://www.seidioonline.com/Samsung-Galaxy-S4-s/8824.htm">Galaxy S4</a></li>
+                                                <li><a href="http://www.seidioonline.com/Samsung-Galaxy-Mega-6-3-s/8996.htm">Galaxy Mega 6.3</a></li>
+						<li><a href="http://www.seidioonline.com/samsung-s/2230.htm">More Samsung Devices</a></li>
+					</ul>
+
+					<ul>
+						<li class="title">Other</li>
+						<li><a href="http://www.seidioonline.com/seidio-Sony-Xperia-Z-s/8861.htm">Sony Xperia Z</a></li>
+                                                <li><a href="http://www.seidioonline.com/universal-products-s/7016.htm">Universal Products</a></li>
+						<li><a href="http://www.seidioonline.com/other-s/7521.htm">More Devices</a></li>
+					</ul>
+				</div>	
+			</div>
+		</li>
+
+		<!--  REMOVE THIS TO TURN ON "SHOP BY ACCESSORY (and closing comment tag)
+ <li>
+			<a href="#">Shop by Accessory</a>
+			<div class="subnav d-invert-nav">
+				<ul>
+					<li>
+						<span>Cases</span>
+						<div class="subnav-two">
+							<ul>
+								<li><a href="http://www.seidioonline.com/SearchResults.asp?Search=SURFACE">Surface</a></li>
+								<li><a href="http://www.seidioonline.com/SearchResults.asp?Search=ACTIVE" >Active</a></li>
+								<li><a href="http://www.seidioonline.com/SearchResults.asp?Search=CONVERT">Convert</a></li>
+								<li><a href="http://www.seidioonline.com/SearchResults.asp?Search=OBEX">Orbex</a></li>
+								<li><a href="http://www.seidioonline.com/SearchResults.asp?Search=Expert">Expert</a></li>
+								<li><a href="http://www.seidioonline.com/SearchResults.asp?Search=LEDGER">Ledger</a></li>
+								<li><a href="http://www.seidioonline.com/SearchResults.asp?searching=Y&sort=13&search=Innocell+Plus%20Innocell%20Plus&show=2000&page=1">Innocell Plus</a></li>
+								<li><a href="http://www.seidioonline.com/SearchResults.asp?Search=CONVERT+Plus">CONVERT Plus</a></li>
+								<li><a href="http://www.seidioonline.com/SearchResults.asp?Search=PRIME">Prime</a></li>
+							</ul>
+						</div>
+					</li>
+					<li>
+						<span>Carrying Solutions</span>
+						<div class="subnav-two">
+							<ul>
+								<li><a href="http://www.seidioonline.com/SearchResults.asp?Search=Holster ">Holsters</a></li>
+							</ul>
+						</div>
+					</li>
+					<li>
+						<span>Batteries & Power</span>
+						<div class="subnav-two">
+							<ul>
+								<li><a href="http://www.seidioonline.com/SearchResults.asp?Search=BA">Innocell Batteries</a></li>
+								<li><a href="http://www.seidioonline.com/SearchResults.asp?searching=Y&sort=13&search=Extended%20X&show=2000&page=1" >Battery Cases</a></li>
+								<li><a href="http://www.seidioonline.com/SearchResults.asp?Search=Cradle">Cradles</a></li>
+								<li><a href="http://www.seidioonline.com/SearchResults.asp?Search=Innotraveler">Car Kits</a></li>
+								<li><a href="http://www.seidioonline.com/charging-vault-usb-wall-charger-portable-battery-p/pbpt22.htm ">Charging Vault</a></li>
+								<li><a href="#">Chargers & Cables </a></li>
+							</ul>
+						</div>
+					</li>
+					<li>
+						<span>Screen Protection</span>
+						<div class="subnav-two">
+							<ul>
+								<li><a href="http://www.seidioonline.com/SearchResults.asp?Search=ultimate+screen+guard+crystal+clear">Ultimate Screen Guard - Crystal Clear</a></li>
+								<li><a href="http://www.seidioonline.com/SearchResults.asp?Search=fingerprint+reducing+and+HD" >Fingerprint Reducing & HD</a></li>
+								<li><a href="http://www.seidioonline.com/SearchResults.asp?Search=VITREO">VITREO </a></li>
+							</ul>
+						</div>
+					</li>
+				</ul>
+			</div>
+		</li>  
+
+REMOVE THIS TO TURN ON "SHOP BY ACCESSORY-->
+
+		<li>
+			<a href="#">New &amp; Popular</a>
+			<div class="subnav d-invert-nav">
+				<ul>
+					<li>
+						<a href="http://www.seidioonline.com/Samsung-Galaxy-Note-3-s/9100.htm">Samsung Galaxy Note 3</a>
+					<div class="subnav-two sn-photo">
+							<a href="http://www.seidioonline.com/Samsung-Galaxy-Note-3-s/9100.htm" title="Note 3">
+							<img src="/v/vspfiles/assets/images/Samsung_Galaxy_Note_3_01.jpg"></a>
+						</div>
+					</li>
+					<li>
+						<a href="http://www.seidioonline.com/LG-Google-Nexus-5-s/9164.htm">LG Nexus 5</a>
+						<div class="subnav-two sn-photo">
+							<a href="http://www.seidioonline.com/LG-Google-Nexus-5-s/9164.htm" title="Nexus 5">
+							<img src="http://www.seidioonline.com/v/vspfiles/assets/images/Nexus5-1112013_01.jpg"></a>
+						</div>
+					</li>
+					<li>
+						<a href="http://www.seidioonline.com/Apple-iPhone-5S-s/9062.htm">Apple iPhone 5s</a>
+						<div class="subnav-two sn-photo">
+							<a href="http://www.seidioonline.com/Apple-iPhone-5S-s/9062.htm" title="iPhone 5s">
+							<img src="http://www.seidioonline.com/v/vspfiles/assets/images/Apple_iPhone_5S_01.jpg"></a>
+						</div>
+					</li>
+					<li>
+						<a href="http://www.seidioonline.com/seidio-Apple-iPhone-5C-s/8954.htm">Apple iPhone 5c</a>
+					<div class="subnav-two sn-photo">
+							<a href="http://www.seidioonline.com/seidio-Apple-iPhone-5C-s/8954.htm" title="iPhone 5c">
+							<img src="http://www.seidioonline.com/v/vspfiles/assets/images/thumbnail-iphone5c_01.jpg"></a>
+						</div>
+					</li>
+                                        <li>
+						<a href="http://www.seidioonline.com/LG-Optimus-G2-s/9190.htm">LG G2 <span style="font-size: 7pt">(AT&amp;T, Sprint, T-Mobile, Int'l)</span></a>
+						<div class="subnav-two sn-photo">
+							<a href="http://www.seidioonline.com/LG-Optimus-G2-s/9190.htm" title="LG G2">
+							<img src="http://www.seidioonline.com/v/vspfiles/assets/images/LG_G2_01.jpg"></a>
+						</div>
+					</li>
+                                	<li>
+						<a href="http://www.seidioonline.com/Google-Nexus-7-2013-s/9144.htm">Google Nexus 7 (2013)</a>
+						<div class="subnav-two sn-photo">
+							<a href="http://www.seidioonline.com/Google-Nexus-7-2013-s/9144.htm" title="N7 2013">
+							<img src="http://www.seidioonline.com/v/vspfiles/assets/images/Google_Nexus_7_2013_01.jpg"></a>
+						</div>
+					</li>
+					<li>
+						<a href="http://www.seidioonline.com/Samsung-Galaxy-S4-Mini-s/9154.htm">Samsung Galaxy S4 Mini</a>
+					<div class="subnav-two sn-photo">
+							<a href="http://www.seidioonline.com/Samsung-Galaxy-S4-Mini-s/9154.htm" title="S4 Mini">
+							<img src="http://www.seidioonline.com/v/vspfiles/assets/images/Thumbnail-SGS4-Mini_01.jpg"></a>
+						</div>
+					</li>
+					<li>
+						<a href="http://www.seidioonline.com/Samsung-Galaxy-S4-s/8824.htm">Samsung Galaxy S4</a>
+					<div class="subnav-two sn-photo">
+							<a href="http://www.seidioonline.com/Samsung-Galaxy-S4-s/8824.htm" title="Galaxy S4">
+							<img src="http://www.seidioonline.com/v/vspfiles/assets/images/SSGS4_01.jpg"></a>
+						</div>
+					</li>
+					<li>
+						<a href="http://www.seidioonline.com/SearchResults.asp?Cat=8746">HTC One</a>
+					<div class="subnav-two sn-photo">
+							<a href="http://www.seidioonline.com/SearchResults.asp?Cat=8746" title="HTC One">
+							<img src="http://www.seidioonline.com/v/vspfiles/assets/images/One-T.jpg"></a>
+						</div>
+					</li>
+					<li>
+						<a href="http://www.seidioonline.com/apple-iphone-5-s/8382.htm">Apple iPhone 5</a>
+						<div class="subnav-two sn-photo">
+							<a href="http://www.seidioonline.com/apple-iphone-5-s/8382.htm" title="iPhone 5">
+							<img src="http://www.seidioonline.com/v/vspfiles/assets/images/iphone5.jpg"></a>
+						</div>
+					</li>
+                                        <li>
+                                                <a style="color:#090a0c" href="http://www.seidioonline.com/Articles.asp?ID=303">Sign-Ups &amp; Requests</a>
+                                        </li>
+				</ul>
+			</div>
+		</li>
+
+		<li>
+			<a href="#">Support Center</a>
+			<div class="subnav d-invert-nav">
+				<ul>
+					<li><a href="http://www.seidioonline.com/Articles.asp?ID=162">Order Information</a></li>
+					<li><a href="http://www.seidioonline.com/Articles.asp?ID=133">Shipping Information</a></li>
+					<li><a href="http://www.seidioonline.com/Articles.asp?ID=134">Returns</a></li>
+					<li><a href="http://www.seidioonline.com/Articles.asp?ID=135">Warranty/Replacements</a></li>
+					<li><a href="http://www.seidioonline.com/Articles.asp?ID=136">Terms and Conditions</a></li>
+                                        <li><a href="http://www.seidioonline.com/Articles.asp?ID=137">Contact Us</a></li>
+				</ul>
+			</div>
+		</li>
+
+</ul> 
+
+<!-- #topnav -->
+
+<div id="content" class="clear">
+	<div id="leftnav">
+		<h3>New and Popular</h3>
+		<div id="display_menu_2" class="menu">
+<script type="text/javascript">var breadCrumb="||";</script>
+<script type="text/javascript">
+function mOvr2(src)
+{ if (src.className != 'nav nav_hover nav_selected') src.className = 'nav nav_hover'; }
+function mOut2(src)
+{ if (src.className != 'nav nav_hover nav_selected') src.className = 'nav'; }
+function mClk2(src, popup) 
 { if (!popup) {window.location=src.getElementsByTagName('A')[0].getAttribute('href');} else {window.open(src);} }
 </script>
-<table cellpadding="0" cellspacing="0" border="0" class="nav">
-<tbody><tr><td class="nav" onmouseover="mOvr1(this);" onmouseout="mOut1(this);" onclick="mClk1(this);">
-<img src="/v/vspfiles/templates/Seidio/images/Template/Menu1_Bullet.gif" alt="" align="absmiddle"> <a href="http://www.seidioonline.com/all-carriers-s/8155.htm" title="all carriers">All Carriers</a>
-</td></tr>
-	<tr><td>---------------------</td></tr>
-<tr><td class="nav" onmouseover="mOvr1(this);" onmouseout="mOut1(this);" onclick="mClk1(this);">
-<img src="/v/vspfiles/templates/Seidio/images/Template/Menu1_Bullet.gif" alt="" align="absmiddle"> <a href="http://www.seidioonline.com/att-s/1.htm" title="att">AT&amp;T</a>
-</td></tr>
-	<tr><td>---------------------</td></tr>
-<tr><td class="nav" onmouseover="mOvr1(this);" onmouseout="mOut1(this);" onclick="mClk1(this);">
-<img src="/v/vspfiles/templates/Seidio/images/Template/Menu1_Bullet.gif" alt="" align="absmiddle"> <a href="http://www.seidioonline.com/nextel-s/3354.htm" title="nextel">Nextel</a>
-</td></tr>
-	<tr><td>---------------------</td></tr>
-<tr><td class="nav" onmouseover="mOvr1(this);" onmouseout="mOut1(this);" onclick="mClk1(this);">
-<img src="/v/vspfiles/templates/Seidio/images/Template/Menu1_Bullet.gif" alt="" align="absmiddle"> <a href="http://www.seidioonline.com/sprint-s/2.htm" title="sprint">Sprint</a>
-</td></tr>
-	<tr><td>---------------------</td></tr>
-<tr><td class="nav" onmouseover="mOvr1(this);" onmouseout="mOut1(this);" onclick="mClk1(this);">
-<img src="/v/vspfiles/templates/Seidio/images/Template/Menu1_Bullet.gif" alt="" align="absmiddle"> <a href="http://www.seidioonline.com/t-mobile-s/3.htm" title="t mobile">T-Mobile</a>
-</td></tr>
-	<tr><td>---------------------</td></tr>
-<tr><td class="nav" onmouseover="mOvr1(this);" onmouseout="mOut1(this);" onclick="mClk1(this);">
-<img src="/v/vspfiles/templates/Seidio/images/Template/Menu1_Bullet.gif" alt="" align="absmiddle"> <a href="http://www.seidioonline.com/verizon-wireless-s/4.htm" title="verizon wireless">Verizon Wireless</a>
-</td></tr>
-	<tr><td>---------------------</td></tr>
-<tr><td class="nav" onmouseover="mOvr1(this);" onmouseout="mOut1(this);" onclick="mClk1(this);">
-<img src="/v/vspfiles/templates/Seidio/images/Template/Menu1_Bullet.gif" alt="" align="absmiddle"> <a href="/Articles.asp?ID=140" title="">Unlocked / International</a>
-</td></tr>
+<table width="100%" border="0" cellspacing="0" cellpadding="0" align="center">
+	<tbody><tr class="nav" onmouseover="mOvr2(this);" onmouseout="mOut2(this);"> 
+		<td onclick="mClk2(this);" width="1%" valign="top">
+			<a href="http://www.seidioonline.com/apple-s/2220.htm" title="apple">
+			<img src="/v/vspfiles/templates/charged/images/Template/Menu2_Bullet.gif" border="0" align="absmiddle"></a></td>
+		<td onclick="mClk2(this);" width="100%" valign="middle">
+			<a href="http://www.seidioonline.com/apple-s/2220.htm" title="apple">Apple</a>
+		</td>
+	</tr>
+<tr>
+	<td colspan="2" class="colors_lines"><img src="/v/vspfiles/templates/charged/images/clear1x1.gif" width="1" height="1"></td>
+</tr>
+	<tr class="nav" onmouseover="mOvr2(this);" onmouseout="mOut2(this);"> 
+		<td onclick="mClk2(this);" width="1%" valign="top">
+			<a href="http://www.seidioonline.com/blackberry-s/2221.htm" title="blackberry">
+			<img src="/v/vspfiles/templates/charged/images/Template/Menu2_Bullet.gif" border="0" align="absmiddle"></a></td>
+		<td onclick="mClk2(this);" width="100%" valign="middle">
+			<a href="http://www.seidioonline.com/blackberry-s/2221.htm" title="blackberry">BlackBerry</a>
+		</td>
+	</tr>
+<tr>
+	<td colspan="2" class="colors_lines"><img src="/v/vspfiles/templates/charged/images/clear1x1.gif" width="1" height="1"></td>
+</tr>
+	<tr class="nav" onmouseover="mOvr2(this);" onmouseout="mOut2(this);"> 
+		<td onclick="mClk2(this);" width="1%" valign="top">
+			<a href="http://www.seidioonline.com/htc-s/2228.htm" title="htc">
+			<img src="/v/vspfiles/templates/charged/images/Template/Menu2_Bullet.gif" border="0" align="absmiddle"></a></td>
+		<td onclick="mClk2(this);" width="100%" valign="middle">
+			<a href="http://www.seidioonline.com/htc-s/2228.htm" title="htc">HTC</a>
+		</td>
+	</tr>
+<tr>
+	<td colspan="2" class="colors_lines"><img src="/v/vspfiles/templates/charged/images/clear1x1.gif" width="1" height="1"></td>
+</tr>
+	<tr class="nav" onmouseover="mOvr2(this);" onmouseout="mOut2(this);"> 
+		<td onclick="mClk2(this);" width="1%" valign="top">
+			<a href="http://www.seidioonline.com/lg-s/2939.htm" title="lg">
+			<img src="/v/vspfiles/templates/charged/images/Template/Menu2_Bullet.gif" border="0" align="absmiddle"></a></td>
+		<td onclick="mClk2(this);" width="100%" valign="middle">
+			<a href="http://www.seidioonline.com/lg-s/2939.htm" title="lg">LG</a>
+		</td>
+	</tr>
+<tr>
+	<td colspan="2" class="colors_lines"><img src="/v/vspfiles/templates/charged/images/clear1x1.gif" width="1" height="1"></td>
+</tr>
+	<tr class="nav" onmouseover="mOvr2(this);" onmouseout="mOut2(this);"> 
+		<td onclick="mClk2(this);" width="1%" valign="top">
+			<a href="http://www.seidioonline.com/motorola-s/2229.htm" title="motorola">
+			<img src="/v/vspfiles/templates/charged/images/Template/Menu2_Bullet.gif" border="0" align="absmiddle"></a></td>
+		<td onclick="mClk2(this);" width="100%" valign="middle">
+			<a href="http://www.seidioonline.com/motorola-s/2229.htm" title="motorola">Motorola</a>
+		</td>
+	</tr>
+<tr>
+	<td colspan="2" class="colors_lines"><img src="/v/vspfiles/templates/charged/images/clear1x1.gif" width="1" height="1"></td>
+</tr>
+	<tr class="nav" onmouseover="mOvr2(this);" onmouseout="mOut2(this);"> 
+		<td onclick="mClk2(this);" width="1%" valign="top">
+			<a href="http://www.seidioonline.com/nokia-s/8100.htm" title="nokia">
+			<img src="/v/vspfiles/templates/charged/images/Template/Menu2_Bullet.gif" border="0" align="absmiddle"></a></td>
+		<td onclick="mClk2(this);" width="100%" valign="middle">
+			<a href="http://www.seidioonline.com/nokia-s/8100.htm" title="nokia">Nokia</a>
+		</td>
+	</tr>
+<tr>
+	<td colspan="2" class="colors_lines"><img src="/v/vspfiles/templates/charged/images/clear1x1.gif" width="1" height="1"></td>
+</tr>
+	<tr class="nav" onmouseover="mOvr2(this);" onmouseout="mOut2(this);"> 
+		<td onclick="mClk2(this);" width="1%" valign="top">
+			<a href="http://www.seidioonline.com/palm-s/2231.htm" title="palm">
+			<img src="/v/vspfiles/templates/charged/images/Template/Menu2_Bullet.gif" border="0" align="absmiddle"></a></td>
+		<td onclick="mClk2(this);" width="100%" valign="middle">
+			<a href="http://www.seidioonline.com/palm-s/2231.htm" title="palm">Palm</a>
+		</td>
+	</tr>
+<tr>
+	<td colspan="2" class="colors_lines"><img src="/v/vspfiles/templates/charged/images/clear1x1.gif" width="1" height="1"></td>
+</tr>
+	<tr class="nav" onmouseover="mOvr2(this);" onmouseout="mOut2(this);"> 
+		<td onclick="mClk2(this);" width="1%" valign="top">
+			<a href="http://www.seidioonline.com/other-s/7521.htm" title="other">
+			<img src="/v/vspfiles/templates/charged/images/Template/Menu2_Bullet.gif" border="0" align="absmiddle"></a></td>
+		<td onclick="mClk2(this);" width="100%" valign="middle">
+			<a href="http://www.seidioonline.com/other-s/7521.htm" title="other">Other</a>
+		</td>
+	</tr>
+<tr>
+	<td colspan="2" class="colors_lines"><img src="/v/vspfiles/templates/charged/images/clear1x1.gif" width="1" height="1"></td>
+</tr>
+	<tr class="nav" onmouseover="mOvr2(this);" onmouseout="mOut2(this);"> 
+		<td onclick="mClk2(this);" width="1%" valign="top">
+			<a href="http://www.seidioonline.com/samsung-s/2230.htm" title="samsung">
+			<img src="/v/vspfiles/templates/charged/images/Template/Menu2_Bullet.gif" border="0" align="absmiddle"></a></td>
+		<td onclick="mClk2(this);" width="100%" valign="middle">
+			<a href="http://www.seidioonline.com/samsung-s/2230.htm" title="samsung">Samsung</a>
+		</td>
+	</tr>
 </tbody></table>
 </div>
-			</div>
-			<!-- Shop by Price:
-     <div id="dropdown_shopby_price" class="dropdown_select"><script type="text/javascript">
-function DropDown_ShopBy_Price_onChange(arg_value) {
-	if (arg_value !== "") {
-	window.location.href = '/SearchResults.asp?RefineBy_Price=' + arg_value;
-	}
-}
-</script>
-<form name="shopbyprice" method="get" action="">
-<select name="lowpricedropdown" onChange="DropDown_ShopBy_Price_onChange(this.options[lowpricedropdown.selectedIndex].value)">
-<option value="" selected></option>
-<option value="0-25">$0 - $25</option><option value="25-50">$25 - $50</option><option value="50-100">$50 - $100</option><option value="100-250">$100 - $250</option><option value="250-500">$250 - $500</option><option value="500-">$500 and up</option></select></form></div> -->
-			<div id="display_promotions_999"><!-- Begin Volusion Live Chat -->
-<div align="center" id="VolusionLiveChat"><a href="http://www.volusion.com/livechat_software.asp">Live Chat Software</a></div>
+		<div id="display_promotions_999"><!-- Begin Volusion Live Chat -->
+<div align="center" id="VolusionLiveChat"><a href="http://www.volusion.com/livechat_software.asp" rel="nofollow"></a></div>
 <script defer="" type="text/javascript" src="https://livechat.volusion.com/script.aspx?id=271144&amp;AutoPrompt=5&amp;DeptID=39"></script>
 
 
 Available Mon-Fri.<br>10a - 4p, CST
 <!-- End Volusion Live Chat -->
 <p></p>
-<p>&nbsp;</p><br><a href="/Articles.asp?ID=143"><img src="/v/vspfiles/templates/Seidio/images/logos/corporate.jpg" border="0"></a><br><br><img src="/v/vspfiles/assets/images/newcc_logos.jpg" border="0"><br><style type="text/css">#volusion_ssl_seal { behavior: url(/a/iepngfix.htc); }</style><br><a href="javascript:void(0);" onclick="window.open('https://www.volusion.com/ssl.asp?url=www.seidioonline.com', 'VolusionSSL', 'top=10,left=10,menubar=0,resizable=0,scrollbars=0,width=467,height=467')"><img id="volusion_ssl_seal" src="/a/i/seal_volusion1.png" border="0" height="113" width="100"></a><br><style type="text/css">
+<p>&nbsp;</p><br><a href="/Articles.asp?ID=143"><img src="/v/vspfiles/templates/charged/images/logos/corporate.jpg" border="0"></a><br><br><img src="/v/vspfiles/assets/images/newcc_logos.jpg" border="0"><br><style type="text/css">#volusion_ssl_seal { behavior: url(/a/iepngfix.htc); }</style><br><a href="javascript:void(0);" onclick="window.open('https://www.volusion.com/ssl.asp?url=www.seidioonline.com', 'VolusionSSL', 'top=10,left=10,menubar=0,resizable=0,scrollbars=0,width=467,height=467')"><img id="volusion_ssl_seal" src="/a/i/seal_volusion1.png" border="0" height="113" width="100"></a><br><style type="text/css">
 <!--
 .style2 {
 	font-family: Verdana, Arial, Helvetica, sans-serif;
@@ -457,8 +597,11 @@ Available Mon-Fri.<br>10a - 4p, CST
 
 
 </tbody></table></div>
-		</td>
-		<td width="486" rowspan="2" valign="top" id="content_area">
+	</div>
+	<!-- #leftnav -->
+	<div class="shadow">
+		<div class="shadow">
+			<div id="content_area" class="clear">
     <table width="100%" border="0" cellspacing="5" cellpadding="5" align="center">
         <tbody><tr> 
           <td>
@@ -482,187 +625,100 @@ We welcome your questions, comments, and concerns about privacy. Please send us 
 </tbody></table>
 
  
-</td>
-	</tr>
-	<tr>
-		<td valign="top" id="left_nav">&nbsp;
-			
-		</td>
-	</tr>
-	</tbody></table>
 </div>
-<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
-<script type="text/javascript" src="http://www.seidio.com/banner/webfade_lib.js">
-/***********************************************
-* Ultimate Fade In Slideshow v2.0- (c) Dynamic Drive DHTML code library (www.dynamicdrive.com)
-* This notice MUST stay intact for legal use
-* Visit Dynamic Drive at http://www.dynamicdrive.com/ for this script and 100s more
-***********************************************/
-</script>
-<!--
-<script type="text/javascript">
-var mygallery=new fadeSlideShow({
-	wrapperid: "fadeshow1", //ID of blank DIV on page to house Slideshow
-	dimensions: [160, 100], //width/height of gallery in pixels. Should reflect dimensions of largest image
-	imagearray: [
-		["http://www.seidio.com/banner/FOSE2012-1.jpg", "http://www.fose.com/Events/FOSE-2012/Home.aspx", "_new"] //<--no trailing comma after very last image element!
-	],
-	displaymode: {type:'auto', pause:3000, cycles:0, wraparound:false},
-	persist: false, //remember last viewed slide and recall within same session?
-	fadeduration: 900, //transition duration (milliseconds)
-	descreveal: "ondemand",
-	togglerid: ""
-})
-</script>
--->
-<script type="text/javascript">
-var mygallery=new fadeSlideShow({
-	wrapperid: "fadeshow1", //ID of blank DIV on page to house Slideshow
-	dimensions: [160, 100], //width/height of gallery in pixels. Should reflect dimensions of largest image
-	imagearray: [
-		["http://www.seidio.com/banner/SingUpProducts_01.jpg", "/Articles.asp?ID=164" ],
-		["http://www.seidio.com/banner/SingUpProducts_01v2.jpg", "/Articles.asp?ID=164" ] //<--no trailing comma after very last image element!
-	],
-	displaymode: {type:'auto', pause:4000, cycles:0, wraparound:false},
-	persist: false, //remember last viewed slide and recall within same session?
-	fadeduration: 1500, //transition duration (milliseconds)
-	descreveal: "ondemand",
-	togglerid: ""
-})
-</script>
+			<!-- #content_area -->
+		</div>
+	</div>
+	<!-- END SHADOWS -->
+	<!--<div class="clear"></div>-->
+</div>
 
-<!--
-<script type="text/javascript">
-var mygallery=new fadeSlideShow({
-	wrapperid: "fadeshow2", //ID of blank DIV on page to house Slideshow
-	dimensions: [160, 100], //width/height of gallery in pixels. Should reflect dimensions of largest image
-	imagearray: [
-		<!--["http://www.seidio.com/banner/CES_2013_01.jpg", "http://www.cesweb.org/", "_new"],
-		["http://www.seidio.com/banner/WhiteBox_01.jpg", "http://www.seidioonline.com/", "_new"],
-		<!--["http://www.seidio.com/banner/EMSToday2013.jpg", "http://www.emstoday.com/index.html", "_new"]
-		<!--["http://www.seidio.com/banner/HongKong2012.jpg", "http://www.hktdc.com/fair/hkelectronicsfairae-en/HKTDC-Hong-Kong-Electronics-Fair-Autumn-Edition.html", "_new"]
-		 //<--no trailing comma after very last image element!
-	],
-	displaymode: {type:'auto', pause:3000, cycles:0, wraparound:false},
-	persist: false, //remember last viewed slide and recall within same session?
-	fadeduration: 900, //transition duration (milliseconds)
-	descreveal: "ondemand",
-	togglerid: ""
-})
-</script>
-
--->
-
-<script language="JavaScript1.2">
-<!--
-var bookmarkurl=window.location.href.substr(0, window.location.href.indexOf('/', 8) + 1) + '';
-if (document.title) { var bookmarktitle=document.title; }
-else { var bookmarktitle="";}
-var bookmarktext="Bookmark Us"
-if (navigator.appName == "Netscape") {
- bookmarktext="Bookmark Us (CTRL+D)";
-}
-else if (navigator.appName == "Opera") {
-bookmarktext="Bookmark Us (CTRL+T)";
-}
-function addbookmark()
-{
- if (window.sidebar) {
- window.sidebar.addPanel(bookmarktitle, bookmarkurl, "");
-}
- else if (window.external) {
-window.external.AddFavorite(bookmarkurl, bookmarktitle);
-}
-}
-//-->
-</script>
-<div id="footer">
-	<div id="footer_top">
+<!-- inh -->
+<div id="footer" class="clear">
+	<div class="wrap">
 		<ul>
-			<li><a href="/">Home</a></li>
-			<li><a href="http://www.seidio.com">Corporate</a></li>
-			<li><a href="/Articles.asp?ID=138">Help Center</a></li>
-			<li><a href="/myaccount.asp">My Account </a></li>
-			<li class="last"><a href="/Terms_privacy.asp">Privacy Policy</a></li>
+			<li class="title">About Us</li>
+			<li><a href="/aboutus.asp">Company Info</a></li>
+			<li><a href="http://www.seidioonline.com/Articles.asp?ID=290">Press Room</a></li>
+			<li><a href="http://www.seidioonline.com/Articles.asp?ID=301">Careers</a></li>
+			<li><a href="http://www.seidioonline.com/Articles.asp?ID=137">Contact Us</a></li>
 		</ul>
-		<p>
-	
+		<ul>
+			<li class="title">My Account</li>
+			<li><a href="/shoppingcart.asp">View Cart</a></li>
+			<li><a href="/login.asp">Sign-In</a></li>
+			<li><a href="/orders.asp">Order Status</a></li>
+		</ul>
+		<ul>
+			<li class="title">Products</li>
+			<li><a href="/pindex.asp">Product Index</a></li>
+                        <li><a href="http://www.seidioonline.com/Articles.asp?ID=295">Product Awards</a></li>
+                        <li><a href="http://www.seidioonline.com/Articles.asp?ID=303">Product Requests</a></li>
+		</ul>
+		<ul>
+			<li class="title">Helpful Info</li>
+			<li><a href="/terms_privacy.asp">Privacy Policy</a></li>
+			<li><a href="/terms.asp">Terms of Use</a></li>
+		</ul>
+		<ul>
+			<li class="title">Questions</li>
+			<li><a href="/help.asp">FAQ</a></li>
+			<li><a href="tel:+1-832-204-1118">(832) 204-1118</a></li>
+		</ul>
+		<div id="newsletter">
+			<p>
+				For exclusive deals and offers, sign up for our newsletter:
+			</p>
+			<div id="elist">
+			<form name="subscribe" action="http://app.streamsend.com/public/QcWY/QEq/subscribe" method="post">
+					<input type="text" id="elist_input" name="person[email_address]" value="Email..." onfocus="if (this.value == 'Email...') {this.value = '';}" onblur="if (this.value == '') {this.value = 'Email...';}">
+					<input type="submit" name="Submit" id="elist_submit" value="Send"></form>
+                      </div></div>
 
-<a href="http://www.seidioonline.com//terms.asp">Seidio name and logos are trademarks of Seidio, Inc. All Rights Reserved.
+
+
+                      <!--ORIGINAL FORM <form name="MailingList" method="post" action="/MailingList_subscribe.asp">
+					<input type="text" id="elist_input" name="emailaddress" value="Email..." onfocus="if (this.value == 'Email...') {this.value = '';}" onblur="if (this.value == '') {this.value = 'Email...';}"/></form><input type="submit" name="Submit" id="elist_submit" value="Send"/></div></div>
+                       -->
+
+			
+		<div id="copyright" class="clear">
+			<!-- VOLUSION LINK - BEGIN
+				Customer has agreed per Volusion's Terms of Service (http://www.volusion.com/agreement_monthtomonth.asp) to maintain a text hyperlink to "http://www.volusion.com" in the footer of the website. The link must be standard html, contain no javascript, and be approved by Volusion. Removing this link breaches the Volusion agreement. -->
+			 <a href="/terms.asp">Copyright ©
 			<script type="text/javascript">document.write((new Date()).getFullYear());</script>2020
-			</a>
-		</p>
-	</div>
-	<div id="footer_bottom">
+			&nbsp;Seidio, Inc.. All Rights Reserved.</a> Powered by <a href="http://www.volusion.com" target="_blank">Volusion Ecommerce Software</a>.
+<a id="ssl" href="javascript:void(0);" onclick="window.open('https://www.volusion.com/ssl.asp?url=www.seidioonline.com', 'VolusionSSL', 'top=10,left=10,menubar=0,resizable=0,scrollbars=0,width=467,height=467')"><img src="/v/vspfiles/templates/charged/images/template/volusion_ssl.png" alt="Seidio Online is a Volusion Secure Site"></a>
 
-<br>
+
+
+			<div id="payment">
+				<img src="/v/vspfiles/templates/charged/images/template/card_visa.gif" alt="Visa">
+				<img src="/v/vspfiles/templates/charged/images/template/card_mc.gif" alt="Mastercard">
+				<img src="/v/vspfiles/templates/charged/images/template/card_discover.gif" alt="Discover">
+				<img src="/v/vspfiles/templates/charged/images/template/card_amex.gif" alt="American Express">
+                    
+
+                        <!--DELETE THIS TO ADD PAYPAL ICON BACK
+                                <img src="/v/vspfiles/templates/charged/images/template/card_paypal.gif" alt="PayPal"/>
+                        -->
+
+
+			</div>
+
+  <div id="mcafee">
 <!-- START MCAFEESECURE CODE -->
-<a target="_blank" href="https://www.mcafeesecure.com/RatingVerify?ref=www.seidioonline.com"><img width="115" padding="5px" align="left" height="32" border="0" src="//images.mcafeesecure.com/meter/www.seidioonline.com/22.gif" alt="McAfee SECURE sites help keep you safe from identity theft, credit card fraud, spyware, spam, viruses and online scams" oncontextmenu="alert('Copying Prohibited by Law - McAfee SECURE is a Trademark of McAfee, Inc.'); return false;"></a>
+<a target="_blank" href="https://www.mcafeesecure.com/RatingVerify?ref=www.seidioonline.com"><img width="115" height="32" border="0" src="//images.mcafeesecure.com/meter/www.seidioonline.com/22.gif" alt="McAfee SECURE sites help keep you safe from identity theft, credit card fraud, spyware, spam, viruses and online scams" oncontextmenu="alert('Copying Prohibited by Law - McAfee SECURE is a Trademark of McAfee, Inc.'); return false;"></a>
 <!-- END MCAFEESECURE CODE -->
-		<!--    
- ===========================================================================================
-  VOLUSION LINK - BEGIN
- ===========================================================================================
-  Customer has agreed per Volusion&#26087; Terms of Service (http://www.volusion.com/agreement_monthtomonth.asp)
-  to maintain a text hyperlink to "http://www.volusion.com" in the footer of the website. The link must be standard html, contain no javascript, and be approved by Volusion. Removing this link breaches the Volusion agreement.-->
-		
-			Volusion <a href="http://www.volusion.com/online-store-builder" title="Shopping Cart Software" target="_blank">Website Builder</a>.
-		
-		<!--
- ===========================================================================================
-  VOLUSION LINK - END
- ===========================================================================================
- -->
-<p>
-<font color="white">Surprise!</font>
-</p>
+		</div>
 
+		<!-- #copyright -->
 	</div>
 </div>
-<script type="text/javascript" charset="utf-8">
-  var is_ssl = ("https:" == document.location.protocol);
-  var asset_host = is_ssl ? "https://s3.amazonaws.com/getsatisfaction.com/" : "http://s3.amazonaws.com/getsatisfaction.com/";document.write(unescape("%3Cscript src='" + asset_host + "javascripts/feedback-v2.js' type='text/javascript'%3E%3C/script%3E"));
-</script><script src="https://s3.amazonaws.com/getsatisfaction.com/javascripts/feedback-v2.js" type="text/javascript"></script>
-<script type="text/javascript" charset="utf-8">
-  var feedback_widget_options = {};
-  feedback_widget_options.display = "overlay";  
-  feedback_widget_options.company = "seidioonline";
-  feedback_widget_options.placement = "left";
-  feedback_widget_options.color = "#222";
-  feedback_widget_options.style = "idea";
-  var feedback_widget = new GSFN.feedback_widget(feedback_widget_options);
-</script>
+<!-- #footer -->
 
-<!--Start AdRoll Pixel-->
-<script type="text/javascript">
-adroll_adv_id = "AU7FLFJIO5BKTLIZ3RTYH5";
-adroll_pix_id = "NAIE5QGPP5HATDYIKQ2RAF";
-(function () {
-var oldonload = window.onload;
-window.onload = function(){
-   __adroll_loaded=true;
-   var scr = document.createElement("script");
-   var host = (("https:" == document.location.protocol) ? "https://s.adroll.com" : "http://a.adroll.com");
-   scr.setAttribute('async', 'true');
-   scr.type = "text/javascript";
-   scr.src = host + "/j/roundtrip.js";
-   ((document.getElementsByTagName('head') || [null])[0] ||
-    document.getElementsByTagName('script')[0].parentNode).appendChild(scr);
-   if(oldonload){oldonload()}};
-}());
-</script>
-<!--End AdRoll Pixel-->
 
-<map name="Map1">
-	<area shape="rect" coords="783,14,822,65" href="https://plus.google.com/109551904688297166712" target="_new" alt="Google+">
-	<area shape="rect" coords="14,11,236,66" href="http://www.seidioonline.com/">
-	<area shape="rect" coords="555,14,595,65" href="https://livechat23.volusion.com/livechat.aspx?ID=271144&amp;location=http://www.seidioonline.com/&amp;auto=0&amp;cookieGuid=erhxvbmgdmjocn45cs1nczn4&amp;DeptID=&amp;Agent=&amp;tType=" target="_new">
-	<area shape="rect" coords="614,13,650,67" href="http://twitter.com/seidio" target="_new">
-	<area shape="rect" coords="670,12,706,66" href="http://www.youtube.com/user/seidioseidio" target="_new">
-	<area shape="rect" coords="725,15,764,66" href="http://www.facebook.com/pages/Seidio/165294134795" target="_new">
-	<area shape="rect" coords="841,13,881,67" href="http://app.streamsend.com/public/QcWY/QEq/subscribe" target="_new">
-	<area shape="rect" coords="899,14,941,67" href="http://seidio.wordpress.com/" target="_new">
-</map>
+
 
 
 
@@ -677,4 +733,4 @@ window.onload = function(){
 </script>
 
 
-</body></html>
+</div></body></html>
