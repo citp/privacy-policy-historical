@@ -1,10 +1,11 @@
-<!--The following is the downloaded HTML source of the recreation.gov privacy policy that was archived on 2013-05-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130515025859id_/http%3A//www.recreation.gov/marketing.do%3Fgoto%3D/acm/privacyPolicy.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the recreation.gov privacy policy that was archived on 2013-11-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131113094415id_/http%3A//www.recreation.gov/marketing.do%3Fgoto%3D/acm/privacyPolicy.htm) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:og="http://opengraphprotocol.org/schema/"><head>
+<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:og="http://opengraphprotocol.org/schema/"><head>
 	  <meta http-equiv="X-UA-Compatible" content="IE=edge">	   
 	  <script src="//tags.tiqcdn.com/utag/active/reserveamerica/prod/utag.js" type="text/javascript" async=""></script><script type="text/javascript"> 
-		window.name="ra";
+			window.name="ra";
+			var _brandName_ = "NRSO";
 	  </script> 
       <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
       <meta http-equiv="Content-Style-Type" content="text/css">
@@ -17,11 +18,13 @@
 <style type="text/css"> @import url('/style/ext_style/jquery-ui-timepicker-addon.css');</style>
 <style type="text/css"> @import url('/style/common.css');</style>
 <style type="text/css"> @import url('/style/ajax.css');</style>
+<style type="text/css"> @import url('/style/ext_style/usearch.css');</style>
 <style type="text/css"> @import url('/marketing/style/marketing.css');</style>
 
 	  
 	  <script type="text/javascript" src="/js/_jquery_all.js"></script>
 <script type="text/javascript" src="/js/_all.js"></script>
+<script type="text/javascript" src="/js/_usearch.js"></script>
 
 	  	  
 	  <meta name="google-translate-customization" content="539526da2cd03541-8bfeb42c37cb1567-g47c9efedc7cd5b40-12"> 
@@ -32,8 +35,8 @@
 	  		<meta property="fb:app_id" content="101538589962516">
 			<meta property="fb:admins" content="132876373445681">
 	  		  	  
-	  	
-  <script type="text/javascript" src="/foresee/foresee-surveydef.js"></script></head>
+	  
+	 <script type="text/javascript" src="/foresee/foresee-surveydef.js"></script></head>
 
   <body id="" onunload="logoff()">
   
@@ -50,14 +53,15 @@
   <script type="text/javascript">submitted = 0;</script>
   
 
-	
+
    <div id="pageContainer">
 	<div id="page">
 	  <script type="text/javascript" src="/foresee/foresee-alive.js"></script>
 
+
 <div id="pageWrapper">
 <!--Start Temp Announcment-->
-<div id="newLookAnnounce" style="position:absolute; width: 100px; margin: 68px 0 0 -115px; color: #FFF;font-weight:  bold; text-shadow: 0 0 3px RGBA(0,0,0,1); text-align:right;">
+<div id="newLookAnnounce" style="position:absolute; width: 100px; margin: 68px 0 0 -115px; color: #FFF;font-weight:  bold; text-shadow: 0 0 3px RGBA(0,0,0,1); text-align:right;" class="hidden-phone">
 <style>
 #newLookAnnounce a{
 	display:block;
@@ -77,14 +81,14 @@
     vertical-align: top;
 }
 </style>
-<a href="/marketing.do?goto=acm/Explore_And_More/exploreArticles/NewLook.htm" title="About New Look!">
-<div style="color: #FEB305">New Look!</div>
-<div>New Trip Ideas!</div>
-<div>Learn More...</div>
+<a href="/marketing.do?goto=acm/faqs/Government_Reopening.htm" title="Reservation Refund Questions">
+<div style="color: #FEB305">Reservation</div>
+<div>Refund</div>
+<div>Questions...</div>
 </a>
 </div>
 <!--End Temp Announcment-->
-<div id="banner" style="padding:0; margin:0;height : 60px;overflow:hidden;">
+<div id="banner" style="padding:0; margin:0;height : 60px;overflow:hidden;" class="hidden-phone">
 
 	<div id="logoContainer" style="position:absolute;">
 		<a href="/" target="_top"><img id="headerGraphic" src="/brands/rec.gov/marketing/html/images/2012/RecreationDotGovLogo.png" width="305" height="124" alt="Recreation.gov - Explore your America" title="Recreation.gov - Explore your America"></a>
@@ -97,6 +101,9 @@
 	</div>	
 </div>
 
+
+		
+ 
 <!-- System broadcast alerts that needs to be displayed on any page on the website.-->
 
 <div id="sysbroadcast"><!-- Required for Branding 
@@ -132,7 +139,7 @@ $j(document).ready(function(){
 				// Get the HREF domain
 				hrefDomain = hrefVal.match(/:\/\/(.[^/]+)/)[1];
 				// Check if we are leaving the domain
-				if (hrefDomain != window.location.hostname && hrefDomain.indexOf(".gov") < 0 && hrefDomain.indexOf(".mil") < 0 && hrefDomain.indexOf(".si.edu") < 0 && hrefDomain.indexOf(".fed.us") < 0 ){
+				if (hrefDomain != window.location.host && hrefDomain.indexOf(".gov") < 0 && hrefDomain.indexOf(".mil") < 0 && hrefDomain.indexOf(".si.edu") < 0 && hrefDomain.indexOf(".fed.us") < 0 ){
 					// Remove onClick bindings
 					$j(this).unbind('click');
 					$j(this).attr("onClick", "");
@@ -157,7 +164,7 @@ function removeExitMsg(){
 	clearTimeout(exitMsgTimeout);
 }
 </script>
-	  <div id="topnav"><table class="tabs" cellpadding="0" cellspacing="0" border="0"><tbody><tr><td class="first"><a href="/unifSearchResults.do?topTabIndex=Search" target="_top" id="Search"><span class="caption">FIND PLACES &amp; ACTIVITIES<br></span></a></td><td><a href="/marketing.do?goto=acm/Explore_Trip_Ideas.htm&amp;topTabIndex=Explore" target="_top" id="Explore"><span class="caption">EXPLORE TRIP IDEAS<br></span></a></td><td><a href="/marketing.do?goto=/acm/faqs.htm&amp;topTabIndex=Help" target="_top" id="Help"><span class="caption">HELP &amp; FAQ<br></span></a></td><td class="last"><a href="/marketing.do?goto=/acm/aboutUs.htm&amp;topTabIndex=About" target="_top" id="About"><span class="caption">ABOUT US<br></span></a></td></tr></tbody></table></div>
+	  <div id="topnav"><table class="tabs" cellpadding="0" cellspacing="0" border="0"><tbody><tr><td class="first"><a href="http://www.recreation.gov/unifSearchResults.do?topTabIndex=Search" target="_top" id="Search" onclick="pageTracker._trackEvent(&quot;HomePageTopLinks_FindPlacesActivities&quot;,&quot;Click&quot;);"><span class="caption">FIND PLACES &amp; ACTIVITIES<br></span></a></td><td><a href="http://www.recreation.gov/marketing.do?goto=acm/Explore_Trip_Ideas.htm&amp;topTabIndex=Explore" target="_top" id="Explore" onclick="pageTracker._trackEvent(&quot;HomePageTopLinks_ExploreTripIdeas&quot;,&quot;Click&quot;);"><span class="caption">EXPLORE TRIP IDEAS<br></span></a></td><td><a href="http://www.recreation.gov/marketing.do?goto=/acm/faqs.htm&amp;topTabIndex=Help" target="_top" id="Help" onclick="pageTracker._trackEvent(&quot;HomePageTopLinks_HelpAndFAQ&quot;,&quot;Click&quot;);"><span class="caption">HELP &amp; FAQ<br></span></a></td><td class="last"><a href="http://www.recreation.gov/marketing.do?goto=/acm/aboutUs.htm&amp;topTabIndex=About" target="_top" id="About" onclick="pageTracker._trackEvent(&quot;HomePageTopLinks_AboutUs&quot;,&quot;Click&quot;);"><span class="caption">ABOUT US<br></span></a></td></tr></tbody></table></div>
 	  
 
 
@@ -168,8 +175,8 @@ function removeExitMsg(){
 
 <div id="membershipbar">
 <div class="tabsbar">
-<span id="signinmsg">&nbsp;&nbsp;<a href="/memberSignInDisplay.do?topTabIndex=MyAccount" id="signIn" onclick="showInlineProgressBar(&quot;topnavProgressBar&quot;,&quot;Please wait ...&quot;,&quot;pagearea&quot;); return true;">Log-In</a></span>
-<span id="signupmsg"><a href="/memberCreateAccountDisplay.do?topTabIndex=MyAccount" id="signUp" onclick="showInlineProgressBar(&quot;topnavProgressBar&quot;,&quot;Please wait ...&quot;,&quot;pagearea&quot;); return true;">Sign-Up</a></span><span id="barlinks"><a href="/marketing.do?goto=/acm/faqs.htm" onclick="pageTracker._trackPageview(&quot;/outgoing/help&quot;)">Help/FAQ</a></span></div>
+<div id="signinmsg" class="left">&nbsp;&nbsp;<a href="/memberSignInDisplay.do?topTabIndex=MyAccount" id="signIn" onclick="pageTracker._trackEvent(&quot;HomePageTopLinks_LogIn&quot;,&quot;Click&quot;);showInlineProgressBar(&quot;topnavProgressBar&quot;,&quot;Please wait ...&quot;,&quot;pagearea&quot;); return true;">Log-In</a></div>
+<div id="signupmsg" class="left"><a href="/memberCreateAccountDisplay.do?topTabIndex=MyAccount" id="signUp" onclick="pageTracker._trackEvent(&quot;HomePageTopLinks_SignUp&quot;,&quot;Click&quot;);showInlineProgressBar(&quot;topnavProgressBar&quot;,&quot;Please wait ...&quot;,&quot;pagearea&quot;); return true;">Sign-Up</a></div><span id="barlinks"><a href="/marketing.do?goto=/acm/faqs.htm" onclick="pageTracker._trackPageview(&quot;/outgoing/help&quot;)">Help/FAQ</a></span></div>
 <div id="topnavProgressBar" style="display:none;"><h2><span id="pBarTitle"></span></h2>
 <div id="inlineProgressBar">
 <div>&nbsp;</div>
@@ -197,7 +204,9 @@ function removeExitMsg(){
 
 
 
+
 <div id="pagearea">
+
 <table border="0" cellspacing="0" cellpadding="0" width="100%" style="border-collapse: collapse" class="layout">
    <tbody><tr>
    <!-- coloumn 1 -->
@@ -211,6 +220,7 @@ function removeExitMsg(){
     <!-- coloumn 2 -->
        
   	   <td id="colbody1" rowspan="2">
+  	   <div class="td_inner_wrapper">
   	   <div id="contentProgressBar" style="display: none;"></div>
 		
 	  		<div id="contentArea">
@@ -319,6 +329,7 @@ Ballston Spa, New York<br>
 	  		</div>
 	  		
 		
+		</div>
   		</td>
 	
 
@@ -478,6 +489,9 @@ var s_code=s_tan.t();if(s_code)document.write(s_code)//--></script>
   
 
   <script type="text/javascript">
+  	if ("customPageTitle" in window && customPageTitle.length > 0) {
+  		shortTitle = customPageTitle;
+  	} else 
   	if (document.title) {
   	  fullTitle = document.title;	 
   		shortTitle = fullTitle.substring(0, fullTitle.indexOf(" - "));
@@ -491,8 +505,7 @@ var s_code=s_tan.t();if(s_code)document.write(s_code)//--></script>
 
   	
 
-	
-	pageTracker._trackPageview(shortTitle.length==0 ? document.title : shortTitle);
+		pageTracker._trackPageview(shortTitle.length==0 ? document.title : shortTitle);
 	
   </script>
   
