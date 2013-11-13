@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the socialhp.com privacy policy that was archived on 2013-05-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130501092441id_/https%3A//www.socialhp.com/index/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the socialhp.com privacy policy that was archived on 2013-11-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131113032807id_/http%3A//www.socialhp.com/index/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
 	<title>SocialHP: Organize Your Team, Get Results</title>
@@ -11,6 +11,10 @@
 	<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
 	<script type="text/javascript" src="/js/jquery.bxSlider.min.js"></script>
 
+	<script src="/js/jquery.ui.widget.js"></script>
+	<script src="/js/jquery.iframe-transport.js"></script>
+	<script src="/js/jquery.fileupload.js"></script>
+
 	<script type="text/javascript" src="https://use.typekit.com/gmn0qnh.js"></script>
 	<script type="text/javascript">try{Typekit.load();}catch(e){}</script>
 
@@ -21,19 +25,27 @@
 		<link type="text/css" rel="stylesheet" href="/js/colorbox/colorbox.css">
 	<link href="/css/reset.css" rel="stylesheet" type="text/css">
 	<link href="/css/grid.css" rel="stylesheet" type="text/css">
+	<link href="//netdna.bootstrapcdn.com/font-awesome/3.2.1/css/font-awesome.css" rel="stylesheet">
+	
+	<!--[if IE 7]>
+		<link href="//netdna.bootstrapcdn.com/font-awesome/3.2.1/css/font-awesome-ie7.css" rel="stylesheet">
+	<![endif]-->
 
 	
 			<link href="/css/main_new.css" rel="stylesheet" type="text/css">
 		<link href="/css/ui_new.css" rel="stylesheet" type="text/css">
 		<link href="/css/jquery.bxslider.css" rel="stylesheet" type="text/css">
 	
+
+<link href="/css/socialhp.css" rel="stylesheet" type="text/css">
+
 	<!-- COLOR BOX -->
 	<script type="text/javascript" src="/js/colorbox/jquery.colorbox-min.js"></script>
 
 
 
 	<!-- FACEBOOK -->
-	<script src="https://connect.facebook.net/en_US/all.js"></script>
+	<script src="http://connect.facebook.net/en_US/all.js"></script>
 
 	<!-- MAIN JS -->
 	<script src="/js/main.js"></script>
@@ -113,7 +125,7 @@
 				
 				<div class="grid_8">
 					<span class="header_message">
-					<strong style="color: #FFF;">3,198</strong> Brand Ambassadors reached <strong style="color: #FFF;">1,482,526</strong> potential new customers today.
+					<strong style="color: #FFF;">3,882</strong> Brand Ambassadors reached <strong style="color: #FFF;">1,779,109</strong> potential new customers today.
 					</span>
 				</div>
 			
@@ -166,10 +178,10 @@
 
 <h2>Information Gathering and Usage</h2>
 
-<p>When you register for socialHP.com we ask for information such as your name, company name, email address, billing 
+<p>When you register for SocialHP we ask for information such as your name, company name, email address, billing 
 	address, credit card information. Members who sign up for the free trial account are not required to enter a 
 	credit card. The financial information provided by users who upgrade to our paid plans will be transmitted 
-	over an encrypted connection (SSL) to our payment gateway and will not be stored by socialHP.com. socialHP.com 
+	over an encrypted connection (SSL) to our payment gateway and will not be stored by SocialHP. SocialHP 
 	uses collected information for the following general purposes: products and services provision, billing, 
 identification and authentication, services improvement, contact, advertising and research.</p>
 
@@ -189,7 +201,7 @@ identification and authentication, services improvement, contact, advertising an
 				<span style="color: #666666; font-size: 13px;">© 2013 SocialHP. All rights reserved.&nbsp;&nbsp;&nbsp;</span>
 				<span class="footer_link_wrapper">
 					<a href="/index/guarantee">Our Guarantee</a>
-					<a href="/press">Blog</a>
+					<a href="/blog">Blog</a>
 					<a href="/index/terms">Terms of Use</a>
 					<a href="/index/privacy">Privacy Policy</a>
 					<a href="/index/contact-us">Contact Us</a>
@@ -226,7 +238,7 @@ identification and authentication, services improvement, contact, advertising an
 
 					}
 
-				}, {scope: 'offline_access,email,publish_stream,create_event,rsvp_event,user_events,user_groups,user_status,user_birthday,sms,user_relationships,user_relationship_details,user_hometown,read_friendlists,friends_events,friends_groups,friends_hometown,friends_relationships,friends_relationship_details'});
+				}, {scope: 'offline_access,email,publish_stream,read_stream,create_event,rsvp_event,user_events,user_groups,user_status,user_birthday,sms,user_relationships,user_relationship_details,user_hometown,read_friendlists,friends_events,friends_groups,friends_hometown,friends_relationships,friends_relationship_details'});
 
 			}
 
@@ -277,15 +289,15 @@ identification and authentication, services improvement, contact, advertising an
 									}
 
 									/*****
-										   error: function(jqXHR, status, str)
-										   {
-												//alert(status+":"+str+" - "+this.url)
-										   } ***/
+								   	error: function(jqXHR, status, str)
+								   	{
+										//alert(status+":"+str+" - "+this.url)
+								   	} ***/
 								});
 
 							}
 
-						}, {scope: 'offline_access,email,publish_stream,create_event,rsvp_event,user_events,user_groups,user_status,user_birthday,sms,user_relationships,user_relationship_details,user_hometown,read_friendlists,friends_events,friends_groups,friends_hometown,friends_relationships,friends_relationship_details'});
+						}, {scope: 'offline_access,email,publish_stream,read_stream,create_event,rsvp_event,user_events,user_groups,user_status,user_birthday,sms,user_relationships,user_relationship_details,user_hometown,read_friendlists,friends_events,friends_groups,friends_hometown,friends_relationships,friends_relationship_details'});
 
 					});
 
@@ -365,23 +377,23 @@ identification and authentication, services improvement, contact, advertising an
 
 
 		<!--<script src="http://static.ak.connect.facebook.com/js/api_lib/v0.4/FeatureLoader.js.php" type="text/javascript"></script>-->
-		
-	    <script type="text/javascript">
-    	    try {
-                var _gaq = _gaq || [];
-    		    _gaq.push(['UA109801651._setAccount', 'UA-10980165-1']);
-    		    _gaq.push(['UA109801651._trackPageview']);
-            } catch(err) {}
-        </script>
-	    <script type="text/javascript">
-	    	try {
-               (function() {
-                    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-                    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-                    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-                })();
-            } catch(err) {}
-        </script>
+
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-30722529-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+
 	
 
 </body></html>
