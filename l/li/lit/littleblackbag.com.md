@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the littleblackbag.com privacy policy that was archived on 2013-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130516070207id_/http%3A//www.littleblackbag.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the littleblackbag.com privacy policy that was archived on 2013-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131113080526id_/https%3A//www.littleblackbag.com/privacy) for the most accurate reproduction.*
 
-# Little Black Bag | Privacy | Social Shopping - Social Commerce - Beauty Box - Glam Bag
+# Little Black Bag | Privacy | Social Shopping - Social Commerce - Beauty Box - Glam Bag: Shop.Play.LOVE.
 
 Effective Date: January 17, 2012
 
@@ -89,6 +89,8 @@ Third-party ad servers or ad networks may serve advertisements on the Website. T
 LBB does not provide any Personal Information to these third-party ad servers or ad networks without your consent. However, please note that if an advertiser asks LBB to show an advertisement to a certain audience or audience segment and you respond to that advertisement, the advertiser or ad-server may conclude that you fit the description of the audience they are trying to reach.
 
 You should consult the respective privacy policies of these third-party ad servers or ad networks. The LBB Privacy Policy does not apply to, and we cannot control the activities of, such advertisers. Some of the third-party advertising companies may be advertising networks that are members of the Network Advertising Initiative, which offers a single location to opt out of ad targeting from member companies (www.networkadvertising.org).
+
+We partner with SteelHouse to deliver offers that are relevant to your interests based on what you’ve viewed on our site. SteelHouse’s cookies only collect Non-Personally Identifiable Information for online marketing purposes. This information is anonymous and cannot be traced back to any individual. To learn more, please visit SteelHouse’s [Privacy Policy](http://www.steelhouse.com/privacy-policy/). To receive less relevant offers and decline to be included in our online offers through SteelHouse, [click here](http://www.steelhouse.com/opt-out/). To opt-out of all online marketing provided by members of the Network Advertising Initiative (NAI) of which SteelHouse is a member, [click here](http://www.networkadvertising.org/).
 
 **Our Commitment To Children’s Privacy**
 
