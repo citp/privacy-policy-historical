@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the lovecarbatter.com privacy policy that was archived on 2013-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130514174417id_/http%3A//www.lovecarbatter.com/%3Fpage_id%3D2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lovecarbatter.com privacy policy that was archived on 2013-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131113020618id_/http%3A//www.lovecarbatter.com/%3Fpage_id%3D2) for the most accurate reproduction.*
 
-# Love Car » Privacy Policy
+# theoderncar.com » Privacy Policy
 
 Where permitted by law, we may also disclose application or transaction information to service providers that help us market our products.
 
