@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the jollibeedelivery.com privacy policy that was archived on 2013-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130423194418id_/http%3A//jollibeedelivery.com/privacy-policy-cookie-restriction-mode) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jollibeedelivery.com privacy policy that was archived on 2013-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131113191345id_/http%3A//jollibeedelivery.com/privacy-policy-cookie-restriction-mode) for the most accurate reproduction.*
 
 # Jollibee Online Delivery - Privacy Policy
 
-Please replace this text with you Privacy Policy. Please add any additional cookies your website uses below (e.g., Google Analytics) 
-
-This privacy policy sets out how Jollibee Online Delivery Store uses and protects any information that you give Jollibee Online Delivery Store when you use this website. Jollibee Online Delivery Store is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement. Jollibee Online Delivery Store may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. 
+This privacy policy sets out how Jollibee Online Delivery uses and protects any information that you give Jollibee Online Delivery when you use this website. Jollibee Online Delivery is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement. Jollibee Online Delivery may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. 
 
 ## What we collect
 
