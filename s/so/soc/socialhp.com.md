@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the socialhp.com privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501092441id_/https%3A//www.socialhp.com/index/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the socialhp.com privacy policy that was archived on 2013-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131113032807id_/http%3A//www.socialhp.com/index/privacy) for the most accurate reproduction.*
 
 # SocialHP: Organize Your Team, Get Results
 
@@ -14,7 +14,7 @@ In order to benefit from the full functionality offered by this web site, it is 
 
 ## Information Gathering and Usage
 
-When you register for socialHP.com we ask for information such as your name, company name, email address, billing address, credit card information. Members who sign up for the free trial account are not required to enter a credit card. The financial information provided by users who upgrade to our paid plans will be transmitted over an encrypted connection (SSL) to our payment gateway and will not be stored by socialHP.com. socialHP.com uses collected information for the following general purposes: products and services provision, billing, identification and authentication, services improvement, contact, advertising and research.
+When you register for SocialHP we ask for information such as your name, company name, email address, billing address, credit card information. Members who sign up for the free trial account are not required to enter a credit card. The financial information provided by users who upgrade to our paid plans will be transmitted over an encrypted connection (SSL) to our payment gateway and will not be stored by SocialHP. SocialHP uses collected information for the following general purposes: products and services provision, billing, identification and authentication, services improvement, contact, advertising and research.
 
 ## No Selling of Personal Information
 
