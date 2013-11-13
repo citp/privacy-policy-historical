@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the zeldawiki.org privacy policy that was archived on 2013-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130620134633id_/http%3A//zeldawiki.org/Zelda_Wiki%3APrivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zeldawiki.org privacy policy that was archived on 2013-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131113064358id_/http%3A//zeldawiki.org/Zelda_Wiki%3APrivacy_policy) for the most accurate reproduction.*
 
 # Zelda Wiki:Privacy policy - Zelda Wiki
 
-### From Zelda Wiki, the Zelda encyclopedia
+Hey! Listen! This wiki contains spoilers! Read at your own risk! 
+
+From Zelda Wiki, the Zelda encyclopedia
 
 [](https://web.archive.org/File:Zwlogo2dsmall.png)
 
