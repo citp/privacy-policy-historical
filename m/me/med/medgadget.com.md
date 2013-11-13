@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the medgadget.com privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602143715id_/http%3A//medgadget.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the medgadget.com privacy policy that was archived on 2013-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131113235744id_/http%3A//medgadget.com/privacy-policy) for the most accurate reproduction.*
 
 # Medgadget, LLC. Privacy Policy
 
