@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the debbiedoescoupons.com privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602093130id_/http%3A//www.debbiedoescoupons.com/disclosure/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the debbiedoescoupons.com privacy policy that was archived on 2013-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131113210323id_/http%3A//www.debbiedoescoupons.com/disclosure/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
-
-This post may contain affiliate or referral links. Please see the [Disclosure Policy](http://www.debbiedoescoupons.com/disclosure/) for complete details. 
 
 This Privacy Policy governs the manner in which Debbie Does Coupons collects, uses, maintains and discloses information collected from users (each, a “User”) of the <http://www.debbiedoescoupons.com/> website (“Site”). This privacy policy applies to the Site and all products and services offered by Debbie Does Coupons.
 
