@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wowowow.com privacy policy that was archived on 2013-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130513005730id_/http%3A//www.wowowow.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wowowow.com privacy policy that was archived on 2013-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131113190639id_/http%3A//www.wowowow.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | wowOwow
 
 The following Privacy Policy governs the online information collection practices of The Women on The Net Inc.. We have developed this Privacy Policy to demonstrate our commitment to protecting any information we gather about you while you are using wowowow.com. The Policy describes the type of information we collect from you, how that information may be used and shared and what steps are taken to protect it. Please carefully review our information collection practices and privacy protections below.  
 **  
