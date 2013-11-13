@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yottaa.com privacy policy that was archived on 2013-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130516203356id_/http%3A//www.yottaa.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yottaa.com privacy policy that was archived on 2013-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131113154309id_/http%3A//www.yottaa.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
