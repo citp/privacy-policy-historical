@@ -1,20 +1,20 @@
-<!--The following is the downloaded HTML source of the armorama.com privacy policy that was archived on 2013-06-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130601133502id_/http%3A//armorama.com/modules.php%3Fop%3Dmodload%26name%3DFAQ%26file%3Dindex%26myfaq%3Dyes%26id_cat%3D3%26categories%3DWhat%2Bis%2BYour%2BPrivacy%2BStatement%253F%26parent_id%3D0) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the armorama.com privacy policy that was archived on 2013-11-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131113213855id_/http%3A//www.armorama.com/modules.php%3Fop%3Dmodload%26name%3DFAQ%26file%3Dindex%26myfaq%3Dyes%26id_cat%3D3%26categories%3DWhat%2Bis%2BYour%2BPrivacy%2BStatement%253F%26parent_id%3D0) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <title>Armorama :: The #1 military scale modeling site on the net!</title>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-<meta http-equiv="X-UA-Compatible" content="IE=9">
+<meta http-equiv="X-UA-Compatible" content="IE=Edge;chrome=1">
 <meta name="description" content="Armorama.com is the largest online community of Armor/AFV modelers on the Internet.">
 <meta name="keywords" content="scale modeling, military, model, hobby, dioramas, vignettes, figures, historical figures, armor, armour, aircraft, naval, ships, warships, plastic kits, resin, tips, news, community, photos, reviews, scale, 1:35, 1/35, scratchbuild, articles, afv, kit">
 <!-- CSS Styles -->
 <link rel="stylesheet" type="text/css" href="themes/1/new/css/print.css" media="print">
 <link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Source+Sans+Pro:400,600,700|Anton|Oswald:300,400,700" media="screen">
-<link rel="stylesheet" type="text/css" href="style/global_style_12142012.css" media="screen">
+<link rel="stylesheet" type="text/css" href="style/global_style_09272013.css" media="screen">
 <link rel="stylesheet" type="text/css" href="themes/1/new/css/style.css" media="screen">
 <!-- / CSS Styles -->
 <!-- Javascript Includes -->
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" language="javascript" src="javascript/jquery/jquery-1.7.2.min.js"></script>
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" language="javascript" src="javascript/jquery/jquery-1.8.2.min.js"></script>
 <script type="text/javascript" language="javascript" src="javascript/default.js"></script>
 <!-- / Javascript Includes -->
 <!-- Google Analtyics Tracking -->
@@ -55,14 +55,11 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga
 <a href="/user.php?op=loginscreen&amp;module=NS-User">login</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 <a href="/user.php?op=register&amp;module=NS-UserSignup">register</a>
 </div>
+<div class="country"><a title="Your Community" href="/country-us"><img border="0" width="32" height="20" src="images/flags/us.gif"></a></div>
 </div>
 <div id="kmsites">
 <div class="sponsor_bar">
-<div class="sponsor_ad">
-	<!-- KitMaker Network Zone: Site Search Bar -->
-	<script language="Javascript" src="http://adserver.kitseller.net/index.php?section=serve&amp;action=13">
-	</script>
-	</div>
+<div class="sponsor_ad"><script language="Javascript" src="http://adserver.kitseller.net/index.php?section=serve&amp;action=13"></script></div>
 </div>
 <div class="logolinks" style="width:auto">
 <a href="http://aeroscale.kitmaker.net" title="Scale Aircraft Modeling"><img src="images/mini_logos/logo_aeroscale.gif" border="0"></a>
@@ -77,26 +74,29 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga
 <a href="http://bulldogs.kitmaker.net" title="IPMS-UK KitMaker Branch"><img src="images/mini_logos/logo_ipms-uk.gif" border="0"></a>
 <a href="http://benelux.kitmaker.net" title="BENELUX Community"><img src="images/mini_logos/logo_benelux.gif" border="0"></a>
 <a href="http://6thscale.kitmaker.net" title="6th Scale Figures"><img src="images/mini_logos/logo_6thscale.gif" border="0"></a>
-<a href="http://scahms.kitmaker.net" title="Southern California Area Historical Miniature Society"><img src="images/mini_logos/logo_scahms.gif" border="0"></a>
+<a href="http://pcwarmachine.kitmaker.net" title="PC War Machine"><img src="images/mini_logos/logo_pcwm.gif" border="0"></a>
 </div>
 </div>
-<div id="controls"><button class="open" style="display: none;">Browse Sites!</button><button class="close">Close</button></div>	<script>
+<div id="controls"><button class="open">Browse Sites!</button><button class="close">Close</button></div>	<script>
+	$("#kmsites").css("display", "none");
+	
 	$(document).ready( function() {
 		$("button.open").css("display", "none");
-		$('#kmsites').delay(8000).slideUp();
-		$('button.open').delay(8000).slideDown('fast');
+		$('button.open').delay(50).slideDown('fast');
 	});
 	
 	$("button.open").click(function() {
 		$("#kmsites").slideDown(300);
 		$("button.open").css("display", "none");
-		$("button.close").css("display", "inline");  
+		$("button.close").css("display", "inline");
+		$("#controls").css("border", "none");
 	});
 	
 	$("button.close").click(function() {
 		$("#kmsites").slideUp(300);
 		$("button.open").css("display", "inline");
 		$("button.close").css("display", "none");
+		$("#controls").css("border-bottom", "1px solid red");
 	});
 	  
 	</script>
@@ -108,7 +108,7 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga
 <!-- KitSeller Merchant Services Zone: Full Banner (728 x 90) -->
 <script language="Javascript" src="http://adserver.kitseller.net/index.php?section=serve&amp;action=1"></script>
 </div></div>
-<div id="sitehead">
+<div id="timestamp" data-timestamp="1384374344" style="display:none"></div><div id="sitehead">
 <div class="sitehead_spacer">
 <div id="logospace"><a href="/"><img src="themes/1/new/images/logo.png" border="0"></a></div>
 <div id="navbar">
