@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gameborder.com privacy policy that was archived on 2013-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130517123438id_/http%3A//www.gameborder.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gameborder.com privacy policy that was archived on 2013-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131113102638id_/http%3A//www.gameborder.com/privacy.php) for the most accurate reproduction.*
 
 # GameBorder.com - Privacy Policy
 
