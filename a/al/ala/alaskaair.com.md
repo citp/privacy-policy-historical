@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the alaskaair.com privacy policy that was archived on 2013-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130514194422id_/http%3A//www.alaskaair.com/content/legal/privacy-policy.aspx%3Flid%3Dfooter%3AprivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alaskaair.com privacy policy that was archived on 2013-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131114012930id_/http%3A//www.alaskaair.com/content/legal/privacy-policy.aspx%3Flid%3Dfooter%3AprivacyPolicy) for the most accurate reproduction.*
 
 # Online Privacy Notice - Alaska Airlines
 
 Alaska Airlines respects your concerns about privacy. This Privacy Notice applies to personal information we collect on the websites and mobile application (collectively, the "Sites") listed here.
 
   * alaskaair.com 
-  * m.alaskaair.com (mobile site)
-  * facebook.com/alaskaairlines
+  * m.alaskaair.com (mobile site) 
+  * facebook.com/alaskaairlines 
   * apps.facebook.com/flyingsocial
 
 
@@ -28,7 +28,7 @@ When you visit the Sites, you may provide personal information directly to us, i
   * Contact information, such as name, postal address, telephone number, and email address 
   * Travel information, such as flight, hotel and vehicle reservation information 
   * Certain categories of special needs (such as wheelchair use) 
-  * You purchase a ticket or other goods or services through the Sites
+  * You purchase a ticket or other goods or services through the Sites 
   * Birth date and gender 
   * Transportation Security Administration (TSA) Redress Number 
   * Payment information, such as credit card number and expiration date 
@@ -46,15 +46,13 @@ When you visit our Sites, we may collect certain information by automated means,
 
 Cookies are small files that websites send to your computer or other Internet-connected device to uniquely identify your browser or to store information or settings in your browser. Your browser may tell you how to be notified when you receive certain types of cookies and how to restrict or disable certain cookies. Please note, however, that without cookies you may not be able to use all of the features of our Sites.
 
-Our Web servers may log information such as your device and operating system type, browser type,domain, device ID, and other system settings, as well as the language your system uses and the country and time zone where your device is located. The Web server logs also may record information such as the address of the Web page that referred you to our Site and the IP address of the device you use to connect to the Internet.
+Our Web servers may log information such as your device and operating system type, browser type, domain, device ID, and other system settings, as well as the language your system uses and the country and time zone where your device is located. The Web server logs also may record information such as the address of the Web page that referred you to our Site and the IP address of the device you use to connect to the Internet.
 
 To control which Web servers collect information by automated means, we may place tags on our Web pages called "Web beacons", which are small files that allow us to understand the actions of visitors to our Sites, and we use similar technology to analyze users' interactions with our Mobile Apps.
 
-We use third-party Web analytics services on our Sites, such as those of Omniture and Google Analytics. These service providers use cookies and Web beacons or other technology to help us analyze how users use the Sites. The information collected by such technology (including, where applicable, your IP address) will be disclosed to these service providers, who use the information to facilitate the evaluation of your use of the Sites. [Learn more about Omniture's services](http://www.omniture.com/en/privacy/product), including your opt-out options for the Omniture tools on our websites. 
+We use third-party Web analytics services on our Sites, such as those of Omniture and Google Analytics. These service providers use cookies and Web beacons or other technology to help us analyze how users use the Sites. The information collected by such technology (including, where applicable, your IP address) will be disclosed to these service providers, who use the information to facilitate the evaluation of your use of the Sites. [Learn more about Omniture's services](http://www.omniture.com/en/privacy/product), including your opt-out options for the Omniture tools on our websites. [Learn about Google Analytics and how to opt out. ](http://tools.google.com/dlpage/gaoptout)
 
-[Learn about Google Analytics and how to opt out. ](http://tools.google.com/dlpage/gaoptout)
-
-#### Internet Based Advertising
+#### Interest Based Advertising
 
 On our websites, information may be collected about your online activities for use in providing you with advertising about products and services tailored to your individual interests. This section of our Privacy Notice provides details and explains how to exercise your choices.
 
@@ -64,15 +62,16 @@ You may see certain ads on our and other websites because we participate in adve
 
 We may use the information we obtain about you when you visit the Sites for various purposes, including to:
 
-  * Administer contests, sweepstakes, and surveys 
+  * Verify your identity 
   * Process, evaluate, and respond to your requests, inquiries, and applications 
   * Create, administer, and communicate with you about your accounts 
   * Process your purchases and payments 
-  * Verify your identity 
+  * Administer contests, sweepstakes and surveys 
+  * Contact you with marketing communications 
   * Operate, evaluate, and improve our business (including developing new products and services; managing our communications; performing market research and data analytics; determining and managing the effectiveness of our advertising and marketing; analyzing our products, services, and Sites; administering our Sites; and performing accounting, auditing, billing, reconciliation, and collection activities) 
   * Evaluate your interest in employment and contact you regarding possible employment 
   * Protect against and prevent fraud, unauthorized transactions, claims and other liabilities, and manage risk exposure and quality 
-  * Comply with and enforce applicable legal requirements, industry standards and our policies and terms, such as our terms of use
+  * Comply with and enforce applicable legal requirements, industry standards and our policies and terms, such as our terms of use 
   * Alaska Airlines uses the Evidon assurance service to comply with the cross-industry Self-Regulatory Program for Online Behavioral Advertising managed by the [Digital Advertising Alliance (DAA)](http://www.aboutads.info/). As part of this service, online advertisements and websites are sometimes delivered with icons that help consumers understand how their data is being used and provide choice options to consumers that want more control.
 
 
@@ -80,6 +79,8 @@ We may use the information we obtain about you when you visit the Sites for vari
 ### Information We Share
 
 We may share personal information we collect on our Sites with our service providers who perform services on our behalf. These service providers are not authorized by us to use or disclose the information except as necessary to perform services on our behalf or comply with legal requirements. We may also share certain personal information among our affiliates and joint marketing partners for the purposes described in this Privacy Notice, including for their marketing purposes.
+
+We may share personal information with authorized operators of websites and applications that interact with our systems if you choose to use their applications to interact with us or if you otherwise authorize those operators to access our record of your personal information. For example, if you log in through an authorized third-party mobile app that allows you to view your Mileage Plan™ account, we may share personal information with the operator of the mobile app. Such operators' use of the information may be subject to their own privacy policies, which we strongly recommend you review before logging in through their applications. We are not responsible for such operators' privacy practices, which are not covered by this Privacy Notice.
 
 We also may disclose information about you (i) if we are required to do so by law or legal process, (ii) to law enforcement authorities, or (iii) when we believe disclosure is necessary or appropriate to prevent harm or loss or in connection with an investigation of suspected or actual illegal activity.
 
