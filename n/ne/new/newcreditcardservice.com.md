@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newcreditcardservice.com privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530095457id_/http%3A//www.newcreditcardservice.com/%3Fpage_id%3D220) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newcreditcardservice.com privacy policy that was archived on 2013-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131114194925id_/http%3A//www.newcreditcardservice.com/%3Fpage_id%3D220) for the most accurate reproduction.*
 
 # Privacy Policy | NewCreditCardService.com
 
