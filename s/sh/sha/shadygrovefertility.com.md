@@ -1,38 +1,88 @@
-> *The following text is extracted and transformed from the shadygrovefertility.com privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502013953id_/http%3A//www.shadygrovefertility.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shadygrovefertility.com privacy policy that was archived on 2013-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131114030655id_/http%3A//www.shadygrovefertility.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Shady Grove Fertility Center
 
-Your privacy is important to Shady Grove Fertility Reproductive Center. Please read this Privacy Policy carefully. This Privacy Policy is subject to the [**Terms and Conditions**](https://web.archive.org/terms-and-conditions) posted on this Site and may be amended without notice. Any changes to this Privacy Policy will be effective immediately upon the posting of the revised Privacy Policy on this site. Site users are encouraged to periodically check this policy to see if any changes have been made that may affect them. By using the Shady Grove Fertility Center site, you agree to the terms of this Privacy Policy.
+THIS NOTICE DESCRIBES HOW INFORMATION ABOUT YOU MAY BE USED AND DISCLOSED AND HOW YOU CAN GET ACCESS TO THIS INFORMATION. PLEASE REVIEW IT CAREFULLY.
 
-Personal-identifying information is data that can be used to identify or contact you. Shady Grove Fertility Center collects only the personal-identifying information you provide to us through this Site, such as when you register as a member of the site, or when you use certain services provided by the Site, signing up to receive a newsletter, registering for an event, or applying for financing. All personal-identifying information, however collected, is used only by Shady Grove Fertility Center, for the sole purpose of supplying the services requested by the user, and is never disclosed to any third parties.
+### **Introduction**
 
-Shady Grove Fertility Center reserves the right to disclose any personally identifying or non-personal identifying information if we are required to do so by law or if we reasonably believe that such action is necessary in order to: fulfill a government request, conform with the requirements of the law or to comply with legal process served on us; protect against misuse or unauthorized use of the Site; transfer to a successor entity in connection with a corporate merger, consolidation, sale of assets or other corporate change respecting Shady Grove Fertility Center or this Site; protect or defend the legal rights or property of Shady Grove Fertility Center, this Site or its users; or, in an emergency, to protect the health and safety of this Site’s users or the general public.
+This Notice of Privacy Practices is being provided to you on behalf of Shady Grove Fertility with respect to the reproductive medical services provided at Shady Grove Fertility’s centers (collectively referred to herein as “We” or “Our). We understand that your medical information is private and confidential. Further, we are required by law to maintain the privacy of “protected health information.” Protected health information includes any individually identifiable information that we obtain from you or others that relates to your past, present or future physical or mental health, the health care you have received, or payment for your health care.
 
-We may also collect non-personal-identifying information through the use of "cookies", which are small text files stored on your computer’s hard drive or web server and are used to aid in web page navigation. Shady Grove Fertility Center does not store any personal identifying information in any cookies on your computer. Site users have the option whether or not to accept cookies by resetting their web browsers to give notice when a cookie is being sent to their hard drive. Cookies may also be deleted from a hard drive, however, some parts of this Site may not function properly or may be slowed considerably if cookies are not accepted or disabled.
+### **Your Rights**
 
-This Site is not intended for use by minors. Shady Grove Fertility Center does not knowingly allow anyone under the age of 14 to participate in any activity on the Site.
+Although your health record is the physical property of Shady Grove Fertility, you have the right to:
 
-Shady Grove Fertility Center does not provide services outside of the United States. If you are located outside of the United States, by submitting information to Shady Grove Fertility Center you are consenting to our processing of your data in the United States in accordance with this Privacy Policy.
+  * request a restriction on certain uses and disclosures of your information as provided by applicable law
+  * obtain a paper copy of this Notice of Privacy Practices upon request
+  * inspect and copy your health record as provided for by applicable law
+  * request an electronic copy of your electronic health record
+  * request to amend your health record as provided by applicable law
+  * obtain an accounting of disclosures of your health information as provided by applicable law.
+  * request communications of your health information by alternative means or at alternative locations
+  * revoke your authorization to use or disclose health information except to the extent that action has already been taken
+  * request a restriction of disclosure of your healthy information to your health insurer for services for which you pay “out of pocket” in full
+  * transmit copies of your health information to third parties when requested by you, in writing
 
-Shady Grove Fertility Center does not partner or have special relationships with any ad server companies.
 
-Certain features on this Site request information about you which will be forwarded to a member of the Shady Grove Fertility Center community to respond to your question or inquiry. If you fill out a contact form on-line you will be contacted by a representative of the Shady Grove Fertility Center community. If you provided your telephone number on-line you may be contacted by a representative of the Shady Grove Fertility Center community in order to provide you with the information you requested. A privacy notice pursuant to the Health Insurance Portability and Accountability Act of 1996 (“HIPAA”) is made available at the time any prospective or actual patient first receives services from a member of the Shady Grove Fertility Center community.
 
-Shady Grove Fertility Center takes reasonable steps to ensure the security of its website infrastructure and data, including hosting the site in its own secure data facility and encrypting network and data transmissions, we make no guarantees or warranties concerning the security of any information you disclose or transmit to us online and cannot be responsible for the theft, destruction or inadvertent disclosure of personally identifiable information.
+### **Our Responsibilities**
 
-The Shady Grove Fertility Center Site may contain links to other web sites that Shady Grove Fertility Center does not own or control. Shady Grove Fertility Center does not endorse the content on any third-party websites and is not responsible for the content of linked third-party sites, sites framed within the Shady Grove Fertility Center Site, the privacy practices employed by third-party sites, or third-party advertisements, and does not make any representations regarding their content or accuracy. Your use of third-party websites is at your own risk and subject to the terms and conditions of use for such sites. Shady Grove Fertility Center does not endorse any product advertised on the Shady Grove Fertility Center Site.
+We are required to:
 
-In the course of developing Shady Grove Fertility Center’s business, Shady Grove Fertility Center may buy or sell assets. If another entity acquires Shady Grove Fertility Center or all or substantially all of its assets, personally identifiable information and other information collected from users of the Site may be transferred to the entity as one of the transferred assets. If any bankruptcy or reorganization proceeding is brought by or against Shady Grove Fertility Center, all such information may be considered an asset of Shady Grove Fertility Center and as such may be sold or transferred to third parties.
+  * maintain the privacy of your health information
+  * provide you with a notice as to our legal duties and privacy practices with respect to information we collect and maintain about you
+  * abide by the terms of this notice
+  * notify you if we are unable to agree to a requested restriction
+  * accommodate reasonable requests you may have to communicate health information by alternative means or at alternative locations
+  *  where required by law, notify you in the event that there has been a breach of your unsecured health information
 
-Upon request we provide site visitors with access to a description of information that we maintain about them and offer visitors the ability to have inaccuracies corrected in contact information. Consumers can have this information corrected by writing to us at the below address.
 
-If you have any questions about this Privacy Policy please contact the Webmaster at:   
-Shady Grove Fertility Center America, Inc. ATTN: Webmaster   
-Shady Grove Fertility Reproductive Science Center  
-15001 Shady Grove Road, Suite 340  
-Rockville, MD 20850  
-888-761-1967
 
-Read our [Joint Notices of Privacy Practices](http://www.shadygrovefertility.com/sites/default/files/JointNoticeofPrivacyPractices_6_2011.pdf)
+We reserve the right to change our practices and to make the new provisions effective for all protected health information we maintain. Should our information practices change, we will post the revised Notice of Privacy Practices on our website at [http://www.shadygrovefertility.com](http://www.shadygrovefertility.com/) as well as at our offices and provide you with a hard copy upon request.
 
-_updated 9.7.11_
+We will not use or disclose your health information without your authorization, except as described in this notice. We will not sell your health information (unless permitted by law) or use or disclose such information for paid marketing (for which re receive payment from a third party) without your authorization. If we obtain your authorization, you may revoke it at any time, and this revocation will take effect except where we have already relied upon your authorization.
+
+### **Permitted Uses and Disclosures**
+
+We will and disclose use your health information for treatment. For example: information obtained by a nurse, physician or other member of your healthcare team will be recorded in your record and used to determine the course of treatment that should work best for you. Your physician will document in your record his expectations of the members of your healthcare team. Members of your healthcare team will then record the actions they took and their observations. In that way the physician will know how you are responding to treatment.
+
+We will also provide your physician or a subsequent healthcare provider with copies of various reports that should assist him/her in treating you once you're discharged from this practice.
+
+We will use your health information for payment. For example: A bill may be sent to you or a third party payer, such as an insurance company or health plan, for the purposes of receiving payment for treatment and services that you receive. The information on the bill may contain information that identifies you, your diagnosis, and treatment or supplies used in the course of treatment. If you indicate your interest in participating in the Shared Risk Refund Program, we will provide relevant information concerning your medical condition to IntegraMed America, Inc. for determination of your qualifications for this payment assistance program.
+
+We will use and disclose your health information for our health care operations. For example: Members of the clinical staff, the risk or quality improvement manager, or members of the quality improvement team may use information in your health record to assess the care and outcomes in your case and others like it. This information will then be used in an effort to continually improve the quality and effectiveness of the healthcare and the reproductive medicine service we provide. 
+
+We will collect health information on you and your spouse/significant other. For example: Although health information in your medical record belongs to you, it will contain some information pertaining to your spouse/significant other. This is because the treatment of infertility may focus on the couple, rather than the individual. We will share information with either partner, unless you indicate otherwise.
+
+### **Other Uses or Disclosures of Protected Health Information**
+
+**Business Associates:** There are some services provided at Shady Grove Fertility through contacts with business associates. For example: the management services of IntegraMed America, Inc., certain laboratory tests, and the services of transcription companies or billing companies. When these services are contracted, we may disclose your health information to our business associate so that they can perform the job we have asked them to do, and bill you or your third party payer for services rendered. So that your health information is protected, however, we require the business associate to appropriately safeguard your information.
+
+**Notification:** We may use or disclose information to notify or assist in notifying a family member, personal representative, or another person responsible for your care, your location, and general condition.
+
+**Communication with Spouse/Family:** Health professionals, using their best judgment, may disclose to your spouse, family member, or any other person you identify, health information relevant to that person's involvement in your care or payment related to your care. We will give you an opportunity to object to these disclosures, and we will not make these disclosures if you object.
+
+**Research:** We may disclose information to researchers when their research has been approved by an Institutional Review Board that has reviewed the research proposal and established protocols to ensure the privacy of your health information.
+
+**Marketing:** Where permitted by law, we may contact you to tell you about or recommend possible treatment alternatives or other medical technology and services that may be of interest to you. We may also seek your authorization to contact you with other marketing communications.
+
+**Food and Drug Administration (FDA):** We may disclose to the FDA health information relative to adverse events with respect to food, supplements, product and product defects or post marketing surveillance information to enable product recalls, repairs or replacement.
+
+**Public Health:** As required by law, your health information may be used or disclosed for public health activities such as assisting public health authorities or other legal authorities to prevent or control disease, injury, disability or for other health oversight activities. 
+
+**Law Enforcement:** We may disclose health information for law enforcement purposes as required by law, or in response to a valid subpoena. Federal law makes provision for your health information to be released to an appropriate health oversight agency, public health authority or attorney, provided that a workforce member or business associate believes in good faith that we have engaged in unlawful conduct or have otherwise violated professional or clinical standards and are potentially endangering one or more patients, workers or the public.
+
+**Note:** HIV-related information, genetic information, mental health records and other specially protected health information may be subject to certain special confidentiality protections under applicable State and Federal law. Any disclosures of these types of records will be subject to these special protections.
+
+**For More Information or to Report a Problem/Complaint**  
+If you believe your privacy rights have been violated, you should immediately contact:   
+Michele Abbott  
+Regional Executive Director  
+Shady Grove Fertility Privacy Officer  
+901 Dulaney Valley Road, Suite 616  
+(410) 512-8371  
+[michele.abbott@integramed.com](mailto:michele.abbott@integramed.com?subject=Privacy%20Policy)  
+We will not take action against you for filing a complaint. You may also file a complaint with the Secretary of Health and Human Services.   
+If you have any questions or would like further information about this notice, please contact Michele Abbott at the above number. This notice is also available on our website at [http://www.shadygrovefertility.com](http://www.shadygrovefertility.com/).
+
+This notice is effective as of 6/1/2013
