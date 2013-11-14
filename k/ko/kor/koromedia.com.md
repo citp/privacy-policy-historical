@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the koromedia.com privacy policy that was archived on 2013-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130424114629id_/http%3A//koromedia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the koromedia.com privacy policy that was archived on 2013-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131114231333id_/http%3A//koromedia.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy.
 
@@ -42,4 +42,4 @@ If you'd like us to delete any PII that you have provided to us on our Website, 
 
 ## Contacting the Website
 
-If you have any questions about this Privacy Policy or the practices of Koromedia, please feel free to [contact us](http://www.koromedia.com/contacts).
+If you have any questions about this Privacy Policy or the practices of Koromedia, please feel free to [contact us](http://koromedia.com/contacts).
