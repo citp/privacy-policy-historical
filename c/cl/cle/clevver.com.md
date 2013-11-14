@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clevver.com privacy policy that was archived on 2013-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130627022318id_/http%3A//www.clevver.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clevver.com privacy policy that was archived on 2013-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131114012204id_/http%3A//www.clevver.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Clevver
 
@@ -120,9 +120,9 @@ Because our business needs may change over time, we reserve the right, at our di
 
 If you have any questions or concerns about this privacy policy you may [contact us](https://web.archive.org/contact-us/) or write to the following address:
 
-Clevver Media, LLC  
-151 W. 26th Street, 11th Floor  
-New York, NY 10001  
+Alloy Digital, LLC  
+498 7th Avenue, 19th Floor  
+New York, NY 10018  
 Attn: Privacy
 
 Telephone: (212)244-4307  
