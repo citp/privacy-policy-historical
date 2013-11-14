@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thewpbfchannel.com privacy policy that was archived on 2013-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130515164835id_/http%3A//www.wpbf.com/connect/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thewpbfchannel.com privacy policy that was archived on 2013-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131114221947id_/http%3A//www.wpbf.com/connect/privacy) for the most accurate reproduction.*
 
 # 
 
