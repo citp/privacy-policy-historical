@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hideout-leather.co.uk privacy policy that was archived on 2013-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130630225312id_/http%3A//www.hideout-leather.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hideout-leather.co.uk privacy policy that was archived on 2013-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131114062849id_/http%3A//www.hideout-leather.co.uk/privacy) for the most accurate reproduction.*
 
 # Hideout Leather - Privacy
 
