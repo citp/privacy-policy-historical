@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the ibpsexam2012.in privacy policy that was archived on 2012-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120504131027id_/http%3A//www.ibpsexam2012.in/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ibpsexam2012.in privacy policy that was archived on 2013-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131114071035id_/http%3A//www.ibpsexam2012.in/p/privacy-policy.html) for the most accurate reproduction.*
 
 # IBPS Exam 2012|IBPS PO|IBPS Clerk|IBPS CWE 2012: Privacy Policy
 
-### Get ALL the IBPS Exam 2012 Updates in your In Box 
+[](http://affiliates.tyroodr.com/ez/bvdvnlfvlqvy/)
 
 **Privacy Policy for http://www.ibpsexam2012.in/**
 
@@ -41,5 +41,13 @@ You should consult the respective privacy policies of these third-party ad serve
 If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites.
 
 If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at **[ibpsportal@gmail.com. ](mailto:ibpsportal@gmail.com)**
+
+[](http://affiliates.tyroodr.com/ez/bvdvnlfvlqvy/)
+
+[
+
+Read More ->>
+
+](http://www.ibpsexam2012.in/p/privacy-policy.html)
 
 ### Get ALL the IBPS Exam 2012 Updates in your In Box 
