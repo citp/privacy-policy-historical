@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the logicmonitor.com privacy policy that was archived on 2013-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130506033653id_/http%3A//www.logicmonitor.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the logicmonitor.com privacy policy that was archived on 2013-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131114134337id_/http%3A//www.logicmonitor.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy » LogicMonitor
+# Privacy Policy LogicMonitor
 
 (Updated: June 25, 2012)
 
