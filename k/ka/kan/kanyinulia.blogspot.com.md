@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the kanyinulia.blogspot.com privacy policy that was archived on 2013-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130527015623id_/http%3A//goo.gl/uZ9G7) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kanyinulia.blogspot.com privacy policy that was archived on 2013-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131114043246id_/http%3A//www.kanyiokeke.com/2012/03/privacy-policy.html) for the most accurate reproduction.*
 
-# Kanyinulia: PRIVACY POLICY!!!
+# PRIVACY POLICY!!! - Kanyi Okeke
 
 **Privacy Policy for www.kanyinulia.blogspot.com**
 
@@ -30,4 +30,4 @@ You should consult the respective privacy policies of these third-party ad serve
 
 If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites. 
 
-[](http://www.ogbongeblog.com/)
+[]()
