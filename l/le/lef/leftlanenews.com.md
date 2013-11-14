@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the leftlanenews.com privacy policy that was archived on 2013-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130517125902id_/http%3A//www.leftlanenews.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leftlanenews.com privacy policy that was archived on 2013-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131115000847id_/http%3A//www.leftlanenews.com/privacy-policy) for the most accurate reproduction.*
 
 # Leftlane - Privacy Policy
 
@@ -26,9 +26,7 @@ Cookie data is not stored on the server, and therefore, not available for viewin
 
 A portion of the advertisements displayed on the LeftLane Network are served by third-party advertisement networks. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you.
 
-You can choose to opt-out of behavioral advertising from many providers by visiting the Nation Advertising Initiative's opt-out management page 
-
-.
+If you would like to opt-out of Non Personally Identifiable Information (PII) cookie tracking, please visit the NAI opt-out page here: <http://www.networkadvertising.org/choices/>.
 
 We are committed to continuing to protect the privacy of our readers. If you have any additional questions, please contact us at Privacy@LeftLane.com.
 
