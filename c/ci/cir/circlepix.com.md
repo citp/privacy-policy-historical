@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the circlepix.com privacy policy that was archived on 2013-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130515031256id_/http%3A//circlepix.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the circlepix.com privacy policy that was archived on 2013-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131114171617id_/http%3A//www.circlepix.com/privacy.htm) for the most accurate reproduction.*
 
 # The Ultimate Home Listing Marketer | CirclePix
 
