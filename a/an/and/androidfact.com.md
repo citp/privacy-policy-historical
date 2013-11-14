@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the androidfact.com privacy policy that was archived on 2013-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130516005738id_/http%3A//androidfact.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the androidfact.com privacy policy that was archived on 2013-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131114142758id_/http%3A//androidfact.com/privacy-policy) for the most accurate reproduction.*
 
 # privacy policy
 
