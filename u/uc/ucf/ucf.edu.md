@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ucf.edu privacy policy that was archived on 2013-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130510015915id_/http%3A//www.ucf.edu/internet-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ucf.edu privacy policy that was archived on 2013-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131114224506id_/http%3A//www.ucf.edu/internet-privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
