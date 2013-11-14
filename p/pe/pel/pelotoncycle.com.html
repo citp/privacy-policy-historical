@@ -1,0 +1,411 @@
+<!--The following is the downloaded HTML source of the pelotoncycle.com privacy policy that was archived on 2013-11-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131114155609id_/http%3A//pelotoncycle.com/privacy-policy) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html ng-app="pelo" lang="en"><head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Peloton is changing the way people get fit by delivering live-streaming instructional exercise content to the most technologically advanced indoor cycle.">
+    <meta name="keywords" content="indoor cycling,technology,large screen,peloton, Peloton, ride peloton, john foley, indoor cycle, virtual fitness, virtual bike">
+    <meta name="author" content="Peloton Interactive LLC.">
+    <link rel="shortcut icon" href="https://d13mqpf5czzhx8.cloudfront.net/static/img/favicon.ico" type="image/x-icon">
+    <link rel="icon" href="https://d13mqpf5czzhx8.cloudfront.net/static/img/favicon.ico" type="image/x-icon">
+    <title>Peloton ® | Only Indoor Exercise Bike with Live Streaming Classes</title><!-- JavaScript -->
+    <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="https://d13mqpf5czzhx8.cloudfront.net/static/vendor/js/showdown.js"></script>
+    <script src="https://d13mqpf5czzhx8.cloudfront.net/static/vendor/js/jquery.js"></script>
+    <script src="//d3nslu0hdya83q.cloudfront.net/dist/1.0/raven.min.js"></script>
+    <script src="https://js.stripe.com/v2/"></script>
+    <script src="https://d13mqpf5czzhx8.cloudfront.net/static/vendor/js/bootstrap.min.js"></script>
+    <script src="https://d13mqpf5czzhx8.cloudfront.net/static/vendor/js/angular/angular.min.js"></script>
+    <script src="https://d13mqpf5czzhx8.cloudfront.net/static/vendor/js/angular/resource.min.js"></script>
+    <script src="https://d13mqpf5czzhx8.cloudfront.net/static/vendor/js/underscore-min.js"></script>
+    <script src="https://d13mqpf5czzhx8.cloudfront.net/static/vendor/js/angular/restangular.js"></script>
+    <script src="https://d13mqpf5czzhx8.cloudfront.net/static/vendor/js/angular/ui-bootstrap-tpls-0.5.0.min.js"></script>
+    <script src="https://d13mqpf5czzhx8.cloudfront.net/static/vendor/js/angular/ui-utils.min.js"></script>
+    <script src="https://d13mqpf5czzhx8.cloudfront.net/static/vendor/js/angular/angular-strap.min.js"></script>
+    <script src="https://d13mqpf5czzhx8.cloudfront.net/static/vendor/js/toastr.min.js"></script>
+    <script src="https://d13mqpf5czzhx8.cloudfront.net/static/vendor/js/jquery.colorbox.js"></script>
+    <script src="https://d13mqpf5czzhx8.cloudfront.net/static/pelo_app.js"></script>
+    <script src="https://d13mqpf5czzhx8.cloudfront.net/static/directives.js"></script>
+    <script src="https://d13mqpf5czzhx8.cloudfront.net/static/services.js"></script>
+    <script src="https://d13mqpf5czzhx8.cloudfront.net/static/factories.js"></script>
+    <script src="https://d13mqpf5czzhx8.cloudfront.net/static/controllers.js"></script>
+    <script src="https://d13mqpf5czzhx8.cloudfront.net/static/filters.js"></script>
+    <!--Moment - Timeago-->
+    <script src="https://d13mqpf5czzhx8.cloudfront.net/static/vendor/js/angular/moment.min.js"></script>
+    <script src="https://d13mqpf5czzhx8.cloudfront.net/static/vendor/js/angular/angular-moment.min.js"></script>
+    <script src="https://www.google.com/jsapi?autoload={&quot;modules&quot;:[{&quot;name&quot;:&quot;visualization&quot;,&quot;version&quot;:&quot;1&quot;,&quot;packages&quot;:[&quot;corechart&quot;]}]}"></script>
+    <script src="https://d13mqpf5czzhx8.cloudfront.net/static/vendor/js/angular/ng-google-chart.js"></script><!-- CSS -->
+    <!--Bootstrap-->
+    <!--link(href="#{cdnRoot}/static-#{staticVersion}/vendor/css/bootstrap.css", rel="stylesheet")-->
+    <!--link(href="#{cdnRoot}/static-#{staticVersion}/vendor/css/bootstrap-theme.min.css", rel="stylesheet")-->
+    <!--link(href="#{cdnRoot}/#{staticFolder}/vendor/css/bootstrap.peloton.css", rel="stylesheet")-->
+    <link href="https://fonts.googleapis.com/css?family=Roboto:400,100,200,300,700,500" rel="stylesheet">
+    <link href="https://d13mqpf5czzhx8.cloudfront.net/static/less-css/bootstrap.css" rel="stylesheet">
+    <!--Lightbox-->
+    <link href="https://d13mqpf5czzhx8.cloudfront.net/static/vendor/css/jquery.colorbox.css" rel="stylesheet">
+    <!--CSS3 Animation/Transitions-->
+    <link href="https://d13mqpf5czzhx8.cloudfront.net/static/vendor/css/animate.css" rel="stylesheet">
+    <!--FontAwesome-->
+    <!--link(href="#{cdnRoot}/#{staticFolder}/vendor/css/font-awesome.min.css", rel="stylesheet")-->
+    <link href="https://netdna.bootstrapcdn.com/font-awesome/4.0.1/css/font-awesome.css" rel="stylesheet">
+    <!--Toastr-->
+    <link href="https://d13mqpf5czzhx8.cloudfront.net/static/vendor/css/toastr.min.css" rel="stylesheet">
+    <script>
+      $(document).ready(function(){
+          //$(".colorbox-bike").colorbox({rel:'colorbox-bike',  transition:"fade",  width:"75%", height:"75%"});
+          $('.popover-trigger').popover();
+          
+          $(window).bind('resize', function(){
+              var w = $(this).width(),
+                  threshold = 768;
+                  
+              if(w <= threshold){
+                  $('.nav-justified').hide().fadeIn();
+              }
+              
+              
+          });
+      });
+      
+      
+    </script>
+    <style>
+      [ng\:cloak], [ng-cloak], .ng-cloak {
+          display: none !important;
+      }
+       body {
+          padding: 70px 0;
+          
+      }
+      
+      html,
+      body {
+        height: 100%;
+        /* The html and body elements cannot have any padding or margin. */
+      }
+      
+      #footer .navbar-inverse { background:#333; border: none; }
+      #footer .navbar {
+          padding: 10px 0;
+          
+          
+      }
+      #footer .navbar-header {
+          padding-bottom: 5px;
+      }
+      
+      #footer a,
+      #footer p {
+          color: #fff;
+          font-size: 11px;
+          margin:0;
+      }
+      
+      #footer p.copyright{
+           color: #999;
+      }
+      
+      #footer .navbar-collapse.in {
+          padding: 0 30px;
+      }
+      #footer .navbar-collapse.in  * {
+          text-align: center;
+      }
+      
+      #footer .navbar-nav>li>a{
+      
+          padding: 0 10px 0 0;
+      }
+      
+      @media (max-width: 767px) {
+      
+          #footer a,
+          #footer p {
+          
+              font-size: 12px;
+              
+          }
+          
+          
+      }
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      *,*:hover {
+      text-decoration:none !important;
+      }
+      
+      
+      /* Util */
+      
+      input.ng-dirty.ng-invalid,
+      select.ng-dirty.ng-invalid { border:1px solid red; }
+      
+      .display-block { display:block; }
+      .uppercase {
+          text-transform: uppercase;
+      }
+      
+      ul.fa-ul {
+          margin-left: 0;
+          padding: 0 25px;
+      }
+      
+      span.bull {
+          display: inline-block;
+          padding: 0 5px;
+      }
+      
+      .tango-tang {
+          color: #ea4e3c;
+      }
+      .weight-100 { font-weight: 100;}
+      .weight-200 { font-weight: 200;}
+      .weight-300 { font-weight: 300;}
+      .weight-400 { font-weight: 400;}
+      .weight-500 { font-weight: 500;}
+      .weight-700 { font-weight: 700;}
+      
+      
+      a.navbar-brand img {
+          height: 30px;
+          margin: -13px 0
+      }
+      
+      .number-stack-wrapper {
+      margin: 0
+      }
+      .number-stack {
+          margin: 10px;
+          width: 65px;
+          margin: auto;
+          border: solid 1px #ccc;
+          background:#fff;
+          border-radius: 5px;
+      }
+      .number-stack p {
+          text-align:center;
+          margin:0;
+          padding:0;
+      }
+      .number-stack .panel-heading{
+          padding: 0;
+      }
+      .number-stack .panel-title p {
+         text-transform: uppercase;
+         color: #fff;
+         font-size: 14px;
+         line-height: 16px;
+         padding: 2px 0 0;
+         
+         
+      }
+      .number-stack .panel-body { padding: 0;}
+      .number-stack .panel-body p {
+        font-size:20px;
+        line-height:40px;
+        font-weight: bold;
+        
+      }
+      
+      .number-stack .panel-footer {
+          padding: 0;
+          text-align: center;
+          font-size: 13px;
+          background-color: #eee;
+      }
+      
+      .pp-instructor-name{
+          border-bottom: solid 1px #eee;
+          margin:15px 75px 5px 65px;
+          padding: 0 0 5px 0;
+      }
+      .pp-instructor,
+      .nf-user{
+      margin: 20px 15px 10px 0;}
+      
+    </style>
+  </head>
+  <body ng-controller="GlobalController" ng-cloak="">
+    <div class="navbar navbar-default navbar-fixed-top">
+      <div ng-controller="AuthController" ng-init="init({&quot;is_authed&quot;:false});" class="container">
+        <div class="navbar-header">
+          <button type="button" data-toggle="collapse" data-target="#header-toggle" class="navbar-toggle"><span class="fa fa-reorder fa-lg fa-fw text-muted"></span></button><a href="/" class="navbar-brand"><img src="https://d13mqpf5czzhx8.cloudfront.net/static/img/misc/peloton_logo.png"></a>
+        </div>
+        <div id="header-toggle" class="navbar-collapse collapse">
+          <ul class="nav navbar-nav">
+            <li><a href="/experience" title="The Experience">The Experience</a></li>
+            <li><a href="/bike" title="The Bike">The Bike</a></li>
+            <li><a href="/store" title="Store">Store</a></li>
+            <li><a href="/login">Sign In</a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+    <div style="padding-bottom: 150px;" class="container">
+      <div class="row">
+        <div class="col-md-12">
+          <p></p><h4>PELOTON PRIVACY POLICY</h4>
+<p>Last Updated: August 06 2013</p>
+<p>Welcome to our updated Privacy Policy!</p>
+<p>Peloton Interactive, LLC ("Peloton") has adopted this privacy policy to let you know how we treat the information that we collect from you, how that information is used, with whom we share it, 
+and your choices about such uses and disclosures.</p>
+<p>If you have any questions about our privacy practices, please refer to the end of this Privacy Policy for information on how to contact us.</p>
+<h4>Information we collect about you</h4>
+<p><em>In General.</em> We collect your email address if you supply us with one. If you have provided us with your email address that means that you want us to contact you with updates and information about 
+our products and services.  Your information may be sent to servers located in the United States and other countries around the world.</p>
+<p><em>Pre-Orders/Purchases.</em> If you choose to pre-order a Peloton Bike from us and/or purchase other goods and services from us, we will collect the following information:</p>
+<ul>
+<li>Full name;</li>
+<li>Email address;</li>
+<li>Mailing address; and</li>
+<li>Phone number</li>
+</ul>
+<p>In addition, when you pre-order a Peloton Bike or purchase other goods or services from us, you may be given the opportunity to create an account with a username and password.<br>Your username and password are personal to you and you should keep them safe and secure and not share them with anyone.</p>
+<p><em>Financial Information.</em> If you pre-order or purchase a Peloton Bike and/or purchase any other goods or services from Peloton, you will be asked to provide your payment information, such as a credit card number, 
+Paypal account and/or other related information that may be required from you to complete your purchase (“<strong>Financial Information</strong>”).  We do not collect, store or maintain your Financial 
+Information, but merely provide a gateway to our third party payment processor, who will collect that information and process your payment.</p>
+<p><em>Information you provided through Kickstarter.</em> We have completed our campaign through the Kickstarter web service.  When you provided information through Kickstarter, 
+that information was and is subject to their collection practices and we ask that you refer to their service for information. The information you provided to them, which they 
+provided to us, is subject to the terms of this Privacy Policy.</p>
+<ul>
+<li><p>Use of cookies and other technologies to collect information.* We use various technologies to collect information from your computer and about your activities on our site.</p>
+</li>
+<li><p>Information collected automatically.* We automatically collect information from your browser when you visit our website. This information may include your IP address, 
+your browser type and language, access times, the content of any undeleted cookies that your browser previously accepted from us (see "Cookies" below), and the referring website address.</p>
+</li>
+</ul>
+<p><em>Cookies.</em> When you visit our website, we may assign your computer one or more cookies to facilitate access to our site and to personalize your online experience. 
+Through the use of a cookie, we also may automatically collect information about your online activity on our site, such as the web pages you visit, the links you click, and the 
+searches you conduct on our site. Most browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies. If you choose to decline cookies, 
+please note that you may not be able to sign in or use some of the interactive features offered on our website. We may also use standard Internet technology, such as web beacons and 
+other similar technologies, to track your use of our site.</p>
+<h4>How we use the information we collect</h4>
+<p><em>In general.</em> </p>
+<p>We may use information that we collect about you to:</p>
+<ul>
+<li>to deliver email notifications to you about our products and services;</li>
+<li>to provide you with the products and services that you purchase from us;</li>
+<li>to communicate with your regarding the status of your products and services and to allow you to communicate with us;</li>
+<li>perform research and analysis about your use of, or interest in, our products, services, or content, or products, services or content offered by others; and</li>
+<li>perform functions as otherwise described to you at the time of collection.</li>
+</ul>
+<h4>With whom we share your information.</h4>
+<p><em>Personal information.</em> We do not share your personal information with any third parties, except as may be necessary to deliver email messages to you, process your payment information 
+and/or provide other products and services that you have requested from us. </p>
+<p><em>Financial Information.</em>  As described above, we do not store, process or maintain any of your Financial Information.  When you provide your Financial Information on the payment page 
+of our web service, we pass that information directly to our third party payment processor who confirms your payment information, which then allows us to complete the transaction. </p>
+<p><em>Other Situations.</em> We also may disclose your information:</p>
+<ul>
+<li>In response to a subpoena or similar investigative demand, a court order, or a request for cooperation from a law enforcement or other government agency; to establish or exercise our legal rights; 
+to defend against legal claims; or as otherwise required by law. In such cases, we may raise or waive any legal objection or right available to us.</li>
+<li>In connection with a substantial corporate transaction, such as the sale of our business, a divestiture, merger, consolidation, or asset sale, or in the unlikely event of bankruptcy.</li>
+</ul>
+<h4>How you can access your information</h4>
+<p><em>Unsubscribe.</em>  If you have provided us with your email address and you would like to unsubscribe from our service, then please click on the unsubscribe link at the bottom of any of our email communications.
+  It may take up to 72 hours to process your unsubscribe request.</p>
+<p><em>Subscription.</em>  If you have purchased a subscription for the Peloton service, then you may access your Peloton account at any time through the log in on your Peloton Bike and you may modify, 
+update and change your account settings through your account.</p>
+<h4>How we protect your personal information</h4>
+<p>We take appropriate security measures (including physical, electronic and procedural measures) to help safeguard your personal information from unauthorized access and disclosure. 
+For example, only authorized employees are permitted to access personal information, and they may do so only for permitted business functions. In addition, we use encryption in the 
+transmission of your sensitive personal information between your system and ours, and we use firewalls to help prevent unauthorized persons from gaining access to your personal information.</p>
+<h4>Children's privacy</h4>
+<p>Our website is a general audience site, and we do not knowingly collect personal information from children under the age of 13.</p>
+<h4>Visiting our websites from outside the United States</h4>
+<p>This Privacy Policy is intended to cover collection of information on our website from residents of the United States. If you are visiting our website from outside the United States, 
+please be aware that your information may be transferred to, stored, and processed in the United States where our servers are located and our central database is operated. 
+The data protection and other laws of the United States and other countries might not be as comprehensive as those in your country. Please be assured that we seek to take reasonable 
+steps to ensure that your privacy is protected. By using our services, you understand that your information may be transferred to our facilities and those third parties with whom we 
+share it as described in this privacy policy.</p>
+<h4>Changes to this Privacy Policy</h4>
+<p>We will occasionally update this Privacy Policy to reflect changes in our practices and services. When we post changes to this Privacy Policy, we will revise the "last updated" date at 
+the top of this Privacy Policy. </p>
+<h4>How to contact us</h4>
+<p>If you have any questions about this Privacy Policy or our information-handling practices, or if you would like to request information about our disclosure of personal information to 
+third parties for their direct marketing purposes, please contact us by email or postal mail as follows:</p>
+<p>Peloton Interactive, LLC<br>227 West 29th Street<br>Suite 9F<br>New York NY 10001<br><a href="mailto:support@pelotoncycle.com?subject=Attn:Privacy%20Officer">support@pelotoncycle.com</a><br>Attn: Privacy Officer</p>
+
+            <p>© Peloton 2012 - 2013,&nbsp; Peloton Interactive LLC. All rights reserved
+            </p>
+          <p></p>
+        </div>
+      </div>
+    </div>
+    <div id="footer">
+      <div class="navbar navbar-inverse navbar-fixed-bottom">
+        <div class="navbar-header">
+          <button type="button" data-toggle="collapse" data-target="#footer-toggle" class="navbar-toggle"><span class="fa fa-reorder fa-lg fa-fw text-muted"></span></button><a href="/" class="navbar-brand text-center"><img src="https://d13mqpf5czzhx8.cloudfront.net/static/img/misc/made_in_ny_white.png" style="height:60px" class="hidden-xs"></a>
+        </div>
+        <div id="footer-toggle" class="navbar-collapse collapse">
+          <div class="row">
+            <div class="col-md-10 col-sm-12 col-xs-3">
+              <ul class="nav navbar-nav">
+                <li> <a href="/teach"><strong>Teach@</strong>Peloton</a></li>
+                <li class="bull hidden-xs text-muted">• &nbsp;</li>
+                <li> <a href="/jobs"><strong>Jobs@</strong>Peloton</a></li>
+                <li class="bull hidden-xs text-muted">• &nbsp;</li>
+                <li><a href="/press">Press</a></li>
+                <li class="bull hidden-xs text-muted">• &nbsp;</li>
+                <li><a href="/team">The Team</a></li>
+                <li class="bull hidden-xs text-muted">• &nbsp;</li>
+                <li> <a href="/privacy-policy">Privacy Policy</a></li>
+                <li class="bull hidden-xs text-muted">• &nbsp;</li>
+                <li><a href="/preorder-faq">Preorder FAQ</a></li>
+              </ul>
+            </div>
+            <div class="col-md-10 col-sm-12 col-xs-1">
+              <ul style="position:relative; z-index:1;" class="nav navbar-nav">
+                <li><a href="http://www.facebook.com/PelotonCycle"><i class="fa fa-facebook fa-lg"></i></a></li>
+                <li><a href="http://twitter.com/ridepeloton"><i class="fa fa-twitter fa-lg"></i></a></li>
+                <li><a href="https://plus.google.com/105945396654490013514"><i class="fa fa-google-plus fa-lg"></i></a></li>
+                <li><a href="http://www.linkedin.com/company/2658876"><i class="fa fa-linkedin fa-lg"></i></a></li>
+                <li><a href="http://careers.stackoverflow.com/company/peloton"><i class="fa fa-stack-overflow fa-lg"></i></a></li>
+              </ul>
+            </div>
+            <div class="col-md-10 col-sm-12 col-xs-8">
+              <div class="nav navbar-nav">
+                <p class="text-center visible-xs"><img src="https://d13mqpf5czzhx8.cloudfront.net/static/img/misc/made_in_ny_white.png" style="height:60px"></p>
+                <p class="weight-100 text-left copyright">© Peloton 2012-2013,&nbsp; Peloton Interactive LLC. All rights reserved
+                </p>
+              </div>
+            </div>
+          </div>
+          <script>
+            //- START: GOOGLE ANALYTICS
+            var _gaq = _gaq || [];
+            _gaq.push(['_setAccount', 'UA-34644111-1']);
+            _gaq.push(['_setDomainName', 'pelotoncycle.com']);
+            _gaq.push(['_trackPageview']);
+            
+            (function() {
+              var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+              ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+              var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+          </script>
+        </div>
+      </div>
+    </div>
+  
+</body></html>
