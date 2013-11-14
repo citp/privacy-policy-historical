@@ -1,14 +1,12 @@
-> *The following text is extracted and transformed from the westsidewholesale.com privacy policy that was archived on 2013-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130512091438id_/http%3A//www.westsidewholesale.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the westsidewholesale.com privacy policy that was archived on 2013-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131114094726id_/http%3A//www.westsidewholesale.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-###  Privacy Policy Statement
-
 Westside Wholesale uses the latest security software to ensure the security your personal information. Information will never be sold or given to other parties; customers will only receive emails pertaining to their orders or account information unless they have selected to receive promotional emails. Cookies are only used to save the customer’s shopping cart information and to help improve the shopping experience. Phone calls are only made when there is an issue pertaining to an order; phone numbers will never be used for marketing purposes. Customer credit card information is never saved in our system to ensure security.
 
-**Our postal address is:**
+ **Our postal address is:**
 
-**Please send Returned Merchandise to our Las Vegas Distribution Center**  
+ **Please send Returned Merchandise to our Las Vegas Distribution Center**  
 West Coast Distribution Center  
 4170 W. Harmon Avenue #5  
 Las Vegas, NV 89103
