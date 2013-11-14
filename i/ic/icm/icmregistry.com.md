@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the icmregistry.com privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603163319id_/http%3A//icmregistry.com/policies/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the icmregistry.com privacy policy that was archived on 2013-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131114133610id_/http%3A//www.icmregistry.com/policies/privacy-policy) for the most accurate reproduction.*
 
 # ICM Registry's Privacy Policy
 
