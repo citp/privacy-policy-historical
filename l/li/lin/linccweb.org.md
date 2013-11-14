@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the linccweb.org privacy policy that was archived on 2012-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121103212603id_/http%3A//www.linccweb.org/cmn/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the linccweb.org privacy policy that was archived on 2013-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131114160145id_/http%3A//www.linccweb.org/cmn/privacy.asp) for the most accurate reproduction.*
 
 # College Center for Library Automation - Privacy Statement
 
@@ -13,7 +13,7 @@
 
 
 
-The College Center for Library Automation (CCLA) provides LINCC (Library Information Network for Cooperative Content) and associated web sites: LINCCWeb ([ _www.linccweb.org_](http://www.linccweb.org/)) and the CCLA web site ([ _www.cclaflorida.org_](http://www.cclaflorida.org/)). LINCC supports local library operations at Florida's 28 public colleges.
+The College Center for Library Automation (CCLA) provides LINCC (Library Information Network for Cooperative Content) and associated web sites: LINCCWeb ([ _http://www.linccweb.org_](http://www.linccweb.org/)) and the CCLA web site ([ _http://www.cclaflorida.org_](http://www.cclaflorida.org/)). LINCC supports local library operations at Florida's 28 public colleges.
 
 CCLA is committed to protecting the privacy of registered users of LINCC services and visitors to our web sites. CCLA does not collect personally identifiable information about users of LINCC services or visitors to our web sites except as needed to provide services you request, services to which you are entitled by your affiliation with a Florida public college, or if you choose to disclose that information to us. CCLA does not share information about individual users with any third party except as needed to provide services you request or for authorized law enforcement activities. CCLA staff use registration and statistical information to improve services and tailor them to suit your needs, to provide easier access to advanced features, and to help us serve you better.
 
@@ -61,7 +61,7 @@ Privacy and public records obligations are governed by applicable Florida statut
 
 ### Contact
 
-Please [contact CCLA](https://web.archive.org/cmn/contactus.asp?location=/contact.asp "Contact CCLA User Support") if you have questions about this Privacy Statement.
+Please [contact CCLA](https://web.archive.org/cmn/contactus.asp?location=/contact.asp "Contact FLVC Help Desk") if you have questions about this Privacy Statement.
 
 Only authorized CCLA or library staff with an assigned password may access personally identifiable information maintained in LINCC or LINCCWeb and then only for the purpose of performing work related to the delivery of services as described here.
 
