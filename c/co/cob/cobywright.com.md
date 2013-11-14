@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cobywright.com privacy policy that was archived on 2013-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130531054455id_/http%3A//cobywright.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cobywright.com privacy policy that was archived on 2013-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131114111533id_/http%3A//cobywright.com/about/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | CobyWright.com | Internet Marketing Blog
+# Privacy PolicyCobyWright.com | Internet Marketing Blog | CobyWright.com | Internet Marketing Blog
 
 **Your Privacy**  
 Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.
@@ -25,8 +25,4 @@ If you have any questions regarding the privacy policy of CobyWright.com or Loca
 
 Last updated Sat, 15 Jan 2011 12:57
 
-#### I'd Appreciate It If You Shared My Blog With Others...
-
-  * Share
-  *   *   * 
-
+****Be Sure To Tell Your Friends About This!****
