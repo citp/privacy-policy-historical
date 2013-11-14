@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the careerboutique.com privacy policy that was archived on 2013-01-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130120030118id_/http%3A//careerboutique.com/education/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the careerboutique.com privacy policy that was archived on 2013-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131114010314id_/http%3A//www.careerboutique.com/education/privacy_policy) for the most accurate reproduction.*
 
 # JobsRadar.com - Find Jobs. Showcase Your Resume. Get Hired.
 
@@ -22,9 +22,9 @@ To cancel or correct your personal information: send an email with your User Nam
 To express or ask questions regarding privacy concerns: send an email to info@CareerBoutique.com 
 
 Address:  
-600 3rd Ave  
-2nd Floor  
-New York, NY 10016  
+201 Broadway Street  
+Suite 7  
+Cambridge, MA 02139  
 
 
 **Registration**
