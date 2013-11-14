@@ -1,43 +1,55 @@
-> *The following text is extracted and transformed from the girlsnotbrides.org privacy policy that was archived on 2013-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130618044159id_/http%3A//www.girlsnotbrides.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the girlsnotbrides.org privacy policy that was archived on 2013-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131114034420id_/http%3A//www.girlsnotbrides.org/privacy-policy) for the most accurate reproduction.*
 
 # Girls Not Brides
 
-Preservation of your privacy is important to the Elders Foundation and we are committed to letting you know how we use your personal information and using it responsibly. This privacy policy (“the Privacy Policy”) should be read in conjunction with the [www.girlsnotbrides.org](http://www.girlsnotbrides.org/ "Girls not Brides") Website Terms and Conditions.
+Preservation of your privacy is important to Girls Not Brides and we are committed to letting you know how we use your personal information and using it responsibly. This privacy policy (“the Privacy Policy”) should be read in conjunction with the [www.girlsnotbrides.org](http://www.girlsnotbrides.org/ "Girls not Brides") Website Terms and Conditions.
 
-The website  [www.girlsnotbrides.org](http://www.girlsnotbrides.org/ "Girls not Brides")  (“the Website”), is owned and operated by The Elders Foundation, a company limited by guarantee registered in England and Wales, number: 06317151.
+The website  [www.girlsnotbrides.org](http://www.girlsnotbrides.org/ "Girls not Brides")  (“the Website”), is owned and operated by Girls Not Brides: The Global Partnership to End Child Marriage, a company limited by guarantee registered in England and Wales (Reg No.: 8570751) and a registered charity in England and Wales (Reg No: 1154230).
 
-References to ‘The Elders’, ‘we’, ‘us’ or ‘our’ in this Privacy Policy are references to The Elders Foundation.
+References to ‘Girls Not Brides’, ‘we’, ‘us’ or ‘our’ in this Privacy Policy are references to Girls Not Brides: The Global Partnership to End Child Marriage.
 
 **1.     Information about you**  
-1.1    We may collect personal information from you when you:  
-sign-up for our newsletter(s);  
-share information, including but not limited to information about yourself through the Website;  
-enquire about our services and/or about The Elders;  
-register for any of our mailing lists or events through the Website; and/or  
-contact us through the Website.  
-1.2    This personal information may include but is not limited to the following information about you:  
-Your name  (including your first names and surname);  
-Your email address;  
-Your telephone number(s) (including your mobile telephone number); and  
-The name of the organisation you work with or are employed by.  
+1.1    We may collect personal information from you when you:
+
+  * sign-up for our newsletter(s);
+  * share information, including but not limited to information about yourself through the Website;
+  * enquire about our services and/or about Girls Not Brides;
+  * register for any of our mailing lists or events through the Website; and/or
+  * contact us through the Website.
+
+
+
+1.2    This personal information may include but is not limited to the following information about you:
+
+  * Your name  (including your first names and surname);
+  * Your email address;
+  * Your telephone number(s) (including your mobile telephone number); and
+  * The name of the organisation you work with or are employed by.
+
+
+
 We may also ask for or collect some additional, non-personal information from you.  
 1.3    Pursuant to Clause 3.3 of the Terms and Conditions, when you view or use the Website, and/or provide us with information about yourself, you are stating that you are over 18 years of age or are a minor using the Website with parental consent. You agree that any information you provide to us about yourself when creating a Profile or at any time will be true.
 
 **2.     Our use of this information**  
-2.1    Your personal information will only be used by us to:  
-process your requests;  
-respond to your questions or comments;  
-provide or administer activities relating to our services;  
-provide you with information relating to the Website, The Elders or our services, or that we feel may be of interest to you;  
-maintain our organisational records;  
-carry out research or prepare reports; and  
-supply to third parties as described in paragraph 2.3 below.  
+2.1    Your personal information will only be used by us to:
+
+  * process your requests;
+  * respond to your questions or comments;
+  * provide or administer activities relating to our services;
+  * provide you with information relating to the Website, Girls Not Brides or our services, or that we feel may be of interest to you;
+  * maintain our organisational records;
+  * carry out research or prepare reports; and
+  * supply to third parties as described in paragraph 2.3 below.
+
+
+
 2.2    If you do not want to receive information from us Contact Us by email using the form on the connect page with the word “unsubscribe” in the subject field. If you only wish to unsubscribe from one of our services, please specify this in the email  
 2.3    Any personal information that you provide when you use the Website may be shared with third parties, including but not limited to:  
-2.3.1    providers of support services to The Elders but only if the sharing of your personal information is necessary to carry out such support services; and  
-2.3.2    companies or organisations that are connected to or affiliated to The Elders; and/or  
+2.3.1    providers of support services to Girls Not Brides but only if the sharing of your personal information is necessary to carry out such support services; and  
+2.3.2    companies or organisations that are connected to or affiliated to Girls Not Brides; and/or  
 2.3.3    third parties that we have selected in order that they may contact you with information about activities, goods or services that may be of interest to you. (See clause 2.2 for how to unsubscribe to this service).  
-The Elders accepts no liability for any misuse of your personal information by third parties and you therefore proceed at your own risk.  
+Girls Not Brides accepts no liability for any misuse of your personal information by third parties and you therefore proceed at your own risk.  
 2.4    Subject to this clause 2, your personal information will not be sold or disclosed to any third parties without your permission unless we are required to do so by law.
 
 **3.     Security**  
@@ -53,8 +65,8 @@ The Elders accepts no liability for any misuse of your personal information by t
 4.6   If you are happy for us to use cookies to run the Site you must indicate your consent when you go through our registration process stating that you have read and understood this Privacy Policy and the appropriate Terms and Conditions.
 
 **5.     Other Information**  
-5.1    If you would like us to correct or update any information about you, then please Contact Us using the form on the Connect page.  
+5.1    If you would like us to correct or update any information about you, then please Contact us at [info@GirlsNotBrides.org](mailto:%20info@GirlsNotBrides.org)  
 5.2    This Privacy Policy may be updated from time to time, so please check it periodically.  
-5.3    Links within our sites to other websites are not covered by this Privacy Policy but are addressed in our Terms and Conditions.
+5.3    Links within our sites to other websites are not covered by this Privacy Policy but are addressed in our [Terms and Conditions](http://www.girlsnotbrides.org/terms-conditions/ "Terms and Conditions").
 
 This Privacy Policy should be read in conjunction with the Website Terms and Conditions for [www.girlsnotbrides.org](http://www.girlsnotbrides.org/ "Girls not Brides")
