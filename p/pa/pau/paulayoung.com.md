@@ -1,49 +1,152 @@
-> *The following text is extracted and transformed from the paulayoung.com privacy policy that was archived on 2013-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130515031354id_/http%3A//www.paulayoung.com/jump.do%3FitemID%3D5%26itemType%3DLANDING%26privacy%3Dpolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paulayoung.com privacy policy that was archived on 2013-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131114074903id_/http%3A//www.paulayoung.com/jump.do%3FitemID%3D5%26itemType%3DLANDING%26privacy%3Dpolicy) for the most accurate reproduction.*
 
 # Wigs and Hairpieces - www.PaulaYoung.com
 
-### PRIVACY POLICY 
+**NEW PY PRIVACY POLICY**
 
-Last Updated 1/15/09 
+Last Updated 8/23/13
 
-When you place an order or request a catalog through our on-line web site, we ask you to provide information which enables us to fulfill your request. This information may include your name, mailing address, phone number, e-mail address or credit card information (in the case of on-line orders). This information allows us to fulfill your request and to contact you in the event we have questions regarding your request or order. We do not know or collect your name or e-mail address unless you provide it to us. 
+At Paula Young your privacy is as important to us as it is to you. Our Privacy Policy defines how Paula Young protects your privacy. This Privacy Policy describes:
 
-Paula Young does collect aggregate information about the pages which visitors review, including the sequence in which they are visited. We may also collect data volunteered by our visitors and customers, such as survey, demographic or product preference information. This information is used to improve our web site and the overall experience we provide to our customers, and is treated as confidential unless otherwise clearly indicated. 
+  * Why we collect personal information
+  * What personal information we collect and when it is collected
+  * How your information is used and protected
+  * When and with whom your information is shared
+  * What to do if you feel your personal information has been compromised
 
-Customers who request printed catalogs or place orders through our web site should read our policy regarding our catalog mailing list. **
 
-Notification of Change
 
-**  
-We reserve the right to change this policy at any time. This privacy policy will be kept up-to-date and clearly posted on our Web site. 
+This Privacy Policy applies to all of the services and websites offered by Specialty Commerce Corp. Specialty Commerce Corp. offers many different websites for many different business purposes. As this Privacy Policy applies to all of our websites, they are collectively referred to as Website throughout this policy. The Website is also governed by its Terms of Use. If any of the terms of this Privacy Policy directly conflict with the Terms of Use, the terms of this Privacy Policy will apply.
 
-**From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future**  
-We will post the policy changes to our web site to notify you of these changes and we will use for these new purposes only data collected from the time of the policy change forward. If you are concerned about how your information is used, you should check back at our web site periodically. 
+If you have any questions about this Privacy Policy, please feel free to contact us through our Website or write to us at:  
+[Customerservice@paulayoung.com](mailto:Customerservice@paulayoung.com)  
+OR  
+_Privacy and Compliance  
+Paula Young  
+P.O. Box 483_  
+_Brockton, MA 02303_  
+_1-800-364-9060_
 
-**Catalog Mailing List**  
-You may request a copy of our catalog through our Internet site by providing the information required on the catalog request form. We will then send you a copy of our current catalog and add you to our catalog mailing list. 
+**Information We Collect**  
+This Privacy Policy applies to Personal Information, which is information that Paula Young collects from you as a customer that specifically identifies you as an individual. This information is collected to provide you with the products and services you have requested as well as to provide a pleasant shopping experience now and to improve the shopping experience in the future.  
+While we limit the information we collect, we do collect Personal Information when you:
 
-Periodically, we may make our catalog mailing list available to carefully screened companies we believe offer products or services which may be of interest to our customers. If you would prefer not to have your name shared with such companies, you may instruct us not to make it available by contacting our Customer Service department at **800-472-4017**. If you tell us to do this, we will flag your customer record with a code indicating you do not wish to have your name provided to other companies and we will honor this request without hesitation. However, please note that it may take a number of weeks before any mailings initiated prior to your request are processed and delivered. As a matter of policy, we do not disclose the names of companies to which we have provided names. Nor do we disclose the names of organizations from whom we may have acquired names for our own marketing purposes. 
+  * Place an order from our catalogs or on our Website
+  * Create an account on our Website
+  * Make a purchase via phone, online or through our factory store
+  * Return an item or make an exchange
+  * Inquire about our products or services or contact customer service
+  * Request a catalog
+  * Sign up for Paula Young email updates or other promotional materials
+  * Enter a contest or sweepstakes
+  * Are referred to us through a marketing promotion
+  * Participate in a marketing survey, promotion or event
 
-If you do not wish to receive ANY catalogs from Paula Young, you may also instruct us to remove your name from our catalog mailing list by contacting our Customer Service department at 800-472-4017 . 
 
-**Mail Preference Service**  
-For your information, the Direct Marketing Association has established a Mail Preference Service for consumers who do not wish to receive unsolicited mailings from companies and organizations with whom they do not have a relationship. By adding your name to this list, companies that subscribe to this service will know not to send unsolicited advertising material to you. Most reputable catalog and direct mail companies use this service in order to avoid spending money for advertising which will not be appreciated. 
 
-You may add your name to this service by writing to the following address: 
+In order to provide our full range of services, we may collect Personal Information including:
 
-Mail Preference Service   
-Direct Marketing Association   
-P.O. Box 9008   
-Farmingdale, New York 11735-9008 
+  * Name
+  * Address
+  * Telephone number
+  * Fax number
+  * Email address
+  * Transaction information
+  * Credit card, debit card, or checking account information
+  * Age/Date of Birth (in conjunction with promotions, for credit card applications and credit checks)
 
-Please note that by placing your name on the Mail Preference Service list, you are ONLY indicating that you do not wish to receive unsolicited advertising from organizations with which you do not already have a relationship. To remove your name from the list of an organization from which you have placed an order or requested a catalog, you must contact that company individually to express your preference. 
 
-**Security**  
-All on-line transactions which require the exchange of credit card information are initiated and completed in a secure environment for the protection of our customers. 
+
+In order to provide you with a better shopping experience and to improve the quality of our services, we may combine the information you submit under your account with other information that we may receive from you, from third parties, or with other public demographic information. We maintain this information, along with a record of your purchases, in a restricted database.
+
+Also, our Website is not directed at collecting Personal Information from children and we do not actively collect Personal Information from children under the age of 13.
+
+**How We Use the Information We Collect**  
+At Paula Young, we always want to provide you with the easiest and best possible shopping experience from the time you begin looking for products and services through the delivery of your requested items. The information that we collect lets us meet this goal by allowing us to:
+
+  * Customize your shopping experience
+  * Confirm, process and track your orders
+  * Provide the products and services you request
+  * Contact you with questions or status updates regarding an order
+  * Deliver merchandise and services that you purchase online
+  * Respond to your customer service inquiries or requests
+  * Identify your product and service preferences
+  * Communicate great values and featured items to you
+  * Send you catalogs or promotional offers we believe will be of interest to you
+  * Send you Paula Young email updates
+  * Improve our merchandise selection, Website, retail experience and customer service
+  * Provide information concerning products you have purchased
+  * Prevent or mitigate fraud and credit risk
+  * Administer billing and payment for your purchases
+  * Administer promotions, contests and sweepstakes
+  * Comply with applicable law, legal procedures, requirements, regulations and statutes
+  * Paula Young does offer some of our services in connection with affiliated companies as well as other third parties. Third party websites may have different privacy practices than described in this Privacy Policy. We strongly encourage you to read the privacy policies associated with third party websites as this Privacy Policy applies only to the Paula Young Website, Paula Young’s services, and Paula Young’s handling of Personal Information.
+
+
+
+Personal Information that you provide to third party websites may be sent to Paula Young in order to deliver the services you have requested. You can be assured that we will process Personal Information that we receive from these websites in accordance with this Privacy Policy.
+
+**Safe, Secure Ordering**  
+We respect your right to privacy, and ensure that your personal information is kept completely safe and secure at all times, whether ordering by phone or online. We occasionally share our customer list with reputable, carefully screened companies whose products we feel may be of interest to you. If you prefer that we do not share your name, please let us know at 1-800-364-9060.
+
+**Choices for Personal Information**  
+To further improve your shopping experience, Paula Young partners with third party vendors to evaluate how the Website is used and to provide continuous improvement for our services. Like most websites, we use "cookies" for a variety of purposes to improve your visits to the Website. Cookies are pieces of information that a website transfers to the hard drive on your computer for record keeping purposes. For example, we use cookies to understand which web pages are visited, how often they are visited, to remember you when you return to the Website, and to generally make the Website more user friendly.
+
+Most browsers are initially set up to accept cookies. You may decide to reset your browser to refuse all cookies or to notify you when a cookie is being sent. However, if you do decide to refuse all cookies please be aware that some Website features and Paula Young services may be unavailable or may not function properly.
+
+**Choices for Receiving Promotional Material**  
+You may also decide to opt out of receiving promotional mail and/or email from Paula Young. Simply notify us of this decision by one of these methods:
+
+  * Follow the unsubscribe link on any promotional email received from Paula Young or by clicking [here](http://click.scdemail.com/profile_center.aspx?s=fe161d70726d02787c1177&mid=fe6615707660057a7713&j=fe6817757665057c7d15&l=fe8915717c630c797d&jb=ffcf14&ju=fe29177976610178731472&extcmp=EML:PY_34_C_BO_00_N_00_BOGO&utm_source=email&utm_medium=marketingemail&utm_term=Seed%20List%20SCD&utm_content=C&utm_campaign=34&r=0)
+  * Send an email to us at [Customerservice@paulayoung.com](mailto:Customerservice@paulayoung.com)
+  * Call us toll free at 1-800-364-9060
+  * Fax us toll free at 1-508-238-1965
+  * Write to us at:
+
+
+
+_Paula Young  
+P.O. Box 483_  
+_Brockton, MA 02303_
+
+Please note that any opt-out request sent via postal mail may take at least sixty (60) days to become effective. You may still receive email or postal mail from other affiliated companies and third parties if they have received your email or postal address from sources other than Paula Young or as a result of their own transactions or experiences with you. You will also continue to receive email or postal mail if you request to hear from us again at a later date.
 
 **Ownership of Customer Information**  
-As a direct marketing company, Paula Young places a significant value on the information compiled about our registered visitors, catalog requesters and customers. This information is essential to the operation of our company and constitutes a corporate asset of substantial value. In any business transaction involving the purchase or sale of assets by Paula Young or its affiliated business entities, this customer information may be purchased or sold just as any other piece of company owned property. By registering, requesting a catalog or making a purchase on our web site, you give us your consent to the purchase or sale of this information should such a business transaction take place. 
+As a direct marketing company, Paula Young places a significant value on the information compiled about our registered visitors, catalog requesters and customers. This information is essential to the operation of our company and constitutes a corporate asset of substantial value.
 
-**Links to Other Sites**  
-Within our web site, we may provide you with links to other companies or organizations which we feel provide useful information, services or products related to the Paula Young web site. While we believe these organizations to be reputable and committed to consumer privacy, we cannot be responsible for the policies or practices of those who have sites linked to ours. 
+  * In any business transaction involving the purchase or sale of assets by Paula Young or its affiliated business entities, this customer information may be purchased or sold just as any other piece of company owned property. By registering, requesting a catalog or making a purchase on our website, you give us your consent to the purchase or sale of this information should such a business transaction take place.
+  * We may provide you with links to other companies or organizations which we feel provide useful information, services or products related to the Paula Young website. While we believe these organizations to be reputable and committed to consumer privacy, we cannot be responsible for the policies or practices of those who have sites linked to ours.
+  * We may disclose and/or transfer Personal Information to a third party in connection with a merger, acquisition, or sale (including any transfers made as part of insolvency or bankruptcy proceedings) involving Paula Young or its affiliated companies or as part of a corporate reorganization, asset sale, or other change in corporate control.
+
+
+
+**Information Security**  
+Paula Young processes Personal Information for the purposes for which it was collected. The information is processed in accordance with this Privacy Policy, any additional privacy notices that may be associated with the service we are supplying, applicable law, or your authorization or consent.
+
+We maintain reasonable and appropriate standards to safeguard your Personal Information. All on-line transactions which require the exchange of credit card information are initiated and completed in a secure environment for the protection of our customers.
+
+**Data Integrity**  
+Paula Young takes reasonable steps to verify that the Personal Information we store and process is accurate, complete and current. We also depend on our customers to update or correct their online profiles and to contact us with changes in Personal Information whenever necessary by one of the following means:
+
+  * Follow the unsubscribe link on any promotional email received from Paula Young
+  * Send an email to us at [Customerservice@paulayoung.com](mailto:Customerservice@paulayoung.com)
+  * Call us toll free at 1-800-364-9060
+  * Fax us toll free at 1-508-238-1965
+  * Write to us at
+
+
+
+_Paula Young  
+P.O. Box 483_  
+_Brockton, MA 02303_
+
+Unless otherwise required by law or for legitimate business purposes, we will make good faith efforts to correct or delete such data at your request when you notify us of an error or change in your Personal Information. To prevent unauthorized changes to someone's Personal Information, we ask individual customers to positively identify themselves before processing such requests.
+
+**Policy Enforcement**  
+Paula Young regularly reviews its compliance with this Privacy Policy. Please feel free to direct any questions or concerns regarding this Privacy Policy or Paula Young’s treatment of Personal Information to us through the Website or by writing to us at the email or postal mail address contained at the beginning of this document.  
+If we receive a written complaint, it is Paula Young’s policy to contact the complaining customer regarding his or her concerns. We will investigate complaints promptly and diligently to address your concerns and resolve any dispute quickly.
+
+**Changes to this Privacy Policy**  
+Please note that this Privacy Policy may change from time to time. We will post any Privacy Policy changes on this page and, if the changes are significant, we will provide a more prominent notice. Each version of this Privacy Policy will be identified by its effective date found at the top of this document.
+
+If you have any additional questions or concerns about this Privacy Policy, please feel free to contact us any time through this website or at the email or postal mail address contained at the beginning of this document.
