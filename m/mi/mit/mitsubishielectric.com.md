@@ -1,20 +1,20 @@
-> *The following text is extracted and transformed from the mitsubishielectric.com privacy policy that was archived on 2013-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130517020449id_/http%3A//www.mitsubishielectric.com/copyright/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mitsubishielectric.com privacy policy that was archived on 2013-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131115003654id_/http%3A//www.mitsubishielectric.com/copyright/privacy.html) for the most accurate reproduction.*
 
 # MITSUBISHI ELECTRIC - Privacy Statement
 
-### Commitment to Privacy on the Internet
+## Commitment to Privacy on the Internet
 
 Mitsubishi Electric Corporation is sensitive to privacy issues on the Internet. This policy explains how Mitsubishi Electric Corporation treats the information about you that we receive on the Internet. The purpose of this privacy policy is to inform you, as a visitor to our website (the "Site"), what kind of information we may gather about you when you visit this Site, how we may use that information, and whether we disclose it to anyone.
 
-### Scope of Application
+## Scope of Application
 
 This privacy statement applies to Mitsubishi Electric Corporation and the Mitsubishi Electric Global Website ( <http://www.mitsubishielectric.com/> ). The statement does not apply to other companies' or organizations' websites to which the Site links.
 
-### Non-Personal Information
+## Non-Personal Information
 
 In general, you can visit this Site without telling us who you are or revealing any information about yourself. However we may automatically (i.e., not by registration) collect information that is not personally identifiable to help us provide better customer service. Our service automatically gathers certain information such as the numbers and frequency of visitors to the Site but we do so in ways that keep that information anonymous. This information is aggregated to measure the number of visits, average time spent on the Site and how much of the Site you use, so that we can improve our Site. We do not review information on individuals themselves. Mitsubishi Electric Corporation may use a technology nicknamed "cookies" that indicates how and when pages in the Site are visited, and by how many people. A cookie is an element of data that a website can send to your browser, which may then be stored on your system but does not collect personally identifiable information. You can set your browser to notify you before you receive a cookie, giving you the chance to decide whether to accept it or not. You can also set your browser to turn off cookies. If you do so, however, some areas of some sites may not function properly.
 
-### Personal Information
+## Personal Information
 
 Mitsubishi Electric Corporation fully complies with Japan's laws and regulations, national policies and other rules concerning the protection of personal information.
 
@@ -34,18 +34,18 @@ You have the option not to provide personal information to Mitsubishi Electric C
 
 Click here for [more information on how we manage personal information.](https://web.archive.org/privacy/personal_info.html)
 
-### Children
+## Children
 
 Children without the consent of their parent or guardian should not submit personal Information to the Site. While few, if any, of the materials of the Sites are directed towards children, Mitsubishi Electric Corporation encourages all parents or guardians to instruct their children in the safe and responsible use of their personal information while using the Internet.
 
-### Notification of Changes
+## Notification of Changes
 
 If Mitsubishi Electric Corporation decides to change our privacy statement, we will post those changes on this section so that you will always know what information we gather, how we might use that information and whether we will disclose it to anyone.
 
-### Questions or Comments
+## Questions or Comments
 
 It is important to us to hear what visitors have to say about our services, and our policies. If you have any questions, concerns, about this privacy statement, or anything about our off-line and on-line products and services, please contact the Webmaster at '[Contact Us](https://web.archive.org/contact/index.html)'
 
-### Your Consent
+## Your Consent
 
 By using this Site, you consent to the terms of our privacy statement and to our collecting and processing of personal information for the purposes given above. 
