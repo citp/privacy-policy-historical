@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the governancenow.com privacy policy that was archived on 2013-01-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130116084440id_/http%3A//www.governancenow.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the governancenow.com privacy policy that was archived on 2013-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131114211343id_/http%3A//www.governancenow.com/privacy-policy) for the most accurate reproduction.*
 
 # GovernanceNow.com | Privacy Policy
 
