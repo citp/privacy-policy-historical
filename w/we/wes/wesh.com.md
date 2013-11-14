@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wesh.com privacy policy that was archived on 2012-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121223062248id_/http%3A//www.wesh.com/connect/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wesh.com privacy policy that was archived on 2013-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131114192516id_/http%3A//www.wesh.com/connect/privacy) for the most accurate reproduction.*
 
 # Privacy - WESH 2
 
