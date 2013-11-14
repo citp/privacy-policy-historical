@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the noozhawk.com privacy policy that was archived on 2013-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130517015358id_/http%3A//www.noozhawk.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the noozhawk.com privacy policy that was archived on 2013-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131114121557id_/http%3A//www.noozhawk.com/privacy_policy) for the most accurate reproduction.*
 
 # Santa Barbara News and Information - Noozhawk.com
 
@@ -52,4 +52,4 @@ If you would like to unsubscribe (opt-out) from any mailing lists we create, at 
 
 If you have further questions or concerns about our privacy policies and use of personal information, contact Noozhawk publisher William M. Macfadyen at [wmacfadyen@noozhawk.com](mailto:wmacfadyen@noozhawk.com).
 
-Noozhawk is a news and information Web site owned and operated by Malamute Ventures LLC, P.O. Box 101, Santa Barbara, Calif. 93102. 
+Noozhawk is a news and information Web site owned and operated by Malamute Ventures LLC, P.O. Box 101, Santa Barbara, Calif. 93102.
