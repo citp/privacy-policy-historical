@@ -1,18 +1,12 @@
-> *The following text is extracted and transformed from the collegebound.net privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530014119id_/http%3A//www.collegebound.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the collegebound.net privacy policy that was archived on 2013-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131114141608id_/http%3A//www.collegebound.net/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 ## The CollegeBound Network Privacy Policy
 
+Last Updated: 09/25/13
+
 The CollegeBound Network is committed to your privacy. This Privacy Policy describes the types of information we collect from and about you when you visit our website www.collegebound.net (the "Site"). This Privacy Policy also explains how CollegeBound Network may use and disclose such information, as well as your ability to control certain uses of it.
-
-[ ](https://privacy.truste.com/privacy-seal/CollegeBound-Network-/validation?rid=5566c6fa-ed70-40e7-a864-d13cd2861e18 "TRUSTe online privacy certification")
-
-Last Updated: 11/5/12
-
-This Site has been awarded TRUSTe's Privacy Seal signifying that this Privacy Policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy-program-requirements/) including transparency, accountability and choice regarding the collection and use of your personal information. To view a list of sites that are certified by TRUSTe, please click on the seal located at the top of the Privacy Policy.
-
-TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our Privacy Policy or practices, please first contact The CollegeBound Network, Compliance Department, 1200 South Ave., Staten Island, NY 10314, (718) 761-4800, [privacy@collegebound.net](mailto:privacy@collegebound.net). If you are not satisfied with our response you can contact TRUSTe [here](https://feedback-form.truste.com/watchdog/request). 
 
 ### INFORMATION COLLECTION
 
@@ -28,6 +22,8 @@ You are free to set your Internet browser to decline cookies, but by doing so, y
 
 **Information Collected From Other Sources**  
 We may obtain information about you from other sources, including commercially available sources such as data aggregators and public databases. This information may include name, demographic information, updated contact information, interests, and publicly-observed data, such as from social media and online activity. We may combine this information with the information we collect from and about you to help us tailor our communications to you and to improve our services and products.
+
+We collect your location based information for the purpose of providing location-based products and services on The CollegeBound Network. We will only share this information with our mapping provider for the sole purpose of providing you the service. If you no longer wish to allow us to track your geo-location information in the Mobile App you may turn this off at the device level.
 
 ### INFORMATION USE 
 
