@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cssauthor.com privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603044731id_/http%3A//cssauthor.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cssauthor.com privacy policy that was archived on 2013-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131114140413id_/http%3A//www.cssauthor.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy > Css Author | Web/UI Resources < Freebies, Fonts, Icons, Inspirations, Apps
+# Privacy Policy » Css Author » Web / UI Design Resource
 
 ## **Privacy Policy for www.cssauthor.com**
 
@@ -34,5 +34,4 @@ You should consult the respective privacy policies of these third-party ad serve
 
 If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
 
-  
-
+__Friday, July 19, 2013
