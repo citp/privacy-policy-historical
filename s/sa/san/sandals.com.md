@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sandals.com privacy policy that was archived on 2012-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121114032319id_/http%3A//www.sandals.com/general/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sandals.com privacy policy that was archived on 2013-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131114114928id_/http%3A//www.sandals.com/general/privacy.cfm) for the most accurate reproduction.*
 
-# Sandals Resorts Privacy Policy
+# All Inclusive Caribbean Resorts & Vacation Packages for Weddings, Honeymoons, & Couples - Sandals
 
 We are commited to protecting your privacy. The information we collect is used to process reservations, process orders and to provide a more personalized user experience. Unique Vacations, Inc. is the sole owner of the information collected on Sandals.com. Unique Vacations, Inc., as the worldwide representative for Sandals Resorts, collects information from our users at several different points on our Web site.
 
