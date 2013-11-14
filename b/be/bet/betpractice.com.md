@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the betpractice.com privacy policy that was archived on 2013-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130512005308id_/http%3A//www.betpractice.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the betpractice.com privacy policy that was archived on 2013-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131114081748id_/http%3A//www.betpractice.com/privacy-policy.aspx) for the most accurate reproduction.*
 
-# Privacy Policy - Bet Practice - FOOTBALL TIMING STATISTICS & TRADING TECHNIQUES
+# Betpractice's privacy policy
 
 Betpractice is committed to preserving the privacy of all visitors to our website at http://www.betpractice.com. Please read the following privacy policy to understand how we use and protect the information that you provide to us. By registering or placing an order on this website, you consent to the collection, use and transfer of your information under the terms of this policy.
 
