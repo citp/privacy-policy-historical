@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the paradisefibers.com privacy policy that was archived on 2013-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130604233711id_/http%3A//www.paradisefibers.com/privacy-policy-cookie-restriction-mode) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paradisefibers.com privacy policy that was archived on 2013-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131114144610id_/http%3A//www.paradisefibers.com/privacy-policy-cookie-restriction-mode) for the most accurate reproduction.*
 
 # Privacy Policy Paradise Fibers
-
-$100 orders get free shipping & 5% back on nearly everything we sell! [Create an account and login](https://www.paradisefibers.com/customer/account/login/referer/) now for deals and [Paradise Points!](http://www.paradisefibers.com/paradise-points-program-terms-and-conditions "Paradise Points Overview and Rules")
 
 Please replace this text with you Privacy Policy. Please add any additional cookies your website uses below (e.g., Google Analytics) 
 
