@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the vumber.com privacy policy that was archived on 2013-01-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130110012931id_/http%3A//www.vumber.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vumber.com privacy policy that was archived on 2013-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131114070809id_/http%3A//www.vumber.com/privacy) for the most accurate reproduction.*
 
-# Vumber: The Virtual Phone Number - Questions about Privacy and Support
+# Vumber - Virtual Number Privacy Statement
 
 This privacy policy covers how we treat the personal information that we collect and receive when you subscribe for and use our services. This Policy explains the practices that apply to your personal Information.
 
