@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the creativelive.com privacy policy that was archived on 2013-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130427010308id_/http%3A//www.creativelive.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the creativelive.com privacy policy that was archived on 2013-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131114042336id_/http%3A//www.creativelive.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | creativeLIVE
+# creativeLIVE: Privacy Policy
 
 creativeLIVE, Inc. (“CL”) has created this privacy policy to inform you about our how we treat various pieces of information you provide. The following discloses our information gathering and dissemination practices for the [www.creativelive.com](http://www.creativelive.com/) website. 
 
@@ -26,7 +26,7 @@ CL will make commercially reasonable efforts to disclose when we are transmittin
 
 CL uses [Mollom](http://mollom.com/), a service to help identify and eliminate spam and unauthorized posts to the CL blog, forum, reviews and comment systems. The terms of the [Mollom Web Service Privacy Policy](http://mollom.com/web-service-privacy-policy) are available [here](http://mollom.com/web-service-privacy-policy). 
 
-From time to time CL uses [Wildfire Interactive, Inc.](http://www.wildfireapp.com/), a division of [Google](http://google.com/), software and web services to run marketing campaigns including but not limited to ads, promotions, and contests. The terms of the [Wildfire Web sites Privacy Policy](http://www.wildfireapp.com/privacy) are available [here](http://www.wildfireapp.com/privacy). 
+From time to time CL uses [OfferPop, Inc.](http://http//www.offerpop.com/), software and web services to run marketing campaigns including but not limited to ads, promotions, and contests. The terms of the [OfferPop Web sites Privacy Policy](http://www.offerpop.com/privacy-policy.html) are available [here](http://www.offerpop.com/privacy-policy.html). 
 
 CL may transmit a customer’s credit card data only to the appropriate credit card company and/or credit card payment processing company. CL does not store the financial information entered by users, such as credit card numbers and related financial account information. The financial information is only used to bill the user for products and services. 
 
