@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the teleflora.com privacy policy that was archived on 2013-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130619200130id_/http%3A//www.teleflora.com/securityprivacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teleflora.com privacy policy that was archived on 2013-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131114011855id_/http%3A//www.teleflora.com/securityprivacy.asp) for the most accurate reproduction.*
 
 # Security and Privacy Policy | Teleflora
 
@@ -8,23 +8,25 @@ Your privacy is important to Teleflora LLC ("we" or "us"). To better protect you
 
 ## Information We Collect
 
-Personally Identifiable Information  
+Personally Identifiable Information
+
 To fulfill your requests for information, enable you to participate in our offerings or to upload your resume on our Careers webpage, and provide you with opportunities to learn about other products and services in which we think you might be interested, we ask that you provide us with certain personally identifiable information. The types of personally identifiable information that may be collected include: name, address, e-mail address, telephone number, fax number, date of birth, employment information and information related to your education, training, list of references, credit card information, and information about your interests in and use of various products, programs, and services. By providing your personal information on our Web site, you consent to allow us to use that information in accordance with this Privacy Policy. 
 
 In some instances, we may request that you submit information about other people. For example, if you order a gift and want it sent directly to the recipient, you might submit the recipient's name and address; or if you include references, you might submit the reference’s name and e-mail address. The types of personally identifiable information that may be collected about other people include: recipient's name, address, e-mail address, and telephone number.
 
 Any information you disclose voluntarily on our Web site or in any forum and blogs that we may develop in the future becomes public information. We cannot control the actions of our Web site users and advise you to use your discretion in sharing information about yourself on the Internet. All information sharing is optional and done so at your own risk.
 
-Non-Personally Identifiable Information  
-We also may collect certain non-personally identifiable information when you visit many of our Web pages, such as the type of browser you are using ( _e.g.,_ Fire Fox, Internet Explorer), the type of operating system you are using, ( _e.g._ , Windows Vista, Mac OS), the domain name of your Internet service provider ( _e.g.,_ Comcast, AT&T), the name of the Web pages you visit, the time you access our Web pages, and the length of time you stay on those pages. 
+Non-Personally Identifiable Information
+
+We also may collect certain non-personally identifiable information when you visit many of our Web pages, such as the type of browser you are using ( _e.g.,_ Fire Fox, Internet Explorer), the type of operating system you are using, ( _e.g._ , Windows Vista, Mac OS), the domain name of your Internet service provider ( _e.g.,_ Comcast, AT&T), the name of the Web pages you visit, the time you access our Web pages, and the length of time you stay on those pages.
 
 We collect this information in order to determine which areas of our Web site are most popular and to enhance your experience with our Web site. This information may also be shared with third parties on an aggregate and non-personally identifiable basis. However, please be assured that this information will in no way personally identify you or any other visitors of our Web site.
 
-Our Web site uses ClickTale or other third party web analytics service. Such service may record mouse clicks, mouse movements, scrolling activity as well as any text you type in this Web site. The service does not collect personally identifiable information that you do not voluntarily enter in this Web site. The service does not track your browsing habits across web sites which do not use the service. For more information on ClickTale or to disable the ClickTale service, please visit: [www.clicktale.com](http://www.clicktale.com/). 
+Our Web site uses ClickTale or other third party web analytics service. Such service may record mouse clicks, mouse movements, scrolling activity as well as any text you type in this Web site. The service does not collect personally identifiable information that you do not voluntarily enter in this Web site. The service does not track your browsing habits across web sites which do not use the service. For more information on ClickTale or to disable the ClickTale service, please visit: [www.clicktale.com](http://www.clicktale.com/).
 
 ## How We Use the Information
 
-We use your personally identifiable information to provide the requested information or content, respond to your inquiries about our offerings, offer you other products, programs or services that we believe may be of interest to you, or for other purposes disclosed at the time of collection. We also may use your personally identifiable information to contact you regarding your use of our products or services, or regarding changes to our Privacy Policy, or other policies or terms that affect you and your use of our Web site or our products and services. In addition, we may use such information to improve the content and navigation of our Web site, or for other internal purposes. 
+We use your personally identifiable information to provide the requested information or content, respond to your inquiries about our offerings, offer you other products, programs or services that we believe may be of interest to you, or for other purposes disclosed at the time of collection. We also may use your personally identifiable information to contact you regarding your use of our products or services, or regarding changes to our Privacy Policy, or other policies or terms that affect you and your use of our Web site or our products and services. In addition, we may use such information to improve the content and navigation of our Web site, or for other internal purposes.
 
 We use the information that you provide about others to enable us to send them your gifts or information. From time to time, we also may use this information to offer our products, programs, or services to them.
 
@@ -37,8 +39,7 @@ Although we take appropriate measures to safeguard against unauthorized disclosu
 
 ## Information Sharing
 
-  
-We may, from time to time, share personally identifiable information with other companies affiliated with us and unrelated third parties (e.g., retailers, marketers) to enable them to provide users with opportunities to learn of products or services in which they may be interested. You should also be aware that this means that we may transfer information to any country in the world, including the United States and other countries that may not offer the same level of data protection as the country where you reside. Please see the "Your Choices" section below for more information on how you can express your preferences regarding our sharing of information. 
+We may, from time to time, share personally identifiable information with other companies affiliated with us and unrelated third parties (e.g., retailers, marketers) to enable them to provide users with opportunities to learn of products or services in which they may be interested. You should also be aware that this means that we may transfer information to any country in the world, including the United States and other countries that may not offer the same level of data protection as the country where you reside. Please see the "Your Choices" section below for more information on how you can express your preferences regarding our sharing of information.
 
 We also may disclose personally identifiable information in the following instances:
 
@@ -46,11 +47,10 @@ _Legal Action:_ We may disclose information about our users, including personall
 
 _Corporate Change:_ We may sell, transfer, or otherwise disclose user information, including personally identifiable information, to a successor entity in connection with a corporate merger, consolidation, asset sale, or other corporate change or combination of assets involving us. 
 
-In addition, we may disclose anonymous, aggregated user statistics to third parties for a variety of purposes. For example, we may disclose how many individuals visited certain areas of our Web site, how many men or women receive our newsletter, or other demographic data about users of our products or services. 
+In addition, we may disclose anonymous, aggregated user statistics to third parties for a variety of purposes. For example, we may disclose how many individuals visited certain areas of our Web site, how many men or women receive our newsletter, or other demographic data about users of our products or services.
 
 ## Your Choices
 
-  
 As noted above, we may use the personally identifiable information we collect from you to offer you products and services that may be of interest to you. If you would like to opt out of future promotional materials from us, you may indicate this preference by following the unsubscribe instructions at the end of e-mail communications or by logging into your account and changing your communication preferences. 
 
 As also noted above, we may, from time to time, share personally identifiable information with companies whose practices are not covered by this Privacy Policy (e.g., other marketers, retailers, participatory databases, and non-profit organizations) that want to market products or services to you. To request that we not share your information for such marketing purposes, you may log into your profile and change your account preferences accordingly or e-mail us at [legalinfo@teleflora.com](mailto:legalinfo@teleflora.com).
@@ -59,7 +59,7 @@ As also noted above, we may, from time to time, share personally identifiable in
 
 To enhance your experience with our site, many of our Web pages use "cookies." Cookies are text files we place in your computer's browser to store your preferences. Cookies, by themselves, do not tell us your e-mail address or other personally identifiable information unless you choose to provide this information to us by, for example, registering at our site. However, once you choose to furnish the site with personally identifiable information, this information may be linked to the data stored in the cookie.
 
-We use cookies to understand site usage and to improve the content and offerings on our site. For example, we may use cookies to personalize your experience at our Web pages (e.g., to recognize you by name when you return to our site), save your password in password-protected areas, and enable you to use shopping carts on our sites. We also may use cookies to offer you products, programs, or services. 
+We use cookies to understand site usage and to improve the content and offerings on our site. For example, we may use cookies to personalize your experience at our Web pages (e.g., to recognize you by name when you return to our site), save your password in password-protected areas, and enable you to use shopping carts on our sites. We also may use cookies to offer you products, programs, or services.
 
 Cookies do not cause damage to your computer systems or files, and only the website that transferred a particular cookie to you can read, modify or delete such cookie. You always have the option of disabling cookies using your browser preferences. Most browsers allow you to delete existing cookies, to automatically decline cookies or to be given the choice of declining or accepting the transfer of particular cookies to your computer. However, please be aware that some features of our Web site may not function properly or may be slower if you refuse cookies. We do not control cookies that you may occasionally get from third-party sites.
 
@@ -69,14 +69,13 @@ Cookies do not cause damage to your computer systems or files, and only the webs
 
 We may, from time to time, offer content (e.g., contests, sweepstakes, or promotions) that is sponsored by or co-branded with identified third parties, including affiliated businesses. By virtue of these relationships, the third parties may obtain personally identifiable information that visitors voluntarily submit to participate in the site activity. We have no control over these third parties' use of this information. Since these third parties will use your information in accordance with their own privacy practices, you should check their websites for information regarding their privacy policies. We will notify you at the time of requesting personally identifiable information if these third parties will obtain such information.
 
-We may use a reputable third party to present or serve the advertisements that you may see at our Web pages. These third-party ad servers may use cookies, Web beacons, clear .gifs, or similar technologies to help present such advertisements, and to help measure and research the advertisements’ effectiveness. The use of these technologies by these third-party ad servers is subject to their own privacy policies and is not covered by our Privacy Policy. 
+We may use a reputable third party to present or serve the advertisements that you may see at our Web pages. These third-party ad servers may use cookies, Web beacons, clear .gifs, or similar technologies to help present such advertisements, and to help measure and research the advertisements’ effectiveness. The use of these technologies by these third-party ad servers is subject to their own privacy policies and is not covered by our Privacy Policy.
 
 We and our advertisers may use third parties to serve or present the ads that appear on our site and to conduct research about the advertisements. For more information about third-party ad servers, please visit: [www.networkadvertising.org](http://www.networkadvertising.org/). 
 
 ## Links to Other Sites
 
-  
-Our site may contain links to other sites that are not operated by us and whose information practices may be different than ours. You should consult the other sites' privacy notices as we have no control over information that is submitted to, or collected by, these third parties. We are not responsible for the privacy practices of these other sites and cannot guarantee the security of any of your personal information collected there. 
+Our site may contain links to other sites that are not operated by us and whose information practices may be different than ours. You should consult the other sites' privacy notices as we have no control over information that is submitted to, or collected by, these third parties. We are not responsible for the privacy practices of these other sites and cannot guarantee the security of any of your personal information collected there.
 
 ## Our Commitment to Data Security
 
@@ -91,21 +90,18 @@ To protect your privacy and security, we will take reasonable steps to help veri
 
 ## International Visitors
 
-  
-Information we collect will be transferred to and processed in the United States where our central database is operated. The privacy laws of the U.S. may not be as comprehensive as the data protection laws of the European Union and elsewhere. Please be assured that we take reasonable steps to ensure that your privacy is protected and implement necessary measures on an ongoing basis to keep your personal information secure. By providing us with your personally identifiable information, you consent to its use in accordance with this Privacy Policy, including the transfer of personally identifiable information relating to you to our computer systems in the United States. 
+Information we collect will be transferred to and processed in the United States where our central database is operated. The privacy laws of the U.S. may not be as comprehensive as the data protection laws of the European Union and elsewhere. Please be assured that we take reasonable steps to ensure that your privacy is protected and implement necessary measures on an ongoing basis to keep your personal information secure. By providing us with your personally identifiable information, you consent to its use in accordance with this Privacy Policy, including the transfer of personally identifiable information relating to you to our computer systems in the United States.
 
 ## Privacy Policy for Minors
 
-  
-We do not knowingly collect information from minors. If you are under the age of 18, we request that you do not provide any personally identifiable information to us. 
+We do not knowingly collect information from minors. If you are under the age of 18, we request that you do not provide any personally identifiable information to us.
 
 ## Updates to This Privacy Policy
 
 From time to time, we reserve the right to make updates to this Privacy Policy. We will notify you about material changes in the way we treat personally identifiable information by, for example, placing a notice on our Web site. We encourage you to periodically check back and review this Privacy Policy so that you always will know what information we collect, how we use it, and to whom we disclose it. Your continued use of our Web site following any changes to this Privacy Policy will be deemed to constitute your acceptance of such change.
 
-### How to Contact Us
+## How to Contact Us
 
-  
 If you have any questions or concerns about this Privacy Policy or its implementation, you may contact us at:   
 Teleflora LLC  
 11444 West Olympic Boulevard, 10th Floor  
@@ -113,4 +109,4 @@ Los Angeles, California 90064
 Attention: Chief Legal Officer  
 Telephone: (310) 966-5700   
 E-mail: [legalinfo@teleflora.com](mailto:legalinfo@teleflora.com)  
-© 2012 Teleflora LLC. All rights reserved.
+© 2012 Teleflora LLC. All rights reserved. 
