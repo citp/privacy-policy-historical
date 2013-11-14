@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the iihs.org privacy policy that was archived on 2013-01-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130116010059id_/http%3A//www.iihs.org/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iihs.org privacy policy that was archived on 2013-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131114132545id_/http%3A//www.iihs.org/iihs/privacy) for the most accurate reproduction.*
 
-# Privacy policy for iihs.org site
-
-* * *
+# Privacy policy
 
 Thank you for visiting the website of the Insurance Institute for Highway Safety and the Highway Loss Data Institute (collectively, the Institute). This Privacy Policy explains the Institute's online information practices.
 
@@ -22,6 +20,6 @@ The Institute uses the information that it collects to count the number of visit
 
 If you contact the Institute via email, the Institute will use your personal information (such as your name, email address, telephone number, and/or postal address) to respond to your request. The Institute does not provide your personal information to other organizations.
 
-The Institute sells its consumer videos and DVDs through an outside vendor, [2Checkout.com](https://www.2checkout.com/). 2Checkout guarantees secures sales. Please see 2Checkout.com's own [Privacy Policy](https://www.2checkout.com/privacy/) for more information. 
+The Institute sells its consumer videos and DVDs through an outside vendor, [2Checkout.com](https://www.2checkout.com/). 2Checkout guarantees secure sales. Please see 2Checkout.com's own [Privacy Policy](https://www.2checkout.com/privacy/) for more information.
 
 The Institute's website includes links to federal agencies and other highway-safety organizations. When you link to another website, you are no longer on the Institute's website or subject to the Institute's Privacy Policy. However, you will be subject to the privacy policy of the new website that you are visiting. The Institute does not endorse any information or services that these external sites offer, and only provides the links as a service to you.
