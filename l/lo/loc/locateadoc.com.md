@@ -1,14 +1,10 @@
-> *The following text is extracted and transformed from the locateadoc.com privacy policy that was archived on 2013-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130622073337id_/http%3A//www.locateadoc.com/home/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the locateadoc.com privacy policy that was archived on 2013-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131115003400id_/http%3A//www.locateadoc.com/home/privacy) for the most accurate reproduction.*
 
-# Privacy Notice
-
-[](http://privacy-policy.truste.com/click-with-confidence/ctv/en/www.locateadoc.com/seal_m)
+# Privacy Notice | LocateADoc.com
 
 Last Updated: Nov 21, 2011
 
 LocateADoc.com regards your privacy seriously. Our Privacy Policy was developed as an extension of our commitment to excellence in customer service. Our policy was designed to be easy to read and understand what we do with your information and the measures we take to ensure its security. If you have any questions after reading this, please contact us through our [feedback form](https://web.archive.org/home/feedback). **By visiting LocateADoc.com, you are accepting the practices described in this Privacy Notice.**
-
-LocateADoc, LLC has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact our Client Services Specialists through our [feedback form](https://web.archive.org/home/feedback), or by phone at (407)-206-0700 Mon-Friday 9AM-5PM EST, or by postal mail at 1080 Woodcock Road, Orlando, FL, 32803. If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint). 
 
 ## What Information About its Visitors Does LocateADoc.com Gather?
 
