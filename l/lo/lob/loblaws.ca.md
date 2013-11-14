@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the loblaws.ca privacy policy that was archived on 2013-02-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130228215721id_/http%3A//www.loblaws.ca/LCLOnline/pcPrivacyPolicy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the loblaws.ca privacy policy that was archived on 2013-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131114183432id_/http%3A//www.loblaws.ca/content/loblaws/en_CA/company-policy/privacy-policy.html) for the most accurate reproduction.*
 
-# Great Food - Privacy Policy
+# Privacy Policy
+
+[ ](https://web.archive.org/en_CA.html)
 
 At Loblaw Companies Limited, we respect your privacy and take great care in protecting your Personal Information. This policy demonstrates our commitment to your privacy. Read on to discover how your Personal Information is being protected.
 
@@ -35,7 +37,7 @@ You may withdraw your consent for certain purposes. For example, you may choose 
 
 
 
-If you have a President’s Choice Financial® or PC Financial (each referred to as “PC Financial” in this policy) product, such as a credit card account, you may withdraw consent to the sharing of Personal Information or non-personal information about your PC Financial account, such as your account or card number information, with any merchants with whom you have set up pre-authorized payments from your account.
+If you have a President’s Choice Financial® or PC Financial (each referred to as “PC Financial” in this policy) product, such as a credit card account, you may withdraw consent to the sharing of Personal Information or non-personal information about your PC Financial account, such as your account or card number information, with any merchants with whom you have set up pre-authorized payments from your account.
 
 However, because of legal or regulatory requirements that we have or contractual obligations you have with us, there are limited circumstances where you may not withdraw your consent to the collection, use or sharing of your Personal Information. For example, to obtain credit products, you are required to provide consent on your application to the collection, use and sharing of your Personal Information to allow us to obtain and to update credit reports and other credit history information about you from time to time with credit bureau agencies and other entities that support the credit reporting system. Your consent for these purposes cannot be withdrawn during the time you have credit with us and for a reasonable period of time afterwards.
 
@@ -51,11 +53,11 @@ Loblaw collects Personal Information in a variety of ways such as during the cou
 
 Loblaw collects Personal Information in the following ways:
 
-**Directly From you.** You may provide Personal Information to us in person, by mail, over the telephone, through our websites or in any other direct manner. For example, Personal Information may be collected through our monitoring and recording of communications, such as telephone calls to our call centres.
+**Directly From you.**  You may provide Personal Information to us in person, by mail, over the telephone, through our websites or in any other direct manner. For example, Personal Information may be collected through our monitoring and recording of communications, such as telephone calls to our call centres.
 
-**From Third Parties.** We may receive Personal Information from other sources. For instance, with respect to PC Financial products, services or programs, these sources may include credit reporting agencies or other financial institutions.
+**From Third Parties.**  We may receive Personal Information from other sources. For instance, with respect to PC Financial products, services or programs, these sources may include credit reporting agencies or other financial institutions.
 
-**Through Technology.** We may collect Personal Information and non-personal information through various technologies directly from you or from third parties.
+**Through Technology.**  We may collect Personal Information and non-personal information through various technologies directly from you or from third parties.
 
 _Point-of-Sale_ : We may receive non-personal information from sources such as our own and third party point-of-sale-systems and when we link that non-personal information to an identifiable individual it will become Personal Information.
 
@@ -166,11 +168,11 @@ We may also share Personal Information about you with other organizations outsid
 
 If you have a product, service or program that involves another person (e.g. a bank account that is jointly owned, or where you have a guarantor for a loan or if you add household members to your loyalty or financial account), we may share certain of your Personal Information with that person in connection with that product, service or program. In addition, if you apply for a PC Financial product, service or program, we may share your Personal Information with the financial institutions, insurance service providers, underwriters or other financial intermediaries that we work with to offer the product, service or program.
 
-**Healthcare.** When we provide you with healthcare services, we may share your Personal Information with your healthcare providers (which may also be referred to as your “circle of care”) or, with your consent, in a manner consistent with this policy. We may also share Personal Information as permitted or required by law. For example, if you fill a prescription order in one of our pharmacies, we may share Personal Information with your provincial drug benefit program, private health insurance provider, or other health claim adjudicator as necessary in order to process your claim. We also, as required by law, provide prescription-related information to regulatory authorities, government bodies and/or registries.
+**Healthcare.**  When we provide you with healthcare services, we may share your Personal Information with your healthcare providers (which may also be referred to as your “circle of care”) or, with your consent, in a manner consistent with this policy. We may also share Personal Information as permitted or required by law. For example, if you fill a prescription order in one of our pharmacies, we may share Personal Information with your provincial drug benefit program, private health insurance provider, or other health claim adjudicator as necessary in order to process your claim. We also, as required by law, provide prescription-related information to regulatory authorities, government bodies and/or registries.
 
-**Other sharing.** Canadian law permits or requires the use or sharing of Personal Information without consent in specific circumstances. These circumstances include situations when required by law or necessary to protect Loblaw, our employees, our customers, or others. Should this occur, Loblaw will not share more Personal Information than is required to fulfill that particular purpose.
+**Other sharing.**  Canadian law permits or requires the use or sharing of Personal Information without consent in specific circumstances. These circumstances include situations when required by law or necessary to protect Loblaw, our employees, our customers, or others. Should this occur, Loblaw will not share more Personal Information than is required to fulfill that particular purpose.
 
-**Sale or transfer of business.** From time to time, Loblaw may decide to sell or transfer all or part of its business to a related company or to a third party, to merge with another entity, to insure or securitize its assets, or to engage in another form of corporate or financing transaction. In addition, the manner in which products, services, programs, contests, promotions and events are provided to you, and the organization providing those products, services, programs, contests, promotions or events, may also change. If your Personal Information is required in connection with any such transactions, we will require that the parties involved, including affiliates, advisors or other service providers, agree to protect your Personal Information with policies meeting standards equivalent to those set out in this policy both during and after completion of the transaction.
+**Sale or transfer of business.**  From time to time, Loblaw may decide to sell or transfer all or part of its business to a related company or to a third party, to merge with another entity, to insure or securitize its assets, or to engage in another form of corporate or financing transaction. In addition, the manner in which products, services, programs, contests, promotions and events are provided to you, and the organization providing those products, services, programs, contests, promotions or events, may also change. If your Personal Information is required in connection with any such transactions, we will require that the parties involved, including affiliates, advisors or other service providers, agree to protect your Personal Information with policies meeting standards equivalent to those set out in this policy both during and after completion of the transaction.
 
 Similarly, the relationship between Loblaw and a third party that provides a product, service, program, contest, promotion or event under a Loblaw brand may cease. If that third party continues to provide a product, service, program, contest, promotion or event to you, your Personal Information will be subject to that third party’s privacy policy.
 
@@ -210,7 +212,7 @@ If you remain unsatisfied, you may bring the matter to the attention of the appr
 
 Loblaw encourages you to review this policy periodically. If you have any questions about how we treat your Personal Information, please contact the appropriate Privacy Office listed below.
 
-_For enquiries about retail, pharmacy, loyalty, PC ® mobile or any other general matters:_
+_For enquiries about retail, pharmacy, loyalty, PC ® mobile or any other general matters:_
 
 1 President's Choice Circle, Brampton, ON L6Y 5S5  
 [loblawprivacy@loblaw.ca](mailto:loblawprivacy@loblaw.ca)  
