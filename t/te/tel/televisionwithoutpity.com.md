@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the televisionwithoutpity.com privacy policy that was archived on 2013-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130522043902id_/http%3A//www.televisionwithoutpity.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the televisionwithoutpity.com privacy policy that was archived on 2013-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131115042945id_/http%3A//www.televisionwithoutpity.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Television Without Pity
+# Television Without Pity | TWoP
 
 ### TELEVISIONWITHOUTPITY.COM PRIVACY POLICY
 
