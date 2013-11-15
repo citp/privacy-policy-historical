@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the icanhazchat.com privacy policy that was archived on 2013-01-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130116001235id_/http%3A//www.icanhazchat.com/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the icanhazchat.com privacy policy that was archived on 2013-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131115174518id_/http%3A//www.icanhazchat.com/PrivacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -55,6 +55,8 @@ You should be aware that your information may be transferred to and/or maintaine
 The Website may contain links to third party websites and advertisements. If you choose to visit such linked websites or advertisements, by clicking on a link or a banner, you will be directed to that third party's website. The fact that such links and advertisements are posted and presented on the Website is not an endorsement or representation of any kind, of those websites or their privacy policies and practices. We assume no responsibility in any way for the privacy policies and practices of other websites and encourage you to review the privacy policies of those linked websites before using them. 
 
 We may use third-parties, known as ad-servers, to serve and target advertisements, promotions and other marketing messages, in connection with the Website. Such third parties may use technologies (such as cookies) to monitor the effectiveness of marketing campaigns. We do not control the activities of such third parties, assume no responsibility in any way for their privacy policies and practices, and encourage you to review their privacy policies. We do not provide any such third-parties with any Personal Information, without your consent. However, you should be aware that your response to certain advertisements or campaigns, targeted at specific audiences, may reveal personal information about yourself (such as age or area of residence). Such third parties may also collect and use non-identifying information about your usage of the Website. 
+
+**_March 13th 2013_ : accounts that are not-hearted may see ads from 3rd parties. If this includes you and you would like to disable tracking for your current browser, see [Ad Choices - Opt Out Cookie](http://www.lijit.com/choices) to opt-out.**
 
 ### Children
 
