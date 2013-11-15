@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spiritualresearchfoundation.org privacy policy that was archived on 2013-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130531072049id_/http%3A//www.spiritualresearchfoundation.org/articles/id/shop/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spiritualresearchfoundation.org privacy policy that was archived on 2013-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131115172712id_/http%3A//www.spiritualresearchfoundation.org/articles/id/shop/privacy) for the most accurate reproduction.*
 
 # Privacy
 
@@ -197,8 +197,6 @@ The Site contains hyperlinks to websites owned and operated by third parties tha
 ##  9 Effective Date and Modifications
 
 We reserve the right to modify this Privacy Policy at our discretion. If we decide to change our privacy policy, we will post those changes here. We encourage you to visit this section of our site regularly in order to remain informed of any changes. Changes to our Privacy Policy shall become effective as of the date they are posted to this site. Our current policy was amended on 18 February 2013.
-
-##  10 Contacting Us
 
 If you have any questions please contact us at [privacy@spiritualresearchfoundation.org](mailto:privacy@spiritualresearchfoundation.org)
 
