@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allthingssem.com privacy policy that was archived on 2013-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130430203931id_/http%3A//infolific.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allthingssem.com privacy policy that was archived on 2013-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131115192348id_/http%3A//infolific.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Infolific
 
@@ -54,15 +54,9 @@ By using this Site, you signify your acceptance of this policy and [terms of ser
 **Contacting us**
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
-[Infolific](http://infolific.com/)  
-<http://infolific.com/>  
+[Infolific.com](http://infolific.com/)  
 32 Avenue of the Americas, 16th Floor  
-New York, NY  
-10013  
+New York, NY, 10013  
 admin [at] infolific [dot] com
 
 This document was last updated on August 20, 2012.
-
-What did you think of this article?
-
-Rating: 0.0/ **5** (0 votes cast)
