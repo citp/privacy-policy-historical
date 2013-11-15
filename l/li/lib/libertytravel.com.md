@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the libertytravel.com privacy policy that was archived on 2013-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130522042323id_/http%3A//www.libertytravel.com/SecurityPolicy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the libertytravel.com privacy policy that was archived on 2013-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131116004959id_/http%3A//www.libertytravel.com/company/privacy-policy) for the most accurate reproduction.*
 
-# Privacy & Security Policy | Your Security and Privacy | Liberty Travel
+# Privacy Policy | Liberty Travel
 
 This Privacy and Security Policy ("Policy") explains how your personal information will be treated by FC USA Inc dba Liberty Travel or any of our affiliates ("we" "our" or "us"). We are firmly committed to protecting the privacy and confidentiality of personal information and we maintain robust physical, electronic and procedural safeguards to protect personal information in our care. We reserve the right to amend this Policy at any time. Your continued use of our services or those on www.libertytravel.com ("Website") following such modification will be conclusively deemed acceptance by you of any changes to this Policy. The term "Third Party" used in this Policy means any entity other than us.
 
