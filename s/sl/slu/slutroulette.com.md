@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the slutroulette.com privacy policy that was archived on 2013-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130527220227id_/http%3A//www.livefreefun.net/privacy.html%3Flangchoice%3Den) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the slutroulette.com privacy policy that was archived on 2013-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131115023530id_/http%3A//www.livefreefun.net/privacy.html%3Flangchoice%3Den) for the most accurate reproduction.*
 
-# LiveFreeFun - Privacy
+# Privacy Policy | LiveFreeFun.net
 
 [Home](http://www.livefreefun.net/) / Privacy Policy
 
@@ -47,9 +47,7 @@ If you have any questions about this Privacy Policy, please contact our customer
 
 The address for correspondence by post is
 
-Streamates Limited  
-c/o Ariel Secretaries Limited  
-196, Arch Makarios Ave, Ariel Corner,  
-1st Flr, Office 102  
-P.O. Box 57528  
-3316 Limassol - Cyprus
+ICF Technology, Inc.  
+PO Box 21508  
+Seattle, WA 98111  
+USA 
