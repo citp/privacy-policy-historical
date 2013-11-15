@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the reluctantgourmet.com privacy policy that was archived on 2013-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130516210059id_/http%3A//reluctantgourmet.com/component/content/article/2-reluctant-gourmet/75-privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reluctantgourmet.com privacy policy that was archived on 2013-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131115083723id_/http%3A//reluctantgourmet.com/component/content/article/2-reluctant-gourmet/75-privacy-statement) for the most accurate reproduction.*
 
-# The Reluctant Gourmet Cooking Guide for Cooking at Home
+# Privacy Statement | Reluctant Gourmet
 
 I have created this privacy statement in order to demonstrate my continuing commitment to the privacy of personal information provided by those visiting and interacting with this web site. I hold the privacy of your personal information in the highest regard. The following discloses my information gathering and dissemination practices for this website.
 
