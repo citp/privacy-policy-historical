@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ethicalsuperstore.com privacy policy that was archived on 2013-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130524010324id_/http%3A//www.ethicalsuperstore.com/help-privacy-and-security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ethicalsuperstore.com privacy policy that was archived on 2013-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131115140929id_/http%3A//www.ethicalsuperstore.com/help-privacy-and-security) for the most accurate reproduction.*
 
 # Help - Privacy & Security
 
