@@ -1,29 +1,7 @@
-> *The following text is extracted and transformed from the hollywoodtoday.net privacy policy that was archived on 2013-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130514235740id_/http%3A//www.hollywoodtoday.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hollywoodtoday.net privacy policy that was archived on 2013-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131115194707id_/http%3A//www.hollywoodtoday.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-**Types of Personal Information We May Collect**
-
-We may collect information you provide. We may combine that data with other information about you available from other sources. We may track your browser usage of our website through cookies or other means.
-
-We may use this data to provide, maintain, protect, and improve our services, to develop new services, to protect our rights or property and those of our users, and for other legitimate business purposes. We process data on our servers in the United States of America and possibly other countries.
-
-We don’t sell personal data or share it with affiliates. We may provide data to support law enforcement or in special circumstances to protect against harm to our rights and property or as necessary for public safety.
-
-**Information Security**
-
-We take security measures to protect against unauthorized access to data. We will make good faith efforts to provide you with access to your personal information and either to correct this data if it is inaccurate or to delete such data at your request if it is not otherwise required to be retained by law or for legitimate business purposes. Individuals must identify themselves and the information requested to be accessed, corrected or removed before processing such requests. Requests that are unreasonably burdensome may be declined, such as searching through offline backups.
-
-**Enforcement**
-
-We follow the US Safe Harbor Privacy Principles of Notice, Choice, Onward Transfer, Security, Data Integrity, Access and Enforcement.
-
-**Changes to this Privacy Policy**
-
-Please note that this Privacy Policy may change from time to time. We will not reduce your rights under this Privacy Policy without your explicit consent. We will post any Privacy Policy changes on this page, or if that’s not feasible, in another prominent location.
-
-**Questions**
-
-If you have any questions about this Privacy Policy, please feel free to [contact us](http://www.hollywoodtoday.net/hollywood-today-about-us/).
+**Types of Personal Information We May Collect** We may collect information you provide. We may combine that data with other information about you available from other sources. We may track your browser usage of our website through cookies or other means. We may use this data to provide, maintain, protect, and improve our services, to develop new services, to protect our rights or property and those of our users, and for other legitimate business purposes. We process data on our servers in the United States of America and possibly other countries. We don’t sell personal data or share it with affiliates. We may provide data to support law enforcement or in special circumstances to protect against harm to our rights and property or as necessary for public safety. **Information Security** We take security measures to protect against unauthorized access to data. We will make good faith efforts to provide you with access to your personal information and either to correct this data if it is inaccurate or to delete such data at your request if it is not otherwise required to be retained by law or for legitimate business purposes. Individuals must identify themselves and the information requested to be accessed, corrected or removed before processing such requests. Requests that are unreasonably burdensome may be declined, such as searching through offline backups. **Enforcement** We follow the US Safe Harbor Privacy Principles of Notice, Choice, Onward Transfer, Security, Data Integrity, Access and Enforcement. **Changes to this Privacy Policy** Please note that this Privacy Policy may change from time to time. We will not reduce your rights under this Privacy Policy without your explicit consent. We will post any Privacy Policy changes on this page, or if that’s not feasible, in another prominent location. **Questions** If you have any questions about this Privacy Policy, please feel free to [contact us](http://www.hollywoodtoday.net/hollywood-today-about-us/). 
 
 [1 Comment](http://www.hollywoodtoday.net/privacy-policy/#comments)
