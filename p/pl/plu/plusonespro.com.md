@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the plusonespro.com privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530205539id_/http%3A//plusonespro.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the plusonespro.com privacy policy that was archived on 2013-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131115191905id_/http%3A//plusonespro.com/info/privacy) for the most accurate reproduction.*
 
 # PlusOnesPro
 
@@ -130,24 +130,24 @@ Questions, comments and requests regarding this privacy policy are welcomed and 
 
 ### Our Pro Sites
 
-[](http://plusonespro.com/?t=8735a112a089357b106d279bd8b9c0ea&k=506a80b923ec85bad482af0f75c187ea)
+[](http://plusonespro.com/?t=481771dd868b29fa991a792769d668b0&k=945fa7f3729ff2e7978c92e40c363699)
 
 Get thousands of Google +1s.
 
-[](http://followspro.com/?t=8735a112a089357b106d279bd8b9c0ea&k=506a80b923ec85bad482af0f75c187ea)
+[](http://followspro.com/?t=481771dd868b29fa991a792769d668b0&k=945fa7f3729ff2e7978c92e40c363699)
 
 Get thousands of Twitter followers.
 
-[](http://retweetspro.com/?t=8735a112a089357b106d279bd8b9c0ea&k=506a80b923ec85bad482af0f75c187ea)
+[](http://retweetspro.com/?t=481771dd868b29fa991a792769d668b0&k=945fa7f3729ff2e7978c92e40c363699)
 
 Get thousands of Twitter retweets.
 
-[](http://likespro.com/?t=8735a112a089357b106d279bd8b9c0ea&k=506a80b923ec85bad482af0f75c187ea)
+[](http://likespro.com/?t=481771dd868b29fa991a792769d668b0&k=945fa7f3729ff2e7978c92e40c363699)
 
 Get thousands of Facebook / Youtube views and likes.
 
 ### Our Sister Site
 
-[](http://karmareviews.com/)
+[](http://karmafeedback.com/)
 
-Get positive reviews for just about anything.
+Get feedback on just about anything.
