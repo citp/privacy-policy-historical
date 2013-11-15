@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the walottery.com privacy policy that was archived on 2013-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130516233654id_/http%3A//walottery.com/Privacy/default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the walottery.com privacy policy that was archived on 2013-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131116000536id_/http%3A//www.walottery.com/Privacy/default.aspx) for the most accurate reproduction.*
 
 # Washington's Lottery -- Privacy
 
