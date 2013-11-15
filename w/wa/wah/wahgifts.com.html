@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the wahgifts.com privacy policy that was archived on 2013-05-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130507025631id_/http%3A//wahgifts.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the wahgifts.com privacy policy that was archived on 2013-11-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131115075627id_/http%3A//www.wahgifts.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://ogp.me/ns/fb#"><head>
 <base href="http://www.wahgifts.com/">
@@ -8,8 +8,19 @@
 <meta name="Author" content="WoodpeckerTechnologies.com">
 <meta name="Keywords" content="">
 <meta name="Description" content="">
-<link href="assets/css/style.css?time=1367895391" rel="stylesheet" type="text/css">
+<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+<link rel="icon" href="/favicon.ico" type="image/x-icon">
+<link href="http://fonts.googleapis.com/css?family=Baumans" rel="stylesheet" type="text/css">
+<link href="http://fonts.googleapis.com/css?family=Oswald" rel="stylesheet" type="text/css">
+<link href="assets/css/style.css?time=1384501904" rel="stylesheet" type="text/css">
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+
+<meta http-equiv="cache-control" content="max-age=0">
+<meta http-equiv="cache-control" content="no-cache">
+<meta http-equiv="expires" content="0">
+<meta http-equiv="expires" content="-1">
+<meta http-equiv="pragma" content="no-cache">
+
 	<style type="text/css">
 		body
 		{
@@ -19,23 +30,24 @@
 		a.WahGiftsLogo
 		{
 			float:left;	
-			width:493px;
-			height:128px;
+			width:230px;
+			height:54px;
 			display:block;
+			margin-top:10px;
+			margin-bottom:10px;
 			text-indent:-9999px;
-			background:url("uploads/themes/default/default-logo.gif") no-repeat;
+			background:url("wahgifts_logo_small.png") no-repeat;
 		}
 	</style>
 	<link media="only screen and (max-device-width: 480px)" href="assets/css/mstyle.css" type="text/css" rel="stylesheet">
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1&amp;appId=320454494705410"></script><script async="" charset="utf-8" src="//cdn.zopim.com/?RcExwFCMqbjKPhiP7I5Ngcm8xwCEtCRI" type="text/javascript"></script><script type="text/javascript" src="assets/js/dropdowntabs.js"></script>
-<script type="text/javascript" src="assets/js/jquery.min.js">//for slide show</script>
-<script type="text/javascript" src="assets/js/fadeslideshow.js">//for slide show</script>
-<script src="assets/js/jquery-1.7.2.js"></script>
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1&amp;appId=320454494705410"></script><script async="" charset="utf-8" src="//cdn.zopim.com/?RcExwFCMqbjKPhiP7I5Ngcm8xwCEtCRI" type="text/javascript"></script><script type="text/javascript" src="assets/js/dropdowntabs.js?t=1384501904"></script>
+<script type="text/javascript" src="assets/js/jquery-1.7.2.js"></script>
 <script type="text/javascript">
-	function getGetsValue(PageLocation)
+			var Protocol = "";		
+			function getGetsValue(PageLocation)
 	{
 		return true;
-		$.ajax({url:"dbbyajax.php?&Mode=getGetValues&PageLocation="+encodeURIComponent(PageLocation),success: function(GetValue)
+		$.ajax({url:"dbbyajax.php?&Mode=getGetValues&PageLocation="+encodeURIComponent(PageLocation)+Protocol,success: function(GetValue)
 		{
 			if(GetValue != 'Error')
 			{
@@ -66,10 +78,11 @@
 		}});
 	}
 	function LoadProducts() 
-	{ 		   
+	{
 		var RowNo			= $(".ProductContainer:last").attr("row-no");
 		var SQLCondition	= $("#SQLCondition").attr("value");
 		var GetVariables	= $("#SQLCondition").attr("GetVariables");
+		var MaxCatProducts	= $("#SQLCondition").attr("MaxCatProducts");
 		var TotalProductsListed	=	$(".ProductContainerAnchor").length;
 		
 		var LoadNoOfProductsOnScrolling =  '';
@@ -85,7 +98,7 @@
 		}
 		
 		$('div#LastProductLoader').html('<img src="assets/images/loader.gif" style="margin-top:70px; margin-bottom:70px;">');
-		$.get("dbbyajax.php","&Mode=LoadDynamicData&RowNo="+RowNo+"&SQLCondition="+SQLCondition+"&GetVariables="+GetVariables+"&TotalProductsListed="+TotalProductsListed+"&LoadNoOfProductsOnScrolling="+LoadNoOfProductsOnScrolling+"&ShowCorporatePrice="+ShowCorporatePrice,
+		$.get("dbbyajax.php","&Mode=LoadDynamicData&RowNo="+RowNo+"&SQLCondition="+SQLCondition+"&GetVariables="+GetVariables+"&MaxCatProducts="+MaxCatProducts+"&TotalProductsListed="+TotalProductsListed+"&LoadNoOfProductsOnScrolling="+LoadNoOfProductsOnScrolling+"&ShowCorporatePrice="+ShowCorporatePrice+Protocol,
 		function(data)
 		{
 			if (data != "")
@@ -93,38 +106,33 @@
 				$(".ProductContainerAnchor:last").after(data);	
 				document.getElementById('IsAjaxLoaded').value =	1;
 				
-				$("img.lazy").lazyload({
-					event: "load",
-					effect : "fadeIn"
-				});
+				ProductNameHeight();
 			}
 			$('div#LastProductLoader').empty();
 		});
 	};  
 	function LoadFeaturedProducts() 
-	{ 		   
-		var IDArr			= $(".CategoryNameStrip:last").attr("id");
-		var CatStripColorID = $(".CategoryNameStrip:last").attr("color-id");
-		var CatStripRowNo	= $(".CategoryNameStrip:last").attr("row-no");
+	{
+		var IDArr			= $(".ProductContainer:last").attr("id");
+		var CatStripColorID = $(".ProductContainer:last").attr("color-id");
+		var CatStripRowNo	= $(".ProductContainer:last").attr("row-no");
 		var ProductRowNo	= $(".ProductContainer:last").attr("row-no");
-		
-		if(IDArr != '')
+		var TotalProductsListed	=	$(".ProductContainerAnchor").length;
+
+		if(TotalProductsListed > 0)
 		{
 			IDArr	= IDArr.split('-');
 			var ID	= IDArr[1];
 						$('div#LastProductLoader').html('<img src="assets/images/loader.gif" style="margin-top:70px; margin-bottom:70px;">');
-			$.get("dbbyajax.php","&Mode=LoadDynamicFeaturedData&LastCatID="+ID+"&CatStripRowNo="+CatStripRowNo+"&CatStripColorID="+CatStripColorID+"&ProductRowNo="+ProductRowNo,
+			$.get("dbbyajax.php","&Mode=LoadDynamicFeaturedData&LastCatID="+ID+"&TotalProductsListed="+TotalProductsListed+"&CatStripRowNo="+CatStripRowNo+"&CatStripColorID="+CatStripColorID+"&ProductRowNo="+ProductRowNo+Protocol,
 			function(data)
 			{
 				if (data != "")
 				{
 					$(".ProductContainerAnchor:last").after(data);	
-					document.getElementById('IsAjaxLoaded').value	=	1;
-					
-					$("img.lazy").lazyload({
-						event: "load",
-						effect : "fadeIn"
-					});
+					document.getElementById('IsAjaxLoaded').value =	1;
+
+					ProductNameHeight();
 				}
 				$('div#LastProductLoader').empty();
 			});
@@ -187,7 +195,7 @@
 					var NonProductListingPageObj	= document.getElementById('NonProductListingPage');
 					var SkipDynamicLoadingObj		= document.getElementById('SkipDynamicLoading');
 					var IndexPageObj				= document.getElementById('IndexPage');
-					
+
 					if(NonProductListingPageObj || SkipDynamicLoadingObj)
 					{
 					}
@@ -321,17 +329,7 @@
 					}
 
 					var NonProductListingPageObj = document.getElementById('NonProductListingPage');
-					if(NonProductListingPageObj)
-					{
-					}
-					else
-					{
-						$("img.lazy").lazyload({
-							event: "load",
-							effect : "fadeIn"
-						});
-					}
-
+					
 					var IsAjaxLoadedObj = document.getElementById('IsAjaxLoaded');
 					IsAjaxLoadedObj.value = '1';
 					getGetsValue(PageLocation);
@@ -385,12 +383,6 @@
 
 					var IsAjaxLoadedObj = document.getElementById('IsAjaxLoaded');
 					IsAjaxLoadedObj.value = '1';
-
-					$("img.lazy").lazyload({
-						/*event: "scrollstop",*/
-						event: "load",
-						effect : "fadeIn"
-					});
 				}});
 				
 				if(pageurl!=window.location)
@@ -418,44 +410,58 @@
 		$(".CheckCODAvailability").colorbox({inline:true, width:"630px", height:"314px",scrolling:false,onComplete:function(){$('#CheckCODZipCode').focus();},onClosed:function(){$('#CheckCODZipCode').val('');$('#CODZipCodeAvailabilityErrorWrapper').html('');}});
 		$(".SendProductEnquiry").colorbox({inline:true, width:"440px", height:"350px",scrolling:false,onComplete:function(){SendProductEnquiryFocus();},onClosed:function(){SendProductEnquiryClear();}});
 		$("body").addClass("historypushed");
+		// you can override default options globally, so they apply to every .expander() call
+		$.expander.defaults.slicePoint = 220;
+		// simple example, using all default options unless overridden globally
+		$('div.expandable').expander({
+			userCollapseText: '[^]'  // default is 'read less'
+		});
 	});
 </script>
 <script src="assets/js/jquery.ui.core.js"></script>
 <script src="assets/js/jquery.ui.widget.js"></script>
 <script src="assets/js/jquery.ui.position.js"></script>
 <script src="assets/js/jquery.ui.autocomplete.js"></script>
-
+<script src="assets/js/jquery.expander.js"></script>
 <script>
 	$(function() {
-		var cache = {},
-			lastXhr;
-		$("#Keyword").autocomplete({
-			minLength: 1,
-			source: function( request, response ) {
-				var term = request.term;
-				if ( term in cache ) {
-					response( cache[ term ] );
-					return;
+		$( "#Keyword" )
+			.bind( "keydown", function( event ) {
+				if ( event.keyCode === $.ui.keyCode.TAB &&
+						$( this ).data( "autocomplete" ).menu.active ) {
 				}
-
-				lastXhr = $.getJSON( "search.php", request, function( data, status, xhr ) {
-					cache[ term ] = data;
-					console.debug(data);
-					if ( xhr === lastXhr ) {
-						response( data );
-					}
-				});
-			}
-		});
+			})
+			.autocomplete({
+				minLength: 2,
+				source: function( request, response ) {
+					$.getJSON( "search.php", {
+												term: request.term
+					}, response );
+				},
+				focus: function( event, ui ) {
+					$( "#Keyword" ).val( ui.item.label );
+					return false;
+				},
+				select: function( event, ui ) {
+					$( "#Keyword" ).val( ui.item.label );
+					$( "#KeywordSeoUrl" ).val( ui.item.value);
+					$('#FindRegistrySearch').submit();
+					return false;
+				}
+			})
+			.data( "autocomplete" )._renderItem = function( ul, item ) {
+				console.debug(item);
+				return $( "<li>" )
+					.data( "item.autocomplete", item )
+					.append( "<a style='cursor:pointer;'>" + item.label + "</a>" )
+					.appendTo( ul );
+			};
 	});
-
 	function GotToURL()
 	{
 		var ServerUrl = 'http://www.wahgifts.com';
 		var ServerURI = '/privacy-policy';
-		//alert(ServerUrl+ServerURI);
 		window.location.href=ServerUrl+ServerURI;
-		//RefererURL='.base64_encode("http://".$_SERVER['HTTP_HOST'].$_SERVER['REQUEST_URI']).'
 	}
 </script>
 	<!--Start of Zopim Live Chat Script-->
@@ -482,19 +488,17 @@
 		<center>
 				<div class="TopColorFullStrip"></div>
 		<div class="BlueFullStrip">
-			<div class="Container">
+			<div class="Container" style="position:relative;">
 				<span class="CallUs">Call Us : +91- 78 38 32 66 88</span>
 				<!-- <span class="CallTimings">Timings : 9:00am to 9:00pm(7 days)</span> -->
-				<span class="CallTimings" style="background:url('test_image.gif') no-repeat; background-position: center left; width:420px;">All India Shipping and COD FREE for orders above Rs. 500</span>
 				<div class="TopFBLikeButton"><fb:like href="http://www.facebook.com/WahGifts" send="false" layout="button_count" width="100" height="18" show_faces="false" font="arial" style="border:none; overflow:hidden;"></fb:like></div>
 				<div class="SignupNLoginTopLinkWrapper" style="float:right;">
-										<div id="UnLoggedInDiv" style="display:block; width:180px;">
-						<a href="#SignupContainer" class="Signup LightGrayText" title="Signup">Signup</a>
+										<div id="UnLoggedInDiv" style="float:right; display:block;">
+						<a href="#SignupContainer" class="Signup LightGrayText HeaderTopMenuBg" title="Signup">Signup</a>
 						<span class="RefundPolicy LightGrayText"> | </span>
-						<a href="#LoginContainer" class="Login LightGrayText" title="Login">Login</a>
-						<br class="clear">
+						<a href="#LoginContainer" class="Login LightGrayText HeaderTopMenuBg" title="Login">Login</a>
 					</div>
-					<div id="LoggedInDiv" style="display:none;">
+					<div id="LoggedInDiv" style="z-index:99999; float:right; display:none;">
 						<a href="javascript:void(0);" id="LoggedInUserTopMenu">
 							<span class="MyAccountPic"></span>
 							<div id="LoggedInUserEmail">
@@ -512,6 +516,46 @@
 	<li><a href="/?logout=1">Logout</a></li>
 </ul>						</div>
 					</div>
+					<div style="float:right;">
+						<span class="RefundPolicy LightGrayText"> | </span>
+						<a href="track-your-order" class="TrackYourOrder HeaderTopMenuBg" title="Track Your Order">Track Your Order</a>
+						<span class="RefundPolicy LightGrayText"> | </span>
+						<span class="MyCartContainer">
+							<a href="viewcart.php" class="AddToCart HeaderCartLink HeaderTopMenuBg"><span class="ItemsInMyCart">0</span> Item(s) in your cart</a>
+							<div class="CartInfoToolContainer">
+								<div class="CartInfoToolTopBG"></div>
+								<div class="CartInfoToolContaer">
+									<table border="0" cellpadding="0" cellspacing="0" width="100%">
+										<tbody><tr>
+											<td valign="top" align="left" width="85">
+												<div class="CartInfoToolTotalCartTitle">Cart Total : </div>
+											</td>
+											<td align="left">
+												<div class="CartInfoToolTotalPrice" style="float:left;">Rs.0</div>
+												<div class="LoadingSmall" id="CartInfoToolTotalPriceLoading" style="float:left; background:url('assets/images/loader_small_pink.gif') no-repeat;">&nbsp;</div>
+												<br class="clear">
+											</td>
+											<td align="right" width="14" valign="top">
+												<a href="javascript:void(0);" class="CloseCartInfoToolContainer"></a>
+											</td>
+										</tr>
+									</tbody></table>
+									<table border="0" cellpadding="0" cellspacing="0" width="100%" style="margin-top:5px; padding-bottom:5px;">
+										<tbody><tr>
+											<td valign="middle" align="right">
+												<a href="viewcart.php" class="CartInfoToolViewCartLink AddToCart">View Shopping Cart</a>
+											</td>
+											<td align="right">
+												<a href="checkout" class="Button Orange Small" style="padding:5px 4px 5px 4px;">CheckOut</a>
+											</td>
+										</tr>
+									</tbody></table>
+								</div>
+								<div class="CartInfoToolBottomBG"></div>
+							</div><!-- Cart Info Tool Container Closed -->
+						</span>
+					</div>
+					<br class="clear">
 				</div>
 				<!-- <a href="refund_policy" class="RefundPolicy LightGrayText">Refund Policy</a>
 				<span class="RefundPolicy LightGrayText"> | </span>
@@ -520,429 +564,710 @@
 			</div>
 		</div>
 		<div class="Container">
-				<style>
-	#ApplySearchChangesDiv
-	{
-		position:absolute;
-		z-index:999999;
-		background-color:#b5e026;
-		border:2px solid #fff;
-		border-top:0px;
-		padding:5px 10px;
-		top:11px;
-		left:400px;
-		box-shadow:  0px 4px 10px 1px #e9e9e9 #000;
-		-moz-box-shadow:  0px 4px 10px 1px #e9e9e9;
-		-o-box-shadow:  0px 4px 10px 1px #e9e9e9;
-		/*-webkit-box-shadow: 1px 0px 10px 2px rgba(0, 0, 0, 0.2);*/
-		/*-webkit-box-shadow: 0px 4px 10px 1px #e9e9e9*/
-		-webkit-box-shadow: 0px 4px 10px 1px #d1d1d1;
-		display:none;
-	}
-</style>
-				<div style="position:relative;">
-					<a href="/" class="WahGiftsLogo" title="WahGifts.com">WahGifts.com Logo</a>
-					<div class="MyCartContainer" style="z-index:1; margin-top:15px;">
-						<a href="viewcart.php" class="MyCart AddToCart">
-							<div class="ItemsInMyCart" id="ItemsInMyCart">0</div>
-						</a>							
-						<div class="CartInfoToolContainer">
-							<div class="CartInfoToolTopBG"></div>
-							<div class="CartInfoToolContaer">
-								<div class="CartInfoToolHeading">
-									You have 0 item in your cart
-								</div>
-								<table border="0" cellpadding="0" cellspacing="0" width="100%">
-									<tbody><tr>
-										<td valign="top" align="left" width="85">
-											<div class="CartInfoToolTotalCartTitle">Cart Total : </div>
-										</td>
-										<td align="left">
-											<div class="CartInfoToolTotalPrice" style="float:left;">Rs.0</div>
-											<div class="LoadingSmall" id="CartInfoToolTotalPriceLoading" style="float:left; background:url('assets/images/loader_small_pink.gif') no-repeat;">&nbsp;</div>
-											<br class="clear">
-										</td>
-										<td align="right" width="14" valign="top">
-											<a href="javascript:void(0);" class="CloseCartInfoToolContainer"></a>
-										</td>
-									</tr>
-								</tbody></table>
-								<table border="0" cellpadding="0" cellspacing="0" width="100%" style="margin-top:5px; padding-bottom:5px;">
-									<tbody><tr>
-										<td valign="middle" align="right">
-											<a href="viewcart.php" class="CartInfoToolViewCartLink AddToCart">View Shopping Cart</a>
-										</td>
-										<td align="right">
-											<a href="checkout" class="Button Blue" style="padding:5px 4px 5px 4px;">CheckOut</a>
-										</td>
-									</tr>
-								</tbody></table>
-							</div>
-							<div class="CartInfoToolBottomBG"></div>
-						</div><!-- Cart Info Tool Container Closed -->
-					</div>
-					<br class="Clear">
-				</div>
 				<style type="text/css">
-	.BottomCenter
+	.SearchStyle select 
 	{
-		/*width:292px;*/
-		width:100%;
+		/*border-radius: 5px;*/
+		padding:2px 2px;
+		margin-top:-5px;
+		color: #333;
+		height:38px;
+		font-weight: bold;
+		border:1px solid #d2d2d2;
+		border-top:2px solid #d2d2d2;
+		border-left:2px solid #d2d2d2;
+		cursor:pointer;
+		color: #5e5c5c;
+		font-family:"Baumans";
+		font-size:14px;
+		vertical-align:middle;
+	}
+	.SearchStyle option
+	{
+		vertical-align:middle;
 	}
 </style>
-<div class="NavigationBarWrapper">
-	<a href="/" class="Home" title="Home"> Home </a>
+<div>
+	<a href="/" class="WahGiftsLogo" title="Gift Shopping Portal Buy Gifts Online In India" alt="Unique Gift Ideas For Online Shopping India">WahGifts.com Logo</a>
+	<div class="SearchStyle" style="float:right; min-width:400px; margin-top:18px;">	
+		<div class="OccasionDropDown">
+			<select name="Occasion" id="Occasion">
+				<option value="">Choose an occasion</option>
+									<option value="anniversary">Anniversary</option>
+										<option value="bhai-duj">Bhai Duj</option>
+										<option value="birthday">Birthday</option>
+										<option value="brothers-day">Brother's Day</option>
+										<option value="childrens-day">Children's Day</option>
+										<option value="chocolate-day">Chocolate Day</option>
+										<option value="christmas">Christmas</option>
+										<option value="daughters-day">Daughter's Day</option>
+										<option value="dhanteras-gifts-online">Dhan Teras</option>
+										<option value="diwali-gifts">Diwali</option>
+										<option value="eid">Eid</option>
+										<option value="fathers-day-gift-collection">Father's Day</option>
+										<option value="friendship-day">Friendship Day</option>
+										<option value="gandhi-t-shirts">Gandhi Jayanti</option>
+										<option value="ganesh-chaturthi">Ganesh Chaturthi</option>
+										<option value="holi">Holi</option>
+										<option value="house-warming">House Warming</option>
+										<option value="karva-chauth">Karva Chauth</option>
+										<option value="marriage-reception">Marriage Reception</option>
+										<option value="wedding">Marriage/Wedding</option>
+										<option value="miss-u-day">Miss U Day</option>
+										<option value="mothers-day-gifts-collection">Mother's Day</option>
+										<option value="new-years">New Years</option>
+										<option value="raksha-bandhan">Raksha Bandhan</option>
+										<option value="ring-ceremony">Ring Ceremony</option>
+										<option value="roka-ceremony">Roka Ceremony</option>
+										<option value="rose-day">Rose Day</option>
+										<option value="sisters-day">Sister's Day</option>
+										<option value="sons-day">Son's Day</option>
+										<option value="sorry-day">Sorry Day</option>
+										<option value="gifts-for-teachers">Teacher's Day</option>
+										<option value="thank-you-day">Thank You Day</option>
+										<option value="valentines-day">Valentine's Day</option>
+								</select>
+		</div>
+		<div class="RelationDropDown">
+			<select name="Relation" id="Relation">
+				<option value="">Choose a relation</option>
+									<option value="aunt">Aunt</option>
+										<option value="bhabhi">Bhabhi</option>
+										<option value="boss-female">Boss-Female</option>
+										<option value="boss-male">Boss-Male</option>
+										<option value="gifts-for-boyfriends">Boyfriend</option>
+										<option value="brother-in-law">Brother-in-Law</option>
+										<option value="gifts-for-brothers">Brother/Bhai</option>
+										<option value="bua-ji">Bua Ji</option>
+										<option value="chacha-ji">Chacha Ji</option>
+										<option value="chachi-ji">Chachi Ji</option>
+										<option value="colleague-female">Colleague-Female</option>
+										<option value="colleague-male">Colleague-Male</option>
+										<option value="cousin-brother">Cousin-Brother</option>
+										<option value="cousin-sister">Cousin-Sister</option>
+										<option value="daughter-in-law">Daughter-in-Law</option>
+										<option value="daughter-or-beti">Daughter/Beti</option>
+										<option value="father-in-law">Father-in-Law</option>
+										<option value="father-dad">Father/Papa</option>
+										<option value="friend-female">Friend-Female</option>
+										<option value="friend-male">Friend-Male</option>
+										<option value="fuffar-or-fufa-ji">Fuffar/Fufa Ji</option>
+										<option value="gifts-for-girlfriends">Girl Friend</option>
+										<option value="granddaughter-or-poti-or-doti">Granddaughter/Poti/Doti</option>
+										<option value="grandfather-or-dada-or-nana">Grandfather/Dada/Nana</option>
+										<option value="grandmother-dadi-naani">Grandmother/Dadi/Naani</option>
+										<option value="grandson-or-pota-or-dota">Grandson/Pota/Dota</option>
+										<option value="husband">Husband</option>
+										<option value="jija-ji">Jija Ji</option>
+										<option value="maama-ji">Maama Ji</option>
+										<option value="maami-ji">Maami Ji</option>
+										<option value="massar-or-mausa-ji">Massar/Mausa Ji</option>
+										<option value="massi-or-mausi-ji">Massi/Mausi Ji</option>
+										<option value="mother-in-law">Mother-in-Law</option>
+										<option value="mother-mom">Mother/Maa/Mummy</option>
+										<option value="nephew">Nephew</option>
+										<option value="niece">Niece</option>
+										<option value="official-female">Official-Female</option>
+										<option value="official-male">Official-Male</option>
+										<option value="saala">Saala</option>
+										<option value="saali">Saali</option>
+										<option value="sister-in-law">Sister-in-Law</option>
+										<option value="gifts-for-sisters">Sister/Behan</option>
+										<option value="son-in-law">Son-in-Law</option>
+										<option value="son-or-beta">Son/Beta</option>
+										<option value="taya-ji">Taya Ji</option>
+										<option value="tayi-ji">Tayi Ji</option>
+										<option value="teacher">Teacher</option>
+										<option value="uncle">Uncle</option>
+										<option value="wife">Wife</option>
+								</select>
+		</div>
+		<!-- <div class="PriceRangeDropDown">
+			<select name="PriceRange" id="PriceRange" onchange="$('#ApplySearchChangesDiv').slideDown('slow');">
+				<option value="">Choose a price range</option>
+							</select>
+		</div> -->
+		<a href="javascript:void(0);" onclick="CallLoadPageFunction();" class="FindAGift" title="Find A Gift">Find A Gift</a>
+		
+		<br class="Clear">
+		<!-- <input type="button" value="Find A Gift" title="Find A Gift" class="Button Green NoRoundedEdges" style="float:left; margin-left:5px; margin-top:4px;" /> -->
+		<input type="hidden" name="Category" id="Category" value="">
+		<input type="hidden" name="PriceRange" id="PriceRange" value="">
+	</div>
+	<br class="Clear">
+</div>
+<div class="NavigationBarWrapper" style="position:relative;">
+	<a href="/" class="Home" title="Gift India"> Home </a>
 	<div class="NavigationCenter">				
-		<table border="0" cellpadding="0" cellspacing="0" align="center">
+		<table border="0" cellpadding="0" cellspacing="0" align="left">
 			<tbody><tr>
 				<td align="left" valign="top">
-					<div id="dropmenu1_a" class="dropmenudiv_a">
-						<table border="0" cellpadding="0" cellspacing="5" width="100%" onmouseover="document.getElementById('Nav1').className='selected';" onmouseout="document.getElementById('Nav1').className='';" class="DropDownBG">
-							<tbody><tr>
-							<td valign="top" align="left"><table border="0" cellpadding="0" cellspacing="5">								<tbody><tr><td valign="top"><a href="anniversary" title="Anniversary" rev="tag">Anniversary</a></td></tr>
-																<tr><td valign="top"><a href="bhai-duj" title="Bhai Duj" rev="tag">Bhai Duj</a></td></tr>
-																<tr><td valign="top"><a href="birthday" title="Birthday" rev="tag">Birthday</a></td></tr>
-																<tr><td valign="top"><a href="brothers-day" title="Brother's Day" rev="tag">Brother's Day</a></td></tr>
-																<tr><td valign="top"><a href="childrens-day" title="Children's Day" rev="tag">Children's Day</a></td></tr>
-																<tr><td valign="top"><a href="chocolate-day" title="Chocolate Day" rev="tag">Chocolate Day</a></td></tr>
-																<tr><td valign="top"><a href="christmas" title="Christmas" rev="tag">Christmas</a></td></tr>
-																<tr><td valign="top"><a href="daughters-day" title="Daughter's Day" rev="tag">Daughter's Day</a></td></tr>
-																<tr><td valign="top"><a href="diwali" title="Diwali" rev="tag">Diwali</a></td></tr>
-																<tr><td valign="top"><a href="eid" title="Eid" rev="tag">Eid</a></td></tr>
-																<tr><td valign="top"><a href="fathers-day" title="Father's Day" rev="tag">Father's Day</a></td></tr>
-								</tbody></table></td><td valign="top" align="left"><table border="0" cellpadding="0" cellspacing="5">								<tbody><tr><td valign="top"><a href="friendship-day" title="Friendship Day" rev="tag">Friendship Day</a></td></tr>
-																<tr><td valign="top"><a href="ganesh-chaturthi" title="Ganesh Chaturthi" rev="tag">Ganesh Chaturthi</a></td></tr>
-																<tr><td valign="top"><a href="holi" title="Holi" rev="tag">Holi</a></td></tr>
-																<tr><td valign="top"><a href="house-warming" title="House Warming" rev="tag">House Warming</a></td></tr>
-																<tr><td valign="top"><a href="karva-chauth" title="Karva Chauth" rev="tag">Karva Chauth</a></td></tr>
-																<tr><td valign="top"><a href="marriage" title="Marriage" rev="tag">Marriage</a></td></tr>
-																<tr><td valign="top"><a href="marriage-reception" title="Marriage Reception" rev="tag">Marriage Reception</a></td></tr>
-																<tr><td valign="top"><a href="miss-u-day" title="Miss U Day" rev="tag">Miss U Day</a></td></tr>
-																<tr><td valign="top"><a href="mothers-day" title="Mother's Day" rev="tag">Mother's Day</a></td></tr>
-																<tr><td valign="top"><a href="new-years" title="New Years" rev="tag">New Years</a></td></tr>
-																<tr><td valign="top"><a href="raksha-bandhan" title="Raksha Bandhan" rev="tag">Raksha Bandhan</a></td></tr>
-								</tbody></table></td><td valign="top" align="left"><table border="0" cellpadding="0" cellspacing="5">								<tbody><tr><td valign="top"><a href="ring-ceremony" title="Ring Ceremony" rev="tag">Ring Ceremony</a></td></tr>
-																<tr><td valign="top"><a href="roka-ceremony" title="Roka Ceremony" rev="tag">Roka Ceremony</a></td></tr>
-																<tr><td valign="top"><a href="rose-day" title="Rose Day" rev="tag">Rose Day</a></td></tr>
-																<tr><td valign="top"><a href="sisters-day" title="Sister's Day" rev="tag">Sister's Day</a></td></tr>
-																<tr><td valign="top"><a href="sons-day" title="Son's Day" rev="tag">Son's Day</a></td></tr>
-																<tr><td valign="top"><a href="sorry-day" title="Sorry Day" rev="tag">Sorry Day</a></td></tr>
-																<tr><td valign="top"><a href="teachers-day" title="Teacher's Day" rev="tag">Teacher's Day</a></td></tr>
-																<tr><td valign="top"><a href="thank-you-day" title="Thank You Day" rev="tag">Thank You Day</a></td></tr>
-																<tr><td valign="top"><a href="valentines-day" title="Valentine's Day" rev="tag">Valentine's Day</a></td></tr>
-								</tbody></table></td>							</tr>
-						</tbody></table>
-						<!-- <div onmouseover="document.getElementById('Nav1').className='selected';" onmouseout="document.getElementById('Nav1').className='';">
-							<div class="BottomLeftCorner"></div>
-							<div class="BottomCenter"></div>
-							<div class="BottomRightCorner"></div>
-							<br class="clear" />
-						</div> -->
+										<!-- <div id="dropmenu1_a" class="dropmenudiv_a">
+						<table border='0' cellpadding='0' cellspacing='0' width="100%" onmouseover="document.getElementById('Nav1').className='selected';" onmouseout="document.getElementById('Nav1').className='';" class="DropDownBG">
+							<tr>
+							<td valign='top' align='left'><table border='0' cellpadding='0' cellspacing='5'>								<tr><td valign='top' width="150px"><a href="anniversary" title="Anniversary" rev="tag">Anniversary</a></td></tr>
+																<tr><td valign='top' width="150px"><a href="bhai-duj" title="Bhai Duj" rev="tag">Bhai Duj</a></td></tr>
+																<tr><td valign='top' width="150px"><a href="birthday" title="Birthday" rev="tag">Birthday</a></td></tr>
+																<tr><td valign='top' width="150px"><a href="brothers-day" title="Brother's Day" rev="tag">Brother's Day</a></td></tr>
+																<tr><td valign='top' width="150px"><a href="childrens-day" title="Children's Day" rev="tag">Children's Day</a></td></tr>
+																<tr><td valign='top' width="150px"><a href="chocolate-day" title="Chocolate Day" rev="tag">Chocolate Day</a></td></tr>
+																<tr><td valign='top' width="150px"><a href="christmas" title="Christmas" rev="tag">Christmas</a></td></tr>
+																<tr><td valign='top' width="150px"><a href="daughters-day" title="Daughter's Day" rev="tag">Daughter's Day</a></td></tr>
+																<tr><td valign='top' width="150px"><a href="dhanteras-gifts-online" title="Dhan Teras" rev="tag">Dhan Teras</a></td></tr>
+								</table></td><td valign='top' align='left'><table border='0' cellpadding='0' cellspacing='5'>								<tr><td valign='top' width="150px"><a href="diwali-gifts" title="Diwali" rev="tag">Diwali</a></td></tr>
+																<tr><td valign='top' width="150px"><a href="eid" title="Eid" rev="tag">Eid</a></td></tr>
+																<tr><td valign='top' width="150px"><a href="fathers-day-gift-collection" title="Father's Day" rev="tag">Father's Day</a></td></tr>
+																<tr><td valign='top' width="150px"><a href="friendship-day" title="Friendship Day" rev="tag">Friendship Day</a></td></tr>
+																<tr><td valign='top' width="150px"><a href="gandhi-t-shirts" title="Gandhi Jayanti" rev="tag">Gandhi Jayanti</a></td></tr>
+																<tr><td valign='top' width="150px"><a href="ganesh-chaturthi" title="Ganesh Chaturthi" rev="tag">Ganesh Chaturthi</a></td></tr>
+																<tr><td valign='top' width="150px"><a href="holi" title="Holi" rev="tag">Holi</a></td></tr>
+																<tr><td valign='top' width="150px"><a href="house-warming" title="House Warming" rev="tag">House Warming</a></td></tr>
+																<tr><td valign='top' width="150px"><a href="karva-chauth" title="Karva Chauth" rev="tag">Karva Chauth</a></td></tr>
+								</table></td><td valign='top' align='left'><table border='0' cellpadding='0' cellspacing='5'>								<tr><td valign='top' width="150px"><a href="marriage-reception" title="Marriage Reception" rev="tag">Marriage Reception</a></td></tr>
+																<tr><td valign='top' width="150px"><a href="wedding" title="Marriage/Wedding" rev="tag">Marriage/Wedding</a></td></tr>
+																<tr><td valign='top' width="150px"><a href="miss-u-day" title="Miss U Day" rev="tag">Miss U Day</a></td></tr>
+																<tr><td valign='top' width="150px"><a href="mothers-day-gifts-collection" title="Mother's Day" rev="tag">Mother's Day</a></td></tr>
+																<tr><td valign='top' width="150px"><a href="new-years" title="New Years" rev="tag">New Years</a></td></tr>
+																<tr><td valign='top' width="150px"><a href="raksha-bandhan" title="Raksha Bandhan" rev="tag">Raksha Bandhan</a></td></tr>
+																<tr><td valign='top' width="150px"><a href="ring-ceremony" title="Ring Ceremony" rev="tag">Ring Ceremony</a></td></tr>
+																<tr><td valign='top' width="150px"><a href="roka-ceremony" title="Roka Ceremony" rev="tag">Roka Ceremony</a></td></tr>
+																<tr><td valign='top' width="150px"><a href="rose-day" title="Rose Day" rev="tag">Rose Day</a></td></tr>
+								</table></td><td valign='top' align='left'><table border='0' cellpadding='0' cellspacing='5'>								<tr><td valign='top' width="150px"><a href="sisters-day" title="Sister's Day" rev="tag">Sister's Day</a></td></tr>
+																<tr><td valign='top' width="150px"><a href="sons-day" title="Son's Day" rev="tag">Son's Day</a></td></tr>
+																<tr><td valign='top' width="150px"><a href="sorry-day" title="Sorry Day" rev="tag">Sorry Day</a></td></tr>
+																<tr><td valign='top' width="150px"><a href="gifts-for-teachers" title="Teacher's Day" rev="tag">Teacher's Day</a></td></tr>
+																<tr><td valign='top' width="150px"><a href="thank-you-day" title="Thank You Day" rev="tag">Thank You Day</a></td></tr>
+																<tr><td valign='top' width="150px"><a href="valentines-day" title="Valentine's Day" rev="tag">Valentine's Day</a></td></tr>
+								</table></td>							</tr>
+						</table>
 					</div>
 					<div id="dropmenu2_a" class="dropmenudiv_a">
-						<table border="0" cellpadding="0" cellspacing="5" width="100%" onmouseover="document.getElementById('Nav2').className='selected';" onmouseout="document.getElementById('Nav2').className='';" class="DropDownBG">
-							<tbody><tr>
-							<td valign="top" align="left"><table border="0" cellpadding="0" cellspacing="5">								<tbody><tr><td class="Value"><a href="aunt" title="Aunt" rev="tag">Aunt</a></td></tr>
-																<tr><td class="Value"><a href="bhabhi" title="Bhabhi" rev="tag">Bhabhi</a></td></tr>
-																<tr><td class="Value"><a href="boss-female" title="Boss-Female" rev="tag">Boss-Female</a></td></tr>
-																<tr><td class="Value"><a href="boss-male" title="Boss-Male" rev="tag">Boss-Male</a></td></tr>
-																<tr><td class="Value"><a href="boyfriend" title="Boyfriend" rev="tag">Boyfriend</a></td></tr>
-																<tr><td class="Value"><a href="brother-in-law" title="Brother-in-Law" rev="tag">Brother-in-Law</a></td></tr>
-																<tr><td class="Value"><a href="brother-or-bhai" title="Brother/Bhai" rev="tag">Brother/Bhai</a></td></tr>
-																<tr><td class="Value"><a href="bua-ji" title="Bua Ji" rev="tag">Bua Ji</a></td></tr>
-																<tr><td class="Value"><a href="chacha-ji" title="Chacha Ji" rev="tag">Chacha Ji</a></td></tr>
-																<tr><td class="Value"><a href="chachi-ji" title="Chachi Ji" rev="tag">Chachi Ji</a></td></tr>
-																<tr><td class="Value"><a href="colleague-female" title="Colleague-Female" rev="tag">Colleague-Female</a></td></tr>
-																<tr><td class="Value"><a href="colleague-male" title="Colleague-Male" rev="tag">Colleague-Male</a></td></tr>
-																<tr><td class="Value"><a href="cousin-brother" title="Cousin-Brother" rev="tag">Cousin-Brother</a></td></tr>
-																<tr><td class="Value"><a href="cousin-sister" title="Cousin-Sister" rev="tag">Cousin-Sister</a></td></tr>
-																<tr><td class="Value"><a href="daughter-in-law" title="Daughter-in-Law" rev="tag">Daughter-in-Law</a></td></tr>
-																<tr><td class="Value"><a href="daughter-or-beti" title="Daughter/Beti" rev="tag">Daughter/Beti</a></td></tr>
-								</tbody></table></td><td valign="top" align="left"><table border="0" cellpadding="0" cellspacing="5">								<tbody><tr><td class="Value"><a href="father-in-law" title="Father-in-Law" rev="tag">Father-in-Law</a></td></tr>
-																<tr><td class="Value"><a href="father-or-papa" title="Father/Papa" rev="tag">Father/Papa</a></td></tr>
-																<tr><td class="Value"><a href="friend-female" title="Friend-Female" rev="tag">Friend-Female</a></td></tr>
-																<tr><td class="Value"><a href="friend-male" title="Friend-Male" rev="tag">Friend-Male</a></td></tr>
-																<tr><td class="Value"><a href="fuffar-or-fufa-ji" title="Fuffar/Fufa Ji" rev="tag">Fuffar/Fufa Ji</a></td></tr>
-																<tr><td class="Value"><a href="girl-friend" title="Girl Friend" rev="tag">Girl Friend</a></td></tr>
-																<tr><td class="Value"><a href="granddaughter-or-poti-or-doti" title="Granddaughter/Poti/Doti" rev="tag">Granddaughter/Poti/Doti</a></td></tr>
-																<tr><td class="Value"><a href="grandfather-or-dada-or-nana" title="Grandfather/Dada/Nana" rev="tag">Grandfather/Dada/Nana</a></td></tr>
-																<tr><td class="Value"><a href="grandmother-or-dadi-or-naani" title="Grandmother/Dadi/Naani" rev="tag">Grandmother/Dadi/Naani</a></td></tr>
-																<tr><td class="Value"><a href="grandson-or-pota-or-dota" title="Grandson/Pota/Dota" rev="tag">Grandson/Pota/Dota</a></td></tr>
-																<tr><td class="Value"><a href="husband" title="Husband" rev="tag">Husband</a></td></tr>
-																<tr><td class="Value"><a href="jija-ji" title="Jija Ji" rev="tag">Jija Ji</a></td></tr>
-																<tr><td class="Value"><a href="maama-ji" title="Maama Ji" rev="tag">Maama Ji</a></td></tr>
-																<tr><td class="Value"><a href="maami-ji" title="Maami Ji" rev="tag">Maami Ji</a></td></tr>
-																<tr><td class="Value"><a href="massar-or-mausa-ji" title="Massar/Mausa Ji" rev="tag">Massar/Mausa Ji</a></td></tr>
-																<tr><td class="Value"><a href="massi-or-mausi-ji" title="Massi/Mausi Ji" rev="tag">Massi/Mausi Ji</a></td></tr>
-								</tbody></table></td><td valign="top" align="left"><table border="0" cellpadding="0" cellspacing="5">								<tbody><tr><td class="Value"><a href="mother-or-maa-or-mummy" title="Mother/Maa/Mummy" rev="tag">Mother/Maa/Mummy</a></td></tr>
-																<tr><td class="Value"><a href="nephew" title="Nephew" rev="tag">Nephew</a></td></tr>
-																<tr><td class="Value"><a href="niece" title="Niece" rev="tag">Niece</a></td></tr>
-																<tr><td class="Value"><a href="official-female" title="Official-Female" rev="tag">Official-Female</a></td></tr>
-																<tr><td class="Value"><a href="official-male" title="Official-Male" rev="tag">Official-Male</a></td></tr>
-																<tr><td class="Value"><a href="saala" title="Saala" rev="tag">Saala</a></td></tr>
-																<tr><td class="Value"><a href="saali" title="Saali" rev="tag">Saali</a></td></tr>
-																<tr><td class="Value"><a href="sister-in-law" title="Sister-in-Law" rev="tag">Sister-in-Law</a></td></tr>
-																<tr><td class="Value"><a href="sister-or-behan" title="Sister/Behan" rev="tag">Sister/Behan</a></td></tr>
-																<tr><td class="Value"><a href="son-in-law" title="Son-in-Law" rev="tag">Son-in-Law</a></td></tr>
-																<tr><td class="Value"><a href="son-or-beta" title="Son/Beta" rev="tag">Son/Beta</a></td></tr>
-																<tr><td class="Value"><a href="taya-ji" title="Taya Ji" rev="tag">Taya Ji</a></td></tr>
-																<tr><td class="Value"><a href="tayi-ji" title="Tayi Ji" rev="tag">Tayi Ji</a></td></tr>
-																<tr><td class="Value"><a href="teacher" title="Teacher" rev="tag">Teacher</a></td></tr>
-																<tr><td class="Value"><a href="uncle" title="Uncle" rev="tag">Uncle</a></td></tr>
-																<tr><td class="Value"><a href="wife" title="Wife" rev="tag">Wife</a></td></tr>
-								</tbody></table></td>							</tr>
-						</tbody></table>
-						<!-- <div onmouseover="document.getElementById('Nav2').className='selected';" onmouseout="document.getElementById('Nav2').className='';">
-							<div class="BottomLeftCorner"></div>
-							<div class="BottomCenter"></div>
-							<div class="BottomRightCorner"></div>
-							<br class="clear" />
-						</div> -->
-					</div>
-					<div id="dropmenu3_a" class="dropmenudiv_a">
-						<table border="0" cellpadding="0" cellspacing="0" width="100%" onmouseover="document.getElementById('Nav3').className='selected';" onmouseout="document.getElementById('Nav3').className='';" class="DropDownBG">
-							<tbody><tr>
-							<td valign="top" align="left"><table border="0" cellpadding="0" cellspacing="5">								<tbody><tr><td class="Value"><a href="apparels-men" title="Apparels - Men" rev="tag">Apparels - Men</a></td></tr>
-																<tr><td class="Value"><a href="apparels-women" title="Apparels - Women" rev="tag">Apparels - Women</a></td></tr>
-																<tr><td class="Value"><a href="bags" title="Bags" rev="tag">Bags</a></td></tr>
-																<tr><td class="Value"><a href="body-and-skin-care" title="Body &amp; Skin Care" rev="tag">Body &amp; Skin Care</a></td></tr>
-																<tr><td class="Value"><a href="boxes" title="Boxes" rev="tag">Boxes</a></td></tr>
-																<tr><td class="Value"><a href="candles-or-diyas" title="Candles/Diyas" rev="tag">Candles/Diyas</a></td></tr>
-																<tr><td class="Value"><a href="car-accessories" title="Car Accessories" rev="tag">Car Accessories</a></td></tr>
-																<tr><td class="Value"><a href="chocolates" title="Chocolates" rev="tag">Chocolates</a></td></tr>
-																<tr><td class="Value"><a href="coasters" title="Coasters" rev="tag">Coasters</a></td></tr>
-																<tr><td class="Value"><a href="crockery" title="Crockery" rev="tag">Crockery</a></td></tr>
-																<tr><td class="Value"><a href="decorating-pieces" title="Decorating Pieces" rev="tag">Decorating Pieces</a></td></tr>
-								</tbody></table></td><td valign="top" align="left"><table border="0" cellpadding="0" cellspacing="5">								<tbody><tr><td class="Value"><a href="dining-and-bar" title="Dining &amp; Bar" rev="tag">Dining &amp; Bar</a></td></tr>
-																<tr><td class="Value"><a href="door-mats" title="Door Mats" rev="tag">Door Mats</a></td></tr>
-																<tr><td class="Value"><a href="eye-wear" title="Eye Wear" rev="tag">Eye Wear</a></td></tr>
-																<tr><td class="Value"><a href="footwear" title="Footwear" rev="tag">Footwear</a></td></tr>
-																<tr><td class="Value"><a href="fragrances" title="Fragrances" rev="tag">Fragrances</a></td></tr>
-																<tr><td class="Value"><a href="gents-wallets" title="Gents Wallets" rev="tag">Gents Wallets</a></td></tr>
-																<tr><td class="Value"><a href="gift-items" title="Gift Items" rev="tag">Gift Items</a></td></tr>
-																<tr><td class="Value"><a href="handbags-or-clutches-or-purses" title="Handbags/clutches/purses" rev="tag">Handbags/clutches/purses</a></td></tr>
-																<tr><td class="Value"><a href="handicrafts" title="Handicrafts" rev="tag">Handicrafts</a></td></tr>
-																<tr><td class="Value"><a href="home-appliances" title="Home Appliances" rev="tag">Home Appliances</a></td></tr>
-																<tr><td class="Value"><a href="home-decor" title="Home Decor" rev="tag">Home Decor</a></td></tr>
-								</tbody></table></td><td valign="top" align="left"><table border="0" cellpadding="0" cellspacing="5">								<tbody><tr><td class="Value"><a href="home-furnishings" title="Home Furnishings" rev="tag">Home Furnishings</a></td></tr>
-																<tr><td class="Value"><a href="idols-and-sculptures" title="Idols &amp; Sculptures" rev="tag">Idols &amp; Sculptures</a></td></tr>
-																<tr><td class="Value"><a href="jewellery" title="Jewellery" rev="tag">Jewellery</a></td></tr>
-																<tr><td class="Value"><a href="kids" title="Kids" rev="tag">Kids</a></td></tr>
-																<tr><td class="Value"><a href="kitchenware" title="Kitchenware" rev="tag">Kitchenware</a></td></tr>
-																<tr><td class="Value"><a href="ladies-wallet" title="Ladies Wallet" rev="tag">Ladies Wallet</a></td></tr>
-																<tr><td class="Value"><a href="laptop-bag" title="Laptop Bag" rev="tag">Laptop Bag</a></td></tr>
-																<tr><td class="Value"><a href="mens-accessories" title="Men's Accessories" rev="tag">Men's Accessories</a></td></tr>
-																<tr><td class="Value"><a href="mobiles" title="Mobiles" rev="tag">Mobiles</a></td></tr>
-																<tr><td class="Value"><a href="mugs" title="Mugs" rev="tag">Mugs</a></td></tr>
-																<tr><td class="Value"><a href="paintings" title="Paintings" rev="tag">Paintings</a></td></tr>
-								</tbody></table></td><td valign="top" align="left"><table border="0" cellpadding="0" cellspacing="5">								<tbody><tr><td class="Value"><a href="photo-frames" title="Photo Frames" rev="tag">Photo Frames</a></td></tr>
-																<tr><td class="Value"><a href="purse" title="Purse" rev="tag">Purse</a></td></tr>
-																<tr><td class="Value"><a href="stationery" title="Stationery" rev="tag">Stationery</a></td></tr>
-																<tr><td class="Value"><a href="trays" title="Trays" rev="tag">Trays</a></td></tr>
-																<tr><td class="Value"><a href="utilities" title="Utilities" rev="tag">Utilities</a></td></tr>
-																<tr><td class="Value"><a href="wall-clocks" title="Wall Clocks" rev="tag">Wall Clocks</a></td></tr>
-																<tr><td class="Value"><a href="watches" title="Watches" rev="tag">Watches</a></td></tr>
-																<tr><td class="Value"><a href="wedding-accessories" title="Wedding Accessories" rev="tag">Wedding Accessories</a></td></tr>
-								</tbody></table></td>							</tr>
-						</tbody></table>
-					</div>
+						<table border='0' cellpadding='0' cellspacing='0' width="100%" onmouseover="document.getElementById('Nav2').className='selected';" onmouseout="document.getElementById('Nav2').className='';" class="DropDownBG">
+							<tr>
+							<td valign='top' align='left'><table border='0' cellpadding='0' cellspacing='5'>								<tr><td class="Value" width="180px"><a href="aunt" title="Aunt" rev="tag">Aunt</a></td></tr>
+																<tr><td class="Value" width="180px"><a href="bhabhi" title="Bhabhi" rev="tag">Bhabhi</a></td></tr>
+																<tr><td class="Value" width="180px"><a href="boss-female" title="Boss-Female" rev="tag">Boss-Female</a></td></tr>
+																<tr><td class="Value" width="180px"><a href="boss-male" title="Boss-Male" rev="tag">Boss-Male</a></td></tr>
+																<tr><td class="Value" width="180px"><a href="gifts-for-boyfriends" title="Boyfriend" rev="tag">Boyfriend</a></td></tr>
+																<tr><td class="Value" width="180px"><a href="brother-in-law" title="Brother-in-Law" rev="tag">Brother-in-Law</a></td></tr>
+																<tr><td class="Value" width="180px"><a href="gifts-for-brothers" title="Brother/Bhai" rev="tag">Brother/Bhai</a></td></tr>
+																<tr><td class="Value" width="180px"><a href="bua-ji" title="Bua Ji" rev="tag">Bua Ji</a></td></tr>
+																<tr><td class="Value" width="180px"><a href="chacha-ji" title="Chacha Ji" rev="tag">Chacha Ji</a></td></tr>
+																<tr><td class="Value" width="180px"><a href="chachi-ji" title="Chachi Ji" rev="tag">Chachi Ji</a></td></tr>
+								</table></td><td valign='top' align='left'><table border='0' cellpadding='0' cellspacing='5'>								<tr><td class="Value" width="180px"><a href="colleague-female" title="Colleague-Female" rev="tag">Colleague-Female</a></td></tr>
+																<tr><td class="Value" width="180px"><a href="colleague-male" title="Colleague-Male" rev="tag">Colleague-Male</a></td></tr>
+																<tr><td class="Value" width="180px"><a href="cousin-brother" title="Cousin-Brother" rev="tag">Cousin-Brother</a></td></tr>
+																<tr><td class="Value" width="180px"><a href="cousin-sister" title="Cousin-Sister" rev="tag">Cousin-Sister</a></td></tr>
+																<tr><td class="Value" width="180px"><a href="daughter-in-law" title="Daughter-in-Law" rev="tag">Daughter-in-Law</a></td></tr>
+																<tr><td class="Value" width="180px"><a href="daughter-or-beti" title="Daughter/Beti" rev="tag">Daughter/Beti</a></td></tr>
+																<tr><td class="Value" width="180px"><a href="father-in-law" title="Father-in-Law" rev="tag">Father-in-Law</a></td></tr>
+																<tr><td class="Value" width="180px"><a href="father-dad" title="Father/Papa" rev="tag">Father/Papa</a></td></tr>
+																<tr><td class="Value" width="180px"><a href="friend-female" title="Friend-Female" rev="tag">Friend-Female</a></td></tr>
+																<tr><td class="Value" width="180px"><a href="friend-male" title="Friend-Male" rev="tag">Friend-Male</a></td></tr>
+								</table></td><td valign='top' align='left'><table border='0' cellpadding='0' cellspacing='5'>								<tr><td class="Value" width="180px"><a href="fuffar-or-fufa-ji" title="Fuffar/Fufa Ji" rev="tag">Fuffar/Fufa Ji</a></td></tr>
+																<tr><td class="Value" width="180px"><a href="gifts-for-girlfriends" title="Girl Friend" rev="tag">Girl Friend</a></td></tr>
+																<tr><td class="Value" width="180px"><a href="granddaughter-or-poti-or-doti" title="Granddaughter/Poti/Doti" rev="tag">Granddaughter/Poti/Doti</a></td></tr>
+																<tr><td class="Value" width="180px"><a href="grandfather-or-dada-or-nana" title="Grandfather/Dada/Nana" rev="tag">Grandfather/Dada/Nana</a></td></tr>
+																<tr><td class="Value" width="180px"><a href="grandmother-dadi-naani" title="Grandmother/Dadi/Naani" rev="tag">Grandmother/Dadi/Naani</a></td></tr>
+																<tr><td class="Value" width="180px"><a href="grandson-or-pota-or-dota" title="Grandson/Pota/Dota" rev="tag">Grandson/Pota/Dota</a></td></tr>
+																<tr><td class="Value" width="180px"><a href="husband" title="Husband" rev="tag">Husband</a></td></tr>
+																<tr><td class="Value" width="180px"><a href="jija-ji" title="Jija Ji" rev="tag">Jija Ji</a></td></tr>
+																<tr><td class="Value" width="180px"><a href="maama-ji" title="Maama Ji" rev="tag">Maama Ji</a></td></tr>
+																<tr><td class="Value" width="180px"><a href="maami-ji" title="Maami Ji" rev="tag">Maami Ji</a></td></tr>
+								</table></td><td valign='top' align='left'><table border='0' cellpadding='0' cellspacing='5'>								<tr><td class="Value" width="180px"><a href="massar-or-mausa-ji" title="Massar/Mausa Ji" rev="tag">Massar/Mausa Ji</a></td></tr>
+																<tr><td class="Value" width="180px"><a href="massi-or-mausi-ji" title="Massi/Mausi Ji" rev="tag">Massi/Mausi Ji</a></td></tr>
+																<tr><td class="Value" width="180px"><a href="mother-in-law" title="Mother-in-Law" rev="tag">Mother-in-Law</a></td></tr>
+																<tr><td class="Value" width="180px"><a href="mother-mom" title="Mother/Maa/Mummy" rev="tag">Mother/Maa/Mummy</a></td></tr>
+																<tr><td class="Value" width="180px"><a href="nephew" title="Nephew" rev="tag">Nephew</a></td></tr>
+																<tr><td class="Value" width="180px"><a href="niece" title="Niece" rev="tag">Niece</a></td></tr>
+																<tr><td class="Value" width="180px"><a href="official-female" title="Official-Female" rev="tag">Official-Female</a></td></tr>
+																<tr><td class="Value" width="180px"><a href="official-male" title="Official-Male" rev="tag">Official-Male</a></td></tr>
+																<tr><td class="Value" width="180px"><a href="saala" title="Saala" rev="tag">Saala</a></td></tr>
+																<tr><td class="Value" width="180px"><a href="saali" title="Saali" rev="tag">Saali</a></td></tr>
+								</table></td><td valign='top' align='left'><table border='0' cellpadding='0' cellspacing='5'>								<tr><td class="Value" width="180px"><a href="sister-in-law" title="Sister-in-Law" rev="tag">Sister-in-Law</a></td></tr>
+																<tr><td class="Value" width="180px"><a href="gifts-for-sisters" title="Sister/Behan" rev="tag">Sister/Behan</a></td></tr>
+																<tr><td class="Value" width="180px"><a href="son-in-law" title="Son-in-Law" rev="tag">Son-in-Law</a></td></tr>
+																<tr><td class="Value" width="180px"><a href="son-or-beta" title="Son/Beta" rev="tag">Son/Beta</a></td></tr>
+																<tr><td class="Value" width="180px"><a href="taya-ji" title="Taya Ji" rev="tag">Taya Ji</a></td></tr>
+																<tr><td class="Value" width="180px"><a href="tayi-ji" title="Tayi Ji" rev="tag">Tayi Ji</a></td></tr>
+																<tr><td class="Value" width="180px"><a href="teacher" title="Teacher" rev="tag">Teacher</a></td></tr>
+																<tr><td class="Value" width="180px"><a href="uncle" title="Uncle" rev="tag">Uncle</a></td></tr>
+																<tr><td class="Value" width="180px"><a href="wife" title="Wife" rev="tag">Wife</a></td></tr>
+								</table></td>							</tr>
+						</table>
+					</div> -->
+												<ul id="dropmenu3_a" class="DropDownMenu">
+															<li>
+									<a href="bags-and-wallets" title="Bags &amp; Wallets" rev="tag" rel="dropmenu263_b">Bags &amp; Wallets <img src="assets/images/arrow-right.png" border="0" align="right" style="margin-top:4px;"></a>
+																			<ul>
+																							<li><a href="women-purses-handbags" title="Women Purses &amp; Handbags" rev="tag">Women Purses &amp; Handbags<img src="assets/images/arrow-right.png" border="0" align="right" style="margin-top:4px;"></a>
+																									<ul>
+																											<li><a href="women-handbags" title="Women Handbags" rev="tag">Women Handbags</a></li>
+																												<li><a href="women-wallets" title="Wallets For Women" rev="tag">Wallets For Women</a></li>
+																												<li><a href="clutches" title="Clutches" rev="tag">Clutches</a></li>
+																												<li><a href="pouches" title="Pouches" rev="tag">Pouches</a></li>
+																											</ul>
+													 
+												</li>
+																								<li><a href="mens-wallets" title="Men Wallets" rev="tag">Men Wallets</a>
+												 
+												</li>
+																								<li><a href="laptop-bags" title="Laptop Bags" rev="tag">Laptop Bags</a>
+												 
+												</li>
+																						</ul>
+																		</li>
+																<li>
+									<a href="beauty-personal-care" title="Beauty &amp; Personal Care" rev="tag" rel="dropmenu231_b">Beauty &amp; Personal Care <img src="assets/images/arrow-right.png" border="0" align="right" style="margin-top:4px;"></a>
+																			<ul>
+																							<li><a href="unisex-beauty-care" title="Unisex Care" rev="tag">Unisex Care<img src="assets/images/arrow-right.png" border="0" align="right" style="margin-top:4px;"></a>
+																									<ul>
+																											<li><a href="creams-lotions" title="Creams &amp; Lotions" rev="tag">Creams &amp; Lotions</a></li>
+																												<li><a href="face-wash-packs" title="Face Wash And Packs" rev="tag">Face Wash And Packs</a></li>
+																											</ul>
+													 
+												</li>
+																						</ul>
+																		</li>
+																<li>
+									<a href="car-accessories" title="Car Accessories" rev="tag">Car Accessories </a>
+																	</li>
+																<li>
+									<a href="clothing-accessories" title="Clothing &amp; Accessories" rev="tag" rel="dropmenu188_b">Clothing &amp; Accessories <img src="assets/images/arrow-right.png" border="0" align="right" style="margin-top:4px;"></a>
+																			<ul>
+																							<li><a href="men-clothing" title="Men Clothing" rev="tag">Men Clothing<img src="assets/images/arrow-right.png" border="0" align="right" style="margin-top:4px;"></a>
+																									<ul>
+																											<li><a href="funny-boxers" title="Funny Boxers" rev="tag">Funny Boxers</a></li>
+																												<li><a href="men-t-shirts" title="Men T-Shirts" rev="tag">Men T-Shirts</a></li>
+																												<li><a href="men-jeans" title="Jeans For Men" rev="tag">Jeans For Men</a></li>
+																												<li><a href="pyjamas" title="Funny Pyjamas" rev="tag">Funny Pyjamas</a></li>
+																												<li><a href="men-kurta-pyjamas" title="Kurta Pyjamas" rev="tag">Kurta Pyjamas</a></li>
+																												<li><a href="unstitched-fabrics" title="Unstitched Fabrics" rev="tag">Unstitched Fabrics</a></li>
+																												<li><a href="funny-t-shirts" title="Funny T-Shirts" rev="tag">Funny T-Shirts</a></li>
+																											</ul>
+													 
+												</li>
+																								<li><a href="women-clothing" title="Women Clothing" rev="tag">Women Clothing<img src="assets/images/arrow-right.png" border="0" align="right" style="margin-top:4px;"></a>
+																									<ul>
+																											<li><a href="women-t-shirts" title="T-Shirts For Women" rev="tag">T-Shirts For Women</a></li>
+																												<li><a href="sarees" title="Sarees" rev="tag">Sarees</a></li>
+																												<li><a href="women-kurtis" title="Kurtis" rev="tag">Kurtis</a></li>
+																											</ul>
+													 
+												</li>
+																								<li><a href="men-accessories" title="Men Accessories" rev="tag">Men Accessories<img src="assets/images/arrow-right.png" border="0" align="right" style="margin-top:4px;"></a>
+																									<ul>
+																											<li><a href="cufflinks" title="Cufflinks" rev="tag">Cufflinks</a></li>
+																												<li><a href="belts-for-men" title="Belts For Men" rev="tag">Belts For Men</a></li>
+																												<li><a href="lighters" title="Lighters" rev="tag">Lighters</a></li>
+																												<li><a href="men-ties-cufflinks" title="Ties &amp; Cufflinks Combo" rev="tag">Ties &amp; Cufflinks Combo</a></li>
+																											</ul>
+													 
+												</li>
+																								<li><a href="women-accessories" title="Women Accessories" rev="tag">Women Accessories<img src="assets/images/arrow-right.png" border="0" align="right" style="margin-top:4px;"></a>
+																									<ul>
+																											<li><a href="belts-for-women" title="Belts For Women" rev="tag">Belts For Women</a></li>
+																											</ul>
+													 
+												</li>
+																						</ul>
+																		</li>
+																<li>
+									<a href="electronic-gadgets" title="Electronics" rev="tag" rel="dropmenu150_b">Electronics <img src="assets/images/arrow-right.png" border="0" align="right" style="margin-top:4px;"></a>
+																			<ul>
+																							<li><a href="mobiles" title="Mobiles" rev="tag">Mobiles</a>
+												 
+												</li>
+																								<li><a href="speakers" title="Speakers" rev="tag">Speakers</a>
+												 
+												</li>
+																								<li><a href="tablets" title="Tablets" rev="tag">Tablets</a>
+												 
+												</li>
+																								<li><a href="cameras" title="Cameras" rev="tag">Cameras</a>
+												 
+												</li>
+																						</ul>
+																		</li>
+																<li>
+									<a href="footwear" title="Footwear" rev="tag" rel="dropmenu113_b">Footwear <img src="assets/images/arrow-right.png" border="0" align="right" style="margin-top:4px;"></a>
+																			<ul>
+																							<li><a href="womens-footwear" title="Women's Footwear" rev="tag">Women's Footwear</a>
+												 
+												</li>
+																								<li><a href="mens-footwear" title="Mens Footwear" rev="tag">Mens Footwear</a>
+												 
+												</li>
+																						</ul>
+																		</li>
+																<li>
+									<a href="funny-gifts" title="Funny Gifts" rev="tag" rel="dropmenu278_b">Funny Gifts <img src="assets/images/arrow-right.png" border="0" align="right" style="margin-top:4px;"></a>
+																			<ul>
+																							<li><a href="funny-boxers" title="Funny Boxers" rev="tag">Funny Boxers</a>
+												 
+												</li>
+																								<li><a href="funny-t-shirts" title="Funny T-Shirts" rev="tag">Funny T-Shirts</a>
+												 
+												</li>
+																								<li><a href="pyjamas" title="Funny Pyjamas" rev="tag">Funny Pyjamas</a>
+												 
+												</li>
+																								<li><a href="bar-accessories" title="Bar Accessories" rev="tag">Bar Accessories</a>
+												 
+												</li>
+																						</ul>
+																		</li>
+																<li>
+									<a href="gift-boxes" title="Gift Boxes" rev="tag" rel="dropmenu215_b">Gift Boxes <img src="assets/images/arrow-right.png" border="0" align="right" style="margin-top:4px;"></a>
+																			<ul>
+																							<li><a href="wine-boxes" title="Wine Boxes" rev="tag">Wine Boxes</a>
+												 
+												</li>
+																								<li><a href="chocolate-boxes" title="Chocolate Boxes" rev="tag">Chocolate Boxes</a>
+												 
+												</li>
+																						</ul>
+																		</li>
+																<li>
+									<a href="home-kitchen" title="Home &amp; Kitchen" rev="tag" rel="dropmenu201_b">Home &amp; Kitchen <img src="assets/images/arrow-right.png" border="0" align="right" style="margin-top:4px;"></a>
+																			<ul>
+																							<li><a href="home-decor" title="Home Decor" rev="tag">Home Decor<img src="assets/images/arrow-right.png" border="0" align="right" style="margin-top:4px;"></a>
+																									<ul>
+																											<li><a href="candles" title="Candles" rev="tag">Candles</a></li>
+																												<li><a href="wall-hangings" title="Wall Hangings" rev="tag">Wall Hangings</a></li>
+																												<li><a href="decorative-diyas" title="Diyas" rev="tag">Diyas</a></li>
+																												<li><a href="vase-fillers" title="Vase Fillers" rev="tag">Vase Fillers</a></li>
+																												<li><a href="candle-stands" title="Candle Stands" rev="tag">Candle Stands</a></li>
+																												<li><a href="flower-vase-pots" title="Vases" rev="tag">Vases</a></li>
+																												<li><a href="key-holders" title="Key Holders" rev="tag">Key Holders</a></li>
+																												<li><a href="decorative-flowers" title="Decorative Flowers" rev="tag">Decorative Flowers</a></li>
+																												<li><a href="wall-clocks" title="Wall Clocks" rev="tag">Wall Clocks</a></li>
+																												<li><a href="photo-picture-frames" title="Photo Frames" rev="tag">Photo Frames</a></li>
+																												<li><a href="paintings" title="Paintings" rev="tag">Paintings</a></li>
+																												<li><a href="showpieces" title="Showpieces" rev="tag">Showpieces</a></li>
+																												<li><a href="lamps" title="Lamps" rev="tag">Lamps</a></li>
+																											</ul>
+													 
+												</li>
+																								<li><a href="home-appliances" title="Home Appliances" rev="tag">Home Appliances</a>
+												 
+												</li>
+																								<li><a href="home-furnishings" title="Home Furnishing" rev="tag">Home Furnishing<img src="assets/images/arrow-right.png" border="0" align="right" style="margin-top:4px;"></a>
+																									<ul>
+																											<li><a href="door-mats" title="Door Mats" rev="tag">Door Mats</a></li>
+																												<li><a href="bed-sheets" title="Bed Sheets" rev="tag">Bed Sheets</a></li>
+																												<li><a href="cushion-covers" title="Cushion Covers" rev="tag">Cushion Covers</a></li>
+																												<li><a href="pillow-covers" title="Pillow Covers" rev="tag">Pillow Covers</a></li>
+																											</ul>
+													 
+												</li>
+																								<li><a href="dining-bar" title="Dining &amp; Bar" rev="tag">Dining &amp; Bar<img src="assets/images/arrow-right.png" border="0" align="right" style="margin-top:4px;"></a>
+																									<ul>
+																											<li><a href="coasters" title="Coasters" rev="tag">Coasters</a></li>
+																												<li><a href="table-mats" title="Table Mats" rev="tag">Table Mats</a></li>
+																												<li><a href="dinner-sets" title="Dinner Sets" rev="tag">Dinner Sets</a></li>
+																												<li><a href="plates" title="Plates" rev="tag">Plates</a></li>
+																												<li><a href="bowls" title="Bowls" rev="tag">Bowls</a></li>
+																												<li><a href="trays" title="Trays" rev="tag">Trays</a></li>
+																												<li><a href="cups-mugs" title="Cups &amp; Mugs" rev="tag">Cups &amp; Mugs</a></li>
+																												<li><a href="bar-accessories" title="Bar Accessories" rev="tag">Bar Accessories</a></li>
+																											</ul>
+													 
+												</li>
+																								<li><a href="knives-and-cutlery" title="Knives &amp; Cutlery" rev="tag">Knives &amp; Cutlery<img src="assets/images/arrow-right.png" border="0" align="right" style="margin-top:4px;"></a>
+																									<ul>
+																											<li><a href="cutlery-sets" title="Cutlery Sets" rev="tag">Cutlery Sets</a></li>
+																												<li><a href="knife-sets" title="Knife Sets" rev="tag">Knife Sets</a></li>
+																											</ul>
+													 
+												</li>
+																								<li><a href="cookware" title="Cookware" rev="tag">Cookware<img src="assets/images/arrow-right.png" border="0" align="right" style="margin-top:4px;"></a>
+																									<ul>
+																											<li><a href="pans" title="Pans" rev="tag">Pans</a></li>
+																											</ul>
+													 
+												</li>
+																								<li><a href="kitchen-appliances" title="Kitchen Appliances" rev="tag">Kitchen Appliances<img src="assets/images/arrow-right.png" border="0" align="right" style="margin-top:4px;"></a>
+																									<ul>
+																											<li><a href="burger-maker" title="Burger Maker" rev="tag">Burger Maker</a></li>
+																												<li><a href="electric-kettle" title="Electric Kettle" rev="tag">Electric Kettle</a></li>
+																											</ul>
+													 
+												</li>
+																								<li><a href="kitchen-storage-boxes" title="Kitchen Storage &amp; Boxes" rev="tag">Kitchen Storage &amp; Boxes<img src="assets/images/arrow-right.png" border="0" align="right" style="margin-top:4px;"></a>
+																									<ul>
+																											<li><a href="bottles" title="Bottles" rev="tag">Bottles</a></li>
+																												<li><a href="flasks" title="Flasks" rev="tag">Flasks</a></li>
+																												<li><a href="lunch-boxes" title="Lunch Boxes" rev="tag">Lunch Boxes</a></li>
+																											</ul>
+													 
+												</li>
+																						</ul>
+																		</li>
+																<li>
+									<a href="fashion-jewellery" title="Jewellery" rev="tag" rel="dropmenu81_b">Jewellery <img src="assets/images/arrow-right.png" border="0" align="right" style="margin-top:4px;"></a>
+																			<ul>
+																							<li><a href="jewellery-accessories" title="Accessories" rev="tag">Accessories<img src="assets/images/arrow-right.png" border="0" align="right" style="margin-top:4px;"></a>
+																									<ul>
+																											<li><a href="necklace-designs" title="Necklaces" rev="tag">Necklaces</a></li>
+																												<li><a href="rings" title="Rings" rev="tag">Rings</a></li>
+																												<li><a href="earring-designs" title="Earrings" rev="tag">Earrings</a></li>
+																												<li><a href="bracelets" title="Bracelets" rev="tag">Bracelets</a></li>
+																												<li><a href="bangles" title="Bangles" rev="tag">Bangles</a></li>
+																												<li><a href="pendant-earring-sets" title="Pendants" rev="tag">Pendants</a></li>
+																											</ul>
+													 
+												</li>
+																								<li><a href="jewelry-cases" title="Jewellery Cases" rev="tag">Jewellery Cases<img src="assets/images/arrow-right.png" border="0" align="right" style="margin-top:4px;"></a>
+																									<ul>
+																											<li><a href="bangle-boxes" title="Bangle Boxes" rev="tag">Bangle Boxes</a></li>
+																												<li><a href="earring-boxes" title="Earring Boxes" rev="tag">Earring Boxes</a></li>
+																												<li><a href="jewellery-boxes" title="Jewellery Boxes" rev="tag">Jewellery Boxes</a></li>
+																												<li><a href="vanity-boxes" title="Vanity Boxes" rev="tag">Vanity Boxes</a></li>
+																											</ul>
+													 
+												</li>
+																						</ul>
+																		</li>
+																<li>
+									<a href="office-stationery" title="Office &amp; Stationery" rev="tag" rel="dropmenu277_b">Office &amp; Stationery <img src="assets/images/arrow-right.png" border="0" align="right" style="margin-top:4px;"></a>
+																			<ul>
+																							<li><a href="desk-organizers" title="Desk Organizers" rev="tag">Desk Organizers<img src="assets/images/arrow-right.png" border="0" align="right" style="margin-top:4px;"></a>
+																									<ul>
+																											<li><a href="mobile-stands" title="Mobile Stands" rev="tag">Mobile Stands</a></li>
+																												<li><a href="memo-paper-holders" title="Memo Paper Holders" rev="tag">Memo Paper Holders</a></li>
+																												<li><a href="file-holders" title="File Holders" rev="tag">File Holders</a></li>
+																												<li><a href="other-utilities" title="Other Utilities" rev="tag">Other Utilities</a></li>
+																												<li><a href="pen-holder" title="Pen Holders" rev="tag">Pen Holders</a></li>
+																											</ul>
+													 
+												</li>
+																								<li><a href="office-and-stationery-pen-sets" title="Pen Sets" rev="tag">Pen Sets</a>
+												 
+												</li>
+																						</ul>
+																		</li>
+																<li>
+									<a href="rakhi" title="Rakhi" rev="tag">Rakhi </a>
+																	</li>
+																<li>
+									<a href="spiritual" title="Spiritual Gifting" rev="tag" rel="dropmenu127_b">Spiritual Gifting <img src="assets/images/arrow-right.png" border="0" align="right" style="margin-top:4px;"></a>
+																			<ul>
+																							<li><a href="marble-gifts" title="Marble Gifts" rev="tag">Marble Gifts</a>
+												 
+												</li>
+																								<li><a href="idols" title="Idols" rev="tag">Idols</a>
+												 
+												</li>
+																								<li><a href="god-frames" title="God Frames" rev="tag">God Frames</a>
+												 
+												</li>
+																								<li><a href="pooja-thali" title="Pooja Thali" rev="tag">Pooja Thali</a>
+												 
+												</li>
+																								<li><a href="worship-utilities" title="Worship Utilities" rev="tag">Worship Utilities</a>
+												 
+												</li>
+																						</ul>
+																		</li>
+																<li>
+									<a href="sunglasses" title="Sunglasses" rev="tag" rel="dropmenu259_b">Sunglasses <img src="assets/images/arrow-right.png" border="0" align="right" style="margin-top:4px;"></a>
+																			<ul>
+																							<li><a href="men-sunglasses" title="Sunglasses For Men" rev="tag">Sunglasses For Men</a>
+												 
+												</li>
+																								<li><a href="women-sunglasses" title="Sunglasses For Women" rev="tag">Sunglasses For Women</a>
+												 
+												</li>
+																								<li><a href="unisex-sunglasses" title="Unisex Sunglasses" rev="tag">Unisex Sunglasses</a>
+												 
+												</li>
+																						</ul>
+																		</li>
+																<li>
+									<a href="unique-gifts" title="Unique Gifts" rev="tag">Unique Gifts </a>
+																	</li>
+																<li>
+									<a href="watches" title="Watches" rev="tag" rel="dropmenu204_b">Watches <img src="assets/images/arrow-right.png" border="0" align="right" style="margin-top:4px;"></a>
+																			<ul>
+																							<li><a href="watches-for-men" title="Men Watches" rev="tag">Men Watches</a>
+												 
+												</li>
+																								<li><a href="watches-for-women" title="Women Watches" rev="tag">Women Watches</a>
+												 
+												</li>
+																								<li><a href="watch-box-case" title="Watch Boxes" rev="tag">Watch Boxes</a>
+												 
+												</li>
+																						</ul>
+																		</li>
+														</ul>
 					<ul id="nav-menu">
-						<li id="Nav1"><a href="javascript:void(0);" rel="dropmenu1_a"><b>Gifts By Occasion</b></a></li>
-						<li id="Nav2"><a href="javascript:void(0);" rel="dropmenu2_a"><b>Gifts By Relation</b></a></li>
-						<li id="Nav3"><a href="javascript:void(0);" rel="dropmenu3_a"><b>Gifts By Category</b></a></li>
+						<li class="MNav TNav"><a href="javascript:void(0);" class="MNavLink" ddindex="dropmenu1_a"><b>Gifts By Occasion</b></a>
+							<div id="dropmenu1_a" class="dropmenudiv_a">
+								<div class="OccasionDD">
+									<table border="0" cellpadding="0" cellspacing="0" width="100%">
+										<tbody><tr>
+										<td valign="top" align="left"><table border="0" cellpadding="0" cellspacing="5">											<tbody><tr><td valign="top" class="Value"><a href="anniversary" title="Anniversary" rev="tag">Anniversary</a></td></tr>
+																						<tr><td valign="top" class="Value"><a href="bhai-duj" title="Bhai Duj" rev="tag">Bhai Duj</a></td></tr>
+																						<tr><td valign="top" class="Value"><a href="birthday" title="Birthday" rev="tag">Birthday</a></td></tr>
+																						<tr><td valign="top" class="Value"><a href="brothers-day" title="Brother's Day" rev="tag">Brother's Day</a></td></tr>
+																						<tr><td valign="top" class="Value"><a href="childrens-day" title="Children's Day" rev="tag">Children's Day</a></td></tr>
+																						<tr><td valign="top" class="Value"><a href="chocolate-day" title="Chocolate Day" rev="tag">Chocolate Day</a></td></tr>
+																						<tr><td valign="top" class="Value"><a href="christmas" title="Christmas" rev="tag">Christmas</a></td></tr>
+											</tbody></table></td><td valign="top" align="left"><table border="0" cellpadding="0" cellspacing="5">											<tbody><tr><td valign="top" class="Value"><a href="daughters-day" title="Daughter's Day" rev="tag">Daughter's Day</a></td></tr>
+																						<tr><td valign="top" class="Value"><a href="dhanteras-gifts-online" title="Dhan Teras" rev="tag">Dhan Teras</a></td></tr>
+																						<tr><td valign="top" class="Value"><a href="diwali-gifts" title="Diwali" rev="tag">Diwali</a></td></tr>
+																						<tr><td valign="top" class="Value"><a href="eid" title="Eid" rev="tag">Eid</a></td></tr>
+																						<tr><td valign="top" class="Value"><a href="fathers-day-gift-collection" title="Father's Day" rev="tag">Father's Day</a></td></tr>
+																						<tr><td valign="top" class="Value"><a href="friendship-day" title="Friendship Day" rev="tag">Friendship Day</a></td></tr>
+																						<tr><td valign="top" class="Value"><a href="gandhi-t-shirts" title="Gandhi Jayanti" rev="tag">Gandhi Jayanti</a></td></tr>
+											</tbody></table></td><td valign="top" align="left"><table border="0" cellpadding="0" cellspacing="5">											<tbody><tr><td valign="top" class="Value"><a href="ganesh-chaturthi" title="Ganesh Chaturthi" rev="tag">Ganesh Chaturthi</a></td></tr>
+																						<tr><td valign="top" class="Value"><a href="holi" title="Holi" rev="tag">Holi</a></td></tr>
+																						<tr><td valign="top" class="Value"><a href="house-warming" title="House Warming" rev="tag">House Warming</a></td></tr>
+																						<tr><td valign="top" class="Value"><a href="karva-chauth" title="Karva Chauth" rev="tag">Karva Chauth</a></td></tr>
+																						<tr><td valign="top" class="Value"><a href="marriage-reception" title="Marriage Reception" rev="tag">Marriage Reception</a></td></tr>
+																						<tr><td valign="top" class="Value"><a href="wedding" title="Marriage/Wedding" rev="tag">Marriage/Wedding</a></td></tr>
+																						<tr><td valign="top" class="Value"><a href="miss-u-day" title="Miss U Day" rev="tag">Miss U Day</a></td></tr>
+											</tbody></table></td><td valign="top" align="left"><table border="0" cellpadding="0" cellspacing="5">											<tbody><tr><td valign="top" class="Value"><a href="mothers-day-gifts-collection" title="Mother's Day" rev="tag">Mother's Day</a></td></tr>
+																						<tr><td valign="top" class="Value"><a href="new-years" title="New Years" rev="tag">New Years</a></td></tr>
+																						<tr><td valign="top" class="Value"><a href="raksha-bandhan" title="Raksha Bandhan" rev="tag">Raksha Bandhan</a></td></tr>
+																						<tr><td valign="top" class="Value"><a href="ring-ceremony" title="Ring Ceremony" rev="tag">Ring Ceremony</a></td></tr>
+																						<tr><td valign="top" class="Value"><a href="roka-ceremony" title="Roka Ceremony" rev="tag">Roka Ceremony</a></td></tr>
+																						<tr><td valign="top" class="Value"><a href="rose-day" title="Rose Day" rev="tag">Rose Day</a></td></tr>
+																						<tr><td valign="top" class="Value"><a href="sisters-day" title="Sister's Day" rev="tag">Sister's Day</a></td></tr>
+											</tbody></table></td><td valign="top" align="left"><table border="0" cellpadding="0" cellspacing="5">											<tbody><tr><td valign="top" class="Value"><a href="sons-day" title="Son's Day" rev="tag">Son's Day</a></td></tr>
+																						<tr><td valign="top" class="Value"><a href="sorry-day" title="Sorry Day" rev="tag">Sorry Day</a></td></tr>
+																						<tr><td valign="top" class="Value"><a href="gifts-for-teachers" title="Teacher's Day" rev="tag">Teacher's Day</a></td></tr>
+																						<tr><td valign="top" class="Value"><a href="thank-you-day" title="Thank You Day" rev="tag">Thank You Day</a></td></tr>
+																						<tr><td valign="top" class="Value"><a href="valentines-day" title="Valentine's Day" rev="tag">Valentine's Day</a></td></tr>
+											</tbody></table></td>										</tr>
+									</tbody></table>
+									<!-- <div onmouseover="document.getElementById('Nav1').className='selected';" onmouseout="document.getElementById('Nav1').className='';">
+										<div class="BottomLeftCorner"></div>
+										<div class="BottomCenter"></div>
+										<div class="BottomRightCorner"></div>
+										<br class="clear" />
+									</div> -->
+								</div>
+							</div>
+						</li>
+						<li class="MNav TNav"><a href="javascript:void(0);" class="MNavLink" ddindex="dropmenu2_a"><b>Gifts By Relation</b></a>
+							<div id="dropmenu2_a" class="dropmenudiv_a">
+								<div class="RelationDD">
+									<table border="0" cellpadding="0" cellspacing="0" width="100%">
+										<tbody><tr>
+										<td valign="top" align="left"><table border="0" cellpadding="0" cellspacing="5">											<tbody><tr><td valign="top" class="Value"><a href="aunt" title="Aunt" rev="tag">Aunt</a></td></tr>
+																						<tr><td valign="top" class="Value"><a href="bhabhi" title="Bhabhi" rev="tag">Bhabhi</a></td></tr>
+																						<tr><td valign="top" class="Value"><a href="boss-female" title="Boss-Female" rev="tag">Boss-Female</a></td></tr>
+																						<tr><td valign="top" class="Value"><a href="boss-male" title="Boss-Male" rev="tag">Boss-Male</a></td></tr>
+																						<tr><td valign="top" class="Value"><a href="gifts-for-boyfriends" title="Boyfriend" rev="tag">Boyfriend</a></td></tr>
+																						<tr><td valign="top" class="Value"><a href="brother-in-law" title="Brother-in-Law" rev="tag">Brother-in-Law</a></td></tr>
+																						<tr><td valign="top" class="Value"><a href="gifts-for-brothers" title="Brother/Bhai" rev="tag">Brother/Bhai</a></td></tr>
+																						<tr><td valign="top" class="Value"><a href="bua-ji" title="Bua Ji" rev="tag">Bua Ji</a></td></tr>
+																						<tr><td valign="top" class="Value"><a href="chacha-ji" title="Chacha Ji" rev="tag">Chacha Ji</a></td></tr>
+											</tbody></table></td><td valign="top" align="left"><table border="0" cellpadding="0" cellspacing="5">											<tbody><tr><td valign="top" class="Value"><a href="chachi-ji" title="Chachi Ji" rev="tag">Chachi Ji</a></td></tr>
+																						<tr><td valign="top" class="Value"><a href="colleague-female" title="Colleague-Female" rev="tag">Colleague-Female</a></td></tr>
+																						<tr><td valign="top" class="Value"><a href="colleague-male" title="Colleague-Male" rev="tag">Colleague-Male</a></td></tr>
+																						<tr><td valign="top" class="Value"><a href="cousin-brother" title="Cousin-Brother" rev="tag">Cousin-Brother</a></td></tr>
+																						<tr><td valign="top" class="Value"><a href="cousin-sister" title="Cousin-Sister" rev="tag">Cousin-Sister</a></td></tr>
+																						<tr><td valign="top" class="Value"><a href="daughter-in-law" title="Daughter-in-Law" rev="tag">Daughter-in-Law</a></td></tr>
+																						<tr><td valign="top" class="Value"><a href="daughter-or-beti" title="Daughter/Beti" rev="tag">Daughter/Beti</a></td></tr>
+																						<tr><td valign="top" class="Value"><a href="father-in-law" title="Father-in-Law" rev="tag">Father-in-Law</a></td></tr>
+																						<tr><td valign="top" class="Value"><a href="father-dad" title="Father/Papa" rev="tag">Father/Papa</a></td></tr>
+											</tbody></table></td><td valign="top" align="left"><table border="0" cellpadding="0" cellspacing="5">											<tbody><tr><td valign="top" class="Value"><a href="friend-female" title="Friend-Female" rev="tag">Friend-Female</a></td></tr>
+																						<tr><td valign="top" class="Value"><a href="friend-male" title="Friend-Male" rev="tag">Friend-Male</a></td></tr>
+																						<tr><td valign="top" class="Value"><a href="fuffar-or-fufa-ji" title="Fuffar/Fufa Ji" rev="tag">Fuffar/Fufa Ji</a></td></tr>
+																						<tr><td valign="top" class="Value"><a href="gifts-for-girlfriends" title="Girl Friend" rev="tag">Girl Friend</a></td></tr>
+																						<tr><td valign="top" class="Value"><a href="granddaughter-or-poti-or-doti" title="Granddaughter/Poti/Doti" rev="tag">Granddaughter/Poti/Doti</a></td></tr>
+																						<tr><td valign="top" class="Value"><a href="grandfather-or-dada-or-nana" title="Grandfather/Dada/Nana" rev="tag">Grandfather/Dada/Nana</a></td></tr>
+																						<tr><td valign="top" class="Value"><a href="grandmother-dadi-naani" title="Grandmother/Dadi/Naani" rev="tag">Grandmother/Dadi/Naani</a></td></tr>
+																						<tr><td valign="top" class="Value"><a href="grandson-or-pota-or-dota" title="Grandson/Pota/Dota" rev="tag">Grandson/Pota/Dota</a></td></tr>
+																						<tr><td valign="top" class="Value"><a href="husband" title="Husband" rev="tag">Husband</a></td></tr>
+											</tbody></table></td><td valign="top" align="left"><table border="0" cellpadding="0" cellspacing="5">											<tbody><tr><td valign="top" class="Value"><a href="jija-ji" title="Jija Ji" rev="tag">Jija Ji</a></td></tr>
+																						<tr><td valign="top" class="Value"><a href="maama-ji" title="Maama Ji" rev="tag">Maama Ji</a></td></tr>
+																						<tr><td valign="top" class="Value"><a href="maami-ji" title="Maami Ji" rev="tag">Maami Ji</a></td></tr>
+																						<tr><td valign="top" class="Value"><a href="massar-or-mausa-ji" title="Massar/Mausa Ji" rev="tag">Massar/Mausa Ji</a></td></tr>
+																						<tr><td valign="top" class="Value"><a href="massi-or-mausi-ji" title="Massi/Mausi Ji" rev="tag">Massi/Mausi Ji</a></td></tr>
+																						<tr><td valign="top" class="Value"><a href="mother-in-law" title="Mother-in-Law" rev="tag">Mother-in-Law</a></td></tr>
+																						<tr><td valign="top" class="Value"><a href="mother-mom" title="Mother/Maa/Mummy" rev="tag">Mother/Maa/Mummy</a></td></tr>
+																						<tr><td valign="top" class="Value"><a href="nephew" title="Nephew" rev="tag">Nephew</a></td></tr>
+																						<tr><td valign="top" class="Value"><a href="niece" title="Niece" rev="tag">Niece</a></td></tr>
+											</tbody></table></td><td valign="top" align="left"><table border="0" cellpadding="0" cellspacing="5">											<tbody><tr><td valign="top" class="Value"><a href="official-female" title="Official-Female" rev="tag">Official-Female</a></td></tr>
+																						<tr><td valign="top" class="Value"><a href="official-male" title="Official-Male" rev="tag">Official-Male</a></td></tr>
+																						<tr><td valign="top" class="Value"><a href="saala" title="Saala" rev="tag">Saala</a></td></tr>
+																						<tr><td valign="top" class="Value"><a href="saali" title="Saali" rev="tag">Saali</a></td></tr>
+																						<tr><td valign="top" class="Value"><a href="sister-in-law" title="Sister-in-Law" rev="tag">Sister-in-Law</a></td></tr>
+																						<tr><td valign="top" class="Value"><a href="gifts-for-sisters" title="Sister/Behan" rev="tag">Sister/Behan</a></td></tr>
+																						<tr><td valign="top" class="Value"><a href="son-in-law" title="Son-in-Law" rev="tag">Son-in-Law</a></td></tr>
+																						<tr><td valign="top" class="Value"><a href="son-or-beta" title="Son/Beta" rev="tag">Son/Beta</a></td></tr>
+																						<tr><td valign="top" class="Value"><a href="taya-ji" title="Taya Ji" rev="tag">Taya Ji</a></td></tr>
+											</tbody></table></td><td valign="top" align="left"><table border="0" cellpadding="0" cellspacing="5">											<tbody><tr><td valign="top" class="Value"><a href="tayi-ji" title="Tayi Ji" rev="tag">Tayi Ji</a></td></tr>
+																						<tr><td valign="top" class="Value"><a href="teacher" title="Teacher" rev="tag">Teacher</a></td></tr>
+																						<tr><td valign="top" class="Value"><a href="uncle" title="Uncle" rev="tag">Uncle</a></td></tr>
+																						<tr><td valign="top" class="Value"><a href="wife" title="Wife" rev="tag">Wife</a></td></tr>
+											</tbody></table></td>										</tr>
+									</tbody></table>
+								</div>
+							</div>
+						</li>
+						<li id="Nav3" class="MNav TNav CatDD"><a href="javascript:void(0);" rel="dropmenu3_a" class="MNavLink"><b>Gifts By Category</b></a></li>
 						<!-- <li id="Nav4" class="highlighted"><a href='javascript:void(0);' onclick="CreateYourWishList();"><b>Create Your Wishlist</b></a></li>
 						<li id="Nav4" class="highlighted"><a href='tracking-order.php'><b>Track Your Order</b></a></li> -->
-														<li id="Nav4" class="highlighted"><a href="track-your-order"><b>Track Your Order</b></a></li>
-																<li id="Nav5"><a href="newly-arrived-gifts"><b>Newly Arrived Gifts</b></a></li>
-																<li id="Nav6"><a href="faqs"><b>FAQs</b></a></li>
-																<li id="Nav7"><a href="blog"><b>Blog</b></a></li>
-																<li id="Nav8"><a href="contact-us"><b>Contact Us</b></a></li>
+														<li class="TNav" id="Nav4"><a href="newly-arrived-gifts" class="MNavLink"><b>Newly Arrived Gifts</b></a></li>
+																<li class="TNav" id="Nav5"><a href="blog" class="MNavLink"><b>Blog</b></a></li>
 														<br class="clear">
 					</ul>
 				</td>
 			</tr>
 		</tbody></table>
+				<form style="float:right;" method="get" action="" name="FindRegistrySearch" id="FindRegistrySearch" onsubmit="return ValidateKeywordSearch('Keyword','Enter Keyword/Code',1);">
+			<div class="KeywordSearch">
+				<input type="text" name="Keyword" id="Keyword" value="Enter Keyword/Code" onkeypress="$('#KeywordSeoUrl').val('');" onfocus="$('#KeywordSeoUrl').val('');blankthis('Keyword','Enter Keyword/Code');" onblur="default_message('Keyword','Enter Keyword/Code')" border="0">
+				<input type="hidden" name="KeywordSeoUrl" id="KeywordSeoUrl" value="Enter Keyword/Code">
+			</div>
+			<div class="SeacrhButtonWrapper">
+				<input type="button" value="Search" title="Search" class="SearchButton" onclick="$('#FindRegistrySearch').submit();">
+			</div>
+			<br class="clear">
+		</form>
+		<br class="clear">
 	</div>
 	<span class="NavRightCorner"></span>
 	<br class="clear">
 </div><!-- Navigation Bar Wrapper closed -->
 
 <script type="text/javascript">
-	//SYNTAX: tabdropdown.init("menu_id", [integer OR "auto"])
-	tabdropdown.init("nav-menu", "-1")
-</script>					<div class="SearchContainer">
-						<div class="SearchLeftBG"></div>
-						<div class="SearchMidBG">
-							<div class="FindAGift">Find A Gift</div>
-							<div class="OccasionDropDown">
-								<select name="Occasion" id="Occasion" onchange="$('#ApplySearchChangesDiv').slideDown('slow');">
-									<option value="">Choose an occasion</option>
-																			<option value="anniversary">Anniversary</option>
-																				<option value="bhai-duj">Bhai Duj</option>
-																				<option value="birthday">Birthday</option>
-																				<option value="brothers-day">Brother's Day</option>
-																				<option value="childrens-day">Children's Day</option>
-																				<option value="chocolate-day">Chocolate Day</option>
-																				<option value="christmas">Christmas</option>
-																				<option value="daughters-day">Daughter's Day</option>
-																				<option value="diwali">Diwali</option>
-																				<option value="eid">Eid</option>
-																				<option value="fathers-day">Father's Day</option>
-																				<option value="friendship-day">Friendship Day</option>
-																				<option value="ganesh-chaturthi">Ganesh Chaturthi</option>
-																				<option value="holi">Holi</option>
-																				<option value="house-warming">House Warming</option>
-																				<option value="karva-chauth">Karva Chauth</option>
-																				<option value="marriage">Marriage</option>
-																				<option value="marriage-reception">Marriage Reception</option>
-																				<option value="miss-u-day">Miss U Day</option>
-																				<option value="mothers-day">Mother's Day</option>
-																				<option value="new-years">New Years</option>
-																				<option value="raksha-bandhan">Raksha Bandhan</option>
-																				<option value="ring-ceremony">Ring Ceremony</option>
-																				<option value="roka-ceremony">Roka Ceremony</option>
-																				<option value="rose-day">Rose Day</option>
-																				<option value="sisters-day">Sister's Day</option>
-																				<option value="sons-day">Son's Day</option>
-																				<option value="sorry-day">Sorry Day</option>
-																				<option value="teachers-day">Teacher's Day</option>
-																				<option value="thank-you-day">Thank You Day</option>
-																				<option value="valentines-day">Valentine's Day</option>
-																		</select>
-							</div>
-							<div class="RelationDropDown">
-								<select name="Relation" id="Relation" onchange="$('#ApplySearchChangesDiv').slideDown('slow');">
-									<option value="">Choose a relation</option>
-																			<option value="aunt">Aunt</option>
-																				<option value="bhabhi">Bhabhi</option>
-																				<option value="boss-female">Boss-Female</option>
-																				<option value="boss-male">Boss-Male</option>
-																				<option value="boyfriend">Boyfriend</option>
-																				<option value="brother-in-law">Brother-in-Law</option>
-																				<option value="brother-or-bhai">Brother/Bhai</option>
-																				<option value="bua-ji">Bua Ji</option>
-																				<option value="chacha-ji">Chacha Ji</option>
-																				<option value="chachi-ji">Chachi Ji</option>
-																				<option value="colleague-female">Colleague-Female</option>
-																				<option value="colleague-male">Colleague-Male</option>
-																				<option value="cousin-brother">Cousin-Brother</option>
-																				<option value="cousin-sister">Cousin-Sister</option>
-																				<option value="daughter-in-law">Daughter-in-Law</option>
-																				<option value="daughter-or-beti">Daughter/Beti</option>
-																				<option value="father-in-law">Father-in-Law</option>
-																				<option value="father-or-papa">Father/Papa</option>
-																				<option value="friend-female">Friend-Female</option>
-																				<option value="friend-male">Friend-Male</option>
-																				<option value="fuffar-or-fufa-ji">Fuffar/Fufa Ji</option>
-																				<option value="girl-friend">Girl Friend</option>
-																				<option value="granddaughter-or-poti-or-doti">Granddaughter/Poti/Doti</option>
-																				<option value="grandfather-or-dada-or-nana">Grandfather/Dada/Nana</option>
-																				<option value="grandmother-or-dadi-or-naani">Grandmother/Dadi/Naani</option>
-																				<option value="grandson-or-pota-or-dota">Grandson/Pota/Dota</option>
-																				<option value="husband">Husband</option>
-																				<option value="jija-ji">Jija Ji</option>
-																				<option value="maama-ji">Maama Ji</option>
-																				<option value="maami-ji">Maami Ji</option>
-																				<option value="massar-or-mausa-ji">Massar/Mausa Ji</option>
-																				<option value="massi-or-mausi-ji">Massi/Mausi Ji</option>
-																				<option value="mother-or-maa-or-mummy">Mother/Maa/Mummy</option>
-																				<option value="nephew">Nephew</option>
-																				<option value="niece">Niece</option>
-																				<option value="official-female">Official-Female</option>
-																				<option value="official-male">Official-Male</option>
-																				<option value="saala">Saala</option>
-																				<option value="saali">Saali</option>
-																				<option value="sister-in-law">Sister-in-Law</option>
-																				<option value="sister-or-behan">Sister/Behan</option>
-																				<option value="son-in-law">Son-in-Law</option>
-																				<option value="son-or-beta">Son/Beta</option>
-																				<option value="taya-ji">Taya Ji</option>
-																				<option value="tayi-ji">Tayi Ji</option>
-																				<option value="teacher">Teacher</option>
-																				<option value="uncle">Uncle</option>
-																				<option value="wife">Wife</option>
-																		</select>
-							</div>
-							<div class="CategoryDropDown">
-								<select name="Category" id="Category" onchange="$('#ApplySearchChangesDiv').slideDown('slow');">
-									<option value="">Choose a Category</option>
-																			<option value="apparels-men">Apparels - Men</option>
-																				<option value="apparels-women">Apparels - Women</option>
-																				<option value="bags">Bags</option>
-																				<option value="body-and-skin-care">Body &amp; Skin Care</option>
-																				<option value="boxes">Boxes</option>
-																				<option value="candles-or-diyas">Candles/Diyas</option>
-																				<option value="car-accessories">Car Accessories</option>
-																				<option value="chocolates">Chocolates</option>
-																				<option value="coasters">Coasters</option>
-																				<option value="crockery">Crockery</option>
-																				<option value="decorating-pieces">Decorating Pieces</option>
-																				<option value="dining-and-bar">Dining &amp; Bar</option>
-																				<option value="door-mats">Door Mats</option>
-																				<option value="eye-wear">Eye Wear</option>
-																				<option value="footwear">Footwear</option>
-																				<option value="fragrances">Fragrances</option>
-																				<option value="gents-wallets">Gents Wallets</option>
-																				<option value="gift-items">Gift Items</option>
-																				<option value="handbags-or-clutches-or-purses">Handbags/clutches/purses</option>
-																				<option value="handicrafts">Handicrafts</option>
-																				<option value="home-appliances">Home Appliances</option>
-																				<option value="home-decor">Home Decor</option>
-																				<option value="home-furnishings">Home Furnishings</option>
-																				<option value="idols-and-sculptures">Idols &amp; Sculptures</option>
-																				<option value="jewellery">Jewellery</option>
-																				<option value="kids">Kids</option>
-																				<option value="kitchenware">Kitchenware</option>
-																				<option value="ladies-wallet">Ladies Wallet</option>
-																				<option value="laptop-bag">Laptop Bag</option>
-																				<option value="mens-accessories">Men's Accessories</option>
-																				<option value="mobiles">Mobiles</option>
-																				<option value="mugs">Mugs</option>
-																				<option value="paintings">Paintings</option>
-																				<option value="photo-frames">Photo Frames</option>
-																				<option value="purse">Purse</option>
-																				<option value="stationery">Stationery</option>
-																				<option value="trays">Trays</option>
-																				<option value="utilities">Utilities</option>
-																				<option value="wall-clocks">Wall Clocks</option>
-																				<option value="watches">Watches</option>
-																				<option value="wedding-accessories">Wedding Accessories</option>
-																		</select>
-							</div>
-							<div class="PriceRangeDropDown">
-								<select name="PriceRange" id="PriceRange" onchange="$('#ApplySearchChangesDiv').slideDown('slow');">
-									<option value="">Choose a price range</option>
-																			<option value="upto-500">Upto-500</option>
-																				<option value="500-1000">500-1000</option>
-																				<option value="1000-1500">1000-1500</option>
-																				<option value="1500-2000">1500-2000</option>
-																				<option value="2000-2500">2000-2500</option>
-																				<option value="2500-3000">2500-3000</option>
-																				<option value="3000-above">3000-Above</option>
-																		</select>
-							</div>
-							<div class="OR">OR</div>
-														<form style="float:left;" method="get" action="" name="FindRegistrySearch" id="FindRegistrySearch" onsubmit="return ValidateKeywordSearch('Keyword','Enter Keyword/Code',1);">
-								<!-- <input type="hidden" name="KeywordSearchSubmitted" id='KeywordSearchSubmitted' value='1' /> -->
-								<div class="KeywordSearch">
-									<input type="text" name="Keyword" id="Keyword" value="Enter Keyword/Code" onclick="blankthis('Keyword','Enter Keyword/Code');" onblur="default_message('Keyword','Enter Keyword/Code')" border="0">
-								</div>
-								<div class="SeacrhButtonWrapper" style="margin-left:3px;">
-									<input type="image" src="assets/images/search_button.png" onmouseover="this.src='assets/images/search_button_hover.png';" onmouseout="this.src='assets/images/search_button.png';" title="Search">
-								</div>
-								<br class="clear">
-							</form>
-							<br class="clear">
-							<div style="position:relative;">
-								<div id="ApplySearchChangesDiv">
-									<div align="right" style="width:16px; height:16px; display:block; background:url('assets/images/close.png') no-repeat; position:absolute; top:-4px; right:0px; cursor:pointer;" onclick="$('#ApplySearchChangesDiv').slideUp('slow');"></div>
-									<input type="button" class="Button Blue Small" value="Apply Search Changes" onclick="$('#ApplySearchChangesDiv').slideUp('slow'); CallLoadPageFunction();">
-								</div>
-							</div>
-						</div>
-						<div class="SearchRightBG"></div>
-						<br class="clear">
-					</div>				<div class="MainContainer" style="position:relative;">				
+	$('#dropmenu3_a').hover(function()
+	{
+		$('#Nav3').addClass('selected');
+	},function()
+	{
+		$('#Nav3').removeClass('selected');
+	});
+	
+	jQuery("ul#nav-menu li").hover(function()
+	{
+		var This = this;
+		var rel = $('a', This).attr('ddindex');
+		if(rel != null)
+		{
+			$("#"+rel).show();
+			$(This).addClass('selected');
+		}
+
+	},function()
+	{
+		var This	=	this;
+		var rel = $('a', This).attr('ddindex');
+		$(This).removeClass('selected');
+		if(rel != null)
+		{
+			$("#"+rel).hide();
+		}
+	});
+	ddlevelsmenu.setup("nav-menu", "topbar");
+</script>				<div class="MainContainer" style="position:relative;">				
 					<input type="hidden" id="IsAjaxLoaded" name="IsAjaxLoaded" value="1">
 					<input type="hidden" name="LoginSignUpAction" id="LoginSignUpAction" value="">
 											<input type="hidden" name="IsUserLoggedInHidden" id="IsUserLoggedInHidden" value="0">
@@ -1050,7 +1375,7 @@
 																					</div>
 																</td>
 															<td width="70" align="center">
-									<div style="width:5px; height:158px; background:url('hr.png') no-repeat; background-position:top center; display:block;">
+									<div style="width:5px; height:158px; background:url('assets/images/hr.png') no-repeat; background-position:top center; display:block;">
 										&nbsp;
 									</div>
 								</td>
@@ -1066,7 +1391,7 @@
 																					</div>
 																</td>
 															<td width="70" align="center">
-									<div style="width:5px; height:158px; background:url('hr.png') no-repeat; background-position:top center; display:block;">
+									<div style="width:5px; height:158px; background:url('assets/images/hr.png') no-repeat; background-position:top center; display:block;">
 										&nbsp;
 									</div>
 								</td>
@@ -1082,7 +1407,9 @@
 										<div class="PaymentModes">Payment Modes</div>
 										<div class="PaymentModesImages" title="VISA &amp; Master Card">VISA &amp; Master Card</div>
 										<div style="margin-top:5px;" title="Verified &amp; Secured">
-											<span id="siteseal"><script type="text/javascript" src="https://seal.godaddy.com/getSeal?sealID=3W9YEgEPdODMLQ2Ocb2vCt4fsjuaTEBJ4FlFBlE6UCnk8grNb8IhCbjJ"></script></span>
+											<span id="siteseal">
+																									<script type="text/javascript" src="http://seal.godaddy.com/getSeal?sealID=3W9YEgEPdODMLQ2Ocb2vCt4fsjuaTEBJ4FlFBlE6UCnk8grNb8IhCbjJ"></script>
+																								</span>
 										</div>
 																	</td>
 												<td valign="top" align="right" width="327">
@@ -1092,7 +1419,7 @@
 						</div> -->
 						<!-- <a href="javascript:void(0);" title="Twitter" class="Twitter">Twitter</a>
 						<a href="javascript:void(0);" title="Facebook" class="Facebook">Facebook</a> -->
-						<a href="shipping-policy" style="width:206px; height:170px; background:url('freeshipping-icon.jpg') no-repeat; display:block;" title="Free Shipping">
+						<a href="shipping-policy" style="width:206px; height:170px; background:url('assets/images/freeshipping-icon.jpg') no-repeat; display:block;" title="Free Shipping">
 						</a>
 					</td>
 				</tr>
@@ -1274,7 +1601,7 @@
 					</tr>
 				</tbody></table>
 			</div>
-			<span style="font-family:'BebasNeue'; font-size:1px;">www.wahgifts.com</span>
+			<span style="font-family:'Baumans'; font-size:1px;">www.wahgifts.com</span>
 		</div>
 	</center>
 
@@ -1282,8 +1609,46 @@
 		<a href="#GreenPattern" title="Back To Top">Back to Top</a>
 	</p>
 	<script type="text/javascript" src="assets/js/MM_preloadImages.js"></script>
-	<script type="text/javascript" src="assets/js/common.js"></script>
+	<script type="text/javascript" src="assets/js/common.js?t=1384501905"></script>
 	<script type="text/javascript">
+		jQuery(".MyCartContainer").hover(function()
+		{
+			jQuery(this).children(".CartInfoToolContainer").fadeIn();
+			//$('#CartInfoToolTotalPriceLoading').show();
+			var data = '&Mode=GetTempItemNTotalPrice'+Protocol;
+
+			$.ajax({
+				type: "GET",
+				url: "dbbyajax.php",
+				data: data,
+				success: function(Response){
+					ResArr		= Response.split('-::-');
+					var Qty		= ResArr[0];
+					var Price	= ResArr[1];
+					if(Qty == null || Qty == '' || Qty.toLowerCase() == 'undefined')
+					{
+						Qty = 0;
+					}
+					if(Price == null || Price == '' || Price.toLowerCase() == 'undefined')
+					{
+						Price = 0;
+					}
+					$(".CartInfoToolTotalPrice").html("Rs."+Price);
+					if(Qty > 1)
+					{
+						//$(".CartInfoToolHeading").html("You have "+Qty+" items in your cart");
+					}
+					else
+					{
+						//$(".CartInfoToolHeading").html("You have "+Qty+" item in your cart");
+					}
+					//$('#CartInfoToolTotalPriceLoading').hide();
+				}
+			});
+		},function()
+		{
+			jQuery(this).children(".CartInfoToolContainer").fadeOut()
+		});
 	  AttachEvent(window, 'load', LoadImages);
 	  function LoadImages()
 	  {
@@ -1307,23 +1672,6 @@
 			  'assets/colorbox/images/controls.png',
 			  'assets/colorbox/images/border.png');
 	  }
-	</script>
-	<script src="assets/js/jquery.scrollstop.js" type="text/javascript" charset="utf-8"></script>
-	<script src="assets/js/jquery.lazyload.js" type="text/javascript" charset="utf-8"></script>
-	<script type="text/javascript" charset="utf-8">
-		$(function() {
-			var NonProductListingPageObj = document.getElementById('NonProductListingPage');
-			if(NonProductListingPageObj)
-			{
-			}
-			else
-			{
-				$("img.lazy").lazyload({
-					event: "load",
-					effect : "fadeIn"
-				});
-			}
-		});
 	</script>
 	<script type="text/javascript">
 		function UpdatePrice(I,AttrValue)
@@ -1378,7 +1726,7 @@
 			else
 			{		
 				$('#PopupLoginLoading').show();
-				var Data = '&Email='+encodeURIComponent(PopupLoginEmail)+'&Password='+encodeURIComponent(PopupLoginPassword)+'&Mode=SignIn';
+				var Data = '&Email='+encodeURIComponent(PopupLoginEmail)+'&Password='+encodeURIComponent(PopupLoginPassword)+'&Mode=SignIn'+Protocol;
 
 				$.ajax({
 					type: "GET",
@@ -1395,7 +1743,7 @@
 							$('#UnLoggedInDiv').hide('1');
 							$('#LoggedInDiv').show('1');
 							$('#LoggedInUserDropDownMenuContainer').show('1');
-							parent.jQuery.fn.colorbox.close();
+							$.fn.colorbox.close();
 							
 							var IsUserLoggedInHiddenObj		=	document.getElementById('IsUserLoggedInHidden');
 							if(IsUserLoggedInHiddenObj)
@@ -1468,7 +1816,7 @@
 			else
 			{		
 				$('#PopupForgotEmailLoading').show();
-				var Data = '&Email='+encodeURIComponent(PopupForgotEmail)+'&Mode=SendPassword';
+				var Data = '&Email='+encodeURIComponent(PopupForgotEmail)+'&Mode=SendPassword'+Protocol;
 
 				$.ajax({
 					type: "GET",
@@ -1494,7 +1842,9 @@
 			var Str	=	'';
 			var NewHrefLink	=	'';
 			var CanUserUpload = $.trim($("#CanUserUpload"+I).val());
-
+			var CustomFieldValue = $.trim($('#CustomFieldValue'+I).val());
+			var CustomFieldName = $.trim($('#CustomFieldName'+I).val());
+			
 			/*if(AttributeName != '' && CanUserDesireDelivery == 1)
 			{
 				var AttributeValue = $('#UserChoiceAttributeValue'+I).val();
@@ -1548,6 +1898,18 @@
 					}
 				}
 			}
+			if(CustomFieldName != null)
+			{
+				if((CustomFieldValue == '' || CustomFieldValue == null) && CustomFieldName != '')
+				{
+					$('#CustomFieldValue'+I).css('border','1px solid red');
+					Str  += "Please enter "+CustomFieldName+" first. \n";
+				}
+				if($.trim(Str) == '')
+				{
+					NewHrefLink += "&CustomFieldName="+CustomFieldName+"&CustomFieldValue="+CustomFieldValue;
+				}
+			}
 			if($.trim(Str) != '')
 			{
 				alert(Str);
@@ -1563,7 +1925,7 @@
 					{
 						var SKUCode		= $.trim($('#SKUCode').val());
 
-						var Data = '&Mode=CheckTempOrderImages&SKUCode='+encodeURIComponent(SKUCode)+'&MinImages='+encodeURIComponent(MinImages)+'&MaxImages='+encodeURIComponent(MaxImages);
+						var Data = '&Mode=CheckTempOrderImages&SKUCode='+encodeURIComponent(SKUCode)+'&MinImages='+encodeURIComponent(MinImages)+'&MaxImages='+encodeURIComponent(MaxImages)+Protocol;
 
 						$.ajax({
 							type: "GET",
@@ -1643,6 +2005,7 @@
 			$('#UserChoiceAttributeWrapper'+I).show(); 
 			$("#UserChoiceAttributeHtmlWrapper"+I).hide();
 		}
+
 		function SaveUserChoiceDeliveryDate(I,DeliveryTime)
 		{
 			var Month	= $("select[name='UserDeliveryDate"+I+"_Month']").val();
@@ -1658,7 +2021,7 @@
 			else
 			{
 				$('#UserChoiceDeliveryDateLoading'+I).show();
-				var Data = '&Mode=ValidateUserChoiceDeliveryDate&Date='+encodeURIComponent(Month+'/'+Day+'/'+Year)+'&Time='+encodeURIComponent(Hrs)+"&MinDays="+DeliveryTime;
+				var Data = '&Mode=ValidateUserChoiceDeliveryDate&Date='+encodeURIComponent(Month+'/'+Day+'/'+Year)+'&Time='+encodeURIComponent(Hrs)+"&MinDays="+DeliveryTime+Protocol;
 
 				$.ajax({
 					type: "GET",
@@ -1803,7 +2166,7 @@
 			else
 			{		
 				$('#PopupSignupLoading').show();
-				var Data = '&Email='+encodeURIComponent(RegEmail)+'&Password='+encodeURIComponent(RegPassword)+'&Mode=SignUp';
+				var Data = '&Email='+encodeURIComponent(RegEmail)+'&Password='+encodeURIComponent(RegPassword)+'&Mode=SignUp'+Protocol;
 
 				$.ajax({
 					type: "GET",
@@ -1820,7 +2183,7 @@
 							$('#UnLoggedInDiv').hide('1');
 							$('#LoggedInDiv').show('1');
 							$('#LoggedInUserDropDownMenuContainer').show('1');
-							parent.jQuery.fn.colorbox.close();
+							$.fn.colorbox.close();
 
 							var IsUserLoggedInHiddenObj		=	document.getElementById('IsUserLoggedInHidden');
 							if(IsUserLoggedInHiddenObj)
@@ -1901,10 +2264,10 @@
 		}
 		function FacebookLogin()
 		{
-			/*window.location.href = 'https://www.facebook.com/dialog/oauth?client_id=320454494705410&redirect_uri=http%3A%2F%2Fwww.wahgifts.com%2Fprivacy-policy&state=6b0a95808cca749feb296eb6b463c030&canvas=0&fbconnect=0&scope=publish_stream%2Cemail%2Cuser_location';
+			/*window.location.href = 'https://www.facebook.com/dialog/oauth?client_id=320454494705410&redirect_uri=http%3A%2F%2Fwww.wahgifts.com%2Fprivacy-policy&state=bf285ab4aacda68320a53a90547160ae&canvas=0&fbconnect=0&scope=publish_stream%2Cemail%2Cuser_location';
 			return false;*/
 			var Msg = '';
-			var Data = 'Mode=FacebookLogin';
+			var Data = 'Mode=FacebookLogin'+Protocol;
 
 			$.ajax({
 				type: "GET",
@@ -1913,7 +2276,7 @@
 				success: function(Response){
 					if(Response == 'Success')
 					{			
-						window.location.href = 'https://www.facebook.com/dialog/oauth?client_id=320454494705410&redirect_uri=http%3A%2F%2Fwww.wahgifts.com%2Fprivacy-policy&state=6b0a95808cca749feb296eb6b463c030&canvas=0&fbconnect=0&scope=publish_stream%2Cemail%2Cuser_location';
+						window.location.href = 'https://www.facebook.com/dialog/oauth?client_id=320454494705410&redirect_uri=http%3A%2F%2Fwww.wahgifts.com%2Fprivacy-policy&state=bf285ab4aacda68320a53a90547160ae&canvas=0&fbconnect=0&scope=publish_stream%2Cemail%2Cuser_location';
 						return false;
 					}
 					else
@@ -1935,24 +2298,23 @@
 				 console.log('User cancelled login or did not fully authorize.');
 			   }
 			 }, {scope: 'email,user_likes'});*/
-
 		}
 	</script>
-			<script type="text/javascript">
+				<script type="text/javascript">
 
-		  var _gaq = _gaq || [];
-		  _gaq.push(['_setAccount', 'UA-32790619-1']);
-		  _gaq.push(['_setDomainName', 'wahgifts.com']);
-		  _gaq.push(['_trackPageview']);
+			  var _gaq = _gaq || [];
+			  _gaq.push(['_setAccount', 'UA-32790619-1']);
+			  _gaq.push(['_setDomainName', 'wahgifts.com']);
+			  _gaq.push(['_trackPageview']);
 
-		  (function() {
-			var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-			ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-		  })();
+			  (function() {
+				var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+				ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+				var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+			  })();
 
-		</script>
-		<!-- Start of StatCounter Code for Default Guide -->
+			</script>
+					<!-- Start of StatCounter Code for Default Guide -->
 		<script type="text/javascript">
 		var sc_project=8051998; 
 		var sc_invisible=1; 
