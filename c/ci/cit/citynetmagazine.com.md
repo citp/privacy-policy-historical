@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the citynetmagazine.com privacy policy that was archived on 2013-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130514013427id_/http%3A//www.citynetmagazine.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the citynetmagazine.com privacy policy that was archived on 2013-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131115112547id_/http%3A//www.citynetmagazine.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
