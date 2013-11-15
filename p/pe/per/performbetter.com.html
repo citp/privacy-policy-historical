@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the performbetter.com privacy policy that was archived on 2013-05-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130517021039id_/http%3A//www.performbetter.com/webapp/wcs/stores/servlet/PBOnePieceView%3FstoreId%3D10151%26catalogId%3D10751%26languageId%3D-1%26pagename%3D41) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the performbetter.com privacy policy that was archived on 2013-11-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131115024447id_/http%3A//www.performbetter.com/webapp/wcs/stores/servlet/PBOnePieceView%3FstoreId%3D10151%26catalogId%3D10751%26languageId%3D-1%26pagename%3D41) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" class="dj_webkit dj_contentbox"><head>
 
@@ -1052,10 +1052,11 @@ clear: both;
 
 
 
+
 	
 		<script type="text/javascript" src="http://performbetter-ac.celebros-analytics.com/AutoComplete/CelebrosAutoCompleteV2.js"></script>  
 		<script type="text/javascript" src="http://performbetter-ac.celebros-analytics.com/AutoComplete/autocompleteV2.js"></script>
-		<link href="http://t.p.mybuys.com/css/mbstyles.css" type="text/css" rel="stylesheet" id="mybuysstyles">
+		<link href="http://t.p.mybuys.com/clients/PERFORMBETTER/css/styles.css" type="text/css" rel="stylesheet" id="mybuysstyles">
 		<script type="text/javascript" src="http://t.p.mybuys.com/js/mybuys3.js"></script>
 		<script type="text/javascript" src="http://t.p.mybuys.com/clients/PERFORMBETTER/js/setup.js"></script>
 	
@@ -1252,9 +1253,12 @@ targetWin.focus();
 <div class="store_phone"><strong>888-556-7464</strong><br><span class="store_phone_text">Customer Service</span></div>
 
 
+	
 	<div id="livechat">
  <div id="LP_DIV_1365539630439" style="width:132px;height:26px;"></div>
 	</div> 
+	
+	
 
 
 
@@ -1273,16 +1277,36 @@ targetWin.focus();
 
 </form> 
 
+	<script type="text/javascript" src="http://performbv8-ac.celebros.com/AutoComplete/Scripts/CelebrosAutoCompleteV2.js"></script>
+
 <script>
 // Naively assumed key is store name - need to get from properties file...
 var sitekey = "";
 
 	
-		sitekey = "PerformBetter";
+//CelebrosAutoComplete(sitekey,"textfield",onSelect);
+CelebrosAutoComplete("performbv8", "textfield", xonSelect, "performbv8-ac.celebros.com", "performbv8-ac.celebros.com");
+	function xonSelect(aParameter)
+	{ 
+		if ((aParameter["SelectedURL"]!="")&&(aParameter["IsAutoComplete"]))
+		{	
+			// The following is a slick trick to strip off the scheme, host, and path so that this works
+			// in dev and prod.  Celebros is sending the whole absolute URL for the selected item link
+            window.location = aParameter["SelectedURL"].split("/").pop() + "?cmp=cel&trigger=ac";
+		}
+		else
+		{ 
+			// http://www.performbetter.com/webapp/wcs/stores/servlet/AjaxCatalogSearchResultView?textfield=body&storeId=10151&langId=-1&catalogId=10751#1
+			// http://www.performbetter.com/webapp/wcs/stores/servlet/AjaxCatalogSearchResultView?textfield=jump&s=1
+                var targetLocation = "http:" + "//" + window.location.host + "/webapp/wcs/stores/servlet/" + "AjaxCatalogSearchResultView?storeId=10151&catalogId=10751&textfield=" + encodeURI(aParameter["SelectedQuery"]) + "&s=1";
+                  if (aParameter["IsAutoComplete"].toString().toLowerCase() == "true")
+                            targetLocation += "&Trigger=ac";
+                  window.location = targetLocation;
+		}
+	}
 	
 	
 
-CelebrosAutoComplete(sitekey,"textfield",onSelect);
 </script>
 
 
@@ -1402,7 +1426,7 @@ CelebrosAutoComplete(sitekey,"textfield",onSelect);
 								
 							
 								<li>
-									<a href="http://www.performbetter.com/webapp/wcs/stores/servlet/Category4_10151_10751_1000234_-1_1000231_1000231_image_0">Balance Boards &amp; Beams</a>
+									<a href="http://www.performbetter.com/webapp/wcs/stores/servlet/Category4_10151_10751_2017510_-1_1000231_1000231_image_0">Balance Beams</a>
 								</li>
 						
 							
@@ -1416,7 +1440,21 @@ CelebrosAutoComplete(sitekey,"textfield",onSelect);
 								
 							
 								<li>
-									<a href="http://www.performbetter.com/webapp/wcs/stores/servlet/Category4_10151_10751_1000232_-1_1000231_1000231_image_0">Balance Pillows, Steps &amp; Pads</a>
+									<a href="http://www.performbetter.com/webapp/wcs/stores/servlet/Category4_10151_10751_2017509_-1_1000231_1000231_image_0">Balance Boards &amp; Wobble Boards</a>
+								</li>
+						
+							
+								
+								
+								
+								
+								
+								
+								
+								
+							
+								<li>
+									<a href="http://www.performbetter.com/webapp/wcs/stores/servlet/Category4_10151_10751_1000232_-1_1000231_1000231_image_0">Balance Pillows &amp; Pads</a>
 								</li>
 						
 							
@@ -1431,20 +1469,6 @@ CelebrosAutoComplete(sitekey,"textfield",onSelect);
 							
 								<li>
 									<a href="http://www.performbetter.com/webapp/wcs/stores/servlet/Category4_10151_10751_1000438_-1_1000231_1000231_image_0">BOSU Balance Trainers</a>
-								</li>
-						
-							
-								
-								
-								
-								
-								
-								
-								
-								
-							
-								<li>
-									<a href="http://www.performbetter.com/webapp/wcs/stores/servlet/Category4_10151_10751_1000235_-1_1000231_1000231_image_0">Foam Rollers</a>
 								</li>
 						
 							
@@ -1487,20 +1511,6 @@ CelebrosAutoComplete(sitekey,"textfield",onSelect);
 							
 								<li>
 									<a href="http://www.performbetter.com/webapp/wcs/stores/servlet/Category4_10151_10751_1000419_-1_1000231_1000231_image_0">Rebounders / Trampolines</a>
-								</li>
-						
-							
-								
-								
-								
-								
-								
-								
-								
-								
-							
-								<li>
-									<a href="http://www.performbetter.com/webapp/wcs/stores/servlet/Category4_10151_10751_1000400_-1_1000231_1000231_image_0">Training Packages</a>
 								</li>
 						
 				</ul>
@@ -1570,7 +1580,7 @@ CelebrosAutoComplete(sitekey,"textfield",onSelect);
 								
 							
 								<li>
-									<a href="http://www.performbetter.com/webapp/wcs/stores/servlet/Category4_10151_10751_1000374_-1_1000219_1000219_image_0">Boxing Training Equipment</a>
+									<a href="http://www.performbetter.com/webapp/wcs/stores/servlet/Category4_10151_10751_2017511_-1_1000219_1000219_image_0">Body Bars</a>
 								</li>
 						
 							
@@ -1585,6 +1595,20 @@ CelebrosAutoComplete(sitekey,"textfield",onSelect);
 							
 								<li>
 									<a href="http://www.performbetter.com/webapp/wcs/stores/servlet/Category4_10151_10751_2001509_-1_1000219_1000219_image_0">MoveStrong FTS </a>
+								</li>
+						
+							
+								
+								
+								
+								
+								
+								
+								
+								
+							
+								<li>
+									<a href="http://www.performbetter.com/webapp/wcs/stores/servlet/Category4_10151_10751_2017512_-1_1000219_1000219_image_0">Sandbag Training Weights</a>
 								</li>
 						
 							
@@ -1626,7 +1650,7 @@ CelebrosAutoComplete(sitekey,"textfield",onSelect);
 								
 							
 								<li>
-									<a href="http://www.performbetter.com/webapp/wcs/stores/servlet/Category4_10151_10751_1000221_-1_1000219_1000219_image_0">Weight Vests, Body Bars, Sandbags</a>
+									<a href="http://www.performbetter.com/webapp/wcs/stores/servlet/Category4_10151_10751_2017513_-1_1000219_1000219_image_0">Weighted Vests</a>
 								</li>
 						
 							
@@ -1976,7 +2000,7 @@ CelebrosAutoComplete(sitekey,"textfield",onSelect);
 								
 							
 								<li>
-									<a href="http://www.performbetter.com/webapp/wcs/stores/servlet/Category4_10151_10751_1000353_-1_1000281_1000281_image_0">Resistance Tubing</a>
+									<a href="http://www.performbetter.com/webapp/wcs/stores/servlet/Category4_10151_10751_2017517_-1_1000281_1000281_image_0">Lifeline Tubing with Handles</a>
 								</li>
 						
 							
@@ -1990,7 +2014,35 @@ CelebrosAutoComplete(sitekey,"textfield",onSelect);
 								
 							
 								<li>
-									<a href="http://www.performbetter.com/webapp/wcs/stores/servlet/Category4_10151_10751_1000337_-1_1000281_1000281_image_0">Training Packages</a>
+									<a href="http://www.performbetter.com/webapp/wcs/stores/servlet/Category4_10151_10751_2017516_-1_1000281_1000281_image_0">Stretch Cordz</a>
+								</li>
+						
+							
+								
+								
+								
+								
+								
+								
+								
+								
+							
+								<li>
+									<a href="http://www.performbetter.com/webapp/wcs/stores/servlet/Category4_10151_10751_2017514_-1_1000281_1000281_image_0">Thera-Band Bands &amp; Tubing</a>
+								</li>
+						
+							
+								
+								
+								
+								
+								
+								
+								
+								
+							
+								<li>
+									<a href="http://www.performbetter.com/webapp/wcs/stores/servlet/Category4_10151_10751_2017515_-1_1000281_1000281_image_0">Tubing Devices</a>
 								</li>
 						
 				</ul>
@@ -2102,7 +2154,7 @@ CelebrosAutoComplete(sitekey,"textfield",onSelect);
 								
 							
 								<li>
-									<a href="http://www.performbetter.com/webapp/wcs/stores/servlet/Category4_10151_10751_2009011_-1_2009009_2009009_image_0">Aquatics</a>
+									<a href="http://www.performbetter.com/webapp/wcs/stores/servlet/Category4_10151_10751_1000524_-1_2009009_2009009_image_0">Cleaning Supplies</a>
 								</li>
 						
 							
@@ -2116,7 +2168,7 @@ CelebrosAutoComplete(sitekey,"textfield",onSelect);
 								
 							
 								<li>
-									<a href="http://www.performbetter.com/webapp/wcs/stores/servlet/Category4_10151_10751_1000524_-1_2009009_2009009_image_0">Cleaning Supplies</a>
+									<a href="http://www.performbetter.com/webapp/wcs/stores/servlet/Category4_10151_10751_2009012_-1_2009009_2009009_image_0">Exercise Mats</a>
 								</li>
 						
 							
@@ -2158,20 +2210,6 @@ CelebrosAutoComplete(sitekey,"textfield",onSelect);
 								
 							
 								<li>
-									<a href="http://www.performbetter.com/webapp/wcs/stores/servlet/Category4_10151_10751_2009012_-1_2009009_2009009_image_0">Mats</a>
-								</li>
-						
-							
-								
-								
-								
-								
-								
-								
-								
-								
-							
-								<li>
 									<a href="http://www.performbetter.com/webapp/wcs/stores/servlet/Category4_10151_10751_2009010_-1_2009009_2009009_image_0">Sound Systems &amp; Microphones</a>
 								</li>
 						
@@ -2186,7 +2224,7 @@ CelebrosAutoComplete(sitekey,"textfield",onSelect);
 								
 							
 								<li>
-									<a href="http://www.performbetter.com/webapp/wcs/stores/servlet/Category4_10151_10751_2010009_-1_2009009_2009009_image_0">Step Training</a>
+									<a href="http://www.performbetter.com/webapp/wcs/stores/servlet/Category4_10151_10751_2010009_-1_2009009_2009009_image_0">Step Trainers</a>
 								</li>
 						
 							
@@ -2227,7 +2265,7 @@ CelebrosAutoComplete(sitekey,"textfield",onSelect);
 				
 				
 				
-					<a href="http://www.performbetter.com/webapp/wcs/stores/servlet/Category3_10151_10751_1000156_-1_Y_image_0"><span>Kettlebells, Training Ropes, Dumbbells &amp; Racks</span></a>
+					<a href="http://www.performbetter.com/webapp/wcs/stores/servlet/Category3_10151_10751_1000156_-1_Y_image_0"><span>Kettlebells, Dumbbells, Training Ropes &amp; Racks</span></a>
 				
 				<ul>
 						
@@ -2340,7 +2378,7 @@ CelebrosAutoComplete(sitekey,"textfield",onSelect);
 								
 							
 								<li>
-									<a href="http://www.performbetter.com/webapp/wcs/stores/servlet/Category4_10151_10751_1000168_-1_1000165_1000165_image_0">Racks &amp; Rebounders</a>
+									<a href="http://www.performbetter.com/webapp/wcs/stores/servlet/Category4_10151_10751_2017519_-1_1000165_1000165_image_0">Medicine Ball Rebounders</a>
 								</li>
 						
 							
@@ -2354,7 +2392,7 @@ CelebrosAutoComplete(sitekey,"textfield",onSelect);
 								
 							
 								<li>
-									<a href="http://www.performbetter.com/webapp/wcs/stores/servlet/Category4_10151_10751_1000169_-1_1000165_1000165_image_0">Training Packages</a>
+									<a href="http://www.performbetter.com/webapp/wcs/stores/servlet/Category4_10151_10751_2017518_-1_1000165_1000165_image_0">Medicine Ball Storage Racks</a>
 								</li>
 						
 				</ul>
@@ -2424,7 +2462,7 @@ CelebrosAutoComplete(sitekey,"textfield",onSelect);
 								
 							
 								<li>
-									<a href="http://www.performbetter.com/webapp/wcs/stores/servlet/Category4_10151_10751_1000191_-1_1000184_1000184_image_0">Plyo-Boxes &amp; Steps</a>
+									<a href="http://www.performbetter.com/webapp/wcs/stores/servlet/Category4_10151_10751_1000191_-1_1000184_1000184_image_0">Plyo-Boxes</a>
 								</li>
 						
 							
@@ -2452,21 +2490,7 @@ CelebrosAutoComplete(sitekey,"textfield",onSelect);
 								
 							
 								<li>
-									<a href="http://www.performbetter.com/webapp/wcs/stores/servlet/Category4_10151_10751_1000185_-1_1000184_1000184_image_0">Training Packages</a>
-								</li>
-						
-							
-								
-								
-								
-								
-								
-								
-								
-								
-							
-								<li>
-									<a href="http://www.performbetter.com/webapp/wcs/stores/servlet/Category4_10151_10751_1000193_-1_1000184_1000184_image_0">Miscellaneous Plyometric Equipment</a>
+									<a href="http://www.performbetter.com/webapp/wcs/stores/servlet/Category4_10151_10751_1000193_-1_1000184_1000184_image_0">Misc. Plyometric Equipment</a>
 								</li>
 						
 				</ul>
@@ -2522,21 +2546,7 @@ CelebrosAutoComplete(sitekey,"textfield",onSelect);
 								
 							
 								<li>
-									<a href="http://www.performbetter.com/webapp/wcs/stores/servlet/Category4_10151_10751_1000206_-1_1000201_1000201_image_0">Exercise Mats</a>
-								</li>
-						
-							
-								
-								
-								
-								
-								
-								
-								
-								
-							
-								<li>
-									<a href="http://www.performbetter.com/webapp/wcs/stores/servlet/Category4_10151_10751_1000363_-1_1000201_1000201_image_0">Massagers</a>
+									<a href="http://www.performbetter.com/webapp/wcs/stores/servlet/Category4_10151_10751_2018011_-1_1000201_1000201_image_0">BodyBlades</a>
 								</li>
 						
 							
@@ -2564,35 +2574,7 @@ CelebrosAutoComplete(sitekey,"textfield",onSelect);
 								
 							
 								<li>
-									<a href="http://www.performbetter.com/webapp/wcs/stores/servlet/Category4_10151_10751_1000365_-1_1000201_1000201_image_0">Strengthening Helpers</a>
-								</li>
-						
-							
-								
-								
-								
-								
-								
-								
-								
-								
-							
-								<li>
-									<a href="http://www.performbetter.com/webapp/wcs/stores/servlet/Category4_10151_10751_1000280_-1_1000201_1000201_image_0">Stretching Helpers</a>
-								</li>
-						
-							
-								
-								
-								
-								
-								
-								
-								
-								
-							
-								<li>
-									<a href="http://www.performbetter.com/webapp/wcs/stores/servlet/Category4_10151_10751_1000432_-1_1000201_1000201_image_0">Training Room Supplies</a>
+									<a href="http://www.performbetter.com/webapp/wcs/stores/servlet/Category4_10151_10751_2018012_-1_1000201_1000201_image_0">Shins, Ankles, Calves &amp; Feet</a>
 								</li>
 						
 							
@@ -2621,6 +2603,20 @@ CelebrosAutoComplete(sitekey,"textfield",onSelect);
 							
 								<li>
 									<a href="http://www.performbetter.com/webapp/wcs/stores/servlet/Category4_10151_10751_1000208_-1_1000201_1000201_image_0">Wraps, Straps &amp; Supports</a>
+								</li>
+						
+							
+								
+								
+								
+								
+								
+								
+								
+								
+							
+								<li>
+									<a href="http://www.performbetter.com/webapp/wcs/stores/servlet/Category4_10151_10751_2018013_-1_1000201_1000201_image_0">Wrists, Hands &amp; Fingers</a>
 								</li>
 						
 				</ul>
@@ -2774,7 +2770,21 @@ CelebrosAutoComplete(sitekey,"textfield",onSelect);
 								
 							
 								<li>
-									<a href="http://www.performbetter.com/webapp/wcs/stores/servlet/Category4_10151_10751_1000382_-1_1000171_1000171_image_0">Agility Training Equipment</a>
+									<a href="http://www.performbetter.com/webapp/wcs/stores/servlet/Category4_10151_10751_1000382_-1_1000171_1000171_image_0">Agility Training</a>
+								</li>
+						
+							
+								
+								
+								
+								
+								
+								
+								
+								
+							
+								<li>
+									<a href="http://www.performbetter.com/webapp/wcs/stores/servlet/Category4_10151_10751_2018509_-1_1000171_1000171_image_0">Lateral Speed Training</a>
 								</li>
 						
 							
@@ -2802,7 +2812,35 @@ CelebrosAutoComplete(sitekey,"textfield",onSelect);
 								
 							
 								<li>
+									<a href="http://www.performbetter.com/webapp/wcs/stores/servlet/Category4_10151_10751_2018510_-1_1000171_1000171_image_0">Reaction Training</a>
+								</li>
+						
+							
+								
+								
+								
+								
+								
+								
+								
+								
+							
+								<li>
 									<a href="http://www.performbetter.com/webapp/wcs/stores/servlet/Category4_10151_10751_1000174_-1_1000171_1000171_image_0">Resistance Training</a>
+								</li>
+						
+							
+								
+								
+								
+								
+								
+								
+								
+								
+							
+								<li>
+									<a href="http://www.performbetter.com/webapp/wcs/stores/servlet/Category4_10151_10751_2018511_-1_1000171_1000171_image_0">Speed / Agility Ladders</a>
 								</li>
 						
 							
@@ -3165,7 +3203,7 @@ CelebrosAutoComplete(sitekey,"textfield",onSelect);
 				
 				
 				
-					<a href="http://www.performbetter.com/webapp/wcs/stores/servlet/Category3_10151_10751_1000239_-1_Y_image_0"><span>Weight Training</span></a>
+					<a href="http://www.performbetter.com/webapp/wcs/stores/servlet/Category3_10151_10751_1000239_-1_Y_image_0"><span>Weight Lifting Equipment</span></a>
 				
 				<ul>
 						
@@ -3208,7 +3246,7 @@ CelebrosAutoComplete(sitekey,"textfield",onSelect);
 								
 							
 								<li>
-									<a href="http://www.performbetter.com/webapp/wcs/stores/servlet/Category4_10151_10751_1000243_-1_1000239_1000239_image_0">Belts, Cables, Straps &amp; Collars</a>
+									<a href="http://www.performbetter.com/webapp/wcs/stores/servlet/Category4_10151_10751_2018513_-1_1000239_1000239_image_0">Belts &amp; Aids</a>
 								</li>
 						
 							
@@ -3222,7 +3260,7 @@ CelebrosAutoComplete(sitekey,"textfield",onSelect);
 								
 							
 								<li>
-									<a href="http://www.performbetter.com/webapp/wcs/stores/servlet/Category4_10151_10751_1000505_-1_1000239_1000239_image_0">FreeMotion Fitness Equipoment</a>
+									<a href="http://www.performbetter.com/webapp/wcs/stores/servlet/Category4_10151_10751_2018515_-1_1000239_1000239_image_0">Benches</a>
 								</li>
 						
 							
@@ -3236,7 +3274,35 @@ CelebrosAutoComplete(sitekey,"textfield",onSelect);
 								
 							
 								<li>
-									<a href="http://www.performbetter.com/webapp/wcs/stores/servlet/Category4_10151_10751_1000411_-1_1000239_1000239_image_0">Keiser Fitness Equipment</a>
+									<a href="http://www.performbetter.com/webapp/wcs/stores/servlet/Category4_10151_10751_2018512_-1_1000239_1000239_image_0">Cable Accessories</a>
+								</li>
+						
+							
+								
+								
+								
+								
+								
+								
+								
+								
+							
+								<li>
+									<a href="http://www.performbetter.com/webapp/wcs/stores/servlet/Category4_10151_10751_2018514_-1_1000239_1000239_image_0">Collars</a>
+								</li>
+						
+							
+								
+								
+								
+								
+								
+								
+								
+								
+							
+								<li>
+									<a href="http://www.performbetter.com/webapp/wcs/stores/servlet/Category4_10151_10751_2018516_-1_1000239_1000239_image_0">Glute-Ham Benches</a>
 								</li>
 						
 							
@@ -3264,7 +3330,7 @@ CelebrosAutoComplete(sitekey,"textfield",onSelect);
 								
 							
 								<li>
-									<a href="http://www.performbetter.com/webapp/wcs/stores/servlet/Category4_10151_10751_1000446_-1_1000239_1000239_image_0">Star Trac</a>
+									<a href="http://www.performbetter.com/webapp/wcs/stores/servlet/Category4_10151_10751_2018517_-1_1000239_1000239_image_0">Platforms</a>
 								</li>
 						
 							
@@ -3278,7 +3344,7 @@ CelebrosAutoComplete(sitekey,"textfield",onSelect);
 								
 							
 								<li>
-									<a href="http://www.performbetter.com/webapp/wcs/stores/servlet/Category4_10151_10751_1000491_-1_1000239_1000239_image_0">UCS Strength and Speed </a>
+									<a href="http://www.performbetter.com/webapp/wcs/stores/servlet/Category4_10151_10751_2018518_-1_1000239_1000239_image_0">Racks</a>
 								</li>
 						
 							
@@ -3292,7 +3358,7 @@ CelebrosAutoComplete(sitekey,"textfield",onSelect);
 								
 							
 								<li>
-									<a href="http://www.performbetter.com/webapp/wcs/stores/servlet/Category4_10151_10751_1000246_-1_1000239_1000239_image_0">Weight Lifting Equipment</a>
+									<a href="http://www.performbetter.com/webapp/wcs/stores/servlet/Category4_10151_10751_2018519_-1_1000239_1000239_image_0">Storage</a>
 								</li>
 						
 							
@@ -3306,7 +3372,133 @@ CelebrosAutoComplete(sitekey,"textfield",onSelect);
 								
 							
 								<li>
-									<a href="http://www.performbetter.com/webapp/wcs/stores/servlet/Category4_10151_10751_1000443_-1_1000239_1000239_image_0">York Strength Training Series</a>
+									<a href="http://www.performbetter.com/webapp/wcs/stores/servlet/Category4_10151_10751_2018520_-1_1000239_1000239_image_0">Weight Plates</a>
+								</li>
+						
+				</ul>
+				
+				 
+	
+				</li>
+
+		
+		
+			
+		
+				
+					
+					
+					
+					
+					
+					
+					
+				
+				
+				<li>
+				
+				
+				
+					<a href="http://www.performbetter.com/webapp/wcs/stores/servlet/Category3_10151_10751_2018521_-1_Y_image_0"><span>Weight Lifting Machines</span></a>
+				
+				<ul>
+						
+							
+								
+								
+								
+								
+								
+								
+								
+								
+							
+								<li>
+									<a href="http://www.performbetter.com/webapp/wcs/stores/servlet/Category4_10151_10751_2018522_-1_2018521_2018521_image_0">FreeMotion Commercial Strength</a>
+								</li>
+						
+							
+								
+								
+								
+								
+								
+								
+								
+								
+							
+								<li>
+									<a href="http://www.performbetter.com/webapp/wcs/stores/servlet/Category4_10151_10751_2018523_-1_2018521_2018521_image_0">FreeMotion Epic</a>
+								</li>
+						
+							
+								
+								
+								
+								
+								
+								
+								
+								
+							
+								<li>
+									<a href="http://www.performbetter.com/webapp/wcs/stores/servlet/Category4_10151_10751_2018524_-1_2018521_2018521_image_0">Keiser Fitness Equipment</a>
+								</li>
+						
+							
+								
+								
+								
+								
+								
+								
+								
+								
+							
+								<li>
+									<a href="http://www.performbetter.com/webapp/wcs/stores/servlet/Category4_10151_10751_2018525_-1_2018521_2018521_image_0">Star Trac HumanSport Line</a>
+								</li>
+						
+							
+								
+								
+								
+								
+								
+								
+								
+								
+							
+								<li>
+									<a href="http://www.performbetter.com/webapp/wcs/stores/servlet/Category4_10151_10751_2018526_-1_2018521_2018521_image_0">Star Trac Impact Strength Line</a>
+								</li>
+						
+							
+								
+								
+								
+								
+								
+								
+								
+								
+							
+								<li>
+									<a href="http://www.performbetter.com/webapp/wcs/stores/servlet/Category4_10151_10751_2018527_-1_2018521_2018521_image_0">UCS Strength and Speed</a>
+								</li>
+						
+							
+								
+								
+								
+								
+								
+								
+								
+								
+							
+								<li>
+									<a href="http://www.performbetter.com/webapp/wcs/stores/servlet/Category4_10151_10751_2018528_-1_2018521_2018521_image_0">York Strength Training Series</a>
 								</li>
 						
 				</ul>
@@ -3783,15 +3975,16 @@ CelebrosAutoComplete(sitekey,"textfield",onSelect);
 <ul>
 <li><a href="PBOnePieceView?storeId=10151&amp;catalogId=10751&amp;pagename=131">Balance &amp; Stabilization</a></li>
 <li><a href="PBOnePieceView?storeId=10151&amp;catalogId=10751&amp;pagename=53">Bands &amp; Tubing</a></li>
-<li><a href="PBOnePieceView?storeId=10151&amp;catalogId=10751&amp;pagename=655">Flexibility &amp; Recovery</a></li>
+<li><a href="PBOnePieceView?storeId=10151&amp;catalogId=10751&amp;pagename=655">Flexibility &amp; Stretching</a></li>
 <li><a href="PBOnePieceView?storeId=10151&amp;catalogId=10751&amp;pagename=176">Kettlebells</a></li>
 <li><a href="PBOnePieceView?storeId=10151&amp;catalogId=10751&amp;pagename=129">Medicine Balls</a></li>
 <li><a href="PBOnePieceView?storeId=10151&amp;catalogId=10751&amp;pagename=54">Plyometrics</a></li>
+<li><a href="PBOnePieceView?storeId=10151&amp;catalogId=10751&amp;pagename=470">Rehab &amp; Recovery</a></li>
 <li><a href="PBOnePieceView?storeId=10151&amp;catalogId=10751&amp;pagename=51">Speed &amp; Agility</a></li>
 <li><a href="PBOnePieceView?storeId=10151&amp;catalogId=10751&amp;pagename=138">Sports Training &amp; Conditioning</a></li>
 <br>       
 <li><a href="PBOnePieceView?storeId=10151&amp;catalogId=10751&amp;pagename=62">All Training Articles</a></li>
-<li><a href="PBOnePieceView?storeId=10151&amp;catalogId=10751&amp;pagename=63">All Training Exercises &amp; Videos</a></li>         
+<li><a href="PBOnePieceView?storeId=10151&amp;catalogId=10751&amp;pagename=63">All Training Exercises</a></li>         
 <li><a href="PBOnePieceView?storeId=10151&amp;catalogId=10751&amp;pagename=32">Ask the Expert</a></li>
 <li><a href="PBOnePieceView?storeId=10151&amp;catalogId=10751&amp;pagename=246">Fitness Facility Design</a></li>
 <li><a href="PBOnePieceView?storeId=10151&amp;catalogId=10751&amp;pagename=432">Metabolic Stability Series</a></li>
@@ -4204,11 +4397,14 @@ CelebrosAutoComplete(sitekey,"textfield",onSelect);
   <li><a href="SeminarsDisplay?catalogId=11801&amp;categoryId=2009511&amp;langId=-1&amp;storeId=10151">Functional Movement Workshops</a></li>
   <li><a href="SeminarsDisplay?catalogId=11801&amp;categoryId=2014510&amp;langId=-1&amp;storeId=10151">FMS Level 2 Workshops</a></li>
   <li><a href="SeminarsDisplay?catalogId=11801&amp;categoryId=2009512&amp;langId=-1&amp;storeId=10151">Functional Training Summits</a></li>
-  <li><a href="SeminarsDisplay?catalogId=11801&amp;categoryId=2009514&amp;langId=-1&amp;storeId=10151">Battling Ropes Certification</a></li>
+  <li><a href="SeminarsDisplay?catalogId=11801&amp;categoryId=2016009&amp;langId=-1&amp;storeId=10151">Dynamic Variable Resistance Training</a></li>
+  <li><a href="SeminarsDisplay?catalogId=11801&amp;categoryId=2009513&amp;langId=-1&amp;storeId=10151">Results Fitness Business Seminar</a><br>
+  </li>
 
   <br>
   <li><a href="PBOnePieceView?storeId=10151&amp;catalogId=10751&amp;pagename=385">Perform Better Seminars Pass</a></li>
 </ul>
+
                 
 
     
@@ -5806,24 +6002,15 @@ display: inline;
 <div class="promo_left">&nbsp;</div>
 
  
+<div class="promo_text" style="width:310px; padding-left: 80px; padding-right: 80px;"> <a href="Category3_10151_10752_2000510_-1_Y_image_0"><img src="/wcsstore/MFAStoreFrontAssetStore/images/special-offer.png" class="promo_icon_left"></a>
 
-<div class="promo_text" style="width:310px; padding-left: 80px; padding-right: 80px;">
-
-<img src="/wcsstore/MFAStoreFrontAssetStore/images/freeshipicon.png" class="promo_icon_left">
-
-FREE SHIPPING ON ORDERS OVER $49
-
-<a onclick="PopupCenter('CurrentPromotionView?catalogId=10754&amp;langId=-1&amp;storeId=10151', 'myPop1',940,500);" href="#"><img src="/wcsstore/MFAStoreFrontAssetStore/images/details.png" class="promo_more"></a>
+<a style="color: #000000" href="Category3_10151_10751_2011009_-1_Y_image_0">SPEND MORE,SAVE MORE - SHOP NOW</a> <a onclick="PopupCenter('CurrentPromotionView?catalogId=10754&amp;langId=-1&amp;storeId=10151', 'myPop1',940,500);" href="#"><img src="/wcsstore/MFAStoreFrontAssetStore/images/details.png" class="promo_more"></a>
 
 </div>
 
 <div class="promo_right"></div>
-
 </div>
-
 </div>
-
-
                 
 
     
@@ -10390,10 +10577,9 @@ newWindow.focus();
 
                                                   
                         <div id="footer1-module1">
-          <h3>Products By Category</h3>
+          <p style="color:#29abe2; font-weight:bold; margin-bottom:5px; font-size:11px;">Products By Category</p>
           <p>
             <a href="Category3_10151_10752_2000510_-1_Y_image_0">On Sale</a><br>
-            <a href="Category3_10151_10751_2011009_-1_Y_image_0">Best Sellers</a><br>
             <a href="Category3_10151_10751_1000231_-1_Y_image_0">Balance &amp; Stabilization</a><br>
             <a href="Category3_10151_10751_1000219_-1_Y_image_0">Bodyweight Training</a><br>
             <a href="Category3_10151_10751_1000252_-1_Y_image_0">Books, DVDs &amp; Software</a><br>
@@ -10401,21 +10587,21 @@ newWindow.focus();
             <a href="Category3_10151_10751_1000281_-1_Y_image_0">Exercise Bands &amp; Resistance Tubing</a><br>
             <a href="Category3_10151_10751_1000486_-1_Y_image_0">Flexibility, Stretching &amp; Recovery</a><br>
             <a href="Category3_10151_10751_2009009_-1_Y_image_0">Group Fitness</a><br>
+            <a href="Category3_10151_10751_1000156_-1_Y_image_0">Kettlebells, Dumbbells, Training Ropes</a>
 </p>
         </div>
 <div id="footer1-module2">
           <p>
-            <a href="Category3_10151_10751_1000156_-1_Y_image_0">Kettlebells, Ropes &amp; Dumbbells</a><br>
-            <a href="Category3_10151_10751_1000165_-1_Y_image_0">Medicine Balls, Racks &amp; Rebounders</a><br>
+            <a href="Category3_10151_10751_1000165_-1_Y_image_0">Medicine Balls, Racks, Rebounders</a><br>
             <a href="Category3_10151_10751_1000184_-1_Y_image_0">Plyometric Equipment</a><br>
             <a href="Category3_10151_10751_1000201_-1_Y_image_0">R.O.M., Training &amp; Rehab</a><br>
-            <a href="Category3_10151_10751_1000179_-1_Y_image_0">Rubber Flooring, Turf &amp; Padding</a><br>
+            <a href="Category3_10151_10751_1000179_-1_Y_image_0">Rubber Flooring, Turf, Padding</a><br>
             <a href="Category3_10151_10751_1000171_-1_Y_image_0">Speed &amp; Agility</a><br>
             <a href="Category3_10151_10751_1000501_-1_Y_image_0">Sports Training Equipment</a><br>
             <a href="Category3_10151_10751_1000194_-1_Y_image_0">Testing &amp; Measuring</a><br>
-            <a href="Category3_10151_10751_1000239_-1_Y_image_0">Weight Training</a>
-            </p>
-        </div>
+            <a href="Category3_10151_10751_1000239_-1_Y_image_0">Weight Lifting Equipment</a><br>
+            <a href="Category3_10151_10751_2018521_-1_Y_image_0">Weight Liftiing Machines</a></p>
+</div>
                 
 
     
@@ -10816,7 +11002,7 @@ newWindow.focus();
 
                                                   
                         <div id="footer1-module3">
-          <h3>Support</h3>
+          <p style="color:#29abe2; font-weight:bold; margin-bottom:5px; font-size:11px;">Support</p>
           <a href="PBOnePieceView?storeId=10151&amp;catalogId=10751&amp;languageId=-1&amp;pagename=31">Contact Us</a><br>
           <a href="PBOnePieceView?storeId=10151&amp;catalogId=10751&amp;languageId=-1&amp;pagename=109">Returns</a><br>
           <a href="PBOnePieceView?storeId=10151&amp;catalogId=10751&amp;languageId=-1&amp;pagename=111">Shipping (Cont. U.S.)</a><br>
@@ -10825,13 +11011,14 @@ newWindow.focus();
           <a href="PBOnePieceView?storeId=10151&amp;catalogId=10751&amp;languageId=-1&amp;pagename=41">Privacy Statement</a><br>
 </div>
 <div id="footer1-module4">
-          <h3>Extras</h3>
+          <p style="color:#29abe2; font-weight:bold; margin-bottom:5px; font-size:11px;">Extras</p>
            <p><a href="NewsletterSignupView?storeId=10151&amp;catalogId=10751&amp;languageId=-1">Newsletter Sign Up</a><br>
               <a href="PBOnePieceView?storeId=10151&amp;catalogId=10751&amp;pagename=150">Affiliate Program</a><br>
               <a href="PBOnePieceView?storeId=10151&amp;catalogId=10751&amp;pagename=246">Fitness Facility Design</a><br>
               <a href="https://prodirectory.performbetter.com/" target="_blank">Directory of Professionals</a><br>
               <a href="http://blog.performbetter.com/" target="_blank">Our Blog</a><br>
            <a href="CatalogRequestView?storeId=10151&amp;catalogId=10751&amp;pagename=28">Request a Print Catalog</a><br>
+           <a href="https://ondemand.performbetter.com/" target="_blank">Videos On Demand</a><br>
            <a href="http://www.performbetter.com/webapp/wcs/stores/servlet/TopCategories1_10151_10751_-1?viewmobile=y ">View Mobile Site</a></p>
 </div>
                 
@@ -11254,7 +11441,7 @@ newWindow.focus();
 
                                                   
                         <div id="footer1-module5">
-          <h3>Everything Track &amp; Field</h3>
+          <p style="color:#29abe2; font-weight:bold; margin-bottom:5px; font-size:11px;">Everything Track &amp; Field</p>
           <p>Visit our sister site <a target="_blank" href="http://www.everythingtrackandfield.com" style="text-decoration:underline;">EverythingTrackandField.com</a>, for great track &amp; field<br>
             training information, and great deals on track and field equipment.</p>
 
@@ -11266,13 +11453,8 @@ newWindow.focus();
 		+ seal_host 
 		+ "seal.stellaservice.com/seals/stellaservice_excellent.png?c=4927' height='73' width='115' border='0' title='PerformBetter.com is top rated for customer service' /%3E%3C/a%3E"));
 	</script><a target="_blank" href="http://www.stellaservice.com/profile/4927"><img src="https://seal.stellaservice.com/seals/stellaservice_excellent.png?c=4927" height="73" width="115" border="0" title="PerformBetter.com is top rated for customer service"></a>         
-         
-         
-        
-   <a href="https://sealinfo.thawte.com/thawtesplash?form_file=fdf/thawtesplash.fdf&amp;dn=WWW.PERFORMBETTER.COM&amp;lang=en" tabindex="-1" onmousedown="return v_mDown(event);" target="THAWTE_Splash">
+  <a href="https://sealinfo.thawte.com/thawtesplash?form_file=fdf/thawtesplash.fdf&amp;dn=WWW.PERFORMBETTER.COM&amp;lang=en" tabindex="-1" onmousedown="return v_mDown(event);" target="THAWTE_Splash">
 		 <img width="61" height="60" name="seal" border="true" src="https://seal.thawte.com/getthawteseal?at=0&amp;sealid=1&amp;dn=WWW.PERFORMBETTER.COM&amp;lang=en&amp;gmtoff=300" oncontextmenu="return false;" alt="Click to Verify - This site has chosen a thawte SSL Certificate to improve Web site security"></a>
-         
-
         <a target="_blank" href="https://www.mcafeesecure.com/RatingVerify?ref=www.performbetter.com">
         <img width="65" height="37" border="0" src="//images.scanalert.com/meter/survey/www.performbetter.com/31.gif" alt="McAfee Secure sites help keep you safe from identity theft, credit card fraud, spyware, spam, viruses and online scams" oncontextmenu="alert('Copying Prohibited by Law - McAfee Secure is a Trademark of McAfee, Inc.'); return false;"></a>	
          	
@@ -11778,10 +11960,10 @@ window.onload = function(){
           one_out_of = 4; // override from env properties
           
           
-          	pages_visited = 1;
+          	pages_visited = 3;
           
           
-          	random_visitor = 288;
+          	random_visitor = 9435;
           
 
 		  
@@ -12170,7 +12352,7 @@ window.onload = function(){
           var me_mod = random_visitor % one_out_of;
           //console.debug( "pages_required=" + pages_required + ", one_out_of=" + one_out_of +  ", pages_visited=" + pages_visited
           //	+ ", ramdom_visitor=" + random_visitor + ", mod=" + me_mod);
-          if ( (no_survey != 'Y') && (random_visitor != -1) && (me_mod == 0 ) && (pages_visited >= pages_required) ) { 
+          if ( (no_survey != 'Y') && (random_visitor != -1) && (me_mod == 0 ) && (pages_visited == pages_required) ) { 
 			
 			        
           	document.write("<sc" + "ript"); 
