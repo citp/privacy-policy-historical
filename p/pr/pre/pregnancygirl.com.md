@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pregnancygirl.com privacy policy that was archived on 2013-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130617043103id_/http%3A//www.pregnancygirl.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pregnancygirl.com privacy policy that was archived on 2013-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131115064609id_/http%3A//www.pregnancygirl.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Pregnancy Girl
 
