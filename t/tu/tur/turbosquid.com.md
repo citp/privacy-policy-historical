@@ -1,7 +1,8 @@
-> *The following text is extracted and transformed from the turbosquid.com privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603082904id_/http%3A//support.turbosquid.com/entries/173395-our-privacy-policy%3Flocale%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the turbosquid.com privacy policy that was archived on 2013-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131115094554id_/http%3A//support.turbosquid.com/entries/173395-our-privacy-policy%3Flocale%3D1) for the most accurate reproduction.*
 
 # Our Privacy Policy : TurboSquid Help & Support
 
+  
 YOUR USE OF OUR SERVICES IS SUBJECT TO YOUR AGREEMENT TO THE TERMS OF THIS PRIVACY POLICY.
 
 TurboSquid, Inc. ("TurboSquid," “us,” or “we”) respects your privacy and is committed to protecting the personal information that you may provide while using our web sites and Services (defined below).  This Privacy Policy (the "Policy") is intended to provide you with notice of the following:
@@ -36,11 +37,11 @@ From time to time, we may add new Services that may not be listed above, but the
 
 back to the top
 
-We do not collect any personal information from you, unless you provide it to us in one of the ways discussed in this Policy.  You may provide us this information directly through our Services.  If you decide to provide us your personal information (e.g., name, email address, and mailing address), we will collect only the personal information that is needed to fulfill your requests and our legitimate business objectives.  If you refuse to divulge your personal information when requested, you may not be able to access certain areas as part of the Services (such as message boards or the ability to buy and sell products). 
+We do not collect any personal information from you, unless you provide it to us in one of the ways discussed in this Policy.  You may provide us this information directly through our Services.  If you decide to provide us your personal information (e.g., name, email address, and mailing address), we will collect only the personal information that is needed to fulfill your requests and our legitimate business objectives.  If you refuse to divulge your personal information when requested, you may not be able to access certain areas as part of the Services (such as message boards or the ability to buy and sell products).
 
 ### 1\. Memberships and Registration
 
-In order for you to register for our Services, we will require you to provide us with information such as a name, email address, state and country of residence, zip/postal code, birth date and other similar information.  Some areas of the Services may allow you to visit as a guest and remain anonymous, but you may not be able to access all the content and features of those areas without registering. 
+In order for you to register for our Services, we will require you to provide us with information such as a name, email address, state and country of residence, zip/postal code, birth date and other similar information.  Some areas of the Services may allow you to visit as a guest and remain anonymous, but you may not be able to access all the content and features of those areas without registering.
 
 ### 2\. Public Forums
 
@@ -60,10 +61,8 @@ We may also collect information about you to optimize our site or diagnose probl
 
 back to the top
 
-TurboSquid Services may contain "cookies."
-
-A cookie is a piece of data that is sent to your browser, which will store the cookie on your computer if your browser is enabled to accept cookies.
-
+TurboSquid Services may contain "cookies."  
+A cookie is a piece of data that is sent to your browser, which will store the cookie on your computer if your browser is enabled to accept cookies.  
 Internet browsers will allow you to erase cookies from your computer hard drive, block acceptance of cookies, or receive a warning before a cookie is stored.  You should refer to your browser instructions or "Help" screen to learn more about how to manage cookies.  Please note, however, that if you block cookies, some portions of the TurboSquid Services may not function properly.
 
 back to the top
@@ -104,23 +103,19 @@ TurboSquid complies with the Children's Online Privacy Protection Act and all ot
 
 ### 1\. Children under the age of 13
 
-If you are under the age of 13, you may not create an account on the Site.
-
+If you are under the age of 13, you may not create an account on the Site.  
 To sell on TurboSquid, you have to be of legal age to sign a binding contract in the country where you reside. This age is 18 in most countries. If you are younger than 18, you can use an adult's account with the permission of the account-holder. However, the account-holder would be responsible for everything done with that account.
 
 ### 2\. Information for Parents
 
 Parents should regularly oversee their kid's use of e-mail and other online communications and transactional features. Control tools are available from online services and software manufacturers that can help provide a safe online environment for kids. You can find out about software that protects your children here:
 
-<http://www.ftc.gov/bcp/edu/pubs/consumer/tech/tec08.shtm>
+<http://www.ftc.gov/bcp/edu/pubs/consumer/tech/tec08.shtm>[  
+](http://www.ftc.gov/bcp/edu/pubs/consumer/tech/tec08.shtm)<http://kids.getnetwise.org/tools/>
 
-<http://kids.getnetwise.org/tools/>
+If your son or daughter has used your credit card on our Services without your permission, contact [TurboSquid Support](http://support.turbosquid.com/Home?locale=1 "TurboSquid Support") immediately.
 
-If your son or daughter has used your credit card on our Services without your permission, contact [TurboSquid Support](https://web.archive.org/web/20130603082904id_/http%3A//support.turbosquid.com/entries/support.turbosquid.com) immediately.
-
-### 3\. Our Policies Concerning Users Generally
-
-### 4\. Youth between the ages of 13 and 18
+### 3\. Youth between the ages of 13 and 18
 
 If you are between the ages of 13 and 18, please have your parent or guardian read this Policy and get his or her permission before you give us any of your personal identifiable information, before you use any of our message board or chat features, before you sign up for any Services, and before you buy anything from the Sites.  Do not post your real name on a web site or message board, and never tell anyone online anything private about yourself or your family, including your phone number and address. Use screen names at all times. 
 
