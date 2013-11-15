@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cue.org privacy policy that was archived on 2013-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130619053413id_/http%3A//cue.org/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cue.org privacy policy that was archived on 2013-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131115142951id_/http%3A//www.cue.org/privacypolicy) for the most accurate reproduction.*
 
 # CUE Privacy Policy | CUE
 
