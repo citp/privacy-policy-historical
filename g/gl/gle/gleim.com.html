@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the gleim.com privacy policy that was archived on 2013-05-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130522200402id_/http%3A//www.gleim.com/misc/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the gleim.com privacy policy that was archived on 2013-11-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131115141240id_/http%3A//www.gleim.com/misc/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
@@ -7,9 +7,10 @@
    <meta name="keywords" content="privacy policy">
    <meta name="description" content="The Gleim privacy policy">
    
-   <link rel="stylesheet" type="text/css" href="/_stylesheets/default.css?lm=12112013">
+   <link rel="stylesheet" type="text/css" href="/_stylesheets/default.css?lm=20131015">
+   <link rel="stylesheet" type="text/css" href="/_stylesheets/searchbar.css?lm=20131015">
    
-   
+   <link rel="canonical" href="http://www.gleim.com/misc/privacy.php">
    
    
    <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/misc/_js/jquery-1.6.2.min.js"></script>
@@ -18,7 +19,6 @@
          
          <script type="text/javascript" src="/misc/_js/forms.js"></script>
          <script type="text/javascript" src="/misc/_js/gleim_functions.js"></script>
-         
       
    
    <link rel="apple-touch-icon-precomposed" href="/apple-touch-icon-57x57-precomposed.png">
@@ -43,21 +43,21 @@
                   <div id="cartFix">
                      <div id="logoutFix">
                         
-<div class="apptopMyCart">
+   <div class="apptopFTCart">
+      <div>
+         <span class="ac_login_links">
+            
    
-   
-   <div id="logout" title="Not Logged In">
-      <a href="/account/">LOGIN</a>
-   </div>
+   <span id="logout" title="Not Logged In">
+      
+      <a href="/account/" class="av_login_text">LOGIN</a>
+   </span>
 
-   <div style="float: right; width: 25%">
-      <a onclick="printWindow(); return false;" target="_blank" title="Print This Page" href="https://www.gleim.com/misc/privacy.php?pf=1&amp;">
-         <img src="/public/images/common/printer_icon.png" border="0" alt="Print this page" class="printer_image">
-      </a>
-   </div>
-   
-   <a href="/store/showcontents.php" class="viewCartLink" title="View My Shopping Cart">
-      <img src="/public/images/common/cart_icon.png" alt="View My Shopping Cart">
+         </span>
+         <span class="cartshed">
+            
+   <a href="/store/showcontents.php" class="viewCartLink">
+      <img src="/public/images/store/cart-mini.png" alt="View My Shopping Cart">
       <span>View Cart</span>
    </a>
    <a href="/store/showcontents.php" class="cartPopup" title="View My Shopping Cart">
@@ -71,12 +71,35 @@
       </div>
    </a>
 
-</div> <!-- /apptopMyCart -->
+         </span>
+      </div>
+      <div>
+         <span class="ac_searchbar">
+            
+   <a href="/search/index.php" class="searchLink" onclick="$('#searchPopup').show(); $('#searchText').focus(); return false;">
+      <img src="/public/images/common/search_bttn.png" alt="Search Gleim">
+      <span>Search Gleim</span>
+   </a>
+   <span class="searchPopup searchPopupContainer" id="searchPopup">
+      <form action="/search/index.php" method="POST">
+         <input class="searchBox" id="searchText" name="q" type="text" maxlength="50"><br>
+         <input type="submit" class="searchButt" value="Search">
+         <input type="button" class="searchButt" value="Cancel" onclick="$('#searchPopup').hide(); $('#searchText').val('');">
+      </form>
+   </span>
+
+         </span>
+         <span class="phone">
+            <span class="phoneico">☎</span>
+            <span class="phoneno">800.874.5346</span>
+            
+         </span>
+      </div>
+   </div> <!-- /apptopFTCart -->
 
                      </div>
                   </div>
                </div>
-               <div>&nbsp;</div>
             </div>
             <div class="apptopNavTab">
                
