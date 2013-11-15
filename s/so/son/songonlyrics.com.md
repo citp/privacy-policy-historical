@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the songonlyrics.com privacy policy that was archived on 2013-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130510210352id_/http%3A//www.songonlyrics.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the songonlyrics.com privacy policy that was archived on 2013-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131115214750id_/http%3A//www.songonlyrics.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -6,8 +6,8 @@
 
  **Privacy Policy**
 
-The privacy of our visitors to SongOnLyrics.com is important to us. At  
-visit SongOnLyrics.com, we recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you use and visit SongOnLyrics.com, and how we safeguard your information. We never sell your personal information to third parties.  
+The privacy of our visitors to SongOnLyrics.com is important to us.  
+At SongOnLyrics.com, we recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you use and visit SongOnLyrics.com, and how we safeguard your information. We never sell your personal information to third parties.  
 We will NEVER trade your personal information!We do not collect personal information.we just collect:  
 Log Files  
 As with most other websites, we collect and use the data contained in log files. The information in the log files include your IP (internet protocol) address, your ISP (internet service provider, such as AOL or Shaw Cable), the browser you used to visit our site (such as Internet Explorer or Firefox), the time you visited our site and which pages you visited throughout our site.
