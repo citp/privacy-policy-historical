@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the interbike.com privacy policy that was archived on 2013-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130625035205id_/http%3A//www.interbike.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the interbike.com privacy policy that was archived on 2013-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131115145757id_/http%3A//www.interbike.com/privacy-policy.htm) for the most accurate reproduction.*
 
 # Interbike - Privacy Policy
 
-[ ](https://web.archive.org/registration.htm) [ ](http://registration3.experientevent.com/showIBK131/Default.aspx?flowcode=ATT)
+[ ](https://web.archive.org/registration.htm) [ ](http://registration3.experientevent.com/showniq141/default.aspx?flowcode=ibk141)
 
 **Privacy Policy**
 
