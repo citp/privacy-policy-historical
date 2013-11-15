@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mysocialpeople.com privacy policy that was archived on 2013-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130610173048id_/http%3A//mysocialpeople.com/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mysocialpeople.com privacy policy that was archived on 2013-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131115191336id_/http%3A//www.mysocialpeople.com/help/privacy) for the most accurate reproduction.*
 
 # My Social People - Privacy Policy
 
