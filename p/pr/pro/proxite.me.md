@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the proxite.me privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501133444id_/http%3A//www.proxite.me/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the proxite.me privacy policy that was archived on 2013-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131115100941id_/http%3A//proxite.me/privacy.php) for the most accurate reproduction.*
 
 # proxite.me :: Web Proxy for anonymous free web browsing. VPN Service Provider.
 
