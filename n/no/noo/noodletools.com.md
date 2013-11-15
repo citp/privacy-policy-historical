@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the noodletools.com privacy policy that was archived on 2013-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130619181405id_/https%3A//www.noodletools.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the noodletools.com privacy policy that was archived on 2013-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131115045416id_/http%3A//www.noodletools.com/privacy.php) for the most accurate reproduction.*
 
 # NoodleTools : Legal
 
-_Last updated: May 16, 2012_
+_Last updated: August 26, 2013_
 
 This privacy statement is subject to change at any time.
 
@@ -10,7 +10,7 @@ NoodleTools, Inc. is the sole owner of any information collected on our site or 
 
 **1\. Cookies**
 
-A cookie is a piece of data stored on the user’s hard drive containing information about the user. Usage of a cookie is in no way linked to any personally identifiable information while on our site. Once the user closes their browser, the cookie simply terminates. Cookies ARE required for certain parts of the NoodleTools Web site to function correctly.
+A cookie is a piece of data stored on the user's hard drive containing information about the user. Usage of a cookie is in no way linked to any personally identifiable information while on our site. Once the user closes their browser, the cookie simply terminates. Cookies ARE required for certain parts of the NoodleTools Web site to function correctly.
 
 **2\. Log Files & Usage Statistics**
 
@@ -31,4 +31,36 @@ NoodleTools, Inc. does not consider the data transmitted on the Web site to be c
   * You will never receive spam of any type as a result of providing us with your e-mail address.
   * For group (school/library/district) subscriptions, your name and e-mail address is **not** required in order to create a personal folder. If an e-mail address is provided by the student, it will **only** be used to send out administrative information to that student regarding their personal folder information. NoodleTools will not contact the student via e-mail unless the student asks a question via e-mail or the contact form.
 
+
+
+**6\. Children's Privacy Policy**
+
+NoodleTools, Inc. adheres to the Children's Online Privacy Protection Act (COPPA) and related guidelines, and will ensure continued commitment to such policies.
+
+For any child under 13 (and any child accessing NoodleTools from a K12 school) no form of Personal Information is collected.
+
+Below is specific information related to the registration of any K12 student on NoodleTools:
+
+**Registration** : The only specific pieces of information required are only a screen name and password, the name of the child's school, the initials of the child, and the last four digits of the child's telephone number.
+
+The child's initials and four digits are used only to assist the child if technical help is required to retrieve or authenticate the child.
+
+No names, e-mail addresses or physical address are collected upon registration.
+
+**Surveys or Contests** : No student is asked to participate in any contest or survey on our website.
+
+**Third Parties** : No information whatsoever is disclosed to third parties.
+
+**Access to Personally Identifiable Information** : Under the "Limited Exceptions to COPPA's Verifiable Parental Consent Requirement," when a student working in NoodleTools uses the function to e-mail their work to themselves, the e-mail address is used in a one-time manner according with that purposes, and is not stored by NoodleTools.
+
+Similarly, if a student e-mails NoodleTools directly for help through the NoodleTools "Have a Question?" or Helpdesk link, that e-mail address is used only on a one-time basis to respond to the student.
+
+Within the NoodleTools classroom environment, a student is identifiable by a screen name or name of choice within the private and limited scope of the classroom teacher and other students within that shared Project. For children under 13, the prompt for this screen name instructs them to supply only a first name and last initial.
+
+**Contact Us:**
+
+For any questions or suggestions regarding our privacy policy or the content of the NoodleTools website, please contact:  
+Damon Abilock, Founder  
+http://www.noodletools.com/helpdesk  
+650-561-4071  
 
