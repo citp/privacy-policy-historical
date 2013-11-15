@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the monstersandcritics.com privacy policy that was archived on 2013-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130613010616id_/http%3A//www.monstersandcritics.com/corp/article_1221209.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the monstersandcritics.com privacy policy that was archived on 2013-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131115172330id_/http%3A//www.monstersandcritics.com/corp/article_1221209.php) for the most accurate reproduction.*
 
 # Monsters and Critics' Privacy Policy - Monsters and Critics
 
