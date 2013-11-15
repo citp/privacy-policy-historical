@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the speechpad.com privacy policy that was archived on 2012-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121014164337id_/https%3A//www.speechpad.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the speechpad.com privacy policy that was archived on 2013-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131115203907id_/https%3A//www.speechpad.com/privacy_policy) for the most accurate reproduction.*
 
 # Speechpad: Privacy Policy
 
@@ -56,4 +56,4 @@ If we decide to change our privacy policy, we will update the Privacy Policy mod
 This policy was last modified on 1/15/2010. 
 
 Contacting Us  
-If there are any questions regarding this privacy policy you may contact us at [info@speechpad.com](mailto:info@speechpad.com).
+If there are any questions regarding this privacy policy you may contact us at [support@speechpad.com](mailto:support@speechpad.com).
