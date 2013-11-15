@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ticketswitch.com privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603142955id_/http%3A//www.ticketswitch.co.uk/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ticketswitch.com privacy policy that was archived on 2013-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131115163747id_/http%3A//www.ticketswitch.co.uk/privacy-policy.html) for the most accurate reproduction.*
 
 # TicketSwitch | Privacy Policy
 
