@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the t-mobile.co.uk privacy policy that was archived on 2013-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130517015413id_/http%3A//www.t-mobile.co.uk/services/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the t-mobile.co.uk privacy policy that was archived on 2013-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131115130005id_/https%3A//www.t-mobile.co.uk/services/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - T-Mobile
 
@@ -6,7 +6,7 @@ Print Privacy Policy
 
 This privacy policy applies to website visitors and to customers who have signed up to our services from 30th of October 2012. 
 
-This privacy policy explains how Everything Everywhere uses, shares and protects your personal information. It covers all the services provided to you by EE, Orange and T-Mobile. Please read this policy in conjunction with the terms and conditions of any particular service or services you are using.
+This privacy policy explains how EE uses, shares and protects your personal information. It covers all the services provided to you by EE, Orange and T-Mobile. Please read this policy in conjunction with the terms and conditions of any particular service or services you are using.
 
 This privacy policy does not apply to third party websites which our websites link to or which advertise on our websites. These third party websites operate their own privacy policy which we encourage you to read.
 
@@ -18,7 +18,7 @@ We are EE and operate three brands in the UK: Orange, T-Mobile and EE. Our ultim
 
 When we refer to our 'Group Companies' we mean the companies of the Orange Group, the companies of the T-Mobile Group, the companies in which France Telecom SA have at least a 50% shareholding and the companies in which Deutsche Telekom AG have at least a 50% shareholding.
 
-Everything Everywhere Limited is the controller of your personal data and is registered as a data controller with the Information Commissioner's Office with registration number Z7510687 ([http://www.ico.gov.uk](http://www.ico.gov.uk/)).
+EE Limited is the controller of your personal data and is registered as a data controller with the Information Commissioner's Office with registration number Z7510687 ([http://www.ico.gov.uk](http://www.ico.gov.uk/)).
 
 * * *
 
@@ -188,7 +188,7 @@ Information sent to credit reference agencies will be held for 6 years.
 If you want, you can always access your personal information. Just make a written request to our Disclosures team at the address below clearly identifying yourself and the information you require. We may charge you £10 to cover the cost of processing your request and supplying your information to you. We will ask you to provide identification to ensure we do not disclose your information to the wrong people. If you tell us that we hold any inaccurate information about you we will correct it at no charge to you.
 
 Please write to: The Disclosures Team,   
-Everything Everywhere, Hatfield Business Park, Hertfordshire, AL10 9BW.
+EE, Trident Place, Mosquito Way, Hatfield, Hertfordshire, AL10 9BW
 
 * * *
 
@@ -196,7 +196,7 @@ Everything Everywhere, Hatfield Business Park, Hertfordshire, AL10 9BW.
 
 Information on you may be collected through the use of cookies, when you use our websites and selected third party websites which belong to advertising networks with whom we partner.
 
-A cookie is a small unique text file placed on your device when you visit a website which enables the website to identify your device whenever you visit that website. Cookies cannot be used to run programs or deliver viruses to your device. Cookies can only be read by a web server from the same domain (e.g. www.everythingeverywhere.com) that saved the cookie on your device.
+A cookie is a small unique text file placed on your device when you visit a website which enables the website to identify your device whenever you visit that website. Cookies cannot be used to run programs or deliver viruses to your device. Cookies can only be read by a web server from the same domain (e.g. www.ee.co.uk) that saved the cookie on your device.
 
 To view our cookies policy and learn about how to opt out of cookies, please click here:
 
@@ -224,7 +224,7 @@ It is entirely up to you if you wish to have a customised experience on our webs
 
 ### Analytics Cookies
 
-We also use our own unique cookies and/or third party cookies for analytics purposes to analyse the use of our websites and enhance the performance of our websites. These cookies may be used for testing different designs and ensuring a consistent look and feel is maintained for users of our websites, track and provide trend analysis on how our users interact with our websites, track errors and track ads for advertising revenue purposes. The data collected will generally be aggregated to provide trends and usage patterns for business analysis, site/platform improvement and performance metrics. This analysis may be performed by third parties but will be for the review and benefit of Everything Everywhere only. The type of information we collect includes how many visitors visit our websites, how many customers log in, when they visited, for how long and which areas of our websites and services. This information allows us to continuously improve our services and develop them according to the taste of our customers and visitors. Your use of our websites indicates your consent to the use of these web analytics cookies. To find out about how to opt out of cookies, please see our 'how to refuse or opt out of cookies' section. Please note that you may experience functional problems if you delete these cookies.
+We also use our own unique cookies and/or third party cookies for analytics purposes to analyse the use of our websites and enhance the performance of our websites. These cookies may be used for testing different designs and ensuring a consistent look and feel is maintained for users of our websites, track and provide trend analysis on how our users interact with our websites, track errors and track ads for advertising revenue purposes. The data collected will generally be aggregated to provide trends and usage patterns for business analysis, site/platform improvement and performance metrics. This analysis may be performed by third parties but will be for the review and benefit of EE only. The type of information we collect includes how many visitors visit our websites, how many customers log in, when they visited, for how long and which areas of our websites and services. This information allows us to continuously improve our services and develop them according to the taste of our customers and visitors. Your use of our websites indicates your consent to the use of these web analytics cookies. To find out about how to opt out of cookies, please see our 'how to refuse or opt out of cookies' section. Please note that you may experience functional problems if you delete these cookies.
 
 ### Advertising cookies
 
