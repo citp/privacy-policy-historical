@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the xerxy.com privacy policy that was archived on 2013-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130606105117id_/http%3A//www.xerxy.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xerxy.com privacy policy that was archived on 2013-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131115055828id_/http%3A//www.xerxy.com/privacy) for the most accurate reproduction.*
 
-# Privacy » The Xerxy Web
+# Privacy - The Xerxy Web
 
 We respect your privacy and we are committed to safeguarding your privacy while online at this site, xerxy.com. The following discloses the information gathering and dissemination practices for this Web site.
 
