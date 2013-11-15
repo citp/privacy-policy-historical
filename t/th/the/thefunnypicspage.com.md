@@ -1,32 +1,73 @@
-> *The following text is extracted and transformed from the thefunnypicspage.com privacy policy that was archived on 2012-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120919225548id_/http%3A//thefunnypicspage.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thefunnypicspage.com privacy policy that was archived on 2013-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131115020638id_/http%3A//thefunnypicspage.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | The Funny Pics Page
+# privacy | The Funny Pics Page
 
-Privacy Policy  
-This privacy policy sets out how Funny Pics uses and protects any information that you give us when you use this website. Funny Pics is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement. Funny Pics may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from 18th of January, 2010.  
-What we collect  
-We may collect the following information:  
-name and job title  
-contact information including email address  
-demographic information such as postcode, preferences and interests  
-other information relevant to customer surveys and/or offers  
-What we do with the information we gather  
-We require this information to understand your needs and provide you with a better service, and in particular for the following reasons:  
-Internal record keeping.  
-We may use the information to improve our products and services.  
-We may periodically send promotional emails about new products, special offers or other information which we think you may find interesting using the email address which you have provided.  
-From time to time, we may also use your information to contact you for market research purposes. We may contact you by email, phone, fax or mail. We may use the information to customise the website according to your interests.  
-Security  
-We are committed to ensuring that your information is secure. In order to prevent unauthorised access or disclosure we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online.  
-How we use cookies  
-A cookie is a small file which asks permission to be placed on your computer’s hard drive. Once you agree, the file is added and the cookie helps analyse web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences.We use traffic log cookies to identify which pages are being used. This helps us analyse data about webpage traffic and improve our website in order to tailor it to customer needs. We only use this information for statistical analysis purposes and then the data is removed from the system.Overall, cookies help us provide you with a better website, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us.You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website.  
-Links to other websites  
-Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.  
-Controlling your personal information  
-You may choose to restrict the collection or use of your personal information in the following ways:  
-whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes  
-if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to us.  
-We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please contact us.If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect.
+**What information do we collect?**
 
-**GD Star Rating**  
- _loading..._
+We collect information from you when you register on our site, subscribe to our newsletter, respond to a survey or Upload an image. 
+
+When ordering or registering on our site, as appropriate, you may be asked to enter your: name or e-mail address. You may, however, visit our site anonymously.
+
+**What do we use your information for?**
+
+Any of the information we collect from you may be used in one of the following ways: 
+
+  * To personalize your experience (your information helps us to better respond to your individual needs)
+  * To improve our website
+  * (we continually strive to improve our website offerings based on the information and feedback we receive from you)
+  * To administer a contest, promotion, survey or other site feature
+  * To send periodic emails
+
+
+
+> The email address you provide for order processing, may be used to send you information and updates pertaining to your order, in addition to receiving occasional FunnyPics news, updates, related product or service information, etc.
+
+Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
+
+**Do we use cookies?**
+
+Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information
+
+We use cookies to understand and save your preferences for future visits.
+
+**Do we disclose any information to outside parties?**
+
+We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+
+**Third party links**
+
+Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
+
+**California Online Privacy Protection Act Compliance**
+
+Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.
+
+**Childrens Online Privacy Protection Act Compliance**
+
+We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
+
+**Online Privacy Policy Only**
+
+This online privacy policy applies only to information collected through our website and not to information collected offline.
+
+**Terms and Conditions**
+
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [http://thefunnypicspage.com](http://thefunnypicspage.com/)
+
+**Your Consent**
+
+By using our site, you consent to our [web site privacy policy](http://thefunnypicspage.com/privacy).
+
+**Changes to our Privacy Policy**
+
+If we decide to change our privacy policy, we will post those changes on this page, and/or update the Privacy Policy modification date below. 
+
+This policy was last modified on October 24, 2012
+
+**Contacting Us**
+
+If there are any questions regarding this privacy policy you may contact us using the information below. 
+
+http://thefunnypicspage.com
+
+info@thefunntpicspage.com
