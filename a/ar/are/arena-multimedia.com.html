@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the arena-multimedia.com privacy policy that was archived on 2013-05-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130505053536id_/http%3A//www.arena-multimedia.com/privacy-policy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the arena-multimedia.com privacy policy that was archived on 2013-11-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131115041848id_/http%3A//www.arena-multimedia.com/privacy-policy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -16,6 +16,110 @@
 <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
 <![endif]-->
 <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="js/jquery.min.js"></script>
+<!--<link id="mystyle" href="../css/DivPoppup.css" rel="Stylesheet" type="text/css" /> 
+<script language ="javascript" src="../js/DivPopup.js" type="text/javascript"></script>-->
+
+
+<!--<link id="mystyle" href="/css/DivPoppup.css" rel="Stylesheet" type="text/css" />--> 
+<script type="text/javascript" src="/js/DivPopup.js"></script>
+
+
+<!--<a href="arena_webforms/js/DivPopup.js">arena_webforms/js/DivPopup.js</a>-->
+<link rel="stylesheet" type="text/css" href="css/DivPoppup.css">
+
+
+
+
+<script type="text/javascript" src="js/jquery.min.js"></script>
+
+<script type="text/javascript">
+
+$(document).ready(function() {
+
+    window.onload=fnUnload;
+    
+    
+      $(document).click(function(e) { 
+       $("#lnkClicked").val("true");
+      });
+    
+    
+    $('a').click(function(event) {
+    
+   // alert($(this).attr("href").length);
+    // alert($(this).attr("href"));
+    if($(this).attr("href").indexOf('_tab') == -1 )
+    {    
+            event.preventDefault();//To prevent following the link
+
+            $("#lnkClicked").val("true");
+
+            //alert(window.location.href.indexOf('testing.website.com'));
+
+            if($(this).attr("href").length > 1)
+            {
+              // alert(window.location.href.indexOf('arena-multimedia') + " : " + window.location.href );
+              if (($(this).attr("href").indexOf('.com') > 1 || $(this).attr("href").indexOf('.in') > 1 || $(this).attr("href").indexOf('.org') > 1 ||
+                    $(this).attr("href").indexOf('.edu') > 1) &&  ( $(this).attr("href").indexOf('.net') < 1 &&  $(this).attr("href").indexOf('.jpg') < 1  && $(this).attr("href").indexOf('.png') < 1 )
+                  )
+                         
+              {
+                window.open($(this).attr("href"));
+              }
+              else
+              {
+                    if($(this).attr("href").indexOf('youtube.com') < 0   && ( $(this).attr("href").indexOf('.jpg') < 0  && $(this).attr("href").indexOf('png') < 0) )
+                    {
+                       // alert('Hem: ' + $(this).attr("href").indexOf('.jpg') );
+                        window.location.href = $(this).attr("href");
+                    }
+              }
+            }
+            
+    }
+  });
+});
+
+
+function fnUnload() {
+
+window.onbeforeunload = ShowPopup;
+window.onunload = ShowPopup;
+}
+
+
+
+function ShowPopup()
+{   
+    if($("#lnkClicked").val() == "false")
+    {
+        var cookieVal =readCookie('arenamultimedia_clicktocall');
+       //alert(cookieVal);
+        if(cookieVal == null || cookieVal == 'null')
+        {
+                PopUpWin = window.open("ClickToCall.aspx", "ClickToCall", "location=0,status=0,scrollbars=0,width=570,height=295,left=500,top=200");
+                $("#lnkClicked").val("false");
+        }
+    }    
+}
+        
+function readCookie(name)
+{
+    var ca = document.cookie.split(';');
+    var nameEQ = name + "=";
+    for(var i=0; i < ca.length; i++) {
+    var c = ca[i];
+    while (c.charAt(0)==' ') c = c.substring(1, c.length); //delete spaces
+    if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length, c.length);
+}
+return null;
+}
+	    
+</script>
+</head><body class="innerpage"><input name="lnkClicked" type="hidden" id="lnkClicked" value="false">
+
+
+
 <script type="text/javascript">
 	$(document).ready(function(){
 
@@ -172,7 +276,7 @@
                 divSendSms += '<div id="dsmsMobile' + a + '" class="dMobile1 send_sms_div" style="display:none;"><a href="javascript:void(0)" onClick=\'close_sms("' + a + '")\' id="close">X</a>';
                 divSendSms += '<form name="frmSendSms" method="POST">';
                 divSendSms += '<input type="text" name="txtMobileNo' + a + '" id="txtMobileNo' + a + '" value="enter your mobile no here..." class="dropdown blur-focus enter_num_text" onfocus=\'if(this.value=="enter your mobile no here...") this.value="" \' onblur=\'if(this.value=="") this.value="enter your mobile no here..." \' />';
-                divSendSms += '<input type="button" name="btnGoSms" value="Send" onclick=\'sendSms("' + a + '", "' + getAddress[0] + '")\' />';
+                divSendSms += '<input type="button" name="btnGoSms" value="Send" onclick=\'sendSms("' + a + '", "' + getAddress[0].replace("&amp","%26") + '")\' />';
                 divSendSms += '</form>';
                 divSendSms += '</div>';
 
@@ -193,7 +297,7 @@
 
             }
            // alert(addressArray);
-           
+            //var contactaddress=dispAdd.replace("&amp","%26");
             document.getElementById('dispFullAddress').innerHTML = dispAdd;
             initializeMap();
         })
@@ -399,8 +503,10 @@
 <link rel="stylesheet" type="text/css" href="css/skin1.css">
 <link href="css/screen1.css" rel="stylesheet" type="text/css" media="screen">
 <link rel="stylesheet" type="text/css" href="css/new/skinfortop.css">
-</head>
-<body class="innerpage">
+
+<!-- Div Show and Hide Script [END]-->
+
+
 <script>
 $(document).ready(function(e) {
     $('.he_ques').toggle(function() {
@@ -450,7 +556,7 @@ $(document).ready(function(e) {
                                 <p>How Arena helps build successful careers in Animation &amp; Web Designing </p>	
                             </div>
                             <div class="hover_content_nav">
-                                <a href="faq.aspx" title="FAQ'S" hidefocus="true" style="outline: none;">FAQ'S</a>
+                                <a href="faq.aspx" title="Frequently Asked Questions" hidefocus="true" style="outline: none;">FAQ</a>
                                 <p>&nbsp;</p>	
                             </div>
                         </div>
@@ -463,54 +569,78 @@ $(document).ready(function(e) {
                         </div>
                         <div class="hover_content">
                         <div class="left_nav_content">
-                        	<div class="nav_img_content">
+						
+						<div class="nav_img_content">
                             	<div class="nav_img">
-                                <img src="images/navigation/animation.jpg" alt="Animation Courses" title="Animation Courses">
+                                <a href="web-design-development-program.aspx" hidefocus="true" style="outline: none;"><img src="images/navigation/web-designing-media.jpg" alt="Web Designing Courses &amp; Multimedia Courses" title="Web Designing Courses &amp; Multimedia Courses"></a>
                                 </div>
                                 <div class="content_div1">
-                                	<a href="animation-with-portfolio-development-aaip.aspx" title="Animation" hidefocus="true" style="outline: none;">Animation</a>
+                                	<a href="web-design-development-program.aspx" title="Web designing &amp; multimedia" hidefocus="true" style="outline: none;">Web designing &amp; multimedia</a>
                                     <ul>
-                                    	<li><a href="animation-with-portfolio-development-aaip.aspx" title="Arena Animation International Program (AAIP)" hidefocus="true" style="outline: none;">Arena Animation International Program (AAIP)</a></li>
+                                    	<li><a href="graphics-web-design.aspx" title="Graphic &amp; Web Design (GWD)" hidefocus="true" style="outline: none;">Graphic &amp; Web Design (GWD)</a></li>
+										<li><a href="web-design-development-program.aspx" title="Web Design &amp; Development Program (WDP)" hidefocus="true" style="outline: none;">Web Design &amp; Development Program</a></li>
+                                    	<li><a href="multimedia-design-program.aspx" title="Multimedia Design Program (MDP)" hidefocus="true" style="outline: none;">Multimedia Design Program (MDP)</a></li>
+                                        <li><a href="design-publishing-program.aspx" title="Design &amp; Publishing Program (DPP)" hidefocus="true" style="outline: none;">Design &amp; Publishing Program (DPP)</a></li>
+                                        <!--<li><a href="digital-media-pro3.aspx" title="Digital Media Pro 3">Digital Media Pro 3</a></li>-->
+                                    </ul>
+                                </div>
+                            </div>
+						
+						
+						<div class="nav_img_content">
+							<div class="nav_img">
+								<a href="vfx-pro.aspx" hidefocus="true" style="outline: none;"><img src="images/navigation/vfx.jpg" alt="VFX Courses" title="VFX Courses"></a>
+							</div>
+							<div class="content_div1 content_div_small_width">
+								<a href="vfx-pro.aspx" title="VFX" hidefocus="true" style="outline: none;">VFX</a>
+									<ul>
+										<li><a href="animation-with-portfolio-development-aaip-vfx.aspx" title="Arena Animation International Program (AAIP – VFX)" hidefocus="true" style="outline: none;">Arena Animation International Program (AAIP – VFX)</a></li>
+										<li><a href="vfx-pro.aspx" title="VFX Pro" hidefocus="true" style="outline: none;">VFX Pro</a></li>
+										<li><a href="vfx-compositing.aspx" title="VFX Compositing" hidefocus="true" style="outline: none;">VFX Compositing</a></li>
+									</ul>
+							</div>
+						</div>
+											
+                        <div class="nav_img_content">
+                            <div class="nav_img">
+                                <a href="animation-with-portfolio-development-aaip.aspx" hidefocus="true" style="outline: none;"><img src="images/navigation/animation.jpg" alt="Animation Courses" title="Animation Courses"></a>
+                            </div>
+                            <div class="content_div1">
+                               	<a href="animation-with-portfolio-development-aaip.aspx" title="Animation" hidefocus="true" style="outline: none;">Animation</a>
+									<ul>
+                                    	<li><a href="animation-with-portfolio-development-aaip.aspx" title="Arena Animation International Program (AAIP – Animation)" hidefocus="true" style="outline: none;">Arena Animation International Program (AAIP – Animation)</a></li>
                                         <!--<li><a href="comprehensive-animation-arena-animation-pro.aspx" title="Comprehensive Animation: Arena Animation Pro">Comprehensive Animation: Arena Animation Pro</a></li> -->
                                         <li><a href="animation-film-making-dae.aspx" title="Animation Film Making: DAE" hidefocus="true" style="outline: none;">Animation Film Making: DAE</a></li>
                                     </ul>
                                 </div>
                             </div>
                             
-                            <div class="nav_img_content">
-                            	<div class="nav_img">
-                                <img src="images/navigation/web-designing-media.jpg" alt="Web Designing Courses &amp; Multimedia Courses" title="Web Designing Courses &amp; Multimedia Courses">
-                                </div>
-                                <div class="content_div1">
-                                	<a href="web-design-development-program.aspx" title="Web designing &amp; multimedia" hidefocus="true" style="outline: none;">Web designing &amp; multimedia</a>
-                                    <ul>
-                                    	<li><a href="web-design-development-program.aspx" title="Web Design &amp; Development Program (WDP)" hidefocus="true" style="outline: none;">Web Design &amp; Development Program</a></li>
-                                    	<li><a href="multimedia-design-program.aspx" title="Multimedia Design Program (MDP)" hidefocus="true" style="outline: none;">Multimedia Design Program (MDP)</a></li>
-                                        <li><a href="graphics-web-design.aspx" title="Graphic &amp; Web Design (GWD)" hidefocus="true" style="outline: none;">Graphic &amp; Web Design (GWD)</a></li>
-                                        <li><a href="design-publishing-program.aspx" title="Design &amp; Publishing Program (DPP)" hidefocus="true" style="outline: none;">Design &amp; Publishing Program (DPP)</a></li>
-                                        <!--<li><a href="digital-media-pro3.aspx" title="Digital Media Pro 3">Digital Media Pro 3</a></li>-->
-                                    </ul>
-                                </div>
-                            </div>
                             
-                            <!--<div class="nav_img_content">
+                            
+                            
+                            
+                            
+                        </div>
+                        <div class="right_nav_content">
+                            
+							<div class="nav_img_content content_div_small_width">
                             	<div class="nav_img">
-                                <img src="images/navigation/universityDegree.jpg" alt="VFX &amp; Animation Degree" title="VFX &amp; Animation Degree" />
+                                <a href="ba_vfx_animation.aspx" hidefocus="true" style="outline: none;"><img src="images/navigation/universityDegree.jpg" alt="BA in VFX &amp; Animation Degree" title="BA in VFX &amp; Animation Degree"></a>
                                 </div>
                                 <div class="content_div1 content_div_small_width">
-                                	<a href="ba_vfx_animation.aspx" title="UNIVERSITY DEGREE">UNIVERSITY DEGREE</a>
+                                	<a href="ba_vfx_animation.aspx" title="UNIVERSITY DEGREE" hidefocus="true" style="outline: none;">UNIVERSITY DEGREE</a>
                                     <ul>
                                  
-                                        <li><a href="ba_vfx_animation.aspx" title="B.A. in VFX &amp; Animation">B.A. in VFX &amp; Animation</a></li>
+                                        <li><a href="ba_vfx_animation.aspx" title="B.A. in VFX &amp; Animation" hidefocus="true" style="outline: none;">B.A. in VFX &amp; Animation</a></li>
                                     </ul>
                                 </div>    
-                            </div>-->
+                            </div>
                             
                             
                             
-                            <div class="nav_img_content">
+                            <div class="nav_img_content content_div_small_width">
                             	<div class="nav_img">
-                                <img src="images/navigation/gaming.jpg" alt="Game Design Courses" title="Game Design Courses">
+                                <a href="game-art-design.aspx" hidefocus="true" style="outline: none;"><img src="images/navigation/gaming.jpg" alt="Game Design Courses" title="Game Design Courses"></a>
                                 </div>
                                 <div class="content_div1 content_div_small_width">
                                 	<a href="game-art-design.aspx" title="Gaming" hidefocus="true" style="outline: none;">Gaming</a>
@@ -521,40 +651,11 @@ $(document).ready(function(e) {
                                     </ul>
                                 </div>    
                             </div>
-                            
-                            
-                        </div>
-                        <div class="right_nav_content">
                         
-                        <!--<div class="nav_img_content content_div_small_width">
-                            	<div class="nav_img">
-                                <img src="images/navigation/gaming.jpg" alt="Game Design Courses" title="Game Design Courses" />
-                                </div>
-                                <div class="content_div1">
-                                	<a href="game-art-design.aspx" title="Gaming">Gaming</a>
-                                    <ul>
-                                    	<li><a href="game-art-design.aspx" title="Game Art & Design">Game Art & Design</a></li>
-                                        <li><a href="digital-media-pro3.aspx?2" title="Digital Media Pro 3">Digital Media Pro 3</a></li>
-                                    </ul>
-                                </div>
-                            </div>-->
-                            
-                        <div class="nav_img_content content_div_small_width">
-                            	<div class="nav_img">
-                                <img src="images/navigation/vfx.jpg" alt="VFX Courses" title="VFX Courses">
-                                </div>
-                                <div class="content_div1 content_div_small_width">
-                                	<a href="vfx-pro.aspx" title="VFX" hidefocus="true" style="outline: none;">VFX</a>
-                                    <ul>
-                                    	<li><a href="vfx-pro.aspx" title="VFX Pro" hidefocus="true" style="outline: none;">VFX Pro</a></li>
-                                        <li><a href="vfx-compositing.aspx" title="VFX Compositing" hidefocus="true" style="outline: none;">VFX Compositing</a></li>
-                                    </ul>
-                                </div>
-                            </div>
                             
                              <div class="nav_img_content content_div_small_width">
                             	<div class="nav_img">
-                                <img src="images/navigation/elearning-navpopups.jpg" alt="E-Learning" title="E-Learning">
+                                <a href="digital-media-pro3.aspx?3" hidefocus="true" style="outline: none;"><img src="images/navigation/elearning-navpopups.jpg" alt="E-Learning" title="E-Learning"></a>
                                 </div>
                                 <div class="content_div1 content_div_small_width">
                                 	<a href="digital-media-pro3.aspx?3" title="E-LEARNING" hidefocus="true" style="outline: none;">E-LEARNING</a>
@@ -567,12 +668,12 @@ $(document).ready(function(e) {
                             
                             <div class="nav_img_content content_div_small_width">
                             	<div class="nav_img">
-                                <img src="images/navigation/short-term-courses.jpg" alt="Short Term Courses" title="Short Term Courses">
+                                <a href="short-term-course.aspx" hidefocus="true" style="outline: none;"><img src="images/navigation/short-term-courses.jpg" alt="Short Term Courses" title="Short Term Courses"></a>
                                 </div>
                                 <div class="content_div1">
                                 	<a href="short-term-course.aspx" title="Short term Courses" hidefocus="true" style="outline: none;">Short term Courses</a>
                                     <ul>
-                                    	<li class="padl15">Sharpen your skills in a very short time </li>
+                                    	<li class="padl15">Sharpen your skills in various tools &amp; software</li>
                                     </ul>
                                 </div>
                             </div>
@@ -592,7 +693,19 @@ $(document).ready(function(e) {
                         <div class="left_nav_content div_next_width">
                         	<div class="nav_img_content">
                             	<div class="nav_img">
-                                <img src="images/navigation/testimonials.jpg" alt="Student Testimonials" title="Student Testimonials">
+                                <a href="new-career-opportunities.aspx" hidefocus="true" style="outline: none;"><img src="images/navigation/career-opportunities.jpg" alt="Career opportunities" title="Career opportunities"></a>
+                                </div>
+                                <div class="content_div1">
+                                	<a href="new-career-opportunities.aspx" title="Career opportunities" hidefocus="true" style="outline: none;">Career opportunities</a>
+                                    <ul>
+                                    	<li class="padl15">Job prospects in TV, movies, advertising, comics, gaming, web designing</li>
+                                    </ul>
+                                </div>  
+                            </div>
+                            
+                            <div class="nav_img_content">
+                            	<div class="nav_img">
+                                <a href="testimonials.aspx" hidefocus="true" style="outline: none;"><img src="images/navigation/testimonials.jpg" alt="Student Testimonials" title="Student Testimonials"></a>
                                 </div>
                                 <div class="content_div1">
                                 	<a href="testimonials.aspx" title="Testimonials" hidefocus="true" style="outline: none;">Testimonials</a>
@@ -604,7 +717,7 @@ $(document).ready(function(e) {
                             
                             <div class="nav_img_content">
                             	<div class="nav_img">
-                                <img src="images/navigation/animation-industries.jpg" alt="Animation Industry" title="Animation Industry">
+                                <a href="arena-zone-animation-industry.aspx" hidefocus="true" style="outline: none;"><img src="images/navigation/animation-industries.jpg" alt="Animation Industry" title="Animation Industry"></a>
                                 </div>
                                 <div class="content_div1">
                                 	<a href="arena-zone-animation-industry.aspx" title="Animation industry" hidefocus="true" style="outline: none;">Animation industry</a>
@@ -614,9 +727,13 @@ $(document).ready(function(e) {
                                 </div>                                
                             </div>
                             
-                            <div class="nav_img_content">
+                            
+                        </div>
+                        
+                        <div class="right_nav_content div_next_width">
+                        <div class="nav_img_content">
                             	<div class="nav_img">
-                                <img src="images/navigation/awards.jpg" alt="Awards" title="Awards">
+                                <a href="arenazone-awards.aspx" hidefocus="true" style="outline: none;"><img src="images/navigation/awards.jpg" alt="Awards" title="Awards"></a>
                                 </div>
                                 <div class="content_div1">
                                 	<a href="arenazone-awards.aspx" title="Awards" hidefocus="true" style="outline: none;">Awards</a>
@@ -625,12 +742,10 @@ $(document).ready(function(e) {
                                     </ul>
                                 </div> 
                             </div>
-                        </div>
-                        
-                        <div class="right_nav_content div_next_width">
+                            
                         <div class="nav_img_content">
                             	<div class="nav_img">
-                                <img src="images/navigation/gallery.jpg" alt="Student Design Gallery" title="Student Design Gallery">
+                                <a href="gallery.aspx" hidefocus="true" style="outline: none;"><img src="images/navigation/gallery.jpg" alt="Student Design Gallery" title="Student Design Gallery"></a>
                                 </div>
                                 <div class="content_div1 content_div_small_width">
                                 	<a href="gallery.aspx" title="Gallery" hidefocus="true" style="outline: none;">Gallery</a>
@@ -642,7 +757,7 @@ $(document).ready(function(e) {
                             
                             <div class="nav_img_content">
                             	<div class="nav_img">
-                                <img src="images/navigation/infrastructure.jpg" alt="Arena Infrastructure" title="Arena Infrastructure">
+                                <a href="infrastructure.aspx" hidefocus="true" style="outline: none;"><img src="images/navigation/infrastructure.jpg" alt="Arena Infrastructure" title="Arena Infrastructure"></a>
                                 </div>
                                 <div class="content_div1">
                                 	<a href="infrastructure.aspx" title="Infrastructure" hidefocus="true" style="outline: none;">Infrastructure</a>
@@ -683,7 +798,7 @@ $(document).ready(function(e) {
                             	<h5>Arena in the news</h5>
                                 <div class="nav_img_content">
                             	<div class="nav_img">
-                                <img src="images/navigation/press-media.jpg" alt="News &amp; Media" title="News &amp; Media">
+                               <a href="gallery.aspx" hidefocus="true" style="outline: none;"><img src="images/navigation/press-media.jpg" alt="News &amp; Media" title="News &amp; Media"></a>
                                 </div>
                                 <div class="content_div1 content_div_small_width">
                                 	<p><a href="gallery.aspx" class="fran_nav_no" title="Gallery" hidefocus="true" style="outline: none;">Gallery</a></p>
@@ -730,7 +845,7 @@ $(document).ready(function(e) {
                             	
                                 <div class="nav_img_content">
                             	<div class="nav_img">
-                                <img src="images/navigation/students-work.jpg" alt="Arena Student Design Works" title="Arena Student Design Works">
+                                <a href="student-work.aspx" hidefocus="true" style="outline: none;"><img src="images/navigation/students-work.jpg" alt="Arena Student Design Works" title="Arena Student Design Works"></a>
                                 </div>
                                 <div class="content_div2">
                                 <h5>See the latest amazing work created by Arena students</h5>
@@ -754,7 +869,7 @@ $(document).ready(function(e) {
                         <div class="left_nav_content div_next_width contact_nav">
                         	<div class="nav_img_content">
                             	<div class="nav_img">
-                                <img src="images/navigation/search.jpg" alt="Search" title="Search">
+                                <a href="contact-us.aspx" hidefocus="true" style="outline: none;"><img src="images/navigation/search.jpg" alt="Search" title="Search"></a>
                                 </div>
                                 <div class="content_div1">
                                 	<a href="contact-us.aspx" title="Locate Us" hidefocus="true" style="outline: none;">Locate Us</a>
@@ -768,7 +883,7 @@ $(document).ready(function(e) {
                             
                             <div class="nav_img_content">
                             	<div class="nav_img">
-                                <img src="images/navigation/enquiry-form.jpg" alt="Enquire for Multimedia Courses" title="Enquire for Multimedia Courses">
+                                <a href="javascript:void(0);" onclick="thanks_popup('enquiry-form.aspx');" hidefocus="true" style="outline: none;"><img src="images/navigation/enquiry-form.jpg" alt="Enquire for Multimedia Courses" title="Enquire for Multimedia Courses"></a>
                                 </div>
                                 <div class="content_div1">
                                 	<a href="javascript:void(0);" onclick="thanks_popup('enquiry-form.aspx');" title="Enquiry Form" hidefocus="true" style="outline: none;">Enquiry Form</a>
@@ -785,12 +900,29 @@ $(document).ready(function(e) {
                                 <img src="images/navigation/live-chat.jpg" alt="Live Chat" title="Live Chat">
                                 </div>
                                 <div class="content_div1">
-                                	<a href="javascript:void(0);" onclick="thanks_popup('live-chat-popup.aspx')" title="Live Chat" hidefocus="true" style="outline: none;">Live Chat</a>
+                                	<!--Non MAAC live2support.com tracking codes starts -->
+<!-- live2support.com tracking codes starts -->
+                    <span id="l2s_trk3"></span>
+			  <script type="text/javascript">var l2sontxt3 = "Live Chat"; var l2sofftxt3 = "Live Chat"; </script>
+<!-- Non MAAC live2support.com tracking codes closed -->
+                                     
+                                    
                                     <ul>
                                     	<li class="padl15">Speak with a career counselor. Now!</li>
                                     </ul>
                                 </div>
+                                </div>
                                 
+                                <div class="nav_img_content">
+                            	<div class="nav_img">
+                                <a href="arena-centres.aspx" hidefocus="true" style="outline: none;"><img src="images/navigation/arena-centres.jpg" alt="Arena Centres" title="Arena Centres"></a>
+                                </div>
+                                <div class="content_div1">
+                                	<a href="arena-centres.aspx" title="Arena Centres" hidefocus="true" style="outline: none;">Arena Centres</a>
+                                    <ul>
+                                    	<li class="padl15">Complete list of Arena centres in your City/ State</li>
+                                    </ul>
+                                </div>                              
                                 
                             </div>
                         </div>
@@ -803,7 +935,8 @@ $(document).ready(function(e) {
           </header>
           <div class="clear"></div>
 
-        </section> <script>
+        </section>
+<script type="text/javascript">
                                 
                        $('#openpopup a').click(function (e) {
                            $('#openpopup').fadeOut('slow', function () {
@@ -873,9 +1006,9 @@ function hide_nav_hover(){
 																});
 
 
-																/* End Tab */
+/* End Tab */
 
-                                </script>
+</script>
 
         <section class="breadcrumb all">
          <ul>
@@ -890,36 +1023,44 @@ function hide_nav_hover(){
               <div class="courses-content">
               <h2><a href="courses.aspx" title="COURSES" hidefocus="true" style="outline: none;">COURSES</a></h2>
               <div class="acordion2">
-              <h3><a href="#" class="cls-current2" title="Animation" hidefocus="true" style="outline: none;">ANIMATION</a></h3>
-              <p class="homecourses_link" style="display: block;"><a href="animation-with-portfolio-development-aaip.aspx" title="Arena Animation International Program (AAIP)" hidefocus="true" style="outline: none;">Arena Animation International Program (AAIP)</a>
-                           <!--<a href="comprehensive-animation-arena-animation-pro.aspx" title="Arena Animation Pro">Arena Animation Pro</a> -->
-                           <a href="animation-film-making-dae.aspx" title="Animation Film Making: DAE" hidefocus="true" style="outline: none;">Animation Film Making: DAE</a></p>
-                           <div class="saprater"></div>
-              <h3><a href="#" class="cls-pluse2" title="WEB DESIGN" hidefocus="true" style="outline: none;">WEB DESIGN</a></h3>
-              <p class="homecourses_link" style="display: none;">
+              
+              <h3><a href="#" class="cls-current2" title="Web Designing &amp; Multimedia" hidefocus="true" style="outline: none;">WEB DESIGNING &amp; MULTIMEDIA</a></h3>
+              <p class="homecourses_link" style="display: block;">
+              <a href="graphics-web-design.aspx" title="Graphic &amp; Web Design (GWD)" hidefocus="true" style="outline: none;">Graphic &amp; Web Design (GWD)</a>
               <a href="web-design-development-program.aspx" title="Web Design &amp; Development Program (WDP)" hidefocus="true" style="outline: none;">Web Design &amp; Development Program</a>
               <a href="multimedia-design-program.aspx" title="Multimedia Design Program (MDP)" hidefocus="true" style="outline: none;">Multimedia Design Program (MDP)</a>
-              <a href="graphics-web-design.aspx" title="Graphic &amp; Web Design (GWD)" hidefocus="true" style="outline: none;">Graphic &amp; Web Design (GWD)</a>
+              
               <a href="design-publishing-program.aspx" title="Design &amp; Publishing Program (DPP)" hidefocus="true" style="outline: none;">Design &amp; Publishing Program (DPP)</a>
 			  <!--<a href="digital-media-pro3.aspx" title="Digital Media Pro 3">Digital Media Pro 3</a></p>-->
 
-				<!--<div class="saprater"></div>
-              <h3><a href="#" class="cls-pluse2" title="UNIVERSITY DEGREE">UNIVERSITY DEGREE</a></h3>
-              <p class="homecourses_link"><a href="ba_vfx_animation.aspx" title="B.A. in VFX &amp; Animation">B.A. in VFX &amp; Animation</a>
-              </p>-->
+			  </p><div class="saprater"></div>
               
-              </p><div class="saprater"></div>
+              <h3><a href="#" class="cls-pluse2" title="VFX" hidefocus="true" style="outline: none;">VFX</a></h3>
+              <p class="homecourses_link" style="display: none;">
+              <a href="animation-with-portfolio-development-aaip-vfx.aspx" title="Arena Animation International Program VFX (AAIP – VFX)" hidefocus="true" style="outline: none;">Arena Animation International Program VFX(AAIP – VFX)</a>
+              <a href="vfx-pro.aspx" title="VFX pro" hidefocus="true" style="outline: none;">VFX Pro</a>
+              <a href="vfx-compositing.aspx" title="VFX Compositing" hidefocus="true" style="outline: none;">VFX Compositing</a>
+              </p>
+              <div class="saprater"></div>
+
+              <h3><a href="#" class="cls-pluse2" title="Animation" hidefocus="true" style="outline: none;">ANIMATION</a></h3>
+              <p class="homecourses_link" style="display: none;"><a href="animation-with-portfolio-development-aaip.aspx" title="Arena Animation International Program (AAIP – Animation)" hidefocus="true" style="outline: none;">Arena Animation International Program (AAIP – Animation)</a>
+                           <!--<a href="comprehensive-animation-arena-animation-pro.aspx" title="Arena Animation Pro">Arena Animation Pro</a> -->
+                           <a href="animation-film-making-dae.aspx" title="Animation Film Making: DAE" hidefocus="true" style="outline: none;">Animation Film Making: DAE</a></p>
+                           <div class="saprater"></div>
+              
+              <h3><a href="#" class="cls-pluse2" title="UNIVERSITY DEGREE" hidefocus="true" style="outline: none;">UNIVERSITY DEGREE</a></h3>
+              <p class="homecourses_link" style="display: none;"><a href="ba_vfx_animation.aspx" title="B.A. in VFX &amp; Animation" hidefocus="true" style="outline: none;">B.A. in VFX &amp; Animation</a>
+              </p>
+              
+              <div class="saprater"></div>
               <h3><a href="#" class="cls-pluse2" title="GAMING" hidefocus="true" style="outline: none;">GAMING</a></h3>
               <p class="homecourses_link" style="display: none;"><a href="game-art-design.aspx" title="Game Art &amp; Design" hidefocus="true" style="outline: none;">Game Art &amp; Design</a>
                   <!--<a href="digital-media-pro3.aspx?2" title="Digital Media Pro 3">Digital Media Pro 3</a>-->
               </p>
               
               <div class="saprater"></div>
-              <h3><a href="#" class="cls-pluse2" title="VFX" hidefocus="true" style="outline: none;">VFX</a></h3>
-              <p class="homecourses_link" style="display: none;"><a href="vfx-pro.aspx" title="VFX pro" hidefocus="true" style="outline: none;">VFX Pro</a>
-              <a href="vfx-compositing.aspx" title="VFX Compositing" hidefocus="true" style="outline: none;">VFX Compositing</a>
-              </p>
-              <div class="saprater"></div>
+              
               <h3><a href="#" class="cls-pluse2" title="E LEARNING" hidefocus="true" style="outline: none;">E–LEARNING</a></h3>
               <p class="homecourses_link" style="display: none;"><a href="digital-media-pro3.aspx?3" title="Digital Media Pro 3" hidefocus="true" style="outline: none;">Digital Media Pro 3</a></p>
               <div class="saprater"></div>
@@ -939,39 +1080,111 @@ Games development</p>-->
           <article class="press-media">
              <div class="placement_pressmedia">
 
-  <div class="our-recruiters">
+ <style type="text/css">
+*{
+	margin:0;
+	padding:0;
+}
+ol, ul {
+    list-style: none outside none;
+}
+.placementdivarea{
+width:247px;
+height:205px;	
+}
+ul.placement_list li{
+	-webkit-border-radius:5px;
+	-moz-border-radius:5px;
+	-o-border-radius:5px;
+	-ms-border-radius:5px;
+	border-radius:5px;
+	   padding:5px;
+	   margin:0 3px 5px 2px;
+	   float:left;
+	   font:bold 12px Arial, Helvetica, sans-serif;
+	   color:#fff;}
+.purple{background:#383a75;}
+.green{background:#a2b933;}
+.drk_green{background:#3cba66;}
+.drk_pink{background:#66336c;}
+.cyan{background:#1dabad;}
+.orange{background:#e39d24;}
+.skyblue{background:#00aeff;}
+.clear{clear:both;}	
+</style>
+ <div class="our-recruiters">
  <h2>PLACEMENTS</h2>
  </div>
- <div class="recruiters-corousel"><div class=" jcarousel-skin-tango"><div class="jcarousel-container jcarousel-container-horizontal" style="position: relative; display: block;"><div class="jcarousel-clip jcarousel-clip-horizontal" style="overflow: hidden; position: relative;"><ul id="mycarousel" class="jcarousel-list jcarousel-list-horizontal" style="overflow: hidden; position: relative; top: 0px; margin: 0px; padding: 0px; left: 0px; width: 2011px;">
-    <li class="jcarousel-item jcarousel-item-horizontal jcarousel-item-1 jcarousel-item-1-horizontal" jcarouselindex="1" style="float: left; list-style: none;"><figure><table class="placement_tbl_td"><tbody><tr><td><img src="images/placement_logos/new-logo/01.gif" width="106" height="61" alt="Reliance Media works" title="Reliance Media works"></td></tr></tbody></table></figure></li>
-   <li class="jcarousel-item jcarousel-item-horizontal jcarousel-item-2 jcarousel-item-2-horizontal" jcarouselindex="2" style="float: left; list-style: none;"><figure><table class="placement_tbl_td"><tbody><tr><td><img src="images/placement_logos/new-logo/02.gif" width="104" height="61" alt="Technicolor" title="Technicolor"></td></tr></tbody></table></figure></li>
+ <div class="recruiters-corousel" style="padding-left:4px !important;margin-bottom:10px;">
+ <!--<ul id="mycarousel" class="jcarousel-skin-tango">
+    <li><figure><table class="placement_tbl_td"><tr><td><img src="images/placement_logos/new-logo/01.gif" width="106" height="61" alt="Reliance Media works" title="Reliance Media works"/></td></tr></table></figure></li>
+   <li><figure><table  class="placement_tbl_td"><tr><td><img src="images/placement_logos/new-logo/02.gif" width="104" height="61" alt="Technicolor" title="Technicolor"/></td></tr></table></figure></li>
      
-    <li class="jcarousel-item jcarousel-item-horizontal jcarousel-item-3 jcarousel-item-3-horizontal" jcarouselindex="3" style="float: left; list-style: none;"><figure><table class="placement_tbl_td"><tbody><tr><td><img src="images/placement_logos/new-logo/03.gif" width="108" height="61" alt="Yell Add works" title="Yell Add works"></td></tr></tbody></table></figure></li>
+    <li><figure><table  class="placement_tbl_td"><tr><td><img src="images/placement_logos/new-logo/03.gif" width="108" height="61" alt="Yell Add works" title="Yell Add works"/></td></tr></table></figure></li>
 
- <li class="jcarousel-item jcarousel-item-horizontal jcarousel-item-4 jcarousel-item-4-horizontal" jcarouselindex="4" style="float: left; list-style: none;"><figure><table class="placement_tbl_td"><tbody><tr><td><img src="images/placement_logos/new-logo/04.gif" width="119" height="61" alt="2Adpro" title="2Adpro"></td></tr></tbody></table></figure></li>
-
-    
-     <li class="jcarousel-item jcarousel-item-horizontal jcarousel-item-5 jcarousel-item-5-horizontal" jcarouselindex="5" style="float: left; list-style: none;"><figure><table class="placement_tbl_td"><tbody><tr><td><img src="images/placement_logos/new-logo/05.gif" width="244" height="61" alt="Thomson Digital" title="Thomson Digital"></td></tr></tbody></table></figure></li>
+ <li><figure><table  class="placement_tbl_td"><tr><td><img src="images/placement_logos/new-logo/04.gif" width="119" height="61" alt="2Adpro" title="2Adpro"/></td></tr></table></figure></li>
 
     
-    <li class="jcarousel-item jcarousel-item-horizontal jcarousel-item-6 jcarousel-item-6-horizontal" jcarouselindex="6" style="float: left; list-style: none;"><figure><table class="placement_tbl_td"><tbody><tr><td><img src="images/placement_logos/new-logo/06.gif" width="69" height="61" alt="Sparrow Interactive" title="Sparrow Interactive"></td></tr></tbody></table></figure></li>
+     <li><figure><table  class="placement_tbl_td"><tr><td><img src="images/placement_logos/new-logo/05.gif" width="244" height="61" alt="Thomson Digital" title="Thomson Digital"/></td></tr></table></figure></li>
 
     
-    <li class="jcarousel-item jcarousel-item-horizontal jcarousel-item-7 jcarousel-item-7-horizontal" jcarouselindex="7" style="float: left; list-style: none;"><figure><table class="placement_tbl_td"><tbody><tr><td><img src="images/placement_logos/new-logo/07.gif" width="78" height="61" alt="Hestia Studios" title="Hestia Studios"></td></tr></tbody></table></figure></li>
+    <li><figure><table  class="placement_tbl_td"><tr><td><img src="images/placement_logos/new-logo/06.gif" width="69" height="61" alt="Sparrow Interactive" title="Sparrow Interactive"/></td></tr></table></figure></li>
+
     
-    <li class="jcarousel-item jcarousel-item-horizontal jcarousel-item-8 jcarousel-item-8-horizontal" jcarouselindex="8" style="float: left; list-style: none;"><figure><table class="placement_tbl_td"><tbody><tr><td><img src="images/placement_logos/new-logo/08.gif" width="97" height="61" alt="Hestia Studios" title="Hestia Studios"></td></tr></tbody></table></figure></li>
+    <li><figure><table  class="placement_tbl_td"><tr><td><img src="images/placement_logos/new-logo/07.gif" width="78" height="61" alt="Hestia Studios" title="Hestia Studios"/></td></tr></table></figure></li>
     
-    <li class="jcarousel-item jcarousel-item-horizontal jcarousel-item-9 jcarousel-item-9-horizontal" jcarouselindex="9" style="float: left; list-style: none;"><figure><table class="placement_tbl_td"><tbody><tr><td><img src="images/placement_logos/new-logo/09.gif" width="164" height="61" alt="Hestia Studios" title="Hestia Studios"></td></tr></tbody></table></figure></li>
+    <li><figure><table  class="placement_tbl_td"><tr><td><img src="images/placement_logos/new-logo/08.gif" width="97" height="61" alt="Hestia Studios" title="Hestia Studios"/></td></tr></table></figure></li>
     
-    <li class="jcarousel-item jcarousel-item-horizontal jcarousel-item-10 jcarousel-item-10-horizontal" jcarouselindex="10" style="float: left; list-style: none;"><figure><table class="placement_tbl_td"><tbody><tr><td><img src="images/placement_logos/new-logo/10.gif" width="85" height="61" alt="Hestia Studios" title="Hestia Studios"></td></tr></tbody></table></figure></li>
+    <li><figure><table  class="placement_tbl_td"><tr><td><img src="images/placement_logos/new-logo/09.gif" width="164" height="61" alt="Hestia Studios" title="Hestia Studios"/></td></tr></table></figure></li>
     
-    <li class="jcarousel-item jcarousel-item-horizontal jcarousel-item-11 jcarousel-item-11-horizontal" jcarouselindex="11" style="float: left; list-style: none;"><figure><table class="placement_tbl_td"><tbody><tr><td><img src="images/placement_logos/new-logo/11.gif" width="41" height="61" alt="Hestia Studios" title="Hestia Studios"></td></tr></tbody></table></figure></li>
+    <li><figure><table  class="placement_tbl_td"><tr><td><img src="images/placement_logos/new-logo/10.gif" width="85" height="61" alt="Hestia Studios" title="Hestia Studios"/></td></tr></table></figure></li>
     
-    <li class="jcarousel-item jcarousel-item-horizontal jcarousel-item-12 jcarousel-item-12-horizontal" jcarouselindex="12" style="float: left; list-style: none;"><figure><table class="placement_tbl_td"><tbody><tr><td><img src="images/placement_logos/new-logo/12.gif" width="179" height="61" alt="Hestia Studios" title="Hestia Studios"></td></tr></tbody></table></figure></li>
+    <li><figure><table  class="placement_tbl_td"><tr><td><img src="images/placement_logos/new-logo/11.gif" width="41" height="61" alt="Hestia Studios" title="Hestia Studios"/></td></tr></table></figure></li>
     
-    <li class="jcarousel-item jcarousel-item-horizontal jcarousel-item-13 jcarousel-item-13-horizontal" jcarouselindex="13" style="float: left; list-style: none;"><figure><table class="placement_tbl_td"><tbody><tr><td><img src="images/placement_logos/new-logo/13.gif" width="114" height="61" alt="Hestia Studios" title="Hestia Studios"></td></tr></tbody></table></figure></li>
+    <li><figure><table  class="placement_tbl_td"><tr><td><img src="images/placement_logos/new-logo/12.gif" width="179" height="61" alt="Hestia Studios" title="Hestia Studios"/></td></tr></table></figure></li>
+    
+    <li><figure><table  class="placement_tbl_td"><tr><td><img src="images/placement_logos/new-logo/13.gif" width="114" height="61" alt="Hestia Studios" title="Hestia Studios"/></td></tr></table></figure></li>
   
-  </ul></div><div class="jcarousel-prev jcarousel-prev-horizontal" style="display: block;"></div><div class="jcarousel-next jcarousel-next-horizontal" style="display: block;"></div></div></div></div>
+  </ul>-->
+ <!-- <img src="images/placement_names.png" width="247" height="201" alt="Arena Placements" title="Arena Placement" />-->
+  <div class="placementdivarea">
+       <ul class="placement_list">
+         <li class="purple" style="font-size:15px;">Google</li>
+         <li class="drk_green">IBM</li>
+         <li class="purple">Studio 9</li>
+         <li class="cyan">Zee News</li>
+         <li class="purple clear">Prana Studios</li>
+          <li class="green">Make My Trip</li>
+           <li class="skyblue">Dish TV</li>
+         
+         <li class="drk_green clear" style="font-size:15px;">Reliance Media Works</li>
+         <li class="orange">Digitoonz</li>
+          
+          <li class="purple clear">News 9</li>
+         <li class="orange">Balaji Studios</li>
+         <li class="purple">TV9</li>
+         <li class="orange">NDTV</li>
+          <li class="orange clear" style="font-size:15px;">Star Plus</li>
+          <li class="purple">India Today</li>
+        
+         <li class="green">CISCO</li>
+         <li class="cyan">Dell</li>
+         <li class="cyan clear" style="font-size:15px;">Cognizant</li>           
+         
+          <li class="purple">Prime Focus</li>        
+         <li class="skyblue">Animaster</li>
+         
+          
+          
+      <!--   
+      
+      <li class="skyblue" style="font-size:15px;">Volkswagen</li>
+         <li class="purple">UTV Movies</li>
+         <li class="green">Animaster</li>-->
+       </ul>
+         
+  </div>
+  </div>
   
           
 
@@ -1016,6 +1229,8 @@ Games development</p>-->
         <!-- FOOTER SECTION START HERE   -->
         
    <footer>
+ 
+ 
  
      <div class="middbotom">      
      <p id="back-top" style="display: none;"><a href="#top" hidefocus="true" style="outline: none;"><span>Back to Top</span></a></p>
@@ -1075,7 +1290,7 @@ around the Arena website  </span>
 </div>
 <div class="creadit-right">
   <div class="creadt-text-copy">Note: All images &amp; videos used on this website have been created by Arena students.</div>
-<div class="copyright_div">Copyright © 2012 Aptech Ltd. All rights reserved.</div>
+<div class="copyright_div">Copyright © 2013 Aptech Ltd. All rights reserved.</div>
 </div>
 <div class="official_seal">
 	<!--<img src="images/arena_seal.png" alt="The Official Website" title="The Official Website"/>-->
@@ -1157,7 +1372,7 @@ var l2sontxt='LIVE CHAT';var l2sofftxt='LIVE CHAT'; var l2s_pht=escape(location.
                       </div>
                       
                       <div class="enquiryform">
-                        <iframe id="Iframe1" src="http://180.179.206.125/ArenaWebsiteWebForms/divdisplay-international.aspx" style="margin-top:-43px; border:0; overflow:hidden; background-color:transparent;" height="370" width="257"></iframe>      
+                        <iframe id="Iframe1" src="http://www.arena-multimedia.com/arena_webforms/divdisplay-international.aspx" style="margin-top:-43px; border:0; overflow:hidden; background-color:transparent;" height="370" width="257"></iframe>      
                         
 
                         <!--<span class="verdana20">ENQUIRY FORM</span>
@@ -1220,9 +1435,8 @@ var l2sontxt='LIVE CHAT';var l2sofftxt='LIVE CHAT'; var l2s_pht=escape(location.
    
             </script>
              <form method="post" action="#" id="Form1">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKLTYzNzA4NDcyMGRk">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTM2NjYxMjM5OWRk">
 
-<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWAgKn28yKCwKct7iSDA==">
 
                       <div class="livechatslide" id="open_chat_window">
                         <span class="verdana20">LIVE CHAT</span>
@@ -1253,6 +1467,14 @@ var l2sontxt='LIVE CHAT';var l2sofftxt='LIVE CHAT'; var l2s_pht=escape(location.
                 
      </div>
 </div> 
+
+
+
+<div id="dvWIP" style="display: none; left: 473px; top: 284px; position: fixed; z-index: 99999;">
+   <center><h4>Please wait…your request is being processed, <br>  <br>(Do not click 'Back' or 'Forward' button at this time)</h4></center>
+</div>
+
+<div id="dimmer" style="display:none"></div>
 
 
 </footer>
