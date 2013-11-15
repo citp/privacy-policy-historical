@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the appbackr.com privacy policy that was archived on 2013-01-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130116121430id_/http%3A//privacy-policy.truste.com/verified-policy/www.appbackr.com) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the appbackr.com privacy policy that was archived on 2013-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131115223308id_/http%3A//privacy-policy.truste.com/verified-policy/www.appbackr.com) for the most accurate reproduction.*
 
 # Privacy Policy for www.appbackr.com
 
