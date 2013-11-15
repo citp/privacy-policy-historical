@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the livingwaters.com privacy policy that was archived on 2013-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130515203547id_/http%3A//www.livingwaters.com/index.php%3Foption%3Dcom_content%26task%3Dview%26id%3D41%26Itemid%3D120%26lang%3Den) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the livingwaters.com privacy policy that was archived on 2013-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131115052205id_/http%3A//www.livingwaters.com/index.php%3Foption%3Dcom_content%26task%3Dview%26id%3D41%26Itemid%3D120%26lang%3Den) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -52,6 +52,4 @@ If at any point we decide to use particular personally identifiable information 
 **How You Can Access and Update Your Email Preferences, Personal Information and Public Information**   
 We give you the opportunity to opt-out of certain communications and modify personal information or demographic information you have provided to us, and to hide demographic information from, or make demographic information visible to, the public users of the Site, at anytime by going to the section of the Site. Please be aware that it may take several hours for the changes you make to take effect on the public areas of the Site. We thank you for your patience. Please note that changing or deleting your information through the "Account Settings" or "My Profile" section of the Site, or otherwise opting-out of receipt of email communications from Living Waters, will only change or delete the data in our database for purposes of future activities on the Site and for managing future communications from Living Waters. These changes and deletions will not change or delete emails or information that we may have already forwarded to other users or credit card companies or any other third parties, all as provided above in this privacy policy. 
 
-If you have any questions or concerns about this privacy policy, the practices of the Site, or your dealings with the Site, you can contact us at .'; document.write( '
-
-' ); document.write( addy_text39379 ); document.write( '<\/a>' ); //-->
+If you have any questions or concerns about this privacy policy, the practices of the Site, or your dealings with the site, you can contact us at [email@livingwaters.com](mailto:email@livingwaters.com). 
