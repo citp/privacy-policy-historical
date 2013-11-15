@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ebairsoft.com privacy policy that was archived on 2013-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130615160901id_/http%3A//www.ebairsoft.com/info-4.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ebairsoft.com privacy policy that was archived on 2013-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131115141717id_/http%3A//www.ebairsoft.com/info-4.html) for the most accurate reproduction.*
 
 # EbairSoft Airsoft parts & Tactical Gear - Privacy Notice
 
