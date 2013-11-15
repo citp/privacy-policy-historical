@@ -1,8 +1,7 @@
-> *The following text is extracted and transformed from the crisisprevention.com privacy policy that was archived on 2013-01-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130118012851id_/http%3A//www.crisisprevention.com/About-CPI/Privacy-Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crisisprevention.com privacy policy that was archived on 2013-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131115110454id_/http%3A//www.crisisprevention.com/About-CPI/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy | CPI
 
-**Privacy Policy**  
 CPI respects and understands the importance of privacy and security for our online customers. Any information collected is used by CPI to run this site and to contact consumers for marketing and operational purposes. Persons who supply us with their telephone number, address, or email address online may receive telephone, mail, or email contact from us with information regarding special promotions, new products and services, upcoming events, or general promotional materials.
 
 CPI sometimes hires other companies to provide limited services on our behalf, such as sending newsletters and performing statistical analysis with regard to the use of our website. We only provide those companies with the information that they need to provide us with such services, and we prohibit them from using that information for any other purpose.
