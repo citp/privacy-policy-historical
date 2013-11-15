@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the way2success.com privacy policy that was archived on 2013-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130612043520id_/http%3A//www.way2success.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the way2success.com privacy policy that was archived on 2013-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131115013513id_/http%3A//www.way2success.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy | Way 2 Success
 
