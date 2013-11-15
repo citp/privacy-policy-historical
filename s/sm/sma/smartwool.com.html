@@ -1,8 +1,8 @@
-<!--The following is the downloaded HTML source of the smartwool.com privacy policy that was archived on 2013-05-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130521090043id_/http%3A//www.smartwool.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the smartwool.com privacy policy that was archived on 2013-11-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131115085026id_/https%3A//www.smartwool.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="no-js" lang="en"><!--<![endif]--><head>
-  <title>Privacy Policy</title>
+  <script type="text/javascript">var NREUMQ=NREUMQ||[];NREUMQ.push(["mark","firstbyte",new Date().getTime()]);</script><title>Privacy Policy</title>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="description" content="">
 <meta name="keywords" content="privacy">
@@ -18,9 +18,9 @@
 //]]>
 </script>
 <![endif]-->
-<link rel="stylesheet" type="text/css" href="http://www.smartwool.com/media/css/1a366d7fd2566eba886ffa0ae1c24690.css" media="all">
+<link rel="stylesheet" type="text/css" href="http://www.smartwool.com/media/css/397e3829e133a43906b4174423ea481d.css" media="all">
 <link rel="stylesheet" type="text/css" href="http://www.smartwool.com/media/css/399233406083598c27e11142b62c3158.css" media="print">
-<script type="text/javascript" src="http://www.smartwool.com/media/js/29ccb835a555783d19409d91adc3d122.js"></script>
+<script type="text/javascript" src="http://www.smartwool.com/media/js/0f6ddfd81f0b393ada2cc1cdfda470dd.js"></script>
 
 <script type="text/javascript">
 //<![CDATA[
@@ -73,7 +73,38 @@ _gaq.push(['_trackPageview']);
         </p>-->
                 <div class="header-content">
             <div class="header-content-top">
-                                <div class="header-content-top-right">
+                <div class="country-selector">
+    <span class="selected-country"><span class="us icon"></span><span class="country-text">United States</span><span class="arrow"></span></span>
+    <ul class="country-selector-dropdown" style="display:none;">
+    <li class="selected country" id="us"><a href="http://www.smartwool.com?country=us"><span class="us icon"></span><span class="country-text">United States</span></a></li>
+        <li class="country" id="ca"><a href="http://www.smartwool.ca?country=ca"><span class="ca icon"></span><span class="country-text">Canada</span></a></li>
+        <li class="country" id="uk"><a href="http://www.smartwool.ca?country=uk"><span class="uk icon"></span><span class="country-text">United Kingdom</span></a></li>
+        <li class="country" id="at"><a href="http://www.smartwool.de?country=at"><span class="at icon"></span><span class="country-text">Austria</span></a></li>
+        <li class="country" id="fr"><a href="http://www.smart-wool.fr?country=fr"><span class="fr icon"></span><span class="country-text">France</span></a></li>
+        <li class="country" id="de"><a href="http://www.smartwool.de?country=de"><span class="de icon"></span><span class="country-text">Germany</span></a></li>
+        <li class="country" id="ch"><a href="http://www.smartwool.ac.cn?country=ch"><span class="ch icon"></span><span class="country-text">China</span></a></li>
+        <li class="country" id="hk"><a href="http://www.smartwool.hk?country=hk"><span class="hk icon"></span><span class="country-text">Hong Kong</span></a></li>
+        <li class="country" id="ja"><a href="http://www.smartwool.jp?country=ja"><span class="ja icon"></span><span class="country-text">Japan</span></a></li>
+        <li class="country" id="ko"><a href="http://www.smartwool.kr.com?country=ko"><span class="ko icon"></span><span class="country-text">Korea</span></a></li>
+        <li class="country" id="tw"><a href="http://www.smartwool.tw?country=tw"><span class="tw icon"></span><span class="country-text">Taiwan</span></a></li>
+        <li class="country" id="au"><a href="http://www.smartwool.net.au?country=au"><span class="au icon"></span><span class="country-text">Australia</span></a></li>
+        <li class="country" id="nz"><a href="http://www.smartwool.net.au?country=nz"><span class="nz icon"></span><span class="country-text">New Zealand</span></a></li>
+        <li class="store-locator"><a href="http://smartwool.com/dealerlocator"><span class="sl icon"></span><span class="country-text">Store Locator</span></a></li>    </ul>
+</div>
+
+<script type="text/javascript">
+    Event.observe(window, 'load', function(){
+        var headerPromo = $('header-promo-link');
+        $$('.selected-country').first().observe('click', function(){
+            this.toggleClassName('active');
+            this.up('div').select('.country-selector-dropdown').first().toggle();
+            if(headerPromo.hasClassName('active')) {
+                headerPromo.removeClassName('active');
+                $('wrapper-promo').setStyle({'left':'-9999em'});
+            }
+        });
+    });
+</script>                <div class="header-content-top-right">
                     <ul class="quick-access">
                                                     <li class="login"><a class="grey-btn" href="https://www.smartwool.com/customer/account/login/">Login</a></li>
                                             </ul>
@@ -95,9 +126,8 @@ _gaq.push(['_trackPageview']);
             // Below can be used to show minicart after item added
             // Enterprise.TopCart.showCart(7);
         </script>
-    </div>
-<!--/{CART_SIDEBAR_c90253cb2a10b5411ec4fd62baf5f0ec}-->                    <p class="free-shipping-text">Free Shipping on orders over <span>$75</span></p>
-                </div>
+            </div>
+<!--/{CART_SIDEBAR_c90253cb2a10b5411ec4fd62baf5f0ec}-->                    <p class="free-shipping-text">$5 Shipping and Free Returns</p>                </div>
             </div>
             <div class="header-content-btm">
                 <ul id="navigation">
@@ -199,40 +229,58 @@ _gaq.push(['_trackPageview']);
 </a>
 </li>
 </ul>
-</li><li class="level0 nav-4 last parent">
+</li><li class="level0 nav-4 parent">
+<a href="http://www.smartwool.com/gifts.html">
+<span>Gifts</span>
+</a>
+<ul class="level0">
+<li class="level1 nav-4-1 first">
+<a href="http://www.smartwool.com/gifts/35-under-35.html">
+<span>35 under $35</span>
+</a>
+</li><li class="level1 nav-4-2">
+<a href="http://www.smartwool.com/gifts/for-her.html">
+<span>For Her</span>
+</a>
+</li><li class="level1 nav-4-3 last">
+<a href="http://www.smartwool.com/gifts/gift-cards.html">
+<span>Gift Cards</span>
+</a>
+</li>
+</ul>
+</li><li class="level0 nav-5 last parent">
 <a href="http://www.smartwool.com/activity.html">
 <span>Activity</span>
 </a>
 <ul class="level0">
-<li class="level1 nav-4-1 first">
+<li class="level1 nav-5-1 first">
+<a href="http://www.smartwool.com/activity/on-snow.html">
+<span>On Snow</span>
+</a>
+</li><li class="level1 nav-5-2">
 <a href="http://www.smartwool.com/activity/run.html">
 <span>Run</span>
 </a>
-</li><li class="level1 nav-4-2">
+</li><li class="level1 nav-5-3">
 <a href="http://www.smartwool.com/activity/hike.html">
 <span>Hike</span>
 </a>
-</li><li class="level1 nav-4-3">
+</li><li class="level1 nav-5-4">
 <a href="http://www.smartwool.com/activity/cycle.html">
 <span>Cycle</span>
 </a>
-</li><li class="level1 nav-4-4">
+</li><li class="level1 nav-5-5">
 <a href="http://www.smartwool.com/activity/fish-hunt.html">
 <span>Fish/Hunt</span>
 </a>
-</li><li class="level1 nav-4-5">
+</li><li class="level1 nav-5-6 last">
 <a href="http://www.smartwool.com/activity/around-town.html">
 <span>Around Town</span>
-</a>
-</li><li class="level1 nav-4-6 last">
-<a href="http://www.smartwool.com/activity/on-snow.html">
-<span>On Snow</span>
 </a>
 </li>
 </ul>
 </li>        </ul>
-        <div class="nav-right">
-            <a href="http://www.smartwool.com/lifestyle-socks.html" }}"=""><img src="http://s7d1.scene7.com/is/image/SmartWool/LifestyleNavBanner?$SWNAVCALLOUT$" alt=""></a>        </div>
+        <div class="nav-right"></div>
     </div>
 </li>
 <li class="discover top-item" data-target="wrapper-discover">
@@ -242,10 +290,10 @@ _gaq.push(['_trackPageview']);
             <div class="column">
                 <h3><a href="http://www.smartwool.com/discover/#proof">Featured Products</a></h3>
                 <ul>
-                    <li><a href="http://www.smartwool.com/discover/#proof/micro-150-shirts">Micro 150 Shirts</a></li>
-                    <li><a href="http://www.smartwool.com/discover/#proof/run-light-socks">PhD Run Light Micro Socks</a></li>
-                    <li><a href="http://www.smartwool.com/discover/#proof/phd-outdoor-socks">PhD Outdoor Socks</a></li>
-                    <li><a href="http://www.smartwool.com/discover/#proof/hiking-socks">Hiking Socks</a></li>
+                    <li><a href="http://www.smartwool.com/discover/#proof/phd-outdoor-socks">PhD Ski Socks</a></li>
+                    <li><a href="http://www.smartwool.com/discover/#proof/micro-150-shirts">NTS Mid 250 BaseLayers</a></li>
+                    <li><a href="http://www.smartwool.com/discover/#proof/hiking-socks">PhD SmartLoft MidLayers</a></li>
+                    <li><a href="http://www.smartwool.com/discover/#proof/run-light-socks">PhD Outdoor Socks</a></li>
                 </ul>
             </div>
             <div class="column dealer">
@@ -275,8 +323,7 @@ _gaq.push(['_trackPageview']);
                 </ul>
             </div>
         </div>
-        <div class="nav-right">
-            <a href="http://www.smartwool.com/merino_matters/"><img src="http://s7d1.scene7.com/is/image/SmartWool/MerinoMattersNavBanner?$SWNAVCALLOUT$" alt=""></a>        </div>
+        <div class="nav-right"></div>
     </div>
 </li>
 <li class="find_us top-item" data-target="wrapper-find">
@@ -299,7 +346,7 @@ _gaq.push(['_trackPageview']);
                     jQuery('#search-btn').click(function(e) {
                         e.preventDefault();
                         var query = jQuery('#dealerlocator').val();
-                        var dl_location = "/dealerlocator?query=" + query;
+                        var dl_location = "http://www.smartwool.com/" + "dealerlocator?query=" + query;
                         window.location = dl_location;
                     });
                 </script>
@@ -309,8 +356,7 @@ _gaq.push(['_trackPageview']);
                 <a href="http://www.smartwool.com/dealerlocator?tab=online" class="online-stores">See list of stores</a>
             </div>
         </div>
-        <div class="nav-right">
-            <a href="http://www.smartwool.com/fanfieldtester/"><img src="http://s7d1.scene7.com/is/image/SmartWool/FanFieldTesterNavBanner?$SWNAVCALLOUT$" alt=""></a>        </div>
+        <div class="nav-right"></div>
     </div>
 </li>
 <!--/{CATALOG_NAVIGATION_e02d0f439124d95c9defc9df02d16f54}-->                            
@@ -322,7 +368,7 @@ _gaq.push(['_trackPageview']);
           <button type="submit" title="" class="button"></button>
       </form>
     </li>                                            <li class="header-promo" data-target="wrapper-promo">
-                            <a href="#" id="header-promo-link">Win a Sock Sampler</a>
+                            <a href="#" id="header-promo-link">Sign Up for Email and Win</a>
                             <div class="wrapper" id="wrapper-promo">
                                 <div id="loading-spinner"></div>
                                 <div class="slides-inner">
@@ -330,10 +376,10 @@ _gaq.push(['_trackPageview']);
                                         <div class="promo-close">Close</div>
                                         <div class="column-left">
                                             <p class="month">THIS MONTH:</p>
-<p>Enough Socks to fill your Drawer</p>
-<p><img src="//smartwool.scene7.com//is/image/SmartWool/contestsocks?$Contest%20Signup%20HOMEPAGE$" alt="" width="288" height="320"></p>                                        </div>
+<p>The Go-To Cold Weather Baselayer</p>
+<p><img src="//smartwool.scene7.com//is/image/SmartWool/contestmid250set?$Contest%20Signup%20HOMEPAGE$" alt="" width="288" height="320"></p>                                        </div>
                                         <div class="column-right">
-                                            <h2 style="padding-left: 0;"><span>Sign Up to win a SmartWool Sock Sampler - 10 pairs of socks.</span></h2><br><h2 style="width: 500px; height: 50px; padding-top:0;"><span style="font-size: 14pt;">It's easy... Submit your email address below.</span></h2>
+                                            <h2 style="padding-left: 0;"><span>It’s getting cold out there. Sign up to win a men’s or women’s NTS Mid 250 Baselayer set and stay warm all winter.</span></h2><br><h2 style="width: 500px; padding-top:0;"><span style="font-size: 14pt;">It's easy... Submit your email address below.</span></h2>
 <p style="font-size: 10pt; margin-top: 0; padding-top:0;">By entering our contest, you’ll begin to receive exclusive offers and news on products and events. If you’re already receiving our emails - Great! You’ll also be entered to win. Please come back every month to enter for a new giveaway.</p>                                            <form action="https://www.smartwool.com/newsletter/subscriber/new/" method="post" id="newsletter-validate-detail">
     <div class="form-subscribe">
         <span>Email Address:</span>
@@ -346,7 +392,7 @@ _gaq.push(['_trackPageview']);
     var newsletterSubscriberFormDetail = new VarienForm('newsletter-validate-detail');
 //]]>
 </script>
-                                            <a href="contest_t_c" class="grey-btn terms">Terms &amp; Conditions</a>
+                                            <a href="http://www.smartwool.com/contest_t_c" class="grey-btn terms">Terms &amp; Conditions</a>
                                         </div>
                                     </div>
                                     <!--
@@ -421,16 +467,17 @@ _gaq.push(['_trackPageview']);
                                         <div class="promo-close">Close</div>
                                         <div class="column-left">
                                             <p class="month">THIS MONTH:</p>
-<p>Enough Socks to fill your Drawer</p>
-<p><img src="//smartwool.scene7.com//is/image/SmartWool/contestsocks?$Contest%20Signup%20HOMEPAGE$" alt="" width="288" height="320"></p>                                        </div>
+<p>The Go-To Cold Weather Baselayer</p>
+<p><img src="//smartwool.scene7.com//is/image/SmartWool/contestmid250set?$Contest%20Signup%20HOMEPAGE$" alt="" width="288" height="320"></p>                                        </div>
                                         <div class="column-right">
                                             <h5>Thank you for entering to win.</h5>
-<p style="font-size: 12pt;">The winner will be announced on our Facebook page and directly via email.<br> <span><br>Don't forget to come back next month to enter again for a new giveaway.</span></p>                                        </div>
+<p style="font-size: 12pt;">The winner will be contacted via email.</p>
+<p style="font-size: 12pt;color:#b2bb1e">Don't forget to come back next month to enter again for a new giveaway.</p>                                        </div>
                                     </div>
                                 </div>
                                 <script type="text/javascript">
                                     jQuery(document).ready(function() {
-                                        var headerPromoBtn = jQuery("li.header-promo a");
+                                        var headerPromoBtn = jQuery("li.header-promo a#header-promo-link");
                                         var topItem = jQuery('#navigation li.top-item');
                                         function proceedSlide() {
                                             jQuery(".slides-inner").animate({"left": "-=1024px"}, 500);
@@ -694,71 +741,109 @@ _gaq.push(['_trackPageview']);
 <p><span style="font-family: NeutrafaceText-Book_Alt_lining; font-size: medium;">SmartWool LLC<br></span><span style="font-family: NeutrafaceText-Book_Alt_lining; font-size: medium;">Attention:&nbsp; Consumer Service/Privacy<br></span><span style="font-family: NeutrafaceText-Book_Alt_lining; font-size: medium;">PO Box 774928<br></span><span style="font-family: NeutrafaceText-Book_Alt_lining; font-size: medium;">3495 Airport Circle<br></span><span style="font-family: NeutrafaceText-Book_Alt_lining; font-size: medium;">Steamboat Springs, CO 80487</span></p>
 <p><span style="font-size: medium; font-family: NeutrafaceText-Book_Alt_lining;">888-879-9665</span></p>
 <p><span style="font-family: NeutrafaceText-Book_Alt_lining; font-size: medium;">customerservice@smartwool.com, <a href="mailto:onlineservice@timberland.com">onlineservice@timberland.com</a></span></p>
-<p><span style="font-family: NeutrafaceText-Book_Alt_lining; font-size: medium;">Last modified: June 2011</span></p></div>    
+<p><span style="font-family: NeutrafaceText-Book_Alt_lining; font-size: medium;">Last modified: June 2011</span></p>
+
+<script type="text/javascript">
+
+
+		// Only act if the hash is for "stores"
+		if (window.location.hash == '#stores') {
+ 
+	  // Hide elements
+	  setTimeout(function(){
+	  jQuery('.header-content-top,#navigation,.footer-container,.footer').css('display', 'none');
+	 
+	  // Remove link on logo
+  jQuery('#header .top h1 a').removeAttr('href');
+  });
+ 
+}
+
+</script></div>    
         
                 
         
 </div>
+
+<div class="hidden-nav-blocks" style="display: none;">
+    <div class="nav-block-shop">
+        <a href="http://www.smartwool.com/gifts/35-under-35.html?icid=HP:shopbanner:35u35 "><img src="http://www.smartwool.com/media//Nov_NavBanners_35Under_2.jpg" alt=""></a>    </div>
+
+    <div class="nav-block-discover">
+        <a href="http://www.smartwool.com/gifts/for-her.html?icid=HP:disbanner:giftsher"><img src="http://www.smartwool.com/media//Nov_NavBanners_GiftSets_2.jpg" alt=""></a>    </div>
+
+    <div class="nav-block-find">
+        <a href="http://www.smartwool.com/shipping-rates?icid=HP:findbanner:Holiship"><img src="http://www.smartwool.com/media//Nov_NavBanners_Shipping_1.jpg" alt=""></a>    </div>
+</div>
+
+<script type="text/javascript">
+    
+    document.observe('dom:loaded', function(){
+        $$('.hidden-nav-blocks div[class^="nav-block"]').each(function(navBlock){
+            $$('#wrapper-' + $(navBlock).className.replace('nav-block-','')).first().insert(navBlock.innerHTML);       
+        });
+    });
+
+</script>
+
 <div class="footer-container">
     <div class="footer">
         
         <!-- 'cms/block')->setBlockId('BA_footer_links' -->
-        <div id="mid-footer">        	
-		
-<ul>
-	<li>about us</li>
-	<li><a href="http://www.smartwool.com/about-events">Events</a></li>
-	<li><a href="http://www.smartwool.com/discover/#tight_knit_relationships/our-values">Our Values</a></li>
-	<li><a href="http://www.smartwool.com/discover/#tight_knit_relationships/supply-chain">Supply Chain</a></li>
-	<li><a href="http://www.smartwool.com/discover/#tight_knit_relationships/advocacy">Advocacy</a></li>
-	<li><a href="http://www.smartwool.com/discover/#tight_knit_relationships/our-communities">Our Communities</a></li>
-	<li><a href="http://www.smartwool.com/trademarks">Trademarks</a></li>
-	<li><a href="http://www.smartwool.com/jobs">Jobs</a></li>
-	<li><a href="http://www.smartwool.com/media-inquiries">Media Inquiries</a></li>
-	<li><a href="http://www.smartwool.com/dealer-inquiries">Dealer Inquiries</a></li>
+        <div id="mid-footer">
+		<ul>
+    <li>about us</li>
+    <li><a href="http://www.smartwool.com/about-events">Events</a></li>
+    <li><a href="http://www.smartwool.com/discover/#tight_knit_relationships/our-values">Our Values</a></li>
+    <li><a href="http://www.smartwool.com/discover/#tight_knit_relationships/supply-chain">Supply Chain</a></li>
+    <li><a href="http://www.smartwool.com/discover/#tight_knit_relationships/advocacy">Advocacy</a></li>
+    <li><a href="http://www.smartwool.com/discover/#tight_knit_relationships/our-communities">Our Communities</a></li>
+    <li><a href="http://www.smartwool.com/trademarks">Trademarks</a></li>
+    <li><a href="http://www.smartwool.com/jobs">Jobs</a></li>
+    <li><a href="http://www.smartwool.com/media-inquiries">Media Inquiries</a></li>
+    <li><a href="http://www.smartwool.com/dealer-inquiries">Dealer Inquiries</a></li>
 </ul>
 <ul class="customer-service">
-	<li>CUSTOMER SERVICE</li>
-	<li>Call 888.879.9665</li>
-	<li><a href="http://www.smartwool.com/track-an-order">Track an Order</a></li>
-	<li><a href="http://www.smartwool.com/gift-card-info">Gift Cards</a></li>
-	<li><a href="http://www.smartwool.com/delivery-times">Delivery Time</a></li>
-	<li><a href="http://www.smartwool.com/shipping-rates">Shipping Rates</a></li>
-	<li><a href="http://www.smartwool.com/shipping-guidelines">Shipping Guidelines</a></li>
-	<li><a href="http://www.smartwool.com/return-shipping">Return Shipping</a></li>
-	<li><a href="http://www.smartwool.com/dealerlocator">Global Store Locator</a></li>
-	<li><a href="http://www.smartwool.com/privacy-policy">Privacy Policy</a></li>
+    <li>CUSTOMER SERVICE</li>
+    <li>Call 888.879.9665</li>
+        <li><a href="http://www.smartwool.com/contact-smartwool">Contact Us</a></li>
+        <li><a href="http://www.smartwool.com/dealerlocator">Global Store Locator</a></li>
+    <li><a href="http://www.smartwool.com/track-an-order">Track an Order</a></li>
+    <li><a href="http://www.smartwool.com/gift-card-info">Gift Cards</a></li>
+        <li><a href="http://www.smartwool.com/shipping-rates">Shipping Rates</a></li>
+    <li><a href="http://www.smartwool.com/shipping-guidelines">Shipping Guidelines</a></li>
+    <li><a href="http://www.smartwool.com/return-shipping">Return Shipping</a></li>
+    <li><a href="http://www.smartwool.com/privacy-policy">Privacy Policy</a></li>
         <li><a href="http://www.smartwool.com/terms-of-use">Terms of Use</a></li>
-	<li><a href="http://www.smartwool.com/compliance">Compliance</a></li>
+    <li><a href="http://www.smartwool.com/compliance">Compliance</a></li>
 </ul>
 <div>
 <ul class="faq-answer">
-	<li>FAQ &amp; ANSWER</li>
-	<li><a href="http://www.smartwool.com/smartwool-guarantee">Our Guarantee</a></li>
-	<li><a href="http://www.smartwool.com/sizing">Sizing</a></li>
-	<li><a href="http://www.smartwool.com/care">Care</a></li>
-</ul>
-        <ul class="myAccount">
+    <li>FAQ &amp; ANSWER</li>
+    <li><a href="http://www.smartwool.com/smartwool-guarantee">Our Guarantee</a></li>
+    <li><a href="http://www.smartwool.com/fanfieldtester">Athletes &amp;  Fan Field Testers</a></li>
+    <li><a href="http://www.smartwool.com/sizing">Sizing</a></li>
+    <li><a href="http://www.smartwool.com/care">Care</a></li>
+</ul>        <ul class="myAccount">
         	<li>MY ACCOUNT</li>
         	<li>
-        		        		<a href="https://www.smartwool.com/customer/account/login/">Login</a>
+        		        		<a href="http://www.smartwool.com/customer/account/create/">Login</a>
         		        	</li>
        <li><a href="http://www.smartwool.com/customer/account/create/">Create an Account</a></li>
 
         <li><a href="http://www.smartwool.com/customer/account/index/">My Account</a></li>
         </ul>
     	</div>
-        <ul class="socialLinks">
-        	<li>stay connected</li>
-        	<li class="fbli"><a href="https://www.facebook.com/smartwool" class="fb"></a></li>
-        	<li><a href="https://twitter.com/smartwool" class="tw"></a></li>
-        	<li><a href="http://instagram.com/smartwooligan" class="pt"></a></li>
-        	<li class="ytli"><a href="http://www.youtube.com/user/smartwool" class="yt"></a></li>
-        </ul>
-
+        <ul class="socialLinks group">
+    <li>stay connected</li>
+    <li class="fbli"><a href="https://www.facebook.com/smartwool" class="fb" target="_blank"></a></li>
+    <li><a href="https://twitter.com/smartwool" class="tw" target="_blank"></a></li>
+    <li><a href="http://instagram.com/smartwooligan" class="pt" target="_blank"></a></li>
+    <li class="ytli"><a href="http://www.youtube.com/user/smartwool" class="yt" target="_blank"></a></li>
+</ul>
         <div class="bottom-tier">
-				<address class="copyright">SmartWool © 2013. All Rights Reserved.</address>
-		</div>
+                        <address class="copyright">SmartWool © 2013. All Rights Reserved.</address>
+            		</div>
         </div>
     </div>
 </div>
@@ -851,9 +936,6 @@ height="1" width="1" border="0" alt="" /></noscript><!--/DO NOT REMOVE/-->
         var dataForm = new VarienForm('login-pop-form', true);
     //]]>
     </script>
-</div>    <div id="foot-thread">
-      
-    </div>
+</div><script type="text/javascript">if(!NREUMQ.f){NREUMQ.f=function(){NREUMQ.push(["load",new Date().getTime()]);var e=document.createElement("script");e.type="text/javascript";e.src=(("http:"===document.location.protocol)?"http:":"https:")+"//"+"js-agent.newrelic.com/nr-100.js";document.body.appendChild(e);if(NREUMQ.a)NREUMQ.a();};NREUMQ.a=window.onload;window.onload=NREUMQ.f;};NREUMQ.push(["nrfj","beacon-5.newrelic.com","75deec574e","818874","M1NVNxRTXkUHBkZbDgoZdgASW19YSQZfQU4UV1AGSURZUxE=",0,316,new Date().getTime(),"","","","",""]);</script>
 
-
-</body></html>
+<script type="text/javascript" src="https://js-agent.newrelic.com/nr-100.js"></script></body></html>
