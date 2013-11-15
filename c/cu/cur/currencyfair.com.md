@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the currencyfair.com privacy policy that was archived on 2013-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130626232135id_/http%3A//currencyfair.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the currencyfair.com privacy policy that was archived on 2013-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131115100626id_/http%3A//currencyfair.com/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement | CurrencyFair
 
@@ -21,19 +21,19 @@ Any changes to this Privacy Policy will be posted on the website. Your continued
 
 ## CurrencyFair Benefits
 
-18 Nov 2012
+30 Oct 2013
 
-CurrencyFair named Best of Show at FinovateAsia!
+Currencyfair Continues Company Growth With $2.5...
 
-03 Apr 2013
+03 Nov 2013
 
-CurrencyFair rated #1 for transfers by Choice...
+The Irish Independent Highlights Rapid Growth of...
 
-[](https://web.archive.org/node/1163)
+[](https://web.archive.org/what-is-sepa-and-how-does-it-affect-currency-transfer)
 
-Studying abroad can be a life-changing experience. It can also be a wallet-emptying one, piling more debt on top of the average student loan. But there are ways to avoid overspending day-to-day, without living on the fabled student diet of ramen and tins... 
+At CurrencyFair we’ve been getting a few questions about the SEPA changes that will be coming through soon so we thought we’d give you a quick outline of the changes and what they mean for people sending money to and from the Euro zone.  We’re going to... 
 
   * [CurrencyFair Blog](https://web.archive.org/currency-transfer-blog)
-  * 14 Jun 2013
+  * 11 Nov 2013
 
 
