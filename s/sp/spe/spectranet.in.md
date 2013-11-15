@@ -1,8 +1,9 @@
-> *The following text is extracted and transformed from the spectranet.in privacy policy that was archived on 2012-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120603053249id_/http%3A//www.spectranet.in/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spectranet.in privacy policy that was archived on 2013-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131115214652id_/http%3A//www.spectranet.in/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
-**Privacy Policy**
+**  
+**
 
 This website www.spectranet.in (hereinafter referred to as "Website") is developed, owned, hosted, maintained and operated by Spectra ISP Networks Pvt. Ltd., the company registered under the Indian Companies Act, 1956 having their registered offices at A-60 Naraina Industiral Area Phase -I, New Delhi – 110 028 (hereinafter referred to as “Spectranet”) are the provider of Internet Services, Internet data Centre, and other value added services. In order to demonstrate its commitment to the privacy of users of this website, Spectranet would like to present this site policy.  
 Any references in this privacy statement to: 
@@ -74,3 +75,6 @@ If Spectranet decides to change this privacy policy, it will post those changes 
 **How to contact Spectranet  **
 
 If you have any questions about this Policy, please contact us at [spectracare@spectranet.com.](mailto:spectracare@spectranet.com.)
+
+| [ Home](http://spectranet.in/)  
+---
