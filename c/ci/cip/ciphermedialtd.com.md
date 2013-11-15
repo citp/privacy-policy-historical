@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ciphermedialtd.com privacy policy that was archived on 2013-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130420054648id_/http%3A//ciphermedialtd.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ciphermedialtd.com privacy policy that was archived on 2013-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131115011955id_/http%3A//ciphermedialtd.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - CipherMedia
+# Privacy Policy • Ciphermedia
 
 When accessing our Website, Ciphermedia will learn certain information about you during your visit. How we will handle information we learn about you depends upon what you do when visiting our site.
 
