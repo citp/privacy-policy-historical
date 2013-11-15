@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the protrada.com privacy policy that was archived on 2013-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130510215702id_/http%3A//www.protrada.com/general/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the protrada.com privacy policy that was archived on 2013-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131115073609id_/http%3A//www.protrada.com/general/privacy) for the most accurate reproduction.*
 
 # Protrada – The Domain Exchange
 
