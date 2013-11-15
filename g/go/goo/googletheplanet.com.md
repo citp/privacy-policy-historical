@@ -1,27 +1,15 @@
-> *The following text is extracted and transformed from the googletheplanet.com privacy policy that was archived on 2010-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101212044151id_/http%3A//www.googletheplanet.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the googletheplanet.com privacy policy that was archived on 2013-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131115233110id_/http%3A//www.googletheplanet.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy | Go Ogle The Planet With Safari - Rugged Lenses, Filters And Digital SLR Cameras!
+# Privacy Policy - googletheplanet.com
 
-Go Ogle The Planet takes your privacy seriously. This privacy policy describes what personal information we collect and how we use it. See this privacy policy primer to learn more about privacy policies in general.
+GoogleThePlanet has been developed to provide a variety of tools that can be used by you at your convenience. We feature a variety of tools to make the SEO process easy and the tools are readily available for use any time of the day. Your presence here means a lot to us and we are happy to help you in any way we can. Below is a basic guideline on our privacy policy. We take your privacy seriously. You can read ahead for detailed information on our policy on personal information and use of cookies.
 
-**Routine Information Collection**
+**Policy On Personal Information**
 
-All web servers track basic information about their visitors. This information includes, but is not limited to, IP addresses, browser details, timestamps and referring pages. None of this information can personally identify specific visitors to this site. The information is tracked for routine administration and maintenance purposes.
+We at googleThePlanet.com have a strict policy on maintenance or usage of user’s personal information. You can use our services with a confidence that whatever data you enter here will be maintained in strict confidence. The queries that are performed on our tools are not saved and they are simply executed online. Any personal information including your contact details like email you share with us remains with us. We do not use your personal information for any purpose without your express consent. If you have agreed to be contacted by us to provide you with further information on our services, we might contact you. Even though we wish you will let us inform you of new services or improvements that we have done, we respect your privacy and your wishes. Some information might be collected automatically like the number of visitors to the website or the page most visitors use. These are generic information recorded anonymously and no personal information will be recorded on our files unless you wish to be heard.
 
-**Cookies and Web Beacons**
+**Policy On Cookies**
 
-Where necessary, Go Ogle The Planet uses cookies to store information about a visitor’s preferences and history in order to better serve the visitor and/or present the visitor with customized content.
+Cookies are like forget-me-nots. They help us remember that you had already visited our site. Cookies help to personalize the web content and to provide you with an optimized browsing experience. Most web browsers have cookies and cookies are enabled most of the times. Cookies do not store personal information. The data in cookies will only help to improve the experience and in no way will give away private and secure information. Cookies are created when you open our website for the first time and they are kept updated according to the actions you perform on our website. For instance, if you type out details about a product, the next time you can save the effort of typing if cookies are enabled. In case the cookies are not enabled in your web browser, you can enable them by opening the Content settings window under the privacy tab on your browser in chrome or by opening the options tab in other popular browsers.
 
-Advertising partners and other third parties may also use cookies, scripts and/or web beacons to track visitors to our site in order to display advertisements and other useful information. Such tracking is done directly by the third parties through their own servers and is subject to their own privacy policies.
-
-**Controlling Your Privacy.**
-
-Note that you can change your browser settings to disable cookies if you have privacy concerns. Disabling cookies for all sites is not recommended as it may interfere with your use of some sites. The best option is to disable or enable cookies on a per-site basis. Consult your browser documentation for instructions on how to block cookies and other tracking mechanisms. This list of web browser privacy management links may also be useful.
-
-**Special Note About Google Advertising**
-
-Any advertisements served by Google, Inc., and affiliated companies may be controlled using cookies. These cookies allow Google to display ads based on your visits to this site and other sites that use Google advertising services. Learn how to [opt out](http://www.google.com/privacy_ads.html) of Google’s cookie usage. As mentioned above, any tracking done by Google through cookies and other mechanisms is subject to Google’s own privacy policies.
-
-**Contact Information**
-
-Concerns or questions about this privacy policy can be directed to us via our [contact page](http://www.googletheplanet.com/contact-us/) for further clarification.
+If you have any doubts or require clarifications, feel free to contact us. We are here to help you and you can reach us either through emails or you can visit our office directly. You can find our details in the Contact Us page. The details you give to us when contacting us will also be not used by our site for any other purposes except to clear your doubts or to serve you better.
