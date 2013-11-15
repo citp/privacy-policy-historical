@@ -1,295 +1,349 @@
-<!--The following is the downloaded HTML source of the wallbase.net privacy policy that was archived on 2013-06-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130606125417id_/http%3A//wallbase.cc/privacypolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the wallbase.net privacy policy that was archived on 2013-11-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131115031324id_/http%3A//wallbase.cc/site/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en"><head>
-<base href="http://wallbase.cc/">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<title>Privacy Policy / Wallbase.cc</title>
-<link href="system/application/frontend/views/_style.css?10072012" rel="stylesheet" type="text/css">
-<link rel="stylesheet" media="screen and (max-width: 1150px)" href="system/application/frontend/views/_style_lowres.css?10072012">
-<link href="system/application/frontend/views/_style_effects.css?10072012" rel="stylesheet" type="text/css"><!--[if IE 7]><link rel="stylesheet" href="system/application/frontend/views/_style_ie.css" type="text/css" media="screen,projection" /><![endif]-->
+<!DOCTYPE html><html lang="en"><head>
+    <base href="http://wallbase.cc/">
+	<meta charset="utf-8">
+	<title>Privacy policy / Wallbase.cc</title>
 
-<meta name="robots" content="Noindex, Follow">
-<meta http-equiv="Content-Language" content="en">
-
-<link rel="shortcut icon" href="fav.gif">
-
+	<!-- styles -->
+	<link href="http://static.wallbase.cc/front/6/css/application.css" media="screen, projection" rel="stylesheet" type="text/css">
+	<!--[if IE]>
+	<link href="http://static.wallbase.cc/front/6/css/ie.css" media="screen, projection" rel="stylesheet" type="text/css">
+	<![endif]-->
+	<!-- / styles -->
 </head>
-
 <body>
 
-<div id="userbar" style="border:none">
-
-	<div class="l left">
-    
-    	    	<!--left-->
-    	        
-    </div>
-    
-    <div class="r right">
-    
-    	<span class="gui sil-left"></span>&nbsp;
-    	<span class="wlcm">Hey Anonymous!</span>
-        
-        <a href="javascript:void(0);" class="login">Login</a><a href="javascript:void(0);" class="register">Register</a>
-    
-    </div>
-
+<div class="favs-overlay hidden">
+    <div class="loader"><img src="http://static.wallbase.cc/front/6/images/loader-circle.gif" class="file"><br>Loading favorites...</div>
 </div>
-<div id="delwrap" style="width:100%">
 
-	<form action="http://wallbase.cc/search" method="post" class="sort_form">
-	 <div id="subtop">
-    
-    	<div class="logomenu">
+<div class="modal"><div class="bg"><div class="window"></div></div></div>
+
+<div id="userbar" class="userbar-subpage">
+	<div class="left">
+
+	</div>
+
+	<div class="right">
+		<span class="wlcm">Hey Anonymous</span>
+		<a href="http://wallbase.cc/user/login" class="link-text">Login</a>
+		<a href="http://wallbase.cc/user/register" class="link-text">Register</a>
+	</div>
+</div>
+<form action="http://wallbase.cc/search" method="post" class="sort_form">
+    <div id="subtop">
+        <div class="logomenu">
         
-        	<div class="logo"><a href="http://wallbase.cc/home"><img src="system/application/frontend/views/_images/logo_sub.png" style="border:none;"></a></div>
+            <div class="logo"><a href="http://wallbase.cc/home"><img src="http://static.wallbase.cc/front/6/images/logo_sub.png" style="border:none;"></a></div>
             
             <ul class="menu">
-            	<li class="item"><a href="javascript:;" class="item-a showsearch"><span class="gui ico-search"></span></a></li>
+                <li class="item"><a href="javascript:;" class="item-a showsearch"><span class="gui ico-search"></span></a></li>
                 <li class="searchbar hidden">
-                	<input type="text" id="query" name="query">
+                    <div class="inp-wrap keyw">
+                       <input type="text" id="query" name="query" class="query">
+                    </div>
+                     <div class="inp-wrap color clr">
+                       color: <input type="text" name="color" class="colortab" data-type="color" readonly="" placeholder="∞">
+                    </div>
                 </li>
-            	<li class="item"><a href="http://wallbase.cc/random" class="item-a"><span class="gui ico-random"></span></a></li>
+                <li class="item"><a href="http://wallbase.cc/random" class="item-a"><span class="gui ico-random"></span></a></li>
                 <li class="item"><a href="http://wallbase.cc/toplist" class="item-a"><span class="gui ico-top"></span></a></li>
                 <li class="item"><a href="http://wallbase.cc/forum" class="item-a"><span class="gui ico-comments"></span></a></li>
-                <li class="item"><a href="http://wallbase.cc/about" class="item-a"><span class="gui ico-about"></span></a></li>
+                <li class="item"><a href="http://wallbase.cc/site/about" class="item-a"><span class="gui ico-about"></span></a></li>
                 <li style="clear:both;"></li>
             </ul>
         
         </div>
-    
     </div>
-    
-    <div id="filters" style="z-index:-1;position:absolute;top:-44px">
-    
-    	<ul class="form fmulticheck left" fname="board">
-            <input type="hidden" id="filter_board" name="board" value="12">
-            <li class="item first selected"><a href="javascript:;" class="item-a" title="Wallpapers / General" fname="board" fvalue="2">WG</a></li>
-            <li class="item selected "><a href="javascript:;" class="item-a" title="Anime / Manga" fname="board" fvalue="1">W</a></li>
-            <li class="item last "><a href="javascript:;" class="item-a" title="High Resolution Images" fname="board" fvalue="3">HR</a></li>
-            <li style="clear:both;*display:inline;"></li>
-        </ul>
-        
-        <ul class="form fmulticheck purity left" fname="nsfw">
-            <input type="hidden" id="filter_nsfw" name="nsfw" value="100">
-            <li class="item first selected"><a href="javascript:;" fname="nsfw" fvalue="1" class="item-a" title="Clean wallpaper">SFW</a></li>
-            <li class="item"><a href="javascript:;" fname="nsfw" fvalue="2" class="item-a" title="Wallpaper with soft/erotic poses, blood etc.">SKETCHY</a></li>
-                        <li class="item last p-nsfw"><a href="javascript:;" class="item-a-blank">&nbsp;</a></li>
-                        <li style="clear:both;*display:inline;"></li>
-        </ul>
-        
-        <ul class="form fresolution left" fheader="1" fname="res">
-            <input type="hidden" id="filter_res" name="res" value="0">
-            <input type="hidden" id="filter_res_opt" name="res_opt" value="eqeq">
-            <li class="type">
-                                <div class="type-a" fvalue="eqeq">Exactly</div>
-                                <div class="type-a" fvalue="gteq">At least</div>
-                            </li>
-            <li class="res" fheader="1"><a href="javascript:;" fheader="1" class="res-a fselect-header">All</a> <img src="system/application/frontend/views/_images/forms/arrow-down.gif" fheader="1" class="arrow"></li>
-            <li style="clear:both;*display:inline;"></li>
-            <div class="options hidden">
-                
-                <a href="javascript:void(0);" class="option  selected" fname="res" fvalue="0">All</a>
-                <ul class="l reslist">
-                    <li class="header">Standard</li>
-                                        <li class="item"><a href="javascript:void(0);" class="option" fname="res" fvalue="800x600">800x600</a></li>
-                                        <li class="item"><a href="javascript:void(0);" class="option" fname="res" fvalue="1024x768">1024x768</a></li>
-                                        <li class="item"><a href="javascript:void(0);" class="option" fname="res" fvalue="1280x960">1280x960</a></li>
-                                        <li class="item"><a href="javascript:void(0);" class="option" fname="res" fvalue="1280x1024">1280x1024</a></li>
-                                        <li class="item"><a href="javascript:void(0);" class="option" fname="res" fvalue="1400x1050">1400x1050</a></li>
-                                        <li class="item"><a href="javascript:void(0);" class="option" fname="res" fvalue="1600x1200">1600x1200</a></li>
-                                        <li class="item"><a href="javascript:void(0);" class="option" fname="res" fvalue="2560x2048">2560x2048</a></li>
-                                    </ul>
-                <ul class="r reslist">
-                    <li class="header">Widescreen</li>
-                                        <li class="item"><a href="javascript:;" class="option" fname="res" fvalue="1024x600">1024x600</a></li>
-                                        <li class="item"><a href="javascript:;" class="option" fname="res" fvalue="1280x800">1280x800</a></li>
-                                        <li class="item"><a href="javascript:;" class="option" fname="res" fvalue="1366x768">1366x768</a></li>
-                                        <li class="item"><a href="javascript:;" class="option" fname="res" fvalue="1440x900">1440x900</a></li>
-                                        <li class="item"><a href="javascript:;" class="option" fname="res" fvalue="1600x900">1600x900</a></li>
-                                        <li class="item"><a href="javascript:;" class="option" fname="res" fvalue="1680x1050">1680x1050</a></li>
-                                        <li class="item"><a href="javascript:;" class="option" fname="res" fvalue="1920x1080">1920x1080</a></li>
-                                        <li class="item"><a href="javascript:;" class="option" fname="res" fvalue="1920x1200">1920x1200</a></li>
-                                        <li class="item"><a href="javascript:;" class="option" fname="res" fvalue="2560x1440">2560x1440</a></li>
-                                        <li class="item"><a href="javascript:;" class="option" fname="res" fvalue="2560x1600">2560x1600</a></li>
-                                    </ul>
-                
-                <br class="clr">
-                
-                <div class="custom">
-                
-                    <div class="custom-cont">
-                        <h3 class="title">Custom resolution</h3>
-                        <div class="custom-row">
-                            <input type="text" class="custom-input input-w" placeholder="width"><input type="text" class="custom-input input-h" placeholder="height"><a href="javascript:;" class="fbutton">APPLY</a>
-                        </div>
-                    </div>
-                
-                </div>
-                
-            </div>
-        </ul>
-        
-        <ul class="form fselect-multi left" style="width:145px;" fname="aspect" fheader="1">
-            <input type="hidden" id="filter_aspect" name="aspect" value="0">
-            <li class="item" fheader="1"><a href="javascript:;" class="item-a fselect-header" fheader="1">All</a> <img src="system/application/frontend/views/_images/forms/arrow-down.gif" fheader="1" class="arrow"></li>
-            <li style="clear:both;*display:inline;"></li>
-            <div class="options hidden" style="width:130%">
-                <ul class="list">
-                                        <li class="item"><a href="javascript:void(0);" class="item-a selected" fname="aspect" fvalue="0"><span tick="0" class="gui ico-check"><span class="gui ico-tick"></span></span>All</a></li>
-                                        <li class="item"><a href="javascript:void(0);" class="item-a" fname="aspect" fvalue="1.33"><span tick="1.33" class="gui ico-check"></span>4:3</a></li>
-                                        <li class="item"><a href="javascript:void(0);" class="item-a" fname="aspect" fvalue="1.25"><span tick="1.25" class="gui ico-check"></span>5:4</a></li>
-                                        <li class="item"><a href="javascript:void(0);" class="item-a" fname="aspect" fvalue="1.77"><span tick="1.77" class="gui ico-check"></span>16:9</a></li>
-                                        <li class="item"><a href="javascript:void(0);" class="item-a" fname="aspect" fvalue="1.60"><span tick="1.60" class="gui ico-check"></span>16:10</a></li>
-                                        <li class="item"><a href="javascript:void(0);" class="item-a" fname="aspect" fvalue="1.70"><span tick="1.70" class="gui ico-check"></span>Netbook</a></li>
-                                        <li class="item"><a href="javascript:void(0);" class="item-a" fname="aspect" fvalue="2.50"><span tick="2.50" class="gui ico-check"></span>Dual</a></li>
-                                        <li class="item"><a href="javascript:void(0);" class="item-a" fname="aspect" fvalue="3.20"><span tick="3.20" class="gui ico-check"></span>Dual wide</a></li>
-                                        <li class="item"><a href="javascript:void(0);" class="item-a" fname="aspect" fvalue="0.99"><span tick="0.99" class="gui ico-check"></span>Portrait</a></li>
-                                    </ul>
-                
-                <div class="custom">
-                
-                    <div class="custom-cont">
-                        <h3 class="title">Custom aspect ratio</h3>
-                        <div class="custom-row">
-                            <input type="text" maxlength="4" class="custom-input input-w" placeholder="width"><input type="text" maxlength="4" class="custom-input input-h" placeholder="height"><a href="javascript:;" class="fbutton">APPLY</a>
-                        </div>
-                    </div>
-                
-                </div>
-            </div>
-        </ul>
-        
-        <ul class="form forder left" fheader="1" fname="orderby">
-            <input type="hidden" id="filter_orderby" name="orderby" value="relevance">
-            <input type="hidden" id="filter_orderby_opt" name="orderby_opt" value="desc">
-            <li class="type">
-                <div class="type-a" fvalue="desc">descending</div>
-                <div class="type-a" fvalue="asc">ascending</div>
+
+    <div id="filters" style="position:absolute;top:-44px;z-index:-1;">
+
+        <ul class="fmulticheck fcats" title="Board / Category">
+            <li class="item" title="Category: Wallpapers / General">
+                <input type="checkbox" checked="checked" name="board_wg" id="filter_wg" class="check">
+                <label for="filter_wg" class="label first">WG</label>
             </li>
-            <li class="ord" fheader="1"><a href="javascript:;" class="ord-a fselect-header" fheader="1">Relevancy</a> <img src="system/application/frontend/views/_images/forms/arrow-down.gif" class="arrow" fheader="1"></li>
+            <li class="item" title="Category: Manga / Anime">
+                <input type="checkbox" checked="checked" name="board_w" id="filter_w" class="check">
+                <label for="filter_w" class="label">W</label>
+            </li>
+            <li class="item" title="Category: High Resolution (non-wallpaper sized images)">
+                <input type="checkbox" name="board_hr" id="filter_hr" class="check">
+                <label for="filter_hr" class="label last">HR</label>
+            </li>
+            <li class="clear"></li>
+        </ul>
+
+        <ul class="fmulticheck fpurity" title="Purity">
+            <li class="item" title="Purity filter: SFW (suitable for work, safe)">
+                <input type="checkbox" checked="checked" name="purity_sfw" id="filter_sfw" class="check sfw">
+                <label for="filter_sfw" class="label first">SFW</label>
+            </li>
+            <li class="item" title="Purity filter: SKETCHY">
+                <input type="checkbox" name="purity_sketchy" id="filter_sketchy" class="check sketchy">
+                <label for="filter_sketchy" class="label last">SKETCHY</label>
+            </li>
+                        <li class="clear"></li>
+        </ul>
+
+        <ul class="form fselect fresolution eS fheader" title="Resolution">
+            <input type="hidden" id="filter_res_opt" name="res_opt" value="eqeq">
+            <li class="type eS" title="Click to change">
+                                <div class="type-a eS" fvalue="eqeq">Exactly</div>
+                <div class="type-a eS" fvalue="gteq">At least</div>
+                            </li>
+            <li class="res eS fheader" title="Resolution selection"><a href="javascript:;" class="res-a fheader fselect-header eS">All</a> <span class="arrow fheader eS"></span></li>
             <li style="clear:both;*display:inline;"></li>
-            <div class="options hidden">
-                <ul class="list">
-                    <li class="item"><a href="javascript:void(0);" class="item-a selected" fname="orderby" fvalue="relevance">Relevancy</a></li>
-                    <li class="item"><a href="javascript:void(0);" class="item-a" fname="orderby" fvalue="date">Date</a></li>
-                    <li class="item"><a href="javascript:void(0);" class="item-a" fname="orderby" fvalue="views">Views</a></li>
-                    <li class="item"><a href="javascript:void(0);" class="item-a" fname="orderby" fvalue="favs">Favorites</a></li>
+            <div class="options hidden eS">
+                
+                <input type="radio" id="filter_res_0x0" name="res" value="0x0" checked="checked" class="radio eS">
+                <label for="filter_res_0x0" class="label eS">All</label>
+                <ul class="l reslist eS">
+                    <li class="header eS">standard</li>
+                    <li class="eS">
+                                        <input type="radio" id="filter_res_800x600" name="res" value="800x600" class="radio eS">
+                    <label for="filter_res_800x600" class="label eS">800x600</label>
+                                        <input type="radio" id="filter_res_1024x768" name="res" value="1024x768" class="radio eS">
+                    <label for="filter_res_1024x768" class="label eS">1024x768</label>
+                                        <input type="radio" id="filter_res_1280x960" name="res" value="1280x960" class="radio eS">
+                    <label for="filter_res_1280x960" class="label eS">1280x960</label>
+                                        <input type="radio" id="filter_res_1280x1024" name="res" value="1280x1024" class="radio eS">
+                    <label for="filter_res_1280x1024" class="label eS">1280x1024</label>
+                                        <input type="radio" id="filter_res_1400x1050" name="res" value="1400x1050" class="radio eS">
+                    <label for="filter_res_1400x1050" class="label eS">1400x1050</label>
+                                        <input type="radio" id="filter_res_1600x1200" name="res" value="1600x1200" class="radio eS">
+                    <label for="filter_res_1600x1200" class="label eS">1600x1200</label>
+                                        <input type="radio" id="filter_res_2560x2048" name="res" value="2560x2048" class="radio eS">
+                    <label for="filter_res_2560x2048" class="label eS">2560x2048</label>
+                                        </li>
                 </ul>
+                <ul class="r reslist eS">
+                    <li class="header eS">widescreen</li>
+                    <li class="eS">
+                                        <input type="radio" id="filter_res_1024x600" name="res" value="1024x600" class="radio eS">
+                    <label for="filter_res_1024x600" class="label eS">1024x600</label>
+                                        <input type="radio" id="filter_res_1280x800" name="res" value="1280x800" class="radio eS">
+                    <label for="filter_res_1280x800" class="label eS">1280x800</label>
+                                        <input type="radio" id="filter_res_1366x768" name="res" value="1366x768" class="radio eS">
+                    <label for="filter_res_1366x768" class="label eS">1366x768</label>
+                                        <input type="radio" id="filter_res_1440x900" name="res" value="1440x900" class="radio eS">
+                    <label for="filter_res_1440x900" class="label eS">1440x900</label>
+                                        <input type="radio" id="filter_res_1600x900" name="res" value="1600x900" class="radio eS">
+                    <label for="filter_res_1600x900" class="label eS">1600x900</label>
+                                        <input type="radio" id="filter_res_1680x1050" name="res" value="1680x1050" class="radio eS">
+                    <label for="filter_res_1680x1050" class="label eS">1680x1050</label>
+                                        <input type="radio" id="filter_res_1920x1080" name="res" value="1920x1080" class="radio eS">
+                    <label for="filter_res_1920x1080" class="label eS">1920x1080</label>
+                                        <input type="radio" id="filter_res_1920x1200" name="res" value="1920x1200" class="radio eS">
+                    <label for="filter_res_1920x1200" class="label eS">1920x1200</label>
+                                        <input type="radio" id="filter_res_2560x1440" name="res" value="2560x1440" class="radio eS">
+                    <label for="filter_res_2560x1440" class="label eS">2560x1440</label>
+                                        <input type="radio" id="filter_res_2560x1600" name="res" value="2560x1600" class="radio eS">
+                    <label for="filter_res_2560x1600" class="label eS">2560x1600</label>
+                                        </li>
+                </ul>
+
+                <br class="clear">
+                
+                <div class="custom eS" type="res">
+                
+                    <div class="custom-cont eS">
+                        <h3 class="title eS">Custom resolution</h3>
+                        <div class="custom-row eS">
+                            <input type="text" class="custom-input input-w eS" placeholder="width"><input type="text" class="custom-input input-h eS" placeholder="height"><a href="javascript:;" class="fbutton eS">Apply</a>
+                        </div>
+                    </div>
+                
+                </div>
+                
             </div>
         </ul>
-        
-        <ul class="form fselect left" fname="thpp" fheader="1" style="width:60px;">
-            <input type="hidden" id="filter_thpp" name="thpp" value="32">
-            <li class="item" fheader="1"><a href="javascript:;" class="item-a fselect-header" fheader="1">32</a> <img src="system/application/frontend/views/_images/forms/arrow-down.gif" class="arrow" fheader="1"></li>
+
+        <ul class="form fselect fheader eS" style="width:165px;" title="Aspect ratio">
+            <li class="item fheader eS"><a href="javascript:;" class="item-a fheader fselect-header eS">All</a> <span class="arrow fheader eS"></span></li>
             <li style="clear:both;*display:inline;"></li>
-            <div class="options hidden">
-                <ul class="list">
-                                        <li class="item"><a href="javascript:void(0);" class="item-a" fname="thpp" fvalue="20">20</a></li>
-                                        <li class="item"><a href="javascript:void(0);" class="item-a selected" fname="thpp" fvalue="32">32</a></li>
-                                        <li class="item"><a href="javascript:void(0);" class="item-a" fname="thpp" fvalue="40">40</a></li>
-                                        <li class="item"><a href="javascript:void(0);" class="item-a" fname="thpp" fvalue="60">60</a></li>
-                                    </ul>
+            <div class="options hidden eS">
+                <input type="checkbox" id="filter_asp_0_00" name="aspect[0_00]" checked="checked" class="check checkall eS">
+                <label for="filter_asp_0_00" class="label setall eS" title="All"><span class="tick eS"></span> All</label>
+                                                <input type="checkbox" id="filter_asp_1_33" name="aspect[1_33]" class="check eS">
+                <label for="filter_asp_1_33" class="label eS" title="1280x960, 1600x1200..."><span class="tick eS"></span> 4:3</label>
+                                                <input type="checkbox" id="filter_asp_1_25" name="aspect[1_25]" class="check eS">
+                <label for="filter_asp_1_25" class="label eS" title="1280x1024, 2560x2048..."><span class="tick eS"></span> 5:4</label>
+                                                <input type="checkbox" id="filter_asp_1_77" name="aspect[1_77]" class="check eS">
+                <label for="filter_asp_1_77" class="label eS" title="1280x720, 1920x1080..."><span class="tick eS"></span> 16:9</label>
+                                                <input type="checkbox" id="filter_asp_1_60" name="aspect[1_60]" class="check eS">
+                <label for="filter_asp_1_60" class="label eS" title="1280x800, 1920x1200..."><span class="tick eS"></span> 16:10</label>
+                                                <input type="checkbox" id="filter_asp_1_70" name="aspect[1_70]" class="check eS">
+                <label for="filter_asp_1_70" class="label eS" title="1024x600, 1280x768..."><span class="tick eS"></span> Netbook</label>
+                                                <input type="checkbox" id="filter_asp_2_50" name="aspect[2_50]" class="check eS">
+                <label for="filter_asp_2_50" class="label eS" title="2560x1024..."><span class="tick eS"></span> Dual</label>
+                                                <input type="checkbox" id="filter_asp_3_20" name="aspect[3_20]" class="check eS">
+                <label for="filter_asp_3_20" class="label eS" title="3360x1050, 3840x1200..."><span class="tick eS"></span> Dual wide</label>
+                                                <input type="checkbox" id="filter_asp_1_01" name="aspect[1_01]" class="check eS">
+                <label for="filter_asp_1_01" class="label eS" title=""><span class="tick eS"></span> Widescreen</label>
+                                                <input type="checkbox" id="filter_asp_0_99" name="aspect[0_99]" class="check eS">
+                <label for="filter_asp_0_99" class="label eS" title=""><span class="tick eS"></span> Portrait</label>
+                                
+                <div class="custom eS" type="ratio">
+                
+                    <div class="custom-cont eS">
+                        <h3 class="title eS">Custom ratio</h3>
+                        <div class="custom-row eS">
+                            <input type="text" maxlength="4" class="custom-input input-w eS" placeholder="w"><input type="text" maxlength="4" class="custom-input input-h eS" placeholder="h"><a href="javascript:;" class="fbutton eS">Apply</a>
+                        </div>
+                    </div>
+                
+                </div>
             </div>
         </ul>
 
-	</div>
-    
-    <ul id="filters_caps" class="hidden">
-    	<li class="item fc-cats">Categories</li>
-        <li class="item fc-nsfw">purity</li>
-        <li class="item fc-res">resolution</li>
-        <li class="item fc-ratio">aspect ratio</li>
-        <li class="item fc-order">order</li>
-        <li class="item fc-thpp">thumbs</li>
-    </ul>
-    </form>
+        <ul class="form fselect forder fheader eS" title="Order by">
+            <input type="hidden" id="filter_order_opt" name="order_mode" value="desc">
+            <li class="type eS">
+                <div class="type-a eS" fvalue="desc">descending</div>
+                <div class="type-a eS" fvalue="asc">ascending</div>
+            </li>
+            <li class="ord fheader eS"><a href="javascript:;" class="ord-a fheader fselect-header eS">Relevance</a> <span class="arrow fheader eS"></span></li>
+            <li style="clear:both;*display:inline;"></li>
+            <div class="options hidden eS">
+                <input type="radio" id="filter_ord_rel" name="ord" checked="checked" value="relevance" class="radio eS">
+                <label for="filter_ord_rel" class="label eS last">Relevance</label>
 
-	<br style="clear:both">
+                <input type="radio" id="filter_ord_date" name="ord" value="date" class="radio eS">
+                <label for="filter_ord_date" class="label eS last">Date added</label>
 
-	<div id="text" class="grey">
-    
-        <h1 class="yellow">Wallbase.cc Privacy Policy</h1>
-        <hr>
-    
-      <p>This privacy policy sets out how Wallbase.cc uses and  protects any information that you give Wallbase.cc when you use this website.<br><br>
-          Wallbase.cc is committed to ensuring that your privacy is  protected. Should we ask you to provide certain information by which you can be  identified when using this website, then you can be assured that it will only  be used in accordance with this privacy statement.<br><br>
-          Wallbase.cc may change this policy from time to time by  updating this page. You should check this page from time to time to ensure that  you are happy with any changes. This policy is effective from August 16th  2011.<br>
-      </p><hr>
-  <strong style="color:#fff">What we collect</strong> <br>
-          We may collect the following  information:<p></p>
-        <ul style="list-style:disc;padding-left:50px">
-          <li>contact  information including email address</li>
-          <li>demographic  information such as country code</li>
+                <input type="radio" id="filter_ord_views" name="ord" value="views" class="radio eS">
+                <label for="filter_ord_views" class="label eS last">Views</label>
+
+                <input type="radio" id="filter_ord_favs" name="ord" value="favs" class="radio eS">
+                <label for="filter_ord_favs" class="label eS last">Favorites</label>
+
+                <input type="radio" id="filter_ord_rand" name="ord" value="random" class="radio eS">
+                <label for="filter_ord_rand" class="label eS last">Random</label>
+            </div>
         </ul>
-        <hr>
-        <p><strong style="color:#fff">What we do with the  information we gather</strong><br>
-          We require this information to  understand your needs and provide you with a better service, and in particular  for the following reasons:</p>
-      <ul style="list-style:disc;padding-left:50px">
-          <li>Internal  record keeping. </li>
-          <li>We  may use the information to improve our products and services. </li>
-        </ul>
-        <hr>
-        <p><strong style="color:#fff">Security</strong> <br>
-          We are committed to ensuring that  your information is secure. In order to prevent unauthorised access or  disclosure,<strong> </strong>we  have put in place suitable physical, electronic and managerial procedures to  safeguard and secure the information we collect online. <br>
-      </p><hr>
-  <strong style="color:#fff">How we use cookies</strong> <br>
-          A cookie is a small file which  asks permission to be placed on your computer's hard drive. Once you agree, the  file is added and the cookie helps analyse web traffic or lets you know when  you visit a particular site. Cookies allow web applications to respond to you  as an individual. The web application can tailor its operations to your needs,  likes and dislikes by gathering and remembering information about your preferences. <br><br>
-          We use traffic log cookies to  identify which pages are being used. This helps us analyse data about web page  traffic and improve our website in order to tailor it to customer needs. We  only use this information for statistical analysis purposes and then the data  is removed from the system. <br>
-          Overall, cookies help us provide  you with a better website, by enabling us to monitor which pages you find  useful and which you do not. A cookie in no way gives us access to your  computer or any information about you, other than the data you choose to share  with us. <br><br>
-          You can choose to accept or  decline cookies. Most web browsers automatically accept cookies, but you can  usually modify your browser setting to decline cookies if you prefer. This may  prevent you from taking full advantage of the website.<br>
-          <hr>
-  <strong style="color:#fff">Links to other websites</strong><br>
-          Our website may contain links to  other websites of interest. However, once you have used these links to leave  our site, you should note that we do not have any control over that other  website. Therefore, we cannot be responsible for the protection and privacy of  any information which you provide whilst visiting such sites and such sites are  not governed by this privacy statement. You should exercise caution and look at  the privacy statement applicable to the website in question.<br>
-          <hr>
-  <strong style="color:#fff">Controlling your personal  information</strong><br>
-          You may choose to restrict the  collection or use of your personal information in the following ways:<p></p>
-      <ul style="list-style:disc;padding-left:50px">
-          <li>whenever  you are asked to fill in a form on the website, look for the box that you can  click to indicate that you do not want the information to be used by anybody  for direct marketing purposes</li>
-          <li>if  you have previously agreed to us using your personal information for direct  marketing purposes, you may change your mind at any time by writing to or  emailing us at yotoon [@] wallbase.cc</li>
-        </ul>
-        <p>We will not sell, distribute or  lease your personal information to third parties unless we have your permission  or are required by law to do so. We may use your personal information to send  you promotional information about third parties which we think you may find  interesting if you tell us that you wish this to happen.<br><br>
-          You may request details of  personal information which we hold about you under the Data Protection Act  1998. If you would like a copy of the information  held on you please write to yotoon [@] wallbase.cc.</p>
-If you believe that any information we are holding on you is incorrect  or incomplete, please write to or email us as soon as possible, at the above  address. We will promptly correct any information found to be incorrect.</div>
-	
-</div>
 
-<div id="tt_container">&nbsp;</div>
+        <a href="javascript:;" class="refresh"><span class="gui ico-filter-refr"></span></a>
 
-<div id="overlay" class="overlay">
-	<div class="modal">
-    	<div class="modal-head">
-    		<a href="javascript:void(0);" class="X"><span class="gui ico-X"></span></a>
-        	<h1></h1>
+    </div>
+</form>
+<div id="wrap">
+
+    <div class="subhead clr">
+        <div class="icon"><a href="http://wallbase.cc/site/privacy" class="icn spr-bigicon-zombie"></a></div>
+        <div class="main">
+            <div class="line1">Privacy policy</div>
+            <div class="line2">What's our privacy policy and how we use the data we gather.</div>
         </div>
-        <div class="body">
-        	
+        <div class="rightside">
+            
         </div>
     </div>
-    <div class="loader"><img src="system/application/frontend/views/_images/loader1.gif"></div>
+
+    <div class="txtcont">
+        
+        This privacy policy sets out how Wallbase.cc uses and protects any information that you give Wallbase.cc when you use this website.
+        <br>
+        Wallbase.cc is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
+        <br>
+        Wallbase.cc may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from August 16th 2011.
+        
+        <h2 class="h2">What we collect</h2>
+        We may collect the following information:
+        <ul class="ul">
+            <li class="li">contact information including email address</li>
+            <li class="li">demographic information such as country code</li>
+        </ul>
+
+
+        <h2 class="h2">What we do with the information we gather</h2>
+        We require this information to understand your needs and provide you with a better service, and in particular for the following reasons:
+        <ul class="ul">
+            <li class="li">Internal record keeping.</li>
+            <li class="li">We may use the information to improve our products and services.</li>
+        </ul>
+        
+
+        <h2 class="h2">Security</h2>
+        We are committed to ensuring that your information is secure. In order to prevent unauthorised access or disclosure, we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online. 
+        
+
+        <h2 class="h2">How we use cookies</h2>
+        A cookie is a small file which asks permission to be placed on your computer's hard drive. Once you agree, the file is added and the cookie helps analyse web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences. 
+        <br>
+        We use traffic log cookies to identify which pages are being used. This helps us analyse data about web page traffic and improve our website in order to tailor it to customer needs. We only use this information for statistical analysis purposes and then the data is removed from the system. 
+        Overall, cookies help us provide you with a better website, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us. 
+        <br>
+        You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website.
+        <br><br>
+        You can read more about our cookies policy <a href="http://wallbase.cc/site/cookies" class="a">here</a>.
+
+        <h2 class="h2">Links to other websites</h2>
+        Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.
+        
+
+        <h2 class="h2">Controlling your personal information</h2>
+        You may choose to restrict the collection or use of your personal information in the following ways:
+        whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes
+        if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us at yotoon@wallbase.cc
+        We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.
+        <br><br>
+        You may request details of personal information which we hold about you. If you would like a copy of the information held on you please write to yotoon@wallbase.cc.
+        If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect.
+
+    </div>
+
 </div>
 
-<br style="clear:both">
+<div class="growl">
+    <div class="icon"></div>
+    <div class="text">
+        <div class="title"></div>
+        <div class="desc"></div>
+    </div>
+</div>
 
-<div id="footer">
-    
-		<div class="line2" style="color:#686868;margin-bottom:3px">All submitted content remains copyright its original copyright holder. Images are for personal, non commercial use.</div>
-    	<div class="line1">Website design © <a href="http://wallbase.cc/start/" class="grey" title="Home - wallpapers">Wallbase.cc</a>, 2013 &nbsp;&nbsp;&nbsp; 0.0343</div>
-        <div class="line2">
-        	<a href="http://wallbase.cc/live" class="green">Live! <span class="red" style="vertical-align:super;font-size:11px;">beta</span></a> &nbsp;&nbsp;&nbsp;&nbsp;
-        	<a href="http://wallbase.cc/faq" class="grey">FAQ</a> &nbsp;&nbsp;&nbsp;&nbsp;
-                        <a href="http://wallbase.cc/users" class="grey">User list</a> &nbsp;&nbsp;&nbsp;&nbsp;
-            <a href="http://wallbase.cc/tags" class="grey">Popular tags</a> &nbsp;&nbsp;&nbsp;&nbsp;
-            <a href="http://wallbase.cc/forum" class="grey">Forum</a> &nbsp;&nbsp;&nbsp;&nbsp;
-            <a href="http://wallbase.cc/about" class="grey">About...</a> &nbsp;&nbsp;&nbsp;&nbsp;
-        	<a href="changelog.txt" class="grey">Changelog</a> &nbsp;&nbsp;&nbsp;&nbsp; 
-            <a href="http://wallbase.cc/privacypolicy" class="grey">Privacy Policy</a> &nbsp;&nbsp;&nbsp;&nbsp;
-            <a href="http://wallbase.cc/terms" class="grey">Terms of Service</a> &nbsp;&nbsp;&nbsp;&nbsp;
-        </div>
-                <div class="line2 fancy">either work hard or you might as well quit!</div>
-        <div class="line2"><a href="http://www.teqlounge.com/" target="_blank" class="smalll grey">electronic music @ teqlounge♫♪</a></div>
-    
+
+<div class="futer">
+    <div class="border-top"></div>
+
+    <div class="line-top clr">
+    	<div class="left">
+    		
+    	</div>
+    	<div class="right">
+    		<div class="l1">All submitted content remains copyright its original copyright holder. Images are for personal, non commercial use.</div>
+    		<div class="l2">
+    			Website code and design © Wallbase.cc, 2013 &nbsp;&nbsp; 0.0021 &nbsp; 0.82MB    			<a href="http://wallbase.cc/site/terms" class="termslink">Terms of Service</a>
+    			<a href="http://wallbase.cc/site/privacy" class="termslink">Privacy Policy</a>
+    			<a href="http://wallbase.cc/site/cookies" class="termslink">Cookies</a>
+    		</div>
+    	</div>
+    </div>
+    <div class="line-bottom clr">
+    	<div class="left">
+    		<a href="http://facebook.com/wallbase" target="_blank" class="socialink spr spr-facebook"></a>
+    		<a href="http://twitter.com/wallbase" target="_blank" class="socialink spr spr-twitter"></a>
+    		<a href="https://www.google.com/+wallbase" target="_blank" class="socialink spr spr-googleplus"></a>
+    		<a href="https://qchat.rizon.net/?channels=#wallbase" target="_blank" title="click to open webirc" class="irc">
+    			<div class="chan">#wallbase</div>
+    			<div class="addr">irc.rizon.net</div>
+    		</a>
+    	</div>
+    	<div class="right">
+    		<ul class="footmenu">
+    			<li class="item"><a href="http://wallbase.cc/faq" class="item-a">FAQ</a></li>
+    			<li class="item"><a href="http://wallbase.cc/upload" class="item-a">Upload</a></li>
+    			<li class="item"><a href="http://wallbase.cc/tags" class="item-a">Popular tags</a></li>
+    			<li class="item"><a href="http://wallbase.cc/random" class="item-a">Random</a></li>
+    			<li class="item"><a href="http://wallbase.cc/toplist" class="item-a">Toplist</a></li>
+    			<li class="item"><a href="http://wallbase.cc/forum" class="item-a">Forum</a></li>
+    			<li class="item"><a href="http://wallbase.cc/site/about" class="item-a">About...</a></li>
+    		</ul>
+    	</div>
+    </div>
 </div>
 
 <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
@@ -297,11 +351,6 @@ If you believe that any information we are holding on you is incorrect  or incom
   var _gaq = _gaq || [];
   _gaq.push(['_setAccount', 'UA-862446-7']);
   _gaq.push(['_trackPageview']);
-  _gaq.push(['_setCustomVar', 1,
-      'User Type',
-      'Guest',
-       2
-   ]);
 
   (function() {
     var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
@@ -310,46 +359,27 @@ If you believe that any information we are holding on you is incorrect  or incom
   })();
 
 </script>
-
-<script type="text/javascript" src="js/jquery.min.js?10072012"></script>
-<script type="text/javascript" src="system/application/frontend/views/_js/userbar.js?10072012"></script>
-<script type="text/javascript">
-//<![CDATA[
-$$.lang = 
-{
-	'type_in_username' : 'Type in your username!',
-	'type_in_pass' : 'Type in your password!',
-	'email_invalid' : 'Invalid e-mail address',
-	'login_form_title' : 'Sign In',
-	'reg_form_title' : 'New user registration',
-	'email_req' : 'Email address is required!',
-	'pass_too_short' : 'Password must have at least 3 characters.<hr />',
-	'home' : 'Home',
-	'del_fav_confirm' : "Are you sure you want to delete this wallpaper from your favorites?",
-	'msg_serverside_error' : 'Server-side error!\nContact the administrator (Yotoon!)'
-}
-//]]>
-</script>
 <script type="text/javascript">
 
-$$.option.is_adult = 0;
-
-$(document).ready(function()
+var base_url = 'http://wallbase.cc/';
+var opt = 
 {
-	$$.init();
-	
-	$('.showsearch').bind('click', function()
+	loggedin: false,
+    area: 'site',
+    section: 'about',
+	path: 
 	{
-		$(this).toggleClass('active2');
-		$$.show_search('');
-	});
-	
-		
-		$$.init_guests();
-	
-});
+		'views': 'http://static.wallbase.cc/front/6/',
+		'js': 'http://static.wallbase.cc/front/6/js/',
+		'images': 'http://static.wallbase.cc/front/6/images/'
+	}
+};
 
 </script>
+
+<script type="text/javascript" src="http://static.wallbase.cc/js/jquery.min.js"></script>
+<script type="text/javascript" src="http://static.wallbase.cc/js/jquery-extras.js"></script>
+<script type="text/javascript" src="http://static.wallbase.cc/front/6/js/application.js"></script>
 
 
 
