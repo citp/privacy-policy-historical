@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the classifiedsciti.com privacy policy that was archived on 2013-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130514222206id_/http%3A//www.classifiedsciti.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the classifiedsciti.com privacy policy that was archived on 2013-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131115115506id_/http%3A//www.classifiedsciti.com/privacy-policy.htm) for the most accurate reproduction.*
 
 # Classifieds, Free Classifieds, Online Classifieds, Free Ads | Classifieds Citi
 
