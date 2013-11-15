@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the speakingtree.in privacy policy that was archived on 2013-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130413142403id_/http%3A//www.speakingtree.in/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the speakingtree.in privacy policy that was archived on 2013-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131116003451id_/http%3A//www.speakingtree.in/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy | SpeakingTree
 
@@ -25,6 +25,8 @@ TIL includes links to other websites. Such sites are governed by their respectiv
 
 When we present information to our advertisers -- to help them understand our audience and confirm the value of advertising on our website -- it is usually in the form of aggregated statistics on traffic to various pages within our site. When you register with TIL, we contact you from time to time about updation of your content to provide the users such features that we believe may benefit you. 
 
+Privacy Policy subject to Google Analytics Policy requirements for Display Advertising <https://support.google.com/analytics/answer/2700409>
+
 **INFORMATION SHARING**  
 TIL shares the sensitive personal information to any third party without obtaining the prior consent of the User in the following limited circumstances:
 
@@ -43,6 +45,13 @@ However the internet is an ever evolving medium. We may change our privacy polic
 We use third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. 
 
 In the event you have any grievance relating to the processing of information provided by you, you may contact our Grievance Officer, at copyright.infringement@indiatimes.com ; or write at the following address:   
+
+
+**Rohit Sharma  
+Grievance Redressal Officer  
+Speaking Tree**   
+
+
 **Times Internet Limited  
 4th Floor, MPD World Tower,   
 DLF City Phase V, Opposite DLF Golf Course   
