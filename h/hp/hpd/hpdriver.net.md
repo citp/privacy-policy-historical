@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hpdriver.net privacy policy that was archived on 2013-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130517015326id_/http%3A//www.hpdriver.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hpdriver.net privacy policy that was archived on 2013-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131115121535id_/http%3A//www.hpdriver.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | HP Driver Downloads
 
