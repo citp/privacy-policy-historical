@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lindelepalais.com privacy policy that was archived on 2013-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130615150124id_/http%3A//www.lindelepalais.com/en-US/policy%233) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lindelepalais.com privacy policy that was archived on 2013-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131115012648id_/http%3A//www.lindelepalais.com/en-US/policy%233) for the most accurate reproduction.*
 
 # lindelepalais.com :: Policy and more
 
@@ -279,3 +279,5 @@ Shipments exceeding the cost of 250 euro imply theft, damaging and loss insuranc
 The  **withdrawal/return form**  must be carefully and correctly filled in and sent to L'Inde Le Palais by clicking on the "send request" button. In order for the request to be valid it must be filed within 8 days from reception of the goods and the reasons of withdrawal/return must be stated.  
 Our customer care will respond to your request as soon as possible, providing all further indications for the return.  
 For any additional questions please contact our customercare: [customercare@lindelepalais.com](mailto:customercare@lindelepalais.com)
+
+L'INDE LE PALAIS S.R.L. a socio unico Via Ca’ Ricchi 7 – 40068 SAN LAZZARO DI SAVENA (BO), ITALY - P.I. 02522021209 - N. Reg. Imp. 02522021209 - Cap. Sociale € Euro 25.000,00 i.v. I.V 
