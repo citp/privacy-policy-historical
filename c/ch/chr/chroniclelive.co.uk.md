@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chroniclelive.co.uk privacy policy that was archived on 2013-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130614053339id_/http%3A//www.chroniclelive.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chroniclelive.co.uk privacy policy that was archived on 2013-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131116190429id_/http%3A//www.chroniclelive.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Chronicle Live: Number one for news, opinion, sport & celebrity gossip
 
@@ -68,5 +68,3 @@ More information on this can be found in the "Help" section of the browser that 
 **OMNITURE ANALYTICS**
 
 NCJMedia Limited engages Omniture, a third-party Web traffic analysis company, to log and aggregate information coming through our Web site on our behalf. NCJMedia Limited controls how that data may and may not be used. When you visit our Web site, Omniture may use technical tracking methods such as cookies that will be listed under the domain 2o7.net, and web beacons, on our behalf, and may receive anonymous information about your browsing on our Web site. Omniture does not use these technical tracking methods to relate Web site visitors to any personally identifiable information. Information collected by Omniture on behalf of NCJMedia Limited is unique to individual visitors but is not personally identifiable to Omniture. Such information provided by Omniture to NCJMedia Limited may be reassociated by NCJMedia Limited with previously collected information for internal purposes only, including but not limited to providing visitors with relevant content. We may also use these technical tracking methods in HTML e-mails to determine whether the recipients have opened such e-mails, clicked on links contained in those e-mails, and continued to browse our Web site. No personally identifiable information, such as your name, street address, e-mail address, etc. is shared with Omniture.
-
-Further information regarding Omniture's privacy statement can be found by clicking here
