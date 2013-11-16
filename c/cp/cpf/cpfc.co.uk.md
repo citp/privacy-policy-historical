@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cpfc.co.uk privacy policy that was archived on 2013-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130510102923id_/http%3A//www.cpfc.co.uk/global/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cpfc.co.uk privacy policy that was archived on 2013-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131116115450id_/http%3A//www.cpfc.co.uk/global/privacy-policy.aspx) for the most accurate reproduction.*
 
 # PRIVACY POLICY
 
