@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the factorydirectcraft.com privacy policy that was archived on 2013-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130517162330id_/http%3A//factorydirectcraft.com/003_privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the factorydirectcraft.com privacy policy that was archived on 2013-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131116154031id_/http%3A//factorydirectcraft.com/003_privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Factory Direct Craft Supply
-
-**Factory Direct Craft Supply, Inc. Privacy Policy**
 
 Factory Direct Craft Supply, Inc. ("Factory Direct Craft") respects your privacy. This Privacy Policy identifies the ways in which we may collect your data, what we may do with the data collected and your choices relating to our collection and use of your data.
 
@@ -215,3 +213,5 @@ Please be aware that if you provide personal information to our websites that:
 
 
 
+
+**The information and content contained on this Web site are protected by copyright. All content, including photographs, appearing on this Web site may NOT be reproduced, translated, or transmitted in any form or by any means, electronically or mechanically, without the written permission from and provided by Factory Direct Craft Supply. Violations of this Notice shall be prosecuted to the fullest extent of the law, and violators shall be held legally responsible for all damages caused as a result of their infringement.**
