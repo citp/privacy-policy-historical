@@ -1,100 +1,55 @@
-> *The following text is extracted and transformed from the thedissolve.com privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627154744id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thedissolve.com privacy policy that was archived on 2013-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131116051516id_/http%3A//thedissolve.com/privacy) for the most accurate reproduction.*
 
-# Legal Agreement
+# Privacy / The Dissolve
 
-**Go Daddy Respects Your Privacy**
+Last updated: July 2013
 
-**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
+WELCOME TO THE DISSOLVE. PITCHFORK MEDIA INC. ("The Dissolve") is committed to respecting the privacy rights of all users of and visitors to the "The Dissolve Websites", namely, www.thedissolve.com, thedissolve.com, and the other directly associated The Dissolve domains (individually or collectively referred to herein and in the Terms of Use as either the "Website" or the "Websites"). We have established, updated and implemented this Privacy Policy to assist our Users to enjoy the features of the Website with the necessary amount of notice, information, and guidance to understand and appreciate how the use of these features and services made available through the Website impact your privacy rights and the rights of our advertisers, partners, sponsors, distributors, artists, writers and contributors to our Websites. "The Dissolve", "we", "us" and "our" means Pitchfork Media Inc.
 
-**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
+By visiting this and any other related Website, you agree to be bound by the terms and conditions of this Privacy Policy and the Terms of Use. If you do not agree with the terms of this Privacy Policy, please do not provide any information or use any of the services or products offered or provided on this Website.
 
-**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
+This Privacy Policy changes from time to time and changes are effective upon posting. Please check back frequently for updates as it is your sole responsibility to be aware of changes. We do not provide notices of changes in any manner other than by posting the changes at this Website.
 
-**Information Collection and Use**
+This policy describes the information collection, use and dissemination practices of Pitchfork Media Inc. ("The Dissolve") and applies to The Dissolve's collection, use, storage and disclosure of information by The Dissolve on its Website located at the URL www.thedissolve.com; URL thedissolve.com, and any other websites or URLs which redirect users to our Websites. The Dissolve is not responsible for the information collection or privacy practices of third party websites or applications. The Dissolve suggests that you read the privacy statements of each linked website to understand what, if any, personally identifiable information may be collected by those linked websites. Certain linked websites operate on different business models and practices and may use your Personal Identifiable Information ("PII") in a manner wholly different from Pitchfork, and it is up to you to understand the privacy practices of any third-party websites to which you choose to link to or visit through this Website.
 
-Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
+Because of its importance and to make it easier for you to find and review it, we have made this Privacy Policy into a separate document on the Website. However, the Privacy Policy is a part of our agreement with you. The other part of that agreement is found in our Terms of Use which describe how and when we may make changes to these statements and terms and how they become binding upon you. By using this Website, you are signifying your agreement to this Privacy Policy and the Terms of Use.
 
-We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
+CALIFORNIA RESIDENTS' PRIVACY USE  
+Residents of California have a right to request a detailed list of any third-party entities with which The Dissolve shares personal information for their own marketing purposes. In response to such a request by a consumer, The Dissolve must either (1) provide a list detailing the categories of information shared and the entities to which such information was provided or (2) provide a mechanism by which a consumer may opt-out of having their information shared with third parties. The Dissolve has elected the second option and you may request that your personal identifying information not be shared with third parties by sending your request including your full name, e-mail address and postal address to: Pitchfork Media Inc., 3317 W Fullerton Ave, Chicago, Illinois 60647 ATTN: Privacy Officer. California resident users are entitled to know that they may file grievances and complaints with the California Department of Consumer Affairs, 400 R Street, Suite 1080, Sacramento, CA 95814 or by phone at 916-445-1254 or 800-952-5210 or by e-mail to dca@dca.ca.gov.
 
-We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
+GENERAL  
+Pitchfork Media Inc. is the sole owner of the Website, and is the owner, licensee or authorized party with respect to the "Material" (as defined in the Terms of Use), content, and all information collected and presented on the Website. The Dissolve may occasionally collect personally identifiable information ("PII") from its Website users who voluntarily provide such information to a) respond to surveys on the Website prepared and sponsored by The Dissolve b) register for special programs, sweepstakes and contests; and c) through other information exchange methods, including email. Other information collection practices will continually be monitored, assessed, and updated in light of new technologies, business practices, and for purposes of implementing better and best practices for compliance and business purposes. Now, and in the future, you may be asked to participate in certain enhanced services through the Website. To participate in these services, we may ask you to provide a higher level of PII. Any PII we receive generally and for any special or enhanced service will be stored and managed by The Dissolve, and The Dissolve does not currently sell or rent this information. We take your privacy seriously. However, to provide our users with better services, we may use the information we collect to share with our business partners for us to provide products or services that may enhance your experience on the Website. 
 
-We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
+The Dissolve may disclose personally identifiable information in response to legal process (e.g., in response to a court order or a subpoena). The Dissolve may disclose such information in response to a law enforcement agency's request or where The Dissolve believes it is necessary to investigate, prevent or take action regarding illegal activities, suspected fraud, situations involving potential threats to the safety of any person, violations of our Terms of Use or as otherwise required by law. The Dissolve may also transfer information about you if it is dissolved and its assets are sold or donated.
 
-We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
+This Website is operated in the United States of America. If you are located outside of the United States, please be aware that any information you provide will be transferred to the United States. By using this Website you consent to this transfer.
 
-Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
+Third parties who provide hosting services or other day-to-day services that make possible the operation of this Website may have access to information that you provide to the extent they require access to our databases to service the Website.
 
-This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
+INFORMATION COLLECTED  
+The Dissolve does not currently collect or sell to third parties personally identifying information ("PII") from Website users. E-mails received by The Dissolve from Website users are stored for a period of time and then deleted. Refer to the Terms of Use and the Website for The Dissolve's policy regarding the publishing of Website user e-mails.
 
-**Security**
+The Dissolve may sponsor contests and promotions on the Website. When you enter a contest or other promotion conducted on this Website, we may ask for your name, postal address, e-mail address and other PII so we can administer the contest/promotion and notify winners. The Dissolve may share this information with third parties serving as The Dissolve's partners in such contests or promotions.
 
-This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.
+COOKIES  
+Similar to other commercial websites, The Dissolve uses cookies or web beacon technology to collect non-personally-identifiable information about how the Website is used. A "cookie" is a small data file that a website owner may write into your hard drive for record keeping purposes when you visit that site again but does not contain any PII. Cookies allow that site to measure activity on the site and enhance your experience by saving you from having to log in or provide information each time you re-visit the site and by customizing content based on your interests. Cookies do have positive attributes such as remembering what information you accessed on a web page to speed up your transactions on related web pages. Especially for video content and other similar data, you may be required to enable cookies from The Dissolve in order to utilize the Website. Our advertisers may also use cookies to ascertain how many times you have seen an advertisement. Our advertisers and we may use this information to better personalize the content, banners, and promotions that you see on the Website. Such third party use of cookies is subject to that party's own privacy policies which may differ from ours. You can choose whether to accept cookies by changing the settings of your browser. You can reset your browser to refuse all cookies, or allow your browser to show you when a cookie is being sent. If you choose not to accept these cookies, your experience at the Website and other websites may be diminished and some features may not work as intended. You should consult with your browser's provider/manufacturer if you have any questions regarding disabling cookies.
 
-**Updating Your Information**
+A "web beacon" is a programming code that can be used to display an image on a web page (by using an programming function), but can also be used to transfer an individual's unique user identification (often in the form of a cookie) to a database and associate the individual with previously acquired information about an individual in a database. This would allow a website owner to track certain websites an individual visits online. The Dissolve uses cookies and web beacon technology for non personally-identifiable information (including IP addresses) to analyze trends, administer the Website, track user movement and gather broad demographic information for aggregate, non-personally identifying uses and analytics.
 
-You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
+Advertising agencies, advertising networks and other companies (collectively, "Advertisers") who place advertisements on the Website and on the Internet generally may use their own cookies, web beacons and other technology to collect information about users. The Dissolve does not control Advertisers' use of such technology and The Dissolve has no responsibility for the use of such technology to gather information about individuals. When linking to an advertiser or other third-party site, please review the   
+Privacy Policy or other Terms of Use of such sites.
 
-        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
+SUBSCRIBERS  
+The Dissolve may, from time to time, publish a newsletter or other periodical document. In order to receive a copy of this document, The Dissolve will ask you for certain PII including, without limitation, your name, postal and e-mail addresses, and possibly other demographic, and even personal financial information. In order to discontinue receipt of the newsletter, periodical, or such other document, simply unsubscribe through the manner prescribed in the last such document you received. Notwithstanding anything contained herein to the contrary, The Dissolve reserves the right to provide this PII to third parties, and to use this information for internal purposes to measure the readership of any given newsletter or periodical.
 
-       ii.      You may send mail to Go Daddy at the following postal address:   
-               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
+CHILDREN AND PRIVACY  
+Our site and services are directed to the general public. From time to time, content on the Website may be of interest to teenagers. The Dissolve, however, does not intentionally or knowingly gather information from children 13 years of age or younger. No information should be submitted to or posted on the Website by users under the age of 13 years without consent of their parent or adult legal guardian. In the event The Dissolve collects information from a person between the ages of 14 and 17, that information will be subject to use as allowed by this Privacy Policy provided that the teenager, his/her parent or his/her adult legal guardian may stop that use upon request. In the event The Dissolve becomes aware that a person 13 years of age or younger is providing The Dissolve with PII, The Dissolve will request parental permission or The Dissolve will delete the PII from its database. The Dissolve relies on users to be truthful in responding to questions about age.
 
-      iii.      You may call us at: (480) 505-8800
+MESSAGE BOARD AND CHAT ROOMS  
+The Dissolve is not responsible for personally identifiable information you choose to submit, and any information you provide is voluntary.
 
-       iv.      You may fax us at: (480) 505-8844
+SECURITY  
+The Dissolve and its data management team have put in place appropriate physical, electronic and managerial procedures to safeguard and help prevent unauthorized access, maintain data security and correctly use the information The Dissolve collects and distributes on-line. Nevertheless, despite our reasonable precautions, unauthorized access, hardware or software failure, and other technical and human factors may compromise the security of your information at any time. We cannot assure you that the PII that The Dissolve may collect in the future will never be disclosed in a manner that is inconsistent with this Privacy Policy.
 
-**Sending Emails**
-
-We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
-
-The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
-
-**Compliance with Laws and Law Enforcement**
-
-We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
-
-**Third Party Service Providers**
-
-We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
-
-In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel gift or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
-
-**Supplementation of Information**
-
-In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
-
-**Contests/Surveys**
-
-From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
-
-We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
-
-**Tell-A-Friend**
-
-If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. Go Daddy will automatically send the friend a one-time email inviting them to visit our Site. Go Daddy stores this information for the sole purpose of sending this one-time email. The friend may contact Go Daddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
-
-**What Happens to my Personal Information if I Opt Out?**
-
-If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information if necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
-
-**Transfer of Data Abroad**
-
-If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
-
-**Changes in Our Practices**
-
-We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
-
-If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
-
-**Contacting Our Site**
-
-If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
-
-* * *
-
-Go Daddy   
-ATTN: Web Team   
-14455 North Hayden Rd.   
-Suite 219   
-Scottsdale, AZ, 85260, U.S.A.
+CONTACT  
+If you have any questions about this Privacy Policy, contact us by U.S. mail at Pitchfork Media Inc., 3317 W Fullerton Ave, Chicago, Illinois 60647 ATTN: Privacy Officer.
