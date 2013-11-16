@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the kneedraggers.com privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530231355id_/http%3A//www.motosport.com/GB/motorcycle/about/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kneedraggers.com privacy policy that was archived on 2013-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131116190804id_/http%3A//www.motosport.com/motorcycle/about/privacypolicy) for the most accurate reproduction.*
 
-# Motorcycle Parts, Accessories & Gear | MotoSport United Kingdom
+# The #1 Online Motorcycle & Sportbike Store - Shop With The Guys That Ride | MotoSport
 
 Last Updated: September 2010
 
