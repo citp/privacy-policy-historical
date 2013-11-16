@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the motivescosmetics.com privacy policy that was archived on 2013-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130505194415id_/http%3A//motives.marketamerica.com/index.cfm%3Faction%3Dmotives.privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the motivescosmetics.com privacy policy that was archived on 2013-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131116131559id_/http%3A//www.motivescosmetics.com/index.cfm%3Faction%3Dmotives.privacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy | Motives® Cosmetics by Loren Ridinger
 
