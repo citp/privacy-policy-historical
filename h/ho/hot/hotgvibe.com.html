@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the hotgvibe.com privacy policy that was archived on 2013-06-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130629195319id_/http%3A//www.hotgvibe.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the hotgvibe.com privacy policy that was archived on 2013-11-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131116193502id_/http%3A//www.hotgvibe.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml1-strict.dtd"><html dir="ltr" lang="en"><head>
 <meta charset="UTF-8">
@@ -316,6 +316,8 @@ $(document).ready(function() {
 														</li>
 													</ul>
 											</li>
+										<li><a href="/sale/">SALE!</a>
+											</li>
 						            	</ul>
 	            	<br clear="all">
 	            </div>
@@ -421,14 +423,14 @@ $(document).ready(function() {
   
 	</div>
 	<!-- End: .section-container -->
-	
+
 	<div class="clear"></div>
-	
+
 	<!-- Start: .footer-wrapper -->
 	<div class="footer-wrapper">
 		<div class="payment-secure-container">
 			<img src="catalog/view/theme/leisure/image/footer-payment-options.png">
-			
+
 			<!--
 			<img src="catalog/view/theme/leisure/image/footer-discreet.png" height="35" width="45" />
 			<span><p><a href="/discreet/">Discreet Shipping</a></p></span>
@@ -440,10 +442,10 @@ $(document).ready(function() {
 			-->
 			<span id="newsletter_signup">
 				<span>SIGN UP TO OUR NEWSLETTER &gt;</span> <input id="email" name="email" type="text" value="Enter your email here..." onclick="this.value=''"> <a href="#" class="button-red-small" onclick="subscribe_newsletter(); return false;">Sign up now!</a>
-				
+
 				<span id="email_error" class="error"></span>
 			</span>
-			
+
 			<div class="clear"></div>
 		</div>
 
@@ -460,6 +462,7 @@ $(document).ready(function() {
                                                                 <li><a href="/sex-toys-for-women/">For Women</a></li>
                                                                 <li><a href="/sex-toys-for-men/">For Men</a></li>
                                                                 <li><a href="/sex-toys-for-couples/">For Couples</a></li>
+                                                                <li><a href="/sale/">SALE!</a></li>
                                                         </ul>
                                         </div>
 
@@ -481,7 +484,7 @@ $(document).ready(function() {
                         <li><a href="/terms/">Terms &amp; Conditions</a></li>
                         <li><a href="/affiliates/">Affiliates</a></li>
                         <li><a href="/contest">Contest</a></li>
-                        <li><a href="/index.php?route=package/tracker">Track your package</a></li>
+                        <!--<li><a href="/index.php?route=package/tracker">Track your package</a></li>-->
                     </ul>
                 </div>
 
@@ -502,7 +505,7 @@ $(document).ready(function() {
 			<!-- Start: .links-box -->
 		</div>
 		<!-- End: .links-container -->
-	
+
 		<!-- Start: .copyright-container -->
 		<div class="copyright-container">
 			<p class="copyright">
@@ -518,16 +521,16 @@ $(document).ready(function() {
 <script type="application/javascript">
 	function subscribe_newsletter() {
 		var email = $('#email').val();
-		
+
 		$.ajax({
 	            url: 'index.php?route=newsletter/newsletter&email=' + email,
 	            dataType: 'json',
-	
+
 	            success: function(json) {
 					if(json.redirect) {
 						window.location = json.redirect;
 					}
-					
+
 					else if(json.email) {
 						$('#email_error').html(json.email);
 						$('#email_error').show();
@@ -537,7 +540,7 @@ $(document).ready(function() {
 	                alert(thrownError + "\r\n" + xhr.statusText + "\r\n" + xhr.responseText);
 	            }
 	        });
-	        
+
 	        return false;
 	}
 </script>
