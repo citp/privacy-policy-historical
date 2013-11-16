@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rtrk.com privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601233620id_/http%3A//www.reachlocal.com/register/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rtrk.com privacy policy that was archived on 2013-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131116155636id_/http%3A//www.reachlocal.com/register/privacy_policy.php) for the most accurate reproduction.*
 
 # Privacy Policy | ReachLocal
 
