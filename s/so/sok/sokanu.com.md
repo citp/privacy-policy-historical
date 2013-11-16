@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sokanu.com privacy policy that was archived on 2013-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130523054037id_/http%3A//www.sokanu.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sokanu.com privacy policy that was archived on 2013-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131116061006id_/http%3A//www.sokanu.com/privacy) for the most accurate reproduction.*
 
 # Privacy
 
