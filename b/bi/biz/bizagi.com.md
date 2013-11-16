@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bizagi.com privacy policy that was archived on 2013-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130606222314id_/http%3A//www.bizagi.com/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D18%26Itemid%3D118) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bizagi.com privacy policy that was archived on 2013-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131116120318id_/http%3A//www.bizagi.com/index.php/buy/eula%3Fid%3D18) for the most accurate reproduction.*
 
-# Business process management, BPM, workflow automation software | Bizagi BPMS
+# Privacy Policy
 
 The following discloses our information gathering and dissemination practices for our web site, www.Bizagi.com.
 
