@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the techclap.com privacy policy that was archived on 2013-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130629143514id_/http%3A//www.techclap.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techclap.com privacy policy that was archived on 2013-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131117002529id_/http%3A//www.techclap.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy | TechClap.com
 
@@ -28,9 +28,8 @@ You should consult the respective privacy policies of these third-party ad serve
 
 If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie" management with specific web browsers can be found at the browsers’ respective websites."
 
-**How TechClap.com Use User’s Personal Information?**`  
-**  
-** `
+**How TechClap.com Use User’s Personal Information?**` **  
+**`
 
   * The email address you provided while subscribing to our newsletter subscription form enables us to send you a daily digest of _TechClap.com_ stories. This subscription is entirely opt-in by the user. (We cannot subscribe you to the newsletter as you personally must have access to the email account in order to verify the subscription.) Subscribers can opt-out of our newsletter at any time by clicking the “Unsubscribe” link that is present on every email at the very bottom of the newsletter. Please note that we currently use **Feedburner** for E-mail Newsletter Delivery, Check Feedburner Privacy Policy at: <http://www.feedburner.com/fb/a/privacy>
   * The email address that you use when contacting us with an news tip or via email or our Contact Form will not be used for any reason but for the purposes of responding to your inquiry by Our Staff. We will not sell, rent, or leak any way our user’s personal information to third parties.
