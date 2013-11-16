@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the rainkingonline.com privacy policy that was archived on 2013-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130503023154id_/http%3A//www.rainkingonline.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rainkingonline.com privacy policy that was archived on 2013-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131116050532id_/http%3A//www.rainkingonline.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | RainKing Online
+# Privacy Policy | RainKing OnlineRainKing Online
 
 At Rain King Software, Inc. (“Rain King”) we are committed to ensuring our customers understand our privacy practices. We encourage you to read and understand this policy. Rain King reserves the right to amend this statement at any time. We encourage our users and visitors to regularly review this Privacy Policy for any such changes. Your continued use of this web site and our services (including our proprietary database of information) after we have posted changes to the Privacy Policy constitutes your agreement to the amended terms of this Privacy Policy.
 
