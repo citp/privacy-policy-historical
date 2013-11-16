@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the forbestravelguide.com privacy policy that was archived on 2013-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130329040049id_/http%3A//www.startle.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the forbestravelguide.com privacy policy that was archived on 2013-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131116223434id_/http%3A//www.forbestravelguide.com/privacy) for the most accurate reproduction.*
 
-# Privacy - Startle
+# Privacy - Forbes Travel Guide
 
 **PLEASE READ THIS PRIVACY POLICY CAREFULLY.**
 
-It explains how The Five Star Travel Corporation and/or its subsidiary and affiliated entities (collectively, "Startle", "we", "us", or "our") collects information about you through our websites and how this information is then used or disclosed. IF YOU DO NOT CONSENT TO OUR PRIVACY PRACTICES AS DESCRIBED IN THIS PRIVACY POLICY STATEMENT, PLEASE DO NOT USE OR ACCESS OUR WEBSITES. 
+It explains how The Five Star Travel Corporation and/or its subsidiary and affiliated entities (collectively, "Forbes Travel Guide", "we", "us", or "our") collects information about you through our websites and how this information is then used or disclosed. IF YOU DO NOT CONSENT TO OUR PRIVACY PRACTICES AS DESCRIBED IN THIS PRIVACY POLICY STATEMENT, PLEASE DO NOT USE OR ACCESS OUR WEBSITES. 
 
 **A. GENERAL TERMS AND CONDITIONS**
 
@@ -185,7 +185,7 @@ You consent to our assignment of the information we have about you, including pe
 
 **M. TERMS OF USE**
 
-Please read our Terms of Use to understand the terms and conditions that apply to your use of our websites. By using our websites, you acknowledge that you have read our Terms of Use and consent to them. You further affirm your consent by becoming a registered user or submitting content or materials to or through our websites. 
+Please read our [Terms of Use](https://web.archive.org/terms-of-use) to understand the terms and conditions that apply to your use of our websites. By using our websites, you acknowledge that you have read our Terms of Use and consent to them. You further affirm your consent by becoming a registered user or submitting content or materials to or through our websites. 
 
 The Five Star Travel Corporation 
 
@@ -195,11 +195,11 @@ Attn: Legal Department - Privacy
 
 Atlanta, Georgia 30305 
 
-Email: privacy@startle.com 
+Email: privacy@forbestravelguide.com
 
 This Privacy Policy was last updated on September 13, 2011. 
 
-**CALIFORNIA RESIDENTS â YOUR PRIVACY RIGHTS**
+**CALIFORNIA RESIDENTS - YOUR PRIVACY RIGHTS**
 
 (As provided by California Civil Code Section 1798.83) 
 
@@ -209,4 +209,4 @@ However, under the law, a business is not required to provide the above-describe
 
 As stated in our Privacy Policy, we do not share information with third parties for their direct marketing purposes unless you affirmatively agree to such disclosure -- typically by opting-in to receive information from a third party. To prevent disclosure of your personal information for use in direct marketing by a third party, do not opt-in to such use when you provide personal information on our website. Please note that whenever you opt-in to receive future communications from a third party, your information will be subject to the third-party's privacy policies and practices. If you later decide that you do not want that third party to use your information, you will need to contact the third party directly, as we have no control over how third parties use information. You should always review the privacy policies and practices of any party that collects your information to determine how that entity will handle your information. 
 
-California customers may request further information about our compliance with this law by e-mailing privacy@startle.com. Please note that we are only required to respond to one request per customer each year, and we are not required to respond to requests made by means other than through this e-mail address. 
+California customers may request further information about our compliance with this law by e-mailing privacy@forbestravelguide.com Please note that we are only required to respond to one request per customer each year, and we are not required to respond to requests made by means other than through this e-mail address. 
