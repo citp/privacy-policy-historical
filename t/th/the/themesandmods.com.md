@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the themesandmods.com privacy policy that was archived on 2013-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130518233802id_/http%3A//www.themesandmods.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the themesandmods.com privacy policy that was archived on 2013-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131116150257id_/http%3A//www.themesandmods.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy, Terms and Conditions, Themes and Mods
+
+## [ Privacy Policy ](http://www.themesandmods.com/privacy-policy/ "Permanent Link to Privacy Policy")
 
 This website routinely collects information about its visitors, subscribers, members, and customers. This information is obtained in various ways, such as:
 
