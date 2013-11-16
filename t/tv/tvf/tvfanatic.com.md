@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tvfanatic.com privacy policy that was archived on 2013-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130531002622id_/http%3A//www.tvfanatic.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tvfanatic.com privacy policy that was archived on 2013-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131116231803id_/http%3A//www.tvfanatic.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - TV Fanatic
 
