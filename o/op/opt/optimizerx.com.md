@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the optimizerx.com privacy policy that was archived on 2012-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120514130430id_/http%3A//www.optimizerx.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the optimizerx.com privacy policy that was archived on 2013-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131116092640id_/http%3A//www.optimizerx.com/privacy.php) for the most accurate reproduction.*
 
 # Prescription Coupons, Savings and Support Offers - OPTIMIZERx - Privacy Statement
 
