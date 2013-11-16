@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wbs.ac.uk privacy policy that was archived on 2013-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130517193456id_/http%3A//www.wbs.ac.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wbs.ac.uk privacy policy that was archived on 2013-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131116225903id_/http%3A//www.wbs.ac.uk/privacy) for the most accurate reproduction.*
 
 # Website Privacy Policy | WBS
 
@@ -57,9 +57,9 @@ Information that tells us specifically who you are, such as your name and postal
 
 WBS might collect voluntary - personally identifiable information that has been provided in several ways, including when you:
 
-  * **Register for a product or service**
-  * **Request further information or documentation.**  
- 
+  * **Fill in a form on a WBS website, including when registering for a product or service**
+  * **Request further information or documentation**
+  * **Join a WBS mailing list or database, for example the alumni database.**
 
 
 
@@ -67,13 +67,18 @@ You might choose to register for a product or service on one of the WBS websites
 
 You might be asked for personal information and contact details at other times, such as when you request further information or mail-outs of brochures. We will also ask for information when you make a purchase or use a credit card to pay for any service advertised and offered on a WBS website.
 
+Any e-mail we send may contain software that collects data allowing us to monitor whether you have read the e-mail and identify the parts of the e-mail you have viewed. We may use this data to send or re-send e-mails to you that are more useful and tailored to your preferences.
+
 If you do choose to register on the WBS websites but not to provide some elements of the requested information, we shall endeavour to satisfy the requested transaction. We may, however, not be able to do so or to offer a personalised service that depends on this information.
 
-**3\. Signing in**  
+**3\. Marketing**  
+We may use information held about you to provide you with information, advertisements, products or services that you request from us or which we feel may be of interest to you, where you have given your consent to be contacted for such purposes. We will provide you with opportunities to withdraw your consent to be contacted for such purposes, for example you may unsubscribe from any marketing e-mails by clicking on the relevant link in the footer of the email.
+
+**4.** **Signing in**  
 Some parts of the WBS website require authentication with a username and/or password. We store information about the pages visited by logged-in users for statistical analysis purposes, but we don't monitor individual usage patterns. Logs containing the date and time of all logins and the identity of the user are kept and may be used for system diagnostic or problem solving purposes, but not for tracking or monitoring purposes.
 
-**4\. Credit card payments**  
+**5\. Credit card payments**  
 It is possible to make credit card payments to the University of Warwick through our website. Such payments are handled by a third party e-commerce company called WorldPay, and they have their own [privacy statement.](http://www.worldpay.com/about_us/index.php?page=privacy)
 
-**5\. Regulation of Investigatory Powers Act 2000**  
+**6\. Regulation of Investigatory Powers Act 2000**  
 It is also important to point out that in certain circumstances the University may be obliged to disclose information or undertake more detailed monitoring under the Regulation of Investigatory Powers Act 2000.
