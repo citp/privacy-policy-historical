@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the nijafriends.com privacy policy that was archived on 2011-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111113022039id_/http%3A//www.nijafriends.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nijafriends.com privacy policy that was archived on 2013-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131116022120id_/http%3A//www.nijafriends.com/help/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | NijaFriends
+# Privacy Policy | Nigerians Friendship Club
 
 This site is owned and operated by NijaFriends - NijaFriends Friendship Club. Your privacy on the Internet is of the utmost importance to us. At NijaFriends, we want to make your experience online satisfying and safe.
 
