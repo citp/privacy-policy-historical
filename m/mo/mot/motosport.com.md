@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the motosport.com privacy policy that was archived on 2013-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130517025433id_/http%3A//www.motosport.com/dirtbike/about/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the motosport.com privacy policy that was archived on 2013-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131116135236id_/http%3A//www.motosport.com/dirtbike/about/privacypolicy) for the most accurate reproduction.*
 
-# Dirt Bike Parts & Accessories, Motocross (MX) Parts & Gear | MotoSport
+# The #1 Online Dirt Bike & Motocross Store - Shop With The Guys That Ride | MotoSport
 
 Last Updated: September 2010
 
