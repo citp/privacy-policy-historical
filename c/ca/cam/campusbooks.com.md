@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the campusbooks.com privacy policy that was archived on 2013-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130610193648id_/http%3A//www.campusbooks.com/legal/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the campusbooks.com privacy policy that was archived on 2013-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131116074755id_/http%3A//www.campusbooks.com/legal/privacy.php) for the most accurate reproduction.*
 
-# CampusBooks Privacy Statement
+# CampusBooks - CampusBooks Privacy Statement
 
 Our privacy policy is very simple: we do not sell, rent, or otherwise disclose any personal information to third parties.
 
