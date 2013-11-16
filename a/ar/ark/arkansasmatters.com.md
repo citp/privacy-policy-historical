@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the arkansasmatters.com privacy policy that was archived on 2013-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130529220520id_/http%3A//arkansasmatters.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arkansasmatters.com privacy policy that was archived on 2013-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131116045922id_/http%3A//arkansasmatters.com/privacypolicy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - ArkansasMatters.com - Central Arkansas' Source for News, Weather, and Sports covering Little Rock, North Little Rock, Conway, Cabot, Searcy, Hot Springs, and the rest of Central Arkansas
 
-**PRIVACY POLICY**
+PRIVACY POLICY
 
-**Updated June 14, 2011**
+Updated June 14, 2011
 
-**1.  General**
+1\.  General
 
 Thank you for visiting ArkansasMatters.com, an affiliate of Nexstar Broadcasting, Inc. ("we," "us" or "our").  We respect the privacy of visitors to our websites (each a "Site" and collectively the "Sites").  Because we gather certain types of personally identifiable information ("Personal Information") from users of our Sites, we feel that you should know how we collect, use, disclose, manage and store your Personal Information. This Privacy Policy describes, among other things, the types of information collected about you when you visit a Site; how your information may be used and when it may be disclosed; how you can control the use and disclosure of your information; and how your information is protected.
 
@@ -16,7 +16,7 @@ Please read this Privacy Policy carefully so that you understand our online priv
 
 From time to time we may revise this Privacy Policy to reflect industry initiatives or changes in the law, our Personal Information collection and use practices, the features of the Sites or technology.  Your continued use of the Site after we post a revised Privacy Policy signifies your acceptance of the revised Privacy Policy.  It is therefore important that you review this Privacy Policy regularly to ensure you are updated as to any changes.
 
-**2.  Your Disclosure of Information to Us**
+2\.  Your Disclosure of Information to Us
 
 We believe that we can enhance your experience on our Sites through the information you share with us.  However, you may choose to enjoy some of the content and features on our Sites without directly providing us with any information about you; but, as described below, some information is automatically collected when you visit our Site.  In addition, in order for you to take advantage of certain features and services offered on our Sites, you may be required to provide us with Personal Information.
 
@@ -30,7 +30,7 @@ We also may collect information about you from other sources, including through 
 
 Unless otherwise provided in a separate registration page, we do not request for marketing purposes contact information for a mobile phone, text messaging or any wireless device that includes a domain name address (such as "wireless.bellsouth.com") as part of the contact information.  Federal law prohibits the sending of commercial marketing email messages directly to a wireless device that uses a domain name, unless you have first given your affirmative consent.  We may inadvertently collect a wireless device number that includes a domain name when you send us an inquiry or register for a contest or membership club.  However, we will not knowingly use that contact information for sending commercial marketing email.  We reserve the right to respond to user inquiries or requests sent via a wireless device that uses a domain name, as such messages are not deemed to be commercial marketing email.
 
-**3.   Cookies and Similar Technologies**
+3.  Cookies and Similar Technologies
 
 You should be aware that non-personal information and data may be automatically collected on the Sites through the use of "cookies," web beacons and other similar technologies.  While such technologies do not contain personally identifiable information, once you choose to furnish our Sites with personally identifiable information, this information may be linked to the data stored in a cookie and such information may be used to personalize your experience with our Sites (for example, recognizing you by name when you return to a Site), saving your password in password protected areas or enabling you to use shopping carts on our Sites.  Web beacons and cookies may also be used to collect, aggregate and analyze anonymous tracking data to help measure and track traffic and general user behavior.  We may also use such technologies to help us offer you more relevant information or products and services of interest to you.  Cookies also identify you to our servers allowing you the opportunity to avoid reentering your email and password each time you access the Sites.
 
@@ -40,15 +40,15 @@ If you do not want information collected through the use of "cookies" there is a
 
 We also may use technical methods in our HTML emails that we send to you to determine whether you have opened or forwarded an email and/or clicked on links in those emails, to customize the display of banner advertising and other messages to you, to determine whether you have made an inquiry or purchase in response to a particular email and other similar activities.  These technical methods may enable us to collect and use information from you that is personally identifiable.
 
-**4.   Social Networking**
+4.  Social Networking
 
 You also can engage with our content, such as video, games, applications, and other offerings, on or through third-party social networking sites, such as Facebook, Twitter and other third-party social media plug-ins and applications. When you engage with our content on or through third party social networking sites, plug-ins and applications, you may allow us to have access to certain information from your social media profile (e.g., name, e-mail address, photo, gender, birthday, location, your list of friends, people you follow and/or who follow you, the posts or the "likes" you make) to deliver the content or as part of the operation of the application.  We may also obtain non-personally identifiable information (e.g., content viewed, game performance, high scores, and information about advertisements within the content you have been shown or may have clicked on,) from your interaction with our content.
 
 When you provide information from your social media account, it can help enable us to do things like (1) give you exclusive content, (2) personalize your online experience with us within and outside our applications or websites, and (3) contact you through the social networking sites or directly by sending you the latest news, special offerings, and rewards.  By doing so, you consent to the use of this information in accordance with our privacy policy.  When you provide personal information to us through an application, on our sites, or on social networking sites, it may be publicly viewed by other members of these sites and we cannot prevent further use of the information by third parties.
 
-Through some social networking sites' privacy settings, you can control what data you share. For more information about how social networking sites handle your personal information, please refer to their privacy policies and terms of use. ****
+Through some social networking sites' privacy settings, you can control what data you share. For more information about how social networking sites handle your personal information, please refer to their privacy policies and terms of use.
 
-**5\. Our Use of Your Information**
+5\. Our Use of Your Information
 
 We use your Personal Information to provide you with features, services or goods, or information you request, to respond to your questions or comments related to us or the Sites, and to enable you to participate in features such as surveys, polls, sweepstakes, and message boards. We also use your Personal Information to notify you about updates, new features, programming and activities on that may be of interest to you.  We may use the information to communicate with you when you have won a contest or sweepstakes, or to contact you about your account with us.  We use the information that you provide about others to enable us to send them your gifts or cards or emails you may wish to send them from our sites.
 
@@ -60,7 +60,7 @@ If you choose to submit content for publication we may publish your screen name 
 
 Although we hope you find the information we provide to you through our Sites to be useful, you may always opt-out from receiving communications from us by changing your privacy preferences in your member profile, or by deleting your profile from our database.   Please see Section 10 below for more on our opt-out procedures.
 
-**6.  Our Disclosure of Your Information**
+6\.  Our Disclosure of Your Information
 
 We may share information, including your Personal Information, with our affiliates, service providers and advertisers.  We also may disclose your Personal Information in response to a court order or subpoena, in response to a law enforcement agency request; when we have reason to believe that disclosing this information is necessary to identify, contact, or bring legal action against someone who may be causing injury to or interference with (either intentionally or unintentionally) our rights or to anyone that could be harmed by such activities; in situations involving threats to the physical safety of any person; where it is necessary to investigate, prevent or take action regarding illegal activity or suspected fraud; or as otherwise required by law.  We may transfer Personal Information about you if we are acquired by, sold to or merged with another company.
 
@@ -74,22 +74,22 @@ We may share aggregated or anonymized information with third parties.  This inf
 
 If you have signed up to receive our emails and prefer not to receive marketing information from our Sites, follow the unsubscribe instructions provided on any such email you receive from our Sites.
 
-This Privacy Policy addresses only our use of information we collect from you online.   It does not apply to information you choose to disclose to other parties whether through chat rooms, forums, personal ads or interactive areas of our Sites that allow you to submit or post your own content or the like.  We cannot prevent such information from being used in a manner that may violate this [Privacy Policy](http://dfw.cbslocal.com/privacy-policy/), the law, or your personal privacy and safety.  Accordingly, information you disclose on message boards, in chat rooms and forums, through content you provide or in any other way can be viewed, collected and/or used by others and we are not responsible for information you disclose in this manner.
+This Privacy Policy addresses only our use of information we collect from you online.   It does not apply to information you choose to disclose to other parties whether through chat rooms, forums, personal ads or interactive areas of our Sites that allow you to submit or post your own content or the like.  We cannot prevent such information from being used in a manner that may violate this[Privacy Policy](http://dfw.cbslocal.com/privacy-policy/), the law, or your personal privacy and safety.  Accordingly, information you disclose on message boards, in chat rooms and forums, through content you provide or in any other way can be viewed, collected and/or used by others and we are not responsible for information you disclose in this manner.
 
   
-**7.   Links to Third Party Websites**
+7.  Links to Third Party Websites
 
 We may sometimes offer content that is sponsored by or co-branded with identified third parties.  The Sites also may contain links to the websites of third parties not affiliated with us.  In addition, if you click on an advertiser's advertisement, you will link to the advertiser's web site.  Some of the advertisements and other links on our Sites are delivered by third parties who also collect information through cookies, web beacons, and other technologies about your online activities.  These third parties include advertisers, advertising agencies, and ad networks that may collect information when you view or interact with one of their advertisements.
 
-In all of the above instances this Privacy Policy will not apply to personally identifiable information collected by these third parties.  This collection of information is not under our control and such third party information practices may be different than ours.  Once you leave our Sites via such a link or by clicking on an advertisement, you should check the applicable privacy policy of the third parties or advertiser site to determine how they will handle any personal information that they collect from you.  You understand, acknowledge and agree that these links are provided solely as a convenience to you and not as an endorsement by us.  We are _NOT_ responsible for the privacy practices or the content on any of these other websites, including any sites that may indicate a special relationship or "partnership" with us.  If you decide to access any of the third-party sites linked to the Site, you do so entirely at your own risk.
+In all of the above instances this Privacy Policy will not apply to personally identifiable information collected by these third parties.  This collection of information is not under our control and such third party information practices may be different than ours.  Once you leave our Sites via such a link or by clicking on an advertisement, you should check the applicable privacy policy of the third parties or advertiser site to determine how they will handle any personal information that they collect from you.  You understand, acknowledge and agree that these links are provided solely as a convenience to you and not as an endorsement by us.  We are NOT responsible for the privacy practices or the content on any of these other websites, including any sites that may indicate a special relationship or "partnership" with us.  If you decide to access any of the third-party sites linked to the Site, you do so entirely at your own risk.
 
 Some of these third parties may collect information about your interests to deliver relevant advertising to you.  These companies may offer you a way to choose not to have your information used for advertising purposes. Please note that if you choose to opt out of having your information used to deliver advertisements tailored to your interests, you will continue to see advertisements on our Web Sites, but these advertisements may not be as relevant to you.
 
-**8.  How You Can Review or Correct Your Personal Information**
+8\.  How You Can Review or Correct Your Personal Information
 
 If you created a password protected account within our Sites, you can access that account to review and update the personal information you provided.  You also may update or amend your information by contacting us at PrivacyAdministrator@nexstar.tv. We will provide you with a list of your PII within thirty (30) calendar days from receipt of your request. There may be certain instances when we may not be able to provide the PII, such as when access would violate the privacy of another individual or when access is prohibited by law.
 
-**9\. Opt-Out Procedures**
+9\. Opt-Out Procedures
 
 We respect your privacy and your ability to choose whether to share your personal information with us.  If you receive any communication from us that you prefer not to receive you may opt-out of receiving further communications from us.  To remove any personal information from our database or to not receive future e-mail communications from us, you may modify your contact options in your profile (if applicable) or send an e-mail to PrivacyAdministrator@nexstar.tv with the word "remove" in the subject line.
 
@@ -97,7 +97,7 @@ You may "opt-out" altogether from providing us with any Personal Information by 
 
 If you ask us to shut down your account or delete your information, we will disable your account within a reasonable period of time.  However, we may need to retain some information about you in order to satisfy our legal and security obligations.  For example, some of your information may remain in back-up storage even if you ask us to delete it.
 
-If you do not want your personal information shared with third parties in the manner discussed in Section 6 "Disclosure of Your Information," please notify Nexstar by telephone at (972) 373-8800, by e-mail to [PrivacyAdministrator@nexstar.tv](mailto:PrivacyAdministrator@nexstar.tv) or at the following address:
+If you do not want your personal information shared with third parties in the manner discussed in Section 6 "Disclosure of Your Information," please notify Nexstar by telephone at (972) 373-8800, by e-mail to [PrivacyAdministrator@nexstar.tv](mailto:PrivacyAdministrator@nexstar.tv) or at the following address:
 
 Privacy Administrator
 
@@ -107,7 +107,7 @@ Nexstar Broadcasting Group
 
 Irving, TX 75039
 
-If you have registered to receive wireless short text communications from us, you may unsubscribe from this type of communication by sending the wireless number or wireless address you wish to remove from our list to [PrivacyAdministrator@nexstar.tv](mailto:PrivacyAdministrator@nexstar.tv) or to the following address:
+If you have registered to receive wireless short text communications from us, you may unsubscribe from this type of communication by sending the wireless number or wireless address you wish to remove from our list to [PrivacyAdministrator@nexstar.tv](mailto:PrivacyAdministrator@nexstar.tv) or to the following address:
 
 Privacy Administrator
 
@@ -118,24 +118,24 @@ Nexstar Broadcasting Group
 Irving, TX 75039
 
   
-**10.  Security of Information**
+10\.  Security of Information
 
 We take reasonable security precautions to secure the Personal Information that you choose to provide against the loss, misuse, alteration or unauthorized access of such information.  Unfortunately, no transmission of data over the Internet is guaranteed to be completely secure. It may be possible for third parties not under our control to intercept or access transmissions or private communications unlawfully.  While we strive to protect your Personal Information, we cannot ensure or warrant the security of any Personal Information that you transmit to us. Any such transmission is done at your own risk.
 
-We do not and will not ever request your login information, password or credit card information in an unsecured or unsolicited email or telephone communication.  This practice is commonly known as "phishing."  For more information about "phishing" and protecting your personal information from identity theft, you may want to visit the Federal Trade Commission at [www.ftc.gov](http://www.ftc.gov/).
+We do not and will not ever request your login information, password or credit card information in an unsecured or unsolicited email or telephone communication.  This practice is commonly known as "phishing."  For more information about "phishing" and protecting your personal information from identity theft, you may want to visit the Federal Trade Commission at [www.ftc.gov](http://www.ftc.gov/).
 
-**11.  Our Commitment to Children's Privacy**
+11\.  Our Commitment to Children's Privacy
 
 Our Sites are intended for a general audience and we do not knowingly collect or store contact information about children under the age of 13.  We may ask for a birth date to ensure that we are not collecting information from children under 13 or to identify when additional steps may need to be taken in connection with information collected from children under 18.  In those instances where we have actual knowledge that we are collecting information from children or the Site offers a service directed toward children, we will comply with applicable laws, including the Children's Online Privacy Protection Act.
 
-**12.   Applicable Law**
+12.  Applicable Law
 
 We control and operate this Site from the United States. The Site is not intended to subject us to the laws or jurisdiction of any state, country or territory other than that of the United States. Please note that we do not represent or warrant that the Site is appropriate for use in any particular jurisdiction.  Those who choose to access the Site do so at their own initiative and are responsible for complying with all local laws, rules and regulations.  Further by using and participating in our Site or providing us with your information, you consent to the collection, transfer, storage, and processing of information to and in the United States.
 
-**13.   Updates**
+13.  Updates
 
 This Privacy Policy is effective as of June 14, 2011.  Because Internet technologies are rapidly changing, we reserve the right to make changes to this Privacy Policy at any time, in our sole discretion.  All changes will be promptly posted on this page, with an updated "effective date."  Your continued viewing, browsing, use or access of the Site following our posting of a change notice will constitute your binding acceptance of those changes.
 
-**14.   Contact Information**
+14.  Contact Information
 
-If you have any questions or comments about our Privacy Policy please contact [PrivacyAdminstrator@nexstar.tv](mailto:PrivacyAdminstrator@nexstar.tv).
+If you have any questions or comments about our Privacy Policy please contact [PrivacyAdminstrator@nexstar.tv](mailto:PrivacyAdminstrator@nexstar.tv).
