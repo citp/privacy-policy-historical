@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the pixelstech.net privacy policy that was archived on 2013-05-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130531224302id_/http%3A//pixelstech.net/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the pixelstech.net privacy policy that was archived on 2013-11-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131116124826id_/http%3A//www.pixelstech.net/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -19,84 +19,95 @@
     ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
   })();
-
 </script>
-<div id="content_container">
 <div id="header">
-    <div style="height:110px;background:url(images/header.png) no-repeat;">
-        <p class="welcome_p"><a href="register.php" title="Register">Register</a> | <a href="login.php" title="Log in">Login</a>&nbsp;<a href="/feed.xml" title="Subscribe to RSS feeds"><img src="/images/icons/rss.png" style="vertical-align:middle;"></a></p>
-    	<div id="search_form_div">
-	    <form id="search_form" action="search.php" method="post">
-	        <input type="text" name="key_word" value="">
-	        <input type="submit" name="search" id="header_search_icon" value="" title="Search">
-	    </form>
-    </div>
-    </div>
+    <table id="header_table" cellpadding="0" cellspacing="0">
+    <tbody><tr><td>
+    <!-- Logo-->
+    <a href="/" title="PixelsTech" class="image-link"><img src="/images/logo.png" alt="PixelsTech Logo"></a>
+    </td><td>
+    <!-- Main menu -->
     <table id="header_main_table" cellpadding="0" cellspacing="0">
        <tbody><tr>
-          <td><a href="index.php" title="Home"><img src="images/icons/Home.gif" align="absmiddle">&nbsp;Home</a></td>
-          <td><a href="article.php" title="Technical Article">Technical Article</a></td>
-          <td><a href="topic.php" title="Discussion Zone">Discussion Zone</a></td>
-          <td><a href="calendar.php" title="My Calendar">MyCalendar</a></td>
-          <td id="download_menu_td" onmouseover="this.style.backgroundColor='#336699';System.showItem('header_download_menu');" onmouseout="this.style.backgroundColor='';System.hideItem('header_download_menu');"><a href="download.php" title="Download">Download</a>
-          		<table id="header_download_menu" class="header_sub_table" cellpadding="0" cellspacing="0" onmouseover="this.style.visibility='visible';" onmouseout="this.style.visibility='hidden';">
-				                <tbody><tr>
+          <td><a href="/article.php" title="Technical Article">Technical article</a></td>
+          <td><a href="/topic.php" title="Discussion Zone">Discussion zone</a></td>
+          <td id="download_menu_td" onmouseover="HeaderMenuManager.handleHeaderMenuSelect(event);" onmouseout="HeaderMenuManager.handleHeaderMenuDeselect(event);"><a href="/download.php" title="Download" class="header_menu" submenu="header_download_menu">Download&nbsp;&nbsp;&nbsp;&nbsp;▼</a>
+          		<table id="header_download_menu" class="header_sub_table" cellpadding="0" cellspacing="0">
+				                        <tbody><tr>
                 	<td class="menu_icon_td">
-                	                	<img src="images/icons/download_type/1324814842DocumentMenu.gif" style="vertical-align:middle;" align="bottom">&nbsp;
+                	                	<img src="http://www.pixelstech.cn/images/icons/download_type/1324814842DocumentMenu.gif" style="vertical-align:middle;" align="bottom" alt="Document">&nbsp;
                 	                	</td>
-                	<td><a href="download/category.php?cat=3" title="Document"> Document</a></td>
+                	<td><a href="/download/category.php?cat=3" title="Document"> Document</a></td>
                 </tr>
                                 <tr>
                 	<td class="menu_icon_td">
-                	                	<img src="images/icons/download_type/EbookMenu.gif" style="vertical-align:middle;" align="bottom">&nbsp;
+                	                	<img src="http://www.pixelstech.cn/images/icons/download_type/EbookMenu.gif" style="vertical-align:middle;" align="bottom" alt="eBook">&nbsp;
                 	                	</td>
-                	<td><a href="download/category.php?cat=4" title="eBook"> eBook</a></td>
+                	<td><a href="/download/category.php?cat=4" title="eBook"> eBook</a></td>
                 </tr>
                                 <tr>
                 	<td class="menu_icon_td">
-                	                	<img src="images/icons/download_type/SoftwareMenu.gif" style="vertical-align:middle;" align="bottom">&nbsp;
+                	                	<img src="http://www.pixelstech.cn/images/icons/download_type/SoftwareMenu.gif" style="vertical-align:middle;" align="bottom" alt="Software">&nbsp;
                 	                	</td>
-                	<td><a href="download/category.php?cat=1" title="Software"> Software</a></td>
+                	<td><a href="/download/category.php?cat=1" title="Software"> Software</a></td>
                 </tr>
                                 <tr>
                 	<td class="menu_icon_td">
-                	                	<img src="images/icons/download_type/1324815150SourceCodeMenu.gif" style="vertical-align:middle;" align="bottom">&nbsp;
+                	                	<img src="http://www.pixelstech.cn/images/icons/download_type/1324815150SourceCodeMenu.gif" style="vertical-align:middle;" align="bottom" alt="Source Code">&nbsp;
                 	                	</td>
-                	<td><a href="download/category.php?cat=2" title="Source Code"> Source Code</a></td>
+                	<td><a href="/download/category.php?cat=2" title="Source Code"> Source Code</a></td>
                 </tr>
                                </tbody></table></td>
-          <td id="application_menu_td" style="width:200px;" onmouseover="this.style.backgroundColor='#336699';System.showItem('header_application_menu');" onmouseout="this.style.backgroundColor='';System.hideItem('header_application_menu');"><a href="javascript:;" title="Application">Application</a>
-          	   <table id="header_application_menu" class="header_sub_table" cellpadding="0" cellspacing="0" onmouseover="this.style.visibility='visible';" onmouseout="this.style.visibility='hidden';">
-               <tbody><tr><td class="menu_icon_td"><img src="images/icons/menu/imager.gif" align="absmiddle"></td><td><a href="application/index.php?app_name=imager" title="Image Converter">Image Converter</a></td></tr>
-			   <tr><td class="menu_icon_td"><img src="images/icons/menu/profilestorer.gif" align="absmiddle"></td><td><a href="http://profilestorer.pixelstech.net" title="Profile Storer">Profile Storer</a></td></tr>               <tr><td class="menu_icon_td"><img src="images/icons/menu/peditor.gif" align="absmiddle"></td><td><a href="peditor/index.html" title="Pixels Editor">Pixels Editor</a></td></tr>
-               <tr><td class="menu_icon_td"><img src="images/icons/menu/ajaxtalker.gif" align="absmiddle"></td><td><a href="chatter/index.php" title="Ajax Talker">Ajax Talker</a></td></tr>
+          <td id="application_menu_td" onmouseover="HeaderMenuManager.handleHeaderMenuSelect(event);" onmouseout="HeaderMenuManager.handleHeaderMenuDeselect(event);"><a href="javascript:;" title="Application" class="header_menu" submenu="header_application_menu">Application&nbsp;&nbsp;&nbsp;&nbsp;▼</a>
+          	   <table id="header_application_menu" class="header_sub_table" cellpadding="0" cellspacing="0">
+               <tbody><tr><td class="menu_icon_td"><img src="http://www.pixelstech.cn/images/icons/menu/imager.gif" alt="Imager"></td><td><a href="/application/index.php?app_name=imager" title="Image Converter">Image Converter</a></td></tr>
+			         <tr><td class="menu_icon_td"><img src="http://www.pixelstech.cn/images/icons/menu/profilestorer.gif" alt="Profile Storer"></td><td><a href="http://profilestorer.pixelstech.net" title="Profile Storer">Profile Storer</a></td></tr>               <tr><td class="menu_icon_td"><img src="http://www.pixelstech.cn/images/icons/menu/peditor.gif" alt="Pixels Editor"></td><td><a href="/peditor/index.html" title="Pixels Editor">Pixels Editor</a></td></tr>
+               <tr><td class="menu_icon_td"><img src="http://www.pixelstech.cn/images/icons/menu/ajaxtalker.gif" alt="Ajax Talker"></td><td><a href="/chatter/index.php" title="Ajax Talker">Ajax Talker</a></td></tr>
                </tbody></table>
           </td>
-                 </tr>      
+           <td><a href="/calendar.php" title="My Calendar">MyCalendar</a></td>
+       </tr>      
     </tbody></table>
-	<!-- TODAY'S QUESTION -->
-    <div id="topic_panel">
-    <table cellpadding="0" cellspacing="0">
-    <tbody><tr><td><b>Today's Question:&nbsp;</b></td><td>
-    <div id="question_panel">
-        <div id="question_description_panel">
-    <p style="text-align:right;margin:0;"><a href="javascript:System.hideItem('question_description_panel');" class="link_btn">Hide</a></p>
-    On page 88 of ECMAScript 262 standard, there is one statement which says "A variable with an Initialiser is assigned the value of its AssignmentExpression when the VariableStatement is executed, not when the variable is created." What does this mean? When will the VariableStatement be executed? Will it not be executed whenever an AssignmentStatement is assigned to it?    </div>
-        		<a href="topic/99_One_puzzle_about_variable_statement_in_ECMAScript_262_standard" title="One puzzle about variable statement in ECMAScript 262 standard">One puzzle about variable statement in ECMAScript 262 standard</a>
+    </td><td>
+        <!-- Add search box -->
+        <div id="search_form_div">
+          <form id="search_form" action="/search.php" method="post">
+              <input type="text" name="key_word" value="">
+              <input type="submit" name="search" id="header_search_icon" value="" title="Search">
+          </form>
         </div>
+    </td><td>
+       <!-- Account information-->
+       <div id="account_section" class="header-div">
+                    <a href="/register.php" title="Register">Register</a>&nbsp;<a href="/login.php" title="Log in">Login</a>&nbsp;<a href="/feed.xml" title="Subscribe to RSS feeds" class="image-link"><img src="http://www.pixelstech.cn/images/icons/rss.png" alt="Subscribe to RSS feed" title="Subscribe to RSS feed"></a>&nbsp;<a href="http://www.feedly.com/home#subscription/feed/http://feeds.feedburner.com/pixelstech" title="Subscribe to feedly" target="_blank" class="image-link"><img src="http://www.pixelstech.cn/images/icons/feedly.png" alt="Subscribe to feedly" title="Subscribe to feedly"></a>
+                  </div>
     </td>
-        <td>
-    <a href="javascript:System.showItem('question_description_panel');" class="link_btn_30">Description</a>
-    <a href="/topic/index.php?topic_id=99#answer" class="link_btn_30">My Answer</a>
-    </td>
-      
     </tr></tbody></table>
-    </div>
 </div>
-
 <script type="text/javascript">
 GetUrl();
 </script>
+<div id="content_container">
+    <div class="content_container_padding"></div>
+    <!-- Topic pabel -->
+    <div id="topic_panel">
+        <table cellpadding="0" cellspacing="0">
+        <tbody><tr><td><b>Today's Question:&nbsp;</b></td><td>
+        <div id="question_panel">
+                <div id="question_description_panel">
+        <p style="text-align:right;margin:0;"><a href="javascript:System.hideItem('question_description_panel');" class="link_btn">Hide</a></p>
+        Steve Jobs redefines the phone. He makes us know that a hand phone is not just a tool for communication but it can do much more such as entertainment, games etc. Steve Jobs is a genius. But what if he was born in China? Could he build the revolutionary products for the world?         </div>
+                    <a href="/topic/112-What-if-Steve-Jobs-was-born-in-China-" title="What if Steve Jobs was born in China?">What if Steve Jobs was born in China?</a>
+                </div>
+        </td>
+                <td>
+        <a href="javascript:System.showItem('question_description_panel');" class="link_btn_30">Description</a>
+        <a href="/topic/index.php?topic_id=112#answer" class="link_btn_30">My Answer</a>
+        </td>
+          
+        </tr></tbody></table>
+    </div>
+<!-- Below is the page content container -->
 <div id="main_body" style="width:940px;margin:auto;text-align:justify;margin-top:20px;padding:10px;font-size:14px;line-height:23px;" class="round_corner">
 This Privacy Policy governs the manner in which Pixelstech collects, uses, maintains and discloses information collected from users (each, a "User") of the <a href="http://www.pixelstech.net">http://www.pixelstech.net</a> website ("Site"). This privacy policy applies to the Site and all products and services offered by Pixelstech.<br><br>
 
@@ -150,11 +161,51 @@ info@pixelstech.net<br>
 </div>
 <div id="footer">
 <hr>
-<div style="height:60px;">
-     <a href="aboutus.php" title="About us">About us</a> | <a href="contactus.php" title="Contact us">Contact us</a> | <a href="ad.php" title="Advertisements">Advertisements</a> | <a href="qanda.php" title="FAQ">FAQ</a> |  <a href="privacy.php" title="Privacy polocy">Privacy policy</a> | <a href="termofservice.php">Terms of service</a> | <a href="bug_report.php">Bug report</a><br>
-     © 2013 Pixelstech.net All rights reserved
+<div>
+	<div class="col">
+		<h3>ABOUT</h3>
+		<ul class="ul_no_style footer_ul">
+			<li><a href="/aboutus.php" title="About us">About us</a></li>
+			<li><a href="/contactus.php" title="Contact us">Contact us</a></li>
+			<li><a href="/ad.php" title="Advertisements">Advertisements</a></li>
+		</ul>
+	</div>
+
+	<div class="col">
+		<h3>HOW IT WORKS</h3>
+		<ul class="ul_no_style footer_ul">
+			<li><a href="/document/article_read_help.php" title="Article read help">Article read help</a></li>
+			<li><a href="/article_post_help.php" title="Article post help">Article post help</a></li>
+			<li><a href="/guideline.php" title="Article guideline">Article guideline</a></li>
+		</ul>
+	</div>
+
+	<div class="col">
+		<h3>LEGAL</h3>
+		<ul class="ul_no_style footer_ul">
+			<li><a href="/privacy.php" title="Privacy polocy">Privacy policy</a></li>
+			<li><a href="/termofservice.php" title="Terms of service">Terms of service</a></li>
+		</ul>
+	</div>
+	
+	<div class="col">
+		<h3>FEEDBACK</h3>
+		<ul class="ul_no_style footer_ul">
+			<li><a href="/qanda.php" title="FAQ">FAQ</a></li>
+			<li><a href="/bug_report.php" title="Bug report">Bug report</a></li>
+			<li><a href="/feedback.php" title="Feedback">Feedback</a></li>
+		</ul>
+	</div>
+
+	<div class="col copyright_col">
+	<center><img src="/images/pixelstech_64.png" alt="PixelsTech logo" title="PixelsTech logo"></center>
+    ©2013 PixelsTech.net All rights reserved
+   	</div>
 </div>
-<div style="position:fixed;z-index:6;bottom:20px;right:20px;"><a href="feedback.php" title="Feedback to us"><img src="/images/suggestion.png"></a></div>
+<div style="position:fixed;z-index:6;bottom:20px;right:20px;text-align:center;">
+<img src="/images/wechatqrcode.jpeg" alt="Follow us on WeChat" title="Scan to follow us on WeChat"><br>
+<a href="/feedback.php" title="Feedback to us"><img src="/images/suggestion.png" alt="Feedback"></a>
+</div>
 </div>
 </div>
 </body></html>
