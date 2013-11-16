@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the propertyline.ca privacy policy that was archived on 2013-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130518170257id_/http%3A//www.mpac.ca/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the propertyline.ca privacy policy that was archived on 2013-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131116222926id_/http%3A//www.mpac.ca/privacy_policy.asp) for the most accurate reproduction.*
 
 # MPAC - Privacy Policy
 
@@ -28,4 +28,4 @@ Cookies provide a convenience feature to save you time. They tell the Web server
 
 You have the ability to accept or decline cookies. Most Web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. If you choose to decline cookies, you may not be able to access some of the services on our Web site.
 
-© 2012 MPAC All Rights Reserved.
+© 2013 MPAC All Rights Reserved.
