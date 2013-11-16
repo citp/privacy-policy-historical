@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shemaletubesite.com privacy policy that was archived on 2013-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130517015118id_/http%3A//shemaletubesite.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shemaletubesite.com privacy policy that was archived on 2013-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131116143121id_/http%3A//www.shemaletubesite.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy at Shemale Tube Site
 
