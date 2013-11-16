@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the zodee.com.au privacy policy that was archived on 2013-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130517001544id_/http%3A//www.zodee.com.au/customer-service/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zodee.com.au privacy policy that was archived on 2013-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131116213156id_/http%3A//www.zodee.com.au/customer-service/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Check out Privacy Policy at Zodee online | Zodee Australia
+# Privacy Policy | Zodee
 
 At Zodee we value your privacy immensely and it is important what information we collect and use your personal information is understood. This statement is our commitment to the perserving of your privacy and the information we collect and hold.
 
