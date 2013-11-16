@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thelisticles.com privacy policy that was archived on 2013-01-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130127235146id_/http%3A//www.thelisticles.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thelisticles.com privacy policy that was archived on 2013-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131116160917id_/http%3A//www.thelisticles.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - The Listicles
 
