@@ -1,59 +1,111 @@
-> *The following text is extracted and transformed from the standardchartered.com.pk privacy policy that was archived on 2009-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090527083427id_/http%3A//www.standardchartered.com/common/html/datapp.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the standardchartered.com.pk privacy policy that was archived on 2013-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131116025256id_/http%3A//www.standardchartered.com.pk/pk/website-privacy-statement.html) for the most accurate reproduction.*
 
-# 
+# Website Privacy Statement - Standard Chartered Bank Pakistan
 
-| **_DATA PROTECTION AND PRIVACY STATEMENT_**
+Standard Chartered Bank respects your privacy and we are committed to keeping your personal information and other data confidential and secure.
 
-**Your Personal Information**
+##### 1\. When does this Website Privacy Statement apply?
 
-This Data Protection and Privacy Statement relates solely to information supplied by you on this Web Site. Standard Chartered Bank, the Data Controller ("SCB") respects the privacy of your personal information and will treat it confidentially and securely.
+This Website Privacy Statement explains the approach taken by Standard Chartered Bank (Pakistan) Limited and the members of the Standard Chartered Group ("SCB", "we" or "us") toward the personal information and data that we collect about you ("Your Information") when you visit this Website, electronically respond to our online advertisements or when you send us communications via any computer, mobile or other similar electronic devices ("Device"). It does not apply to information we collect in other ways e.g. when you are dealing with our staff in a branch or over the telephone. In these cases, there may be other privacy statements and terms and conditions that are applicable.
 
-Any personal information provided by you to SCB through this Web Site will be used for the purpose of providing and operating the products and services you have requested at this Web Site and for other related purposes which may include updating and enhancing SCB's records, understanding your financial needs, conducting credit checks, reviewing credit worthiness and assisting other financial institutions to conduct credit checks, advising you of other products and services which may be of interest to you, for crime/fraud prevention and debt collection purposes, for purposes required by law or regulation, and to plan, conduct and monitor SCB's business. The information collected from you by SCB will be valuable in improving the design and marketing of our range of services and related products for customer use. If you are providing your details in connection with an application for employment, please refer to our "Data Protection and Privacy Statement - Job Applicants" which will be displayed when you apply (see our 'Careers' page). This Policy will not alter or affect any information otherwise provided by you to SCB.
+This Website Privacy Statement is limited to information and data collected on this Website, our online advertisements and electronic communications. Our Website Privacy Statement does not apply when you leave our Website, including third-party websites where our online advertisements are displayed or links to third-party websites which we do not operate or control. Please read the privacy statements and terms and conditions of these third-party websites and decide whether they satisfactorily protect your rights.
 
-Other than to those individuals and entities listed below your details will not be revealed by SCB to any external body, unless SCB has your permission, or is under either a legal obligation or any other duty to do so. For the purposes detailed above, your information may be disclosed to:
+##### 2\. You consent to our use of Your Information and Cookies
 
-  * other Branches or Companies in the SCB Group (ie. SCB, its subsidiaries and affiliates);
-  * any regulatory, supervisory, governmental or quasi-governmental authority with jurisdiction over SCB Group members;
-  * any agent, contractor or third party service provider, professional adviser or any other person under a duty of confidentiality to the SCB Group;
-  * credit reference agencies and, in the event of default, debt collection agencies;
-  * any actual or potential participant or sub-participant in, assignee, novatee or transferee of, any of the SCB Group's rights and/or obligations in relation to you;
-  * any financial institution with which SCB has or proposes to have dealings.
+By using this Website, responding to our online advertisements and/or providing Your Information you consent to: (a) our use of Cookies (see section 3(a) below) and our use of Your Information as described in this Website Privacy Statement; and (b) the terms and conditions of this Website Privacy Statement. If you do not consent then please do not proceed further and do not provide Your Information.
 
+##### 3\. What information do we collect about you?
 
+The Website is designed to use Cookies to collect information about how people use the Website (see Use of Cookies) and in some parts of our Website, we specifically ask for Your Information (see Online Forms and Job Applicants). Otherwise, you can use the Website without providing Your Information.
 
-The above disclosures may require the transfer of your information to parties located in countries that do not offer the same level of data protection as your home country. However, SCB will ensure that parties to whom your details are transferred treat your information securely and confidentially. SCB also pledges its intention fully to meet any internationally recognised standards of personal data privacy protection and to comply with applicable data protection and privacy laws. We may transfer your information if it is necessary to perform our contract with you and by providing details to SCB via this Web Site you are deemed to consent to any other transfers.
+**(a) Use of Cookies**
 
-Information held about you is retained as long as the purpose for which the information was collected continues. The information is then destroyed unless its retention is required to satisfy legal, regulatory or accounting requirements or to protect SCB's interests. As a general rule, the maximum retention period is 7 years.
+Cookies are small data files which are placed on your Device when you visit certain parts of our Website or click on our online advertisements. Cookies and similar technologies are used to identify your Device for the following purposes:-
 
-It is your responsibility to maintain the secrecy of any user ID and login password you hold.
-
-**Cookies**
-
-In order to improve our Internet service to you, we will occasionally use a "cookie" and/or other similar files or programs which may place certain information on your computer's hard drive when you visit an SCB web site. A cookie is a small amount of data that our web server sends to your web browser when you visit certain parts of our site. We may use cookies to:
-
-  * allow us to recognise the PC you are using when you return to our web site so that we can understand your interest in our web site and tailor its content and advertisements to match your interests (This type of cookie may be stored permanently on your PC but does not contain any information that can identify you personally.);
-  * identify you after you have logged in by storing a temporary reference number in the cookie so that our web server can conduct a dialogue with you while simultaneously dealing with other customers. (Your browser keeps this type of cookie until you log off or close down your browser when these types of cookie are normally deleted. No other information is stored in this type of cookie.);
-  * allow you to carry information across pages of our site and avoid having to re-enter that information;
-  * allow you access to stored information if you register for any of our on-line services;
-  * enable us to produce statistical information (anonymous) which helps us to improve the structure and content of our web site;
-  * enable us to evaluate the effectiveness of our advertising and promotions.
+  * allow our web server to determine whether the cookies setting on your Device has been enabled or disabled so that we will know whether data can be collected from your Device;
+  * store your login preferences so you do not have to re-select that option when you return to the Website;
+  * temporarily identify you after you have logged in to a secure page on our Website so that our web server can maintain a dialogue with your Device in order for you to carry out certain activities;
+  * temporarily allow you to carry information between pages of our Website to avoid having to re-enter that information;
+  * track your visits to our Website and recognise your Device when you are a repeat visitor so that we can gather statistics on the number of new and repeat visitors and evaluate site effectiveness;
+  * temporarily store information on your link preferences and your movement between web pages to help us to improve the Website and provide a more useful experience;
+  * make our Website more relevant to your interests;
+  * provide online advertisements or offers on our Website or third-party websites which are most likely to interest you.
 
 
 
-Cookies do not enable us to gather personal information about you unless you give the information to our server. Most Internet browser software allows the blocking of all cookies or enables you to receive a warning before a cookie is stored. For further information, please refer to your Internet browser software instructions or help screen. Alternatively, information on deleting or controlling cookies is available at [http://www.allaboutcookies.org](http://www.standardchartered.com/_legal-notices/third-party-website-all-about-cookies-disclaimer/en/index.html)
+The above cookies may be placed on your Device by us or by third parties on our behalf (for example, advertising networks and providers of external services like web traffic analysis services).
 
-**Internet Communications**
+Most web browsers are initially set up to accept cookies. You can choose to 'not accept' cookies by changing the settings on your web browser but if you block all cookies, including strictly necessary cookies, you may find that certain features on our Website will not work properly.
 
-In order to maintain the security of our systems, protect our staff, record transactions, and, in certain circumstances, to prevent and detect crime or unauthorised activities, SCB reserves the right to monitor all internet communications including web and email traffic into and out of its domains.
+**(b) Online Forms**
 
-**Your Rights and How to Contact Us**
+There are sections of the Website where we ask for personal information, for example, when you complete online forms to submit an enquiry, apply for a particular product or service or if you register to use our secure online services such as Online Banking. Please ensure you also read any applicable Terms and Conditions for these products and services.
 
-You may have the right under data protection legislation on payment of a fee to request access to personal information about you held by us and to have it corrected where appropriate. If you have that right and you wish to access, correct or delete any of your personal data held by us, or if you have any questions concerning our Data Protection and Privacy Statement please contact the relevant SCB Data Protection representative. You may also have the right to access details held by credit reference agencies and SCB will supply details of the relevant agencies upon request. For the UK please write to: The Regional Head of Legal   Compliance UK/Europe, 1 Basinghall Avenue, London EC2V 5DD, England. (Fax number: (+44) (0)20 7885 1871). Other local SCB web sites may have details of local Data Protection Officers.
+**(c) Job Applicants**
 
-**Contacting You**
+Personal information provided on our Website in connection with an application for employment will be used to determine your suitability for a position with the SCB Group and, if applicable, your terms of employment or engagement. Your Information may also be used to monitor our recruitment initiatives and equal opportunities policies. Applicant details may be disclosed to third parties to verify or obtain additional information including education institutions, current / previous employers and credit reference agencies. Credit reference agencies record these searches and you can contact us to find out which agencies we used. Unsuccessful applications may be retained to match your skills to future job opportunities. These are usually retained for up for 12 months but please let us know if you do not wish us to retain Your Information for this purpose.
 
-In providing your telephone, facsimile number, postal and e-mail address or similar details, you agree that SCB may contact you by these methods to keep you informed about SCB products and services or for any other reason. If you prefer not to be kept informed of SCB products and services, please contact SCB by [E-mail](https://web.archive.org/web/20090527083427id_/http%3A//contact-us/write-to-us/en/index.html).
+**(d) Electronic Communications**
 
-SCB reserves the right to amend its prevailing Data Protection and Privacy Statement at any time and will place any such amendments on this Web Site. This Data Protection and Privacy Statement is not intended to, nor does it, create any contractual rights whatsoever or any other legal rights, nor does it create any obligations on SCB in respect of any other party or on behalf of any party.
+If you contact us via email, we may keep a record of that correspondence.
 
-**COPYRIGHT © STANDARD CHARTERED PLC 2006. ALL RIGHTS RESERVED.**
+##### 4\. How we use Your Information
+
+We will always treat Your Information as confidential. We will use good practices to keep it secure and will otherwise abide by the relevant data protection and privacy laws.
+
+**(a) Using Your Information – Purposes**
+
+If you provide Your Information on the Website in relation to any products and services from SCB, or send us an electronic communication, we will use Your Information for the purposes ("Purposes") of providing and operating the product or service you request or responding to your electronic communication and for other related purposes that may include:
+
+  * following up on any product or service application which you have shown interest in;
+  * understanding your financial needs;
+  * conducting credit checks and assisting other financial institutions to conduct credit checks;
+  * crime or fraud detection, prevention and prosecution;
+  * debt collection;
+  * complying with laws or regulations;
+  * research and statistical analysis with the aim of improving our products and services;
+  * handling queries and complaints.
+
+
+
+Please ensure you also read the Terms and Conditions applicable to these products and services.
+
+**(b) Marketing**
+
+We generally do not use Your Information collected on this Website for marketing purposes but if you apply for products and services on the Website, Your Information may be used to inform you about other related products and services of SCB Group that may be of interest.
+
+If you do not wish to be contacted in this way please contact us at ask.us@sc.com.
+
+**(c) Disclosing Your Information**
+
+When using Your Information for the Purposes we may need to disclose it to more than one company within the SCB Group and to our agents, advisors and third party service providers ("Other Parties"). When this happens we will require the Other Parties to handle Your Information using the same level of care that we apply. We will also require them to only use Your Information according to our instructions and directions.
+
+If the Other Parties are overseas Your Information may be sent to another country including countries with weaker privacy and data protection laws than in your country of residence. We will not otherwise disclose Your Information to third parties unless we have your permission or we are under a legal or similar obligation.
+
+This means, by way of example, that Your Information may be disclosed to:
+
+  * regulators, supervisors, governments or quasi-governmental authorities in countries where we, our agents, advisors or third party service providers have a presence;
+  * agents, advisors or third party service providers under a duty of confidentiality to the SCB Group;
+  * credit reference, debt collection, anti-money laundering and fraud prevention agencies (where necessary for the Purposes).
+
+
+
+**(d) Retaining Your Information**
+
+We will retain Your Information for as long as the Purpose for which we collected it continues. It is then destroyed unless further retention is required to satisfy a legal, regulatory or accounting requirement or to protect our interests.
+
+##### 5\. Privacy, security and communications using the Internet
+
+(a) The Internet is not a secure form of communication and sending and receiving information over the Internet carries with it risks including the risk of access and interference by unauthorised third parties. It is your responsibility to maintain the secrecy of any user ID and login password you hold.
+
+(b) Information passing over the Internet may be transmitted internationally (even when sender and recipient are located in the same country) via countries with weaker privacy and data protection laws than in your country of residence. As a result, we do not accept responsibility or liability for the confidentiality, security or integrity of Your Information in connection with its transmission over the Internet.
+
+(c) In order to maintain the security of our systems, protect our staff, record transactions, and, in certain circumstances, to prevent and detect crime or unauthorised activities, we reserve the right to monitor all Internet communications including web and email traffic into and out of our domains.
+
+##### 6\. Changes to our Website Privacy Statement
+
+We update our Website Privacy Statement from time to time and ask that you regularly check this Website to make sure you are familiar with the most recent version.
+
+This Website Privacy Statement was last updated on 18 September 2012.
+
+**Copyright © Standard Chartered Bank 2013. All rights reserved.**
