@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moshimonsters.com privacy policy that was archived on 2013-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130629182402id_/http%3A//www.moshimonsters.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moshimonsters.com privacy policy that was archived on 2013-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131116010758id_/http%3A//www.moshimonsters.com/privacy) for the most accurate reproduction.*
 
 # Moshi Monsters - Privacy Policy
 
@@ -106,12 +106,6 @@ If you have any questions about security on our Web site, you can send email us 
 
 ## Privo's Privacy Assurance Program
 
-[
-
-#### Privo - Click to Verify
-
-](https://web.archive.org/linkwarning/privo "Privo - Click to Verify")
-
 Mind Candy is a participant in Privo's Privacy Assurance Program. As part of participating in the Privacy Assurance Program, Mind Candy adheres to the strict information collection, use and disclosure requirements. Privo is an independent, third party organization committed to safeguarding children's personal information collected online, and to helping parents and their children exercise control over personal information while exploring the Internet. 
 
 The seal posted on this page indicates that Mind Candy has established privacy practices and has agreed to submit to Privo's oversight and consumer dispute resolution process. If you have questions or concerns about our privacy practices, please contact us at (888) 311-9576 in the U.S., +44 20 7193 5294 outside of the U.S., or [privacy@moshimonsters.com](mailto:privacy@moshimonsters.com). If you have further concerns after you have contacted Mind Candy you can contact Privo directly at [privacy@privo.com](mailto:privacy@privo.com).
@@ -131,8 +125,3 @@ We reserve the right to modify this privacy statement at any time, so please rev
 If you have questions or suggestions, please email us at [info@moshimonsters.com](mailto:info@moshimonsters.com) or mail us at: attn: Customer Service, Mind Candy, 4th Floor Bonhill Building, 15 Bonhill Street, London EC2A 4DN, UK.
 
 Effective Date: 28/01/09
-
-  *   * UK Council for Child Internet Safety
-
-  *   *   *   * 
-
