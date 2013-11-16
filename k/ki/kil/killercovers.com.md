@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the killercovers.com privacy policy that was archived on 2013-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130604002451id_/http%3A//killercovers.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the killercovers.com privacy policy that was archived on 2013-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131116191954id_/http%3A//killercovers.com/privacy) for the most accurate reproduction.*
 
 # KillerCovers Privacy Policy
 
