@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the itrademarket.com privacy policy that was archived on 2013-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130630093258id_/http%3A//itrademarket.com/help-0317.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the itrademarket.com privacy policy that was archived on 2013-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131116043843id_/http%3A//itrademarket.com/help-0317.html) for the most accurate reproduction.*
 
 # Help Center - Itrademarket.com
 
@@ -6,27 +6,6 @@
 You may notice that some services available through our website are "Powered by" or "Provided by" other third party content or technology service providers. We contract with these third party providers to help us provide you with better value and service. To fully access and use such services, you may sometimes be required to register for them or to otherwise provide certain information and data. In order to provide you with the services in question, such information and data may have to be made available to the third party provider, who may then process or update such information and data and transmit them back to us. We are highly selective in choosing these third party providers, and they are allowed to use your information and data only for the purpose of and in connection with providing the services which we have contracted with them to provide. 
 
 **Important Notice** Although we adhere to industry standard practices to protect your personal information and confidential data, we cannot ensure that such information and data will never be disclosed in ways not otherwise described in this Privacy Policy.
-
-↑ Back to top ↑
-
- **Information relating to community members**  
-For those services which require registration, you will be asked to provide certain personal and business information. Upon registration, you will be enrolled as a member of our global community network. As a community member, you have the right to opt-out of being listed in our membership directory, which only other members and our relevant partners will be able to access.
-
-↑ Back to top ↑
-
- **Collection of information**  
-When you visit our website, we do not collect personally identifiable information about you except when you specifically and knowingly provide it. For instance, while many areas of our website are free to all users, we do require registration for some services such as Member Menu. If you decide to register for these services, or if you request information from us, you will be asked to provide certain information and details, including your name, company, title, country and e-mail address. The information you provide helps us create customized content. 
-
-Our system also logs some basic and generic information about your computer, including its: 
-
-• IP address (your computer's unique signature)   
-• Operating system (e.g. Windows NT)   
-• Browser software (e.g. Netscape Navigator)   
-
-
-
-We use this information about your computer to perform routine web site maintenance and to generate various aggregate reports for internal analysis, research and monitoring purposes, so as to help us develop and enhance our web site and services for our users.  
-
 
 ↑ Back to top ↑
 
@@ -47,6 +26,27 @@ If you have setup your browser to warn you every time a cookie is set, you can s
 
 **What if I do not accept your cookies?**   
 Some of our services or features require cookies. If you do not accept cookies on our website, you may not be able to use, access or participate in such services or features fully or at all.  
+
+
+↑ Back to top ↑
+
+ **Information relating to community members**  
+For those services which require registration, you will be asked to provide certain personal and business information. Upon registration, you will be enrolled as a member of our global community network. As a community member, you have the right to opt-out of being listed in our membership directory, which only other members and our relevant partners will be able to access.
+
+↑ Back to top ↑
+
+ **Collection of information**  
+When you visit our website, we do not collect personally identifiable information about you except when you specifically and knowingly provide it. For instance, while many areas of our website are free to all users, we do require registration for some services such as Member Menu. If you decide to register for these services, or if you request information from us, you will be asked to provide certain information and details, including your name, company, title, country and e-mail address. The information you provide helps us create customized content. 
+
+Our system also logs some basic and generic information about your computer, including its: 
+
+• IP address (your computer's unique signature)   
+• Operating system (e.g. Windows NT)   
+• Browser software (e.g. Netscape Navigator)   
+
+
+
+We use this information about your computer to perform routine web site maintenance and to generate various aggregate reports for internal analysis, research and monitoring purposes, so as to help us develop and enhance our web site and services for our users.  
 
 
 ↑ Back to top ↑
