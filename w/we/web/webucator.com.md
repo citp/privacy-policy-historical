@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webucator.com privacy policy that was archived on 2013-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130629225628id_/http%3A//www.webucator.com//about-us/privacy-policy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webucator.com privacy policy that was archived on 2013-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131116211419id_/http%3A//www.webucator.com/about-us/privacy-policy.cfm) for the most accurate reproduction.*
 
 # Customized Instructor-Led Training
 
