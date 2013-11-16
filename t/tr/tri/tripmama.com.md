@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tripmama.com privacy policy that was archived on 2013-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130517150845id_/http%3A//www.tripmama.com/default.aspx%3Ftabid%3D62) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tripmama.com privacy policy that was archived on 2013-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131116060409id_/http%3A//www.tripmama.com/default.aspx%3Ftabid%3D62) for the most accurate reproduction.*
 
 # TripMama Privacy Policy
 
@@ -6,7 +6,7 @@
 ---  
 | Introduction  
 ---  
-[](http://www.truste.org/ivalidate.php?url=www.tripmama.com&sealid=101) **TripMama.com is strongly committed to protecting your privacy.** **TripMama** is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build user’s trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the site [http://www.tripmama.com](http://www.tripmama.com/). Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. We collect your name and email address when you sign up to receive our newsletters or when you register to use our forums. If you have trouble accessing the forums, we will use this information to contact you. We do not sell, trade, share or rent your personal information to others. We keep your personal information private and secure. We do not use agents or service providers on our site.  
+[](http://www.truste.org/ivalidate.php?url=www.tripmama.com&sealid=101) **TripMama.com is strongly committed to protecting your privacy.** **TripMama** is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, organization whose mission is to build user’s trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the site [http://www.tripmama.com](http://www.tripmama.com/). Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. We collect your name and email address when you sign up to receive our newsletters or when you register to use our forums. If you have trouble accessing the forums, we will use this information to contact you. We do not sell, trade, share or rent your personal information to others. We keep your personal information private and secure. We do not use agents or service providers on our site.  
 top  
 |   
 ---  
