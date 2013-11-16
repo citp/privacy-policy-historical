@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the leupold.com privacy policy that was archived on 2013-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130531024213id_/http%3A//leupold.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leupold.com privacy policy that was archived on 2013-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131116225808id_/http%3A//www.leupold.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Leupold
+# Leupold Optics Privacy Policy - | Leupold Optics
 
 This privacy policy identifies the type of information Leupold® & Stevens, Inc., its affiliates, and subsidiaries collects from its customers and how Leupold & Stevens, Inc. uses this information. Your use of this web site may also be governed by other terms and conditions contained on separate user agreements. If you have any questions about this policy, or the manner in which Leupold & Stevens, Inc. uses personal information, we encourage you to contact us.
 
