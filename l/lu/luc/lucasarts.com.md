@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lucasarts.com privacy policy that was archived on 2013-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130628061316id_/http%3A//www.lucasarts.com/legal/privacy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lucasarts.com privacy policy that was archived on 2013-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131116122434id_/http%3A//www.lucasarts.com/legal/privacy/index.html) for the most accurate reproduction.*
 
 # LucasArts.com | Terms of Use
 
