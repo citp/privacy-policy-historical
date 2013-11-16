@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bmtcars.com privacy policy that was archived on 2012-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120901014108id_/http%3A//bmtcars.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bmtcars.com privacy policy that was archived on 2013-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131116081409id_/http%3A//bmtcars.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Car News and Reviews | bmtcars.com
 
