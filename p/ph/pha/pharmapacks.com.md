@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the pharmapacks.com privacy policy that was archived on 2013-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130425232513id_/http%3A//www.pharmapacks.com/pages.php%3Fpageid%3D10) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pharmapacks.com privacy policy that was archived on 2013-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131116204310id_/http%3A//www.pharmapacks.com/pages.php%3Fpageid%3D10) for the most accurate reproduction.*
 
 # Privacy Policy
 
-[](https://privacy-policy.truste.com/click-with-confidence/ctv/en/www.pharmapacks.com/seal_m "Validate TRUSTe privacy certification")
+[](https://privacy.truste.com/privacy-seal/Pharmapacks-LLC/validation?rid=a9f16de6-7085-4a5c-be14-cee570eaf370 "TRUSTe online privacy certification")
 
-_Effective Date: 04/15/2011_
+_Effective Date: 09/07/2013_
 
-Pharmapacks LLC. has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with TRUSTe's program requirements including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at [privacy@pharmapacks.com](mailto:privacy@pharmapacks.com). If you are not satisfied with our response you can contact TRUSTe here. The TRUSTe program and this privacy policy covers only information that is collected through www.pharmapacks.com.
+Pharmapacks LLC. has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at [privacy@pharmapacks.com](mailto:privacy@pharmapacks.com). If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint). The TRUSTe program and this privacy policy covers only information that is collected through www.pharmapacks.com.
 
 We are committed to protecting your privacy. We will share your personal information with third parties only in the ways that are described in this privacy statement. We do not sell, share or rent your personal information to third parties.
 
@@ -64,6 +64,8 @@ If you reject cookies, you may still use our site, but your ability to use some 
 
 The use of cookies by our partners, affiliates and service providers is not covered by our privacy statement. We do not have access or control over these cookies.
 
+Our third party partners employ clear gifs (a.k.a. Web Beacons/Web Bugs), images, and scripts that help them better manage content on our site. We do [not] tie the information gathered to our Customers’ or Users’ personally identifiable information.
+
 **Log Files**
 
 As is true of most Web sites, we gather certain information automatically and store it in log files. This information includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and clickstream data.
@@ -71,6 +73,11 @@ As is true of most Web sites, we gather certain information automatically and st
 We use this information, which does not identify individual users, to analyze trends, to administer the site, to track users' movements around the site and to gather demographic information about our user base as a whole.
 
 We use a third-party tracking service that uses cookies log files to track non-personally identifiable information about visitors to our site in the aggregate, including site usage, traffic sources, visitor segmentation by browser and geography, and volume statistics, to improve customer experience and to target outreach efforts more effectively.
+
+**Behavioral Targeting/ Re-Targeting**
+
+We partner with a third party ad network to either display advertising on our Web site or to manage our advertising on other sites.  Our ad network partner uses cookies and Web beacons to collect non-personally identifiable information about your activities on this and other Web sites to provide you targeted advertising based upon your interests.  If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by clicking [Here](http://preferences-mgr.truste.com/).  Please note this does not opt you out of being served advertising.  You will continue to receive generic ads. **  
+**
 
 **Links to Other Sites**
 
@@ -80,9 +87,13 @@ We encourage you to be aware when you leave our site and to read the privacy sta
 
 This privacy statement applies only to information collected by this Web site.
 
+**Social Media Widgets**
+
+Our Web site includes Social Media Features, such as the Facebook Like button [and Widgets, such as the Share this button or interactive mini-programs that run on our site]. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it.
+
 **Customer Reviews**
 
-We post customer reviews on our web site which may contain personally identifiable information. When a customer chooses to post a review of a product, we ask for their. If you would like to request to have your product review removed from our site you may do so my contacting us at [customercare@pharmapacks.com](mailto:customercare@pharmapacks.com).
+We post customer reviews on our web site which may contain personally identifiable information. When a customer chooses to post a review of a product, we may ask for their information such as name and email address. If you would like to request to have your product review removed from our site you may do so my contacting us at [customercare@pharmapacks.com](mailto:customercare@pharmapacks.com).
 
 **Public Forums**
 
@@ -96,4 +107,4 @@ We may update this privacy statement to reflect changes to our information pract
 
 If you have any questions/comments about privacy, you should contact us at [privacy@pharmapacks.com](mailto:privacy@pharmapacks.com) or via postal mail at:
 
-Pharmapacks, LLC 6-53 152nd street Whitestone, NY 11357.
+Pharmapacks, LLC 161-19 29th Avenue, 2nd fl., Flushing, NY 11358
