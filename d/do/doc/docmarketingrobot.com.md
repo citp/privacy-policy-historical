@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the docmarketingrobot.com privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530110300id_/http%3A//docmarketingrobot.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the docmarketingrobot.com privacy policy that was archived on 2013-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131116055703id_/http%3A//docmarketingrobot.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Document Market Robot | Document Market Robot
+# Privacy Policy | Document Market Robot
 
 **What information do we collect?**
 
