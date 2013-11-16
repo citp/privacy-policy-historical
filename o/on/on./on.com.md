@@ -1,73 +1,71 @@
-> *The following text is extracted and transformed from the on.com privacy policy that was archived on 2007-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070521091650id_/http%3A//www.wealthymen.com/privacy.php%3Fprg%3D1%26id%3Dnoadvert) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the on.com privacy policy that was archived on 2013-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131116105019id_/http%3A//on.com/privacy) for the most accurate reproduction.*
 
-# WealthyMen | Privacy Policy
+# Privacy Policy - ON.com
 
-|  | 
+Your privacy is of utmost importance to us. This Privacy Policy, as may be amended from time to time, governs your use of On.com (collectively, the “Site”, “we” or “us”). As noted below, please be aware that we may change our Privacy Policy in the future and it is your obligation to review this Privacy Policy from time to time and the effective date listed with it. 
 
-|  |   
-**WEALTHYMEN PRIVACY POLICY**  
----  
+_Minimum Age Requirement_
+
+By using or viewing the Site or the Service, you represent and warrant that you are at least 18 years old or the age of majority in your jurisdiction, and are not prohibited by law from using the Site or Service. If you use of the Site or Service in violation of this section, you may be subject to legal action as a result. 
+
+_California Residents_
+
+If you are a California resident, you have the right to receive: a) information identifying any third party company(ies) to whom we may have disclosed, within the past calendar year, personal information pertaining to you and your family for the company's direct marketing purposes; and b) a description of the categories of personal information disclosed. To obtain such information you must make a request in writing. Your request must include your name and email address, the URL for the website you visited, and a return address or it will not be processed. We will not honor such requests more than once per calendar year.
+
+Please mail your request to:  
+BRYN & ASSOCIATES, P.A.  
+2 SOUTH BISCAYNE BLVD, SUITE 2680  
+MIAMI, FL 33131 
+
+_Disclosures Made as Necessitated by Law or Safety_
+
+Your name, physical address, phone number and password are considered confidential. However, all information you provide to us may be shared with other third parties as necessary to comply with applicable law, to cooperate with law enforcement and the court system. 
+
+_Information That May Be Collected From You_
+
+During sign up we require that you provide certain information which may include Account Data (i.e., username, email address, gender, profile preferences, profile photo(s) and password), Financial Data (i.e., credit card/billing information, your name, and physical address) along with “Demographic Information”. Demographic Information may include IP address(es), referring website information, Internet browser used, zip code and/or other data regarding search history, browsing history, registration and user history. 
+
+Financial Data will not be stored by us but will be stored by our third party payment processor, as such it is important that you review the privacy policy for such third party credit card processor prior to providing this information. Your address and name will only be shared as necessary to complete any order placed by you. 
+
+_How Is This Information Used?_
+
+Registration Data 
+
+We use your Account Data (except your email and password) to enable other users of the Site to find your user profile. We may use “cookies” and Demographic Information to improve your experience on the Site by allowing us to tailor your experience on the Site according to your preferences and what we think may appeal to you based on such Account and Demographic Information. Aggregate, non-individual Demographic Information concerning our users may be shared with third parties with whom we have a direct or indirect relationship who may offer products or services we believe may be of interest to you. 
+
+We may also share aggregate, non-individual Demographic Information with third parties for the purposes of analyzing usage data, maintaining servers and other purposes relating to maintaining and improving the Site. 
+
+Account Data 
+
+Your user profile will display the information that you choose to share about yourself with other users of the Site. You should consider all information posted on or through your profile to be public information which will be readily available to visitors to the Site. 
+
+Your public user profile will contain a list of your preferences and your photo(s), if any. 
+
+On your user profile page you may add, delete and make changes to your user profile information, which may be seen by other users of the Site. 
+
   
-  
-Webdate Incorporated ('we' or 'Webdate' or 'Wealthymen') have adopted this privacy policy to protect your personal information and to let you know how we might use it. This privacy policy only applies to activities you perform on the Webdatemobile.com website, transactions for purchasing Webdate subscription services, and activities or communications that occur using the Webdate service (collectively known as the Service) and does not apply to any other Website or offline point of contact between Wealthymen.com, Webdate, or any other company, and consumers. This policy was implemented on January 1, 2006 this policy may change from time-to-time, please periodically review this page. Each time you use the Service or provide us with information, by doing so you are accepting the practices described in this privacy policy at that time.   
-  
-**  
-Your IP Address**
+_You Are Responsible For Information You Provide to Third Parties_
 
-Like most e-commerce Websites, each time use the Service, we automatically collect your IP address and the web page from which you came. In order to administer and optimize the Service for you and to diagnose problems, we use your IP address to help identify you and to gather broad demographic information about you.   
-  
-**  
-Cookies**
+Financial Data 
 
-Like most Websites, the Service uses cookies to keep track of your purchases and other activity on the website and enhance your experience. We also use cookies to deliver content specific to your interests, to save your password, and if you choose, to save other personal and financial information so you do not have to reenter it each time you use the Service. Third party advertisers on the Site may also place or read cookies on your browser. If you wish to disable these cookies, the "help" portion of the toolbar on most browsers will tell you how. However, if you set your browser to disable cookies, you may not be able to access certain aspects of the Service.   
-  
-**  
-Information We Collect From You**
+We process credit card transactions via industry standard encryption through third party processors, which processors only use your information for that purpose. Financial Data is considered private information and will only be stored by our third party payment processors, subject to the rules and policies of such third party. Financial or other Data provided by you to any companies or websites advertising on the Site or in response to advertisements that may appear in emails sent to you by the Site are not governed by this Privacy Policy. Any information provided by you to a third party, and any transaction with such a third party, is subject to that third party’s terms and conditions and privacy policy. 
 
-In order to operate the Service and to provide you with information about products or services that may be of interest to you, we may collect "personal information" (i.e. information that could be used to contact you directly without using the service" demographic information" (i.e. information that you submit, or that we collect, that is neither personal information nor financial information; this may include, but is not limited to, zip code, postal code, hometown, gender, username, age/birth date, purchase history information, browsing history information, searching history information, registration history information, and the content of communications between you and other members over the Service), subject to the rest of this paragraph. Demographic information is divided into two categories: 1) "non-public information", which consists of purchase history information and one-on-one communications between you and other users of the Service; and 2) "public information", which consists of all other demographic information. We ask that you do not enter personal information or financial information into your Profile (for example, dont use your address or passcode as your username, or include your name or address in your written responses), because if you do then it may be posted publicly on the Service, and the information will then be treated as "demographic information" that is "public information." Please note that nowhere on the Service do we knowingly collect personal information from children under the age of 18, as we require that all users represent to us that they are at least 18 years old.   
-  
-**  
-Information Other Websites Collect From You**
+Information Shared with Members 
 
-On the Service websites, we may place links to other Websites operated by other parties. Some of these other Websites contain our brand names and trademarks and other intellectual property that we own; others do not. When you click on these links and visit these other Websites, regardless of whether or not they contain our brand names, trademarks and other intellectual property, you need to be aware that we do not control these other Websites or these other Websites business practices, and that this privacy policy does not apply to these other Websites. Consequently, the operators of these other Websites may collect different kinds of information about you, and may use and disclose that information in different ways than we would if it were collected on the Service. We encourage you to review their privacy policies and remind you that we will not be responsible for their actions.   
-  
-**  
-How We Use Personal Information**
+You are responsible for any information you provide, post or make available through the Site. This Privacy Policy shall serve as notice to you of what information will be made publically available. You agree that it is your sole responsibility to carefully select the information you upload/post to the Site and what information you choose to make public or otherwise share with members of the Site. You acknowledge that we are not in any way responsible for information you share through your profile, messages to other member, chat services or any other means. What information you share and with whom is your sole responsibility and we cannot in anyway control how any third party may use such information and/or photo(s) once you have chosen to share such information and/or photo(s). 
 
-Webdate is committed to treating your personal information with the highest degree of care. Your email address and personal information is not shared with any third parties and is solely used to send email communication from Webdate. Your personal information will not be resold to any third party. We use your email address and your other personal information to help us efficiently operate the Service, to contact you in connection with your transactions and other activities on the Service (including, but not limited to, confirmation emails or important news that could affect your relationship with Wealthymen.com), and to forward messages to you from other Wealthymen.com users. These types of communications are known as "Operational Communications." In some cases, Operational Communications may also contain commercial messages, such as banner ads and special offers. 
+_Emails From Us and Use of Your Email Address_
 
-We also use personal information to send you newsletters, information, offers and other promotional materials for Wealthymen.coms or third parties goods or services. We attempt to send you offers that are of value to you, such as discounts, exclusive offers or special event information. The Service provides you with options to decline to receive communications from Wealthymen.com (other than those contained in Operational Communications). Some of these options may only be for a certain category of communications; others may be more general. By posting a profile on the Service, you are opting in to receive messages from other Wealthymen.com members by email or text message. To stop receiving messages from other Wealthymen.com members, change your account settings on Wealthymen.com. 
+Your email address will be used by us and by our advertising partners to contact you when we have special offers or other information to provide you. Additionally we may share your email address with our advertising partners or with third parties pursuant to a direct or indirect agreement between us and such advertising partners and/or third parties. Information from us may include, without limitation, new services offered by us, information relating to your account and other information relating to your use of the Site. Our advertising partners and/or third parties may email you from time to time regarding various offers or services which are unrelated to us. We, our advertising partners and/or third parties may send you emails prior to and after you have terminated your membership to the Site until such time as you advise the appropriate sender of such emails, in accordance with the procedures explained below, that you no longer wish to receive email. If you no longer wish to receive emails from us please notify us by using this link: [Unsubscribe](http://clk.members.on.com/index.php?a=tracking.unsubscribe), or send us an email to **[support@on.com](mailto:support@on.com)**. We fully comply with the federal CAN-SPAM Act and as such all emails from us will always, among other required disclosures, have a place for you to opt out of receiving further email correspondence. Please note we will never send you an email directly or indirectly without your consent. **Please immediately report to us any email you may receive, without your prior authorization, that purports to promote the Site or relates to the Site in any other way. To make a report, please forward a copy of the email to: email.**
 
-To operate the Service, including processing your transactions and supporting your activities on the Service, we may share your personal information with our agents, representatives, contractors and service providers so they can provide us with support services such as authorization of credit card transactions, email origination, receipt or support services, customer relationship management services, order fulfillment and sweepstakes and promotional fulfillment. We require these entities not to use your information for any other purpose. 
+_Advertisements_
 
-By purchasing, or registering or making reservations for, products or services offered or sponsored by third parties on the Service, or electing to receive communications (such as emails or magazine subscriptions) or electing to participate in contests, sweepstakes or other programs (such as discount or rewards programs), offered or sponsored by third parties on the Service, you consent to our providing your personal information to those third parties. Those third parties may use your personal information in accordance with their own privacy policies. You will need to contact those third parties to instruct them directly regarding your preferences for the use of your personal information by them. Additionally, you agree that we may use and disclose all such information so submitted to such third parties in the same manner in which we are entitled to use and disclose any other information you submit to us. 
+We may utilize the services of outside advertising agencies to advertise our services and goods and/or services offered by third parties. Either we or our advertising agencies may use cookies and/or “action tags” to measure advertising effectiveness on an anonymous basis. Some emails from us may contain advertisements from businesses unrelated to the Site. Should you elect to visit any such advertiser’s website, we cannot, and do not, make any representations about applicable terms and conditions or privacy policies for such advertiser’s website. Also, we cannot, and do not, make any representations about the applicable terms and conditions or privacy policies of any business with advertisements appearing anywhere on the Site or brought to your attention through the Site or any email from the Site or its advertising partners, regardless of whether or not there may be any mention of, or references to, the Site on such business’s website. 
 
-In some cases, we may enter into a promotional relationship with another company in which we prominently display their brand name or trademarks on pages of the Service. These pages are known as "Co-Branded Pages" and these companies are known as Co-Branded Companies. If the page on which you submit information is a Co-Branded Page, or was accessed by clicking on a link on a Co-Branded Page, then we may share your personal information with the associated Co-Branded Company. Co-Branded Companies may use your personal information in accordance with their own privacy policies. You will need to contact Co-Branded Companies to instruct them directly regarding your preferences for the use of your personal information by them. Additionally, you agree that we may use and disclose all such information so submitted to such Co-Branded Companies in the same manner in which we are entitled to use and disclose any other information you submit to us. Some Co-Branded Pages may contain an action tag (also known as a Web Beacon or a 1 pixel .gif file) that a third party, may use to read cookies that it, or its clients, may have placed on your browser at other (non-Wealthymen.com) web sites before your visit to Wealthymen.com. This technology is used to measure the effectiveness of advertisements on such other Websites that promote Co-Branded Pages. Further, such other third parties may use the information collected through this technology to learn more about your visits to this Service and other Websites in order to provide advertisements about goods and services of interest to you. 
+_Changes to the Privacy Policy_
 
-Any third party with whom we are allowed to share your personal information is authorized to use your personal information in accordance with our contractual arrangements with such third parties and in accordance with their own privacy policies, over which we have no control, and you agree that we are not responsible or liable for any of their actions or omissions. Those who contact you will need to be instructed directly by you regarding your preferences for the use of your personal information by them. 
+We may change this Privacy Policy at any time. You agree that we are under no duty to send you notice of any such change. Instead it is your responsibility to check this Privacy Policy from time to time. No change in the Privacy Policy will be effective until thirty (30) days after it is posted, unless such change to the Privacy Policy has clear language indicating otherwise. 
 
-Please read the information below under the heading "Special Cases in which we Share Personal and Financial Information" to learn more ways in which we may share your personal information.   
-  
-**  
-How We Use Public Information and Other Demographic Information**
+_Changes in Ownership of the Site_
 
-We may review all demographic information. We may use public information to enable other users to find your profile, to determine whether they are a match for you and to communicate with you. We may use demographic information to tailor the Service and communications to your interests. We may also share demographic information with advertisers on an anonymous and aggregated basis (i.e., without telling the advertisers your identity). One of the reasons we may do this is to increase the likelihood that our advertisers goods and services will appeal to Wealthymen.coms users, so that we may target specific ads at specific demographic groups. Our sharing of demographic information with advertisers is anonymous (i.e., we do not tell advertisers which particular Wealthymen.com users are members of which demographic groups), subject to the rest of this privacy policy. When you respond to an advertisement, however, we ask you to remember that if that ad that is targeted to a demographic group and you decide to give the advertiser your personal information, then the advertiser may be able to identify you as being a member of that demographic group. Please also be aware that when we disclose your financial information or personal information to a Co-Branded Company, as described above, we may also disclose to that Co-Branded Company your demographic information, other than the content of one-on-one communications between you and other members. Please also be aware that we may disclose your demographic information on a non-anonymous basis as described above in the paragraph titled "Special Cases in which we Share Personal and Financial Information." Also, to read further details about how we may use your public information, see our [Terms of Use](https://web.archive.org/terms.php?prg=1&id=noadvert).  
-  
-**  
-Changing our Privacy Policy for Previously Gathered Information**
-
-If at any point we decide to use particular personally identifiable information in a manner different from that stated at the time it was collected, we will notify users by way of an email or by providing 30 days notice on the Service. Please note that we will continue to have the right to change our privacy policy and practices, and how we use your personally identifiable information, without notice, as described in the first paragraph of this Privacy Policy, provided that such changes shall only apply to information gathered on or after the date of the change.   
-  
-**  
-How You Can Access and Update Your Email Preferences, Personal Information and Public Information**
-
-We give you the opportunity to opt-out of certain communications and modify personal information or demographic information you have provided to us, and to hide demographic information from, or make demographic information visible to, the public users of the Service, at anytime by going to the Account Settings in your Wealthymen.com profile of the Service. Please be aware that it may take several hours for the changes you make to take effect on the public areas of the Service. We thank you for your patience. Please note that changing or deleting your information in the Account Settings section of the Service, or otherwise opting-out of receipt of email communications from Wealthymen.com, will only change or delete the data in our database for purposes of future activities on the Service and for managing future communications from Wealthymen.com. These changes and deletions will not change or delete emails or information that we may have already forwarded to other users or credit card companies or any other third parties, all as provided above in this privacy policy. 
-
-If you have any questions or concerns about this privacy policy, the practices of the Service, or your dealings with the Service, you can contact us at webmaster@wealthymen.com. You can also send us mail to: Privacy Officer, Wealthy Men, 705 Washington Ave 2nd Floor, Miami Beach, FL. 33139.  
-  
-   
-  
-  
-|   
----  
-| Copyright ©2006 WealthyMen.com, all rights reserved. | [](https://web.archive.org/?prg=1&id=noadvert) | [Webmasters](http://www.greatpersonals.com/) | [Privacy Policy](https://web.archive.org/privacy.php?prg=1&id=noadvert) | [Terms & Conditions](https://web.archive.org/terms.php?prg=1&id=noadvert) | [Help](https://web.archive.org/help.php?prg=1&id=noadvert) |  
+The Site is a growing online service. As such, we may have the occasion to buy or sell assets, including, but not limited to, in connection with a merger, dissolution, and transfer of ownership. Depending upon the nature of the transaction, we may share any and all data provided by you to us with third parties, as necessary to initiate, investigate, facilitate and/or complete any such transaction(s). 
