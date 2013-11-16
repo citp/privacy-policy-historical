@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the the-big-bang-theory.com privacy policy that was archived on 2013-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130531082744id_/http%3A//the-big-bang-theory.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the the-big-bang-theory.com privacy policy that was archived on 2013-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131116155729id_/http%3A//the-big-bang-theory.com/privacy) for the most accurate reproduction.*
 
 # The Big Bang Theory Privacy Policy
 
@@ -10,21 +10,21 @@ The Big Bang Theory Site, like most sites, collects log files of visitors' activ
 
 Geo-location data from your IP address is also collected. This is usually your country and city, although in most cases is only accurate to a state/county level. This information does not reveal your exact location to us.
 
-The Big Bang Theory Site, like many sites with interactive areas, will collect **potentially personal information** if you provide it to us. This data is only collected by you filling out a form in our forums, contact system or other interactive areas. This data may include a username, your e-mail address or your password (encrypted and secured to industry standards). Interactive areas of the site, such as contests, may provide additional information in their own privacy policy.
+The Big Bang Theory Site, like many sites with interactive areas, will collect **potentially personally identifiable information** if you provide it to us. This data is only collected by you filling out a form in our forums, contact system or other interactive areas. This data may include your name, your username, your e-mail address or your password (encrypted and secured to industry standards). Interactive areas of the site, such as contests, may provide additional information in their own privacy policy.
 
 What we do with it:
 
 Log files are used to analyze traffic to this website. The information in our log files, which is not personal information, is shared with a few select companies.
 
-Personal information, such as your e-mail address, is not shared with anybody outside of this site. You may, in the process of using this site, provide your information to third parties acting on our behalf. In all instances it will be made clear who is operating the service should you wish to consult their privacy policies.
+Personal information, such as your e-mail address, is not shared with anybody outside of this site, except where noted. You may, in the process of using this site, provide your information to third parties acting on our behalf. In all instances it will be made clear who is operating the service should you wish to consult their privacy policies.
 
 Who we share it with:
 
-We share the anonymous data with ValueClick Media, Google Analytics, Google Adsense & Quantcast. They may use non-personal information related to your visits to other participating sites to target advertising based on your generic interests ("behavioral advertising").
+The following companies are able to collect anonymous data through site: ValueClick Media, Google Analytics, Google Adsense, Amazon.com, Amazon.co.uk, Media.net, and Quantcast. They may use non-personal information related to your visits to this and other participating sites to target advertising based on your generic interests ("behavioral advertising"). This broad demographic information is also made available to this site, so we can better understand the range of people who visit this site.
 
-You can [**opt-out of behavioral advertising at the Network Advertising Initiative website**](http://www.networkadvertising.org/managing/opt_out.asp). This will stop behavioral advertisement targeting by Google, ValueClick Media, Quantcast & other publishers. You may also [opt-out of Google's program on their website](http://www.google.com/ads/preferences/view).
+You can [**opt-out of behavioral advertising at the Network Advertising Initiative website**](http://www.networkadvertising.org/managing/opt_out.asp). This will stop behavioral advertisement targeting by Google, ValueClick Media, Quantcast and other listed publishers. You may also [opt-out of Google's program on their website](http://www.google.com/ads/preferences/view).
 
-We do not share personal information with anybody outside of this website, except when required to by law or where it is expressly noted.
+We do not share personal information with anybody outside of this website, except when required to by law or where it is otherwise noted.
 
 Where the data is held:
 
@@ -39,9 +39,9 @@ We aim to delete anonymous log files within 6 months. Information you submit to 
 
 The use of cookies:
 
-This site uses 'cookies' for a number of purposes. We have "anonymous" cookies which are used by the website script to hold non-personal information. Examples of non-personal cookies are: which country you are visiting from, so we can serve local content; whether you've visited before; whether you've voted on a poll or commented on a story. Our forums also use cookies to keep your username logged in or remember which threads you have read.
+This site uses 'cookies' for a number of purposes. Examples of non-personal cookies are: which country you are visiting from, so we can serve local content; whether you've visited before; whether you've voted on a poll or commented on a story. Our forums also use cookies to keep your username logged in or remember which threads you have read.
 
-Companies who provide services for us may place cookies on your computer also. These cookies track viewing behaviour across this site and, potentially, other sites in their network for the purposes of advertising or statistic gathering. The information they collect through, or on behalf of, this website, is not personally identifiable. You should consult their relevant privacy policies for more information.  
+Companies who provide services for us may place cookies on your computer also. These cookies track viewing behaviour across this site and other sites in their network for the purposes of advertising or statistic gathering. The information they collect through, or on behalf of, this website, is not personally identifiable. You should consult their relevant privacy policies for more information.  
 
 
 Any questions?
