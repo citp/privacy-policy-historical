@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the drwhitaker.com privacy policy that was archived on 2013-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130513012022id_/http%3A//www.drwhitaker.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drwhitaker.com privacy policy that was archived on 2013-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131116033515id_/http%3A//www.drwhitaker.com/privacy-policy) for the most accurate reproduction.*
 
-# Home Page Home Page Privacy Policy at DrWhitaker.com
+# Privacy Policy
 
   
 At drwhitaker.com it is quite important to us that we protect your privacy. 
