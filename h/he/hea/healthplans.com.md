@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the healthplans.com privacy policy that was archived on 2013-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130524000118id_/http%3A//www.healthplans.com/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthplans.com privacy policy that was archived on 2013-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131116054727id_/http%3A//www.healthplans.com/about-us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | HealthPlans.com
 
