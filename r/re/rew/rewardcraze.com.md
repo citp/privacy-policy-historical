@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the rewardcraze.com privacy policy that was archived on 2013-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130423164909id_/http%3A//rewardcraze.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rewardcraze.com privacy policy that was archived on 2013-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131116213203id_/http%3A//www.rewardcraze.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Reward Craze
+# Privacy Policy | RewardCraze
 
-## Privacy Policy 
+## Privacy Policy
 
 ### General
 
@@ -28,7 +28,7 @@ We are obliged to:
 We have the right to:
 
   * Communicate with you so long you have opted to receive emails from us with regards to RewardCraze updates, Newsletters, Third party Emails, and Surveys.
-  * Capture data whether on RewardCraze website or while visiting Third party websites through us.
+  * Capture data whether on RewardCraze or while visiting Third party websites through us.
   * Use data we captured for different purposes
   * Sell data only in aggregate form, without personal information
 
@@ -38,8 +38,8 @@ We have the right to:
 
 We will use cookies to facilitate:
 
-  * Logging in RewardCraze website
-  * Communication between RewardCraze website and you
+  * Logging in to RewardCraze
+  * Communication between RewardCraze and you
   * Administration of your account
   * Improve our services and Adapt to your needs
   * Collecting and Spending points
