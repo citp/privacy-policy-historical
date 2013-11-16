@@ -1,12 +1,14 @@
-> *The following text is extracted and transformed from the musicsubmit.com privacy policy that was archived on 2009-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090501162515id_/http%3A//www.musicsubmit.com/privacypolicy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the musicsubmit.com privacy policy that was archived on 2013-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131116212019id_/http%3A//www.musicsubmit.com/public.privacy.cfm) for the most accurate reproduction.*
 
-# Music Promotion and internet publicity for musicians
+# MusicSUBMIT | Music Promotion and internet publicity for indie musicians
 
-MusicSUBMIT Corporation ("MusicSUBMIT ") has created this web site to provide an online platform for musicians, music promoters and other music professionals.  
+MusicSUBMIT LLC ("MusicSUBMIT") has created this web site to provide an online platform for musicians, music promoters and other music professionals.  
 
   To assist you in using our www. MusicSUBMIT.com web site (the "Web Site" or the "Site"), and to ensure a clear understanding of the relationship arising from your use of our Site, we have created a Privacy Policy and a set of 
 
-[_Terms and Conditions of Use_](http://www.sonicbids.com/about/terms.asp). Our Privacy Policy explains how we protect and treat contact and other information you provide to us through the Site, and our Terms and Conditions of Use govern your use of our Site generally. Please read our Privacy Policy and our Terms and Conditions of Use carefully \- they impose legal obligations on you. By using or accessing our Site, you are acknowledging that you have read and understood these terms and agree to be legally bound by them. 
+[_Terms and Conditions of Use_](http://www.sonicbids.com/about/terms.asp)
+
+. Our Privacy Policy explains how we protect and treat contact and other information you provide to us through the Site, and our Terms and Conditions of Use govern your use of our Site generally. Please read our Privacy Policy and our Terms and Conditions of Use carefully \- they impose legal obligations on you. By using or accessing our Site, you are acknowledging that you have read and understood these terms and agree to be legally bound by them. 
 
 **Privacy Policy**
 
@@ -115,9 +117,9 @@ By using our Web Site, you consent to our collection and use of information, in 
   **8\. Contact Us**    
 You may contact us, for any reason, by e-mail as follows:  
 
-[ _support@MusicSUBMIT.com_](mailto:info@sonicbids.com)
+[ _support@MusicSUBMIT.com_](mailto:support@musicsubmit.com)
 
 **You may contact us by mail as follows:**    
-MusicSUBMIT Corporation   
-650 Pennsylvania Ave #25   
-Miami Beach, FL 33139
+MusicSUBMIT LLC   
+26 W. 90th St., Suite 2   
+NY, NY 10024
