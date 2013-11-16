@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the perthnow.com.au privacy policy that was archived on 2013-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130517015159id_/http%3A//www.perthnow.com.au/help/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the perthnow.com.au privacy policy that was archived on 2013-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131116020241id_/http%3A//www.perthnow.com.au/help/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy | Perth Now
 
-**STATEMENT REGARDING PRIVACY POLICY**
-
-Nationwide News Pty Ltd, News Limited and its related companies (News) recognise the importance of protecting the privacy of personally identifiable information collected about our customers.  For the purposes of this Privacy Statement, the word customers includes visitors to our web sites, subscribers to and users of our services, purchasers of our products and advertising customers. 
+News Limited and its related companies (News) recognise the importance of protecting the privacy of personally identifiable information collected about our customers.  For the purposes of this Privacy Statement, the word customers includes visitors to our web sites, subscribers to and users of our services, purchasers of our products and advertising customers. 
 
 We are bound by the National Privacy Principles in the Privacy Act 1988 (Cth) in relation to the handling of personal information.  Where appropriate we will handle personal information relying on the media exemption (but complying with the Australian Press Council Privacy Standards), related bodies corporate exemption and the employee exemption in the Privacy Act.
 
@@ -12,11 +10,11 @@ We are bound by the National Privacy Principles in the Privacy Act 1988 (Cth) in
 
 We collect personal information when we provide our services to you.  Generally we will tell you why we are collecting information when we collect it and how we plan to use it or these things will be obvious when we collect the information.  We usually collect personal information directly from you although sometimes we may use agents or service providers to do this for us.  We may also acquire lists from other sources, both from other companies and from other public documents.  We may automatically collect personal information by collecting and tracking the unique device identifier or the universally unique identifier of the devices you use to access our services. 
 
-If you access or log-in to one of our services through a third party social media service or connect your use of our service to a third party social media service, the information we collect may also include your user ID and/or user name associated with that social media service, any information or content you have permitted the third party social media service to share with us, such as your profile picture, email address or friends lists, and any information you have disclosed in connection with that social media service.  We do not collect your passwords other than in relation to our own services.  When you access our services through third party social media services or when you connect your use of our service to third party social media services, you are authorizing us to collect, store, and use such information and content in accordance with this Privacy Policy.    
+If you access or log-in to one of our services through a third party social media service or connect your use of our service to a third party social media service, the information we collect may also include your user ID and/or user name associated with that social media service, any information or content you have permitted the third party social media service to share with us, such as your profile picture, email address or friends lists, and any information you have disclosed in connection with that social media service.  We do not collect your passwords other than in relation to our own services.  When you access our services through third party social media services or when you connect your use of our service to third party social media services, you are authorizing us to collect, store, and use such information and content in accordance with this Privacy Policy.   
 
 **Use of Information**
 
-We usually collect personal information such as your name, address, telephone number, and in some instances, your financial details.  When you are online, we collect information regarding the pages within our network which you visit and what you click on.  As a general rule we do not collect sensitive information.  However, if we do, it will usually be for the purposes of providing our goods or services and if the law requires us to, we will seek your consent to collect it.  
+We usually collect personal information such as your name, address, telephone number, and in some instances, your financial details.  When you are online, we collect information regarding the pages within our network which you visit and what you click on.  As a general rule we do not collect sensitive information.  However, if we do, it will usually be for the purposes of providing our goods or services and if the law requires us to, we will seek your consent to collect it. 
 
 We use your information to provide our services (which on digital platforms may include the display of personalised content and advertising) to you, to fulfil administrative functions associated with these services, for example billing, credit and account management, to enter into contracts with you or third parties and for marketing and client relationship purposes.  Where your personal information is contained within an advertisement which we publish for you, we may also use your information for publication of that same advertisement in other media, in accordance with the terms and conditions of the initial publication.  Where your personal information is contained in a user generated post or in a communication to an editor or journalist, we may publish your name and suburb to identify you as the author of the comment/correspondence if we choose to publish your comment/correspondence in any media. 
 
@@ -28,9 +26,9 @@ We may disclose your personal information in order to comply with Australian or 
 
 **Use by Third Parties**
 
-News may disclose your information to its service providers (including technical infrastructure providers) and contractors (including mail houses or debt collection agencies) from time to time but only to help us to provide, improve and market our goods and services.  We may also share your information with third parties who provide prizes for competitions or reader offers.  If we do any of these, we generally require the third parties to protect your information at least to the same degree that we do.  
+News may disclose your information to its service providers (including technical infrastructure providers) and contractors (including mail houses or debt collection agencies) from time to time but only to help us to provide, improve and market our goods and services.  We may also share your information with third parties who provide prizes for competitions or reader offers.  If we do any of these, we generally require the third parties to protect your information at least to the same degree that we do. 
 
-If you have consented to us doing so, News may also share your information with a third party for the purpose of enabling those third parties to contact you with marketing messages.  
+If you have consented to us doing so, News may also share your information with a third party for the purpose of enabling those third parties to contact you with marketing messages. 
 
 **Use of Aggregate Data**
 
@@ -42,13 +40,13 @@ News may use personally identifiable information in aggregate form to improve ou
 
 News strives to ensure the security, integrity and privacy of personally identifiable information of our customers.  We use a variety of physical and electronic security measures including restricting physical access to our offices and firewalls and secure databases to keep personal information secure from misuse, loss or unauthorised use or disclosure.
 
-Unfortunately, no data transmission over the Internet can be guaranteed to be totally secure.   
-**  
-Access to Personal Information**
+Unfortunately, no data transmission over the Internet can be guaranteed to be totally secure. 
 
-You have a right to access most personal information we hold about you and if we deny access in some circumstances we will tell you why.  
+**Access to Personal Information**
 
-To request access, please contact our privacy officer as set out at the end of this document.  
+You have a right to access most personal information we hold about you and if we deny access in some circumstances we will tell you why. 
+
+To request access, please contact our privacy officer as set out at the end of this document. 
 
 **Public Information**
 
@@ -72,6 +70,13 @@ Whenever you voluntarily disclose personal information over the Internet that th
 
 **Further information**
 
-Please contact our Privacy Officer to ask for access to your information or if you have a complaint concerning your information privacy or if you would like more information about our approach to privacy.  
+Please contact our Privacy Officer to ask for access to your information or if you have a complaint concerning your information privacy or if you would like more information about our approach to privacy. 
 
-Privacy Officer, Perth Sunday Times, Perth Now
+Privacy Officer, News Limited  
+[privacy@news.com.au](mailto:privacy@news.com.au)  
+2 Holt Street, Surry Hills, NSW 2010  
++612 9288 3000
+
+For enquiries not relating to privacy please call Customer Support on 1300 MY NEWS (1300 69 63 97) or email Customer Support at [newsplussupport@news.com.au](mailto:newsplussupport@news.com.au).
+
+We may amend our privacy policy from time to time and personal information held by us will be governed by the most recently stated policy.  We will post all changes on this page so you should revisit this page from time to time to see any changes.  The date of the last update will inform you as to whether there have been changes since your last visit.
