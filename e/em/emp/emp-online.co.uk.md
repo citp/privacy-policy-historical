@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the emp-online.co.uk privacy policy that was archived on 2013-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130628192735id_/http%3A//www.emp-online.co.uk/ter_dataprotection) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the emp-online.co.uk privacy policy that was archived on 2013-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131116155858id_/http%3A//www.emp-online.co.uk/ter_dataprotection) for the most accurate reproduction.*
 
 # Terms of delivery - EMP Mail Order UK Ltd. ::: The Heavy Metal Mailorder ::: Merchandise, Shirts and more!
 
