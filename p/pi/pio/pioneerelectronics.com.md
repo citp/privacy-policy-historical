@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pioneerelectronics.com privacy policy that was archived on 2013-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130529015858id_/http%3A//www.pioneerelectronics.com/PUSA/AboutPioneer/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pioneerelectronics.com privacy policy that was archived on 2013-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131116014805id_/http%3A//www.pioneerelectronics.com/PUSA/AboutPioneer/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy | Pioneer Electronics USA
 
@@ -52,6 +52,6 @@ Pioneer does not provide products or services to children or knowingly collect o
 
 **What if I have questions?**
 
-If you have any questions about this Privacy Policy or information collected about you, please write to us:  Pioneer Electronics (USA) Inc., Internet Team, 1925 East Dominguez Street, Long Beach, CA 90810.  Questions regarding this Privacy Policy can also be directed to:  Privacy(dot)Policy(at)pioneer-usa.com.
+If you have any questions about this Privacy Policy or information collected about you, please write to us:  Pioneer Electronics (USA) Inc., Internet Team, 1925 East Dominguez Street, Long Beach, CA 90810. 
 
 May 21, 2013
