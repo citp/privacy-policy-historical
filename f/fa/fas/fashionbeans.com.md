@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fashionbeans.com privacy policy that was archived on 2013-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130517015113id_/http%3A//www.fashionbeans.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fashionbeans.com privacy policy that was archived on 2013-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131116143027id_/http%3A//www.fashionbeans.com/privacy-policy) for the most accurate reproduction.*
 
 # FashionBeans.com Official Privacy Policy
 
