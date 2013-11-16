@@ -1,28 +1,17 @@
-<!--The following is the downloaded HTML source of the sokanu.com privacy policy that was archived on 2013-05-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130523054037id_/http%3A//www.sokanu.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the sokanu.com privacy policy that was archived on 2013-11-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131116061006id_/http%3A//www.sokanu.com/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html><head><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" async="" src="https://cdn.mxpnl.com/libs/mixpanel-2.2.min.js"></script><script type="text/javascript">var NREUMQ=NREUMQ||[];NREUMQ.push(["mark","firstbyte",new Date().getTime()])</script>
+<!DOCTYPE html><html><head><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" async="" src="https://cdn.mxpnl.com/libs/mixpanel-2.2.min.js"></script><script type="text/javascript">var NREUMQ=NREUMQ||[];NREUMQ.push(["mark","firstbyte",new Date().getTime()]);</script>
         <title>Privacy</title>
 
-        <!-- Typekit Fonts -->
-        <script src="https://use.typekit.com/dhl3xrt.js"></script>
-        <script>try{Typekit.load();}catch(e){}</script>
-
-        <!-- HTML5 shim for IE8 -->
-        <script src="https://sokanu.s3.amazonaws.com/lib/modernizr.js"></script>
-
-        <!-- Pared-down Bootstrap -->
-        <link rel="stylesheet" href="https://sokanu.s3.amazonaws.com/lib/bootstrap/css/bootstrap.css">
-        <link rel="stylesheet" href="//netdna.bootstrapcdn.com/font-awesome/3.0.2/css/font-awesome.css">
+        <!-- Bootstrap -->
+        <link rel="stylesheet" href="//netdna.bootstrapcdn.com/font-awesome/3.2.1/css/font-awesome.css">
 
         <!-- Big Sokanu Stylesheet -->
         <link rel="stylesheet" href="https://sokanu.s3.amazonaws.com/compiled_css/global/global.css">
 
         <!-- Stylesheet for the browser that eats glue in the corner -->
         <!--[if lt IE 9]><link rel="stylesheet" href="https://sokanu.s3.amazonaws.com/compiled_css/ie/unstylish-sheet.css"><![endif]-->
-
-        <!-- Media query shim for IE8 -->
-        <script src="https://sokanu.s3.amazonaws.com/lib/respond/respond.min.js"></script>
 
         <!-- Favicon -->
         <link rel="icon" type="image/x-icon" href="https://sokanu.s3.amazonaws.com/img/favicon.ico">
@@ -31,189 +20,35 @@
         <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
         <meta name="apple-mobile-web-app-capable" content="yes">
 
-        <!-- start Mixpanel -->
-<script type="text/javascript">(function(e,b){if(!b.__SV){var a,f,i,g;window.mixpanel=b;a=e.createElement("script");a.type="text/javascript";a.async=!0;a.src=("https:"===e.location.protocol?"https:":"http:")+'//cdn.mxpnl.com/libs/mixpanel-2.2.min.js';f=e.getElementsByTagName("script")[0];f.parentNode.insertBefore(a,f);b._i=[];b.init=function(a,e,d){function f(b,h){var a=h.split(".");2==a.length&&(b=b[a[0]],h=a[1]);b[h]=function(){b.push([h].concat(Array.prototype.slice.call(arguments,0)))}}var c=b;"undefined"!==
-typeof d?c=b[d]=[]:d="mixpanel";c.people=c.people||[];c.toString=function(b){var a="mixpanel";"mixpanel"!==d&&(a+="."+d);b||(a+=" (stub)");return a};c.people.toString=function(){return c.toString(1)+".people (stub)"};i="disable track track_pageview track_links track_forms register register_once alias unregister identify name_tag set_config people.set people.increment people.append people.track_charge people.clear_charges people.delete_user".split(" ");for(g=0;g<i.length;g++)f(c,i[g]);b._i.push([a,
-e,d])};b.__SV=1.2}})(document,window.mixpanel||[]);
-mixpanel.init("7d3d3d7f76b416df31df49815b670e19");</script>
-
-<!-- end Mixpanel -->
-        <script type="text/javascript">
-    // determine if user has just entered site from a campaign we are running
-    var campaign = undefined;
-    var campaign_details = "";
-    var campaign_cost = 0.00;
-
-    // used to decode properties of URL
-    // source: http://stackoverflow.com/questions/1403888/get-url-parameter-with-jquery
-    function getURLParameter(name) {
-        return decodeURIComponent(
-            (location.search.match(RegExp("[?|&]"+name+'=(.+?)(&|$)'))||[,null])[1]
-        );  
-    }
-
-    // determine if traffic originates from a campagin
-    if( document.referrer.indexOf("stumbleupon.com") > -1 ) {
-        campaign = "StumbleUpon";
-        if( document.referrer.indexOf("/high/") > -1 ) {
-            campaign_details = "StumbleUpon High";
-            campaign_cost = 0.25;
-        } else if( document.referrer.indexOf("/medium/") > -1 ) {
-            campaign_details = "StumbleUpon Medium";
-            campaign_cost = 0.10;
-        } else {
-            campaign_details = "StumbleUpon Low";
-            campaign_cost = 0.05;
-        }
-    } else if( document.referrer.indexOf("www.google.") > -1 ) {
-        campaign = "Google Search";
-    } else if ( getURLParameter("utm_source") == "facebook" ) {
-        // direct facebook link ad
-        var ad_type = getURLParameter("utm_campaign");
-
-        campaign = "Facebook Ad";
-        campaign_details = "Ad Type: " + ((ad_type == "null") ? "Generic" : ad_type);
-        campaign_cost = 0.15;
-    } else if( document.referrer.indexOf("facebook.com") > -1 ) {
-        // facebook action or ad
-        campaign = "Facebook";
-
-        var source = getURLParameter("fb_source");
-        if( source == "appcenter" ) {
-            campaign_details = "Facebook App Center";
-        } else if ( source == "notification" ) {
-            campaign_details = "Facebook Invite";
-        } else if ( (source == "timeline_og") || (source == "feed_opengraph") || (source == "ticker") ) {
-            campaign_details = "Facebook Open Graph";
-        } else if ( source == "search" ) {
-            // no way to distinguish between paid and free searches, as far as i can tell
-            campaign_details = "Facebook Search";
-        } else if ( (source == "null") && (document.referrer.indexOf("apps.facebook.com") > -1) ) {
-            // there needs to be a better way to track this
-            campaign = "Facebook Ad";
-            campaign_details = "Ad Type: Generic";
-            campaign_cost = 0.15;
-        } else {
-            // don't track any other facebook sources
-            campaign_details = "Facebook " + source;
-        }
-    }
-
-    // if a campaign was found, track it
-    if( campaign ) {
-        // track google
-        mixpanel.register({"Campaign": campaign, "Campaign Details": campaign_details, "Campaign Cost": campaign_cost});
-        mixpanel.track("Campaign Visit", {"Campaign": campaign, "Campaign Details": campaign_details, "Campaign Cost": campaign_cost, "Domain Path": document.location.pathname});
-    }
-</script>
-
-        <!-- Google Analytics -->
-        <script>
-              var _gaq = _gaq || [];
-              
-              _gaq.push(['_setAccount', 'UA-29974300-1']);
-              _gaq.push(['_trackPageview']);
-
-              (function() {
-                var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-                ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-                var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-              })();
-        </script>
-
-        
-        <script src="//d3nslu0hdya83q.cloudfront.net/dist/1.0/raven.min.js"></script>
-        <script type="text/javascript">
-            // Ignore list based off: https://gist.github.com/1878283
-            var ravenOptions = {
-              // Will cause a deprecation warning, but the demise of `ignoreErrors` is still under discussion.
-              // See: https://github.com/getsentry/raven-js/issues/73
-              ignoreErrors: [
-                // Random plugins/extensions
-                'top.GLOBALS',
-                // See: http://blog.errorception.com/2012/03/tale-of-unfindable-js-error.html
-                'originalCreateNotification',
-                'canvas.contentDocument',
-                'MyApp_RemoveAllHighlights',
-                'http://tt.epicplay.com',
-                'Can\'t find variable: ZiteReader',
-                'jigsaw is not defined',
-                'ComboSearch is not defined',
-                'http://loading.retry.widdit.com/',
-                'atomicFindClose',
-                // Facebook borked
-                'fb_xd_fragment',
-                // ISP "optimizing" proxy - `Cache-Control: no-transform` seems to reduce this. (thanks @acdha)
-                // See http://stackoverflow.com/questions/4113268/how-to-stop-javascript-injection-from-vodafone-proxy
-                'bmi_SafeAddOnload',
-                'EBCallBackMessageReceived',
-                // See http://toolbar.conduit.com/Developer/HtmlAndGadget/Methods/JSInjection.aspx
-                'conduitPage',
-                // Generic error code from errors outside the security sandbox
-                // You can delete this if using raven.js > 1.0, which ignores these automatically.
-                'Script error.'
-                ],
-                ignoreUrls: [
-                // Facebook flakiness
-                /graph\.facebook\.com/i,
-                // Facebook blocked
-                /connect\.facebook\.net\/en_US\/all\.js/i,
-                // Woopra flakiness
-                /eatdifferent\.com\.woopra-ns\.com/i,
-                /static\.woopra\.com\/js\/woopra\.js/i,
-                // Chrome extensions
-                /extensions\//i,
-                /^chrome:\/\//i,
-                // Other plugins
-                /127\.0\.0\.1:4001\/isrunning/i,  // Cacaoweb
-                /webappstoolbarba\.texthelp\.com\//i,
-                /metrics\.itunes\.apple\.com\.edgesuite\.net\//i
-                ]
-            };
-
-            Raven.config('https://29ca70644a1041e891cb4c107b24f430@app.getsentry.com/7493', ravenOptions).install();
-
-            
-            Raven.setUser({
-                email: '',
-                id: 'None'
-            });
-            
-        </script>
-
         <!-- Extra Head Information -->
         
+    
     </head>
-    <body>
+    <body class="s-logged-out">
         <div id="fb-root"></div> <!-- required for any facebook UI interaction -->
 
         <header class="navbar site-navbar red-toolbar ">
-            <div class="l-col3 l-no_stack">
-                <h1 class="brand"><a href="/">sokanu</a></h1>
-                
+            <div class="l-no_stack l-col3">
+                <h1 class="brand"><a href="/" track="mixpanel" data-target="Home">sokanu</a></h1>
             </div>
             <nav class="global_nav l-pull-left">
                 <h1 class="hidden">Global Navigation</h1>
                 <ul class="nav-list">
                     
-                        <li>
-                            <a class="collapse_to_icon white" href="/">
-                                <i class="global_nav-icon icon-home"></i> <span class="global_nav-link">Home</span>
-                            </a>
-                        </li>
+
                         
                             <li>
-                                <a class="white" href="/register/">
+                                <a class="white" href="/register/" track="mixpanel" data-target="Register">
                                     <i class="global_nav-icon icon-bolt"></i> <span class="global_nav-link">Sign Up</span>
                                 </a>
                             </li>
                             <li>
-                                <a class="white" href="/login/?next=/privacy/">
+                                <a class="white" href="/login/?next=/privacy/" track="mixpanel" data-target="Login">
                                     <i class="global_nav-icon icon-key"></i> <span class="global_nav-link">Login</span>
                                 </a>
                             </li>
                             <li>
-                                <a class="white" href="/matches/">
+                                <a class="white" href="/matches/" track="mixpanel" data-target="Matches">
                                     <i class="global_nav-icon icon-heart"></i> <span class="global_nav-link">Matches</span>
                                 </a>
                             </li>
@@ -227,15 +62,11 @@ mixpanel.init("7d3d3d7f76b416df31df49815b670e19");</script>
                     <input class="navbar-search-input" type="search" placeholder="Find careers and people" name="q">
                     <input type="submit" class="hidden">
                 </form>
-                <button data-toggle-mobile-menu="" class="main-menu--toggle btn l-pull-right"><i class="icon icon-reorder"></i></button>
+                <a data-toggle-mobile-menu="" class="main-menu--toggle l-pull-right"><i class="icon icon-reorder"></i></a>
             
         </header>
 
-        <div class="body clearfix">
-
-            
-            
-
+        <div class="body clearfix ">
             
             
 <div class="l-container--adaptive">
@@ -363,13 +194,6 @@ mixpanel.init("7d3d3d7f76b416df31df49815b670e19");</script>
                     <input type="submit" class="hidden">
                 </form>
             </li>
-            <li>
-                <a class="mobile-menu--link" href="/">
-                    <i class="icon-home"></i>
-                    Home
-                    <span class="mobile-menu--link-caption t-small">See what's new</span>
-                </a>
-            </li>
             
                 <li>
                     <a class="mobile-menu--link" href="/matches/">
@@ -400,7 +224,7 @@ mixpanel.init("7d3d3d7f76b416df31df49815b670e19");</script>
                     
                         <li><a class="global_footer-link" href="/about/">About Us</a></li>
                         <li><a class="global_footer-link" href="/contact/">Contact</a></li>
-                        <li><a class="global_footer-link" href="http://blog.sokanu.com">Blog</a></li>
+                        <li><a class="global_footer-link" href="/wlw/">Blog</a></li>
                         <li><a class="global_footer-link" href="/work/">Work With Us</a></li>
                         <li><a class="global_footer-link" href="/press/">Press</a></li>
                         <li><a class="global_footer-link" href="/advertising/">Partnerships</a></li>
@@ -414,50 +238,241 @@ mixpanel.init("7d3d3d7f76b416df31df49815b670e19");</script>
 
         <!-- Globally Accessible Variables -->
         <script>
-            // user_id is commonly required by js for communicating with the B/E.
-            
-                window.user_id = false;
-            
+            window.user_id = false;
+            window.STATIC_URL = "https://sokanu.s3.amazonaws.com/";
+            window.DEBUG = false;
 
             // Globally accessible faecbook app id reference (required for FB.ui calls)
             window.FACEBOOK_APP_ID = "263514677100821";
-
-            // Static URL
-            window.STATIC_URL = "https://sokanu.s3.amazonaws.com/";
         </script>
 
-        <!-- Sometimes jquery is needed outside of AMD -->
+        <!-- jQuery -->
         <script src="https://sokanu.s3.amazonaws.com/lib/jquery/jquery-min.js"></script>
 
-        
+        <!-- Mixpanel -->
+        <!-- start Mixpanel -->
+<script type="text/javascript">(function(e,b){if(!b.__SV){var a,f,i,g;window.mixpanel=b;a=e.createElement("script");a.type="text/javascript";a.async=!0;a.src=("https:"===e.location.protocol?"https:":"http:")+'//cdn.mxpnl.com/libs/mixpanel-2.2.min.js';f=e.getElementsByTagName("script")[0];f.parentNode.insertBefore(a,f);b._i=[];b.init=function(a,e,d){function f(b,h){var a=h.split(".");2==a.length&&(b=b[a[0]],h=a[1]);b[h]=function(){b.push([h].concat(Array.prototype.slice.call(arguments,0)))}}var c=b;"undefined"!==
+typeof d?c=b[d]=[]:d="mixpanel";c.people=c.people||[];c.toString=function(b){var a="mixpanel";"mixpanel"!==d&&(a+="."+d);b||(a+=" (stub)");return a};c.people.toString=function(){return c.toString(1)+".people (stub)"};i="disable track track_pageview track_links track_forms register register_once alias unregister identify name_tag set_config people.set people.set_once people.increment people.append people.track_charge people.clear_charges people.delete_user".split(" ");for(g=0;g<i.length;g++)f(c,i[g]);
+b._i.push([a,e,d])};b.__SV=1.2}})(document,window.mixpanel||[]);
+mixpanel.init("7d3d3d7f76b416df31df49815b670e19");</script><!-- end Mixpanel -->
+
+
+<!-- end Mixpanel -->
+        <script type="text/javascript">
+    // determine if user has just entered site from a campaign we are running
+    var campaign = undefined;
+    var campaign_details = "";
+    var campaign_cost = 0.00;
+
+    // used to decode properties of URL
+    // source: http://stackoverflow.com/questions/1403888/get-url-parameter-with-jquery
+    function getURLParameter(name) {
+        return decodeURIComponent(
+            (location.search.match(RegExp("[?|&]"+name+'=(.+?)(&|$)'))||[,null])[1]
+        );  
+    }
+
+    // determine if traffic originates from a campagin
+    if( document.referrer.indexOf("stumbleupon.com") > -1 ) {
+        campaign = "StumbleUpon";
+        if( document.referrer.indexOf("/high/") > -1 ) {
+            campaign_details = "StumbleUpon High";
+            campaign_cost = 0.25;
+        } else if( document.referrer.indexOf("/medium/") > -1 ) {
+            campaign_details = "StumbleUpon Medium";
+            campaign_cost = 0.10;
+        } else {
+            campaign_details = "StumbleUpon Low";
+            campaign_cost = 0.05;
+        }
+    } else if( document.referrer.indexOf("www.google.") > -1 ) {
+        campaign = "Google Search";
+    } else if ( getURLParameter("utm_source") == "facebook" ) {
+        // direct facebook link ad
+        var ad_type = getURLParameter("utm_campaign");
+
+        campaign = "Facebook Ad";
+        campaign_details = "Ad Type: " + ((ad_type == "null") ? "Generic" : ad_type);
+        campaign_cost = 0.15;
+    } else if( document.referrer.indexOf("facebook.com") > -1 ) {
+        // facebook action or ad
+        campaign = "Facebook";
+
+        var source = getURLParameter("fb_source");
+        if( source == "appcenter" ) {
+            campaign_details = "Facebook App Center";
+        } else if ( source == "notification" ) {
+            campaign_details = "Facebook Invite";
+        } else if ( (source == "timeline_og") || (source == "feed_opengraph") || (source == "ticker") ) {
+            campaign_details = "Facebook Open Graph";
+        } else if ( source == "search" ) {
+            // no way to distinguish between paid and free searches, as far as i can tell
+            campaign_details = "Facebook Search";
+        } else if ( (source == "null") && (document.referrer.indexOf("apps.facebook.com") > -1) ) {
+            // there needs to be a better way to track this
+            campaign = "Facebook Ad";
+            campaign_details = "Ad Type: Generic";
+            campaign_cost = 0.15;
+        } else {
+            // don't track any other facebook sources
+            campaign_details = "Facebook " + source;
+        }
+    }
+
+    // if a campaign was found, track it
+    if( campaign ) {
+        // track google
+        mixpanel.register({"Campaign": campaign, "Campaign Details": campaign_details, "Campaign Cost": campaign_cost});
+        mixpanel.track("Campaign Visit", {"Campaign": campaign, "Campaign Details": campaign_details, "Campaign Cost": campaign_cost, "Domain Path": document.location.pathname});
+    }
+</script>
 
         <!-- Main JS File -->
-        <script data-main="https://sokanu.s3.amazonaws.com/js/main" src="https://sokanu.s3.amazonaws.com/lib/require/require.js"></script>
-        <script type="text/javascript">
-            // Configure Require.js
-            require.config({
-                // Global path definitions:
-                baseUrl: 'https://sokanu.s3.amazonaws.com/',
-                waitSeconds: 60, // quick potential fix for pages failing to load
-                paths: {
-                    main: 'js/main',
-                    lib: 'lib',
-                    jquery: 'lib/jquery/jquery-min',
-                    underscore: 'lib/underscore/underscore-amd-min',
-                    backbone: 'lib/backbone/backbone-amd-min',
-                    text: 'lib/require/text',
-                    goog: 'lib/require/goog',
-                    propertyParser : 'lib/require/propertyParser',
-                    async: 'lib/require/async',
-                    utils: 'js/utils',
-                    facebook_sdk: 'js/facebook_sdk',
+        <script data-main="https://sokanu.s3.amazonaws.com/compiled_js/main" src="https://sokanu.s3.amazonaws.com/lib/require/require.min.js"></script>
 
-                    
-                        modules: 'compiled_js/modules',
-                        widgets: 'compiled_js/widgets'
-                    
+        <!-- Javascript Error Tracking -->
+        <script type="text/javascript">
+    if( window.Raven ) {
+        // Ignore list based off: https://gist.github.com/1878283
+        var ravenOptions = {
+          // Will cause a deprecation warning, but the demise of `ignoreErrors` is still under discussion.
+          // See: https://github.com/getsentry/raven-js/issues/73
+          ignoreErrors: [
+            // Random plugins/extensions
+            'top.GLOBALS',
+            // See: http://blog.errorception.com/2012/03/tale-of-unfindable-js-error.html
+            'originalCreateNotification',
+            'canvas.contentDocument',
+            'MyApp_RemoveAllHighlights',
+            'http://tt.epicplay.com',
+            'Can\'t find variable: ZiteReader',
+            'jigsaw is not defined',
+            'ComboSearch is not defined',
+            'http://loading.retry.widdit.com/',
+            'atomicFindClose',
+            // Facebook borked
+            'fb_xd_fragment',
+            // ISP "optimizing" proxy - `Cache-Control: no-transform` seems to reduce this. (thanks @acdha)
+            // See http://stackoverflow.com/questions/4113268/how-to-stop-javascript-injection-from-vodafone-proxy
+            'bmi_SafeAddOnload',
+            'EBCallBackMessageReceived',
+            // See http://toolbar.conduit.com/Developer/HtmlAndGadget/Methods/JSInjection.aspx
+            'conduitPage',
+            // Generic error code from errors outside the security sandbox
+            // You can delete this if using raven.js > 1.0, which ignores these automatically.
+            'Script error.'
+            ],
+            ignoreUrls: [
+            // Facebook flakiness
+            /graph\.facebook\.com/i,
+            // Facebook blocked
+            /connect\.facebook\.net\/en_US\/all\.js/i,
+            // Woopra flakiness
+            /eatdifferent\.com\.woopra-ns\.com/i,
+            /static\.woopra\.com\/js\/woopra\.js/i,
+            // Chrome extensions
+            /extensions\//i,
+            /^chrome:\/\//i,
+            // Other plugins
+            /127\.0\.0\.1:4001\/isrunning/i,  // Cacaoweb
+            /webappstoolbarba\.texthelp\.com\//i,
+            /metrics\.itunes\.apple\.com\.edgesuite\.net\//i
+            ]
+        };
+
+        Raven.config('https://29ca70644a1041e891cb4c107b24f430@app.getsentry.com/7493', ravenOptions).install();
+
+        
+        Raven.setUser({
+            email: '',
+            id: 'None'
+        });
+        
+    }
+</script>
+
+        <!--- AJAX CSRF setup -->
+        
+<input type="hidden" name="csrfmiddlewaretoken" value="om7PRfTW4GBrq51ctANUfDvcCboD6keB">
+
+<script type="text/javascript">
+    // using jQuery
+    function getCookie(name) {
+        var cookieValue = null;
+        if (document.cookie && document.cookie != '') {
+            var cookies = document.cookie.split(';');
+            for (var i = 0; i < cookies.length; i++) {
+                var cookie = jQuery.trim(cookies[i]);
+                // Does this cookie string begin with the name we want?
+                if (cookie.substring(0, name.length + 1) == (name + '=')) {
+                    cookieValue = decodeURIComponent(cookie.substring(name.length + 1));
+                    break;
                 }
-            });
+            }
+        }
+        return cookieValue;
+    }
+    var csrftoken = getCookie('csrftoken');
+
+    function csrfSafeMethod(method) {
+        // these HTTP methods do not require CSRF protection
+        return (/^(GET|HEAD|OPTIONS|TRACE)$/.test(method));
+    }
+    function sameOrigin(url) {
+        // test that a given url is a same-origin URL
+        // url could be relative or scheme relative or absolute
+        var host = document.location.host; // host + port
+        var protocol = document.location.protocol;
+        var sr_origin = '//' + host;
+        var origin = protocol + sr_origin;
+        // Allow absolute or scheme relative URLs to same origin
+        return (url == origin || url.slice(0, origin.length + 1) == origin + '/') ||
+            (url == sr_origin || url.slice(0, sr_origin.length + 1) == sr_origin + '/') ||
+            // or any other URL that isn't scheme relative or absolute i.e relative.
+            !(/^(\/\/|http:|https:).*/.test(url));
+    }
+
+    function ajaxCSRFSetup() {
+        $.ajaxSetup({
+            beforeSend: function(xhr, settings) {
+                if (!csrfSafeMethod(settings.type) && sameOrigin(settings.url)) {
+                    // Send the token to same-origin, relative URLs only.
+                    // Send the token only if the method warrants CSRF protection
+                    // Using the CSRFToken value acquired earlier
+                    xhr.setRequestHeader("X-CSRFToken", csrftoken);
+                }
+            }
+        });
+    }
+    ajaxCSRFSetup();
+</script>
+
+        <!-- Typekit Fonts -->
+        <script src="https://use.typekit.com/dhl3xrt.js"></script>
+        <script>try{Typekit.load();}catch(e){}</script>
+
+        <!-- Extra page-specific JS -->
+        
+
+        <!-- HTML5 and media query shims for IE8 -->
+        <!--[if lt IE 9]>
+                <script src="https://sokanu.s3.amazonaws.com/lib/modernizr.js"></script>
+                <script src="https://sokanu.s3.amazonaws.com/lib/respond/respond.min.js"></script>
+        <![endif]-->
+
+        <!-- Google Analytics -->
+        <script>
+              var _gaq = _gaq || [];
+              
+              _gaq.push(['_setAccount', 'UA-29974300-1']);
+              _gaq.push(['_trackPageview']);
+
+              (function() {
+                var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+                ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+                var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+              })();
         </script>
-    <script type="text/javascript">if(!NREUMQ.f){NREUMQ.f=function(){NREUMQ.push(["load",new Date().getTime()]);var e=document.createElement("script");e.type="text/javascript";e.src=(("http:"===document.location.protocol)?"http:":"https:")+"//"+"d1ros97qkrwjf5.cloudfront.net/42/eum/rum.js";document.body.appendChild(e);if(NREUMQ.a)NREUMQ.a();};NREUMQ.a=window.onload;window.onload=NREUMQ.f;};NREUMQ.push(["nrfj","beacon-4.newrelic.com","f54ad793da",1298261,"NFFaYEAHWBBVVk0PCQ0bfkFcBUIKW1sWFQkIVVZBHBBfBkNGAxYUCkJZV0s=",0,1294,new Date().getTime(),"","","","",""])</script>
-<script type="text/javascript" src="https://d1ros97qkrwjf5.cloudfront.net/42/eum/rum.js"></script></body></html>
+    <script type="text/javascript">if(!NREUMQ.f){NREUMQ.f=function(){NREUMQ.push(["load",new Date().getTime()]);var e=document.createElement("script");e.type="text/javascript";e.src=(("http:"===document.location.protocol)?"http:":"https:")+"//"+"js-agent.newrelic.com/nr-100.js";document.body.appendChild(e);if(NREUMQ.a)NREUMQ.a();};NREUMQ.a=window.onload;window.onload=NREUMQ.f;};NREUMQ.push(["nrfj","beacon-6.newrelic.com","f54ad793da","1298261","NFFaYEAHWBBVVk0PCQ0bfkFcBUIKW1sWAgwCWl9bHBBfBkNGFwEDDVFKXVFIVAJHUAMyAw5EVFVGA2AKUUI=",10,25,new Date().getTime(),"","","","",""]);</script>
+
+<script type="text/javascript" src="https://js-agent.newrelic.com/nr-100.js"></script></body></html>
