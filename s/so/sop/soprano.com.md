@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the soprano.com privacy policy that was archived on 2013-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130520044149id_/http%3A//soprano.com/pp.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the soprano.com privacy policy that was archived on 2013-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131116093240id_/http%3A//soprano.com/pp.asp) for the most accurate reproduction.*
 
 # Soprano.com Privacy Policy
 
