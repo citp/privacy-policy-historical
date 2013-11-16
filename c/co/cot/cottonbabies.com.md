@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cottonbabies.com privacy policy that was archived on 2013-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130401104458id_/http%3A//www.cottonbabies.com/cottonbabies-privacy-policy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cottonbabies.com privacy policy that was archived on 2013-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131116095159id_/http%3A//www.cottonbabies.com/cottonbabies-privacy-policy.pdf) for the most accurate reproduction.*
 
 # 
 
