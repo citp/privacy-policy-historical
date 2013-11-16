@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the supercross.com privacy policy that was archived on 2013-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130518183201id_/http%3A//supercross.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the supercross.com privacy policy that was archived on 2013-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131116134158id_/http%3A//supercross.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Supercross.com
 
