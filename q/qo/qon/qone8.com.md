@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the qone8.com privacy policy that was archived on 2013-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130609085504id_/http%3A//qone8.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qone8.com privacy policy that was archived on 2013-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131117001820id_/http%3A//qone8.com/static/html/privacy.html) for the most accurate reproduction.*
 
 # Qone8.com
 
