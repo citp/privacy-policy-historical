@@ -1,18 +1,14 @@
-> *The following text is extracted and transformed from the zyoin.com privacy policy that was archived on 2012-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121008181421id_/http%3A//www.zyoin.com/web/guest/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zyoin.com privacy policy that was archived on 2013-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131116020248id_/http%3A//www.zyoin.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - zyoin.com
+# Privacy Policy - Zyoin.com
 
-Privacy Policy
-
-* * *
-
-  * This privacy policy pertains to the use of the Zyoin website at [http://www.zyoin.com](http://www.zyoin.com/).
+  * This privacy policy pertains to the use of the Zyoin website at [http://www.zyoin.com](http://www.zyoin.com/)
   * This privacy policy covers how Zyoin treats personal information that Zyoin collects and receives. Personal information is information about you that is personally identifiable like your name, address, email address, or phone number.
-  * Children under 18 are not permitted to use the Zyoin service, and so this privacy policy makes no provision for children's use of the site.
+  * Children under 18 are not permitted to use the Zyoin service, and so this privacy policy makes no provision for children’s use of the site.
 
 
 
- **Information Collection and how it is used**
+**Information Collection and how it is used**
 
 **General Information**
 
@@ -24,7 +20,7 @@ Privacy Policy
 
 
 
- **IP Addresses**
+**IP Addresses**
 
 IP Addresses are automatically reported by your browser each time you view a web page. Your IP address is stored in our log files.
 
@@ -36,33 +32,33 @@ IP addresses may be used for various purposes, including:
 
 
 
- **Cookies**
+**Cookies**
 
-A cookie is a small amount of data, which often includes an anonymous unique identifier, which is sent to your browser from a website's computers and stored on your local computer's hard disc.Zyoin only uses 'session' cookies that persist one browser session.
+A cookie is a small amount of data, which often includes an anonymous unique identifier, which is sent to your browser from a website’s computers and stored on your local computer’s hard disc.Zyoin only uses ‘session’ cookies that persist one browser session.
 
   * You can configure your browser to accept all cookies, reject all cookies, or notify you when a cookie is set.
-  * If you reject all cookies, you will not be able to use Zyoin products or services that require you to "login," and you may not be able to take full advantage of the Zyoin service.
-  * Zyoin uses its own cookies for a number of purposes, including to:   
-o Access your information when you "login".   
-o Estimate and report our total audience size and traffic.   
-o Conduct research to improve Zyoin's content and services.
-  * Zyoin may let other companies that show advertisements on some of our pages set and access their cookies on your computer. Other entities' use of their cookies is subject to their own privacy policies, not this one. Advertisers or other entities do not have access to Zyoin cookies.
+  * If you reject all cookies, you will not be able to use Zyoin products or services that require you to “login,” and you may not be able to take full advantage of the Zyoin service.
+  * Zyoin uses its own cookies for a number of purposes, including to:  
+o Access your information when you “login”.  
+o Estimate and report our total audience size and traffic.  
+o Conduct research to improve Zyoin’s content and services.
+  * Zyoin may let other companies that show advertisements on some of our pages set and access their cookies on your computer. Other entities’ use of their cookies is subject to their own privacy policies, not this one. Advertisers or other entities do not have access to Zyoin cookies.
 
 
 
- **Information Sharing and Disclosure**
+**Information Sharing and Disclosure**
 
   * When you post a question or an answer your Zyoin ID that you are posting under is visible to other users, unless you specifically choose not to do so.
   * Zyoin may be required to disclose personally identifiable information under special circumstances, such as when your actions violate the Zyoin Terms of Use.
   * Zyoin may share demographic information with business partners. No personally identifiable information will ever be used without your permission.
-  * Zyoin does not rent, sell, or share personal information about you with other people or nonaffiliated companies except to provide products or services you've requested or when we have your permission.
-  * It may be necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of Zyoin's Terms of Use,or as otherwise required by law.
+  * Zyoin does not rent, sell, or share personal information about you with other people or nonaffiliated companies except to provide products or services you’ve requested or when we have your permission.
+  * It may be necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of Zyoin’s Terms of Use,or as otherwise required by law.
   * We will transfer information about you if Zyoin is acquired by or merged with another company. In this event, Zyoin will notify you by email or by putting a prominent notice on the Zyoin web site before information about you is transferred and becomes subject to a different privacy policy.
-  * Zyoin displays targeted advertisements based on personal information that is exhibited in people's profiles.
+  * Zyoin displays targeted advertisements based on personal information that is exhibited in people’s profiles.
 
 
 
- **Editing and Deleting Account Information**
+**Editing and Deleting Account Information**
 
   * You can modify your Zyoin Account Information except your primary email id at any time.
   * We may send you certain communications relating to the Zyoin service, such as service announcements and administrative messages that are considered part of your Zyoin account.
@@ -71,7 +67,7 @@ o Conduct research to improve Zyoin's content and services.
 
 
 
- **Changes to this Privacy Policy**
+**Changes to this Privacy Policy**
 
 Zyoin may update this policy at any time for any reason. If there are any significant changes to how we handle personal information we will send a notice to the primary email address specified in your Zyoin account or by placing a prominent notice on our site.
 
