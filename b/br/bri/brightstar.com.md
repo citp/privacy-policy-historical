@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brightstar.com privacy policy that was archived on 2013-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130506212310id_/http%3A//brightstar.com/page51.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brightstar.com privacy policy that was archived on 2013-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131116075027id_/http%3A//www.brightstar.com/page51.htm) for the most accurate reproduction.*
 
 # BrightStar Consulting, Inc.
 
