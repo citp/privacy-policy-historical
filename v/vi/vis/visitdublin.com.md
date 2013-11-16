@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the visitdublin.com privacy policy that was archived on 2013-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130625173158id_/http%3A//www.visitdublin.com/StaticPage/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the visitdublin.com privacy policy that was archived on 2013-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131116232054id_/http%3A//www.visitdublin.com/StaticPage/Privacy) for the most accurate reproduction.*
 
-# Visit Dublin - Official Tourist Information Dublin Hotels and Car Hire
+# Visit Dublin - Visit Dublin Privacy and Cookies Policy
 
 This Privacy and Cookies Policy (the " **Policy** ") refers to the website, [www.visitdublin.com](http://www.visitdublin.com/) (the " **Website"** ). The Website is operated by the National Tourism Development Authority (also known as **Fáilte Ireland** ) (" **we** " or " **the Authority"** ), whose principal place of business is at 88-95 Amiens Street, Dublin 1.  This Policy (together with our Terms of Use and any other documents referred to in such Terms of Use) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us.  Please read the following carefully. Entering into this Website indicates that the user (either " **user** " or " **you** ") has reviewed this Policy and has agreed to be bound by it as well as our Terms of Use.  If you do not agree to these terms you must leave the Website immediately.
 
