@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the getholistichealth.com privacy policy that was archived on 2013-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130425053136id_/http%3A//www.getholistichealth.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getholistichealth.com privacy policy that was archived on 2013-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131116220754id_/http%3A//www.getholistichealth.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Get Holistic Health
+# Privacy Policy | Health and Fitness | Get Holistic Health
+
+### Privacy Policy
 
 **Privacy Policy**
 
@@ -19,7 +21,7 @@ Similar to other commercial Web sites, our Web site utilizes a standard technolo
 
 ****You can read more about Google’s Advertising and Cookies here:<http://www.google.com/policies/privacy/ads/>****
 
- ** ****What Are Cookies?**
+What Are Cookies?
 
 A cookie is a very small text document, which often includes an anonymous unique identifier. When you visit a Web site, that site’s computer asks your computer for permission to store this file in a part of your hard drive specifically designated for cookies. Each Web site can send its own cookie to your browser if your browser’s preferences allow it, but (to protect your privacy) your browser only permits a Web site to access the cookies it has already sent to you, not the cookies sent to you by other sites.
 
@@ -59,3 +61,9 @@ We are committed to conducting our business in accordance with these principles 
 If you have any questions regarding this Policy, or your dealings with our web site, please [contact us](http://www.getholistichealth.com/contact-us-2/).
 
 **Get Holistic Health**
+
+FAIR USE NOTICE:
+
+Many of the articles and posts on this site contain copyrighted material, in which we may not have specifically been authorized to use by the copyright owner.  We believe this constitutes a ‘fair use’ of the copyrighted material as provided for in Section 107 of the US Copyright Law which contains a list of the various purposes for which the reproduction of a particular work may be considered fair, such as criticism, comment, news reporting, teaching, scholarship, and research. If you wish to use such copyrighted material for purposes of your own that go beyond ‘fair use’…you must obtain permission from the copyright owner.
+
+Paid advertising on Get Holistic Health may not represent the views and opinions of this website and its contributors. No endorsement of products and services advertised is either expressed or implied.
