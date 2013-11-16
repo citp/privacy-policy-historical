@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gevalia.com privacy policy that was archived on 2013-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130510064344id_/http%3A//www.gevalia.com/on/demandware.store/Sites-Gevalia-Site/default/mPage-Show%3Fcid%3Dprivacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gevalia.com privacy policy that was archived on 2013-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131116043715id_/http%3A//www.gevalia.com/on/demandware.store/Sites-Gevalia-Site/default/mPage-Show%3Fcid%3Dprivacy-policy) for the most accurate reproduction.*
 
 # Gevalia Coffee Privacy Policy
 
@@ -97,7 +97,7 @@ Like many companies, we use cookies on our website. Cookies are bits of text tha
 
 Most browsers will tell you how to stop accepting new cookies, how to be notified when you receive a new cookie and how to disable existing cookies. Without cookies, however, you may not be able to take advantage of our website features.
 
-During your visits to other websites where we advertise, we (or third parties) may use certain data collected on our site to show you the type of Tassimodirect.com advertisements likely to be of greater interest to you. Although you may not opt out of receiving online advertisements generally, you may control the collection of data on our site used for targeted Gevalia.com advertising during your visits to other websites. To opt-out of Gevalia.com data collection for targeted advertising on other sites, click here: [Opt Out Now](http://media.gevalia.com/optout.html).
+During your visits to other websites where we advertise, we (or third parties) may use certain data collected on our site to show you the type of Tassimodirect.com advertisements likely to be of greater interest to you. Although you may not opt out of receiving online advertisements generally, you may control the collection of data on our site used for targeted Gevalia.com advertising during your visits to other websites. To opt-out of Gevalia.com data collection for targeted advertising on other sites, click here: [Opt Out Now](http://aboutads.info/choices).
 
 Back To Top
 
