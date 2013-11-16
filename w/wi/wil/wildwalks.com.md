@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wildwalks.com privacy policy that was archived on 2013-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130517145914id_/http%3A//www.wildwalks.com/office/office/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wildwalks.com privacy policy that was archived on 2013-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131116144630id_/http%3A//www.wildwalks.com/office/office/privacy.html) for the most accurate reproduction.*
 
 # Wildwalks - Privacy
 
@@ -38,5 +38,11 @@ Information collected from web browsing is used to identify patterns of usage of
   
 Information collected from forms and email will only be used for the purpose for which you have provided it. We will not use it for any other purpose, nor will we disclose it, unless with your consent or in other circumstances where such use or disclosure is permitted under the Privacy and Personal Information Protection Act 1998. 
 
-Your personal information (including your email address) will not be automatically added to a mailing list, or sold or otherwise transferred to a third party.   
+Your personal information (including your email address) will not be automatically added to a mailing list, or sold or otherwise transferred to a third party. 
+
 We take reasonable steps to protect information during transfer and storage. Physical measures, such as building and equipment security, are used in conjunction with digital technology, such as data encryption and firewalls, to minimise unauthorised access to information. 
+
+  * Wildwalks uses Google Analytics including Google Analytics Demographics and Interest Reporting to help monitor, report, understand and improve the service.
+  * Visitors can opt-out of Google Analytics for Display Advertising and customize Google Display Network ads using the [Ads Settings](https://www.google.com/settings/ads).
+
+
