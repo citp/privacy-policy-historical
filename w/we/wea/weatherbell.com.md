@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the weatherbell.com privacy policy that was archived on 2013-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130517025417id_/http%3A//www.weatherbell.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weatherbell.com privacy policy that was archived on 2013-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131116135303id_/http%3A//www.weatherbell.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
