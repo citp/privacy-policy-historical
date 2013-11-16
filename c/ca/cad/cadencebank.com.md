@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the cadencebank.com privacy policy that was archived on 2013-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130524041314id_/http%3A//cadencebank.com/privacy-security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cadencebank.com privacy policy that was archived on 2013-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131116190449id_/http%3A//cadencebank.com/privacy-security) for the most accurate reproduction.*
 
 # Privacy & Security
 
-[To print this privacy policy, please download the full privacy policy in Adobe Acrobat format (PDF) by clicking here](https://web.archive.org/N2/Content/upload/Sept%20-%202012%20Privacy%20Notice_with%20Affiliate%20OptOut.pdf)
+[To print this privacy policy, please download the full privacy policy in Adobe Acrobat format (PDF) by clicking here](https://web.archive.org/N2/Content/upload/July-2013-Privacy-Notice-with-Affiliate.pdf)
 
 ### **Policy Statement**
 
 The directors, management and all associates of Cadence Bank, N. A. appreciate and respect the privacy of our customer’s personal financial information. We understand that our customers furnish sensitive information to the bank in the course of our daily business, and the bank is committed to treating this information responsibly. We know that our customers expect privacy and security for their personal and financial affairs. The bank will take reasonable and appropriate steps to safeguard sensitive information that has been entrusted to us by our customers.
 
-At Cadence, trust has always been key in developing relationships with our customers. In order to maintain the trust that we have built, the Cadence Bank family of companies’ pledges to protect your privacy by adhering to the practices described in our Privacy Notice below. Please read to find out more about how we protect you, your right to privacy and also learn what you can do to better control your privacy.
+At Cadence, trust has always been key in developing relationships with our customers. In order to maintain the trust that we have built, Cadence Bank and its affiliates pledge to protect your privacy by adhering to the practices described in our Privacy Notice below. Please read to find out more about how we protect you, your right to privacy and also learn what you can do to better control your privacy.
 
 ## **Privacy**
 
@@ -16,7 +16,7 @@ At Cadence, trust has always been key in developing relationships with our custo
 
 | 
 
-### **WHAT DOES THE CADENCE FAMILY OF COMPANIES DO WITH YOUR PERSONAL INFORMATION?**  
+### **WHAT DOES CADENCE AND ITS AFFILIATES DO WITH YOUR PERSONAL INFORMATION?**  
   
 ---|---  
 **WHY?** | Financial companies choose how they share your personal information. Federal law gives consumers the right to limit some but not all sharing. Federal law also requires us to tell you how we collect, share, and protect your personal information. Please read this notice carefully to understand what we do.  
@@ -24,13 +24,13 @@ At Cadence, trust has always been key in developing relationships with our custo
 
 The types of personal information we collect and share depend on the product or service you have with us. This information can include:
 
-  * Social Security number and Credit History
-  * Account balances and Transaction or loss history
-  * Account transactions and Checking account information
+  * Social Security number and **Credit History**
+  * **Account balances** and **Transaction or loss history**
+  * **Account transactions** and **Checking account information**
 
   
-**HOW?** | All financial companies need to share customers' personal information to run their everyday business. In the section below, we list the reasons financial companies can share their customers' personal information, the reasons Cadence Family of Companies chooses to share, and whether you can limit this sharing.  
-**Reasons we can share your personal information  ** | **Does Cadence Family of Companies share?** | **Can you limit this sharing?**  
+**HOW?** | All financial companies need to share customers’ personal information to run their everyday business. In the section below, we list the reasons financial companies can share their customers’ personal information; the reasons **Cadence and its affiliates** chooses to share; and whether you can limit this sharing.  
+**Reasons we can share your personal information  ** | **Does Cadence and its affiliates share?** | **Can you limit this sharing?**  
 ---|---|---  
   
 **For our everyday business purposes-**  
@@ -58,15 +58,15 @@ information about your creditworthiness
 **For our affiliates to market to you**
 
 | Yes | Yes  
-**For nonaffiliates to market to you  ** | No | We don't share  
+**For non-affiliates to market to you  ** | No | We don't share  
 **To limit our sharing** | 
 
 Cadence Bank Customers: Call 1-800-636-7622 to speak to a customer service representative.   
-Linscomb & Williams: Call 1-866-298-5354 Ext. 5709 to speak to a representative.
+Linscomb & Williams/Trust Customers: Call 1-800-308-6709 Ext. 4165 to speak to a representative.
 
 Please note:
 
-If you are a new customer, we can begin sharing your information 30 days from the date we sent this notice. When you are no longer our customer, we continue to share your information as described in this notice. However, you can contact us at any time to limit our sharing.  
+If you are a _new_ customer, we can begin sharing your information **30** days from the date we sent this notice. When you are _no longer_ our customer, we continue to share your information as described in this notice. However, you can contact us at any time to limit our sharing.  
   
 ---|---  
 **Questions?** | Call 1-800-636-7622 or go to www.cadencebank.com  
@@ -75,19 +75,18 @@ If you are a new customer, we can begin sharing your information 30 days from th
 
 |    
 ---|---  
-**Who is providing this notice?** | This notice is provided by certain specific companies* in the Cadence Family of Companies, such as banks, insurance agencies, securities broker-dealers, investment advisors, and mortgage companies.  
+**Who is providing this notice?** | This notice is provided by Cadence Bank N.A.; Cadence Financial Corporation and Cadence Bancorp LLC; each a financial holding company; Linscomb & Williams and Town and Country, Inc. DBA Cadence Insurance.  
   
 ### **What we do**
 
 |    
 ---|---  
-**How does Cadence Family of Companies protect my personal information?** | 
+**How does Cadence and its affiliates protect my personal information?** | 
 
-To protect your personal information from unauthorized access and use, we use security measures that comply with federal law. These measures include computer safeguards and secured files and buildings.
-
+To protect your personal information from unauthorized access and use, we use security measures that comply with federal law. These measures include computer safeguards and secured files and buildings.  
 We also maintain other physical, electronic and procedural safeguards to protect this information with access limited to appropriate employees.  
   
-**How does Cadence Family of Companies collect my personal information?**
+**How does Cadence and its affiliates collect my personal information?**
 
 | We collect your personal information, for example, when you  
 
@@ -109,7 +108,7 @@ Federal law gives you the right to limit only
 
 State laws and individual companies may give you additional rights to limit sharing.  
   
-**What happens when I limit sharing for an account that I hold jointly with someone else?** | Your choices will apply to everyone on your account.  
+**What happens when I limit sharing for an account I hold jointly with someone else?** | Your choices will apply to everyone on your account.  
   
 ### **Definitions**
 
@@ -122,14 +121,14 @@ State laws and individual companies may give you additional rights to limit shar
 
 Companies related by common ownership or control. They can be financial and nonfinancial companies.
 
-  * _Our affiliates include companies with the Cadence name and financial companies such as banks, insurance agencies, securities broker-dealers, investment advisors, and mortgage companies._
+  * _Our affiliates include companies with the Cadence name and financial companies such as insurance agencies, securities broker-dealers, and investment advisors._
 
   
-**Nonaffiliates** | 
+**Non-affiliates** | 
 
 Companies not related by common ownership or control. They can be financial and nonfinancial companies.
 
-  * _We do not share with nonaffiliates so they can market to you._
+  * _We do not share with non-affiliates so they can market to you._
 
   
 **Joint marketing** | 
