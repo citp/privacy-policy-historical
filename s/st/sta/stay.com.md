@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stay.com privacy policy that was archived on 2013-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130521064430id_/http%3A//www.stay.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stay.com privacy policy that was archived on 2013-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131116224122id_/http%3A//www.stay.com/privacy) for the most accurate reproduction.*
 
 # Stay.com Social City Guides
 
