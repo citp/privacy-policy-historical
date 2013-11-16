@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mycharitywater.org privacy policy that was archived on 2013-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130517023820id_/http%3A//www.charitywater.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mycharitywater.org privacy policy that was archived on 2013-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131116204830id_/http%3A//www.charitywater.org/privacy) for the most accurate reproduction.*
 
 # privacy policy | charity: water
 
@@ -32,7 +32,7 @@ Personally identifiable information is stored on our server and is not publicly 
 
 If you have registered to receive e-mail communications from us and later change your mind, you may contact us to have your name removed from our distribution lists. You have the following options to do this: 
 
-You can send an e-mail to: [help@charitywater.org](mailto:help@charitywater.org)
+You can send an e-mail to: [support@charitywater.org](mailto:support@charitywater.org)
 
 You can send mail to the following address:
 
@@ -82,4 +82,4 @@ We may disclose personal information when required by law or in the good-faith b
 
 ##### For More Information
 
-If you have any questions, concerns or comments about privacy at our charitywater.org website, please send us a description of your concern via e-mail to [help@charitywater.org](mailto:help@charitywater.org) or call the main telephone number at (646) 688-2323. 
+If you have any questions, concerns or comments about privacy at our charitywater.org website, please send us a description of your concern via e-mail to [support@charitywater.org](mailto:support@charitywater.org) or call the main telephone number at (646) 688-2323. 
