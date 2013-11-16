@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the covertplayer.com privacy policy that was archived on 2013-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130604024217id_/http%3A//www.covertplayer.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the covertplayer.com privacy policy that was archived on 2013-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131116154019id_/http%3A//www.covertplayer.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Covert Player – Practical Video Player For Bloggers
 
