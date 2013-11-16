@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the erpko.com privacy policy that was archived on 2013-01-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130119090806id_/http%3A//www.erpko.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the erpko.com privacy policy that was archived on 2013-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131116143439id_/http%3A//www.erpko.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Erpko.com
 
