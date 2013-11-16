@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the loginto.org privacy policy that was archived on 2013-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130517145216id_/http%3A//www.loginto.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the loginto.org privacy policy that was archived on 2013-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131116155858id_/http%3A//www.loginto.org/privacy-policy) for the most accurate reproduction.*
 
 # Loginto.org Privacy Policy
 
@@ -29,15 +29,15 @@ If you wish to disable cookies, you may do so through your individual browser op
 
 ## Latest Login Searches
 
-  * [americanwholesale.com Login](https://web.archive.org/americanwholesale.com-login)
-  * [110mb.info Login](https://web.archive.org/110mb.info-login)
-  * [afepub.com Login](https://web.archive.org/afepub.com-login)
-  * [1keylogger.com Login](https://web.archive.org/1keylogger.com-login)
-  * [3myfm.com Login](https://web.archive.org/3myfm.com-login)
-  * [usatodayhss.com Login](https://web.archive.org/usatodayhss.com-login)
-  * [skz.or.jp Login](https://web.archive.org/skz.or.jp-login)
-  * [arteblog.com.br Login](https://web.archive.org/arteblog.com.br-login)
-  * [ohhappyday.com Login](https://web.archive.org/ohhappyday.com-login)
-  * [nova-wings.ru Login](https://web.archive.org/nova-wings.ru-login)
+  * [640wgst.com Login](https://web.archive.org/640wgst.com-login)
+  * [alpha-innotec.at Login](https://web.archive.org/alpha-innotec.at-login)
+  * [americancurves.com Login](https://web.archive.org/americancurves.com-login)
+  * [ablufttoilette.de Login](https://web.archive.org/ablufttoilette.de-login)
+  * [applestan.com Login](https://web.archive.org/applestan.com-login)
+  * [lmu.edu Login](https://web.archive.org/lmu.edu-login)
+  * [firstnationalcc.com Login](https://web.archive.org/firstnationalcc.com-login)
+  * [reelzhot.com Login](https://web.archive.org/reelzhot.com-login)
+  * [javblog.biz Login](https://web.archive.org/javblog.biz-login)
+  * [myclique.me Login](https://web.archive.org/myclique.me-login)
 
 
