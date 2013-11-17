@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gay.net privacy policy that was archived on 2013-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130525001324id_/http%3A//www.heremedia.com/legal/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gay.net privacy policy that was archived on 2013-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131117053235id_/http%3A//www.heremedia.com/legal/privacy_policy) for the most accurate reproduction.*
 
 # Here Media
 
@@ -162,7 +162,3 @@ Here Media Inc.
 Attention: Customer Care  
 10990 Wilshire Blvd. Penthouse   
 Los Angeles, CA 90024 
-
-Here Media Inc    |    10990 Wilshire Boulevard, Penthouse    |    Los Angeles, CA 90024    |    Phone: (310) 806-4288    |    Fax: (310) 806-4268 
-
-© 2012, Here Media Inc. All Rights Reserved.
