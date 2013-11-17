@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the efergy.com privacy policy that was archived on 2013-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130506105607id_/http%3A//www.efergy.com/index.php/default/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the efergy.com privacy policy that was archived on 2013-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131117072642id_/http%3A//efergy.com/privacy) for the most accurate reproduction.*
 
-# efergy UK - Privacy Policy
+# Privacy Policy
 
 Free shipping on orders over $96.00
 
@@ -18,7 +18,7 @@ Your personal details is held by efergy and kept confidential on our secure data
 
 
 
-We may contact you by email, phone, fax or mail. We may use the information to customise the website according to your interests.
+We may contact you by email, phone, fax or mail. We may use the information to customise the website according to your interests. We do not store credit card details nor do we share customer details with any 3rd parties.
 
 SECURITY
 
