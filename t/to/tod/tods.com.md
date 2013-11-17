@@ -1,176 +1,151 @@
-> *The following text is extracted and transformed from the tods.com privacy policy that was archived on 2013-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130527194649id_/http%3A//www.tods.com/us/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tods.com privacy policy that was archived on 2013-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131117080155id_/http%3A//www.tods.com/us/privacy) for the most accurate reproduction.*
 
 # Tod's Privacy Policy
 
-This notice is meant for all the subjects who visit and interact with the Internet website of the **TOD’S S.p.A.** Company (hereinafter, the " **Company** ").
+This information sheet is intended for all persons who visit and interact with this website of the company **TOD’S S.p.A.** (hereinafter also referred to as “ **Company** ”) and is provided for this website only and not for other websites that may be visited by the user by means of the _links_ contained on this site, notwithstanding those items that are clarified, for the purpose of providing complete information, in relation to the _web Store_ in which it is possible to purchase Tod’s, etc.]products _online._ The Company shall not in any way be responsible for any unlawful processing of its data by third parties. Therefore, to exercise the rights pursuant to the paragraph “ _Rights of the interested party_ ”, please see the specific informational reports that such third parties will be required to provide to you as autonomous Personal Data Controllers.  
+We would like to emphasise that you can access the _e-commerce_ website of TOD’s S.p.A directly from this website. This is the so-called “ _web Store_ ”, in which you can make online purchases; the _web Store_ is managed by Italian Touch S.r.l., a subsidiary of the Diego Della Valle e C. S.r.l. Group, which sells products under the Tod’s brand marketed on the _Store_.   
+If, therefore, you access the _Store_ directly from this website, you will on each occasion be provided with an information page on the handling of the data gathered, depending on the various end goal of the data that may be requested from you (for example, registration for the _Store_ or for online purchases, etc.), which will also be on behalf of TOD’s S.p.A as joint controller or, depending on the case, an independent controller.   
+The informational report is also motivated by Recommendation no. 2/2001 that the European authorities for the protection of personal data, who comprise the Group created by Art. 29 of Directive no. 95/46/EC, adopted on 17 May 2001 to identify certain minimum requirements for the gathering of personal data _online_ , and, in particular, the manner, timing and nature of the information that the personal data controllers must provide to users when users connect to _webpages_ , independently of the purposes of the connection.  
+Specific summarized informational reports will be reported or displayed from time to time on the pages of the site which have been prepared for particular services upon request.  
+The Company will process your personal data in accordance with the provisions set out under Legislative Decree 196/2003 and subsequent amendments (hereinafter, the “ **Privacy Code** ”).
 
-The provisions contained herein apply solely to the Company website ( _www.tods.com_ ) to the exclusion of other websites as may be reached by a user via links contained in the Company site. The Company shall not be liable in any way for any illegitimate use of your data by third parties. Accordingly, for the exercise of the rights set out below in the paragraph “ _Rights of the subjects concerned_ ” you are referred to the specific information to be made available to you by third parties in their position as independent Personal Data Controllers .
+**Browsing Data**
 
-This notice is also in keeping with Recommendation no. 2/2001 that the European authorities for the protection of personal data, working as a Group set up pursuant to art. 29 of directive no. 95/46/CE, adopted on 17 May 2001 in order to identify certain minimum requirements for the on-line collection of personal data and, in particular, the modalities, timing and nature of the information that personal data controllers must provide to users connecting with a web page, irrespective of the purposes of the connection.
-
-Specific summary information shall be given or displayed from time to time in the website pages concerning specific services supplied on request.
-
-The Company shall process your personal data in accordance with the provisions set  out in Law Decree 196/2003 and subsequent amendments thereto (hereinafter, the “ **Privacy Code** ”).
-
-**Navigation data** ** **
-
-In the course of their normal operation, the IT systems and the software procedures used to operate this website acquire personal data whose transmission is implicit in the use of Internet communication protocols.
-
-Although personal information is not collected to be associated with identified subjects, nevertheless, on account of its very nature, through ad hoc processes and association with data held by third parties, personal information could lead to the identification of the users concerned.
-
-This category of data includes the IP addresses and domain names of the computers used by the users to connect with the website, the addresses of the resources requested in URI (Uniform Resource Identifier) notation, the time of the request, the method used to submit the request to the server, the size of the file obtained in reply, the numerical code denoting the status of the reply by the server (completed successfully, error, etc.), and other parameters concerning the operating system and the IT environment of the users.
-
-Such data are used for the sole purpose of collecting anonymous statistical information on the use of the website and to make sure that the site is working properly. Once processed, the data are deleted forthwith. The data might be used for the determination of accountability in the event of alleged IT crimes being committed against the website. Other than in this case, web contact data are not kept longer than fifteen days.
+The IT systems and _software_ procedures devoted to the task of operating this website acquire some personal data as part of their normal functions, the transmission of which is implied in the use of the _internet_ communication protocols. ****  
+This information is not gathered for the purpose of being connected with identified interested parties but may, due to its nature, enable users to be identified by processing and combination with data held by third parties.  
+This category of data includes IP addresses or domain names of computers used by users who connect to the website, URI (“ _Uniform Resource Identifier_ ”) notation addresses of the requested resources, the time of the request, the method used to submit the request to the _server_ , the size of the file returned, the numeric code indicating the status of the response given by the server (successful, error, etc.) and other parameters related to the user’s operating system and IT environment.  
+This data is used for the sole purpose of obtaining anonymous statistical information on site usage and to control the correct functioning of the site, and is deleted immediately after it is processed. The data may be used to verify liability in the case of hypothetical computer crimes that constitute damages to the website, otherwise, in the current state, the website contact data will not be kept for more than fifteen days.
 
 **Cookies**
 
-The website does not make use of cookies for the transmission of information of a personal nature, and the so-called permanent cookies are used solely for registered users, in encrypted mode, for the sole purpose of keeping their navigation sessions active.
+_Cookies_ are not used for the transmission of personal information. The use of these persistent _cookies_ pertains only to users registered by means of encryption for the sole purpose of keeping their browsing sessions active.  
+The use of so-called session _cookies_ (which are not persistently stored on the user’s computer and are deleted when the _browser_ is closed) is strictly limited to the transmission of session identifiers (composed of random numbers generated by the _server_ ) necessary to enable the website to be explored efficiently and safely.  
+The use of so-called persistent _cookies_ (which have a lifetime beyond the browsing session) is exclusively intended to keep the user’s shopping basket open. No confidential personal data or information is tracked in any way.  
+The user can also configure their browser to reject _cookies_ or to warn when a _cookie_ is received. For this purpose, each user can find the necessary information to disable the _cookies_ in their _browser’s_ menu bar under the “help” heading. The risk of this is that some websites do not function correctly without cookies. Therefore, if cookies are disabled, our Company cannot guarantee that its website will function correctly.  
+The so-called session _cookies_ used on this website avoid the need for other computer techniques that may compromise the confidentiality of the user’s browsing session and prevent the user’s personal identification details from being obtained.
 
-The use of the so-called session cookies (which are not permanently saved in the user’s computer and disappear when the browser is closed) is strictly limited to the transmission of session identifiers (random numbers generated by the server) as needed to ensure an effective and secure exploration of the site.
+**Purposes of data processing**
 
-The use of the so-called permanent cookies (lasting longer than the navigation session) are used solely to operate the user cart, if any. No tracing system is used for personal data and reserved information.
+**Signing up for our newsletter** **and any consent for marketing and/or profiling; purchase of products from Tod’s Group’s stores and possible completion of coupons for marketing and/or profiling purposes.**  
+If you wish, you can also sign up to receive our newsletter.   
+Similarly, when making a purchase from one of Tod’s Group’s stores, you may be given the option to provide us with your data by filling out an appropriate paper coupon intended to help us improve the service that **TOD’S** Group intends to offer to its Customers.   
+The data that you provide by filling out coupons in one of the Group’s stores and/or by signing up for our newsletter shall be processed - only with your free, prior, express consent – by **TOD’S S.p.A.** with registered office in Italy at Via Filippo della Valle 1, S. Elpidio a Mare (FM), for the following purposes:   
+(i)            offers for promotions, discounts, special payment terms and other services, as well as to send commercial or promotional information or free products, information about participation in exhibitions or events, conduction of market research and notification of all the special initiatives dedicated to TOD’S customers;  
+(ii)           analysis of your consumer choices (so-called “profiling”) through a survey of the type and frequency of your online purchases and/or purchases at TOD’S Group stores, so that we can better serve you when you make future purchases at one of the Group’s stores or for the purposes stated in the preceding paragraph.
 
-Users may configure their browser to reject cookies or to receive a warning every time a cookie is sent. To this end, users will find the instructions on how to disable the cookies in the tool bar of their browser, under the heading “Help”. However, this may affect the operation of some websites and our Company cannot ensure that its site will work properly when cookies are disabled.
+The data may also be processed for statistical or historical purposes.
 
-The session cookies used avoid recourse to other IT techniques that may compromise the privacy of the users navigating the web, and do not permit the acquisition of a user’s personal ID data.  
+**Browsing and registering on the _“web Store”_** **; possible consent for marketing and/or profiling**
 
-**Vendors**
+I   
+As already mentioned, on this website, you can directly access the _e-commerce_ website of **TOD’s** S.p.A., the so-called “web Store”, in which you can also make online purchases; the web Store is managed by Italian Touch S.r.l., a subsidiary of Diego Della Valle e C. S.r.l. Group; in the web _Store_ , you will, on each occasion, be presented with an appropriate information page related to the various purposes of the data that might be required from you.  
+The data provided for registration with the _Store_ , and thus intended for potential online purchase of a product, will be processed by **TOD’S** in its capacity as joint data controller together with **ITALIANTOUCH** S.r.l., sole shareholder company, a subsidiary of Diego Della Valle e C. S.r.l. Group, with registered office at Corso Umberto I, n. 171, Civitanova Marche (MC), in order to manage access to the Store’s services and facilitate the online purchase of products.
 
-We wish to inform you that TOD’S S.p.A. shall process your personal data in keeping with the provisions set out in Law Decree 196/2003 and subsequent amendments thereto; therefore, your personal information shall be processed according to the principles of honesty, legitimacy and transparency, as well as the protection of your privacy rights and other rights. Accordingly, pursuant to art. 13 of said law decree, we submit to your attention the following information:
+At all times in the web _Store_ , you can give you prior, free, express consent for your data to be handled by **TOD’S** S.p.A. for the following possible purposes:   
+(i)            offers for promotions, discounts, special payment terms and other services, as well as to send commercial or promotional information or free products, information about participation in exhibitions or events, conduction of market research and notification of all the special initiatives related to TOD’S products or third-party products  
+(ii)           analysis of your consumer choices (so-called “profiling”) through a survey of the type and frequency of your online purchases and communicated to TOD’S, so that we can better serve you when you make future purchases at one of the Group’s stores or for the purposes stated in the preceding paragraph.  
+The data may also be processed for statistical or historical purposes.
 
-  1. The data you supply shall be processed for the following purposes: 
+**Data handling methods**
 
+Data handling will be carried out with the help of computer, paper and telecommunications tools. The data handling will be governed by principles of honesty, legality, transparency and protection of your rights and privacy.  
+The data will be handled in such a way as to reduce to a minimum the risks of destruction, loss, unauthorised access, or handling which was not consented to or which does not conform to the purposes for which it was collected.
 
+**The providing of data and consequences if no consent is given to handling data**
 
-(a)                meet the obligations arising from the contractual relationship established between you and the Company;
+_Data necessary for registration with the Store._ __  
+If the data required for registration or for access to the Store’s services, and possible online purchases, is not provided, it will not be possible to register or make purchases on the _web Store_.  
+We should point out, for the sake of completeness, that the information related to your credit card used to purchase our products will not be registered and/or stored either by ITALIANTOUCH or by TOD’s or by other companies in the TOD’s Group. The said information will only be stored by the payment service provider.
 
-(b)                fulfil administrative and accounting tasks (order management/filling, correspondence, invoicing, etc.) associated with the aforementioned contractual relationship;
+_Optional consent for marketing and/or profiling_ __  
+Any refusal to provide data or failure to give consent for processing of such data for marketing and/or profiling purposes, as indicated in points (i) and (ii) of the paragraphs “ _Signing up for our newsletter and possible consent for marketing and/or profiling; purchase of products from Tod’s Group’s stores and completion of coupons for marketing and/or profiling purposes_ ” and “ _Browsing on the ‘web Store’; consent for marketing and/or profiling_ ”, will simply mean that the data cannot be processed for the purposes indicated in those respective points.   
+It is therefore understood that in no event will your not consenting to the handling of your data for the purposes of “ _Marketing and/or profiling_ ” impede your ability to purchase TOD’S Group products.
 
-(c)                 comply with the applicable law provisions, regulations and, in general, with any applicable standards, including EU standards, on case by case basis. 
+**Persons or categories of persons to whom the data may be communicated and scope of dissemination of the data**
 
-  1. The data shall be processed by means of telematic, paper and IT tools.
-  2. Communicating the data is mandatory for the fulfilment of the abovementioned tasks.
+Your data will not be disclosed.  
+_Data provided by signing up to our newsletter or with the Tod’s Group stores._  
+The data provided by you, subject to consent, for the purposes stated in points (i) and (ii) and in the paragraph “ _Signing up for our newsletter and possible consent for marketing and/or profiling; purchase of products from Tod’s Group stores and completion of coupons for marketing and/or profiling purposes_ ”, will be accessible – always and exclusively with a view to achieving the aforementioned purposes and to ensure constant accuracy and updates at the time of any future relations you may have with **TOD’S** Group – by employees and contractors (including service providers such as couriers and shipping agents, data entry companies, etc.) of **TOD’S** S.p.A., charged with processing the data, by companies of **TOD’S** Group, in the capacity of external data managers, and by **TOD’S** store managers charged with processing the data, with registered office in Italy or abroad (including outside the EU).
 
+_Date provided on the “web Store”_  
+The data provided by you for registration and access to the Store will be accessible by employees and contractors of TOD’S (in its capacity as joint data controller together with ITALIANTOUCH S.r.l.) and may be communicated, for administrative purposes only, to TOD’S Group companies, commercial partners, all service providers and product suppliers used by Tod’s in Italy and abroad.
 
+The data provided by you, subject to consent, for the purposes stated in points (i) and (ii) of the paragraph “Browsing and Online Purchasing of products on the ‘web Store’“; consent for _marketing and/or profiling_ , will be accessible – always and exclusively with a view to achieving the aforementioned purposes and to ensure constant accuracy and updates at the time of any future relations you may have with the Group – by employees and contractors (including service providers such as couriers, shipping agents, data entry companies, etc.) of TOD’S S.p.A., charged with processing the data, by companies of TOD’S Group, in the capacity of external data managers, and by TOD’S store managers charged with processing the data, with registered office in Italy or abroad (including outside the EU).   
+Persons in charge of maintenance and development of the computer system will also be able to access the data, but only for the periods of time strictly necessary to perform such service.  
+For any additional information, please refer to the respective information page shown at the time the data is collected on the web Store.   
+In general, the data may, if necessary, be transmitted to the Competent Authorities, in accordance with legal obligations.
 
-Failure to supply the data required or the submission of incorrect data may entail the inability on the part of our Company to execute the tasks entrusted to it either fully or partly and/or the impossibility of maintaining the relationship established with it.
+**Duration of data handling** ****
 
-  1. Your data shall not be disclosed. The data shall be accessible to the Company employees in charge of data processing for the purposes set out above at points (a), (b) and (c); the data may be communicated to third parties, including our commercial partners and authorised service providers solely for administrative and accounting purposes associated with the contractual relationships established with the Company and in order to meet the obligations arising therefrom; in particular, your data may be communicated to other TOD’S S.p.A. Group member companies operating in Italy and abroad. The data may also be communicated/made accessible to subjects entrusted with the tasks of maintaining/developing our IT system, for the time necessary for the execution of said task.
-  2. Your data shall be kept by our Company for the time period necessary to ensure the proper fulfilment of the aforementioned contractual obligations, subject to the possibility of having to keep the data over a longer period of time pursuant to the applicable regulations in force, including accounting regulations. 
-  3. The data controller is **TOD’S S.p.A.** , **** with registered office in **** Via Filippo Della Valle 1, Sant’Elpidio a Mare (FM), Italy.
-  4. The person in charge of managing the data, towards whom you may exercise the rights as per point 8 below is the manager ad interim of the Administration and Finance office of the Company, who can be contacted at the following email address: [info.privacy@todsgroup.com](mailto:info.privacy@todsgroup.com).
-  5. You have the right to be informed at any time as to what information is in possession of our Company and how it is processed pursuant to art. 7 of Law Decree 196/03 whose text is given in full below, in paragraph “ _Rights of the subjects concerned_ ”.
+Your data will be retained by the Company only for the period which is strictly necessary to ensure proper performance of the services purchased, unless there is a need to retain the data for a longer period of time to comply with regulations, including accounting regulations.  
+It is understood that your data will be retained and handled by TOD’S S.p.A. for profiling purposes only for the maximum period of time permitted by applicable regulations. At the end of that period, our Company may ask you to renew your consent to process your data or convert them to anonymous form and retain them solely for statistical or historical purposes.   
+In any event, you may revoke your consent to the handling of the data for _marketing_ purposes at any time: every business communication to you will have a section which will allow you to easily revoke your consent.  
+The data transmitted to any service providers will be handled by these for the time strictly necessary for the performance of the tasks entrusted to them.
 
+**Data Controller**
 
+The independent data controller for the data that may be provided as part of signing up to this website’s newsletter and/or completion of the coupons at one of Tod’s Group’s stores is **TOD’S S.p.A.** , with registered office in Italy, at Via Filippo della Valle 1, S. Elpidio a Mare (FM), which can be reached by writing to the following email address: [info.privacy@todsgroup.com](mailto:info.privacy@todsgroup.com)
 
-**Purchase of products**
+In addition, Tod’s S.p.A. is:  
+\- joint data controller (together with Italian Touch) of the data provided by you when registering with the _Store_ to access the respective services;   
+\- independent data controller for the data provided for the marketing and/or profiling purposes mentioned in the paragraph “Browsing on the ‘web Store’; consent for _marketing and/or profiling_ ”,   
+The Data Handling Supervisor for the purposes of handling your personal data, whom you should contact to exercise the rights set forth in the following paragraph (“ _Rights of the data subject_ ”), is the _pro tempore_ supervisor of the Customer Care Department, who can be reached by writing to the following email address: [customercare@todsgroup.com](mailto:customercare@todsgroup.com).
 
-If the product purchasing service is available in your Country, the data you submit to buy a product on-line shall be processed by the Company and by E.TOD’S.Inc, a TOD’S Group member company, with registered office at 450 West 15th Street, Suite 501, New York, NY 10011, for the following purposes:
+**General information for Suppliers**
 
-(a)                 to ensure the delivery of the products you purchased and the prompt fulfilment of all the contractual obligations arising from the relationship established with our Company;
+We wish to inform you that TOD’S S.p.A. will process your data in compliance with the provisions of Legislative Decree 196/2003 as subsequently amended; your data will thus be processed in full accordance with the principles of fairness, legitimacy and transparency and the principles of protecting your privacy and rights. Within the meaning of article 13 of the above Legislative Decree, please be informed of the following:
 
-(b)                to comply with the administrative, accounting and tax requirements arising from the relationship established with our Company;
+  1. The data supplied by you will be handled for the following purposes: 
+  2. performance of the obligations derived from the contractual relations entered into between you and the Company; 
+  3. fulfilment of administrative and accounting requirements (management/entering orders, correspondence, invoicing, etc.) connected to the aforementioned contractual relations;
+  4. fulfilment of legal and regulatory obligations and, in general, rules that may become applicable from time to time, including community rules.
+  5. The data will be processed with the help of telematic, hard copy, and computer instruments.
+  6. The provision of the data is obligatory in order to fulfil the above purposes.
 
-(c)                  in the event of an interruption in the product purchasing service occurring for any reason, to send you an e-mail to allow you to restart the purchasing procedure at the point where it was interrupted and to profit from the assistance of our staff to address any problems to do with the purchasing process;
 
-(d)                to comply with the applicable law provisions and regulations and, in general, with any applicable standards, including EU standards, on case by case basis.
 
-In some cases, to be able to purchase products on-line through the _www.tods.com_ site, you may be asked to create a personalised _account_ by registering through an ad hoc procedure. When you register, you shall be asked to submit only the data necessary for the purchase of the products. Such data may also be used for the purposes specified in the following section, but only if you have given your free and express consent in advance. In all cases, when you register, you shall be provided with specific information about the processing of your personal data.
+Any refusal to provide the required data or inaccuracy of such data, may lead to non-performance or partial performance of the tasks entrusted to the Company and/or it will not be possible to pursue the relations implemented with the said Company.
 
-Information relating to the credit card you use to purchase our products shall not be recorded and/or retained by E.TOD’S.Inc or by any other Group member company.
+  1. The data will not be disseminated. It will be accessible by the employees of the Company charged with processing the data in order to fulfil the purposes stated in points (a), (b), and (c) above; it may be communicated to third parties, including our commercial partners and authorised service providers, exclusively for administrative and accounting purposes related to the aforementioned contractual relations implemented with the Company and to better fulfil the obligations derived from such relations; in particular, your data may be communicated, in Italy or abroad, to other Companies of TOD’S S.p.A Group. 
 
-Pursuant to Recommendation no. 2/2001, we hereby inform you that you have the right to access your personalised _account_ at any time to modify, correct and/or delete the personal data submitted during the purchasing process. You can exercise this right by using the procedure provided on our site for accessing your personalised _account_.
 
-**_Marketing_** **and/or profiling**
 
-The data you submit when you purchase our products (whether on-line __ or at one of the Group’s stores) shall be processed – only with your free and express consent given in advance – by the parent company, **TOD’S S.p.A.,** with registered office in Italy, Via Filippo della Valle 1, S. Elpidio a Mare (FM), for the following purposes:
+Persons in charge of maintenance and development of our computer system may also receive/be able to access the data, but only for the periods of time strictly necessary to perform such service.
 
- (a)          offering promotions, discounts, special payment terms and other services, as well as providing commercial or promotional information or free products, information about participation in exhibitions or events, conducting market surveys, notifying special initiatives reserved for TOD’S customers;
+  1. Your data will be retained by the Company only for the period which is strictly necessary to ensure proper performance of the aforementioned contractual obligations, unless there is a need to retain the data for a longer period of time to comply with regulations, including accounting regulations. 
+  2. The Data Controller is **TOD’S S.p.A.** , with registered office at **** Via Filippo Della Valle 1, Sant’Elpidio a Mare (FM), Italy.
+  3. The Data Supervisor whom you should contact to exercise the rights set forth in the following paragraph, is the _pro tempore_ supervisor of the Administration and Finance Department of the Company, who can be reached by writing to the following email address: info.privacy@todsgroup.com.
+  4. You have the right, at any time, to know which data the Company is in possession of and how such data is used in compliance with the provisions of article 7 of Legislative Decree 196/03, the text of which is fully transcribed in the following paragraph “ _Rights of the data subject”_.
 
-(b)           analysing your consumption choices (i.e., “profiling”) by determining the types and frequency of the purchases made at TOD’S Group stores, so as to be able to assist you more efficiently on the occasion of future purchases at one of the Group’s stores, or for the purposes stated in the preceding paragraph;
 
-(c)           processing the information for statistical and historical purposes.
 
-**Data processing modalities**
-
-Your data shall be processed with IT, paper and telecommunications tools. Processing modalities shall be governed by the principles of honesty, legality, transparency and protection of your rights and privacy.
-
-The data shall be processed in such a way as to reduce to a minimum the risks of destruction, loss, unauthorised access to or illicit use of the data, or the use thereof for purposes other than those for which it was collected.
-
-**Submitting the required data, consequences of not consenting to the processing of your data**
-
-Failure to submit the required data or failure to consent to the processing of the data for the purposes set forth in paragraphs (a), (b) and (c) of the section “ _Purchase of products_ ” may result in E.TOD’S.Inc.’s inability to fulfil its obligations either fully or partly, and/or the inability to continue the contractual relationship established with E.TOD’S.Inc.
-
-Refusal to submit the data or failure to consent to the processing of the data for the purposes set forth in paragraphs (a), (b) and (c) of the section “ _Marketing and/or profiling_ ” shall simply result in TOD’S S.p.A.’s inability to process the data for the purposes set forth in said paragraphs. It remains understood that your ability to purchase TOD’S Group products shall not be affected by your not consenting to the processing of your data for “ _Marketing and/or profiling_ ” purposes.
-
-**Subjects or categories of subjects to whom the data may be communicated and scope of dissemination of the data  **
-
-Your information shall not be disclosed.
-
-Data that you submit to purchase one of our products shall be accessible to employees and collaborators of E.TOD’S.Inc who are in charge of processing the data for the purposes set forth above in points (a), (b) and (c) of the section “ _Purchase of products_ ”. Such data may be communicated solely and exclusively for said purposes, in Italy and abroad, to business partners and all vendors of services and products with whom E.TOD’S Inc. collaborates for the sole purpose of fulfilling its contractual obligations. Such data may also be communicated to TOD’S Group member companies, but only to the extent necessary to purchase products you request and for administrative and accounting purposes;
-
-With your prior consent, for the purposes set forth in letters (a), (b) and (c) of the section “ _Marketing and/or profiling_ ”, your information shall be communicated (solely to fulfil said purposes and to ensure that your information is always correct and updated whenever you come into contact with our Group in the future) to: employees and collaborators of TOD’S S.p.A. in charge of data processing, TOD’S Group companies in their capacity as external data processing supervisors, and the managers of TOD’S stores in Italy and abroad who are in charge of processing the data.
-
-Persons in charge of the maintenance and development of our IT system shall also be able to access the data, but only for the period of time strictly necessary to perform such service.
-
-**Duration of data processing** ** **
-
-Your data shall be kept by E.TOD’S.Inc only for the time period strictly necessary to ensure proper performance of the services purchased, unless it proves necessary to keep the data for a longer period of time to comply with applicable regulations, including accounting regulations.
-
-It remains understood that your data shall be retained and processed by TOD’S S.p.A. for profiling purposes only for the maximum period of time permitted by the applicable regulations. At the end of said period, our Company may ask you to renew your consent to the processing of your data or to consent to their being converted to anonymous form and used solely for statistical or historical purposes.
-
-In any event, you may revoke your consent to the processing of your data for _marketing_ purposes at any time: every business communication to you shall include a section which allows you to revoke your consent through a simple procedure.
-
-**Data Controllers**
-
-The Data Controllers for purposes relating to the purchase of products online on the www.tods.com site are: the Parent Company, TOD’S S.p.A., with registered office in Sant’Elpidio a Mare (FM), Via Filippo Della Valle 1, and the E.TOD’S.Inc Company, a TOD’S Group member company with registered office at 450 West 15th Street, Suite 501, New York, NY 10011, which may be contacted by writing to the following email address: [info.privacy@todsgroup.com](mailto:info.privacy@todsgroup.com).
-
-For the processing of data for the purposes set forth in the section “ _Marketing and/or profiling_ ”, the Data Controller is the Holding Company, TOD’S S.p.A., with registered office in Italy, Via Filippo della Valle n. 1, Sant’Elpidio a Mare (FM).
-
-The Data Processing Supervisor whom you should contact to exercise the rights set forth below, in the paragraph on the “ _Rights of the subjects concerned_ ”, is the _pro-tempore_ supervisor of the Customer Care Department who can be reached by writing to the following email address: [customercare@todsgroup.com](mailto:customercare@todsgroup.com).
-
-**Rights of the subjects concerned**
-
-You have the right to be informed at any time as to what information is in possession of our Company and how it is processed. You have the right to exercise your rights towards the Data Controller at any time, pursuant to art. 7 of Law Decree no. 196/2003.
-
-For our convenience, we reproduce below the text of art. 7 in its entirety:
-
-**“ _Art. 7. Right of access to personal data and other rights_** _ _
-
-_1\. The subjects concerned have the right to obtain confirmation of the existence of their personal data, whether or not the data have already been registered, and the communication thereof in intelligible form._
-
-_2\. The subjects concerned have the right to be informed of:_
-
-_a) the origin of their data;_
-
-_b) the purposes and modalities of the data processing;_
-
-_c) the criteria applied if the information is processed by means of electronic equipment and tools;_
-
-_d) the identification data of the data controller, the people in charge and the representative appointed pursuant to article 5, clause 2;_
-
-_e) the subjects and the categories of subjects to whom the personal data may be communicated, or who may come in possession of the data in their position as appointed representatives within the national territory, or in their position as controllers or supervisors._
-
-_3\. The subjects concerned have the right to obtain:_
-
-_a) that their data be updated, corrected, or, if desired, supplemented;_
-
-_b) that their data be deleted, converted into anonymous form, or blocked if processed in violation of the law, including the data that need not be retained in connection with the purposes for which the information has been collected or was subsequently processed;_
-
-_c) a statement attesting that the operations as per letters a) and b) have been communicated, also in terms of the content thereof, to the persons and organisations to whom the data have been disclosed or communicated, other than when meeting this requirement proves impossible or calls for the use of resources clearly out of proportion with the right to be protected._
-
-_4\. The subjects concerned have the right to oppose, fully or partly:_
-
-_a) on legitimate grounds, the processing of their personal data, even for the purposes for which the data is collected;_
-
-_b) the processing of their personal data for the sending of advertising or direct sales materials or the execution of market surveys, or the dissemination of commercial information._ ”
+**Rights of the data subject**
+
+You have the right, at any time, to know which data the Company is in possession of and how such data is used. You may at any time exercise your rights with the Data Controller in accordance with article 7 of Legislative Decree no. 196/2003.  
+For your convenience, we have reproduced, hereunder, the text of article 7:
+
+**“ _Article 7. Right of Access to Personal Data and Other Rights_**  
+_1._ _The data subject shall have the right to obtain confirmation as to whether or not personal information concerning him exists, regardless of their being already recorded, and communication of such information in intelligible form._  
+_2._ _The data subject shall have the right to be informed:_  
+_a) of the source of the personal information;_  
+_b) of the purposes and methods of the processing;_  
+_c) of the logic applied to the processing, if the latter is carried out with the help of electronic means;_  
+_d) of the identification information concerning the data controller, data processors and the representative designated as per article 5, paragraph 2;_  
+_e) of the entities or categories of entities to whom or which the personal information may be communicated and who or which may obtain knowledge of said information in their capacity as designated representative in the State’s territory, data processor or person in charge of the processing._  
+_3._ _The data subject shall have the right to obtain:_  
+_a) updates or rectification of or, where interested therein, additions to the data;_  
+_b) deletion, anonymisation or blocking of data that has been processed unlawfully, including data whose retention is unnecessary for the purposes for which it was collected or subsequently processed;_  
+_c) certification to the effect that the operations as per letters a) and b) have been notified, as also related to their contents, to the entities to whom or which the data was communicated or disseminated, unless this requirement proves impossible or involves a manifestly disproportionate effort compared with the right that is to be protected._  
+_4._ _The data subject shall have the right to object, in whole or in part:_  
+_a) on legitimate grounds, to the processing of personal data concerning him/her, even if it is relevant to the purpose of the collection;_  
+_b) to the processing of personal information concerning him/her, where it is carried out for the purpose of sending advertising materials or direct selling or else for the performance of market or commercial communication surveys._
 
 **For US residents only**
 
-If you claim that your personal information has been used in a manner that is improper and/or contrary to these Terms of Use or that we have otherwise violated your rights or privacy, you must first give us an opportunity to resolve your claim by sending a written description of your claim to Richard Spata, Chief Financial Officer, r.spata@todsgroup.com. We each agree to review and negotiate your claim in good faith.  If we reject your claim or if we are unable to negotiate a resolution of your claim with you, then either you or we may start arbitration proceedings which shall be conducted in New York, New York or such other jurisdiction as may be agreed by the parties in the interest of fairness and convenience.  You agree that if you choose to pursue any such claim, you will pursue such claim in an arbitration proceeding (rather than in any judicial forum or court).  Any dispute arising out of or relating in any way to use of your personal information and/or violation of your rights of privacy will be resolved by binding arbitration. The arbitration shall be conducted by a single arbitrator in the city of New York, New York, U.S.A., in accordance with the rules of the American Arbitration Association ("AAA"). No claims of any other parties may be joined or otherwise combined in the arbitration proceeding. Unless otherwise expressly required by applicable law, each party shall bear its own attorneys fees without regard to which party is deemed the prevailing party in the arbitration proceeding.  The arbitrator shall be authorized to award either party any remedy permitted by applicable law. 
+If you claim that your personal information has been used in a manner that is improper and/or contrary to these Terms of Use or that we have otherwise violated your rights or privacy, you must first give us an opportunity to resolve your claim by sending a written description of your claim to Richard Spata, Chief Financial Officer, r.spata@todsgroup.com. We each agree to review and negotiate your claim in good faith. If we reject your claim or if we are unable to negotiate a resolution of your claim with you, then either you or we may start arbitration proceedings which shall be conducted in New York, New York or such other jurisdiction as may be agreed by the parties in the interest of fairness and convenience. You agree that if you choose to pursue any such claim, you will pursue such claim in an arbitration proceeding (rather than in any judicial forum or court). Any dispute arising out of or relating in any way to use of your personal information and/or violation of your rights of privacy will be resolved by binding arbitration. The arbitration shall be conducted by a single arbitrator in the city of New York, New York, U.S.A., in accordance with the rules of the American Arbitration Association ("AAA"). No claims of any other parties may be joined or otherwise combined in the arbitration proceeding. Unless otherwise expressly required by applicable law, each party shall bear its own attorneys fees without regard to which party is deemed the prevailing party in the arbitration proceeding. The arbitrator shall be authorized to award either party any remedy permitted by applicable law.
 
-If you wish to pursue your claim in arbitration, you must send a letter requesting arbitration and describing your claim to our registered  to [name of agent] in order begin arbitration. The American Arbitration Association (AAA) will arbitrate all disputes pursuant to the rules of the American Arbitration Association (AAA). For claims of less than $75,000, the AAA's Supplementary Procedures for Consumer-Related Disputes will apply; for claims over $75,000, the AAA's Commercial Arbitration Rules will apply. The AAA rules are available at www.adr.org or by calling 1-800-778-7879.
+If you wish to pursue your claim in arbitration, you must send a letter requesting arbitration and describing your claim to our registered to [name of agent] in order begin arbitration. The American Arbitration Association (AAA) will arbitrate all disputes pursuant to the rules of the American Arbitration Association (AAA). For claims of less than $75,000, the AAA's Supplementary Procedures for Consumer-Related Disputes will apply; for claims over $75,000, the AAA's Commercial Arbitration Rules will apply. The AAA rules are available at www.adr.org or by calling 1-800-778-7879.
 
 We each agree that any proceedings, whether in arbitration or court, will be conducted only on an individual basis and not in a class or representative action or as a member in a class, consolidated or representative action. If a court or arbitrator determines in an action between you and us that this class action waiver is unenforceable, the above arbitration agreement will be void as to you.
 
-An. Del. U.S.A., Inc. , - a wholly owned subsidiary of TOD’S - complies with the U.S.-EU Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries.  An. Del. U.S.A., Inc. has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement.  To learn more about the Safe Harbor program, and to view An. Del. U.S.A., Inc.’s certification, please visit <http://www.export.gov/safeharbor/>
+An. Del. U.S.A., Inc. , - a wholly owned subsidiary of TOD’S - complies with the U.S.-EU Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries. An. Del. U.S.A., Inc. has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view An. Del. U.S.A., Inc.’s certification, please visit <http://www.export.gov/safeharbor/>
