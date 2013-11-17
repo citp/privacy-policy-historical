@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fortytwo.sg privacy policy that was archived on 2013-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130509013501id_/http%3A//www.fortytwo.sg/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fortytwo.sg privacy policy that was archived on 2013-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131117102510id_/http%3A//www.fortytwo.sg/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Online Shopping | FortyTwo | Furniture & Appliances | FortyTwo
 
