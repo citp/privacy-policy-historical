@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sportscardigest.com privacy policy that was archived on 2012-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121118053751id_/http%3A//www.sportscardigest.com/about-sports-car-digest/site-map/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sportscardigest.com privacy policy that was archived on 2013-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131117034826id_/http%3A//www.sportscardigest.com/about-sports-car-digest/site-map/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Sports Car Digest
 
