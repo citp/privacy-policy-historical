@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mlbshop.com privacy policy that was archived on 2013-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130517003216id_/http%3A//shop.mlb.com/helpdesk/index.jsp%3Fdisplay%3Dsafety%26subdisplay%3Dprivacy%26clickid%3Dbotnav_privacy_txt) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mlbshop.com privacy policy that was archived on 2013-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131117080907id_/http%3A//shop.mlb.com/helpdesk/index.jsp%3Fdisplay%3Dsafety%26subdisplay%3Dprivacy%26clickid%3Dbotnav_privacy_txt) for the most accurate reproduction.*
 
 # Help
 
@@ -6,7 +6,7 @@
 
 **PLEASE READ THIS PRIVACY POLICY (THIS "PRIVACY POLICY") CAREFULLY BEFORE USING OUR WEBSITE, APPLICATIONS OR ANY OTHER MLB ADVANCED MEDIA, L.P. PRODUCT OR SERVICE.**
 
-MLB Advanced Media, L.P. is the organization that produces and publishes the Official Website of Major League Baseball, which encompasses MLB.com, the Official Websites of the thirty (30) Major League Baseball ("MLB") Clubs, the Official Websites of certain other MLB-related properties (collectively, this "Website"), downloadable mobile applications (e.g. MLB.com At Bat, MLB.com At the Ballpark) available from third party application storefronts ("Application(s)"), mobile games available from third party application storefronts (e.g. MLB.com Beat the Streak, MLB.com Head2Head) ("Mobile Games") and games and other applications available from third party social media locations and gaming websites ("Social Games"). This Privacy Policy is applicable to this Website, the Applications, Mobile Games and the Social Games, all of which will be called "Services" throughout this Privacy Policy, and describes what information we collect, how we may use that information and the choices we offer for you to manage the information we collect related to your use of our Services.
+MLB Advanced Media, L.P. is the organization that produces and publishes the Official Website of Major League Baseball, which encompasses MLB.com, the Official Websites of the thirty (30) Major League Baseball ("MLB") Clubs, the Official Websites of certain other MLB-related properties (collectively, this "Website"), downloadable mobile applications (e.g. MLB.com At Bat, MLB.com At the Ballpark) available from third party application storefronts ("Application(s)"), mobile games available from third party application storefronts (e.g. MLB.com Beat the Streak, MLB.com Head to Head) ("Mobile Games") and games and other applications available from third party social media locations and gaming websites ("Social Games"). This Privacy Policy is applicable to this Website, the Applications, Mobile Games and the Social Games, all of which will be called "Services" throughout this Privacy Policy, and describes what information we collect, how we may use that information and the choices we offer for you to manage the information we collect related to your use of our Services.
 
 **1\. Personal Information Collected Via Our Services**
 
@@ -75,6 +75,12 @@ We allow select third parties, such as those who deliver advertisements, content
   * _Social Networking_
 
 When using our Services or when using certain third party social networking services (e.g., Facebook, Twitter, Google +) (each and collectively, a "Social Network"), you may have the option to connect your Website, Application, Mobile Game or Social Game information and activity with your Social Network information and activity. If you authorize such a connection, you permit us to share or publish information about your activity on our Services, with that Social Network and its users, and to access certain of your Social Network information, as disclosed by you at the time you consent to the connection. Information we may share with a Social Network may include, but is not limited to: technical information about your Services activity, your Services comments or the videos you watch on our Services. Information we may access about you, with your consent, from a Social Network may include, but is not limited to, your basic Social Network information, your location data, your list of contacts, friends or followers, and certain of your activities on the Social Network. If you permit a connection between a Social Network and our Services, we (and that Social Network) may be able to identify you and to associate information received pursuant to the connection with information we already have about you. We recommend that you familiarize yourself with the privacy policy and privacy control options of any Social Network with which you choose to share information or connect to our Services. 
+
+  
+
+  * _Device ID_
+
+When using our Mobile Games, we or our third party service provider may collect your unique device ID and share it on an aggregated and anonymous basis to help us understand our users and provide you a better experience. The aggregated and anonymous data may also be used by our third party service provider in connection with its products and services. If you wish to opt out of this anonymous data collection, please [click here](http://www.flurry.com/user-opt-out.html) and follow the instructions.
 
   
 
@@ -148,7 +154,7 @@ If you are a resident of California, pursuant to California Civil Code Section 1
 
   * _Special Rules For Children._
 
-Because of federal law, we are not permitted to knowingly collect any personal information from a child under the age of thirteen without the consent of that child's parent or guardian. The statements in this Privacy Policy about our collection and use of personal information also apply to our treatment of personal information from children under the age of thirteen. Some elements of our Services (e.g., shop, ticketing, and auctions) require the submission of a payment card number along with personal information in connection with a purchase; other elements of our Services (e.g., fantasy baseball) require the submission of personal information to access or use the Services. Except in certain cases where limited contact information me be collected and not retained, these elements of our Services are available to children under the age of thirteen. If a child who we know to be under the age of thirteen and for whom we have not received parental consent attempts to utilize a service on this Services which is not available to children, he/she will not be able to access it and may receive a message which relays that he/she is not eligible for such feature.
+Because of federal law, we are not permitted to knowingly collect any personal information from a child under the age of thirteen without the consent of that child's parent or guardian. The statements in this Privacy Policy about our collection and use of personal information also apply to our treatment of personal information from children under the age of thirteen. Some elements of our Services (e.g., shop, ticketing, and auctions) require the submission of a payment card number along with personal information in connection with a purchase; other elements of our Services (e.g., fantasy baseball) require the submission of personal information to access or use the Services. Except in certain cases where limited contact information may be collected and not retained, these elements of our Services are available to children under the age of thirteen. If a child who we know to be under the age of thirteen and for whom we have not received parental consent attempts to utilize a service on this Services which is not available to children, he/she will not be able to access it and may receive a message which relays that he/she is not eligible for such feature.
 
   
 
@@ -175,4 +181,4 @@ If we make an important change to this Privacy Policy, we will post a notificati
 
 
 
-LAST UPDATED AND EFFECTIVE DATE: May 7, 2013
+LAST UPDATED AND EFFECTIVE DATE: May 24, 2013
