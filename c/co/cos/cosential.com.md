@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cosential.com privacy policy that was archived on 2013-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130426180436id_/http%3A//www.cosential.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cosential.com privacy policy that was archived on 2013-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131117013416id_/http%3A//www.cosential.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Cosential
+# Cosential - Privacy Policy
 
 Our postal address is  
 207 San Jacinto Blvd  
