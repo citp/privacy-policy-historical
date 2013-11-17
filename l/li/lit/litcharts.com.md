@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the litcharts.com privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501082426id_/http%3A//www.litcharts.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the litcharts.com privacy policy that was archived on 2013-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131117053235id_/http%3A//www.litcharts.com/privacy) for the most accurate reproduction.*
 
-# LitCharts Privacy Policy | LitCharts.com
+# LitCharts | Privacy Policy
 
 This privacy policy covers what information we collect from you when you visit or register for the LitCharts.com site, how we use it, and under what circumstances we disclose it. By using the LitCharts.com site, you agree with the terms and conditions of this privacy policy and Terms of Use.
 
@@ -18,9 +18,9 @@ You may write to us with comments, questions, and concerns. We will not knowingl
 
 c. Google & DART Cookie-Based Advertising
 
-  * Google, as a third party vendor, uses cookies to serve ads on our site. 
-  * Google's use of the DART cookie enables it to serve ads to our users based on visits to our site and other sites on the Internet. 
-  * Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html). 
+  * Google, as a third party vendor, uses cookies to serve ads on our site.
+  * Google's use of the DART cookie enables it to serve ads to our users based on visits to our site and other sites on the Internet.
+  * Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
 
 
 
