@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cutezee.com privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621144302id_/http%3A//www.cutezee.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cutezee.com privacy policy that was archived on 2013-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131117085927id_/http%3A//www.cutezee.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy policy | www.cutezee.com
 
@@ -11,6 +11,11 @@ The following is the official privacy policy for www.CuteZee.com, a website cent
 At www.CuteZee.com, we recognize that the privacy of your personal information is important and we take every measure to keep you informed on how we collect, safeguard and use your personal data, where applicable. We never sell your personal information to third parties, however our site might run scripts (such as Google Analytics) that collect log file information for analytical and statistical reports. 
 
 The kind of information these third parties collect include your IP address, your ISP ( Internet Service Provider), the browser you visit our site with (Firefox, Internet Explorer, Mozilla Firefox, Opera, Safari, etc), the pages you visit and the time you spend on pages of our site. This information is used strictly for ourselves, using it to better improve our site's performance and user experience. We will never sell your personal information to third parties. 
+
+Cutezee.com implemented the following Google Analytics features based on Display Advertising:  
+Google Analytics Demographics and Interest Reporting.
+
+You can opt-out of Google Analytics for Display Advertising and customize Google Display Network ads using the [Ads Settings](https://www.google.com/settings/ads). 
 
 ### Online Behavioral Advertising
 
