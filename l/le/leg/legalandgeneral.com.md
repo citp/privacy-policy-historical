@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the legalandgeneral.com privacy policy that was archived on 2013-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130612160659id_/http%3A//www.legalandgeneral.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the legalandgeneral.com privacy policy that was archived on 2013-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131117103153id_/http%3A//www.legalandgeneral.com/privacy-policy) for the most accurate reproduction.*
 
 # Legal & General - Privacy policy
 
@@ -8,12 +8,12 @@ When you use our website, you agree to us collecting and using personal informat
 
 We will never release information about our customers or business partners to any other person or organisation for marketing purposes unless we have your permission to do so.
 
-We may update this policy, so please check this page from time to time to make sure that you’re happy with any changes. This policy is effective from 25 May 2012.
+We may update this policy, so please check this page from time to time to make sure that you're happy with any changes. This policy is effective from 25 May 2012.
 
 ### Data Protection  
 
 
-Any personal information you supply to Legal & General via this website (and by other means) will be treated in accordance with the Data Protection Act 1998 and other legislation intended to protect your personal information and privacy. If we hold information about you, we’ll only use this for the purposes you’ve agreed to.
+Any personal information you supply to Legal & General via this website (and by other means) will be treated in accordance with the Data Protection Act 1998 and other legislation intended to protect your personal information and privacy. If we hold information about you, we'll only use this for the purposes you've agreed to.
 
 You have the right to see a copy of the personal information we hold about you, if you believe that any of the information we are holding is incorrect or incomplete, please let us know as soon as possible. To provide a copy of this information we will ask you for a small fee.
 
