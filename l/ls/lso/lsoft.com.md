@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lsoft.com privacy policy that was archived on 2013-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130605163913id_/http%3A//lsoft.com/corporate/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lsoft.com privacy policy that was archived on 2013-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131117170522id_/http%3A//www.lsoft.com/corporate/privacypolicy.asp) for the most accurate reproduction.*
 
 # L-Soft Privacy Policy
 
