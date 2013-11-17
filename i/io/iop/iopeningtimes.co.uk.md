@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iopeningtimes.co.uk privacy policy that was archived on 2013-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130508221436id_/http%3A//www.iopeningtimes.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iopeningtimes.co.uk privacy policy that was archived on 2013-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131117130302id_/http%3A//www.iopeningtimes.co.uk/privacy) for the most accurate reproduction.*
 
 # Opening Times - Privacy Policy
 
@@ -38,7 +38,7 @@ In this Policy the following terms shall have the following meanings:
     * **"Content"** means any text, graphics, images, audio, video, software, data compilations and any other form of information capable of being stored in a computer that appears on or forms part of this Web Site;
     * **"Cookie"** means a small text file placed on your computer by IMMAT LTD when you visit certain parts of this Web Site. This allows us to identify recurring visitors and to analyse their browsing habits within the Web Site. Further details are contained in Clause 10 and schedule 1 of this Policy;
     * **"Data"** means collectively all information that you submit to the Web Site. This includes, but is not limited to, Account details and information submitted using any of our Services or Systems;
-    * **"IMMAT LTD"** means IMMAT LTD 1st Floor, 44-50 Old Christchurch Rd, Bournemouth, Dorset BH1 1LN;
+    * **"IMMAT LTD"** means IMMAT LTD, 22-24 Oxford Rd, Bournemouth, Dorset BH8 8EZ;
     * **"Service"** means collectively any online facilities, tools, services or information that IMMAT LTD makes available through the Web Site either now or in the future;
     * **"System"** means any online communications infrastructure that IMMAT LTD makes available through the Web Site either now or in the future. This includes, but is not limited to, web-based email, message boards, live chat facilities and email links;
     * **"User" / "Users"** means any third party that accesses the Web Site and is not employed by IMMAT LTD and acting in the course of their employment; and
