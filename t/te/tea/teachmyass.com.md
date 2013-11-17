@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the teachmyass.com privacy policy that was archived on 2013-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130529200745id_/http%3A//teachmyass.com/%3Fref%3D%26%26page%3D_free_privacy%26itemcnt%3D%26) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teachmyass.com privacy policy that was archived on 2013-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131117204306id_/http%3A//teachmyass.com/free_tour/en/support/privacy.html) for the most accurate reproduction.*
 
-# TeachMyAss.com
+# Privacy Policy
 
 Replace or add your information in RED, where applicable:  
 Our Commitment To Privacy   
