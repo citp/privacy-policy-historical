@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the typef.com privacy policy that was archived on 2013-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130624043417id_/http%3A//www.typef.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the typef.com privacy policy that was archived on 2013-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131117115543id_/http%3A//www.typef.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | typeF.com
 
