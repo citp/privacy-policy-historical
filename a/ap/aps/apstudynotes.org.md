@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the apstudynotes.org privacy policy that was archived on 2013-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130616221051id_/http%3A//www.apstudynotes.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apstudynotes.org privacy policy that was archived on 2013-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131117101042id_/http%3A//www.apstudynotes.org/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Study Notes
 
@@ -20,4 +20,4 @@ We also use third party advertisements (Google AdSense) on StudyNotes to support
 
 You can chose to disable or selectively turn off our cookies or third-party cookies in your browser settings. However, this can affect how you are able to interact with our site as well as other websites. This could include the inability to login.
 
- _Last updated January 7, 2013._
+_Last updated January 7, 2013._
