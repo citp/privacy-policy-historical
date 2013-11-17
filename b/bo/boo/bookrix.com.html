@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the bookrix.com privacy policy that was archived on 2013-05-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130517025838id_/http%3A//www.bookrix.com/static/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bookrix.com privacy policy that was archived on 2013-11-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131117072150id_/http%3A//www.bookrix.com/static/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml" class=" js no-flexbox flexbox-legacy canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths" lang="en"><!--<![endif]--><head>
         <meta charset="utf-8">
@@ -8,19 +8,23 @@
         <title>BookRix – Privacy Policy</title>
         <meta name="keywords" content="">
         <meta name="description" content="BookRix - Connects writers and readers. Find tons of eBooks to download or read online. Upload and share your own eBooks or use our free self publishing services. Join our book community.">
-        <meta name="apple-mobile-web-app-capable" content="no">
+                        <meta name="apple-mobile-web-app-capable" content="no">
         <meta name="apple-mobile-web-app-status-bar-style" content="black">
-        <link href="/img/favicon.ico" rel="shortcut icon" type="image/x-icon">
-                                    <link rel="stylesheet" href="/css/main.css?1366581600" type="text/css">
-                    <link rel="stylesheet" href="/css/static.css?1366581600" type="text/css">
-                                    <link rel="stylesheet" href="/css/login-registration.css?1366581600" type="text/css">
-                <link rel="stylesheet" href="/css/third_party/tokeninput/token-input-facebook.css?1366581600">
-        <link rel="stylesheet" href="/css/third_party/tokeninput/token-input.css?1366581600">
+        
+                    <link href="/img/favicon.ico" rel="shortcut icon" type="image/x-icon">
+        
+        
+                
+                            <link rel="stylesheet" href="/css/main.css?1384586868" type="text/css">
+                    <link rel="stylesheet" href="/css/static.css?1384586868" type="text/css">
+                                    <link rel="stylesheet" href="/css/login-registration.css?1384586868" type="text/css">
+                <link rel="stylesheet" href="/css/third_party/tokeninput/token-input-facebook.css?1384586868">
+        <link rel="stylesheet" href="/css/third_party/tokeninput/token-input.css?1384586868">
         <!--[if lt IE 9]>
-            <link rel="stylesheet" href="/css/ie/ie7+8.css?1366581600">
+            <link rel="stylesheet" href="/css/ie/ie7+8.css?1384586868">
         <![endif]-->
         <!--[if IE 9]>
-            <link rel="stylesheet" href="/css/ie/ie9.css?1366581600">
+            <link rel="stylesheet" href="/css/ie/ie9.css?1384586868">
         <![endif]-->
         <link rel="apple-touch-icon" href="/img/mobile/app-icon/bx-home-icon_57px.jpg">
         <link rel="apple-touch-icon" sizes="72x72" href="/img/mobile/app-icon/bx-home-icon_72px.jpg">
@@ -29,7 +33,8 @@
         
         <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="/js/third_party/modernizr.js" type="text/javascript"></script>
         <script src="/js/third_party/jQuery1.7.2.js" type="text/javascript"></script>
-        <script src="/js/third_party/bootstrap.js" type="text/javascript"></script>
+        <!--script  src="/js/third_party/bootstrap.js"   type="text/javascript"></script-->
+        <script src="/js/bx-bootstrap.js" type="text/javascript"></script>
         <script src="/js/modal.js" type="text/javascript"></script>
     </head>
     <body id="static" class="loggedOut">
@@ -50,15 +55,14 @@
         <header id="top" class="gradient lightBlue">
             <div id="header-container">
                 <h1><a href="/">BookRix</a></h1>
-                <nav id="mainNav">
+                <nav class="mainNav">
                     <ul>
-                        <li><a href="/books.html">Books</a></li>
+                        <li><a href="/books.html" title="Books – Discover free eBooks to download or read online">Books</a></li>
                         <li><a href="/community/overview.html">Community</a></li>
                     </ul>
                 </nav>
                 <form id="search" method="get">
                     <div id="search-inner">
-                        <!--<input data-pop="#searchCat" data-pop-force="topLeft" data-pop-top="-12"  data-pop-show="focus" data-pop-hide="blur" type="search" name="keywords" value="" placeholder="Search" />-->
                         <input type="search" name="keywords" value="" placeholder="Search">
                         <a class="withIcon standalone search withoutLabel" id="searchBTN" href="#"><span>Search</span></a>
                         
@@ -77,8 +81,15 @@
                     </div>
                 </form>
                 <div id="header-right">
-                                            <a id="register-btn" class="button small red" href="#">Sign Up Now</a> <a id="login-btn" class="button small blue" href="#">Login</a>
-                                    </div>
+                                            <nav class="mainNav auth">
+                            <ul>
+                                <li><a id="register-btn" class="open-register" href="#">Sign Up Now</a></li>
+                                <li><a id="login-btn" class="open-login" href="#">Login</a></li>
+                            </ul>
+                        </nav>
+                                                    <a class="button small red" href="/self-publishing-publish-and-sell-ebook.html">Publish eBook</a>                        
+                                                            </div>
+                        
             </div>
             <div id="bxAlert-container">
                 <div id="bxAlert" class="alert " style="display: none"><a class="close" href="#">×</a> <span></span></div>
@@ -274,12 +285,12 @@
         height: 60px;
     }
     
-    .svg .box figure.contact img{
+    .box figure.contact img{
         margin: 4px 0 0 0; 
         height: 60px;
     } 
     
-    .svg .box figure.chat img{
+    .box figure.chat img{
         height: 60px;
         margin: 4px 4px 0 4px; 
     } 
@@ -298,25 +309,26 @@
 
 </style>
 
+    <!--
     <h3 class="head">Give Us A Call</h3>
     <div class="box border lightBlue">
         <div class="content">
             
-            <figure class="contact"><img src="/img/icons/contact/contact.svg" alt="contact"></figure>
+            <figure class="contact"><img src="/img/icons/contact/contact.svg" alt="contact"/></figure>
             <article>
                 <p>
-                    (Mon - Fri 8 am - 11 am Central Time) <br>
+                    (Mon - Fri 8 am - 11 am Central European Time) <br>
                     Call us directly whenever you have a problem or suggestion.
                 </p>
 
                 <p>
-                    <strong>0049 89 410 79 777</strong><br>
+                    <strong>0049 89 410 79 777</strong><br/>
                 </p> 
 
             </article>
         </div>
     </div>
-
+    -->
     <h3 class="head">Help</h3>
     <div class="box border lightBlue">
         <div class="content">
@@ -335,7 +347,7 @@
         <br class="clear">
         
 
-            </div> <!-- #contentWrapper -->
+                            </div> <!-- #contentWrapper -->
             <div class="push"></div>
         </div> <!-- #wrapper -->
         <footer>
@@ -345,27 +357,32 @@
                     <li><a href="/support/view.html">Help &amp; Support</a></li>
                     <li><a href="/contact.html">Contact</a></li>
                     <li><a href="/static/press.html">Press</a></li>
-                    <li><a href="/static/partner.html">Partners</a></li>                    
+                                        <li><a href="/static/codex.html">BookRix Code of Conduct</a></li>                    
                 </ul>
                 <ul class="list">
-                    <li><strong>Take Part</strong></li>
-                                            <li><a href="/account/register.html">Registration</a></li>
-                                        <li><a href="/static/codex.html">BookRix Code of Conduct</a></li>
+                    <li><strong>eBooks</strong></li>
+                                     
+                        <li><a href="/download-free-ebooks.html" title="Download Free eBooks – Find thousands of Free Epub Books">Download Free eBooks</a></li>
+                        <li><a href="/self-publishing-publish-and-sell-ebook.html" title="eBook Publishing Services / eBook Self Publishing – Publish &amp; Sell Your eBooks at all Major Stores">eBook Publishing / Self Publishing</a></li>
+                        <!--
+                            <li><a href="/online-proofreading-service.html">Book proofreading</a></li>
+                        -->                        
+                                                                                
                 </ul>
                 <ul class="list">
                     <li><strong>Explore</strong></li>
-                    <li><a href="/books.html">Books</a></li>
+                    <li><a href="/books.html" title="Books – Discover free eBooks to download or read online">Books</a></li>
                     <li><a href="/community/users.html">Users</a></li>
                     <li><a href="/community/groups.html">Groups</a></li>                    
                     <li><a href="/books/catalogue.html">All Books Alphabetically</a></li>
-                                    </ul>
+                </ul>
                 <ul class="list">
                     <li><strong>Follow Us</strong></li>                    
                     <div class="smIcons">
-                                            <span><a href="https://www.facebook.com/BookRix?ref=ts" target="_blank"><img src="/img/footer/Follow_FB.png" alt="facebook" title=""></a></span>
-                        <span><a href="https://twitter.com/BookRixUS" target="_blank"><img src="/img/footer/Follow_Twitter.png" alt="twitter" title=""></a></span>
-                        <span><a href="http://www.youtube.com/user/BookRixUSA?feature=CBAQwRs%3D" target="_blank"><img src="/img/footer/Follow_YT.png" alt="youtube" title=""></a></span>
-                        <span><a href="http://pinterest.com/bookrix/" target="_blank"><img src="/img/footer/Follow_Pin.png" alt="pinterest" title=""></a></span>                    
+                                            <span><a rel="nofollow" href="https://www.facebook.com/BookRix?ref=ts" target="_blank"><img src="/img/footer/Follow_FB.png" alt="facebook" title=""></a></span>
+                        <span><a rel="nofollow" href="https://twitter.com/BookRixUS" target="_blank"><img src="/img/footer/Follow_Twitter.png" alt="twitter" title=""></a></span>
+                        <span><a rel="nofollow" href="http://www.youtube.com/user/BookRixUSA?feature=CBAQwRs%3D" target="_blank"><img src="/img/footer/Follow_YT.png" alt="youtube" title=""></a></span>
+                        <span><a rel="nofollow" href="http://pinterest.com/bookrix/" target="_blank"><img src="/img/footer/Follow_Pin.png" alt="pinterest" title=""></a></span>                    
                                             
                     </div>                    
                 </ul>
@@ -385,333 +402,19 @@
         
         <a id="to-top" href="#top">Top of page</a>
         
-        <div class="box modal border lightBlue" id="bxLoginRegistrationModal">
-    <a class="close" data-dismiss="modal" href="#">×</a>
-    <div id="bxLogin">
-        <ul class="nav nav-tabs">
-            <li class="active"><a class="tab-icon" data-toggle="tab" href="#bx-login">BookRix</a></li>
-            <li><a class="tab-icon facebook-icon" data-toggle="tab" href="#facebook-login">Facebook</a></li>
-            <li><a class="tab-icon twitter-icon" data-toggle="tab" href="#twitter-login">Twitter</a></li>
-            <li><a class="tab-icon google-icon" data-toggle="tab" href="#google-login">Google</a></li>
-        </ul>
-        <div class="tab-content">
-            <div id="bx-login" class="tab-pane fade active in">
-                <form id="bxLoginForm" class="auto" method="post" action="/account/login.json">
-                    <input type="hidden" name="return" value="">
-                    <h3>Log In Now</h3>
-                    <div class="alert green" style="display:none;">
-                        <a class="close" href="#">×</a>
-                        <span class="message"></span>
-                    </div>
-                    <div class="column">
-                        <label for="loginEmail">Email Address</label>
-                        <input tabindex="1" id="loginEmail" class="input" type="text" name="email" value="" autofocus="">
-                        <label><input type="checkbox" name="setCookie" value="1"> Stay logged in</label>
-                    </div>
-                    <div class="column">
-                        <label for="loginPassword">Password</label>
-                        <input tabindex="2" id="loginPassword" class="input" type="password" name="password" value=""><br>
-                        <a id="bxForgotPassword" class="goto" data-goto="password" href="#">Forgot your password?</a>
-                    </div>
-                    <div class="column last">
-                        <button tabindex="3" class="button blue" type="submit">Login</button>
-                    </div>
-                    <br class="clear">
-                    <p>You don't have an account yet? <a href="#" class="goto" data-goto="registration">Register now!</a></p>
-                </form>
-                <form id="bxForgotPassForm" style="display: none" method="post" action="/account/login::forgot-password.json">
-                    <h3>Forgot your password?</h3>
-                    <div class="alert green" style="display:none;">
-                        <a class="close" href="#">×</a>
-                        <span class="message"></span>
-                    </div>
-                    <div class="column">
-                        <label for="forgotPasswordEmailInput">Email Address</label>
-                        <input id="forgotPasswordEmailInput" class="input" type="text" name="forgotPasswordEmail" value="">
-                    </div>
-                    <div class="column last"><button class="button blue" type="submit">Request Link</button></div>
-                    <p class="clear">
-                        Please enter the email address that you use for your BookRix account.                    </p>
-                    <p>You don't have an account yet? <a href="#" class="goto" data-goto="registration">Register now!</a></p>
-                </form>
-            </div>
-            <div id="facebook-login" data-auth="facebook" data-type="login" class="tab-pane fade">
-                <h3>Log in with your Facebook account.</h3>
-                <span class="hidden errorSet" data-denied="App access denied" data-cancel="The window was closed. No connection to Facebook was created." data-popup="Please turn off your pop-up blocker.">
-                </span>
                 
-                <div class="alert green" style="display:none;">
-                    <a class="close" href="#">×</a>
-                    <span class="message"></span>
-                </div>
-                <div class="social column">
-                    <button id="facebookLoginButton" class="button blue">Login</button>
-                </div>
-                <br class="clear">
-                <p>You don't have an account yet? <a href="#" class="goto" data-goto="registration">Register now!</a></p>
-            </div>
-            <div id="twitter-login" data-auth="twitter" data-type="login" class="tab-pane fade">
-                <h3>Log in with Twitter.</h3>
-                <span class="hidden errorSet" data-denied="App access denied" data-cancel="The window was closed. No connection to Facebook was created." data-popup="Please turn off your pop-up blocker.">
-                </span>
-                
-                <div class="alert green" style="display:none;">
-                    <a class="close" href="#">×</a>
-                    <span class="message"></span>
-                </div>
-                <div class="social column">
-                    <button id="twitterLoginButton" class="button blue">Login</button>
-                </div>
-                <br class="clear">
-                <p>You don't have an account yet? <a href="#" class="goto" data-goto="registration">Register now!</a></p>
-            </div>
-            <div id="google-login" data-auth="google" data-type="login" class="tab-pane fade">
-                <h3>Log in with your Google account.</h3>
-                <span class="hidden errorSet" data-denied="App access denied" data-cancel="The window was closed. No connection to Facebook was created." data-popup="Please turn off your pop-up blocker.">
-                </span>
-                <div class="alert green" style="display:none;">
-                    <a class="close" href="#">×</a>
-                    <span class="message"></span>
-                </div>
-                <div class="social column">
-                    <button id="googleLoginButton" class="button blue">Login</button>
-                </div>
-                <br class="clear">
-                <p>You don't have an account yet? <a href="#" class="goto" data-goto="registration">Register now!</a></p>
-            </div>
-        </div>
-    </div>
-    <div id="bxUsernameLogin" class="hidden">
-        <ul class="nav nav-tabs">
-            <li class="active"><a class="tab-icon" data-toggle="tab" href="#bx-login">BookRix</a></li>
-        </ul>
-        <div class="tab-content">
-            <div id="bx-usernameLogin" class="tab-pane fade active in">
-                <form id="bxUsernameLoginForm" class="auto" method="post" action="/account/login::username-login.json">
-                    <input type="hidden" name="email-reminder" class="email-reminder" value="0">
-                    <h3>Log in with your display name.</h3>
-                    <div class="alert green" style="display:none;">
-                        <a class="close" href="#">×</a>
-                        <span class="message"></span>
-                    </div>
-                    <div class="column">
-                        <label for="loginUsernameInput">Display Name</label>
-                        <input tabindex="1" id="loginUsernameInput" class="input" type="text" name="username" value="" autofocus="">
-                        <label><input type="checkbox" name="setCookie" value="1"> Stay logged in</label>
-                    </div>
-                    <div class="column">
-                        <label for="loginUsernamePassword">Password</label>
-                        <input tabindex="2" id="loginUsernamePassword" class="input" type="password" name="password" value=""><br>
-                        <a id="bxForgotPassword2" class="goto" data-goto="password" href="#">Forgot your password?</a>
-                    </div>
-                    <div class="column last">
-                        <button tabindex="3" class="button blue" type="submit">Login</button>
-                    </div>
-                    <br class="clear">
-                    <p>You don't have an account yet? <a href="#" class="goto" data-goto="registration">Register now!</a></p>
-                    <p>Do you want to log in with your <a href="#" class="goto" data-goto="login" data-tab="1">Facebook</a>, <a href="#" class="goto" data-goto="login" data-tab="2">Twitter</a> or <a href="#" class="goto" data-goto="login" data-tab="3">Google+</a> account?</p> 
-                </form>
-            </div>
-        </div>
-    </div>
-    <div id="bxRegistration" class="hidden">
-        <div id="popRegUser" class="box border blue popover" style="display:none;">
-            <div class="popover-content">
-                <h3>Display Name</h3>
-                <p>Don’t worry, you’ll be able to change your display name at any time.</p>
-            </div>
-        </div>
-        <div id="popRegMail" class="box border blue popover" style="display:none;">
-            <div class="popover-content">
-                <h3>Email Address</h3>
-                <p>We will send a confirmation message to this email address.</p>
-                <p>For each email address, only one registration is possible.</p>
-            </div>
-        </div>    
-        <div id="popRegPassword" class="box border blue popover" style="display:none;">     
-    <div class="popover-content empty">
-        <h3>Password Strength</h3>
-        <div class="password-force">
-            <div class="background"></div>
-            <div class="percent" data-value="0"></div>
-        </div>
-        
-        <div class="state toshort">
-            too short        </div>
-        
-        <div class="state veryweak">
-            very weak        </div>
-        <div class="state weak">
-            weak        </div>
-        <div class="state fair">
-            fair        </div>
-        <div class="state strong">
-            strong        </div>
-        <div class="state verystrong">
-            very strong        </div>
-        
-        <p>The password must be 7-20 characters long and can not contain spaces.</p>
-    </div>
-</div>
-        <ul class="nav nav-tabs">
-            <li class="active"><a class="tab-icon" data-toggle="tab" href="#bx-registration">BookRix</a></li>
-            <li><a class="tab-icon facebook-icon" data-toggle="tab" href="#facebook-registration">Facebook</a></li>
-            <li><a class="tab-icon twitter-icon" data-toggle="tab" href="#twitter-registration">Twitter</a></li>
-            <li><a class="tab-icon google-icon" data-toggle="tab" href="#google-registration">Google</a></li>
-        </ul>
-        <div class="tab-content">
-            <div id="bx-registration" class="tab-pane fade active in">
-                <form id="bxRegistrationForm" method="post" action="/account/registration.json">
-                    <input type="hidden" name="return" value="">
-                    <h3>Register now directly on BookRix.</h3>
-                    <div class="alert green" style="display:none;">
-                        <a class="close" href="#">×</a>
-                        <span class="message"></span>
-                    </div>
-                    <div class="column">
-                        <div class="row">
-                            <label for="registrationDisplayNameInput">Display Name</label>
-                            <input tabindex="1" id="registrationDisplayNameInput" data-pop="#popRegUser" data-pop-left="12" data-pop-top="" data-pop-force="leftTop" data-pop-relative="true" data-pop-show="focus" data-pop-hide="blur" class="input" type="text" name="registrationDisplayName" value="" autocomplete="off" maxlength="40" autofocus="">
-                        </div>
-                        <div class="row">
-                            <label for="registrationEmailInput">Email Address</label>
-                            <input tabindex="2" id="registrationEmailInput" data-pop="#popRegMail" data-pop-left="12" data-pop-force="leftTop" data-pop-relative="true" data-pop-show="focus" data-pop-hide="blur" class="input" type="text" name="registrationEmail" value="">
-                        </div>
-                        <div class="row">
-                            <label for="registrationPasswordInput">Password</label>
-                            <input tabindex="3" password-strength="" maxlength="20" id="registrationPasswordInput" data-pop="#popRegPassword" data-pop-left="12" data-pop-force="leftTop" data-pop-relative="true" data-pop-show="focus" data-pop-hide="blur" class="input" type="password" name="registrationPassword" value="">
-                        </div>
-                        <div class="row checkbox">
-                            <input tabindex="4" id="registrationTermsCheckbox" type="checkbox" name="registrationTermsAccepted" value="1"> 
-                            <label class="checkbox" for="registrationTermsCheckbox">
-                                I confirm that I have read the <a target="_blank" href="/static/agb_terms.html">Terms of Service</a> and the <a target="_blank" href="/static/privacy.html">Privacy Policy</a> and that I accept them.                            </label>
-                        </div>
-                        <div class="row checkbox">
-                            <input tabindex="5" id="registrationNewsletterCheckbox" type="checkbox" name="registrationNewsletter" value="1"> <label class="checkbox" for="registrationNewsletterCheckbox">Yes, I want to receive the BookRix newsletter.</label>
-                        </div>
-                        <div class="row last">
-                            <button tabindex="6" class="button blue" type="submit" data-goto="registration">Register Now</button>
-                        </div>
-                    </div>
-                    <div class="column last">
-                        Do you already have an account?<br>
-                        <a href="#" class="goto" data-goto="login">Log in here</a>
-                    </div>
-                </form>
-            </div>
-            <div id="facebook-registration" data-auth="facebook" data-type="register" class="tab-pane fade">
-                <h3>Register now with your Facebook account.</h3>
-                <span class="hidden errorSet" data-denied="App access denied" data-cancel="The window was closed. No connection to Facebook was created." data-popup="Please turn off your pop-up blocker.">
-                </span>
-
-                <div class="alert green" style="display:none;">
-                    <a class="close" href="#">×</a>
-                    <span class="message"></span>
-                </div>
-                <div class="social column">
-                    <div class="row checkbox">
-                        <input id="facebookRegistrationTermsCheckbox" data-error="<b>Oops!</b><br />Please accept the Terms of Service and the Privacy Policy." type="checkbox" name="facebookRegistrationTermsAccepted" value="1"> 
-                        <label class="checkbox" for="facebookRegistrationTermsCheckbox">
-                            I confirm that I have read the <a target="_blank" href="/static/agb_terms.html">Terms of Service</a> and the <a target="_blank" href="/static/privacy.html">Privacy Policy</a> and that I accept them.                        </label>
-                    </div>
-                    <button id="facebookRegistrationButton" class="button blue">Register Now</button>
-                </div>
-                <div class="social column last">
-                    Do you already have an account?<br>
-                    <a href="#" class="goto" data-goto="login">Log in here</a>
-                </div>
-                <br class="clear">
-            </div>
-            <div id="twitter-registration" data-auth="twitter" data-type="register" class="tab-pane fade">
-                <h3>Register now with your Twitter account.</h3>
-                <span class="hidden errorSet" data-denied="App access denied" data-cancel="The window was closed. No connection to Facebook was created." data-popup="Please turn off your pop-up blocker.">
-                </span>
-
-                <div class="alert green " style="display:none;">
-                    <a class="close" href="#">×</a>
-                    <span class="message"></span>
-                </div>
-                <div class="social column">
-                    <div class="row checkbox">
-                        <input id="twitterRegistrationTermsCheckbox" data-error="<b>Oops!</b><br />Please accept the Terms of Service and the Privacy Policy." type="checkbox" name="twitterRegistrationTermsAccepted" value="1"> 
-                        <label class="checkbox" for="twitterRegistrationTermsCheckbox">
-                            I confirm that I have read the <a target="_blank" href="/static/agb_terms.html">Terms of Service</a> and the <a target="_blank" href="/static/privacy.html">Privacy Policy</a> and that I accept them.                        </label>
-                    </div>
-                    <button id="twitterRegistrationButton" class="button blue">Register Now</button>
-                </div>
-                <div class="social column last">
-                    Do you already have an account?<br>
-                    <a href="#" class="goto" data-goto="login">Log in here</a>
-                </div>
-                <br class="clear">
-            </div>
-            <div id="twitter-email-verification" class="tab-pane" style="display:none;">
-                <h3>Enter Email Address</h3>
-                <div class="alert green " style="display:none;">
-                    <a class="close" href="#">×</a>
-                    <span class="message"></span>
-                </div>
-                <div class="column">
-                    <label for="twitterEmailInput">Email Address</label>
-                    <input id="twitterEmailInput" class="input" type="text" name="twitterEmail" value="">
-                </div>
-                <div class="column last"><button class="button blue" type="submit">Send</button></div>
-                <p class="clear">Enter the email address that you would like to use for your BookRix account.</p>
-                <p>Do you already have an account? <a href="#" class="goto" data-goto="login">Log in here</a></p>
-            </div>
-            <div id="google-registration" data-auth="google" data-type="register" class="tab-pane fade">
-                <h3>Register now with your Google account.</h3>
-                <span class="hidden errorSet" data-denied="App access denied" data-cancel="The window was closed. No connection to Facebook was created." data-popup="Please turn off your pop-up blocker.">
-                </span>
-
-                <div class="alert green" style="display:none;">
-                    <a class="close" href="#">×</a>
-                    <span class="message"></span>
-                </div>
-                <div class="social column">
-                    <div class="row checkbox">
-                        <input id="googleRegistrationTermsCheckbox" type="checkbox" data-error="<b>Oops!</b><br />Please accept the Terms of Service and the Privacy Policy." name="googleRegistrationTermsAccepted" value="1"> 
-                        <label class="checkbox" for="googleRegistrationTermsCheckbox">
-                            I confirm that I have read the <a target="_blank" href="/static/agb_terms.html">Terms of Service</a> and the <a target="_blank" href="/static/privacy.html">Privacy Policy</a> and that I accept them.                        </label>
-                    </div>
-                    <button id="googleRegistrationButton" class="button blue">Register Now</button>
-                </div>
-                <div class="social column last">
-                    Do you already have an account?<br>
-                    <a href="#" class="goto" data-goto="login">Log in here</a>
-                </div>
-                <br class="clear">
-            </div>
-        </div>
-    </div>
-</div>
-<div class="box modal border blue" id="bxModalRegistrationSuccess">
-    <div class="modal-header">
-        <a class="close" data-dismiss="modal" href="#">×</a>
-        <h3>Confirmation of your registration.</h3>
-    </div>
-    <div class="modal-body"></div>
-</div>
-<div class="box modal border blue" id="bxModalSendCodeSuccess">
-    <div class="modal-header">
-        <a class="close" data-dismiss="modal" href="#">×</a>
-        <h3>Confirmation</h3>
-    </div>
-    <div class="modal-body"></div>
-</div>                
                 <script> if (window.Touch) document.write('<script src="/js/iTouch.js"><\/script>')</script><script src="/js/iTouch.js"></script>
 
                 
         
-                            <script src="/js/main.js?1366581600" type="text/javascript"></script>
-                    <script src="/js/user/bx.auth.no.js?1366581600" type="text/javascript"></script>
-                    <script src="/js/static/main.js?1366581600" type="text/javascript"></script>
+                            <script src="/js/main.js?1384586868" type="text/javascript"></script>
+                    <script src="/js/user/bx.auth.no.js?1384586868" type="text/javascript"></script>
         
         <!--[if IE 7]>
-            <script src="/js/ie/ie7.js?1366581600" type="text/javascript"></script>
+            <script src="/js/ie/ie7.js?1384586868" type="text/javascript"></script>
         <![endif]-->
         <!--[if lt IE 9]>
-             <script src="/js/ie/ie7+ie8.js?1366581600" type="text/javascript"></script>
+             <script src="/js/ie/ie7+ie8.js?1384586868" type="text/javascript"></script>
         <![endif]-->
         
         
