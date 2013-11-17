@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the printablecouponsanddeals.com privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502064537id_/http%3A//printablecouponsanddeals.com/438-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the printablecouponsanddeals.com privacy policy that was archived on 2013-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131117055850id_/http%3A//printablecouponsanddeals.com/438-2) for the most accurate reproduction.*
 
 # Privacy & Disclosure Policy » Printable Coupons and Deals
 
