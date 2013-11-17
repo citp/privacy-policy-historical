@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the surfnlearn.com privacy policy that was archived on 2013-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130425164543id_/http%3A//www.surfnlearn.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the surfnlearn.com privacy policy that was archived on 2013-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131117081201id_/http%3A//www.surfnlearn.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Photoshop Tutorials 3DsMax Tricks and Tips - SnL Tutorial Search
 
