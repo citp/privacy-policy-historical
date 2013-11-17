@@ -1,9 +1,9 @@
-<!--The following is the downloaded HTML source of the snapeda.com privacy policy that was archived on 2013-06-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130609232650id_/http%3A//www.snapeda.com/about/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the snapeda.com privacy policy that was archived on 2013-11-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131117191008id_/http%3A//www.snapeda.com/about/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" xml:lang="en-us" lang="en-us"><head>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Welcome to SnapEDA, a free and open source CAD library and community for circuit designers, with schematic symbols, SPICE models and reference designs." <meta="" http-equiv="Content-Type">
+    <meta name="description" content="Welcome to SnapEDA, a collaborative CAD library and community for hardware design." <meta="" http-equiv="Content-Type">
 
 	<title>
         
@@ -58,6 +58,21 @@ UserVoice.push(['showTab', 'classic_widget', {
 
 <link href="http://fonts.googleapis.com/css?family=Ubuntu+Condensed" rel="stylesheet" type="text/css">
 
+<!-- Opera Speed Dial Favicon -->
+  <link rel="icon" type="image/png" href="http://snapeda.s3.amazonaws.com/pinax/images/SnapEDAIcon.png">
+			
+<!-- Standard Favicon -->
+  <link rel="icon" type="image/x-icon" href="http://snapeda.s3.amazonaws.com/pinax/images/SnapEDA.ico">
+
+<!-- For iPhone 4 Retina display: -->
+  <link rel="apple-touch-icon-precomposed" sizes="114x114" href="http://snapeda.s3.amazonaws.com/pinax/images/SnapEDAIcon.png">
+
+<!-- For iPad: -->
+  <link rel="apple-touch-icon-precomposed" sizes="72x72" href="http://snapeda.s3.amazonaws.com/pinax/images/SnapEDAIcon.png">
+
+<!-- For iPhone: -->
+  <link rel="apple-touch-icon-precomposed" href="http://snapeda.s3.amazonaws.com/pinax/images/SnapEDAIcon.png">
+
 <!-- <link rel="stylesheet" href="http://snapeda.s3.amazonaws.com/css/reset_tabs.css"
 />
 <link rel="stylesheet" href="http://snapeda.s3.amazonaws.com/css/site_tabs.css" />
@@ -80,7 +95,7 @@ UserVoice.push(['showTab', 'classic_widget', {
 <link rel="stylesheet" href="http://snapeda.s3.amazonaws.com/pinax/css/wiki.css" />
 <link rel="stylesheet" href="http://snapeda.s3.amazonaws.com/bookmarks/css/bookmarks.css"
 />
-<link rel="stylesheet" href="http://snapeda.s3.amazonaws.com/spicemodels/css/spicemodels.css"
+<link rel="stylesheet" href="http://snapeda.s3.amazonaws.com/parts/css/spicemodels.css"
 />
 --> 
 
@@ -104,11 +119,23 @@ UserVoice.push(['showTab', 'classic_widget', {
 		typeof d?c=b[d]=[]:d="mixpanel";c.people=c.people||[];c.toString=function(b){var a="mixpanel";"mixpanel"!==d&&(a+="."+d);b||(a+=" (stub)");return a};c.people.toString=function(){return c.toString(1)+".people (stub)"};i="disable track track_pageview track_links track_forms register register_once alias unregister identify name_tag set_config people.set people.increment people.append people.track_charge people.clear_charges people.delete_user".split(" ");for(g=0;g<i.length;g++)f(c,i[g]);b._i.push([a,
 		e,d])};b.__SV=1.2}})(document,window.mixpanel||[]);
 		mixpanel.init("5c4c0b7547375eca93e219f6cdf9fbfc");</script><!-- end Mixpanel -->
+	<script type="text/javascript">
+	function validateEntry()
+	{
+		var search = $('#navbarsearch').attr('value');
+		if(search.length < 0 || search.trim()=="")
+			return false;
+		else 
+			return true;	
+		
+	}
+	
+	</script>
     </head>
 
 <body class="">
         <div id="wrapper">
-            <div class="navbar">
+            <div class="navbar" style="margin-bottom:0px;">
 			
 <div class="navbar-innerhome">
 
@@ -118,7 +145,7 @@ UserVoice.push(['showTab', 'classic_widget', {
                             <span class="icon-bar"></span>
                             <span class="icon-bar"></span>
                         </a>
- 
+
 <a class="brand" href="/"><img src="http://snapeda.s3.amazonaws.com/pinax/images/logo_small_55.png " alt="Snapeda" width="204" height="55"></a>
  
 
@@ -144,11 +171,11 @@ UserVoice.push(['showTab', 'classic_widget', {
 
 
 
-<ul class="nav pull-right">
-    <a href="/waitinglist/list_signup/" class="btn btn-warning">Sign Up</a>
-    <a href="/account/login" class="btn">Login</a>
-</ul>
 
+<ul class="nav pull-right">
+    <a href="/account/signup/" class="btn btn-warning">Sign Up</a>
+    <a href="/account/betalogin" class="btn">Login</a>
+</ul>
  
  
 
@@ -270,8 +297,8 @@ UserVoice.push(['showTab', 'classic_widget', {
    
     <div class="row-fluid">
         <div id="legal" class="span8" style="margin-left:14%;text-align:center;">
-            <span style="color:#ff761a">© 2012 SnapEDA</span> -
-            <a href="/about/">ABOUT US</a>
+            <span style="color:#ff761a">© 2013 SnapEDA</span> -
+            <a href="/about/">ABOUT</a>
             -
             <a href="/about/team/">TEAM</a>
             -
@@ -279,7 +306,9 @@ UserVoice.push(['showTab', 'classic_widget', {
             -
             <a href="/about/privacy/">PRIVACY POLICY</a>
             -
-            <a href="/blog/"> BLOG </a>
+            <a href="http://blog.snapeda.com"> BLOG </a>
+            -
+            <a href="/about/FAQ">FAQ</a>
         </div>
  <div width="18%" style="display:inline;float:right;">
 		<span style="float:right;margin-right:20px;"> Powered by <img src="http://snapeda.s3.amazonaws.com/pinax/images/company_logos/octopart.png"></span>
