@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wellness.com privacy policy that was archived on 2013-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130618002457id_/http%3A//www.wellness.com/docs/11323/wellness-com-privacy-policy/site-info) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wellness.com privacy policy that was archived on 2013-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131117081654id_/http%3A//www.wellness.com/docs/11323/wellness-com-privacy-policy/site-info) for the most accurate reproduction.*
 
 # Wellness.com Privacy Policy
 
