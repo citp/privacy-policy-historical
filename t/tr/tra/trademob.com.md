@@ -1,35 +1,93 @@
-> *The following text is extracted and transformed from the trademob.com privacy policy that was archived on 2013-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130624182825id_/http%3A//www.trademob.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trademob.com privacy policy that was archived on 2013-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131117051425id_/http%3A//www.trademob.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Trademob
 
-This Privacy Policy is intended to provide you with information on our privacy and data protection policies and does inform you with regard to this website about what data we collect, how we process it and for what purpose. Safeguarding your privacy is of paramount importance to us, our policies reflect industry best practice. We may change this policy at any time in which case we will issue a new version of this document, available for download from our website. You may wish to visit our website from time-to-time to ensure you have our latest Privacy Policy.
+The protection of your personal data is of utmost importance to Trademob GmbH. With this Privacy Policy, we intend to inform you about the collection and processing of personal data on the website www.trademob.com
 
-**What sort of data do we collect on this website?**
+**Personal data and its use**
 
-We automatically collect non-personally identifiable information when you visit this website and use this information to help us understand how people use our Site. Our website can be visited without providing any personal information.
+Personal data includes information relating to an identified or identifiable natural person, such as e.g. your name and your email-address. We only collect, process and transfer personal data to the extent necessary and for a purpose for which we have obtained your express consent or if such use is permitted by law.
 
-Therefore, we do not collect personal information such as your name, address, phone number, email, address, credit card information, or anything else that can personally identify you on behalf of our clients. However, where we receive requests for information, direct emails or other communications sent to Trademob, outside of the work we do on behalf of our clients, we may hold this PII.
+Your personal data will not be used for advertising purposes, unless you have given us your express consent. Moreover, the transfer of personal data to public institutions and public authorities that are entitled to receive such information will only be carried out to the extent required by law or if we are obliged to do so by virtue of a court order or court ruling.
 
-**How does our technology work?**
+**Newsletter**
 
-Our technology uses technologies such as anonymous pixel tags or anonymous cookies to make the mobile advertisements you see more relevant to you and also to help us understand browsing and buying habits so that we can measure the success of our clients mobile advertisements. Any such profiling is done by using an anonymizer and by segmenting profiling data. Data collected by Trademob is only retained in an aggregated form, so that information about an individual cannot be retrieved. All the data we hold is protected by multiple layers of physical, electronic and administrative safeguards, to secure it against accidental, unauthorized or unlawful access, use, modification, disclosure, loss or destruction.
+Our newsletter provides information about our company and our services. If you would like to receive our newsletter, we need to obtain a valid email address and information that allows us to ensure that you are the owner of the email address provided to us or that the owner has agreed to receive our newsletter. No additional data will be collected and such data will only be used in order to send the newsletter but will not be transferred to any third party. When you sign-up for the newsletter, we store your IP address and the date of your registration. Such data is only stored in order to serve as evidence if a third party abuses your email address and registers for the newsletter without your knowledge. You may, at any time, revoke your consent for the storage of your data, email address and its use to send you newsletters. You can revoke your consent via a link in our newsletter or by notifying us accordingly. Our contact information is available below.
 
-**What happens to the data we collect?**
+**Data logging**
 
-From time-to-time we may share the aggregated, non-individual specific, data we hold with Publishers and Networks for reporting and accounting purposes, as well as other unaffiliated third parties for various purposes such as statistical or educational analysis. In these cases we work with organisations we believe to have appropriate safeguards in place to protect data at the levels we require. In situations where we are obligated by law, we may also disclose information in order to comply with such requests.
+If you visit our website and access data, your internet browser automatically transfers log information to our server. Such log information includes the URL of the referring website, date and time of request, name of the retrieved website, the quantity of data transmitted, the type of your browser and its version, etc. Such information is not personal data and cannot be attributed to any specific individual.
 
-**How can you take control of your privacy?**
+This log information is solely used for statistical purposes and is neither transferred to any third party nor combined with any other data.
 
-You may choose to opt out of the Trademob advertising program at any time by clicking here. This will not prevent you from seeing mobile advertising but Trademob will neither store, nor use any information regarding your interests to tailor the adverts you may be seeing. If you opt out, you will continue to receive the same number of mobile ads, but they may be less relevant because they will not be based on your interests. This opt-out applies only to Trademob advertising services and does not affect interest-based advertising from other advertising networks. This opt-out functionality is cookie-based. In order for the opt-out to work on your computer, your web browser must be set to accept third-party cookies. You can configure your web browser to accept all cookies, reject all cookies, erase cookies, or notify you when a cookie is set. If you buy a new computer, change web browsers, or delete this cookie, you will need to perform the opt-out task again in case you still do not wish the advertising cookie to be served to you.
+**Cookies**
 
-**Contact**
+Cookies are small files that are sent from the server to the user’s browser and then stored for later access. In your browser settings you can choose to be informed before a cookie is about to be placed and make such placement dependent on your prior express acceptance.
 
-If you have any questions about this Policy or our privacy practices, or if you want to access, correct, or change your personal information, please email, call or mail us:
+We only use cookies in order to obtain information on the use of our website so that our server can automatically make our services more interesting for you. No personal data is stored in your cookies and its data will not be combined with any personal data that you might have submitted.
 
-E-Mail: [helpdesk@trademob.com](mailto:helpdesk@trademob.com)
+**Google Analytics**
 
-Our appointed data protection officer is Alexander Franke
+In order to optimize this website, we use Google Analytics, a web analytics service provided by Google, Inc. (“Google”). Google Analytics uses “cookies”, which are text files placed on your computer, to help the website analyze how you use this website. The information generated by the cookie about your use of this website (including your IP address) will be transmitted to and stored by Google on servers in the United States. If the IP anonymization is activated on this website, your IP address will previously be truncated by Google within the EU member states or EEA member states. Only in exceptional cases will the IP address be transferred to Google on a server in the United States and thereafter be truncated. On behalf of the website operator, Google will use this information for the purpose of evaluating your use of the website, compiling reports on website activity for website operators and providing other services relating to website activity and internet usage. The IP address that was transmitted by your browser will not be combined by Google with any other data. You may refuse the use of cookies by selecting the appropriate settings on your browser, however please note that if you do this you may not be able to use the full functionality of this website. You may also prevent the collection of the data that was generated by the cookie and that is related to the use of the website (including your IP address) as well as its processing by Google by downloading and installing a brower plugin that is available under the following link: <http://tools.google.com/dlpage/gaoptout?hl=de>
 
-tel: +49 30 202 1575 10
+Additional information thereto is available at <http://tools.google.com/dlpage/gaoptout?hl=de> and <http://www.google.com/intl/de/analytics/privacyoverview.html> (general information to Google Analytics and privacy). This website uses Google Analytics with its extension code “gat._anonymizeIp()“ so that IP addresses will therefore only be processed in a shortened form to prevent persons from being identified.
 
-mail: Trademob GmbH, Friedrichstraße 126, 10117 Berlin
+**WebProspector Technology**
+
+This website uses the WebProspector technology which is provided by WebProspector GmbH ([www.webprospector.de](http://www.webprospector.de/)) and which collects and stores data for marketing purposes and to recognize potential company prospects. On the basis of such data, the WebProspector technology identifies addresses, but only if it can be ascertained that the user is a company and not a single individual. The WebProspector technology may also have access to additional information such as dynamic data with regard to your visit, and in some cases places cookies. Cookies are small text files that are locally stored in the user’s internet browser and enable to recognize the internet browser. The user may, at any time, object to the collection and storage of data by WebProspector on this website with effect for the future on the following website: [www.webprospector.de/widerspruch](http://www.webprospector.de/widerspruch)
+
+**Facebook Social Plugins**
+
+This website uses social plugins (“plugins”) from the social network facebook.com which is operated by Facebook Inc., 1601 S. California Ave, Palo Alto, CA 94304, USA (“Facebook”). The plugins are identified by one of the Facebook logos or the amendment “Facebook social plugin”. The list and the look of the Facebook social plugins can be viewed here: <https://developers.facebook.com/docs/plugins/>.
+
+If you access a page on our website that includes such a social plugin, your browser sets up a direct connection to the Facebook servers. Facebook transfers the social plugin’s content directly to your browser which will then integrate it into the website. Therefore we have no influence on the extent of the data that Facebook collects via its social plugins, and thus, can only inform you based on our state of knowledge:
+
+Through integration of the plugin, Facebook obtains the information that you have accessed the respective page on our website, even if you are not a registered user of Facebook or are not logged into Facebook. This information as well as your browser’s IP address is transferred to Facebook’s server in the United States and being stored there. According to Facebook, only anonymized IP addresses are stored from non-registered users in Germany.
+
+If you are logged in to Facebook, Facebook can allocate the visit to our website to your Facebook account. Facebook receives such information irrespective of whether you interact with the social plugins or not. If you do interact with the social plugins, e.g. by using the “Like-it-Button” or by posting a commentary, your browser will transfer such information directly to Facebook where it is being stored. Such information will also be published on Facebook and be displayed to your Facebook friends.
+
+For information on the purpose and extent of data collection, the further processing and use of such data by Facebook, as well as your rights in this regard and your setting options for the protection of your privacy, please refer to Facebook’s privacy policy: <http://www.facebook.com/about/privacy>
+
+If you are a Facebook member and do not want Facebook to collect data on you via our website and to combine such data with your Facebook membership data, you need to log off from Facebook before accessing our website.
+
+Furthermore, you may also block social plugins by downloading and installing add-ons for your browser, such as the Facebook blocker: <http://webgraph.com/resources/facebookblocker/>
+
+**Google +1 Plugins**
+
+This website uses the „+1“ plugin which is provided by Google Inc., 1600 Amphitheatre Parkway, Mountain View, CA 94043, United States of America (“Google”), which can be identified by the “+ 1″ characters displayed against a white or colored background.
+
+If you access a page on our website that includes this plugin, your browser sets up a direct connection to Google’s servers. Google transfers the plugin’s content directly to your browser which will then integrate it into the website. Therefore we have no influence on the extent or content of the data that Google collects via its plugin. According to Google, no personal data is being collected unless you click on the plugin. Only if you are a member of Google+ and are logged in to the network, such data is collected and processed.
+
+For information on the purpose and extent of data collection, the further processing and use of such data by Google, as well as your rights in this regard and your setting options for the protection of your privacy, please refer to Google’s privacy policy regarding the “+1”-plugin <http://www.google.com/intl/de/+/policy/+1button.html> as well as its FAQ: <http://www.google.com/intl/de/+1/button/>
+
+**Twitter Plugins**
+
+This website uses social plugins that are provided by Twitter Inc.,1355 Market St, Suite 900, San Francisco, CA 94103, USA, and can be identified by the Twitter logo or e.g. the words “Tweet” or “Twittern”.
+
+The plugins enable the user, inter alia, to share an article or a page of this website on Twitter. If you access a website that includes this plugin, your browser sets up a direct connection to Twitter’s servers. Twitter transfers the plugin’s content directly to your browser which will then integrate it into the website. Therefore we have no influence on the extent or content of the data that Twitter collects via its plugin, and thus, can only inform you based on our state of knowledge:
+
+According to our knowledge, log information such as the user’s IP address, the URL of the referring website, etc, is transmitted to Twitter. Additional information is available in Twitter’s privacy policy: <http://twitter.com/privacy>
+
+**LinkedIn Plugins**
+
+This website uses plugins which are provided by LinkedIn Corporation, 2029 Stierlin Court, Mountain View, CA 94043, USA (“LinkedIn”) which can be identified by the LinkedIn logo of the “Share”-Button.
+
+If you access a page on our website that includes this plugin, your browser sets up a direct connection to LinkedIn’s servers. Thereby LinkedIn receives the information that you and your IP address have accessed this website. If you click on the LinkedIn „Share“-Button while you are logged into you LinkedIn account, you can link the content of this website on your LinkedIn-Profile which enables LinkedIn to allocate the visit to our website to your LinkedIn account. We as the website operator do not know the content of the data transferred to LinkedIn or how LinkedIn uses such data. For information on the purpose and extent of data collection, the further processing and use of such data by LinkedIn, as well as your rights in this regard and your setting options for the protection of your privacy, please refer to LinkedIn’s privacy policy:  <http://www.linkedin.com/legal/privacy-policy>
+
+**Disqus Comment System**
+
+The Disqus Comment System is provided by Disqus Inc., San Francisco, USA. Disqus is an interactive comment system which permits the user to make comments on all websites that also use Disqus with only one registration. Furthermore, the user can also log into the comment system via already existing user accounts with Facebook (via Facebook Connect), Twitter, Yahoo and OpenID. It is also possible to use the comment system as a “guest” without having to register. Additional information on Disqus and its functions can be found at [www.disqus.com](http://www.disqus.com/).
+
+Disqus Inc. is the responsible entity which may collect, process and/or use personal data which may be given when commenting, even if you use the commening function as a “guest” without a Disqus account. As such, the data protection provisions and/or terms of use available on the Disqus Inc. website at <http://help.disqus.com/customer/portal/articles/466259-privacy-policy>  and at <http://help.disqus.com/customer/portal/articles/466260-terms-of-service> apply.
+
+When logging in via existing user accounts with Facebook, Twitter, Yahoo or OpenID, data can also be collected, processed or used by the respective supplier. Information can be found in the data protection provisions of the respective suppliers. In the course of comment administration, Disqus reveals to us the text of the comment as well as the user’s chosen user name, which will be published on our website together with the comment itself. Our administrators and moderators who are in charge of the comments to the articles have access to such data. Although as a general rule, comments are not read before being published online, their content may at random be reviewed in order to prevent abuse of the commenting function. If we are informed of tangible, evident violation of right, we are obliged to review the respective comment. In order to avoid liability for the comments’ content, it may also be necessary to delete comments or to edit them while making such edit recognizable.
+
+Moreover, Disqusreveals to us the email addresses used with Disqus or the the respective supplier (Facebook, Twitter, Yahoo or OpenID) and the IP address via which the comment was posted. We use the email address in order to be able to contact you there are queries with regard to the comment or if we are held liable for a comment and need to clarify the actual facts. We will not use the email address for any other purpose and will neither publish nor transfer it to third parties. The IP addresses are only used in order to prevent the abuse of the comment function, e.g. if a user misuses the commentary function by posting illegal content.
+
+**Information or Revocation, Correction, Deletion and Blocking**
+
+You are entitled to obtain information about your personal data that we have stored at any time and without giving reasons. You are also entitled to require the correction of inaccurate data and the deletion or blocking of your personal data provided insofar as there is no legal obligation to retain such data. You can address the revocation and any request for information via mail to the following address
+
+Trademob GmbH, Friedrichstraße 126, 10117 Berlin
+
+or by sending an email to [info@trademob.com](mailto:info@trademobc.om) at any time.
