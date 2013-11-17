@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mysqltutorial.org privacy policy that was archived on 2013-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130624032613id_/http%3A//www.mysqltutorial.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mysqltutorial.org privacy policy that was archived on 2013-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131117125012id_/http%3A//www.mysqltutorial.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
