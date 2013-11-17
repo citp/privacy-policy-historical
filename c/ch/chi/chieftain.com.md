@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chieftain.com privacy policy that was archived on 2013-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130622054307id_/http%3A//www.chieftain.com/site/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chieftain.com privacy policy that was archived on 2013-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131117054124id_/http%3A//www.chieftain.com/site/privacy) for the most accurate reproduction.*
 
 # The Pueblo Chieftain | Privacy
 
@@ -41,4 +41,4 @@ Third-party organizations or websites providing services on Chieftain.com may us
 **TERMS OF USE**   
 The Pueblo Chieftain Internet Services reserves the right to restrict access to anyone for, included in but not limited to, "hacking" the server or website, corrupting the website through wrongful information or otherwise abusing the privileges of the website. 
 
-*The Pueblo Chieftain Internet Services reserves all publishing rights and approval for publishing. **[Read more.](http://www.chieftain.com/site/comments/)**  
+*The Pueblo Chieftain Internet Services reserves all publishing rights and approval for publishing. **[Read more.](http://www.chieftain.com/site/terms/)**  
