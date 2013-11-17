@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thehoth.com privacy policy that was archived on 2012-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121106050208id_/http%3A//www.thehoth.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thehoth.com privacy policy that was archived on 2013-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131117200123id_/http%3A//www.thehoth.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The HOTH
 
@@ -69,5 +69,9 @@ If we decide to change our privacy policy, we will post those changes on this pa
 If there are any questions regarding this privacy policy you may contact us using the information below. 
 
 http://www.thehoth.com  
-7307 Greenbridge Ln  
-Long Grove, IL 60060sales@thehoth.com
+Next Net Media LLC  
+316 California Ave. #804  
+Reno, NV. 89509  
+sales@thehoth.com
+
+This Agreement is governed by and shall be construed in accordance with the laws of the United States of America, in the state of Nevada. The parties submit all their disputes arising out of or in connection with this Agreement to the exclusive jurisdiction of the Courts of Nevada. 
