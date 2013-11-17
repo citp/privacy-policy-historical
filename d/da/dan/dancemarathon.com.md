@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dancemarathon.com privacy policy that was archived on 2012-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121116022125id_/http%3A//childrensmiraclenetworkhospitals.org/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dancemarathon.com privacy policy that was archived on 2013-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131117030116id_/http%3A//childrensmiraclenetworkhospitals.org/Privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Children's Miracle Network Hospitals
 
@@ -66,9 +66,9 @@ Donors who have previously opted-in to external communication lists and services
 
 Children's Miracle Network Hospitals  
 Customer Care - Privacy Policy Issues  
-4525 South 2300 East  
-Salt Lake City, UT 84117  
-(801) 278.8900  
+205 West 700 South  
+Salt Lake City, UT 84101  
+(801) 214.7400  
 
 
 
