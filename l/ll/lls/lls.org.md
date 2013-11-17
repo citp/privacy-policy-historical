@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lls.org privacy policy that was archived on 2013-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130517022517id_/http%3A//www.lls.org/footer/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lls.org privacy policy that was archived on 2013-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131117102443id_/http%3A//www.lls.org/footer/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy | The Leukemia & Lymphoma Society
 
@@ -82,7 +82,7 @@ To be removed from our direct mail or telemarketing lists, fill out our [Contact
 
 If users have questions or concerns regarding this statement, they should first contact us by email at [admin@lls.org](mailto:admin@lls.org "Email LLS") or by postal mail at:
 
-Nancy L. Klein   
+Lisa Stockmon  
 Chief Marketing and Revenue Officer   
 The Leukemia & Lymphoma Society   
 1311 Mamaroneck Ave.   
@@ -97,7 +97,7 @@ USE OF THIS SITE SIGNIFIES YOUR AGREEMENT TO THE TERMS OF USE AND THIS PRIVACY P
 
 LLS reserves the right to change this policy at any time. Since any changes will be posted on this page, we encourage you to check this page regularly. Your continued use of the Site will constitute your acceptance of such changes. If you have any further questions regarding this privacy policy or the use of your personal information under this privacy policy, you can contact us at the following postal address:
 
-Nancy L. Klein   
+Lisa Stockmon  
 Chief Marketing and Revenue Officer   
 The Leukemia & Lymphoma Society   
 1311 Mamaroneck Ave.   
