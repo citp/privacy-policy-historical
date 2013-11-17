@@ -1,12 +1,6 @@
-> *The following text is extracted and transformed from the fatdrop.co.uk privacy policy that was archived on 2013-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130512010000id_/http%3A//www.fatdrop.co.uk/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fatdrop.co.uk privacy policy that was archived on 2013-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131117195945id_/http%3A//www.fatdrop.co.uk/privacy_policy) for the most accurate reproduction.*
 
 # FATdrop - digital music services
-
-We take the privacy of client and end user data very seriously. The FATdrop system is designed to provide clients with complete control over their data and end users the ability to unsubscribe from the service at any time
-
-We do not rent, sell or otherwise disclose data to 3rd parties unless we are required to by law. 
-
-We expect all clients to respect the privacy of their opt in users' data within the parameters of our Privacy Policy and our Terms and Conditions.
 
 FATdrop (referred to in this Privacy Policy as "we", "us" or "our") is committed to protecting your privacy. This Privacy Policy explains how we use the information we collect about you through FATdrop, how you can instruct us if you prefer to limit the use of that information and procedures that we have in place to safeguard your privacy. This Privacy Policy forms part of our Terms and Conditions.
 
