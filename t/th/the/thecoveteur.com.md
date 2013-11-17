@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thecoveteur.com privacy policy that was archived on 2013-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130519061447id_/http%3A//www.thecoveteur.com/static-pages/privacy-policy-cookie-restriction-mode) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thecoveteur.com privacy policy that was archived on 2013-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131117164100id_/http%3A//www.thecoveteur.com/static-pages/privacy-policy-cookie-restriction-mode) for the most accurate reproduction.*
 
 # Privacy Policy
 
