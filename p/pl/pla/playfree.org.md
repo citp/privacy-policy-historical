@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the playfree.org privacy policy that was archived on 2013-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130615073639id_/http%3A//www.playfree.org/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the playfree.org privacy policy that was archived on 2013-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131117030007id_/http%3A//www.playfree.org/en/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | PlayFree Browser - new web browser with free casual games inside | PlayFree.org
 
@@ -8,7 +8,7 @@
 
 PLEASE READ THIS DOCUMENT CAREFULLY. IT CONTAINS IMPORTANT INFORMATION THAT YOU SHOULD KNOW BEFORE CONTINUING TO USE OUR SERVICES OR PRODUCTS (AS SUCH TERM DEFINED IN THE TERMS OF USE). BY CONTINUING TO USE MYPLAYCITY SOFTWARE AND SERVICES YOU WILL BE DEEMED TO HAVE ACCEPTED THIS MYPLAYCITY'S PRIVACY POLICY.
 
-Your use of the MyPlayCity Services and Software provided herein, including any dispute concerning privacy, is subject to this Privacy Policy and MyPlayCity's Terms of Use <http://www.myplaycity.com/terms_of_use/> . By using MyPlayCity's Website (as such term defined below), Services or Products (such as video games available through the Website or PlayFreeTM browser), you are accepting the practices set out in this Privacy Policy and those Terms of Use. We reserve the right to modify this Privacy Policy at any time by posting the changes on this page. Please check the revision date below to determine if the policy has been modified since you last reviewed it. Your continued use of any portion of the MyPlayCity's Website, Services or software following posting of the updated Privacy Policy will constitute your acceptance of the changes.
+Your use of the MyPlayCity Services and Software provided herein, including any dispute concerning privacy, is subject to this Privacy Policy and MyPlayCity's [Terms of Use](http://www.playfree.org/en/terms-of-use/). By using MyPlayCity's Website (as such term defined below), Services or Products (such as video games available through the Website or PlayFreeTM browser), you are accepting the practices set out in this Privacy Policy and those Terms of Use. We reserve the right to modify this Privacy Policy at any time by posting the changes on this page. Please check the revision date below to determine if the policy has been modified since you last reviewed it. Your continued use of any portion of the MyPlayCity's Website, Services or software following posting of the updated Privacy Policy will constitute your acceptance of the changes.
 
 This privacy statement was last updated on **May 20, 2013**. MyPlayCity, Inc. and its affiliates (collectively, _**"MyPlayCity"**_ ) has created this privacy statement in order to disclose its information gathering and dissemination practices for its Services, Product and various websites under MyPlayCity's control **** (collectively, the _"_ _ **Website**_ _"_ ). Upon reading this privacy statement, you will be informed regarding the following:
 
@@ -28,7 +28,7 @@ This privacy statement was last updated on **May 20, 2013**. MyPlayCity, Inc. an
 
 A **** note about Website: While Website may be deemed to be a U.S. website, **** however, some of our Services, data centers, service providers, affiliates or operating partners and servers may be located in other countries. As such, our Products and Services may be subject to the laws of numerous countries and jurisdictions, some of which may require us to disclose certain information about our users. We are committed to keeping your information private, while still following all applicable laws.
 
-If you have any concerns or feel that there are certain problems or issues relating to compliance with the policies outlined in this Privacy Policy, please submit a report by emailing at: [www.myplaycity.com/support](mailto:privacy@MyPlayCity.com).
+If you have any concerns or feel that there are certain problems or issues relating to compliance with the policies outlined in this Privacy Policy, please submit a report by emailing at: [http://www.playfree.org/en/support/](http://www.playfree.org/en/support).
 
 ### Word from MyPlayCity
 
@@ -86,15 +86,15 @@ MyPlayCity may establish relationships with various service providers whose serv
 
 You may be given an opportunity to create a personal account, which may be required for receiving Services or Products offered or to be offered on the Website. Once the personal account is created, you will be able to access, review and update your personal account information via the Website.
 
-If you wish to deactivate your personal account, you can contact us at http://www.myplaycity.com/support. When you deactivate your personal account, all information stored and maintained as part of your account may be retained for archival, backup and record purposes. You may change your personal information and privacy preferences at any time by logging into your personal account. You may also access and change your personal information and privacy preferences by contacting us at http://www.myplaycity.com/support/.
+If you wish to deactivate your personal account, you can contact us at <http://www.playfree.org/en/support/>. When you deactivate your personal account, all information stored and maintained as part of your account may be retained for archival, backup and record purposes. You may change your personal information and privacy preferences at any time by logging into your personal account. You may also access and change your personal information and privacy preferences by contacting us at <http://www.playfree.org/en/support/>.
 
 ### Updating Your Personal Preferences
 
-You may have access and correct your personal information and privacy preferences by writing to: [www.myplaycity.com/support](mailto:privacy@MyPlayCity.com).
+You may have access and correct your personal information and privacy preferences by writing to: <http://www.playfree.org/en/support/>.
 
 ### Information Relating to Children
 
-The Children's Online Privacy Protection Act (COPPA) was passed by the U.S. Congress in November 1998. COPPA provides parents with specific rights regarding their children's privacy. For additional information and resources on COPPA, please visit the Federal Trade Commission Web site at <http://www.ftc.gov/>. The MyPlayCity Website and any Products or Services available on that site are not directed at children under 13 years of age and, therefore, COPPA does not apply. However, we recognize that children under the age of 13 may access this Website and subscribe to the newsletter, purchase Products and Services, or download software programs. The collection of information is covered above. Parents and Legal Guardians may request from us to review, delete or stop the collection of the personally identifiable information of their child. You may do so by contacting us by letter (using the address information provided at the bottom of this page) or email to [www.myplaycity.com/support](http://www.myplaycity.com/support).
+The Children's Online Privacy Protection Act (COPPA) was passed by the U.S. Congress in November 1998. COPPA provides parents with specific rights regarding their children's privacy. For additional information and resources on COPPA, please visit the Federal Trade Commission Web site at <http://www.ftc.gov/>. The MyPlayCity Website and any Products or Services available on that site are not directed at children under 13 years of age and, therefore, COPPA does not apply. However, we recognize that children under the age of 13 may access this Website and subscribe to the newsletter, purchase Products and Services, or download software programs. The collection of information is covered above. Parents and Legal Guardians may request from us to review, delete or stop the collection of the personally identifiable information of their child. You may do so by contacting us by letter (using the address information provided at the bottom of this page) or writing to [http://www.playfree.org/en/support/](http://www.playfree.org/en/support).
 
 ### Securing the Transmission and Storage of Information
 
@@ -130,7 +130,7 @@ We reserve the right to send a one-time registration confirmation email, and inf
 
 MyPlayCity is retaining these rights because in limited cases we feel that we may need the right to contact you as a matter of law or regarding matters that will be important to you. These rights do not allow us to contact you to market a new or existing Service if you have asked us not to do so, and issuance of these types of communications is rare.
 
-If you wish to opt out of receiving emails, the sharing or retention of any personal identification information, or otherwise change your personal preferences, you must contact MyPlayCity at: www.myplaycity.com/support.
+If you wish to opt out of receiving emails, the sharing or retention of any personal identification information, or otherwise change your personal preferences, you must contact MyPlayCity at: [http://www.playfree.org/en/support/](http://www.playfree.org/en/support).
 
 To ensure that your request is honored, you must provide MyPlayCity with information sufficient for us to accurately identify and access your records. The information we require is your full name, address and the email address you provided to MyPlayCity when you requested Services or Products. MyPlayCity reserves the right to contact you to verify that we have accurately identified your record.
 
@@ -155,7 +155,7 @@ You may set your browser to block cookies (consult the instructions for your par
 
 ### D. PRIVACY-RELATED INQUIRIES AND COMPLAINTS
 
-MyPlayCity takes and addresses its users' privacy concerns with utmost respect and attention. If you believe that there was an instance of non-compliance with this Online Privacy Policy with regard to your personal information or you have other related inquiries or concerns, you may write or contact MyPlayCity at email: www.myplaycity.com/support.
+MyPlayCity takes and addresses its users' privacy concerns with utmost respect and attention. If you believe that there was an instance of non-compliance with this Online Privacy Policy with regard to your personal information or you have other related inquiries or concerns, you may write or contact MyPlayCity at: [http://www.playfree.org/en/support/](http://www.playfree.org/en/support).
 
 In your message, please describe in as much detail as possible the nature of your inquiry or the ways in which you believe that the MyPlayCity Online Privacy Policy has not been complied with. We will investigate your inquiry or complaint promptly.
 
