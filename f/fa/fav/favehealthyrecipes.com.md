@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the favehealthyrecipes.com privacy policy that was archived on 2013-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130518090057id_/http%3A//www.favehealthyrecipes.com/index.php/hct/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the favehealthyrecipes.com privacy policy that was archived on 2013-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131117034758id_/http%3A//www.favehealthyrecipes.com/index.php/hct/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | FaveHealthyRecipes.com
 
