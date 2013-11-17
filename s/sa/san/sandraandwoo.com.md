@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sandraandwoo.com privacy policy that was archived on 2013-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130519192201id_/http%3A//www.sandraandwoo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sandraandwoo.com privacy policy that was archived on 2013-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131117164036id_/http%3A//www.sandraandwoo.com/privacy-policy) for the most accurate reproduction.*
 
 # Sandra and Woo » Privacy Policy | Webcomic Online Comic Strip
 
@@ -8,23 +8,21 @@ We collect information from you when you register on our site, respond to a surv
 
 When ordering or registering on our site, as appropriate, you may be asked to enter your: name or e-mail address. You may, however, visit our site anonymously.
 
-Google, as a third party vendor, uses cookies to serve ads on your site.  
-Google’s use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet.  
-Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.de/privacy_ads.html).
+Google, as a third party vendor, uses cookies to serve ads on your site. Google’s use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.de/privacy_ads.html).
 
 **What do we use your information for?**
 
 Any of the information we collect from you may be used in one of the following ways:
 
-  * To personalize your experience  
-(your information helps us to better respond to your individual needs)
-  * To improve our website  
-(we continually strive to improve our website offerings based on the information and feedback we receive from you)
-  * To process transactions 
-    * Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.
+  * To personalize your experience (your information helps us to better respond to your individual needs)
+  * To improve our website (we continually strive to improve our website offerings based on the information and feedback we receive from you)
   * To administer a contest, promotion, survey or other site feature
 
 
+
+**How do we protect your information?**
+
+We implement a variety of security measures to maintain the safety of your personal information when you enter, submit, or access your personal information.
 
 **Do we use cookies?**
 
@@ -44,6 +42,8 @@ Occasionally, at our discretion, we may include or offer third party products or
 
 Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.
 
+As part of the California Online Privacy Protection Act, all users of our site may make any changes to their information at anytime by logging into their control panel and going to the ‘Edit Profile’ page.
+
 **Childrens Online Privacy Protection Act Compliance**
 
 We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
@@ -54,11 +54,11 @@ This online privacy policy applies only to information collected through our web
 
 **Terms and Conditions**
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at <http://www.sandraundwoo.de/info/#haftungsausschluss>
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at <http://www.sandraandwoo.com/woode/impressum/>
 
 **Your Consent**
 
-By using our site, you consent to our [websites privacy policy](http://www.freeprivacypolicy.com/).
+By using our site, you consent to our [online privacy policy](http://www.freeprivacypolicy.com/).
 
 **Changes to our Privacy Policy**
 
@@ -70,13 +70,13 @@ If there are any questions regarding this privacy policy you may contact us usin
 
   * http://www.sandraandwoo.com/
   * Mayenner Str. 48
-  * Waiblingen, Baden-Württemberg 71332
+  * Waiblingen 71332
   * Germany
   * novil@gmx.de
 
 
 
-Privacy Policy Created by [Free Privacy Policy](http://www.freeprivacypolicy.com/)
+This policy is powered by Free Privacy Policy and Rhino Support. Compare Rhino Support to [Zendesk](http://www.rhinosupport.com/zendesk.htm) and save!
 
 ## Opt out
 
@@ -87,26 +87,12 @@ Opt out of from behavioral advertising:
 
 
 
-## Six Apart Privacy Policy
+## Google Analytics
 
-**Third Party Advertiser Cookies and Web Beacons**
+This website uses Google Analytics, a web analytics service provided by Google, Inc. (“Google”). Google Analytics uses “cookies”, which are text files placed on your computer, to help the website analyze how users use the site. The information generated by the cookie about your use of the website (including your IP address) will be transmitted to and stored by Google on servers in the United States. In case of activation of the IP anonymization, Google will truncate/anonymize the last octet of the IP address for Member States of the European Union as well as for other parties to the Agreement on the European Economic Area.
 
-This web site participates in Six Apart Media, a comprehensive advertising program provided by Six Apart Ltd. for publishers all across the Web. This section of our privacy policy describes how Six Apart Ltd. and the third party advertising networks and advertisers that display advertisements through Six Apart Media (collectively, “Advertisers”) collect, use, store and disclose data from visitors to this Web site.
+Only in exceptional cases, the full IP address is sent to and shortened by Google servers in the USA. On behalf of the website provider Google will use this information for the purpose of evaluating your use of the website, compiling reports on website activity for website operators and providing other services relating to website activity and internet usage to the website provider. Google will not associate your IP address with any other data held by Google.
 
-A “cookie” is a small amount of data, which often includes an anonymous unique identifier that is sent to your browser from a Web site’s computers and stored on your computer’s hard drive. Cookies can be used to target advertisements relevant to your interests, based on your visits to different Web sites, to provide traffic measurement and other analytics and to conduct research.
+You may refuse the use of cookies by selecting the appropriate settings on your browser. However, please note that if you do this, you may not be able to use the full functionality of this website. Furthermore you can prevent Google’s collection and use of data (cookies and IP address) by downloading and installing the browser plug-in available under <https://tools.google.com/dlpage/gaoptout?hl=en-GB>.
 
-A “Web beacon” is an electronic file on a Web page that allows a Web site to count users who have visited that page, to access certain cookies and to provide auditing, research and reporting for advertisers.
-
-When your browser requests a page that displays advertising from one of the Advertisers, the Advertiser may view, edit or set its own cookie through your browser. In addition, the Advertiser may place its own Web beacon in the page, which may be triggered by your browser’s request.
-
-**Advertiser Privacy Policies**
-
-If you would like to contact the Advertisers to learn more about their privacy policies and what options (if any) they offer to opt out of their data collection and use, please follow these links to their Web sites:
-
-Six Apart Ltd.  
-[ http://www.sixapart.com/privacy](http://www.sixapart.com/privacy/)
-
-Six Apart Media third party advertising networks and advertisers  
-[ http://www.sixapart.com/advertising/solutions-for-bloggers/privacy/3rd-party-list/index.html](http://www.sixapart.com/advertising/solutions-for-bloggers/privacy/3rd-party-list/index.html)
-
-Some of these third party advertising networks are participants in the Network Advertising Initiative (“NAI”), a cooperative of online marketing and analytics companies committed to building consumer awareness and establishing responsible business and data management practices and standards. You can learn more about NAI and how you may “opt out” of targeted advertising delivered by NAI member ad networks [here](http://www.networkadvertising.org/).
+Further information concerning the terms and conditions of use and data privacy can be found at <http://www.google.com/analytics/terms/gb.html> or at <http://www.google.com/intl/en_uk/analytics/privacyoverview.html>. Please note that on this website, Google Analytics code is supplemented by “gat._anonymizeIp();” to ensure an anonymized collection of IP addresses (so called IP-masking).
