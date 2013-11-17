@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mygrande.com privacy policy that was archived on 2013-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130622112320id_/http%3A//mygrande.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mygrande.com privacy policy that was archived on 2013-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131117082302id_/http%3A//mygrande.com/privacy-statement) for the most accurate reproduction.*
 
 # Grande Communications | Privacy
 
