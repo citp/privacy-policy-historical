@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the virtualfestivals.com privacy policy that was archived on 2013-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130519192934id_/http%3A//www.virtualfestivals.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the virtualfestivals.com privacy policy that was archived on 2013-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131117164004id_/http%3A//www.virtualfestivals.com/info/privacy) for the most accurate reproduction.*
 
 # Privacy Statement - - Privacy Policy
 
