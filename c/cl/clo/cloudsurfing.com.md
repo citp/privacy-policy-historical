@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cloudsurfing.com privacy policy that was archived on 2013-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130313175254id_/http%3A//www.cloudsurfing.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cloudsurfing.com privacy policy that was archived on 2013-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131117164240id_/http%3A//www.cloudsurfing.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - CloudSurfing
 
