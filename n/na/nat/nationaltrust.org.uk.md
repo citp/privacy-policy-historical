@@ -1,11 +1,8 @@
-> *The following text is extracted and transformed from the nationaltrust.org.uk privacy policy that was archived on 2013-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130606105152id_/http%3A//www.nationaltrust.org.uk/article-1356393885478) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nationaltrust.org.uk privacy policy that was archived on 2013-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131117025352id_/http%3A//www.nationaltrust.org.uk/article-1356393885478) for the most accurate reproduction.*
 
 # Privacy policy - National Trust
 
-**Please be aware that we are reviewing our position on how we use Cookies and will be updating our privacy policy to reflect this soon.
-
-1\. Introduction
-
+**1\. Introduction  
 **The National Trust's Privacy Policy sets out the ways The National Trust processes personal data. This Privacy Policy only relates to personal data collected by The National Trust via The National Trust website, membership forms, fundraising responses, emails and telephone calls.
 
 This Privacy Policy does not apply to personal data provided to The National Trust by any other means or via any other website. Users should be aware that if they access other websites, using the links provided, these are outside our control. If they provide personal data to other companies, the privacy polices of those companies determine the uses to which that information is put and The National Trust's Privacy Policy will no longer apply.  
@@ -60,9 +57,10 @@ If, at any time, you want to verify, update or amend your personal data or prefe
 
 The National Trust  
 Membership Department  
-PO Box 39  
-Warrington  
-WA5 7WD
+PO Box 574,   
+Manvers,   
+Rotherham,  
+S63 3FH
 
 Verification, updating or amendment of personal data will take place within 28 days of receipt of your request.
 
