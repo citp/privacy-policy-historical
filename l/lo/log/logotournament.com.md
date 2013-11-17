@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the logotournament.com privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530153924id_/http%3A//logotournament.com/help/client/39) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the logotournament.com privacy policy that was archived on 2013-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131117102502id_/http%3A//logotournament.com/help/client/39) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -20,3 +20,5 @@ We take your privacy seriously.
   * We use information generated form Google Analytics to learn more about site visitors, and to improve the site based on these findings.
 
 
+
+Please note the FAQs specifically dealing with Private upgrades to your contest.
