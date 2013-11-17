@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the lls.org privacy policy that was archived on 2013-05-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130517022517id_/http%3A//www.lls.org/footer/privacypolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the lls.org privacy policy that was archived on 2013-11-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131117102443id_/http%3A//www.lls.org/footer/privacypolicy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
     <link rel="icon" type="image/gif" href="/assets/images/icons/favicon.ico">
@@ -16,6 +16,7 @@
         <link href="/assets/css/global.css" rel="STYLESHEET" type="text/css">
         <link href="/assets/css/components.css" rel="STYLESHEET" type="text/css">
         <link href="/assets/css/jcarousel-skins.css" rel="STYLESHEET" type="text/css">
+        <link href="/assets/css/modal-popup.css" rel="STYLESHEET" type="text/css">
     <!-- Corporate Styles -->
             <!--[if IE]>
             <link href="/assets/css/ie/ie.css" rel="STYLESHEET" type="text/css" />
@@ -40,7 +41,15 @@
 		_gaq.push(['_setDomainName', 'none']);
 	}
 	_gaq.push(['_setAllowLinker', true]);
-	_gaq.push(['_trackPageview']);
+	var theHash = window.location.hash;
+    if (typeof(theHash) != 'undefined' && theHash != '' & theHash != '#') {
+        var theActualUrl = theHash.substring(1);
+        if (theActualUrl != "") {
+        	_gaq.push(['_trackPageview', theActualUrl]);
+        }
+    } else {
+    	_gaq.push(['_trackPageview']);
+    }
 (function() {
   var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
   ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
@@ -136,9 +145,11 @@ removeZip = function() {
     return false;
 };
 checkForInitialAddress = function() {
-    var windowHash = window.location.hash;
+    var windowHash = window.location.hash; 
     if (typeof(windowHash) != 'undefined' && windowHash != '' & windowHash != '#') {
         getMenuAndBody(windowHash.substring(1), true);
+    } else {
+    	displayModal();
     }
 };
 attachClicksForAnchors = function() {
@@ -153,6 +164,7 @@ attachClicksForAnchors = function() {
         jQuery(this).attr("href", "javascript:void(0);");
         jQuery(this).click(function() {
             _gaq.push(['_trackEvent','Page', 'Internal Link - Anchor', href]);
+            _gaq.push(['_trackPageview', href]);
             jQuery('html, body').animate({scrollTop: scrollToElement.offset().top}, 2000);
         });
     });
@@ -201,6 +213,7 @@ attachClicksToLinks = function(linkElements, expandLeftNavigation) {
              */
             if (urlString.startsWith('/')) {
                 _gaq.push(['_trackEvent','Page', 'Internal Link - Hash', urlString]);
+                //_gaq.push(['_trackPageview', urlString]);
                 return ajaxClickAction(link, expandLeftNavigation);
             }
             /*
@@ -211,6 +224,7 @@ attachClicksToLinks = function(linkElements, expandLeftNavigation) {
             var windowHost = getHostForWindow();
             if (linkHost == windowHost) {
                 _gaq.push(['_trackEvent','Page', 'Internal Link - Full Url', urlString]);
+                _gaq.push(['_trackPageview', urlString]);
                 link.attr('href', getPathForLink(urlString));
                 return ajaxClickAction(link, expandLeftNavigation);
             }
@@ -278,13 +292,16 @@ isWindowBeyondRoot = function() {
 loadLeftMenuBody = function(htmlData) {
     if (!aborted) {
         jQuery('#page').show();
-        jQuery('#page').html(htmlData);
+        //jQuery('#page').html(htmlData);
+        //jQuery('#page').empty().append(htmlData);
+        document.getElementById('page').innerHTML = htmlData;
         loadInternalScript();
         attachClicksForAnchors();
         attachClicksWithinElementByName('body', false);
         attachClicksWithinElementById('nav_Sup', false);
         expandTreeForLastClickHref();
         pageLoadingUnBlock();
+        displayModal();
     }
 };
 loadSite = function(htmlData) {
@@ -298,7 +315,10 @@ loadInternalScript = function () {
         else {
             jQuery.get(scriptSrc, jQuery(this).serialize(), function(data) {
                 var script = jQuery(data).text();
-                eval(script);
+                try {
+                	eval(script);
+	   			} catch(err) {
+	   			}
             });
         }
     })
@@ -374,6 +394,7 @@ getMenuAndBody = function(urlPath, isInitialAddress) {
     urlPath = addParamToUrl(urlPath, 'ajax', true);
     //ML added for the AjaxForwardFilter LLS-910
     urlPath = "/ajax" + urlPath;
+    modalItemPath = "";
     lastAjaxObject = jQuery.ajax({
         type: 'post',
         url: urlPath,
@@ -395,6 +416,7 @@ initAddress = function() {
     jQuery(window).hashchange(function() {
         var url = window.location.hash.substring(1);
         if (url != '' && loadMenuandBody) {
+        	_gaq.push(['_trackPageview', url]);
             getMenuAndBody(url);
         }
         loadMenuandBody = true;
@@ -445,6 +467,79 @@ errorReturnClick = function(shouldAbort) {
     return false;
 };
 </script>
+<link rel="stylesheet" href="/static/lls_colorbox/colorbox.css">
+<script src="/static/lls_colorbox/jquery.colorbox.js"></script>
+<script src="/static/lls_colorbox/jquery.cookie.js"></script>
+<script src="/assets/javascript/modal-popup.js"></script>
+<script>
+	var setCookie = false;
+	var setExpiration;
+	var modalItemPath;
+	var modalWindowTitle = '??';
+	var itemKey = "3204995";
+	displayModal = function() {
+                function setModalPopupCookie(name, days) {
+                    var cookie;
+                    if ((days === undefined) || (days === null) || (days === '')) {
+                        // old format
+                        cookie = jQuery.cookie(name, 'true');
+                    } else {
+                        // day based expiration
+                        var now = (new Date()).getTime();
+                        var exp = new Date(now + parseInt(days) * (24 * 60 * 60 * 1000));
+                        exp = exp.toUTCString();
+                        var cookieValue = name + '=' +  '{"date":' + now + ',"days":' + days + '}; expires=' + exp;
+                        // var cookieValue = {date: now, days: days};
+                        // cookieValue = jQuery.toJSON(cookieValue);
+                        document.cookie=cookieValue;
+                        cookie = jQuery.cookie(name);
+                    }
+                    return cookie;
+                }
+                function resetModalPopupCookie(name, days) {
+                    if ((days === undefined) || (days === null) || (days === '')) {
+                        return jQuery.cookie(name); // old format
+                    }
+                    // expiration provided
+                    var cookieValue = jQuery.cookie(name);
+                    if (cookieValue !== null) {
+                        try {
+                            cookieValue = jQuery.parseJSON(cookieValue);
+                            var cookieDays = cookieValue.days;
+                            var forDays = parseInt(days);
+                            if (cookieDays !== forDays) {
+                                var now = (new Date()).getTime();
+                                var cookeDate = cookieValue.date;
+                                var daysDiff = (now - cookeDate) / (24 * 60 * 60 * 1000);
+                                daysDiff = Math.floor(daysDiff);
+                                if (daysDiff > forDays) { // expire right a way
+                                    jQuery.removeCookie(name);
+                                } else { // reset
+                                    return setModalPopupCookie(name, forDays - daysDiff);
+                                }
+                            } else {
+                                return cookieValue;
+                            }
+                        } catch (e) { // not parsable kookie - remove it
+                            jQuery.removeCookie(name);
+                        }
+                    }
+                    return null;
+                }
+		if (modalItemPath !== undefined && modalItemPath !== '') {
+			jQuery.colorbox.close();
+			var cookieKey = itemKey + 'modal_' + modalItemPath;
+                        var cookieReset = resetModalPopupCookie(cookieKey, setExpiration);
+			if (!setCookie || (cookieReset === null)) {
+				jQuery.colorbox({title:modalWindowTitle, href:modalItemPath});
+				modalItemPath = ""; // to prevent the same popup showing after ajax calls
+				if (setCookie) {
+                                    setModalPopupCookie(cookieKey, setExpiration);
+				}
+			}
+		}
+	};
+</script>
 </head> 
             <body>
             <div id="container">
@@ -461,12 +556,7 @@ errorReturnClick = function(shouldAbort) {
 					<a href="http://www.llscanada.org">Canadian Website</a>
 	</div>
 	<div id="languageSelector">
-									<a class="languageSectionLink" href="/espanol/">
-										Espanol
-									</a>
-									<a style="display:none" class="defaultLanguageSectionLink" href="/">
-										English
-									</a>
+						<a href=" http://espanol.lls.org/">Espanol</a>
 	</div>
         </div>
         <div id="headerRightMiddle">
@@ -537,11 +627,11 @@ errorReturnClick = function(shouldAbort) {
             <div class="clearfloat"></div>
         </div>
         <div id="headerRightBottom">
-            <div id="headerRightBottomRight">»
-                        <a href="/aboutlls/chapters/">
-                            Browse All Offices
-                        </a>
-            </div>
+        		<div id="headerRightBottomRight">»
+	                        <a href="/aboutlls/chapters/">
+	                            Browse All Offices
+	                        </a>
+	            </div>
             <div id="headerRightBottomMiddle">
             </div>
             <div id="headerRightBottomLeft"></div>
@@ -560,6 +650,11 @@ errorReturnClick = function(shouldAbort) {
                                     <ul>
                                         <!-- Fetch the secondary level navigation -->
                                                 <li>
+<a href="http://www.lls.org/somedayistoday/">
+	Someday is Today
+</a>
+                                                </li>
+                                                <li>
 <a href="/aboutlls/mission/">
 	Mission and Goals
 </a>
@@ -570,8 +665,8 @@ errorReturnClick = function(shouldAbort) {
 </a>
                                                 </li>
                                                 <li>
-<a href="/aboutlls/seniorstaff/">
-	Senior Staff
+<a href="/aboutlls/leadershipteam/">
+	Executive Leadership Team
 </a>
                                                 </li>
                                                 <li>
@@ -682,6 +777,11 @@ errorReturnClick = function(shouldAbort) {
 	For Caregivers
 </a>
                                                 </li>
+                                                <li>
+<a href="http://www.lls.org/aboutlls/news/">
+	News
+</a>
+                                                </li>
                                     </ul>
                                 </li>
                                 <li>
@@ -693,6 +793,11 @@ errorReturnClick = function(shouldAbort) {
                                                 <li>
 <a href="/waystohelp/donate/">
 	Donate
+</a>
+                                                </li>
+                                                <li>
+<a href="http://www.lls.org/somedayistoday/">
+	Someday is Today
 </a>
                                                 </li>
                                                 <li>
@@ -735,6 +840,11 @@ errorReturnClick = function(shouldAbort) {
 	Why Give to LLS?
 </a>
                                                 </li>
+                                                <li>
+<a href="http://www.lls.org/aboutlls/news/">
+	News
+</a>
+                                                </li>
                                     </ul>
                                 </li>
                                 <li>
@@ -763,6 +873,11 @@ errorReturnClick = function(shouldAbort) {
 	Continuing Education
 </a>
                                                 </li>
+                                                <li>
+<a href="http://www.lls.org/aboutlls/news/">
+	News
+</a>
+                                                </li>
                                     </ul>
                                 </li>
                     </ul>
@@ -782,18 +897,18 @@ errorReturnClick = function(shouldAbort) {
         });
     });
 </script>
-        <div id="localize">
-            <form id="zipCodeLookupForm" method="post" action="/chapterlogin.action">
-                <fieldset>
-                    <input type="hidden" name="zipcodeLookupAction" class="zipcodeLookupAction" value="/chapterlogin.action">
-                    <input type="hidden" name="returnUrl" id="returnUrl">
-                    <input type="hidden" name="zipNotFoundUrl" id="zipNotFoundUrl" value="/aboutlls/chapters/">
-                    <label>Find Your Chapter</label>
-                    <input name="postalCode" type="text" class="formField" id="postalForm" value="Enter Your Zip" size="12" maxlength="10" onfocus="if(this.value=='Enter Your Zip')this.value='';" onkeypress="if(event.keyCode == 13) return false;"> 
-                    <input id="zipSubmitButton" type="image" class="image" src="/assets/images/topnav/bttnGo.gif">
-                </fieldset>
-            </form>
-        </div>
+	        <div id="localize">
+	            <form id="zipCodeLookupForm" method="post" action="/chapterlogin.action">
+	                <fieldset>
+	                    <input type="hidden" name="zipcodeLookupAction" class="zipcodeLookupAction" value="/chapterlogin.action">
+	                    <input type="hidden" name="returnUrl" id="returnUrl">
+	                    <input type="hidden" name="zipNotFoundUrl" id="zipNotFoundUrl" value="/aboutlls/chapters/">
+	                    <label>Find Your Chapter</label>
+	                    <input name="postalCode" type="text" class="formField" id="postalForm" value="Enter Your Zip" size="12" maxlength="10" onfocus="if(this.value=='Enter Your Zip')this.value='';" onkeypress="if(event.keyCode == 13) return false;"> 
+	                    <input id="zipSubmitButton" type="image" class="image" src="/assets/images/topnav/bttnGo.gif">
+	                </fieldset>
+	            </form>
+	        </div>
 </div>
 <script type="text/javascript">
         		jQuery('.defaultLanguageSectionLink').hide();
@@ -862,20 +977,20 @@ Footer Items (not in left nav)
 <p>Effective management of our email list to honor the interests of our contacts is a founding principle of our email communications program. Whether you would like to be removed from a specific campaign or eNewsletter offering, all of our communications include an 'unsubscribe' option. </p>
 <p>To be removed from our direct mail or telemarketing lists, fill out our <a title="Contact Us" href="http://www.lls.org/aboutlls/contactus/">Contact Us</a> form and include your request in the 'How can we assist you' field. </p>
 <p>If users have questions or concerns regarding this statement, they should first contact us by email at <a title="Email LLS" href="mailto:admin@lls.org">admin@lls.org</a> or by postal mail at:</p>
-<p>Nancy L. Klein <br>Chief Marketing and Revenue Officer <br>The Leukemia &amp; Lymphoma Society <br>1311 Mamaroneck Ave. <br>White Plains, NY 10605<br></p>
+<p>Lisa Stockmon<br>Chief Marketing and Revenue Officer <br>The Leukemia &amp; Lymphoma Society <br>1311 Mamaroneck Ave. <br>White Plains, NY 10605<br></p>
 <h3>Additional Information</h3>
 <p>This privacy policy is personal between you and us, and no one else shall be deemed a third party beneficiary of this policy.</p>
 <p>USE OF THIS SITE SIGNIFIES YOUR AGREEMENT TO THE TERMS OF USE AND THIS PRIVACY POLICY.</p>
 <p>LLS reserves the right to change this policy at any time. Since any changes will be posted on this page, we encourage you to check this page regularly. Your continued use of the Site will constitute your acceptance of such changes. If you have any further questions regarding this privacy policy or the use of your personal information under this privacy policy, you can contact us at the following postal address:</p>
-<p>Nancy L. Klein <br>Chief Marketing and Revenue Officer <br>The Leukemia &amp; Lymphoma Society <br>1311 Mamaroneck Ave. <br>White Plains, NY 10605<br></p></div>
+<p>Lisa Stockmon<br>Chief Marketing and Revenue Officer <br>The Leukemia &amp; Lymphoma Society <br>1311 Mamaroneck Ave. <br>White Plains, NY 10605<br></p></div>
 </div>
 </div> <!-- End Page Studio Area -->
         <div id="llsForm">
     <!-- Form360 Builder URL? http://forms.lls.org/FormBuilder/ -->
     <!-- Form360 Renderer URL? http://forms.lls.org/FormRenderer/FormServlet -->
     <!--
-    Version =           5
-    Item key =          2299353
+    Version =           8
+    Item key =          3204995
     Original item key = 2107311
     -->
     <!-- Page has UID on item?  -->
@@ -885,10 +1000,10 @@ Footer Items (not in left nav)
             <div class="clearfloat"></div>
 <div id="updateDate">
     last updated on
-    Monday, April 11, 2011
+    Friday, June 07, 2013
 </div>
         </div>
-    </div>
+    </div>	
 </div>
                 <!-- Footer -->
                 <div id="footer">
@@ -936,6 +1051,11 @@ Footer Items (not in left nav)
 </a>
 				   		<ul>
 					    	 		<li>
+<a href="http://www.lls.org/somedayistoday/">
+	Someday is Today
+</a>
+						    		</li>
+					    	 		<li>
 <a href="/aboutlls/mission/">
 	Mission and Goals
 </a>
@@ -946,8 +1066,8 @@ Footer Items (not in left nav)
 </a>
 						    		</li>
 					    	 		<li>
-<a href="/aboutlls/seniorstaff/">
-	Senior Staff
+<a href="/aboutlls/leadershipteam/">
+	Executive Leadership Team
 </a>
 						    		</li>
 					    	 		<li>
@@ -1059,6 +1179,11 @@ Footer Items (not in left nav)
 	For Caregivers
 </a>
 						    		</li>
+					    	 		<li>
+<a href="http://www.lls.org/aboutlls/news/">
+	News
+</a>
+						    		</li>
 					    </ul>
 					</li>
 				</ul>
@@ -1071,6 +1196,11 @@ Footer Items (not in left nav)
 					    	 		<li>
 <a href="/waystohelp/donate/">
 	Donate
+</a>
+						    		</li>
+					    	 		<li>
+<a href="http://www.lls.org/somedayistoday/">
+	Someday is Today
 </a>
 						    		</li>
 					    	 		<li>
@@ -1113,6 +1243,11 @@ Footer Items (not in left nav)
 	Why Give to LLS?
 </a>
 						    		</li>
+					    	 		<li>
+<a href="http://www.lls.org/aboutlls/news/">
+	News
+</a>
+						    		</li>
 					    </ul>
 					</li>
 				</ul>
@@ -1142,6 +1277,11 @@ Footer Items (not in left nav)
 	Continuing Education
 </a>
 						    		</li>
+					    	 		<li>
+<a href="http://www.lls.org/aboutlls/news/">
+	News
+</a>
+						    		</li>
 					    </ul>
 					</li>
 				</ul>
@@ -1167,4 +1307,4 @@ Footer Items (not in left nav)
 		<!-- Bright Tag End -->
 	
 
-</body></html>
+<div id="cboxOverlay" style="display: none;"></div><div id="colorbox" class="" role="dialog" tabindex="-1" style="display: none;"><div id="cboxWrapper"><div><div id="cboxTopLeft" style="float: left;"></div><div id="cboxTopCenter" style="float: left;"></div><div id="cboxTopRight" style="float: left;"></div></div><div style="clear: left;"><div id="cboxMiddleLeft" style="float: left;"></div><div id="cboxContent" style="float: left;"><div id="cboxTitle" style="float: left;"></div><div id="cboxCurrent" style="float: left;"></div><button type="button" id="cboxPrevious"></button><button type="button" id="cboxNext"></button><button id="cboxSlideshow"></button><div id="cboxLoadingOverlay" style="float: left;"></div><div id="cboxLoadingGraphic" style="float: left;"></div></div><div id="cboxMiddleRight" style="float: left;"></div></div><div style="clear: left;"><div id="cboxBottomLeft" style="float: left;"></div><div id="cboxBottomCenter" style="float: left;"></div><div id="cboxBottomRight" style="float: left;"></div></div></div><div style="position: absolute; width: 9999px; visibility: hidden; display: none;"></div></div></body></html>
