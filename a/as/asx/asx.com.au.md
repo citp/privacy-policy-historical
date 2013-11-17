@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the asx.com.au privacy policy that was archived on 2013-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130507005735id_/http%3A//www.asx.com.au/legal/privacy-statement.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asx.com.au privacy policy that was archived on 2013-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131117164053id_/http%3A//www.asx.com.au/about/privacy-statement.htm) for the most accurate reproduction.*
 
-# Privacy Statement - Australian Securities Exchange - ASX
+# Privacy Statement - ASX
 
  ASX Limited and its related bodies corporate (the “ **ASX Group** ” or “ **ASX** ”) is bound by the National Privacy Principles (“ **NPP** ” or “ **Principles** ”) as set out in the Privacy Act 1988 (Commonwealth). The following Privacy Statement has been published to provide a clear and concise outline of how and when Personal Information is collected, stored and distributed by the ASX Group.
 
