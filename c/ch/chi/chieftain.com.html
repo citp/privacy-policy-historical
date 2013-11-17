@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the chieftain.com privacy policy that was archived on 2013-06-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130622054307id_/http%3A//www.chieftain.com/site/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the chieftain.com privacy policy that was archived on 2013-11-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131117054124id_/http%3A//www.chieftain.com/site/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><!--This includes all of the content of the head and body tags.--><!-- fi:/csp/mediapool/sites/Shared/assets/csp/allIndex.csp --><!-- fi:/csp/mediapool/sites/Shared/assets/csp/includes/detectMobileDevice.csp --><!--/fi:/csp/mediapool/sites/Shared/assets/csp/includes/detectMobileDevice.csp, e:.000092 --><!--<csp:if condition=((mobileDeviceExists=0)!(%request.GetCookie("ClearFromMobileFlag")="1")!(%request.GetCookie("ClearFromMobileFlag")=1))>--><!-- fi:/csp/mediapool/sites/Shared/assets/csp/fAllIndex.csp --><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><!--This includes all of the content of the head and body tags.--><!-- fi:/csp/mediapool/sites/Shared/assets/csp/allIndex.csp --><!-- fi:/csp/mediapool/sites/Shared/modules/dtiIncludes/csp/detectMobileDevice.csp --><!--/fi:/csp/mediapool/sites/Shared/modules/dtiIncludes/csp/detectMobileDevice.csp, e:.000087 --><!--<csp:if condition=((mobileDeviceExists=0)!(%request.GetCookie("ClearFromMobileFlag")="1")!(%request.GetCookie("ClearFromMobileFlag")=1))>--><!--'--><!-- fi:/csp/mediapool/sites/Shared/assets/csp/fAllIndex.csp --><head>
 	
 <!-- fi:/csp/mediapool/sites/PuebloChieftain/assets/csp/headfiles/head.csp -->
 
@@ -21,14 +21,20 @@ The Pueblo Chieftain |
 
 <link rel="stylesheet" href="/csp/mediapool/sites/PuebloChieftain/assets/css/style.css">
 <link rel="stylesheet" href="/csp/mediapool/sites/Shared/assets/css/orbit-1.2.3.css">
+<link rel="stylesheet" href="/csp/mediapool/sites/Shared/assets/css/calendar.css">
+<link rel="stylesheet" href="/csp/mediapool/sites/Shared/modules/dtiEventCalendar/css/eventcalendar.css" media="screen">
+
+
 <!--<link href='http://fonts.googleapis.com/css?family=PT+Serif:400,700' rel='stylesheet' type='text/css'>
 <link href='http://fonts.googleapis.com/css?family=PT+Sans:400,700' rel='stylesheet' type='text/css'>-->
 
 <!-- jQuery Scripts -->
-<script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://code.jquery.com/jquery-1.8.3.min.js"></script>
+<script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="http://code.jquery.com/jquery-latest.js"></script>
+<!--<script type="text/javascript" src="http://code.jquery.com/jquery-1.8.3.min.js"></script>-->
 <script type="text/javascript" src="/csp/mediapool/sites/Shared/assets/js/jquery.orbit-1.2.4.js"></script>
 <script type="text/javascript" src="/csp/mediapool/sites/Shared/assets/js/jquery.ticker-1.0.js"></script>
 <script type="text/javascript" src="/csp/mediapool/sites/Shared/assets/js/jquery.simpleWeather-2.0.1.min.js"></script>
+<script type="text/javascript" src="/csp/mediapool/sites/Shared/assets/js/jquery.rsswidget.js"></script>
 
 <script type="text/javascript">
 	var nocontrol = 0;
@@ -39,7 +45,10 @@ The Pueblo Chieftain |
 		//Function variables: main container id, class for sliding elements, sliding element width, timing, number of items visible (defaults to 2)
 		ticker('featured', 'featured-story', 480, 5000);
 		
-		//Temp functionality for pencil ad.  Will not be necessary once the real code has been added.	
+		//Temp functionality for pencil ad.  Will not be necessary once the real code has been added.
+		$("#expandable-large").slideToggle();
+		var t=setTimeout(function(){$("#expandable-large").slideToggle()},5000)
+		
 		$("#expandable-small a").click( function() {
 			$("#expandable-large").slideToggle();
 			return false;
@@ -71,21 +80,10 @@ The Pueblo Chieftain |
 	});
 </script>
 
-<!--Interstitial ad files -->
-
-	<link rel="stylesheet" type="text/css" href="/csp/mediapool/sites/Shared/assets/images/advertising/interstitial/interstitial.css">
-	<script type="text/javascript" src="/csp/mediapool/sites/Shared/assets/images/advertising/interstitial/interstitial.js">
-	
-<!--/***********************************************
-* Interstitial Content Box- Â© Dynamic Drive DHTML code library (www.dynamicdrive.com)
-* This notice MUST stay intact for legal use
-* Visit Dynamic Drive at http://www.dynamicdrive.com/ for full source code
-***********************************************/-->
-</script>
-
 <!-- Global TNCMS Ad Manager javascript files -->
 	<script type="text/javascript" src="http://www.chiefads.com/content/tncms/ads/tncms-ad-limits.js"></script>
 	<script type="text/javascript" src="http://www.chiefads.com/shared-content/art/tncms-ad-manager/ads.js"></script>
+	<script type="text/javascript" src="http://www.chiefads.com/shared-content/art/tncms-ad-manager/swfobject/swfobject.js"></script>
 <!-- End Global TNCMS Ad Manager javascript files -->
 
 <!-- Begin Apple Touch homescreen icons -->
@@ -98,7 +96,47 @@ The Pueblo Chieftain |
 <!--Favicon-->
 <link rel="icon" type="image/png" href="/csp/mediapool/sites/shared/assets/images/apple-touch-icon.png">
 <!--End favicon-->
-<!--/fi:/csp/mediapool/sites/PuebloChieftain/assets/csp/headfiles/head.csp, e:.000196 -->
+
+<!--Google Analytics tracking code-->
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-27527741-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+<!--End Google Analytics tracking code-->
+
+<script type="text/javascript">
+var googletag = googletag || {};
+googletag.cmd = googletag.cmd || [];
+(function() {
+var gads = document.createElement('script');
+gads.async = true;
+gads.type = 'text/javascript';
+var useSSL = 'https:' == document.location.protocol;
+gads.src = (useSSL ? 'https:' : 'http:') + 
+'//www.googletagservices.com/tag/js/gpt.js';
+var node = document.getElementsByTagName('script')[0];
+node.parentNode.insertBefore(gads, node);
+})();
+</script>
+
+<!--Interstitial ad files -->
+
+	<link rel="stylesheet" type="text/css" href="/csp/mediapool/sites/Shared/assets/images/advertising/interstitial/interstitial.css">
+	<script type="text/javascript" src="/csp/mediapool/sites/Shared/assets/images/advertising/interstitial/interstitial.js"></script>
+
+<!--* Interstitial Content Box- Â© Dynamic Drive DHTML code library (www.dynamicdrive.com)
+* This notice MUST stay intact for legal use
+* Visit Dynamic Drive at http://www.dynamicdrive.com/ for full source code-->
+<!--/fi:/csp/mediapool/sites/PuebloChieftain/assets/csp/headfiles/head.csp, e:.000177 -->
 
 	
 	<!-- Google Site Verification -->
@@ -108,21 +146,7 @@ The Pueblo Chieftain |
 	<!-- Pinterest Verification -->
 	<meta name="p:domain_verify" content="748e3315862bd049e6c685ab833666a9">
 	
-	<!-- Begin Google Analytics -->
-	<script type="text/javascript">
 	
-	  var _gaq = _gaq || [];
-	  _gaq.push(['_setAccount', 'UA-27527741-1']);
-	  _gaq.push(['_trackPageview']);
-	
-	  (function() {
-		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-	  })();
-	
-	</script>
-	<!-- End Google Analytics -->
 	
 	<!-- Begin AP CustomNews -->
 	<script src="http://hosted2.ap.org/scripts/CustomNews.js"></script>
@@ -134,9 +158,8 @@ The Pueblo Chieftain |
         <!--[if lte IE 8 ]><link rel="stylesheet" type="text/css" href="css/ie_below_9.css" /><![endif]-->
         <script type="text/javascript" src="/csp/mediapool/sites/Shared/assets/js/swfobject.js"></script>
 		<!--<script type="text/javascript" src="#(sharedPath)#/assets/js/jquery-1.8.1.min.js"></script>-->
-        <!--<script type="text/javascript">jQuery.noConflict();</script>-->
         <script type="text/javascript" src="/csp/mediapool/sites/Shared/assets/js/jquery.dotdotdot-1.5.1.js"></script>
-        <script type="text/javascript" src="/csp/mediapool/sites/Shared/assets/js/jquery.address-1.5.min.js"></script>
+        <!--<script type="text/javascript" src="#(sharedPath)#/assets/js/jquery.address-1.5.min.js"></script>-->
         <script type="text/javascript" src="/csp/mediapool/sites/Shared/assets/js/jquery.easing.1.3.js"></script>
         <script type="text/javascript" src="/csp/mediapool/sites/Shared/assets/js/jquery.mousewheel.min.js"></script>
         <script type="text/javascript" src="/csp/mediapool/sites/Shared/assets/js/jquery.jscrollpane.min.js"></script>
@@ -149,6 +172,12 @@ The Pueblo Chieftain |
 		<script type="text/javascript">
 		
 			// FLASH EMBED PART
+			
+			var preRollId = 0;
+			var loadedId = 0;
+			var doResetVideo = 0;
+			
+			
 			var playPrev = 0;
 			var flashvars = {};
 			var params = {};
@@ -192,7 +221,7 @@ The Pueblo Chieftain |
 					/*activePlaylist: enter element 'id' attributte */
 					activePlaylist:'mix1',
 					/*activeItem: video number to start with (-1 = none, 0 = first, 1 = second, 2 = third ...etc) */
-					activeItem:0,
+					activeItem:1,
 					
 					/* GENERAL */
 					/*thumbOrientation: horizontal, vertical (for scrolling) */
@@ -224,10 +253,42 @@ The Pueblo Chieftain |
 					outputPlaylistData:false,
 					
 					videoGallerySetupDone:function() {
-						//console.log('videoGallerySetupDone');
+						$("#prerollLinker").click( function() {
+							loadedId = $('#mix1 .playlistSelected').attr('data-id')-0;
+							jQuery.fn.videoGallery.loadMedia(preRollId);
+							jQuery.fn.videoGallery.mediaPlaying=true;
+							if(jQuery.fn.videoGallery.isIE) {
+								if(typeof jQuery.fn.videoGallery.getFlashMovie("flashPreview") !== "undefined" && typeof jQuery.fn.videoGallery.getFlashMovie("flashPreview").pb_togglePlayback2 !== "undefined")jQuery.fn.videoGallery.getFlashMovie('flashPreview').pb_togglePlayback2();
+							} else {
+								jQuery.fn.videoGallery.playMedia();
+							}
+							doResetVideo = 1;
+							return false;
+						});
+						$("li[data-id="+preRollId+"]").hide();
 					}
 				});		
     	    });
+			function resetVideo() {
+				$("#prerollLinker").css({ 'z-index' : '-1' });
+				jQuery.fn.videoGallery.loadMedia((loadedId-0));
+				jQuery.fn.videoGallery.mediaPlaying=true;
+				if(jQuery.fn.videoGallery.isIE) {
+					if(typeof jQuery.fn.videoGallery.getFlashMovie("flashPreview") !== "undefined" && typeof jQuery.fn.videoGallery.getFlashMovie("flashPreview").pb_togglePlayback2 !== "undefined")jQuery.fn.videoGallery.getFlashMovie('flashPreview').pb_togglePlayback2();
+				} else {
+					jQuery.fn.videoGallery.playMedia();
+				}
+				doResetVideo = 0;
+			}
+			function removePrerollLinker() {
+				$("#prerollLinker").css({ 'z-index' : '-1' });
+				if(jQuery.fn.videoGallery.isIE) {
+					if(typeof jQuery.fn.videoGallery.getFlashMovie("flashPreview") !== "undefined" && typeof jQuery.fn.videoGallery.getFlashMovie("flashPreview").pb_togglePlayback2 !== "undefined")jQuery.fn.videoGallery.getFlashMovie('flashPreview').pb_togglePlayback2();
+				} else {
+					jQuery.fn.videoGallery.playMedia();
+				}
+				doResetVideo = 0;
+			}
 		
         </script><style type="text/css" media="screen">#flashPreview {visibility:hidden}#flashPreview {visibility:visible}</style>
 	<!-- End Responsive Video Gallery HTML5 Youtube Vimeo files -->
@@ -239,30 +300,53 @@ The Pueblo Chieftain |
 <body style="background-color: white;">
 	
 		
-			<!-- Hello 
-			Guest User 
-			 -->
+			
 		
+	
+	
+	
+	
+	<!-- default design ID = 304 34 -->
+	
+	
+	
+	
+	<script type="text/javascript">
+		googletag.cmd.push(function() {
+			googletag.defineSlot('/37447419/PC_Test_Leaderboard_Top_728x90', [728, 90], 'div-gpt-ad-1381268444933-0').addService(googletag.pubads());
+			googletag.defineSlot('/37447419/PC_Home_Leaderboard_Top_728x90', [728, 90], 'div-gpt-ad-1380224484567-0').addService(googletag.pubads());
+			googletag.defineSlot('/37447419/PC_Home_Right_Middle_300x50', [300, 50], 'div-gpt-ad-1381184351519-0').addService(googletag.pubads());
+			googletag.defineSlot('/37447419/PC_Home_Left_Middle_300x250', [300, 250], 'div-gpt-ad-1381250511059-0').addService(googletag.pubads());
+			googletag.defineSlot('/37447419/PC_ROS_Leaderboard_Top_728x90', [728, 90], 'div-gpt-ad-1380224878702-0').addService(googletag.pubads());
+			googletag.defineSlot('/37447419/PC_ROS_Top_Right_200x90', [200, 90], 'div-gpt-ad-1376600361969-1').addService(googletag.pubads());
+			//googletag.defineSlot('/37447419/PC_ROS_Left_Middle_300x250', [300, 250], 'div-gpt-ad-1381252422289-0').addService(googletag.pubads());
+			//googletag.defineSlot('/37447419/PC_ROS_Leaderboard_Bottom_728x90', [728, 90], 'div-gpt-ad-1380299099262-0').addService(googletag.pubads());
+			//googletag.defineSlot('/37447419/PC_ROS_Interstitial_640x480', [640, 480], 'div-gpt-ad-1378502252319-0').addService(googletag.pubads());
+
+
+			googletag.defineSlot('/37447419/PC_ROS_Rail_Middle_300x250', [300,250], 'div-gpt-ad-1381204011286-0').addService(googletag.pubads());
+googletag.defineSlot('/37447419/PC_ROS_Leaderboard_Bottom_728x90', [728,90], 'div-gpt-ad-1380299099262-0').addService(googletag.pubads());
+googletag.defineSlot('/37447419/PC_ROS_Rail_Bottom_300x250', [300,250], 'div-gpt-ad-1380315294933-0').addService(googletag.pubads());
+			
+			googletag.pubads().enableSingleRequest();
+			googletag.enableServices();
+		});
+		//$(document).ready( function() { $("#container").hide(); });
+	</script>
+	
+	
+	<!-- !! This is where the takeover div should go !! -->
 	
 	
 	<div id="container" class="container-full">
 		<div id="wrapper" class="container-12">
 			
 <!-- fi:/csp/mediapool/sites/Shared/templates/sections/SiteSection.csp -->
-<div style="position: absolute; z-index: 999; top: 0px; right: 0px;">
-	<!--<img src="http://placehold.it/100x100" />-->
-	<!-- Ad Manager javascript code for position page-curl1 -->
-	<script type="text/javascript" src="http://www.chiefads.com/content/tncms/ads/page-curl/page-curl1.js"></script>
-
-	<!-- Ad Manager call to display ads for position page-curl1 -->
-	<script type="text/javascript">oTNCMS_Ad.show('frontpage');</script>
-</div>
-
 <!-- section template -->
 
 <!-- fi:/csp/mediapool/sites/Shared/assets/csp/includes/sectionVariables.csp -->
 
-<!--/fi:/csp/mediapool/sites/Shared/assets/csp/includes/sectionVariables.csp, e:.002206 -->
+<!--/fi:/csp/mediapool/sites/Shared/assets/csp/includes/sectionVariables.csp, e:.001915 -->
 
 
 <!-- fi:/csp/mediapool/sites/Shared/assets/csp/includes/siteHeader.csp -->
@@ -275,22 +359,6 @@ The Pueblo Chieftain |
 
 <!-- fi:/csp/mediapool/sites/Shared/assets/csp/widgets/widgetGrid12TESTHeader.csp -->
 
-<style>
-#topAds { height: 90px;
-width: 960px;
-display: block;
-}
-#rightButtonAd { margin: 5px 0 0 0;
-float: right;
-}
-#PCNamePlate { margin: 5px 0 5px 0;
-/*float: left;*/
-}
-.leaderboard-top-new { /*position: absolute;*/
-margin-right: -506px;
-z-index: 998;
-}
-</style>
 
 <!-- Header -->
 <div id="header">
@@ -313,30 +381,40 @@ z-index: 998;
 	
 		
 		<div id="rightButtonAd">
-		<!-- <img src="http://placehold.it/200x90"> -->
+			<script type="text/javascript">
+				googletag.cmd.push(function() {
+				googletag.defineSlot('/37447419/PC_ROS_Top_Right_200x90', [200, 90], 'div-gpt-ad-1376600361969-1').addService(googletag.pubads());
+				googletag.pubads().enableSingleRequest();
+				googletag.enableServices();
+				});
+			</script>
+			<!-- PC_ROS_Top_Right_200x90 -->
+			<div id="div-gpt-ad-1376600361969-1" style="width:200px; height:90px;">
+				<script type="text/javascript">
+				googletag.cmd.push(function() { googletag.display('div-gpt-ad-1376600361969-1'); });
+				</script>
+			</div>
 		</div>
 	</div>
 	
 </div>
 
-			<div id="vcard">
-				<a href="http://www.chieftain.com/home/"><img src="/csp/mediapool/sites/shared/assets/images/pclogo2013.png" width="500" alt="The Pueblo Chieftan"></a>
+			<div>
+				<a href="http://www.chieftain.com/home/"><img src="/csp/mediapool/sites/shared/assets/images/pclogo2013.png" id="PCNamePlate" alt="The Pueblo Chieftan"></a>
 			</div>
 
 <!-- End Header -->
-<!--/fi:/csp/mediapool/sites/Shared/assets/csp/widgets/widgetGrid12TESTHeader.csp, e:.000681 -->
+<!--/fi:/csp/mediapool/sites/Shared/assets/csp/widgets/widgetGrid12TESTHeader.csp, e:.000608 -->
 
 
 
-<!--/fi:/csp/mediapool/sites/Shared/templates/stories/summary/WidgetPullingSummary.csp?sid=304&cid=1068896&fid=119, e:.000964 -->
+<!--/fi:/csp/mediapool/sites/Shared/templates/stories/summary/WidgetPullingSummary.csp?sid=304&cid=1068896&fid=119, e:.00089 -->
 
 <!-- fi:/csp/mediapool/sites/Shared/templates/stories/summary/WidgetPullingSummary.csp?sid=304&cid=635922&fid=119 -->
 
 
 
 <!-- fi:/csp/mediapool/sites/Shared/assets/csp/widgets/widgetGrid12TopMenu.csp -->
-<!-- Select LastRefreshUtc,ForceLiveResults, PreventRefresh, PrivLastRefreshStatus, IsStub, %OBJECT(Storage)
-from dt_common_util_cspcache.Entity Where HashKey = yzCG4EvhKfrFo6IJrfsJ5HYjSEo= -->
 <!-- Top Menu -->
 <div id="top-menu">
 	<dl id="help-menu" class="left help-menu">
@@ -344,9 +422,9 @@ from dt_common_util_cspcache.Entity Where HashKey = yzCG4EvhKfrFo6IJrfsJ5HYjSEo=
 		<dd>
 			<a href="http://www.chieftain.com/home/">Home</a>
 		</dd>
-		<dd>
-			<a href="http://www.chieftain.com/site/digital/">Register / Log in</a>
-		</dd>
+<!--		<dd>
+			<dti:section:link name="Join">Register / Log in</dti:section:link>
+		</dd>-->
 		<dd>
 			<a href="http://www.chieftain.com/site/contact/">Contact</a>
 		</dd>
@@ -357,7 +435,7 @@ from dt_common_util_cspcache.Entity Where HashKey = yzCG4EvhKfrFo6IJrfsJ5HYjSEo=
 			<a href="http://www.chieftain.com/site/digital/">Digital Edition</a>
 		</dd>
 		<dd>
-			<a href="http://www.chieftain.com/mobile/">Mobile</a>
+			<a href="http://www.chieftain.com/mobile">Mobile</a>
 		</dd>
 		<dd>
 			<a href="http://www.chieftain.com/site/subscribe/">Subscribe</a>
@@ -369,32 +447,30 @@ from dt_common_util_cspcache.Entity Where HashKey = yzCG4EvhKfrFo6IJrfsJ5HYjSEo=
 			<a href="http://www.chieftain.com/site/faq/">FAQ</a>
 		</dd>
 	</dl>
-	<div class="right date">June 21, 2013</div>
+	<div class="right date">November 16, 2013</div>
 	<div class="center weather-bug">
 		<!--<script type="text/javascript" src="http://cdn.widgetserver.com/syndication/subscriber/InsertWidget.js"></script><script type="text/javascript">if (WIDGETBOX) WIDGETBOX.renderWidget('55e63674-24e8-42fd-997e-6bedc667c9c7');</script>
 <noscript>Get the <a href="http://www.widgetbox.com/widget/weather2">Weather Widget</a> widget and many other <a href="http://www.widgetbox.com/">great free widgets</a> at <a href="http://www.widgetbox.com">Widgetbox</a>! Not seeing a widget? (<a href="http://support.widgetbox.com/">More info</a>)</noscript>-->
 		<div class="temp">
-			<a id="weatherDeg" title="Detailed Forecast" href="/news/weather?zipcode=81002"><!--42&deg;--></a>
+			<a id="weatherDeg" title="Detailed Forecast" href="/weather?zipcode=81002"><!--42&deg;--></a>
 		</div>
 		<div class="conditions">
-			<a id="weatherCond" title="Detailed Forecast" href="/news/weather?zipcode=81002"><!--Clear--></a>
+			<a id="weatherCond" title="Detailed Forecast" href="/weather?zipcode=81002"><!--Clear--></a>
 		</div>
 	</div>
 </div>
 <!-- End Top Menu -->
-<!--/fi:/csp/mediapool/sites/Shared/assets/csp/widgets/widgetGrid12TopMenu.csp, refresh(300), e:.017338 -->
+<!--/fi:/csp/mediapool/sites/Shared/assets/csp/widgets/widgetGrid12TopMenu.csp, refresh(300), e:.004978 -->
 
 
 
-<!--/fi:/csp/mediapool/sites/Shared/templates/stories/summary/WidgetPullingSummary.csp?sid=304&cid=635922&fid=119, e:.017668 -->
+<!--/fi:/csp/mediapool/sites/Shared/templates/stories/summary/WidgetPullingSummary.csp?sid=304&cid=635922&fid=119, e:.005296 -->
 
 <!-- fi:/csp/mediapool/sites/Shared/templates/stories/summary/WidgetPullingSummary.csp?sid=304&cid=635924&fid=119 -->
 
 
 
 <!-- fi:/csp/mediapool/sites/Shared/assets/csp/widgets/widgetGrid12Navigation.csp -->
-<!-- Select LastRefreshUtc,ForceLiveResults, PreventRefresh, PrivLastRefreshStatus, IsStub, %OBJECT(Storage)
-from dt_common_util_cspcache.Entity Where HashKey = eHUtnL3ueRxJwbwAs3mevkVPyAU= -->
 <!-- Nave Bar -->
 <div id="nav-container">
 <ul id="nav">
@@ -413,9 +489,6 @@ from dt_common_util_cspcache.Entity Where HashKey = eHUtnL3ueRxJwbwAs3mevkVPyAU=
 			<li id="News-Education">
 				<a href="http://www.chieftain.com/news/education/">Education</a>
 			</li>
-			<li id="News-Water">
-				<a href="http://www.chieftain.com/special/water/">Water</a>
-			</li>
 			<li id="News-Politics">
 				<a href="http://www.chieftain.com/news/politics/">Politics</a>
 			</li>
@@ -428,8 +501,17 @@ from dt_common_util_cspcache.Entity Where HashKey = eHUtnL3ueRxJwbwAs3mevkVPyAU=
 			<li id="News-Special">
 				<a href="http://www.chieftain.com/special/">Special reports</a>
 			</li>
+			<li id="News-Recall">
+				<a href="http://www.chieftain.com/special/recall/">Recall</a>
+			</li>
+			<li id="News-Water">
+				<a href="http://www.chieftain.com/special/water/">Water</a>
+			</li>
+			<li id="News-Marijuana">
+				<a href="http://www.chieftain.com/special/marijuana/">Marijuana</a>
+			</li>
 			<!-- <li>
-				<dti:section:link name="Weather">Weather</dti:section:link>
+				<dti:section:link name="KRDO">KRDO</dti:section:link>
 			</li> -->
 		</ul>
 	</li>
@@ -447,6 +529,9 @@ from dt_common_util_cspcache.Entity Where HashKey = eHUtnL3ueRxJwbwAs3mevkVPyAU=
 			</li>
 			<li id="Sports-Outdoors">
 				<a href="http://www.chieftain.com/sports/outdoors/">Outdoors</a>
+			</li>
+			<li>
+				<a href="http://racing.ap.org/chieftain">Racing</a>
 			</li>
 		</ul>
 	</li>
@@ -488,11 +573,14 @@ from dt_common_util_cspcache.Entity Where HashKey = eHUtnL3ueRxJwbwAs3mevkVPyAU=
 	<li id="Business">
 		<a href="http://www.chieftain.com/business/">Business</a>
 		<ul>
-			<li>
-				<a href="http://www.chieftain.com/business/money/">Money &amp; Markets</a>
+			<li id="Business-LocalBusiness">
+				<a href="http://www.chieftain.com/business/localbusiness/">Local</a>
 			</li>
 			<li id="Business-Tech">
 				<a href="http://www.chieftain.com/business/tech/">Tech</a>
+			</li>
+			<li>
+				<a href="http://www.chieftain.com/business/money/">Money &amp; Markets</a>
 			</li>
 			<li id="Business-RealEstate">
 				<a href="http://www.chieftain.com/business/realestate/">Real Estate</a>
@@ -501,7 +589,13 @@ from dt_common_util_cspcache.Entity Where HashKey = eHUtnL3ueRxJwbwAs3mevkVPyAU=
 				<a target="_blank" href="http://shoplocal.chieftain.com/">Directory</a>
 			</li>
 			<li>
+				<a href="http://www.chieftain.com/site/smartbuys/">Smartbuys</a>
+			</li>
+			<li>
 				<a target="_blank" href="http://www.bestofpueblo.com/">Best of Pueblo</a>
+			</li>
+			<li>
+				<a href="http://www.chieftain.com/site/advertise/directory/">Advertisers</a>
 			</li>
 		</ul>
 	</li>
@@ -529,14 +623,21 @@ from dt_common_util_cspcache.Entity Where HashKey = eHUtnL3ueRxJwbwAs3mevkVPyAU=
 			<li id="Life-Travel">
 				<a href="http://www.chieftain.com/life/travel/">Travel</a>
 			</li>
+			<li>
+				<a href="http://forms.chieftain.com/celebrations/">Celebrations</a>
+			</li>
+			
 		</ul>
 	</li>
 	<li id="Entertainment">
 		<a href="http://www.chieftain.com/entertainment/">Entertainment</a>
 		<ul>
-<!--			<li id="Entertainment-Calendar">
-				<dti:section:link name="Calendar">Calendar</dti:section:link>
-			</li>-->
+			<li id="Entertainment-Calendar">
+				<a href="http://www.chieftain.com/calendar/">Calendar</a>
+			</li>
+			<li>
+				<a href="http://beyondthefold.chieftain.com">Beyond The Fold</a>
+			</li>
 			<li id="Entertainment-Movies">
 				<a href="http://www.chieftain.com/entertainment/movies/">Movies</a>
 			</li>
@@ -572,6 +673,9 @@ from dt_common_util_cspcache.Entity Where HashKey = eHUtnL3ueRxJwbwAs3mevkVPyAU=
 			<li>
 				<a href="http://pueblochieftain.mycapture.com/mycapture/index.asp" target="_blank">Reprints</a>
 			</li>
+			<li>
+				<a href="http://imagesatchieftain.com/" target="_blank">Slideshows</a>
+			</li>
 			<li id="Multimedia-Video">
 				<a href="http://www.chieftain.com/multimedia/videos/">Video</a>
 			</li>
@@ -589,6 +693,9 @@ from dt_common_util_cspcache.Entity Where HashKey = eHUtnL3ueRxJwbwAs3mevkVPyAU=
 			<li id="Opinion-Letters">
 				<a href="http://www.chieftain.com/opinion/letters/">Letters</a>
 			</li>
+			<li id="Forms-Letters">
+				<a href="http://forms.chieftain.com/letter/">Submit a letter</a>
+			</li>
 			<li id="Columns">
 				<a href="http://www.chieftain.com/columns/">Columns</a>
 			</li>
@@ -600,32 +707,35 @@ from dt_common_util_cspcache.Entity Where HashKey = eHUtnL3ueRxJwbwAs3mevkVPyAU=
 	<li id="Obituaries">
 		<a href="http://www.chieftain.com/news/obituaries/">Obituaries</a>
 		<ul><li><a>&nbsp;</a></li></ul>
-		 <!--<ul>
+		 <ul>
 			<li>
-				<dti:section:link name="Water">Water</dti:section:link>
+				<a href="http://www.chieftain.com/news/obituaries/memoriam/">In Memoriam</a>
 			</li>
-		</ul> -->
+		</ul> 
 	</li>
 	<li id="Classifieds">
 		<a href="http://www.chieftain.com/classifieds/">Classifieds</a>
 		<ul>
 			<li>
-				<a href="/classifieds/#Announcements">Announcements</a>
+				<a href="/classifieds#Announcements">Announcements</a>
 			</li>
 			<li>
-				<a href="/classifieds/#Automotive">Automotive</a>
+				<a href="/classifieds#Automotive">Automotive</a>
 			</li>
 			<li>
-				<a href="/classifieds/#Employment">Employment</a>
+				<a href="/classifieds#Employment">Employment</a>
 			</li>
 			<li>
-				<a href="/classifieds/#FarmRanch">Farm &amp; Ranch</a>
+				<a href="/classifieds#FarmRanch">Farm &amp; Ranch</a>
+			</li>
+			<!-- <li>
+				<a href="/classifieds/service/legal/">Legal</a>
+			</li> -->
+			<li>
+				<a href="/classifieds#Merchandise">Merchandise</a>
 			</li>
 			<li>
-				<a href="/classifieds/#Merchandise">Merchandise</a>
-			</li>
-			<li>
-				<a href="/classifieds/#RealEstate">Real Estate</a>
+				<a href="/classifieds#RealEstate">Real Estate</a>
 			</li>
 			<li>
 				<a onclick="window.open('https://secure.townnews.com/shared-content/adowl/front-end.php?domain=www2.chieftain.com&amp;instance=adowl&amp;ui=peekaboo','popform','width=930,height=600,scrollbars=1,toolbar=1');" href="javascript:void(0)">Place an Ad</a>
@@ -650,11 +760,11 @@ from dt_common_util_cspcache.Entity Where HashKey = eHUtnL3ueRxJwbwAs3mevkVPyAU=
 </ul>
 </div>
 <!-- End Nave Bar -->
-<!--/fi:/csp/mediapool/sites/Shared/assets/csp/widgets/widgetGrid12Navigation.csp, refresh(5), e:.056207 -->
+<!--/fi:/csp/mediapool/sites/Shared/assets/csp/widgets/widgetGrid12Navigation.csp, e:.029566 -->
 
 
 
-<!--/fi:/csp/mediapool/sites/Shared/templates/stories/summary/WidgetPullingSummary.csp?sid=304&cid=635924&fid=119, e:.056568 -->
+<!--/fi:/csp/mediapool/sites/Shared/templates/stories/summary/WidgetPullingSummary.csp?sid=304&cid=635924&fid=119, e:.029831 -->
 
 <!-- fi:/csp/mediapool/sites/Shared/templates/stories/summary/WidgetPullingSummary.csp?sid=304&cid=635926&fid=119 -->
 
@@ -666,49 +776,74 @@ from dt_common_util_cspcache.Entity Where HashKey = eHUtnL3ueRxJwbwAs3mevkVPyAU=
 		<span class="quick-nav-title">FEATURED:</span>
 		<ul>
 			<li>
-				<a href="http://www.chieftain.com/special/fire/">Wildfires</a>
+				<a href="http://www.chieftain.com/site/popular/">Popular</a>
 			</li>
 			<li>
-				<a href="http://www.bestofpueblo.com" target="_blank">Best of Pueblo</a>
+				<a href="http://www.chieftain.com/life/food/dash/">Jingle Mingle</a>
 			</li>
+			<li>
+				<a href="http://pro32.ap.org/chieftain/teams/denver-broncos">Broncos</a>
+			</li>
+			<li>
+				<a href="http://www.chieftain.com/techtips/">Tech Tips</a>
+			</li>
+			<li>
+				<a href="http://pueblochieftain.co.newsmemory.com/special.php?pSetup=pueblochieftain_activeyears" target="_blank">Active Years</a>
+			</li>
+			<li>
+				<a href="http://www.chieftain.com/special/water/">Water</a>
+			</li>
+			<li>
+				<a href="http://www.chieftain.com/special/marijuana/">Marijuana</a>
+			</li>
+<!--			<li>
+				<a href="http://pro32.ap.org/chieftain">NFL</a>
+			</li>-->
+<!--			<li>
+				<a href="http://collegefootball.ap.org/chieftain/">NCAA</a>
+			</li>--> 
+<!--			<li>
+				<a href="http://racing.ap.org/chieftain">NASCAR</a>
+			</li>-->
+<!--			<li>
+				<dti:section:link name="jfk">JFK</dti:section:link>
+			</li>-->			
+			
 			<li>
 				<a href="http://pets.chieftain.com" target="_blank">Pets</a>
 			</li>
 			<li>
-				<a href="http://pueblochieftain.co.newsmemory.com/special.php?date=20130331">Guidebook</a>
+				<a href="http://www.chieftain.com/site/smartbuys/">Smartbuys</a>
 			</li>
-			<li>
-				</li><li><a href="http://pueblochieftain.co.newsmemory.com/special.php?date=20130520">Seasons</a></li>
-			
-			<li>
+<!--			<li>
+				<a href="http://pueblochieftain.co.newsmemory.com/special.php?date=20130331">Guidebook</a>
+			</li>-->
+<!--			<li>
+				<li><a href="http://pueblochieftain.co.newsmemory.com/special.php?date=20130520">Seasons</a></li>
+			</li>-->
+			<li class="quick-nav-last">
 				<a href="http://deals.chieftain.com/" target="_blank">Deals</a>
 			</li>
-			<li>
+<!--			<li>
 				<a href="http://pueblochieftain.mycapture.com/mycapture/index.asp" target="_blank">Buy photos</a>
-			</li>
-			<!-- <li>
-				<a href="/Site/Blogs/">Local blogs</a>
-			</li> -->
-			<li class="quick-nav-last">
-				<a href="http://www.epageflip.net/title/5762">Coupons</a>
-			</li>
-			<li>
+			</li>-->
+<!--			<li>
 				<a href="http://www.niechieftain.com" target="_blank">NIE</a>
-			</li>
-			<li>
-				<a href="http://www.chieftain.com/social/">Social</a>
-			</li><!--
-			<li>
+			</li>-->
+<!--			<li class="quick-nav-last">
+				<a href="http://racing.ap.org/chieftain">Racing</a>
+			</li> -->
+<!--			<li class="quick-nav-last">
 				<dti:section:link name="Links">Links</dti:section:link>
 			</li>-->
 		</ul>
 	</div>
 <!-- End Featured Menu -->
-<!--/fi:/csp/mediapool/sites/Shared/assets/csp/widgets/widgetGrid12FeaturedMenu.csp, e:.001103 -->
+<!--/fi:/csp/mediapool/sites/Shared/assets/csp/widgets/widgetGrid12FeaturedMenu.csp, e:.00228 -->
 
 
 
-<!--/fi:/csp/mediapool/sites/Shared/templates/stories/summary/WidgetPullingSummary.csp?sid=304&cid=635926&fid=119, e:.001393 -->
+<!--/fi:/csp/mediapool/sites/Shared/templates/stories/summary/WidgetPullingSummary.csp?sid=304&cid=635926&fid=119, e:.002534 -->
 
 <!-- fi:/csp/mediapool/sites/Shared/templates/stories/summary/WidgetPullingSummary.csp?sid=304&cid=635927&fid=119 -->
 
@@ -745,24 +880,23 @@ from dt_common_util_cspcache.Entity Where HashKey = eHUtnL3ueRxJwbwAs3mevkVPyAU=
 	</div>
 
 <!-- End Apps Menu -->
-<!--/fi:/csp/mediapool/sites/Shared/assets/csp/widgets/widgetGrid12AppsMenu.csp, e:.001126 -->
+<!--/fi:/csp/mediapool/sites/Shared/assets/csp/widgets/widgetGrid12AppsMenu.csp, e:.00099 -->
 
 
 
-<!--/fi:/csp/mediapool/sites/Shared/templates/stories/summary/WidgetPullingSummary.csp?sid=304&cid=635927&fid=119, e:.00141 -->
+<!--/fi:/csp/mediapool/sites/Shared/templates/stories/summary/WidgetPullingSummary.csp?sid=304&cid=635927&fid=119, e:.001236 -->
 
 	
 
 
-<!--/fi:/csp/mediapool/sites/Shared/assets/csp/includes/siteHeader.csp, e:.083183 -->
-
-
+<!--/fi:/csp/mediapool/sites/Shared/assets/csp/includes/siteHeader.csp, e:.044303 -->
 
 <div id="content">
 
 	<!-- Main Content -->
-	<div id="right-col" class="content-8">
-		<!--'-->
+	<div id="left-col" class="content-8">
+		
+		
 		<style>
 			.breadcrumb {
 				background-clip: padding-box;
@@ -818,8 +952,6 @@ from dt_common_util_cspcache.Entity Where HashKey = eHUtnL3ueRxJwbwAs3mevkVPyAU=
 
 
 
-
-
 <div class="grid8">
 	
 <!-- fi:/csp/mediapool/sites/Shared/templates/stories/summary/WidgetPullingSummary.csp?sid=402&cid=731168&fid=120 -->
@@ -827,9 +959,6 @@ from dt_common_util_cspcache.Entity Where HashKey = eHUtnL3ueRxJwbwAs3mevkVPyAU=
 
 
 <!-- fi:/csp/mediapool/sites/Shared/assets/csp/widgets/widgetTextPrivacy.csp -->
-<!-- Select LastRefreshUtc,ForceLiveResults, PreventRefresh, PrivLastRefreshStatus, IsStub, %OBJECT(Storage)
-from dt_common_util_cspcache.Entity Where HashKey = RE/jfvwHWSq9pQP/DMQaxe+Eud4= -->
-<div class="sectionHead-noRule">Privacy policy</div>
 <div id="wrap">
 	<div id="content">
 		<div id="adbar">
@@ -937,17 +1066,17 @@ from dt_common_util_cspcache.Entity Where HashKey = RE/jfvwHWSq9pQP/DMQaxe+Eud4=
 						otherwise abusing the privileges of the website. </p>
 						<small>*The Pueblo Chieftain Internet Services 
 						reserves all publishing rights and approval for 
-				  publishing. <strong><a href="http://www.chieftain.com/site/comments/">Read more.</a></strong></small>&nbsp;</div>
+				  publishing. <strong><a href="http://www.chieftain.com/site/terms/">Read more.</a></strong></small>&nbsp;</div>
 				</div>
 			</div>
 		</div>
 	</div>
 </div>
-<!--/fi:/csp/mediapool/sites/Shared/assets/csp/widgets/widgetTextPrivacy.csp, refresh(120), e:.051728 -->
+<!--/fi:/csp/mediapool/sites/Shared/assets/csp/widgets/widgetTextPrivacy.csp, refresh(120), e:.001548 -->
 
 
 
-<!--/fi:/csp/mediapool/sites/Shared/templates/stories/summary/WidgetPullingSummary.csp?sid=402&cid=731168&fid=120, e:.065004 -->
+<!--/fi:/csp/mediapool/sites/Shared/templates/stories/summary/WidgetPullingSummary.csp?sid=402&cid=731168&fid=120, e:.00186 -->
 
 </div>
 <div class="grid4Container">
@@ -972,7 +1101,7 @@ from dt_common_util_cspcache.Entity Where HashKey = RE/jfvwHWSq9pQP/DMQaxe+Eud4=
 <div class="grid8">
 	
 </div>
-<!--/fi:/csp/mediapool/sites/Shared/templates/grids/HomeGrid.csp, e:.075116 -->
+<!--/fi:/csp/mediapool/sites/Shared/templates/grids/HomeGrid.csp, e:.009863 -->
 
 	</div>
 	<!-- End Main Content -->
@@ -988,26 +1117,22 @@ from dt_common_util_cspcache.Entity Where HashKey = RE/jfvwHWSq9pQP/DMQaxe+Eud4=
 
 
 <!-- fi:/csp/mediapool/sites/Shared/assets/csp/widgets/widgetGridAllAd.csp -->
-<!-- Select LastRefreshUtc,ForceLiveResults, PreventRefresh, PrivLastRefreshStatus, IsStub, %OBJECT(Storage)
-from dt_common_util_cspcache.Entity Where HashKey = WgVxng5M7J55YPHWooLDfKlfpXA= -->
 <div>
 <!-- BLOX Ad Manager javascript code --> <script type="text/javascript" src="http://chiefads.com/content/tncms/ads/rail-top/rail-top1.js"></script>
 
 <!-- BLOX Ad Manager call to display ads --> <script type="text/javascript">oTNCMS_Ad.show('ros');</script>
 </div>
-<!--/fi:/csp/mediapool/sites/Shared/assets/csp/widgets/widgetGridAllAd.csp, refresh(), e:.013253 -->
+<!--/fi:/csp/mediapool/sites/Shared/assets/csp/widgets/widgetGridAllAd.csp, refresh(), e:.000996 -->
 
 
 
-<!--/fi:/csp/mediapool/sites/Shared/templates/stories/summary/WidgetPullingSummary.csp?sid=304&cid=710871&fid=119, e:.01359 -->
+<!--/fi:/csp/mediapool/sites/Shared/templates/stories/summary/WidgetPullingSummary.csp?sid=304&cid=710871&fid=119, e:.001323 -->
 
 <!-- fi:/csp/mediapool/sites/Shared/templates/stories/summary/WidgetPullingSummary.csp?sid=304&cid=1112287&fid=119 -->
 
 
 
 <!-- fi:/csp/mediapool/sites/Shared/assets/csp/widgets/widgetGridAllSearch.csp -->
-<!-- Select LastRefreshUtc,ForceLiveResults, PreventRefresh, PrivLastRefreshStatus, IsStub, %OBJECT(Storage)
-from dt_common_util_cspcache.Entity Where HashKey = QnpvgF0ZdtJxfw6kyX5g1a1JT7U= -->
 <div class="boxedwidget">
 
 <div>
@@ -1024,55 +1149,55 @@ from dt_common_util_cspcache.Entity Where HashKey = QnpvgF0ZdtJxfw6kyX5g1a1JT7U=
 </div>
 
 </div>
-<!--/fi:/csp/mediapool/sites/Shared/assets/csp/widgets/widgetGridAllSearch.csp, refresh(5), e:.011543 -->
+<!--/fi:/csp/mediapool/sites/Shared/assets/csp/widgets/widgetGridAllSearch.csp, refresh(5), e:.001402 -->
 
 
 
-<!--/fi:/csp/mediapool/sites/Shared/templates/stories/summary/WidgetPullingSummary.csp?sid=304&cid=1112287&fid=119, e:.01186 -->
+<!--/fi:/csp/mediapool/sites/Shared/templates/stories/summary/WidgetPullingSummary.csp?sid=304&cid=1112287&fid=119, e:.001673 -->
 
 <!-- fi:/csp/mediapool/sites/Shared/templates/stories/summary/WidgetPullingSummary.csp?sid=304&cid=1112640&fid=119 -->
 
 
 
 <!-- fi:/csp/mediapool/sites/Shared/assets/csp/widgets/widgetGrid4DigitalEdition.csp -->
-<!-- Select LastRefreshUtc,ForceLiveResults, PreventRefresh, PrivLastRefreshStatus, IsStub, %OBJECT(Storage)
-from dt_common_util_cspcache.Entity Where HashKey = x8xyuqnsBNrZ4JM7SxvcwPJXav0= -->
 <div>
 <div class="sectionHead"><a href="http://pueblochieftain.co.newsmemory.com" target="_blank">Today's Digital Edition</a></div>
 
 <a href="http://pueblochieftain.co.newsmemory.com" target="_blank"><img width="275" src="/csp/mediapool/sites/Shared/assets/images/covers/frontpage.jpg" border="0" alt="The Pueblo Chieftain"></a>
+
+<!--<a href="http://pueblochieftain.co.newsmemory.com" target="_blank"><img width="275" src="http://www.bestofpueblo.com/wp-content/uploads/2013/09/20130918.png" border="0" alt="The Pueblo Chieftain"></a>-->
+
 </div>
-<!--/fi:/csp/mediapool/sites/Shared/assets/csp/widgets/widgetGrid4DigitalEdition.csp, refresh(5), e:.01718 -->
+<!--/fi:/csp/mediapool/sites/Shared/assets/csp/widgets/widgetGrid4DigitalEdition.csp, e:.00009 -->
 
 
 
-<!--/fi:/csp/mediapool/sites/Shared/templates/stories/summary/WidgetPullingSummary.csp?sid=304&cid=1112640&fid=119, e:.017526 -->
+<!--/fi:/csp/mediapool/sites/Shared/templates/stories/summary/WidgetPullingSummary.csp?sid=304&cid=1112640&fid=119, e:.00037 -->
 
-<!-- fi:/csp/mediapool/sites/Shared/templates/stories/summary/WidgetPullingSummary.csp?sid=304&cid=1066234&fid=119 -->
+<!-- fi:/csp/mediapool/sites/Shared/templates/stories/summary/WidgetPullingSummary.csp?sid=304&cid=710872&fid=119 -->
 
 
 
-<!-- fi:/csp/mediapool/sites/Shared/assets/csp/widgets/widgetGridAllAd.csp -->
-<!-- Select LastRefreshUtc,ForceLiveResults, PreventRefresh, PrivLastRefreshStatus, IsStub, %OBJECT(Storage)
-from dt_common_util_cspcache.Entity Where HashKey = m9KF7Ez4u4fqT9ODmDpym8hGta8= -->
-<div>
-<!-- BLOX Ad Manager javascript code --> <script type="text/javascript" src="http://chiefads.com/content/tncms/ads/rail-top/rail-top2.js"></script>
+<!-- fi:/csp/mediapool/sites/Shared/assets/csp/widgets/WidgetGridAllDFPAd.csp -->
 
-<!-- BLOX Ad Manager call to display ads --> <script type="text/javascript">oTNCMS_Ad.show('ros');</script>
+
+<div id="div-gpt-ad-1381204011286-0" style="width:300px; height:250px;">
+	<script type="text/javascript">
+		googletag.cmd.push(function() { googletag.display('div-gpt-ad-1381204011286-0'); });
+	</script>
 </div>
-<!--/fi:/csp/mediapool/sites/Shared/assets/csp/widgets/widgetGridAllAd.csp, refresh(), e:.007991 -->
+
+<!--/fi:/csp/mediapool/sites/Shared/assets/csp/widgets/WidgetGridAllDFPAd.csp, e:.000093 -->
 
 
 
-<!--/fi:/csp/mediapool/sites/Shared/templates/stories/summary/WidgetPullingSummary.csp?sid=304&cid=1066234&fid=119, e:.008312 -->
+<!--/fi:/csp/mediapool/sites/Shared/templates/stories/summary/WidgetPullingSummary.csp?sid=304&cid=710872&fid=119, e:.000379 -->
 
 <!-- fi:/csp/mediapool/sites/Shared/templates/stories/summary/WidgetPullingSummary.csp?sid=304&cid=730977&fid=119 -->
 
 
 
 <!-- fi:/csp/mediapool/sites/Shared/assets/csp/widgets/widgetGrid4AddThisFollow.csp -->
-<!-- Select LastRefreshUtc,ForceLiveResults, PreventRefresh, PrivLastRefreshStatus, IsStub, %OBJECT(Storage)
-from dt_common_util_cspcache.Entity Where HashKey = GVW//7qVD8hdguojMr95fAxu0Ys= -->
 <div class="boxedwidget-reverseType">
 <!-- AddThis Follow BEGIN -->
 <div class="sectionHead-noRule-reverseType">Follow the Chieftain</div>
@@ -1083,8 +1208,8 @@ from dt_common_util_cspcache.Entity Where HashKey = GVW//7qVD8hdguojMr95fAxu0Ys=
 <a class="addthis_button_youtube_follow" addthis:userid="chieftainvideo"></a>
 <a class="addthis_button_foursquare_follow" addthis:userid="chieftainnews"></a>
 <a class="addthis_button_pinterest_follow" addthis:userid="pueblochieftain"></a>
-<!--<a class="addthis_button_rss_follow" addthis:userid="http://pbc-db1.pbc.us1.dti/csp/mediapool/dt.cms.rss.RSSPage.cls?idPub=34"></a>
---></div>
+<a class="addthis_button_rss_follow" addthis:userid="http://www.chieftain.com/site/rss"></a>
+</div>
 <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-4f27350336c26144"></script>
 <!-- AddThis Follow END -->
 </div>
@@ -1102,70 +1227,52 @@ from dt_common_util_cspcache.Entity Where HashKey = GVW//7qVD8hdguojMr95fAxu0Ys=
 </div>
 <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-4f27350336c26144"></script>
 </div> -->
-<!--/fi:/csp/mediapool/sites/Shared/assets/csp/widgets/widgetGrid4AddThisFollow.csp, refresh(5), e:.010796 -->
+<!--/fi:/csp/mediapool/sites/Shared/assets/csp/widgets/widgetGrid4AddThisFollow.csp, e:.000115 -->
 
 
 
-<!--/fi:/csp/mediapool/sites/Shared/templates/stories/summary/WidgetPullingSummary.csp?sid=304&cid=730977&fid=119, e:.011116 -->
-
-<!-- fi:/csp/mediapool/sites/Shared/templates/stories/summary/WidgetPullingSummary.csp?sid=304&cid=710872&fid=119 -->
-
-
-
-<!-- fi:/csp/mediapool/sites/Shared/assets/csp/widgets/widgetGridAllAd.csp -->
-<!-- Select LastRefreshUtc,ForceLiveResults, PreventRefresh, PrivLastRefreshStatus, IsStub, %OBJECT(Storage)
-from dt_common_util_cspcache.Entity Where HashKey = AlUTK7p1dXiLme/1JjWLtrZWJL8= -->
-<div>
-<!-- BLOX Ad Manager javascript code --> <script type="text/javascript" src="http://chiefads.com/content/tncms/ads/rail-middle/rail-middle1.js"></script>
-
-<!-- BLOX Ad Manager call to display ads --> <script type="text/javascript">oTNCMS_Ad.show('ros');</script>
-</div>
-<!--/fi:/csp/mediapool/sites/Shared/assets/csp/widgets/widgetGridAllAd.csp, refresh(), e:.008083 -->
-
-
-
-<!--/fi:/csp/mediapool/sites/Shared/templates/stories/summary/WidgetPullingSummary.csp?sid=304&cid=710872&fid=119, e:.008404 -->
+<!--/fi:/csp/mediapool/sites/Shared/templates/stories/summary/WidgetPullingSummary.csp?sid=304&cid=730977&fid=119, e:.000501 -->
 
 <!-- fi:/csp/mediapool/sites/Shared/templates/stories/summary/WidgetPullingSummary.csp?sid=304&cid=691126&fid=119 -->
 
 
 
 <!-- fi:/csp/mediapool/sites/Shared/assets/csp/widgets/widgetGrid4DealOfTheDay.csp -->
-<!-- Select LastRefreshUtc,ForceLiveResults, PreventRefresh, PrivLastRefreshStatus, IsStub, %OBJECT(Storage)
-from dt_common_util_cspcache.Entity Where HashKey = 3MOQ/Y1RIWsF5tjzp0MBHeBbUr0= -->
 <div>
 <iframe id="widget-iframe" src="http://admin.analoganalytics.com/sample-widgets/chieftain-widget.html" width="310" height="294" scrolling="no" frameborder="0"> <p>Your browser does not support iframes.</p> </iframe>
 </div>
-<!--/fi:/csp/mediapool/sites/Shared/assets/csp/widgets/widgetGrid4DealOfTheDay.csp, refresh(60), e:.010951 -->
+<!--/fi:/csp/mediapool/sites/Shared/assets/csp/widgets/widgetGrid4DealOfTheDay.csp, refresh(60), e:.000965 -->
 
 
 
-<!--/fi:/csp/mediapool/sites/Shared/templates/stories/summary/WidgetPullingSummary.csp?sid=304&cid=691126&fid=119, e:.011246 -->
+<!--/fi:/csp/mediapool/sites/Shared/templates/stories/summary/WidgetPullingSummary.csp?sid=304&cid=691126&fid=119, e:.001233 -->
 
-<!-- fi:/csp/mediapool/sites/Shared/templates/stories/summary/WidgetPullingSummary.csp?sid=304&cid=710873&fid=119 -->
+<!-- fi:/csp/mediapool/sites/Shared/templates/stories/summary/WidgetPullingSummary.csp?sid=304&cid=1879538&fid=119 -->
 
 
 
-<!-- fi:/csp/mediapool/sites/Shared/assets/csp/widgets/widgetGridAllAd.csp -->
-<!-- Select LastRefreshUtc,ForceLiveResults, PreventRefresh, PrivLastRefreshStatus, IsStub, %OBJECT(Storage)
-from dt_common_util_cspcache.Entity Where HashKey = xfil0076rxiZxTytgGAvud8/jRs= -->
-<div>
-<!-- BLOX Ad Manager javascript code --> <script type="text/javascript" src="http://chiefads.com/content/tncms/ads/rail-bottom/rail-bottom1.js"></script>
+<!-- fi:/csp/mediapool/sites/Shared/assets/csp/widgets/WidgetGridAllDFPAd.csp -->
 
-<!-- BLOX Ad Manager call to display ads --> <script type="text/javascript">oTNCMS_Ad.show('ros');</script>
+
+<div id="div-gpt-ad-1380315294933-0" style="width:300px; height:250px;">
+	<script type="text/javascript">
+		googletag.cmd.push(function() { googletag.display('div-gpt-ad-1380315294933-0'); });
+	</script>
 </div>
-<!--/fi:/csp/mediapool/sites/Shared/assets/csp/widgets/widgetGridAllAd.csp, refresh(), e:.009236 -->
+
+<!--/fi:/csp/mediapool/sites/Shared/assets/csp/widgets/WidgetGridAllDFPAd.csp, e:.000086 -->
 
 
 
-<!--/fi:/csp/mediapool/sites/Shared/templates/stories/summary/WidgetPullingSummary.csp?sid=304&cid=710873&fid=119, e:.009654 -->
+<!--/fi:/csp/mediapool/sites/Shared/templates/stories/summary/WidgetPullingSummary.csp?sid=304&cid=1879538&fid=119, e:.000382 -->
 
 			
 		
 	</div>
 	<!-- End Right Rail -->
-<!--/fi:/csp/mediapool/sites/Shared/assets/csp/includes/siteRail.csp, e:.099961 -->
+<!--/fi:/csp/mediapool/sites/Shared/assets/csp/includes/siteRail.csp, e:.011711 -->
 
+	<div style="clear:both;"></div>
 </div>
 
 <!-- fi:/csp/mediapool/sites/Shared/assets/csp/includes/siteFooter.csp -->
@@ -1173,40 +1280,30 @@ from dt_common_util_cspcache.Entity Where HashKey = xfil0076rxiZxTytgGAvud8/jRs=
 
 	
 		
-<!-- fi:/csp/mediapool/sites/Shared/templates/stories/summary/WidgetPullingSummary.csp?sid=304&cid=669953&fid=119 -->
+<!-- fi:/csp/mediapool/sites/Shared/templates/stories/summary/WidgetPullingSummary.csp?sid=304&cid=1881544&fid=119 -->
 
 
 
-<!-- fi:/csp/mediapool/sites/Shared/assets/csp/widgets/widgetGrid12FooterAd.csp -->
-<!-- Select LastRefreshUtc,ForceLiveResults, PreventRefresh, PrivLastRefreshStatus, IsStub, %OBJECT(Storage)
-from dt_common_util_cspcache.Entity Where HashKey = 0F6gRlEqYbwc8YO534qr6QMk354= -->
-<!-- Footer Ad -->
-<div id="leaderboard-bottom" class="leaderboard-ad left">
-	<!-- Code for leader board ad mockup -->
-	<!-- <img width="728" height="90" border="0" alt="Leaderboard Top" src="#(sharedPath)#/assets/images/leaderboardBottomExample.jpg"> -->
-	<!-- Code for leader board ad -->
-	<!-- Global TNCMS Ad Manager javascript files -->
-<!-- Ad Manager javascript code for position leaderboard-bottom1 -->
-<script type="text/javascript" src="http://chiefads.com/content/tncms/ads/leaderboard-bottom/leaderboard-bottom1.js"></script>
+<!-- fi:/csp/mediapool/sites/Shared/assets/csp/widgets/WidgetGridAllDFPAd.csp -->
 
-<!-- Ad Manager call to display ads for position leaderboard-bottom1 -->
-<script type="text/javascript">oTNCMS_Ad.show('ros');</script>
-	<!-- End Code for leader board ad -->
+
+<div id="div-gpt-ad-1380299099262-0" style="width:728px; height:90px;">
+	<script type="text/javascript">
+		googletag.cmd.push(function() { googletag.display('div-gpt-ad-1380299099262-0'); });
+	</script>
 </div>
-<!-- End Footer Ad -->
-<!--/fi:/csp/mediapool/sites/Shared/assets/csp/widgets/widgetGrid12FooterAd.csp, refresh(), e:.011319 -->
+
+<!--/fi:/csp/mediapool/sites/Shared/assets/csp/widgets/WidgetGridAllDFPAd.csp, e:.000081 -->
 
 
 
-<!--/fi:/csp/mediapool/sites/Shared/templates/stories/summary/WidgetPullingSummary.csp?sid=304&cid=669953&fid=119, e:.011667 -->
+<!--/fi:/csp/mediapool/sites/Shared/templates/stories/summary/WidgetPullingSummary.csp?sid=304&cid=1881544&fid=119, e:.000358 -->
 
 <!-- fi:/csp/mediapool/sites/Shared/templates/stories/summary/WidgetPullingSummary.csp?sid=304&cid=669955&fid=119 -->
 
 
 
 <!-- fi:/csp/mediapool/sites/Shared/assets/csp/widgets/widgetGrid12Footer.csp -->
-<!-- Select LastRefreshUtc,ForceLiveResults, PreventRefresh, PrivLastRefreshStatus, IsStub, %OBJECT(Storage)
-from dt_common_util_cspcache.Entity Where HashKey = cAXsr84Fz6YloVqfKLoSw9ins4Q= -->
 <!-- Footer -->
 <div class="footer-container">
 	<div class="site-map-container">
@@ -1234,10 +1331,10 @@ from dt_common_util_cspcache.Entity Where HashKey = cAXsr84Fz6YloVqfKLoSw9ins4Q=
 				<ul class="footer-list">
 					<li><a href="http://www.chieftain.com/site/contact/">Staff List</a></li>
 					<li><a href="http://www.chieftain.com/site/faq/">FAQ</a></li>
-					<li><a href="http://www.chieftain.com/forms/newstips/">Send Us a News Tip</a></li>
-					<li><a href="http://www.chieftain.com/opinion/letters/">Letter to the Editor</a></li>
+					<li><a href="http://forms.chieftain.com/news-tips">Send Us a News Tip</a></li>
+					<li><a href="http://forms.chieftain.com/letter/">Letter to the Editor</a></li>
 					<li><a href="http://www.chieftain.com/calendar/">Submit Calendar Event</a></li>
-					<li><a href="http://www.chieftain.com/forms/newstips/">Request Correction</a></li>
+					<li><a href="http://forms.chieftain.com/corrections">Request Correction</a></li>
 				</ul>
 			</div>
 			<div class="footer-list-container">
@@ -1248,7 +1345,7 @@ from dt_common_util_cspcache.Entity Where HashKey = cAXsr84Fz6YloVqfKLoSw9ins4Q=
 					<li><a href="http://www.chieftain.com/mobile/">Mobile Site</a></li>
 					<li><a href="http://www.chieftain.com/site/apps/">Mobile Apps</a></li>
 					<li><a href="http://www.chieftain.com/site/newsletter/">Newsletters</a></li>
-					<li><a href="http://www.chieftain.com/social/">Social feeds</a></li>
+					<li><a href="http://www.chieftain.com/site/rss/">RSS feeds</a></li>
 					<!-- <li><a href="">Today's News Index</a></li> -->
 				</ul>
 			</div>
@@ -1260,8 +1357,9 @@ from dt_common_util_cspcache.Entity Where HashKey = cAXsr84Fz6YloVqfKLoSw9ins4Q=
 					<li><a href="/classifieds#Employment">Job Listings</a></li>
 					<li><a href="/classifieds#Automotive">Auto Listings</a></li>
 					<li><a href="/classifieds#RealEstate">Real Estate/Rental Listings</a></li>
-					<li><a href="/classifieds#Announcements">Announcements/Notices</a></li>
-					<li><a href="http://shoplocal.chieftain.com/pueblo+co.z.html" target="_blank">Business directory</a></li>
+					<!--<li><a href="/classifieds#Announcements">Announcements/Notices</a></li>-->
+					<li><a href="http://shoplocal.chieftain.com/pueblo+co.z.html" target="_blank">Shop Local</a></li>
+					<li><a href="http://www.chieftain.com/site/advertise/directory/">Advertiser Directory</a></li>
 				</ul>
 			</div>
 			<div class="footer-list-container">
@@ -1281,7 +1379,7 @@ from dt_common_util_cspcache.Entity Where HashKey = cAXsr84Fz6YloVqfKLoSw9ins4Q=
 					<li><a href="http://www.chieftain.com/site/subscribe/">Subscribe to the Chieftain</a></li>
 					<li><a href="https://iservicespbc.dticloud.com/cgi-bin/cmo_cmo.sh/custservice/web/login.html" target="_blank">Manage Your Account</a></li>
 					<li><a href="http://pueblochieftain.co.newsmemory.com/" target="_blank">Digital Edition Login</a></li>
-					<li><a href="http://www.chieftain.com/site/digital/">Sample Digital Edition</a></li>
+					<li><a href="http://pueblochieftain.co.newsmemory.com/demo.php">Sample Digital Edition</a></li>
 					<li><a href="http://www.chieftain.com/site/faq/">Frequently Asked Questions</a></li>
 				</ul>
 			</div>
@@ -1330,8 +1428,8 @@ from dt_common_util_cspcache.Entity Where HashKey = cAXsr84Fz6YloVqfKLoSw9ins4Q=
 				</div>
 			</div>
 		</div>
-		<!--<div class="footer-image-container">
-			<img alt="Digital Edition" src="#(sharedPath)#/assets/images/PBCdigitalScreenShot.jpg">
+<!--		<div class="footer-image-container">
+			<img alt="Digital Edition" src="#(sharedPath)#/assets/images/chieftaindigital.png">
 		</div>-->
 	</div>
 </div>
@@ -1344,24 +1442,31 @@ NDNDynVideoWidgets();
 <!-- End NDN Perfect Pixel video script-->
 
 <!-- End Footer -->
-<!--/fi:/csp/mediapool/sites/Shared/assets/csp/widgets/widgetGrid12Footer.csp, refresh(5), e:.028033 -->
+<!--/fi:/csp/mediapool/sites/Shared/assets/csp/widgets/widgetGrid12Footer.csp, e:.010868 -->
 
 
 
-<!--/fi:/csp/mediapool/sites/Shared/templates/stories/summary/WidgetPullingSummary.csp?sid=304&cid=669955&fid=119, e:.028376 -->
+<!--/fi:/csp/mediapool/sites/Shared/templates/stories/summary/WidgetPullingSummary.csp?sid=304&cid=669955&fid=119, e:.011131 -->
 
 	
 
-<!--/fi:/csp/mediapool/sites/Shared/assets/csp/includes/siteFooter.csp, e:.042694 -->
+<!--/fi:/csp/mediapool/sites/Shared/assets/csp/includes/siteFooter.csp, e:.013569 -->
 
 <!-- End section template -->
-<!--/fi:/csp/mediapool/sites/Shared/templates/sections/SiteSection.csp, e:.305152 -->
+<!--/fi:/csp/mediapool/sites/Shared/templates/sections/SiteSection.csp, e:.082823 -->
 
 		</div>
 	</div>
 	
+	<!-- !! This is where the end takeover div should go !! -->
+	
+	
+	<script type="text/javascript">
+		//$(document).ready( function() { $("#container").show(); });
+	</script>
+	
 	<!-- Begin NDN Perfect Pixel code -->
-		<script type="text/javascript" src=" &#10;&#9;&#9;&#10;&#9;&#9;http://dmeserv.newsinc.com/repub/PuebloChieftain/dynamicWidgets.js"></script> 
+		<script type="text/javascript" src="http://dmeserv.newsinc.com/repub/PuebloChieftain/dynamicWidgets.js"></script> 
 		 <script type="text/javascript"> 
 		NDNDynVideoWidgets(); 
 		</script>
@@ -1392,10 +1497,19 @@ NDNDynVideoWidgets();
 		</noscript>
 <!-- End Quantcast tag -->
 
+<!--Page Curl advertisement--><div style="position: absolute; z-index: 999; top: 0px; right: 0px;">
+	<!--<img src="http://placehold.it/100x100" />-->
+	<!-- Ad Manager javascript code for position page-curl1 -->
+	<script type="text/javascript" src="http://chiefads.com/content/tncms/ads/page-curl/page-curl1.js"></script>
 
-<!--/fi:/csp/mediapool/sites/Shared/assets/csp/fAllIndex.csp, e:.306765 -->
+	<!-- Ad Manager call to display ads for position page-curl1 -->
+	<script type="text/javascript">oTNCMS_Ad.show('frontpage');</script>
+</div>
 
 
-<!--/fi:/csp/mediapool/sites/Shared/assets/csp/allIndex.csp, e:.30711 -->
+<!--/fi:/csp/mediapool/sites/Shared/assets/csp/fAllIndex.csp, e:.140106 -->
+
+
+<!--/fi:/csp/mediapool/sites/Shared/assets/csp/allIndex.csp, e:.14046 -->
 
 </body></html>
