@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the confetti.co.uk privacy policy that was archived on 2013-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130524040444id_/http%3A//www.confetti.co.uk/information/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the confetti.co.uk privacy policy that was archived on 2013-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131117112737id_/http%3A//www.confetti.co.uk/information/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Confetti.co.uk
 
@@ -13,6 +13,7 @@ This privacy notice tells you what to expect when Confetti Celebrations Ltd. col
   * people who call us
   * vistors or customers who send us reviews, compliments or complaints
   * people who use our services, e.g. use our forums, planning tools or subscribe to our newsletters
+  * people who enter any of our competitions
   * job applicants and our current and former employees
 
 
@@ -41,6 +42,8 @@ We will only use the personal information we collect to process the complaint an
 
 Confetti offers various services to visitors. For example, we offer planning tools, provide a forum for visitors to communicate with each other and distribute electronic newsletters and emails containing product offers. Information stored within the planning tools and forums may be used to tailor the experience that you receive to highlight products and services that are likely to be most appropriate for you. We use a third party to manage to sending of some emails, but they are only allowed to use the information to send out our emails.
 
+Users may, from time to time, receive information from us about new features, new services, news and special offers. If a user takes advantage of special offers made by our marketing partners, we may, with the user’s consent, transfer the user’s personal information to them.
+
 We have to hold the details of the people who have requested our services in order to provide it. However, we only use these details to provide the service the person has requested and for other closely related purposes. For example, we might use a person’s wedding date to work out when they are likely to be interested in looking at table decorations. When people do subscribe to our services, they can cancel their subscription at any time and are given an easy way of doing this.
 
 ### Job Applicants, Current and Former Confetti Employees
@@ -58,8 +61,6 @@ Cookies are small text files that are placed on your computer by websites that y
 Most web browsers allow some control of most cookies through the browser settings. To find out more about cookies, including how to see what cookies have been set and how to manage and delete them, visit [www.allaboutcookies.org](http://www.allaboutcookies.org/).
 
 To opt out of being tracked by Google Analytics across all websites visit <http://tools.google.com/dlpage/gaoptout>.
-
-[](http://www.confetti.co.uk/shop/wedding-reception-accessories/disposable-wedding-cameras?icp=Articles&icn=Cameras)
 
 Each cookie used on the Confetti website can be categorised into one or more of the following categories:
 
@@ -156,7 +157,7 @@ This privacy notice does not cover the links within this site linking to other w
 
 ## Changes to this Privacy Policy
 
-We keep our privacy notice under regular review. This privacy notice was last updated on 17 April 2013.
+We keep our privacy notice under regular review. This privacy notice was last updated on 13 June 2013.
 
 ## How to Contact Us
 
@@ -164,11 +165,11 @@ Requests for information about our privacy policy can be emailed to the Customer
 
 Customer Services  
 Confetti Celebrations Limited  
-3rd Floor, Hollinwood Business Centre  
-Albert Street  
+3rd Floor, Ace Mill  
+Gorse Street  
 Oldham  
 Lancashire  
-OL8 3QL
+OL9 9RJ
 
   
 
