@@ -1,23 +1,10 @@
-> *The following text is extracted and transformed from the myth-weavers.com privacy policy that was archived on 2013-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130519061132id_/http%3A//www.myth-weavers.com/wiki/index.php/Privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myth-weavers.com privacy policy that was archived on 2013-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131117164005id_/http%3A//www.myth-weavers.com/wiki/index.php/Privacy_policy) for the most accurate reproduction.*
 
 # Privacy policy - Myth-Wiki
-
-### From Myth-Wiki
 
 If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at weaver@myth-weavers.com. 
 
 At www.myth-weavers.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information received and collected by www.myth-weavers.com and how that information is used. 
-
-## Contents
-
-  * 1 The Public and Collaborative Nature of the Projects
-  * 2 Log Files
-  * 3 Cookies and Web Beacons
-  * 4 DoubleClick DART Cookie
-  * 5 Advertising
-  * 6 Disclaimer
-
-
 
 ###  The Public and Collaborative Nature of the Projects 
 
