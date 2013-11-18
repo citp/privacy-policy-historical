@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the itradecimb.com.my privacy policy that was archived on 2013-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130529235855id_/http%3A//itradecimb.com.my/index.php%3Fch%3Dgen%26pg%3Dgen_info%26ac%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the itradecimb.com.my privacy policy that was archived on 2013-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131118084936id_/http%3A//www.itradecimb.com.my/index.php%3Fch%3Dgen%26pg%3Dgen_info%26ac%3D1) for the most accurate reproduction.*
 
 # i*Trade@CIMB MY
 
