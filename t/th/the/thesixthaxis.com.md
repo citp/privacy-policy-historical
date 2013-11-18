@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thesixthaxis.com privacy policy that was archived on 2013-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130508123547id_/http%3A//www.thesixthaxis.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thesixthaxis.com privacy policy that was archived on 2013-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131118131215id_/http%3A//www.thesixthaxis.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | TheSixthAxis - We Know PlayStation
+# PlayStation News At TheSixthAxis / We Know PlayStation
 
 **TheSixthAxis Online Privacy Statement**
 
@@ -52,3 +52,5 @@ TheSixthAxis provides users the following opportunity to opt-out of receiving co
 
 TheSixthAxis provides users the following opportunity for changing and modifying information previously provided:  
 Email webmaster@TheSixthAxis.com
+
+Read more: 
