@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bonds.com.au privacy policy that was archived on 2013-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130519062257id_/http%3A//www.bonds.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bonds.com.au privacy policy that was archived on 2013-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131118071622id_/http%3A//www.bonds.com.au/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy Bonds Australia - Our commitment to privacy
 
@@ -52,3 +52,61 @@ We welcome visitors from outside Australia. However, this is an Australian based
 ### CHILDREN
 
 We will not knowingly collect information from any unsupervised person under the age of 18. If you are under 18 years of age you must not submit any personal information to us unless you have the consent of, and are being supervised by, a parent or legal guardian.
+
+## Bonds and Me Privacy Policy
+
+Your privacy is very important to us and we will always act to protect your information. We take this responsibility seriously and are very careful about how and when your personal information is collected, used and shared. 
+
+This statement outlines what our commitment is, why we need to collect personal information, who we may share that information with and how you may access the information that we hold. 
+
+### 1\. Our Commitment to Privacy 
+
+We will always handle your personal information securely and carefully. We will only use your personal information when it is necessary for us to deliver you a service or perform other necessary business functions and activities. We will not use your information for purposes unrelated to the services we provide, unless first obtaining your consent. We will always use fair and lawful means of collecting personal information. In most circumstances, we will collect personal information directly from you. 
+
+### 2\. What we collect 
+
+The type of information we collect is dependent on the type of service or interaction you wish to receive. Information we collect can include: your name, address, phone and other contact details (for example email), date of birth, gender, merchandise information (purchases, orders etc), method of payment. Sometimes we will also collect other information, such as where you shop or what your interests are, so that we can improve our service and product offering to you. 
+
+We do not store your credit card details in any way; they are secured by 128-bit SSL encryption and transmitted to our payment processing provider. 
+
+### 3\. How we collect it 
+
+The information we collect is supplied directly by you. For example, the details you provide to us when apply for membership or provide feedback to us. Where we wish to collect personal information about you via the internet, we will expressly ask you for that personal information and explain the purpose for which we are requesting the information (e.g. to add you to a mailing list). 
+
+Outside of information that you enter at our websites, we also receive and store certain types of information through the use of 'Cookies', when you interact with us via the Internet. Cookies are alphanumeric identifiers that are placed on your computer's hard drive through your web browser. Most Internet browsers are pre-set to accept cookies. If you prefer not to receive cookies, you can adjust your Internet browser to disable or to warn you when cookies are used. We recommend that you leave your Cookies enabled as they allow our systems to recognise your browser and provide quicker and easier use of our website. 
+
+### 4\. Why we collect it 
+
+We collect information for a number of reasons, including to: deliver and improve the products and services that we offer you, to complete other transactions with you or on your behalf, to protect against fraud or theft, to provide offers and promotions that are of interest or benefit to you, and to generally provide you with a premium customer experience. We will only collect personal information that is necessary for our functions and activities. 
+
+We will generally only use your personal information for purposes related to the main purpose for which the information was collected, or where you have consented to the use. 
+
+### 5\. Who we share it with
+
+We do not intend to sell your personal information to other parties. However, we may share your information with related bodies corporate for the purposes above. We may provide invitations, offers and promotions to you on an ongoing basis by email, telephone and other means. We may provide your personal information to our service providers (some of whom may be located outside Australia) who assist us with services including data processing, data analysis, online computing, printing, contact centre, legal, accounting, business consulting, auditing, archival, delivery and mailing services. We will ensure that where your personal information is transferred overseas we will take all reasonable steps to ensure the information is handled in a manner consistent with Australian privacy laws. 
+
+We may otherwise use or disclose your personal information where required or authorised by law, which may include: 
+
+  * Emergency situations and assisting law enforcement agencies.
+  * Accessing and updating your personal information
+
+
+
+### 6\. Access and correction
+
+If you need to access or correct any personal information we hold about you, please contact us using the Contact Details set out below. We request that you provide as much detail as you can about the particular information you seek, in order to help us retrieve it. An access fee may be charged to cover our costs of providing that information to you. In certain circumstances, we may not be required by law to provide you with access or to correct your personal information. If that is the case, we will give you our reasons for that decision. 
+
+We take reasonable steps to make sure that the personal information we collect, use and disclose is accurate, complete and up-to-date. 
+
+If you have any questions or feedback about privacy, or wish to make a complaint, please contact us by mail at: 
+
+Privacy Officer  
+GPO Box 2370  
+Hawthorn LPO  
+Hawthorn, Victoria  
+3122  
+
+
+Alternatively email us at [privacyofficer@pacbrands.com.au](mailto:privacyofficer@pacbrands.com.au)
+
+© Pacific Brands Clothing Pty Limited 
