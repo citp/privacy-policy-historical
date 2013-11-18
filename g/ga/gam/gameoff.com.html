@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the gameoff.com privacy policy that was archived on 2013-05-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130518013806id_/http%3A//www.gameoff.com/en-gb/policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the gameoff.com privacy policy that was archived on 2013-11-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131118183148id_/http%3A//www.gameoff.com/en-gb/policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html dir="ltr" xml:lang="en-gb" xmlns:fb="http://www.facebook.com/2008/fbml" lang="en-gb"><head>
+<!DOCTYPE html><html ng-app="gocha" id="ng-app" dir="ltr" xmlns:fb="https://ogp.me/ns/fb#" xml:lang="en-gb" lang="en-gb" xmlns:ng="http://angularjs.org"><head>
     <link rel="shortcut icon" href="/static/img/favicon.ico" type="image/x-icon">
 
     <meta charset="utf-8">
@@ -9,6 +9,19 @@
     <meta name="viewport" content="width=device-width">
     <meta http-equiv="Cache-control" content="max-age=31536000, public, must-revalidate">
     <meta http-equiv="Content-Encoding">
+
+     <!--[if lte IE 8]>
+      <script>
+        document.createElement('ng-include');
+        document.createElement('ng-pluralize');
+        document.createElement('ng-view');
+
+        // Optionally these for CSS
+        document.createElement('ng:include');
+        document.createElement('ng:pluralize');
+        document.createElement('ng:view');
+      </script>
+    <![endif]-->
 
     
         
@@ -19,16 +32,23 @@
         
         
         
-        <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
+        <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">
             var MyGlobal_popup_js = {
                 lg_global: "en-gb",
                 coins_global: "",
                 game_global: ""
             }
+            var IS_FB_APP = false;
         </script>
         <script src="/static/js/jquery-1.6.2.min.js" type="text/javascript"></script>
         <script src="/static/js/popup.js" type="text/javascript"></script>
         <script src="/static/js/jquery.fancybox-1.3.4.pack.js" type="text/javascript"></script>
+
+
+        <link rel="stylesheet" href="/static/css/plugins/perfect-scrollbar.css">
+        <script src="/static/js/plugins/jquery.mousewheel.js"></script>
+        <script src="/static/js/plugins/perfect-scrollbar.js"></script>
+
         <script type="text/javascript">
             function closeIFrame(){
                 $('#iframe_all').remove();
@@ -50,27 +70,25 @@
         <script src="/static/js/disable1v1.js" type="text/javascript"></script>
         <script src="/static/js/jquery.placeHolder.js" type="text/javascript"></script>
         <script src="/static/js/jquery.jqplugin.1.0.2.min.js" type="text/javascript"></script>
+        <script src="/static/js/js_patches.js" type="text/javascript"></script>
+        <script src="/static/js/utils.js"></script>
 
+        <script src="/static/js/libs/swfobject/2.2/swfobject.js"></script>
+
+        <script src="/static/js/libs/angular.js"></script><style type="text/css">@charset "UTF-8";[ng\:cloak],[ng-cloak],[data-ng-cloak],[x-ng-cloak],.ng-cloak,.x-ng-cloak{display:none;}ng\:form{display:block;}</style>
+        <script src="/static/js/libs/angular-resource.js"></script>
+        <script src="//connect.facebook.net/en-gb/all.js"></script>
 
         
         <script type="text/javascript">
             $.jgrid.no_legacy_api = true;
             $.jgrid.useJSON = true;
         </script>
-        
-        <script src="/static/js/speechbubbles.js" type="text/javascript"></script>
-        <script type="text/javascript">
-            jQuery(function($){ //После наступления событияon document.
-                //Применяем подсказки для ссылок с классом "addspeech" и ищем текст подсказок в файле 'speechdata.txt'
-                $('a.addspeech').speechbubble({url:'/static/js/speechdata.txt'})
-            })
 
-        </script>
         
         <script type="text/javascript" src="/static/js/jquery-ui-1.8.16.custom.min.js"></script>
         <script type="text/javascript" src="/static/js/jquery.url.min.js"></script>
         <script src="/static/js/messages.js" type="text/javascript"></script>
-        <script src="/static/js/user_widget.js" type="text/javascript"></script>
         <script type="text/javascript" src="http://go.balagana.net/js/campaigns.simple.p.js"></script>
         <script src="/static/js/cliq_functions.js" type="text/javascript"></script>
         <script src="/static/js/registration_pop.js"></script>
@@ -81,38 +99,6 @@
             TRANSLATIONS['Coming Soon'] = "Coming Soon";
 
             $(document).ready(function() {
-                $('#partners2').fancybox({
-
-                    'titlePosition'		: 'inside',
-                    'transitionIn'		: 'elastic',
-                    'transitionOut'		: 'elastic',
-                    'hideOnOverlayClick':false,
-                    'hideOnContentClick':false
-                });
-                $("#partners2").click(function(){
-                    $("#pic_matomy2").css("display","block");
-                })
-                $("#fancybox-close").click(function(){
-                    $("#pic_matomy2").css("display","none");
-                })
-
-                $('#partners22').fancybox({
-
-                    'titlePosition'		: 'inside',
-                    'transitionIn'		: 'elastic',
-                    'transitionOut'		: 'elastic',
-                    'hideOnOverlayClick':false,
-                    'hideOnContentClick':false
-                });
-                $("#partners22").click(function(){
-                    $("#pic_matomy22").css("display","block");
-                })
-                $("#fancybox-close").click(function(){
-                    $("#pic_matomy22").css("display","none");
-                })
-
-
-
                 $("#buttonLink11").fancybox({
                     'titlePosition'		: 'inside',
                     'transitionIn'		: 'elastic',
@@ -122,25 +108,17 @@
                     'hideOnContentClick':false
                 });
 
-                if($.cookie('mobile_subcribtion_id')){
-                    $.get('/accounts/mobile_registration_relevant?registration_id='+$.cookie('mobile_subcribtion_id'), function(data,status){
-                        if(data === 'true'){
-                            $.get('/en-gb/accounts/register_form_popup', function(data, status){
-                                $('#registration-popup-wrapper').append(data);
-                                $('#black-screen').show();
-                                $('#registration-popup-wrapper').show();
-                                registration_pop();
-                            });
-                        }
-                        else if (data === 'delete') {
-                            $.removeCookie('mobile_subcribtion_id', {path: '/', expires: -1})
-                        }
-                    });
-                }
+                
+
+                $('.open_href').click(function(){
+                    var href = $(this).find('a').attr('href');
+                    window.location = href;
+                });
 
                oneVsOne();
             }
             );
+
         </script>
 
         
@@ -153,26 +131,91 @@
     
     <meta name="description" content="Play free casual games and win real prizes! Discover new games, battle your friends and foes, participate in prized tournaments and more!">
 
-    <link rel="stylesheet" type="text/css" media="screen" href="/static/css/ui.jqgrid.css">
     
     
     <link rel="stylesheet" href="/static/css/style.css" type="text/css" media="screen">
-    
-    <link rel="stylesheet" href="/static/css/speechbubbles.css" type="text/css" media="screen">
+
     
     <link rel="stylesheet" href="/static/css/redmond/jquery-ui-1.8.16.custom.css" type="text/css" media="screen">
     
     <link rel="stylesheet" href="/static/css/socialauth.css" type="text/css" media="screen">
-    <link href="/static/css/users_widget.css" media="all" rel="stylesheet" type="text/css">
 
     <link href="/static/css/registration_popup.css" media="all" rel="stylesheet" type="text/css">
 
     
-    <link href="http://fonts.googleapis.com/css?family=Source+Sans+Pro:200,400,600,600italic|Open+Sans:400,800|Courgette" rel="stylesheet" type="text/css">
+    <link href="http://fonts.googleapis.com/css?family=Source+Sans+Pro:200,400,600,600italic|Open+Sans:400,800" rel="stylesheet" type="text/css">
+
+    <link href="/static/css/user_panel.css" rel="stylesheet" type="text/css">
+    <link href="/static/css/facebook_invite_popup.css" rel="stylesheet" type="text/css">
+    <link href="/static/css/buy_coins.css" rel="stylesheet" type="text/css">
+
+    <script>
+        var userId = null;
+        var opponentFinished = false;
+        var userCoins = 0;
+        var userLevel = 0;
+        var COINS_FOR_FACEBOOK_INVITE = 10;
+        var MAX_COINS_FOR_FACEBOOK_INVITE = 500;
+        var DAILY_BONUS = {
+            DO: Boolean(0),
+            AMOUNT: 0,
+            IS_NEW_USER: false
+        }
+        var is_txtmeapp_update = false;
+        var txtmeapp_coins = 0;
+        var is_txtmeapp = false;
+    </script>
+
+    
 
     
     
+    <link rel="stylesheet" type="text/css" href="/static/css/invite.css">
     
+<!-- angular 1vs1 -->
+
+    <!-- services -->
+    <script src="/static/js/1v1/constants.js"></script>
+    <script src="/static/js/1v1/facebook_service.js"></script>
+    <script src="/static/js/1v1/user_service.js"></script>
+    <script src="/static/js/1v1/players_service.js"></script>
+    <script src="/static/js/1v1/services.js"></script>
+    <script src="/static/js/1v1/countdown.js"></script>
+
+    <!-- directives, filters -->
+    <script src="/static/js/1v1/filters.js"></script>
+    <script src="/static/js/1v1/directive.js"></script>
+
+    <!-- controllers -->
+    <script src="/static/js/1v1/tournaments.js"></script>
+    <script src="/static/js/1v1/notifications.js"></script>
+    <script src="/static/js/1v1/user_panel.js"></script>
+    <script src="/static/js/1v1/levels.js"></script>
+    <script src="/static/js/1v1/buy_coins.js"></script>
+    <script src="/static/js/1v1/players.js"></script>
+    <script src="/static/js/1v1/recent_players.js"></script>
+    <script src="/static/js/1v1/invite.js"></script>
+    <script src="/static/js/1v1/title.js"></script>
+    <script src="/static/js/1v1/facebook_invite.js"></script>
+
+    <!-- main -->
+    <script src="/static/js/1v1/game_lobby_auth.js"></script>
+
+<!-- end of 1vs1 angular -->
+
+<!-- New google analytics -->
+    <!-- Google Analytics -->
+    <script>
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+            (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+                m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+        ga('create', 'UA-45187514-1');
+        ga('send', 'pageview');
+
+    </script>
+    <!-- End Google Analytics -->
 <script id="facebook-jssdk" async="" src="//web.archive.org/web/20130430062819/http://connect.facebook.net/en_US/all.js"></script><style type="text/css">.fb_hidden{position:absolute;top:-10000px;z-index:10001}
 .fb_invisible{display:none}
 .fb_reset{background:none;border-spacing:0;border:0;color:#000;cursor:auto;direction:ltr;font-family:"lucida grande", tahoma, verdana, arial, sans-serif;font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;letter-spacing:normal;line-height:1;margin:0;overflow:visible;padding:0;text-align:left;text-decoration:none;text-indent:0;text-shadow:none;text-transform:none;visibility:visible;white-space:normal;word-spacing:normal}
@@ -277,55 +320,32 @@ rgba(255, 255, 255, .167969) 0 1px 0;display:inline-block;margin-top:3px;max-wid
 /* @noflip */
 .fbpluginrecommendationsbarright{right:10px}</style></head>
 
-
-    <body>
+<body>
+    <div class="np-ribbon-header" style="position:absolute;top:0px;left:50px;visibility: hidden">
+    <div class="np-ribbon-header-left"></div>
+    <div class="np-ribbon-header-text"></div>
+    <div class="np-ribbon-header-right"></div>
+    <div class="db-coins-counter-inner"></div>
+    <div class="db-coins-shiney"></div>
+</div>
 
     <script>
-        window.FACEBOOK_APP_ID = '234799719925790';
-        window.socialauth_social_logout_url = '/en-gb/accounts/logout/?next=/en-gb/';
-        window.auth_logout_url = '/en-gb/accounts/lp/logout/?next=/en-gb/';
+        window.FACEBOOK_APP_ID = "234799719925790";
+        window.socialauth_social_logout_url = "/en-gb/accounts/logout/?next=/en-gb/";
+        window.auth_logout_url = "/en-gb/accounts/lp/logout/?next=/en-gb/";
 
     </script>
 
 
     
-            <div id="fb-root" class=" fb_reset"><div style="position: absolute; top: -10000px; height: 0px; width: 0px;"><div><iframe name="f6b995f9fea26" frameborder="0" allowtransparency="true" scrolling="no" src="https://www.facebook.com/dialog/oauth?client_id=234799719925790&amp;response_type=token%2Csigned_request%2Ccode&amp;display=none&amp;domain=web.archive.org&amp;origin=1&amp;redirect_uri=https%3A%2F%2Fs-static.ak.facebook.com%2Fconnect%2Fxd_arbiter.php%3Fversion%3D24%23cb%3Df2bc3250cd49c84%26origin%3Dhttps%253A%252F%252Fweb.archive.org%252Ff2d605ba3b8f528%26domain%3Dweb.archive.org%26relation%3Dparent&amp;sdk=joey" style="display: none;"></iframe></div></div><div style="position: absolute; top: -10000px; height: 0px; width: 0px;"><div><iframe name="fb_xdm_frame_https" frameborder="0" allowtransparency="true" scrolling="no" id="fb_xdm_frame_https" aria-hidden="true" title="Facebook Cross Domain Communication Frame" tab-index="-1" src="https://s-static.ak.facebook.com/connect/xd_arbiter.php?version=24#channel=f2d605ba3b8f528&amp;origin=https%3A%2F%2Fweb.archive.org&amp;channel_path=%2Fweb%2F20130518013806id_%2Fhttp%3A%2F%2Fwww.gameoff.com%2Fen-gb%2Fpolicy%2F%3Ffb_xd_fragment%23xd_sig%3Df2cb5a1b707596c%26" style="border: none;"></iframe></div></div></div>
+            <div id="fb-root" class=" fb_reset"><div style="position: absolute; top: -10000px; height: 0px; width: 0px;"><div><iframe name="f280ee2caa7a2d4" frameborder="0" allowtransparency="true" scrolling="no" src="https://www.facebook.com/dialog/oauth?client_id=234799719925790&amp;response_type=token%2Csigned_request%2Ccode&amp;display=none&amp;domain=web.archive.org&amp;origin=1&amp;redirect_uri=https%3A%2F%2Fs-static.ak.facebook.com%2Fconnect%2Fxd_arbiter.php%3Fversion%3D24%23cb%3Df2f80780c15919c%26origin%3Dhttps%253A%252F%252Fweb.archive.org%252Ff366df4d3686598%26domain%3Dweb.archive.org%26relation%3Dparent&amp;sdk=joey" style="display: none;"></iframe></div></div><div style="position: absolute; top: -10000px; height: 0px; width: 0px;"><div><iframe name="fb_xdm_frame_https" frameborder="0" allowtransparency="true" scrolling="no" id="fb_xdm_frame_https" aria-hidden="true" title="Facebook Cross Domain Communication Frame" tab-index="-1" src="https://s-static.ak.facebook.com/connect/xd_arbiter.php?version=24#channel=f366df4d3686598&amp;origin=https%3A%2F%2Fweb.archive.org&amp;channel_path=%2Fweb%2F20131118183148id_%2Fhttp%253A%2F%2Fwww.gameoff.com%2Fen-gb%2Fpolicy%3Ffb_xd_fragment%23xd_sig%3Df83021068b2374%26" style="border: none;"></iframe></div></div></div>
 
             <script src="/static/js/facebook_login.js"></script>
 
     
 
 
-    <div id="registration-popup-wrapper"></div>
-    <div id="black-screen"></div>
-
 <script type="text/javascript">
-        function daily_coins() {
-            $.ajax({
-                url:"/en-gb/set_user_daily_bonus/",
-                type:"GET",
-                data:{},
-                success:function (data) {
-                   if (data == "daily_coins_dialog"){
-                        $(window).resize(function(){
-                            // get the screen height and width
-                            var maskHeight = $(window).height();
-                            var maskWidth = $(window).width();
-                            // calculate the values for center alignment
-                            var dialogTop =  (maskHeight  - 320)/2;
-                            var dialogLeft = (maskWidth - 468)/2;
-                            $("#daily_bonus").dialog({modal:false, width:'468px', open:function(){ $(".ui-dialog-titlebar-close").hide();},
-                                resizable:false, draggable: false,position:[dialogLeft, dialogTop] });
-                        }).resize();
-
-                      var coinsAmount= parseInt($("#coins_amount").text());
-                       var bonus=parseInt(0);
-                       $("#coins_amount").text(coinsAmount+bonus);
-                   }
-                }
-            });
-        }
-
         function opt_in_status() {
             $.ajax({
                 url:"/en-gb/show_opt_in_status/",
@@ -333,211 +353,313 @@ rgba(255, 255, 255, .167969) 0 1px 0;display:inline-block;margin-top:3px;max-wid
                 data:{},
                 success:function (data) {
                     if (data !== "") {
-
-                        if (data === "registered") {
-                            $("#container_opt_in_status h2").text("We were unable to upgrade your account to Premium");
-                            $("#container_opt_in_status p").text("You can always try again by clicking Upgrade Your Account.");
-                            _gaq.push(['_trackEvent', 'Portal', 'Premium failed','None - ']);
-                        }
-                        else if (data === "premium") {
-                            $("#container_opt_in_status h2").text("Great! Your account has been upgraded to Premium.");
-                            _gaq.push(['_trackEvent', 'Portal', 'Premium','None - ']);
-                        }
-                        else if (data === "pending premium") {
-                            $("#container_opt_in_status h2").text("Your premium membership is still pending");
-                            $("#container_opt_in_status p").text("You will be notified after confirmation and your account will be automatically upgraded to Premium.")
-                            _gaq.push(['_trackEvent', 'Portal', 'Pending Premium','None - ']);
-                        }
-
-                        // get the screen height and width
-                        var maskHeight = $(window).height();
-                        var maskWidth = $(window).width();
-                        // calculate the values for center alignment
-                        var dialogTop =  (maskHeight  - 260)/2;
-                        var dialogLeft = (maskWidth - 468)/2;
-                        $("#container_opt_in_status").dialog({modal:false, width:'468px', open:function(){ $(".ui-dialog-titlebar-close").hide();},
-                            resizable:false, draggable: false,position:[dialogLeft, dialogTop] });
-
-                        $(window).resize(function(){
-                            $("#container_opt_in_status").dialog("option", "position", "center");
-                        });
+                        alert(data);
                     }
                 }
             });
         }
 
+        function onEvent(type,obj){
+            try{
+
+
+
+                for (var prop in obj) {
+
+                }
+            }catch (w){
+
+            }
+
+            Singleton.onEvent(type,obj);
+        }
+
+        function start_base_flash(swfobject) {
+            if (!false) {
+                //  Configure
+                var attributes = {};
+                attributes.id = "flashMovie";
+                var gameUrl="/static/swf/noGame.swf";
+                var  width="0";
+                var  height="0";
+
+                var params = {};
+
+                var flashvars = {};
+
+                flashvars.gameSessionId = "1384799508.42f11104426b0d9ead30d4ef28ab6bf3f2";
+                flashvars.serverIp = "46.51.198.9";
+                flashvars.serverPort = "9933";
+
+                flashvars.serverVersion = "main";
+
+                flashvars.callBackEvent = "onEvent";
+
+                // Create
+                swfobject.embedSWF( gameUrl, 'base_flash_div', width, height, "9.0.115", false, flashvars, params, attributes,onSwfLoaded);
+
+            }
+        }
+        function onSwfLoaded(){
+
+                Singleton.setGame($('#flashMovie')[0]);
+
+        }
+
         $(document).ready(function(){
-            //        init language form
-
-            $("#language_select").change(function() {
-                $("#locale_switcher").submit();
-            });
             
+            start_base_flash(swfobject);
         });
-
 </script>
 
+    
+        
 
-    <div class="art-support-languages">
-        <div class="art-support-languages-wrapper">
+<div id="userPanel" class="unauthorized">
+    <div class="userPanelGrid">
+    <div class="panelWrapper" ng-cloak="">
+        <div class="facebook-connect panelOption" facebook-login="">
 
-            
+            <div class="fb-button">
+                <span class="fb-icon"></span>
+                <span class="fb-sep"></span>
+                <span class="fb-text">
+                    Connect with<img src="/static/img/facebook.png">.
+                </span>
+            </div>
+
+        </div>
+        <div class="seperator"></div>
+        <div class="panelOption">
+            <form class="login" action="/en-gb/accounts/lp/login/?next=/en-gb/policy/" method="post">
+                <div style="display:none"><input type="hidden" name="csrfmiddlewaretoken" value="9add8018a60bbbd5008cd85ad0946d76"></div>
+                <span class="person"></span><!--
+                --><input type="" placeholder="Username" name="username"><!--
+                --><span class="lock"></span><!--
+                --><input type="password" placeholder="Password" name="password">
+                <button type="submit" class="teal_button">Login</button>
+            </form>
+        </div>
+        <div class="seperator"></div>
+        <div class="register panelOption">
+            <a href="/en-gb/accounts/register/"><button class="create-account  teal_button">Create Account</button></a>
+        </div>
+        <div class="seperator"></div>
+        
 
 
-<div class="languages">
-    <ul id="languagesList">
-        
-            <li class="selected"><a href="/en-gb/policy/">English</a></li>
-        
-            <li><a href="/de-de/policy/">Deutsch</a></li>
-        
-            <li><a href="/nl-nl/policy/">Netherlands</a></li>
-        
-            <li><a href="/pl-pl/policy/">Polski</a></li>
-        
-    </ul>
+<div class="panelOption language" clickformenu="" ng-controller="languagesController">
+    <div class="showmenu button">
+        <span class="flag icon">
+
+        </span>
+        [[selectedLang]]
+    </div>
+    <div class="menu">
+        <ul>
+            <li ng-repeat="lang_cod in languages_code" ng-show="selectedLang != lang_cod.lang">
+                <a href="/[[lang_cod.code]]/[[url]]" class="lang">
+                    <img ng-src="[[lang_cod.img]]"> [[lang_cod.lang]]
+                </a>
+            </li>
+        </ul>
+    </div>
 </div>
 
-<script type="text/javascript">
-    if (!$('#languagesList > li.selected')[0]) {
-        $('#languagesList > li > a[href^="/en-gb"]').parent(':first').addClass('selected');
+<script>
+
+    function languagesController($scope){
+        var url = window.location.pathname.split('/');
+        $scope.url = url.slice(2,url.length).join('/');
+        $scope.languages_code = [
+            
+                {
+                    code:"en-us",
+                    lang:"en-us".slice(3,5),
+                    img: "/static/img/flags/"+"en-us".slice(3,5)+".png"
+                },
+            
+                {
+                    code:"en-gb",
+                    lang:"en-gb".slice(3,5),
+                    img: "/static/img/flags/"+"en-gb".slice(3,5)+".png"
+                },
+            
+                {
+                    code:"de-de",
+                    lang:"de-de".slice(3,5),
+                    img: "/static/img/flags/"+"de-de".slice(3,5)+".png"
+                },
+            
+                {
+                    code:"nl-nl",
+                    lang:"nl-nl".slice(3,5),
+                    img: "/static/img/flags/"+"nl-nl".slice(3,5)+".png"
+                },
+            
+                {
+                    code:"pl-pl",
+                    lang:"pl-pl".slice(3,5),
+                    img: "/static/img/flags/"+"pl-pl".slice(3,5)+".png"
+                },
+            
+
+            // Ugly fix for explorer
+            null
+        ];
+
+        $scope.languages_code.pop();
+        $scope.selectedLang = "en-gb".slice(3,5);
     }
 </script>
+    </div>
+    </div>
+</div>
+    
 
+
+    <div class="np-rocket"></div>
+    
+        <div class="np-main">
+            <div class="np-header">
+                <script type="text/javascript"><!--
+                google_ad_client = "ca-pub-4848338186598936";
+                /* Portal - top banner */
+                google_ad_slot = "2540051802";
+                google_ad_width = 728;
+                google_ad_height = 90;
+                //-->
+                </script>
+                <script type="text/javascript" src="//pagead2.googlesyndication.com/pagead/show_ads.js">
+                </script>
+            </div>
+                
+
+<div class="np-header-menu">
+    <div class="tab">
+        <div class="np-sub-title top-first open_href home">
+            <a href="/en-gb/"></a>
+            Home
+        </div>
+    </div>
+    <div class="sep"></div>
+    <div class="tab" clickformenu="click">
+        <div class="np-sub-title button showmenu tournaments">
+            TOURNAMENTS &amp; PRIZES
+        </div>
+        <div class="np-sub-menu menu">
+            <div class="sub-tab open_href">
+                <a href="/en-gb/game/tournaments_prizes/?tournament_filter=ending_soon"></a>
+                Ending Soon
+            </div>
+            <div class="np-sub-sep"></div>
+            <div class="sub-tab last open_href">
+                <a href="/en-gb/game/tournaments_prizes/?tournament_filter=all_tournaments"></a>
+                View All Tournaments
+            </div>
+        </div>
+    </div>
+    <div class="sep"></div>
+    <div class="tab" clickformenu="click">
+        <div class="np-sub-title  open_href one_vs_one">
+            <a href="/en-gb/game/games_page"></a>
+            1 VS 1
+        </div>
+    </div>
+    <div class="sep"></div>
+    <div class="tab" clickformenu="click">
+        <div class="np-sub-title button showmenu  games">
+            GAMES
+        </div>
+        <div class="np-sub-menu menu games">
+            
+            <div class="sub-tab open_href">
+                <a href="/en-gb/game/game_page/246079/0"></a>
+                <div class="np-1vs1_ticket_game_icon bouncing_balls">
+                    <div class="np-game_icon ">
+                        <img ng-src="/static/img/game/bouncing_balls_small_banner.png" border="0" alt="">
+                    </div>
+                </div>
+                Bouncing Balls
+            </div>
+            <div class="np-sub-sep"></div>
+            
+            <div class="sub-tab open_href">
+                <a href="/en-gb/game/game_page/259015/0"></a>
+                <div class="np-1vs1_ticket_game_icon free_kick">
+                    <div class="np-game_icon ">
+                        <img ng-src="/static/img/game/free_kick_small_banner.png" border="0" alt="">
+                    </div>
+                </div>
+                Free Kick
+            </div>
+            <div class="np-sub-sep"></div>
+            
+            <div class="sub-tab open_href">
+                <a href="/en-gb/game/game_page/260004/0"></a>
+                <div class="np-1vs1_ticket_game_icon gems_swap">
+                    <div class="np-game_icon ">
+                        <img ng-src="/static/img/game/gems_swap_small_banner.png" border="0" alt="">
+                    </div>
+                </div>
+                Gems Swap
+            </div>
+            <div class="np-sub-sep"></div>
+            
+            <div class="sub-tab open_href">
+                <a href="/en-gb/game/game_page/260009/0"></a>
+                <div class="np-1vs1_ticket_game_icon mahjongg_2">
+                    <div class="np-game_icon ">
+                        <img ng-src="/static/img/game/mahjongg_2_small_banner.png" border="0" alt="">
+                    </div>
+                </div>
+                Mahjongg 2
+            </div>
+            <div class="np-sub-sep"></div>
+            
+            <div class="sub-tab last_orange open_href">
+                <a href="/en-gb/game/games_page"></a>
+                More Games
+            </div>
+        </div>
+    </div>
+    <div class="sep"></div>
+    
+    <div class="tab">
+        <div class="np-sub-title open_href help_info">
+            <a href="/en-gb/help/"></a>
+            
+                HELP &amp; INFO
             
         </div>
     </div>
-    <div id="art-main">
-        <div class="cleared reset-box"></div>
-        <div class="art-header">
-            <div class="art-header-wrapper">
-                <div class="art-logo">
-                    <a id="logo" href="/en-gb/"><img src="/static/img/logo.png"></a>
-                </div>
-                
-                    <div class="button">
-                        
-                            <div class="sing_reg_cointainer">
-                                <div class="sing_reg">
-                                    <a class="login_button" id="login" value="sign in" href="/en-gb/accounts/lp/login/?next=/en-gb/policy/"> <span>SIGN IN</span></a>
-                                    <a class="loguot_button" id="logout" style="display: none" value="sign out" href="/en-gb/accounts/lp/logout/"><span>SIGN OUT</span></a>
-
-
-                                    <a class="reg_button" value="register" onclick="document.location='/en-gb/accounts/register/'" href="javascript:void(0)"><span> REGISTER FREE </span></a>
+    <div class="sep"></div>
+    <div class="tab">
+        <div facebook-invite="{doInvite: true}">
+            <div class="fb-invite-menu">
+                <div class="border1">
+                    <div class="border2">
+                        <div class="border3">
+                            <div class="border4 btn-content">
+                                <div class="fb-f left"></div>
+                                <div class="fb-sep left"></div>
+                                <div class="fb-text">
+                                    
+                                        Invite Friends
+                                    
                                 </div>
                             </div>
-                            
-                                <div class="facebook_login_botton-container">
-                                    <div class="facebook_small en-gb">
-                                    </div>
-                                </div>
-                            
-
-                        
-                
-
+                        </div>
+                    </div>
+                </div>
+		    </div>
         </div>
     </div>
-    <div class="cleared reset-box"></div>
-
-    
-        <script>
-            $(document).ready(function(){
-                $('li').hover(
-                        function () {$('ul', this).stop(true, true).delay(500).slideDown(500);  },
-                        function () {$('ul', this).stop(true, true).delay(100).slideUp(300);   }
-                );
-            });
-        </script>
-        <div class="art-nav">
-            <div class="art-nav-wrapper">
-                <div class="art-nav-l"></div>
-                <div class="art-nav-r"></div>
-                <div class="art-nav-inner">
-                    <ul class="art-hmenu">
-                        <li class="games_menu">
-                            <a href="/en-gb/game/games_page" class="active"><span class="r"></span><span class="t">GAMES</span></a>
-                            <ul>
-                                
-                                    <li> 
-                                        <a href="/en-gb/game/game_page/246079/1"><img width="30px" src="/static/img/game/bouncing_balls_grid_banner.png">
-                                            <span style="position:relative;top:10px;"> Bouncing Balls</span>
-                                        </a>
-                                    </li>
-                                
-                                    <li> 
-                                        <a href="/en-gb/game/game_page/259015/1"><img width="30px" src="/static/img/game/free_kick_grid_banner.png">
-                                            <span style="position:relative;top:10px;"> Free Kick</span>
-                                        </a>
-                                    </li>
-                                
-                                    <li> 
-                                        <a href="/en-gb/game/game_page/260004/1"><img width="30px" src="/static/img/game/gems_swap_grid_banner.png">
-                                            <span style="position:relative;top:10px;"> Gems Swap</span>
-                                        </a>
-                                    </li>
-                                
-                                    <li> 
-                                        <a href="/en-gb/game/game_page/260009/1"><img width="30px" src="/static/img/game/mahjongg_2_grid_banner.png">
-                                            <span style="position:relative;top:10px;"> Mahjongg 2</span>
-                                        </a>
-                                    </li>
-                                
-                                <li>
-                                    <a href="/en-gb/game/games_page"> <span style="position: relative;top: 14px;left: 67px;font-weight: bold;">More Games... </span></a>
-                                </li>
-                            </ul>
-                        </li>
-                        <li class="tournaments_menu">
-                            <a href="/en-gb/game/tournaments_prizes/"><span class="r"></span><span class="t">TOURNAMENTS &amp; PRIZES</span></a>
-                            <ul>
-                                <li>
-                                    <a href="/en-gb/game/tournaments_prizes/?tournament_filter=my_tournaments"> My Tournaments</a>
-                                </li>
-                                <li>
-                                    <a href="/en-gb/game/tournaments_prizes/?tournament_filter=ending_soon"> Ending Soon</a>
-
-                                </li>
-                                <li>
-                                    <a href="/en-gb/game/tournaments_prizes/?tournament_filter=all_tournaments">View All Tournaments</a>
-                                </li>
-                            </ul>
-                        </li>
-
-                        <li class="match_menu">
-                            <a href="#"><span class="r"></span><span class="t">1 VS 1</span></a>
-                            
-                        </li>
-                        <li class="help_menu">
-                            <a href="/en-gb/help/"><span class="r"></span><span class="t">HELP &amp; INFO</span></a>
-                        </li>
-                        <li class="manu_facebook_button">
-                            <div class="facebook_login_botton">
-                                <a href="/en-gb/coming_soon/"> <img title="Coming Soon" src="/static/img/en-gb/main_fb.png"> </a>
-                            </div>
-                        </li>
-                    </ul>
-                </div>
-            </div>
-        </div>
-        <div class="art-navs">
-            <div class="art-nav-wrapper">
-                <div class="art-nav-sl"></div>
-                <div class="art-nav-sr"></div>
-                <div class="art-nav-inner">
-                </div>
-            </div>
-        </div>
-
-    
-    
-
-        <div class="main_content_container">
-            <div class="main_content_container-wrapper">
-                <div class="main_content_container_right_shedow">
-                    
-                        <div class="main_content">
-                            
+</div>
+            <div>
+                
+                    <div class="main_content">
+                        
     <div class="privacy_policy_class">
     <h1>Privacy Policy  </h1>
     <br>
@@ -598,18 +720,18 @@ rgba(255, 255, 255, .167969) 0 1px 0;display:inline-block;margin-top:3px;max-wid
         Changes to our Privacy Policy
     </h2>
     <p>
-        If we decide to change our privacy policy, we will post those changes on this page. <a href="https://www.gameoff.com/policy/">https://www.gameoff.com/policy/</a>.
+        If we decide to change our privacy policy, we will post those changes on this page. <a href="https://www.gameoff.com/en-gb/policy/">https://www.gameoff.com/en-gb/policy/</a>.
     </p>
     </div>
 
-                        </div>
-                    
-                </div>
+                    </div>
+                
             </div>
-            <div class="main_content_container-wrapper-bottom">
-                <div class="br">
-                </div>
-            </div>
+            <div class="np-bottom-corners"></div>
+        </div>
+
+        <div class="main_content_container">
+            <div id="base_flash_div" class="base_flash_div"></div>
         </div>
     
     <div class="footer">
@@ -621,15 +743,17 @@ rgba(255, 255, 255, .167969) 0 1px 0;display:inline-block;margin-top:3px;max-wid
             <div class="bottom_link">
                 <a href="#" class="art-rss-tag-icon" title="RSS"></a>
 
-                <a href="/en-gb">Home</a>  <a href="/en-gb/about/">About Gameoff</a>  <a href="/en-gb/help/">Help &amp; Info</a>
-                <a href="/en-gb">Games</a>  <a href="/en-gb/terms/">Terms &amp; Conditions</a>
+                <a href="/en-gb">Home</a>
+                <a href="/en-gb/about/">About Gameoff</a>
+                <a href="/en-gb/help/">Help &amp; Info</a>
+                <a href="/en-gb">Games</a>
+                <a href="/en-gb/terms/">Terms &amp; Conditions</a>
                 <a href="/en-gb/rules/">Game Rules</a>
                 
                 <a href="/en-gb/policy/">Privacy Policy</a>
                 <a href="/en-gb/contact_us/">Contact Us</a>
                 
                 
-                <a href="/en-gb/coming_soon/">Coming Soon!</a>
             </div>
             <div class="copyright"> Copyright © 2012. All Rights Reserved.</div>
         </div>
@@ -639,8 +763,8 @@ rgba(255, 255, 255, .167969) 0 1px 0;display:inline-block;margin-top:3px;max-wid
     <script type="text/javascript">
 
         var _gaq = _gaq || [];
-        _gaq.push(['_setAccount', 'UA-32719573-1']);
-        _gaq.push(['_setDomainName', 'gameoff.com']);
+        _gaq.push(['_setAccount', 'UA-45187514-1']);
+        _gaq.push(['_setDomainName', 'www.gameoff.com']);
         _gaq.push(["_setCustomVar",1,"Department","Portal"]);
         _gaq.push(["_setCustomVar",2,"Locale","en-gb"]);
         
@@ -655,30 +779,7 @@ rgba(255, 255, 255, .167969) 0 1px 0;display:inline-block;margin-top:3px;max-wid
 
     </script>
 
-    <div class="invite_dialog" id="invite_dialog"></div>
-    <div class="invited_dialog" id="invited_dialog"></div>
-    <div id="daily_bonus" style="display: none;">
-        <div id="container_daily_bonus">
-            <div class="pp small">
-                <div class="pp-content">
-                    
-                    <h1 class="ppHeadline">Daily Bonus</h1>
-                    <div style="text-align: center;">
-                        <h2>Welcome back </h2>
-                        <p>You've just earned your daily login bonus.</p>
-                        <div style="margin-top: 10px; background: url(&quot;/static/img/css/seperator-shadows.png&quot;) no-repeat scroll -2659px -38px transparent;" class="seperator-shadow-medium-flipped"></div>
-                        <div style="padding: 20px 0;">
-                            <a href="#">
-                                <img width="58" src="/static/img/icon/c2.png"><span style="font-size: 25px; position: relative; top: 5px; left: 11px;">0 Coins!</span>
-                            </a>
-                        </div>
-                        <div class="seperator-shadow-small" style="margin-bottom: 13px; background: url(&quot;/static/img/css/seperator-shadows.png&quot;) no-repeat scroll -1px 0pt transparent;"></div>
-                        <a href="#" style="padding: 5px 15px;" onclick="close_dialog_daily_bonus('#daily_bonus')" class="blueBtn">Close</a>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
+
 
     <div id="opt_in_status" style="display: none;">
         <div id="container_opt_in_status">
@@ -692,25 +793,6 @@ rgba(255, 255, 255, .167969) 0 1px 0;display:inline-block;margin-top:3px;max-wid
                         <p></p>
                         <br>
                         <a href="#" style="padding: 5px 15px;" onclick="close_dialog('#container_opt_in_status')" class="blueBtn">Close</a>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-
-    <div id="out_of_coins" style="display: none;">
-        <div>
-            <div style="display:block;" class="pp small">
-                <div class="pp-content">
-                    <a href="#" onclick="close_dialog('#out_of_coins')" class="quitBtn">Close</a>
-                    <h1 class="ppHeadline">Get More Coins</h1>
-                    <div style="text-align: center;">
-                        <h2 class="blueColor bigF">Oh no! You're broke! </h2>
-                        <div class="seperator-shadow-small" style="background: url(/static/img/css/seperator-shadows.png) no-repeat scroll -2px 0 transparent;"></div>
-                        <div style="padding: 30px 0;">
-                            <a class="btn orangeBtn bigOrange" href="#" onclick="open_more_coins_dialog_broken(0,383)"><img style=" padding: 0 10px 0 0;   position: relative;   top: -6px;   width: 45px;" src="/static/img/icon/c2.png"><span class="medF">Get More Coins </span></a>
-                        </div>
-                        <div style="background: url(/static/img/css/seperator-shadows.png) no-repeat scroll -2px 0 transparent;" class="seperator-shadow-small"></div>
                     </div>
                 </div>
             </div>
@@ -733,78 +815,589 @@ rgba(255, 255, 255, .167969) 0 1px 0;display:inline-block;margin-top:3px;max-wid
         </div>
     </div>
 
-    <div id="why_to_login" style="display: none;">
-        <div class="container">
-            <div style="display:block;" class="med_new">
-                <div class="pp-content">
-                        <div><img src="/static/img/en-gb/unregistered_out_of_time.png"></div>
-                        <div style="padding-top:25px">
-                            <a class="FBconnectBig en-gb" href="/en-gb/accounts/facebook_login_url/"></a>
+        <script>
+            $('.facebook_login_botton-container').add('.facebook_login_botton').click(facebookLogin);
+
+            function facebookLogin() {
+                var fb_login = window.open('/accounts/facebook_login','name','height=800,width=1060');
+                var check_window_state = setInterval(function(){
+
+                    try{
+                        if(fb_login.name === "true" ||  fb_login.name === "false"  ){
+                            var status=fb_login.name;
+                            fb_login.close();
+
+                            clearInterval(check_window_state);
+                            if (status === "true") {
+                                window.location = '/accounts/activate/complete/';
+                            }
+                            else if (''.length > 0) {
+                                window.location = '';
+                            }
+                            else if (window.location.pathname.indexOf("register") !== -1 ||
+                                     window.location.pathname.indexOf("login") !== -1 ||
+                                     window.location.pathname.indexOf("password/reset") !== -1) {
+                                window.location = '/en-gb';
+                            }
+                            else {
+                                window.location.reload();
+                            }
+                        }
+                    }catch (a){
+
+                    }
+
+                }, 500);
+            }
+        </script>
+        
+        
+        
+
+
+        <div id="popup-container"></div>
+        <div id="registration-popup-wrapper"></div>
+        
+<script type="text/template" id="facebook-invite-popup-template">
+    <div id="facebook-invite-popup" class="fb-full-transparent" close>
+        <div  class="fb-invite-container" ng-controller="fbInviteController">
+            <div class="fb-invite-top">
+                <div class="right np-1vs1_x_close close "></div>
+            </div>
+            <div class="fb-invite-banner">
+                <div class="fb-invite-banner-left"></div>
+                <div class="fb-invite-banner-text">Get 10 coins for every friend invited!</div>
+                <div class="fb-invite-banner-right"></div>
+            </div>
+            <div class="fb-invite-content">
+                <div class="clearBoth"></div>
+                <div class="fb-invite-content-left"></div>
+                <div class="fb-invite-content-form">
+                    <form>
+                        <div class="fb-invite-select np-grey-box">
+                            <div class="top">
+                                <div class="form-head left">
+                                    <input ng-init="selectAll = true" ng-click="clickAll()" ng-model="selectAll" type="checkbox"/>
+                                    <div class="select-all">
+                                        SELECT ALL
+                                    </div>
+                                </div>
+                                
+                                <input type="text" placeholder="Search a friend" class="form-search right"  ng-model="searchFriend">
+                                <div class="clearBoth"></div>
+                            </div>
+                            <div class="form-list">
+                                
+
+                                <div class="friend invite-friend" ng-repeat="friend in friends  | filter:searchFriend" ng-hide="friend.send"
+                                     ng-animate="{show: 'invite-friend-show', hide: 'invite-friend-hide' }"
+                                        >
+                                    <input type="checkbox"  ng-model="friend.send" ng-click="checkClick()">
+                                    <span ng-click="friend.send = !friend.send">[[friend.name]]</span>
+                                </div>
+                            </div>
                         </div>
-                        <div class="greenText">
-                            <a onclick="document.location='/en-gb/accounts/register/'" href="javascript:void(0)">Register</a>    <span>|</span>    <a href="/en-gb/accounts/lp/login/">Login</a>
+                        <div class="fb-invite-selected np-grey-box">
+                            <div class="top">
+                                <div class="form-head left"><span id="selected-num">[[selectedFriends().length]]</span> Friends selected </div><div class="blue"> &nbsp;- Get <span id="earned-coins">[[value()]]</span> <img src="/static/img/icon/coins_small_shine.png"> Bonus!</div>
+                            </div>
+                            <div class="form-list">
+                                
+                                <div  class="selected-user left" ng-repeat="friend in selectedFriends()">
+                                    
+                                    <span class="remove"  ng-click="friend.send = false; checkClick()">x</span>
+                                    [[friend.name]]
+                                </div>
+                                <div class="clearBoth"></div>
+                            </div>
                         </div>
-                    </div>
+                        <div class="fb-invite-error"></div>
+                        
+                        <input type="submit" value="Invite" class="fb-invite-button right"  ng-click="sendInvite()">
+                    </form>
                 </div>
+                <div class="clearBoth"></div>
             </div>
         </div>
     </div>
+</script>
+        
+<script type="text/template" id="buy-coins-template">
+<div id="buy-coins" ng-controller="buyCoinsController" close>
+    <div class="np-popup-container">
+        <div class="np-ribbon-header">
+            <div class="np-ribbon-header-left"></div>
+            <div class="np-ribbon-header-text"><div class="plus"> Get Your Coins Now!</div></div>
+            <div class="np-ribbon-header-right"></div>
+        </div>
+        <div class="np-popup-main">
+            <div class="preload" ng-show="coins.length < 1">
+                    <img src="/static/img/players_slider_preloader.gif" alt=""/>
+            </div>
+            <div class="np-popup-main-white" >
+                <div class="np-close close right"></div>
+                <div class="clearBoth"></div>
+
+                <div class="np-popup-content" ng-show=' step == "checkout" '>
+                    <ul class="bc-list">
+                        <li class="bc-item amount" ng-class=" { checked: amount.buy } " ng-repeat="amount in coins">
+                            <div class="bc-label"></div>
+                            <div class="bc-label popular" ng-show="[[amount.popular]]"><img src="/static/img/popup/buy_coins/small-star-white.png"> &nbsp; Popular</div>
+                            <div class="bc-label value" ng-show="[[amount.best_value]]">Best Deal</div>
+                            <div class="popup-radio-button left"><input type="radio" name="item"  ng-value="amount.buy" ng-click="setAmount(amount)" ng-class=" { checked: amount.buy } " check="[[amount.buy]]"></div>
+                            <div class="bc-img level[[amount.ordinal]] left"></div>
+                            <div class="bc-amount left"><strong>[[amount.coins]]</strong> Coins</div>
+                            <div class="bc-price left">
+                                [[amount.orig_price]]
+                                <div class="crossout"></div>
+                            </div>
+                            <div class="bc-sale left">
+
+                                  <span ng-click="buy(amount)" class="green-btn-flat">[[amount.price]]$  </span>
+
+                            </div>
+                        </li>
+                    </ul>
+                    <span ng-show="coins.length > 0" target="_blank" ng-click="buy(selected)">
+                        <div class="orange-btn-flat">Continue</div>
+                    </span>
+                </div>
 
 
-    <div id="why_to_login_all" style="display: none;">
-        <div class="container">
-            <div style="display:block;" class="pp med">
-                <div class="pp-content">
-                    <a href="#" onclick="close_dialog('#why_to_login_all')" class="quitBtn">Close</a>
+                <div class="np-popup-content" ng-show=' step == "payment_options" '>
+                    <div class="payment-method" >
+                        <div class="pm-title">
+                            <div class="pm-title-text left">You've selected</div>
+                            <div class="pm-title-amount level[[selected.ordinal]] left"><strong>[[selected.coins]]</strong> Coins</div>
+                            <div class="pm-title-price left">for  [[selected.price]]$</div>
+                            <div class="clearBoth"></div>
+                        </div>
+                        <div class="pm-separator"></div>
+                        <div class="pm-choose">Choose Your  Payment Method</div>
 
-                    <h1 class="ppHeadline">Register Today</h1>
-                    <div style="text-align: center;">
-                        <h2 class="blueColor" style="padding-top: 10px;">Register for FREE to Gameoff and... </h2>
-                        <img src="/static/img/staticsPages/gameoff-icon.jpg">
-                        <img src="/static/img/staticsPages/two-cups.jpg">
-                        <img src="/static/img/staticsPages/vs-logo.jpg">
-                        <ul class="ul-v">
-                            <li><span>Play the most popular GAMES!</span></li>
-                            <li><span>Join Tournaments and get brilliant PRIZES!</span></li>
-                            <li><span>Challenge your friends to 1 VS 1 matches!</span></li>
-                        </ul>
-                        <div class="seperator-shadow-medium"></div>
-                        <div style="padding: 16px 0;">
-                            <a class="orangeBtn bigOrange" onclick="document.location='/en-gb/accounts/register/'" href="javascript:void(0)">
-                                <img src="/static/img/icon/c2.png" style="width: 50px; padding: 6px 9px 6px 0pt;"><span class="bigF" style="vertical-align: -5px">Register </span>
+                        <div class="pm-buttons">
+                            <a href="[[link(selected, true)]]" target="_blank" >
+                                <div class="grey-select-btn left" >
+                                    <div class="grey-select-btn-inner">
+                                        <img src="/static/img/popup/grey-button-icons/credit-cards.png">
+                                        <br><br>
+                                        Pay with credit card
+                                    </div>
+                                </div>
                             </a>
-                        </div>
-                        <div class="buttons-container">
-
-                            <a href="/en-gb/accounts/facebook_login_url/" class="blueBtn">Facebook Connect</a>
-                            <a href="/en-gb/accounts/lp/login/" class="greenBtn">Login</a>
+                            <a href="[[link(selected, false)]]" target="_blank" >
+                                <div class="grey-select-btn left">
+                                    <div class="grey-select-btn-inner">
+                                        <img src="/static/img/popup/grey-button-icons/pay-pal.png">
+                                        <br><br>
+                                        The safer, easier way to pay
+                                    </div>
+                                </div>
+                            </a>
+                            <div class="clearBoth"></div>
                         </div>
                     </div>
                 </div>
+
             </div>
         </div>
     </div>
 
 
-<script>
-    $('.facebook_login_botton-container').add('.facebook_login_botton').click(function(event){
-        var is_new_user = window.showModalDialog('/accounts/facebook_login','name','height=600,width=1060');
-
-        if (is_new_user === undefined) {
-            is_new_user = window.returnValue;
-        }
-
-        // If result is undefined facebook log in failed, do nothing
-        if (is_new_user) {
-            window.location = '/accounts/activate/complete/';
-        }
-        else if (typeof is_new_user !== 'undefined') {
-            window.location.reload();
-        }
-    });
+</div>
 </script>
 
+        
+<script type="text/template" id="earn-coins-template">
+    <div id="earn-coins" close>
+        <div class="np-popup-container">
+            <div class="np-ribbon-header">
+                <div class="np-ribbon-header-left"></div>
+                <div class="np-ribbon-header-text">Earn Your Coins Now!</div>
+                <div class="np-ribbon-header-right"></div>
+            </div>
+
+            <div class="np-popup-main">
+                <div class="np-popup-main-white">
+                    <div class="np-close close right"></div>
+                    <div class="clearBoth"></div>
+                    <div class="np-popup-content">
+                        <div class="ec-title">Choose How Many Coins u Wanna Get!</div>
+                        
+                            <div  facebook-invite="{doInvite: true}"></div>
+                        
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</script>
+        
+<script type="text/template" id="txt-me-app-template">
+<div id="txt-me-app" close>
+    <div class="np-popup-container">
+        <div class="np-ribbon-header">
+            <div class="np-ribbon-header-left"></div>
+            <div class="np-ribbon-header-text">Earn Your Coins Now!</div>
+            <div class="np-ribbon-header-right"></div>
+        </div>
+        <div class="np-popup-main">
+            <div class="np-popup-main-white">
+                <div class="np-close close right"></div>
+                <div class="clearBoth"></div>
+                <div class="np-popup-content">
+                    <iframe src="http://app.txtmeapp.com/pages/offer_wall?publisher_id=60001&site=[[ source ]]&placement=[[ source ]]&lang=en&page=1&afcid="></iframe>
+
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+</script>
+        
+<script type="text/template" id="daily-bonus-template" daily-bonus="">
+    <div id="daily_bonus" class="" close>
+        <div class="np-popup-container">
+            <div class="np-ribbon-header">
+                <div class="np-ribbon-header-left"></div>
+                <div class="np-ribbon-header-text">
+                    
+                        Enjoy Your Daily Bonus!
+                    
+                </div>
+                <div class="np-ribbon-header-right"></div>
+            </div>
+            <div class="np-popup-main">
+                <div class="np-popup-main-white">
+                    <div class="np-close close right"></div>
+                    <div class="clearBoth"></div>
+                    <div class="np-popup-content np-popup-content-stars">
+                        <div class="db-coins-counter">
+
+                            <div class="db-coins-counter-inner size0">
+                                <div class="db-coins-shiney left"></div>
+                                <div class="db-coins-amount left" style="">
+                                    <div id="flash_counter" ></div>
+                                </div>
+                                <div id="bonus_fade" class="db-coins-bonus right"> +0</div>
+                                <div class="clearBoth"></div>
+                            </div>
+                        </div>
+
+
+                        <div class="db-fb-actions" facebook-invite="{doInvite: true}" ng-show="liked">
+                            <div class="db-fb-title">Want More Coins? Invite Your Friends</div>
+                            <div class="db-fb-action">
+                                <div class="fb-invite-menu">
+                                    <div class="border1">
+                                        <div class="border2">
+                                            <div class="border3">
+                                                <div class="border4 btn-content">
+                                                    <div class="fb-f left"></div>
+                                                    <div class="fb-sep left"></div>
+                                                    <div class="fb-text">
+                                                        Invite Friends
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="db-fb-actions" ng-show="!liked">
+                            <div>
+                                <div class="db-fb-title">Get Rich With Your Daily Bonus</div>
+
+                                <div like>
+
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="np-popup-star-left"></div>
+                        <div class="np-popup-star-right"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</script>
+<script>
+    function show_flash_counter(){
+        var flashvars = {};
+        flashvars.score = 0;
+        flashvars.coins = 0;
+        flashvars.time = 3;
+
+        var params = {};
+        params.wmode = "transparent";
+        params.allowFullScreen="true";
+        var attributes = {};
+        attributes.id = "flashMovie";
+        swfobject.embedSWF( '/static/swf/ConterDown.swf', 'flash_counter', '115', '34', "9.0.115", false, flashvars, params, attributes );
+
+        window.setTimeout("fadeMyDiv();", 2000);
+    }
+    function fadeMyDiv() {
+        $('#bonus_fade').animate({opacity: 0}, {queue: false, duration: 3000});
+        $('#bonus_fade').animate({ 'margin-top': "-20px" }, 4000);
+    }
+</script>
+        
+<script type="text/template" id="out-of-coins-template" out-of-coins="">
+    <div id="out_of_coins"  close>
+        <div class="np-popup-container">
+            <div class="np-ribbon-header">
+                <div class="np-ribbon-header-left"></div>
+                <div class="np-ribbon-header-text">Oh no, not enough coins!</div>
+                <div class="np-ribbon-header-right"></div>
+            </div>
+
+            <div class="np-popup-main">
+                <div class="np-popup-main-white">
+                    <div class="np-close close right"></div>
+                    <div class="clearBoth"></div>
+                    <div class="np-popup-content">
+                        <div class="ooc-title">You can save your honor with these options</div>
+                        
+                            <div class="grey-select-btn left" id="buy" buy-coins>
+                                <div class="grey-select-btn-inner">
+                                    <div class="buy-text">Get Coins</div>
+                                    <img src="/static/img/popup/grey-button-icons/get-coins-big.png">
+                                </div>
+                            </div>
+                            <div class="grey-select-btn left" id="earn" facebook-invite="{doInvite: true}">
+                                <div class="grey-select-btn-inner">
+                                    <div class="fb-text">
+                                        
+                                            Facebook
+                                        
+                                    </div>
+                                    <img src="/static/img/popup/grey-button-icons/fb-big.png">
+                                    <br><br>
+                                    Invite your friends <br>for up to 500 coins!
+                                </div>
+                            </div>
+                        
+                        <div class="clearBoth"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</script>
+        
+<script type="text/template" id="thanks-popup-template" thanks-popup="">
+<div id="thanks-popup" close>
+    <div class="np-popup-container" ng-class="{'no-close-button': !showCloseButton}">
+        <div class="np-ribbon-header">
+            <div class="np-ribbon-header-left"></div>
+            <div class="np-ribbon-header-text" ng-show="showCongratulations">Congratulations!</div>
+            <div class="np-ribbon-header-text" ng-show="!showCongratulations">Thank You!</div>
+            <div class="np-ribbon-header-right"></div>
+        </div>
+        <div class="np-popup-main">
+            <div class="np-popup-main-white">
+                <div class="np-close close right" ng-show="showCloseButton"></div>
+                <div class="clearBoth"></div>
+                <div class="np-popup-content">
+                    <div class="np-popup-inner-container installation-complete">
+                        <div class="installation-complete-icon"></div>
+                        <span class="installation-complete-text">
+                            Your <span ng-bind="gameName" ng-show="showGameName"></span> installation is complete!
+                        </span>
+                    </div>
+                    <div class="np-popup-seperator" ng-show="showMiddleSeparator" ng-class="{'np-popup-big-seperator': showWorldOfAdventure}">
+                        <div class="big-text" ng-show="showWorldOfAdventure">
+                            <span class="np-popup-blue-text">Connect to Gameoff Now</span>
+                            <span class="np-popup-blue-text np-popup-blue-small-text">For a World of Adventure</span>
+                        </div>
+                        <div class="small-text" ng-show="!showWorldOfAdventure">
+                            <span class="np-popup-blue-text">Connect to Gameoff and Enjoy</span>
+                        </div>
+                    </div>
+                    <div class="fb-container grey-select-btn">
+                        <span class="facebook-arrow" ng-show="!showIconInstructions"></span>
+                        <div class="fb-button-container">
+                            <div class="facebook-text-instructions" ng-show="!showIconInstructions">
+                                <span class="facebook-connect-text" ng-show="showAlmostDone">Almost done...</span>
+                                <span class="facebook-connect-text" ng-show="!showAlmostDone">One click and you're signed up!</span>
+                            </div>
+                            <div class="facebook-icon-instructions" ng-show="showIconInstructions">
+                                <div class="icon-container">
+                                    <span class="icon 1vs1"></span>
+                                    <div class="icon-text">Live 1vs1</div>
+                                </div>
+                                <div class="icon-container">
+                                    <span class="icon free-games"></span>
+                                    <div class="icon-text">Free Games</div>
+                                </div>
+                                <div class="icon-container">
+                                    <span class="icon daily-bonus"></span>
+                                    <div class="icon-text">Daily Bonus</div>
+                                </div>
+                            </div>
+                            <a class="fb-button" ng-class="{'fb-big-button': showIconInstructions}">
+                                <span class="fb-text">Connect with</span>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+</script>
+        
+<script type="text/template" id="txtmeapp-message-template" txtmeapp-message="">
+    <div id="txtmeapp-message" close>
+        <div class="np-popup-container">
+            <div class="np-ribbon-header">
+                <div class="np-ribbon-header-left"></div>
+                <div class="np-ribbon-header-text">Enjoy Your txtMeApp Bonus!</div>
+                <div class="np-ribbon-header-right"></div>
+            </div>
+            <div class="np-popup-main">
+                <div class="np-popup-main-white">
+                    <div class="np-close close right"></div>
+                    <div class="clearBoth"></div>
+                    <div class="np-popup-content np-popup-content-stars">
+                        <div class="db-coins-counter">
+                            <div class="db-coins-counter-inner size0">
+                                <div class="db-coins-shiney left"></div>
+                                <div class="db-coins-amount left" style="">
+                                    <div id="flash_counter" ></div>
+                                </div>
+                                <div id="bonus_fade" class="db-coins-bonus right"> +[[ coins ]]</div>
+                                <div class="clearBoth"></div>
+                            </div>
+                        </div>
+
+
+                        <div class="db-fb-actions" facebook-invite="{doInvite: true}" ng-show="liked">
+                            <div class="db-fb-title">Want More Coins? Invite Your Friends</div>
+                            <div class="db-fb-action">
+                                <div class="fb-invite-menu">
+                                    <div class="border1">
+                                        <div class="border2">
+                                            <div class="border3">
+                                                <div class="border4 btn-content">
+                                                    <div class="fb-f left"></div>
+                                                    <div class="fb-sep left"></div>
+                                                    <div class="fb-text">
+                                                        Invite Friends
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="db-fb-actions" ng-show="!liked" ng-show="false">
+                            <div>
+                                <div class="db-fb-title">Get Rich With Your Daily Bonus</div>
+
+                                <div like>
+
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="np-popup-star-left"></div>
+                        <div class="np-popup-star-right"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</script>
+<script>
+    function show_txtmeapp_flash_counter(){
+        var flashvars = {};
+        flashvars.score = 0;
+        flashvars.coins = 0;
+        flashvars.time = 3;
+
+        var params = {};
+        params.wmode = "transparent";
+        params.allowFullScreen="true";
+        var attributes = {};
+        attributes.id = "flashMovie";
+        swfobject.embedSWF( '/static/swf/ConterDown.swf', 'flash_counter', '115', '34', "9.0.115", false, flashvars, params, attributes );
+
+        window.setTimeout("fadeMyDiv();", 2000);
+    }
+    function fadeMyDiv() {
+        $('#bonus_fade').animate({opacity: 0}, {queue: false, duration: 3000});
+        $('#bonus_fade').animate({ 'margin-top': "-20px" }, 4000);
+    }
+</script>
+        <div id="black-screen"></div>
+
+        
+
+
+    <div id="upgrade-popup" style="display: none;">
+
+    </div>
+
+    <style>
+        #gray{
+
+            position: fixed;
+            width: 100%;
+            height: 200%;
+            z-index: 1001;
+            top: 0px;
+            left: 0px;
+        }
+        #upgrade-popup{
+            display: none;
+            position: fixed;
+            width: 100%;
+            height: 200%;
+            background: rgba(128, 128, 128, 0.72);
+            z-index: 1001;
+            top: 0px;
+            left: 0px;
+        }
+    </style>
+    
+
+    
+    
+        <div class="left-tower tower">
+<script type="text/javascript"><!--
+google_ad_client = "ca-pub-4848338186598936";
+/* left-tower */
+google_ad_slot = "4041111404";
+google_ad_width = 160;
+google_ad_height = 600;
+google_page_url = window.location.href;
+//-->
+</script>
+<script type="text/javascript" src="//pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+</div>
+        <div class="right-tower tower" style="display: none;">
+<script type="text/javascript"><!--
+google_ad_client = "ca-pub-4848338186598936";
+/* right-towert */
+google_ad_slot = "8471311002";
+google_ad_width = 160;
+google_ad_height = 600;
+google_page_url = window.location.href;
+//-->
+</script>
+<script type="text/javascript" src="//pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+</div>
+    
 
 
 
-</div><div id="fancybox-tmp"></div><div id="fancybox-loading"><div></div></div><div id="fancybox-overlay"></div><div id="fancybox-wrap"><div id="fancybox-outer"><div class="fancybox-bg" id="fancybox-bg-n"></div><div class="fancybox-bg" id="fancybox-bg-ne"></div><div class="fancybox-bg" id="fancybox-bg-e"></div><div class="fancybox-bg" id="fancybox-bg-se"></div><div class="fancybox-bg" id="fancybox-bg-s"></div><div class="fancybox-bg" id="fancybox-bg-sw"></div><div class="fancybox-bg" id="fancybox-bg-w"></div><div class="fancybox-bg" id="fancybox-bg-nw"></div><div id="fancybox-content"></div><a id="fancybox-close"></a><div id="fancybox-title"></div><a href="javascript:;" id="fancybox-left"><span class="fancy-ico" id="fancybox-left-ico"></span></a><a href="javascript:;" id="fancybox-right"><span class="fancy-ico" id="fancybox-right-ico"></span></a></div></div><div id="wl_msg"></div></body></html>
+<div id="fancybox-tmp"></div><div id="fancybox-loading"><div></div></div><div id="fancybox-overlay"></div><div id="fancybox-wrap"><div id="fancybox-outer"><div class="fancybox-bg" id="fancybox-bg-n"></div><div class="fancybox-bg" id="fancybox-bg-ne"></div><div class="fancybox-bg" id="fancybox-bg-e"></div><div class="fancybox-bg" id="fancybox-bg-se"></div><div class="fancybox-bg" id="fancybox-bg-s"></div><div class="fancybox-bg" id="fancybox-bg-sw"></div><div class="fancybox-bg" id="fancybox-bg-w"></div><div class="fancybox-bg" id="fancybox-bg-nw"></div><div id="fancybox-content"></div><a id="fancybox-close"></a><div id="fancybox-title"></div><a href="javascript:;" id="fancybox-left"><span class="fancy-ico" id="fancybox-left-ico"></span></a><a href="javascript:;" id="fancybox-right"><span class="fancy-ico" id="fancybox-right-ico"></span></a></div></div></body></html>
