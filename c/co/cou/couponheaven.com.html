@@ -1,823 +1,211 @@
-<!--The following is the downloaded HTML source of the couponheaven.com privacy policy that was archived on 2013-05-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130505233526id_/http%3A//www.couponheaven.com/privacy.cfm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the couponheaven.com privacy policy that was archived on 2013-11-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131118102341id_/http%3A//www.couponheaven.com/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
-<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-
-<link rel="icon" href="http://www.couponheaven.com/images/chfavicon.ico" type="image/x-icon">
-<link rel="shortcut icon" href="http://www.couponheaven.com/images/chfavicon.ico" type="image/x-icon">
-<meta name="DESCRIPTION" content="">
-<meta name="KEYWORDS" content="">
-<title>Coupon Heaven: Privacy Policy</title>
-
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://www.couponheaven.com/ZeroClipboard.js"></script>
-<script type="text/javascript">
-
-  var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-378917-11']);
-  _gaq.push(['_trackPageview']);
-
-  (function() {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })();
-
-</script>
-<script src="http://www.couponheaven.com/scripts/mmHideShow.js"></script>
-<script type="text/javascript">
-function submitIT(){
-window.open('http://www.couponheaven.com/merchantpopup.cfm?merchant_id=' +document.store_form.merchant_id.value, 'offerpup', config='height=225,width=600,resizable=1');
-var theLocation = document.store_form.store.value;
-location = theLocation;
-}
-function offerPop(theOffer){
-window.open('http://www.couponheaven.com/offerpopup.cfm?offer_id=' +theOffer+ '&homelocation=' +window.location, 'offerpup', config='height=225,width=600,resizable=1,scrollbars=1');
-}
-function merchantPop(theMerchant, theLink){
-	if (theMerchant != ''){
-		window.open('http://www.couponheaven.com/merchantpopup.cfm?merchant_id=' +theMerchant+ '&homelocation=' +window.location, 'offerpup', config='height=225,width=600,resizable=1,scrollbars=1');
-	}
-}
-
-// popunder by Vincenzo ------------------------
-function goNewWin(page) {
- TheNewWin =window.open(page,'TheNewpop','toolbar=1,location=1,directories=1,status=1,menubar=1,scrollbars=1,resizable=1');
- TheNewWin.blur();
-}
-// popup by Vincenzo ------------------------
-function goNewWinUp(page) {
- TheNewWin =window.open(page,'TheNewpop','toolbar=1,location=1,directories=1,status=1,menubar=1,scrollbars=1,resizable=1');
-}
-//----------------------------------------------
-function goOffer(theID) {
-	if (theID != ''){
-		MM_showHideLayers('btmrightDiv','','show');
-		goNewWinUp('http://www.couponheaven.com/redirect2.cfm?id=' +theID);
-		setTimeout("MM_showHideLayers('btmrightDiv','','hide');",2000);
-	}
-}
-
-function goOfferUndah(theID) {
-	if (theID != ''){
-		MM_showHideLayers('btmrightDiv','','show');
-		goNewWin('http://www.couponheaven.com/redirect2.cfm?id=' +theID);
-		setTimeout("MM_showHideLayers('btmrightDiv','','hide');",2000);
-	}
-}
-
-function goOfferUp(theID) {
-	if (theID != ''){
-		MM_showHideLayers('btmrightDiv','','show');
-		location = 'http://www.couponheaven.com/redirect2.cfm?id=' +theID;
-		setTimeout("MM_showHideLayers('btmrightDiv','','hide');",2000);		
-	}
-}
-
-function topMenuOLD(theID) {
-	if (theID != ''){
-		merchantPop(theID);
-		MM_showHideLayers('btmrightDiv','','show');
-		location = 'http://www.couponheaven.com/m_redirect2.cfm?id=' +theID;
-	}
-}
-
-function topMenu(theID) {
-	if (theID != ''){
-		location = 'http://www.couponheaven.com/merchant.cfm/' +theID;
-	}
-}
-
-
-function submitBrands(){
- if (document.categories.Subcategory.value != '')
-{
-	var categoryLocation = 'http://www.couponheaven.com/brand_subcategory.cfm/' +document.categories.Subcategory.value;
-}
-else
-{
-	var categoryLocation = 'http://www.couponheaven.com/brand_category.cfm/' +document.categories.Category.value;
-}
-location = categoryLocation;
-}
-function submitCategories(){
- if (document.categories.Subcategory.value != '')
-{
-	var categoryLocation = 'http://www.couponheaven.com/subcategory.cfm/' +document.categories.Subcategory.value;
-}
-else
-{
-	var categoryLocation = 'http://www.couponheaven.com/category.cfm/' +document.categories.Category.value;
-}
-location = categoryLocation;
-}
-function goChange(theValue){
-	document.brands.brandID.value = theValue;
-}
-function goBrand(){
-	if (document.brands.brandID.value != ''){
-		window.location="http://www.couponheaven.com/brand_offers.cfm" +document.brands.brandID.value+ "_" +document.brands.category.value;
-	}
-}
-</script>
-
-<style type="text/css">
-<!--
-.style34 {font-family: Arial, Helvetica, sans-serif; font-size: 14px; font-weight: bold; color: #FFFFFF; }
-body {
-	margin-left: 0px;
-	margin-top: 0px;
-	margin-right: 0px;
-	margin-bottom: 0px;
-}
-.style35 {color: #CCCCCC;font-size: 18px;}
-
-.style36 {
-	font-family: Arial, Helvetica, sans-serif;
-	font-weight: bold;
-	font-size: 18px;
-	color: #FFCC66;
-}
-.style38 {
-	font-size: 18;
-	color: #FFFFFF;
-	font-weight: bold;
-}
-.style41 {
-	font-family: Arial, Helvetica, sans-serif;
-	font-weight: bold;
-	color: #FFFFFF;
-}
--->
-</style>
-<link href="http://www.couponheaven.com/styles/main.css" rel="stylesheet" type="text/css"></head>
-
-<body>
-
-<div align="center" id="btmrightDiv">Loading deal, please wait.<br><img src="http://www.couponheaven.com/images/loading_transp.gif"></div>
-<table width="760" border="0" bordercolor="#0066FF" align="center" cellpadding="0" cellspacing="0">
-  <tbody><tr>
-    <td width="100%"><table width="100%" border="0" cellspacing="0" cellpadding="0">
-        <tbody><tr>
-          <td valign="top" width="426" background="http://www.couponheaven.com/images/bkg_purple.JPG"><a href="http://www.couponheaven.com"><img src="http://www.couponheaven.com/images/sub_header.jpg" width="426" height="126" border="0"></a></td>
-          <td valign="top" align="left" background="http://www.couponheaven.com/images/subheader_bkg.jpg">
-			<table height="126" border="0" cellpadding="0" cellspacing="0">
-			<tbody><tr>
-				<td height="50" align="left"><a href="http://www.couponheaven.com/tour.cfm"><img src="http://www.couponheaven.com/images/hdrsub_a.jpg" width="334" height="50" border="0"></a></td>
-			</tr>
-			<tr>
-				<td align="right" background="http://www.couponheaven.com/images/hdrsub_b2.jpg">
-					<img src="http://www.couponheaven.com/images/SPACER.gif" width="1" height="36"><br>
-					<table width="300" border="0" cellpadding="0" cellspacing="0">
-					<tbody><tr><form name="store_form" method="get" action="http://www.couponheaven.com/stores/index.cfm"></form>
-						<td width="35" height="40"><img src="http://www.couponheaven.com/images/SPACER.gif" width="1" height="1"><br><br></td>
-						<td width="215" align="right">
-							<select name="store" size="1" style="font-size:11px; font-family:Arial, Helvetica, sans-serif;">
-							<option value="" selected="">Choose a Store</option>
-							
-							<option value="123inkjets">123 Inkjets</option>
-							
-							<option value="1800baskets">1800Baskets</option>
-							
-							<option value="1800contacts">1800Contacts</option>
-							
-							<option value="1800flowers">1800Flowers</option>
-							
-							<option value="4inkjets">4inkjets</option>
-							
-							<option value="7forallmankind">7 For All Mankind</option>
-							
-							<option value="academicsuperstore">Academic Superstore</option>
-							
-							<option value="macromedia">Adobe / Macromedia</option>
-							
-							<option value="alibris">Alibris</option>
-							
-							<option value="allposters">All Posters</option>
-							
-							<option value="alloy">Alloy</option>
-							
-							<option value="amerimark">AmeriMark</option>
-							
-							<option value="Ann Taylor">Ann Taylor</option>
-							
-							<option value="annsbridalbargains">Ann's Bridal Bargains</option>
-							
-							<option value="art">Art.com</option>
-							
-							<option value="ashford">Ashford</option>
-							
-							<option value="autoanything">Auto Anything</option>
-							
-							<option value="avenue">Avenue</option>
-							
-							<option value="babyage">Baby Age</option>
-							
-							<option value="bagsbuy">Bagsbuy</option>
-							
-							<option value="bananarepublic">Banana Republic</option>
-							
-							<option value="barenecessities">Bare Necessities</option>
-							
-							<option value="brylanecatalogoutlet">Bargain Catalog Outlet</option>
-							
-							<option value="batteries">Batteries.com</option>
-							
-							<option value="bealls">Bealls Florida</option>
-							
-							<option value="bedfordfair">Bedford Fair</option>
-							
-							<option value="benefitcosmetics">Benefit Cosmetics</option>
-							
-							<option value="bestdealmag">Best Deal Magazines</option>
-							
-							<option value="bettymills">Betty Mills</option>
-							
-							<option value="blinds">Blinds.com</option>
-							
-							<option value="bloomingdales">Bloomingdales</option>
-							
-							<option value="bluefly">Bluefly</option>
-							
-							<option value="bodybuilding">BodyBuilding.com</option>
-							
-							<option value="bonton">Bon-Ton</option>
-							
-							<option value="bootbarn">Boot Barn</option>
-							
-							<option value="brookstone">Brookstone</option>
-							
-							<option value="brylanehome">Brylane Home</option>
-							
-							<option value="buildabear">Build a Bear</option>
-							
-							<option value="buy">Buy.com</option>
-							
-							<option value="calendars">Calendars.com</option>
-							
-							<option value="carolwrightgifts">Carol Wright Gifts</option>
-							
-							<option value="casualmale">Casual Male</option>
-							
-							<option value="catherines">Catherines</option>
-							
-							<option value="chadwicks">Chadwicks</option>
-							
-							<option value="cheaptickets">Cheap Tickets</option>
-							
-							<option value="chicos">Chico's</option>
-							
-							<option value="coastalcontacts">Coastal Contacts</option>
-							
-							<option value="collectionsetc">Collections Etc.</option>
-							
-							<option value="colorfulimages">Colorful Images</option>
-							
-							<option value="computergeeks">Computer Geeks</option>
-							
-							<option value="cooking">Cooking.com</option>
-							
-							<option value="cushmans">Cushman's Fruit</option>
-							
-							<option value="cutterbuck">Cutter and Buck</option>
-							
-							<option value="danskin">Danskin</option>
-							
-							<option value="davidscookies">Davids Cookies</option>
-							
-							<option value="delias">Delias</option>
-							
-							<option value="dellhome">Dell Home</option>
-							
-							<option value="dentalplans">Dental Plans</option>
-							
-							<option value="dermadoctor">Dermadoctor</option>
-							
-							<option value="diamondsinternational">Diamonds International</option>
-							
-							<option value="dickblick">Dick Blick Art Materials</option>
-							
-							<option value="discountcontactlenses">Discount Contact Lenses</option>
-							
-							<option value="disneydirect">Disney Store</option>
-							
-							<option value="drleonards">Dr Leonards</option>
-							
-							<option value="drugstore">Drugstore.com</option>
-							
-							<option value="dutchgardens">Dutch Gardens</option>
-							
-							<option value="easyspirit">Easy Spirit</option>
-							
-							<option value="ebags">eBags</option>
-							
-							<option value="elizabetharden">Elizabeth Arden</option>
-							
-							<option value="executiveessentials">Executive Essentials</option>
-							
-							<option value="fabric">Fabric.com</option>
-							
-							<option value="finishline">Finish Line</option>
-							
-							<option value="fleurop">Fleurop</option>
-							
-							<option value="florsheim">Florsheim</option>
-							
-							<option value="footlocker">Footlocker</option>
-							
-							<option value="forzieri">Forzieri</option>
-							
-							<option value="fragrancenet">FragranceNet</option>
-							
-							<option value="fragrancex">FragranceX</option>
-							
-							<option value="franklincovey">Franklin Covey</option>
-							
-							<option value="franklinmint">Franklin Mint</option>
-							
-							<option value="freshpair">Freshpair</option>
-							
-							<option value="fromyouflowers">From You Flowers</option>
-							
-							<option value="ftd">FTD</option>
-							
-							<option value="fujitsu">Fujitsu</option>
-							
-							<option value="funjetvacations">Funjet Vacations</option>
-							
-							<option value="gaiam">Gaiam</option>
-							
-							<option value="gamestop">Gamestop</option>
-							
-							<option value="gandermountain">Gander Mountain</option>
-							
-							<option value="gap">Gap</option>
-							
-							<option value="gevalia">Gevalia</option>
-							
-							<option value="giftbaskets">GiftBaskets.com</option>
-							
-							<option value="gnc">GNC</option>
-							
-							<option value="gosmile">Go SMILE</option>
-							
-							<option value="godaddy">GoDaddy</option>
-							
-							<option value="golfballs">Golfballs.com</option>
-							
-							<option value="greensplus">Greens Plus</option>
-							
-							<option value="gurneys">Gurneys</option>
-							
-							<option value="h2oplus">H2O Plus</option>
-							
-							<option value="haband">Haband</option>
-							
-							<option value="hammacherschlemmer">Hammacher Schlemmer</option>
-							
-							<option value="harryanddavid">Harry and David</option>
-							
-							<option value="homedecoratorscollection">Home Decorators Collection</option>
-							
-							<option value="homedepot">Home Depot</option>
-							
-							<option value="hsn">Home Shopping Network</option>
-							
-							<option value="hookedonphonics">Hooked on Phonics</option>
-							
-							<option value="horchow">Horchow</option>
-							
-							<option value="hottopic">Hot Topic</option>
-							
-							<option value="hphomestore">HP Home Store</option>
-							
-							<option value="ice">Ice.com</option>
-							
-							<option value="iherb">iHerb.com</option>
-							
-							<option value="irvs">Irvs Luggage Warehouse</option>
-							
-							<option value="islandsurf">Island Surf</option>
-							
-							<option value="jcrewfactory">J Crew Factory</option>
-							
-							<option value="jjill">J Jill</option>
-							
-							<option value="jacksonperkins">Jackson and Perkins</option>
-							
-							<option value="jcpenney">JC Penney</option>
-							
-							<option value="jcwhitney">JC Whitney</option>
-							
-							<option value="jessicalondon">Jessica London</option>
-							
-							<option value="josabank">Jos. A. Bank</option>
-							
-							<option value="justflowers">Just Flowers</option>
-							
-							<option value="keds">Keds</option>
-							
-							<option value="kellysrunningwarehouse">Kellys Running Warehouse</option>
-							
-							<option value="kiehls">Kiehl’s</option>
-							
-							<option value="kingsizedirect">King Size Direct</option>
-							
-							<option value="kmart">Kmart</option>
-							
-							<option value="kohls">Kohls</option>
-							
-							<option value="landsend">Lands End</option>
-							
-							<option value="lanebryant">Lane Bryant</option>
-							
-							<option value="lastcall">Last Call by Neiman Marcus</option>
-							
-							<option value="leapfrog">Leap Frog</option>
-							
-							<option value="leapsandbounds">Leaps and Bounds</option>
-							
-							<option value="legalseafoods">Legal Sea Foods</option>
-							
-							<option value="thinkpad">Lenovo: ThinkPad | ThinkCentre</option>
-							
-							<option value="lens">Lens.com</option>
-							
-							<option value="lensmart">Lensmart</option>
-							
-							<option value="lids">Lids</option>
-							
-							<option value="lillianvernon">Lillian Vernon</option>
-							
-							<option value="limogesjewelry">Limoges Jewelry</option>
-							
-							<option value="anntaylorloft">LOFT</option>
-							
-							<option value="lordandtaylor">Lord and Taylor</option>
-							
-							<option value="luggagepoint">LuggagePoint</option>
-							
-							<option value="macys">Macys</option>
-							
-							<option value="magazines">Magazines.com</option>
-							
-							<option value="magmall">Magmall</option>
-							
-							<option value="marriott">Marriott</option>
-							
-							<option value="maxstudio">Max Studio</option>
-							
-							<option value="medifast">Medifast</option>
-							
-							<option value="melissaanddoug">Melissa and Doug</option>
-							
-							<option value="lerner">Metrostyle</option>
-							
-							<option value="motorcyclesuperstore">Motorcycle Superstore</option>
-							
-							<option value="mrsfields">Mrs Fields</option>
-							
-							<option value="musicspace">Musicspace</option>
-							
-							<option value="mymms">My M&amp;M's</option>
-							
-							<option value="mytwinn">My Twinn</option>
-							
-							<option value="neostrata">NeoStrata</option>
-							
-							<option value="networksolutions">Network Solutions</option>
-							
-							<option value="nordstrom">Nordstrom</option>
-							
-							<option value="officedepot">Office Depot</option>
-							
-							<option value="oldnavy">Old Navy</option>
-							
-							<option value="oldpueblotrading">Old Pueblo Traders</option>
-							
-							<option value="onestepahead">One Step Ahead</option>
-							
-							<option value="oneshare">Oneshare</option>
-							
-							<option value="onlineshoes">Online Shoes</option>
-							
-							<option value="orbitz">Orbitz</option>
-							
-							<option value="organicbouquet">Organic Bouquet</option>
-							
-							<option value="origins">Origins</option>
-							
-							<option value="overstock">Overstock.com</option>
-							
-							<option value="overtons">Overtons</option>
-							
-							<option value="paulfredrick">Paul Fredrick</option>
-							
-							<option value="payless">Payless</option>
-							
-							<option value="personalizationmall">Personalization Mall</option>
-							
-							<option value="petcarerx">PetCareRx</option>
-							
-							<option value="petco">Petco</option>
-							
-							<option value="petsmart">Petsmart</option>
-							
-							<option value="pingo">Pingo</option>
-							
-							<option value="plowandhearth">Plow and Hearth</option>
-							
-							<option value="powells">Powell's Books</option>
-							
-							<option value="prescriptives">Prescriptives</option>
-							
-							<option value="proflowers">Proflowers</option>
-							
-							<option value="register">Register.com</option>
-							
-							<option value="roamans">Roamans</option>
-							
-							<option value="rochesterbigtall">Rochester Clothing</option>
-							
-							<option value="rosssimons">Ross Simons</option>
-							
-							<option value="rubbermaid">Rubbermaid</option>
-							
-							<option value="saks">Saks Fifth Avenue</option>
-							
-							<option value="sandals">Sandals</option>
-							
-							<option value="saucony">Saucony</option>
-							
-							<option value="scholasticstore">Scholastic Store</option>
-							
-							<option value="sears">Sears</option>
-							
-							<option value="sephora">Sephora</option>
-							
-							<option value="shoebuy">Shoebuy</option>
-							
-							<option value="shoeline">Shoeline</option>
-							
-							<option value="shoes">Shoes.com</option>
-							
-							<option value="shutterfly">Shutterfly</option>
-							
-							<option value="sierratradingpost">Sierra Trading Post</option>
-							
-							<option value="skechers">Skechers</option>
-							
-							<option value="skinstore">Skinstore</option>
-							
-							<option value="skymall">Sky Mall</option>
-							
-							<option value="smartbargains">Smartbargains</option>
-							
-							<option value="smithsonian">Smithsonian</option>
-							
-							<option value="snapfish">Snapfish</option>
-							
-							<option value="sonystyle">Sonystyle</option>
-							
-							<option value="swavacations">Southwest Airlines Vacations</option>
-							
-							<option value="spafinder">Spa Finder</option>
-							
-							<option value="spalook">Spalook</option>
-							
-							<option value="stacyadams">Stacy Adams</option>
-							
-							<option value="surefit">Surefit</option>
-							
-							<option value="target">Target</option>
-							
-							<option value="tassimo">Tassimo</option>
-							
-							<option value="taylorgifts">Taylor Gifts</option>
-							
-							<option value="teavana">Teavana</option>
-							
-							<option value="teleflora">Teleflora</option>
-							
-							<option value="thepopcornfactory">The Popcorn Factory</option>
-							
-							<option value="theshoemart">The Shoe Mart</option>
-							
-							<option value="thingsremembered">Things Remembered</option>
-							
-							<option value="thrifty">Thrifty</option>
-							
-							<option value="timberland">Timberland</option>
-							
-							<option value="timelife">Timelife</option>
-							
-							<option value="tirerack">Tire Rack</option>
-							
-							<option value="toshiba">Toshiba</option>
-							
-							<option value="tracfone">Tracfone</option>
-							
-							<option value="travelocity">Travelocity</option>
-							
-							<option value="truereligionbrandjeans">True Religion Brand Jeans</option>
-							
-							<option value="ullapopken">Ulla Popken</option>
-							
-							<option value="ulta">Ulta</option>
-							
-							<option value="unitedshades">United Shades</option>
-							
-							<option value="valorebooks">Valore Books</option>
-							
-							<option value="visiondirect">Vision Direct</option>
-							
-							<option value="vistaprint">Vista Print</option>
-							
-							<option value="vons">Vons</option>
-							
-							<option value="walgreens">Walgreens</option>
-							
-							<option value="weightwatchers">Weight Watchers</option>
-							
-							<option value="westmarine">West Marine</option>
-							
-							<option value="willowridge">Willow Ridge</option>
-							
-							<option value="wilsonsleather">Wilsons Leather</option>
-							
-							<option value="wine">Wine.com</option>
-							
-							<option value="womanwithin">Woman Within</option>
-							
-							<option value="yvesrocher">Yves Rocher</option>
-							
-							<option value="zales">Zales</option>
-							
-							</select>
-						</td>
-						<td><img src="http://www.couponheaven.com/images/SPACER.gif" width="5" height="1"><a href="#" class="whitelink" onclick="topMenu(document.store_form.store.options[document.store_form.store.selectedIndex].value);">Go!</a><img src="http://www.couponheaven.com/images/SPACER.gif" width="10" height="1"></td>
-						
-					</tr>
-					</tbody></table>
-				</td>
-			</tr>
-			</tbody></table>		  
-		</td>
-	</tr>
-	</tbody></table>
-</td>
-</tr>
-	<tr>
-		<td>
-		<table cellpadding="0" cellspacing="0" width="100%">
-		<tbody><tr>
-		  <td background="http://www.couponheaven.com/images/bluebar_bkg.jpg"><img src="http://www.couponheaven.com/images/bluebar_bkg.jpg" width="6" height="2"></td>
-		  <td background="http://www.couponheaven.com/images/bluebar_bkg.jpg"></td>
-		  <td background="http://www.couponheaven.com/images/bluebar_bkg.jpg"></td>
-		  <td background="http://www.couponheaven.com/images/bluebar_bkg.jpg"></td>
-		  <td background="http://www.couponheaven.com/images/bluebar_bkg.jpg"></td>			
-		</tr>
-		</tbody></table>		
-		</td>
-
-	</tr>
-  <tr>
-    <td background="http://www.couponheaven.com/images/bkg_dkblue.jpg" valign="middle">
-		<table width="100%" border="0" cellspacing="0" cellpadding="0" background="http://www.couponheaven.com/images/bkg_dkblue.jpg"><form name="form1" method="post" action="http://www.couponheaven.com/search.cfm"></form>
-		<tbody><tr>
-			<td valign="middle">&nbsp;&nbsp;<span class="style41">Search</span>&nbsp;&nbsp;<input type="text" name="search"><img src="http://www.couponheaven.com/images/SPACER.gif" width="1" height="1">&nbsp;<a href="#" class="whitelink" onclick="document.form1.submit();">Go!</a></td>
-			<td width="300" align="right" valign="middle">
-			<span class="style41">Search by:</span>&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.couponheaven.com/category_search.cfm" class="whitelink">Category</a>&nbsp;&nbsp;<span class="style38">|</span>&nbsp;&nbsp;<a href="http://www.couponheaven.com/merchant_search.cfm" class="whitelink">Store</a>&nbsp;&nbsp;&nbsp;</td>
-		</tr>
-		</tbody></table>
-	</td>
-  </tr>
-	<tr>
-		<td>
-		<table cellpadding="0" cellspacing="0" width="100%">
-		<tbody><tr>
-		  <td background="http://www.couponheaven.com/images/bluebar_bkg.jpg"><img src="http://www.couponheaven.com/images/bluebar_bkg.jpg" width="6" height="2"></td>
-		  <td background="http://www.couponheaven.com/images/bluebar_bkg.jpg"></td>
-		  <td background="http://www.couponheaven.com/images/bluebar_bkg.jpg"></td>
-		  <td background="http://www.couponheaven.com/images/bluebar_bkg.jpg"></td>
-		  <td background="http://www.couponheaven.com/images/bluebar_bkg.jpg"></td>			
-		</tr>
-		</tbody></table>		
-		</td>
-	</tr>
-  <tr>
-    <td valign="top" background="http://www.couponheaven.com/images/bkg_white.jpg"><table width="760" border="0" cellpadding="0" cellspacing="0" background="http://www.couponheaven.com/images/bkg_white.jpg">
-        <tbody><tr>
-          <td height="849" valign="top"><table width="467" border="0" cellspacing="0" cellpadding="0">
-            <tbody><tr>
-              <td valign="top"><table width="467" border="0" cellspacing="0" cellpadding="0">
-                <tbody><tr>
-                  <td colspan="3" height="25" valign="top" background="http://www.couponheaven.com/images/bar_asub.jpg">
-					<table border="0" cellspacing="0" cellpadding="0" width="250">
-                      <tbody><tr>
-                        <td class="style35">&nbsp;</td>
-						<td class="style35">
-							<a href="http://www.couponheaven.com/newsletter.cfm" class="greylink">Newsletter</a>
-							&nbsp;<span class="style35">|&nbsp;</span>
-							<a href="http://blog.couponheaven.com" class="greylink">Blog</a>
-							&nbsp;&nbsp;
-							<div align="right" class="socialLinks">
-							<a href="https://www.facebook.com/CouponHeaven" alt="couponheaven.com facebook page" target="_blank"><img src="http://www.couponheaven.com/images/small_facebook.png" id="fb_link"></a>
-							<a href="https://twitter.com/couponheaven" target="_blank"><img src="http://www.couponheaven.com/images/small_twitter.png" id="twitter_link"></a>
-							</div>
-						</td>
-                      </tr>
-                  </tbody></table></td>
-                </tr>
-                <tr>
-                  <td colspan="3">&nbsp;</td>
-                </tr>
-                <tr>
-				<td><img src="http://www.couponheaven.com/images/spacer.gif" width="15"></td>
-                  <td height="100%">
-
-<br>
-<table width="450" border="0" cellpadding="0" cellspacing="0" align="center">
-<tbody><tr>
-	<td class="ttl">
-		<br>Privacy Policy<br><br>
-	</td>
-</tr>
-<tr>
-	<td>
-	<span class="breadcrumb"> <a href="http://www.couponheaven.com/index.cfm" class="breadcrumb">Home</a> &gt;  Privacy Policy</span><br><br><br></td>
-</tr>
-<tr>
-	<td>
-		<span class="breadcrumb">General</span>
-		<p><font size="2" face="Arial, Helvetica, sans-serif">You privacy is very important to us! CouponHeaven.com does not require a user name or password at any time, and you are free to use our site anonymously.</font></p>
-		<span class="breadcrumb">Newsletter</span>
-		<p><font size="2" face="Arial, Helvetica, sans-serif">Our newsletter registration form requires you to submit your e-mail address.  We use the double opt-in method to make sure that legitimate requests for this newsletter occur. That means that you submit your e-mail address, and then you must click on a link in the confirmation e-mail we send in order to confirm your interest in our newsletter. You may opt out at any time. <em>Your information will never be shared with anyone - period.</em></font></p>
+<!DOCTYPE html><html lang="en-US" prefix="og: http://ogp.me/ns#" class="no-js"><!--<![endif]--><head>
+		<meta charset="utf-8">
+        <meta http-equiv="content-type" content="text/html;charset=UTF-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+				<title>Privacy Policy | Coupon Heaven</title>
+		                
+		<meta name="viewport" content="width=device-width; initial-scale=1.0">
 		
-		<span class="breadcrumb">Tell-A-Friend</span>
-		<p><font size="2" face="Arial, Helvetica, sans-serif">If you elect to use our “Tell-a-Friend” service to refer a friend to our site, you will be asked for the friend’s name and email address (as well as your own).  Your friend will receive a one-time email inviting them to visit the site.  CouponHeaven.com stores this information for the sole purpose of sending this one-time email.  <em>Your information and your friend’s information will never be shared with anyone - period.</em></font></p>
-		<span class="breadcrumb">Opt-out</span>
-		<p><font size="2" face="Arial, Helvetica, sans-serif">Users who no longer wish to receive our newsletter may opt-out at any time by using the unsubscribe link in the newsletter.</font></p>
-		<span class="breadcrumb">Links</span>
-		<p><font size="2" face="Arial, Helvetica, sans-serif">This site contains links to other Web sites. CouponHeaven.com is not responsible for the privacy practices, use of cookies, or the content of such Web sites (please see our Terms and Conditions for more information). This privacy statement applies solely to information collected by this Web site.</font></p>
-		<span class="breadcrumb">Traffic Data</span>
-		<p><font size="2" face="Arial, Helvetica, sans-serif">Data about traffic and usage is not personally identifying or identifiable. Our web server logs provide us with details such as your IP address, the geographic location of your ISP, the type of browser you are using, and what site "referred" you to CouponHeaven.com. We may use some of this data to improve our site, so that we may provide the best experience for our users.</font></p>
-		<span class="breadcrumb">Cookies</span>
-		<p><font size="2" face="Arial, Helvetica, sans-serif">CouponHeaven.com does not use cookies. However, our third-party advertisers may place or recognize a unique "cookie" on your browser when you click on a link that takes you to their site. We are not responsible in any way for the privacy policies of other web sites, or for their tracking methods. If you choose to set your browser software to reject cookies, you may not be able to use all of our features, including redeeming coupons.</font></p>
-		<span class="breadcrumb">Security</span>
-		<p><font size="2" face="Arial, Helvetica, sans-serif">CouponHeaven.com has procedures in place to safeguard and secure the information it collects online. Security breaches do occur, however, and CouponHeaven.com will not be liable or responsible if information that belongs to you is intercepted and used by an unintended recipient.</font></p>
-	</td>
-</tr>
-</tbody></table>
+		<!-- icons & favicons -->
+		<!-- For iPhone 4 -->
+		<link rel="apple-touch-icon-precomposed" sizes="114x114" href="http://www.couponheaven.com/wp-content/themes/coupon-heaven/library/images/icons/h/apple-touch-icon.png">
+		<!-- For iPad 1-->
+		<link rel="apple-touch-icon-precomposed" sizes="72x72" href="http://www.couponheaven.com/wp-content/themes/coupon-heaven/library/images/icons/m/apple-touch-icon.png">
+		<!-- For iPhone 3G, iPod Touch and Android -->
+		<link rel="apple-touch-icon-precomposed" href="http://www.couponheaven.com/wp-content/themes/coupon-heaven/library/images/icons/l/apple-touch-icon-precomposed.png">
+		<!-- For Nokia -->
+		<link rel="shortcut icon" href="http://www.couponheaven.com/wp-content/themes/coupon-heaven/library/images/icons/l/apple-touch-icon.png">
+		<!-- For everything else -->
+		<link rel="shortcut icon" href="http://www.couponheaven.com/wp-content/themes/coupon-heaven/favicon.ico">
+				
+		<!-- media-queries.js (fallback) -->
+		<!--[if lt IE 9]>
+			<script src="http://css3-mediaqueries-js.googlecode.com/svn/trunk/css3-mediaqueries.js"></script>
+            <style>.mainbox, .vert-dash { height:420px !important; }
+			</style>		
+		<![endif]-->
+
+		<!-- html5.js -->
+		<!--[if lt IE 9]>
+			<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+		<![endif]-->
+		
+		
+		
+  		<link rel="pingback" href="http://www.couponheaven.com/xmlrpc.php">
+		
+		
+		
+		
+				
+		
+		
+		
+		
+		<!-- wordpress head functions -->
+		
+<!-- This site is optimized with the Yoast WordPress SEO plugin v1.4.7 - http://yoast.com/wordpress/seo/ -->
+<link rel="canonical" href="http://www.couponheaven.com/privacy-policy/">
+<meta property="og:locale" content="en_US">
+<meta property="og:type" content="article">
+<meta property="og:title" content="Privacy Policy - Coupon Heaven">
+<meta property="og:url" content="http://www.couponheaven.com/privacy-policy/">
+<meta property="og:site_name" content="Coupon Heaven">
+<!-- / Yoast WordPress SEO plugin. -->
+
+<link rel="stylesheet" id="roboto-css" href="http://fonts.googleapis.com/css?family=Roboto+Condensed%3A400%2C300%2C300italic%2C400italic%2C700%2C700italic&amp;ver=3.5.1" type="text/css" media="all">
+<link rel="stylesheet" id="foundation-app-css" href="http://www.couponheaven.com/wp-content/themes/coupon-heaven/stylesheets/foundation.css?ver=3.0" type="text/css" media="all">
+<script type="text/javascript" async="" src="https://btn.createsend1.com/js/sb.min.js?v=2" class="createsend-script"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.1/jquery.min.js?ver=3.5.1"></script>
+<script type="text/javascript" src="http://www.couponheaven.com/wp-content/themes/coupon-heaven/javascripts/modernizr.foundation.js?ver=3.5.1"></script>
+<script type="text/javascript" src="http://www.couponheaven.com/wp-content/themes/coupon-heaven/javascripts/foundation.min.js?ver=3.5.1"></script>
+<script type="text/javascript" src="http://www.couponheaven.com/wp-content/themes/coupon-heaven/javascripts/jquery.foundation.forms.js?ver=3.5.1"></script>
+<script type="text/javascript" src="http://www.couponheaven.com/wp-content/themes/coupon-heaven/javascripts/jquery.foundation.orbit.js?ver=3.5.1"></script>
+<script type="text/javascript" src="http://www.couponheaven.com/wp-content/themes/coupon-heaven/javascripts/jquery.event.swipe.js?ver=3.5.1"></script>
+<script type="text/javascript" src="http://www.couponheaven.com/wp-content/themes/coupon-heaven/javascripts/jquery.cycle.js?ver=3.5.1"></script>
+<script type="text/javascript" src="http://www.couponheaven.com/wp-content/themes/coupon-heaven/javascripts/app.js?ver=3.5.1"></script>
+<script type="text/javascript" src="http://www.couponheaven.com/wp-content/themes/coupon-heaven/javascripts/jquery.popupWindow.js?ver=3.5.1"></script>
+<script type="text/javascript" src="http://www.couponheaven.com/wp-includes/js/comment-reply.min.js?ver=3.5.1"></script>
+<link rel="Shortcut Icon" type="image/x-icon" href="http://www.couponheaven.com/wp-content/uploads/2013/02/icon1.ico">	<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
+		<!-- end of wordpress head -->
+
+		<link rel="stylesheet" type="text/css" media="all" href="http://www.couponheaven.com/wp-content/themes/coupon-heaven/style.css">
+		
+        <script type="text/javascript">
+		  var _gaq = _gaq || [];
+		  _gaq.push(['_setAccount', 'UA-39151452-1']);
+		  _gaq.push(['_trackPageview']);
+		  (function() {
+			var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+			ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		  })();
+		</script>
+        
+	</head>
+	
+	<body class="page page-id-165 page-template-default">
+
+		<div class="row container">
+			<div class="five columns logobox">
+					<a class="brand" id="logo" href="http://www.couponheaven.com"><img src="http://www.couponheaven.com/wp-content/themes/coupon-heaven/images/coupon-heaven-logo.png" alt="CouponHeaven.com Home Page: Coupon Codes and Web Discounts"></a>
+			</div>
+            <div class="seven columns">
+            	<div class="row hide-for-small">
+                 	<div class="seven columns tight">
+                    	<div class="darkblue radius-medium radius-top-none topcols shadowdark">
+                                                	<h2>832</h2>
+                                                    	<img src="http://www.couponheaven.com/wp-content/themes/coupon-heaven/images/new-deals.png" alt="New Deals">
+                        </div>
+                     </div>
+                     <div class="five columns tight">
+                     	<div class="darkblue radius-medium radius-top-none topcols shadowdark">
+                        	<img src="http://www.couponheaven.com/wp-content/themes/coupon-heaven/images/email-list.png" alt="Join Email List">
+							<div class="createsend-button" style="height:22px;display:inline-block;" data-listid="i/50/0F3/7DA/5322D7968EEE0C59">
+</div><script type="text/javascript">(function () { var e = document.createElement('script'); e.type = 'text/javascript'; e.async = true; e.src = ('https:' == document.location.protocol ? 'https' : 'http') + '://btn.createsend1.com/js/sb.min.js?v=2'; e.className = 'createsend-script'; var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(e, s); })();</script>
+
+                     </div>
+                </div>
+                <div class="row hide-for-small">
+                	<div class="twelve columns tight">
+                     	<div class="darkblue radius-medium shadowdark searchbar">
+                        	<div class="row">
+                            	<div class="eight columns searcharea">
+                                	<p>SEARCH BY KEYWORD</p>
+                                    <form name="searchForm" action="/results/" method="get" id="searchForm">
+                                        <input type="text" placeholder="enter search term" name="search" id="searchinput" class="radius" required="">
+                                        <input type="image" src="http://www.couponheaven.com/wp-content/themes/coupon-heaven/images/button-submit.png" id="emailsubmit">
+                                    </form>
+                                </div>
+                                <div class="four columns social-links hide-for-small">
+                                	<img src="http://www.couponheaven.com/wp-content/themes/coupon-heaven/images/find-us-online.png" alt="Find Us Online">
+                                    <a href="https://www.facebook.com/CouponHeaven" target="_blank" title="Coupon Heaven on Facebook"><img src="http://www.couponheaven.com/wp-content/themes/coupon-heaven/images/icon-facebook.png" alt="Facebook"></a>
+                                    <a href="http://pinterest.com/couponheaven/" target="_blank" title="Coupon Heaven on Pinterest"><img src="http://www.couponheaven.com/wp-content/themes/coupon-heaven/images/icon-pinterest.png" alt="Pinterest"></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>			
+			<div id="content" class="row bluewrapper radius-medium">
+			
+				<div id="main" class="twelve columns whitebox radius-medium shadowmedium" role="main">
+									<article role="article" class="contentPage">
+						<header>
+							 <h1>Privacy Policy</h1>
+						</header>
+
+						<section>
+								<h3>General</h3>
+<p>You privacy is very important to us! CouponHeaven.com does not require a user name or password at any time, and you are free to use our site anonymously.</p>
+<h3>Newsletter</h3>
+<p>Our newsletter registration form requires you to submit your e-mail address. We use the double opt-in method to make sure that legitimate requests for this newsletter occur. That means that you submit your e-mail address, and then you must click on a link in the confirmation e-mail we send in order to confirm your interest in our newsletter. You may opt out at any time. Your information will never be shared with anyone – period.</p>
+<h3>Tell-A-Friend</h3>
+<p>If you elect to use our “Tell-a-Friend” service to refer a friend to our site, you will be asked for the friend’s name and email address (as well as your own). Your friend will receive a one-time email inviting them to visit the site. CouponHeaven.com stores this information for the sole purpose of sending this one-time email. Your information and your friend’s information will never be shared with anyone – period.</p>
+<h3>Opt-out</h3>
+<p>Users who no longer wish to receive our newsletter may opt-out at any time by using the unsubscribe link in the newsletter.</p>
+<h3>Links</h3>
+<p>This site contains links to other Web sites. CouponHeaven.com is not responsible for the privacy practices, use of cookies, or the content of such Web sites (please see our Terms and Conditions for more information). This privacy statement applies solely to information collected by this Web site.</p>
+<h3>Traffic Data</h3>
+<p>Data about traffic and usage is not personally identifying or identifiable. Our web server logs provide us with details such as your IP address, the geographic location of your ISP, the type of browser you are using, and what site “referred” you to CouponHeaven.com. We may use some of this data to improve our site, so that we may provide the best experience for our users.</p>
+<h3>Cookies</h3>
+<p>CouponHeaven.com does not use cookies. However, our third-party advertisers may place or recognize a unique “cookie” on your browser when you click on a link that takes you to their site. We are not responsible in any way for the privacy policies of other web sites, or for their tracking methods. If you choose to set your browser software to reject cookies, you may not be able to use all of our features, including redeeming coupons.</p>
+<h3>Security</h3>
+<p>CouponHeaven.com has procedures in place to safeguard and secure the information it collects online. Security breaches do occur, however, and CouponHeaven.com will not be liable or responsible if information that belongs to you is intercepted and used by an unintended recipient.</p>
+						</section> <!-- end article header -->
+						
+						<footer>
+							
+						</footer> <!-- end article footer -->
+					
+					</article> <!-- end article -->
+						
+									</div> <!-- end #main -->
+			</div> <!-- end #content -->
 
 
-
-				  </td>
-                </tr>
-              </tbody></table>
-                <br><br>
-              </td>
-              <td valign="top">&nbsp;</td>
-            </tr>
-          </tbody></table></td>
-          <td colspan="2" valign="top" background="http://www.couponheaven.com/images/bkg_white.jpg"><img src="http://www.couponheaven.com/images/about_bar.jpg"></td>
-        </tr>
-		<tr>
-			<td colspan="2">
-                  <table width="275" border="0" align="center" cellpadding="0" cellspacing="0">
-                    <tbody><tr>
-                      <td><img src="http://www.couponheaven.com/images/find_top.jpg" width="275" height="5"></td>
-                    </tr>
-                    <tr>
-                      <td class="findlink"><table width="275" border="0" cellspacing="0" cellpadding="0">
-                          <tbody><tr>
-                            <td width="8"><img src="http://www.couponheaven.com/images/left_bar.jpg" width="8" height="25"></td>
-                            <td background="http://www.couponheaven.com/images/find_bkg.jpg"><div align="center"><strong><a href="http://www.couponheaven.com/merchant_search.cfm" class="findlink">Find Online</a></strong> <a href="http://www.couponheaven.com/merchant_search.cfm" class="style36">Coupons</a> <strong><a href="http://www.couponheaven.com/merchant_search.cfm" class="findlink">by: Merchant</a> </strong></div></td>
-                            <td width="8"><img src="http://www.couponheaven.com/images/right_bar.jpg" width="8" height="25"></td>
-                          </tr>
-                      </tbody></table></td>
-                    </tr>
-                    <tr>
-                      <td><img src="http://www.couponheaven.com/images/find_btm.jpg" width="275" height="5"></td>
-                    </tr>
-                  </tbody></table><br>
-
-					<div align="center"> <font color="#006699" size="2">                  </font> <a href="http://www.couponheaven.com/tour.cfm" class="footlink">Take a Tour</a><font color="#006699" size="2"> | </font><a href="http://www.couponheaven.com/newsletter.cfm" class="footlink">Newsletter</a><font color="#006699" size="2"> | </font><a href="http://www.couponheaven.com/tellafriend.cfm" class="footlink">Tell a Friend</a> <font color="#006699" size="2">| </font><a href="http://www.couponheaven.com/help_faq.cfm" class="footlink">Help and FAQ </a><font color="#006699" size="2">| </font><font color="#006699" size="2"><a href="http://www.couponheaven.com" class="footlink">Home</a><br>
-					</font><a href="http://www.couponheaven.com/about.cfm" class="footlink">About Us</a><font color="#006699" size="2"> | </font><a href="http://www.couponheaven.com/terms.cfm" class="footlink">Terms and Conditions</a> <font color="#006699" size="2">|</font> <a href="http://www.couponheaven.com/sitemap.cfm" class="footlink">Site Map</a><font color="#006699" size="2"> | <a href="http://www.couponheaven.com/contactus.cfm" class="footlink">Contact Us</a> <br>
-					</font><script type="text/javascript" src="http://www.couponheaven.com/scripts/bookmark.js"></script><font color="#006699" size="2"> | </font><a href="http://www.couponheaven.com/privacy.cfm" class="footlink">Privacy Policy</a><font color="#006699" size="2"> |</font> <a href="http://www.couponheaven.com/linktous.cfm" class="footlink">Link to Us</a>
-					<p><font color="829AA6" size="1" face="Verdana, Arial, Helvetica, sans-serif">Copyright© 2013 CouponHeaven.com. All rights reserved.</font><font color="#006699" size="2" face="Arial, Helvetica, sans-serif"><br>
-					</font></p>
+        
+        <div class="row" id="footer">
+    		<footer role="contentinfo">
+					
+                    <div class="twelve columns aligncenter">
+						<p>
+                        									 <a href="http://www.couponheaven.com/helpful-tips-for-shopping-with-online-coupon-codes/">Shopping Tips</a>
+                        &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="http://www.couponheaven.com/about-us/">About Us</a> 
+                       	&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="http://www.couponheaven.com/help-faq/">Help &amp; FAQ</a>
+                        &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="http://www.couponheaven.com/link-to-us/">Link to Us</a>
+                        &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="http://www.couponheaven.com/contact-us/">Contact Us</a>
+                        &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="http://www.couponheaven.com/terms-conditions/">Terms &amp; Conditions</a>
+                        &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="http://www.couponheaven.com/privacy-policy/">Privacy Policy</a>
+                        &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="http://www.couponheaven.com/sitemap-links/">Sitemap</a>
+                        </p>
 					</div>
-					<div align="center">
-					<p>&nbsp;</p>
-					<p align="left"><font color="829AA6" size="1" face="Verdana, Arial, Helvetica, sans-serif"><img src="http://www.couponheaven.com/images/corner_btm.jpg" width="209" height="69"><br>
-					</font></p>
+                    
+                    <div class="twelve columns aligncenter">
+						<p>Copyright© 2013 CouponHeaven.com. All rights reserved.</p> 
 					</div>
-			</td>
-			<td background="http://www.couponheaven.com/images/bkg_white.jpg">&nbsp;</td>
-		</tr>
-    </tbody></table></td>
-  </tr>
-</tbody></table>
+                    
+			</footer> <!-- end footer -->
+		</div>
+		
+		<!--[if lt IE 7 ]>
+  			<script src="//ajax.googleapis.com/ajax/libs/chrome-frame/1.0.3/CFInstall.min.js"></script>
+  			<script>window.attachEvent('onload',function(){CFInstall.check({mode:'overlay'})})</script>
+		<![endif]-->
+		
+		<script type="text/javascript" src="http://www.couponheaven.com/wp-content/themes/coupon-heaven/javascripts/custom.js?ver=1.0"></script>
+        
+        
+        
+    <div id="offerModal" class="reveal-modal small">
+    <div id="modal-details"></div>
+      <a class="close-reveal-modal">×</a>
+    </div>
 
-</body></html>
+
+	
+
+</div></body></html>
