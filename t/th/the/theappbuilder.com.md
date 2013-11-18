@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the theappbuilder.com privacy policy that was archived on 2013-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130609040953id_/http%3A//theappbuilder.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theappbuilder.com privacy policy that was archived on 2013-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131118072707id_/http%3A//www.theappbuilder.com/privacy) for the most accurate reproduction.*
 
-# TheAppBuilder
+# TheAppBuilder | Privacy Policy
 
-The following text is a full statement of the privacy policy of JamPot Technologies Ltd (we, us, our) a company registered under company number NI603525 and with registered address at Unit 2, 405 Holywood Road, Belfast, BT4 2GU Northern Ireland.  
+The following text is a full statement of the privacy policy of TheAppBuilder Ltd (we, us, our) a company registered under company number NI603525 and with registered address at Unit 2, 405 Holywood Road, Belfast, BT4 2GU Northern Ireland.  
 We respect your privacy rights. This policy sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.
 
 ### INFORMATION WE MAY COLLECT FROM YOU
