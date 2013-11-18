@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the globalccsinstitute.com privacy policy that was archived on 2013-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130520072238id_/http%3A//www.globalccsinstitute.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the globalccsinstitute.com privacy policy that was archived on 2013-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131118123804id_/http%3A//www.globalccsinstitute.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Global Carbon Capture and Storage Institute
 
@@ -63,9 +63,9 @@ You can request access to your own personal information held by the Global CCS I
 
 Access requests must be supported by proof of identity, and may be made:
 
-  * by telephone: +61 2 6175 5300
+  * by telephone: +61 3 8620 7359
   * by email: [info@globalccsinstitute.com](mailto:info@globalcinstitute.com)
-  * by mail: Global Carbon Capture and Storage Institute Ltd, GPO Box 828, Canberra  ACT  2601, Australia
+  * by mail: Global Carbon Capture and Storage Institute Ltd, PO Box 23335, Docklands VIC 8012, Australia
 
 
 
