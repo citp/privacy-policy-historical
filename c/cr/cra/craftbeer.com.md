@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the craftbeer.com privacy policy that was archived on 2013-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130518234427id_/http%3A//www.craftbeer.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the craftbeer.com privacy policy that was archived on 2013-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131118062139id_/http%3A//www.craftbeer.com/privacy-policy) for the most accurate reproduction.*
 
 # CraftBeer.com | Privacy Policy
 
@@ -10,7 +10,7 @@ CraftBeer.com uses Facebook Connect to manage content submissions and comments. 
 
 This web server logs the IP addresses of the systems which access this site and the files visited.
 
-These logs are retained for our internal use only. In certain instances, we may ask visitors to voluntarily provide other information about themselves.
+These logs are retained for our internal use only. In certain instances, we may ask visitors to voluntarily provide other information about themselves.
 
 Cookies may and will be used to maintain a user’s identity between web sessions.
 
