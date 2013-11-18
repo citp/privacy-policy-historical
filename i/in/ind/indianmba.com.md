@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the indianmba.com privacy policy that was archived on 2013-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130519192846id_/http%3A//www.indianmba.com/Privacy_Policy/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indianmba.com privacy policy that was archived on 2013-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131118093812id_/http%3A//www.indianmba.com/Privacy_Policy/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -15,10 +15,10 @@ information may be requested.
   
 **Who Collects The Information ?**  
   
-l   We will collect anonymous traffic information from you when you visit our site.  
-l  We will collect personally identifiable information about you only as part of a voluntary registration process, or online feedback or both.  
-l  Our advertisers may collect anonymous traffic information from their own assigned cookies to your browser.   
-l   The Site contains links to other Web sites. We are not responsible for the privacy practices of such Web sites which we do not own, manage or control.   
+l We will collect anonymous traffic information from you when you visit our site.  
+l We will collect personally identifiable information about you only as part of a voluntary registration process, or online feedback or both.  
+l Our advertisers may collect anonymous traffic information from their own assigned cookies to your browser.   
+l The Site contains links to other Web sites. We are not responsible for the privacy practices of such Web sites which we do not own, manage or control.  
   
 **The Information We Collect :**  
   
@@ -51,7 +51,7 @@ You can also correct factual errors in your information by sending us a request 
   
 **Policy Updates :**  
   
-We reserve the right to change or update this policy at any time by placing a UPDATED notice on our site. Such changes shall be effective immediately upon posting to this site.   
+We reserve the right to change or update this policy at any time by placing a UPDATED notice on our site. Such changes shall be effective immediately upon posting to this site.  
   
 **You are can offer your views, suggestions, or concerns if any,  
 by sending us an e-mail at [ **[**manage@indianmba.com**](mailto:manage@indianmba.com) **].**  
@@ -64,5 +64,7 @@ Effective May 2006
   
 [**Back to IndianMBA.com main page**](http://www.indianmba.com/)  
   
-IndianMBA.com | © AllWays DESiGNS 2000-2007 | All Rights Reserved  
-.. 
+Important Note :  
+Site Best Viewed in Internet  
+Explorer in 1024x768 pixels  
+Browser text size: Medium
