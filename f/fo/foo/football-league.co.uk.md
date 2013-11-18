@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the football-league.co.uk privacy policy that was archived on 2013-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130519012314id_/http%3A//www.football-league.co.uk/page/PrivacyStatement/0%2C%2C10794%2C00.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the football-league.co.uk privacy policy that was archived on 2013-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131118114054id_/http%3A//www.football-league.co.uk/page/PrivacyStatement/0%2C%2C10794%2C00.html) for the most accurate reproduction.*
 
 # The Football League | System | Privacy Statement | Privacy Statement
 
