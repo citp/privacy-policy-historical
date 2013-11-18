@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the caribbeancinemas.com privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601115123id_/http%3A//caribbeancinemas.com/Default.aspx%3FSecId%3D22) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the caribbeancinemas.com privacy policy that was archived on 2013-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131118093342id_/http%3A//www.caribbeancinemas.com/Default.aspx%3FSecId%3D22) for the most accurate reproduction.*
 
 # Caribbean Cinemas of Puerto Rico -
 
