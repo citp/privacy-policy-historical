@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the searchindia.com privacy policy that was archived on 2013-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130520124653id_/http%3A//www.searchindia.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the searchindia.com privacy policy that was archived on 2013-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131118074817id_/http%3A//www.searchindia.com/privacy.html) for the most accurate reproduction.*
 
 # SearchIndia.com Privacy Policy
 
