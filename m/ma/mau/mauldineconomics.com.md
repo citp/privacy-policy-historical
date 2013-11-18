@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mauldineconomics.com privacy policy that was archived on 2013-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130324111001id_/http%3A//www.mauldineconomics.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mauldineconomics.com privacy policy that was archived on 2013-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131118020317id_/http%3A//www.mauldineconomics.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Mauldin Economics
 
