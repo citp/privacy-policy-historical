@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the appsfuel.com privacy policy that was archived on 2013-06-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130601135952id_/http%3A//appsfuel.com/static/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the appsfuel.com privacy policy that was archived on 2013-11-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131118010520id_/http%3A//appsfuel.com/static/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# appsfuel: http://ogp.me/ns/fb/appsfuel#">
 <!--Shared Metas-->
@@ -10,31 +10,135 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0">
 <link rel="shortcut icon" href="http://s.appsfuel.com/img/af.ico">
 <!--Javascript Libraries-->
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="http://s.appsfuel.com/js/libs/jquery-1.7.1.min.js"></script>
-<script src="http://s.appsfuel.com/js/libs/modernizr.js"></script>
-<script src="http://s.appsfuel.com/js/libs/jquery.raty-2.1.0/js/jquery.raty.min.js"></script>
-<script src="http://s.appsfuel.com/js/libs/jquery.mb.infiniteSlide/inc/jquery.mb.infiniteSlide.js"></script>
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script>
+(function(){
+var navUA = navigator.userAgent.toLowerCase();
+var lsprefix = 'appsfuel_web_';
+var self = this;
+var versionNum = 1;
+var _localStorage = {
+set: function(k,v,t) {
+t = t*60*1000;
+var record = {
+value: JSON.stringify(v),
+expires: t ? new Date().getTime() + t : 0,
+timestamp: new Date().getTime(),
+version: versionNum
+}
+window.localStorage.setItem(lsprefix+k, JSON.stringify(record));
+},
+get: function(k) {
+var record = JSON.parse(window.localStorage.getItem(lsprefix+k));
+if (!record) return null;
+var isValid = !record.expires || new Date().getTime() < record.expires;
+if (isValid) {
+return JSON.parse(record.value);
+}
+else {
+window.dnfwjs.localStorage.remove(k);
+return null;
+}
+},
+remove: function(k) { return window.localStorage.removeItem(lsprefix+k); },
+prefix: lsprefix
+};
+function checkDnfwVar(data, dataType) {
+if (!data || data === "0" || data === "" || data === "false" || data === "null") {
+return false;
+}
+else {
+if (dataType === 'json') data = JSON.parse(data);
+return data;
+}
+}
+//params: action, id, ...
+//if action begins with '/' it's a fb standard action, otherwise action is a custom one
+//frontend doesn't need to specify app namespace (like appsfuel:)
+function _fbAction(params, callback) {
+var httpRequest;
+var url = 'http://app.appsfuel.com/api/fb.php?'+serialize(params);
+function makeRequest(url) {
+if (window.XMLHttpRequest) {
+httpRequest = new XMLHttpRequest();
+}
+else if (window.ActiveXObject) {
+try { httpRequest = new ActiveXObject("Msxml2.XMLHTTP"); }
+catch (e) {
+try { httpRequest = new ActiveXObject("Microsoft.XMLHTTP"); }
+catch (e) {}
+}
+}
+httpRequest.onreadystatechange = stateChangeHandler;
+httpRequest.open('GET', url, true);
+httpRequest.send();
+setTimeout(callback,2000);
+}
+function stateChangeHandler(e) {
+if (httpRequest.readyState === 1) {
+console.log('ogaction.sent.url: '+url);
+callback.call();
+}
+}
+makeRequest(url);
+};
+function serialize(obj, prefix) {
+var str = [];
+for(var p in obj) {
+var k = prefix ? prefix + "[" + p + "]" : p, v = obj[p];
+str.push(typeof v == "object" ? serialize(v, k) : encodeURIComponent(k) + "=" + encodeURIComponent(v));
+}
+return str.join("&");
+}
+window.dnfwjs = {
+version: versionNum,
+localStorage: _localStorage,
+fbAction: _fbAction,
+userAgent: {
+isChrome: navUA.indexOf('chrome') > -1,
+isFirefox: navUA.indexOf('firefox') > -1,
+isOpera: navUA.indexOf('opera') > -1,
+isIE: navUA.indexOf('msie') > -1,
+isSafari: navUA.indexOf('safari') > -1 && (navUA.indexOf('chrome') == -1)
+},
+check: checkDnfwVar,
+CLIENT_PLATFORM: checkDnfwVar(""),
+USER_EMAIL_CONFIRMED: checkDnfwVar(""),
+DELETE_ACCOUNT_URL: checkDnfwVar("/signout/"),
+IS_STAGING: checkDnfwVar(""),
+IS_MOBILE: checkDnfwVar(""),
+APPSFUEL_APP: checkDnfwVar(""),
+deviceInfo: checkDnfwVar("", 'json')
+}
+}())
+</script> 
+<script src="http://s.appsfuel.com/js/libs/jquery-1.7.1.min.js?v=20131115162249"></script>
+<script src="http://s.appsfuel.com/js/libs/modernizr.js?v=20131115162249"></script>
+<script src="http://s.appsfuel.com/js/libs/jquery.raty-2.1.0/js/jquery.raty.min.js?v=20131115162249"></script>
+<script src="http://s.appsfuel.com/js/libs/jquery.mb.infiniteSlide/inc/jquery.mb.infiniteSlide.js?v=20131115162249"></script>
 <!--Javascript Personalized Libraries-->
-<script src="http://s.appsfuel.com/js/mylibs/appsFuel_web.js"></script>
-<script src="http://s.appsfuel.com/js/mylibs/AppsFuelPlugin.js"></script>
+<script src="http://s.appsfuel.com/js/mylibs/appsFuel_web.js?v=20131115162249"></script>
+<script src="http://s.appsfuel.com/js/mylibs/AppsFuelPlugin.js?v=20131115162249"></script>
 <!--Javascript Font Libraries-->
-<script type="text/javascript" src="http://use.typekit.com/tub5mqx.js"></script>
-<script type="text/javascript">try{Typekit.load();}catch(e){}</script>
 <script type="text/javascript">var _gaq = _gaq || [];_gaq.push(['_setAccount', 'UA-27255277-1']);_gaq.push(['_setDomainName', 'appsfuel.com']);_gaq.push(['_trackPageview']);(function() {var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);})();</script>
 <!--link Facebook-->
 <link rel="image_src" href="http://s.appsfuel.com/img/website/AppsFuelFBIcon.png">
 <!--Shared CSS-->
-<link rel="stylesheet" href="http://s.appsfuel.com/css/appsFuel.css">
-<link rel="stylesheet" href="http://s.appsfuel.com/css/website/headerfooter.css?v=20130531100055">
-<link rel="stylesheet" href="http://s.appsfuel.com/css/website/leftCol.css?v=20130531100055">
-<link rel="stylesheet" href="http://s.appsfuel.com/css/website/appgrid.css?v=20130531100055">
-<link rel="stylesheet" href="http://s.appsfuel.com/css/website/carousel.css?v=20130531100055">
-<link rel="stylesheet" href="http://s.appsfuel.com/css/website/zoom.css?v=20130531100055">
-<link rel="stylesheet" href="http://s.appsfuel.com/css/website/static.css?v=20130531100055">
-<link rel="stylesheet" href="http://s.appsfuel.com/css/website/forms.css?v=20130531100055">
-<link rel="stylesheet" href="http://s.appsfuel.com/css/website/popup.css?v=20130531100055">
+<link rel="stylesheet" href="http://s.appsfuel.com/css/appsFuel.css?v=20131115162249">
+<link rel="stylesheet" href="http://s.appsfuel.com/css/website/headerfooter.css?v=20131115162249">
+<link rel="stylesheet" href="http://s.appsfuel.com/css/website/leftCol.css?v=20131115162249">
+<link rel="stylesheet" href="http://s.appsfuel.com/css/website/appgrid.css?v=20131115162249">
+<link rel="stylesheet" href="http://s.appsfuel.com/css/website/carousel.css?v=20131115162249">
+<link rel="stylesheet" href="http://s.appsfuel.com/css/website/zoom.css?v=20131115162249">
+<link rel="stylesheet" href="http://s.appsfuel.com/css/website/static.css?v=20131115162249">
+<link rel="stylesheet" href="http://s.appsfuel.com/css/website/forms.css?v=20131115162249">
+<link rel="stylesheet" href="http://s.appsfuel.com/css/website/popup.css?v=20131115162249">
+<link rel="stylesheet" href="http://s.appsfuel.com/css/font-awesome.css?v=20131115162249">
+<script type="text/javascript" src="http://s.appsfuel.com/js/mylibs/config.js?v=20131115162249"> </script>
+<script src="http://s.appsfuel.com/js/mylibs/refuel.build.js?v=20131115162249"></script>
  
-<title>AppsFuel End User License Agreement</title>
+<title></title>
+<meta name="description" content="">
+<meta name="keywords" content="">
 </head>
 <body>
  
