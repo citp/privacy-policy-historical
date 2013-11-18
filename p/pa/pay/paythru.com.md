@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the paythru.com privacy policy that was archived on 2013-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130511095928id_/http%3A//paythru.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paythru.com privacy policy that was archived on 2013-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131118090931id_/http%3A//www.paythru.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | paythru
 
-This policy applies to paythru.com ("Site").
+This policy applies to Paythru.com ("Site").
 
-paythru Ltd. ("paythru" "us" or "we") respects the privacy of visitors to its website and its clients. This Privacy Policy is intended to inform you of our policies and practices regarding the collection, use and disclosure of Personal Information and Anonymous Information you submit to us through our Site. "Personal Information" is information about you that is personally identifiable to you, like your name, address, email address or phone number, as well as other non-public information that is associated with the foregoing.
+Paythru Ltd. ("Paythru" "us" or "we") respects the privacy of visitors to its website and its clients. This Privacy Policy is intended to inform you of our policies and practices regarding the collection, use and disclosure of Personal Information and Anonymous Information you submit to us through our Site. "Personal Information" is information about you that is personally identifiable to you, like your name, address, email address or phone number, as well as other non-public information that is associated with the foregoing.
 
 By submitting Personal Information through the Site, you agree to the terms of this Privacy Policy and you expressly consent to the processing of your Personal Information according to this Privacy Policy. Your Personal Information may be processed by us in the country where it was collected, as well as other countries (including the United States) where laws regarding processing of Personal Information may be less stringent than the laws in your country.
 
@@ -14,7 +14,7 @@ We may update this Privacy Policy from time to time as our Services change and e
 
 ## This Site Contains Links to Other Sites
 
-We are not responsible for 3rd party sites (sites other than those located at paythru.com and paythru.mobi) - and you understand we do not control the content or actions of 3rd party sites.
+We are not responsible for 3rd party sites (sites other than those located at Paythru.com and Paythru.mobi) - and you understand we do not control the content or actions of 3rd party sites.
 
 ## Information we collect
 
@@ -30,7 +30,7 @@ The online client portal allows clients to manage their accounts, including bill
 
 ## Legal requests
 
-paythru cooperates with law enforcement inquiries, as well as other third parties to enforce laws, such as: intellectual property rights, fraud, theft, harassment and other rights. We can (and you authorise us to) disclose any information about you if we believe in good faith that such disclosure is necessary to (a) comply with relevant laws or to respond to subpoenas or warrants served on us; (b) protect or defend the rights or property of paythru or third parties; or (c) assist in an investigation.
+Paythru cooperates with law enforcement inquiries, as well as other third parties to enforce laws, such as: intellectual property rights, fraud, theft, harassment and other rights. We can (and you authorise us to) disclose any information about you if we believe in good faith that such disclosure is necessary to (a) comply with relevant laws or to respond to subpoenas or warrants served on us; (b) protect or defend the rights or property of Paythru or third parties; or (c) assist in an investigation.
 
 ## Security
 
