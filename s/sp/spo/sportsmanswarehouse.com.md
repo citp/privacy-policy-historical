@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sportsmanswarehouse.com privacy policy that was archived on 2013-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130620111240id_/http%3A//www.sportsmanswarehouse.com/company/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sportsmanswarehouse.com privacy policy that was archived on 2013-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131118053621id_/http%3A//www.sportsmanswarehouse.com/company/privacy) for the most accurate reproduction.*
 
 # Sportsman's Warehouse: America's Premier Hunting, Fishing & Camping Outfitter
 
