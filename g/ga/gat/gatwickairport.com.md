@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the gatwickairport.com privacy policy that was archived on 2013-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130627022056id_/http%3A//www.gatwickairport.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gatwickairport.com privacy policy that was archived on 2013-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131118055800id_/http%3A//www.gatwickairport.com/privacy-cookie-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Gatwick Airport
-
-**Last updated May 2012**
+# Privacy & cookie policy - Gatwick Airport
 
 **Please read carefully**
 
@@ -30,7 +28,7 @@ GAL may use third party processors to handle personal data collected, these proc
 
 Gatwick Airport Limited collects information about your use of the Websites from cookies.
 
-When you enter the Websites your computer will automatically be issued with a cookie. A cookie is a small text file that identifies your computer to our server. Cookies in themselves do not identify the individual user, just the computer used. If you do not know what cookies are or how to control them, we recommend you visit [http://www.aboutcookies.org](http://aboutcookies.org/) for detailed guidance. 
+When you enter the Websites your computer will automatically be issued with a cookie. A cookie is a small text file that identifies your computer to our server. Cookies in themselves do not identify the individual user, just the computer used. If you do not know what cookies are or how to control them, we recommend you visit [http://www.aboutcookies.org](http://aboutcookies.org/) for detailed guidance. 
 
 GAL cookies record those areas of the Websites that have been visited by your computer, for how long and what activity was undertaken on the Website. We do this so as to understand which are the most popular parts of the Websites, and also to improve your experience. For example, cookies that we use ensure that some promotional items, such as pop-ups and overlays, do not appear too many times on the same visit to the Website.
 
@@ -40,20 +38,42 @@ You are not obliged to accept cookies. You have the opportunity to set your comp
 
 **Session Cookies**
 
-We use a  **session cookie**  to remember your log-in for you and what you’ve put in the shopping basket. These we deem strictly necessary to the working of the website. If these are disabled then various functionalities on the site will be broken. More information on session cookies and what they are used for at <http://www.allaboutcookies.org/cookies/session-cookies-used-for.html>
+We use a  **session cookie**  to remember your log-in for you and what you’ve put in the shopping basket. These we deem strictly necessary to the working of the website. If these are disabled then various functionalities on the site will be broken. More information on session cookies and what they are used for at<http://www.allaboutcookies.org/cookies/session-cookies-used-for.html>
 
 **Persistent Cookies for Site Analytics and Performance**
 
-****DoubleClick (Google)****  – this cookie is specific to the display advertising on Gatwick’s website. User data is anonymous. You can find out more generally about Google and its policies and principles as regards advertising at [http://www.google.com/policies/privacy/ads](http://www.google.com/policies/privacy/ads/)
+**DoubleClick (Google)**  – this cookie is specific to the display advertising on Gatwick’s website. User data is anonymous. You can find out more generally about Google and its policies and principles as regards advertising at [http://www.google.com/policies/privacy/ads](http://www.google.com/policies/privacy/ads/)
 
 **Google Analytics**  – we use this to understand how the site is being used in order to improve the user experience. User data is all anonymous. You can find out more about Google’s position on privacy as regards its analytics service at <http://www.google.co.uk/intl/en/analytics/privacyoverview.html>
 
-**TagMan**  – this allows us to deploy different versions of our site to test (A/B Testing). User data is all anonymous. You can find out more about TagMan on their site at [http://www.tagman.com](http://www.tagman.com/)
+**TagMan**  – this allows us to deploy different versions of our site to test (A/B Testing). User data is all anonymous. You can find out more about TagMan on their site at[http://www.tagman.com](http://www.tagman.com/)
 
-**Affiliate Window** – Allows us to track affiliate advertisers and purchases. You can find out more about Affiliate Window on their site at [http://www.affilaite window.com](http://www.affilaite%20window.com/)
+**Affiliate Window**  – Allows us to track affiliate advertisers and purchases. You can find out more about Affiliate Window on their site at [http://www.affilaite window.com](http://www.affilaite%20window.com/)
 
-**AddThis** \- the service that runs some of our social sharing buttons. You can find out more about AddThis on their site at  [http://www.addthis.com](http://www.addthis.com/)  
+**AddThis**  \- the service that runs some of our social sharing buttons. You can find out more about AddThis on their site at  [http://www.addthis.com](http://www.addthis.com/)  
 
+
+**AppNexus** -the Platform uses cookies to associate non-PII with browsers and devices, so that clients can then use the information to select ads for delivery by the Platform. For a detailed privacy statement that applies to the Platform, see [http://appnexus.com](http://appnexus.com/)
+
+**Google Adwords** – This cookie can save people's settings on certain websites and can sometimes be used to track how visitors get to and interact with websites. This can be used for remarketing purposes or to track progress to completion of a booking. You can view Google’s privacy statement at <http://www.google.com/intl/en_GB/policies/technologies/ads/>
+
+**Qubit opentag –** this service allows us to enhance your online experience. For further detail please visit [http://www.qubitproducts.com/](http://www.qubitproducts.com/tag-management)
+
+**Rocketfuel** – this turns online ads from an annoyance into a useful complement to your web-surfing experience. We want to deliver personalised, well-chosen ads to help you discover things that interest you—new websites, new products, new bargains. More information can be found at <http://rocketfuel.com/privacy-policy>
+
+**VeInteractive** – this is used to improve user experience and collect information when you don’t complete your shopping cart. This allows us to ensure that you have all of the information that you need. For more details please visit [http://www.veinteractive.com](http://www.veinteractive.com/)
+
+**Visual website optimiser** – this service uses cookies for testing purposes. The cookies are used to keep track of the Variation that a user has seen, the goals a user has completed and even the fact the user has become a part of the test or not. For more information please visit <http://visualwebsiteoptimizer.com/knowledge/what-are-the-various-cookies-used-by-visual-website-optimizer/>
+
+**SessionCam** – this service is used to identify a unique user and a unique user session, allowing us to improve the experience that you have online. For more information please visit <http://help.sessioncam.com/customer/portal/articles/856393-how-we-use-cookies>
+
+**Typekit by Adobe** -  to provide the Typekit service, Adobe may collect information about the fonts being served to you. The information is used to allow you to view the website as it should be seen. For more information visit <http://www.adobe.com/uk/privacy/typekit.html>
+
+**Media6Degrees –** this is used to track behaviour of users on site, allowing us to serve you with relevant ads to your behaviour.
+
+**MediaMath** – this allows us to provide you with relevant promotional material based on your activity on site. To find out more, please visit <http://www.mediamath.com/privacy/>
+
+**Doubleclick Floodlight** – we use Floodlight to determine the effectiveness of our online campaigns in terms of both sales and user activity on our sites. For more information please see <https://support.google.com/dfa/partner/answer/186739?hl=en>
 
 **Our own ad serving and management cookies**
 
@@ -61,7 +81,7 @@ We sell space on our website to advertisers. As part of this, we use several ser
 
 These are the services we use and how you can control those cookies. Please note that turning off advertising cookies won't mean that you are not served any advertising merely that it will not be tailored to your interests.
 
-  * Doubleclick (advertising): Privacy policy at  <http://www.google.com/doubleclick/privacy/> and opt out via[ http://www.youronlinechoices.com/uk/](http://www.youronlinechoices.com/uk/)
+  * Doubleclick (advertising): Privacy policy at  <http://www.google.com/doubleclick/privacy/>and opt out via[ http://www.youronlinechoices.com/uk/](http://www.youronlinechoices.com/uk/)
 
 
   * Rubicon (ad partner): Privacy policy at <http://www.rubiconproject.com/privacy-policy/> and opt out at<http://www.rubiconproject.com/privacy/consumer-online-profile-and-opt-out>
@@ -72,7 +92,7 @@ These are the services we use and how you can control those cookies. Please note
 
 Advertisements on the Website are provided by other organisations. Our advertising partners will serve advertisements that they believe are most likely to be of interest to you, based on information about your visit to the Website and other websites. In order to do this, our advertising partner may need to place a cookie on your computer. These cookies hold information about the computer - they don't hold personal information about you (ie it's not linked to you as an individual).
 
-For more information about this type of online behavioural advertising, about cookies, and about how to turn this feature off, please visit <http://www.youronlinechoices.com/uk/>
+For more information about this type of online behavioural advertising, about cookies, and about how to turn this feature off, please visit <http://www.youronlinechoices.com/uk/>
 
 Please note that turning off advertising cookies won't mean that you are not served any advertising merely that it will not be tailored to your interests. By entering our website and using it you are consenting to the use of cookies. However you are not obliged to accept cookies. If you do not however, this may mean that your experience of using the Websites may be impaired as we will be unable to personalise aspects of your use of the Websites.
 
