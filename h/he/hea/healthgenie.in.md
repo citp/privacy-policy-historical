@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the healthgenie.in privacy policy that was archived on 2013-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130524052356id_/http%3A//www.healthgenie.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthgenie.in privacy policy that was archived on 2013-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131119003723id_/http%3A//www.healthgenie.in/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
