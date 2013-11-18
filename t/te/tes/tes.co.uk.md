@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tes.co.uk privacy policy that was archived on 2013-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130519191500id_/http%3A//www.tes.co.uk/article.aspx%3FstoryCode%3D6000267%26navCode%3D423) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tes.co.uk privacy policy that was archived on 2013-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131118060919id_/http%3A//www.tes.co.uk/article.aspx%3FstoryCode%3D6000267%26navCode%3D423) for the most accurate reproduction.*
 
 # Privacy policy - Help - TES
 
@@ -28,6 +28,7 @@ The TSL Sites and Services include, and without limitation:
   * hirewire.co.uk
   * tslshop.co.uk
   * iboard.co.uk
+  * tesspag.com
 
 
 
@@ -54,7 +55,7 @@ For further information please see our [Cookie Policy ](https://web.archive.org/
 
 Contact and other details you supply as part of the registration process will be used by us to authenticate your identity, deal with your inquiries and requests and to provide you with our services (including to process your orders and administer your account). 
 
-We may also use _**your personal**_ information to personalise aspects of our services, to carry out market research surveys, to contact you about opportunities that we believe may be relevant to you and to provide you with updates about developments on the sites and information about the products and services we offer. _**Information may also be used and disclosed for marketing and strategic development purposes**_ , for example to identify trends usage. It is your responsibility to ensure that any information submitted as part of the registration process, to your user account or as part of an application to a job posting is accurate and up to date.
+We may also use _**your personal**_ information to personalise aspects of our services, to carry out market research surveys, to contact you about opportunities that we believe may be relevant to you and to provide you with updates about developments on the sites and information about the products and services we offer. _**Information may also be used for marketing and strategic development purposes**_ , for example to identify trends usage. It is your responsibility to ensure that any information submitted as part of the registration process, to your user account or as part of an application to a job posting is accurate and up to date.
 
 If you have elected to receive information about our products or services or the products or services offered jointly with or on behalf of other organisations and/or "alerts" from us via email (by creating an alert in the Jobs by Email service) and would like at any time to unsubscribe from this service, please email us at [info@](mailto:info@tes.co.uk)[tes.co.uk](mailto:privacy@tesindia.com) [or click on the “unsubscribe” link at the bottom of an email]. 
 
@@ -64,7 +65,7 @@ In order to provide Sites services we will share your personal information with 
 
 You should be aware that some of the Sites and Services are hosted by us on behalf of those recruiting institutions that have signed-up to process job vacancies and applications via the Service (for example www.teshirewire.com). In order to provide these Services we will share your personal information with such institutions. We do not verify the identity or the nature of the business of such organisations and we are not in any way responsible for any use or misuse of your personal data by those institutions. To the extent you have any concerns about an institution’s handling of your personal data you should get in touch with that institution. 
 
-We will not disclose any information we keep about you to any third parties, except for (1) other companies in the TSL group of companies, (2) where you have agreed to the sharing of data, (3) any suppliers we engage to provide services which involve processing data on our behalf.
+We will not disclose any information we keep about you to any third parties, except for (1) other companies in the TSL group of companies, (2) where you have agreed to the sharing of data, (3) any suppliers we engage to provide services which involve processing data on our behalf. We will not disclose your personal information to third parties outside the TSL and its joint venture companies if it is to be used and controlled for commercial purposes.  We reserve the right to disclose your personal information to third parties outside the TSL and its joint venture companies, including, as illustrative examples, government bodies, law enforcement and credit reference agencies, professional services like law and accountancy firms, cyber security breach management providers and regulators, for non-commercial purposes.
 
 ### Content posted by you
 
