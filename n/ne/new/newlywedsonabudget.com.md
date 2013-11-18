@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the newlywedsonabudget.com privacy policy that was archived on 2013-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130520133809id_/http%3A//www.newlywedsonabudget.com/about-2/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newlywedsonabudget.com privacy policy that was archived on 2013-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131118090510id_/http%3A//www.newlywedsonabudget.com/about-2/privacy-policy) for the most accurate reproduction.*
 
-# A blog about newlyweds managing money in relationships. | Newlyweds on a Budget
+# Privacy Policy | Newlyweds on a Budget
 
 Privacy Policy for NewlywedsonaBudget.com
 
