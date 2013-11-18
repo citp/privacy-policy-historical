@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the chainsawsuit.com privacy policy that was archived on 2011-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111119015617id_/http%3A//chainsawsuit.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chainsawsuit.com privacy policy that was archived on 2013-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131118065159id_/http%3A//chainsawsuit.com/privacypolicy) for the most accurate reproduction.*
 
-# chainsawsuit by kris straub - privacy policy
-
-## privacy policy
+# chainsawsuit - internet humor, fresh-cut » privacy policy
 
 chainsawsuit.com is owned and operated by Nightlight Press, LLC. **We value your readership and will not sell any information that is collected from visitors of chainsawsuit.com, at any time, ever.**
 
