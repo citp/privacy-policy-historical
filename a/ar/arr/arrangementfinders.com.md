@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the arrangementfinders.com privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602103241id_/http%3A//arrangementfinders.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arrangementfinders.com privacy policy that was archived on 2013-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131118072016id_/http%3A//arrangementfinders.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Arrangement Finders
 
 ## Privacy Statement
 
-Established Men ("we," "us" or "Arrangement Finders") is firmly committed to privacy. The following discloses our information gathering and dissemination practices for this website (the "Website") and use of our service ("Service"). By accessing the Website, you accept this Privacy Statement and agree to the terms, conditions and notices contained or referenced herein. We reserve the right to make changes to this Privacy Statement at any time without prior notice and such changes become effective once a revised Privacy Policy is posted on our Website. Your continued use of our Website constitutes your acceptance of such changes. Accordingly, you should review this Privacy Statement from time to time for changes. THIS PRIVACY STATEMENT WAS LAST UPDATED ON: August 26, 2009. 
+Praecellens Limited ("we," "us" or "Praecellens") is firmly committed to privacy. The following discloses our information gathering and dissemination practices for this website (the "Website") and use of our service ("Service"). By accessing the Website, you accept this Privacy Statement and agree to the terms, conditions and notices contained or referenced herein. We reserve the right to make changes to this Privacy Statement at any time without prior notice and such changes become effective once a revised Privacy Policy is posted on our Website. Your continued use of our Website constitutes your acceptance of such changes. Accordingly, you should review this Privacy Statement from time to time for changes. THIS PRIVACY STATEMENT WAS LAST UPDATED ON: August 26, 2009. 
 
 The protection of your privacy is very important and we have adopted the following practices to safeguard the confidentiality of your personal information.
 
@@ -68,7 +68,7 @@ Please be aware that it may take several hours for any custom changes you make t
 
 ### Unsolicited Contact (SPAM)
 
-Arrangement Finders, our affiliates and our channel partners do not send unsolicited email at any time. Members are automatically opted in to receive email messages to the email address they register on their Ad Profile. You may opt-out of receiving email messages at any time. 
+Arrangement Finders, Praecellens, our affiliates and our channel partners do not send unsolicited email at any time. Members are automatically opted in to receive email messages to the email address they register on their Ad Profile. You may opt-out of receiving email messages at any time. 
 
 ### Do you monitor online behavior?
 
@@ -92,14 +92,15 @@ The Canadian government has enacted the Personal Information Protection and Elec
 
 ### California Privacy Rights
 
-Under California Civil Code sections 1798.83-1798.84, California residents are entitled to ask Arrangement Finders for a notice describing what categories of personal customer information we share with third parties or affiliates for those third parties or affiliates direct marketing purposes. That notice will identify the categories of information shared and will include a list of the third parties and affiliates with whom it was shared, along with their names and addresses. If you are a California resident and would like a copy of this notice, please submit a written request to the address listed below. Please note that it may take 60 days from receipt of your written request to receive the notice. 
+Under California Civil Code sections 1798.83-1798.84, California residents are entitled to ask Praecellens or Arrangement Finders for a notice describing what categories of personal customer information we share with third parties or affiliates for those third parties or affiliates direct marketing purposes. That notice will identify the categories of information shared and will include a list of the third parties and affiliates with whom it was shared, along with their names and addresses. If you are a California resident and would like a copy of this notice, please submit a written request to the address listed below. Please note that it may take 60 days from receipt of your written request to receive the notice. 
 
 To contact us concerning Privacy issues, please use the [Contact Form](https://web.archive.org/contact_us "Contact Form"). All other inquiries should be sent using our [Contact Us](https://web.archive.org/contact_us "Contact Us") section.
 
 **Attn:** Privacy Officer   
-Arrangement Finders Inc. 
+Praecellens Limited 
 
 (DBA Arrangement Finders)   
-20 Eglinton Ave West, Suite 1200  
-Toronto, ON Canada M4R 1K8   
+9 Karpensiou  
+2021 Nicosia  
+Cyprus   
 1-877-840-7976 
