@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the grockit.com privacy policy that was archived on 2013-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130519210408id_/http%3A//grockit.com/blog/main/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the grockit.com privacy policy that was archived on 2013-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131118082342id_/http%3A//grockit.com/blog/main/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Grockit
 
@@ -30,19 +30,19 @@ Grockit may also collect information about you from other sources and other user
 
 If you use Grockit outside of the United States, information that we collect about you will be transferred to servers inside the United States and maintained indefinitely, which may involve the transfer of information out of countries located in the European Economic Area. By using Grockit and thereby allowing Grockit to collect information about you, you consent to such transfer and processing of your data.
 
-[back to top](http://grockit.com/blog/main/privacy-policy/#top)
+back to top
 
 ### Children Under Age 13
 
 Grockit does not knowingly collect or solicit personal information from anyone under the age of 13 or knowingly allow such persons to register. If you are under the age of 13, please do not attempt to register for Grockit or send any information about yourself to us, including your name, address, telephone number, or email address. No one under the age of 13 may provide any personal information to us or on or through the Website. In the event that we learn that we have collected personal information from a child under the age of 13 without verification of parental consent, we will delete that information as quickly as possible. If you believe that we might have any information from or about a child under the age of 13, please contact us at [info@grockit.com](mailto:info@grockit.com).
 
-[back to top](http://grockit.com/blog/main/privacy-policy/#top)
+back to top
 
 ### Children Between the Ages of 13 and 18
 
 We recommend that minors over the age of 13 ask their parents for permission before sending any information about themselves to anyone over the Internet, including use of Grockit.
 
-[back to top](http://grockit.com/blog/main/privacy-policy/#top)
+back to top
 
 ### Use of Information Obtained by Grockit
 
@@ -58,7 +58,7 @@ We may use information in your profile without identifying you as an individual 
 
 We may use information about you that we collect from other sources, such as Facebook, to supplement your profile.
 
-[back to top](http://grockit.com/blog/main/privacy-policy/#top)
+back to top
 
 ### Sharing Your Information with Third Parties
 
@@ -77,13 +77,13 @@ If the ownership of all or substantially all of the Grockit business or assets, 
 
 When you use Grockit, certain information you post or share with third parties, including but not limited to your personal information or your games or other learning devices, may be shared with other users in accordance with the privacy settings you select. All such sharing of information is done at your own risk. Please keep in mind that if you disclose personal information in your profile or when posting comments, messages, photos, videos, or other items, this information may become publicly available.
 
-[back to top](http://grockit.com/blog/main/privacy-policy/#top)
+back to top
 
 ### Links
 
 Grockit may contain links to other websites. Grockit is not responsible for the privacy practices of other websites. We encourage our users to be aware when they leave our Website to read the privacy statements of each and every website that collects personally identifiable information. This Privacy Policy applies solely to information collected by Grockit.
 
-[back to top](http://grockit.com/blog/main/privacy-policy/#top)
+back to top
 
 ### Third-Party Advertising
 
@@ -91,7 +91,7 @@ Advertisements that appear on Grockit are sometimes delivered (or “served”) 
 
 This Privacy Policy covers our use of cookies and similar technologies on Grockit and does not cover the use of cookies or other tracking technologies by any third-party advertisers. Third party vendors, including Google, show Grockit ads on sites on the internet. Third party vendors, including Google, use cookies to serve ads based on a Grockit user’s prior visits to Grockit. Users may opt out of Google’s use of cookies by visiting the [Google advertising opt-out page](http://www.google.com/privacy_ads.html).
 
-[back to top](http://grockit.com/blog/main/privacy-policy/#top)
+back to top
 
 ### Changing or Removing Information
 
@@ -99,22 +99,22 @@ Access and control over most personal information on Grockit is readily availabl
 
 When you use any of the communication features on our Website to share information with other Grockit users (e.g., posting a group chat message), you generally cannot remove such communications.
 
-[back to top](http://grockit.com/blog/main/privacy-policy/#top)
+back to top
 
 ### Security
 
 You need to prevent unauthorized access to your account and personal information by selecting and protecting your password appropriately and limiting access to your computer and browser by signing off after you have finished accessing your account. Grockit takes appropriate precautions to protect our users’ information. Your account information is located on a secured server behind a firewall. However, we cannot guarantee complete security. Unauthorized entry or use, hardware or software failure, and other factors, may compromise the security of user information at any time. Because email and instant messaging are not recognized as secure communications, we request that you not send private information to us by email or instant messaging services. If you have any questions about the security of Grockit, please contact us at [privacy@grockit.com](mailto:privacy@grockit.com).
 
-[back to top](http://grockit.com/blog/main/privacy-policy/#top)
+back to top
 
 ### Terms of Use, Notices and Revisions
 
 Your use of Grockit, and any disputes arising from it, is subject to this Privacy Policy as well as our Terms of Use and all of its dispute resolution provisions including arbitration, limitation on damages and choice of law. We reserve the right to change this Privacy Policy and our Terms of Use at any time. If we make changes, we will post them and will indicate at the top of the respective page the respective policy’s new effective date. Use of information we collect now is subject to the Privacy Policy in effect at the time such information is used. If we make material changes to this Privacy Policy, we will notify you here, by email, or through notice on our home page. You are bound by any changes to the Privacy Policy when you use the Website after such changes have been first posted. We encourage you to refer to this Privacy Policy on an ongoing basis so that you understand our current practices.
 
-[back to top](http://grockit.com/blog/main/privacy-policy/#top)
+back to top
 
 ### Contacting the Website
 
 If you have any questions about this Privacy Policy, please contact us at [privacy@grockit.com](mailto:privacy@grockit.com). You may also contact us by mail at 500 Third Street, Suite 260, San Francisco, CA 94107.
 
-[back to top](http://grockit.com/blog/main/privacy-policy/#top)
+back to top
