@@ -1,0 +1,934 @@
+<!--The following is the downloaded HTML source of the pearsonclinical.com privacy policy that was archived on 2013-11-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131118150538id_/http%3A//www.pearsonclinical.com/legal/privacy.html) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html lang="en-US" class="no-js"><!--<![endif]--><head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+    
+    
+    <meta name="keywords" content="">
+    <meta name="description" content="Effective: October 1, 2013">
+    
+    
+
+<link rel="stylesheet" href="/etc/clientlibs/granite/jquery-ui.css" type="text/css">
+<link rel="stylesheet" href="/etc/designs/ani/clinicalassessments/us/clientlibs.css" type="text/css">
+
+<meta name="segmentid" content="not.found">
+
+
+<script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="/etc/clientlibs/granite/jquery.js"></script>
+<script type="text/javascript" src="/etc/clientlibs/granite/utils.js"></script>
+<script type="text/javascript" src="/etc/clientlibs/granite/jquery/granite.js"></script>
+<script type="text/javascript" src="/etc/clientlibs/granite/jquery-ui.js"></script>
+<script type="text/javascript" src="/etc/designs/ani/clinicalassessments/us/clientlibs.js"></script>
+
+
+ 
+    
+    
+    
+    <link rel="icon" type="image/vnd.microsoft.icon" href="/etc/designs/ani/clinicalassessments/us/favicon.ico">
+    <link rel="shortcut icon" type="image/vnd.microsoft.icon" href="/etc/designs/ani/clinicalassessments/us/favicon.ico">
+    
+    
+    <title>Privacy</title>
+    
+    <!--  Prevent Cross-Frame-Script (XFS) attack -->
+    
+    <script type="text/javascript">
+    	if (top != self) {
+	        top.location=self.location;
+        }
+    </script>
+    
+	<script>
+		(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+		ga('create', 'UA-43434408-4', 'pearsonclinical.com');
+		ga('send', 'pageview');
+
+	</script>
+</head>
+
+<body class="site-CA theme-default">
+    <script language="JavaScript" type="text/javascript" src="/etc/designs/ani/clinicalassessments/us/clientlibs/js/adobe/s_code.js"></script>
+    
+
+
+<div class="w100percent posRel brandBarWrap">
+    <a href="/">
+        <div class="w100percent brandBar clinicalFullPageWidth">
+            <div class="brandBarLogo floatLeft textLeft">
+                <img alt="Always Learning" title="Always Learning" src="/etc/designs/ani/clinicalassessments/us/images/pearsonBrand/logoPearson.png">
+            </div>
+            <div class="brandBarPhrase floatRight textRight">
+                <img alt="Always Learning" title="Always Learning" src="/etc/designs/ani/clinicalassessments/us/images/pearsonBrand/alwayslearning.png">
+            </div>
+            <div class="clear">&nbsp;</div>
+        </div>
+        <div class="printBrandBar w100percent">
+            <img src="/etc/designs/ani/clinicalassessments/us/images/print/neutralBrandBar.png">
+        </div>
+    </a>
+    <div class="clear">&nbsp;</div>
+</div>
+<div class="clear">&nbsp;</div>
+
+
+
+
+<div class="securityContext security">
+
+
+
+</div>
+
+
+
+<div class="clinicalPageWrap clinicalFullPageWidth clinicalPageTopNav">
+<script type="text/javascript">
+    function myAccountLinkClick(url) {
+        var welcome = cookie.get("EP-Welcome", null);
+        if (welcome!=null && welcome != "null" &&  welcome.length > 5) {
+            displayDiv('accountOptionsPop');
+            jQuery('#myAccountLink').removeClass('clinicalAccountButtonClose');
+            jQuery('#myAccountLink').addClass('clinicalAccountButtonOpen');
+        } else {
+            window.location(url);
+            //jQuery('#myAccountLink').addClass('clinicalAccountButtonClose');
+        }
+    }
+    function displayOrderByProduct() {
+        displayDiv('orderPop');
+        jQuery('#orderByProductNumberPopError').hide();
+        var frm = jQuery('#orderByProduct_Form');
+        frm.find('[name="quantity"]').val("");
+        frm.find('[name="prod_id"]').val("");
+    if(frm.find("input[name=prod_id]").hasClass("ani_form_error")){
+            frm.find("input[name=prod_id]").removeClass("ani_form_error");
+        }
+    }
+    function validateOrderByProduct(inputField, isAlpha) {
+        var temp = "";
+        for (var i=0; i < inputField.value.length; i++) {
+            if ("0123456789".indexOf(inputField.value.charAt(i)) != -1 || (isAlpha && inputField.value.charAt(i).match("[a-zA-Z-]") != null)) {
+                temp = temp + inputField.value.charAt(i);
+            }
+        }
+        inputField.value = temp;
+    }
+    function orderByProductFormSubmit() {
+        var frm = jQuery('#orderByProduct_Form');
+        if (frm.find('[name="prod_id"]').val() == null || frm.find('[name="prod_id"]').val() == "") {
+            jQuery('#orderByProductNumberPopError').html("You have not specified a product number. Please try again.");
+            jQuery('#orderByProductNumberPopError').show();
+            jQuery("input[name=prod_id]").addClass("ani_form_error");
+            return false;
+        } else if(jQuery("input[name=prod_id]").hasClass("ani_form_error")){
+            jQuery("input[name=prod_id]").removeClass("ani_form_error");
+        }
+        var quantity = frm.find('[name="quantity"]').val();
+        if (quantity == null || quantity == "" || !quantity.match(/^\d+$/) || quantity.match(/^0+$/)) {
+            jQuery('#orderByProductNumberPopError').html("You have not specified a quantity. Please try again.");
+            jQuery('#orderByProductNumberPopError').show();
+            jQuery("input[name=quantity]").addClass("ani_form_error");
+            return false;
+        } else if(jQuery("input[name=quantity]").hasClass("ani_form_error")){
+            jQuery("input[name=quantity]").removeClass("ani_form_error");
+        }
+		scAddToCart(frm.find('[name="prod_id"]').val());
+        jQuery.ajax({
+            type: 'POST',
+            url: '/content/ani/clinicalassessments/us/en/search/orderByProduct.html',
+            data: frm.serialize(),
+            statusCode: {
+                0: function() {
+                    //alert("status of zero");
+                }
+            },
+
+            success: function(data, textStatus, jqXHR){
+
+				var errorString = "Unknown error adding to cart. Please try again later.";
+                var errorMsg = jqXHR.responseText;
+
+                if (errorMsg && errorMsg.indexOf("<h1>") > 0) {
+                    errorString = "You have submitted an invalid product number. Please try again.";
+					jQuery('#orderByProductNumberPopError').html(errorString);
+                    jQuery('#orderByProductNumberPopError').show();
+                    jQuery("input[name=prod_id]").addClass("ani_form_error");
+
+                } else {
+                    if (/cart.html/.test(window.location.href)) {
+                        window.location.replace("cart.html");
+                    }
+                    jQuery('#orderByProductNumberPopError').hide();
+                    jQuery('#orderPop').hide();
+                    retrieveCartCount();
+                }
+
+            }
+        });
+        return false;
+    };
+    jQuery(document).ready(function() {
+        jQuery("#closeOrderByPopup").click(function(){
+            hideDiv('orderPop');
+			jQuery("input[name=quantity]").removeClass("ani_form_error");
+            jQuery("input[name=prod_id]").removeClass("ani_form_error");
+        });
+
+        jQuery("#closeAccountPopup").click(function(){
+            hideDiv('accountOptionsPop');
+            jQuery('#myAccountLink').removeClass('clinicalAccountButtonOpen');
+            jQuery('#myAccountLink').addClass('clinicalAccountButtonClose');
+        });
+        jQuery("#myAccountLink").click(function(){
+           // hideDiv('cartPop');
+            jQuery("#cartLink").removeClass('clinicalCartButtonOpen');
+            jQuery("#cartLink").addClass('clinicalCartButtonClose');
+
+            if(jQuery("#myAccountLink").hasClass("clinicalAccountButtonOpen"))
+            {
+                hideDiv('accountOptionsPop');
+                jQuery('#myAccountLink').removeClass('clinicalAccountButtonOpen');
+                jQuery('#myAccountLink').addClass('clinicalAccountButtonClose');
+            }
+            else
+            {
+                var welcome = cookie.get("EP-Welcome", null);
+                if (welcome!=null && welcome != "null" &&  welcome.length > 5) {
+                    displayDiv('accountOptionsPop');
+                    jQuery('#myAccountLink').removeClass('clinicalAccountButtonClose');
+                    jQuery('#myAccountLink').addClass('clinicalAccountButtonOpen');
+                } else {
+                   window.location=jQuery('#myAccountLink').data('key');
+                    //jQuery('#myAccountLink').addClass('clinicalAccountButtonClose');
+                }
+            }
+            return false;
+        });
+
+    });
+</script>
+<div class="clinicalTopNav">
+
+    <div class="floatLeft clinicalTopNavInterSites">
+        <div class="parsys toppar"></div>
+
+    </div>
+    <div class="floatRight clinicalTopNavLinkList">
+       
+<div class="parsys iParTopNav iparlist_topnav iparsys"><div class="section" id="iv3"><div class="new"></div>
+</div><div class="iparys_inherited" id="iv4"><div class="parsys iParTopNav iparlist_topnav iparsys"><script>jQuery(document).ready(function(){
+    	    jQuery('#topNav a').attr('target', '_self');
+		  });</script><ul id="topNav" class="horizontalList"><div class="parsys welcome">
+
+
+<style>.welcome{display:inline;}</style>
+
+<li class="firstInList colorPrimary" id="personalizedWelcomeMessageItem" style="display:none"></li>
+
+<script>
+<!--
+function checkCookie() {
+      var welcome = cookie.get("EP-Welcome", null);
+      if (welcome!=null && welcome != "null" &&  welcome.length > 5) {
+          if (welcome.substring(0, 1) == "\"") welcome = welcome.substring(1); 
+          if (welcome.substring(welcome.length-1) == "\"") welcome = welcome.substring(0, welcome.length-1);
+         jQuery('#personalizedWelcomeMessageItem').html(welcome + " <a href=\"/services/ecommerce/ped/ani/authentication/v1/.api?cmd=logout&ctx=ani\">(Logout)</a>");
+         jQuery('#personalizedWelcomeMessageItem').css('display', 'inline');
+      } else {
+         jQuery('#personalizedWelcomeMessageItem').hide();
+      }
+}
+checkCookie();
+
+//-->
+</script>
+</div>
+
+
+
+
+
+<li class="firstInList">
+    <a href="/" title="Home">Pearson Clinical Home</a>
+</li>
+
+
+
+
+<li class="item">
+    <a href="/about/help.html" title="Customer Support">Help and Support</a>
+</li>
+
+
+
+
+<li class="item">
+    <a href="/ordering.html" title="Ordering FAQs">Ordering FAQs</a>
+</li>
+
+
+
+
+<li class="item">
+    <a href="/about.html" title="About">About</a>
+</li>
+
+
+
+
+<li class="lastInList">
+    <a href="/contact.html" title="Contact Us">Contact Us</a>
+</li></ul>
+</div>
+</div>
+</div>
+
+    </div>
+    <div class="clear"></div>
+
+
+    <div class="floatRight clinicalTopNavButtons">
+        <div class="clinicalTopNavButtonWrap clinicalTopNavButtonWrapCart">
+            <div class="cartcount">
+<script>
+function retrieveCartCount() {
+    jQuery.ajax({
+        type: 'POST',
+        url: '/services/ecommerce/ped/ani/cart/count/v1',
+        error: function(jqXHR, textStatus, errorThrown){
+            jQuery('#myAccountPopError').show();
+                jQuery('#cartCount').html('Cart (<span class="cartCountNum">' + 0 + ' items</span>)');
+                jQuery('#cartCountDetails').html('<p>Your cart is empty.</p>');
+                jQuery('#cartEstimatedTotal').html("");
+              return false;
+        },
+        success: function(data, textStatus, jqXHR){
+            if (data != null) {
+                var totalQuantity = parseInt(data.totalQuantity);
+                if (totalQuantity < 1) {
+                    jQuery('#cartCount').html('Cart (<span class="cartCountNum">' + 0 + ' items</span>)');
+                    jQuery('#cartCountDetails').html('<p>Your Cart is empty.</p>');
+                    jQuery('#cartEstimatedTotal').html("");
+                } else if (totalQuantity == 1) {
+                    jQuery('#cartCount').html('Cart (1 item)');
+                } else {
+                    jQuery('#cartCount').html('Cart (<span class="cartCountNum">' + totalQuantity + ' items</span>)');
+                }
+            } else {
+                    jQuery('#cartCount').html('Cart (<span class="cartCountNum">' + 0 + ' items</span>)');
+                    jQuery('#cartCountDetails').html('<p>Your Cart is empty.</p>');
+                    jQuery('#cartEstimatedTotal').html("");
+            }
+
+        }
+    });
+}
+jQuery(document).ready(function() {
+  retrieveCartCount();
+  jQuery("a#cartLink").show();
+  jQuery("#cartButton").hide();
+  jQuery("#closeCartPopup").click(function(){  
+        jQuery("#cartLink").removeClass('clinicalCartButtonOpen');
+        jQuery("#cartLink").addClass('clinicalCartButtonClose');
+
+  });
+
+});
+
+</script>
+<a id="cartLink" class="peBtn btnIcons-cart" style="display:none;" title="Cart" href="/services/ecommerce/ped/ani/cart/v1?segmentName=&amp;siteContext=ani.clinicalassessment.us.clinicalassessment&amp;cartRequest=true">
+    <span class="buttonLeftIcon">
+        <span class="buttonRightIcon">
+            <span class="buttonText">
+                <span id="cartCount">Cart (0 items)</span>
+            </span>
+        </span>
+    </span>
+</a>
+
+<!-- SI added the cartRequest=true parameter to differentiate whether a user is requesting cart page or updating cart within the checkout flow -->
+<a id="cartButton" class="peBtn btnIcons-cart" title="Cart" href="/services/ecommerce/ped/ani/cart/v1?segmentName=&amp;siteContext=ani.clinicalassessment.us.clinicalassessment&amp;cartRequest=true">
+    <span class="buttonLeftIcon">
+        <span class="buttonRightIcon">
+            <span class="buttonText">
+                <span id="cartCount">Cart</span>
+            </span>
+        </span>
+    </span>
+</a>
+
+
+
+</div>
+
+        </div>
+        <div class="clinicalTopNavButtonWrap clinicalTopNavButtonWrapAccount">
+            <a href="/account/myaccount.html" class="peBtn btnIcons-account" id="myAccountLink" title="My Account" data-key="/content/ani/clinicalassessments/us/en/account/myaccount.html">
+                <span class="buttonLeftIcon">
+                    <span class="buttonRightIcon">
+                        <span class="buttonText">My Account</span>
+                    </span>
+                </span>
+            </a>
+            <div class="topNavPopUpHolder posRel">
+                <div class="accountOptions accountPopup">
+
+
+<div class="topNavPopUpWrap posAbsolute" id="accountOptionsPop" style="display: none;">
+
+
+    
+    <div class="topNavPopUp">
+        <div class="topNavPopUpIDS" id="accountOptionsPopup">
+            <div class="close-btn" id="closeAccountPopup"></div>
+            <h2 class="accountPopAccountOptions">Account Options</h2>
+            <ul class="listlessList">
+                <li><a href="/account/myaccount.html">Profile</a></li>
+                <li><a href="/account/payment_list.html">Payment Method</a></li>
+                <li><a href="/account/address_book_list.html">Address Book</a></li>
+                
+				
+                    <li><a href="/account/qualification_list.html">Qualification Information</a></li>
+                
+
+            </ul>
+            <hr>
+            <h4>Order History</h4>
+            <ul class="listlessList">
+                <li><a href="/account/orders.html">Order History &amp; Saved Cart</a></li>
+            </ul>
+			
+            	<a class="peBtn btn-primary btnIcons-rightArrow floatRight" href="/services/ecommerce/ped/ani/authentication/v1/.api?cmd=logout">
+            
+                <span class="buttonLeftIcon">
+                    <span class="buttonRightIcon">
+                        <span class="buttonText">Logout</span>
+                    </span>
+                </span>
+            </a>
+            <div class="clear"></div>
+        </div>
+    </div>
+</div></div>
+
+                <div class="clear"></div>
+            </div>
+        </div>
+        <div class="clear"></div>
+
+    </div>
+    <div class="clear"></div>
+    <div class="w100percent">
+        <div class="segementTopNav floatLeft w70percent"><div class="segmentName">
+
+
+<div class="title">
+    <h1><a href="/">Clinical Assessment</a></h1>
+</div></div>
+
+        </div>
+
+        <div class="orderByWrapper floatRight w30percent">
+            <div class="clinicalTopNavOrderProducts clinicalTopNavLinkList textRight">
+                <ul class="horizontalList" id="orderByProduct">
+                    <li class="lastInList"><a class="linkWithArrow" href="/search/orderByProduct.html" onclick="javascript: displayOrderByProduct(); customLinkTrack('Order by Product Number');return false;" title="Order by Product Number">Order by Product Number</a></li>
+                </ul>
+                <div class="topNavPopUpHolder posRel">
+                    <div class="topNavPopUpWrap posAbsolute" id="orderPop" style="display: none;">
+                        <div class="topNavPopUp">
+                            <div class="topNavPopUpIDS" id="orderByPopup">
+                                <div class="close-btn" id="closeOrderByPopup"></div>
+
+                                <span class="orderbyProductTitle">Order by Product Number</span>
+                                <div class="topNavPopUpError" id="orderByProductNumberPopError" style="display: none;"></div>
+                                <p>Enter the product number (catalog code or ISBN<br>
+                                    number) and select the quantity you wish to purchase.</p>
+                                <form name="orderByProduct_Form" id="orderByProduct_Form" onsubmit="return orderByProductFormSubmit();">
+                                    <table class="orderByProductActionTable">
+                                        <tbody><tr>
+                                            <th>Product Number</th>
+                                            <th>Qty</th>
+                                            <th><input type="hidden" value="/content/ani/clinicalassessments/us/en/search/orderByProduct/jcr:content/par/start" name=":formstart"><input type="hidden" value="true" name="ajaxForm"></th>
+                                        </tr>
+                                        <tr>
+                                            <td><input type="text" name="prod_id" size="12" maxlength="25" onkeyup="validateOrderByProduct(this, true)"></td>
+                                            <td><input type="text" name="quantity" size="3" maxlength="3" onkeyup="validateOrderByProduct(this, false)"></td>
+                                            <td><button type="submit" class="peBtn btnIcons-cart"><span class="buttonLeftIcon"><span class="buttonRightIcon"><span class="buttonText">Add To Cart</span></span></span></button>
+                                            
+                                            </td>
+                                        </tr>
+                                    </tbody></table>
+                                </form>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="clear"></div>
+        </div>
+    </div>
+    <div class="clear"></div>
+</div>
+</div>
+    <div class="clinicalPageWrap clinicalFullPageWidth clinicalPageBody">
+        
+
+<div class="content">
+    
+	    <div class="search">
+
+
+
+
+<script>
+jQuery(window).load(function(){
+  jQuery('#searchText').val("keyword or product name");
+  });
+  jQuery(function() {
+    jQuery("#searchText").autocomplete({
+
+      source: function( request, response ) {
+        jQuery.ajax({
+          url: "/services/solr/autocomplete/.api",
+          data: {
+            searchText: request.term.toLowerCase(),
+            siteContext: 'ani.clinicalassessment.us.clinicalassessment',
+            segmentName: 'not.found'
+            },
+            contentType: 'application/json; charset=utf-8',
+            dataType: 'json',
+            success: function( data ) {
+
+              response(jQuery.map(data, function( item ) {
+
+                return {
+                  label: item.label,
+                  value: item.label,
+                  quickSearchValue:item.value
+                  };
+                  }));
+                }
+                });
+
+                },
+                minLength: 3,
+                delay: 300,
+                select: function(event, ui) {
+
+                  if(ui.item){
+                    $('#searchText').val(ui.item.quickSearchValue);
+                  }
+                  $('#quicksearch').submit();
+
+                }
+                });
+                });
+  function clearText(){
+      if (document.quicksearch.searchText.value == "keyword or product name") {
+          document.quicksearch.searchText.value = "";
+      }
+  }
+  
+  function validateSearchTerm() {
+      var str = document.quicksearch.searchText.value;
+	  if ((str == "Search") || (str == "keyword or product name") || (/^([A-Za-z0-9-:&., ]*)$/.test(str))) {
+	  	if (str == "Search" || str == "keyword or product name") {
+	  		document.quicksearch.searchText.value = "";
+	  	}
+		return true;
+      } else {
+          alert ("Please enter valid search term.");
+          return false;
+      }
+  }
+</script>
+<div class="clinicalTopSearch">
+    <div class="clinicalTopSearchIDS">
+        <form method="get" name="quicksearch" id="quicksearch" action="/services/solr/search/.api" onsubmit="return validateSearchTerm();">
+            <label class="clinicalTopSearchTitle floatLeft"> Search: </label>
+            <input type="hidden" name="requestFrom" value="quickSearch">
+            <input type="hidden" name="siteContext" value="ani.clinicalassessment.us.clinicalassessment">
+			
+            <input class="clinicalTopSearchTxtBox ui-widget floatLeft" type="text" value="keyword or product name" onclick="javascript:clearText();" id="searchText" name="searchText">
+            <div class="">
+          	
+    		<input class="clinicalButton clinicalTopSearchButton" type="image" value="submit" name="searcSubmit" src="/etc/designs/ani/clinicalassessments/us/images/psychology/psychologyButtonMagGlass.png">
+            
+            </div>
+        </form>
+        <div class="clear"></div>
+    </div>
+</div></div>
+
+	    <div class="title"><div class=""><h1 class="programTitle">Privacy Policy</h1>
+    <h3></h3></div></div>
+
+    
+    
+	
+	<div class="par parsys"><div class="text parbase section"><p><b>Effective: October 1, 2013</b></p>
+<ul>
+<li><a href="#1">Applicability of Privacy Policy and Privacy Policy Statement</a></li>
+<li><a href="#2">Collection and Storage of Information</a></li>
+<li><a href="#3">Use of Information</a></li>
+<li><a href="#4">Information Received from Internet Service Providers</a></li>
+<li><a href="#5">Security of Private Information</a></li>
+<li><a href="#6">Your Rights</a></li>
+<li><a href="#7">Inquiries Concerning Privacy Policy</a></li>
+<li><a href="#8">Links to Other Sites</a></li>
+<li><a href="#9">Modification of This Privacy Policy</a></li>
+</ul>
+<h2><a name="1"></a>1. Applicability of Privacy Policy and Privacy Policy Statement</h2>
+<p>THIS PRIVACY POLICY APPLIES SOLELY TO THE PERSONALLY IDENTIFIABLE INFORMATION YOU, THE USER, PROVIDE WHILE VISITING THIS WEBSITE (SITE). THE TERMS OF THIS PRIVACY POLICY DO NOT GOVERN PERSONALLY IDENTIFIABLE INFORMATION FURNISHED THROUGH ANY MEANS OTHER THAN THIS SITE (SUCH AS BY TELEPHONE OR VIA THE MAIL).</p>
+<p>THIS PRIVACY POLICY IS SUBJECT TO CHANGE FROM TIME TO TIME BY UPDATED POSTINGS.&nbsp; THE PRIVACY POLICY IN EFFECT AT THE TIME OF USE OR SUBMISSION OF PERSONALLY IDENTIFIABLE INFORMATION WILL BE APPLICABLE.</p>
+<p>Pearson recognizes the importance of protecting the privacy of our visitors to this Site while permitting us to conduct legitimate business by providing goods, services and information of interest.</p>
+<p>IMPORTANT NOTE:&nbsp; This Privacy and Security Policy applies only to this Site (http://psychcorp.pearsonassessments.com).&nbsp; Other websites, including other Pearson websites linked through or to this Site, may have their own privacy policies which may differ.&nbsp; Your use of any other website is subject to the privacy policies for that other website.&nbsp; Please note that there are different privacy policies that govern our online products.&nbsp; Please make sure to review those policies before using those websites.</p>
+<h2><a name="2"></a>2. Collection and Storage of Information</h2>
+<p>We will collect certain personal information during different activities on this Site or otherwise, such as user registration, when you purchase materials, participate in a survey, contact us with questions or offer feedback on the Site. In connection with such activities, you may be asked to provide certain information such as your name, mailing address, telephone number, fax number, credit card number and email address. In order to qualify for the purchase of materials we may also request professional qualifications, affiliations or employment information. We may maintain this information in our computer and ordering system.</p>
+<h2><a name="3"></a>3. Information Received from Internet Service Providers</h2>
+<p>This system receives information that is automatically generated by a user’s Internet Service Provider (ISP) “cookies”. This information may include the IP address (a number automatically assigned to a computer by the ISP), the associated URLs, domain types, the browser type used to access our system, the country, state and telephone area code, the location of the ISP’s servers, the pages of our system that the user views, any search terms entered on this system, and the user’s website address and email address. This information may be collected for system administration purposes, to gather broad demographic information and to monitor the level of activity on the system. NCS Pearson does not link IP addresses to personally identifiable information; however, We reserve the right to link IP addresses and other information supplied by the ISP to personally identifiable information in order to protect the integrity of our system and for security purposes.</p>
+<h2><a name="4"></a>4. Use of Information</h2>
+<p>The information that we collect is used to fulfill a number of legitimate business functions, such as warranty service, product support, notices of new releases and upgrades, as well fulfilling any orders placed by you, to contact you in the event follow-up communications are necessary, to analyze survey results, to verify the statistical accuracy of the survey, to notify you of offers and services, to improve the Site, for development of new products and services, and for systems administration and troubleshooting purposes. Sometimes we hire companies to help us analyze survey results and to mail interested parties offers and information on products and services, or for other legitimate business purposes, such as product fulfillment or other third party services. In those instances, we need to share your information with them. These companies will be authorized to use the information in the same manner in which we have been authorized. In rare instances, we will disclose personally identifiable information to necessary parties to protect the Site or visitors to the Site, or to enforce compliance with our Terms and Conditions of Use.</p>
+<p>We may share personally identifiable information within the Pearson family of companies. Information concerning individuals' usage of the Site will not be disclosed to third parties except in an aggregate form (e.g., "45% of the visitors to the Site are repeat visitors") or as otherwise permitted under this Privacy Policy.</p>
+<p>Unless otherwise notified by you, we may use the information you provide us to send you email, fax or other communications. These communications may include email newsletters as well as information regarding products or services. All such communications will include instructions explaining how you can "opt out" of future communications of the same type.</p>
+<p>We may also disclose personally identifiable information collected on the Site as follows:</p>
+<ul>
+<li>In the event of an asset sale, merger, restructuring, reorganization, liquidation or similar transaction we may transfer information to the successor company.</li>
+<li>To our contractors.</li>
+<li>When we believe such disclosure is required by law or for the protection of persons or property.</li>
+<li>With your consent.</li>
+</ul>
+<p>Please be aware that if you disclose personally identifiable information on Website message boards or chat areas, that information may be collected and used by third parties without our knowledge and may result in unsolicited communications from third parties. Such activities are beyond the control of Pearson and are not protected by this Privacy Policy.</p>
+<h2><a name="5"></a>5. Security of Private Information</h2>
+<p>We use industry standard security safeguards to protect personally identifiable information we collect on the Site from unauthorized access, use, modification or disclosure. .&nbsp; However, the Internet is a global environment and by using this Site and sending information to us electronically, you consent to transborder and international transmission of any data that you may choose to supply us.&nbsp; Information transmissions to this site and emails sent to us may not be secure.&nbsp; Therefore, we cannot guarantee that communications between you and our servers will be free from unauthorized access by third parties.</p>
+<h2><a name="6"></a>6. Your Rights</h2>
+<p>You may review and approve the information about you collected while visiting the Site by contacting our Customer Service Department through our Contact Us page. Upon your request, we will correct personal information that you state is erroneous or remove any information from our computer system. Requests for the correction or removal of information should be directed to our Customer Service Department by selecting Customer Service on our Contact Us page.</p>
+<h2><a name="7"></a>7. Inquiries Concerning Privacy Policy</h2>
+<p>Questions regarding this Privacy Policy should be directed to <a href="mailto:Legal.Department@Pearson.com">Legal.Department@Pearson.com</a>.</p>
+<h2><a name="8"></a>8. Links to Other Sites</h2>
+<p>The Site may contain links to other websites on the Internet that are owned and operated by third parties, or by NCS Pearson or its affiliates.&nbsp; The information practices of those website are not covered by this Privacy Policy, but by their own terms and polices, which you should read carefully.&nbsp; These other sites may send their own cookies to users, collect data or solicit personal information.&nbsp; The Privacy Policy only applies to http://www.pearsonclinical.com.&nbsp; It is not intended to apply to other NCS Pearson websites, which may have different privacy policies.&nbsp;</p>
+<h2><a name="9"></a>9. Modification of This Privacy Policy</h2>
+<p>We reserve the right to change the terms of this Privacy Policy from time to time by posting an updated Privacy Policy.&nbsp; We encourage you to review this Privacy Policy periodically for any changes or updates. If we change our privacy policy, we will post these changes on this website and other places deemed appropriate to inform users.</p>
+<p>&nbsp;</p>
+</div>
+</div>
+
+</div>
+        
+
+
+<div class="clear">&nbsp;</div>
+<div class="footer">
+
+    <div class="footerSection footerSectionBottom">
+        <div class="footerSectionIDS">
+            <div class="floatLeft w40percent paddingBottom">
+                <div class="parsys iparsys iparsys_footerImg"><div class="section"><div class="new"></div>
+</div><div class="iparys_inherited"><div class="parsys iparsys iparsys_footerImg"><div class="parbase image section">
+    
+    <div style="float:left" id="cq-image-jsp-/content/ani/clinicalassessments/us/en/jcr:content/iparsys_footerImg/image"><img title="PsychCorp" alt="PsychCorp" class="cq-dd-image" src="/content/ani/clinicalassessments/us/en/_jcr_content/iparsys_footerImg/image.img.png/1363198820226.png"></div>
+    
+    
+
+
+<script type="text/javascript">
+    (function() {
+        var imageDiv = document.getElementById("cq-image-jsp-/content/ani/clinicalassessments/us/en/jcr:content/iparsys_footerImg/image");
+        var imageEvars = '{ imageLink: "", imageAsset: "/content/dam/ani/clinicalassessments/us/pearsonBrand/psychCorpLogo.png", imageTitle: "PsychCorp" }';
+        var tagNodes = imageDiv.getElementsByTagName('A');
+        for (var i = 0; i < tagNodes.length; i++) {
+            var link = tagNodes.item(i); 
+            link.setAttribute('target', '');
+            link.setAttribute('onclick', 'CQ_Analytics.record({event: "imageClick", values: ' + imageEvars + ', collect:  false, options: { obj: this }, componentPath: "ani/clinicalassessments/us/components/content/image"})');
+        }
+        
+    })();
+</script>
+</div>
+</div>
+</div>
+</div>
+
+            </div>
+            <div class="floatRight w40percent textRight">
+                <div class="footerOtherPearsonSites">
+                    <div class="parsys iparsys iparsys_pearsonsites"><div class="section"><div class="new"></div>
+</div><div class="iparys_inherited"><div class="parsys iparsys iparsys_pearsonsites"><div class="pearsonSitesDropDown section">
+
+
+		<script>
+		    function navigateToUrl(selectField){
+		        if (selectField.selectedIndex != 0) {
+		            window.open(selectField.options[selectField.selectedIndex].value);
+		            selectField.selectedIndex = 0;
+		        }
+		    }
+		    jQuery(document).ready(function() {
+		        jQuery("#pearsonSitesLink").hide();
+		        jQuery("#pearsonSites").show();
+		    });
+		</script>
+		<select class="" id="pearsonSites" name="pearsonSites" onchange="javascript:navigateToUrl(this);" style="padding: 2px; display:none">
+		    <option value=".html">Other Pearson Sites</option><option value="/content/ped/ani/pa/us/en.html">Assessment</option><option value="/content/ani/clinicalassessments/us/en.html">Clinical Assessments</option><option value="/content/ped/ani/pa/us/en/largescaleassessment.html">Large-Scale Assessment</option><option value="/content/ped/ani/pa/us/en/learningassessments.html">Learning Assessment</option><option value="/content/ped/ani/pa/us/en/postsecondaryeducation.html">Post-Secondary Education</option><option value="/content/ped/ani/pa/us/en/talentassessment.html">Talent Assessment</option><option value="/content/ped/ani/pa/us/en/teacherlicensure.html">Teacher Licensure Testing And Performance Assessment</option>
+			</select>
+			<a href="/about/pearsonSites.html" id="pearsonSitesLink">Other Pearson Sites</a>
+			
+
+</div>
+</div>
+</div>
+</div>
+
+                </div>
+            </div>
+            <div class="clear">&nbsp;</div>
+            <div class="footerGlobalLinks textLeft">
+                <div class="footerLegalLinks">
+                    
+
+<div class="iparsys_footerlinks parsys iparsys iParBottomNav"><div class="section" id="iv3"><div class="new"></div>
+</div><div class="iparys_inherited" id="iv4"><div class="iparsys_footerlinks parsys iparsys iParBottomNav"><script>jQuery(document).ready(function(){
+    	    jQuery('#bottomNav a').attr('target', '_self');
+		  });</script><ul id="bottomNav" class="horizontalList">
+
+
+
+<li class="firstInList">
+    <a href="/contact/permissions.html" title="Permissions and Licensing">Permissions and Licensing</a>
+     | 
+</li>
+
+
+
+<li class="item">
+    <a href="/legal/termsofsale.html" title="Terms of Sales and Use">Terms of Sales and Use</a>
+     | 
+</li>
+
+
+
+<li class="item">
+    <a href="/ordering/returns.html" title="Returns">Returns</a>
+     | 
+</li>
+
+
+
+<li class="item">
+    <a href="/legal/privacy.html" title="Privacy">Privacy</a>
+     | 
+</li>
+
+
+
+<li class="lastInList">
+    <a href="/legal/termsofuse.html" title="Website Terms of Use">Website Terms of Use</a>
+    
+</li></ul>
+</div>
+</div>
+</div>
+
+                </div>
+                <div class="copyright">
+
+
+<span class="footerCopyright">
+ Copyright © 2013 Pearson Education, Inc or its affiliate(s). All rights reserved.
+</span></div>
+
+            </div>
+            <div class="clear">&nbsp;</div>
+        </div>
+        <div class="clear">&nbsp;</div>
+    </div>
+</div>
+    </div>
+    <div class="analytics">
+
+                
+
+
+<!-- Begin Paste the SiteCatalyst JavaScript Page code here -->
+        
+<!-- SiteCatalyst code version: H.22.1.
+Copyright 1996-2011 Adobe, Inc. All Rights Reserved
+More info available at http://www.omniture.com -->
+<script language="JavaScript" type="text/javascript"><!--
+var console=console||{"log":function(){}};
+var scpath=location.pathname;
+function getStaticPageName()
+{
+	var segment = getSegmentName();
+    var progId = "";
+    var pageType = "null";
+    if(s.events=="purchase"){
+        return segment+"ecommerce:checkout:PlaceOrder";
+    }
+    if(scpath == "/content/ani/clinicalassessments/us/en.html" || scpath == "/content/ped/ani/pa/us/en.html" ||  scpath == "/" || scpath == ""){
+        return document.title.toLowerCase();
+    }    
+    if (location.search) {
+        if(getParam("categoryId") != ""){
+            return segment+"category:"+document.title.toLowerCase();
+        } else if(getParam("requestFrom") == "quickSearch"){
+            return segment+"search page";
+        } else if(getParam("requestFrom") == "discoBox"){
+            return segment+"browse assessments";
+        }
+    }
+    if(progId != ""){
+        return segment+"product details page";
+    }
+    if(scpath.indexOf("error") != -1){
+        return "";
+    }
+    if(scpath == "/services/solr/search/.POST.api"){
+        return segment+"faceted search";
+    }
+    scpath = scpath.replace("/content/ani/clinicalassessments/us/en/","");
+    scpath = scpath.replace("/content/ped/ani/pa/us/en/","");
+    scpath = scpath.replace(/\//g,':').replace(/%20/g,' ').replace(/.html/,'');
+    if(scpath.charAt(0)==':'){
+        scpath = scpath.substring(1,scpath.length);
+    }
+    return scpath;
+}
+
+function getParam( name )
+{
+    name = name.replace(/[\[]/,"\\\[").replace(/[\]]/,"\\\]");
+    var regexS = "[\\?&]"+name+"=([^&#]*)";
+    var regex = new RegExp( regexS );
+    var results = regex.exec( window.location.href );
+    if( results == null )
+        return "";
+    else
+        return results[1];
+}
+
+function getSegmentName()
+{
+	var segment = "";
+    if(segment != ""){
+        segment += ':';
+    }
+    return segment;
+}
+
+function customLinkTrack(linkName)
+{
+    s.tl(true,'o',linkName);
+}
+
+function customPageTrack(pageName)
+{
+    var customObject = new Object();
+    customObject.pageName = pageName;
+    s.pageName=pageName;
+    s.t(customObject);
+}
+
+function trackDownloads(fileName, url)
+{
+	s.linkTrackVars='eVar24,events';
+	s.linkTrackEvents='event24';
+	s.eVar24=fileName;
+	s.events='event24';
+	s.tl(this,'d',url);
+}
+function trackSocialMedia(linkName, url)
+{
+	s.linkTrackVars='eVar20,events';   
+	s.linkTrackEvents='event22';
+	s.eVar20=linkName;
+	s.events='event22';
+	s.tl(this,'o',url);
+}
+function trackRegisterLink(linkName, url)
+{
+	s.linkTrackVars='eVar23,events'; 
+	s.linkTrackEvents='event23'; 
+	s.eVar23=linkName; 
+	s.events='event23'; 
+	s.tl(this,'e',url); 
+}
+
+function scAddToCart(programId)
+{
+    if($.cookie('EP-Cart-Id') == null){
+       s.events="scOpen,scAdd";
+    } else {
+       s.events="scAdd";
+    }
+    s.products = ";"+programId;
+    s.linkTrackEvents = s.events;
+    /* add to cart location */
+    s.prop6 = getStaticPageName();
+    s.eVar9=s.prop6; 
+    s.linkTrackVars='events,products';
+    s.linkTrackVars+=s.apl(s.linkTrackVars,'eVar9',',',2); 
+    s.tl(true,'o','Add to Cart');
+}
+
+s.pageName=getStaticPageName();
+if(s.pageName.indexOf("login")!=-1){
+	s.events = "event7";
+}
+jQuery(document).ready(function() {
+	jQuery("button#registerLink").click(function() {
+	    s.linkTrackVars='eVar4';
+	    s.eVar4 = s.eVar21;
+	    customLinkTrack("Registration Initiated");
+	}),
+	jQuery("#loginButton").click(function() {
+		s.linkTrackVars='events,eVar16';
+		s.linkTrackEvents='event15';
+		s.events='event15';
+		s.eVar16=jQuery('#login_form2_username').val();
+		customLinkTrack("Login");
+	})
+});
+
+	
+console.log(s.pageName);
+s.channel="";
+if(scpath.indexOf("error") != -1){
+    s.pageType="errorPage";
+}
+var searchText = getParam("searchText");
+var siteContext = getParam("siteContext");
+if(searchText != ""){
+    if(siteContext == "content"){
+        s.prop1 = "content:"+unescape(searchText);
+    } else {
+        s.prop1 = "program:"+unescape(searchText);
+    }
+}
+
+/* Conversion Variables */
+s.products=""
+if(s.products != ""){
+   s.events = "prodView, event3"
+}
+
+/************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
+var s_code=s.t();if(s_code)document.write(s_code)//--></script>
+<script language="JavaScript" type="text/javascript"><!--
+if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')
+//--></script><noscript><img src="http://pearsonnorthamerica.122.2O7.net/b/ss/clinicaldev/1/H.19.4--NS/0" height="1" width="1" border="0" alt=""/></noscript><!--/DO NOT REMOVE/-->
+<!-- End SiteCatalyst code version: H.22.1. -->
+        
+<!-- End Paste the SiteCatalyst JavaScript Page code here -->
+</div>
+
+
+
+</body></html>
