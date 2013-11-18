@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gameoff.com privacy policy that was archived on 2013-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130518013806id_/http%3A//www.gameoff.com/en-gb/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gameoff.com privacy policy that was archived on 2013-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131118183148id_/http%3A//www.gameoff.com/en-gb/policy) for the most accurate reproduction.*
 
 # Privacy Policy - Gameoff
 
@@ -39,4 +39,4 @@ By using our site, you consent to our privacy policy
 
 ##  Changes to our Privacy Policy 
 
-If we decide to change our privacy policy, we will post those changes on this page. <https://www.gameoff.com/policy/>. 
+If we decide to change our privacy policy, we will post those changes on this page. <https://www.gameoff.com/en-gb/policy/>. 
