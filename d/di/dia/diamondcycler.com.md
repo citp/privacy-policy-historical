@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the diamondcycler.com privacy policy that was archived on 2013-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130519235436id_/http%3A//www.diamondcycler.com/content.php%3Fp_id%3D16) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the diamondcycler.com privacy policy that was archived on 2013-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131118195248id_/http%3A//diamondcycler.com/content.php%3Fp_id%3D16) for the most accurate reproduction.*
 
 # Diamondcycler.com : Privacy Policy
 
