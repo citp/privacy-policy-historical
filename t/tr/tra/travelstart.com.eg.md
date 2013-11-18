@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the travelstart.com.eg privacy policy that was archived on 2013-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130520121556id_/http%3A//www.travelstart.com.eg/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the travelstart.com.eg privacy policy that was archived on 2013-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131118061658id_/http%3A//www.travelstart.com.eg/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Travelstart Egypt
 
