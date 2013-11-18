@@ -1,15 +1,21 @@
-> *The following text is extracted and transformed from the howtogetridofstuff.com privacy policy that was archived on 2012-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120516004219id_/http%3A//www.howtogetridofstuff.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the howtogetridofstuff.com privacy policy that was archived on 2013-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131118134416id_/http%3A//www.howtogetridofstuff.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - howtogetridofstuff.com
+# Privacy Policy | How To Get Rid Of Stuff
 
-Hi! The section below is our privacy statement. It tells you what information we collect about you and how we use it. It should be pretty easy to understand, but if you have any questions about it please contact us [here](http://www.howtogetridofstuff.com/submit-a-problem/) and we’d be happy to explain anything to you in plain English.
+1sdfdsfsfdsfsdfs11
+
+Hi! The section below is our privacy statement. It tells you what information we collect about you and how we use it. It should be pretty easy to understand, but if you have any questions about it please contact us [here](http://www.howtogetridofstuff.com/submit-a-problem/) and we’d be happy to explain anything to you in plain english.
 
 The short version is:We collect only the information you give us freely, and we use it only to improve the site. We currently do not send out emails to our users unless specifically asked to, and we never sell your information to other companies. You will not be spammed by us!
 
-## Privacy Policy Statement
+### Privacy Policy Statement
 
 This is the web site of HowToGetRidOfStuff.com.
 
+Our postal address is  
+2587 Affirmed Place  
+Victoria, BC Canada  
+V9B-5S9  
 You can contact us through [this form](http://www.howtogetridofstuff.com/contact-us/).
 
 For every visitor that comes to our Site, our server recognizes only the visitor’s domain name, but not the e-mail address.
