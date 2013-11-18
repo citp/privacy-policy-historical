@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the url.com privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230181810id_/http%3A//search.url.com/message/private_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the url.com privacy policy that was archived on 2013-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131118061115id_/http%3A//search.url.com/message/private_policy) for the most accurate reproduction.*
 
-# url.com: Search with Many
+# URL.com: Search with Many
 
 ## What This Privacy Policy Covers
 
-  * This privacy policy pertains to the use of all services related to CoolChaser Corporation, including the url website at [www.url.com](http://www.url.com/).
+  * This privacy policy pertains to the use of all services related to CoolChaser Corporation, including the URL.com website at [www.url.com](http://www.url.com/).
   * This privacy policy covers how CoolChaser treats personal information that CoolChaser collects and receives. Personal information is information about you that is personally identifiable including but not limited to your name, address, email address, or phone number.
   * Children under 13 are not permitted to use any CoolChaser services, and so this privacy policy makes no provision for children's use of the site.
 
@@ -85,4 +85,4 @@ Next Small Things
 193 Waverley St Suite 6502  
 Palo Alto, California 94301  
 USA  
-email: copyright@nextsmallthings.com 
+Email: contact@nextsmallthings.com 
