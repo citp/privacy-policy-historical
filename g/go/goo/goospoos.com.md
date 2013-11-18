@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goospoos.com privacy policy that was archived on 2013-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130529132743id_/http%3A//www.goospoos.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goospoos.com privacy policy that was archived on 2013-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131118101615id_/http%3A//www.goospoos.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - GoosPoos
 
