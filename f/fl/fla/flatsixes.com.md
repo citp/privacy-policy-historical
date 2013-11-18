@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the flatsixes.com privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530161547id_/http%3A//flatsixes.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flatsixes.com privacy policy that was archived on 2013-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131118081955id_/http%3A//flatsixes.com/about/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | @FlatSixes - the blog about Porsche
+# Privacy Policy - @FlatSixes - the blog about Porsche
 
 Your privacy is important to us. FlatSixes.com maintains high standards for the protection of your privacy at our website. Here is what you can expect when you visit FlatSixes.com:
 
