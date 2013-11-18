@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seotipsy.com privacy policy that was archived on 2013-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130519105112id_/http%3A//www.seotipsy.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seotipsy.com privacy policy that was archived on 2013-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131118165201id_/http%3A//www.seotipsy.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | SEO Tips
 
@@ -15,5 +15,3 @@ Your privacy is very important to us. Accordingly, we have developed this Policy
 
 
 We are committed to conducting our business in accordance with these principles in order to ensure that the confidentiality of personal information is protected and maintained.
-
-#### Popular questions:
