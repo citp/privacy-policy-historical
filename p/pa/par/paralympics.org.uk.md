@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the paralympics.org.uk privacy policy that was archived on 2013-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130517031152id_/http%3A//www.paralympics.org.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paralympics.org.uk privacy policy that was archived on 2013-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131118014742id_/http%3A//www.paralympics.org.uk/privacy-policy) for the most accurate reproduction.*
 
 # British Paralympic Association Privacy Policy
 
@@ -16,7 +16,7 @@ We collect the following information from visitors to our website: information s
 
 We use the information we collect on the website to help us understand how the website is being used and to allow us to communicate with you. Such information will enable us to communicate with you on any matter relating to the BPA, including the provision by us or selected third parties of relevant information, goods and/or services in which we think you may be interested unless you have chosen not to receive such material. Information may be transferred to third parties and internationally (including to countries without data protection laws) for the foregoing purposes.
 
-You can (subject to payment of an appropriate fee) request a copy of information held about you at any time by contacting [info@paralympics.org.uk](mailto:info@paralympics.org.uk?subject=Request%20for%20information%20held%20by%20the%20BPA%20on%20users%20of%20it%27s%20website). In the event that the operations of the BPA are transferred to or integrated with another operation, your details may be disclosed to our advisors and transferee of the operations of the BPA.
+You can (subject to payment of an administration fee) request a copy of information held about you at any time by contacting [info@paralympics.org.uk](mailto:info@paralympics.org.uk?subject=Request%20for%20information%20held%20by%20the%20BPA%20on%20users%20of%20it%27s%20website). In the event that the operations of the BPA are transferred to or integrated with another operation, your details may be disclosed to our advisors and transferee of the operations of the BPA.
 
 ##  4\. How do we use your personal information?
 
@@ -25,7 +25,7 @@ The BPA may use your personal information, such as your name and contact details
 \- for the detection of fraud and for market research purposes; and  
 \- for other reasonable purposes, always acting within the limits of the Data Protection Act, 1998.
 
-If you have consented when submitting your personal data (e.g. by ticking or not ticking a consent box) we may also use your personal information, as stated above, to market to you BPA and/or third party products and services and for such other requirements as you may have indicated or consented to.
+If you have consented when submitting your personal data (e.g. by ticking or not ticking a consent box, as appropriate) we may also use your personal information, as stated above, to market to you BPA and/or third party products and services and for such other requirements as you may have indicated or consented to.
 
 ##  5\. Cookies
 
