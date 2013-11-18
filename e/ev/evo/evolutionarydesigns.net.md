@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the evolutionarydesigns.net privacy policy that was archived on 2013-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130518233957id_/http%3A//www.evolutionarydesigns.net/blog/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the evolutionarydesigns.net privacy policy that was archived on 2013-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131118121905id_/http%3A//www.evolutionarydesigns.net/blog/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Evolutionary Designs
 
@@ -10,7 +10,7 @@ When ordering or registering on our site, as appropriate, you may be asked to en
 
 Google, as a third party vendor, uses cookies to serve ads on your site.  
 Google’s use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet.  
-Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy..
+Users may opt out of the use of the DART cookie by visiting the Google ad and content network [privacy policy](http://www.evolutionarydesigns.net/blog/privacy-policy/ "privacy policy")..
 
 **What do we use your information for?**
 
