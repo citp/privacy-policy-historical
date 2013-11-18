@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the whitesmoke.com privacy policy that was archived on 2013-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130517213804id_/http%3A//www.whitesmoke.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whitesmoke.com privacy policy that was archived on 2013-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131118133705id_/http%3A//www.whitesmoke.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy | World-Leading Language Solutions by WhiteSmoke
 
-[](http://clicktoverify.truste.com/pvr.php?page=validate&softwareProgramId=174&sealid=112 "Validate TRUSTe privacy certification")
+[](http://secure.trust-guard.com/privacy/2160)
 
 **WhiteSmoke Privacy Statement**
 
@@ -12,7 +12,7 @@ Thank you for visiting WhiteSmoke Inc.'s. (“WhiteSmoke”) website (the “Sit
 
 If you have any questions about this Privacy Policy, please feel free to contact us through our website or write to us at [support@whitesmoke.com](mailto:support@whitesmoke.com)
 
-Whitesmoke has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program does not cover information that may be collected through downloadable software. This privacy policy covers the site [www.whitesmoke.com](http://www.whitesmoke.com/). TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact Rachel S. at [support@whitesmoke.com](mailto:support@whitesmoke.com). If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint).
+Whitesmoke has been awarded TrustGuard's Privacy Seal signifying that this privacy policy and practices have been reviewed by TrustGuard for compliance with [TrustGuard's program requirements](http://secure.trust-guard.com/privacy/2160) including transparency, accountability and choice regarding the collection and use of your personal information. The TrustGuard program does not cover information that may be collected through downloadable software. This privacy policy covers the site [www.whitesmoke.com](http://www.whitesmoke.com/). TrustGuard's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at [support@whitesmoke.com](mailto:support@whitesmoke.com). 
 
 The Information We Collect. 
 
@@ -101,8 +101,6 @@ Although we take measures we believe are appropriate to safeguard against unauth
 When you enter sensitive information such as credit card number on our order form, our merchant services providers encrypt that information using secure socket layer technology (SSL).
 
 Other Sites or Services. If any part of this website links you to other sites or enables the download of third party software, those sites, software or related services are not subject to this Privacy Policy. In addition, in some cases, certain services are made accessible by us and carry our branding but are not provided by or hosted by us. We recommend you examine the privacy statements posted on those other websites to understand their procedures for collecting, using, and disclosing personal information and other information, including their use of cookies or other technologies and contact them directly if you have any questions. 
-
-For the privacy policy for the toolbar, please see <http://www.whitesmokestart.com/privacy/>
 
 For the privacy policy for the human translator, please see <http://www.onehourtranslation.com/privacy-policy/>
 
