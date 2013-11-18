@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hostplus.com.au privacy policy that was archived on 2013-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130531210823id_/http%3A//hostplus.com.au/info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hostplus.com.au privacy policy that was archived on 2013-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131119002150id_/http%3A//www.hostplus.com.au/info/privacy-policy) for the most accurate reproduction.*
 
-# HOSTPLUS
+# HOSTPLUS - Our Privacy Policy
 
 ## At HOST **PLUS**  we understand that protecting your privacy is important.
 
@@ -140,7 +140,7 @@ When you log in to your account, we will verify your identity by your Membership
 
 All secure applications hold current VeriSign Secure Server Certificates. Risks of using the Internet You should note that there are inherent security risks in transmitting information via the Internet. You should assess these potential risks when deciding whether to use our online services.
 
-If you do not wish to transmit information via our website, there are other ways in which you can provide this information to us. [Contact us for more information.](https://web.archive.org/web/20130531210823id_/http://hostplus.com.au/info/privacy-policy/17c0a29d-60e0-4be2-9d99-fc2e02b4ea88)
+If you do not wish to transmit information via our website, there are other ways in which you can provide this information to us. [Contact us for more information.](https://web.archive.org/contact)
 
 ### More information about us
 
