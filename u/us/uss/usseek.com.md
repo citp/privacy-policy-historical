@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the usseek.com privacy policy that was archived on 2013-01-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130131174814id_/http%3A//www.usseek.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usseek.com privacy policy that was archived on 2013-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131118162320id_/http%3A//www.usseek.com/privacy-policy) for the most accurate reproduction.*
 
 # USseek.com - Privacy Policy
 
