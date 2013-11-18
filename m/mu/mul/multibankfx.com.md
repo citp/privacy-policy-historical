@@ -1,21 +1,26 @@
-> *The following text is extracted and transformed from the multibankfx.com privacy policy that was archived on 2006-07-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060719221332id_/http%3A//multibankfx.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the multibankfx.com privacy policy that was archived on 2013-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131118042116id_/http%3A//www.fxmultibank.com/legal/privacy) for the most accurate reproduction.*
 
-# FXLQ, The Currency Website: Foreign Exchange Services and Trading
+# Privacy Statement | Multibank Group
 
-**Privacy Policy**
+Multibank Group Affiliated Companies do not disclose any nonpublic information about our customers to anyone except as permitted by law. 
 
-The CFTC has approved regulations that impose various requirements on financial institutions' treatment of customer information. The regulations require that financial institutions develop privacy policies and disclose these policies to its customers.
+Personal Information We Collect
 
-MultibankFX considers your privacy one of our utmost concerns. This Privacy Notice outlines our current policies and practices regarding how information about individual customers is collected and used. We will send existing customers an updated Privacy Notice on an annual basis; also should any portion of our current policies and practices change you will be sent a revised Privacy Notice in advance, thus providing you with sufficient notice to respond prior to the effective date of the change.
+When you apply for or maintain an account with Multibank Group Affiliated Companies they collect personal information about you for business purposes, such as evaluating your financial needs, processing your requests and transactions, informing you about products and services that may be of interest to you and providing customer service. The personal information we collect about you includes: 
 
-In order to provide you with individualized service, MultibankFX collects information about you from your account application and other forms that you may deliver to us or to the firms that clear securities trades on the various domestic securities exchanges. We use this information to open an Account for you, process your requests and transactions and to provide you with additional information about our products and services. In order to service your Account, effect your transactions and mail correspondence to you, we provide your personal information to other independent firms that specialize in providing these services. We require these other independent firms to protect the confidentiality of your information and to use the information only for the purpose for which the disclosure is made.
+  * Information you provide to us on application and other forms, such as your name, address, and date of birth, social security number, occupation, assets and income.
+  * Information about your transactions with us and with our affiliates.
+  * Information we receive from consumer reporting agencies.
+  * Information you provide to us to verify your identity, such as a passport, or driver's license, etc.
 
-In the regular course of our business, we also collect information about your transactions with us and we may receive nonpublic information about you from a consumer reporting agency. Additionally, MultibankFX’s Account Opening Documents require disclosure of other nonpublic personal information, such as your address, date of birth, social security number, employment details,banking and financial information, and trading experience. We do not disclose any nonpublic personal information about our customers to other independent firms, organizations or individuals except in furtherance of our business relationship with you, or if compelled to do so by due process of law.
 
-If you decide at some point to close your MultibankFX Account, or become an inactive customer, we will continue to adhere to the privacy policies and practices described in this Notice.
 
-We restrict access to nonpublic personal information about you to those employees who need to know that information to provide products or services to you. We maintain physical, electronic and procedural safeguards that comply with federal standards to guard your personal information.
+Confidentiality and Security
 
-Should you have any questions or concerns about this Privacy Notice or the privacy of your personal information, please feel free to contact the Compliance Department, at (888) FOREX-LQ, Monday through Friday, between the hours of 9:00 a.m. and 5 p.m. CST.
+We limit access to your personal information to those employees who need to know in order to provide products or services to you. We maintain your account documentation with personal information in physically locked file cabinets. Electronic access to personal information in the system is also limited to New Accounts and Credit personnel. These procedural safeguards are designed to protect your nonpublic information. We do not rent or sell your name or personal information to anyone. 
 
-Close This Window
+Disclosure to Non-Affiliated Third Parties
+
+In order to support the financial products and services we provide to you, Multibank Group Affiliated Companies may share the personal information described above with third-party service providers and joint marketers not affiliated with us, including: Companies under contract to perform services for us or on our behalf, such as vendors that prepare and mail statements and transactions confirmations or provide data processing, computer software maintenance and development, transaction processing and marketing services. These companies acting on our behalf are required to keep your personal information confidential.
+
+Also, we may disclose personal information to regulatory authorities as permitted or required by applicable law. For example, we may disclose personal information to cooperate with regulatory authorities and law enforcement agencies to comply with subpoenas or other official requests, and as necessary to protect our rights or property.
