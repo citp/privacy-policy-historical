@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the globaltrader365.com privacy policy that was archived on 2013-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130624075939id_/http%3A//www.globaltrader365.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the globaltrader365.com privacy policy that was archived on 2013-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131120005128id_/http%3A//www.globaltrader365.com/Privacy) for the most accurate reproduction.*
 
 # Global Trader 365 - PRIVACY & POLICY
 
