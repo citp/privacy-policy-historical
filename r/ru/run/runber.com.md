@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the runber.com privacy policy that was archived on 2013-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130522145225id_/http%3A//www.runber.com%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the runber.com privacy policy that was archived on 2013-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131119211144id_/http%3A//runber.com%3Fpage%3Dprivacy) for the most accurate reproduction.*
 
 # Runber.com: Privacy Policy
 
