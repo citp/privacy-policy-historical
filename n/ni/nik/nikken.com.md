@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nikken.com privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601182754id_/http%3A//nikken.com/esuite/corp/policy-and-procedure) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nikken.com privacy policy that was archived on 2013-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131119115521id_/http%3A//www.nikken.com/esuite/corp/policy-and-procedure) for the most accurate reproduction.*
 
 # Nikken - The Official Site of Nikken Products
 
