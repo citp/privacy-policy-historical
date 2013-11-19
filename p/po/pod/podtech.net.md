@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the podtech.net privacy policy that was archived on 2013-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130604001300id_/http%3A//www.podtech.net/home/privacy_podtech) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the podtech.net privacy policy that was archived on 2013-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131119204724id_/http%3A//www.podtech.net/home/privacy_podtech) for the most accurate reproduction.*
 
-# Podtech.net Privacy Policy | PodTech.net
+# Podtech.net Privacy Policy | Tech Talk and Tech Reviews
 
 ### Podtech Privacy Policy
 
