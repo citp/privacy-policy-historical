@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ukpandi.com privacy policy that was archived on 2013-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130520164453id_/http%3A//www.ukpandi.com/cookie-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ukpandi.com privacy policy that was archived on 2013-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131119125829id_/http%3A//www.ukpandi.com/cookie-privacy-policy) for the most accurate reproduction.*
 
 # Cookie & Privacy policy - UK P&I
 
@@ -59,7 +59,12 @@ For an explanation of cookies see: <http://www.webopedia.com/TERM/c/cookie.html>
 
 Below is a table of all cookies on this website – their name, type and purpose:
 
-We use third party companies as suppliers for some of our functions. Their use of the data is controlled by our contract with them and they are only allowed to use the data strictly for the purpose we have stated e.g. the data is not used in connection with data from other companies and we are not tracking user behavior outside our own sites.
+Cookie Type| Cookie Name | Cookie Purpose  
+---|---|---  
+Session & TYPO3 Content Management Cookie| Session & fe_typo_user & s_sq s_cc| We use session cookies to record an individual users preferences that the user has specified, so that each time the user returns their preferences remain. Commonly this would be language settings, shopping carts, anything where you have indicated a preference. Where forms are used on the site, we hold the information in a session cookie so that we can improve the user experience on the site. Should a user, for example, forget to fill in parts of a form when submitting a form, we can auto-fill the values for those fields that have been filled in, thereby reducing the amount of fields a user needs to amend. This information is stored only in your browser and is destroyed once your browser is closed.  
+Google Analytics| __utmz __utmc __utmb __utma| These cookies are used to collect information about how visitors use our site. We use the information to compile reports and to help us improve the site for you. The cookies collect information in an anonymous form, including the number of visitors to the site, where visitors have come to the site from and the pages they visited.  
+  
+We use third party companies as suppliers for some of our functions. Their use of the data is controlled by our contract with them and they are only allowed to use the data strictly for the purpose we have stated e.g. the data is not used in connection with data from other companies and we are not tracking user behavior outside our own sites. 
 
 ## 6\. Other Websites
 
