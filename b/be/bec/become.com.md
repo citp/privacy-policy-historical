@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the become.com privacy policy that was archived on 2013-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130426040853id_/http%3A//www.become.com/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the become.com privacy policy that was archived on 2013-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131119223929id_/http%3A//www.become.com/about/privacy.html) for the most accurate reproduction.*
 
 # Become.com: Privacy Policy
 
@@ -10,7 +10,7 @@ This Privacy Statement describes information that we collect from you as part of
 
 ###### Application of this Privacy Statement
 
-This Privacy Statement applies to all websites (“Site” or “Sites”) owned and controlled by Become, Inc. (“Become”, “we”, or “us”). Please note that this Privacy Statement applies only to Sites owned and controlled by Become, Inc. and not to websites maintained by other entities to which we may link.
+This Privacy Statement applies to all websites (â€œSiteâ€ or â€œSitesâ€) owned and controlled by Become, Inc. (â€œBecomeâ€, â€œweâ€, or â€œusâ€). Please note that this Privacy Statement applies only to Sites owned and controlled by Become, Inc. and not to websites maintained by other entities to which we may link.
 
 Through the submission of the information requested, including your personally identifiable information on this Site or otherwise using or accessing this Site, you agree that the following terms and conditions of this Privacy Statement shall govern our use and disclosure of your personal information. If you do not agree with the terms and conditions of our Privacy Statement, please do not complete any information request forms hosted on this site or otherwise use or access this Site.
 
@@ -18,7 +18,7 @@ This Site does not knowingly collect or solicit personal information from anyone
 
 **Children Between the Ages of 13 and 18**
 
-Minors 13 years of age or older must ask their parents for permission before sending any information about themselves to anyone over the Internet. By using this Site you represent that you are 13 or over, or where appropriate/indicated you are at least 17 and have you parent’s express permission.
+Minors 13 years of age or older must ask their parents for permission before sending any information about themselves to anyone over the Internet. By using this Site you represent that you are 13 or over, or where appropriate/indicated you are at least 17 and have you parentâ€™s express permission.
 
 If we have any reason to believe you have misrepresented your age we reserve the right to terminate your use of the Site without notice. There are many resources available to help families with issues of Internet safety for children, including www.safekids.com.
 
@@ -59,7 +59,7 @@ We may employ and certain Third Party Partners may employ a software technology 
 
 
 
-We may perform a preliminary validation of any information that you submit to Become, Inc. and an evaluation of your qualifications for our Third Party Partners’ products and services. For example, we may compare and review your personal information for errors, omissions, and accuracy based upon past usage and response; or compare your information against other publicly available files; or validate some of the personal information to verify that the information you submitted has a high probability of being valid information.
+We may perform a preliminary validation of any information that you submit to Become, Inc. and an evaluation of your qualifications for our Third Party Partnersâ€™ products and services. For example, we may compare and review your personal information for errors, omissions, and accuracy based upon past usage and response; or compare your information against other publicly available files; or validate some of the personal information to verify that the information you submitted has a high probability of being valid information.
 
 Based upon your affirmative consent, as evidenced by your clicking on the applicable acknowledgement box and/or your registration on a Site (i.e., your submission of the requested information, including your personally identifiable information), we may use the information you provide to attempt to match you with providers of products and services (for example, using your zip code to check for service providers whose service area covers your location) and/or we may forward the information that you provided directly to certain of our Third Party Partners.
 
@@ -79,13 +79,13 @@ _Third parties_
 
 **WE MAY USE INFORMATION THAT WE HAVE COLLECTED FOR ANY LEGALLY PERMISSIBLE PURPOSE, INCLUDING SELLING OR TRANSFERRING SUCH INFORMATION AT ANY TIME TO THIRD PARTIES FOR ANY LEGALLY PERMISSIBLE PURPOSE.**
 
-For example, we may share your personal information with Third Party Partners so that they can contact you and offer you products and/or services that we and they believe might be of interest to you. This may include e-mail advertising, telephone marketing, direct mail marketing, and online banner advertising to name a few. You are under no obligation to accept any service or product offered by any of our Third Party Partners through these communications. In addition, we may maintain separate e-mail, mailing or phone lists for different purposes based on the information that you submitted and that we maintain. Please keep in mind that if you respond to an offer from one of Become’s Third Party Partners, you become a customer of that Third Party Partner and are subject to its Privacy Statement. Further, the Third Party Partner may independently send further communications to you, in which case you will need to contact the Third Party Partner directly if you wish to unsubscribe from future communications from such Third Party Partner.
+For example, we may share your personal information with Third Party Partners so that they can contact you and offer you products and/or services that we and they believe might be of interest to you. This may include e-mail advertising, telephone marketing, direct mail marketing, and online banner advertising to name a few. You are under no obligation to accept any service or product offered by any of our Third Party Partners through these communications. In addition, we may maintain separate e-mail, mailing or phone lists for different purposes based on the information that you submitted and that we maintain. Please keep in mind that if you respond to an offer from one of Becomeâ€™s Third Party Partners, you become a customer of that Third Party Partner and are subject to its Privacy Statement. Further, the Third Party Partner may independently send further communications to you, in which case you will need to contact the Third Party Partner directly if you wish to unsubscribe from future communications from such Third Party Partner.
 
-By providing personal information when using the Sites, you are entering into a business relationship with Become’s Third Party Partners and are requesting, and expressly consenting to, being contacted by our Third Party Partners via telephone, fax, email, surface mail or any other means, at any of your contact numbers or addresses, even if you are listed on any corporate, federal, state or other applicable "Do Not Call" or “Do Not Contact” list, in order that our Third Party Partners may provide the services set forth on the Site or for other purposes reasonably related to your service and/or product request to which you have expressed interest and the business of our Third Party Partners, including marketing-related emails.
+By providing personal information when using the Sites, you are entering into a business relationship with Becomeâ€™s Third Party Partners and are requesting, and expressly consenting to, being contacted by our Third Party Partners via telephone, fax, email, surface mail or any other means, at any of your contact numbers or addresses, even if you are listed on any corporate, federal, state or other applicable "Do Not Call" or â€œDo Not Contactâ€ list, in order that our Third Party Partners may provide the services set forth on the Site or for other purposes reasonably related to your service and/or product request to which you have expressed interest and the business of our Third Party Partners, including marketing-related emails.
 
 PLEASE NOTE: submission of YOUR telephone number(s) and a best time to be called is YOUR authorization and request to be called at the telephone number(s) YOU provide.
 
-When you complete a Third Party Partner’s offer displayed through the Site, which may include completing an inquiry form and providing personal information to the Third Party Partner directly, you become a customer of that Third Party Partner and are subject to its Privacy Statement. You may learn more about any of our Third Party Partners' privacy policies by visiting our Third Party Partners' websites. We are not responsible for the privacy practices or the content of our Third Party Partners' websites. Further, the Third Party Partner may independently send further communications to you, in which case you will need to contact the Third Party Partner directly if you wish to unsubscribe from future communications from it.
+When you complete a Third Party Partnerâ€™s offer displayed through the Site, which may include completing an inquiry form and providing personal information to the Third Party Partner directly, you become a customer of that Third Party Partner and are subject to its Privacy Statement. You may learn more about any of our Third Party Partners' privacy policies by visiting our Third Party Partners' websites. We are not responsible for the privacy practices or the content of our Third Party Partners' websites. Further, the Third Party Partner may independently send further communications to you, in which case you will need to contact the Third Party Partner directly if you wish to unsubscribe from future communications from it.
 
 We may also transfer or share non-individualized information, such as summary or aggregated anonymous information about all persons or sub-groups of persons visiting this site.
 
@@ -107,7 +107,7 @@ We follow generally accepted industry standards to protect the personal informat
 
 ###### Opting Out
 
-If you wish to opt-out from receiving additional email offers, advertisements and promotions relating to this Site you may “opt-out” by going to the link at <http://www.become.com/email_updates.html> and filling in your email address under “Unsubscribe from Email Updates” or sending an email to [feedback@become.com](mailto:feedback@become.com) with the subject line stating “Please remove me from Marketing lists”.
+If you wish to opt-out from receiving additional email offers, advertisements and promotions relating to this Site you may â€œopt-outâ€ by going to the link at <http://www.become.com/email_updates.html> and filling in your email address under â€œUnsubscribe from Email Updatesâ€ or sending an email to [feedback@become.com](mailto:feedback@become.com) with the subject line stating â€œPlease remove me from Marketing listsâ€.
 
 ###### Notification of Changes to Privacy Statement
 
