@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the csse.monash.edu.au privacy policy that was archived on 2013-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130604103953id_/http%3A//www.monash.edu.au/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the csse.monash.edu.au privacy policy that was archived on 2013-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131119115628id_/http%3A//www.monash.edu.au/privacy.html) for the most accurate reproduction.*
 
 # Monash University Websites Privacy Statement - Monash University
 
