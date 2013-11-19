@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the logicboxes.com privacy policy that was archived on 2013-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130504041349id_/http%3A//www.logicboxes.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the logicboxes.com privacy policy that was archived on 2013-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131119045651id_/https%3A//www.logicboxes.com/privacy-policy) for the most accurate reproduction.*
 
 # Website Privacy Policy | logicboxes.com
 
