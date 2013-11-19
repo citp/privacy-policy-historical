@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the punemirror.in privacy policy that was archived on 2013-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130517122838id_/http%3A//ms.mumbaimirror.com/ads/Privacypolicy/punemirror.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the punemirror.in privacy policy that was archived on 2013-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131120005900id_/http%3A//ms.mumbaimirror.com/ads/Privacypolicy/punemirror.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -39,11 +39,13 @@ All information gathered on BCCL is securely stored within the BCCL controlled d
 
 However the internet is an ever evolving medium. We may change our privacy policy from time to time to incorporate necessary future changes. Of course, our use of any information we gather will always be consistent with the policy under which the information was collected, regardless of what the new policy may be.
 
-We use third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. In the event you have any grievance relating to the processing of information provided by you, you may contact our Grievance Officer, at copyright.infringement@timesgroup.com ; or write at the following address:
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. Any complaints or concerns with regards to content or to report any abuse of laws or breach of these terms may be taken up with the designated grievance redressal officer as mentioned below via post or by sending an email to grievance.am@indiatimes.co.in or Mr.KrishnaKumar Padmanabhan ("Grievance Redressal Officer") 
 
-**Bennett, Coleman & Co. Ltd.   
-Times Of India Building,   
-Dr.D.N.Road, Mumbai- 400 001.   
-Ph No. 91-22-66353535**
+Grievance Redressal Officer   
+Mumbaimirror.com   
+Times Internet Limited  
+4th Floor, 'I' World Tower, DLF City Phase V, Opposite DLF Golf Course,   
+Gurgaon, Haryana 122002, India   
+Ph: 0124-4187000 
 
 **We request you to please provide the following information in your complaint:-**
