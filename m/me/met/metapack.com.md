@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the metapack.com privacy policy that was archived on 2013-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130619034057id_/http%3A//www.metapack.com/node/608) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the metapack.com privacy policy that was archived on 2013-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131119110444id_/http%3A//www.metapack.com/node/608) for the most accurate reproduction.*
 
 # Privacy policy | MetaPack
 
