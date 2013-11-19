@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the walkernews.net privacy policy that was archived on 2013-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130517020100id_/http%3A//www.walkernews.net/about/%23pripol) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the walkernews.net privacy policy that was archived on 2013-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131119105820id_/http%3A//www.walkernews.net/about/%23pripol) for the most accurate reproduction.*
 
-# About
+# About – Walker News
 
 About WalkerNews.net
 
