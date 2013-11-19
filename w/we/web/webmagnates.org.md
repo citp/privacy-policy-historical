@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webmagnates.org privacy policy that was archived on 2013-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130503225347id_/http%3A//webmagnates.org/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webmagnates.org privacy policy that was archived on 2013-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131119021043id_/http%3A//www.webmagnates.org/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
