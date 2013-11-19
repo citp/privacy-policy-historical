@@ -1,34 +1,19 @@
-<!--The following is the downloaded HTML source of the tracksmart.com privacy policy that was archived on 2013-06-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130615112736id_/http%3A//www.tracksmart.com/aboutus/Pages/PrivacyPolicies.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the tracksmart.com privacy policy that was archived on 2013-11-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131119012151id_/http%3A//www.tracksmart.com/aboutus/Pages/PrivacyPolicies.aspx) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" __expr-val-dir="ltr" lang="en-us" dir="ltr"><head>
-
-<!-- Begin Hiconversion Head Enabling. Do NOT move. Must come directly before the closing head tag -->
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script id="hiconversion_head_include" async="" type="text/javascript" src="https://ssl.hiconversion.com/app/update?async=true&amp;external=&amp;version=2.0"></script><script id="hiconversion_head_script" type="text/javascript">
-  var hiconversion_load = new Date();
-  function hiconversion_head_load() {
-    var external ="";
-    var script = document.createElement("script");
-    script.id = "hiconversion_head_include";
-    script.async = "async";
-    script.type = "text/javascript";
-    script.src = (document.location.protocol == "https:" ? "https://ssl" : "http://update") + ".hiconversion.com/app/update?async=true&external=" + external + "&version=2.0";
-    var nodes = document.getElementsByTagName("script");
-    if (nodes.length > 0) {
-      nodes[0].parentNode.insertBefore(script, nodes[0]);
-    }
-  }
-  hiconversion_head_load();
-</script><!-- End Hiconversion Head Enabling -->
-
-<meta name="msvalidate.01" content="740164A5680903581CD676C32D393CE7">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" __expr-val-dir="ltr" lang="en-us" dir="ltr"><head><meta name="msvalidate.01" content="740164A5680903581CD676C32D393CE7">
 
 <!-- Drop down menu scripts start here-->
-<!----><script type="text/javascript" src="/scripts/mb/jquery.min.js"></script>
+<!----><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/scripts/mb/jquery.min.js"></script>
 <script type="text/javascript" src="/Scripts/mb/jquery.metadata.js"></script>
 <script type="text/javascript" src="/Scripts/mb/jquery.hoverIntent.js"></script>
 <script type="text/javascript" src="/Scripts/mb/mbMenu.js"></script>
-<link rel="stylesheet" type="text/css" href="/Style%20Library/dropdown_menu.css" media="screen">
+
+<link rel="stylesheet" type="text/css" href="/Style%20Library/ie8.css" media="screen">
+
+
+<script type="text/javascript" src="/scripts/jQuery/jquery.SPServices-0.7.2.min.js"></script>
+
 
 <script type="text/javascript">
 
@@ -189,6 +174,7 @@ body #s4-leftpanel {
 						//Examples of how to assign the ColorBox event to elements
 						//$(".quick_start_tour").colorbox({width:"675px", height:"550px"});
 						$(".quick_start_tour").colorbox({iframe:true, innerWidth:630, innerHeight:480});
+						$("#quickstarttour").colorbox({iframe:true, innerWidth:630, innerHeight:480});
 						$(".modal").colorbox();
 						//Example of preserving a JavaScript event for inline calls.
 						$("#click").click(function(){ 
@@ -196,7 +182,16 @@ body #s4-leftpanel {
 							return false;
 						});
 					});
+					function popStartTour()
+					{
+					   document.getElementById("quickstarttour").click();
+					
+					}					
 				</script>
+<style type="text/css"> 
+a.topLink:link{color:#FF7C00;}
+a.topLink:visited{color:#4F007D;}
+</style>				
 <!-- Modal Window Ends here  -->
 
 
@@ -204,41 +199,46 @@ body #s4-leftpanel {
 <!--Script to redirect users from drop down menu that don't have access to certain plans to the compare plans page--> 
 <script type="text/javascript">
   var silverlightCtrl = null; 
-  var selfAccessDisabled = true;
-  var timeSheetDisabled = true;
-   function gotoOtherPage(obj,url,urlName)
-   {
-     if(silverlightCtrl!=null)
-     {     
-      silverlightCtrl.Content.ChangePageBridge.ChangePage(urlName);
-     }else{
-       if(urlName =='EmployeeTimeOffSetup' && selfAccessDisabled ==true)
-       {
-         window.location.href="/pages/compare-plans.aspx";
-       }else if(urlName =='EmployeeTimeSheet' && timeSheetDisabled ==true)
-       {
-         window.location.href="/pages/compare-plans.aspx";
-       }else
-       {
-           window.location.href =url;
-       }
-     }
-     return false;   
-   }  
-   function resetSelfAccessMenu()
-  {
-    selfAccessDisabled = false;
-    document.getElementById('selfAccess').className = "{action:\"gotoOtherPage(this,'/Pages/AppLinks/TimeOffRequests.aspx','EmployeeTimeOffSetup')\"}";
-  }
-  function resetTimesheetMenu()
-  {
-  timeSheetDisabled = false;
-   document.getElementById('timeSheet').className = "{action:\"gotoOtherPage(this,'/Pages/AppLinks/Timesheets.aspx','EmployeeTimeSheet')\"}";
-  
-  }
+ 
 </script> 
+<style type="text/css">
+.selectedsub
+{
+   color:#666666;
+}
+</style>
+
+        <script type="text/javascript">
+            if (window.attachEvent) {
+                window.attachEvent("onhashchange", funcRef);
+            } else {
+                window.addEventListener("hashchange", funcRef, false);
+            }
+            function funcRef() {
+                var h = location.hash;
+                if (h === "#Detail" || h === "#Summary" || h === "#History") {
+                    var iframes = document.getElementsByTagName("iframe");
+                    if(iframes.length >0)
+                    {
+                       for( i = 0;i< iframes.length;i++)
+                       {
+                        if(iframes[i].src.toLowerCase().indexOf("timesheet")> 0)
+                        {
+                           iframes[i].contentWindow.set_iframeSrc("TimeSheet" + h.replace("#", "") + ".htm");
+                        }
+                       
+                       }
+                    
+                    }
+                   
+                    
+                }
+
+                
+            }
 
 
+    </script>
 
 
 
@@ -250,7 +250,7 @@ body #s4-leftpanel {
 
 
 
-<form name="aspnetForm" method="post" action="/web/20130615112736id_/http%3A//www.tracksmart.com/aboutus/Pages/PrivacyPolicies.aspx" id="aspnetForm">
+<form name="aspnetForm" method="post" action="/web/20131119012151id_/http%3A//www.tracksmart.com/aboutus/Pages/PrivacyPolicies.aspx" id="aspnetForm">
 <input type="hidden" name="MSOWebPartPage_PostbackSource" id="MSOWebPartPage_PostbackSource" value="">
 <input type="hidden" name="MSOTlPn_SelectedWpId" id="MSOTlPn_SelectedWpId" value="">
 <input type="hidden" name="MSOTlPn_View" id="MSOTlPn_View" value="0">
@@ -258,7 +258,7 @@ body #s4-leftpanel {
 <input type="hidden" name="MSOGallery_SelectedLibrary" id="MSOGallery_SelectedLibrary" value="">
 <input type="hidden" name="MSOGallery_FilterString" id="MSOGallery_FilterString" value="">
 <input type="hidden" name="MSOTlPn_Button" id="MSOTlPn_Button" value="none">
-<input type="hidden" name="__REQUESTDIGEST" id="__REQUESTDIGEST" value="0xBA6D1A53318FF6A2B05B403F75F02DC50E7F89AFEDE8DBE52337951A766D4A9BF0AFBE394ED1AA4A4A6C894D3E0A40397E7740F4F468E1D3E9CBB9DAEC18F596,15 Jun 2013 11:27:35 -0000">
+<input type="hidden" name="__REQUESTDIGEST" id="__REQUESTDIGEST" value="0xEBC07D5315E21D97F7676AB8F40F76551083167A8A3E0BA6E5ED0C03703B7DE019C73315C7CE6127F0D04C8853E47777E99E35B0B39DA869307E426643145B32,19 Nov 2013 01:21:51 -0000">
 <input type="hidden" name="MSOSPWebPartManager_DisplayModeName" id="MSOSPWebPartManager_DisplayModeName" value="Browse">
 <input type="hidden" name="MSOSPWebPartManager_ExitingDesignMode" id="MSOSPWebPartManager_ExitingDesignMode" value="false">
 <input type="hidden" name="MSOWebPartPage_Shared" id="MSOWebPartPage_Shared" value="">
@@ -270,7 +270,7 @@ body #s4-leftpanel {
 <input type="hidden" name="MSOSPWebPartManager_StartWebPartEditingName" id="MSOSPWebPartManager_StartWebPartEditingName" value="false">
 <input type="hidden" name="MSOSPWebPartManager_EndWebPartEditing" id="MSOSPWebPartManager_EndWebPartEditing" value="false">
 <input type="hidden" name="_maintainWorkspaceScrollPosition" id="_maintainWorkspaceScrollPosition" value="0">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUBMA9kFgJmD2QWAgIBD2QWBAIBD2QWAgIMD2QWAmYPZBYCAgEPFgIeE1ByZXZpb3VzQ29udHJvbE1vZGULKYgBTWljcm9zb2Z0LlNoYXJlUG9pbnQuV2ViQ29udHJvbHMuU1BDb250cm9sTW9kZSwgTWljcm9zb2Z0LlNoYXJlUG9pbnQsIFZlcnNpb249MTQuMC4wLjAsIEN1bHR1cmU9bmV1dHJhbCwgUHVibGljS2V5VG9rZW49NzFlOWJjZTExMWU5NDI5YwFkAgMPZBYIAgkPZBYEZg9kFgQCAQ8WAh4HVmlzaWJsZWgWAmYPZBYEAgIPZBYGAgEPFgIfAWhkAgMPFggeE0NsaWVudE9uQ2xpY2tTY3JpcHQFemphdmFTY3JpcHQ6Q29yZUludm9rZSgnVGFrZU9mZmxpbmVUb0NsaWVudFJlYWwnLDEsIDM5LCAnaHR0cDpcdTAwMmZcdTAwMmZ3d3cudHJhY2tzbWFydC5jb21cdTAwMmZhYm91dHVzJywgLTEsIC0xLCAnJywgJycpHhhDbGllbnRPbkNsaWNrTmF2aWdhdGVVcmxkHihDbGllbnRPbkNsaWNrU2NyaXB0Q29udGFpbmluZ1ByZWZpeGVkVXJsZB4MSGlkZGVuU2NyaXB0BSJUYWtlT2ZmbGluZURpc2FibGVkKDEsIDM5LCAtMSwgLTEpZAIFDxYCHwFoZAIDDw8WCh4JQWNjZXNzS2V5BQEvHg9BcnJvd0ltYWdlV2lkdGgCBR4QQXJyb3dJbWFnZUhlaWdodAIDHhFBcnJvd0ltYWdlT2Zmc2V0WGYeEUFycm93SW1hZ2VPZmZzZXRZAusDZGQCAw9kFgJmD2QWAgIDD2QWAmYPPCsABQEADxYCHg9TaXRlTWFwUHJvdmlkZXIFEVNQU2l0ZU1hcFByb3ZpZGVyZGQCAQ9kFgYCBQ9kFgICAQ8QFgIfAWhkFCsBAGQCBw9kFgJmD2QWAmYPFCsAA2RkZGQCCQ8PFgIfAWhkZAITD2QWAgICD2QWAmYPZBYCZg8PFgIeBFRleHRlZGQCHw9kFgQCBQ8WAh8ACysEAWQCBw8WAh8ACysEAWQCIw9kFgICHQ9kFgJmD2QWAmYPFCsAA2RkZGRkcedbMMF749l1F8zEmGHVRxwGuYU=">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUBMA9kFgJmD2QWAgIBD2QWBAIBD2QWAgILD2QWAmYPZBYCAgEPFgIeE1ByZXZpb3VzQ29udHJvbE1vZGULKYgBTWljcm9zb2Z0LlNoYXJlUG9pbnQuV2ViQ29udHJvbHMuU1BDb250cm9sTW9kZSwgTWljcm9zb2Z0LlNoYXJlUG9pbnQsIFZlcnNpb249MTQuMC4wLjAsIEN1bHR1cmU9bmV1dHJhbCwgUHVibGljS2V5VG9rZW49NzFlOWJjZTExMWU5NDI5YwFkAgMPZBYGAgkPZBYEZg9kFgQCAQ8WAh4HVmlzaWJsZWgWAmYPZBYEAgIPZBYGAgEPFgIfAWhkAgMPFggeE0NsaWVudE9uQ2xpY2tTY3JpcHQFemphdmFTY3JpcHQ6Q29yZUludm9rZSgnVGFrZU9mZmxpbmVUb0NsaWVudFJlYWwnLDEsIDM5LCAnaHR0cDpcdTAwMmZcdTAwMmZ3d3cudHJhY2tzbWFydC5jb21cdTAwMmZhYm91dHVzJywgLTEsIC0xLCAnJywgJycpHhhDbGllbnRPbkNsaWNrTmF2aWdhdGVVcmxkHihDbGllbnRPbkNsaWNrU2NyaXB0Q29udGFpbmluZ1ByZWZpeGVkVXJsZB4MSGlkZGVuU2NyaXB0BSJUYWtlT2ZmbGluZURpc2FibGVkKDEsIDM5LCAtMSwgLTEpZAIFDxYCHwFoZAIDDw8WCh4JQWNjZXNzS2V5BQEvHg9BcnJvd0ltYWdlV2lkdGgCBR4QQXJyb3dJbWFnZUhlaWdodAIDHhFBcnJvd0ltYWdlT2Zmc2V0WGYeEUFycm93SW1hZ2VPZmZzZXRZAusDZGQCAw9kFgJmD2QWAgIDD2QWAmYPPCsABQEADxYCHg9TaXRlTWFwUHJvdmlkZXIFEVNQU2l0ZU1hcFByb3ZpZGVyZGQCAQ9kFgYCBQ9kFgICAQ8QFgIfAWhkFCsBAGQCBw9kFgJmD2QWAmYPFCsAA2RkZGQCCQ8PFgIfAWhkZAIfD2QWBAIFDxYCHwALKwQBZAIHDxYCHwALKwQBZAIjD2QWAgIdD2QWAmYPZBYCZg8UKwADZGRkZGSI/p/K5IYnhcaiKNtAj+BB9721LA==">
 
 
 <script type="text/javascript">
@@ -318,10 +318,10 @@ var _fV4UI=true;var _spPageContextInfo = {webServerRelativeUrl: "\u002faboutus",
 // Break apart the URL.
 s_account = 'egdegdemployeeattendancetracking'
 var myProtocol = 'http'
-var myHost = 'TCCOMMERCEF3P2'
+var myHost = 'TCCOMMERCEF3P1'
 //You may give each page an identifying name, server, and channel on the next lines. */
 s.pageName = document.title
-s.server = 'TCCOMMERCEF3P2'
+s.server = 'TCCOMMERCEF3P1'
 s.channel = 'aboutus'
 s.pageType = ''
 s.prop1 = ''
@@ -385,6 +385,20 @@ var google_conversion_value = 0;
 function CheckLicense()
 {
      }
+function gotoSelfPermission() { 
+showFreePop(); 
+} 
+function gotoTimeOff() { 
+showFreePop(); 
+} 
+if(document.getElementById('timeSheetSubs') != null) { 
+document.getElementById('timeSheetSubs').style.display = 'none'; 
+} 
+$(document).ready(function(){ 
+$("#timeSheetLi").click(function(){  
+showFreePop(); 
+}); 
+}); 
      </script>
 <!-- End License Block -->
 
@@ -402,7 +416,9 @@ if (typeof(DeferWebFormInitCallback) == 'function') DeferWebFormInitCallback();/
 <input name="cbox_complete" id="cbox_complete" type="checkbox" style="visibility:hidden">
 <input name="cbox_closed" id="cbox_closed" type="checkbox" style="visibility:hidden">
 <input name="cboxClosed" id="cboxClosed" type="checkbox" style="visibility:hidden">
-	
+<div style="display:none">
+   <a id="quickstarttour" href="/pages/modal/quicktour/page1.html" class="cboxElement">Quick Tour</a>
+</div>	
 	<!-- controls the web parts and zones -->
 	
 	<!-- this control is more navigation for mysites, otherwise it is empty -->
@@ -476,86 +492,73 @@ var g_commandUIHandlers = {"name":"CommandHandlers","attrs":{},"children":[]};
 
 			<!-- id="mso_contentdiv" required, helps SharePoint put the web part editing pane in the main body on the right, you can move the ID if needed -->
 			<div id="ctl00_MSO_ContentDiv">
-
-				<div class="MyHeaderWrapper">
-					<!--LOGO ONLY HEADER STARTS HERE-->
-					<table cellspacing="0" cellpadding="0" class="MyHeaderLogoOnly">
-						<tbody><tr>
-							<td valign="top" style="width: 7px">&nbsp;</td>
-							<td><a href="/">
-							<img src="/SiteImages/tracksmart_logo.png" border="0" alt="TrackSmart from HRdirect">
-							</a></td>
-							<td>&nbsp;</td>
-							<td width="14" valign="top">&nbsp;</td>
-						</tr>
-					</tbody></table>
-					<!--LOGO ONLY HEADER ENDS HERE-->
-					<table cellspacing="0" cellpadding="0" class="MyHeader">
-						<tbody><tr>
-							<td valign="top">&nbsp;</td>
-							<td><a href="/"><img src="/SiteImages/beta_logo.png" border="0" alt="TrackSmart from HRdirect"></a><br>
-							<div style="padding-left: 5px; padding-top: 14px; font-size: 11px; color: #FFFFFF; font-weight: normal;">
-								<div id="ctl00_g_80343fc5_52fe_4dc8_823a_241a4eecfad1" webpart="true" __webpartid="{80343fc5-52fe-4dc8-823a-241a4eecfad1}" __markuptype="vsattributemarkup">
-	<span id="ctl00_g_80343fc5_52fe_4dc8_823a_241a4eecfad1_ctl00_lblMemberGreeting"></span>
-
-</div></div>
-							</td>
-							<td align="right">
-							<div class="top_nav_wrapper">
+	        <div>
 								
-											<!--NOT LOGGED IN NAV STARTS HERE-->
-											<div class="top_nav_zone1B">
-												<div id="ctl00_Logins_g_0fac23e7_3d73_4765_aa33_cb2851718591" webpart="true" __markuptype="vsattributemarkup" __webpartid="{0fac23e7-3d73-4765-aa33-cb2851718591}" align="right">
-	<a href="/shopping/pages/cart.aspx" title="Cart" style="background-color:#ffffff; padding-left:0px;"><img src="/SiteImages/shopping_cart_icon.png" border="0" alt="Cart" style="background-color:#ffffff;" align="absbottom">Cart</a>&nbsp;
- <span class="color_style1" style="font-weight:bold;">0</span><span class="color_style1" style="font-weight:bold;"> items</span>
-</div>
-												<!-- Top Navigation Zone 1B-->
-												<a href="http://blog.tracksmart.com/" target="_blank">Blog</a>
-												<a href="http://www.getsatisfaction.com/attendancetrackingfeedback" target="_blank">Community</a>
-												<a href="/signon/pages/registration.aspx">Sign Up</a><a href="/signon/pages/login.aspx">Login</a>
-											</div>
-											<div class="myMenu" id="menu_901">
-												<div class="top_nav_zone1C" style="margin-top:12px;">
-													<!-- Top Navigation Zone 1C -->
-													<a href="/features/Pages/easy-intuitive-tracking.aspx">Features</a>
-													<a href="/pages/compare-plans.aspx">Compare Plans</a><a href="/shopping">Shop Now</a>
-													<a href="/advice-center/pages/employee-absence-advice.aspx">Get Advice</a>
-													<a href="#" class="rootVoice {menu: 'menu_2'}" menu="menu_2" style="white-space: nowrap;">Support
-													<img src="/SiteImages/mb/menuArrow_w_down.png" border="0"></a>
-													<a href="/aboutus/pages/whoweare.aspx">About Us</a>
-												</div>
-											</div>
+                                         <table class="MyHeader">
+                                           <tbody><tr>
+                                            <td align="left"><a style="padding-left:-10px" href="/"><img src="/SiteImages/beta_logo.png" border="0" style="padding-left:-10px" alt="TrackSmart from HRdirect"></a></td>
+                                            <td class="top_nav_zone1B" align="right" style="margin-right:10px;" valign="bottom">
+                                                <table width="95%">
+                                                 <tbody><tr><td align="right">
+											    <a href="/signon/pages/login.aspx">Member Login</a>
+												<a href="https://employees.tracksmart.com">Employee Login</a>
+												<a href="/signon/pages/registration.aspx">Sign up</a>
+												</td></tr></tbody></table>
+                                            </td>
+                                           </tr>
+                                           <tr>
+                                           <td colspan="2">
+								            <div align="left" class="menu">
+											        <span>
+											            <ul id="nav">
+											                <li style="padding-left:4px;"><a href="#" onclick="popStartTour();return false;">How it Works</a></li>
+											                <li id="essli"><a id="esslia" href="/features/pages/employee-self-service.aspx">Features</a></li>
+											                <li id="cusli"><a id="cuslia" href="/pages/customers.aspx">Customers</a></li>
+											                <li id="cpli"><a id="cplia" href="/pages/compare-plans.aspx">Plans &amp; Pricing</a></li>
+											                <li id="supportli"><a href="/help/pages/welcomepage.aspx">Support</a>
+											                    <div class="subs" id="supportdiv" style="display:none">
+											                        <div>
+											                            <ul>
+											                                <li id="helpli"><a id="helplia" href="/help/pages/welcomepage.aspx">Help</a></li>
+											                                <li><a target="_blank" href="https://getsatisfaction.com/attendancetrackingfeedback">Community</a></li>
+											                                <li id="contactli"><a id="contactlia" href="/Pages/contact-us.aspx">Contact Us</a></li>
+											                            </ul>
+											                        </div>
+											                    </div>
+											                </li>
+											                <li style="border-right:medium none" id="resourceli"><a href="/aboutus/pages/whoweare.aspx">Resources</a>
+											                    <div class="subs" id="resourcediv" style="display:none">
+											                        <div class="res">
+											                            <ul>
+											                                <li id="aboutli"><a id="aboutlia" href="/aboutus/pages/whoweare.aspx">About Us</a></li>
+											                                <li id="adviceli"><a id="advicelia" href="/advice-center/pages/employee-absence-advice.aspx">Advice Center</a></li>
+											                                <li><a target="_blank" href="http://blog.tracksmart.com/">Blog</a></li>
+											                                <li><a target="_blank" href="http://www.HRdirect.com">HRdirect.com</a></li>
+											                            </ul>
+											                        </div>
+											                    </div>
+											                </li>
+											            </ul>
+											        </span>
+											    </div>
+
+                                           
+                                           </td>
+                                           </tr>
+                                         </tbody></table>
+
 										
 							</div>
-							</td>
-							<td width="14" valign="top">&nbsp;</td>
-						</tr>
-					</tbody></table>
-				</div>
+			
+			</div>
 				
 				
-				<!--TESTING NEW DROPDOWNS START HERE-->
-    <div id="menu_1" class="mbmenu" style="display: none;">
-         <a class="{action:'gotoOtherPage(this,\'/pages/app.aspx#q=AdminCalendar\',\'AdminCalendar\')'}">Attendance Calendar</a>
-       <a class="{action:'gotoOtherPage(this,\'/Pages/AppLinks/EmployeeProfile.aspx\',\'EmployeeProfileAdminView\')'}">Employee Profiles</a>
-       <a class="{action:'gotoOtherPage(this,\'/Pages/AppLinks/TimeOffRequests.aspx\',\'EmployeeTimeOffSetup\')',img:'premium_icon.png'}" id="selfAccess">Employee Self-Service Access</a>
- 	   <a class="{action:'gotoOtherPage(this,\'/Pages/AppLinks/Timesheets.aspx\',\'EmployeeTimeSheet\')',img:'premium_icon.png'}" id="timeSheet">Employee Time Sheets</a> 
- 	   <a href="/reports/pages/reports.aspx">Reports</a>"
- 	</div>
-  
-  <div id="menu_2" class="mbmenu" style="display: none;">
-    <a href="http://blog.tracksmart.com/" target="_blank">Blog</a> 
-    <a href="https://getsatisfaction.com/attendancetrackingfeedback" target="_blank">Community</a> 
-    <a href="/Pages/contact-us.aspx">Contact Us</a>
-    <a href="/help/pages/welcomepage.aspx">Help</a>
-  </div>
-
  
-</div>
+
 <!--TESTING NEW DROPDOWNS ENDS HERE-->
 
 				
-				<div id="MyWrapper">
+				<div id="MyWrapper" style="padding-top:30px;">
 					<!--wrapper div starts here-->
 					<!-- LOGGED IN HOME PAGE SIDE BAR==========================================================-->
 					
@@ -593,7 +596,7 @@ var g_commandUIHandlers = {"name":"CommandHandlers","attrs":{},"children":[]};
 				<div class="left_nav">
 <table class="s4-wpTopTable" border="0" cellpadding="0" cellspacing="0" width="100%">
 	<tbody><tr>
-		<td valign="top"><div webpartid="00000000-0000-0000-0000-000000000000" haspers="true" id="WebPartWPQ1" width="100%" class="ms-WPBody" onlyformepart="true" allowdelete="false" style=""><div id="cbqwpctl00_PlaceHolderMain_ContentByQueryWebPart1" class="cbq-layout-main"><ul class="dfwp-column dfwp-list" style="width:100%"><li class="dfwp-item"><div class="item link-item"><a href="http://www.tracksmart.com/aboutus/Pages/pressrelease.aspx" title="">Press Releases</a></div></li><li class="dfwp-item"><div class="item link-item"><a href="http://www.tracksmart.com/aboutus/Pages/whoweare.aspx" title="">Who We Are</a></div></li><li class="dfwp-item"><div class="item link-item"><a href="http://www.tracksmart.com/aboutus/Pages/whythisisfree.aspx" title="">How We Keep It FREE!</a></div></li><li class="dfwp-item"><div class="item link-item"><a href="http://www.tracksmart.com/aboutus/Pages/termsofuse.aspx" title="">Terms of Use</a></div></li><li class="dfwp-item"><div class="item link-item"><a href="http://www.tracksmart.com/aboutus/Pages/securitystandards.aspx" title="">Security Standards</a></div></li><li class="dfwp-item"><div class="item link-item"><a href="http://www.tracksmart.com/aboutus/Pages/satisfaction_guarantee.aspx" title="">Satisfaction Guarantee</a></div></li><li class="dfwp-item"><div class="item link-item"><a href="http://www.tracksmart.com/aboutus/Pages/privacypolicies.aspx" title="">Privacy Policies</a></div></li></ul></div></div></td>
+		<td valign="top"><div webpartid="00000000-0000-0000-0000-000000000000" haspers="true" id="WebPartWPQ1" width="100%" class="ms-WPBody" onlyformepart="true" allowdelete="false" style=""><div id="cbqwpctl00_PlaceHolderMain_ContentByQueryWebPart1" class="cbq-layout-main"><ul class="dfwp-column dfwp-list" style="width:100%"><li class="dfwp-item"><div class="item link-item"><a href="http://www.tracksmart.com/aboutus/Pages/pressrelease.aspx" title="">Press Releases</a></div></li><li class="dfwp-item"><div class="item link-item"><a href="http://www.tracksmart.com/aboutus/Pages/whoweare.aspx" title="">Who We Are</a></div></li><li class="dfwp-item"><div class="item link-item"><a href="http://www.tracksmart.com/aboutus/Pages/whythisisfree.aspx" title="">Why It's FREE!</a></div></li><li class="dfwp-item"><div class="item link-item"><a href="http://www.tracksmart.com/aboutus/Pages/termsofuse.aspx" title="">Terms of Use</a></div></li><li class="dfwp-item"><div class="item link-item"><a href="http://www.tracksmart.com/aboutus/Pages/securitystandards.aspx" title="">Security Standards</a></div></li><li class="dfwp-item"><div class="item link-item"><a href="http://www.tracksmart.com/aboutus/Pages/satisfaction_guarantee.aspx" title="">Satisfaction Guarantee</a></div></li><li class="dfwp-item"><div class="item link-item"><a href="http://www.tracksmart.com/aboutus/Pages/privacypolicies.aspx" title="">Privacy Policies</a></div></li></ul></div></div></td>
 	</tr>
 </tbody></table>
 				</div>
@@ -723,10 +726,11 @@ var g_commandUIHandlers = {"name":"CommandHandlers","attrs":{},"children":[]};
 														<a href="/advice-center/pages/reducing-employee-absences.aspx">Improve employee attendance with these tips</a>
 														<br>
 														<a href="/advice-center/pages/manage-attendance/employee-vacation-scheduling.aspx">Make employee vacation scheduling easier</a><br>
+														<a href="/partners/Pages/affiliate/default.aspx">Join our Affiliate Program</a><br>
 														<a href="/advice-center/pages/manage-attendance/employee-attendance-policy.aspx">Employee attendance policy “how-to’s”</a></td>
 													<td style="width: 28%; height: 78px;" valign="top">
 														<h5>Site Tools</h5>
-														<a class="quick_start_tour cboxElement" href="/popups/quicktour/page1.html">Quick Tour</a><br>
+														<a class="quick_start_tour cboxElement" href="/pages/modal/quicktour/page1.html">Quick Tour</a><br>
 														<a href="/help">Help</a><br>
 														<a href="/pages/siteMap.aspx">Site Map</a>
 													</td>
@@ -926,25 +930,326 @@ Sys.Application.initialize();
 </div>
 
 		
-		
-<!-- Begin Hiconversion Body Enabling. Do NOT move. Must come directly before the closing body tag -->
-<script id="hiconversion_body_script" type="text/javascript">
-  function hiconversion_body_run(arg) {
-    var then = new Date();
-    var diff = then - arg.ran;
-    if (diff < arg.wait) {
-      if (typeof hiconversion_body_update == "function") {
-        hiconversion_body_update({async: true, pass: arg.pass, ran: arg.ran, then: then });
-      } else {
-        arg.pass = arg.pass + 1;
-        setTimeout(function() { hiconversion_body_run(arg); }, 100);
-      }
-    }
-  }
-  hiconversion_body_run({ async: true, pass: 0, ran: new Date(), wait: 30000 });
-</script>
-<!-- End Hiconversion Body Enabling -->
+<script type="text/javascript">
 
+function initPopUp(LicenseLevel)
+{
+$("#vedioButton").colorbox({ width: "450px", height: "350px", scrolling: false, inline: true, href: "#playVedio", overlayClose: false, top: "0px" });        
+$('#colorbox').appendTo('form');
+$(".close_modal").click(function () {
+  $("#upgrade_message_CoreTrack").colorbox.close();
+});
+
+var sharepointUrl = window.top.location.protocol + "//" +window.top.location.host;
+if (LicenseLevel.toLowerCase() == "free" || LicenseLevel.toLowerCase() == "coretrack") {
+                            var SortNumber = 0;
+                            if (LicenseLevel.toLowerCase() == "free") SortNumber = 2;
+                            else if (LicenseLevel.toLowerCase() == "coretrack") SortNumber = 4;
+
+                            var popup_value = "";
+                            var popup_Content = "";
+                            var popup_title = "";
+                            $().SPServices({
+                                webURL: sharepointUrl,
+                                operation: "GetListItems",
+                                listName: "AppCustomContent",
+                                async: false,
+                                CAMLQuery: "<Query><Where><Eq><FieldRef Name='ListKey'/><Value Type='Choice'>PopupWindow</Value></Eq><Eq><FieldRef Name='SortOrder'/><Value Type='Number'>" + SortNumber.toString() + "</Value></Eq></Where></Query>",
+                                CAMLViewFields: "<ViewFields><FieldRef Name='Content'/><FieldRef Name='Value'/><FieldRef Name='Title'/><FieldRef Name='SortOrder'/></ViewFields>",
+                                completefunc: function (xData, Status) {
+                                    if (Status == "success") {
+                                        $(xData.responseXML).SPFilterNode("z:row").each(function () {
+                                            if (parseInt($(this).attr("ows_SortOrder")) == SortNumber) {
+                                                popup_value = $(this).attr("ows_Value");
+                                                popup_Content = $(this).attr("ows_Content");
+                                                popup_title = $(this).attr("ows_Title");
+                                            }
+                                        });
+                                    }
+                                    if (popup_Content.length > 0) {
+                                        for (var j = 1; j < 20; j++) {
+                                            var start = popup_Content.indexOf(j + ". ");
+                                            if (start >= 0) {
+                                                var flag = j + ". ";
+                                                popup_Content = popup_Content.replace(flag, "###");
+                                            }
+                                        }
+                                        var checkImg = "<img src='/Reports/images/checkbox.png' />"
+
+                                        var words = popup_Content.split("###");
+                                        var table = document.createElement("table");
+
+                                        for (var i = 0; i < words.length; i++) {
+                                            var tr = document.createElement("tr");
+                                            var td1 = document.createElement("td");
+                                            var td2 = document.createElement("td");
+                                            tr.appendChild(td1);
+                                            tr.appendChild(td2);
+                                            if (words[i].length > 3) {
+                                                td1.innerHTML = checkImg;
+                                                td2.innerHTML = words[i];
+                                                table.appendChild(tr);
+                                            }
+                                        }
+                                        if (SortNumber == 2) {
+                                            document.getElementById("mainContentTDFree").innerHTML = "<table>" + table.innerHTML + "</table>";
+                                            document.getElementById("subTitleLbFree").innerHTML = popup_value;
+                                            document.getElementById("titleLbFree").innerHTML = popup_title;
+                                            $("#clickButton").colorbox({ width: "500px", height: "350px", scrolling: false, inline: true, href: "#upgrade_message_Free", overlayClose: false, top: "0px" });
+                                            $('#colorbox').appendTo('form');
+                                            $(".close_modal").click(function () {
+                                                $("#upgrade_message_Free").colorbox.close();
+                                            });
+                                        }
+                                        else if (SortNumber == 4) {
+                                            document.getElementById("mainContentTDCoreTrack").innerHTML = "<table>" + table.innerHTML + "</table>";
+                                            document.getElementById("subTitleLbCoreTrack").innerHTML = popup_value;
+                                            document.getElementById("titleLbCoreTrack").innerHTML = popup_title;
+                                            $("#clickButton").colorbox({ width: "520px", height: "350px", scrolling: false, inline: true, href: "#upgrade_message_CoreTrack", overlayClose: false, top: "0px" });
+                                            $('#colorbox').appendTo('form');
+                                            $(".close_modal").click(function () {
+                                                $("#upgrade_message_CoreTrack").colorbox.close();
+                                            });
+                                        }
+                                    }
+                                }
+                            });
+                        }
+}
+function showFreePop()
+{
+ document.getElementById('clickButton').click();
+}
+function showVedio()
+{
+ document.getElementById('vedioButton').click();
+}
+   function changeTimeSheetPage(pagename) {
+        var href = window.location.href;
+        
+        if(pagename==="Summary")
+        {
+          if(document.getElementById("summaryli")!==null)document.getElementById("summaryli").style.color = "#666666"; 
+          if(document.getElementById("historyli")!==null)document.getElementById("historyli").style.color = "#999999"; 
+          if(document.getElementById("detaili")!==null)document.getElementById("detaili").style.color = "#999999"; 
+        }
+        if(pagename==="History")
+        {
+          if(document.getElementById("summaryli")!==null)document.getElementById("summaryli").style.color = "#999999"; 
+          if(document.getElementById("historyli")!==null)document.getElementById("historyli").style.color = "#666666"; 
+          if(document.getElementById("detaili")!==null)document.getElementById("detaili").style.color = "#999999";         
+        
+        }
+        if(pagename==="Detail")
+        {
+           if(document.getElementById("summaryli")!==null)document.getElementById("summaryli").style.color = "#999999"; 
+          if(document.getElementById("historyli")!==null)document.getElementById("historyli").style.color = "#999999"; 
+          if(document.getElementById("detaili")!==null)document.getElementById("detaili").style.color = "#666666";       
+        
+        }
+        
+        
+        if (href.indexOf("TimeSheet") > 0) {
+            changePage(pagename);
+
+        } else {
+            window.location.href = "/Pages/TimeSheet.aspx#" + pagename;
+        }
+    }
+        function changePage(pagename) {
+            var iframes = document.getElementsByTagName("iframe");
+            for(var i=0;i < iframes.length;i++)
+            {
+              if(iframes[i].src !=null && iframes[i].src.indexOf("TimeSheet") > 0)
+              {
+                 iframes[i].contentWindow.changeTimeSheetName(pagename);
+              }
+            }
+        }
+    
+</script>
+  <div style="display: none">
+   <button id="clickButton" style="display: none">
+   </button><button id="vedioButton" style="display: none">
+        <div id="upgrade_message_Free" style="text-align: left; width: 95%; margin-top: 0px;
+            margin-left: 15px; overflow: hidden">
+            <table width="100%" border="0">
+                <tbody><tr>
+                    <td valign="middle" align="left" height="15">
+                        <img alt="P" src="/Reports/images/premium_icon.png" style="vertical-align: middle"><label id="titleLbFree" style="font-weight: bold; vertical-align: middle; font-size: l6px;
+                            color: Purple">Want this Premium Feature?</label>
+                    </td>
+                </tr>
+                <tr>
+                    <td valign="middle" align="left" height="15">
+                        <label id="subTitleLbFree" style="font-weight: bold; vertical-align: middle; font-size: 14px;">
+                            Upgrade to a premium plan to:</label>
+                    </td>
+                </tr>
+                <tr>
+                    <td id="mainContentTDFree" align="left">
+                    </td>
+                </tr>
+                <tr>
+                    <td valign="middle" align="center" height="15">
+                        <img id="img_CompareBtn" src="/Reports/images/comparebtn.png" border="0" style="cursor: pointer">
+                    </td>
+                </tr>
+            </tbody></table>
+        </div>
+    </button></div>
+  <div style="display: none">
+        <div id="upgrade_message_CoreTrack" style="text-align: left; width: 95%; margin-top: 0px;
+            margin-left: 15px; overflow: hidden">
+            <table width="100%" border="0">
+                <tbody><tr>
+                    <td valign="middle" align="left" height="15">
+                        <img alt="P" src="/Reports/images/premium_icon.png" style="vertical-align: middle"><label id="titleLbCoreTrack" style="font-weight: bold; vertical-align: middle; font-size: 16px;
+                            color: Purple">Want this feature?</label>
+                    </td>
+                </tr>
+                <tr>
+                    <td valign="middle" align="left" height="15">
+                        <label id="subTitleLbCoreTrack" style="font-weight: bold; vertical-align: middle;
+                            font-size: 14px;">
+                            Upgrade your CoreTrack account to FlexTrack or PowerTrack</label>
+                    </td>
+                </tr>
+                <tr>
+                    <td id="mainContentTDCoreTrack" align="left">
+                    </td>
+                </tr>
+                <tr>
+                    <td valign="middle" align="center" height="15">
+                        <img id="img_CompareBt2" src="/Reports/images/comparebtn.png" border="0" style="cursor: pointer">
+                    </td>
+                </tr>
+                <tr>
+                    <td align="left">
+                        <label id="bottommsgLb" style="font-size: 9px">
+                            Email memberservices@tracksmart.com, or call 877-457-4855, Monday - Friday, 8am
+                            - 5pm, ET, to talk about upgrading your CoreTrack Plan.</label>
+                    </td>
+                </tr>
+            </tbody></table>
+        </div>
+    </div>
+    
+ <div style="display: none">
+        <div id="playVedio" style="text-align: left; width: 95%; margin-top: 0px;
+            margin-left: 15px; overflow: hidden">
+			
+        </div>
+    </div>
+    <script type="text/javascript">
+    
+    var currentUrl = window.top.location.pathname;
+	 if(currentUrl!=="" && currentUrl.length>4 && currentUrl.toLowerCase().indexOf("/home")<0)
+	 {
+	 if(currentUrl.toLowerCase().indexOf("calendar.aspx") > 0)
+	 {
+	   document.getElementById("silverlightlinkdiv").style.display="";
+	 }else 
+	 {
+	   if(document.getElementById("htmllinkdiv")!==null)document.getElementById("htmllinkdiv").style.display="";
+	 }
+     }
+
+    
+        $('#img_CompareBtn').click(function () {
+            window.top.location = "/Pages/compare-plans.aspx?CID=preferences";
+        });
+        $('#img_CompareBt2').click(function () {
+            window.top.location = "/Pages/compare-plans.aspx?CID=preferences";
+        });
+      
+      
+      $(document).ready(function(){
+        var pageurl = window.location.href;
+          if (pageurl.toLowerCase().indexOf("employee-self-service.aspx") > 0) {
+          document.getElementById("essli").className="selected"; 
+        }
+          if (pageurl.toLowerCase().indexOf("customers.aspx") > 0) {
+          document.getElementById("cusli").className="selected"; 
+        }
+        if (pageurl.toLowerCase().indexOf("compare-plans") > 0) {
+          if(document.getElementById("cpli")!==null)
+	       {   
+	        document.getElementById("cpli").className="selected"; 
+	        }else
+	        {
+	          if(document.getElementById("resourcediv")!==null)document.getElementById("resourcediv").style.display ="";         
+	          if(document.getElementById("planli")!==null)document.getElementById("planli").style.color = "#666666";
+	          if(document.getElementById("resourceli")!==null)document.getElementById("resourceli").className="selected";
+			}
+        }
+         if (pageurl.toLowerCase().indexOf("welcomepage.aspx") > 0) {
+          if(document.getElementById("supportdiv")!==null)document.getElementById("supportdiv").style.display ="";         
+          if(document.getElementById("helplia")!==null)document.getElementById("helplia").style.color = "#666666";
+           if(document.getElementById("supportli")!==null)document.getElementById("supportli").className="selected";
+        }
+         if (pageurl.toLowerCase().indexOf("contact-us.aspx") > 0) {
+          if(document.getElementById("supportdiv")!==null)document.getElementById("supportdiv").style.display ="";         
+          if(document.getElementById("contactlia")!==null)document.getElementById("contactlia").style.color = "#666666";
+           if(document.getElementById("supportli")!==null)document.getElementById("supportli").className="selected";
+        }
+         if (pageurl.toLowerCase().indexOf("whoweare.aspx") > 0) {
+          if(document.getElementById("resourcediv")!==null)document.getElementById("resourcediv").style.display ="";         
+          if(document.getElementById("aboutlia")!==null)document.getElementById("aboutlia").style.color = "#666666";
+           if(document.getElementById("resourceli")!==null)document.getElementById("resourceli").className="selected";
+        }
+         if (pageurl.toLowerCase().indexOf("employee-absence-advice.aspx") > 0) {
+          if(document.getElementById("resourcediv")!==null)document.getElementById("resourcediv").style.display ="";         
+          if(document.getElementById("advicelia")!==null)document.getElementById("advicelia").style.color = "#666666";
+           if(document.getElementById("adviceli")!==null)document.getElementById("adviceli").style.color = "#666666";          
+           if(document.getElementById("resourceli")!==null)document.getElementById("resourceli").className="selected";
+        }
+      
+       if (pageurl.toLowerCase().indexOf("app.aspx") > 0) {
+	        if (pageurl.toLowerCase().indexOf("employeeprofileadmin") > 0) {
+	          document.getElementById("employeediv").style.display ="";
+	          document.getElementById("profileli").style.color = "#666666";
+	          document.getElementById("employeeli").className="selected";
+	        }else if (pageurl.toLowerCase().indexOf("employeetimeoffsetup") > 0) {
+	          document.getElementById("employeediv").style.display ="";
+	          document.getElementById("permissionid").style.color = "#666666";
+	          document.getElementById("employeeli").className="selected";
+	        }else 
+	        {
+	         document.getElementById("homeli").className="selected"; 
+	        }
+        }
+        
+         if (pageurl.toLowerCase().indexOf("calendar.aspx") > 0) {
+         document.getElementById("attendancediv").style.display ="";       
+          document.getElementById("calendarli").style.color = "#666666";
+          document.getElementById("attendanceli").className="selected";
+        }
+        
+         if (pageurl.toLowerCase().indexOf("timeoffrequests.aspx") > 0) {
+          document.getElementById("attendancediv").style.display ="";       
+          document.getElementById("timeoffli").style.color = "#666666";
+          document.getElementById("attendanceli").className="selected";
+        }
+        
+        
+       if (pageurl.toLowerCase().indexOf("timesheet") > 0) {
+          document.getElementById("timesheetdiv").style.display ="";
+          document.getElementById("timesheetli").className="selected"; 
+          if(document.getElementById("summaryli")!==null)document.getElementById("summaryli").style.color = "#666666"; 
+          if(document.getElementById("historyli")!==null)document.getElementById("historyli").style.color = "#999999"; 
+          if(document.getElementById("detaili")!==null)document.getElementById("detaili").style.color = "#999999"; 
+               
+        }
+
+         if (pageurl.toLowerCase().indexOf("reports.aspx") > 0) {
+          document.getElementById("reportli").className="selected"; 
+        }
+	 });
+        
+  
+        
+    </script>
 
 
 
