@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the cdn.net privacy policy that was archived on 2013-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130517025159id_/http%3A//www.cdn.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cdn.net privacy policy that was archived on 2013-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131119094232id_/http%3A//www.cdn.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - CDN.net
-
-**Information about our organization and web site**
 
 Modern information and communication technologies play a fundamental role in the activities of an organization like CDN.net. Our principal activity is commercial software development, sales, service, and support. Our privacy policy covers CDN.net and its web site (the “Site”), www.cdn.net.
 
@@ -87,4 +85,4 @@ The OnApp Privacy Statement strives to be compliant with the Canadian, US, and E
 
 **Privacy support**
 
-**If you have an enquiry or concern about our privacy policy, please contact us at[info@cdn.net](mailto:info@cdn.net)**
+**If you have an enquiry or concern about our privacy policy, please contact us at  [info@cdn.net](mailto:info@cdn.net)**
