@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the usab.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102143647id_/http%3A//www.usabasketball.com/about/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usab.com privacy policy that was archived on 2013-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131119084619id_/http%3A//www.usab.com/about/privacy_policy.html) for the most accurate reproduction.*
 
 # USA Basketball: USA Basketball Privacy Policy
 
