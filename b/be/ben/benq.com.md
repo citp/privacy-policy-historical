@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the benq.com privacy policy that was archived on 2013-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130519181716id_/http%3A//benq.com/legal) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the benq.com privacy policy that was archived on 2013-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131119225936id_/http%3A//www.benq.com/legal) for the most accurate reproduction.*
 
 # Legal Notice | BenQ Global
 
