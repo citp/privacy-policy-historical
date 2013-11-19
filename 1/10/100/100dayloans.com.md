@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the 100dayloans.com privacy policy that was archived on 2013-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130510222518id_/http%3A//www.100dayloans.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 100dayloans.com privacy policy that was archived on 2013-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131119053018id_/http%3A//www.100dayloans.com/privacy_policy.php) for the most accurate reproduction.*
 
-# 100DayLoans :: Fast One Hour Loans :: Pay Day Advance Loans :: Cash Loans ::
+# 100 Day Loans
 
-Blue Global, LLC ("Blue Global") is committed to respecting the privacy rights of users of the [100DayLoans.com](http://100dayloans.com/) website (the "Website"). Blue Global created this privacy policy (the "Privacy Policy") to give you confidence as you visit and use the Website, and to demonstrate its commitment to fair information practices and to the protection of privacy. 
+Blue Global, LLC ("Blue Global") is committed to respecting the privacy rights of users of the [100DayLoans.com](http://100dayloans.com/) website (the "Website"). Blue Global created this privacy policy (the "Privacy Policy") to give you confidence as you visit and use the Website, and to demonstrate its commitment to fair information practices and to the protection of privacy.
 
 This Privacy Policy applies whether you are accessing the Website via a personal computer, a mobile device or any other technology or devices now known or hereafter developed or discovered. This Privacy Policy is only applicable to the Website and not to any websites owned by Blue Global's parent companies, subsidiaries or affiliates or other third-parties (collectively, "Third-Party Websites"), which may have data collection, storage and use practices and policies that differ materially from this Privacy Policy. For additional information, see the section concerning Third-Party Websites, below. 
 
@@ -50,7 +50,7 @@ IF YOU DO NOT WISH TO HAVE COOKIES PLACED ON YOUR COMPUTER, YOU SHOULD SET YOUR 
 
   * Disclosure to Lenders. Blue Global refers consumers to lenders who provide short-term loans. Blue Global discloses Personal Information to lenders, who use your Personal Information to identify you, to confirm facts about you, to deliver financial products and services to you, to help assess requests for financial products and services, and as necessary to service your loan. 
 
-  * Marketing Communications. Blue Global provides your Personal Information to third parties, so that they may contact you directly, online and offline, with information about additional products and services ("Marketing Communications"). You may opt-out of having your Personal Information provided to third parties for the purpose of Marketing Communications by clicking [here](http://www.optout-blgl.net/o-lglb-z69-85f36b03ce05b78e6817e53113984b02) and following the opt-out instructions. Even after opting-out, you may continue to receive Marketing Communications from third parties to whom Blue Global has already has provided your Personal Information. You will be responsible for contacting those third parties directly to request that you receive no further Marketing Communications. 
+  * Marketing Communications. Blue Global provides your Personal Information to third parties, so that they may contact you directly, online and offline, with information about additional products and services ("Marketing Communications"). You may opt-out of having your Personal Information provided to third parties for the purpose of Marketing Communications by clicking [here](https://www.100dayloans.com/system/leadsystem/redirects/optout.php) and following the opt-out instructions. Even after opting-out, you may continue to receive Marketing Communications from third parties to whom Blue Global has already has provided your Personal Information. You will be responsible for contacting those third parties directly to request that you receive no further Marketing Communications. 
 
   * Disclosure in Connection with Services. Blue Global discloses Personal Information to those who help it provide Services, including those who perform technical, administrative and data processing tasks such as ad serving (see Section 2(d), above), email management, hosting, billing, fulfillment, and data storage and security. 
 
@@ -63,7 +63,7 @@ IF YOU DO NOT WISH TO HAVE COOKIES PLACED ON YOUR COMPUTER, YOU SHOULD SET YOUR 
 
 ### 5\. YOUR CALIFORNIA PRIVACY RIGHTS
 
-Under California's "Shine the Light" law (CA Civil Code 1798.83), California residents who provide personal information to businesses in obtaining products or services for personal, family or household use are entitled to either: (1) a list detailing the categories of information shared and the entities to which such information was provided; or (2) to be notified of a mechanism by which a consumer may opt-out of having their information shared with third parties. Blue Global has elected the second option. To opt-out of having your information shared with third parties, click [here](http://www.optout-blgl.net/o-lglb-z69-85f36b03ce05b78e6817e53113984b02) and follow the opt-out instructions. 
+Under California's "Shine the Light" law (CA Civil Code 1798.83), California residents who provide personal information to businesses in obtaining products or services for personal, family or household use are entitled to either: (1) a list detailing the categories of information shared and the entities to which such information was provided; or (2) to be notified of a mechanism by which a consumer may opt-out of having their information shared with third parties. Blue Global has elected the second option. To opt-out of having your information shared with third parties, click [here](https://www.100dayloans.com/system/leadsystem/redirects/optout.php) and follow the opt-out instructions. 
 
 ### 6\. SECURITY OF PERSONAL INFORMATION
 
@@ -71,7 +71,7 @@ The security of your personal information is important to us; Blue Global has im
 
 ### 7\. EMAIL COMMUNICATIONS; MARKETING COMMUNICATIONS
 
-By completing an application through the Website, you consent to receive certain administrative email communications from Blue Global. You also consent to receive periodic online and offline marketing communications from Blue Global. You may opt-out of receiving Blue Global marketing communications at any time by clicking [here](http://www.optout-blgl.net/o-lglb-z69-85f36b03ce05b78e6817e53113984b02) and following the opt-out instructions. 
+By completing an application through the Website, you consent to receive certain administrative email communications from Blue Global. You also consent to receive periodic online and offline marketing communications from Blue Global. You may opt-out of receiving Blue Global marketing communications at any time by clicking [here](https://www.100dayloans.com/system/leadsystem/redirects/optout.php) and following the opt-out instructions. 
 
 ### 8\. USER ABILITY TO ACCESS, UPDATE, AND CORRECT PERSONAL INFORMATION
 
@@ -96,4 +96,6 @@ Scottsdale, AZ 85251
 
 legal@blueglobalmedia.com 
 
-100DayLoans offers simple easy short term loans with no Faxing Required. Apply today and get a bigger payday Loan. You can use our cash advance loans to catch up on bills and avoid costly NSF and late fees. 
+100DayLoans offers simple easy short term loans with no Faxing Required. Apply today and get a bigger payday Loan.
+
+You can use our cash advance loans to catch up on bills and avoid costly NSF and late fees.
