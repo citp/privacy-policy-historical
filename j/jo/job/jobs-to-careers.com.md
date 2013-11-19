@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the jobs-to-careers.com privacy policy that was archived on 2013-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130628064916id_/http%3A//www.jobs2careers.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobs-to-careers.com privacy policy that was archived on 2013-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131119180436id_/http%3A//www.jobs2careers.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy | Jobs2Careers
 
 ## Privacy Policy
 
-Last update on: June 13th, 2013
+Last update on: September 20th, 2013
 
 Jobs-to-Careers.com and Jobs2Careers.com ("Jobs2Careers" or "we") is a website owned by InsidersReferral.com Inc. We know you are concerned about your privacy, so we developed this Privacy Policy to explain how we collect, use, share and disclose personally identifiable information (referred to as "personal information" in this Privacy Policy
 
@@ -70,4 +70,4 @@ To stop receiving job alerts and marketing offers from Jobs2Careers.com, click [
 
 ####  Contact Us
 
-If you have any questions or concerns about this Privacy Policy, please contact us at [privacy@jobs2careers.com](mailto:privacy@jobs2careers.com). or by mail to: InsidersReferral.com, Inc. 3945 Freedom Circle Ste 320 Santa Clara, CA 95054 
+If you have any questions or concerns about this Privacy Policy, please contact us at [privacy@jobs2careers.com](mailto:privacy@jobs2careers.com). or by mail to: InsidersReferral.com, Inc. 9606 N Mopac Expressway Suite 100 Austin, TX 78759. By phone: (512) 808-0190 
