@@ -1,22 +1,24 @@
-> *The following text is extracted and transformed from the williams-sonomainc.com privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621015651id_/http%3A//www.williams-sonomainc.com/privacy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the williams-sonomainc.com privacy policy that was archived on 2013-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131119040426id_/http%3A//www.williams-sonomainc.com/privacy/index.html) for the most accurate reproduction.*
 
 # Williams-Sonoma, Inc. - Privacy Policy
 
 ## Privacy Policy
 
-We are part of the "Williams-Sonoma, Inc. Brands" which includes Williams-Sonoma, Pottery Barn, pottery barn kids, PBteen, west elm, Rejuvenation and Mark and Graham. Williams-Sonoma, Inc. Brands are committed to respecting your privacy and recognizing your need for appropriate protection and management of contact information you share with us (the phrase "contact information" means any information by which you can be contacted or identified, such as your name, mailing address, email address, telephone number, etc.). The purpose of this Privacy Policy is to inform you what information we may collect from you, how we use such information, and the choices you have regarding our use of, and your ability to review, correct and opt out of our use of, the information. By using any of our web sites or sharing your contact information with us, you are accepting and consenting to the practices described in this Privacy Policy.
+We are part of the "Williams-Sonoma, Inc. Brands" which includes Williams-Sonoma, Pottery Barn, pottery barn kids, PBteen, west elm, Rejuvenation and Mark and Graham. Williams-Sonoma, Inc. Brands are committed to respecting your privacy and recognizing your need for appropriate protection and management of contact information you share with us (the phrase "contact information" means any information by which you can be contacted or identified, such as your name, mailing address, email address, telephone number, etc.). The purpose of this Privacy Policy is to inform you what information we may collect from you, how we use such information, and the choices you have regarding our use of, and your ability to review, correct and opt out of our use of, the information. This Privacy Policy applies to information we collect about you in our stores and through our websites and mobile applications. By using any of our web sites, mobile applications, or sharing your contact information with us, you are accepting and consenting to the practices described in this Privacy Policy.
 
 As a part of our commitment to your privacy, Williams-Sonoma, Inc. Brands support and adhere to the guidelines and practices adopted by the Direct Marketing Association's "Privacy Promise to American Consumers." We have agreed to (1) provide customers with notice of their ability to opt out of information rental, sale, or exchange with other marketers; (2) honor customers' requests not to share their contact information with other marketers; and (3) honor customers' requests not to receive mail, telephone, or other solicitations from Williams-Sonoma, Inc. Brands.
 
-### Collecting Information About You
+## Collecting Information About You
 
-There may be times (such as when you purchase or order a product, subscribe to a service, register to receive catalogs, or to participate in contests, sweepstakes or promotions, etc.) when we ask you to provide certain contact information about yourself, such as your name, shipping/billing address, telephone number, email address, credit card information, birth date, gender, occupation, personal interests, and other information. We may also maintain a record of your product purchases.
+There may be times (such as when you purchase or order a product, subscribe to a service, register to receive catalogs, or to participate in contests, sweepstakes or promotions, etc.) when we ask you to provide certain contact information about yourself, such as your name, shipping/billing address, telephone number, email address, social media user name, credit card information, birth date, gender, occupation, personal interests, and other information. We may also maintain a record of your product purchases.
 
 Whether or not to provide such information is completely your own choice. But if you choose not to provide the information we request, you may be unable to purchase products, or access certain services, offers and content on our web sites. In addition, we may need to contact you via phone, email or mail to address questions or issues specific to your order, entry, etc., even if you have opted to not receive marketing communications from us.
 
-In general, you can visit many of our web pages without telling us who you are or revealing any contact information about yourself. We may track the Internet domain address from which people visit us and analyze this data for preferences, trends, and site usage statistics, but individual users will remain anonymous, unless you voluntarily tell us who you are.
+In general, you can visit many of our web pages without telling us who you are or revealing any contact information about yourself. We may track the Internet domain address from which people visit us and analyze this data for preferences, trends, and site usage statistics, but individual users will remain anonymous, unless you voluntarily tell us who you are. We may also receive anonymous usage data from your mobile phone or other device you use to access our web sites or our mobile applications, including location data.
 
-### Using Information About You
+If you access any of our websites or mobile applications with your log-in credentials from a social networking site (e.g., facebook or twitter) or if you otherwise agree to associate your account with us with a social networking site, we may receive personal information about you from such social networking site, in accordance with the terms of use and privacy policy of the social networking site. We may add this information to the information we have already collected from you via our stores, websites and mobile applications.
+
+## Using Information About You
 
 We use your contact information for internal purposes only, such as:
 
@@ -35,86 +37,80 @@ To serve you better, we may combine information you give us online, in our store
 
 We may contract with companies or persons to provide certain services including credit card processing, shipping, data management, promotional services, etc. We call them our Service Providers. We provide our Service Providers with the information needed for them to perform these services. We also ask our Service Providers to confirm that their privacy practices are consistent with ours.
 
-We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web sites. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other web sites in order to provide advertisements about goods and services likely to be of interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit <http://www.networkadvertising.org/>.
-
-We may share contact information and other data with businesses controlling, controlled by, or under common control with any Williams-Sonoma, Inc. Brands.
+We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web sites. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other web sites in order to provide advertisements about goods and services likely to be of interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit [http://www.networkadvertising.org](http://www.networkadvertising.org/).
 
 In certain instances we may disclose your contact information when we have reason to believe that it is necessary to identify, contact or bring legal action against persons or entities who may be causing injury to you, to Williams-Sonoma, Inc. Brands or to others. We may also disclose your contact information when we believe the law or legal process requires it.
 
-### Opting Out Of Marketing And Transfers; Updating and Deleting Information About You
+## Opting Out Of Marketing And Transfers; Updating and Deleting Information About You
 
-We want to communicate with you only if you want to hear from us. If you prefer not to receive direct marketing from us or from our Select Partners, or if you would like to opt out of our rental or exchange of your information with other marketers, please let us know. In the U.S., you can call us at 800.541.1262 or send us an [email](http://www.williams-sonomainc.com/contact-us/). Outside of the U.S., you can call us at 405.717.6139 or send us an [email](http://www.williams-sonomainc.com/contact-us/). Please be sure to include your full name, email address, mailing address, and specifically what information you do not want to receive. If you would like to update or correct your email address, mailing address or other contact information with us please contact us the same way. If you like, you may use either of the following statements in your message to us:
-
-  * "I prefer not to receive email advertisements, such as updates regarding products and services, special promotions or upcoming events."
-  * "I prefer not to receive direct mail advertisements, such as periodic catalogs and mailings regarding products and services, special promotions or upcoming events."
-
-
+We want to communicate with you only if you want to hear from us. If you prefer not to receive direct marketing from us or from our Select Partners, or if you would like to opt out of our rental or exchange of your information with other marketers, please let us know by contacting us at 1.800.541.1262 or by sending us an email. Please be sure to include your full name, email address, mailing address, and specifically what information you do not want to receive. If you would like to update or correct your email address, mailing address or other contact information with us please contact us the same way.
 
 You may also click the designated link at the bottom of all email advertisements to be removed from future email updates.
 
-Please note that any requests to remove or update your contact information may take up to five days for your email request and 6-8 weeks to process your postal mail request.
+Please note that any requests to remove or update your contact information may take up to ten days for your email request and 6-8 weeks to process your postal mail request.
 
-Back to Top
+^ Back to Top
 
-### International Customer Privacy
+## International Customer Privacy
 
-For international shipping orders, Williams-Sonoma, Inc. Brands partner with FiftyOne, Inc. ("FiftyOne"). We have contracted with FiftyOne to assure that they will carefully process your information consistent with this Privacy Policy.
+For international shipping orders, Williams-Sonoma, Inc. Brands partner with Borderfree, Inc. ("Borderfree"). We have contracted with Borderfree to assure that they will carefully process your information consistent with this Privacy Policy.
 
-When we identify that your order is one that will be shipped internationally, we work with FiftyOne to complete your order. On the checkout page, you will be required to submit credit card and contact information (name, billing address, shipping address, email address and phone number) to FiftyOne to complete your order. Upon completion of your order, FiftyOne will notify us of the approval of your order, and we will then ship approved orders to FiftyOne. Simultaneously, FiftyOne will purchase the product from us, which allows them to take title to the product(s), bill your credit card, collect and remit any duties and taxes to the appropriate taxing authority and arrange for the product to be delivered to you. In this process, FiftyOne makes the sale to you as the merchant of record. When ordering a product, you will be presented with FiftyOne's terms and conditions to which you must agree in order to receive the product(s) you ordered.
+When we identify that your order is one that will be shipped internationally, we work with Borderfree to complete your order. On the checkout page, you will be required to submit credit card and contact information (name, billing address, shipping address, email address and phone number) to Borderfree to complete your order. Upon completion of your order, Borderfree will notify us of the approval of your order, and we will then ship approved orders to Borderfree. Simultaneously, Borderfree will purchase the product from us, which allows them to take title to the product(s), bill your credit card, collect and remit any duties and taxes to the appropriate taxing authority and arrange for the product to be delivered to you. In this process, Borderfree makes the sale to you as the merchant of record. When ordering a product, you will be presented with Borderfree's terms and conditions to which you must agree in order to receive the product(s) you ordered.
 
-Once you place your order, you will be prompted to check the box to indicate if you would like to receive information from Williams-Sonoma, Inc. Brands regarding offers and promotions that may be available from time to time. If you check the box, FiftyOne will share your information with Williams-Sonoma, Inc. Brands, and we will protect and use your information in accordance with this Privacy Policy.
+Once you place your order, you will be prompted to check the box to indicate if you would like to receive information from Williams-Sonoma, Inc. Brands regarding offers and promotions that may be available from time to time. If you check the box, Borderfree will share your information with Williams-Sonoma, Inc. Brands, and we will protect and use your information in accordance with this Privacy Policy.
 
 If you choose to provide Williams-Sonoma, Inc. Brands with your information, you consent to the transfer and storage of that information on our servers located in the United States.
 
-Williams-Sonoma, Inc. Brands adheres to the US-EU and US-Swiss Safe Harbor Privacy Principles of Notice, Choice, Onward Transfer, Security, Data Integrity, Access and Enforcement, and is registered with the U.S. Department of Commerce's Safe Harbor Program.
+Williams-Sonoma, Inc. Brands adheres to the EU-US Safe Harbor Privacy Principles of Notice, Choice, Onward Transfer, Security, Data Integrity, Access and Enforcement, and is registered with the U.S. Department of Commerce's Safe Harbor Program.
 
-For European Union or Swiss residents, any questions or concerns regarding the use or disclosure of your information should be directed to Williams-Sonoma, Inc. Brands by calling us at 405.717.6139 or by sending us an [email](http://www.williams-sonomainc.com/contact-us/). We will investigate and attempt to resolve complaints and disputes regarding use and disclosure of your information in accordance with this Privacy Policy. For complaints that cannot be resolved, we have agreed to participate in the dispute resolution procedures of the American Arbitration Association pursuant to the US-EU and US-Swiss Safe Harbor Privacy Principles.
+Any questions or concerns regarding the use or disclosure of your information should be directed to Williams-Sonoma, Inc. Brands by calling us at 1.800.541.1262 or by sending us an [email]( "Send Us An Email"). We will investigate and attempt to resolve complaints and disputes regarding use and disclosure of your information in accordance with this Privacy Policy. For complaints that cannot be resolved, we have agreed to participate in the dispute resolution procedures of the American Arbitration Association pursuant to the EU-US Safe Harbor Privacy Principles.
 
-### Cookies
+## Cookies
 
 When you visit our web sites, we send one or more "cookies" to your computer or other device. We may also use cookies in emails that you receive from us. A "cookie" is a small data file that is placed on the hard drive of your computer when you visit a web site. A "session cookie" expires immediately when you end your session (i.e., close your browser). A "persistent cookie" stores information on the hard drive so when you end your session and return to the same web site at a later date the cookie information is still available. Generally, we use cookies to improve the quality of our service when you visit our web site and other web sites of interest to you. We also use cookies to remind us of who you are, tailor our products, services and advertising to suit the personal interests of you and others, estimate our audience size, assist our online merchants to track visits to and sales at our web sites and to process your order, track your status in our promotions, contests and sweepstakes, and/or analyze your visiting patterns.
 
-Certain of our Service Providers may use cookies and collect information on our behalf. They are prohibited by our contract with them from sharing that information with anyone other than us or our other Service Providers. However, we respect your right to choose whether to be included in such services. You may opt out of certain of these services by clicking [here](https://tools.google.com/dlpage/gaoptout). In addition, in connection with the services that they provide to us, certain of our Service Providers may work with third parties who may use cookies to collect anonymous information to tailor advertising for you and others elsewhere on the Internet. These third parties do not have access to any contact information about you. If you would like to opt out of accepting cookies altogether, you can generally set your browser to not accept cookies or to notify you when you are sent a cookie, giving you the chance to decide whether or not to accept it. However, certain features of our web sites or other services may not work if you delete or disable cookies.
+Certain of our Service Providers may use cookies and collect information on our behalf. They are prohibited by our contract with them from sharing that information with anyone other than us or our other Service Providers. However, we respect your right to choose whether to be included in such services. You may opt out of certain of these services by clicking here. In addition, in connection with the services that they provide to us, certain of our Service Providers may work with third parties who may use cookies to collect anonymous information to tailor advertising for you and others elsewhere on the Internet. These third parties do not have access to any contact information about you. If you would like to opt out of accepting cookies altogether, you can generally set your browser to not accept cookies or to notify you when you are sent a cookie, giving you the chance to decide whether or not to accept it. However, certain features of our web sites or other services may not work if you delete or disable cookies.
 
-Back to Top
+^ Back to Top
 
-### Security
+## Security
 
-We maintain physical, electronic, and procedural safeguards to protect the confidentiality and security of information transmitted to us. To guard your information delivered to us electronically, our web sites use Secure Sockets Layer (SSL). SSL encrypts your credit card number, name and address so only we are able to decode your information. Unfortunately, however, no data transmission over the Internet can be guaranteed to be 100% secure. As a result, while we strive to protect your contact information to the extent permitted by law, we do not guarantee or warrant the security of any information you transmit to or from our web sites, and you do so at your own risk.
+We maintain physical, electronic, and procedural safeguards to protect the confidentiality and security of information transmitted to us. To guard your information delivered to us electronically, our web sites use Secure Sockets Layer (SSL). SSL encrypts your credit card number, name and address so only we are able to decode your information. Unfortunately, however, no data transmission over the Internet can be guaranteed to be 100% secure. As a result, while we strive to protect your contact information, we cannot guarantee or warrant the security of any information you transmit to or from our web sites, and you do so at your own risk.
 
-We urge you to keep any password that you establish with us in a safe place and not to divulge it to anyone. Also remember to log off your account and close your browser window when you have finished your visit. This is to ensure that others cannot access your account, especially if you are sharing a computer with someone else or are using a computer in a public place.
+We urge you to keep any password that you establish with us in a safe place and not to divulge it to anyone. Also remember to log off your account and close your browser window when you have finished your visit. This is to ensure that others cannot access your account, especially if you are sharing a computer with someone else or are using a computer in a public place such as a library or Internet cafe.
 
-### Protecting Children
+## Protecting Children
 
 Williams-Sonoma, Inc. Brands take special care to protect the safety and privacy of children. Our web sites are general audience sites. We do not permit anyone under the age of 13 to register with us. We also do not send email correspondence to anyone who tells us that they are under the age of 13.
 
 Children under the age of 13 should always ask their parents or guardians for permission before providing any contact information to anyone online. We urge parents and guardians to participate in their children's online activities and use parental control or other web filtering technology to supervise children's access to the Internet.
 
-Back to Top
+^ Back to Top
 
-### Links to Third Party Web Sites
+## Links to Third Party Sites
 
-Our web sites may contain links to web sites operated and maintained by third parties, over which we have no control. Privacy policies on such linked web sites may be different from our privacy policy. You access such linked web sites at your own risk. You should always read the privacy policy of a linked web site before disclosing any of your information on such web site.
+Our web sites may contain links to web sites operated and maintained by third parties, over which we have no control. Privacy policies on such linked sites may be different from our privacy policy. You access such linked sites at your own risk. You should always read the privacy policy of a linked site before disclosing any of your information on such site.
 
-### Policy Changes
+## Policy Changes
 
 If we decide to change our privacy policy in whole or in part, we will inform you by posting a notice on our web sites, as applicable. Those changes will go into effect on the effective date posted in the notice and at the end of the revised Privacy Policy. The new policy will apply to all current and past users of our web sites and will replace any prior policies that are inconsistent. Your continued use of our web sites or other services constitutes your acceptance of the practices described in the revised Privacy Policy.
 
-### Australian Residents
+## Your Feedback
 
-In addition to the above terms, the following terms of this Privacy Policy also apply to Australian residents using this website:
+To help us improve our privacy policy and practice, please give us your feedback. You may email us or call us at 1.800.541.1262.
 
-  * You consent to (i) the disclosure, transfer and storage of information about you (including contact information) by us to our Select Partners and our Service Providers located in the United States and in other countries in accordance with this Privacy Policy and (ii) all other practices and actions described in this Privacy Policy.
-  * You acknowledge that by consenting to the disclosure of information about you to our Select Partners and/or our Service Providers our obligations under the Privacy Act 1988 (Cth) now or in the future (if any) to ensure that our Select Partners and/or Service Providers comply with their privacy policies and/or any applicable privacy principles under the Privacy Act 1988 (Cth) may cease.
-  * You acknowledge that the data privacy laws of the United States and other countries where our Select Partners and/or Service Providers are located may not provide the same level of protection for your information as Australia.
-  * You consent to receive direct marketing (including electronic marketing materials) from us, until such time as you unsubscribe from such, and for us to provide your details to and to receive direct marketing (including electronic marketing materials) from our Select Partners and others.
+Effective Date: August 2013
 
+^ Back to Top
 
+## Legal Statement
 
-You may [email](http://www.williams-sonomainc.com/contact-us/) us and request us to provide details of the information, including contact information, that we hold about you in which case we may require you to pay the reasonable cost of providing access to any such information (but we will not charge you for lodging a request for access).
+Copyright 2013 Williams-Sonoma, Inc. All Rights Reserved.
 
-### Your Feedback
+Williams-Sonoma®, Williams-Sonoma Home®, Pottery Barn®, pottery barn kids®, PBteen®, west elm®, Rejuvenation® and Mark and Graham® are each a registered trademark of Williams-Sonoma, Inc. and/or its subsidiaries (collectively "Williams-Sonoma, Inc.").
 
-To help us improve our privacy policy and practice, please give us your feedback. In the U.S., you can call us at 800.541.1262 or send us an [email](http://www.williams-sonomainc.com/contact-us/). Outside of the U.S., you can call us at 405.717.6139 or send us an [email](http://www.williams-sonomainc.com/contact-us/).
+All of the materials, including images, illustrations, designs, icons, photographs, video clips and writer and other materials that appear as part of this site (collectively, the "Contents") on this website is subject to copyright, trademark, service mark, trade dress and other intellectual property rights or licenses held by Williams-Sonoma, Inc. Your use of the trademarks, service marks, trade dress and copyrighted material displayed on this website is strictly prohibited.
 
-Effective Date: November 2012
+You may not copy, download, reproduce, modify, publish, distribute, transmit, distribute display, transfer, create derivative works from, sell or participate in the any sale of, or exploit in any way, in whole or in part, any of the Contents, the site, or any related software.
+
+^ Back to Top
