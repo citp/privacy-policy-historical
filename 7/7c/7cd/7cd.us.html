@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the 7cd.us privacy policy that was archived on 2013-05-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130520121714id_/http%3A//www.7cd.us/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the 7cd.us privacy policy that was archived on 2013-11-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131119210621id_/http%3A//www.7cd.us/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <title>Professional Web Directory - 7CD.us</title>
@@ -13,13 +13,14 @@
 <meta name="copyright" content="7CD Web Directory">
 <meta name="robots" content="index, follow">
 <meta name="generator" content="PHP Link Directory 3.2.0">
+<script src="/jquery-1.10.2.js"></script>
 </head>
 
 <body><script src="http://www.ientry.com/ustream_header.php" type="text/javascript"></script>
 <div id="header">
 <a href="http://www.7cd.us/"><img src="http://images.ientrymail.com/tomld/www.7cd.us/templates/navjot/images/logo.gif" alt="7CD Web Directory"></a>
-<form action="/search.html" method="post">
-Search<input type="text" class="searchtext" name="search" size="20" maxlength="250" value=""><input type="image" src="http://images.ientrymail.com/tomld/www.7cd.us/templates/navjot/images/searchbtn.gif">
+<form id="search-submit" method="post">
+Search<input type="text" class="searchtext" name="q" size="20" maxlength="250" value="" id="qu"><input type="image" src="http://images.ientrymail.com/tomld/www.7cd.us/templates/navjot/images/searchbtn.gif">
 </form>
 </div>
 <center><a href="/submit.html"><img border="0" style="padding:3px" src="http://images.ientrymail.com/7cd/directory/submit.gif"></a></center><div id="container"><div id="sidebarleft"><div class="box2"><h3>Navigation</h3><a href="http://www.7cd.us/">Home</a><br><a href="http://www.7cd.us/about.html">About</a><br><a href="http://www.7cd.us/newsletter.html">Newsletter</a><br><a href="http://www.7cd.us/advertise.html">Advertise</a><br><a href="http://www.7cd.us/submit.html">Submit Your Site</a><br><a href="http://www.7cd.us/contact.html">Contact Us</a></div>
@@ -55,7 +56,17 @@ Articles:<br />
 </td></tr>
 </tbody></table>
 <div id="path">7CD Web Directory</div><table cellpadding="0" cellspacing="0" id="cats"><tbody><tr>
-<td><b style="font-size: 16px;" class="mainarticle">Privacy Policy</b>
+<td>
+<script>
+    $("#search-submit").submit(function(e){
+                e.preventDefault();
+                var qq = $('#qu').val();
+              window.location.href = '/sch' + '.html' + '?q=' + qq;
+              return FALSE;
+            });
+
+  </script>
+<b style="font-size: 16px;" class="mainarticle">Privacy Policy</b>
 
 <br><br>
 iEntry reserves the right to change this policy at any time by notifying users through a notice posted on iEntry.com or by email, of the existence of a new privacy policy or any updates. 
