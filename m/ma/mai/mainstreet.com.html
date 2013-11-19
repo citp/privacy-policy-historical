@@ -1,15 +1,18 @@
-<!--The following is the downloaded HTML source of the mainstreet.com privacy policy that was archived on 2013-06-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130627221357id_/http%3A//www.mainstreet.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the mainstreet.com privacy policy that was archived on 2013-11-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131119094403id_/http%3A//www.mainstreet.com/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><script src="http://www.thestreet.com/files/tsc/v2008/ads/overlay/welcome/dates/1-30.html?callback=jsonCallback"></script>
         <title>Privacy Policy | MainStreet</title>
+<script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-TJQS"></script><script type="text/javascript">
+ dataLayer = [];
+</script>
 <meta name="keywords" content="Privacy Policy, MainStreet Privacy policy, MainStreet, Privacy, Privacy Guidelines, Policy for Privacy">
 <meta name="description" content="Privacy Policy, MainStreet Privacy policy, MainStreet, Privacy, Privacy Guidelines, Policy for Privacy">
 <meta name="OBKey" content="IkNgnZUu49g8hAiJCELE+w==">
 <meta name="robots" content="NOODP">
 <meta name="robots" content="NOYDIR">
         
-<script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-TJQS"></script><script type="text/javascript" src="/sites/all/themes/mainstreet/js/global.js"></script>
+<script type="text/javascript" src="/sites/all/themes/mainstreet/js/global.js"></script>
 <script type="text/javascript" src="/sites/all/themes/mainstreet/js/jquery/jquery-1.4.2.min.js"></script>
 <script type="text/javascript" src="/sites/all/themes/mainstreet/js/jquery/jquery.tools.min.js"></script>
 <script type="text/javascript" src="/sites/all/themes/mainstreet/js/jquery/jquery.cookie.js"></script>
@@ -49,12 +52,11 @@ MS.localInit = function() {
             ms_adConfig = { site: 'mainstreet', kw: ["admin"], storyid: '4081', cau: '', cauIndex: false };
         //]]>
         </script>
-        <link rel="canonical" href="http://www.mainstreet.com/privacy-policy">
+        <link rel="canonical" href="http://www.mainstreet.com/privacy-policy/">
         <script type="text/javascript">
 	     var disqus_developer = false;
         </script>
-        
-    </head>
+        		  <script src="//www.googletagservices.com/tag/js/gpt.js"></script>    </head>
 
     <body class="sitePage">
     <!-- Google Tag Manager -->
@@ -66,7 +68,176 @@ MS.localInit = function() {
 	 '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
 	 })(window,document,'script','dataLayer','GTM-TJQS');</script>
 	 <!-- End Google Tag Manager -->
-        <div id="msFooterTop"><div id="footer-message">
+	 <div id="welcomeOverlay" style="font-family: Arial; background-color: rgb(0, 0, 0); width: 100%; height: 100%; position: fixed; top: 0px; left: 0px; z-index: 100000000;">
+    <div style="background-color:white; width: 100%; float: left; text-align: left; border-bottom: 1px solid #dbdbdb;">
+        <div style="border-bottom: 1px solid #dbdbdb; background-color:white;">
+            <div style="padding:10px 15px; float: left;">
+                <a href="http://www.mainstreet.com"><img src="/sites/all/themes/mainstreet/images/mslogo220x64.gif" width="220" height="64" border="0" alt="mainstreet.com"></a>
+
+                <div style="padding-bottom:10px;padding-top:25px;font-family:Arial;font-size:18px;width:600px;">
+                    <strong>This Day On The Street:</strong><br>
+                    <div style="padding-top:7px;height:70px " id="fact"></div>
+
+                </div><!-- end of div-gpt-ad-overlay -->
+            </div>
+        </div>
+        <div style="float: right; background-color:white;">
+            <a class="headerRight" style="float: right; padding: 20px 30px 0 0; font-size:13px;font-weight:bold;color:gray;" href="javascript:MSWelcomOverlay.remove();">Continue to Site</a>
+        </div>
+    </div>
+    <div style="border-top: 3px solid #7f7f7f; clear: both; float: left; width: 100%; text-align: center;">
+        <div style="height:100%;background-color:black;text-align:center;">
+            <div style="padding:20px 0 15px;font-weight:bold;color:white; font-size: 13px; display: block;">ADVERTISEMENT</div>
+
+            <div id="div-gpt-ad-welcome" data-cb-ad-id="div-gpt-ad-welcome">
+
+            <script type="text/javascript">googletag.cmd.push(function() {googletag.pubads().display('/367/tsc-thestreet.com/overlay',[[300,250],[640,480]], 'div-gpt-ad-welcome');});</script></div><!-- end of div-gpt-ad-overlay -->
+
+        </div>
+    </div>
+</div><!-- end welcomeOverlay div-->
+
+
+<script type="text/javascript">
+
+    MSWelcomOverlay = {
+        waitForWelcomeComplete:false,
+        showWelcome:true,
+        fireCompleteEvent: function(){
+            //make calls that need to happen when the welcome ad is closed.
+        },
+        remove: function(){
+            $("#welcomeOverlay").hide();
+            MSWelcomOverlay.fireCompleteEvent();
+            window.clearTimeout(window.MSWelcomOverlayTimeout);
+
+        },
+        getQueryVariable :function(variable){
+            var ref = document.referrer.split("?");
+            if(ref.length == 1) return "";
+            var vars = ref[1].split('&');
+            for (var i = 0; i < vars.length; i++) {
+                var pair = vars[i].split("=");
+                if (decodeURIComponent(pair[0]) == variable) {
+                    return decodeURIComponent(pair[1]);
+                }
+            }
+            return "";
+        },
+        init:function(){
+
+            if (MSWelcomOverlay.decideShow()){
+                MSWelcomOverlay.waitForWelcomeComplete=true;
+
+                var scriptAd   = document.createElement("script");
+                scriptAd.type  = "text/javascript";
+                scriptAd.text="googletag.cmd.push(function() {googletag.pubads().display('/367/tsc-thestreet.com/overlay',[[300,250],[640,480]], 'div-gpt-ad-welcome');});"
+                document.getElementById("div-gpt-ad-welcome").appendChild(scriptAd);
+
+                var  selectedDate = new Date()
+                var day=selectedDate.getDate();
+                var month=selectedDate.getMonth() +1;
+                var dateString =month+"-"+day;
+                var url =  'http://www.thestreet.com/files/tsc/v2008/ads/overlay/welcome/dates/'+dateString+'.html';
+                $.ajax({
+                    type: 'GET',
+                    url: url,
+                    async: false,
+                    jsonpCallback: 'jsonCallback',
+                    contentType: "application/json",
+                    dataType: 'jsonp',
+                    success: function(fact) {
+
+                        $('#fact').html(fact);
+                    },
+                    error: function(e) {
+
+                    }
+                });
+
+
+                $('#welcomeOverlay').show();
+
+
+                window.MSWelcomOverlayTimeout=setTimeout(MSWelcomOverlay.remove,15000);
+            }
+
+        },
+        decideShow:function(){
+
+            try {
+                try{
+                    var isGoogle = navigator.userAgent.toLowerCase().indexOf('googlebot') > 0;
+                    var isBingbot = navigator.userAgent.toLowerCase().indexOf('bingbot') > 0;
+                    if (isGoogle || isBingbot){
+                        return false;
+                    }
+                }  catch(e){ }
+                if (document.URL.indexOf('/k/') != -1) {
+                    return false;
+                }
+                var now = new Date();
+                var cookieName="tstwelcomeoverlay_"+now.getMonth()+""+now.getDate()+""+now.getYear();
+                if(document.cookie.indexOf(cookieName) == -1) {
+                    var expires = new Date();
+                    expires.setHours(23);
+                    expires.setMinutes(59);
+                    expires.setSeconds(59);
+                    expires = expires.toGMTString();
+                    document.cookie = cookieName + "=" + now + ";expires=" + expires + ";path=/;domain=.mainstreet.com";
+                }
+                else{
+                    return false;
+                }
+
+                var sourceUrl =document.URL.toLowerCase();
+                if ((sourceUrl.indexOf("cm_ven=msn")!=-1)||(sourceUrl.indexOf("cm_ven=outbrain")!=-1)||(sourceUrl.indexOf("cm_ven=taboola")!=-1)||(sourceUrl.indexOf("cm_ven=yahoo")!=-1)||(sourceUrl.indexOf("cm_ven=aol")!=-1)||(sourceUrl.indexOf("cm_ven=cnnmoney")!=-1)||(sourceUrl.indexOf("cm_ven=tsmktwatch")!=-1)||(sourceUrl.indexOf("cm_ven=rmmktwatch")!=-1)||(sourceUrl.indexOf("cm_ven=msearthlink")!=-1)||(sourceUrl.indexOf("cm_ven=tscearthlink")!=-1)||(sourceUrl.indexOf("cm_ven=unitedonli")!=-1)||(sourceUrl.indexOf("cm_ven=tradehud")!=-1)||(sourceUrl.indexOf("cm_ven=tsczacks")!=-1) || (sourceUrl.indexOf("cm_ven=msearthlinkcf")!=-1) || (sourceUrl.indexOf("cm_ven=tscaolpromo")!=-1) || (sourceUrl.indexOf("cm_ven=msmsnp")!=-1)){
+                    return false;
+                }
+
+                 var exclude="aol.com business-news.thestreet.com cnnmoney.com dailyfinance.com earthlink.net jrcads.com juno.com marketing. marketwatch.com money.cnn.com msn.com nasdaq.com netzero.net outbrain.com taboola.com untd.com yahoo.com".split(" ");
+                var override="mail.aol.com mail.yahoo.com msn.mail.com search.yahoo.com webmail.earthlink.net".split(" ");
+
+                MSWelcomOverlay.showWelcome=true;
+                if( 'referrer' in document ) { // if document has a referrer
+                    var ms_ref = document.referrer;
+                    try{
+                        ms_ref = ms_ref.toLowerCase();
+                    }  catch(e){ }
+
+                    for (i=0;i<exclude.length;i++){
+                        var excludeString=exclude[i];
+                        if (ms_ref.indexOf(excludeString)!=-1){
+
+                            MSWelcomOverlay.showWelcome=false;
+                            break;
+                        }
+                    }
+
+                    if (  MSWelcomOverlay.showWelcome==false){
+                        for (i=0;i<override.length;i++){
+                            overrideString=override[i];
+                            if (ms_ref.indexOf(overrideString)!=-1){
+                                MSWelcomOverlay.showWelcome=true;
+                                break;
+                            }
+                        }
+                    }
+
+
+
+                }
+
+                return MSWelcomOverlay.showWelcome;
+
+            }
+
+            catch(e){ return false;}
+            return false;
+        }
+    }
+    MSWelcomOverlay.init();
+</script>        <div id="msFooterTop"><div id="footer-message">
  <div id="footer-message-block"> 
  </div>	
 </div>
@@ -305,26 +476,17 @@ google_ad_height = 280;
 <div class="bpAd">
 <h3>Brokerage Partners</h3>
   <table id="buttons" cellpadding="15" cellspacing="0" border="0">
-    <tbody><tr><td align="center" valign="middle">
+    <tbody><tr><td align="left" valign="middle" style="padding-left:25px;">
         <!-- begin ad tag_1 -->
 <script type="text/javascript">
 //<![CDATA[
 ord=Math.random()*10000000000000000;
 document.write('<script type="text/javascript" src="http://ad.doubleclick.net/adj/mainstreet/;ptn=brokerage-1;sz=334x46;ord=' + ord + '?"><\/script>');
 //]]>
-</script><script type="text/javascript" src="http://ad.doubleclick.net/adj/mainstreet/;ptn=brokerage-1;sz=334x46;ord=3339060899281716?"></script><noscript><a href="http://ad.doubleclick.net/jump/mainstreet/;ptn=brokerage-1;sz=334x46;ord=123456789?" target="_blank"><img src="http://ad.doubleclick.net/ad/mainstreet/;ptn=brokerage-1;sz=334x46;ord=123456789?" border="0" alt="" /></a></noscript>
+</script><script type="text/javascript" src="http://ad.doubleclick.net/adj/mainstreet/;ptn=brokerage-1;sz=334x46;ord=1854789538559087.2?"></script><noscript><a href="http://ad.doubleclick.net/jump/mainstreet/;ptn=brokerage-1;sz=334x46;ord=123456789?" target="_blank"><img src="http://ad.doubleclick.net/ad/mainstreet/;ptn=brokerage-1;sz=334x46;ord=123456789?" border="0" alt="" /></a></noscript>
         <!-- end ad tag_1 -->
     </td></tr>
-    <tr><td align="center" valign="middle">
-        <!-- begin ad tag_2 -->
-<script type="text/javascript">
-//<![CDATA[
-ord=Math.random()*10000000000000000;
-document.write('<script type="text/javascript" src="http://ad.doubleclick.net/adj/mainstreet/;ptn=brokerage-2;sz=334x46;ord=' + ord + '?"><\/script>');
-//]]>
-</script><script type="text/javascript" src="http://ad.doubleclick.net/adj/mainstreet/;ptn=brokerage-2;sz=334x46;ord=7014526663334015?"></script><noscript><a href="http://ad.doubleclick.net/jump/mainstreet/;ptn=brokerage-2;sz=334x46;ord=123456789?" target="_blank"><img src="http://ad.doubleclick.net/ad/mainstreet/;ptn=brokerage-2;sz=334x46;ord=123456789?" border="0" alt="" /></a></noscript>
-        <!-- end ad tag_2 -->
-    </td></tr>
+
     <tr><td align="center" valign="middle">
         <!-- begin ad tag_3 -->
 <script type="text/javascript">
@@ -332,7 +494,7 @@ document.write('<script type="text/javascript" src="http://ad.doubleclick.net/ad
 ord=Math.random()*10000000000000000;
 document.write('<script type="text/javascript" src="http://ad.doubleclick.net/adj/mainstreet/;ptn=brokerage-3;sz=334x46;ord=' + ord + '?"><\/script>');
 //]]>
-</script><script type="text/javascript" src="http://ad.doubleclick.net/adj/mainstreet/;ptn=brokerage-3;sz=334x46;ord=3652302041758282?"></script><noscript><a href="http://ad.doubleclick.net/jump/mainstreet/;ptn=brokerage-3;sz=334x46;ord=123456789?" target="_blank"><img src="http://ad.doubleclick.net/ad/mainstreet/;ptn=brokerage-3;sz=334x46;ord=123456789?" border="0" alt="" /></a></noscript>
+</script><script type="text/javascript" src="http://ad.doubleclick.net/adj/mainstreet/;ptn=brokerage-3;sz=334x46;ord=1293911620661743?"></script><noscript><a href="http://ad.doubleclick.net/jump/mainstreet/;ptn=brokerage-3;sz=334x46;ord=123456789?" target="_blank"><img src="http://ad.doubleclick.net/ad/mainstreet/;ptn=brokerage-3;sz=334x46;ord=123456789?" border="0" alt="" /></a></noscript>
           <!-- end ad tag_3 -->
           </td></tr>
           <tr><td align="center" valign="middle">
@@ -342,7 +504,7 @@ document.write('<script type="text/javascript" src="http://ad.doubleclick.net/ad
 ord=Math.random()*10000000000000000;
 document.write('<script type="text/javascript" src="http://ad.doubleclick.net/adj/mainstreet/;ptn=brokerage-4;sz=334x46;ord=' + ord + '?"><\/script>');
 //]]>
-</script><script type="text/javascript" src="http://ad.doubleclick.net/adj/mainstreet/;ptn=brokerage-4;sz=334x46;ord=8957727245148548?"></script><noscript><a href="http://ad.doubleclick.net/jump/mainstreet/;ptn=brokerage-4;sz=334x46;ord=123456789?" target="_blank"><img src="http://ad.doubleclick.net/ad/mainstreet/;ptn=brokerage-4;sz=334x46;ord=123456789?" border="0" alt="" /></a></noscript>
+</script><script type="text/javascript" src="http://ad.doubleclick.net/adj/mainstreet/;ptn=brokerage-4;sz=334x46;ord=4455029359011651?"></script><noscript><a href="http://ad.doubleclick.net/jump/mainstreet/;ptn=brokerage-4;sz=334x46;ord=123456789?" target="_blank"><img src="http://ad.doubleclick.net/ad/mainstreet/;ptn=brokerage-4;sz=334x46;ord=123456789?" border="0" alt="" /></a></noscript>
           <!-- end ad tag_4 -->
           </td></tr>
           </tbody></table>
@@ -419,8 +581,7 @@ google_ad_height = 250;
         <li><a href="http://www.thestreet.com/tsc/onlinekit/index.html" target="_blank">Advertise With Us</a></li>
         <li><a href="/sitemap/">Sitemap</a></li>
         <li><a href="/mainstreet-masthead/">Masthead</a></li>
-        <li><a href="/archive">Archive</a></li>
-        <li class="lastLink"><a href="/newsletter">Newsletter</a></li>
+        <li class="lastLink"><a href="/archive">Archive</a></li>        
     </ul><br></div>
 <!-- /footer --><br>
 <!-- Begin comScore Tag -->
@@ -476,6 +637,6 @@ COMSCORE.beacon({
 
         <div id="bottom-border">&nbsp;</div>
         <div id="msFooter"></div>
-                    
+             
 
 </body></html>
