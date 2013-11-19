@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the idolbin.com privacy policy that was archived on 2013-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130604104225id_/http%3A//www.idolbin.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the idolbin.com privacy policy that was archived on 2013-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131119141928id_/http%3A//www.idolbin.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Idolbin
 
