@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the regalix.com privacy policy that was archived on 2013-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130520194118id_/http%3A//www.regalix.com/about-us/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the regalix.com privacy policy that was archived on 2013-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131120000423id_/http%3A//www.regalix.com/about-us/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement | Regalix
 
