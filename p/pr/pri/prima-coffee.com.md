@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the prima-coffee.com privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603185110id_/http%3A//prima-coffee.com/pc/policy/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prima-coffee.com privacy policy that was archived on 2013-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131119192213id_/http%3A//prima-coffee.com/pc/policy/privacy) for the most accurate reproduction.*
 
 # Prima Coffee Equipment's Privacy Policy | Prima Coffee
 
@@ -52,17 +52,17 @@ You may choose to opt out at any time from receiving any further promotional mat
 
 There you go, that’s it, but if you have any questions regarding this privacy policy you may contact us using the information below.
 
-  * (888) 837-7892 
-  * sales@prima-coffee.com 
-  * http://prima-coffee.com
-  * Prima Coffee
-  * 4603 Poplar Level Rd   
+Phone: (888) 837-7892  
+Email: [sales@prima-coffee.com](mailto:sales@prima-coffee.com)
+
+ **Prima Coffee**  
+4603 Poplar Level Rd   
 Louisville, KY 40213
-
-
 
 ### Changes to our Privacy Policy
 
 If we decide to change our privacy policy, we will post those changes on this page, and/or update the Privacy Policy modification date below.
 
-This policy was last modified on June 12, 2012
+**This policy was last modified on _June 12, 2012_**
+  *[Phone:]: phone
+  *[Email:]: email
