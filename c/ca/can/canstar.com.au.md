@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the canstar.com.au privacy policy that was archived on 2013-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130520222608id_/http%3A//www.canstar.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the canstar.com.au privacy policy that was archived on 2013-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131119210431id_/http%3A//www.canstar.com.au/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - CANSTAR | Compare Interest Rates, Home Loans, Credit Cards, Insurance, Savings Accounts - Canstar
 
-**Version: 11 March 2013**
+**Version:  1 August 2013**
 
 This privacy policy explains how we collect personal information and how we maintain, use and disclose that information. It also provides some detail about your privacy rights along with our general rights and obligations and our policy in relation to the personal information we keep on record.
 
@@ -85,7 +85,7 @@ You can request access at any time to personal information we hold about you. We
 
 We try to ensure that all information we hold about you which we collect, use or disclose is accurate, complete and up to date. You must promptly notify us if there are any changes to your personal information. You may ask us at any time to correct personal information held by us about you, which you believe is incorrect or out of date. We will deal with your request within a reasonable time
 
-In this policy, reference to “we/us” means CANSTAR Pty Limited A.C.N. 053 646 165, AFSL 312804.  If you have any questions, concerns or complaints about our privacy policy or practices please contact us on 07 3837 4100, 9am – 5pm on business days in Brisbane, Qld.
+In this policy, reference to “we/us” means CANSTAR Pty Limited A.C.N. 053 646 165, AR 443019.  If you have any questions, concerns or complaints about our privacy policy or practices please contact us on 07 3837 4100, 9am – 5pm on business days in Brisbane, Qld.
 
 We will try to answer any questions you may have, correct any error on our part or resolve any complaint that you may have about our information handling practices. If we do not resolve a complaint to your satisfaction, you also have the right to complain to the Privacy Commissioner.
 
