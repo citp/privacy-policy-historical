@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the enjin.com privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621003721id_/http%3A//www.enjin.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the enjin.com privacy policy that was archived on 2013-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131119095955id_/http%3A//www.enjin.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy dec 2010
 
