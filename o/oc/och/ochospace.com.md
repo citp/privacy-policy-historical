@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ochospace.com privacy policy that was archived on 2013-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130510204517id_/https%3A//ochospace.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ochospace.com privacy policy that was archived on 2013-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131119224616id_/https%3A//ochospace.com/privacy.html) for the most accurate reproduction.*
 
 # Ocho Space|Everyone's Playing.
 
