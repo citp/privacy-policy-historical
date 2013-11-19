@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the job-interview-site.com privacy policy that was archived on 2013-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130620114039id_/http%3A//www.job-interview-site.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the job-interview-site.com privacy policy that was archived on 2013-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131119090156id_/http%3A//www.job-interview-site.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -57,5 +57,3 @@ In no event will Job-Interview-Site.com be liable for any:
   * Claim attributable to errors, omissions, or other inaccuracies in the service and/or materials or information downloaded through Job-Interview-Site.com.  Because some states do not allow the exclusion or limitation of liability for consequential or incidental damages, the above limitation may not apply to you.  In such states, Job-Interview-Site.com’s liability is limited to the greatest extent permitted by law.
 
 
-
-﻿
