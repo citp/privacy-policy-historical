@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ibiblio.org privacy policy that was archived on 2013-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130520155319id_/http%3A//www.ibiblio.org/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ibiblio.org privacy policy that was archived on 2013-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131119094358id_/http%3A//www.ibiblio.org/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy – ibiblio
 
@@ -16,5 +16,5 @@ We reserve the right to update and amend our Privacy Policy as needed. A current
 
 For more information or to report any misconduct or abuse of this Web site, please contact us through the [help request form](https://web.archive.org/help/request).
 
-3:45 pm
-  *[3:45 pm]: 2010-12-03T15:45:12+0000
+15:45
+  *[15:45]: 2010-12-03T15:45:12+0000
