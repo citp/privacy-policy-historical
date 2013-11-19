@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the po.st privacy policy that was archived on 2013-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130629210122id_/http%3A//www.radiumone.com/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the po.st privacy policy that was archived on 2013-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131119221055id_/http%3A//www.radiumone.com/about/privacy.html) for the most accurate reproduction.*
 
-# RadiumOne - Intelligent Advertising
+# RadiumOne – Enterprise Advertising Platform – We Know Your Next Customer
 
 Welcome to the RadiumOne, Inc. ("RadiumOne") web site at http://www.radiumone.com (the "Site"). RadiumOne is an online advertising company and values the privacy of Internet visitors ("Users") to the Site as well Users that visit web sites where our advertising technology is enabled.
 
@@ -10,14 +10,15 @@ The purpose of this Privacy Policy is to provide Users with information about wh
 
 RadiumOne operates an online advertising network (the "Technology") through which we work with hundreds of web sites around the world buying display advertising space and reselling it in targeted packages to advertisers and agencies. Users benefit from targeted advertising as they receive advertisements that they are more likely to be interested in, and advertisers benefit as advertising is more efficiently delivered to interested Users.
 
-The targeting options are based on anonymous data that is collected over time across our ad network and through Via.me and Po.st (as described below) and may range from targeting a User's general geographic location to targeting involving User's interests and similarities between Users. This data may be used to identify and predict the sites and groups of Users that are most likely to create a response to an advertiser's campaign. 
+The targeting options are based on anonymous data that is collected over time across our ad network and through Po.st (as described below) and may range from targeting a User's general geographic location to targeting involving User's interests and similarities between Users. This data may be used to identify and predict the sites and groups of Users that are most likely to create a response to an advertiser's campaign.
 
 ## Opt-Out
 
 If you prefer not to have online advertising tailored to your interests by RadiumOne, you may opt out at any time by one of the following methods:
 
   * Opt out of RadiumOne's user interest targeting cookie by clicking the button below. Please note that if you delete your cookies, change browsers, or use a different computer, you will need to opt out again.
-  * [](http://rs.gwallet.com/r1/optout?optout&ra1 "Opt Out")
+
+[](http://rs.gwallet.com/r1/optout?optout&ra1 "Opt Out")
 
   * RadiumOne is a member of the Network Advertising Initiative (NAI). If you would like to opt-out of RadiumOne together with other NAI members using the NAI's opt-out tool, you can do so by clicking [here](http://www.networkadvertising.org/managing/opt_out.asp).
   * RadiumOne is also a member of PrivacyChoice, which offers an opt-out wizard covering numerous advertising networks. Please click [here](http://www.privacychoice.org/) for more information.
@@ -36,6 +37,7 @@ Please note that opting out does not mean you will not see advertisements online
   * _Click Information_. We may receive information when you click on or otherwise interact with ads deployed using the Technology, including when you indicate a "like" or "share" for the ad by clicking on a button near the ad. The information received by us may include information about the ad that was clicked on, the web page, or other session-based and request-based information as described above. We may also receive information regarding any links that you may click on that are associated with ads deployed using the Technology, or any links that you share or receive from third parties related to those ads. 
   * _Information from RadiumOne Rewards_. We may also receive information from interactions with advertisement offers placed in online games by RadiumOne Rewards technology. If you click on an in-game ad or offer from an advertiser, we may receive that information, including session and request-based information, information about the offer or advertisement that you clicked on, or the name of the game that the offer or ad was located in. 
   * _Information from Po.st_. We may receive information when you click on or use our sharing tools on websites that use our [Po.st](http://po.st/) sharing service. When a user accesses a webpage that contains our sharing tools or utilizes our link shortening or video embedding services, we may add a cookie to the user’s browser to record information on websites that the user has visited, search terms that they have entered, or connections between anonymous cookies, but strictly in an anonymous profile. For our video embedding services, we may also track information related to the videos that you share, including social statistics and information relating to the parties accessing the video, but only as an anonymous profile. We may also collect the IP address and ZIP Code of any devices that access URLs shortened by our services, information about how the shortened URLs have been shared, and the date and time of the website access using the shortened URL. We may use this information to customize and send more relevant advertisements to that user, based upon the collected information, as described below in the section entitled, “How We Use and Disclose Information.” We do not scan the title or the content of any messages you send through our services. 
+  * _Information from our APIs or SDKs_. Developers may choose to implement the application programming interfaces ("APIs") and software development kits ("SDKs") made available by RadiumOne in their applications or webpages to provide certain enhanced functionality to their users including image enhancement (through the RadiumOne Effects SDK) or advertising (through the RadiumOne Ads API). When a user accesses an application or webpage that implements a RadiumOne API or SDK, we may collect certain information within an anonymous profile of that user. Information collected may include: (i) technical information related to the user's device (such as mobile device IDs, MAC addresses, device model, and operating system), (ii) information related to the application or webpage that implements the API or SDK (such as the version of the third party application being used or the version of the SDK or API that has been implemented), (iii) connection data (such as the IP address, mobile country code, or network code being used to access the API or SDK), and (iv) non-identifiable information about the user (such as latitude and longitude, language preferences, or self-reported demographic data including age, income, education level or ethnicity). This data does not allow us to identify individuals. We may combine this data with other anonymous user profile data as described in this Privacy Policy. We use this information, consistent with this Privacy Policy, to customize and send more relevant advertisements to users and to provide analytics related to those applications and webpages implementing our SDKs and APIs.
   * _Information Acquired from Other Sources_. We may acquire anonymous data from third party sources, including through websites that use our Technology. This data cannot be used to identify specific individuals and may be used for a variety of purposes, including to update existing User profiles, to provide our clients and others with aggregate information about traffic and site usage in our advertising network, and other uses as described below in the section entitled, “How We Use and Disclose Information.” We do not share, rent or sell any of the data acquired from third party sources, and require these third party sources to be privacy-compliant in their use of personal information.
 
 
@@ -80,7 +82,7 @@ RadiumOne reserves the right to periodically update or modify this Privacy Polic
 
 ## Effective Date
 
-The privacy policy was last revised on January 20, 2013.
+The privacy policy was last revised on August 30, 2013.
 
 ## Comments
 
