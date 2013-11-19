@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kens5.com privacy policy that was archived on 2013-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130521221007id_/http%3A//www.kens5.com/terms-and-conditions/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kens5.com privacy policy that was archived on 2013-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131119211422id_/http%3A//www.kens5.com/terms-and-conditions/privacy-policy) for the most accurate reproduction.*
 
 # kens5.com | Privacy Policy - KENS5.com
 
