@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rapidsharemp3.com privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530221300id_/http%3A//rapidsharemp3.com/pages/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rapidsharemp3.com privacy policy that was archived on 2013-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131119051641id_/http%3A//rapidsharemp3.com/pages/policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
