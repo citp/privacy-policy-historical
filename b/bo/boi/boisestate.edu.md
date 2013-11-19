@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the boisestate.edu privacy policy that was archived on 2013-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130520131255id_/http%3A//go.boisestate.edu/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boisestate.edu privacy policy that was archived on 2013-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131119212318id_/http%3A//go.boisestate.edu/privacy) for the most accurate reproduction.*
 
 # Privacy Statement - Boise State University
 
@@ -40,7 +40,7 @@ While no computing environment is 100% secure, Boise State University uses best 
 
 ## Student Records
 
-Student records are protected by the Family Educational Rights and Privacy Act (FERPA), federal regulations which assign rights to students and responsibilities to educational institutions regarding students’ education records. The Act governs the maintenance and release of information from those records. The University has a separate policy governing FERPA regulations. <http://registrar.boisestate.edu/ferpa.shtml>
+Student records are protected by the Family Educational Rights and Privacy Act (FERPA), federal regulations which assign rights to students and responsibilities to educational institutions regarding students’ education records. The Act governs the maintenance and release of information from those records. The University has a separate policy governing FERPA regulations. [Student Privacy FERPA](http://registrar.boisestate.edu/general-information-and-policies/student-records/ferpa/)
 
 ## Changes to this Statement
 
