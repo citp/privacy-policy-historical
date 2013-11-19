@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the jetabroad.com.au privacy policy that was archived on 2012-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121120144848id_/http%3A//www.jetabroad.com.au/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jetabroad.com.au privacy policy that was archived on 2013-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131119210812id_/http%3A//www.jetabroad.com.au/Privacy) for the most accurate reproduction.*
 
 # Your privacy with Jetabroad AU
+
+## Jetabroad Privacy Statement
 
 **Jetabroad is committed to protecting your privacy.**
 
