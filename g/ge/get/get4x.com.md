@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the get4x.com privacy policy that was archived on 2013-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130628235337id_/http%3A//www.get4x.com/index.php/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the get4x.com privacy policy that was archived on 2013-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131119213149id_/http%3A//www.get4x.com/index.php/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - GET4X
 
