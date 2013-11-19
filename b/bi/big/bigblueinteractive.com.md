@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bigblueinteractive.com privacy policy that was archived on 2013-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130520222858id_/http%3A//www.bigblueinteractive.com/information-pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bigblueinteractive.com privacy policy that was archived on 2013-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131119211331id_/http%3A//www.bigblueinteractive.com/information-pages/privacy-policy) for the most accurate reproduction.*
 
-# Big Blue Interactive » BigBlueInteractive.com Privacy Policy
+# BigBlueInteractive.com Privacy Policy
 
 **General Guidelines:**
 
@@ -29,7 +29,6 @@ If you would like more information about this practice and to know your choices 
   * [BigLeadSports (USA Today Sports Media Group)](http://www.thebiglead.com/index.php/privacy-policy/)
   * [Amazon.com](http://www.amazon.com/gp/help/customer/display.html/ref=footer_privacy?ie=UTF8&nodeId=468496)
   * [Shop.Giants.com](http://shop.giants.com/helpdesk/Privacy#3)
-  * [TicketCity.com](http://www.ticketcity.com/helpful-links/privacy-policy.html)
 
 
 
@@ -63,7 +62,5 @@ _BBI_ reserves the right to change its Privacy Policy at any time. Your continue
 
 If you have any questions or comments about our privacy policy, please contact us at [info@bigblueinteractive.com](mailto:info@bigblueinteractive.com).
 
-_This Document Was Last Updated on April 23, 2013  
+_This Document Was Last Updated on November 9, 2013  
 _
-
-[](http://www.bigblueinteractive.com/information-pages/privacy-policy/printpage/ "Print This Page") [Print This Page](http://www.bigblueinteractive.com/information-pages/privacy-policy/printpage/ "Print This Page")
