@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the healthaffairs.org privacy policy that was archived on 2013-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130521235419id_/http%3A//www.healthaffairs.org/1540_privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthaffairs.org privacy policy that was archived on 2013-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131119205908id_/http%3A//www.healthaffairs.org/1540_privacy_policy.php) for the most accurate reproduction.*
 
 # Health Affairs
 
@@ -26,7 +26,7 @@ We **do not release** any information about your use of our site, including your
 
 **How To Stop Receiving Information From Us**
 
-You may choose at any time to stop receiving offer information from us about content or services. You [Contact Us](https://web.archive.org/web/20130521235419id_/http%3A//www.healthaffairs.org/1610_contact.php) to stop receiving information from us, or: 
+You may choose at any time to stop receiving offer information from us about content or services. You [Contact Us](https://web.archive.org/web/20131119205908id_/http%3A//www.healthaffairs.org/1610_contact.php) to stop receiving information from us, or: 
 
    •Call Customer Service & Fulfillment at 301-656-7401, ext. 900, or fax your request to 301-654-2845,   
     Attn: Judie Tucker 
@@ -47,5 +47,3 @@ For more information about cookies, [click here](http://content.healthaffairs.or
 We may conduct occasional online surveys. For example, when you are within the _Health Affairs_ site, you may see a pop-up window offering you the optional opportunity to participate in a survey. These surveys are entirely voluntary, and you may easily decline to participate. 
 
 We may change this Privacy Policy from time to time. We will post any changes here, so be sure to check back periodically. If you have any questions, comments, or concerns about our Privacy Policy, you may contact us at [customerservice@healthaffairs.org](mailto:customerservice@healthaffairs.org). 
-
-Last updated: February 11, 2004.
