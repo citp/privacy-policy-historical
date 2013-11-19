@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onenetmarketing.com privacy policy that was archived on 2013-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130516014352id_/http%3A//www.onenetmarketing.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onenetmarketing.com privacy policy that was archived on 2013-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131119154645id_/http%3A//www.onenetmarketing.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | | One Net MarketingOne Net Marketing
 
