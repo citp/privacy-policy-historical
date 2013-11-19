@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the marketmetrix.com privacy policy that was archived on 2013-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130520074558id_/http%3A//corp.marketmetrix.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marketmetrix.com privacy policy that was archived on 2013-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131119203353id_/http%3A//corp.marketmetrix.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Market Metrix
 
