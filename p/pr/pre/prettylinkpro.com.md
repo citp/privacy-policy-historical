@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the prettylinkpro.com privacy policy that was archived on 2013-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130524044539id_/http%3A//prettylinkpro.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prettylinkpro.com privacy policy that was archived on 2013-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131119042850id_/http%3A//prettylinkpro.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Pretty Link Pro
 
