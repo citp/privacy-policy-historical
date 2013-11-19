@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the celebsquares.com privacy policy that was archived on 2013-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130523035054id_/http%3A//celebsquares.com/index.cfm/fuse/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the celebsquares.com privacy policy that was archived on 2013-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131119035103id_/http%3A//celebsquares.com/index.cfm/fuse/privacypolicy) for the most accurate reproduction.*
 
 # Celebrity Squares - When Celebs Make News, You Win Cash & Prizes
 
@@ -118,7 +118,7 @@ You may correct, update or delete your Personally Identifiable Information in yo
 
 If you completely delete all such information, your account may be deactivated. We may retain an archived copy of your records as required by law or for legitimate business purposes. 
 
-If you would like us to delete your Personal Information part of our account in our system, please contact us at [cs_support@celebritysquares.com](https://web.archive.org/web/20130523035054id_/http%3A//celebsquares.com/index.cfm/fuse/cs_support@celebritysquares.com) with a request that we delete your Personal Information from our database. We will use commercially reasonable efforts to honor your request. Deletion of your information will result in termination of your account. We will retain an archived copy of your records to comply with our legal obligations, resolve disputes, and enforce our agreements. 
+If you would like us to delete your Personal Information part of our account in our system, please contact us at [cs_support@celebritysquares.com](https://web.archive.org/web/20131119035103id_/http%3A//celebsquares.com/index.cfm/fuse/cs_support@celebritysquares.com) with a request that we delete your Personal Information from our database. We will use commercially reasonable efforts to honor your request. Deletion of your information will result in termination of your account. We will retain an archived copy of your records to comply with our legal obligations, resolve disputes, and enforce our agreements. 
 
 ## Links to Other Websites 
 
