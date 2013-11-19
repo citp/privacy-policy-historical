@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mmaconvert.com privacy policy that was archived on 2013-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130430050735id_/http%3A//www.mmaconvert.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mmaconvert.com privacy policy that was archived on 2013-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131119180745id_/http%3A//www.mmaconvert.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - MMA Convert | RM Sports
 
 **What information do we collect?**
 
