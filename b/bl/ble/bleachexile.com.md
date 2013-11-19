@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bleachexile.com privacy policy that was archived on 2013-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130520121335id_/http%3A//www.bleachexile.com/information/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bleachexile.com privacy policy that was archived on 2013-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131119234340id_/http%3A//www.bleachexile.com/information/privacy-policy) for the most accurate reproduction.*
 
 # Bleach Exile > Information > Privacy Policy
 
@@ -30,5 +30,3 @@ Third Party websites may collect information from users of Bleachexile.com, this
 Bleachexile.com reserves the right to change this, and any other policy located on our website at anytime without notifying our users. If you have any comments, questions, or concerns regarding this policy, please feel free to contact [bleachexile@gmail.com](mailto:bleachexile@gmail.com) with the topic as privacy policy
 
 By continuing to access Bleachexile.com and any of it's affiliated websites and files, you are expressly and impliedly agreeing to all of the terms as stated above on this document. You also hereby affirm that you are in compliance with all Federal, State and Local laws in your place of residence concerning the contents of Bleachexile.com, and are also in agreement with our [Legal Disclaimer](https://web.archive.org/information/legal-disclaimer/) and [Terms of Use](https://web.archive.org/information/terms-of-use/). 
-
-animenfo anime suki dattebayo naruto fan naruto central naruto kun bleach portal one manga manga volume aco starkana dyne bleach exile
