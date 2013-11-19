@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the ultracart.com privacy policy that was archived on 2013-05-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130521194122id_/http%3A//www.ultracart.com/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ultracart.com privacy policy that was archived on 2013-11-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131119193012id_/http%3A//www.ultracart.com/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="no-js" lang="en"><!--<![endif]--><head>
 	<!--<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />-->
@@ -84,9 +84,6 @@
                                                         <a href="http://www.ultracart.com/resources/pci-compliance/">PCI Compliance</a>
                         </li>
                                             <li>
-                                                        <a href="http://www.ultracart.com/resources/pro-services/">Pro Services</a>
-                        </li>
-                                            <li>
                                                         <a href="http://www.ultracart.com/resources/integrations/">Integrations</a>
                         </li>
                                             <li>
@@ -98,7 +95,7 @@
                                     </ul>
             </li>
 
-            <li class="last">
+            <li>
                 <a href="http://www.ultracart.com/help/">Support</a>
                 <ul>
                                         
@@ -116,6 +113,11 @@
                         </li>
                                     </ul>
             </li>
+          	
+          	<li class="last">
+                <a href="http://www.ultracart.com/services/" class="menu_online_shopping_cart">Services</a>
+            </li>
+          
         </ul>
 
         <a class="merchantLogin" href="#" onclick="_gaq.push(['_trackEvent', 'Merchant Login', 'Login Active']);">Merchant Login</a>
@@ -471,7 +473,7 @@
   <a href="http://www.ultracart.com/dmca_policy/">DMCA Policy</a> |
   <a href="http://www.ultracart.com/privacy.html">Privacy Policy</a> |
   <a href="http://www.ultracart.com/sitemap/">Site Map</a>
-  <br>© 1996-2012 BPS Info Solutions, Inc.
+  <br>© 1996-2013 BPS Info Solutions, Inc.
   </div>
 
   <!--<a class="social" href="#"><img src="http://www.ultracart.com/images/footer-social-android.gif" /></a>
@@ -495,6 +497,7 @@
 	var cjq = jQuery.noConflict();
 
 	cjq(document).ready(function(){
+
 		cjq('.requirementText h4').click(function(){
 			cjq(this).parent().find('.infoText').toggle(500);
 			cjq(this).parent().find('.plusandminus').toggle();
@@ -887,6 +890,17 @@
 				}
 			});
 		});
+
+		if(document.URL.indexOf("#freeTrial") >= 0){
+			cjq('#lightbox').fadeIn('fast');
+			cjq('.stepNumber').text('1');
+			cjq('.content1, .steps').show();
+			cjq('.content2, .content3, .processing').hide();
+
+			e.preventDefault();
+			e.stopPropagation();
+			return false;
+		}
 	}); // end document.ready
 </script>
     <!--Scripts End Here-->
