@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the purecars.com privacy policy that was archived on 2013-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130318145642id_/http%3A//purecars.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the purecars.com privacy policy that was archived on 2013-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131119010257id_/http%3A//purecars.com/privacy.aspx) for the most accurate reproduction.*
 
-# PureCars.com
+# Used Car And Used Truck Price Research - Find A PureCars Value Report For Used Cars Or Used Trucks - PureCars.com
 
 **Effective Date: February 24, 2009.**
 
