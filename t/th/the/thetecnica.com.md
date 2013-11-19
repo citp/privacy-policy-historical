@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thetecnica.com privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602005302id_/http%3A//thetecnica.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thetecnica.com privacy policy that was archived on 2013-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131119040616id_/http%3A//thetecnica.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - thetecnica
+# Privacy Policy | thetecnica
 
 Since the very beginning of this blog, we have always taken proper care of privacy of the readers. ** ******
 
