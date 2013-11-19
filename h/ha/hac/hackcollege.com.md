@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hackcollege.com privacy policy that was archived on 2013-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130604110534id_/http%3A//www.hackcollege.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hackcollege.com privacy policy that was archived on 2013-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131119224946id_/http%3A//www.hackcollege.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - HackCollege
 
