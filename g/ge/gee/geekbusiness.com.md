@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the geekbusiness.com privacy policy that was archived on 2013-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130521210324id_/http%3A//www.geekbusiness.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the geekbusiness.com privacy policy that was archived on 2013-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131119230926id_/http%3A//www.geekbusiness.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - | Geek Business
 
@@ -24,3 +24,10 @@ The contents of this statement may be altered at any time, at our discretion.
 If you have any questions regarding the privacy policy of Geek Business then you may contact us at kallen@threestonemedia.com
 
 Last updated Mon, 14 Mar 2011 16:00
+
+  * Bio
+  * Latest Posts
+
+
+
+Kent has run [Geek Business](https://web.archive.org/ "Geek Business") for many years as a custom-coded making money online site. The site relaunched in late 2010 as a blog, taking guest posts from industry experts on everything tech and business related. Find me on [Google+](https://plus.google.com/u/0/112984009349538293714/?rel=author)
