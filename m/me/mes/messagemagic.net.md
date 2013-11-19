@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the messagemagic.net privacy policy that was archived on 2013-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130613174557id_/http%3A//messagemagic.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the messagemagic.net privacy policy that was archived on 2013-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131120002146id_/http%3A//www.messagemagic.net/privacy.php) for the most accurate reproduction.*
 
 # Message Magic - Connecting The World
 
