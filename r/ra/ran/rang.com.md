@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the rang.com privacy policy that was archived on 2013-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130325052339id_/https%3A//rang.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rang.com privacy policy that was archived on 2013-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131119232736id_/https%3A//rang.com/privacy) for the most accurate reproduction.*
 
 # Boomerang
 
-We know you care about how personal information is used and shared, and we take your privacy seriously. By visiting or using the Boomerang website and any other linked pages, features, content, mobile applications or services (collectively, the "Website"), you acknowledge that you accept the practices outlined in this Privacy Policy.
+### We know you care about how personal information is used and shared, and we take your privacy seriously. By visiting or using the Boomerang website and any other linked pages, features, content, mobile applications, services (collectively, the "Website"), or third-party integrations, you acknowledge that you accept the practices outlined in this Privacy Policy.
 
 #### What Does This Privacy Policy Cover?
 
@@ -30,13 +30,15 @@ Boomerang uses cookie and other browsing data in aggregate form to track Website
 
 #### Will Boomerang Share My Personal Information With Other Parties?
 
-We neither rent nor sell your Personal Information to anyone. We share your Personal Information only as described above and in this section.
+We share your Personal Information only as described above and in this section.
 
 Affiliated Businesses We Do Not Control: We are affiliated with a variety of businesses and work closely with them. In certain situations, these businesses sell items to you through our Website and our emails. In other situations, Boomerang provides services or sells products jointly with affiliated businesses. You can easily recognize when an affiliated business is associated with a transaction, and it will be clear what Personal Information (if any) will be shared with that affiliated business should you choose to participate.
 
 Agents: We employ other companies and people to perform tasks on our behalf and need to share your information with them. Unless we tell you differently, Boomerang’s agents do not have any right to use the Personal Information we share with them beyond what is necessary to assist us. You hereby consent to our sharing of Personal Information for the above purposes.
 
-Promotional Offers: We may send offers to you on behalf of other businesses. However, when we do so, we do not give the other business your Personal Information. If you do not wish to receive these offers, you will have the option to unsubscribe using a link found at the bottom of the email. We may provide certain of your Personal Information to third parties if you affirmatively allow us to do so by opting in to an offer we make to you.
+Promotional Offers sent by Boomerang: We may send offers to you on behalf of other businesses. However, when we do so, we do not give the other business your Personal Information. If you do not wish to receive these offers, you will have the option to unsubscribe using a link found at the bottom of the email. We may provide certain of your Personal Information to third parties if you affirmatively allow us to do so by opting in to an offer we make to you.
+
+Promotional Offers sent by Third Parties: We partner with third parties who use Boomerang to send shareable promotions to their current customers via email, social media, and other means. If you are directed to Boomerang as a result of a third-party campaign, we may share certain Personal Information with the third party who referred you. You hereby consent to our sharing of Personal Information in such cases and acknowledge that such information may be retained by the third party even if you delete your Boomerang account.
 
 Other Users: When you give a gift to someone through Boomerang, please be aware that we will disclose your real name and email address to the recipient.
 
@@ -48,7 +50,7 @@ With Your Consent: Except as set forth above, you will be notified when your Per
 
 #### Questions Or Concerns
 
-If you have any questions or concerns regarding privacy at Boomerang, please send a detailed message to privacy@theboomerang.com.
+If you have any questions or concerns regarding privacy at Boomerang, please send a detailed message to privacy@rang.com.
 
 #### Is My Personal Information Secure?
 
@@ -62,7 +64,7 @@ If you do not wish to receive email or other notifications from us, please updat
 
 #### Deleting Your Account
 
-You may delete your Boomerang account at any time on the Settings page or by emailing contact@theboomerang.com. If you delete your account, your user-submitted data, including a record of gifts you sent and received, will be removed from the site. Because of the way we maintain Boomerang, such deletion may not be immediate, and residual copies of your profile information or posts may remain on backup media.
+You may delete your Boomerang account at any time on the Settings page or by emailing contact@rang.com. If you delete your account, your user-submitted data, including a record of gifts you sent and received, will be removed from the site. Because of the way we maintain Boomerang, such deletion may not be immediate, and residual copies of your profile information or posts may remain on backup media.
 
 Please note that deleting your Boomerang account does not prevent your friends on Facebook from seeing information about you when they use Boomerang. You will need to change your privacy settings in order to restrict the information they make accessible to your friends on third party sites.
 
