@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the stealthkca.com privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530173126id_/http%3A//www.stealthkca.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stealthkca.com privacy policy that was archived on 2013-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131119195210id_/http%3A//www.stealthkca.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Stealth Keyword Competition Analyzer
+# Privacy Policy | Stealth Blog
 
 This privacy policy sets out how [VIALSA Solutions](http://www.vialsasolutions.com/) uses and protects any information that you give VIALSA Solutions when you use this website.
 
