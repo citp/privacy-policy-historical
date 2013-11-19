@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the justfab.ca privacy policy that was archived on 2013-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130520222745id_/http%3A//www.justfab.ca/index.cfm%3Faction%3Dhome.privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the justfab.ca privacy policy that was archived on 2013-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131119210808id_/http%3A//www.justfab.ca/index.cfm%3Faction%3Dhome.privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | JustFab
 
