@@ -1,93 +1,100 @@
-> *The following text is extracted and transformed from the shriramproperties.com privacy policy that was archived on 2012-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120502133340id_/http%3A//www.shriramproperties.com/ShriRam_Privacy_Policy-35.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shriramproperties.com privacy policy that was archived on 2013-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131119100304id_/http%3A//www.shriramproperties.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - Home
 
-**This is the Privacy Policy for India.**
+### **What information do we collect?**
 
-Thank you for visiting this site, a Shriram Properties Private Limited (hereinafter referred to as 'Shriram Properties Private Limited'). site. Your privacy is important to us. To better protect your privacy, we provide this notice explaining our information practices and the choices you can make about the way your information is collected and used by Shriram Properties Private Limited.
+We collect information from you when you subscribe to our newsletter, respond to a survey, fill out a form or download an ebook.
 
-**The Information We Collect**
+When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address, phone number
 
-Through Shriram Properties Private Limited publications, websites, and other media, you can order products, enter contests, vote in polls or otherwise express an opinion, subscribe to one of our services such as our online newsletters, or participate in one of our online forums or communities. You are able to visit much of this website and enjoy many Shriram Properties Private Limited publications and promotions without providing any personally identifiable information. Sometimes, however, we do need your personally identifiable information to provide you with the products and services that you request. The types of personally identifiable information that may be collected at these pages and elsewhere include, but are not limited to: name, address, e-mail address, telephone number, fax number, credit card information, and information about your interests in and use of various products, programs, and services.
+You may, however, visit our site anonymously.
 
-At some Shriram Properties Private Limited sites and through certain promotions, you can submit information about other people. For example, you might submit a person's name and e-mail address to send an electronic greeting card and, if you order a product online or offline and want it sent directly to the recipient, you might submit the recipient's name and address. The types of personally identifiable information that may be collected about other people at these pages include but are not limited to: recipient's name, address, e-mail address, and telephone number.
+### **What do we use your information for?**
 
-For certain promotions, only persons who provide us with the requested personally identifiable information will be able to order products, programs, and services or otherwise participate in the promotion's activities and offerings.
+Any of the information we collect from you may be used in one of the following ways:
 
-We also may collect certain non-personally identifiable information when you visit many of our web pages such as the type of browser you are using, the type of operating system you are using, and the domain name of your Internet service provider.
+  * To personalize your experience
 
-**How We Use the Information**
 
-We may use the information you provide about yourself to fulfill your requests for our products, programs, and services, to respond to your inquiries about offerings, and to offer you other products, programs or services that we believe may be of interest to you.
 
-We sometimes use this information to communicate with you, such as to notify you when you have won one of our contests or when we make changes to subscriber agreements, to fulfill a request by you for an online newsletter, or to contact you about your account with us.
+(your information helps us to better respond to your individual needs)
 
-We use the information that you provide about others to enable us to send them your gifts or cards. From time to time, we also may use this information to offer our products, programs, or services to them.
+  * To improve our website
 
-If you choose to submit content for publication (e.g., a "letter to our editors"), we may publish your name, screen name, and other information you have provided to us.
 
-The information we collect in connection with our online forums and communities is used to provide an interactive experience. We use this information to facilitate participation in these online forums and communities and, from time to time, to offer you products, programs, or services.
 
-We sometimes use the non-personally identifiable information that we collect to improve the design and content of our publications and websites and to enable us to personalize your Internet experience. We also may use this information in the aggregate to analyze site usage, as well as to offer you products, programs, or services.
+(we continually strive to improve our website offerings based on the information and feedback we receive from you)
 
-We will disclose information we maintain when required to do so by law, for example, in response to a court order or a subpoena. We also may disclose such information in response to a law enforcement agency's request.
+  * To improve customer service
 
-Agents and contractors of Shriram Properties Private Limited who have access to personally identifiable information are required to protect this information in a manner that is consistent with this Privacy Notice by, for example, not using the information for any purpose other than to carry out the services they are performing for Shriram Properties Private Limited.
 
-We may transfer your personally identifiable information to other Shriram Properties Private Limited offices for internal management and administrative purposes. Your personal data will be transferred to other Shriram Properties Private Limited offices where necessary for the performance or conclusion of our contractual obligations to you or for your benefit. Transfers of personally identifiable information may also be made where necessary for the establishment, exercise, or defense of legal claims.
 
-Although we take appropriate measures to safeguard against unauthorized disclosures of information, we cannot assure you that personally identifiable information that we collect will never be disclosed in a manner that is inconsistent with this Privacy Notice. Inadvertent disclosures may result, for example, when third parties misrepresent their identities in asking the site for access to personally identifiable information about themselves for purposes of correcting possible factual errors in the data.
+(your information helps us to more effectively respond to your customer service requests and support needs)
 
-**Privacy Options**
+  * To process transactions
 
-If a Shriram Properties Private Limited site discloses personally identifiable information to companies not owned by Shriram Properties Private Limited who want to market products or services to you, it will provide you with an opportunity to opt out or block such uses.
 
-Shriram Properties Private Limited may on occasion combine information we receive online with outside records to enhance our ability to market to you those products or services that may be of interest to you.
 
-Shriram Properties Private Limited sites will not use or transfer personally identifiable information provided to us in ways unrelated to the ones described above without also providing you with an opportunity to opt out of these unrelated uses.
+> Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.
 
-**Collection of Information by Third-Party Sites and Sponsors**
+  * To administer a contest, promotion, survey or other site feature
 
-On occasion our sites may contain links to other sites whose information practices may be different than ours. You should consult the other sites' privacy notices, as we have no control over information that is submitted to, or collected by, these third parties.
 
-Shriram Properties Private Limited sites sometimes may offer contests, sweepstakes, or promotions that are sponsored by or co-sponsored with identified third parties. By virtue of their sponsorship, these third parties may obtain personally identifiable information that visitors voluntarily submit to participate in the contest, sweepstakes, or promotion. Shriram Properties Private Limited has no control over the third-party sponsors' use of this information. The Shriram Properties Private Limited site will notify you at the time of requesting personally identifiable information if third-party sponsors will obtain such information.
+  * To send periodic emails
 
-Shriram Properties Private Limited sites may use reputable third parties to present or serve the advertisements that you may see at its web pages and to conduct research about the advertisements. This privacy notice does not cover any use of information that such third parties may have collected from you or the methods used by the third-parties to collect that information (e.g., cookies, web beacons and clear gifs).
 
-**Cookies**
 
-To enhance your online experience we use "cookies." Cookies are text files we place in your computer's browser to store your preferences. Cookies, by themselves, do not tell us your e-mail address or other personally identifiable information unless you choose to provide this information to us by, for example, registering at one of our sites. However, once you choose to furnish the site with personally identifiable information, this information may be linked to the data stored in the cookie.
+> The email address you provide for order processing, may be used to send you information and updates pertaining to your order, in addition to receiving occasional company news, updates, related product or service information, etc.
 
-We use cookies to understand Internet usage and to improve our content, offerings, and advertisements. For example, we may use cookies to personalize your experience at our web pages (e.g. to recognize you by name when you return to our site), save your password in password-protected areas, and enable you to use shopping carts or booking forms on our sites. We also may use cookies to offer you products, programs, or services. Similarly, as part of an arrangement with our business partners (including, those who present or serve the advertisements that you see on our web pages) we may also access cookies placed by others and allow others to access certain cookies placed by us.
+Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
 
-We may also use small pieces of code called "web beacons" or "clear gifs" to collect anonymous and aggregate advertising metrics, such as counting page views, promotion views, or advertising responses. These "web beacons" may be used to deliver cookies that conform to our cookie policy.
+### **How do we protect your information?**
 
-**Our Commitment to Security**
+We implement a variety of security measures to maintain the safety of your personal information when you enter, submit, or access your personal information.
 
-We have put in place appropriate physical, electronic, and managerial procedures to safeguard and help prevent unauthorized access, maintain data security, and correctly use the information we collect.
+### **Do we use cookies?**
 
-**How You can Access or Correct Information**
+Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information.
 
-To inquire about personally identifiable information that this Shriram Properties Private Limited site has collected about you, or how to correct factual errors in such information, please email us by clicking here.
+We use cookies to understand and save your preferences for future visits and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business.
 
-To protect your privacy and security, we will take reasonable steps to help verify your identity before granting access or making corrections.
+### **Do we disclose any information to outside parties?**
 
-**Special Note for Parents**
+We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
 
-The site you are visiting is one of the Shriram Properties Private Limited general audience sites.
+### **Third party links**
 
-**Changes to this Notice**
+Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
 
-This Notice may be changed by Shriram Properties Private Limited. The revised Notice will be posted to this page so that you are aware of the information we collect, how we use it, and under what circumstances we may disclose it.
+### **ChildrenS Online Privacy Protection Act Compliance**
 
-**How to Contact Us**
+We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
 
-If you have any questions or concerns about the Shriram Properties Private Limited Privacy Notice or its implementation please contact us via email by clicking here or at the following address:
+### **Online Privacy Policy Only**
 
-**Shriram Properties Private Limited**
+This online privacy policy applies only to information collected through our website and not to information collected offline.
 
-No 40/43, 8th Main, 4th Cross, RMV Extn, Sadhashiva Nagar, Bangalore – 560 080
+### **Terms and Conditions**
 
-Phone: +91 80 4022 9999  
-Fax: +91 80 4123 6222   
-E-mail: [enquiry@shriprop.com](mailto:enquiry@shriprop.com)
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at <http://www.shriramproperties.com/disclaimers/>
+
+### **Your Consent**
+
+By using our site, you consent to our online privacy policy.
+
+### **Changes to our Privacy Policy**
+
+If we decide to change our privacy policy, we will post those changes on this page.
+
+This policy was last modified on October 10, 2013 by Indar Kumar.
+
+### **Contacting Us**
+
+If there are any questions regarding this privacy policy you may contact us using the information below.
+
+[http://www.shriramproperties.com](http://www.shriramproperties.com/ "Shriram Properties")  
+No 40/43, 8th Main, 4th Cross, RMV Extn., Sadashiv Nagar  
+Bangalore, Karnataka 560080. India  
+indar@shriramproperties.com  
++918040229999
