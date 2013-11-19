@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coolhandle.com privacy policy that was archived on 2013-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130519061010id_/http%3A//www.coolhandle.com/company/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coolhandle.com privacy policy that was archived on 2013-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131119085714id_/http%3A//www.coolhandle.com/company/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Web Hosting by CoolHandle.com
 
@@ -64,10 +64,6 @@ CoolHandle has security measures in place to help prevent the loss, misuse and a
 
 We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.
 
-### Links
-
-Our Web site provides links to other Web sites, sites that may be maintained by companies that are not affiliates of ours. We are not responsible for the privacy practices or the content of such Web sites and we encourage you to use caution. In particular, we recommend that you view the privacy policy posted on each site to confirm the sites policies are acceptable to you. This Policy applies solely to information collected by this Web site.
-
 ### Children’s Privacy
 
 CoolHandle does not sell products or services for purchase by children. Customers must be at least 18 years of age. Any individual under the age of 18 (“Minor”) must have a parent or guardian accept the TOU in order for the Minor to become a Customer. If you are under 18, we strongly encourage you to use our Web site only with the involvement of a parent or guardian.
@@ -82,4 +78,4 @@ We reserve the right to modify this privacy statement at any time, so please rev
 
 If you have questions or concerns regarding this Policy, you should contact us by email at support@coolhandle.com
 
-This privacy policy was last updated on 2/7/2011.
+This privacy policy was last updated on 9/9/2013.
