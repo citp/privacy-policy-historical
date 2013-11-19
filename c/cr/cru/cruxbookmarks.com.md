@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cruxbookmarks.com privacy policy that was archived on 2013-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130511183021id_/http%3A//www.cruxbookmarks.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cruxbookmarks.com privacy policy that was archived on 2013-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131119130423id_/http%3A//www.cruxbookmarks.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Heating and Air Tips
+# Privacy Policy | Heating, Air and Plumbing Tips for Homeowners
 
 **Your Privacy**  
 Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.
