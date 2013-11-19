@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the rockwelltrading.com privacy policy that was archived on 2013-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130521193928id_/http%3A//www.rockwelltrading.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rockwelltrading.com privacy policy that was archived on 2013-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131119154914id_/http%3A//www.rockwelltrading.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy PolicyRockwell Trading
+# Privacy Policy
 
 We respect your privacy and appreciate the confidence you have placed in Rockwell Trading Services LLC as your primary source of day trading education. We are committed to protecting your privacy and preserving your trust.
 
