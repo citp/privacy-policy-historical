@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the salesvantage.com privacy policy that was archived on 2013-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130617151414id_/http%3A//www.salesvantage.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the salesvantage.com privacy policy that was archived on 2013-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131120145750id_/http%3A//www.salesvantage.com/privacy.php) for the most accurate reproduction.*
 
 # SalesVantage.com Privacy Policy Statement
 
@@ -33,10 +33,10 @@ Contact Information
 If you would like to update or delete any of your contact information, please send an e-mail to support@salesvantage.com. If you have any questions about our privacy practices you may contact the Publisher at jmcmahon@salesvantage.com. Or you may write to the address below. If SalesVantage.com makes any changes to its privacy policy, those changes will be noted on the SalesVantage.com home page and you will have the opportunity to opt-out or otherwise prevent that use. 
 
 SalesVantage.com Inc.  
-8432 Broadway Rd  
-Wolcott, NY 14590  
-Tel: 201.935.3641   
-Fax: 315.410.5405 
+21 Concord Street  
+Charlestown, MA 02129  
+Tel: 617.505.9224  
+
 
 Policy effective date: July 15, 2003; updated September 18, 2006; updated February 12, 2008
 
