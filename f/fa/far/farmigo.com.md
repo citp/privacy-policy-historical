@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the farmigo.com privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501015605id_/http%3A//www.farmigo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the farmigo.com privacy policy that was archived on 2013-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131120230352id_/http%3A//www.farmigo.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Farmigo
 
-Farmigo, Inc., and its' affiliates (collectively referred to here as "Farmigo") provide this privacy policy ("Policy") to explain how we collect, use and protect (or, in some cases, do not protect), your personal information as you interact with us online through the "farmigo.com" web site. Farmigo recognizes the importance of protecting personally identifiable information provided by users of the site, as well as for persons included in our subscriber mailing lists. The following privacy policy grows from our fundamental respect for our users' right to privacy and will serve to guide our relationships with our users and subscribers. 
+Farmigo, PBC., and its' affiliates (collectively referred to here as "Farmigo") provide this privacy policy ("Policy") to explain how we collect, use and protect (or, in some cases, do not protect), your personal information as you interact with us online through the "farmigo.com" web site. Farmigo recognizes the importance of protecting personally identifiable information provided by users of the site, as well as for persons included in our subscriber mailing lists. The following privacy policy grows from our fundamental respect for our users' right to privacy and will serve to guide our relationships with our users and subscribers. 
 
 Farmigo reserves the right to change this Policy at any time by posting a new privacy statement on our web site. You are responsible for checking periodically for changes. By accessing the site, you indicate your agreement to and acceptance of the terms of this Policy, and consent to the collection, retention and use of your personally identifiable information consistent with this Policy, as amended from time to time. If you are visiting our site from outside the United States, there may be special rules or limitations on your use of this web site. 
 
@@ -53,7 +53,7 @@ If Farmigo should ever file for bankruptcy or merge with another company, or if 
 If you have any questions about this Privacy Policy, the practices of farmigo.com or your use of the website, please contact us at: 
 
 Privacy Officer   
-Farmigo, Inc.   
+Farmigo, PBC.   
 1955 Bryant St, Palo Alto, CA, 94301   
 ceo[at]farmigo[dot]com 
 
