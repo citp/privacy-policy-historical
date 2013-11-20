@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the resumecompanion.com privacy policy that was archived on 2013-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130509174827id_/http%3A//resumecompanion.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the resumecompanion.com privacy policy that was archived on 2013-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131120201152id_/http%3A//resumecompanion.com/privacy-policy) for the most accurate reproduction.*
 
-# Resume Builder - Privacy Policy - Resume Companion
+# Free Resume Maker | Privacy Policy | Resume Companion
 
 ### ResumeCompanion.com
 
@@ -100,15 +100,17 @@ California Civil Code Section 1798.83, also known as the "Shine The Light" law, 
 
 If you have any questions regarding our Privacy Policy, please contact our privacy officer at: 
 
-Privacy Officer  
-ResumeCompanion.com  
-28 2nd Street, 3rd Floor  
-San Francisco, CA 94105  
-Email: support@resumecompanion.com  
-Phone: 1-866-936-4904 
+U.S. Office:   
+Resume Companion LLC   
+427 N Tatnall St #95492   
+Wilmington, DE 19801-2230   
+United States 
 
-SuJia Technologies Ltd.(EU Location)  
-Karpenision, 9 Strovolos, 2021, Nicosia, Cyprus.  
-Email: support@resumecompanion.com  
-Phone: 1-866-936-4904  
+Europe Office:   
+Su Jia Technologies Ltd. dba ResumeCompanion.com   
+Karpenision, 9 Strovolos, 2021   
+Nicosia, Cyprus 
 
+Contacting us:   
+Email: support@resumecompanion.com   
+Phone: 1-866-936-4904 (available Monday through Friday, 10AM – 6PM EDT) 
