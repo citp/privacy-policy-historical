@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the reverb.com privacy policy that was archived on 2013-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130506030721id_/http%3A//reverb.com/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reverb.com privacy policy that was archived on 2013-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131120213219id_/http%3A//reverb.com/page/privacy) for the most accurate reproduction.*
 
 # Reverb Privacy Policy | Reverb
 
@@ -19,6 +19,8 @@ Depending on which services you choose to use, Reverb may require additional inf
 You may optionally choose to provide your full name and other personal information (such as birthday, gender, location) to be publicly displayed in connection to your account and activity.
 
 Your username, Reverb ID or alias is publicly displayed and connected to your Reverb activity. Other people may see your date joined, feedback, ratings, profile information, items listed for sale, shop pages, sold item listings, and comments in community spaces.
+
+For quality control and resolution seeking purposes, Reverb maintains access to all communication between users through offers, orders, and private messaging. 
 
 Reverb automatically receives and records some information from your browser when you visit the site, such as your IP address, cookies and data about which pages you visit on the site through the use of log files provided by our third-party tracking-utility partners. This information helps us analyze and understand how the site works for members and visitors.
 
