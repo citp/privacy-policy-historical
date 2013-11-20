@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the betterlesson.com privacy policy that was archived on 2013-05-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130531115843id_/http%3A//betterlesson.com/public/privacy_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the betterlesson.com privacy policy that was archived on 2013-11-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131120232353id_/http%3A//betterlesson.com/public/privacy_policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
     <meta http-equiv="content-type" content="text/html; charset=utf-8">
@@ -22,7 +22,7 @@
 <meta name="robots" content="noindex, follow">
 
 
-<link href="/favicon.ico" type="image/x-icon" rel="icon"><link href="/favicon.ico" type="image/x-icon" rel="shortcut icon"><script type="text/javascript" src="/www/js/bl-hash-3da4b0f023bbcac63d2fd11e8b37bee8.js"></script><script type="text/javascript" src="/www/templates/bl-hash-36f9b3c5459de417c039e2bdc28bd3e6.js"></script><link rel="stylesheet" type="text/css" href="/www/css/bl-hash-1873d22604fcc1fdbb051830d154d408.css"><link rel="stylesheet" media="print" type="text/css" href="/www/css/print.css">
+<link href="/favicon.ico" type="image/x-icon" rel="icon"><link href="/favicon.ico" type="image/x-icon" rel="shortcut icon"><script type="text/javascript" src="/www/js/bl-hash-caeadf9bdb98f9c2fec9000f8759b6ad.js"></script><script type="text/javascript" src="/www/templates/bl-hash-7bfdc9589305489fa3825833084563e2.js"></script><link rel="stylesheet" type="text/css" href="/www/css/bl-hash-4b87a1e79b9f5b7b42473fb7c710ae5c.css"><link rel="stylesheet" media="print" type="text/css" href="/www/css/print.css">
 <!-- DEFAULT THEME -->
 
 
@@ -35,16 +35,15 @@
 	    // support old jQuery code
 	    var J = jQuery;
 	    var bl_debug = BL.debug;
-            BL.static_files_hash = "e2f937753e0e1aabdacabcb500fc5669"; //The version of static files loaded with the page
+            BL.static_files_hash = "4a8e60eda37dc51b2daad127d849d172"; //The version of static files loaded with the page
 	</script>
 
 </head>
 <body class="pprivacy">
 
         
-            <input type="hidden" id="show_blnext_beta_banner" value="1">
     	
-    <div id="header_container">
+    <div id="header_container" style="z-index: 1000;">
     <div id="header" class="row-fluid">
             
         <div id="logo" class="span3">
@@ -53,14 +52,27 @@
         
         <ul id="header_list" class="nav">
             
-                        
+                                            <li id="header_search" class="span logged-out">
+                    <form id="search-bar" action="/search_redirect">
+                        <div id="search-bar-pill">
+                            <input type="text" class="js-placeholder acInput" id="header-keyword" name="keyword" placeholder="Search over 600k resources" autocomplete="off">
+                            <input type="hidden" name="from" value="header_public">
+
+                            
+                                <input type="hidden" name="search_url" value="/explore/content/all">
+                                
+                            <i class="icons-icon-mag-small">&nbsp;</i>
+                        </div>
+                    </form>
+                </li>
+                            
                 <li class="span" id="header_register">
                                         <a href="/users/register" class="btn btn-yellow registration-modal from-deep-link">
                         <i class="icons-header_dropdown_me">&nbsp;</i>
                         Sign-Up
                     </a>
                                     </li>
-                <li class="span header-menu offset2" id="header_login">
+                <li class="span header-menu " id="header_login">
                     <a href="#" class="dropdown-toggle" data-toggle="dropdown">
                         Login
                         <b class="caret"></b>
@@ -110,7 +122,7 @@
         }
     });
 </script>
-</div>
+</div><div></div>
 <div id="header_fixed_spacer">&nbsp;</div>
 	<div id="container">
 
@@ -690,7 +702,7 @@ We will respond to your inquiry within 30 days of its receipt.
                 <li><a href="http://blog.betterlesson.com">BetterLesson Blog</a></li>
                 <li><a href="/public/about">About</a></li>
                 <li><a href="/public/master_teachers">Master Teacher Project</a></li>
-                <li><a href="http://support.betterlesson.com">Support</a></li>
+                <li><a href="https://betterlesson.zendesk.com">Support</a></li>
                 <li><a href="/public/contact">Contact Us</a></li>
 
                                     <li><a href="mailto:sales@betterlesson.com">Sales</a></li>
@@ -775,7 +787,7 @@ pageTracker._trackPageview();
 			<div class="select-school control-group">
 				<label class="control-label" for="registration_school">School</label>
 				<div class="controls">
-					<input type="hidden" class="input-xlarge" id="registration_school">
+					<input type="hidden" class="input-xlarge" id="registration_school" style="display: none;"><div class="select2-container input-xlarge" style="width: 0px">    <a href="javascript:void(0)" class="select2-choice select2-default">   <span>Please enter zip-code of your school.</span><abbr class="select2-search-choice-close" style="display:none;"></abbr>   <div><b></b></div></a>    <div class="select2-drop" style="display:none;">   <div class="select2-search">       <input type="text" autocomplete="off">   </div>   <ul class="select2-results">   </ul></div></div>
 					<div class="help-block">Don't see your school? <a class="js-show-add-school" href="#add-school">Request that we add it</a>.</div>
 				</div>
 			</div>
@@ -931,7 +943,6 @@ pageTracker._trackPageview();
 			<div class="js-submit-button control-group">
 				<div class="controls">
 					<button type="submit" class="btn btn-primary btn-large">Send Invites</button><span class="loading hidden"><img src="/www/img/loading.gif" alt="loading"></span> <span id="successful_invites"></span>
-					<div style="font-size:12px;">We’ll send you a $50 Donorschoose.org gift certificate when you <br>successfully invite 10 colleagues!</div>
 				</div>
 			</div>
 		</fieldset>
@@ -941,4 +952,4 @@ pageTracker._trackPageview();
     
 
 
-</body></html>
+<div id="cboxOverlay" style="display: none;"></div><div id="colorbox" class="" style="display: none;"><div id="cboxWrapper"><div><div id="cboxTopLeft" style="float: left;"></div><div id="cboxTopCenter" style="float: left;"></div><div id="cboxTopRight" style="float: left;"></div></div><div style="clear: left;"><div id="cboxMiddleLeft" style="float: left;"></div><div id="cboxContent" style="float: left;"><div id="cboxLoadedContent" style="width: 0px; height: 0px; overflow: hidden; float: left;"></div><div id="cboxLoadingOverlay" style="float: left;"></div><div id="cboxLoadingGraphic" style="float: left;"></div><div id="cboxTitle" style="float: left;"></div><div id="cboxCurrent" style="float: left;"></div><div id="cboxNext" style="float: left;"></div><div id="cboxPrevious" style="float: left;"></div><div id="cboxSlideshow" style="float: left;"></div><div id="cboxClose" style="float: left;"></div></div><div id="cboxMiddleRight" style="float: left;"></div></div><div style="clear: left;"><div id="cboxBottomLeft" style="float: left;"></div><div id="cboxBottomCenter" style="float: left;"></div><div id="cboxBottomRight" style="float: left;"></div></div></div><div style="position: absolute; width: 9999px; visibility: hidden; display: none;"></div></div><div class="acResults" style="display: none; position: absolute;"></div></body></html>
