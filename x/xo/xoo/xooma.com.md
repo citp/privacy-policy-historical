@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the xooma.com privacy policy that was archived on 2012-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121122003456id_/http%3A//www.xoomaworldwide.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xooma.com privacy policy that was archived on 2013-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131120064645id_/http%3A//xooma.com/privacy-statement) for the most accurate reproduction.*
 
 # Xooma Worldwide
-
-Privacy Statement
 
 XOOMA is committed to protecting your privacy and developing technology that gives you the most powerful and safe online experience. This Statement of Privacy applies to the XOOMA Web site and governs data collection and usage. By using the XOOMA website, you consent to the data practices described in this statement.
 
