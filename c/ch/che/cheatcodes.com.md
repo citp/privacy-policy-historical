@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cheatcodes.com privacy policy that was archived on 2013-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130519033415id_/http%3A//gamerid.com/company/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cheatcodes.com privacy policy that was archived on 2013-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131120061526id_/http%3A//gamerid.com/company/privacy) for the most accurate reproduction.*
 
 # gamerID - Privacy Policy
 
