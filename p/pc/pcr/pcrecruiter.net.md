@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pcrecruiter.net privacy policy that was archived on 2013-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130520221421id_/http%3A//www.pcrecruiter.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pcrecruiter.net privacy policy that was archived on 2013-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131120171756id_/http%3A//pcrecruiter.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - PCRecruiter
 
