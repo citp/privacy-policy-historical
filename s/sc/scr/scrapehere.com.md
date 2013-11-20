@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the scrapehere.com privacy policy that was archived on 2012-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121007070025id_/http%3A//www.scrapehere.com/footer.html%3Fcontent%3Dprivacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scrapehere.com privacy policy that was archived on 2013-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131120061818id_/http%3A//www.scrapehere.com/footer.html%3Fcontent%3Dprivacypolicy) for the most accurate reproduction.*
 
 # 
 
-**By visiting www.scrapehere.com, you are accepting the practices described in this Privacy Notice**
+**Scrapehere (the "Site") is a web site owned by Scrapehere technologies Pvt Ltd, Bangalore, India, registered company. By using the Site, you expressly acknowledge and agree that any use of the Site will be in accordance with these Terms of Use. If you do not agree to be bound by these Terms of Use, you may not use the Site. Scrapehere may change, add or remove portions of this Agreement at any time. Each time you use the Site, the current version of this Agreement will apply**
+
+The contents of the Site are offered for your private, non-commercial and information and discussion purposes only. All materials published by the Site (including, but not limited to prices, photographs, specifications, reviews, ratings, also known as the "Content") are protected by copyright, and owned or controlled by the Site or the party credited as the provider of the Content. If you believe that material located on or linked to by the site violates your copyright, you are encouraged to notify Scrapehere (via the contact us page) in accordance with Digital Millennium Copyright Act ("DMCA") Policy. Scrapehere will respond to all such notices, including as required or appropriate by removing the infringing material or disabling all links to the infringing material.
 
 **What information do we collect?**
 
@@ -35,7 +37,7 @@ We do not sell, trade, or otherwise transfer to outside parties your personally 
 
 **Third party links**
 
-Our website may contain links to third party websites to which we have no affiliation. Scrapehere does not share your personal information with those websites and is not responsible for their privacy practices. We suggest you read the privacy policies on these third party websites.
+Certain links on the Site lead to resources located on servers maintained by third parties, which are independent from Scrapehere, over whom the Site has no control or connection. The Site accepts no responsibility or liability for the authenticity, availability, suitability, reliability, accuracy of the information for any damage, loss or harm, direct or consequential or any violation of local or international laws that may be incurred by your visit and/or transaction(s) on these site(s). This Agreement does not transfer from Scrapehere to you any Scrapehere or third party intellectual property, and all right, title and interest in and to such property will remain (as between the parties) solely with Scrapehere. Scrapehere does not share your personal information with those websites and is not responsible for their privacy practices. We suggest you read the privacy policies on these third party websites. 
 
 **Online Privacy Policy Only**
 
@@ -43,7 +45,7 @@ This online privacy policy applies only to information collected through our web
 
 **Terms and Conditions**
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [http://www.scrapehere.com](http://www.scrapehere.com/footer.html?content=termsandconditions)
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [http://www.scrapehere.com](http://www.scrapehere.com/footer.html?content=termsofuse)
 
 **Changes to our Privacy Policy**
 
