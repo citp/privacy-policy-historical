@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mec.ca privacy policy that was archived on 2013-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130527022529id_/http%3A//www.mec.ca/AST/ContentPrimary/Utilities/Help/PrivacyPolicy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mec.ca privacy policy that was archived on 2013-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131120094016id_/http%3A//www.mec.ca/Main/content_text.jsp%3FFOLDER%253C%253Efolder_id%3D2534374302887365) for the most accurate reproduction.*
 
 # Privacy Policy - Mountain Equipment Co-op
 
@@ -12,7 +12,7 @@ To learn more about MEC's policies, please view the following pages:
 
 [Read the Website Terms of Use](https://web.archive.org/AST/ContentPrimary/Utilities/Help/PrivacyPolicy/TermOfUse.jsp)
 
-[Download the MEC Privacy Code PDF](http://images.mec.ca/media/Images/pdf/MEC_privacy_code_v1_m56577569830533314.pdf) (31KB)
+[Download the MEC Privacy Code PDF](http://images.mec.ca/media/Images/pdf/MEC_privacy_code_v2_m56577569830533314.pdf) (31KB)
 
 ## Information Collection, Use, and Disclosure
 
