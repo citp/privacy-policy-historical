@@ -1,8 +1,8 @@
-<!--The following is the downloaded HTML source of the farmigo.com privacy policy that was archived on 2013-05-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130501015605id_/http%3A//www.farmigo.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the farmigo.com privacy policy that was archived on 2013-11-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131120230352id_/http%3A//www.farmigo.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html style=""><head>
-	
+    
 
 
 
@@ -12,11 +12,12 @@
 
 <meta http-equiv="content-type" content="text/html; charset=UTF-8">
 
-<link type="text/css" rel="stylesheet" href="/site/common/css/all.css?2013-04-26-0544">
+<link type="text/css" rel="stylesheet" href="/site/common/css/all.css?2013-11-20-1941">
 
 <!-- Library scripts -->
 <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="/site/common/js/lib/jquery-1.8.3.min.js"></script>
 <script src="/site/common/js/lib/jquery.watermark.min.js?v=3.1.4"></script>
+<script src="/site/common/js/lib/jquery.cookie.js"></script>
 <script src="/site/common/js/lib/log4javascript_production.js?v=1.4.3"></script>
 <script src="/site/common/js/lib/underscore-min.js?v=1.4.3"></script>
 <script src="/site/common/js/lib/backbone-min.js?v=0.9.9"></script>
@@ -24,8 +25,11 @@
 <!--[if lte IE 8]><script src="/site/common/js/lib/json2.js"></script><![endif]-->
 
 <!-- Web font support -->
-<script src="http://use.typekit.com/udm2oyz.js"></script>
-<script>try{Typekit.load();}catch(e){}</script>
+<script src="http://use.typekit.com/dln4eri.js"></script>
+<script>try {
+	Typekit.load();
+} catch (e) {
+}</script>
 
 
 
@@ -44,26 +48,46 @@
 
 
 
+
+
+
 <script>
-// General values that are detected by the server and passed to JS code
-Farmigo.common.data.isIpad = 0;
-Farmigo.common.data.isTouch = 'ontouchstart' in document.documentElement;
-Farmigo.common.data.isMobile = 0;
-Farmigo.common.data.isMobileDevice = 0;
-Farmigo.common.data.debugMode = false;
-Farmigo.common.data.page = 'Privacy';
-Farmigo.common.data.farmKey = null;
-Farmigo.common.data.supportEmail = 'help@farmigo.com';
-Farmigo.common.data.loginUrl = 'https://www.farmigo.com/login';
-Farmigo.common.data.shareUrl = 'http://www.farmigo.com/';
-Farmigo.common.data.shareEmailSubject = 'New way to get fresh, locally grown food - Check it out!';
-Farmigo.common.data.shareEmailBody = 'Hey!%0A%0AJust wanted to share Farmigo with you - a new way to get a great selection of fresh food, delivered from nearby farms every week.%0AI thought you might like this program too.%0AYou can find out more about how it works here: http://www.farmigo.com/%0A%0ACheers.';
-Farmigo.common.useragent= {
-	ie9: false,
-	ie8: false,
-	ie7: false
-}
+	// General values that are detected by the server and passed to JS code
+	Farmigo.common.data.isProduction = true;
+	Farmigo.common.data.isFarmigoUser = false;
+	Farmigo.common.data.isIpad = 0;
+	Farmigo.common.data.isTouch = 'ontouchstart' in document.documentElement;
+	Farmigo.common.data.isMobile = 0;
+	Farmigo.common.data.isMobileDevice = 0;
+	Farmigo.common.data.debugMode = false;
+	Farmigo.common.data.page = 'Privacy';
+	Farmigo.common.data.pageWidth = 1004;
+	Farmigo.common.data.farmKey =  null ;
+	Farmigo.common.data.supportEmail = 'help@farmigo.com';
+	Farmigo.common.data.loginUrl = 'https://www.farmigo.com/login';
+	Farmigo.common.data.shareUrl = 'http://www.farmigo.com/';
+	Farmigo.common.data.shareEmailSubject = 'New way to get fresh, locally grown food - Check it out!';
+	Farmigo.common.data.shareEmailBody = 'Hey!%0A%0AJust wanted to share Farmigo with you - a new way to get a great selection of fresh food, delivered from nearby farms every week.%0AI thought you might like this program too.%0AYou can find out more about how it works here: http://www.farmigo.com/%0A%0ACheers.';
+	Farmigo.common.useragent = {
+		ie9: false,
+		ie8: false,
+		ie7: false,
+		ie: false
+	}
+
+	// set data for identifying (kiss metrics, qualaroo)
+
+	
+	
+
+	var communities = [];
+	
+	if (communities.length > 0) {
+		Farmigo.common.data.memberCommunities = communities;
+	}
+
 </script>
+
 
 
 
@@ -78,7 +102,7 @@ Farmigo.common.useragent= {
 <script>
 $( function() {
 
-	Farmigo.enums = {"EnumSigninStatus":{"Ok":"Ok","Unauthorized":"Unauthorized","WrongEmail":"WrongEmail","WrongPassword":"WrongPassword","ChangePassword":"ChangePassword","EmailSendFailed":"EmailSendFailed","OkExistingForFarm":"OkExistingForFarm"},"SubscriptionStatus":{"NoSubscription":"NoSubscription","SubscriptionExists":"SubscriptionExists","ProcessingSubscription":"ProcessingSubscription","HoldSubscription":"HoldSubscription","SubscriptionCanceled":"SubscriptionCanceled","SplitSubscriptionMember":"SplitSubscriptionMember","WaitListSubscription":"WaitListSubscription"},"StatusCode":{"OK":"OK","FAILURE":"FAILURE","TIMEOUT":"TIMEOUT","EXHAUSTED":"EXHAUSTED"},"EnumAction":{"ThankYou":"ThankYou","LeadExists":"LeadExists","StartApply":"StartApply","OK":"OK","Failed":"Failed"}};
+	Farmigo.enums = {"EnumSigninStatus":{"Ok":"Ok","Unauthorized":"Unauthorized","WrongEmail":"WrongEmail","WrongPassword":"WrongPassword","ChangePassword":"ChangePassword","EmailSendFailed":"EmailSendFailed","OkExistingForFarm":"OkExistingForFarm"},"SubscriptionStatus":{"NoSubscription":"NoSubscription","SubscriptionExists":"SubscriptionExists","ProcessingSubscription":"ProcessingSubscription","HoldSubscription":"HoldSubscription","SubscriptionCanceled":"SubscriptionCanceled","SplitSubscriptionMember":"SplitSubscriptionMember","WaitListSubscription":"WaitListSubscription"},"StatusCode":{"OK":"OK","FAILURE":"FAILURE","TIMEOUT":"TIMEOUT","EXHAUSTED":"EXHAUSTED"},"EnumAction":{"ThankYou":"ThankYou","LeadExists":"LeadExists","StartApply":"StartApply","OK":"OK","Failed":"Failed"},"ContactInfoType":{"BUY":"BUY","SELL":"SELL","START":"START","CAMPAIGN_START":"CAMPAIGN_START","DOMORE":"DOMORE","SETUP":"SETUP","CELEBRATE":"CELEBRATE","DEMO":"DEMO","CONTACT_US":"CONTACT_US"}};
 
 	Farmigo.enums.JsonStatus = {
 		OK : 'OK',
@@ -88,44 +112,62 @@ $( function() {
 });
 </script>
 
- <!-- farmigo enums for js -->
+
+<!-- farmigo enums for js -->
 
 <script src="http://maps.googleapis.com/maps/api/js?key=AIzaSyAfANpgkDJZ9xA6_PeUIy0PhJbC75OMruc&amp;sensor=false"></script>
 
 
-<script src="/site/common/js/i18n/Locale_en.js?2013-04-26-0544"></script><script src="/site/farmigo.com/js/Home-bundle.js?2013-04-26-0544"></script>
-<link type="text/css" rel="stylesheet" href="/site/farmigo.com/css/Home-bundle.css?2013-04-26-0544">
+<script src="/site/common/js/i18n/Locale_en.js?2013-11-20-1941"></script><script src="/site/farmigo.com/js/Home-bundle.js?2013-11-20-1941"></script>
+<link type="text/css" rel="stylesheet" href="/site/farmigo.com/css/Home-bundle.css?2013-11-20-1941">
+
+<!-- Make old IE versions to support HTML5 elements (see also all.less) -->
+<!--[if lt IE 9]>
+<script>
+document.createElement('header');
+document.createElement('nav');
+document.createElement('section');
+document.createElement('article');
+document.createElement('aside');
+document.createElement('footer');
+</script>
+<![endif]-->
 
 <script>
-$(function () {
+	$(function () {
 
-	// load jquery ui libs
-	Farmigo.common.loader.defferedJsLoad("/site/common/js/lib/jquery-ui-1.9.2.min.js", "jquery_ui");
+		// load jquery ui libs
+		Farmigo.common.loader.defferedJsLoad("/site/common/js/lib/jquery-ui-1.9.2.min.js", "jquery_ui");
 
-	// init user menu
-	Farmigo.common.view.components.userMenu = new Farmigo.common.view.components.UserMenu({
-		model: Farmigo.common.model.MemberData
+		// init user menu
+		Farmigo.common.view.components.userMenu = new Farmigo.common.view.components.UserMenu({
+			model: Farmigo.common.model.MemberData
+		});
+
+		
 	});
-
-	
-});
 </script>
 <script>
-  var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-8893503-1']);
-  _gaq.push(['_setDomainName', '.farmigo.com']);
-  _gaq.push(['_setCampMediumKey', 'utm_medium']);
-  _gaq.push(['_setCampNameKey', 'utm_campaign']);
-  _gaq.push(['_setCampSourceKey', 'utm_source']);
+	var _gaq = _gaq || [];
+	_gaq.push(['_setAccount', 'UA-8893503-1']);
+	_gaq.push(['_setDomainName', '.farmigo.com']);
+	_gaq.push(['_setCampMediumKey', 'utm_medium']);
+	_gaq.push(['_setCampNameKey', 'utm_campaign']);
+	_gaq.push(['_setCampSourceKey', 'utm_source']);
 
-  (function() {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })();
+	(function () {
+		var ga = document.createElement('script');
+		ga.type = 'text/javascript';
+		ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		var s = document.getElementsByTagName('script')[0];
+		s.parentNode.insertBefore(ga, s);
+	})();
 </script>
 
-	
+
+
+    
 
 
 
@@ -134,7 +176,6 @@ $(function () {
 
 
 <script>
-	Farmigo.com.data.homeLoginUrl = 'https://www.farmigo.com/login' + '?loginSource=Home';
 	Farmigo.com.data.startApplyUrl = '/start/champion-application';
 	Farmigo.com.data.currentPage = 'privacy';
 </script>
@@ -143,18 +184,21 @@ $(function () {
 <!-- Optimizely A/B testing tool - disabled at the moment -->
 <!-- <script src="http://cdn.optimizely.com/js/104763006.js"></script>  -->
 
-	<script>
-		// ga for main pages
-		var ga = Farmigo.common.analytics.Common;
-		; // patch for presenting /join pageview
-		ga.handleHomeAnalytics( ga.Flow.PRIVACY );
-	</script>
-	<title>Privacy | Farmigo</title>
+<link href="/site/farmigo.com/css/MyFonts-web-fonts-kit.css" type="text/css" rel="stylesheet">
+    <script>
+        // ga for main pages
+        var ga = Farmigo.common.analytics.Common;
+        ; // patch for presenting /join pageview
+        ga.handleHomeAnalytics(ga.Flow.PRIVACY);
+    </script>
+    <title>Privacy | Farmigo</title>
 <script id="facebook-jssdk" async="" src="//connect.facebook.net/en_US/all.js"></script></head>
 
-<body id="page-privacy" class="not-mobile desktop" style="background-size:cover;"> <!-- using background size here because 'less' doesn't parse it properly -->
+<body id="page-privacy" class="not-mobile desktop" style="background-size:cover;">
+<!-- using background size here because 'less' doesn't parse it properly -->
 
-	<!-- header -->
+<!-- header -->
+
 	
 		
 
@@ -167,7 +211,7 @@ $(function () {
 	$(function() {
 		// ga for some home page events
 		var ga = Farmigo.common.analytics.Common;
-		var headerLinkTags = [ ga.Flow.START, ga.Flow.SELL, ga.Flow.ABOUT, ga.Flow.CSA_SOFTWARE, ga.Flow.BLOG, ga.Flow.FAQ ];
+		var headerLinkTags = [ ga.Flow.START, ga.Flow.CSA_SOFTWARE, ga.Flow.ABOUT, ga.Flow.CONTACT_US ];
 		for ( var i=0 ; i < headerLinkTags.length ; i++ ) {
 			$( '#nav-' + headerLinkTags[i] ).click(
 				{ gaAction: headerLinkTags[i] },
@@ -176,6 +220,11 @@ $(function () {
 				}
 			);
 		}
+
+		// override for 'contact' link
+		$('#nav-contact-us').click(function() {
+			Farmigo.getGlobalDispatcher().trigger("contactUs");
+		});
 	});
 
 </script>
@@ -190,39 +239,33 @@ $(function () {
 			
 				<nav><ul id="nav">
 					
-							<li>
-								<div class="">
-									
-										<a id="nav-start" href="/start">GET STARTED</a>
-									
-								</div>
-							</li>
-							
-							<li>
-								<div class="">
-									
-										<a id="nav-sell" href="/sell">FARMERS WANTED</a>
-									
-								</div>
-							</li>
-							
-							<li>
-								<div class="">
-									
-										<a id="nav-about" href="/about">ABOUT US</a>
-									
-								</div>
-							</li>
-							
-							<li>
-								<div class="">
-									
-										<a id="nav-csa-software" href="http://help.farmigo.com/why-farmigo.html" target="_blank">CSA SOFTWARE</a>
-									
-								</div>
-							</li>
-							
-
+						<li>
+							<div class="">
+								
+									<a id="nav-start" href="/start">START YOUR BUSINESS</a>
+								
+							</div>
+						</li>
+					
+						<li>
+							<div class="">
+								
+									<a id="nav-csa-software" href="http://help.farmigo.com/why-farmigo.html" target="_blank">CSA SOFTWARE</a>
+								
+							</div>
+						</li>
+					
+						<li>
+							<div class="">
+								
+									<a id="nav-about" href="/about">ABOUT</a>
+								
+							</div>
+						</li>
+					
+					<li>
+						<div><a id="nav-contact-us">CONTACT US</a></div>
+					</li>
 				</ul></nav>
 				
 					
@@ -240,22 +283,26 @@ $(function () {
 
 
 
+
+
 <ul id="user-menu" class="dropdown-menu">
 	
 	<li id="login" class="menu menu-box">
-		<a>Login</a>
+		<a href="https://www.farmigo.com/login?loginSource=Home">Login
+		</a>
 	</li>
 	<li id="user-title" class="menu" haschildren="" style="display: none;">
 		<a></a><span class="down-arrow"></span>
 		
 		<ul style="display: none;">
-		
 			
 			
 			
-		
 			
-			<li><a id="logout"><span class="icon"></span>Log Out</a></li>
+			
+			
+			<li><a id="logout"><span class="icon"></span>Log Out
+			</a></li>
 		</ul>
 	</li>
 </ul>
@@ -266,14 +313,61 @@ $(function () {
 	</div></header>
 
 	
+	
 
-	<div id="privacy-terms" class="single-section">
+
+
+
+
+
+<section><div id="contact-us" style="display:none;">
+	<div class="content">
+		<form>
+			<div id="default-content">
+				<h1>Contact Us</h1>
+				<fieldset>
+					<legend>Contact Us form</legend>
+			
+					<div class="form-field">
+						<input type="text" id="email" autocorrect="off" mandatory="" form-type="email" error="Please enter a valid email" title="Email">
+					</div>
+			
+					<div class="form-field">
+						<input type="text" id="name" form-type="name" error="Please enter a valid name" title="Name (Optional)">
+					</div>
+			
+					<div class="form-field">
+						<input type="text" id="phone" form-type="phone" error="Please enter a valid phone number" title="Phone (Optional)">
+					</div>
+					
+					<div class="form-field">
+						<textarea id="description" mandatory="" error="Please enter description" title="Description"></textarea>
+					</div>
+			
+					<button id="submit-button" class="large-button">Submit</button>
+					<button id="cancel-button" class="large-button bright" type="reset">Cancel</button>
+				</fieldset>
+				<div id="error-message-box">
+					<span class="ex-mark-image"></span><span id="error-message-container"></span>
+				</div>
+			</div>
+			<div id="thank-you-content">
+				<img src="/site/farmigo.com/images/thank-you.png" alt="Thank You">
+				<h3>Someone from the Farmigo team will contact you soon</h3>
+				
+			</div>
+		</form>
+	</div>
+</div></section>
+
+
+<div id="privacy-terms" class="single-section">
 	<div class="centered">
 		<h1>
 			Privacy Policy
 		</h1>
 		<p>
-			Farmigo, Inc., and its' affiliates (collectively referred to here as
+			Farmigo, PBC., and its' affiliates (collectively referred to here as
 			"Farmigo") provide this privacy policy ("Policy") to explain how we
 			collect, use and protect (or, in some cases, do not protect), your
 			personal information as you interact with us online through the
@@ -478,7 +572,7 @@ $(function () {
 		<address>
 			Privacy Officer
 			<br>
-			Farmigo, Inc.
+			Farmigo, PBC.
 			<br>
 			1955 Bryant St, Palo Alto, CA, 94301
 			<br>
@@ -598,8 +692,8 @@ $(function () {
 	</div>
 </div>
 
-	
-		<!-- marketplace common footer -->
+
+<!-- marketplace common footer -->
 
 
 
@@ -613,7 +707,7 @@ $(function () {
 			contactUsView;
 
 		var footerLinkTags =
-			[ ga.Flow.PRESS, ga.Flow.ABOUT, ga.Flow.CONTACT, ga.Flow.BLOG,
+			[ ga.Flow.PRESS, ga.Flow.ABOUT, ga.Flow.CONTACT_US, ga.Flow.BLOG,
 			  ga.Flow.JOBS, ga.Flow.PRIVACY, ga.Flow.TERMS ];
 		for ( var i=0 ; i < footerLinkTags.length ; i++ ) {
 			$( '#footer .' + footerLinkTags[i] ).click(
@@ -625,17 +719,9 @@ $(function () {
 		}
 
 		// override for 'contact' link
-		var onContactClick = function() {
-
-			if (!contactUsView) {
-				contactUsView = new Farmigo.common.view.components.ContactUsView();
-				contactUsView.firstTimeRender();
-			}
-
-			contactUsView.show();
-		}
-		$('#header .contact').click( onContactClick );
-		$('#footer .contact').click( onContactClick );
+		$('#footer .contact-us').click(function() {
+			Farmigo.getGlobalDispatcher().trigger("contactUs");
+		});
 
 	});
 </script>
@@ -648,7 +734,7 @@ $(function () {
 			
 			    <div>
 			    	<span class="logo"></span>
-			    	<span class="rights">© 2013 Farmigo, Inc.</span>
+			    	<span class="rights">© 2013 Farmigo, PBC.</span>
 			    </div>
 			
 			<nav><div class="nav">
@@ -656,8 +742,8 @@ $(function () {
 					
 						<li><a class="press" href="/press">Press</a></li>
 					
-					<li><a class="about" href="/about">About Us</a></li>
-					<li><a class="contact">Contact</a></li>
+					<li><a class="about" href="/about">About</a></li>
+					<li><a class="contact-us">Contact Us</a></li>
 					
 						<li><a class="blog" href="http://blog.farmigo.com/">Blog</a></li>
 					
@@ -687,52 +773,6 @@ $(function () {
 
 
 
-
-
-<section><div id="contact-us" style="display:none;">
-	<div class="content">
-		<form>
-			<div id="default-content">
-				<h1>Contact Us</h1>
-				<fieldset>
-					<legend>Contact Us form</legend>
-			
-					<div class="form-field">
-						<input type="text" id="email" autocorrect="off" mandatory="" form-type="email" error="Please enter a valid email" title="Email">
-					</div>
-			
-					<div class="form-field">
-						<input type="text" id="name" form-type="name" error="Please enter a valid name" title="Name (Optional)">
-					</div>
-			
-					<div class="form-field">
-						<input type="text" id="phone" form-type="phone" error="Please enter a valid phone number" title="Phone (Optional)">
-					</div>
-					
-					<div class="form-field">
-						<textarea id="description" mandatory="" title="Description"></textarea>
-					</div>
-			
-					<button id="submit-button" class="large-button">Submit</button>
-					<button id="cancel-button" class="large-button bright" type="reset">Cancel</button>
-				</fieldset>
-				<div id="error-message-box">
-					<span class="ex-mark-image"></span><span id="error-message-container"></span>
-				</div>
-			</div>
-			<div id="thank-you-content">
-				<img src="/site/farmigo.com/images/thank-you.png" alt="Thank You">
-				<h3>Someone from the Farmigo team will contact you soon</h3>
-				
-			</div>
-		</form>
-	</div>
-</div></section>
-
-
-	
-
-	
 
 <div id="fb-root"></div>
 
@@ -786,5 +826,5 @@ $(function () {
 
 
 
-
+    
 </body></html>
