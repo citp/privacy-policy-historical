@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the alfredangelo.com privacy policy that was archived on 2013-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130606051346id_/http%3A//www.alfredangelo.com/Company/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alfredangelo.com privacy policy that was archived on 2013-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131120224356id_/http%3A//www.alfredangelo.com/PrivacyPolicy) for the most accurate reproduction.*
 
-# Alfred Angelo... Find the perfect Wedding Dress, Bridesmaid Dress, Prom Dress, Flower Girl Dress or Mother of the Bride Dress at Alfred Angelo.
+# Alfred Angelo - Privacy Policy
 
 |   
 
 
 **      
-[TERMS OF SERVICE](https://web.archive.org/web/20130606051346id_/http%3A//www.alfredangelo.com/Company/TermsOfService.aspx)         
+[TERMS OF SERVICE](https://web.archive.org/TermsOfService)         
 **
 
 |  |  |  |   
@@ -57,12 +57,12 @@ To provide you with better service, we may also use "cookies" which are small bi
 ** Should you have any questions, concerns or comments, please click on the following link to send an email to _customercare_[ _@alfredangelo.com_](mailto:info@alfredangelo.com) __ or write to us at:
 
 Alfred Angelo, Inc.  
-1301 Virginia Drive, Suite 110  
-Ft. Washington, Pennsylvania 19034  
+1625 S. Congress Avenue, Suite 400  
+Delray Beach, FL  33445  
 Attn: Customer Service
 
  **California Privacy Rights**  
-California Civil Code Section 1798.83 permits California residents to opt-out of our disclosure of personal information to third parties for their direct marketing purposes. You may make such a request by contacting us by e-mail addressed [customercare@alfredangelo.com](mailto:customercare@alfredangelo.com). Please reference California Privacy Rights in your subject line. You may also write to us at Alfred Angelo, Inc., 1301 Virginia Drive, Suite 110, Ft. Washington, Pennsylvania 19034, Attn: Customer Service. 
+California Civil Code Section 1798.83 permits California residents to opt-out of our disclosure of personal information to third parties for their direct marketing purposes. You may make such a request by contacting us by e-mail addressed [customercare@alfredangelo.com](mailto:customercare@alfredangelo.com). Please reference California Privacy Rights in your subject line. You may also write to us at Alfred Angelo, Inc., 1625 S. Congress Avenue, Suite 400, Delray Beach, FL 33445, Attn: Customer Service. 
 
 Please be aware that this opt-out does not prohibit our disclosure of personal information for any purpose other than direct marketing.
 
@@ -87,13 +87,13 @@ _Optional Features_ : If you use optional features or functions available throug
 
  **How can I opt-out of receiving advertising communications from Alfred Angelo and others?**  
 You may request that we remove you from our telephone marketing list and refrain from sharing your telephone number with third parties by sending us an e-mail addressed [customercare@alfredangelo.com](mailto:customercare@alfredangelo.com). Please reference Telephone List Removal in your subject line and include your telephone numbers in the body of your email. You may also write to us at Alfred Angelo, Inc.   
-1301 Virginia Drive, Suite 110  
-Ft. Washington, Pennsylvania 19034   
+1625 South Congress Avenue, Suite 400  
+Delray Beach, FL   33445   
 Attn: Customer Service 
 
-You may request that we remove you from our postal mailing list and refrain from sharing your postal address with third parties by logging into your Service account and updating your preferences concerning advertising communications from us and third parties. You may also make such a request by sending us an e-mail addressed to [customercare@alfredangelo.com](mailto:customercare@alfredangelo.com). Please reference Postal Mailing List Removal in your subject line and include your postal mailing address in the body of your email. You may also write to us at Alfred Angelo, Inc., 1301 Virginia Drive, Suite 110, Ft. Washington, Pennsylvania 19034, Attn: Customer Service.
+You may request that we remove you from our postal mailing list and refrain from sharing your postal address with third parties by logging into your Service account and updating your preferences concerning advertising communications from us and third parties. You may also make such a request by sending us an e-mail addressed to [customercare@alfredangelo.com](mailto:customercare@alfredangelo.com). Please reference Postal Mailing List Removal in your subject line and include your postal mailing address in the body of your email. You may also write to us at Alfred Angelo, Inc., 1625 South Congress Avenue, Suite 400, Delray Beach, FL 33445,  Attn: Customer Service.
 
-If you would prefer not to receive our e-mail offers, please click on the "unsubscribe" link or follow the instructions in our e-mail message, or log into your account and update your preferences concerning advertising communications from us and third parties. You may also make such a request by sending us an e-mail addressed [customercare@alfredangelo.com](mailto:customercare@alfredangelo.com). Please reference E-mail List Removal in your subject line and include your email address in the body of the email. You may also write to us at Alfred Angelo, Inc.1301 Virginia Drive, Suite 110, Ft. Washington, Pennsylvania 19034 Attn: Customer Service 
+If you would prefer not to receive our e-mail offers, please click on the "unsubscribe" link or follow the instructions in our e-mail message, or log into your account and update your preferences concerning advertising communications from us and third parties. You may also make such a request by sending us an e-mail addressed [customercare@alfredangelo.com](mailto:customercare@alfredangelo.com). Please reference E-mail List Removal in your subject line and include your email address in the body of the email. You may also write to us at Alfred Angelo, Inc.1625 South Congress Avenue, Suite 400, Delray Beach, FL 33445 Attn: Customer Service 
 
 To opt out of text messages from Alfred Angelo, reply to the text message you received with the word STOP. 
 
