@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sweetwater.com privacy policy that was archived on 2013-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130508225445id_/http%3A//www.sweetwater.com/about/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sweetwater.com privacy policy that was archived on 2013-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131120232508id_/http%3A//www.sweetwater.com/about/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy | Sweetwater.com
 
@@ -9,6 +9,8 @@ We are glad that you have chosen to shop at Sweetwater.com. We are committed to 
 
   * **Information That You Provide Us**  
 We accept and store any information that you submit on Sweetwater.com or by any other means. For example, you may provide personal information when you place an order, enter a giveaway, request a publication, or contact us. This information may include name, address, phone numbers, email address, credit card and payment information, and other personal information.
+  * **Telephone Calls with Sweetwater**  
+We constantly review our own performance to ensure that we're providing exceptional service and support. Some phone calls are recorded or monitored for training purposes.
   * **Web Site Use Information**  
 We collect and analyze technical information about how customers interact with Sweetwater.com including, but not limited to, IP addresses, browser types, operating systems, pages viewed, links, dates and times, and other information.
   * **Cookies**  
