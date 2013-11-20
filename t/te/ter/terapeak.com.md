@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the terapeak.com privacy policy that was archived on 2013-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130605192746id_/http%3A//www.terapeak.com/policies/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the terapeak.com privacy policy that was archived on 2013-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131120165045id_/http%3A//www.terapeak.com/policies/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -6,7 +6,7 @@ Last Updated: 2013-04-08
 
 Terapeak Inc., a Delaware company, Advanced E-Commerce Research Systems, Inc. dba Terapeak, a British Columbia company, Terapeak GmbH, a German company, and their affiliates and subsidiaries (collectively “Terapeak”) are committed to protecting the privacy of users of the website terapeak.com (the "Website") and our online products and services (the “Products and Services”) in accordance with the requirements of Canadian federal and provincial privacy laws.
 
-**Terapeak has been awarded TRUSTe's Privacy Seal signifying that this privacy policy (the “Privacy Policy”) and practices have been reviewed by TRUSTe for compliance with[TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. This Privacy Policy covers the website [http://www.terapeak](http://www.terapeak/) and does not cover information that may be collected through downloadable software. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding this Privacy Policy or our practices with respect to privacy, please contact us via email at [privacy@terapeak.com](mailto:privacy@terapeak.com) or telephone at 1.866.959.8372 . If you are not satisfied with our response you can [contact TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint).**
+**Terapeak has been awarded TRUSTe's Privacy Seal signifying that this privacy policy (the “Privacy Policy”) and practices have been reviewed by TRUSTe for compliance with[TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. This Privacy Policy covers the website [http://www.terapeak.com](http://www.terapeak.com/) and does not cover information that may be collected through downloadable software. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding this Privacy Policy or our practices with respect to privacy, please contact us via email at [privacy@terapeak.com](mailto:privacy@terapeak.com) or telephone at 1.866.959.8372 . If you are not satisfied with our response you can [contact TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint).**
 
 ## PURPOSE
 
@@ -168,10 +168,13 @@ Notwithstanding any changes to our Privacy Policy, we will use personal informat
 
 If you have any questions, concerns or suggestions regarding this Privacy Policy or our privacy practices, please contact us at:
 
-**Terapeak / AERS**  
+**Terapeak Inc.**  
 102 – 3962 Borden St.  
 Victoria, BC, Canada V8P 3H8
 
 Phone: 1 (866) 959-8372  
 Fax: 1 (250) 483-9375  
 Email: [privacy@terapeak.com](mailto:privacy@terapeak.com)
+
+  
+
