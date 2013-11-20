@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the boreburn.com privacy policy that was archived on 2013-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130507102719id_/http%3A//boreburn.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boreburn.com privacy policy that was archived on 2013-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131120014926id_/http%3A//boreburn.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | BoreBurn
+# Privacy Policy ‹ BoreBurn
 
 **Privacy Policy for www.boreburn.com**
 
