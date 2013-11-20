@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the idol-mania.com privacy policy that was archived on 2013-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130531212001id_/http%3A//idol-mania.com/american-idol-fan/privacy-policy-for-idol-maniacom) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the idol-mania.com privacy policy that was archived on 2013-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131120033140id_/http%3A//idol-mania.com/american-idol-fan/privacy-policy-for-idol-maniacom) for the most accurate reproduction.*
 
 # Privacy Policy for Idol-Mania.com
 
