@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the semportland.com privacy policy that was archived on 2012-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120518210549id_/http%3A//www.sempdx.org/about_sempdx/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the semportland.com privacy policy that was archived on 2013-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131120224515id_/http%3A//www.sempdx.org/about_sempdx/privacy_policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# SEMpdx: Privacy Policy
 
 SEMpdx is commited to the privacy of our users. The following discloses our information gathering and dissemination practices. If you have questions or concerns regarding this statement, submit them online through our contact form.
 
