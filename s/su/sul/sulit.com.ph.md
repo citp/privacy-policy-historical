@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sulit.com.ph privacy policy that was archived on 2013-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130627203849id_/http%3A//www.sulit.com.ph/index.php/faq%2Bview/category/11/Sulit.com.ph%2BRules%2Band%2BPolicies%23f61) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sulit.com.ph privacy policy that was archived on 2013-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131120052327id_/http%3A//www.sulit.com.ph/index.php/faq%2Bview/category/11/Sulit.com.ph%2BRules%2Band%2BPolicies%23f61) for the most accurate reproduction.*
 
-# FAQ - Sulit.com.ph Rules and Policies Philippines
+# FAQ - Sulit.com.ph Rules and Policies - Philippines
 
 **Introduction**
 
