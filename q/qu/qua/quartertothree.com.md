@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the quartertothree.com privacy policy that was archived on 2013-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130519184841id_/http%3A//www.quartertothree.com/fp/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quartertothree.com privacy policy that was archived on 2013-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131120094105id_/http%3A//www.quartertothree.com/fp/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | Quarter to Three
 
 ### Privacy Policy for www.quartertothree.com
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at [tomwchick@gmail.com](mailto://tomwchick@gmail.com "Email Tom Chick").
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at [tomwchick@gmail.com](mailto://tomchick@quartertothree.com "Email Tom Chick").
 
 At www.quartertothree.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by www.quartertothree.com and how it is used.
 
