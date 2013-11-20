@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the youcandothecube.com privacy policy that was archived on 2013-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130520070017id_/http%3A//www.youcandothecube.com/constants/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the youcandothecube.com privacy policy that was archived on 2013-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131120090215id_/http%3A//www.youcandothecube.com/constants/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - You CAN Do the Rubik's Cube! Community
 
@@ -51,7 +51,7 @@ When a child under age thirteen participates in an activity that requires the co
 
 You can access and update the contact information provided to us during registration, or modify your opt-out choices, by going to the member account online page. At any time parents can review the personal information we have collected from their child, can refuse to permit us to collect further personal information, and can request that any personal information that we have collected be deleted from our records. A parent can contact our site operator to access, change, or delete the personal information that we have collected from his or her child by contacting us in one of the following ways:
 
-Email: info@youcandothecube.com  
+Email: HOLLYR@SevenTowns.com  
 Phone: 617-379-2988  
 Address: You CAN Do the Rubik's Cube! 10 Liberty Street, Danvers MA 01923
 
