@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the avinc.com privacy policy that was archived on 2013-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130520002132id_/http%3A//www.avinc.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the avinc.com privacy policy that was archived on 2013-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131120223712id_/http%3A//www.avinc.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy - AeroVironment, Inc.
 
-AeroVironment, Inc. (“AV”) is dedicated to protecting consumer privacy. This notice explains how AV collects, uses, and discloses information about you when you subscribe to our services and you visit our Web sites. **__**
+AeroVironment, Inc. (“AV”) is dedicated to protecting consumer privacy. This notice explains how AV collects, uses, and discloses information about you when you subscribe to our services and you visit our Websites. **__**
 
 **_Your use of this website, and/or receipt of AV’s and/or EV Solutions™ products or services constitutes acceptance of this Policy._**
 
@@ -14,11 +14,11 @@ AeroVironment, Inc. (“AV”) is dedicated to protecting consumer privacy. This
 2\. The nature, frequency, and purpose of any disclosure of information that we may make, including the types of persons or entities to whom the disclosure may be made.  
 3\. Your rights under the Communications Act, 47 U.S.C. § 338(i).   
 If you have questions about this Policy or other matters, you may contact us 24 hours a day, any day of the year, by phone (626) 357-9983, email privacy@avinc.com or mail:  
-AeroVironment, Inc. Privacy Policy 181 W. Huntington Dr., Suite 202 Monrovia, California 91016  
+AeroVironment, Inc., Privacy Policy , 181 W. Huntington Dr., Suite 202, Monrovia, California 91016  
 **  
 I. Types of Information we collect and how we collect it**
 
-In discussing the types of information we collect from customers and visitors to our websites we use the term “Customer Information” as a broad, general term that refers to any information relating to you and your AeroVironment and/or EV Solutions™ products or service (“EV Charging Products”), including Account Information, Service & Performance Information, Commerce Information, and Web Site Information. 
+In discussing the types of information we collect from customers and visitors to our websites we use the term “Customer Information” as a broad, general term that refers to any information relating to you and your AeroVironment and/or EV Solutions™ products or service (“EV Charging Products”), including Account Information, Service & Performance Information, Commerce Information, and Website Information. 
 
 The following are specific types of Customer Information that we collect from customers and visitors to our websites:
 
@@ -67,7 +67,7 @@ Industry Affiliates:** We may share Customer Information, including personally i
 **Marketing:** Unless you specifically opt-out, we may share Customer Information, including Service & Performance Information, with third parties other than Industry Affiliates, who offer products and services in which we think you might be interested.  These third parties may use this Customer Information to market their products or services to you.    
 When you elect to participate in a special offer or engage in a transaction with AV or a third party advertiser or promoter through our EV Commerce Websites, we will collect and disclose your Commerce Information, on your behalf, to the party sponsoring or fulfilling the promotion. This information is disclosed to a third party only upon your affirmative response to an offer. In addition to fulfilling your request, that party may also use your Commerce Information to send you other information in which you might be interested consistent with its own privacy policies.  
 **  
-Legal Requirements & Professional Services: **AV may share your Customer Information if it believes in good faith that such disclosure is: a) necessary to comply with a legal process, b) in response to legal claims, c) necessary to protect personal safety, property or other of your [or a third party’s?] rights, our rights and/or the rights of our service providers, or d) as part of a sale or assignment of all or a part of our business. AV may also disclose Customer Information to any person performing audit, legal, operational or other similar services for AV.  Whenever reasonably possible we will require any recipient of Customer Information for these purposes to agree in writing to hold the information in confidence, to use the information only for the permitted purpose, and to return or destroy the information when the services are completed.
+Legal Requirements & Professional Services: **AV may share your Customer Information if it believes in good faith that such disclosure is: a) necessary to comply with a legal process, b) in response to legal claims, c) necessary to protect personal safety, property or other of your [or a third party] rights, our rights and/or the rights of our service providers, or d) as part of a sale or assignment of all or a part of our business. AV may also disclose Customer Information to any person performing audit, legal, operational or other similar services for AV.  Whenever reasonably possible we will require any recipient of Customer Information for these purposes to agree in writing to hold the information in confidence, to use the information only for the permitted purpose, and to return or destroy the information when the services are completed.
 
 We may share with third parties certain pieces of non-personally identifiable information and aggregated non-personally identifiable information, for example, the number of customers located in a certain geographic area or how many hours a day customers with a particular type of electric vehicle are using their EV Charging Products. Such information will not identify you individually.  
 **  
@@ -105,4 +105,4 @@ IX. Changes to this Privacy Policy**
 
 AV shares Customer Information in accordance with the Privacy Policy in effect at the time the information is collected. We reserve the right to change this Privacy Policy at any time. If we make a significant change with regard to our collection or use of information about our customers, we will note on the main page of our Web sites that this Policy has been updated and may take additional reasonable steps to notify you about the new or revised Policy. Whenever possible, we will reasonably attempt to notify you in some way 30 days before the effective date of the change. To comment on or ask about this Policy, contact us by phone (626) 357-9983, email privacy@avinc.com or postal mail to: AV Privacy Policy, AeroVironment, Inc., 181 W. Huntington Dr., Suite 202, Monrovia, CA 91016.
 
-©2011 AeroVironment, Inc.
+© 2013 AeroVironment, Inc.
