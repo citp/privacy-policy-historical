@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the softcns.com privacy policy that was archived on 2013-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130610075121id_/http%3A//softcns.com/info/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the softcns.com privacy policy that was archived on 2013-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131120054145id_/http%3A//www.softcns.com/info/privacy.asp) for the most accurate reproduction.*
 
 # SoftCns.com Privacy Policy
 
-We provide more than 20,000 discount software. Save our customers over $8,000/day!
+We provide more than 10,000 most popular software at discounts. Save our customers over $2,000/day!
 
 [Home](http://www.softcns.com/) > Privacy policy
 
