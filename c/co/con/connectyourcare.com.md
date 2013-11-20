@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the connectyourcare.com privacy policy that was archived on 2013-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130519034810id_/http%3A//www.connectyourcare.com/cyc2/privacy-statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the connectyourcare.com privacy policy that was archived on 2013-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131120082226id_/http%3A//www.connectyourcare.com/cyc2/privacy-statement.html) for the most accurate reproduction.*
 
-# Administration of FSA, HRA, HSA and other tax-advantaged healthcare accounts.
+# ConnectYourCare · Administration of FSA, HRA, HSA and other tax-advantaged healthcare accounts.
 
 > Effective 9/29/2006
 
