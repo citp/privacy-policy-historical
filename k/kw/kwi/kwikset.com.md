@@ -1,131 +1,78 @@
-> *The following text is extracted and transformed from the kwikset.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204171633id_/http%3A//www.kwikset.com/website/Asp/Kw_npp_Privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kwikset.com privacy policy that was archived on 2013-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131120225020id_/http%3A//www.kwikset.com/Privacy.aspx) for the most accurate reproduction.*
 
-# Privacy
+# Kwikset : Privacy Policy
 
-We believe that your privacy on the Internet is extremely important. For this reason, Kwikset does not trade, sell or rent personal information collected about you to any third parties. The Privacy Policy outlined below explains how Kwikset may gather and use the information you provide. 
+###  PRIVACY STATEMENT 
 
-1\.  | What information does Kwikset collect and how does Kwikset use this information?  
----|---  
-2\.  | Does Kwikset share your information with other third parties?  
-3\.  | How do I stop Kwikset from contacting me via e-mail in the future?  
-4\.  | What is the policy regarding Kwikset's ownership of information?  
-5\.  | Will this Privacy Policy change?  
-6\.  | What about Kwikset's links to other sites?  
-  
-**What information does Kwikset collect and how does Kwikset use this information?**
+**SPECTRUM BRANDS HOLDINGS, INC. PRIVACY POLICY**  
+This privacy policy is effective on August 26, 2013.
 
-If you have previously given your personal information to us and no longer want to be contacted by Kwikset via email, you may take yourself off of our distribution list by doing any one of the following options:
+This policy describes Spectrum Brands Holdings, Inc.’s and its affiliated companies and subsidiaries (collectively “Spectrum”) practices with respect to information it collects and receives from users of this Site, including the types of information collected, how it is used, and with whom it is shared. 
 
- **Option 1**   
-If you have previously registered to receive emails from Kwikset or its   
-associates program and would no longer like to be contacted, you may opt-out by   
-following the individual termination instructions listed in the email that you   
-received. 
+This Privacy Policy applies only to information we collect from this Site, and does not apply to any other business activity of Spectrum. By using our site, you consent to the collection, maintenance and use of this information by us. If you do not agree to the terms of this policy and do not consent to the collection, use and maintenance of information as described in this policy, you should leave the Site immediately. 
 
-**__OR__** , if you prefer, you may follow the   
-instructions for either Option 2 or 3 below if they apply to you.
+We reserve the right to revise this policy at any time. When we do, we will give you notice of the revised Privacy Policy by posting the revised Privacy Policy on the Site and by revising the “effective date” at the top of this Privacy Policy. You are responsible for regularly reviewing the current privacy policy. 
 
- **Option 2**   
-_Site Registered Members Only:_  
+**PRIVACY OF CHILDREN**
 
+The Site is a general audience website. We do not intentionally collect personally identifiable information (as defined below) from users of this Site who are under the age of thirteen. If we become aware that a user of our Site is under the age of 13 and has provided information to us (e.g., placed an order, or entered a sweepstakes, contest or other promotion) using our Site, we will remove that child’s personal information from our files. We may use the information to provide notices to the parents of users under the age of 13 where that may be necessary. 
 
-  * Log onto the web site on the top navigation bar using your self-selected username and password
-  * Select "Edit Profile" from the top navigation bar
-  * Scroll down to the question: "Would you like to periodically receive information from Kwikset regarding new products and specials?" and select "No"
-  * Scroll down to the question: "May we contact you for future product or web site research?" and select "No"  
+**WHAT INFORMATION DO WE COLLECT AND HOW DO WE USE IT?**
 
-  * Then click on the button labeled "Submit
+We collect and store “personally identifiable information” and “automatic information.”
 
-  
+**Personal Information.** “Personally identifiable information” is information that tells us who you are, such as your first name, your last name, your postal address and zip code, your e-mail address, your telephone number, your hobbies and interests, and/or information regarding your pets and purchases.
 
+We may collect information from you if you register with our site or sign up for our newsletter, purchase products on our site, enter a sweepstakes or contest, submit a rebate or coupon request, or otherwise voluntarily provide the information to us (e.g., via our “Contact Us” web page, or in connection with ratings, reviews, requests for advice, suggestions, testimonials or any user-generated content, such as photographs and/or videos).
 
-**Option 3**
+You can choose not to provide personally identifiable information to us. However, if you do not provide such information, you will not be able to enter a sweepstakes or contest, and we may not respond to your “Contact Us” inquiry, send our newsletter to you, and/or process your rebate or coupon request.
 
-_This option is only applicable if you have contacted us by email using the form on our web site:_
+We may use the personally identifiable information we collect to process a rebate, coupon or other request that has been placed by you, notify you regarding sweepstakes and contests, send our newsletter to you, and/or for marketing Spectrum’s products and services (or those of affiliated companies or marketing partners) via email, postal mail and otherwise.
 
-Please visit 
+**Automatic Information.** “Automatic information” is information automatically collected by our web server (which may be hosted by a third-party), or third-party services (such as Google Analytics), that your web browser makes available whenever you visit our Site.
 
-_Review My Questions._
+Automatic Information is not generally associated with Personally Identifiable Information but, if it is, the Automatic Information will be treated as Personally Identifiable Information.
 
-Once you have arrived at the   
-location on our web site, simply follow the below steps: 
+We receive and store certain types of information whenever you interact with us. This includes HTML "cookies." A “cookie” is a small amount of data that is sent to your browser from a web server and stored on your computer's hard drive. Cookies provide a means for web sites that you visit to keep track of your online patterns and preferences. Among other things, cookies help us identify returning users, and they help us customize our service to a user’s needs. By understanding which areas of the Site a user visits, cookies allow us to present information, products and specials that are of personal interest.
 
-  
+Spectrum may also use Flash cookies, which track a user’s Internet use across websites, and are not deleted or controlled by users in the same manner as standard HTML cookies.
 
+In addition to cookies, for each visitor to the Site, our web server automatically recognizes and/or collects (where possible) certain information, such as your domain name, IP address, type of computer, type of web browser, screen size and characteristics (e.g., color, resolution), and operating system, and the city, state and/or country in which you are located. An IP address is a number assigned to your computer when you connect to the Internet. We may also collect information regarding your Internet browsing history (e.g., the site you visited before accessing our Site, the search engine and search terms that you used, and information about your previous visits to our Site), the length of your visit, the pages you viewed, your Internet service provider, the language settings on your computer, and certain software (e.g., Java support).
 
-  
+We may use such information for purposes of system administration, to improve the design and content of the Site, and/or to enable us to personalize your Internet experience. We also may use such information in the aggregate to analyze Site usage and/or to assess the traffic to the Site.
 
-  * Enter your email address and then click on the icon entitled "Submit."   
+**HOW DO WE SHARE THE INFORMATION WE COLLECT?**
 
-  * Once you have reached the "Recently Submitted Questions" page, click on the blue icon entitled "Customer Info."   
+We may transfer and otherwise disclose your personally identifiable information and automatic information to third parties that either are subject to this Privacy Policy or follow practices at least as protective as those described in this Privacy Policy.
 
-  * The last field on the "Customer Information" page asks you if you want to be contacted by Kwikset in the future. Change your selection to "no".   
+Without limiting the generality of the foregoing, we may transfer or otherwise disclose such information to third parties (a) for their marketing purposes, (b) that perform services on behalf of Spectrum, (c) in connection with the sale or purchase of subsidiaries or business units or the sale of Spectrum’s assets, (d) to conform to legal requirements or comply with legal process, (e) to protect and defend the rights or property of Spectrum or its affiliated companies, (f) to identify, contact and/or bring legal action against someone who may have breached our Terms of Use, and/or (g) to act to protect the interests of our site, users or others.
 
-  * Click on the button labeled "Save".
+**IS THE INFORMATION COLLECTED SECURE?**
 
+Information transmitted on the Internet and/or stored on systems attached to the Internet is not 100% secure. As a result, we do not ensure, warrant or guarantee the security or integrity of such information. We will not be responsible for disclosure of any information due to errors in transmission or the unauthorized acts of third parties.
 
+**CAN I ACCESS THE INFORMATION COLLECTED?**
 
-**Does Kwikset share your information with other third parties?**
+If you would like to review the personally identifiable information that we have collected about you online, please send your name, street address, telephone number and e-mail address to us by regular mail to the following address:
 
-  
+Spectrum Brands, Inc. 601 Rayovac Drive, Madison, WI 53711 attention: Information Services Department.
 
-  * We do not sell, rent, or trade your personal   
-information to third parties. However, we may share personal information with   
-our sister companies, affiliates and business partners in order to facilitate   
-your purchase, the process of servicing your products, to help you exchange   
-your products, and in general to better serve you. And we may receive   
-information about you from other sources and add it to our account   
-information. We also sometimes receive updated delivery and address   
-information from our shippers or other sources so that we can correct our   
-records and deliver your next purchase or communication more easily.   
+We will send you the personally identifiable information that we have collected about you online. If you would like to correct any factual errors, please note such corrections and send them to us at the same address listed above, so that we may make the corrections that you have requested.
 
-  * Kwikset may share aggregate data about our sales, customers, traffic   
-patterns, and other related site information with respectable third parties.   
-None of this data is related to any individual's name without their consent   
+**DO I HAVE ANY CHOICES REGARDING THE INFORMATION COLLECTED?**
 
+You can choose not to provide personal information. 
 
+**CHANGES TO THIS PRIVACY POLICY**
 
+We reserve the right to revise this Privacy Policy at anytime. When we do, we will also revise the "effective" date at the top of this Privacy Policy. You are responsible for regularly reviewing the current Privacy Policy. The most current version of the Privacy Policy can be reviewed by clicking on the "Privacy Policy" hypertext link located at the bottom of our web pages. Your continued use of the Site after we post any revisions constitutes your agreement to any such revisions. If any such revisions are unacceptable to you, do not access the Site and do not submit any information to us.
 
+**Links to Other Websites**
 
-**How do I stop Kwikset from contacting me via e-mail in the future?**
+While you are using this Site, you may be linked or directed to other third party sites outside of the Site that are beyond our control. Each of these third party sites may have a privacy policy different from ours. For example, you might click on a link or banner ad that will take you off the Site. These links and banners may take you to sites of advertisers, sponsors and co-branding partners. Please review the privacy policies of these sites. We are not responsible for any actions or policies of such third parties.
 
-If you have previously given your personal information to us and no longer want to be contacted by Kwikset via email, you may take yourself off of our distribution list by doing any one of the following options:
+**CONTACT INFORMATION**
 
- **Option 1**   
-If you have previously registered to receive emails from Kwikset or its associates program and would no longer like to be contacted, you may opt-out by following the individual termination instructions listed in the email that you received. 
+We welcome your comments regarding this Privacy Policy. If you have questions or concerns regarding this Privacy Policy, please e-mail us at www.spectrumbrands.com or contact us by U.S. mail at:
 
-**__OR__** , if you prefer, you may follow the instructions for either Option 2 or 3 below if they apply to you.
-
- **Option 2**   
-_Site Registered Members Only:_
-
-  * Log onto the web site on the top navigation bar using your self-selected username and password
-  * Select "Edit Profile" from the top navigation bar
-  * Scroll down to the question: "Would you like to periodically receive information from Kwikset regarding new products and specials?" and select "No"
-  * Scroll down to the question: "May we contact you for future product or web site research?" and select "No" 
-  * Then click on the button labeled "Submit" 
-
-
-
-**Option 3**  
- _This option is only applicable if you have contacted us by email using the form on our web site:_  
-Please visit _Review My Questions._ Once you have arrived at the location on our web site, simply follow the below steps: 
-
-  * Enter your email address and then click on the icon entitled "Submit."
-  * Once you have reached the "Recently Submitted Questions" page, click on the blue icon entitled "Customer Info."
-  * The last field on the "Customer Information" page asks you if you want to be contacted by Kwikset in the future. Change your selection to no".
-  * Click on the button labeled "Save".
-
-
-
-**What is the policy regarding Kwikset's ownership of information?**
-
-All opinions, ideas, suggestions, and other feedback submitted to our web-sites may be used by Kwikset, without any restriction and free of charge, and nothing contained in this policy shall limit or otherwise affect this. There may be instances where we request or permit the submission of your opinions/ideas. In such instances you will be required to agree to the terms of a Kwikset prepared agreement related to the provision of such information prior to its submission.
-
-**Will this Privacy Policy change?**
-
-Kwikset may change this policy at any time, so please review this policy periodically.
-
-**What about Kwikset's links to other sites?**
-
-We may add external links to other related web-sites. We will certainly try to link to web-sites that maintain the same high regard for privacy on the Internet as we do; however, we are not responsible for the content that may be on such linked sites. Additionally, the existence of any external link does not suggest that Kwikset endorses the linked company, product or service.
+Spectrum Brands, Inc., 601 Rayovac Drive, Madison, WI 53711 attention: Legal Department.
