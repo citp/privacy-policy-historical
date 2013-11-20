@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bingoliner.co.uk privacy policy that was archived on 2013-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130512025517id_/http%3A//www.bingoliner.co.uk/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bingoliner.co.uk privacy policy that was archived on 2013-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131120223410id_/http%3A//www.bingoliner.co.uk/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy - Bingo Liner UK
 
