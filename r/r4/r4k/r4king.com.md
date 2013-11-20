@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the r4king.com privacy policy that was archived on 2011-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110427055607id_/http%3A//www.r4king.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the r4king.com privacy policy that was archived on 2013-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131120071320id_/http%3A//r4king.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Notice
-
-#### You're currently on:
 
 We understand that you are very concerned about the usage and sharing of your personal information. And we are very appreciated your belief on our prudence and sensitivity handling this issue. This declaration will specify our policy regarding the protection of your privacy. Our website is under the operation of r4king.com Inc.  
 If you have visited our website, that will be considered to be your acceptance to this privacy policy.
