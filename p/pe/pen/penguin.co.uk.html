@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the penguin.co.uk privacy policy that was archived on 2013-06-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130605203659id_/http%3A//www.penguin.co.uk/static/cs/uk/0/penguin_privacyterms/privacypolicy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the penguin.co.uk privacy policy that was archived on 2013-11-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131120093530id_/http%3A//www.penguin.co.uk/static/cs/uk/0/penguin_privacyterms/privacypolicy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en" itemscope="" itemtype="http://schema.org/Book"><head>
 <title>Privacy Policy - Penguin Books Ltd</title>
@@ -20,7 +20,7 @@
 
 <link rel="STYLESHEET" type="text/css" href="cookie.css">
 
-<script id="twitter-wjs" src="//platform.twitter.com/widgets.js"></script><script src="../scripts/dynamicpage.js" type="text/javascript"></script>
+<script id="twitter-wjs" src="//platform.twitter.com/widgets.js"></script><script type="text/javascript" async="" src="http://i.po.st/static/v3/post-widget.js"></script><script src="../scripts/dynamicpage.js" type="text/javascript"></script>
 
 <script type="text/javascript">
 function sendFriendLink() {
@@ -58,7 +58,27 @@ CoreSetOid = 590614;
 
 <!-- JS -->
 
-<script src="/static/cs/uk/0/navigation/jquery-1.7.1.js" type="text/javascript"></script>
+
+<!--ASYNC LOAD-->
+<script type="text/javascript">
+var pwidget_config = {
+        defaults: {
+          afterShare: false,
+   },
+    publisherKey:"evqo4ve4rnr92h1h93j4",    
+};
+(function ()
+{
+    var s = document.createElement('script');
+    s.type = 'text/javascript';
+    s.async = true;
+    s.src = 'http://i.po.st/static/v3/post-widget.js';
+    var x = document.getElementsByTagName('script')[0];
+    x.parentNode.insertBefore(s, x);
+})();
+</script>
+<!--END OF ASYNC LOAD-->
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js" type="text/javascript"></script>
 <script src="/static/cs/uk/0/navigation/global.js" type="text/javascript"></script>
 
 <!-- CSS -->
@@ -70,6 +90,7 @@ CoreSetOid = 590614;
 @import url('http://www.penguin.co.uk/static/cs/uk/0/css/navigation.css');
 @import url('http://www.penguin.co.uk/static/cs/uk/0/css/globalpages.css');
 </style>
+
 
 <!-- TWITTER Script -->
 <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
@@ -106,16 +127,18 @@ window.open(ref, name,options);
 
 
 
-<script src="/static/cs/uk/0/navigation/jquery.cookie.js"></script>
-<script src="/static/cs/uk/0/navigation/jquery.cookiecuttr.js"></script>
+<script src="http://www.penguin.co.uk/static/cs/uk/0/navigation/jquery.cookie.js"></script>
+<script src="http://www.penguin.co.uk/static/cs/uk/0/navigation/jquery.cookiecuttr.js"></script>
 
 <script>
-$(document).ready(function () {
-$.cookieCuttr();
+jQuery(document).ready(function () {
+jQuery.cookieCuttr();
 });
 </script>
-<link rel="stylesheet" href="/static/cs/uk/0/navigation/cookiecuttr.css">
 
+
+
+<link rel="stylesheet" href="http://www.penguin.co.uk/static/cs/uk/0/navigation/cookiecuttr.css">
 
 
 
@@ -126,19 +149,15 @@ $.cookieCuttr();
 
 		<div id="penguinsocial-container">
 			<ul class="share">
-				<li style="margin-right: 20px;"><script src="http://connect.facebook.net/en_US/all.js#xfbml=1"></script><fb:like href="" send="false" layout="button_count" width="110" show_faces="false" font="trebuchet ms"></fb:like></li>
-				<li><script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script><g:plusone size="medium"></g:plusone></li>
-				<li><a href="https://twitter.com/share" class="twitter-share-button" data-url="" data-hashtags="penguinbook" style="font: bold 11px 'Trebuchet MS'; color: #000; text-decoration: none;">Tweet</a></li>
-
-				<!--
-				<li><a href="http://pinterest.com/pin/create/button/?url=http%3A%2F%2Fwww.penguin.co.uk&media=http%3A%2F%2Fwww.penguin.co.uk" class="pin-it-button" count-layout="horizontal"><img border="0" src="//assets.pinterest.com/images/PinExt.png" title="Pin It" /></a></li>
-				-->
-			</ul>
-			
+				<li style="margin-right: 10px;"><script src="http://connect.facebook.net/en_US/all.js#xfbml=1"></script><fb:like href="" send="false" layout="button_count" width="110" show_faces="false" font="trebuchet ms"></fb:like></li>
+			<li>	<a class="pw-button-facebook pw-look-native  pw-share-popups"></a></li>
+            <li>    <a class="pw-button-googleplus pw-look-native  pw-share-popups"></a></li>
+            <li>    <a class="pw-button-twitter pw-look-native  pw-share-popups"></a></li>
+            </ul>
 	
 			<ul class="follow">
 				<li class="followtext">» Follow <span class="orange">Penguin</span>Books</li>
-				<li><a href="http://www.facebook.com/PenguinUKBooks" target="_blank"><img src="/static/cs/uk/0/navigation/images/social/follow_facebook_logo.png" alt="Follow Penguin Books on Facebook" title="Follow Penguin Books on Facebook" width="26" height="26" border="0"></a></li>
+				<li><a href="https://www.facebook.com/penguinbooks" target="_blank"><img src="/static/cs/uk/0/navigation/images/social/follow_facebook_logo.png" alt="Follow Penguin Books on Facebook" title="Follow Penguin Books on Facebook" width="26" height="26" border="0"></a></li>
 				<li><a href="http://twitter.com/PenguinUKBooks" target="_blank"><img src="/static/cs/uk/0/navigation/images/social/follow_twitter_logo.png" alt="Follow Penguin Books on Twitter" title="Follow Penguin Books on Twitter" width="26" height="26" border="0"></a></li>
 				<li><a href="http://pinterest.com/penguinukbooks/" target="_blank"><img src="/static/cs/uk/0/navigation/images/social/follow_pintrest_logo.png" alt="Follow Penguin Books on Pintrest" title="Follow Penguin Books on Pintrest" width="26" height="26" border="0"></a></li>
 			</ul>
@@ -148,9 +167,9 @@ $.cookieCuttr();
 			</ul>
 			
 		</div>
-	
 	</div>
 </div>
+
     
 <div id="headerFixedContainer">
 	<div id="social_content">
@@ -159,18 +178,15 @@ $.cookieCuttr();
 
 		<div id="penguinsocial-container">
 			<ul class="share">
-				<li style="margin-right: 20px;"><script src="http://connect.facebook.net/en_US/all.js#xfbml=1"></script><fb:like href="" send="false" layout="button_count" width="110" show_faces="false" font="trebuchet ms"></fb:like></li>
-				<li><script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script><g:plusone size="medium"></g:plusone></li>
-				<li><a href="https://twitter.com/share" class="twitter-share-button" data-url="" data-hashtags="penguinbook" style="font: bold 11px 'Trebuchet MS'; color: #000; text-decoration: none;">Tweet</a></li>
-				
-				<!--
-				<li><a href="http://pinterest.com/pin/create/button/?url=http%3A%2F%2Fwww.penguin.co.uk&media=http%3A%2F%2Fwww.penguin.co.uk" class="pin-it-button" count-layout="horizontal"><img border="0" src="//assets.pinterest.com/images/PinExt.png" title="Pin It" /></a></li>
-				-->
-			</ul>
+				<li style="margin-right: 10px;"><script src="http://connect.facebook.net/en_US/all.js#xfbml=1"></script><fb:like href="" send="false" layout="button_count" width="110" show_faces="false" font="trebuchet ms"></fb:like></li>
+			<li>	<a class="pw-button-facebook pw-look-native  pw-share-popups"></a></li>
+            <li>    <a class="pw-button-googleplus pw-look-native  pw-share-popups"></a></li>
+            <li>    <a class="pw-button-twitter pw-look-native  pw-share-popups"></a></li>
+            </ul>
 	
 			<ul class="follow">
 				<li class="followtext">» Follow <span class="orange">Penguin</span>Books</li>
-				<li><a href="http://www.facebook.com/PenguinUKBooks" target="_blank"><img src="/static/cs/uk/0/navigation/images/social/follow_facebook_logo.png" alt="Follow Penguin Books on Facebook" title="Follow Penguin Books on Facebook" width="26" height="26" border="0"></a></li>
+				<li><a href="https://www.facebook.com/penguinbooks" target="_blank"><img src="/static/cs/uk/0/navigation/images/social/follow_facebook_logo.png" alt="Follow Penguin Books on Facebook" title="Follow Penguin Books on Facebook" width="26" height="26" border="0"></a></li>
 				<li><a href="http://twitter.com/PenguinUKBooks" target="_blank"><img src="/static/cs/uk/0/navigation/images/social/follow_twitter_logo.png" alt="Follow Penguin Books on Twitter" title="Follow Penguin Books on Twitter" width="26" height="26" border="0"></a></li>
 				<li><a href="http://pinterest.com/penguinukbooks/" target="_blank"><img src="/static/cs/uk/0/navigation/images/social/follow_pintrest_logo.png" alt="Follow Penguin Books on Pintrest" title="Follow Penguin Books on Pintrest" width="26" height="26" border="0"></a></li>
 			</ul>
@@ -183,7 +199,7 @@ $.cookieCuttr();
 	
 	</div>	
 </div>
-    
+  
 <script>  
     $("#social_content")
     .appendTo(".social_container");
@@ -193,7 +209,7 @@ $.cookieCuttr();
 		
 		<div id="masthead-logo-search">
 			<div id="penguinbooksmasthead-logo">
-				<a href="http://www.penguin.co.uk" class="penguin-logo"><img src="/static/cs/uk/0/navigation/images/penguinbooks_logo_penguin.png" alt="Penguin Books" title="Penguin Books" border="0" class="mastheadlogo"></a>
+				<a href="http://www.penguin.co.uk" class="penguin-logo"><img src="http://www.penguin.co.uk/static/cs/uk/0/navigation/images/Penguin_logo.png" alt="Penguin Books" title="Penguin Books" border="0" class="mastheadlogo"></a>
 				
 				<!--<div class="penguinbooksmasthead"><h1><a href="http://www.penguin.co.uk" class="penguinbooksmasthead"><span class="orange">Penguin</span>Books</a></h1></div>
 				-->
@@ -223,7 +239,7 @@ $.cookieCuttr();
 				<li><a class="first more">Penguin Social</a>
 					
 					<ul class="triple dropdown">
-						<li><a href="http://www.facebook.com/PenguinUKBooks" title="Facebook. This link opens in a new window." target="_blank" onclick="sc_tracktopnavlinks('Social_Facebook')">Facebook</a></li>
+						<li><a href="https://www.facebook.com/penguinbooks" title="Facebook. This link opens in a new window." target="_blank" onclick="sc_tracktopnavlinks('Social_Facebook')">Facebook</a></li>
 						
 						<li><a href="https://plus.google.com/101414138205420067910/posts" title="Google+. This link opens in a new window." target="_blank" onclick="sc_tracktopnavlinks('Social_GPlus')">Google+</a></li>
 						
@@ -271,8 +287,7 @@ $.cookieCuttr();
 					<ul class="double dropdown">
 						<li><a href="http://www.penguin.co.uk/static/cs/uk/0/penguin_tasters/index.html" title="Penguin Tasters" onclick="sc_tracktopnavlinks('Chapter_Tasters')">Penguin Tasters</a></li>
 						
-						<li><a href="http://www.penguin.co.uk/static/cs/uk/0/penguin_ebooktasters/index.html" title="Penguin eBook Tasters" onclick="sc_tracktopnavlinks('Chapter_eTasters')">eBook Tasters</a></li>
-					
+									
 						<span class="col2">
 							<div class="colcontent">
 								<p>First chapters of our latest releases are available for you to download for free!</p>
@@ -309,26 +324,34 @@ $.cookieCuttr();
 					<ul class="triple dropdown" style="">
 						<li><a href="http://www.penguin.co.uk/static/cs/uk/0/gifts/index.html" title="Penguin Gifts" onclick="sc_tracktopnavlinks('Gifts')">Gifts</a>
 							<ul>
-								<li class="twoline" style="height: 53px;"><a href="http://www.penguin.co.uk/static/cs/uk/0/gifts/giftsforalifetime.html" title="Gifts for a Lifetime" onclick="sc_tracktopnavlinks('Gifts_Lifetime')">Gifts for a<br>Lifetime</a></li>
+                            <li class="twoline" style="height: 53px;"><a href="http://www.penguin.co.uk/static/cs/uk/0/gifts/xmas.html" title="Gifts for a Lifetime" onclick="sc_tracktopnavlinks('Gifts_Lifetime')">A Penguin<br>Christmas</a></li>
+                            
+								<li class="twoline" style="height: 53px;"><a href="http://www.penguin.co.uk/static/cs/uk/0/gifts/pel2.html" title="Gifts for a Lifetime" onclick="sc_tracktopnavlinks('Gifts_Lifetime')">Gifts for a<br>Lifetime</a></li>
 								
-								<li><a href="http://www.penguin.co.uk/static/cs/uk/0/gifts/postcards.html" title="Postcards" onclick="sc_tracktopnavlinks('Gifts_Postcards')">Postcards</a></li>
+                                <li class="twoline" style="height: 53px;"><a href="http://www.penguin.co.uk/static/cs/uk/0/gifts/collection.html" title="Gifts for a Lifetime" onclick="sc_tracktopnavlinks('Gifts_Lifetime')">Penguin<br>Collection</a></li>
 								
-								<li><a href="http://www.penguin.co.uk/static/cs/uk/0/gifts/index.html" title="Bestsellers" onclick="sc_tracktopnavlinks('Gifts_Best-sellers')">Bestsellers</a></li>
+                                
+							<!--	<li><a href="http://www.penguin.co.uk/static/cs/uk/0/gifts/postcards.html" title="Postcards"  onclick="sc_tracktopnavlinks('Gifts_Postcards')">Postcards</a></li>
 								
-								<li><a href="http://www.penguin.co.uk/static/cs/uk/0/gifts/cookbooks.html" title="Cookbooks" onclick="sc_tracktopnavlinks('Gifts_Cookbooks')">Cookbooks</a></li>
+								<li><a href="http://www.penguin.co.uk/static/cs/uk/0/gifts/index.html" title="Bestsellers"  onclick="sc_tracktopnavlinks('Gifts_Best-sellers')">Bestsellers</a></li>
 								
-								<li><a href="http://www.penguin.co.uk/static/cs/uk/0/gifts/christeningbooks.html" title="Christening Books" onclick="sc_tracktopnavlinks('Gifts_Christening')">Christening Books</a></li>
+								<li><a href="http://www.penguin.co.uk/static/cs/uk/0/gifts/cookbooks.html" title="Cookbooks"  onclick="sc_tracktopnavlinks('Gifts_Cookbooks')">Cookbooks</a></li>
 								
-								<li><a href="http://www.penguin.co.uk/static/cs/uk/0/gifts/backtoschool.html" title="Back to School" onclick="sc_tracktopnavlinks('Gifts_Back-to-school')">Back to School</a></li>
+								<li><a href="http://www.penguin.co.uk/static/cs/uk/0/gifts/christeningbooks.html" title="Christening Books"  onclick="sc_tracktopnavlinks('Gifts_Christening')">Christening Books</a></li>
+								
+								<li><a href="http://www.penguin.co.uk/static/cs/uk/0/gifts/backtoschool.html" title="Back to School"  onclick="sc_tracktopnavlinks('Gifts_Back-to-school')">Back to School</a></li>  -->
 							</ul>
 						</li>
 						
 						<span class="col2" style="">
 							<li><a href="http://www.penguin.co.uk/static/cs/uk/0/penguin_offers/index.html" title="Penguin Offers" onclick="sc_tracktopnavlinks('Gifts_Offers')">Offers</a></li>
 							
-							<li class="twoline" style="height: 68px"><a href="http://www.penguin.co.uk/static/cs/uk/0/penguin_collection/index.html" title="Penguin Collection" onclick="sc_tracktopnavlinks('Gifts_Collection')">Penguin Collection - Penguin branded merchandise</a></li>
-							
-							<li class="twoline" style="height:53px;width:129px;border-bottom:1px solid #e3eaeb;"><a href="http://www.penguin.co.uk/static/cs/uk/0/competition/index.html" title="Penguin Competitions" onclick="sc_tracktopnavlinks('Gifts_Comps')">Competitions <span class="amp">&amp;</span><br>Prize Draws</a></li>
+						<!--	<li class="twoline" style="height: 68px"><a href="http://www.penguin.co.uk/static/cs/uk/0/penguin_collection/index.html" title="Penguin Collection"  onclick="sc_tracktopnavlinks('Gifts_Collection')">Penguin Collection - Penguin branded merchandise</a></li>
+	-->
+    <li class="twoline" style="height:53px;width:129px;"><a href="http://www.penguin.co.uk/static/cs/uk/0/competition/index.html" title="Penguin Competitions" onclick="sc_tracktopnavlinks('Gifts_Comps')">Competitions <span class="amp">&amp;</span><br>Prize Draws</a></li>
+
+    						
+							<li class="twoline" style="height:73px;width:129px;border-bottom:1px solid #e3eaeb;"><a href="http://www.penguin.co.uk/static/cs/uk/0/gifts/pel_sale.html" title="Penguin Competitions" onclick="sc_tracktopnavlinks('Gifts_Comps')">3 for £9.99 on<br> the Penguin English<br> Library</a></li>
 						</span>
 					
 						<span class="col3">
@@ -344,8 +367,6 @@ $.cookieCuttr();
 			
 					<ul class="double dropdown" style="">
 						<li class="twoline" style="height: 53px;"><a href="http://www.penguin.co.uk/static/cs/uk/0/epenguin/index.html" title="eBooks" onclick="sc_tracktopnavlinks('Apps-eBooks_all')">eBooks<br> - all Penguin eBooks</a></li>
-						
-						<li class="twoline" style="height: 53px;"><a href="http://www.penguin.co.uk/static/cs/uk/0/penguin_ebooktasters/index.html" title="eBook Tasters" target="" onclick="sc_tracktopnavlinks('Apps-eBooks_First-chapters')">eBook Tasters<br>- First chapters</a></li>
 						
 						<li><a href="http://www.penguin.co.uk/static/cs/uk/0/epenguin/faq.html" title="eBook FAQ" onclick="sc_tracktopnavlinks('Apps-eBooks_FAQ')">eBook FAQ</a></li>
 						
@@ -460,10 +481,15 @@ $.cookieCuttr();
 			</ul>
 		</div>
 		
+		<!-- newsletter signup button start -->
+		
 		<div id="penguinuser-container">
-			<ul class="newsletter">
-				<li class="newslettertext"><a href="http://www.penguin.co.uk/static/cs/uk/0/penguin_newslettersignup/penguin_newsletter_personalise.html">Hear from <span class="orange">Penguin</span>Books</a></li>
+			
+			<ul style="background: url(http://www.penguin.co.uk/static/cs/uk/0/navigation/images/newsletter_signup_button_background.png) no-repeat left 2px;" class="newsletter">
+				<li class="newslettertext"><a href="http://www.penguin.co.uk/static/cs/uk/0/penguin_newslettersignup/penguin_newsletter_personalise.html" onclick="sc_tracktopnavlinks('Sign_up_to_newsletter_top_nav')">Sign up to <span class="orange">Newsletter</span></a></li>
 			</ul>
+			
+		<!-- newsletter signup button end -->
 
 			<ul class="account">
 				<li><a href="#" onclick="javascript:window.open('http://www.penguin.co.uk/static/html/uk/ecommerce/ship_costs.html','help3','width=550,height=500,scrollbars=yes');">» Free UK P&amp;P</a></li>
@@ -523,7 +549,7 @@ $.cookieCuttr();
 
 			<p><strong>By using our websites you accept the terms of this Privacy Policy.</strong></p>
 			
-						<p>&nbsp;</p>
+			<p>&nbsp;</p>
 			
 			<p class="sectiontitle">Personal Information </p>
 			<p>We will not collect any personal data from you unless you specifically provide it and we will only use that information for the purposes to which you have consented.  We do not ask you to provide any more information than is reasonably necessary to enable you to participate in an activity on our website and to improve the website.</p>
@@ -722,10 +748,85 @@ $.cookieCuttr();
 			London<br>
 			WC2R 0RL<br><br>
 			or by telephoning: 020 7010 3000.</p>
+
+			<p style="margin: 25px 0 25px 0;">&nbsp;</p>
 			
-			<p>Last Updated: 18 May 2012</p>
+			<p class="sectiontitle">Privacy Policy: Apps</p>
+			
+			<p>This policy applies to software applications, enhanced ebooks and other similar digital products published by Penguin Books Limited, Dorling Kindersley Limited, Ladybird Books Limited, Frederick Warne &amp; Co. Limited and Rough Guides Limited. Such products are referred to in this Policy as "Apps".</p>
+
+			<p><strong>By using any of our Apps you accept the terms of this Privacy Policy.</strong></p>
 
 			<p>&nbsp;</p>
+			
+			<p class="sectiontitle">Our Privacy Policy </p>
+			
+			<p>This Privacy Policy is designed to give you useful information about how we collect and use personal information in our Apps. </p>
+		
+			<p>&nbsp;</p>
+			
+			<p class="sectiontitle">Personal Information </p>
+			
+			<p>We will not collect any personal data from you unless you expressly provide it and we will only use that information for the purposes to which you have consented.  We do not ask you to provide any more information than is reasonably necessary for the intended purposes, such as those listed below.</p>
+			
+			<p>Generally, we do not disclose your personal information to third parties. We may have to sometimes, in which case we will inform you of our intention to do so when we collect the information and you will have the opportunity to consent to that or not.
+			Except as described in this Privacy Policy, we do not maintain any personal information obtained from users through our Apps in a retrievable form.</p>
+			
+			<p>&nbsp;</p>
+			
+			<p class="sectiontitle">The information that we collect and how we use it</p>
+			<p>Below are some examples of when we might request your information and how we will use it.</p>
+			
+			<p>&nbsp;</p>
+			
+			<p class="sectiontitle">User Content</p>
+			<p>If you provide comments or upload your own content to our Apps, we may ask you to provide your name and email address so that we know who posts which comment and to enable us to deal with any inappropriate, offensive or illegal material. </p> 
+			
+			<p>&nbsp;</p>
+			
+			<p class="sectiontitle">Email and other contact details</p>
+			<p>You may wish to contact us from time to time by sending us emails or by filling in contact forms that may be accessible from our Apps. We will only use this information to respond to your query or suggestion.</p>
+			
+			<p>&nbsp;</p>
+			
+			<p class="sectiontitle">In-app purchasing</p>
+			<p>If you make an in-app purchase through one of our Apps, we will not collect any financial information from you and that information will remain with the relevant app store.  However, we may collect information about which purchases have made so that we can ascertain which of our products are most popular and how we might improve our Apps in the future.</p>
+			
+			<p>&nbsp;</p>
+			
+			<p class="sectiontitle">Newsletters</p>
+			<p>We have several newsletters that keep readers up-to-date with information on our books, products, authors, events and offers. If you would like to subscribe to one of our newsletters, we will require you to send us your email address so that we can send the newsletter to you.  We may also ask you to provide other information about yourself, such as your name, age, gender and location so that we can personalise your newsletters.</p>
+			
+			<p>&nbsp;</p>
+			
+			<p class="sectiontitle">Prize Promotions</p>
+			<p>We may run competitions and prize draws through our Apps for which, in addition to your answer or entry, we may require you to send us certain information, such as your name and email address. We will only use this information to administer the promotion and for any other purpose to which you consented at the time you entered the promotion.</p>
+			
+			<p>&nbsp;</p>
+			
+			<p class="sectiontitle">Anonymous aggregated analytics data</p>
+			<p>Many of our Apps use the Flurry analytics tool. This collects anonymous data which tell us how users interact with our Apps and we will analyse that data to help us decide how to build better Apps in the future. </p>
+			
+			<p>&nbsp;</p>
+			
+			<p>If you wish to opt-out from Flurry analytics, please follow this link: <a href="http://www.flurry.com/resources/privacy.html" class="bodylink" target="_blank">http://www.flurry.com/resources/privacy.html</a></p>
+			
+			<p>&nbsp;</p>
+			
+			<p class="sectiontitle">How to contact us</p>
+			<p>If you have any questions about our Apps or our Privacy Policy, please contact us by writing to:</p>
+			
+			<p>Digital Publishing<br>
+			Penguin Books Limited<br>
+			80 Strand<br>
+			London<br>
+			WC2R 0RL<br><br>
+			or by telephoning: 020 7010 3000.</p>
+			
+			
+			<p>Last Updated: 6 November 2012</p>
+			
+			<p style="margin: 25px 0 25px 0;">&nbsp;</p>
 			
 			<div id="backtotop">
 	  			<ul>
@@ -770,7 +871,6 @@ $.cookieCuttr();
 <!--PAGE FOOTER STARTS HERE-->
 
 		
-
 	<div id="footer-container">
 		
 		<div class="topnavbar">
@@ -778,8 +878,9 @@ $.cookieCuttr();
 				<li><a class="first more">Penguin Social</a>
 					
 					<ul class="triple dropdown">
-						<li><a href="http://www.facebook.com/PenguinUKBooks" title="Facebook. This link opens in a new window." target="_blank">Facebook</a></li>
+						<li><a href="https://www.facebook.com/penguinbooks" title="Facebook. This link opens in a new window." target="_blank">Facebook</a></li>
 						<li><a href="https://plus.google.com/101414138205420067910/posts" title="Google+. This link opens in a new window." target="_blank">Google+</a></li>
+
 						<li><a href="http://pinterest.com/penguinukbooks/" title="Pinterest. This link opens in a new window." target="_blank">Pinterest</a></li>
 						<li><a href="http://soundcloud.com/penguin-books/" title="SoundCloud. This link opens in a new window." target="_blank">SoundCloud</a></li>
 						<li><a href="http://twitter.com/PenguinUKBooks" title="Twitter. This link opens in a new window." target="_blank">Twitter</a></li>
@@ -787,6 +888,7 @@ $.cookieCuttr();
 
 						<span class="col2">
 							<li><a href="http://thepenguinblog.typepad.com" title="Penguin Blog. This link opens in a new window." target="_blank">The Penguin Blog</a></li>
+
 							<li><span class="youtube">YouTube:</span>
 								<ul>
 									<li><a href="http://www.youtube.com/user/PenguinBooks" title="Penguin Books UK YouTube. This link opens in a new window." target="_blank">Penguin Books UK</a></li>
@@ -794,6 +896,7 @@ $.cookieCuttr();
 								</ul>
 							</li>
 						</span>
+
 						<span class="col3" style="">
 							<div class="colcontent">
 								<p>Join in the conversation with Penguin Books across all our social media channels. </p>
@@ -805,6 +908,7 @@ $.cookieCuttr();
 				</li>
 			
 				<li><a href="http://www.penguin.co.uk/static/cs/uk/0/penguin_events/index.html" class="moretext">Events</a>
+
 					<ul class="single-text dropdown" style="">
 						<span class="col1">
 							<div class="colcontent-justtext">
@@ -812,6 +916,7 @@ $.cookieCuttr();
 							</div>
 						</span>
 					</ul>
+
 				</li>
 			
 				<li><a class="more">First Chapters</a>
@@ -822,6 +927,7 @@ $.cookieCuttr();
 					
 						<span class="col2">
 							<div class="colcontent">
+
 								<p>First chapters of our latest releases are available for you to download for free!</p>
 							</div>
 						</span>
@@ -830,6 +936,7 @@ $.cookieCuttr();
 			
 				<li><a href="http://www.penguinclassics.co.uk" target="_blank" class="moretext">Classics</a>
 					<ul class="single-text dropdown" style="">
+
 						<span class="col1">
 							<div class="colcontent-justtext">
 								<p>Enter the world of Penguin Classics, Modern Classics, editor features, competitions, reading lists and more...</p>
@@ -840,6 +947,7 @@ $.cookieCuttr();
 		
 
 				<li><a href="http://www.penguin.co.uk/static/cs/uk/0/penguinauthors/index.html" class="moretext">Authors</a>
+
 					<ul class="single-text dropdown" style="">
 						<span class="col1">
 							<div class="colcontent-justtext">
@@ -848,28 +956,43 @@ $.cookieCuttr();
 							</div>
 						</span>
 					</ul>
+
 				</li>
 		
 			
 				<li class="gifts"><a class="more">Gifts<span class="amp">&amp;</span>Offers</a>
 			
 					<ul class="triple dropdown" style="">
-						<li><a href="http://www.penguin.co.uk/static/cs/uk/0/gifts/index.html" title="Penguin Gifts">Gifts</a>
+						<li><a href="http://www.penguin.co.uk/static/cs/uk/0/gifts/index.html" title="Penguin Gifts" onclick="sc_tracktopnavlinks('Gifts')">Gifts</a>
 							<ul>
-								<li class="twoline" style="height: 53px;"><a href="http://www.penguin.co.uk/static/cs/uk/0/gifts/giftsforalifetime.html" title="Gifts for a Lifetime">Gifts for a<br>
-Lifetime</a></li>
-								<li><a href="http://www.penguin.co.uk/static/cs/uk/0/gifts/postcards.html" title="Postcards">Postcards</a></li>
-								<li><a href="http://www.penguin.co.uk/static/cs/uk/0/gifts/index.html" title="Bestsellers">Bestsellers</a></li>
-								<li><a href="http://www.penguin.co.uk/static/cs/uk/0/gifts/cookbooks.html" title="Cookbooks">Cookbooks</a></li>
-								<li><a href="http://www.penguin.co.uk/static/cs/uk/0/gifts/christeningbooks.html" title="Christening Books">Christening Books</a></li>
-								<li><a href="http://www.penguin.co.uk/static/cs/uk/0/gifts/backtoschool.html" title="Back to School">Back to School</a></li>
+                            <li class="twoline" style="height: 53px;"><a href="http://www.penguin.co.uk/static/cs/uk/0/gifts/xmas.html" title="Gifts for a Lifetime" onclick="sc_tracktopnavlinks('Gifts_Lifetime')">A Penguin<br>Christmas</a></li>
+                            
+								<li class="twoline" style="height: 53px;"><a href="http://www.penguin.co.uk/static/cs/uk/0/gifts/pel2.html" title="Gifts for a Lifetime" onclick="sc_tracktopnavlinks('Gifts_Lifetime')">Gifts for a<br>Lifetime</a></li>
+								
+                                <li class="twoline" style="height: 53px;"><a href="http://www.penguin.co.uk/static/cs/uk/0/gifts/collection.html" title="Gifts for a Lifetime" onclick="sc_tracktopnavlinks('Gifts_Lifetime')">Penguin<br>Collection</a></li>
+								
+                                
+							<!--	<li><a href="http://www.penguin.co.uk/static/cs/uk/0/gifts/postcards.html" title="Postcards"  onclick="sc_tracktopnavlinks('Gifts_Postcards')">Postcards</a></li>
+								
+								<li><a href="http://www.penguin.co.uk/static/cs/uk/0/gifts/index.html" title="Bestsellers"  onclick="sc_tracktopnavlinks('Gifts_Best-sellers')">Bestsellers</a></li>
+								
+								<li><a href="http://www.penguin.co.uk/static/cs/uk/0/gifts/cookbooks.html" title="Cookbooks"  onclick="sc_tracktopnavlinks('Gifts_Cookbooks')">Cookbooks</a></li>
+								
+								<li><a href="http://www.penguin.co.uk/static/cs/uk/0/gifts/christeningbooks.html" title="Christening Books"  onclick="sc_tracktopnavlinks('Gifts_Christening')">Christening Books</a></li>
+								
+								<li><a href="http://www.penguin.co.uk/static/cs/uk/0/gifts/backtoschool.html" title="Back to School"  onclick="sc_tracktopnavlinks('Gifts_Back-to-school')">Back to School</a></li>  -->
 							</ul>
 						</li>
 						
 						<span class="col2" style="">
-							<li><a href="http://www.penguin.co.uk/static/cs/uk/0/penguin_offers/index.html" title="Penguin Offers">Offers</a></li>
-							<li class="twoline" style="height: 68px"><a href="http://www.penguin.co.uk/static/cs/uk/0/penguin_collection/index.html" title="Penguin Collection">Penguin Collection - Penguin branded merchandise</a></li>
-							<li class="twoline" style="height:53px;width:129px;border-bottom:1px solid #e3eaeb;"><a href="http://www.penguin.co.uk/static/cs/uk/0/competition/index.html" title="Penguin Competitions">Competitions <span class="amp">&amp;</span><br>Prize Draws</a></li>
+							<li><a href="http://www.penguin.co.uk/static/cs/uk/0/penguin_offers/index.html" title="Penguin Offers" onclick="sc_tracktopnavlinks('Gifts_Offers')">Offers</a></li>
+							
+						<!--	<li class="twoline" style="height: 68px"><a href="http://www.penguin.co.uk/static/cs/uk/0/penguin_collection/index.html" title="Penguin Collection"  onclick="sc_tracktopnavlinks('Gifts_Collection')">Penguin Collection - Penguin branded merchandise</a></li>
+	-->
+    <li class="twoline" style="height:53px;width:129px;"><a href="http://www.penguin.co.uk/static/cs/uk/0/competition/index.html" title="Penguin Competitions" onclick="sc_tracktopnavlinks('Gifts_Comps')">Competitions <span class="amp">&amp;</span><br>Prize Draws</a></li>
+
+    						
+							<li class="twoline" style="height:73px;width:129px;border-bottom:1px solid #e3eaeb;"><a href="http://www.penguin.co.uk/static/cs/uk/0/gifts/pel_sale.html" title="Penguin Competitions" onclick="sc_tracktopnavlinks('Gifts_Comps')">3 for £9.99 on<br> the Penguin English<br> Library</a></li>
 						</span>
 					
 						<span class="col3">
@@ -878,10 +1001,11 @@ Lifetime</a></li>
 							</div>
 						</span>	
 					
-					</ul>	<!-- end triple dropdown -->
+					</ul>		<!-- end triple dropdown -->
 				</li>
 			
 				<li class="apps"><a class="more">Apps<span class="amp">&amp;</span>eBooks</a>
+
 			
 					<ul class="double dropdown" style="">
 						<li class="twoline" style="height: 53px;"><a href="http://www.penguin.co.uk/static/cs/uk/0/epenguin/index.html" title="eBooks">eBooks<br>
@@ -890,6 +1014,7 @@ Lifetime</a></li>
 - First chapters</a></li>
 						<li><a href="http://www.penguin.co.uk/static/cs/uk/0/epenguin/faq.html" title="eBook FAQ">eBook FAQ</a></li>
 						<li><a href="http://www.penguin.co.uk/static/cs/uk/0/children/index_digital.html" title="Children's Digital">Children's Digital</a></li>
+
 						<li><a href="http://www.penguin.co.uk/static/cs/uk/0/penguin_apps/index_support.html" title="Penguin Apps">Penguin Apps</a></li>
 						
 						
@@ -902,6 +1027,7 @@ Lifetime</a></li>
 					</ul> <!-- end double dropdown -->
 			
 				</li>
+
 			
 			
 				<li class="audio"><a class="more">Audio</a>
@@ -912,6 +1038,7 @@ Lifetime</a></li>
 - Digital <span class="amp">&amp;</span> CDs</a></li>
 						<li class="twoline" style="height: 53px;"><a href="http://thepenguinpodcast.blogs.com/" title="Podcast. This link opens in a new window." target="_blank">The Penguin<br>
 Podcast</a></li>
+
 						<li class="twoline" style="height: 53px;"><a href="http://soundcloud.com/penguin-books/" title="Penguin SoundCloud. This link opens in a new window." target="_blank">Penguin on<br>
 SoundCloud</a></li>
 					
@@ -923,6 +1050,7 @@ SoundCloud</a></li>
 					
 					</ul>	<!-- end double dropdown -->	
 				</li>
+
 				
 				<li class="penguinsites"><a class="more">Penguin Sites</a>
 			
@@ -931,6 +1059,7 @@ SoundCloud</a></li>
 						<li><a href="http://www.spinebreakers.co.uk/" title="Spinebreakers. This link opens in a new window." target="_blank">Spinebreakers</a></li>
 						<li><a href="http://www.puffin.co.uk/" title="Puffin. This link opens in a new window." target="_blank">Puffin</a></li>
 						<li><a href="http://www.peterrabbit.com/" title="Peter Rabbit. This link opens in a new window." target="_blank">Peter Rabbit</a></li>
+
 						<li><a href="http://www.ladybird.co.uk/" title="Ladybird. This link opens in a new window." target="_blank">Ladybird</a></li>
 						<li><a href="http://www.flowerfairies.com/UK/home.html" title="Flower Fairies. This link opens in a new window." target="_blank">Flower Fairies</a></li>
 						<li><a href="http://www.funwithspot.com/uk/" title="Fun with Spot. This link opens in a new window." target="_blank">Fun with Spot</a></li>
@@ -939,6 +1068,7 @@ SoundCloud</a></li>
 							<li><a href="http://www.penguin.co.uk/static/cs/uk/0/bbc/index.html" title="BBC" target="_blank">BBC</a></li>
 							<li><a href="http://www.penguin.co.uk/static/cs/uk/0/minisites/sunbird/index.html" title="Sunbird">Sunbird</a></li>	
 							<li class="twoline" style="height:53px;"><a href="http://fivedials.com/" title="Five Dials. This link opens in a new window." target="_blank">Five Dials<br> - Hamish Hamilton</a></li>
+
 							<li style="width:129px;border-bottom:1px solid #e3eaeb;"><a href="http://www.penguinclassics.co.uk/" title="Penguin Classics. This link opens in a new window." target="_blank">Penguin Classics</a></li>
 						</span>
 					
@@ -948,6 +1078,7 @@ SoundCloud</a></li>
 							</div>
 						</span>	
 					</ul> <!-- end triple dropdown -->
+
 				</li>			
 			
 				<li class="about"><a class="last morelast" title="">About Penguin</a>
@@ -956,6 +1087,7 @@ SoundCloud</a></li>
 						<li><a href="http://www.penguin.co.uk/static/cs/uk/0/aboutus/index.html" title="FAQs &amp; Contact Us">FAQs &amp; Contact Us</a></li>
 						<li><a href="http://gs12.globalsuccessor.com/fe/tpl_penguin01.asp" title="Jobs. This link opens in a new window" target="_blank">Jobs</a></li>
 						<li><a href="http://www.penguin.co.uk/static/cs/uk/0/aboutus/aboutpenguin_companyhistory.html" title="Company History">Company History</a></li>
+
 						<li><a href="http://www.penguin.co.uk/static/cs/uk/0/aboutus/aboutpenguin_allenlane.html" title="Allen Lane">Allen Lane</a></li>
 						<li><a href="http://www.penguin.co.uk/static/cs/uk/0/aboutus/aboutpenguin_howtoorder.html" title="How to Order">How to Order</a></li>
 						<li><a href="http://www.penguincatalogue.co.uk/hi/index.html" title="Penguin Publishing Catalogue. This link opens in a new window.">Publishing Catalogue</a></li>
@@ -964,6 +1096,7 @@ SoundCloud</a></li>
 						<span class="col2" style="">
 							<li><a href="http://pressoffice.penguin.co.uk" title="Press Office" target="_blank">Press Office</a></li>
 							<li><a href="http://www.penguin.co.uk/static/cs/uk/0/aboutus/aboutpenguin_publishingstructure.html" title="Penguin Publishing Structure" target="">Publishing Structure</a></li>
+
 							<li><a href="http://www.penguin.co.uk/static/cs/uk/0/aboutus/aboutpenguin_greenpenguin.html" title="Green Penguin" target="">Green Penguin</a></li>
 							<li><a href="http://www.penguin.co.uk/static/cs/uk/0/aboutus/gettingpublished.html" title="Getting my book published" target="">Publish my book</a></li>
 						</span>
@@ -972,6 +1105,7 @@ SoundCloud</a></li>
 							<div class="colcontent">
 								<p>Learn more about Penguin, browse our latest vacancies, get in touch or find out more about the history of Penguin.</p>
 							</div>
+
 						</span>				
 					
 					</ul> <!-- end triple dropdown -->
@@ -984,6 +1118,7 @@ SoundCloud</a></li>
 		<div id="productandsearch">
 			<ul class="catalogue">
 				<li><a href="http://www.penguincatalogue.co.uk/"><span class="orange">Penguin</span>UK<br>
+
 	Online New Title Catalogue</a></li>
 			</ul>
 			
@@ -994,6 +1129,7 @@ SoundCloud</a></li>
 						
 						<div id="buttons">
 			  				<ul>
+
 			    				<li><a href="#" onclick="footSearch();"><span>» Search</span></a></li>
 							</ul>	
 						</div>
@@ -1008,10 +1144,11 @@ SoundCloud</a></li>
 			
 			<ul class="follow">
 				<li class="followtext">» Follow <span class="orange">Penguin</span>Books</li>
-				<li><a href="http://www.facebook.com/PenguinUKBooks" target="_blank"><img src="/static/cs/uk/0/navigation/images/follow_facebook_logo.png" alt="Follow Penguin Books on Facebook" title="Follow Penguin Books on Facebook" width="26" height="26" border="0"></a></li>
+				<li><a href="https://www.facebook.com/penguinbooks" target="_blank"><img src="/static/cs/uk/0/navigation/images/follow_facebook_logo.png" alt="Follow Penguin Books on Facebook" title="Follow Penguin Books on Facebook" width="26" height="26" border="0"></a></li>
 				<li><a href="http://twitter.com/PenguinUKBooks" target="_blank"><img src="/static/cs/uk/0/navigation/images/follow_twitter_logo.png" alt="Follow Penguin Books on Twitter" title="Follow Penguin Books on Twitter" width="26" height="26" border="0"></a></li>
 				<li><a href="http://pinterest.com/penguinukbooks/" target="_blank"><img src="/static/cs/uk/0/navigation/images/follow_pintrest_logo.png" alt="Follow Penguin Books on Pintrest" title="Follow Penguin Books on Pintrest" width="26" height="26" border="0"></a></li>
 			</ul>
+
 		</div>
 		
 		<div id="footer-penguingroup-content">
@@ -1021,6 +1158,7 @@ SoundCloud</a></li>
 					<div style="float: left; margin-right: 20px;">
 					<form class="penguingroup-dropdown">
 						<span style="font: normal 17px Georgia"><span class="orange">Penguin</span>Group</span><br>
+
 					
 						<select name="choice" onchange="jump(this.form)" style="font: normal 13px Trebuchet MS; margin-top: 5px; color: #3f5e66;"> 			
 							<option selected="selected">Choose from ...</option>
@@ -1031,6 +1169,7 @@ SoundCloud</a></li>
 							<option value="http://www.penguin.co.uk/static/cs/uk/0/collectors/intro.html*_new">Penguin Collectors</option>  
 							<option value="http://www.penguinrights.co.uk*_new">Penguin Rights</option> 
 						</select>
+
 					</form>	
 					</div>
 					
@@ -1041,6 +1180,7 @@ SoundCloud</a></li>
 						<select name="choice" onchange="jump(this.form)" style="font: normal 13px Trebuchet MS; margin-top: 5px; color: #3f5e66;"> 			
 							<option selected="selected">Choose from ...</option>
 							<option value="http://www.pearson.com*_new">Pearson</option>
+
 							<option value="http://www.penguin.com.au*_new">Penguin Australia</option>
 							<option value="http://www.penguin.ca*_new">Penguin Canada</option>
 							<option value="http://www.penguin.com.cn*_new">Penguin China</option>
@@ -1049,6 +1189,7 @@ SoundCloud</a></li>
 							<option value="http://www.penguin.co.nz*_new">Penguin New Zealand</option> 
 							<option value="http://www.penguinbooks.co.za*_new">Penguin South Africa</option> 
 							<option value="http://www.penguinputnam.com*_new">Penguin Group (USA)</option>
+
 						</select>
 					</form></div>
 				
@@ -1056,7 +1197,8 @@ SoundCloud</a></li>
 			<div id="footer-penguinbrand">
 				Visit our <span class="orange">Penguin</span> Brand Sites<br>
 				
-				<div class="penguinbrand-images"><a href="http://www.puffin.co.uk" target="_blank"><img src="/static/cs/uk/0/navigation/images/footer_brand_puffin.png" alt="Puffin Books" title="Puffin Books" width="19" height="25" border="0"></a><a href="http://uk.dk.com/" target="_blank"><img src="/static/cs/uk/0/navigation/images/footer_brand_dk.png" alt="Dorling Kindersley" title="Dorling Kindersley" width="39" height="25" border="0"></a><a href="http://www.roughguides.com/" target="_blank"><img src="/static/cs/uk/0/navigation/images/footer_brand_rg.png" alt="Rough Guides" title="Rough Guides" width="22" height="25" border="0"></a><a href="http://www.funwithspot.com/" target="_blank"><img src="/static/cs/uk/0/navigation/images/footer_brand_spot.png" alt="Spot The Dog" title="Spot The Dog" width="33" height="25" border="0"></a><a href="http://www.flowerfairies.com/" target="_blank"><img src="/static/cs/uk/0/navigation/images/footer_brand_ff.png" alt="Flower Fairies" title="Flower Fairies" width="37" height="25" border="0"></a><a href="http://www.peterrabbit.com/" target="_blank"><img src="/static/cs/uk/0/navigation/images/footer_brand_pr.png" alt="Peter Rabbit" title="Peter Rabbit" width="29" height="25" border="0"></a><a href="http://www.ladybird.co.uk/" target="_blank"><img src="/static/cs/uk/0/navigation/images/footer_brand_lb.png" alt="Ladybird" title="Ladybird" width="29" height="25" border="0"></a><a href="http://www.penguin.co.uk/bbcchildrensbooks" target="_blank"><img src="/static/cs/uk/0/navigation/images/footer_brand_bbc.png" alt="BBC Childrens Books" title="BBC Childrens Books" width="32" height="25" border="0"></a></div>
+				<div class="penguinbrand-images"><a href="http://www.puffin.co.uk" target="_blank"><img src="/static/cs/uk/0/navigation/images/footer_brand_puffin.png" alt="Puffin Books" title="Puffin Books" width="19" height="25" border="0"></a><a href="http://uk.dk.com/" target="_blank"><img src="/static/cs/uk/0/navigation/images/footer_brand_dk.png" alt="Dorling Kindersley" title="Dorling Kindersley" width="39" height="25" border="0"></a><a href="http://www.roughguides.com/" target="_blank"><img src="/static/cs/uk/0/navigation/images/footer_brand_rg.png" alt="Rough Guides" title="Rough Guides" width="22" height="25" border="0"></a><a href="http://www.puffinbookclub.co.uk/" target="_blank"><img src="/static/cs/uk/0/navigation/images/footer_brand_pbc.png" alt="Puffin Book Club" title="Puffin Book Club" width="35" height="25" border="0"></a><a href="http://www.funwithspot.com/" target="_blank"><img src="/static/cs/uk/0/navigation/images/footer_brand_spot.png" alt="Spot The Dog" title="Spot The Dog" width="33" height="25" border="0"></a><a href="http://www.flowerfairies.com/" target="_blank"><img src="/static/cs/uk/0/navigation/images/footer_brand_ff.png" alt="Flower Fairies" title="Flower Fairies" width="37" height="25" border="0"></a><a href="http://www.peterrabbit.com/" target="_blank"><img src="/static/cs/uk/0/navigation/images/footer_brand_pr.png" alt="Peter Rabbit" title="Peter Rabbit" width="29" height="25" border="0"></a><a href="http://www.ladybird.co.uk/" target="_blank"><img src="/static/cs/uk/0/navigation/images/footer_brand_lb.png" alt="Ladybird" title="Ladybird" width="29" height="25" border="0"></a><a href="http://www.penguin.co.uk/bbcchildrensbooks" target="_blank"><img src="/static/cs/uk/0/navigation/images/footer_brand_bbc.png" alt="BBC Childrens Books" title="BBC Childrens Books" width="32" height="25" border="0"></a></div>
+
 			</div>
 			<div id="footer-penguinaffilliates">
 				Careers at Penguin<br>
@@ -1065,10 +1207,12 @@ SoundCloud</a></li>
 		</div>
 		
 		<div id="footer-copyright">
+
 			<img src="/static/cs/uk/0/navigation/images/footer_logo.png" alt="" width="31" height="43" border="0" class="footerlogo">
-			<p class="copyrighttext">© 1995 - <iframe frameborder="0" width="30" height="15" src="http://www.penguin.co.uk/static/cs/uk/0/navigation/date.php" scrolling="no"></iframe> Penguin Books Ltd<br>
+			<p class="copyrighttext">© 1995 - <iframe frameborder="0" width="30" height="15" src="http://www.penguin.co.uk/static/cs/uk/0/navigation/date_penguin.php" scrolling="no" class="copyrighttext"></iframe> Penguin Books Ltd<br>
 			<a href="http://www.penguin.co.uk/static/cs/uk/0/penguin_privacyterms/termasandconditions.html" class="bodylink">» Terms &amp; Conditions</a><br>
 			<a href="http://www.penguin.co.uk/static/cs/uk/0/penguin_privacyterms/privacypolicy.html" class="bodylink">» Privacy Policy &amp; Cookies</a></p>
+
 					
 			
 			<p class="copyrighttext">Registered Number: 861590 England<br>
@@ -1083,6 +1227,7 @@ SoundCloud</a></li>
 var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
 document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
 </script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+
 <script type="text/javascript">
 var pageTracker = _gat._getTracker("UA-4423507-3");
 pageTracker._initData();
@@ -1119,4 +1264,4 @@ var _sf_async_config={uid:20050,domain:"penguin.co.uk"};
 </div>
 
 
-<a href="#" id="toTop" style="display: none;"><span id="toTopHover"></span>Back to top</a><script language="javascript" type="text/javascript" src="https://a248.e.akamai.net/chartbeat.download.akamai.com/102508/js/chartbeat.js"></script></body></html>
+<script language="javascript" type="text/javascript" src="https://a248.e.akamai.net/chartbeat.download.akamai.com/102508/js/chartbeat.js"></script></body></html>
