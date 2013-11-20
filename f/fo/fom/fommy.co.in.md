@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fommy.co.in privacy policy that was archived on 2013-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130425011355id_/http%3A//www.fommy.co.in/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fommy.co.in privacy policy that was archived on 2013-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131120053326id_/http%3A//www.fommy.co.in/privacy_policy.htm) for the most accurate reproduction.*
 
 # Privacy policy - Fommy.co.in.
 
