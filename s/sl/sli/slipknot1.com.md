@@ -1,98 +1,159 @@
-> *The following text is extracted and transformed from the slipknot1.com privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501010739id_/http%3A//slipknot1.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the slipknot1.com privacy policy that was archived on 2013-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131120213955id_/http%3A//www.slipknot1.com/privacy) for the most accurate reproduction.*
 
-# Slipknot × Privacy Policy
+# Slipknot
 
-### Introduction
+This policy is effective as of **November 29, 2011** , and reflects only non-material changes and clarifications from the previous version.
 
-Sparkart Group, Inc. (“Sparkart”) cares deeply about your privacy and the protection of your personal information, and we have devised this Privacy Policy so you are informed about the use and protection of your personal information. By using the Sparkart Services, you consent to the data practices described in this policy statement. Defined terms designated in the [Terms of Service](https://web.archive.org/terms) shall have the same definitions in this Privacy Policy.
+**Please read these terms of use carefully as they contain important information regarding your legal rights, remedies and obligations. these include various limitations and exclusions, and a dispute resolution clause that governs how disputes will be resolved.**
 
-### Collection of Personal Information
+This Privacy Policy, effective November 29, 2011, is designed to help you, the user, understand how Ground(ctrl)™ (“us”, “we”, or “our”) collects and then uses the personal information you provide us when signing up as a new “member.” We do this so you can make informed decisions both when deciding whether to become a member and when using this service.
 
-When you register for the Sparkart Services, you may be asked to provide certain personal information that may be stored as part of your registration data. The registration data contains various personal information which may include, but not be limited to, the following: (1) e-mail address, (2) first and last name, (3) country or region, (4) state or territory, (5) city, (6) zip code or postal code, (7) street address, (8) time zone, (9) gender, (10) language, (11) birth date and age, and (12) occupation. In addition to the above information, Sparkart may also collect and store the IP address of your computer or other networking device, which may be needed to operate various features and functionality of the Sparkart Services. We may also collect data pertaining to your online transactions, purchase history, and Sparkart Site and Sparkart Services usage patterns. Further, when you register for the Sparkart Services, you may be asked to create a password for your account. You may also be requested to provide secret questions and secret answers. You use your secret questions and answers, if applicable, to help verify your identity to Sparkart when there are account issues, such as needing to reset your password. You may also be requested to answer various questions and/or surveys about your consumer preferences or other information. Finally, we and some participating sites may require added security. In these cases, you may be asked to create a Clique ID security key. Sparkart may store the information described in this paragraph in its Clique ID system.
+By accessing and/or using this web site, you are (1) becoming a member of the Ground(ctrl)™ social networking community (the “network”) and (2) accepting the practices described in this Privacy Policy.
 
-### Clique ID
+We would like to thank you for becoming a member of the network—a network that takes each member’s privacy rights seriously. If you have any questions concerning the network’s Privacy Policy, please contact us at the mailing address, telephone number, or email address at the end of this page.
 
-Clique ID, which is owned and operated by Sparkart and is a part of the Sparkart Services, is a common account system that makes it possible for you to use your e-mail address and a single password to easily register, sign in, interact and conduct various transactions on the various websites, services and systems participating in the Clique ID system.
+## About ground(ctrl)™
 
-### Use of Your Personal Information
+Ground(ctrl)™, as a third-party administrator, maintains and administers the network and this web site. The intent of this web site, and other similar sites maintained and administered by us, is to create a social networking community wherein members can communicate with each other as well as interact with and promote their favorite musicians’ careers.
 
-Sparkart will not use or share your personal information in a manner that differs from what is described in this Privacy Policy without your prior consent.
+To enhance each member’s social networking experience, we request and display personal information to other members and visitors. This information is necessary to allow members to identify each other, expand their network of friends, promote each member’s favorite musicians through contests and other incentives, and to repay members for their interaction with the network through contests and prizes.
 
-Sparkart may provide, sell, rent and/or disclose your personal information to the following third parties: the third party for whom we operate this Sparkart Site or Sparkart Service (that is, the person, company, entity or organization behind the recording artist, performer, sports star, public figure, celebrity, music festival, event, apparel brand, retailer, entertainment brand, or the like for whom we operate the site, sell merchandise, or provide other services). Please be aware that these third parties may have their own policies governing how they will use and disclose your personal information which may be different from this Privacy Policy.
+## The Information We Collect
 
-Sparkart uses your personal information for the operation and maintenance of your Sparkart account and the Sparkart Services. For example, we may use your e-mail address to send you a welcome e-mail message when you first register informing you about the service and telling you how to manage your Sparkart account. You may be required to respond to this e-mail in order to validate that you are the owner of the email address associated with the Sparkart account. If applicable, failure to respond to the email and verify the address within the time stated in the email will cause the Sparkart account to become inactive. This process is designed to verify the validity of the email address and to help prevent email addresses from being used without permission in the creation of Sparkart accounts.
+When you visit this web site, you provide us with three types of information:
 
-As part of the Sparkart Services, we may recommend for your consideration various services, products and merchandise. Accordingly, we may analyze data pertaining to your online transactions, purchase history, and Sparkart Site and Sparkart Services usage patterns so that we can make recommendations suited especially to you.
+  1. Web site information collected by us through your interaction with this web site;
+  2. Personal information you knowingly and voluntarily disclose to us when signing up as a member and through the continued use of this service; and
+  3. Personal information you knowingly and voluntarily disclose to use when using this service.
 
-We may also send you e-mail about periodic service updates, recommended security updates, or surveys related to the Sparkart Services or other matters. These periodic e-mails are considered essential to the provision of the service you have requested. You cannot unsubscribe from these mailings. You may, however, choose not to participate in the surveys.
 
-### Disclosure of Personal Information
 
-Sparkart occasionally hires other companies to provide limited services on our behalf or to fulfill a service or transaction you may have requested, such as answering customer support inquiries, fulfilling merchandise orders, selling concert tickets, etc. Sparkart will only provide these companies with those pieces of your personal information needed to deliver the services.
+First, when you or any member signs on to this service, we collect your IP address, your browser type, and certain information from your browser using “cookies”. A cookie is a piece of data stored on a computer that is tied to information about the user. You can easily remove or block this cookie using the settings in your browser if you wish to disable this feature. To confirm that you are logged into the service, we use session ID cookies that immediately terminate once you close your browser.
 
-Sparkart may disclose personal information if required to do so by law or in the good-faith belief that such action is necessary to: (a) conform to legal requirements or comply with legal process served on Sparkart; (b) protect and defend the rights or property of Sparkart; or (c) act under exigent circumstances to protect the personal safety of users of the Sparkart Service, or the public.
+Second, when signing up as a member to this web site, and during membership, we collect several pieces of personal information to enhance the network. This information includes the following:
 
-### Disclosure of Personal Information to Clique ID Participating Sites
+Your first and last name
+    For the purpose of addressing you personally
+Your email address and encrypted password
+    To provide you with access to your personal account, and to send notifications about activity on the website
+Street address, city, state, postal code, country
+    To verify billing information for orders you place on the website and/or ship merchandise to you
+Your location
+    So you may optionally share your geographic location with other members of the website
+Birth date
+    So that you may optionally share your age with other members of the website
+AIM, Yahoo screen name, Jabber, ICQ screen names
+    So that you may optionally share your instant message information with other users of the site
+Flickr user id and Twitter user name
+    So that you may optionally display recent photos and twitter posts on your profile page
+Links to your third-party sites
+    So that you may optionally share favorite or other personal websites with other members of the site
+An avatar image
+    So that you may optionally provide a visual representation of yourself next to items you publish on the site
 
-The information about you stored in the Clique ID system is not shared with a Clique ID participating site, service or system unless you explicitly choose to use your Clique ID to register or sign in with the participating site When you use your Clique ID to register or sign in with the participating site, service or system, the participating site will receive some or all of the information about you stored in the Clique ID system It is important for you to read the privacy statement for each Clique ID participating site, service or system that you visit before you register or sign in, so that you understand how that site may use your personal information Also, if you registered for a Clique ID through a participating site, service or system, then that registering site will receive the profile information at the time of registration.
+We will not collect any more any information that is necessary for you to participate in the Ground(ctrl)™ social networking community.
 
-### Use of Information by Clique ID Participating Sites
+Third, when using this service, you may change your member profile, send messages to other members, receive messages from other members, form relationships, view photos, share photos, post blog comments, post links to other web sites (including web sites not controlled by ground(ctrl)™), transmit information through various channels, participate in musician campaigns, earn points toward promotional items, and redeem those points for promotional items (collectively the “User Content”).
 
-Clique ID participating sites, services and systems with whom you choose to share the information can use it for a variety of purposes. These can include personalizing your experience at their sites and reducing registration time by using information in your Clique ID account to pre-fill their registration forms. Clique ID participating sites and services may share your personal information with third parties in order to fulfill a service or transaction you may have requested. In addition, participating sites may share your personal information with third parties as permitted by their own privacy policies.
+## Children's Online Privacy Protection Act Of 1998
 
-To become a Clique ID participating site or service, the operator must agree to have a posted privacy policy and to use commercially reasonable efforts to comply with industry-standard privacy guidelines and practices. Nevertheless, we do not control or monitor the privacy practices of Clique ID participating sites, services or systems and the privacy practices of those sites will vary. You should carefully review the privacy statement for each Clique ID participating site you sign in to in order to determine how each site or service will use the information it collects.
+This privacy policy is provided in conformity with the [Children’s Online Privacy Protection Act of 1998](http://www.coppa.org/coppa.htm "COPPA -Children's Online Privacy Protection") (“COPPA”). COPPA requires that we notify parents and legal guardians and obtain consent from parents and legal guardians before we collect, use and/or disclose personal information from children under thirteen (13) years of age.
 
-If Sparkart becomes aware of ongoing, site-specific privacy issues with a Clique ID participating site, service or system, we will work to address those issues with the site. If at any time you believe that a Clique ID participating site has not adhered to these principles, please notify Customer Service.
+If parents or legal guardians have any questions regarding their child’s use of this web site, they may contact the operator of this website at the following address, phone number or email:
 
-### Managing Your Personal Information
+120 K. Street Suite 3rd Floor
 
-You can always add, update, or make other changes to the registration information stored in relation to your Clique ID. This is accessible by signing in to any Clique ID site in which you are registered. If you have a Clique ID, you may close your Clique ID account by [contacting Customer Service](mailto:support@sparkart.com).
+Sacramento, CA 95814
 
-### Sharing Your Personal Information
+Toll Free: 1 (877) GND-CTRL
 
-If you choose, you may opt-in to various features which may be available as part of the Sparkart Services which allow you to voluntarily share information, whether to a group of Sparkart users designated by you (for example, a “buddy list” or “friends” who also have a Clique ID) or to everyone (for example, when you post user generated content to a publicly accessible area on a website).
+Phone (916) 443-9202
 
-### Security and Storage of Your Personal Information
+Fax (916) 443-9204
 
-Sparkart is committed to protecting the security of your personal information. We use a variety of security technologies and procedures to help protect your personal information from unauthorized access, use, or disclosure. For example, we store the personal information you provide on computer systems with limited access and located in controlled facilities.
+Additional operators maintaining information collected through this website include: Slipknot .
 
-You must type the correct password to access your information. It is your responsibility to ensure the security of your Sparkart account password and not to reveal this information to others.
+The personal information we collect from children under thirteen (13) years of age, and the manner in which we use such information, is identical to the collection and use of any other member’s information. Please refer to sections entitled “The Information We Collect” and “How We Use the Information” for a detailed discussion of how we collect and use personal information from all members, including children under thirteen (13).
 
-Personal information collected by Sparkart may be stored and processed in the United States or any other country in which Sparkart or its affiliates, subsidiaries, or agents maintain facilities. By using the Sparkart Service, you consent to any such transfer of information outside of your country.
+As a means of verifying parental consent, we may require that verification be given to us in one of two ways. First, we may require permission by email from what we are told is the parent’s email address. Thereafter, we will respond to that email address to verify that we have received such permission. Second, we may require that the parent consent by providing us with their full name, a valid credit card number and an expiration date. We will not charge your credit card. We will merely use the information to confirm your consent and once verification is or is not made, we will immediately destroy such information.
 
-### Operational Information
+We do not require any additional information from children under thirteen (13) other than the minimum amount of information we need in order for the child to participate. Parents may review the personal information we collect on that parent’s child by mailing a request to us at the operator address listed above. The parent, after reviewing such information from us, may have it deleted and/or refuse to allow further collection by sending us an email using the password sent with the physical file that we mail to you. The parent also has the option to agree to the collection and use of the child’s information without consenting to the disclosure of the information to third parties.
 
-Some “operational” information is used by Sparkart in order to operate your account properly and provide the Sparkart Services. This operational information does not include the personal information that you provide as part of your Sparkart registration data, but may include, for example, the following: the date on which your registration data was last updated, whether your e-mail address has been verified, whether your account has been deactivated, what browser you are using, the IP address of your computer or other networking device, and other similar types of information. Operational information may be shared with third parties to the extent necessary to provide the Sparkart Services.
+## Correcting, Updating or Removing Your Information
 
-### Aggregate Information
+At any time, members can correct, update, or remove any of their personal information by logging into their account and accessing the “Edit Profile” feature.
 
-We may collect and analyze information about your use of the Sparkart Services as aggregated with the use of the Sparkart Services by other users (“Aggregate Information”); for example, overall usage patterns of Sparkart users, the total number of Sparkart users, the percentage of Sparkart users who are female, or in a certain age range, or who live in a particular region, etc., or the percentage of Sparkart users who are also consumers of various other products and services. The collection and analysis of Aggregate Information is important in the operation and enhancement of the Sparkart Services and other business purposes. Aggregate Information may be compiled in reports and disclosed, sold, licensed or rented to third parties. However, since Aggregate Information does not include any information that can be used to individually identify you or any other Sparkart user, it is not possible for the third party recipient of the Aggregate Information to use it to identify or contact you.
+## How We Use the Information
 
-### Analytics
+We collect the personal information listed above so that we can provide you with personalized features and an enhanced and efficient web site experience. We usually retain this information so you can, for example, view messages you have already read or check campaign dates you are already aware of. You understand and acknowledge that copies of your User Content may remain viewable in cached and/or archived pages or if other members have copied and/or stored your User Content, even after your information has been removed.
 
-This Sparkart Site or Service may use a third party web analytics service, including, but not limited to ClickTale. Sparkart and/or such third party analytics company may record mouse clicks, mouse movements, scrolling activity as well as any text you type in this Sparkart Site or Service. ClickTale does not collect personally identifiable information that you do not voluntarily enter in this website. ClickTale does not track your browsing habits across web sites that do not use ClickTale services. Sparkart may use the information described in this paragraph for improving overall usability, determining the success of new features, identifying areas for potential new features and other improvements, testing design changes, and/or other business and marketing purposes. You can choose to disable the ClickTale Web Analytics Service (if such service is used on this Sparkart Site or Service) at http://www.clicktale.net/disable.html.
+When you sign up as a member to the network, you create your own profile. Your profile information, including your name and your photo are displayed to other members in the network so that you may interact and communicate with them. On occasion, we may use your name and email address to send you notifications about the network’s new services, promotional items, merchandise, band news, and transactions involving your accumulated points. Generally, you may opt out of such emails by clicking on the “unsubscribe” link in the email. However, the network expressly reserves the right to send you notices about your account even if you opt out of all voluntary email notifications.
 
-### Use of Cookies
+Without identifying you as an individual, the network may provide third parties with information contained in your profile for data gathering purposes (ex: gathering data on how many members like both band A and band B so that personalized advertisements, promotions, etc. can be sent to those particular members). We believe that this information gathering allows each member to get the most out of the network’s benefits—e.g., the distribution of band information that, based on your profile, matters to you.
 
-A cookie is a very small text file that a website saves to your computer’s hard disk to store information that you provide about yourself or to store your preferences. The Sparkart Services may use cookies when you sign in to or access a Sparkart Site or Service. The Sparkart Services store your unique identifier, the time you signed in, and Sparkart registration data in an encrypted cookie on your hard disk. The cookie allows you to move from page to page at the participating site without having to sign in again on each page.
+## Sharing Your Information with Third Parties
 
-The Sparkart Services may also use cookies to improve the sign in experience. For example, the Sparkart Services may store your user name in a cookie that will remain on your computer after you sign out. This cookie allows your user name to be entered automatically, so that you will only need to type your password the next time you sign in.
+This web site is about sharing information with others of your choosing, and a limited number of third parties, to enhance each member’s promotional and informational-sharing experience. Except as otherwise described in this Privacy Policy, the network does not disclose personal information to any third party unless the network believes that disclosure is necessary to:
 
-You may have the ability to accept or decline cookies using the settings on your browser. However, if you choose to decline cookies, you may not be able to sign in or use the Sparkart Services.
+  1. Enforce the network’s Terms and Conditions of Use Agreement;
+  2. Protect the network’s rights;
+  3. Coincide with legal requirements (ex: responding to a subpoena, search warrant, or any other legal process served upon Ground(ctrl)™). We will not reveal information until we have a good faith belief that the law enforcement information and/or private litigant request meets the applicable legal standards;
+  4. Protect the safety of it’s members; or
+  5. Enhance each member’s promotional and informational-sharing experience.
 
-### Changes to This Privacy Policy
 
-Sparkart may occasionally update this Privacy Policy. When we do, Sparkart will endeavor to provide notice to users in one or more of the following ways: (1) Sparkart will update the “last updated” date at the bottom of the Privacy Policy; (2) Sparkart may post notice of the update as a news post on the Sparkart Site; and (3) Sparkart may email notice of the update to all registered users. Sparkart will obtain your consent to any updates to this Privacy Policy in which there is an expansion of the sharing or use of your personal information.
 
-### Contact Us
+The network may provide services jointly with other companies and we may share customer information with that company in connection with your use of that service.
 
-If you have questions regarding this Privacy Policy, please [contact Customer Service](mailto:support@sparkart.com).
+Your name, network names, and profile picture thumbnail will be available in search results across the network and those limited pieces of information may be made available to third party search engines. This is primarily so your friends can find you and send a friend request. People who see your name in searches, however, will not be able to access your profile information unless they have a relationship to you that allows access based on the privacy settings.
 
-### Consumer Notice
+Ground(ctrl)™ expressly reserves the right to transfer personal information to a successor in interest that acquires the rights to that information as a result of the sale of Ground(ctrl)™, or the sale of a substantial portion of its assets to that successor in interest.
 
-Sparkart Group, Inc. is a California corporation. Pursuant to California Civil Code § 1789.3, Sparkart Group, Inc. sets forth the following: (a) the address of Sparkart Group, Inc. is P.O. Box 1346, Oakland, CA 94604; (b) the fees and charges imposed on consumers of Sparkart Group, Inc. vary depending on the services you choose; and (c) if you have any complaints about Sparkart Group, Inc. or wish to receive further information about Sparkart Group, Inc., please [contact Customer Service](mailto:support@sparkart.com). For complaints against Sparkart Group, Inc., you may also contact the Complaint Assistance Unit of the Division of Consumer Services of the Department of Consumer Affairs by (1) visiting www.dca.ca.gov/about_dca/contactus.shtml; (2) sending an email to dca@dca.ca.gov; (3) calling (800) 952-5210; or (4) writing to Department of Consumer Affairs, Consumer Information Division,
+## Third-Party Advertising
 
-1625 North Market Blvd., Suite N 112  
-Sacramento, CA 95834.
+Advertising may appear on this web site and may be delivered to members by one of our web advertising partners. Those web advertising partners may download cookies to your computer that allow the ad server to recognize your computer each time they send you an online advertisement. The web advertising partners may also use other technologies such as JavaScript and “web beacons” (also known as “1x1 gifs”) to measure the effectiveness of their ads and to personalize advertising content. As a consequence, ad servers may compile information about where you, or others using your computer, saw their advertisements and determine which ads you, or others using your computer, clicked on. The purpose of this information is to allow an ad network to deliver targeted advertisements that they believe will interest you. This privacy policy covers the use of cookies by our network only and does not cover the use of cookies by any third-party advertiser.
 
-**Last Updated: June 30, 2010**
+## Comments, Blogs, Messages, and Links
+
+Please be aware that whenever you voluntarily post any information as a comment, blog, message, link, photo, video, and/or other information, that information can be accessed by the public and can then be used by those people to send you unsolicited communications. Additionally, if you post a link to your network web site on any third party site, your public profile will be viewable by any third party that clicks on your link. If you do not wish to have your public profile viewable to any third party, you should not post links to your network web site on third party sites.
+
+This web site may contain links to other sites, including links posted by you or other members. We are not responsible for the privacy practices of other web sites. As such, we encourage our members to read the privacy statements of each and every web site they visit after clicking on these third-party links. This Privacy Policy applies solely to the information collected in the use of our network and this web site.
+
+## Security
+
+Each member’s account is secured by a member-created password. The network employs reasonable measures to protect member information that is stored within our database, and we restrict the access to member information only to those employees who need access to perform their job functions, such as our customer service personnel and technical staff.
+
+Note: We cannot guarantee the security of each member’s account information as unauthorized entry or use, software or hardware failure, and other uncontrollable factors may compromise the security of each member’s personal information at any time. The network does, however, consider security of each member’s personal information a priority and we take reasonable security steps to protect that information.
+
+## Disclaimer of Liability for Unauthorized Viewing of Personal Information
+
+You post User Content, as described above, on this web site at your own risk. Despite our reasonable efforts to keep your User Content inaccessible to those not authorized to view it, be aware that no perfect security measure(s) exist to insure impenetrability. Additionally, we cannot control the actions of other members that you may choose to share your page and User Content with. We are not responsible for the circumvention of any privacy settings or security measures contained in this web site. Consequently, we cannot and do not guarantee that the User Content you provide and/or post on this web site will not be viewed by unauthorized individuals.
+
+## Changes in the Privacy Policy’S Terms of Use, Notices and Revisions
+
+We may change this privacy policy from time to time. We reserve the right to change our Privacy Policy and our Terms of Use Agreement at any time. Non-material changes and clarifications will take effect immediately, and material changes will take effect within 30 days of their posting on this site. If we do make changes, we will post those changes and indicate at the top of this page the Privacy Policy’s new effective date.
+
+Through this process, members will always be aware of what information we collect, how we use it, and who we may disclose it to. Each member is bound by any change to this Privacy Policy if he or she uses the site after said changes have been posted. If, however, we change this Privacy Policy so that we are using personal information in a manner materially different from the manner as stated at the time of collection, we will notify the members here, by email, or through notice on our home page.
+
+Your use of this web site and our network, and any disputes arising from it, is subject to this Privacy Policy and our Terms of Use Agreement and all of its dispute resolution provisions including arbitration, limitation on damages and choice of law. We strongly encourage you to refer to this Policy on an ongoing basis so that you understand the most current Privacy Policy terms. Unless stated otherwise, our current Privacy Policy applies to all information that we have about you and your account.
+
+## European Commission's Directive on Data Protection - Safe Harbor
+
+We adhere to the Safe Harbor Principles that were established by the U.S. Department of Commerce in consultation with the European Commission to comply with the European Commission's Directive on Data Protection. For more information on the Safe Harbor framework, visit the Department of Commerce's website located at <http://export.gov/safeharbor/>.
+
+## Your California Privacy Rights
+
+Under the California Civil Code, residents of the State of California who have provided any personally-identifiable information to us have the right to request a list of all third parties to whom we have disclosed personally-identifiable information during the preceding year for direct marketing purposes. If you are a California resident and wish to make such a request, please send an email [privacy@groundctrl.com](mailto:privacy@groundctrl.com) or contact us at the address below.
+
+If you have any questions regarding this Privacy Policy, the practices of this web site, or your dealings with this web site, please contact us at the following mailing address, phone number, or email address:
+
+120 K. Street Suite 3rd Floor
+
+Sacramento, CA 95814
+
+Toll Free: 1 (877) GND-CTRL
+
+Phone (916) 443-9202
+
+Fax (916) 443-9204
+  *[CA]: California
