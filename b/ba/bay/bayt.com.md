@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bayt.com privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501111511id_/http%3A//www.bayt.com/en/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bayt.com privacy policy that was archived on 2013-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131120020917id_/http%3A//www.bayt.com/en/privacy-statement) for the most accurate reproduction.*
 
-# Privacy Statement | Bayt.com
+# Privacy Statement - Bayt.com
 
 Bayt.com is firmly committed to protecting the privacy of our users. Our goal is to provide you with a secure online experience and to ensure that any information you submit to us is private and used/disclosed only for the purposes and in the means described below.
 
