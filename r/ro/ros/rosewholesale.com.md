@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the rosewholesale.com privacy policy that was archived on 2013-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130517003328id_/http%3A//www.rosewholesale.com/m-article-id-27.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rosewholesale.com privacy policy that was archived on 2013-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131120072755id_/http%3A//www.rosewholesale.com/m-article-id-27.html) for the most accurate reproduction.*
 
-# Privacy Policy - rosewholesale.com
+# Privacy Policy - Rosewholesale.com
 
 Rosewholesale.com respect the privacy of our visitors/customers, which is extremely important to us. We take your online safety seriously. To better serve you and to make you understand how your information is used on our site, we have explained our privacy policy below.
 
@@ -21,7 +21,9 @@ We send email content to our customers that may include following:
 Transaction mail, Shipping notification, Weekly deal, Promotion, Activity,
 
  **Address and Email**  
-417 Mace Blvd, Ste. J, #338 Davis, CA 95616 USA.  
+417 Mace Blvd, Ste. J, #338 Davis, CA 95616 USA.
+
+(This address does not accept returns.)  
 +1 909-581-9508
 
 [support@Rosewholesale.com](mailto:)
