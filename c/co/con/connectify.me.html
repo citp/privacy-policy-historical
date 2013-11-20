@@ -1,39 +1,38 @@
-<!--The following is the downloaded HTML source of the connectify.me privacy policy that was archived on 2013-05-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130521215325id_/http%3A//www.connectify.me/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the connectify.me privacy policy that was archived on 2013-11-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131120213654id_/http%3A//www.connectify.me/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html data-language="en" lang="en"><!-- style="margin:0 !important;"  --><head>
+<!DOCTYPE html><html data-language="en" lang="en"><!-- style="margin:0 !important;"  --><head><script src="https://web.archive.org/web/20131121030954/https://s.ytimg.com/yts/jsbin/www-widgetapi-vflyFvlBB.js" async=""></script><script src="https://dnn506yrbagrg.cloudfront.net/pages/scripts/0014/2238.js?438996" async="" type="text/javascript"></script><script async="" src="https://cdn.optimizely.com/js/198787351.js?_=1580386770735"></script>
 <meta charset="utf-8">
 <noscript>
 <meta http-equiv="refresh" content="0; url=/no-javascript/" />
 </noscript>
 
 
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="/wp-content/themes/connectify2.0/js/jquery.min.js"></script>
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-N69N3Z"></script><script src="//web.archive.org/web/20131121030928/http://www.youtube.com/iframe_api"></script><script src="/wp-content/themes/connectify2.0/js/jquery.min.js"></script>
 <script src="/wp-content/themes/connectify2.0/js/jquery-ui.min.js"></script>
+<script src="/wp-content/themes/connectify2.0/js/embedded_youtube_event_tracking.js"></script>
 <link rel="stylesheet" href="/wp-content/themes/connectify2.0/js/jquery-ui.css">
 <script src="/wp-content/themes/connectify2.0/js/jquery.prettyPhoto.min.js?1.1" type="text/javascript"></script>
 <link rel="stylesheet" href="/wp-content/themes/connectify2.0/css/prettyPhoto.css" type="text/css" media="screen" title="prettyPhoto main stylesheet">
 
-<!-- <script type="text/javascript">
+<script type="text/javascript">
 var country_code = '';
 var countries_to_track = [ 'US', 'GB', 'DE', 'AU', 'IN', 'CA', 'FR', 'RU', 'JP', 'IT' ];
-$.getJSON('http://api.wipmania.com/jsonp?callback=?', function (data) { 
-	country_code = data.address.country_code;
+$.get('/wp-aux/loc.php', function (data) { 
+	country_code = data;
 	if(jQuery.inArray( country_code, countries_to_track ) != -1 ) {
 		var script=$(document.createElement('script')).attr('type', 'text/javascript').attr('src', "//cdn.optimizely.com/js/198787351.js" );
 		$("head").after(script);
-		//document.write( '<scr' + 'ipt src="//cdn.optimizely.com/js/198787351.js">' );
-		//document.write( '</scr' + 'ipt>' );
+		$(".footer_subtitle:first").next("ul").prepend(country_code);
 	}
 });
-</script> -->
-
+</script> 
 		<title>Privacy Policy - Connectify</title>
 	<link rel="icon" type="image/x-icon" href="/wp-content/uploads/favicon.ico">
 	<meta name="description" content="Connectify Dispatch and Hotspot PRO: Combine Internet connections for faster speeds, turn your Windows PC into a Wi-Fi hotspot, and more.">
 	<!-- <meta name="description" content="Connectify Dispatch and Hotspot PRO: Combine Internet connections for faster speeds, turn your Windows PC into a Wi-Fi hotspot, and more." /> -->
 	<link rel="pingback" href="http://www.connectify.me/xmlrpc.php">
-    <link rel="stylesheet" href="/wp-content/themes/connectify2.0/style.css?3.2.2" type="text/css" media="screen">
+    <link rel="stylesheet" href="/wp-content/themes/connectify2.0/style.css?4.0.2" type="text/css" media="screen">
 	<script src="/wp-content/themes/connectify2.0/js/script.js?1.4" type="text/javascript"></script>
 		<script type="text/javascript">
 //smoothScrolling();
@@ -54,6 +53,16 @@ $.getJSON('http://api.wipmania.com/jsonp?callback=?', function (data) {
 <meta name="generator" content="WordPress 3.5.1">
 	</head>
 <body>
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-N69N3Z"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-N69N3Z');</script>
+<!-- End Google Tag Manager -->
+
 
 <!-- ANALYTICS -->
 
@@ -62,9 +71,49 @@ $.getJSON('http://api.wipmania.com/jsonp?callback=?', function (data) {
   var _gaq = _gaq || [];
   _gaq.push(['_setAccount', 'UA-742036-3']);
   _gaq.push(['_setDomainName', 'connectify.me']);
+
+
+function getCookie(c_name)
+{
+    var i,x,y,ARRcookies=document.cookie.split(";");
+    for (i=0;i<ARRcookies.length;i++)
+    {
+      x=ARRcookies[i].substr(0,ARRcookies[i].indexOf("="));
+      y=ARRcookies[i].substr(ARRcookies[i].indexOf("=")+1);
+      x=x.replace(/^\s+|\s+$/g,"");
+      if (x==c_name)
+        {
+        return unescape(y);
+        }
+      }
+}
+
+function setCookie(name,value,days) {
+    if (days) {
+        var date = new Date();
+        date.setTime(date.getTime()+(days*24*60*60*1000));
+        var expires = "; expires="+date.toGMTString();
+    }
+    else var expires = "";
+    document.cookie = name+"="+value+expires+"; path=/";
+}
+
+<!-- AB Test code -->
+/*
+
+ */
+
+<!-- End AB Test code -->
+
+<!-- AB Test code to set custom variables using cookies -->
+var current_versions = ['E', 'F'];
+var version =  getCookie('content_test');
+if (typeof version !== 'undefined' && current_versions.indexOf(version) > -1) {
+    _gaq.push(['_setCustomVar', 4, 'ABTEST', version, 2]);
+}
+<!-- End AB Test code -->  
+
   _gaq.push(['_trackPageview']);
-
-
   (function() {
     var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
     ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
@@ -83,10 +132,12 @@ function googleTranslateElementInit() {
 </script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
 
 -->
+
+
 	<div id="header">
 		<div class="content">
 			<div id="sitelogo">
-				<a href="/"><img src="http://d3fenmrty8pej4.cloudfront.net/wp-content/uploads/connectify_logo-tagline-2.png" alt=""></a>
+				<a href="/"><img src="/wp-content/uploads/connectify_header-01.png" alt="Connectify Logo"></a>
 			</div>
 			
 			
@@ -98,8 +149,10 @@ Already Connectified? <a href="/login/">Sign In</a></div>
 	<li class="productlink"><a href="/dispatch/">Dispatch</a></li>
 	<li class="productlinklast"><a href="/switchboard/">Switchboard</a></li>
 	
-	<li><a href="/wp-aux/store.php?referrer=navbar_privacy-policy">Store</a></li>
-	<li><a href="http://support.connectify.me/home">Support</a></li>	<li class="last"><a href="/blog/">Blog</a></li>
+	<li><a href="/wp-aux/store.php?referrer=navbar_privacy-policy"><img style="padding-right:5px; margin-bottom:-2px;" src="/wp-content/uploads/cart-white.png">Store</a></li>
+	<li><a href="/volume-licensing/">Business</a></li>
+	<li><a href="http://community.connectify.me/connectify">Community</a></li>
+	<li class="last"><a href="/blog/">Blog</a></li>
 </ul>
 
 		</div>
@@ -292,7 +345,7 @@ You have the final decision on whether to proceed with any activity that request
                         </li>
                         <li class="smlink">
                                 <a href="https://plus.google.com/117521119981915007828" rel="publisher">
-                                        <img class="favicons" src="http://d3fenmrty8pej4.cloudfront.net/wp-content/uploads/googleplus.png">
+                                        <img class="favicons" src="/wp-content/uploads/googleplus.png">
                                         Join our Circle on Google+
                                 </a>
                         </li>
@@ -306,22 +359,22 @@ You have the final decision on whether to proceed with any activity that request
         </div>
 		
 		<div class="widget">
-                <a style="padding-left:10px;" href="/wp-aux/store.php?referrer=sidebar_privacy-policy"><img src="http://d3fenmrty8pej4.cloudfront.net/wp-content/uploads/sidebar_ad1.png"></a>
+                <a style="padding-left:10px;" href="/wp-aux/store.php?referrer=sidebar_privacy-policy"><img src="/wp-content/uploads/sidebar_ad1.png"></a>
         </div>
 
         <div class="widget">
                 <h2>Recent Posts</h2>
                 <ul>
-                                                <li class="item"><a href="http://www.connectify.me/kickstarter-beta-test-san-jose-speed-server/">
-<span class="sidebar_recent">Kickstarter Beta Test: San Jose Speed Server</span></a></li>
-                                                <li class="item"><a href="http://www.connectify.me/now-i-know-where-you-want-faster-internet/">
-<span class="sidebar_recent">Now I Know Where You Want Faster Internet</span></a></li>
-                                                <li class="item"><a href="http://www.connectify.me/new-release-connectify-5-01/">
-<span class="sidebar_recent">NEW RELEASE: Connectify 5.01</span></a></li>
-                                                <li class="item"><a href="http://www.connectify.me/where-do-you-want-faster-internet/">
-<span class="sidebar_recent">Where Do You Want Faster Internet?</span></a></li>
-                                                <li class="item"><a href="http://www.connectify.me/help-launch-connectify-switchboard-on-kickstarter/">
-<span class="sidebar_recent">Help Launch Connectify Switchboard on Kickstarter</span></a></li>
+                                                <li class="item"><a href="http://www.connectify.me/road-trip-success-with-connectify-hotspot/">
+<span class="sidebar_recent">Road Trip Success with Connectify Hotspot</span></a></li>
+                                                <li class="item"><a href="http://www.connectify.me/taking-google-quic-for-a-test-drive/">
+<span class="sidebar_recent">Taking Google’s QUIC For a Test Drive</span></a></li>
+                                                <li class="item"><a href="http://www.connectify.me/connectify-7-1-is-here/">
+<span class="sidebar_recent">Connectify 7.1 Has Arrived!</span></a></li>
+                                                <li class="item"><a href="http://www.connectify.me/thanksgiving-travel-sale/">
+<span class="sidebar_recent">40% OFF Connectify for Thanksgiving Travel</span></a></li>
+                                                <li class="item"><a href="http://www.connectify.me/why-i-love-internet-org/">
+<span class="sidebar_recent">Alex Connects: Why I Love Internet.org</span></a></li>
                                         </ul>
         </div>
 
@@ -344,6 +397,14 @@ You have the final decision on whether to proceed with any activity that request
 </li>
 	<li class="cat-item cat-item-4"><a href="http://www.connectify.me/category/brilliant-people/" title="View all posts filed under Brilliant People">Brilliant People</a>
 </li>
+	<li class="cat-item cat-item-22"><a href="http://www.connectify.me/category/coupons-and-offers/" title="View all posts filed under Coupons and Offers">Coupons and Offers</a>
+</li>
+	<li class="cat-item cat-item-21"><a href="http://www.connectify.me/category/dispatch-2/" title="View all posts filed under Dispatch">Dispatch</a>
+</li>
+	<li class="cat-item cat-item-25"><a href="http://www.connectify.me/category/dispatch-release/" title="View all posts filed under Dispatch Release">Dispatch Release</a>
+</li>
+	<li class="cat-item cat-item-24"><a href="http://www.connectify.me/category/hotspot-2/" title="View all posts filed under Hotspot">Hotspot</a>
+</li>
 	<li class="cat-item cat-item-17"><a href="http://www.connectify.me/category/kickstarter/" title="View all posts filed under Kickstarter">Kickstarter</a>
 </li>
 	<li class="cat-item cat-item-5"><a href="http://www.connectify.me/category/meet-the-team/" title="View all posts filed under Meet the Team">Meet the Team</a>
@@ -353,6 +414,8 @@ You have the final decision on whether to proceed with any activity that request
 	<li class="cat-item cat-item-19"><a href="http://www.connectify.me/category/posts-by-alex/" title="View all posts filed under Posts By Alex">Posts By Alex</a>
 </li>
 	<li class="cat-item cat-item-6"><a href="http://www.connectify.me/category/hotspot-release-notes/" title="View all posts filed under Release Notes">Release Notes</a>
+</li>
+	<li class="cat-item cat-item-23"><a href="http://www.connectify.me/category/switchboard/" title="View all posts filed under Switchboard">Switchboard</a>
 </li>
 	<li class="cat-item cat-item-7"><a href="http://www.connectify.me/category/tips-and-tricks/" title="View all posts filed under Tips &amp; Tricks">Tips &amp; Tricks</a>
 </li>
@@ -377,7 +440,7 @@ You have the final decision on whether to proceed with any activity that request
 					<li><span class="footer_subtitle">SOFTWARE</span></li>
 					<li><a href="/hotspot/">Connectify Hotspot</a></li>
 					<li><a href="/dispatch/">Connectify Dispatch</a></li>
-					<li><a href="https://sites.fastspring.com/connectify/instant/connectifyvolumelicensing?referrer=footer">Hotspot PRO for Teams</a></li>
+					<li><a href="/switchboard/">Connectify Switchboard</a></li>
 					</ul>
 
 				</div> <!-- footer_col (1) -->
@@ -415,9 +478,9 @@ You have the final decision on whether to proceed with any activity that request
 					<ul>
 					<li><span class="footer_subtitle">RECENT BLOG POSTS</span></li>
 					 
-					<li><a href="http://www.connectify.me/kickstarter-beta-test-san-jose-speed-server/">Kickstarter Beta Test: San Jose Speed Server</a></li>
+					<li><a href="http://www.connectify.me/road-trip-success-with-connectify-hotspot/">Road Trip Success with Connectify Hotspot</a></li>
 					 
-					<li><a href="http://www.connectify.me/now-i-know-where-you-want-faster-internet/">Now I Know Where You Want Faster Internet</a></li>
+					<li><a href="http://www.connectify.me/taking-google-quic-for-a-test-drive/">Taking Google’s QUIC For a Test Drive</a></li>
 										<li><a href="/blog/">Read More...</a></li>
 					</ul>
 					</div> <!-- content -->
@@ -449,11 +512,11 @@ You have the final decision on whether to proceed with any activity that request
 <!-- Web Engage Code End -->
 
 <!-- Crazy Egg Code Begin -->
-<!-- <script type="text/javascript">
+<script type="text/javascript">
 var country_code = '';
 var countries_to_track = [ 'US', 'GB', 'DE', 'AU', 'IN', 'CA', 'FR', 'RU', 'JP', 'IT' ];
-$.getJSON('http://api.wipmania.com/jsonp?callback=?', function (data) { 
-	country_code = data.address.country_code; 
+$.get('/wp-aux/loc.php', function (data) { 
+	country_code = data; 
 	if(jQuery.inArray( country_code, countries_to_track ) != -1 ) {
 		setTimeout(function(){var a=document.createElement("script");
 		var b=document.getElementsByTagName("script")[0];
@@ -461,7 +524,7 @@ $.getJSON('http://api.wipmania.com/jsonp?callback=?', function (data) {
 		a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
 	    }
       });
-</script> -->
+</script>
 <!-- Crazy Egg Code End --> 
 
 <script type="text/javascript">
@@ -475,7 +538,7 @@ $.getJSON('http://api.wipmania.com/jsonp?callback=?', function (data) {
 <!-- Performance optimized by W3 Total Cache. Learn more: http://www.w3-edge.com/wordpress-plugins/
 
 Page Caching using memcached
-Database Caching 3/10 queries in 0.005 seconds using memcached
-Object Caching 489/498 objects using memcached
+Database Caching 3/10 queries in 0.006 seconds using memcached
+Object Caching 504/513 objects using memcached
 
- Served from: www.connectify.me @ 2013-05-21 17:00:38 by W3 Total Cache --></body></html>
+ Served from: www.connectify.me @ 2013-11-20 16:35:07 by W3 Total Cache --></body></html>
