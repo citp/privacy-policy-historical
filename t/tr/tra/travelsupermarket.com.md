@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the travelsupermarket.com privacy policy that was archived on 2013-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130605191434id_/http%3A//www.moneysupermarket.com/legal/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the travelsupermarket.com privacy policy that was archived on 2013-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131120140605id_/http%3A//www.moneysupermarket.com/legal/privacypolicy.asp) for the most accurate reproduction.*
 
 # moneysupermarket.com - Legal Services
 
@@ -70,7 +70,7 @@ If you no longer wish to be contacted by third parties for marketing purposes, p
 
 
 
-Most cookies are deleted as soon as you close your browser, these are known as session cookies.  Others, known as persistent cookies, are stored on your computer either until you delete them or they expire.  By using this Service, you consent to us using cookies.   
+Most cookies are deleted as soon as you close your browser, these are known as session cookies.  Others, known as persistent cookies, are stored on your computer either until you delete them or they expire.  The cookie used to keep you signed in to your account expires after 90 days. Every time you visit moneysupermarket.com, you will be kept signed in for a further 90 days. By using this Service, you consent to us using cookies.    
 
 You can choose to block or delete cookies through your browser settings.  If you decide to block or delete our cookies, you will not be able to benefit from the full range of our Services and this may affect the performance of our website on your system.
 
@@ -96,4 +96,4 @@ You must check and ensure that all information, content, material or data you pr
 
 We may also need to collect information from you about other individuals, e.g. additional named drivers if you request a car insurance quotation. As explained in our Terms of Use, by submitting another person's details you are confirming to us that you have their permission to do so and that they understand how their details will be used.
 
-[](https://web.archive.org/web/20130605191434id_/http%3A//www.moneysupermarket.com/)
+[](https://web.archive.org/web/20131120140605id_/http%3A//www.moneysupermarket.com/)
