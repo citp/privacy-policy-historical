@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the htc.com privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602132027id_/http%3A//www.htc.com/us/terms/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the htc.com privacy policy that was archived on 2013-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131120165127id_/http%3A//www.htc.com/us/terms/privacy) for the most accurate reproduction.*
 
 # HTC privacy policy
 
@@ -106,7 +106,7 @@ You can use settings on your device and in your browser settings to change how w
 
 * **SECURITY OF YOUR PERSONAL INFORMATION**
 
-We strive to protect the personally identifiable information we get from you through our Services. Although we take steps to use and improve safeguards, no company can prevent every security risk or harm. If you become aware of a vulnerability affecting HTC Services please email [security@htc.com](mailto:security@htc.com) or visit this [website](https://web.archive.org/web/20130602132027id_/http://www.htc.com/us/terms/product-security) to report it.
+We strive to protect the personally identifiable information we get from you through our Services. Although we take steps to use and improve safeguards, no company can prevent every security risk or harm. If you become aware of a vulnerability affecting HTC Services please email [security@htc.com](mailto:security@htc.com) or visit this [website](https://web.archive.org/web/20131120165127id_/http://www.htc.com/us/terms/product-security) to report it.
 
 HTC Account lets you use a single user name and password to log on to HTCSense.com and other HTC applications and Services. Some HTC applications and Services require a different user name and password. Please protect your user names and passwords to help prevent anyone from accessing your accounts and Services.
 
