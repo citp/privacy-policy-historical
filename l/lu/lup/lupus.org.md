@@ -1,51 +1,55 @@
-> *The following text is extracted and transformed from the lupus.org privacy policy that was archived on 2013-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130530200909id_/http%3A//www.lupus.org/webmodules/webarticlesnet/templates/new_empty.aspx%3Farticleid%3D283%26zoneid%3D76) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lupus.org privacy policy that was archived on 2013-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131120064806id_/http%3A//www.lupus.org/pages/privacy-policy) for the most accurate reproduction.*
 
-# LUPUS FOUNDATION OF AMERICA - Privacy
+# Lupus Foundation of America
 
-## Privacy
+## Privacy Policy
 
-The Lupus Foundation of America is committed to protecting the privacy of its visitors.  Information gathered through the LFA websites is used to monitor our site's effectiveness, fulfill our mission, process your order or donation, provide programs and services, and respond to your questions and requests. Our websites include lupus.org, lupusnow.org, shoplupus.org, lupusvoices.org, walkforlupusnow.org, worldlupusday.org, lupusawarenessmonth.org, LFA-point.org and related subsites. 
+We respect the privacy of all visitors to our websites, which include lupus.org and its related sub-domains, the embedded websites of our national network affiliates, lupusnow.org, shoplupus.org, lupusvoices.org, walktoendlupus.org, worldlupusday.org, LFA-POINT.org, and cruelmystery.org. 
 
-##   
-Information We Collect and How We Use It 
+##  Why We Collect Information
 
-We collect information about the domain name (.com, .net, .edu, .gov) of a visitor's internet service provider, and the computer and software used to access our websites.  We use this information only for measurement purposes.  These measurements provide total website statistics, such as the number of visitors, how and when visitors arrived at our website, which pages were viewed most often, and the type and version of software used to view pages.  This information helps us effectively manage the website and plan future improvements. 
+We use data gathered through our websites to distribute information, conduct programs, provide services, process orders and donations, respond to questions, fulfill requests, monitor the effectiveness of our websites, and plan for future improvements.  We do not automatically collect email addresses or other personal information unless you provide it to us on a form, survey or within an email message.  
 
-##   
-Email Addresses
+##  The Type of Information We Collect
 
-We do not automatically collect email addresses or other personal information unless you provide it on a form, survey or email message.  The Lupus Foundation of America does not sell, trade, or rent personal information that you provide to us, except as noted below.
+###  Cookies
 
-  
-When you use the "Email This Article To A Friend" function, available within articles posted on our website, your email address is used only to let the recipient know who sent the article link, or in case of a transmission error.  Your email address and the recipient's email address are not recorded and will not be used for any other purpose. 
+Cookies are small files that our website places onto your computer to manage certain website features and to provide localized information. Cookies do not contain personal information.  Most web browsers give you options for preventing, accepting, or receiving notice of new cookies.  However, if you block cookies, some website features may be lost or not function properly.
 
-  
-The email address that you provide to us through an online form (Contact Us, eNewsletter, eAdvocates, 15 Questions, Ask the Experts, Message Boards, Media Spokespersons, Lupus Voices, etc.), or when you make a donation, purchase a product from our online store, or subscribe to our national magazine, _**Lupus Now**_ ®, is used to distribute receipts, acknowledgements, alerts, eNewsletters, announcements, breaking news, or other communications distributed by LFA, or by us at the request of another organization or partner offering products or services we believe may be of interest to you.  You will have the opportunity to unsubscribe from future email messages, or update your mailing lists preferences, by clicking on the appropriate link within the email message you receive.
+###  Statistical Data
 
-##   
-Online Activity
+We collect information about the total number of visitors, the date, time, length and frequency of visits, the average length of time and total number of times that visitors view each page, the device and software used to access our websites, how visitors arrived at our websites, and the domain name and locations of visitors' internet service providers.   We also compile lists of the keywords and search terms that visitors used to find information published on our websites, and the websites or search engines that referred visitors to our websites.
 
-We do not keep a record of the pages you view while visiting our websites.  However, when you click on a page link contained within an email message, advocacy alert or eNewsletter that you receive from us, that information is stored as part of your online profile.  This information helps us determine which articles or topics are of greatest interest to you so we can better serve you in the future.  The information is not shared with others and is used only to help us deliver information that is more tailored to your individual interests or needs.
+###  Personal Information
 
-##   
-Personal Information 
+When you order products or services from our online store, register for an event, program or class, subscribe to our magazine, or make a donation, we need to know your name, email address, mailing address, credit card number and expiration date, and the products or services you request from us.  This data allows us to process, fulfill, and acknowledge your order or donation.  
 
-When you order products or services from our online store, subscribe to our magazine, or make a donation, we need to know your name, email address, mailing address, credit card number and expiration date, and the products or services you request from the LFA.  This data allows us to process, fulfill, and acknowledge your order or donation.  Secure server software encrypts all information you input before it is sent to us.  Processing your order may require that your information be shared with third party vendors or contractors who provide services on our behalf (such as a firm that would package and ship publications or educational materials you order from us).  However, these third party firms are contractually required to keep this information strictly confidential.    
+Secure server software encrypts all of the information that you provide before transmitting the information to us.  Processing your order may require that we share your information with third party vendors or contractors who provide services on our behalf (such as firms that package and ship the publications or materials you order from us).  However, these third party firms are contractually required to keep this information strictly confidential. 
 
-  
-If you provide your mailing address to us, you may receive periodic mailings from the LFA via the U.S. mail.  You also may receive information that we mail on behalf of another organization or partner that we believe may be of interest to you.  If you do not wish to receive such mailings, please send your full name and mailing address, along with a request to be removed from our mail list, to [info@lupus.org](mailto:info@lupus.org), or you can write to us at LFA, 2000 L Street, N.W., Suite 410, Washington, DC 20036 - USA. 
+###  Online Activity
 
-##   
-Information Exchange 
+We do not keep a record of the pages you view while visiting our websites.  However, when you click on a page link contained within an email message, advocacy alert or eNewsletter that you receive from us, that information is stored as part of your online profile.  This information helps us determine which articles or topics are of greatest interest to you so we can better serve you in the future.  The information is not shared with others and is used only to help us deliver future content that is more tailored to your individual interests or needs.  
 
-The LFA periodically exchanges only the names and mailing addresses (not email addresses) of our donors, subscribers, and store customers with other organizations. We do not provide information about the amount you may have donated or its purpose, or the products or publications that you may have purchased from us or one of our cause-related marketing partners.  You may request that we not sell or exchange your name and mailing information by sending an email message to [info@lupus.org](mailto:info@lupus.org), or write to us at the address provided above.  Please include your full name, mailing address and a request that we not exchange your information with other organizations.
+###  Email addresses
 
-##   
-Consent
+We will ask for your email address when you sign up for our email list, register for an event or program, make a donation, purchase a product from our online store, submit a question, or subscribe to our national magazine.  We use your email address to respond to your inquiry, or to distribute receipts, acknowledgements, alerts, eNewsletters, announcements, breaking news, or other electronic communications.  You may opt out from receiving email communications from us at any time.  
 
-By using this or any other Lupus Foundation of America, Inc. website, you consent to the collection and use of the information as described above. Any changes to this policy will be posted. 
+We never share your email address with anyone outside of our organization.  Occasionally, we may distribute email messages to you on behalf of another organization or partner that is offering a program, product, service or information that we believe may be of interest to you.  You may unsubscribe from future email messages by sending your request to [info@lupus.org](mailto:info@lupus.org?subject=Remove%20from%20Email%20List), or by updating your email preferences by clicking on the appropriate link within the email message that you receive.
 
-_Revised  January 4, 2012 \-- Subject to change without notice._
+###  Surface Mail 
 
-  
+If you provide your mailing address to us, we periodically may send information to you through the U.S. Postal Service.  You also may receive information we mail on behalf of another organization or partner that we believe may be of interest to you.  You may choose to opt out of receiving some or all surface mailings from us.  Send your full name and complete mailing address (along with any codes that were printed on the mailing label), and the type of information that you no longer wish to receive from us.  Send your request to [info@lupus.org](mailto:info@lupus.org?subject=Surface%20Mailing%20List%20Removal) or write to us at 2000 L Street, N.W., Suite 410, Washington, DC 20036 - USA.  
 
+##  Information Exchange
+
+Periodically, we will exchange only the names and mailing addresses (not email addresses) of our donors, event participants, subscribers, and store customers with other reputable non-profit organizations. We do not provide information about the amount you may have donated or its purpose, or the products or publications that you may have purchased from us, or one of our cause-related marketing partners.  You may request that we not sell or exchange your name and mailing information with other organizations by sending an email message to [info@lupus.org](mailto:info@lupus.org?subject=Do%20Not%20Exchange%20Information%20), or by writing to us at the address provided above.  Please include your full name and complete mailing address (along with any other information that will help us to locate your record) and a request that we not exchange your information with other organizations.
+
+##  Personal Medical Information
+
+The Lupus Foundation of America maintains the Lupus Research Registry as part of our Center for Clinical Trials Information (lupus.org/clinicaltrials).  The Registry collects demographic data, and lupus, medical, and treatment history.  The personal information we collect when you sign up for the Registry helps us to provide information on lupus clinical trials that may be underway in your area. We will never give, rent, sell or distribute your private, personally identifiable information entered into the Lupus Research Registry to any outside organization. We keep your personal information strictly confidential and fully secure unless you, the user, specifically request otherwise.   
+
+##  Consent
+
+By using this or any Lupus Foundation of America, Inc. website, you consent to the collection and use of the information as described above. We reserve the right to update or modify this Privacy Policy at any time. 
+
+_Revised July 11, 2013 -- Subject to change without notice._
