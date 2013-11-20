@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the isro.gov.in privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501090000id_/http%3A//isro.gov.in/scripts/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the isro.gov.in privacy policy that was archived on 2013-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131120164909id_/http%3A//www.isro.gov.in/scripts/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Welcome To Indian Space Research Organisation - Privacy Policy
 
