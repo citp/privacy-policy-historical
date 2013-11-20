@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the markethealth.com privacy policy that was archived on 2013-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130628085039id_/http%3A//www.markethealth.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the markethealth.com privacy policy that was archived on 2013-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131120024809id_/http%3A//www.markethealth.com/privacypolicy.php) for the most accurate reproduction.*
 
 # Health and Beauty Affiliate Programs by MarketHealth.com
 
-**This page sets forth the privacy policies and practices of Market Health, Inc. and its affiliated companies within the MarketHealth Marketing Network ("MarketHealth Network" "MarketHealth" "we" or "us") and includes the following principal Internet sites:**
+**This page sets forth the privacy policies and practices of Market Health and its affiliated companies within the MarketHealth Marketing Network ("MarketHealth Network" "MarketHealth" "we" or "us") and includes the following principal Internet sites:**
 
 **MarketHealth.com  
 Herbalbiz.com**  
@@ -160,7 +160,7 @@ YOU UNDERSTAND AND AGREE THAT ANY DISPUTE OVER PRIVACY IS SUBJECT TO THE TERMS A
 **IX. CONTACT US**  
 For more information or if you have questions or concerns regarding the MarketHealth Network Privacy Policy, please contact us at <http://www.markethealth.com/contact.php> or you can send correspondence to the following address: 
 
-**Privacy, Market Health, Inc.,**  
+**Privacy, Market Health,**  
 350 N. Glenoakd Blvd, Ste. 305,   
 Burbank, CA 91502
 
@@ -168,5 +168,5 @@ Burbank, CA 91502
 
 **Updated November 16, 2007**
 
-**Copyright © 2007, Market Health Inc. All rights reserved.  
+**Copyright © 2007, Market Health All rights reserved.  
 **
