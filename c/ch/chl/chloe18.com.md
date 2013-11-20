@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chloe18.com privacy policy that was archived on 2013-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130603083115id_/http%3A//chloe18.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chloe18.com privacy policy that was archived on 2013-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131120212419id_/http%3A//chloe18.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy
 
