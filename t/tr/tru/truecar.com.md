@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the truecar.com privacy policy that was archived on 2013-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130520232614id_/http%3A//www.truecar.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the truecar.com privacy policy that was archived on 2013-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131120233246id_/http%3A//www.truecar.com/privacy) for the most accurate reproduction.*
 
 # TrueCar Privacy Policy
 
