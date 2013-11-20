@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gshiftlabs.com privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602205157id_/http%3A//www.gshiftlabs.com/company/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gshiftlabs.com privacy policy that was archived on 2013-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131120125911id_/http%3A//www.gshiftlabs.com/company/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -30,7 +30,7 @@ gShift Labs provides the Web hosting and technical support services of this Webs
 gShift Labs collects and uses your information only for the following purposes:
 
   * to provide you with our blog and news alert services;
-  * to respond to your requests for further information about our WPO software system Web Presence Optimizer™;
+  * to respond to your requests for further information about our WPO software system Web Presence Optimizer™ and SEO reports;
   * to register individuals to gShift Labs’ User Group or events;
   * to provide gShift Labs’ clients and partners with reliable and quality support; and
   * to meet legal and regulatory requirements.
