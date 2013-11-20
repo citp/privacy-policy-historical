@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the catholic-hierarchy.org privacy policy that was archived on 2013-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130521235542id_/http%3A//catholic-hierarchy.org/privpol.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the catholic-hierarchy.org privacy policy that was archived on 2013-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131121005729id_/http%3A//catholic-hierarchy.org/privpol.html) for the most accurate reproduction.*
 
 # Privacy Policy [Catholic-Hierarchy]
 
@@ -38,3 +38,13 @@ You can refuse cookies by turning them off in your browser. If you've set your b
 
 
 We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.google.com/privacy_ads.html). 
+
+## Google Analytics
+
+We use analytics tools and other third party technologies, such as Google Analytics and DoubleClick Cookies, to collect non-personal information in the form of various usage and user metrics when you use our online Sites and/or Services. These tools and technologies collect and analyze certain types of information, including cookies, IP addresses, device and software identifiers, referring and exit URLs, onsite behavior and usage information, feature use metrics and statistics, and other similar information. 
+
+The third party analytics companies who collect information on our Sites and/or Services and other online products and/or services may combine the information collected with other information they have independently collected from other websites and/or other online or mobile products and services relating to your activities across their network of websites as well as online and/or mobile products and services. Many of these companies collect and use information under their own privacy policies. 
+
+We have implemented Google Analytics Demographics and Interest Reporting on the site. The data is used to better understand the site's audience with the goal of making the site easier to use and more useful. 
+
+You may opt out of the DoubleClick cookie by visiting the [Google advertising opt-out page](http://www.google.com/policies/technologies/ads/) or you may opt out of Google Analytics by visiting the [Google Analytics opt-out page](http://tools.google.com/dlpage/gaoptout). You may opt out of Google Analytics for Display Advertising and customize Google Display Network ads using the [Ads Settings](https://www.google.com/settings/ads). 
