@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the sameip.org privacy policy that was archived on 2013-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130526085000id_/http%3A//sameip.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sameip.org privacy policy that was archived on 2013-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131120014230id_/http%3A//sameip.org/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | SameIP.org
 
-[ ](http://www.kqzyfj.com/click-3947512-10569220)
+[ ](http://www.ipage.com/join/index.bml?AffID=719404&LinkName=sameip)
 
 The privacy of our visitors to sameip.org is important to us.
 
@@ -47,4 +47,4 @@ In order to enable privacy protection for your domain name, you need to contact 
 
 Still have questions? Please [contact us](https://web.archive.org/contact "contact us")
 
-[Daily Domain Spy](http://dailydomainspy.com/) | [Daily Domains](http://dailydomains.org/) | [Name Server Spy](http://nameserverspy.org/)
+[Compare Hosting](http://www.comparehostings.com/ "Compare Hosting") [Compare Web Hosting](http://www.comparehostings.com/webhosting/ "Compare Web Hosting")
