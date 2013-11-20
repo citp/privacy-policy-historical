@@ -1,16 +1,8 @@
-> *The following text is extracted and transformed from the jailbase.com privacy policy that was archived on 2013-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130521215435id_/http%3A//www.jailbase.com/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jailbase.com privacy policy that was archived on 2013-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131120214716id_/http%3A//www.jailbase.com/en/privacy) for the most accurate reproduction.*
 
 # Privacy | JailBase
 
-[Jail Base](https://web.archive.org/)
-
-### Inmate Information and Notification
-
-* * *
-
-* * *
-
-**JailBase Privacy Policy**
+### JailBase Privacy Policy
 
 Effective March 14, 2012 
 
