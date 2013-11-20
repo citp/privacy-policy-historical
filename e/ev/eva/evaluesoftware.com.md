@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the evaluesoftware.com privacy policy that was archived on 2013-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130613031940id_/http%3A//www.evaluesoftware.com/index.php%3Fl%3Dpage_view%26p%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the evaluesoftware.com privacy policy that was archived on 2013-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131120025048id_/http%3A//www.evaluesoftware.com/index.php%3Fl%3Dpage_view%26p%3Dprivacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
