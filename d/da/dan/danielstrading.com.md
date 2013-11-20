@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the danielstrading.com privacy policy that was archived on 2013-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130520172238id_/http%3A//www.danielstrading.com/legal-notices/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the danielstrading.com privacy policy that was archived on 2013-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131120232333id_/http%3A//www.danielstrading.com/legal-notices/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Daniels Trading
 
@@ -8,12 +8,12 @@ Daniels Trading is committed to safeguarding the personal information that you p
 
 ## Why and How We Collect Personal Information
 
-When you apply for or maintain an account with Daniels Trading, we collect personal information about you for business purposes, such as evaluating your financial needs, processing your requests and transactions, informing you about products and services that may be of interest to you, and providing customer service. The personal information we collect about you includes: 
+When you apply for or maintain an account with Daniels Trading, we collect personal information about you for business purposes, such as evaluating your financial needs, processing your requests and transactions, informing you about products and services that may be of interest to you, and providing customer service. The personal information we collect about you includes:
 
-  * information you provide to us on applications and other forms, such as your name, address, date of birth, social security number, occupation, assets, and income;
-  * information about your transactions with us and with our affiliates;
-  * information we receive from consumer reporting agencies, such as your credit history and creditworthiness, and other entities not affiliated with Daniels Trading; and
-  * information you provide to us to verify your identity, such as a passport, or received from other entities not affiliated with Daniels Trading.
+  * Information you provide to us on applications and other forms, such as your name, address, date of birth, social security number, occupation, assets, and income;
+  * Information about your transactions with us and with our affiliates;
+  * Information we receive from consumer reporting agencies, such as your credit history and creditworthiness, and other entities not affiliated with Daniels Trading; and
+  * Information you provide to us to verify your identity, such as a passport, or received from other entities not affiliated with Daniels Trading.
 
 
 
@@ -27,7 +27,7 @@ We may share personal information described above with our affiliates for busine
 
 ## Disclosure to Non-Affiliated Third Parties
 
-In order to support the financial products and services we provide to you, we may share the personal information described above with third-party service providers and joint marketers not affiliated with us, including: 
+In order to support the financial products and services we provide to you, we may share the personal information described above with third-party service providers and joint marketers not affiliated with us, including:
 
   * financial service institutions (e.g., advisers, dealers, brokers, trust companies and banks) with whom we have joint marketing agreements, such as agreements to market financial services or products that we jointly offer, endorse or sponsor; and
   * companies under contract to perform services for us or on our behalf, such as vendors that prepare and mail statements and transaction confirmations or provide data processing, computer software maintenance and development, transaction processing and marketing services.
@@ -42,14 +42,14 @@ Also, we may disclose personal information with non-affiliated companies and reg
 
 We endeavor to keep our customer files complete and accurate. We will give you reasonable access to the information we have about you. Most of this information is contained in account statements that you receive from us and applications that you submit to obtain our products and services. We encourage you to review this information and notify us if you believe any information should be corrected or updated. If you have a question or concern about your personal information or this privacy notice, please contact your Daniels Trading representative.
 
-## "Opt-out" of Promotional Communications
+## “Opt-out” of Promotional Communications
 
 You may opt-out of promotional communications via the following methods:
 
-  * Visit <http://www.danielstrading.com/content/unsub.php> to unsubscribe from E-mail lists.
-  * Send an E-mail to: [optout@danielstrading.com](mailto:optout@danielstrading.com)
+  * Visit <http://www.danielstrading.com/subscription/unsubscribe/> to unsubscribe from E-mail lists.
+  * Send an E-mail to: [optout@danielstrading.com](mailto:optout@danielstrading.com)
   * Send a letter to:  
-Daniels Trading - OPT-OUT  
+Daniels Trading – OPT-OUT  
 100 South Wacker Drive  
 Suite 1225  
 Chicago, IL 60606
