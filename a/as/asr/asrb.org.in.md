@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the asrb.org.in privacy policy that was archived on 2013-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130531015025id_/http%3A//asrb.org.in/index.php%3Foption%3Dcom_content%26task%3Dview%26id%3D99%26Itemid%3D219) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asrb.org.in privacy policy that was archived on 2013-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131120205851id_/http%3A//asrb.org.in/index.php%3Foption%3Dcom_content%26task%3Dview%26id%3D99%26Itemid%3D219) for the most accurate reproduction.*
 
 # Agricultural Scientists Recruitment Board - Privacy Policy
 
